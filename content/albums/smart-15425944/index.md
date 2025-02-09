@@ -53,31 +53,31 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inbetweener | 3:18 |
-| A2 | Swallow | 2:41 |
-| A3 | Delicious | 3:01 |
-| A4 | Hunch | 3:38 |
-| A5 | Amuse | 2:09 |
-| A6 | Bedhead | 3:00 |
-| A7 | Lady Love Your Countryside | 2:39 |
-| B8 | Vegas | 3:15 |
-| B9 | Poor Flying Man | 4:01 |
-| B10 | Alice In Vain | 3:35 |
-| B11 | Twisted | 3:01 |
-| B12 | Pyrotechnician | 3:26 |
-|  | Bonus Tracks |  |
-| C1 | Bedside Manners | 2:53 |
-| C2 | Tatty | 3:56 |
-| C3 | Little Annie | 2:48 |
-| C4 | It's Wrong Of You To Breed | 3:00 |
-| C5 | One Girl Dreaming | 4:19 |
-| D6 | Alice In Vain (Single Version) | 3:31 |
-| D7 | Hymn To Her | 3:33 |
-| D8 | Big Nurse | 4:08 |
-| D9 | Ha Ha You're Dead | 3:31 |
-| D10 | Bank | 1:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Inbetweener |
+| A2 | Swallow |
+| A3 | Delicious |
+| A4 | Hunch |
+| A5 | Amuse |
+| A6 | Bedhead |
+| A7 | Lady Love Your Countryside |
+| B8 | Vegas |
+| B9 | Poor Flying Man |
+| B10 | Alice In Vain |
+| B11 | Twisted |
+| B12 | Pyrotechnician |
+|  | Bonus Tracks |
+| C1 | Bedside Manners |
+| C2 | Tatty |
+| C3 | Little Annie |
+| C4 | It's Wrong Of You To Breed |
+| C5 | One Girl Dreaming |
+| D6 | Alice In Vain (Single Version) |
+| D7 | Hymn To Her |
+| D8 | Big Nurse |
+| D9 | Ha Ha You're Dead |
+| D10 | Bank |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 | Format         | Vinyl LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition (Clear) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |
-| Notes | 25th Anniversary Edition. Includes 14 page colour booklet<br>Made in the EU  |
+| Notes | 25th Anniversary Edition. Includes 14 page colour booklet Made in the EU  |
 | Discogs URL    | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-2-Smart) |

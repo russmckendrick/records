@@ -37,32 +37,32 @@ The album is the band's longest to date at twenty-four tracks. After the decisio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Babel On |  |
-| A2 | Universal Stalker |  |
-| A3 | The Ego Delusion |  |
-| A4 | Pineal Gland Hotel |  |
-| A5 | Ra 88 |  |
-| A6 | Second Life Replay |  |
-| B1 | Thrill Me |  |
-| B2 | Fly |  |
-| B3 | Pictures Of Youth |  |
-| B4 | Mensa's Marauders |  |
-| B5 | Just A Brother |  |
-| B6 | Distorted Child |  |
-| C1 | Everything Beautiful Must Die |  |
-| C2 | The Fan Who Wasn't There |  |
-| C3 | Flipside |  |
-| C4 | Lost Prophets In Vain |  |
-| C5 | Songs Of The Ocean |  |
-| C6 | Digitarian Riverbank |  |
-| D1 | Reconnecting The Dots |  |
-| D2 | Without Warning |  |
-| D3 | Utopia |  |
-| D4 | Saturation Wanderers |  |
-| D5 | Lifeline |  |
-| D6 | The Passover |  |
+| Position | Title |
+|----------|--------|
+| A1 | Babel On |
+| A2 | Universal Stalker |
+| A3 | The Ego Delusion |
+| A4 | Pineal Gland Hotel |
+| A5 | Ra 88 |
+| A6 | Second Life Replay |
+| B1 | Thrill Me |
+| B2 | Fly |
+| B3 | Pictures Of Youth |
+| B4 | Mensa's Marauders |
+| B5 | Just A Brother |
+| B6 | Distorted Child |
+| C1 | Everything Beautiful Must Die |
+| C2 | The Fan Who Wasn't There |
+| C3 | Flipside |
+| C4 | Lost Prophets In Vain |
+| C5 | Songs Of The Ocean |
+| C6 | Digitarian Riverbank |
+| D1 | Reconnecting The Dots |
+| D2 | Without Warning |
+| D3 | Utopia |
+| D4 | Saturation Wanderers |
+| D5 | Lifeline |
+| D6 | The Passover |
 
 
 ## Apple Music

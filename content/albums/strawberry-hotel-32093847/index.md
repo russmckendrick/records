@@ -38,23 +38,23 @@ Strawberry Hotel is the eleventh studio album by British electronic group Underw
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A01 | Black Poppies | 2:52 |
-| A02 | Denver Luna | 8:01 |
-| A03 | Techno Shinkansen | 3:23 |
-| A04 | And The Colour Red | 5:42 |
-| B05 | Sweet Lands Experience | 4:44 |
-| B06 | Lewis In Pomona | 5:38 |
-| B07 | Hilo Sky | 5:04 |
-| B08 | Burst Of Laughter | 3:27 |
-| C09 | King Of Haarlem | 3:46 |
-| C10 | Ottavia | 5:00 |
-| C11 | Denver Luna (Acappella) | 2:27 |
-| D12 | Gene Pool | 9:07 |
-| D13 | Oh Thorn! | 1:59 |
-| D14 | Iron Bones | 4:39 |
-| D15 | Stick Man Test | 2:35 |
+| Position | Title |
+|----------|--------|
+| A01 | Black Poppies |
+| A02 | Denver Luna |
+| A03 | Techno Shinkansen |
+| A04 | And The Colour Red |
+| B05 | Sweet Lands Experience |
+| B06 | Lewis In Pomona |
+| B07 | Hilo Sky |
+| B08 | Burst Of Laughter |
+| C09 | King Of Haarlem |
+| C10 | Ottavia |
+| C11 | Denver Luna (Acappella) |
+| D12 | Gene Pool |
+| D13 | Oh Thorn! |
+| D14 | Iron Bones |
+| D15 | Stick Man Test |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Strawberry Hotel is the eleventh studio album by British electronic group Underw
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Smith Hyde Productions |
 | Catalog Number | UWR00098 |
-| Notes | Underworld’s 11th studio album ‘Strawberry Hotel’ on double vinyl gatefold, <br>180grm black heavy-weight vinyl cut at half speed.<br><br>Track C10 "Ottavia": Text translated by Esme from Claudio Monteverdis Lincoronazionedi Poppea.<br><br>Rick Smith and Karl Hyde are published by Universal Music Publishing (PRS).<br>℗ & © 2024 Underworld t/a Smith Hyde Productions. Distributed by Virgin Music. |
+| Notes | Underworld’s 11th studio album ‘Strawberry Hotel’ on double vinyl gatefold,  180grm black heavy-weight vinyl cut at half speed.  Track C10 "Ottavia": Text translated by Esme from Claudio Monteverdis Lincoronazionedi Poppea.  Rick Smith and Karl Hyde are published by Universal Music Publishing (PRS). ℗ & © 2024 Underworld t/a Smith Hyde Productions. Distributed by Virgin Music. |
 | Discogs URL    | [Underworld - Strawberry Hotel](https://www.discogs.com/release/32093847-Underworld-Strawberry-Hotel) |

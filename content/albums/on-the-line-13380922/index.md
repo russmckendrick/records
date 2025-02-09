@@ -57,19 +57,19 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heads Gonna Roll | 5:13 |
-| A2 | Wasted Youth | 4:13 |
-| A3 | Red Bull & Hennessy | 4:48 |
-| A4 | Hollywood Lawn | 4:34 |
-| A5 | Do Si Do | 3:54 |
-| B1 | Dogwood | 4:28 |
-| B2 | Party Clown | 4:09 |
-| B3 | Little White Dove | 4:49 |
-| B4 | Taffy | 4:27 |
-| B5 | On The Line | 3:48 |
-| B6 | Rabbit Hole | 2:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Heads Gonna Roll |
+| A2 | Wasted Youth |
+| A3 | Red Bull & Hennessy |
+| A4 | Hollywood Lawn |
+| A5 | Do Si Do |
+| B1 | Dogwood |
+| B2 | Party Clown |
+| B3 | Little White Dove |
+| B4 | Taffy |
+| B5 | On The Line |
+| B6 | Rabbit Hole |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 585764-1 |
-| Notes | Recorded at Capitol Studios<br>Additional recording at Neptune Valley Studio<br><br>Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)<br><br>Ryan Adams appears courtesy of Blue Note Records.<br><br>Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits. <br><br>Warner Bros. Records Inc., A Warner Music Group Company.<br>© ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Printed in Canada.<br>Manufactured in Germany. |
+| Notes | Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany. |
 | Discogs URL    | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |

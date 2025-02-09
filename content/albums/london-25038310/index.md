@@ -31,20 +31,20 @@ London is the fifth album by the British rock band Jesus Jones in 2001 through K
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Message | 2:24 |
-| A2 | Stranger | 3:28 |
-| A3 | The Rocket Ship Of La Jolla | 3:51 |
-| A4 | Asleep On The Motorway | 3:17 |
-| A5 | Hello Neon! | 4:05 |
-| A6 | The A Team | 3:09 |
-| B1 | Half Up The Hill | 3:28 |
-| B2 | The Princess Of My Heart | 3:34 |
-| B3 | Getaway Car | 2:43 |
-| B4 | To Get There | 4:28 |
-| B5 | Nowhere Slow | 4:01 |
-| B6 | In The Face Of All Of This | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Message |
+| A2 | Stranger |
+| A3 | The Rocket Ship Of La Jolla |
+| A4 | Asleep On The Motorway |
+| A5 | Hello Neon! |
+| A6 | The A Team |
+| B1 | Half Up The Hill |
+| B2 | The Princess Of My Heart |
+| B3 | Getaway Car |
+| B4 | To Get There |
+| B5 | Nowhere Slow |
+| B6 | In The Face Of All Of This |
 
 
 ## Apple Music

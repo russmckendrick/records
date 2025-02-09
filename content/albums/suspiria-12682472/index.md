@@ -42,33 +42,33 @@ Suspiria was Yorke's first feature film score, and incorporates instrumental tra
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Storm That Took Everything | 1:47 |
-| A2 | The Hooks | 3:18 |
-| A3 | Suspirium | 3:22 |
-| A4 | Belongings Thrown In A River | 1:28 |
-| A5 | Has Ended | 4:56 |
-| A6 | Klemperer Walks | 1:39 |
-| A7 | Open Again | 2:50 |
-| B1 | Sabbath Incantation  | 3:07 |
-| B2 | The Inevitable Pull | 1:37 |
-| B3 | Olga's Destruction (Volk Tape) | 3:00 |
-| B4 | The Conjuring Of Anke | 2:15 |
-| B5 | A Light Green | 1:49 |
-| B6 | Unmade | 4:27 |
-| B7 | The Jumps | 2:39 |
-| C1 | Volk | 6:24 |
-| C2 | The Universe Is Indifferent | 4:49 |
-| C3 | The Balance Of Things | 1:08 |
-| C4 | A Soft Hand Across Your Face | 0:44 |
-| C5 | Suspirium Finale | 7:03 |
-| D1 | A Choir Of One | 14:02 |
-| D2 | Synthesizer Speaks | 0:59 |
-| D3 | The Room Of Compartments | 1:15 |
-| D4 | An Audition | 0:34 |
-| D5 | Voiceless Terror | 2:30 |
-| D6 | The Epilogue | 2:47 |
+| Position | Title |
+|----------|--------|
+| A1 | A Storm That Took Everything |
+| A2 | The Hooks |
+| A3 | Suspirium |
+| A4 | Belongings Thrown In A River |
+| A5 | Has Ended |
+| A6 | Klemperer Walks |
+| A7 | Open Again |
+| B1 | Sabbath Incantation  |
+| B2 | The Inevitable Pull |
+| B3 | Olga's Destruction (Volk Tape) |
+| B4 | The Conjuring Of Anke |
+| B5 | A Light Green |
+| B6 | Unmade |
+| B7 | The Jumps |
+| C1 | Volk |
+| C2 | The Universe Is Indifferent |
+| C3 | The Balance Of Things |
+| C4 | A Soft Hand Across Your Face |
+| C5 | Suspirium Finale |
+| D1 | A Choir Of One |
+| D2 | Synthesizer Speaks |
+| D3 | The Room Of Compartments |
+| D4 | An Audition |
+| D5 | Voiceless Terror |
+| D6 | The Epilogue |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ Suspiria was Yorke's first feature film score, and incorporates instrumental tra
 | Format         | Vinyl 2× LP Album (Pink) |
 | Label          | XL Recordings |
 | Catalog Number | XL936LP |
-| Notes | Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves.<br>Blue style screen print design forming cover image.<br>Additional information on back sleeve in White lettering.<br>Each LP comes in a custom inner sleeve.<br><br>1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video. |
+| Notes | Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves. Blue style screen print design forming cover image. Additional information on back sleeve in White lettering. Each LP comes in a custom inner sleeve.  1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video. |
 | Discogs URL    | [Thom Yorke - Suspiria](https://www.discogs.com/release/12682472-Thom-Yorke-Suspiria) |

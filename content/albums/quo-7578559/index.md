@@ -31,16 +31,16 @@ For a full list of the band's songs, see List of songs by Status Quo.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Backwater | 4:21 |
-| A2 | Just Take Me | 3:39 |
-| A3 | Break The Rules | 3:40 |
-| A4 | Drifting Away | 5:05 |
-| B1 | Don't Think It Matters | 4:55 |
-| B2 | Fine Fine Fine | 2:30 |
-| B3 | Lonely Man | 5:00 |
-| B4 | Slow Train | 7:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Backwater |
+| A2 | Just Take Me |
+| A3 | Break The Rules |
+| A4 | Drifting Away |
+| B1 | Don't Think It Matters |
+| B2 | Fine Fine Fine |
+| B3 | Lonely Man |
+| B4 | Slow Train |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ For a full list of the band's songs, see List of songs by Status Quo.
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723764 |
-| Notes | Comes as 180 gram Vinyl with a poster and a 4-page inlay<br><br>© 1974 Mercury Records Limited/Universal Music Catalogue<br>℗ 1974 Mercury Records Limited<br><br> |
+| Notes | Comes as 180 gram Vinyl with a poster and a 4-page inlay  © 1974 Mercury Records Limited/Universal Music Catalogue ℗ 1974 Mercury Records Limited   |
 | Discogs URL    | [Status Quo - Quo](https://www.discogs.com/release/7578559-Status-Quo-Quo) |

@@ -30,19 +30,19 @@ styles: ["Leftfield", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Phosphorous |  |
-| A2 | Moonshine |  |
-| A3 | Armageddon Waits |  |
-| A4 | Bulletproof |  |
-| A5 | The Secret Of Letting Go |  |
-| A6 | Imperial Measures |  |
-| B1 | The Other Shore |  |
-| B2 | Deep Delirium |  |
-| B3 | Illumina |  |
-| B4 | The Silence In Between |  |
-| B5 | One Hand Clapping |  |
+| Position | Title |
+|----------|--------|
+| A1 | Phosphorous |
+| A2 | Moonshine |
+| A3 | Armageddon Waits |
+| A4 | Bulletproof |
+| A5 | The Secret Of Letting Go |
+| A6 | Imperial Measures |
+| B1 | The Other Shore |
+| B2 | Deep Delirium |
+| B3 | Illumina |
+| B4 | The Silence In Between |
+| B5 | One Hand Clapping |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Leftfield", "Downtempo"]
 | Format         | Vinyl LP Album Limited Edition (180g) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP728 |
-| Notes | Sticker on front shrink:<br>"Ltd edition<br>180g heavyweight vinyl<br>in gatefold sleeve<br>Features the singles<br>'Armageddon Waits'<br>and 'Moonshine'<br>Includes download card of the album"<br><br>Label has cat number as COOKCD728 on both sides |
+| Notes | Sticker on front shrink: "Ltd edition 180g heavyweight vinyl in gatefold sleeve Features the singles 'Armageddon Waits' and 'Moonshine' Includes download card of the album"  Label has cat number as COOKCD728 on both sides |
 | Discogs URL    | [Lamb - The Secret Of Letting Go](https://www.discogs.com/release/13558086-Lamb-The-Secret-Of-Letting-Go) |

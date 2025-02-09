@@ -32,20 +32,20 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Aladdin | 4:13 |
-| A2 | Time On Her Side | 3:39 |
-| A3 | Ran | 3:26 |
-| A4 | Beauty on the Road | 4:09 |
-| A5 | Cave | 3:52 |
-| A6 | Through The Roses | 3:15 |
-| B1 | North Star | 3:35 |
-| B2 | Ancient Waters | 3:56 |
-| B3 | Candles | 3:57 |
-| B4 | Day Glow Fire | 3:49 |
-| B5 | Shadows | 4:05 |
-| B6 | Black Rose | 3:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Aladdin |
+| A2 | Time On Her Side |
+| A3 | Ran |
+| A4 | Beauty on the Road |
+| A5 | Cave |
+| A6 | Through The Roses |
+| B1 | North Star |
+| B2 | Ancient Waters |
+| B3 | Candles |
+| B4 | Day Glow Fire |
+| B5 | Shadows |
+| B6 | Black Rose |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 | Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
 | Label          | 4AD |
 | Catalog Number | 4AD0001LPX |
-| Notes | Inner sleeve with images.<br>Incl. mp3 download code.<br>Incl. cardboard inlay with lyrics and info.<br><br>The album title was inspired by the Theodore Roethke book of the same name. |
+| Notes | Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name. |
 | Discogs URL    | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |

@@ -38,17 +38,17 @@ The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | So Far Away |  |
-| A2 | Money For Nothing |  |
-| B1 | Walk Of Life |  |
-| B2 | Your Latest Trick |  |
-| C1 | Why Worry |  |
-| C2 | Ride Across The River |  |
-| D1 | The Man's Too Strong |  |
-| D2 | One World |  |
-| D3 | Brothers In Arms |  |
+| Position | Title |
+|----------|--------|
+| A1 | So Far Away |
+| A2 | Money For Nothing |
+| B1 | Walk Of Life |
+| B2 | Your Latest Trick |
+| C1 | Why Worry |
+| C2 | Ride Across The River |
+| D1 | The Man's Too Strong |
+| D2 | One World |
+| D3 | Brothers In Arms |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical an
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Label          | Vertigo |
 | Catalog Number | 3752907 |
-| Notes | This version contains the full-length songs of the album, total playing time of 55:07. The original single album LP length is 47:21. Songs "So Far Away", "Money For Nothing", "Your Latest Trick" and "Why Worry" were edited on that release.<br><br>The timings in parenthesis are the original vinyl lengths:<br><br>"So Far Away" - 5:12 (3:59)<br>"Money for Nothing" - 8:26 (7:04)<br>"Your Latest Trick" - 6:33 (4:46)<br>"Why Worry" - 8:31 (5:22)<br><br>Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig.<br><br>Includes A Voucher To Download MP3 Version Of The Album.<br><br>Made in the EU. |
+| Notes | This version contains the full-length songs of the album, total playing time of 55:07. The original single album LP length is 47:21. Songs "So Far Away", "Money For Nothing", "Your Latest Trick" and "Why Worry" were edited on that release.  The timings in parenthesis are the original vinyl lengths:  "So Far Away" - 5:12 (3:59) "Money for Nothing" - 8:26 (7:04) "Your Latest Trick" - 6:33 (4:46) "Why Worry" - 8:31 (5:22)  Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig.  Includes A Voucher To Download MP3 Version Of The Album.  Made in the EU. |
 | Discogs URL    | [Dire Straits - Brothers In Arms](https://www.discogs.com/release/5736935-Dire-Straits-Brothers-In-Arms) |

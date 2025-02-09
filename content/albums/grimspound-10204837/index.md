@@ -31,16 +31,16 @@ The site was designate as a scheduled monument in 1928.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Brave Captain | 12:37 |
-| A2 | On The Racing Line | 5:12 |
-| B1 | Experimental Gentlemen: Part 1 Reflectors Of Light Part 2 Merchants Of Light Part 3: The Wonder Of It All | 10:01 |
-| B2 | Grimspound | 6:56 |
-| C1 | Meadowland | 3:36 |
-| C2 | The Ivy Gate | 7:27 |
-| C3 | As The Crow Flies | 6:44 |
-| D1 | A Mead Hall In Winter | 15:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Brave Captain |
+| A2 | On The Racing Line |
+| B1 | Experimental Gentlemen: Part 1 Reflectors Of Light Part 2 Merchants Of Light Part 3: The Wonder Of It All |
+| B2 | Grimspound |
+| C1 | Meadowland |
+| C2 | The Ivy Gate |
+| C3 | As The Crow Flies |
+| D1 | A Mead Hall In Winter |
 
 
 ## Apple Music

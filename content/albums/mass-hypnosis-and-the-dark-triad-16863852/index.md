@@ -29,16 +29,16 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All Through The Night | 3:21 |
-| A2 | Mirror Of Tomorrow | 2:46 |
-| A3 | Celador | 4:44 |
-| A4 | The Dark Triad | 4:34 |
-| B1 | Psychopathy | 4:19 |
-| B2 | Days Of Old | 3:04 |
-| B3 | Message From The Sky | 2:37 |
-| B4 | Mass Hypnosis | 4:21 |
+| Position | Title |
+|----------|--------|
+| A1 | All Through The Night |
+| A2 | Mirror Of Tomorrow |
+| A3 | Celador |
+| A4 | The Dark Triad |
+| B1 | Psychopathy |
+| B2 | Days Of Old |
+| B3 | Message From The Sky |
+| B4 | Mass Hypnosis |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Infinite Void Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 4 |
-| Notes | Super-Deluxe Blue & White Marble Effect<br>Heavyweight 180g 12″ Vinyl<br>Ultra Matte Reverse Board Textured Gatefold Sleeve<br>Handnumbered Limited Edition Holographic Sticker<br>Second Pressing |
+| Notes | Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing |
 | Discogs URL    | [Bill Fisher - Mass Hypnosis And The Dark Triad](https://www.discogs.com/release/16863852-Bill-Fisher-Mass-Hypnosis-And-The-Dark-Triad) |

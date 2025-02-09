@@ -24,22 +24,22 @@ styles: ["Pop Rap", "Parody"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Spade Side |  |
-| A1 | Countdown To Pitworld |  |
-| A2 | What I Am |  |
-| A3 | Waiting |  |
-| A4 | When Miners Attack |  |
-| A5 | Latin Bingo |  |
-| A6 | Words |  |
-|  | Biscuit Side |  |
-| B1 | Sugar In Ya Peas |  |
-| B2 | The Pitman And Her |  |
-| B3 | Mr. Pitiful |  |
-| B4 | Soot FM |  |
-| B5 | Mam Sed |  |
-| B6 | What's The Point? |  |
+| Position | Title |
+|----------|--------|
+|  | Spade Side |
+| A1 | Countdown To Pitworld |
+| A2 | What I Am |
+| A3 | Waiting |
+| A4 | When Miners Attack |
+| A5 | Latin Bingo |
+| A6 | Words |
+|  | Biscuit Side |
+| B1 | Sugar In Ya Peas |
+| B2 | The Pitman And Her |
+| B3 | Mr. Pitiful |
+| B4 | Soot FM |
+| B5 | Mam Sed |
+| B6 | What's The Point? |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Pop Rap", "Parody"]
 | Format         | Vinyl LP Album |
 | Label          | Son Records |
 | Catalog Number | SON 026 |
-| Notes | Track B6 recorded live on the Steve Lamacq Show Radio One - 2002<br><br>Sleeve notes:<br><br>Pitman Sez - Welcome to my world.  You'll either love it or hate it. Either Way.  You're edging closer towards smelling the tea or smelling my nuts when you kiss ya mam.  Peace<br><br>Please note that if any of the general public feel the need to replicate Pitman's look either seriously or in a fancy dress style.  Pitman requests that you use British Coal in all circumstances. <br> |
+| Notes | Track B6 recorded live on the Steve Lamacq Show Radio One - 2002  Sleeve notes:  Pitman Sez - Welcome to my world.  You'll either love it or hate it. Either Way.  You're edging closer towards smelling the tea or smelling my nuts when you kiss ya mam.  Peace  Please note that if any of the general public feel the need to replicate Pitman's look either seriously or in a fancy dress style.  Pitman requests that you use British Coal in all circumstances.   |
 | Discogs URL    | [Pitman - It Takes A Nation Of Tossers](https://www.discogs.com/release/201576-Pitman-It-Takes-A-Nation-Of-Tossers) |

@@ -33,20 +33,20 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Converted | 6:15 |
-| A2 | Speed Of The Sound Of Loneliness | 4:49 |
-| A3 | Woke Up This Morning | 5:38 |
-| B1 | U Don't Dans 2 Tekno | 3:37 |
-| B2 | Bourgeoisie Blues | 4:47 |
-| B3 | Ain't Goin' To Goa | 3:55 |
-| C1 | Mao Tse Tung Said | 4:57 |
-| C2 | Hypo Full Of Love (The 12-Step Plan) | 6:13 |
-| C3 | The Old Purple Tin (9% Of Pure Heaven) | 4:05 |
-| D1 | The Night We Nearly Got Busted | 4:38 |
-| D2 | Sister Rosetta | 4:52 |
-| D3 | Peace In The Valley | 5:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Converted |
+| A2 | Speed Of The Sound Of Loneliness |
+| A3 | Woke Up This Morning |
+| B1 | U Don't Dans 2 Tekno |
+| B2 | Bourgeoisie Blues |
+| B3 | Ain't Goin' To Goa |
+| C1 | Mao Tse Tung Said |
+| C2 | Hypo Full Of Love (The 12-Step Plan) |
+| C3 | The Old Purple Tin (9% Of Pure Heaven) |
+| D1 | The Night We Nearly Got Busted |
+| D2 | Sister Rosetta |
+| D3 | Peace In The Valley |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (180 Gram) |
 | Label          | Elemental Records |
 | Catalog Number | ELM40DMM |
-| Notes | One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve.<br>Includes download coupon.<br>Some copies sold via Alabama 3 website were signed by Larry Love.<br>Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead. |
+| Notes | One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve. Includes download coupon. Some copies sold via Alabama 3 website were signed by Larry Love. Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead. |
 | Discogs URL    | [Alabama - Exile On Coldharbour Lane](https://www.discogs.com/release/8176313-Alabama-3-Exile-On-Coldharbour-Lane) |

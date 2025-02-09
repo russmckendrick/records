@@ -31,29 +31,29 @@ It is a rap opera concept album set in a dystopian year 3030. The album's story 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | State Of The Nation |  |
-| A2 | 3030 |  |
-| A3 | The Fantabulous Rap Extravaganza |  |
-| A4 | Things You Can Do |  |
-| B1 | Positive Contact |  |
-| B2 | St. Catherine St. |  |
-| B3 | Virus |  |
-| B4 | Upgrade  (A Brymar College Course) |  |
-| B5 | New Coke |  |
-| C1 | Mastermind |  |
-| C2 | National Movie Review |  |
-| C3 | Madness |  |
-| C4 | Meet Cleofis Randolph The Patriarch |  |
-| C5 | Time Keeps On Slipping |  |
-| C6 | The News (A Wholly Owned Subsidiary Of Microsoft Inc.) |  |
-| D1 | Turbulence (Remix) |  |
-| D2 | The Fantabulous Rap Extravaganza Part 2 |  |
-| D3 | Battlesong |  |
-| D4 | Love Story |  |
-| D5 | Memory Loss |  |
-| D6 | The Assman 640 Speaks |  |
+| Position | Title |
+|----------|--------|
+| A1 | State Of The Nation |
+| A2 | 3030 |
+| A3 | The Fantabulous Rap Extravaganza |
+| A4 | Things You Can Do |
+| B1 | Positive Contact |
+| B2 | St. Catherine St. |
+| B3 | Virus |
+| B4 | Upgrade  (A Brymar College Course) |
+| B5 | New Coke |
+| C1 | Mastermind |
+| C2 | National Movie Review |
+| C3 | Madness |
+| C4 | Meet Cleofis Randolph The Patriarch |
+| C5 | Time Keeps On Slipping |
+| C6 | The News (A Wholly Owned Subsidiary Of Microsoft Inc.) |
+| D1 | Turbulence (Remix) |
+| D2 | The Fantabulous Rap Extravaganza Part 2 |
+| D3 | Battlesong |
+| D4 | Love Story |
+| D5 | Memory Loss |
+| D6 | The Assman 640 Speaks |
 
 
 ## Apple Music

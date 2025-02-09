@@ -36,20 +36,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Citizens |  |
-| A2 | Welcome Home |  |
-| A3 | Wicked Game |  |
-| A4 | Beyond The Sea |  |
-| A5 | Major Tom |  |
-| A6 | Sundown |  |
-| B1 | Made Of Stone |  |
-| B2 | Angel Of Small Death And The Codeine Scene |  |
-| B3 | Blood On My Name |  |
-| B4 | Jolene (Slow) |  |
-| B5 | Black Eunuch |  |
-| B6 | Run From Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Citizens |
+| A2 | Welcome Home |
+| A3 | Wicked Game |
+| A4 | Beyond The Sea |
+| A5 | Major Tom |
+| A6 | Sundown |
+| B1 | Made Of Stone |
+| B2 | Angel Of Small Death And The Codeine Scene |
+| B3 | Blood On My Name |
+| B4 | Jolene (Slow) |
+| B5 | Black Eunuch |
+| B6 | Run From Me |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: []
 | Format         | Vinyl LP Compilation Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM059 |
-| Notes | Limited Edition of 750 Copies<br>Individually numbered<br>Red vinyl<br>Includes 4 page booklet<br>180 gram audiophile vinyl |
+| Notes | Limited Edition of 750 Copies  Individually numbered  Red vinyl  Includes 4 page booklet  180 gram audiophile vinyl |
 | Discogs URL    | [Various - The Blacklist (Music From The Television Series)](https://www.discogs.com/release/7720657-Various-The-Blacklist-Music-From-The-Television-Series) |

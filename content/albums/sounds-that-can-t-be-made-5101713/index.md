@@ -37,16 +37,16 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gaza |  |
-| B1 | Sounds That Can't Be Made |  |
-| B2 | Pour My Love |  |
-| B3 | Power |  |
-| C1 | Montréal |  |
-| C2 | Invisible Ink |  |
-| D1 | Lucky Man |  |
-| D2 | The Sky Above The Rain |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gaza |
+| B1 | Sounds That Can't Be Made |
+| B2 | Pour My Love |
+| B3 | Power |
+| C1 | Montréal |
+| C2 | Invisible Ink |
+| D1 | Lucky Man |
+| D2 | The Sky Above The Rain |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Ear Music |
 | Catalog Number | 0209119ERE |
-| Notes | Comes in a gatefold cover with printed inner sleeves. <br><br>Written & Recorded at The Racket Club & Real World Studios during 2010, 2011 & 2012.<br>Additional guitars recorded at UTB Studios<br><br>℗ & © 2013 Intact Recordings under exclusive license to Edel Germany GmbH.<br><br>Made in Germany by optimal media GmbH<br><br>Manufacturing error:<br>On some copies the labels of side C (green) and D (blue) have been swapped by mistake.<br><br>Durations are not noted anywhere on this release. <br><br>All runouts are etched.  |
+| Notes | Comes in a gatefold cover with printed inner sleeves.   Written & Recorded at The Racket Club & Real World Studios during 2010, 2011 & 2012. Additional guitars recorded at UTB Studios  ℗ & © 2013 Intact Recordings under exclusive license to Edel Germany GmbH.  Made in Germany by optimal media GmbH  Manufacturing error: On some copies the labels of side C (green) and D (blue) have been swapped by mistake.  Durations are not noted anywhere on this release.   All runouts are etched.  |
 | Discogs URL    | [Marillion - Sounds That Can't Be Made](https://www.discogs.com/release/5101713-Marillion-Sounds-That-Cant-Be-Made) |

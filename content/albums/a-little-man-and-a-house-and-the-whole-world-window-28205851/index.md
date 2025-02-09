@@ -30,66 +30,66 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album {2020 Remaster} |  |
-| A1 | A Little Man And A House |  |
-| A2 | In A City Lining |  |
-| A3 | Is This The Life |  |
-| A4 | Interlude |  |
-| A5 | Dive |  |
-| B1 | The Icing On The World |  |
-| B2 | The Breakfast Line |  |
-| B3 | Victory Egg |  |
-| B4 | R.E.S. |  |
-| B5 | The Whole World Window |  |
-|  | Original Album {2020 Remaster} |  |
-|  | A Little Man And A House And The Whole World Window |  |
-| CD1-1 | A Little Man And A House | 5:05 |
-| CD1-2 | In A City Lining | 5:50 |
-| CD1-3 | I'm Eating In Bed | 5:00 |
-| CD1-4 | Is This The Life | 5:37 |
-| CD1-5 | Interlude | 0:46 |
-| CD1-6 | Dive | 4:08 |
-| CD1-7 | The Icing On The World | 4:02 |
-| CD1-8 | The Breakfast Line | 4:54 |
-| CD1-9 | Victory Egg | 3:07 |
-| CD1-10 | R.E.S. | 5:15 |
-| CD1-11 | The Whole World Window | 5:47 |
-|  | The Workhouse Sessions |  |
-|  | There's Too Many Irons In The Fire |  |
-| CD2-1 | There's Too Many Irons In The Fire {2021 Remaster} | 3:15 |
-| CD2-2 | All Spectacular {2021 Remaster} | 2:33 |
-| CD2-3 | Loosefish Scapegrace {2021 Remaster} | 7:44 |
-|  | Is This The Life |  |
-| CD2-4 | Goosegash {2021 Remaster} | 1:55 |
-|  | - |  |
-| CD2-5 | Gina Lollabrigida {Unreleased 2021 Remaster} | 3:10 |
-|  | The Radio Sessions |  |
-|  | Radio Leeds Session |  |
-| CD3-1 | Intro / The Icing On The World {2021 Remaster} | 4:49 |
-| CD3-2 | I'm Eating In Bed {2021 Remaster} | 5:10 |
-| CD3-3 | Goosegash {2021 Remaster} | 1:54 |
-| CD3-4 | Loosefish Scapegrace {2021 Remaster} | 8:09 |
-| CD3-5 | There's Too Many Irons In The Fire {2021 Remaster} | 3:22 |
-| CD3-6 | Is This The Life {2021 Remaster} | 6:44 |
-|  | BBC Radio 1 Janice Long Session |  |
-| CD3-7 | R.E.S. {2021 Remaster} | 5:23 |
-| CD3-8 | Buds And Spawn {2021 Remaster} | 6:41 |
-| CD3-9 | In A City Lining {2021 Remaster} | 6:20 |
-| CD3-10 | Cameras {2021 Remaster} | 2:26 |
-| CD3-11 | Is This The Life {2021 Remaster} | 5:19 |
-|  | The 1987 Concert {Recorded At The Town & Country Club, Kentish Town, London. Sunday 7th June 1987} |  |
-| CD4-1 | To Go Off And Things | 3:14 |
-| CD4-2 | In A City Lining | 7:03 |
-| CD4-3 | Gina Lollabrigida | 4:14 |
-| CD4-4 | There's Too Many Irons In The Fire | 4:06 |
-| CD4-5 | Goosegash | 1:52 |
-| CD4-6 | Loosefish Scapegrace | 7:34 |
-| CD4-7 | Big Ship | 5:49 |
-| CD4-8 | Cameras | 1:06 |
-| CD4-9 | Is This The Life | 6:02 |
-| CD4-10 | The Whole World Window | 7:33 |
+| Position | Title |
+|----------|--------|
+|  | Original Album {2020 Remaster} |
+| A1 | A Little Man And A House |
+| A2 | In A City Lining |
+| A3 | Is This The Life |
+| A4 | Interlude |
+| A5 | Dive |
+| B1 | The Icing On The World |
+| B2 | The Breakfast Line |
+| B3 | Victory Egg |
+| B4 | R.E.S. |
+| B5 | The Whole World Window |
+|  | Original Album {2020 Remaster} |
+|  | A Little Man And A House And The Whole World Window |
+| CD1-1 | A Little Man And A House |
+| CD1-2 | In A City Lining |
+| CD1-3 | I'm Eating In Bed |
+| CD1-4 | Is This The Life |
+| CD1-5 | Interlude |
+| CD1-6 | Dive |
+| CD1-7 | The Icing On The World |
+| CD1-8 | The Breakfast Line |
+| CD1-9 | Victory Egg |
+| CD1-10 | R.E.S. |
+| CD1-11 | The Whole World Window |
+|  | The Workhouse Sessions |
+|  | There's Too Many Irons In The Fire |
+| CD2-1 | There's Too Many Irons In The Fire {2021 Remaster} |
+| CD2-2 | All Spectacular {2021 Remaster} |
+| CD2-3 | Loosefish Scapegrace {2021 Remaster} |
+|  | Is This The Life |
+| CD2-4 | Goosegash {2021 Remaster} |
+|  | - |
+| CD2-5 | Gina Lollabrigida {Unreleased 2021 Remaster} |
+|  | The Radio Sessions |
+|  | Radio Leeds Session |
+| CD3-1 | Intro / The Icing On The World {2021 Remaster} |
+| CD3-2 | I'm Eating In Bed {2021 Remaster} |
+| CD3-3 | Goosegash {2021 Remaster} |
+| CD3-4 | Loosefish Scapegrace {2021 Remaster} |
+| CD3-5 | There's Too Many Irons In The Fire {2021 Remaster} |
+| CD3-6 | Is This The Life {2021 Remaster} |
+|  | BBC Radio 1 Janice Long Session |
+| CD3-7 | R.E.S. {2021 Remaster} |
+| CD3-8 | Buds And Spawn {2021 Remaster} |
+| CD3-9 | In A City Lining {2021 Remaster} |
+| CD3-10 | Cameras {2021 Remaster} |
+| CD3-11 | Is This The Life {2021 Remaster} |
+|  | The 1987 Concert {Recorded At The Town & Country Club, Kentish Town, London. Sunday 7th June 1987} |
+| CD4-1 | To Go Off And Things |
+| CD4-2 | In A City Lining |
+| CD4-3 | Gina Lollabrigida |
+| CD4-4 | There's Too Many Irons In The Fire |
+| CD4-5 | Goosegash |
+| CD4-6 | Loosefish Scapegrace |
+| CD4-7 | Big Ship |
+| CD4-8 | Cameras |
+| CD4-9 | Is This The Life |
+| CD4-10 | The Whole World Window |
 
 
 ## Apple Music
@@ -107,5 +107,5 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 | Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered, CD 2× Remastered, CD, Box Set Special Edition |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPHBOOK007 |
-| Notes | The first batch of preorders were available from the 10th of July 2023, with a second from the 25th of August, for £100 + shipping. Shipping of the first batch began on the 7th of September.<br><br>Housed in a 12" hardback cover that includes:<br>-a card ribbon connected by Velcro surrounding the cover<br>-a folder of documents including reproductions of posters (including one large fold-out six-panel poster), sheet music, promotional images and the Workhouse recording schedule<br>-a 12" daisy slipmat<br>-a 60-page book<br>-a wide clearsleeve<br><br>On the back cover, the radio session tracks are addended by "{BBC Leeds Session}" (1-6) and "{Janice Long 'Evening Show' Session}" (7-11); the tracklist here reflects how they appear on the final page of the book.<br><br>ALPHBOOK007 on the book itself, ALPH BOOK007 on the CD faces. The vinyl has side cat#s of ALPH LP007A and ALPH LP007B. |
+| Notes | The first batch of preorders were available from the 10th of July 2023, with a second from the 25th of August, for £100 + shipping. Shipping of the first batch began on the 7th of September.  Housed in a 12" hardback cover that includes: -a card ribbon connected by Velcro surrounding the cover -a folder of documents including reproductions of posters (including one large fold-out six-panel poster), sheet music, promotional images and the Workhouse recording schedule -a 12" daisy slipmat -a 60-page book -a wide clearsleeve  On the back cover, the radio session tracks are addended by "{BBC Leeds Session}" (1-6) and "{Janice Long 'Evening Show' Session}" (7-11); the tracklist here reflects how they appear on the final page of the book.  ALPHBOOK007 on the book itself, ALPH BOOK007 on the CD faces. The vinyl has side cat#s of ALPH LP007A and ALPH LP007B. |
 | Discogs URL    | [Cardiacs - A Little Man And A House And The Whole World Window](https://www.discogs.com/release/28205851-Cardiacs-A-Little-Man-And-A-House-And-The-Whole-World-Window) |

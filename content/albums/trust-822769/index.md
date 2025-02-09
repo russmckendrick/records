@@ -29,11 +29,11 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Trust |  |
-| B1 | Faceless |  |
-| B2 | Titch |  |
+| Position | Title |
+|----------|--------|
+| A | Trust |
+| B1 | Faceless |
+| B2 | Titch |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM |
 | Label          | Sony Soho Square |
 | Catalog Number | 657462 6 |
-| Notes | Released with printed inner sleeve.<br><br>Recorded at Rockfield Studios, Gwent, in early July 1991.<br><br>Original sound recording made by Sony Music Entertainment (UK) Ltd.<br>℗ © Sony Music Entertainment (UK) Ltd.<br>Distribution Sony Music.<br> |
+| Notes | Released with printed inner sleeve.    Recorded at Rockfield Studios, Gwent, in early July 1991.    Original sound recording made by Sony Music Entertainment (UK) Ltd.  ℗ © Sony Music Entertainment (UK) Ltd.  Distribution Sony Music.   |
 | Discogs URL    | [Neds Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |

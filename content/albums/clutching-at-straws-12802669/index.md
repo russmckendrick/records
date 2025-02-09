@@ -57,39 +57,39 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix) |  |
-| A1 | Hotel Hobbies | 3:35 |
-| A2 | Warm Wet Circles | 4:25 |
-| A3 | That Time Of The Night (The Short Straw) | 6:00 |
-| B1 | Going Under (Alternate Version) | 2:47 |
-| B2 | Just For The Record | 3:10 |
-| B3 | White Russian | 6:25 |
-| C1 | Incommunicado | 5:17 |
-| C2 | Torch Song | 4:04 |
-| C3 | Slàinte Mhath | 4:45 |
-| D1 | Sugar Mice | 5:46 |
-| D2 | The Last Straw / Happy Ending | 6:00 |
-|  | Live At The Edinburgh Playhouse 19th December 1987 (2018 Michael Hunter Mix) |  |
-| E1 | La Gazza Ladra | 2:46 |
-| E2 | Slàinte Mhath | 5:03 |
-| E3 | Assassing | 6:47 |
-| F1 | White Russian | 6:25 |
-| F2 | Incubus | 10:36 |
-| F3 | Sugar Mice | 6:14 |
-| G1 | Fugazi | 9:57 |
-| H1 | Hotel Hobbies | 4:04 |
-| H2 | Warm Wet Circles | 4:17 |
-| H3 | That Time Of The Night (The Short Straw) | 6:00 |
-| I1 | Pseudo Silk Kimono (Intro) | 1:06 |
-| I2 | Kayleigh | 3:48 |
-| I3 | Lavender | 2:34 |
-| I4 | Bitter Suite | 8:21 |
-| I5 | Heart Of Lothian | 7:23 |
-| J1 | The Last Straw | 7:16 |
-| J2 | Incommunicado | 5:00 |
-| J3 | Garden Party | 6:26 |
+| Position | Title |
+|----------|--------|
+|  | Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix) |
+| A1 | Hotel Hobbies |
+| A2 | Warm Wet Circles |
+| A3 | That Time Of The Night (The Short Straw) |
+| B1 | Going Under (Alternate Version) |
+| B2 | Just For The Record |
+| B3 | White Russian |
+| C1 | Incommunicado |
+| C2 | Torch Song |
+| C3 | Slàinte Mhath |
+| D1 | Sugar Mice |
+| D2 | The Last Straw / Happy Ending |
+|  | Live At The Edinburgh Playhouse 19th December 1987 (2018 Michael Hunter Mix) |
+| E1 | La Gazza Ladra |
+| E2 | Slàinte Mhath |
+| E3 | Assassing |
+| F1 | White Russian |
+| F2 | Incubus |
+| F3 | Sugar Mice |
+| G1 | Fugazi |
+| H1 | Hotel Hobbies |
+| H2 | Warm Wet Circles |
+| H3 | That Time Of The Night (The Short Straw) |
+| I1 | Pseudo Silk Kimono (Intro) |
+| I2 | Kayleigh |
+| I3 | Lavender |
+| I4 | Bitter Suite |
+| I5 | Heart Of Lothian |
+| J1 | The Last Straw |
+| J2 | Incommunicado |
+| J3 | Garden Party |
 
 
 ## Apple Music
@@ -107,5 +107,5 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190295605179 |
-| Notes | ALBUM INFORMATION:<br>This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.<br><br>LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh.<br>LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.<br><br>Presented in a two piece, lift-off lid type box. Both the lid and base section are textured and have a matte finish. Printed black inside. The lid has text to two edges.<br>Each LP is in a top opening picture inner sleeve of matte card.<br>There is a twenty-four page full sized booklet.<br>An 8cm square hype sticker is applied to the shrink-wrap.<br><br>℗ 2018 this compilation Parlophone Records Ltd. <br>© 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.<br><br>All runouts are etched.  |
+| Notes | ALBUM INFORMATION: This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.  LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh. LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.  Presented in a two piece, lift-off lid type box. Both the lid and base section are textured and have a matte finish. Printed black inside. The lid has text to two edges. Each LP is in a top opening picture inner sleeve of matte card. There is a twenty-four page full sized booklet. An 8cm square hype sticker is applied to the shrink-wrap.  ℗ 2018 this compilation Parlophone Records Ltd.  © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.  All runouts are etched.  |
 | Discogs URL    | [Marillion - Clutching At Straws](https://www.discogs.com/release/12802669-Marillion-Clutching-At-Straws) |

@@ -35,18 +35,18 @@ Forty years after the album's release, Morrison performed all eight of its songs
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part One: In The Beginning |  |
-| A1 | Astral Weeks | 7:00 |
-| A2 | Beside You | 5:10 |
-| A3 | Sweet Thing | 4:10 |
-| A4 | Cyprus Avenue | 6:50 |
-|  | Part Two: Afterwards |  |
-| B1 | Young Lovers Do | 3:10 |
-| B2 | Madame George | 9:25 |
-| B3 | Ballerina | 7:00 |
-| B4 | Slim Slow Slider | 3:20 |
+| Position | Title |
+|----------|--------|
+|  | Part One: In The Beginning |
+| A1 | Astral Weeks |
+| A2 | Beside You |
+| A3 | Sweet Thing |
+| A4 | Cyprus Avenue |
+|  | Part Two: Afterwards |
+| B1 | Young Lovers Do |
+| B2 | Madame George |
+| B3 | Ballerina |
+| B4 | Slim Slow Slider |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Forty years after the album's release, Morrison performed all eight of its songs
 | Format         | Vinyl LP Album Reissue (Clear, 180 g) |
 | Label          | Warner Bros. - Seven Arts Records |
 | Catalog Number | 081227937850 |
-| Notes | Manufactured In The E.U.<br>Marketed By Rhino Entertainment<br>On Clear Vinyl |
+| Notes | Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl |
 | Discogs URL    | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |

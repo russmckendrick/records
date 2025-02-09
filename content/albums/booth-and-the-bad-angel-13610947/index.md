@@ -28,19 +28,19 @@ Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collabor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Believe | 2:50 |
-| A2 | Dance Of The Bad Angels | 4:30 |
-| A3 | Hit Parade | 3:14 |
-| A4 | Fall In Love With Me | 4:16 |
-| A5 | Old Ways | 4:09 |
-| B6 | Life Gets Better | 4:29 |
-| B7 | Heart | 3:59 |
-| B8 | Rising | 2:48 |
-| B9 | Butterfly's Dream | 7:22 |
-| B10 | Stranger | 4:05 |
-| B11 | Hands In The Rain | 4:53 |
+| Position | Title |
+|----------|--------|
+| A1 | I Believe |
+| A2 | Dance Of The Bad Angels |
+| A3 | Hit Parade |
+| A4 | Fall In Love With Me |
+| A5 | Old Ways |
+| B6 | Life Gets Better |
+| B7 | Heart |
+| B8 | Rising |
+| B9 | Butterfly's Dream |
+| B10 | Stranger |
+| B11 | Hands In The Rain |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collabor
 | Format         | Vinyl LP Album (Red) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC419 |
-| Notes | The classic collaboration between Tim Booth of James & Angelo Badalamenti. Available for the first time on vinyl. Pressed on red translucent 180g heavyweight LP.<br><br>No pressing plant ID in the deadwax.<br><br>No download code included. |
+| Notes | The classic collaboration between Tim Booth of James & Angelo Badalamenti. Available for the first time on vinyl. Pressed on red translucent 180g heavyweight LP.  No pressing plant ID in the deadwax.  No download code included. |
 | Discogs URL    | [Booth And The Bad Angel - Booth And The Bad Angel](https://www.discogs.com/release/13610947-Booth-And-The-Bad-Angel-Booth-And-The-Bad-Angel) |

@@ -34,18 +34,18 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cold & Bored |  |
-| A2 | Sentinels |  |
-| A3 | Patterns |  |
-| A4 | Dank State |  |
-| A5 | W.C.A. |  |
-| B1 | Real Again (Norway Shrugs & Stays Home) |  |
-| B2 | Loch Meaninglessness & The Mull Of Dull |  |
-| B3 | Hotel Daedalus |  |
-| B4 | Scaredcrow |  |
-| B5 | The Rapture |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cold & Bored |
+| A2 | Sentinels |
+| A3 | Patterns |
+| A4 | Dank State |
+| A5 | W.C.A. |
+| B1 | Real Again (Norway Shrugs & Stays Home) |
+| B2 | Loch Meaninglessness & The Mull Of Dull |
+| B3 | Hotel Daedalus |
+| B4 | Scaredcrow |
+| B5 | The Rapture |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 | Format         | Vinyl LP Album Limited Edition Stereo (Milky Clear/Red Smoke, 180g) |
 | Label          | Det Nordenfjeldske Grammofonselskab |
 | Catalog Number | NFGS0123LP |
-| Notes | Limited edition of 1000 copies, with 700 copies distributed in Norway and 300 across the rest of Europe, issued on 180g milky clear / red smoke vinyl, with a 12" double-sided insert, a black die-cut poly-lined inner sleeve and a sticker, in stickered shrink wrap.<br><br>This record was written in Trondheim in the first year or so of the plague, record at home at the Cheese Factory/ Lamoen early in the second year.<br><br>Track A4 titled "Dank State (Jan '21)" on the side A label.<br><br>Labels:<br>℗ & © 2023 Det Nordenfjeldske Grammofonselskab<br><br>Insert:<br>© 2023 Det Nordenfjeldske Grammofonselskab<br><br>Back cover:<br>℗ 2023 Det Nordenfjeldske Grammofonselskab |
+| Notes | Limited edition of 1000 copies, with 700 copies distributed in Norway and 300 across the rest of Europe, issued on 180g milky clear / red smoke vinyl, with a 12" double-sided insert, a black die-cut poly-lined inner sleeve and a sticker, in stickered shrink wrap.  This record was written in Trondheim in the first year or so of the plague, record at home at the Cheese Factory/ Lamoen early in the second year.  Track A4 titled "Dank State (Jan '21)" on the side A label.  Labels: ℗ & © 2023 Det Nordenfjeldske Grammofonselskab  Insert: © 2023 Det Nordenfjeldske Grammofonselskab  Back cover: ℗ 2023 Det Nordenfjeldske Grammofonselskab |
 | Discogs URL    | [Motorpsycho - Yay!](https://www.discogs.com/release/27379731-Motorpsycho-Yay) |

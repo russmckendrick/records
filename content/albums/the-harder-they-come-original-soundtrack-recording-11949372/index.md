@@ -31,20 +31,20 @@ styles: ["Soundtrack", "Reggae"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You Can Get It If You Really Want |  |
-| A2 | Draw Your Brakes |  |
-| A3 | Rivers Of Babylon |  |
-| A4 | Many Rivers To Cross |  |
-| A5 | Sweet And Dandy |  |
-| A6 | The Harder They Come |  |
-| B1 | Johnny Too Bad |  |
-| B2 | Shanty Town |  |
-| B3 | Pressure Drop |  |
-| B4 | Sitting In Limbo |  |
-| B5 | You Can Get It If You Really Want |  |
-| B6 | The Harder They Come |  |
+| Position | Title |
+|----------|--------|
+| A1 | You Can Get It If You Really Want |
+| A2 | Draw Your Brakes |
+| A3 | Rivers Of Babylon |
+| A4 | Many Rivers To Cross |
+| A5 | Sweet And Dandy |
+| A6 | The Harder They Come |
+| B1 | Johnny Too Bad |
+| B2 | Shanty Town |
+| B3 | Pressure Drop |
+| B4 | Sitting In Limbo |
+| B5 | You Can Get It If You Really Want |
+| B6 | The Harder They Come |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Soundtrack", "Reggae"]
 | Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 00602567073949 |
-| Notes | 180 gram vinyl<br>Gatefold Jacket <br>"Made in Germany" stickered on shrink <br><br>Runouts are etched. |
+| Notes | 180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched. |
 | Discogs URL    | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |

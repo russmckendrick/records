@@ -36,22 +36,22 @@ styles: ["Progressive Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prosthetic |  |
-| A2 | Invasion |  |
-| B1 | Carousel |  |
-| C1 | The Strain |  |
-| C2 | Canary Yellow |  |
-| D1 | Messiah Complex |  |
-| D2 | Only Stars |  |
-| CD-1 | Prosthetic |  |
-| CD-2 | Invasion |  |
-| CD-3 | Carousel |  |
-| CD-4 | The Strain |  |
-| CD-5 | Canary Yellow |  |
-|  | Messiah Complex |  |
-| CD-11 | Only Stars |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prosthetic |
+| A2 | Invasion |
+| B1 | Carousel |
+| C1 | The Strain |
+| C2 | Canary Yellow |
+| D1 | Messiah Complex |
+| D2 | Only Stars |
+| CD-1 | Prosthetic |
+| CD-2 | Invasion |
+| CD-3 | Carousel |
+| CD-4 | The Strain |
+| CD-5 | Canary Yellow |
+|  | Messiah Complex |
+| CD-11 | Only Stars |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Progressive Metal"]
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 549 |
-| Notes | Version with black vinyl<br><br>Runouts:<br>'1 ❘' is mirrored in all runouts. |
+| Notes | Version with black vinyl  Runouts: '1 ❘' is mirrored in all runouts. |
 | Discogs URL    | [Haken - Virus](https://www.discogs.com/release/15637222-Haken-2-Virus) |

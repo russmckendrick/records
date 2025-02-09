@@ -31,28 +31,28 @@ styles: ["Industrial"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fight Song |  |
-| A2 | Bastion |  |
-| A3 | Hold Together |  |
-| A4 | Wild Words |  |
-| A5 | Intravenous |  |
-| B1 | Cadence |  |
-| B2 | No Atonement |  |
-| B3 | Break Our Hearts Down |  |
-| B4 | Fever |  |
-| B5 | Up To The Neck |  |
-| CD-1 | Fight Song | 3:31 |
-| CD-2 | Bastion | 4:08 |
-| CD-3 | Hold Together | 4:08 |
-| CD-4 | Wild Words | 3:52 |
-| CD-5 | Intravenous | 4:42 |
-| CD-6 | Cadence | 4:23 |
-| CD-7 | No Atonement | 3:38 |
-| CD-8 | Break Our Hearts Down | 4:47 |
-| CD-9 | Fever | 3:44 |
-| CD-10 | Up To The Neck | 6:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Fight Song |
+| A2 | Bastion |
+| A3 | Hold Together |
+| A4 | Wild Words |
+| A5 | Intravenous |
+| B1 | Cadence |
+| B2 | No Atonement |
+| B3 | Break Our Hearts Down |
+| B4 | Fever |
+| B5 | Up To The Neck |
+| CD-1 | Fight Song |
+| CD-2 | Bastion |
+| CD-3 | Hold Together |
+| CD-4 | Wild Words |
+| CD-5 | Intravenous |
+| CD-6 | Cadence |
+| CD-7 | No Atonement |
+| CD-8 | Break Our Hearts Down |
+| CD-9 | Fever |
+| CD-10 | Up To The Neck |
 
 
 ## Apple Music

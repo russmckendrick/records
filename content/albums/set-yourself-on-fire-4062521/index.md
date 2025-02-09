@@ -35,21 +35,21 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Your Ex-Lover Is Dead | 4:16 |
-| A2 | Set Yourself On Fire | 5:39 |
-| A3 | Ageless Beauty | 4:06 |
-| A4 | Reunion | 3:42 |
-| A5 | The Big Fight | 5:22 |
-| A6 | What I'm Trying To Say | 3:23 |
-| B1 | One More Night | 5:18 |
-| B2 | Sleep Tonight | 2:44 |
-| B3 | The First Five Times | 3:01 |
-| B4 | He Lied About Death | 5:12 |
-| B5 | Celebration Guns | 3:05 |
-| B6 | Soft Revolution | 3:17 |
-| B7 | Calendar Girl | 4:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Your Ex-Lover Is Dead |
+| A2 | Set Yourself On Fire |
+| A3 | Ageless Beauty |
+| A4 | Reunion |
+| A5 | The Big Fight |
+| A6 | What I'm Trying To Say |
+| B1 | One More Night |
+| B2 | Sleep Tonight |
+| B3 | The First Five Times |
+| B4 | He Lied About Death |
+| B5 | Celebration Guns |
+| B6 | Soft Revolution |
+| B7 | Calendar Girl |
 
 
 ## Apple Music

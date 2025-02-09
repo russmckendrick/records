@@ -32,18 +32,18 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Forbidden Doors |  |
-| A2 | Glorietta |  |
-| A3 | Let's Make A Mistake Tonight |  |
-| A4 | One Night With The Valet |  |
-| A5 | Pollen Song |  |
-| B1 | Hotel Valet |  |
-| B2 | Paper |  |
-| B3 | Gibraltar |  |
-| B4 | Never Been Wrong |  |
-| B5 | Pillow For A Cloud |  |
+| Position | Title |
+|----------|--------|
+| A1 | Forbidden Doors |
+| A2 | Glorietta |
+| A3 | Let's Make A Mistake Tonight |
+| A4 | One Night With The Valet |
+| A5 | Pollen Song |
+| B1 | Hotel Valet |
+| B2 | Paper |
+| B3 | Gibraltar |
+| B4 | Never Been Wrong |
+| B5 | Pillow For A Cloud |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 | Format         | Vinyl LP Album (Clear w/ Gold Smoke [Pollen]) |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD008LP |
-| Notes | Comes in sleeve with foil text and printed inner.<br><br>Hype-sticker on shrink with barcode.<br><br>Lossless lacquer cut by Sterling Sound<br>Exclusive Pollen-Colored Vinyl |
+| Notes | Comes in sleeve with foil text and printed inner.  Hype-sticker on shrink with barcode.  Lossless lacquer cut by Sterling Sound Exclusive Pollen-Colored Vinyl |
 | Discogs URL    | [Tennis - Pollen](https://www.discogs.com/release/26049697-Tennis-6-Pollen) |

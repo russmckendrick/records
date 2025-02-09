@@ -40,18 +40,18 @@ Two video documentaries on the recording, Things That Go Pump in the Night and T
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Young Lust | 4:19 |
-| A2 | F.I.N.E. | 4:10 |
-| A3 | Love In An Elevator | 5:39 |
-| A4 | Monkey On My Back | 3:57 |
-| A5 | Janie's Got A Gun | 5:33 |
-| B1 | The Other Side | 4:57 |
-| B2 | My Girl | 3:10 |
-| B3 | Don't Get Mad, Get Even | 4:50 |
-| B4 | Voodoo Medicine Man | 4:39 |
-| B5 | What It Takes | 6:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Young Lust |
+| A2 | F.I.N.E. |
+| A3 | Love In An Elevator |
+| A4 | Monkey On My Back |
+| A5 | Janie's Got A Gun |
+| B1 | The Other Side |
+| B2 | My Girl |
+| B3 | Don't Get Mad, Get Even |
+| B4 | Voodoo Medicine Man |
+| B5 | What It Takes |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Two video documentaries on the recording, Things That Go Pump in the Night and T
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954381 |
-| Notes | Issued with a printed black and white inner sleeve and has a "Back To Black" sticker on the front of the protective shrink-wrap. Includes a "Back To Black" coupon to download MP3 version of the album.<br>Current pressings does not have a "Back To Black" sticker on the front shrink wrap and does not have a download card.<br><br>There's also the [url=https://www.discogs.com/release/9294317]US release[/url] issued a month earlier.<br><br>[Catalog numbers]<br>00602547954381: Back cover, spine, inner sleeve<br>B0025183-01: Labels<br><br>[Back cover]<br>Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada<br>Mastered by Greg Fulginiti at Artisan Sound Recorders, Los Angeles, CA<br>℗ 1989 © 2016 Geffen Records.<br>Made in the E.U. Universal International B.V. Gerrit Van Der Veenlaan<br><br>[Inner sleeve]<br>Pumping Gas Photo by Sol Libsohn, University of Louisville Photographic Archives<br>Trucks photo © American Stock Photography<br><br>[Labels]<br>℗ 1989 © 2016 Geffen Records |
+| Notes | Issued with a printed black and white inner sleeve and has a "Back To Black" sticker on the front of the protective shrink-wrap. Includes a "Back To Black" coupon to download MP3 version of the album. Current pressings does not have a "Back To Black" sticker on the front shrink wrap and does not have a download card.  There's also the [url=https://www.discogs.com/release/9294317]US release[/url] issued a month earlier.  [Catalog numbers] 00602547954381: Back cover, spine, inner sleeve B0025183-01: Labels  [Back cover] Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Mastered by Greg Fulginiti at Artisan Sound Recorders, Los Angeles, CA ℗ 1989 © 2016 Geffen Records. Made in the E.U. Universal International B.V. Gerrit Van Der Veenlaan  [Inner sleeve] Pumping Gas Photo by Sol Libsohn, University of Louisville Photographic Archives Trucks photo © American Stock Photography  [Labels] ℗ 1989 © 2016 Geffen Records |
 | Discogs URL    | [Aerosmith - Pump](https://www.discogs.com/release/9474092-Aerosmith-Pump) |

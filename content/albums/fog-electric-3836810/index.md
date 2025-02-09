@@ -24,17 +24,17 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soft Coda | 4:20 |
-| A2 | Chirality | 4:04 |
-| A3 | Mirador | 4:36 |
-| A4 | Interval | 4:04 |
-| A5 | Empire Waste | 5:45 |
-| B1 | Savage With Barometer | 5:32 |
-| B2 | Expert With Altimeter | 5:16 |
-| B3 | The Receiver | 5:57 |
-| B4 | Downhill | 3:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Soft Coda |
+| A2 | Chirality |
+| A3 | Mirador |
+| A4 | Interval |
+| A5 | Empire Waste |
+| B1 | Savage With Barometer |
+| B2 | Expert With Altimeter |
+| B3 | The Receiver |
+| B4 | Downhill |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE828 |
-| Notes | First 500 preorders received a 7" with this LP.<br>Last track "Theory Of Tides" is not included on the LP version.<br>Includes download code.<br> |
+| Notes | First 500 preorders received a 7" with this LP. Last track "Theory Of Tides" is not included on the LP version. Includes download code.  |
 | Discogs URL    | [North Atlantic Oscillation - Fog Electric](https://www.discogs.com/release/3836810-North-Atlantic-Oscillation-Fog-Electric) |

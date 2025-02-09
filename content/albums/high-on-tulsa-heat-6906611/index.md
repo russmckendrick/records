@@ -30,18 +30,18 @@ styles: ["Acoustic", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hang Me In The Tulsa County Stars |  |
-| A2 | Heart's Too Heavy |  |
-| A3 | Cleveland County Blues |  |
-| A4 | White Flag |  |
-| A5 | Sad Baptist Rain |  |
-| B1 | Cherokee |  |
-| B2 | Losing Sleep Tonight  |  |
-| B3 | American Flags In Black & White |  |
-| B4 | You Don't Care For Me Enough To Cry |  |
-| B5 | High On Tulsa Heat |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hang Me In The Tulsa County Stars |
+| A2 | Heart's Too Heavy |
+| A3 | Cleveland County Blues |
+| A4 | White Flag |
+| A5 | Sad Baptist Rain |
+| B1 | Cherokee |
+| B2 | Losing Sleep Tonight  |
+| B3 | American Flags In Black & White |
+| B4 | You Don't Care For Me Enough To Cry |
+| B5 | High On Tulsa Heat |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Acoustic", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | Old Omens |
 | Catalog Number | OO01 |
-| Notes | Pressed on 180 gram vinyl housed in anti-static sleeve with printed insert and download card.<br><br>Recorded July - October 2014 in Bixby, OK & Norman, OK.<br><br>Runouts are etched, except for WELL MADE MUSIC on side B, which is stamped. |
+| Notes | Pressed on 180 gram vinyl housed in anti-static sleeve with printed insert and download card.  Recorded July - October 2014 in Bixby, OK & Norman, OK.  Runouts are etched, except for WELL MADE MUSIC on side B, which is stamped. |
 | Discogs URL    | [John Moreland - High On Tulsa Heat](https://www.discogs.com/release/6906611-John-Moreland-High-On-Tulsa-Heat) |

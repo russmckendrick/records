@@ -46,26 +46,26 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Honey |  |
-| A2 | Find My Baby |  |
-| A3 | Porcelain |  |
-| A4 | Why Does My Heart Feel So Bad? |  |
-| B1 | South Side |  |
-| B2 | Rushing |  |
-| B3 | Bodyrock |  |
-| B4 | Natural Blues |  |
-| C1 | Machete |  |
-| C2 | 7 |  |
-| C3 | Run On |  |
-| C4 | Down Slow |  |
-| C5 | If Things Were Perfect |  |
-| C6 | Everloving |  |
-| D1 | Inside |  |
-| D2 | Guitar Flute & String |  |
-| D3 | The Sky Is Broken |  |
-| D4 | My Weakness |  |
+| Position | Title |
+|----------|--------|
+| A1 | Honey |
+| A2 | Find My Baby |
+| A3 | Porcelain |
+| A4 | Why Does My Heart Feel So Bad? |
+| B1 | South Side |
+| B2 | Rushing |
+| B3 | Bodyrock |
+| B4 | Natural Blues |
+| C1 | Machete |
+| C2 | 7 |
+| C3 | Run On |
+| C4 | Down Slow |
+| C5 | If Things Were Perfect |
+| C6 | Everloving |
+| D1 | Inside |
+| D2 | Guitar Flute & String |
+| D3 | The Sky Is Broken |
+| D4 | My Weakness |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 | Format         | Vinyl 2× LP Album Club Edition Reissue Remastered (Turquoise Translucent) |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT061 |
-| Notes | Sticker on sleeve reads:<br>Re-Recorded + Newly Remastered Audio<br>2LP Transparent Turquoise Color Vinyl<br>2 exclusive 12"x12" Art Prints<br><br>Embossed cover.<br>Custom inner sleeves.<br>Includes an art print and a cocktail recipe.<br><br>Natural Blues mixed in Sheffield [...]<br><br>Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.<br>Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.<br>Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc.<br>Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.<br><br>All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.<br><br>℗ 2017 Little Idiot © 2017 Little Idiot<br><br>On labels:<br>℗ 2017 Little Idiot Music<br>© 2017 Little Idiot Music |
+| Notes | Sticker on sleeve reads: Re-Recorded + Newly Remastered Audio 2LP Transparent Turquoise Color Vinyl 2 exclusive 12"x12" Art Prints  Embossed cover. Custom inner sleeves. Includes an art print and a cocktail recipe.  Natural Blues mixed in Sheffield [...]  Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc. Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.  All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music |
 | Discogs URL    | [Moby - Play](https://www.discogs.com/release/11395156-Moby-Play) |

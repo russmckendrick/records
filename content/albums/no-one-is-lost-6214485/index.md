@@ -35,19 +35,19 @@ No One Is Lost is the seventh studio album by Canadian indie pop band Stars, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | From The Night |  |
-| A2 | This Is The Last Time |  |
-| A3 | You Keep Coming Up |  |
-| B1 | Turn It Up |  |
-| B2 | No Better Place |  |
-| B3 | What Is To Be Done? |  |
-| C1 | Trap Door |  |
-| C2 | Are You Ok? |  |
-| C3 | The Stranger |  |
-| D1 | Look Away |  |
-| D2 | No One Is Lost |  |
+| Position | Title |
+|----------|--------|
+| A1 | From The Night |
+| A2 | This Is The Last Time |
+| A3 | You Keep Coming Up |
+| B1 | Turn It Up |
+| B2 | No Better Place |
+| B3 | What Is To Be Done? |
+| C1 | Trap Door |
+| C2 | Are You Ok? |
+| C3 | The Stranger |
+| D1 | Look Away |
+| D2 | No One Is Lost |
 
 
 ## Apple Music

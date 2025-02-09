@@ -54,163 +54,163 @@ The Ten Year War was a series of college football games, played from 1969 to 197
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Black Sabbath |  |
-| A1 | Black Sabbath |  |
-| A2 | The Wizard |  |
-| A3 | Behind Τhe Wall Οf Sleep |  |
-| A4 | N.I.B. |  |
-| B1 | Evil Woman |  |
-| B2 | Sleeping Village |  |
-| B3 | Warning |  |
-|  | Paranoid |  |
-| C1 | War Pigs |  |
-| C2 | Paranoid |  |
-| C3 | Planet Caravan |  |
-| C4 | Iron Man |  |
-| D1 | Electric Funeral |  |
-| D2 | Hand Of Doom |  |
-| D3 | Rat Salad |  |
-| D4 | Fairies Wear Boots |  |
-|  | Master Οf Reality |  |
-| E1 | Sweet Leaf |  |
-| E2 | After Forever |  |
-| E3 | Embryo |  |
-| E4 | Children Of The Grave |  |
-| F1 | Orchid |  |
-| F2 | Lord Of This World |  |
-| F3 | Solitude |  |
-| F4 | Into The Void |  |
-|  | Vol. 4 |  |
-| G1 | Wheels Of Confusion / The Straightener |  |
-| G2 | Tomorrow's Dream |  |
-| G3 | Changes |  |
-| G4 | FX |  |
-| G5 | Supernaut |  |
-| H1 | Snowblind |  |
-| H2 | Cornucopia |  |
-| H3 | Laguna Sunrise |  |
-| H4 | St. Vitus Dance |  |
-| H5 | Under The Sun/Every Day Comes And Goes |  |
-|  | Sabbath Bloody Sabbath |  |
-| I1 | Sabbath Bloody Sabbath |  |
-| I2 | A National Acrobat |  |
-| I3 | Fluff |  |
-| I4 | Sabbra Cadabra |  |
-| J1 | Killing Yourself To Live |  |
-| J2 | Who Are You? |  |
-| J3 | Looking For Today |  |
-| J4 | Spiral Architect |  |
-|  | Sabotage |  |
-| K1 | Hole In The Sky |  |
-| K2 | Don't Start (Too Late) |  |
-| K3 | Symptom Of The Universe |  |
-| K4 | Megalomania |  |
-| L1 | The Thrill Of It All |  |
-| L2 | Supertzar |  |
-| L3 | Am I Going Insane (Radio) |  |
-| L4 | The Writ |  |
-|  | Technical Ecstasy |  |
-| M1 | Back Street Kids |  |
-| M2 | You Won't Change Me |  |
-| M3 | It's Alright |  |
-| M4 | Gypsy |  |
-| N1 | All Moving Parts (Stand Still) |  |
-| N2 | Rock 'n' Roll Doctor |  |
-| N3 | She's Gone |  |
-| N4 | Dirty Women |  |
-|  | Never Say Die! |  |
-| O1 | Never Say Die |  |
-| O2 | Johnny Blade |  |
-| O3 | Junior's Eyes |  |
-| O4 | Hard Road |  |
-| P1 | Shock Wave |  |
-| P2 | Air Dance |  |
-| P3 | Over To You |  |
-| P4 | Breakout |  |
-| P5 | Swinging The Chain |  |
-|  | 7" Evil Woman (Don’t Play Your Games With Me) [Japan] |  |
-| Q1 | Evil Woman (Don’t Play Your Games With Me) |  |
-| R1 | Black Sabbath |  |
-|  | 7" Paranoid/The Wizard [Chile] |  |
-| S1 | Paranoid |  |
-| T1 | The Wizard (El Mago) |  |
-|  | 1970 - Black Sabbath [USB Stick] |  |
-| 1-1 | Black Sabbath |  |
-| 1-2 | The Wizard |  |
-| 1-3 | Behind The Wall Of Sleep |  |
-| 1-4 | N.I.B. |  |
-| 1-5 | Evil Woman, Don't Play Your Games With Me |  |
-| 1-6 | Sleeping Village |  |
-| 1-7 | Warning |  |
-| 1-8 | Wicked World |  |
-|  | 1970 - Paranoid [USB Stick] |  |
-| 2-1 | War Pigs |  |
-| 2-2 | Paranoid |  |
-| 2-3 | Planet Caravan |  |
-| 2-4 | Iron Man |  |
-| 2-5 | Electric Funeral |  |
-| 2-6 | Hand Of Doom |  |
-| 2-7 | Rat Salad |  |
-| 2-8 | Fairies Wear Boots |  |
-|  | 1971 - Master Of Reality [USB Stick] |  |
-| 3-1 | Sweet Leaf |  |
-| 3-2 | After Forever |  |
-| 3-3 | Embryo |  |
-| 3-4 | Children Of The Grave |  |
-| 3-5 | Orchid |  |
-| 3-6 | Lord Of This World |  |
-| 3-7 | Solitude |  |
-| 3-8 | Into The Void |  |
-|  | 1972 - Vol 4 [USB Stick] |  |
-| 4-1 | Wheels Of Confusion |  |
-| 4-2 | Tomorrow's Dream |  |
-| 4-3 | Changes |  |
-| 4-4 | FX |  |
-| 4-5 | Supernaut |  |
-| 4-6 | Snowblind |  |
-| 4-7 | Cornucopia |  |
-| 4-8 | Laguna Sunrise |  |
-| 4-9 | St. Vitus Dance |  |
-| 4-10 | Under The Sun |  |
-|  | 1973 - Sabbath Bloody Sabbath [USB Stick] |  |
-| 5-1 | Sabbath Bloody Sabbath |  |
-| 5-2 | A National Acrobat |  |
-| 5-3 | Fluff |  |
-| 5-4 | Sabbra Cadabra |  |
-| 5-5 | Killing Yourself To Live |  |
-| 5-6 | Who Are You |  |
-| 5-7 | Looking For Today |  |
-| 5-8 | Spiral Architect |  |
-|  | 1975 - Sabotage [USB Stick] |  |
-| 6-1 | Hole In The Sky |  |
-| 6-2 | Don't Start (Too Late) |  |
-| 6-3 | Symptom Of The Universe |  |
-| 6-4 | Megalomania |  |
-| 6-5 | The Thrill Of It All |  |
-| 6-6 | Supertzar |  |
-| 6-7 | Am I Going Insane (Radio) |  |
-| 6-8 | The Writ |  |
-|  | 1976 - Technical Ecstasy [USB Stick] |  |
-| 7-1 | Back Street Kids |  |
-| 7-2 | You Won't Change Me |  |
-| 7-3 | It's Allright |  |
-| 7-4 | Gypsy |  |
-| 7-5 | All Moving Parts (Stand Still) |  |
-| 7-6 | Rock 'N' Roll Doctor |  |
-| 7-7 | She's Gone |  |
-| 7-8 | Dirty Women |  |
-|  | 1978 - Never Say Die [USB Stick] |  |
-| 8-1 | Never Say Die |  |
-| 8-2 | Johnny Blade |  |
-| 8-3 | Junior's Eyes |  |
-| 8-4 | A Hard Road |  |
-| 8-5 | Shock Wave |  |
-| 8-6 | Air Dance |  |
-| 8-7 | Over To You |  |
-| 8-8 | Breakout |  |
-| 8-9 | Swinging The Chain |  |
+| Position | Title |
+|----------|--------|
+|  | Black Sabbath |
+| A1 | Black Sabbath |
+| A2 | The Wizard |
+| A3 | Behind Τhe Wall Οf Sleep |
+| A4 | N.I.B. |
+| B1 | Evil Woman |
+| B2 | Sleeping Village |
+| B3 | Warning |
+|  | Paranoid |
+| C1 | War Pigs |
+| C2 | Paranoid |
+| C3 | Planet Caravan |
+| C4 | Iron Man |
+| D1 | Electric Funeral |
+| D2 | Hand Of Doom |
+| D3 | Rat Salad |
+| D4 | Fairies Wear Boots |
+|  | Master Οf Reality |
+| E1 | Sweet Leaf |
+| E2 | After Forever |
+| E3 | Embryo |
+| E4 | Children Of The Grave |
+| F1 | Orchid |
+| F2 | Lord Of This World |
+| F3 | Solitude |
+| F4 | Into The Void |
+|  | Vol. 4 |
+| G1 | Wheels Of Confusion / The Straightener |
+| G2 | Tomorrow's Dream |
+| G3 | Changes |
+| G4 | FX |
+| G5 | Supernaut |
+| H1 | Snowblind |
+| H2 | Cornucopia |
+| H3 | Laguna Sunrise |
+| H4 | St. Vitus Dance |
+| H5 | Under The Sun/Every Day Comes And Goes |
+|  | Sabbath Bloody Sabbath |
+| I1 | Sabbath Bloody Sabbath |
+| I2 | A National Acrobat |
+| I3 | Fluff |
+| I4 | Sabbra Cadabra |
+| J1 | Killing Yourself To Live |
+| J2 | Who Are You? |
+| J3 | Looking For Today |
+| J4 | Spiral Architect |
+|  | Sabotage |
+| K1 | Hole In The Sky |
+| K2 | Don't Start (Too Late) |
+| K3 | Symptom Of The Universe |
+| K4 | Megalomania |
+| L1 | The Thrill Of It All |
+| L2 | Supertzar |
+| L3 | Am I Going Insane (Radio) |
+| L4 | The Writ |
+|  | Technical Ecstasy |
+| M1 | Back Street Kids |
+| M2 | You Won't Change Me |
+| M3 | It's Alright |
+| M4 | Gypsy |
+| N1 | All Moving Parts (Stand Still) |
+| N2 | Rock 'n' Roll Doctor |
+| N3 | She's Gone |
+| N4 | Dirty Women |
+|  | Never Say Die! |
+| O1 | Never Say Die |
+| O2 | Johnny Blade |
+| O3 | Junior's Eyes |
+| O4 | Hard Road |
+| P1 | Shock Wave |
+| P2 | Air Dance |
+| P3 | Over To You |
+| P4 | Breakout |
+| P5 | Swinging The Chain |
+|  | 7" Evil Woman (Don’t Play Your Games With Me) [Japan] |
+| Q1 | Evil Woman (Don’t Play Your Games With Me) |
+| R1 | Black Sabbath |
+|  | 7" Paranoid/The Wizard [Chile] |
+| S1 | Paranoid |
+| T1 | The Wizard (El Mago) |
+|  | 1970 - Black Sabbath [USB Stick] |
+| 1-1 | Black Sabbath |
+| 1-2 | The Wizard |
+| 1-3 | Behind The Wall Of Sleep |
+| 1-4 | N.I.B. |
+| 1-5 | Evil Woman, Don't Play Your Games With Me |
+| 1-6 | Sleeping Village |
+| 1-7 | Warning |
+| 1-8 | Wicked World |
+|  | 1970 - Paranoid [USB Stick] |
+| 2-1 | War Pigs |
+| 2-2 | Paranoid |
+| 2-3 | Planet Caravan |
+| 2-4 | Iron Man |
+| 2-5 | Electric Funeral |
+| 2-6 | Hand Of Doom |
+| 2-7 | Rat Salad |
+| 2-8 | Fairies Wear Boots |
+|  | 1971 - Master Of Reality [USB Stick] |
+| 3-1 | Sweet Leaf |
+| 3-2 | After Forever |
+| 3-3 | Embryo |
+| 3-4 | Children Of The Grave |
+| 3-5 | Orchid |
+| 3-6 | Lord Of This World |
+| 3-7 | Solitude |
+| 3-8 | Into The Void |
+|  | 1972 - Vol 4 [USB Stick] |
+| 4-1 | Wheels Of Confusion |
+| 4-2 | Tomorrow's Dream |
+| 4-3 | Changes |
+| 4-4 | FX |
+| 4-5 | Supernaut |
+| 4-6 | Snowblind |
+| 4-7 | Cornucopia |
+| 4-8 | Laguna Sunrise |
+| 4-9 | St. Vitus Dance |
+| 4-10 | Under The Sun |
+|  | 1973 - Sabbath Bloody Sabbath [USB Stick] |
+| 5-1 | Sabbath Bloody Sabbath |
+| 5-2 | A National Acrobat |
+| 5-3 | Fluff |
+| 5-4 | Sabbra Cadabra |
+| 5-5 | Killing Yourself To Live |
+| 5-6 | Who Are You |
+| 5-7 | Looking For Today |
+| 5-8 | Spiral Architect |
+|  | 1975 - Sabotage [USB Stick] |
+| 6-1 | Hole In The Sky |
+| 6-2 | Don't Start (Too Late) |
+| 6-3 | Symptom Of The Universe |
+| 6-4 | Megalomania |
+| 6-5 | The Thrill Of It All |
+| 6-6 | Supertzar |
+| 6-7 | Am I Going Insane (Radio) |
+| 6-8 | The Writ |
+|  | 1976 - Technical Ecstasy [USB Stick] |
+| 7-1 | Back Street Kids |
+| 7-2 | You Won't Change Me |
+| 7-3 | It's Allright |
+| 7-4 | Gypsy |
+| 7-5 | All Moving Parts (Stand Still) |
+| 7-6 | Rock 'N' Roll Doctor |
+| 7-7 | She's Gone |
+| 7-8 | Dirty Women |
+|  | 1978 - Never Say Die [USB Stick] |
+| 8-1 | Never Say Die |
+| 8-2 | Johnny Blade |
+| 8-3 | Junior's Eyes |
+| 8-4 | A Hard Road |
+| 8-5 | Shock Wave |
+| 8-6 | Air Dance |
+| 8-7 | Over To You |
+| 8-8 | Breakout |
+| 8-9 | Swinging The Chain |
 
 
 ## Apple Music
@@ -228,5 +228,5 @@ The Ten Year War was a series of college football games, played from 1969 to 197
 | Format         | Vinyl LP Album Reissue Remastered (Purple-Black Swirl, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent Red With Blue Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Purple With Black Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Yellow With Black Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Orange With Purple Splatter, 180 gr., Gatefold), Vinyl LP Album Reissue Remastered (Translucent With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Grey With Red Splatter, 180 gr.), Vinyl LP Album Reissue Remastered (Clear With Turquoise Splatter, 180 gr.), Vinyl 7" Single Reissue Remastered, Vinyl 7" Single Reissue Remastered Mono, Memory Stick FLAC Reissue Remastered, Box Set Compilation Deluxe Edition Limited Edition Numbered Reissue Repress |
 | Label          | BMG |
 | Catalog Number | BMGCATBOX73 |
-| Notes | ℗ 2009 Black Sabbath/Gimcastle Limited © 2017 Black Sabbath/Gimcastle Limited under exclusive licence to Sanctuary Records Group, a BMG company.<br><br>The Limited Edition Deluxe Box Set Includes:<br><br>• 8 x Vinyl LPs reproduced in their original sleeves [some incl. Poster], re-mastered by Andy Pearce from the original tapes and pressed on 180 gram splatter-coloured vinyl, each LP with unique and individual colouring<br>• 2 x rare 7” singles, reproduced in their original sleeves: *Japanese *version of Evil Woman (Don’t Play Your Games With Me) / Black Sabbath. *Chilean *version of Paranoid/The Wizard (only 100 copies of the original radio promo were pressed)<br>• Crucifix shaped Black Sabbath USB stick, [with chain] which can be worn round the neck and contains MQA high definition audio of the first eight Black Sabbath albums [containing all 8 Albums in individual folders stored in FLAC Format, 48KHz - plus PDFs]<br>• The Ten Year War brochure, reproduced from the original publication<br>• Hardback book, featuring accolades from the cream of rock royalty, coupled with official and candid photography of the band during their 1970s tours, recording sessions and photo-shoots<br>• Tenth Anniversary World Tour 1978 Official Programme<br>• Reprinted tour poster from the 1972 Seattle Centre Arena show<br>• Single-sided Release-Leaflet<br><br>Box set cover art has been created by street artist Shepard Fairey<br><br>The versions:<br>* Deluxe box-set (3500 copies)<br>* Deluxe box-set (additional 3000 copies) <----THIS ONE<br>* Deluxe box-set with art-print (1000 copies)<br>* Deluxe box-set with signed art-print (50 copies)<br>* Golden deluxe boxset with art-print (50 copies)<br><br>Limited originally to 3500 copies. Extended to 6500 copies; sticker on back shows "XXXX/6500" on newer boxes<br>[Note: Each LP, 7" comes with its own barcode] |
+| Notes | ℗ 2009 Black Sabbath/Gimcastle Limited © 2017 Black Sabbath/Gimcastle Limited under exclusive licence to Sanctuary Records Group, a BMG company.  The Limited Edition Deluxe Box Set Includes:  • 8 x Vinyl LPs reproduced in their original sleeves [some incl. Poster], re-mastered by Andy Pearce from the original tapes and pressed on 180 gram splatter-coloured vinyl, each LP with unique and individual colouring • 2 x rare 7” singles, reproduced in their original sleeves: *Japanese *version of Evil Woman (Don’t Play Your Games With Me) / Black Sabbath. *Chilean *version of Paranoid/The Wizard (only 100 copies of the original radio promo were pressed) • Crucifix shaped Black Sabbath USB stick, [with chain] which can be worn round the neck and contains MQA high definition audio of the first eight Black Sabbath albums [containing all 8 Albums in individual folders stored in FLAC Format, 48KHz - plus PDFs] • The Ten Year War brochure, reproduced from the original publication • Hardback book, featuring accolades from the cream of rock royalty, coupled with official and candid photography of the band during their 1970s tours, recording sessions and photo-shoots • Tenth Anniversary World Tour 1978 Official Programme • Reprinted tour poster from the 1972 Seattle Centre Arena show • Single-sided Release-Leaflet  Box set cover art has been created by street artist Shepard Fairey  The versions: * Deluxe box-set (3500 copies) * Deluxe box-set (additional 3000 copies) <----THIS ONE * Deluxe box-set with art-print (1000 copies) * Deluxe box-set with signed art-print (50 copies) * Golden deluxe boxset with art-print (50 copies)  Limited originally to 3500 copies. Extended to 6500 copies; sticker on back shows "XXXX/6500" on newer boxes [Note: Each LP, 7" comes with its own barcode] |
 | Discogs URL    | [Black Sabbath - The Ten Year War](https://www.discogs.com/release/11408964-Black-Sabbath-The-Ten-Year-War) |

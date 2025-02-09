@@ -38,17 +38,17 @@ The song "Please" is a reworking of the track of the same name from Paul Hartnol
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 8:58 | 6:05 |
-| A2 | Please | 6:35 |
-| B1 | The Past Now | 6:36 |
-| B2 | Villain | 3:51 |
-| B3 | The Clock | 3:09 |
-| C1 | A Forest | 5:43 |
-| C2 | Broken Up | 4:21 |
-| D1 | Nearly There | 5:02 |
-| D2 | Cemetery | 7:37 |
+| Position | Title |
+|----------|--------|
+| A1 | 8:58 |
+| A2 | Please |
+| B1 | The Past Now |
+| B2 | Villain |
+| B3 | The Clock |
+| C1 | A Forest |
+| C2 | Broken Up |
+| D1 | Nearly There |
+| D2 | Cemetery |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The song "Please" is a reworking of the track of the same name from Paul Hartnol
 | Format         | Vinyl 2× LP Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1503 |
-| Notes | Gatefold sleeve.<br><br>Copies signed by Paul Hartnoll were available from Recordstore.co.uk.<br><br>Track A2 is an extended version of “Please (Remember 1992?) (Paul Hartnoll Remix)”, originally 5:45 long, commercially released on [url=http://www.discogs.com/Paul-Hartnoll-feat-Robert-Smith-Please/release/3592544]7”[/url] & [url=http://www.discogs.com/Paul-Hartnoll-Feat-Robert-Smith-Please-The-Remixes/release/964545]12”[/url] in 2007, and credited to “Paul Hartnoll Feat. Robert Smith”. |
+| Notes | Gatefold sleeve.    Copies signed by Paul Hartnoll were available from Recordstore.co.uk.    Track A2 is an extended version of “Please (Remember 1992?) (Paul Hartnoll Remix)”, originally 5:45 long, commercially released on [url=http://www.discogs.com/Paul-Hartnoll-feat-Robert-Smith-Please/release/3592544]7”[/url] & [url=http://www.discogs.com/Paul-Hartnoll-Feat-Robert-Smith-Please-The-Remixes/release/964545]12”[/url] in 2007, and credited to “Paul Hartnoll Feat. Robert Smith”. |
 | Discogs URL    | [858 - 8:58](https://www.discogs.com/release/6834775-858-858) |

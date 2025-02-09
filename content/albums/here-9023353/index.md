@@ -34,20 +34,20 @@ The Scots’ mastery of warm-souled alt-rock continues on their 11th album. Afte
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm In Love |  |
-| A2 | Thin Air |  |
-| A3 | Hold On |  |
-| A4 | The Darkest Part Of The Night |  |
-| A5 | I Have Nothing More To Say |  |
-| A6 | I Was Beautiful When I Was Alive |  |
-| B1 | The First Sight |  |
-| B2 | Live In The Moment |  |
-| B3 | Steady State |  |
-| B4 | It's A Sign |  |
-| B5 | With You |  |
-| B6 | Connected To Life |  |
+| Position | Title |
+|----------|--------|
+| A1 | I'm In Love |
+| A2 | Thin Air |
+| A3 | Hold On |
+| A4 | The Darkest Part Of The Night |
+| A5 | I Have Nothing More To Say |
+| A6 | I Was Beautiful When I Was Alive |
+| B1 | The First Sight |
+| B2 | Live In The Moment |
+| B3 | Steady State |
+| B4 | It's A Sign |
+| B5 | With You |
+| B6 | Connected To Life |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Scots’ mastery of warm-souled alt-rock continues on their 11th album. Afte
 | Format         | Vinyl LP Album |
 | Label          | Pema |
 | Catalog Number | PEMA009LP |
-| Notes | Includes download code coupon and a printed inner sleeve.<br><br>℗ & © 2016 PeMa<br><br>Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road. |
+| Notes | Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road. |
 | Discogs URL    | [Teenage Fanclub - Here](https://www.discogs.com/release/9023353-Teenage-Fanclub-Here) |

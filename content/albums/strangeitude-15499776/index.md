@@ -32,14 +32,14 @@ Strangeitude is the third studio album by British band Ozric Tentacles. It was r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | White Rhino Tea |  |
-| A2 | Sploosh! |  |
-| A3 | Saucers |  |
-| B1 | Strangeitude |  |
-| B2 | Bizarre Bazaar |  |
-| B3 | Space Between Your Ears |  |
+| Position | Title |
+|----------|--------|
+| A1 | White Rhino Tea |
+| A2 | Sploosh! |
+| A3 | Saucers |
+| B1 | Strangeitude |
+| B2 | Bizarre Bazaar |
+| B3 | Space Between Your Ears |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Strangeitude is the third studio album by British band Ozric Tentacles. It was r
 | Format         | Vinyl LP Album Reissue Remastered (Green Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1067 |
-| Notes | Sticker in front:<br>"Ozric Tentacles<br>2020 Ed Wynne Kscope Remaster Series<br>On Coloured Vinyl"<br><br>Remastered by Ed Wynne in 2020 |
+| Notes | Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020 |
 | Discogs URL    | [Ozric Tentacles - Strangeitude](https://www.discogs.com/release/15499776-Ozric-Tentacles-Strangeitude) |

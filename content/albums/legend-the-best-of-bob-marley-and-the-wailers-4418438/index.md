@@ -28,22 +28,22 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Is This Love | 3:52 |
-| A2 | No Woman No Cry | 4:02 |
-| A3 | Could You Be Loved | 3:35 |
-| A4 | Three Little Birds | 2:58 |
-| A5 | Buffalo Soldier | 2:43 |
-| A6 | Get Up Stand Up | 3:14 |
-| A7 | Stir It Up | 3:38 |
-| B1 | One Love / People Get Ready | 2:53 |
-| B2 | I Shot The Sheriff | 3:46 |
-| B3 | Waiting In Vain | 4:06 |
-| B4 | Redemption Song | 3:46 |
-| B5 | Satisfy My Soul | 3:49 |
-| B6 | Exodus | 4:16 |
-| B7 | Jamming | 3:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Is This Love |
+| A2 | No Woman No Cry |
+| A3 | Could You Be Loved |
+| A4 | Three Little Birds |
+| A5 | Buffalo Soldier |
+| A6 | Get Up Stand Up |
+| A7 | Stir It Up |
+| B1 | One Love / People Get Ready |
+| B2 | I Shot The Sheriff |
+| B3 | Waiting In Vain |
+| B4 | Redemption Song |
+| B5 | Satisfy My Soul |
+| B6 | Exodus |
+| B7 | Jamming |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 | Format         | Vinyl LP Compilation Reissue (180 Gram) |
 | Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |
-| Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon<br>The record label is fade blue/purple |
+| Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple |
 | Discogs URL    | [Bob Marley  The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |

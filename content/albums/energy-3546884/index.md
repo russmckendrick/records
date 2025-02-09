@@ -32,27 +32,27 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knowledge | 1:40 |
-| A2 | Sound System | 2:14 |
-| A3 | Jaded | 1:49 |
-| A4 | Take Warning | 2:44 |
-| A5 | The Crowd | 2:10 |
-| A6 | Bombshell | 1:01 |
-| A7 | Unity | 2:13 |
-| A8 | Vulnerability | 1:58 |
-| A9 | Bankshot | 1:30 |
-| A10 | One Of These Days | 1:05 |
-| B1 | Gonna Find You | 1:52 |
-| B2 | Bad Town | 2:32 |
-| B3 | Smiling | 1:44 |
-| B4 | Caution | 1:23 |
-| B5 | Freeze Up | 2:19 |
-| B6 | Artificial Life | 2:03 |
-| B7 | Room Without A Window | 1:31 |
-| B8 | Big City | 2:14 |
-| B9 | Missionary | 2:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Knowledge |
+| A2 | Sound System |
+| A3 | Jaded |
+| A4 | Take Warning |
+| A5 | The Crowd |
+| A6 | Bombshell |
+| A7 | Unity |
+| A8 | Vulnerability |
+| A9 | Bankshot |
+| A10 | One Of These Days |
+| B1 | Gonna Find You |
+| B2 | Bad Town |
+| B3 | Smiling |
+| B4 | Caution |
+| B5 | Freeze Up |
+| B6 | Artificial Life |
+| B7 | Room Without A Window |
+| B8 | Big City |
+| B9 | Missionary |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 | Format         | Vinyl LP Album Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 86893-1 |
-| Notes | Recorded at Sound And Vision in San Francisco.<br>Mixed at Dancing Dog in E-Ville.<br>Mastered by John Golden at K-Disc, Hollywood.<br><br>Insert contains band info, lyrics, photos & artwork. |
+| Notes | Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork. |
 | Discogs URL    | [Operation Ivy - Energy](https://www.discogs.com/release/3546884-Operation-Ivy-Energy) |

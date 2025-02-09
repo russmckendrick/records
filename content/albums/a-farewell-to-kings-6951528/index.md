@@ -39,14 +39,14 @@ A Farewell to Kings received a generally positive reception from critics. "Close
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Farewell To Kings | 5:53 |
-| A2 | Xanadu | 11:06 |
-| B1 | Closer To The Heart | 2:52 |
-| B2 | Cinderella Man | 4:20 |
-| B3 | Madrigal | 2:35 |
-| B4 | Cygnus X-1 | 10:27 |
+| Position | Title |
+|----------|--------|
+| A1 | A Farewell To Kings |
+| A2 | Xanadu |
+| B1 | Closer To The Heart |
+| B2 | Cinderella Man |
+| B3 | Madrigal |
+| B4 | Cygnus X-1 |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ A Farewell to Kings received a generally positive reception from critics. "Close
 | Format         | Vinyl LP Album Reissue Remastered (180  Gram, Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 00602547117632 |
-| Notes | DMM-remastered 180 gram vinyl. Lyrics on inner spread<br>Also comes with a mp3 download coupon and a 2-page insert. <br><br>Recorded at Rockfield Studios, Wales, June 1977<br>Mixed at Advision Studios, London<br>DMM Mastering at Abbey Road Mastering Studios, London - December 2014. <br><br>© 2015 Anthem Entertainment / Mercury Records (on insert and center labels)<br>℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.<br>Made in the EU |
+| Notes | DMM-remastered 180 gram vinyl. Lyrics on inner spread  Also comes with a mp3 download coupon and a 2-page insert.     Recorded at Rockfield Studios, Wales, June 1977  Mixed at Advision Studios, London  DMM Mastering at Abbey Road Mastering Studios, London - December 2014.     © 2015 Anthem Entertainment / Mercury Records (on insert and center labels)  ℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.  Made in the EU |
 | Discogs URL    | [Rush - A Farewell To Kings](https://www.discogs.com/release/6951528-Rush-A-Farewell-To-Kings) |

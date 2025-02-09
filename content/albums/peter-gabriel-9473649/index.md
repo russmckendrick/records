@@ -38,18 +38,18 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intruder |  |
-| A2 | No Self Control |  |
-| A3 | Start |  |
-| A4 | I Don't Remember |  |
-| A5 | Family Snapshot |  |
-| A6 | And Through The Wire |  |
-| B1 | Games Without Frontiers |  |
-| B2 | Not One Of Us |  |
-| B3 | Lead A Normal Life |  |
-| B4 | Biko |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intruder |
+| A2 | No Self Control |
+| A3 | Start |
+| A4 | I Don't Remember |
+| A5 | Family Snapshot |
+| A6 | And Through The Wire |
+| B1 | Games Without Frontiers |
+| B2 | Not One Of Us |
+| B3 | Lead A Normal Life |
+| B4 | Biko |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Grams) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR3 |
-| Notes | Half-Speed Remaster + Hi-Res Download Code<br><br>Pressing plant identified by runout. |
+| Notes | Half-Speed Remaster + Hi-Res Download Code  Pressing plant identified by runout. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649-Peter-Gabriel-Peter-Gabriel) |

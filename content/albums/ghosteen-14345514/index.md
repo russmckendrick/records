@@ -43,21 +43,21 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part 1 |  |
-| A1 | Spinning Song | 4:43 |
-| A2 | Bright Horses | 4:52 |
-| A3 | Waiting For You | 3:54 |
-| A4 | Night Raid | 5:07 |
-| B1 | Sun Forest | 6:46 |
-| B2 | Galleon Ship | 4:14 |
-| B3 | Ghosteen Speaks | 4:02 |
-| B4 | Leviathan | 4:48 |
-|  | Part 2 |  |
-| C1 | Ghosteen | 12:10 |
-| C2 | Fireflies | 3:23 |
-| D1 | Hollywood | 14:12 |
+| Position | Title |
+|----------|--------|
+|  | Part 1 |
+| A1 | Spinning Song |
+| A2 | Bright Horses |
+| A3 | Waiting For You |
+| A4 | Night Raid |
+| B1 | Sun Forest |
+| B2 | Galleon Ship |
+| B3 | Ghosteen Speaks |
+| B4 | Leviathan |
+|  | Part 2 |
+| C1 | Ghosteen |
+| C2 | Fireflies |
+| D1 | Hollywood |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 | Format         | Vinyl 2× LP Album |
 | Label          | Ghosteen Ltd |
 | Catalog Number | BS016LP |
-| Notes | The version with "Made in The UK" instead can be found here:<br><br>[r32101671]<br><br>Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info.<br>Album download code included.<br>The BS016LP catalog number follows the [l501701] label format.<br><br>Runout information:<br>"STERLING" is machine engraved, the rest is hand-etched.<br>The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).<br><br>[Inner sleeve LP 2:]<br>This record is dedicated to [a259149]<br>Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin<br>Mixed [...] at Conway, Los Angeles [...]<br>Orchestra recorded [...] at Air, London [...]<br>Published by Kobalt Music Group Ltd<br>℗ & © 2019 Ghosteen Ltd<br>Under exclusive license to AWAL Recordings Ltd<br>Manufactured in the EU |
+| Notes | The version with "Made in The UK" instead can be found here:  [r32101671]  Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info. Album download code included. The BS016LP catalog number follows the [l501701] label format.  Runout information: "STERLING" is machine engraved, the rest is hand-etched. The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).  [Inner sleeve LP 2:] This record is dedicated to [a259149] Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed [...] at Conway, Los Angeles [...] Orchestra recorded [...] at Air, London [...] Published by Kobalt Music Group Ltd ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU |
 | Discogs URL    | [Nick Cave  The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |

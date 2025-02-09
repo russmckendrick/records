@@ -33,18 +33,18 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Abacab |  |
-| A2 | No Reply At All |  |
-| A3 | Me And Sarah Jane |  |
-| A4 | Keep It Dark |  |
-| B1 | Dodo |  |
-| B2 | Lurker |  |
-| B3 | Who Dunnit? |  |
-| B4 | Man On The Corner |  |
-| B5 | Like It Or Not |  |
-| B6 | Another Record |  |
+| Position | Title |
+|----------|--------|
+| A1 | Abacab |
+| A2 | No Reply At All |
+| A3 | Me And Sarah Jane |
+| A4 | Keep It Dark |
+| B1 | Dodo |
+| B2 | Lurker |
+| B3 | Who Dunnit? |
+| B4 | Man On The Corner |
+| B5 | Like It Or Not |
+| B6 | Another Record |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 | Format         | Vinyl LP Album (CORG - Cyan/Orange/Red/Green Cover) |
 | Label          | Charisma |
 | Catalog Number | CBR 102 |
-| Notes | Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release<br><br>Contains a special, picture inner sleeve<br><br>This version has a cyan, orange, red and green embossed cover<br><br>A version with a blue/grey cover is [r667424]<br> |
+| Notes | Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release  Contains a special, picture inner sleeve  This version has a cyan, orange, red and green embossed cover  A version with a blue/grey cover is [r667424]  |
 | Discogs URL    | [Genesis - Abacab](https://www.discogs.com/release/2294111-Genesis-Abacab) |

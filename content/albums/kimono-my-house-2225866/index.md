@@ -33,18 +33,18 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Town Ain't Big Enough For Both Of Us |  |
-| A2 | Amateur Hour |  |
-| A3 | Falling In Love With Myself Again |  |
-| A4 | Here In Heaven |  |
-| A5 | Thank God It's Not Christmas |  |
-| B1 | Hasta Mañana, Monsieur |  |
-| B2 | Talent Is An Asset |  |
-| B3 | Complaints |  |
-| B4 | In My Family |  |
-| B5 | Equator |  |
+| Position | Title |
+|----------|--------|
+| A1 | This Town Ain't Big Enough For Both Of Us |
+| A2 | Amateur Hour |
+| A3 | Falling In Love With Myself Again |
+| A4 | Here In Heaven |
+| A5 | Thank God It's Not Christmas |
+| B1 | Hasta Mañana, Monsieur |
+| B2 | Talent Is An Asset |
+| B3 | Complaints |
+| B4 | In My Family |
+| B5 | Equator |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 | Format         | Vinyl LP Album (EMI Press) |
 | Label          | Island Records |
 | Catalog Number | ILPS 9272 |
-| Notes | Original issue with Island pink rim palm tree labels.<br>Fully laminated sleeve with pinched spine ends, without text on the front.<br>Includes a cardboard photo / lyric inner sleeve.<br><br>Printed in England by Robor Limited.<br><br>℗ 1974 Island Records Ltd<br><br>This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record. |
+| Notes | Original issue with Island pink rim palm tree labels. Fully laminated sleeve with pinched spine ends, without text on the front. Includes a cardboard photo / lyric inner sleeve.  Printed in England by Robor Limited.  ℗ 1974 Island Records Ltd  This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record. |
 | Discogs URL    | [Sparks - Kimono My House](https://www.discogs.com/release/2225866-Sparks-Kimono-My-House) |

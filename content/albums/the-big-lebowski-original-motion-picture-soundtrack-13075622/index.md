@@ -31,22 +31,22 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Man In Me | 3:08 |
-| A2 | Her Eyes Are A Blue Million Miles | 2:54 |
-| A3 | My Mood Swings | 2:10 |
-| A4 | Ataypura | 3:03 |
-| A5 | Traffic Boom | 3:15 |
-| A6 | I Got It Bad And That Ain't Good | 4:07 |
-| A7 | Stamping Ground | 5:16 |
-| B1 | Just Dropped In (To See What Condition My Condition Was In) | 3:20 |
-| B2 | Walking Song | 2:55 |
-| B3 | "Glück Das Mir Verblieb" From The Opera "Die Tote Stadt" | 5:07 |
-| B4 | Lujon | 2:38 |
-| B5 | Hotel California | 5:47 |
-| B6 | Wie Glauben | 3:21 |
-| B7 | Dead Flowers | 4:47 |
+| Position | Title |
+|----------|--------|
+| A1 | The Man In Me |
+| A2 | Her Eyes Are A Blue Million Miles |
+| A3 | My Mood Swings |
+| A4 | Ataypura |
+| A5 | Traffic Boom |
+| A6 | I Got It Bad And That Ain't Good |
+| A7 | Stamping Ground |
+| B1 | Just Dropped In (To See What Condition My Condition Was In) |
+| B2 | Walking Song |
+| B3 | "Glück Das Mir Verblieb" From The Opera "Die Tote Stadt" |
+| B4 | Lujon |
+| B5 | Hotel California |
+| B6 | Wie Glauben |
+| B7 | Dead Flowers |
 
 
 ## Apple Music

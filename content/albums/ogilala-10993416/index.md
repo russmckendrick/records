@@ -33,19 +33,19 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Zowie |  |
-| A2 | Processional |  |
-| A3 | The Spaniards |  |
-| A4 | Aeronaut |  |
-| A5 | The Long Goodbye |  |
-| A6 | Half-Life Of An Autodidact |  |
-| B1 | Amarinthe |  |
-| B2 | Antietam |  |
-| B3 | Mandarynne |  |
-| B4 | Shiloh |  |
-| B5 | Archer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Zowie |
+| A2 | Processional |
+| A3 | The Spaniards |
+| A4 | Aeronaut |
+| A5 | The Long Goodbye |
+| A6 | Half-Life Of An Autodidact |
+| B1 | Amarinthe |
+| B2 | Antietam |
+| B3 | Mandarynne |
+| B4 | Shiloh |
+| B5 | Archer |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | BMG |
 | Catalog Number | 538321031 |
-| Notes | Issued in gatefold sleeve.<br><br>Indie exclusive, limited to 1,000 copies worldwide.<br><br>Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA<br><br>Includes download card.<br><br>On back cover :<br>Made in USA. |
+| Notes | Issued in gatefold sleeve.  Indie exclusive, limited to 1,000 copies worldwide.  Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA  Includes download card.  On back cover : Made in USA. |
 | Discogs URL    | [WPC - Ogilala](https://www.discogs.com/release/10993416-WPC-Ogilala) |

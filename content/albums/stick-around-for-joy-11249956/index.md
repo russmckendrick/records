@@ -29,18 +29,18 @@ The album peaked at number 95 on the Billboard 200 and reached number 16 on the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gold |  |
-| A2 | Hit |  |
-| A3 | Leash Called Love |  |
-| A4 | Lucky Night |  |
-| A5 | Happy Nurse |  |
-| B1 | I'm Hungry |  |
-| B2 | Walkabout |  |
-| B3 | Hetero Scum |  |
-| B4 | Vitamin |  |
-| B5 | Chihuahua |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gold |
+| A2 | Hit |
+| A3 | Leash Called Love |
+| A4 | Lucky Night |
+| A5 | Happy Nurse |
+| B1 | I'm Hungry |
+| B2 | Walkabout |
+| B3 | Hetero Scum |
+| B4 | Vitamin |
+| B5 | Chihuahua |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The album peaked at number 95 on the Billboard 200 and reached number 16 on the 
 | Format         | Vinyl LP Album Reissue |
 | Label          | One Little Indian |
 | Catalog Number | tplp30dmm |
-| Notes | 180g vinyl.<br><br>Tracks on side two printed as 6 to 10 on the rear sleeve but 1 to 5 on the label.<br><br>Made in the E.U. |
+| Notes | 180g vinyl.  Tracks on side two printed as 6 to 10 on the rear sleeve but 1 to 5 on the label.  Made in the E.U. |
 | Discogs URL    | [The Sugarcubes - Stick Around For Joy](https://www.discogs.com/release/11249956-The-Sugarcubes-Stick-Around-For-Joy) |

@@ -33,19 +33,19 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shadow Of The Season | 4:34 |
-| A2 | Nearly Lost You | 4:07 |
-| A3 | Dollar Bill | 4:35 |
-| A4 | More Or Less | 3:11 |
-| A5 | Butterfly | 3:22 |
-| A6 | For Celebrations Past | 4:09 |
-| B1 | The Secret Kind | 3:08 |
-| B2 | Winter Song | 3:43 |
-| B3 | Troubled Times | 5:20 |
-| B4 | No One Knows | 5:13 |
-| B5 | Julie Paradise | 5:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Shadow Of The Season |
+| A2 | Nearly Lost You |
+| A3 | Dollar Bill |
+| A4 | More Or Less |
+| A5 | Butterfly |
+| A6 | For Celebrations Past |
+| B1 | The Secret Kind |
+| B2 | Winter Song |
+| B3 | Troubled Times |
+| B4 | No One Knows |
+| B5 | Julie Paradise |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP101 |
-| Notes | "25th Anniversary Edition<br>Limited Edition of 1.500 Copies on Flaming Vinyl<br>Individually Numbered<br>180 gram audiophile vinyl"<br><br>A6 is a bonus track.<br>Includes printed insert with credits. |
+| Notes | "25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits. |
 | Discogs URL    | [Screaming Trees - Sweet Oblivion](https://www.discogs.com/release/10844547-Screaming-Trees-Sweet-Oblivion) |

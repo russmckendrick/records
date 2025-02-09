@@ -64,35 +64,35 @@ styles: ["Prog Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | "Truth" (Intro) | 2:52 |
-| A2 | Nowhere Now | 4:08 |
-| A3 | Pariah | 5:11 |
-| A4 | Home Invasion / Regret #9 | 10:58 |
-| B1 | The Creator Has A Mastertape | 5:25 |
-| B2 | Refuge | 8:42 |
-| B3 | People Who Eat Darkness | 6:24 |
-| C1 | Ancestral | 13:52 |
-| D2 | Arriving Somewhere But Not Here | 13:53 |
-| E1 | Permanating | 5:34 |
-| E2 | Song Of I | 7:13 |
-| E3 | Lazarus | 4:04 |
-| F1 | Detonation | 11:27 |
-| F2 | The Same Asylum As Before | 5:53 |
-| G1 | Song Of Unborn | 6:40 |
-| G2 | Vermillioncore | 5:07 |
-| G3 | Sleep Together | 7:52 |
-| H1 | Even Less | 4:02 |
-| H2 | Blank Tapes | 3:14 |
-| H3 | Sound Of Muzak | 5:08 |
-| H4 | The Raven That Refused To Sing | 8:31 |
-| I1 | Routine | 9:01 |
-| I2 | Hand Cannot Erase | 4:18 |
-| I3 | Heartattack In A Layby | 3:59 |
-| J1 | How Is Your Life Today? | 3:17 |
-| J2 | Blackfield | 4:33 |
-| J3 | Postcard | 6:55 |
+| Position | Title |
+|----------|--------|
+| A1 | "Truth" (Intro) |
+| A2 | Nowhere Now |
+| A3 | Pariah |
+| A4 | Home Invasion / Regret #9 |
+| B1 | The Creator Has A Mastertape |
+| B2 | Refuge |
+| B3 | People Who Eat Darkness |
+| C1 | Ancestral |
+| D2 | Arriving Somewhere But Not Here |
+| E1 | Permanating |
+| E2 | Song Of I |
+| E3 | Lazarus |
+| F1 | Detonation |
+| F2 | The Same Asylum As Before |
+| G1 | Song Of Unborn |
+| G2 | Vermillioncore |
+| G3 | Sleep Together |
+| H1 | Even Less |
+| H2 | Blank Tapes |
+| H3 | Sound Of Muzak |
+| H4 | The Raven That Refused To Sing |
+| I1 | Routine |
+| I2 | Hand Cannot Erase |
+| I3 | Heartattack In A Layby |
+| J1 | How Is Your Life Today? |
+| J2 | Blackfield |
+| J3 | Postcard |
 
 
 ## Apple Music
@@ -109,5 +109,5 @@ styles: ["Prog Rock", "Pop Rock"]
 | Format         | Vinyl 5× LP Stereo, Box Set Album |
 | Label          | Caroline International |
 | Catalog Number | CAROL017LP |
-| Notes | The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.<br><br>This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.<br><br>To The Bone tour created by Steven Wilson and Lasse Hoile<br><br>℗ & © 2018 Steven Wilson Productions Ltd.<br>Made in the EU. |
+| Notes | The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.  This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.  To The Bone tour created by Steven Wilson and Lasse Hoile  ℗ & © 2018 Steven Wilson Productions Ltd. Made in the EU. |
 | Discogs URL    | [Steven Wilson - Home Invasion (In Concert At The Royal Albert Hall)](https://www.discogs.com/release/13391500-Steven-Wilson-Home-Invasion-In-Concert-At-The-Royal-Albert-Hall) |

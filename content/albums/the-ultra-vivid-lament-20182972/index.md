@@ -35,19 +35,19 @@ Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Still Snowing In Sapporo |  |
-| A2 | Orwellian |  |
-| A3 | The Secret He Had Missed |  |
-| A4 | Quest For Ancient Colour |  |
-| A5 | Don't Let The Night Divide Us |  |
-| B6 | Diapause |  |
-| B7 | Complicated Illusions |  |
-| B8 | Into The Waves Of Love |  |
-| B9 | Blank Diary Entry |  |
-| B10 | Happy Bored Alone |  |
-| B11 | Afterending |  |
+| Position | Title |
+|----------|--------|
+| A1 | Still Snowing In Sapporo |
+| A2 | Orwellian |
+| A3 | The Secret He Had Missed |
+| A4 | Quest For Ancient Colour |
+| A5 | Don't Let The Night Divide Us |
+| B6 | Diapause |
+| B7 | Complicated Illusions |
+| B8 | Into The Waves Of Love |
+| B9 | Blank Diary Entry |
+| B10 | Happy Bored Alone |
+| B11 | Afterending |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", 
 | Format         | Vinyl LP Album Limited Edition (Yellow, 180g) |
 | Label          | Columbia |
 | Catalog Number | 19439895431 |
-| Notes | Amazon exclusive coloured vinyl edition.<br><br>Made in the EU.<br><br> |
+| Notes | Amazon exclusive coloured vinyl edition.  Made in the EU.   |
 | Discogs URL    | [Manic Street Preachers - The Ultra Vivid Lament](https://www.discogs.com/release/20182972-Manic-Street-Preachers-The-Ultra-Vivid-Lament) |

@@ -31,14 +31,14 @@ The album includes six standard swing jazz songs with one original composition, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All Of Me |  |
-| A2 | Prisoner Of Love |  |
-| A3 | Louise |  |
-| B1 | Love Me Or Leave Me |  |
-| B2 | Taking A Chance On Love |  |
-| B3 | Our Love Is Here To Stay |  |
+| Position | Title |
+|----------|--------|
+| A1 | All Of Me |
+| A2 | Prisoner Of Love |
+| A3 | Louise |
+| B1 | Love Me Or Leave Me |
+| B2 | Taking A Chance On Love |
+| B3 | Our Love Is Here To Stay |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The album includes six standard swing jazz songs with one original composition, 
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Verve Records |
 | Catalog Number | 0600753520390 |
-| Notes | ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc.<br>Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it.<br>Made in the EU |
+| Notes | ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc. Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it. Made in the EU |
 | Discogs URL    | [The Lester Young-Teddy Wilson Quartet - Pres And Teddy](https://www.discogs.com/release/7122835-The-Lester-Young-Teddy-Wilson-Quartet-Pres-And-Teddy) |

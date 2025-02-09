@@ -31,18 +31,18 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Airlane |  |
-| A2 | Metal |  |
-| A3 | Complex |  |
-| A4 | Films |  |
-| A5 | M.E. |  |
-| B1 | Tracks |  |
-| B2 | Observer |  |
-| B3 | Conversation |  |
-| B4 | Cars |  |
-| B5 | Engineers |  |
+| Position | Title |
+|----------|--------|
+| A1 | Airlane |
+| A2 | Metal |
+| A3 | Complex |
+| A4 | Films |
+| A5 | M.E. |
+| B1 | Tracks |
+| B2 | Observer |
+| B3 | Conversation |
+| B4 | Cars |
+| B5 | Engineers |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 | Format         | Vinyl LP Album Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 10 |
-| Notes | This one pressed by MPO, also there is another version of this reissue pressed by GZ Media - [r17011476]<br><br>Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.<br><br>℗ 1979 Beggars Banquet<br>© 2015 Beggars Banquet<br><br>Recorded At Marcus Music AB London |
+| Notes | This one pressed by MPO, also there is another version of this reissue pressed by GZ Media - [r17011476]  Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London |
 | Discogs URL    | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |

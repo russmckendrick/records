@@ -38,20 +38,20 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Moonlight Medicine | 6:47 |
-| A2 | 1000 Miles | 4:58 |
-| B1 | From Time To Time | 5:05 |
-| B2 | Natural Grace | 4:39 |
-| B3 | Only Now | 4:25 |
-| C1 | Birdman | 6:38 |
-| C2 | Crown Of Creation | 4:40 |
-| C3 | How Does It Feel To Feel? | 3:39 |
-| D1 | Endless Road | 3:29 |
-| D2 | Magical Spring | 4:24 |
-| D3 | Rolling Thunder | 2:07 |
-| D4 | I Don't Know Where It Comes From | 5:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Moonlight Medicine |
+| A2 | 1000 Miles |
+| B1 | From Time To Time |
+| B2 | Natural Grace |
+| B3 | Only Now |
+| C1 | Birdman |
+| C2 | Crown Of Creation |
+| C3 | How Does It Feel To Feel? |
+| D1 | Endless Road |
+| D2 | Magical Spring |
+| D3 | Rolling Thunder |
+| D4 | I Don't Know Where It Comes From |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Translucent) |
 | Label          | Wichita |
 | Catalog Number | WEBB576LP |
-| Notes | Limited Edition of ? copies press on Translucent Green vinyl.<br><br>Released in a gatefold sleeve.<br>Includes full LP download with three bonus tracks.<br> |
+| Notes | Limited Edition of ? copies press on Translucent Green vinyl.  Released in a gatefold sleeve. Includes full LP download with three bonus tracks.  |
 | Discogs URL    | [Ride - Carnival Of Light](https://www.discogs.com/release/27862002-Ride-Carnival-Of-Light) |

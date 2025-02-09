@@ -36,33 +36,33 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A New England | 3:50 |
-| A2 | Innocence | 4:02 |
-| A3 | They Don't Know | 3:01 |
-| A4 | There's A Guy Works Down The Chip Shop Swears He's Elvis | 3:08 |
-| A5 | Don't Come The Cowboy With Me, Sonny Jim!  | 3:48 |
-| A6 | Can't Stop Killing You | 4:09 |
-| B1 | England 2 Colombia 0 | 3:45 |
-| B2 | Walking Down Madison (7" Mix)  | 4:39 |
-| B3 | Free World (Radio Edit)  | 2:37 |
-| B4 | Terry | 3:56 |
-| B5 | You Just Haven't Earned It Yet, Baby (From "She's Having A Baby")  | 3:39 |
-| B6 | Mother's Ruin | 3:57 |
-| C1 | Mambo Del La Luna (Single Edit)  | 3:31 |
-| C2 | Angel (Single Edition)  | 3:40 |
-| C3 | In These Shoes?  | 3:39 |
-| C4 | My Affair (Single Edition)  | 3:34 |
-| C5 | Treachery | 3:52 |
-| C6 | Caroline  | 2:55 |
-| C7 | Days | 2:57 |
-| D1 | He's On The Beach (Single Version)  | 3:31 |
-| D2 | Soho Square | 4:26 |
-| D3 | Darling, Let's Have Another Baby | 3:26 |
-| D4 | All I Ever Wanted (Single Version)  | 3:31 |
-| D5 | Perfect Day | 3:49 |
-| D6 | Fairytale Of New York  | 4:37 |
+| Position | Title |
+|----------|--------|
+| A1 | A New England |
+| A2 | Innocence |
+| A3 | They Don't Know |
+| A4 | There's A Guy Works Down The Chip Shop Swears He's Elvis |
+| A5 | Don't Come The Cowboy With Me, Sonny Jim!  |
+| A6 | Can't Stop Killing You |
+| B1 | England 2 Colombia 0 |
+| B2 | Walking Down Madison (7" Mix)  |
+| B3 | Free World (Radio Edit)  |
+| B4 | Terry |
+| B5 | You Just Haven't Earned It Yet, Baby (From "She's Having A Baby")  |
+| B6 | Mother's Ruin |
+| C1 | Mambo Del La Luna (Single Edit)  |
+| C2 | Angel (Single Edition)  |
+| C3 | In These Shoes?  |
+| C4 | My Affair (Single Edition)  |
+| C5 | Treachery |
+| C6 | Caroline  |
+| C7 | Days |
+| D1 | He's On The Beach (Single Version)  |
+| D2 | Soho Square |
+| D3 | Darling, Let's Have Another Baby |
+| D4 | All I Ever Wanted (Single Version)  |
+| D5 | Perfect Day |
+| D6 | Fairytale Of New York  |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 | Format         | Vinyl 2× LP Compilation Limited Edition (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1164 |
-| Notes | First ever Kirsty MacColl vinyl best of compilation<br>25 career-spanning tracks, from the highly acclaimed singer songwriter <br><br>Image of Titanic Days album cover is missing from the insert showing all of Kirsty's album and single covers. According to the designer this was just an oversight (the Titanic Days single cover was accidentally used instead of the album cover). |
+| Notes | First ever Kirsty MacColl vinyl best of compilation 25 career-spanning tracks, from the highly acclaimed singer songwriter   Image of Titanic Days album cover is missing from the insert showing all of Kirsty's album and single covers. According to the designer this was just an oversight (the Titanic Days single cover was accidentally used instead of the album cover). |
 | Discogs URL    | [Kirsty MacColl - Free World The Best Of 1979-2000](https://www.discogs.com/release/29500981-Kirsty-MacColl-Free-World-The-Best-Of-1979-2000) |

@@ -36,19 +36,19 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mars Man |  |
-| A2 | I'm On My Way |  |
-| A3 | No More |  |
-| B1 | All Over Again |  |
-| B2 | The People Say |  |
-| B3 | Let It Go |  |
-| C1 | Pieces Of Me |  |
-| C2 | Travelling Hard |  |
-| C3 | Brixton Fish Fry |  |
-| D1 | Upon My Soul |  |
-| D2 | Brothers & Sisters |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mars Man |
+| A2 | I'm On My Way |
+| A3 | No More |
+| B1 | All Over Again |
+| B2 | The People Say |
+| B3 | Let It Go |
+| C1 | Pieces Of Me |
+| C2 | Travelling Hard |
+| C3 | Brixton Fish Fry |
+| D1 | Upon My Soul |
+| D2 | Brothers & Sisters |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Deluxe Edition (Gold) |
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |
-| Notes | Deluxe gold double vinyl. Gatefold jacket.<br>Includes download code & 4-panel lyric insert. |
+| Notes | Deluxe gold double vinyl. Gatefold jacket. Includes download code & 4-panel lyric insert. |
 | Discogs URL    | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-2-Brothers-Sisters) |

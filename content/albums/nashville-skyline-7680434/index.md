@@ -34,18 +34,18 @@ By the the end of the 1960s, Dylan was one of music’s biggest stars, independe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Girl From The North Country |  |
-| A2 | Nashville Skyline Rag |  |
-| A3 | To Be Alone With You |  |
-| A4 | I Threw It All Away |  |
-| A5 | Peggy Day |  |
-| B1 | Lay Lady Lay |  |
-| B2 | One More Night |  |
-| B3 | Tell Me That It Isn't True |  |
-| B4 | Country Pie |  |
-| B5 | Tonight I'll Be Staying Here With You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Girl From The North Country |
+| A2 | Nashville Skyline Rag |
+| A3 | To Be Alone With You |
+| A4 | I Threw It All Away |
+| A5 | Peggy Day |
+| B1 | Lay Lady Lay |
+| B2 | One More Night |
+| B3 | Tell Me That It Isn't True |
+| B4 | Country Pie |
+| B5 | Tonight I'll Be Staying Here With You |
 
 
 ## Apple Music

@@ -35,25 +35,25 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side :/ |  |
-| A1 | Halcyon On And On | 9:31 |
-| A2 | Hackers Suite | 6:13 |
-| A3 | Open Up | 6:56 |
-|  | Side :// |  |
-| B1 | Cowgirl | 8:58 |
-| B2 | Voodoo People | 4:10 |
-| B3 | Connected | 4:04 |
-|  | Side :/// |  |
-| C1 | Original Bedroom Rockers | 6:09 |
-| C2 | One Love | 3:55 |
-| C3 | Good Grief | 4:29 |
-|  | Side ://// |  |
-| D1 | Protection | 7:51 |
-| D2 | One Combination | 1:53 |
-| D3 | Grand Central Station | 3:10 |
-| D4 | Heaven Knows | 4:37 |
+| Position | Title |
+|----------|--------|
+|  | Side :/ |
+| A1 | Halcyon On And On |
+| A2 | Hackers Suite |
+| A3 | Open Up |
+|  | Side :// |
+| B1 | Cowgirl |
+| B2 | Voodoo People |
+| B3 | Connected |
+|  | Side :/// |
+| C1 | Original Bedroom Rockers |
+| C2 | One Love |
+| C3 | Good Grief |
+|  | Side ://// |
+| D1 | Protection |
+| D2 | One Combination |
+| D3 | Grand Central Station |
+| D4 | Heaven Knows |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (25th Anniversary Edition) |
 | Label          | Varèse Sarabande |
 | Catalog Number | VSD00206 |
-| Notes | Record Store Day exclusive release, part of the September 26th, 2020 drop. <br><br>Limited to 2500 copies in a gatefold jacket.<br><br>Made in the EU. |
+| Notes | Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU. |
 | Discogs URL    | [Various - Hackers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15928841-Various-Hackers-Original-Motion-Picture-Soundtrack) |

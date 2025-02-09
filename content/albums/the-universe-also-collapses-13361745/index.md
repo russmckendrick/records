@@ -35,12 +35,12 @@ The Universe Also Collapses is a studio album by the psychedelic rock band Gong,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Forever Reoccurring | 20:37 |
-| B1 | If Never I'm And Ever You | 2:07 |
-| B2 | My Sawtooth Wake | 13:14 |
-| B3 | The Elemental | 6:43 |
+| Position | Title |
+|----------|--------|
+| A | Forever Reoccurring |
+| B1 | If Never I'm And Ever You |
+| B2 | My Sawtooth Wake |
+| B3 | The Elemental |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The Universe Also Collapses is a studio album by the psychedelic rock band Gong,
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1039 |
-| Notes | Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.<br><br>Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.  <br>Square pink hype sticker with white writing.<br>All copies come with KSCOPE advertising card 10"x10" |
+| Notes | Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10" |
 | Discogs URL    | [Gong - The Universe Also Collapses ](https://www.discogs.com/release/13361745-Gong-The-Universe-Also-Collapses-) |

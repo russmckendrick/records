@@ -66,18 +66,18 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hell |  |
-| A2 | Needlessly Wild |  |
-| A3 | Say It Like You Mean It |  |
-| A4 | Hunt You Down |  |
-| A5 | Small Finds |  |
-| B1 | Don’t Feel Right |  |
-| B2 | Six Mistakes |  |
-| B3 | Crusader |  |
-| B4 | Dress Yourself |  |
-| B5 | Untidy Creature |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hell |
+| A2 | Needlessly Wild |
+| A3 | Say It Like You Mean It |
+| A4 | Hunt You Down |
+| A5 | Small Finds |
+| B1 | Don’t Feel Right |
+| B2 | Six Mistakes |
+| B3 | Crusader |
+| B4 | Dress Yourself |
+| B5 | Untidy Creature |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 | Format         | Vinyl LP Album Limited Edition Stereo (Metallic Gold) |
 | Label          | Loma Vista |
 | Catalog Number | LVR03681 |
-| Notes | Metallic Gold LP exclusive to Sleater-Kinney + Loma Vista Recordings Online.<br>Packaged in a gatefold sleeve.<br>Includes a printed inner sleeve.<br><br>LVR03681 is on the sleeve.<br>LVR03742 is on the additional barcode sticker.<br><br>Matrix/Runout stamped except the first LVR03681, #2, #1, and BG are etched.<br><br>℗ & © 2023 Sleater-Kinney, under exclusive license to Loma Vista Recordings.<br>Manufactured and distributed by Concord, 10 Lea Avenue, Suite 300, Nashville, TN 37210.<br>Made in U.S.A.<br><br>Recorded at Flora Recording And Playback, Portland, Oregon<br><br>Published by BMG Gold Songs / Code Word Nemesis (ASCAP), Administered by BMG Rights Management (US) LLC. |
+| Notes | Metallic Gold LP exclusive to Sleater-Kinney + Loma Vista Recordings Online. Packaged in a gatefold sleeve. Includes a printed inner sleeve.  LVR03681 is on the sleeve. LVR03742 is on the additional barcode sticker.  Matrix/Runout stamped except the first LVR03681, #2, #1, and BG are etched.  ℗ & © 2023 Sleater-Kinney, under exclusive license to Loma Vista Recordings. Manufactured and distributed by Concord, 10 Lea Avenue, Suite 300, Nashville, TN 37210. Made in U.S.A.  Recorded at Flora Recording And Playback, Portland, Oregon  Published by BMG Gold Songs / Code Word Nemesis (ASCAP), Administered by BMG Rights Management (US) LLC. |
 | Discogs URL    | [Sleater-Kinney - Little Rope](https://www.discogs.com/release/29531152-Sleater-Kinney-Little-Rope) |

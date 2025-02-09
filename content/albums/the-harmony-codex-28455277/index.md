@@ -36,18 +36,18 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inclination | 7:15 |
-| A2 | What Life Brings | 3:40 |
-| A3 | Economies of Scale | 4:17 |
-| B1 | Impossible Tightrope | 10:42 |
-| B2 | Rock Bottom | 4:25 |
-| C1 | Beautiful Scarecrow | 5:21 |
-| C2 | The Harmony Codex | 9:50 |
-| D1 | Time Is Running Out | 3:57 |
-| D2 | Actual Brutal Facts | 5:05 |
-| D3 | Staircase | 9:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Inclination |
+| A2 | What Life Brings |
+| A3 | Economies of Scale |
+| B1 | Impossible Tightrope |
+| B2 | Rock Bottom |
+| C1 | Beautiful Scarecrow |
+| C2 | The Harmony Codex |
+| D1 | Time Is Running Out |
+| D2 | Actual Brutal Facts |
+| D3 | Staircase |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Coke Bottle Clear) |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7V3 |
-| Notes | Described as Clear on hype sticker, record itself is Coke Bottle Clear. <br><br>This edition was exclusive to The Official Steven Wilson HQ web store. <br><br>Initial copies came with a very limited signed 30cm x 30cm art print.<br><br>Rear sleeve:<br>"00044003353039 / SW7V3 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".<br><br>"Made in Germany" sticker adhered to the outer shrink wrap of the rear sleeve.<br><br>Includes printed inner sleeves containing lyrics and artwork.<br><br>Matrix Runouts are etched and stamped.  |
+| Notes | Described as Clear on hype sticker, record itself is Coke Bottle Clear.   This edition was exclusive to The Official Steven Wilson HQ web store.   Initial copies came with a very limited signed 30cm x 30cm art print.  Rear sleeve: "00044003353039 / SW7V3 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".  "Made in Germany" sticker adhered to the outer shrink wrap of the rear sleeve.  Includes printed inner sleeves containing lyrics and artwork.  Matrix Runouts are etched and stamped.  |
 | Discogs URL    | [Steven Wilson - The Harmony Codex](https://www.discogs.com/release/28455277-Steven-Wilson-The-Harmony-Codex) |

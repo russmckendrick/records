@@ -25,16 +25,16 @@ It Leads to This is the fifteenth studio album by British progressive rock band 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Put It Right |  |
-| A2 | Rubicon |  |
-| A3 | It Leads To This |  |
-| A4 | The Frost |  |
-| B1 | All Thats Left |  |
-| B2 | Now Its Yours |  |
-| B3 | Every Trace Of Us |  |
-| B4 | To Forget |  |
+| Position | Title |
+|----------|--------|
+| A1 | Put It Right |
+| A2 | Rubicon |
+| A3 | It Leads To This |
+| A4 | The Frost |
+| B1 | All Thats Left |
+| B2 | Now Its Yours |
+| B3 | Every Trace Of Us |
+| B4 | To Forget |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ It Leads to This is the fifteenth studio album by British progressive rock band 
 | Format         | Vinyl LP Album Limited Edition Stereo (Brick Red Vinyl) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1219 |
-| Notes | Limited Edition: Brick Red<br>Exclusive to The Pineapple Thief and Kscope stores |
+| Notes | Limited Edition: Brick Red Exclusive to The Pineapple Thief and Kscope stores |
 | Discogs URL    | [The Pineapple Thief - It Leads To This](https://www.discogs.com/release/29741239-The-Pineapple-Thief-It-Leads-To-This) |

@@ -40,27 +40,27 @@ styles: ["Rock & Roll", "Southern Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Twice As Hard |  |
-| A2 | Jealous Again |  |
-| A3 | Sister Luck |  |
-| A4 | Could I've Been So Blind |  |
-| A5 | Seeing Things |  |
-| B1 | Hard To Handle |  |
-| B2 | Thick N Thin |  |
-| B3 | She Talks To Angels |  |
-| B4 | Struttin Blues |  |
-| B5 | Stare It Cold |  |
-| C1 | No Speak No Slave |  |
-| C2 | Papa Was A Rolling Stone |  |
-| C3 | Soul Singing |  |
-| C4 | Wiser Time |  |
-| D1 | Thorn in My Pride |  |
-| D2 | Sting Me |  |
-| D3 | Remedy |  |
-| A | It's Only Rock 'N' Roll |  |
-| B | Rock & Roll |  |
+| Position | Title |
+|----------|--------|
+| A1 | Twice As Hard |
+| A2 | Jealous Again |
+| A3 | Sister Luck |
+| A4 | Could I've Been So Blind |
+| A5 | Seeing Things |
+| B1 | Hard To Handle |
+| B2 | Thick N Thin |
+| B3 | She Talks To Angels |
+| B4 | Struttin Blues |
+| B5 | Stare It Cold |
+| C1 | No Speak No Slave |
+| C2 | Papa Was A Rolling Stone |
+| C3 | Soul Singing |
+| C4 | Wiser Time |
+| D1 | Thorn in My Pride |
+| D2 | Sting Me |
+| D3 | Remedy |
+| A | It's Only Rock 'N' Roll |
+| B | Rock & Roll |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Rock & Roll", "Southern Rock"]
 | Format         | Vinyl 2× LP Album, Vinyl 7" 45 RPM, All Media Stereo (Green Translucent) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR27LP |
-| Notes | On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.<br><br>The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate.<br>"MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.<br><br>Released with 2 b/w printed inner sleeves showing tracks, credits and crow traces.<br><br>The runout strings are stamped except the first part up to CM etched. |
+| Notes | On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.  The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate. "MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.  Released with 2 b/w printed inner sleeves showing tracks, credits and crow traces.  The runout strings are stamped except the first part up to CM etched. |
 | Discogs URL    | [The Black Crowes - Presents Shake Your Money Maker Live](https://www.discogs.com/release/26416601-The-Black-Crowes-Presents-Shake-Your-Money-Maker-Live) |

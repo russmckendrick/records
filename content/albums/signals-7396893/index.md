@@ -33,16 +33,16 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Subdivisions |  |
-| A2 | The Analog Kid |  |
-| A3 | Chemistry |  |
-| A4 | Digital Man |  |
-| B1 | The Weapon |  |
-| B2 | New World Man |  |
-| B3 | Losing It |  |
-| B4 | Countdown |  |
+| Position | Title |
+|----------|--------|
+| A1 | Subdivisions |
+| A2 | The Analog Kid |
+| A3 | Chemistry |
+| A4 | Digital Man |
+| B1 | The Weapon |
+| B2 | New World Man |
+| B3 | Losing It |
+| B4 | Countdown |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118264 |
-| Notes | Black label on Shrink Wrap<br><br>Back To Black<br><br>Includes a voucher to download an MP3 of the album<br><br>180g Heavyweight Vinyl<br>  <br>www.backtoblackvinyl.com<br><br>Rear Cover <br><br>Anthem<br>Mercury<br>UMG<br>DMM |
+| Notes | Black label on Shrink Wrap    Back To Black    Includes a voucher to download an MP3 of the album    180g Heavyweight Vinyl      www.backtoblackvinyl.com    Rear Cover     Anthem  Mercury  UMG  DMM |
 | Discogs URL    | [Rush - Signals](https://www.discogs.com/release/7396893-Rush-Signals) |

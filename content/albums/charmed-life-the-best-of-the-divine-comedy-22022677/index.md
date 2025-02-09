@@ -37,32 +37,32 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Charmed Life |  |
-| A2 | National Express |  |
-| A3 | Norman And Norma |  |
-| A4 | Something For The Weekend |  |
-| A5 | Songs Of Love |  |
-| A6 | The Best Mistakes |  |
-| B1 | At The Indie Disco |  |
-| B2 | Bad Ambassador |  |
-| B3 | A Lady Of A Certain Age |  |
-| B4 | Becoming More Like Alfie |  |
-| B5 | Come Home Billy Bird |  |
-| B6 | Have You Ever Been In Love |  |
-| C1 | Our Mutual Friend |  |
-| C2 | Generation Sex |  |
-| C3 | How Can You Leave Me On My Own |  |
-| C4 | Perfect Lovesong |  |
-| C5 | Your Daddy's Car |  |
-| C6 | You'll Never Work In The Town Again |  |
-| D1 | Absent Friends |  |
-| D2 | Everybody Knows (Except You) |  |
-| D3 | The Certainty Of Chance |  |
-| D4 | Sunrise |  |
-| D5 | To The Rescue |  |
-| D6 | Tonight We Fly |  |
+| Position | Title |
+|----------|--------|
+| A1 | Charmed Life |
+| A2 | National Express |
+| A3 | Norman And Norma |
+| A4 | Something For The Weekend |
+| A5 | Songs Of Love |
+| A6 | The Best Mistakes |
+| B1 | At The Indie Disco |
+| B2 | Bad Ambassador |
+| B3 | A Lady Of A Certain Age |
+| B4 | Becoming More Like Alfie |
+| B5 | Come Home Billy Bird |
+| B6 | Have You Ever Been In Love |
+| C1 | Our Mutual Friend |
+| C2 | Generation Sex |
+| C3 | How Can You Leave Me On My Own |
+| C4 | Perfect Lovesong |
+| C5 | Your Daddy's Car |
+| C6 | You'll Never Work In The Town Again |
+| D1 | Absent Friends |
+| D2 | Everybody Knows (Except You) |
+| D3 | The Certainty Of Chance |
+| D4 | Sunrise |
+| D5 | To The Rescue |
+| D6 | Tonight We Fly |
 
 
 ## Apple Music

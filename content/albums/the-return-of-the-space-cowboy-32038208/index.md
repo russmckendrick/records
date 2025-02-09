@@ -30,20 +30,20 @@ Critical reviews of the album were generally positive, with some considering it 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Just Another Story | 8:48 |
-| A2 | Stillness In Time | 4:15 |
-| A3 | Half The Man | 4:48 |
-| B1 | Light Years | 5:53 |
-| B2 | Manifest Destiny | 6:19 |
-| B3 | The Kids | 5:08 |
-| C1 | Mr Moon | 5:28 |
-| C2 | Scam | 7:00 |
-| C3 | Journey To Arnhemland | 5:19 |
-| D1 | Morning Glory | 6:21 |
-| D2 | Space Cowboy | 6:25 |
-| D3 | Space Cowboy (Michael Gray’s Good Vibe Zone Edit) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Just Another Story |
+| A2 | Stillness In Time |
+| A3 | Half The Man |
+| B1 | Light Years |
+| B2 | Manifest Destiny |
+| B3 | The Kids |
+| C1 | Mr Moon |
+| C2 | Scam |
+| C3 | Journey To Arnhemland |
+| D1 | Morning Glory |
+| D2 | Space Cowboy |
+| D3 | Space Cowboy (Michael Gray’s Good Vibe Zone Edit) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Critical reviews of the album were generally positive, with some considering it 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Moon Grey Marbled, 30th Anniversary ) |
 | Label          | Sony Music |
 | Catalog Number | 19802807141 |
-| Notes | Gatefold sleeve<br><br>Hype sticker:<br>jamiroquai<br>The Return Of The Space Cowboy<br>LIMITED EDITION<br>30th ANNIVERSARY EDITION<br>Moon Grey Coloured Vinyl<br>INCLUDES<br>Space Cowboy<br>(Michael Gray's Good Vibe Zone Edit)<br>19802807141<br> |
+| Notes | Gatefold sleeve  Hype sticker: jamiroquai The Return Of The Space Cowboy LIMITED EDITION 30th ANNIVERSARY EDITION Moon Grey Coloured Vinyl INCLUDES Space Cowboy (Michael Gray's Good Vibe Zone Edit) 19802807141  |
 | Discogs URL    | [Jamiroquai - The Return Of The Space Cowboy](https://www.discogs.com/release/32038208-Jamiroquai-The-Return-Of-The-Space-Cowboy) |

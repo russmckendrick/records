@@ -27,17 +27,17 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Riot On 103rd Street |  |
-| A2 | Look To The Light |  |
-| A3 | Stoned Woman |  |
-| A4 | The 5th Quadrant |  |
-| B1 | Jonathan E |  |
-| B2 | Bad Ass Weed |  |
-| B3 | Knowledge (Rap) |  |
-| B4 | Knowledge (Instrumental) |  |
-| B5 | Look To The Light (Alternate) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Riot On 103rd Street |
+| A2 | Look To The Light |
+| A3 | Stoned Woman |
+| A4 | The 5th Quadrant |
+| B1 | Jonathan E |
+| B2 | Bad Ass Weed |
+| B3 | Knowledge (Rap) |
+| B4 | Knowledge (Instrumental) |
+| B5 | Look To The Light (Alternate) |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 | Format         | Vinyl LP Album Reissue (Yellow) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP297Y |
-| Notes | ℗ 1992 Acid Jazz Records<br>© 1992 Acid Jazz Records |
+| Notes | ℗ 1992 Acid Jazz Records © 1992 Acid Jazz Records |
 | Discogs URL    | [Mother Earth - Stoned Woman](https://www.discogs.com/release/26514866-Mother-Earth-Stoned-Woman) |

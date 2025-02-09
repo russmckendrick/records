@@ -39,19 +39,19 @@ At the film's Sundance premiere, Silva said that his film, which is based on a r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chiseler |  |
-| A2 | Drugs On The Bus |  |
-| A3 | Necklace Of Divorce |  |
-| A4 | Moth Tongue |  |
-| A5 | Crystal Fairy |  |
-| B1 | Secret Agent Rat |  |
-| B2 | Under Trouble |  |
-| B3 | Bent Teeth |  |
-| B4 | Posesión |  |
-| B5 | Sweet Self |  |
-| B6 | Vampire X-Mass |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chiseler |
+| A2 | Drugs On The Bus |
+| A3 | Necklace Of Divorce |
+| A4 | Moth Tongue |
+| A5 | Crystal Fairy |
+| B1 | Secret Agent Rat |
+| B2 | Under Trouble |
+| B3 | Bent Teeth |
+| B4 | Posesión |
+| B5 | Sweet Self |
+| B6 | Vampire X-Mass |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ At the film's Sundance premiere, Silva said that his film, which is based on a r
 | Format         | Vinyl LP Album Limited Edition (Lavender) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC180 |
-| Notes | Limited edition on lavender vinyl.<br>Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through.<br>Comes with fold out insert with lyrics and credits.<br>Comes with digital download card.<br>Black paper inner sleeve.<br>Tracks are numbered 1-11.<br>Special Thanks:<br>Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou.<br>Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |
+| Notes | Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |
 | Discogs URL    | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479-Crystal-Fairy-Crystal-Fairy) |

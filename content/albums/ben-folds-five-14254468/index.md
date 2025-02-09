@@ -30,20 +30,20 @@ During their first seven years, the band released three studio records, a compil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jackson Cannery | 3:24 |
-| A2 | Philosophy | 4:36 |
-| A3 | Julianne | 2:31 |
-| A4 | Wheres Summer B.? | 4:07 |
-| A5 | Alice Childress | 4:34 |
-| A6 | Underground | 4:11 |
-| B1 | Sports & Wine | 2:58 |
-| B2 | Uncle Walter | 3:51 |
-| B3 | Best Imitation Of Myself | 2:38 |
-| B4 | Video | 4:07 |
-| B5 | The Last Polka | 4:34 |
-| B6 | Boxing | 4:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Jackson Cannery |
+| A2 | Philosophy |
+| A3 | Julianne |
+| A4 | Wheres Summer B.? |
+| A5 | Alice Childress |
+| A6 | Underground |
+| B1 | Sports & Wine |
+| B2 | Uncle Walter |
+| B3 | Best Imitation Of Myself |
+| B4 | Video |
+| B5 | The Last Polka |
+| B6 | Boxing |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ During their first seven years, the band released three studio records, a compil
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Turquoise) |
 | Label          | Plain Recordings |
 | Catalog Number | plain169 |
-| Notes | Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.<br><br>Recorded at Wave Castle, NC, 2/95.<br><br><br> |
+| Notes | Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.    |
 | Discogs URL    | [Ben Folds Five - Ben Folds Five](https://www.discogs.com/release/14254468-Ben-Folds-Five-Ben-Folds-Five) |

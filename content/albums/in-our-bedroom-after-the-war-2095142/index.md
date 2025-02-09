@@ -41,21 +41,21 @@ The album was a nominee for the 2008 Polaris Music Prize.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Beginning After The End |  |
-| A2 | The Night Starts Here |  |
-| A3 | Take Me To The Riot |  |
-| A4 | My Favourite Book |  |
-| B1 | Midnight Coward |  |
-| B2 | The Ghost Of Genova Heights |  |
-| B3 | Personal |  |
-| C1 | Barricade |  |
-| C2 | Window Bird |  |
-| C3 | Bitches In Tokyo |  |
-| C4 | Life 2: The Unhappy Ending |  |
-| D1 | Today Will Be Better, I Swear! |  |
-| D2 | In Our Bedroom After The War |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Beginning After The End |
+| A2 | The Night Starts Here |
+| A3 | Take Me To The Riot |
+| A4 | My Favourite Book |
+| B1 | Midnight Coward |
+| B2 | The Ghost Of Genova Heights |
+| B3 | Personal |
+| C1 | Barricade |
+| C2 | Window Bird |
+| C3 | Bitches In Tokyo |
+| C4 | Life 2: The Unhappy Ending |
+| D1 | Today Will Be Better, I Swear! |
+| D2 | In Our Bedroom After The War |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ The album was a nominee for the 2008 Polaris Music Prize.
 | Format         | Vinyl 2× LP Album |
 | Label          | City Slang |
 | Catalog Number | SLANG1048681 |
-| Notes | Recorded for FLAM at Warehouse Studios, Vancouver.<br>Mixed at Phase One, Toronto.<br>Mastered at The Lodge.<br>Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal.<br>Additional engineering on "The Night Starts Here" at Phase One, Toronto.<br><br>Gatefold with printed inner sleeves.<br>Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.  <br>Direct Metal Mastering. |
+| Notes | Recorded for FLAM at Warehouse Studios, Vancouver. Mixed at Phase One, Toronto. Mastered at The Lodge. Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal. Additional engineering on "The Night Starts Here" at Phase One, Toronto.  Gatefold with printed inner sleeves. Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.   Direct Metal Mastering. |
 | Discogs URL    | [Stars - In Our Bedroom After The War](https://www.discogs.com/release/2095142-Stars-In-Our-Bedroom-After-The-War) |

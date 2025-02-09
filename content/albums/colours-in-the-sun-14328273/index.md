@@ -34,18 +34,18 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Colours | 4:04 |
-| A2 | Severomance | 4:22 |
-| A3 | Brightstar | 4:31 |
-| A4 | Saccharine Dream | 5:27 |
-| A5 | Entropy | 4:42 |
-| B1 | Reconnected | 4:47 |
-| B2 | Now Or Never | 1:38 |
-| B3 | Sign Of The Times | 3:46 |
-| B4 | Water Over The Bridge | 4:42 |
-| B5 | Runaway | 4:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Colours |
+| A2 | Severomance |
+| A3 | Brightstar |
+| A4 | Saccharine Dream |
+| A5 | Entropy |
+| B1 | Reconnected |
+| B2 | Now Or Never |
+| B3 | Sign Of The Times |
+| B4 | Water Over The Bridge |
+| B5 | Runaway |
 
 
 ## Apple Music

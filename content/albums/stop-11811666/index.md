@@ -36,20 +36,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Walking Back To Me | 3:40 |
-| A2 | Your Love Is All | 4:09 |
-| A3 | Stop | 4:53 |
-| A4 | It Makes Me Wonder | 4:33 |
-| A5 | This Feeling | 3:21 |
-| A6 | Tea | 0:41 |
-| B1 | Piece Of My Luck | 3:00 |
-| B2 | Ball And Chain | 4:34 |
-| B3 | Wrap Me Up | 3:10 |
-| B4 | I'll Be In Love | 5:16 |
-| B5 | Merry Go Round | 3:07 |
-| B6 | Sometimes You Just Don't Know | 3:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Walking Back To Me |
+| A2 | Your Love Is All |
+| A3 | Stop |
+| A4 | It Makes Me Wonder |
+| A5 | This Feeling |
+| A6 | Tea |
+| B1 | Piece Of My Luck |
+| B2 | Ball And Chain |
+| B3 | Wrap Me Up |
+| B4 | I'll Be In Love |
+| B5 | Merry Go Round |
+| B6 | Sometimes You Just Don't Know |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | Ama 5195 |
-| Notes | Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163<br>6 page insert with lyrics, not 4 page.<br>Etched runout starts JA, not AJ.<br>Song timings different.<br> |
+| Notes | Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different.  |
 | Discogs URL    | [Sam Brown - Stop!](https://www.discogs.com/release/11811666-Sam-Brown-Stop) |

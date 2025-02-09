@@ -31,22 +31,22 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 125 West 3rd Street | 3:05 |
-| A2 | I'll Manage Somehow | 2:35 |
-| A3 | Sleeping In | 4:42 |
-| A4 | Little Miss Pinpoint Eyes | 2:06 |
-| A5 | Daydreamer | 2:16 |
-| A6 | Hollywood Girl | 2:18 |
-| B1 | Being Brave | 4:02 |
-| B2 | Around You Again | 3:23 |
-| B3 | The One | 3:43 |
-| B4 | Stardust | 2:55 |
-| B5 | Piece Of Me | 3:02 |
-| B6 | Stardust (Reprise) | 1:12 |
-| B7 | Bones and Red Meat |  |
-| B8 | We Love You |  |
+| Position | Title |
+|----------|--------|
+| A1 | 125 West 3rd Street |
+| A2 | I'll Manage Somehow |
+| A3 | Sleeping In |
+| A4 | Little Miss Pinpoint Eyes |
+| A5 | Daydreamer |
+| A6 | Hollywood Girl |
+| B1 | Being Brave |
+| B2 | Around You Again |
+| B3 | The One |
+| B4 | Stardust |
+| B5 | Piece Of Me |
+| B6 | Stardust (Reprise) |
+| B7 | Bones and Red Meat |
+| B8 | We Love You |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Indie Rock", "Britpop"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 654 |
-| Notes | Record Store Day 2020 DROP#3 release.<br><br>Runouts are stamped |
+| Notes | Record Store Day 2020 DROP#3 release.  Runouts are stamped |
 | Discogs URL    | [Menswear - Nuisance](https://www.discogs.com/release/15932078-Menswer-Nuisance) |

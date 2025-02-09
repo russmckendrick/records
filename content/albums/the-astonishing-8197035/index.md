@@ -39,44 +39,44 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Act 1 |  |
-| A1 | Descent Of The Nomacs | 1:08 |
-| A2 | Dystopian Overture | 4:50 |
-| A3 | The Gift Of Music | 4:00 |
-| A4 | The Answer | 1:52 |
-| A5 | A Better Life | 4:38 |
-| B6 | Lord Nafaryus | 3:28 |
-| B7 | A Savior In The Square | 4:15 |
-| B8 | When Your Time Has Come | 4:16 |
-| B9 | Act Of Faythe | 4:58 |
-| C10 | Three Days | 3:43 |
-| C11 | The Hovering Sojourn | 0:24 |
-| C12 | Brother, Can You Hear Me? | 5:07 |
-| C13 | A Life Left Behind | 5:48 |
-| D14 | Ravenskill | 6:00 |
-| D15 | Chosen | 4:29 |
-| D16 | A Tempting Offer | 4:19 |
-| D17 | Digital Discord | 0:45 |
-| E18 | The X Aspect | 4:12 |
-| E19 | A New Beginning | 7:40 |
-| E20 | The Road To Revolution | 3:33 |
-|  | Act 2 |  |
-| F1 | 2285 Entr'acte | 2:20 |
-| F2 | Moment Of Betrayal | 6:06 |
-| F3 | Heaven's Cove | 4:13 |
-| F4 | Begin Again | 3:51 |
-| G5 | The Path That Divides | 4:58 |
-| G6 | Machine Chatter | 0:54 |
-| G7 | The Walking Shadow | 2:58 |
-| G8 | My Last Farewell | 3:40 |
-| G9 | Losing Faythe | 4:08 |
-| H10 | Whispers On The Wind | 1:30 |
-| H11 | Hymn Of A Thousand Voices | 3:35 |
-| H12 | Our New World | 4:09 |
-| H13 | Power Down | 1:22 |
-| H14 | Astonishing | 5:46 |
+| Position | Title |
+|----------|--------|
+|  | Act 1 |
+| A1 | Descent Of The Nomacs |
+| A2 | Dystopian Overture |
+| A3 | The Gift Of Music |
+| A4 | The Answer |
+| A5 | A Better Life |
+| B6 | Lord Nafaryus |
+| B7 | A Savior In The Square |
+| B8 | When Your Time Has Come |
+| B9 | Act Of Faythe |
+| C10 | Three Days |
+| C11 | The Hovering Sojourn |
+| C12 | Brother, Can You Hear Me? |
+| C13 | A Life Left Behind |
+| D14 | Ravenskill |
+| D15 | Chosen |
+| D16 | A Tempting Offer |
+| D17 | Digital Discord |
+| E18 | The X Aspect |
+| E19 | A New Beginning |
+| E20 | The Road To Revolution |
+|  | Act 2 |
+| F1 | 2285 Entr'acte |
+| F2 | Moment Of Betrayal |
+| F3 | Heaven's Cove |
+| F4 | Begin Again |
+| G5 | The Path That Divides |
+| G6 | Machine Chatter |
+| G7 | The Walking Shadow |
+| G8 | My Last Farewell |
+| G9 | Losing Faythe |
+| H10 | Whispers On The Wind |
+| H11 | Hymn Of A Thousand Voices |
+| H12 | Our New World |
+| H13 | Power Down |
+| H14 | Astonishing |
 
 
 ## Apple Music
@@ -94,5 +94,5 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 | Format         | Box Set, Vinyl 2× LP, Vinyl 2× LP, All Media Album (180g) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7493-1 |
-| Notes | Story by John Petrucci<br><br>The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018.<br>Made in the EU<br><br>Durations do not appear on this release. Timings via stopwatch. |
+| Notes | Story by John Petrucci  The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018. Made in the EU  Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Dream Theater - The Astonishing](https://www.discogs.com/release/8197035-Dream-Theater-The-Astonishing) |

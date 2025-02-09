@@ -32,22 +32,22 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side Clarence |  |
-| A1 | You're So Cool | 3:40 |
-| A2 | Graceland | 3:25 |
-| A3 | In Dreams | 3:45 |
-| A4 | Wounded Bird | 5:10 |
-| A5 | I Want Your Body | 4:18 |
-| A6 | Stars At Dawn | 2:04 |
-|  | Side Alabama |  |
-| B1 | I Need A Heart To Come Home To | 4:20 |
-| B2 | Viens Mallika Sous Le Dome Edais | 3:56 |
-| B3 | (Love Is) The Tender Trap | 3:37 |
-| B4 | Outshined | 5:12 |
-| B5 | Amid The Chaos Of Day | 4:54 |
-| B6 | Two Hearts | 3:33 |
+| Position | Title |
+|----------|--------|
+|  | Side Clarence |
+| A1 | You're So Cool |
+| A2 | Graceland |
+| A3 | In Dreams |
+| A4 | Wounded Bird |
+| A5 | I Want Your Body |
+| A6 | Stars At Dawn |
+|  | Side Alabama |
+| B1 | I Need A Heart To Come Home To |
+| B2 | Viens Mallika Sous Le Dome Edais |
+| B3 | (Love Is) The Tender Trap |
+| B4 | Outshined |
+| B5 | Amid The Chaos Of Day |
+| B6 | Two Hearts |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 | Format         | Vinyl LP Limited Edition (Clear w/ White Splatter) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-0759 |
-| Notes | 25th Anniversary Edition.<br>Pressed on clear with white splatter vinyl.<br>Limited Edition of 1700. |
+| Notes | 25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700. |
 | Discogs URL    | [Various - True Romance (Motion Picture Soundtrack)](https://www.discogs.com/release/12488063-Various-True-Romance-Motion-Picture-Soundtrack) |

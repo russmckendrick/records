@@ -31,18 +31,18 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speak To Me |  |
-| A2 | Breathe (In The Air) |  |
-| A3 | On The Run |  |
-| A4 | Time |  |
-| A5 | The Great Gig In The Sky |  |
-| B6 | Money |  |
-| B7 | Us And Them |  |
-| B8 | Any Colour You Like |  |
-| B9 | Brain Damage |  |
-| B10 | Eclipse |  |
+| Position | Title |
+|----------|--------|
+| A1 | Speak To Me |
+| A2 | Breathe (In The Air) |
+| A3 | On The Run |
+| A4 | Time |
+| A5 | The Great Gig In The Sky |
+| B6 | Money |
+| B7 | Us And Them |
+| B8 | Any Colour You Like |
+| B9 | Brain Damage |
+| B10 | Eclipse |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 | Format         | Vinyl LP Album (Yellow ) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75411 |
-| Notes | Track numbering on the label is sequential 1 through to 10.<br><br>Custom packaging includes a die-cut front panel. Includes digital download.<br><br>Made in the EU.<br><br>First cat # is on the spine, second cat # is on inner sleeve. |
+| Notes | Track numbering on the label is sequential 1 through to 10.  Custom packaging includes a die-cut front panel. Includes digital download.  Made in the EU.  First cat # is on the spine, second cat # is on inner sleeve. |
 | Discogs URL    | [Doom Side Of The Moon - Doom Side Of The Moon](https://www.discogs.com/release/11246319-Doom-Side-Of-The-Moon-Doom-Side-Of-The-Moon) |

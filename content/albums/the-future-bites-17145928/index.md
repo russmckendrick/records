@@ -47,17 +47,17 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Unself | 1:06 |
-| A2 | Self | 2:55 |
-| A3 | King Ghost | 4:06 |
-| A4 | 12 Things I Forgot | 4:42 |
-| A5 | Eminent Sleaze | 3:52 |
-| A6 | Man Of The People | 4:41 |
-| B1 | Personal Shopper | 9:49 |
-| B2 | Follower | 4:39 |
-| B3 | Count Of Unease | 6:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Unself |
+| A2 | Self |
+| A3 | King Ghost |
+| A4 | 12 Things I Forgot |
+| A5 | Eminent Sleaze |
+| A6 | Man Of The People |
+| B1 | Personal Shopper |
+| B2 | Follower |
+| B3 | Count Of Unease |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 | Format         | Vinyl LP Album Limited Edition (Red, 180 Gram) |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPC |
-| Notes | ℗&© 2021 Steven Wilson Productions Ltd<br><br>180g red vinyl in gatefold sleeve with O-Card slipcase, including a 16-page booklet with lyrics, credits and photos.<br><br>Early copies came with poster of cover signed by Steven Wilson.<br><br>All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC<br><br>Recorded at Muttley Ranch, London.<br>Additional recording at Snap Studios.<br>Mastered at Gateway Mastering, Portland, Maine.<br><br>Published by Hands Off It's Mine Publishing administered by Universal Music Publishing Group.<br><br>[a57103] appears courtesy of Virgin / EMI Records.<br>[a1941784] appears courtesy of Everything Everything (and Kyle).<br>[a432252] courtesy of [a28972] (track A3).<br>[a1167068] and [a2265938] courtesy of [a337145] (track A4).<br><br>Runouts:<br>- Runouts are machine-stamped except for '0866569' and the "geometric" marks which are hand-etched<br>- "Geometric" marks are mirrored |
+| Notes | ℗&© 2021 Steven Wilson Productions Ltd  180g red vinyl in gatefold sleeve with O-Card slipcase, including a 16-page booklet with lyrics, credits and photos.  Early copies came with poster of cover signed by Steven Wilson.  All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC  Recorded at Muttley Ranch, London. Additional recording at Snap Studios. Mastered at Gateway Mastering, Portland, Maine.  Published by Hands Off It's Mine Publishing administered by Universal Music Publishing Group.  [a57103] appears courtesy of Virgin / EMI Records. [a1941784] appears courtesy of Everything Everything (and Kyle). [a432252] courtesy of [a28972] (track A3). [a1167068] and [a2265938] courtesy of [a337145] (track A4).  Runouts: - Runouts are machine-stamped except for '0866569' and the "geometric" marks which are hand-etched - "Geometric" marks are mirrored |
 | Discogs URL    | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17145928-Steven-Wilson-The-Future-Bites) |

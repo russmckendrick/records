@@ -27,18 +27,18 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Vision | 3:05 |
-| A2 | There Is A Light | 4:10 |
-| A3 | Payday | 0:45 |
-| A4 | Busy Making Progress | 2:55 |
-| A5 | When You Go | 4:25 |
-| B1 | Protoplasmic Crud | 3:25 |
-| B2 | Stop And Think | 2:50 |
-| B3 | Is It Worth The Price | 3:40 |
-| B4 | A Long Long Way To Go ..... | 3:00 |
-| B5 | Changing The Face Of The Earth | 5:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Vision |
+| A2 | There Is A Light |
+| A3 | Payday |
+| A4 | Busy Making Progress |
+| A5 | When You Go |
+| B1 | Protoplasmic Crud |
+| B2 | Stop And Think |
+| B3 | Is It Worth The Price |
+| B4 | A Long Long Way To Go ..... |
+| B5 | Changing The Face Of The Earth |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Sudarshan Disc |
 | Catalog Number | BBT 111 |
-| Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.<br><br>Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.<br><br>On labels:<br>℗ © 1978, Sudarshan Disc<br>On sleeve:<br>© Golden Lotus Productions 1978 |
+| Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.  Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.  On labels: ℗ © 1978, Sudarshan Disc On sleeve: © Golden Lotus Productions 1978 |
 | Discogs URL    | [Progress - Busy Making Progress](https://www.discogs.com/release/920716-Progress-11-Busy-Making-Progress) |

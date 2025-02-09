@@ -129,210 +129,210 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album, Remastered In 2011 |  |
-| CD1-1 | Speak To Me | 1:07 |
-| CD1-2 | Breathe (In The Air) | 2:50 |
-| CD1-3 | On The Run | 3:45 |
-| CD1-4 | Time | 6:53 |
-| CD1-5 | The Great Gig In The Sky | 4:44 |
-| CD1-6 | Money | 6:23 |
-| CD1-7 | Us And Them | 7:49 |
-| CD1-8 | Any Colour You Like | 3:26 |
-| CD1-9 | Brain Damage | 3:47 |
-| CD1-10 | Eclipse | 2:13 |
-|  | The Dark Side Of The Moon Live At Wembley 1974 |  |
-| CD2-1 | Speak To Me | 2:46 |
-| CD2-2 | Breathe (In The Air) | 2:51 |
-| CD2-3 | On The Run | 5:09 |
-| CD2-4 | Time | 6:32 |
-| CD2-5 | The Great Gig In The Sky | 6:50 |
-| CD2-6 | Money | 8:41 |
-| CD2-7 | Us And Them | 8:10 |
-| CD2-8 | Any Colour You Like | 8:11 |
-| CD2-9 | Brain Damage | 3:44 |
-| CD2-10 | Eclipse | 2:19 |
-|  | (Audio Only): The Dark Side Of The Moon Multi-Channel Audio Mixes |  |
-|  | 5.1 Surround Mix (2003) 448kbps |  |
-| DVD1-1-1 | Speak To Me | 1:07 |
-| DVD1-1-2 | Breathe (In The Air) | 2:51 |
-| DVD1-1-3 | On The Run | 3:36 |
-| DVD1-1-4 | Time | 7:00 |
-| DVD1-1-5 | The Great Gig In The Sky | 4:42 |
-| DVD1-1-6 | Money | 6:29 |
-| DVD1-1-7 | Us And Them | 7:47 |
-| DVD1-1-8 | Any Colour You Like | 3:26 |
-| DVD1-1-9 | Brain Damage | 3:48 |
-| DVD1-1-10 | Eclipse | 2:20 |
-|  | 4.0 Quad Mix (1973) 448kbps |  |
-| DVD1-2-1 | Speak To Me | 1:07 |
-| DVD1-2-2 | Breathe (In The Air) | 2:51 |
-| DVD1-2-3 | On The Run | 3:36 |
-| DVD1-2-4 | Time | 7:00 |
-| DVD1-2-5 | The Great Gig In The Sky | 4:42 |
-| DVD1-2-6 | Money | 6:29 |
-| DVD1-2-7 | Us And Them | 7:47 |
-| DVD1-2-8 | Any Colour You Like | 3:26 |
-| DVD1-2-9 | Brain Damage | 3:48 |
-| DVD1-2-10 | Eclipse | 2:20 |
-|  | LPCM Stereo Mix (1973) Remastered In 2011 |  |
-| DVD1-3-1 | Speak To Me | 1:07 |
-| DVD1-3-2 | Breathe (In The Air) | 2:51 |
-| DVD1-3-3 | On The Run | 3:36 |
-| DVD1-3-4 | Time | 7:00 |
-| DVD1-3-5 | The Great Gig In The Sky | 4:42 |
-| DVD1-3-6 | Money | 6:29 |
-| DVD1-3-7 | Us And Them | 7:47 |
-| DVD1-3-8 | Any Colour You Like | 3:26 |
-| DVD1-3-9 | Brain Damage | 3:48 |
-| DVD1-3-10 | Eclipse | 2:20 |
-|  | 5.1 Surround Mix (2003) 640kbps |  |
-| DVD1-4-1 | Speak To Me | 1:07 |
-| DVD1-4-2 | Breathe (In The Air) | 2:51 |
-| DVD1-4-3 | On The Run | 3:36 |
-| DVD1-4-4 | Time | 7:00 |
-| DVD1-4-5 | The Great Gig In The Sky | 4:42 |
-| DVD1-4-6 | Money | 6:29 |
-| DVD1-4-7 | Us And Them | 7:47 |
-| DVD1-4-8 | Any Colour You Like | 3:26 |
-| DVD1-4-9 | Brain Damage | 3:48 |
-| DVD1-4-10 | Eclipse | 2:20 |
-|  | 4.0 Quad Mix (1973) 640kbps |  |
-| DVD1-5-1 | Speak To Me | 1:07 |
-| DVD1-5-2 | Breathe (In The Air) | 2:51 |
-| DVD1-5-3 | On The Run | 3:36 |
-| DVD1-5-4 | Time | 7:00 |
-| DVD1-5-5 | The Great Gig In The Sky | 4:42 |
-| DVD1-5-6 | Money | 6:29 |
-| DVD1-5-7 | Us And Them | 7:47 |
-| DVD1-5-8 | Any Colour You Like | 3:26 |
-| DVD1-5-9 | Brain Damage | 3:48 |
-| DVD1-5-10 | Eclipse | 2:20 |
-|  | Audio-Visual Material |  |
-|  | Live In Brighton 1972 |  |
-| DVD2-1-1 | Careful With That Axe, Eugene | 7:43 |
-| DVD2-1-2 | Set The Controls For The Heart Of The Sun | 9:13 |
-|  | The Dark Side Of The Moon 2003 Documentary |  |
-| DVD2-2-1 | Chapter One | 5:48 |
-| DVD2-2-2 | Chapter Two | 4:29 |
-| DVD2-2-3 | Chapter Three | 5:43 |
-| DVD2-2-4 | Chapter Four | 5:09 |
-| DVD2-2-5 | Chapter Five | 4:23 |
-|  | Concert Screen Films In LPCM Stereo And 5.1 Surround Mixes |  |
-|  | British Tour 1974 |  |
-| DVD2-3-1 | Speak To Me | 4:19 |
-| DVD2-3-2 | On The Run | 4:31 |
-| DVD2-3-3 | Time | 2:22 |
-| DVD2-3-4 | Money | 1:06 |
-| DVD2-3-5 | Brain Damage | 2:33 |
-| DVD2-3-6 | Eclipse | 1:46 |
-|  | French Tour 1974 |  |
-| DVD2-4-1 | Speak To Me | 3:16 |
-| DVD2-4-2 | On The Run | 1:27 |
-| DVD2-4-3 | Time | 2:13 |
-| DVD2-4-5 | The Great Gig In The Sky | 4:37 |
-| DVD2-4-5 | Money | 2:28 |
-| DVD2-4-6 | Assorted Lunatics | 0:53 |
-| DVD2-4-7 | Brain Damage | 1:16 |
-| DVD2-4-8 | Eclipse | 2:21 |
-|  | North American Tour 1975 |  |
-| DVD2-5-1 | Speak To Me | 4:01 |
-| DVD2-5-2 | On The Run | 4:33 |
-| DVD2-5-3 | Time | 2:17 |
-| DVD2-5-4 | The Great Gig In The Sky | 4:08 |
-| DVD2-5-5 | Money | 2:19 |
-| DVD2-5-6 | Us And Them | 4:56 |
-| DVD2-5-7 | Eclipse | 1:52 |
-|  | High Resolution Audio And Audio-Visual Material |  |
-|  | Audio |  |
-|  | 5.1 Surround Mix (2003) 24bit/96kHz Uncompressed | 43:26 |
-| BD-1-1 | Speak To Me | 1:12 |
-| BD-1-2 | Breathe (In The Air) | 2:51 |
-| BD-1-3 | On The Run | 3:32 |
-| BD-1-4 | Time | 7:07 |
-| BD-1-5 | The Great Gig In The Sky | 4:43 |
-| BD-1-6 | Money | 6:26 |
-| BD-1-7 | Us And Them | 7:48 |
-| BD-1-8 | Any Colour You Like | 3:26 |
-| BD-1-9 | Brain Damage | 3:52 |
-| BD-1-10 | Eclipse | 2:29 |
-|  | Original Stereo Mix (1973) 24bit/96kHz Uncompressed | 43:26 |
-| BD-2-1 | Speak To Me | 1:12 |
-| BD-2-2 | Breathe (In The Air) | 2:51 |
-| BD-2-3 | On The Run | 3:32 |
-| BD-2-4 | Time | 7:07 |
-| BD-2-5 | The Great Gig In The Sky | 4:43 |
-| BD-2-6 | Money | 6:26 |
-| BD-2-7 | Us And Them | 7:48 |
-| BD-2-8 | Any Colour You Like | 3:26 |
-| BD-2-9 | Brain Damage | 3:52 |
-| BD-2-10 | Eclipse | 2:29 |
-|  | 4.0 Quad Mix (1974) 24bit/96kHz Uncompressed | 43:26 |
-| BD-3-1 | Speak To Me | 1:12 |
-| BD-3-2 | Breathe (In The Air) | 2:51 |
-| BD-3-3 | On The Run | 3:32 |
-| BD-3-4 | Time | 7:07 |
-| BD-3-5 | The Great Gig In The Sky | 4:43 |
-| BD-3-6 | Money | 6:26 |
-| BD-3-7 | Us And Them | 7:48 |
-| BD-3-8 | Any Colour You Like | 3:26 |
-| BD-3-9 | Brain Damage | 3:52 |
-| BD-3-10 | Eclipse | 2:29 |
-|  | Visual |  |
-|  | Live In Brighton 1972 |  |
-| BD-4-1 | Careful With That Axe, Eugene | 7:44 |
-| BD-4-2 | Set The Controls For The Heart Of The Sun | 9:13 |
-|  | The Dark Side Of The Moon 2003 Documentary | 25:32 |
-| BD-5-1 | Chapter One | 5:48 |
-| BD-5-2 | Chapter Two | 4:30 |
-| BD-5-3 | Chapter Three | 5:17 |
-| BD-5-4 | Chapter Four | 5:09 |
-| BD-5-5 | Chapter Five | 4:22 |
-|  | Concert Screen Films (LPCM Stereo & 5.1 Surround Mix 24bit/48kHz Uncompressed) |  |
-|  | British Tour 1974 - Concert Screen Reels 1 & 2 | 16:38 |
-| BD-6-1 | Speak To Me | 4:19 |
-| BD-6-2 | On The Run | 4:31 |
-| BD-6-3 | Time | 2:23 |
-| BD-6-4 | Money | 1:06 |
-| BD-6-5 | Brain Damage | 2:33 |
-| BD-6-6 | Eclipse | 1:45 |
-|  | French Tour 1974 - Concert Screen Reels 1 & 2 | 18:33 |
-| BD-7-1 | Speak To Me | 3:16 |
-| BD-7-2 | On The Run | 1:27 |
-| BD-7-3 | Time | 2:13 |
-| BD-7-4 | The Great Gig In The Sky | 4:38 |
-| BD-7-5 | Money | 2:28 |
-| BD-7-6 | Assorted Lunatics | 0:53 |
-| BD-7-7 | Brain Damage | 1:16 |
-| BD-7-8 | Eclipse | 2:22 |
-|  | North American Tour 1975 - Concert Screen Reels 1 & 2 | 24:06 |
-| BD-8-1 | Speak To Me | 4:00 |
-| BD-8-2 | On The Run | 4:34 |
-| BD-8-3 | Time | 2:16 |
-| BD-8-4 | The Great Gig In The Sky | 4:09 |
-| BD-8-5 | Money | 2:19 |
-| BD-8-6 | Us And Them | 4:56 |
-| BD-8-7 | Eclipse | 1:08 |
-|  | Previously Unreleased Tracks |  |
-|  | The Dark Side Of The Moon Early Mix (1972) |  |
-| CD3-1 | Breathe (In The Air) | 3:10 |
-| CD3-2 | On The Run | 3:30 |
-| CD3-3 | Time | 6:57 |
-| CD3-4 | The Great Gig In The Sky | 4:11 |
-| CD3-5 | Money | 6:53 |
-| CD3-6 | Us And Them | 7:15 |
-| CD3-7 | Any Colour You Like | 3:26 |
-| CD3-8 | Brain Damage | 3:51 |
-| CD3-9 | Eclipse | 1:39 |
-|  | Extra Audio Tracks |  |
-| CD3-10 | The Hard Way (From 'Household Objects') | 3:10 |
-| CD3-11 | Us And Them (Richard Wright Demo) | 5:39 |
-| CD3-12 | The Travel Sequence (Live In Brighton June 1972) | 4:37 |
-| CD3-13 | The Mortality Sequence (Live In Brighton June 1972) | 3:24 |
-| CD3-14 | Any Colour You Like (Live In Brighton June 1972) | 4:45 |
-| CD3-15 | The Travel Sequence (Previously Unreleased Studio Recording) | 2:21 |
-| CD3-16 | Money (Roger Waters Demo) | 2:38 |
+| Position | Title |
+|----------|--------|
+|  | The Original Album, Remastered In 2011 |
+| CD1-1 | Speak To Me |
+| CD1-2 | Breathe (In The Air) |
+| CD1-3 | On The Run |
+| CD1-4 | Time |
+| CD1-5 | The Great Gig In The Sky |
+| CD1-6 | Money |
+| CD1-7 | Us And Them |
+| CD1-8 | Any Colour You Like |
+| CD1-9 | Brain Damage |
+| CD1-10 | Eclipse |
+|  | The Dark Side Of The Moon Live At Wembley 1974 |
+| CD2-1 | Speak To Me |
+| CD2-2 | Breathe (In The Air) |
+| CD2-3 | On The Run |
+| CD2-4 | Time |
+| CD2-5 | The Great Gig In The Sky |
+| CD2-6 | Money |
+| CD2-7 | Us And Them |
+| CD2-8 | Any Colour You Like |
+| CD2-9 | Brain Damage |
+| CD2-10 | Eclipse |
+|  | (Audio Only): The Dark Side Of The Moon Multi-Channel Audio Mixes |
+|  | 5.1 Surround Mix (2003) 448kbps |
+| DVD1-1-1 | Speak To Me |
+| DVD1-1-2 | Breathe (In The Air) |
+| DVD1-1-3 | On The Run |
+| DVD1-1-4 | Time |
+| DVD1-1-5 | The Great Gig In The Sky |
+| DVD1-1-6 | Money |
+| DVD1-1-7 | Us And Them |
+| DVD1-1-8 | Any Colour You Like |
+| DVD1-1-9 | Brain Damage |
+| DVD1-1-10 | Eclipse |
+|  | 4.0 Quad Mix (1973) 448kbps |
+| DVD1-2-1 | Speak To Me |
+| DVD1-2-2 | Breathe (In The Air) |
+| DVD1-2-3 | On The Run |
+| DVD1-2-4 | Time |
+| DVD1-2-5 | The Great Gig In The Sky |
+| DVD1-2-6 | Money |
+| DVD1-2-7 | Us And Them |
+| DVD1-2-8 | Any Colour You Like |
+| DVD1-2-9 | Brain Damage |
+| DVD1-2-10 | Eclipse |
+|  | LPCM Stereo Mix (1973) Remastered In 2011 |
+| DVD1-3-1 | Speak To Me |
+| DVD1-3-2 | Breathe (In The Air) |
+| DVD1-3-3 | On The Run |
+| DVD1-3-4 | Time |
+| DVD1-3-5 | The Great Gig In The Sky |
+| DVD1-3-6 | Money |
+| DVD1-3-7 | Us And Them |
+| DVD1-3-8 | Any Colour You Like |
+| DVD1-3-9 | Brain Damage |
+| DVD1-3-10 | Eclipse |
+|  | 5.1 Surround Mix (2003) 640kbps |
+| DVD1-4-1 | Speak To Me |
+| DVD1-4-2 | Breathe (In The Air) |
+| DVD1-4-3 | On The Run |
+| DVD1-4-4 | Time |
+| DVD1-4-5 | The Great Gig In The Sky |
+| DVD1-4-6 | Money |
+| DVD1-4-7 | Us And Them |
+| DVD1-4-8 | Any Colour You Like |
+| DVD1-4-9 | Brain Damage |
+| DVD1-4-10 | Eclipse |
+|  | 4.0 Quad Mix (1973) 640kbps |
+| DVD1-5-1 | Speak To Me |
+| DVD1-5-2 | Breathe (In The Air) |
+| DVD1-5-3 | On The Run |
+| DVD1-5-4 | Time |
+| DVD1-5-5 | The Great Gig In The Sky |
+| DVD1-5-6 | Money |
+| DVD1-5-7 | Us And Them |
+| DVD1-5-8 | Any Colour You Like |
+| DVD1-5-9 | Brain Damage |
+| DVD1-5-10 | Eclipse |
+|  | Audio-Visual Material |
+|  | Live In Brighton 1972 |
+| DVD2-1-1 | Careful With That Axe, Eugene |
+| DVD2-1-2 | Set The Controls For The Heart Of The Sun |
+|  | The Dark Side Of The Moon 2003 Documentary |
+| DVD2-2-1 | Chapter One |
+| DVD2-2-2 | Chapter Two |
+| DVD2-2-3 | Chapter Three |
+| DVD2-2-4 | Chapter Four |
+| DVD2-2-5 | Chapter Five |
+|  | Concert Screen Films In LPCM Stereo And 5.1 Surround Mixes |
+|  | British Tour 1974 |
+| DVD2-3-1 | Speak To Me |
+| DVD2-3-2 | On The Run |
+| DVD2-3-3 | Time |
+| DVD2-3-4 | Money |
+| DVD2-3-5 | Brain Damage |
+| DVD2-3-6 | Eclipse |
+|  | French Tour 1974 |
+| DVD2-4-1 | Speak To Me |
+| DVD2-4-2 | On The Run |
+| DVD2-4-3 | Time |
+| DVD2-4-5 | The Great Gig In The Sky |
+| DVD2-4-5 | Money |
+| DVD2-4-6 | Assorted Lunatics |
+| DVD2-4-7 | Brain Damage |
+| DVD2-4-8 | Eclipse |
+|  | North American Tour 1975 |
+| DVD2-5-1 | Speak To Me |
+| DVD2-5-2 | On The Run |
+| DVD2-5-3 | Time |
+| DVD2-5-4 | The Great Gig In The Sky |
+| DVD2-5-5 | Money |
+| DVD2-5-6 | Us And Them |
+| DVD2-5-7 | Eclipse |
+|  | High Resolution Audio And Audio-Visual Material |
+|  | Audio |
+|  | 5.1 Surround Mix (2003) 24bit/96kHz Uncompressed |
+| BD-1-1 | Speak To Me |
+| BD-1-2 | Breathe (In The Air) |
+| BD-1-3 | On The Run |
+| BD-1-4 | Time |
+| BD-1-5 | The Great Gig In The Sky |
+| BD-1-6 | Money |
+| BD-1-7 | Us And Them |
+| BD-1-8 | Any Colour You Like |
+| BD-1-9 | Brain Damage |
+| BD-1-10 | Eclipse |
+|  | Original Stereo Mix (1973) 24bit/96kHz Uncompressed |
+| BD-2-1 | Speak To Me |
+| BD-2-2 | Breathe (In The Air) |
+| BD-2-3 | On The Run |
+| BD-2-4 | Time |
+| BD-2-5 | The Great Gig In The Sky |
+| BD-2-6 | Money |
+| BD-2-7 | Us And Them |
+| BD-2-8 | Any Colour You Like |
+| BD-2-9 | Brain Damage |
+| BD-2-10 | Eclipse |
+|  | 4.0 Quad Mix (1974) 24bit/96kHz Uncompressed |
+| BD-3-1 | Speak To Me |
+| BD-3-2 | Breathe (In The Air) |
+| BD-3-3 | On The Run |
+| BD-3-4 | Time |
+| BD-3-5 | The Great Gig In The Sky |
+| BD-3-6 | Money |
+| BD-3-7 | Us And Them |
+| BD-3-8 | Any Colour You Like |
+| BD-3-9 | Brain Damage |
+| BD-3-10 | Eclipse |
+|  | Visual |
+|  | Live In Brighton 1972 |
+| BD-4-1 | Careful With That Axe, Eugene |
+| BD-4-2 | Set The Controls For The Heart Of The Sun |
+|  | The Dark Side Of The Moon 2003 Documentary |
+| BD-5-1 | Chapter One |
+| BD-5-2 | Chapter Two |
+| BD-5-3 | Chapter Three |
+| BD-5-4 | Chapter Four |
+| BD-5-5 | Chapter Five |
+|  | Concert Screen Films (LPCM Stereo & 5.1 Surround Mix 24bit/48kHz Uncompressed) |
+|  | British Tour 1974 - Concert Screen Reels 1 & 2 |
+| BD-6-1 | Speak To Me |
+| BD-6-2 | On The Run |
+| BD-6-3 | Time |
+| BD-6-4 | Money |
+| BD-6-5 | Brain Damage |
+| BD-6-6 | Eclipse |
+|  | French Tour 1974 - Concert Screen Reels 1 & 2 |
+| BD-7-1 | Speak To Me |
+| BD-7-2 | On The Run |
+| BD-7-3 | Time |
+| BD-7-4 | The Great Gig In The Sky |
+| BD-7-5 | Money |
+| BD-7-6 | Assorted Lunatics |
+| BD-7-7 | Brain Damage |
+| BD-7-8 | Eclipse |
+|  | North American Tour 1975 - Concert Screen Reels 1 & 2 |
+| BD-8-1 | Speak To Me |
+| BD-8-2 | On The Run |
+| BD-8-3 | Time |
+| BD-8-4 | The Great Gig In The Sky |
+| BD-8-5 | Money |
+| BD-8-6 | Us And Them |
+| BD-8-7 | Eclipse |
+|  | Previously Unreleased Tracks |
+|  | The Dark Side Of The Moon Early Mix (1972) |
+| CD3-1 | Breathe (In The Air) |
+| CD3-2 | On The Run |
+| CD3-3 | Time |
+| CD3-4 | The Great Gig In The Sky |
+| CD3-5 | Money |
+| CD3-6 | Us And Them |
+| CD3-7 | Any Colour You Like |
+| CD3-8 | Brain Damage |
+| CD3-9 | Eclipse |
+|  | Extra Audio Tracks |
+| CD3-10 | The Hard Way (From 'Household Objects') |
+| CD3-11 | Us And Them (Richard Wright Demo) |
+| CD3-12 | The Travel Sequence (Live In Brighton June 1972) |
+| CD3-13 | The Mortality Sequence (Live In Brighton June 1972) |
+| CD3-14 | Any Colour You Like (Live In Brighton June 1972) |
+| CD3-15 | The Travel Sequence (Previously Unreleased Studio Recording) |
+| CD3-16 | Money (Roger Waters Demo) |
 
 
 ## Apple Music
@@ -350,5 +350,5 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 | Format         | CD Album Reissue Remastered Stereo, CD Stereo, DVD DVD-Video Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, CD Stereo, Box Set Limited Edition (Immersion Box Set) |
 | Label          | EMI |
 | Catalog Number | 50999 029431 2 1 |
-| Notes | Digital remaster ℗ 2011<br>The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.<br>© 2011 Pink Floyd Music Ltd.<br><br>Box set also includes:<br><br>36-page 26cm x 26 cm booklet designed by Storm Thorgerson, 20-page 26cm x 26 cm photo book edited by Jill Furmanovsky, exclusive Art Print, 4 x Collectors' Cards featuring art and comments by Storm Thorgerson, replica of The Dark Side Of The Moon tour ticket, replica of The Dark Side Of The Moon backstage pass, 100% viscose (exclusive of 100% acrylic fringe) collectible printed scarf (RN 135394), 3 x collectible black marbles, 9 x collectible coasters (unique to this box) featuring early design sketches, and a 12-page credits booklet. <br><br>Discs 1 - 4 are mounted in the box set, discs 5 and 6 are in separate cardsleeves<br><br>No durations given for discs 1, 2, 3 and 5<br><br>Printed scarf:<br>100% Viscose scarf<br>100% acrylic linge<br>100% polyester label<br><br>EMOE BV, Losplaats 5, 5404 NJ, Uden, <br>Netherlands<br><br>Please note: On this European pressing, Disc 5 (Blu-ray) degraded over time and became unplayable. Replacement discs were made available in 2018 --> [r=12374539]. |
+| Notes | Digital remaster ℗ 2011 The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2011 Pink Floyd Music Ltd.  Box set also includes:  36-page 26cm x 26 cm booklet designed by Storm Thorgerson, 20-page 26cm x 26 cm photo book edited by Jill Furmanovsky, exclusive Art Print, 4 x Collectors' Cards featuring art and comments by Storm Thorgerson, replica of The Dark Side Of The Moon tour ticket, replica of The Dark Side Of The Moon backstage pass, 100% viscose (exclusive of 100% acrylic fringe) collectible printed scarf (RN 135394), 3 x collectible black marbles, 9 x collectible coasters (unique to this box) featuring early design sketches, and a 12-page credits booklet.   Discs 1 - 4 are mounted in the box set, discs 5 and 6 are in separate cardsleeves  No durations given for discs 1, 2, 3 and 5  Printed scarf: 100% Viscose scarf 100% acrylic linge 100% polyester label  EMOE BV, Losplaats 5, 5404 NJ, Uden,  Netherlands  Please note: On this European pressing, Disc 5 (Blu-ray) degraded over time and became unplayable. Replacement discs were made available in 2018 --> [r=12374539]. |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon](https://www.discogs.com/release/3142241-Pink-Floyd-The-Dark-Side-Of-The-Moon) |

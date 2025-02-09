@@ -31,21 +31,21 @@ styles: ["Art Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jibber And Twitch |  |
-| A2 | Gena Lolla Brigida |  |
-| A3 | Hello Mr. Sparrow |  |
-| B4 | It's A Lovely Day |  |
-| B5 | A Wooden Fish On Wheels |  |
-| B6 | Nurses Whispering Verses |  |
-| C7 | Is This The Life? |  |
-| C8 | A Little Man And A House |  |
-| C9 | Hope Day |  |
-| D10 | Dinner Time |  |
-| D11 | Ice A Spot And A Dot On The Dog |  |
-| D12 | R.E.S. |  |
-| D13 | To Go Off And Things |  |
+| Position | Title |
+|----------|--------|
+| A1 | Jibber And Twitch |
+| A2 | Gena Lolla Brigida |
+| A3 | Hello Mr. Sparrow |
+| B4 | It's A Lovely Day |
+| B5 | A Wooden Fish On Wheels |
+| B6 | Nurses Whispering Verses |
+| C7 | Is This The Life? |
+| C8 | A Little Man And A House |
+| C9 | Hope Day |
+| D10 | Dinner Time |
+| D11 | Ice A Spot And A Dot On The Dog |
+| D12 | R.E.S. |
+| D13 | To Go Off And Things |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Art Rock"]
 | Format         | Vinyl 2× LP Album Remastered |
 | Label          | Alphabet (3) |
 | Catalog Number | ALPH LP 001 |
-| Notes | 2015 remastered "Original Edition" <br>Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue. <br><br>Originally released in 1984 as [url=http://www.discogs.com/Cardiacs-The-Seaside/release/4391932]ALPH 001[/url]<br>Record at Crow Studios, Surbition, Surrey, England.<br>Transferred from the original analogue tapes at FX Copyroom.<br>Remastered at Golden Digital No 1 Studio, Prague, July 2015.<br><br> © 1984 The Alphabet Business Concern.  |
+| Notes | 2015 remastered "Original Edition"  Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue.   Originally released in 1984 as [url=http://www.discogs.com/Cardiacs-The-Seaside/release/4391932]ALPH 001[/url] Record at Crow Studios, Surbition, Surrey, England. Transferred from the original analogue tapes at FX Copyroom. Remastered at Golden Digital No 1 Studio, Prague, July 2015.   © 1984 The Alphabet Business Concern.  |
 | Discogs URL    | [Cardiacs - The Seaside (Original Edition)](https://www.discogs.com/release/7622910-Cardiacs-The-Seaside-Original-Edition) |

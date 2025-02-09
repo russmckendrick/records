@@ -53,43 +53,43 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 2019 Michael Hunter Re-Mix |  |
-| A1 | Gazpacho |  |
-| A2 | Cannibal Surf Babe |  |
-| B1 | Beautiful |  |
-| B2 | Afraid Of Sunrise |  |
-| C1 | Out Of This World |  |
-| C2 | Afraid Of Sunlight |  |
-| D1 | Beyond You |  |
-| D2 | King |  |
-|  | Live At The Ahoy, Rotterdam (29th September 1995) |  |
-| E1 | Intro (Skater's Waltz) |  |
-| E2 | Incommunicado |  |
-| E3 | Hooks In You |  |
-| E4 | Gazpacho |  |
-| E5 | Icon |  |
-| E6 | Beautiful |  |
-| F1 | Hotel Hobbies |  |
-| F2 | White Russian |  |
-| F3 | Easter |  |
-| G1 | Mad |  |
-| G2 | The Opium Den |  |
-| G3 | Hard As Love |  |
-| G4 | The Hollow Man |  |
-| H1 | Kayleigh |  |
-| H2 | Lavender |  |
-| H3 | Afraid Of Sunlight |  |
-| H4 | Cannibal Surf Babe |  |
-| I1 | Cover My Eyes |  |
-| I2 | Slainte Mhath |  |
-| I3 | King |  |
-| I4 | Splintering Heart |  |
-| J1 | No One Can |  |
-| J2 | The Great Escape |  |
-| J3 | Uninvited Guest |  |
-| J4 | Garden Party |  |
+| Position | Title |
+|----------|--------|
+|  | 2019 Michael Hunter Re-Mix |
+| A1 | Gazpacho |
+| A2 | Cannibal Surf Babe |
+| B1 | Beautiful |
+| B2 | Afraid Of Sunrise |
+| C1 | Out Of This World |
+| C2 | Afraid Of Sunlight |
+| D1 | Beyond You |
+| D2 | King |
+|  | Live At The Ahoy, Rotterdam (29th September 1995) |
+| E1 | Intro (Skater's Waltz) |
+| E2 | Incommunicado |
+| E3 | Hooks In You |
+| E4 | Gazpacho |
+| E5 | Icon |
+| E6 | Beautiful |
+| F1 | Hotel Hobbies |
+| F2 | White Russian |
+| F3 | Easter |
+| G1 | Mad |
+| G2 | The Opium Den |
+| G3 | Hard As Love |
+| G4 | The Hollow Man |
+| H1 | Kayleigh |
+| H2 | Lavender |
+| H3 | Afraid Of Sunlight |
+| H4 | Cannibal Surf Babe |
+| I1 | Cover My Eyes |
+| I2 | Slainte Mhath |
+| I3 | King |
+| I4 | Splintering Heart |
+| J1 | No One Can |
+| J2 | The Great Escape |
+| J3 | Uninvited Guest |
+| J4 | Garden Party |
 
 
 ## Apple Music
@@ -107,5 +107,5 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 | Format         | Vinyl 2× LP Album Reissue Remastered (Remixed, 180 Gram), Vinyl 3× LP Album (180 Gram), Box Set Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295477226 |
-| Notes | Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd.<br>Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd.<br>Labels and booklet: Made in the EU.<br>Comes with 20 page booklet.<br>Hype sticker on front<br>First 4000 copies ordered at the Marillion Store come with signed A4 print<br><br>All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url].  |
+| Notes | Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd. Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd. Labels and booklet: Made in the EU. Comes with 20 page booklet. Hype sticker on front First 4000 copies ordered at the Marillion Store come with signed A4 print  All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url].  |
 | Discogs URL    | [Marillion - Afraid Of Sunlight](https://www.discogs.com/release/14338949-Marillion-Afraid-Of-Sunlight) |

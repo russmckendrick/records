@@ -53,18 +53,18 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Valleys | 6:30 |
-| A2 | A. A. A. A.  | 3:06 |
-| A3 | John Cooper Clarke | 5:27 |
-| A4 | White Rooms & People | 2:31 |
-| A5 | Outside | 2:51 |
-| B1 | Be My Guest | 3:56 |
-| B2 | Tomorrow | 4:05 |
-| B3 | Cook A Coffee | 2:51 |
-| B4 | Teeth | 3:41 |
-| B5 | Angel | 12:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Valleys |
+| A2 | A. A. A. A.  |
+| A3 | John Cooper Clarke |
+| A4 | White Rooms & People |
+| A5 | Outside |
+| B1 | Be My Guest |
+| B2 | Tomorrow |
+| B3 | Cook A Coffee |
+| B4 | Teeth |
+| B5 | Angel |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 | Format         | Vinyl LP Album Limited Edition Stereo (Neon Yellow ) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP179C |
-| Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.<br><br>Certain copies came with a Megamix CD [r16004209] |
+| Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209] |
 | Discogs URL    | [Working Mens Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |

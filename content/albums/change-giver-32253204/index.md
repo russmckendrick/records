@@ -33,19 +33,19 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dirty Soul | 3:37 |
-| A2 | Speakeasy | 3:19 |
-| A3 | Long Time Dead | 3:50 |
-| A4 | Head And Hands | 3:58 |
-| A5 | Casino Girl | 3:56 |
-| A6 | Missing Out | 3:12 |
-| B1 | Dolphin | 3:36 |
-| B2 | Stars In Your Eyes | 4:06 |
-| B3 | Mark | 3:41 |
-| B4 | Ocean Pie | 4:39 |
-| B5 | On An Island With You | 8:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Dirty Soul |
+| A2 | Speakeasy |
+| A3 | Long Time Dead |
+| A4 | Head And Hands |
+| A5 | Casino Girl |
+| A6 | Missing Out |
+| B1 | Dolphin |
+| B2 | Stars In Your Eyes |
+| B3 | Mark |
+| B4 | Ocean Pie |
+| B5 | On An Island With You |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Universal Music Recordings |
 | Catalog Number | UMCLP100 |
-| Notes | Advertised online as a '30th Anniversary' edition.<br>No reference to this is listed on the sleeve.<br>Shrink wrapped with no hype stickers.<br><br>Made in the E.U.<br><br>Pre-orders from the soundofvinyl webshop included an exclusive 12"x12" cover print signed by Rick, Paul and Tom from the original line-up.<br>The print was sealed in an additional external glass-clear cellophane wrapper (not sealed inside the sleeve of the LP). |
+| Notes | Advertised online as a '30th Anniversary' edition. No reference to this is listed on the sleeve. Shrink wrapped with no hype stickers.  Made in the E.U.  Pre-orders from the soundofvinyl webshop included an exclusive 12"x12" cover print signed by Rick, Paul and Tom from the original line-up. The print was sealed in an additional external glass-clear cellophane wrapper (not sealed inside the sleeve of the LP). |
 | Discogs URL    | [Shed Seven - Change Giver](https://www.discogs.com/release/32253204-Shed-Seven-Change-Giver) |

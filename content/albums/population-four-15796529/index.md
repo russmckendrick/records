@@ -33,19 +33,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tangled Up | 3:38 |
-| A2 | Fourteen | 3:15 |
-| A3 | Breeze | 3:41 |
-| A4 | Can't Get Free | 2:49 |
-| A5 | Stalk | 2:19 |
-| A6 | Sweet Unknown | 4:06 |
-| B1 | Angel Bell | 5:26 |
-| B2 | On Top Of The World | 4:28 |
-| B3 | Brazil | 2:30 |
-| B4 | Let Go | 3:31 |
-| B5 | To Be | 4:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Tangled Up |
+| A2 | Fourteen |
+| A3 | Breeze |
+| A4 | Can't Get Free |
+| A5 | Stalk |
+| A6 | Sweet Unknown |
+| B1 | Angel Bell |
+| B2 | On Top Of The World |
+| B3 | Brazil |
+| B4 | Let Go |
+| B5 | To Be |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & White Swirled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2598 |
-| Notes | Limited edition of 1500 numbered copies on blue & white swirled vinyl<br>Available on vinyl for the first time<br>Includes insert<br>180 gram audiophile vinyl<br>[sticker on protective sleeve front]<br><br>Recorded at Stanbridge Farm, Sussex, May-June 1996.<br>(except # 6 recorded at Piercing Sound, Burbank, CA 1995.)<br>Mixed at First Protocol, [...].<br>Mastered at Tape to Tape [...].<br>© 1997, 2020 sony music entertainment.<br>[insert]<br><br>originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment.<br>manufactured & distributed by music on vinyl b.v. for sony music entertainment.<br>made in the eu.<br>[sleeve & labels]<br><br>Hype sticker on resealable protective sleeve front<br>Stamp-numbering on rear sleeve<br>12" square insert & poly-lined inner sleeve |
+| Notes | Limited edition of 1500 numbered copies on blue & white swirled vinyl Available on vinyl for the first time Includes insert 180 gram audiophile vinyl [sticker on protective sleeve front]  Recorded at Stanbridge Farm, Sussex, May-June 1996. (except # 6 recorded at Piercing Sound, Burbank, CA 1995.) Mixed at First Protocol, [...]. Mastered at Tape to Tape [...]. © 1997, 2020 sony music entertainment. [insert]  originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment. manufactured & distributed by music on vinyl b.v. for sony music entertainment. made in the eu. [sleeve & labels]  Hype sticker on resealable protective sleeve front Stamp-numbering on rear sleeve 12" square insert & poly-lined inner sleeve |
 | Discogs URL    | [Cranes - Population Four](https://www.discogs.com/release/15796529-Cranes-Population-Four) |

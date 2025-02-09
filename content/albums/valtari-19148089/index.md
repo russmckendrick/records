@@ -24,16 +24,16 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ég Anda |  |
-| A2 | Ekki Múkk |  |
-| B1 | Varúð |  |
-| B2 | Rembihnútur |  |
-| C1 | Dauðalogn |  |
-| C2 | Varðeldur |  |
-| D1 | Valtari |  |
-| D2 | Fjögur Píanó |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ég Anda |
+| A2 | Ekki Múkk |
+| B1 | Varúð |
+| B2 | Rembihnútur |
+| C1 | Dauðalogn |
+| C2 | Varðeldur |
+| D1 | Valtari |
+| D2 | Fjögur Píanó |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK61LP |
-| Notes | Limited standard black vinyl edition. Side B runout is a locked groove.<br><br>Barcode sticker on shrink, lower right corner.<br><br>℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk. <br>© 2021 Krúnk.<br>Published by Universal Music Publishing. |
+| Notes | Limited standard black vinyl edition. Side B runout is a locked groove.  Barcode sticker on shrink, lower right corner.  ℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk.  © 2021 Krúnk. Published by Universal Music Publishing. |
 | Discogs URL    | [Sigur Rós - Valtari](https://www.discogs.com/release/19148089-Sigur-Rós-Valtari) |

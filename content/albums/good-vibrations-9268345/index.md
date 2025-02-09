@@ -34,14 +34,14 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Vibrations (Original 45 RPM Single Version) |  |
-| A2 | Good Vibrations (Various Sessions) |  |
-| A3 | Good Vibrations (Alternate Take) |  |
-| B1 | Good Vibrations (Instrumental) |  |
-| B2 | Good Vibrations (Live Concert Rehearsal 8/25/67) |  |
-| B3 | Let's Go Away For Awhile (Original B-Side) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Good Vibrations (Original 45 RPM Single Version) |
+| A2 | Good Vibrations (Various Sessions) |
+| A3 | Good Vibrations (Alternate Take) |
+| B1 | Good Vibrations (Instrumental) |
+| B2 | Good Vibrations (Live Concert Rehearsal 8/25/67) |
+| B3 | Let's Go Away For Awhile (Original B-Side) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 | Format         | Vinyl 12" 33 ⅓ RPM EP (Red / Orange Swirled) |
 | Label          | Capitol Records |
 | Catalog Number | 00602557041781 |
-| Notes | Universal International Music B.V.  Netherlands<br>incl. Insert Sheet + MP3 Download Voucher<br><br> |
+| Notes | Universal International Music B.V.  Netherlands incl. Insert Sheet + MP3 Download Voucher   |
 | Discogs URL    | [The Beach Boys - Good Vibrations](https://www.discogs.com/release/9268345-The-Beach-Boys-Good-Vibrations) |

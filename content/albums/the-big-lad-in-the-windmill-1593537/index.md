@@ -34,18 +34,18 @@ Although marketed as a 1980s pop album, The Big Lad in the Windmill features an 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Got You Eating Out Of My Hand | 5:37 |
-| A2 | All In Red | 3:31 |
-| A3 | Whole New World | 4:25 |
-| A4 | Screaming On The Beaches | 3:45 |
-| A5 | Wanna Shout | 3:29 |
-| B1 | Turn Me Loose | 4:11 |
-| B2 | Cold, Tired And Hungry | 4:16 |
-| B3 | Calling All The Heroes | 5:33 |
-| B4 | You'll Never Go To Heaven | 7:12 |
-| B5 | The Big Lad In The Windmill | 0:48 |
+| Position | Title |
+|----------|--------|
+| A1 | I Got You Eating Out Of My Hand |
+| A2 | All In Red |
+| A3 | Whole New World |
+| A4 | Screaming On The Beaches |
+| A5 | Wanna Shout |
+| B1 | Turn Me Loose |
+| B2 | Cold, Tired And Hungry |
+| B3 | Calling All The Heroes |
+| B4 | You'll Never Go To Heaven |
+| B5 | The Big Lad In The Windmill |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Although marketed as a 1980s pop album, The Big Lad in the Windmill features an 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Virgin |
 | Catalog Number | V2378 |
-| Notes | With illustrated inner sleeve.<br>Recorded at Rak Studios, England.<br>Mixed at Oddysey Studios, England.<br><br>℗ 1986 Virgin Records Ltd.<br>© 1986 Virgin Records Ltd.<br>Manufactured in the U.K.<br><br>Runouts are stamped except for etched "TOWNHOUSE" |
+| Notes | With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K.  Runouts are stamped except for etched "TOWNHOUSE" |
 | Discogs URL    | [It Bites - The Big Lad In The Windmill](https://www.discogs.com/release/1593537-It-Bites-The-Big-Lad-In-The-Windmill) |

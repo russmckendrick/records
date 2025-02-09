@@ -33,14 +33,14 @@ Introspective is the third studio album by English synth-pop duo Pet Shop Boys, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Left To My Own Devices | 8:16 |
-| A2 | I Want A Dog | 6:15 |
-| A3 | Domino Dancing | 7:40 |
-| B1 | I'm Not Scared | 7:23 |
-| B2 | Always On My Mind / In My House | 9:05 |
-| B3 | It's Alright | 9:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Left To My Own Devices |
+| A2 | I Want A Dog |
+| A3 | Domino Dancing |
+| B1 | I'm Not Scared |
+| B2 | Always On My Mind / In My House |
+| B3 | It's Alright |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Introspective is the third studio album by English synth-pop duo Pet Shop Boys, 
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295831950 |
-| Notes | [White sticker on shrinkwrap]<br>Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album<br><br>[From back cover]<br>Domino Dancing produced for Pantera Productions.<br>The Voice In Fashion courtesy of [l2922].<br><br>I'm Not Scared.<br>Newsreel soundtrack (Paris, 1968) supplied by Independent Television News<br><br>"Introspective" is a digital recording, digitally mixed and mastered<br><br>℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved.<br>Made in the EU.<br><br>Issued with printed inner sleeve.<br><br>Runouts are etched except “Ⓜ”, which is stamped. Optimal Media special plates symbols are mirrored. |
+| Notes | [White sticker on shrinkwrap] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover] Domino Dancing produced for Pantera Productions. The Voice In Fashion courtesy of [l2922].  I'm Not Scared. Newsreel soundtrack (Paris, 1968) supplied by Independent Television News  "Introspective" is a digital recording, digitally mixed and mastered  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Issued with printed inner sleeve.  Runouts are etched except “Ⓜ”, which is stamped. Optimal Media special plates symbols are mirrored. |
 | Discogs URL    | [Pet Shop Boys - Introspective](https://www.discogs.com/release/11648999-Pet-Shop-Boys-Introspective) |

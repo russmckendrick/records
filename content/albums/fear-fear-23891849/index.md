@@ -33,18 +33,18 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 19 | 5:48 |
-| A2 | Fear Fear | 4:26 |
-| A3 | Widow | 3:55 |
-| A4 | Ploys | 2:58 |
-| A5 | Cut | 6:49 |
-| B1 | Rapture | 3:13 |
-| B2 | Circumference | 3:48 |
-| B3 | Heart Attack | 4:51 |
-| B4 | Money Is Mine | 4:06 |
-| B5 | The Last One | 7:55 |
+| Position | Title |
+|----------|--------|
+| A1 | 19 |
+| A2 | Fear Fear |
+| A3 | Widow |
+| A4 | Ploys |
+| A5 | Cut |
+| B1 | Rapture |
+| B2 | Circumference |
+| B3 | Heart Attack |
+| B4 | Money Is Mine |
+| B5 | The Last One |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP203C |
-| Notes | Indie Only pressing <br>Comes with poster and obi <br>200 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions.<br>Stickered plastic outer sleeve<br><br>Copies with a band signed lyric sheet were available from recordstore.co.uk  |
+| Notes | Indie Only pressing  Comes with poster and obi  200 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Stickered plastic outer sleeve  Copies with a band signed lyric sheet were available from recordstore.co.uk  |
 | Discogs URL    | [Working Mens Club - Fear Fear](https://www.discogs.com/release/23891849-Working-Mens-Club-2-Fear-Fear) |

@@ -32,20 +32,20 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mis-Shapes |  |
-| A2 | Pencil Skirt |  |
-| A3 | Common People |  |
-| A4 | I Spy |  |
-| A5 | Disco 2000 |  |
-| A6 | Live Bed Show |  |
-| B1 | Something Changed |  |
-| B2 | Sorted For E's & Wizz |  |
-| B3 | F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E |  |
-| B4 | Underwear |  |
-| B5 | Monday Morning |  |
-| B6 | Bar Italia |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mis-Shapes |
+| A2 | Pencil Skirt |
+| A3 | Common People |
+| A4 | I Spy |
+| A5 | Disco 2000 |
+| A6 | Live Bed Show |
+| B1 | Something Changed |
+| B2 | Sorted For E's & Wizz |
+| B3 | F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E |
+| B4 | Underwear |
+| B5 | Monday Morning |
+| B6 | Bar Italia |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785288 |
-| Notes | Includes a custom inner sleeve.<br>There are two print errors on the inner sleeve which lists; <br>Track 6 as LIVE BED SHOW DOYLE.<br>Track 7 as Somethings Changed<br><br>This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.<br><br>℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |
+| Notes | Includes a custom inner sleeve. There are two print errors on the inner sleeve which lists;  Track 6 as LIVE BED SHOW DOYLE. Track 7 as Somethings Changed  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |
 | Discogs URL    | [Pulp - Different Class](https://www.discogs.com/release/8668192-Pulp-Different-Class) |

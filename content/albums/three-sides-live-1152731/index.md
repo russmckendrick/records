@@ -35,21 +35,21 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turn It On Again |  |
-| A2 | Dodo |  |
-| A3 | Abacab |  |
-| B1 | Behind The Lines |  |
-| B2 | Duchess |  |
-| B3 | Me & Sarah Jane |  |
-| B4 | Follow You, Follow Me |  |
-| C1 | Misunderstanding |  |
-| C2 | In The Cage (Medley - Cinema Show - Slippermen) |  |
-| C3 | Afterglow |  |
-| D1 | One For The Vine |  |
-| D2 | Fountain Of Salmacis |  |
-| D3 | It / Watcher Of The Skies |  |
+| Position | Title |
+|----------|--------|
+| A1 | Turn It On Again |
+| A2 | Dodo |
+| A3 | Abacab |
+| B1 | Behind The Lines |
+| B2 | Duchess |
+| B3 | Me & Sarah Jane |
+| B4 | Follow You, Follow Me |
+| C1 | Misunderstanding |
+| C2 | In The Cage (Medley - Cinema Show - Slippermen) |
+| C3 | Afterglow |
+| D1 | One For The Vine |
+| D2 | Fountain Of Salmacis |
+| D3 | It / Watcher Of The Skies |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 | Format         | Vinyl 2× LP Album Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | GE 2002 |
-| Notes | Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.<br><br>ⓟ & © 1982 Charisma Records Ltd.<br><br>This version has no mention of "Virgin" on it.<br>Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage"<br><br>Sold in USA with white info sticker stating "SPECIAL U.K. EDITION  includes live versions of "Watcher In The Skies" "One For The Vine" "Fountain Of Salmacis" "It" not available elsewhere Distributed by Jem Records Inc."<br><br>Runouts:<br>- Runouts are stamped<br>- Variant 7: '2 8' overlaid on 'TOWN HOUSE' on side D |
+| Notes | Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage"  Sold in USA with white info sticker stating "SPECIAL U.K. EDITION  includes live versions of "Watcher In The Skies" "One For The Vine" "Fountain Of Salmacis" "It" not available elsewhere Distributed by Jem Records Inc."  Runouts: - Runouts are stamped - Variant 7: '2 8' overlaid on 'TOWN HOUSE' on side D |
 | Discogs URL    | [Genesis - Three Sides Live](https://www.discogs.com/release/1152731-Genesis-Three-Sides-Live) |

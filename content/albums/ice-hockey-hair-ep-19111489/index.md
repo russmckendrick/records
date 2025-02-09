@@ -29,12 +29,12 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smokin' | 5:05 |
-| A2 | Mu-tron | 3:14 |
-| AA1 | Ice Hockey Hair | 6:45 |
-| AA2 | Let's Quit Smoking | 2:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Smokin' |
+| A2 | Mu-tron |
+| AA1 | Ice Hockey Hair |
+| AA2 | Let's Quit Smoking |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT491EP |
-| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions<br><br>Some records came with a white sticker or transparent sticker.<br><br>" Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.<br><br>Archived by: Kliph Scurlock |
+| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock |
 | Discogs URL    | [Super Furry Animals - Ice Hockey Hair EP](https://www.discogs.com/release/19111489-Super-Furry-Animals-Ice-Hockey-Hair-EP) |

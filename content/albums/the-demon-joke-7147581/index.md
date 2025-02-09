@@ -24,28 +24,28 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Two Five Five | 3:15 |
-| A2 | Doubt | 4:13 |
-| A3 | Infatuate | 5:10 |
-| A4 | Rebirthmark | 3:46 |
-| A5 | Duke Fame | 4:17 |
-| B1 | Don't Forget The Joker | 3:54 |
-| B2 | Retaliate | 3:56 |
-| B3 | A Weight In The Hollow | 5:39 |
-| B4 | Operate | 4:45 |
-| B5 | Amends | 3:33 |
-| CD-1 | Two Five Five | 3:15 |
-| CD-2 | Doubt | 4:13 |
-| CD-3 | Infatuate | 5:10 |
-| CD-4 | Rebirthmark | 3:46 |
-| CD-5 | Duke Fame | 4:17 |
-| CD-6 | Don't Forget The Joker | 3:54 |
-| CD-7 | Retaliate | 3:56 |
-| CD-8 | A Weight In The Hollow | 5:39 |
-| CD-9 | Operate | 4:45 |
-| CD-10 | Amends | 3:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Two Five Five |
+| A2 | Doubt |
+| A3 | Infatuate |
+| A4 | Rebirthmark |
+| A5 | Duke Fame |
+| B1 | Don't Forget The Joker |
+| B2 | Retaliate |
+| B3 | A Weight In The Hollow |
+| B4 | Operate |
+| B5 | Amends |
+| CD-1 | Two Five Five |
+| CD-2 | Doubt |
+| CD-3 | Infatuate |
+| CD-4 | Rebirthmark |
+| CD-5 | Duke Fame |
+| CD-6 | Don't Forget The Joker |
+| CD-7 | Retaliate |
+| CD-8 | A Weight In The Hollow |
+| CD-9 | Operate |
+| CD-10 | Amends |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: []
 | Format         | Vinyl LP Album (180g, gatefold), CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 037 |
-| Notes | Comes with a gatefold sleeve & 12x12" lyric and credit sheet.<br><br>"This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall." |
+| Notes | Comes with a gatefold sleeve & 12x12" lyric and credit sheet.    "This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall." |
 | Discogs URL    | [Vennart - The Demon Joke](https://www.discogs.com/release/7147581-Vennart-The-Demon-Joke) |

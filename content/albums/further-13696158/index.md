@@ -37,19 +37,19 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Off My Mind |  |
-| A2 | Alone |  |
-| A3 | My Little Treasures |  |
-| A4 | Further |  |
-| A5 | Emilina Says |  |
-| B1 | Is There A Pill? |  |
-| B2 | Galley Girl |  |
-| B3 | Not Lonely |  |
-| B4 | Time Is |  |
-| B5 | Midnight Train |  |
-| B6 | Doors |  |
+| Position | Title |
+|----------|--------|
+| A1 | Off My Mind |
+| A2 | Alone |
+| A3 | My Little Treasures |
+| A4 | Further |
+| A5 | Emilina Says |
+| B1 | Is There A Pill? |
+| B2 | Galley Girl |
+| B3 | Not Lonely |
+| B4 | Time Is |
+| B5 | Midnight Train |
+| B6 | Doors |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | BMG |
 | Catalog Number | 538478641 |
-| Notes | Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.<br><br>℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.<br><br> <br>Record shops only release.<br> |
+| Notes | Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.  ℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.    Record shops only release.  |
 | Discogs URL    | [Richard Hawley - Further](https://www.discogs.com/release/13696158-Richard-Hawley-Further) |

@@ -31,17 +31,17 @@ A signature song for the dreamiest original shoegaze acts, â€œCatch the Breezeâ€
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spanish Air | 6:06 |
-| A2 | Celia's Dream | 4:12 |
-| A3 | Catch The Breeze | 4:22 |
-| A4 | Ballad Of Sister Sue | 4:34 |
-| A5 | Erik's Song | 4:27 |
-| B1 | Waves | 5:54 |
-| B2 | Brighter | 3:51 |
-| B3 | The Sadman | 4:47 |
-| B4 | Primal | 5:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Spanish Air |
+| A2 | Celia's Dream |
+| A3 | Catch The Breeze |
+| A4 | Ballad Of Sister Sue |
+| A5 | Erik's Song |
+| B1 | Waves |
+| B2 | Brighter |
+| B3 | The Sadman |
+| B4 | Primal |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ A signature song for the dreamiest original shoegaze acts, â€œCatch the Breezeâ€
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange [Flaming], 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP354 |
-| Notes | 180 gram audiophile vinyl<br>Including insert<br>Sleeve with special alubrush finish<br>Limited edition of 4000 individually numbered copies on flaming coloured vinyl |
+| Notes | 180 gram audiophile vinyl Including insert Sleeve with special alubrush finish Limited edition of 4000 individually numbered copies on flaming coloured vinyl |
 | Discogs URL    | [Slowdive - Just For A Day](https://www.discogs.com/release/15633294-Slowdive-Just-For-A-Day) |

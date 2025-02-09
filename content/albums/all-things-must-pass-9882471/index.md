@@ -47,32 +47,32 @@ During the final year of his life, Harrison oversaw a successful reissue campaig
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'd Have You Anytime |  |
-| A2 | My Sweet Lord |  |
-| A3 | Wah-Wah |  |
-| A4 | Isn't It A Pity (Version One) |  |
-| B1 | What Is Life |  |
-| B2 | If Not For You |  |
-| B3 | Behind That Locked Door |  |
-| B4 | Let It Down |  |
-| B5 | Run Of The Mill |  |
-| C1 | Beware Of Darkness |  |
-| C2 | Apple Scruffs |  |
-| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |  |
-| C4 | Awaiting On You All |  |
-| C5 | All Things Must Pass |  |
-| D1 | I Dig Love |  |
-| D2 | Art Of Dying |  |
-| D3 | Isn't It A Pity (Version Two) |  |
-| D4 | Hear Me Lord |  |
-|  | Apple Jam |  |
-| E1 | Out Of The Blue |  |
-| E2 | It's Johnny's Birthday |  |
-| E3 | Plug Me In |  |
-| F1 | I Remember Jeep |  |
-| F2 | Thanks For The Pepperoni |  |
+| Position | Title |
+|----------|--------|
+| A1 | I'd Have You Anytime |
+| A2 | My Sweet Lord |
+| A3 | Wah-Wah |
+| A4 | Isn't It A Pity (Version One) |
+| B1 | What Is Life |
+| B2 | If Not For You |
+| B3 | Behind That Locked Door |
+| B4 | Let It Down |
+| B5 | Run Of The Mill |
+| C1 | Beware Of Darkness |
+| C2 | Apple Scruffs |
+| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |
+| C4 | Awaiting On You All |
+| C5 | All Things Must Pass |
+| D1 | I Dig Love |
+| D2 | Art Of Dying |
+| D3 | Isn't It A Pity (Version Two) |
+| D4 | Hear Me Lord |
+|  | Apple Jam |
+| E1 | Out Of The Blue |
+| E2 | It's Johnny's Birthday |
+| E3 | Plug Me In |
+| F1 | I Remember Jeep |
+| F2 | Thanks For The Pepperoni |
 
 
 ## Apple Music
@@ -90,5 +90,5 @@ During the final year of his life, Harrison oversaw a successful reissue campaig
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180g), Box Set |
 | Label          | Apple Records |
 | Catalog Number | STCH 639 |
-| Notes | Cover sticker:<br>Remastered for vinyl from the original analogue stereo master tapes.<br>Album replicates design and construction of the original release.<br>180g Heavyweight vinyl.<br><br>℗ 2014 The copyright in this sound recording is owned by G.H. Estate Limited under exclusive license to Calderstone Productions Limited (a division of Universal Music Group).<br>© 2017 G.H. Estate Limited.<br><br>Sticker on rear shrinkwrap: Made in Germany.<br>On LP labels: Mfd. in E.U.<br><br>Includes a 6-panel fold-out poster.<br>Each LP comes in a printed inner sleeve.<br><br>For the songs written by George Harrison:<br>All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br><br>For the songs written by Bob Dylan:<br>All lyrics copyright 1970 by Big Sky Music.<br><br>Apple Jam (Recorded during sides 1, 2, 3 & 4.)<br>'It's Johnny's Birthday' based on 'Congratulations' by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br>Other tracks: Copyright 1970 for the world by Harrisongs Music, Ltd., England. All rights for the United States and Canada controlled by Harrisongs Music, Inc. |
+| Notes | Cover sticker: Remastered for vinyl from the original analogue stereo master tapes. Album replicates design and construction of the original release. 180g Heavyweight vinyl.  ℗ 2014 The copyright in this sound recording is owned by G.H. Estate Limited under exclusive license to Calderstone Productions Limited (a division of Universal Music Group). © 2017 G.H. Estate Limited.  Sticker on rear shrinkwrap: Made in Germany. On LP labels: Mfd. in E.U.  Includes a 6-panel fold-out poster. Each LP comes in a printed inner sleeve.  For the songs written by George Harrison: All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc.  For the songs written by Bob Dylan: All lyrics copyright 1970 by Big Sky Music.  Apple Jam (Recorded during sides 1, 2, 3 & 4.) 'It's Johnny's Birthday' based on 'Congratulations' by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd. Other tracks: Copyright 1970 for the world by Harrisongs Music, Ltd., England. All rights for the United States and Canada controlled by Harrisongs Music, Inc. |
 | Discogs URL    | [George Harrison - All Things Must Pass](https://www.discogs.com/release/9882471-George-Harrison-All-Things-Must-Pass) |

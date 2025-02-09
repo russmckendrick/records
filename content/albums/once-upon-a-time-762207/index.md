@@ -30,16 +30,16 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Once Upon A Time |  |
-| A2 | All The Things She Said |  |
-| A3 | Ghost Dancing |  |
-| A4 | Alive And Kicking |  |
-| B1 | Oh Jungleland |  |
-| B2 | I Wish You Were Here |  |
-| B3 | Sanctify Yourself |  |
-| B4 | Come A Long Way |  |
+| Position | Title |
+|----------|--------|
+| A1 | Once Upon A Time |
+| A2 | All The Things She Said |
+| A3 | Ghost Dancing |
+| A4 | Alive And Kicking |
+| B1 | Oh Jungleland |
+| B2 | I Wish You Were Here |
+| B3 | Sanctify Yourself |
+| B4 | Come A Long Way |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 | Format         | Vinyl LP Album Picture Disc |
 | Label          | Virgin |
 | Catalog Number | VP 2364 |
-| Notes | Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.<br>Recorded at Townhouse Studios, London.<br> |
+| Notes | Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.  Recorded at Townhouse Studios, London.   |
 | Discogs URL    | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/762207-Simple-Minds-Once-Upon-A-Time) |

@@ -27,12 +27,12 @@ styles: ["Shoegaze", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mesmerise |  |
-| A2 | Precious One |  |
-| AA1 | Summer Chill |  |
-| AA2 | Then We'll Rise |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mesmerise |
+| A2 | Precious One |
+| AA1 | Summer Chill |
+| AA2 | Then We'll Rise |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Shoegaze", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | Dedicated |
 | Catalog Number | HOUSE 001T |
-| Notes | Made in England.<br><br>℗ & © 1991 Dedicated.<br><br>All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios. |
+| Notes | Made in England.  ℗ & © 1991 Dedicated.  All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios. |
 | Discogs URL    | [Chapterhouse - Mesmerise](https://www.discogs.com/release/648372-Chapterhouse-Mesmerise) |

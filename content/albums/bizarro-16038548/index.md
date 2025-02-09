@@ -32,18 +32,18 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Brassneck |  |
-| A2 | Crushed |  |
-| A3 | No |  |
-| A4 | Thanks |  |
-| A5 | Kennedy |  |
-| A6 | What Have I Said Now? |  |
-| B1 | Granadaland |  |
-| B2 | Bewitched |  |
-| B3 | Take Me! |  |
-| B4 | Be Honest |  |
+| Position | Title |
+|----------|--------|
+| A1 | Brassneck |
+| A2 | Crushed |
+| A3 | No |
+| A4 | Thanks |
+| A5 | Kennedy |
+| A6 | What Have I Said Now? |
+| B1 | Granadaland |
+| B2 | Bewitched |
+| B3 | Take Me! |
+| B4 | Be Honest |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 | Format         | Vinyl LP Album Reissue |
 | Label          | RCA |
 | Catalog Number | 19439793371 |
-| Notes | One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green.<br>Outer sleeve is a paler shade and has a different font, notably to the artist name.<br>Band official website states that David Gedge was not consulted whilst this reissue was being put together.<br>Download voucher included.<br><br>On both runouts, the geometric plating marks are mirrored. |
+| Notes | One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green. Outer sleeve is a paler shade and has a different font, notably to the artist name. Band official website states that David Gedge was not consulted whilst this reissue was being put together. Download voucher included.  On both runouts, the geometric plating marks are mirrored. |
 | Discogs URL    | [The Wedding Present - Bizarro](https://www.discogs.com/release/16038548-The-Wedding-Present-Bizarro) |

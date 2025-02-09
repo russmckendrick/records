@@ -37,19 +37,19 @@ styles: ["Art Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Candle Book And Bell | 3:54 |
-| A2 | Ffwd To The Freeze Frame | 4:50 |
-| A3 | Make It So | 4:17 |
-| A4 | Slingshot Grin | 6:04 |
-| B1 | Burn Before Reading | 4:25 |
-| B2 | Just Above Midtown | 3:41 |
-| B3 | Chasing Horses | 2:40 |
-| B4 | Tyrekickers | 5:12 |
-| C1 | We Just Did What Happened And Nobody Came | 5:22 |
-| C2 | Longstreth | 5:59 |
-| C3 | Coloma Blues | 5:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Candle Book And Bell |
+| A2 | Ffwd To The Freeze Frame |
+| A3 | Make It So |
+| A4 | Slingshot Grin |
+| B1 | Burn Before Reading |
+| B2 | Just Above Midtown |
+| B3 | Chasing Horses |
+| B4 | Tyrekickers |
+| C1 | We Just Did What Happened And Nobody Came |
+| C2 | Longstreth |
+| C3 | Coloma Blues |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: ["Art Rock"]
 | Format         | Vinyl 2× LP (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE886 |
-| Notes | Side D is etched.<br>Comes with 4 page booklet with lyrics.<br>Black poly-lined inner sleeves. |
+| Notes | Side D is etched.  Comes with 4 page booklet with lyrics.  Black poly-lined inner sleeves. |
 | Discogs URL    | [Sweet Billy Pilgrim - Motorcade Amnesiacs](https://www.discogs.com/release/7049817-Sweet-Billy-Pilgrim-Motorcade-Amnesiacs) |

@@ -42,18 +42,18 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Metamorphosis |  |
-| A2 | Love Is Magic |  |
-| B1 | Tempest |  |
-| B2 | Preppy Boy |  |
-| C1 | Smug Cunt |  |
-| C2 | He's Got His Mother's Hips |  |
-| C3 | Diet Gum |  |
-| D1 | Is He Strange |  |
-| D2 | The Common Snipe |  |
-| D3 | Touch And Go |  |
+| Position | Title |
+|----------|--------|
+| A1 | Metamorphosis |
+| A2 | Love Is Magic |
+| B1 | Tempest |
+| B2 | Preppy Boy |
+| C1 | Smug Cunt |
+| C2 | He's Got His Mother's Hips |
+| C3 | Diet Gum |
+| D1 | Is He Strange |
+| D2 | The Common Snipe |
+| D3 | Touch And Go |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 | Format         | Vinyl 2× LP Album Deluxe Edition (Clear) |
 | Label          | Bella Union |
 | Catalog Number | BELLA825V |
-| Notes | Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.<br><br>Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.<br><br>C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.<br><br>Label Code and catalog number on spine.<br><br>Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.<br><br>℗ & © 2018 Bella Union |
+| Notes | Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.  Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.  C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.  Label Code and catalog number on spine.  Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.  ℗ & © 2018 Bella Union |
 | Discogs URL    | [John Grant - Love Is Magic](https://www.discogs.com/release/12640054-John-Grant-Love-Is-Magic) |

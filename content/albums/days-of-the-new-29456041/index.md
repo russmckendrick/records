@@ -34,20 +34,20 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hang On To This | 4:13 |
-| A2 | Fighting W/ Clay | 2:52 |
-| A3 | Days In Our Life | 3:42 |
-| A4 | Die Born | 3:56 |
-| B1 | Best Of Life | 5:32 |
-| B2 | Dirty Road | 4:46 |
-| B3 | Where Are You? | 3:33 |
-| B4 | Never Drown | 5:06 |
-| C1 | Words | 3:42 |
-| C2 | Once Again | 3:44 |
-| C3 | Giving In | 5:40 |
-| D1 | Dancing With The Wind | 11:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Hang On To This |
+| A2 | Fighting W/ Clay |
+| A3 | Days In Our Life |
+| A4 | Die Born |
+| B1 | Best Of Life |
+| B2 | Dirty Road |
+| B3 | Where Are You? |
+| B4 | Never Drown |
+| C1 | Words |
+| C2 | Once Again |
+| C3 | Giving In |
+| D1 | Dancing With The Wind |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3624 |
-| Notes | Includes insert with lyrics.<br>Available on vinyl for the first time.<br>Original release ℗ 2001 Outpost Recordings. This release ℗ & © 2024 Universal Music. |
+| Notes | Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 2001 Outpost Recordings. This release ℗ & © 2024 Universal Music. |
 | Discogs URL    | [Days Of The New - Days Of The New](https://www.discogs.com/release/29456041-Days-Of-The-New-Days-Of-The-New) |

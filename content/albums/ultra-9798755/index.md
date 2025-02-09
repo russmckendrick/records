@@ -35,19 +35,19 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Barrel Of A Gun |  |
-| A2 | The Love Thieves |  |
-| A3 | Home |  |
-| A4 | It's No Good |  |
-| A5 | Uselink |  |
-| A6 | Useless |  |
-| B1 | Sister Of Night |  |
-| B2 | Jazz Thieves |  |
-| B3 | Freestate |  |
-| B4 | The Bottom Line |  |
-| B5 | Insight |  |
+| Position | Title |
+|----------|--------|
+| A1 | Barrel Of A Gun |
+| A2 | The Love Thieves |
+| A3 | Home |
+| A4 | It's No Good |
+| A5 | Uselink |
+| A6 | Useless |
+| B1 | Sister Of Night |
+| B2 | Jazz Thieves |
+| B3 | Freestate |
+| B4 | The Bottom Line |
+| B5 | Insight |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Sony Music |
 | Catalog Number | 88985336911 |
-| Notes | © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment<br>International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to <br>Sony Music Entertainment International Ltd. / Distributed by Sony Music<br>Entertainment. / All trademarks and logos are protected. / Made in the EU. /<br>Sony Music Entertainment International Services GmbH, PO Box 510,<br>33311 Gütersloh, Germany. / LC 05834 / 88985336911.<br> |
+| Notes | © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to  Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336911.  |
 | Discogs URL    | [Depeche Mode - Ultra](https://www.discogs.com/release/9798755-Depeche-Mode-Ultra) |

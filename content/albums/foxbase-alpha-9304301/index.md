@@ -35,21 +35,21 @@ Foxbase Alpha was on the short list of nominees for the 1992 Mercury Prize. It w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Is Radio Etienne | 0:43 |
-| A2 | Only Love Can Break Your Heart | 4:29 |
-| A3 | Wilson | 1:59 |
-| A4 | Carnt Sleep | 4:44 |
-| A5 | Girl VII | 3:46 |
-| A6 | Spring | 3:44 |
-| A7 | She's The One | 3:08 |
-| B1 | Stoned To Say The Least | 7:42 |
-| B2 | Nothing Can Stop Us | 4:21 |
-| B3 | Etienne Gonna Die | 1:32 |
-| B4 | London Belongs To Me | 3:57 |
-| B5 | Like The Swallow | 7:42 |
-| B6 | Dilworth's Theme | 0:41 |
+| Position | Title |
+|----------|--------|
+| A1 | This Is Radio Etienne |
+| A2 | Only Love Can Break Your Heart |
+| A3 | Wilson |
+| A4 | Carnt Sleep |
+| A5 | Girl VII |
+| A6 | Spring |
+| A7 | She's The One |
+| B1 | Stoned To Say The Least |
+| B2 | Nothing Can Stop Us |
+| B3 | Etienne Gonna Die |
+| B4 | London Belongs To Me |
+| B5 | Like The Swallow |
+| B6 | Dilworth's Theme |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Foxbase Alpha was on the short list of nominees for the 1992 Mercury Prize. It w
 | Format         | Vinyl LP Album Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 1 |
-| Notes | 2016 Reissue - 25th Anniversary<br>Includes printed inner sleeve. |
+| Notes | 2016 Reissue - 25th Anniversary Includes printed inner sleeve. |
 | Discogs URL    | [Saint Etienne - Foxbase Alpha](https://www.discogs.com/release/9304301-Saint-Etienne-Foxbase-Alpha) |

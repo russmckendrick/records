@@ -28,19 +28,19 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chances Are |  |
-| A2 | Rules |  |
-| A3 | Unlikely Friend |  |
-| A4 | Abandoned |  |
-| A5 | Premiere Fois |  |
-| A6 | Shut The Door |  |
-| B1 | Walking |  |
-| B2 | Europe Speaks |  |
-| B3 | Empty Nest |  |
-| B4 | System Overload |  |
-| B5 | Strange Stars |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chances Are |
+| A2 | Rules |
+| A3 | Unlikely Friend |
+| A4 | Abandoned |
+| A5 | Premiere Fois |
+| A6 | Shut The Door |
+| B1 | Walking |
+| B2 | Europe Speaks |
+| B3 | Empty Nest |
+| B4 | System Overload |
+| B5 | Strange Stars |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Warner Music New Zealand |
 | Catalog Number | CAT 5419711037 |
-| Notes | "Changes Are" contains a shade of "Spellbound" ([m=81206] 1975)<br>"Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976)<br>"Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978)<br>"Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975)<br>"Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)<br><br>Runouts are etched. 1| is mirrored. |
+| Notes | "Changes Are" contains a shade of "Spellbound" ([m=81206] 1975) "Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976) "Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978) "Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975) "Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)  Runouts are etched. 1| is mirrored. |
 | Discogs URL    | [Forenzics - Shades And Echoes](https://www.discogs.com/release/22152553-Forenzics-2-Shades-And-Echoes) |

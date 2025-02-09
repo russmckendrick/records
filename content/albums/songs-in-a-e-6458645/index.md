@@ -25,26 +25,26 @@ styles: ["Alternative Rock", "Space Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harmony 1 (Mellotron) |  |
-| A2 | Sweet Talk |  |
-| A3 | Death Take Your Fiddle |  |
-| A4 | I Gotta Fire |  |
-| A5 | Soul On Fire |  |
-| B1 | Harmony 2 (Piano) |  |
-| B2 | Sitting On Fire |  |
-| B3 | Yeah Yeah |  |
-| B4 | You Lie You Cheat |  |
-| C1 | Harmony 3 (Voice) |  |
-| C2 | Baby, I'm Just A Fool |  |
-| C3 | Don't Hold Me Close |  |
-| C4 | Harmony 4 (The Old Man...) |  |
-| C5 | The Waves Crash In |  |
-| D1 | Harmony 5 (Accordion) |  |
-| D2 | Borrowed Your Gun |  |
-| D3 | Harmony 6 (Glockenspiel) |  |
-| D4 | Goodnight Goodnight |  |
+| Position | Title |
+|----------|--------|
+| A1 | Harmony 1 (Mellotron) |
+| A2 | Sweet Talk |
+| A3 | Death Take Your Fiddle |
+| A4 | I Gotta Fire |
+| A5 | Soul On Fire |
+| B1 | Harmony 2 (Piano) |
+| B2 | Sitting On Fire |
+| B3 | Yeah Yeah |
+| B4 | You Lie You Cheat |
+| C1 | Harmony 3 (Voice) |
+| C2 | Baby, I'm Just A Fool |
+| C3 | Don't Hold Me Close |
+| C4 | Harmony 4 (The Old Man...) |
+| C5 | The Waves Crash In |
+| D1 | Harmony 5 (Accordion) |
+| D2 | Borrowed Your Gun |
+| D3 | Harmony 6 (Glockenspiel) |
+| D4 | Goodnight Goodnight |
 
 
 ## Apple Music

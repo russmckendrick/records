@@ -35,18 +35,18 @@ The album's title refers to the band members themselves: they would call themsel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Who Will You Run To | 4:06 |
-| A2 | Alone | 3:38 |
-| A3 | There's The Girl | 3:51 |
-| A4 | I Want You So Bad | 4:20 |
-| A5 | Wait For An Answer | 4:29 |
-| B1 | Bad Animals | 4:51 |
-| B2 | You Ain't So Tough | 4:03 |
-| B3 | Strangers Of The Heart | 3:39 |
-| B4 | Easy Target | 3:56 |
-| B5 | RSVP | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Who Will You Run To |
+| A2 | Alone |
+| A3 | There's The Girl |
+| A4 | I Want You So Bad |
+| A5 | Wait For An Answer |
+| B1 | Bad Animals |
+| B2 | You Ain't So Tough |
+| B3 | Strangers Of The Heart |
+| B4 | Easy Target |
+| B5 | RSVP |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album's title refers to the band members themselves: they would call themsel
 | Format         | Vinyl LP Album Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2032 |
-| Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images.<br>"Sleeve printed in England.<br>Manufactured in England." , on rear's left bottom. |
+| Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom. |
 | Discogs URL    | [Heart - Bad Animals](https://www.discogs.com/release/1402220-Heart-Bad-Animals) |

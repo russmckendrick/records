@@ -35,20 +35,20 @@ Hardwired... to Self-Destruct was Metallica's sixth consecutive studio album to 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hardwired | 3:09 |
-| A2 | Atlas, Rise! | 6:28 |
-| A3 | Now That We're Dead | 7:01 |
-| B1 | Moth Into Flame | 5:52 |
-| B2 | Am I Savage? | 6:30 |
-| B3 | Halo On Fire | 8:14 |
-| C1 | Confusion | 6:43 |
-| C2 | Dream No More | 6:29 |
-| C3 | ManUNkind | 6:57 |
-| D1 | Here Comes Revenge | 7:20 |
-| D2 | Murder One | 5:46 |
-| D3 | Spit Out The Bone | 7:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Hardwired |
+| A2 | Atlas, Rise! |
+| A3 | Now That We're Dead |
+| B1 | Moth Into Flame |
+| B2 | Am I Savage? |
+| B3 | Halo On Fire |
+| C1 | Confusion |
+| C2 | Dream No More |
+| C3 | ManUNkind |
+| D1 | Here Comes Revenge |
+| D2 | Murder One |
+| D3 | Spit Out The Bone |
 
 
 ## Apple Music

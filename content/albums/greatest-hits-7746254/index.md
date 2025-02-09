@@ -29,24 +29,24 @@ The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilati
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You Really Got Me | 2:13 |
-| A2 | Tired Of Waiting For You | 2:31 |
-| A3 | Set Me Free | 2:10 |
-| A4 | Till The End Of The Day | 2:18 |
-| A5 | Sunny Afternoon | 3:28 |
-| A6 | Days | 2:54 |
-| A7 | Autumn Almanac | 3:10 |
-| A8 | Lola | 3:56 |
-| B1 | A Well Respected Man | 2:11 |
-| B2 | Dead End Street | 3:18 |
-| B3 | Dedicated Follower Of Fashion | 2:53 |
-| B4 | Dandy | 2:09 |
-| B5 | Mr. Pleasant | 2:51 |
-| B6 | Waterloo Sunset | 3:12 |
-| B7 | Death Of A Clown | 3:11 |
-| B8 | Wonder Boy | 2:49 |
+| Position | Title |
+|----------|--------|
+| A1 | You Really Got Me |
+| A2 | Tired Of Waiting For You |
+| A3 | Set Me Free |
+| A4 | Till The End Of The Day |
+| A5 | Sunny Afternoon |
+| A6 | Days |
+| A7 | Autumn Almanac |
+| A8 | Lola |
+| B1 | A Well Respected Man |
+| B2 | Dead End Street |
+| B3 | Dedicated Follower Of Fashion |
+| B4 | Dandy |
+| B5 | Mr. Pleasant |
+| B6 | Waterloo Sunset |
+| B7 | Death Of A Clown |
+| B8 | Wonder Boy |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilati
 | Format         | Vinyl LP Compilation |
 | Label          | BR Music |
 | Catalog Number | BRLP 15 |
-| Notes | On Label:<br>This compilation P 1984 BR Music<br>Licenced from PRT Ltd.<br>On Back Cover:<br>This compilation ℗ 1985 BR Music / Licenced from PRT Ltd.<br>Made In Belgium<br><br>This version has light blue labels (not flat)<br>This version has the SACEM logo in red |
+| Notes | On Label: This compilation P 1984 BR Music Licenced from PRT Ltd. On Back Cover: This compilation ℗ 1985 BR Music / Licenced from PRT Ltd. Made In Belgium  This version has light blue labels (not flat) This version has the SACEM logo in red |
 | Discogs URL    | [The Kinks - Greatest Hits](https://www.discogs.com/release/7746254-The-Kinks-Greatest-Hits) |

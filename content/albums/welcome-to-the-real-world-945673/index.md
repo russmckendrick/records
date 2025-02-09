@@ -33,18 +33,18 @@ Welcome to the Real World is the second studio album by American pop rock band M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black / White | 4:18 |
-| A2 | Uniform Of Youth | 4:25 |
-| A3 | Don't Slow Down | 4:29 |
-| A4 | Run To Her | 3:36 |
-| A5 | Into My Own Hands | 5:12 |
-| B1 | Is It Love | 3:32 |
-| B2 | Kyrie | 4:24 |
-| B3 | Broken Wings | 5:45 |
-| B4 | Tangent Tears | 3:19 |
-| B5 | Welcome To The Real World | 4:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Black / White |
+| A2 | Uniform Of Youth |
+| A3 | Don't Slow Down |
+| A4 | Run To Her |
+| A5 | Into My Own Hands |
+| B1 | Is It Love |
+| B2 | Kyrie |
+| B3 | Broken Wings |
+| B4 | Tangent Tears |
+| B5 | Welcome To The Real World |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Welcome to the Real World is the second studio album by American pop rock band M
 | Format         | Vinyl LP Album Stereo |
 | Label          | RCA |
 | Catalog Number | PL89647 |
-| Notes | Tracklisting as on center labels, different as printed on the backside of the sleeve.<br>Includes a printed inner sleeve containing lyrics<br><br>[Inner sleeve]<br>Recorded October 1984 thru April 1985<br><br>Songs © 1985<br>Warner-Tamerlane Publishing Corp./Entente Music (BMI); all rights administered by Warner-Tamerlane Publishing Corp. Stemwa Famo Music (BMI)<br><br>© 1985, RCA Records. Printed in W. Germany. Imprimé en Allemagne.<br><br>[Label side A]<br>1. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI<br>2. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI<br>3. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI<br>4. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI<br>5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI<br><br>[Label side B]<br>1: Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music, BMI<br>2. Warner-Tamerlane Pub. Corp./Entente Music, BMI<br>3. Warner-Tamerlane Pub. Corp./Entente Music, BMI<br>4. Warner-Tamerlane Pub. Corp./Entente Music, BMI<br>5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI<br><br>[Labels]<br>Recorded: Calif.<br>All timings are approximate<br><br>Marketed By RCA Records From Master Recordings Of RCA Records<br>Made in Germany. Fabriqué en Allemagne<br><br>[Sleeve]<br>Belgique/Belgie: Distributed by RCA S.A.<br>Deutschland: Vertrieb durch RCA Schallplatten GmbH<br>France: Distribué par RCA S.A. · Italia: Distributed by RCA S.p.A.<br>Nederland: Distributed by RCA B.V. · U.K.: Distributed by RCA Ltd.<br><br>© 1985 RCA Records. Printed in W. Germany. Imprimé en Allemagne. 5/85/S |
+| Notes | Tracklisting as on center labels, different as printed on the backside of the sleeve. Includes a printed inner sleeve containing lyrics  [Inner sleeve] Recorded October 1984 thru April 1985  Songs © 1985 Warner-Tamerlane Publishing Corp./Entente Music (BMI); all rights administered by Warner-Tamerlane Publishing Corp. Stemwa Famo Music (BMI)  © 1985, RCA Records. Printed in W. Germany. Imprimé en Allemagne.  [Label side A] 1. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Label side B] 1: Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Labels] Recorded: Calif. All timings are approximate  Marketed By RCA Records From Master Recordings Of RCA Records Made in Germany. Fabriqué en Allemagne  [Sleeve] Belgique/Belgie: Distributed by RCA S.A. Deutschland: Vertrieb durch RCA Schallplatten GmbH France: Distribué par RCA S.A. · Italia: Distributed by RCA S.p.A. Nederland: Distributed by RCA B.V. · U.K.: Distributed by RCA Ltd.  © 1985 RCA Records. Printed in W. Germany. Imprimé en Allemagne. 5/85/S |
 | Discogs URL    | [Mr Mister - Welcome To The Real World](https://www.discogs.com/release/945673-Mr-Mister-Welcome-To-The-Real-World) |

@@ -42,19 +42,19 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Have Seen | 5:06 |
-| A2 | Polaris | 4:48 |
-| A3 | Destiny | 5:37 |
-| B1 | Give It Away | 5:17 |
-| B2 | Simple Things | 4:24 |
-| B3 | Red Dust | 5:40 |
-| C1 | Distractions | 5:16 |
-| C2 | In The Waiting Line | 4:32 |
-| C3 | Out Of Town | 4:47 |
-| D1 | This World | 5:36 |
-| D2 | Likufanele | 6:24 |
+| Position | Title |
+|----------|--------|
+| A1 | I Have Seen |
+| A2 | Polaris |
+| A3 | Destiny |
+| B1 | Give It Away |
+| B2 | Simple Things |
+| B3 | Red Dust |
+| C1 | Distractions |
+| C2 | In The Waiting Line |
+| C3 | Out Of Town |
+| D1 | This World |
+| D2 | Likufanele |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (180gr, Clear) |
 | Label          | New State Music |
 | Catalog Number | NEW9253LPC |
-| Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.<br><br>Produced and Fleximixed at Shabang Studios.<br><br>Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies<br><br>Repress using same metal work as the [url=https://www.discogs.com/release/12388769-Zero-7-Simple-Things]2018 Reissue[/url] |
+| Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies  Repress using same metal work as the [url=https://www.discogs.com/release/12388769-Zero-7-Simple-Things]2018 Reissue[/url] |
 | Discogs URL    | [Zero - Simple Things](https://www.discogs.com/release/19608181-Zero-7-Simple-Things) |

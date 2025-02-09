@@ -34,20 +34,20 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Playground |  |
-| A2 | Stupidly Happy |  |
-| A3 | In Another Life |  |
-| A4 | My Brown Guitar |  |
-| A5 | Boarded Up |  |
-| A6 | I'm The Man Who Murdered Love |  |
-| B1 | We're All Light |  |
-| B2 | Standing In For Joe |  |
-| B3 | Wounded Horse |  |
-| B4 | You And The Clouds Will Still Be Beautiful |  |
-| B5 | Church Of Women |  |
-| B6 | The Wheel And The Maypole |  |
+| Position | Title |
+|----------|--------|
+| A1 | Playground |
+| A2 | Stupidly Happy |
+| A3 | In Another Life |
+| A4 | My Brown Guitar |
+| A5 | Boarded Up |
+| A6 | I'm The Man Who Murdered Love |
+| B1 | We're All Light |
+| B2 | Standing In For Joe |
+| B3 | Wounded Horse |
+| B4 | You And The Clouds Will Still Be Beautiful |
+| B5 | Church Of Women |
+| B6 | The Wheel And The Maypole |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 | Format         | Vinyl LP Album Reissue (200 gram) |
 | Label          | Ape House |
 | Catalog Number | APELP119 |
-| Notes | lined inner sleeve with Apehouse catalog<br>includes two-sided insert with lyrics and credits<br> |
+| Notes | lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits  |
 | Discogs URL    | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487-XTC-Wasp-Star-Apple-Venus-Volume-2) |

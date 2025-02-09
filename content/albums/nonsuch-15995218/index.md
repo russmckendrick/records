@@ -41,25 +41,25 @@ Lead single "The Disappointed" reached number 33 in the UK and was nominated for
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Ballad Of Peter Pumpkinhead | 5:00 |
-| A2 | My Bird Performs | 3:51 |
-| A3 | Dear Madam Barnum | 2:53 |
-| A4 | Humble Daisy | 3:36 |
-| A5 | The Smartest Monkeys | 4:18 |
-| B1 | The Disappointed | 3:23 |
-| B2 | Holly Up On Poppy | 3:04 |
-| B3 | Crocodile | 3:56 |
-| B4 | Rook | 3:45 |
-| C1 | Omnibus | 3:20 |
-| C2 | That Wave | 3:34 |
-| C3 | Then She Appeared | 3:52 |
-| C4 | War Dance | 3:23 |
-| D1 | Wrapped In Grey | 3:46 |
-| D2 | The Ugly Underneath | 3:54 |
-| D3 | Bungalow | 2:49 |
-| D4 | Books Are Burning | 4:51 |
+| Position | Title |
+|----------|--------|
+| A1 | The Ballad Of Peter Pumpkinhead |
+| A2 | My Bird Performs |
+| A3 | Dear Madam Barnum |
+| A4 | Humble Daisy |
+| A5 | The Smartest Monkeys |
+| B1 | The Disappointed |
+| B2 | Holly Up On Poppy |
+| B3 | Crocodile |
+| B4 | Rook |
+| C1 | Omnibus |
+| C2 | That Wave |
+| C3 | Then She Appeared |
+| C4 | War Dance |
+| D1 | Wrapped In Grey |
+| D2 | The Ugly Underneath |
+| D3 | Bungalow |
+| D4 | Books Are Burning |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Lead single "The Disappointed" reached number 33 in the UK and was nominated for
 | Format         | Vinyl 2× LP Album Reissue Remastered (200g, Gatefold) |
 | Label          | Ape House |
 | Catalog Number | APELPX110 |
-| Notes | Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991.<br>Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991.<br>This edition remastered at Loud Mastering.<br><br>Published by BMG<br><br>Front cover image from John Speed's Map of Surrey 1611.<br><br>℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd.<br>Made in the EU. |
+| Notes | Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991. Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991. This edition remastered at Loud Mastering.  Published by BMG  Front cover image from John Speed's Map of Surrey 1611.  ℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd. Made in the EU. |
 | Discogs URL    | [XTC - Nonsuch](https://www.discogs.com/release/15995218-XTC-Nonsuch) |

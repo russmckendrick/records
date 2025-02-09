@@ -28,15 +28,15 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Temporal | 5:32 |
-| A2 | Tabula Rasa | 4:04 |
-| A3 | Waterhole | 3:33 |
-| A4 | Blue Rose | 4:45 |
-| B1 | Bandit | 4:39 |
-| B2 | Witness | 11:10 |
-| B3 | Otherside | 6:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Temporal |
+| A2 | Tabula Rasa |
+| A3 | Waterhole |
+| A4 | Blue Rose |
+| B1 | Bandit |
+| B2 | Witness |
+| B3 | Otherside |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Rockosmos |
 | Catalog Number | none |
-| Notes | Pearl Blue Vinyl (180g) limited to 250 copies<br>Pre-orders ONLY were signed by the band (on the colored inner sleeve)<br>Download code included with the Vinyl |
+| Notes | Pearl Blue Vinyl (180g) limited to 250 copies Pre-orders ONLY were signed by the band (on the colored inner sleeve) Download code included with the Vinyl |
 | Discogs URL    | [Awooga - Conduit](https://www.discogs.com/release/11840249-Awooga-Conduit) |

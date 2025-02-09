@@ -36,16 +36,16 @@ Pop supported The Idiot with a tour in March and April 1977, with Bowie as his k
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sister Midnight | 4:23 |
-| A2 | Nightclubbing | 4:18 |
-| A3 | Funtime | 2:53 |
-| A4 | Baby | 3:20 |
-| A5 | China Girl | 5:12 |
-| B1 | Dum Dum Boys | 7:12 |
-| B2 | Tiny Girls | 3:03 |
-| B3 | Mass Production | 8:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Sister Midnight |
+| A2 | Nightclubbing |
+| A3 | Funtime |
+| A4 | Baby |
+| A5 | China Girl |
+| B1 | Dum Dum Boys |
+| B2 | Tiny Girls |
+| B3 | Mass Production |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Pop supported The Idiot with a tour in March and April 1977, with Bowie as his k
 | Format         | Vinyl LP Album Limited Edition Reissue (Silver, 180) |
 | Label          | UMC |
 | Catalog Number | 00600753772461 |
-| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.<br><br>Made in the E.U. |
+| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Made in the E.U. |
 | Discogs URL    | [Iggy Pop - The Idiot](https://www.discogs.com/release/10451933-Iggy-Pop-The-Idiot) |

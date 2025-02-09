@@ -29,19 +29,19 @@ styles: ["Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Money |  |
-| A2 | Shine Your Light |  |
-| A3 | House Of Love |  |
-| A4 | Colourblind |  |
-| A5 | Which Are The Tears |  |
-| A6 | Look But Don't Touch |  |
-| B1 | Nightsong |  |
-| B2 | Tower Of Strength |  |
-| B3 | Revolution |  |
-| B4 | Raised On Radio |  |
-| B5 | Wings Of An Angel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Money |
+| A2 | Shine Your Light |
+| A3 | House Of Love |
+| A4 | Colourblind |
+| A5 | Which Are The Tears |
+| A6 | Look But Don't Touch |
+| B1 | Nightsong |
+| B2 | Tower Of Strength |
+| B3 | Revolution |
+| B4 | Raised On Radio |
+| B5 | Wings Of An Angel |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 28869 1 4 |
-| Notes | Printed in the U.K. <br><br>The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
+| Notes | Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
 | Discogs URL    | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-4-Skin) |

@@ -36,14 +36,14 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | El Dorado | 16:46 |
-| B1 | Living In F E A R | 6:25 |
-| B2 | White Paper | 7:19 |
-|  | The Leavers | 19:08 |
-|  | The New Kings | 16:45 |
-| D5 | Tomorrow's New Country | 1:47 |
+| Position | Title |
+|----------|--------|
+|  | El Dorado |
+| B1 | Living In F E A R |
+| B2 | White Paper |
+|  | The Leavers |
+|  | The New Kings |
+| D5 | Tomorrow's New Country |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Prog Rock", "Art Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0211265EMU |
-| Notes | Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.<br><br>Recorded at The Racket Club, Bucks and Real World, Box.<br><br>℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH.<br>Made in Germany |
+| Notes | Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.  Recorded at The Racket Club, Bucks and Real World, Box.  ℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH. Made in Germany |
 | Discogs URL    | [Marillion - FEAR (F*** Everyone And Run)](https://www.discogs.com/release/9091342-Marillion-FEAR-F-Everyone-And-Run) |

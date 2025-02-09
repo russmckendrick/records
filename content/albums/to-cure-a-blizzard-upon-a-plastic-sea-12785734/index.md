@@ -28,18 +28,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Binary  |  |
-| A2 | Donkey Kong |  |
-| A3 | Immortal Soldiers |  |
-| B1 | Into The Wave  |  |
-| B2 | Friends Don't Owe |  |
-| C1 | Spider Bones |  |
-| C2 | Sentientia  |  |
-| C3 | That's Not Entertainment  |  |
-| D1 | Diamond Ballgag  |  |
-| D2 | Robots In Disguise  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Binary  |
+| A2 | Donkey Kong |
+| A3 | Immortal Soldiers |
+| B1 | Into The Wave  |
+| B2 | Friends Don't Owe |
+| C1 | Spider Bones |
+| C2 | Sentientia  |
+| C3 | That's Not Entertainment  |
+| D1 | Diamond Ballgag  |
+| D2 | Robots In Disguise  |
 
 
 ## Apple Music

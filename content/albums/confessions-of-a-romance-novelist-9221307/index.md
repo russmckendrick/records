@@ -32,24 +32,24 @@ On the album, Catherine plays a variety of instruments, including piano, guitar,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Long Year | 3:52 |
-| A2 | What Goes Around | 4:17 |
-| A3 | Doesn't Kill You | 4:40 |
-| A4 | You And Only You | 4:09 |
-| B1 | One For Sorrow | 3:24 |
-| B2 | P.S. Fuck You | 3:19 |
-| B3 | Popular | 3:57 |
-| B4 | Bury Me | 3:43 |
-| C1 | Intermission (Notes To The Editor) | 2:09 |
-| C2 | Waiting To Breathe | 3:03 |
-| C3 | Chip On Your Shoulder | 2:58 |
-| C4 | Confessions Of A Romance Novelist | 6:26 |
-| D1 | You And Only You (Acoustic Version) | 4:50 |
-| D2 | Bury Me ( Acoustic Version ) | 3:46 |
-| D3 | Long Year (Acoustic Version) | 3:33 |
-| D4 | Popular (Acoustic Version) | 2:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Long Year |
+| A2 | What Goes Around |
+| A3 | Doesn't Kill You |
+| A4 | You And Only You |
+| B1 | One For Sorrow |
+| B2 | P.S. Fuck You |
+| B3 | Popular |
+| B4 | Bury Me |
+| C1 | Intermission (Notes To The Editor) |
+| C2 | Waiting To Breathe |
+| C3 | Chip On Your Shoulder |
+| C4 | Confessions Of A Romance Novelist |
+| D1 | You And Only You (Acoustic Version) |
+| D2 | Bury Me ( Acoustic Version ) |
+| D3 | Long Year (Acoustic Version) |
+| D4 | Popular (Acoustic Version) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ On the album, Catherine plays a variety of instruments, including piano, guitar,
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE920 |
-| Notes | Sticker in front says:<br>2LP Gatefold 180g VINYL with Download Code<br>"A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER<br>"Kate Bush's Hounds of Love ... updated for the 21st century." PROG<br>"Karen Carpenter singing John Grant." UNCUT<br>"Fascinating" SUNDAY TIMES<br>**** MOJO<br>includes 4 new bonus acoustic tracks.<br>kscope920<br>kscopemusic.com/theanchoress<br> |
+| Notes | Sticker in front says: 2LP Gatefold 180g VINYL with Download Code "A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER "Kate Bush's Hounds of Love ... updated for the 21st century." PROG "Karen Carpenter singing John Grant." UNCUT "Fascinating" SUNDAY TIMES **** MOJO includes 4 new bonus acoustic tracks. kscope920 kscopemusic.com/theanchoress  |
 | Discogs URL    | [The Anchoress - Confessions Of A Romance Novelist](https://www.discogs.com/release/9221307-The-Anchoress-Confessions-Of-A-Romance-Novelist) |

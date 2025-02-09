@@ -30,19 +30,19 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burnt Reynolds |  |
-| A2 | Rise Up And Fight |  |
-| A3 | Whissendine |  |
-| B1 | Crossing The Bar |  |
-| B2 | 200 Tons Of Bad Luck |  |
-| B3 | Please Do Not Stay Here |  |
-| C1 | Song For The Loved |  |
-| C2 | A Hymn For A Lost Soul |  |
-| D1 | 444 |  |
-| D2 | Littlestep |  |
-| D3 | Human Nature Dictates The Downfall Of Humans |  |
+| Position | Title |
+|----------|--------|
+| A1 | Burnt Reynolds |
+| A2 | Rise Up And Fight |
+| A3 | Whissendine |
+| B1 | Crossing The Bar |
+| B2 | 200 Tons Of Bad Luck |
+| B3 | Please Do Not Stay Here |
+| C1 | Song For The Loved |
+| C2 | A Hymn For A Lost Soul |
+| D1 | 444 |
+| D2 | Littlestep |
+| D3 | Human Nature Dictates The Downfall Of Humans |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Post Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE916 |
-| Notes | Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil).<br>No durations listed on release.<br><br>On labels:<br>℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix<br><br>On sleeve back:<br>℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd.<br>The copyright in this sound recording is owned by Snapper Music Ltd.<br>Kscope is a Snapper Music label.  |
+| Notes | Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label.  |
 | Discogs URL    | [Crippled Black Phoenix - The Resurrectionists](https://www.discogs.com/release/13562698-Crippled-Black-Phoenix-The-Resurrectionists) |

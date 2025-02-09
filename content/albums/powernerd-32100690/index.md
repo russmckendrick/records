@@ -34,19 +34,19 @@ PowerNerd is the twenty-second studio album by Canadian metal musician Devin Tow
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | PowerNerd | 3:28 |
-| A2 | Falling Apart | 4:23 |
-| A3 | Knuckledragger | 4:31 |
-| A4 | Gratitude  | 3:30 |
-| A5 | Dreams Of Light | 0:55 |
-| A6 | Ubelia  | 3:58 |
-| B1 | Jainism | 4:17 |
-| B2 | Younger Lover | 4:10 |
-| B3 | Glacier  | 4:22 |
-| B4 | Goodbye | 5:58 |
-| B5 | Ruby Quaker | 4:32 |
+| Position | Title |
+|----------|--------|
+| A1 | PowerNerd |
+| A2 | Falling Apart |
+| A3 | Knuckledragger |
+| A4 | Gratitude  |
+| A5 | Dreams Of Light |
+| A6 | Ubelia  |
+| B1 | Jainism |
+| B2 | Younger Lover |
+| B3 | Glacier  |
+| B4 | Goodbye |
+| B5 | Ruby Quaker |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ PowerNerd is the twenty-second studio album by Canadian metal musician Devin Tow
 | Format         | Vinyl LP Album Limited Edition Stereo (White, 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM726 |
-| Notes | Gatefold with LP-size booklet.<br>℗ & © HevyDevy Records, Inc., issued under exclusive license to InsideOutMusic<br>Published by HevyDevy Records Inc, administred by Kobalt Music Services Ltd.<br><br>Made in the EU.<br><br>Drums recorded at Armoury Studios, Vancouver BC<br>Bass recorded at Demi-Tone Studios, Vancouver BC<br>Guitars and vocals recorded at Lighthouse Studio, Vancouver BC<br>Guitar Reamp recorded at Mythgraven Studio (KSR Orion Amplifier)<br>Acoustic Guitars recorded at Lip Service Studio |
+| Notes | Gatefold with LP-size booklet. ℗ & © HevyDevy Records, Inc., issued under exclusive license to InsideOutMusic Published by HevyDevy Records Inc, administred by Kobalt Music Services Ltd.  Made in the EU.  Drums recorded at Armoury Studios, Vancouver BC Bass recorded at Demi-Tone Studios, Vancouver BC Guitars and vocals recorded at Lighthouse Studio, Vancouver BC Guitar Reamp recorded at Mythgraven Studio (KSR Orion Amplifier) Acoustic Guitars recorded at Lip Service Studio |
 | Discogs URL    | [Devin Townsend - PowerNerd](https://www.discogs.com/release/32100690-Devin-Townsend-PowerNerd) |

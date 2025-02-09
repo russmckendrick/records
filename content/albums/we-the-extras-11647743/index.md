@@ -25,12 +25,12 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fifteen Years |  |
-| A2 | Outside Inside |  |
-| B1 | All The Unknown |  |
-| B2 | Said And Done |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fifteen Years |
+| A2 | Outside Inside |
+| B1 | All The Unknown |
+| B2 | Said And Done |
 
 
 ## Apple Music

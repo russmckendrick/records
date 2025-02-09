@@ -34,32 +34,32 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 1992 - The Love Album |  |
-| A1 | 1993 |  |
-| A2 | Is Wrestling Fixed? |  |
-| A3 | The Only Living Boy In New Cross |  |
-| A4 | Suppose You Gave A Funeral And Nobody Came |  |
-| A5 | England |  |
-| B1 | Do Re Me, So Far So Good |  |
-| B2 | Look Mum, No Hands! |  |
-| B3 | While You Were Out |  |
-| B4 | Skywest And Crooked |  |
-| B5 | The Impossible Dream |  |
-|  | 1992 - The Other Love Songs |  |
-| C1 | After The Watershed [Early Learning The Hard Way] |  |
-| C2 | The 90's Revival |  |
-| C3 | A Nation Of Shoplifters |  |
-| C4 | This Is How It Feels |  |
-| C5 | Watching The Big Apple Turnover |  |
-| C6 | Panic |  |
-| D1 | King Rocker |  |
-| D2 | Mannequin |  |
-| D3 | Down In The Tube Station At Midnight |  |
-| D4 | Turn On, Tune In And Switch Off |  |
-| D5 | When Thesauruses Ruled The World |  |
-| D6 | Bring On The Girls |  |
+| Position | Title |
+|----------|--------|
+|  | 1992 - The Love Album |
+| A1 | 1993 |
+| A2 | Is Wrestling Fixed? |
+| A3 | The Only Living Boy In New Cross |
+| A4 | Suppose You Gave A Funeral And Nobody Came |
+| A5 | England |
+| B1 | Do Re Me, So Far So Good |
+| B2 | Look Mum, No Hands! |
+| B3 | While You Were Out |
+| B4 | Skywest And Crooked |
+| B5 | The Impossible Dream |
+|  | 1992 - The Other Love Songs |
+| C1 | After The Watershed [Early Learning The Hard Way] |
+| C2 | The 90's Revival |
+| C3 | A Nation Of Shoplifters |
+| C4 | This Is How It Feels |
+| C5 | Watching The Big Apple Turnover |
+| C6 | Panic |
+| D1 | King Rocker |
+| D2 | Mannequin |
+| D3 | Down In The Tube Station At Midnight |
+| D4 | Turn On, Tune In And Switch Off |
+| D5 | When Thesauruses Ruled The World |
+| D6 | Bring On The Girls |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ styles: ["Indie Pop", "Indie Rock"]
 | Format         | Vinyl LP Reissue (Blue Translucent), Vinyl LP Compilation (Yellow Translucent), All Media Album Reissue Remastered (Expanded Edition) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1946 |
-| Notes | Gatefold sleeve<br><br>Newly remastered by Phil Kinrade at AIR Mastering, the double LP version on translucent blue and yellow vinyl to reflect the signature colours used on the1992 The Love Album and will be a must have for all Carter and indie fans.<br><br>The vinyl features the complete album in its original running order on LP 1 – including the band’s biggest chart hit ‘The Only Living Boy In New Cross’ which reached No. 7 on the UK Singles Chart plus Top 40 singles ‘Do Re Me, So Far So Good’ and ‘The Impossible Dream’, (a cover of the Man of La Mancha standard).<br><br>LP 2 features ‘1992 – The Other Love Songs’, the complete collection of B-sides from the period plus the non-album Top 20 A-side ‘After The Watershed (Early Learning The Hard Way)’.<br><br>Limited edition 2LP expanded edition. <br><br>nb: Signed by both Jim Bob and Fruitbat only from Carter USM webshop as pre-order. |
+| Notes | Gatefold sleeve  Newly remastered by Phil Kinrade at AIR Mastering, the double LP version on translucent blue and yellow vinyl to reflect the signature colours used on the1992 The Love Album and will be a must have for all Carter and indie fans.  The vinyl features the complete album in its original running order on LP 1 – including the band’s biggest chart hit ‘The Only Living Boy In New Cross’ which reached No. 7 on the UK Singles Chart plus Top 40 singles ‘Do Re Me, So Far So Good’ and ‘The Impossible Dream’, (a cover of the Man of La Mancha standard).  LP 2 features ‘1992 – The Other Love Songs’, the complete collection of B-sides from the period plus the non-album Top 20 A-side ‘After The Watershed (Early Learning The Hard Way)’.  Limited edition 2LP expanded edition.   nb: Signed by both Jim Bob and Fruitbat only from Carter USM webshop as pre-order. |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - 1992 The Love Album](https://www.discogs.com/release/29528317-Carter-The-Unstoppable-Sex-Machine-1992-The-Love-Album) |

@@ -31,10 +31,10 @@ Although not quite matching the sales figures for Phaedra, Rubycon reached numbe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Rubycon (Part I) | 17:18 |
-| B | Rubycon (Part II) | 17:35 |
+| Position | Title |
+|----------|--------|
+| A | Rubycon (Part I) |
+| B | Rubycon (Part II) |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ Although not quite matching the sales figures for Phaedra, Rubycon reached numbe
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | V2025 |
-| Notes | Cat# appears as V 2025 on labels, V2025 on rear of sleeve and spine.<br><br>Recorded in January 1975 at The Manor, Shipton on Cherwell.<br>Produced for Virgin.<br>Published by Virgin Music (Publishers) Ltd.<br>℗Virgin Records Ltd. 1975<br>©Virgin Music (Publishers) Ltd. 1975<br><br>Printed in England by Robor Limited<br><br>Gatefold sleeve. Originally issued on the Roger Dean designed "twins/dragon/blue background" label, also issued with the green twins labels.  A later release also exists with the same cat #s but with green/red labels, It is here, [r3058032]<br><br>Tracks are listed as Rubycon-Part One and Rubycon-Part Two on the cover, whereas on the labels tracks are simply credited as Part 1 and Part 2. |
+| Notes | Cat# appears as V 2025 on labels, V2025 on rear of sleeve and spine.  Recorded in January 1975 at The Manor, Shipton on Cherwell. Produced for Virgin. Published by Virgin Music (Publishers) Ltd. ℗Virgin Records Ltd. 1975 ©Virgin Music (Publishers) Ltd. 1975  Printed in England by Robor Limited  Gatefold sleeve. Originally issued on the Roger Dean designed "twins/dragon/blue background" label, also issued with the green twins labels.  A later release also exists with the same cat #s but with green/red labels, It is here, [r3058032]  Tracks are listed as Rubycon-Part One and Rubycon-Part Two on the cover, whereas on the labels tracks are simply credited as Part 1 and Part 2. |
 | Discogs URL    | [Tangerine Dream - Rubycon](https://www.discogs.com/release/3077549-Tangerine-Dream-Rubycon) |

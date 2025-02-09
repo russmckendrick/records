@@ -33,17 +33,17 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Band On The Run |  |
-| A2 | Jet |  |
-| A3 | Bluebird |  |
-| A4 | Mrs. Vandebilt |  |
-| A5 | Let Me Roll It |  |
-| B1 | Mamunia |  |
-| B2 | No Words |  |
-| B3 | Picasso's Last Words (Drink To Me) |  |
-| B4 | Nineteen Hundred And Eighty Five |  |
+| Position | Title |
+|----------|--------|
+| A1 | Band On The Run |
+| A2 | Jet |
+| A3 | Bluebird |
+| A4 | Mrs. Vandebilt |
+| A5 | Let Me Roll It |
+| B1 | Mamunia |
+| B2 | No Words |
+| B3 | Picasso's Last Words (Drink To Me) |
+| B4 | Nineteen Hundred And Eighty Five |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 | Format         | Vinyl LP Album Stereo (1st Press) |
 | Label          | Apple Records |
 | Catalog Number | PAS 10007 |
-| Notes | Original UK release with:<br>• Apple logo, 'An Apple Record';<br>• ℗ 1973 EMI Records Ltd.;<br>• McCartney Music Ltd./ATV Music Ltd. on labels.<br><br>This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.<br><br>Includes large fold-out poster depicting many small Polaroid photographs.<br>Inner thick paper sleeve has a photograph on one side and lyrics on the other.<br>Also available on cassette and cartridge.<br><br>℗ 1973 EMI Records Ltd. <br><br>An Apple Record<br><br><br>Runouts are stamped. Matrix # on labels in parentheses. |
+| Notes | Original UK release with: • Apple logo, 'An Apple Record'; • ℗ 1973 EMI Records Ltd.; • McCartney Music Ltd./ATV Music Ltd. on labels.  This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.  Includes large fold-out poster depicting many small Polaroid photographs. Inner thick paper sleeve has a photograph on one side and lyrics on the other. Also available on cassette and cartridge.  ℗ 1973 EMI Records Ltd.   An Apple Record   Runouts are stamped. Matrix # on labels in parentheses. |
 | Discogs URL    | [Wings - Band On The Run](https://www.discogs.com/release/778278-Paul-McCartney-And-Wings-Band-On-The-Run) |

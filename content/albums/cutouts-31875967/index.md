@@ -38,18 +38,18 @@ It remains to be seen whether anything can be read into the trio clearing the de
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Foreign Spies |  |
-| A2 | Instant Psalm |  |
-| A3 | Zero Sum |  |
-| A4 | Colours Fly |  |
-| A5 | Eyes And Mouth |  |
-| B1 | Don't Get Me Started |  |
-| B2 | Tiptoe |  |
-| B3 | The Slip |  |
-| B4 | No Words |  |
-| B5 | Bodies Laughing |  |
+| Position | Title |
+|----------|--------|
+| A1 | Foreign Spies |
+| A2 | Instant Psalm |
+| A3 | Zero Sum |
+| A4 | Colours Fly |
+| A5 | Eyes And Mouth |
+| B1 | Don't Get Me Started |
+| B2 | Tiptoe |
+| B3 | The Slip |
+| B4 | No Words |
+| B5 | Bodies Laughing |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ It remains to be seen whether anything can be read into the trio clearing the de
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | XL Recordings |
 | Catalog Number | XL1445LPE |
-| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title.<br>Includes a printed inner sleeve.<br><br>Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.<br><br>Recorded in Oxford & at Abbey Road Studios<br>Mixed at Studiofour, London<br>Mastered... at Sterling Sound<br><br>P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br>C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br><br>Published by Warner Chappell Music and Warp Publishing |
+| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title. Includes a printed inner sleeve.  Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music and Warp Publishing |
 | Discogs URL    | [The Smile - Cutouts](https://www.discogs.com/release/31875967-The-Smile-5-Cutouts) |

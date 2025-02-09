@@ -28,29 +28,29 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cello Man | 3:02 |
-| A2 | Gogglebubbleland | 2:22 |
-| A3 | Reflections And Dialogue With Mr. Sievey | 3:28 |
-| A4 | Slump | 1:53 |
-| A5 | Paula My Love | 4:34 |
-| A6 | Self-Copyright Message | 1:15 |
-| A7 | No Money | 3:57 |
-| A8 | I'm In Love With The Girl On The Manchester (Bleep) Megastore Checkout Desk | 2:47 |
-| A9 | Off Key Siren | 2:48 |
-| B1 | Fasten Your Seatbelts | 3:03 |
-| B2 | Timperley Travelogue | 2:16 |
-| B3 | Greengrocer On The Corner | 1:51 |
-| B4 | Slip | 3:18 |
-| B5 | Swingbeat Art Print Girl | 2:26 |
-| B6 | Franksworld Theme | 0:46 |
-| B7 | Magical Timperley Tour (Extra Keyboard Ver.) | 0:54 |
-| B8 | Frank Sidebottom's Proper Telly Show In B&W Theme | 0:28 |
-| B9 | Hey You, Street Artist | 2:26 |
-| B10 | Love Will Tear Us Apart | 1:18 |
-| B11 | Lazy Rising More Slowly, Where R.U., Oh 'Chele | 5:12 |
-| B12 | Life With The Lyons | 2:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Cello Man |
+| A2 | Gogglebubbleland |
+| A3 | Reflections And Dialogue With Mr. Sievey |
+| A4 | Slump |
+| A5 | Paula My Love |
+| A6 | Self-Copyright Message |
+| A7 | No Money |
+| A8 | I'm In Love With The Girl On The Manchester (Bleep) Megastore Checkout Desk |
+| A9 | Off Key Siren |
+| B1 | Fasten Your Seatbelts |
+| B2 | Timperley Travelogue |
+| B3 | Greengrocer On The Corner |
+| B4 | Slip |
+| B5 | Swingbeat Art Print Girl |
+| B6 | Franksworld Theme |
+| B7 | Magical Timperley Tour (Extra Keyboard Ver.) |
+| B8 | Frank Sidebottom's Proper Telly Show In B&W Theme |
+| B9 | Hey You, Street Artist |
+| B10 | Love Will Tear Us Apart |
+| B11 | Lazy Rising More Slowly, Where R.U., Oh 'Chele |
+| B12 | Life With The Lyons |
 
 
 ## Apple Music

@@ -30,24 +30,24 @@ The result was a much more subdued and electronica-tinged sound that Greg Kot of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | To Sheila | 4:40 |
-| A2 | Ava Adore | 4:20 |
-| A3 | Perfect | 3:23 |
-| A4 | Daphne Descends | 4:38 |
-| B1 | Once Upon A Time | 4:06 |
-| B2 | Tear | 5:52 |
-| B3 | Crestfallen | 4:09 |
-| B4 | Appels + Oranjes | 3:34 |
-| C1 | Pug | 4:46 |
-| C2 | The Tale Of Dusty And Pistol Pete | 4:33 |
-| C3 | Annie Dog | 3:36 |
-| C4 | Shame | 6:38 |
-| D1 | Behold! The Night Mare | 5:12 |
-| D2 | For Martha | 8:17 |
-| D3 | Blank Page | 4:51 |
-| D4 | 17 | 0:17 |
+| Position | Title |
+|----------|--------|
+| A1 | To Sheila |
+| A2 | Ava Adore |
+| A3 | Perfect |
+| A4 | Daphne Descends |
+| B1 | Once Upon A Time |
+| B2 | Tear |
+| B3 | Crestfallen |
+| B4 | Appels + Oranjes |
+| C1 | Pug |
+| C2 | The Tale Of Dusty And Pistol Pete |
+| C3 | Annie Dog |
+| C4 | Shame |
+| D1 | Behold! The Night Mare |
+| D2 | For Martha |
+| D3 | Blank Page |
+| D4 | 17 |
 
 
 ## Apple Music

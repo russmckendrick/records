@@ -45,14 +45,14 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Formentera Lady | 9:55 |
-| A2 | Sailor's Tale | 7:20 |
-| A3 | The Letters | 4:25 |
-| B1 | Ladies Of The Road | 5:29 |
-| B2 | Prelude: Song Of The Gulls | 4:14 |
-| B3 | Islands | 9:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Formentera Lady |
+| A2 | Sailor's Tale |
+| A3 | The Letters |
+| B1 | Ladies Of The Road |
+| B2 | Prelude: Song Of The Gulls |
+| B3 | Islands |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP4 |
-| Notes | Sticker:<br>• The original stereo mix of the 1971 classic<br>• Newly cut from masters approved by Robert Fripp<br>• 200-gram super-heavyweight vinyl<br><br>Includes a 4-page insert.<br>Some copies include an exclusive code for 320kbps MP3 downloads of an original 1971 vinyl transfer.<br>The duration of track A3 differs between the booklet and the A-side label. (Booklet: 4:23; Label: 4:25)<br><br>Recorded at Command Studios, Piccadilly, London.<br><br>Outer cover illustration 'Trifid Nebula in Sagittarius' by courtesy of The Institute of Technology and Carnegie Institution of Washington<br><br>Made in England.<br>Ⓟ & Ⓒ 2014 Robert Fripp. |
+| Notes | Sticker: • The original stereo mix of the 1971 classic • Newly cut from masters approved by Robert Fripp • 200-gram super-heavyweight vinyl  Includes a 4-page insert. Some copies include an exclusive code for 320kbps MP3 downloads of an original 1971 vinyl transfer. The duration of track A3 differs between the booklet and the A-side label. (Booklet: 4:23; Label: 4:25)  Recorded at Command Studios, Piccadilly, London.  Outer cover illustration 'Trifid Nebula in Sagittarius' by courtesy of The Institute of Technology and Carnegie Institution of Washington  Made in England. Ⓟ & Ⓒ 2014 Robert Fripp. |
 | Discogs URL    | [King Crimson - Islands](https://www.discogs.com/release/6093915-King-Crimson-Islands) |

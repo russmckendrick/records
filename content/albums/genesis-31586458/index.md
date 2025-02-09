@@ -28,17 +28,17 @@ Genesis was the group's greatest commercial success at the time of release, beco
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mama |  |
-| A2 | That's All |  |
-| A3 | Home By The Sea |  |
-| A4 | Second Home By The Sea |  |
-| B5 | Illegal Alien |  |
-| B6 | Takin' It All Too Hard |  |
-| B7 | Just A Job To Do |  |
-| B8 | Silver Rainbow |  |
-| B9 | It's Gonna Get Better |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mama |
+| A2 | That's All |
+| A3 | Home By The Sea |
+| A4 | Second Home By The Sea |
+| B5 | Illegal Alien |
+| B6 | Takin' It All Too Hard |
+| B7 | Just A Job To Do |
+| B8 | Silver Rainbow |
+| B9 | It's Gonna Get Better |
 
 
 ## Apple Music

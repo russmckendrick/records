@@ -61,38 +61,38 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Dawn To Dusk |  |
-| A1 | Mellon Collie And The Infinite Sadness | 2:51 |
-| A2 | Tonight, Tonight | 4:13 |
-| A3 | Jellybelly | 3:00 |
-| A4 | Zero | 2:39 |
-| B1 | Here Is No Why | 3:44 |
-| B2 | Bullet With Butterfly Wings | 4:16 |
-| B3 | To Forgive | 4:15 |
-| C1 | Fuck You (An Ode To No One) | 4:49 |
-| C2 | Love | 4:20 |
-| C3 | Cupid De Locke | 2:49 |
-| C4 | Galapogos | 4:45 |
-| D1 | Muzzle | 3:43 |
-| D2 | Porcelina Of The Vast Oceans | 9:20 |
-| D3 | Take Me Down | 2:50 |
-|  | Twilight To Starlight |  |
-| E1 | Where Boys Fear To Tread | 4:21 |
-| E2 | Bodies | 4:11 |
-| E3 | Thirty-Three | 4:09 |
-| E4 | In The Arms Of Sleep | 4:11 |
-| F1 | 1979 | 4:24 |
-| F2 | Tales Of A Scorched Earth | 3:45 |
-| F3 | Thru The Eyes Of Ruby | 7:37 |
-| G1 | Stumbleine | 2:53 |
-| G2 | X.Y.U. | 7:06 |
-| G3 | We Only Come Out At Night | 4:04 |
-| G4 | Beautiful | 4:17 |
-| H1 | Lily (My One And Only) | 3:30 |
-| H2 | By Starlight | 4:47 |
-| H3 | Farewell And Goodnight | 4:21 |
+| Position | Title |
+|----------|--------|
+|  | Dawn To Dusk |
+| A1 | Mellon Collie And The Infinite Sadness |
+| A2 | Tonight, Tonight |
+| A3 | Jellybelly |
+| A4 | Zero |
+| B1 | Here Is No Why |
+| B2 | Bullet With Butterfly Wings |
+| B3 | To Forgive |
+| C1 | Fuck You (An Ode To No One) |
+| C2 | Love |
+| C3 | Cupid De Locke |
+| C4 | Galapogos |
+| D1 | Muzzle |
+| D2 | Porcelina Of The Vast Oceans |
+| D3 | Take Me Down |
+|  | Twilight To Starlight |
+| E1 | Where Boys Fear To Tread |
+| E2 | Bodies |
+| E3 | Thirty-Three |
+| E4 | In The Arms Of Sleep |
+| F1 | 1979 |
+| F2 | Tales Of A Scorched Earth |
+| F3 | Thru The Eyes Of Ruby |
+| G1 | Stumbleine |
+| G2 | X.Y.U. |
+| G3 | We Only Come Out At Night |
+| G4 | Beautiful |
+| H1 | Lily (My One And Only) |
+| H2 | By Starlight |
+| H3 | Farewell And Goodnight |
 
 
 ## Apple Music
@@ -110,5 +110,5 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 | Format         | Vinyl 4× LP Album Reissue Remastered, Box Set |
 | Label          | Virgin |
 | Catalog Number | 5099997855316 |
-| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.<br><br>All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.<br><br>℗ 2012, Virgin Records America, Inc.<br>© 2012, Virgin Records America, Inc. <br><br>All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.<br><br>Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |
+| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.  Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |
 | Discogs URL    | [The Smashing Pumpkins - Mellon Collie And The Infinite Sadness](https://www.discogs.com/release/4091614-The-Smashing-Pumpkins-Mellon-Collie-And-The-Infinite-Sadness) |

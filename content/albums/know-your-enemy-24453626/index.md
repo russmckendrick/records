@@ -41,32 +41,32 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Door To The River |  |
-| A1 | The Year Of Purification |  |
-| A2 | Ocean Spray |  |
-| A3 | So Why So Sad (Avalanches Sean Penn Mix) |  |
-| A4 | Door To The River |  |
-| A5 | Rosebud |  |
-| B6 | Just A Kid |  |
-| B7 | His Last Painting |  |
-| B8 | Let Robeson Sing |  |
-| B9 | Groundhog Days |  |
-| B10 | Epicentre |  |
-|  | Solidarity |  |
-| C1 | Intravenous Agnostic |  |
-| C2 | Found That Soul |  |
-| C3 | We Are All Bourgeois Now |  |
-| C4 | Freedom Of Speech Won't Feed My Children |  |
-| C5 | The Convalescent |  |
-| C6 | Baby Elian |  |
-| D7 | Masses Against The Classes |  |
-| D8 | My Guernica |  |
-| D9 | Studies In Paralysis |  |
-| D10 | Dead Martyrs |  |
-| D11 | Wattsville Blues |  |
-| D12 | Miss Europa Disco Dancer |  |
+| Position | Title |
+|----------|--------|
+|  | Door To The River |
+| A1 | The Year Of Purification |
+| A2 | Ocean Spray |
+| A3 | So Why So Sad (Avalanches Sean Penn Mix) |
+| A4 | Door To The River |
+| A5 | Rosebud |
+| B6 | Just A Kid |
+| B7 | His Last Painting |
+| B8 | Let Robeson Sing |
+| B9 | Groundhog Days |
+| B10 | Epicentre |
+|  | Solidarity |
+| C1 | Intravenous Agnostic |
+| C2 | Found That Soul |
+| C3 | We Are All Bourgeois Now |
+| C4 | Freedom Of Speech Won't Feed My Children |
+| C5 | The Convalescent |
+| C6 | Baby Elian |
+| D7 | Masses Against The Classes |
+| D8 | My Guernica |
+| D9 | Studies In Paralysis |
+| D10 | Dead Martyrs |
+| D11 | Wattsville Blues |
+| D12 | Miss Europa Disco Dancer |
 
 
 ## Apple Music
@@ -84,5 +84,5 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 | Format         | Vinyl LP Album, Vinyl LP Album, All Media Remastered (180 g) |
 | Label          | Columbia |
 | Catalog Number | 19439988681 |
-| Notes | A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.<br><br>Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail.<br>Top opening picture inner sleeves of thin card.<br>Hype stickered shrink-wrap.<br><br>A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.<br><br>Tracks on each album are numbered sequentially.<br>All runout characters are etched excepting the pressing numbers between "- -", which are stamped.<br><br>Made in the EU. |
+| Notes | A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.  Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail. Top opening picture inner sleeves of thin card. Hype stickered shrink-wrap.  A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.  Tracks on each album are numbered sequentially. All runout characters are etched excepting the pressing numbers between "- -", which are stamped.  Made in the EU. |
 | Discogs URL    | [Manic Street Preachers - Know Your Enemy](https://www.discogs.com/release/24453626-Manic-Street-Preachers-Know-Your-Enemy) |

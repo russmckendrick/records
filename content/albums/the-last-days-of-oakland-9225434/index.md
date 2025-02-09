@@ -32,21 +32,21 @@ The Last Days of Oakland is the second album by American singer-songwriter Fanta
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro - The Last Days Of Oakland | 0:35 |
-| A2 | Working Poor | 4:01 |
-| A3 | About A Bird | 3:40 |
-| A4 | Scary Woman | 3:10 |
-| A5 | Interlude - What Would You Do? | 1:20 |
-| A6 | The Nigga Song | 3:16 |
-| A7 | In The Pines | 4:19 |
-| B1 | Hump Through The Winter | 3:54 |
-| B2 | Lost In A Crowd | 5:00 |
-| B3 | Interlude 2 - El Chileno | 0:41 |
-| B4 | The Worst | 3:52 |
-| B5 | Rant Rushmore | 5:01 |
-| B6 | Nothing Without You | 4:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro - The Last Days Of Oakland |
+| A2 | Working Poor |
+| A3 | About A Bird |
+| A4 | Scary Woman |
+| A5 | Interlude - What Would You Do? |
+| A6 | The Nigga Song |
+| A7 | In The Pines |
+| B1 | Hump Through The Winter |
+| B2 | Lost In A Crowd |
+| B3 | Interlude 2 - El Chileno |
+| B4 | The Worst |
+| B5 | Rant Rushmore |
+| B6 | Nothing Without You |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Last Days of Oakland is the second album by American singer-songwriter Fanta
 | Format         | Vinyl LP Album |
 | Label          | Blackball Universe Records |
 | Catalog Number | none |
-| Notes | Released in a gatefold sleeve and includes download card<br>P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services <br>Made in France<br><br>The lacquer cut identifier appears as Λ_ (AL for Alex Nimmermann) in runouts.<br> |
+| Notes | Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France  The lacquer cut identifier appears as Λ_ (AL for Alex Nimmermann) in runouts.  |
 | Discogs URL    | [Fantastic Negrito - The Last Days Of Oakland](https://www.discogs.com/release/9225434-Fantastic-Negrito-The-Last-Days-Of-Oakland) |

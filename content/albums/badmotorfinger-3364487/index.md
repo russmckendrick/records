@@ -40,20 +40,20 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rusty Cage | 4:30 |
-| A2 | Outshined | 5:06 |
-| A3 | Slaves & Bulldozers | 6:56 |
-| A4 | Jesus Christ Pose | 5:51 |
-| A5 | Face Pollution | 2:23 |
-| A6 | Somewhere | 4:20 |
-| B1 | Searching With My Good Eye Closed | 6:31 |
-| B2 | Room A Thousand Years Wide | 4:06 |
-| B3 | Mind Riot | 4:48 |
-| B4 | Drawing Flies | 2:32 |
-| B5 | Holy Water | 5:06 |
-| B6 | New Damage | 5:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Rusty Cage |
+| A2 | Outshined |
+| A3 | Slaves & Bulldozers |
+| A4 | Jesus Christ Pose |
+| A5 | Face Pollution |
+| A6 | Somewhere |
+| B1 | Searching With My Good Eye Closed |
+| B2 | Room A Thousand Years Wide |
+| B3 | Mind Riot |
+| B4 | Drawing Flies |
+| B5 | Holy Water |
+| B6 | New Damage |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 374-1 |
-| Notes | ℗ 1991 A&M Records Inc., Los Angeles<br><br>Made in England<br><br>Some copies are issued with a hype sticker. |
+| Notes | ℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker. |
 | Discogs URL    | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |

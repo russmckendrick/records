@@ -40,15 +40,15 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pinch | 9:28 |
-| A2 | Sing Swan Song | 4:18 |
-| A3 | One More Night | 5:35 |
-| B1 | Vitamin C | 3:34 |
-| B2 | Soup | 10:25 |
-| B3 | I'm So Green | 3:03 |
-| B4 | Spoon | 3:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Pinch |
+| A2 | Sing Swan Song |
+| A3 | One More Night |
+| B1 | Vitamin C |
+| B2 | Soup |
+| B3 | I'm So Green |
+| B4 | Spoon |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
 | Label          | Spoon Records |
 | Catalog Number | XSPOON8 |
-| Notes | ℗ & © 2013 Spoon Records Limited<br><br>Printed in the EU XSPOON8<br><br>mute.com <br>spoonrecords.com<br><br>Limited reissue on green vinyl. Includes download code. Cat. No. on Hypesticker: XLSPOON8. <br><br>Released with three different barcode stickers: 5 400863 016517 in two different styles and 4 015887 000834. |
+| Notes | ℗ & © 2013 Spoon Records Limited  Printed in the EU XSPOON8  mute.com  spoonrecords.com  Limited reissue on green vinyl. Includes download code. Cat. No. on Hypesticker: XLSPOON8.   Released with three different barcode stickers: 5 400863 016517 in two different styles and 4 015887 000834. |
 | Discogs URL    | [Can - Ege Bamyasi](https://www.discogs.com/release/14373251-Can-Ege-Bamyasi) |

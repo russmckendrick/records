@@ -34,22 +34,22 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mosaic |  |
-| A2 | Cameron's Motorcycle Diaries |  |
-| A3 | Venture Capital |  |
-| A4 | Impossible To Love |  |
-| A5 | Why I Finally Told Him |  |
-| A6 | The Connection |  |
-| B1 | Into The River |  |
-| B2 | Life Interrupted |  |
-| B3 | Empty Rooms |  |
-| B4 | Off To Seattle |  |
-| B5 | Phoenix |  |
-| B6 | Dreamers And Misfits |  |
-| B7 | It Worked For Awhile / Cam And Joe |  |
-| B8 | I Have An Idea |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mosaic |
+| A2 | Cameron's Motorcycle Diaries |
+| A3 | Venture Capital |
+| A4 | Impossible To Love |
+| A5 | Why I Finally Told Him |
+| A6 | The Connection |
+| B1 | Into The River |
+| B2 | Life Interrupted |
+| B3 | Empty Rooms |
+| B4 | Off To Seattle |
+| B5 | Phoenix |
+| B6 | Dreamers And Misfits |
+| B7 | It Worked For Awhile / Cam And Joe |
+| B8 | I Have An Idea |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Lakeshore Records |
 | Catalog Number | FROST007LPX |
-| Notes | Record Store Day 2019 exclusive release<br><br>Gate-fold sleeve inside a die-cut comet outer sleeve |
+| Notes | Record Store Day 2019 exclusive release  Gate-fold sleeve inside a die-cut comet outer sleeve |
 | Discogs URL    | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack Volume 2)](https://www.discogs.com/release/13493939-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack-Volume-2) |

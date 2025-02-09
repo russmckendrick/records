@@ -28,20 +28,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Chad Who Loved Me | 5:07 |
-| A2 | Mansun’s Only Love Song | 5:53 |
-| A3 | Taxloss | 7:13 |
-| B1 | You, Who Do You Hate? | 3:04 |
-| B2 | Wide Open Space | 4:57 |
-| B3 | Stripper Vicar | 3:56 |
-| C1 | Disgusting | 5:28 |
-| C2 | She Makes My Nose Bleed | 4:07 |
-| C3 | Naked Twister | 4:48 |
-| D1 | Egg Shaped Fred | 4:11 |
-| D2 | Dark Mavis | 8:44 |
-| D3 | An Open Letter To The Lyrical Trainspotter | 4:33 |
+| Position | Title |
+|----------|--------|
+| A1 | The Chad Who Loved Me |
+| A2 | Mansun’s Only Love Song |
+| A3 | Taxloss |
+| B1 | You, Who Do You Hate? |
+| B2 | Wide Open Space |
+| B3 | Stripper Vicar |
+| C1 | Disgusting |
+| C2 | She Makes My Nose Bleed |
+| C3 | Naked Twister |
+| D1 | Egg Shaped Fred |
+| D2 | Dark Mavis |
+| D3 | An Open Letter To The Lyrical Trainspotter |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: []
 | Format         | Vinyl 2× LP Album Limited Edition Stereo |
 | Label          | Kscope |
 | Catalog Number | kscope1007 |
-| Notes | Comes with download card allowing 1 download of album in MP3 format.<br><br>Signed copies sold on Pauls November 2018 Acoustic tour.<br> |
+| Notes | Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour.  |
 | Discogs URL    | [Paul Draper - Attack Of The Grey Lantern Live At The Ritz](https://www.discogs.com/release/12803625-Paul-Draper-Attack-Of-The-Grey-Lantern-Live-At-The-Ritz) |

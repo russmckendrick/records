@@ -70,88 +70,88 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Workbook |  |
-| A1 | Sunspots |  |
-| A2 | Wishing Well |  |
-| A3 | Heartbreak A Stranger |  |
-| A4 | See A Little Light |  |
-| A5 | Poison Years |  |
-| A6 | Sinners And Their Repentences |  |
-| B1 | Brasilia Crossed With Trenton |  |
-| B2 | Compositions For The Young And Old |  |
-| B3 | Lonely Afternoon |  |
-| B4 | Dreaming, I Am |  |
-| B5 | Whichever Way The Wind Blows |  |
-|  | Black Sheets Of Rain |  |
-| C1 | Black Sheets Of Rain |  |
-| C2 | Stand Guard |  |
-| C3 | It's Too Late |  |
-| C4 | One Good Reason |  |
-| C5 | Stop Your Crying |  |
-| D1 | Hanging Tree |  |
-| D2 | The Last Night |  |
-| D3 | Hear Me Calling |  |
-| D4 | Out Of Your LIfe |  |
-| D5 | Disappointed |  |
-| D6 | Sacrifice / Let There Be Peace |  |
-|  | Copper Blue |  |
-| E1 | The Act We Act |  |
-| E2 | A Good Idea |  |
-| E3 | Changes |  |
-| E4 | Helpless |  |
-| E5 | Hoover Dam |  |
-| F1 | The Slim |  |
-| F2 | If I Can't Change Your Mind |  |
-| F3 | Fortune Teller |  |
-| F4 | Slick |  |
-| F5 | Man On The Moon |  |
-|  | Beaster |  |
-| G1 | Come Around |  |
-| G2 | Tilted |  |
-| G3 | Judas Cradle |  |
-| H1 | JC Auto |  |
-| H2 | Feeling Better |  |
-| H3 | Walking Away |  |
-|  | File Under: Easy Listening |  |
-| I1 | Gift |  |
-| I2 | Company Book |  |
-| I3 | Your Favorite Thing |  |
-| I4 | What You Want It To Be |  |
-| I5 | Gee Angel |  |
-| J1 | Panama City Hotel |  |
-| J2 | Can't Help You Anymore |  |
-| J3 | Granny Cool |  |
-| J4 | Believe What You're Saying |  |
-| J5 | Explode And Make Up |  |
-|  | Besides |  |
-| K1 | Needle Hits E |  |
-| K2 | If I Can't Change Your Mind (Solo Mix) |  |
-| K3 | Try Again |  |
-| K4 | Where Diamonds Are Halos (Live) |  |
-| K5 | Armenia City In The Sky (Live) |  |
-| L1 | Clownmaster |  |
-| L2 | Anyone (Live) |  |
-| L3 | JC Auto (Live) |  |
-| L4 | Believe What You're Saying (Campfire Mix) |  |
-| L5 | Mind Is An Island |  |
-| M1 | Frustration |  |
-| M2 | Going Home |  |
-| M3 | In The Eyes Of My Friends |  |
-| M4 | And You Tell Me |  |
-| N1 | If I Can't Change Your Mind (BBC Radio Session) |  |
-| N2 | Hoover Dam (BBC Radio Session) |  |
-| N3 | The Slim (BBC Radio Session) |  |
-| N4 | Where Diamonds Are Halos (BBC Radio Session) |  |
-|  | Distortion Plus: 1989-1995 |  |
-| O1 | All Those People Know |  |
-| O2 | No Water In Hell |  |
-| O3 | Dying From The Inside Out |  |
-| P1 | Dio |  |
-| P2 | Hickory Wind |  |
-| P3 | Can't Fight It |  |
-| P4 | Turning Of The Tide |  |
+| Position | Title |
+|----------|--------|
+|  | Workbook |
+| A1 | Sunspots |
+| A2 | Wishing Well |
+| A3 | Heartbreak A Stranger |
+| A4 | See A Little Light |
+| A5 | Poison Years |
+| A6 | Sinners And Their Repentences |
+| B1 | Brasilia Crossed With Trenton |
+| B2 | Compositions For The Young And Old |
+| B3 | Lonely Afternoon |
+| B4 | Dreaming, I Am |
+| B5 | Whichever Way The Wind Blows |
+|  | Black Sheets Of Rain |
+| C1 | Black Sheets Of Rain |
+| C2 | Stand Guard |
+| C3 | It's Too Late |
+| C4 | One Good Reason |
+| C5 | Stop Your Crying |
+| D1 | Hanging Tree |
+| D2 | The Last Night |
+| D3 | Hear Me Calling |
+| D4 | Out Of Your LIfe |
+| D5 | Disappointed |
+| D6 | Sacrifice / Let There Be Peace |
+|  | Copper Blue |
+| E1 | The Act We Act |
+| E2 | A Good Idea |
+| E3 | Changes |
+| E4 | Helpless |
+| E5 | Hoover Dam |
+| F1 | The Slim |
+| F2 | If I Can't Change Your Mind |
+| F3 | Fortune Teller |
+| F4 | Slick |
+| F5 | Man On The Moon |
+|  | Beaster |
+| G1 | Come Around |
+| G2 | Tilted |
+| G3 | Judas Cradle |
+| H1 | JC Auto |
+| H2 | Feeling Better |
+| H3 | Walking Away |
+|  | File Under: Easy Listening |
+| I1 | Gift |
+| I2 | Company Book |
+| I3 | Your Favorite Thing |
+| I4 | What You Want It To Be |
+| I5 | Gee Angel |
+| J1 | Panama City Hotel |
+| J2 | Can't Help You Anymore |
+| J3 | Granny Cool |
+| J4 | Believe What You're Saying |
+| J5 | Explode And Make Up |
+|  | Besides |
+| K1 | Needle Hits E |
+| K2 | If I Can't Change Your Mind (Solo Mix) |
+| K3 | Try Again |
+| K4 | Where Diamonds Are Halos (Live) |
+| K5 | Armenia City In The Sky (Live) |
+| L1 | Clownmaster |
+| L2 | Anyone (Live) |
+| L3 | JC Auto (Live) |
+| L4 | Believe What You're Saying (Campfire Mix) |
+| L5 | Mind Is An Island |
+| M1 | Frustration |
+| M2 | Going Home |
+| M3 | In The Eyes Of My Friends |
+| M4 | And You Tell Me |
+| N1 | If I Can't Change Your Mind (BBC Radio Session) |
+| N2 | Hoover Dam (BBC Radio Session) |
+| N3 | The Slim (BBC Radio Session) |
+| N4 | Where Diamonds Are Halos (BBC Radio Session) |
+|  | Distortion Plus: 1989-1995 |
+| O1 | All Those People Know |
+| O2 | No Water In Hell |
+| O3 | Dying From The Inside Out |
+| P1 | Dio |
+| P2 | Hickory Wind |
+| P3 | Can't Fight It |
+| P4 | Turning Of The Tide |
 
 
 ## Apple Music
@@ -168,5 +168,5 @@ styles: []
 | Format         | Box Set Limited Edition, Vinyl LP Album Reissue (Clear With Yellow & Brown Splatter, 140g), Vinyl LP Album Reissue (Clear With Orange & Grey Splatter, 140g), Vinyl LP Album Reissue (Clear With Yellow & Blue Splatter, 140g), Vinyl LP Album Reissue (Clear With Red & Green Splatter, 140g), Vinyl LP Album Reissue (Clear With Blue & White Splatter, 140g), Vinyl 2× LP Compilation Reissue (Clear With Red & Purple Splatter, 140g), Vinyl LP Compilation (Clear, 140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX48X |
-| Notes | ℗ and © 2020 Demon Music Group.<br><br>Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced. |
+| Notes | ℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced. |
 | Discogs URL    | [Bob Mould - Distortion: 1989 - 1995](https://www.discogs.com/release/16142917-Bob-Mould-Distortion-1989-1995) |

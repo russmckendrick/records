@@ -34,30 +34,30 @@ The album received generally favourable reviews from critics. It debuted at numb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Midnight City |  |
-| A3 | Reunion |  |
-| A4 | Where The Boats Go |  |
-| A5 | Wait |  |
-| B1 | Raconte-Moi Une Histoire |  |
-| B2 | Train To Pluton |  |
-| B3 | Claudia Lewis |  |
-| B4 | This Bright Flash |  |
-| B5 | When Will You Come Home? |  |
-| B6 | Soon, My Friend |  |
-| C1 | My Tears Are Becoming A Sea |  |
-| C2 | New Map |  |
-| C3 | OK Pal |  |
-| C4 | Another Wave From You |  |
-| C5 | Splendor |  |
-| D1 | Year One, One UFO |  |
-| D2 | Fountains |  |
-| D3 | Steve McQueen |  |
-| D4 | Echoes Of Mine |  |
-| D5 | Klaus I Love You |  |
-| D6 | Outro |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Midnight City |
+| A3 | Reunion |
+| A4 | Where The Boats Go |
+| A5 | Wait |
+| B1 | Raconte-Moi Une Histoire |
+| B2 | Train To Pluton |
+| B3 | Claudia Lewis |
+| B4 | This Bright Flash |
+| B5 | When Will You Come Home? |
+| B6 | Soon, My Friend |
+| C1 | My Tears Are Becoming A Sea |
+| C2 | New Map |
+| C3 | OK Pal |
+| C4 | Another Wave From You |
+| C5 | Splendor |
+| D1 | Year One, One UFO |
+| D2 | Fountains |
+| D3 | Steve McQueen |
+| D4 | Echoes Of Mine |
+| D5 | Klaus I Love You |
+| D6 | Outro |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ The album received generally favourable reviews from critics. It debuted at numb
 | Format         | Vinyl 2× LP Album (180 g) |
 | Label          | Naïve |
 | Catalog Number | NV824361 |
-| Notes | P&C 2011 M83 Recording Inc., exclusively licensed to naïve.<br><br>180 g vinyl edition. Includes a coupon with a code for a free download of the album. December 2020 update: This version bought on Amazon UK does not contain a code for a free download.<br><br>Early copies sold by Rough Trade came with a bonus cd, "Midnight City Remix EP" featuring four remixes.<br><br>The song "[r=3587066]" is listed in the playlist as a separate section (on inner sleeve included, with full credits, in a section called "Interlude" between sides B and C) but it's not included physically in the release.<br><br>All songs published by Delabel Editions/Justin's Polite Music except 'Intro', 'Midnight City' and 'Reunion' published by Delabel Editions/Justin's Polite Music/Morgan Grace Music and 'Splendor' Published by Delabel Editions/Justin's Polite Music/Copyright Control.<br>M83 Management: for DEF Limited.<br><br>Made in France<br>P&C 2011 M83 Recording Inc. exclusively licensed to naïve.<br> |
+| Notes | P&C 2011 M83 Recording Inc., exclusively licensed to naïve.  180 g vinyl edition. Includes a coupon with a code for a free download of the album. December 2020 update: This version bought on Amazon UK does not contain a code for a free download.  Early copies sold by Rough Trade came with a bonus cd, "Midnight City Remix EP" featuring four remixes.  The song "[r=3587066]" is listed in the playlist as a separate section (on inner sleeve included, with full credits, in a section called "Interlude" between sides B and C) but it's not included physically in the release.  All songs published by Delabel Editions/Justin's Polite Music except 'Intro', 'Midnight City' and 'Reunion' published by Delabel Editions/Justin's Polite Music/Morgan Grace Music and 'Splendor' Published by Delabel Editions/Justin's Polite Music/Copyright Control. M83 Management: for DEF Limited.  Made in France P&C 2011 M83 Recording Inc. exclusively licensed to naïve.  |
 | Discogs URL    | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/3187666-M83-Hurry-Up-Were-Dreaming) |

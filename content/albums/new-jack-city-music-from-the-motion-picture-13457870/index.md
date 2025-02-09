@@ -24,19 +24,19 @@ styles: ["Pop Rap", "New Jack Swing", "Contemporary R&B", "Gangsta", "Soundtrack
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Jack Hustler (Nino's Theme) |  |
-| A2 | I'm Dreamin' |  |
-| A3 | New Jack City |  |
-| A4 | I'm Still Waiting |  |
-| A5 | (There You Go) Tellin' Me No Again |  |
-| B1 | Facts Of Life |  |
-| B2 | For The Love Of Money / Living For The City (Medley) |  |
-| B3 | I Wanna Sex You Up |  |
-| B4 | Lyrics To The Rhythm |  |
-| B5 | Get It Together (Black Is A Force) |  |
-| B6 | In The Dust |  |
+| Position | Title |
+|----------|--------|
+| A1 | New Jack Hustler (Nino's Theme) |
+| A2 | I'm Dreamin' |
+| A3 | New Jack City |
+| A4 | I'm Still Waiting |
+| A5 | (There You Go) Tellin' Me No Again |
+| B1 | Facts Of Life |
+| B2 | For The Love Of Money / Living For The City (Medley) |
+| B3 | I Wanna Sex You Up |
+| B4 | Lyrics To The Rhythm |
+| B5 | Get It Together (Black Is A Force) |
+| B6 | In The Dust |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Pop Rap", "New Jack Swing", "Contemporary R&B", "Gangsta", "Soundtrack
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Reissue (Silver) |
 | Label          | Giant Records |
 | Catalog Number | 24409-1 |
-| Notes | Record Store Day 2019<br><br>Music from the motion picture soundtrack "New Jack City" |
+| Notes | Record Store Day 2019  Music from the motion picture soundtrack "New Jack City" |
 | Discogs URL    | [Various - New Jack City (Music From The Motion Picture)](https://www.discogs.com/release/13457870-Various-New-Jack-City-Music-From-The-Motion-Picture) |

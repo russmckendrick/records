@@ -32,20 +32,20 @@ Liquidizer is a techno and power pop album, borrowing influence from hip hop, th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Move Mountains | 3:20 |
-| A2 | Never Enough | 2:41 |
-| A3 | The Real World | 3:03 |
-| A4 | All The Answers | 3:48 |
-| A5 | What's Going On | 3:04 |
-| A6 | Song 13 | 4:05 |
-| B1 | Info Freako | 2:51 |
-| B2 | Bring It On Down | 2:31 |
-| B3 | Too Much To Learn | 3:02 |
-| B4 | What Would You Know? | 3:55 |
-| B5 | One For The Money | 2:56 |
-| B6 | Someone To Blame | 4:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Move Mountains |
+| A2 | Never Enough |
+| A3 | The Real World |
+| A4 | All The Answers |
+| A5 | What's Going On |
+| A6 | Song 13 |
+| B1 | Info Freako |
+| B2 | Bring It On Down |
+| B3 | Too Much To Learn |
+| B4 | What Would You Know? |
+| B5 | One For The Money |
+| B6 | Someone To Blame |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Liquidizer is a techno and power pop album, borrowing influence from hip hop, th
 | Format         | Vinyl LP Album Reissue (Transparent Green) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC952 |
-| Notes | <br><br> |
+| Notes |    |
 | Discogs URL    | [Jesus Jones - Liquidizer](https://www.discogs.com/release/25037398-Jesus-Jones-Liquidizer) |

@@ -30,18 +30,18 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loneliness |  |
-| A2 | Feel |  |
-| A3 | Why Am I Dancing? |  |
-| A4 | New London Boy |  |
-| A5 | Dancing Star |  |
-| B1 | A New Bohemia |  |
-| B2 | The Schlager Hit Parade |  |
-| B3 | The Secret Of Happiness |  |
-| B4 | Bullet For Narcissus |  |
-| B5 | Love Is The Law |  |
+| Position | Title |
+|----------|--------|
+| A1 | Loneliness |
+| A2 | Feel |
+| A3 | Why Am I Dancing? |
+| A4 | New London Boy |
+| A5 | Dancing Star |
+| B1 | A New Bohemia |
+| B2 | The Schlager Hit Parade |
+| B3 | The Secret Of Happiness |
+| B4 | Bullet For Narcissus |
+| B5 | Love Is The Law |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 | Format         | Vinyl LP Album Stereo (Clear) |
 | Label          | Parlophone |
 | Catalog Number | 5054197903571 |
-| Notes | Selected retailer "exclusive" clear vinyl.<br><br>Made in Germany. |
+| Notes | Selected retailer "exclusive" clear vinyl.  Made in Germany. |
 | Discogs URL    | [Pet Shop Boys - Nonetheless](https://www.discogs.com/release/30511678-Pet-Shop-Boys-Nonetheless) |

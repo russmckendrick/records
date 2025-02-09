@@ -40,23 +40,23 @@ Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, ty
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Check It Out | 1:26 |
-| A2 | Do Or Die | 1:59 |
-| A3 | The Turning Tide | 2:49 |
-| A4 | Northern Lites | 3:29 |
-| A5 | Citizen's Band |  |
-| B1 | Nightvision | 4:41 |
-| B2 | Wherever I Lay My Phone (That's My Home) | 5:24 |
-| C1 | A Specific Ocean | 0:51 |
-| C2 | Some Things Come From Nothing | 5:53 |
-| C3 | The Door To This House Remains Open | 4:16 |
-| C4 | The Teacher | 2:31 |
-| D1 | Fire In My Heart | 2:45 |
-| D2 | The Sound Of Life Today | 0:21 |
-| D3 | Chewing Chewing Gum | 4:49 |
-| D4 | Keep The Cosmic Trigger Happy | 2:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Check It Out |
+| A2 | Do Or Die |
+| A3 | The Turning Tide |
+| A4 | Northern Lites |
+| A5 | Citizen's Band |
+| B1 | Nightvision |
+| B2 | Wherever I Lay My Phone (That's My Home) |
+| C1 | A Specific Ocean |
+| C2 | Some Things Come From Nothing |
+| C3 | The Door To This House Remains Open |
+| C4 | The Teacher |
+| D1 | Fire In My Heart |
+| D2 | The Sound Of Life Today |
+| D3 | Chewing Chewing Gum |
+| D4 | Keep The Cosmic Trigger Happy |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, ty
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered (20th Anniversary Edition) |
 | Label          | BMG |
 | Catalog Number | BMGCAT392DLP |
-| Notes | 20th Anniversary Edition.<br>Pop-up Gatefold Double LP.<br>Remastered From The Original Master Tapes. <br><br>A5 plays from the inside out after the main tracks on side A and ends in a locked groove that separates A1-A4 from it.  It is not listed on the sleeve, which follows the tradition of the Easter egg concept as it was a hidden track on the original CD release found by rewinding the first track.  <br><br>B2 and C1 are longer than the original and deluxe CD, vinyl and digital releases as the segue was broken with the vinyl being split into four parts.  <br><br>Side B ends in a locked groove just before the run-out. The run-out has no groove in it.<br><br>There is also a reprise version of D3 after D4, which wasn't on the original vinyl release and is also not listed on this release.  <br><br>Durations not printed on release.  <br><br>There is no side A matrix / runout; it's absence here is not by error. |
+| Notes | 20th Anniversary Edition. Pop-up Gatefold Double LP. Remastered From The Original Master Tapes.   A5 plays from the inside out after the main tracks on side A and ends in a locked groove that separates A1-A4 from it.  It is not listed on the sleeve, which follows the tradition of the Easter egg concept as it was a hidden track on the original CD release found by rewinding the first track.    B2 and C1 are longer than the original and deluxe CD, vinyl and digital releases as the segue was broken with the vinyl being split into four parts.    Side B ends in a locked groove just before the run-out. The run-out has no groove in it.  There is also a reprise version of D3 after D4, which wasn't on the original vinyl release and is also not listed on this release.    Durations not printed on release.    There is no side A matrix / runout; it's absence here is not by error. |
 | Discogs URL    | [Super Furry Animals - Guerrilla](https://www.discogs.com/release/14283127-Super-Furry-Animals-Guerrilla) |

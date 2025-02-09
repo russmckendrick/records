@@ -35,26 +35,26 @@ Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Otis |  |
-| A2 | Rebel Waltz |  |
-| A3 | Waco |  |
-| A4 | A House Is Not A Motel |  |
-| A5 | She's Lost Control |  |
-| B1 | Snatch It Back And Hold It |  |
-| B2 | Goin' To San Diego |  |
-| B3 | Rebel Rouser |  |
-| B4 | Rêverie |  |
-| B5 | Old World |  |
-| C1 | You Can Call Me Al |  |
-| C2 | I've Seen Better Days |  |
-| C3 | The Drinking Song |  |
-| C4 | Grey Tickles, Black Pressure |  |
-| C5 | Tonight |  |
-| D1 | Blue Skies |  |
-| D2 | State Of The Nation |  |
-| D3 | Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso |  |
+| Position | Title |
+|----------|--------|
+| A1 | Otis |
+| A2 | Rebel Waltz |
+| A3 | Waco |
+| A4 | A House Is Not A Motel |
+| A5 | She's Lost Control |
+| B1 | Snatch It Back And Hold It |
+| B2 | Goin' To San Diego |
+| B3 | Rebel Rouser |
+| B4 | Rêverie |
+| B5 | Old World |
+| C1 | You Can Call Me Al |
+| C2 | I've Seen Better Days |
+| C3 | The Drinking Song |
+| C4 | Grey Tickles, Black Pressure |
+| C5 | Tonight |
+| D1 | Blue Skies |
+| D2 | State Of The Nation |
+| D3 | Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by 
 | Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Label          | O Genesis |
 | Catalog Number | OGEN62LP |
-| Notes | Signed copies were available from recordstore.co.uk<br><br>Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’.  |
+| Notes | Signed copies were available from recordstore.co.uk  Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’.  |
 | Discogs URL    | [Tim Burgess - Vinyl Adventures From Istanbul To San Francisco](https://www.discogs.com/release/8873659-Tim-Burgess-Vinyl-Adventures-From-Istanbul-To-San-Francisco) |

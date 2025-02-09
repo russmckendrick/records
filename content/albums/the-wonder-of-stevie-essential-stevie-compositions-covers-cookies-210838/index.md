@@ -33,20 +33,20 @@ styles: ["Soul", "Funk", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pastime Paradise | 8:31 |
-| A2 | Love Having You Around | 6:52 |
-| B1 | Stick Together | 6:17 |
-| B2 | Too High | 4:05 |
-| B3 | Bad Weather | 3:15 |
-| C1 | Buttercup | 5:56 |
-| C2 | Superstition | 5:35 |
-| C3 | Don't You Worry 'Bout A Thing | 4:07 |
-| D1 | You Got It Bad Girl | 3:14 |
-| D2 | I Was Made To Love Her | 2:53 |
-| D3 | Spring High | 4:14 |
-| D4 | Golden Lady | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Pastime Paradise |
+| A2 | Love Having You Around |
+| B1 | Stick Together |
+| B2 | Too High |
+| B3 | Bad Weather |
+| C1 | Buttercup |
+| C2 | Superstition |
+| C3 | Don't You Worry 'Bout A Thing |
+| D1 | You Got It Bad Girl |
+| D2 | I Was Made To Love Her |
+| D3 | Spring High |
+| D4 | Golden Lady |
 
 
 ## Apple Music

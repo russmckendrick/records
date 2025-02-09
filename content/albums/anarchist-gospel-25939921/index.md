@@ -40,22 +40,22 @@ Anarchist Gospel is a 2023 studio album by American folk punk musician Sunny War
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| At | Love's Death Bed |  |
-| A2 | No Reason |  |
-| A3 | Shelter And Storm |  |
-| A4 | I Got No Fight |  |
-| A5 | Swear To Gawd |  |
-| A6 | Baby Bitch |  |
-| A7 | His Love |  |
-| A8 | Whole |  |
-| B1 | New Day |  |
-| B2 | Earth |  |
-| B3 | Hopeless |  |
-| B4 | Higher |  |
-| B5 | Test Dummy |  |
-| B6 | Sweet Nothing |  |
+| Position | Title |
+|----------|--------|
+| At | Love's Death Bed |
+| A2 | No Reason |
+| A3 | Shelter And Storm |
+| A4 | I Got No Fight |
+| A5 | Swear To Gawd |
+| A6 | Baby Bitch |
+| A7 | His Love |
+| A8 | Whole |
+| B1 | New Day |
+| B2 | Earth |
+| B3 | Hopeless |
+| B4 | Higher |
+| B5 | Test Dummy |
+| B6 | Sweet Nothing |
 
 
 ## Apple Music

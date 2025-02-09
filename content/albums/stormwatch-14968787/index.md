@@ -48,18 +48,18 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | North Sea Oil | 3:11 |
-| A2 | Orion | 4:00 |
-| A3 | Home | 2:46 |
-| A4 | Dark Ages | 9:12 |
-| A5 | Warm Sporran | 3:58 |
-| B1 | Something's On The Move | 4:30 |
-| B2 | Old Ghosts | 4:24 |
-| B3 | Dun Ringill | 2:42 |
-| B4 | Flying Dutchman | 7:43 |
-| B5 | Elegy | 3:34 |
+| Position | Title |
+|----------|--------|
+| A1 | North Sea Oil |
+| A2 | Orion |
+| A3 | Home |
+| A4 | Dark Ages |
+| A5 | Warm Sporran |
+| B1 | Something's On The Move |
+| B2 | Old Ghosts |
+| B3 | Dun Ringill |
+| B4 | Flying Dutchman |
+| B5 | Elegy |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (white vinyl, 180gm) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295300234 |
-| Notes | The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies.<br>Standalone release of the main album, following on from the 2019 book-format reissue.<br><br>Also available as a black vinyl release. |
+| Notes | The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies. Standalone release of the main album, following on from the 2019 book-format reissue.  Also available as a black vinyl release. |
 | Discogs URL    | [Jethro Tull - Stormwatch](https://www.discogs.com/release/14968787-Jethro-Tull-Stormwatch) |

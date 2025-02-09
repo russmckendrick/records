@@ -30,28 +30,28 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harmonium | 5:30 |
-| A2 | Balance | 3:58 |
-| A3 | Closer | 6:21 |
-| A4 | Are You There? | 4:58 |
-| A5 | Childhood Dream | 2:10 |
-| A6 | Pulled Under At 2000 Metres A Second | 5:22 |
-| B1 | A Natural Disaster | 6:27 |
-| B2 | Flying | 5:57 |
-| B3 | Electricity | 3:52 |
-| B4 | Violence | 10:55 |
-| CD1 | Harmonium | 5:28 |
-| CD2 | Balance | 3:28 |
-| CD3 | Closer | 6:21 |
-| CD4 | Are You There? | 4:58 |
-| CD5 | Childhood Dream | 2:11 |
-| CD6 | Pulled Under At 2000 Metres A Second | 5:23 |
-| CD7 | A Natural Disaster | 6:28 |
-| CD8 | Flying | 5:57 |
-| CD9 | Electricity | 3:52 |
-| CD10 | Violence | 10:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Harmonium |
+| A2 | Balance |
+| A3 | Closer |
+| A4 | Are You There? |
+| A5 | Childhood Dream |
+| A6 | Pulled Under At 2000 Metres A Second |
+| B1 | A Natural Disaster |
+| B2 | Flying |
+| B3 | Electricity |
+| B4 | Violence |
+| CD1 | Harmonium |
+| CD2 | Balance |
+| CD3 | Closer |
+| CD4 | Are You There? |
+| CD5 | Childhood Dream |
+| CD6 | Pulled Under At 2000 Metres A Second |
+| CD7 | A Natural Disaster |
+| CD8 | Flying |
+| CD9 | Electricity |
+| CD10 | Violence |
 
 
 ## Apple Music

@@ -33,28 +33,28 @@ styles: ["Soul-Jazz"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Baby Just Cares For Me | 3:42 |
-| A2 | Mood Indigo | 4:09 |
-| A3 | Don't Smoke In Bed | 3:16 |
-| A4 | Little Girl Blue | 4:24 |
-| A5 | You'll Never Walk Alone | 3:52 |
-| B1 | Central Park Blues | 6:56 |
-| B2 | He Needs Me | 2:34 |
-| B3 | Good Bait | 5:33 |
-| B4 | Plain Gold Ring | 3:59 |
-| C1 | I Loves You Porgy | 4:15 |
-| C2 | The Other Woman | 3:01 |
-| C3 | Cotton Eyed Joe | 2:52 |
-| C4 | Work Song | 2:37 |
-| C5 | Forbidden Fruit | 3:50 |
-| C6 | He's Got The Whole World In His Hands | 3:09 |
-| D1 | Love Me Or Leave Me | 3:25 |
-| D2 | Exactly Like You | 3:16 |
-| D3 | Black Is The Colour Of My True Love's Hair | 3:35 |
-| D4 | Children Go Where I Send You | 2:55 |
-| D5 | Summertime | 5:36 |
+| Position | Title |
+|----------|--------|
+| A1 | My Baby Just Cares For Me |
+| A2 | Mood Indigo |
+| A3 | Don't Smoke In Bed |
+| A4 | Little Girl Blue |
+| A5 | You'll Never Walk Alone |
+| B1 | Central Park Blues |
+| B2 | He Needs Me |
+| B3 | Good Bait |
+| B4 | Plain Gold Ring |
+| C1 | I Loves You Porgy |
+| C2 | The Other Woman |
+| C3 | Cotton Eyed Joe |
+| C4 | Work Song |
+| C5 | Forbidden Fruit |
+| C6 | He's Got The Whole World In His Hands |
+| D1 | Love Me Or Leave Me |
+| D2 | Exactly Like You |
+| D3 | Black Is The Colour Of My True Love's Hair |
+| D4 | Children Go Where I Send You |
+| D5 | Summertime |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Soul-Jazz"]
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP156 |
-| Notes | The compilation was recorded between 1957 and 1961. <br><br>"Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".<br><br>℗ & © 2012 Not Now Music Limited<br><br>Made in the E.U. |
+| Notes | The compilation was recorded between 1957 and 1961.   "Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".  ℗ & © 2012 Not Now Music Limited  Made in the E.U. |
 | Discogs URL    | [Nina Simone - My Baby Just Cares For Me](https://www.discogs.com/release/3895928-Nina-Simone-My-Baby-Just-Cares-For-Me) |

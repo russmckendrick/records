@@ -33,18 +33,18 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | That's Just The Way That I Feel |  |
-| A2 | All My Happiness Is Gone |  |
-| A3 | Darkness And Cold |  |
-| A4 | Snow Is Falling In Manhattan |  |
-| A5 | Margaritas At The Mall |  |
-| B1 | She's Making Friends, I'm Turning Stranger |  |
-| B2 | I Loved Being My Mother's Son |  |
-| B3 | Nights That Won't Happen |  |
-| B4 | Storyline Fever |  |
-| B5 | Maybe I'm The Only One For Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | That's Just The Way That I Feel |
+| A2 | All My Happiness Is Gone |
+| A3 | Darkness And Cold |
+| A4 | Snow Is Falling In Manhattan |
+| A5 | Margaritas At The Mall |
+| B1 | She's Making Friends, I'm Turning Stranger |
+| B2 | I Loved Being My Mother's Son |
+| B3 | Nights That Won't Happen |
+| B4 | Storyline Fever |
+| B5 | Maybe I'm The Only One For Me |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 | Format         | Vinyl LP Album |
 | Label          | Drag City |
 | Catalog Number | DC680 |
-| Notes | Packaged in a tip-on sleeve. Includes a printed inner sleeve.<br><br>© & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647<br><br>Engineered [...] at Jamdek in Chicago and Thump in Brooklyn<br>Mixed [...] at Electrical Audio in Chicago |
+| Notes | Packaged in a tip-on sleeve. Includes a printed inner sleeve.  © & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647  Engineered [...] at Jamdek in Chicago and Thump in Brooklyn Mixed [...] at Electrical Audio in Chicago |
 | Discogs URL    | [Purple Mountains - Purple Mountains](https://www.discogs.com/release/13842563-Purple-Mountains-Purple-Mountains) |

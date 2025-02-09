@@ -29,20 +29,20 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pretty Africa | 3:15 |
-| A2 | Treat Me Cruel | 2:06 |
-| A3 | Love Is The Key | 3:59 |
-| A4 | The Sweet Sound Of Music | 2:37 |
-| A5 | Behold | 2:46 |
-| A6 | Please Don't Bend | 2:25 |
-| B1 | Sweet Music | 2:51 |
-| B2 | Was A Sunny Day | 3:33 |
-| B3 | We Got To Be Free | 3:14 |
-| B4 | Walk Don't Run | 3:51 |
-| B5 | Trample | 2:27 |
-| B6 | Jah Jah Children | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Pretty Africa |
+| A2 | Treat Me Cruel |
+| A3 | Love Is The Key |
+| A4 | The Sweet Sound Of Music |
+| A5 | Behold |
+| A6 | Please Don't Bend |
+| B1 | Sweet Music |
+| B2 | Was A Sunny Day |
+| B3 | We Got To Be Free |
+| B4 | Walk Don't Run |
+| B5 | Trample |
+| B6 | Jah Jah Children |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Ska", "Rocksteady"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Gold, Translucent) |
 | Label          | Trojan Records |
 | Catalog Number | TBL 1037 |
-| Notes | Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.<br><br>Sticker: "Long lost album released for the first time!"<br>Record Store Day 2019.<br>Ltd edition of 500<br><br>Packaged with a printed inner sleeve with lyrics and archive pictures.<br><br>Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.<br><br>Timings not listed<br><br>Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers. |
+| Notes | Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.  Sticker: "Long lost album released for the first time!" Record Store Day 2019. Ltd edition of 500  Packaged with a printed inner sleeve with lyrics and archive pictures.  Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.  Timings not listed  Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers. |
 | Discogs URL    | [Desmond Dekker  The Aces - Pretty Africa](https://www.discogs.com/release/13473923-Desmond-Dekker-And-The-Aces-Pretty-Africa) |

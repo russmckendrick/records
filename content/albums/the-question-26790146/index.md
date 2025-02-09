@@ -31,31 +31,31 @@ The Question is an album by the Slackers. It was released on November 20, 1998 (
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side 1. |  |
-| 1 | Manuel | 2:42 |
-| 2 | Knowing | 2:53 |
-| 3 | Have The Time | 3:07 |
-| 4 | And I Wonder | 3:49 |
-| 5 | No More Crying | 4:32 |
-|  | Side 2. |  |
-| 6 | Feed My Girl | 3:39 |
-| 7 | Mountainside | 2:47 |
-| 8 | The Mummy | 3:21 |
-| 9 | Motor City | 4:00 |
-|  | Side 3. |  |
-| 10 | Power | 4:27 |
-| 11 | Keep Him Away | 2:41 |
-| 12 | The Question | 3:59 |
-| 13 | The Question (Version) | 4:04 |
-|  | Side 4. |  |
-| 14 | Face In My Crowd | 3:14 |
-| 15 | Do You Know | 3:10 |
-| 16 | Yes Its True | 4:16 |
-| 17 | Alone Again | 3:02 |
-| 18 | Make Me Smile | 4:20 |
-| 19 | No Love | 3:53 |
+| Position | Title |
+|----------|--------|
+|  | Side 1. |
+| 1 | Manuel |
+| 2 | Knowing |
+| 3 | Have The Time |
+| 4 | And I Wonder |
+| 5 | No More Crying |
+|  | Side 2. |
+| 6 | Feed My Girl |
+| 7 | Mountainside |
+| 8 | The Mummy |
+| 9 | Motor City |
+|  | Side 3. |
+| 10 | Power |
+| 11 | Keep Him Away |
+| 12 | The Question |
+| 13 | The Question (Version) |
+|  | Side 4. |
+| 14 | Face In My Crowd |
+| 15 | Do You Know |
+| 16 | Yes Its True |
+| 17 | Alone Again |
+| 18 | Make Me Smile |
+| 19 | No Love |
 
 
 ## Apple Music

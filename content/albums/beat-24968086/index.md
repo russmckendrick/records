@@ -43,16 +43,16 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Neal And Jack And Me |  |
-| A2 | Heartbeat |  |
-| A3 | Sartori In Tangier |  |
-| A4 | Waiting Man |  |
-| B1 | Neurotica |  |
-| B2 | Two Hands |  |
-| B3 | The Howler |  |
-| B4 | Requiem |  |
+| Position | Title |
+|----------|--------|
+| A1 | Neal And Jack And Me |
+| A2 | Heartbeat |
+| A3 | Sartori In Tangier |
+| A4 | Waiting Man |
+| B1 | Neurotica |
+| B2 | Two Hands |
+| B3 | The Howler |
+| B4 | Requiem |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP9 |
-| Notes | Sticker:<br>KCLLP9<br>200 gram super-heavyweight vinyl<br>edition of the 40th anniversary<br>stereo mixes by Steven Wilson<br>and Robert Fripp.<br>6 33367 79461 1<br><br>All songs © Universal Music MGB Ltd<br><br>Back:<br>℗ & © 2019 Robert Fripp<br><br>Labels:<br>Made in England. ℗ & © 2019 Robert Fripp.<br><br>Comes with a blue single page lyric insert and with a branded inner sleeve.<br>All runouts etched<br><br>The color of the inner side of the cover is pink. |
+| Notes | Sticker: KCLLP9 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by Steven Wilson and Robert Fripp. 6 33367 79461 1  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Comes with a blue single page lyric insert and with a branded inner sleeve. All runouts etched  The color of the inner side of the cover is pink. |
 | Discogs URL    | [King Crimson - Beat](https://www.discogs.com/release/24968086-King-Crimson-Beat) |

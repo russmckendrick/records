@@ -33,18 +33,18 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Will Work It Out |  |
-| A2 | Witchoo |  |
-| A3 | Private Space |  |
-| A4 | More Than Ever |  |
-| A5 | Ride Or Die |  |
-| B1 | The Way That I Do |  |
-| B2 | Reach Out |  |
-| B3 | Sexy Thang |  |
-| B4 | Sea Of Love |  |
-| B5 | I Can See |  |
+| Position | Title |
+|----------|--------|
+| A1 | Love Will Work It Out |
+| A2 | Witchoo |
+| A3 | Private Space |
+| A4 | More Than Ever |
+| A5 | Ride Or Die |
+| B1 | The Way That I Do |
+| B2 | Reach Out |
+| B3 | Sexy Thang |
+| B4 | Sea Of Love |
+| B5 | I Can See |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Limited Edition (Red Nebula) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC227LP-C1 |
-| Notes | Hype sticker :<br>"Limited Edition Red Nebula Vinyl<br>Includes digital download" |
+| Notes | Hype sticker : "Limited Edition Red Nebula Vinyl Includes digital download" |
 | Discogs URL    | [Durand Jones  The Indications - Private Space](https://www.discogs.com/release/19635559-Durand-Jones-The-Indications-Private-Space) |

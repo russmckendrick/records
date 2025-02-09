@@ -41,21 +41,21 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1  | Dawna | 0:44 |
-| A2 | Buena | 3:19 |
-| A3 | I’m Free Now | 3:24 |
-| A4 | All Wrong | 3:40 |
-| A5 | Candy | 3:14 |
-| A6 | A Head With Wings | 3:39 |
-| A7 | In Spite Of Me | 2:34 |
-| B1 | Thursday  | 3:26 |
-| B2 | Cure For Pain | 3:13 |
-| B3 | Mary Won’t You Call My Name? | 2:29 |
-| B4 | Let’s Take A Trip Together | 2:59 |
-| B5 | Sheila | 2:49 |
-| B6 | Miles Davis’ Funeral | 1:41 |
+| Position | Title |
+|----------|--------|
+| A1  | Dawna |
+| A2 | Buena |
+| A3 | I’m Free Now |
+| A4 | All Wrong |
+| A5 | Candy |
+| A6 | A Head With Wings |
+| A7 | In Spite Of Me |
+| B1 | Thursday  |
+| B2 | Cure For Pain |
+| B3 | Mary Won’t You Call My Name? |
+| B4 | Let’s Take A Trip Together |
+| B5 | Sheila |
+| B6 | Miles Davis’ Funeral |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Blue Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |
-| Notes | <br>Limited to 3500 copies worldwide.<br>Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures. <br><br>Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
+| Notes |  Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
 | Discogs URL    | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-2-Cure-For-Pain) |

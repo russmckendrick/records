@@ -34,22 +34,22 @@ The album was well-received by critics and fans, who viewed the record as a "ret
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Easy Side |  |
-| A1 | All The Children Sing | 3:09 |
-| A2 | Can We Still Be Friends | 3:33 |
-| A3 | Hurting For You | 3:20 |
-| A4 | Too Far Gone | 2:38 |
-| A5 | Onomatopoeia | 1:34 |
-| A6 | Determination | 3:10 |
-|  | The Difficult Side |  |
-| B1 | Bread | 2:47 |
-| B2 | Bag Lady | 3:15 |
-| B3 | You Cried Wolf | 2:30 |
-| B4 | Lucky Guy | 2:04 |
-| B5 | Out Of Control | 3:55 |
-| B6 | Fade Away | 3:01 |
+| Position | Title |
+|----------|--------|
+|  | The Easy Side |
+| A1 | All The Children Sing |
+| A2 | Can We Still Be Friends |
+| A3 | Hurting For You |
+| A4 | Too Far Gone |
+| A5 | Onomatopoeia |
+| A6 | Determination |
+|  | The Difficult Side |
+| B1 | Bread |
+| B2 | Bag Lady |
+| B3 | You Cried Wolf |
+| B4 | Lucky Guy |
+| B5 | Out Of Control |
+| B6 | Fade Away |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album was well-received by critics and fans, who viewed the record as a "ret
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55521 |
-| Notes | Includes a printed inner sleeve with lyrics.<br><br>On label: Ⓟ&Ⓒ 1978<br><br>Made in UK |
+| Notes | Includes a printed inner sleeve with lyrics.    On label: Ⓟ&Ⓒ 1978    Made in UK |
 | Discogs URL    | [Todd Rundgren - Hermit Of Mink Hollow](https://www.discogs.com/release/1824802-Todd-Rundgren-Hermit-Of-Mink-Hollow) |

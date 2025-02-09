@@ -34,20 +34,20 @@ styles: ["Blues Rock", "Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Why Are You Not Rocking? | 2:23 |
-| A2 | Don't Tell Me How To Live | 4:24 |
-| A3 | She's A Witch | 3:44 |
-| A4 | For The People (feat. Ian Thornley) | 4:34 |
-| B1 | Black Forest | 5:20 |
-| B2 | Another Man's Shoes | 3:59 |
-| B3 | Things Get Better | 3:41 |
-| B4 | The Enforcer | 3:16 |
-| C1 | To The Flame | 4:00 |
-| C2 | Midnight (Bonus) | 3:32 |
-| C3 | New Soul | 4:13 |
-| C4 | Enjoy The Time | 5:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Why Are You Not Rocking? |
+| A2 | Don't Tell Me How To Live |
+| A3 | She's A Witch |
+| A4 | For The People (feat. Ian Thornley) |
+| B1 | Black Forest |
+| B2 | Another Man's Shoes |
+| B3 | Things Get Better |
+| B4 | The Enforcer |
+| C1 | To The Flame |
+| C2 | Midnight (Bonus) |
+| C3 | New Soul |
+| C4 | Enjoy The Time |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Blues Rock", "Hard Rock"]
 | Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album |
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |
-| Notes | Double Red Heavy 180g LP with etched D Side<br><br>Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album<br><br>Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
+| Notes | Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
 | Discogs URL    | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-2-Sittin-Heavy) |

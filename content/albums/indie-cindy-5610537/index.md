@@ -42,32 +42,32 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What Goes Boom |  |
-| A2 | Greens And Blues |  |
-| A3 | Indie Cindy |  |
-| B1 | Bagboy |  |
-| B2 | Magdalena 318 |  |
-| B3 | Silver Snail |  |
-| C1 | Blue Eyed Hexe |  |
-| C2 | Ring The Bell |  |
-| C3 | Another Toe In The Ocean |  |
-| D1 | Andro Queen |  |
-| D2 | Snakes |  |
-| D3 | Jaime Bravo |  |
-| CD-1 | What Goes Boom | 3:32 |
-| CD-2 | Greens And Blues | 3:47 |
-| CD-3 | Indie Cindy | 4:41 |
-| CD-4 | Bagboy | 4:53 |
-| CD-5 | Magdalena 318 | 3:26 |
-| CD-6 | Silver Snail | 3:29 |
-| CD-7 | Blue Eyed Hexe | 3:11 |
-| CD-8 | Ring The Bell | 3:35 |
-| CD-9 | Another Toe In The Ocean | 3:46 |
-| CD-10 | Andro Queen | 3:23 |
-| CD-11 | Snakes | 3:45 |
-| CD-12 | Jaime Bravo | 4:24 |
+| Position | Title |
+|----------|--------|
+| A1 | What Goes Boom |
+| A2 | Greens And Blues |
+| A3 | Indie Cindy |
+| B1 | Bagboy |
+| B2 | Magdalena 318 |
+| B3 | Silver Snail |
+| C1 | Blue Eyed Hexe |
+| C2 | Ring The Bell |
+| C3 | Another Toe In The Ocean |
+| D1 | Andro Queen |
+| D2 | Snakes |
+| D3 | Jaime Bravo |
+| CD-1 | What Goes Boom |
+| CD-2 | Greens And Blues |
+| CD-3 | Indie Cindy |
+| CD-4 | Bagboy |
+| CD-5 | Magdalena 318 |
+| CD-6 | Silver Snail |
+| CD-7 | Blue Eyed Hexe |
+| CD-8 | Ring The Bell |
+| CD-9 | Another Toe In The Ocean |
+| CD-10 | Andro Queen |
+| CD-11 | Snakes |
+| CD-12 | Jaime Bravo |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 | Format         | Vinyl 2× 12" 45 RPM Album (Orange, 180 gram), CD Album, All Media Limited Edition |
 | Label          | Pixies Music |
 | Catalog Number | PM006DLP |
-| Notes | [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.<br><br>Recorded at Rockfield Studios, Wales. Mixed for 140dB.<br>Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.<br><br>℗ & © Pixies Music 2013<br><br>Made in the EU<br><br>Catalog# on rear cover and spine: PM006DLP<br>Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release. |
+| Notes | [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.    Recorded at Rockfield Studios, Wales. Mixed for 140dB.  Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.    ℗ & © Pixies Music 2013    Made in the EU    Catalog# on rear cover and spine: PM006DLP  Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release. |
 | Discogs URL    | [Pixies - Indie Cindy](https://www.discogs.com/release/5610537-Pixies-Indie-Cindy) |

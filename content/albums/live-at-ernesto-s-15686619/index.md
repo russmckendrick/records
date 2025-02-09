@@ -33,24 +33,24 @@ styles: ["Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Sooner Or Later |  |
-| A3 | Married Girl |  |
-| A4 | Do You Know |  |
-| A5 | Sarah |  |
-| B1 | Mush One |  |
-| B2 | I Still Love You |  |
-| B3 | Soldier |  |
-| B4 | Keep Him Away |  |
-| B5 | Work Song |  |
-| C1 | Feed My Girl |  |
-| C2 | Face In My Crowd |  |
-| C3 | You Don't Know I |  |
-| D1 | Pedophilia |  |
-| D2 | Runaway |  |
-| D3 | The Fried Chicken Song/Mary Mary |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Sooner Or Later |
+| A3 | Married Girl |
+| A4 | Do You Know |
+| A5 | Sarah |
+| B1 | Mush One |
+| B2 | I Still Love You |
+| B3 | Soldier |
+| B4 | Keep Him Away |
+| B5 | Work Song |
+| C1 | Feed My Girl |
+| C2 | Face In My Crowd |
+| C3 | You Don't Know I |
+| D1 | Pedophilia |
+| D2 | Runaway |
+| D3 | The Fried Chicken Song/Mary Mary |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Ska"]
 | Format         | Vinyl 2× LP Album Reissue (Clear w/ Glow In The Dark Splatter) |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR 268 |
-| Notes | PRESSING INFO:<br>1000pcs. - 2x12" Black Vinyl<br>700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl<br>300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]<br><br>© & ℗ 2000 Hellcat Records.<br>Manufactured and distributed by Epitaph Europe.<br><br>Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands.<br>Mixed at Coyote Studios, Brookling, New York, USA.<br>Mastered at West West Side Music, Tenafly, New Jersey, USA.<br> |
+| Notes | PRESSING INFO: 1000pcs. - 2x12" Black Vinyl 700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl 300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]  © & ℗ 2000 Hellcat Records. Manufactured and distributed by Epitaph Europe.  Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands. Mixed at Coyote Studios, Brookling, New York, USA. Mastered at West West Side Music, Tenafly, New Jersey, USA.  |
 | Discogs URL    | [The Slackers - Live At Ernesto's!](https://www.discogs.com/release/15686619-The-Slackers-Live-At-Ernestos) |

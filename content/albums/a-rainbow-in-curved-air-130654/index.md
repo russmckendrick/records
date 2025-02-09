@@ -31,10 +31,10 @@ Riley's record deal with CBS was part of "Music of Our Time," a short-lived albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | A Rainbow In Curved Air | 18:40 |
-| B | Poppy Nogood And The Phantom Band | 21:40 |
+| Position | Title |
+|----------|--------|
+| A | A Rainbow In Curved Air |
+| B | Poppy Nogood And The Phantom Band |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ Riley's record deal with CBS was part of "Music of Our Time," a short-lived albu
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | S 64564 |
-| Notes | This version has the ORANGE CBS label with cat# S 64564 (MS 7315) on it, while the cover (front- rear- & spine) just shows 64564.<br><br>B-side track misspelled as "Popply Nogood And The Phantom Band". This was corrected for later editions.<br>  <br>The spatially separated mirror images were adapted for studio recording and resemble the sound Terry gets in his all-night concerts.<br><br>Wording on rear:<br>And then all wars ended / Arms of every kind were outlawed and the masses gladly contributed them to giant foundries in which they were melted down and the metal poured back into the earth / The Pentagon was turned on its side and painted purple, yellow & green / All boundaries were dissolved / The slaughter of animals was forbidden / The whole of Lower Manhattan became a meadow in which unfortunates from the Bowery were allowed to live out their fantasies in the sunshine and were cured / People swam in the sparkling rivers under blue skies streaked only with incense pouring from the new factories / The energy from dismantled nuclear weapons provided free heat and light / World health was restored / An abundance of organic vegetables, fruits and grains was growing wild along the discarded highways / National flags were sewn together into brightly colored circus tents under which politicians were allowed to perform harmless theatrical games / The concept of work was forgotten<br> |
+| Notes | This version has the ORANGE CBS label with cat# S 64564 (MS 7315) on it, while the cover (front- rear- & spine) just shows 64564.  B-side track misspelled as "Popply Nogood And The Phantom Band". This was corrected for later editions.    The spatially separated mirror images were adapted for studio recording and resemble the sound Terry gets in his all-night concerts.  Wording on rear: And then all wars ended / Arms of every kind were outlawed and the masses gladly contributed them to giant foundries in which they were melted down and the metal poured back into the earth / The Pentagon was turned on its side and painted purple, yellow & green / All boundaries were dissolved / The slaughter of animals was forbidden / The whole of Lower Manhattan became a meadow in which unfortunates from the Bowery were allowed to live out their fantasies in the sunshine and were cured / People swam in the sparkling rivers under blue skies streaked only with incense pouring from the new factories / The energy from dismantled nuclear weapons provided free heat and light / World health was restored / An abundance of organic vegetables, fruits and grains was growing wild along the discarded highways / National flags were sewn together into brightly colored circus tents under which politicians were allowed to perform harmless theatrical games / The concept of work was forgotten  |
 | Discogs URL    | [Terry Riley - A Rainbow In Curved Air](https://www.discogs.com/release/130654-Terry-Riley-A-Rainbow-In-Curved-Air) |

@@ -31,44 +31,44 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Snake | 3:30 |
-| A2 | Sugar Dumpling | 2:18 |
-| A3 | Disillusioned | 2:01 |
-| A4 | What's A Matter Baby | 2:38 |
-| A5 | Let Me Be Your Boy | 2:48 |
-| A6 | Catch That Teardrop | 2:28 |
-| A7 | I Just Want To Know | 2:21 |
-| A8 | Everybody's Got A Dance But Me | 2:15 |
-| A9 | Getting Ready For The Heartbreak | 2:27 |
-| B1 | Jamie | 2:28 |
-| B2 | Way Over There | 2:22 |
-| B3 | Check Yourself | 2:46 |
-| B4 | If Your Mother Only Knew | 2:41 |
-| B5 | The Chaperone | 2:47 |
-| B6 | Any Way You Wanta | 2:46 |
-| B7 | Today's The Day | 2:06 |
-| B8 | My Heart Belongs To You | 2:18 |
-| B9 | I Wonder (If Your Love Will Ever Belong To Me) | 2:27 |
-| C1 | Dance With Me | 2:22 |
-| C2 | It's Your Voodoo Working | 1:50 |
-| C3 | Somebody Told You | 2:41 |
-| C4 | Have Love Will Travel | 2:44 |
-| C5 | Seven Day Fool | 2:54 |
-| C6 | What Kind Of Girl | 2:25 |
-| C7 | I Sold My Heart To The Junkman | 2:24 |
-| C8 | It's Mine | 2:27 |
-| C9 | The Night | 2:38 |
-| D1 | Miracles | 2:26 |
-| D2 | The Wrong Girl | 2:29 |
-| D3 | Am I Falling In Love | 2:08 |
-| D4 | (There Goes) The Forgotten Man | 2:51 |
-| D5 | Find Another Girl | 2:49 |
-| D6 | I Don't Want To Cry | 2:18 |
-| D7 | Chills & Fever | 2:29 |
-| D8 | If You Don't Come (You Better Call) | 2:01 |
-| D9 | Show And Tell | 3:27 |
+| Position | Title |
+|----------|--------|
+| A1 | The Snake |
+| A2 | Sugar Dumpling |
+| A3 | Disillusioned |
+| A4 | What's A Matter Baby |
+| A5 | Let Me Be Your Boy |
+| A6 | Catch That Teardrop |
+| A7 | I Just Want To Know |
+| A8 | Everybody's Got A Dance But Me |
+| A9 | Getting Ready For The Heartbreak |
+| B1 | Jamie |
+| B2 | Way Over There |
+| B3 | Check Yourself |
+| B4 | If Your Mother Only Knew |
+| B5 | The Chaperone |
+| B6 | Any Way You Wanta |
+| B7 | Today's The Day |
+| B8 | My Heart Belongs To You |
+| B9 | I Wonder (If Your Love Will Ever Belong To Me) |
+| C1 | Dance With Me |
+| C2 | It's Your Voodoo Working |
+| C3 | Somebody Told You |
+| C4 | Have Love Will Travel |
+| C5 | Seven Day Fool |
+| C6 | What Kind Of Girl |
+| C7 | I Sold My Heart To The Junkman |
+| C8 | It's Mine |
+| C9 | The Night |
+| D1 | Miracles |
+| D2 | The Wrong Girl |
+| D3 | Am I Falling In Love |
+| D4 | (There Goes) The Forgotten Man |
+| D5 | Find Another Girl |
+| D6 | I Don't Want To Cry |
+| D7 | Chills & Fever |
+| D8 | If You Don't Come (You Better Call) |
+| D9 | Show And Tell |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ styles: ["Soul", "Rhythm & Blues"]
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP226 |
-| Notes | 2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.<br><br>An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order. |
+| Notes | 2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.  An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order. |
 | Discogs URL    | [Various - Northern Soul All Nighter](https://www.discogs.com/release/8445210-Various-Northern-Soul-All-Nighter) |

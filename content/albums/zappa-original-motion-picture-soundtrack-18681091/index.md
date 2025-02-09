@@ -36,29 +36,29 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Motherly Love | 2:43 |
-| A2 | Memories Of El Monte | 4:14 |
-| A3 | Oh! In The Sky | 1:56 |
-| A4 | The Duke | 6:31 |
-| A5 | How Could I Be Such A Fool? | 1:49 |
-| A6 | Absolutely Free | 3:27 |
-| B1 | Call Any Vegetable (Excerpts) | 4:24 |
-| B2 | Road Ladies | 4:10 |
-| B3 | Cheepnis | 3:19 |
-| B4 | Apostrophe’ | 6:08 |
-| B5 | Sofa | 2:57 |
-| C1 | The Black Page #1 (Piano Version)   | 2:13 |
-| C2 | Mo’s Vacation | 4:03 |
-| C3 | Dancin’ Fool | 3:50 |
-| C4 | Valley Girl | 4:51 |
-| C5 | The Meek Shall Inherit Nothing | 3:06 |
-| C6 | H.R. 2911 | 3:34 |
-| D1 | Envelopes (1983 Original Vinyl Mix)  | 4:05 |
-| D2 | Get Whitey  | 6:31 |
-| D3 | G-Spot Tornado | 4:00 |
-| D4 | Watermelon In Easter Hay (Live)  | 6:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Motherly Love |
+| A2 | Memories Of El Monte |
+| A3 | Oh! In The Sky |
+| A4 | The Duke |
+| A5 | How Could I Be Such A Fool? |
+| A6 | Absolutely Free |
+| B1 | Call Any Vegetable (Excerpts) |
+| B2 | Road Ladies |
+| B3 | Cheepnis |
+| B4 | Apostrophe’ |
+| B5 | Sofa |
+| C1 | The Black Page #1 (Piano Version)   |
+| C2 | Mo’s Vacation |
+| C3 | Dancin’ Fool |
+| C4 | Valley Girl |
+| C5 | The Meek Shall Inherit Nothing |
+| C6 | H.R. 2911 |
+| D1 | Envelopes (1983 Original Vinyl Mix)  |
+| D2 | Get Whitey  |
+| D3 | G-Spot Tornado |
+| D4 | Watermelon In Easter Hay (Live)  |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl 2× LP Album (180g, Crystal Clear) |
 | Label          | Zappa Records |
 | Catalog Number | ZR20035-1C |
-| Notes | gatefold cover<br><br>A1: From the album: [r=537392] (1996); 1987 Digital Remaster; © 1966 ℗ 1987<br>A2 to A4: Recorded live at the Whisky a Go Go 6/23/1968; Source: 1'' 8-Track Analog Tape; <br>A2: © 1963 ℗ 2020; Publisher: Lovolar Music (BMI)<br>A3: © 2012 ℗ 2020<br>A4: © 1969 ℗ 2020 <br>A5: From the album: Mystery Disc (1985); First released in [r=2692688] (1985); © 1966 ℗ 1985<br>A6: From the album: [r=1178766] (1968); FZ Approved Master: 1993; © 1968 ℗ 1995<br><br>B1: Taken from the VPRO Documentary, 1971; Recorded live at Fillmore West, 11/06/1970; © 1967 ℗ 2020<br>B2: From the album: [r=4126341] (1970); Remastered by Bob Ludwig, Gateway Mastering, 2012; © 1970 ℗ 2012<br>B3: From the album: [r=11757353] (2018); © 1974 ℗ 2018<br>B4: Recorded live in Los Angeles, Rehearsal Hall, 6/21/1974; Source: 2'' 16-Track Analog Tape; © 1974 ℗ 2020<br>B5: From the album: [r=13416770] (2019); © 1975 ℗ 2019<br><br>C1: From the album: [r=13416770] (2019); © 1977 ℗ 2019<br>C2: Recorded live at Circus Krone, Munich Germany, 8/31/1978, Recorded by Bayerische Rundfunk; Source: 1/4'' 2-Track Analog Tape; ©℗ 2020<br>C3: Recorded live at NBC Studios, Saturday Night Live, 10/21/1978; © 1979; ℗ 2020 Universal Television, LLC<br>C4: From the album: [r=1468461] (1982); ©℗ 1982<br>C5: Recorded live at The Pier, NYC, 8/25/1984; © 1981 ℗ 2020<br>C6: From the album: [r=1535353] (1985); ©℗ 1985<br><br>D1: From the album: [r=7383913] (1983); Original 1983 Vinyl Mix, Digitally Remastered by Bob Stone, 1986; © 1982 ℗ 1986<br>D2: From the album: [r=748484] (1993); ©℗ 1993<br>D3: From the album: [r=748484] (1993); © 1986 ℗ 1993<br>D4: From the album: [r=2027528] (1996); © 1979 ℗ 1996<br><br>Sticker on shrinkwrap reads<br><br>'180g Crystal Clear Vinyl<br>2LP Contains highlights from the Original Motion Picture Soundtrack to the acclaimed "Zappa" Documentary by Alex Winter<br>Features unreleased material from The Vault and standout tracks from Zappa's vast catalog, some pressed on vinyl for the first time ever.'<br><br>Includes gatefold 4-page insert<br><br>Made in Germany |
+| Notes | gatefold cover  A1: From the album: [r=537392] (1996); 1987 Digital Remaster; © 1966 ℗ 1987 A2 to A4: Recorded live at the Whisky a Go Go 6/23/1968; Source: 1'' 8-Track Analog Tape;  A2: © 1963 ℗ 2020; Publisher: Lovolar Music (BMI) A3: © 2012 ℗ 2020 A4: © 1969 ℗ 2020  A5: From the album: Mystery Disc (1985); First released in [r=2692688] (1985); © 1966 ℗ 1985 A6: From the album: [r=1178766] (1968); FZ Approved Master: 1993; © 1968 ℗ 1995  B1: Taken from the VPRO Documentary, 1971; Recorded live at Fillmore West, 11/06/1970; © 1967 ℗ 2020 B2: From the album: [r=4126341] (1970); Remastered by Bob Ludwig, Gateway Mastering, 2012; © 1970 ℗ 2012 B3: From the album: [r=11757353] (2018); © 1974 ℗ 2018 B4: Recorded live in Los Angeles, Rehearsal Hall, 6/21/1974; Source: 2'' 16-Track Analog Tape; © 1974 ℗ 2020 B5: From the album: [r=13416770] (2019); © 1975 ℗ 2019  C1: From the album: [r=13416770] (2019); © 1977 ℗ 2019 C2: Recorded live at Circus Krone, Munich Germany, 8/31/1978, Recorded by Bayerische Rundfunk; Source: 1/4'' 2-Track Analog Tape; ©℗ 2020 C3: Recorded live at NBC Studios, Saturday Night Live, 10/21/1978; © 1979; ℗ 2020 Universal Television, LLC C4: From the album: [r=1468461] (1982); ©℗ 1982 C5: Recorded live at The Pier, NYC, 8/25/1984; © 1981 ℗ 2020 C6: From the album: [r=1535353] (1985); ©℗ 1985  D1: From the album: [r=7383913] (1983); Original 1983 Vinyl Mix, Digitally Remastered by Bob Stone, 1986; © 1982 ℗ 1986 D2: From the album: [r=748484] (1993); ©℗ 1993 D3: From the album: [r=748484] (1993); © 1986 ℗ 1993 D4: From the album: [r=2027528] (1996); © 1979 ℗ 1996  Sticker on shrinkwrap reads  '180g Crystal Clear Vinyl 2LP Contains highlights from the Original Motion Picture Soundtrack to the acclaimed "Zappa" Documentary by Alex Winter Features unreleased material from The Vault and standout tracks from Zappa's vast catalog, some pressed on vinyl for the first time ever.'  Includes gatefold 4-page insert  Made in Germany |
 | Discogs URL    | [Frank Zappa - Zappa (Original Motion Picture Soundtrack)](https://www.discogs.com/release/18681091-Frank-Zappa-Zappa-Original-Motion-Picture-Soundtrack) |

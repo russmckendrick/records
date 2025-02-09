@@ -29,16 +29,16 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seven Rays Of Colour | 4:08 |
-| A2 | Pleading With The Cosmic Mother | 3:29 |
-| A3 | One More Step | 5:50 |
-| A4 | Valleys And Hills Part I - Peel Away The Layers | 4:56 |
-| B1 | Valleys And Hills Part II - Pure Illumination | 5:43 |
-| B2 | Now's The Time | 4:33 |
-| B3 | Last Words Of A Dying God | 3:22 |
-| B4 | We Lost It Somewhere | 5:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Seven Rays Of Colour |
+| A2 | Pleading With The Cosmic Mother |
+| A3 | One More Step |
+| A4 | Valleys And Hills Part I - Peel Away The Layers |
+| B1 | Valleys And Hills Part II - Pure Illumination |
+| B2 | Now's The Time |
+| B3 | Last Words Of A Dying God |
+| B4 | We Lost It Somewhere |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Deluxe Edition Numbered (Pink) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 6 |
-| Notes | Super Deluxe Stepping Aboard Edition, pink vinyl.<br><br>Side A ends in a lock-groove that repeats "nothing nothing nothing".<br><br>Vertical gatefold LP-style sleeve signed by all members with inner lyric sleeve.<br>Limited to 500 copies.<br>Comes with a certificate of authenticity authenticated by a band member when purchased directly from the band. |
+| Notes | Super Deluxe Stepping Aboard Edition, pink vinyl.  Side A ends in a lock-groove that repeats "nothing nothing nothing".  Vertical gatefold LP-style sleeve signed by all members with inner lyric sleeve. Limited to 500 copies. Comes with a certificate of authenticity authenticated by a band member when purchased directly from the band. |
 | Discogs URL    | [Church Of The Cosmic Skull - There Is No Time](https://www.discogs.com/release/24780821-Church-Of-The-Cosmic-Skull-There-Is-No-Time) |

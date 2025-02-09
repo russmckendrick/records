@@ -38,36 +38,36 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Roots Bloody Roots |  |
-| A2 | Attitude |  |
-| A3 | Cut-Throat |  |
-| A4 | Ratamahatta |  |
-| A5 | Breed Apart |  |
-| A6 | Straighthate |  |
-| B1 | Spit |  |
-| B2 | Lookaway |  |
-| B3 | Dusted |  |
-| B4 | Born Stubborn |  |
-| B5 | Jasco |  |
-| B6 | Itsári |  |
-| B7 | Ambush |  |
-| C1 | Endangered Species |  |
-| C2 | Dictatorshit |  |
-|  | Bonus Tracks |  |
-| C3 | Ratamahatta (2 Meter Sessions) |  |
-| C4 | Roots Bloody Roots (2 Meter Sessions) |  |
-| C5 | Attitude (2 Meter Sessions) |  |
-| C6 | Kaiowas (Take 1, Previously Unreleased) |  |
-| D1 | Procreation (Of The Wicked) |  |
-| D2 | Roots Bloody Roots (Demo) |  |
-| D3 | Attitude (Instrumental Rough Mix) |  |
-| D4 | Cutthroat (Instrumental Rough Mix) |  |
-| D5 | Dictatorshit (Instrumental Rough Mix) |  |
-| D6 | Untitled (Demo) |  |
-| D7 | R.D.P. (Demo) |  |
-| D8 | Dusted (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Roots Bloody Roots |
+| A2 | Attitude |
+| A3 | Cut-Throat |
+| A4 | Ratamahatta |
+| A5 | Breed Apart |
+| A6 | Straighthate |
+| B1 | Spit |
+| B2 | Lookaway |
+| B3 | Dusted |
+| B4 | Born Stubborn |
+| B5 | Jasco |
+| B6 | Itsári |
+| B7 | Ambush |
+| C1 | Endangered Species |
+| C2 | Dictatorshit |
+|  | Bonus Tracks |
+| C3 | Ratamahatta (2 Meter Sessions) |
+| C4 | Roots Bloody Roots (2 Meter Sessions) |
+| C5 | Attitude (2 Meter Sessions) |
+| C6 | Kaiowas (Take 1, Previously Unreleased) |
+| D1 | Procreation (Of The Wicked) |
+| D2 | Roots Bloody Roots (Demo) |
+| D3 | Attitude (Instrumental Rough Mix) |
+| D4 | Cutthroat (Instrumental Rough Mix) |
+| D5 | Dictatorshit (Instrumental Rough Mix) |
+| D6 | Untitled (Demo) |
+| D7 | R.D.P. (Demo) |
+| D8 | Dusted (Demo) |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | R562035 |
-| Notes | Newly remastered on 180G Vinyl.<br>Bonus LP with rare and unreleased demos, cover versions and live tracks.<br>Comes in gatefold sleeve with plain white lined inner sleeves.<br><br>LP1; C1,C2: Roots. (2017 remaster)<br>C3-D8: Bonus tracks<br> |
+| Notes | Newly remastered on 180G Vinyl. Bonus LP with rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with plain white lined inner sleeves.  LP1; C1,C2: Roots. (2017 remaster) C3-D8: Bonus tracks  |
 | Discogs URL    | [Sepultura - Roots](https://www.discogs.com/release/11088399-Sepultura-Roots) |

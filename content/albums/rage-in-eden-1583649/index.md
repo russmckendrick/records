@@ -31,17 +31,17 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Voice | 5:53 |
-| A2 | We Stand Alone | 5:30 |
-| A3 | Rage In Eden | 4:02 |
-| A4 | I Remember (Death In The Afternoon) | 4:56 |
-| B1 | The Thin Wall | 5:33 |
-| B2 | Stranger Within | 7:18 |
-| B3 | Accent On Youth | 4:40 |
-| B4 | The Ascent | 2:00 |
-| B5 | Your Name (Has Slipped My Mind Again) | 4:38 |
+| Position | Title |
+|----------|--------|
+| A1 | The Voice |
+| A2 | We Stand Alone |
+| A3 | Rage In Eden |
+| A4 | I Remember (Death In The Afternoon) |
+| B1 | The Thin Wall |
+| B2 | Stranger Within |
+| B3 | Accent On Youth |
+| B4 | The Ascent |
+| B5 | Your Name (Has Slipped My Mind Again) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 | Format         | Vinyl LP Album Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CDL 1338 |
-| Notes | This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.<br><br>"℗ © 1981 CHRYSALIS RECORDS LTD"<br><br>Durations not listed on this release. Timings via stopwatch. |
+| Notes | This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.  "℗ © 1981 CHRYSALIS RECORDS LTD"  Durations not listed on this release. Timings via stopwatch. |
 | Discogs URL    | [Ultravox - Rage In Eden](https://www.discogs.com/release/1583649-Ultravox-Rage-In-Eden) |

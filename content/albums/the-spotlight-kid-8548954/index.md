@@ -32,18 +32,18 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Gonna Booglarize You Baby | 4:34 |
-| A2 | White Jam | 2:57 |
-| A3 | Blabber 'N Smoke | 2:48 |
-| A4 | When It Blows Its Stacks | 3:41 |
-| A5 | Alice In Blunderland | 3:55 |
-| B1 | The Spotlight Kid | 3:21 |
-| B2 | Click Clack | 3:31 |
-| B3 | Grow Fins | 3:31 |
-| B4 | There Ain't No Santa Claus On The Evenin' Stage | 3:13 |
-| B5 | Glider | 4:37 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Gonna Booglarize You Baby |
+| A2 | White Jam |
+| A3 | Blabber 'N Smoke |
+| A4 | When It Blows Its Stacks |
+| A5 | Alice In Blunderland |
+| B1 | The Spotlight Kid |
+| B2 | Click Clack |
+| B3 | Grow Fins |
+| B4 | There Ain't No Santa Claus On The Evenin' Stage |
+| B5 | Glider |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Reprise Records |
 | Catalog Number | 0349791110 |
-| Notes | Hype sticker includes barcode and Don Van Vliet quote:<br>"The stars are matter<br>We're matter<br>But it doesn't matter."<br><br>Includes a single-sided insert with lyrics and a download code for MP3 version of the album.<br><br>Says "Made in EU." on the labels.<br>Says "Manufactured in EU." on the back cover. |
+| Notes | Hype sticker includes barcode and Don Van Vliet quote: "The stars are matter We're matter But it doesn't matter."  Includes a single-sided insert with lyrics and a download code for MP3 version of the album.  Says "Made in EU." on the labels. Says "Manufactured in EU." on the back cover. |
 | Discogs URL    | [Captain Beefheart - The Spotlight Kid](https://www.discogs.com/release/8548954-Captain-Beefheart-The-Spotlight-Kid) |

@@ -34,23 +34,23 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction |  |
-| A2 | Hazey Jane II |  |
-| A3 | River Man |  |
-| A4 | Cello Song |  |
-| A5 | Hazey Jane I |  |
-| A6 | Pink Moon |  |
-| A7 | Poor Boy |  |
-| B1 | Magic |  |
-| B2 | Place To Be |  |
-| B3 | Northern Sky |  |
-| B4 | Road |  |
-| B5 | Fruit Tree |  |
-| B6 | Black Eyed Dog |  |
-| B7 | Way To Blue |  |
-| B8 | From The Morning |  |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction |
+| A2 | Hazey Jane II |
+| A3 | River Man |
+| A4 | Cello Song |
+| A5 | Hazey Jane I |
+| A6 | Pink Moon |
+| A7 | Poor Boy |
+| B1 | Magic |
+| B2 | Place To Be |
+| B3 | Northern Sky |
+| B4 | Road |
+| B5 | Fruit Tree |
+| B6 | Black Eyed Dog |
+| B7 | Way To Blue |
+| B8 | From The Morning |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Island Records |
 | Catalog Number | 4700056 |
-| Notes | Includes inner sleeve with lyrics and revised liner notes from Peter Paphides.<br>Some copies are issued with a 'Back To Black' hype sticker attached to the shrink wrap.<br><br>Center labels:<br>℗ © 2004 Universal Island Records Ltd.<br>Made in the EU |
+| Notes | Includes inner sleeve with lyrics and revised liner notes from Peter Paphides. Some copies are issued with a 'Back To Black' hype sticker attached to the shrink wrap.  Center labels: ℗ © 2004 Universal Island Records Ltd. Made in the EU |
 | Discogs URL    | [Nick Drake - A Treasury](https://www.discogs.com/release/6354022-Nick-Drake-A-Treasury) |

@@ -29,41 +29,41 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album Remastered |  |
-| A1 | Take Me Away | 3:00 |
-| A2 | Spinal Meningitis (Got Me Down) | 2:52 |
-| A3 | Freedom Of '76 | 2:50 |
-| A4 | I Can't Put My Finger On It | 2:47 |
-| B1 | A Tear For Eddie | 4:49 |
-| B2 | Roses Are Free | 4:43 |
-| B3 | Baby Bitch | 3:04 |
-| B4 | Mister, Would You Please Help My Pony? | 2:55 |
-| C1 | Drifter In The Dark | 2:31 |
-| C2 | Voodoo Lady | 3:48 |
-| C3 | Joppa Road | 3:02 |
-| C4 | Candi | 4:02 |
-| D1 | Buenas Tardes Amigo | 7:06 |
-| D2 | The HIV Song | 2:09 |
-| D3 | What Deaner Was Talkin' About | 1:59 |
-| D4 | Don't Shit Where You Eat | 3:19 |
-|  | Bonus Tracks |  |
-| E1 | Crappy Anniversary Jimmy | 3:35 |
-| E2 | Warm Socks | 2:42 |
-| E3 | Stop, Look, Listen (And Learn) | 3:30 |
-| E4 | Dirty Money | 3:55 |
-| E5 | I Got It | 2:12 |
-| E6 | Belgian Stew | 3:09 |
-| E7 | Voodoo Lady (Demo) | 4:35 |
-| F1 | Junkie Boy | 3:30 |
-| F2 | Smooth Mover | 1:41 |
-| F3 | Church Fire | 1:41 |
-| F4 | Take Me Away (Demo) | 2:31 |
-| F5 | Sasha | 3:01 |
-| F6 | Roses Are Free (Demo) | 3:58 |
-| F7 | Candi (Demo) | 2:34 |
-| F8 | I Really Miss You (And I'm All Alone) | 3:29 |
+| Position | Title |
+|----------|--------|
+|  | Original Album Remastered |
+| A1 | Take Me Away |
+| A2 | Spinal Meningitis (Got Me Down) |
+| A3 | Freedom Of '76 |
+| A4 | I Can't Put My Finger On It |
+| B1 | A Tear For Eddie |
+| B2 | Roses Are Free |
+| B3 | Baby Bitch |
+| B4 | Mister, Would You Please Help My Pony? |
+| C1 | Drifter In The Dark |
+| C2 | Voodoo Lady |
+| C3 | Joppa Road |
+| C4 | Candi |
+| D1 | Buenas Tardes Amigo |
+| D2 | The HIV Song |
+| D3 | What Deaner Was Talkin' About |
+| D4 | Don't Shit Where You Eat |
+|  | Bonus Tracks |
+| E1 | Crappy Anniversary Jimmy |
+| E2 | Warm Socks |
+| E3 | Stop, Look, Listen (And Learn) |
+| E4 | Dirty Money |
+| E5 | I Got It |
+| E6 | Belgian Stew |
+| E7 | Voodoo Lady (Demo) |
+| F1 | Junkie Boy |
+| F2 | Smooth Mover |
+| F3 | Church Fire |
+| F4 | Take Me Away (Demo) |
+| F5 | Sasha |
+| F6 | Roses Are Free (Demo) |
+| F7 | Candi (Demo) |
+| F8 | I Really Miss You (And I'm All Alone) |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Album Deluxe Edition (30th Anniversary) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 726363 |
-| Notes | Made in the Netherlands.<br>30th anniversary release of Chocolate and Cheese on black vinyl.<br><br>Bonus tracks curated by Dean and Gene Ween.<br><br>Comes in tri-fold with 15 page, 12" booklet.<br><br>Runouts are etched, except for "403594 1#" which are stamped.<br>Lacquer cut by Chris Bellman at Bernie Grundman Mastering |
+| Notes | Made in the Netherlands. 30th anniversary release of Chocolate and Cheese on black vinyl.  Bonus tracks curated by Dean and Gene Ween.  Comes in tri-fold with 15 page, 12" booklet.  Runouts are etched, except for "403594 1#" which are stamped. Lacquer cut by Chris Bellman at Bernie Grundman Mastering |
 | Discogs URL    | [Ween - Chocolate And Cheese](https://www.discogs.com/release/31393190-Ween-Chocolate-And-Cheese) |

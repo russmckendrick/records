@@ -28,28 +28,28 @@ styles: ["Easy Listening"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Evergreen |  |
-| A2 | Don't Give Up On Us Baby |  |
-| A3 | Didn't We |  |
-| A4 | These Foolish Things |  |
-| A5 | The Way We Were |  |
-| A6 | September Song |  |
-| A7 | As Time Goes By |  |
-| A8 | I'm Stone In Love With You |  |
-| A9 | Words |  |
-| A10 | Nobody Does It Better |  |
-| B1 | Walk In Love |  |
-| B2 | Autumn Leaves |  |
-| B3 | Feelings |  |
-| B4 | You Light Up My Life |  |
-| B5 | Don't It Make My Brown Eyes Blue |  |
-| B6 | My Sweet Lord |  |
-| B7 | Help Me Make It Through The Night |  |
-| B8 | When I Need You |  |
-| B9 | Yesterday |  |
-| B10 | When A Child Is Born |  |
+| Position | Title |
+|----------|--------|
+| A1 | Evergreen |
+| A2 | Don't Give Up On Us Baby |
+| A3 | Didn't We |
+| A4 | These Foolish Things |
+| A5 | The Way We Were |
+| A6 | September Song |
+| A7 | As Time Goes By |
+| A8 | I'm Stone In Love With You |
+| A9 | Words |
+| A10 | Nobody Does It Better |
+| B1 | Walk In Love |
+| B2 | Autumn Leaves |
+| B3 | Feelings |
+| B4 | You Light Up My Life |
+| B5 | Don't It Make My Brown Eyes Blue |
+| B6 | My Sweet Lord |
+| B7 | Help Me Make It Through The Night |
+| B8 | When I Need You |
+| B9 | Yesterday |
+| B10 | When A Child Is Born |
 
 
 ## Apple Music

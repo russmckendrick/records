@@ -52,18 +52,18 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speak To Me | 1:30 |
-| A2 | Breathe (In The Air) | 2:43 |
-| A3 | On The Run | 3:30 |
-| A4 | Time | 6:53 |
-| A5 | The Great Gig In The Sky | 4:15 |
-| C1 | Money | 6:30 |
-| C2 | Us And Them | 7:51 |
-| C3 | Any Colour You Like | 3:24 |
-| C4 | Brain Damage | 3:50 |
-| C5 | Eclipse | 1:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Speak To Me |
+| A2 | Breathe (In The Air) |
+| A3 | On The Run |
+| A4 | Time |
+| A5 | The Great Gig In The Sky |
+| C1 | Money |
+| C2 | Us And Them |
+| C3 | Any Colour You Like |
+| C4 | Brain Damage |
+| C5 | Eclipse |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 | Format         | Vinyl 2× LP Single Sided Album Reissue Remastered Repress Stereo (Clear, 180g, 50th Anniversary Collector's Edition) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50UVLP |
-| Notes | [On inside gatefold]<br>Recorded at Abbey Road Studios, London between June 1972 and January 1973<br><br>Tracks A1, A5, B3 published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br>Tracks A2 to A4, B2 published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited / Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br>Tracks B1, B4, B5 published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br><br>℗ 2023 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group company, for Europe and by Sony Music Entertainment for the world outside Europe. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. © 2023 Pink Floyd Music Ltd. The label copy is subject of copyright protection. Made in the Netherlands.<br><br>Original UK release date: March 1973<br><br>Made and Printed in The Netherlands<br><br>[On sticker]<br>℗ 2023 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., A Warner Music Group company. © 2023 Pink Floyd Music Ltd. Made in the Netherlands.<br><br>Sides B and D are UV-printed artwork (see images).<br><br>Gatefold sleeve in a slipcase.<br>Limited edition crystal clear 2-LP, 180g. Featuring UV artwork printing on the non-groove side.<br>Includes large oblong (portrait) colour poster.<br><br>Similar release to [r=30443351] except marketed & distributed by Sony Music Entertainment on sticker with different barcode and different pressing. |
+| Notes | [On inside gatefold] Recorded at Abbey Road Studios, London between June 1972 and January 1973  Tracks A1, A5, B3 published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp. Tracks A2 to A4, B2 published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited / Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp. Tracks B1, B4, B5 published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.  ℗ 2023 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group company, for Europe and by Sony Music Entertainment for the world outside Europe. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. © 2023 Pink Floyd Music Ltd. The label copy is subject of copyright protection. Made in the Netherlands.  Original UK release date: March 1973  Made and Printed in The Netherlands  [On sticker] ℗ 2023 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., A Warner Music Group company. © 2023 Pink Floyd Music Ltd. Made in the Netherlands.  Sides B and D are UV-printed artwork (see images).  Gatefold sleeve in a slipcase. Limited edition crystal clear 2-LP, 180g. Featuring UV artwork printing on the non-groove side. Includes large oblong (portrait) colour poster.  Similar release to [r=30443351] except marketed & distributed by Sony Music Entertainment on sticker with different barcode and different pressing. |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon](https://www.discogs.com/release/30414329-Pink-Floyd-The-Dark-Side-Of-The-Moon) |

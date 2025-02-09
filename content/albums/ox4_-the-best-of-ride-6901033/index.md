@@ -37,23 +37,23 @@ OX4_ The Best of Ride is a compilation album by the British band Ride, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chelsea Girl |  |
-| A2 | Drive Blind |  |
-| A3 | Like A Daydream |  |
-| A4 | Taste |  |
-| B1 | Dreams Burn Down |  |
-| B2 | Vapour Trail |  |
-| B3 | Unfamiliar |  |
-| C1 | Leave Them All Behind |  |
-| C2 | Twisterella |  |
-| C3 | OX4 |  |
-| D1 | Birdman |  |
-| D2 | From Time To Time |  |
-| D3 | How Does It Feel To Feel? |  |
-| D4 | I Don't Know Where It Comes From |  |
-| D5 | Black Nite Crash |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chelsea Girl |
+| A2 | Drive Blind |
+| A3 | Like A Daydream |
+| A4 | Taste |
+| B1 | Dreams Burn Down |
+| B2 | Vapour Trail |
+| B3 | Unfamiliar |
+| C1 | Leave Them All Behind |
+| C2 | Twisterella |
+| C3 | OX4 |
+| D1 | Birdman |
+| D2 | From Time To Time |
+| D3 | How Does It Feel To Feel? |
+| D4 | I Don't Know Where It Comes From |
+| D5 | Black Nite Crash |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ OX4_ The Best of Ride is a compilation album by the British band Ride, released 
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
 | Label          | Sire |
 | Catalog Number | 081227955137 |
-| Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.<br><br>Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |
+| Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |
 | Discogs URL    | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033-Ride-OX4_-The-Best-Of-Ride) |

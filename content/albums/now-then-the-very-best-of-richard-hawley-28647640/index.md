@@ -38,30 +38,30 @@ styles: ["Art Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Open Up Your Door |  |
-| A2  | Midnight Train  |  |
-| A3 | Tonight The Streets Are Ours |  |
-| A4 | Coles Corner  |  |
-| A5 | Ballad Of A Thin Man |  |
-| A6 | Baby, You’re My Light |  |
-| B1 | Not The Only Road |  |
-| B2 | My Little Treasures |  |
-| B3 | Standing At The Sky’s Edge |  |
-| B4 | Heart Of Oak |  |
-| B5 | The Ocean |  |
-| C1 | Seek It |  |
-| C2 | Off My Mind |  |
-| C3 | Coming Home |  |
-| C4 | I Still Want You |  |
-| C5 | Just Like The Rain |  |
-| C6 | Run For Me |  |
-| D1 | Alone  |  |
-| D2 | For Your Lover Give Some Time |  |
-| D3 | Serious |  |
-| D4 | Don’t Stare At The Sun |  |
-| D5 | There’s A Storm A’Comin’ |  |
+| Position | Title |
+|----------|--------|
+| A1 | Open Up Your Door |
+| A2  | Midnight Train  |
+| A3 | Tonight The Streets Are Ours |
+| A4 | Coles Corner  |
+| A5 | Ballad Of A Thin Man |
+| A6 | Baby, You’re My Light |
+| B1 | Not The Only Road |
+| B2 | My Little Treasures |
+| B3 | Standing At The Sky’s Edge |
+| B4 | Heart Of Oak |
+| B5 | The Ocean |
+| C1 | Seek It |
+| C2 | Off My Mind |
+| C3 | Coming Home |
+| C4 | I Still Want You |
+| C5 | Just Like The Rain |
+| C6 | Run For Me |
+| D1 | Alone  |
+| D2 | For Your Lover Give Some Time |
+| D3 | Serious |
+| D4 | Don’t Stare At The Sun |
+| D5 | There’s A Storm A’Comin’ |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ styles: ["Art Rock"]
 | Format         | Vinyl LP (Blue / Black Split), Vinyl LP (White / Blue Split), All Media Compilation Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT843DLP |
-| Notes | Gatefold sleeve<br><br>Hype sticker on the shrink wrapping may be either:<br>1) burgundy (approx. 6cm diameter)<br>2) blue (approx. 7cm diameter)<br>[see photos]<br><br>A limited edition was available from Bear Tree Records that included a Plectrum Pack. |
+| Notes | Gatefold sleeve  Hype sticker on the shrink wrapping may be either: 1) burgundy (approx. 6cm diameter) 2) blue (approx. 7cm diameter) [see photos]  A limited edition was available from Bear Tree Records that included a Plectrum Pack. |
 | Discogs URL    | [Richard Hawley - Now Then: The Very Best Of Richard Hawley](https://www.discogs.com/release/28647640-Richard-Hawley-Now-Then-The-Very-Best-Of-Richard-Hawley) |

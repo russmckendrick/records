@@ -27,24 +27,24 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Look Of Love |  |
-| A2 | Best Thing That Ever Happened To Me |  |
-| A3 | Perfect Love |  |
-| A4 | Midnight Train To Georgia |  |
-| A5 | The One And Only |  |
-| A6 | Sorry Doesn't Always Make It Right |  |
-| A7 | So Sad The Song |  |
-| A8 | Home Is Where The Heart Is |  |
-| B1 | Help Me Make It Through The Night |  |
-| B2 | Baby Don't Change Your Mind |  |
-| B3 | I Feel A Song In My Heart |  |
-| B4 | Where Peaceful Waters Flow |  |
-| B5 | We Don't Make Each Other Laugh Any More |  |
-| B6 | Nobody But You |  |
-| B7 | Come Back And Finish What You Started |  |
-| B8 | Try To Remember / The Way We Were |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Look Of Love |
+| A2 | Best Thing That Ever Happened To Me |
+| A3 | Perfect Love |
+| A4 | Midnight Train To Georgia |
+| A5 | The One And Only |
+| A6 | Sorry Doesn't Always Make It Right |
+| A7 | So Sad The Song |
+| A8 | Home Is Where The Heart Is |
+| B1 | Help Me Make It Through The Night |
+| B2 | Baby Don't Change Your Mind |
+| B3 | I Feel A Song In My Heart |
+| B4 | Where Peaceful Waters Flow |
+| B5 | We Don't Make Each Other Laugh Any More |
+| B6 | Nobody But You |
+| B7 | Come Back And Finish What You Started |
+| B8 | Try To Remember / The Way We Were |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 1090 |
-| Notes | Produced in association with PYE and Buddah Records.<br><br>This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts. |
+| Notes | Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts. |
 | Discogs URL    | [Gladys Knight And The Pips - The Touch Of Love](https://www.discogs.com/release/2171568-Gladys-Knight-And-The-Pips-The-Touch-Of-Love) |

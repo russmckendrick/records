@@ -37,17 +37,17 @@ Lost Themes is the debut studio album by American film director and composer Joh
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Vortex |  |
-| A2 | Obsidian  |  |
-| A3 | Fallen |  |
-| A4 | Domain |  |
-| B1 | Mystery |  |
-| B2 | Abyss |  |
-| B3 | Wraith |  |
-| B4 | Purgatory |  |
-| B5 | Night |  |
+| Position | Title |
+|----------|--------|
+| A1 | Vortex |
+| A2 | Obsidian  |
+| A3 | Fallen |
+| A4 | Domain |
+| B1 | Mystery |
+| B2 | Abyss |
+| B3 | Wraith |
+| B4 | Purgatory |
+| B5 | Night |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Lost Themes is the debut studio album by American film director and composer Joh
 | Format         | Vinyl LP Album Limited Edition Reissue (Green & White Haze) |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR123 |
-| Notes | © 2014 Sacred Bones Records<br>℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music<br><br>"Obsidian Green" vinyl pressing<br><br>Limited to 500 copies worldwide<br><br>Comes in a gatefold sleeve with liner notes insert and download code.<br><br>NO catalog number on the cover |
+| Notes | © 2014 Sacred Bones Records ℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music  "Obsidian Green" vinyl pressing  Limited to 500 copies worldwide  Comes in a gatefold sleeve with liner notes insert and download code.  NO catalog number on the cover |
 | Discogs URL    | [John Carpenter - Lost Themes](https://www.discogs.com/release/11020458-John-Carpenter-Lost-Themes) |

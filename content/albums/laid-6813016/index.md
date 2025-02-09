@@ -36,21 +36,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Out To Get You | 4:27 |
-| A2 | Sometimes (Lester Piggott) | 5:08 |
-| A3 | Dream Thrum | 4:47 |
-| B1 | One Of The Three | 4:08 |
-| B2 | Say Something | 3:26 |
-| B3 | Five-O | 5:24 |
-| C1 | P.S. | 5:04 |
-| C2 | Everybody Knows | 3:28 |
-| C3 | Knuckle Too Far | 4:40 |
-| D1 | Low Low Low | 2:52 |
-| D2 | Laid | 2:36 |
-| D3 | Lullaby | 3:48 |
-| D4 | Skindiving | 5:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Out To Get You |
+| A2 | Sometimes (Lester Piggott) |
+| A3 | Dream Thrum |
+| B1 | One Of The Three |
+| B2 | Say Something |
+| B3 | Five-O |
+| C1 | P.S. |
+| C2 | Everybody Knows |
+| C3 | Knuckle Too Far |
+| D1 | Low Low Low |
+| D2 | Laid |
+| D3 | Lullaby |
+| D4 | Skindiving |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Fontana |
 | Catalog Number | 0602547096401 |
-| Notes | Sleeves with lyrics, photos, credits, art etc<br>Contains voucher for MP3 download<br>180 Gram Heavyweight Vinyl<br>Made in the EU |
+| Notes | Sleeves with lyrics, photos, credits, art etc Contains voucher for MP3 download 180 Gram Heavyweight Vinyl Made in the EU |
 | Discogs URL    | [James - Laid](https://www.discogs.com/release/6813016-James-Laid) |

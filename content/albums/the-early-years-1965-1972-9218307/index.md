@@ -123,439 +123,439 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 1965-67 Cambridge St/ation |  |
-| CD1-1 | Lucy Leave | 2:57 |
-| CD1-2 | Double O Bo | 2:57 |
-| CD1-3 | Remember Me | 2:46 |
-| CD1-4 | Walk With Me Sydney | 3:11 |
-| CD1-5 | Butterfly | 3:00 |
-| CD1-6 | I’m A King Bee | 3:13 |
-| CD1-7 | Arnold Layne | 2:57 |
-| CD1-8 | See Emily Play | 2:55 |
-| CD1-9 | Apples And Oranges | 3:05 |
-| CD1-10 | Candy And A Currant Bun | 2:45 |
-| CD1-11 | Paintbox | 3:48 |
-| CD1-12 | Matilda Mother (2010 Mix) | 4:01 |
-| CD1-13 | Jugband Blues (2010 Mix) | 3:01 |
-| CD1-14 | In The Beechwoods (2010 Mix) | 4:43 |
-| CD1-15 | Vegetable Man (2010 Mix) | 2:32 |
-| CD1-16 | Scream Thy Last Scream (2010 Mix) | 4:43 |
-|  | Live in Stockholm 1967: |  |
-| CD2-1 | Introduction | 0:25 |
-| CD2-2 | Reaction In G | 7:18 |
-| CD2-3 | Matilda Mother | 5:34 |
-| CD2-4 | Pow R. Toc H. | 11:56 |
-| CD2-5 | Scream Thy Last Scream | 4:00 |
-| CD2-6 | Set The Controls For The Heart Of The Sun | 7:17 |
-| CD2-7 | See Emily Play | 3:16 |
-| CD2-8 | Interstellar Overdrive | 8:57 |
-|  | John Latham (Studio Recordings 1967) |  |
-| CD2-9 | John Latham Version 1 | 4:32 |
-| CD2-10 | John Latham Version 2 | 5:06 |
-| CD2-11 | John Latham Version 3 | 3:45 |
-| CD2-12 | John Latham Version 4 | 2:59 |
-| CD2-13 | John Latham Version 5 | 2:48 |
-| CD2-14 | John Latham Version 6 | 3:17 |
-| CD2-15 | John Latham Version 7 | 2:36 |
-| CD2-16 | John Latham Version 8 | 2:49 |
-| CD2-17 | John Latham Version 9 | 2:38 |
-|  | 1965-67 Cambridge St/ation DVD |  |
-| DVD1-1 | Chapter 24: Cambridgeshire, UK 1966 | 3:40 |
-| DVD1-2 | Nick’s Boogie: Sound Techniques Studio | 6:36 |
-| DVD1-3 | Interstellar Overdrive: 'Scene – Underground' | 4:15 |
-| DVD1-4 | Arnold Layne: (Promo Video) | 2:54 |
-| DVD1-5 | Pow R. Toc H. / Astronomy Domine Plus Syd Barrett And Roger Waters Interview: 'The Look Of The Week' | 9:22 |
-| DVD1-6 | The Scarecrow: 'Pathé Pictorial' | 2:05 |
-| DVD1-7 | Jugband Blues: 'London Line' | 2:58 |
-| DVD1-8 | Apples And Oranges Plus Dick Clark Interview: 'American Bandstand' | 4:51 |
-| DVD1-9 | Instrumental Improvisation: BBC ‘Tomorrow’s World’ | 2:11 |
-| DVD1-10 | Instrumental Improvisation: 'Die Jungen Nachtwandler' | 4:32 |
-| DVD1-11 | See Emily Play: 'Top Of The Pops' - Partially Restored BBC Studios | 2:55 |
-| DVD1-12 | The Scarecrow (Outtakes): 'Pathé Pictorial' | 2:07 |
-| DVD1-13 | Interstellar Overdrive: 'Science Fiction - Das Universum Des Ichs' | 9:33 |
-| DVD1-14 | Credits | 0:22 |
-|  | 1965-67 Cambridge St/ation BR |  |
-| BR1-1 | Chapter 24: Cambridgeshire, UK 1966 | 3:40 |
-| BR1-2 | Nick’s Boogie: Sound Techniques Studio | 6:36 |
-| BR1-3 | Interstellar Overdrive: 'Scene – Underground' | 4:15 |
-| BR1-4 | Arnold Layne: (Promo Video) | 2:54 |
-| BR1-5 | Pow R. Toc H. / Astronomy Domine Plus Syd Barrett And Roger Waters Interview: 'The Look Of The Week' | 9:22 |
-| BR1-6 | The Scarecrow: 'Pathé Pictorial' | 2:05 |
-| BR1-7 | Jugband Blues: 'London Line' | 2:58 |
-| BR1-8 | Apples And Oranges Plus Dick Clark Interview: 'American Bandstand' | 4:51 |
-| BR1-9 | Instrumental Improvisation: BBC ‘Tomorrow’s World’ | 2:11 |
-| BR1-10 | Instrumental Improvisation: 'Die Jungen Nachtwandler' | 4:32 |
-| BR1-11 | See Emily Play: 'Top Of The Pops' - Partially Restored BBC Studio | 2:55 |
-| BR1-12 | The Scarecrow (Outtakes): 'Pathé Pictorial' | 2:07 |
-| BR1-13 | Interstellar Overdrive: 'Science Fiction - Das Universum Des Ichs' | 9:33 |
-| BR1-14 | Credits | 0:22 |
-|  | 1968 Germin/ation |  |
-| CD3-1 | Point Me At The Sky | 3:40 |
-| CD3-2 | It Would Be So Nice | 3:46 |
-| CD3-3 | Julia Dream | 2:34 |
-| CD3-4 | Careful With That Axe, Eugene (Single Version) | 5:46 |
-| CD3-5 | Song 1, Capitol Studios | 3:19 |
-| CD3-6 | Roger’s Boogie, Capitol Studios | 4:35 |
-|  | BBC Radio Session 25 June 1968 |  |
-| CD3-7 | Murderotic Woman (Careful With That Axe, Eugene) | 3:38 |
-| CD3-8 | The Massed Gadgets Of Hercules (A Saucerful Of Secrets) | 7:18 |
-| CD3-9 | Let There Be More Light | 4:32 |
-| CD3-10 | Julia Dream | 2:50 |
-|  | BBC Radio Session, 20 December 1968 |  |
-| CD3-11 | Point Me At The Sky | 4:25 |
-| CD3-12 | Embryo | 3:13 |
-| CD3-13 | Interstellar Overdrive | 9:37 |
-|  | 1968 Germin/ation DVD |  |
-|  | Tienerklanken’, Brussels, Belgium, 18-19 February 1968 |  |
-|  | 'Tienerklanken’, Brussels, Belgium, 18-19 February 1968 | 22:28 |
-|  | Brussels, Belgium, February 1968 |  |
-| DVD2-8 | Apples And Oranges: ‘Vibrato' | 3:03 |
-|  | 'Bouton Rouge’, Paris, France, 20 February 1968: | 13:35 |
-|  | 1968 TV Appearances |  |
-| DVD2-13 | Paintbox: ‘Discorama’ | 3:40 |
-| DVD2-14 | Instrumental Improvisation: ‘The Sound Of Change' | 2:15 |
-| DVD2-15 | Set The Controls For The Heart Of The Sun: ‘All My Loving’ | 2:40 |
-| DVD2-16 | It Would Be So Nice (Excerpt): ‘Release - Rome Goes Pop’ | 1:21 |
-| DVD2-17 | Interstellar Overdrive: ‘Pop 68’ | 6:59 |
-|  | ‘Tienerklanken – Kastival’, Kasterlee, Belgiu, 31 August 1968 | 3:48 |
-|  | ‘Samedi et Compagnie’, Paris, France, 06 September 1968 | 5:31 |
-|  | 'A L’Affiche du Monde’, London, UK, 1968 |  |
-| DVD2-22 | Let There Be More Light | 1:53 |
-|  | ‘Tous En Scene’, Paris, France, 21 October 1968 | 6:39 |
-|  | 1968 TV Appearances |  |
-| DVD2-25 | Let There Be More Light: ‘Surprise Partie' | 6:35 |
-| DVD2-26 | Point Me At The Sky: Restored Promo Video | 3:19 |
-|  | - |  |
-| DVD2-27 | Credits | 0:22 |
-|  | 1968 Germin/ation BR |  |
-|  | 'Tienerklanken’, Brussels, Belgium, 18-19 February 1968 | 22:28 |
-|  | Brussels, Belgium, February 1968 |  |
-| BR2-8 | Apples And Oranges: ‘Vibrato' | 3:13 |
-|  | 'Bouton Rouge’, Paris, France, 20 February 1968 | 13:35 |
-|  | 1968 TV Appearances |  |
-| BR2-13 | Paintbox: ‘Discorama’ | 3:50 |
-| BR2-14 | Instrumental Improvisation: ‘The Sound Of Change' | 2:25 |
-| BR2-15 | Set The Controls For The Heart Of The Sun: ‘All My Loving’ | 2:50 |
-| BR2-16 | It Would Be So Nice (Excerpt): ‘Release - Rome Goes Pop’ | 1:30 |
-| BR2-17 | Interstellar Overdrive: ‘Pop 68’ | 7:09 |
-|  | ‘Tienerklanken – Kastival’, Kasterlee, Belgiu, 31 August 1968 | 3:48 |
-|  | ‘Samedi et Compagnie’, Paris, France, 06 September 1968 | 5:31 |
-|  | 'A L’Affiche du Monde’, London, UK, 1968 |  |
-| BR2-22 | Let There Be More Light | 1:53 |
-|  | 'Tous En Scene’, Paris, France, 21 October 1968 | 6:39 |
-|  | 1968 TV Appearances |  |
-| BR2-25 | Let There Be More Light: ‘Surprise Partie’ | 6:35 |
-| BR2-26 | Point Me At The Sky: Restored Promo Video | 3:19 |
-|  | - |  |
-| BR2-27 | Credits | 0:22 |
-|  | 1969 Dramatis/ation |  |
-|  | ‘More’ Album Non-Album Tracks |  |
-| CD4-1 | Hollywood (Non-Album Track) | 1:21 |
-| CD4-2 | Theme (Beat Version) (Alternative Version) | 5:38 |
-| CD4-3 | More Blues (Alternative Version) | 3:49 |
-| CD4-4 | Seabirds (Non-Album Track) | 4:20 |
-| CD4-5 | Embryo (From ‘Picnic’, Harvest Records Sampler) | 4:43 |
-|  | BBC Radio Session, 12 May 1969: |  |
-| CD4-6 | Grantchester Meadows | 3:36 |
-| CD4-7 | Cymbaline | 3:38 |
-| CD4-8 | The Narrow Way | 4:48 |
-| CD4-9 | Green Is The Colour / | 3:21 |
-| CD4-10 | Careful With That Axe, Eugene | 3:29 |
-|  | Live At The Paradiso, Amsterdam, 9 August 1969 |  |
-| CD4-11 | Interstellar Overdrive | 4:20 |
-| CD4-12 | Set The Controls For The Heart Of The Sun | 12:25 |
-| CD4-13 | Careful With That Axe, Eugene | 10:09 |
-| CD4-14 | A Saucerful Of Secrets | 13:03 |
-|  | Part 1: ‘The Man’, Amsterdam, 17 September 1969 |  |
-| CD5-1 | Daybreak (Grantchester Meadows) | 8:14 |
-| CD5-2 | Work | 4:12 |
-| CD5-3 | Afternoon (Biding My Time) | 6:39 |
-| CD5-4 | Doing It | 3:54 |
-| CD5-5 | Sleeping | 4:38 |
-| CD5-6 | Nightmare (Cymbaline) | 9:15 |
-| CD5-7 | Labyrinth | 1:10 |
-|  | Part 2: ‘The Journey’, Amsterdam, 17 September 1969 |  |
-| CD5-8 | The Beginning (Green Is The Colour) | 3:25 |
-| CD5-9 | Beset By Creatures Of The Deep (Careful With That Axe, Eugene) | 6:27 |
-| CD5-10 | The Narrow Way, Part 3 | 5:11 |
-| CD5-11 | The Pink Jungle (Pow R. Toc H.) | 4:56 |
-| CD5-12 | The Labyrinths Of Auximines | 3:20 |
-| CD5-13 | Footsteps / Doors | 3:12 |
-| CD5-14 | Behold The Temple Of Light | 5:32 |
-| CD5-15 | The End Of The Beginning (A Saucerful Of Secrets) | 6:31 |
-|  | 1969 Dramatis/ation DVD |  |
-|  | ‘Forum Musiques’, Paris, France, 22 January 1969 | 19:25 |
-|  | ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, April 14, 1969 | 14:05 |
-|  | Essener Pop And Blues Festival, Essen, Germany, October 11 1969 | 19:14 |
-|  | Music Power And European Music Revolution, Festival Actuel, Amougies Mont de L’Enclus, Belgium, 25 October 1969 | 27:53 |
-| DVD3-15 | Credits | 0:21 |
-|  | 1969 Dramatis/ation BR |  |
-|  | ‘Forum Musiques’, Paris, France, 22 January 1969 | 19:27 |
-|  | ‘The Man’ And ‘The Journey’: Royal Festival Hall, London, Rehearsal, April 14, 1969 | 14:05 |
-|  | Essener Pop And Blues Festival, Essen, Germany, October 11 1969 | 19:14 |
-|  | Music Power And European Music Revolution, Festival Actuel, Amougies Mont de L’Enclus, Belgium, 25 October 1969 | 27:53 |
-| BR3-14 | Credits | 0:21 |
-|  | 1970 Devi/ation |  |
-| CD6-1 | Atom Heart Mother: Live In Montreux, 21 November 1970 | 17:58 |
-|  | BBC Radio Session, 16 July 1970: |  |
-| CD6-2 | Embryo | 11:10 |
-| CD6-3 | Fat Old Sun | 5:52 |
-| CD6-4 | Green Is The Colour | 3:27 |
-| CD6-5 | Careful With That Axe, Eugene | 8:25 |
-| CD6-6 | If | 5:47 |
-| CD6-7 | Atom Heart Mother (With Choir, Cello And Brass Ensemble) | 25:30 |
-|  | Unreleased Tracks From The ‘Zabriskie Point’ Soundtrack Recordings |  |
-| CD7-1 | On The Highway | 1:16 |
-| CD7-2 | Auto Scene Version 2 | 1:13 |
-| CD7-3 | Auto Scene Version 3 | 1:33 |
-| CD7-4 | Aeroplane | 2:18 |
-| CD7-5 | Explosion | 5:47 |
-| CD7-6 | The Riot Scene | 1:40 |
-| CD7-7 | Looking At Map | 1:57 |
-| CD7-8 | Love Scene Version 7 | 5:03 |
-| CD7-9 | Love Scene Version 1 | 3:26 |
-| CD7-10 | Take Off | 1:20 |
-| CD7-11 | Take Off Version 2 | 1:12 |
-| CD7-12 | Love Scene Version 2 | 1:56 |
-| CD7-13 | Love Scene (Take 1) | 2:16 |
-| CD7-14 | Unknown Song (Take 1) | 5:56 |
-| CD7-15 | Love Scene (Take 2) | 6:40 |
-| CD7-16 | Crumbling Land (Take 1) | 4:09 |
-|  | Early Studio Version |  |
-| CD7-17 | Atom Heart Mother: Early Studio Version, Band Only | 19:15 |
-|  | 1970 Devi/ation DVD |  |
-|  | An Hour With Pink Floyd: KQED, San Francisco, USA, 30 April 1970: |  |
-| DVD4-1 | Atom Heart Mother | 16:37 |
-| DVD4-2 | Cymbaline | 8:38 |
-| DVD4-3 | Grantchester Meadows | 7:37 |
-| DVD4-4 | Green Is The Colour | 3:31 |
-| DVD4-5 | Careful With That Axe, Eugene | 9:09 |
-| DVD4-6 | Set The Controls For The Heart Of The Sun | 12:37 |
-|  | Atom Heart Mother Album Original 4.0 Quad Mix 1970: |  |
-| DVD4-7 | Atom Heart Mother | 23:42 |
-| DVD4-8 | If | 4:31 |
-| DVD4-9 | Summer ’68 | 5:29 |
-| DVD4-10 | Fat Old Sun | 5:24 |
-| DVD4-11 | Alan’s Psychedelic Breakfast | 11:58 |
-|  | - |  |
-| DVD4-12 | Credits | 0:21 |
-|  | Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 1: |  |
-| DVD5-1 | Cymbaline (Soundcheck) | 3:54 |
-| DVD5-2 | Atom Heart Mother | 13:46 |
-| DVD5-3 | Embryo | 11:23 |
-|  | Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 2: |  |
-| DVD5-4 | Green Is The Colour | 4:18 |
-| DVD5-5 | Careful With That Axe, Eugene | 8:12 |
-| DVD5-6 | Set The Controls For The Heart Of The Sun | 12:07 |
-|  | Show Roland Petit, Paris, France, 5 December 1970: |  |
-| DVD5-7 | Instrumental Improvisations 1,2,3 Live In The Studio | 3:28 |
-| DVD5-8 | Embryo | 2:39 |
-|  | Blackhill’s Garden Party, Hyde Park, London, UK, 18 July 1970: |  |
-| DVD5-9 | Atom Heart Mother With The Philip Jones Brass Ensemble / John Alldis Choir | 21:15 |
-|  | - |  |
-| DVD5-10 | Credits | 0:21 |
-|  | 1970 Devi/ation BR |  |
-|  | An Hour With Pink Floyd: KQED, San Francisco, USA, 30 April 1970: |  |
-| BR4-1 | Atom Heart Mother | 16:37 |
-| BR4-2 | Cymbaline | 8:38 |
-| BR4-3 | Grantchester Meadows | 7:37 |
-| BR4-4 | Green Is The Colour | 3:31 |
-| BR4-5 | Careful With That Axe, Eugene | 9:09 |
-| BR4-6 | Set The Controls For The Heart Of The Sun | 12:37 |
-|  | Atom Heart Mother Album Original 4.0 Quad Mix 1970: |  |
-| BR4-7 | Atom Heart Mother | 23:42 |
-| BR4-8 | If | 4:31 |
-| BR4-9 | Summer ’68 | 5:29 |
-| BR4-10 | Fat Old Sun | 5:24 |
-| BR4-11 | Alan’s Psychedelic Breakfast | 11:59 |
-|  | ‘Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 1: |  |
-| BR4-12 | Cymbaline (Soundcheck) | 3:54 |
-| BR4-13 | Atom Heart Mother | 13:46 |
-| BR4-14 | Embryo | 11:23 |
-|  | ‘Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 2: |  |
-| BR4-15 | Green Is The Colour | 4:19 |
-| BR4-16 | Careful With That Axe, Eugene | 8:13 |
-| BR4-17 | Set The Controls For The Heart Of The Sun | 12:07 |
-|  | Show Roland Petit, Paris, France, 5 December 1970: |  |
-| BR4-18 | Instrumental Improvisations 1,2,3 Live In The Studio | 3:28 |
-| BR4-19 | Embryo | 2:39 |
-|  | Blackhill’s Garden Party, Hyde Park, London, UK, 18 July 1970: |  |
-| BR4-20 | Atom Heart Mother With The Philip Jones Brass Ensemble / John Alldis Choir | 21:15 |
-|  | - |  |
-| BR4-21 | Credits | 0:21 |
-|  | 1971 Reverber/ation |  |
-| CD8-1 | Nothing Part 14 (Echoes Work In Progress) | 7:01 |
-|  | BBC Radio Session, 30 September 1971: |  |
-| CD8-2 | Fat Old Sun | 15:33 |
-| CD8-3 | One Of These Days | 7:19 |
-| CD8-4 | Embryo | 10:43 |
-| CD8-5 | Echoes | 26:25 |
-|  | 1971 Reverber/ation DVD |  |
-|  | ‘Aspekte’ Feature: Germany 1971 | 9:51 |
-|  | ‘Cinq Grands Sur La Deux’ Abbaye de Royaumont, Asnierès-sur-Oise, France, 15 June 1971 | 17:55 |
-|  | 'Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |  |
-| DVD6-5 | Atom Heart Mother (Extract) | 3:12 |
-|  | 'Get To Know', Randwick Race Course, Sydney, Australia, 15 August 1971 | 6:23 |
-|  | ’24 Hours – Bootleg Records’, London, UK, 1971 |  |
-| DVD6-8 | Documentary Including Pink Floyd And Manager Steve O'Rourke | 2:27 |
-|  | Review’, London, UK, 1971 |  |
-| DVD6-9 | Storm Thorgerson And Aubrey ‘Po’ Powell | 3:37 |
-| DVD6-10 | One Of These Days (‘French Windows’) | 4:17 |
-|  | ‘Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |  |
-| DVD6-11 | Atom Heart Mother (Extract, In Colour) | 5:10 |
-|  | ’71 Hakone Aphrodite 15.11 Open Air Festival, Hakone, Japan, 6-7 August 1971 |  |
-| DVD6-12 | Atom Heart Mother | 15:11 |
-|  | Audio Only |  |
-| DVD6-13 | Echoes Original 4.0 Quad Mix 1971 | 23:35 |
-|  | - |  |
-| DVD6-14 | Credits | 0:21 |
-|  | 1971 Reverber/ation BR |  |
-|  | ‘Aspekte’ Feature Germany 1971 | 9:51 |
-|  | ‘Cinq Grands Sur La Deux' Abbaye de Royaumont, Asnierès-sur-Oise, France, 15 June 1971 | 17:55 |
-|  | 'Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |  |
-| BR5-5 | Atom Heart Mother (Extract) | 3:12 |
-|  | 'Get To Know', Randwick Race Course, Sydney, Australia, 15 August 1971 | 6:23 |
-|  | ’24 Hours – Bootleg Records’, London, UK, 1971 |  |
-| BR5-8 | Documentary Including Pink Floyd | 2:27 |
-|  | ‘Review’, London, UK, 1971 |  |
-| BR5-9 | Storm Thorgerson And Aubrey ‘Po’ Powell | 3:37 |
-| BR5-10 | One Of These Days (‘French Windows’) | 4:17 |
-|  | ‘Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |  |
-| BR5-11 | Atom Heart Mother (Extract, In Colour) | 5:10 |
-|  | 71 Hakone Aphrodite 15.11 Open Air Festival, Hakone, Japan, |  |
-| BR5-12 | Atom Heart Mother | 15:11 |
-|  | Audio Only |  |
-| BR5-13 | Echoes Original 4.0 Quad Mix 1971 | 23:43 |
-|  | - |  |
-| BR5-14 | Credits | 0:21 |
-|  | 1972 Obfusc/ation |  |
-|  | Live In Pompeii (Stereo 2016 Mix) |  |
-| CD9-1 | Careful With That Axe, Eugene | 6:44 |
-| CD9-2 | Set The Controls For The Heart Of The Sun | 10:35 |
-| CD9-3 | One Of These Days | 5:50 |
-| CD9-4 | A Saucerful Of Secrets | 12:49 |
-| CD9-5 | Echoes | 24:56 |
-| CD9-6 | Careful With That Axe, Eugene (Alternate Take) | 6:05 |
-|  | 1972 Obfusc/ation DVD |  |
-|  | Recording Obscured By Clouds, Château D’Hérouville, France, 23-29 February 1972 |  |
-| DVD7-1 | Wot’s… Uh The Deal: With Recording Session Photos | 5:04 |
-| DVD7-2 | Pop Deux: Documentary Recording Obscured By Clouds | 7:14 |
-|  | Brighton Dome, UK, 29 June 1972 | 16:44 |
-|  | Roland Petit Pink Floyd Ballet, France, News Reports 1972-73 |  |
-| DVD7-5 | Actualités Méditerranée, Marseille, 22 November 1972 | 3:29 |
-| DVD7-6 | Jt Nuit – Les Pink Floyd, Marseille, 26 November 1972 | 3:04 |
-| DVD7-7 | Jt 20h - Pink Floyd, Paris, 12 January 1973 | 3:01 |
-| DVD7-8 | Journal de Paris – Les Pink Floyd, Paris, 12 January 1973 | 5:03 |
-|  | Poitiers – Autour Du Passage Des Pink Floyd |  |
-| DVD7-9 | Concert Set Up News Report – France, 29 November 1972 | 4:27 |
-|  | Live At Pompeii (With 2016 5.1 Audio Remix) |  |
-| DVD7-10 | Careful With That Axe, Eugene | 6:40 |
-| DVD7-11 | A Saucerful Of Secrets | 10:09 |
-| DVD7-12 | One Of These Days | 5:58 |
-| DVD7-13 | Set The Controls For The Heart Of The Sun | 10:24 |
-| DVD7-14 | Echoes | 26:10 |
-|  | - |  |
-| DVD7-15 | Credits | 0:21 |
-|  | 1972 Obfusc/ation BR |  |
-|  | Recording Obscured By Clouds, Château D’Hérouville, France, 23-29 February 1972 |  |
-| BR6-1 | Wot’s…Uh The Deal: With Recording Session Photos | 5:04 |
-| BR6-2 | Pop Deux: Documentary Recording Obscured By Clouds | 7:14 |
-|  | Brighton Dome, UK, 29 June 1972 | 16:44 |
-|  | Roland Petit Pink Floyd Ballet, France, News Reports 1972-73 |  |
-| BR6-5 | Actualités Méditerranée, Marseille, 22 November 1972 | 3:29 |
-| BR6-6 | Jt Nuit – Les Pink Floyd, Marseille, 26 November 1972 | 3:04 |
-| BR6-7 | Jt 20h - Pink Floyd, Paris, 12 January 1973 | 3:01 |
-| BR6-8 | Journal de Paris – Les Pink Floyd, Paris, 12 January 1973 | 5:03 |
-|  | Poitiers – Autour Du Passage Des Pink Floyd |  |
-| BR6-9 | Concert Set Up News Report – France, 29 November 1972 | 4:27 |
-|  | Live At Pompeii ( With 2016 5.1 Audio Remix) |  |
-| BR6-10 | Careful With That Axe, Eugene | 6:40 |
-| BR6-11 | A Saucerful Of Secrets | 10:09 |
-| BR6-12 | One Of These Days | 5:58 |
-| BR6-13 | Set The Controls For The Heart Of The Sun | 10:24 |
-| BR6-14 | Echoes | 26:10 |
-|  | - |  |
-| BR6-15 | Credits | 0:21 |
-|  | Bonus Continu/ation |  |
-|  | BBC Radio Session, 25 September 1967: |  |
-| CD10-1 | Flaming | 2:42 |
-| CD10-2 | The Scarecrow | 1:59 |
-| CD10-3 | The Gnome | 2:08 |
-| CD10-4 | Matilda Mother | 3:20 |
-| CD10-5 | Reaction In G | 0:34 |
-| CD10-6 | Set The Controls For The Heart Of The Sun | 3:19 |
-|  | BBC Radio Session, 20 December 1967: |  |
-| CD10-7 | Scream Thy Last Scream | 3:35 |
-| CD10-8 | Vegetable Man | 3:07 |
-| CD10-9 | Pow R. Toc H. | 2:45 |
-| CD10-10 | Jugband Blues | 3:50 |
-|  | BBC Radio Session, 2 December 1968: |  |
-| CD10-11 | Baby Blue Shuffle In D Major | 3:58 |
-| CD10-12 | Blues | 4:59 |
-|  | Other Recordings |  |
-| CD10-13 | US Radio Ad | 0:22 |
-| CD10-14 | Music From The Committee No. 1 | 1:06 |
-| CD10-15 | Music From The Committee No. 2 | 3:25 |
-|  | Live On 1969 BBC TV Moon Landings Broadcast |  |
-| CD10-16 | Moonhead | 7:16 |
-|  | Live At Wembley 1974 |  |
-| CD10-17 | Echoes | 24:10 |
-|  | Bonus Continu/ation DVD |  |
-|  | Hampstead Heath And St. Michael’s Church, Highgate, London, UK, March 1967 |  |
-| DVD8-1 | Arnold Layne (Alternative Version) | 2:56 |
-|  | ‘P1 – P Wie Petersilie’ Stuggart, Germany, 22 July 1969 | 16:52 |
-|  | Bath Festival Of Blues & Progressive Music’, Shepton Mallet, UK, 27 June 1970 |  |
-| DVD8-5 | Atom Heart Mother | 3:46 |
-|  | 'Kralingen Music Festival’  Rotterdam, The Netherlands, 28 June 1970 | 10:16 |
-|  | ‘The Amsterdam Rock Circus’ Amsterdam, The Netherlands, 22 May 1972 | 35:41 |
-|  | Feature Film |  |
-| DVD8-11 | The Committee | 55:18 |
-|  | - |  |
-| DVD8-12 | Credits | 0:21 |
-| DVD9-1 | More | 116:00 |
-| DVD9-2 | ‘La Vallée’ (Obscured By Clouds) | 105:00 |
-|  | Bonus Continu/ation BR |  |
-|  | Hampstead Heath And St. Michael’s Church, Highgate, London, UK, March 1967 |  |
-| BR7-1 | Arnold Layne (Alternative Version) | 2:56 |
-|  | ‘P1 – P Wie Petersilie’ Stuggart, Germany, 22 July 1969 | 16:52 |
-|  | Bath Festival Of Blues & Progressive Music’, Shepton Mallet, UK, 27 June 1970 |  |
-| BR7-5 | Atom Heart Mother | 3:46 |
-|  | 'Kralingen Music Festival’  Rotterdam, The Netherlands, 28 June 1970 | 10:16 |
-|  | ‘The Amsterdam Rock Circus’ Amsterdam, The Netherlands, 22 May 1972 | 35:41 |
-|  | Feature Film |  |
-| BR7-11 | The Committee | 55:18 |
-|  | - |  |
-| BR7-12 | Credits | 0:21 |
-| BR8-1 | More | 116:00 |
-| BR8-2 | ‘La Vallée’ (Obscured By Clouds) | 105:00 |
-|  | Arnold Layne |  |
-| A | Arnold Layne | 2:57 |
-| B | Candy And A Currant Bun | 2:45 |
-|  | See Emily Play |  |
-| C | See Emily Play | 2:55 |
-| D | The Scarecrow | 2:05 |
-|  | Apples And Oranges |  |
-| E | Apples And Oranges | 3:05 |
-| F | Paintbox | 3:48 |
-|  | It Would Be So Nice |  |
-| G | It Would Be So Nice | 3:46 |
-| H | Julia Dream | 2:34 |
-|  | Point Me At The Sky |  |
-| I | Point Me At The Sky | 3:40 |
-| J | Careful With That Axe, Eugene | 5:46 |
-|  | Obscured By Clouds (2016 Remix) (Replacement CD Disc For Obfusc/ation) |  |
-| CD11-1 | Obscured By Clouds | 3:03 |
-| CD11-2 | When You're In | 2:31 |
-| CD11-3 | Burning Bridges  | 3:30 |
-| CD11-4 | The Gold It's In The... | 3:07 |
-| CD11-5 | Wot's...Uh The Deal | 5:09 |
-| CD11-6 | Mudmen | 4:18 |
-| CD11-7 | Childhood's End | 4:33 |
-| CD11-8 | Free Four | 4:16 |
-| CD11-9 | Stay | 4:06 |
-| CD11-10 | Absolutely Curtains | 5:52 |
+| Position | Title |
+|----------|--------|
+|  | 1965-67 Cambridge St/ation |
+| CD1-1 | Lucy Leave |
+| CD1-2 | Double O Bo |
+| CD1-3 | Remember Me |
+| CD1-4 | Walk With Me Sydney |
+| CD1-5 | Butterfly |
+| CD1-6 | I’m A King Bee |
+| CD1-7 | Arnold Layne |
+| CD1-8 | See Emily Play |
+| CD1-9 | Apples And Oranges |
+| CD1-10 | Candy And A Currant Bun |
+| CD1-11 | Paintbox |
+| CD1-12 | Matilda Mother (2010 Mix) |
+| CD1-13 | Jugband Blues (2010 Mix) |
+| CD1-14 | In The Beechwoods (2010 Mix) |
+| CD1-15 | Vegetable Man (2010 Mix) |
+| CD1-16 | Scream Thy Last Scream (2010 Mix) |
+|  | Live in Stockholm 1967: |
+| CD2-1 | Introduction |
+| CD2-2 | Reaction In G |
+| CD2-3 | Matilda Mother |
+| CD2-4 | Pow R. Toc H. |
+| CD2-5 | Scream Thy Last Scream |
+| CD2-6 | Set The Controls For The Heart Of The Sun |
+| CD2-7 | See Emily Play |
+| CD2-8 | Interstellar Overdrive |
+|  | John Latham (Studio Recordings 1967) |
+| CD2-9 | John Latham Version 1 |
+| CD2-10 | John Latham Version 2 |
+| CD2-11 | John Latham Version 3 |
+| CD2-12 | John Latham Version 4 |
+| CD2-13 | John Latham Version 5 |
+| CD2-14 | John Latham Version 6 |
+| CD2-15 | John Latham Version 7 |
+| CD2-16 | John Latham Version 8 |
+| CD2-17 | John Latham Version 9 |
+|  | 1965-67 Cambridge St/ation DVD |
+| DVD1-1 | Chapter 24: Cambridgeshire, UK 1966 |
+| DVD1-2 | Nick’s Boogie: Sound Techniques Studio |
+| DVD1-3 | Interstellar Overdrive: 'Scene – Underground' |
+| DVD1-4 | Arnold Layne: (Promo Video) |
+| DVD1-5 | Pow R. Toc H. / Astronomy Domine Plus Syd Barrett And Roger Waters Interview: 'The Look Of The Week' |
+| DVD1-6 | The Scarecrow: 'Pathé Pictorial' |
+| DVD1-7 | Jugband Blues: 'London Line' |
+| DVD1-8 | Apples And Oranges Plus Dick Clark Interview: 'American Bandstand' |
+| DVD1-9 | Instrumental Improvisation: BBC ‘Tomorrow’s World’ |
+| DVD1-10 | Instrumental Improvisation: 'Die Jungen Nachtwandler' |
+| DVD1-11 | See Emily Play: 'Top Of The Pops' - Partially Restored BBC Studios |
+| DVD1-12 | The Scarecrow (Outtakes): 'Pathé Pictorial' |
+| DVD1-13 | Interstellar Overdrive: 'Science Fiction - Das Universum Des Ichs' |
+| DVD1-14 | Credits |
+|  | 1965-67 Cambridge St/ation BR |
+| BR1-1 | Chapter 24: Cambridgeshire, UK 1966 |
+| BR1-2 | Nick’s Boogie: Sound Techniques Studio |
+| BR1-3 | Interstellar Overdrive: 'Scene – Underground' |
+| BR1-4 | Arnold Layne: (Promo Video) |
+| BR1-5 | Pow R. Toc H. / Astronomy Domine Plus Syd Barrett And Roger Waters Interview: 'The Look Of The Week' |
+| BR1-6 | The Scarecrow: 'Pathé Pictorial' |
+| BR1-7 | Jugband Blues: 'London Line' |
+| BR1-8 | Apples And Oranges Plus Dick Clark Interview: 'American Bandstand' |
+| BR1-9 | Instrumental Improvisation: BBC ‘Tomorrow’s World’ |
+| BR1-10 | Instrumental Improvisation: 'Die Jungen Nachtwandler' |
+| BR1-11 | See Emily Play: 'Top Of The Pops' - Partially Restored BBC Studio |
+| BR1-12 | The Scarecrow (Outtakes): 'Pathé Pictorial' |
+| BR1-13 | Interstellar Overdrive: 'Science Fiction - Das Universum Des Ichs' |
+| BR1-14 | Credits |
+|  | 1968 Germin/ation |
+| CD3-1 | Point Me At The Sky |
+| CD3-2 | It Would Be So Nice |
+| CD3-3 | Julia Dream |
+| CD3-4 | Careful With That Axe, Eugene (Single Version) |
+| CD3-5 | Song 1, Capitol Studios |
+| CD3-6 | Roger’s Boogie, Capitol Studios |
+|  | BBC Radio Session 25 June 1968 |
+| CD3-7 | Murderotic Woman (Careful With That Axe, Eugene) |
+| CD3-8 | The Massed Gadgets Of Hercules (A Saucerful Of Secrets) |
+| CD3-9 | Let There Be More Light |
+| CD3-10 | Julia Dream |
+|  | BBC Radio Session, 20 December 1968 |
+| CD3-11 | Point Me At The Sky |
+| CD3-12 | Embryo |
+| CD3-13 | Interstellar Overdrive |
+|  | 1968 Germin/ation DVD |
+|  | Tienerklanken’, Brussels, Belgium, 18-19 February 1968 |
+|  | 'Tienerklanken’, Brussels, Belgium, 18-19 February 1968 |
+|  | Brussels, Belgium, February 1968 |
+| DVD2-8 | Apples And Oranges: ‘Vibrato' |
+|  | 'Bouton Rouge’, Paris, France, 20 February 1968: |
+|  | 1968 TV Appearances |
+| DVD2-13 | Paintbox: ‘Discorama’ |
+| DVD2-14 | Instrumental Improvisation: ‘The Sound Of Change' |
+| DVD2-15 | Set The Controls For The Heart Of The Sun: ‘All My Loving’ |
+| DVD2-16 | It Would Be So Nice (Excerpt): ‘Release - Rome Goes Pop’ |
+| DVD2-17 | Interstellar Overdrive: ‘Pop 68’ |
+|  | ‘Tienerklanken – Kastival’, Kasterlee, Belgiu, 31 August 1968 |
+|  | ‘Samedi et Compagnie’, Paris, France, 06 September 1968 |
+|  | 'A L’Affiche du Monde’, London, UK, 1968 |
+| DVD2-22 | Let There Be More Light |
+|  | ‘Tous En Scene’, Paris, France, 21 October 1968 |
+|  | 1968 TV Appearances |
+| DVD2-25 | Let There Be More Light: ‘Surprise Partie' |
+| DVD2-26 | Point Me At The Sky: Restored Promo Video |
+|  | - |
+| DVD2-27 | Credits |
+|  | 1968 Germin/ation BR |
+|  | 'Tienerklanken’, Brussels, Belgium, 18-19 February 1968 |
+|  | Brussels, Belgium, February 1968 |
+| BR2-8 | Apples And Oranges: ‘Vibrato' |
+|  | 'Bouton Rouge’, Paris, France, 20 February 1968 |
+|  | 1968 TV Appearances |
+| BR2-13 | Paintbox: ‘Discorama’ |
+| BR2-14 | Instrumental Improvisation: ‘The Sound Of Change' |
+| BR2-15 | Set The Controls For The Heart Of The Sun: ‘All My Loving’ |
+| BR2-16 | It Would Be So Nice (Excerpt): ‘Release - Rome Goes Pop’ |
+| BR2-17 | Interstellar Overdrive: ‘Pop 68’ |
+|  | ‘Tienerklanken – Kastival’, Kasterlee, Belgiu, 31 August 1968 |
+|  | ‘Samedi et Compagnie’, Paris, France, 06 September 1968 |
+|  | 'A L’Affiche du Monde’, London, UK, 1968 |
+| BR2-22 | Let There Be More Light |
+|  | 'Tous En Scene’, Paris, France, 21 October 1968 |
+|  | 1968 TV Appearances |
+| BR2-25 | Let There Be More Light: ‘Surprise Partie’ |
+| BR2-26 | Point Me At The Sky: Restored Promo Video |
+|  | - |
+| BR2-27 | Credits |
+|  | 1969 Dramatis/ation |
+|  | ‘More’ Album Non-Album Tracks |
+| CD4-1 | Hollywood (Non-Album Track) |
+| CD4-2 | Theme (Beat Version) (Alternative Version) |
+| CD4-3 | More Blues (Alternative Version) |
+| CD4-4 | Seabirds (Non-Album Track) |
+| CD4-5 | Embryo (From ‘Picnic’, Harvest Records Sampler) |
+|  | BBC Radio Session, 12 May 1969: |
+| CD4-6 | Grantchester Meadows |
+| CD4-7 | Cymbaline |
+| CD4-8 | The Narrow Way |
+| CD4-9 | Green Is The Colour / |
+| CD4-10 | Careful With That Axe, Eugene |
+|  | Live At The Paradiso, Amsterdam, 9 August 1969 |
+| CD4-11 | Interstellar Overdrive |
+| CD4-12 | Set The Controls For The Heart Of The Sun |
+| CD4-13 | Careful With That Axe, Eugene |
+| CD4-14 | A Saucerful Of Secrets |
+|  | Part 1: ‘The Man’, Amsterdam, 17 September 1969 |
+| CD5-1 | Daybreak (Grantchester Meadows) |
+| CD5-2 | Work |
+| CD5-3 | Afternoon (Biding My Time) |
+| CD5-4 | Doing It |
+| CD5-5 | Sleeping |
+| CD5-6 | Nightmare (Cymbaline) |
+| CD5-7 | Labyrinth |
+|  | Part 2: ‘The Journey’, Amsterdam, 17 September 1969 |
+| CD5-8 | The Beginning (Green Is The Colour) |
+| CD5-9 | Beset By Creatures Of The Deep (Careful With That Axe, Eugene) |
+| CD5-10 | The Narrow Way, Part 3 |
+| CD5-11 | The Pink Jungle (Pow R. Toc H.) |
+| CD5-12 | The Labyrinths Of Auximines |
+| CD5-13 | Footsteps / Doors |
+| CD5-14 | Behold The Temple Of Light |
+| CD5-15 | The End Of The Beginning (A Saucerful Of Secrets) |
+|  | 1969 Dramatis/ation DVD |
+|  | ‘Forum Musiques’, Paris, France, 22 January 1969 |
+|  | ‘The Man’ And ‘The Journey’, Royal Festival Hall, London, Rehearsal, April 14, 1969 |
+|  | Essener Pop And Blues Festival, Essen, Germany, October 11 1969 |
+|  | Music Power And European Music Revolution, Festival Actuel, Amougies Mont de L’Enclus, Belgium, 25 October 1969 |
+| DVD3-15 | Credits |
+|  | 1969 Dramatis/ation BR |
+|  | ‘Forum Musiques’, Paris, France, 22 January 1969 |
+|  | ‘The Man’ And ‘The Journey’: Royal Festival Hall, London, Rehearsal, April 14, 1969 |
+|  | Essener Pop And Blues Festival, Essen, Germany, October 11 1969 |
+|  | Music Power And European Music Revolution, Festival Actuel, Amougies Mont de L’Enclus, Belgium, 25 October 1969 |
+| BR3-14 | Credits |
+|  | 1970 Devi/ation |
+| CD6-1 | Atom Heart Mother: Live In Montreux, 21 November 1970 |
+|  | BBC Radio Session, 16 July 1970: |
+| CD6-2 | Embryo |
+| CD6-3 | Fat Old Sun |
+| CD6-4 | Green Is The Colour |
+| CD6-5 | Careful With That Axe, Eugene |
+| CD6-6 | If |
+| CD6-7 | Atom Heart Mother (With Choir, Cello And Brass Ensemble) |
+|  | Unreleased Tracks From The ‘Zabriskie Point’ Soundtrack Recordings |
+| CD7-1 | On The Highway |
+| CD7-2 | Auto Scene Version 2 |
+| CD7-3 | Auto Scene Version 3 |
+| CD7-4 | Aeroplane |
+| CD7-5 | Explosion |
+| CD7-6 | The Riot Scene |
+| CD7-7 | Looking At Map |
+| CD7-8 | Love Scene Version 7 |
+| CD7-9 | Love Scene Version 1 |
+| CD7-10 | Take Off |
+| CD7-11 | Take Off Version 2 |
+| CD7-12 | Love Scene Version 2 |
+| CD7-13 | Love Scene (Take 1) |
+| CD7-14 | Unknown Song (Take 1) |
+| CD7-15 | Love Scene (Take 2) |
+| CD7-16 | Crumbling Land (Take 1) |
+|  | Early Studio Version |
+| CD7-17 | Atom Heart Mother: Early Studio Version, Band Only |
+|  | 1970 Devi/ation DVD |
+|  | An Hour With Pink Floyd: KQED, San Francisco, USA, 30 April 1970: |
+| DVD4-1 | Atom Heart Mother |
+| DVD4-2 | Cymbaline |
+| DVD4-3 | Grantchester Meadows |
+| DVD4-4 | Green Is The Colour |
+| DVD4-5 | Careful With That Axe, Eugene |
+| DVD4-6 | Set The Controls For The Heart Of The Sun |
+|  | Atom Heart Mother Album Original 4.0 Quad Mix 1970: |
+| DVD4-7 | Atom Heart Mother |
+| DVD4-8 | If |
+| DVD4-9 | Summer ’68 |
+| DVD4-10 | Fat Old Sun |
+| DVD4-11 | Alan’s Psychedelic Breakfast |
+|  | - |
+| DVD4-12 | Credits |
+|  | Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 1: |
+| DVD5-1 | Cymbaline (Soundcheck) |
+| DVD5-2 | Atom Heart Mother |
+| DVD5-3 | Embryo |
+|  | Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 2: |
+| DVD5-4 | Green Is The Colour |
+| DVD5-5 | Careful With That Axe, Eugene |
+| DVD5-6 | Set The Controls For The Heart Of The Sun |
+|  | Show Roland Petit, Paris, France, 5 December 1970: |
+| DVD5-7 | Instrumental Improvisations 1,2,3 Live In The Studio |
+| DVD5-8 | Embryo |
+|  | Blackhill’s Garden Party, Hyde Park, London, UK, 18 July 1970: |
+| DVD5-9 | Atom Heart Mother With The Philip Jones Brass Ensemble / John Alldis Choir |
+|  | - |
+| DVD5-10 | Credits |
+|  | 1970 Devi/ation BR |
+|  | An Hour With Pink Floyd: KQED, San Francisco, USA, 30 April 1970: |
+| BR4-1 | Atom Heart Mother |
+| BR4-2 | Cymbaline |
+| BR4-3 | Grantchester Meadows |
+| BR4-4 | Green Is The Colour |
+| BR4-5 | Careful With That Axe, Eugene |
+| BR4-6 | Set The Controls For The Heart Of The Sun |
+|  | Atom Heart Mother Album Original 4.0 Quad Mix 1970: |
+| BR4-7 | Atom Heart Mother |
+| BR4-8 | If |
+| BR4-9 | Summer ’68 |
+| BR4-10 | Fat Old Sun |
+| BR4-11 | Alan’s Psychedelic Breakfast |
+|  | ‘Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 1: |
+| BR4-12 | Cymbaline (Soundcheck) |
+| BR4-13 | Atom Heart Mother |
+| BR4-14 | Embryo |
+|  | ‘Pop Deux – Festival de St. Tropez’, France, 8 August 1970: Part 2: |
+| BR4-15 | Green Is The Colour |
+| BR4-16 | Careful With That Axe, Eugene |
+| BR4-17 | Set The Controls For The Heart Of The Sun |
+|  | Show Roland Petit, Paris, France, 5 December 1970: |
+| BR4-18 | Instrumental Improvisations 1,2,3 Live In The Studio |
+| BR4-19 | Embryo |
+|  | Blackhill’s Garden Party, Hyde Park, London, UK, 18 July 1970: |
+| BR4-20 | Atom Heart Mother With The Philip Jones Brass Ensemble / John Alldis Choir |
+|  | - |
+| BR4-21 | Credits |
+|  | 1971 Reverber/ation |
+| CD8-1 | Nothing Part 14 (Echoes Work In Progress) |
+|  | BBC Radio Session, 30 September 1971: |
+| CD8-2 | Fat Old Sun |
+| CD8-3 | One Of These Days |
+| CD8-4 | Embryo |
+| CD8-5 | Echoes |
+|  | 1971 Reverber/ation DVD |
+|  | ‘Aspekte’ Feature: Germany 1971 |
+|  | ‘Cinq Grands Sur La Deux’ Abbaye de Royaumont, Asnierès-sur-Oise, France, 15 June 1971 |
+|  | 'Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |
+| DVD6-5 | Atom Heart Mother (Extract) |
+|  | 'Get To Know', Randwick Race Course, Sydney, Australia, 15 August 1971 |
+|  | ’24 Hours – Bootleg Records’, London, UK, 1971 |
+| DVD6-8 | Documentary Including Pink Floyd And Manager Steve O'Rourke |
+|  | Review’, London, UK, 1971 |
+| DVD6-9 | Storm Thorgerson And Aubrey ‘Po’ Powell |
+| DVD6-10 | One Of These Days (‘French Windows’) |
+|  | ‘Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |
+| DVD6-11 | Atom Heart Mother (Extract, In Colour) |
+|  | ’71 Hakone Aphrodite 15.11 Open Air Festival, Hakone, Japan, 6-7 August 1971 |
+| DVD6-12 | Atom Heart Mother |
+|  | Audio Only |
+| DVD6-13 | Echoes Original 4.0 Quad Mix 1971 |
+|  | - |
+| DVD6-14 | Credits |
+|  | 1971 Reverber/ation BR |
+|  | ‘Aspekte’ Feature Germany 1971 |
+|  | ‘Cinq Grands Sur La Deux' Abbaye de Royaumont, Asnierès-sur-Oise, France, 15 June 1971 |
+|  | 'Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |
+| BR5-5 | Atom Heart Mother (Extract) |
+|  | 'Get To Know', Randwick Race Course, Sydney, Australia, 15 August 1971 |
+|  | ’24 Hours – Bootleg Records’, London, UK, 1971 |
+| BR5-8 | Documentary Including Pink Floyd |
+|  | ‘Review’, London, UK, 1971 |
+| BR5-9 | Storm Thorgerson And Aubrey ‘Po’ Powell |
+| BR5-10 | One Of These Days (‘French Windows’) |
+|  | ‘Musikforum Ossiachersee’, Ossiach, Austria, 1 July 1971 |
+| BR5-11 | Atom Heart Mother (Extract, In Colour) |
+|  | 71 Hakone Aphrodite 15.11 Open Air Festival, Hakone, Japan, |
+| BR5-12 | Atom Heart Mother |
+|  | Audio Only |
+| BR5-13 | Echoes Original 4.0 Quad Mix 1971 |
+|  | - |
+| BR5-14 | Credits |
+|  | 1972 Obfusc/ation |
+|  | Live In Pompeii (Stereo 2016 Mix) |
+| CD9-1 | Careful With That Axe, Eugene |
+| CD9-2 | Set The Controls For The Heart Of The Sun |
+| CD9-3 | One Of These Days |
+| CD9-4 | A Saucerful Of Secrets |
+| CD9-5 | Echoes |
+| CD9-6 | Careful With That Axe, Eugene (Alternate Take) |
+|  | 1972 Obfusc/ation DVD |
+|  | Recording Obscured By Clouds, Château D’Hérouville, France, 23-29 February 1972 |
+| DVD7-1 | Wot’s… Uh The Deal: With Recording Session Photos |
+| DVD7-2 | Pop Deux: Documentary Recording Obscured By Clouds |
+|  | Brighton Dome, UK, 29 June 1972 |
+|  | Roland Petit Pink Floyd Ballet, France, News Reports 1972-73 |
+| DVD7-5 | Actualités Méditerranée, Marseille, 22 November 1972 |
+| DVD7-6 | Jt Nuit – Les Pink Floyd, Marseille, 26 November 1972 |
+| DVD7-7 | Jt 20h - Pink Floyd, Paris, 12 January 1973 |
+| DVD7-8 | Journal de Paris – Les Pink Floyd, Paris, 12 January 1973 |
+|  | Poitiers – Autour Du Passage Des Pink Floyd |
+| DVD7-9 | Concert Set Up News Report – France, 29 November 1972 |
+|  | Live At Pompeii (With 2016 5.1 Audio Remix) |
+| DVD7-10 | Careful With That Axe, Eugene |
+| DVD7-11 | A Saucerful Of Secrets |
+| DVD7-12 | One Of These Days |
+| DVD7-13 | Set The Controls For The Heart Of The Sun |
+| DVD7-14 | Echoes |
+|  | - |
+| DVD7-15 | Credits |
+|  | 1972 Obfusc/ation BR |
+|  | Recording Obscured By Clouds, Château D’Hérouville, France, 23-29 February 1972 |
+| BR6-1 | Wot’s…Uh The Deal: With Recording Session Photos |
+| BR6-2 | Pop Deux: Documentary Recording Obscured By Clouds |
+|  | Brighton Dome, UK, 29 June 1972 |
+|  | Roland Petit Pink Floyd Ballet, France, News Reports 1972-73 |
+| BR6-5 | Actualités Méditerranée, Marseille, 22 November 1972 |
+| BR6-6 | Jt Nuit – Les Pink Floyd, Marseille, 26 November 1972 |
+| BR6-7 | Jt 20h - Pink Floyd, Paris, 12 January 1973 |
+| BR6-8 | Journal de Paris – Les Pink Floyd, Paris, 12 January 1973 |
+|  | Poitiers – Autour Du Passage Des Pink Floyd |
+| BR6-9 | Concert Set Up News Report – France, 29 November 1972 |
+|  | Live At Pompeii ( With 2016 5.1 Audio Remix) |
+| BR6-10 | Careful With That Axe, Eugene |
+| BR6-11 | A Saucerful Of Secrets |
+| BR6-12 | One Of These Days |
+| BR6-13 | Set The Controls For The Heart Of The Sun |
+| BR6-14 | Echoes |
+|  | - |
+| BR6-15 | Credits |
+|  | Bonus Continu/ation |
+|  | BBC Radio Session, 25 September 1967: |
+| CD10-1 | Flaming |
+| CD10-2 | The Scarecrow |
+| CD10-3 | The Gnome |
+| CD10-4 | Matilda Mother |
+| CD10-5 | Reaction In G |
+| CD10-6 | Set The Controls For The Heart Of The Sun |
+|  | BBC Radio Session, 20 December 1967: |
+| CD10-7 | Scream Thy Last Scream |
+| CD10-8 | Vegetable Man |
+| CD10-9 | Pow R. Toc H. |
+| CD10-10 | Jugband Blues |
+|  | BBC Radio Session, 2 December 1968: |
+| CD10-11 | Baby Blue Shuffle In D Major |
+| CD10-12 | Blues |
+|  | Other Recordings |
+| CD10-13 | US Radio Ad |
+| CD10-14 | Music From The Committee No. 1 |
+| CD10-15 | Music From The Committee No. 2 |
+|  | Live On 1969 BBC TV Moon Landings Broadcast |
+| CD10-16 | Moonhead |
+|  | Live At Wembley 1974 |
+| CD10-17 | Echoes |
+|  | Bonus Continu/ation DVD |
+|  | Hampstead Heath And St. Michael’s Church, Highgate, London, UK, March 1967 |
+| DVD8-1 | Arnold Layne (Alternative Version) |
+|  | ‘P1 – P Wie Petersilie’ Stuggart, Germany, 22 July 1969 |
+|  | Bath Festival Of Blues & Progressive Music’, Shepton Mallet, UK, 27 June 1970 |
+| DVD8-5 | Atom Heart Mother |
+|  | 'Kralingen Music Festival’  Rotterdam, The Netherlands, 28 June 1970 |
+|  | ‘The Amsterdam Rock Circus’ Amsterdam, The Netherlands, 22 May 1972 |
+|  | Feature Film |
+| DVD8-11 | The Committee |
+|  | - |
+| DVD8-12 | Credits |
+| DVD9-1 | More |
+| DVD9-2 | ‘La Vallée’ (Obscured By Clouds) |
+|  | Bonus Continu/ation BR |
+|  | Hampstead Heath And St. Michael’s Church, Highgate, London, UK, March 1967 |
+| BR7-1 | Arnold Layne (Alternative Version) |
+|  | ‘P1 – P Wie Petersilie’ Stuggart, Germany, 22 July 1969 |
+|  | Bath Festival Of Blues & Progressive Music’, Shepton Mallet, UK, 27 June 1970 |
+| BR7-5 | Atom Heart Mother |
+|  | 'Kralingen Music Festival’  Rotterdam, The Netherlands, 28 June 1970 |
+|  | ‘The Amsterdam Rock Circus’ Amsterdam, The Netherlands, 22 May 1972 |
+|  | Feature Film |
+| BR7-11 | The Committee |
+|  | - |
+| BR7-12 | Credits |
+| BR8-1 | More |
+| BR8-2 | ‘La Vallée’ (Obscured By Clouds) |
+|  | Arnold Layne |
+| A | Arnold Layne |
+| B | Candy And A Currant Bun |
+|  | See Emily Play |
+| C | See Emily Play |
+| D | The Scarecrow |
+|  | Apples And Oranges |
+| E | Apples And Oranges |
+| F | Paintbox |
+|  | It Would Be So Nice |
+| G | It Would Be So Nice |
+| H | Julia Dream |
+|  | Point Me At The Sky |
+| I | Point Me At The Sky |
+| J | Careful With That Axe, Eugene |
+|  | Obscured By Clouds (2016 Remix) (Replacement CD Disc For Obfusc/ation) |
+| CD11-1 | Obscured By Clouds |
+| CD11-2 | When You're In |
+| CD11-3 | Burning Bridges  |
+| CD11-4 | The Gold It's In The... |
+| CD11-5 | Wot's...Uh The Deal |
+| CD11-6 | Mudmen |
+| CD11-7 | Childhood's End |
+| CD11-8 | Free Four |
+| CD11-9 | Stay |
+| CD11-10 | Absolutely Curtains |
 
 
 ## Apple Music
@@ -572,5 +572,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Box Set Compilation Limited Edition, CD Stereo Mono, CD Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD 2× Stereo, DVD DVD-Video NTSC Stereo, Blu-ray Stereo, CD 2× Stereo, DVD DVD-Video NTSC Album Stereo Quadraphonic, DVD DVD-Video NTSC Stereo, Blu-ray Album Stereo Quadraphonic, CD Stereo, DVD DVD-Video NTSC Stereo Quadraphonic, Blu-ray Stereo Quadraphonic, CD Stereo, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Stereo Multichannel, CD Stereo, DVD 2× DVD-Video NTSC Stereo, Blu-ray 2× Stereo, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, Vinyl 7" Single Reissue, CD Album Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | 0190295950255 |
-| Notes | Made in the EU.<br>CONTINU/ATION is exclusive to the box set, as are the larger memorabilia items, which are reproduced in actual size for the box.<br>The package contain more than 100 photographs of Pink Floyd; the majority of which are previously unseen, as well as more than 40 items of memorabilia in special wallets. <br>In addition, Pink Floyd's first five UK singles have been included in the box, on 7" vinyl with replica sleeves:<br>PFREYS1 - Arnold Layne,<br>PFREYS2 - See Emily Play,<br>PFREYS3 - Apples And Oranges,<br>PFREYS4 - It Would Be So Nice,<br>PFREYS5 - Point me at the Sky.<br>It is noted that BR5 has a copy of the the whole 'Meddle' Album in 5.1 and a new stereo mix.<br>This is not accessable through the menu as an Easter egg, but can be accessed using Blu ray editing software.<br>As this is not officially available, I have not noted the contents on the disc.<br><br>In France, letter included in the box :<br>Dear fan,<br>the CD 1972 Obfusc/ation PFREY6 present in your boxset "The Early Years" presents an error of production: the recording STEREO 2016 MIX of PINK FLOYD "Live At Pompeii" was reproduced instead of the announced recording Obscured By Clouds 2016 Remix. <br>You will find attached a CD 1972 Obfusc/ation PFREY6 of replacement corresponding to the original tracklisting.<br>Thank you for understanding<br><br>Post release Pink Floyd Records/Warner Music issued corrected Blu Ray discs for "1972: Obfusc/ation" & "1967-1972 Continu/ation" to those who filed online for replacements. Parlophone cited errors in the discs playability. Replacements were mailed sealed in slimline CD single jewel cases:<br><br>“Following reported problems from fans, a small batch of faulty Blu-ray discs from the Early Years 1965-1972 box set have been identified: the 1972 ‘Obfusc/ation’ Blu-ray and bonus package ‘Continu/ation’ Blu-ray 1.<br><br>A disc replacement service has now been set up via fulfilment house Docdata. Purchasers with a non-playing copy of PFREY6BD or PREFY7BD1 should contact them at customerserviceteam@warnermusic.com and they will arrange a replacement disc.<br><br>We apologize for the inconvenience and stress that this may have caused to box purchasers, although we have ascertained that this unavoidable damage could not have been predicted.”<br><br>The printed duration of tracks DVD4-11 and BR4-11 "Alan’s Psychedelic Breakfast" (quad mix)  is 13:01. However on DVD and BD the actual track durations are only 11:58 / 11:59. The last minute of the tracks has been cut out for some reason. |
+| Notes | Made in the EU. CONTINU/ATION is exclusive to the box set, as are the larger memorabilia items, which are reproduced in actual size for the box. The package contain more than 100 photographs of Pink Floyd; the majority of which are previously unseen, as well as more than 40 items of memorabilia in special wallets.  In addition, Pink Floyd's first five UK singles have been included in the box, on 7" vinyl with replica sleeves: PFREYS1 - Arnold Layne, PFREYS2 - See Emily Play, PFREYS3 - Apples And Oranges, PFREYS4 - It Would Be So Nice, PFREYS5 - Point me at the Sky. It is noted that BR5 has a copy of the the whole 'Meddle' Album in 5.1 and a new stereo mix. This is not accessable through the menu as an Easter egg, but can be accessed using Blu ray editing software. As this is not officially available, I have not noted the contents on the disc.  In France, letter included in the box : Dear fan, the CD 1972 Obfusc/ation PFREY6 present in your boxset "The Early Years" presents an error of production: the recording STEREO 2016 MIX of PINK FLOYD "Live At Pompeii" was reproduced instead of the announced recording Obscured By Clouds 2016 Remix.  You will find attached a CD 1972 Obfusc/ation PFREY6 of replacement corresponding to the original tracklisting. Thank you for understanding  Post release Pink Floyd Records/Warner Music issued corrected Blu Ray discs for "1972: Obfusc/ation" & "1967-1972 Continu/ation" to those who filed online for replacements. Parlophone cited errors in the discs playability. Replacements were mailed sealed in slimline CD single jewel cases:  “Following reported problems from fans, a small batch of faulty Blu-ray discs from the Early Years 1965-1972 box set have been identified: the 1972 ‘Obfusc/ation’ Blu-ray and bonus package ‘Continu/ation’ Blu-ray 1.  A disc replacement service has now been set up via fulfilment house Docdata. Purchasers with a non-playing copy of PFREY6BD or PREFY7BD1 should contact them at customerserviceteam@warnermusic.com and they will arrange a replacement disc.  We apologize for the inconvenience and stress that this may have caused to box purchasers, although we have ascertained that this unavoidable damage could not have been predicted.”  The printed duration of tracks DVD4-11 and BR4-11 "Alan’s Psychedelic Breakfast" (quad mix)  is 13:01. However on DVD and BD the actual track durations are only 11:58 / 11:59. The last minute of the tracks has been cut out for some reason. |
 | Discogs URL    | [Pink Floyd - The Early Years 1965-1972](https://www.discogs.com/release/9218307-Pink-Floyd-The-Early-Years-1965-1972) |

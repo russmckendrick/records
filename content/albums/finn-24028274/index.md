@@ -35,32 +35,32 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Finn |  |
-| A1 | Only Talking Sense |  |
-| A2 | Eyes Of The World |  |
-| A3 | Mood Swinging Man |  |
-| A4 | Last Day Of June |  |
-| A5 | Suffer Never |  |
-| A6 | Angel's Heap |  |
-| B1 | Niwhai |  |
-| B2 | Where Is My Soul |  |
-| B3 | Bullets In My Hairdo |  |
-| B4 | Paradise (Wherever You Are) |  |
-| B5 | Kiss The Road Of Rarotonga |  |
-|  | Finn Demos |  |
-| C1 | Catherine Wheels (Demo) |  |
-| C2 | Prodigal Son (Demo) |  |
-| C3 | Four-Stepping In 3/4 Time (Demo) |  |
-| C4 | There Goes God (Demo) |  |
-| C5 | It's Only Natural (Demo) |  |
-| D1 | Weather With You (Demo) |  |
-| D2 | Strangeness And Charm (Demo) |  |
-| D3 | Four Seasons In One Day (Demo) |  |
-| D4 | In Love With It All (Demo) |  |
-| D5 | How Will You Go (Demo) |  |
-| D6 | Weather With You (End Piece) |  |
+| Position | Title |
+|----------|--------|
+|  | Finn |
+| A1 | Only Talking Sense |
+| A2 | Eyes Of The World |
+| A3 | Mood Swinging Man |
+| A4 | Last Day Of June |
+| A5 | Suffer Never |
+| A6 | Angel's Heap |
+| B1 | Niwhai |
+| B2 | Where Is My Soul |
+| B3 | Bullets In My Hairdo |
+| B4 | Paradise (Wherever You Are) |
+| B5 | Kiss The Road Of Rarotonga |
+|  | Finn Demos |
+| C1 | Catherine Wheels (Demo) |
+| C2 | Prodigal Son (Demo) |
+| C3 | Four-Stepping In 3/4 Time (Demo) |
+| C4 | There Goes God (Demo) |
+| C5 | It's Only Natural (Demo) |
+| D1 | Weather With You (Demo) |
+| D2 | Strangeness And Charm (Demo) |
+| D3 | Four Seasons In One Day (Demo) |
+| D4 | In Love With It All (Demo) |
+| D5 | How Will You Go (Demo) |
+| D6 | Weather With You (End Piece) |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Compilation Deluxe Edition Stereo |
 | Label          | [{'name': 'Needle Mythology', 'catno': ''}] |
 | Catalog Number | NEMYLP006 |
-| Notes | Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95. <br>This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd. <br>Initial quantity from artist website included a cover print signed by Neil and Tim Finn.<br><br>Track D6 is unlisted. Title for track taken from [r18754873]. |
+| Notes | Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873]. |
 | Discogs URL    | [The Finn Brothers - Finn](https://www.discogs.com/release/24028274-The-Finn-Brothers-Finn) |

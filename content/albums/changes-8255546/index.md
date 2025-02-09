@@ -31,19 +31,19 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | God Bless America |  |
-| A2 | Good To Be Back Home |  |
-| A3 | Nobody But You |  |
-| A4 | Ain't Gonna Give Up |  |
-| A5 | Changes |  |
-| A6 | Ain't It A Sin |  |
-| B1 | Things We Do For Love |  |
-| B2 | Crazy For Your Love |  |
-| B3 | You Think I Don't Know (But I Know) |  |
-| B4 | Change For The World |  |
-| B5 | Slow Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | God Bless America |
+| A2 | Good To Be Back Home |
+| A3 | Nobody But You |
+| A4 | Ain't Gonna Give Up |
+| A5 | Changes |
+| A6 | Ain't It A Sin |
+| B1 | Things We Do For Love |
+| B2 | Crazy For Your Love |
+| B3 | You Think I Don't Know (But I Know) |
+| B4 | Change For The World |
+| B5 | Slow Love |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 | Format         | Vinyl LP Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1005 |
-| Notes | Includes [url=http://www.discogs.com/release/9023062]download card[/url]. <br><br>Some with hype sticker on shrink wrap of new copies. |
+| Notes | Includes [url=http://www.discogs.com/release/9023062]download card[/url].   Some with hype sticker on shrink wrap of new copies. |
 | Discogs URL    | [Charles Bradley - Changes](https://www.discogs.com/release/8255546-Charles-Bradley-Changes) |

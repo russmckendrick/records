@@ -32,23 +32,23 @@ Time's Up is the second studio album by the band Living Colour, released on Augu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Time's Up | 3:06 |
-| A2 | History Lesson | 0:54 |
-| A3 | Pride | 5:08 |
-| A4 | Love Rears Its Ugly Head | 4:19 |
-| A5 | New Jack Theme | 3:30 |
-| A6 | Someone Like You | 3:52 |
-| A7 | Elvis Is Dead | 3:51 |
-| A8 | Type | 5:33 |
-| B1 | Information Overload | 6:12 |
-| B2 | Under Cover Of Darkness | 4:18 |
-| B3 | Ology1 | 1:19 |
-| B4 | Fight The Fight | 4:34 |
-| B5 | Tag Team Partners | 0:52 |
-| B6 | Solace Of You | 3:38 |
-| B7 | This Is The Life | 6:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Time's Up |
+| A2 | History Lesson |
+| A3 | Pride |
+| A4 | Love Rears Its Ugly Head |
+| A5 | New Jack Theme |
+| A6 | Someone Like You |
+| A7 | Elvis Is Dead |
+| A8 | Type |
+| B1 | Information Overload |
+| B2 | Under Cover Of Darkness |
+| B3 | Ology1 |
+| B4 | Fight The Fight |
+| B5 | Tag Team Partners |
+| B6 | Solace Of You |
+| B7 | This Is The Life |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Time's Up is the second studio album by the band Living Colour, released on Augu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Epic |
 | Catalog Number | 466920 1 |
-| Notes | Issued with printed inner sleeve with lyrics, picture of band members on one side and credits on the opposite.<br>Runouts etched. Last A stamped as Λ. |
+| Notes | Issued with printed inner sleeve with lyrics, picture of band members on one side and credits on the opposite. Runouts etched. Last A stamped as Λ. |
 | Discogs URL    | [Living Colour - Time's Up](https://www.discogs.com/release/313923-Living-Colour-Times-Up) |

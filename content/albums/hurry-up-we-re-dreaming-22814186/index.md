@@ -38,30 +38,30 @@ The album received generally favourable reviews from critics. It debuted at numb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Midnight City |  |
-| A3 | Reunion |  |
-| A4 | Where The Boats Go |  |
-| A5 | Wait |  |
-| B1 | Raconte-Moi Une Histoire |  |
-| B2 | Train To Pluton |  |
-| B3 | Claudia Lewis |  |
-| B4 | This Bright Flash |  |
-| B5 | When Will You Come Home? |  |
-| B6 | Soon, My Friend |  |
-| C1 | My Tears Are Becoming A Sea |  |
-| C2 | New Map |  |
-| C3 | OK Pal |  |
-| C4 | Another Wave From You |  |
-| C5 | Splendor |  |
-| D1 | Year One, One UFO |  |
-| D2 | Fountains |  |
-| D3 | Steve McQueen |  |
-| D4 | Echoes Of Mine |  |
-| D5 | Klaus I Love You |  |
-| D6 | Outro |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Midnight City |
+| A3 | Reunion |
+| A4 | Where The Boats Go |
+| A5 | Wait |
+| B1 | Raconte-Moi Une Histoire |
+| B2 | Train To Pluton |
+| B3 | Claudia Lewis |
+| B4 | This Bright Flash |
+| B5 | When Will You Come Home? |
+| B6 | Soon, My Friend |
+| C1 | My Tears Are Becoming A Sea |
+| C2 | New Map |
+| C3 | OK Pal |
+| C4 | Another Wave From You |
+| C5 | Splendor |
+| D1 | Year One, One UFO |
+| D2 | Fountains |
+| D3 | Steve McQueen |
+| D4 | Echoes Of Mine |
+| D5 | Klaus I Love You |
+| D6 | Outro |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The album received generally favourable reviews from critics. It debuted at numb
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange, 10th Anniversary) |
 | Label          | Mute |
 | Catalog Number | M7571 |
-| Notes | 10 year anniversary edition with alternate artwork.<br><br>724596951071 is the UPC of this release.<br>The other is the generic UPC of the black pressing of the release. |
+| Notes | 10 year anniversary edition with alternate artwork.  724596951071 is the UPC of this release. The other is the generic UPC of the black pressing of the release. |
 | Discogs URL    | [M83 - Hurry Up, We're Dreaming.](https://www.discogs.com/release/22814186-M83-Hurry-Up-Were-Dreaming) |

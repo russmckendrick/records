@@ -32,23 +32,23 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | To All The Girls | 1:29 |
-| A2 | Shake Your Rump | 3:19 |
-| A3 | Johnny Ryall | 3:00 |
-| A4 | Egg Man | 2:57 |
-| A5 | High Plains Drifter | 4:13 |
-| A6 | The Sounds Of Science | 3:11 |
-| A7 | 3-Minute Rule | 3:39 |
-| A8 | Hey Ladies | 3:47 |
-| B1 | 5-Piece Chicken Dinner | 0:23 |
-| B2 | Looking Down The Barrel Of A Gun | 3:28 |
-| B3 | Car Thief | 3:39 |
-| B4 | What Comes Around | 3:07 |
-| B5 | Shadrach | 4:07 |
-| B6 | Ask For Janice | 0:11 |
-|  | B-Boy Bouillabaisse | 12:34 |
+| Position | Title |
+|----------|--------|
+| A1 | To All The Girls |
+| A2 | Shake Your Rump |
+| A3 | Johnny Ryall |
+| A4 | Egg Man |
+| A5 | High Plains Drifter |
+| A6 | The Sounds Of Science |
+| A7 | 3-Minute Rule |
+| A8 | Hey Ladies |
+| B1 | 5-Piece Chicken Dinner |
+| B2 | Looking Down The Barrel Of A Gun |
+| B3 | Car Thief |
+| B4 | What Comes Around |
+| B5 | Shadrach |
+| B6 | Ask For Janice |
+|  | B-Boy Bouillabaisse |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 | Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | 00602577057847 |
-| Notes | Remastered by Beastie Boys<br>and Chris Athens<br>at Sterling Sound, NYC |
+| Notes | Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC |
 | Discogs URL    | [Beastie Boys - Paul's Boutique](https://www.discogs.com/release/12872158-Beastie-Boys-Pauls-Boutique) |

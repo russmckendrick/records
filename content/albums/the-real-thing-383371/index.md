@@ -33,17 +33,17 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | From Out Of Nowhere | 3:19 |
-| A2 | Epic | 4:51 |
-| A3 | Falling To Pieces | 5:12 |
-| A4 | Surprise! You're Dead! | 2:26 |
-| A5 | Zombie Eaters | 5:57 |
-| B1 | The Real Thing | 8:10 |
-| B2 | Underwater Love | 3:50 |
-| B3 | The Morning After | 3:40 |
-| B4 | Woodpecker From Mars | 5:38 |
+| Position | Title |
+|----------|--------|
+| A1 | From Out Of Nowhere |
+| A2 | Epic |
+| A3 | Falling To Pieces |
+| A4 | Surprise! You're Dead! |
+| A5 | Zombie Eaters |
+| B1 | The Real Thing |
+| B2 | Underwater Love |
+| B3 | The Morning After |
+| B4 | Woodpecker From Mars |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 | Format         | Vinyl LP Album Stereo |
 | Label          | London American Recordings |
 | Catalog Number | 828 154-1 |
-| Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.<br><br>This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.<br><br>Includes a printed inner sleeve with graphics, photographs and credits.<br><br>Recorded December 1988 at Studio D, Sausalito, CA.<br>Mixed January 1989 at Blue Canyon, Studio City, CA.<br>Mastered at K-Disc, Los Angeles, CA.<br><br>Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.<br><br>℗ 1989 Slash Records<br>© 1989 Slash Records<br> |
+| Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.    This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.    Includes a printed inner sleeve with graphics, photographs and credits.    Recorded December 1988 at Studio D, Sausalito, CA.  Mixed January 1989 at Blue Canyon, Studio City, CA.  Mastered at K-Disc, Los Angeles, CA.    Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.    ℗ 1989 Slash Records  © 1989 Slash Records   |
 | Discogs URL    | [Faith No More - The Real Thing](https://www.discogs.com/release/383371-Faith-No-More-The-Real-Thing) |

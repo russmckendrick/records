@@ -43,22 +43,22 @@ The release of the physical formats was delayed because of the COVID-19 pandemic
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All That |  |
-| A2 | I'm Toast |  |
-| A3 | Lawnmower |  |
-| A4 | Sainthood Is Not In Your Future |  |
-| B1 | Pacific Standard Time |  |
-| B2 | Stravinsky's Only Hit |  |
-| B3 | Left Out In The Cold |  |
-| C1 | Self-Effacing |  |
-| C2 | One For The Ages |  |
-| C3 | Onomato Pia |  |
-| D1 | iPhone |  |
-| D2 | The Existential Threat |  |
-| D3 | Nothing Travels Faster Than The Speed Of Light |  |
-| D4 | Please Don't Fuck Up My World |  |
+| Position | Title |
+|----------|--------|
+| A1 | All That |
+| A2 | I'm Toast |
+| A3 | Lawnmower |
+| A4 | Sainthood Is Not In Your Future |
+| B1 | Pacific Standard Time |
+| B2 | Stravinsky's Only Hit |
+| B3 | Left Out In The Cold |
+| C1 | Self-Effacing |
+| C2 | One For The Ages |
+| C3 | Onomato Pia |
+| D1 | iPhone |
+| D2 | The Existential Threat |
+| D3 | Nothing Travels Faster Than The Speed Of Light |
+| D4 | Please Don't Fuck Up My World |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ The release of the physical formats was delayed because of the COVID-19 pandemic
 | Format         | Vinyl LP 45 RPM (Blue, 180g), Vinyl LP 45 RPM (Purple, 180g), All Media Album Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538603240 |
-| Notes | Includes exclusive poster.<br><br>Gatefold sleeve |
+| Notes | Includes exclusive poster.  Gatefold sleeve |
 | Discogs URL    | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625-Sparks-A-Steady-Drip-Drip-Drip) |

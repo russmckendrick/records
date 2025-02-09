@@ -39,17 +39,17 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Safe From Harm | 5:16 |
-| A2 | One Love | 4:48 |
-| A3 | Blue Lines | 4:21 |
-| A4 | Be Thankful For What You've Got | 4:09 |
-| A5 | Five Man Army | 6:04 |
-| B1 | Unfinished Sympathy | 5:08 |
-| B2 | Daydreaming | 4:14 |
-| B3 | Lately | 4:26 |
-| B4 | Hymn Of The Big Wheel | 6:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Safe From Harm |
+| A2 | One Love |
+| A3 | Blue Lines |
+| A4 | Be Thankful For What You've Got |
+| A5 | Five Man Army |
+| B1 | Unfinished Sympathy |
+| B2 | Daydreaming |
+| B3 | Lately |
+| B4 | Hymn Of The Big Wheel |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 | Format         | Vinyl LP Album Reissue Stereo (180 gram) |
 | Label          | Wild Bunch Records |
 | Catalog Number | 5700960 |
-| Notes | Comes with a printed inner sleeve with lyrics, credits and photos.<br>Some copies came with a download card.<br><br>On labels:<br>Made in EU |
+| Notes | Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU |
 | Discogs URL    | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778-Massive-Attack-Blue-Lines) |

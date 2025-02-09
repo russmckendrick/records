@@ -32,22 +32,22 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | G |  |
-| G1 | Welcome To The Jungle | 4:31 |
-| G2 | It's So Easy | 3:21 |
-| G3 | Nightrain | 4:26 |
-| G4 | Out Ta Get Me | 4:20 |
-| G5 | Mr. Brownstone | 3:46 |
-| G6 | Paradise City | 6:46 |
-|  | R |  |
-| R1 | My Michelle | 3:39 |
-| R2 | Think About You | 3:50 |
-| R3 | Sweet Child O' Mine | 5:55 |
-| R4 | You're Crazy | 3:15 |
-| R5 | Anything Goes | 3:25 |
-| R6 | Rocket Queen | 6:13 |
+| Position | Title |
+|----------|--------|
+|  | G |
+| G1 | Welcome To The Jungle |
+| G2 | It's So Easy |
+| G3 | Nightrain |
+| G4 | Out Ta Get Me |
+| G5 | Mr. Brownstone |
+| G6 | Paradise City |
+|  | R |
+| R1 | My Michelle |
+| R2 | Think About You |
+| R3 | Sweet Child O' Mine |
+| R4 | You're Crazy |
+| R5 | Anything Goes |
+| R6 | Rocket Queen |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00720642414811 |
-| Notes | Made in the EU. Universal International Music<br>BVGerrit van der veenlaan4, 3743 DN,<br>Baarn, Netherlands.<br><br>Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it. <br>A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |
+| Notes | Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |
 | Discogs URL    | [Guns N Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |

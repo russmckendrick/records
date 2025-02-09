@@ -34,18 +34,18 @@ Moon Safari was acclaimed by critics. It is credited with setting the stage for 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | La Femme D'Argent | 7:08 |
-| A2 | Sexy Boy | 4:57 |
-| A3 | All I Need | 4:28 |
-| A4 | Kelly Watch The Stars | 3:44 |
-| B1 | Talisman | 4:16 |
-| B2 | Remember | 2:34 |
-| B3 | You Make It Easy | 4:00 |
-| B4 | Ce Matin La | 3:38 |
-| B5 | New Star In The Sky | 5:38 |
-| B6 | Le Voyage De Penelope | 3:10 |
+| Position | Title |
+|----------|--------|
+| A1 | La Femme D'Argent |
+| A2 | Sexy Boy |
+| A3 | All I Need |
+| A4 | Kelly Watch The Stars |
+| B1 | Talisman |
+| B2 | Remember |
+| B3 | You Make It Easy |
+| B4 | Ce Matin La |
+| B5 | New Star In The Sky |
+| B6 | Le Voyage De Penelope |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Moon Safari was acclaimed by critics. It is credited with setting the stage for 
 | Format         | Vinyl LP Album |
 | Label          | Source |
 | Catalog Number | 7243 8 44978 1 1 |
-| Notes | Includes printed inner sleeve<br>Besides being a different mastering, this issue has slightly different label and back cover design compared to the other [url=http://www.discogs.com/release/412038]European edition[/url]<br><br>Enregistré par Jean-Benoît Dunckel et Nicolas Godin au studio "Around the Golf" at par Stéphane "Alf" Briat au studio Gang (Paris, assisté de Jérôme Kerner) [Recorded by Jean-Benoît Dunckel and Nicolas Godin at "Around the Golf" and by Stéphane "Alf" Briat at Studio Gang (Paris, assisted by Jérôme Kerner.)]<br><br>Cordes enregistrées á Abbey Road Studios (Londres) [...]. [Strings recorded at Abbey Road Studios (London).]<br><br>Mixé [...] aux studios Plus XXX  (Paris [...]). [Mixed at Plus XXX Studios (Paris).]<br>Masterisé [...] à The Exchange (Londres). [Mastering at The Exchange (London)]<br><br>Revolvair [Logo]<br>MCA [Logo]<br>Delabel Editions [Logo]<br>Source [Logo]<br>Virgin [Logo]<br><br>Editions pour la France & la Belgique :<br>Revolvair / Delabel Editions sauf A3 & B3<br>Revolvair / Delabel Editions / Polygram Editions<br><br>Editions pour le reste du monde :<br>Revolvair / MCA Publishing sauf A3 & B3<br>Revolvair / MCA Publishing / Polygram Editions<br><br>© 1998 Virgin France S.A.<br><br>(P) & (C) Source 1998<br><br>Printed in the EU.<br><br>Made in the EU. |
+| Notes | Includes printed inner sleeve Besides being a different mastering, this issue has slightly different label and back cover design compared to the other [url=http://www.discogs.com/release/412038]European edition[/url]  Enregistré par Jean-Benoît Dunckel et Nicolas Godin au studio "Around the Golf" at par Stéphane "Alf" Briat au studio Gang (Paris, assisté de Jérôme Kerner) [Recorded by Jean-Benoît Dunckel and Nicolas Godin at "Around the Golf" and by Stéphane "Alf" Briat at Studio Gang (Paris, assisted by Jérôme Kerner.)]  Cordes enregistrées á Abbey Road Studios (Londres) [...]. [Strings recorded at Abbey Road Studios (London).]  Mixé [...] aux studios Plus XXX  (Paris [...]). [Mixed at Plus XXX Studios (Paris).] Masterisé [...] à The Exchange (Londres). [Mastering at The Exchange (London)]  Revolvair [Logo] MCA [Logo] Delabel Editions [Logo] Source [Logo] Virgin [Logo]  Editions pour la France & la Belgique : Revolvair / Delabel Editions sauf A3 & B3 Revolvair / Delabel Editions / Polygram Editions  Editions pour le reste du monde : Revolvair / MCA Publishing sauf A3 & B3 Revolvair / MCA Publishing / Polygram Editions  © 1998 Virgin France S.A.  (P) & (C) Source 1998  Printed in the EU.  Made in the EU. |
 | Discogs URL    | [AIR - Moon Safari](https://www.discogs.com/release/2798033-AIR-French-Band-Moon-Safari) |

@@ -38,31 +38,31 @@ Star Trek II: The Wrath of Khan is a 1982 science fiction film directed by Nicho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Main Title | 3:03 |
-| A2 | Surprise on Ceti Alpha V | 0:45 |
-| A3 | Khan's Pets | 4:19 |
-| A4 | The Eels of Ceti Alpha V / Kirk in Space Shuttle | 3:53 |
-| A5 | Enterprise Clears Moorings | 3:33 |
-| A6 | Chekov Lies | 0:40 |
-| A7 | Spock | 1:12 |
-| A8 | Kirk Takes Command / He Tasks Me | 2:07 |
-| B1 | Genesis Project | 3:16 |
-| B2 | Surprise Attack | 5:07 |
-| B3 | Kirk's Explosive Reply | 4:01 |
-| B4 | Inside Regula I | 1:35 |
-| B5 | Brainwashed | 1:24 |
-| B6 | Captain Terrell's Death | 1:58 |
-| B7 | Buried Alive | 0:57 |
-| B8 | The Genesis Cave | 1:09 |
-| C1 | Battle In The Mutara Nebula | 8:07 |
-| C2 | Enterprise Attacks Reliant | 1:29 |
-| C3 | Genesis Countdown | 6:34 |
-| C4 | Spock (Dies) | 1:53 |
-| C5 | Amazing Grace | 1:26 |
-| D1 | Epilogue / End Title | 8:41 |
-| D2 | Epilogue (Original Version) / End Title | 7:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Main Title |
+| A2 | Surprise on Ceti Alpha V |
+| A3 | Khan's Pets |
+| A4 | The Eels of Ceti Alpha V / Kirk in Space Shuttle |
+| A5 | Enterprise Clears Moorings |
+| A6 | Chekov Lies |
+| A7 | Spock |
+| A8 | Kirk Takes Command / He Tasks Me |
+| B1 | Genesis Project |
+| B2 | Surprise Attack |
+| B3 | Kirk's Explosive Reply |
+| B4 | Inside Regula I |
+| B5 | Brainwashed |
+| B6 | Captain Terrell's Death |
+| B7 | Buried Alive |
+| B8 | The Genesis Cave |
+| C1 | Battle In The Mutara Nebula |
+| C2 | Enterprise Attacks Reliant |
+| C3 | Genesis Countdown |
+| C4 | Spock (Dies) |
+| C5 | Amazing Grace |
+| D1 | Epilogue / End Title |
+| D2 | Epilogue (Original Version) / End Title |
 
 
 ## Apple Music

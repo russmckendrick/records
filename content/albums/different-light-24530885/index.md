@@ -33,20 +33,20 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Manic Monday | 3:03 |
-| A2 | In A Different Light | 2:50 |
-| A3 | Walking Down Your Street | 3:02 |
-| A4 | Walk Like An Egyptian | 3:21 |
-| A5 | Standing In The Hallway | 2:53 |
-| A6 | Return Post | 4:19 |
-| B1 | If She Knew What She Wants | 3:47 |
-| B2 | Let It Go | 2:28 |
-| B3 | September Gurls | 2:42 |
-| B4 | Angels Don't Fall In Love | 3:21 |
-| B5 | Following | 3:18 |
-| B6 | Not Like You | 3:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Manic Monday |
+| A2 | In A Different Light |
+| A3 | Walking Down Your Street |
+| A4 | Walk Like An Egyptian |
+| A5 | Standing In The Hallway |
+| A6 | Return Post |
+| B1 | If She Knew What She Wants |
+| B2 | Let It Go |
+| B3 | September Gurls |
+| B4 | Angels Don't Fall In Love |
+| B5 | Following |
+| B6 | Not Like You |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Pink & Purple Marbled) |
 | Label          | Columbia |
 | Catalog Number | MOVLP2678 |
-| Notes | On hype sticker:<br>Limited Edition of 4000 numbered copies on pink & purple marbled vinyl<br>Includes insert with lyrics<br>180 gram audiophile vinyl<br>www.musiconvinyl.com MOVLP2678<br><br>On spine: MOVLP2678<br><br>On back cover: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. <br>Manufactured and distributed by Music On Vinyl B.V <br>Made in the EU. MOVLP2678<br><br>On inner sleeve:<br>Inner sleeve<br>©1985 Controversy Music (ASCAP) <br>©1985 Blackwood Music Inc. (BMI) <br>©1985 Bangophile Music (BMI) <br>Blackwood Music Inc. administers for Bangophile Music<br>©1985 Spinning Avenue Music (BMI) <br>I.R.S. Music, Inc. administers for Spinning Avenue Music<br>©1985 See Square Music (BMI) <br>©1985 Peer International Corporation (BMI) <br>©1984 Funzalo Music Ltd. (BMI) <br>©1984 Juters Music Co. (BMI) <br>©1974 Almo Music Corp. (ASCAP) <br>©1974 Koala Music (ASCAP) <br><br>Recorded at Sunset Sound Factory and Sunset Sound, Hollywood, CA… Summer, 1985<br><br>we'd like to thank these musicians for contributing their special talents: David Kahne, Rusty Anderson, Mitchell Froom, Carlos Vega<br><br>© 1985, 2022 Columbia Records, a division of Sony Music Entertainment. MOVLP2678<br><br>On labels: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. Manufactured and distributed by Music On Vinyl B.V<br>Made in the EU. BIEM/STEMRA.<br><br> |
+| Notes | On hype sticker: Limited Edition of 4000 numbered copies on pink & purple marbled vinyl Includes insert with lyrics 180 gram audiophile vinyl www.musiconvinyl.com MOVLP2678  On spine: MOVLP2678  On back cover: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment.  Manufactured and distributed by Music On Vinyl B.V  Made in the EU. MOVLP2678  On inner sleeve: Inner sleeve ©1985 Controversy Music (ASCAP)  ©1985 Blackwood Music Inc. (BMI)  ©1985 Bangophile Music (BMI)  Blackwood Music Inc. administers for Bangophile Music ©1985 Spinning Avenue Music (BMI)  I.R.S. Music, Inc. administers for Spinning Avenue Music ©1985 See Square Music (BMI)  ©1985 Peer International Corporation (BMI)  ©1984 Funzalo Music Ltd. (BMI)  ©1984 Juters Music Co. (BMI)  ©1974 Almo Music Corp. (ASCAP)  ©1974 Koala Music (ASCAP)   Recorded at Sunset Sound Factory and Sunset Sound, Hollywood, CA… Summer, 1985  we'd like to thank these musicians for contributing their special talents: David Kahne, Rusty Anderson, Mitchell Froom, Carlos Vega  © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. MOVLP2678  On labels: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. Manufactured and distributed by Music On Vinyl B.V Made in the EU. BIEM/STEMRA.   |
 | Discogs URL    | [Bangles - Different Light](https://www.discogs.com/release/24530885-Bangles-Different-Light) |

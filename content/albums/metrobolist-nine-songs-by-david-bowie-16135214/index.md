@@ -30,17 +30,17 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Width Of A Circle | 8:10 |
-| A2 | All The Madmen | 5:25 |
-| A3 | Black Country Rock | 3:36 |
-| A4 | After All | 4:00 |
-| B1 | Running Gun Blues | 3:19 |
-| B2 | Saviour Machine | 4:30 |
-| B3 | She Shook Me Cold | 4:14 |
-| B4 | The Man Who Sold The World | 4:04 |
-| B5 | The Supermen | 3:45 |
+| Position | Title |
+|----------|--------|
+| A1 | The Width Of A Circle |
+| A2 | All The Madmen |
+| A3 | Black Country Rock |
+| A4 | After All |
+| B1 | Running Gun Blues |
+| B2 | Saviour Machine |
+| B3 | She Shook Me Cold |
+| B4 | The Man Who Sold The World |
+| B5 | The Supermen |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | METROBOLIST 6 |
-| Notes | 2020 remix of The Man Who Sold The World by Tony Visconti, which utilises the main front cover and rear images from the 1970 US release [r=710468] but on that issue the speech bubble on the front is blank (censored by Mercury Records) whereas on this release the words are reinstated.<br>Comes in gatefold sleeve with white thick paper inner sleeve featuring a quote of David Bowie from the year 2000 commenting on the cover.<br><br>Hand numbered copies 1 - 1970 are on [url=/release/16170762]white vinyl[/url], hand numbered copies 1971 - 2020 are on [url=/release/16186260]gold vinyl[/url]. The remaining unnumbered stock is on black vinyl (this). All three variants have been sent out randomly.<br><br>The catalog number "Metrobolist 6" appears on front cover.<br>The catalog number "Metrobolist6" appears on label, spine and backcover.<br>The catalog number "0190295198787" appears on spine, backcover and hype sticker.<br><br>[Information on Backcover]<br>℗ 2020 except 'After All' orignally ℗ 1970, remaster ℗2015<br><br>℗ 2020 Jones/Tintoretto Entertainment Company LLC © 2020 Jones/Tintoretto Entertainment Company LLC<br>Made in the EU.<br><br>Mixed by [...] at Human Studios, NYC, 2019/2020<br><br>[Information on Gold Hype Sticker on Left Corner on Shrinkwrap]<br>David Bowie<br>Metrobolist<br>(aka The Man Who<br>Sold The Word)<br>──<br>50th Anniversary<br>Mix by<br>Tony Visconti<br><br>0190295198787 |
+| Notes | 2020 remix of The Man Who Sold The World by Tony Visconti, which utilises the main front cover and rear images from the 1970 US release [r=710468] but on that issue the speech bubble on the front is blank (censored by Mercury Records) whereas on this release the words are reinstated. Comes in gatefold sleeve with white thick paper inner sleeve featuring a quote of David Bowie from the year 2000 commenting on the cover.  Hand numbered copies 1 - 1970 are on [url=/release/16170762]white vinyl[/url], hand numbered copies 1971 - 2020 are on [url=/release/16186260]gold vinyl[/url]. The remaining unnumbered stock is on black vinyl (this). All three variants have been sent out randomly.  The catalog number "Metrobolist 6" appears on front cover. The catalog number "Metrobolist6" appears on label, spine and backcover. The catalog number "0190295198787" appears on spine, backcover and hype sticker.  [Information on Backcover] ℗ 2020 except 'After All' orignally ℗ 1970, remaster ℗2015  ℗ 2020 Jones/Tintoretto Entertainment Company LLC © 2020 Jones/Tintoretto Entertainment Company LLC Made in the EU.  Mixed by [...] at Human Studios, NYC, 2019/2020  [Information on Gold Hype Sticker on Left Corner on Shrinkwrap] David Bowie Metrobolist (aka The Man Who Sold The Word) ── 50th Anniversary Mix by Tony Visconti  0190295198787 |
 | Discogs URL    | [David Bowie - Metrobolist (Nine Songs By David Bowie)](https://www.discogs.com/release/16135214-David-Bowie-Metrobolist-Nine-Songs-By-David-Bowie) |

@@ -35,19 +35,19 @@ There are plenty of experiments into the disorienting possibilities of studio pr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Zimbra | 3:06 |
-| A2 | Mind | 4:12 |
-| A3 | Paper | 2:36 |
-| A4 | Cities | 4:05 |
-| A5 | Life During Wartime | 3:41 |
-| A6 | Memories Can't Wait | 3:30 |
-| B1 | Air | 3:33 |
-| B2 | Heaven | 4:01 |
-| B3 | Animals | 3:29 |
-| B4 | Electric Guitar | 2:59 |
-| B5 | Drugs | 5:13 |
+| Position | Title |
+|----------|--------|
+| A1 | I Zimbra |
+| A2 | Mind |
+| A3 | Paper |
+| A4 | Cities |
+| A5 | Life During Wartime |
+| A6 | Memories Can't Wait |
+| B1 | Air |
+| B2 | Heaven |
+| B3 | Animals |
+| B4 | Electric Guitar |
+| B5 | Drugs |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ There are plenty of experiments into the disorienting possibilities of studio pr
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Sire |
 | Catalog Number | R1-6076 |
-| Notes | The birds on "Drugs" recorded at Lone Pine Koala Sanctuary, Brisbane, Australia.<br><br>All basic tracks recorded at Chris and Tina's Loft in Long Island City with The Record Plant Remote Truck on April 22 and May 6, 1979.<br><br>All songs ℗ 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)<br>except "I Zimbra" © 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)/E.G. Music Ltd (BMI). <br><br>Robert Fripp appears courtesy of E.G. Records Ltd.<br><br>Thermograph (Heat Sensitive Photo), courtesy Dr. Philip Strax. Concept: David with Jerry's help.<br><br>℗ 1979 Sire Records Company.<br>© 1979 Sire Records Company.<br><br>Made in EU.<br> |
+| Notes | The birds on "Drugs" recorded at Lone Pine Koala Sanctuary, Brisbane, Australia.    All basic tracks recorded at Chris and Tina's Loft in Long Island City with The Record Plant Remote Truck on April 22 and May 6, 1979.    All songs ℗ 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)  except "I Zimbra" © 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)/E.G. Music Ltd (BMI).     Robert Fripp appears courtesy of E.G. Records Ltd.    Thermograph (Heat Sensitive Photo), courtesy Dr. Philip Strax. Concept: David with Jerry's help.    ℗ 1979 Sire Records Company.  © 1979 Sire Records Company.    Made in EU.   |
 | Discogs URL    | [Talking Heads - Fear Of Music](https://www.discogs.com/release/4728034-Talking-Heads-Fear-Of-Music) |

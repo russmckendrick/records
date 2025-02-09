@@ -28,18 +28,18 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hello |  |
-| A2 | Your Love Takes Me Higher |  |
-| A3 | Time After Time |  |
-| B1 | Don't You Worry |  |
-| B2 | Scarlet Beautiful |  |
-| B3 | I Love You More |  |
-| C1 | The Sun Rising |  |
-| C2 | Wake Up Soon |  |
-| D1 | Up, Up And Away |  |
-| D2 | Found |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hello |
+| A2 | Your Love Takes Me Higher |
+| A3 | Time After Time |
+| B1 | Don't You Worry |
+| B2 | Scarlet Beautiful |
+| B3 | I Love You More |
+| C1 | The Sun Rising |
+| C2 | Wake Up Soon |
+| D1 | Up, Up And Away |
+| D2 | Found |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | New State Music |
 | Catalog Number | NEW9239LP |
-| Notes | Signed copies were available via Recordstore.co.uk<br><br>‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release. |
+| Notes | Signed copies were available via Recordstore.co.uk  ‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release. |
 | Discogs URL    | [The Beloved - Happiness](https://www.discogs.com/release/15725640-The-Beloved-Happiness) |

@@ -29,22 +29,22 @@ styles: ["Video Game Music"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Xenon, Theme |  |
-| A2 | Speedball, Theme |  |
-| A3 | Xenon 2: Megablast, Megablast (Hip Hop On Precinct 13) |  |
-| A4 | Speedball 2: Brutal Deluxe, Theme |  |
-| A5 | Cadaver, Theme |  |
-| A6 | Magic Pockets, Doin' the Do |  |
-| A7 | Gods, Into the Wonderful |  |
-| B1 | The Chaos Engine, Theme |  |
-| B2 | The Chaos Engine, World One |  |
-| B3 | The Chaos Engine, World Two |  |
-| B4 | The Chaos Engine, World Three |  |
-| B5 | The Chaos Engine 2, Theme |  |
-| B6 | The Chaos Engine 2, Future World |  |
-| B7 | Z (Demo), Volcanic |  |
+| Position | Title |
+|----------|--------|
+| A1 | Xenon, Theme |
+| A2 | Speedball, Theme |
+| A3 | Xenon 2: Megablast, Megablast (Hip Hop On Precinct 13) |
+| A4 | Speedball 2: Brutal Deluxe, Theme |
+| A5 | Cadaver, Theme |
+| A6 | Magic Pockets, Doin' the Do |
+| A7 | Gods, Into the Wonderful |
+| B1 | The Chaos Engine, Theme |
+| B2 | The Chaos Engine, World One |
+| B3 | The Chaos Engine, World Two |
+| B4 | The Chaos Engine, World Three |
+| B5 | The Chaos Engine 2, Theme |
+| B6 | The Chaos Engine 2, Future World |
+| B7 | Z (Demo), Volcanic |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Video Game Music"]
 | Format         | Vinyl LP Compilation (Transparent) |
 | Label          | Read-Only-Memory Ltd. |
 | Catalog Number | ROM17 |
-| Notes | Tracks A3, A6, and A7 adapted for the Commodore Amiga by Richard Joseph<br><br>A1 sourced from the Atari ST<br>A2-B6 sourced from the Commodore Amiga<br>B7 sourced from the Roland MT-32<br><br>stamped runout groove: 219014E2/B |
+| Notes | Tracks A3, A6, and A7 adapted for the Commodore Amiga by Richard Joseph  A1 sourced from the Atari ST A2-B6 sourced from the Commodore Amiga B7 sourced from the Roland MT-32  stamped runout groove: 219014E2/B |
 | Discogs URL    | [Various - The Bitmap Brothers: Odyssey](https://www.discogs.com/release/17581171-Various-The-Bitmap-Brothers-Odyssey) |

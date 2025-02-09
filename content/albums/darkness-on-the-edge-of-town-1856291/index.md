@@ -35,18 +35,18 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Badlands | 4:01 |
-| A2 | Adam Raised A Cain | 4:32 |
-| A3 | Something In The Night | 5:12 |
-| A4 | Candy's Room | 2:45 |
-| A5 | Racing In The Street | 6:52 |
-| B1 | The Promised Land | 4:24 |
-| B2 | Factory | 2:17 |
-| B3 | Streets Of Fire | 4:03 |
-| B4 | Prove It All Night | 3:57 |
-| B5 | Darkness On The Edge Of Town | 4:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Badlands |
+| A2 | Adam Raised A Cain |
+| A3 | Something In The Night |
+| A4 | Candy's Room |
+| A5 | Racing In The Street |
+| B1 | The Promised Land |
+| B2 | Factory |
+| B3 | Streets Of Fire |
+| B4 | Prove It All Night |
+| B5 | Darkness On The Edge Of Town |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 86061 |
-| Notes | 'Made in England'<br><br>With picture inner sleeve and lyric insert.<br> |
+| Notes | 'Made in England'    With picture inner sleeve and lyric insert.   |
 | Discogs URL    | [Bruce Springsteen - Darkness On The Edge Of Town](https://www.discogs.com/release/1856291-Bruce-Springsteen-Darkness-On-The-Edge-Of-Town) |

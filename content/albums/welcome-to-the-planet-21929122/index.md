@@ -30,17 +30,17 @@ Welcome to the Planet is the fourteenth studio album by English progressive rock
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Made From Sunshine  | 4:05 |
-| A2 | The Connection Plan  | 3:56 |
-| A3 | Lanterna  | 6:29 |
-| A4 | Capitoline Venus  | 2:26 |
-| A5 | A Room With No Ceiling  | 4:52 |
-| B1 | Proper Jack Froster | 6:38 |
-| B2 | Bats In The Belfry  | 4:54 |
-| B3 | Oak And Stone  | 7:13 |
-| B4 | Welcome To The Planet  | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Made From Sunshine  |
+| A2 | The Connection Plan  |
+| A3 | Lanterna  |
+| A4 | Capitoline Venus  |
+| A5 | A Room With No Ceiling  |
+| B1 | Proper Jack Froster |
+| B2 | Bats In The Belfry  |
+| B3 | Oak And Stone  |
+| B4 | Welcome To The Planet  |
 
 
 ## Apple Music

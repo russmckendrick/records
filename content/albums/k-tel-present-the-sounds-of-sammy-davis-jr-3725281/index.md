@@ -26,28 +26,28 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Candy Man |  |
-| A2 | Spinning Wheel |  |
-| A3 | What Kind Of Fool Am I? |  |
-| A4 | Birth Of The Blues |  |
-| A5 | Didn't We |  |
-| A6 | The Shelter Of Your Arms |  |
-| A7 | As Long As She Needs Me |  |
-| A8 | Singin' In The Rain |  |
-| A9 | You've Made Me So Very Happy |  |
-| A10 | Exodus |  |
-| B1 | Mr Bojangles |  |
-| B2 | The Wild Rover (Time To Ride) |  |
-| B3 | I'm Over 25 But You Can Trust Me |  |
-| B4 | You're Nobody Till Somebody Loves You |  |
-| B5 | I Want To Be Happy |  |
-| B6 | Talk To The Animals |  |
-| B7 | Put Your Hand In The  Hand |  |
-| B8 | Willoughby Grove |  |
-| B9 | Have A Talk With Myself |  |
-| B10 | I've Gotta Be Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Candy Man |
+| A2 | Spinning Wheel |
+| A3 | What Kind Of Fool Am I? |
+| A4 | Birth Of The Blues |
+| A5 | Didn't We |
+| A6 | The Shelter Of Your Arms |
+| A7 | As Long As She Needs Me |
+| A8 | Singin' In The Rain |
+| A9 | You've Made Me So Very Happy |
+| A10 | Exodus |
+| B1 | Mr Bojangles |
+| B2 | The Wild Rover (Time To Ride) |
+| B3 | I'm Over 25 But You Can Trust Me |
+| B4 | You're Nobody Till Somebody Loves You |
+| B5 | I Want To Be Happy |
+| B6 | Talk To The Animals |
+| B7 | Put Your Hand In The  Hand |
+| B8 | Willoughby Grove |
+| B9 | Have A Talk With Myself |
+| B10 | I've Gotta Be Me |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: []
 | Format         | Vinyl LP Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 704 |
-| Notes | Text on label:<br>All Rights of The Manufacturer and of The Owner of The Recorded Work Reserved.<br>Unauthorised Public Performance Broadcasting and Copying of this Record Prohibited <br>Limited Collectors Edition. <br> |
+| Notes | Text on label: All Rights of The Manufacturer and of The Owner of The Recorded Work Reserved. Unauthorised Public Performance Broadcasting and Copying of this Record Prohibited  Limited Collectors Edition.   |
 | Discogs URL    | [Sammy Davis Jr - K-Tel Present The Sounds Of Sammy Davis Jr.](https://www.discogs.com/release/3725281-Sammy-Davis-Jr-K-Tel-Present-The-Sounds-Of-Sammy-Davis-Jr) |

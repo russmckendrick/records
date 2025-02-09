@@ -34,13 +34,13 @@ Ingenious Devices is a compilation album by English progressive rock band Big Bi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | East Coast Racer | 15:52 |
-| B2 | The Book Of Ingenious Devices  | 1:23 |
-| B3 | Brooklands | 12:29 |
-| C4 | Voyager | 14:10 |
-| D5 | Atlantic Cable (Live) | 15:24 |
+| Position | Title |
+|----------|--------|
+| A1 | East Coast Racer |
+| B2 | The Book Of Ingenious Devices  |
+| B3 | Brooklands |
+| C4 | Voyager |
+| D5 | Atlantic Cable (Live) |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Ingenious Devices is a compilation album by English progressive rock band Big Bi
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | PLG118 |
-| Notes | Comes in gatefold jacket with black poly inner sleeves.<br>2-sided lyric sheet included. Limited to 300 copies.<br>All music and words by Gregory Spawton (except for the closing section of East Coast Racer where the music was written by Danny Manners and Gregory Spawton). <br><br><br><br>Atlantic Cable recorded live at the Waterside Theatre, Aylesbury, in September 2022.<br><br>All runouts are etched. |
+| Notes | Comes in gatefold jacket with black poly inner sleeves. 2-sided lyric sheet included. Limited to 300 copies. All music and words by Gregory Spawton (except for the closing section of East Coast Racer where the music was written by Danny Manners and Gregory Spawton).     Atlantic Cable recorded live at the Waterside Theatre, Aylesbury, in September 2022.  All runouts are etched. |
 | Discogs URL    | [Big Big Train - Ingenious Devices](https://www.discogs.com/release/27528075-Big-Big-Train-Ingenious-Devices) |

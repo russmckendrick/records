@@ -49,17 +49,17 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Who Made Who |  |
-| A2 | You Shook Me All Night Long |  |
-| A3 | D.T. |  |
-| A4 | Sink The Pink |  |
-| A5 | Ride On |  |
-| B1 | Hells Bells |  |
-| B2 | Shake Your Foundations |  |
-| B3 | Chase The Ace |  |
-| B4 | For Those About To Rock (We Salute You) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Who Made Who |
+| A2 | You Shook Me All Night Long |
+| A3 | D.T. |
+| A4 | Sink The Pink |
+| A5 | Ride On |
+| B1 | Hells Bells |
+| B2 | Shake Your Foundations |
+| B3 | Chase The Ace |
+| B4 | For Those About To Rock (We Salute You) |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 | Format         | Vinyl LP Album Compilation Reissue Remastered Special Edition Stereo (Gold, 180g, 50th Anniversary ) |
 | Label          | Columbia |
 | Catalog Number | 19658834621 |
-| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.<br>Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.<br>There are two hype stickers on the outer film on the front.<br><br>The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.<br>The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.<br><br>[Printed on rectangular hypsticker:]<br>50th Anniversary<br>Special Edition <br>Gold Coloured Vinyl <br>Includes Unique Insert <br>And Custom Labels<br><br>[Printed on back cover:]<br>Remastered from the original master tapes by George Marino at Sterling Sound.<br>© 1986, 2003 Leidseplein Presse B.V. / ℗ 1976 J. Albert & Son Pty. Ltd., 1980, 1981, 1985, 1986  Leidseplein Presse B.V.<br>Made in the EU.<br><br>[Printed on label side B:]<br>© 1986, 2024 Leidseplein Presse B.V.<br><br>[Printed on artwork:]<br>Reverse side photo by Michael Putland archive. 19658834621-11<br><br>Runouts are etched.<br>Pressing plant identified based on the runout areas.<br><br>A1 in the runout field = A₁ in the vinyl runout.<br>B1 in the runout field = B₁ in the vinyl runout.<br><br>[Additional information about the faintly inscribed geometric marks:]<br>In the runouts "3 = x" and "2 V" are mirrored.<br> |
+| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition  Gold Coloured Vinyl  Includes Unique Insert  And Custom Labels  [Printed on back cover:] Remastered from the original master tapes by George Marino at Sterling Sound. © 1986, 2003 Leidseplein Presse B.V. / ℗ 1976 J. Albert & Son Pty. Ltd., 1980, 1981, 1985, 1986  Leidseplein Presse B.V. Made in the EU.  [Printed on label side B:] © 1986, 2024 Leidseplein Presse B.V.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834621-11  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "3 = x" and "2 V" are mirrored.  |
 | Discogs URL    | [ACDC - Who Made Who](https://www.discogs.com/release/30095942-ACDC-Who-Made-Who) |

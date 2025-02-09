@@ -36,32 +36,32 @@ The Japanese bonus track, "Shiroi Kuchibiruno Izanai" is an alternate version of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Circuitry Of The Wolf |  |
-| A2 | Chinaberry Tree |  |
-| A3 | Why Are You Looking Grave? |  |
-| A4 | Fox Cub |  |
-| A5 | Apocalypso |  |
-| A6 | Special |  |
-| A7 | The Zookeeper's Boy |  |
-| A8 | A Dark Design |  |
-| B1 | Saviours Of Jazz Ballet (Fear Me, December) |  |
-| B2 | An Envoy To The Open Fields |  |
-| B3 | Small Ambulance |  |
-| B4 | The Seething Rain Weeps For You (Uda Pruda) |  |
-| B5 | White Lips Kissed |  |
-| B6 | Louise Louisa |  |
-| C1 | Drown |  |
-| C2 | Animals Of Many Kinds |  |
-| C3 | Like Chaser |  |
-| C4 | 白い唇はキスをした (White Lips Kissed With Japanese Lyrics) |  |
-| C5 | Dark Design (Red Version) |  |
-| D1 | Killer |  |
-| D2 | Forever And Ever |  |
-| D3 | Wherefore Are You Not There? |  |
-| D4 | Apocalypso (Waltz Version) |  |
-| D5 | Why Are You Looking Grave? (Mogwai Remix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Circuitry Of The Wolf |
+| A2 | Chinaberry Tree |
+| A3 | Why Are You Looking Grave? |
+| A4 | Fox Cub |
+| A5 | Apocalypso |
+| A6 | Special |
+| A7 | The Zookeeper's Boy |
+| A8 | A Dark Design |
+| B1 | Saviours Of Jazz Ballet (Fear Me, December) |
+| B2 | An Envoy To The Open Fields |
+| B3 | Small Ambulance |
+| B4 | The Seething Rain Weeps For You (Uda Pruda) |
+| B5 | White Lips Kissed |
+| B6 | Louise Louisa |
+| C1 | Drown |
+| C2 | Animals Of Many Kinds |
+| C3 | Like Chaser |
+| C4 | 白い唇はキスをした (White Lips Kissed With Japanese Lyrics) |
+| C5 | Dark Design (Red Version) |
+| D1 | Killer |
+| D2 | Forever And Ever |
+| D3 | Wherefore Are You Not There? |
+| D4 | Apocalypso (Waltz Version) |
+| D5 | Why Are You Looking Grave? (Mogwai Remix) |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The Japanese bonus track, "Shiroi Kuchibiruno Izanai" is an alternate version of
 | Format         | Vinyl 2× LP Record Store Day Limited Edition Numbered (Black & White Marbled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2561 |
-| Notes | 15th anniversary expanded edition of 2500 copies<br><br>Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn<br><br>RSD 2020 drop 2 release |
+| Notes | 15th anniversary expanded edition of 2500 copies  Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn  RSD 2020 drop 2 release |
 | Discogs URL    | [Mew - And The Glass Handed Kites](https://www.discogs.com/release/15964207-Mew-And-The-Glass-Handed-Kites) |

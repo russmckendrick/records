@@ -42,20 +42,20 @@ A double translucent turquoise vinyl of The Rapture was released in October 2023
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | O Baby |  |
-| A2 | Tearing Apart |  |
-| A3 | Stargazer |  |
-| A4 | Fall From Grace |  |
-| B1 | Not Forgotten |  |
-| B2 | Sick Child |  |
-| B3 | The Lonely One |  |
-| B4 | Falling Down |  |
-| C | The Rapture |  |
-| D1 | Forever |  |
-| D2 | The Double Life |  |
-| D3 | Love Out Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | O Baby |
+| A2 | Tearing Apart |
+| A3 | Stargazer |
+| A4 | Fall From Grace |
+| B1 | Not Forgotten |
+| B2 | Sick Child |
+| B3 | The Lonely One |
+| B4 | Falling Down |
+| C | The Rapture |
+| D1 | Forever |
+| D2 | The Double Life |
+| D3 | Love Out Me |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ A double translucent turquoise vinyl of The Rapture was released in October 2023
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue Transparent) |
 | Label          | Polydor |
 | Catalog Number | SATBLP14C |
-| Notes | National Album Day 2023 2 x LP reissue pressed on transparent blue vinyl. <br>Disc one is transparent turquoise, disc two is a dark transparent blue. Vinyl is housed in black paper poly-lined inners and also comes supplied with additional colour replica inner sleeves.<br><br>Text/barcode label on shrink wrap reads:<br>"140g colour vinyl mastered and cut Half-Speed<br>at Abbey Road Studios, London."<br><br>May also have a Made in Germany sticker on rear.<br><br>℗ 1995 Polydor Records Ltd. © 2018 Polydor Records Ltd.<br>Made in the EU<br><br>This version is a repress of the 2LP version from 2018, [r=12935901], which was the first vinyl edition widely distributed in Europe.<br>The first edition vinyl from 1995 was on a single disc LP and released in the USA, [r=1868575]. |
+| Notes | National Album Day 2023 2 x LP reissue pressed on transparent blue vinyl.  Disc one is transparent turquoise, disc two is a dark transparent blue. Vinyl is housed in black paper poly-lined inners and also comes supplied with additional colour replica inner sleeves.  Text/barcode label on shrink wrap reads: "140g colour vinyl mastered and cut Half-Speed at Abbey Road Studios, London."  May also have a Made in Germany sticker on rear.  ℗ 1995 Polydor Records Ltd. © 2018 Polydor Records Ltd. Made in the EU  This version is a repress of the 2LP version from 2018, [r=12935901], which was the first vinyl edition widely distributed in Europe. The first edition vinyl from 1995 was on a single disc LP and released in the USA, [r=1868575]. |
 | Discogs URL    | [Siouxsie  The Banshees - The Rapture](https://www.discogs.com/release/28589824-Siouxsie-The-Banshees-The-Rapture) |

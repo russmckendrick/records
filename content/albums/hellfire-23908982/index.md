@@ -37,19 +37,19 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hellfire |  |
-| A2 | Sugar/Tzu |  |
-| A3 | Eat Men Eat |  |
-| A4 | Welcome To Hell |  |
-| A5 | Still |  |
-| B1 | Half Time |  |
-| B2 | The Race Is About To Begin |  |
-| B3 | Dangerous Liaisons |  |
-| B4 | The Defence |  |
-| B5 | 27 Questions |  |
-| C1 | Chondromalacia Patella | 4:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Hellfire |
+| A2 | Sugar/Tzu |
+| A3 | Eat Men Eat |
+| A4 | Welcome To Hell |
+| A5 | Still |
+| B1 | Half Time |
+| B2 | The Race Is About To Begin |
+| B3 | Dangerous Liaisons |
+| B4 | The Defence |
+| B5 | 27 Questions |
+| C1 | Chondromalacia Patella |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 | Format         | Vinyl LP Album Limited Edition Special Edition (Transparent Red), Flexi-disc 7" Single Sided (Transparent Red) |
 | Label          | Rough Trade |
 | Catalog Number | RT00321LPE |
-| Notes | Housed in a gatefold sleeve and includes a sticker<br><br>Side A ends on a locked groove<br><br>'Half Time' is only mentioned in credits/lyrics on gatefold.<br><br>Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade <br><br>'Limited Edition' and 'Special Edition' on hype sticker |
+| Notes | Housed in a gatefold sleeve and includes a sticker  Side A ends on a locked groove  'Half Time' is only mentioned in credits/lyrics on gatefold.  Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade   'Limited Edition' and 'Special Edition' on hype sticker |
 | Discogs URL    | [Black Midi - Hellfire](https://www.discogs.com/release/23908982-Black-Midi-Hellfire) |

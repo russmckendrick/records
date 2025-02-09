@@ -31,19 +31,19 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Got You | 3:24 |
-| A2 | Shark Attack | 2:52 |
-| A3 | What's The Matter With You | 3:02 |
-| A4 | Double Happy | 3:15 |
-| A5 | I Wouldn't Dream Of It | 3:14 |
-| A6 | I Hope I Never | 4:26 |
-| B1 | Nobody Takes Me Seriously | 3:24 |
-| B2 | Missing Person | 3:32 |
-| B3 | Poor Boy | 3:19 |
-| B4 | How Can I Resist Her | 3:26 |
-| B5 | The Choral Sea | 4:29 |
+| Position | Title |
+|----------|--------|
+| A1 | I Got You |
+| A2 | Shark Attack |
+| A3 | What's The Matter With You |
+| A4 | Double Happy |
+| A5 | I Wouldn't Dream Of It |
+| A6 | I Hope I Never |
+| B1 | Nobody Takes Me Seriously |
+| B2 | Missing Person |
+| B3 | Poor Boy |
+| B4 | How Can I Resist Her |
+| B5 | The Choral Sea |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 | Format         | Vinyl LP Album Etched (Blue Cover) |
 | Label          | A&M Records |
 | Catalog Number | SP-4822 |
-| Notes | Holographic etched vinyl.<br>There also exists a Red cover, a Purple cover, and a Yellow cover.<br><br>Released with a printed inner photo-sleeve<br><br>Cat # on back cover & spine: SP-4822<br>Cat # on centre label: SP 4822<br><br>Printed on back cover:<br>[Boomerang Productions logo] A Boomerang Production.<br>Recorded at Armstrongs, Melbourne, Australia.<br>[Champion Entertainment Organization Inc. logo]<br>© 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd.<br>Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited<br><br>Printed on A-side label:<br>[Boomerang Productions logo] A Boomerang Production<br>All selections published by Enz Music<br>℗ 1979 Mushroom Records Pty. Ltd.<br>Manufactured and Distributed by A&M Records, Inc.<br>© 1980 A&M Records, Inc.<br><br>The runouts are etched. |
+| Notes | Holographic etched vinyl. There also exists a Red cover, a Purple cover, and a Yellow cover.  Released with a printed inner photo-sleeve  Cat # on back cover & spine: SP-4822 Cat # on centre label: SP 4822  Printed on back cover: [Boomerang Productions logo] A Boomerang Production. Recorded at Armstrongs, Melbourne, Australia. [Champion Entertainment Organization Inc. logo] © 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd. Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited  Printed on A-side label: [Boomerang Productions logo] A Boomerang Production All selections published by Enz Music ℗ 1979 Mushroom Records Pty. Ltd. Manufactured and Distributed by A&M Records, Inc. © 1980 A&M Records, Inc.  The runouts are etched. |
 | Discogs URL    | [Split Enz - True Colours](https://www.discogs.com/release/3340655-Split-Enz-True-Colours) |

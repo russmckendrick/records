@@ -41,24 +41,24 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Main Title | 5:20 |
-| A2 | Imperial Attack | 6:10 |
-| A3 | Princess Leia's Theme | 4:18 |
-| A4 | The Desert And The Robot Auction | 2:51 |
-| B1 | Ben's Death And TIE Fighter Attack | 3:46 |
-| B2 | The Little People Work | 4:02 |
-| B3 | Rescue Of The Princess | 4:46 |
-| B4 | Inner City | 4:12 |
-| B5 | Cantina Band | 2:44 |
-| C1 | The Land Of The Sandpeople | 2:50 |
-| C2 | Mouse Robot And Blasting Off | 4:01 |
-| C3 | The Return Home | 2:46 |
-| C4 | The Walls Converge | 4:37 |
-| C5 | The Princess Appears | 4:04 |
-| D1 | The Last Battle | 12:05 |
-| D2 | The Throne Room And End Title | 5:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Main Title |
+| A2 | Imperial Attack |
+| A3 | Princess Leia's Theme |
+| A4 | The Desert And The Robot Auction |
+| B1 | Ben's Death And TIE Fighter Attack |
+| B2 | The Little People Work |
+| B3 | Rescue Of The Princess |
+| B4 | Inner City |
+| B5 | Cantina Band |
+| C1 | The Land Of The Sandpeople |
+| C2 | Mouse Robot And Blasting Off |
+| C3 | The Return Home |
+| C4 | The Walls Converge |
+| C5 | The Princess Appears |
+| D1 | The Last Battle |
+| D2 | The Throne Room And End Title |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
 | Label          | 20th Century Records |
 | Catalog Number | FMW 37/8 |
-| Notes | First and third cat# from sleeve, second from label.<br>Issued with insert with liner notes and list of London Symphony performers.<br><br>Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.<br><br>Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment.<br>Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.<br><br>[On labels:]<br>℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd.<br>Published by Fox Fanfare Music, Inc. (BMI)<br><br>Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977.<br>Remixed at The Burbank Studios, Burbank, California |
+| Notes | First and third cat# from sleeve, second from label. Issued with insert with liner notes and list of London Symphony performers.  Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.  Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.  [On labels:] ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd. Published by Fox Fanfare Music, Inc. (BMI)  Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977. Remixed at The Burbank Studios, Burbank, California |
 | Discogs URL    | [John Williams - Star Wars](https://www.discogs.com/release/8574533-John-Williams-4London-Symphony-Orchestra-Star-Wars) |

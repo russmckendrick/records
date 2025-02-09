@@ -34,20 +34,20 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Breaking Into Heaven | 11:21 |
-| A2 | Driving South | 5:09 |
-| B1 | Ten Storey Love Song | 4:29 |
-| B2 | Daybreak | 6:33 |
-| B3 | Your Star Will Shine | 2:59 |
-| B4 | Straight To The Man | 3:15 |
-| C1 | Begging You | 4:56 |
-| C2 | Tightrope | 4:27 |
-| C3 | Good Times | 5:40 |
-| D1 | Tears | 6:50 |
-| D2 | How Do You Sleep | 4:59 |
-| D3 | Love Spreads | 5:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Breaking Into Heaven |
+| A2 | Driving South |
+| B1 | Ten Storey Love Song |
+| B2 | Daybreak |
+| B3 | Your Star Will Shine |
+| B4 | Straight To The Man |
+| C1 | Begging You |
+| C2 | Tightrope |
+| C3 | Good Times |
+| D1 | Tears |
+| D2 | How Do You Sleep |
+| D3 | Love Spreads |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | 0600753385166 |
-| Notes | Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.<br><br>℗ 1994 Geffen Records, Inc.<br>© 1994 Geffen Records, Inc.<br>Made in the EU.<br><br>Durations not on release.<br>Runouts are stamped.<br> |
+| Notes | Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped.  |
 | Discogs URL    | [The Stone Roses - Second Coming](https://www.discogs.com/release/3852822-The-Stone-Roses-Second-Coming) |

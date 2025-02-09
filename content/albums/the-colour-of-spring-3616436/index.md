@@ -35,25 +35,25 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Happiness Is Easy |  |
-| LP-A2 | I Don't Believe In You |  |
-| LP-A3 | Life's What You Make It |  |
-| LP-A4 | April 5th |  |
-| LP-B1 | Living In Another World |  |
-| LP-B2 | Give It Up |  |
-| LP-B3 | Chameleon Day |  |
-| LP-B4 | Time It's Time |  |
-| DVD-1 | Happiness Is Easy |  |
-| DVD-2 | I Don't Believe In You |  |
-| DVD-3 | Life's What You Make It |  |
-| DVD-4 | April 5th |  |
-| DVD-5 | Living In Another World |  |
-| DVD-6 | Give It Up |  |
-| DVD-7 | Chameleon Day |  |
-| DVD-8 | Time It's Time |  |
-| DVD-9 | It's Getting Late In The Evening |  |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Happiness Is Easy |
+| LP-A2 | I Don't Believe In You |
+| LP-A3 | Life's What You Make It |
+| LP-A4 | April 5th |
+| LP-B1 | Living In Another World |
+| LP-B2 | Give It Up |
+| LP-B3 | Chameleon Day |
+| LP-B4 | Time It's Time |
+| DVD-1 | Happiness Is Easy |
+| DVD-2 | I Don't Believe In You |
+| DVD-3 | Life's What You Make It |
+| DVD-4 | April 5th |
+| DVD-5 | Living In Another World |
+| DVD-6 | Give It Up |
+| DVD-7 | Chameleon Day |
+| DVD-8 | Time It's Time |
+| DVD-9 | It's Getting Late In The Evening |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 | Format         | Vinyl LP Album Reissue Stereo (180g), DVD DVD-Video NTSC Album Reissue Stereo |
 | Label          | EMI |
 | Catalog Number | EMCX 3506 |
-| Notes | This reissue set includes:<br>- a heavyweight 180gm vinyl LP pressing.<br>- an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.<br><br>The LP is housed in a regular spined sleeve including an inner bag with lyrics.<br>The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.<br><br>The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".<br><br>Made in the E.U.<br><br>A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels. |
+| Notes | This reissue set includes: - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".  Made in the E.U.  A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels. |
 | Discogs URL    | [Talk Talk - The Colour Of Spring](https://www.discogs.com/release/3616436-Talk-Talk-The-Colour-Of-Spring) |

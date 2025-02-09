@@ -24,25 +24,25 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Savour | 5:29 |
-| A2 | Big Ship | 5:36 |
-| A3 | Fear | 2:20 |
-| A4 | Let Alone My Plastic Doll | 4:03 |
-| B1 | Day Is Gone | 3:36 |
-| B2 | Foundling | 4:23 |
-| B3 | Will Bleed Amen | 4:45 |
-| B4 | Shaping The River | 2:17 |
-| B5 | The Stench Of Honey | 5:24 |
-| C1 | A Little Man And A House | 4:34 |
-| C2 | Is This The Life | 6:22 |
-| C3 | March | 3:31 |
-| C4 | Lilly White's Party | 5:10 |
-| D1 | Wind And Rains Is Cold | 4:52 |
-| D2 | Up In Annie's Room | 2:15 |
-| D3 | Stoneage Dinosaurs | 4:15 |
-| D4 | Home Of Fadeless Splendour | 4:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Savour |
+| A2 | Big Ship |
+| A3 | Fear |
+| A4 | Let Alone My Plastic Doll |
+| B1 | Day Is Gone |
+| B2 | Foundling |
+| B3 | Will Bleed Amen |
+| B4 | Shaping The River |
+| B5 | The Stench Of Honey |
+| C1 | A Little Man And A House |
+| C2 | Is This The Life |
+| C3 | March |
+| C4 | Lilly White's Party |
+| D1 | Wind And Rains Is Cold |
+| D2 | Up In Annie's Room |
+| D3 | Stoneage Dinosaurs |
+| D4 | Home Of Fadeless Splendour |
 
 
 ## Apple Music

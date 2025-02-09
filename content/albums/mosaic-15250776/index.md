@@ -31,17 +31,17 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mosaic |  |
-| A2 | Is This It? |  |
-| A3 | Somebody Like You |  |
-| A4 | The Geese |  |
-| A5 | Measure Of Things |  |
-| B6 | Dystopia |  |
-| B7 | It's Never Quiet |  |
-| B8 | MXI |  |
-| B9 | Two Faces |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mosaic |
+| A2 | Is This It? |
+| A3 | Somebody Like You |
+| A4 | The Geese |
+| A5 | Measure Of Things |
+| B6 | Dystopia |
+| B7 | It's Never Quiet |
+| B8 | MXI |
+| B9 | Two Faces |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | GlassVille Records |
 | Catalog Number | GVR192755 |
-| Notes | Packaged in a single jacket with color printed LP sleeve.<br><br>Pre-orders via the band came autographed on the back of the jacket by all members.<br><br>All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.<br><br>Tracks are numbered continuously on the color LP sleeve. |
+| Notes | Packaged in a single jacket with color printed LP sleeve.  Pre-orders via the band came autographed on the back of the jacket by all members.  All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.  Tracks are numbered continuously on the color LP sleeve. |
 | Discogs URL    | [Lesoir - Mosaic](https://www.discogs.com/release/15250776-Lesoir-Mosaic) |

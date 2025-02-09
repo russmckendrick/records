@@ -31,14 +31,14 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Looking For Someone |  |
-| A2 | White Mountain |  |
-| A3 | Visions Of Angels |  |
-| B1 | Stagnation |  |
-| B2 | Dusk |  |
-| B3 | The Knife |  |
+| Position | Title |
+|----------|--------|
+| A1 | Looking For Someone |
+| A2 | White Mountain |
+| A3 | Visions Of Angels |
+| B1 | Stagnation |
+| B2 | Dusk |
+| B3 | The Knife |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 | Format         | Vinyl LP Album Reissue (Half Speed Master 180 gr. ) |
 | Label          | Charisma |
 | Catalog Number | 4790213 |
-| Notes | Gatefold cover.<br>Printed 12" x12" insert with lyrics.<br><br>A3 is mistitled "Visions Of Angles" inside the gatefold sleeve. |
+| Notes | Gatefold cover. Printed 12" x12" insert with lyrics.  A3 is mistitled "Visions Of Angles" inside the gatefold sleeve. |
 | Discogs URL    | [Genesis - Trespass](https://www.discogs.com/release/9141285-Genesis-Trespass) |

@@ -35,28 +35,28 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | More Than A Feeling |  |
-| A2 | Eye Of The Tiger |  |
-| A3 | Rosanna |  |
-| A4 | Carry On Wayward Son |  |
-| A5 | Don't Stop Believin' |  |
-| B1 | Bat Out Of Hell |  |
-| B2 | Broken Wings |  |
-| B3 | Jessie's Girl |  |
-| B4 | I Want You To Want Me (Live In Tokyo) |  |
-| B5 | Keep On Loving You |  |
-| C1 | The Final Countdown |  |
-| C2 | Black Betty |  |
-| C3 | Lido Shuffle |  |
-| C4 | Leave A Light On |  |
-| C5 | Total Eclipse Of The Heart |  |
-| D1 | We Built This City |  |
-| D2 | Poison |  |
-| D3 | Barracuda |  |
-| D4 | Because The Night |  |
-| D5 | (Don't Fear) The Reaper |  |
+| Position | Title |
+|----------|--------|
+| A1 | More Than A Feeling |
+| A2 | Eye Of The Tiger |
+| A3 | Rosanna |
+| A4 | Carry On Wayward Son |
+| A5 | Don't Stop Believin' |
+| B1 | Bat Out Of Hell |
+| B2 | Broken Wings |
+| B3 | Jessie's Girl |
+| B4 | I Want You To Want Me (Live In Tokyo) |
+| B5 | Keep On Loving You |
+| C1 | The Final Countdown |
+| C2 | Black Betty |
+| C3 | Lido Shuffle |
+| C4 | Leave A Light On |
+| C5 | Total Eclipse Of The Heart |
+| D1 | We Built This City |
+| D2 | Poison |
+| D3 | Barracuda |
+| D4 | Because The Night |
+| D5 | (Don't Fear) The Reaper |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 | Format         | Vinyl 2× LP Compilation (180g, Gatefold) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP001 |
-| Notes | Vinyl exclusive.<br><br>2016 Demon Music Group Ltd.<br>Marketed by Demon Music Group Ltd. London, W12 7FA<br>The Demon Music Group is a BBC Worldwide Company<br><br>Thanks: Colin Auchterlonie, Adrian Sear, Ben Duke. |
+| Notes | Vinyl exclusive.  2016 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company  Thanks: Colin Auchterlonie, Adrian Sear, Ben Duke. |
 | Discogs URL    | [Various - Classic Rock Anthems](https://www.discogs.com/release/9435053-Various-Classic-Rock-Anthems) |

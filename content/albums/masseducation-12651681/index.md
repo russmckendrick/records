@@ -29,20 +29,20 @@ styles: ["Acoustic"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Slow Disco | 2:30 |
-| A2 | Savior | 4:18 |
-| A3 | Masseduction | 3:40 |
-| A4 | Sugarboy | 3:49 |
-| A5 | Fear The Future | 2:20 |
-| A6 | Smoking Section | 4:11 |
-| B1 | Los Ageless | 5:15 |
-| B2 | New York | 2:48 |
-| B3 | Young Lover | 4:49 |
-| B4 | Happy Birthday, Johnny | 3:24 |
-| B5 | Pills | 4:59 |
-| B6 | Hang On Me | 2:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Slow Disco |
+| A2 | Savior |
+| A3 | Masseduction |
+| A4 | Sugarboy |
+| A5 | Fear The Future |
+| A6 | Smoking Section |
+| B1 | Los Ageless |
+| B2 | New York |
+| B3 | Young Lover |
+| B4 | Happy Birthday, Johnny |
+| B5 | Pills |
+| B6 | Hang On Me |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Acoustic"]
 | Format         | Vinyl LP Album |
 | Label          | Loma Vista |
 | Catalog Number | LVR00448 |
-| Notes | Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert. <br>Transparent front cover hype sticker placed on the shrink wrap. <br>Title on front cover is golden foil embossed.<br><br>Made in the EU. |
+| Notes | Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU. |
 | Discogs URL    | [St Vincent - MassEducation](https://www.discogs.com/release/12651681-St-Vincent-MassEducation) |

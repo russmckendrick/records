@@ -24,17 +24,17 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Forge | 3:51 |
-| A2 | Limbs | 5:02 |
-| A3 | Magpie | 4:46 |
-| A4 | Perfectly Planned | 4:17 |
-| B1 | Migraine | 4:54 |
-| B2 | Everyone Is Guilty To Me | 5:04 |
-| B3 | Max | 5:52 |
-| B4 | Bloom | 4:56 |
-| B5 | Hellsto (The Sweetness Came For Us) | 3:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Forge |
+| A2 | Limbs |
+| A3 | Magpie |
+| A4 | Perfectly Planned |
+| B1 | Migraine |
+| B2 | Everyone Is Guilty To Me |
+| B3 | Max |
+| B4 | Bloom |
+| B5 | Hellsto (The Sweetness Came For Us) |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Limited Edition (Blue) |
 | Label          | Trapped Animal |
 | Catalog Number | TAR018VX |
-| Notes | Includes a download coupon.<br>Catalogue number TAR018VX is on a barcode sticker on the shrink. |
+| Notes | Includes a download coupon. Catalogue number TAR018VX is on a barcode sticker on the shrink. |
 | Discogs URL    | [Fassine - Forge](https://www.discogs.com/release/14991962-Fassine-Forge) |

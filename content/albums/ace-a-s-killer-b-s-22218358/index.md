@@ -27,25 +27,25 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Every Single Day |  |
-| A2 | Staying Out For The Summer (Summer '95) |  |
-| A3 | Water Under The Bridge |  |
-| A4 | Good Enough  |  |
-| A5 | Melodies Haunt You |  |
-| B1 | Big Brown Moon |  |
-| B2 | Found You  |  |
-| B3 | Self Doubt |  |
-| B4 | In A Room (Full Version) |  |
-| C1 | Making The Most Of.. |  |
-| C2 | If You're Thinking Of Me  |  |
-| C3 | Lovebirds |  |
-| C4 | (Get Off Your) High Horse |  |
-| D1 | So Let Me Go Far |  |
-| D2 | Grassman |  |
-| D3 | Ain't No Longer Asking |  |
-| D4 | The Elephant |  |
+| Position | Title |
+|----------|--------|
+| A1 | Every Single Day |
+| A2 | Staying Out For The Summer (Summer '95) |
+| A3 | Water Under The Bridge |
+| A4 | Good Enough  |
+| A5 | Melodies Haunt You |
+| B1 | Big Brown Moon |
+| B2 | Found You  |
+| B3 | Self Doubt |
+| B4 | In A Room (Full Version) |
+| C1 | Making The Most Of.. |
+| C2 | If You're Thinking Of Me  |
+| C3 | Lovebirds |
+| C4 | (Get Off Your) High Horse |
+| D1 | So Let Me Go Far |
+| D2 | Grassman |
+| D3 | Ain't No Longer Asking |
+| D4 | The Elephant |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 | Format         | Vinyl LP (Green translucent, 180g), Vinyl LP (Yellow translucent, 180g), All Media Compilation Limited Edition Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC907X |
-| Notes | First ever vinyl issue. Previously only available on CD.<br><br>Title on hype sticker: Ace A's + Killer B's The Best Of<br><br>Standard sleeve with printed inner sleeves.<br>Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'<br><br>Manufactured in E.U. |
+| Notes | First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U. |
 | Discogs URL    | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358-Dodgy-Ace-As-Killer-Bs) |

@@ -26,27 +26,27 @@ styles: ["Indie Rock", "Contemporary"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sometimes |  |
-| A2 | Love Make A Fool |  |
-| A3 | We're Gonna Miss You |  |
-| A4 | Tomorrow |  |
-| B1 | The Lake |  |
-| B2 | She's A Star |  |
-| B3 | Lookaway |  |
-| B4 | Sit Down |  |
-| B5 | Alaskan Pipeline |  |
-| C1 | Someone's Got It In For Me |  |
-| C2 | Hey Ma |  |
-| C3 | Hello |  |
-| C4 | Beautiful Beaches |  |
-| C5 | Why So Close |  |
-| D1 | Medieval |  |
-| D2 | Say Something |  |
-| D3 | Top Of The World |  |
-| D4 | Moving On |  |
-| D5 | Laid |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sometimes |
+| A2 | Love Make A Fool |
+| A3 | We're Gonna Miss You |
+| A4 | Tomorrow |
+| B1 | The Lake |
+| B2 | She's A Star |
+| B3 | Lookaway |
+| B4 | Sit Down |
+| B5 | Alaskan Pipeline |
+| C1 | Someone's Got It In For Me |
+| C2 | Hey Ma |
+| C3 | Hello |
+| C4 | Beautiful Beaches |
+| C5 | Why So Close |
+| D1 | Medieval |
+| D2 | Say Something |
+| D3 | Top Of The World |
+| D4 | Moving On |
+| D5 | Laid |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Indie Rock", "Contemporary"]
 | Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM002LPY |
-| Notes | Gatefold including hand PVC sleeve.<br><br>℗&© 2023 Nothing But Love Music.<br><br>300 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions.<br><br>Obi-strip label & cat. no:<br>Virgin Music Label & Artist Services<br>NBLM002LPY |
+| Notes | Gatefold including hand PVC sleeve.  ℗&© 2023 Nothing But Love Music.  300 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions.  Obi-strip label & cat. no: Virgin Music Label & Artist Services NBLM002LPY |
 | Discogs URL    | [James - Be Opened By The Wonderful (40 Years Orchestrated)](https://www.discogs.com/release/27333687-James-Be-Opened-By-The-Wonderful-40-Years-Orchestrated) |

@@ -32,22 +32,22 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rid Of Me | 3:42 |
-| A2 | Legs | 3:47 |
-| A3 | Reeling | 2:59 |
-| A4 | Snake | 1:56 |
-| A5 | Hook | 4:31 |
-| A6 | 50Ft Queenie | 2:48 |
-| A7 | Driving | 2:38 |
-| B1 | Ecstasy | 2:56 |
-| B2 | Hardly Wait | 2:48 |
-| B3 | Rub 'Til It Bleeds | 5:10 |
-| B4 | Easy | 3:16 |
-| B5 | M-Bike | 2:43 |
-| B6 | Yuri-G | 3:53 |
-| B7 | Goodnight | 4:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Rid Of Me |
+| A2 | Legs |
+| A3 | Reeling |
+| A4 | Snake |
+| A5 | Hook |
+| A6 | 50Ft Queenie |
+| A7 | Driving |
+| B1 | Ecstasy |
+| B2 | Hardly Wait |
+| B3 | Rub 'Til It Bleeds |
+| B4 | Easy |
+| B5 | M-Bike |
+| B6 | Yuri-G |
+| B7 | Goodnight |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0851113 |
-| Notes | Includes a custom inner sleeve and a download card.<br>An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.<br><br>An Island Records Release.<br>℗1993 Universal Music Operations Ltd.<br>©1993 Universal Music Operations Ltd.<br>A Universal Music Company.<br>Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in Germany.<br>BIEM/SDRM.<br><br>All songs [...]<br>Published by Hot Head Music Limited (ASCAP)<br>Administered by Kobalt Songs Music Publishing (ASCAP) |
+| Notes | Includes a custom inner sleeve and a download card. An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. BIEM/SDRM.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP) |
 | Discogs URL    | [PJ Harvey - 4-Track Demos](https://www.discogs.com/release/15792454-P-J-Harvey-4-Track-Demos) |

@@ -47,42 +47,42 @@ As epitomised by a title track referencing his haemorrhoids, the former Czars fr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 1:37 |
-| A2 | Grey Tickles, Black Pressure | 5:30 |
-| A3 | Snug Slacks | 4:12 |
-| A4 | Guess How I Know | 3:34 |
-| B1 | You & Him | 3:26 |
-| B2 | Down Here | 4:09 |
-| B3 | Voodoo Doll | 3:07 |
-| C1 | Global Warming | 4:05 |
-| C2 | Magma Arrives | 5:03 |
-| C3 | Black Blizzard | 4:48 |
-| D1 | Disappointing | 4:55 |
-| D2 | No More Tangles | 6:09 |
-| D3 | Geraldine | 6:22 |
-| D4 | Outro | 0:30 |
-| CD1-1 | Intro | 1:37 |
-| CD1-2 | Grey Tickles, Black Pressure | 5:30 |
-| CD1-3 | Snug Slacks | 4:12 |
-| CD1-4 | Guess How I Know | 3:34 |
-| CD1-5 | You And Him | 3:26 |
-| CD1-6 | Down Here | 4:09 |
-| CD1-7 | Voodoo Doll | 3:07 |
-| CD1-8 | Global Warming | 4:05 |
-| CD1-9 | Magma Arrives | 5:03 |
-| CD1-10 | Black Blizzard | 4:48 |
-| CD1-11 | Disappointing | 4:55 |
-| CD1-12 | No More Tangles | 6:09 |
-| CD1-13 | Geraldine | 6:22 |
-| CD1-14 | Outro | 0:30 |
-|  | John Grant With Royal Northern Sinfonia |  |
-| CD2-1 | Global Warming | 4:14 |
-| CD2-2 | Black Blizzard | 4:56 |
-| CD2-3 | Drug | 3:53 |
-| CD2-4 | Geraldine | 6:23 |
-| CD2-5 | No More Tangles | 6:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Grey Tickles, Black Pressure |
+| A3 | Snug Slacks |
+| A4 | Guess How I Know |
+| B1 | You & Him |
+| B2 | Down Here |
+| B3 | Voodoo Doll |
+| C1 | Global Warming |
+| C2 | Magma Arrives |
+| C3 | Black Blizzard |
+| D1 | Disappointing |
+| D2 | No More Tangles |
+| D3 | Geraldine |
+| D4 | Outro |
+| CD1-1 | Intro |
+| CD1-2 | Grey Tickles, Black Pressure |
+| CD1-3 | Snug Slacks |
+| CD1-4 | Guess How I Know |
+| CD1-5 | You And Him |
+| CD1-6 | Down Here |
+| CD1-7 | Voodoo Doll |
+| CD1-8 | Global Warming |
+| CD1-9 | Magma Arrives |
+| CD1-10 | Black Blizzard |
+| CD1-11 | Disappointing |
+| CD1-12 | No More Tangles |
+| CD1-13 | Geraldine |
+| CD1-14 | Outro |
+|  | John Grant With Royal Northern Sinfonia |
+| CD2-1 | Global Warming |
+| CD2-2 | Black Blizzard |
+| CD2-3 | Drug |
+| CD2-4 | Geraldine |
+| CD2-5 | No More Tangles |
 
 
 ## Apple Music
@@ -100,5 +100,5 @@ As epitomised by a title track referencing his haemorrhoids, the former Czars fr
 | Format         | Vinyl LP Album (Lavender), Vinyl LP Album (Orange), CD Album, CD EP, All Media Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA505V |
-| Notes | Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.<br><br>Limited to 500 copies. Rough Trade European exclusive. |
+| Notes | Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.    Limited to 500 copies. Rough Trade European exclusive. |
 | Discogs URL    | [John Grant - Grey Tickles, Black Pressure](https://www.discogs.com/release/7574111-John-Grant-Grey-Tickles-Black-Pressure) |

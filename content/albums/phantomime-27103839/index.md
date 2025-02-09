@@ -50,13 +50,13 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | See No Evil |  |
-| A2 | Jesus He Knows Me |  |
-| A3 | Hanging Around |  |
-| B1 | Phantom Of The Opera |  |
-| B2 | We Don't Need Another Hero |  |
+| Position | Title |
+|----------|--------|
+| A1 | See No Evil |
+| A2 | Jesus He Knows Me |
+| A3 | Hanging Around |
+| B1 | Phantom Of The Opera |
+| B2 | We Don't Need Another Hero |
 
 
 ## Apple Music

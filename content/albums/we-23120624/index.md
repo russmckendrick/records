@@ -39,15 +39,15 @@ Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Age Of Anxiety I |  |
-| A2 | Age Of Anxiety II (Rabbit Hole) |  |
-|  | End Of The Empire I-IV |  |
-| B1 | The Lightning I, II |  |
-| B2 | Unconditional I (Lookout Kid) |  |
-| B3 | Unconditional II (Race And Religion) |  |
-| B4 | We |  |
+| Position | Title |
+|----------|--------|
+| A1 | Age Of Anxiety I |
+| A2 | Age Of Anxiety II (Rabbit Hole) |
+|  | End Of The Empire I-IV |
+| B1 | The Lightning I, II |
+| B2 | Unconditional I (Lookout Kid) |
+| B3 | Unconditional II (Race And Religion) |
+| B4 | We |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)
 | Format         | Vinyl LP Album Limited Edition Stereo (Brown Marbled) |
 | Label          | Columbia |
 | Catalog Number | 19439971281 |
-| Notes | Limited pressing sold exclusively on Amazon and in Indie Stores.<br>Packaged in an embossed gatefold sleeve with a gold foil hype sticker.<br>Includes a printed inner sleeve, sticker and poster. |
+| Notes | Limited pressing sold exclusively on Amazon and in Indie Stores. Packaged in an embossed gatefold sleeve with a gold foil hype sticker. Includes a printed inner sleeve, sticker and poster. |
 | Discogs URL    | [Arcade Fire - We](https://www.discogs.com/release/23120624-Arcade-Fire-We) |

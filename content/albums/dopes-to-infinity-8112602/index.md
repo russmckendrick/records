@@ -37,23 +37,23 @@ Dopes to Infinity is the third album by American rock band Monster Magnet, relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dopes To Infinity |  |
-| A2 | Negasonic Teenage Warhead |  |
-| A3 | Look To Your Orb For The Warning |  |
-| A4 | All Friends And Kingdom Come |  |
-| B1 | Ego, The Living Planet |  |
-| B2 | Blow 'Em Off |  |
-| B3 | Third Alternative |  |
-| B4 | I Control, I Fly |  |
-| C1 | King Of Mars |  |
-| C2 | Dead Christmas |  |
-| C3 | Theme From "Masterburner" |  |
-| C4 | Vertigo |  |
-| D1 | Forbidden Planet (Bonus Track) |  |
-| D2 | Eclipse This (B-Side) |  |
-| D3 | I'm Five Years Ahead Of My Time (B-Side) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dopes To Infinity |
+| A2 | Negasonic Teenage Warhead |
+| A3 | Look To Your Orb For The Warning |
+| A4 | All Friends And Kingdom Come |
+| B1 | Ego, The Living Planet |
+| B2 | Blow 'Em Off |
+| B3 | Third Alternative |
+| B4 | I Control, I Fly |
+| C1 | King Of Mars |
+| C2 | Dead Christmas |
+| C3 | Theme From "Masterburner" |
+| C4 | Vertigo |
+| D1 | Forbidden Planet (Bonus Track) |
+| D2 | Eclipse This (B-Side) |
+| D3 | I'm Five Years Ahead Of My Time (B-Side) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Dopes to Infinity is the third album by American rock band Monster Magnet, relea
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642337 |
-| Notes | Black vinyl. Includes sleeve-notes & bonus material.<br><br>Comes with free album download code.<br><br>℗ & © 2015 Spinefarm Records & Universal Music Group Company<br><br>Made in the EU. |
+| Notes | Black vinyl. Includes sleeve-notes & bonus material.    Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |
 | Discogs URL    | [Monster Magnet - Dopes To Infinity](https://www.discogs.com/release/8112602-Monster-Magnet-Dopes-To-Infinity) |

@@ -65,45 +65,45 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Twice As Hard | 4:09 |
-| A2 | Jealous Again | 4:35 |
-| A3 | Sister Luck | 5:14 |
-| A4 | Could I've Been So Blind | 3:44 |
-| A5 | Seeing Things | 5:18 |
-| B1 | Hard To Handle | 3:08 |
-| B2 | Thick N' Thin | 2:43 |
-| B3 | She Talks To Angels | 5:30 |
-| B4 | Struttin' Blues | 4:10 |
-| B5 | Stare It Cold | 5:15 |
-| B6 | Mercy, Sweet Moan |  |
-|  | More Money Maker: Unreleased Songs & B-Sides |  |
-| C1 | Charming Mess |  |
-| C2 | 30 Days In The Hole |  |
-| C3 | Don't Wake Me |  |
-| C4 | Jealous Guy |  |
-| C5 | Waitin' Guilty |  |
-| C6 | Hard To Handle |  |
-| D1 | Jealous Again (Acoustic Version) |  |
-| D2 | She Talks To Angels (Acoustic Version) |  |
-| D3 | She Talks To Angels (Mr. Crowe's Garden Demo) |  |
-| D4 | Front Porch Sermon (Mr. Crowe's Garden Demo) |  |
-|  | The Homecoming Concert: Atlanta, GA December 1990 |  |
-| E1 | Introduction |  |
-| E2 | Thick N' Thin |  |
-| E3 | You're Wrong |  |
-| E4 | Twice As Hard |  |
-| E5 | Could I've Been So Blind |  |
-| E6 | Seeing Things |  |
-| F1 | She Talks To Angels |  |
-| F2 | Sister Luck |  |
-| F3 | Hard To Handle |  |
-| F4 | Shake 'Em On Down / Get Back |  |
-| G1 | Struttin' Blues |  |
-| G2 | Words You Throw Away |  |
-| H1 | Stare It Cold |  |
-| H2 | Jealous Again |  |
+| Position | Title |
+|----------|--------|
+| A1 | Twice As Hard |
+| A2 | Jealous Again |
+| A3 | Sister Luck |
+| A4 | Could I've Been So Blind |
+| A5 | Seeing Things |
+| B1 | Hard To Handle |
+| B2 | Thick N' Thin |
+| B3 | She Talks To Angels |
+| B4 | Struttin' Blues |
+| B5 | Stare It Cold |
+| B6 | Mercy, Sweet Moan |
+|  | More Money Maker: Unreleased Songs & B-Sides |
+| C1 | Charming Mess |
+| C2 | 30 Days In The Hole |
+| C3 | Don't Wake Me |
+| C4 | Jealous Guy |
+| C5 | Waitin' Guilty |
+| C6 | Hard To Handle |
+| D1 | Jealous Again (Acoustic Version) |
+| D2 | She Talks To Angels (Acoustic Version) |
+| D3 | She Talks To Angels (Mr. Crowe's Garden Demo) |
+| D4 | Front Porch Sermon (Mr. Crowe's Garden Demo) |
+|  | The Homecoming Concert: Atlanta, GA December 1990 |
+| E1 | Introduction |
+| E2 | Thick N' Thin |
+| E3 | You're Wrong |
+| E4 | Twice As Hard |
+| E5 | Could I've Been So Blind |
+| E6 | Seeing Things |
+| F1 | She Talks To Angels |
+| F2 | Sister Luck |
+| F3 | Hard To Handle |
+| F4 | Shake 'Em On Down / Get Back |
+| G1 | Struttin' Blues |
+| G2 | Words You Throw Away |
+| H1 | Stare It Cold |
+| H2 | Jealous Again |
 
 
 ## Apple Music
@@ -121,5 +121,5 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 | Format         | Vinyl LP, Vinyl LP, Vinyl 2× LP, Box Set Album Deluxe Edition Remastered (30th Anniversary) |
 | Label          | American Recordings |
 | Catalog Number | 00602508802539 |
-| Notes | Features the original studio album remastered by George Drakoulias, 3 previously unheard studio recordings, 2 unreleased demos from Mr. Crowe’s Garden, a 14 track full unreleased concert from Atlanta, GA, in 1990, reproductions of an early Mr. Crowe’s Garden show flyer, set list, tour laminate, patch, and a 20 page book with unseen photos from the band’s personal archives.<br><br> |
+| Notes | Features the original studio album remastered by George Drakoulias, 3 previously unheard studio recordings, 2 unreleased demos from Mr. Crowe’s Garden, a 14 track full unreleased concert from Atlanta, GA, in 1990, reproductions of an early Mr. Crowe’s Garden show flyer, set list, tour laminate, patch, and a 20 page book with unseen photos from the band’s personal archives.   |
 | Discogs URL    | [The Black Crowes - Shake Your Money Maker ](https://www.discogs.com/release/17580556-The-Black-Crowes-Shake-Your-Money-Maker-) |

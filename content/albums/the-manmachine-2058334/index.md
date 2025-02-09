@@ -37,14 +37,14 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Robots | 6:13 |
-| A2 | Spacelab | 5:57 |
-| A3 | Metropolis | 6:01 |
-| B1 | The Model | 3:41 |
-| B2 | Neon Lights | 8:53 |
-| B3 | The Man•Machine | 5:32 |
+| Position | Title |
+|----------|--------|
+| A1 | The Robots |
+| A2 | Spacelab |
+| A3 | Metropolis |
+| B1 | The Model |
+| B2 | Neon Lights |
+| B3 | The Man•Machine |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Electro", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66022 1 8 |
-| Notes | Comes with full-size (12") 16 page colour booklet.<br>Picture inner sleeve.<br> |
+| Notes | Comes with full-size (12") 16 page colour booklet.  Picture inner sleeve.   |
 | Discogs URL    | [Kraftwerk - The Man•Machine](https://www.discogs.com/release/2058334-Kraftwerk-The-ManMachine) |

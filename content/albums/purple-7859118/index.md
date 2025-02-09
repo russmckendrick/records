@@ -50,18 +50,18 @@ Purple is the fourth studio album by American heavy metal band Baroness. It was 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Morningstar | 4:16 |
-| A2 | Shock Me | 4:17 |
-| A3 | Try To Disappear | 4:52 |
-| A4 | Kerosene  | 5:10 |
-| A5 | Fugue  | 2:34 |
-| B6 | Chlorine & Wine | 6:49 |
-| B7 | The Iron Bell | 4:24 |
-| B8 | Desperation Burns | 4:14 |
-| B9 | If I Have To Wake Up (Would You Stop The Rain?) | 5:41 |
-| B10 | Crossroads Of Infinity | 0:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Morningstar |
+| A2 | Shock Me |
+| A3 | Try To Disappear |
+| A4 | Kerosene  |
+| A5 | Fugue  |
+| B6 | Chlorine & Wine |
+| B7 | The Iron Bell |
+| B8 | Desperation Burns |
+| B9 | If I Have To Wake Up (Would You Stop The Rain?) |
+| B10 | Crossroads Of Infinity |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ Purple is the fourth studio album by American heavy metal band Baroness. It was 
 | Format         | Vinyl LP Album (180 gram) |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN-001 |
-| Notes | 180 gram black vinyl in a plain white poly-lined paper sleeve inside a gatefold jacket. <br>Includes an 8-page 11" x 11" full color booklet with artwork, lyrics and credits, <br>an additional printed inner sleeve, and a download code card ([url=https://www.discogs.com/release/9675229]digital release[/url]). <br>The gatefold sleeve is printed plain purple on the inner surface.<br><br>Some copies have a big sticker with golden letters on the shrink wrap (see picture). <br>These also have a different barcode sticker attached to the shrink on the back, right under the original barcode on the sleeve.<br><br>Track timings were taken from playing the record at constant 33⅓ RPM. They are not listed on the release. <br>Side A has a locked runout groove, so the duration of A5 could be infinitly. <br><br>Tracks are listed sequentially in the booklet.<br><br>Produced at Tarbox Road Studios, Cassadega, NY, Winter 2015.<br>Supplementary tracking done at IQL Studios, Philadelphia, PA.<br>Mastered at Sterling Sound, New York, NY.<br><br>[Printed on back cover:]<br>© & ℗ 2015 Abraxan Hymns, LLC. East Coast, USA.<br><br>[Printed on label side B:]<br>©AHORKEY<br><br>Runout matrix is etched, except "STERLING -37184- P. USA" which is stamped. |
+| Notes | 180 gram black vinyl in a plain white poly-lined paper sleeve inside a gatefold jacket.  Includes an 8-page 11" x 11" full color booklet with artwork, lyrics and credits,  an additional printed inner sleeve, and a download code card ([url=https://www.discogs.com/release/9675229]digital release[/url]).  The gatefold sleeve is printed plain purple on the inner surface.  Some copies have a big sticker with golden letters on the shrink wrap (see picture).  These also have a different barcode sticker attached to the shrink on the back, right under the original barcode on the sleeve.  Track timings were taken from playing the record at constant 33⅓ RPM. They are not listed on the release.  Side A has a locked runout groove, so the duration of A5 could be infinitly.   Tracks are listed sequentially in the booklet.  Produced at Tarbox Road Studios, Cassadega, NY, Winter 2015. Supplementary tracking done at IQL Studios, Philadelphia, PA. Mastered at Sterling Sound, New York, NY.  [Printed on back cover:] © & ℗ 2015 Abraxan Hymns, LLC. East Coast, USA.  [Printed on label side B:] ©AHORKEY  Runout matrix is etched, except "STERLING -37184- P. USA" which is stamped. |
 | Discogs URL    | [Baroness - Purple](https://www.discogs.com/release/7859118-Baroness-Purple) |

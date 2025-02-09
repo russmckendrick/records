@@ -31,18 +31,18 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Still Crazy After All These Years | 3:25 |
-| A2 | My Little Town | 3:52 |
-| A3 | I Do It For Your Love | 3:35 |
-| A4 | 50 Ways To Leave Your Lover | 3:35 |
-| A5 | Night Game | 2:47 |
-| B1 | Gone At Last | 3:24 |
-| B2 | Some Folks Lives Roll Easy | 3:10 |
-| B3 | Have A Good Time | 3:25 |
-| B4 | You're Kind | 3:23 |
-| B5 | Silent Eyes | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Still Crazy After All These Years |
+| A2 | My Little Town |
+| A3 | I Do It For Your Love |
+| A4 | 50 Ways To Leave Your Lover |
+| A5 | Night Game |
+| B1 | Gone At Last |
+| B2 | Some Folks Lives Roll Easy |
+| B3 | Have A Good Time |
+| B4 | You're Kind |
+| B5 | Silent Eyes |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Legacy |
 | Catalog Number | 88985422371 |
-| Notes | Includes insert with credits & download code<br><br>Made in the EU |
+| Notes | Includes insert with credits & download code  Made in the EU |
 | Discogs URL    | [Paul Simon - Still Crazy After All These Years](https://www.discogs.com/release/10764987-Paul-Simon-Still-Crazy-After-All-These-Years) |

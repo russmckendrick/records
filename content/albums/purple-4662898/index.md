@@ -35,19 +35,19 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Meatplow | 3:38 |
-| A2 | Vasoline | 2:56 |
-| A3 | Lounge Fly | 5:17 |
-| A4 | Interstate Love Song | 3:13 |
-| A5 | Still Remains | 3:32 |
-| A6 | Pretty Penny | 3:43 |
-| B1 | Silvergun Superman | 5:16 |
-| B2 | Big Empty | 4:54 |
-| B3 | Unglued | 2:34 |
-| B4 | Army Ants | 3:46 |
-| B5 | Kitchenware & Candybars | 8:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Meatplow |
+| A2 | Vasoline |
+| A3 | Lounge Fly |
+| A4 | Interstate Love Song |
+| A5 | Still Remains |
+| A6 | Pretty Penny |
+| B1 | Silvergun Superman |
+| B2 | Big Empty |
+| B3 | Unglued |
+| B4 | Army Ants |
+| B5 | Kitchenware & Candybars |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP816 |
-| Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94) <br><br>"Big Empty" recorded at the Record Plant on May 25th '93 <br>"Loungefly" recorded at Paisley Park on July 12th '93 <br>"Pretty Penny" recorded at Harptone Studios <br><br>180 gram audiophile vinyl with four page insert showing images of the masters <br><br>Originally released ℗ & © 1994 Atlantic Records <br>This release ℗ & © 2013 Warner Music <br><br>Made in the EU |
+| Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94)   "Big Empty" recorded at the Record Plant on May 25th '93  "Loungefly" recorded at Paisley Park on July 12th '93  "Pretty Penny" recorded at Harptone Studios   180 gram audiophile vinyl with four page insert showing images of the masters   Originally released ℗ & © 1994 Atlantic Records  This release ℗ & © 2013 Warner Music   Made in the EU |
 | Discogs URL    | [Stone Temple Pilots - Purple](https://www.discogs.com/release/4662898-Stone-Temple-Pilots-Purple) |

@@ -52,21 +52,21 @@ Tucker: “This song is really about realising that there's some social justice 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Center Won't Hold |  |
-| A2 | Hurry On Home |  |
-| A3 | Reach Out |  |
-| A4 | Can I Go On |  |
-| A5 | Restless |  |
-| A6 | Ruins |  |
-| B1 | Love |  |
-| B2 | Bad Dance |  |
-| B3 | The Future Is Here |  |
-| B4 | The Dog/The Body |  |
-| B5 | Broken |  |
-| C | Hurry On Home |  |
-| D | The Dog/The Body |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Center Won't Hold |
+| A2 | Hurry On Home |
+| A3 | Reach Out |
+| A4 | Can I Go On |
+| A5 | Restless |
+| A6 | Ruins |
+| B1 | Love |
+| B2 | Bad Dance |
+| B3 | The Future Is Here |
+| B4 | The Dog/The Body |
+| B5 | Broken |
+| C | Hurry On Home |
+| D | The Dog/The Body |
 
 
 ## Apple Music
@@ -84,5 +84,5 @@ Tucker: “This song is really about realising that there's some social justice 
 | Format         | Vinyl LP Album, Vinyl 7" Single |
 | Label          | Caroline International |
 | Catalog Number | 7790840 |
-| Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE <br><br>Catalogue number on LP sleeve is 7790840<br>Catalogue number of 7" single is 7790839<br>Administered by BMG Rights Management (US) LLC. |
+| Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC. |
 | Discogs URL    | [Sleater-Kinney - The Center Won't Hold](https://www.discogs.com/release/14003093-Sleater-Kinney-The-Center-Wont-Hold) |

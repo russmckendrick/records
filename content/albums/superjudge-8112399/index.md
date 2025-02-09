@@ -37,26 +37,26 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cyclops Revolution |  |
-| A2 | Twin Earth |  |
-| A3 | Superjudge |  |
-| A4 | Cage Around The Sun |  |
-| B1 | Elephant Bell |  |
-| B2 | Dinosaur Vacume |  |
-| B3 | Evil |  |
-| B4 | Stadium |  |
-| B5 | Face Down |  |
-| C1 | Brainstorm |  |
-| C2 | Black Balloon |  |
-| C3 | Unsolid (Studio B-Side) |  |
-| C4 | Medicine (Live B-Side) |  |
-| C5 | Nod Scene (Live B-Side) |  |
-| D1 | Superjudge (Live B-Side) |  |
-| D2 | Twin Earth (Live) |  |
-| D3 | Nod Scene (Live) |  |
-| D4 | Evil (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cyclops Revolution |
+| A2 | Twin Earth |
+| A3 | Superjudge |
+| A4 | Cage Around The Sun |
+| B1 | Elephant Bell |
+| B2 | Dinosaur Vacume |
+| B3 | Evil |
+| B4 | Stadium |
+| B5 | Face Down |
+| C1 | Brainstorm |
+| C2 | Black Balloon |
+| C3 | Unsolid (Studio B-Side) |
+| C4 | Medicine (Live B-Side) |
+| C5 | Nod Scene (Live B-Side) |
+| D1 | Superjudge (Live B-Side) |
+| D2 | Twin Earth (Live) |
+| D3 | Nod Scene (Live) |
+| D4 | Evil (Live) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642450 |
-| Notes |  Black vinyl. Includes sleeve-notes & bonus tracks + cover material. <br><br>Comes with free album download code.<br><br>℗ & © 2015 Spinefarm Records & Universal Music Group Company<br><br>Made in the EU. |
+| Notes |  Black vinyl. Includes sleeve-notes & bonus tracks + cover material.     Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |
 | Discogs URL    | [Monster Magnet - Superjudge](https://www.discogs.com/release/8112399-Monster-Magnet-Superjudge) |

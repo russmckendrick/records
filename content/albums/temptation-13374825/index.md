@@ -31,10 +31,10 @@ Commercially, the album chart entries were concentrated in Europe. Upon release,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Temptation |  |
-| B | Hurt |  |
+| Position | Title |
+|----------|--------|
+| A | Temptation |
+| B | Hurt |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ Commercially, the album chart entries were concentrated in Europe. Upon release,
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
 | Label          | Factory |
 | Catalog Number | fac 63 |
-| Notes | ℗ Original 1982, Remaster 2019 Warner Music UK Limited.<br>© 2019 Warner Music UK Limited<br><br>Embossed sleeve, printed inner sleeve. |
+| Notes | ℗ Original 1982, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Embossed sleeve, printed inner sleeve. |
 | Discogs URL    | [New Order - Temptation](https://www.discogs.com/release/13374825-New-Order-Temptation) |

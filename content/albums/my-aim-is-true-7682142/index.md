@@ -33,21 +33,21 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Welcome To The Working Week |  |
-| A2 | Miracle Man |  |
-| A3 | No Dancing |  |
-| A4 | Blame It On Cain |  |
-| A5 | Alison |  |
-| A6 | Sneaky Feelings |  |
-| A7 | Watching The Detectives |  |
-| B1 | (The Angels Wanna Wear My) Red Shoes |  |
-| B2 | Less Than Zero |  |
-| B3 | Mystery Dance |  |
-| B4 | Pay It Back |  |
-| B5 | I'm Not Angry |  |
-| B6 | Waiting For The End Of The World |  |
+| Position | Title |
+|----------|--------|
+| A1 | Welcome To The Working Week |
+| A2 | Miracle Man |
+| A3 | No Dancing |
+| A4 | Blame It On Cain |
+| A5 | Alison |
+| A6 | Sneaky Feelings |
+| A7 | Watching The Detectives |
+| B1 | (The Angels Wanna Wear My) Red Shoes |
+| B2 | Less Than Zero |
+| B3 | Mystery Dance |
+| B4 | Pay It Back |
+| B5 | I'm Not Angry |
+| B6 | Waiting For The End Of The World |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | UMe |
 | Catalog Number | 0602547331144 |
-| Notes | Includes a voucher to download MP3 version of the album.<br>Made in the Czech Republic. <br> |
+| Notes | Includes a voucher to download MP3 version of the album. Made in the Czech Republic.   |
 | Discogs URL    | [Elvis Costello - My Aim Is True](https://www.discogs.com/release/7682142-Elvis-Costello-My-Aim-Is-True) |

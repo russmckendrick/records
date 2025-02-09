@@ -26,33 +26,33 @@ The Secret Migration is the sixth album by the alternative rock band Mercury Rev
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Secret For A Song |  |
-| A2 | Across Yer Ocean |  |
-| A3 | Diamonds |  |
-| A4 | Black Forest (Lorelei) |  |
-| A5 | Vermillion |  |
-| A6 | In The Wilderness |  |
-| B1 | In A Funny Way |  |
-| B2 | My Love |  |
-| B3 | Moving On |  |
-| B4 | The Climbing Rose |  |
-| B5 | Arise |  |
-| B6 | First-Time Mother's Joy (Flying) |  |
-| B7 | Down Poured The Heavens |  |
-| C1 | Tennessee Blues |  |
-| C2 | Afraid |  |
-| C3 | Seagull |  |
-| C4 | Androgynous |  |
-| C5 | Mirror For A Bell |  |
-| C6 | Good Times Ahead |  |
-| C7 | I Never Had It So Good |  |
-| D1 | Blue Clouds |  |
-| D2 | Late Night Request |  |
-| D3 | A Season Of Poussin |  |
-| D4 | Good Day |  |
-| D5 | Look At Brutis With His Knife |  |
+| Position | Title |
+|----------|--------|
+| A1 | Secret For A Song |
+| A2 | Across Yer Ocean |
+| A3 | Diamonds |
+| A4 | Black Forest (Lorelei) |
+| A5 | Vermillion |
+| A6 | In The Wilderness |
+| B1 | In A Funny Way |
+| B2 | My Love |
+| B3 | Moving On |
+| B4 | The Climbing Rose |
+| B5 | Arise |
+| B6 | First-Time Mother's Joy (Flying) |
+| B7 | Down Poured The Heavens |
+| C1 | Tennessee Blues |
+| C2 | Afraid |
+| C3 | Seagull |
+| C4 | Androgynous |
+| C5 | Mirror For A Bell |
+| C6 | Good Times Ahead |
+| C7 | I Never Had It So Good |
+| D1 | Blue Clouds |
+| D2 | Late Night Request |
+| D3 | A Season Of Poussin |
+| D4 | Good Day |
+| D5 | Look At Brutis With His Knife |
 
 
 ## Apple Music

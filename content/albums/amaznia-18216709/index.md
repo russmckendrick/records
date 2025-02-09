@@ -34,17 +34,17 @@ styles: ["Ambient", "Field Recording"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Amazônia (Part 1) | 7:42 |
-| A2 | Amazônia (Part 2) | 9:59 |
-| B1 | Amazônia (Part 3) | 8:10 |
-| B2 | Amazônia (Part 4) | 3:16 |
-| B3 | Amazônia (Part 5) | 6:04 |
-| C1 | Amazônia (Part 6) | 3:33 |
-| C2 | Amazônia (Part 7) | 4:18 |
-| C3 | Amazônia (Part 8) | 3:19 |
-| C4 | Amazônia (Part 9) | 6:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Amazônia (Part 1) |
+| A2 | Amazônia (Part 2) |
+| B1 | Amazônia (Part 3) |
+| B2 | Amazônia (Part 4) |
+| B3 | Amazônia (Part 5) |
+| C1 | Amazônia (Part 6) |
+| C2 | Amazônia (Part 7) |
+| C3 | Amazônia (Part 8) |
+| C4 | Amazônia (Part 9) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Ambient", "Field Recording"]
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Stereo (180g) |
 | Label          | Columbia |
 | Catalog Number | 19439845051 |
-| Notes | Gatefold sleeve & wav 5.1 and wav Binaural download code<br><br>Made in the EU.<br> |
+| Notes | Gatefold sleeve & wav 5.1 and wav Binaural download code  Made in the EU.  |
 | Discogs URL    | [Jean-Michel Jarre - Amazônia](https://www.discogs.com/release/18216709-Jean-Michel-Jarre-Amazônia) |

@@ -49,46 +49,46 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 12" Mixes |  |
-| A1 | Running Up That Hill (A Deal With God) |  |
-| A2 | The Big Sky (Meteorological Mix) |  |
-| B1 | Cloudbusting (The Orgonon Mix) |  |
-| B2 | Hounds Of Love (Alternative Mix) |  |
-| B3 | Experiment IV (Extended Mix) |  |
-|  | The Other Side 1 |  |
-| C1 | Walk Straight Down The Middle |  |
-| C2 | You Want Alchemy |  |
-| C3 | Be Kind To My Mistakes |  |
-| C4 | Lyra |  |
-| C5 | Under The Ivy |  |
-| D1 | Experiment IV |  |
-| D2 | Ne T’Enfuis Pas |  |
-| D3 | Un Baiser D’Enfant |  |
-| D4 | Burning Bridge |  |
-| D5 | Running Up That Hill (A Deal With God) 2012 Remix |  |
-|  | The Other Side 2 |  |
-| E1 | Home For Christmas |  |
-| E2 | One Last Look Around The House Before We Go |  |
-| E3 | I’m Still Waiting |  |
-| E4 | Warm And Soothing |  |
-| E5 | Show A Little Devotion |  |
-| F1 | Passing Through Air |  |
-| F2 | Humming |  |
-| F3 | Ran Tan Waltz |  |
-| F4 | December Will Be Magic Again |  |
-| F5 | Wuthering Heights (Remix / New Vocal From ‘The Whole Story’) |  |
-|  | In Others' Words |  |
-| G1 | Rocket Man |  |
-| G2 | Sexual Healing |  |
-| G3 | Mná na hÉireann |  |
-| G4 | My Lagan Love |  |
-| H1 | The Man I Love |  |
-| H2 |  Brazil (Sam Lowry's First Dream) |  |
-| H3 | The Handsome Cabin Boy |  |
-| H4 | Lord Of The Reedy River |  |
-| H5 | Candle In The Wind |  |
+| Position | Title |
+|----------|--------|
+|  | 12" Mixes |
+| A1 | Running Up That Hill (A Deal With God) |
+| A2 | The Big Sky (Meteorological Mix) |
+| B1 | Cloudbusting (The Orgonon Mix) |
+| B2 | Hounds Of Love (Alternative Mix) |
+| B3 | Experiment IV (Extended Mix) |
+|  | The Other Side 1 |
+| C1 | Walk Straight Down The Middle |
+| C2 | You Want Alchemy |
+| C3 | Be Kind To My Mistakes |
+| C4 | Lyra |
+| C5 | Under The Ivy |
+| D1 | Experiment IV |
+| D2 | Ne T’Enfuis Pas |
+| D3 | Un Baiser D’Enfant |
+| D4 | Burning Bridge |
+| D5 | Running Up That Hill (A Deal With God) 2012 Remix |
+|  | The Other Side 2 |
+| E1 | Home For Christmas |
+| E2 | One Last Look Around The House Before We Go |
+| E3 | I’m Still Waiting |
+| E4 | Warm And Soothing |
+| E5 | Show A Little Devotion |
+| F1 | Passing Through Air |
+| F2 | Humming |
+| F3 | Ran Tan Waltz |
+| F4 | December Will Be Magic Again |
+| F5 | Wuthering Heights (Remix / New Vocal From ‘The Whole Story’) |
+|  | In Others' Words |
+| G1 | Rocket Man |
+| G2 | Sexual Healing |
+| G3 | Mná na hÉireann |
+| G4 | My Lagan Love |
+| H1 | The Man I Love |
+| H2 |  Brazil (Sam Lowry's First Dream) |
+| H3 | The Handsome Cabin Boy |
+| H4 | Lord Of The Reedy River |
+| H5 | Candle In The Wind |
 
 
 ## Apple Music
@@ -105,5 +105,5 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 | Format         | Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Vinyl LP Compilation Remastered, Box Set Compilation (180 Gram) |
 | Label          | Fish People |
 | Catalog Number | 0190295593926 |
-| Notes | Issued in a slipcase style box with each album housed in its own cardboard sleeve with black anti-static die-cut inner sleeves.<br><br>[Hype sticker:]<br>Kate Bush<br>Remastered In Vinyl 4<br>Rarities Collection:<br>12" Mixes<br>B-Sides 1<br>B-Sides 2<br>& Covers<br>180g Heavyweight Vinyl<br><br>[Back of the box and sleeve of each album:]<br>℗ 2018 The copyright in this compilation is owned by Noble & Brite Ltd. © 2018 Noble & Brite Ltd. [...]. Made in the E.U.<br><br>[Sleeve, LP 1:]<br>Side One:<br>1. (Originally Released: Aug 1985)<br>2. (Originally Released: Apr 1986)<br>Side Two:<br>1. (Originally Released: Oct 1985)<br>2. (Originally Released: Feb 1986)<br>3. (Originally Released: Oct 1986)<br>Side One, Tracks 1 & 2: ℗ 2018 Noble & Brite Ltd.<br>Side Two, Tracks 1 - 3: ℗ 2018 Noble & Brite Ltd.<br><br>[Sleeve, LP 2:]<br>Side One:<br>1. (Originally Released: Sept 1989)<br>2. (Originally Released: Apr 1994)<br>3. (Originally Released: Nov 1989)<br>4. (Originally Released: Nov 2007)<br>5. (Originally Released: Aug 1985)<br>Side Two:<br>1. (Originally Released: Oct 1985)<br>2. (Originally Released: Nov 1982)<br>3. (Originally Released: Jul 1983)<br>4. (Originally Released: Oct 1985)<br>5. (Originally Released: August 2012)<br>Side One, Tracks 1, 2, 3 & 5: ℗ 2018 Noble & Brite Ltd.<br>Track 4: ℗ 2007 New Line Productions Inc. Licensed courtesy of New Line Productions Inc.<br>Side Two, Tracks 1 - 5: ℗ 2018 Noble & Brite Ltd.<br><br>[Sleeve, LP 3:]<br>Side One:<br>1. (Originally Released: Nov 1993)<br>2. (Originally Released: Feb 1990)<br>3. (Originally Released: Nov 1989)<br>4. (Originally Released: Nov 1980)<br>5. (Originally Released: Nov 1993)<br>Side Two:<br>1. (Recorded: 1975, Originally Released: Sept 1980)<br>2. (Recorded: 1975, Previously Unreleased)<br>3. (Originally Released: Jun 1980)<br>4. (Originally Released: Nov 1980)<br>5. (Originally Released: Nov 1986)<br>Side One, Tracks 1 - 5: ℗ 2018 Noble & Brite Ltd.<br>Side Two, Tracks 1 & 3: ℗ 1980 Parlophone Records Ltd.<br>2: ℗ 1975 Parlophone Records Ltd.<br>5: ℗ 1986 Parlophone Records Ltd. Licensed courtesy of Parlophone Records Ltd.<br>4: ℗ 2018 Noble & Brite Ltd.<br><br>[Sleeve, LP 4:]<br>Side One:<br>1. (Originally Released: Dec 1991)<br>2. (Originally Released: Oct 2005)<br>3. (Originally Released: May 1996)<br>4. (Originally Released: Oct 1985)<br>Side Two:<br>1. (Originally Released: July 1994)<br>2. (Recorded: 1985, Originally Released: Feb 1993)<br>(from [url=https://www.discogs.com/master/74409-Michael-Kamen-The-National-Philharmonic-Orchestra-Of-London-Brazil-Music-From-The-Original-Motion-Pi]the original motion picture soundtrack album "Brazil"[/url])<br>3. (Originally Released: Feb 1986)<br>4. (Originally Released: Jun 1981)<br>5. (Originally Released: Dec 1991)<br>Side One, Tracks 1 - 4: ℗ 2018 Noble & Brite Ltd.<br>Side Two, Tracks 1, 3, 4 & 5: ℗ 2018 Noble & Brite Ltd.<br>Track 2: ℗ 1985 Universal City Studios LLC / 20th Century Fox Film Corp.<br>Licensed courtesy of Universal City Studios LLC / 20th Century Fox Film Corp.<br><br>Additional runout information:<br>- Runouts are etched<br>- The Optimal Media plating symbols ("geometric" marks) are mirrored and some of them are reverted<br>- An unidentified symbol which looks like a smaller case "c" with lines going up and down on sides D, G and H, represented here by { (on sides G and H it appears twice) |
+| Notes | Issued in a slipcase style box with each album housed in its own cardboard sleeve with black anti-static die-cut inner sleeves.  [Hype sticker:] Kate Bush Remastered In Vinyl 4 Rarities Collection: 12" Mixes B-Sides 1 B-Sides 2 & Covers 180g Heavyweight Vinyl  [Back of the box and sleeve of each album:] ℗ 2018 The copyright in this compilation is owned by Noble & Brite Ltd. © 2018 Noble & Brite Ltd. [...]. Made in the E.U.  [Sleeve, LP 1:] Side One: 1. (Originally Released: Aug 1985) 2. (Originally Released: Apr 1986) Side Two: 1. (Originally Released: Oct 1985) 2. (Originally Released: Feb 1986) 3. (Originally Released: Oct 1986) Side One, Tracks 1 & 2: ℗ 2018 Noble & Brite Ltd. Side Two, Tracks 1 - 3: ℗ 2018 Noble & Brite Ltd.  [Sleeve, LP 2:] Side One: 1. (Originally Released: Sept 1989) 2. (Originally Released: Apr 1994) 3. (Originally Released: Nov 1989) 4. (Originally Released: Nov 2007) 5. (Originally Released: Aug 1985) Side Two: 1. (Originally Released: Oct 1985) 2. (Originally Released: Nov 1982) 3. (Originally Released: Jul 1983) 4. (Originally Released: Oct 1985) 5. (Originally Released: August 2012) Side One, Tracks 1, 2, 3 & 5: ℗ 2018 Noble & Brite Ltd. Track 4: ℗ 2007 New Line Productions Inc. Licensed courtesy of New Line Productions Inc. Side Two, Tracks 1 - 5: ℗ 2018 Noble & Brite Ltd.  [Sleeve, LP 3:] Side One: 1. (Originally Released: Nov 1993) 2. (Originally Released: Feb 1990) 3. (Originally Released: Nov 1989) 4. (Originally Released: Nov 1980) 5. (Originally Released: Nov 1993) Side Two: 1. (Recorded: 1975, Originally Released: Sept 1980) 2. (Recorded: 1975, Previously Unreleased) 3. (Originally Released: Jun 1980) 4. (Originally Released: Nov 1980) 5. (Originally Released: Nov 1986) Side One, Tracks 1 - 5: ℗ 2018 Noble & Brite Ltd. Side Two, Tracks 1 & 3: ℗ 1980 Parlophone Records Ltd. 2: ℗ 1975 Parlophone Records Ltd. 5: ℗ 1986 Parlophone Records Ltd. Licensed courtesy of Parlophone Records Ltd. 4: ℗ 2018 Noble & Brite Ltd.  [Sleeve, LP 4:] Side One: 1. (Originally Released: Dec 1991) 2. (Originally Released: Oct 2005) 3. (Originally Released: May 1996) 4. (Originally Released: Oct 1985) Side Two: 1. (Originally Released: July 1994) 2. (Recorded: 1985, Originally Released: Feb 1993) (from [url=https://www.discogs.com/master/74409-Michael-Kamen-The-National-Philharmonic-Orchestra-Of-London-Brazil-Music-From-The-Original-Motion-Pi]the original motion picture soundtrack album "Brazil"[/url]) 3. (Originally Released: Feb 1986) 4. (Originally Released: Jun 1981) 5. (Originally Released: Dec 1991) Side One, Tracks 1 - 4: ℗ 2018 Noble & Brite Ltd. Side Two, Tracks 1, 3, 4 & 5: ℗ 2018 Noble & Brite Ltd. Track 2: ℗ 1985 Universal City Studios LLC / 20th Century Fox Film Corp. Licensed courtesy of Universal City Studios LLC / 20th Century Fox Film Corp.  Additional runout information: - Runouts are etched - The Optimal Media plating symbols ("geometric" marks) are mirrored and some of them are reverted - An unidentified symbol which looks like a smaller case "c" with lines going up and down on sides D, G and H, represented here by { (on sides G and H it appears twice) |
 | Discogs URL    | [Kate Bush - Remastered In Vinyl IV](https://www.discogs.com/release/12867333-Kate-Bush-Remastered-In-Vinyl-IV) |

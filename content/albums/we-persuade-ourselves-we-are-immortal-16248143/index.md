@@ -29,14 +29,14 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Persuade Ourselves We Are Immortal | 12:22 |
-| A2 | Hymortality | 3:53 |
-| A3 | The Immortality Break | 3:10 |
-| B1 | Synthony On A Theme Of Mortality | 11:22 |
-| B2 | Psych Recap | 5:17 |
-| B3 | Physically I’m Here, Mentally I’m Far, Far Away | 4:18 |
+| Position | Title |
+|----------|--------|
+| A1 | We Persuade Ourselves We Are Immortal |
+| A2 | Hymortality |
+| A3 | The Immortality Break |
+| B1 | Synthony On A Theme Of Mortality |
+| B2 | Psych Recap |
+| B3 | Physically I’m Here, Mentally I’m Far, Far Away |
 
 
 ## Apple Music

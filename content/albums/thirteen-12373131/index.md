@@ -33,23 +33,23 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hang On | 5:05 |
-| A2 | The Cabbage | 2:56 |
-| A3 | Radio | 2:56 |
-| A4 | Norman 3 | 4:36 |
-| A5 | Song To The Cynic | 3:36 |
-| A6 | 120 Mins | 3:07 |
-| B1 | Escher | 3:19 |
-| B2 | Commercial Alternative | 2:40 |
-| B3 | Fear Of Flying | 5:24 |
-| B4 | Tears Are Cool | 3:48 |
-| B5 | Ret Liv Dead | 2:09 |
-| B6 | Get Funky | 1:23 |
-| B7 | Gene Clark | 6:37 |
-| C | Country Song | 3:58 |
-| D | Eyes Wide Open | 1:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Hang On |
+| A2 | The Cabbage |
+| A3 | Radio |
+| A4 | Norman 3 |
+| A5 | Song To The Cynic |
+| A6 | 120 Mins |
+| B1 | Escher |
+| B2 | Commercial Alternative |
+| B3 | Fear Of Flying |
+| B4 | Tears Are Cool |
+| B5 | Ret Liv Dead |
+| B6 | Get Funky |
+| B7 | Gene Clark |
+| C | Country Song |
+| D | Eyes Wide Open |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837061 |
-| Notes | Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire.<br>Mixed at Revolution Studios.<br>Mastered at the Hit Factory.<br>Remastered at Abbey Road Studio<br>Joe MacAlinden appears courtesy of [l944]/[l144867].<br>John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [url=https://www.discogs.com/label/120387-Temple-Records-2]Temple Records[/url].<br>An initial run of copies preordered from official webstore was signed by band members'.<br><br>Includes a colour inner sleeve printed with credits and photographs.<br>Includes mp3 download card.<br>Limited edition 7" included with initial pressing.<br>Track times are not printed on the release itself, 7" excepted. |
+| Notes | Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire. Mixed at Revolution Studios. Mastered at the Hit Factory. Remastered at Abbey Road Studio Joe MacAlinden appears courtesy of [l944]/[l144867]. John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [url=https://www.discogs.com/label/120387-Temple-Records-2]Temple Records[/url]. An initial run of copies preordered from official webstore was signed by band members'.  Includes a colour inner sleeve printed with credits and photographs. Includes mp3 download card. Limited edition 7" included with initial pressing. Track times are not printed on the release itself, 7" excepted. |
 | Discogs URL    | [Teenage Fanclub - Thirteen](https://www.discogs.com/release/12373131-Teenage-Fanclub-Thirteen) |

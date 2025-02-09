@@ -34,18 +34,18 @@ The opening track of Orbital’s 10th album, <i>Optical Delusion</i>, borrows it
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ringa Ringa (The Old Pandemic Folk Song) |  |
-| A2 | Day One |  |
-| A3 | Are You Alive? |  |
-| B4 | You Are The Frequency |  |
-| B5 | The New Abnormal |  |
-| C6 | Home |  |
-| C7 | Dirty Rat |  |
-| C8 | Requiem For The Pre-Apocalypse |  |
-| D9 | What A Surprise |  |
-| D10 | Moon Princess |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ringa Ringa (The Old Pandemic Folk Song) |
+| A2 | Day One |
+| A3 | Are You Alive? |
+| B4 | You Are The Frequency |
+| B5 | The New Abnormal |
+| C6 | Home |
+| C7 | Dirty Rat |
+| C8 | Requiem For The Pre-Apocalypse |
+| D9 | What A Surprise |
+| D10 | Moon Princess |
 
 
 ## Apple Music

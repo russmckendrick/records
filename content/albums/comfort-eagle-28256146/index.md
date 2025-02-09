@@ -33,19 +33,19 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Opera Singer | 4:06 |
-| A2 | Meanwhile, Rick James... | 3:57 |
-| A3 | Shadow Stabbing | 3:07 |
-| A4 | Short Skirt / Long Jacket | 3:24 |
-| A5 | Commissioning A Symphony In C | 2:59 |
-| B6 | Arco Arena | 1:31 |
-| B7 | Comfort Eagle | 3:40 |
-| B8 | Long Line Of Cars | 3:24 |
-| B9 | Love You Madly | 3:58 |
-| B10 | Pretty Pink Ribbon | 3:08 |
-| B11 | World Of Two | 3:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Opera Singer |
+| A2 | Meanwhile, Rick James... |
+| A3 | Shadow Stabbing |
+| A4 | Short Skirt / Long Jacket |
+| A5 | Commissioning A Symphony In C |
+| B6 | Arco Arena |
+| B7 | Comfort Eagle |
+| B8 | Long Line Of Cars |
+| B9 | Love You Madly |
+| B10 | Pretty Pink Ribbon |
+| B11 | World Of Two |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Coke Bottle Green, 150 Gram) |
 | Label          | Columbia |
 | Catalog Number | 19658762461 |
-| Notes | ℗ 2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601.<br>"Vinyl: Made In France"<br><br>Recorded at Paradise Studios in Sacramento, CA with additional recording at Hyde Street Studios in San Francisco, CA.<br>Tracks A1, A4 and B8 to B11 mixed at Paradise Studios in Sacramento, CA.<br>Tracks A2 and B6 mixed at Hyde Street Studios, San Francisco, CA.<br>Tracks A1, A2, A3 and B7 mixed at Noise In The Attic, Seal Beach, CA.<br>Mastered at Precision Mastering in Los Angeles, CA.<br><br>Catalog number is in the runouts and barcode.<br><br>On rear cover:<br>℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601<br><br>On record labels:<br>℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Made in France<br><br>Tracks listed sequentially to match release. Comes with printed inner sleeve. |
+| Notes | ℗ 2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601. "Vinyl: Made In France"  Recorded at Paradise Studios in Sacramento, CA with additional recording at Hyde Street Studios in San Francisco, CA. Tracks A1, A4 and B8 to B11 mixed at Paradise Studios in Sacramento, CA. Tracks A2 and B6 mixed at Hyde Street Studios, San Francisco, CA. Tracks A1, A2, A3 and B7 mixed at Noise In The Attic, Seal Beach, CA. Mastered at Precision Mastering in Los Angeles, CA.  Catalog number is in the runouts and barcode.  On rear cover: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On record labels: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Made in France  Tracks listed sequentially to match release. Comes with printed inner sleeve. |
 | Discogs URL    | [Cake - Comfort Eagle](https://www.discogs.com/release/28256146-Cake-Comfort-Eagle) |

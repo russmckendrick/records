@@ -29,22 +29,22 @@ Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Love Myself | 3:07 |
-| A2 | Yeah | 3:08 |
-| A3 | No Holiday | 3:12 |
-| A4 | Big Fan | 3:48 |
-| A5 | Don't Like You (What The Hell Are We Supposed To Do) | 3:51 |
-| A6 | String Song | 4:39 |
-| A7 | Can't See Me Now | 3:54 |
-| B1 | Kill You | 2:33 |
-| B2 | (You) | 3:56 |
-| B3 | Low Enough | 3:23 |
-| B4 | Idiot Boy | 3:54 |
-| B5 | Friend Or Foe | 5:01 |
-| B6 | Ball | 2:53 |
-| B7 | ...Have Another One | 2:52 |
+| Position | Title |
+|----------|--------|
+| A1 | I Love Myself |
+| A2 | Yeah |
+| A3 | No Holiday |
+| A4 | Big Fan |
+| A5 | Don't Like You (What The Hell Are We Supposed To Do) |
+| A6 | String Song |
+| A7 | Can't See Me Now |
+| B1 | Kill You |
+| B2 | (You) |
+| B3 | Low Enough |
+| B4 | Idiot Boy |
+| B5 | Friend Or Foe |
+| B6 | Ball |
+| B7 | ...Have Another One |
 
 
 ## Apple Music

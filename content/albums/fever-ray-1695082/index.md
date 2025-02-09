@@ -31,18 +31,18 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If I Had A Heart |  |
-| A2 | When I Grow Up |  |
-| A3 | Dry And Dusty |  |
-| A4 | Seven |  |
-| A5 | Triangle Walks |  |
-| B6 | Concrete Walls |  |
-| B7 | Now's The Only Time I Know |  |
-| B8 | I'm Not Done |  |
-| B9 | Keep The Streets Empty For Me |  |
-| B10 | Coconut |  |
+| Position | Title |
+|----------|--------|
+| A1 | If I Had A Heart |
+| A2 | When I Grow Up |
+| A3 | Dry And Dusty |
+| A4 | Seven |
+| A5 | Triangle Walks |
+| B6 | Concrete Walls |
+| B7 | Now's The Only Time I Know |
+| B8 | I'm Not Done |
+| B9 | Keep The Streets Empty For Me |
+| B10 | Coconut |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 | Format         | Vinyl LP Album |
 | Label          | Rabid Records |
 | Catalog Number | RABIDT039 |
-| Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.<br><br>P & C 2009 Rabid Records<br><br>Tracks listed sequentially |
+| Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially |
 | Discogs URL    | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |

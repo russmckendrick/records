@@ -48,31 +48,31 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rabbot Ho | 0:38 |
-| A2 | Captain Stupido | 1:41 |
-| A3 | Uh Uh | 2:16 |
-| A4 | Bus In These Streets | 2:24 |
-| B1 | A Fan's Mail (Tron Song Suite II) | 2:38 |
-| B2 | Lava Lamp | 2:58 |
-| B3 | Jethro | 1:34 |
-| C1 | Day & Night | 0:37 |
-| C2 | Show You The Way | 3:34 |
-| C3 | Walk On By | 3:19 |
-| D1 | Blackkk | 1:59 |
-| D2 | Tokyo | 2:24 |
-| D3 | Jameel's Space Ride | 1:09 |
-| E1 | Friend Zone | 3:12 |
-| E2 | Them Changes | 3:08 |
-| F1 | Where I'm Going | 2:09 |
-| F2 | Drink Dat | 3:35 |
-| G1 | Inferno | 4:00 |
-| G2 | I Am Crazy | 0:25 |
-| G3 | 3AM | 1:15 |
-| H1 | Drunk | 1:42 |
-| H2 | The Turn Down | 2:29 |
-| H3 | DUI | 2:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Rabbot Ho |
+| A2 | Captain Stupido |
+| A3 | Uh Uh |
+| A4 | Bus In These Streets |
+| B1 | A Fan's Mail (Tron Song Suite II) |
+| B2 | Lava Lamp |
+| B3 | Jethro |
+| C1 | Day & Night |
+| C2 | Show You The Way |
+| C3 | Walk On By |
+| D1 | Blackkk |
+| D2 | Tokyo |
+| D3 | Jameel's Space Ride |
+| E1 | Friend Zone |
+| E2 | Them Changes |
+| F1 | Where I'm Going |
+| F2 | Drink Dat |
+| G1 | Inferno |
+| G2 | I Am Crazy |
+| G3 | 3AM |
+| H1 | Drunk |
+| H2 | The Turn Down |
+| H3 | DUI |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 | Format         | Vinyl 4× 10" 45 RPM (Red), Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF064 |
-| Notes | Manufactured in EU.<br><br>P & C Brainfeeder 2017<br><br>included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)<br><br>Runouts are etched. |
+| Notes | Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched. |
 | Discogs URL    | [Thundercat - Drunk](https://www.discogs.com/release/9888163-Thundercat-Drunk) |

@@ -40,18 +40,18 @@ As part of a re-release of their first two studio albums, Hunting High and Low w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take On Me |  |
-| A2 | Train Of Thought |  |
-| A3 | Hunting High And Low |  |
-| A4 | The Blue Sky |  |
-| A5 | Living A Boy's Adventure Tale |  |
-| B1 | The Sun Always Shines On T.V. |  |
-| B2 | And You Tell Me |  |
-| B3 | Love Is Reason |  |
-| B4 | Dream Myself Alive |  |
-| B5 | Here I Stand And Face The Rain |  |
+| Position | Title |
+|----------|--------|
+| A1 | Take On Me |
+| A2 | Train Of Thought |
+| A3 | Hunting High And Low |
+| A4 | The Blue Sky |
+| A5 | Living A Boy's Adventure Tale |
+| B1 | The Sun Always Shines On T.V. |
+| B2 | And You Tell Me |
+| B3 | Love Is Reason |
+| B4 | Dream Myself Alive |
+| B5 | Here I Stand And Face The Rain |
 
 
 ## Apple Music

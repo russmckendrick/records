@@ -37,29 +37,29 @@ The album features the band's biggest hit, "Womankind", which peaked at no. 12 d
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Jam |  |
-| A1 | The Way That I Live |  |
-| A2 | Too Much Too Young |  |
-| A3 | Splendid Isolation |  |
-| A4 | Soapbox |  |
-| A5 | S.T.W. |  |
-| A6 | Don't Confuse Sex With Love |  |
-| B1 | Womankind |  |
-| B2 | Eyes Wide Open |  |
-| B3 | The Colour Of Love |  |
-| B4 | I Was Not Wrong |  |
-| B5 | Sail Away |  |
-| B6 | Tired Of Waiting For You (So Tired) |  |
-| B7 | S.T.W. (Reprise) |  |
-|  | Live Jam |  |
-| C1 | She's A Little Angel |  |
-| C2 | Product Of The Working Class (Grooved & Jammed) |  |
-| C3 | I Ain't Gonna Cry |  |
-| D1 | Boneyard 1993 |  |
-| D2 | Don't Prey For Me (Extended Version) |  |
-| D3 | Won't Get Fooled Again |  |
+| Position | Title |
+|----------|--------|
+|  | Jam |
+| A1 | The Way That I Live |
+| A2 | Too Much Too Young |
+| A3 | Splendid Isolation |
+| A4 | Soapbox |
+| A5 | S.T.W. |
+| A6 | Don't Confuse Sex With Love |
+| B1 | Womankind |
+| B2 | Eyes Wide Open |
+| B3 | The Colour Of Love |
+| B4 | I Was Not Wrong |
+| B5 | Sail Away |
+| B6 | Tired Of Waiting For You (So Tired) |
+| B7 | S.T.W. (Reprise) |
+|  | Live Jam |
+| C1 | She's A Little Angel |
+| C2 | Product Of The Working Class (Grooved & Jammed) |
+| C3 | I Ain't Gonna Cry |
+| D1 | Boneyard 1993 |
+| D2 | Don't Prey For Me (Extended Version) |
+| D3 | Won't Get Fooled Again |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ The album features the band's biggest hit, "Womankind", which peaked at no. 12 d
 | Format         | Vinyl LP Album, Vinyl 10" 33 ⅓ RPM |
 | Label          | Polydor |
 | Catalog Number | 517 676-1 |
-| Notes | Includes Live Jam 10" recorded at Newport Centre, Gwent<br><br>With hype sticker on sleeve and printed inner sleeve.<br><br>'Tired Of Waiting For You' originally performed by [a94078]<br>'Won't Get Fooled Again' originally performed by [a196766]<br><br>℗ 1992 Polydor Ltd. (UK)<br>℗ 1993 Polydor Ltd. (UK)<br>© 1993 Polydor Ltd. (UK) |
+| Notes | Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK) |
 | Discogs URL    | [Little Angels - Jam](https://www.discogs.com/release/2591057-Little-Angels-Jam) |

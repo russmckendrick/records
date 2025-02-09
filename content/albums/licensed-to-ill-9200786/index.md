@@ -36,21 +36,21 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rhymin & Stealin | 4:08 |
-| A2 | The New Style | 4:35 |
-| A3 | She’s Crafty | 3:36 |
-| A4 | Posse In Effect | 2:27 |
-| A5 | Slow Ride | 2:56 |
-| A6 | Girls | 2:14 |
-| A7 | Fight For Your Right | 3:28 |
-| B1 | No Sleep Till Brooklyn | 4:07 |
-| B2 | Paul Revere | 3:42 |
-| B3 | Hold It Now, Hit It | 3:29 |
-| B4 | Brass Monkey | 2:38 |
-| B5 | Slow And Low | 3:37 |
-| B6 | Time To Get Ill | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Rhymin & Stealin |
+| A2 | The New Style |
+| A3 | She’s Crafty |
+| A4 | Posse In Effect |
+| A5 | Slow Ride |
+| A6 | Girls |
+| A7 | Fight For Your Right |
+| B1 | No Sleep Till Brooklyn |
+| B2 | Paul Revere |
+| B3 | Hold It Now, Hit It |
+| B4 | Brass Monkey |
+| B5 | Slow And Low |
+| B6 | Time To Get Ill |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 | Format         | Vinyl LP Album Reissue (180 Gram, Gatefold, 30th Anniversary Edition) |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06025 478 207-5 (4) |
-| Notes | 30th anniversary reissue<br><br>Catalog numbers: 06025 478 207-5 (4) on the jacket spine, labels and inner sleeve<br><br>Made in the EU.<br><br>No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.<br><br>Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped. |
+| Notes | 30th anniversary reissue  Catalog numbers: 06025 478 207-5 (4) on the jacket spine, labels and inner sleeve  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped. |
 | Discogs URL    | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786-Beastie-Boys-Licensed-To-Ill) |

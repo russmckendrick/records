@@ -46,19 +46,19 @@ In 2017, Kscope Records purchased the album as well as the previous album In Abs
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Deadwing | 9:46 |
-| A2 | Shallow | 4:16 |
-| A3 | Lazarus | 4:18 |
-| B1 | Halo | 4:38 |
-| B2 | Arriving Somewhere But Not Here | 12:02 |
-| C1 | Mellotron Scratch | 6:56 |
-| C2 | Open Car | 3:46 |
-| C3 | Start Of Something Beautiful | 7:39 |
-| D1 | Glass Arm Shattering | 6:13 |
-| D2 | So Called Friend  | 4:48 |
-| D3 | Half-Light | 6:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Deadwing |
+| A2 | Shallow |
+| A3 | Lazarus |
+| B1 | Halo |
+| B2 | Arriving Somewhere But Not Here |
+| C1 | Mellotron Scratch |
+| C2 | Open Car |
+| C3 | Start Of Something Beautiful |
+| D1 | Glass Arm Shattering |
+| D2 | So Called Friend  |
+| D3 | Half-Light |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ In 2017, Kscope Records purchased the album as well as the previous album In Abs
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE982 |
-| Notes | Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone.<br>Some elements retained from demos recorded 2003-04.<br><br>Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion<br><br>Remastered  by SW November 2017<br><br>Gatefold cover with printed inner sleeves.  |
+| Notes | Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves.  |
 | Discogs URL    | [Porcupine Tree - Deadwing](https://www.discogs.com/release/11591303-Porcupine-Tree-Deadwing) |

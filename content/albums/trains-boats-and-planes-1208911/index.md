@@ -30,19 +30,19 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Is Not A Song |  |
-| A2 | Walter's Trip |  |
-| A3 | Trainspotters |  |
-| A4 | After All |  |
-| A5 | Happy Busman |  |
-| B1 | Fashion Crisis Hits New York |  |
-| B2 | Daisy Chain |  |
-| B3 | John And Sue |  |
-| B4 | Bake Us A Song |  |
-| B5 | Time |  |
-| B6 | High Is Low |  |
+| Position | Title |
+|----------|--------|
+| A1 | This Is Not A Song |
+| A2 | Walter's Trip |
+| A3 | Trainspotters |
+| A4 | After All |
+| A5 | Happy Busman |
+| B1 | Fashion Crisis Hits New York |
+| B2 | Daisy Chain |
+| B3 | John And Sue |
+| B4 | Bake Us A Song |
+| B5 | Time |
+| B6 | High Is Low |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Stereo |
 | Label          | Setanta |
 | Catalog Number | INT 828-369-1 |
-| Notes | Issued in a gatefold cover with a printed inner sleeve.<br><br>A1, B1, B2 [*] ℗ 1991 Go! Discs Ltd. ℗ 1992 Go! Discs Ltd. © 1992 Go! Discs Ltd. |
+| Notes | Issued in a gatefold cover with a printed inner sleeve.  A1, B1, B2 [*] ℗ 1991 Go! Discs Ltd. ℗ 1992 Go! Discs Ltd. © 1992 Go! Discs Ltd. |
 | Discogs URL    | [The Frank And Walters - Trains, Boats And Planes](https://www.discogs.com/release/1208911-The-Frank-And-Walters-Trains-Boats-And-Planes) |

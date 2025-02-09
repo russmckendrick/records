@@ -29,35 +29,35 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hundred Mile High City | 3:56 |
-| A2 | It's A Deal, It's A Steal | 0:46 |
-| A3 | The Boss | 3:12 |
-| A4 | Truly, Madly, Deeply | 3:16 |
-| A5 | Hortif**kinculturist | 0:14 |
-| A6 | Police And Thieves | 4:00 |
-| B1 | 18 With A Bullet | 3:23 |
-| B2 | Spooky | 2:36 |
-| B3 | The Game | 0:55 |
-| B4 | Muppets | 0:18 |
-| B5 | Man Machine | 3:32 |
-| B6 | Walk This Land | 3:50 |
-| C1 | Blaspheming Barry | 0:05 |
-| C2 | I Wanna Be Your Dog | 3:05 |
-| C3 | It's Kosher | 0:55 |
-| C4 | Liar Liar | 1:52 |
-| C5 | I've Been Shot | 0:06 |
-| C6 | Why Did You Do It | 3:29 |
-| C7 | Guns 4 Show Knives 4 A Pro | 0:22 |
-| C8 | Oh Girl | 2:45 |
-| C9 | If The Milk Turns Sour | 0:47 |
-| C10 | Zorba The Greek | 2:56 |
-| D1 | I'll Kill Ya | 0:42 |
-| D2 | The Payback | 7:28 |
-| D3 | Fools Gold | 4:13 |
-| D4 | It's Been Emotional | 0:04 |
-| D5 | 18 With A Bullet | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Hundred Mile High City |
+| A2 | It's A Deal, It's A Steal |
+| A3 | The Boss |
+| A4 | Truly, Madly, Deeply |
+| A5 | Hortif**kinculturist |
+| A6 | Police And Thieves |
+| B1 | 18 With A Bullet |
+| B2 | Spooky |
+| B3 | The Game |
+| B4 | Muppets |
+| B5 | Man Machine |
+| B6 | Walk This Land |
+| C1 | Blaspheming Barry |
+| C2 | I Wanna Be Your Dog |
+| C3 | It's Kosher |
+| C4 | Liar Liar |
+| C5 | I've Been Shot |
+| C6 | Why Did You Do It |
+| C7 | Guns 4 Show Knives 4 A Pro |
+| C8 | Oh Girl |
+| C9 | If The Milk Turns Sour |
+| C10 | Zorba The Greek |
+| D1 | I'll Kill Ya |
+| D2 | The Payback |
+| D3 | Fools Gold |
+| D4 | It's Been Emotional |
+| D5 | 18 With A Bullet |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Island Records |
 | Catalog Number | 0602557733556 |
-| Notes | Contains dialogues taken from the movie: tracks A2, A5, B4, C1, C3, C5, C7, D4.<br><br>The Stone Roses are mistakenly called The Stones Roses on the hype sticker, on top of the back side of the sleeve and on the label of side 4. Only on the track listing below on the back of the sleeve it's spelled correctly. (See pictures) |
+| Notes | Contains dialogues taken from the movie: tracks A2, A5, B4, C1, C3, C5, C7, D4.  The Stone Roses are mistakenly called The Stones Roses on the hype sticker, on top of the back side of the sleeve and on the label of side 4. Only on the track listing below on the back of the sleeve it's spelled correctly. (See pictures) |
 | Discogs URL    | [Various - Lock, Stock & Two Smoking Barrels - Original Soundtrack](https://www.discogs.com/release/12129965-Various-Lock-Stock-Two-Smoking-Barrels-Original-Soundtrack) |

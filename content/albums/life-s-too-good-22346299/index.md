@@ -31,19 +31,19 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Traitor | 3:08 |
-| A2 | Motorcrash | 2:22 |
-| A3 | Birthday | 3:57 |
-| A4 | Delicious Demon | 2:41 |
-| A5 | Mama | 2:54 |
-| B1 | Coldsweat | 3:16 |
-| B2 | Blue Eyed Pop | 2:36 |
-| B3 | Deus | 4:07 |
-| B4 | Sick For Toys | 3:12 |
-| B5 | F***ing In Rhythm & Sorrow | 3:11 |
-| B6 | Take Some Petrol Darling | 1:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Traitor |
+| A2 | Motorcrash |
+| A3 | Birthday |
+| A4 | Delicious Demon |
+| A5 | Mama |
+| B1 | Coldsweat |
+| B2 | Blue Eyed Pop |
+| B3 | Deus |
+| B4 | Sick For Toys |
+| B5 | F***ing In Rhythm & Sorrow |
+| B6 | Take Some Petrol Darling |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 | Format         | Vinyl LP Album Limited Edition Reissue (Pink) |
 | Label          | One Little Independent Records |
 | Catalog Number | tplp5 |
-| Notes | Limited edition of 500 copies. <br>Comes with a Rough Trade Essential Edition obi and a barcode sticker on the plastic seal on the back.<br><br>The labels still show the track numbers of the original release (side A as 1-5 and side B as 6-10), with track B6 not mentioned on release, as with all previous releases.<br><br>From back sleeve:<br>warmest thanks to frikki por his input. welcome to melax. recorded at: studio syrland, reykjavik. berry st. studios, london. orinocco studios, london.<br><br>Made in England. |
+| Notes | Limited edition of 500 copies.  Comes with a Rough Trade Essential Edition obi and a barcode sticker on the plastic seal on the back.  The labels still show the track numbers of the original release (side A as 1-5 and side B as 6-10), with track B6 not mentioned on release, as with all previous releases.  From back sleeve: warmest thanks to frikki por his input. welcome to melax. recorded at: studio syrland, reykjavik. berry st. studios, london. orinocco studios, london.  Made in England. |
 | Discogs URL    | [The Sugarcubes - Life's Too Good](https://www.discogs.com/release/22346299-The-Sugarcubes-Lifes-Too-Good) |

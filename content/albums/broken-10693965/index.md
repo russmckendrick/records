@@ -47,16 +47,16 @@ Broken received positive reviews from critics and reached number seven on the US
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pinion | 1:03 |
-| A2 | Wish | 3:46 |
-| A3 | Last | 4:44 |
-| A4 | Help Me I Am In Hell | 1:55 |
-| A5 | Happiness In Slavery | 5:21 |
-| A6 | Gave Up | 4:08 |
-| B | Physical | 5:29 |
-| C | Suck | 5:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Pinion |
+| A2 | Wish |
+| A3 | Last |
+| A4 | Help Me I Am In Hell |
+| A5 | Happiness In Slavery |
+| A6 | Gave Up |
+| B | Physical |
+| C | Suck |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Broken received positive reviews from critics and reached number seven on the US
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided Mini-Album Etched (180g), Vinyl 7" 45 RPM, All Media Reissue Remastered Stereo (Definitive Edition) |
 | Label          | Nothing Records |
 | Catalog Number | B0025684-01 |
-| Notes | 2017 Definitive Edition. Comes with digital download code.<br>The 12" contains a spiral etching of random lyrics from the songs on the record.<br><br>Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).<br><br>12" Jacket has a matte "n" on the front and the inside is white.<br>7" Paper inner sleeve.<br><br>From the hype sticker: <br>The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about. <br><br>Halo five<br>Original release date: September 22, 1992 |
+| Notes | 2017 Definitive Edition. Comes with digital download code. The 12" contains a spiral etching of random lyrics from the songs on the record.  Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).  12" Jacket has a matte "n" on the front and the inside is white. 7" Paper inner sleeve.  From the hype sticker:  The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about.   Halo five Original release date: September 22, 1992 |
 | Discogs URL    | [Nine Inch Nails - Broken](https://www.discogs.com/release/10693965-Nine-Inch-Nails-Broken) |

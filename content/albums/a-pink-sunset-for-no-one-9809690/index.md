@@ -28,17 +28,17 @@ styles: ["Ambient", "Drone"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Deep Shelter | 5:33 |
-| A2 | Rituals | 5:11 |
-| A3 | A Pink Sunset For No One | 4:17 |
-| A4 | Lone Victory Tonight | 5:20 |
-| B5 | Trails And Trials | 4:23 |
-| B6 | Another Dark Hour | 3:27 |
-| B7 | Corridors | 2:55 |
-| B8 | The Unveiling | 4:11 |
-| B9 | Emergence | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Deep Shelter |
+| A2 | Rituals |
+| A3 | A Pink Sunset For No One |
+| A4 | Lone Victory Tonight |
+| B5 | Trails And Trials |
+| B6 | Another Dark Hour |
+| B7 | Corridors |
+| B8 | The Unveiling |
+| B9 | Emergence |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Ambient", "Drone"]
 | Format         | Vinyl LP Album |
 | Label          | Fire Records |
 | Catalog Number | FIRELP401 |
-| Notes | Noveller is Sarah Lipstate.<br><br>Recorded in Brooklyn, NY and Lafayette, LA<br>November 2015-April 2016.<br><br>Dedicated to Gene Lipstate.<br><br><br>Includes download code. |
+| Notes | Noveller is Sarah Lipstate.  Recorded in Brooklyn, NY and Lafayette, LA November 2015-April 2016.  Dedicated to Gene Lipstate.   Includes download code. |
 | Discogs URL    | [Noveller - A Pink Sunset For No One](https://www.discogs.com/release/9809690-Noveller-A-Pink-Sunset-For-No-One) |

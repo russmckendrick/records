@@ -33,21 +33,21 @@ Musically Rings Around the World is an eclectic record incorporating pop, prog, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alternate Route To Vulcan Street |  |
-| A2 | Sidewalk Serfer Girl |  |
-| A3 | (Drawing) Rings Around The World |  |
-| B1 | It's Not The End Of The World |  |
-| B2 | Receptacle For The Respectable |  |
-| B3 | [A] Touch Sensitive |  |
-| B4 | Shoot Doris Day |  |
-| C1 | Miniature |  |
-| C2 | No Sympathy |  |
-| C3 | Juxtapozed With U |  |
-| D1 | Presidential Suite |  |
-| D2 | Run! Christian, Run! |  |
-| D3 | Fragile Happiness |  |
+| Position | Title |
+|----------|--------|
+| A1 | Alternate Route To Vulcan Street |
+| A2 | Sidewalk Serfer Girl |
+| A3 | (Drawing) Rings Around The World |
+| B1 | It's Not The End Of The World |
+| B2 | Receptacle For The Respectable |
+| B3 | [A] Touch Sensitive |
+| B4 | Shoot Doris Day |
+| C1 | Miniature |
+| C2 | No Sympathy |
+| C3 | Juxtapozed With U |
+| D1 | Presidential Suite |
+| D2 | Run! Christian, Run! |
+| D3 | Fragile Happiness |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Musically Rings Around the World is an eclectic record incorporating pop, prog, 
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT510DLP |
-| Notes | 20th Anniversary Re-Issue<br><br>℗+© 2021 BMG Rights Management (UK) Ltd.<br>Made in the Czech Republic.<br> |
+| Notes | 20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic.  |
 | Discogs URL    | [Super Furry Animals - Rings Around The World](https://www.discogs.com/release/20075032-Super-Furry-Animals-Rings-Around-The-World) |

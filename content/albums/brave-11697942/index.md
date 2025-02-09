@@ -50,48 +50,48 @@ Brave is the seventh studio album by Marillion, released in 1994. It charted at 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Brave (2018 Steven Wilson Remix) |  |
-| A1 | Bridge |  |
-| A2 | Living With The Big Lie |  |
-| A3 | Runaway |  |
-| B1 | Goodbye To All That / Wave / Mad / The Opium Den / The Slide / Standing In The Swing |  |
-| B2 | Hard As Love |  |
-| C1 | The Hollow Man |  |
-| C2 | Alone Again In The Lap Of Luxury |  |
-| C3 | Paper Lies |  |
-| D1 | Brave |  |
-| D2 | The Great Escape |  |
-| D3 | Made Again |  |
-|  | Live At La Cigale (29/4/1994) (2018 Michael Hunter Remix) |  |
-| E1 | River |  |
-| E2 | Bridge |  |
-| E3 | Living With The Big Lie |  |
-| E4 | Runaway |  |
-| E5 | Goodbye To All That |  |
-| F1 | Wave |  |
-| F2 | Mad |  |
-| F3 | The Opium Den |  |
-| F4 | The Slide |  |
-| F5 | Standing In The Swing |  |
-| F6 | Hard As Love |  |
-| G1 | The Hollow Man |  |
-| G2 | Alone Again In The Lap Of Luxury |  |
-| G3 | Now Wash Your Hands |  |
-| G4 | Paper Lies |  |
-| H1 | Brave |  |
-| H2 | The Great Escape / The Last Of You / Fallin' From The Moon |  |
-| H3 | Made Again |  |
-| I1 | Cover My Eyes (Pain And Heaven) |  |
-| I2 | Sláinte Mhath |  |
-| I3 | No One Can |  |
-| I4 | Sympathy |  |
-| I5 | Easter |  |
-| J1 | Garden Party |  |
-| J2 | Waiting To Happen |  |
-| J3 | Hooks In You |  |
-| J4 | The Space... |  |
+| Position | Title |
+|----------|--------|
+|  | Brave (2018 Steven Wilson Remix) |
+| A1 | Bridge |
+| A2 | Living With The Big Lie |
+| A3 | Runaway |
+| B1 | Goodbye To All That / Wave / Mad / The Opium Den / The Slide / Standing In The Swing |
+| B2 | Hard As Love |
+| C1 | The Hollow Man |
+| C2 | Alone Again In The Lap Of Luxury |
+| C3 | Paper Lies |
+| D1 | Brave |
+| D2 | The Great Escape |
+| D3 | Made Again |
+|  | Live At La Cigale (29/4/1994) (2018 Michael Hunter Remix) |
+| E1 | River |
+| E2 | Bridge |
+| E3 | Living With The Big Lie |
+| E4 | Runaway |
+| E5 | Goodbye To All That |
+| F1 | Wave |
+| F2 | Mad |
+| F3 | The Opium Den |
+| F4 | The Slide |
+| F5 | Standing In The Swing |
+| F6 | Hard As Love |
+| G1 | The Hollow Man |
+| G2 | Alone Again In The Lap Of Luxury |
+| G3 | Now Wash Your Hands |
+| G4 | Paper Lies |
+| H1 | Brave |
+| H2 | The Great Escape / The Last Of You / Fallin' From The Moon |
+| H3 | Made Again |
+| I1 | Cover My Eyes (Pain And Heaven) |
+| I2 | Sláinte Mhath |
+| I3 | No One Can |
+| I4 | Sympathy |
+| I5 | Easter |
+| J1 | Garden Party |
+| J2 | Waiting To Happen |
+| J3 | Hooks In You |
+| J4 | The Space... |
 
 
 ## Apple Music
@@ -109,5 +109,5 @@ Brave is the seventh studio album by Marillion, released in 1994. It charted at 
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP Album Reissue Remastered, Box Set Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295722951 |
-| Notes | This is the vinyl version of a brand new (2018) Stereo Remaster of Marillion's 1994 album Brave.<br>Comes with a 12" booklet (24 pages) with lyrics, new artwork and new sleeve notes by Philip Wilding.<br><br>From Marillion website - <br>''It is available to pre-order now and we will be hand signing a special A4 sized print for anyone who orders from us before midnight on February 16th''.<br> <br>Disc one and two of the set features a brand new remix of the album by Steven Wilson .<br><br>Discs three, four and five contain Marillion’s April 29, 1994 concert at La Cigale in Paris.<br><br>Newly remixed by Michael Hunter, the music includes a performance of Brave in its entirety, which first appeared in 1996 on the band’s double live album, Made Again. <br><br>Those recordings have been expanded with nine unreleased tracks, including live renditions of fan favourites like “No One Can,” “Easter,” “Waiting To Happen” and “Hooks In You.”<br><br>℗ 2018 this compilation Parlophone Records Ltd. © 2018 Parlophone Records Ltd.<br>This label copy information is the subject of copyrights protection. All rights reserved. <br>© 2018 Parlophone Records Ltd. A Warner Music Group Company. |
+| Notes | This is the vinyl version of a brand new (2018) Stereo Remaster of Marillion's 1994 album Brave. Comes with a 12" booklet (24 pages) with lyrics, new artwork and new sleeve notes by Philip Wilding.  From Marillion website -  ''It is available to pre-order now and we will be hand signing a special A4 sized print for anyone who orders from us before midnight on February 16th''.   Disc one and two of the set features a brand new remix of the album by Steven Wilson .  Discs three, four and five contain Marillion’s April 29, 1994 concert at La Cigale in Paris.  Newly remixed by Michael Hunter, the music includes a performance of Brave in its entirety, which first appeared in 1996 on the band’s double live album, Made Again.   Those recordings have been expanded with nine unreleased tracks, including live renditions of fan favourites like “No One Can,” “Easter,” “Waiting To Happen” and “Hooks In You.”  ℗ 2018 this compilation Parlophone Records Ltd. © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2018 Parlophone Records Ltd. A Warner Music Group Company. |
 | Discogs URL    | [Marillion - Brave ](https://www.discogs.com/release/11697942-Marillion-Brave-) |

@@ -29,11 +29,11 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How Big The Space | 3:38 |
-| A2 | How Big The Space (Instrumental Variation) | 3:38 |
-| B | People Who Eat Darkness (Ninet Version) | 6:00 |
+| Position | Title |
+|----------|--------|
+| A1 | How Big The Space |
+| A2 | How Big The Space (Instrumental Variation) |
+| B | People Who Eat Darkness (Ninet Version) |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 12" 45 RPM Record Store Day Single Limited Edition (Blue) |
 | Label          | Caroline International |
 | Catalog Number | CAROL016RSD |
-| Notes | Sticker "Record Store Day 2018 blue coloured vinyl carol016rsd" on foil.<br><br>Catalog numbers: <br>"carol016rsd" appears on hype sticker and the back cover (in all capitals "CAROL016RSD")<br>"carol016lp" appears on the spine <br>"00602567311669" appears on the back cover before "CAROL016RSD"<br><br>Lyrics to How Big The Space on back cover<br><br>2500 pressed.   |
+| Notes | Sticker "Record Store Day 2018 blue coloured vinyl carol016rsd" on foil.  Catalog numbers:  "carol016rsd" appears on hype sticker and the back cover (in all capitals "CAROL016RSD") "carol016lp" appears on the spine  "00602567311669" appears on the back cover before "CAROL016RSD"  Lyrics to How Big The Space on back cover  2500 pressed.   |
 | Discogs URL    | [Steven Wilson - How Big The Space](https://www.discogs.com/release/11863593-Steven-Wilson-How-Big-The-Space) |

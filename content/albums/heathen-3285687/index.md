@@ -36,20 +36,20 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sunday | 4:45 |
-| A2 | Cactus | 2:54 |
-| A3 | Slip Away | 6:05 |
-| A4 | Slow Burn | 4:41 |
-| A5 | Afraid | 3:28 |
-| A6 | I've Been Waiting For You | 3:00 |
-| B1 | I Would Be Your Slave | 5:14 |
-| B2 | I Took A Trip On A Gemini Spaceship | 4:04 |
-| B3 | 5.15 The Angels Have Gone | 5:00 |
-| B4 | Everyone Says 'Hi' | 3:59 |
-| B5 | A Better Future | 4:11 |
-| B6 | Heathen (The Rays) | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Sunday |
+| A2 | Cactus |
+| A3 | Slip Away |
+| A4 | Slow Burn |
+| A5 | Afraid |
+| A6 | I've Been Waiting For You |
+| B1 | I Would Be Your Slave |
+| B2 | I Took A Trip On A Gemini Spaceship |
+| B3 | 5.15 The Angels Have Gone |
+| B4 | Everyone Says 'Hi' |
+| B5 | A Better Future |
+| B6 | Heathen (The Rays) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP470 |
-| Notes | Comes in plain white poly-lined paper inner sleeve.<br>Includes printed insert.<br><br>From 16 track analog tape converted on 24bit.<br><br>Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing<br>www.musiconvinyl.com<br><br>Runouts are etched, except side A '5082221000 1A1' stamped.  |
+| Notes | Comes in plain white poly-lined paper inner sleeve. Includes printed insert.  From 16 track analog tape converted on 24bit.  Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing www.musiconvinyl.com  Runouts are etched, except side A '5082221000 1A1' stamped.  |
 | Discogs URL    | [David Bowie - Heathen](https://www.discogs.com/release/3285687-David-Bowie-Heathen) |

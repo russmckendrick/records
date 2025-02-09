@@ -74,58 +74,58 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Rock Art And The X-Ray Style |  |
-| A1 | Tony Adams | 6:33 |
-| A2 | Sandpaper Blues | 4:27 |
-| B1 | X-Ray Style | 4:34 |
-| B2 | Techno D-Day | 4:07 |
-| B3 | The Road To Rock 'n' Roll | 3:58 |
-| C1 | Diggin' The New | 3:07 |
-| C2 | Nitcomb | 4:30 |
-| C3 | Forbidden City | 4:46 |
-| D1 | Yalla Yalla | 6:56 |
-| D2 | Willesden To Cricklewood | 6:46 |
-|  | Global A Go-Go |  |
-| E1 | Johnny Appleseed |  |
-| E2 | Cool 'N' Out |  |
-| E3 | Global A Go-Go |  |
-| E4 | Bhindi Bhagee |  |
-| F1 | Gamma Ray |  |
-| F2 | Mega Bottle Ride |  |
-| F3 | Shaktar Donetsk |  |
-| G1 | Mondo Bongo |  |
-| G2 | Bummed Out City |  |
-| G3 | At The Border, Guy |  |
-| H1 | Minstrel Boy |  |
-|  | Streetcore |  |
-| I1 | Coma Girl |  |
-| I2 | Get Down Moses |  |
-| I3 | Long Shadow |  |
-| I4 | Arms Aloft |  |
-| I5 | Ramshackle Day Parade |  |
-| J1 | Redemption Song |  |
-| J2 | All In A Day |  |
-| J3 | Burnin' Streets |  |
-| J4 | Midnight Jam |  |
-| J5 | Silver And Gold |  |
-|  | Vibes Compass (B-sides & Rarities) |  |
-| K1 | Time And The Tide |  |
-| K2 | Techno D-Day (Demo) |  |
-| K3 | Ocean Of Dreams |  |
-| K4 | Forbidden City (Demo) |  |
-| L1 | X-Ray Style (Demo) |  |
-| L2 | Road To Rock 'N' Roll (Demo) |  |
-| L3 | Tony Adams (Demo) |  |
-| L4 | Cool 'N' Out (Demo) |  |
-| M1 | Global A Go-Go (Demo) |  |
-| M2 | Secret Agent Man |  |
-| M3 | All In A Day (Demo) |  |
-| M4 | London Is Burning |  |
-| N1 | Get Down Moses (Outtake) |  |
-| N2 | Fantastic |  |
-| N3 | Coma Girl (Outtake) |  |
+| Position | Title |
+|----------|--------|
+|  | Rock Art And The X-Ray Style |
+| A1 | Tony Adams |
+| A2 | Sandpaper Blues |
+| B1 | X-Ray Style |
+| B2 | Techno D-Day |
+| B3 | The Road To Rock 'n' Roll |
+| C1 | Diggin' The New |
+| C2 | Nitcomb |
+| C3 | Forbidden City |
+| D1 | Yalla Yalla |
+| D2 | Willesden To Cricklewood |
+|  | Global A Go-Go |
+| E1 | Johnny Appleseed |
+| E2 | Cool 'N' Out |
+| E3 | Global A Go-Go |
+| E4 | Bhindi Bhagee |
+| F1 | Gamma Ray |
+| F2 | Mega Bottle Ride |
+| F3 | Shaktar Donetsk |
+| G1 | Mondo Bongo |
+| G2 | Bummed Out City |
+| G3 | At The Border, Guy |
+| H1 | Minstrel Boy |
+|  | Streetcore |
+| I1 | Coma Girl |
+| I2 | Get Down Moses |
+| I3 | Long Shadow |
+| I4 | Arms Aloft |
+| I5 | Ramshackle Day Parade |
+| J1 | Redemption Song |
+| J2 | All In A Day |
+| J3 | Burnin' Streets |
+| J4 | Midnight Jam |
+| J5 | Silver And Gold |
+|  | Vibes Compass (B-sides & Rarities) |
+| K1 | Time And The Tide |
+| K2 | Techno D-Day (Demo) |
+| K3 | Ocean Of Dreams |
+| K4 | Forbidden City (Demo) |
+| L1 | X-Ray Style (Demo) |
+| L2 | Road To Rock 'N' Roll (Demo) |
+| L3 | Tony Adams (Demo) |
+| L4 | Cool 'N' Out (Demo) |
+| M1 | Global A Go-Go (Demo) |
+| M2 | Secret Agent Man |
+| M3 | All In A Day (Demo) |
+| M4 | London Is Burning |
+| N1 | Get Down Moses (Outtake) |
+| N2 | Fantastic |
+| N3 | Coma Girl (Outtake) |
 
 
 ## Apple Music

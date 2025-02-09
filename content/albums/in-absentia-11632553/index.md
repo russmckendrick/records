@@ -42,20 +42,20 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackest Eyes | 4:26 |
-| A2 | Trains | 5:57 |
-| A3 | Lips Of Ashes | 4:40 |
-| B1 | The Sound Of Muzak | 4:59 |
-| B2 | Gravity Eyelids | 7:56 |
-| B3 | Wedding Nails | 6:33 |
-| C1 | Prodigal | 5:33 |
-| C2 | .3 | 5:26 |
-| C3 | The Creator Has A Mastertape | 5:21 |
-| D1 | Heartattack In A Layby | 4:15 |
-| D2 | Strip The Soul | 7:22 |
-| D3 | Collapse The Light Into Earth | 5:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Blackest Eyes |
+| A2 | Trains |
+| A3 | Lips Of Ashes |
+| B1 | The Sound Of Muzak |
+| B2 | Gravity Eyelids |
+| B3 | Wedding Nails |
+| C1 | Prodigal |
+| C2 | .3 |
+| C3 | The Creator Has A Mastertape |
+| D1 | Heartattack In A Layby |
+| D2 | Strip The Soul |
+| D3 | Collapse The Light Into Earth |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE981 |
-| Notes | [Liner Notes]<br>"Remastered by Steven Wilson in November 2017."<br>"The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "<br><br>Gatefold cover with printed inner sleeves.  |
+| Notes | [Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves.  |
 | Discogs URL    | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |

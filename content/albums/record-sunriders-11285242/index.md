@@ -29,16 +29,16 @@ styles: ["Space Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kaleidoscope |  |
-| A2 | Repeater |  |
-| A3 | Crystal Ball |  |
-| A4 | Chase Away |  |
-| B1 | Spaceman |  |
-| B2 | Sunriders |  |
-| B3 | Never and Always |  |
-| B4 | Close |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kaleidoscope |
+| A2 | Repeater |
+| A3 | Crystal Ball |
+| A4 | Chase Away |
+| B1 | Spaceman |
+| B2 | Sunriders |
+| B3 | Never and Always |
+| B4 | Close |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Space Rock", "Prog Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | Rockosmos |
 | Catalog Number | ROK 31 |
-| Notes | This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B.<br>Edition of 500.<br><br>Sunriders EP - Recorded January 2013<br>Recorded At Loudhailer Manchester by Mladen Pavlovic<br>All songs by Balamir, except Spaceman by Evans / Balamir<br> |
+| Notes | This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B. Edition of 500.  Sunriders EP - Recorded January 2013 Recorded At Loudhailer Manchester by Mladen Pavlovic All songs by Balamir, except Spaceman by Evans / Balamir  |
 | Discogs URL    | [Amplifier - Record + Sunriders](https://www.discogs.com/release/11285242-Amplifier-3-Record-Sunriders) |

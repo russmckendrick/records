@@ -24,12 +24,12 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| B1 | Aim |  |
-| B2 | Plug Me In |  |
-| BB1 | Grey Cell Green |  |
-| BB2 | Terminally Groovie |  |
+| Position | Title |
+|----------|--------|
+| B1 | Aim |
+| B2 | Plug Me In |
+| BB1 | Grey Cell Green |
+| BB2 | Terminally Groovie |
 
 
 ## Apple Music
@@ -46,5 +46,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP |
 | Label          | Chapter 22 |
 | Catalog Number | 12 CHAP 47 |
-| Notes | Double B-sided release.<br>Recorded at The Fridge in Stourbridge, 1990<br><br>Distribution: Nine Mile/Cartel<br> |
+| Notes | Double B-sided release. Recorded at The Fridge in Stourbridge, 1990  Distribution: Nine Mile/Cartel  |
 | Discogs URL    | [Neds Atomic Dustbin - The Ingredients EP](https://www.discogs.com/release/782293-Neds-Atomic-Dustbin-The-Ingredients-EP) |

@@ -24,24 +24,24 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Buttercup |  |
-| A2 | Have A Talk With God |  |
-| A3 | Just A Little Piece Of You |  |
-| A4 | If She Breaks Your Heart |  |
-| B1 | Pastime Paradise |  |
-| B2  | Bird Of Beauty |  |
-| B3 | It's My Pleasure  |  |
-| B4 | Love's In Need Of Love Today |  |
-| C1 | As |  |
-| C2 | I Don't Know Why I Love You |  |
-| C3 | Make My Water Boil (Loving You Has Been So Wonderful) |  |
-| C4 | Golden Lady |  |
-| D1 | Betcha Wouldn't Hurt Me |  |
-| D2 | If You Don't Love Me |  |
-| D3 | Go Home |  |
-| D4 | Don't You Worry Bout A Thing |  |
+| Position | Title |
+|----------|--------|
+| A1 | Buttercup |
+| A2 | Have A Talk With God |
+| A3 | Just A Little Piece Of You |
+| A4 | If She Breaks Your Heart |
+| B1 | Pastime Paradise |
+| B2  | Bird Of Beauty |
+| B3 | It's My Pleasure  |
+| B4 | Love's In Need Of Love Today |
+| C1 | As |
+| C2 | I Don't Know Why I Love You |
+| C3 | Make My Water Boil (Loving You Has Been So Wonderful) |
+| C4 | Golden Lady |
+| D1 | Betcha Wouldn't Hurt Me |
+| D2 | If You Don't Love Me |
+| D3 | Go Home |
+| D4 | Don't You Worry Bout A Thing |
 
 
 ## Apple Music

@@ -34,20 +34,20 @@ Although commercial success elsewhere was initially modest, the album was the du
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Look | 3:56 |
-| A2 | Dressed For Success | 4:11 |
-| A3 | Sleeping Single | 4:39 |
-| A4 | Paint | 3:29 |
-| A5 | Dance Away | 3:25 |
-| A6 | Cry | 5:05 |
-| B1 | Chances | 4:07 |
-| B2 | Dangerous | 3:48 |
-| B3 | Half A Woman, Half A Shadow | 3:33 |
-| B4 | View From A Hill | 3:39 |
-| B5 | Shadow Of A Doubt | 4:13 |
-| B6 | Listen To Your Heart | 5:27 |
+| Position | Title |
+|----------|--------|
+| A1 | The Look |
+| A2 | Dressed For Success |
+| A3 | Sleeping Single |
+| A4 | Paint |
+| A5 | Dance Away |
+| A6 | Cry |
+| B1 | Chances |
+| B2 | Dangerous |
+| B3 | Half A Woman, Half A Shadow |
+| B4 | View From A Hill |
+| B5 | Shadow Of A Doubt |
+| B6 | Listen To Your Heart |
 
 
 ## Apple Music

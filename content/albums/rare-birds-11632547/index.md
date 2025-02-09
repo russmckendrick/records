@@ -38,21 +38,21 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trafalgar Square | 6:23 |
-| A2 | Me | 4:49 |
-| A3 | Over The Midnight | 8:15 |
-| B1 | There's A Light | 4:57 |
-| B2 | Sunset Blvd. | 5:44 |
-| B3 | Rare Birds | 5:25 |
-| B4 | 49 Hair Flips | 5:11 |
-| C1 | Miriam Montague | 4:41 |
-| C2 | Loving You | 8:28 |
-| C3 | Living With Myself | 6:46 |
-| D1 | Hard To Get Over | 6:32 |
-| D2 | Hi-Ho The Righteous | 6:06 |
-| D3 | Mulholland Queen | 5:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Trafalgar Square |
+| A2 | Me |
+| A3 | Over The Midnight |
+| B1 | There's A Light |
+| B2 | Sunset Blvd. |
+| B3 | Rare Birds |
+| B4 | 49 Hair Flips |
+| C1 | Miriam Montague |
+| C2 | Loving You |
+| C3 | Living With Myself |
+| D1 | Hard To Get Over |
+| D2 | Hi-Ho The Righteous |
+| D3 | Mulholland Queen |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 | Format         | Vinyl 2× LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA730VX |
-| Notes | Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.<br><br>First cat# on sticker, second on spine.<br><br>German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP.  |
+| Notes | Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.  First cat# on sticker, second on spine.  German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP.  |
 | Discogs URL    | [Jonathan Wilson - Rare Birds](https://www.discogs.com/release/11632547-Jonathan-Wilson-Rare-Birds) |

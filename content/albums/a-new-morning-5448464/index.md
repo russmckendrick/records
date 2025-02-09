@@ -31,20 +31,20 @@ A New Morning is the fifth studio album by English alternative rock band Suede, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Positivity | 2:56 |
-| A2 | Obsessions | 4:11 |
-| A3 | Lonely Girls | 3:13 |
-| A4 | Lost In TV | 3:40 |
-| A5 | Beautiful Loser | 3:38 |
-| A6 | Streetlife | 2:51 |
-| B1 | Astrogirl | 4:35 |
-| B2 | Untitled | 3:45 |
-| B3 | ...Morning | 2:15 |
-| B4 | One Hit To The Body | 3:07 |
-| B5 | When The Rain Falls | 4:29 |
-| B6 | Oceans | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Positivity |
+| A2 | Obsessions |
+| A3 | Lonely Girls |
+| A4 | Lost In TV |
+| A5 | Beautiful Loser |
+| A6 | Streetlife |
+| B1 | Astrogirl |
+| B2 | Untitled |
+| B3 | ...Morning |
+| B4 | One Hit To The Body |
+| B5 | When The Rain Falls |
+| B6 | Oceans |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ A New Morning is the fifth studio album by English alternative rock band Suede, 
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 5 |
-| Notes | On vinyl for the first time. <br>Supplied with download card for the full album. <br>Though reissued in 2014, copyright notice states '(c) 2013'.<br>Manufactured in the EU |
+| Notes | On vinyl for the first time.  Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. Manufactured in the EU |
 | Discogs URL    | [Suede - A New Morning](https://www.discogs.com/release/5448464-Suede-A-New-Morning) |

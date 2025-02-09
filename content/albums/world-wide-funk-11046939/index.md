@@ -49,23 +49,23 @@ World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | World Wide Funk |  |
-| A2 | Bass-Rigged-System |  |
-| A3 | Pusherman |  |
-| A4 | Thera-P |  |
-| B1 | Hot Saucer |  |
-| B2 | Heaven Eyes |  |
-| B3 | Ladies Nite |  |
-| B4 | Candy Coated Lover |  |
-| C1 | Snow Bunny |  |
-| C2 | Hi-On-Heels |  |
-| C3 | A Salute To Bernie |  |
-| C4 | Boomerang |  |
-| D1 | Worth My While |  |
-| D2 | Come Back Bootsy |  |
-| D3 | Illusions |  |
+| Position | Title |
+|----------|--------|
+| A1 | World Wide Funk |
+| A2 | Bass-Rigged-System |
+| A3 | Pusherman |
+| A4 | Thera-P |
+| B1 | Hot Saucer |
+| B2 | Heaven Eyes |
+| B3 | Ladies Nite |
+| B4 | Candy Coated Lover |
+| C1 | Snow Bunny |
+| C2 | Hi-On-Heels |
+| C3 | A Salute To Bernie |
+| C4 | Boomerang |
+| D1 | Worth My While |
+| D2 | Come Back Bootsy |
+| D3 | Illusions |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist
 | Format         | Vinyl 2× LP Album Limited Edition (Splatter) |
 | Label          | Mascot Records (2) |
 | Catalog Number | M 75141 |
-| Notes | Hype sticker on shrink:<br>140 gram splatter 2-LP<br>Download card included<br><br>Gatefold cover, spine:<br>[Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141<br><br>Gatefold cover, back:<br>[Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo]<br>Ⓟ © 2017 Mascot Music Productions and Publishing B.V.<br><br>Includes 12-pages LP size comic book<br><br>Spoken Intro by Iggy Pop |
+| Notes | Hype sticker on shrink: 140 gram splatter 2-LP Download card included  Gatefold cover, spine: [Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141  Gatefold cover, back: [Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo] Ⓟ © 2017 Mascot Music Productions and Publishing B.V.  Includes 12-pages LP size comic book  Spoken Intro by Iggy Pop |
 | Discogs URL    | [Bootsy Collins - World Wide Funk](https://www.discogs.com/release/11046939-Bootsy-Collins-World-Wide-Funk) |

@@ -49,32 +49,32 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Texas-Jerusalem Crossroads: Texas |  |
-| A1 | Just As Was Told |  |
-| A2 | Down Came The Angels |  |
-| A3 | Falling From Cloud 9 |  |
-| B1 | With Crippled Wings |  |
-| B2 | Waiting To Hit |  |
-| B3 | The Ground So Soft |  |
-|  | The Texas-Jerusalem Crossroads: Jerusalem |  |
-| C1 | These Are The Days |  |
-| C2 | When We Shall Touch |  |
-| C3 | Down With The Prophets |  |
-| D1 | To Guard And To Guide You |  |
-| D2 | Into The Storm |  |
-| D3 | (Untitled) |  |
-|  | The Peel Session |  |
-| E1 | Falling From Cloud 9 | 9:57 |
-| E2 | The Ground So Soft | 7:02 |
-| F1 | Just As Was Told | 7:53 |
-| F2 | With The World Behind | 4:00 |
-|  | EP |  |
-| G1 | Falling From Cloud 9 | 5:03 |
-| G2 | With The World Behind | 3:01 |
-| H1 | Arise And Shine | 7:45 |
-| H2 | Liftin' On Up | 7:15 |
+| Position | Title |
+|----------|--------|
+|  | The Texas-Jerusalem Crossroads: Texas |
+| A1 | Just As Was Told |
+| A2 | Down Came The Angels |
+| A3 | Falling From Cloud 9 |
+| B1 | With Crippled Wings |
+| B2 | Waiting To Hit |
+| B3 | The Ground So Soft |
+|  | The Texas-Jerusalem Crossroads: Jerusalem |
+| C1 | These Are The Days |
+| C2 | When We Shall Touch |
+| C3 | Down With The Prophets |
+| D1 | To Guard And To Guide You |
+| D2 | Into The Storm |
+| D3 | (Untitled) |
+|  | The Peel Session |
+| E1 | Falling From Cloud 9 |
+| E2 | The Ground So Soft |
+| F1 | Just As Was Told |
+| F2 | With The World Behind |
+|  | EP |
+| G1 | Falling From Cloud 9 |
+| G2 | With The World Behind |
+| H1 | Arise And Shine |
+| H2 | Liftin' On Up |
 
 
 ## Apple Music
@@ -92,5 +92,5 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 | Format         | Vinyl 2× LP Album Reissue Remastered (Blue & Red), Vinyl 12" 33 ⅓ RPM, Vinyl 12" 33 ⅓ RPM EP Reissue, Box Set Limited Edition |
 | Label          | Mute |
 | Catalog Number | BXSTUMM398 |
-| Notes | Includes [r9758521] in a gatefold sleeve with printed inner sleeves. <br>LP1 is blue translucent vinyl, LP2 is red translucent vinyl.<br>Track D3 is an untitled track, not listed on the sleeve or label (also known as "The Hidden Song").<br>Additional Fiddlin' Around [...] Centro-Matic, Denton, TX<br>Engineered & Recorded [...] 70Hrtz, Argyle, TX (1999)<br>Mixed at [...] Echo Lab, Argyle, TX (2016)<br>Additional Engineering [...] Studio Mute, London, UK<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>℗ & © 2017 Lift To Experience under exclusive license to Mute Artists Ltd. Made in the EU.<br><br>[The Peel Session]<br>Recorded: 15th April 2001<br>First transmisson: 15th April 2001<br>Recorded for the John Peel Show on BBC Radio 1<br>Produced [...] at Maida Vale 4<br>Mastered [...] at EAB Studios in London, UK<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>℗ BBC 2017 © 2017 Mute Artists Ltd<br>Licensed by BBC Worldwide<br>Made in Texas<br><br>[EP]<br>Recorded and mastered [...] at 70Hrtz in Argyle, Texas<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>All tracks recorded live, except vocals and tambourine 9/24/97. <br>℗ 2017 Random-Precision Records<br>© 2017 Mute Artists Ltd<br><br>Includes 24-page 12" photo/lyric booklet & download voucher for complete box (with both new and original Bella Union mixes of The Texas-Jerusalem Crossroads). |
+| Notes | Includes [r9758521] in a gatefold sleeve with printed inner sleeves.  LP1 is blue translucent vinyl, LP2 is red translucent vinyl. Track D3 is an untitled track, not listed on the sleeve or label (also known as "The Hidden Song"). Additional Fiddlin' Around [...] Centro-Matic, Denton, TX Engineered & Recorded [...] 70Hrtz, Argyle, TX (1999) Mixed at [...] Echo Lab, Argyle, TX (2016) Additional Engineering [...] Studio Mute, London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ & © 2017 Lift To Experience under exclusive license to Mute Artists Ltd. Made in the EU.  [The Peel Session] Recorded: 15th April 2001 First transmisson: 15th April 2001 Recorded for the John Peel Show on BBC Radio 1 Produced [...] at Maida Vale 4 Mastered [...] at EAB Studios in London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ BBC 2017 © 2017 Mute Artists Ltd Licensed by BBC Worldwide Made in Texas  [EP] Recorded and mastered [...] at 70Hrtz in Argyle, Texas Vinyl Cut [...] at Take Out Vinyl, Memphis, TN All tracks recorded live, except vocals and tambourine 9/24/97.  ℗ 2017 Random-Precision Records © 2017 Mute Artists Ltd  Includes 24-page 12" photo/lyric booklet & download voucher for complete box (with both new and original Bella Union mixes of The Texas-Jerusalem Crossroads). |
 | Discogs URL    | [Lift To Experience - The Texas-Jerusalem Crossroads](https://www.discogs.com/release/9955614-Lift-To-Experience-The-Texas-Jerusalem-Crossroads) |

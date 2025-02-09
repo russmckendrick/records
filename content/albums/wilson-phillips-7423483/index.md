@@ -34,18 +34,18 @@ styles: ["Soft Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hold On | 4:27 |
-| A2 | Release Me | 4:56 |
-| A3 | Impulsive | 4:34 |
-| A4 | Next To You (Someday I'll Be) | 4:55 |
-| A5 | You're In Love | 4:50 |
-| B1 | Over And Over | 4:35 |
-| B2 | A Reason To Believe | 4:02 |
-| B3 | Ooh You're Gold | 4:13 |
-| B4 | Eyes Like Twins | 5:00 |
-| B5 | The Dream Is Still Alive | 4:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Hold On |
+| A2 | Release Me |
+| A3 | Impulsive |
+| A4 | Next To You (Someday I'll Be) |
+| A5 | You're In Love |
+| B1 | Over And Over |
+| B2 | A Reason To Believe |
+| B3 | Ooh You're Gold |
+| B4 | Eyes Like Twins |
+| B5 | The Dream Is Still Alive |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Soft Rock"]
 | Format         | Vinyl LP Album |
 | Label          | SBK Records |
 | Catalog Number | SBKLP 5 |
-| Notes | Printed in England Manufactured in England SP9006JU.<br><br>Different information on bottom left side of reverse sleeve to [r348854] |
+| Notes | Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854] |
 | Discogs URL    | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |

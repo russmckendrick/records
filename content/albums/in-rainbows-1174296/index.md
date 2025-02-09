@@ -41,18 +41,18 @@ The effort yielded some of Radiohead’s most memorable songs, as though time an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 15 Step | 3:57 |
-| A2 | Bodysnatchers | 4:02 |
-| A3 | Nude | 4:15 |
-| A4 | Weird Fishes/Arpeggi | 5:18 |
-| A5 | All I Need | 3:49 |
-| B1 | Faust Arp | 2:10 |
-| B2 | Reckoner | 4:50 |
-| B3 | House Of Cards | 5:28 |
-| B4 | Jigsaw Falling Into Place | 4:09 |
-| B5 | Videotape | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | 15 Step |
+| A2 | Bodysnatchers |
+| A3 | Nude |
+| A4 | Weird Fishes/Arpeggi |
+| A5 | All I Need |
+| B1 | Faust Arp |
+| B2 | Reckoner |
+| B3 | House Of Cards |
+| B4 | Jigsaw Falling Into Place |
+| B5 | Videotape |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The effort yielded some of Radiohead’s most memorable songs, as though time an
 | Format         | Vinyl LP Album (180g) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 324 |
-| Notes | Track durations and BPM are not present on the record. BPM:<br>A1: 95 | A2: 162-174 | A3: 130-133 | A4: 151-155 | A5: 87-89<br>B1: 95 | B2: 103-106 | B3: 112 | B4: 157-169 | B5: 78<br><br>Matte cover.<br>Heavy cardstock printed inner sleeve with lyrics and credit notes.<br>Inside cover and inner sleeve are black lined in colour<br><br>℗ 2007 Xurbia Xendless Limited exdlusively lisensed to XL Recordings<br>© 2007 Xurbia Xendless Limited exclusively licensed to XL Recordings<br>Made in Europe / Published by Warner Chappell Music Publishing Ltd<br><br>Dedicated to: Jesse, Salovador, Agnes Mair, Omri, Asa + Oona<br>In memory of Allegra 'Lola' Katan + Thea Selway<br><br><br>How to differ this "EU 2007 original" release from the almost identical "EU 2016 repress" [r8605874] (see also newly added images nr 7-10):<br><br>- Outer sleeve thickness<br>  EU 2007 original have 5-6 mm thickness<br>  EU 2016 repress have 4 mm thickness<br><br>- Corner cut inside outer sleeve:<br>  EU 2007 original have straight cut<br>  EU 2016 repress have angled cut<br><br>- Inner sleeve thickness:<br>  EU 2007 original have thicker cardboard paper<br>  EU 2016 repress have thinner paper<br><br>- Label sticker surface:<br>  EU 2007 original have matte grey label stickers<br>  EU 2016 repress have semi-glossy darker grey stickers |
+| Notes | Track durations and BPM are not present on the record. BPM: A1: 95 | A2: 162-174 | A3: 130-133 | A4: 151-155 | A5: 87-89 B1: 95 | B2: 103-106 | B3: 112 | B4: 157-169 | B5: 78  Matte cover. Heavy cardstock printed inner sleeve with lyrics and credit notes. Inside cover and inner sleeve are black lined in colour  ℗ 2007 Xurbia Xendless Limited exdlusively lisensed to XL Recordings © 2007 Xurbia Xendless Limited exclusively licensed to XL Recordings Made in Europe / Published by Warner Chappell Music Publishing Ltd  Dedicated to: Jesse, Salovador, Agnes Mair, Omri, Asa + Oona In memory of Allegra 'Lola' Katan + Thea Selway   How to differ this "EU 2007 original" release from the almost identical "EU 2016 repress" [r8605874] (see also newly added images nr 7-10):  - Outer sleeve thickness   EU 2007 original have 5-6 mm thickness   EU 2016 repress have 4 mm thickness  - Corner cut inside outer sleeve:   EU 2007 original have straight cut   EU 2016 repress have angled cut  - Inner sleeve thickness:   EU 2007 original have thicker cardboard paper   EU 2016 repress have thinner paper  - Label sticker surface:   EU 2007 original have matte grey label stickers   EU 2016 repress have semi-glossy darker grey stickers |
 | Discogs URL    | [Radiohead - In Rainbows](https://www.discogs.com/release/1174296-Radiohead-In-Rainbows) |

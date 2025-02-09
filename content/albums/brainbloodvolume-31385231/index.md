@@ -34,19 +34,19 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All I Ask Of Myself Is That I Hold Together | 4:17 |
-| A2 | Floote | 2:51 |
-| A3 | Premonition | 4:03 |
-| A4 | Talk Me Down | 3:31 |
-| A5 | Borehole | 3:25 |
-| B1 | Your Only Joke | 3:18 |
-| B2 | Stuck | 3:40 |
-| B3 | ...To Be Right | 3:35 |
-| B4 | I Want It Over | 3:58 |
-| B5 | Traffic | 3:30 |
-| B6 | Song Eleven Could Take Forever | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | All I Ask Of Myself Is That I Hold Together |
+| A2 | Floote |
+| A3 | Premonition |
+| A4 | Talk Me Down |
+| A5 | Borehole |
+| B1 | Your Only Joke |
+| B2 | Stuck |
+| B3 | ...To Be Right |
+| B4 | I Want It Over |
+| B5 | Traffic |
+| B6 | Song Eleven Could Take Forever |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3330C |
-| Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl<br><br>Includes insert<br><br>180 gram vinyl |
+| Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl  Includes insert  180 gram vinyl |
 | Discogs URL    | [Neds Atomic Dustbin - Brainbloodvolume](https://www.discogs.com/release/31385231-Neds-Atomic-Dustbin-Brainbloodvolume) |

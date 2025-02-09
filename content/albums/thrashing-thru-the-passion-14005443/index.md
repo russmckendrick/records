@@ -30,18 +30,18 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Denver Haircut |  |
-| A2 | Epaulets |  |
-| A3 | You Did Good Kid |  |
-| A4 | Traditional Village |  |
-| A5 | Blackout Sam |  |
-| B1 | Entitlement Crew |  |
-| B2 | T-Shirt Tux |  |
-| B3 | Star 18 |  |
-| B4 | The Stove & The Toaster |  |
-| B5 | Confusion In The Marketplace |  |
+| Position | Title |
+|----------|--------|
+| A1 | Denver Haircut |
+| A2 | Epaulets |
+| A3 | You Did Good Kid |
+| A4 | Traditional Village |
+| A5 | Blackout Sam |
+| B1 | Entitlement Crew |
+| B2 | T-Shirt Tux |
+| B3 | Star 18 |
+| B4 | The Stove & The Toaster |
+| B5 | Confusion In The Marketplace |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 | Format         | Vinyl LP Limited Edition (Brown) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR103-1 |
-| Notes | Opaque brown vinyl - indie exclusive, limited to 1,000 copies.<br><br>©&℗ 2019 Frenchkiss Records<br><br>All songs © 2019<br>Muy Interestane Music (ASCAP)<br>Key Hits (ASCAP)<br>Eggshell Armor Music (ASCAP)<br>Sounds Like Selvidge (BMI)<br>Guilty Parties/Sounds of Sabco (ASCAP)<br>(Administered for the world by Words & Music/Big Deal Music, LLC) |
+| Notes | Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC) |
 | Discogs URL    | [The Hold Steady - Thrashing Thru The Passion](https://www.discogs.com/release/14005443-The-Hold-Steady-Thrashing-Thru-The-Passion) |

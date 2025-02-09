@@ -66,128 +66,128 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | INXS |  |
-| A1 | On A Bus |  |
-| A2 | Doctor |  |
-| A3 | Just Keep Walking |  |
-| A4 | Learn To Smile |  |
-| A5 | Jumping |  |
-| B1 | In Vain |  |
-| B2 | Roller Skating |  |
-| B3 | Body Language |  |
-| B4 | Newsreel Babies |  |
-| B5 | Wishy Washy |  |
-|  | Underneath The Colours |  |
-| C1 | Stay Young |  |
-| C2 | Horizons |  |
-| C3 | Big Go Go |  |
-| C4 | Underneath The Colours |  |
-| C5 | Fair Weather Ahead |  |
-| D1 | Night Of Rebellion |  |
-| D2 | Follow |  |
-| D3 | Barbarian |  |
-| D4 | What Would You Do |  |
-| D5 | Just To Learn Again |  |
-|  | Shabooh Shoobah |  |
-| E1 | The One Thing |  |
-| E2 | To Look At You |  |
-| E3 | Spy Of Love |  |
-| E4 | Soul Mistake |  |
-| E5 | Here Comes |  |
-| F1 | Black And White |  |
-| F2 | Golden Playpen |  |
-| F3 | Jan's Song |  |
-| F4 | Old World, New World |  |
-| F5 | Don't Change |  |
-|  | The Swing |  |
-| G1 | Original Sin |  |
-| G2 | Melting In The Sun |  |
-| G3 | I Send A Message |  |
-| G4 | Dancing On The Jetty |  |
-| G5 | The Swing |  |
-| H1 | Johnson's Aeroplane |  |
-| H2 | Love Is (What I Say) |  |
-| H3 | Face The Change |  |
-| H4 | Burn For You |  |
-| H5 | All The Voices |  |
-|  | Listen Like Thieves |  |
-| I1 | What You Need |  |
-| I2 | Listen Like Thieves |  |
-| I3 | Kiss The Dirt (Falling Down The Mountain) |  |
-| I4 | Shine Like It Does |  |
-| I5 | Good + Bad Times |  |
-| J1 | Biting Bullets |  |
-| J2 | This Time |  |
-| J3 | Three Sisters |  |
-| J4 | Same Direction |  |
-| J5 | One X One |  |
-| J6 | Red Red Sun |  |
-|  | Kick |  |
-| K1 | Guns In The Sky |  |
-| K2 | New Sensation |  |
-| K3 | Devil Inside |  |
-| K4 | Need You Tonight |  |
-| K5 | Mediate |  |
-| K6 | The Loved One |  |
-| L1 | Wild Life |  |
-| L2 | Never Tear Us Apart |  |
-| L3 | Mystify |  |
-| L4 | Kick |  |
-| L5 | Calling All Nations |  |
-| L6 | Tiny Daggers |  |
-|  | X |  |
-| M1 | Suicide Blonde |  |
-| M2 | Disappear |  |
-| M3 | The Stairs |  |
-| M4 | Faith In Each Other |  |
-| M5 | By My Side |  |
-| N1 | Lately |  |
-| N2 | Who Pays The Price |  |
-| N3 | Know The Difference |  |
-| N4 | Bitter Tears |  |
-| N5 | On My Way |  |
-| N6 | Hear That Sound |  |
-|  | Welcome To Wherever You Are |  |
-| O1 | Questions |  |
-| O2 | Heaven Sent |  |
-| O3 | Communication |  |
-| O4 | Taste It |  |
-| O5 | Not Enough Time |  |
-| O6 | All Around |  |
-| P1 | Baby Don't Cry |  |
-| P2 | Beautiful Girl |  |
-| P3 | Wishing Well |  |
-| P4 | Back On Line |  |
-| P5 | Strange Desire |  |
-| P6 | Men And Women |  |
-|  | Full Moon, Dirty Hearts |  |
-| Q1 | Days Of Rust |  |
-| Q2 | The Gift |  |
-| Q3 | Make Your Peace |  |
-| Q4 | Time |  |
-| Q5 | I'm Only Looking |  |
-| Q6 | Please (You Got That...) |  |
-| R1 | Full Moon, Dirty Hearts |  |
-| R2 | Freedom Deep |  |
-| R3 | Kill The Pain |  |
-| R4 | Cut Your Roses Down |  |
-| R5 | The Messenger |  |
-| R6 | Viking Juice |  |
-|  | Elegantly Wasted |  |
-| S1 | Show Me (Cherry Baby) |  |
-| S2 | Elegantly Wasted |  |
-| S3 | Everything |  |
-| S4 | Don't Lose Your Head |  |
-| S5 | Searching |  |
-| S6 | I'm Just A Man |  |
-| T1 | Girl On Fire |  |
-| T2 | We Are Thrown Together |  |
-| T3 | Shake The Tree |  |
-| T4 | She Is Rising |  |
-| T5 | Building Bridges |  |
-| T6 | Shine |  |
+| Position | Title |
+|----------|--------|
+|  | INXS |
+| A1 | On A Bus |
+| A2 | Doctor |
+| A3 | Just Keep Walking |
+| A4 | Learn To Smile |
+| A5 | Jumping |
+| B1 | In Vain |
+| B2 | Roller Skating |
+| B3 | Body Language |
+| B4 | Newsreel Babies |
+| B5 | Wishy Washy |
+|  | Underneath The Colours |
+| C1 | Stay Young |
+| C2 | Horizons |
+| C3 | Big Go Go |
+| C4 | Underneath The Colours |
+| C5 | Fair Weather Ahead |
+| D1 | Night Of Rebellion |
+| D2 | Follow |
+| D3 | Barbarian |
+| D4 | What Would You Do |
+| D5 | Just To Learn Again |
+|  | Shabooh Shoobah |
+| E1 | The One Thing |
+| E2 | To Look At You |
+| E3 | Spy Of Love |
+| E4 | Soul Mistake |
+| E5 | Here Comes |
+| F1 | Black And White |
+| F2 | Golden Playpen |
+| F3 | Jan's Song |
+| F4 | Old World, New World |
+| F5 | Don't Change |
+|  | The Swing |
+| G1 | Original Sin |
+| G2 | Melting In The Sun |
+| G3 | I Send A Message |
+| G4 | Dancing On The Jetty |
+| G5 | The Swing |
+| H1 | Johnson's Aeroplane |
+| H2 | Love Is (What I Say) |
+| H3 | Face The Change |
+| H4 | Burn For You |
+| H5 | All The Voices |
+|  | Listen Like Thieves |
+| I1 | What You Need |
+| I2 | Listen Like Thieves |
+| I3 | Kiss The Dirt (Falling Down The Mountain) |
+| I4 | Shine Like It Does |
+| I5 | Good + Bad Times |
+| J1 | Biting Bullets |
+| J2 | This Time |
+| J3 | Three Sisters |
+| J4 | Same Direction |
+| J5 | One X One |
+| J6 | Red Red Sun |
+|  | Kick |
+| K1 | Guns In The Sky |
+| K2 | New Sensation |
+| K3 | Devil Inside |
+| K4 | Need You Tonight |
+| K5 | Mediate |
+| K6 | The Loved One |
+| L1 | Wild Life |
+| L2 | Never Tear Us Apart |
+| L3 | Mystify |
+| L4 | Kick |
+| L5 | Calling All Nations |
+| L6 | Tiny Daggers |
+|  | X |
+| M1 | Suicide Blonde |
+| M2 | Disappear |
+| M3 | The Stairs |
+| M4 | Faith In Each Other |
+| M5 | By My Side |
+| N1 | Lately |
+| N2 | Who Pays The Price |
+| N3 | Know The Difference |
+| N4 | Bitter Tears |
+| N5 | On My Way |
+| N6 | Hear That Sound |
+|  | Welcome To Wherever You Are |
+| O1 | Questions |
+| O2 | Heaven Sent |
+| O3 | Communication |
+| O4 | Taste It |
+| O5 | Not Enough Time |
+| O6 | All Around |
+| P1 | Baby Don't Cry |
+| P2 | Beautiful Girl |
+| P3 | Wishing Well |
+| P4 | Back On Line |
+| P5 | Strange Desire |
+| P6 | Men And Women |
+|  | Full Moon, Dirty Hearts |
+| Q1 | Days Of Rust |
+| Q2 | The Gift |
+| Q3 | Make Your Peace |
+| Q4 | Time |
+| Q5 | I'm Only Looking |
+| Q6 | Please (You Got That...) |
+| R1 | Full Moon, Dirty Hearts |
+| R2 | Freedom Deep |
+| R3 | Kill The Pain |
+| R4 | Cut Your Roses Down |
+| R5 | The Messenger |
+| R6 | Viking Juice |
+|  | Elegantly Wasted |
+| S1 | Show Me (Cherry Baby) |
+| S2 | Elegantly Wasted |
+| S3 | Everything |
+| S4 | Don't Lose Your Head |
+| S5 | Searching |
+| S6 | I'm Just A Man |
+| T1 | Girl On Fire |
+| T2 | We Are Thrown Together |
+| T3 | Shake The Tree |
+| T4 | She Is Rising |
+| T5 | Building Bridges |
+| T6 | Shine |
 
 
 ## Apple Music
@@ -204,5 +204,5 @@ styles: []
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Label          | Universal Music Group International |
 | Catalog Number | 0602537778867 |
-| Notes | Includes download voucher.<br><br>"Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels). |
+| Notes | Includes download voucher.  "Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels). |
 | Discogs URL    | [INXS - All The Voices](https://www.discogs.com/release/6035012-INXS-All-The-Voices) |

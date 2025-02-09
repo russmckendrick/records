@@ -24,16 +24,16 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dragonfly | 4:48 |
-| A2 | Mark Maker | 6:54 |
-| A3 | Wild Cry | 4:50 |
-| A4 | Dark Down | 3:25 |
-| B1 | Stry | 8:15 |
-| B2 | Sleepless | 7:05 |
-| B3 | Deeper Align | 6:52 |
-| B4 | Albedo Dei | 5:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Dragonfly |
+| A2 | Mark Maker |
+| A3 | Wild Cry |
+| A4 | Dark Down |
+| B1 | Stry |
+| B2 | Sleepless |
+| B3 | Deeper Align |
+| B4 | Albedo Dei |
 
 
 ## Apple Music

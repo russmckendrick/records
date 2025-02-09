@@ -31,28 +31,28 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Flying | 4:10 |
-| A2 | Around The Plynth | 5:45 |
-| A3 | Nobody Knows | 4:04 |
-| A4 | Three Button Hand Me Down | 5:30 |
-| A5 | Sweet Lady Mary | 5:30 |
-| B1 | Maybe I'm Amazed | 5:35 |
-| B2 | Had Me A Real Good Time | 5:50 |
-| B3 | Miss Judy's Farm | 3:38 |
-| B4 | Memphis | 5:29 |
-| B5 | Too Bad | 4:00 |
-| C1 | Stay With Me | 4:37 |
-| C2 | That's All You Need | 5:06 |
-| C3 | Cindy Incidentally | 2:35 |
-| C4 | Ooh La La | 3:35 |
-| C5 | Flags And Banners | 2:02 |
-| D1 | Borstal Boys | 2:53 |
-| D2 | I Wish It Would Rain | 5:07 |
-| D3 | Pool Hall Richard | 4:26 |
-| D4 | You Can Make Me Dance, Sing Or Anything | 4:29 |
-| D5 | It's All Over Now | 6:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Flying |
+| A2 | Around The Plynth |
+| A3 | Nobody Knows |
+| A4 | Three Button Hand Me Down |
+| A5 | Sweet Lady Mary |
+| B1 | Maybe I'm Amazed |
+| B2 | Had Me A Real Good Time |
+| B3 | Miss Judy's Farm |
+| B4 | Memphis |
+| B5 | Too Bad |
+| C1 | Stay With Me |
+| C2 | That's All You Need |
+| C3 | Cindy Incidentally |
+| C4 | Ooh La La |
+| C5 | Flags And Banners |
+| D1 | Borstal Boys |
+| D2 | I Wish It Would Rain |
+| D3 | Pool Hall Richard |
+| D4 | You Can Make Me Dance, Sing Or Anything |
+| D5 | It's All Over Now |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 | Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Riva (2) |
 | Catalog Number | RVLP 3 |
-| Notes | Released in a matt gatefold sleeve.<br><br>1st cat# on labels , 2nd cat# on sleeve.<br><br>Side 1 Warner Brother Music (1 - 5).<br>Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4).<br>Side 3 Warner Brothers Music (1 - 5).<br>Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5). <br><br>℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.<br><br>Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ<br><br>Etched runouts (A = Λ) |
+| Notes | Released in a matt gatefold sleeve.  1st cat# on labels , 2nd cat# on sleeve.  Side 1 Warner Brother Music (1 - 5). Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4). Side 3 Warner Brothers Music (1 - 5). Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5).   ℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.  Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ  Etched runouts (A = Λ) |
 | Discogs URL    | [Faces - The Best Of The Faces](https://www.discogs.com/release/1333090-Faces-3-The-Best-Of-The-Faces) |

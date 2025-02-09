@@ -41,16 +41,16 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wall Of Eyes |  |
-| A2 | Teleharmonic |  |
-| A3 | Read The Room |  |
-| A4 | Under Our Pillows |  |
-| B1 | Friend Of A Friend |  |
-| B2 | I Quit |  |
-| B3 | Bending Hectic |  |
-| B4 | You Know Me! |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wall Of Eyes |
+| A2 | Teleharmonic |
+| A3 | Read The Room |
+| A4 | Under Our Pillows |
+| B1 | Friend Of A Friend |
+| B2 | I Quit |
+| B3 | Bending Hectic |
+| B4 | You Know Me! |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | XL Recordings |
 | Catalog Number | XL1394LPE |
-| Notes | XL1394LPE is printed on the barcode sticker.<br><br>Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL".<br>The French distribution may have another "France Inter" sticker.<br>Includes a printed inner sleeve with lyrics.<br><br>Early orders from various indie sellers across the world received a free 12x12 Art Print.<br><br>Recorded in Oxford & at Abbey Road Studios<br>Mixed at Studiofour, London<br>Mastered... at Sterling Sound<br><br>℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br>©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br><br>Published by Warner Chappell Music & Warp Publishing |
+| Notes | XL1394LPE is printed on the barcode sticker.  Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL". The French distribution may have another "France Inter" sticker. Includes a printed inner sleeve with lyrics.  Early orders from various indie sellers across the world received a free 12x12 Art Print.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  ℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd ©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music & Warp Publishing |
 | Discogs URL    | [The Smile - Wall Of Eyes](https://www.discogs.com/release/29578063-The-Smile-5-Wall-Of-Eyes) |

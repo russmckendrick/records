@@ -34,26 +34,26 @@ An Introduction to Syd Barrett is a 'best of' compilation featuring the work of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Arnold Layne | 2:54 |
-| A2 | See Emily Play | 2:53 |
-| A3 | Apples And Oranges (Stereo Version) | 3:05 |
-| A4 | Matilda Mother (2010 Mix) | 3:59 |
-| B1 | Chapter 24 | 3:38 |
-| B2 | Bike | 3:21 |
-| B3 | Terrapin | 5:03 |
-| B4 | Love You | 2:26 |
-| B5 | Dark Globe | 2:00 |
-| C1 | Here I Go (2010 Remix) | 3:17 |
-| C2 | Octopus (2010 Mix) | 3:53 |
-| C3 | She Took A Long Cool Look (2010 Mix) | 1:46 |
-| C4 | If It's In You | 2:24 |
-| C5 | Baby Lemonade | 4:07 |
-| D1 | Dominoes (2010 Mix) | 4:04 |
-| D2 | Gigolo Aunt | 5:43 |
-| D3 | Effervescing Elephant | 1:51 |
-| D4 | Bob Dylan Blues | 3:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Arnold Layne |
+| A2 | See Emily Play |
+| A3 | Apples And Oranges (Stereo Version) |
+| A4 | Matilda Mother (2010 Mix) |
+| B1 | Chapter 24 |
+| B2 | Bike |
+| B3 | Terrapin |
+| B4 | Love You |
+| B5 | Dark Globe |
+| C1 | Here I Go (2010 Remix) |
+| C2 | Octopus (2010 Mix) |
+| C3 | She Took A Long Cool Look (2010 Mix) |
+| C4 | If It's In You |
+| C5 | Baby Lemonade |
+| D1 | Dominoes (2010 Mix) |
+| D2 | Gigolo Aunt |
+| D3 | Effervescing Elephant |
+| D4 | Bob Dylan Blues |
 
 
 ## Apple Music

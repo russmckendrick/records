@@ -32,23 +32,23 @@ Kill Bill Vol. 1 Original Soundtrack is the soundtrack to the first volume of th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bang Bang (My Baby Shot Me Down) |  |
-| A2 | That Certain Female |  |
-| A3 | The Grand Duel (Parte Prima) |  |
-| A4 | Twisted Nerve |  |
-| A5 | Queen Of The Crime Council |  |
-| A6 | Ode To Oren Ishii |  |
-| A7 | Run Fay Run |  |
-| A8 | Green Hornet |  |
-| A9 | Battle Without Honor Or Humanity |  |
-|  | Don't Let Me Be Misunderstood / Esmeralda Suite |  |
-| B2 | Woo Hoo |  |
-|  | Crane / White Lightning |  |
-| B4 | The Flower Of Carnage |  |
-| B5 | The Lonely Shepherd |  |
-| B6 | You're My Wicked Life |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bang Bang (My Baby Shot Me Down) |
+| A2 | That Certain Female |
+| A3 | The Grand Duel (Parte Prima) |
+| A4 | Twisted Nerve |
+| A5 | Queen Of The Crime Council |
+| A6 | Ode To Oren Ishii |
+| A7 | Run Fay Run |
+| A8 | Green Hornet |
+| A9 | Battle Without Honor Or Humanity |
+|  | Don't Let Me Be Misunderstood / Esmeralda Suite |
+| B2 | Woo Hoo |
+|  | Crane / White Lightning |
+| B4 | The Flower Of Carnage |
+| B5 | The Lonely Shepherd |
+| B6 | You're My Wicked Life |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Kill Bill Vol. 1 Original Soundtrack is the soundtrack to the first volume of th
 | Format         | Vinyl LP Compilation Reissue Repress |
 | Label          | Maverick |
 | Catalog Number | 9362-48570-1 |
-| Notes | Reissue/Repress of the 2003 original release [r441066].<br><br>If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge. <br>This 2015 release does not. <br>Apart from this, it looks identical.<br><br>Includes a two-sided sheet with lyrics and infos.<br> |
+| Notes | Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos.  |
 | Discogs URL    | [Various - Kill Bill Vol. 1 - Original Soundtrack](https://www.discogs.com/release/7798494-Various-Kill-Bill-Vol-1-Original-Soundtrack) |

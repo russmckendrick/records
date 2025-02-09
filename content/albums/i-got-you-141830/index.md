@@ -31,10 +31,10 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | I Got You | 3:24 |
-| B | Double Happy | 3:15 |
+| Position | Title |
+|----------|--------|
+| A | I Got You |
+| B | Double Happy |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMS 7546 |
-| Notes | From the forthcoming A & M album [m=81214] AMLH 64822<br>A Boomerang production<br><br>Published by Modern Publishing Ltd./ATV Music Ltd.<br>℗ 1979 Mushroom Records Pty. Ltd. |
+| Notes | From the forthcoming A & M album [m=81214] AMLH 64822 A Boomerang production  Published by Modern Publishing Ltd./ATV Music Ltd. ℗ 1979 Mushroom Records Pty. Ltd. |
 | Discogs URL    | [Split Enz - I Got You](https://www.discogs.com/release/141830-Split-Enz-I-Got-You) |

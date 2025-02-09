@@ -31,18 +31,18 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rock! Rock! (Till You Drop) | 3:53 |
-| A2 | Photograph | 4:12 |
-| A3 | Stagefright  | 3:46 |
-| A4 | Too Late For Love | 4:30 |
-| A5 | Die Hard The Hunter | 6:17 |
-| B1 | Foolin’ | 4:32 |
-| B2 | Rock Of Ages | 4:09 |
-| B3 | Comin’ Under Fire | 4:20 |
-| B4 | Action! Not Words | 3:52 |
-| B5 | Billy’s Got A Gun | 5:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Rock! Rock! (Till You Drop) |
+| A2 | Photograph |
+| A3 | Stagefright  |
+| A4 | Too Late For Love |
+| A5 | Die Hard The Hunter |
+| B1 | Foolin’ |
+| B2 | Rock Of Ages |
+| B3 | Comin’ Under Fire |
+| B4 | Action! Not Words |
+| B5 | Billy’s Got A Gun |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Vertigo |
 | Catalog Number | 5777362 |
-| Notes | 2022 Reissue <br><br>Mastered at Masterdisk by Bob Ludwig.<br>Front Cover Illustration by Bernard Gudynas.<br>Back Cover Photograph by David Landslide.<br>Album Sleeve Concept and Design by Satori.<br>Recorded between bouts of World Cup Soccer at Park Gates Studios. |
+| Notes | 2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios. |
 | Discogs URL    | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |

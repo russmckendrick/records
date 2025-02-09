@@ -36,19 +36,19 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Humming |  |
-| A2 | Cowboys |  |
-| A3 | All Mine |  |
-| B1 | Mysterons |  |
-| B2 | Only You |  |
-| B3 | Half Day Closing |  |
-| B4 | Over |  |
-| C1 | Glory Box |  |
-| C2 | Sour Times |  |
-| D1 | Roads |  |
-| D2 | Strangers |  |
+| Position | Title |
+|----------|--------|
+| A1 | Humming |
+| A2 | Cowboys |
+| A3 | All Mine |
+| B1 | Mysterons |
+| B2 | Only You |
+| B3 | Half Day Closing |
+| B4 | Over |
+| C1 | Glory Box |
+| C2 | Sour Times |
+| D1 | Roads |
+| D2 | Strangers |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Go! Beat |
 | Catalog Number | 559 424-1 |
-| Notes | According to the "320" stamped in the runouts, which refers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.<br><br>Single pocket sleeve, includes a foldout poster but unlike the original issue this reissue has no printed inner sleeves.<br><br>Some of the pressings came with wrongly centered labels on both sides of the first record. <br>On the B-side the label comes over the last part of the last song.  <br><br>[On back sleeve]:<br>℗ 1998 Go Beat<br>© 1998 Go Beat<br>The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)<br><br>Runouts are stamped. |
+| Notes | According to the "320" stamped in the runouts, which refers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.  Single pocket sleeve, includes a foldout poster but unlike the original issue this reissue has no printed inner sleeves.  Some of the pressings came with wrongly centered labels on both sides of the first record.  On the B-side the label comes over the last part of the last song.    [On back sleeve]: ℗ 1998 Go Beat © 1998 Go Beat The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)  Runouts are stamped. |
 | Discogs URL    | [Portishead - Roseland NYC Live](https://www.discogs.com/release/3586054-Portishead-Roseland-NYC-Live) |

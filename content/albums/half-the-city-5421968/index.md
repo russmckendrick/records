@@ -28,20 +28,20 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Torn Up | 3:37 |
-| A2 | Don't Mean A Thing | 3:06 |
-| A3 | Call Me | 2:51 |
-| A4 | Like A Mighty River | 3:23 |
-| A5 | That Glow | 3:04 |
-| A6 | Broken Bones & Pocket Change | 3:47 |
-| B1 | Sugar Dyed | 2:28 |
-| B2 | Half The City | 3:17 |
-| B3 | Grass Is Greener | 4:14 |
-| B4 | Let It Be So | 3:19 |
-| B5 | Dixie Rothko | 3:32 |
-| B6 | It's Midnight | 2:31 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Torn Up |
+| A2 | Don't Mean A Thing |
+| A3 | Call Me |
+| A4 | Like A Mighty River |
+| A5 | That Glow |
+| A6 | Broken Bones & Pocket Change |
+| B1 | Sugar Dyed |
+| B2 | Half The City |
+| B3 | Grass Is Greener |
+| B4 | Let It Be So |
+| B5 | Dixie Rothko |
+| B6 | It's Midnight |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Rhythm & Blues", "Soul"]
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Single Lock Records |
 | Catalog Number | SL 003 |
-| Notes | Includes printed inner sleeve and download coupon for entire album in MP3 format.<br><br>Recorded at The Nutthouse except "Sugar Dyed" was recorded at Ol' Elegante Studios. Additional overdubs recorded at Up and In Studio.<br>Mixed at FAME Studio A<br><br>© and ℗ 2014 Single Lock Records |
+| Notes | Includes printed inner sleeve and download coupon for entire album in MP3 format.    Recorded at The Nutthouse except "Sugar Dyed" was recorded at Ol' Elegante Studios. Additional overdubs recorded at Up and In Studio.  Mixed at FAME Studio A    © and ℗ 2014 Single Lock Records |
 | Discogs URL    | [St Paul  The Broken Bones - Half The City](https://www.discogs.com/release/5421968-St-Paul-The-Broken-Bones-Half-The-City) |

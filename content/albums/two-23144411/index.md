@@ -28,18 +28,18 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Token | 4:27 |
-| A2 | I Can See You Outside | 4:20 |
-| A3 | Tectonic Plates | 3:34 |
-| A4 | Lighthouse | 4:20 |
-| A5 | Tears | 3:12 |
-| B1 | Hygiene Strip | 4:08 |
-| B2 | Blood | 3:51 |
-| B3 | Social Proof | 3:26 |
-| B4 | Kissing To Be Unkind | 4:38 |
-| B5 | Perfect Circle | 4:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Token |
+| A2 | I Can See You Outside |
+| A3 | Tectonic Plates |
+| A4 | Lighthouse |
+| A5 | Tears |
+| B1 | Hygiene Strip |
+| B2 | Blood |
+| B3 | Social Proof |
+| B4 | Kissing To Be Unkind |
+| B5 | Perfect Circle |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Northern Writes |
 | Catalog Number | NW009VW |
-| Notes | Hype sticker: Limited edition white vinyl. <br>Initial copies from Rough Trade East, London came with a signed print.<br> |
+| Notes | Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print.  |
 | Discogs URL    | [Dubstar - Two](https://www.discogs.com/release/23144411-Dubstar-2-Two) |

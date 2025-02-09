@@ -34,18 +34,18 @@ charge.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 1:02 |
-| A2 | I Against I | 2:49 |
-| A3 | House Of Suffering | 2:28 |
-| A4 | Re-Ignition | 4:14 |
-| A5 | Secret 77 | 4:01 |
-| B1 | Let Me Help | 2:16 |
-| B2 | She's Calling You | 3:42 |
-| B3 | Sacred Love | 3:18 |
-| B4 | Hired Gun | 3:45 |
-| B5 | Return To Heaven | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | I Against I |
+| A3 | House Of Suffering |
+| A4 | Re-Ignition |
+| A5 | Secret 77 |
+| B1 | Let Me Help |
+| B2 | She's Calling You |
+| B3 | Sacred Love |
+| B4 | Hired Gun |
+| B5 | Return To Heaven |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ charge.
 | Format         | Vinyl LP Reissue Remastered (Yellow W/ Red Marble) |
 | Label          | Bad Brains Records |
 | Catalog Number | ORGM-2187 |
-| Notes | Rough Trade Exclusive<br>Limited to 500 copies |
+| Notes | Rough Trade Exclusive Limited to 500 copies |
 | Discogs URL    | [Bad Brains - I Against I](https://www.discogs.com/release/31356778-Bad-Brains-I-Against-I) |

@@ -27,20 +27,20 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Falling, Catching | 1:35 |
-| A2 | Riverside | 3:50 |
-| A3 | Brother Sparrow | 4:00 |
-| A4 | Just So | 3:37 |
-| A5 | Beast | 3:52 |
-| A6 | Louretta | 2:08 |
-| B7 | Avenue | 4:09 |
-| B8 | Philharmonics | 3:35 |
-| B9 | Close Watch | 4:04 |
-| B10 | Wallflower | 2:28 |
-| B11 | Over The Hill | 2:50 |
-| B12 | On Powdered Ground | 4:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Falling, Catching |
+| A2 | Riverside |
+| A3 | Brother Sparrow |
+| A4 | Just So |
+| A5 | Beast |
+| A6 | Louretta |
+| B7 | Avenue |
+| B8 | Philharmonics |
+| B9 | Close Watch |
+| B10 | Wallflower |
+| B11 | Over The Hill |
+| B12 | On Powdered Ground |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 | Format         | Vinyl LP Album |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASR 195 LP |
-| Notes | Runout parts "BA11341-01 A1 MK" and "BA11341-01 B2 MK" are stamped; the rest is etched.<br>The track numbers are given sequentially on the release, 1 to 12.<br>Recorded in Berlin 2004 - 2010.<br><br>℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings.<br>[PIAS] Recordings is a label of the [PIAS] Entertainment Group. |
+| Notes | Runout parts "BA11341-01 A1 MK" and "BA11341-01 B2 MK" are stamped; the rest is etched. The track numbers are given sequentially on the release, 1 to 12. Recorded in Berlin 2004 - 2010.  ℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings. [PIAS] Recordings is a label of the [PIAS] Entertainment Group. |
 | Discogs URL    | [Agnes Obel - Philharmonics](https://www.discogs.com/release/2469079-Agnes-Obel-Philharmonics) |

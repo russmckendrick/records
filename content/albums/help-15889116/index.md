@@ -36,28 +36,28 @@ Help  is a 2010 Indian Hindi-language supernatural horror film directed by Rajee
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fade Away | 4:11 |
-| A2 | Oh Brother | 3:42 |
-| A3 | Love Spreads | 3:47 |
-| A4 | Lucky | 4:20 |
-| A5 | Adnan | 3:42 |
-| B1 | Mourning Air | 3:47 |
-| B2 | Fake The Aroma | 3:24 |
-| B3 | Shipbuilding | 3:13 |
-| B4 | Time For Livin' | 4:12 |
-| B5 | Sweetest Truth (Show No Fear) | 5:00 |
-| C1 | Ode To Billy Joe | 4:59 |
-| C2 | Searchlights | 3:51 |
-| C3 | Raindrops Keep Falling On My Head | 2:57 |
-| C4 | Tom Petty Loves Veruca Salt | 3:01 |
-| C5 | The Magnificent | 2:15 |
-| D1 | Message To Crommie | 3:48 |
-| D2 | Dream A Little Dream | 3:27 |
-| D3 | 1, 2, 3, 4, 5 | 4:13 |
-| D4 | Eine Kleine Lift Musik | 4:17 |
-| D5 | Come Together | 3:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Fade Away |
+| A2 | Oh Brother |
+| A3 | Love Spreads |
+| A4 | Lucky |
+| A5 | Adnan |
+| B1 | Mourning Air |
+| B2 | Fake The Aroma |
+| B3 | Shipbuilding |
+| B4 | Time For Livin' |
+| B5 | Sweetest Truth (Show No Fear) |
+| C1 | Ode To Billy Joe |
+| C2 | Searchlights |
+| C3 | Raindrops Keep Falling On My Head |
+| C4 | Tom Petty Loves Veruca Salt |
+| C5 | The Magnificent |
+| D1 | Message To Crommie |
+| D2 | Dream A Little Dream |
+| D3 | 1, 2, 3, 4, 5 |
+| D4 | Eine Kleine Lift Musik |
+| D5 | Come Together |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Help  is a 2010 Indian Hindi-language supernatural horror film directed by Rajee
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue |
 | Label          | The Vinyl Factory |
 | Catalog Number | 8286822 |
-| Notes | 25 Year re-issue. Limited to 2020 copies.<br><br>Put together by Tony Crean of Go!Discs for charity and inspired by John Lennon's 7-day schedule for the release of 'Instant Karma' (record on Monday, press up on Tuesday, sleeve on Wednesday, etc.). The same timescale was decided on for this album, the proceeds going to help starving Bosnian refugees. Named after the Beatles song, 'Help' seems a near impossible attempt at getting the biggest bands in the country to record exclusive songs and present them in a matter of days. Crean did it from idea to hitting the shops in 6 days.<br><br>12" x 12" Insert with War Child Statement and Photos |
+| Notes | 25 Year re-issue. Limited to 2020 copies.  Put together by Tony Crean of Go!Discs for charity and inspired by John Lennon's 7-day schedule for the release of 'Instant Karma' (record on Monday, press up on Tuesday, sleeve on Wednesday, etc.). The same timescale was decided on for this album, the proceeds going to help starving Bosnian refugees. Named after the Beatles song, 'Help' seems a near impossible attempt at getting the biggest bands in the country to record exclusive songs and present them in a matter of days. Crean did it from idea to hitting the shops in 6 days.  12" x 12" Insert with War Child Statement and Photos |
 | Discogs URL    | [Various - Help](https://www.discogs.com/release/15889116-Various-Help) |

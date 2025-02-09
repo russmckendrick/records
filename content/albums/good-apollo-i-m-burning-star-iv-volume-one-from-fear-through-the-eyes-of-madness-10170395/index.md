@@ -38,24 +38,24 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Keeping The Blade |  |
-| A2 | Always & Never |  |
-| A3 | Welcome Home |  |
-| A4 | Ten Speed (Of God's Blood And Burial) |  |
-| A5 | Crossing The Frame |  |
-| A6 | Apollo I: The Writing Writer |  |
-| B1 | Once Upon Your Dead Body |  |
-| B2 | Wake Up |  |
-| B3 | The Suffering |  |
-| B4 | The Lying Lies And Dirty Secrets Of Miss Erica Court |  |
-| B5 | Mother May I |  |
-|  | The Willing Well |  |
-| C1 | I: Fuel For The Feeding End |  |
-| C2 | II: From Fear Through The Eyes Of Madness |  |
-| D1 | III: Apollo II: The Telling Truth |  |
-| D2 | IV: The Final Cut |  |
+| Position | Title |
+|----------|--------|
+| A1 | Keeping The Blade |
+| A2 | Always & Never |
+| A3 | Welcome Home |
+| A4 | Ten Speed (Of God's Blood And Burial) |
+| A5 | Crossing The Frame |
+| A6 | Apollo I: The Writing Writer |
+| B1 | Once Upon Your Dead Body |
+| B2 | Wake Up |
+| B3 | The Suffering |
+| B4 | The Lying Lies And Dirty Secrets Of Miss Erica Court |
+| B5 | Mother May I |
+|  | The Willing Well |
+| C1 | I: Fuel For The Feeding End |
+| C2 | II: From Fear Through The Eyes Of Madness |
+| D1 | III: Apollo II: The Telling Truth |
+| D2 | IV: The Final Cut |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Format         | Vinyl LP (Black/White Swirl), Vinyl LP (Black/Red Swirl), All Media Album Record Store Day Limited Edition Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 88843045891 |
-| Notes | Record Store Day 2017 release of 2500 copies.<br>Hype sticker states:<br>Iconic third album now on vinyl for the first time<br>Two LP set remastered from the original sources<br>Limited edition splatter vinyl<br>Includes digital download<br><br>150-gram LPs housed in printed inner sleeves with art and lyrics. Includes digital download code.<br><br>Release was originally promoted as being pressed on splattered color vinyl; the final product came to be pressed with a swirl/merge color scheme. |
+| Notes | Record Store Day 2017 release of 2500 copies. Hype sticker states: Iconic third album now on vinyl for the first time Two LP set remastered from the original sources Limited edition splatter vinyl Includes digital download  150-gram LPs housed in printed inner sleeves with art and lyrics. Includes digital download code.  Release was originally promoted as being pressed on splattered color vinyl; the final product came to be pressed with a swirl/merge color scheme. |
 | Discogs URL    | [Coheed And Cambria - Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness](https://www.discogs.com/release/10170395-Coheed-And-Cambria-Good-Apollo-Im-Burning-Star-IV-Volume-One-From-Fear-Through-The-Eyes-Of-Madness) |

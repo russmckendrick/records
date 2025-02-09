@@ -31,16 +31,16 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Distant Early Warning |  |
-| A2 | Afterimage |  |
-| A3 | Red Sector A |  |
-| A4 | The Enemy Within |  |
-| B1 | The Body Electric |  |
-| B2 | Kid Gloves |  |
-| B3 | Red Lenses |  |
-| B4 | Between The Wheels |  |
+| Position | Title |
+|----------|--------|
+| A1 | Distant Early Warning |
+| A2 | Afterimage |
+| A3 | Red Sector A |
+| A4 | The Enemy Within |
+| B1 | The Body Electric |
+| B2 | Kid Gloves |
+| B3 | Red Lenses |
+| B4 | Between The Wheels |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118271 |
-| Notes | Including a voucher to download an MP3 version of the album<br><br>Comes with 10x10 glossy lyric & credits insert<br><br>DMM (Direct Metal Mastering)<br><br>Made in the EU |
+| Notes | Including a voucher to download an MP3 version of the album  Comes with 10x10 glossy lyric & credits insert  DMM (Direct Metal Mastering)  Made in the EU |
 | Discogs URL    | [Rush - Grace Under Pressure](https://www.discogs.com/release/7855813-Rush-Grace-Under-Pressure) |

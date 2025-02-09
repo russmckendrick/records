@@ -34,21 +34,21 @@ Inflammable Material is the debut album by the Northern Irish punk band Stiff Li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Suspect Device |  |
-| A2 | State Of Emergency |  |
-| A3 | Here We Are Nowhere |  |
-| A4 | Wasted Life |  |
-| A5 | No More Of That |  |
-| A6 | Barbed Wire Love |  |
-| A7 | White Noise |  |
-| A8 | Breakout |  |
-| B1 | Law And Order |  |
-| B2 | Rough Trade |  |
-| B3 | Johnny Was |  |
-| B4 | Alternative Ulster |  |
-| B5 | Closed Groove |  |
+| Position | Title |
+|----------|--------|
+| A1 | Suspect Device |
+| A2 | State Of Emergency |
+| A3 | Here We Are Nowhere |
+| A4 | Wasted Life |
+| A5 | No More Of That |
+| A6 | Barbed Wire Love |
+| A7 | White Noise |
+| A8 | Breakout |
+| B1 | Law And Order |
+| B2 | Rough Trade |
+| B3 | Johnny Was |
+| B4 | Alternative Ulster |
+| B5 | Closed Groove |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Inflammable Material is the debut album by the Northern Irish punk band Stiff Li
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295448271 |
-| Notes | ℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd<br>© 2019 Parlophone Records Ltd, A Warner Music Group Company.<br>Made In The E.U.<br><br>First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits<br><br>Includes printed innersleeve containing lyrics, info and credits.<br><br>Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.<br><br>Track B3:<br>-Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve].<br>-Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].<br><br>Side B ends in locked groove.<br><br>Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...". |
+| Notes | ℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd © 2019 Parlophone Records Ltd, A Warner Music Group Company. Made In The E.U.  First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits  Includes printed innersleeve containing lyrics, info and credits.  Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.  Track B3: -Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve]. -Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].  Side B ends in locked groove.  Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...". |
 | Discogs URL    | [Stiff Little Fingers - Inflammable Material](https://www.discogs.com/release/14224076-Stiff-Little-Fingers-Inflammable-Material) |

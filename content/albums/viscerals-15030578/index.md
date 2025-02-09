@@ -32,16 +32,16 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Reducer |  |
-| A2 | Rubbernecker |  |
-| A3 | New Body |  |
-| A4 | Blood And Butter |  |
-| B1 | World Crust |  |
-| B2 | Crazy In Blood |  |
-| B3 | Halloween Bolson |  |
-| B4 | Hell's Teeth |  |
+| Position | Title |
+|----------|--------|
+| A1 | Reducer |
+| A2 | Rubbernecker |
+| A3 | New Body |
+| A4 | Blood And Butter |
+| B1 | World Crust |
+| B2 | Crazy In Blood |
+| B3 | Halloween Bolson |
+| B4 | Hell's Teeth |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 | Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH184 |
-| Notes | Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive)<br>Comes with printed inner sleeves and Bandcamp download code. |
+| Notes | Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code. |
 | Discogs URL    | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals](https://www.discogs.com/release/15030578-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Viscerals) |

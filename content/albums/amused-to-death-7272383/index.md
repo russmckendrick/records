@@ -36,22 +36,22 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Ballad Of Bill Hubbard | 4:19 |
-| A2 | What God Wants, Part I | 6:00 |
-| A3 | Perfect Sense, Part I | 4:16 |
-| A4 | Perfect Sense, Part II | 2:50 |
-| B1 | The Bravery Of Being Out Of Range | 4:43 |
-| B2 | Late Home Tonight, Part I | 4:00 |
-| B3 | Late Home Tonight, Part II | 2:13 |
-| B4 | Too Much Rope | 5:47 |
-| B5 | What God Wants, Part II | 3:41 |
-| C1 | What God Wants, Part III | 4:08 |
-| C2 | Watching TV | 6:07 |
-| C3 | Three Wishes | 6:50 |
-| D1 | It's A Miracle | 8:30 |
-| D2 | Amused To Death | 9:06 |
+| Position | Title |
+|----------|--------|
+| A1 | The Ballad Of Bill Hubbard |
+| A2 | What God Wants, Part I |
+| A3 | Perfect Sense, Part I |
+| A4 | Perfect Sense, Part II |
+| B1 | The Bravery Of Being Out Of Range |
+| B2 | Late Home Tonight, Part I |
+| B3 | Late Home Tonight, Part II |
+| B4 | Too Much Rope |
+| B5 | What God Wants, Part II |
+| C1 | What God Wants, Part III |
+| C2 | Watching TV |
+| C3 | Three Wishes |
+| D1 | It's A Miracle |
+| D2 | Amused To Death |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc (Remixed) |
 | Label          | Columbia |
 | Catalog Number | 88875065801 |
-| Notes | New 2015 remix completed by James Guthrie.<br><br>"The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie.<br>The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."<br><br>Pressed By information is not listed. Information derived from runouts. <br> |
+| Notes | New 2015 remix completed by James Guthrie.  "The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.   |
 | Discogs URL    | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383-Roger-Waters-Amused-To-Death) |

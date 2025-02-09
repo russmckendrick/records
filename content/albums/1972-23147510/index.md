@@ -36,14 +36,14 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rocks Off |  |
-| A2 | The Slider |  |
-| A3 | You Wear It Well |  |
-| B1 | Easy To Slip |  |
-| B2 | Moonage Daydream |  |
-| B3 | Papa Was A Rollin’ Stone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rocks Off |
+| A2 | The Slider |
+| A3 | You Wear It Well |
+| B1 | Easy To Slip |
+| B2 | Moonage Daydream |
+| B3 | Papa Was A Rollin’ Stone |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 | Format         | Vinyl LP Stereo |
 | Label          | Silver Arrow |
 | Catalog Number | SAR26LP |
-| Notes | Recorded at Sunset Sound, Hollywood, California<br><br>Inner sleeve contains credits and a photograph of the band.<br><br>℗&© 2022 Silver Arrow Records<br><br>Publishers:<br>A1: BMG<br>A2: Spirit Music Group<br>A3: Warner Chappell (Martin Quittenton) and Sony Music Publishing (Rod Stewart)<br>B1: Naked Snake Music<br>B2: Warner Chappell<br>B3: Sony Music Publishing<br><br>Made in the Czech Republic<br><br>U.K. release date: 22nd October 2022<br><br>The runout strings are stamped. |
+| Notes | Recorded at Sunset Sound, Hollywood, California  Inner sleeve contains credits and a photograph of the band.  ℗&© 2022 Silver Arrow Records  Publishers: A1: BMG A2: Spirit Music Group A3: Warner Chappell (Martin Quittenton) and Sony Music Publishing (Rod Stewart) B1: Naked Snake Music B2: Warner Chappell B3: Sony Music Publishing  Made in the Czech Republic  U.K. release date: 22nd October 2022  The runout strings are stamped. |
 | Discogs URL    | [The Black Crowes - 1972](https://www.discogs.com/release/23147510-The-Black-Crowes-1972) |

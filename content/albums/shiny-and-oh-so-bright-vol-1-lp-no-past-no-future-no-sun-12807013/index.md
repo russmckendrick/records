@@ -44,19 +44,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knights Of Malta |  |
-| A2 | Silvery Sometimes (Ghosts) |  |
-| A3 | Travels |  |
-| A4 | Solara |  |
-| B1 | Alienation |  |
-| B2 | Marchin' On |  |
-| B3 | With Sympathy |  |
-| B4 | Seek And You Shall Destroy |  |
-| C | Solara |  |
-| D | Silvery Sometimes (Ghosts) |  |
-| E | Knights Of Malta |  |
+| Position | Title |
+|----------|--------|
+| A1 | Knights Of Malta |
+| A2 | Silvery Sometimes (Ghosts) |
+| A3 | Travels |
+| A4 | Solara |
+| B1 | Alienation |
+| B2 | Marchin' On |
+| B3 | With Sympathy |
+| B4 | Seek And You Shall Destroy |
+| C | Solara |
+| D | Silvery Sometimes (Ghosts) |
+| E | Knights Of Malta |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Alternative Rock"]
 | Format         | Box Set Limited Edition, Vinyl LP Album (Violet), Vinyl 3× 7" Single Sided Etched (Violet) |
 | Label          | Napalm Records |
 | Catalog Number | NPR807DB |
-| Notes | Deluxe Box Set limited to 2000 copies<br>incl. 180g violet vinyl in Gatefold Cover + Downloadcode + 3 x 7" EP Single in violet vinyl.<br>Side B of each 7" single is etched. |
+| Notes | Deluxe Box Set limited to 2000 copies incl. 180g violet vinyl in Gatefold Cover + Downloadcode + 3 x 7" EP Single in violet vinyl. Side B of each 7" single is etched. |
 | Discogs URL    | [The Smashing Pumpkins - Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun](https://www.discogs.com/release/12807013-The-Smashing-Pumpkins-Shiny-And-Oh-So-Bright-Vol1-LP-No-Past-No-Future-No-Sun) |

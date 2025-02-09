@@ -30,18 +30,18 @@ Cuckoo is the second studio album to be released by the British alternative rock
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Missing Link |  |
-| A2 | Crystal |  |
-| A3 | Men Are From Mars Women Are From Venus |  |
-| A4 | All Of One |  |
-| A5 | Unreadable Communication |  |
-| B1 | Turkey Crossing |  |
-| B2 | Super Blaster |  |
-| B3 | Left Of Mother |  |
-| B4 | Sweetest Pie |  |
-| B5 | Cuckoo |  |
+| Position | Title |
+|----------|--------|
+| A1 | Missing Link |
+| A2 | Crystal |
+| A3 | Men Are From Mars Women Are From Venus |
+| A4 | All Of One |
+| A5 | Unreadable Communication |
+| B1 | Turkey Crossing |
+| B2 | Super Blaster |
+| B3 | Left Of Mother |
+| B4 | Sweetest Pie |
+| B5 | Cuckoo |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Cuckoo is the second studio album to be released by the British alternative rock
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-53LP |
-| Notes | Comes with download card from 3 Loop Music.<br><br>Preorder copies come with a limited availability art card signed by Toni and Dean . |
+| Notes | Comes with download card from 3 Loop Music.  Preorder copies come with a limited availability art card signed by Toni and Dean . |
 | Discogs URL    | [Curve - Cuckoo](https://www.discogs.com/release/10770803-Curve-Cuckoo) |

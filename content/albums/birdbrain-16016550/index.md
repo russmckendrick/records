@@ -32,18 +32,18 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Birdbrain | 3:13 |
-| A2 | Skeleton Key | 4:35 |
-| A3 | Caress | 2:41 |
-| A4 | Guy Who Is Me | 3:04 |
-| A5 | Enemy | 4:53 |
-| B1 | Crawl | 3:53 |
-| B2 | Fortune Teller | 3:16 |
-| B3 | Baby | 3:32 |
-| B4 | Directive | 4:01 |
-| B5 | Bleeding Heart | 3:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Birdbrain |
+| A2 | Skeleton Key |
+| A3 | Caress |
+| A4 | Guy Who Is Me |
+| A5 | Enemy |
+| B1 | Crawl |
+| B2 | Fortune Teller |
+| B3 | Baby |
+| B4 | Directive |
+| B5 | Bleeding Heart |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Mint Green) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ2179LP |
-| Notes | Hype Sticker:<br>30th Anniversary<br>Limited Edition<br>Featuring mint green colored vinyl<br><br>Published by Scrawny Music<br>Licensed from Megadisc Records, Belgium<br>℗ 1990 Megadisc Records<br>© 2020 Beggars Banquet Records Ltd.<br><br>Runouts are laser-etched. |
+| Notes | Hype Sticker: 30th Anniversary Limited Edition Featuring mint green colored vinyl  Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  Runouts are laser-etched. |
 | Discogs URL    | [Buffalo Tom - Birdbrain](https://www.discogs.com/release/16016550-Buffalo-Tom-Birdbrain) |

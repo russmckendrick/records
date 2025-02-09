@@ -27,21 +27,21 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | States Of Mind | 5:10 |
-| A2 | The Key | 5:22 |
-| A3 | Switch | 4:33 |
-| B1 | Age Of Panic | 4:08 |
-| B2 | What's Going On | 5:07 |
-| B3 | One Touch One Bounce | 3:24 |
-| C1 | Stubborn | 5:46 |
-| C2 | Door Game | 6:39 |
-| C3 | Peanut Head | 5:40 |
-| D1 | Peace | 5:50 |
-| D2 | Eject | 5:19 |
-| D3 | No Comply | 2:37 |
-| D4 | Worth | 3:04 |
+| Position | Title |
+|----------|--------|
+| A1 | States Of Mind |
+| A2 | The Key |
+| A3 | Switch |
+| B1 | Age Of Panic |
+| B2 | What's Going On |
+| B3 | One Touch One Bounce |
+| C1 | Stubborn |
+| C2 | Door Game |
+| C3 | Peanut Head |
+| D1 | Peace |
+| D2 | Eject |
+| D3 | No Comply |
+| D4 | Worth |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 | Format         | Vinyl 2× LP Album Limited Edition Remastered |
 | Label          | Ultimate |
 | Catalog Number | SBR 208LP |
-| Notes | Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks. <br><br>Includes insert with pictures.<br>Some signed copies were available from Senser website.<br><br>The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music  |
+| Notes | Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks.   Includes insert with pictures. Some signed copies were available from Senser website.  The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music  |
 | Discogs URL    | [Senser - Stacked Up XX](https://www.discogs.com/release/6329282-Senser-Stacked-Up-XX) |

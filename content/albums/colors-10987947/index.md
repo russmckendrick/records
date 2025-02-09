@@ -34,18 +34,18 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Colors | 4:21 |
-| A2 | Seventh Heaven | 5:00 |
-| A3 | I'm So Free | 4:08 |
-| A4 | Dear Life | 3:44 |
-| A5 | No Distraction | 4:32 |
-| B1 | Dreams | 4:57 |
-| B2 | Wow | 3:42 |
-| B3 | Up All Night | 3:10 |
-| B4 | Square One | 2:55 |
-| B5 | Fix Me | 3:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Colors |
+| A2 | Seventh Heaven |
+| A3 | I'm So Free |
+| A4 | Dear Life |
+| A5 | No Distraction |
+| B1 | Dreams |
+| B2 | Wow |
+| B3 | Up All Night |
+| B4 | Square One |
+| B5 | Fix Me |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 | Format         | Vinyl LP Album (Red) |
 | Label          | Fonograf Records |
 | Catalog Number | 00602557176803 |
-| Notes | Inc Download card with Exp date 10/13/19<br>12" x 12" Folded Lyric Insert |
+| Notes | Inc Download card with Exp date 10/13/19 12" x 12" Folded Lyric Insert |
 | Discogs URL    | [Beck - Colors](https://www.discogs.com/release/10987947-Beck-Colors) |

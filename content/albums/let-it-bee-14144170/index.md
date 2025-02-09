@@ -31,19 +31,19 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beat Of Love | 4:03 |
-| A2 | Sorrow Floats | 4:15 |
-| A3 | Don't Call Me Baby | 3:07 |
-| A4 | Man In The Moon | 3:07 |
-| A5 | What You Have Is Enough | 2:34 |
-| A6 | Oh Love | 3:00 |
-| B1 | I Walk The Earth | 3:45 |
-| B2 | Trust Me | 3:16 |
-| B3 | I Say Nothing | 3:25 |
-| B4 | There's A Barbarian In The Back Of My Car | 2:35 |
-| B5 | Just A City | 4:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Beat Of Love |
+| A2 | Sorrow Floats |
+| A3 | Don't Call Me Baby |
+| A4 | Man In The Moon |
+| A5 | What You Have Is Enough |
+| A6 | Oh Love |
+| B1 | I Walk The Earth |
+| B2 | Trust Me |
+| B3 | I Say Nothing |
+| B4 | There's A Barbarian In The Back Of My Car |
+| B5 | Just A City |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | LONLP 57 |
-| Notes | Issued with a custom printed inner sleeve containing lyrics and credits.<br>Some copies with hype sticker on front cover, reads, <br>Including <br>Don't Call Me Baby <br>I Say Nothing <br>I Walk The Earth <br>Beat Of Love <br>LONLP 57 |
+| Notes | Issued with a custom printed inner sleeve containing lyrics and credits. Some copies with hype sticker on front cover, reads,  Including  Don't Call Me Baby  I Say Nothing  I Walk The Earth  Beat Of Love  LONLP 57 |
 | Discogs URL    | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/14144170-Voice-Of-The-Beehive-Let-It-Bee) |

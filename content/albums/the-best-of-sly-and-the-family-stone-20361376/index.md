@@ -32,28 +32,28 @@ styles: ["Funk", "Psychedelic", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dance To The Music | 3:00 |
-| A2 | I Want To Take You Higher | 5:22 |
-| A3 | Family Affair | 3:09 |
-| A4 | Thank You (Falettinme Be Mice Elf Again) | 4:53 |
-| A5 | I Get High On You | 5:55 |
-| B1 | Stand | 3:05 |
-| B2 | M' Lady | 2:45 |
-| B3 | Skin I'm In | 2:46 |
-| B4 | Everyday People | 2:20 |
-| B5 | Sing A Simple Song | 3:55 |
-| C1 | Hot Fun In The Summertime | 2:37 |
-| C2 | Don't Call Me Nigger, Whitey | 6:02 |
-| C3 | Brave & Strong | 3:30 |
-| C4 | Life | 2:58 |
-| C5 | Everybody Is A Star | 3:00 |
-| D1 | If You Want Me To Stay | 3:06 |
-| D2 | (You Caught Me) Smilin' | 3:00 |
-| D3 | Que Sera Sera (Whatever Will Be Will Be) | 5:15 |
-| D4 | Runnin' Away | 2:58 |
-| D5 | Family Affair (Remix) | 3:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Dance To The Music |
+| A2 | I Want To Take You Higher |
+| A3 | Family Affair |
+| A4 | Thank You (Falettinme Be Mice Elf Again) |
+| A5 | I Get High On You |
+| B1 | Stand |
+| B2 | M' Lady |
+| B3 | Skin I'm In |
+| B4 | Everyday People |
+| B5 | Sing A Simple Song |
+| C1 | Hot Fun In The Summertime |
+| C2 | Don't Call Me Nigger, Whitey |
+| C3 | Brave & Strong |
+| C4 | Life |
+| C5 | Everybody Is A Star |
+| D1 | If You Want Me To Stay |
+| D2 | (You Caught Me) Smilin' |
+| D3 | Que Sera Sera (Whatever Will Be Will Be) |
+| D4 | Runnin' Away |
+| D5 | Family Affair (Remix) |
 
 
 ## Apple Music

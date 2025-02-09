@@ -26,11 +26,11 @@ styles: ["Pop Rock", "New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Science Friction | 3:12 |
-| 2 | She's So Square | 3:06 |
-| 3 | Dance Band | 2:40 |
+| Position | Title |
+|----------|--------|
+| 1 | Science Friction |
+| 2 | She's So Square |
+| 3 | Dance Band |
 
 
 ## Apple Music
@@ -47,5 +47,5 @@ styles: ["Pop Rock", "New Wave"]
 | Format         | CD EP Reissue Stereo |
 | Label          | [{'name': 'Ape House', 'catno': ''}] |
 | Catalog Number | APEEP906CD |
-| Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.<br>© 2023 Ape House Ltd.<br><br>Mail order copies can include a bonus postcard |
+| Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2023 Ape House Ltd.  Mail order copies can include a bonus postcard |
 | Discogs URL    | [XTC - 3D • EP](https://www.discogs.com/release/28997110-XTC-3D-EP) |

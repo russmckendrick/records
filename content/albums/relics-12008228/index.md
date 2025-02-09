@@ -32,19 +32,19 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Arnold Layne |  |
-| A2 | Interstellar Overdrive |  |
-| A3 | See Emily Play |  |
-| A4 | Remember A Day |  |
-| A5 | Paintbox |  |
-| B1 | Julia Dream |  |
-| B2 | Careful With That Axe, Eugene |  |
-| B3 | Cirrus Minor |  |
-| B4 | The Nile Song |  |
-| B5 | Biding My Time |  |
-| B6 | Bike |  |
+| Position | Title |
+|----------|--------|
+| A1 | Arnold Layne |
+| A2 | Interstellar Overdrive |
+| A3 | See Emily Play |
+| A4 | Remember A Day |
+| A5 | Paintbox |
+| B1 | Julia Dream |
+| B2 | Careful With That Axe, Eugene |
+| B3 | Cirrus Minor |
+| B4 | The Nile Song |
+| B5 | Biding My Time |
+| B6 | Bike |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 | Format         | Vinyl LP Compilation Reissue Remastered Stereo Mono (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP18 |
-| Notes | Sticker:<br>The remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: May 1971<br>Made in the E.U.<br>www.pinkfloyd.com<br><br>Back Sleeve:<br>℗ 2018 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2018 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. This label copy is the subject  of copyright protection. All rights reserved.  |
+| Notes | Sticker: The remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: May 1971 Made in the E.U. www.pinkfloyd.com  Back Sleeve: ℗ 2018 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2018 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. This label copy is the subject  of copyright protection. All rights reserved.  |
 | Discogs URL    | [Pink Floyd - Relics](https://www.discogs.com/release/12008228-Pink-Floyd-Relics) |

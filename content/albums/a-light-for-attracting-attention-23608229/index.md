@@ -48,21 +48,21 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Same |  |
-| A2 | The Opposite |  |
-| A3 | You Will Never Work In Television Again |  |
-| B1 | Pana-Vision |  |
-| B2 | The Smoke |  |
-| B3 | Speech Bubbles |  |
-| C1 | Thin Thing |  |
-| C2 | Open The Floodgates |  |
-| C3 | Free In The Knowledge |  |
-| D1 | A Hairdryer |  |
-| D2 | Waving A White Flag |  |
-| D3 | We Don't Know What Tomorrow Brings |  |
-| D4 | Skrting On The Surface |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Same |
+| A2 | The Opposite |
+| A3 | You Will Never Work In Television Again |
+| B1 | Pana-Vision |
+| B2 | The Smoke |
+| B3 | Speech Bubbles |
+| C1 | Thin Thing |
+| C2 | Open The Floodgates |
+| C3 | Free In The Knowledge |
+| D1 | A Hairdryer |
+| D2 | Waving A White Flag |
+| D3 | We Don't Know What Tomorrow Brings |
+| D4 | Skrting On The Surface |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Label          | XL Recordings |
 | Catalog Number | XL1196LPE |
-| Notes | Optimal pressing.<br><br>Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard.<br>Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front.<br>Includes matte finish printed inner sleeves.<br>Undersized picture labels.<br>Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.<br><br>Tracks are numbered sequentially across sides in the inner gatefold.<br><br>Front sticker:<br>Debut album from new group The Smile<br>Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner<br>Limited edition yellow vinyl<br><br>Recorded at Wack Formula London<br>Mastered [...] at Gateway Mastering, Portland, Maine<br>Strings [...] recorded at Air Edel Studio<br><br>Woodblock lettering from a collection held by The Bodleian Library, Oxford<br>Digital fonts by Andrew Leman at HPLHS.org<br><br>℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd.<br>©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd.<br>Published by Warner Chappell Music, Kobalt Music and Copyright Control. |
+| Notes | Optimal pressing.  Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard. Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front. Includes matte finish printed inner sleeves. Undersized picture labels. Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.  Tracks are numbered sequentially across sides in the inner gatefold.  Front sticker: Debut album from new group The Smile Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner Limited edition yellow vinyl  Recorded at Wack Formula London Mastered [...] at Gateway Mastering, Portland, Maine Strings [...] recorded at Air Edel Studio  Woodblock lettering from a collection held by The Bodleian Library, Oxford Digital fonts by Andrew Leman at HPLHS.org  ℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. ©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. Published by Warner Chappell Music, Kobalt Music and Copyright Control. |
 | Discogs URL    | [The Smile - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-5-A-Light-For-Attracting-Attention) |

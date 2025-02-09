@@ -42,19 +42,19 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Have Seen | 5:06 |
-| A2 | Polaris | 4:48 |
-| A3 | Destiny | 5:37 |
-| B1 | Give It Away | 5:17 |
-| B2 | Simple Things | 4:24 |
-| B3 | Red Dust | 5:40 |
-| C1 | Distractions | 5:16 |
-| C2 | In The Waiting Line | 4:32 |
-| C3 | Out Of Town | 4:47 |
-| D1 | This World | 5:36 |
-| D2 | Likufanele | 6:24 |
+| Position | Title |
+|----------|--------|
+| A1 | I Have Seen |
+| A2 | Polaris |
+| A3 | Destiny |
+| B1 | Give It Away |
+| B2 | Simple Things |
+| B3 | Red Dust |
+| C1 | Distractions |
+| C2 | In The Waiting Line |
+| C3 | Out Of Town |
+| D1 | This World |
+| D2 | Likufanele |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Warner Music |
 | Catalog Number | 0825646132751 |
-| Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd.<br>A Warner Music Group Company.<br>Made in the EU.<br><br>Produced and Fleximixed at Shabang Studios.<br><br>Sticker on front.<br>180gm vinyl Includes download code for mp3 version of the album. |
+| Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd. A Warner Music Group Company. Made in the EU.  Produced and Fleximixed at Shabang Studios.  Sticker on front. 180gm vinyl Includes download code for mp3 version of the album. |
 | Discogs URL    | [Zero - Simple Things](https://www.discogs.com/release/7198006-Zero-7-Simple-Things) |

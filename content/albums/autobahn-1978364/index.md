@@ -32,13 +32,13 @@ Initial reception to Autobahn was mixed; receiving negative reviews, from Rollin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Autobahn | 22:47 |
-| B1 | Kometenmelodie 1 | 6:42 |
-| B2 | Kometenmelodie 2 | 5:31 |
-| B3 | Mitternacht | 3:45 |
-| B4 | Morgenspaziergang | 4:02 |
+| Position | Title |
+|----------|--------|
+| A | Autobahn |
+| B1 | Kometenmelodie 1 |
+| B2 | Kometenmelodie 2 |
+| B3 | Mitternacht |
+| B4 | Morgenspaziergang |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Initial reception to Autobahn was mixed; receiving negative reviews, from Rollin
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99586 1 8 |
-| Notes | Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974<br>[on booklet]<br><br>Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801]<br>Printed in Germany<br>[on rear cover]<br><br>Made in the EU<br>[on labels]<br><br>Printed inner sleeve and 12" square 12-page booklet inserted. |
+| Notes | Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974  [on booklet]    Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801]  Printed in Germany  [on rear cover]    Made in the EU  [on labels]    Printed inner sleeve and 12" square 12-page booklet inserted. |
 | Discogs URL    | [Kraftwerk - Autobahn](https://www.discogs.com/release/1978364-Kraftwerk-Autobahn) |

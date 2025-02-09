@@ -38,20 +38,20 @@ Music critics gave Faded Seaside Glamour generally favourable reviews; some crit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wanderlust |  |
-| A2 | Nearer Than Heaven |  |
-| A3 | Long Time Coming |  |
-| A4 | Bedroom Scene |  |
-| A5 | No Ending |  |
-| A6 | You Wear The Sun |  |
-| B7 | Hey Girl |  |
-| B8 | Stay Where You Are |  |
-| B9 | There's Water Here |  |
-| B10 | Satellites Lost |  |
-| B11 | One Night Away |  |
-| B12 | On |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wanderlust |
+| A2 | Nearer Than Heaven |
+| A3 | Long Time Coming |
+| A4 | Bedroom Scene |
+| A5 | No Ending |
+| A6 | You Wear The Sun |
+| B7 | Hey Girl |
+| B8 | Stay Where You Are |
+| B9 | There's Water Here |
+| B10 | Satellites Lost |
+| B11 | One Night Away |
+| B12 | On |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Music critics gave Faded Seaside Glamour generally favourable reviews; some crit
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition Reissue (Orange) |
 | Label          | Rough Trade |
 | Catalog Number | RTRAD114LPX |
-| Notes | Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.<br><br>Catalogue number on slipcase is RTRAD114LPX<br>Catalogue number on sleeve is RTRAD114LP<br>℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd.<br>© 2022 Rough Trade Records Ltd.<br><br>Runouts are hand etched, 1I (looks like VI) is mirrored. |
+| Notes | Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.  Catalogue number on slipcase is RTRAD114LPX Catalogue number on sleeve is RTRAD114LP ℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd. © 2022 Rough Trade Records Ltd.  Runouts are hand etched, 1I (looks like VI) is mirrored. |
 | Discogs URL    | [Delays - Faded Seaside Glamour](https://www.discogs.com/release/25891525-Delays-Faded-Seaside-Glamour) |

@@ -40,32 +40,32 @@ Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 m
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Land Of Sunshine |  |
-| A2 | Caffeine |  |
-| A3 | Midlife Crisis |  |
-| A4 | RV |  |
-| A5 | Everything's Ruined |  |
-| A6 | Malpractice |  |
-| B1 | Kindergarten |  |
-| B2 | Be Aggressive |  |
-| B3 | A Small Victory |  |
-| B4 | Jizzlobber |  |
-| B5 | Smaller And Smaller |  |
-|  | Non-LP Tracks |  |
-| C1 | Easy |  |
-| C2  | Midnight Cowboy |  |
-| C3 | Crack Hitler |  |
-| C4 | Midlife Crisis (The Scream Mix) |  |
-| C5 | The World Is Yours (Outtake) |  |
-|  | Bonus Tracks |  |
-| D1 | As The Worm Turns (Mike Patton Vocal) |  |
-| D2 | Das Schutzenfest |  |
-| D3 | Let's Lynch The Landlord |  |
-| D4 | Be Aggressive (Live 1992) |  |
-| D5 | Kindergarten (Live 1992) |  |
-| D6 | We Care A Lot (Live 1992) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Land Of Sunshine |
+| A2 | Caffeine |
+| A3 | Midlife Crisis |
+| A4 | RV |
+| A5 | Everything's Ruined |
+| A6 | Malpractice |
+| B1 | Kindergarten |
+| B2 | Be Aggressive |
+| B3 | A Small Victory |
+| B4 | Jizzlobber |
+| B5 | Smaller And Smaller |
+|  | Non-LP Tracks |
+| C1 | Easy |
+| C2  | Midnight Cowboy |
+| C3 | Crack Hitler |
+| C4 | Midlife Crisis (The Scream Mix) |
+| C5 | The World Is Yours (Outtake) |
+|  | Bonus Tracks |
+| D1 | As The Worm Turns (Mike Patton Vocal) |
+| D2 | Das Schutzenfest |
+| D3 | Let's Lynch The Landlord |
+| D4 | Be Aggressive (Live 1992) |
+| D5 | Kindergarten (Live 1992) |
+| D6 | We Care A Lot (Live 1992) |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 m
 | Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered (180 Gram) |
 | Label          | Slash |
 | Catalog Number | 0825646094608 |
-| Notes | Issued in a gatefold sleeve with sticker, download voucher and "Parental Advisory" sticker<br><br>Sticker over shrinkwrap:<br>"Double 180GM Vinyl<br>Bonus LP Features Rare Tracks & Live Versions<br>New Liner Notes<br>Includes 'Easy,' 'Midlife Crisis' & 'Everything's Ruined'<br>0825646094608<br>Includes Download Code for MP3 Version of the Album<br>www.ThisIsVinylCollector.com"<br><br>This release is identical to the [url=http://www.discogs.com/release/7520951]US one[/url], with whom shares both barcode and [l=MPO] run-outs; the substantial difference is the presence of the download coupon, which is exclusive to EU marketed releases. <br><br>Recorded at Coast Recorders, San Francisco and Brilliant Studios, San Francisco<br>Mixed at Scream Studios, Studio City, CA.<br><br>All songs written by Faith No More<br>and published by Rondor Music (London) Ltd., Big Thrilling Music, Vomit God<br>Music, Boosey & Hawkes Music Publisher, S.D.R.M., Jobete Music Co. Inc. ASCAP, <br>Libren Music, admin. by EMI April Music Inc. ASCAP<br>except; Midnight Cowboy (John Barry) EMI United Partnership Ltd. <br>Easy (Lionel Richie) Brockman Music, ASCAP, Jobete Music<br>(Jello Biafra) Decay Music BMI. <br><br>This reissue ℗ 2015 Slash Records, a Warner Music Group Company.<br>© 2015 Slash Records, A Warner Music Group Company. All Rights Reserved. <br>The copyright in this sound recording and artwork is owned by Slash Records. <br><br>2015 Reissue Credits<br>Remastered at Abbey Road Studios, London<br>Release coordination and product management for Warner Music Global Catalogue<br>Packaging: www.GilmourDesign.co.uk |
+| Notes | Issued in a gatefold sleeve with sticker, download voucher and "Parental Advisory" sticker    Sticker over shrinkwrap:  "Double 180GM Vinyl  Bonus LP Features Rare Tracks & Live Versions  New Liner Notes  Includes 'Easy,' 'Midlife Crisis' & 'Everything's Ruined'  0825646094608  Includes Download Code for MP3 Version of the Album  www.ThisIsVinylCollector.com"    This release is identical to the [url=http://www.discogs.com/release/7520951]US one[/url], with whom shares both barcode and [l=MPO] run-outs; the substantial difference is the presence of the download coupon, which is exclusive to EU marketed releases.     Recorded at Coast Recorders, San Francisco and Brilliant Studios, San Francisco  Mixed at Scream Studios, Studio City, CA.    All songs written by Faith No More  and published by Rondor Music (London) Ltd., Big Thrilling Music, Vomit God  Music, Boosey & Hawkes Music Publisher, S.D.R.M., Jobete Music Co. Inc. ASCAP,   Libren Music, admin. by EMI April Music Inc. ASCAP  except; Midnight Cowboy (John Barry) EMI United Partnership Ltd.   Easy (Lionel Richie) Brockman Music, ASCAP, Jobete Music  (Jello Biafra) Decay Music BMI.     This reissue ℗ 2015 Slash Records, a Warner Music Group Company.  © 2015 Slash Records, A Warner Music Group Company. All Rights Reserved.   The copyright in this sound recording and artwork is owned by Slash Records.     2015 Reissue Credits  Remastered at Abbey Road Studios, London  Release coordination and product management for Warner Music Global Catalogue  Packaging: www.GilmourDesign.co.uk |
 | Discogs URL    | [Faith No More - Angel Dust](https://www.discogs.com/release/7410902-Faith-No-More-Angel-Dust) |

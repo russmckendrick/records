@@ -38,20 +38,20 @@ Foreign Affair is the seventh solo studio album by Tina Turner, released on Sept
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Steamy Windows | 4:03 |
-| A2 | The Best | 5:28 |
-| A3 | You Know Who (Is Doing You Know What) | 3:45 |
-| B1 | Undercover Agent For The Blues | 5:20 |
-| B2 | Look Me In The Heart | 3:42 |
-| B3 | Be Tender With Me Baby | 4:18 |
-| C1 | You Can’t Stop Me Loving You | 4:00 |
-| C2 | Ask Me How I Feel | 4:46 |
-| C3 | Falling Like Rain | 4:03 |
-| D1 | I Don’t Wanna Lose You | 4:20 |
-| D2 | Not Enough Romance | 4:04 |
-| D3 | Foreign Affair | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Steamy Windows |
+| A2 | The Best |
+| A3 | You Know Who (Is Doing You Know What) |
+| B1 | Undercover Agent For The Blues |
+| B2 | Look Me In The Heart |
+| B3 | Be Tender With Me Baby |
+| C1 | You Can’t Stop Me Loving You |
+| C2 | Ask Me How I Feel |
+| C3 | Falling Like Rain |
+| D1 | I Don’t Wanna Lose You |
+| D2 | Not Enough Romance |
+| D3 | Foreign Affair |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Foreign Affair is the seventh solo studio album by Tina Turner, released on Sept
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295176532 |
-| Notes | Originally ℗ 1989, remaster ℗ 2021 ... Parlophone Records Ltd. © 2021 Parlophone Records Ltd. ... A Warner Music Group company.<br><br>Made in Germany. |
+| Notes | Originally ℗ 1989, remaster ℗ 2021 ... Parlophone Records Ltd. © 2021 Parlophone Records Ltd. ... A Warner Music Group company.  Made in Germany. |
 | Discogs URL    | [Tina Turner - Foreign Affair](https://www.discogs.com/release/19907068-Tina-Turner-Foreign-Affair) |

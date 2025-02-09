@@ -39,18 +39,18 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Name Is Jonas | 3:24 |
-| A2 | No One Else | 3:04 |
-| A3 | The World Has Turned And Left Me Here | 4:19 |
-| A4 | Buddy Holly | 2:39 |
-| A5 | Undone - The Sweater Song | 5:05 |
-| A6 | Surf Wax America | 3:06 |
-| B1 | Say It Ain't So | 4:18 |
-| B2 | In The Garage | 3:55 |
-| B3 | Holiday | 3:24 |
-| B4 | Only In Dreams | 7:59 |
+| Position | Title |
+|----------|--------|
+| A1 | My Name Is Jonas |
+| A2 | No One Else |
+| A3 | The World Has Turned And Left Me Here |
+| A4 | Buddy Holly |
+| A5 | Undone - The Sweater Song |
+| A6 | Surf Wax America |
+| B1 | Say It Ain't So |
+| B2 | In The Garage |
+| B3 | Holiday |
+| B4 | Only In Dreams |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | 00602547945396 |
-| Notes | 180 gram heavyweight vinyl.<br>Includes download voucher.<br>Includes fold out black and white poster/inlay.<br><br>Poster/Inlay:<br>© 2004 Geffen Records.<br><br>Back cover:<br>Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993<br>Remastered at Sterling Sound, NYC<br>℗ 2004 © 2016 Geffen Records.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.<br>Made in the EU. |
+| Notes | 180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU. |
 | Discogs URL    | [Weezer - Weezer](https://www.discogs.com/release/9296301-Weezer-Weezer) |

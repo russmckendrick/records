@@ -27,18 +27,18 @@ Love in Constant Spectacle is the twelfth solo studio album by English musician 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Perfect Storm |  |
-| A2 | Emotional Components |  |
-| A3 | Love In Constant Spectacle  |  |
-| A4 | Motif |  |
-| A5 | The Axis & The Seed |  |
-| B1 | Is Metal  |  |
-| B2 | Happiness In Proximity |  |
-| B3 | Romantic Worlds |  |
-| B4 | Univers |  |
-| B5 | Family Of The Sun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Perfect Storm |
+| A2 | Emotional Components |
+| A3 | Love In Constant Spectacle  |
+| A4 | Motif |
+| A5 | The Axis & The Seed |
+| B1 | Is Metal  |
+| B2 | Happiness In Proximity |
+| B3 | Romantic Worlds |
+| B4 | Univers |
+| B5 | Family Of The Sun |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Love in Constant Spectacle is the twelfth solo studio album by English musician 
 | Format         | Vinyl LP Album (Clear) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP682 |
-| Notes | Hype Sticker:<br><br>Jane Weaver <br>Love In Constant Spectacle<br>"An Artist at the top of her game"<br>NPR<br>Rough Trade Exclusive<br>Clear Vinyl<br><br>Download code included. |
+| Notes | Hype Sticker:  Jane Weaver  Love In Constant Spectacle "An Artist at the top of her game" NPR Rough Trade Exclusive Clear Vinyl  Download code included. |
 | Discogs URL    | [Jane Weaver - Love In Constant Spectacle](https://www.discogs.com/release/30342611-Jane-Weaver-Love-In-Constant-Spectacle) |

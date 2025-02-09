@@ -25,23 +25,23 @@ Come on Feel the Lemonheads is the sixth studio album by the American alternativ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Great Big No | 2:51 |
-| A2 | Into Your Arms | 2:44 |
-| A3 | It's About Time | 2:41 |
-| A4 | Down About It | 2:15 |
-| A5 | Paid To Smile | 3:00 |
-| A6 | Big Gay Heart | 4:25 |
-| A7 | Style | 2:12 |
-| A8 | Rest Assured | 2:27 |
-| B1 | Dawn Can't Decide | 2:18 |
-| B2 | I'll Do It Anyway | 3:34 |
-| B3 | Rick James Style | 3:17 |
-| B4 | Being Around | 1:48 |
-| B5 | Favorite T | 2:53 |
-| B6 | You Can Take It With You | 2:05 |
-| B7 | The Jello Fund | 15:32 |
+| Position | Title |
+|----------|--------|
+| A1 | The Great Big No |
+| A2 | Into Your Arms |
+| A3 | It's About Time |
+| A4 | Down About It |
+| A5 | Paid To Smile |
+| A6 | Big Gay Heart |
+| A7 | Style |
+| A8 | Rest Assured |
+| B1 | Dawn Can't Decide |
+| B2 | I'll Do It Anyway |
+| B3 | Rick James Style |
+| B4 | Being Around |
+| B5 | Favorite T |
+| B6 | You Can Take It With You |
+| B7 | The Jello Fund |
 
 
 ## Apple Music

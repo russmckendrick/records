@@ -36,52 +36,52 @@ The Man Who Fell to Earth retains a cult following for its use of surreal imager
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Poker Dice |  |
-| A2 | Jazz II |  |
-| A3 | Boys From The South |  |
-| A4 | 33⅓ |  |
-| B1 | Rhumba Boogie |  |
-| B2 | Mandala |  |
-| B3 | America |  |
-| B4 | Wind Words |  |
-| B5 | Jazz |  |
-| C1 | One Way |  |
-| C2 | Space Capsule |  |
-| C3 | Bluegrass Breakdown |  |
-| C4 | Desert Shack |  |
-| C5 | Memory Of Hiroshima |  |
-| D1 | Window |  |
-| D2 | Alberto |  |
-| D3 | Liar, Liar |  |
-| D4 | Hello Mary Lou |  |
-| D5 | The Man Who Fell To Earth |  |
-| CD1-1 | Poker Dice | 6:38 |
-| CD1-2 | Blueberry Hill | 2:53 |
-| CD1-3 | Jazz II | 2:48 |
-| CD1-4 | Venus: The Bringer Of Peace | 7:43 |
-| CD1-5 | Boys From The South | 1:45 |
-| CD1-6 | 33⅓ | 7:16 |
-| CD1-7 | Rhumba Boogie | 2:01 |
-| CD1-8 | Try To Remember | 3:05 |
-| CD1-9 | Mandala | 8:38 |
-| CD1-10 | America | 1:00 |
-| CD1-11 | Wind Words | 6:44 |
-| CD1-12 | Jazz | 0:59 |
-| CD2-1 | One Way | 4:21 |
-| CD2-2 | Space Capsule | 1:49 |
-| CD2-3 | Bluegrass Breakdown | 1:38 |
-| CD2-4 | Desert Shack | 2:02 |
-| CD2-5 | Memory Of Hiroshima | 6:19 |
-| CD2-6 | Window | 1:45 |
-| CD2-7 | Alberto | 1:38 |
-| CD2-8 | Mars: The Bringer Of War | 3:11 |
-| CD2-9 | Liar, Liar | 3:04 |
-| CD2-10 | Hello Mary Lou | 3:18 |
-| CD2-11 | Silent Night | 1:40 |
-| CD2-12 | Love Is Coming Back | 2:29 |
-| CD2-13 | The Man Who Fell To Earth | 2:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Poker Dice |
+| A2 | Jazz II |
+| A3 | Boys From The South |
+| A4 | 33⅓ |
+| B1 | Rhumba Boogie |
+| B2 | Mandala |
+| B3 | America |
+| B4 | Wind Words |
+| B5 | Jazz |
+| C1 | One Way |
+| C2 | Space Capsule |
+| C3 | Bluegrass Breakdown |
+| C4 | Desert Shack |
+| C5 | Memory Of Hiroshima |
+| D1 | Window |
+| D2 | Alberto |
+| D3 | Liar, Liar |
+| D4 | Hello Mary Lou |
+| D5 | The Man Who Fell To Earth |
+| CD1-1 | Poker Dice |
+| CD1-2 | Blueberry Hill |
+| CD1-3 | Jazz II |
+| CD1-4 | Venus: The Bringer Of Peace |
+| CD1-5 | Boys From The South |
+| CD1-6 | 33⅓ |
+| CD1-7 | Rhumba Boogie |
+| CD1-8 | Try To Remember |
+| CD1-9 | Mandala |
+| CD1-10 | America |
+| CD1-11 | Wind Words |
+| CD1-12 | Jazz |
+| CD2-1 | One Way |
+| CD2-2 | Space Capsule |
+| CD2-3 | Bluegrass Breakdown |
+| CD2-4 | Desert Shack |
+| CD2-5 | Memory Of Hiroshima |
+| CD2-6 | Window |
+| CD2-7 | Alberto |
+| CD2-8 | Mars: The Bringer Of War |
+| CD2-9 | Liar, Liar |
+| CD2-10 | Hello Mary Lou |
+| CD2-11 | Silent Night |
+| CD2-12 | Love Is Coming Back |
+| CD2-13 | The Man Who Fell To Earth |
 
 
 ## Apple Music
@@ -99,5 +99,5 @@ The Man Who Fell to Earth retains a cult following for its use of surreal imager
 | Format         | Box Set, CD 2× Album, Vinyl 2× LP |
 | Label          | UMC |
 | Catalog Number | 479 921-7 |
-| Notes | Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.<br><br>Made in Germany.<br><br>℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd. |
+| Notes | Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd. |
 | Discogs URL    | [Various - The Man Who Fell To Earth](https://www.discogs.com/release/9399915-Various-The-Man-Who-Fell-To-Earth) |

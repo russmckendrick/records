@@ -31,38 +31,38 @@ Welcome Oblivion is the debut studio album by American post-industrial group How
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wake-Up | 1:43 |
-| A2 | Keep It Together  | 4:27 |
-| A3 | And The Sky Began To Scream | 3:57 |
-| A4 | Ice Age | 6:52 |
-| B1 | Welcome Oblivion | 3:47 |
-| B2 | On The Wing  | 4:52 |
-| B3 | Too Late, All Gone  | 6:15 |
-| B4 | The Province Of Fear | 4:13 |
-| C1 | How Long?  | 3:54 |
-| C2 | Strings And Attractors  | 4:28 |
-| C3 | Recursive Self-Improvement  | 6:28 |
-| C4 | Unintended Consequences | 5:18 |
-| D1 | We Fade Away | 6:41 |
-| D2 | The Loop Closes  | 4:50 |
-| D3 | Hallowed Ground | 7:17 |
-| 1 | The Wake-Up | 1:43 |
-| 2 | Keep It Together | 4:27 |
-| 3 | And The Sky Began To Scream | 3:57 |
-| 4 | Ice Age | 6:52 |
-| 5 | Welcome Oblivion | 3:47 |
-| 6 | On The Wing | 4:52 |
-| 7 | Too Late, All Gone | 6:15 |
-| 8 | The Province Of Fear | 4:43 |
-| 9 | How Long? | 3:54 |
-| 10 | Strings And Attractors  | 4:28 |
-| 11 | Recursive Self-Improvement  | 6:28 |
-| 12 | Unintended Consequences | 5:18 |
-| 13 | We Fade Away | 6:41 |
-| 14 | The Loop Closes  | 4:50 |
-| 15 | Hallowed Ground | 7:17 |
+| Position | Title |
+|----------|--------|
+| A1 | The Wake-Up |
+| A2 | Keep It Together  |
+| A3 | And The Sky Began To Scream |
+| A4 | Ice Age |
+| B1 | Welcome Oblivion |
+| B2 | On The Wing  |
+| B3 | Too Late, All Gone  |
+| B4 | The Province Of Fear |
+| C1 | How Long?  |
+| C2 | Strings And Attractors  |
+| C3 | Recursive Self-Improvement  |
+| C4 | Unintended Consequences |
+| D1 | We Fade Away |
+| D2 | The Loop Closes  |
+| D3 | Hallowed Ground |
+| 1 | The Wake-Up |
+| 2 | Keep It Together |
+| 3 | And The Sky Began To Scream |
+| 4 | Ice Age |
+| 5 | Welcome Oblivion |
+| 6 | On The Wing |
+| 7 | Too Late, All Gone |
+| 8 | The Province Of Fear |
+| 9 | How Long? |
+| 10 | Strings And Attractors  |
+| 11 | Recursive Self-Improvement  |
+| 12 | Unintended Consequences |
+| 13 | We Fade Away |
+| 14 | The Loop Closes  |
+| 15 | Hallowed Ground |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Welcome Oblivion is the debut studio album by American post-industrial group How
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Columbia |
 | Catalog Number | 88765475461 |
-| Notes | Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.<br><br>Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)<br><br>℗ 2013 & © 2012, 2013 HDTA, LLC |
+| Notes | Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.    Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)    ℗ 2013 & © 2012, 2013 HDTA, LLC |
 | Discogs URL    | [How To Destroy Angels - Welcome Oblivion](https://www.discogs.com/release/4361414-How-To-Destroy-Angels-Welcome-Oblivion) |

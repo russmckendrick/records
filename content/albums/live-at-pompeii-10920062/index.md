@@ -60,29 +60,29 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 5 A.M.  | 3:13 |
-| A2 | Rattle That Lock | 5:21 |
-| A3 | Faces Of Stone | 6:00 |
-| A4 | What Do You Want From Me | 4:41 |
-| B1 | The Blue | 6:34 |
-| B2 | The Great Gig In The Sky | 6:02 |
-| B3 | A Boat Lies Waiting | 4:56 |
-| C1 | Wish You Were Here | 5:18 |
-| C2 | Money | 8:13 |
-| C3 | In Any Tongue | 7:56 |
-| D1 | High Hopes | 9:38 |
-| D2 | One Of These Days | 6:25 |
-| E1 | Shine On You Crazy Diamond (Parts 1-5) | 12:30 |
-| E2 | Fat Old Sun | 6:24 |
-| F1 | Coming Back To Life | 7:10 |
-| F2 | On An Island | 7:05 |
-| F3 | Today | 6:43 |
-| G1 | Sorrow | 10:51 |
-| G2 | Run Like Hell | 7:23 |
-| H1 | Time / Breathe (In The Air) (Reprise)  | 6:45 |
-| H2 | Comfortably Numb | 9:58 |
+| Position | Title |
+|----------|--------|
+| A1 | 5 A.M.  |
+| A2 | Rattle That Lock |
+| A3 | Faces Of Stone |
+| A4 | What Do You Want From Me |
+| B1 | The Blue |
+| B2 | The Great Gig In The Sky |
+| B3 | A Boat Lies Waiting |
+| C1 | Wish You Were Here |
+| C2 | Money |
+| C3 | In Any Tongue |
+| D1 | High Hopes |
+| D2 | One Of These Days |
+| E1 | Shine On You Crazy Diamond (Parts 1-5) |
+| E2 | Fat Old Sun |
+| F1 | Coming Back To Life |
+| F2 | On An Island |
+| F3 | Today |
+| G1 | Sorrow |
+| G2 | Run Like Hell |
+| H1 | Time / Breathe (In The Air) (Reprise)  |
+| H2 | Comfortably Numb |
 
 
 ## Apple Music
@@ -100,5 +100,5 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 | Format         | Vinyl 4× LP Album (180 gram), Box Set |
 | Label          | Columbia |
 | Catalog Number | 88985464971 |
-| Notes | Sticker - 88985464971 S1<br><br>David Gilmour<br>The Voice & Guitar of Pink Floyd<br><br>Sticker - 88985464971 S2<br><br>4 LP Set 180 Gram<br>Heavyweight Vinyl<br>2 Gatefold Jackets<br>Polyliner inner bags<br>24-page photo booklet<br>Heavyweight Slipcase<br><br>Made in the EU |
+| Notes | Sticker - 88985464971 S1  David Gilmour The Voice & Guitar of Pink Floyd  Sticker - 88985464971 S2  4 LP Set 180 Gram Heavyweight Vinyl 2 Gatefold Jackets Polyliner inner bags 24-page photo booklet Heavyweight Slipcase  Made in the EU |
 | Discogs URL    | [David Gilmour - Live At Pompeii](https://www.discogs.com/release/10920062-David-Gilmour-Live-At-Pompeii) |

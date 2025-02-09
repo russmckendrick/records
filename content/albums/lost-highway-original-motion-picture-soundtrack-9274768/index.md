@@ -38,31 +38,31 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Deranged (Edit) | 2:38 |
-| A2 | Videodrones; Questions | 0:44 |
-| A3 | The Perfect Drug | 5:15 |
-| A4 | Red Bats With Teeth | 2:57 |
-| A5 | Haunting & Heartbreaking | 2:08 |
-| A6 | Eye | 4:51 |
-| B1 | Dub Driving | 3:43 |
-| B2 | Mr. Eddy's Theme 1 | 3:31 |
-| B3 | This Magic Moment | 3:23 |
-| B4 | Mr. Eddy's Theme 2 | 2:13 |
-| B5 | Fred & Renee Make Love | 2:04 |
-| B6 | Apple Of Sodom | 4:26 |
-| C1 | Insensatez | 2:53 |
-| C2 | Something Wicked This Way Comes (Edit) | 2:54 |
-| C3 | I Put A Spell On You | 3:30 |
-| C4 | Fats Revisited | 2:31 |
-| C5 | Fred's World | 3:00 |
-| C6 | Rammstein (Edit) | 3:26 |
-| D1 | Hollywood Sunset | 2:01 |
-| D2 | Heirate Mich (Edit) | 3:02 |
-| D3 | Police | 1:39 |
-| D4 | Driver Down | 5:18 |
-| D5 | I'm Deranged (Reprise) | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Deranged (Edit) |
+| A2 | Videodrones; Questions |
+| A3 | The Perfect Drug |
+| A4 | Red Bats With Teeth |
+| A5 | Haunting & Heartbreaking |
+| A6 | Eye |
+| B1 | Dub Driving |
+| B2 | Mr. Eddy's Theme 1 |
+| B3 | This Magic Moment |
+| B4 | Mr. Eddy's Theme 2 |
+| B5 | Fred & Renee Make Love |
+| B6 | Apple Of Sodom |
+| C1 | Insensatez |
+| C2 | Something Wicked This Way Comes (Edit) |
+| C3 | I Put A Spell On You |
+| C4 | Fats Revisited |
+| C5 | Fred's World |
+| C6 | Rammstein (Edit) |
+| D1 | Hollywood Sunset |
+| D2 | Heirate Mich (Edit) |
+| D3 | Police |
+| D4 | Driver Down |
+| D5 | I'm Deranged (Reprise) |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 | Format         | Vinyl 2× LP Compilation Deluxe Edition Limited Edition Numbered Reissue (Yellow With A Tip Of Black, Gatefold, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM101 |
-| Notes | Limited to 2000 copies. Title lettering on the sleeve is embossed.<br>A printed inner sheet with info is also included.<br><br>Track 14 contains excerpts from:<br>"Spooky", written by H.Middlesbrooke, M.Shapiro, B.Buie and J.R.Cobb (performed by [url=http://www.discogs.com/artist/Classics+IV,+The]The Classics IV[/url]);<br>"Blue Lines", written by R.Del Naja, G.Marshall, A.Vowles and A.Thaws (performed by [url=http://www.discogs.com/artist/Massive+Attack]Massive Attack[/url]);<br>"Le Temps Des Souvenirs", written by J.J.Datin, M.Vidalin and C.Blackwell (performed by [url=http://www.discogs.com/artist/Fran%C3%A7oise+Hardy]Françoise Hardy[/url]).<br><br>1, 23. © 1995 Tintoretto Music Administered by RZO Music, Inc. (BMI) and Ulapa Music, Inc.<br>3. © 1996 Leaving Hope Music/TVT Music (ASCAP), D. Lohner<br>4, 5, 7, 11, 16, 17, 21. © 1996 Avalon Music/Bobkind Music (ASCAP)<br>6. © 1996 Chrysalis Songs/Cinderful Music (BMI) Recorded at Soundworks (Chicago). Mixed at Chung King (New York)<br>8, 10, 19. © 1996 Mute Song/Bobkind Music (ASCAP)<br>9. © 1960 Unichappell Music, Inc (BMI)<br>12. © 1996 Dinger & Ollie Music/Beat Up Your Mom Music (BMI)<br>13. © 1963 Duchess Music Corporation<br>15. © 1956 Copyright renewed 1984 Unart Music Corporation<br>18, 20. ©  Edition Rammstein administered in The BMG UFA Musikverlage administered in The US by BMG Songs, Inc. (ASCAP)<br>22. © 1996 Leaving Hope Music/TVT Music (ASCAP)<br><br><br>Made in the EU.  |
+| Notes | Limited to 2000 copies. Title lettering on the sleeve is embossed. A printed inner sheet with info is also included.  Track 14 contains excerpts from: "Spooky", written by H.Middlesbrooke, M.Shapiro, B.Buie and J.R.Cobb (performed by [url=http://www.discogs.com/artist/Classics+IV,+The]The Classics IV[/url]); "Blue Lines", written by R.Del Naja, G.Marshall, A.Vowles and A.Thaws (performed by [url=http://www.discogs.com/artist/Massive+Attack]Massive Attack[/url]); "Le Temps Des Souvenirs", written by J.J.Datin, M.Vidalin and C.Blackwell (performed by [url=http://www.discogs.com/artist/Fran%C3%A7oise+Hardy]Françoise Hardy[/url]).  1, 23. © 1995 Tintoretto Music Administered by RZO Music, Inc. (BMI) and Ulapa Music, Inc. 3. © 1996 Leaving Hope Music/TVT Music (ASCAP), D. Lohner 4, 5, 7, 11, 16, 17, 21. © 1996 Avalon Music/Bobkind Music (ASCAP) 6. © 1996 Chrysalis Songs/Cinderful Music (BMI) Recorded at Soundworks (Chicago). Mixed at Chung King (New York) 8, 10, 19. © 1996 Mute Song/Bobkind Music (ASCAP) 9. © 1960 Unichappell Music, Inc (BMI) 12. © 1996 Dinger & Ollie Music/Beat Up Your Mom Music (BMI) 13. © 1963 Duchess Music Corporation 15. © 1956 Copyright renewed 1984 Unart Music Corporation 18, 20. ©  Edition Rammstein administered in The BMG UFA Musikverlage administered in The US by BMG Songs, Inc. (ASCAP) 22. © 1996 Leaving Hope Music/TVT Music (ASCAP)   Made in the EU.  |
 | Discogs URL    | [Various - Lost Highway (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9274768-Various-Lost-Highway-Original-Motion-Picture-Soundtrack) |

@@ -33,21 +33,21 @@ Pet Sounds revolutionized music production and the role of professional record p
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wouldn't It Be Nice |  |
-| A2 | You Still Believe In Me |  |
-| A3 | That's Not Me |  |
-| A4 | Don't Talk (Put Your Head On My Shoulder) |  |
-| A5 | I'm Waiting For The Day |  |
-| A6 | Let's Go Away For Awhile |  |
-| A7 | Sloop John B |  |
-| B1 | God Only Knows |  |
-| B2 | I Know There's An Answer |  |
-| B3 | Here Today |  |
-| B4 | I Just Wasn't Made For These Times |  |
-| B5 | Pet Sounds |  |
-| B6 | Caroline No |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wouldn't It Be Nice |
+| A2 | You Still Believe In Me |
+| A3 | That's Not Me |
+| A4 | Don't Talk (Put Your Head On My Shoulder) |
+| A5 | I'm Waiting For The Day |
+| A6 | Let's Go Away For Awhile |
+| A7 | Sloop John B |
+| B1 | God Only Knows |
+| B2 | I Know There's An Answer |
+| B3 | Here Today |
+| B4 | I Just Wasn't Made For These Times |
+| B5 | Pet Sounds |
+| B6 | Caroline No |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Pet Sounds revolutionized music production and the role of professional record p
 | Format         | Vinyl LP Album Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ST 2458 |
-| Notes | 1st UK stereo press.<br>Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock <br>Garrod & Lofthouse: Patents Pending ''flipback'' sleeve. <br>"Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo<br><br><br>Compared to this edition, the late 60's reissue [r12655444] <br>has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.<br><br><br>Also released in mono (# T 2458).<br> |
+| Notes | 1st UK stereo press. Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock  Garrod & Lofthouse: Patents Pending ''flipback'' sleeve.  "Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo   Compared to this edition, the late 60's reissue [r12655444]  has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.   Also released in mono (# T 2458).  |
 | Discogs URL    | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/1567306-The-Beach-Boys-Pet-Sounds) |

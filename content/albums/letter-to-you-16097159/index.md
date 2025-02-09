@@ -59,20 +59,20 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Minute You're Here | 2:54 |
-| A2 | Letter To You | 4:52 |
-| A3 | Burnin' Train | 4:00 |
-| A4 | Janey Needs A Shooter | 6:46 |
-| B1 | Last Man Standing | 4:02 |
-| B2 | The Power Of Prayer | 3:34 |
-| B3 | House Of A Thousand Guitars | 4:28 |
-| B4 | Rainmaker | 4:50 |
-| C1 | If I Was The Priest | 6:46 |
-| C2 | Ghosts | 5:52 |
-| C3 | Song For Orphans | 6:09 |
-| C4 | I'll See You In My Dreams | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | One Minute You're Here |
+| A2 | Letter To You |
+| A3 | Burnin' Train |
+| A4 | Janey Needs A Shooter |
+| B1 | Last Man Standing |
+| B2 | The Power Of Prayer |
+| B3 | House Of A Thousand Guitars |
+| B4 | Rainmaker |
+| C1 | If I Was The Priest |
+| C2 | Ghosts |
+| C3 | Song For Orphans |
+| C4 | I'll See You In My Dreams |
 
 
 ## Apple Music
@@ -90,5 +90,5 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 | Format         | Vinyl LP (Gray), Vinyl LP Single Sided Etched (Gray), All Media Album Limited Edition Stereo |
 | Label          | Columbia |
 | Catalog Number | 194398116211 |
-| Notes | Limited edition gray vinyl. Two 140-gram LPs (side D is etched) in translucent inner sleeves inside a gatefold jacket with a 16-page 12"x12" booklet.<br><br>Barcode printed on sticker on shrinkwrap, obscuring barcode printed on rear sleeve, which is the same as the standard version.<br><br>On hype sticker:<br>New album featuring The E Street Band<br>Limited edition gray vinyl<br>19439811621<br><br>First cat# on cover and spine.<br>Second cat# on labels.<br><br>Additional cat#s:<br>Booklet: 19439803801B1<br>Inner sleeve 1: 19439803801 SV1<br>Inner sleeve 2: 19439803801 SV2<br><br>Mixed at Mix This! LA<br>Mastered at Gateway Mastering (Portland, ME)<br>Recorded at Stone Hill Studio, NJ<br><br>Publishing:<br>Published by Bruce Springsteen, administered by Universal Music Group. © 2019, 2020 Bruce Springsteen (Global Music Rights)<br><br>On cover and labels:<br>© & ℗ 2020 Bruce Springsteen<br>Made in the EU.<br><br>On inner sleeves:<br>© 2020 Bruce Springsteen<br><br>On booklet:<br>All songs written and published by Bruce Springsteen, administrated by Universal Music Group.<br>© 2019, 2020 Bruce Springsteen (Global Music Rights)<br>© 2020 Bruce Springsteen 19439803801B1<br><br>Durations do not appear on this release. Timings via stopwatch.<br><br>Some copies came with free tote bag (see picture).<br>Copy from Badlands.co.uk came bundled with exclusive A5 art print.<br><br>On runouts:<br>All is etched except STERLING which is stamped |
+| Notes | Limited edition gray vinyl. Two 140-gram LPs (side D is etched) in translucent inner sleeves inside a gatefold jacket with a 16-page 12"x12" booklet.  Barcode printed on sticker on shrinkwrap, obscuring barcode printed on rear sleeve, which is the same as the standard version.  On hype sticker: New album featuring The E Street Band Limited edition gray vinyl 19439811621  First cat# on cover and spine. Second cat# on labels.  Additional cat#s: Booklet: 19439803801B1 Inner sleeve 1: 19439803801 SV1 Inner sleeve 2: 19439803801 SV2  Mixed at Mix This! LA Mastered at Gateway Mastering (Portland, ME) Recorded at Stone Hill Studio, NJ  Publishing: Published by Bruce Springsteen, administered by Universal Music Group. © 2019, 2020 Bruce Springsteen (Global Music Rights)  On cover and labels: © & ℗ 2020 Bruce Springsteen Made in the EU.  On inner sleeves: © 2020 Bruce Springsteen  On booklet: All songs written and published by Bruce Springsteen, administrated by Universal Music Group. © 2019, 2020 Bruce Springsteen (Global Music Rights) © 2020 Bruce Springsteen 19439803801B1  Durations do not appear on this release. Timings via stopwatch.  Some copies came with free tote bag (see picture). Copy from Badlands.co.uk came bundled with exclusive A5 art print.  On runouts: All is etched except STERLING which is stamped |
 | Discogs URL    | [Bruce Springsteen - Letter To You](https://www.discogs.com/release/16097159-Bruce-Springsteen-Letter-To-You) |

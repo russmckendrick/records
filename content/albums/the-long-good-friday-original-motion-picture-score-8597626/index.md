@@ -24,20 +24,20 @@ styles: ["Score", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A01 | Main Title |  |
-| A02 | Overture |  |
-| A03 | The Scene |  |
-| A04 | At The Pool |  |
-| A05 | Discovery |  |
-| A06 | The Icehouse |  |
-| B01 | Talking To The Police |  |
-| B02 | Guitar Interludes |  |
-| B03 | Realization |  |
-| B04 | Fury |  |
-| B05 | Taken |  |
-| B06 | The Long Friday |  |
+| Position | Title |
+|----------|--------|
+| A01 | Main Title |
+| A02 | Overture |
+| A03 | The Scene |
+| A04 | At The Pool |
+| A05 | Discovery |
+| A06 | The Icehouse |
+| B01 | Talking To The Police |
+| B02 | Guitar Interludes |
+| B03 | Realization |
+| B04 | Fury |
+| B05 | Taken |
+| B06 | The Long Friday |
 
 
 ## Apple Music

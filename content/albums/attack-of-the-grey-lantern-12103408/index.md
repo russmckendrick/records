@@ -30,19 +30,19 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Chad Who Loved Me | 5:02 |
-| A2 | Mansun's Only Love Song | 5:55 |
-| A3 | Taxloss | 7:02 |
-| B1 | You, Who Do You Hate? | 3:06 |
-| B2 | Wide Open Space | 4:31 |
-| B3 | Stripper Vicar | 4:05 |
-| C1 | Disgusting | 5:07 |
-| C2 | She Makes My Nose Bleed | 3:55 |
-| C3 | Naked Twister | 4:39 |
-| D1 | Egg Shaped Fred | 4:11 |
-| D2 | Dark Mavis | 8:36 |
+| Position | Title |
+|----------|--------|
+| A1 | The Chad Who Loved Me |
+| A2 | Mansun's Only Love Song |
+| A3 | Taxloss |
+| B1 | You, Who Do You Hate? |
+| B2 | Wide Open Space |
+| B3 | Stripper Vicar |
+| C1 | Disgusting |
+| C2 | She Makes My Nose Bleed |
+| C3 | Naked Twister |
+| D1 | Egg Shaped Fred |
+| D2 | Dark Mavis |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE992 |
-| Notes | Gatefold sleeve. <br><br>Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |
+| Notes | Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |
 | Discogs URL    | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |

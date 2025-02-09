@@ -35,21 +35,21 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Reindeer King |  |
-| A2 | Wings |  |
-| A3 | Broken Arrow |  |
-| B1 | Cloud Riders |  |
-| B2 | Up The Creek |  |
-| B3 | Breakaway |  |
-| C1 | Wildwood |  |
-| C2 | Chocolate Song |  |
-| C3 | Bang |  |
-| D1 | Climb |  |
-| D2 | Bats |  |
-| D3 | Benjamin |  |
-| D4 | Mary's Eyes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Reindeer King |
+| A2 | Wings |
+| A3 | Broken Arrow |
+| B1 | Cloud Riders |
+| B2 | Up The Creek |
+| B3 | Breakaway |
+| C1 | Wildwood |
+| C2 | Chocolate Song |
+| C3 | Bang |
+| D1 | Climb |
+| D2 | Bats |
+| D3 | Benjamin |
+| D4 | Mary's Eyes |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 | Format         | Vinyl 2× LP Album |
 | Label          | Decca |
 | Catalog Number | 00028948155880 |
-| Notes | 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.<br><br>This European-made release is the sole version on vinyl, released and available in all major territories. |
+| Notes | 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.  This European-made release is the sole version on vinyl, released and available in all major territories. |
 | Discogs URL    | [Tori Amos - Native Invader](https://www.discogs.com/release/11003618-Tori-Amos-Native-Invader) |

@@ -36,18 +36,18 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Frontier Man  |  |
-| A2 | The Club  |  |
-| A3 | Oh Dear! |  |
-| A4 | Limited Edition Heart  |  |
-| A5 | Take That Call |  |
-| A6 | Drones In The City  |  |
-| B1 | Negative Vibes |  |
-| B2 | Same Old Song  |  |
-| B3 | Architecture Of Amnesia   |  |
-| B4 | Selfies In The Sunset |  |
+| Position | Title |
+|----------|--------|
+| A1 | Frontier Man  |
+| A2 | The Club  |
+| A3 | Oh Dear! |
+| A4 | Limited Edition Heart  |
+| A5 | Take That Call |
+| A6 | Drones In The City  |
+| B1 | Negative Vibes |
+| B2 | Same Old Song  |
+| B3 | Architecture Of Amnesia   |
+| B4 | Selfies In The Sunset |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 | Format         | Vinyl LP Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0010LP |
-| Notes | Gatefold Jacket with Obi Strip<br>Includes download card for 320k MP3s. |
+| Notes | Gatefold Jacket with Obi Strip Includes download card for 320k MP3s. |
 | Discogs URL    | [Gruff Rhys - Babelsberg](https://www.discogs.com/release/12105452-Gruff-Rhys-Babelsberg) |

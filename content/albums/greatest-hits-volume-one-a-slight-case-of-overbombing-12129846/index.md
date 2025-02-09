@@ -30,20 +30,20 @@ styles: ["Goth Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Under The Gun | 5:41 |
-| A2 | Temple Of Love (1992) | 8:03 |
-| A3 | Vision Thing | 7:33 |
-| B1 | Detonation Boulevard | 3:48 |
-| B2 | Doctor Jeep | 3:00 |
-| B3 | More | 8:23 |
-| C1 | Lucretia My Reflection | 8:43 |
-| C2 | Dominion / Mother Russia | 7:01 |
-| D1 | This Corrosion | 10:16 |
-| D2 | No Time To Cry | 3:56 |
-| D3 | Walk Away | 3:22 |
-| D4 | Body And Soul | 3:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Under The Gun |
+| A2 | Temple Of Love (1992) |
+| A3 | Vision Thing |
+| B1 | Detonation Boulevard |
+| B2 | Doctor Jeep |
+| B3 | More |
+| C1 | Lucretia My Reflection |
+| C2 | Dominion / Mother Russia |
+| D1 | This Corrosion |
+| D2 | No Time To Cry |
+| D3 | Walk Away |
+| D4 | Body And Soul |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Goth Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue Stereo (Gatefold Sleeve) |
 | Label          | Merciful Release |
 | Catalog Number | 0190295695071 |
-| Notes | This compilation ℗ 1993 & © 2018 Warner Music UK Ltd.<br><br>Track A1: ℗ 1993 Warner Music UK Ltd.<br>Track A2: ℗ 1992 Warner Music UK Ltd.<br>Track A3: ℗ 1991 Warner Music UK Ltd.<br>Track B1 to B3: ℗ 1990 Warner Music UK Ltd.<br>Track C1: ℗ 1993 Warner Music UK Ltd.<br>Track C2: ℗ 1987 Warner Music UK Ltd.<br>Track D1: ℗ 1993 Warner Music UK Ltd.<br>Tracks D2, D3: ℗ 1985 Warner Music UK Ltd.<br>Tracks D4: ℗ 1984 Warner Music UK Ltd.<br><br>On labels: Made in the EU.<br><br> |
+| Notes | This compilation ℗ 1993 & © 2018 Warner Music UK Ltd.  Track A1: ℗ 1993 Warner Music UK Ltd. Track A2: ℗ 1992 Warner Music UK Ltd. Track A3: ℗ 1991 Warner Music UK Ltd. Track B1 to B3: ℗ 1990 Warner Music UK Ltd. Track C1: ℗ 1993 Warner Music UK Ltd. Track C2: ℗ 1987 Warner Music UK Ltd. Track D1: ℗ 1993 Warner Music UK Ltd. Tracks D2, D3: ℗ 1985 Warner Music UK Ltd. Tracks D4: ℗ 1984 Warner Music UK Ltd.  On labels: Made in the EU.   |
 | Discogs URL    | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/12129846-The-Sisters-Of-Mercy-Greatest-Hits-Volume-One-A-Slight-Case-Of-Overbombing) |

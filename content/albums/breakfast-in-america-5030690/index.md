@@ -32,18 +32,18 @@ At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gone Hollywood | 5:20 |
-| A2 | The Logical Song | 4:11 |
-| A3 | Goodbye Stranger | 5:50 |
-| A4 | Breakfast In America | 2:39 |
-| A5 | Oh Darling | 4:02 |
-| B1 | Take The Long Way Home | 5:08 |
-| B2 | Lord Is It Mine | 4:10 |
-| B3 | Just Another Nervous Wreck | 4:25 |
-| B4 | Casual Conversations | 2:58 |
-| B5 | Child Of Vision | 7:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Gone Hollywood |
+| A2 | The Logical Song |
+| A3 | Goodbye Stranger |
+| A4 | Breakfast In America |
+| A5 | Oh Darling |
+| B1 | Take The Long Way Home |
+| B2 | Lord Is It Mine |
+| B3 | Just Another Nervous Wreck |
+| B4 | Casual Conversations |
+| B5 | Child Of Vision |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards fo
 | Format         | Vinyl LP Album Picture Disc Reissue |
 | Label          | A&M Records |
 | Catalog Number | 00600753454589 |
-| Notes | On cover sticker: ℗ & © 2013 A&M Records<br>On picture disc: ℗ & © 2013 A&M Record<br><br>Made in the EU |
+| Notes | On cover sticker: ℗ & © 2013 A&M Records On picture disc: ℗ & © 2013 A&M Record  Made in the EU |
 | Discogs URL    | [Supertramp - Breakfast In America](https://www.discogs.com/release/5030690-Supertramp-Breakfast-In-America) |

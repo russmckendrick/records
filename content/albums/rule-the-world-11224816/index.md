@@ -38,24 +38,24 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Everybody Wants To Rule The World | 4:12 |
-| A2 | Shout | 4:46 |
-| A3 | I Love You But I’m Lost | 4:21 |
-| A4 | Mad World | 3:34 |
-| B1 | Sowing The Seeds Of Love | 6:17 |
-| B2 | Advice For The Young At Heart | 4:51 |
-| B3 | Head Over Heels | 4:16 |
-| B4 | Woman In Chains | 6:30 |
-| C1 | Change | 3:57 |
-| C2 | Stay | 4:29 |
-| C3 | Pale Shelter | 4:35 |
-| C4 | Mothers Talk | 4:12 |
-| D1 | Break It Down Again | 4:32 |
-| D2 | I Believe | 4:56 |
-| D3 | Raoul And The Kings Of Spain | 5:17 |
-| D4 | Closest Thing To Heaven | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Everybody Wants To Rule The World |
+| A2 | Shout |
+| A3 | I Love You But I’m Lost |
+| A4 | Mad World |
+| B1 | Sowing The Seeds Of Love |
+| B2 | Advice For The Young At Heart |
+| B3 | Head Over Heels |
+| B4 | Woman In Chains |
+| C1 | Change |
+| C2 | Stay |
+| C3 | Pale Shelter |
+| C4 | Mothers Talk |
+| D1 | Break It Down Again |
+| D2 | I Believe |
+| D3 | Raoul And The Kings Of Spain |
+| D4 | Closest Thing To Heaven |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 | Format         | Vinyl 2× LP Compilation (Gatefold Sleeve) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3197 |
-| Notes | A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd.<br>Made in the E.U.<br><br>Tracks version:<br>-Shout is 7" Edit<br>-Change is Radio Edit<br>-Pale Shelter is 2nd Version Single<br>-Mothers Talk is U.S. Remix<br><br>Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.<br><br>US release date: 1/12/2018 |
+| Notes | A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd. Made in the E.U.  Tracks version: -Shout is 7" Edit -Change is Radio Edit -Pale Shelter is 2nd Version Single -Mothers Talk is U.S. Remix  Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.  US release date: 1/12/2018 |
 | Discogs URL    | [Tears For Fears - Rule The World](https://www.discogs.com/release/11224816-Tears-For-Fears-Rule-The-World) |

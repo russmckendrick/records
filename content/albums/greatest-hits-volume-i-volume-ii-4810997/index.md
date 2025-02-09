@@ -30,29 +30,29 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Piano Man | 5:36 |
-| A2 | Say Goodbye To Hollywood | 3:53 |
-| A3 | New York State Of Mind | 5:58 |
-| A4 | The Stranger | 4:55 |
-| A5 | Just The Way You Are | 3:34 |
-| B1 | Movin' Out (Anthony's Song) | 3:27 |
-| B2 | Only The Good Die Young | 3:53 |
-| B3 | She's Always A Woman | 3:18 |
-| B4 | My Life | 3:50 |
-| B5 | Big Shot | 3:43 |
-| B6 | Honesty | 3:50 |
-| C1 | You May Be Right | 4:09 |
-| C2 | It's Still Rock And Roll To Me | 2:54 |
-| C3 | Pressure | 3:13 |
-| C4 | Allentown | 3:49 |
-| C5 | Goodnight Saigon | 7:02 |
-| D1 | Tell Her About It | 3:55 |
-| D2 | Uptown Girl | 3:15 |
-| D3 | The Longest Time | 3:35 |
-| D4 | You're Only Human (Second Wind) | 4:47 |
-| D5 | The Night Is Still Young | 5:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Piano Man |
+| A2 | Say Goodbye To Hollywood |
+| A3 | New York State Of Mind |
+| A4 | The Stranger |
+| A5 | Just The Way You Are |
+| B1 | Movin' Out (Anthony's Song) |
+| B2 | Only The Good Die Young |
+| B3 | She's Always A Woman |
+| B4 | My Life |
+| B5 | Big Shot |
+| B6 | Honesty |
+| C1 | You May Be Right |
+| C2 | It's Still Rock And Roll To Me |
+| C3 | Pressure |
+| C4 | Allentown |
+| C5 | Goodnight Saigon |
+| D1 | Tell Her About It |
+| D2 | Uptown Girl |
+| D3 | The Longest Time |
+| D4 | You're Only Human (Second Wind) |
+| D5 | The Night Is Still Young |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | CBS |
 | Catalog Number | CBS 88666 |
-| Notes | This album consists of previously released material except for the tracks D4 and D5<br><br>Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"<br><br>Gatefold sleeve<br> |
+| Notes | This album consists of previously released material except for the tracks D4 and D5    Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"    Gatefold sleeve   |
 | Discogs URL    | [Billy Joel - Greatest Hits Volume I & Volume II](https://www.discogs.com/release/4810997-Billy-Joel-Greatest-Hits-Volume-I-Volume-II) |

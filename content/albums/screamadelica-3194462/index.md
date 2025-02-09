@@ -28,19 +28,19 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Movin' On Up | 3:40 |
-| A2 | Slip Inside This House | 5:16 |
-| A3 | Don't Fight It, Feel It | 6:54 |
-| B1 | Higher Than The Sun | 3:38 |
-| B2 | Inner Flight | 5:01 |
-| B3 | Come Together | 10:25 |
-| C1 | Loaded | 7:02 |
-| C2 | Damaged | 5:39 |
-| C3 | I'm Comin' Down | 6:01 |
-| D1 | Higher Than The Sun (A Dub Symphony In Two Parts) | 7:38 |
-| D2 | Shine Like Stars | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Movin' On Up |
+| A2 | Slip Inside This House |
+| A3 | Don't Fight It, Feel It |
+| B1 | Higher Than The Sun |
+| B2 | Inner Flight |
+| B3 | Come Together |
+| C1 | Loaded |
+| C2 | Damaged |
+| C3 | I'm Comin' Down |
+| D1 | Higher Than The Sun (A Dub Symphony In Two Parts) |
+| D2 | Shine Like Stars |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Creation Records |
 | Catalog Number | 88697811061 |
-| Notes | Re-mastered For The 20th Anniversary.<br>Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews.<br>180 gram Audiophile Vinyl (Black).<br>With a gold sticker on transparent outer shrink wrap.<br>Matte gatefold sleeve.<br>Generic anti-static die-cut poly-lined dust inner sleeves without corners.<br><br>Remastered at Metropolis.<br> |
+| Notes | Re-mastered For The 20th Anniversary. Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews. 180 gram Audiophile Vinyl (Black). With a gold sticker on transparent outer shrink wrap. Matte gatefold sleeve. Generic anti-static die-cut poly-lined dust inner sleeves without corners.  Remastered at Metropolis.  |
 | Discogs URL    | [Primal Scream - Screamadelica](https://www.discogs.com/release/3194462-Primal-Scream-Screamadelica) |

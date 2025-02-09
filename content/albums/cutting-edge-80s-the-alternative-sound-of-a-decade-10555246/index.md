@@ -26,31 +26,31 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Quiet Life |  |
-| A2 | I Ran (So Far Away) |  |
-| A3 | Pretty In Pink |  |
-| A4 | I Want Candy |  |
-| A5 | I Could Be Happy |  |
-| A6 | Crash |  |
-| B1 | Fools Gold |  |
-| B2 | Theme From S-Express |  |
-| B3 | Beat Dis |  |
-| B4 | People Hold On |  |
-| B5 | E = MC² |  |
-| C1 | Evidently Chickentown |  |
-| C2 | Stand & Deliver! |  |
-| C3 | Always The Sun |  |
-| C4 | Baby's Got A Gun |  |
-| C5 | John Wayne Is Big Leggy |  |
-| C6 | The King Of Rock 'N' Roll |  |
-| D1 | People Have The Power |  |
-| D2 | Freak |  |
-| D3 | The First Picture Of You |  |
-| D4 | Walk Like An Egyptian |  |
-| D5 | I Love You, Suzanne |  |
-| D6 | Rock Me Amadeus (The Gold Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Quiet Life |
+| A2 | I Ran (So Far Away) |
+| A3 | Pretty In Pink |
+| A4 | I Want Candy |
+| A5 | I Could Be Happy |
+| A6 | Crash |
+| B1 | Fools Gold |
+| B2 | Theme From S-Express |
+| B3 | Beat Dis |
+| B4 | People Hold On |
+| B5 | E = MC² |
+| C1 | Evidently Chickentown |
+| C2 | Stand & Deliver! |
+| C3 | Always The Sun |
+| C4 | Baby's Got A Gun |
+| C5 | John Wayne Is Big Leggy |
+| C6 | The King Of Rock 'N' Roll |
+| D1 | People Have The Power |
+| D2 | Freak |
+| D3 | The First Picture Of You |
+| D4 | Walk Like An Egyptian |
+| D5 | I Love You, Suzanne |
+| D6 | Rock Me Amadeus (The Gold Mix) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Sony Music |
 | Catalog Number | 88985431271 |
-| Notes | UK & European 2 vinyl compilation, subtitled: 'The alternative sound of a decade' <br><br>This compilation ℗ & © 2017 Sony Music Entertainment. Distributed by Sony Music Entertainment.  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU.<br><br>In 2015, a CD compilation was issued with a similar cover & name  [url=/release/7566631]catalogue #:  88875140272[/url], however, with different tracklisting. |
+| Notes | UK & European 2 vinyl compilation, subtitled: 'The alternative sound of a decade'   This compilation ℗ & © 2017 Sony Music Entertainment. Distributed by Sony Music Entertainment.  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU.  In 2015, a CD compilation was issued with a similar cover & name  [url=/release/7566631]catalogue #:  88875140272[/url], however, with different tracklisting. |
 | Discogs URL    | [Various - Cutting Edge 80s (The Alternative Sound Of A Decade)](https://www.discogs.com/release/10555246-Various-Cutting-Edge-80s-The-Alternative-Sound-Of-A-Decade) |

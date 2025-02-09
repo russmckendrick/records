@@ -39,20 +39,20 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | No Son Of Mine |  |
-| A2 | Jesus He Knows Me |  |
-| A3 | Driving The Last Spike |  |
-| B1 | I Can't Dance |  |
-| B2 | Never A Time |  |
-| B3 | Dreaming While You Sleep |  |
-| C1 | Tell Me Why |  |
-| C2 | Living Forever |  |
-| C3 | Hold On My Heart |  |
-| D1 | Way Of The World |  |
-| D2 | Since I Lost You |  |
-| D3 | Fading Lights |  |
+| Position | Title |
+|----------|--------|
+| A1 | No Son Of Mine |
+| A2 | Jesus He Knows Me |
+| A3 | Driving The Last Spike |
+| B1 | I Can't Dance |
+| B2 | Never A Time |
+| B3 | Dreaming While You Sleep |
+| C1 | Tell Me Why |
+| C2 | Living Forever |
+| C3 | Hold On My Heart |
+| D1 | Way Of The World |
+| D2 | Since I Lost You |
+| D3 | Fading Lights |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 | Format         | Vinyl 2× LP Album Reissue Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374780 |
-| Notes | Hype sticker:<br>genesis<br>The Classic Albums<br>featuring:<br>Half-Speed Mastering<br>2008 Mixes by Nick Davis & Genesis<br>180G Audiophile Vinyl<br><br>Packaged in a wide spine sleeve. Each LP has a printed inner sleeve.<br><br>Sticker: Made in Germany<br><br>℗ & © 2018, 1991 Anthony Banks Ltd. Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies.<br>Manufactured for & marketed by Rhino Entertainment Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.<br>Made in Germany.<br><br>Recorded at The Farm, Surrey, England, March-Sept 1991. |
+| Notes | Hype sticker: genesis The Classic Albums featuring: Half-Speed Mastering 2008 Mixes by Nick Davis & Genesis 180G Audiophile Vinyl  Packaged in a wide spine sleeve. Each LP has a printed inner sleeve.  Sticker: Made in Germany  ℗ & © 2018, 1991 Anthony Banks Ltd. Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies. Manufactured for & marketed by Rhino Entertainment Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Farm, Surrey, England, March-Sept 1991. |
 | Discogs URL    | [Genesis - We Can't Dance](https://www.discogs.com/release/12652409-Genesis-We-Cant-Dance) |

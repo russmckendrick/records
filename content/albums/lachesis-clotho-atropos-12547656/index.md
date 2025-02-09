@@ -26,11 +26,11 @@ styles: ["Post Rock", "Experimental", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Lachesis | 17:11 |
-| B1 | Clotho | 9:03 |
-| B2 | Atropos | 7:38 |
+| Position | Title |
+|----------|--------|
+| A | Lachesis |
+| B1 | Clotho |
+| B2 | Atropos |
 
 
 ## Apple Music

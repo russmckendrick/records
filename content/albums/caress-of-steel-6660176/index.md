@@ -39,13 +39,13 @@ Though the band members were initially proud of their work on Caress of Steel, t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bastille Day | 4:36 |
-| A2 | I Think I'm Going Bald | 3:35 |
-| A3 | Lakeside Park | 4:07 |
-|  | The Necromancer |  |
-|  | The Fountain Of Lamneth |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bastille Day |
+| A2 | I Think I'm Going Bald |
+| A3 | Lakeside Park |
+|  | The Necromancer |
+|  | The Fountain Of Lamneth |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Though the band members were initially proud of their work on Caress of Steel, t
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 4711570 |
-| Notes | Issued in a gatefold cover with lyrics on inner spread. Includes a voucher for mp3 downloads. 180 gram heavyweight vinyl<br><br>Dedicated to the memory of Mr. Rod Serling<br><br>Recorded and mixed at Toronto Sound Studios, Toronto, Canada<br>DMM Mastering at Abbey Road Mastering Studios - October 2014<br>All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole.<br><br>℗ © 2015 Mercury Records<br>Made in the EU |
+| Notes | Issued in a gatefold cover with lyrics on inner spread. Includes a voucher for mp3 downloads. 180 gram heavyweight vinyl    Dedicated to the memory of Mr. Rod Serling    Recorded and mixed at Toronto Sound Studios, Toronto, Canada  DMM Mastering at Abbey Road Mastering Studios - October 2014  All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole.    ℗ © 2015 Mercury Records  Made in the EU |
 | Discogs URL    | [Rush - Caress Of Steel](https://www.discogs.com/release/6660176-Rush-Caress-Of-Steel) |

@@ -40,23 +40,23 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wrong Way | 4:36 |
-| A2 | Dreams | 5:09 |
-| A3 | King Eternal | 4:24 |
-| A4 | Ambulance | 4:54 |
-| B1 | Poppy | 6:07 |
-| B2 | Don't Love You | 5:29 |
-| B3 | Bomb Yourself | 5:33 |
-| B4 | Wear You Out | 7:17 |
-| C1 | Staring At The Sun | 3:27 |
-| C2 | You Could Be Love | 7:18 |
-| D1 | Staring At The Sun (Demo) | 6:13 |
-| D2 | New Health Rock (Single) | 4:01 |
-| D3 | Modern Romance (NHR Single) | 4:09 |
-| D4 | Final Fantasy | 3:14 |
-| D5 | Dry Drunk Emperor | 6:47 |
+| Position | Title |
+|----------|--------|
+| A1 | The Wrong Way |
+| A2 | Dreams |
+| A3 | King Eternal |
+| A4 | Ambulance |
+| B1 | Poppy |
+| B2 | Don't Love You |
+| B3 | Bomb Yourself |
+| B4 | Wear You Out |
+| C1 | Staring At The Sun |
+| C2 | You Could Be Love |
+| D1 | Staring At The Sun (Demo) |
+| D2 | New Health Rock (Single) |
+| D3 | Modern Romance (NHR Single) |
+| D4 | Final Fantasy |
+| D5 | Dry Drunk Emperor |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 | Format         | Vinyl 2× LP Limited Edition Reissue (Red, 180g) |
 | Label          | Touch And Go |
 | Catalog Number | tg415 |
-| Notes | 20th anniversary edition.<br>Limited edition of 2500.<br>180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.<br><br>Sides A-C mastered... at Sterling Sound<br><br>Recorded August/Sept at Hickory Lane<br>Additional recording and mixing at Headgear Productions<br><br>©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records<br><br>Modern Romance: © BMG Rights Management (BMI) |
+| Notes | 20th anniversary edition. Limited edition of 2500. 180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.  Sides A-C mastered... at Sterling Sound  Recorded August/Sept at Hickory Lane Additional recording and mixing at Headgear Productions  ©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records  Modern Romance: © BMG Rights Management (BMI) |
 | Discogs URL    | [TV On The Radio - Desperate Youth, Blood Thirsty Babes](https://www.discogs.com/release/32279727-TV-On-The-Radio-Desperate-Youth-Blood-Thirsty-Babes) |

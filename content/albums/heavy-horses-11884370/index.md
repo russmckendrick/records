@@ -51,17 +51,17 @@ The album is often considered the second in a trio of folk rock albums released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | ...And The Mouse Police Never Sleeps | 3:12 |
-| A2 | Acres Wild | 3:24 |
-| A3 | No Lullaby | 7:54 |
-| A4 | Moths | 3:31 |
-| A5 | Journeyman | 3:58 |
-| B1 | Rover | 4:30 |
-| B2 | One Brown Mouse | 3:23 |
-| B3 | Heavy Horses | 9:03 |
-| B4 | Weathercock | 4:01 |
+| Position | Title |
+|----------|--------|
+| A1 | ...And The Mouse Police Never Sleeps |
+| A2 | Acres Wild |
+| A3 | No Lullaby |
+| A4 | Moths |
+| A5 | Journeyman |
+| B1 | Rover |
+| B2 | One Brown Mouse |
+| B3 | Heavy Horses |
+| B4 | Weathercock |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The album is often considered the second in a trio of folk rock albums released 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295757311 |
-| Notes | 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.<br><br>Recorded July 1977 - January 1978<br><br>℗ 2018 Parlophone Records Ltd.<br>© 2018 Parlophone Records Ltd.<br><br>Runouts etched, Optimal markings (1=) are mirrored |
+| Notes | 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.  Recorded July 1977 - January 1978  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd.  Runouts etched, Optimal markings (1=) are mirrored |
 | Discogs URL    | [Jethro Tull - Heavy Horses](https://www.discogs.com/release/11884370-Jethro-Tull-Heavy-Horses) |

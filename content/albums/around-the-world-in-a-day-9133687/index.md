@@ -37,17 +37,17 @@ But sex (“Tamborine”), politics (“America”) and religion (“The Ladder�
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Around The World In  A Day | 3:30 |
-| A2 | Paisley Park | 4:41 |
-| A3 | Condition Of The Heart | 6:46 |
-| A4 | Raspberry Beret | 3:31 |
-| A5 | Tamborine | 2:53 |
-| B1 | America | 3:40 |
-| B2 | Pop Life | 3:42 |
-| B3 | The Ladder | 5:28 |
-| B4 | Temptation | 8:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Around The World In  A Day |
+| A2 | Paisley Park |
+| A3 | Condition Of The Heart |
+| A4 | Raspberry Beret |
+| A5 | Tamborine |
+| B1 | America |
+| B2 | Pop Life |
+| B3 | The Ladder |
+| B4 | Temptation |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ But sex (“Tamborine”), politics (“America”) and religion (“The Ladder�
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 25286-1 |
-| Notes | Gatefold sleeve with a perforated flap. <br><br>Sealed copies have a sticker on the cellophane wrapping. The sticker features the "Balloon Boy" being carried away. The balloon reads: "Prince And The Revolution Around the World In a Day"<br><br>© ℗ 1985 NPG Records, Inc. under exclusive license to Warner Bros. Records, Inc. Manufactured in the E.U. (sleeve: flap)<br><br>© ℗ 1985 NPG Records, Inc. under exclusive license to Warner Bros. Records, Inc. Manufactured in the Netherlands (labels)<br><br>All songs © 1985 Controversy Music ASCAP.<br><br><br>Tracks A1, A2, A4, A5 & B1 recorded at Paisley Park.<br>Tracks A3 & B2 recorded at Sunset Sound.<br>Track B3 recorded at Mobile Audio.<br>Track B4 recorded at Capitol Records.<br><br>Not to be confused with [r=9012810] US Release with a different Manufactured location on sleeve flap.<br>On spine reads "Printed in Canada". |
+| Notes | Gatefold sleeve with a perforated flap.   Sealed copies have a sticker on the cellophane wrapping. The sticker features the "Balloon Boy" being carried away. The balloon reads: "Prince And The Revolution Around the World In a Day"  © ℗ 1985 NPG Records, Inc. under exclusive license to Warner Bros. Records, Inc. Manufactured in the E.U. (sleeve: flap)  © ℗ 1985 NPG Records, Inc. under exclusive license to Warner Bros. Records, Inc. Manufactured in the Netherlands (labels)  All songs © 1985 Controversy Music ASCAP.   Tracks A1, A2, A4, A5 & B1 recorded at Paisley Park. Tracks A3 & B2 recorded at Sunset Sound. Track B3 recorded at Mobile Audio. Track B4 recorded at Capitol Records.  Not to be confused with [r=9012810] US Release with a different Manufactured location on sleeve flap. On spine reads "Printed in Canada". |
 | Discogs URL    | [Prince And The Revolution - Around The World In A Day](https://www.discogs.com/release/9133687-Prince-And-The-Revolution-Around-The-World-In-A-Day) |

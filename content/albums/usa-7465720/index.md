@@ -42,14 +42,14 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Larks' Tongues In Aspic Part II | 6:45 |
-| A2 | Lament | 4:05 |
-| A3 | Exiles | 7:04 |
-| B1 | Asbury Park | 6:50 |
-| B2 | Easy Money | 6:32 |
-| B3 | 21st Century Schizoid Man | 7:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Larks' Tongues In Aspic Part II |
+| A2 | Lament |
+| A3 | Exiles |
+| B1 | Asbury Park |
+| B2 | Easy Money |
+| B3 | 21st Century Schizoid Man |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP12 |
-| Notes | Newly cut from masters approved by Robert Fripp<br><br>Recorded live by the Record Plant, N.Y.C. June 1974<br><br>Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974.  |
+| Notes | Newly cut from masters approved by Robert Fripp  Recorded live by the Record Plant, N.Y.C. June 1974  Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974.  |
 | Discogs URL    | [King Crimson - USA](https://www.discogs.com/release/7465720-King-Crimson-USA) |

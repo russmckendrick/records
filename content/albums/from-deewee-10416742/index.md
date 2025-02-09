@@ -40,20 +40,20 @@ After leaving Soulwax (the band) dormant for well over a decade, it feels fittin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Preset Tense |  |
-| A2 | Masterplanned |  |
-| A3 | Missing Wires |  |
-| A4 | Conditions Of A Shared Belief |  |
-| B1 | Is It Always Binary |  |
-| B2 | Do You Want To Get Into Trouble? |  |
-| B3 | My Tired Eyes |  |
-| B4 | Transient Program For Drums And Machinery |  |
-| C1 | Trespassers |  |
-| C2 | The Singer Has Become A Deejay |  |
-| C3 | Here Come The Men In Suits |  |
-| D1 | Goodnight Transmission |  |
+| Position | Title |
+|----------|--------|
+| A1 | Preset Tense |
+| A2 | Masterplanned |
+| A3 | Missing Wires |
+| A4 | Conditions Of A Shared Belief |
+| B1 | Is It Always Binary |
+| B2 | Do You Want To Get Into Trouble? |
+| B3 | My Tired Eyes |
+| B4 | Transient Program For Drums And Machinery |
+| C1 | Trespassers |
+| C2 | The Singer Has Become A Deejay |
+| C3 | Here Come The Men In Suits |
+| D1 | Goodnight Transmission |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ After leaving Soulwax (the band) dormant for well over a decade, it feels fittin
 | Format         | Vinyl LP (White), Vinyl 12" 33 ⅓ RPM 45 RPM, All Media Album Limited Edition |
 | Label          | [pias] |
 | Catalog Number | PIASR950DLPX |
-| Notes | This is the Indie Store exclusive release.<br><br>The release comes in a glossy gatefold sleeve, brushed matt inner sleeves featuring the tracklist, artwork, and credits, the rear outer sleeve has a barcode sticker applied to the bottom right hand corner.<br>A sticker affixed to the front sleeve shrink wrap reads:<br>"Ltd 180g 2LP White Vinyl / Black Vinyl + Download code"<br><br>The download code is printed on a small card featuring album themed artwork.<br>The first record (sides A and B) is pressed on white vinyl, the second record (sides C and D) is pressed on standard black vinyl.<br>Side D is mastered and pressed at 45rpm. The other three sides are all 33 1/3 rpm. All sides play into in a locked groove of repeating sounds.<br><br>Insert:<br>(Track A2) Published by Farrell Sanders Music Inc admin by BMG Rights Management/Copyright control. All rights reserved.<br>(All tracks) Recorded, mixed and produced by Soulwax at Deewee - published by Strictly Confidential / Deewee - Mastering by Mike Marsh at The Exchange. Management Marc & Karey at West. |
+| Notes | This is the Indie Store exclusive release.  The release comes in a glossy gatefold sleeve, brushed matt inner sleeves featuring the tracklist, artwork, and credits, the rear outer sleeve has a barcode sticker applied to the bottom right hand corner. A sticker affixed to the front sleeve shrink wrap reads: "Ltd 180g 2LP White Vinyl / Black Vinyl + Download code"  The download code is printed on a small card featuring album themed artwork. The first record (sides A and B) is pressed on white vinyl, the second record (sides C and D) is pressed on standard black vinyl. Side D is mastered and pressed at 45rpm. The other three sides are all 33 1/3 rpm. All sides play into in a locked groove of repeating sounds.  Insert: (Track A2) Published by Farrell Sanders Music Inc admin by BMG Rights Management/Copyright control. All rights reserved. (All tracks) Recorded, mixed and produced by Soulwax at Deewee - published by Strictly Confidential / Deewee - Mastering by Mike Marsh at The Exchange. Management Marc & Karey at West. |
 | Discogs URL    | [Soulwax - From Deewee](https://www.discogs.com/release/10416742-Soulwax-From-Deewee) |

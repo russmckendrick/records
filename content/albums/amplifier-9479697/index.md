@@ -30,18 +30,18 @@ The critical reception of the album was generally positive, with comments such a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Motorhead | 6:15 |
-| A2 | Airborne | 8:29 |
-| B3 | Panzer | 7:03 |
-| B4 | Old Movies | 5:50 |
-| B5 | Neon | 4:17 |
-| C6 | Post Acid Youth | 6:06 |
-| C7 | On/Off | 6:34 |
-| C8 | The Consultancy | 4:59 |
-| D9 | One Great Summer | 5:57 |
-| D10 | UFOs | 7:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Motorhead |
+| A2 | Airborne |
+| B3 | Panzer |
+| B4 | Old Movies |
+| B5 | Neon |
+| C6 | Post Acid Youth |
+| C7 | On/Off |
+| C8 | The Consultancy |
+| D9 | One Great Summer |
+| D10 | UFOs |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The critical reception of the album was generally positive, with comments such a
 | Format         | Vinyl LP Album Remastered |
 | Label          | [{'name': 'Not On Label (Amplifier (3) Self-released)', 'catno': ''}] |
 | Catalog Number | none |
-| Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies.<br>Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].<br><br>Sequential tracklist as per the cover. |
+| Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies. Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].  Sequential tracklist as per the cover. |
 | Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-3-Amplifier) |

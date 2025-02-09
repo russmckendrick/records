@@ -31,27 +31,27 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Opening Ceremonies |  |
-| A2 | Jsarge's symphony in Q |  |
-| A3 | A who's who |  |
-| A4 | Owen Benjamin |  |
-| A5 | Ming the Merciless |  |
-| A6 | Joe Gatto |  |
-| B7 | Git 'em |  |
-| B8 | Ian "EK" Morris |  |
-| B9 | Sunday Jeff |  |
-| B10 | Doug Stanhope |  |
-| B11 | Maxwell |  |
-| B12 | Sal Vulcano |  |
-| C13 | Mikey Z |  |
-| C14 | Chris "Roast Pussy" Laudando |  |
-| C15 | Walt |  |
-| D16 | Bry |  |
-| D17 | Justin Roiland |  |
-| D18 | Q |  |
-| D19 | Faccia Bella |  |
+| Position | Title |
+|----------|--------|
+| A1 | Opening Ceremonies |
+| A2 | Jsarge's symphony in Q |
+| A3 | A who's who |
+| A4 | Owen Benjamin |
+| A5 | Ming the Merciless |
+| A6 | Joe Gatto |
+| B7 | Git 'em |
+| B8 | Ian "EK" Morris |
+| B9 | Sunday Jeff |
+| B10 | Doug Stanhope |
+| B11 | Maxwell |
+| B12 | Sal Vulcano |
+| C13 | Mikey Z |
+| C14 | Chris "Roast Pussy" Laudando |
+| C15 | Walt |
+| D16 | Bry |
+| D17 | Justin Roiland |
+| D18 | Q |
+| D19 | Faccia Bella |
 
 
 ## Apple Music

@@ -26,34 +26,34 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lansing |  |
-| A2 | Bone Rage |  |
-| A3 | Give Us The Gold |  |
-| A4 | Hold Me In |  |
-| A5 | Egg Replacer |  |
-| A6 | Cradle Of Rocks |  |
-| A7 | Lovell |  |
-| B1 | Lovemenot |  |
-| B2 | Bird Song |  |
-| B3 | Catch Light |  |
-| B4 | Garbage Shark |  |
-| B5 | Golden Hour |  |
-| B6 | It Happens |  |
-| CD-1 | Lansing | 1:22 |
-| CD-2 | Bone Rage | 4:14 |
-| CD-3 | Give Us The Gold | 3:51 |
-| CD-4 | Hold Me In | 4:50 |
-| CD-5 | Egg Replacer | 3:10 |
-| CD-6 | Cradle Of Rocks | 4:00 |
-| CD-7 | Lovell | 1:27 |
-| CD-8 | Lovemenot | 5:10 |
-| CD-9 | Bird Song | 2:56 |
-| CD-10 | Catch Light | 4:39 |
-| CD-11 | Garbage Shark | 5:38 |
-| CD-12 | Golden Hour | 5:51 |
-| CD-13 | It Happens | 5:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Lansing |
+| A2 | Bone Rage |
+| A3 | Give Us The Gold |
+| A4 | Hold Me In |
+| A5 | Egg Replacer |
+| A6 | Cradle Of Rocks |
+| A7 | Lovell |
+| B1 | Lovemenot |
+| B2 | Bird Song |
+| B3 | Catch Light |
+| B4 | Garbage Shark |
+| B5 | Golden Hour |
+| B6 | It Happens |
+| CD-1 | Lansing |
+| CD-2 | Bone Rage |
+| CD-3 | Give Us The Gold |
+| CD-4 | Hold Me In |
+| CD-5 | Egg Replacer |
+| CD-6 | Cradle Of Rocks |
+| CD-7 | Lovell |
+| CD-8 | Lovemenot |
+| CD-9 | Bird Song |
+| CD-10 | Catch Light |
+| CD-11 | Garbage Shark |
+| CD-12 | Golden Hour |
+| CD-13 | It Happens |
 
 
 ## Apple Music

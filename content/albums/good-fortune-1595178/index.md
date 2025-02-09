@@ -29,23 +29,23 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Monday Through Sunday | 4:24 |
-| A2 | Brights Lights | 2:39 |
-| A3 | Miami / The Jungle | 2:08 |
-| A4 | Know Who You Are | 1:26 |
-| A5 | Inside The Globe | 3:20 |
-| A6 | Best Shit In The World | 3:02 |
-| A7 | House Of Mirrors | 3:27 |
-| B1 | This Year | 3:14 |
-| B2 | Now I Lay Me Down | 3:52 |
-| B3 | My Eyes | 2:49 |
-| B4 | Wings | 3:23 |
-| B5 | Paradise | 3:31 |
-| B6 | Close Your Eyes | 2:05 |
-| B7 | NYC | 3:37 |
-| B8 | Trust Me | 0:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Monday Through Sunday |
+| A2 | Brights Lights |
+| A3 | Miami / The Jungle |
+| A4 | Know Who You Are |
+| A5 | Inside The Globe |
+| A6 | Best Shit In The World |
+| A7 | House Of Mirrors |
+| B1 | This Year |
+| B2 | Now I Lay Me Down |
+| B3 | My Eyes |
+| B4 | Wings |
+| B5 | Paradise |
+| B6 | Close Your Eyes |
+| B7 | NYC |
+| B8 | Trust Me |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN 95 |
-| Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.<br>Printed in Canada.<br><br>Comes with an 12" photography (photocopy).<br> |
+| Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.  Printed in Canada.    Comes with an 12" photography (photocopy).   |
 | Discogs URL    | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |

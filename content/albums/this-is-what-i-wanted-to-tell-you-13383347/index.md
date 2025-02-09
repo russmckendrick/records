@@ -26,16 +26,16 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The New Isn't So You Anymore | 5:19 |
-| A2 | Crosswords, Or What This Says About You | 6:47 |
-| A3 | Everything For You | 3:55 |
-| A4 | The Lasting Last Of You | 6:08 |
-| B1 | The Air Is Heavy and I Should Be Listening to You | 7:40 |
-| B2 | The December-ish You | 6:20 |
-| B3 | This Is What I Wanted To Tell You | 6:45 |
-| B4 | Flower | 2:38 |
+| Position | Title |
+|----------|--------|
+| A1 | The New Isn't So You Anymore |
+| A2 | Crosswords, Or What This Says About You |
+| A3 | Everything For You |
+| A4 | The Lasting Last Of You |
+| B1 | The Air Is Heavy and I Should Be Listening to You |
+| B2 | The December-ish You |
+| B3 | This Is What I Wanted To Tell You |
+| B4 | Flower |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | City Slang |
 | Catalog Number | SLANG50197LP |
-| Notes | Limited 180g White Vinyl.<br>Comes in a die cut sleeve.<br>Includes a fold out insert with lyrics and credits.<br>An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner. |
+| Notes | Limited 180g White Vinyl. Comes in a die cut sleeve. Includes a fold out insert with lyrics and credits. An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner. |
 | Discogs URL    | [Lambchop - This (Is What I Wanted To Tell You)](https://www.discogs.com/release/13383347-Lambchop-This-Is-What-I-Wanted-To-Tell-You) |

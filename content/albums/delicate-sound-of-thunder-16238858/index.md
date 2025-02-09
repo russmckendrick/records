@@ -67,31 +67,31 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shine On You Crazy Diamond Parts 1-5 |  |
-| A2 | Signs Of Life |  |
-| A3 | Learning To Fly |  |
-| B1 | Yet Another Movie |  |
-| B2 | Round And Around |  |
-| B3 | A New Machine Part 1 |  |
-| B4 | Terminal Frost |  |
-| B5 | A New Machine Part 2 |  |
-| B6 | Sorrow |  |
-| C1 | The Dogs Of War |  |
-| C2 | On The Turning Away |  |
-| C3 | One Of These Days |  |
-| D1 | Time |  |
-| D2 | On The Run |  |
-| D3 | The Great Gig In The Sky |  |
-| D4 | Wish You Were Here |  |
-| D5 | Welcome To The Machine |  |
-| E1 | Us And Them |  |
-| E2 | Money |  |
-| E3 | Another Brick In The Wall Part 2 |  |
-| F1 | Comfortably Numb |  |
-| F2 | One Slip |  |
-| F3 | Run Like Hell |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shine On You Crazy Diamond Parts 1-5 |
+| A2 | Signs Of Life |
+| A3 | Learning To Fly |
+| B1 | Yet Another Movie |
+| B2 | Round And Around |
+| B3 | A New Machine Part 1 |
+| B4 | Terminal Frost |
+| B5 | A New Machine Part 2 |
+| B6 | Sorrow |
+| C1 | The Dogs Of War |
+| C2 | On The Turning Away |
+| C3 | One Of These Days |
+| D1 | Time |
+| D2 | On The Run |
+| D3 | The Great Gig In The Sky |
+| D4 | Wish You Were Here |
+| D5 | Welcome To The Machine |
+| E1 | Us And Them |
+| E2 | Money |
+| E3 | Another Brick In The Wall Part 2 |
+| F1 | Comfortably Numb |
+| F2 | One Slip |
+| F3 | Run Like Hell |
 
 
 ## Apple Music
@@ -109,5 +109,5 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 | Format         | Vinyl 3× LP Album Reissue (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP36 |
-| Notes | Die cut box cover with hype sticker:<br>"LIVE 3-LP <br>PINK FLOYD<br>Delicate Sound of Thunder<br>Remixed from the original master tapes<br>Heavyweight 180g Vinyl<br>24-page Booklet<br>23 songs<br>Approx. 2 1/2 hours<br>Features 9 songs<br>not included on the <br>1988 2-LP<br>Pink Floyd Records<br>0190295215965<br>Brand new remix."<br><br>Includes 12"x12" colour booklet and download card, with expiry date of 20/11/2025<br><br>Made in Germany.<br><br>Previously unreleased track on vinyl 1988:<br>-Signs Of Life<br>-A New Machine Part1<br>-Terminal Frost<br>-A New Machine Part2<br>-On The Run<br>-The Great Gig In The Sky<br>-Welcome To The Machine<br>-Us And Them<br>-One Slip |
+| Notes | Die cut box cover with hype sticker: "LIVE 3-LP  PINK FLOYD Delicate Sound of Thunder Remixed from the original master tapes Heavyweight 180g Vinyl 24-page Booklet 23 songs Approx. 2 1/2 hours Features 9 songs not included on the  1988 2-LP Pink Floyd Records 0190295215965 Brand new remix."  Includes 12"x12" colour booklet and download card, with expiry date of 20/11/2025  Made in Germany.  Previously unreleased track on vinyl 1988: -Signs Of Life -A New Machine Part1 -Terminal Frost -A New Machine Part2 -On The Run -The Great Gig In The Sky -Welcome To The Machine -Us And Them -One Slip |
 | Discogs URL    | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/16238858-Pink-Floyd-Delicate-Sound-Of-Thunder) |

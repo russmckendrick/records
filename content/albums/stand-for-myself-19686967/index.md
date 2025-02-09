@@ -49,20 +49,20 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Barely Alive | 3:36 |
-| A2 | Dancing Away In Tears | 3:48 |
-| A3 | Diamond Studded Shoes | 3:25 |
-| A4 | Be My Friend | 3:29 |
-| A5 | Great Divide | 3:36 |
-| A6 | Starlight | 4:03 |
-| B1 | If I Had To Do It All Again | 3:47 |
-| B2 | Now You're Here | 4:09 |
-| B3 | Whatever You Want | 3:52 |
-| B4 | Break The Bough | 3:21 |
-| B5 | Like A Photograph | 5:03 |
-| B6 | Stand For Myself | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Barely Alive |
+| A2 | Dancing Away In Tears |
+| A3 | Diamond Studded Shoes |
+| A4 | Be My Friend |
+| A5 | Great Divide |
+| A6 | Starlight |
+| B1 | If I Had To Do It All Again |
+| B2 | Now You're Here |
+| B3 | Whatever You Want |
+| B4 | Break The Bough |
+| B5 | Like A Photograph |
+| B6 | Stand For Myself |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 | Format         | Vinyl LP Album Stereo (Purple Opaque) |
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-0081 |
-| Notes | Contains a four page inlay folder with a large photo on one side and lyrics on the other side.<br><br>Publishing:<br>[url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI)<br>[a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing<br>[a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI)<br>[a5975372] – Olubukola Oladokun/Where Da Kasz (BMI)<br>[a2976110] – Tasjan Music (ASCAP)<br>[a347626] – Like Butta Baby Music (BMI)<br>[a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights<br>[a293222] – Janwood Music (SESAC)<br>[a617010] – Doorway Music (ASCAP), administered by Kobalt<br>[a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp.<br>[url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights<br>[a3223539] – Budde Publishing<br> |
+| Notes | Contains a four page inlay folder with a large photo on one side and lyrics on the other side.  Publishing: [url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI) [a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing [a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI) [a5975372] – Olubukola Oladokun/Where Da Kasz (BMI) [a2976110] – Tasjan Music (ASCAP) [a347626] – Like Butta Baby Music (BMI) [a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights [a293222] – Janwood Music (SESAC) [a617010] – Doorway Music (ASCAP), administered by Kobalt [a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp. [url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights [a3223539] – Budde Publishing  |
 | Discogs URL    | [Yola - Stand For Myself](https://www.discogs.com/release/19686967-Yola-4-Stand-For-Myself) |

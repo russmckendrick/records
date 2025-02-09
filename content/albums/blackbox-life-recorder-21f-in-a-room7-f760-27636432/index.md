@@ -36,12 +36,12 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackbox Life Recorder 21f |  |
-| A2 | Zin2 Test5 |  |
-| AA1 | In A Room7 F760 |  |
-| AA2 | Blackbox Life Recorder 22 (Parallax Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blackbox Life Recorder 21f |
+| A2 | Zin2 Test5 |
+| AA1 | In A Room7 F760 |
+| AA2 | Blackbox Life Recorder 22 (Parallax Mix) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 | Format         | Vinyl 12" 45 RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP480 |
-| Notes | Black vinyl pressing. Printed inner sleeve packed inside 6-panel fold-out anamorphic diorama.<br><br>Resealable bag includes barcode sticker and sticker with track titles and credits.<br><br>Side breaks on sticker exhibited as Side A and Side AA.<br><br>Both sides of variant 2 has mirrored. Side A has 2= (mirrored) and Side AA has 1I (mirrored). |
+| Notes | Black vinyl pressing. Printed inner sleeve packed inside 6-panel fold-out anamorphic diorama.  Resealable bag includes barcode sticker and sticker with track titles and credits.  Side breaks on sticker exhibited as Side A and Side AA.  Both sides of variant 2 has mirrored. Side A has 2= (mirrored) and Side AA has 1I (mirrored). |
 | Discogs URL    | [Aphex Twin - Blackbox Life Recorder 21f / In A Room7 F760](https://www.discogs.com/release/27636432-Aphex-Twin-Blackbox-Life-Recorder-21f-In-A-Room7-F760) |

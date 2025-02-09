@@ -34,18 +34,18 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heaven Is A Place On Earth | 4:06 |
-| A2 | Circle In The Sand | 4:26 |
-| A3 | I Feel Free | 4:49 |
-| A4 | Should I Let You In? | 4:16 |
-| A5 | World Without You | 4:41 |
-| B1 | I Get Weak | 4:51 |
-| B2 | We Can Change | 3:43 |
-| B3 | Fool For Love | 3:56 |
-| B4 | Nobody Owns Me | 3:12 |
-| B5 | Love Never Dies... | 5:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Heaven Is A Place On Earth |
+| A2 | Circle In The Sand |
+| A3 | I Feel Free |
+| A4 | Should I Let You In? |
+| A5 | World Without You |
+| B1 | I Get Weak |
+| B2 | We Can Change |
+| B3 | Fool For Love |
+| B4 | Nobody Owns Me |
+| B5 | Love Never Dies... |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 | Format         | Vinyl LP Album Reissue (Blue Translucent) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC306 |
-| Notes | Pressed on 180gm heavyweight translucent blue vinyl.<br><br>℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd.<br>Manufactured in the EU. |
+| Notes | Pressed on 180gm heavyweight translucent blue vinyl.  ℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd. Manufactured in the EU. |
 | Discogs URL    | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |

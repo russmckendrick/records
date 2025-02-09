@@ -30,18 +30,18 @@ Rolling Stone included Grace in three of its lists of the 500 greatest albums an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Mojo Pin | 5:42 |
-| 2 | Grace | 5:22 |
-| 3 | Last Goodbye | 4:35 |
-| 4 | Lilac Wine | 4:32 |
-| 5 | So Real | 4:43 |
-| 6 | Hallelujah | 6:53 |
-| 7 | Lover, You Should've Come Over | 6:43 |
-| 8 | Corpus Christi Carol | 2:56 |
-| 9 | Eternal Life | 4:52 |
-| 10 | Dream Brother | 5:26 |
+| Position | Title |
+|----------|--------|
+| 1 | Mojo Pin |
+| 2 | Grace |
+| 3 | Last Goodbye |
+| 4 | Lilac Wine |
+| 5 | So Real |
+| 6 | Hallelujah |
+| 7 | Lover, You Should've Come Over |
+| 8 | Corpus Christi Carol |
+| 9 | Eternal Life |
+| 10 | Dream Brother |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Rolling Stone included Grace in three of its lists of the 500 greatest albums an
 | Format         | CD Album Reissue, Vinyl LP Album Reissue |
 | Label          | Columbia |
 | Catalog Number | 88843094771 |
-| Notes | (C)1994, 2014 Sony Music Entertainment Inc.<br>(P)1994, 2014 Sony Music Entertainment Inc.<br>Manufactured by Columbia Records.<br><br>2014 180 gram Vinyl Reissue with CD included.<br> |
+| Notes | (C)1994, 2014 Sony Music Entertainment Inc.  (P)1994, 2014 Sony Music Entertainment Inc.  Manufactured by Columbia Records.    2014 180 gram Vinyl Reissue with CD included.   |
 | Discogs URL    | [Jeff Buckley - Grace](https://www.discogs.com/release/6106287-Jeff-Buckley-Grace) |

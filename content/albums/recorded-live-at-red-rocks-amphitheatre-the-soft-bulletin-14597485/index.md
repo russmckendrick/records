@@ -24,20 +24,20 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Race For The Prize |  |
-| A2 | A Spoonful Weighs A Ton |  |
-| A3 | The Spark That Bled |  |
-| B1 | The Spiderbite Song |  |
-| B2 | Buggin' |  |
-| C1 | What Is The Light? |  |
-| C2 | The Observer |  |
-| C3 | Waitin' For A Superman |  |
-| C4 | Suddenly Everything Has Changed |  |
-| D1 | The Gash |  |
-| D2 | Feeling Yourself Disintegrate |  |
-| D3 | Sleeping On The Roof |  |
+| Position | Title |
+|----------|--------|
+| A1 | Race For The Prize |
+| A2 | A Spoonful Weighs A Ton |
+| A3 | The Spark That Bled |
+| B1 | The Spiderbite Song |
+| B2 | Buggin' |
+| C1 | What Is The Light? |
+| C2 | The Observer |
+| C3 | Waitin' For A Superman |
+| C4 | Suddenly Everything Has Changed |
+| D1 | The Gash |
+| D2 | Feeling Yourself Disintegrate |
+| D3 | Sleeping On The Roof |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA882V |
-| Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016<br><br>©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias.<br>Made in the EU. |
+| Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU. |
 | Discogs URL    | [The Flaming Lips - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485-The-Flaming-Lips-Featuring-The-Colorado-Symphony-Recorded-Live-At-Red-Rocks-Amphitheatre-The-Soft-Bu) |

@@ -27,10 +27,10 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | The Hungry Ghosts / We Live In An Old Chaos Of The Sun | 20:44 |
-| B | The Silence Of Animals / The Truth Is, It Wanted To Cave In | 22:59 |
+| Position | Title |
+|----------|--------|
+| A | The Hungry Ghosts / We Live In An Old Chaos Of The Sun |
+| B | The Silence Of Animals / The Truth Is, It Wanted To Cave In |
 
 
 ## Apple Music
@@ -47,5 +47,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK31LP |
-| Notes | Released on Record Store Day 2019.<br><br>Note on the front cover : <br>A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue.<br>Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company.<br>Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir. |
+| Notes | Released on Record Store Day 2019.  Note on the front cover :  A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue. Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company. Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir. |
 | Discogs URL    | [Sigur Rós - Variations On Darkness](https://www.discogs.com/release/13474949-Sigur-Rós-Variations-On-Darkness) |

@@ -32,27 +32,27 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You Can Call Me Al |  |
-| A2 | Graceland |  |
-| A3 | Mrs. Robinson |  |
-| A4 | The Boxer |  |
-| B1 | Diamonds On The Soles Of Her Shoes |  |
-| B2 | 50 Ways To Leave Your Lover |  |
-| B3 | Cecilia |  |
-| B4 | Me And Julio Down By The Schoolyard |  |
-| B5 | The Boy In The Bubble |  |
-| C1 | The Only Living Boy In New York |  |
-| C2 | Mother And Child Reunion |  |
-| C3 | Late In The Evening |  |
-| C4 | Father And Daughter |  |
-| C5 | The Obvious Child |  |
-| D1 | Slip Slidin' Away |  |
-| D2 | America |  |
-| D3 | The Sound Of Silence |  |
-| D4 | Still Crazy After All These Years |  |
-| D5 | Bridge Over Troubled Water |  |
+| Position | Title |
+|----------|--------|
+| A1 | You Can Call Me Al |
+| A2 | Graceland |
+| A3 | Mrs. Robinson |
+| A4 | The Boxer |
+| B1 | Diamonds On The Soles Of Her Shoes |
+| B2 | 50 Ways To Leave Your Lover |
+| B3 | Cecilia |
+| B4 | Me And Julio Down By The Schoolyard |
+| B5 | The Boy In The Bubble |
+| C1 | The Only Living Boy In New York |
+| C2 | Mother And Child Reunion |
+| C3 | Late In The Evening |
+| C4 | Father And Daughter |
+| C5 | The Obvious Child |
+| D1 | Slip Slidin' Away |
+| D2 | America |
+| D3 | The Sound Of Silence |
+| D4 | Still Crazy After All These Years |
+| D5 | Bridge Over Troubled Water |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88875085521 |
-| Notes | ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved.<br>Distributed by Sony Music Entertainment.<br>Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.<br>Made in the EU.<br><br>Gatefold cover.<br>Includes an eight page lyric booklet. |
+| Notes | ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved. Distributed by Sony Music Entertainment. Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU.  Gatefold cover. Includes an eight page lyric booklet. |
 | Discogs URL    | [Paul Simon - The Ultimate Collection](https://www.discogs.com/release/6978849-Paul-Simon-The-Ultimate-Collection) |

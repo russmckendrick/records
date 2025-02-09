@@ -38,18 +38,18 @@ On an Island is the third solo studio album by Pink Floyd member David Gilmour. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Castellorizon |  |
-| A2 | On An Island |  |
-| A3 | The Blue |  |
-| A4 | Take A Breath |  |
-| A5 | Red Sky At Night |  |
-| B1 | This Heaven |  |
-| B2 | Then I Close My Eyes |  |
-| B3 | Smile |  |
-| B4 | Pocketful Of Stones |  |
-| B5 | Where We Start |  |
+| Position | Title |
+|----------|--------|
+| A1 | Castellorizon |
+| A2 | On An Island |
+| A3 | The Blue |
+| A4 | Take A Breath |
+| A5 | Red Sky At Night |
+| B1 | This Heaven |
+| B2 | Then I Close My Eyes |
+| B3 | Smile |
+| B4 | Pocketful Of Stones |
+| B5 | Where We Start |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ On an Island is the third solo studio album by Pink Floyd member David Gilmour. 
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | 0946 3 55695 1 3 |
-| Notes | Made in the EU.<br><br>It comes in heavy gatefold cover with poster<br> |
+| Notes | Made in the EU.    It comes in heavy gatefold cover with poster   |
 | Discogs URL    | [David Gilmour - On An Island](https://www.discogs.com/release/707721-David-Gilmour-On-An-Island) |

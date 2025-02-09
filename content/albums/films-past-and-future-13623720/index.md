@@ -25,29 +25,29 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Not Driving Anymore (Instrumental) | 4:08 |
-| A2 | Speed Me Towards Death (Instrumental) | 4:28 |
-| A3 | Ben Kedim (Instrumental) | 5:28 |
-| A4 | Quasimodo's Dream (Instrumental) | 4:40 |
-| B1 | The Return (Instrumental) | 4:57 |
-| B2 | She's Leaving (Instrumental) | 3:59 |
-| B3 | A Drawing-Down Of Blinds | 6:17 |
-| B4 | Vale (Ave Atque Vale) | 4:45 |
-| C1 | Undone By London (Instrumental) | 4:24 |
-| C2 | There's Only Me (Instrumental) | 5:34 |
-| C3 | Beautiful Things (Instrumental) | 4:54 |
-| C4 | Chateau | 3:24 |
-| D1 | Will You Follow Me? | 3:47 |
-| D2 | Open Sore (Instrumental) | 4:55 |
-| D3 | Left Me For Dead (Instrumental) | 4:41 |
-| E1 | Miscellaneous (Instrumental) | 2:54 |
-| E2 | Born Yesterday (Instrumental) | 7:33 |
-| E3 | Frescobaldi's Toccata | 4:34 |
-| F1 | Furious Angels (Instrumental) | 5:30 |
-| F2 | Nothing At All (Instrumental) | 5:30 |
-| F3 | Instrumental | 4:30 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Not Driving Anymore (Instrumental) |
+| A2 | Speed Me Towards Death (Instrumental) |
+| A3 | Ben Kedim (Instrumental) |
+| A4 | Quasimodo's Dream (Instrumental) |
+| B1 | The Return (Instrumental) |
+| B2 | She's Leaving (Instrumental) |
+| B3 | A Drawing-Down Of Blinds |
+| B4 | Vale (Ave Atque Vale) |
+| C1 | Undone By London (Instrumental) |
+| C2 | There's Only Me (Instrumental) |
+| C3 | Beautiful Things (Instrumental) |
+| C4 | Chateau |
+| D1 | Will You Follow Me? |
+| D2 | Open Sore (Instrumental) |
+| D3 | Left Me For Dead (Instrumental) |
+| E1 | Miscellaneous (Instrumental) |
+| E2 | Born Yesterday (Instrumental) |
+| E3 | Frescobaldi's Toccata |
+| F1 | Furious Angels (Instrumental) |
+| F2 | Nothing At All (Instrumental) |
+| F3 | Instrumental |
 
 
 ## Apple Music

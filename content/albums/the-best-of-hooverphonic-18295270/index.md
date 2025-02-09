@@ -36,41 +36,41 @@ styles: ["Europop", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You |  |
-| A2 | Badaboum |  |
-| A3 | Hiding In A Song |  |
-| A4 | I Like The Way I Dance |  |
-| A5 | Deep Forest |  |
-| A6 | Amalfi |  |
-| B1 | Ether |  |
-| B2 | Boomerang |  |
-| B3 | Gravity |  |
-| B4 | Happiness |  |
-| B5 | Anger Never Dies |  |
-| C1 | The Night Before |  |
-| C2 | Heartbroken |  |
-| C3 | One Two Three |  |
-| C4 | Vinegar & Salt (Orchestra Version) |  |
-| C5 | Unfinished Sympathy (Orchestra Version) |  |
-| C6 | Renaissance Affair (Orchestra Version) |  |
-| D1 | 2 Wicky |  |
-| D2 | Eden |  |
-| D3 | Club Montepulciano |  |
-| D4 | This Stange Effect |  |
-| D5 | Mad About You |  |
-| E1 | Jackie Cane |  |
-| E2 | Out Of Sight |  |
-| E3 | Vinegar & Salt |  |
-| E4 | Sometimes |  |
-| E5 | The World Is Mine |  |
-| E6 | The Last Thing I Need is You |  |
-| F1 | We All Float |  |
-| F2 | Wake Up |  |
-| F3 | You Hurt Me |  |
-| F4 | Dirty Lenses |  |
-| F5 | Expedition Impossible |  |
+| Position | Title |
+|----------|--------|
+| A1 | You |
+| A2 | Badaboum |
+| A3 | Hiding In A Song |
+| A4 | I Like The Way I Dance |
+| A5 | Deep Forest |
+| A6 | Amalfi |
+| B1 | Ether |
+| B2 | Boomerang |
+| B3 | Gravity |
+| B4 | Happiness |
+| B5 | Anger Never Dies |
+| C1 | The Night Before |
+| C2 | Heartbroken |
+| C3 | One Two Three |
+| C4 | Vinegar & Salt (Orchestra Version) |
+| C5 | Unfinished Sympathy (Orchestra Version) |
+| C6 | Renaissance Affair (Orchestra Version) |
+| D1 | 2 Wicky |
+| D2 | Eden |
+| D3 | Club Montepulciano |
+| D4 | This Stange Effect |
+| D5 | Mad About You |
+| E1 | Jackie Cane |
+| E2 | Out Of Sight |
+| E3 | Vinegar & Salt |
+| E4 | Sometimes |
+| E5 | The World Is Mine |
+| E6 | The Last Thing I Need is You |
+| F1 | We All Float |
+| F2 | Wake Up |
+| F3 | You Hurt Me |
+| F4 | Dirty Lenses |
+| F5 | Expedition Impossible |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ styles: ["Europop", "Downtempo"]
 | Format         | Vinyl 3× LP Compilation Reissue Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2638 |
-| Notes | 180gr audiophile vinyl<br> |
+| Notes | 180gr audiophile vinyl  |
 | Discogs URL    | [Hooverphonic - The Best Of Hooverphonic](https://www.discogs.com/release/18295270-Hooverphonic-The-Best-Of-Hooverphonic) |

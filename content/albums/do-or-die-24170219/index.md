@@ -29,24 +29,24 @@ Do or Die is the debut studio album by the Celtic punk band Dropkick Murphys. It
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cadence To Arms |  |
-| A2 | Do Or Die |  |
-| A3 | Get Up |  |
-| A4 | Never Alone |  |
-| A5 | Caught In A Jar |  |
-| A6 | Memories Remain |  |
-| A7 | Road Of The Righteous |  |
-| A8 | Far Away Coast |  |
-| B1 | Fightstarter Karaoke |  |
-| B2 | Barroom Hero |  |
-| B3 | 3rd Man In |  |
-| B4 | Tenant Enemy #1 |  |
-| B5 | Finnegan's Wake |  |
-| B6 | Noble |  |
-| B7 | Boys On The Docks (Murphy's Pub Version)  |  |
-| B8 | Skinhead On The MBTA |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cadence To Arms |
+| A2 | Do Or Die |
+| A3 | Get Up |
+| A4 | Never Alone |
+| A5 | Caught In A Jar |
+| A6 | Memories Remain |
+| A7 | Road Of The Righteous |
+| A8 | Far Away Coast |
+| B1 | Fightstarter Karaoke |
+| B2 | Barroom Hero |
+| B3 | 3rd Man In |
+| B4 | Tenant Enemy #1 |
+| B5 | Finnegan's Wake |
+| B6 | Noble |
+| B7 | Boys On The Docks (Murphy's Pub Version)  |
+| B8 | Skinhead On The MBTA |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Do or Die is the debut studio album by the Celtic punk band Dropkick Murphys. It
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Hellcat Records |
 | Catalog Number | 0407-1 |
-| Notes | Released in 2022 on clear vinyl.<br><br>Note: identical barcode and matrix/runout as [r24169526]. |
+| Notes | Released in 2022 on clear vinyl.  Note: identical barcode and matrix/runout as [r24169526]. |
 | Discogs URL    | [Dropkick Murphys - Do Or Die](https://www.discogs.com/release/24170219-Dropkick-Murphys-Do-Or-Die) |

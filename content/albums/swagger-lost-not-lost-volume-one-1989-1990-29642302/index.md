@@ -29,17 +29,17 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Flowermouth | 5:06 |
-| A2 | Bleed  | 5:15 |
-| A3 | Life Is Elsewhere | 4:22 |
-| A4 | Mouth Was Blue | 5:03 |
-| A5 | Curtain Dream  | 3:12 |
-| B1 | Learn To Fear | 5:28 |
-| B2 | See No Angels | 5:23 |
-| B3 | Sit Silent | 3:08 |
-| B4 | Swirl | 7:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Flowermouth |
+| A2 | Bleed  |
+| A3 | Life Is Elsewhere |
+| A4 | Mouth Was Blue |
+| A5 | Curtain Dream  |
+| B1 | Learn To Fear |
+| B2 | See No Angels |
+| B3 | Sit Silent |
+| B4 | Swirl |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: []
 | Format         | Vinyl LP Stereo (Sky Blue) |
 | Label          | Burning Shed |
 | Catalog Number | BSHED2401V |
-| Notes | 180g Sky Blue vinyl edition -a  Burning Shed exclusive. <br><br>A1 to A5 recorded at Susurreal Studios, Sandford, Devon in Autumn 1989.<br>B1 to B4 recorded at Nomansland, Hemel Hempstead between Summer 1989 and Summer 1990.<br>A1 to A4 taken from '[r=2094234]', a self-released cassette, Autumn 1989.<br><br>Mastered by Steven Wilson, Autumn 2023.<br><br>℗ & © 2023 no-man under exclusive license to Burning shed.<br><br> |
+| Notes | 180g Sky Blue vinyl edition -a  Burning Shed exclusive.   A1 to A5 recorded at Susurreal Studios, Sandford, Devon in Autumn 1989. B1 to B4 recorded at Nomansland, Hemel Hempstead between Summer 1989 and Summer 1990. A1 to A4 taken from '[r=2094234]', a self-released cassette, Autumn 1989.  Mastered by Steven Wilson, Autumn 2023.  ℗ & © 2023 no-man under exclusive license to Burning shed.   |
 | Discogs URL    | [No-Man - Swagger (Lost Not Lost Volume One: 1989/1990)](https://www.discogs.com/release/29642302-No-Man-Swagger-Lost-Not-Lost-Volume-One-19891990) |

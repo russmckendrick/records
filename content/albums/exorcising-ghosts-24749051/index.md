@@ -39,24 +39,24 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Methods Of Dance |  |
-| A2 | Swing |  |
-| A3 | Gentlemen Take Polaroids |  |
-| A4 | Quiet Life |  |
-| B1 | A Foreign Place |  |
-| B2 | Nightporter |  |
-| B3 | My New Career |  |
-| B4 | The Other Side Of Life |  |
-| C1 | Visions Of China |  |
-| C2 | Taking Islands In Africa |  |
-| C3 | Ghosts |  |
-| C4 | Sons Of Pioneers |  |
-| D1 | Voices Raised In Welcome, Hands Held In Prayer |  |
-| D2 | Life Without Buildings |  |
-| D3 | Talking Drum |  |
-| D4 | The Art Of Parties |  |
+| Position | Title |
+|----------|--------|
+| A1 | Methods Of Dance |
+| A2 | Swing |
+| A3 | Gentlemen Take Polaroids |
+| A4 | Quiet Life |
+| B1 | A Foreign Place |
+| B2 | Nightporter |
+| B3 | My New Career |
+| B4 | The Other Side Of Life |
+| C1 | Visions Of China |
+| C2 | Taking Islands In Africa |
+| C3 | Ghosts |
+| C4 | Sons Of Pioneers |
+| D1 | Voices Raised In Welcome, Hands Held In Prayer |
+| D2 | Life Without Buildings |
+| D3 | Talking Drum |
+| D4 | The Art Of Parties |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 | Format         | Vinyl 2× LP Compilation Reissue (Half Speed Mastered) |
 | Label          | Virgin EMI Records |
 | Catalog Number | ARHSDLP009 |
-| Notes | A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.<br><br>℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd. <br> © 2022 Virgin Records Limited.<br><br>Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.<br><br>Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.<br> |
+| Notes | A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.  |
 | Discogs URL    | [Japan - Exorcising Ghosts](https://www.discogs.com/release/24749051-Japan-Exorcising-Ghosts) |

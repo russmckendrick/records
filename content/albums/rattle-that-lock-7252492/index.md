@@ -53,18 +53,18 @@ The album received generally positive reviews from critics and was a commercial 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 5 A.M. |  |
-| A2 | Rattle That Lock |  |
-| A3 | Faces Of Stone |  |
-| A4 | A Boat Lies Waiting |  |
-| A5 | Dancing Right In Front Of Me |  |
-| B1 | In Any Tongue |  |
-| B2 | Beauty |  |
-| B3 | The Girl In The Yellow Dress |  |
-| B4 | Today |  |
-| B5 | And Then... |  |
+| Position | Title |
+|----------|--------|
+| A1 | 5 A.M. |
+| A2 | Rattle That Lock |
+| A3 | Faces Of Stone |
+| A4 | A Boat Lies Waiting |
+| A5 | Dancing Right In Front Of Me |
+| B1 | In Any Tongue |
+| B2 | Beauty |
+| B3 | The Girl In The Yellow Dress |
+| B4 | Today |
+| B5 | And Then... |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ The album received generally positive reviews from critics and was a commercial 
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 88875123291 |
-| Notes | Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions.<br>[url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release. |
+| Notes | Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release. |
 | Discogs URL    | [David Gilmour - Rattle That Lock](https://www.discogs.com/release/7252492-David-Gilmour-Rattle-That-Lock) |

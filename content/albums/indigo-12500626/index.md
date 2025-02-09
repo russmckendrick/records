@@ -25,21 +25,21 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Need The Real Thing | 3:26 |
-| A2 | Breakdown   | 3:19 |
-| A3 | Fix Me | 4:33 |
-| A4 | Indigo (Pt. 1) | 0:34 |
-| A5 | Piece Of Me | 5:09 |
-| A6 | 6 8 | 5:33 |
-| A7 | Indigo (Pt. 2) | 0:34 |
-| B1 | People Make The World Go 'Round | 5:04 |
-| B2 | Unsophisticated  | 3:27 |
-| B3 | Black Orchid | 3:29 |
-| B4 | Love Sucks | 3:55 |
-| B5 | The First Time Ever I Saw Your Face | 5:40 |
-| B6 | Simple Things  | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Need The Real Thing |
+| A2 | Breakdown   |
+| A3 | Fix Me |
+| A4 | Indigo (Pt. 1) |
+| A5 | Piece Of Me |
+| A6 | 6 8 |
+| A7 | Indigo (Pt. 2) |
+| B1 | People Make The World Go 'Round |
+| B2 | Unsophisticated  |
+| B3 | Black Orchid |
+| B4 | Love Sucks |
+| B5 | The First Time Ever I Saw Your Face |
+| B6 | Simple Things  |
 
 
 ## Apple Music

@@ -30,18 +30,18 @@ Three singles were issued from Ride a Rock Horse: "Get Your Love", "Walking the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get Your Love |  |
-| A2 | Hearts Right |  |
-| A3 | Oceans Away |  |
-| A4 | Proud |  |
-| A5 | World Over |  |
-| B1 | Near To Surrender |  |
-| B2 | Feeling |  |
-| B3 | Walking The Dog |  |
-| B4 | Milk Train |  |
-| B5 | Born To Sing Your Song |  |
+| Position | Title |
+|----------|--------|
+| A1 | Get Your Love |
+| A2 | Hearts Right |
+| A3 | Oceans Away |
+| A4 | Proud |
+| A5 | World Over |
+| B1 | Near To Surrender |
+| B2 | Feeling |
+| B3 | Walking The Dog |
+| B4 | Milk Train |
+| B5 | Born To Sing Your Song |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Three singles were issued from Ride a Rock Horse: "Get Your Love", "Walking the 
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | ACB 199 |
-| Notes | Fully laminated sleeve printed by James Upton Ltd<br>Made in England |
+| Notes | Fully laminated sleeve printed by James Upton Ltd Made in England |
 | Discogs URL    | [Roger Daltrey - Ride A Rock Horse](https://www.discogs.com/release/4105977-Roger-Daltrey-Ride-A-Rock-Horse) |

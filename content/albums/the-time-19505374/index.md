@@ -37,20 +37,20 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get It Up | 9:08 |
-| A2 | Girl | 5:36 |
-| A3 | After Hi School | 4:22 |
-| B1 | Cool | 10:06 |
-| B2 | Oh, Baby | 4:59 |
-| B3 | The Stick | 8:22 |
-| C1 | Get It Up (Single Edit) | 3:01 |
-| C2 | Girl (Edit) | 3:40 |
-| C3 | Cool (Part I) | 3:12 |
-| D1 | Cool (Part II) | 3:06 |
-| D2 | After Hi School (Single Edit) | 2:48 |
-| D3 | The Stick (Single Edit) | 3:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Get It Up |
+| A2 | Girl |
+| A3 | After Hi School |
+| B1 | Cool |
+| B2 | Oh, Baby |
+| B3 | The Stick |
+| C1 | Get It Up (Single Edit) |
+| C2 | Girl (Edit) |
+| C3 | Cool (Part I) |
+| D1 | Cool (Part II) |
+| D2 | After Hi School (Single Edit) |
+| D3 | The Stick (Single Edit) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 | Format         | Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
 | Label          | Warner Records |
 | Catalog Number | 603497843954 |
-| Notes | Hype sticker:<br>The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides<br>Limited edition red and white vinyl<br><br>Optional:<br>Copies sold in Italy have a holographic SIAE sticker from 'Warner music'<br><br>Cover:<br>This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.<br><br>LP1: Red vinyl in plain white poly-lined inner-sleeve<br>LP2: White vinyl in plain black poly-lined inner-sleeve |
+| Notes | Hype sticker: The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides Limited edition red and white vinyl  Optional: Copies sold in Italy have a holographic SIAE sticker from 'Warner music'  Cover: This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.  LP1: Red vinyl in plain white poly-lined inner-sleeve LP2: White vinyl in plain black poly-lined inner-sleeve |
 | Discogs URL    | [The Time - The Time](https://www.discogs.com/release/19505374-The-Time-The-Time) |

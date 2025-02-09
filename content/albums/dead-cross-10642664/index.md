@@ -34,18 +34,18 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seizure And Desist |  |
-| A2 | Idiopathic |  |
-| A3 | Obedience School |  |
-| A4 | Shillelagh |  |
-| A5 | Bela Lugosi's Dead |  |
-| B6 | Divine Filth |  |
-| B7 | Grave Slave |  |
-| B8 | The Future Has Been Cancelled |  |
-| B9 | Gag Reflex |  |
-| B10 | Church Of The Motherfuckers |  |
+| Position | Title |
+|----------|--------|
+| A1 | Seizure And Desist |
+| A2 | Idiopathic |
+| A3 | Obedience School |
+| A4 | Shillelagh |
+| A5 | Bela Lugosi's Dead |
+| B6 | Divine Filth |
+| B7 | Grave Slave |
+| B8 | The Future Has Been Cancelled |
+| B9 | Gag Reflex |
+| B10 | Church Of The Motherfuckers |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 | Format         | Vinyl LP 45 RPM Album Limited Edition (Gold) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC193LP |
-| Notes | Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).<br><br>Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix.  |
+| Notes | Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix.  |
 | Discogs URL    | [Dead Cross - Dead Cross](https://www.discogs.com/release/10642664-Dead-Cross-Dead-Cross) |

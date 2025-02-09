@@ -39,15 +39,15 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Achilles Last Stand | 10:30 |
-| A2 | For Your Life | 6:25 |
-| A3 | Royal Orleans | 2:59 |
-| B1 | Nobody's Fault But Mine | 6:27 |
-| B2 | Candy Store Rock | 4:11 |
-| B3 | Hots On For Nowhere | 4:44 |
-| B4 | Tea For One | 9:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Achilles Last Stand |
+| A2 | For Your Life |
+| A3 | Royal Orleans |
+| B1 | Nobody's Fault But Mine |
+| B2 | Candy Store Rock |
+| B3 | Hots On For Nowhere |
+| B4 | Tea For One |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Swan Song |
 | Catalog Number | 8122796579 |
-| Notes | Housed in a gatefold jacket and issued in a white poly lined inner sleeve. The jacket has the following embossed details: LED ZEPPELIN PRESENCE at the top right corner on the front, and the Swan Song angel at the bottom left corner on the rear. Includes a large format insert which is identical on both sides.<br><br>Runouts are etched.<br>Runout side A, variant 2: string '2X' is inverted<br>Runout side B, variant 2: string '41T' is inverted<br>Runout side A, variant 3: string '21V' is inverted<br>Runout side B, variant 3: string 'V9' is inverted<br><br>[Sticker on shrink wrap:]<br>The classic 1976 album<br>on 180G vinyl<br>Includes Achilles Last Stand<br>& Nobody's Fault But Mine<br>Remastered & Produced by Jimmy Page<br><br>[Rear sleeve:]<br>Swan Song Inc. ℗ & © 1976 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU. "The Object" © 1976 Swan Song Inc.<br><br>[Insert:]<br>Recorded and mixed at Musicland Studios Munich West Germany |
+| Notes | Housed in a gatefold jacket and issued in a white poly lined inner sleeve. The jacket has the following embossed details: LED ZEPPELIN PRESENCE at the top right corner on the front, and the Swan Song angel at the bottom left corner on the rear. Includes a large format insert which is identical on both sides.  Runouts are etched. Runout side A, variant 2: string '2X' is inverted Runout side B, variant 2: string '41T' is inverted Runout side A, variant 3: string '21V' is inverted Runout side B, variant 3: string 'V9' is inverted  [Sticker on shrink wrap:] The classic 1976 album on 180G vinyl Includes Achilles Last Stand & Nobody's Fault But Mine Remastered & Produced by Jimmy Page  [Rear sleeve:] Swan Song Inc. ℗ & © 1976 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU. "The Object" © 1976 Swan Song Inc.  [Insert:] Recorded and mixed at Musicland Studios Munich West Germany |
 | Discogs URL    | [Led Zeppelin - Presence](https://www.discogs.com/release/7303488-Led-Zeppelin-Presence) |

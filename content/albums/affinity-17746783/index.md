@@ -27,26 +27,26 @@ styles: ["Progressive Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A01 | Affinity.exe | 1:24 |
-| A02 | Initiate | 4:16 |
-| A03 | 1985 | 9:09 |
-| A04 | Lapse | 4:44 |
-| B01 | The Architect | 15:40 |
-| C01 | Earthrise | 4:48 |
-| C02 | Red Giant | 6:06 |
-| D01 | The Endless Knot | 5:50 |
-| D02 | Bound By Gravity | 9:29 |
-| CD-1 | Affinity.exe | 1:24 |
-| CD-2 | Initiate | 4:16 |
-| CD-3 | 1985 | 9:09 |
-| CD-4 | Lapse | 4:44 |
-| CD-5 | The Architect | 15:40 |
-| CD-6 | Earthrise | 4:48 |
-| CD-7 | Red Giant | 6:06 |
-| CD-8 | The Endless Knot | 5:50 |
-| CD-9 | Bound By Gravity | 9:29 |
+| Position | Title |
+|----------|--------|
+| A01 | Affinity.exe |
+| A02 | Initiate |
+| A03 | 1985 |
+| A04 | Lapse |
+| B01 | The Architect |
+| C01 | Earthrise |
+| C02 | Red Giant |
+| D01 | The Endless Knot |
+| D02 | Bound By Gravity |
+| CD-1 | Affinity.exe |
+| CD-2 | Initiate |
+| CD-3 | 1985 |
+| CD-4 | Lapse |
+| CD-5 | The Architect |
+| CD-6 | Earthrise |
+| CD-7 | Red Giant |
+| CD-8 | The Endless Knot |
+| CD-9 | Bound By Gravity |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Progressive Metal"]
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |
-| Notes | Gatefold sleeve. Black vinyl version.<br><br>LP tracks position given with 0s on back. |
+| Notes | Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back. |
 | Discogs URL    | [Haken - Affinity](https://www.discogs.com/release/17746783-Haken-2-Affinity) |

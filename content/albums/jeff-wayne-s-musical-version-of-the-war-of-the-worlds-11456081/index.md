@@ -40,24 +40,24 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Coming Of The Martians |  |
-| A1 | The Eve Of The War |  |
-| A2 | Horsell Common And The Heat Ray |  |
-| B1 | The Artilleryman And The Fighting Machine |  |
-| B2 | Forever Autumn |  |
-| B3 | Thunderchild |  |
-|  | The Earth Under The Martians |  |
-| C1 | The Red Weed (Part 1) |  |
-| C2 | The Spirit Of Man |  |
-| C3 | The Red Weed (Part 2) |  |
-| C4 | The Artilleryman Returns |  |
-| D1 | Brave New World |  |
-| D2 | Dead London (Part 1) |  |
-| D3 | Dead London (Part 2) |  |
-| D4 | Epilogue (Part 1) |  |
-| D5 | Epilogue (Part 2) (NASA) |  |
+| Position | Title |
+|----------|--------|
+|  | The Coming Of The Martians |
+| A1 | The Eve Of The War |
+| A2 | Horsell Common And The Heat Ray |
+| B1 | The Artilleryman And The Fighting Machine |
+| B2 | Forever Autumn |
+| B3 | Thunderchild |
+|  | The Earth Under The Martians |
+| C1 | The Red Weed (Part 1) |
+| C2 | The Spirit Of Man |
+| C3 | The Red Weed (Part 2) |
+| C4 | The Artilleryman Returns |
+| D1 | Brave New World |
+| D2 | Dead London (Part 1) |
+| D3 | Dead London (Part 2) |
+| D4 | Epilogue (Part 1) |
+| D5 | Epilogue (Part 2) (NASA) |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 | Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
 | Label          | Sony Music |
 | Catalog Number | 88985449431 |
-| Notes | Includes full colour 16-page booklet.<br>℗ 2005 & © 2017<br>Made in the EU |
+| Notes | Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU |
 | Discogs URL    | [Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds](https://www.discogs.com/release/11456081-Jeff-Wayne-Jeff-Waynes-Musical-Version-Of-The-War-Of-The-Worlds) |

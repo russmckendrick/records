@@ -45,19 +45,19 @@ Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 20
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Killer Star | 4:40 |
-| A2 | Pablo Picasso | 4:05 |
-| A3 | Never Get Old | 4:25 |
-| A4 | The Loneliest Guy | 4:12 |
-| A5 | Looking For Water | 3:32 |
-| A6 | She'll Drive The Big Car | 4:32 |
-| B1 | Days | 3:19 |
-| B2 | Fall Dog Bombs The Moon | 4:02 |
-| B3 | Try Some, Buy Some | 4:25 |
-| B4 | Reality | 4:22 |
-| B5 | Bring Me The Disco King | 7:47 |
+| Position | Title |
+|----------|--------|
+| A1 | New Killer Star |
+| A2 | Pablo Picasso |
+| A3 | Never Get Old |
+| A4 | The Loneliest Guy |
+| A5 | Looking For Water |
+| A6 | She'll Drive The Big Car |
+| B1 | Days |
+| B2 | Fall Dog Bombs The Moon |
+| B3 | Try Some, Buy Some |
+| B4 | Reality |
+| B5 | Bring Me The Disco King |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 20
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP875 |
-| Notes | Black vinyl edition.<br>180 gram audiophile vinyl.<br>Includes a 12-page booklet.<br><br>Originally released ℗ & © 2003 ISO Records. This release ℗ & © 2014 Sony Music Entertainment made under license from ISO Records. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. "Columbia and (Logo) reg. U.S. Pat. & TM off Marca Registrada. Warning all rights reserved. Unauthorized duplication is a violation of applicable laws.<br><br>Acoustic Piano on The Loneliest Guy recorded at The Hitching Post Studio.<br>Recorded at The Looking Glass Studios, New York.<br>Mastered at The Lodge, New York, NY.<br><br>All songs published by Nipple Music (BMI) administered by RZO Music, Inc. except Pablo Picasso published by Modern Love Songs (ASCAP), Try Some, Buy Some © 1971 Harrisongs Ltd (PRS/ASCAP) published by Harrisongs Ltd (PRS), and Bring Me The Disco King published by Tintoretto Music (BMI) administred by RZO Music, Inc.<br><br>Runouts are laser-etched. The "B" side B is etched over an "A". |
+| Notes | Black vinyl edition. 180 gram audiophile vinyl. Includes a 12-page booklet.  Originally released ℗ & © 2003 ISO Records. This release ℗ & © 2014 Sony Music Entertainment made under license from ISO Records. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. "Columbia and (Logo) reg. U.S. Pat. & TM off Marca Registrada. Warning all rights reserved. Unauthorized duplication is a violation of applicable laws.  Acoustic Piano on The Loneliest Guy recorded at The Hitching Post Studio. Recorded at The Looking Glass Studios, New York. Mastered at The Lodge, New York, NY.  All songs published by Nipple Music (BMI) administered by RZO Music, Inc. except Pablo Picasso published by Modern Love Songs (ASCAP), Try Some, Buy Some © 1971 Harrisongs Ltd (PRS/ASCAP) published by Harrisongs Ltd (PRS), and Bring Me The Disco King published by Tintoretto Music (BMI) administred by RZO Music, Inc.  Runouts are laser-etched. The "B" side B is etched over an "A". |
 | Discogs URL    | [David Bowie - Reality](https://www.discogs.com/release/5509641-David-Bowie-Reality) |

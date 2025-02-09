@@ -38,32 +38,32 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Delta Sweete: Remixed |  |
-| A1 | Okolona River Bottom Band |  |
-| A2 | Big Boss Man |  |
-| A3 | Reunion |  |
-| A4 | Parchman Farm |  |
-| A5 | Mornin' Glory |  |
-| A6 | Sermon |  |
-| B1 | Tobacco Road |  |
-| B2 | Penduli Pendulum |  |
-| B3 | Jessye' Lisabeth |  |
-| B4 | Refractions |  |
-| B5 | Louisiana Man |  |
-| B6 | Courtyard |  |
-|  | The Delta Sweete: Bonus Tracks |  |
-| C1 | Okolona River Bottom Band (Special Instrumental) |  |
-| C2 | Mississippi Delta (Alternate Version) |  |
-| C3 | Seventh Son (Band Version) |  |
-| C4 | The Way I Do (Demo) |  |
-| C5 | Feelin' Good (Demo) |  |
-| D1 | Mornin' Glory (Demo) |  |
-| D2 | Sermon (Demo) |  |
-| D3 | Jessye' Lisabeth (Demo) |  |
-| D4 | Refractions (Demo) |  |
-| D5 | Louisiana Man (Demo) |  |
+| Position | Title |
+|----------|--------|
+|  | The Delta Sweete: Remixed |
+| A1 | Okolona River Bottom Band |
+| A2 | Big Boss Man |
+| A3 | Reunion |
+| A4 | Parchman Farm |
+| A5 | Mornin' Glory |
+| A6 | Sermon |
+| B1 | Tobacco Road |
+| B2 | Penduli Pendulum |
+| B3 | Jessye' Lisabeth |
+| B4 | Refractions |
+| B5 | Louisiana Man |
+| B6 | Courtyard |
+|  | The Delta Sweete: Bonus Tracks |
+| C1 | Okolona River Bottom Band (Special Instrumental) |
+| C2 | Mississippi Delta (Alternate Version) |
+| C3 | Seventh Son (Band Version) |
+| C4 | The Way I Do (Demo) |
+| C5 | Feelin' Good (Demo) |
+| D1 | Mornin' Glory (Demo) |
+| D2 | Sermon (Demo) |
+| D3 | Jessye' Lisabeth (Demo) |
+| D4 | Refractions (Demo) |
+| D5 | Louisiana Man (Demo) |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Stereo (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 00600753904770 |
-| Notes | Writing credits as given on inner sleeve<br><br>Gatefold sleeve with flipback design, includes two printed inner sleeves.<br><br>Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.<br><br>Includes Download Code<br><br>Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print. |
+| Notes | Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print. |
 | Discogs URL    | [Bobbie Gentry - The Delta Sweete](https://www.discogs.com/release/15623295-Bobbie-Gentry-The-Delta-Sweete) |

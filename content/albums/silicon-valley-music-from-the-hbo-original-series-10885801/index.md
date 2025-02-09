@@ -30,23 +30,23 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stretch Your Face |  |
-| A2 | Systematic |  |
-| A3 | Kool Aid |  |
-| A4 | Passports |  |
-| A5 | You Came To Party |  |
-| A6 | Blue Flowers |  |
-| A7 | Fun House |  |
-| A8 | Phantom (Redux) |  |
-| B1 | The Mule |  |
-| B2 | Nobody Speak |  |
-| B3 | Don't Stop |  |
-| B4 | On My Own Old Man Saxon |  |
-| B5 | Problem Child |  |
-| B6 | Blown |  |
-| B7 | Walking On Sunshine |  |
+| Position | Title |
+|----------|--------|
+| A1 | Stretch Your Face |
+| A2 | Systematic |
+| A3 | Kool Aid |
+| A4 | Passports |
+| A5 | You Came To Party |
+| A6 | Blue Flowers |
+| A7 | Fun House |
+| A8 | Phantom (Redux) |
+| B1 | The Mule |
+| B2 | Nobody Speak |
+| B3 | Don't Stop |
+| B4 | On My Own Old Man Saxon |
+| B5 | Problem Child |
+| B6 | Blown |
+| B7 | Walking On Sunshine |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 | Format         | Vinyl LP Album Compilation (Red Translucent) |
 | Label          | HBO |
 | Catalog Number | MSAP 0043LP |
-| Notes | Red Vinyl Pressing of Original Soundtrack<br><br>Poster insert and digital download card included. |
+| Notes | Red Vinyl Pressing of Original Soundtrack  Poster insert and digital download card included. |
 | Discogs URL    | [Various - Silicon Valley (Music From The HBO Original Series)](https://www.discogs.com/release/10885801-Various-Silicon-Valley-Music-From-The-HBO-Original-Series) |

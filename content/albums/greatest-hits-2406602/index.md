@@ -34,26 +34,26 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Down By The River | 9:13 |
-| A2 | Cowgirl In The Sand | 10:05 |
-| B1 | Cinnamon Girl | 2:59 |
-| B2 | Helpless | 3:34 |
-| B3 | After The Gold Rush | 3:45 |
-| B4 | Only Love Can Break Your Heart | 3:05 |
-| B5 | Southern Man | 5:31 |
-| C1 | Ohio | 2:56 |
-| C2 | The Needle And The Damage Done | 2:10 |
-| C3 | Old Man | 3:22 |
-| C4 | Heart Of Gold | 3:05 |
-| C5 | Like A Hurricane | 8:21 |
-| D1 | Comes A Time | 3:05 |
-| D2 | Hey Hey My My (Into The Black) | 5:14 |
-| D3 | Rockin In The Free World | 4:42 |
-| D4 | Harvest Moon | 5:03 |
-| E | The Loner | 3:20 |
-| F | Sugar Mountain | 5:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Down By The River |
+| A2 | Cowgirl In The Sand |
+| B1 | Cinnamon Girl |
+| B2 | Helpless |
+| B3 | After The Gold Rush |
+| B4 | Only Love Can Break Your Heart |
+| B5 | Southern Man |
+| C1 | Ohio |
+| C2 | The Needle And The Damage Done |
+| C3 | Old Man |
+| C4 | Heart Of Gold |
+| C5 | Like A Hurricane |
+| D1 | Comes A Time |
+| D2 | Hey Hey My My (Into The Black) |
+| D3 | Rockin In The Free World |
+| D4 | Harvest Moon |
+| E | The Loner |
+| F | Sugar Mountain |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 | Format         | Vinyl 2× LP (180 Gram), Vinyl 7" Stereo Mono, All Media Compilation Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 521636-1 |
-| Notes | Cat# on the spine (521636-1) differs from cat# on the labels (512636-1). <br><br>Cut from compiled 30ips analog master tapes prepared by John Nowland at Neil Young's Redwood Ranch Studios and mastered at Bernie Grundman Mastering. <br>The Reprise reissue is pressed on 180 gram vinyl. Includes fold-out insert.<br><br>The included bonus 7" is on standard black vinyl with Side 1 (Stereo) and Side 2 (Mono).<br><br>A1 to B1 - From the album Everybody Know This Is Nowhere, Reprise Records RS 6349.<br>B2 - From the album Déjà Vu, Atlantic Records SD-7200.<br>B3 to B5 - From the album After The Gold Rush, Reprise Records RS 6383.<br>C1 - From the Atlantic Records single 45-2740.<br>C2 to C4 - From the album Harvest, Reprise Records MS 2032.<br>C5 - From the album American Stars 'N Bars, Reprise Records MSK 2261.<br>D1 - From the album Comes A Time, Reprise Records MSK 2266.<br>D2- From the album Rust Never Sleeps, Reprise Records HS 2295.<br>D3 - From the album Freedom, Reprise Records 25899.<br>D4 - From the album Harvest Moon, Reprise Records 45057.<br>E - From the Reprise Album RS 6317 - "Neil Young".<br>F - Recorded "Live" at the Canterbury House.<br><br>A1 to C2, E to F - Published by Broken Arrow Music Corp. (ASCAP).<br>C3, D3 to D4 - Published by Broken Fiddle Music (ASCAP).<br>C4 to D1 - Published by Silver Fiddle Music (ASCAP).<br>D2 - Published by Broken Arrow Music Corp./Broken Fiddle Music (ASCAP).<br><br>Runouts etched except pressing code '-1972x-' stamped. |
+| Notes | Cat# on the spine (521636-1) differs from cat# on the labels (512636-1).   Cut from compiled 30ips analog master tapes prepared by John Nowland at Neil Young's Redwood Ranch Studios and mastered at Bernie Grundman Mastering.  The Reprise reissue is pressed on 180 gram vinyl. Includes fold-out insert.  The included bonus 7" is on standard black vinyl with Side 1 (Stereo) and Side 2 (Mono).  A1 to B1 - From the album Everybody Know This Is Nowhere, Reprise Records RS 6349. B2 - From the album Déjà Vu, Atlantic Records SD-7200. B3 to B5 - From the album After The Gold Rush, Reprise Records RS 6383. C1 - From the Atlantic Records single 45-2740. C2 to C4 - From the album Harvest, Reprise Records MS 2032. C5 - From the album American Stars 'N Bars, Reprise Records MSK 2261. D1 - From the album Comes A Time, Reprise Records MSK 2266. D2- From the album Rust Never Sleeps, Reprise Records HS 2295. D3 - From the album Freedom, Reprise Records 25899. D4 - From the album Harvest Moon, Reprise Records 45057. E - From the Reprise Album RS 6317 - "Neil Young". F - Recorded "Live" at the Canterbury House.  A1 to C2, E to F - Published by Broken Arrow Music Corp. (ASCAP). C3, D3 to D4 - Published by Broken Fiddle Music (ASCAP). C4 to D1 - Published by Silver Fiddle Music (ASCAP). D2 - Published by Broken Arrow Music Corp./Broken Fiddle Music (ASCAP).  Runouts etched except pressing code '-1972x-' stamped. |
 | Discogs URL    | [Neil Young - Greatest Hits](https://www.discogs.com/release/2406602-Neil-Young-Greatest-Hits) |

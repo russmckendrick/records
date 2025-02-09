@@ -42,23 +42,23 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Around The World | 3:59 |
-| A2 | Parallel Universe | 4:31 |
-| A3 | Scar Tissue | 3:37 |
-| A4 | Otherside | 4:16 |
-| B1 | Get On Top | 3:18 |
-| B2 | Californication | 5:21 |
-| B3 | Easily | 3:51 |
-| C1 | Porcelain | 2:44 |
-| C2 | Emit Remmus | 4:00 |
-| C3 | I Like Dirt | 2:37 |
-| C4 | This Velvet Glove | 3:45 |
-| D1 | Savior | 4:52 |
-| D2 | Purple Stain | 4:13 |
-| D3 | Right On Time | 1:53 |
-| D4 | Road Trippin' | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Around The World |
+| A2 | Parallel Universe |
+| A3 | Scar Tissue |
+| A4 | Otherside |
+| B1 | Get On Top |
+| B2 | Californication |
+| B3 | Easily |
+| C1 | Porcelain |
+| C2 | Emit Remmus |
+| C3 | I Like Dirt |
+| C4 | This Velvet Glove |
+| D1 | Savior |
+| D2 | Purple Stain |
+| D3 | Right On Time |
+| D4 | Road Trippin' |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 | Format         | Vinyl LP (Red Opaque), Vinyl LP (Blue Opaque [Ocean Blue]), All Media Album Limited Edition Reissue Repress (25th Anniversary Edition) |
 | Label          | Warner Records |
 | Catalog Number | 93624843276 |
-| Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl. <br><br>Comes with colored lyrics sheet and white die-cut inner sleeves. <br><br>"Manufactured in Germany" on labels and "Made in Germany" on insert. <br><br>Different runouts than [r31325104]. |
+| Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl.   Comes with colored lyrics sheet and white die-cut inner sleeves.   "Manufactured in Germany" on labels and "Made in Germany" on insert.   Different runouts than [r31325104]. |
 | Discogs URL    | [Red Hot Chili Peppers - Californication](https://www.discogs.com/release/31323387-Red-Hot-Chili-Peppers-Californication) |

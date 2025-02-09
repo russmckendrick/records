@@ -28,19 +28,19 @@ The album was a commercial and critical success, reaching number 2 in the United
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Idiot Country | 5:03 |
-| A2 | Reality | 5:39 |
-| A3 | Tighten Up | 4:38 |
-| A4 | The Patience Of A Saint | 4:10 |
-| A5 | Getting Away With It | 5:14 |
-| B1 | Gangster | 5:26 |
-| B2 | Soviet | 2:00 |
-| B3 | Get The Message | 5:20 |
-| B4 | Try All You Want | 5:37 |
-| B5 | Some Distant Memory | 4:09 |
-| B6 | Feel Every Beat | 5:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Idiot Country |
+| A2 | Reality |
+| A3 | Tighten Up |
+| A4 | The Patience Of A Saint |
+| A5 | Getting Away With It |
+| B1 | Gangster |
+| B2 | Soviet |
+| B3 | Get The Message |
+| B4 | Try All You Want |
+| B5 | Some Distant Memory |
+| B6 | Feel Every Beat |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The album was a commercial and critical success, reaching number 2 in the United
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered |
 | Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | Fact 290 |
-| Notes | The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994. <br> |
+| Notes | The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.   |
 | Discogs URL    | [Electronic - Electronic](https://www.discogs.com/release/14694007-Electronic-Electronic) |

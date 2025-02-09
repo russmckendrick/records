@@ -30,17 +30,17 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Heart Of Rock & Roll | 5:01 |
-| A2 | Heart And Soul | 4:10 |
-| A3 | Bad Is Bad | 3:46 |
-| A4 | I Want A New Drug | 4:46 |
-| B1 | Walking On A Thin Line | 5:08 |
-| B2 | Finally Found A Home | 3:42 |
-| B3 | If This Is It | 3:46 |
-| B4 | You Crack Me Up | 3:39 |
-| B5 | Honky Tonk Blues | 3:16 |
+| Position | Title |
+|----------|--------|
+| A1 | The Heart Of Rock & Roll |
+| A2 | Heart And Soul |
+| A3 | Bad Is Bad |
+| A4 | I Want A New Drug |
+| B1 | Walking On A Thin Line |
+| B2 | Finally Found A Home |
+| B3 | If This Is It |
+| B4 | You Crack Me Up |
+| B5 | Honky Tonk Blues |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 | Format         | Vinyl LP Album Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1412 |
-| Notes | Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.<br><br>A2 credits Chinnichap/RAK Music.<br>Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd. |
+| Notes | Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.  A2 credits Chinnichap/RAK Music. Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd. |
 | Discogs URL    | [Huey Lewis  The News - Sports](https://www.discogs.com/release/1066355-Huey-Lewis-And-The-News-Sports) |

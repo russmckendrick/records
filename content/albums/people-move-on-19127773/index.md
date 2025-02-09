@@ -36,20 +36,20 @@ Music critics gave People Move On generally favourable reviews, though some of t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Woman I Know | 7:51 |
-| A2 | You Just Know | 4:39 |
-| A3 | People Move On | 4:39 |
-| B1 | A Change Of Heart | 4:40 |
-| B2 | Autograph | 8:45 |
-| B3 | You Light The Fire | 3:53 |
-| C1 | Not Alone | 3:52 |
-| C2 | When You Grow | 5:25 |
-| C3 | You've Got What It Takes | 4:50 |
-| D1 | Stay | 5:16 |
-| D2 | In Vain | 4:55 |
-| D3 | I'm Tired | 4:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Woman I Know |
+| A2 | You Just Know |
+| A3 | People Move On |
+| B1 | A Change Of Heart |
+| B2 | Autograph |
+| B3 | You Light The Fire |
+| C1 | Not Alone |
+| C2 | When You Grow |
+| C3 | You've Got What It Takes |
+| D1 | Stay |
+| D2 | In Vain |
+| D3 | I'm Tired |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Music critics gave People Move On generally favourable reviews, though some of t
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear, 180 Gram) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC879 |
-| Notes | Record Store Day 2021 Release<br><br>With printed inner sleeves.<br><br>Made in EU<br> |
+| Notes | Record Store Day 2021 Release  With printed inner sleeves.  Made in EU  |
 | Discogs URL    | [Bernard Butler - People Move On](https://www.discogs.com/release/19127773-Bernard-Butler-People-Move-On) |

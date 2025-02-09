@@ -34,20 +34,20 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shelf In The Room | 4:44 |
-| A2 | Touch, Peel And Stand | 4:58 |
-| A3 | Face Of The Earth | 5:17 |
-| A4 | Solitude | 4:11 |
-| B1 | The Down Town | 4:17 |
-| B2 | What's Left For Me? | 5:27 |
-| B3 | Freak | 5:24 |
-| C1 | Now | 5:05 |
-| C2 | Whimsical | 6:02 |
-| C3 | Where I Stand | 5:39 |
-| D1 | How Do You Know You? | 5:34 |
-| D2 | Cling | 15:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Shelf In The Room |
+| A2 | Touch, Peel And Stand |
+| A3 | Face Of The Earth |
+| A4 | Solitude |
+| B1 | The Down Town |
+| B2 | What's Left For Me? |
+| B3 | Freak |
+| C1 | Now |
+| C2 | Whimsical |
+| C3 | Where I Stand |
+| D1 | How Do You Know You? |
+| D2 | Cling |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3244 |
-| Notes | Includes insert with lyrics.<br>Available on vinyl for the first time.<br>Original release ℗ 1997 Outpost Recordings. This release ℗ & © 2023 Universal Music. |
+| Notes | Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 1997 Outpost Recordings. This release ℗ & © 2023 Universal Music. |
 | Discogs URL    | [Days Of The New - Days Of The New](https://www.discogs.com/release/25237945-Days-Of-The-New-Days-Of-The-New) |

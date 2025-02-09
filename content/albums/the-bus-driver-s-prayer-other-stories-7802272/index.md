@@ -28,22 +28,22 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | That's Enough Of That | 4:49 |
-| A2 | Bill Haley's Last Words | 2:43 |
-| A3 | Poor Joey | 3:50 |
-| A4 | Quick Quick Slow | 3:14 |
-| A5 | Fly InTthe Ointment | 2:55 |
-| A6 | O' Donegal | 3:49 |
-| A7 | Poo-Poo In The Prawn | 3:15 |
-| B1 | London Talking | 1:10 |
-| B2 | Have A Word | 3:54 |
-| B3 | D'Orine The Cow | 3:18 |
-| B4 | Your Horoscope | 3:59 |
-| B5 | No Such Thing As Love | 3:36 |
-| B6 | Two Old Dogs Without A Name | 4:43 |
-| B7 | The Bus Driver's Prayer | 0:58 |
+| Position | Title |
+|----------|--------|
+| A1 | That's Enough Of That |
+| A2 | Bill Haley's Last Words |
+| A3 | Poor Joey |
+| A4 | Quick Quick Slow |
+| A5 | Fly InTthe Ointment |
+| A6 | O' Donegal |
+| A7 | Poo-Poo In The Prawn |
+| B1 | London Talking |
+| B2 | Have A Word |
+| B3 | D'Orine The Cow |
+| B4 | Your Horoscope |
+| B5 | No Such Thing As Love |
+| B6 | Two Old Dogs Without A Name |
+| B7 | The Bus Driver's Prayer |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Power Pop", "Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC61 |
-| Notes | Manufactured in the EU<br><br>180-Gram Heavyweight Vinyl job |
+| Notes | Manufactured in the EU  180-Gram Heavyweight Vinyl job |
 | Discogs URL    | [Ian Dury - The Bus Driver's Prayer & Other Stories](https://www.discogs.com/release/7802272-Ian-Dury-The-Bus-Drivers-Prayer-Other-Stories) |

@@ -32,25 +32,25 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Here Comes The Nice | 2:57 |
-| A2 | Talk To You | 2:07 |
-| A3 | Get Yourself Together | 2:19 |
-| A4 | Become Like You | 1:58 |
-| A5 | Green Circles | 2:33 |
-| A6 | Itchycoo Park | 2:46 |
-| A7 | I'm Only Dreaming | 2:23 |
-| A8 | Tin Soldier | 3:21 |
-| A9 | I Feel Much Better | 3:57 |
-| B1 | Lazy Sunday | 3:04 |
-| B2 | Rollin' Over (Part II Of Happiness Stan) | 2:14 |
-| B3 | Mad John (Single Version) | 4:20 |
-| B4 | The Journey (Single Version) | 4:03 |
-| B5 | The Universal | 2:44 |
-| B6 | Donkey Rides, A Penny A Glass | 2:50 |
-| B7 | Afterglow Of Your Love (Single Version) | 3:24 |
-| B8 | Wham Bam Thank You Mam | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Here Comes The Nice |
+| A2 | Talk To You |
+| A3 | Get Yourself Together |
+| A4 | Become Like You |
+| A5 | Green Circles |
+| A6 | Itchycoo Park |
+| A7 | I'm Only Dreaming |
+| A8 | Tin Soldier |
+| A9 | I Feel Much Better |
+| B1 | Lazy Sunday |
+| B2 | Rollin' Over (Part II Of Happiness Stan) |
+| B3 | Mad John (Single Version) |
+| B4 | The Journey (Single Version) |
+| B5 | The Universal |
+| B6 | Donkey Rides, A Penny A Glass |
+| B7 | Afterglow Of Your Love (Single Version) |
+| B8 | Wham Bam Thank You Mam |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 | Format         | Vinyl LP Compilation Remastered Mono |
 | Label          | Charly Records |
 | Catalog Number | CHARLY L 126 |
-| Notes | 'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.<br><br>2014 Black Vinyl Issue |
+| Notes | 'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.  2014 Black Vinyl Issue |
 | Discogs URL    | [Small Faces - Greatest Hits The Immediate Years 1967 - 1969](https://www.discogs.com/release/6585325-Small-Faces-Greatest-Hits-The-Immediate-Years-1967-1969) |

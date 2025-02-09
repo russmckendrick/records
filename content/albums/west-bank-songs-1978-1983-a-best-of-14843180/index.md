@@ -27,38 +27,38 @@ styles: ["Punk", "Power Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You've Got My Number (Why Don't You Use It!) | 2:37 |
-| A2 | Male Model | 1:53 |
-| A3 | Hypnotised | 2:29 |
-| A4 | Billy's Third | 1:57 |
-| A5 | The Way Girls Talk | 2:29 |
-| A6 | True Confessions | 1:54 |
-| A7 | Wednesday Week | 2:15 |
-| A8 | (She's A) Runaround | 1:48 |
-| A9 | There Goes Norman | 2:24 |
-| B1 | Teenage Kicks  | 2:25 |
-| B2 | Tearproof | 2:18 |
-| B3 | Jump Boys | 2:41 |
-| B4 | The Love Parade | 3:25 |
-| B5 | Soul Seven | 2:32 |
-| B6 | Girls Don't Like It | 2:17 |
-| B7 | You're Welcome | 2:44 |
-| B8 | Listening In | 2:24 |
-| C1 | Jimmy Jimmy | 2:42 |
-| C2 | When Saturday Comes | 2:51 |
-| C3 | Julie Ocean | 3:34 |
-| C4 | My Perfect Cousin | 2:35 |
-| C5 | Family Entertainment | 2:37 |
-| C6 | Beautiful Friend | 3:24 |
-| C7 | I Know A Girl | 2:35 |
-| D1 | Get Over You (Kevin Shields Remix 2016) | 3:01 |
-| D2 | Girls That Don't Talk | 2:24 |
-| D3 | Forever Paradise | 3:03 |
-| D4 | Here Comes The Summer | 1:45 |
-| D5 | It's Going To Happen | 3:32 |
-| D6 | Bittersweet | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | You've Got My Number (Why Don't You Use It!) |
+| A2 | Male Model |
+| A3 | Hypnotised |
+| A4 | Billy's Third |
+| A5 | The Way Girls Talk |
+| A6 | True Confessions |
+| A7 | Wednesday Week |
+| A8 | (She's A) Runaround |
+| A9 | There Goes Norman |
+| B1 | Teenage Kicks  |
+| B2 | Tearproof |
+| B3 | Jump Boys |
+| B4 | The Love Parade |
+| B5 | Soul Seven |
+| B6 | Girls Don't Like It |
+| B7 | You're Welcome |
+| B8 | Listening In |
+| C1 | Jimmy Jimmy |
+| C2 | When Saturday Comes |
+| C3 | Julie Ocean |
+| C4 | My Perfect Cousin |
+| C5 | Family Entertainment |
+| C6 | Beautiful Friend |
+| C7 | I Know A Girl |
+| D1 | Get Over You (Kevin Shields Remix 2016) |
+| D2 | Girls That Don't Talk |
+| D3 | Forever Paradise |
+| D4 | Here Comes The Summer |
+| D5 | It's Going To Happen |
+| D6 | Bittersweet |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Punk", "Power Pop"]
 | Format         | Vinyl LP (Purple Transparent), Vinyl LP (White), All Media Compilation Limited Edition |
 | Label          | BMG |
 | Catalog Number | SALVO426DLP |
-| Notes | Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.<br><br>50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website. |
+| Notes | Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.  50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website. |
 | Discogs URL    | [The Undertones - West Bank Songs 1978-1983 (A Best Of)](https://www.discogs.com/release/14843180-The-Undertones-West-Bank-Songs-1978-1983-A-Best-Of) |

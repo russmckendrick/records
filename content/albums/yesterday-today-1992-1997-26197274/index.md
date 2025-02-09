@@ -25,48 +25,48 @@ styles: ["Britpop", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ocean Colour Scene (1992) |  |
-| A1 | Talk On | 4:04 |
-| A2 | How About You | 3:14 |
-| A3 | Giving It All Away | 4:09 |
-| A4 | Justine  | 3:33 |
-| A5 | Do Yourself A Favour | 3:48 |
-| A6 | Third Shade Of Green | 4:39 |
-| B1 | Sway | 3:41 |
-| B2 | Penny Pinching Rainy Heaven Days | 3:11 |
-| B3 | One Of Those Days | 4:11 |
-| B4 | Is She Coming Home | 6:02 |
-| B5 | Blue Deep Ocean | 4:55 |
-| B6 | Reprise |  |
-|  | Moseley Shoals (1996) |  |
-| C1 | The Riverboat Song | 4:56 |
-| C2 | The Day We Caught The Train | 3:06 |
-| C3 | The Circle | 3:44 |
-| D1 | Lining Your Pockets | 3:36 |
-| D2 | Fleeting Mind | 5:09 |
-| D3 | 40 Past Midnight | 4:00 |
-| E1 | One For The Road | 3:45 |
-| E2 | It's My Shadow | 4:24 |
-| E3 | Policemen & Pirates | 4:02 |
-| F1 | The Downstream | 5:33 |
-| F2 | You've Got It Bad | 4:26 |
-| F3 | Get Away | 7:55 |
-|  | Marchin' Already (1997) |  |
-| G1 | Hundred Mile High City | 3:55 |
-| G2 | Better Day | 3:44 |
-| G3 | Travellers Tune | 3:38 |
-| H1 | Big Star | 3:12 |
-| H2 | Debris Road | 3:04 |
-| H3 | Besides Yourself | 3:13 |
-| I1 | Get Blown Away | 4:46 |
-| I2 | Tele He's Not Talking | 3:02 |
-| I3 | Foxy's Folk Faced | 2:11 |
-| I4 | All Up | 2:53 |
-| J1 | Spark And Cindy | 3:58 |
-| J2 | Half A Dream Away | 4:21 |
-| J3 | It's A Beautiful Thing | 6:30 |
+| Position | Title |
+|----------|--------|
+|  | Ocean Colour Scene (1992) |
+| A1 | Talk On |
+| A2 | How About You |
+| A3 | Giving It All Away |
+| A4 | Justine  |
+| A5 | Do Yourself A Favour |
+| A6 | Third Shade Of Green |
+| B1 | Sway |
+| B2 | Penny Pinching Rainy Heaven Days |
+| B3 | One Of Those Days |
+| B4 | Is She Coming Home |
+| B5 | Blue Deep Ocean |
+| B6 | Reprise |
+|  | Moseley Shoals (1996) |
+| C1 | The Riverboat Song |
+| C2 | The Day We Caught The Train |
+| C3 | The Circle |
+| D1 | Lining Your Pockets |
+| D2 | Fleeting Mind |
+| D3 | 40 Past Midnight |
+| E1 | One For The Road |
+| E2 | It's My Shadow |
+| E3 | Policemen & Pirates |
+| F1 | The Downstream |
+| F2 | You've Got It Bad |
+| F3 | Get Away |
+|  | Marchin' Already (1997) |
+| G1 | Hundred Mile High City |
+| G2 | Better Day |
+| G3 | Travellers Tune |
+| H1 | Big Star |
+| H2 | Debris Road |
+| H3 | Besides Yourself |
+| I1 | Get Blown Away |
+| I2 | Tele He's Not Talking |
+| I3 | Foxy's Folk Faced |
+| I4 | All Up |
+| J1 | Spark And Cindy |
+| J2 | Half A Dream Away |
+| J3 | It's A Beautiful Thing |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ styles: ["Britpop", "Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Blue, 140g), Vinyl 2× LP Album Reissue (Orange, 140g), Vinyl 2× LP Album Reissue (Red, 140g), Box Set Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX75 |
-| Notes | • Slipcase box<br>• All three albums in replica sleeves<br>• All three albums individually listed on the rear of the box as A/B, A/B/C/D, A/B/C/D<br><br>Hype sticker on shrink wrap:<br>Ocean Colour Scene<br>Yesterday Today 1992-1997<br>• 5 LP box set celebrating one of Britain's finest bands<br>• Includes the band's classic first three studio albums –<br>Ocean Colour Scene, Moseley Shoals [2LP] & Marchin' Already [2LP]<br>• Each album on 140g coloured vinyl<br>• Debut album Ocean Colour Scene reissued for the<br>first time on vinyl since 1992.<br>[DEMON logo] DEMRECBOX75<br><br>Box notes:<br>Art direction and design by Mike Storey at Storey London Design<br>Mastering by Phil Kinrade at Alchemy Mastering, Air Studios<br>Manufactured in the EU |
+| Notes | • Slipcase box • All three albums in replica sleeves • All three albums individually listed on the rear of the box as A/B, A/B/C/D, A/B/C/D  Hype sticker on shrink wrap: Ocean Colour Scene Yesterday Today 1992-1997 • 5 LP box set celebrating one of Britain's finest bands • Includes the band's classic first three studio albums – Ocean Colour Scene, Moseley Shoals [2LP] & Marchin' Already [2LP] • Each album on 140g coloured vinyl • Debut album Ocean Colour Scene reissued for the first time on vinyl since 1992. [DEMON logo] DEMRECBOX75  Box notes: Art direction and design by Mike Storey at Storey London Design Mastering by Phil Kinrade at Alchemy Mastering, Air Studios Manufactured in the EU |
 | Discogs URL    | [Ocean Colour Scene - Yesterday Today 1992-1997](https://www.discogs.com/release/26197274-Ocean-Colour-Scene-Yesterday-Today-1992-1997) |

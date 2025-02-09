@@ -26,27 +26,27 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Spirit Spout | 2:20 |
-| A2 | Shaping The River | 2:07 |
-| A3 | Nil In The Nest | 1:53 |
-| A4 | A Thousand Strokes And A Rolling Suck | 2:18 |
-| A5 | Christ Alive | 3:24 |
-| A6 | Mr.Drake’s Big Heart | 0:17 |
-| A7 | Lucky Lucy | 2:23 |
-| A8 | Gods Box | 1:54 |
-| A9 | Piano Interlude | 0:44 |
-| B1 | Up In Annie's Room | 3:37 |
-| B2 | Mr.Drake’s Big Heart Reprise | 0:17 |
-| B3 | The Psalm Of Life | 2:37 |
-| B4 | In The Corner Of Sin | 2:38 |
-| B5 | Tree Tops High | 2:36 |
-| B6 | Dog Eat Spine | 2:51 |
-| B7 | Sarah On A Worm | 2:49 |
-| B8 | Lilly White's Party | 5:13 |
-| B9 | Appealing To Venus | 2:34 |
-| B10 | Abade | 3:44 |
+| Position | Title |
+|----------|--------|
+| A1 | The Spirit Spout |
+| A2 | Shaping The River |
+| A3 | Nil In The Nest |
+| A4 | A Thousand Strokes And A Rolling Suck |
+| A5 | Christ Alive |
+| A6 | Mr.Drake’s Big Heart |
+| A7 | Lucky Lucy |
+| A8 | Gods Box |
+| A9 | Piano Interlude |
+| B1 | Up In Annie's Room |
+| B2 | Mr.Drake’s Big Heart Reprise |
+| B3 | The Psalm Of Life |
+| B4 | In The Corner Of Sin |
+| B5 | Tree Tops High |
+| B6 | Dog Eat Spine |
+| B7 | Sarah On A Worm |
+| B8 | Lilly White's Party |
+| B9 | Appealing To Venus |
+| B10 | Abade |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP021 |
-| Notes | Limited to 200 numbered, stickered copies.<br><br>Includes download card. |
+| Notes | Limited to 200 numbered, stickered copies.  Includes download card. |
 | Discogs URL    | [The Sea Nymphs - The Sea Nymphs](https://www.discogs.com/release/9329710-The-Sea-Nymphs-The-Sea-Nymphs) |

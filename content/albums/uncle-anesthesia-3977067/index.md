@@ -30,21 +30,21 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beyond This Horizon | 4:13 |
-| A2 | Bed Of Roses | 3:02 |
-| A3 | Uncle Anesthesia | 3:53 |
-| A4 | Story Of Her Fate | 1:40 |
-| A5 | Caught Between | 5:03 |
-| A6 | Lay Your Head Down | 3:33 |
-| A7 | Before We Arise | 2:27 |
-| B1 | Something About Today | 3:02 |
-| B2 | Alice Said | 4:11 |
-| B3 | Time For Light | 3:50 |
-| B4 | Disappearing | 3:12 |
-| B5 | Ocean Of Confusion | 3:05 |
-| B6 | Closer | 5:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Beyond This Horizon |
+| A2 | Bed Of Roses |
+| A3 | Uncle Anesthesia |
+| A4 | Story Of Her Fate |
+| A5 | Caught Between |
+| A6 | Lay Your Head Down |
+| A7 | Before We Arise |
+| B1 | Something About Today |
+| B2 | Alice Said |
+| B3 | Time For Light |
+| B4 | Disappearing |
+| B5 | Ocean Of Confusion |
+| B6 | Closer |
 
 
 ## Apple Music

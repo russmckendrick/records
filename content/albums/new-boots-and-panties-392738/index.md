@@ -36,18 +36,18 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wake Up And Make Love With Me | 4:30 |
-| A2 | Sweet Gene Vincent | 3:30 |
-| A3 | I'm Partial To Your Abracadabra | 3:30 |
-| A4 | My Old Man | 3:30 |
-| A5 | Billericay Dickie | 4:00 |
-| B1 | Clevor Trever | 5:00 |
-| B2 | If I Was With A Woman | 3:30 |
-| B3 | Blockheads | 4:00 |
-| B4 | Plaistow Patricia | 4:00 |
-| B5 | Blackmail Man | 2:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Wake Up And Make Love With Me |
+| A2 | Sweet Gene Vincent |
+| A3 | I'm Partial To Your Abracadabra |
+| A4 | My Old Man |
+| A5 | Billericay Dickie |
+| B1 | Clevor Trever |
+| B2 | If I Was With A Woman |
+| B3 | Blockheads |
+| B4 | Plaistow Patricia |
+| B5 | Blackmail Man |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl LP Album (Island Manufacturing Pressing) |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 4 |
-| Notes | This record was not produced and recorded at The Workhouse in the Old Kent Road!!<br>P and C 1977 Stiff Records Ltd.<br><br>Printed inner sleeve with diagonal cut corners.<br><br> |
+| Notes | This record was not produced and recorded at The Workhouse in the Old Kent Road!! P and C 1977 Stiff Records Ltd.  Printed inner sleeve with diagonal cut corners.   |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/392738-Ian-Dury-New-Boots-And-Panties) |

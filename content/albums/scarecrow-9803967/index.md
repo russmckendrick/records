@@ -33,19 +33,19 @@ A remastered version was released May 24, 2005, on Mercury/Island/UMe and includ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rain On The Scarecrow | 3:45 |
-| A2 | Grandma's Theme | 0:55 |
-| A3 | Small Town | 3:42 |
-| A4 | Minutes To Memories | 4:13 |
-| A5 | Lonely Ol' Night | 3:45 |
-| A6 | The Face Of The Nation | 3:14 |
-| B1 | Justice And Independence '85 | 3:33 |
-| B2 | Between A Laugh And A Tear | 4:33 |
-| B3 | Rumbleseat | 3:00 |
-| B4 | You've Got To Stand For Something' | 4:33 |
-| B5 | R.O.C.K. In The U.S.A. (A Salute To 60's Rock) | 2:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Rain On The Scarecrow |
+| A2 | Grandma's Theme |
+| A3 | Small Town |
+| A4 | Minutes To Memories |
+| A5 | Lonely Ol' Night |
+| A6 | The Face Of The Nation |
+| B1 | Justice And Independence '85 |
+| B2 | Between A Laugh And A Tear |
+| B3 | Rumbleseat |
+| B4 | You've Got To Stand For Something' |
+| B5 | R.O.C.K. In The U.S.A. (A Salute To 60's Rock) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ A remastered version was released May 24, 2005, on Mercury/Island/UMe and includ
 | Format         | Vinyl LP Album Stereo |
 | Label          | Mercury |
 | Catalog Number | 824 865-1 |
-| Notes | Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.<br><br>Very similar to [r1113007], which has in comparison to this release here no label code.<br><br>On back sleeve:<br>℗ 1985 John Mellencamp / © 1985 John Mellencamp<br>Printed in the Netherlands<br><br>On inner sleeve:<br>"This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"<br><br>On labels:<br>℗ 1985 John Mellencamp<br>MADE IN HOLLAND<br><br>Runout information: The runouts are etched, except "MASTERDISK", which is stamped. |
+| Notes | Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.  Very similar to [r1113007], which has in comparison to this release here no label code.  On back sleeve: ℗ 1985 John Mellencamp / © 1985 John Mellencamp Printed in the Netherlands  On inner sleeve: "This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"  On labels: ℗ 1985 John Mellencamp MADE IN HOLLAND  Runout information: The runouts are etched, except "MASTERDISK", which is stamped. |
 | Discogs URL    | [John Cougar Mellencamp - Scarecrow](https://www.discogs.com/release/9803967-John-Cougar-Mellencamp-Scarecrow) |

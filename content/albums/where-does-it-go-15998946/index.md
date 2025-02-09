@@ -27,15 +27,15 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | True Faith | 4:33 |
-| A2 | I'm Not In Love | 4:27 |
-| A3 | Nothing You Can Do | 4:02 |
-| A4 | Evangeline | 4:51 |
-| B1 | Sunshine After The Rain | 3:46 |
-| B2 | Well I Wonder | 4:50 |
-| B3 | Steal Me Easy | 4:04 |
+| Position | Title |
+|----------|--------|
+| A1 | True Faith |
+| A2 | I'm Not In Love |
+| A3 | Nothing You Can Do |
+| A4 | Evangeline |
+| B1 | Sunshine After The Rain |
+| B2 | Well I Wonder |
+| B3 | Steal Me Easy |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Adassa |
 | Catalog Number | ADASSA003 |
-| Notes | Glossy black inner sleeve with track list, times, writers credits on each side<br>Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021 |
+| Notes | Glossy black inner sleeve with track list, times, writers credits on each side Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021 |
 | Discogs URL    | [Denise Johnson - Where Does It Go](https://www.discogs.com/release/15998946-Denise-Johnson-Where-Does-It-Go) |

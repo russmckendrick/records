@@ -31,17 +31,17 @@ Second Thoughts ended on 14 October 1994, but has since been repeated on Forces 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Late Last Night | 3:59 |
-| A2 | Walking Down A Road | 5:15 |
-| A3 | Titus | 3:11 |
-| A4 | Lovey Dovey | 3:00 |
-| A5 | Sweet Dreams | 4:55 |
-| B1 | Stranger Than Fiction | 7:05 |
-| B2 | Time For A Change | 4:02 |
-| B3 | Matinee Idyll (129) | 2:55 |
-| B4 | The Woman Who Loves You | 6:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Late Last Night |
+| A2 | Walking Down A Road |
+| A3 | Titus |
+| A4 | Lovey Dovey |
+| A5 | Sweet Dreams |
+| B1 | Stranger Than Fiction |
+| B2 | Time For A Change |
+| B3 | Matinee Idyll (129) |
+| B4 | The Woman Who Loves You |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Second Thoughts ended on 14 October 1994, but has since been repeated on Forces 
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | L 35981 |
-| Notes | Labels: Made in Australia by Festival Records Pty Ltd.<br><br>Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia |
+| Notes | Labels: Made in Australia by Festival Records Pty Ltd.    Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia |
 | Discogs URL    | [Split Enz - Second Thoughts](https://www.discogs.com/release/5001615-Split-Enz-Second-Thoughts) |

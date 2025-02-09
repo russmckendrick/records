@@ -32,17 +32,17 @@ The album was preceded by the single "Everything Counts", released on 11 July an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love, In Itself |  |
-| A2 | More Than A Party |  |
-| A3 | Pipeline |  |
-| A4 | Everything Counts |  |
-| B1 | Two Minute Warning |  |
-| B2 | Shame |  |
-| B3 | The Landscape Is Changing |  |
-| B4 | Told You So |  |
-| B5 | And Then... |  |
+| Position | Title |
+|----------|--------|
+| A1 | Love, In Itself |
+| A2 | More Than A Party |
+| A3 | Pipeline |
+| A4 | Everything Counts |
+| B1 | Two Minute Warning |
+| B2 | Shame |
+| B3 | The Landscape Is Changing |
+| B4 | Told You So |
+| B5 | And Then... |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album was preceded by the single "Everything Counts", released on 11 July an
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Mute |
 | Catalog Number | STUMM13 |
-| Notes | Sticker on shrink wrap reads:<br>"Legacy Vinyl<br>180 Gram<br>Superior Audio Quality"<br><br>Published by EMI Music Publishing Ltd, assigned Grabbing Hands Music Ltd. Except "Two Minute Warning" and "The Landscape Is Changing", published by BMG Music Publishing Ltd.<br><br>Recorded at The Garden, London. Mixed at Hansa Mischraum, Berlin.<br><br>℗ 1983 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.<br>© 1983, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.<br>Distributed by Sony Music Entertainment.<br>Made in the EU.<br>Sony Music Entertainment International Services GmbH  |
+| Notes | Sticker on shrink wrap reads: "Legacy Vinyl 180 Gram Superior Audio Quality"  Published by EMI Music Publishing Ltd, assigned Grabbing Hands Music Ltd. Except "Two Minute Warning" and "The Landscape Is Changing", published by BMG Music Publishing Ltd.  Recorded at The Garden, London. Mixed at Hansa Mischraum, Berlin.  ℗ 1983 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1983, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH  |
 | Discogs URL    | [Depeche Mode - Construction Time Again](https://www.discogs.com/release/8953117-Depeche-Mode-Construction-Time-Again) |

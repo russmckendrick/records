@@ -39,19 +39,19 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Round Here | 5:31 |
-| A2 | Omaha | 3:39 |
-| A3 | Mr. Jones | 4:32 |
-| B1 | Perfect Blue Buildings | 5:00 |
-| B2 | Anna Begins | 4:31 |
-| B3 | Time And Time Again | 5:14 |
-| C1 | Rain King | 4:15 |
-| C2 | Sullivan Street | 4:29 |
-| C3 | Ghost Train | 4:02 |
-| D1 | Raining In Baltimore | 4:41 |
-| D2 | A Murder Of One | 5:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Round Here |
+| A2 | Omaha |
+| A3 | Mr. Jones |
+| B1 | Perfect Blue Buildings |
+| B2 | Anna Begins |
+| B3 | Time And Time Again |
+| C1 | Rain King |
+| C2 | Sullivan Street |
+| C3 | Ghost Train |
+| D1 | Raining In Baltimore |
+| D2 | A Murder Of One |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | DGC |
 | Catalog Number | B0025531-01 |
-| Notes | - Re-issue<br>- Gatefold<br>- 180-Gram black double vinyl<br>- 33 1/3 RPM |
+| Notes | - Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM |
 | Discogs URL    | [Counting Crows - August And Everything After](https://www.discogs.com/release/9982250-Counting-Crows-August-And-Everything-After) |

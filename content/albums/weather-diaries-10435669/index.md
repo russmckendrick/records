@@ -32,19 +32,19 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lannoy Point | 5:57 |
-| A2 | Charm Assault | 4:12 |
-| B1 | All I Want | 3:57 |
-| B2 | Home Is A Feeling | 3:19 |
-| B3 | Weather Diaries | 6:59 |
-| C1 | Rocket Silver Symphony | 5:25 |
-| C2 | Lateral Alice | 2:55 |
-| C3 | Cali | 6:29 |
-| D1 | Integration Tape | 2:26 |
-| D2 | Impermanence | 4:23 |
-| D3 | White Sands | 6:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Lannoy Point |
+| A2 | Charm Assault |
+| B1 | All I Want |
+| B2 | Home Is A Feeling |
+| B3 | Weather Diaries |
+| C1 | Rocket Silver Symphony |
+| C2 | Lateral Alice |
+| C3 | Cali |
+| D1 | Integration Tape |
+| D2 | Impermanence |
+| D3 | White Sands |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Wichita |
 | Catalog Number | WEBB510LP |
-| Notes | Limited Edition Double Clear Vinyl with Embossed Gatefold Sleeve exclusive to independent record stores only.  <br>Download card included.<br>A few signed copies sold in selected record stores.<br><br>Pressing plant uncredited, derived from matrix info. |
+| Notes | Limited Edition Double Clear Vinyl with Embossed Gatefold Sleeve exclusive to independent record stores only.   Download card included. A few signed copies sold in selected record stores.  Pressing plant uncredited, derived from matrix info. |
 | Discogs URL    | [Ride - Weather Diaries](https://www.discogs.com/release/10435669-Ride-Weather-Diaries) |

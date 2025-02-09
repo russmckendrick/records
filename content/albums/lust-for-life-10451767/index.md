@@ -31,17 +31,17 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lust For Life |  |
-| A2 | Sixteen |  |
-| A3 | Some Weird Sin |  |
-| A4 | The Passenger |  |
-| A5 | Tonight |  |
-| B1 | Success |  |
-| B2 | Turn Blue |  |
-| B3 | Neighborhood Threat |  |
-| B4 | Fall In Love With Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lust For Life |
+| A2 | Sixteen |
+| A3 | Some Weird Sin |
+| A4 | The Passenger |
+| A5 | Tonight |
+| B1 | Success |
+| B2 | Turn Blue |
+| B3 | Neighborhood Threat |
+| B4 | Fall In Love With Me |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180) |
 | Label          | UMC |
 | Catalog Number | 00600753772454 |
-| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.<br><br>Album notes credit Vocals to "The Band".<br>Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".<br><br>Made in the EU. |
+| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU. |
 | Discogs URL    | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767-Iggy-Pop-Lust-For-Life) |

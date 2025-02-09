@@ -29,20 +29,20 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gather Up |  |
-| A2 | Devil Inside Me |  |
-| A3 | Fallen Angel |  |
-| A4 | Medicine |  |
-| A5 | Wolf Quartet |  |
-| A6 | Solstice |  |
-| B1 | October Sun |  |
-| B2 | The Signs |  |
-| B3 | Knock Knock |  |
-| B4 | Bonfire |  |
-| B5 | Village Dance |  |
-| B6 | Farewell Summer Sun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gather Up |
+| A2 | Devil Inside Me |
+| A3 | Fallen Angel |
+| A4 | Medicine |
+| A5 | Wolf Quartet |
+| A6 | Solstice |
+| B1 | October Sun |
+| B2 | The Signs |
+| B3 | Knock Knock |
+| B4 | Bonfire |
+| B5 | Village Dance |
+| B6 | Farewell Summer Sun |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 | Format         | Vinyl LP Album Limited Edition (Green Bottle) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP327G |
-| Notes | 2021 Reissue - <br><br>Hype sticker reads:<br><br>PRESSED ON BOTTLE GREEN VINYL<br>Facsimile of rare first pressing with gatefold sleeve and printed inner |
+| Notes | 2021 Reissue -   Hype sticker reads:  PRESSED ON BOTTLE GREEN VINYL Facsimile of rare first pressing with gatefold sleeve and printed inner |
 | Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/19905307-Matt-Berry-3-Kill-The-Wolf) |

@@ -69,17 +69,17 @@ So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades exp
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fear Inoculum |  |
-| A2 | Pneuma |  |
-| C1 | Invincible |  |
-| E1 | Legion Inoculant |  |
-| E2 | Descending |  |
-| G1 | Culling Voices |  |
-| G2 | Chocolate Chip Trip |  |
-| I1 | 7empest |  |
-| I2 | Mockingbeat |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fear Inoculum |
+| A2 | Pneuma |
+| C1 | Invincible |
+| E1 | Legion Inoculant |
+| E2 | Descending |
+| G1 | Culling Voices |
+| G2 | Chocolate Chip Trip |
+| I1 | 7empest |
+| I2 | Mockingbeat |
 
 
 ## Apple Music
@@ -97,5 +97,5 @@ So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades exp
 | Format         | Box Set Album Deluxe Edition Limited Edition Reissue, Vinyl 5× LP Single Sided Etched (180g) |
 | Label          | Tool Dissectional |
 | Catalog Number | 19439-86879-1 |
-| Notes | First official release on vinyl advertised as the 'Ultra Deluxe LP'.<br>Records housed inside a full-colour, mirror-board printed, hardcover book featuring alternate front cover artwork, extra artwork, lyrics and credits all within a full-colour, mirror-board printed hardcover slide-out box, although not advertised as a box-set.<br>Sealed with a gold-foil sticker underneath a barcode stickered shrink-wrap.<br><br>A very limited number of advance copies initially released as a tour exclusive merch item starting on the 20th of February, 2022 in Philadelphia, PA to the 'TOOLARMY' VIP Package holders in each city until they run out of stock and release to the general public at the merch table. These advanced copies are pre-signed on the front cover by the band.<br><br>* Sides B, D, F, H and J feature no music and are etched.<br><br>℗2019 & ©2021 Tool Dissectional, L.L.C./Volcano Entertainment II, L.L.C., Marketed And Distributed By RCA Records, A Division of Sony Music Entertainment. 25 Madison Avenue, New York, New York, 10010-8601. 19439-86879-1<br><br>Recorded & mixed by [...] on 2" analog tape & transferred digitally to Evil Joe Tools.<br><br>Alex Grey Art: 'Vision Crystal Tondo," 2015 - "The Torch," 2019 - "The Great Turn" [Study], 2019.<br><br><br>This submission is for the US version of the release.  There is an EU release that credits Sony Music as a label and other differences of distribution listed on the small print of the sticker.  That release can be found here - [r22902926] |
+| Notes | First official release on vinyl advertised as the 'Ultra Deluxe LP'. Records housed inside a full-colour, mirror-board printed, hardcover book featuring alternate front cover artwork, extra artwork, lyrics and credits all within a full-colour, mirror-board printed hardcover slide-out box, although not advertised as a box-set. Sealed with a gold-foil sticker underneath a barcode stickered shrink-wrap.  A very limited number of advance copies initially released as a tour exclusive merch item starting on the 20th of February, 2022 in Philadelphia, PA to the 'TOOLARMY' VIP Package holders in each city until they run out of stock and release to the general public at the merch table. These advanced copies are pre-signed on the front cover by the band.  * Sides B, D, F, H and J feature no music and are etched.  ℗2019 & ©2021 Tool Dissectional, L.L.C./Volcano Entertainment II, L.L.C., Marketed And Distributed By RCA Records, A Division of Sony Music Entertainment. 25 Madison Avenue, New York, New York, 10010-8601. 19439-86879-1  Recorded & mixed by [...] on 2" analog tape & transferred digitally to Evil Joe Tools.  Alex Grey Art: 'Vision Crystal Tondo," 2015 - "The Torch," 2019 - "The Great Turn" [Study], 2019.   This submission is for the US version of the release.  There is an EU release that credits Sony Music as a label and other differences of distribution listed on the small print of the sticker.  That release can be found here - [r22902926] |
 | Discogs URL    | [Tool - Fear Inoculum](https://www.discogs.com/release/22253038-Tool-2-Fear-Inoculum) |

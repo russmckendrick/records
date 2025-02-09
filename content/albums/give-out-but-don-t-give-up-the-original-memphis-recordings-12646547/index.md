@@ -43,17 +43,17 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jailbird | 3:51 |
-| A2 | Rocks | 3:48 |
-| A3 | Call On Me | 3:21 |
-| B1 | Everybody Needs Somebody | 6:03 |
-| B2 | Sad And Blue | 3:46 |
-| C1 | Big Jet Plane | 5:29 |
-| C2 | Free | 6:51 |
-| D1 | Jesus | 6:38 |
-| D2 | Cry Myself Blind | 4:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Jailbird |
+| A2 | Rocks |
+| A3 | Call On Me |
+| B1 | Everybody Needs Somebody |
+| B2 | Sad And Blue |
+| C1 | Big Jet Plane |
+| C2 | Free |
+| D1 | Jesus |
+| D2 | Cry Myself Blind |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl 2× 12" 45 RPM Album Misprint (180 Gram) |
 | Label          | Sony Music |
 | Catalog Number | 19075815741 |
-| Notes | Gatefold sleeve includes booklet and download code for full 2-CD (24 track) edition plus an additional track: Big Jet Plane (Sitar Version) 4:47.<br><br>Made in the EU.<br><br>33 R.P.M was incorrectly ticked on the first 1000 units pressed. All subsequent unit pressings are correctly ticked 45 R.P.M. |
+| Notes | Gatefold sleeve includes booklet and download code for full 2-CD (24 track) edition plus an additional track: Big Jet Plane (Sitar Version) 4:47.  Made in the EU.  33 R.P.M was incorrectly ticked on the first 1000 units pressed. All subsequent unit pressings are correctly ticked 45 R.P.M. |
 | Discogs URL    | [Primal Scream - Give Out But Don't Give Up (The Original Memphis Recordings)](https://www.discogs.com/release/12646547-Primal-Scream-Give-Out-But-Dont-Give-Up-The-Original-Memphis-Recordings) |

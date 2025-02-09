@@ -34,19 +34,19 @@ The closing track on the album, "Lay It Down Slow", was used in the Series Final
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Little Life Of Mine | 4:00 |
-| A2 | She Kissed Me (It Felt Like A Hit) | 3:27 |
-| A3 | Hold On | 3:54 |
-| A4 | Oh Baby | 4:10 |
-| A5 | Never Goin' Back | 2:53 |
-| A6 | The Power And The Glory | 4:30 |
-| B1 | Lord Let It Rain On Me | 3:42 |
-| B2 | The Ballad Of Richie Lee | 3:25 |
-| B3 | Cheapster | 2:39 |
-| B4 | Rated X | 5:19 |
-| B5 | Lay It Down Slow | 5:00 |
+| Position | Title |
+|----------|--------|
+| A1 | This Little Life Of Mine |
+| A2 | She Kissed Me (It Felt Like A Hit) |
+| A3 | Hold On |
+| A4 | Oh Baby |
+| A5 | Never Goin' Back |
+| A6 | The Power And The Glory |
+| B1 | Lord Let It Rain On Me |
+| B2 | The Ballad Of Richie Lee |
+| B3 | Cheapster |
+| B4 | Rated X |
+| B5 | Lay It Down Slow |
 
 
 ## Apple Music

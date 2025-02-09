@@ -38,22 +38,22 @@ With a hand-on style, the show could be seen as a predecessor to the Steve Irwin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Anything Was Better |  |
-| A2 | As We Live |  |
-| A3 | Raised By Wolves |  |
-| A4 | In The Mirror |  |
-| A5 | Kiss The Ground |  |
-| A6 | Jailbird |  |
-| A7 | The Hard Way |  |
-| B1 | My Heart |  |
-| B2 | Let 'Em Go |  |
-| B3 | Worst For Me |  |
-| B4 | Burdens |  |
-| B5 | Love Never Dies |  |
-| B6 | Afterthought |  |
-| B7 | Alien |  |
+| Position | Title |
+|----------|--------|
+| A1 | Anything Was Better |
+| A2 | As We Live |
+| A3 | Raised By Wolves |
+| A4 | In The Mirror |
+| A5 | Kiss The Ground |
+| A6 | Jailbird |
+| A7 | The Hard Way |
+| B1 | My Heart |
+| B2 | Let 'Em Go |
+| B3 | Worst For Me |
+| B4 | Burdens |
+| B5 | Love Never Dies |
+| B6 | Afterthought |
+| B7 | Alien |
 
 
 ## Apple Music

@@ -35,30 +35,30 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Terminal Earth | 1:55 |
-| LP-A2 | Ancient Ascendant | 5:47 |
-| LP-A3 | Icarus | 5:20 |
-| LP-B1 | Under Stars | 5:16 |
-| LP-B2 | Authorship Of Our Lives | 5:39 |
-| LP-C1 | The Signal | 3:19 |
-| LP-C2 | The Only Time I Don't Belong Is Now | 5:15 |
-| LP-C3 | When Gravity Fails | 5:03 |
-| LP-D1 | How Bright Is The Sun? | 6:03 |
-| LP-D2 | Inside This Machine | 3:28 |
-| LP-D3 | An Ending | 2:39 |
-| CD-1 | Terminal Earth | 1:55 |
-| CD-2 | Ancient Ascendant | 5:47 |
-| CD-3 | Icarus | 5:20 |
-| CD-4 | Under Stars | 5:16 |
-| CD-5 | Authorship Of Our Lives | 5:39 |
-| CD-6 | The Signal | 3:19 |
-| CD-7 | The Only Time I Don't Belong Is Now | 5:15 |
-| CD-8 | When Gravity Fails | 5:03 |
-| CD-9 | How Bright Is The Sun? | 6:03 |
-| CD-10 | Inside This Machine | 3:28 |
-| CD-11 | An Ending | 2:39 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Terminal Earth |
+| LP-A2 | Ancient Ascendant |
+| LP-A3 | Icarus |
+| LP-B1 | Under Stars |
+| LP-B2 | Authorship Of Our Lives |
+| LP-C1 | The Signal |
+| LP-C2 | The Only Time I Don't Belong Is Now |
+| LP-C3 | When Gravity Fails |
+| LP-D1 | How Bright Is The Sun? |
+| LP-D2 | Inside This Machine |
+| LP-D3 | An Ending |
+| CD-1 | Terminal Earth |
+| CD-2 | Ancient Ascendant |
+| CD-3 | Icarus |
+| CD-4 | Under Stars |
+| CD-5 | Authorship Of Our Lives |
+| CD-6 | The Signal |
+| CD-7 | The Only Time I Don't Belong Is Now |
+| CD-8 | When Gravity Fails |
+| CD-9 | How Bright Is The Sun? |
+| CD-10 | Inside This Machine |
+| CD-11 | An Ending |
 
 
 ## Apple Music

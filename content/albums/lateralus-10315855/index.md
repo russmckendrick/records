@@ -39,21 +39,21 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Grudge | 8:36 |
-| A2 | Eon Blue Apocalypse | 1:04 |
-| A3 | The Patient | 7:13 |
-| A4 | Mantra | 1:12 |
-| B1 | Schism | 6:47 |
-| B2 | Parabol | 3:04 |
-| B3 | Parabola | 6:03 |
-| B4 | Disposition | 4:46 |
-| C1 | Ticks & Leeches | 8:10 |
-| C2 | Lateralus | 9:24 |
-| D1 | Reflection | 11:07 |
-| D2 | Triad | 8:46 |
-| D3 | Faaip De Oiad | 2:39 |
+| Position | Title |
+|----------|--------|
+| A1 | The Grudge |
+| A2 | Eon Blue Apocalypse |
+| A3 | The Patient |
+| A4 | Mantra |
+| B1 | Schism |
+| B2 | Parabol |
+| B3 | Parabola |
+| B4 | Disposition |
+| C1 | Ticks & Leeches |
+| C2 | Lateralus |
+| D1 | Reflection |
+| D2 | Triad |
+| D3 | Faaip De Oiad |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue |
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |
-| Notes | "2x Full Color Picture Disc" sticker on front.<br><br>Holographic image surrounding covers |
+| Notes | "2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers |
 | Discogs URL    | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-2-Lateralus) |

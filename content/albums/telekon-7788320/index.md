@@ -31,26 +31,26 @@ Telekon is the second solo studio album by the English new wave musician Gary Nu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Wreckage |  |
-| A2 | The Aircrash Bureau |  |
-| A3 | Telekon |  |
-| A4 | Remind Me To Smile |  |
-| B1 | Sleep By Windows |  |
-| B2 | I'm An Agent |  |
-| B3 | I Dream Of Wires |  |
-| B4 | Remember I Was Vapour |  |
-| C1 | Please Push No More |  |
-| C2 | The Joy Circuit |  |
-| C3 | We Are Glass |  |
-| C4 | Trois Gymnopedies (First Movement) |  |
-| D1 | I Die: You Die |  |
-| D2 | Down In The Park (Piano Version) |  |
-| D3 | A Game Called Echo |  |
-| D4 | Photograph |  |
-| D5 | Remind Me To Smile (USA Mix) |  |
-| D6 | I Die: You Die (Alternate Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | This Wreckage |
+| A2 | The Aircrash Bureau |
+| A3 | Telekon |
+| A4 | Remind Me To Smile |
+| B1 | Sleep By Windows |
+| B2 | I'm An Agent |
+| B3 | I Dream Of Wires |
+| B4 | Remember I Was Vapour |
+| C1 | Please Push No More |
+| C2 | The Joy Circuit |
+| C3 | We Are Glass |
+| C4 | Trois Gymnopedies (First Movement) |
+| D1 | I Die: You Die |
+| D2 | Down In The Park (Piano Version) |
+| D3 | A Game Called Echo |
+| D4 | Photograph |
+| D5 | Remind Me To Smile (USA Mix) |
+| D6 | I Die: You Die (Alternate Mix) |
 
 
 ## Apple Music

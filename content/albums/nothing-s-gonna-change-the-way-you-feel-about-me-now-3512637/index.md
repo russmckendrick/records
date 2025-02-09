@@ -41,18 +41,18 @@ Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Am I That Lonely Tonight |  |
-| A2 | Look The Other Way |  |
-| A3 | Nothing's Gonna Change The Way You Feel About Me Now |  |
-| A4 | Baby's Got A Bad Idea |  |
-| A5 | Maria |  |
-| B1 | Lower East Side |  |
-| B2 | Won't Be The Last Time |  |
-| B3 | Memphis In The Rain |  |
-| B4 | Unfortunately Anna |  |
-| B5 | Movin' On |  |
+| Position | Title |
+|----------|--------|
+| A1 | Am I That Lonely Tonight |
+| A2 | Look The Other Way |
+| A3 | Nothing's Gonna Change The Way You Feel About Me Now |
+| A4 | Baby's Got A Bad Idea |
+| A5 | Maria |
+| B1 | Lower East Side |
+| B2 | Won't Be The Last Time |
+| B3 | Memphis In The Rain |
+| B4 | Unfortunately Anna |
+| B5 | Movin' On |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album 
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 193 LP |
-| Notes | LP includes code for mp3 [url=http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325]download card[/url] for the album + bonus track.<br><br>The catalog number found on spine and vinyl labels is "BS 193 LP".<br>The catalog number found on Bloodshot website is "BS 193V".<br> |
+| Notes | LP includes code for mp3 [url=http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325]download card[/url] for the album + bonus track.    The catalog number found on spine and vinyl labels is "BS 193 LP".  The catalog number found on Bloodshot website is "BS 193V".   |
 | Discogs URL    | [Justin Townes Earle - Nothing's Gonna Change The Way You Feel About Me Now](https://www.discogs.com/release/3512637-Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now) |

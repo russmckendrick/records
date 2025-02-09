@@ -29,17 +29,17 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Future | 4:08 |
-| A2 | Electric Chair | 4:13 |
-| A3 | The Arms Of Orion | 5:03 |
-| A4 | Partyman | 3:11 |
-| A5 | Vicki Waiting | 4:47 |
-| B1 | Trust | 4:24 |
-| B2 | Lemon Crush | 4:15 |
-| B3 | Scandalous | 6:15 |
-| B4 | Batdance | 6:13 |
+| Position | Title |
+|----------|--------|
+| A1 | The Future |
+| A2 | Electric Chair |
+| A3 | The Arms Of Orion |
+| A4 | Partyman |
+| A5 | Vicki Waiting |
+| B1 | Trust |
+| B2 | Lemon Crush |
+| B3 | Scandalous |
+| B4 | Batdance |
 
 
 ## Apple Music

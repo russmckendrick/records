@@ -55,16 +55,16 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | §I |  |
-| A2 | §II |  |
-| B1 | §III |  |
-| B2 | §IV |  |
-| C1 | §V |  |
-| C2 | §VI |  |
-| D1 | §VII |  |
-| D2 | A Story Never Told |  |
+| Position | Title |
+|----------|--------|
+| A1 | §I |
+| A2 | §II |
+| B1 | §III |
+| B2 | §IV |
+| C1 | §V |
+| C2 | §VI |
+| D1 | §VII |
+| D2 | A Story Never Told |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 | Format         | Vinyl 2× 12" 45 RPM Album (Rough Seas) |
 | Label          | Reigning Phoenix Music |
 | Catalog Number | 1.0155 |
-| Notes | Indie exclusive variant.<br>Gatefold sleeve.<br><br>Cat.number 1.0155 on spine, cat.number 1.0155.101.08 on top of barcode. |
+| Notes | Indie exclusive variant. Gatefold sleeve.  Cat.number 1.0155 on spine, cat.number 1.0155.101.08 on top of barcode. |
 | Discogs URL    | [Opeth - The Last Will And Testament](https://www.discogs.com/release/32367801-Opeth-The-Last-Will-And-Testament) |

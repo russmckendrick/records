@@ -36,18 +36,18 @@ Protection is the second studio album by English electronic music group Massive 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Protection | 7:56 |
-| A2 | Karmacoma | 5:14 |
-| A3 | Three | 3:42 |
-| A4 | Weather Storm | 4:55 |
-| A5 | Spying Glass | 5:23 |
-| B1 | Better Things | 4:15 |
-| B2 | Euro Child | 5:07 |
-| B3 | Sly | 5:24 |
-| B4 | Heat Miser | 3:40 |
-| B5 | Light My Fire (Live) | 3:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Protection |
+| A2 | Karmacoma |
+| A3 | Three |
+| A4 | Weather Storm |
+| A5 | Spying Glass |
+| B1 | Better Things |
+| B2 | Euro Child |
+| B3 | Sly |
+| B4 | Heat Miser |
+| B5 | Light My Fire (Live) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Protection is the second studio album by English electronic music group Massive 
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Circa |
 | Catalog Number | 5700962 |
-| Notes | Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK.<br>All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK.<br>Mastered at The Exchange.<br><br>"Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.<br><br>"Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.<br><br>"Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.<br><br>℗ & © 1994 Circa Records Ltd.<br>℗ & © 2016 Virgin Records Ltd.<br><br>Universal International Music B.V.<br>Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands<br><br>Made in the EU.<br><br>Includes a download code for a digital copy of the album in CD quality WAV files. Some copies may not include the download code. |
+| Notes | Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK. All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK. Mastered at The Exchange.  "Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.  "Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.  "Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.  ℗ & © 1994 Circa Records Ltd. ℗ & © 2016 Virgin Records Ltd.  Universal International Music B.V. Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands  Made in the EU.  Includes a download code for a digital copy of the album in CD quality WAV files. Some copies may not include the download code. |
 | Discogs URL    | [Massive Attack - Protection](https://www.discogs.com/release/9438479-Massive-Attack-Protection) |

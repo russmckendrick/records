@@ -38,17 +38,17 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Thing That Should Be | 3:34 |
-| A2 | Rejoice! | 10:17 |
-| A3 | Kapital | 3:21 |
-| B1 | Model Village | 6:43 |
-| B2 | Beatrix | 2:54 |
-| B3 | Visions | 4:29 |
-| C | The Unspeakable Stands Revealed | 11:49 |
-| D1 | Through Restless Seas I Come | 6:58 |
-| D2 | Insert Yr Own Prophecy | 9:36 |
+| Position | Title |
+|----------|--------|
+| A1 | The Thing That Should Be |
+| A2 | Rejoice! |
+| A3 | Kapital |
+| B1 | Model Village |
+| B2 | Beatrix |
+| B3 | Visions |
+| C | The Unspeakable Stands Revealed |
+| D1 | Through Restless Seas I Come |
+| D2 | Insert Yr Own Prophecy |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 | Format         | Vinyl 2× LP Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1049 |
-| Notes | Gatefold, incl. download card<br><br>Contains 4 page booklet of lyrics and credits<br><br>℗ 2016 Gong under licence to Snapper Music.<br>© 2016 Gong. Made in the UK. Madfish is a Snapper Music label<br><br>Recorded at Brixton Hill Studios and beyond, Spring 2016<br>'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia |
+| Notes | Gatefold, incl. download card  Contains 4 page booklet of lyrics and credits  ℗ 2016 Gong under licence to Snapper Music. © 2016 Gong. Made in the UK. Madfish is a Snapper Music label  Recorded at Brixton Hill Studios and beyond, Spring 2016 'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia |
 | Discogs URL    | [Gong - Rejoice! I'm Dead!](https://www.discogs.com/release/9058357-Gong-Rejoice-Im-Dead) |

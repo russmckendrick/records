@@ -30,32 +30,32 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Times Bad Times | 2:46 |
-| A2 | Communication Breakdown | 2:28 |
-| A3 | Dazed And Confused | 6:26 |
-| A4 | Babe I'm Gonna Leave You | 6:41 |
-| B1 | Whole Lotta Love | 5:34 |
-| B2 | Ramble On | 4:23 |
-| B3 | Heartbreaker | 4:14 |
-| B4 | Immigrant Song | 2:23 |
-| C1 | Since I've Been Loving You | 7:24 |
-| C2 | Rock And Roll | 3:40 |
-| C3 | Black Dog | 4:54 |
-| D1 | When The Levee Breaks | 7:07 |
-| D2 | Stairway To Heaven | 8:00 |
-| D3 | The Song Remains The Same | 5:29 |
-| E1 | Over The Hills And Far Away | 4:47 |
-| E2 | D'Yer Maker | 4:22 |
-| E3 | No Quarter | 6:59 |
-| F1 | Trampled Under Foot | 5:35 |
-| F2 | Houses Of The Holy | 4:01 |
-| F3 | Kashmir | 8:31 |
-| G1 | Nobody's Fault But Mine | 6:27 |
-| G2 | Achilles Last Stand | 10:22 |
-| H1 | In The Evening | 6:49 |
-| H2 | All Of My Love | 5:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Good Times Bad Times |
+| A2 | Communication Breakdown |
+| A3 | Dazed And Confused |
+| A4 | Babe I'm Gonna Leave You |
+| B1 | Whole Lotta Love |
+| B2 | Ramble On |
+| B3 | Heartbreaker |
+| B4 | Immigrant Song |
+| C1 | Since I've Been Loving You |
+| C2 | Rock And Roll |
+| C3 | Black Dog |
+| D1 | When The Levee Breaks |
+| D2 | Stairway To Heaven |
+| D3 | The Song Remains The Same |
+| E1 | Over The Hills And Far Away |
+| E2 | D'Yer Maker |
+| E3 | No Quarter |
+| F1 | Trampled Under Foot |
+| F2 | Houses Of The Holy |
+| F3 | Kashmir |
+| G1 | Nobody's Fault But Mine |
+| G2 | Achilles Last Stand |
+| H1 | In The Evening |
+| H2 | All Of My Love |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Box Set, Vinyl 4× LP Compilation Enhanced Reissue Remastered (Embossed, 180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 344700 |
-| Notes | This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company  <br>© 2007 Mythgem, Ltd.<br><br>4-LP Set<br><br>Sticker on box front states : <br><br>- The Very Best of Led Zepplin<br>- Remastering Supervised by Jimmy Page<br>- Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs<br>- On Four 180-Gram LPS<br>- Plus 20-Page Booklet<br> |
+| Notes | This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet  |
 | Discogs URL    | [Led Zeppelin - Mothership](https://www.discogs.com/release/7690309-Led-Zeppelin-Mothership) |

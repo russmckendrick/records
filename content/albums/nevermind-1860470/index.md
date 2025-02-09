@@ -37,20 +37,20 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smells Like Teen Spirit | 5:00 |
-| A2 | In Bloom | 4:13 |
-| A3 | Come As You Are | 3:38 |
-| A4 | Breed | 3:03 |
-| A5 | Lithium | 4:16 |
-| A6 | Polly | 2:56 |
-| B1 | Territorial Pissings | 2:22 |
-| B2 | Drain You | 3:43 |
-| B3 | Lounge Act | 2:35 |
-| B4 | Stay Away | 3:30 |
-| B5 | On A Plain | 3:12 |
-| B6 | Something In The Way | 3:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Smells Like Teen Spirit |
+| A2 | In Bloom |
+| A3 | Come As You Are |
+| A4 | Breed |
+| A5 | Lithium |
+| A6 | Polly |
+| B1 | Territorial Pissings |
+| B2 | Drain You |
+| B3 | Lounge Act |
+| B4 | Stay Away |
+| B5 | On A Plain |
+| B6 | Something In The Way |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | DGC |
 | Catalog Number | 0720642442517 |
-| Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series.<br>"Includes A Voucher To Download MP3 Version Of The Album<br>180 Gram Vinyl Remastered<br>www.backtoblackvinyl.com"<br><br>℗ 1991 Geffen Records © 1991 Geffen Records<br>Made in the EU. |
+| Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU. |
 | Discogs URL    | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |

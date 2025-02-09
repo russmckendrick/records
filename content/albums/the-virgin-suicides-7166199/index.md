@@ -47,65 +47,65 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Virgin Suicides (Original Motion Picture Score) |  |
-| LP1-AI | Playground Love | 3:32 |
-| LP1-AII | Clouds Up | 1:30 |
-| LP1-AIII | Bathroom Girl | 2:26 |
-| LP1-AIV | Cemetary Party | 2:37 |
-| LP1-AV | Dark Messages | 2:28 |
-| LP1-AVI | The Word 'Hurricane' | 2:33 |
-| LP1-AVII | Dirty Trip | 6:13 |
-| LP1-BI | Highschool Lover (Theme From The Virgin Suicides) | 2:42 |
-| LP1-BII | Afternoon Sister | 2:25 |
-| LP1-BIII | Ghost Song | 2:16 |
-| LP1-BIV | Empty House | 2:58 |
-| LP1-BV | Dead Bodies | 2:59 |
-| LP1-BVI | Suicide Underground | 5:56 |
-|  | The Virgin Suicides Picture Disc - Live - Exclusive |  |
-| LP2-AI | Playground Love (KCRW L.A Radio Jan 2000) | 3:57 |
-| LP2-AII | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) | 4:40 |
-| LP2-AIII | Highschool Lover (KCRW L.A Radio Jan 2000) | 2:41 |
-| LP2-AIV | Clouds Up (Live L.A Jan 2000) | 3:15 |
-| LP2-AV | Bathroom Girl (Live L.A Jan 2000) | 2:55 |
-| LP2-BI | Dirty Trip (Live L.A Jan 2000) | 5:02 |
-| LP2-BII | Empty House (Live L.A Jan 2000) | 3:17 |
-| LP2-BIII | Dead Bodies (Live L.A Jan 2000) | 2:21 |
-| LP2-BIV | Cemetary Party (Live L.A Jan 2000) | 3:21 |
-| LP2-BV | Suicide Underground (Live L.A Jan 2000) | 7:01 |
-|  | Playground Love EP |  |
-| 12"-AI | Playground Love | 3:30 |
-| 12"-BI | Playground Love (Nosferatu Remix by Flower Pistols) | 3:26 |
-| 12"-BII | Playground Love (Highschool Prom – Rob Remix) | 2:26 |
-|  | Original Motion Picture Score |  |
-| CD1-I | Playground Love | 3:32 |
-| CD1-II | Clouds Up | 1:30 |
-| CD1-III | Bathroom Girl | 2:26 |
-| CD1-IV | Cemetary Party | 2:37 |
-| CD1-V | Dark Messages | 2:28 |
-| CD1-VI | The Word 'Hurricane' | 2:33 |
-| CD1-VII | Dirty Trip | 6:13 |
-| CD1-VIII | Highschool Lover | 2:42 |
-| CD1-IX | Afternoon Sister | 2:25 |
-| CD1-X | Ghost Song | 2:16 |
-| CD1-XI | Empty House | 2:58 |
-| CD1-XII | Dead Bodies | 2:59 |
-| CD1-XIII | Suicide Underground | 5:56 |
-|  | Bonus |  |
-| CD1-XIV | Bathroom Girl (Demo version) | 4:15 |
-| CD1-XV | Playground Love (Vibraphone version) | 3:52 |
-|  | Live - Exclusive |  |
-| CD2-I | Playground Love (KCRW L.A Radio Jan 2000) | 3:57 |
-| CD2-II | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) | 4:40 |
-| CD2-III | Highschool Lover (KCRW L.A Radio Jan 2000) | 2:41 |
-| CD2-IV | Clouds Up (Live L.A Jan 2000) | 3:15 |
-| CD2-V | Bathroom Girl (Live L.A Jan 2000) | 2:55 |
-| CD2-VI | Dirty Trip (Live L.A Jan 2000) | 5:02 |
-| CD2-VII | Empty House (Live L.A Jan 2000) | 3:17 |
-| CD2-VIII | Dead Bodies (Live L.A Jan 2000)	 | 2:21 |
-| CD2-IX | Cemetary Party (Live L.A Jan 2000) | 3:21 |
-| CD2-X | Suicide Underground (Live L.A Jan 2000) | 7:01 |
+| Position | Title |
+|----------|--------|
+|  | The Virgin Suicides (Original Motion Picture Score) |
+| LP1-AI | Playground Love |
+| LP1-AII | Clouds Up |
+| LP1-AIII | Bathroom Girl |
+| LP1-AIV | Cemetary Party |
+| LP1-AV | Dark Messages |
+| LP1-AVI | The Word 'Hurricane' |
+| LP1-AVII | Dirty Trip |
+| LP1-BI | Highschool Lover (Theme From The Virgin Suicides) |
+| LP1-BII | Afternoon Sister |
+| LP1-BIII | Ghost Song |
+| LP1-BIV | Empty House |
+| LP1-BV | Dead Bodies |
+| LP1-BVI | Suicide Underground |
+|  | The Virgin Suicides Picture Disc - Live - Exclusive |
+| LP2-AI | Playground Love (KCRW L.A Radio Jan 2000) |
+| LP2-AII | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) |
+| LP2-AIII | Highschool Lover (KCRW L.A Radio Jan 2000) |
+| LP2-AIV | Clouds Up (Live L.A Jan 2000) |
+| LP2-AV | Bathroom Girl (Live L.A Jan 2000) |
+| LP2-BI | Dirty Trip (Live L.A Jan 2000) |
+| LP2-BII | Empty House (Live L.A Jan 2000) |
+| LP2-BIII | Dead Bodies (Live L.A Jan 2000) |
+| LP2-BIV | Cemetary Party (Live L.A Jan 2000) |
+| LP2-BV | Suicide Underground (Live L.A Jan 2000) |
+|  | Playground Love EP |
+| 12"-AI | Playground Love |
+| 12"-BI | Playground Love (Nosferatu Remix by Flower Pistols) |
+| 12"-BII | Playground Love (Highschool Prom – Rob Remix) |
+|  | Original Motion Picture Score |
+| CD1-I | Playground Love |
+| CD1-II | Clouds Up |
+| CD1-III | Bathroom Girl |
+| CD1-IV | Cemetary Party |
+| CD1-V | Dark Messages |
+| CD1-VI | The Word 'Hurricane' |
+| CD1-VII | Dirty Trip |
+| CD1-VIII | Highschool Lover |
+| CD1-IX | Afternoon Sister |
+| CD1-X | Ghost Song |
+| CD1-XI | Empty House |
+| CD1-XII | Dead Bodies |
+| CD1-XIII | Suicide Underground |
+|  | Bonus |
+| CD1-XIV | Bathroom Girl (Demo version) |
+| CD1-XV | Playground Love (Vibraphone version) |
+|  | Live - Exclusive |
+| CD2-I | Playground Love (KCRW L.A Radio Jan 2000) |
+| CD2-II | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) |
+| CD2-III | Highschool Lover (KCRW L.A Radio Jan 2000) |
+| CD2-IV | Clouds Up (Live L.A Jan 2000) |
+| CD2-V | Bathroom Girl (Live L.A Jan 2000) |
+| CD2-VI | Dirty Trip (Live L.A Jan 2000) |
+| CD2-VII | Empty House (Live L.A Jan 2000) |
+| CD2-VIII | Dead Bodies (Live L.A Jan 2000)	 |
+| CD2-IX | Cemetary Party (Live L.A Jan 2000) |
+| CD2-X | Suicide Underground (Live L.A Jan 2000) |
 
 
 ## Apple Music
@@ -123,5 +123,5 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 | Format         | Box Set Deluxe Edition Limited Edition (15th Anniversary), Vinyl LP Album Reissue Remastered (Red), Vinyl LP Album Picture Disc, Vinyl 12" 45 RPM EP Reissue (Red), CD Album Reissue Remastered, CD Album |
 | Label          | Aircheology |
 | Catalog Number | 0825646152339 |
-| Notes | 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.<br><br>This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English |
+| Notes | 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.    This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English |
 | Discogs URL    | [AIR - The Virgin Suicides](https://www.discogs.com/release/7166199-AIR-The-Virgin-Suicides) |

@@ -26,22 +26,22 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Act I |  |
-| A1 | Incantation For The Different |  |
-| A2 | Wyches And Basterdz |  |
-| A3 | Ghostland |  |
-| B1 | The Reckoning |  |
-| B2 | Bonefire |  |
-| C1 | Rose Of Jericho |  |
-|  | Act II |  |
-| D1 | Blackout '77 |  |
-| D2 | Down The Rabbit Hole |  |
-| E1 | Everything Is Beautiful But Us |  |
-| E2 | The Pilgrim |  |
-| E3 | I'm Ok, Just Not Alright |  |
-| F1 | The Scene Is A False Prophet |  |
+| Position | Title |
+|----------|--------|
+|  | Act I |
+| A1 | Incantation For The Different |
+| A2 | Wyches And Basterdz |
+| A3 | Ghostland |
+| B1 | The Reckoning |
+| B2 | Bonefire |
+| C1 | Rose Of Jericho |
+|  | Act II |
+| D1 | Blackout '77 |
+| D2 | Down The Rabbit Hole |
+| E1 | Everything Is Beautiful But Us |
+| E2 | The Pilgrim |
+| E3 | I'm Ok, Just Not Alright |
+| F1 | The Scene Is A False Prophet |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 3× LP Album Limited Edition Stereo (140g) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 646LP |
-| Notes | Released with a matte triple gatefold sleeve and three printed inner sleeves.<br><br>Indicators from hype sticker on foil:<br>Special vinyl mastering, 24/48 for more than 90 minutes of music [Hi-Res Audio logo]<br>First pressing on black triple vinyl (1,500 copies worldwide)<br><br>Indicators on rear:<br>℗ & © 2022 Season Of Mist<br><br>Indicators on inner gatefold:<br>Recorded at Chapel Studio, Lincolnshire, November 2020ad & April 2021ad.<br>Additional vocal sessions recorded at:<br>Kapsylen Studio, Stockholm<br>Monolith Studio<br>Churchstreet Studio, Bergen<br><br>-------------------------------------------------<br>Misspelled words on the inner sleeve of second vinyl:<br>For track C1 'Rose of Jericho' credits for synthesizer is misspelled as 'Syths'.<br>For track D2 'Down The Rabbit Hole' credits for [a=Justin Greaves] are misspelled as 'Jusitn'.<br> |
+| Notes | Released with a matte triple gatefold sleeve and three printed inner sleeves.  Indicators from hype sticker on foil: Special vinyl mastering, 24/48 for more than 90 minutes of music [Hi-Res Audio logo] First pressing on black triple vinyl (1,500 copies worldwide)  Indicators on rear: ℗ & © 2022 Season Of Mist  Indicators on inner gatefold: Recorded at Chapel Studio, Lincolnshire, November 2020ad & April 2021ad. Additional vocal sessions recorded at: Kapsylen Studio, Stockholm Monolith Studio Churchstreet Studio, Bergen  ------------------------------------------------- Misspelled words on the inner sleeve of second vinyl: For track C1 'Rose of Jericho' credits for synthesizer is misspelled as 'Syths'. For track D2 'Down The Rabbit Hole' credits for [a=Justin Greaves] are misspelled as 'Jusitn'.  |
 | Discogs URL    | [Crippled Black Phoenix - Banefyre](https://www.discogs.com/release/24411629-Crippled-Black-Phoenix-Banefyre) |

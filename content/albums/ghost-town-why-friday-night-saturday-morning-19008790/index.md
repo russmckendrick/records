@@ -28,11 +28,11 @@ styles: ["Ska", "Rocksteady"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A* | Ghost Town |  |
-| A†1 | Why? |  |
-| A†2 | Friday Night, Saturday Morning |  |
+| Position | Title |
+|----------|--------|
+| A* | Ghost Town |
+| A†1 | Why? |
+| A†2 | Friday Night, Saturday Morning |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Ska", "Rocksteady"]
 | Format         | Vinyl 7" 45 RPM Single Reissue (Half Speed Remastered) |
 | Label          | Two-Tone Records |
 | Catalog Number | CHS TTH 17 |
-| Notes | 40th Anniversary Edition<br>Double 'A' Side Single<br>Half-Speed Mastered at Abbey Road Studios |
+| Notes | 40th Anniversary Edition Double 'A' Side Single Half-Speed Mastered at Abbey Road Studios |
 | Discogs URL    | [The Specials - Ghost Town / Why? / Friday Night, Saturday Morning](https://www.discogs.com/release/19008790-The-Specials-Ghost-Town-Why-Friday-Night-Saturday-Morning) |

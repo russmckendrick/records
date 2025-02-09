@@ -34,23 +34,23 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lyric |  |
-| A2 | Settle Down |  |
-| A3 | Declarations Of Faith |  |
-| A4 | Honestly |  |
-| B1 | El Sol |  |
-| B2 | Of A Broken Heart |  |
-| B3 | Ride A Black Swan |  |
-| B4 | Heartsong |  |
-| C1 | Endless Summer |  |
-| C2 | Baby Let's Rock! |  |
-| C3 | Yeah! |  |
-| C4 | Desire |  |
-| D1a | Jesus, I  |  |
-| D1b | Mary Star Of The Sea |  |
-| D2 | Come With Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lyric |
+| A2 | Settle Down |
+| A3 | Declarations Of Faith |
+| A4 | Honestly |
+| B1 | El Sol |
+| B2 | Of A Broken Heart |
+| B3 | Ride A Black Swan |
+| B4 | Heartsong |
+| C1 | Endless Summer |
+| C2 | Baby Let's Rock! |
+| C3 | Yeah! |
+| C4 | Desire |
+| D1a | Jesus, I  |
+| D1b | Mary Star Of The Sea |
+| D2 | Come With Me |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 | Format         | Vinyl 2× LP Album |
 | Label          | Martha's Music |
 | Catalog Number | 9362-48436-1 |
-| Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket.<br>Pressing plant uncredited, identified by the matrix numbers. <br><br>A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI<br>A2: Faust's Haus Music BMI and Pazitronix Music ASCAP<br>B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP<br>D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI<br><br>[Rear sleeve:]<br>Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL.<br>Management by Elliot Roberts for Lookout Management<br>© ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.<br> |
+| Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket. Pressing plant uncredited, identified by the matrix numbers.   A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI A2: Faust's Haus Music BMI and Pazitronix Music ASCAP B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI  [Rear sleeve:] Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL. Management by Elliot Roberts for Lookout Management © ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.  |
 | Discogs URL    | [Zwan - Mary Star Of The Sea](https://www.discogs.com/release/892155-Zwan-Mary-Star-Of-The-Sea) |

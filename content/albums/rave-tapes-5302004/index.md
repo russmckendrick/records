@@ -35,41 +35,41 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Heard About You Last Night | 5:22 |
-| LP-A2 | Simon Ferocious | 4:47 |
-| LP-A3 | Remurdered | 6:24 |
-| LP-A4 | Hexon Bogon | 2:34 |
-| LP-A5 | Repelish | 3:55 |
-| LP-B1 | Master Card | 3:57 |
-| LP-B2 | Deesh | 5:32 |
-| LP-B3 | Blues Hour | 6:16 |
-| LP-B4 | No Medicine For Regret | 5:38 |
-| LP-B5 | The Lord Is Out Of Control | 4:21 |
-| 12"-A | Bad Magician 3 | 3:32 |
-| 12"-B | Die 1 Dislike! | 5:26 |
-| 7"-A | Tell Everybody That I Love Them | 4:28 |
-| CD-1 | Heard About You Last Night | 5:24 |
-| CD-2 | Simon Ferocious | 4:49 |
-| CD-3 | Remurdered | 6:26 |
-| CD-4 | Hexon Bogon | 2:36 |
-| CD-5 | Repelish | 2:56 |
-| CD-6 | Master Card | 3:58 |
-| CD-7 | Deesh | 5:34 |
-| CD-8 | Blues Hour | 6:18 |
-| CD-9 | No Medicine For Regret | 5:41 |
-| CD-10 | The Lord Is Out Of Control | 4:23 |
-| MC-A1 | Heard About You Last Night | 5:24 |
-| MC-A2 | Simon Ferocious | 4:49 |
-| MC-A3 | Remurdered | 6:26 |
-| MC-A4 | Hexon Bogon | 2:36 |
-| MC-A5 | Repelish | 2:56 |
-| MC-B1 | Master Card | 3:58 |
-| MC-B2 | Deesh | 5:34 |
-| MC-B3 | Blues Hour | 6:18 |
-| MC-B4 | No Medicine For Regret | 5:41 |
-| MC-B5 | The Lord Is Out Of Control | 4:23 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Heard About You Last Night |
+| LP-A2 | Simon Ferocious |
+| LP-A3 | Remurdered |
+| LP-A4 | Hexon Bogon |
+| LP-A5 | Repelish |
+| LP-B1 | Master Card |
+| LP-B2 | Deesh |
+| LP-B3 | Blues Hour |
+| LP-B4 | No Medicine For Regret |
+| LP-B5 | The Lord Is Out Of Control |
+| 12"-A | Bad Magician 3 |
+| 12"-B | Die 1 Dislike! |
+| 7"-A | Tell Everybody That I Love Them |
+| CD-1 | Heard About You Last Night |
+| CD-2 | Simon Ferocious |
+| CD-3 | Remurdered |
+| CD-4 | Hexon Bogon |
+| CD-5 | Repelish |
+| CD-6 | Master Card |
+| CD-7 | Deesh |
+| CD-8 | Blues Hour |
+| CD-9 | No Medicine For Regret |
+| CD-10 | The Lord Is Out Of Control |
+| MC-A1 | Heard About You Last Night |
+| MC-A2 | Simon Ferocious |
+| MC-A3 | Remurdered |
+| MC-A4 | Hexon Bogon |
+| MC-A5 | Repelish |
+| MC-B1 | Master Card |
+| MC-B2 | Deesh |
+| MC-B3 | Blues Hour |
+| MC-B4 | No Medicine For Regret |
+| MC-B5 | The Lord Is Out Of Control |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 | Format         | Box Set Limited Edition, Vinyl LP Album, Vinyl 12" 45 RPM (Pink), Vinyl 7" Single Sided 45 RPM Etched, CD Album, Cassette Album (Pink) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT80 |
-| Notes | All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013<br><br>The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.<br><br>The box set contains:<br>- Heavy pressed die cut LP<br>- Exclusive heavy pressed 12" coloured vinyl (pink)<br>- Single sided heavy pressed etched 7"<br>- CD version of album<br>- limited cassette version of album<br>- 40 page 300mm x 300mm hardback photograph book<br>- 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card<br>- Printed download card for [url=http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891]high quality download[/url] of all tracks contained in box<br><br>Limited edition of 4000 |
+| Notes | All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013    The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.    The box set contains:  - Heavy pressed die cut LP  - Exclusive heavy pressed 12" coloured vinyl (pink)  - Single sided heavy pressed etched 7"  - CD version of album  - limited cassette version of album  - 40 page 300mm x 300mm hardback photograph book  - 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card  - Printed download card for [url=http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891]high quality download[/url] of all tracks contained in box    Limited edition of 4000 |
 | Discogs URL    | [Mogwai - Rave Tapes](https://www.discogs.com/release/5302004-Mogwai-Rave-Tapes) |

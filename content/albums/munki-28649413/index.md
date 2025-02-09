@@ -44,25 +44,25 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Love Rock 'n' Roll |  |
-| A2 | Birthday |  |
-| A3 | Stardust Remedy |  |
-| A4 | Fizzy |  |
-| A5 | Moe Tucker |  |
-| B6 | Perfume |  |
-| B7 | Virtually Unreal |  |
-| B8 | Degenerate |  |
-| B9 | Cracking Up |  |
-| C10 | Commercial |  |
-| C11 | Supertramp |  |
-| C12 | Never Understood |  |
-| C13 | I Can't Find The Time For Times |  |
-| D14 | Man On The Moon |  |
-| D15 | Black |  |
-| D16 | Dream Lover |  |
-| D17 | I Hate Rock 'n' Roll |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Love Rock 'n' Roll |
+| A2 | Birthday |
+| A3 | Stardust Remedy |
+| A4 | Fizzy |
+| A5 | Moe Tucker |
+| B6 | Perfume |
+| B7 | Virtually Unreal |
+| B8 | Degenerate |
+| B9 | Cracking Up |
+| C10 | Commercial |
+| C11 | Supertramp |
+| C12 | Never Understood |
+| C13 | I Can't Find The Time For Times |
+| D14 | Man On The Moon |
+| D15 | Black |
+| D16 | Dream Lover |
+| D17 | I Hate Rock 'n' Roll |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 | Format         | Vinyl LP Stereo (Blue 180g), Vinyl LP Stereo (Red 180g), All Media Album Limited Edition Reissue Remastered |
 | Label          | Fuzz Club Records |
 | Catalog Number | FC200 |
-| Notes | Gatefold sleeve. Full colour inner sleeves.<br><br>Hype sticker:<br>"Limited Edition<br>2x 180g<br>Blue And Red Vinyl<br>Remastered For Vinyl"<br><br>Catalog no. FC200 appears on spine and labels.<br>Catalog no. FC200V12IND appears on hype sticker only.<br><br>(p) & (c) 2023 Sony Music Entertainment for the world excluding USA and Canada.<br>(p) & (c) 2023 Sub Pop Records for USA and Canada.<br>Made in the EU. |
+| Notes | Gatefold sleeve. Full colour inner sleeves.  Hype sticker: "Limited Edition 2x 180g Blue And Red Vinyl Remastered For Vinyl"  Catalog no. FC200 appears on spine and labels. Catalog no. FC200V12IND appears on hype sticker only.  (p) & (c) 2023 Sony Music Entertainment for the world excluding USA and Canada. (p) & (c) 2023 Sub Pop Records for USA and Canada. Made in the EU. |
 | Discogs URL    | [The Jesus And Mary Chain - Munki](https://www.discogs.com/release/28649413-The-Jesus-And-Mary-Chain-Munki) |

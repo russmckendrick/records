@@ -29,17 +29,17 @@ styles: ["Classic Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hoedown |  |
-| A2 | Lucky Man |  |
-| A3 | Karn Evil 9 (1st Impression, Part 2) |  |
-| A4 | Jerusalem |  |
-| A5 | Peter Gunn |  |
-| B1 | Fanfare For The Common Man |  |
-| B2 | Still....You Turn Me On |  |
-| B3 | Tiger In A Spotlight |  |
-| B4 | Trilogy |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hoedown |
+| A2 | Lucky Man |
+| A3 | Karn Evil 9 (1st Impression, Part 2) |
+| A4 | Jerusalem |
+| A5 | Peter Gunn |
+| B1 | Fanfare For The Common Man |
+| B2 | Still....You Turn Me On |
+| B3 | Tiger In A Spotlight |
+| B4 | Trilogy |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Classic Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 50 757 |
-| Notes | Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.<br><br>Printed inner sleeve.<br>No Atlantic logo on front of sleeve.<br>Cat. Nos. + STEREO (50 757 & SD 19 283) back top right.<br>50 757 on back, spine and inner sleeve.  K 50 757 on label.<br>No barcode. <br><br> |
+| Notes | Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.    Printed inner sleeve.  No Atlantic logo on front of sleeve.  Cat. Nos. + STEREO (50 757 & SD 19 283) back top right.  50 757 on back, spine and inner sleeve.  K 50 757 on label.  No barcode.      |
 | Discogs URL    | [Emerson Lake  Palmer - The Best Of Emerson Lake & Palmer](https://www.discogs.com/release/7394100-Emerson-Lake-Palmer-The-Best-Of-Emerson-Lake-Palmer) |

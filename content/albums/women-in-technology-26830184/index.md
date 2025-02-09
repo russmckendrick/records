@@ -32,20 +32,20 @@ Women in Technology is the second studio album by British recording artist White
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Undressed | 4:19 |
-| A2 | Thursday At The Blue Note | 2:48 |
-| A3 | A Week Next June | 4:18 |
-| A4 | Your Woman | 4:19 |
-| A5 | White Town | 2:24 |
-| A6 | The Shape Of Love | 5:21 |
-| B1 | Wanted | 4:24 |
-| B2 | The Function Of The Orgasm | 2:29 |
-| B3 | Going Nowhere Somehow | 5:22 |
-| B4 | Theme For An Early Evening American Sitcom | 2:17 |
-| B5 | The Death Of My Desire | 4:54 |
-| B6 | Once I Flew | 4:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Undressed |
+| A2 | Thursday At The Blue Note |
+| A3 | A Week Next June |
+| A4 | Your Woman |
+| A5 | White Town |
+| A6 | The Shape Of Love |
+| B1 | Wanted |
+| B2 | The Function Of The Orgasm |
+| B3 | Going Nowhere Somehow |
+| B4 | Theme For An Early Evening American Sitcom |
+| B5 | The Death Of My Desire |
+| B6 | Once I Flew |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Women in Technology is the second studio album by British recording artist White
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3224 |
-| Notes | 180 gram audiophile vinyl<br>Includes insert<br>RSD 2023 sticker<br>Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."<br><br>Available on vinyl for the first time<br>Limited numbered edition of 1000 individually copies on white coloured vinyl |
+| Notes | 180 gram audiophile vinyl Includes insert RSD 2023 sticker Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."  Available on vinyl for the first time Limited numbered edition of 1000 individually copies on white coloured vinyl |
 | Discogs URL    | [White Town - Women In Technology](https://www.discogs.com/release/26830184-White-Town-Women-In-Technology) |

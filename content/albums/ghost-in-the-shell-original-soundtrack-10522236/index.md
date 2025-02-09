@@ -50,20 +50,20 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | M01 謡I - Making Of Cyborg |  |
-| A2 | M02 Ghosthack (本編未使用) |  |
-| A3 | EXM Puppetmaster |  |
-| A4 | M04 Virtual Crime |  |
-| A5 | M05 謠 II - Ghost City |  |
-| B1 | M06 Access |  |
-| B2 | M07 Nightstalker |  |
-| B3 | M08 Floating Museum |  |
-| B4 | M09 Ghostdive |  |
-| B5 | M10 謠 III - Reincarnation |  |
-|  | Bonus 7" |  |
-| C | 挿入歌 毎天見一見! (See You Everyday)  |  |
+| Position | Title |
+|----------|--------|
+| A1 | M01 謡I - Making Of Cyborg |
+| A2 | M02 Ghosthack (本編未使用) |
+| A3 | EXM Puppetmaster |
+| A4 | M04 Virtual Crime |
+| A5 | M05 謠 II - Ghost City |
+| B1 | M06 Access |
+| B2 | M07 Nightstalker |
+| B3 | M08 Floating Museum |
+| B4 | M09 Ghostdive |
+| B5 | M10 謠 III - Reincarnation |
+|  | Bonus 7" |
+| C | 挿入歌 毎天見一見! (See You Everyday)  |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 | Format         | Vinyl LP, Vinyl 7" 45 RPM Single Sided, All Media Album Limited Edition Misprint Reissue Stereo |
 | Label          | We Release Whatever The Fuck We Want Records |
 | Catalog Number | WRWTFWW017LTD |
-| Notes | Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing.<br>Version with correct printed obi strip: [r10806721].<br><br>Hype sticker reads: "First official release on vinyl."<br><br>Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet. |
+| Notes | Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet. |
 | Discogs URL    | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236-Kenji-Kawai-Ghost-In-The-Shell-Original-Soundtrack) |

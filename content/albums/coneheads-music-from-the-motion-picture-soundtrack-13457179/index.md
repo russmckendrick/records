@@ -30,19 +30,19 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magic Carpet Ride |  |
-| A2 | Tainted Love |  |
-| A3 | No More Tears (Enough Is Enough) |  |
-| A4 | Kodachrome |  |
-| A5 | Can't Take My Eyes Off You |  |
-| A6 | It's A Free World Baby |  |
-| B1 | Soul To Squeeze |  |
-| B2 | Fight The Power |  |
-| B3 | Little Renee |  |
-| B4 | Chale Jao |  |
-| B5 | Conehead Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Magic Carpet Ride |
+| A2 | Tainted Love |
+| A3 | No More Tears (Enough Is Enough) |
+| A4 | Kodachrome |
+| A5 | Can't Take My Eyes Off You |
+| A6 | It's A Free World Baby |
+| B1 | Soul To Squeeze |
+| B2 | Fight The Power |
+| B3 | Little Renee |
+| B4 | Chale Jao |
+| B5 | Conehead Love |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 | Format         | Vinyl LP Record Store Day (Yellow, Translucent) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 45345-1 |
-| Notes | RSD Exclusive 2019/Ltd. to 1500<br><br>'Printed in Canada' on rear sleeve.<br>Similar release with 'Manufactured in the E.U.' is here, [r=14540630]. |
+| Notes | RSD Exclusive 2019/Ltd. to 1500  'Printed in Canada' on rear sleeve. Similar release with 'Manufactured in the E.U.' is here, [r=14540630]. |
 | Discogs URL    | [Various - Coneheads (Music From The Motion Picture Soundtrack)](https://www.discogs.com/release/13457179-Various-Coneheads-Music-From-The-Motion-Picture-Soundtrack) |

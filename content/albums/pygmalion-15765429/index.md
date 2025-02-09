@@ -34,17 +34,17 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rutti | 10:05 |
-| A2 | Crazy For You | 6:01 |
-| A3 | Miranda | 4:49 |
-| A4 | Trellisaze | 6:22 |
-| B1 | Cello | 1:42 |
-| B2 | J's Heaven | 6:47 |
-| B3 | Visions Of La | 1:48 |
-| B4 | Blue Skied An' Clear | 6:54 |
-| B5 | All Of Us | 4:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Rutti |
+| A2 | Crazy For You |
+| A3 | Miranda |
+| A4 | Trellisaze |
+| B1 | Cello |
+| B2 | J's Heaven |
+| B3 | Visions Of La |
+| B4 | Blue Skied An' Clear |
+| B5 | All Of Us |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 | Format         | Vinyl LP Album Numbered Reissue Repress (Clear & Green Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP604 |
-| Notes | 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.<br><br>Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.<br><br>Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU |
+| Notes | 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.  Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.  Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU |
 | Discogs URL    | [Slowdive - Pygmalion](https://www.discogs.com/release/15765429-Slowdive-Pygmalion) |

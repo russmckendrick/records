@@ -40,18 +40,18 @@ styles: ["Ambient", "Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Glóð |  |
-| A2 | Blóðberg |  |
-| A3 | Skel |  |
-| B1 | Klettur |  |
-| B2 | Mór |  |
-| B3 | Andrá |  |
-| C1 | Gold |  |
-| C2 | Ylur |  |
-| D1 | Fall |  |
-| D2 | 8 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Glóð |
+| A2 | Blóðberg |
+| A3 | Skel |
+| B1 | Klettur |
+| B2 | Mór |
+| B3 | Andrá |
+| C1 | Gold |
+| C2 | Ylur |
+| D1 | Fall |
+| D2 | 8 |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Ambient", "Post Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Stereo (Yellow) |
 | Label          | Krúnk |
 | Catalog Number | 5389109040 |
-| Notes | Gatefold cover with hype sticker.<br>Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic<br><br>Manufactured in Germany<br><br>The final three characters in runout etching on each side are mirrored.<br><br>• 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |
+| Notes | Gatefold cover with hype sticker. Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic  Manufactured in Germany  The final three characters in runout etching on each side are mirrored.  • 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |
 | Discogs URL    | [Sigur Rós - Átta](https://www.discogs.com/release/28131088-Sigur-Rós-Átta) |

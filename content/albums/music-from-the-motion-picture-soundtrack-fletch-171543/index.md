@@ -28,18 +28,18 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bit By Bit (Theme From "Fletch") | 3:38 |
-| A2 | Fletch, Get Outta Town | 4:11 |
-| A3 | Running For Love | 2:54 |
-| A4 | Name Of The Game | 6:02 |
-| A5 | Fletch Theme | 3:48 |
-| B1 | A Letter To Both Sides | 3:20 |
-| B2 | Is It Over | 3:52 |
-| B3 | Diggin' In | 2:44 |
-| B4 | Exotic Skates | 3:00 |
-| B5 | Running For Love (Instrumental) | 2:44 |
+| Position | Title |
+|----------|--------|
+| A1 | Bit By Bit (Theme From "Fletch") |
+| A2 | Fletch, Get Outta Town |
+| A3 | Running For Love |
+| A4 | Name Of The Game |
+| A5 | Fletch Theme |
+| B1 | A Letter To Both Sides |
+| B2 | Is It Over |
+| B3 | Diggin' In |
+| B4 | Exotic Skates |
+| B5 | Running For Love (Instrumental) |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | MCA Records |
 | Catalog Number | 252 332-1 |
-| Notes | Manufactured in Germany by Record Service GmbH, Alsdorf.<br><br>℗ 1985 MCA Records, Inc., except * [tracks A4 + B2] ℗ 1984 MCA Records, Inc.<br><br>There is a Warner "Big W" logo embossed on the bottom right of the back cover. |
+| Notes | Manufactured in Germany by Record Service GmbH, Alsdorf.  ℗ 1985 MCA Records, Inc., except * [tracks A4 + B2] ℗ 1984 MCA Records, Inc.  There is a Warner "Big W" logo embossed on the bottom right of the back cover. |
 | Discogs URL    | [Various - Music From The Motion Picture Soundtrack "Fletch"](https://www.discogs.com/release/171543-Various-Music-From-The-Motion-Picture-Soundtrack-Fletch) |

@@ -26,17 +26,17 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Cut | 2:12 |
-| 2 | Planet Silver Screen | 3:50 |
-| 3 | Neon Person | 4:33 |
-| 4 | Machine and Joy | 4:13 |
-| 5 | A Matter of Seconds | 4:15 |
-| 6 | 7th of July | 6:01 |
-| 7 | Cyborg Pt.2: The City | 4:11 |
-| 8 | Duplex | 3:46 |
-| 9 | Video Maniacs | 8:14 |
+| Position | Title |
+|----------|--------|
+| 1 | Cut |
+| 2 | Planet Silver Screen |
+| 3 | Neon Person |
+| 4 | Machine and Joy |
+| 5 | A Matter of Seconds |
+| 6 | 7th of July |
+| 7 | Cyborg Pt.2: The City |
+| 8 | Duplex |
+| 9 | Video Maniacs |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 | Format         | Vinyl LP Limited Edition Stereo (Purple vinyl) |
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103361 |
-| Notes | 1st Pressing. 300 copies pressed worldwide in limited edition purple vinyl<br>Includes lyric insert printed both sides with second side as reverse/mirror image.<br><br>Four Stroke Baron are:<br>Kirk Witt - Guitars, Vocals<br>Proudly uses ESP Guitars, D'Addario, Line-6 , Port City, TC Helicon, TC Electronic, and Telefunken<br><br>Matt Vallarino - Drums<br>Proudly uses Meinl Cymbals, DW Drums, Vic Firth, and Evans.<br><br>Keegan Ferrari - Bass<br>Proudly uses Warwick, D'Addario, Darkglass Electronics, Black Market Custom, Rockboard, TC Electronic, TC Helicon, and Shure |
+| Notes | 1st Pressing. 300 copies pressed worldwide in limited edition purple vinyl Includes lyric insert printed both sides with second side as reverse/mirror image.  Four Stroke Baron are: Kirk Witt - Guitars, Vocals Proudly uses ESP Guitars, D'Addario, Line-6 , Port City, TC Helicon, TC Electronic, and Telefunken  Matt Vallarino - Drums Proudly uses Meinl Cymbals, DW Drums, Vic Firth, and Evans.  Keegan Ferrari - Bass Proudly uses Warwick, D'Addario, Darkglass Electronics, Black Market Custom, Rockboard, TC Electronic, TC Helicon, and Shure |
 | Discogs URL    | [Four Stroke Baron - Planet Silver Screen](https://www.discogs.com/release/12774767-Four-Stroke-Baron-Planet-Silver-Screen) |

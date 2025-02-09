@@ -39,20 +39,20 @@ The band's most successful studio album, Kick has been certified six times plati
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Guns In The Sky | 2:20 |
-| A2 | New Sensation | 3:39 |
-| A3 | Devil Inside | 5:11 |
-| A4 | Need You Tonight | 3:04 |
-| A5 | Mediate | 2:32 |
-| A6 | The Loved One | 3:35 |
-| B1 | Wild Life | 3:07 |
-| B2 | Never Tear Us Apart | 3:02 |
-| B3 | Mystify | 3:15 |
-| B4 | Kick | 3:13 |
-| B5 | Calling All Nations | 3:00 |
-| B6 | Tiny Daggers | 3:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Guns In The Sky |
+| A2 | New Sensation |
+| A3 | Devil Inside |
+| A4 | Need You Tonight |
+| A5 | Mediate |
+| A6 | The Loved One |
+| B1 | Wild Life |
+| B2 | Never Tear Us Apart |
+| B3 | Mystify |
+| B4 | Kick |
+| B5 | Calling All Nations |
+| B6 | Tiny Daggers |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The band's most successful studio album, Kick has been certified six times plati
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | MERH 114 |
-| Notes | Gatefold sleeve. Includes a die cut paper inner sleeve with lyrics.<br><br>Track durations stated on the centre labels.<br><br>A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]<br><br>As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS<br>As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam) |
+| Notes | Gatefold sleeve. Includes a die cut paper inner sleeve with lyrics.  Track durations stated on the centre labels.  A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]  As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam) |
 | Discogs URL    | [INXS - Kick](https://www.discogs.com/release/489874-INXS-Kick) |

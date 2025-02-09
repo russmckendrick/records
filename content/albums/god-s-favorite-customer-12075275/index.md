@@ -28,18 +28,18 @@ God's Favorite Customer (or Mr Tillman's Wild Ride) is the fourth studio album b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hangout At The Gallows |  |
-| A2 | Mr. Tillman |  |
-| A3 | Just Dumb Enough To Try |  |
-| A4 | Date Night |  |
-| A5 | Please Don't Die |  |
-| B1 | The Palace  |  |
-| B2 | Disappointing Diamonds Are The Rarest Of Them All |  |
-| B3 | God's Favorite Customer |  |
-| B4 | The Songwriter |  |
-| B5 | We're Only People (And There's Not Much Anyone Can Do About That) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hangout At The Gallows |
+| A2 | Mr. Tillman |
+| A3 | Just Dumb Enough To Try |
+| A4 | Date Night |
+| A5 | Please Don't Die |
+| B1 | The Palace  |
+| B2 | Disappointing Diamonds Are The Rarest Of Them All |
+| B3 | God's Favorite Customer |
+| B4 | The Songwriter |
+| B5 | We're Only People (And There's Not Much Anyone Can Do About That) |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ God's Favorite Customer (or Mr Tillman's Wild Ride) is the fourth studio album b
 | Format         | Vinyl LP Album Limited Edition (Orange Neon) |
 | Label          | Bella Union |
 | Catalog Number | BELLA770RT |
-| Notes | Rough Trade Exclusive: Neon Orange. Limited to 1000 copies. <br><br>Test pressing labels with track numbering on sequential to 1 through 10.<br><br>Sticker with download information stuck on inner sleeve.<br><br>BELLA770RT on barcode sticker.<br>BELLA770V on spine |
+| Notes | Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine |
 | Discogs URL    | [Father John Misty - God's Favorite Customer](https://www.discogs.com/release/12075275-Father-John-Misty-Gods-Favorite-Customer) |

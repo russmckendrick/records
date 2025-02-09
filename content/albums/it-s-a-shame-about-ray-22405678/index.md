@@ -33,39 +33,39 @@ It's a Shame About Ray is the fifth album by American alternative rock band the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album |  |
-| A1 | Rockin Stroll | 1:41 |
-| A2 | Confetti | 2:48 |
-| A3 | It's A Shame About Ray | 3:10 |
-| A4 | Rudderless | 3:18 |
-| A5 | My Drug Buddy | 3:05 |
-| A6 | The Turnpike Down | 2:24 |
-| B1 | Bit Part | 1:47 |
-| B2 | Alison's Starting To Happen | 1:56 |
-| B3 | Hannah & Gabi | 2:51 |
-| B4 | Kitchen | 3:00 |
-| B5 | Ceiling Fan In My Spoon | 1:45 |
-| B6 | Frank Mills | 2:01 |
-|  | Essential Extras |  |
-| C1 | Mrs. Robinson |  |
-| C2 | Shaky Ground |  |
-| C3 | My Drug Buddy (KCRW Session) |  |
-| C4 | Knowing Me, Knowing You |  |
-| C5 | Confetti (Acoustic) |  |
-| C6 | Alison's Starting To Happen (Acoustic) |  |
-| C7 | Divan |  |
-|  | Demo Recordings |  |
-| D1 | It's A Shame About Ray |  |
-| D2 | Rockin Stroll |  |
-| D3 | My Drug Buddy |  |
-| D4 | Hannah & Gabi |  |
-| D5 | Kitchen |  |
-| D6 | Bit Part |  |
-| D7 | Rudderless |  |
-| D8 | Ceiling Fan In My Spoon |  |
-| D9 | Confetti |  |
+| Position | Title |
+|----------|--------|
+|  | Original Album |
+| A1 | Rockin Stroll |
+| A2 | Confetti |
+| A3 | It's A Shame About Ray |
+| A4 | Rudderless |
+| A5 | My Drug Buddy |
+| A6 | The Turnpike Down |
+| B1 | Bit Part |
+| B2 | Alison's Starting To Happen |
+| B3 | Hannah & Gabi |
+| B4 | Kitchen |
+| B5 | Ceiling Fan In My Spoon |
+| B6 | Frank Mills |
+|  | Essential Extras |
+| C1 | Mrs. Robinson |
+| C2 | Shaky Ground |
+| C3 | My Drug Buddy (KCRW Session) |
+| C4 | Knowing Me, Knowing You |
+| C5 | Confetti (Acoustic) |
+| C6 | Alison's Starting To Happen (Acoustic) |
+| C7 | Divan |
+|  | Demo Recordings |
+| D1 | It's A Shame About Ray |
+| D2 | Rockin Stroll |
+| D3 | My Drug Buddy |
+| D4 | Hannah & Gabi |
+| D5 | Kitchen |
+| D6 | Bit Part |
+| D7 | Rudderless |
+| D8 | Ceiling Fan In My Spoon |
+| D9 | Confetti |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ It's a Shame About Ray is the fifth album by American alternative rock band the 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gold) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP624 |
-| Notes | Limited to 1000 copies. <br><br>Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download. |
+| Notes | Limited to 1000 copies.   Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download. |
 | Discogs URL    | [The Lemonheads - It's A Shame About Ray](https://www.discogs.com/release/22405678-Lemonheads-Its-A-Shame-About-Ray) |

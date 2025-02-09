@@ -33,19 +33,19 @@ The album was released by the RCA subsidiary Indolent Records in the UK in Augus
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You And Me Song |  |
-| A2 | Might Be Stars |  |
-| A3 | Love In June |  |
-| A4 | How Does It Feel? |  |
-| A5 | Sweet Nymphet |  |
-| A6 | New World Record |  |
-| B1 | Dying For More |  |
-| B2 | Soon You're Dead |  |
-| B3 | Do It All The Time |  |
-| B4 | Dreamy Wednesdays |  |
-| B5 | Kid |  |
+| Position | Title |
+|----------|--------|
+| A1 | You And Me Song |
+| A2 | Might Be Stars |
+| A3 | Love In June |
+| A4 | How Does It Feel? |
+| A5 | Sweet Nymphet |
+| A6 | New World Record |
+| B1 | Dying For More |
+| B2 | Soon You're Dead |
+| B3 | Do It All The Time |
+| B4 | Dreamy Wednesdays |
+| B5 | Kid |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album was released by the RCA subsidiary Indolent Records in the UK in Augus
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Yellow Transparent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2302 |
-| Notes | Limited edition of 1,000 machine numbered copies. Made in the EU.<br>Includes black and white insert. |
+| Notes | Limited edition of 1,000 machine numbered copies. Made in the EU. Includes black and white insert. |
 | Discogs URL    | [The Wannadies - Be A Girl](https://www.discogs.com/release/13354225-The-Wannadies-Be-A-Girl) |

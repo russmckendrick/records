@@ -32,21 +32,21 @@ While Shangri-La Dee Da was not as commercially successful as its predecessors, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dumb Love | 2:51 |
-| A2 | Days Of The Week | 2:35 |
-| A3 | Coma | 3:41 |
-| A4 | Hollywood Bitch | 2:34 |
-| A5 | Wonderful | 3:47 |
-| A6 | Black Again | 3:26 |
-| A7 | Hello It's Late | 4:22 |
-| B1 | Too Cool Queenie | 2:47 |
-| B2 | Regeneration | 3:55 |
-| B3 | Bi-Polar Bear | 5:04 |
-| B4 | Transmissions From A Lonely Room | 3:15 |
-| B5 | A Song For Sleeping | 4:15 |
-| B6 | Long Way Home | 4:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Dumb Love |
+| A2 | Days Of The Week |
+| A3 | Coma |
+| A4 | Hollywood Bitch |
+| A5 | Wonderful |
+| A6 | Black Again |
+| A7 | Hello It's Late |
+| B1 | Too Cool Queenie |
+| B2 | Regeneration |
+| B3 | Bi-Polar Bear |
+| B4 | Transmissions From A Lonely Room |
+| B5 | A Song For Sleeping |
+| B6 | Long Way Home |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ While Shangri-La Dee Da was not as commercially successful as its predecessors, 
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow/Orange Splatter) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 83449 |
-| Notes | A Rocktober 2024 release.<br>Neon yellow + neon orange splatter vinyl.<br>Includes a double-sided, printed insert.<br>The track durations on the labels differ from those on the lyrics sheet. The label timings have been used above.<br><br>Printed on the shrink wrap: Made in Canada<br><br>this Reissue ℗ & © 2024, 2001 Atlantic Recording Corporation, a Warner Music group Company.<br>Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.<br>Made in Canada.<br><br>Recorded at The Malibu House, Malibu, CA<br>Mixed at Southern Tracks, Atlanta, GA<br>Mastered... at Gateway Mastering & DVD, Portland, ME<br><br>All songs © 2001 Milksongs/WB Music Corp., (ASCAP)/Foxy Dead Girl Music/EMI April Music, (ASCAP).<br><br>Lyric sheet timings:<br>A1. (2:51)<br>A2. (2:35)<br>A3. (3:40)<br>A4. (2:44)<br>A5. (3:48)<br>A6. (3:27)<br>A7. (4:22)<br>B1. (2:47)<br>B2. (3:54)<br>B3. (5:05)<br>B4. (3:16)<br>B5. (4:15)<br>B6. (4:32) |
+| Notes | A Rocktober 2024 release. Neon yellow + neon orange splatter vinyl. Includes a double-sided, printed insert. The track durations on the labels differ from those on the lyrics sheet. The label timings have been used above.  Printed on the shrink wrap: Made in Canada  this Reissue ℗ & © 2024, 2001 Atlantic Recording Corporation, a Warner Music group Company. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Canada.  Recorded at The Malibu House, Malibu, CA Mixed at Southern Tracks, Atlanta, GA Mastered... at Gateway Mastering & DVD, Portland, ME  All songs © 2001 Milksongs/WB Music Corp., (ASCAP)/Foxy Dead Girl Music/EMI April Music, (ASCAP).  Lyric sheet timings: A1. (2:51) A2. (2:35) A3. (3:40) A4. (2:44) A5. (3:48) A6. (3:27) A7. (4:22) B1. (2:47) B2. (3:54) B3. (5:05) B4. (3:16) B5. (4:15) B6. (4:32) |
 | Discogs URL    | [Stone Temple Pilots - Shangri-La Dee Da](https://www.discogs.com/release/31908331-Stone-Temple-Pilots-Shangri-La-Dee-Da) |

@@ -33,20 +33,20 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 2024 Mixes |  |
-| A1 | Red |  |
-| A2 | Fallen Angel |  |
-| A3 | One More Red Nightmare |  |
-| B1 | Providence |  |
-| B2 | Starless |  |
-|  | Elemental Mixes |  |
-| C1 | Red |  |
-| C2 | Fallen Angel |  |
-| C3 | One More Red Nightmare |  |
-| D1 | Starless - Percussion |  |
-| D2 | Starless |  |
+| Position | Title |
+|----------|--------|
+|  | 2024 Mixes |
+| A1 | Red |
+| A2 | Fallen Angel |
+| A3 | One More Red Nightmare |
+| B1 | Providence |
+| B2 | Starless |
+|  | Elemental Mixes |
+| C1 | Red |
+| C2 | Fallen Angel |
+| C3 | One More Red Nightmare |
+| D1 | Starless - Percussion |
+| D2 | Starless |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Reissue Stereo (200 Gram), Vinyl LP Stereo (200 Gram), All Media Album (50th Anniversary Edition) |
 | Label          | Panegyric |
 | Catalog Number | KCLPX2024 |
-| Notes | Hype sticker: KCLPX2024 (2 LP set) 50th anniversary edition of the 1974 classic, featuring a new 2024 mix by Steven Wilson and an album of Elemental mixes by David Singleton - all mixes approved by Robert Fripp. 200-gram super-heavyweight vinyl.<br><br>℗ & © 2023 Robert Fripp.<br>Made in England.<br><br>Runouts are etched. |
+| Notes | Hype sticker: KCLPX2024 (2 LP set) 50th anniversary edition of the 1974 classic, featuring a new 2024 mix by Steven Wilson and an album of Elemental mixes by David Singleton - all mixes approved by Robert Fripp. 200-gram super-heavyweight vinyl.  ℗ & © 2023 Robert Fripp. Made in England.  Runouts are etched. |
 | Discogs URL    | [King Crimson - Red](https://www.discogs.com/release/32103804-King-Crimson-Red) |

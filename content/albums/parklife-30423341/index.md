@@ -34,24 +34,24 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Girls & Boys |  |
-| A2 | Tracy Jacks |  |
-| A3 | End Of A Century |  |
-| A4 | Parklife |  |
-| A5 | Bank Holiday |  |
-| A6 | Badhead |  |
-| A7 | The Debt Collector |  |
-| A8 | Far Out |  |
-| B1 | To The End |  |
-| B2 | London Loves |  |
-| B3 | Trouble In The Message Centre |  |
-| B4 | Clover Over Dover |  |
-| B5 | Magic America |  |
-| B6 | Jubilee |  |
-| B7 | This Is A Low |  |
-| B8 | Lot 105 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Girls & Boys |
+| A2 | Tracy Jacks |
+| A3 | End Of A Century |
+| A4 | Parklife |
+| A5 | Bank Holiday |
+| A6 | Badhead |
+| A7 | The Debt Collector |
+| A8 | Far Out |
+| B1 | To The End |
+| B2 | London Loves |
+| B3 | Trouble In The Message Centre |
+| B4 | Clover Over Dover |
+| B5 | Magic America |
+| B6 | Jubilee |
+| B7 | This Is A Low |
+| B8 | Lot 105 |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 | Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered (30th Anniversary Zoetrope Edition) |
 | Label          | Parlophone |
 | Catalog Number | 5054197880988 |
-| Notes | Record Store Day 2024 exclusive remastered reissue. Zoetrope 30th Anniversary pressing. Limited to 5000 copies.<br>Made In Germany. |
+| Notes | Record Store Day 2024 exclusive remastered reissue. Zoetrope 30th Anniversary pressing. Limited to 5000 copies. Made In Germany. |
 | Discogs URL    | [Blur - Parklife](https://www.discogs.com/release/30423341-Blur-Parklife) |

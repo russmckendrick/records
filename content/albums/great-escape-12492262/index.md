@@ -36,19 +36,19 @@ styles: ["Prog Rock", "Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A-I | You Brought It Upon Yourselves |  |
-| A-II | To You I Give |  |
-| A-III | Uncivil War (Pt I) |  |
-| B-I | Madman |  |
-| B-II | Times They Are A'Raging |  |
-| C-I | Rain Black, Reign Heavy |  |
-| C-II | Slow Motion Breakdown |  |
-| C-III | Nebulas |  |
-| C-IV | Las Diabolicas |  |
-| D-I | Great Escape (Pt I) |  |
-| D-II | Great Escape (Pt II) |  |
+| Position | Title |
+|----------|--------|
+| A-I | You Brought It Upon Yourselves |
+| A-II | To You I Give |
+| A-III | Uncivil War (Pt I) |
+| B-I | Madman |
+| B-II | Times They Are A'Raging |
+| C-I | Rain Black, Reign Heavy |
+| C-II | Slow Motion Breakdown |
+| C-III | Nebulas |
+| C-IV | Las Diabolicas |
+| D-I | Great Escape (Pt I) |
+| D-II | Great Escape (Pt II) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock", "Post Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 491LP |
-| Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.<br><br>SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |
+| Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |
 | Discogs URL    | [Crippled Black Phoenix - Great Escape](https://www.discogs.com/release/12492262-Crippled-Black-Phoenix-Great-Escape) |

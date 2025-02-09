@@ -33,19 +33,19 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If You All Get To Heaven |  |
-| A2 | If You Let Me Stay |  |
-| A3 | Wishing Well |  |
-| A4 | I’ll Never Turn My Back On You (Father’s Words) |  |
-| A5 | Dance Little Sister |  |
-| A6 | Seven More Days |  |
-| B1 | Let’s Go Forward |  |
-| B2 | Rain |  |
-| B3 | Sign Your Name |  |
-| B4 | As Yet Untitled |  |
-| B5 | Who’s Loving You |  |
+| Position | Title |
+|----------|--------|
+| A1 | If You All Get To Heaven |
+| A2 | If You Let Me Stay |
+| A3 | Wishing Well |
+| A4 | I’ll Never Turn My Back On You (Father’s Words) |
+| A5 | Dance Little Sister |
+| A6 | Seven More Days |
+| B1 | Let’s Go Forward |
+| B2 | Rain |
+| B3 | Sign Your Name |
+| B4 | As Yet Untitled |
+| B5 | Who’s Loving You |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 450911 1 |
-| Notes | Labels:<br>Made in Holland<br><br>Back cover:<br>℗ 1987 CBS Records © 1987 CBS Records<br>Printed in Holland<br>Distribution CBS Records/CBS Disques S.A.<br>In the UK apply for public performance licences to PPL, 14/22 Ganton Street, London W1.<br><br>Inner sleeve:<br>Original sound recording made by CBS Records ℗ 1987 CBS Records<br>All tracks (Young Terence Music/Virgin Music (Pub) Ltd) except "Wishing Well" (Young Terence Music/Virgin Music (Pub) Ltd/Chrysalis Music) and "Who's Loving You" (Ardmore & Beechwood Ltd/EMI)<br><br>Other infos:<br>Issued with printed inner sleeve with lyrics, credits and photo.<br><br>The Bojangles are the musicians named on track A4, who also feature on A5 and, without Pete Glenister, on B2 and B5.<br>The Trent Tones are Frank Collins and Ebo Ross, the backing vocalists on B2 & B5.<br>The 'Shout It Out' Reply Vocal Choral Ensemble are the members of A5's Chorus.<br>The sleeve credits read: "Plus A Really Hard Brass Section" in addition to those listed for track A5.<br><br>Smokey Robinson is credited for writing track B5 on the label, however as William Robinson on the inner sleeve.  |
+| Notes | Labels: Made in Holland  Back cover: ℗ 1987 CBS Records © 1987 CBS Records Printed in Holland Distribution CBS Records/CBS Disques S.A. In the UK apply for public performance licences to PPL, 14/22 Ganton Street, London W1.  Inner sleeve: Original sound recording made by CBS Records ℗ 1987 CBS Records All tracks (Young Terence Music/Virgin Music (Pub) Ltd) except "Wishing Well" (Young Terence Music/Virgin Music (Pub) Ltd/Chrysalis Music) and "Who's Loving You" (Ardmore & Beechwood Ltd/EMI)  Other infos: Issued with printed inner sleeve with lyrics, credits and photo.  The Bojangles are the musicians named on track A4, who also feature on A5 and, without Pete Glenister, on B2 and B5. The Trent Tones are Frank Collins and Ebo Ross, the backing vocalists on B2 & B5. The 'Shout It Out' Reply Vocal Choral Ensemble are the members of A5's Chorus. The sleeve credits read: "Plus A Really Hard Brass Section" in addition to those listed for track A5.  Smokey Robinson is credited for writing track B5 on the label, however as William Robinson on the inner sleeve.  |
 | Discogs URL    | [Terence Trent DArby - Introducing The Hardline According To Terence Trent D'Arby](https://www.discogs.com/release/9174511-Terence-Trent-DArby-Introducing-The-Hardline-According-To-Terence-Trent-DArby) |

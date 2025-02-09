@@ -39,18 +39,18 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Street Fighting Years | 6:18 |
-| A2 | Soul Crying Out | 6:06 |
-| A3 | Wall Of Love | 5:16 |
-| A4 | This Is Your Land | 6:16 |
-| A5 | Take A Step Back | 4:20 |
-| B1 | Kick It In | 6:08 |
-| B2 | Let It All Come Down | 4:50 |
-| B3 | Mandela Day | 5:36 |
-| B4 | Belfast Child | 6:38 |
-| B5 | Biko | 7:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Street Fighting Years |
+| A2 | Soul Crying Out |
+| A3 | Wall Of Love |
+| A4 | This Is Your Land |
+| A5 | Take A Step Back |
+| B1 | Kick It In |
+| B2 | Let It All Come Down |
+| B3 | Mandela Day |
+| B4 | Belfast Child |
+| B5 | Biko |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | MINDS1 |
-| Notes | [a11879] appears courtesy of [l27031] / [l38030].<br><br>All digitally recorded and mixed analogue i.e. "DAD" <br><br>"Street Fighting Years" song written in memory of Victor Jara.<br><br>Made In Scotland March '88 - March '89.<br>Studio Drums provided by Tama.<br>Source of graphic: The Beauty of Fractals.<br><br>Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.<br><br>℗&© 1989 Virgin Records Ltd.<br><br>Manufactured in the UK.<br>*Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK<br>MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X" <br><br>Durations do not appear on this release. Timings via stopwatch. |
+| Notes | [a11879] appears courtesy of [l27031] / [l38030].  All digitally recorded and mixed analogue i.e. "DAD"   "Street Fighting Years" song written in memory of Victor Jara.  Made In Scotland March '88 - March '89. Studio Drums provided by Tama. Source of graphic: The Beauty of Fractals.  Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.  ℗&© 1989 Virgin Records Ltd.  Manufactured in the UK. *Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X"   Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Simple Minds - Street Fighting Years](https://www.discogs.com/release/499455-Simple-Minds-Street-Fighting-Years) |

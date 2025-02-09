@@ -34,26 +34,26 @@ The song received acclaim from music critics upon release. "Please Please Please
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Please, Please, Please |  |
-| A2 | Chonnie-On-Chon |  |
-| A3 | Hold My Baby's Hand |  |
-| A4 | I Feel That Old Feeling Coming On |  |
-| A5 | Just Won't Do Right |  |
-| A6 | Baby Cries Over The Ocean |  |
-| A7 | I Don't Know |  |
-| A8 | Tell Me What I Did Wrong |  |
-| B1 | Try Me |  |
-| B2 | That Dood It |  |
-| B3 | Begging, Begging |  |
-| B4 | I Walked Alone |  |
-| B5 | No, No, No, No |  |
-| B6 | That's When I Lost My Heart |  |
-| B7 | Let's Make It |  |
-| B8 | Love Or A Game |  |
-|  | Bonus Track |  |
-| B9 | This Old Heart |  |
+| Position | Title |
+|----------|--------|
+| A1 | Please, Please, Please |
+| A2 | Chonnie-On-Chon |
+| A3 | Hold My Baby's Hand |
+| A4 | I Feel That Old Feeling Coming On |
+| A5 | Just Won't Do Right |
+| A6 | Baby Cries Over The Ocean |
+| A7 | I Don't Know |
+| A8 | Tell Me What I Did Wrong |
+| B1 | Try Me |
+| B2 | That Dood It |
+| B3 | Begging, Begging |
+| B4 | I Walked Alone |
+| B5 | No, No, No, No |
+| B6 | That's When I Lost My Heart |
+| B7 | Let's Make It |
+| B8 | Love Or A Game |
+|  | Bonus Track |
+| B9 | This Old Heart |
 
 
 ## Apple Music

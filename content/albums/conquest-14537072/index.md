@@ -30,49 +30,49 @@ styles: ["Cut-up/DJ", "Turntablism"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Conquest |  |
-| A1 | Emag Revo | 1:35 |
-| A2 | Drumz of Deth | 1:30 |
-| A3 | Rude Killer | 3:04 |
-| A4 | Conquest | 1:20 |
-| A5 | Rodan Wingspan | 1:14 |
-| A6 | Channel Zektar | 3:35 |
-| B1 | Flying Saucer | 0:59 |
-| B2 | War Island Ave. | 1:21 |
-| B3 | Voltronik | 2:32 |
-| B4 | Channel Zektar (Reptoid Terrormental) | 3:10 |
-| B5 | Rude Killer (Knife Bonus) | 2:59 |
-| B6 | Gold Whisk (Joe Rogan Podcast) | 2:40 |
-| B7 | MMM Soundmag | 4:10 |
-|  | Conquest Mix |  |
-| CD-1 | Conquest Mix | 56:55 |
-| 1a | Trillenium (Conquest Mix) | 3:02 |
-| 1b | Emag Revo (Conquest Mix) | 1:30 |
-| 1c | Fear At 25 (Conquest Mix) | 0:28 |
-| 1d | Rude Killer (Conquest Mix) | 3:02 |
-| 1e | Drumz Of Deth (Conquest Mix) | 1:29 |
-| 1f | Channel Zektar (Conquest Mix) | 4:17 |
-| 1g | 50 Cal Get Down (Conquest Mix) | 2:12 |
-| 1h | Rodan Wingspan (Conquest Mix) | 1:18 |
-| 1i | Conquest  (Conquest Mix) | 1:21 |
-| 1j | Flying Saucer (Conquest Mix) | 0:58 |
-| 1k | Voltron (Stand By) (Conquest Mix) | 1:32 |
-| 1l | Extra Volt (Conquest Mix) | 1:00 |
-| 1m | Gyokuru (Conquest Mix) | 2:01 |
-| 1n | War Island Ave (Conquest Mix) | 1:19 |
-| 1o | Gold Whisk (Conquest Mix) | 2:33 |
-| 1p | Beta Capsule (Conquest Mix) | 1:06 |
-| 1q | Gamera Lenz (Conquest Mix) | 2:30 |
-| 1r | Zethra (Conquest Mix) | 2:18 |
-| 1s | Channel Zektar (Reptoid Terrormental) (Conquest Mix) | 3:15 |
-| 1t | Rude Killer (Switchblade Bonus) (Conquest Mix) | 3:14 |
-| 1u | Danger Zone (Conquest Mix) | 2:42 |
-| 1v | Enilorac (Conquest Mix) | 1:39 |
-| 1w | V-D (Conquest Mix) | 2:07 |
-| 1x | Outro (Conquest Mix) | 4:04 |
-| 1y | MMM Sound Mag (Conquest Mix) | 4:23 |
+| Position | Title |
+|----------|--------|
+|  | Conquest |
+| A1 | Emag Revo |
+| A2 | Drumz of Deth |
+| A3 | Rude Killer |
+| A4 | Conquest |
+| A5 | Rodan Wingspan |
+| A6 | Channel Zektar |
+| B1 | Flying Saucer |
+| B2 | War Island Ave. |
+| B3 | Voltronik |
+| B4 | Channel Zektar (Reptoid Terrormental) |
+| B5 | Rude Killer (Knife Bonus) |
+| B6 | Gold Whisk (Joe Rogan Podcast) |
+| B7 | MMM Soundmag |
+|  | Conquest Mix |
+| CD-1 | Conquest Mix |
+| 1a | Trillenium (Conquest Mix) |
+| 1b | Emag Revo (Conquest Mix) |
+| 1c | Fear At 25 (Conquest Mix) |
+| 1d | Rude Killer (Conquest Mix) |
+| 1e | Drumz Of Deth (Conquest Mix) |
+| 1f | Channel Zektar (Conquest Mix) |
+| 1g | 50 Cal Get Down (Conquest Mix) |
+| 1h | Rodan Wingspan (Conquest Mix) |
+| 1i | Conquest  (Conquest Mix) |
+| 1j | Flying Saucer (Conquest Mix) |
+| 1k | Voltron (Stand By) (Conquest Mix) |
+| 1l | Extra Volt (Conquest Mix) |
+| 1m | Gyokuru (Conquest Mix) |
+| 1n | War Island Ave (Conquest Mix) |
+| 1o | Gold Whisk (Conquest Mix) |
+| 1p | Beta Capsule (Conquest Mix) |
+| 1q | Gamera Lenz (Conquest Mix) |
+| 1r | Zethra (Conquest Mix) |
+| 1s | Channel Zektar (Reptoid Terrormental) (Conquest Mix) |
+| 1t | Rude Killer (Switchblade Bonus) (Conquest Mix) |
+| 1u | Danger Zone (Conquest Mix) |
+| 1v | Enilorac (Conquest Mix) |
+| 1w | V-D (Conquest Mix) |
+| 1x | Outro (Conquest Mix) |
+| 1y | MMM Sound Mag (Conquest Mix) |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ styles: ["Cut-up/DJ", "Turntablism"]
 | Format         | Vinyl LP (Red), CD Promo |
 | Label          | Copeland Entertainment |
 | Catalog Number | MMMCONQUEST1 |
-| Notes | Limited to 1,000 copies worldwide.<br><br>Rough Trade album of the month December 2019.<br><br>Includes a full length bonus mix CD, mixing the whole album into one continuous mix (which also features an unreleased jam featuring MCA) packaged in it's own card sleeve.<br><br>Timings not listed. |
+| Notes | Limited to 1,000 copies worldwide.  Rough Trade album of the month December 2019.  Includes a full length bonus mix CD, mixing the whole album into one continuous mix (which also features an unreleased jam featuring MCA) packaged in it's own card sleeve.  Timings not listed. |
 | Discogs URL    | [Mix Master Mike - Conquest](https://www.discogs.com/release/14537072-Mix-Master-Mike-Conquest) |

@@ -37,26 +37,26 @@ An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Before The Flood | 7:53 |
-| A2 | A Minute To Breathe | 6:07 |
-| A3 | Between Two Poles | 8:06 |
-| B1 | Dust Bowl | 2:50 |
-| B2 | Thin Ice | 1:05 |
-| B3 | And When The Sky Was Opened | 6:35 |
-| B4 | Ghost Nets | 5:13 |
-| B5 | Trembling | 5:01 |
-| C1 | One More Step | 3:32 |
-| C2 | Huaynaputina | 6:39 |
-| C3 | At Dusk | 5:41 |
-| C4 | Thin Ice Reimagined | 6:09 |
-| D1 | Disappearing Act | 3:52 |
-| D2 | The Melting Pot | 2:05 |
-| D3 | 8 Billion | 8:41 |
-| E1 | One Perfect Moment | 10:08 |
-| E2 | A Minute Later | 1:46 |
-| E3 | After The Flood | 5:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Before The Flood |
+| A2 | A Minute To Breathe |
+| A3 | Between Two Poles |
+| B1 | Dust Bowl |
+| B2 | Thin Ice |
+| B3 | And When The Sky Was Opened |
+| B4 | Ghost Nets |
+| B5 | Trembling |
+| C1 | One More Step |
+| C2 | Huaynaputina |
+| C3 | At Dusk |
+| C4 | Thin Ice Reimagined |
+| D1 | Disappearing Act |
+| D2 | The Melting Pot |
+| D3 | 8 Billion |
+| E1 | One Perfect Moment |
+| E2 | A Minute Later |
+| E3 | After The Flood |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> 
 | Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album (180 gm) |
 | Label          | Lakeshore Records |
 | Catalog Number | LSINV178LP |
-| Notes | Released in a 3 panel gatefold sleeve.<br><br>Hype Sticker - A collaboration between Trent Reznor / Atticus Ross, Mogwai and Gustavo Santaolalla for Fisher Steven's acclaimed climate change documentary. 3xLP pressed on 180 gram vinyl. Includes the track "A Minute to Breathe".<br><br>Cover image taken from the Before The Flood key art, provided by National Geographic.<br>Photography provided by NASA, from the images of Change collection.<br><br>Mastered at Baker Mastering.<br>Vinyl mastering for Bernie Grundmann Mastering, L.A., CA.<br><br>Publishing and recording studio details -<br>A2, B3, D1, D3 to E2:<br>T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP)<br>A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)<br><br>A1, A3, B5, C3, C4:<br>G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP)<br>T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP)<br>A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)<br><br>B2, C1, D2:<br>G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP)<br><br>B1, B4, C2, E3:<br>Recorded and mixed at Castle of Doom Studios, Glasgow, Scotland.<br>Mogwai ©2016 Tomorrow's Hits (ASCAP) |
+| Notes | Released in a 3 panel gatefold sleeve.  Hype Sticker - A collaboration between Trent Reznor / Atticus Ross, Mogwai and Gustavo Santaolalla for Fisher Steven's acclaimed climate change documentary. 3xLP pressed on 180 gram vinyl. Includes the track "A Minute to Breathe".  Cover image taken from the Before The Flood key art, provided by National Geographic. Photography provided by NASA, from the images of Change collection.  Mastered at Baker Mastering. Vinyl mastering for Bernie Grundmann Mastering, L.A., CA.  Publishing and recording studio details - A2, B3, D1, D3 to E2: T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  A1, A3, B5, C3, C4: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP) T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  B2, C1, D2: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP)  B1, B4, C2, E3: Recorded and mixed at Castle of Doom Studios, Glasgow, Scotland. Mogwai ©2016 Tomorrow's Hits (ASCAP) |
 | Discogs URL    | [Trent Reznor - Before The Flood (Music From The Motion Picture)](https://www.discogs.com/release/10168964-Trent-Reznor-Atticus-Ross-Gustavo-Santaolalla-Mogwai-Before-The-Flood-Music-From-The-Motion-Picture) |

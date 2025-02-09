@@ -30,17 +30,17 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Big Area | 4:46 |
-| A2 | What Does It Take? | 3:46 |
-| A3 | You Ought To Know | 4:10 |
-| A4 | Song For The Brokenhearted | 4:26 |
-| A5 | Darkest Hour | 4:28 |
-| B1 | Reeling | 5:36 |
-| B2 | Where You Lie | 4:52 |
-| B3 | Sugar Box | 3:42 |
-| B4 | Helpless | 4:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Big Area |
+| A2 | What Does It Take? |
+| A3 | You Ought To Know |
+| A4 | Song For The Brokenhearted |
+| A5 | Darkest Hour |
+| B1 | Reeling |
+| B2 | Where You Lie |
+| B3 | Sugar Box |
+| B4 | Helpless |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 122-1 |
-| Notes | "Big Area" is featured in the movie "Slipstream".<br><br>Includes a printed inner sleeve with lyrics to all songs and credits.<br><br>Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)<br><br>Written and recorded in 1988.<br><br>Made in England.<br><br>© 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.<br><br>Durations do not appear on this release. Timings via stopwatch. |
+| Notes | "Big Area" is featured in the movie "Slipstream".  Includes a printed inner sleeve with lyrics to all songs and credits.  Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)  Written and recorded in 1988.  Made in England.  © 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.  Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Then Jerico - The Big Area](https://www.discogs.com/release/265140-Then-Jerico-The-Big-Area) |

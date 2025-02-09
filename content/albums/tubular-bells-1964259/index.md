@@ -32,10 +32,10 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Tubular Bells (Part One) | 25:00 |
-| B | Tubular Bells (Part Two) | 23:50 |
+| Position | Title |
+|----------|--------|
+| A | Tubular Bells (Part One) |
+| B | Tubular Bells (Part Two) |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 | Format         | Vinyl LP Album Repress (Fawn & Mauve Labels) |
 | Label          | Virgin |
 | Catalog Number | V2001 |
-| Notes | 4th UK pressing, 1975 with fawn and mauve labels.<br>Some copies came with a black polythene lined inner bag with the Virgin Records logo.<br><br>The 3 releases below all have the fawn and mauve labels, released in 1975.<br>This release shows the earlier company address on the rear sleeve.<br>[r22094719] shows the later company address and also has a lacquer cutting signature in the etched matrix runouts.<br>[r29866060] also shows the later company address but has no lacquer cutting signature and is an all stamped matrix runout. |
+| Notes | 4th UK pressing, 1975 with fawn and mauve labels. Some copies came with a black polythene lined inner bag with the Virgin Records logo.  The 3 releases below all have the fawn and mauve labels, released in 1975. This release shows the earlier company address on the rear sleeve. [r22094719] shows the later company address and also has a lacquer cutting signature in the etched matrix runouts. [r29866060] also shows the later company address but has no lacquer cutting signature and is an all stamped matrix runout. |
 | Discogs URL    | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/1964259-Mike-Oldfield-Tubular-Bells) |

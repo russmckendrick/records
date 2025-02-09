@@ -36,19 +36,19 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ready To Go Home | 4:41 |
-| A2 | Love Insurrection | 6:20 |
-| A3 | Heal Yourself | 5:33 |
-| B1 | Innocent Money | 6:31 |
-| B2 | Melancholy Man | 5:16 |
-| B3 | Love Ain't Enough | 4:45 |
-| C1 | Circus Of Life | 5:53 |
-| C2 | False Flags | 8:11 |
-| C3 | Deep Dark Waters | 4:50 |
-| D1 | The Centre Cannot Hold | 3:42 |
-| D2 | Settlers Blues | 9:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Ready To Go Home |
+| A2 | Love Insurrection |
+| A3 | Heal Yourself |
+| B1 | Innocent Money |
+| B2 | Melancholy Man |
+| B3 | Love Ain't Enough |
+| C1 | Circus Of Life |
+| C2 | False Flags |
+| C3 | Deep Dark Waters |
+| D1 | The Centre Cannot Hold |
+| D2 | Settlers Blues |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | BMG |
 | Catalog Number | 4099964059243 |
-| Notes | Gatefold sleeve<br><br>Dedicated to Robert Pollock Gillespie 1937-2023, Martin Duffy 1967-2022 & Mark Stewart 1960-2023<br><br>℗ & © 2024 BMG Rights Management (UK) Limited.  All rights of the producer and the owner of the recorded work reserved.  Unauthorized copying, hiring, renting, public performance and broadcasting of this record is prohibited.  <br>Manufactured in Germany.  4099964059243. 964059241.  LC19813<br><br>Assai Records of Glasgow, Edinburgh & Dundee released a limited volume of 300 records with OBI signed by Primal Scream's vocalist Bobby Gillespie.  The OBI is hand numbered. |
+| Notes | Gatefold sleeve  Dedicated to Robert Pollock Gillespie 1937-2023, Martin Duffy 1967-2022 & Mark Stewart 1960-2023  ℗ & © 2024 BMG Rights Management (UK) Limited.  All rights of the producer and the owner of the recorded work reserved.  Unauthorized copying, hiring, renting, public performance and broadcasting of this record is prohibited.   Manufactured in Germany.  4099964059243. 964059241.  LC19813  Assai Records of Glasgow, Edinburgh & Dundee released a limited volume of 300 records with OBI signed by Primal Scream's vocalist Bobby Gillespie.  The OBI is hand numbered. |
 | Discogs URL    | [Primal Scream - Come Ahead](https://www.discogs.com/release/32241834-Primal-Scream-Come-Ahead) |

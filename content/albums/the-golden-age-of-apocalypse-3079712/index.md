@@ -37,21 +37,21 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | HooooooO | 0:23 |
-| A2 | Daylight | 2:57 |
-| A3 | Fleer Ultra | 2:15 |
-| A4 | Is It Love? | 5:37 |
-| A5 | For Love I Come | 3:35 |
-| B1 | It Really Doesn't Matter To You | 3:34 |
-| B2 | Jamboree | 3:45 |
-| B3 | Boat Cruise | 3:45 |
-| B4 | Seasons | 2:19 |
-| B5 | Golden Boy | 3:04 |
-| B6 | Walkin' | 2:07 |
-| B7 | Mystery Machine (The Golden Age Of Apocalypse) | 2:05 |
-| B8 | Return To The Journey | 2:04 |
+| Position | Title |
+|----------|--------|
+| A1 | HooooooO |
+| A2 | Daylight |
+| A3 | Fleer Ultra |
+| A4 | Is It Love? |
+| A5 | For Love I Come |
+| B1 | It Really Doesn't Matter To You |
+| B2 | Jamboree |
+| B3 | Boat Cruise |
+| B4 | Seasons |
+| B5 | Golden Boy |
+| B6 | Walkin' |
+| B7 | Mystery Machine (The Golden Age Of Apocalypse) |
+| B8 | Return To The Journey |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 | Format         | Vinyl LP Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF023 |
-| Notes | Includes MP3 download code via Ninja Tune<br>A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)<br><br>Comes with printed inner sleeve. |
+| Notes | Includes MP3 download code via Ninja Tune A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)  Comes with printed inner sleeve. |
 | Discogs URL    | [Thundercat - The Golden Age Of Apocalypse](https://www.discogs.com/release/3079712-Thundercat-The-Golden-Age-Of-Apocalypse) |

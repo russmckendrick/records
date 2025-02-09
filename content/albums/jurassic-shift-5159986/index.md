@@ -38,18 +38,18 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sun Hair | 5:43 |
-| A2 | Stretchy | 6:51 |
-| A3 | Feng Shui | 10:24 |
-| B1 | Jurassic Shift | 11:05 |
-| B2 | Pteranodon | 5:40 |
-| B3 | Train Oasis | 2:45 |
-| B4 | Vita Voom | 4:48 |
-| C1 | Half Light In Thillai | 5:35 |
-| C2 | Sun Hair (System 7 Stargate Mix) | 8:32 |
-| D1 | Pteranodon (Hallucinogen Mix) | 8:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Sun Hair |
+| A2 | Stretchy |
+| A3 | Feng Shui |
+| B1 | Jurassic Shift |
+| B2 | Pteranodon |
+| B3 | Train Oasis |
+| B4 | Vita Voom |
+| C1 | Half Light In Thillai |
+| C2 | Sun Hair (System 7 Stargate Mix) |
+| D1 | Pteranodon (Hallucinogen Mix) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Transparent Pink), Vinyl 12" Stereo (180 Gram), All Media (Gatefold) |
 | Label          | Madfish |
 | Catalog Number | SMALP955 |
-| Notes | Recorded in 1992-1993 at The Mill, Somerset.<br><br>Made in Germany.<br><br>℗ 1993 Snapper Music © 2013 Snapper Music.<br><br>Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |
+| Notes | Recorded in 1992-1993 at The Mill, Somerset.  Made in Germany.  ℗ 1993 Snapper Music © 2013 Snapper Music.  Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |
 | Discogs URL    | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986-Ozric-Tentacles-Jurassic-Shift) |

@@ -38,16 +38,16 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lessons In Love |  |
-| A2 | Children Say |  |
-| A3 | Running In The Family |  |
-| A4 | It's Over |  |
-| B1 | To Be With You Again |  |
-| B2 | Two Solitudes |  |
-| B3 | Fashion Fever |  |
-| B4 | The Sleepwalkers |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lessons In Love |
+| A2 | Children Say |
+| A3 | Running In The Family |
+| A4 | It's Over |
+| B1 | To Be With You Again |
+| B2 | Two Solitudes |
+| B3 | Fashion Fever |
+| B4 | The Sleepwalkers |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | POLH 42 |
-| Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.<br><br>There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.<br><br>Some with stickered front sleeve |
+| Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.  There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.  Some with stickered front sleeve |
 | Discogs URL    | [Level - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |

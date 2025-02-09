@@ -80,50 +80,50 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Sky Moves Sideways |  |
-| A1 | The Sky Moves Sideways - Phase 1 | 18:40 |
-| B1 | Stars Die | 5:07 |
-| B2 | Dislocated Day | 5:24 |
-| B3 | The Moon Touches Your Shoulder | 5:40 |
-| B4 | Prepare Yourself | 2:00 |
-| C1 | The Sky Moves Sideways - Phase 2 | 16:56 |
-| D1 | Moonloop | 22:23 |
-|  | Signify |  |
-| E1 | Bornlivedie | 1:46 |
-| E2 | Signify | 3:26 |
-| E3 | Sleep Of No Dreaming | 5:24 |
-| E4 | Pagan | 1:36 |
-| E5 | Waiting (Phase One) | 4:24 |
-| F1 | Waiting (Phase Two) | 6:21 |
-| F2 | Sever | 5:30 |
-| F3 | Idiot Prayer | 7:37 |
-| G1 | Every Home Is Wired | 5:08 |
-| G2 | Intermediate Jesus | 7:34 |
-| H1 | "Light Mass Prayers" | 4:29 |
-| H2 | Dark Matter | 8:52 |
-|  | Coma Divine Live In Rome |  |
-| I1 | Bornlivedieintro | 1:25 |
-| I2 | Signify | 5:24 |
-| I3 | Waiting (Phase One) | 4:32 |
-| I4 | Waiting (Phase Two) | 5:24 |
-| J1 | The Sky Moves Sideways | 12:41 |
-| J2 | Dislocated Day | 6:36 |
-| K1 | Sleep Of No Dreaming | 5:19 |
-| K2 | Moonloop | 11:40 |
-| L1 | Up The Downstair | 7:40 |
-| L2 | The Moon Touches Your Shoulder | 5:05 |
-| L3 | Always Never | 5:41 |
-| M1 | Is Not | 6:09 |
-| M2 | Radioactive Toy | 13:30 |
-| N1 | Not Beautiful Anymore | 9:39 |
-|  | Additional Material 1994 - 1997 |  |
-| O1a | Signify II (Secular Mix) | 6:00 |
-| O1b | Signify II (Religious Mix) | 6:00 |
-| P1 | Sound Of No-One Listening | 8:17 |
-| P2 | Colourflow In Mind | 3:51 |
-| P3 | Fuse The Sky | 4:36 |
+| Position | Title |
+|----------|--------|
+|  | The Sky Moves Sideways |
+| A1 | The Sky Moves Sideways - Phase 1 |
+| B1 | Stars Die |
+| B2 | Dislocated Day |
+| B3 | The Moon Touches Your Shoulder |
+| B4 | Prepare Yourself |
+| C1 | The Sky Moves Sideways - Phase 2 |
+| D1 | Moonloop |
+|  | Signify |
+| E1 | Bornlivedie |
+| E2 | Signify |
+| E3 | Sleep Of No Dreaming |
+| E4 | Pagan |
+| E5 | Waiting (Phase One) |
+| F1 | Waiting (Phase Two) |
+| F2 | Sever |
+| F3 | Idiot Prayer |
+| G1 | Every Home Is Wired |
+| G2 | Intermediate Jesus |
+| H1 | "Light Mass Prayers" |
+| H2 | Dark Matter |
+|  | Coma Divine Live In Rome |
+| I1 | Bornlivedieintro |
+| I2 | Signify |
+| I3 | Waiting (Phase One) |
+| I4 | Waiting (Phase Two) |
+| J1 | The Sky Moves Sideways |
+| J2 | Dislocated Day |
+| K1 | Sleep Of No Dreaming |
+| K2 | Moonloop |
+| L1 | Up The Downstair |
+| L2 | The Moon Touches Your Shoulder |
+| L3 | Always Never |
+| M1 | Is Not |
+| M2 | Radioactive Toy |
+| N1 | Not Beautiful Anymore |
+|  | Additional Material 1994 - 1997 |
+| O1a | Signify II (Secular Mix) |
+| O1b | Signify II (Religious Mix) |
+| P1 | Sound Of No-One Listening |
+| P2 | Colourflow In Mind |
+| P3 | Fuse The Sky |
 
 
 ## Apple Music
@@ -140,5 +140,5 @@ styles: ["Prog Rock"]
 | Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl LP Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE894 |
-| Notes | Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years.<br>Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries.<br>Disc 8, Side O is pressed as a concentric cut. |
+| Notes | Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years. Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries. Disc 8, Side O is pressed as a concentric cut. |
 | Discogs URL    | [Porcupine Tree - The Delerium Years 1994-1997](https://www.discogs.com/release/8088258-Porcupine-Tree-The-Delerium-Years-1994-1997) |

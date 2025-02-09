@@ -34,18 +34,18 @@ styles: ["Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Somebody Knockin' | 3:27 |
-| A2 | Pressure Drop | 2:42 |
-| A3 | Time Gone By | 3:47 |
-| A4 | Shuffle It All | 6:19 |
-| A5 | Bucket O' Trouble | 2:10 |
-| B1 | Train Tracks | 4:27 |
-| B2 | How Will It Go | 3:51 |
-| B3 | Cuttin' The Rug | 5:01 |
-| B4 | Take A Look At The Guy | 4:43 |
-| B5 | Come On Now Inside | 3:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Somebody Knockin' |
+| A2 | Pressure Drop |
+| A3 | Time Gone By |
+| A4 | Shuffle It All |
+| A5 | Bucket O' Trouble |
+| B1 | Train Tracks |
+| B2 | How Will It Go |
+| B3 | Cuttin' The Rug |
+| B4 | Take A Look At The Guy |
+| B5 | Come On Now Inside |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Geffen Records |
 | Catalog Number | MOVLP1386 |
-| Notes | 180g black vinyl<br> |
+| Notes | 180g black vinyl  |
 | Discogs URL    | [Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds ](https://www.discogs.com/release/8536055-Izzy-Stradlin-And-The-Ju-Ju-Hounds-Izzy-Stradlin-And-The-Ju-Ju-Hounds-) |

@@ -35,19 +35,19 @@ Although Ummagumma was well received at the time of release, and was a top-five 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Live Album |  |
-| A1 | Astronomy Domine |  |
-| A2 | Careful With That Axe Eugene |  |
-| B1 | Set The Controls For The Heart Of The Sun |  |
-| B2 | A Saucerful Of Secrets |  |
-|  | Studio Album |  |
-|  | Sysyphus |  |
-| C2 | Grantchester Meadows |  |
-| C3 | Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict |  |
-|  | The Narrow Way |  |
-|  | The Grand Vizier's Garden Party |  |
+| Position | Title |
+|----------|--------|
+|  | Live Album |
+| A1 | Astronomy Domine |
+| A2 | Careful With That Axe Eugene |
+| B1 | Set The Controls For The Heart Of The Sun |
+| B2 | A Saucerful Of Secrets |
+|  | Studio Album |
+|  | Sysyphus |
+| C2 | Grantchester Meadows |
+| C3 | Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict |
+|  | The Narrow Way |
+|  | The Grand Vizier's Garden Party |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Although Ummagumma was well received at the time of release, and was a top-five 
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP4 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: October 1969<br>Made and printed in the E.U.<br>www.pinkfloyd.com<br><br>Live album Recorded at Mothers Birmingham & Manchester College of Commerce, June 1969.<br><br>℗ & © 2016 Pink Floyd Music Ltd. |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1969 Made and printed in the E.U. www.pinkfloyd.com  Live album Recorded at Mothers Birmingham & Manchester College of Commerce, June 1969.  ℗ & © 2016 Pink Floyd Music Ltd. |
 | Discogs URL    | [Pink Floyd - Ummagumma](https://www.discogs.com/release/8604223-Pink-Floyd-Ummagumma) |

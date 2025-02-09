@@ -39,19 +39,19 @@ It is also the band's first album to feature longtime touring partner and collab
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | And That, Too. |  |
-| A2 | Speaking Gently  |  |
-| A3 | Time Moves Slow |  |
-| B1 | Confessions Pt. II |  |
-| B2 | Lavender |  |
-| B3 | Chompy's Paradise |  |
-| C1 | IV |  |
-| C2 | Hyssop of Love |  |
-| C3 | Structure No. 3 |  |
-| D1 | In Your Eyes |  |
-| D2 | Cashmere |  |
+| Position | Title |
+|----------|--------|
+| A1 | And That, Too. |
+| A2 | Speaking Gently  |
+| A3 | Time Moves Slow |
+| B1 | Confessions Pt. II |
+| B2 | Lavender |
+| B3 | Chompy's Paradise |
+| C1 | IV |
+| C2 | Hyssop of Love |
+| C3 | Structure No. 3 |
+| D1 | In Your Eyes |
+| D2 | Cashmere |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ It is also the band's first album to feature longtime touring partner and collab
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Innovative Leisure Records |
 | Catalog Number | IL 2034 |
-| Notes | Gatefold cover.<br>Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.<br> |
+| Notes | Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.  |
 | Discogs URL    | [BadBadNotGood - IV](https://www.discogs.com/release/8716935-BadBadNotGood-IV) |

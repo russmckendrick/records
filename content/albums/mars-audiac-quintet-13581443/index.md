@@ -37,37 +37,37 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Mars Audiac Quintet  |  |
-| A1 | Three-Dee Melodie |  |
-| A2 | Wow And Flutter |  |
-| A3 | Transona Five |  |
-| A4 | Des Etoiles Electroniques |  |
-| B1 | Ping Pong |  |
-| B2 | Anamorphose |  |
-| B3 | Three Longers Later |  |
-| C1 | Nihilist Assault Group |  |
-| C2 | International Colouring Contest |  |
-| C3 | The Stars Our Destination |  |
-| C4 | Transporte Sans Bouger |  |
-| D1 | L'Enfer Des Formes |  |
-| D2 | Outer Accelerator |  |
-| D3 | New Orthophony |  |
-| D4 | Fiery Yellow |  |
-|  | Demos And Alternate Versions |  |
-| E1 | Ulan Bator |  |
-| E2 | Klang Tone |  |
-| E3 | Melochord Seventy-Five (Original Pulse Version) |  |
-| E4 | Outer Accelerator - (Original Mix) |  |
-| F1 | Nihilist Assault Group - Part 6 |  |
-| F2 | Wow And Flutter (7"/EP Version - Alternative Mix) |  |
-| F3 | Des Etoile Electroniques - Demo |  |
-| F4 | Ping Pong - Demo |  |
-| F5 | The Stars Our Destination - Demo |  |
-| F6 | Three Longers Later - Demo |  |
-| F7 | Transona Five - Demo |  |
-| F8 | Transporté Sans Bouger - Demo |  |
+| Position | Title |
+|----------|--------|
+|  | Mars Audiac Quintet  |
+| A1 | Three-Dee Melodie |
+| A2 | Wow And Flutter |
+| A3 | Transona Five |
+| A4 | Des Etoiles Electroniques |
+| B1 | Ping Pong |
+| B2 | Anamorphose |
+| B3 | Three Longers Later |
+| C1 | Nihilist Assault Group |
+| C2 | International Colouring Contest |
+| C3 | The Stars Our Destination |
+| C4 | Transporte Sans Bouger |
+| D1 | L'Enfer Des Formes |
+| D2 | Outer Accelerator |
+| D3 | New Orthophony |
+| D4 | Fiery Yellow |
+|  | Demos And Alternate Versions |
+| E1 | Ulan Bator |
+| E2 | Klang Tone |
+| E3 | Melochord Seventy-Five (Original Pulse Version) |
+| E4 | Outer Accelerator - (Original Mix) |
+| F1 | Nihilist Assault Group - Part 6 |
+| F2 | Wow And Flutter (7"/EP Version - Alternative Mix) |
+| F3 | Des Etoile Electroniques - Demo |
+| F4 | Ping Pong - Demo |
+| F5 | The Stars Our Destination - Demo |
+| F6 | Three Longers Later - Demo |
+| F7 | Transona Five - Demo |
+| F8 | Transporté Sans Bouger - Demo |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media (Expanded Edition) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D05R |
-| Notes | Black vinyl re-issue.<br><br>Expanded issue, includes a bonus disk of demos and alternate versions.<br><br>Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.<br><br>Comes with a 4-panel fold out poster with liner notes on the reverse.<br><br>A download code is also included.<br><br><br>40 copies were made with obi by Martin Pike and sold through Rough Trade UK.<br>20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.<br> |
+| Notes | Black vinyl re-issue.  Expanded issue, includes a bonus disk of demos and alternate versions.  Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.  Comes with a 4-panel fold out poster with liner notes on the reverse.  A download code is also included.   40 copies were made with obi by Martin Pike and sold through Rough Trade UK. 20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.  |
 | Discogs URL    | [Stereolab - Mars Audiac Quintet](https://www.discogs.com/release/13581443-Stereolab-Mars-Audiac-Quintet) |

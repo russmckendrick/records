@@ -28,18 +28,18 @@ The band's music has been compared to Long Island emo, pop punk and melodic hard
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strange Bird In The Sky | 5:36 |
-| A2 | Jettisoned | 4:55 |
-| A3 | The Beauty In Loneliness | 5:26 |
-| B1 | Lost In The Kingdom | 3:47 |
-| B2 | Jouska | 6:26 |
-| C1 | Ray Of Sunshine | 5:34 |
-| C2 | What Is Mine | 5:35 |
-| C3 | Now I Understand | 4:11 |
-| D1 | Tetrachromat (Parts 1 & 2) | 8:08 |
-| D2 | Release | 6:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Strange Bird In The Sky |
+| A2 | Jettisoned |
+| A3 | The Beauty In Loneliness |
+| B1 | Lost In The Kingdom |
+| B2 | Jouska |
+| C1 | Ray Of Sunshine |
+| C2 | What Is Mine |
+| C3 | Now I Understand |
+| D1 | Tetrachromat (Parts 1 & 2) |
+| D2 | Release |
 
 
 ## Apple Music

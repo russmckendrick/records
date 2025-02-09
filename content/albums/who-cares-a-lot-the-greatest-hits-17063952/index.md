@@ -35,23 +35,23 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Care A Lot (Original Version) |  |
-| A2 | Introduce Yourself |  |
-| A3 | From Out Of Nowhere |  |
-| A4 | Epic |  |
-| B1 | Falling To Pieces |  |
-| B2 | Midlife Crisis |  |
-| B3 | A Small Victory |  |
-| B4 | Easy |  |
-| C1 | Digging The Grave |  |
-| C2 | The Gentle Art Of Making Enemies |  |
-| C3 | Evidence |  |
-| C4 | I Started A Joke |  |
-| D1 | Last Cup Of Sorrow |  |
-| D2 | Ashes To Ashes |  |
-| D3 | Stripsearch |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Care A Lot (Original Version) |
+| A2 | Introduce Yourself |
+| A3 | From Out Of Nowhere |
+| A4 | Epic |
+| B1 | Falling To Pieces |
+| B2 | Midlife Crisis |
+| B3 | A Small Victory |
+| B4 | Easy |
+| C1 | Digging The Grave |
+| C2 | The Gentle Art Of Making Enemies |
+| C3 | Evidence |
+| C4 | I Started A Joke |
+| D1 | Last Cup Of Sorrow |
+| D2 | Ashes To Ashes |
+| D3 | Stripsearch |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue (Gold) |
 | Label          | Slash |
 | Catalog Number | 190295233174 |
-| Notes | Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.<br><br>This compilation ℗ 1998 Slash Records / Warner Music UK Limited.<br>© 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved. <br><br>Manufactured for & marketed by Warner Music UK Limited. <br>Made in Germany. |
+| Notes | Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany. |
 | Discogs URL    | [Faith No More - Who Cares A Lot? The Greatest Hits](https://www.discogs.com/release/17063952-Faith-No-More-Who-Cares-A-Lot-The-Greatest-Hits) |

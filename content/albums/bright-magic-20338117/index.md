@@ -28,19 +28,19 @@ styles: ["Indie Rock", "Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Der Sumpf (Sinfonie Der Großstadt)  |  |
-| A2 | Im Licht |  |
-| A3 | Der Rhythmus Der Maschinen |  |
-| A4 | People, Let's Dance |  |
-| A5 | Blue Heaven |  |
-| A6 | Gib Mir Das Licht |  |
-| B1 | The Visitor |  |
-| B2 | Lichtspiel I: Opus |  |
-| B3 | Lichtspiel II: Schwarz Weiss Grau |  |
-| B4 | Lichtspiel III: Symphonie Diagonale |  |
-| B5 | Ich Und Die Stadt |  |
+| Position | Title |
+|----------|--------|
+| A1 | Der Sumpf (Sinfonie Der Großstadt)  |
+| A2 | Im Licht |
+| A3 | Der Rhythmus Der Maschinen |
+| A4 | People, Let's Dance |
+| A5 | Blue Heaven |
+| A6 | Gib Mir Das Licht |
+| B1 | The Visitor |
+| B2 | Lichtspiel I: Opus |
+| B3 | Lichtspiel II: Schwarz Weiss Grau |
+| B4 | Lichtspiel III: Symphonie Diagonale |
+| B5 | Ich Und Die Stadt |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Indie Rock", "Post Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Orange/Black [Marbled]) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR1230LPX |
-| Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX<br><br>Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print<br><br>℗ & © 2021 Test Card Recordings<br>Released under exclusive license to Play It Again Sam.<br><br>Made in The EU. |
+| Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU. |
 | Discogs URL    | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117-Public-Service-Broadcasting-Bright-Magic) |

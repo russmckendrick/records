@@ -35,15 +35,15 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bat Out Of Hell | 9:48 |
-| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) | 5:04 |
-| A3 | Heaven Can Wait | 4:38 |
-| A4 | All Revved Up With No Place To Go | 4:19 |
-| B1 | Two Out Of Three Ain't Bad | 5:23 |
-|  | Paradise By The Dashboard Light | 8:28 |
-| B3 | For Crying Out Loud | 8:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Bat Out Of Hell |
+| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) |
+| A3 | Heaven Can Wait |
+| A4 | All Revved Up With No Place To Go |
+| B1 | Two Out Of Three Ain't Bad |
+|  | Paradise By The Dashboard Light |
+| B3 | For Crying Out Loud |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Epic |
 | Catalog Number | 88985375141 |
-| Notes | Some copies have a sticker. <br><br>Dedicated to Wesley and Wilma Aday and Louis Steinman.<br><br>Edgar Winter appears courtesy of Blue Sky Records. <br>Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records. <br><br>Made in the EU.  |
+| Notes | Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.   Made in the EU.  |
 | Discogs URL    | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/9681142-Meat-Loaf-Bat-Out-Of-Hell) |

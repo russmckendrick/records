@@ -33,19 +33,19 @@ The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Bil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Free | 4:00 |
-| A2 | Mother Universe | 3:42 |
-| A3 | Backwards Dog | 2:16 |
-| A4 | Softly | 2:56 |
-| A5 | Drive The Pain | 2:20 |
-| B1 | Lovegod | 3:36 |
-| B2 | Dream-E-Forever | 2:12 |
-| B3 | Sweetmeat | 4:20 |
-| B4 | Kiss The Gun | 2:30 |
-| B5 | Love You To Death | 2:40 |
-| B6 | Beauty Freak | 3:05 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Free |
+| A2 | Mother Universe |
+| A3 | Backwards Dog |
+| A4 | Softly |
+| A5 | Drive The Pain |
+| B1 | Lovegod |
+| B2 | Dream-E-Forever |
+| B3 | Sweetmeat |
+| B4 | Kiss The Gun |
+| B5 | Love You To Death |
+| B6 | Beauty Freak |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Bil
 | Format         | Vinyl LP Album Reissue |
 | Label          | Big Life |
 | Catalog Number | SOUP LP2R |
-| Notes | Reissue added "I'm Free" in place of "From Heaven And Back" & "Man".<br><br>"From sweeteness comes forth strength"<br><br>All tracks published by Big Life Music / Soup Music except A1 published by Westminster Music Ltd.<br>All titles ℗ & © 1990 Big Life Records except A1 ℗ & © 1989 Big Life Records.<br>Made in England. |
+| Notes | Reissue added "I'm Free" in place of "From Heaven And Back" & "Man".  "From sweeteness comes forth strength"  All tracks published by Big Life Music / Soup Music except A1 published by Westminster Music Ltd. All titles ℗ & © 1990 Big Life Records except A1 ℗ & © 1989 Big Life Records. Made in England. |
 | Discogs URL    | [The Soup Dragons - Lovegod](https://www.discogs.com/release/632447-The-Soup-Dragons-Lovegod) |

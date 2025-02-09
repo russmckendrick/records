@@ -32,18 +32,18 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Motherless Children |  |
-| A2 | Give Me Strength |  |
-| A3 | Willie And The Hand Jive |  |
-| A4 | Get Ready |  |
-| A5 | I Shot The Sheriff |  |
-| B1 | I Can't Hold Out Much Longer |  |
-| B2 | Please Be With Me |  |
-| B3 | Let It Grow |  |
-| B4 | Steady Rollin' Man |  |
-| B5 | Mainline Florida |  |
+| Position | Title |
+|----------|--------|
+| A1 | Motherless Children |
+| A2 | Give Me Strength |
+| A3 | Willie And The Hand Jive |
+| A4 | Get Ready |
+| A5 | I Shot The Sheriff |
+| B1 | I Can't Hold Out Much Longer |
+| B2 | Please Be With Me |
+| B3 | Let It Grow |
+| B4 | Steady Rollin' Man |
+| B5 | Mainline Florida |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | RSO |
 | Catalog Number | SPELP 24 |
-| Notes | Non-gatefold sleeve.<br><br>— Back cover:<br>Recorded at Criteria Recording Studios, Miami, Florida.<br>Yvonne Elliman courtesy of Purple Records.<br>Al Jackson courtesy of Stax Records.<br>Produced […] by arrangement with the Robert Stigwood Organization<br>℗ 1974 RSO Records © 1983 Polydor Ltd. (London)<br><br>— Labels:<br>Made in England<br>Marketed by Polydor Ltd<br>Original Sound Recording made by RSO Records Ltd.<br>℗ 1974 RSO Records Ltd.<br><br>All matrix details are stamped. |
+| Notes | Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.  All matrix details are stamped. |
 | Discogs URL    | [Eric Clapton - 461 Ocean Boulevard](https://www.discogs.com/release/1496277-Eric-Clapton-461-Ocean-Boulevard) |

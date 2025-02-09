@@ -29,24 +29,24 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magazine Zooey Deschanel | 2:08 |
-| A2 | Bird | 2:35 |
-| A3 | I Just Called To Say I Like You | 3:49 |
-| A4 | Petroleum | 2:55 |
-| A5 | Boarded Doors In Bedford Place | 1:19 |
-| A6 | Bee | 3:40 |
-| A7 | Last Track On Side Fun | 3:40 |
-| A8 | Coda | 1:46 |
-| B1 | Lonely Doe Young Doe | 3:47 |
-| B2 | Here Comes A Man From The Council With A Flamethrower | 2:05 |
-| B3 | Unison One | 1:56 |
-| B4 | Commons | 3:22 |
-| B5 | Cherub | 2:07 |
-| B6 | Unison 3 | 3:58 |
-| B7 | Boarded Doors Reprise | 0:48 |
-| B8 | Anyway | 3:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Magazine Zooey Deschanel |
+| A2 | Bird |
+| A3 | I Just Called To Say I Like You |
+| A4 | Petroleum |
+| A5 | Boarded Doors In Bedford Place |
+| A6 | Bee |
+| A7 | Last Track On Side Fun |
+| A8 | Coda |
+| B1 | Lonely Doe Young Doe |
+| B2 | Here Comes A Man From The Council With A Flamethrower |
+| B3 | Unison One |
+| B4 | Commons |
+| B5 | Cherub |
+| B6 | Unison 3 |
+| B7 | Boarded Doors Reprise |
+| B8 | Anyway |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (180 Gram) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG081 |
-| Notes | Packaged in a single jacket with 2-page color insert and polylined LP sleeve.<br><br>Limited edition of 300 copies of which the first 60 were signed by the band. |
+| Notes | Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band. |
 | Discogs URL    | [A Formal Horse -  Here Comes A Man From The Council With A Flamethrower](https://www.discogs.com/release/14849783-A-Formal-Horse-Here-Comes-A-Man-From-The-Council-With-A-Flamethrower) |

@@ -30,20 +30,20 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Do You Still Love Me? |  |
-| A2 | Prisoner |  |
-| A3 | Doomsday |  |
-| A4 | Haunted House |  |
-| A5 | Shiver and Shake |  |
-| A6 | To Be Without You |  |
-| B1 | Anything I Say To You Now |  |
-| B2 | Breakdown |  |
-| B3 | Outbound Train |  |
-| B4 | Broken Anyway |  |
-| B5 | Tightrope |  |
-| B6 | We Disappear |  |
+| Position | Title |
+|----------|--------|
+| A1 | Do You Still Love Me? |
+| A2 | Prisoner |
+| A3 | Doomsday |
+| A4 | Haunted House |
+| A5 | Shiver and Shake |
+| A6 | To Be Without You |
+| B1 | Anything I Say To You Now |
+| B2 | Breakdown |
+| B3 | Outbound Train |
+| B4 | Broken Anyway |
+| B5 | Tightrope |
+| B6 | We Disappear |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 058 |
-| Notes | Includes a download card (MP3 and WAV).<br>Comes with a full colour insert that has lyrics and credits.<br><br>All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note.<br>©2017 Paxamericana Recording Company under exclusive license to Blue Note.<br><br>All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)<br><br>1st Cat # - Labels, rear cover<br>2nd Cat # - labels<br>3rd Cat # - Rear cover, spine<br><br>Runouts are etched except for "P. USA" and "-42229-" which are stamped. |
+| Notes | Includes a download card (MP3 and WAV). Comes with a full colour insert that has lyrics and credits.  All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note. ©2017 Paxamericana Recording Company under exclusive license to Blue Note.  All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)  1st Cat # - Labels, rear cover 2nd Cat # - labels 3rd Cat # - Rear cover, spine  Runouts are etched except for "P. USA" and "-42229-" which are stamped. |
 | Discogs URL    | [Ryan Adams - Prisoner](https://www.discogs.com/release/9848579-Ryan-Adams-Prisoner) |

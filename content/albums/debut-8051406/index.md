@@ -35,19 +35,19 @@ Still, even in the midst of <i>Debut</i>’s constant tonal shifts and switchbac
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Human Behaviour | 4:12 |
-| A2 | Crying | 4:49 |
-| A3 | Venus As A Boy | 4:41 |
-| A4 | There's More To Life Than This (Recorded Live At The Milk Bar Toilets) | 3:21 |
-| A5 | Like Someone In Love | 4:33 |
-| A6 | Big Time Sensuality | 3:56 |
-| B1 | One Day | 5:24 |
-| B2 | Aeroplane | 3:54 |
-| B3 | Come To Me | 4:55 |
-| B4 | Violently Happy | 4:58 |
-| B5 | The Anchor Song | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Human Behaviour |
+| A2 | Crying |
+| A3 | Venus As A Boy |
+| A4 | There's More To Life Than This (Recorded Live At The Milk Bar Toilets) |
+| A5 | Like Someone In Love |
+| A6 | Big Time Sensuality |
+| B1 | One Day |
+| B2 | Aeroplane |
+| B3 | Come To Me |
+| B4 | Violently Happy |
+| B5 | The Anchor Song |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Still, even in the midst of <i>Debut</i>’s constant tonal shifts and switchbac
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Polydor |
 | Catalog Number | 4751686 |
-| Notes | Reissue on black 180 gram vinyl, with black hype sticker. Includes card with download voucher. Appears identical to the 2015 edition, although this one features new artwork reproductions. Made in Germany.<br>4751686 is printed on the back cover above the barcode, 0602547516862 is printed on the bottom spine.<br>Runouts are etched. The parts "1I△" and "3+" are mirrored. |
+| Notes | Reissue on black 180 gram vinyl, with black hype sticker. Includes card with download voucher. Appears identical to the 2015 edition, although this one features new artwork reproductions. Made in Germany. 4751686 is printed on the back cover above the barcode, 0602547516862 is printed on the bottom spine. Runouts are etched. The parts "1I△" and "3+" are mirrored. |
 | Discogs URL    | [Björk - Debut](https://www.discogs.com/release/8051406-Björk-Debut) |

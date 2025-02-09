@@ -35,17 +35,17 @@ A remastered and expanded version was released in 2004. A complete box set of st
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Bang The Drum |  |
-| A2 | The Whole Of The Moon  |  |
-| A3 | Spirit |  |
-| A4 | The Pan Within |  |
-| B1 | Medicine Bow |  |
-| B2 | Old England |  |
-| B3 | Be My Enemy |  |
-| B4 | Trumpets |  |
-| B5 | This Is The Sea |  |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Bang The Drum |
+| A2 | The Whole Of The Moon  |
+| A3 | Spirit |
+| A4 | The Pan Within |
+| B1 | Medicine Bow |
+| B2 | Old England |
+| B3 | Be My Enemy |
+| B4 | Trumpets |
+| B5 | This Is The Sea |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ A remastered and expanded version was released in 2004. A complete box set of st
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Chrysalis |
 | Catalog Number | ENCLX 5 |
-| Notes | Limited Edition 180gm Clear Vinyl<br><br>Made in the Czech Republic |
+| Notes | Limited Edition 180gm Clear Vinyl  Made in the Czech Republic |
 | Discogs URL    | [The Waterboys - This Is The Sea](https://www.discogs.com/release/29905867-The-Waterboys-This-Is-The-Sea) |

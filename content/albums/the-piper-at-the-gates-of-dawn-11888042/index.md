@@ -38,19 +38,19 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Astronomy Dominé | 4:09 |
-| A2 | Lucifer Sam | 3:09 |
-| A3 | Matilda Mother | 3:05 |
-| A4 | Flaming | 2:44 |
-| A5 | Pow R. Toc H. | 4:24 |
-| A6 | Take Up Thy Stethoscope And Walk | 3:06 |
-| B1 | Interstellar Overdrive | 9:41 |
-| B2 | The Gnome | 2:10 |
-| B3 | Chapter 24 | 3:51 |
-| B4 | The Scarecrow | 2:11 |
-| B5 | Bike | 3:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Astronomy Dominé |
+| A2 | Lucifer Sam |
+| A3 | Matilda Mother |
+| A4 | Flaming |
+| A5 | Pow R. Toc H. |
+| A6 | Take Up Thy Stethoscope And Walk |
+| B1 | Interstellar Overdrive |
+| B2 | The Gnome |
+| B3 | Chapter 24 |
+| B4 | The Scarecrow |
+| B5 | Bike |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP26 |
-| Notes | RSD 2018 release, limited edition package with poster.<br>Quantity: 15.000 copies worldwide.<br><br>Original UK release date: August 1967.<br>© 2018 Pink Floyd Music Ltd. |
+| Notes | RSD 2018 release, limited edition package with poster. Quantity: 15.000 copies worldwide.  Original UK release date: August 1967. © 2018 Pink Floyd Music Ltd. |
 | Discogs URL    | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/11888042-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |

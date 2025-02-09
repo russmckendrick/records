@@ -27,18 +27,18 @@ The album entered the UK Albums Chart at number one. All tracks were written or 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Little Lady | 3:05 |
-| A2 | Most Of The Time | 3:21 |
-| A3 | I Saw The Light | 3:55 |
-| A4 | Over And Done | 3:55 |
-| A5 | Nightride | 3:52 |
-| B1 | Down Down | 5:24 |
-| B2 | Broken Man | 4:13 |
-| B3 | What To Do | 3:15 |
-| B4 | Where I Am | 3:10 |
-| B5 | Bye Bye Johnny | 4:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Little Lady |
+| A2 | Most Of The Time |
+| A3 | I Saw The Light |
+| A4 | Over And Done |
+| A5 | Nightride |
+| B1 | Down Down |
+| B2 | Broken Man |
+| B3 | What To Do |
+| B4 | Where I Am |
+| B5 | Bye Bye Johnny |
 
 
 ## Apple Music

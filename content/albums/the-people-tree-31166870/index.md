@@ -26,32 +26,32 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Institution Man |  |
-| A2 | Jesse |  |
-| A3 | Stardust Bubblegum |  |
-| A4 | Mister Freedom |  |
-| A5 | Dragster |  |
-| A6 | Find It |  |
-| B1 | The People Tree |  |
-| B2 | Apple Green |  |
-| B3 | Time Of The Future |  |
-| B4 | Saturation 70 |  |
-| B5 | Illusions |  |
-| B6 | A Trip Down Brian Lane |  |
-| C1 | Jesse (Alternate Master Mix) |  |
-| C2 | Institution Man (Single Edit) |  |
-| C3 | Warlocks Of The Mind (Pt. 1) |  |
-| C4 | Time Of The Future (Alternative EP Mix) |  |
-| C5 | Find It (Radio Edit) |  |
-| C6 | Almost Grown (Featuring Paul Weller) |  |
-| D1 | Apple Green (With Harmony Vocal) |  |
-| D2 | Illusions (No Horns Mix) |  |
-| D3 | Take A Trip Down Brian Lane (7-Inch Edit) |  |
-| D4 | Slide Sweet Baby |  |
-| D5 | People Tree (No Mellotron Mix) |  |
-| D6 | Jess (Alt. Brendan Lynch Radio Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Institution Man |
+| A2 | Jesse |
+| A3 | Stardust Bubblegum |
+| A4 | Mister Freedom |
+| A5 | Dragster |
+| A6 | Find It |
+| B1 | The People Tree |
+| B2 | Apple Green |
+| B3 | Time Of The Future |
+| B4 | Saturation 70 |
+| B5 | Illusions |
+| B6 | A Trip Down Brian Lane |
+| C1 | Jesse (Alternate Master Mix) |
+| C2 | Institution Man (Single Edit) |
+| C3 | Warlocks Of The Mind (Pt. 1) |
+| C4 | Time Of The Future (Alternative EP Mix) |
+| C5 | Find It (Radio Edit) |
+| C6 | Almost Grown (Featuring Paul Weller) |
+| D1 | Apple Green (With Harmony Vocal) |
+| D2 | Illusions (No Horns Mix) |
+| D3 | Take A Trip Down Brian Lane (7-Inch Edit) |
+| D4 | Slide Sweet Baby |
+| D5 | People Tree (No Mellotron Mix) |
+| D6 | Jess (Alt. Brendan Lynch Radio Mix) |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 | Format         | Vinyl 2× LP Album Reissue Special Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP384 |
-| Notes | 30th Anniversary 2LP Edition<br><br>Includes 3 previously unreleased tracks, 5 tracks previously unreleased on vinyl |
+| Notes | 30th Anniversary 2LP Edition  Includes 3 previously unreleased tracks, 5 tracks previously unreleased on vinyl |
 | Discogs URL    | [Mother Earth - The People Tree](https://www.discogs.com/release/31166870-Mother-Earth-The-People-Tree) |

@@ -33,24 +33,24 @@ styles: ["Prog Rock", "Goth Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Forgotten Who We Are |  |
-| A2 | You Put The Devil In Me |  |
-| B1 | 444 |  |
-| B2 | Goodnight Europe Pt2 |  |
-| C1 | (-) |  |
-| C2 | Song For The Unloved |  |
-| D1 | Whissendine |  |
-| D2 | Blizzard Of Horned Cats |  |
-| E1 | Vengeance |  |
-| E2 | Self Control |  |
-| E3 | Blueprint |  |
-| E4 | And Thats Sad |  |
-| F1 | Hammer Song |  |
-| F2 | When A Blind Man Cries |  |
-| F3 | My Pal |  |
-| F4 | Goin' Against Your Mind |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Forgotten Who We Are |
+| A2 | You Put The Devil In Me |
+| B1 | 444 |
+| B2 | Goodnight Europe Pt2 |
+| C1 | (-) |
+| C2 | Song For The Unloved |
+| D1 | Whissendine |
+| D2 | Blizzard Of Horned Cats |
+| E1 | Vengeance |
+| E2 | Self Control |
+| E3 | Blueprint |
+| E4 | And Thats Sad |
+| F1 | Hammer Song |
+| F2 | When A Blind Man Cries |
+| F3 | My Pal |
+| F4 | Goin' Against Your Mind |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Prog Rock", "Goth Rock"]
 | Format         | Vinyl 3× LP Limited Edition Stereo (Silver) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM818LPD |
-| Notes | Sticker reads:<br><br>20 Years Of CRIPPED BLACK PHOENIX<br><br>After two decades of challenging the silence, this double album redefines echoes of the past and honors the rebels who lit the path.<br><br>Silver vinyl strictly limited to 500 copies worldwide! |
+| Notes | Sticker reads:  20 Years Of CRIPPED BLACK PHOENIX  After two decades of challenging the silence, this double album redefines echoes of the past and honors the rebels who lit the path.  Silver vinyl strictly limited to 500 copies worldwide! |
 | Discogs URL    | [Crippled Black Phoenix - The Wolf Changes Its Fur But Not Its Nature + Horrific Honorifics Number Two](https://www.discogs.com/release/32439303-Crippled-Black-Phoenix-The-Wolf-Changes-Its-Fur-But-Not-Its-Nature-Horrific-Honorifics-Number-Two) |

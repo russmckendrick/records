@@ -36,20 +36,20 @@ A music video for their song "The Big Picture" was made, but the only member of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Left Side |  |
-| A1 | The Big Picture | 4:19 |
-| A2 | Cool On Your Island | 4:57 |
-| A3 | Fayth | 4:23 |
-| A4 | Fire On The Side | 4:53 |
-| A5 | Pirates | 4:16 |
-|  | Right Side |  |
-| B1 | Floating City | 5:22 |
-| B2 | Heart Attack At 23 | 5:16 |
-| B3 | On The Boundary | 4:38 |
-| B4 | You Go To My Head | 3:55 |
-|  | Etienne Trilogy | 6:45 |
+| Position | Title |
+|----------|--------|
+|  | Left Side |
+| A1 | The Big Picture |
+| A2 | Cool On Your Island |
+| A3 | Fayth |
+| A4 | Fire On The Side |
+| A5 | Pirates |
+|  | Right Side |
+| B1 | Floating City |
+| B2 | Heart Attack At 23 |
+| B3 | On The Boundary |
+| B4 | You Go To My Head |
+|  | Etienne Trilogy |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ A music video for their song "The Big Picture" was made, but the only member of 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (Orange) |
 | Label          | Atlantic |
 | Catalog Number | 081227942410 |
-| Notes | Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.<br><br>081227942410 on spine. |
+| Notes | Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine. |
 | Discogs URL    | [Y Kant Tori Read - Y Kant Tori Read](https://www.discogs.com/release/11172681-Y-Kant-Tori-Read-Y-Kant-Tori-Read) |

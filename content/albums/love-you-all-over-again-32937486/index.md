@@ -25,18 +25,18 @@ styles: ["Folk Rock", "Neofolk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Everything Else | 5:15 |
-| 2 | Didn't Know Why | 4:07 |
-| 3 | Sixes | 2:44 |
-| 4 | Snails | 5:10 |
-| 5 | Laundry | 4:42 |
-| 6 | Drifting Memory Station | 4:14 |
-| 7 | Deep Underneath | 5:30 |
-| 8 | Levitate A Little | 3:23 |
-| 9 | Yeekeys | 3:26 |
-| 10 | Coat Hangers | 5:16 |
+| Position | Title |
+|----------|--------|
+| 1 | Everything Else |
+| 2 | Didn't Know Why |
+| 3 | Sixes |
+| 4 | Snails |
+| 5 | Laundry |
+| 6 | Drifting Memory Station |
+| 7 | Deep Underneath |
+| 8 | Levitate A Little |
+| 9 | Yeekeys |
+| 10 | Coat Hangers |
 
 
 ## Apple Music

@@ -30,14 +30,14 @@ Larks' Tongues in Aspic is the fifth studio album by the English progressive roc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Larks' Tongues In Aspic, Part One | 13:36 |
-| A2 | Book Of Saturday | 2:59 |
-| A3 | Exiles | 7:37 |
-| B1 | Easy Money | 7:51 |
-| B2 | The Talking Drum | 7:28 |
-| B3 | Larks' Tongues In Aspic, Part Two | 7:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Larks' Tongues In Aspic, Part One |
+| A2 | Book Of Saturday |
+| A3 | Exiles |
+| B1 | Easy Money |
+| B2 | The Talking Drum |
+| B3 | Larks' Tongues In Aspic, Part Two |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ Larks' Tongues in Aspic is the fifth studio album by the English progressive roc
 | Format         | Vinyl LP Album Reissue Remastered Repress Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP 5 |
-| Notes | This pressing does NOT include a color postcard with download code, and also differs in the text on the sticker on the shrink wrap:<br>KCLP5<br>• The original stereo mix of the 1973 classic<br>• Newly cut from masters approved by Robert Fripp<br>(NO line with wording about inclusion of download code)<br>• 200-gram super-heavyweight vinyl<br><br>Barcode on sticker only.<br>Includes a branded inner sleeve and a single-sided printed insert.<br><br>All songs published by EMI Music Publishing Ltd./UMG Music Ltd.<br><br>Recorded at Command Studios, London - Jan & Feb 1973.<br><br>Lyrics © 1973 Richard W. Palmer-James.<br><br>℗ & © 2013 Robert Fripp.<br><br>A King Crimson Production<br>Made in England. |
+| Notes | This pressing does NOT include a color postcard with download code, and also differs in the text on the sticker on the shrink wrap: KCLP5 • The original stereo mix of the 1973 classic • Newly cut from masters approved by Robert Fripp (NO line with wording about inclusion of download code) • 200-gram super-heavyweight vinyl  Barcode on sticker only. Includes a branded inner sleeve and a single-sided printed insert.  All songs published by EMI Music Publishing Ltd./UMG Music Ltd.  Recorded at Command Studios, London - Jan & Feb 1973.  Lyrics © 1973 Richard W. Palmer-James.  ℗ & © 2013 Robert Fripp.  A King Crimson Production Made in England. |
 | Discogs URL    | [King Crimson - Larks' Tongues In Aspic](https://www.discogs.com/release/9596844-King-Crimson-Larks-Tongues-In-Aspic) |

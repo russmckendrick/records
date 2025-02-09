@@ -36,26 +36,26 @@ The original European version of the album contains 18 tracks, while the version
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Is A Stranger | 3:40 |
-| A2 | Sweet Dreams (Are Made Of This) | 4:50 |
-| A3 | Who's That Girl? | 3:44 |
-| A4 | Right By Your Side | 3:49 |
-| A5 | Here Comes The Rain Again | 4:54 |
-| B1 | There Must Be An Angel (Playing With My Heart) | 4:41 |
-| B2 | Sisters Are Doin' It For Themselves | 4:51 |
-| B3 | It's Alright (Baby's Coming Back) | 3:43 |
-| B4 | When Tomorrow Comes | 4:15 |
-| C1 | You Have Placed A Chill In My Heart | 3:46 |
-| C2 | Miracle Of Love | 4:35 |
-| C3 | Sex Crime (1984) | 3:52 |
-| C4 | Thorn In My Side | 4:11 |
-| C5 | Don't Ask Me Why | 4:13 |
-| D1 | Angel | 4:47 |
-| D2 | Would I Lie To You? | 4:22 |
-| D3 | Missionary Man | 3:45 |
-| D4 | I Need A Man | 4:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Is A Stranger |
+| A2 | Sweet Dreams (Are Made Of This) |
+| A3 | Who's That Girl? |
+| A4 | Right By Your Side |
+| A5 | Here Comes The Rain Again |
+| B1 | There Must Be An Angel (Playing With My Heart) |
+| B2 | Sisters Are Doin' It For Themselves |
+| B3 | It's Alright (Baby's Coming Back) |
+| B4 | When Tomorrow Comes |
+| C1 | You Have Placed A Chill In My Heart |
+| C2 | Miracle Of Love |
+| C3 | Sex Crime (1984) |
+| C4 | Thorn In My Side |
+| C5 | Don't Ask Me Why |
+| D1 | Angel |
+| D2 | Would I Lie To You? |
+| D3 | Missionary Man |
+| D4 | I Need A Man |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ The original European version of the album contains 18 tracks, while the version
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Label          | Legacy |
 | Catalog Number | 88985370421 |
-| Notes | Sticker on plastic wrap:<br>"Legacy Vinyl - 180 Gram Superior Audio Quality".<br><br>Made in the EU. |
+| Notes | Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU. |
 | Discogs URL    | [Eurythmics - Greatest Hits](https://www.discogs.com/release/9555739-Eurythmics-Greatest-Hits) |

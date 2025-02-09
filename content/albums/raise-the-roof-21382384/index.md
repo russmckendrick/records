@@ -34,20 +34,20 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Quattro (World Drifts In) | 4:35 |
-| A2 | The Price Of Love | 4:50 |
-| A3 | Go Your Way | 5:07 |
-| B1 | Trouble With My Lover | 4:03 |
-| B2 | Searching For My Love | 4:03 |
-| B3 | Can't Let Go | 3:41 |
-| C1 | It Don't Bother Me | 5:06 |
-| C2 | You Led Me To The Wrong | 4:17 |
-| C3 | Last Kind Words Blues | 4:06 |
-| D1 | High And Lonesome | 4:33 |
-| D2 | Going Where The Lonely Go | 4:10 |
-| D3 | Somebody Was Watching Over Me | 5:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Quattro (World Drifts In) |
+| A2 | The Price Of Love |
+| A3 | Go Your Way |
+| B1 | Trouble With My Lover |
+| B2 | Searching For My Love |
+| B3 | Can't Let Go |
+| C1 | It Don't Bother Me |
+| C2 | You Led Me To The Wrong |
+| C3 | Last Kind Words Blues |
+| D1 | High And Lonesome |
+| D2 | Going Where The Lonely Go |
+| D3 | Somebody Was Watching Over Me |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Red Translucent) |
 | Label          | Warner Music |
 | Catalog Number | 0190296548857 |
-| Notes | Amazon Europe limited release.<br><br>Comes in a gatefold sleeve with alternate red artwork.<br><br>Issued with plain black inner sleeves (discobags), both with the catalog number.<br><br>℗ & © 2021 Hokker, Inc and Trolcharm Limited.<br>Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada <br>Made in The Netherlands.<br><br>T Bone Burnett appears courtesy of Verse Forecast<br>Bill Frisell  appears courtesy of Blue Note Records<br>Lucinda Williams  appears courtesy of Highway 20 Records<br><br>Runouts:<br>34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched. |
+| Notes | Amazon Europe limited release.  Comes in a gatefold sleeve with alternate red artwork.  Issued with plain black inner sleeves (discobags), both with the catalog number.  ℗ & © 2021 Hokker, Inc and Trolcharm Limited. Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada  Made in The Netherlands.  T Bone Burnett appears courtesy of Verse Forecast Bill Frisell  appears courtesy of Blue Note Records Lucinda Williams  appears courtesy of Highway 20 Records  Runouts: 34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched. |
 | Discogs URL    | [Robert Plant - Raise The Roof](https://www.discogs.com/release/21382384-Robert-Plant-Alison-Krauss-Raise-The-Roof) |

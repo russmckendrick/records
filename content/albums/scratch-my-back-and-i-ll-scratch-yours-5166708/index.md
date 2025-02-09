@@ -36,34 +36,34 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Scratch My Back |  |
-| A1 | Heroes | 4:00 |
-| A2 | The Boy In The Bubble | 4:16 |
-| A3 | Mirrorball | 4:48 |
-| A4 | Flume | 2:52 |
-| A5 | Listening Wind | 4:20 |
-| A6 | The Power Of The Heart | 5:44 |
-| B7 | My Body Is A Cage | 6:08 |
-| B8 | The Book Of Love | 3:42 |
-| B9 | I Think It's Going To Rain Today | 2:30 |
-| B10 | Après Moi | 5:12 |
-| B11 | Philadelphia | 3:35 |
-| B12 | Street Spirit (Fade Out) | 4:55 |
-|  | And I'll Scratch Yours |  |
-| C1 | I Don't Remember | 3:36 |
-| C2 | Come Talk To Me | 6:14 |
-| C3 | Blood Of Eden | 4:35 |
-| C4 | Not One Of Us | 3:48 |
-| C5 | Shock The Monkey | 5:46 |
-| C6 | Big Time | 3:30 |
-| D7 | Games Without Frontiers | 3:20 |
-| D8 | Mercy Street | 5:20 |
-| D9 | Mother Of Violence | 2:59 |
-| D10 | Don't Give Up | 5:28 |
-| D11 | Solsbury Hill | 5:20 |
-| D12 | Biko | 4:10 |
+| Position | Title |
+|----------|--------|
+|  | Scratch My Back |
+| A1 | Heroes |
+| A2 | The Boy In The Bubble |
+| A3 | Mirrorball |
+| A4 | Flume |
+| A5 | Listening Wind |
+| A6 | The Power Of The Heart |
+| B7 | My Body Is A Cage |
+| B8 | The Book Of Love |
+| B9 | I Think It's Going To Rain Today |
+| B10 | Après Moi |
+| B11 | Philadelphia |
+| B12 | Street Spirit (Fade Out) |
+|  | And I'll Scratch Yours |
+| C1 | I Don't Remember |
+| C2 | Come Talk To Me |
+| C3 | Blood Of Eden |
+| C4 | Not One Of Us |
+| C5 | Shock The Monkey |
+| C6 | Big Time |
+| D7 | Games Without Frontiers |
+| D8 | Mercy Street |
+| D9 | Mother Of Violence |
+| D10 | Don't Give Up |
+| D11 | Solsbury Hill |
+| D12 | Biko |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 | Format         | Vinyl LP Album Reissue, Vinyl LP Album, All Media Compilation |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP952 |
-| Notes | 180 gram audiophile vinyl released in gatefold sleeve with printed inner sleeves.<br>Includes a download card.<br>Two hype stickers, a red one and a gold-coloured one.<br><br>Similar European editions:<br>[r=24975454]: no download card and only one, bigger gold-coloured hype sticker.<br>[r=18039343]: no download card and two hype stickers, a red one and a black one.<br><br>Scratch My Back: ℗ 2010 Peter Gabriel Ltd under exclusive license to Virgin Records Ltd.<br>And I'll Scratch Yours: This Compilation ℗ 2013 Peter Gabriel Ltd.<br>© 2013 Peter Gabriel Ltd.<br><br>B8, C1, C4, D8, D11, D12: ℗ 2010 Peter Gabriel Ltd<br>C3, C5 to D7, D9, D10: ℗ 2013 Peter Gabriel Ltd<br>C2: ℗ 2010 Jagjaguwar<br><br>Printed in the EU.<br>Made in the EU.<br><br>Pressed By information is not listed. Information derived from runouts.<br><br>Durations do not appear on this release.<br><br>Tracks are listed sequentially on the release (from A1 to B12 and from C1 to D12).<br><br>Runouts are hand-etched.<br><br>Elbow appear courtesy of Fiction Records.<br>Randy Newman appears courtesy of Nonesuch Records<br>Feist appear courtesy of Polydor Records France<br>Taylor Kirk appears courtesy of Arts and Crafts Productions |
+| Notes | 180 gram audiophile vinyl released in gatefold sleeve with printed inner sleeves. Includes a download card. Two hype stickers, a red one and a gold-coloured one.  Similar European editions: [r=24975454]: no download card and only one, bigger gold-coloured hype sticker. [r=18039343]: no download card and two hype stickers, a red one and a black one.  Scratch My Back: ℗ 2010 Peter Gabriel Ltd under exclusive license to Virgin Records Ltd. And I'll Scratch Yours: This Compilation ℗ 2013 Peter Gabriel Ltd. © 2013 Peter Gabriel Ltd.  B8, C1, C4, D8, D11, D12: ℗ 2010 Peter Gabriel Ltd C3, C5 to D7, D9, D10: ℗ 2013 Peter Gabriel Ltd C2: ℗ 2010 Jagjaguwar  Printed in the EU. Made in the EU.  Pressed By information is not listed. Information derived from runouts.  Durations do not appear on this release.  Tracks are listed sequentially on the release (from A1 to B12 and from C1 to D12).  Runouts are hand-etched.  Elbow appear courtesy of Fiction Records. Randy Newman appears courtesy of Nonesuch Records Feist appear courtesy of Polydor Records France Taylor Kirk appears courtesy of Arts and Crafts Productions |
 | Discogs URL    | [Peter Gabriel - Scratch My Back / And I'll Scratch Yours](https://www.discogs.com/release/5166708-Peter-Gabriel-Scratch-My-Back-And-Ill-Scratch-Yours) |

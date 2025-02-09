@@ -35,20 +35,20 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Theory Of Relativity | 4:26 |
-| A2 | Backlines | 2:11 |
-| A3 | The North | 4:52 |
-| A4 | Hold On When You Get Love And Let Go When You Give It | 4:39 |
-| A5 | Through The Mines | 4:10 |
-| A6 | Do You Want To Die Together? | 3:12 |
-| B1 | Lights Changing Colour | 3:06 |
-| B2 | The Loose Ends Will Make Knots | 2:32 |
-| B3 | A Song Is A Weapon | 3:12 |
-| B4 | Progress | 3:50 |
-| B5 | The 400 | 3:28 |
-| B6 | Walls | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | The Theory Of Relativity |
+| A2 | Backlines |
+| A3 | The North |
+| A4 | Hold On When You Get Love And Let Go When You Give It |
+| A5 | Through The Mines |
+| A6 | Do You Want To Die Together? |
+| B1 | Lights Changing Colour |
+| B2 | The Loose Ends Will Make Knots |
+| B3 | A Song Is A Weapon |
+| B4 | Progress |
+| B5 | The 400 |
+| B6 | Walls |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 | Format         | Vinyl LP Album (Blue Translucent) |
 | Label          | ATO Records |
 | Catalog Number | 88088218161 |
-| Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album. <br><br>Gatefold sleeve.<br><br>Manufactured and distributed in the United States by RED Distribution, LLC. |
+| Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album.   Gatefold sleeve.  Manufactured and distributed in the United States by RED Distribution, LLC. |
 | Discogs URL    | [Stars - The North](https://www.discogs.com/release/3839836-Stars-The-North) |

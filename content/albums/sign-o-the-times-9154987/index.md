@@ -41,24 +41,24 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sign "O" The Times | 5:02 |
-| A2 | Play In The Sunshine | 5:05 |
-| A3 | Housequake | 4:38 |
-| A4 | The Ballad Of Dorothy Parker | 4:04 |
-| B1 | It | 5:10 |
-| B2 | Starfish And Coffee | 2:51 |
-| B3 | Slow Love | 4:18 |
-| B4 | Hot Thing | 5:39 |
-| B5 | Forever In My Life | 3:38 |
-| C1 | U Got The Look | 3:58 |
-| C2 | If I Was Your Girlfriend | 4:54 |
-| C3 | Strange Relationship | 4:04 |
-| C4 | I Could Never Take The Place Of Your Man | 6:31 |
-| D1 | The Cross | 4:46 |
-| D2 | It's Gonna Be A Beautiful Night | 8:59 |
-| D3 | Adore | 6:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Sign "O" The Times |
+| A2 | Play In The Sunshine |
+| A3 | Housequake |
+| A4 | The Ballad Of Dorothy Parker |
+| B1 | It |
+| B2 | Starfish And Coffee |
+| B3 | Slow Love |
+| B4 | Hot Thing |
+| B5 | Forever In My Life |
+| C1 | U Got The Look |
+| C2 | If I Was Your Girlfriend |
+| C3 | Strange Relationship |
+| C4 | I Could Never Take The Place Of Your Man |
+| D1 | The Cross |
+| D2 | It's Gonna Be A Beautiful Night |
+| D3 | Adore |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 | Format         | Vinyl 2× LP Album Reissue (140 gram) |
 | Label          | Paisley Park |
 | Catalog Number | 7599-25577-1 |
-| Notes | Heart-shaped hype sticker:<br>Manufactured in the E.U.<br><br>Labels:<br>Manufactured in the Netherlands.<br><br>The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.<br><br>Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.<br><br>[a32411] appears courtesy of [l63404]<br><br>Runout strings are etched except for Record Industry identifiers which are stamped.<br> |
+| Notes | Heart-shaped hype sticker: Manufactured in the E.U.  Labels: Manufactured in the Netherlands.  The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.  Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.  [a32411] appears courtesy of [l63404]  Runout strings are etched except for Record Industry identifiers which are stamped.  |
 | Discogs URL    | [Prince - Sign "O" The Times](https://www.discogs.com/release/9154987-Prince-Sign-O-The-Times) |

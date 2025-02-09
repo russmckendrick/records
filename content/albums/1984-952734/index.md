@@ -40,17 +40,17 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1984 | 1:07 |
-| A2 | Jump | 4:04 |
-| A3 | Panama | 3:31 |
-| A4 | Top Jimmy | 2:59 |
-| A5 | Drop Dead Legs | 4:13 |
-| B1 | Hot For Teacher | 4:42 |
-| B2 | I'll Wait | 4:41 |
-| B3 | Girl Gone Bad | 4:33 |
-| B4 | House Of Pain | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | 1984 |
+| A2 | Jump |
+| A3 | Panama |
+| A4 | Top Jimmy |
+| A5 | Drop Dead Legs |
+| B1 | Hot For Teacher |
+| B2 | I'll Wait |
+| B3 | Girl Gone Bad |
+| B4 | House Of Pain |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 92-3985-1 |
-| Notes | Comes in a Flip-Cover.<br><br>Labels:<br>Publisher credits*<br>All titles published by Warner Bros. Music Ltd.<br>*For U.K. only<br>℗ + © 1983 Warner Bros. Records Inc. for U.S. & WEA International Inc. for the world outside of the U.S.<br>Made in Germany by WEA Musik GmbH<br><br>Inner sleeve:<br>© 1983 Van Halen Productions, Inc.<br><br>Cover:<br>Manufactured in Germany by Record Service GmbH, Alsdorf <br>Pressé en Allemagne par Record Service GmbH, Alsdorf <br>Ⓦ a Warner Communications Company<br><br>Belgique/België: Distributed by WEA Records S.A./N.V.<br>Deutschland: Vertrieb durch WEA Musik GmbH<br>England: Distributed by WEA Records Ltd.<br>España: Edita WEA Records S.A.<br>France: Distribué par WEA/Filipacchi Music, Paris<br>Ireland: Distributed by WEA Records Ltd.<br>Italia: Distributed by WEA Italiana S.P.A.<br>Nederland: Distributed by WEA Records B.V.<br>Österreich: Vertrieb durch WEA Music Ges.m.b.H<br>Sverige: Distributed by WEA Metronome Records AB<br>Marketed in South-Africa by WEA Records (PTY) Limited<br><br>© 1983 Van Halen Productions, Inc. ℗ 1983 Warner Bros. Records Inc. for U.S. & WEA International Inc. for the world outside of the U.S.<br>_____________<br><br>First WEA Musik GmbH edition for the GEMA-territory with price codes U and WE 361. Issued with printed inner sleeve with photographs and credits.<br>Due to the absence of a tracklist in the artwork a red removable tracklist sticker was affixed to the back of the cover.<br><br>Similar WEA Musik GmbH/Alsdorf editions:<br>[r=8208559]: STEMRA<br>[r=4883099]: SACEM<br>[r=522201]: n©b<br>[r=4883092]: - (UK)<br>[r=1813897]: GEMA / BIEM (Repress with price code WE 381 and European distribution)<br><br>Runouts are stamped and etched |
+| Notes | Comes in a Flip-Cover.  Labels: Publisher credits* All titles published by Warner Bros. Music Ltd. *For U.K. only ℗ + © 1983 Warner Bros. Records Inc. for U.S. & WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH  Inner sleeve: © 1983 Van Halen Productions, Inc.  Cover: Manufactured in Germany by Record Service GmbH, Alsdorf  Pressé en Allemagne par Record Service GmbH, Alsdorf  Ⓦ a Warner Communications Company  Belgique/België: Distributed by WEA Records S.A./N.V. Deutschland: Vertrieb durch WEA Musik GmbH England: Distributed by WEA Records Ltd. España: Edita WEA Records S.A. France: Distribué par WEA/Filipacchi Music, Paris Ireland: Distributed by WEA Records Ltd. Italia: Distributed by WEA Italiana S.P.A. Nederland: Distributed by WEA Records B.V. Österreich: Vertrieb durch WEA Music Ges.m.b.H Sverige: Distributed by WEA Metronome Records AB Marketed in South-Africa by WEA Records (PTY) Limited  © 1983 Van Halen Productions, Inc. ℗ 1983 Warner Bros. Records Inc. for U.S. & WEA International Inc. for the world outside of the U.S. _____________  First WEA Musik GmbH edition for the GEMA-territory with price codes U and WE 361. Issued with printed inner sleeve with photographs and credits. Due to the absence of a tracklist in the artwork a red removable tracklist sticker was affixed to the back of the cover.  Similar WEA Musik GmbH/Alsdorf editions: [r=8208559]: STEMRA [r=4883099]: SACEM [r=522201]: n©b [r=4883092]: - (UK) [r=1813897]: GEMA / BIEM (Repress with price code WE 381 and European distribution)  Runouts are stamped and etched |
 | Discogs URL    | [Van Halen - 1984](https://www.discogs.com/release/952734-Van-Halen-1984) |

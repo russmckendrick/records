@@ -29,18 +29,18 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trash City | 5:08 |
-| A2 | I Want Your Love | 3:29 |
-| A3 | Sister Moon | 4:21 |
-| A4 | Psychosonic Cindy | 3:45 |
-| A5 | Revolution Baby | 4:52 |
-| B1 | Tell That Girl To Shut Up | 3:05 |
-| B2 | Wild Star | 3:21 |
-| B3 | Hanging Out With Halo Jones | 4:35 |
-| B4 | Andy Warhol's Dead | 3:48 |
-| B5 | Sex Kick | 5:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Trash City |
+| A2 | I Want Your Love |
+| A3 | Sister Moon |
+| A4 | Psychosonic Cindy |
+| A5 | Revolution Baby |
+| B1 | Tell That Girl To Shut Up |
+| B2 | Wild Star |
+| B3 | Hanging Out With Halo Jones |
+| B4 | Andy Warhol's Dead |
+| B5 | Sex Kick |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3421 |
-| Notes | Recorded and mixed at Garden, Eastcote and Swanyard.<br>Comes with lyrics inner.<br> |
+| Notes | Recorded and mixed at Garden, Eastcote and Swanyard.  Comes with lyrics inner.   |
 | Discogs URL    | [Transvision Vamp - Pop Art](https://www.discogs.com/release/1811343-Transvision-Vamp-Pop-Art) |

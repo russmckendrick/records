@@ -31,18 +31,18 @@ The album has been reissued twice: first in 1994 with the addition of the former
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Greetings From Shitsville |  |
-| A2 | TV Tan |  |
-| A3 | Everlone |  |
-| A4 | Shame On Me |  |
-| A5 | Loveshit |  |
-| B1 | The Miles Away Girl |  |
-| B2 | My Baby Is A Headfuck / |  |
-| B3 | Suckerpunch |  |
-| B4 | News Of The World |  |
-| B5 | Love U Til I Don't |  |
+| Position | Title |
+|----------|--------|
+| A1 | Greetings From Shitsville |
+| A2 | TV Tan |
+| A3 | Everlone |
+| A4 | Shame On Me |
+| A5 | Loveshit |
+| B1 | The Miles Away Girl |
+| B2 | My Baby Is A Headfuck / |
+| B3 | Suckerpunch |
+| B4 | News Of The World |
+| B5 | Love U Til I Don't |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album has been reissued twice: first in 1994 with the addition of the former
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | EastWest |
 | Catalog Number | 0190295451950 |
-| Notes | Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.<br><br>Mastered at Sterling Sounds, NYC.<br><br>℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company. |
+| Notes | Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.  Mastered at Sterling Sounds, NYC.  ℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company. |
 | Discogs URL    | [The Wildhearts - Earth Vs The Wildhearts](https://www.discogs.com/release/14123607-The-Wildhearts-Earth-Vs-The-Wildhearts) |

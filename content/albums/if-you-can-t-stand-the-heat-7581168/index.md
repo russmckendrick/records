@@ -33,18 +33,18 @@ The second single to be released from the album was an edited version of "Accide
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Again And Again | 3:38 |
-| A2 | I'm Giving Up My Worryin' | 3:03 |
-| A3 | Gonna Teach You To Love Me | 3:09 |
-| A4 | Someone Show Me Home | 3:52 |
-| A5 | Long Legged Linda | 3:34 |
-| B1 | Oh! What A Night | 3:44 |
-| B2 | Accident Prone | 5:05 |
-| B3 | Stones | 3:55 |
-| B4 | Let Me Fly | 4:22 |
-| B5 | Like A Good Girl | 3:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Again And Again |
+| A2 | I'm Giving Up My Worryin' |
+| A3 | Gonna Teach You To Love Me |
+| A4 | Someone Show Me Home |
+| A5 | Long Legged Linda |
+| B1 | Oh! What A Night |
+| B2 | Accident Prone |
+| B3 | Stones |
+| B4 | Let Me Fly |
+| B5 | Like A Good Girl |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The second single to be released from the album was an edited version of "Accide
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723771 |
-| Notes | Die-cut gatefold sleeve<br>Comes with a poster and an insert.<br><br>© 1978 Mercury Records Limited/Universal Music Catalogue<br>℗ 1978 Mercury Records Limited<br><br><br> |
+| Notes | Die-cut gatefold sleeve Comes with a poster and an insert.  © 1978 Mercury Records Limited/Universal Music Catalogue ℗ 1978 Mercury Records Limited    |
 | Discogs URL    | [Status Quo - If You Can't Stand The Heat](https://www.discogs.com/release/7581168-Status-Quo-If-You-Cant-Stand-The-Heat) |

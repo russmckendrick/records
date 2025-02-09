@@ -51,49 +51,49 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Giant Steps |  |
-| A1 | Giant Steps  | 4:43 |
-| A2 | Cousin Mary | 5:45 |
-| A3 | Countdown | 2:21 |
-| A4 | Spiral | 5:56 |
-| B1 | Syeeda's Song Flute | 7:00 |
-| B2 | Naima | 4:21 |
-| B3 | Mr P.C. | 6:57 |
-|  | Bags & Trane |  |
-| C1 | Bags & Trane | 7:23 |
-| C2 | Three Little Words | 7:27 |
-| C3 | The Night We Called It A Day | 4:19 |
-| D1 | Be-Bop | 7:57 |
-| D2 | The Late Late Blues | 9:35 |
-|  | Olé Coltrane |  |
-| E | Olé | 18:05 |
-| F1 | Dahomey Dance  | 10:50 |
-| F2 | Aisha | 7:32 |
-|  | Coltrane Plays The Blues |  |
-| G1 | Blues To Elvin | 7:52 |
-| G2 | Blues To Bechet | 5:44 |
-| G3 | Blues To You | 6:25 |
-| H1 | Mr. Day | 7:56 |
-| H2 | Mr. Syms | 5:19 |
-| H3 | Mr. Knight | 7:30 |
-|  | The Avant-Garde |  |
-| I1 | Cherryco | 6:45 |
-| I2 | Focus On Sanity | 12:07 |
-| J1 | The Blessing | 7:50 |
-| J2 | The Invisible | 4:08 |
-| J3 | Bemsha Swing | 5:02 |
-|  | The Coltrane Legacy |  |
-| K1 | 26-2 | 6:09 |
-| K2 | Original Untitled Ballad | 8:54 |
-| K3 | Untitled Original | 5:20 |
-| L1 | Centerpiece | 7:05 |
-| L2 | Stairway To The Stars | 3:58 |
-| L3 | Blues Legacy | 9:00 |
-|  | My Favorite Things Part I & II |  |
-| M | My Favorite Things (Part I) |  |
-| N | My Favorite Things (Part II) |  |
+| Position | Title |
+|----------|--------|
+|  | Giant Steps |
+| A1 | Giant Steps  |
+| A2 | Cousin Mary |
+| A3 | Countdown |
+| A4 | Spiral |
+| B1 | Syeeda's Song Flute |
+| B2 | Naima |
+| B3 | Mr P.C. |
+|  | Bags & Trane |
+| C1 | Bags & Trane |
+| C2 | Three Little Words |
+| C3 | The Night We Called It A Day |
+| D1 | Be-Bop |
+| D2 | The Late Late Blues |
+|  | Olé Coltrane |
+| E | Olé |
+| F1 | Dahomey Dance  |
+| F2 | Aisha |
+|  | Coltrane Plays The Blues |
+| G1 | Blues To Elvin |
+| G2 | Blues To Bechet |
+| G3 | Blues To You |
+| H1 | Mr. Day |
+| H2 | Mr. Syms |
+| H3 | Mr. Knight |
+|  | The Avant-Garde |
+| I1 | Cherryco |
+| I2 | Focus On Sanity |
+| J1 | The Blessing |
+| J2 | The Invisible |
+| J3 | Bemsha Swing |
+|  | The Coltrane Legacy |
+| K1 | 26-2 |
+| K2 | Original Untitled Ballad |
+| K3 | Untitled Original |
+| L1 | Centerpiece |
+| L2 | Stairway To The Stars |
+| L3 | Blues Legacy |
+|  | My Favorite Things Part I & II |
+| M | My Favorite Things (Part I) |
+| N | My Favorite Things (Part II) |
 
 
 ## Apple Music
@@ -110,5 +110,5 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 | Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Compilation Reissue Remastered Mono (180 Gram ), Vinyl 7" 45 RPM Single Mono |
 | Label          | Atlantic |
 | Catalog Number | 0081227946401 |
-| Notes | Comes in a clothbound box.<br><br>Includes: <br>- Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels. <br>- One LP of outtakes.<br>- A replica of the original "My Favorite Things Part I & II" 7" single.<br>- A 12" x 12" 32-page booklet with liner notes by Ashley Kahn. |
+| Notes | Comes in a clothbound box.  Includes:  - Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels.  - One LP of outtakes. - A replica of the original "My Favorite Things Part I & II" 7" single. - A 12" x 12" 32-page booklet with liner notes by Ashley Kahn. |
 | Discogs URL    | [John Coltrane - The Atlantic Years – In Mono](https://www.discogs.com/release/8630183-John-Coltrane-The-Atlantic-Years-In-Mono) |

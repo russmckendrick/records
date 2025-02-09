@@ -28,12 +28,12 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Friends Make The Worst Enemies | 5:06 |
-| A2 | Some Things Are Better Left Unsaid | 2:38 |
-| B1 | Don't You Wait, It Might Never Come | 3:52 |
-| B2 | Friends Make The Worst Enemies (Acoustic) | 4:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Friends Make The Worst Enemies |
+| A2 | Some Things Are Better Left Unsaid |
+| B1 | Don't You Wait, It Might Never Come |
+| B2 | Friends Make The Worst Enemies (Acoustic) |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE935 |
-| Notes | Limited edition, numbered clear vinyl. Includes download card.<br><br>Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo].<br>'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting'<br>LOUDER THAN WAR<br> |
+| Notes | Limited edition, numbered clear vinyl. Includes download card.  Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo]. 'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting' LOUDER THAN WAR  |
 | Discogs URL    | [Paul Draper - EP Two](https://www.discogs.com/release/9446803-Paul-Draper-EP-Two) |

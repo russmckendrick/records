@@ -35,22 +35,22 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Early |  |
-| A1 | Radio Free Europe (Original Hib-Tone Single) | 3:47 |
-| A2 | Gardening At Night (Different Vocal Mix) | 3:31 |
-| A3 | Talk About The Passion | 3:22 |
-| A4 | So. Central Rain | 3:11 |
-| A5 | (Don't Go Back To) Rockville | 4:34 |
-| A6 | Can't Get There From Here | 4:10 |
-|  | Late |  |
-| B1 | Driver 8 | 3:18 |
-| B2 | Romance | 3:25 |
-| B3 | Fall On Me | 2:49 |
-| B4 | The One I Love | 3:17 |
-| B5 | Finest Worksong (Mutual Drum Horn Mix) | 3:49 |
-| B6 | It's The End Of The World As We Know It (And I Feel Fine) | 4:07 |
+| Position | Title |
+|----------|--------|
+|  | Early |
+| A1 | Radio Free Europe (Original Hib-Tone Single) |
+| A2 | Gardening At Night (Different Vocal Mix) |
+| A3 | Talk About The Passion |
+| A4 | So. Central Rain |
+| A5 | (Don't Go Back To) Rockville |
+| A6 | Can't Get There From Here |
+|  | Late |
+| B1 | Driver 8 |
+| B2 | Romance |
+| B3 | Fall On Me |
+| B4 | The One I Love |
+| B5 | Finest Worksong (Mutual Drum Horn Mix) |
+| B6 | It's The End Of The World As We Know It (And I Feel Fine) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 | Format         | Vinyl LP Compilation Reissue (180g) |
 | Label          | I.R.S. Records |
 | Catalog Number | 00602547899828 |
-| Notes | Includes voucher to download MP3 version of the album. <br> |
+| Notes | Includes voucher to download MP3 version of the album.   |
 | Discogs URL    | [REM - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |

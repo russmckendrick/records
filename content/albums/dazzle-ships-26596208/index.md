@@ -37,27 +37,27 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radio Prague | 1:18 |
-| A2 | Genetic Engineering | 3:42 |
-| A3 | ABC Auto-Industry | 2:06 |
-| A4 | Telegraph | 2:57 |
-| A5 | This Is Helena | 1:58 |
-| A6 | International | 4:26 |
-| B1 | Dazzle Ships (Parts II, III & VII) | 2:21 |
-| B2 | The Romance Of The Telescope | 3:26 |
-| B3 | Silent Running | 3:33 |
-| B4 | Radio Waves | 3:44 |
-| B5 | Time Zones | 1:49 |
-| B6 | Of All The Things We've Made | 3:23 |
-| C1 | Telegraph 82 (Very Early Demo) | 2:50 |
-| C2 | Silent Running (Demo) | 3:25 |
-| C3 | Sold Our Souls (The Avenue Demo) | 3:12 |
-| C4 | Shakespeare 82 | 0:50 |
-| D1 | Untitled Instrumental 82 | 3:22 |
-| D2 | In Heaven Above (4-NEU Demo) | 2:51 |
-| D3 | Telegraph (Live 1984) | 3:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Radio Prague |
+| A2 | Genetic Engineering |
+| A3 | ABC Auto-Industry |
+| A4 | Telegraph |
+| A5 | This Is Helena |
+| A6 | International |
+| B1 | Dazzle Ships (Parts II, III & VII) |
+| B2 | The Romance Of The Telescope |
+| B3 | Silent Running |
+| B4 | Radio Waves |
+| B5 | Time Zones |
+| B6 | Of All The Things We've Made |
+| C1 | Telegraph 82 (Very Early Demo) |
+| C2 | Silent Running (Demo) |
+| C3 | Sold Our Souls (The Avenue Demo) |
+| C4 | Shakespeare 82 |
+| D1 | Untitled Instrumental 82 |
+| D2 | In Heaven Above (4-NEU Demo) |
+| D3 | Telegraph (Live 1984) |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 | Format         | Vinyl LP Reissue Repress (Silver), Vinyl LP (Blue), All Media Album Limited Edition Stereo (40th Anniversary Edition) |
 | Label          | Virgin |
 | Catalog Number | 0602448814920 |
-| Notes | An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited.<br>Made in the EU.<br><br>In addition to the text on the front "Made in the EU" (Hypesticker) there is also an additional sticker at the back "Made in Germany". |
+| Notes | An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.  In addition to the text on the front "Made in the EU" (Hypesticker) there is also an additional sticker at the back "Made in Germany". |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/26596208-OMD-Dazzle-Ships) |

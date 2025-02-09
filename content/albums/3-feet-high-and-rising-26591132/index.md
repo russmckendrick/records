@@ -45,31 +45,31 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 1:41 |
-| A2 | The Magic Number | 3:16 |
-| A3 | Change In Speak | 2:42 |
-| A4 | Cool Breeze On The Rocks (The Melted Version) | 0:18 |
-| A5 | Can U Keep A Secret | 1:40 |
-| A6 | Jenifa Taught Me (Derwin's Revenge) | 3:25 |
-| A7 | Ghetto Thang | 3:35 |
-| B1 | Transmitting Live From Mars | 1:12 |
-| B2 | Eye Know | 4:13 |
-| B3 | Take It Off | 1:52 |
-| B4 | A Little Bit Of Soap | 0:56 |
-| B5 | Tread Water | 3:46 |
-| B6 | Potholes In My Lawn | 3:50 |
-| C1 | Say No Go | 4:20 |
-| C2 | Do As De La Does | 2:12 |
-| C3 | Plug Tunin' (Last Chance To Comprehend) | 4:06 |
-| C4 | De La Orgee | 1:13 |
-| C5 | Buddy | 4:54 |
-| D1 | Description | 1:31 |
-| D2 | Me Myself And I | 3:48 |
-| D3 | This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) | 3:11 |
-| D4 | I Can Do Anything (Delacratic) | 0:41 |
-| D5 | D.A.I.S.Y. Age | 4:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | The Magic Number |
+| A3 | Change In Speak |
+| A4 | Cool Breeze On The Rocks (The Melted Version) |
+| A5 | Can U Keep A Secret |
+| A6 | Jenifa Taught Me (Derwin's Revenge) |
+| A7 | Ghetto Thang |
+| B1 | Transmitting Live From Mars |
+| B2 | Eye Know |
+| B3 | Take It Off |
+| B4 | A Little Bit Of Soap |
+| B5 | Tread Water |
+| B6 | Potholes In My Lawn |
+| C1 | Say No Go |
+| C2 | Do As De La Does |
+| C3 | Plug Tunin' (Last Chance To Comprehend) |
+| C4 | De La Orgee |
+| C5 | Buddy |
+| D1 | Description |
+| D2 | Me Myself And I |
+| D3 | This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) |
+| D4 | I Can Do Anything (Delacratic) |
+| D5 | D.A.I.S.Y. Age |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Opaque, 180g) |
 | Label          | AOI Records |
 | Catalog Number | RMM-047-1 |
-| Notes | Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.<br><br>Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.<br><br>Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"<br><br>℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.<br><br>"Made In Czech Republic" sticker on back cover shrink-wrap.<br><br>Runouts are stamped except "RMM - 045 - 1 #" which is etched. |
+| Notes | Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.  Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.  Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"  ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.  "Made In Czech Republic" sticker on back cover shrink-wrap.  Runouts are stamped except "RMM - 045 - 1 #" which is etched. |
 | Discogs URL    | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/26591132-De-La-Soul-3-Feet-High-And-Rising) |

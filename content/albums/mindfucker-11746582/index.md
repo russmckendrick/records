@@ -32,20 +32,20 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rocket Freak |  |
-| A2 | Soul |  |
-| A3 | Mindfucker |  |
-| A4 | I'm God |  |
-| B1 | Drowning |  |
-| B2 | Ejection |  |
-| B3 | Want Some |  |
-| B4 | Brainwashed |  |
-| C1 | All Day Midnight |  |
-| C2 | When The Hammer Comes Down |  |
-| C3 | You Can't Be Trusted [bonus track] |  |
-| C4 | Utopia [bonus track] |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rocket Freak |
+| A2 | Soul |
+| A3 | Mindfucker |
+| A4 | I'm God |
+| B1 | Drowning |
+| B2 | Ejection |
+| B3 | Want Some |
+| B4 | Brainwashed |
+| C1 | All Day Midnight |
+| C2 | When The Hammer Comes Down |
+| C3 | You Can't Be Trusted [bonus track] |
+| C4 | Utopia [bonus track] |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 | Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 757 VINYL |
-| Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*<br><br>Limited to 500 copies. |
+| Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies. |
 | Discogs URL    | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |

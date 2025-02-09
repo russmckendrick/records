@@ -31,73 +31,73 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ziltoid The Omniscient |  |
-| A1 | ZTO | 1:17 |
-| A2 | By Your Command | 8:09 |
-| A3 | Ziltoidia Attaxx!!! | 3:42 |
-| A4 | Solar Winds | 9:46 |
-| B1 | Hyperdrive | 3:47 |
-| B2 | N9 | 5:30 |
-| B3 | Planet Smasher | 5:44 |
-| B4 | Omnisdimensional Creator | 0:48 |
-| B5 | Color Your World | 9:44 |
-| C1 | The Greys | 4:15 |
-| C2 | Tall Latte | 1:03 |
-| C3 | Don't Know Why | 7:34 |
-| C4 | Travelling Salesman | 2:14 |
-| C5 | Another Road  | 4:30 |
-|  | Z² - Dark Matters |  |
-| D1 | Z² | 3:59 |
-| D2 | From Sleep Awake | 3:00 |
-| D3 | Ziltoidian Empire | 6:25 |
-| E1 | War Princess | 8:17 |
-| E2 | Deathray | 4:43 |
-| F1 | March Of The Poozers | 6:24 |
-| F2 | Wandering Eye | 3:40 |
-| F3 | Earth | 7:38 |
-| G1 | Ziltoid Goes Home | 6:20 |
-| G2 | Through The Wormhole | 3:43 |
-| G3 | Dimension Z | 6:13 |
-|  | Ziltoid Live At The Royal Albert Hall |  |
-| H1 | Z² | 3:48 |
-| H2 | From Sleep Awake | 3:47 |
-| H3 | Ziltoidian Empire | 5:50 |
-| H4 | War Princess | 8:57 |
-| I1 | Deathray | 4:43 |
-| I2 | March Of The Poozers | 6:30 |
-| I3 | Wandering Eye | 3:40 |
-| I4 | Earth | 7:38 |
-| J1 | Ziltoid Goes Home | 6:38 |
-| J2 | Through The Wormhole | 3:37 |
-| J3 | Dimension Z | 8:10 |
-|  | The Retinal Circus |  |
-| K1 | Effervescent!/True North | 6:23 |
-| K2 | Lucky Animals | 3:33 |
-| K3 | Planet Of The Apes | 11:02 |
-| L1 | Truth | 3:59 |
-| L2 | War | 6:09 |
-| L3 | Soul Driven | 1:08 |
-| L4 | Planet Smasher | 6:19 |
-| L5 | Baby Song | 5:30 |
-| M1 | Vampolka | 1:36 |
-| M2 | Vampira | 3:42 |
-| M3 | Addicted! | 5:32 |
-| M4 | Colour Your World | 9:48 |
-| M5 | The Greys | 4:54 |
-| N1 | Hyperdrive | 4:44 |
-| N2 | Ih-Ah!  | 3:58 |
-| N3 | Where We Belong | 4:18 |
-| N4 | Detox | 6:03 |
-| O1 | Bend It Like Bender! | 3:36 |
-| O2 | Life | 4:52 |
-| O3 | Kingdom | 5:09 |
-| O4 | Juular | 3:59 |
-| P1 | Love? | 5:23 |
-| P2 | Colonial Boy | 2:58 |
-| P3 | Grace  | 6:52 |
-| P4 | Little Pig | 7:30 |
+| Position | Title |
+|----------|--------|
+|  | Ziltoid The Omniscient |
+| A1 | ZTO |
+| A2 | By Your Command |
+| A3 | Ziltoidia Attaxx!!! |
+| A4 | Solar Winds |
+| B1 | Hyperdrive |
+| B2 | N9 |
+| B3 | Planet Smasher |
+| B4 | Omnisdimensional Creator |
+| B5 | Color Your World |
+| C1 | The Greys |
+| C2 | Tall Latte |
+| C3 | Don't Know Why |
+| C4 | Travelling Salesman |
+| C5 | Another Road  |
+|  | Z² - Dark Matters |
+| D1 | Z² |
+| D2 | From Sleep Awake |
+| D3 | Ziltoidian Empire |
+| E1 | War Princess |
+| E2 | Deathray |
+| F1 | March Of The Poozers |
+| F2 | Wandering Eye |
+| F3 | Earth |
+| G1 | Ziltoid Goes Home |
+| G2 | Through The Wormhole |
+| G3 | Dimension Z |
+|  | Ziltoid Live At The Royal Albert Hall |
+| H1 | Z² |
+| H2 | From Sleep Awake |
+| H3 | Ziltoidian Empire |
+| H4 | War Princess |
+| I1 | Deathray |
+| I2 | March Of The Poozers |
+| I3 | Wandering Eye |
+| I4 | Earth |
+| J1 | Ziltoid Goes Home |
+| J2 | Through The Wormhole |
+| J3 | Dimension Z |
+|  | The Retinal Circus |
+| K1 | Effervescent!/True North |
+| K2 | Lucky Animals |
+| K3 | Planet Of The Apes |
+| L1 | Truth |
+| L2 | War |
+| L3 | Soul Driven |
+| L4 | Planet Smasher |
+| L5 | Baby Song |
+| M1 | Vampolka |
+| M2 | Vampira |
+| M3 | Addicted! |
+| M4 | Colour Your World |
+| M5 | The Greys |
+| N1 | Hyperdrive |
+| N2 | Ih-Ah!  |
+| N3 | Where We Belong |
+| N4 | Detox |
+| O1 | Bend It Like Bender! |
+| O2 | Life |
+| O3 | Kingdom |
+| O4 | Juular |
+| P1 | Love? |
+| P2 | Colonial Boy |
+| P3 | Grace  |
+| P4 | Little Pig |
 
 
 ## Apple Music
@@ -114,5 +114,5 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 | Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl LP Album Reissue (180g), Vinyl LP Single Sided Album Etched Reissue (180g), Vinyl 2× LP Album Reissue (180g), Vinyl LP Album (180g), Vinyl LP Single Sided Album Etched (180g), Vinyl 3× LP Album (180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 512 |
-| Notes | Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).<br> <br>All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience.<br>The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.<br> <br>Limited to 2000 copies worldwide.<br>Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.<br><br>Standard black vinyl version |
+| Notes | Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).   All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience. The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.   Limited to 2000 copies worldwide. Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.  Standard black vinyl version |
 | Discogs URL    | [Devin Townsend - Eras IV](https://www.discogs.com/release/14051869-Devin-Townsend-Eras-IV) |

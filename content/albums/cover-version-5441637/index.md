@@ -39,20 +39,20 @@ Cover Version is a compilation album released in 2014 by British musician and re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thank You | 4:39 |
-| A2 | The Day Before You Came | 5:06 |
-| A3 | A Forest | 6:04 |
-| B4 | The Guitar Lesson | 4:03 |
-| B5 | Sign 'O' The Times | 3:55 |
-| B6 | Lord Of The Reedy River | 5:03 |
-| C7 | Moment I Lost | 3:12 |
-| C8 | Please Come Home | 3:30 |
-| C9 | Four Trees Down | 3:33 |
-| D10 | The Unquiet Grave | 6:57 |
-| D11 | Well You're Wrong | 3:35 |
-| D12 | An End To End | 5:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Thank You |
+| A2 | The Day Before You Came |
+| A3 | A Forest |
+| B4 | The Guitar Lesson |
+| B5 | Sign 'O' The Times |
+| B6 | Lord Of The Reedy River |
+| C7 | Moment I Lost |
+| C8 | Please Come Home |
+| C9 | Four Trees Down |
+| D10 | The Unquiet Grave |
+| D11 | Well You're Wrong |
+| D12 | An End To End |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Cover Version is a compilation album released in 2014 by British musician and re
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE858 |
-| Notes | Gatefold sleeve and printed innersleeves.<br>Tracks listed sequentially on rear cover. |
+| Notes | Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover. |
 | Discogs URL    | [Steven Wilson - Cover Version](https://www.discogs.com/release/5441637-Steven-Wilson-Cover-Version) |

@@ -35,19 +35,19 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blue Horror |  |
-| A2 | The Cull  |  |
-| A3 | Dinosaur |  |
-| B1 | The Coldest Of Shoulders |  |
-| B2 | Capra |  |
-| C1 | Newman |  |
-| C2 | Cross The Swords |  |
-| C3 | Gold Bruise |  |
-| D1 | Thunderlips |  |
-| D2 | Favour The Brave |  |
-| D3 | Mastery |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blue Horror |
+| A2 | The Cull  |
+| A3 | Dinosaur |
+| B1 | The Coldest Of Shoulders |
+| B2 | Capra |
+| C1 | Newman |
+| C2 | Cross The Swords |
+| C3 | Gold Bruise |
+| D1 | Thunderlips |
+| D2 | Favour The Brave |
+| D3 | Mastery |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Clear) |
 | Label          | Not On Label (British Theatre Self-released) |
 | Catalog Number | none |
-| Notes | Signed copies were available via a Pledgemusic campaign.<br>Comes in a gatefold sleeve with printed inners.<br>Contains no barcode or catalogue number. |
+| Notes | Signed copies were available via a Pledgemusic campaign. Comes in a gatefold sleeve with printed inners. Contains no barcode or catalogue number. |
 | Discogs URL    | [British Theatre - Mastery](https://www.discogs.com/release/8693685-British-Theatre-Mastery) |

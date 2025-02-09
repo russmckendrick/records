@@ -28,19 +28,19 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sanctuary |  |
-| A2 | Way On Down |  |
-| A3 | The Lunatics (Have Taken Over The Asylum) |  |
-| A4 | Life In General (Lewe In Algemeen) |  |
-| A5 | Faith, Hope And Charity |  |
-| A6 | Funrama 2 |  |
-| B1 | Best of Luck Mate |  |
-| B2 | T'Aint What You Do (It's The Way That You Do It) |  |
-| B3 | The Telephone Always Rings |  |
-| B4 | I Don't Believe It |  |
-| B5 | Alone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sanctuary |
+| A2 | Way On Down |
+| A3 | The Lunatics (Have Taken Over The Asylum) |
+| A4 | Life In General (Lewe In Algemeen) |
+| A5 | Faith, Hope And Charity |
+| A6 | Funrama 2 |
+| B1 | Best of Luck Mate |
+| B2 | T'Aint What You Do (It's The Way That You Do It) |
+| B3 | The Telephone Always Rings |
+| B4 | I Don't Believe It |
+| B5 | Alone |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 | Format         | Vinyl LP Album Reissue Remastered (Red, Translucent, 180g) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1426 |
-| Notes | With hype sticker:<br>FUN BOY THREE - 180gm TRANSLUCENT RED <br>Features the hits: THE LUNATICS (Have Taken Over The Asylum), THE TELEPHONE ALWAYS RINGS and T'AINT WHAT YOU DO (It's The Way That You Do It) |
+| Notes | With hype sticker: FUN BOY THREE - 180gm TRANSLUCENT RED  Features the hits: THE LUNATICS (Have Taken Over The Asylum), THE TELEPHONE ALWAYS RINGS and T'AINT WHAT YOU DO (It's The Way That You Do It) |
 | Discogs URL    | [Fun Boy Three - The Fun Boy Three](https://www.discogs.com/release/27872178-Fun-Boy-Three-The-Fun-Boy-Three) |

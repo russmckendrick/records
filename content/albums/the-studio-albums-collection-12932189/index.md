@@ -65,80 +65,80 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Creedence Clearwater Revival |  |
-| A1 | I Put A Spell On You | 4:25 |
-| A2 | The Working Man | 3:02 |
-| A3 | Susie Q | 8:34 |
-| B1 | Ninety-Nine And A Half (Won't Do) | 3:35 |
-| B2 | Get Down Woman | 3:02 |
-| B3 | Porterville | 2:13 |
-| B4 | Gloomy | 3:48 |
-| B5 | Walk On The Water | 4:16 |
-|  | Bayou Country |  |
-| C1 | Born On The Bayou | 5:16 |
-| C2 | Bootleg | 3:02 |
-| C3 | Graveyard Train | 8:38 |
-| D1 | Good Golly Miss Molly | 2:44 |
-| D2 | Penthouse Pauper | 3:40 |
-| D3 | Proud Mary | 3:09 |
-| D4 | Keep On Chooglin' | 7:40 |
-|  | Green River |  |
-| E1 | Green River | 2:32 |
-| E2 | Commotion | 2:41 |
-| E3 | Tombstone Shadow | 3:36 |
-| E4 | Wrote A Song For Everyone | 4:55 |
-| F1 | Bad Moon Rising | 2:18 |
-| F2 | Lodi | 3:10 |
-| F3 | Cross-Tie Walker | 3:17 |
-| F4 | Sinister Purpose | 3:20 |
-| F5 | The Night Time Is The Right Time | 3:07 |
-|  | Willy And The Poor Boys |  |
-| G1 | Down On The Corner | 2:43 |
-| G2 | It Came Out Of The Sky | 2:58 |
-| G3 | Cotton Fields | 2:53 |
-| G4 | Poorboy Shuffle | 2:25 |
-| G5 | Feelin' Blue | 5:05 |
-| H1 | Fortunate Son | 2:20 |
-| H2 | Don't Look Now (It Ain't You Or Me) | 2:08 |
-| H3 | The Midnight Special | 4:10 |
-| H4 | Side O' The Road | 3:21 |
-| H5 | Effigy | 6:28 |
-|  | Cosmos Factory |  |
-| I1 | Ramble Tamble | 7:09 |
-| I2 | Before You Accuse Me (Take A Look At Yourself) | 3:24 |
-| I3 | Travelin' Band | 2:07 |
-| I4 | Ooby Dooby | 2:05 |
-| I5 | Lookin' Out My Back Door | 2:31 |
-| I6 | Run Through The Jungle | 3:09 |
-| J1 | Up Around The Bend | 2:40 |
-| J2 | My Baby Left Me | 2:17 |
-| J3 | Who'll Stop The Rain | 2:28 |
-| J4 | I Heard It Through The Grapevine | 11:05 |
-| J5 | Long As I Can See The Light | 3:33 |
-|  | Pendulum |  |
-| K1 | Pagan Baby | 6:25 |
-| K2 | Sailor's Lament | 3:52 |
-| K3 | Chameleon | 3:20 |
-| K4 | Have You Ever Seen The Rain | 2:38 |
-| K5 | (Wish I Could) Hideaway | 3:49 |
-| L1 | Born To Move | 5:39 |
-| L2 | Hey Tonight | 2:43 |
-| L3 | It's Just A Thought | 3:56 |
-| L4 | Molina | 2:41 |
-| L5 | Rude Awakening #2 | 6:19 |
-|  | Mardi Gras |  |
-| M1 | Lookin' For A Reason | 3:25 |
-| M2 | Take It Like A Friend | 3:01 |
-| M3 | Need Someone To Hold | 2:59 |
-| M4 | Tearin' Up The Country | 2:13 |
-| M5 | Someday Never Comes | 3:59 |
-| N1 | What Are You Gonna Do | 2:51 |
-| N2 | Sail Away | 2:25 |
-| N3 | Hello Mary Lou | 2:11 |
-| N4 | Door To Door | 2:03 |
-| N5 | Sweet Hitch-Hiker | 2:59 |
+| Position | Title |
+|----------|--------|
+|  | Creedence Clearwater Revival |
+| A1 | I Put A Spell On You |
+| A2 | The Working Man |
+| A3 | Susie Q |
+| B1 | Ninety-Nine And A Half (Won't Do) |
+| B2 | Get Down Woman |
+| B3 | Porterville |
+| B4 | Gloomy |
+| B5 | Walk On The Water |
+|  | Bayou Country |
+| C1 | Born On The Bayou |
+| C2 | Bootleg |
+| C3 | Graveyard Train |
+| D1 | Good Golly Miss Molly |
+| D2 | Penthouse Pauper |
+| D3 | Proud Mary |
+| D4 | Keep On Chooglin' |
+|  | Green River |
+| E1 | Green River |
+| E2 | Commotion |
+| E3 | Tombstone Shadow |
+| E4 | Wrote A Song For Everyone |
+| F1 | Bad Moon Rising |
+| F2 | Lodi |
+| F3 | Cross-Tie Walker |
+| F4 | Sinister Purpose |
+| F5 | The Night Time Is The Right Time |
+|  | Willy And The Poor Boys |
+| G1 | Down On The Corner |
+| G2 | It Came Out Of The Sky |
+| G3 | Cotton Fields |
+| G4 | Poorboy Shuffle |
+| G5 | Feelin' Blue |
+| H1 | Fortunate Son |
+| H2 | Don't Look Now (It Ain't You Or Me) |
+| H3 | The Midnight Special |
+| H4 | Side O' The Road |
+| H5 | Effigy |
+|  | Cosmos Factory |
+| I1 | Ramble Tamble |
+| I2 | Before You Accuse Me (Take A Look At Yourself) |
+| I3 | Travelin' Band |
+| I4 | Ooby Dooby |
+| I5 | Lookin' Out My Back Door |
+| I6 | Run Through The Jungle |
+| J1 | Up Around The Bend |
+| J2 | My Baby Left Me |
+| J3 | Who'll Stop The Rain |
+| J4 | I Heard It Through The Grapevine |
+| J5 | Long As I Can See The Light |
+|  | Pendulum |
+| K1 | Pagan Baby |
+| K2 | Sailor's Lament |
+| K3 | Chameleon |
+| K4 | Have You Ever Seen The Rain |
+| K5 | (Wish I Could) Hideaway |
+| L1 | Born To Move |
+| L2 | Hey Tonight |
+| L3 | It's Just A Thought |
+| L4 | Molina |
+| L5 | Rude Awakening #2 |
+|  | Mardi Gras |
+| M1 | Lookin' For A Reason |
+| M2 | Take It Like A Friend |
+| M3 | Need Someone To Hold |
+| M4 | Tearin' Up The Country |
+| M5 | Someday Never Comes |
+| N1 | What Are You Gonna Do |
+| N2 | Sail Away |
+| N3 | Hello Mary Lou |
+| N4 | Door To Door |
+| N5 | Sweet Hitch-Hiker |
 
 
 ## Apple Music
@@ -155,5 +155,5 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 | Format         | Box Set Compilation Numbered Special Edition, Vinyl 7× LP Album Reissue Remastered (Half-Speed Mastering) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00131 |
-| Notes | Text on the back cover of the box set:<br><br>The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands |
+| Notes | Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands |
 | Discogs URL    | [Creedence Clearwater Revival - The Studio Albums Collection](https://www.discogs.com/release/12932189-Creedence-Clearwater-Revival-The-Studio-Albums-Collection) |

@@ -47,24 +47,24 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coma Girl |  |
-| A2 | Johnny Appleseed |  |
-| A3 | I Fought The Law (Live) |  |
-| A4 | Tony Adams |  |
-| B5 | Sleepwalk |  |
-| B6 | Love Kills |  |
-| B7 | Get Down Moses |  |
-| B8 | X-Ray Style |  |
-| C9 | Mondo Bongo |  |
-| C10 | Rudie Can't Fail (Live) |  |
-| C11 | At The Border, Guy |  |
-| C12 | Long Shadow |  |
-| D13 | Forbidden City |  |
-| D14 | Yalla Yalla |  |
-| D15 | Redemption Song |  |
-| D16 | Junco Partner (Acoustic) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coma Girl |
+| A2 | Johnny Appleseed |
+| A3 | I Fought The Law (Live) |
+| A4 | Tony Adams |
+| B5 | Sleepwalk |
+| B6 | Love Kills |
+| B7 | Get Down Moses |
+| B8 | X-Ray Style |
+| C9 | Mondo Bongo |
+| C10 | Rudie Can't Fail (Live) |
+| C11 | At The Border, Guy |
+| C12 | Long Shadow |
+| D13 | Forbidden City |
+| D14 | Yalla Yalla |
+| D15 | Redemption Song |
+| D16 | Junco Partner (Acoustic) |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered (Red, 180 Gr) |
 | Label          | Dark Horse Records |
 | Catalog Number | DH0002 |
-| Notes | Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.<br><br>Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).<br><br>Tracks are sequentially listed on release. |
+| Notes | Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release. |
 | Discogs URL    | [Joe Strummer - Assembly](https://www.discogs.com/release/17989276-Joe-Strummer-Assembly) |

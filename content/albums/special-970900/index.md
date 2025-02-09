@@ -32,19 +32,19 @@ Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Special | 3:51 |
-| A2 | Love Is All | 4:19 |
-| A3 | Peace Officer | 4:12 |
-| A4 | Treat The Youths Right | 3:40 |
-| A5 | Keep On Dancing | 3:25 |
-| A6 | Rub-A-Dub Partner | 2:58 |
-| B1 | Roots Radical | 4:25 |
-| B2 | Love Heights | 3:35 |
-| B3 | Originator | 4:56 |
-| B4 | Rock Children | 4:00 |
-| B5 | Where There Is Love | 4:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Special |
+| A2 | Love Is All |
+| A3 | Peace Officer |
+| A4 | Treat The Youths Right |
+| A5 | Keep On Dancing |
+| A6 | Rub-A-Dub Partner |
+| B1 | Roots Radical |
+| B2 | Love Heights |
+| B3 | Originator |
+| B4 | Rock Children |
+| B5 | Where There Is Love |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It w
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | CX 85878 |
-| Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc.<br>Made & Printed in Holland<br>Printed inner sleeve with lyrics.<br>CX Encoded Recording |
+| Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording |
 | Discogs URL    | [Jimmy Cliff - Special](https://www.discogs.com/release/970900-Jimmy-Cliff-Special) |

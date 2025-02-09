@@ -30,24 +30,24 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The King Of Rock 'N' Roll | 4:25 |
-| A2 | When Love Breaks Down | 4:09 |
-| A3 | The Sound Of Crying | 4:44 |
-| A4 | Faron Young | 3:47 |
-| B1 | Carnival 2000 | 3:22 |
-| B2 | Goodbye Lucille #1 (Johnny Johnny) | 4:28 |
-| B3 | I Remember That | 4:15 |
-| B4 | Cruel | 4:19 |
-| C1 | Cars And Girls | 4:27 |
-| C2 | We Let The Stars Go | 3:35 |
-| C3 | Life Of Surprises | 4:05 |
-| C4 | Appetite | 3:57 |
-| D1 | If You Don't Love Me | 3:44 |
-| D2 | Wild Horses | 3:41 |
-| D3 | Hey Manhattan! | 4:46 |
-| D4 | All The World Loves Lovers | 3:51 |
+| Position | Title |
+|----------|--------|
+| A1 | The King Of Rock 'N' Roll |
+| A2 | When Love Breaks Down |
+| A3 | The Sound Of Crying |
+| A4 | Faron Young |
+| B1 | Carnival 2000 |
+| B2 | Goodbye Lucille #1 (Johnny Johnny) |
+| B3 | I Remember That |
+| B4 | Cruel |
+| C1 | Cars And Girls |
+| C2 | We Let The Stars Go |
+| C3 | Life Of Surprises |
+| C4 | Appetite |
+| D1 | If You Don't Love Me |
+| D2 | Wild Horses |
+| D3 | Hey Manhattan! |
+| D4 | All The World Loves Lovers |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Pop Rock", "Synth-pop"]
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gram) |
 | Label          | Kitchenware Records |
 | Catalog Number | 19075944651 |
-| Notes | Gatefold sleeve. Made in the EU.<br><br>Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers. |
+| Notes | Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers. |
 | Discogs URL    | [Prefab Sprout - The Best Of Prefab Sprout: A Life Of Surprises](https://www.discogs.com/release/14187657-Prefab-Sprout-The-Best-Of-Prefab-Sprout-A-Life-Of-Surprises) |

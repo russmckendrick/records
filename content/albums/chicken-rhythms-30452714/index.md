@@ -32,18 +32,18 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take 5 | 4:11 |
-| A2 | Weight Of Air | 5:55 |
-| A3 | Funky Munky | 3:10 |
-| A4 | A Change Is On Its Way | 5:13 |
-| A5 | Yeah Man | 4:55 |
-| B1 | Tour De World | 3:40 |
-| B2 | Wishful Thinking | 4:18 |
-| B3 | Shall We Take A Trip | 4:23 |
-| B4 | Who's To Blame | 3:33 |
-| B5 | Practise Makes Perfect | 3:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Take 5 |
+| A2 | Weight Of Air |
+| A3 | Funky Munky |
+| A4 | A Change Is On Its Way |
+| A5 | Yeah Man |
+| B1 | Tour De World |
+| B2 | Wishful Thinking |
+| B3 | Shall We Take A Trip |
+| B4 | Who's To Blame |
+| B5 | Practise Makes Perfect |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (Yellow) |
 | Label          | London Records Ltd. |
 | Catalog Number | FACT 310 |
-| Notes | Repress of the original Factory production master tapes.<br>Restored artwork by Central Station Design.<br>Numbered yellow vinyl edition.<br> |
+| Notes | Repress of the original Factory production master tapes. Restored artwork by Central Station Design. Numbered yellow vinyl edition.  |
 | Discogs URL    | [Northside - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-2-Chicken-Rhythms) |

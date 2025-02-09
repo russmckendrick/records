@@ -55,19 +55,19 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Field Negus | 3:03 |
-| A2 | Pick Up Your Burning Cross | 3:44 |
-| A3 | Think Of Home | 3:32 |
-| B1 | Hustle | 5:18 |
-| B2 | For The Culture | 4:01 |
-| B3 | To Never Forget The Source | 2:55 |
-| C1 | In Rememberance Of Those Fallen | 5:06 |
-| C2 | Let The Circle Be Unbroken | 6:29 |
-| D1 | Envision Yourself Levitating | 8:23 |
-| D2 | Throughout The Madness, Stay Strong | 5:53 |
-| D3 | Black | 2:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Field Negus |
+| A2 | Pick Up Your Burning Cross |
+| A3 | Think Of Home |
+| B1 | Hustle |
+| B2 | For The Culture |
+| B3 | To Never Forget The Source |
+| C1 | In Rememberance Of Those Fallen |
+| C2 | Let The Circle Be Unbroken |
+| D1 | Envision Yourself Levitating |
+| D2 | Throughout The Madness, Stay Strong |
+| D3 | Black |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ styles: ["Afrobeat", "Fusion"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Impulse! |
 | Catalog Number | 00602435621661 |
-| Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid.<br>Moor Mother appears courtesy of Don Giovanni Records.<br>Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.<br><br>60 Impulse! sticker on shrinkwrap.<br><br>Sterling stamp etched in runouts. |
+| Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts. |
 | Discogs URL    | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |

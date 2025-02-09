@@ -29,16 +29,16 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Make A Change | 3:28 |
-| A2 | Smile | 3:48 |
-| A3  | Can't Keep My Cool | 4:19 |
-| A4 | Groovy Babe | 3:11 |
-| B1 | Giving Up | 5:07 |
-| B2 | Is It Any Wonder? | 4:36 |
-| B3 | Now I'm Gone  | 5:39 |
-| B4 | Tuck 'N' Roll | 2:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Make A Change |
+| A2 | Smile |
+| A3  | Can't Keep My Cool |
+| A4 | Groovy Babe |
+| B1 | Giving Up |
+| B2 | Is It Any Wonder? |
+| B3 | Now I'm Gone  |
+| B4 | Tuck 'N' Roll |
 
 
 ## Apple Music

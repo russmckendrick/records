@@ -123,94 +123,94 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album, Remastered In 2011 | 44:18 |
-| CD1-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:32 |
-| CD1-2 | Welcome To The Machine | 7:31 |
-| CD1-3 | Have A Cigar | 5:07 |
-| CD1-4 | Wish You Were Here | 5:34 |
-| CD1-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:29 |
-|  | Unreleased Audio Tracks | 66:54 |
-| CD2-1 | Shine On You Crazy Diamond (Live At Wembley 1974) | 20:22 |
-| CD2-2 | Raving And Drooling (Live At Wembley 1974) | 12:35 |
-| CD2-3 | You've Got To Be Crazy (Live At Wembley 1974) | 18:12 |
-| CD2-4 | Wine Glasses (From The 'Household Objects' Project) | 2:16 |
-| CD2-5 | Have A Cigar (Alternative Version) | 7:11 |
-| CD2-6 | Wish You Were Here (With Stéphane Grappelli) | 6:13 |
-|  | Wish You Were Here Multi-Channel Audio Mixes |  |
-|  | 5.1 Surround Mix (2009) 448kbps |  |
-| DVD1-1-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:33 |
-| DVD1-1-2 | Welcome To The Machine | 7:37 |
-| DVD1-1-3 | Have A Cigar | 5:12 |
-| DVD1-1-4 | Wish You Were Here | 5:39 |
-| DVD1-1-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:48 |
-|  | 5.1 Surround Mix (2009) 640kbps |  |
-| DVD1-2-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:33 |
-| DVD1-2-2 | Welcome To The Machine | 7:37 |
-| DVD1-2-3 | Have A Cigar | 5:12 |
-| DVD1-2-4 | Wish You Were Here | 5:39 |
-| DVD1-2-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:48 |
-|  | LPCM Original Stereo Mix (1975) |  |
-| DVD1-3-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:33 |
-| DVD1-3-2 | Welcome To The Machine | 7:37 |
-| DVD1-3-3 | Have A Cigar | 5:12 |
-| DVD1-3-4 | Wish You Were Here | 5:39 |
-| DVD1-3-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:48 |
-|  | 4.0 Quad Mix (1975) 448kbps |  |
-| DVD1-4-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:33 |
-| DVD1-4-2 | Welcome To The Machine | 7:37 |
-| DVD1-4-3 | Have A Cigar | 5:12 |
-| DVD1-4-4 | Wish You Were Here | 5:39 |
-| DVD1-4-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:48 |
-|  | 4.0 Quad Mix (1975) 640kbps |  |
-| DVD1-5-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:33 |
-| DVD1-5-2 | Welcome To The Machine | 7:37 |
-| DVD1-5-3 | Have A Cigar | 5:12 |
-| DVD1-5-4 | Wish You Were Here | 5:39 |
-| DVD1-5-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:48 |
-|  | Audio-Visual Material | 75:00 |
-|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit | 20:00 |
-| DVD2-1 | Shine On You Crazy Diamond (Part I) | 4:56 |
-| DVD2-2 | Shine On You Crazy Diamond | 7:47 |
-| DVD2-3 | Welcome To The Machine | 7:41 |
-|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/24 Bit | 6:00 |
-| DVD2-4 | Storm Thorgerson Short Film, 2000 | 6:00 |
-|  | Concert Screen Films, 1975 (5.1 Surround Sound) Dolby Digital @ 448 Kbps | 20:00 |
-| DVD2-5 | Shine On You Crazy Diamond (Part I) | 4:56 |
-| DVD2-6 | Shine On You Crazy Diamond | 7:47 |
-| DVD2-7 | Welcome To The Machine | 7:41 |
-|  | High Resolution Audio And Audio - Visual Material |  |
-|  | Audio |  |
-|  | 5.1 Surround Mix (2009) 96kHz/24 Bit | 44:18 |
-| BD-1-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:32 |
-| BD-1-2 | Welcome To The Machine | 7:31 |
-| BD-1-3 | Have A Cigar | 5:07 |
-| BD-1-4 | Wish You Were Here | 5:34 |
-| BD-1-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:29 |
-|  | Original Stereo Mix (1975) 96kHz/24 Bit | 44:18 |
-| BD-2-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:32 |
-| BD-2-2 | Welcome To The Machine | 7:31 |
-| BD-2-3 | Have A Cigar | 5:07 |
-| BD-2-4 | Wish You Were Here | 5:34 |
-| BD-2-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:29 |
-|  | 4.0 Quad Mix (1975) 96kHz/24 Bit | 44:18 |
-| BD-3-1 | Shine On You Crazy Diamond (Parts 1-5) | 13:32 |
-| BD-3-2 | Welcome To The Machine | 7:31 |
-| BD-3-3 | Have A Cigar | 5:07 |
-| BD-3-4 | Wish You Were Here | 5:34 |
-| BD-3-5 | Shine On You Crazy Diamond (Parts 6-9) | 12:29 |
-|  | Audio-Visual |  |
-|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit | 20:00 |
-| BD-4-1 | Shine On You Crazy Diamond (Part I) | 4:56 |
-| BD-4-2 | Shine On You Crazy Diamond | 7:47 |
-| BD-4-3 | Welcome To The Machine | 7:41 |
-|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/16 Bit | 6:00 |
-| BD-5-1 | Storm Thorgerson Short Film, 2000 | 6:00 |
-|  | Concert Screen Films, 1975 5.1 Surround Sound 48kHz/24 Bit | 20:00 |
-| BD-6-1 | Shine On You Crazy Diamond (Intro) | 4:56 |
-| BD-6-2 | Shine On You Crazy Diamond | 7:47 |
-| BD-6-3 | Welcome To The Machine | 7:41 |
+| Position | Title |
+|----------|--------|
+|  | The Original Album, Remastered In 2011 |
+| CD1-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| CD1-2 | Welcome To The Machine |
+| CD1-3 | Have A Cigar |
+| CD1-4 | Wish You Were Here |
+| CD1-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | Unreleased Audio Tracks |
+| CD2-1 | Shine On You Crazy Diamond (Live At Wembley 1974) |
+| CD2-2 | Raving And Drooling (Live At Wembley 1974) |
+| CD2-3 | You've Got To Be Crazy (Live At Wembley 1974) |
+| CD2-4 | Wine Glasses (From The 'Household Objects' Project) |
+| CD2-5 | Have A Cigar (Alternative Version) |
+| CD2-6 | Wish You Were Here (With Stéphane Grappelli) |
+|  | Wish You Were Here Multi-Channel Audio Mixes |
+|  | 5.1 Surround Mix (2009) 448kbps |
+| DVD1-1-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| DVD1-1-2 | Welcome To The Machine |
+| DVD1-1-3 | Have A Cigar |
+| DVD1-1-4 | Wish You Were Here |
+| DVD1-1-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | 5.1 Surround Mix (2009) 640kbps |
+| DVD1-2-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| DVD1-2-2 | Welcome To The Machine |
+| DVD1-2-3 | Have A Cigar |
+| DVD1-2-4 | Wish You Were Here |
+| DVD1-2-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | LPCM Original Stereo Mix (1975) |
+| DVD1-3-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| DVD1-3-2 | Welcome To The Machine |
+| DVD1-3-3 | Have A Cigar |
+| DVD1-3-4 | Wish You Were Here |
+| DVD1-3-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | 4.0 Quad Mix (1975) 448kbps |
+| DVD1-4-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| DVD1-4-2 | Welcome To The Machine |
+| DVD1-4-3 | Have A Cigar |
+| DVD1-4-4 | Wish You Were Here |
+| DVD1-4-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | 4.0 Quad Mix (1975) 640kbps |
+| DVD1-5-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| DVD1-5-2 | Welcome To The Machine |
+| DVD1-5-3 | Have A Cigar |
+| DVD1-5-4 | Wish You Were Here |
+| DVD1-5-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | Audio-Visual Material |
+|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit |
+| DVD2-1 | Shine On You Crazy Diamond (Part I) |
+| DVD2-2 | Shine On You Crazy Diamond |
+| DVD2-3 | Welcome To The Machine |
+|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/24 Bit |
+| DVD2-4 | Storm Thorgerson Short Film, 2000 |
+|  | Concert Screen Films, 1975 (5.1 Surround Sound) Dolby Digital @ 448 Kbps |
+| DVD2-5 | Shine On You Crazy Diamond (Part I) |
+| DVD2-6 | Shine On You Crazy Diamond |
+| DVD2-7 | Welcome To The Machine |
+|  | High Resolution Audio And Audio - Visual Material |
+|  | Audio |
+|  | 5.1 Surround Mix (2009) 96kHz/24 Bit |
+| BD-1-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| BD-1-2 | Welcome To The Machine |
+| BD-1-3 | Have A Cigar |
+| BD-1-4 | Wish You Were Here |
+| BD-1-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | Original Stereo Mix (1975) 96kHz/24 Bit |
+| BD-2-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| BD-2-2 | Welcome To The Machine |
+| BD-2-3 | Have A Cigar |
+| BD-2-4 | Wish You Were Here |
+| BD-2-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | 4.0 Quad Mix (1975) 96kHz/24 Bit |
+| BD-3-1 | Shine On You Crazy Diamond (Parts 1-5) |
+| BD-3-2 | Welcome To The Machine |
+| BD-3-3 | Have A Cigar |
+| BD-3-4 | Wish You Were Here |
+| BD-3-5 | Shine On You Crazy Diamond (Parts 6-9) |
+|  | Audio-Visual |
+|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit |
+| BD-4-1 | Shine On You Crazy Diamond (Part I) |
+| BD-4-2 | Shine On You Crazy Diamond |
+| BD-4-3 | Welcome To The Machine |
+|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/16 Bit |
+| BD-5-1 | Storm Thorgerson Short Film, 2000 |
+|  | Concert Screen Films, 1975 5.1 Surround Sound 48kHz/24 Bit |
+| BD-6-1 | Shine On You Crazy Diamond (Intro) |
+| BD-6-2 | Shine On You Crazy Diamond |
+| BD-6-3 | Welcome To The Machine |
 
 
 ## Apple Music
@@ -227,5 +227,5 @@ styles: ["Art Rock", "Prog Rock"]
 | Format         | CD Album Reissue Remastered Stereo, CD Remastered Stereo, DVD Multichannel NTSC Album Reissue Remastered Stereo Quadraphonic, DVD DVD-Video Multichannel NTSC Stereo, Blu-ray Album Reissue Remastered Stereo Quadraphonic Multichannel, Box Set Limited Edition |
 | Label          | EMI |
 | Catalog Number | 50999 029435 2 7 |
-| Notes | Subtitle:<br>"Ceci n'est pas une boîte"<br><br>Box set also includes:<br><br>a 36-page 27 cm x 27 cm book "Immersion Book" designed by Storm Thorgerson, embossed on front sleeve, including recording informations, song lyrics, sleeve artwork, concert ticket and poster reprints and others, <br>a 24-page 27 cm x 27 cm photo book " Wish You Were Here - Pink Floyd Circa 1973 - 1975", including photographs By Jill Furmanovsky and Hipgnosis, edited by Jill Furmanovsky, <br>a 8-page credits booklet,<br>an exclusive 27 cm x 27 cm Art Print "Diver - 1975", <br>a black envelope "Immersion Collectors' Cards" 15 cm x 11 cm including: <br>• 4 x "Immersion Collectors' Cards" 8 cm x 11 cm featuring art and comments by Storm Thorgerson with a total of 57 different variations (The Collectors' Cards are a set of obscure Floyd images reminiscent of cigarette cards [but these are anti-cigarette]. They can be found in various Pink Floyd products) <br>a black envelope "Immersion Memorabilia" 18 cm x 10 cm including: <br>• a replica of Wish You Were Here tour ticket from 23 Fevrier 1977 Pav. De Paris 7 cm x 16 cm and <br>• a replica of Wish You Were Here backstage pass 1975 7,8 cm x 10,5 cm, <br>a collectible printed scarf of 100% viscose 78 cm x 24 cm, <br>a black cloth sack 8 cm x 9 cm including: <br>• 3 x collectable clear marbles 2,4 cm round, <br>9 x collectible coasters 10,2 cm round (unique to this box) featuring early design sketches<br>and a German FSK insert 12 cm x 12 cm. <br><br>Discs 1 - 4 are mounted in the box set, disc 5 is in separate card sleeve<br><br>No durations given for discs 1, 2, 3 and 5<br><br>Digital remaster ℗ 2011<br>The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.<br>© 2011 Pink Floyd Music Ltd.<br><br>Released on 04-11-11 in Europe. <br>Released on 07-11-11 in the U.K. |
+| Notes | Subtitle: "Ceci n'est pas une boîte"  Box set also includes:  a 36-page 27 cm x 27 cm book "Immersion Book" designed by Storm Thorgerson, embossed on front sleeve, including recording informations, song lyrics, sleeve artwork, concert ticket and poster reprints and others,  a 24-page 27 cm x 27 cm photo book " Wish You Were Here - Pink Floyd Circa 1973 - 1975", including photographs By Jill Furmanovsky and Hipgnosis, edited by Jill Furmanovsky,  a 8-page credits booklet, an exclusive 27 cm x 27 cm Art Print "Diver - 1975",  a black envelope "Immersion Collectors' Cards" 15 cm x 11 cm including:  • 4 x "Immersion Collectors' Cards" 8 cm x 11 cm featuring art and comments by Storm Thorgerson with a total of 57 different variations (The Collectors' Cards are a set of obscure Floyd images reminiscent of cigarette cards [but these are anti-cigarette]. They can be found in various Pink Floyd products)  a black envelope "Immersion Memorabilia" 18 cm x 10 cm including:  • a replica of Wish You Were Here tour ticket from 23 Fevrier 1977 Pav. De Paris 7 cm x 16 cm and  • a replica of Wish You Were Here backstage pass 1975 7,8 cm x 10,5 cm,  a collectible printed scarf of 100% viscose 78 cm x 24 cm,  a black cloth sack 8 cm x 9 cm including:  • 3 x collectable clear marbles 2,4 cm round,  9 x collectible coasters 10,2 cm round (unique to this box) featuring early design sketches and a German FSK insert 12 cm x 12 cm.   Discs 1 - 4 are mounted in the box set, disc 5 is in separate card sleeve  No durations given for discs 1, 2, 3 and 5  Digital remaster ℗ 2011 The copyright in this music is owned by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 2011 Pink Floyd Music Ltd.  Released on 04-11-11 in Europe.  Released on 07-11-11 in the U.K. |
 | Discogs URL    | [Pink Floyd - Wish You Were Here - Immersion Box Set](https://www.discogs.com/release/3205416-Pink-Floyd-Wish-You-Were-Here-Immersion-Box-Set) |

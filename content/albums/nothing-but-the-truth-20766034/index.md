@@ -41,25 +41,25 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Versions Of The Truth |  |
-| A2 | In Exile |  |
-| A3 | Warm Seas |  |
-| A4 | Our Mire |  |
-| B1 | Build A World |  |
-| B2 | Demons |  |
-| B3 | Driving Like Maniacs |  |
-| B4 | Someone Pull Me Out |  |
-| B5 | Uncovering Your Tracks |  |
-| C1 | Break It All |  |
-| C2 | White Mist |  |
-| C3 | Out Of Line |  |
-| C4 | Wretched Soul |  |
-| D1 | Far Below |  |
-| D2 | Threatening War |  |
-| D3 | The Swell |  |
-| D4 | The Final Thing On My Mind  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Versions Of The Truth |
+| A2 | In Exile |
+| A3 | Warm Seas |
+| A4 | Our Mire |
+| B1 | Build A World |
+| B2 | Demons |
+| B3 | Driving Like Maniacs |
+| B4 | Someone Pull Me Out |
+| B5 | Uncovering Your Tracks |
+| C1 | Break It All |
+| C2 | White Mist |
+| C3 | Out Of Line |
+| C4 | Wretched Soul |
+| D1 | Far Below |
+| D2 | Threatening War |
+| D3 | The Swell |
+| D4 | The Final Thing On My Mind  |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1136 |
-| Notes | Gavin Harrison - Drums<br>Steve Kitch - Keyboards<br>Bruce Soord - Guitars and vocals<br>Jon Sykes - Bass guitar and backing vocals<br>George Marios - Guitars and backing vocals<br>-<br>Mixed by - Bruce Soord and Gavin Harrison<br>Mastered by - Steve Kitch at Steve Kitch mastering<br>Artwork by - Michael Schoenholtz<br>Design and layout by - Beech<br>Photographer - Greg Holland<br>Publisher - Universal/MCA Music Ltd<br>Squatter Madras Music<br>and Bruce Soord |
+| Notes | Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord |
 | Discogs URL    | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034-The-Pineapple-Thief-Nothing-But-The-Truth) |

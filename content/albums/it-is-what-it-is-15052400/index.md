@@ -61,23 +61,23 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lost In Space / Great Scott / 22-26 |  |
-| A2 | Innerstellar Love |  |
-| A3 | I Love Louis Cole |  |
-| A4 | Black Qualls |  |
-| A5 | Miguel's Happy Dance |  |
-| A6 | How Sway |  |
-| A7 | Funny Thing |  |
-| B1 | Overseas |  |
-| B2 | Dragonball Durag |  |
-| B3 | How I Feel |  |
-| B4 | King Of The Hill |  |
-| B5 | Unrequited Love |  |
-| B6 | Fair Chance |  |
-| B7 | Existential Dread |  |
-| B8 | It Is What It Is |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lost In Space / Great Scott / 22-26 |
+| A2 | Innerstellar Love |
+| A3 | I Love Louis Cole |
+| A4 | Black Qualls |
+| A5 | Miguel's Happy Dance |
+| A6 | How Sway |
+| A7 | Funny Thing |
+| B1 | Overseas |
+| B2 | Dragonball Durag |
+| B3 | How I Feel |
+| B4 | King Of The Hill |
+| B5 | Unrequited Love |
+| B6 | Fair Chance |
+| B7 | Existential Dread |
+| B8 | It Is What It Is |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 | Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
 | Label          | Brainfeeder |
 | Catalog Number | BF100RT |
-| Notes | Limited edition (Rough Trade exclusive), 1,000 copies.<br><br>140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.<br><br>Sleeve does not have gold foil detail (only on deluxe editions).<br><br>Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |
+| Notes | Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |
 | Discogs URL    | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |

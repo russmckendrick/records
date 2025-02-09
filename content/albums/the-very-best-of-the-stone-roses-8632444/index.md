@@ -37,23 +37,23 @@ Not only does the compilation contain six songs from their 1989 debut but the al
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Wanna Be Adored | 4:52 |
-| A2 | She Bangs The Drums | 3:42 |
-| A3 | Ten Storey Love Song | 4:29 |
-| A4 | Waterfall | 4:37 |
-| B1 | Made Of Stone | 4:10 |
-| B2 | Love Spreads | 5:46 |
-| B3 | What The World Is Waiting For | 3:55 |
-| B4 | Sally Cinnamon | 3:23 |
-| C1 | Fools Gold | 9:53 |
-| C2 | Begging You | 4:56 |
-| C3 | Elephant Stone | 4:48 |
-| D1 | Breaking Into Heaven | 6:59 |
-| D2 | One Love | 3:35 |
-| D3 | This Is The One | 4:58 |
-| D4 | I Am The Resurrection | 8:12 |
+| Position | Title |
+|----------|--------|
+| A1 | I Wanna Be Adored |
+| A2 | She Bangs The Drums |
+| A3 | Ten Storey Love Song |
+| A4 | Waterfall |
+| B1 | Made Of Stone |
+| B2 | Love Spreads |
+| B3 | What The World Is Waiting For |
+| B4 | Sally Cinnamon |
+| C1 | Fools Gold |
+| C2 | Begging You |
+| C3 | Elephant Stone |
+| D1 | Breaking Into Heaven |
+| D2 | One Love |
+| D3 | This Is The One |
+| D4 | I Am The Resurrection |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Not only does the compilation contain six songs from their 1989 debut but the al
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Gatefold Sleeve) |
 | Label          | Silvertone Records |
 | Catalog Number | 88725406221 |
-| Notes | Remastered from the original master tapes by John Davis @ Metropolis Studios. Remastering was overseen by John Leckie.<br>Both vinyl housed in picture sleeves. A 12x12" insert with liner notes, lyrics and credits is also included.<br><br>2012 is stated beside ℗&© on side two and side four labels respectively.<br>2016 is stated on insert. |
+| Notes | Remastered from the original master tapes by John Davis @ Metropolis Studios. Remastering was overseen by John Leckie. Both vinyl housed in picture sleeves. A 12x12" insert with liner notes, lyrics and credits is also included.  2012 is stated beside ℗&© on side two and side four labels respectively. 2016 is stated on insert. |
 | Discogs URL    | [The Stone Roses - The Very Best Of The Stone Roses](https://www.discogs.com/release/8632444-The-Stone-Roses-The-Very-Best-Of-The-Stone-Roses) |

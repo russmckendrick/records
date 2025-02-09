@@ -34,24 +34,24 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Suburbs | 5:14 |
-| A2 | Ready To Start | 4:17 |
-| A3 | Modern Man | 4:39 |
-| A4 | Rococo | 4:01 |
-| B5 | Empty Room | 2:52 |
-| B6 | City With No Children | 3:12 |
-| B7 | Half Light I | 4:14 |
-| B8 | Half Light II (No Celebration) | 4:25 |
-| C9 | Month Of May | 3:45 |
-| C10 | Wasted Hours | 3:26 |
-| C11 | Deep Blue | 4:29 |
-| C12 | We Used To Wait | 5:27 |
-| D13 | Sprawl I (Flatland) | 3:18 |
-| D14 | Sprawl II (Mountains Beyond Mountains) | 5:21 |
-| D15 | Suburban War | 4:44 |
-| D16 | The Suburbs (Continued) | 1:26 |
+| Position | Title |
+|----------|--------|
+| A1 | The Suburbs |
+| A2 | Ready To Start |
+| A3 | Modern Man |
+| A4 | Rococo |
+| B5 | Empty Room |
+| B6 | City With No Children |
+| B7 | Half Light I |
+| B8 | Half Light II (No Celebration) |
+| C9 | Month Of May |
+| C10 | Wasted Hours |
+| C11 | Deep Blue |
+| C12 | We Used To Wait |
+| D13 | Sprawl I (Flatland) |
+| D14 | Sprawl II (Mountains Beyond Mountains) |
+| D15 | Suburban War |
+| D16 | The Suburbs (Continued) |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | City Slang |
 | Catalog Number | 2743427 |
-| Notes | Printed notes:<br>Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin; <br>and various bedrooms, living rooms and basements in Montréal.<br>Mixed at: Studio Frisson, Montréal.<br>Copyright Arcade Fire Music Inc. (Canada).<br>All Titles Copyright Control.<br><br>A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER.<br>EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.<br><br><br>Other notes:<br>Album comes in a gatefold sleeve. <br>Inner sleeves with lyrics and credits.<br>Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16.<br>Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely.<br> |
+| Notes | Printed notes:  Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin;   and various bedrooms, living rooms and basements in Montréal.  Mixed at: Studio Frisson, Montréal.  Copyright Arcade Fire Music Inc. (Canada).  All Titles Copyright Control.    A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER.  EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.      Other notes:  Album comes in a gatefold sleeve.   Inner sleeves with lyrics and credits.  Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16.  Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely.   |
 | Discogs URL    | [Arcade Fire - The Suburbs](https://www.discogs.com/release/2399813-Arcade-Fire-The-Suburbs) |

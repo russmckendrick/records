@@ -30,21 +30,21 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Reflection |  |
-| A2 | Leaves |  |
-| A3 | Blood Boils Hot |  |
-| A4 | Gaslighting |  |
-| A5 | Meet You In Eden |  |
-| A6 | Willow Tree |  |
-| B1 | Roots |  |
-| B2 | Man In The Moon |  |
-| B3 | The Soul |  |
-| B4 | In Silva |  |
-| B5 | Thunder |  |
-| B6 | Reaching For Sun |  |
-| B7 | Epilogue |  |
+| Position | Title |
+|----------|--------|
+| A1 | Reflection |
+| A2 | Leaves |
+| A3 | Blood Boils Hot |
+| A4 | Gaslighting |
+| A5 | Meet You In Eden |
+| A6 | Willow Tree |
+| B1 | Roots |
+| B2 | Man In The Moon |
+| B3 | The Soul |
+| B4 | In Silva |
+| B5 | Thunder |
+| B6 | Reaching For Sun |
+| B7 | Epilogue |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Purple Transparent) |
 | Label          | The Sign Records |
 | Catalog Number | CRC020 |
-| Notes | Edition of 500 copies on Purple Transparent vinyl.<br><br>Comes with:<br>- a generic black inner sleeve<br>- insert with band photo, lyrics and some credits<br>- plastic protective outer sleeve with applied hype sticker<br><br>Matrix numbers are etched.<br> |
+| Notes | Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched.  |
 | Discogs URL    | [Children of the Sün - Roots](https://www.discogs.com/release/23720324-Children-of-the-Sün-Roots) |

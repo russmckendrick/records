@@ -31,15 +31,15 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Real Man | 4:25 |
-| A2 | Born To Synthesize | 3:40 |
-| A3 | The Death Of Rock And Roll | 3:48 |
-| A4 | Eastern Intrigue | 5:06 |
-| A5 | Initiation | 7:05 |
-| A6 | Fair Warning | 8:07 |
-|  | A Treatise On Cosmic Fire | 36:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Real Man |
+| A2 | Born To Synthesize |
+| A3 | The Death Of Rock And Roll |
+| A4 | Eastern Intrigue |
+| A5 | Initiation |
+| A6 | Fair Warning |
+|  | A Treatise On Cosmic Fire |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55504 |
-| Notes | Lyrics printed on white board inner sleeve <br><br>Label states “Produced, Arranged & Mixed by Todd Rundgren”<br>And then underneath “ISLAND MUSIC”<br><br>The back cover text and labels are different from the other UK 1975 release. |
+| Notes | Lyrics printed on white board inner sleeve   Label states “Produced, Arranged & Mixed by Todd Rundgren” And then underneath “ISLAND MUSIC”  The back cover text and labels are different from the other UK 1975 release. |
 | Discogs URL    | [Todd Rundgren - Initiation](https://www.discogs.com/release/13238761-Todd-Rundgren-Initiation) |

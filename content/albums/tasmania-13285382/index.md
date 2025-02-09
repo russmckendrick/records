@@ -35,18 +35,18 @@ styles: ["Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daisy |  |
-| A2 | Sixteen Days |  |
-| A3 | Tasmania |  |
-| B1 | The Boys Are Killing Me |  |
-| B2 | Hand Mouth Danger |  |
-| B3 | Goodnight, P.C.C. |  |
-| C1 | Burnt Out Star |  |
-| C2 | Selene |  |
-| D1 | Shame |  |
-| D2 | Doctor's In |  |
+| Position | Title |
+|----------|--------|
+| A1 | Daisy |
+| A2 | Sixteen Days |
+| A3 | Tasmania |
+| B1 | The Boys Are Killing Me |
+| B2 | Hand Mouth Danger |
+| B3 | Goodnight, P.C.C. |
+| C1 | Burnt Out Star |
+| C2 | Selene |
+| D1 | Shame |
+| D2 | Doctor's In |
 
 
 ## Apple Music

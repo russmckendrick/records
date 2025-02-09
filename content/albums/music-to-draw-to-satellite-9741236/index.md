@@ -29,26 +29,26 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Observable Universe |  |
-| A2 | Adrift |  |
-| A3 | Transmission 1 |  |
-| B1 | Fallaway |  |
-| B2 | Perihelion |  |
-| B3 | Photons |  |
-| B4 | Beneath The Heat |  |
-| B5 | Novachord |  |
-| C1 | Transmission 2 |  |
-| C2 | Collapser |  |
-| C3 | Transmission 3 |  |
-| C4 | The Hubble Constant |  |
-| C5 | Satellite |  |
-| C6 | Apoapsis |  |
-| D1 | Nightfall |  |
-| D2 | The Darkest Day |  |
-| D3 | Epilogue |  |
-| D4 | Nightfall: Pale Blue |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Observable Universe |
+| A2 | Adrift |
+| A3 | Transmission 1 |
+| B1 | Fallaway |
+| B2 | Perihelion |
+| B3 | Photons |
+| B4 | Beneath The Heat |
+| B5 | Novachord |
+| C1 | Transmission 2 |
+| C2 | Collapser |
+| C3 | Transmission 3 |
+| C4 | The Hubble Constant |
+| C5 | Satellite |
+| C6 | Apoapsis |
+| D1 | Nightfall |
+| D2 | The Darkest Day |
+| D3 | Epilogue |
+| D4 | Nightfall: Pale Blue |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 | Format         | Vinyl 2× LP Album |
 | Label          | Arts & Crafts |
 | Catalog Number | A&C 129 |
-| Notes | Includes 16p booklet  in CD booklet size (same as used for CD)<br>and Digital Download Card (for MP3 download only) |
+| Notes | Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only) |
 | Discogs URL    | [Kid Koala - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emilíana-Torrini-Music-To-Draw-To-Satellite) |

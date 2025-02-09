@@ -33,26 +33,26 @@ Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Before Your Very Eyes... |  |
-| A2 | Default |  |
-| B1 | Ingenue |  |
-| B2 | Dropped |  |
-| C1 | Unless |  |
-| C2 | Stuck Together Pieces |  |
-| D1 | Judge Jury And Executioner |  |
-| D2 | Reverse Running |  |
-| D3 | Amok |  |
-| CD-1 | Before Your Very Eyes... | 5:47 |
-| CD-2 | Default | 5:15 |
-| CD-3 | Ingenue | 4:30 |
-| CD-4 | Dropped | 4:57 |
-| CD-5 | Unless | 4:40 |
-| CD-6 | Stuck Together Pieces | 5:28 |
-| CD-7 | Judge Jury And Executioner | 3:28 |
-| CD-8 | Reverse Running | 5:06 |
-| CD-9 | Amok | 5:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Before Your Very Eyes... |
+| A2 | Default |
+| B1 | Ingenue |
+| B2 | Dropped |
+| C1 | Unless |
+| C2 | Stuck Together Pieces |
+| D1 | Judge Jury And Executioner |
+| D2 | Reverse Running |
+| D3 | Amok |
+| CD-1 | Before Your Very Eyes... |
+| CD-2 | Default |
+| CD-3 | Ingenue |
+| CD-4 | Dropped |
+| CD-5 | Unless |
+| CD-6 | Stuck Together Pieces |
+| CD-7 | Judge Jury And Executioner |
+| CD-8 | Reverse Running |
+| CD-9 | Amok |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" 
 | Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP583 |
-| Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way.<br>Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.<br><br>P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd.<br>Track durations not given on release. |
+| Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release. |
 | Discogs URL    | [Atoms For Peace - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-2-Amok) |

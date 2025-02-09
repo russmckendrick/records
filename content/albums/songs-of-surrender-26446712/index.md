@@ -60,24 +60,24 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One | 3:36 |
-| A2 | Where The Streets Have No Name | 4:17 |
-| A3 | Stories For Boys | 2:51 |
-| A4 | Walk On (Ukraine) | 4:07 |
-| B1 | Pride (In The Name Of Love) | 3:57 |
-| B2 | City Of Blinding Lights | 4:55 |
-| B3 | Ordinary Love | 3:13 |
-| B4 | Invisible | 4:23 |
-| C1 | Vertigo | 3:29 |
-| C2 | I Still Haven't Found What I'm Looking For | 4:15 |
-| C3 | The Fly | 4:02 |
-| C4 | If God Will Send His Angels | 5:15 |
-| D1 | Stay (Faraway, So Close) | 5:03 |
-| D2 | Sunday Bloody Sunday | 4:13 |
-| D3 | I Will Follow | 3:40 |
-| D4 | "40" | 3:03 |
+| Position | Title |
+|----------|--------|
+| A1 | One |
+| A2 | Where The Streets Have No Name |
+| A3 | Stories For Boys |
+| A4 | Walk On (Ukraine) |
+| B1 | Pride (In The Name Of Love) |
+| B2 | City Of Blinding Lights |
+| B3 | Ordinary Love |
+| B4 | Invisible |
+| C1 | Vertigo |
+| C2 | I Still Haven't Found What I'm Looking For |
+| C3 | The Fly |
+| C4 | If God Will Send His Angels |
+| D1 | Stay (Faraway, So Close) |
+| D2 | Sunday Bloody Sunday |
+| D3 | I Will Follow |
+| D4 | "40" |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 | Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
 | Label          | Island Records |
 | Catalog Number | 5503448 |
-| Notes | 16 new acoustic & reimagined recordings from the U2 catalogue.<br>Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.<br><br>On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |
+| Notes | 16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |
 | Discogs URL    | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |

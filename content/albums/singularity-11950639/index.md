@@ -33,17 +33,17 @@ Building on his background as a classical pianist and composer, Surrey producer 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Singularity |  |
-| A2 | Emerald Rush |  |
-| B1 | Neon Pattern Drum |  |
-| B2 | Everything Connected |  |
-| C1 | Feel First Life |  |
-| C2 | C O S M |  |
-| C3 | Echo Dissolve |  |
-| D1 | Luminous Beings |  |
-| D2 | Recovery |  |
+| Position | Title |
+|----------|--------|
+| A1 | Singularity |
+| A2 | Emerald Rush |
+| B1 | Neon Pattern Drum |
+| B2 | Everything Connected |
+| C1 | Feel First Life |
+| C2 | C O S M |
+| C3 | Echo Dissolve |
+| D1 | Luminous Beings |
+| D2 | Recovery |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Building on his background as a classical pianist and composer, Surrey producer 
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Domino |
 | Catalog Number | WIGLP352 |
-| Notes | Standard black-vinyl version.<br><br>Written, produced and engineered at Café Music Studios, London<br>Mixed at Café Music Studios, London<br>Piano on Emerald Rush recorded at Shoreditch Treehouse, London<br>London Voices recorded at Angel Studios, London |
+| Notes | Standard black-vinyl version.  Written, produced and engineered at Café Music Studios, London Mixed at Café Music Studios, London Piano on Emerald Rush recorded at Shoreditch Treehouse, London London Voices recorded at Angel Studios, London |
 | Discogs URL    | [Jon Hopkins - Singularity](https://www.discogs.com/release/11950639-Jon-Hopkins-Singularity) |

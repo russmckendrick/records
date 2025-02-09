@@ -28,28 +28,28 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Cluster One |  |
-| 2 | What Do You Want From Me |  |
-| 3 | Poles Apart |  |
-| 4 | Marroned |  |
-| 5 | A Great Day For Freedom |  |
-| 6 | Wearing The Inside Out |  |
-| 7 | Take It Back |  |
-| 8 | Coming Back To Life |  |
-| 9 | Keep Talking |  |
-| 10 | Lost For Words |  |
-| 11 | High Hopes |  |
-| Vinyl 3-A | Take It Back (Edit) |  |
-| Vinyl 3-B | Astronomy Domine (Live) |  |
-| Vinyl 4-A | High Hopes (Edit) |  |
-| Vinyl 4-B | Keep Talking (Edit) |  |
-| Vinyl 5-A1 | The Fate Of The Bell (High Hopes - Radio Edit) |  |
-| Vinyl 5-A2 | Keep Talking (Radio Edit) |  |
-| Vinyl 5-B | One Of These Days (Live) |  |
-| CD | CD  Tsui (The Division Bell) |  |
-| BR | Blu-ray Disc (All PCM Stereo and Unreleased 5.1 Mix Audio And Video)  |  |
+| Position | Title |
+|----------|--------|
+| 1 | Cluster One |
+| 2 | What Do You Want From Me |
+| 3 | Poles Apart |
+| 4 | Marroned |
+| 5 | A Great Day For Freedom |
+| 6 | Wearing The Inside Out |
+| 7 | Take It Back |
+| 8 | Coming Back To Life |
+| 9 | Keep Talking |
+| 10 | Lost For Words |
+| 11 | High Hopes |
+| Vinyl 3-A | Take It Back (Edit) |
+| Vinyl 3-B | Astronomy Domine (Live) |
+| Vinyl 4-A | High Hopes (Edit) |
+| Vinyl 4-B | Keep Talking (Edit) |
+| Vinyl 5-A1 | The Fate Of The Bell (High Hopes - Radio Edit) |
+| Vinyl 5-A2 | Keep Talking (Radio Edit) |
+| Vinyl 5-B | One Of These Days (Live) |
+| CD | CD  Tsui (The Division Bell) |
+| BR | Blu-ray Disc (All PCM Stereo and Unreleased 5.1 Mix Audio And Video)  |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: []
 | Format         | Box Set Limited Edition, Vinyl 2× LP Album Remastered (Gatefold Sleeve), Blu-ray Album Remastered Stereo Multichannel, Vinyl 7" 45 RPM Single (Red Color), Vinyl 7" 45 RPM Single (Transparent), Vinyl 12" Single (Blue Color), CD Album Reissue Remastered |
 | Label          | Warner Music |
 | Catalog Number | WPZR-30576/83 |
-| Notes | Set Box Include: <br>- 2   LP Editions Of The Album<br>- 2     7" Vinyl Replica<br>- 1   12" Vinyl Replica<br>- 1   CD The 2011 ‘Discovery’ remaster of "The Division Bell"<br>- 1   Blu-ray  The Division Bell Album in HD Audio and Audio-Visual Material<br>- 1   Download Card<br>-  Additional  Art Prints and Booklet<br><br>The Set box is Japan Import (Made in EU)<br><br>On gatefold 2-vinyl release all full length tracks first time on vinyl because on originally vinyl-edition release all tracks was edited to fit on a single LP.<br>- Tracks 1-11 are CD track-numbers and same on Blu-ray stereo / multichannel versions.<br>- Vinyl 1 A side : A1, A2, A3 as tracks 1 to 3<br>- Vinyl 1 B side : B1, B2, B3 as tracks 4 to 6<br>- Vinyl 2 A side : A1, A2, A3 as tracks 7 to 9<br>- Vinyl 2 B side : B1, B2 as tracks 10 and 11 |
+| Notes | Set Box Include:   - 2   LP Editions Of The Album  - 2     7" Vinyl Replica  - 1   12" Vinyl Replica  - 1   CD The 2011 ‘Discovery’ remaster of "The Division Bell"  - 1   Blu-ray  The Division Bell Album in HD Audio and Audio-Visual Material  - 1   Download Card  -  Additional  Art Prints and Booklet    The Set box is Japan Import (Made in EU)    On gatefold 2-vinyl release all full length tracks first time on vinyl because on originally vinyl-edition release all tracks was edited to fit on a single LP.  - Tracks 1-11 are CD track-numbers and same on Blu-ray stereo / multichannel versions.  - Vinyl 1 A side : A1, A2, A3 as tracks 1 to 3  - Vinyl 1 B side : B1, B2, B3 as tracks 4 to 6  - Vinyl 2 A side : A1, A2, A3 as tracks 7 to 9  - Vinyl 2 B side : B1, B2 as tracks 10 and 11 |
 | Discogs URL    | [Pink Floyd - The Division Bell 20th. Anniversary De Luxe Box](https://www.discogs.com/release/6229448-Pink-Floyd-The-Division-Bell-20th-Anniversary-De-Luxe-Box) |

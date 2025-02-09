@@ -27,21 +27,21 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Race For The Prize | 4:09 |
-| A2 | A Spoonful Weighs A Ton | 3:32 |
-| A3 | The Spark That Bled | 5:55 |
-| A4 | The Spiderbite Song | 4:02 |
-| B1 | Buggin' | 3:16 |
-| B2 | What Is The Light? | 4:05 |
-| B3 | The Observer | 4:11 |
-| C1 | Waitin' For A Superman | 4:17 |
-| C2 | Suddenly Everything Has Changed | 3:54 |
-| C3 | The Gash | 4:02 |
-| D1 | Slow Motion | 3:53 |
-| D2 | Feeling Yourself Disintegrate | 5:17 |
-| D3 | Sleeping On The Roof | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Race For The Prize |
+| A2 | A Spoonful Weighs A Ton |
+| A3 | The Spark That Bled |
+| A4 | The Spiderbite Song |
+| B1 | Buggin' |
+| B2 | What Is The Light? |
+| B3 | The Observer |
+| C1 | Waitin' For A Superman |
+| C2 | Suddenly Everything Has Changed |
+| C3 | The Gash |
+| D1 | Slow Motion |
+| D2 | Feeling Yourself Disintegrate |
+| D3 | Sleeping On The Roof |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue (25th Anniversary Zoetrope Edition) |
 | Label          | Warner Records |
 | Catalog Number | 093624844440 |
-| Notes | 25th Anniversary Edition<br>Limited Edition 2-LP Zoetrope Disc with Exclusive Artwork<br><br>Made in Czech Republic. |
+| Notes | 25th Anniversary Edition Limited Edition 2-LP Zoetrope Disc with Exclusive Artwork  Made in Czech Republic. |
 | Discogs URL    | [The Flaming Lips - The Soft Bulletin](https://www.discogs.com/release/31694903-The-Flaming-Lips-The-Soft-Bulletin) |

@@ -27,20 +27,20 @@ styles: ["Blues Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Heart Beat Like A Hammer | 2:57 |
-| A2 | Merry Go Round | 4:07 |
-| A3 | Long Grey Mare | 2:14 |
-| A4 | Hellhound On My Trail | 1:59 |
-| A5 | Shake Your Moneymaker | 2:55 |
-| A6 | Looking For Somebody | 2:50 |
-| B1 | No Place To Go | 3:20 |
-| B2 | My Baby's Good To Me | 2:50 |
-| B3 | I Loved Another Woman | 2:55 |
-| B4 | Cold Black Night | 3:16 |
-| B5 | The World Keep On Turning | 2:28 |
-| B6 | Got To Move | 3:19 |
+| Position | Title |
+|----------|--------|
+| A1 | My Heart Beat Like A Hammer |
+| A2 | Merry Go Round |
+| A3 | Long Grey Mare |
+| A4 | Hellhound On My Trail |
+| A5 | Shake Your Moneymaker |
+| A6 | Looking For Somebody |
+| B1 | No Place To Go |
+| B2 | My Baby's Good To Me |
+| B3 | I Loved Another Woman |
+| B4 | Cold Black Night |
+| B5 | The World Keep On Turning |
+| B6 | Got To Move |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Blues Rock", "Pop Rock"]
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP339 |
-| Notes | Plain white poly-lined paper inner sleeve.<br><br>A Blue Horizon Production<br><br>Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment. <br>Made in the EU.<br><br>There's also a 2018 Music On Vinyl reissue on [url=https://www.discogs.com/release/12732203]blue vinyl[/url]. |
+| Notes | Plain white poly-lined paper inner sleeve.  A Blue Horizon Production  Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment.  Made in the EU.  There's also a 2018 Music On Vinyl reissue on [url=https://www.discogs.com/release/12732203]blue vinyl[/url]. |
 | Discogs URL    | [Fleetwood Mac - Peter Green's Fleetwood Mac](https://www.discogs.com/release/3107317-Fleetwood-Mac-Peter-Greens-Fleetwood-Mac) |

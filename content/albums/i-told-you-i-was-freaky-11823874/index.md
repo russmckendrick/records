@@ -34,21 +34,21 @@ Behold one of the majestically silly couplets on this second serving of Kiwi com
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hurt Feelings | 2:38 |
-| A2 | Sugalumps | 2:12 |
-| A3 | We're Both In Love With A Sexy Lady | 2:49 |
-| A4 | I Told You I Was Freaky | 3:15 |
-| A5 | Demon Woman | 2:00 |
-| A6 | Rambling Through The Avenues Of Time | 2:44 |
-| B1 | Fashion Is Danger | 2:20 |
-| B2 | Petrov, Yelyena, And Me | 2:28 |
-| B3 | Too Many Dicks (On The Dance Floor) | 2:29 |
-| B4 | You Don't Have To Be A Prostitute | 2:50 |
-| B5 | Friends | 2:04 |
-| B6 | Carol Brown | 3:27 |
-| B7 | Angels | 2:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Hurt Feelings |
+| A2 | Sugalumps |
+| A3 | We're Both In Love With A Sexy Lady |
+| A4 | I Told You I Was Freaky |
+| A5 | Demon Woman |
+| A6 | Rambling Through The Avenues Of Time |
+| B1 | Fashion Is Danger |
+| B2 | Petrov, Yelyena, And Me |
+| B3 | Too Many Dicks (On The Dance Floor) |
+| B4 | You Don't Have To Be A Prostitute |
+| B5 | Friends |
+| B6 | Carol Brown |
+| B7 | Angels |
 
 
 ## Apple Music

@@ -41,30 +41,30 @@ The album experienced success in some foreign countries, including Australia, Ne
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Record One: Album Of The Year |  |
-| A1 | Collision | 3:24 |
-| A2 | Stripsearch | 4:31 |
-| A3 | Last Cup Of Sorrow | 4:18 |
-| A4 | Naked In Front Of The Computer | 2:07 |
-| A5 | Helpless | 5:24 |
-| A6 | Mouth To Mouth | 3:54 |
-| B1 | Ashes To Ashes | 3:36 |
-| B2 | She Loves Me Not | 3:30 |
-| B3 | Got That Feeling | 2:21 |
-| B4 | Paths Of Glory | 4:16 |
-| B5 | Home Sick Home | 1:59 |
-| B6 | Pristina | 3:54 |
-|  | Record Two: Bonus Tracks |  |
-| C1 | Pristina (Billy Gould Mix) | 4:17 |
-| C2 | Last Cup Of Sorrow (Roli Mosimann Mix) | 6:25 |
-| C3 | She Loves Me Not (Spinna Main Mix) | 4:37 |
-| C4 | Ashes To Ashes (DJ Icey & Maestro Mix) | 3:40 |
-| D1 | Light Up And Let Go | 2:19 |
-| D2 | The Big Kahuna | 3:06 |
-| D3 | This Guy’s In Love With You (Live) | 4:20 |
-| D4 | Collision (Live) | 3:37 |
+| Position | Title |
+|----------|--------|
+|  | Record One: Album Of The Year |
+| A1 | Collision |
+| A2 | Stripsearch |
+| A3 | Last Cup Of Sorrow |
+| A4 | Naked In Front Of The Computer |
+| A5 | Helpless |
+| A6 | Mouth To Mouth |
+| B1 | Ashes To Ashes |
+| B2 | She Loves Me Not |
+| B3 | Got That Feeling |
+| B4 | Paths Of Glory |
+| B5 | Home Sick Home |
+| B6 | Pristina |
+|  | Record Two: Bonus Tracks |
+| C1 | Pristina (Billy Gould Mix) |
+| C2 | Last Cup Of Sorrow (Roli Mosimann Mix) |
+| C3 | She Loves Me Not (Spinna Main Mix) |
+| C4 | Ashes To Ashes (DJ Icey & Maestro Mix) |
+| D1 | Light Up And Let Go |
+| D2 | The Big Kahuna |
+| D3 | This Guy’s In Love With You (Live) |
+| D4 | Collision (Live) |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ The album experienced success in some foreign countries, including Australia, Ne
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 GM) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0190295972967 |
-| Notes | The record comes in a gatefold sleeve with liner notes and artwork printed on the inside. The inner sleeves are polythene lines plain black paper sleeves.<br><br>There are two stickers affixed to the shrink wrap. A parental advisory warning on the bottom right and a hype sticker at the top left that reads:<br>"Double 180GM Vinyl<br>Bonus LP features rare tracks & live versions<br>New liner notes by Roddy Bottum<br>Includes "Stripsearch" "Last Cup Of Sorrow" & "Ashes To Ashes"<br>0190295972967<br><br>Vinyl Collector<br>Includes Download code for MP3 version of the album<br>www.thisvinylcollector.com"<br><br>Inside gatefold:<br>"Career Direction: Warren Etner [sic] and John Vassilou for W.E.M.<br><br>Recorded at Brilliant Studios, San Francisco, CA.<br>Recorded at Razor's Edge, San Francisco, CA.<br>Mixed at The Plant, Sausalito, CA, assisted by Paul Coppaglia.<br>Mastered by Howie Weinberg at Masterdisk, New York, NY. <br><br>Reissue credits:<br>Remastered by Geoff Pesche at Abbey Road Studios, London, June 2016."<br><br>Face labels:<br>Though the face label reads that track A6 is 4:39, it is actually 3:54.<br>Though the face label reads that track C4 is 4:13, it is actually 3:40.<br><br>"FNM Music ASCAP. Original sound recording made by Slash Records.<br><br>Face labels and rear sleeve:<br>This reissue ℗ 2016 Slash Records, A Warner Music Group Company. © 2016 Slash Records, A Warner Music Group Company. All rights reserved. The copyright in this sound recording and artwork is owned by Slash Records, A Warner Music Group Company. Made in the E.U." |
+| Notes | The record comes in a gatefold sleeve with liner notes and artwork printed on the inside. The inner sleeves are polythene lines plain black paper sleeves.  There are two stickers affixed to the shrink wrap. A parental advisory warning on the bottom right and a hype sticker at the top left that reads: "Double 180GM Vinyl Bonus LP features rare tracks & live versions New liner notes by Roddy Bottum Includes "Stripsearch" "Last Cup Of Sorrow" & "Ashes To Ashes" 0190295972967  Vinyl Collector Includes Download code for MP3 version of the album www.thisvinylcollector.com"  Inside gatefold: "Career Direction: Warren Etner [sic] and John Vassilou for W.E.M.  Recorded at Brilliant Studios, San Francisco, CA. Recorded at Razor's Edge, San Francisco, CA. Mixed at The Plant, Sausalito, CA, assisted by Paul Coppaglia. Mastered by Howie Weinberg at Masterdisk, New York, NY.   Reissue credits: Remastered by Geoff Pesche at Abbey Road Studios, London, June 2016."  Face labels: Though the face label reads that track A6 is 4:39, it is actually 3:54. Though the face label reads that track C4 is 4:13, it is actually 3:40.  "FNM Music ASCAP. Original sound recording made by Slash Records.  Face labels and rear sleeve: This reissue ℗ 2016 Slash Records, A Warner Music Group Company. © 2016 Slash Records, A Warner Music Group Company. All rights reserved. The copyright in this sound recording and artwork is owned by Slash Records, A Warner Music Group Company. Made in the E.U." |
 | Discogs URL    | [Faith No More - Album Of The Year](https://www.discogs.com/release/9027018-Faith-No-More-Album-Of-The-Year) |

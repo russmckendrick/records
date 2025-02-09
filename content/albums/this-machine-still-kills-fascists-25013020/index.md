@@ -33,20 +33,20 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Two 6's Upside Down | 3:29 |
-| A2 | Talking Jukebox | 3:14 |
-| A3 | Ten Times More | 2:11 |
-| A4 | Never Git Drunk No More | 3:26 |
-| A5 | All You Fonies | 2:49 |
-| B6 | The Last One | 3:34 |
-| B7 | Cadillac, Cadillac | 2:53 |
-| B8 | Waters Are A'Risin | 3:03 |
-| B9 | Where Trouble Is At | 2:34 |
-| B10 | Dig A Hole | 3:10 |
-|  | Bonus Track |  |
-| B11 | Never Git Drunk No More (Alternate Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Two 6's Upside Down |
+| A2 | Talking Jukebox |
+| A3 | Ten Times More |
+| A4 | Never Git Drunk No More |
+| A5 | All You Fonies |
+| B6 | The Last One |
+| B7 | Cadillac, Cadillac |
+| B8 | Waters Are A'Risin |
+| B9 | Where Trouble Is At |
+| B10 | Dig A Hole |
+|  | Bonus Track |
+| B11 | Never Git Drunk No More (Alternate Version) |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal) |
 | Label          | Dummy Luck Music |
 | Catalog Number | DLM002LPXC |
-| Notes | Indie store exclusive pressed on crystal vinyl<br><br>Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.<br><br>Songs are listed on the sleeve in track order and are not divided into sides |
+| Notes | Indie store exclusive pressed on crystal vinyl  Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.  Songs are listed on the sleeve in track order and are not divided into sides |
 | Discogs URL    | [Dropkick Murphys - This Machine Still Kills Fascists](https://www.discogs.com/release/25013020-Dropkick-Murphys-This-Machine-Still-Kills-Fascists) |

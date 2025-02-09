@@ -34,20 +34,20 @@ Lighthouses mark dangerous coastlines, hazardous shoals, reefs, rocks, and safe 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Came Before The Water (Part I) | 1:42 |
-| A2 | Too Many Years | 5:09 |
-| A3 | Clear Clearer | 4:36 |
-| A4 | Sleeping Pills | 3:44 |
-| A5 | Libretto Horror | 2:14 |
-| A6 | Lighthouse | 6:14 |
-| B7 | Harmony | 5:19 |
-| B8 | Matches | 4:18 |
-| B9 | Belighted | 3:28 |
-| B10 | Chalk And Coal | 4:56 |
-| B11 | I Came Before The Water (Part II) | 2:56 |
-| B12 | Post Scriptum | 2:44 |
+| Position | Title |
+|----------|--------|
+| A1 | I Came Before The Water (Part I) |
+| A2 | Too Many Years |
+| A3 | Clear Clearer |
+| A4 | Sleeping Pills |
+| A5 | Libretto Horror |
+| A6 | Lighthouse |
+| B7 | Harmony |
+| B8 | Matches |
+| B9 | Belighted |
+| B10 | Chalk And Coal |
+| B11 | I Came Before The Water (Part II) |
+| B12 | Post Scriptum |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Lighthouses mark dangerous coastlines, hazardous shoals, reefs, rocks, and safe 
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | kscope919 |
-| Notes | On 180g heavyweight vinyl. Inner sleeve with painting and lyrics. Includes digital download code. <br><br>Vocals recorded by Gianluca Capacchione at Murder Mile Music Studios, London, England<br>Grand piano recorded by Nickita Valamin at Mosfilm Studios, Moscow, Russia<br>Guest vocals on Lighthouse recorded at Serakos Studio, Warszawa, Poland<br>Bodhran and percussion recorded at Murder Mile Music Studios<br>Harp recorded at Galernaya 20 studios, St. Petersburg, Russia<br>Trumpet, clarinet and flute recorded at Galernaya 20 studios<br>All strings recorded at Red Wave Studios, St. Petersburg, Russia<br>Choir recorded at Red Wave Studios<br>Mixed at Murder Mile Music Studios<br>Mastered at Reveal Sound Studios<br><br>℗ 2016 Kscope © 2016 Kscope.<br>Kscope is a Snapper Music label.<br>Made in Germany<br><br>(on the backcover, the phonographic copyright symbol ℗ appears twice, instead of the copyright symbol ©; this typo is not present on the disc)<br><br>There is no text for barcode (Scan only). |
+| Notes | On 180g heavyweight vinyl. Inner sleeve with painting and lyrics. Includes digital download code.   Vocals recorded by Gianluca Capacchione at Murder Mile Music Studios, London, England Grand piano recorded by Nickita Valamin at Mosfilm Studios, Moscow, Russia Guest vocals on Lighthouse recorded at Serakos Studio, Warszawa, Poland Bodhran and percussion recorded at Murder Mile Music Studios Harp recorded at Galernaya 20 studios, St. Petersburg, Russia Trumpet, clarinet and flute recorded at Galernaya 20 studios All strings recorded at Red Wave Studios, St. Petersburg, Russia Choir recorded at Red Wave Studios Mixed at Murder Mile Music Studios Mastered at Reveal Sound Studios  ℗ 2016 Kscope © 2016 Kscope. Kscope is a Snapper Music label. Made in Germany  (on the backcover, the phonographic copyright symbol ℗ appears twice, instead of the copyright symbol ©; this typo is not present on the disc)  There is no text for barcode (Scan only). |
 | Discogs URL    | [Iamthemorning - Lighthouse](https://www.discogs.com/release/8415406-Iamthemorning-Lighthouse) |

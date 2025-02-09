@@ -48,19 +48,19 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Born Again |  |
-| A2 | Motorbike |  |
-| A3 | Steam |  |
-| A4 | Why Don't You Touch Me |  |
-| A5 | Magnolias |  |
-| B1 | Gold-Diggers (Junior's Fanfare) |  |
-| B2 | Details |  |
-| B3 | Sho Nuff |  |
-| B4 | Sweeter |  |
-| B5 | Don't Worry |  |
-| B6 | Blue Mesas |  |
+| Position | Title |
+|----------|--------|
+| A1 | Born Again |
+| A2 | Motorbike |
+| A3 | Steam |
+| A4 | Why Don't You Touch Me |
+| A5 | Magnolias |
+| B1 | Gold-Diggers (Junior's Fanfare) |
+| B2 | Details |
+| B3 | Sho Nuff |
+| B4 | Sweeter |
+| B5 | Don't Worry |
+| B6 | Blue Mesas |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 19439886991 |
-| Notes | Cat # on spine: 19439886991.<br>Cat # on sticker (cover): 19439886991 S1.<br> |
+| Notes | Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1.  |
 | Discogs URL    | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |

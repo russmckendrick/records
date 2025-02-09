@@ -30,12 +30,12 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Poison Ivy |  |
-| A2 | Backseat |  |
-| B3 | The Book |  |
-| B4 | Know Yourself |  |
+| Position | Title |
+|----------|--------|
+| A1 | Poison Ivy |
+| A2 | Backseat |
+| B3 | The Book |
+| B4 | Know Yourself |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: []
 | Format         | Vinyl 10" 45 RPM Club Edition Limited Edition Numbered (Gold) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-033 |
-| Notes | For the BMW X2 "Project Unfollow" Campaign.<br>Gatefold cover, includes an insert.<br>Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed |
+| Notes | For the BMW X2 "Project Unfollow" Campaign. Gatefold cover, includes an insert. Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed |
 | Discogs URL    | [Little Simz - Project Unfollow](https://www.discogs.com/release/11850953-Little-Simz-Project-Unfollow) |

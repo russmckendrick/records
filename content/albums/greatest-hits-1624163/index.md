@@ -28,18 +28,18 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tired Of Being Alone | 2:50 |
-| A2 | Call Me (Come Back Home) | 3:03 |
-| A3 | I'm Still In Love With You | 3:12 |
-| A4 | Here I Am (Come And Take Me) | 3:09 |
-| A5 | How Can You Mend A Broken Heart | 6:21 |
-| B1 | Let's Stay Together | 4:45 |
-| B2 | I Can't Get Next To You | 3:42 |
-| B3 | You Ought To Be With Me | 3:15 |
-| B4 | Look What You Done For Me | 3:04 |
-| B5 | Let's Get Married | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Tired Of Being Alone |
+| A2 | Call Me (Come Back Home) |
+| A3 | I'm Still In Love With You |
+| A4 | Here I Am (Come And Take Me) |
+| A5 | How Can You Mend A Broken Heart |
+| B1 | Let's Stay Together |
+| B2 | I Can't Get Next To You |
+| B3 | You Ought To Be With Me |
+| B4 | Look What You Done For Me |
+| B5 | Let's Get Married |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Hi Records |
 | Catalog Number | HIUKLP 425 |
-| Notes | Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.<br><br>(P) 1972, 1973, 1975 Cream / Hi Records Inc.<br>(C) 1987 Cream / Hi Records Inc.<br>HI UK LP 425 = sleeve and spine cat#<br>HIUKLP 425 = label cat#<br>Runout matrices etched, except for TY1 that are stamped.<br> |
+| Notes | Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped.  |
 | Discogs URL    | [Al Green - Greatest Hits](https://www.discogs.com/release/1624163-Al-Green-Greatest-Hits) |

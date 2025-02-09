@@ -36,31 +36,31 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eden On The Air |  |
-| A2 | Eat It Up Worms Hero |  |
-| A3 | Dog-Like Sparky |  |
-| A4 | Fiery Gun Hand |  |
-| A5 | Insect Hoofs On Lassie |  |
-| A6 | Fairy Mary Mag |  |
-| B1 | Bellyeye |  |
-| B2 | A Horses Tail |  |
-| B3 | Manhoo |  |
-| B4.a | Wireless |  |
-| B4.b | (Peril On The Sea) |  |
-| C1 | Dirty Boy |  |
-| C2 | Billion |  |
-| C3 | Odd Even |  |
-| C4 | Bell Stinks |  |
-| C5 | Bell Clinks |  |
-| C6 | Flap Off You Beak |  |
-| C7 | Quiet As A Mouse |  |
-| D1 | Angleworm Angel |  |
-| D2 | Red Fire Coming Out Of His Gills |  |
-| D3 | No Gold |  |
-| D4 | Nurses Whispering Verses |  |
-| D5 | Foundling |  |
+| Position | Title |
+|----------|--------|
+| A1 | Eden On The Air |
+| A2 | Eat It Up Worms Hero |
+| A3 | Dog-Like Sparky |
+| A4 | Fiery Gun Hand |
+| A5 | Insect Hoofs On Lassie |
+| A6 | Fairy Mary Mag |
+| B1 | Bellyeye |
+| B2 | A Horses Tail |
+| B3 | Manhoo |
+| B4.a | Wireless |
+| B4.b | (Peril On The Sea) |
+| C1 | Dirty Boy |
+| C2 | Billion |
+| C3 | Odd Even |
+| C4 | Bell Stinks |
+| C5 | Bell Clinks |
+| C6 | Flap Off You Beak |
+| C7 | Quiet As A Mouse |
+| D1 | Angleworm Angel |
+| D2 | Red Fire Coming Out Of His Gills |
+| D3 | No Gold |
+| D4 | Nurses Whispering Verses |
+| D5 | Foundling |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH DLP 022 |
-| Notes | Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.<br><br>Limited to 200 numbered copies.<br>Comes in a gatefold sleeve with picture inner sleeves and a download coupon.<br>Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].<br><br>℗&© Alphabet 1995 |
+| Notes | Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.    Limited to 200 numbered copies.  Comes in a gatefold sleeve with picture inner sleeves and a download coupon.  Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].    ℗&© Alphabet 1995 |
 | Discogs URL    | [Cardiacs - Sing To God](https://www.discogs.com/release/5915357-Cardiacs-Sing-To-God) |

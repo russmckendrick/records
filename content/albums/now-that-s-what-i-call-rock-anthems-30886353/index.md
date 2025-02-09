@@ -24,53 +24,53 @@ styles: ["Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Stop Me Know |  |
-| A2 | Pour Some Sugar On Me |  |
-| A3 | Livin' On A Prayer |  |
-| A4 | Eye Of The Tiger |  |
-| A5 | Walk This Way |  |
-| A6 | Can I Play With Madness |  |
-| A7 | Ace Of Spades |  |
-| A8 | Lining After Midnight |  |
-| B1 | Mr. Blue Sky |  |
-| B2 | Bat Out Of Hell |  |
-| B3 | Don't Stop Believin' |  |
-| B4 | More Than A Feeling |  |
-| B5 | (Don't Fear) The Reaper |  |
-| B6 | In A Broken Dream |  |
-| B7 | I want To Know What Love Is |  |
-| C1 | Born To Run |  |
-| C2 | Live And Let Die |  |
-| C3 | Baba O'Riley |  |
-| C4 | We Didn't Start The Fire |  |
-| C5 | Rockin' All Over The World |  |
-| C6 | The Boys Are Back In Town |  |
-| C7 | You Ain't Seen Nothing Yet |  |
-| D1 | If I Could Turn Back Time |  |
-| D2 | Gimme All Your Lovin' |  |
-| D3 | Since You Been Gone |  |
-| D4 | Black Betty |  |
-| D5 | Are You Gonna Go My Way |  |
-| D6 | Love Is A Battlefield |  |
-| D7 | Back On The Chain Gang |  |
-| D8 | What's Up? |  |
-| E1 | The Bitch Is Back |  |
-| E2 | Cum Feel The Noize |  |
-| E3 | Fox On The Run |  |
-| E4 | Radar Love |  |
-| E5 | Fanfare For The Common Man |  |
-| E6 | Baker Street |  |
-| E7 | Because The Night |  |
-| E8 | Every Rose Has It's Thorn |  |
-| F1 | I'd Do Anything For Love (But I Won't Do That) |  |
-| F2 | Every Breath You Take |  |
-| F3 | Africa |  |
-| F4 | We Don't Need Another Hero (Thunderdome) |  |
-| F5 | Kayleigh |  |
-| F6 | Drive |  |
-| F7 | All By Myself |  |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Stop Me Know |
+| A2 | Pour Some Sugar On Me |
+| A3 | Livin' On A Prayer |
+| A4 | Eye Of The Tiger |
+| A5 | Walk This Way |
+| A6 | Can I Play With Madness |
+| A7 | Ace Of Spades |
+| A8 | Lining After Midnight |
+| B1 | Mr. Blue Sky |
+| B2 | Bat Out Of Hell |
+| B3 | Don't Stop Believin' |
+| B4 | More Than A Feeling |
+| B5 | (Don't Fear) The Reaper |
+| B6 | In A Broken Dream |
+| B7 | I want To Know What Love Is |
+| C1 | Born To Run |
+| C2 | Live And Let Die |
+| C3 | Baba O'Riley |
+| C4 | We Didn't Start The Fire |
+| C5 | Rockin' All Over The World |
+| C6 | The Boys Are Back In Town |
+| C7 | You Ain't Seen Nothing Yet |
+| D1 | If I Could Turn Back Time |
+| D2 | Gimme All Your Lovin' |
+| D3 | Since You Been Gone |
+| D4 | Black Betty |
+| D5 | Are You Gonna Go My Way |
+| D6 | Love Is A Battlefield |
+| D7 | Back On The Chain Gang |
+| D8 | What's Up? |
+| E1 | The Bitch Is Back |
+| E2 | Cum Feel The Noize |
+| E3 | Fox On The Run |
+| E4 | Radar Love |
+| E5 | Fanfare For The Common Man |
+| E6 | Baker Street |
+| E7 | Because The Night |
+| E8 | Every Rose Has It's Thorn |
+| F1 | I'd Do Anything For Love (But I Won't Do That) |
+| F2 | Every Breath You Take |
+| F3 | Africa |
+| F4 | We Don't Need Another Hero (Thunderdome) |
+| F5 | Kayleigh |
+| F6 | Drive |
+| F7 | All By Myself |
 
 
 ## Apple Music

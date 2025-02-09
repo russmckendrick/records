@@ -32,22 +32,22 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Intro |  |
-| A1 | Christopher Tracy's Parade | 2:11 |
-| A2 | New Position | 2:21 |
-| A3 | I Wonder U | 1:40 |
-| A4 | Under The Cherry Moon | 2:57 |
-| A5 | Girls & Boys | 5:30 |
-| A6 | Life Can Be So Nice | 3:12 |
-| A7 | Venus De Milo | 1:54 |
-|  | End |  |
-| B1 | Mountains | 3:58 |
-| B2 | Do U Lie? | 2:43 |
-| B3 | Kiss | 3:38 |
-| B4 | Anotherloverholenyohead | 3:58 |
-| B5 | Sometimes It Snows In April | 6:50 |
+| Position | Title |
+|----------|--------|
+|  | Intro |
+| A1 | Christopher Tracy's Parade |
+| A2 | New Position |
+| A3 | I Wonder U |
+| A4 | Under The Cherry Moon |
+| A5 | Girls & Boys |
+| A6 | Life Can Be So Nice |
+| A7 | Venus De Milo |
+|  | End |
+| B1 | Mountains |
+| B2 | Do U Lie? |
+| B3 | Kiss |
+| B4 | Anotherloverholenyohead |
+| B5 | Sometimes It Snows In April |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 1-25395 |
-| Notes | Hype sticker:<br>Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"<br><br>Dust sleeve with photo collage and detailed credits.<br><br>Labels:<br>Music from the motion picture [m=268031] <br><br> |
+| Notes | Hype sticker: Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"  Dust sleeve with photo collage and detailed credits.  Labels: Music from the motion picture [m=268031]    |
 | Discogs URL    | [Prince And The Revolution - Parade](https://www.discogs.com/release/8955563-Prince-And-The-Revolution-Parade) |

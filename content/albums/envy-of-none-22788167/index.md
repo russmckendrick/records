@@ -65,19 +65,19 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Never Said I Love You |  |
-| A2 | Shadow |  |
-| A3 | Look Inside |  |
-| A4 | Liar |  |
-| A5 | Spy House |  |
-| A6 | Dog's Life |  |
-| B1 | Kabul Blues |  |
-| B2 | Old Strings |  |
-| B3 | Dumb |  |
-| B4 | Enemy |  |
-| B5 | Western Sunset |  |
+| Position | Title |
+|----------|--------|
+| A1 | Never Said I Love You |
+| A2 | Shadow |
+| A3 | Look Inside |
+| A4 | Liar |
+| A5 | Spy House |
+| A6 | Dog's Life |
+| B1 | Kabul Blues |
+| B2 | Old Strings |
+| B3 | Dumb |
+| B4 | Enemy |
+| B5 | Western Sunset |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1164 |
-| Notes | Catalogue number appears on a sticker only<br>Comes with an inner sleeve and an advertising sheet.<br>'1+' and '3+' in runouts appear backwards (mirror image).<br>Runouts are etched. |
+| Notes | Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched. |
 | Discogs URL    | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |

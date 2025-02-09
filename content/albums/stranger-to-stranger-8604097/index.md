@@ -36,19 +36,19 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Werewolf | 3:25 |
-| A2 | Wristband | 3:17 |
-| A3 | The Clock  | 1:02 |
-| A4 | Street Angel | 2:08 |
-| A5 | Stranger To Stranger | 4:33 |
-| A6 | In A Parade | 2:19 |
-| B1 | Proof Of Love | 5:44 |
-| B2 | In The Garden Of Edie | 1:48 |
-| B3 | The Riverbank | 4:09 |
-| B4 | Cool Papa Bell | 4:02 |
-| B5 | Insomniac’s Lullaby | 4:33 |
+| Position | Title |
+|----------|--------|
+| A1 | The Werewolf |
+| A2 | Wristband |
+| A3 | The Clock  |
+| A4 | Street Angel |
+| A5 | Stranger To Stranger |
+| A6 | In A Parade |
+| B1 | Proof Of Love |
+| B2 | In The Garden Of Edie |
+| B3 | The Riverbank |
+| B4 | Cool Papa Bell |
+| B5 | Insomniac’s Lullaby |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 | Format         | Vinyl LP Album |
 | Label          | Concord Records |
 | Catalog Number | 0888072397811 |
-| Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond<br>Printed inner sleeve and insert. |
+| Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert. |
 | Discogs URL    | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097-Paul-Simon-Stranger-To-Stranger) |

@@ -31,29 +31,29 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thru Fade Away |  |
-| A2 | Mindshaker Meltdown |  |
-| A3 | Half Ass Monkey Boy |  |
-| A4 | Chloe Dancer/Crown Of Thorns |  |
-| B1 | Thru Fade Away |  |
-| B2 | Mindshaker Meltdown |  |
-| B3 | Half Ass Monkey Boy |  |
-| B4 | Chloe Dancer/Crown Of Thorns |  |
-| C1 | This Is Shangrila |  |
-| C2 | Stardog Champion |  |
-| C3 | Holy Roller |  |
-| C4 | Bone China |  |
-| D1 | Come Bite The Apple |  |
-| D2 | Stargazer |  |
-| D3 | Heartshine |  |
-| E1 | Captain Hi Top |  |
-| E2 | Man of Golden Words |  |
-| E3 | Capricorn Sister |  |
-| F1 | Gentle Groove |  |
-| F2 | Mr. Danny Boy |  |
-| F3 | Crown of Thorns |  |
+| Position | Title |
+|----------|--------|
+| A1 | Thru Fade Away |
+| A2 | Mindshaker Meltdown |
+| A3 | Half Ass Monkey Boy |
+| A4 | Chloe Dancer/Crown Of Thorns |
+| B1 | Thru Fade Away |
+| B2 | Mindshaker Meltdown |
+| B3 | Half Ass Monkey Boy |
+| B4 | Chloe Dancer/Crown Of Thorns |
+| C1 | This Is Shangrila |
+| C2 | Stardog Champion |
+| C3 | Holy Roller |
+| C4 | Bone China |
+| D1 | Come Bite The Apple |
+| D2 | Stargazer |
+| D3 | Heartshine |
+| E1 | Captain Hi Top |
+| E2 | Man of Golden Words |
+| E3 | Capricorn Sister |
+| F1 | Gentle Groove |
+| F2 | Mr. Danny Boy |
+| F3 | Crown of Thorns |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 12" EP Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
 | Label          | Monkeywrench Records |
 | Catalog Number | B0025317-01 |
-| Notes | Set Includes: <br><br>Shine EP - remastered vinyl <br><br>Apple LP - remastered vinyl <br><br>24 page booklet - lyrics, credits, and rare photos.<br>12" x 12" Envelope containing photo prints, 24 page zine, fold out poster, stencil and more! <br><br>Vinyl set is packaged in a slipcase replicating a Mother Love Bone wall mural painted by Jeff Ament<br><br>A limited number of sets received also an "Happy Holidays greeting card" signed by each member of Mother Love Bone. "These cards were uncovered from the Mother Love Bone / Love Co. deep archives."<br><br>Please note that the signed cards were loose in the shipping box from Pearl Jam Ten Club in 2016, not sealed within the vinyl packaging. |
+| Notes | Set Includes:   Shine EP - remastered vinyl   Apple LP - remastered vinyl   24 page booklet - lyrics, credits, and rare photos. 12" x 12" Envelope containing photo prints, 24 page zine, fold out poster, stencil and more!   Vinyl set is packaged in a slipcase replicating a Mother Love Bone wall mural painted by Jeff Ament  A limited number of sets received also an "Happy Holidays greeting card" signed by each member of Mother Love Bone. "These cards were uncovered from the Mother Love Bone / Love Co. deep archives."  Please note that the signed cards were loose in the shipping box from Pearl Jam Ten Club in 2016, not sealed within the vinyl packaging. |
 | Discogs URL    | [Mother Love Bone - On Earth As It Is: The Complete Works](https://www.discogs.com/release/9294321-Mother-Love-Bone-On-Earth-As-It-Is-The-Complete-Works) |

@@ -28,26 +28,26 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Things That I Used to Do |  |
-| A2 | Blues Music |  |
-| A3 | Garbage Man |  |
-| A4 | Eyes Have Miles |  |
-| B1 | Baby's Got Sauce |  |
-| B2 | Rhyme for the Summertime |  |
-| B3 | Cold Beverage |  |
-| B4 | Fatman |  |
-| B5 | This Ain't Living |  |
-| C1 | Walk to Slide |  |
-| C2 | Shooting Hoops |  |
-| C3 | Some Peoples Like That |  |
-| C4 | Town to Town |  |
-| C5 | I Love You |  |
-| D1 | The Things That I Used to Do (Live) |  |
-| D2 | Blues Music (Fast Version) |  |
-| D3 | Lila (Original Version) |  |
-| D4 | Just Like Trains (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Things That I Used to Do |
+| A2 | Blues Music |
+| A3 | Garbage Man |
+| A4 | Eyes Have Miles |
+| B1 | Baby's Got Sauce |
+| B2 | Rhyme for the Summertime |
+| B3 | Cold Beverage |
+| B4 | Fatman |
+| B5 | This Ain't Living |
+| C1 | Walk to Slide |
+| C2 | Shooting Hoops |
+| C3 | Some Peoples Like That |
+| C4 | Town to Town |
+| C5 | I Love You |
+| D1 | The Things That I Used to Do (Live) |
+| D2 | Blues Music (Fast Version) |
+| D3 | Lila (Original Version) |
+| D4 | Just Like Trains (Live) |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (Light Blue) |
 | Label          | Epic-Legacy |
 | Catalog Number | 19658848991 |
-| Notes | ℗ 1994 & ©1994, 2024 Epic Records<br><br>RSD 2024 release<br><br><br>Made in the EU. |
+| Notes | ℗ 1994 & ©1994, 2024 Epic Records  RSD 2024 release   Made in the EU. |
 | Discogs URL    | [G Love  Special Sauce - G. Love & Special Sauce](https://www.discogs.com/release/30359294-G-Love-Special-Sauce-G-Love-Special-Sauce) |

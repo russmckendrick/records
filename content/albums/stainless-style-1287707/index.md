@@ -33,20 +33,20 @@ Stainless Style is a loose concept album based on the tumultuous life of DeLorea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Neon Theme | 2:22 |
-| A2 | Dream Cars | 3:25 |
-| A3 | I Told Her On Alderaan | 3:44 |
-| A4 | Raquel | 5:02 |
-| A5 | Trick For Treat | 4:44 |
-| A6 | Steel Your Girl | 3:34 |
-| B7 | I Lust U | 3:00 |
-| B8 | Sweat Shop | 3:57 |
-| B9 | Belfast | 3:09 |
-| B10 | Michael Douglas | 4:14 |
-| B11 | Luxury Pool | 3:56 |
-| B12 | Stainless Style | 1:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Neon Theme |
+| A2 | Dream Cars |
+| A3 | I Told Her On Alderaan |
+| A4 | Raquel |
+| A5 | Trick For Treat |
+| A6 | Steel Your Girl |
+| B7 | I Lust U |
+| B8 | Sweat Shop |
+| B9 | Belfast |
+| B10 | Michael Douglas |
+| B11 | Luxury Pool |
+| B12 | Stainless Style |
 
 
 ## Apple Music

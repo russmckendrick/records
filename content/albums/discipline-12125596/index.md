@@ -32,16 +32,16 @@ This album was King Crimson's first following a seven-year hiatus. Only band co-
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Elephant Talk |  |
-| A2 | Frame By Frame |  |
-| A3 | Matte Kudasai |  |
-| A4 | Indiscipline |  |
-| B1 | Thela Hun Ginjeet |  |
-| B2 | The Sheltering Sky |  |
-| B3 | Discipline |  |
-| B4 | Matte Kudasai (Alt. Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Elephant Talk |
+| A2 | Frame By Frame |
+| A3 | Matte Kudasai |
+| A4 | Indiscipline |
+| B1 | Thela Hun Ginjeet |
+| B2 | The Sheltering Sky |
+| B3 | Discipline |
+| B4 | Matte Kudasai (Alt. Mix) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ This album was King Crimson's first following a seven-year hiatus. Only band co-
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP8 |
-| Notes | Sticker, embossed "Inner Knot" logo on front cover.<br>Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label).<br>Includes a branded inner sleeve.<br><br>Sticker:<br>• The 1981 King Crimson classic<br>• Newly cut from masters approved by Robert Fripp<br>• Includes bonus track (Matte Kudasai alt. mix)<br>• 200-gram super-heavyweight vinyl<br><br>Back:<br>℗ & © 2018 Robert Fripp<br><br>Labels:<br>Made in England. ℗ & © 2018 Robert Fripp. |
+| Notes | Sticker, embossed "Inner Knot" logo on front cover. Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label). Includes a branded inner sleeve.  Sticker: • The 1981 King Crimson classic • Newly cut from masters approved by Robert Fripp • Includes bonus track (Matte Kudasai alt. mix) • 200-gram super-heavyweight vinyl  Back: ℗ & © 2018 Robert Fripp  Labels: Made in England. ℗ & © 2018 Robert Fripp. |
 | Discogs URL    | [King Crimson - Discipline](https://www.discogs.com/release/12125596-King-Crimson-Discipline) |

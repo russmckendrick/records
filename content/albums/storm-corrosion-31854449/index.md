@@ -27,15 +27,15 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Drag Ropes | 9:52 |
-| A2 | Storm Corrosion | 10:12 |
-| B1 | Hag | 6:28 |
-| B2 | Happy | 4:53 |
-| C1 | Lock Howl | 6:09 |
-| C2 | Ljudet Innan | 10:20 |
-| D1 | Drag Ropes (live) | 10:19 |
+| Position | Title |
+|----------|--------|
+| A1 | Drag Ropes |
+| A2 | Storm Corrosion |
+| B1 | Hag |
+| B2 | Happy |
+| C1 | Lock Howl |
+| C2 | Ljudet Innan |
+| D1 | Drag Ropes (live) |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange & Purple) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1234 |
-| Notes | Written, produced & performed at No Man's Land at various times between March 2010 - September 2011.<br><br>Cover painting 1969<br>Design / Keefing by Carl Glover for Aleph<br><br>Special thanks to Ylva and Björn Arnold, Stefan Dimle, Aviv Geffen, T, Milly, and the Åkerfeldt family.<br><br>Drag Ropes (live) recorded at the Royal Albert Hall, London, 28th September 2015. |
+| Notes | Written, produced & performed at No Man's Land at various times between March 2010 - September 2011.  Cover painting 1969 Design / Keefing by Carl Glover for Aleph  Special thanks to Ylva and Björn Arnold, Stefan Dimle, Aviv Geffen, T, Milly, and the Åkerfeldt family.  Drag Ropes (live) recorded at the Royal Albert Hall, London, 28th September 2015. |
 | Discogs URL    | [Storm Corrosion - Storm Corrosion](https://www.discogs.com/release/31854449-Storm-Corrosion-Storm-Corrosion) |

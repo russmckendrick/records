@@ -30,28 +30,28 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Between 10th And 11th |  |
-| A1 | I Don't Want To See The Sights |  |
-| A2 | Ignition |  |
-| A3 | Page One |  |
-| A4 | Tremelo Song |  |
-| A5 | The End Of Everything |  |
-| B1 | Subtitle |  |
-| B2 | Can't Even Be Bothered |  |
-| B3 | Weirdo |  |
-| B4 | Chewing Gum Weekend |  |
-| B5 | (No One) Not Even The Rain |  |
-|  | Isolation 21.2.91 Live At Chicago Metro |  |
-| C1 | Imperial 109 |  |
-| C2 | The Only One I Know |  |
-| C3 | Then |  |
-| C4 | Happen To Die |  |
-| C5 | White Shirt |  |
-| D1 | Indian Rope |  |
-| D2 | Opportunity |  |
-| D3 | Sproston Green |  |
+| Position | Title |
+|----------|--------|
+|  | Between 10th And 11th |
+| A1 | I Don't Want To See The Sights |
+| A2 | Ignition |
+| A3 | Page One |
+| A4 | Tremelo Song |
+| A5 | The End Of Everything |
+| B1 | Subtitle |
+| B2 | Can't Even Be Bothered |
+| B3 | Weirdo |
+| B4 | Chewing Gum Weekend |
+| B5 | (No One) Not Even The Rain |
+|  | Isolation 21.2.91 Live At Chicago Metro |
+| C1 | Imperial 109 |
+| C2 | The Only One I Know |
+| C3 | Then |
+| C4 | Happen To Die |
+| C5 | White Shirt |
+| D1 | Indian Rope |
+| D2 | Opportunity |
+| D3 | Sproston Green |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2165LP |
-| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd<br>Original release ℗ & © 1992 Situation Two<br>Beggars Banquet Records Limited |
+| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited |
 | Discogs URL    | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282-The-Charlatans-Between-10th-And-11th-Isolation-21291) |

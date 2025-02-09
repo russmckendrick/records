@@ -28,19 +28,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Top Brass |  |
-| A2 | Driving Seat |  |
-| A3 | Rising Bass |  |
-| A4 | Get The Scene |  |
-| A5 | Good Sport |  |
-| A6 | Transition To... |  |
-| B1 | Simple Basics |  |
-| B2 | Widescreen Features |  |
-| B3 | Too Many Hats |  |
-| B4 | Telescopic |  |
-| B5 | Top Brass 2 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Top Brass |
+| A2 | Driving Seat |
+| A3 | Rising Bass |
+| A4 | Get The Scene |
+| A5 | Good Sport |
+| A6 | Transition To... |
+| B1 | Simple Basics |
+| B2 | Widescreen Features |
+| B3 | Too Many Hats |
+| B4 | Telescopic |
+| B5 | Top Brass 2 |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Stereo (Green) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP770G |
-| Notes | This is the 500-only limited-edition, individually-numbered green vinyl version available exclusively from Acid Jazz.<br><br>Released in special collaboration with Acid Jazz, the album is presented in a beautiful graphic sleeve, with notes that allude to the original KPM releases, for something that is instantly hip and familiar, yet unmistakably new.<br><br>Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles<br>Brass and strings recorded at the Village<br>Mastered for KPM by Nick Stebbings<br>Mixed and Produced by Matt Berry<br><br>Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly.<br>Under exclusive licence to Acid Jazz Acquisitions Ltd.<br><br>"stereo playable mono"<br><br>Also note the runout for side B is the same as the runout for side A - Both have ".../A" |
+| Notes | This is the 500-only limited-edition, individually-numbered green vinyl version available exclusively from Acid Jazz.  Released in special collaboration with Acid Jazz, the album is presented in a beautiful graphic sleeve, with notes that allude to the original KPM releases, for something that is instantly hip and familiar, yet unmistakably new.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono"  Also note the runout for side B is the same as the runout for side A - Both have ".../A" |
 | Discogs URL    | [Matt Berry - Simplicity](https://www.discogs.com/release/28940773-Matt-Berry-3-Simplicity) |

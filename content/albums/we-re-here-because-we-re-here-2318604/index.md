@@ -37,18 +37,18 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thin Air | 6:00 |
-| A2 | Summernight Horizon | 4:13 |
-| A3 | Dreaming Light | 5:47 |
-| B1 | Everything | 5:06 |
-| B2 | Angels Walk Among Us | 5:17 |
-| B3 | Presence | 2:58 |
-| C1 | A Simple Mistake | 8:14 |
-| C2 | Get Off Get Out | 5:01 |
-| D1 | Universal | 7:19 |
-| D2 | Hindsight | 8:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Thin Air |
+| A2 | Summernight Horizon |
+| A3 | Dreaming Light |
+| B1 | Everything |
+| B2 | Angels Walk Among Us |
+| B3 | Presence |
+| C1 | A Simple Mistake |
+| C2 | Get Off Get Out |
+| D1 | Universal |
+| D2 | Hindsight |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 | Format         | Vinyl 2× LP Album Limited Edition Numbered |
 | Label          | Kscope |
 | Catalog Number | kscope812 |
-| Notes | Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall.<br>String arrangements recorded at Angel Studios, London.<br>All photographs taken at significant locations in Liverpool.<br><br>1st pressing. Limited edition of 2.000 numbered copies on 180g black vinyl. The numbering is on a sticker on the back of the sleeve. There is either KScope or Peaceville mentioned on the sticker.<br>Made in Germany<br>Gatefold sleeve<br>Two printed inner sleeves<br> |
+| Notes | Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall. String arrangements recorded at Angel Studios, London. All photographs taken at significant locations in Liverpool.  1st pressing. Limited edition of 2.000 numbered copies on 180g black vinyl. The numbering is on a sticker on the back of the sleeve. There is either KScope or Peaceville mentioned on the sticker. Made in Germany Gatefold sleeve Two printed inner sleeves  |
 | Discogs URL    | [Anathema - We're Here Because We're Here](https://www.discogs.com/release/2318604-Anathema-Were-Here-Because-Were-Here) |

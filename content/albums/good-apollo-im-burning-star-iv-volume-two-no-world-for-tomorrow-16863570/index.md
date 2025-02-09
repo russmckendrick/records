@@ -35,21 +35,21 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Reaping |  |
-| A2 | No World For Tomorrow |  |
-| A3 | The Hound (Of Blood And Rank) |  |
-| A4 | Feathers |  |
-| B1 | The Running Free |  |
-| B2 | Mother Superior |  |
-| B3 | Gravemakers & Gunslingers |  |
-| B4 | Justice In Murder |  |
-| C1 | I The Fall Of House Atlantic |  |
-| C2 | II Radio Bye Bye |  |
-| C3 | III The End Complete |  |
-| C4 | IV The Road And The Damned |  |
-| C5 | V On The Brink |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Reaping |
+| A2 | No World For Tomorrow |
+| A3 | The Hound (Of Blood And Rank) |
+| A4 | Feathers |
+| B1 | The Running Free |
+| B2 | Mother Superior |
+| B3 | Gravemakers & Gunslingers |
+| B4 | Justice In Murder |
+| C1 | I The Fall Of House Atlantic |
+| C2 | II Radio Bye Bye |
+| C3 | III The End Complete |
+| C4 | IV The Road And The Damned |
+| C5 | V On The Brink |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2793 |
-| Notes | 180 gram audiophile vinyl<br>Gatefold sleeve<br>Etched artwork on d-side<br>2 printed innersleeves with lyrics and artwork by Ken Kelly<br>Made in The EU.  |
+| Notes | 180 gram audiophile vinyl Gatefold sleeve Etched artwork on d-side 2 printed innersleeves with lyrics and artwork by Ken Kelly Made in The EU.  |
 | Discogs URL    | [Coheed And Cambria - Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow](https://www.discogs.com/release/16863570-Coheed-And-Cambria-Good-Apollo-Im-Burning-Star-IV-Volume-Two-No-World-For-Tomorrow) |

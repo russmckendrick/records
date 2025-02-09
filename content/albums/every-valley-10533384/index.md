@@ -28,19 +28,19 @@ Every Valley was recorded in situ in the former steelworks town of Ebbw Vale, in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Every Valley |  |
-| A2 | The Pit |  |
-| A3 | People Will Always Need Coal |  |
-| A4 | Progress |  |
-| A5 | Go To The Road |  |
-| A6 | All Out |  |
-| B1 | Turn No More |  |
-| B2 | They Gave Me A Lamp |  |
-| B3 | You + Me |  |
-| B4 | Mother Of The Village |  |
-| B5 | Take Me Home |  |
+| Position | Title |
+|----------|--------|
+| A1 | Every Valley |
+| A2 | The Pit |
+| A3 | People Will Always Need Coal |
+| A4 | Progress |
+| A5 | Go To The Road |
+| A6 | All Out |
+| B1 | Turn No More |
+| B2 | They Gave Me A Lamp |
+| B3 | You + Me |
+| B4 | Mother Of The Village |
+| B5 | Take Me Home |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Every Valley was recorded in situ in the former steelworks town of Ebbw Vale, in
 | Format         | Vinyl LP Album Limited Edition (180 gram, Clear) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR970LPX |
-| Notes | Limited edition clear vinyl edition, available exclusively through independent record stores.<br><br>Recorded at Leeders Vale, Ebbw Vale Institute, January & February 2017<br><br>Haiku Salut appear courtesy of How Does It Feel To Be Loved?, Lisa Jên Brown appears courtesy of Real World Records, J. Willgoose, Esq. published by Mute Song; James Dean Bradfield published by copyright control; Lisa Jên Brown published by Real World; Haiku Salut published by copyright control; JFAbraham published by copyright control; Roger Edwards and Roger Hand's 'Take Me Home' published by Mute Song<br><br>Cover artwork is taken from 'Viaduct', Hannah Benwitz<br><br>1. EVERY VALLEY<br><br>Contains samples from: Every Valley, licensed by the BFI, all rights reserved; and the Dick Cavett Show, courtesy of Daphne Productions<br><br>2. THE PIT<br><br>Contains samples from Plan For Coal, New Power In Their Hands, Modern Wales & Every Valley, all licensed by the BFI, all rights reserved<br><br>3. PEOPLE WILL ALWAYS NEED COAL<br><br>Contains samples from A Job In Coal, People Will Always Need Coal, Mining Review 3rd Year No. 7, Modern Wales and Big Job, all licensed by the BFI, all rights reserved<br><br>4. PROGRESS<br><br>Contains samples from Modern Wales, Plan For Coal and New Power In Their Hands, all licensed by the BFI, all rights reserved<br><br>5. GO TO THE ROAD<br><br>Contains samples from Above Us The Earth, licensed by the BFI, all rights reserved; and The Welsh Miner, Artsmagic Ltd and used with kind permission<br><br>6. ALL OUT<br><br>Contains samples of: All Out, University of Bristol and used with kind permission; Smiling And Splendid Women, used by kind permission of The South Wales Miners' Library, Swansea University; Swansea Women's Group / Jazz Heritage Wales; and The Welsh Miner, Artsmagic Ltd and used with kind permission<br><br>7. TURN NO MORE<br><br>Words by Idris Davies, adapted from the poem Gwalia Deserta, used with kind permission of Gomer Press<br><br>8. THEY GAVE ME A LAMP<br><br>Contains samples from: interviews with Margaret Donovan and Christine Powell, used by kind permission of the South Wales Miners' Library, Swansea University; Margaret Donovan; Christine Powell; and All Out, University of Bristol and used with kind permission<br><br>Title taken from Phyllis Jones' They Gave Me a Lamp: Reminiscences of a Colliery Nursing Officer, used by the kind permission of Patricia Mee<br><br>9. YOU + ME<br><br>10. MOTHER OF THE VILLAGE<br><br>Contains samples from: The Welsh Miner, Artsmagic Ltd and used with kind permission; interview with Ron Stoate, recorded by J. Willgoose, Esq. and used with kind permission; and samples from recorded interview with Christine Powell, used by kind permission of The South Wales Miners' Library, Swansea University; Christine Powell<br><br>11. TAKE ME HOME<br><br>Performed by the Beaufort Male Choir<br><br>Contains a sample from Every Valley, licensed by the BFI, all rights reserved. |
+| Notes | Limited edition clear vinyl edition, available exclusively through independent record stores.  Recorded at Leeders Vale, Ebbw Vale Institute, January & February 2017  Haiku Salut appear courtesy of How Does It Feel To Be Loved?, Lisa Jên Brown appears courtesy of Real World Records, J. Willgoose, Esq. published by Mute Song; James Dean Bradfield published by copyright control; Lisa Jên Brown published by Real World; Haiku Salut published by copyright control; JFAbraham published by copyright control; Roger Edwards and Roger Hand's 'Take Me Home' published by Mute Song  Cover artwork is taken from 'Viaduct', Hannah Benwitz  1. EVERY VALLEY  Contains samples from: Every Valley, licensed by the BFI, all rights reserved; and the Dick Cavett Show, courtesy of Daphne Productions  2. THE PIT  Contains samples from Plan For Coal, New Power In Their Hands, Modern Wales & Every Valley, all licensed by the BFI, all rights reserved  3. PEOPLE WILL ALWAYS NEED COAL  Contains samples from A Job In Coal, People Will Always Need Coal, Mining Review 3rd Year No. 7, Modern Wales and Big Job, all licensed by the BFI, all rights reserved  4. PROGRESS  Contains samples from Modern Wales, Plan For Coal and New Power In Their Hands, all licensed by the BFI, all rights reserved  5. GO TO THE ROAD  Contains samples from Above Us The Earth, licensed by the BFI, all rights reserved; and The Welsh Miner, Artsmagic Ltd and used with kind permission  6. ALL OUT  Contains samples of: All Out, University of Bristol and used with kind permission; Smiling And Splendid Women, used by kind permission of The South Wales Miners' Library, Swansea University; Swansea Women's Group / Jazz Heritage Wales; and The Welsh Miner, Artsmagic Ltd and used with kind permission  7. TURN NO MORE  Words by Idris Davies, adapted from the poem Gwalia Deserta, used with kind permission of Gomer Press  8. THEY GAVE ME A LAMP  Contains samples from: interviews with Margaret Donovan and Christine Powell, used by kind permission of the South Wales Miners' Library, Swansea University; Margaret Donovan; Christine Powell; and All Out, University of Bristol and used with kind permission  Title taken from Phyllis Jones' They Gave Me a Lamp: Reminiscences of a Colliery Nursing Officer, used by the kind permission of Patricia Mee  9. YOU + ME  10. MOTHER OF THE VILLAGE  Contains samples from: The Welsh Miner, Artsmagic Ltd and used with kind permission; interview with Ron Stoate, recorded by J. Willgoose, Esq. and used with kind permission; and samples from recorded interview with Christine Powell, used by kind permission of The South Wales Miners' Library, Swansea University; Christine Powell  11. TAKE ME HOME  Performed by the Beaufort Male Choir  Contains a sample from Every Valley, licensed by the BFI, all rights reserved. |
 | Discogs URL    | [Public Service Broadcasting - Every Valley](https://www.discogs.com/release/10533384-Public-Service-Broadcasting-Every-Valley) |

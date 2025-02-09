@@ -30,19 +30,19 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tom's Diner | 2:08 |
-| A2 | Luka | 3:51 |
-| A3 | Ironbound / Fancy Poultry | 6:17 |
-| A4 | In The Eye | 4:12 |
-| A5 | Night Vision | 2:45 |
-| B1 | Solitude Standing | 4:34 |
-| B2 | Calypso | 4:12 |
-| B3 | Language | 3:54 |
-| B4 | Gypsy | 4:01 |
-| B5 | Wooden Horse (Caspar Hauser's Song) | 5:09 |
-| B6 | Tom's Diner (Reprise) | 2:39 |
+| Position | Title |
+|----------|--------|
+| A1 | Tom's Diner |
+| A2 | Luka |
+| A3 | Ironbound / Fancy Poultry |
+| A4 | In The Eye |
+| A5 | Night Vision |
+| B1 | Solitude Standing |
+| B2 | Calypso |
+| B3 | Language |
+| B4 | Gypsy |
+| B5 | Wooden Horse (Caspar Hauser's Song) |
+| B6 | Tom's Diner (Reprise) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | A&M Records |
 | Catalog Number | B0026079-01 |
-| Notes | 2017 reissue. Black vinyl.<br>MASTERED BY CAPITOL stamped on Side A only. |
+| Notes | 2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only. |
 | Discogs URL    | [Suzanne Vega - Solitude Standing](https://www.discogs.com/release/10361309-Suzanne-Vega-Solitude-Standing) |

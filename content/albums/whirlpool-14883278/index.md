@@ -27,17 +27,17 @@ Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Breather | 4:19 |
-| A2 | Pearl | 4:56 |
-| A3 | Autosleeper | 4:48 |
-| A4 | Treasure | 6:23 |
-| B1 | Falling Down | 3:56 |
-| B2 | April | 4:41 |
-| B3 | Guilt | 4:12 |
-| B4 | If You Want Me | 2:40 |
-| B5 | Something More | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Breather |
+| A2 | Pearl |
+| A3 | Autosleeper |
+| A4 | Treasure |
+| B1 | Falling Down |
+| B2 | April |
+| B3 | Guilt |
+| B4 | If You Want Me |
+| B5 | Something More |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It wa
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & Silver Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2567 |
-| Notes | Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl<br>Includes Insert<br>180 gram audiophile vinyl |
+| Notes | Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl Includes Insert 180 gram audiophile vinyl |
 | Discogs URL    | [Chapterhouse - Whirlpool](https://www.discogs.com/release/14883278-Chapterhouse-Whirlpool) |

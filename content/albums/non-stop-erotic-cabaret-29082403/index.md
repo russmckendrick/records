@@ -40,31 +40,31 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album |  |
-| A1 | Frustration |  |
-| A2 | Tainted Love |  |
-| A3 | Seedy Films |  |
-| A4 | Youth |  |
-| A5 | Sex Dwarf |  |
-| B1 | Entertain Me |  |
-| B2 | Chips On My Shoulder |  |
-| B3 | Bedsitter |  |
-| B4 | Secret Life |  |
-| B5 | Say Hello, Wave Goodbye |  |
-|  | Bonus Disc Of Singles And B-Sides |  |
-| C1 | Memorabilia |  |
-| C2 | A Man Could Get Lost |  |
-| C3 | Persuasion (Edit) |  |
-| C4 | Where Did Our Love Go? |  |
-| C5 | Facility Girls |  |
-| C6 | Say Hello, Wave Goodbye (Instrumental) |  |
-| D1 | Fun City (Edit) |  |
-| D2 | Torch |  |
-| D3 | Insecure Me |  |
-| D4 | What! |  |
-| D5 | ... So |  |
+| Position | Title |
+|----------|--------|
+|  | Original Album |
+| A1 | Frustration |
+| A2 | Tainted Love |
+| A3 | Seedy Films |
+| A4 | Youth |
+| A5 | Sex Dwarf |
+| B1 | Entertain Me |
+| B2 | Chips On My Shoulder |
+| B3 | Bedsitter |
+| B4 | Secret Life |
+| B5 | Say Hello, Wave Goodbye |
+|  | Bonus Disc Of Singles And B-Sides |
+| C1 | Memorabilia |
+| C2 | A Man Could Get Lost |
+| C3 | Persuasion (Edit) |
+| C4 | Where Did Our Love Go? |
+| C5 | Facility Girls |
+| C6 | Say Hello, Wave Goodbye (Instrumental) |
+| D1 | Fun City (Edit) |
+| D2 | Torch |
+| D3 | Insecure Me |
+| D4 | What! |
+| D5 | ... So |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 | Format         | Vinyl LP Reissue, Vinyl LP Compilation, All Media Album Remastered Special Edition Stereo (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 5543833 |
-| Notes | Full colour inner sleeves with lyrics, credits and essay.<br><br>Hype sticker: <br>'Special 2LP Vinyl Edition<br><br>Includes remastered original album<br>and bonus disc of singles and B-sides<br><br>Plus complete lyrics and a new essay by Adrian Thrills'<br><br>On rear and labels sleeve: 'Made in EU'. <br>Sticker on back: 'Made in Germany'. <br><br>Tracks A1, A3 to B5 recorded in Camden Cell Studios, London.<br>A2 recorded at Advision Studios, London.<br><br>Track A2 published by Burlington Music Co. Ltd.<br>Track C4 published by EMI Music Publishing Ltd.<br>Track D5 published by Warner Chappell Music Inc.<br>All other tracks published by Warner Chappell Music Ltd.<br><br>Runouts are etched except for the stamped Pallas numbers.<br><br> |
+| Notes | Full colour inner sleeves with lyrics, credits and essay.  Hype sticker:  'Special 2LP Vinyl Edition  Includes remastered original album and bonus disc of singles and B-sides  Plus complete lyrics and a new essay by Adrian Thrills'  On rear and labels sleeve: 'Made in EU'.  Sticker on back: 'Made in Germany'.   Tracks A1, A3 to B5 recorded in Camden Cell Studios, London. A2 recorded at Advision Studios, London.  Track A2 published by Burlington Music Co. Ltd. Track C4 published by EMI Music Publishing Ltd. Track D5 published by Warner Chappell Music Inc. All other tracks published by Warner Chappell Music Ltd.  Runouts are etched except for the stamped Pallas numbers.   |
 | Discogs URL    | [Soft Cell - Non-Stop Erotic Cabaret](https://www.discogs.com/release/29082403-Soft-Cell-Non-Stop-Erotic-Cabaret) |

@@ -38,21 +38,21 @@ The album received largely positive reviews upon its release, although there was
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Life And Death Of Mr. Badmouth |  |
-| A2 | Shame |  |
-| A3 | Who The Fuck? |  |
-| A4 | The Pocket Knife |  |
-| A5 | The Letter |  |
-| B1 | The Slow Drug |  |
-| B2 | No Child Of Mine |  |
-| B3 | Cat On The Wall |  |
-| B4 | You Come Through |  |
-| B5 | It's You |  |
-| B6 | The End |  |
-| B7 | The Desperate Kingdom Of Love |  |
-| B8 | The Darker Days Of Me And Him |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Life And Death Of Mr. Badmouth |
+| A2 | Shame |
+| A3 | Who The Fuck? |
+| A4 | The Pocket Knife |
+| A5 | The Letter |
+| B1 | The Slow Drug |
+| B2 | No Child Of Mine |
+| B3 | Cat On The Wall |
+| B4 | You Come Through |
+| B5 | It's You |
+| B6 | The End |
+| B7 | The Desperate Kingdom Of Love |
+| B8 | The Darker Days Of Me And Him |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The album received largely positive reviews upon its release, although there was
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0725318 |
-| Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right).<br>0725318-A and 0725318-B on labels.<br><br>On jacket back:<br>0725318 • LC00407 • BIEM/SDRM<br>℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd.<br>The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.<br>www.pjharvey.net<br><br>Label rim text:<br>An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM<br><br>Issued with printed inner sleeve.<br><br>Download card included with some copies.<br><br>Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)<br><br>Hype sticker with cat. # affixed to shrink on some copies:<br>Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame <br>Pressed On 180GSM Vinyl<br>Includes Download Card<br><br>Runouts are hand etched and Optimal symbols are mirrored. |
+| Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right). 0725318-A and 0725318-B on labels.  On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rim text: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  Runouts are hand etched and Optimal symbols are mirrored. |
 | Discogs URL    | [PJ Harvey - Uh Huh Her](https://www.discogs.com/release/18480250-P-J-Harvey-Uh-Huh-Her) |

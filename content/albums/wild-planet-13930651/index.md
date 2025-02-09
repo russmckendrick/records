@@ -35,17 +35,17 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Party Out Of Bounds | 3:21 |
-| A2 | Dirty Back Road | 3:21 |
-| A3 | Runnin' Around | 3:09 |
-| A4 | Give Me Back My Man | 4:00 |
-| A5 | Private Idaho | 3:35 |
-| B1 | Devil In My Car | 4:28 |
-| B2 | Quiche Lorraine | 3:58 |
-| B3 | Strobe Light | 3:59 |
-| B4 | 53 Miles West Of Venus | 4:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Party Out Of Bounds |
+| A2 | Dirty Back Road |
+| A3 | Runnin' Around |
+| A4 | Give Me Back My Man |
+| A5 | Private Idaho |
+| B1 | Devil In My Car |
+| B2 | Quiche Lorraine |
+| B3 | Strobe Light |
+| B4 | 53 Miles West Of Venus |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Island Records |
 | Catalog Number | 538798 0 |
-| Notes | 180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.<br><br>Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980 |
+| Notes | 180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980 |
 | Discogs URL    | [The B-52s - Wild Planet](https://www.discogs.com/release/13930651-The-B-52s-Wild-Planet) |

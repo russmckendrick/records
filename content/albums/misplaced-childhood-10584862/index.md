@@ -57,40 +57,40 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 'Misplaced Childhood' 2017 Remaster |  |
-| A1 | Pseudo Silk Kimono |  |
-| A2 | Kayleigh |  |
-| A3 | Lavender |  |
-| A4 | Bitter Suite |  |
-| A5 | Heart Of Lothian |  |
-| B1 | Waterhole (Expresso Bongo) |  |
-| B2 | Lords Of The Backstage |  |
-| B3 | Blind Curve |  |
-| B4 | Childhoods End? |  |
-| B5 | White Feather |  |
-|  | Live At The Muziekcentrum Vredenburg, Utrecht, Netherlands October 15th, 1985 First Night: Part 1 |  |
-| C1 | Emerald Lies (Intro) |  |
-| C2 | Script For A Jester's Tear |  |
-| C3 | Incubus |  |
-| D1 | Chelsea Monday |  |
-| D2 | The Web |  |
-|  | Live In Utrecht (Continued) Part 2 |  |
-| E1 | Pseudo Silk Kimono |  |
-| E2 | Kayleigh |  |
-| E3 | Lavender |  |
-| E4 | Bitter Suite |  |
-| E5 | Heart Of Lothian |  |
-| F1 | Waterhole (Expresso Bongo) |  |
-| F2 | Lords Of The Backstage |  |
-| F3 | Blind Curve |  |
-| F4 | Childhoods End? |  |
-| F5 | White Feather |  |
-|  | Live In Utrecht (Continued) Part 3 |  |
-| G1 | Fugazi |  |
-| H1 | Garden Party |  |
-| H2 | Market Square Heroes |  |
+| Position | Title |
+|----------|--------|
+|  | 'Misplaced Childhood' 2017 Remaster |
+| A1 | Pseudo Silk Kimono |
+| A2 | Kayleigh |
+| A3 | Lavender |
+| A4 | Bitter Suite |
+| A5 | Heart Of Lothian |
+| B1 | Waterhole (Expresso Bongo) |
+| B2 | Lords Of The Backstage |
+| B3 | Blind Curve |
+| B4 | Childhoods End? |
+| B5 | White Feather |
+|  | Live At The Muziekcentrum Vredenburg, Utrecht, Netherlands October 15th, 1985 First Night: Part 1 |
+| C1 | Emerald Lies (Intro) |
+| C2 | Script For A Jester's Tear |
+| C3 | Incubus |
+| D1 | Chelsea Monday |
+| D2 | The Web |
+|  | Live In Utrecht (Continued) Part 2 |
+| E1 | Pseudo Silk Kimono |
+| E2 | Kayleigh |
+| E3 | Lavender |
+| E4 | Bitter Suite |
+| E5 | Heart Of Lothian |
+| F1 | Waterhole (Expresso Bongo) |
+| F2 | Lords Of The Backstage |
+| F3 | Blind Curve |
+| F4 | Childhoods End? |
+| F5 | White Feather |
+|  | Live In Utrecht (Continued) Part 3 |
+| G1 | Fugazi |
+| H1 | Garden Party |
+| H2 | Market Square Heroes |
 
 
 ## Apple Music
@@ -108,5 +108,5 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295865511 |
-| Notes | On hype sticker:<br>Limited edition 4LP deluxe format<br>Includes:<br>Original album remastered<br>Previously unreleased live concert: 'Live At Utrecht 1985'<br>Plus:<br>24 page booklet containing rare photos, memorabilia & an essay by Dave Everley<br><br>12'' x 12'' box. Initial copies ordered from Marillion's and Fish's online stores were autographed respectively.<br><br>All runouts are etched. <br><br>'Misplaced Childhood' 2017 Remaster<br>Originally released June 16th, 1985 EMI - EJ 2403401, MRL 2<br><br>℗ 2017 this compilation Parlophone Records Ltd. © 2017 Parlophone Records Ltd. <br>This label copy information is the subject of copyright protection. All rights reserved. <br>© 2017 Parlophone Records Ltd. A Warner Music Group Company. |
+| Notes | On hype sticker: Limited edition 4LP deluxe format Includes: Original album remastered Previously unreleased live concert: 'Live At Utrecht 1985' Plus: 24 page booklet containing rare photos, memorabilia & an essay by Dave Everley  12'' x 12'' box. Initial copies ordered from Marillion's and Fish's online stores were autographed respectively.  All runouts are etched.   'Misplaced Childhood' 2017 Remaster Originally released June 16th, 1985 EMI - EJ 2403401, MRL 2  ℗ 2017 this compilation Parlophone Records Ltd. © 2017 Parlophone Records Ltd.  This label copy information is the subject of copyright protection. All rights reserved.  © 2017 Parlophone Records Ltd. A Warner Music Group Company. |
 | Discogs URL    | [Marillion - Misplaced Childhood](https://www.discogs.com/release/10584862-Marillion-Misplaced-Childhood) |

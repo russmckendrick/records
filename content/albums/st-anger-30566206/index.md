@@ -45,19 +45,19 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Frantic | 5:50 |
-| A2 | St. Anger | 7:21 |
-| A3 | Some Kind Of Monster | 8:26 |
-| B1 | Dirty Window | 5:25 |
-| B2 | Invisible Kid | 8:30 |
-| B3 | My World | 5:46 |
-| C1 | Shoot Me Again | 7:10 |
-| C2 | Sweet Amber | 5:27 |
-| C3 | The Unnamed Feeling | 7:09 |
-| D1 | Purify | 5:14 |
-| D2 | All Within My Hands | 8:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Frantic |
+| A2 | St. Anger |
+| A3 | Some Kind Of Monster |
+| B1 | Dirty Window |
+| B2 | Invisible Kid |
+| B3 | My World |
+| C1 | Shoot Me Again |
+| C2 | Sweet Amber |
+| C3 | The Unnamed Feeling |
+| D1 | Purify |
+| D2 | All Within My Hands |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange (Some Kind of Orange)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND016-1U |
-| Notes | Hype Sticker on front:<br>"Pressed on<br>Limited Edition<br>Some Kind<br>of Orange<br>2LP Vinyl.<br>BLCKND016-1U"<br><br>"Made in Germany" Sticker on back.<br><br>Limited Edition. Comes in a gatefold jacket. |
+| Notes | Hype Sticker on front: "Pressed on Limited Edition Some Kind of Orange 2LP Vinyl. BLCKND016-1U"  "Made in Germany" Sticker on back.  Limited Edition. Comes in a gatefold jacket. |
 | Discogs URL    | [Metallica - St. Anger](https://www.discogs.com/release/30566206-Metallica-St-Anger) |

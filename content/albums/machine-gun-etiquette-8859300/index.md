@@ -31,20 +31,20 @@ The album was the group's first since reforming with a new lineup of previous me
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Song | 2:22 |
-| A2 | Machine Gun Etiquette | 1:48 |
-| A3 | I Just Can't Be Happy Today | 3:35 |
-| A4 | Melody Lee | 2:02 |
-| A5 | Antipope | 3:12 |
-| A6 | These Hands | 2:05 |
-| B1 | Plan 9 Channel 7 | 5:03 |
-| B2 | Noise Noise Noise | 3:09 |
-| B3 | Looking At You | 5:01 |
-| B4 | Liar | 2:39 |
-| B5 | Smash It Up (Part 1) | 1:56 |
-| B6 | Smash It Up (Part 2) | 2:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Song |
+| A2 | Machine Gun Etiquette |
+| A3 | I Just Can't Be Happy Today |
+| A4 | Melody Lee |
+| A5 | Antipope |
+| A6 | These Hands |
+| B1 | Plan 9 Channel 7 |
+| B2 | Noise Noise Noise |
+| B3 | Looking At You |
+| B4 | Liar |
+| B5 | Smash It Up (Part 1) |
+| B6 | Smash It Up (Part 2) |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was the group's first since reforming with a new lineup of previous me
 | Format         | Vinyl LP Album Reissue |
 | Label          | Ace |
 | Catalog Number | WIKD 333 |
-| Notes | Comes with an illustrated printed inner sleeve.<br> |
+| Notes | Comes with an illustrated printed inner sleeve.  |
 | Discogs URL    | [The Damned - Machine Gun Etiquette](https://www.discogs.com/release/8859300-The-Damned-Machine-Gun-Etiquette) |

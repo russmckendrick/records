@@ -34,26 +34,26 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 2:35 |
-| A2 | Supa Emcees | 3:40 |
-| A3 | The Bizness | 4:22 |
-| A4 | Yunonstop | 1:16 |
-| A5 | Wonce Again Long Island | 3:39 |
-| B1 | Dinninit | 4:21 |
-| B2 | Brakes | 4:06 |
-| B3 | Dog Eat Dog | 3:38 |
-| B4 | Baby, Baby, Baby, Baby, Ooh Baby | 2:08 |
-| B5 | Long Island Degrees | 3:27 |
-| C1 | Betta Listen | 4:27 |
-| C2 | Itzsoweezee (Hot) | 4:48 |
-| C3 | 4 More | 4:18 |
-| C4 | Big Brother Beat | 3:42 |
-| D1 | Down Syndrome | 3:04 |
-| D2 | Pony Ride | 5:27 |
-| D3 | Stakes Is High | 5:30 |
-| D4 | Sunshine | 3:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Supa Emcees |
+| A3 | The Bizness |
+| A4 | Yunonstop |
+| A5 | Wonce Again Long Island |
+| B1 | Dinninit |
+| B2 | Brakes |
+| B3 | Dog Eat Dog |
+| B4 | Baby, Baby, Baby, Baby, Ooh Baby |
+| B5 | Long Island Degrees |
+| C1 | Betta Listen |
+| C2 | Itzsoweezee (Hot) |
+| C3 | 4 More |
+| C4 | Big Brother Beat |
+| D1 | Down Syndrome |
+| D2 | Pony Ride |
+| D3 | Stakes Is High |
+| D4 | Sunshine |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis |
 | Catalog Number | RMM-054-1 |
-| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited<br><br><br>Records housed in black poly lined inner sleeves.<br><br>Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   Records housed in black poly lined inner sleeves.  Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
 | Discogs URL    | [De La Soul - Stakes Is High](https://www.discogs.com/release/27243693-De-La-Soul-Stakes-Is-High) |

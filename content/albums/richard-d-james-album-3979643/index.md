@@ -32,18 +32,18 @@ Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 4 |  |
-| A2 | Cornish Acid |  |
-| A3 | Peek 824545201 |  |
-| A4 | Fingerbib |  |
-| A5 | Carn Marth |  |
-| B1 | To Cure A Weakling Child |  |
-| B2 | Goon Gumpas |  |
-| B3 | Yellow Calx |  |
-| B4 | Girl/Boy Song |  |
-| B5 | Logan-Rock Witch |  |
+| Position | Title |
+|----------|--------|
+| A1 | 4 |
+| A2 | Cornish Acid |
+| A3 | Peek 824545201 |
+| A4 | Fingerbib |
+| A5 | Carn Marth |
+| B1 | To Cure A Weakling Child |
+| B2 | Goon Gumpas |
+| B3 | Yellow Calx |
+| B4 | Girl/Boy Song |
+| B5 | Logan-Rock Witch |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Warp Records |
 | Catalog Number | WARP LP 43 |
-| Notes | Official Warp repress<br>Heavyweight 180g vinyl<br>Includes download code<br><br>℗ Warp 1996 © Warp 1996 (Richard D. James)<br><br>Written-By, Producer, Sleeve, Design are credited to "Me".<br><br>Made in England.<br><br>Top opening on cover. |
+| Notes | Official Warp repress Heavyweight 180g vinyl Includes download code  ℗ Warp 1996 © Warp 1996 (Richard D. James)  Written-By, Producer, Sleeve, Design are credited to "Me".  Made in England.  Top opening on cover. |
 | Discogs URL    | [Aphex Twin - Richard D. James Album](https://www.discogs.com/release/3979643-Aphex-Twin-Richard-D-James-Album) |

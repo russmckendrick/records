@@ -34,16 +34,16 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Other Arms | 4:20 |
-| A2 | In The Mood | 5:19 |
-| A3 | Messin' With The Mekon | 4:40 |
-| A4 | Wreckless Love | 5:18 |
-| B1 | Thru' With The Two Step | 5:33 |
-| B2 | Horizontal Departure | 4:19 |
-| B3 | Stranger Here...Than Over There | 4:18 |
-| B4 | Big Log | 5:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Other Arms |
+| A2 | In The Mood |
+| A3 | Messin' With The Mekon |
+| A4 | Wreckless Love |
+| B1 | Thru' With The Two Step |
+| B2 | Horizontal Departure |
+| B3 | Stranger Here...Than Over There |
+| B4 | Big Log |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 | Format         | Vinyl LP Album |
 | Label          | Es Paranza Records |
 | Catalog Number | 79-0101-1 |
-| Notes | 'W' A Warner Communications Company.<br>℗ 1983 Atlantic Recording Corporation for the United States<br>and WEA International Inc., for the world outside of the United States.<br>Publishers (For UK only): Talk Time Music / Bay Music Co. Ltd. <br>Embossed 'W' logo on bottom-right of back cover. |
+| Notes | 'W' A Warner Communications Company. ℗ 1983 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. Publishers (For UK only): Talk Time Music / Bay Music Co. Ltd.  Embossed 'W' logo on bottom-right of back cover. |
 | Discogs URL    | [Robert Plant - The Principle Of Moments](https://www.discogs.com/release/10848879-Robert-Plant-The-Principle-Of-Moments) |

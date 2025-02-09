@@ -42,23 +42,23 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smells Like Teen Spirit | 5:01 |
-| A2 | In Bloom | 4:14 |
-| A3 | Come As You Are | 3:39 |
-| A4 | Breed | 3:03 |
-| A5 | Lithium | 4:17 |
-| A6 | Polly | 2:57 |
-| B1 | Territorial Pissings | 2:23 |
-| B2 | Drain You | 3:43 |
-| B3 | Lounge Act | 2:36 |
-| B4 | Stay Away | 3:32 |
-| B5 | On A Plain | 3:16 |
-| B6 | Something In The Way | 3:51 |
-| C | Endless, Nameless | 6:38 |
-| D1 | Even In His Youth | 3:00 |
-| D2 | Aneurysm | 4:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Smells Like Teen Spirit |
+| A2 | In Bloom |
+| A3 | Come As You Are |
+| A4 | Breed |
+| A5 | Lithium |
+| A6 | Polly |
+| B1 | Territorial Pissings |
+| B2 | Drain You |
+| B3 | Lounge Act |
+| B4 | Stay Away |
+| B5 | On A Plain |
+| B6 | Something In The Way |
+| C | Endless, Nameless |
+| D1 | Even In His Youth |
+| D2 | Aneurysm |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 | Format         | Vinyl LP Album Misprint Reissue Remastered (180 gram), Vinyl 7" 45 RPM, All Media Limited Edition (30th Anniversary Edition, Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | 3846123 |
-| Notes | On yellow/black hype sticker:<br>Nirvana<br>30th Anniversary Edition<br>Nevermind<br>Limited Edition<br>180-Gram Premium Gatefold Jacket + 7-Inch<br>Newly Remastered<br><br>On back cover:<br>David Geffen Company<br>Produced by special arrangement with Sub Pop Records. A Geffen Records reissue. 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises a Division of UMG Recordings Inc.<br>Geffen Records, 2220 Colorado Avenue, Santa Monica, CA 90404. All rights reserved.<br>Made in Czech Republic 3846123<br><br>Commemorating the 30th anniversary of Nirvana’s seminal 1991 release, Nevermind has been newly remastered from the original analog tapes on 180-gram vinyl. The 1LP version has been expanded to a premium tip-on gatefold jacket for the first time and includes a brand new 7-inch vinyl ("Endless, Nameless" with B-sides "Even In His Youth" and "Aneurysm").<br><br>Gatefold jacket with black polylined & paper inner sleeve.<br>Black/white insert.<br>7-inch in separate jacket with transparent inner sleeve.<br>Barcode is on sticker only.<br><br>Runout details: everything is stamped except "B0034257-XX-X XX" and "RKS", which is etched.<br><br>Misprint on Side B label over DGC logo:<br>NIRVANA.<br>com umgcatalog.com |
+| Notes | On yellow/black hype sticker: Nirvana 30th Anniversary Edition Nevermind Limited Edition 180-Gram Premium Gatefold Jacket + 7-Inch Newly Remastered  On back cover: David Geffen Company Produced by special arrangement with Sub Pop Records. A Geffen Records reissue. 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises a Division of UMG Recordings Inc. Geffen Records, 2220 Colorado Avenue, Santa Monica, CA 90404. All rights reserved. Made in Czech Republic 3846123  Commemorating the 30th anniversary of Nirvana’s seminal 1991 release, Nevermind has been newly remastered from the original analog tapes on 180-gram vinyl. The 1LP version has been expanded to a premium tip-on gatefold jacket for the first time and includes a brand new 7-inch vinyl ("Endless, Nameless" with B-sides "Even In His Youth" and "Aneurysm").  Gatefold jacket with black polylined & paper inner sleeve. Black/white insert. 7-inch in separate jacket with transparent inner sleeve. Barcode is on sticker only.  Runout details: everything is stamped except "B0034257-XX-X XX" and "RKS", which is etched.  Misprint on Side B label over DGC logo: NIRVANA. com umgcatalog.com |
 | Discogs URL    | [Nirvana - Nevermind](https://www.discogs.com/release/20914213-Nirvana-Nevermind) |

@@ -28,19 +28,19 @@ styles: ["Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All Roads Lead To You |  |
-| A2 | Forbidden Fruit |  |
-| A3 | I Want Love - Featuring Doris |  |
-| A4 | Reach For Me ('94 Remix) |  |
-| A5 | Bad Or Just No Good ('94 Remix) |  |
-| A6 | Burning Me ('94 Remix) |  |
-| B1 | No More Whiskey |  |
-| B2 | Down In The Night |  |
-| B3 | Better Than The Rest |  |
-| B4 | Too Posh To Mosh |  |
-| B5 | Some Kind Of Alien |  |
+| Position | Title |
+|----------|--------|
+| A1 | All Roads Lead To You |
+| A2 | Forbidden Fruit |
+| A3 | I Want Love - Featuring Doris |
+| A4 | Reach For Me ('94 Remix) |
+| A5 | Bad Or Just No Good ('94 Remix) |
+| A6 | Burning Me ('94 Remix) |
+| B1 | No More Whiskey |
+| B2 | Down In The Night |
+| B3 | Better Than The Rest |
+| B4 | Too Posh To Mosh |
+| B5 | Some Kind Of Alien |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Heavy Metal"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Essential! Records |
 | Catalog Number | ESS LP 213 |
-| Notes | 'Classic Little Angels' Collectors Item 5000 Limited Edition<br><br>Runout is etched<br>"Pressed by" is denoted in the runout |
+| Notes | 'Classic Little Angels' Collectors Item 5000 Limited Edition  Runout is etched "Pressed by" is denoted in the runout |
 | Discogs URL    | [Little Angels - Too Posh To Mosh, Too Good To Last!](https://www.discogs.com/release/3205048-Little-Angels-Too-Posh-To-Mosh-Too-Good-To-Last) |

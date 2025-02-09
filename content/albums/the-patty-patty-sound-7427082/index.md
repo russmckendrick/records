@@ -33,12 +33,12 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inner Meets Me |  |
-| A2 | The House Song |  |
-| B1 | The Monolith |  |
-| B2 | She's The One |  |
+| Position | Title |
+|----------|--------|
+| A1 | Inner Meets Me |
+| A2 | The House Song |
+| B1 | The Monolith |
+| B2 | She's The One |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 | Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
 | Label          | Regal |
 | Catalog Number | REGS 18 |
-| Notes | 180gm pressing. MP3 download voucher.<br>Spine reads "Supreme Food And Wine"<br><br>℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd.<br>© 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |
+| Notes | 180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |
 | Discogs URL    | [The Beta Band - The Patty Patty Sound](https://www.discogs.com/release/7427082-The-Beta-Band-The-Patty-Patty-Sound) |

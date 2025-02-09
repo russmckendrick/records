@@ -30,10 +30,10 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Top Brass |  |
-| B | Top Brass (Bare Essentials Mix) |  |
+| Position | Title |
+|----------|--------|
+| A | Top Brass |
+| B | Top Brass (Bare Essentials Mix) |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 | Format         | Vinyl 7" 45 RPM Single Limited Edition Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX767S |
-| Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels.<br>Limited to 1000 copies.<br><br>Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles<br>Brass and strings recorded at the Village<br>Mastered for KPM by Nick Stebbings<br>Mixed and Produced by Matt Berry<br><br>Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly.<br>Under exclusive licence to Acid Jazz Acquisitions Ltd.<br><br>"stereo playable mono" |
+| Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels. Limited to 1000 copies.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono" |
 | Discogs URL    | [Matt Berry - Top Brass](https://www.discogs.com/release/28421410-Matt-Berry-3-Top-Brass) |

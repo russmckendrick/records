@@ -31,17 +31,17 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hey! Hey! | 4:23 |
-| A2 | Break.Doubt | 4:12 |
-| A3 | I Wait For You | 3:59 |
-| A4 | Don't Leave Me | 4:38 |
-| A5 | Erupt & Matter | 4:09 |
-| B1 | Are You Lost In The World Like Me? | 4:26 |
-| B2 | A Simple Love | 4:39 |
-| B3 | The Light Is Clear In My Eyes | 3:27 |
-| B4 | And It Hurts | 1:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Hey! Hey! |
+| A2 | Break.Doubt |
+| A3 | I Wait For You |
+| A4 | Don't Leave Me |
+| A5 | Erupt & Matter |
+| B1 | Are You Lost In The World Like Me? |
+| B2 | A Simple Love |
+| B3 | The Light Is Clear In My Eyes |
+| B4 | And It Hurts |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 | Format         | Vinyl LP Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT049LP |
-| Notes | Printed inner sleeve and lenticular cover.<br><br>Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".<br><br>℗ 2016 little idiot<br>© 2016 little idiot<br> |
+| Notes | Printed inner sleeve and lenticular cover.  Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".  ℗ 2016 little idiot © 2016 little idiot  |
 | Discogs URL    | [Moby  The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373-Moby-The-Void-Pacific-Choir-These-Systems-Are-Failing) |

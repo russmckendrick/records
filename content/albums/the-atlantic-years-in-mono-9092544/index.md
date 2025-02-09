@@ -24,93 +24,93 @@ styles: ["Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Great Ray Charles |  |
-| A1 | The Ray | 3:56 |
-| A2 | My Melancholy Baby | 4:19 |
-| A3 | Black Coffee | 5:28 |
-| A4 | There's No You | 4:44 |
-| B1 | Doodlin' | 5:49 |
-| B2 | Sweet Sixteen Bars | 4:04 |
-| B3 | I Surrender Dear | 5:04 |
-| B4 | Undecided | 3:36 |
-|  | Ray Charles |  |
-| C1 | Ain't That Love | 2:50 |
-| C2 | Drown In My Own Tears | 3:15 |
-| C3 | Come Back Baby | 3:00 |
-| C4 | Sinner's Prayer | 3:15 |
-| C5 | Funny (But I Still Love You) | 3:05 |
-| C6 | Losing Hand | 3:07 |
-| C7 | A Fool For You | 2:59 |
-| D1 | Hallelujah I Love Her So | 2:35 |
-| D2 | Mess Around | 2:39 |
-| D3 | This Little Girl of Mine | 2:30 |
-| D4 | Mary Ann | 2:41 |
-| D5 | Greenbacks | 2:49 |
-| D6 | Don't You Know | 2:36 |
-| D7 | I Got A Woman | 2:48 |
-|  | Yes Indeed! |  |
-| E1 | What Would I Do Without You | 2:33 |
-| E2 | It's Alright | 2:15 |
-| E3 | I Want To Know | 3:08 |
-| E4 | Yes, Indeed! | 2:12 |
-| E5 | Get On The Right Track Baby | 2:20 |
-| E6 | Talkin' 'Bout You | 2:47 |
-| E7 | Swanee River Rock (Talkin' 'Bout That River) | 2:18 |
-| F1 | Lonely Avenue | 2:42 |
-| F2 | Blackjack | 2:15 |
-| F3 | The Sun's Gonna Shine Again | 2:35 |
-| F4 | I Had A Dream | 2:54 |
-| F5 | I Want A Little Girl | 2:54 |
-| F6 | Heartbreaker | 2:51 |
-| F7 | Leave My Woman Alone | 2:36 |
-|  | The Genius Of Ray Charles |  |
-| G1 | Let The Good Times Roll | 2:49 |
-| G2 | It Had To Be You | 2:41 |
-| G3 | Alexander's Ragtime Band | 2:50 |
-| G4 | Two Years Of Torture | 3:22 |
-| G5 | When Your Lover Has Gone | 2:47 |
-| G6 | Deed I Do | 2:23 |
-| H1 | Just For A Thrill | 3:21 |
-| H2 | You Won't Let Me Go | 3:16 |
-| H3 | Tell Me You'll Wait For Me | 3:21 |
-| H4 | Don't Let The Sun Catch You Cryin' | 3:43 |
-| H5 | Am I Blue | 3:36 |
-| H6 | Come Rain Or Come Shine | 3:40 |
-|  | What'd I Say |  |
-| I1 | What'd I Say | 5:04 |
-| I2 | Jumpin' In The Mornin' | 2:43 |
-| I3 | You Be My Baby | 2:27 |
-| I4 | Tell Me How Do You Feel | 2:40 |
-| I5 | What Kind Of Man Are You" | 2:47 |
-| J1 | Rockhouse | 3:54 |
-| J2 | Roll With My Baby | 2:34 |
-| J3 | Tell All The World About You | 2:00 |
-| J4 | My Bonnie | 2:48 |
-| J5 | That's Enough | 2:47 |
-|  | The Genius After Hours |  |
-| K1 | The Genius After Hours | 5:22 |
-| K2 | Ain't Misbehavin' | 5:37 |
-| K3 | Dawn Ray | 5:00 |
-| K4 | Joy Ride | 4:30 |
-| L1 | Hornful Soul | 5:25 |
-| L2 | The Man I Love | 4:24 |
-| L3 | Charlesville | 4:53 |
-| L4 | Music, Music, Music | 2:52 |
-|  | The Genius Sings The Blues |  |
-| M1 | Early In The Mornin' | 2:46 |
-| M2 | Hard Times (No One Knows Better Than I) | 2:53 |
-| M3 | The Midnight Hour | 2:57 |
-| M4 | The Right Time | 3:25 |
-| M5 | Feelin' Sad | 2:47 |
-| M6 | Ray's Blues | 2:50 |
-| N1 | I'm Movin' On | 2:11 |
-| N2 | I Believe To My Soul | 3:00 |
-| N3 | Nobody Cares | 2:37 |
-| N4 | Mr. Charles' Blues | 2:44 |
-| N5 | Some Day Baby | 2:58 |
-| N6 | I Wonder Who | 2:46 |
+| Position | Title |
+|----------|--------|
+|  | The Great Ray Charles |
+| A1 | The Ray |
+| A2 | My Melancholy Baby |
+| A3 | Black Coffee |
+| A4 | There's No You |
+| B1 | Doodlin' |
+| B2 | Sweet Sixteen Bars |
+| B3 | I Surrender Dear |
+| B4 | Undecided |
+|  | Ray Charles |
+| C1 | Ain't That Love |
+| C2 | Drown In My Own Tears |
+| C3 | Come Back Baby |
+| C4 | Sinner's Prayer |
+| C5 | Funny (But I Still Love You) |
+| C6 | Losing Hand |
+| C7 | A Fool For You |
+| D1 | Hallelujah I Love Her So |
+| D2 | Mess Around |
+| D3 | This Little Girl of Mine |
+| D4 | Mary Ann |
+| D5 | Greenbacks |
+| D6 | Don't You Know |
+| D7 | I Got A Woman |
+|  | Yes Indeed! |
+| E1 | What Would I Do Without You |
+| E2 | It's Alright |
+| E3 | I Want To Know |
+| E4 | Yes, Indeed! |
+| E5 | Get On The Right Track Baby |
+| E6 | Talkin' 'Bout You |
+| E7 | Swanee River Rock (Talkin' 'Bout That River) |
+| F1 | Lonely Avenue |
+| F2 | Blackjack |
+| F3 | The Sun's Gonna Shine Again |
+| F4 | I Had A Dream |
+| F5 | I Want A Little Girl |
+| F6 | Heartbreaker |
+| F7 | Leave My Woman Alone |
+|  | The Genius Of Ray Charles |
+| G1 | Let The Good Times Roll |
+| G2 | It Had To Be You |
+| G3 | Alexander's Ragtime Band |
+| G4 | Two Years Of Torture |
+| G5 | When Your Lover Has Gone |
+| G6 | Deed I Do |
+| H1 | Just For A Thrill |
+| H2 | You Won't Let Me Go |
+| H3 | Tell Me You'll Wait For Me |
+| H4 | Don't Let The Sun Catch You Cryin' |
+| H5 | Am I Blue |
+| H6 | Come Rain Or Come Shine |
+|  | What'd I Say |
+| I1 | What'd I Say |
+| I2 | Jumpin' In The Mornin' |
+| I3 | You Be My Baby |
+| I4 | Tell Me How Do You Feel |
+| I5 | What Kind Of Man Are You" |
+| J1 | Rockhouse |
+| J2 | Roll With My Baby |
+| J3 | Tell All The World About You |
+| J4 | My Bonnie |
+| J5 | That's Enough |
+|  | The Genius After Hours |
+| K1 | The Genius After Hours |
+| K2 | Ain't Misbehavin' |
+| K3 | Dawn Ray |
+| K4 | Joy Ride |
+| L1 | Hornful Soul |
+| L2 | The Man I Love |
+| L3 | Charlesville |
+| L4 | Music, Music, Music |
+|  | The Genius Sings The Blues |
+| M1 | Early In The Mornin' |
+| M2 | Hard Times (No One Knows Better Than I) |
+| M3 | The Midnight Hour |
+| M4 | The Right Time |
+| M5 | Feelin' Sad |
+| M6 | Ray's Blues |
+| N1 | I'm Movin' On |
+| N2 | I Believe To My Soul |
+| N3 | Nobody Cares |
+| N4 | Mr. Charles' Blues |
+| N5 | Some Day Baby |
+| N6 | I Wonder Who |
 
 
 ## Apple Music

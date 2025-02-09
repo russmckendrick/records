@@ -42,21 +42,21 @@ The album was preceded by the singles "Loading Zones" and "Bassackwards".
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loading Zones | 3:22 |
-| A2 | Hysteria | 5:23 |
-| A3 | Yeah Bones | 4:45 |
-| A4 | Bassackwards | 9:47 |
-| B5 | One Trick Ponies | 5:21 |
-| B6 | Rollin With The Flow | 2:59 |
-| B7 | Check Baby | 7:54 |
-| C8 | Bottle It In | 10:39 |
-| C9 | Mutinies | 5:53 |
-| C10 | Come Again | 5:43 |
-| D11 | Cold Was The Wind | 4:51 |
-| D12 | Skinny Mini | 10:27 |
-| D13 | (Bottle Back) | 1:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Loading Zones |
+| A2 | Hysteria |
+| A3 | Yeah Bones |
+| A4 | Bassackwards |
+| B5 | One Trick Ponies |
+| B6 | Rollin With The Flow |
+| B7 | Check Baby |
+| C8 | Bottle It In |
+| C9 | Mutinies |
+| C10 | Come Again |
+| D11 | Cold Was The Wind |
+| D12 | Skinny Mini |
+| D13 | (Bottle Back) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ The album was preceded by the singles "Loading Zones" and "Bassackwards".
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Matador |
 | Catalog Number | OLE-1146-8 |
-| Notes | Gatefold sleeve.<br>Each LP comes in a custom inner sleeve.<br>Includes a download coupon.<br>Tracks are continuously numbered across sides.<br><br>P & C 2018 Matador Records<br>134 Grand St New York NY 10013<br><br>A1 - Recorded [...] at Tarquin Studios. <br>A2 - Recorded [...] at Ice Cream Party. Additional overdubs [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios.<br>A3 - Recorded [...] at Tarquin Studios.<br>A4 - Recorded [...] at the Beer Hole.<br>B5 - Produced [...] at Mant Sounds.<br>B6 - Recorded [...] at Tarquin Studios. Additional overdubbing [...] at the Beer Hole.<br>B7 - Recorded [...] at Epic Trax. Some overdubs [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios.<br>C8 - Produced [...] at Mant Sounds.<br>C9 - Recorded [...] at Epic Trax. Overdubs and mixed [...] at the Beer Hole.<br>C10 - Recorded [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios.<br>D11 - Produced [...] at Mant Sounds.<br>D12 - Recorded and mixed [...] at the Beer Hole.<br>D13 - Recorded [...] at O-KV Central, Mount Airy. Overdubs [...] at Mant Sounds.<br><br>Mad post production helps and additional engineering [...] at Studio G.<br><br>Mastered [...] at Sterling Sound in Edgewater, NJ.<br><br>All songs [...] © 2018 (BMI).<br>Published by Third Side Music.<br>Except "Rollin With The Flow" [...] EMI Algee Music Corp (BMI).<br><br>Music was made at: Tarquin Studio (Bridgeport, CT), Mant Sounds (Glassel Park, CA), The Beer Hole (Los Angeles, CA), Epic Trax (Greenpoint, NY), Ice Cream Party (Portland, OR), O-KV Central (Mount Airy, PA), Studio G (Brooklyn, NY), Uniform Recording (Philly, PA) |
+| Notes | Gatefold sleeve. Each LP comes in a custom inner sleeve. Includes a download coupon. Tracks are continuously numbered across sides.  P & C 2018 Matador Records 134 Grand St New York NY 10013  A1 - Recorded [...] at Tarquin Studios.  A2 - Recorded [...] at Ice Cream Party. Additional overdubs [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios. A3 - Recorded [...] at Tarquin Studios. A4 - Recorded [...] at the Beer Hole. B5 - Produced [...] at Mant Sounds. B6 - Recorded [...] at Tarquin Studios. Additional overdubbing [...] at the Beer Hole. B7 - Recorded [...] at Epic Trax. Some overdubs [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios. C8 - Produced [...] at Mant Sounds. C9 - Recorded [...] at Epic Trax. Overdubs and mixed [...] at the Beer Hole. C10 - Recorded [...] at the Beer Hole. Mixing and additional production [...] at Tarquin Studios. D11 - Produced [...] at Mant Sounds. D12 - Recorded and mixed [...] at the Beer Hole. D13 - Recorded [...] at O-KV Central, Mount Airy. Overdubs [...] at Mant Sounds.  Mad post production helps and additional engineering [...] at Studio G.  Mastered [...] at Sterling Sound in Edgewater, NJ.  All songs [...] © 2018 (BMI). Published by Third Side Music. Except "Rollin With The Flow" [...] EMI Algee Music Corp (BMI).  Music was made at: Tarquin Studio (Bridgeport, CT), Mant Sounds (Glassel Park, CA), The Beer Hole (Los Angeles, CA), Epic Trax (Greenpoint, NY), Ice Cream Party (Portland, OR), O-KV Central (Mount Airy, PA), Studio G (Brooklyn, NY), Uniform Recording (Philly, PA) |
 | Discogs URL    | [Kurt Vile - Bottle It In](https://www.discogs.com/release/12625783-Kurt-Vile-Bottle-It-In) |

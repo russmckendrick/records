@@ -28,16 +28,16 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Day One |  |
-| A2 | Day Two |  |
-| A3 | Day Three |  |
-| A4 | Day Four |  |
-| B1 | Day Five |  |
-| B2 | Day Six |  |
-| B3 | Day Seven |  |
-| B4 | Day Eight |  |
+| Position | Title |
+|----------|--------|
+| A1 | Day One |
+| A2 | Day Two |
+| A3 | Day Three |
+| A4 | Day Four |
+| B1 | Day Five |
+| B2 | Day Six |
+| B3 | Day Seven |
+| B4 | Day Eight |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 | Format         | Vinyl LP EP Limited Edition Reissue Remastered (Orange Dusty Opaque) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR326 |
-| Notes | Limited edition colored vinyl: Opaque dusty orange (Edition of 4.000)<br>Vinyl format includes MP3 download coupon inside package. |
+| Notes | Limited edition colored vinyl: Opaque dusty orange (Edition of 4.000) Vinyl format includes MP3 download coupon inside package. |
 | Discogs URL    | [Explosions In The Sky - The Rescue ](https://www.discogs.com/release/13992920-Explosions-In-The-Sky-The-Rescue-) |

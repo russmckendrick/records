@@ -28,11 +28,11 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Easy To Smile | 4:44 |
-| B1 | Hazel | 4:01 |
-| B2 | Mollylove | 2:45 |
+| Position | Title |
+|----------|--------|
+| A | Easy To Smile |
+| B1 | Hazel |
+| B2 | Mollylove |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" Single 45 RPM |
 | Label          | Epic |
 | Catalog Number | 657695 6 |
-| Notes | Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.<br>Track B2 recorded at the Greenhouse April 1991.<br><br>Includes exclusive Jamie Hewlett print.<br> |
+| Notes | Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.  Track B2 recorded at the Greenhouse April 1991.    Includes exclusive Jamie Hewlett print.   |
 | Discogs URL    | [Senseless Things - Easy To Smile](https://www.discogs.com/release/1468779-Senseless-Things-Easy-To-Smile) |

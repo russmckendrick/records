@@ -28,18 +28,18 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prelude |  |
-| A2 | A Salesman's Guide To Non-Existence |  |
-| A3 | Feed The Horses |  |
-| B1 | Blood On The Radio |  |
-| B2 | Absentee |  |
-| C1 | Suspicious Waveforms |  |
-| C2 | Carnival |  |
-| D1 | Concrete Swan Dive |  |
-| D2 | In The Company Of Worms |  |
-| D3 | My Famed Disappearing Act |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prelude |
+| A2 | A Salesman's Guide To Non-Existence |
+| A3 | Feed The Horses |
+| B1 | Blood On The Radio |
+| B2 | Absentee |
+| C1 | Suspicious Waveforms |
+| C2 | Carnival |
+| D1 | Concrete Swan Dive |
+| D2 | In The Company Of Worms |
+| D3 | My Famed Disappearing Act |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 | Format         | Vinyl 2× LP Album Limited Edition Remastered Repress Stereo (Blood Red With Black Swirl) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI200V |
-| Notes | Limited to 1,000 copies.<br><br>This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been repressed upon signing to Evil Ink Records.  |
+| Notes | Limited to 1,000 copies.  This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been repressed upon signing to Evil Ink Records.  |
 | Discogs URL    | [Thank You Scientist - Maps Of Non-Existent Places](https://www.discogs.com/release/14780449-Thank-You-Scientist-Maps-Of-Non-Existent-Places) |

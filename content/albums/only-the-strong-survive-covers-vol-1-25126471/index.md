@@ -47,23 +47,23 @@ In terms of selection, <I>Only the Strong</I> is an interesting mix. Plenty of M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Only The Strong Survive |  |
-| A2 | Soul Days |  |
-| A3 | Night Shift |  |
-| A4 | Do I Love You (Indeed I Do) |  |
-| A5 | The Sun Ain't Gonna Shine Anymore |  |
-| B1 | Turn Back The Hands Of Time |  |
-| B2 | When She Was My Girl |  |
-| B3 | Hey, Western Union Man |  |
-| B4 | I Wish It Would Rain |  |
-| B5 | Don't Play That Song |  |
-| C1 | Any Other Way |  |
-| C2 | I Forgot To Be Your Lover |  |
-| C3 | 7 Rooms Of Gloom |  |
-| C4 | What Becomes Of The Brokenhearted |  |
-| C5 | Someday We'll Be Together |  |
+| Position | Title |
+|----------|--------|
+| A1 | Only The Strong Survive |
+| A2 | Soul Days |
+| A3 | Night Shift |
+| A4 | Do I Love You (Indeed I Do) |
+| A5 | The Sun Ain't Gonna Shine Anymore |
+| B1 | Turn Back The Hands Of Time |
+| B2 | When She Was My Girl |
+| B3 | Hey, Western Union Man |
+| B4 | I Wish It Would Rain |
+| B5 | Don't Play That Song |
+| C1 | Any Other Way |
+| C2 | I Forgot To Be Your Lover |
+| C3 | 7 Rooms Of Gloom |
+| C4 | What Becomes Of The Brokenhearted |
+| C5 | Someday We'll Be Together |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ In terms of selection, <I>Only the Strong</I> is an interesting mix. Plenty of M
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Orange [Orbit Orange]) |
 | Label          | Columbia |
 | Catalog Number | 19658753701 |
-| Notes | Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.<br><br>© & ℗ 2022 Columbia Records<br>Made in the EU<br><br>Comes with a sticker on the front cover:<br>"INDIE RETAIL EXCLUSIVE<br>THE NEW ALBUM FROM<br>BRUCE SPRINGSTEEN<br>LIMITED EDITION ORBIT ORANGE VINYL" |
+| Notes | Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL" |
 | Discogs URL    | [Bruce Springsteen - Only The Strong Survive (Covers Vol. 1)](https://www.discogs.com/release/25126471-Springsteen-Only-The-Strong-Survive-Covers-Vol-1) |

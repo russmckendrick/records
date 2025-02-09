@@ -31,27 +31,27 @@ styles: ["Alternative Rock", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Nowhere Inn | 4:29 |
-| A2 | Carrie Voicemail | 0:33 |
-| A3 | Palm Desert | 3:49 |
-| A4 | Carrie Wave | 1:30 |
-| A5 | Waiting On A Wave | 2:22 |
-| A6 | Opening Limo Scene  | 1:34 |
-| A7 | Hallway Scene | 0:42 |
-| B1 | Rooftop | 1:10 |
-| B2 | Come To Jesus  | 0:54 |
-| B3 | Downtempo Montage  | 1:21 |
-| B4 | Sex Scene  | 0:57 |
-| B5 | Board Room  | 0:46 |
-| B6 | Spa Scene  | 1:24 |
-| B7 | Tour Bus | 0:35 |
-| B8 | Carrie Off Bus | 0:21 |
-| B9 | Texas Intro  | 0:36 |
-| B10 | Texas Choir | 1:15 |
-| B11 | Bacchanal  | 2:29 |
-| B12 | Ending | 2:18 |
+| Position | Title |
+|----------|--------|
+| A1 | The Nowhere Inn |
+| A2 | Carrie Voicemail |
+| A3 | Palm Desert |
+| A4 | Carrie Wave |
+| A5 | Waiting On A Wave |
+| A6 | Opening Limo Scene  |
+| A7 | Hallway Scene |
+| B1 | Rooftop |
+| B2 | Come To Jesus  |
+| B3 | Downtempo Montage  |
+| B4 | Sex Scene  |
+| B5 | Board Room  |
+| B6 | Spa Scene  |
+| B7 | Tour Bus |
+| B8 | Carrie Off Bus |
+| B9 | Texas Intro  |
+| B10 | Texas Choir |
+| B11 | Bacchanal  |
+| B12 | Ending |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Alternative Rock", "Soundtrack"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Orange) |
 | Label          | Loma Vista |
 | Catalog Number | LVR02343 |
-| Notes | Record Store Day 2022 Exclusive Release<br>Limited to 4000 copies |
+| Notes | Record Store Day 2022 Exclusive Release Limited to 4000 copies |
 | Discogs URL    | [St Vincent - The Nowhere Inn (Official Soundtrack)](https://www.discogs.com/release/22966064-St-Vincent-The-Nowhere-Inn-Official-Soundtrack) |

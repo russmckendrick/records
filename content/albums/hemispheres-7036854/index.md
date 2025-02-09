@@ -39,12 +39,12 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Cygnus X-1 Book II: Hemispheres | 18:07 |
-| B1 | Circumstances | 3:42 |
-| B2 | The Trees | 4:46 |
-|  | La Villa Strangiato | 9:36 |
+| Position | Title |
+|----------|--------|
+|  | Cygnus X-1 Book II: Hemispheres |
+| B1 | Circumstances |
+| B2 | The Trees |
+|  | La Villa Strangiato |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547118066 |
-| Notes | Issued in a gatefold sleeve. Includes a voucher to download mp3 version of the album and a poster<br><br>Recorded at Rockfield Studios, Wales, during June and July 1978<br>Vocals recorded at Advision Studios, London<br>Mixed at Trident Studios, Soho, London, August 1978<br>Direct Metal Mastering at Abbey Road Mastering Studios - December 2014<br><br>℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.<br>Made in the EU<br><br>Similar entry is the [url=http://www.discogs.com/release/7025925]USA & Canada[/url] release |
+| Notes | Issued in a gatefold sleeve. Includes a voucher to download mp3 version of the album and a poster    Recorded at Rockfield Studios, Wales, during June and July 1978  Vocals recorded at Advision Studios, London  Mixed at Trident Studios, Soho, London, August 1978  Direct Metal Mastering at Abbey Road Mastering Studios - December 2014    ℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.  Made in the EU    Similar entry is the [url=http://www.discogs.com/release/7025925]USA & Canada[/url] release |
 | Discogs URL    | [Rush - Hemispheres](https://www.discogs.com/release/7036854-Rush-Hemispheres) |

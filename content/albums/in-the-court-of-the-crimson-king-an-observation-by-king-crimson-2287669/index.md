@@ -29,13 +29,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 21st Century Schizoid Man (Including "Mirrors") | 6:52 |
-| A2 | I Talk To The Wind | 5:40 |
-| A3 | Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow") | 8:30 |
-| B1 | Moonchild (Including "The Dream" And "The Illusion") | 12:09 |
-| B2 | The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") | 8:48 |
+| Position | Title |
+|----------|--------|
+| A1 | 21st Century Schizoid Man (Including "Mirrors") |
+| A2 | I Talk To The Wind |
+| A3 | Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow") |
+| B1 | Moonchild (Including "The Dream" And "The Illusion") |
+| B2 | The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Island Records |
 | Catalog Number | ILPS 9111 |
-| Notes | Pink "i" label. Released in a gatefold cover.<br><br>[r12249899] is similar edition but has no printer credit on the cover.<br><br>A product of Island Records Ltd.<br>Produced for E.G. Productions, 'David & John'.<br>Recorded at Wessex Sound Studios, London.<br><br>Printed and made by E. J. Day, London.<br>Variant 1 (A▽2 B//2) came in polylined inner bag with blue text ‘U.K. Patent No. 1,072,844 & Foreign Patents Pending’.<br><br>The tracklisting is taken from the cover. On the label tracks A1, A3, B1 and B2 are divided into separate subtracks which on the cover appear as part of the "normal" track titles. |
+| Notes | Pink "i" label. Released in a gatefold cover.  [r12249899] is similar edition but has no printer credit on the cover.  A product of Island Records Ltd. Produced for E.G. Productions, 'David & John'. Recorded at Wessex Sound Studios, London.  Printed and made by E. J. Day, London. Variant 1 (A▽2 B//2) came in polylined inner bag with blue text ‘U.K. Patent No. 1,072,844 & Foreign Patents Pending’.  The tracklisting is taken from the cover. On the label tracks A1, A3, B1 and B2 are divided into separate subtracks which on the cover appear as part of the "normal" track titles. |
 | Discogs URL    | [King Crimson - In The Court Of The Crimson King (An Observation By King Crimson)](https://www.discogs.com/release/2287669-King-Crimson-In-The-Court-Of-The-Crimson-King-An-Observation-By-King-Crimson) |

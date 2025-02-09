@@ -30,12 +30,12 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Move Mountains | 3:18 |
-| B | All The Answers | 3:59 |
-| C | Someone To Blame | 4:00 |
-| D | Bring It On Down | 7:37 |
+| Position | Title |
+|----------|--------|
+| A | Move Mountains |
+| B | All The Answers |
+| C | Someone To Blame |
+| D | Bring It On Down |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: []
 | Format         | Vinyl 2× 7" 45 RPM Single Limited Edition Mispress (Silver/Grey (mispress variant) / Multicolour Grey) |
 | Label          | Speedowax Records |
 | Catalog Number | ATOMO183 |
-| Notes | 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store.<br>Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.<br><br>Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve. |
+| Notes | 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store. Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.  Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve. |
 | Discogs URL    | [Jesus Jones - Liquidizer 2019](https://www.discogs.com/release/14811949-Jesus-Jones-Liquidizer-2019) |

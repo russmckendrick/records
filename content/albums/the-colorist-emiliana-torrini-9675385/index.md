@@ -33,30 +33,30 @@ styles: ["Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Caterpillar | 4:42 |
-| A2 | Blood Red | 5:20 |
-| A3 | Serenade | 3:51 |
-| A4 | When We Dance | 3:12 |
-| A5 | Speed Of Dark | 5:27 |
-| A6 | Nightfall | 3:15 |
-| B1 | Today Has Been OK | 5:05 |
-| B2 | Jungle Drum | 2:46 |
-| B3 | Thinking Out Loud | 4:14 |
-| B4 | Gun | 6:34 |
-| B5 | Bleeder | 5:21 |
-| CD-1 | Caterpillar | 4:42 |
-| CD-2 | Blood Red | 5:20 |
-| CD-3 | Serenade | 3:51 |
-| CD-4 | When We Dance | 3:12 |
-| CD-5 | Speed Of Dark | 5:27 |
-| CD-6 | Nightfall | 3:15 |
-| CD-7 | Today Has Been OK | 5:05 |
-| CD-8 | Jungle Drum | 2:46 |
-| CD-9 | Thinking Out Loud | 4:14 |
-| CD-10 | Gun | 6:34 |
-| CD-11 | Bleeder | 5:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Caterpillar |
+| A2 | Blood Red |
+| A3 | Serenade |
+| A4 | When We Dance |
+| A5 | Speed Of Dark |
+| A6 | Nightfall |
+| B1 | Today Has Been OK |
+| B2 | Jungle Drum |
+| B3 | Thinking Out Loud |
+| B4 | Gun |
+| B5 | Bleeder |
+| CD-1 | Caterpillar |
+| CD-2 | Blood Red |
+| CD-3 | Serenade |
+| CD-4 | When We Dance |
+| CD-5 | Speed Of Dark |
+| CD-6 | Nightfall |
+| CD-7 | Today Has Been OK |
+| CD-8 | Jungle Drum |
+| CD-9 | Thinking Out Loud |
+| CD-10 | Gun |
+| CD-11 | Bleeder |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Folk Rock"]
 | Format         | Vinyl LP Album (Die-Cut Sleeve), CD Album, All Media Deluxe Edition |
 | Label          | Rough Trade |
 | Catalog Number | 883870081610 |
-| Notes | Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect.<br>A printed inner sleeve is also included.<br><br>Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched<br>Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched<br> |
+| Notes | Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect. A printed inner sleeve is also included.  Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched  |
 | Discogs URL    | [The Colorist - The Colorist & Emiliana Torrini](https://www.discogs.com/release/9675385-The-Colorist-Emiliana-Torrini-The-Colorist-Emiliana-Torrini) |

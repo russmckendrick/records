@@ -31,18 +31,18 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Celtic Soul Brothers | 3:12 |
-| A2 | Let's Make This Precious | 4:03 |
-| A3 | All In All (This One Last Wild Waltz) | 4:17 |
-| A4 | Jackie Wilson Said (I'm In Heaven When You Smile) | 3:06 |
-| A5 | Old | 5:40 |
-| B1 | Plan B | 5:07 |
-| B2 | I'll Show You | 2:42 |
-| B3 | Liars A To E | 4:11 |
-| B4 | Until I Believe In My Soul | 7:07 |
-| B5 | Come On Eileen | 4:45 |
+| Position | Title |
+|----------|--------|
+| A1 | The Celtic Soul Brothers |
+| A2 | Let's Make This Precious |
+| A3 | All In All (This One Last Wild Waltz) |
+| A4 | Jackie Wilson Said (I'm In Heaven When You Smile) |
+| A5 | Old |
+| B1 | Plan B |
+| B2 | I'll Show You |
+| B3 | Liars A To E |
+| B4 | Until I Believe In My Soul |
+| B5 | Come On Eileen |
 
 
 ## Apple Music

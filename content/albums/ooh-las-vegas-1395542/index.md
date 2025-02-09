@@ -38,31 +38,31 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Disneyworld | 2:49 |
-| A2 | Ronnie Spector | 3:29 |
-| A3 | My America | 3:10 |
-| A4 | Sharon | 4:13 |
-| A5 | Undeveloped Heart | 3:37 |
-| A6 | Souvenirs | 2:41 |
-| B1 | Born Again | 3:23 |
-| B2 | Down In The Flood | 4:37 |
-| B3 | Back Here In Beanoland | 3:01 |
-| B4 | Love You Say | 5:34 |
-| B5 | Let Your Hearts Be Troubled | 6:31 |
-| C1 | Gentle Teardrops | 3:13 |
-| C2 | Little Lincoln | 3:06 |
-| C3 | That Country (Beneath Your Skin) | 3:50 |
-| C4 | Is It Cold Beneath The Hill? | 3:57 |
-| C5 | Circus Lights | 2:56 |
-| C6 | Trampolene | 3:36 |
-| D1 | Las Vegas | 3:55 |
-| D2 | Killing The Blues | 3:49 |
-| D3 | Long Window To Love | 3:12 |
-| D4 | Christine | 2:26 |
-| D5 | Take Me To This Place | 2:26 |
-| D6 | Don't Let The Teardrops Start | 3:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Disneyworld |
+| A2 | Ronnie Spector |
+| A3 | My America |
+| A4 | Sharon |
+| A5 | Undeveloped Heart |
+| A6 | Souvenirs |
+| B1 | Born Again |
+| B2 | Down In The Flood |
+| B3 | Back Here In Beanoland |
+| B4 | Love You Say |
+| B5 | Let Your Hearts Be Troubled |
+| C1 | Gentle Teardrops |
+| C2 | Little Lincoln |
+| C3 | That Country (Beneath Your Skin) |
+| C4 | Is It Cold Beneath The Hill? |
+| C5 | Circus Lights |
+| C6 | Trampolene |
+| D1 | Las Vegas |
+| D2 | Killing The Blues |
+| D3 | Long Window To Love |
+| D4 | Christine |
+| D5 | Take Me To This Place |
+| D6 | Don't Let The Teardrops Start |
 
 
 ## Apple Music

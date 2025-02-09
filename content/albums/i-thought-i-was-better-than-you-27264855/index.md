@@ -34,20 +34,20 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | So Much Money |  |
-| A2 | Aylesbury Boy |  |
-| A3 | Celebrate Me |  |
-| A4 | Leon |  |
-| A5 | Crashes |  |
-| B1 | Sincere |  |
-| B2 | Pale White Nissan |  |
-| B3 | Shadow |  |
-| B4 | Crowded Rooms |  |
-| B5 | Glows |  |
-|  | Maximum Security For Baxter Dury |  |
-| CD1 | I Thought I Was Better Than You Mixtape | 21:44 |
+| Position | Title |
+|----------|--------|
+| A1 | So Much Money |
+| A2 | Aylesbury Boy |
+| A3 | Celebrate Me |
+| A4 | Leon |
+| A5 | Crashes |
+| B1 | Sincere |
+| B2 | Pale White Nissan |
+| B3 | Shadow |
+| B4 | Crowded Rooms |
+| B5 | Glows |
+|  | Maximum Security For Baxter Dury |
+| CD1 | I Thought I Was Better Than You Mixtape |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Blue [Transparent] Blue Sleeve), CD Limited Edition Mixtape |
 | Label          | Heavenly |
 | Catalog Number | HVNLP214RT |
-| Notes | Rough Trade Exclusive Blue Sleeve & Transparent Blue Vinyl - limited to 1500 copies.<br>Includes a printed inner sleeve with lyrics and credits, download code (sticker on inner sleeve), and CD "Maximum Security For Baxter Dury I Thought I Was Better Than You Mixtape" (HVN725)<br><br>In the runouts, the plating marks "1+" and "1⋀" are mirrored.<br><br> |
+| Notes | Rough Trade Exclusive Blue Sleeve & Transparent Blue Vinyl - limited to 1500 copies. Includes a printed inner sleeve with lyrics and credits, download code (sticker on inner sleeve), and CD "Maximum Security For Baxter Dury I Thought I Was Better Than You Mixtape" (HVN725)  In the runouts, the plating marks "1+" and "1⋀" are mirrored.   |
 | Discogs URL    | [Baxter Dury - I Thought I Was Better Than You](https://www.discogs.com/release/27264855-Baxter-Dury-I-Thought-I-Was-Better-Than-You) |

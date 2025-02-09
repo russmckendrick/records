@@ -37,21 +37,21 @@ The song "Left Hand" appears on Crowded House's live album Special Edition Live 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Am In Love |  |
-| A2 | Sacred Cow |  |
-| A3 | You Can Touch |  |
-| A4 | Help Is Coming |  |
-| A5 | I Love You Dawn |  |
-| A6 | Dr Livingstone |  |
-| B1 | My Telly's Gone Bung |  |
-| B2 | Private Universe |  |
-| B3 | Lester |  |
-| B4 | Anyone Can Tell |  |
-| B5 | Recurring Dream |  |
-| B6 | Left Hand |  |
-| B7 | Time Immemorial |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Am In Love |
+| A2 | Sacred Cow |
+| A3 | You Can Touch |
+| A4 | Help Is Coming |
+| A5 | I Love You Dawn |
+| A6 | Dr Livingstone |
+| B1 | My Telly's Gone Bung |
+| B2 | Private Universe |
+| B3 | Lester |
+| B4 | Anyone Can Tell |
+| B5 | Recurring Dream |
+| B6 | Left Hand |
+| B7 | Time Immemorial |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The song "Left Hand" appears on Crowded House's live album Special Edition Live 
 | Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 788022 |
-| Notes | A collection of rare and previously unreleased tracks.<br><br>Tracks A1, A3 and B2 recorded at Kare Kare as a part of the Together Alone sessions in 1992<br>Track A2 recorded at A&M Studios in early 1990<br>Track A4 recorded at York Street, 1994<br>Tracks A5 to B1 recorded at Platinium Studios in Melbourne circa 1989<br>Track B3 home demo recorded in 1988<br>Track B4 recorded at A&M Studios 1989<br>Track B5 recorded at Platinum Studios 1985<br>Track B6 recorded at Periscope Studios in Melbourne 1990<br>Track B7 recorded at Periscope Studios in Melbourne circa 1989<br><br>Printed black & white inner sleeve with artwork, credits and liner notes.<br><br>Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Afterglow/release/9318575]deluxe edition[/url] of this reissue.<br><br>First catalog number on labels, insert, spine, second catalog number on rear cover.<br><br>℗ 1999 Capitol Records, LLC © 2016 Capitol Records, LLC, a division of UMG Recordings, Inc.<br>Made in the Czech Republic.<br>Universal International Music B.V.<br><br>All songs published by Kobalt Music Publishing Limited except:<br>A4: Kobalt Music Publishing Limited / Copyright Control<br>B1: Copyright Control<br>B5: Kobalt Music Publishing Limited / Warner Chappell Overseas Holdings Limited / Copyright Control<br><br>Runouts are machine etched. |
+| Notes | A collection of rare and previously unreleased tracks.  Tracks A1, A3 and B2 recorded at Kare Kare as a part of the Together Alone sessions in 1992 Track A2 recorded at A&M Studios in early 1990 Track A4 recorded at York Street, 1994 Tracks A5 to B1 recorded at Platinium Studios in Melbourne circa 1989 Track B3 home demo recorded in 1988 Track B4 recorded at A&M Studios 1989 Track B5 recorded at Platinum Studios 1985 Track B6 recorded at Periscope Studios in Melbourne 1990 Track B7 recorded at Periscope Studios in Melbourne circa 1989  Printed black & white inner sleeve with artwork, credits and liner notes.  Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Afterglow/release/9318575]deluxe edition[/url] of this reissue.  First catalog number on labels, insert, spine, second catalog number on rear cover.  ℗ 1999 Capitol Records, LLC © 2016 Capitol Records, LLC, a division of UMG Recordings, Inc. Made in the Czech Republic. Universal International Music B.V.  All songs published by Kobalt Music Publishing Limited except: A4: Kobalt Music Publishing Limited / Copyright Control B1: Copyright Control B5: Kobalt Music Publishing Limited / Warner Chappell Overseas Holdings Limited / Copyright Control  Runouts are machine etched. |
 | Discogs URL    | [Crowded House - Afterglow](https://www.discogs.com/release/9322428-Crowded-House-Afterglow) |

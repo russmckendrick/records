@@ -39,17 +39,17 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mausoleum Of My Former Self | 4:53 |
-| A2 | Can’t Carry On | 3:46 |
-| A3 | Loan Your Loneliness | 5:13 |
-| A4 | Seeking New Gods | 5:10 |
-| A5 | Hiking In Lightning | 3:27 |
-| B1 | Holiest Of The Holy Men | 4:43 |
-| B2 | The Keep | 4:23 |
-| B3 | Everlasting Joy | 5:11 |
-| B4 | Distant Snowy Peaks | 5:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Mausoleum Of My Former Self |
+| A2 | Can’t Carry On |
+| A3 | Loan Your Loneliness |
+| A4 | Seeking New Gods |
+| A5 | Hiking In Lightning |
+| B1 | Holiest Of The Holy Men |
+| B2 | The Keep |
+| B3 | Everlasting Joy |
+| B4 | Distant Snowy Peaks |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 | Format         | Vinyl LP Album (Green) |
 | Label          | Rough Trade |
 | Catalog Number | RT0127LP2 |
-| Notes | Comes in a mountain die-cut envelope-style sleeve with belly band.<br><br>Initial copies from Rough Trade came with a poster and signed postcard.<br><br>Dark green vinyl.<br><br>Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.<br><br>Track durations are not mentioned on the release. |
+| Notes | Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release. |
 | Discogs URL    | [Gruff Rhys - Seeking New Gods](https://www.discogs.com/release/18798823-Gruff-Rhys-Seeking-New-Gods) |

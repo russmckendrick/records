@@ -37,13 +37,13 @@ Although it was commercially successful on release, the band – particularly Ro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Atom Heart Mother |  |
-| B1 | If |  |
-| B2 | Summer '68 |  |
-| B3 | Fat Old Sun |  |
-|  | Alan's Psychedelic Breakfast |  |
+| Position | Title |
+|----------|--------|
+|  | Atom Heart Mother |
+| B1 | If |
+| B2 | Summer '68 |
+| B3 | Fat Old Sun |
+|  | Alan's Psychedelic Breakfast |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Although it was commercially successful on release, the band – particularly Ro
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP5 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: October 1970<br>Made in the E.U.<br>www.pinkfloyd.com<br><br>The US release can be found [url=http://www.discogs.com/release/9093776]here[/url]<br><br>Issued in gatefold sleeve with generic non-printed inner sleeve. Hype sticker contains extended information about production (see images).<br>Matrix/Runout variant 3 version has also glossy inner pages like the outside, whereas matrix/runout variant 1 has the more matte inner pages. |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1970 Made in the E.U. www.pinkfloyd.com  The US release can be found [url=http://www.discogs.com/release/9093776]here[/url]  Issued in gatefold sleeve with generic non-printed inner sleeve. Hype sticker contains extended information about production (see images). Matrix/Runout variant 3 version has also glossy inner pages like the outside, whereas matrix/runout variant 1 has the more matte inner pages. |
 | Discogs URL    | [Pink Floyd - Atom Heart Mother](https://www.discogs.com/release/9063835-Pink-Floyd-Atom-Heart-Mother) |

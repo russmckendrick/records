@@ -36,18 +36,18 @@ As of 2003 it has sold 169,000 copies in the United States.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Paris Train | 5:46 |
-| A2 | Concrete Sky | 4:34 |
-| A3 | Mount Washington | 6:27 |
-| A4 | Anywhere | 4:35 |
-| A5 | Daybreaker | 3:55 |
-| B1 | Carmella | 3:36 |
-| B2 | God Song | 5:15 |
-| B3 | This One's Gonna Bruise | 4:44 |
-| B4 | Ted's Waltz | 5:41 |
-| B5 | Thinking About Tomorrow | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Paris Train |
+| A2 | Concrete Sky |
+| A3 | Mount Washington |
+| A4 | Anywhere |
+| A5 | Daybreaker |
+| B1 | Carmella |
+| B2 | God Song |
+| B3 | This One's Gonna Bruise |
+| B4 | Ted's Waltz |
+| B5 | Thinking About Tomorrow |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ As of 2003 it has sold 169,000 copies in the United States.
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 37 |
-| Notes | All songs written by Beth Orton, except:<br>Tracks 1 & 9 which were written by Beth and Ted Barnes<br>Track 2 which was written by Beth and Johnny Marr<br>Track 8 which was written for Beth by Ryan Adams<br>Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read<br><br>All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10<br> |
+| Notes | All songs written by Beth Orton, except:  Tracks 1 & 9 which were written by Beth and Ted Barnes  Track 2 which was written by Beth and Johnny Marr  Track 8 which was written for Beth by Ryan Adams  Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read    All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10   |
 | Discogs URL    | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |

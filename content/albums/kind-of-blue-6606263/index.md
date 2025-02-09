@@ -32,13 +32,13 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | So What |  |
-| A2 | Freddie Freeloader |  |
-| A3 | Blue In Green |  |
-| B1 | Flamenco Sketches |  |
-| B2 | All Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | So What |
+| A2 | Freddie Freeloader |
+| A3 | Blue In Green |
+| B1 | Flamenco Sketches |
+| B2 | All Blues |
 
 
 ## Apple Music

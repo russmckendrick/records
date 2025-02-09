@@ -31,11 +31,11 @@ As usual per New Order and Joy Division's releases, the recording date and locat
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Everythings Gone Green | 5:31 |
-| B1 | Cries And Whispers | 3:26 |
-| B2 | Mesh | 3:03 |
+| Position | Title |
+|----------|--------|
+| A | Everythings Gone Green |
+| B1 | Cries And Whispers |
+| B2 | Mesh |
 
 
 ## Apple Music

@@ -29,21 +29,21 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Can Change Your Mind |  |
-| A2 | Who's Fooling Who |  |
-| A3 | Till I Hear It From You |  |
-| A4 | Never |  |
-| A5 | Missing In Action |  |
-| A6 | Nick Of Time |  |
-| B1 | Brother Or Another |  |
-| B2 | Ain't Goin' Up In One Of Those Things |  |
-| B3 | Take It As You Find It |  |
-| B4 | Can't Help Myself |  |
-| B5 | How 'Bout Now |  |
-| B6 | Paradise For One |  |
-| B7 | He's Your Could've Been |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Can Change Your Mind |
+| A2 | Who's Fooling Who |
+| A3 | Till I Hear It From You |
+| A4 | Never |
+| A5 | Missing In Action |
+| A6 | Nick Of Time |
+| B1 | Brother Or Another |
+| B2 | Ain't Goin' Up In One Of Those Things |
+| B3 | Take It As You Find It |
+| B4 | Can't Help Myself |
+| B5 | How 'Bout Now |
+| B6 | Paradise For One |
+| B7 | He's Your Could've Been |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-061 |
-| Notes | In memory of Jim Cotte, 1936-2019<br><br>Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.<br><br>Another Bosco Mann Production<br><br>© 2020, Daptone Records<br>Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206<br><br>All songs [...] Stoketone Publishing, PRS<br><br>Includes MP3 download card |
+| Notes | In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  © 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card |
 | Discogs URL    | [The James Hunter Six - Nick Of Time](https://www.discogs.com/release/14888270-The-James-Hunter-Six-Nick-Of-Time) |

@@ -31,21 +31,21 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She (Strings) | 4:31 |
-| A2 | Elaine Paige | 3:23 |
-| A3 | La Puissance (Live) | 1:22 |
-| A4 | Lazy (Demo) | 3:11 |
-| A5 | By The Sea (Acoustic Version) | 4:02 |
-| A6 | Indian Strings (Protocol Demo) | 4:06 |
-| A7 | She's In Fashion (Protocol Demo) | 6:22 |
-| B1 | Simon (Demo) | 4:41 |
-| B2 | Beautiful Loser (Parkgate Demo) | 3:51 |
-| B3 | When The Rain Falls (Stanbridge Demo) | 4:30 |
-| B4 | Untitled (Stanbridge Demo) | 3:35 |
-| B5 | Attitude (Mick Jones Remix) | 3:36 |
-| B6 | Still Life (Strings) | 5:19 |
+| Position | Title |
+|----------|--------|
+| A1 | She (Strings) |
+| A2 | Elaine Paige |
+| A3 | La Puissance (Live) |
+| A4 | Lazy (Demo) |
+| A5 | By The Sea (Acoustic Version) |
+| A6 | Indian Strings (Protocol Demo) |
+| A7 | She's In Fashion (Protocol Demo) |
+| B1 | Simon (Demo) |
+| B2 | Beautiful Loser (Parkgate Demo) |
+| B3 | When The Rain Falls (Stanbridge Demo) |
+| B4 | Untitled (Stanbridge Demo) |
+| B5 | Attitude (Mick Jones Remix) |
+| B6 | Still Life (Strings) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 | Format         | Vinyl LP Reissue (180g) |
 | Label          | Demon Records |
 | Catalog Number | demrec871 |
-| Notes | A2 is an early version of the song "Another No-One", first released as one of the additional tracks on CD2 of the [r=875546] single, 29 July 1996.<br><br>A3 is a short live version of "The Power" sung in French. Audio originally released in 1995 as part of the "Cards, pliers and videotape: a short film about touring" section of [r1101072]. The original version of "The Power" was released on the album [m=10069], released 10 October 1994.<br><br>On inner sleeve: "Thanks to [a424270], [a420394], [a2139268] at [l265432]"<br><br>Reissue on black vinyl. Originally released as the limited edition, fan club only cd [r1339326], then reissued on red vinyl for RSD 2020 [r15835797]. |
+| Notes | A2 is an early version of the song "Another No-One", first released as one of the additional tracks on CD2 of the [r=875546] single, 29 July 1996.  A3 is a short live version of "The Power" sung in French. Audio originally released in 1995 as part of the "Cards, pliers and videotape: a short film about touring" section of [r1101072]. The original version of "The Power" was released on the album [m=10069], released 10 October 1994.  On inner sleeve: "Thanks to [a424270], [a420394], [a2139268] at [l265432]"  Reissue on black vinyl. Originally released as the limited edition, fan club only cd [r1339326], then reissued on red vinyl for RSD 2020 [r15835797]. |
 | Discogs URL    | [Suede - See You In The Next Life...](https://www.discogs.com/release/17269255-Suede-See-You-In-The-Next-Life) |

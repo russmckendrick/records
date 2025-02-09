@@ -38,15 +38,15 @@ Space for the Earth is the fifteenth studio album by English progressive and psy
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stripey Clouds | 6:37 |
-| A2 | Blooperdome | 5:34 |
-| A3 | Humboldt Currant | 6:59 |
-| A4 | Popscape | 4:51 |
-| B1 | Climbing Plants | 7:05 |
-| B2 | Space For The Earth | 7:36 |
-| B3 | Harmonic Steps | 6:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Stripey Clouds |
+| A2 | Blooperdome |
+| A3 | Humboldt Currant |
+| A4 | Popscape |
+| B1 | Climbing Plants |
+| B2 | Space For The Earth |
+| B3 | Harmonic Steps |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Space for the Earth is the fifteenth studio album by English progressive and psy
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1078 |
-| Notes | Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020.<br>Comes with printed inner sleeve.<br>Some copies come with ''Kscope'' marketing leaflet.<br><br>Sticker says:<br>„Ozric Tentacles<br>Space for the Earth<br>180g HEAVYWEIGT VINYL<br>The new studio album featuring<br>guest appearances from former<br>members Joie Hinton, Nick van<br>Gelder, Champignon and Paul<br>Hankin.<br>„This is space music for people<br>from Earth to enjoy“<br>ED WYNNE<br>ⓚscope 1078  kscopemusic.com“<br><br><br>℗ 2020 Kscope © 2020 Kscope<br>Made in the EU.<br><br>All runouts etched |
+| Notes | Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020. Comes with printed inner sleeve. Some copies come with ''Kscope'' marketing leaflet.  Sticker says: „Ozric Tentacles Space for the Earth 180g HEAVYWEIGT VINYL The new studio album featuring guest appearances from former members Joie Hinton, Nick van Gelder, Champignon and Paul Hankin. „This is space music for people from Earth to enjoy“ ED WYNNE ⓚscope 1078  kscopemusic.com“   ℗ 2020 Kscope © 2020 Kscope Made in the EU.  All runouts etched |
 | Discogs URL    | [Ozric Tentacles - Space For The Earth](https://www.discogs.com/release/16031807-Ozric-Tentacles-Space-For-The-Earth) |

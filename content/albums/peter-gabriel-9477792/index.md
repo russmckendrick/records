@@ -40,19 +40,19 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | On The Air |  |
-| A2 | D.I.Y. |  |
-| A3 | Mother Of Violence |  |
-| A4 | A Wonderful Day In A One-Way-World |  |
-| A5 | White Shadow |  |
-| B1 | Indigo |  |
-| B2 | Animal Magic |  |
-| B3 | Exposure |  |
-| B4 | Flotsam And Jetsam |  |
-| B5 | Perspective |  |
-| B6 | Home Sweet Home |  |
+| Position | Title |
+|----------|--------|
+| A1 | On The Air |
+| A2 | D.I.Y. |
+| A3 | Mother Of Violence |
+| A4 | A Wonderful Day In A One-Way-World |
+| A5 | White Shadow |
+| B1 | Indigo |
+| B2 | Animal Magic |
+| B3 | Exposure |
+| B4 | Flotsam And Jetsam |
+| B5 | Perspective |
+| B6 | Home Sweet Home |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR2 |
-| Notes | Hype sticker:<br>33/13RPM Half-Speed Remaster <br>Includes Hi-Res Download Code<br><br>Runouts are stamped, except for 'PGLPR2 A[/B]1' and '=MATT @ ALCHEMY =', which are etched. |
+| Notes | Hype sticker: 33/13RPM Half-Speed Remaster  Includes Hi-Res Download Code  Runouts are stamped, except for 'PGLPR2 A[/B]1' and '=MATT @ ALCHEMY =', which are etched. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9477792-Peter-Gabriel-Peter-Gabriel) |

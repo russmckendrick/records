@@ -28,17 +28,17 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The New Stone Age |  |
-| A2 | She's Leaving |  |
-| A3 | Souvenir |  |
-| A4 | Sealand |  |
-| B1 | Joan Of Arc |  |
-| B2 | Joan Of Arc (Maid Of Orleans) |  |
-| B3 | Architecture & Morality |  |
-| B4 | Georgia |  |
-| B5 | The Beginning And The End |  |
+| Position | Title |
+|----------|--------|
+| A1 | The New Stone Age |
+| A2 | She's Leaving |
+| A3 | Souvenir |
+| A4 | Sealand |
+| B1 | Joan Of Arc |
+| B2 | Joan Of Arc (Maid Of Orleans) |
+| B3 | Architecture & Morality |
+| B4 | Georgia |
+| B5 | The Beginning And The End |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 0602557050820 |
-| Notes | Half Speed Mastered at Abbey Road Studios<br>Includes Digital Download Card<br><br>Pre-recorded at The Gramophone Suite (Liverpool, England).<br><br>Choral tapes on "Souvenir" courtesy of David Hughes.<br>Title suggested by M. Ladly from a book by David Watkin.<br>Produced and created for White Noise Ltd. and on behalf of Architettura Industria.<br><br>© 2018 Virgin Records  Ltd. |
+| Notes | Half Speed Mastered at Abbey Road Studios Includes Digital Download Card  Pre-recorded at The Gramophone Suite (Liverpool, England).  Choral tapes on "Souvenir" courtesy of David Hughes. Title suggested by M. Ladly from a book by David Watkin. Produced and created for White Noise Ltd. and on behalf of Architettura Industria.  © 2018 Virgin Records  Ltd. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Architecture & Morality](https://www.discogs.com/release/12747035-Orchestral-Manoeuvres-In-The-Dark-Architecture-Morality) |

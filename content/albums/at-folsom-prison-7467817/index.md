@@ -35,33 +35,33 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Opening Announcements From Hugh Cherry | 1:01 |
-| A2 | Blue Suede Shoes | 3:31 |
-| A3 | This Ole House | 1:38 |
-| A4 | Announcements And Johnny Cash Intro From Hugh Cherry | 1:04 |
-| A5 | Folsom Prison Blues | 2:36 |
-| A6 | Busted | 1:24 |
-| A7 | Dark As A Dungeon | 3:07 |
-| A8 | I Still Miss Someone | 1:36 |
-| B1 | Cocaine Blues | 2:49 |
-| B2 | 25 Minutes To Go | 2:57 |
-| B3 | I'm Here To Get My Baby Out Of Jail | 2:22 |
-| B4 | Orange Blossom Special | 3:36 |
-| B5 | The Long Black Veil | 3:43 |
-| C1 | Send A Picture Of Mother | 2:10 |
-| C2 | The Wall | 1:54 |
-| C3 | Dirty Old Egg-Sucking Dog | 1:17 |
-| C4 | Flushed From The Bathroom Of Your Heart | 2:24 |
-| C5 | Joe Bean | 2:30 |
-| C6 | Jackson | 3:28 |
-| C7 | I Got A Woman | 4:37 |
-| D1 | The Legend Of John Henry's Hammer | 7:06 |
-| D2 | June's Poem | 0:58 |
-| D3 | Green, Green Grass Of Home | 3:19 |
-| D4 | Greystone Chapel | 2:49 |
-| D5 | Closing Announcements | 1:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Opening Announcements From Hugh Cherry |
+| A2 | Blue Suede Shoes |
+| A3 | This Ole House |
+| A4 | Announcements And Johnny Cash Intro From Hugh Cherry |
+| A5 | Folsom Prison Blues |
+| A6 | Busted |
+| A7 | Dark As A Dungeon |
+| A8 | I Still Miss Someone |
+| B1 | Cocaine Blues |
+| B2 | 25 Minutes To Go |
+| B3 | I'm Here To Get My Baby Out Of Jail |
+| B4 | Orange Blossom Special |
+| B5 | The Long Black Veil |
+| C1 | Send A Picture Of Mother |
+| C2 | The Wall |
+| C3 | Dirty Old Egg-Sucking Dog |
+| C4 | Flushed From The Bathroom Of Your Heart |
+| C5 | Joe Bean |
+| C6 | Jackson |
+| C7 | I Got A Woman |
+| D1 | The Legend Of John Henry's Hammer |
+| D2 | June's Poem |
+| D3 | Green, Green Grass Of Home |
+| D4 | Greystone Chapel |
+| D5 | Closing Announcements |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 | Format         | Vinyl 2× LP Album (180g, Gatefold) |
 | Label          | Columbia |
 | Catalog Number | 88875111971 |
-| Notes | Expanded Vinyl Edition<br>Includes a download-voucher<br>and a 16 page booklet.<br><br>Full, unedited and uncensored concert at Folsom Prison.<br><br>All tracks recorded live January 13, 1968 at Folsom Prison.<br><br>Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./<br>Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
+| Notes | Expanded Vinyl Edition Includes a download-voucher and a 16 page booklet.  Full, unedited and uncensored concert at Folsom Prison.  All tracks recorded live January 13, 1968 at Folsom Prison.  Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./ Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
 | Discogs URL    | [Johnny Cash - At Folsom Prison](https://www.discogs.com/release/7467817-Johnny-Cash-At-Folsom-Prison) |

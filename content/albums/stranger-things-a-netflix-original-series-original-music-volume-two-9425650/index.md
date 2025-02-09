@@ -25,47 +25,47 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A01 | Hopper Sneaks In |  |
-| A02 | I Know What I Saw |  |
-| A03 | Rolling Out The Pool |  |
-| A04 | Over |  |
-| A05 | Gearing Up |  |
-| A06 | Flickering |  |
-| A07 | First Kiss |  |
-| A08 | Crying |  |
-| A09 | Walking Down The Tracks |  |
-| A10 | Where’s Barb? |  |
-| A11 | Speak Of The Devil |  |
-| B01 | Danger Danger |  |
-| B02 | Tribulations |  |
-| B03 | Flashback |  |
-| B04 | Kids Too |  |
-| B05 | Talking To Australia |  |
-| B06 | Night Of The Seventh |  |
-| B07 | See Any Rain? |  |
-| B08 | Coffee & Contemplation |  |
-| B09 | Inside The Back Room |  |
-| B10 | Starts To Rain |  |
-| B11 | Eleven Is Gone |  |
-| C01 | Time For A 187 |  |
-| C02 | Something In The House |  |
-| C03 | Still Pretty |  |
-| C04 | Abilities |  |
-| C05 | Tendril |  |
-| C06 | They Found Us |  |
-| C07 | Bad Men |  |
-| C08 | Spiked Bat |  |
-| C09 | Making Contact |  |
-| C10 | What Do You Know? |  |
-| C11 | It’s Not My Boy |  |
-| D01 | Something In The Wall |  |
-| D02 | Let’s Go |  |
-| D03 | Leap Of Faith |  |
-| D04 | In Pursuit |  |
-| D05 | Breaking And Entering |  |
-| D06 | Stranger Things (Extended) |  |
+| Position | Title |
+|----------|--------|
+| A01 | Hopper Sneaks In |
+| A02 | I Know What I Saw |
+| A03 | Rolling Out The Pool |
+| A04 | Over |
+| A05 | Gearing Up |
+| A06 | Flickering |
+| A07 | First Kiss |
+| A08 | Crying |
+| A09 | Walking Down The Tracks |
+| A10 | Where’s Barb? |
+| A11 | Speak Of The Devil |
+| B01 | Danger Danger |
+| B02 | Tribulations |
+| B03 | Flashback |
+| B04 | Kids Too |
+| B05 | Talking To Australia |
+| B06 | Night Of The Seventh |
+| B07 | See Any Rain? |
+| B08 | Coffee & Contemplation |
+| B09 | Inside The Back Room |
+| B10 | Starts To Rain |
+| B11 | Eleven Is Gone |
+| C01 | Time For A 187 |
+| C02 | Something In The House |
+| C03 | Still Pretty |
+| C04 | Abilities |
+| C05 | Tendril |
+| C06 | They Found Us |
+| C07 | Bad Men |
+| C08 | Spiked Bat |
+| C09 | Making Contact |
+| C10 | What Do You Know? |
+| C11 | It’s Not My Boy |
+| D01 | Something In The Wall |
+| D02 | Let’s Go |
+| D03 | Leap Of Faith |
+| D04 | In Pursuit |
+| D05 | Breaking And Entering |
+| D06 | Stranger Things (Extended) |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ styles: ["Soundtrack", "Score"]
 | Format         | Vinyl 2× LP Album Stereo (Clear [Frosted Clear] With White Blue And Red Splatter) |
 | Label          | Invada |
 | Catalog Number | INV177LP |
-| Notes | Special Thanks Lynn Hobensack and Don Smith<br><br>Music Published by Maisie Anthems (ASCAP)<br><br>This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc.<br>Manufactured and Distributed by Invada/Lakeshore Records, LLC.<br><br>Mailorder exclusive only available through the Invada webstore.<br>Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |
+| Notes | Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |
 | Discogs URL    | [Kyle Dixon - Stranger Things (A Netflix Original Series) Original Music • Volume Two](https://www.discogs.com/release/9425650-Kyle-Dixon-2-Michael-Stein-9-Stranger-Things-A-Netflix-Original-Series-Original-Music-Volume-Two) |

@@ -30,18 +30,18 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If That Don't Tell You |  |
-| A2 | This Is Where We Came In |  |
-| A3 | (Baby) Hold On |  |
-| A4 | Something's Calling |  |
-| A5 | A Truer Heart |  |
-| B1 | Free Your Mind (While You Still Got Time) |  |
-| B2 | Light Of My Life |  |
-| B3 | Stranded |  |
-| B4 | Satchel Foot |  |
-| B5 | In The Dark |  |
+| Position | Title |
+|----------|--------|
+| A1 | If That Don't Tell You |
+| A2 | This Is Where We Came In |
+| A3 | (Baby) Hold On |
+| A4 | Something's Calling |
+| A5 | A Truer Heart |
+| B1 | Free Your Mind (While You Still Got Time) |
+| B2 | Light Of My Life |
+| B3 | Stranded |
+| B4 | Satchel Foot |
+| B5 | In The Dark |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-040 |
-| Notes | Mono (monaural) pressing. Includes download card.<br>© 2016 DAPTONE RECORDS<br><br>Published by Stoketone Publishing, BMI.<br><br>Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.<br><br>Another Bosco Mann production.<br><br>Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206<br><br>Sleeve notes: Sam Boncon, WHIT<br><br>Durations not listed on release. <br><br>Glossy cover with generic with inner sleeve<br><br>Hype sticker on shrink wrap |
+| Notes | Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap |
 | Discogs URL    | [The James Hunter Six - Hold On!](https://www.discogs.com/release/8082430-The-James-Hunter-Six-Hold-On) |

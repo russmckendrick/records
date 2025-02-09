@@ -33,18 +33,18 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intolerance | 4:54 |
-| A2 | Prison Sex | 4:55 |
-| A3 | Sober | 5:06 |
-| B1 | Bottom | 7:13 |
-| B2 | Crawl Away | 5:29 |
-| B3 | Swamp Song | 5:31 |
-| C1 | Undertow | 5:21 |
-| C2 | 4° | 6:02 |
-| C3 | Flood | 7:45 |
-| D | Disgustipated | 15:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Intolerance |
+| A2 | Prison Sex |
+| A3 | Sober |
+| B1 | Bottom |
+| B2 | Crawl Away |
+| B3 | Swamp Song |
+| C1 | Undertow |
+| C2 | 4° |
+| C3 | Flood |
+| D | Disgustipated |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |
-| Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).<br><br>Side "d" is listed as a second side "b" on the back of the release.<br><br>This one comes sealed in new style without horizontal shrink overlap on back<br><br>On labels:<br>℗ & © 1993 Volcano Entertainment II, L.L.C.<br>Manufactured by Zomba Recording Corporation.<br>All rights reserved.  Printed in U.S.A.<br>61422-31052-1<br><br>On back of the vinyl jacket: <br>61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC.<br>Manufactured in the United States by Sony BMG Music Entertainment.<br> |
+| Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment.  |
 | Discogs URL    | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-2-Undertow) |

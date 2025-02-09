@@ -42,18 +42,18 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inclination | 7:15 |
-| A2 | What Life Brings | 3:40 |
-| A3 | Economies of Scale | 4:17 |
-| B1 | Impossible Tightrope | 10:42 |
-| B2 | Rock Bottom | 4:25 |
-| C1 | Beautiful Scarecrow | 5:21 |
-| C2 | The Harmony Codex | 9:50 |
-| D1 | Time Is Running Out | 3:57 |
-| D2 | Actual Brutal Facts | 5:05 |
-| D3 | Staircase | 9:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Inclination |
+| A2 | What Life Brings |
+| A3 | Economies of Scale |
+| B1 | Impossible Tightrope |
+| B2 | Rock Bottom |
+| C1 | Beautiful Scarecrow |
+| C2 | The Harmony Codex |
+| D1 | Time Is Running Out |
+| D2 | Actual Brutal Facts |
+| D3 | Staircase |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Orange) |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7V2 |
-| Notes | Rear sleeve:<br>"00044003353008 / SW7V2 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".<br><br>"Made in Germany" sticker on shrink wrap of the rear sleeve.<br><br>Initial copies sold via the Burning Shed website came with four exclusive postcards in an envelope, flap sealed with a Steven Wilson sticker.<br><br>Includes printed inner sleeve containing lyrics.<br><br>300 copies were sold by Assai Records as part of the Assai Records Obi Editions featuring a numbered Obi signed by Steven Wilson. |
+| Notes | Rear sleeve: "00044003353008 / SW7V2 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".  "Made in Germany" sticker on shrink wrap of the rear sleeve.  Initial copies sold via the Burning Shed website came with four exclusive postcards in an envelope, flap sealed with a Steven Wilson sticker.  Includes printed inner sleeve containing lyrics.  300 copies were sold by Assai Records as part of the Assai Records Obi Editions featuring a numbered Obi signed by Steven Wilson. |
 | Discogs URL    | [Steven Wilson - The Harmony Codex](https://www.discogs.com/release/28432588-Steven-Wilson-The-Harmony-Codex) |

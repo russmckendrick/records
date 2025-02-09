@@ -44,20 +44,20 @@ A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilat
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ceremony |  |
-| A2 | Everything's Gone Green |  |
-| A3 | Temptation |  |
-| B1 | Blue Monday |  |
-| B2 | Confusion |  |
-| B3 | Thieves Like Us |  |
-| C1 | Perfect Kiss |  |
-| C2 | Subculture |  |
-| C3 | Shellshock |  |
-| D1 | State Of The Nation |  |
-| D2 | Bizarre Love Triangle |  |
-| D3 | True Faith |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ceremony |
+| A2 | Everything's Gone Green |
+| A3 | Temptation |
+| B1 | Blue Monday |
+| B2 | Confusion |
+| B3 | Thieves Like Us |
+| C1 | Perfect Kiss |
+| C2 | Subculture |
+| C3 | Shellshock |
+| D1 | State Of The Nation |
+| D2 | Bizarre Love Triangle |
+| D3 | True Faith |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilat
 | Format         | Vinyl LP (Red Translucent), Vinyl LP (Blue Translucent), All Media Compilation Reissue Remastered (180g) |
 | Label          | Factory |
 | Catalog Number | Fact 200 |
-| Notes | Indie exclusive pressing, distributed in an embossed sleeve. Barcode as a sticker on sleeve rather than printed on the sleeve.<br><br>Hype sticker on shrink-wrap:<br>"New Order - Substance<br><br>Remastered double LP<br>red and blue vinyl<br><br>Fact 200"<br><br><br>Inner sleeves:<br>1987 Factory Communications Limited<br><br>A Factory Record ℗ 1987, 2023 Warner Music UK Ltd. © 2023 Warner Music UK Ltd.<br><br>In variant 2 runouts, "21", "1|", and "1△" are mirrored. All is etched.<br> |
+| Notes | Indie exclusive pressing, distributed in an embossed sleeve. Barcode as a sticker on sleeve rather than printed on the sleeve.  Hype sticker on shrink-wrap: "New Order - Substance  Remastered double LP red and blue vinyl  Fact 200"   Inner sleeves: 1987 Factory Communications Limited  A Factory Record ℗ 1987, 2023 Warner Music UK Ltd. © 2023 Warner Music UK Ltd.  In variant 2 runouts, "21", "1|", and "1△" are mirrored. All is etched.  |
 | Discogs URL    | [New Order - Substance](https://www.discogs.com/release/28848151-New-Order-Substance) |

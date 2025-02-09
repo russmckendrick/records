@@ -31,18 +31,18 @@ In 1997, Ivo van Hove directed a new production of the play at the New York Thea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | More Stately Mansions |  |
-| A2 | Sing To God |  |
-| A3 | Easy, Kid |  |
-| A4 | Balloons |  |
-| A5 | Ghosts |  |
-| B1 | Macbethmacbethmacbeth |  |
-| B2 | House |  |
-| B3 | Dresden |  |
-| B4 | Hammers |  |
-| B5 | Film |  |
+| Position | Title |
+|----------|--------|
+| A1 | More Stately Mansions |
+| A2 | Sing To God |
+| A3 | Easy, Kid |
+| A4 | Balloons |
+| A5 | Ghosts |
+| B1 | Macbethmacbethmacbeth |
+| B2 | House |
+| B3 | Dresden |
+| B4 | Hammers |
+| B5 | Film |
 
 
 ## Apple Music

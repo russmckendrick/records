@@ -41,21 +41,21 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | E Talking |  |
-| A2 | Any Minute Now |  |
-| A3 | Please...Don't Be Yourself |  |
-| B1 | Compute |  |
-| B2 | Krack |  |
-| B3 | Slowdance |  |
-| C1 | A Ballad To Forget |  |
-| C2 | Accidents And Compliments |  |
-| C3 | NY Excuse |  |
-| D1 | Miserable Girl |  |
-| D2 | YYY/NNN |  |
-| D3 | The Truth Is So Boring |  |
-| D4 | Dance 2 Slow |  |
+| Position | Title |
+|----------|--------|
+| A1 | E Talking |
+| A2 | Any Minute Now |
+| A3 | Please...Don't Be Yourself |
+| B1 | Compute |
+| B2 | Krack |
+| B3 | Slowdance |
+| C1 | A Ballad To Forget |
+| C2 | Accidents And Compliments |
+| C3 | NY Excuse |
+| D1 | Miserable Girl |
+| D2 | YYY/NNN |
+| D3 | The Truth Is So Boring |
+| D4 | Dance 2 Slow |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 060 DLP |
-| Notes | Sticker: CLEAR VINYL<br><br>Produced and engineered for 140dB.<br><br>Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control<br><br>P & C 2004 Play It Again Sam [PIAS]<br><br>Runouts are etched<br> |
+| Notes | Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS]  Runouts are etched  |
 | Discogs URL    | [Soulwax - Any Minute Now](https://www.discogs.com/release/26815301-Soulwax-Any-Minute-Now) |

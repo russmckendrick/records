@@ -31,22 +31,22 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Why On Fire? |  |
-| A2 | Silver Rings |  |
-| A3 | Interlude |  |
-| A4 | Be Alarmed |  |
-| A5 | I Gotta Limit |  |
-| A6 | Wedding Photo Stranger |  |
-| A7 | Stay On The Ground |  |
-| B1 | I Entered As I Came |  |
-| B2 | There Are Monsters |  |
-| B3 | To Live For What Once Was |  |
-| B4 | Canada Dry |  |
-| B5 | The Snakes Will Slide |  |
-| B6 | Interlude 2 |  |
-| B7 | Sky High |  |
+| Position | Title |
+|----------|--------|
+| A1 | Why On Fire? |
+| A2 | Silver Rings |
+| A3 | Interlude |
+| A4 | Be Alarmed |
+| A5 | I Gotta Limit |
+| A6 | Wedding Photo Stranger |
+| A7 | Stay On The Ground |
+| B1 | I Entered As I Came |
+| B2 | There Are Monsters |
+| B3 | To Live For What Once Was |
+| B4 | Canada Dry |
+| B5 | The Snakes Will Slide |
+| B6 | Interlude 2 |
+| B7 | Sky High |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Gatefold, Psychedelic Swirl) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP817X |
-| Notes | This is the Acid Jazz Exclusive limited Edition gatefold "psychedelic swirl" colour vinyl edition.<br><br>"Once again, the album is testament to Matt’s exceptional musicianship, production skills and songwriting prowess. Almost every instrument is played by Matt including guitars, bass, a variety of keyboards (acoustic and Wurlitzer pianos), synthesizers and organs (including Moogs, Vox, Farfisa, Gibson, Eminent organs) and Mellotron.<br><br>He is joined by long-time collaborator, neo-progressive drummer Craig Blundell, and guests including Pokerface’s Natasha Lyonne and back with Matt is The Shins/Fruit Bats’ Eric D. Johnson (acoustic guitar, autoharp and backing vocals on ‘Why On Fire?’, ‘To Live For What Once Was’ and ‘Snakes That Slide’), Phil Scraggs (lap steel guitar on ‘To Live For What Once Was’ and ‘Snakes That Slide’), Rosie McDermott (vocals on ‘Sky High’) and the S. Club 60s Choir (featuring Matt’s mum)." |
+| Notes | This is the Acid Jazz Exclusive limited Edition gatefold "psychedelic swirl" colour vinyl edition.  "Once again, the album is testament to Matt’s exceptional musicianship, production skills and songwriting prowess. Almost every instrument is played by Matt including guitars, bass, a variety of keyboards (acoustic and Wurlitzer pianos), synthesizers and organs (including Moogs, Vox, Farfisa, Gibson, Eminent organs) and Mellotron.  He is joined by long-time collaborator, neo-progressive drummer Craig Blundell, and guests including Pokerface’s Natasha Lyonne and back with Matt is The Shins/Fruit Bats’ Eric D. Johnson (acoustic guitar, autoharp and backing vocals on ‘Why On Fire?’, ‘To Live For What Once Was’ and ‘Snakes That Slide’), Phil Scraggs (lap steel guitar on ‘To Live For What Once Was’ and ‘Snakes That Slide’), Rosie McDermott (vocals on ‘Sky High’) and the S. Club 60s Choir (featuring Matt’s mum)." |
 | Discogs URL    | [Matt Berry - Heard Noises](https://www.discogs.com/release/32927124-Matt-Berry-3-Heard-Noises) |

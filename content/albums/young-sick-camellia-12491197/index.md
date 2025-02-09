@@ -32,21 +32,21 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cumulus Pt.1 |  |
-| A2 | Convex |  |
-| A3 | GotItBad |  |
-| A4 | NASA |  |
-| A5 | Mature Pt.2 |  |
-| A6 | Apollo |  |
-| B1 | Mr. Invisible |  |
-| B2 | Hurricanes |  |
-| B3 | Dissipating Pt.3 |  |
-| B4 | LivWithOutU |  |
-| B5 | Concave |  |
-| B6 | CaveFlora Pt.1 |  |
-| B7 | Bruised Fruit |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cumulus Pt.1 |
+| A2 | Convex |
+| A3 | GotItBad |
+| A4 | NASA |
+| A5 | Mature Pt.2 |
+| A6 | Apollo |
+| B1 | Mr. Invisible |
+| B2 | Hurricanes |
+| B3 | Dissipating Pt.3 |
+| B4 | LivWithOutU |
+| B5 | Concave |
+| B6 | CaveFlora Pt.1 |
+| B7 | Bruised Fruit |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album |
 | Label          | Records (11) |
 | Catalog Number | 19075878101 |
-| Notes | Standard cover, vinyl being housed in a printed innersleeve.<br><br>On labels and back cover:<br>℗ & © 2018 Records, LLC / Red Music<br>Distributed by Sony Music Entertainment<br>Made in the EU<br><br>Runouts are etched, except MPO(R) inclusive numbers are stamped. |
+| Notes | Standard cover, vinyl being housed in a printed innersleeve.  On labels and back cover: ℗ & © 2018 Records, LLC / Red Music Distributed by Sony Music Entertainment Made in the EU  Runouts are etched, except MPO(R) inclusive numbers are stamped. |
 | Discogs URL    | [St Paul  The Broken Bones - Young Sick Camellia](https://www.discogs.com/release/12491197-St-Paul-The-Broken-Bones-Young-Sick-Camellia) |

@@ -37,30 +37,30 @@ Upon release, the song did not find commercial success, but in later years it ha
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Airlock |  |
-| LP-A2 | God Vs Man |  |
-| LP-A3 | The Boy In The Radio |  |
-| LP-B1 | Why Do We Stay? |  |
-| LP-B2 | Lonely Robot |  |
-| LP-C1 | A Godless Sea |  |
-| LP-C2 | Oubliette |  |
-| LP-C3 | Construct/Obstruct |  |
-| LP-D1 | Are We Copies? |  |
-| LP-D2 | Humans Being |  |
-| LP-D3 | The Red Balloon |  |
-| CD-1 | Airlock | 3:55 |
-| CD-2 | God Vs Man | 5:40 |
-| CD-3 | The Boy In The Radio | 4:49 |
-| CD-4 | Why Do We Stay? | 5:10 |
-| CD-5 | Lonely Robot | 8:07 |
-| CD-6 | A Godless Sea | 5:26 |
-| CD-7 | Oubliette | 5:19 |
-| CD-8 | Construct/Obstruct | 5:46 |
-| CD-9 | Are We Copies? | 6:17 |
-| CD-10 | Human Being | 5:36 |
-| CD-11 | The Red Balloon | 2:01 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Airlock |
+| LP-A2 | God Vs Man |
+| LP-A3 | The Boy In The Radio |
+| LP-B1 | Why Do We Stay? |
+| LP-B2 | Lonely Robot |
+| LP-C1 | A Godless Sea |
+| LP-C2 | Oubliette |
+| LP-C3 | Construct/Obstruct |
+| LP-D1 | Are We Copies? |
+| LP-D2 | Humans Being |
+| LP-D3 | The Red Balloon |
+| CD-1 | Airlock |
+| CD-2 | God Vs Man |
+| CD-3 | The Boy In The Radio |
+| CD-4 | Why Do We Stay? |
+| CD-5 | Lonely Robot |
+| CD-6 | A Godless Sea |
+| CD-7 | Oubliette |
+| CD-8 | Construct/Obstruct |
+| CD-9 | Are We Copies? |
+| CD-10 | Human Being |
+| CD-11 | The Red Balloon |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Upon release, the song did not find commercial success, but in later years it ha
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 415 |
-| Notes | Sticker on front reads:<br>"New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...<br><br>"Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson<br><br>Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.<br><br>On tour in the spring 2015!<br><br>This sticker is removeable."<br><br>Orders through German retailer JPC come with an autographed promo card exclusively. |
+| Notes | Sticker on front reads: "New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...  "Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson  Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.  On tour in the spring 2015!  This sticker is removeable."  Orders through German retailer JPC come with an autographed promo card exclusively. |
 | Discogs URL    | [Lonely Robot - Please Come Home](https://www.discogs.com/release/6681823-Lonely-Robot-Please-Come-Home) |

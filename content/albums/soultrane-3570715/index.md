@@ -33,14 +33,14 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Bait | 12:03 |
-| A2 | I Want To Talk About You | 10:51 |
-| B1 | You Say You Care | 6:14 |
-| B2 | Theme For Ernie | 4:54 |
-| B3 | Russian Lullaby | 5:33 |
-| B4 | Soft Lights And Sweet Music | 4:44 |
+| Position | Title |
+|----------|--------|
+| A1 | Good Bait |
+| A2 | I Want To Talk About You |
+| B1 | You Say You Care |
+| B2 | Theme For Ernie |
+| B3 | Russian Lullaby |
+| B4 | Soft Lights And Sweet Music |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Jazz Wax Records |
 | Catalog Number | JWR 4536 |
-| Notes | Includes bonus track (B4)<br>Direct Metal Mastering. Panoramic Hifi Recording.<br><br>Runouts are stamped<br>Cat# is JWR4536 on labels and JWR 4536 on spine<br><br>Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location) |
+| Notes | Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location) |
 | Discogs URL    | [John Coltrane - Soultrane](https://www.discogs.com/release/3570715-John-Coltrane-Soultrane) |

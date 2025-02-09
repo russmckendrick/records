@@ -27,26 +27,26 @@ styles: ["Soft Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alone | 3:35 |
-| A2 | Kayleigh | 3:32 |
-| A3 | Here I Go Again | 3:52 |
-| A4 | Ride Like The Wind | 4:12 |
-| A5 | Shot In The Dark | 4:18 |
-| A6 | Don't Stop Believin' | 4:08 |
-| A7 | Dead Ringer For Love | 4:21 |
-| A8 | One Lonely Night | 3:18 |
-| A9 | The Final Countdown | 5:06 |
-| B1 | We Built This City | 4:49 |
-| B2 | Calling All Heroes | 4:00 |
-| B3 | Golden Brown | 3:24 |
-| B4 | Nothin' But A Good Time | 3:40 |
-| B5 | Body Running Fast | 3:34 |
-| B6 | Screaming In The Night | 5:26 |
-| B7 | We Care A Lot | 4:02 |
-| B8 | Burning Heart | 3:46 |
-| B9 | St. Elmo's Fire (Man In Motion) | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Alone |
+| A2 | Kayleigh |
+| A3 | Here I Go Again |
+| A4 | Ride Like The Wind |
+| A5 | Shot In The Dark |
+| A6 | Don't Stop Believin' |
+| A7 | Dead Ringer For Love |
+| A8 | One Lonely Night |
+| A9 | The Final Countdown |
+| B1 | We Built This City |
+| B2 | Calling All Heroes |
+| B3 | Golden Brown |
+| B4 | Nothin' But A Good Time |
+| B5 | Body Running Fast |
+| B6 | Screaming In The Night |
+| B7 | We Care A Lot |
+| B8 | Burning Heart |
+| B9 | St. Elmo's Fire (Man In Motion) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Soft Rock"]
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Stylus Music |
 | Catalog Number | SMR 862 |
-| Notes | Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix<br>Track A9 - Europe - The Final Countdown is the Album Version<br>Track B1 - Starship - We Built This City is the Album Version<br>Track B6 - Krokus - Screaming In The Night is a Live Version.<br><br>Durations do not appear on this release. Timings via stopwatch. |
+| Notes | Track A3 - Whitesnake - Here I Go Again is the 1987 US Remix Track A9 - Europe - The Final Countdown is the Album Version Track B1 - Starship - We Built This City is the Album Version Track B6 - Krokus - Screaming In The Night is a Live Version.  Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Various - Soft Metal - It Ain't Heavy . . . ](https://www.discogs.com/release/1205378-Various-Soft-Metal-It-Aint-Heavy--) |

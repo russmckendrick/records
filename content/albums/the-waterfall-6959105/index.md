@@ -33,28 +33,28 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Believe (Nobody Knows) |  |
-| A2 | Compound Fracture |  |
-| A3 | Like A River |  |
-| B1 | In Its Infancy (The Waterfall) |  |
-| B2 | Get The Point |  |
-| C1 | Spring (Among The Living) |  |
-| C2 | Thin Line |  |
-| C3 | Big Decisions |  |
-| D1 | Tropics (Erase Traces) |  |
-| D2 | Only Memories Remain |  |
-| 1 | Believe (Nobody Knows) |  |
-| 2 | Compound Fracture |  |
-| 3 | Like A River |  |
-| 4 | In Its Infancy (The Waterfall) |  |
-| 5 | Get The Point |  |
-| 6 | Spring (Among The Living) |  |
-| 7 | Thin Line |  |
-| 8 | Big Decisions |  |
-| 9 | Tropics (Erase Traces) |  |
-| 10 | Only Memories Remain |  |
+| Position | Title |
+|----------|--------|
+| A1 | Believe (Nobody Knows) |
+| A2 | Compound Fracture |
+| A3 | Like A River |
+| B1 | In Its Infancy (The Waterfall) |
+| B2 | Get The Point |
+| C1 | Spring (Among The Living) |
+| C2 | Thin Line |
+| C3 | Big Decisions |
+| D1 | Tropics (Erase Traces) |
+| D2 | Only Memories Remain |
+| 1 | Believe (Nobody Knows) |
+| 2 | Compound Fracture |
+| 3 | Like A River |
+| 4 | In Its Infancy (The Waterfall) |
+| 5 | Get The Point |
+| 6 | Spring (Among The Living) |
+| 7 | Thin Line |
+| 8 | Big Decisions |
+| 9 | Tropics (Erase Traces) |
+| 10 | Only Memories Remain |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | ATO Records |
 | Catalog Number | ATO0276LP |
-| Notes | Gatefold jacket.<br>Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.<br><br>℗&© 2015 ATO Records, LLC under exclusive license to [PIAS] |
+| Notes | Gatefold jacket. Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.  ℗&© 2015 ATO Records, LLC under exclusive license to [PIAS] |
 | Discogs URL    | [My Morning Jacket - The Waterfall](https://www.discogs.com/release/6959105-My-Morning-Jacket-The-Waterfall) |

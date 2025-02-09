@@ -39,17 +39,17 @@ Third Degree's first single and video, "More", was released as the band revealed
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Loss Inside | 5:50 |
-| A2 | More | 7:10 |
-| A3 | Cadence | 7:40 |
-| B1 | Guardian | 7:11 |
-| B2 | Last Train Home | 10:32 |
-| C1 | Geronimo | 5:20 |
-| C2 | You Are Not Alone | 6:21 |
-| C3 | Love Letter | 5:10 |
-| D1 | Crawl | 11:14 |
+| Position | Title |
+|----------|--------|
+| A1 | The Loss Inside |
+| A2 | More |
+| A3 | Cadence |
+| B1 | Guardian |
+| B2 | Last Train Home |
+| C1 | Geronimo |
+| C2 | You Are Not Alone |
+| C3 | Love Letter |
+| D1 | Crawl |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Third Degree's first single and video, "More", was released as the band revealed
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR 7596 1-2 |
-| Notes | Flying Colors<br>Third Degree<br>New album by virtuoso PROG/POP/ROCK band with (former) members of<br>Deep Purple, Dream Theater, The Winery Dogs,<br>Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic<br><br>Limited to 500 copies<br><br>Includes:<br>1 coaster<br>1 11" x 17" poster<br><br>Runouts hand etched, except MPO logo and job number, which are laser etched. |
+| Notes | Flying Colors Third Degree New album by virtuoso PROG/POP/ROCK band with (former) members of Deep Purple, Dream Theater, The Winery Dogs, Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic  Limited to 500 copies  Includes: 1 coaster 1 11" x 17" poster  Runouts hand etched, except MPO logo and job number, which are laser etched. |
 | Discogs URL    | [Flying Colors - Third Degree](https://www.discogs.com/release/14222306-Flying-Colors-Third-Degree) |

@@ -36,16 +36,16 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thunder Road | 4:50 |
-| A2 | Tenth Avenue Freeze-Out | 3:11 |
-| A3 | Night | 3:01 |
-| A4 | Backstreets | 6:29 |
-| B1 | Born To Run | 4:30 |
-| B2 | She's The One | 4:30 |
-| B3 | Meeting Across The River | 3:16 |
-| B4 | Jungleland | 9:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Thunder Road |
+| A2 | Tenth Avenue Freeze-Out |
+| A3 | Night |
+| A4 | Backstreets |
+| B1 | Born To Run |
+| B2 | She's The One |
+| B3 | Meeting Across The River |
+| B4 | Jungleland |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 | Format         | Vinyl LP Album Misprint Stereo (Gatefold) |
 | Label          | CBS |
 | Catalog Number | S 69170 |
-| Notes | Jon Landau's name is misspelled "John" on the bottom of the back cover.<br><br>Randy Brecker and Michael Brecker appear courtesy of Arista Records.<br>David Sancious appears courtesy of Epic Records.<br>Dave Sanborn appears courtesy of Warner.<br><br>Recorded, mixed, and mastered at Record Plant Studio, New York, N.Y.<br>Track B1, 'Recorded at 914 Sound Studio, Blauvelt, N.Y.'<br>Cover made by 'Interpak by Shorewood Packaging Co. Ltd. England'<br>Cat. # is 69170 on the cover, S 69170 on the label and runout.<br>Black and white photo of the artist on left hand inside cover, song lyrics on both inside covers.<br><br>Label information:<br>Made in England<br>1-4 Intersong Music Ltd. (both labels)<br>Additional catalogue # (PC33795)<br>℗ 1975 CBS Inc.<br><br>Publishing information: <br>All selections © 1975 Laurel Canyon Music Ltd. except "Born To Run," © 1974 Laurel Canyon Music Ltd.<br>Used by permission. All rights reserved.<br>Assigned for UK to Intersong Music Ltd.<br><br>Very special thanks for their patience and help to Roy Cicala and Susan Palmer at Record Plant, N.Y., Columbia Records and Sam McKeith, William Morris Agency.<br><br>All Matrix/Runouts are Etched - Variants 1, 6, 7.<br>All Matrix/Runouts are Stamped - Variants 3 to 5.<br>Matrix/Runouts are Not Known (no information provided) - Variant 2.<br><br><br><br> |
+| Notes | Jon Landau's name is misspelled "John" on the bottom of the back cover.  Randy Brecker and Michael Brecker appear courtesy of Arista Records. David Sancious appears courtesy of Epic Records. Dave Sanborn appears courtesy of Warner.  Recorded, mixed, and mastered at Record Plant Studio, New York, N.Y. Track B1, 'Recorded at 914 Sound Studio, Blauvelt, N.Y.' Cover made by 'Interpak by Shorewood Packaging Co. Ltd. England' Cat. # is 69170 on the cover, S 69170 on the label and runout. Black and white photo of the artist on left hand inside cover, song lyrics on both inside covers.  Label information: Made in England 1-4 Intersong Music Ltd. (both labels) Additional catalogue # (PC33795) ℗ 1975 CBS Inc.  Publishing information:  All selections © 1975 Laurel Canyon Music Ltd. except "Born To Run," © 1974 Laurel Canyon Music Ltd. Used by permission. All rights reserved. Assigned for UK to Intersong Music Ltd.  Very special thanks for their patience and help to Roy Cicala and Susan Palmer at Record Plant, N.Y., Columbia Records and Sam McKeith, William Morris Agency.  All Matrix/Runouts are Etched - Variants 1, 6, 7. All Matrix/Runouts are Stamped - Variants 3 to 5. Matrix/Runouts are Not Known (no information provided) - Variant 2.     |
 | Discogs URL    | [Bruce Springsteen - Born To Run](https://www.discogs.com/release/1663765-Bruce-Springsteen-Born-To-Run) |

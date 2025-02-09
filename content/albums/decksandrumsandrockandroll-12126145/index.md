@@ -35,21 +35,21 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take California |  |
-| A2 | Echo And Bounce |  |
-| A3 | Velvet Pants |  |
-| B1 | Better? |  |
-| B2 | Oh Yeah! |  |
-| B3 | History Repeating |  |
-| B4 | Winning Style |  |
-| C1 | Bang On! |  |
-| C2 | A Number Of Microphones |  |
-| C3 | On Her Majesty’s Secret Service |  |
-| D1 | Bigger? |  |
-| D2 | Cominagetcha |  |
-| D3 | Spybreak! |  |
+| Position | Title |
+|----------|--------|
+| A1 | Take California |
+| A2 | Echo And Bounce |
+| A3 | Velvet Pants |
+| B1 | Better? |
+| B2 | Oh Yeah! |
+| B3 | History Repeating |
+| B4 | Winning Style |
+| C1 | Bang On! |
+| C2 | A Number Of Microphones |
+| C3 | On Her Majesty’s Secret Service |
+| D1 | Bigger? |
+| D2 | Cominagetcha |
+| D3 | Spybreak! |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 | Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
 | Label          | Wall Of Sound |
 | Catalog Number | WALL LPN015 |
-| Notes | Gatefold.<br><br>New copies copies come shrink wrapped with on sticker on the front, stating:<br>"20th anniversary<br>Propellerheads<br>Decksanddrumsandrockandroll<br>Includes: History Repeating<br>(Feat. Miss Shirley Bassey)<br>Spybreak! / Dive..."<br>This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set. |
+| Notes | Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set. |
 | Discogs URL    | [Propellerheads - Decksandrumsandrockandroll](https://www.discogs.com/release/12126145-Propellerheads-Decksandrumsandrockandroll) |

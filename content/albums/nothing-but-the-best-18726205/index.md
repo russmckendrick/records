@@ -31,31 +31,31 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come Fly With Me | 3:14 |
-| A2 | The Best Is Yet To Come | 2:56 |
-| A3 | The Way You Look Tonight | 3:22 |
-| A4 | Luck Be A Lady | 5:15 |
-| A5 | Bewitched | 3:00 |
-| B1 | The Good Life | 2:27 |
-| B2 | The Girl From Ipanema | 3:14 |
-| B3 | Fly Me To The Moon (In Other Words) | 2:28 |
-| B4 | Summer Wind | 2:55 |
-| B5 | Strangers In The Night | 2:45 |
-| B6 | Call Me Irresponsible | 2:56 |
-| C1 | Somethin' Stupid | 2:40 |
-| C2 | My Kind Of Town | 3:11 |
-| C3 | It Was A Very Good Year | 4:27 |
-| C4 | That's Life | 3:07 |
-| C5 | Moonlight Serenade | 3:28 |
-| C6 | Nothing But The Best | 3:00 |
-| D1 | Drinking Again | 3:15 |
-| D2 | All My Tomorrows | 4:35 |
-| D3 | My Way | 4:36 |
-| D4 | Theme From New York, New York | 3:25 |
-|  | Bonus Track |  |
-| D5 | Body And Soul (Previously Unissued) | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Come Fly With Me |
+| A2 | The Best Is Yet To Come |
+| A3 | The Way You Look Tonight |
+| A4 | Luck Be A Lady |
+| A5 | Bewitched |
+| B1 | The Good Life |
+| B2 | The Girl From Ipanema |
+| B3 | Fly Me To The Moon (In Other Words) |
+| B4 | Summer Wind |
+| B5 | Strangers In The Night |
+| B6 | Call Me Irresponsible |
+| C1 | Somethin' Stupid |
+| C2 | My Kind Of Town |
+| C3 | It Was A Very Good Year |
+| C4 | That's Life |
+| C5 | Moonlight Serenade |
+| C6 | Nothing But The Best |
+| D1 | Drinking Again |
+| D2 | All My Tomorrows |
+| D3 | My Way |
+| D4 | Theme From New York, New York |
+|  | Bonus Track |
+| D5 | Body And Soul (Previously Unissued) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 | Format         | Vinyl LP (Blue), Vinyl LP (Transparent), All Media Compilation Limited Edition Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 00602435639901 |
-| Notes | Limited Edition - Exclusive Transparent Blue & Clear Vinyl <br>First Time on Vinyl<br><br>Manufactured in the E.U. |
+| Notes | Limited Edition - Exclusive Transparent Blue & Clear Vinyl  First Time on Vinyl  Manufactured in the E.U. |
 | Discogs URL    | [Frank Sinatra - Nothing But The Best](https://www.discogs.com/release/18726205-Frank-Sinatra-Nothing-But-The-Best) |

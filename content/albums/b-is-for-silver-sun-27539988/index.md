@@ -24,19 +24,19 @@ styles: ["Power Pop", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tokyo E Ikitai |  |
-| A2 | 17 Times |  |
-| A3 | In Nature |  |
-| A4 | High Times |  |
-| A5 | It Couldn’t Be You |  |
-| A6 | She’ll Do |  |
-| B1 | Angel Eyes |  |
-| B2 | Made For You |  |
-| B3 | Reasons To Live |  |
-| B4 | American Metal |  |
-| B5 | Tokyo E Ikitai (Instrumental) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tokyo E Ikitai |
+| A2 | 17 Times |
+| A3 | In Nature |
+| A4 | High Times |
+| A5 | It Couldn’t Be You |
+| A6 | She’ll Do |
+| B1 | Angel Eyes |
+| B2 | Made For You |
+| B3 | Reasons To Live |
+| B4 | American Metal |
+| B5 | Tokyo E Ikitai (Instrumental) |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Power Pop", "Alternative Rock"]
 | Format         | Vinyl LP Album Compilation Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1038 |
-| Notes | All the tracks were taken from the two-part U.K. singles for "Golden Skin," "Julia" and one from the re-released "Lava”. Previously only available exclusively in Japan. Now pressed on vinyl for the very first time.<br><br>Pressed on 140g black vinyl with printed inner sleeves. |
+| Notes | All the tracks were taken from the two-part U.K. singles for "Golden Skin," "Julia" and one from the re-released "Lava”. Previously only available exclusively in Japan. Now pressed on vinyl for the very first time.  Pressed on 140g black vinyl with printed inner sleeves. |
 | Discogs URL    | [Silver Sun - ‘B’ is for Silver Sun](https://www.discogs.com/release/27539988-Silver-Sun-B-is-for-Silver-Sun) |

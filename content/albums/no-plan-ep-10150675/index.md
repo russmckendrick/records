@@ -29,12 +29,12 @@ styles: ["Art Rock", "Jazz-Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lazarus | 6:24 |
-| A2 | No Plan | 3:40 |
-| A3 | Killing A Little Time | 3:46 |
-| A4 | When I Met You | 4:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Lazarus |
+| A2 | No Plan |
+| A3 | Killing A Little Time |
+| A4 | When I Met You |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Art Rock", "Jazz-Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Etched Stereo (180 Gram) |
 | Label          | ISO Records |
 | Catalog Number | 88985419651 |
-| Notes | David Bowie's full name and cat# on spine<br>On sleeve: Made in the EU. / LC00162 / 88985419651<br>On label: Made in the EU. / BIEM/GEMA / LC00162<br><br>The Bowie tracks previously only available on the Lazarus cast recording soundtrack are now available as an EP with digital download.<br><br>1st Vinyl release of earlier EP on CD [r9876483].<br><br>Note: Comes with a download code for a digital copy. From vinyl to digital  (offer valid to 31.12.2018). See: [r9627868].<br><br>Some copies of this vinyl were released with the incorrect sticker on the front that states "[url=https://www.discogs.com/David-Bowie-No-Plan-EP/release/10173317]Limited Edition Clear Vinyl[/url]" and the cat # 88985419621. |
+| Notes | David Bowie's full name and cat# on spine On sleeve: Made in the EU. / LC00162 / 88985419651 On label: Made in the EU. / BIEM/GEMA / LC00162  The Bowie tracks previously only available on the Lazarus cast recording soundtrack are now available as an EP with digital download.  1st Vinyl release of earlier EP on CD [r9876483].  Note: Comes with a download code for a digital copy. From vinyl to digital  (offer valid to 31.12.2018). See: [r9627868].  Some copies of this vinyl were released with the incorrect sticker on the front that states "[url=https://www.discogs.com/David-Bowie-No-Plan-EP/release/10173317]Limited Edition Clear Vinyl[/url]" and the cat # 88985419621. |
 | Discogs URL    | [David Bowie - No Plan EP](https://www.discogs.com/release/10150675-David-Bowie-No-Plan-EP) |

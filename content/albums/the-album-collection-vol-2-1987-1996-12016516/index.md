@@ -28,85 +28,85 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Tunnel Of Love |  |
-| A1 | Ain't Got You |  |
-| A2 | Tougher Than The Rest |  |
-| A3 | All That Heaven Will Allow |  |
-| B1 | Spare Parts |  |
-| B2 | Cautious Man |  |
-| B3 | Walk Like A Man |  |
-| C1 | Tunnel Of Love |  |
-| C2 | Two Faces |  |
-| C3 | Brilliant Disguise |  |
-| D1 | One Step Up |  |
-| D2 | When You're Alone |  |
-| D3 | Valentine's Day |  |
-|  | Human Touch |  |
-| E1 | Human Touch |  |
-| E2 | Soul Driver |  |
-| E3 | 57 Channels (And Nothin' On) |  |
-| F1 | Cross My Heart |  |
-| F2 | Gloria's Eyes |  |
-| F3 | With Every Wish |  |
-| F4 | Roll Of The Dice |  |
-| G1 | Real World |  |
-| G2 | All Or Nothin' At All |  |
-| G3 | Man's Job |  |
-| H1 | I Wish I Were Blind |  |
-| H2 | The Long Goodbye |  |
-| H3 | Real Man |  |
-| H4 | Pony Boy |  |
-|  | Lucky Town |  |
-| I1 | Better Days |  |
-| I2 | Lucky Town |  |
-| I3 | Local Hero |  |
-| I4 | If I Should Fall Behind |  |
-| I5 | Leap Of Faith |  |
-| J1 | The Big Muddy |  |
-| J2 | Living Proof |  |
-| J3 | Book Of Dreams |  |
-| J4 | Souls Of The Departed |  |
-| J5 | My Beautiful Reward |  |
-|  | In Concert - Mtv Plugged |  |
-| K1 | Red Headed Woman |  |
-| K2 | Better Days |  |
-| K3 | Atlantic City |  |
-| K4 | Darkness On The Edge Of Town |  |
-| L1 | Man's Job |  |
-| L2 | Human Touch |  |
-| L3 | Lucky Town |  |
-| M1 | I Wish I Were Blind |  |
-| M2 | Thunder Road |  |
-| M3 | Light Of Day |  |
-| N1 | If I Should Fall Behind |  |
-| N2 | Living Proof |  |
-| N3 | My Beautiful Reward |  |
-|  | The Ghost Of Tom Joad |  |
-| O1 | The Ghost Of Tom Joad |  |
-| O2 | Straight Time |  |
-| O3 | Highway 29 |  |
-| O4 | Youngstown |  |
-| O5 | Sinaloa Cowboys |  |
-| O6 | The Line |  |
-| P1 | Balboa Park |  |
-| P2 | Dry Lightning |  |
-| P3 | The New Timer |  |
-| P4 | Across The Border |  |
-| P5 | Galveston Bay |  |
-| P6 | My Best Was Never Good Enough |  |
-|  | Chimes Of Freedom |  |
-| Q1 | Tougher Than The Rest (Live) |  |
-| Q2 | Be True (Live) |  |
-| R1 | Chimes Of Freedom (Live) |  |
-| R2 | Born To Run (Live - Acoustic) |  |
-|  | Blood Brothers |  |
-| S1 | Blood Brothers (Alternate Version) |  |
-| S2 | High Hopes |  |
-| T1 | Murder Incorporated (Live From Tramps) |  |
-| T2 | Secret Garden (With Strings) |  |
-| T3 | Without You |  |
+| Position | Title |
+|----------|--------|
+|  | Tunnel Of Love |
+| A1 | Ain't Got You |
+| A2 | Tougher Than The Rest |
+| A3 | All That Heaven Will Allow |
+| B1 | Spare Parts |
+| B2 | Cautious Man |
+| B3 | Walk Like A Man |
+| C1 | Tunnel Of Love |
+| C2 | Two Faces |
+| C3 | Brilliant Disguise |
+| D1 | One Step Up |
+| D2 | When You're Alone |
+| D3 | Valentine's Day |
+|  | Human Touch |
+| E1 | Human Touch |
+| E2 | Soul Driver |
+| E3 | 57 Channels (And Nothin' On) |
+| F1 | Cross My Heart |
+| F2 | Gloria's Eyes |
+| F3 | With Every Wish |
+| F4 | Roll Of The Dice |
+| G1 | Real World |
+| G2 | All Or Nothin' At All |
+| G3 | Man's Job |
+| H1 | I Wish I Were Blind |
+| H2 | The Long Goodbye |
+| H3 | Real Man |
+| H4 | Pony Boy |
+|  | Lucky Town |
+| I1 | Better Days |
+| I2 | Lucky Town |
+| I3 | Local Hero |
+| I4 | If I Should Fall Behind |
+| I5 | Leap Of Faith |
+| J1 | The Big Muddy |
+| J2 | Living Proof |
+| J3 | Book Of Dreams |
+| J4 | Souls Of The Departed |
+| J5 | My Beautiful Reward |
+|  | In Concert - Mtv Plugged |
+| K1 | Red Headed Woman |
+| K2 | Better Days |
+| K3 | Atlantic City |
+| K4 | Darkness On The Edge Of Town |
+| L1 | Man's Job |
+| L2 | Human Touch |
+| L3 | Lucky Town |
+| M1 | I Wish I Were Blind |
+| M2 | Thunder Road |
+| M3 | Light Of Day |
+| N1 | If I Should Fall Behind |
+| N2 | Living Proof |
+| N3 | My Beautiful Reward |
+|  | The Ghost Of Tom Joad |
+| O1 | The Ghost Of Tom Joad |
+| O2 | Straight Time |
+| O3 | Highway 29 |
+| O4 | Youngstown |
+| O5 | Sinaloa Cowboys |
+| O6 | The Line |
+| P1 | Balboa Park |
+| P2 | Dry Lightning |
+| P3 | The New Timer |
+| P4 | Across The Border |
+| P5 | Galveston Bay |
+| P6 | My Best Was Never Good Enough |
+|  | Chimes Of Freedom |
+| Q1 | Tougher Than The Rest (Live) |
+| Q2 | Be True (Live) |
+| R1 | Chimes Of Freedom (Live) |
+| R2 | Born To Run (Live - Acoustic) |
+|  | Blood Brothers |
+| S1 | Blood Brothers (Alternate Version) |
+| S2 | High Hopes |
+| T1 | Murder Incorporated (Live From Tramps) |
+| T2 | Secret Garden (With Strings) |
+| T3 | Without You |
 
 
 ## Apple Music
@@ -123,5 +123,5 @@ styles: []
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 12" EP Reissue Remastered, Vinyl 12" EP Remastered (First Vinyl Pressing), Box Set Compilation Limited Edition Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985460181 |
-| Notes | Certificate of authenticity with number inside the box.<br>60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996.<br>The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD. <br>All other albums contained in the set are reissues.   |
+| Notes | Certificate of authenticity with number inside the box. 60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996. The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD.  All other albums contained in the set are reissues.   |
 | Discogs URL    | [Bruce Springsteen - The Album Collection Vol. 2, 1987-1996](https://www.discogs.com/release/12016516-Bruce-Springsteen-The-Album-Collection-Vol-2-1987-1996) |

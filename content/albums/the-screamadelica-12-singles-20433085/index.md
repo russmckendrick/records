@@ -28,42 +28,42 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Loaded EP |  |
-| A | Loaded | 7:00 |
-| B1 | I'm Losing More Than I'll Ever Have | 4:45 |
-| B2 | Ramblin' Rose (Live In NYC) | 2:27 |
-|  | Loaded EP |  |
-| C | Loaded (Terry Farley Re-Mix) | 5:59 |
-| D1 | I'm Losing More Than I'll Ever Have | 4:45 |
-| D2 | Ramblin' Rose (Live In NYC) | 2:27 |
-|  | Come Together |  |
-| E | Come Together (Terry Farley Extended Mix)  | 8:02 |
-| F | Come Together (Andrew Weatherall Extended Mix) | 10:12 |
-|  | Come Together |  |
-| G | Come Together (The Hypnotonebrainmachine Mix) | 5:14 |
-| H | Come Together (BBG Mix) | 6:27 |
-|  | Higher Than The Sun |  |
-| I | Higher Than The Sun (Higher Than The Sun 12" Mix) | 6:43 |
-| J | Higher Than The Sun (American Spring Mix) | 6:20 |
-|  | Higher Than The Sun |  |
-| K | Higher Than The Sun (A Dub Symphony In Two Parts) | 7:30 |
-| L | Higher Than The Sun (Higher Than The Orb Extended Mix) | 5:00 |
-|  | Don't Fight It, Feel It |  |
-| M | Don't Fight It, Feel It (12" Version) | 7:06 |
-| N | Don't Fight It, Feel It (Scat Mix) | 7:55 |
-|  | Don't Fight It, Feel It |  |
-| O | Don't Fight It, Feel It (Graham Massey Mix) | 4:57 |
-| P | Don't Fight It, Feel It (Instrumental) | 4:16 |
-|  | Dixie Narco EP |  |
-| Q1 | Movin' On Up | 3:51 |
-| Q2 | Stone My Soul | 3:02 |
-| Q3 | Carry Me Home | 5:16 |
-| R | Screamadelica  | 10:47 |
-|  | Shine Like Stars |  |
-| S | Shine Like Stars (Andrew Weatherall Remix) | 6:52 |
-| T | Shine Like Stars (Instrumental) | 6:52 |
+| Position | Title |
+|----------|--------|
+|  | Loaded EP |
+| A | Loaded |
+| B1 | I'm Losing More Than I'll Ever Have |
+| B2 | Ramblin' Rose (Live In NYC) |
+|  | Loaded EP |
+| C | Loaded (Terry Farley Re-Mix) |
+| D1 | I'm Losing More Than I'll Ever Have |
+| D2 | Ramblin' Rose (Live In NYC) |
+|  | Come Together |
+| E | Come Together (Terry Farley Extended Mix)  |
+| F | Come Together (Andrew Weatherall Extended Mix) |
+|  | Come Together |
+| G | Come Together (The Hypnotonebrainmachine Mix) |
+| H | Come Together (BBG Mix) |
+|  | Higher Than The Sun |
+| I | Higher Than The Sun (Higher Than The Sun 12" Mix) |
+| J | Higher Than The Sun (American Spring Mix) |
+|  | Higher Than The Sun |
+| K | Higher Than The Sun (A Dub Symphony In Two Parts) |
+| L | Higher Than The Sun (Higher Than The Orb Extended Mix) |
+|  | Don't Fight It, Feel It |
+| M | Don't Fight It, Feel It (12" Version) |
+| N | Don't Fight It, Feel It (Scat Mix) |
+|  | Don't Fight It, Feel It |
+| O | Don't Fight It, Feel It (Graham Massey Mix) |
+| P | Don't Fight It, Feel It (Instrumental) |
+|  | Dixie Narco EP |
+| Q1 | Movin' On Up |
+| Q2 | Stone My Soul |
+| Q3 | Carry Me Home |
+| R | Screamadelica  |
+|  | Shine Like Stars |
+| S | Shine Like Stars (Andrew Weatherall Remix) |
+| T | Shine Like Stars (Instrumental) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 | Format         | Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single (180g), Box Set Compilation |
 | Label          | Sony Music |
 | Catalog Number | 19439904541 |
-| Notes | Includes download code and 3 Paul Carnell art prints.<br><br>A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets. <br>Some others are packaged upside down and the back cover is attached to the front side of the box. |
+| Notes | Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box. |
 | Discogs URL    | [Primal Scream - The Screamadelica 12" Singles](https://www.discogs.com/release/20433085-Primal-Scream-The-Screamadelica-12-Singles) |

@@ -27,20 +27,20 @@ styles: ["Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chelsea |  |
-| A2 | City Federal Building |  |
-| A3 | Magnolia Trees |  |
-| A4 | Sea Star |  |
-| A5 | Heat Lightning |  |
-| A6 | Angels In Science Fiction |  |
-| B1 | Wolf In Rabbit Clothes |  |
-| B2 | South Dakota |  |
-| B3 | Oporto-Madrid Blvd |  |
-| B4 | Lonely Love Song |  |
-| B5 | Easter Bunny |  |
-| B6 | Marigold |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chelsea |
+| A2 | City Federal Building |
+| A3 | Magnolia Trees |
+| A4 | Sea Star |
+| A5 | Heat Lightning |
+| A6 | Angels In Science Fiction |
+| B1 | Wolf In Rabbit Clothes |
+| B2 | South Dakota |
+| B3 | Oporto-Madrid Blvd |
+| B4 | Lonely Love Song |
+| B5 | Easter Bunny |
+| B6 | Marigold |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
 | Label          | ATO Records |
 | Catalog Number | ATO0599LP |
-| Notes | Tracks listed as 01 - 12 on rear of sleeve<br><br>Comes with a 12-page booklet.<br><br>Runouts are stamped. |
+| Notes | Tracks listed as 01 - 12 on rear of sleeve  Comes with a 12-page booklet.  Runouts are stamped. |
 | Discogs URL    | [St Paul  The Broken Bones - Angels In Science Fiction](https://www.discogs.com/release/26822072-St-Paul-The-Broken-Bones-Angels-In-Science-Fiction) |

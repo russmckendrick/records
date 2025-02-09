@@ -39,31 +39,31 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Losin' Your Mind | 5:47 |
-| A2 | The Blessed Hellride | 4:23 |
-| A3 | Sold My Soul | 7:36 |
-| A4 | Road Back Home | 6:10 |
-| B1 | Spoke In The Wheel | 5:17 |
-| B2 | House Of Doom | 4:22 |
-| B3 | Queen Of Sorrow | 3:48 |
-| B4 | Machine Gun Man | 4:51 |
-| B5 | Sweet Jesus | 4:38 |
-| C1 | In This River | 6:41 |
-| C2 | Throwin' It All Away | 11:07 |
-| C3 | Takillya (Estyabon) | 1:39 |
-| D1 | Won't Find It Here | 8:47 |
-| D2 | Rust | 5:27 |
-| D3 | Speedball | 1:05 |
-| D4 | I Thank You Child | 5:02 |
-| E1 | Stillborn | 8:25 |
-| E2 | Ain't No Sunshine When She's Gone | 3:31 |
-| E3 | Lovin' Woman | 5:05 |
-| E4 | Queen Of Sorrow (Unplugged) | 4:14 |
-| F1 | Song For You | 5:08 |
-| F2 | Won't Find It Here (Unplugged) | 6:55 |
-| F3 | Yesterday, Today, Tomorrow | 4:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Losin' Your Mind |
+| A2 | The Blessed Hellride |
+| A3 | Sold My Soul |
+| A4 | Road Back Home |
+| B1 | Spoke In The Wheel |
+| B2 | House Of Doom |
+| B3 | Queen Of Sorrow |
+| B4 | Machine Gun Man |
+| B5 | Sweet Jesus |
+| C1 | In This River |
+| C2 | Throwin' It All Away |
+| C3 | Takillya (Estyabon) |
+| D1 | Won't Find It Here |
+| D2 | Rust |
+| D3 | Speedball |
+| D4 | I Thank You Child |
+| E1 | Stillborn |
+| E2 | Ain't No Sunshine When She's Gone |
+| E3 | Lovin' Woman |
+| E4 | Queen Of Sorrow (Unplugged) |
+| F1 | Song For You |
+| F2 | Won't Find It Here (Unplugged) |
+| F3 | Yesterday, Today, Tomorrow |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 | Format         | Vinyl 3× LP Album Limited Edition (Clear) |
 | Label          | Vinyl Vault |
 | Catalog Number | VV3LP011 |
-| Notes | Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’. <br>This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers.<br> |
+| Notes | Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’.   This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers.   |
 | Discogs URL    | [Black Label Society - Unblackened](https://www.discogs.com/release/6224254-Black-Label-Society-Unblackened) |

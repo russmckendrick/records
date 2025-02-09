@@ -33,25 +33,25 @@ Space Ritual (officially known as The Space Ritual Alive in Liverpool and London
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Earth Calling |  |
-| A2 | Born To Go |  |
-| A3 | Down Through The Night |  |
-| A4 | The Awakening |  |
-| B1 | Lord Of Light |  |
-| B2 | The Black Corridor |  |
-| B3 | Space Is Deep |  |
-| B4 | Electronic No. 1 |  |
-| C1 | Orgone Accumulator |  |
-| C2 | Upside Down |  |
-| C3 | 10 Seconds Of Forever |  |
-| C4 | Brainstorm |  |
-| D1 | 7 By 7 |  |
-| D2 | Sonic Attack |  |
-| D3 | Time We Left This World Today |  |
-| D4 | Master Of The Universe |  |
-| D5 | Welcome To The Future |  |
+| Position | Title |
+|----------|--------|
+| A1 | Earth Calling |
+| A2 | Born To Go |
+| A3 | Down Through The Night |
+| A4 | The Awakening |
+| B1 | Lord Of Light |
+| B2 | The Black Corridor |
+| B3 | Space Is Deep |
+| B4 | Electronic No. 1 |
+| C1 | Orgone Accumulator |
+| C2 | Upside Down |
+| C3 | 10 Seconds Of Forever |
+| C4 | Brainstorm |
+| D1 | 7 By 7 |
+| D2 | Sonic Attack |
+| D3 | Time We Left This World Today |
+| D4 | Master Of The Universe |
+| D5 | Welcome To The Future |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Space Ritual (officially known as The Space Ritual Alive in Liverpool and London
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered Stereo (Sky Blue With Yellow And Red Splatter) |
 | Label          | Atomhenge |
 | Catalog Number | QATOMLP21052 |
-| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online<br>Includes a foldout poster insert<br><br><br><br>[Labels]<br>The original album remastered<br>℗ 2023 Parlophone Records Ltd. <br>© 2023 Cherry Red Records Ltd.<br>Made in the EU<br><br>Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |
+| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online Includes a foldout poster insert    [Labels] The original album remastered ℗ 2023 Parlophone Records Ltd.  © 2023 Cherry Red Records Ltd. Made in the EU  Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |
 | Discogs URL    | [Hawkwind - Space Ritual](https://www.discogs.com/release/28412089-Hawkwind-Space-Ritual) |

@@ -33,18 +33,18 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Act We Act |  |
-| A2 | A Good Idea |  |
-| A3 | Changes  |  |
-| A4 | Helpless |  |
-| A5 | Hoover Dam |  |
-| B1 | The Slim |  |
-| B2 | If I Can't Change Your Mind |  |
-| B3 | Fortune Teller |  |
-| B4 | Slick |  |
-| B5 | Man On The Moon |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Act We Act |
+| A2 | A Good Idea |
+| A3 | Changes  |
+| A4 | Helpless |
+| A5 | Hoover Dam |
+| B1 | The Slim |
+| B2 | If I Can't Change Your Mind |
+| B3 | Fortune Teller |
+| B4 | Slick |
+| B5 | Man On The Moon |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 | Format         | Vinyl LP Album Reissue Remastered (Clear) |
 | Label          | Granary Music |
 | Catalog Number | DEMREC644 |
-| Notes | Originally issued as CRELP129 on Creation Records, 4th September 1992<br><br>Printed inner sleeves with lyrics |
+| Notes | Originally issued as CRELP129 on Creation Records, 4th September 1992  Printed inner sleeves with lyrics |
 | Discogs URL    | [Sugar - Copper Blue](https://www.discogs.com/release/15116960-Sugar-5-Copper-Blue) |

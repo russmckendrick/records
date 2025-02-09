@@ -26,18 +26,18 @@ Following their first studio album in ten years, 2019's Renaissance Men, the Wil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 21st Century Love Songs |  |
-| A2 | Remember These Days |  |
-| A3 | Splitter |  |
-| A4 | Institutional Submission |  |
-| A5 | Sleepaway |  |
-| B1 | You Do You |  |
-| B2 | Sort Your Fucking Shit Out |  |
-| B3 | Directions |  |
-| B4 | A Physical Exorcism |  |
-| B5 | My Head Wants Me Dead |  |
+| Position | Title |
+|----------|--------|
+| A1 | 21st Century Love Songs |
+| A2 | Remember These Days |
+| A3 | Splitter |
+| A4 | Institutional Submission |
+| A5 | Sleepaway |
+| B1 | You Do You |
+| B2 | Sort Your Fucking Shit Out |
+| B3 | Directions |
+| B4 | A Physical Exorcism |
+| B5 | My Head Wants Me Dead |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ Following their first studio album in ten years, 2019's Renaissance Men, the Wil
 | Format         | Vinyl LP Album |
 | Label          | Graphite Records (3) |
 | Catalog Number | GRAPHFAR36LP |
-| Notes | Standard black vinyl edition.<br>Gatefold sleeve with lyric sheet insert housed in a poly sleeve (never sealed).<br>First 500 copies pre-ordered from www.omerch.eu/shop/thewildhearts came with a fully-autographed A4 print (drawing of band members) and a band logo sticker.<br>Copies sold on merchandise stand on September 2021 UK tour came with a fully-autographed A4 print (front cover artwork design).<br> |
+| Notes | Standard black vinyl edition. Gatefold sleeve with lyric sheet insert housed in a poly sleeve (never sealed). First 500 copies pre-ordered from www.omerch.eu/shop/thewildhearts came with a fully-autographed A4 print (drawing of band members) and a band logo sticker. Copies sold on merchandise stand on September 2021 UK tour came with a fully-autographed A4 print (front cover artwork design).  |
 | Discogs URL    | [The Wildhearts - 21st Century Love Songs](https://www.discogs.com/release/20195590-The-Wildhearts-21st-Century-Love-Songs) |

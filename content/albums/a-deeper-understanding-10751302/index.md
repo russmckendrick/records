@@ -41,18 +41,18 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Up All Night | 6:24 |
-| A2 | Pain | 5:31 |
-| A3 | Holding On | 5:51 |
-| B1 | Strangest Thing | 6:41 |
-| B2 | Knocked Down | 4:00 |
-| B3 | Nothing To Find | 6:10 |
-| C1 | Thinking Of A Place | 11:10 |
-| C2 | In Chains | 7:21 |
-| D1 | Clean Living | 6:28 |
-| D2 | You Don't Have To Go | 6:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Up All Night |
+| A2 | Pain |
+| A3 | Holding On |
+| B1 | Strangest Thing |
+| B2 | Knocked Down |
+| B3 | Nothing To Find |
+| C1 | Thinking Of A Place |
+| C2 | In Chains |
+| D1 | Clean Living |
+| D2 | You Don't Have To Go |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Atlantic |
 | Catalog Number | 7567-86606-2 |
-| Notes | Sold exclusively at independent record stores.<br>Gatefold sleeve. Printed inner sleeves, download code and lyrics insert included.<br><br>Called "Coke Bottle Clear" on the sticker, it looks more like frosted clear.<br><br>Catalogue numbers:<br>7567-86606-2 - On spine<br>561934-1 - On record labels<br><br>℗ © 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the outside of the United States.<br>Manufactured in the E.U.<br><br>Recorded 2015-2017 at Sonora Recorders, Boulevard Recording, East West, United Recorders, Shawn's Truckstop Studio, Electric Lady, Thump Recording<br><br>Additional Recording by Nicolas Vernhes at Rare Book Room, Daniel Schlett at Strange Weather, Nick Krill at Future Past and Kawari Sound, Jeff Zeigler at Uniform Recording, Gabe Wax at Vox Studios<br><br>All words And music [...] published by Sea Formation Music (ASCAP) except 'Holding On' [...] published by Sea Formation Music (ASCAP) and Son Of Saw Publishing (BMI) |
+| Notes | Sold exclusively at independent record stores. Gatefold sleeve. Printed inner sleeves, download code and lyrics insert included.  Called "Coke Bottle Clear" on the sticker, it looks more like frosted clear.  Catalogue numbers: 7567-86606-2 - On spine 561934-1 - On record labels  ℗ © 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the outside of the United States. Manufactured in the E.U.  Recorded 2015-2017 at Sonora Recorders, Boulevard Recording, East West, United Recorders, Shawn's Truckstop Studio, Electric Lady, Thump Recording  Additional Recording by Nicolas Vernhes at Rare Book Room, Daniel Schlett at Strange Weather, Nick Krill at Future Past and Kawari Sound, Jeff Zeigler at Uniform Recording, Gabe Wax at Vox Studios  All words And music [...] published by Sea Formation Music (ASCAP) except 'Holding On' [...] published by Sea Formation Music (ASCAP) and Son Of Saw Publishing (BMI) |
 | Discogs URL    | [The War On Drugs - A Deeper Understanding](https://www.discogs.com/release/10751302-The-War-On-Drugs-A-Deeper-Understanding) |

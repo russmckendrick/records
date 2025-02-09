@@ -33,21 +33,21 @@ Greatest Hits is a compilation album by the British blues rock band Fleetwood Ma
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rhiannon | 4:12 |
-| A2 | Don't Stop | 3:12 |
-| A3 | Go Your Own Way | 3:36 |
-| A4 | Hold Me | 3:45 |
-| A5 | Everywhere | 3:42 |
-| A6 | Gypsy | 4:25 |
-| A7 | As Long As You Follow | 4:08 |
-| B1 | Say You Love Me | 4:11 |
-| B2 | Dreams | 4:16 |
-| B3 | Little Lies | 3:39 |
-| B4 | Sara | 6:26 |
-| B5 | Tusk | 3:36 |
-| B6 | No Questions Asked | 4:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Rhiannon |
+| A2 | Don't Stop |
+| A3 | Go Your Own Way |
+| A4 | Hold Me |
+| A5 | Everywhere |
+| A6 | Gypsy |
+| A7 | As Long As You Follow |
+| B1 | Say You Love Me |
+| B2 | Dreams |
+| B3 | Little Lies |
+| B4 | Sara |
+| B5 | Tusk |
+| B6 | No Questions Asked |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Greatest Hits is a compilation album by the British blues rock band Fleetwood Ma
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122795935 |
-| Notes | Sticker on shrink-wrap reads:<br>"8X Platinum Collection<br>13 Tracks Of Classic Fleetwood Mac<br> -Including-  <br>Go Your Own Way <br>Don't Stop • Gypsy <br>Rhiannon • Dreams<br>Little Lies<br>8122795935"<br><br>Comes with a printed inner sleeve, containing liner note, credits and photos.<br><br>Published By:<br>Tracks A1, A6, B2, B4 & B6: Welsh Witch Music BMI.<br>Tracks A2, A4, A5, A7, B1, B3: Fleetwood Mac Music BMI.<br>Tracks A3, A5: Now Sounds Music BMI.<br><br>© 1988 Warner Bros. Records for the U.S. and WEA International Inc. for the world outside the U.S.<br>℗ 1975, 1977, 1979, 1982, 1987, 1988 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. <br><br>[Back Cover]:<br>Manufactured in the EU.<br><br>[Inner Sleeve]:<br>Made in U.S.A. |
+| Notes | Sticker on shrink-wrap reads:  "8X Platinum Collection  13 Tracks Of Classic Fleetwood Mac   -Including-    Go Your Own Way   Don't Stop • Gypsy   Rhiannon • Dreams  Little Lies  8122795935"    Comes with a printed inner sleeve, containing liner note, credits and photos.    Published By:  Tracks A1, A6, B2, B4 & B6: Welsh Witch Music BMI.  Tracks A2, A4, A5, A7, B1, B3: Fleetwood Mac Music BMI.  Tracks A3, A5: Now Sounds Music BMI.    © 1988 Warner Bros. Records for the U.S. and WEA International Inc. for the world outside the U.S.  ℗ 1975, 1977, 1979, 1982, 1987, 1988 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.     [Back Cover]:  Manufactured in the EU.    [Inner Sleeve]:  Made in U.S.A. |
 | Discogs URL    | [Fleetwood Mac - Greatest Hits](https://www.discogs.com/release/6123681-Fleetwood-Mac-Greatest-Hits) |

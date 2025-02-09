@@ -38,20 +38,20 @@ Isn't Anything is the debut studio album by Irish-English rock band My Bloody Va
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soft As Snow (But Warm Inside) |  |
-| A2 | Lose My Breath |  |
-| A3 | Cupid Come |  |
-| A4 | (When You Wake) You're Still In A Dream |  |
-| A5 | No More Sorry |  |
-| A6 | All I Need |  |
-| B1 | Feed Me With Your Kiss |  |
-| B2 | Sueisfine |  |
-| B3 | Several Girls Galore |  |
-| B4 | You Never Should |  |
-| B5 | Nothing Much To Lose |  |
-| B6 | I Can See It (But I Can't Feel It) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Soft As Snow (But Warm Inside) |
+| A2 | Lose My Breath |
+| A3 | Cupid Come |
+| A4 | (When You Wake) You're Still In A Dream |
+| A5 | No More Sorry |
+| A6 | All I Need |
+| B1 | Feed Me With Your Kiss |
+| B2 | Sueisfine |
+| B3 | Several Girls Galore |
+| B4 | You Never Should |
+| B5 | Nothing Much To Lose |
+| B6 | I Can See It (But I Can't Feel It) |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Isn't Anything is the debut studio album by Irish-English rock band My Bloody Va
 | Format         | Vinyl LP Album Deluxe Edition Reissue Repress (Gatefold) |
 | Label          | MBV Records |
 | Catalog Number | REWIGLP158X |
-| Notes | Fully analog cut. Released in a deluxe glossy gatefold tip-on and board-mounted sleeve.<br>Includes a printed polylined inner sleeve and MP3, FLAC and WAV download card. <br>All runout details are hand etched. The Optimal Media "geometric" marks (e.g. '1IΛ' and '31' on variant 2) are mirrored.<br><br>[Sticker:]<br>fully analog cut<br>includes download codes<br>24-bit, 16-bit, mp3<br>made in the eu<br><br>[Gatefold inside:]<br>Mastered from original ¼" analog tapes using Studer A80-VU-PRE and Neumann VMS 80 lathe<br><br>[Labels:]<br>℗ & © 2021 mbv records under exclusive license to domino recording co. ltd.<br>made in the eu |
+| Notes | Fully analog cut. Released in a deluxe glossy gatefold tip-on and board-mounted sleeve. Includes a printed polylined inner sleeve and MP3, FLAC and WAV download card.  All runout details are hand etched. The Optimal Media "geometric" marks (e.g. '1IΛ' and '31' on variant 2) are mirrored.  [Sticker:] fully analog cut includes download codes 24-bit, 16-bit, mp3 made in the eu  [Gatefold inside:] Mastered from original ¼" analog tapes using Studer A80-VU-PRE and Neumann VMS 80 lathe  [Labels:] ℗ & © 2021 mbv records under exclusive license to domino recording co. ltd. made in the eu |
 | Discogs URL    | [My Bloody Valentine - Isn't Anything](https://www.discogs.com/release/18793480-My-Bloody-Valentine-Isnt-Anything) |

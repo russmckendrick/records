@@ -51,35 +51,35 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shine On You Crazy Diamond | 13:30 |
-| A2 | Astronomy Domine | 5:25 |
-| A3 | What Do You Want From Me | 4:10 |
-| B1 | Learning To Fly | 5:06 |
-| B2 | Keep Talking | 6:56 |
-| B3 | Coming Back To Life | 6:31 |
-| C1 | Hey You | 4:50 |
-| C2 | A Great Day For Freedom | 4:20 |
-| C3 | Sorrow | 10:30 |
-| D1 | High Hopes | 7:50 |
-| D2 | Another Brick In The Wall (Part Two) | 6:50 |
-| D3 | One Of These Days | 6:51 |
-|  | The Dark Side Of The Moon Live |  |
-| E1 | Speak To Me | 2:28 |
-| E2 | Breathe | 2:40 |
-| E3 | On The Run | 3:41 |
-| E4 | Time | 6:48 |
-| F1 | The Great Gig In The Sky | 5:51 |
-| F2 | Money | 8:46 |
-| G1 | Us And Them | 7:08 |
-| G2 | Any Colour You Like | 3:19 |
-| G3 | Brain Damage | 4:02 |
-| G4 | Eclipse | 1:38 |
-|  | Encores |  |
-| H1 | Wish You Were Here | 5:40 |
-| H2 | Comfortably Numb | 9:10 |
-| H3 | Run Like Hell | 7:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Shine On You Crazy Diamond |
+| A2 | Astronomy Domine |
+| A3 | What Do You Want From Me |
+| B1 | Learning To Fly |
+| B2 | Keep Talking |
+| B3 | Coming Back To Life |
+| C1 | Hey You |
+| C2 | A Great Day For Freedom |
+| C3 | Sorrow |
+| D1 | High Hopes |
+| D2 | Another Brick In The Wall (Part Two) |
+| D3 | One Of These Days |
+|  | The Dark Side Of The Moon Live |
+| E1 | Speak To Me |
+| E2 | Breathe |
+| E3 | On The Run |
+| E4 | Time |
+| F1 | The Great Gig In The Sky |
+| F2 | Money |
+| G1 | Us And Them |
+| G2 | Any Colour You Like |
+| G3 | Brain Damage |
+| G4 | Eclipse |
+|  | Encores |
+| H1 | Wish You Were Here |
+| H2 | Comfortably Numb |
+| H3 | Run Like Hell |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Format         | Vinyl 4× LP Album Reissue Remastered (180 gram), Box Set |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP17 |
-| Notes | Book:<br>Recorded live in Europe and the UK with Le Voyageur II Mobile.<br>Mixed at Astoria in Q Sound.<br>Mastered at The Mastering Lab.<br>This is an analogue recording.<br><br>With Thanks to:<br>Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.<br><br>Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd.<br>Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.<br><br>Labels:<br>Made in the EU.<br><br>Includes one more track than the CD releases (D3 One Of These Days).<br><br>Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.<br><br>Hype sticker on front cover (on shrink).<br><br>On side A, in runout variant 2, after the "18899" part, there is a crossed out "2". It's probably the same for runout variant 1.<br><br>Runouts are etched.<br>Pressing plant and laquer cut identified based on the runout areas. |
+| Notes | Book: Recorded live in Europe and the UK with Le Voyageur II Mobile. Mixed at Astoria in Q Sound. Mastered at The Mastering Lab. This is an analogue recording.  With Thanks to: Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.  Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd. Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.  Labels: Made in the EU.  Includes one more track than the CD releases (D3 One Of These Days).  Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.  Hype sticker on front cover (on shrink).  On side A, in runout variant 2, after the "18899" part, there is a crossed out "2". It's probably the same for runout variant 1.  Runouts are etched. Pressing plant and laquer cut identified based on the runout areas. |
 | Discogs URL    | [Pink Floyd - Pulse](https://www.discogs.com/release/12004382-Pink-Floyd-Pulse) |

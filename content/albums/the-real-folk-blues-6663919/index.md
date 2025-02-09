@@ -28,20 +28,20 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Killing Floor | 2:50 |
-| A2 | Louise | 2:45 |
-| A3 | Poor Boy | 2:35 |
-| A4 | Sittin' On Top Of The World | 2:33 |
-| A5 | Nature | 2:47 |
-| A6 | My Country Sugar Mama (Aka Sugar Mama) | 2:38 |
-| B1 | Tail Dragger | 2:58 |
-| B2 | Three Hundred Pounds Of Joy | 3:06 |
-| B3 | Natchez Burning | 2:11 |
-| B4 | Built For Comfort | 2:39 |
-| B5 | Ooh Baby, Hold Me | 2:41 |
-| B6 | Tell Me What I've Done | 2:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Killing Floor |
+| A2 | Louise |
+| A3 | Poor Boy |
+| A4 | Sittin' On Top Of The World |
+| A5 | Nature |
+| A6 | My Country Sugar Mama (Aka Sugar Mama) |
+| B1 | Tail Dragger |
+| B2 | Three Hundred Pounds Of Joy |
+| B3 | Natchez Burning |
+| B4 | Built For Comfort |
+| B5 | Ooh Baby, Hold Me |
+| B6 | Tell Me What I've Done |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Dolchess |
 | Catalog Number | DOL1502H |
-| Notes | 180g HQ Virgin Vinyl.<br>Manufactured in Europe.<br>The runouts are etched. |
+| Notes | 180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched. |
 | Discogs URL    | [Howlin Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |

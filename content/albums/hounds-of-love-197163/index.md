@@ -36,22 +36,22 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Hounds Of Love |  |
-| A1 | Running Up That Hill (A Deal With God) | 4:56 |
-| A2 | Hounds Of Love | 3:01 |
-| A3 | The Big Sky | 4:35 |
-| A4 | Mother Stands For Comfort | 3:05 |
-| A5 | Cloudbusting | 5:07 |
-|  | The Ninth Wave |  |
-| B1 | And Dream Of Sheep | 2:40 |
-| B2 | Under Ice | 2:22 |
-| B3 | Waking The Witch | 4:17 |
-| B4 | Watching You Without Me | 4:06 |
-| B5 | Jig Of Life | 4:03 |
-| B6 | Hello Earth | 6:10 |
-| B7 | The Morning Fog | 2:32 |
+| Position | Title |
+|----------|--------|
+|  | Hounds Of Love |
+| A1 | Running Up That Hill (A Deal With God) |
+| A2 | Hounds Of Love |
+| A3 | The Big Sky |
+| A4 | Mother Stands For Comfort |
+| A5 | Cloudbusting |
+|  | The Ninth Wave |
+| B1 | And Dream Of Sheep |
+| B2 | Under Ice |
+| B3 | Waking The Witch |
+| B4 | Watching You Without Me |
+| B5 | Jig Of Life |
+| B6 | Hello Earth |
+| B7 | The Morning Fog |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 | Format         | Vinyl LP Album Stereo (Townhouse Mastering) |
 | Label          | EMI |
 | Catalog Number | KAB1 |
-| Notes | Side B "The Ninth Wave" is a concept piece with all tracks segued into each other to appear as 'continuous audio'. Total duration of this track is 26:10.<br><br>Printed inner sleeve of lyrics, credits and photographs.<br>Some copies included an inner merchandise leaflet.<br>Matrix runout strings stamped. 'TOWNHOUSE' mastering signature etched.<br><br>Catalogue numbers:<br>KAB1 and EJ 24 0384 1 can be found on the rear sleeve and spine.<br>EJ2403841 can be found on the inner sleeve and labels.<br>RB 8509 JU can be found on the rear sleeve (bottom right)<br><br>Engineer at Windmill Lane : Bill Somerville-Large.<br>John Williams appears courtesy of [l19936].<br>Youth appears with kind permission of [l38030].<br>Helicopter on "Waking The Witch" by kind permission of [url=https://www.discogs.com/Pink-Floyd-The-Wall/master/11329]Pink Floyd "The Wall"[/url].<br>"Jig Of Life": original music discovered by Paddy Bush.<br>"Hello Earth" contains elements of 'Tsintskaro', a Georgian folk song.<br><br>[Labels];<br>℗ 1985 Original Sound Recordings made by Noverica Ltd.<br>© 1985 Noverica Ltd.<br>© Kate Bush Music Ltd. EMI Music Publishing Ltd.<br>Manufactured in the UK by EMI Records Limited.<br><br>[Inner sleeve]<br>© Kate Bush Music Ltd. EMI Music Publishing Ltd.<br>Lyrics used by Permission.<br><br>[Rear sleeve]:<br>℗ 1985 Original Sound Recordings made by Noverica Ltd.<br>© 1985 Noverica Ltd.<br><br>Durations do not appear on this release. |
+| Notes | Side B "The Ninth Wave" is a concept piece with all tracks segued into each other to appear as 'continuous audio'. Total duration of this track is 26:10.  Printed inner sleeve of lyrics, credits and photographs. Some copies included an inner merchandise leaflet. Matrix runout strings stamped. 'TOWNHOUSE' mastering signature etched.  Catalogue numbers: KAB1 and EJ 24 0384 1 can be found on the rear sleeve and spine. EJ2403841 can be found on the inner sleeve and labels. RB 8509 JU can be found on the rear sleeve (bottom right)  Engineer at Windmill Lane : Bill Somerville-Large. John Williams appears courtesy of [l19936]. Youth appears with kind permission of [l38030]. Helicopter on "Waking The Witch" by kind permission of [url=https://www.discogs.com/Pink-Floyd-The-Wall/master/11329]Pink Floyd "The Wall"[/url]. "Jig Of Life": original music discovered by Paddy Bush. "Hello Earth" contains elements of 'Tsintskaro', a Georgian folk song.  [Labels]; ℗ 1985 Original Sound Recordings made by Noverica Ltd. © 1985 Noverica Ltd. © Kate Bush Music Ltd. EMI Music Publishing Ltd. Manufactured in the UK by EMI Records Limited.  [Inner sleeve] © Kate Bush Music Ltd. EMI Music Publishing Ltd. Lyrics used by Permission.  [Rear sleeve]: ℗ 1985 Original Sound Recordings made by Noverica Ltd. © 1985 Noverica Ltd.  Durations do not appear on this release. |
 | Discogs URL    | [Kate Bush - Hounds Of Love](https://www.discogs.com/release/197163-Kate-Bush-Hounds-Of-Love) |

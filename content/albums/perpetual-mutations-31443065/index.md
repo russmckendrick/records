@@ -32,17 +32,17 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dark Wind | 5:42 |
-| A2 | Deadpan Euphoria | 4:59 |
-| A3 | Viral Information 101 | 5:06 |
-| A4 | Objective Reality | 4:59 |
-| A5 | Quiescent II | 3:16 |
-| B1 | Spontaneous Plan | 5:22 |
-| B2 | Pentalogic Structure | 5:27 |
-| B3 | Solus Souls II | 5:36 |
-| B4 | Safety Meeting | 5:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Dark Wind |
+| A2 | Deadpan Euphoria |
+| A3 | Viral Information 101 |
+| A4 | Objective Reality |
+| A5 | Quiescent II |
+| B1 | Spontaneous Plan |
+| B2 | Pentalogic Structure |
+| B3 | Solus Souls II |
+| B4 | Safety Meeting |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Harmonic Heresy |
 | Catalog Number | HH20241B |
-| Notes | Black vinyl, gatefold cover.<br><br>Jean-Pierre Zanella recorded at Migrason (Montreal, Canada). |
+| Notes | Black vinyl, gatefold cover.  Jean-Pierre Zanella recorded at Migrason (Montreal, Canada). |
 | Discogs URL    | [Gavin Harrison - Perpetual Mutations](https://www.discogs.com/release/31443065-Gavin-Harrison-Antoine-Fafard-Perpetual-Mutations) |

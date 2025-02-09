@@ -39,30 +39,30 @@ Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Go Deeper | 4:15 |
-| A2 | The Train That Pulled Away | 4:04 |
-| A3 | Rainmark | 4:15 |
-| A4 | Not Married Anymore | 3:30 |
-| A5 | Flowers At The Scene | 3:04 |
-| A6 | It's The World | 3:03 |
-| B1 | Borderline | 3:45 |
-| B2 | Ghostlike | 5:08 |
-| B3 | The War On Me | 3:47 |
-| B4 | Killing To Survive | 3:59 |
-| B5 | What Lies Here | 4:00 |
-| CD-1 | I Go Deeper | 4:15 |
-| CD-2 | The Train That Pulled Away | 4:04 |
-| CD-3 | Rainmark | 4:15 |
-| CD-4 | Not Married Anymore | 3:30 |
-| CD-5 | Flowers At The Scene | 3:04 |
-| CD-6 | It's The World | 3:03 |
-| CD-7 | Borderline | 3:45 |
-| CD-8 | Ghostlike | 5:08 |
-| CD-9 | The War On Me | 3:47 |
-| CD-10 | Killing To Survive | 3:59 |
-| CD-11 | What Lies Here | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | I Go Deeper |
+| A2 | The Train That Pulled Away |
+| A3 | Rainmark |
+| A4 | Not Married Anymore |
+| A5 | Flowers At The Scene |
+| A6 | It's The World |
+| B1 | Borderline |
+| B2 | Ghostlike |
+| B3 | The War On Me |
+| B4 | Killing To Survive |
+| B5 | What Lies Here |
+| CD-1 | I Go Deeper |
+| CD-2 | The Train That Pulled Away |
+| CD-3 | Rainmark |
+| CD-4 | Not Married Anymore |
+| CD-5 | Flowers At The Scene |
+| CD-6 | It's The World |
+| CD-7 | Borderline |
+| CD-8 | Ghostlike |
+| CD-9 | The War On Me |
+| CD-10 | Killing To Survive |
+| CD-11 | What Lies Here |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressiv
 | Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 524 |
-| Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.<br><br>Includes free CD of entire album, lyric insert, and a signed greetings card. |
+| Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card. |
 | Discogs URL    | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |

@@ -32,20 +32,20 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lament Of The Nithered Mercenary |  |
-| A2 | Really, How 'd It Get This Way? |  |
-| A3 | The Whistler |  |
-| B1 | Suppose I Told The Truth (Why I Had To Go) |  |
-| B2 | When You're Gone |  |
-| B3 | Long Cold Summer |  |
-| C1 | Goodnight, Europe |  |
-| C2 | You Take The Devil Out Of Me |  |
-| C3 | The Northern Cobbler |  |
-| D1 | My Enemies I Fear Not, But Protect Me From My Friends |  |
-| D2 | I'm Almost Home |  |
-| D3 | Sharks & Storms / Blizzard Of Horned Cats |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lament Of The Nithered Mercenary |
+| A2 | Really, How 'd It Get This Way? |
+| A3 | The Whistler |
+| B1 | Suppose I Told The Truth (Why I Had To Go) |
+| B2 | When You're Gone |
+| B3 | Long Cold Summer |
+| C1 | Goodnight, Europe |
+| C2 | You Take The Devil Out Of Me |
+| C3 | The Northern Cobbler |
+| D1 | My Enemies I Fear Not, But Protect Me From My Friends |
+| D2 | I'm Almost Home |
+| D3 | Sharks & Storms / Blizzard Of Horned Cats |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE901 |
-| Notes | Sticker on a shrinkwrap:<br>"Crippled Black Phoenix<br>A Love of Shared Disasters<br>GATEFOLD 2LP on 180g VINYL<br>2006 debut album from the musical collective led by Justin Greaves (Electric Wizard, Iron Monkey, Se Delan) & Dominic Aitchison (Mogwai) with alternative cover artwork.<br>kscope901<br>kscopemusic.com/cbp"<br><br>2 x 180g black vinyl in gatefold cover.<br>Made in Germany. |
+| Notes | Sticker on a shrinkwrap: "Crippled Black Phoenix A Love of Shared Disasters GATEFOLD 2LP on 180g VINYL 2006 debut album from the musical collective led by Justin Greaves (Electric Wizard, Iron Monkey, Se Delan) & Dominic Aitchison (Mogwai) with alternative cover artwork. kscope901 kscopemusic.com/cbp"  2 x 180g black vinyl in gatefold cover. Made in Germany. |
 | Discogs URL    | [Crippled Black Phoenix - A Love Of Shared Disasters](https://www.discogs.com/release/7938549-Crippled-Black-Phoenix-A-Love-Of-Shared-Disasters) |

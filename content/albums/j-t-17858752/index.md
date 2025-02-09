@@ -36,19 +36,19 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Don't Care | 1:54 |
-| A2 | Ain't Glad I'm Leaving  | 2:52 |
-| A3 | Maria  | 2:46 |
-| A4 | Far Away In Another Town  | 3:06 |
-| A5 | They Killed John Henry  | 2:34 |
-| A6 | Turn Out My Lights  | 2:35 |
-| B1 | Lone Pine Hill | 2:43 |
-| B2 | Champagne Corolla  | 3:35 |
-| B3 | The Saint Of Lost Causes  | 5:01 |
-| B4 | Harlem River Blues  | 3:10 |
-| B5 | Last Words  | 4:21 |
+| Position | Title |
+|----------|--------|
+| A1 | I Don't Care |
+| A2 | Ain't Glad I'm Leaving  |
+| A3 | Maria  |
+| A4 | Far Away In Another Town  |
+| A5 | They Killed John Henry  |
+| A6 | Turn Out My Lights  |
+| B1 | Lone Pine Hill |
+| B2 | Champagne Corolla  |
+| B3 | The Saint Of Lost Causes  |
+| B4 | Harlem River Blues  |
+| B5 | Last Words  |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | New West Records |
 | Catalog Number | NW5492 |
-| Notes | Housed in a gatefold sleeve.<br><br>Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |
+| Notes | Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |
 | Discogs URL    | [Steve Earle  The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |

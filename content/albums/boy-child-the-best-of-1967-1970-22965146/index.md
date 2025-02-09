@@ -24,32 +24,32 @@ styles: ["Pop Rock", "Baroque Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Montague Terrace (In Blue) |  |
-| A2 | Such A Small Love |  |
-| A3 | The Plague |  |
-| A4 | Always Coming Back To You  |  |
-| A5 | The Amorous Humphrey Plugg  |  |
-| A6 | The Girls From The Streets  |  |
-| B1 | Plastic Palace People  |  |
-| B2 | The Bridge |  |
-| B3 | It's Raining Today  |  |
-| B4 | Copenhagen  |  |
-| B5 | Big Louise  |  |
-| B6 | 30 Century Man  |  |
-| C1 | We Came Through  |  |
-| C2 | The Seventh Seal  |  |
-| C3 | On Your Own Again  |  |
-| C4 | Angels Of Ashes  |  |
-| C5 | Boy Child  |  |
-| C6 | The Old Man's Back Again (Dedicated To The Neo-Stalinst Regime)  |  |
-| D1 | Prologue  |  |
-| D2 | Little Things (That Keep Us Together)  |  |
-| D3 | Time Operator  |  |
-| D4 | Thanks For Chicago, Mr. James  |  |
-| D5 | The Rope And The Colt |  |
-| D6 | Epilogue: The War Is Over  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Montague Terrace (In Blue) |
+| A2 | Such A Small Love |
+| A3 | The Plague |
+| A4 | Always Coming Back To You  |
+| A5 | The Amorous Humphrey Plugg  |
+| A6 | The Girls From The Streets  |
+| B1 | Plastic Palace People  |
+| B2 | The Bridge |
+| B3 | It's Raining Today  |
+| B4 | Copenhagen  |
+| B5 | Big Louise  |
+| B6 | 30 Century Man  |
+| C1 | We Came Through  |
+| C2 | The Seventh Seal  |
+| C3 | On Your Own Again  |
+| C4 | Angels Of Ashes  |
+| C5 | Boy Child  |
+| C6 | The Old Man's Back Again (Dedicated To The Neo-Stalinst Regime)  |
+| D1 | Prologue  |
+| D2 | Little Things (That Keep Us Together)  |
+| D3 | Time Operator  |
+| D4 | Thanks For Chicago, Mr. James  |
+| D5 | The Rope And The Colt |
+| D6 | Epilogue: The War Is Over  |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ styles: ["Pop Rock", "Baroque Pop"]
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (White) |
 | Label          | Fontana |
 | Catalog Number | 389 083-9 |
-| Notes | RSD 2022.<br>Gatefold cover. |
+| Notes | RSD 2022. Gatefold cover. |
 | Discogs URL    | [Scott Walker - Boy Child - The Best Of 1967 - 1970](https://www.discogs.com/release/22965146-Scott-Walker-Boy-Child-The-Best-Of-1967-1970) |

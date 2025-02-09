@@ -82,91 +82,91 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Greetings From Asbury Park, N.J. |  |
-| A1 | Blinded By The Light | 5:02 |
-| A2 | Growin' Up | 3:05 |
-| A3 | Mary Queen Of Arkansas | 5:20 |
-| A4 | Does This Bus Stop At 82nd Street? | 2:05 |
-| A5 | Lost In The Flood | 5:14 |
-| B1 | The Angel | 3:23 |
-| B2 | For You | 4:39 |
-| B3 | Spirit In The Night | 4:58 |
-| B4 | It's Hard To Be A Saint In The City | 3:13 |
-|  | The Wild, The Innocent & The E Street Shuffle |  |
-| C1 | The E Street Shuffle | 4:26 |
-| C2 | 4th Of July, Asbury Park (Sandy) | 5:35 |
-| C3 | Kitty's Back | 7:07 |
-| C4 | Wild Billy's Circus Story | 4:43 |
-| D1 | Incident On 57th Street | 7:45 |
-| D2 | Rosalita (Come Out Tonight) | 7:02 |
-| D3 | New York City Serenade | 9:56 |
-|  | Born To Run |  |
-| E1 | Thunder Road | 4:50 |
-| E2 | Tenth Avenue Freeze-Out | 3:11 |
-| E3 | Night | 3:01 |
-| E4 | Backstreets | 6:29 |
-| F1 | Born To Run | 4:30 |
-| F2 | She's The One | 4:30 |
-| F3 | Meeting Across The River | 3:16 |
-| F4 | Jungleland | 9:33 |
-|  | Darkness On The Edge Of Town |  |
-| G1 | Badlands | 4:01 |
-| G2 | Adam Raised A Cain | 4:32 |
-| G3 | Something In The Night | 5:12 |
-| G4 | Candy's Room | 2:45 |
-| G5 | Racing In The Street | 6:52 |
-| H1 | The Promised Land | 4:24 |
-| H2 | Factory | 2:17 |
-| H3 | Streets Of Fire | 4:03 |
-| H4 | Prove It All Night | 3:57 |
-| H5 | Darkness On The Edge Of Town | 4:28 |
-|  | The River |  |
-| I1 | The Ties That Bind | 3:33 |
-| I2 | Sherry Darling | 4:02 |
-| I3 | Jackson Cage | 3:04 |
-| I4 | Two Hearts | 2:42 |
-| I5 | Independence Day | 4:46 |
-| J1 | Hungry Heart | 3:19 |
-| J2 | Out In The Street | 4:17 |
-| J3 | Crush On You | 3:10 |
-| J4 | You Can Look (But You Better Not Touch) | 2:36 |
-| J5 | I Wanna Marry You | 3:26 |
-| J6 | The River | 4:59 |
-| K1 | Point Blank | 6:05 |
-| K2 | Cadillac Ranch | 3:02 |
-| K3 | I'm A Rocker | 3:34 |
-| K4 | Fade Away | 4:40 |
-| K5 | Stolen Car | 3:53 |
-| L1 | Ramrod | 4:04 |
-| L2 | The Price You Pay | 5:27 |
-| L3 | Drive All Night | 8:26 |
-| L4 | Wreck On The Highway | 3:53 |
-|  | Nebraska |  |
-| M1 | Nebraska | 4:27 |
-| M2 | Atlantic City | 3:54 |
-| M3 | Mansion On The Hill | 4:03 |
-| M4 | Johnny 99 | 3:38 |
-| M5 | Highway Patrolman | 5:39 |
-| N1 | State Trooper | 3:15 |
-| N2 | Used Cars | 3:06 |
-| N3 | Open All Night | 2:53 |
-| N4 | My Father's House | 5:03 |
-| N5 | Reason To Believe | 4:11 |
-|  | Born In The U.S.A. |  |
-| O1 | Born In The U.S.A. | 4:39 |
-| O2 | Cover Me | 3:26 |
-| O3 | Darlington County | 4:48 |
-| O4 | Working On The Highway | 3:11 |
-| O5 | Downbound Train | 3:35 |
-| O6 | I'm On Fire | 2:36 |
-| P1 | No Surrender | 4:00 |
-| P2 | Bobby Jean | 3:46 |
-| P4 | I'm Going Down | 3:29 |
-| P4 | Glory Days | 4:15 |
-| P5 | Dancing In The Dark | 4:01 |
-| P6 | My Hometown | 4:33 |
+| Position | Title |
+|----------|--------|
+|  | Greetings From Asbury Park, N.J. |
+| A1 | Blinded By The Light |
+| A2 | Growin' Up |
+| A3 | Mary Queen Of Arkansas |
+| A4 | Does This Bus Stop At 82nd Street? |
+| A5 | Lost In The Flood |
+| B1 | The Angel |
+| B2 | For You |
+| B3 | Spirit In The Night |
+| B4 | It's Hard To Be A Saint In The City |
+|  | The Wild, The Innocent & The E Street Shuffle |
+| C1 | The E Street Shuffle |
+| C2 | 4th Of July, Asbury Park (Sandy) |
+| C3 | Kitty's Back |
+| C4 | Wild Billy's Circus Story |
+| D1 | Incident On 57th Street |
+| D2 | Rosalita (Come Out Tonight) |
+| D3 | New York City Serenade |
+|  | Born To Run |
+| E1 | Thunder Road |
+| E2 | Tenth Avenue Freeze-Out |
+| E3 | Night |
+| E4 | Backstreets |
+| F1 | Born To Run |
+| F2 | She's The One |
+| F3 | Meeting Across The River |
+| F4 | Jungleland |
+|  | Darkness On The Edge Of Town |
+| G1 | Badlands |
+| G2 | Adam Raised A Cain |
+| G3 | Something In The Night |
+| G4 | Candy's Room |
+| G5 | Racing In The Street |
+| H1 | The Promised Land |
+| H2 | Factory |
+| H3 | Streets Of Fire |
+| H4 | Prove It All Night |
+| H5 | Darkness On The Edge Of Town |
+|  | The River |
+| I1 | The Ties That Bind |
+| I2 | Sherry Darling |
+| I3 | Jackson Cage |
+| I4 | Two Hearts |
+| I5 | Independence Day |
+| J1 | Hungry Heart |
+| J2 | Out In The Street |
+| J3 | Crush On You |
+| J4 | You Can Look (But You Better Not Touch) |
+| J5 | I Wanna Marry You |
+| J6 | The River |
+| K1 | Point Blank |
+| K2 | Cadillac Ranch |
+| K3 | I'm A Rocker |
+| K4 | Fade Away |
+| K5 | Stolen Car |
+| L1 | Ramrod |
+| L2 | The Price You Pay |
+| L3 | Drive All Night |
+| L4 | Wreck On The Highway |
+|  | Nebraska |
+| M1 | Nebraska |
+| M2 | Atlantic City |
+| M3 | Mansion On The Hill |
+| M4 | Johnny 99 |
+| M5 | Highway Patrolman |
+| N1 | State Trooper |
+| N2 | Used Cars |
+| N3 | Open All Night |
+| N4 | My Father's House |
+| N5 | Reason To Believe |
+|  | Born In The U.S.A. |
+| O1 | Born In The U.S.A. |
+| O2 | Cover Me |
+| O3 | Darlington County |
+| O4 | Working On The Highway |
+| O5 | Downbound Train |
+| O6 | I'm On Fire |
+| P1 | No Surrender |
+| P2 | Bobby Jean |
+| P4 | I'm Going Down |
+| P4 | Glory Days |
+| P5 | Dancing In The Dark |
+| P6 | My Hometown |
 
 
 ## Apple Music
@@ -184,5 +184,5 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 | Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl 2× LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
 | Label          | Columbia |
 | Catalog Number | 88875014151 |
-| Notes | A box set comprising the first eleven years of Bruce Springsteen's career, all seven albums on eight discs (The River is a double album). All albums are remastered for vinyl for the first time ever, transferred from the original analogue masters using the Plangent Process playback system. Packed in a neat box with a leather-like finish. The box set also includes a 60-page book filled with rare photos, press clippings and other memorabilia. All albums are packed in replicas of original sleeves.<br><br>Greetings FromAsbury Park, N.J.: KC 31903<br>The Wild, The Innocent, And The E Street Shuffle: KC 32432<br>Born To Run: PC 33795<br>Darkness On The Edge Of Town: JC 35318<br>The River: PC2 36854<br>Nebraska: QC 38358<br>Born In The U.S.A.: QC 38653<br><br>Nebraska's tracklisting is wonky. The back cover of the album just lists all ten tracks. Labels (and the sheet on the box) say that A-side has six tracks and B-side has four. There are actually five tracks on both sides. I made the track listing based on the real amount of tracks on each side. |
+| Notes | A box set comprising the first eleven years of Bruce Springsteen's career, all seven albums on eight discs (The River is a double album). All albums are remastered for vinyl for the first time ever, transferred from the original analogue masters using the Plangent Process playback system. Packed in a neat box with a leather-like finish. The box set also includes a 60-page book filled with rare photos, press clippings and other memorabilia. All albums are packed in replicas of original sleeves.  Greetings FromAsbury Park, N.J.: KC 31903 The Wild, The Innocent, And The E Street Shuffle: KC 32432 Born To Run: PC 33795 Darkness On The Edge Of Town: JC 35318 The River: PC2 36854 Nebraska: QC 38358 Born In The U.S.A.: QC 38653  Nebraska's tracklisting is wonky. The back cover of the album just lists all ten tracks. Labels (and the sheet on the box) say that A-side has six tracks and B-side has four. There are actually five tracks on both sides. I made the track listing based on the real amount of tracks on each side. |
 | Discogs URL    | [Bruce Springsteen - The Album Collection Vol. 1](https://www.discogs.com/release/6329457-Bruce-Springsteen-The-Album-Collection-Vol-1) |

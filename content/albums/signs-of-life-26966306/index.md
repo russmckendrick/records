@@ -40,20 +40,20 @@ styles: ["Spoken Word"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Clock | 5:23 |
-| 2 | Möbius Strip | 4:31 |
-| 3 | Bloody Sunrise | 2:52 |
-| 4 | The Wreckers | 3:44 |
-| 5 | Song of the Song | 4:10 |
-| 6 | Credo | 3:13 |
-| 7 | Neverwhere | 4:30 |
-| 8 | Poem First Read on January 26th, 2011 at the  Sydney Opera House | 3:38 |
-| 9 | The Problem With Saints | 2:36 |
-| 10 | In Transit | 6:08 |
-| 11 | Signs of a Life | 6:08 |
-| 12 | Oceanic | 5:45 |
+| Position | Title |
+|----------|--------|
+| 1 | Clock |
+| 2 | Möbius Strip |
+| 3 | Bloody Sunrise |
+| 4 | The Wreckers |
+| 5 | Song of the Song |
+| 6 | Credo |
+| 7 | Neverwhere |
+| 8 | Poem First Read on January 26th, 2011 at the  Sydney Opera House |
+| 9 | The Problem With Saints |
+| 10 | In Transit |
+| 11 | Signs of a Life |
+| 12 | Oceanic |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Spoken Word"]
 | Format         | Vinyl LP Limited Edition Stereo (Silver Fox) |
 | Label          | Instrumental Records |
 | Catalog Number | INST009 |
-| Notes | Limited edition "silver fox" colored vinyl variant.<br><br>Gatefold sleeve.<br><br>Includes a downoad code. |
+| Notes | Limited edition "silver fox" colored vinyl variant.  Gatefold sleeve.  Includes a downoad code. |
 | Discogs URL    | [Neil Gaiman - Signs of Life](https://www.discogs.com/release/26966306-Neil-Gaiman-FourPlay-String-Quartet-Signs-of-Life) |

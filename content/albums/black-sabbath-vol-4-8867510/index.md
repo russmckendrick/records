@@ -40,18 +40,18 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wheels Of Confusion |  |
-| A2 | Tomorrow's Dream |  |
-| A3 | Changes |  |
-| A4 | FX |  |
-| A5 | Supernaut |  |
-| B1 | Snowblind |  |
-| B2 | Cornucopia |  |
-| B3 | Laguna Sunrise |  |
-| B4 | St. Vitus Dance |  |
-| B5 | Under The Sun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wheels Of Confusion |
+| A2 | Tomorrow's Dream |
+| A3 | Changes |
+| A4 | FX |
+| A5 | Supernaut |
+| B1 | Snowblind |
+| B2 | Cornucopia |
+| B3 | Laguna Sunrise |
+| B4 | St. Vitus Dance |
+| B5 | Under The Sun |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Orange, Gatefold, 180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2602 |
-| Notes | Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve.<br>The record itself is supplied in a separate white polylined inner sleeve.<br><br>Front sticker:<br>Black Sabbath <br>LIMITED EDITION <br>180 GRAMS ORANGE VINYL <br>2012 REMASTERED AUDIO <br>FEATURES THE CLASSICS:<br>"TOMORROW'S DREAM"<br>& "SNOWBLIND"<br>RRI 2602 |
+| Notes | Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve. The record itself is supplied in a separate white polylined inner sleeve.  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS ORANGE VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "TOMORROW'S DREAM" & "SNOWBLIND" RRI 2602 |
 | Discogs URL    | [Black Sabbath - Black Sabbath Vol 4](https://www.discogs.com/release/8867510-Black-Sabbath-Black-Sabbath-Vol-4) |

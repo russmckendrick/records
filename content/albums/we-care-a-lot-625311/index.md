@@ -32,18 +32,18 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Care A Lot |  |
-| A2 | The Jungle |  |
-| A3 | Mark Bowen |  |
-| A4 | Jim |  |
-| A5 | Why Do You Bother |  |
-| B1 | Greed |  |
-| B2 | Pills For Breakfast |  |
-| B3 | As The Worm Turns |  |
-| B4 | Arabian Disco |  |
-| B5 | New Beginnings |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Care A Lot |
+| A2 | The Jungle |
+| A3 | Mark Bowen |
+| A4 | Jim |
+| A5 | Why Do You Bother |
+| B1 | Greed |
+| B2 | Pills For Breakfast |
+| B3 | As The Worm Turns |
+| B4 | Arabian Disco |
+| B5 | New Beginnings |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 | Format         | Vinyl LP Album |
 | Label          | Mordam Records |
 | Catalog Number | MDR 1 |
-| Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.<br><br>Recorded at: Prairie Sun Studios Cotati, CA<br>Mastered at K Disc Mastering (Kdisc stamped into the runout area)<br><br>European license-pressing & distribution by: De Konkurrent<br>©&℗1985 Mordam Records<br><br>Includes an insert with additional artwork and lyrics.<br><br>K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.<br> |
+| Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.    Recorded at: Prairie Sun Studios Cotati, CA  Mastered at K Disc Mastering (Kdisc stamped into the runout area)    European license-pressing & distribution by: De Konkurrent  ©&℗1985 Mordam Records    Includes an insert with additional artwork and lyrics.    K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.   |
 | Discogs URL    | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |

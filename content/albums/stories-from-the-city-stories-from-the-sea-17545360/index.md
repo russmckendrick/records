@@ -38,20 +38,20 @@ The album became the second major commercial success of her recording career, fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Big Exit |  |
-| A2 | Good Fortune |  |
-| A3 | A Place Called Home |  |
-| A4 | One Line |  |
-| A5 | Beautiful Feeling |  |
-| A6 | The Whores Hustle And The Hustlers Whore |  |
-| B1 | This Mess We're In |  |
-| B2 | You Said Something |  |
-| B3 | Kamikaze |  |
-| B4 | This Is Love |  |
-| B5 | Horses In My Dreams |  |
-| B6 | We Float |  |
+| Position | Title |
+|----------|--------|
+| A1 | Big Exit |
+| A2 | Good Fortune |
+| A3 | A Place Called Home |
+| A4 | One Line |
+| A5 | Beautiful Feeling |
+| A6 | The Whores Hustle And The Hustlers Whore |
+| B1 | This Mess We're In |
+| B2 | You Said Something |
+| B3 | Kamikaze |
+| B4 | This Is Love |
+| B5 | Horses In My Dreams |
+| B6 | We Float |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album became the second major commercial success of her recording career, fo
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0898541 |
-| Notes | Hype sticker affixed to shrink on some issues, with catalog # 0898541: <br>Reissue of the Mercury Prize-winning album Stories from the City, Stories from the Sea <br>Featuring the singles Good Fortune, A Place Called Home and This Is Love <br>Pressed on 180gsm vinyl <br>Includes download card<br><br>Issued with printed inner sleeve, and a 12" x 12" insert with lyrics, credits and artwork.<br>Some copies include download card in WAV format.<br><br>Recorded at Great Linford Manor - March/April 2000<br>Additional recording on 4-track in New York and Dorset<br>Mixed at The Fallout Shelter May 2000<br>Mastered at Masterdisk Studios, New York<br>Vinyl cutting at Loud Mastering<br><br>Publishing:<br>All titles published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP)<br><br>On jacket:<br>An Island Records Release. ℗2000 Universal Music Operations Ltd. ©2000 Universal Music Operations Ltd.<br>The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.<br><br>On label side B:<br>An Island Records Release. ℗2000 Universal Music Operations Ltd. ©2000 Universal Music Operations Ltd.<br>The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Made in Germany.<br><br>First catalog # (0898541) on jacket, labels, inner sleeve, insert.<br>Second catalog # (00602508985416) on label side B.<br><br>Runouts are etched, Optimal plating symbols (e.g., "1Λ" or "1I") are mirrored. |
+| Notes | Hype sticker affixed to shrink on some issues, with catalog # 0898541:  Reissue of the Mercury Prize-winning album Stories from the City, Stories from the Sea  Featuring the singles Good Fortune, A Place Called Home and This Is Love  Pressed on 180gsm vinyl  Includes download card  Issued with printed inner sleeve, and a 12" x 12" insert with lyrics, credits and artwork. Some copies include download card in WAV format.  Recorded at Great Linford Manor - March/April 2000 Additional recording on 4-track in New York and Dorset Mixed at The Fallout Shelter May 2000 Mastered at Masterdisk Studios, New York Vinyl cutting at Loud Mastering  Publishing: All titles published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP)  On jacket: An Island Records Release. ℗2000 Universal Music Operations Ltd. ©2000 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  On label side B: An Island Records Release. ℗2000 Universal Music Operations Ltd. ©2000 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany.  First catalog # (0898541) on jacket, labels, inner sleeve, insert. Second catalog # (00602508985416) on label side B.  Runouts are etched, Optimal plating symbols (e.g., "1Λ" or "1I") are mirrored. |
 | Discogs URL    | [PJ Harvey - Stories From The City, Stories From The Sea](https://www.discogs.com/release/17545360-P-J-Harvey-Stories-From-The-City-Stories-From-The-Sea) |

@@ -44,20 +44,20 @@ Interplay is the seventh studio album by English rock band Ride, released on 29 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Peace Sign | 4:38 |
-| A2 | Last Frontier | 4:09 |
-| A3 | Light In A Quiet Room | 6:02 |
-| B1 | Monaco | 4:15 |
-| B2 | I Came To See The Wreck | 5:57 |
-| B3 | Stay Free | 5:00 |
-| C1 | Last Night I Went Somewhere To Dream | 4:13 |
-| C2 | Sunrise Chaser | 4:18 |
-| C3 | Midnight Rider | 4:23 |
-| D1 | Portland Rocks | 5:02 |
-| D2 | Essaouira | 7:10 |
-| D3 | Yesterday Is Just A Song | 3:34 |
+| Position | Title |
+|----------|--------|
+| A1 | Peace Sign |
+| A2 | Last Frontier |
+| A3 | Light In A Quiet Room |
+| B1 | Monaco |
+| B2 | I Came To See The Wreck |
+| B3 | Stay Free |
+| C1 | Last Night I Went Somewhere To Dream |
+| C2 | Sunrise Chaser |
+| C3 | Midnight Rider |
+| D1 | Portland Rocks |
+| D2 | Essaouira |
+| D3 | Yesterday Is Just A Song |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Interplay is the seventh studio album by English rock band Ride, released on 29 
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Blue) |
 | Label          | Wichita |
 | Catalog Number | WEBB630LP |
-| Notes | 100 copies were sold by Assai Records with a hand numbered Obi strip and signed art card.<br>Rough Trade produced 250 copies with a Band Signed Print. <br> |
+| Notes | 100 copies were sold by Assai Records with a hand numbered Obi strip and signed art card. Rough Trade produced 250 copies with a Band Signed Print.   |
 | Discogs URL    | [Ride - Interplay](https://www.discogs.com/release/30233693-Ride-Interplay) |

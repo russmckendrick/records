@@ -28,21 +28,21 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Your Ex-Lover Is Dead (Final Fantasy) |  |
-| A2 | Set Yourself On Fire (Montag) |  |
-| A3 | Ageless Beauty (The Most Serene Republic) |  |
-| A4 | Reunion (Jason Collett) |  |
-| B1 | The Big Fight (Minotaur Shock) |  |
-| B2 | What I'm Trying To Say (Parts I & II) (The Dears) |  |
-| B3 | One More Night (Apostle Of Hustle) |  |
-| C1 | Sleep Tonight (Junior Boys) |  |
-| C2 | The First Five Times (The Russian Futurists) |  |
-| C3 | He Lied About Death (Metric) |  |
-| D1 | Celebration Guns (Camouflage Nights With Kevin Drew) |  |
-| D2 | Soft Revolution (The Stills) |  |
-| D3 | Calendar Girl (Young Galaxy) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Your Ex-Lover Is Dead (Final Fantasy) |
+| A2 | Set Yourself On Fire (Montag) |
+| A3 | Ageless Beauty (The Most Serene Republic) |
+| A4 | Reunion (Jason Collett) |
+| B1 | The Big Fight (Minotaur Shock) |
+| B2 | What I'm Trying To Say (Parts I & II) (The Dears) |
+| B3 | One More Night (Apostle Of Hustle) |
+| C1 | Sleep Tonight (Junior Boys) |
+| C2 | The First Five Times (The Russian Futurists) |
+| C3 | He Lied About Death (Metric) |
+| D1 | Celebration Guns (Camouflage Nights With Kevin Drew) |
+| D2 | Soft Revolution (The Stills) |
+| D3 | Calendar Girl (Young Galaxy) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Arts & Crafts International |
 | Catalog Number | ACS-024 |
-| Notes | "A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire". <br><br>© 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International. <br>Printed in Canada.<br> |
+| Notes | "A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".     © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.   Printed in Canada.  |
 | Discogs URL    | [Stars - Do You Trust Your Friends?](https://www.discogs.com/release/1870709-Stars-Do-You-Trust-Your-Friends) |

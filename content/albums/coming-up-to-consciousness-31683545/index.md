@@ -28,16 +28,16 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dig Till You Die |  |
-| A2 | Betrayal |  |
-| A3 | The Gallows |  |
-| A4 | Useless Animal |  |
-| B5 | Worship |  |
-| B6 | Bend The Earth |  |
-| B7 | Lifeless Creature |  |
-| B8 | As We Disappear |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dig Till You Die |
+| A2 | Betrayal |
+| A3 | The Gallows |
+| A4 | Useless Animal |
+| B5 | Worship |
+| B6 | Bend The Earth |
+| B7 | Lifeless Creature |
+| B8 | As We Disappear |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Green [Transparent Petrol Green] BioVinyl) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM710 |
-| Notes | Tracks positions given sequentially on release, regardless of vinyl sides.<br><br>Hype sticker reads:<br>THE SIXTH ALBUM FROM PRR, FEATURING GUEST APPEARANCES FROM GUY PRATT, AS WELL AS BRUCE SOORD & JON SYKES (THE PINEAPPLE THIEF).<br>Limited Gatefold Transp. Petrol Green BioVinyl LP<br>Limited to 300 units |
+| Notes | Tracks positions given sequentially on release, regardless of vinyl sides.  Hype sticker reads: THE SIXTH ALBUM FROM PRR, FEATURING GUEST APPEARANCES FROM GUY PRATT, AS WELL AS BRUCE SOORD & JON SYKES (THE PINEAPPLE THIEF). Limited Gatefold Transp. Petrol Green BioVinyl LP Limited to 300 units |
 | Discogs URL    | [Pure Reason Revolution - Coming Up To Consciousness](https://www.discogs.com/release/31683545-Pure-Reason-Revolution-Coming-Up-To-Consciousness) |

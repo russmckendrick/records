@@ -35,18 +35,18 @@ The album was released with five different versions of the cover art, each with 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ashes | 1:21 |
-| A2 | Rats | 4:21 |
-| A3 | Faith | 4:29 |
-| A4 | See The Light | 4:05 |
-| A5 | Miasma | 5:17 |
-| B1 | Dance Macabre | 3:39 |
-| B2 | Pro Memoria | 5:39 |
-| B3 | Witch Image | 3:30 |
-| B4 | Helvetesfönster | 5:55 |
-| B5 | Life Eternal | 3:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Ashes |
+| A2 | Rats |
+| A3 | Faith |
+| A4 | See The Light |
+| A5 | Miasma |
+| B1 | Dance Macabre |
+| B2 | Pro Memoria |
+| B3 | Witch Image |
+| B4 | Helvetesfönster |
+| B5 | Life Eternal |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was released with five different versions of the cover art, each with 
 | Format         | Vinyl LP Album Limited Edition (Red/Clear Swirl) |
 | Label          | Loma Vista |
 | Catalog Number | LVR00392 |
-| Notes | Limited to 2000 copies worldwide. <br><br>℗ & © 2018 Loma Vista Recordings |
+| Notes | Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings |
 | Discogs URL    | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-32-Prequelle) |

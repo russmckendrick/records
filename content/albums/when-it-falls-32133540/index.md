@@ -28,19 +28,19 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Warm Sound | 5:29 |
-| A2 | Home | 4:36 |
-| A3 | Somersault | 6:57 |
-| B1 | Passing By | 4:51 |
-| B2 | Over Our Heads | 4:27 |
-| B3 | When It Falls | 5:30 |
-| C1 | The Space Between | 6:01 |
-| C2 | Speed Dial No. 2 | 3:49 |
-| C3 | Look Up | 5:56 |
-| D1 | In Time | 4:57 |
-| D2 | Morning Song | 6:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Warm Sound |
+| A2 | Home |
+| A3 | Somersault |
+| B1 | Passing By |
+| B2 | Over Our Heads |
+| B3 | When It Falls |
+| C1 | The Space Between |
+| C2 | Speed Dial No. 2 |
+| C3 | Look Up |
+| D1 | In Time |
+| D2 | Morning Song |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 | Format         | Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), All Media Album Reissue Remastered |
 | Label          | New State Music |
 | Catalog Number | NEW9271LPC |
-| Notes | 20th Anniversary Edition.<br><br>Ⓟ 2004 New State Entertainment Ltd. © 2024 New State Entertainment Ltd.<br><br>Issued with printed inner sleeves. |
+| Notes | 20th Anniversary Edition.  Ⓟ 2004 New State Entertainment Ltd. © 2024 New State Entertainment Ltd.  Issued with printed inner sleeves. |
 | Discogs URL    | [Zero - When It Falls](https://www.discogs.com/release/32133540-Zero-7-When-It-Falls) |

@@ -35,17 +35,17 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Untouchable Part 1 |  |
-| A2 | Untouchable Part 2 |  |
-| B1 | The Gathering Of The Clouds |  |
-| B2 | Lightning Song |  |
-| B3 | Sunlight |  |
-| C1 | The Storm Before The Calm |  |
-| C2 | The Beginning And The End |  |
-| D1 | The Lost Child |  |
-| D2 | Internal Landscapes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Untouchable Part 1 |
+| A2 | Untouchable Part 2 |
+| B1 | The Gathering Of The Clouds |
+| B2 | Lightning Song |
+| B3 | Sunlight |
+| C1 | The Storm Before The Calm |
+| C2 | The Beginning And The End |
+| D1 | The Lost Child |
+| D2 | Internal Landscapes |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE824 |
-| Notes | 180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.<br><br>Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo.<br>Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo.<br>Strings recorded by Steve Price at Angel Studios, London.<br>Band photo by Rod Maurice for Le-HibOO.<br>Photos reproduced courtesy of the National Oceanic & Atmospheric Administration.<br>Management Andy Leff & Alx Leeks for Acme Music.<br><br>"Internal Landscapes" is dedicated to William Cavanagh.<br><br>Kscope is a Snapper Music label.<br>℗ 2012 Anathema<br>© 2012 Anathema<br>Made in Germany.<br> |
+| Notes | 180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.  Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo. Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo. Strings recorded by Steve Price at Angel Studios, London. Band photo by Rod Maurice for Le-HibOO. Photos reproduced courtesy of the National Oceanic & Atmospheric Administration. Management Andy Leff & Alx Leeks for Acme Music.  "Internal Landscapes" is dedicated to William Cavanagh.  Kscope is a Snapper Music label. ℗ 2012 Anathema © 2012 Anathema Made in Germany.  |
 | Discogs URL    | [Anathema - Weather Systems](https://www.discogs.com/release/3549161-Anathema-Weather-Systems) |

@@ -29,20 +29,20 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Rose |  |
-| A2 | Love Song |  |
-| A3 | Neat Neat Neat |  |
-| A4 | I Just Can't Be Happy Today |  |
-| A5 | Jet Boy, Jet Girl |  |
-| A6 | Hit Or Miss |  |
-| A7 | There Ain't No Sanity Clause |  |
-| B1 | Smash It Up (Parts 1 And 2) |  |
-| B2 | Plan 9 Channel 7 |  |
-| B3 | Rabid (Over You) |  |
-| B4 | Wait For The Blackout |  |
-| B5 | History Of The World Part 1 |  |
+| Position | Title |
+|----------|--------|
+| A1 | New Rose |
+| A2 | Love Song |
+| A3 | Neat Neat Neat |
+| A4 | I Just Can't Be Happy Today |
+| A5 | Jet Boy, Jet Girl |
+| A6 | Hit Or Miss |
+| A7 | There Ain't No Sanity Clause |
+| B1 | Smash It Up (Parts 1 And 2) |
+| B2 | Plan 9 Channel 7 |
+| B3 | Rabid (Over You) |
+| B4 | Wait For The Blackout |
+| B5 | History Of The World Part 1 |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 | Format         | Vinyl LP Compilation Reissue Stereo |
 | Label          | Ace |
 | Catalog Number | DAM 1 |
-| Notes | Issued in an unlaminated sleeve.<br>Top opening picture inner sleeve with a light gloss finish.<br>Package came shrink-wrapped.<br><br>℗&© 2023 Ace Records Ltd.<br><br>Runouts are laser etched. |
+| Notes | Issued in an unlaminated sleeve. Top opening picture inner sleeve with a light gloss finish. Package came shrink-wrapped.  ℗&© 2023 Ace Records Ltd.  Runouts are laser etched. |
 | Discogs URL    | [The Damned - Another Great Record From The Damned: The Best Of The Damned](https://www.discogs.com/release/27538179-The-Damned-Another-Great-Record-From-The-Damned-The-Best-Of-The-Damned) |

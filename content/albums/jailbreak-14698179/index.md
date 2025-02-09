@@ -33,17 +33,17 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jailbreak |  |
-| A2 | Angel From The Coast |  |
-| A3 | Running Back |  |
-| A4 | Romeo And The Lonely Girl |  |
-| A5 | Warriors |  |
-| B1 | The Boys Are Back In Town |  |
-| B2 | Fight Or Fall |  |
-| B3 | Cowboy Song |  |
-| B4 | Emerald |  |
+| Position | Title |
+|----------|--------|
+| A1 | Jailbreak |
+| A2 | Angel From The Coast |
+| A3 | Running Back |
+| A4 | Romeo And The Lonely Girl |
+| A5 | Warriors |
+| B1 | The Boys Are Back In Town |
+| B2 | Fight Or Fall |
+| B3 | Cowboy Song |
+| B4 | Emerald |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Vertigo |
 | Catalog Number | 0802631 |
-| Notes | 2020 reissue. <br>180g vinyl. <br>Die cut sleeve.<br>Some copies include "The Sound Of Vinyl" download code.<br><br>℗ 2014 © 2014<br>Made in Germany.<br><br>Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |
+| Notes | 2020 reissue.  180g vinyl.  Die cut sleeve. Some copies include "The Sound Of Vinyl" download code.  ℗ 2014 © 2014 Made in Germany.  Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |
 | Discogs URL    | [Thin Lizzy - Jailbreak](https://www.discogs.com/release/14698179-Thin-Lizzy-Jailbreak) |

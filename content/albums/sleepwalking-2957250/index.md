@@ -27,20 +27,20 @@ Sleepwalking occurs during slow-wave sleep (N3) of non-rapid eye movement sleep 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Playground Brutality | 2:46 |
-| A2 | Armchair Anarchist | 3:12 |
-| A3 | Queen Jane | 3:54 |
-| A4 | Sad To See You Go | 3:29 |
-| A5 | Help Yourself | 3:22 |
-| A6 | Tomorrow's World | 6:16 |
-| B1 | Ten Years Asleep | 3:04 |
-| B2 | Honesty Kills | 4:51 |
-| B3 | Sequinned Thug | 4:55 |
-| B4 | Sleepwalking In The Five O'Clock Shadow | 3:49 |
-| B5 | Stay Free | 3:12 |
-| B6 | Pyromaniacs Anonymous | 3:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Playground Brutality |
+| A2 | Armchair Anarchist |
+| A3 | Queen Jane |
+| A4 | Sad To See You Go |
+| A5 | Help Yourself |
+| A6 | Tomorrow's World |
+| B1 | Ten Years Asleep |
+| B2 | Honesty Kills |
+| B3 | Sequinned Thug |
+| B4 | Sleepwalking In The Five O'Clock Shadow |
+| B5 | Stay Free |
+| B6 | Pyromaniacs Anonymous |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Sleepwalking occurs during slow-wave sleep (N3) of non-rapid eye movement sleep 
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 6014 |
-| Notes | ℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd.<br>Release features Chrysalis and Scorch Records logos.<br> |
+| Notes | ℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd.  Release features Chrysalis and Scorch Records logos.   |
 | Discogs URL    | [Kingmaker - Sleepwalking](https://www.discogs.com/release/2957250-Kingmaker-Sleepwalking) |

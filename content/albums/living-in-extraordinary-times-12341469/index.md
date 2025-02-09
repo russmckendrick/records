@@ -40,20 +40,20 @@ Living in Extraordinary Times received generally positive reviews from music cri
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hank |  |
-| A2 | Coming Home (Pt.2) |  |
-| A3 | Leviathan |  |
-| B1 | Heads |  |
-| B2 | Many Faces |  |
-| B3 | How Hard The Day |  |
-| C1 | Extraordinary Times |  |
-| C2 | Picture Of This Place |  |
-| C3 | Hope To Sleep |  |
-| D1 | Better Than That |  |
-| D2 | Mask |  |
-| D3 | What's It All About |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hank |
+| A2 | Coming Home (Pt.2) |
+| A3 | Leviathan |
+| B1 | Heads |
+| B2 | Many Faces |
+| B3 | How Hard The Day |
+| C1 | Extraordinary Times |
+| C2 | Picture Of This Place |
+| C3 | Hope To Sleep |
+| D1 | Better Than That |
+| D2 | Mask |
+| D3 | What's It All About |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Living in Extraordinary Times received generally positive reviews from music cri
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT438ELP1 |
-| Notes | Indie Stores Exclusive<br>Magenta Coloured Vinyl<br>Gatefold Jacket<br>180 Gram Vinyl<br>Includes Download Code  |
+| Notes | Indie Stores Exclusive Magenta Coloured Vinyl Gatefold Jacket 180 Gram Vinyl Includes Download Code  |
 | Discogs URL    | [James - Living In Extraordinary Times ](https://www.discogs.com/release/12341469-James-Living-In-Extraordinary-Times-) |

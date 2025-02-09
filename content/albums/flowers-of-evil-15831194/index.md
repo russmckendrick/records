@@ -35,16 +35,16 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Last Dance |  |
-| A2 | Russian Doll |  |
-| A3 | Machine Guns And Peacock Feathers |  |
-| A4 | Hour Of The Wolf |  |
-| B1 | Apocalypse 1993 |  |
-| B2 | Little Boy |  |
-| B3 | Nostalgia |  |
-| B4 | A Thousand Cuts |  |
+| Position | Title |
+|----------|--------|
+| A1 | One Last Dance |
+| A2 | Russian Doll |
+| A3 | Machine Guns And Peacock Feathers |
+| A4 | Hour Of The Wolf |
+| B1 | Apocalypse 1993 |
+| B2 | Little Boy |
+| B3 | Nostalgia |
+| B4 | A Thousand Cuts |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
 | Label          | House of Mythology |
 | Catalog Number | HOM023LPC |
-| Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve.<br>Includes a 12" matte paper four-page booklet. <br>Pressed in 1000 copies.  |
+| Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve. Includes a 12" matte paper four-page booklet.  Pressed in 1000 copies.  |
 | Discogs URL    | [Ulver -  Flowers Of Evil](https://www.discogs.com/release/15831194-Ulver-Flowers-Of-Evil) |

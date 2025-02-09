@@ -29,12 +29,12 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Forge - Of Two Forms | 17:50 |
-| B | Mandrel Cantus | 11:23 |
-| C | Causleen's Wheel | 15:26 |
-| D | Reya Pavan | 10:42 |
+| Position | Title |
+|----------|--------|
+| A | Forge - Of Two Forms |
+| B | Mandrel Cantus |
+| C | Causleen's Wheel |
+| D | Reya Pavan |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 | Format         | Vinyl 2× LP Album Limited Edition (Clear With Black And Gold Splatter) |
 | Label          | Adderstone Records |
 | Catalog Number | ASR001 |
-| Notes | © & ℗ Jo Quail, 2019.<br><br>Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.<br> |
+| Notes | © & ℗ Jo Quail, 2019.  Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.  |
 | Discogs URL    | [Jo Quail - Exsolve](https://www.discogs.com/release/14196389-Jo-Quail-Exsolve) |

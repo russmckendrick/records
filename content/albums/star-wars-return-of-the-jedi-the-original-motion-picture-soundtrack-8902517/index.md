@@ -29,19 +29,19 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Main Title (The Story Continues) | 5:09 |
-| A2 | Into The Trap | 2:36 |
-| A3 | Luke And Leia | 4:44 |
-| A4 | Parade Of The Ewoks | 3:25 |
-| A5 | Han Solo Returns (At The Court Of Jabba The Hutt) | 4:10 |
-| A6 | Lapti Nek (Jabba's Palace Band) | 2:49 |
-| B1 | The Forest Battle | 4:01 |
-| B2 | Rebel Briefing | 2:22 |
-| B3 | The Emperor | 2:41 |
-| B4 | The Return Of The Jedi | 5:02 |
-| B5 | Ewok Celebration And Finale | 8:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Main Title (The Story Continues) |
+| A2 | Into The Trap |
+| A3 | Luke And Leia |
+| A4 | Parade Of The Ewoks |
+| A5 | Han Solo Returns (At The Court Of Jabba The Hutt) |
+| A6 | Lapti Nek (Jabba's Palace Band) |
+| B1 | The Forest Battle |
+| B2 | Rebel Briefing |
+| B3 | The Emperor |
+| B4 | The Return Of The Jedi |
+| B5 | Ewok Celebration And Finale |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl LP (Gold) |
 | Label          | RSO |
 | Catalog Number | 28MW 0031 |
-| Notes | Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.<br><br>Gatefold sleeve. <br><br><br><br><br> |
+| Notes | Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.       |
 | Discogs URL    | [John Williams - Star Wars / Return Of The Jedi - The Original Motion Picture Soundtrack](https://www.discogs.com/release/8902517-John-Williams-4-Star-Wars-Return-Of-The-Jedi-The-Original-Motion-Picture-Soundtrack) |

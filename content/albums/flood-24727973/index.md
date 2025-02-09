@@ -27,30 +27,30 @@ Flood is the 1994 debut full-length album by the English rock band Headswim, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gone To Pot |  |
-| A2 | Soup |  |
-| A3 | Try Disappointed |  |
-| A4 | Crawl |  |
-| A5 | Dead |  |
-| A6 | Years On Me |  |
-| B1 | Apple Of My Eye |  |
-| B2 | Down |  |
-| B3 | Stinkhorn |  |
-| B4 | Safe Harvest |  |
-| B5 | Beneath A Black Moon |  |
-| C1 | Rolling Intro |  |
-| C2 | Gone To Pot (BBC R1 Rock Show) |  |
-| C3 | Stinkhorn (BBC R1 Rock Show) |  |
-| C4 | Try Disappointed (BBC R1 Rock Show) |  |
-| C5 | Beneath A Black Moon (BBC R1 Rock Show) |  |
-| C6 | The Fear |  |
-| D1 | Apprenticed To Pain |  |
-| D2 | Morning Song |  |
-| D3 | Rotting Tooth |  |
-| D4 | Proud |  |
-| D5 | Precipity Flood |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gone To Pot |
+| A2 | Soup |
+| A3 | Try Disappointed |
+| A4 | Crawl |
+| A5 | Dead |
+| A6 | Years On Me |
+| B1 | Apple Of My Eye |
+| B2 | Down |
+| B3 | Stinkhorn |
+| B4 | Safe Harvest |
+| B5 | Beneath A Black Moon |
+| C1 | Rolling Intro |
+| C2 | Gone To Pot (BBC R1 Rock Show) |
+| C3 | Stinkhorn (BBC R1 Rock Show) |
+| C4 | Try Disappointed (BBC R1 Rock Show) |
+| C5 | Beneath A Black Moon (BBC R1 Rock Show) |
+| C6 | The Fear |
+| D1 | Apprenticed To Pain |
+| D2 | Morning Song |
+| D3 | Rotting Tooth |
+| D4 | Proud |
+| D5 | Precipity Flood |
 
 
 ## Apple Music

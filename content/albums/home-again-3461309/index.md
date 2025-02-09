@@ -30,18 +30,18 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tell Me A Tale | 4:09 |
-| A2 | I'm Getting Ready | 2:21 |
-| A3 | I'll Get Along | 3:26 |
-| A4 | Rest | 3:50 |
-| A5 | Home Again | 3:29 |
-| B1 | Bones | 3:45 |
-| B2 | Always Waiting | 4:30 |
-| B3 | I Won't Lie | 4:01 |
-| B4 | Any Day Will Do Fine | 3:37 |
-| B5 | Worry Walks Beside Me | 4:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Tell Me A Tale |
+| A2 | I'm Getting Ready |
+| A3 | I'll Get Along |
+| A4 | Rest |
+| A5 | Home Again |
+| B1 | Bones |
+| B2 | Always Waiting |
+| B3 | I Won't Lie |
+| B4 | Any Day Will Do Fine |
+| B5 | Worry Walks Beside Me |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 2797133 |
-| Notes | ℗ & © Polydor Ltd. The Copyright in this sound recording is owned by Polydor Ltd. A Universal Music Company<br><br>Mastered at Electric Mastering - London<br>Except A5 Mastered at 24-96 Mastering<br>Published by Warner Chappell<br>Art Direction at Big Active<br><br>Runouts are laser-etched, except "Guy's - ELECTRIC", which is hand-etched. |
+| Notes | ℗ & © Polydor Ltd. The Copyright in this sound recording is owned by Polydor Ltd. A Universal Music Company  Mastered at Electric Mastering - London Except A5 Mastered at 24-96 Mastering Published by Warner Chappell Art Direction at Big Active  Runouts are laser-etched, except "Guy's - ELECTRIC", which is hand-etched. |
 | Discogs URL    | [Michael Kiwanuka - Home Again](https://www.discogs.com/release/3461309-Michael-Kiwanuka-Home-Again) |

@@ -45,33 +45,33 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Incident (Part 1) |  |
-| A1 | Occam's Razor |  |
-| A2 | The Blind House |  |
-| A3 | Great Expectations |  |
-| A4 | Kneel And Disconnect |  |
-| A5 | Drawing The Line |  |
-| A6 | The Incident |  |
-| A7 | Your Unpleasant Family |  |
-|  | The Incident (Part 2) |  |
-| B1 | The Yellow Windows Of The Evening Train |  |
-| B2 | Time Flies |  |
-|  | The Incident (Part 3) |  |
-| C1 | Degree Zero Of Liberty |  |
-| C2 | Octane Twisted |  |
-| C3 | The Séance |  |
-| C4 | Circle Of Manias |  |
-| C5 | I Drive The Hearse |  |
-|  | - |  |
-| D1 | Hatesong |  |
-| D2 | Stars Die |  |
-| E3 | Russia On Ice / The Pills I'm Taking |  |
-| E4 | Bonnie The Cat |  |
-| F1 | Even Less |  |
-| G1 | Dislocated Day |  |
-| G2 | Arriving Somewhere But Not Here |  |
+| Position | Title |
+|----------|--------|
+|  | The Incident (Part 1) |
+| A1 | Occam's Razor |
+| A2 | The Blind House |
+| A3 | Great Expectations |
+| A4 | Kneel And Disconnect |
+| A5 | Drawing The Line |
+| A6 | The Incident |
+| A7 | Your Unpleasant Family |
+|  | The Incident (Part 2) |
+| B1 | The Yellow Windows Of The Evening Train |
+| B2 | Time Flies |
+|  | The Incident (Part 3) |
+| C1 | Degree Zero Of Liberty |
+| C2 | Octane Twisted |
+| C3 | The Séance |
+| C4 | Circle Of Manias |
+| C5 | I Drive The Hearse |
+|  | - |
+| D1 | Hatesong |
+| D2 | Stars Die |
+| E3 | Russia On Ice / The Pills I'm Taking |
+| E4 | Bonnie The Cat |
+| F1 | Even Less |
+| G1 | Dislocated Day |
+| G2 | Arriving Somewhere But Not Here |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 | Format         | Box Set Album Reissue, Vinyl 3× LP Stereo, Vinyl LP Single Sided Etched |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM132LBX |
-| Notes | 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane<br><br>Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010 <br><br>℗ 2012 Porcupine Tree © 2012 Porcupine Tree<br>Made in the EU |
+| Notes | 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane  Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010   ℗ 2012 Porcupine Tree © 2012 Porcupine Tree Made in the EU |
 | Discogs URL    | [Porcupine Tree - Octane Twisted](https://www.discogs.com/release/18252976-Porcupine-Tree-Octane-Twisted) |

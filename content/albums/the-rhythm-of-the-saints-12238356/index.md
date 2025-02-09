@@ -34,18 +34,18 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Obvious Child |  |
-| A2 | Can't Run But |  |
-| A3 | The Coast |  |
-| A4 | Proof |  |
-| A5 | Further To Fly |  |
-| B1 | She Moves On |  |
-| B2 | Born At The Right Time |  |
-| B3 | The Cool, Cool River |  |
-| B4 | Spirit Voices |  |
-| B5 | The Rhythm Of The Saints |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Obvious Child |
+| A2 | Can't Run But |
+| A3 | The Coast |
+| A4 | Proof |
+| A5 | Further To Fly |
+| B1 | She Moves On |
+| B2 | Born At The Right Time |
+| B3 | The Cool, Cool River |
+| B4 | Spirit Voices |
+| B5 | The Rhythm Of The Saints |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 | Format         | Vinyl LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26098-1 |
-| Notes | ℗ 1990 Paul Simon<br><br>Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM<br>Runout PR-P suggests Mastered at P.R. Records Limited.<br><br><br>Catalogue No., Artist and Title all visible top of front cover and spine<br> |
+| Notes | ℗ 1990 Paul Simon  Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM Runout PR-P suggests Mastered at P.R. Records Limited.   Catalogue No., Artist and Title all visible top of front cover and spine  |
 | Discogs URL    | [Paul Simon - The Rhythm Of The Saints](https://www.discogs.com/release/12238356-Paul-Simon-The-Rhythm-Of-The-Saints) |

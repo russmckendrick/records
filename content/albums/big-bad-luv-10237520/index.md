@@ -34,19 +34,19 @@ styles: ["Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sallisaw Blue |  |
-| A2 | Old Wounds |  |
-| A3 | Every Kind Of Wrong |  |
-| A4 | Love Is Not An Answer |  |
-| A5 | Lies I Chose To Believe |  |
-| B1 | Amen, So Be It |  |
-| B2 | No Glory In Regret |  |
-| B3 | Ain't We Gold |  |
-| B4 | Slow Down Easy |  |
-| B5 | It Don't Suit Me (Like Before) |  |
-| B6 | Latchkey Kid |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sallisaw Blue |
+| A2 | Old Wounds |
+| A3 | Every Kind Of Wrong |
+| A4 | Love Is Not An Answer |
+| A5 | Lies I Chose To Believe |
+| B1 | Amen, So Be It |
+| B2 | No Glory In Regret |
+| B3 | Ain't We Gold |
+| B4 | Slow Down Easy |
+| B5 | It Don't Suit Me (Like Before) |
+| B6 | Latchkey Kid |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Folk Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | 4AD |
 | Catalog Number | 4AD0007LP |
-| Notes | Housed in matte gatefold sleeve with color printed inner sleeve and separate printed insert featuring lyrics and credits.<br><br>Includes download card.<br>includes a tattoo sticker.<br><br>Runouts are etched. |
+| Notes | Housed in matte gatefold sleeve with color printed inner sleeve and separate printed insert featuring lyrics and credits.  Includes download card. includes a tattoo sticker.  Runouts are etched. |
 | Discogs URL    | [John Moreland - Big Bad Luv](https://www.discogs.com/release/10237520-John-Moreland-Big-Bad-Luv) |

@@ -57,26 +57,26 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Things Left Unsaid | 4:23 |
-| A2 | It's What We Do | 6:18 |
-| A3 | Ebb And Flow | 1:45 |
-| B1 | Sum | 4:48 |
-| B2 | Skins | 2:37 |
-| B3 | Unsung | 1:06 |
-| B4 | Anisina | 3:05 |
-| C1 |  The Lost Art Of Conversation | 1:45 |
-| C2 | On Noodle Street | 1:40 |
-| C3 | Night Light | 1:42 |
-| C4 |  Allons-y (1) | 1:56 |
-| C5 | Autumn '68 | 1:32 |
-| C6 | Allons-y (2) | 1:30 |
-| C7 | Talkin' Hawkin' | 3:24 |
-| D1 | Calling | 3:38 |
-| D2 | Eyes To Pearls | 1:51 |
-| D3 | Surfacing | 2:46 |
-| D4 | Louder Than Words | 6:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Things Left Unsaid |
+| A2 | It's What We Do |
+| A3 | Ebb And Flow |
+| B1 | Sum |
+| B2 | Skins |
+| B3 | Unsung |
+| B4 | Anisina |
+| C1 |  The Lost Art Of Conversation |
+| C2 | On Noodle Street |
+| C3 | Night Light |
+| C4 |  Allons-y (1) |
+| C5 | Autumn '68 |
+| C6 | Allons-y (2) |
+| C7 | Talkin' Hawkin' |
+| D1 | Calling |
+| D2 | Eyes To Pearls |
+| D3 | Surfacing |
+| D4 | Louder Than Words |
 
 
 ## Apple Music
@@ -94,5 +94,5 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 | Format         | Vinyl 2× LP Album Stereo (180 gram) |
 | Label          | Parlophone |
 | Catalog Number | 825646215478 |
-| Notes | Issued in a gatefold sleeve.<br><br>Matrix cat# is etched, except part beginning with TML which is stamped<br><br>Made in the EU<br><br>Pressing plant uncredited, identified by the matrix numbers. <br><br>Printed on front cover sticker:<br>"PINK FLOYD<br>ENDLESS RIVER<br>2-LP SET includes<br>• Heavyweight 180 gram vinyl<br>• Gatefold sleeve, full colour inner bags<br>• 16-page 275mm x 275mm booklet with<br>unseen photographs from 1993 sessions<br>• Download card<br>825646215478"<br><br>℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd.<br>© 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd.<br>© 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company.<br><br>Track durations are not printed on the release |
+| Notes | Issued in a gatefold sleeve.  Matrix cat# is etched, except part beginning with TML which is stamped  Made in the EU  Pressing plant uncredited, identified by the matrix numbers.   Printed on front cover sticker: "PINK FLOYD ENDLESS RIVER 2-LP SET includes • Heavyweight 180 gram vinyl • Gatefold sleeve, full colour inner bags • 16-page 275mm x 275mm booklet with unseen photographs from 1993 sessions • Download card 825646215478"  ℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company.  Track durations are not printed on the release |
 | Discogs URL    | [Pink Floyd - The Endless River](https://www.discogs.com/release/6268164-Pink-Floyd-The-Endless-River) |

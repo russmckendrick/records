@@ -35,17 +35,17 @@ Felt Mountain was generally well received by music critics, and was described as
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lovely Head |  |
-| A2 | Paper Bag |  |
-| A3 | Human |  |
-| A4 | Pilots |  |
-| A5 | Deer Stop |  |
-| B1 | Felt Mountain |  |
-| B2 | Oompa Radar |  |
-| B3 | Utopia |  |
-| B4 | Horse Tears |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lovely Head |
+| A2 | Paper Bag |
+| A3 | Human |
+| A4 | Pilots |
+| A5 | Deer Stop |
+| B1 | Felt Mountain |
+| B2 | Oompa Radar |
+| B3 | Utopia |
+| B4 | Horse Tears |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Felt Mountain was generally well received by music critics, and was described as
 | Format         | Vinyl LP Album Reissue (White, 180g) |
 | Label          | Mute |
 | Catalog Number | STUMM188X |
-| Notes | Inner Sleeve:<br>All tracks written, performed, & produced by Will Gregory and Alison Goldfrapp.<br>Except *<br><br>All tracks recorded and mixed at home and at the bungalow except for: Human vocal recorded at Christchurch Studios. Deer Stop mixed at 'The Instrument'. Utopia mixed at 'Eden Studios'.<br>Additional Mixing: Utopia - Dave Bascombe, Human - Nick Batt, Deer Stop & Paper Bag - Kevin Paul. Additional Engineering: Nick Batt, Luke Gordon, Kevin Paul, David Lord.<br>*Human (Norfolk/Locke/Goldfrapp/Gregory) Bug Music Ltd/Copyright Control.<br>Inside photo of Will Gregory & front cover by Joe Dillworth, inside photo of Alison Goldfrapp by Anna Fox, landscape photography by Ⓒ C.L.Schmidt & Gunter Graefenhain, / britstock IFA.<br><br>Our many thanks to Steve Claydon, Colin Wallace, Daniel Miller & everyone at Mute, John Parish, Adrian Utley, Carole Pearson, Nick Batt, Anna Fox, Joe Dillworth, and all the musicians who played on this album.<br>Alison thanks Ma, Pa and Family, Sir Steve, all the old girls, Ennio, Hazel and all my mates xxxx.<br>Will thanks Carole Pearson, Hazel Grian & Sergio Leone.<br><br>Outer Sleeve:<br>Ⓟ 2000 Mute Records Ltd., a BMG Company<br>Ⓒ 2015 Mute Records Ltd., a BMG Company<br>Made in the EU.<br><br>Sticker states:<br>"Heavyweight<br>180 Gram<br>White Vinyl<br>STUMM188X" |
+| Notes | Inner Sleeve: All tracks written, performed, & produced by Will Gregory and Alison Goldfrapp. Except *  All tracks recorded and mixed at home and at the bungalow except for: Human vocal recorded at Christchurch Studios. Deer Stop mixed at 'The Instrument'. Utopia mixed at 'Eden Studios'. Additional Mixing: Utopia - Dave Bascombe, Human - Nick Batt, Deer Stop & Paper Bag - Kevin Paul. Additional Engineering: Nick Batt, Luke Gordon, Kevin Paul, David Lord. *Human (Norfolk/Locke/Goldfrapp/Gregory) Bug Music Ltd/Copyright Control. Inside photo of Will Gregory & front cover by Joe Dillworth, inside photo of Alison Goldfrapp by Anna Fox, landscape photography by Ⓒ C.L.Schmidt & Gunter Graefenhain, / britstock IFA.  Our many thanks to Steve Claydon, Colin Wallace, Daniel Miller & everyone at Mute, John Parish, Adrian Utley, Carole Pearson, Nick Batt, Anna Fox, Joe Dillworth, and all the musicians who played on this album. Alison thanks Ma, Pa and Family, Sir Steve, all the old girls, Ennio, Hazel and all my mates xxxx. Will thanks Carole Pearson, Hazel Grian & Sergio Leone.  Outer Sleeve: Ⓟ 2000 Mute Records Ltd., a BMG Company Ⓒ 2015 Mute Records Ltd., a BMG Company Made in the EU.  Sticker states: "Heavyweight 180 Gram White Vinyl STUMM188X" |
 | Discogs URL    | [Goldfrapp - Felt Mountain](https://www.discogs.com/release/7718066-Goldfrapp-Felt-Mountain) |

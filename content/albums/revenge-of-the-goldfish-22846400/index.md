@@ -31,20 +31,20 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Generations |  |
-| A2 | Saviour |  |
-| A3 | Bitches Brew |  |
-| A4 | Smoking Her Clothes |  |
-| A5 | Fire |  |
-| A6 | Here Comes The Flood |  |
-| B1 | Dragging Me Down |  |
-| B2 | A Little Disappeared |  |
-| B3 | Two Worlds Collide |  |
-| B4 | Mystery |  |
-| B5 | Rain Song |  |
-| B6 | Irresistible Force |  |
+| Position | Title |
+|----------|--------|
+| A1 | Generations |
+| A2 | Saviour |
+| A3 | Bitches Brew |
+| A4 | Smoking Her Clothes |
+| A5 | Fire |
+| A6 | Here Comes The Flood |
+| B1 | Dragging Me Down |
+| B2 | A Little Disappeared |
+| B3 | Two Worlds Collide |
+| B4 | Mystery |
+| B5 | Rain Song |
+| B6 | Irresistible Force |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Transparent, 30th Anniversary) |
 | Label          | Mute |
 | Catalog Number | ldung19 |
-| Notes | Hype sticker on sleeve.<br>Inner sleeve with lyrics reports "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
+| Notes | Hype sticker on sleeve. Inner sleeve with lyrics reports "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
 | Discogs URL    | [Inspiral Carpets - Revenge Of The Goldfish ™](https://www.discogs.com/release/22846400-Inspiral-Carpets-Revenge-Of-The-Goldfish-) |

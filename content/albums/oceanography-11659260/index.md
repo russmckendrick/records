@@ -34,32 +34,32 @@ Oceanographers draw upon a wide range of disciplines to deepen their understandi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 1:55 |
-| A2 | Oceanography | 4:43 |
-| A3 | Will & Testament | 3:54 |
-| A4 | Bruising | 3:37 |
-| A5 | Ruins | 4:44 |
-| A6 | One Word Answers | 5:35 |
-| B1 | The Departure | 4:16 |
-| B2 | Legacy | 5:32 |
-| B3 | Former Glories | 3:39 |
-| B4 | Maria | 4:04 |
-| B5 | All I Have | 3:44 |
-| B6 | The Weather | 5:04 |
-| CD01 | Intro |  |
-| CD02 | Oceanography |  |
-| CD03 | Will & Testament |  |
-| CD04 | Bruising |  |
-| CD05 | Ruins |  |
-| CD06 | One Word Answers |  |
-| CD07 | The Departure |  |
-| CD08 | Legacy |  |
-| CD09 | Former Glories |  |
-| CD10 | Maria |  |
-| CD11 | All I Have |  |
-| CD12 | The Weather |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Oceanography |
+| A3 | Will & Testament |
+| A4 | Bruising |
+| A5 | Ruins |
+| A6 | One Word Answers |
+| B1 | The Departure |
+| B2 | Legacy |
+| B3 | Former Glories |
+| B4 | Maria |
+| B5 | All I Have |
+| B6 | The Weather |
+| CD01 | Intro |
+| CD02 | Oceanography |
+| CD03 | Will & Testament |
+| CD04 | Bruising |
+| CD05 | Ruins |
+| CD06 | One Word Answers |
+| CD07 | The Departure |
+| CD08 | Legacy |
+| CD09 | Former Glories |
+| CD10 | Maria |
+| CD11 | All I Have |
+| CD12 | The Weather |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Oceanographers draw upon a wide range of disciplines to deepen their understandi
 | Format         | Vinyl LP, CD, All Media Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 045 |
-| Notes | 180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.<br><br>Copies purchased in Charlie Burns official store includes a signed postcard.<br><br>Recorded in fits and starts between October 2014 and October 2017. |
+| Notes | 180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.  Copies purchased in Charlie Burns official store includes a signed postcard.  Recorded in fits and starts between October 2014 and October 2017. |
 | Discogs URL    | [Charlie Barnes - Oceanography](https://www.discogs.com/release/11659260-Charlie-Barnes-Oceanography) |

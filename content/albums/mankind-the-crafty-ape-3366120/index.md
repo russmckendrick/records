@@ -36,26 +36,26 @@ styles: ["Post Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Chapter I (A Thread) |  |
-| A1 | Nothing (We Are) |  |
-| A2 | The Heart Of Every Country |  |
-| A3 | Get Down And Live With It |  |
-| A4 | (In The Yonder Marsh) |  |
-| B1 | A Letter Concerning Dogheads |  |
-| B2 | The Brain / Poznan |  |
-|  | Chapter II (The Trap) |  |
-| B3 | Laying Traps |  |
-| B4 | Born In A Hurricane |  |
-| C1 | Release The Clowns |  |
-| C2 | (What?) |  |
-|  | Chapter III (The Blues Of Man) |  |
-| C3 | A Suggestion (Not A Very Nice One) |  |
-| C4 | (Dig, Bury, Deny) |  |
-| C5 | Operation Mincemeat |  |
-| D1 | We'll Never Get Out Of This World Alive |  |
-| D2 | Faced With Complete Failure, Utter Defiance Is The Only Response |  |
+| Position | Title |
+|----------|--------|
+|  | Chapter I (A Thread) |
+| A1 | Nothing (We Are) |
+| A2 | The Heart Of Every Country |
+| A3 | Get Down And Live With It |
+| A4 | (In The Yonder Marsh) |
+| B1 | A Letter Concerning Dogheads |
+| B2 | The Brain / Poznan |
+|  | Chapter II (The Trap) |
+| B3 | Laying Traps |
+| B4 | Born In A Hurricane |
+| C1 | Release The Clowns |
+| C2 | (What?) |
+|  | Chapter III (The Blues Of Man) |
+| C3 | A Suggestion (Not A Very Nice One) |
+| C4 | (Dig, Bury, Deny) |
+| C5 | Operation Mincemeat |
+| D1 | We'll Never Get Out Of This World Alive |
+| D2 | Faced With Complete Failure, Utter Defiance Is The Only Response |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Post Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7360 1 |
-| Notes | Recorded and Assembled at Chapel Studio, Lincolnshire, UK during August '11<br>All rights reserved. ℗ & © 2011 Mascot Music Production And Publishing BV.<br><br>Gatefold sleeve, comes with color inner sleeves and a poster. |
+| Notes | Recorded and Assembled at Chapel Studio, Lincolnshire, UK during August '11 All rights reserved. ℗ & © 2011 Mascot Music Production And Publishing BV.  Gatefold sleeve, comes with color inner sleeves and a poster. |
 | Discogs URL    | [Crippled Black Phoenix - (Mankind) The Crafty Ape](https://www.discogs.com/release/3366120-Crippled-Black-Phoenix-Mankind-The-Crafty-Ape) |

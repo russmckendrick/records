@@ -30,21 +30,21 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wrinkle |  |
-| A2 | FXMLDR |  |
-| A3 | Swarm |  |
-| A4 | Son Of A Serpent |  |
-| B1 | Birdwatching |  |
-| B2 | Everyday Ghosts |  |
-| B3 | Chromology |  |
-| C1 | Geronimo |  |
-| C2 | The Life Of Vermin |  |
-| C3 | Shatner's Lament |  |
-| D1 | Anchor |  |
-| D2 | New Moon |  |
-| D3 | Terraformer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wrinkle |
+| A2 | FXMLDR |
+| A3 | Swarm |
+| A4 | Son Of A Serpent |
+| B1 | Birdwatching |
+| B2 | Everyday Ghosts |
+| B3 | Chromology |
+| C1 | Geronimo |
+| C2 | The Life Of Vermin |
+| C3 | Shatner's Lament |
+| D1 | Anchor |
+| D2 | New Moon |
+| D3 | Terraformer |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Prog Rock", "Jazz-Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Red Mix/Blue Mix) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI304 |
-| Notes | First Pressing out of 1500 copies<br>Comes in a gatefold sleeve with standard white inner sleeves. <br>20 pages Booklet. And Hype sticker on the sealed sleeve. <br>750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards. |
+| Notes | First Pressing out of 1500 copies Comes in a gatefold sleeve with standard white inner sleeves.  20 pages Booklet. And Hype sticker on the sealed sleeve.  750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards. |
 | Discogs URL    | [Thank You Scientist - Terraformer](https://www.discogs.com/release/13732222-Thank-You-Scientist-Terraformer) |

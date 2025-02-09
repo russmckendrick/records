@@ -32,20 +32,20 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Margaret Sands |  |
-| A2 | Everybody Needs You |  |
-| A3 | Seven Falls |  |
-| A4 | Mountains Of The Moon |  |
-| A5 | Watch Fire |  |
-| A6 | Heavy Petals |  |
-| B7 | The Lookout |  |
-| B8 | The Meadow |  |
-| B9 | The Canyon |  |
-| B10 | Lightning Rod |  |
-| B11 | When It Grows Darkest |  |
-| B12 | Zozobra |  |
+| Position | Title |
+|----------|--------|
+| A1 | Margaret Sands |
+| A2 | Everybody Needs You |
+| A3 | Seven Falls |
+| A4 | Mountains Of The Moon |
+| A5 | Watch Fire |
+| A6 | Heavy Petals |
+| B7 | The Lookout |
+| B8 | The Meadow |
+| B9 | The Canyon |
+| B10 | Lightning Rod |
+| B11 | When It Grows Darkest |
+| B12 | Zozobra |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA744V |
-| Notes | First pressing on Gold coloured vinyl.<br><br>100 copies bought from the Bella Union store came with a signed postcard.<br><br>© 2018 Freak Off The Leash Music (BMI), Adm. by BMG<br><br>Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017<br> |
+| Notes | First pressing on Gold coloured vinyl.  100 copies bought from the Bella Union store came with a signed postcard.  © 2018 Freak Off The Leash Music (BMI), Adm. by BMG  Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017  |
 | Discogs URL    | [Laura Veirs - The Lookout](https://www.discogs.com/release/11865679-Laura-Veirs-The-Lookout) |

@@ -42,30 +42,30 @@ Following their coup, the Mountain, led by Hérault de Séchelles, quickly began
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Path |  |
-| A2 | Atlas Stone |  |
-| A3 | Cockroach King |  |
-| B1 | In Memorian |  |
-| B2 | Because It's There |  |
-| B3 | Falling Back To Earth |  |
-| C1 | As Death Embraces |  |
-| C2 | Pareidolia |  |
-| D1 | Somebody |  |
-| D2 | The Path Unbeaten |  |
-| D3 | Nobody |  |
-| CD-1 | The Path | 2:47 |
-| CD-2 | Atlas Stone | 7:34 |
-| CD-3 | Cockroach King | 8:15 |
-| CD-4 | In Memorian | 4:17 |
-| CD-5 | Because It's There | 4:24 |
-| CD-6 | Falling Back To Earth | 11:51 |
-| CD-7 | As Death Embraces | 3:13 |
-| CD-8 | Pareidolia | 10:51 |
-| CD-9 | Somebody | 9:01 |
-| CD-10 | The Path Unbeaten | 2:12 |
-| CD-11 | Nobody | 4:53 |
+| Position | Title |
+|----------|--------|
+| A1 | The Path |
+| A2 | Atlas Stone |
+| A3 | Cockroach King |
+| B1 | In Memorian |
+| B2 | Because It's There |
+| B3 | Falling Back To Earth |
+| C1 | As Death Embraces |
+| C2 | Pareidolia |
+| D1 | Somebody |
+| D2 | The Path Unbeaten |
+| D3 | Nobody |
+| CD-1 | The Path |
+| CD-2 | Atlas Stone |
+| CD-3 | Cockroach King |
+| CD-4 | In Memorian |
+| CD-5 | Because It's There |
+| CD-6 | Falling Back To Earth |
+| CD-7 | As Death Embraces |
+| CD-8 | Pareidolia |
+| CD-9 | Somebody |
+| CD-10 | The Path Unbeaten |
+| CD-11 | Nobody |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Following their coup, the Mountain, led by Hérault de Séchelles, quickly began
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo, All Media Reissue Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 578 |
-| Notes | Tracks D2, D3, CD-10 and CD-11 are bonus tracks.<br><br>Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve. |
+| Notes | Tracks D2, D3, CD-10 and CD-11 are bonus tracks.  Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve. |
 | Discogs URL    | [Haken - The Mountain](https://www.discogs.com/release/17706778-Haken-2-The-Mountain) |

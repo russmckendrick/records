@@ -54,19 +54,19 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Signs Of Life | 4:24 |
-| A2 | Learning To Fly | 4:52 |
-| A3 | The Dogs Of War | 6:10 |
-| B1 | One Slip | 5:05 |
-| B2 | On The Turning Away | 5:42 |
-| C1 | Yet Another Movie | 6:14 |
-| C2 | Round And Around | 1:13 |
-| C3 | A New Machine (Part 1) | 1:46 |
-| C4 | Terminal Frost | 6:17 |
-| C5 | A New Machine (Part 2) | 0:38 |
-| D1 | Sorrow | 8:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Signs Of Life |
+| A2 | Learning To Fly |
+| A3 | The Dogs Of War |
+| B1 | One Slip |
+| B2 | On The Turning Away |
+| C1 | Yet Another Movie |
+| C2 | Round And Around |
+| C3 | A New Machine (Part 1) |
+| C4 | Terminal Frost |
+| C5 | A New Machine (Part 2) |
+| D1 | Sorrow |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ styles: ["Art Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album Reissue (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP37 |
-| Notes | ℗ 2019 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group Company, for Europe<br>© 2021 Pink Floyd (1987) Ltd. Made in Germany.<br><br>Gatefold sleeve + 24-page booklet with lyrics, credits and photos.<br><br>The front cover features an alternative photograph from the original album cover photoshoot.<br><br>Sticker:<br>Pink Floyd<br>A Momentary Lapse Of Reason<br>Remixed & Updated<br>2-LP Vinyl<br>Remixed in 2019 from the original master tapes<br>Heavyweight 180 gram pressing<br>24-page booklet<br><br>Half-speed master<br>Cut at 45 rpm<br>for enhanced audio quality<br>PFRLP37 01902979208<br><br>Studios:<br>Astoria, Hampton; Britannia Row Studios, London; A&M Studios, Los Angeles; Can Am Studios, Los Angeles; Village Recorder, Los Angeles; Mayfair, London; Audio International, London.<br>Spherical Sound recorded at Le Mobile, Los Angeles.<br><br>Audio Mastering at Tube Mastering.<br>Vinyl Mastering at Metropolis Studios, London.<br><br>Recorded digitally with the exception of the acoustic drums and bass guitar which were recorded on analogue. Dolby SR noise reduction was used for mixing Drums by Ludwig Drum Co. USA, Simmons Electronics UK and Paiste Cymbals.<br><br>New drum tracks recorded with Nick Mason and some of Richard Wright's original keyboard parts revisited.<br><br>All tracks published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited.<br><br>Runout info:<br>- Runouts are etched<br>- "Geometric" marks are mirrored |
+| Notes | ℗ 2019 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group Company, for Europe © 2021 Pink Floyd (1987) Ltd. Made in Germany.  Gatefold sleeve + 24-page booklet with lyrics, credits and photos.  The front cover features an alternative photograph from the original album cover photoshoot.  Sticker: Pink Floyd A Momentary Lapse Of Reason Remixed & Updated 2-LP Vinyl Remixed in 2019 from the original master tapes Heavyweight 180 gram pressing 24-page booklet  Half-speed master Cut at 45 rpm for enhanced audio quality PFRLP37 01902979208  Studios: Astoria, Hampton; Britannia Row Studios, London; A&M Studios, Los Angeles; Can Am Studios, Los Angeles; Village Recorder, Los Angeles; Mayfair, London; Audio International, London. Spherical Sound recorded at Le Mobile, Los Angeles.  Audio Mastering at Tube Mastering. Vinyl Mastering at Metropolis Studios, London.  Recorded digitally with the exception of the acoustic drums and bass guitar which were recorded on analogue. Dolby SR noise reduction was used for mixing Drums by Ludwig Drum Co. USA, Simmons Electronics UK and Paiste Cymbals.  New drum tracks recorded with Nick Mason and some of Richard Wright's original keyboard parts revisited.  All tracks published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited.  Runout info: - Runouts are etched - "Geometric" marks are mirrored |
 | Discogs URL    | [Pink Floyd - A Momentary Lapse Of Reason (Remixed & Updated)](https://www.discogs.com/release/20760595-Pink-Floyd-A-Momentary-Lapse-Of-Reason-Remixed-Updated) |

@@ -33,18 +33,18 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Paradise Waiting |  |
-| A2 | Look At You Now |  |
-| A3 | The Sun Also Rises |  |
-| A4 | Dig |  |
-| A5 | The Modern Age |  |
-| B1 | Cellophane |  |
-| B2 | Car Into The Sea |  |
-| B3 | Blue Like You |  |
-| B4 | More Than I Do |  |
-| B5 | Big Black Sun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Paradise Waiting |
+| A2 | Look At You Now |
+| A3 | The Sun Also Rises |
+| A4 | Dig |
+| A5 | The Modern Age |
+| B1 | Cellophane |
+| B2 | Car Into The Sea |
+| B3 | Blue Like You |
+| B4 | More Than I Do |
+| B5 | Big Black Sun |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 | Format         | Vinyl LP Album Limited Edition (Cream) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |
-| Notes | "Indies only" limited edition cream coloured vinyl.<br>Issued in a matte sleeve. Picture/lyric inner sleeve of matte card.<br>Barcode over-sticker applied to shrink-wrap.<br>Some copies were made available which were signed by the members of the band.<br><br>Label cat# SLEEP19LP on the labels center (side B) and on the back cover.<br>Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.<br><br>Mixed by Stephen Street at The Bunker<br>Made in the EU. |
+| Notes | "Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU. |
 | Discogs URL    | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-2-The-Modern-Age) |

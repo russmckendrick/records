@@ -27,10 +27,10 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Dick Privilege | 3:14 |
-| B | Rat Catch | 2:35 |
+| Position | Title |
+|----------|--------|
+| A | Dick Privilege |
+| B | Rat Catch |
 
 
 ## Apple Music

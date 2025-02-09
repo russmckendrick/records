@@ -38,22 +38,22 @@ Upon release, the album received widespread acclaim from critics, reached number
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Drive |  |
-| A1 | Drive | 4:30 |
-| A2 | Try Not To Breathe | 3:49 |
-| A3 | The Sidewinder Sleeps Tonite | 4:06 |
-| A4 | Everybody Hurts | 5:17 |
-| A5 | New Orleans Instrumental No. 1 | 2:12 |
-| A6 | Sweetness Follows | 4:19 |
-|  | Ride |  |
-| B1 | Monty Got A Raw Deal | 3:16 |
-| B2 | Ignoreland | 4:24 |
-| B3 | Star Me Kitten | 3:15 |
-| B4 | Man On The Moon | 5:12 |
-| B5 | Nightswimming | 4:16 |
-| B6 | Find The River | 3:49 |
+| Position | Title |
+|----------|--------|
+|  | Drive |
+| A1 | Drive |
+| A2 | Try Not To Breathe |
+| A3 | The Sidewinder Sleeps Tonite |
+| A4 | Everybody Hurts |
+| A5 | New Orleans Instrumental No. 1 |
+| A6 | Sweetness Follows |
+|  | Ride |
+| B1 | Monty Got A Raw Deal |
+| B2 | Ignoreland |
+| B3 | Star Me Kitten |
+| B4 | Man On The Moon |
+| B5 | Nightswimming |
+| B6 | Find The River |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Upon release, the album received widespread acclaim from critics, reached number
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-45055-1 |
-| Notes | Repress of the [url=http://www.discogs.com/release/8037481]original 1992 european edition[/url]: while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.<br><br>Comes with printed inner sleeve.<br><br>On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE<br><br>Made in Germany by WARNER MUSIC MANUFACTURING EUROPE<br><br>©  ℗ 1992 R.E.M./ATHENS. LTD.<br><br>9362-45055-1<br>UK: WX488<br><br><br>Some copies come with a yellow sticker on the sleeve saying<br><br>"includes<br>Drive<br>Man On The Moon<br>The Sidewinder<br>Sleep Tonite<br>& Everybody Hurts<br>WX488<br>9362-45055-1" |
+| Notes | Repress of the [url=http://www.discogs.com/release/8037481]original 1992 european edition[/url]: while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.  Comes with printed inner sleeve.  On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE  Made in Germany by WARNER MUSIC MANUFACTURING EUROPE  ©  ℗ 1992 R.E.M./ATHENS. LTD.  9362-45055-1 UK: WX488   Some copies come with a yellow sticker on the sleeve saying  "includes Drive Man On The Moon The Sidewinder Sleep Tonite & Everybody Hurts WX488 9362-45055-1" |
 | Discogs URL    | [REM - Automatic For The People](https://www.discogs.com/release/736266-REM-Automatic-For-The-People) |

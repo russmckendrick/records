@@ -24,23 +24,23 @@ styles: ["Prog Rock", "Acoustic"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lost Song - Part 2 | 6:39 |
-| A2 | Untouchable - Part 1 | 6:29 |
-| B1 | Untouchable - Part 2 | 6:25 |
-| B2 | Thin Air | 6:44 |
-| B3 | Dreaming Light | 6:23 |
-| C1 | Anathema | 7:32 |
-| C2 | Ariel | 6:08 |
-| C3 | Electricity | 3:53 |
-| D1 | Temporary Peace | 5:54 |
-| D2 | The Beginning And The End | 5:21 |
-| D3 | Distant Satellites | 8:04 |
-| E1 | Take Shelter | 9:28 |
-| E2 | Internal Landscapes | 7:03 |
-| F1 | A Natural Disaster | 8:45 |
-| F2 | Fragile Dreams | 7:32 |
+| Position | Title |
+|----------|--------|
+| A1 | The Lost Song - Part 2 |
+| A2 | Untouchable - Part 1 |
+| B1 | Untouchable - Part 2 |
+| B2 | Thin Air |
+| B3 | Dreaming Light |
+| C1 | Anathema |
+| C2 | Ariel |
+| C3 | Electricity |
+| D1 | Temporary Peace |
+| D2 | The Beginning And The End |
+| D3 | Distant Satellites |
+| E1 | Take Shelter |
+| E2 | Internal Landscapes |
+| F1 | A Natural Disaster |
+| F2 | Fragile Dreams |
 
 
 ## Apple Music

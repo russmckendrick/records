@@ -35,15 +35,15 @@ A monochrome or monochromatic image, object or palette is composed of one color 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Exorcist | 6:43 |
-| A2 | This Music | 4:50 |
-| B1 | Soho | 7:39 |
-| B2 | The Silent Flight Of The Raven Winged Hours | 9:03 |
-| C1 | Dawn | 2:42 |
-| C2 | Oceans Of Time | 8:14 |
-| D1 | Some Dreams Come True | 8:34 |
+| Position | Title |
+|----------|--------|
+| A1 | The Exorcist |
+| A2 | This Music |
+| B1 | Soho |
+| B2 | The Silent Flight Of The Raven Winged Hours |
+| C1 | Dawn |
+| C2 | Oceans Of Time |
+| D1 | Some Dreams Come True |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A monochrome or monochromatic image, object or palette is composed of one color 
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE945 |
-| Notes | Anneke van Giersbergen appears courtesy of InsideOut Music.<br>Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope<br><br>Many thanks to my beloved anathema family.<br><br>Dedicated to Ariel & Ester  <br><br>℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh.<br>Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd.<br>Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU. |
+| Notes | Anneke van Giersbergen appears courtesy of InsideOut Music. Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope  Many thanks to my beloved anathema family.  Dedicated to Ariel & Ester    ℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh. Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd. Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU. |
 | Discogs URL    | [Danny Cavanagh - Monochrome](https://www.discogs.com/release/10932389-Danny-Cavanagh-Monochrome) |

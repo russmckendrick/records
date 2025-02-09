@@ -36,46 +36,46 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Sunflower - Original Album |  |
-| A1 | Slip On Through | 2:19 |
-| A2 | This Whole World | 1:58 |
-| A3 | Add Some Music To Your Day | 3:36 |
-| A4 | Got To Know The Woman | 2:43 |
-| A5 | Deirdre | 3:29 |
-| A6 | It's About Time | 2:58 |
-|  | Bonus Tracks (Previously Unreleased) |  |
-| A7 | Cotton Fields (2020 Stereo Mix) | 3:16 |
-| A8 | San Miguel (Backing Vocals) | 0:35 |
-| A9 | It's About Time (Backing Vocals) | 0:50 |
-|  | Sunflower - Original Album |  |
-| B1 | Tears In The Morning | 4:11 |
-| B2 | All I Wanna Do | 2:36 |
-| B3 | Forever | 2:42 |
-| B4 | Our Sweet Love | 2:41 |
-| B5 | At My Window | 2:32 |
-| B6 | Cool, Cool Water | 5:04 |
-|  | Bonus Track (Previously Unreleased) |  |
-| B7  | This Whole World (Live 1988) | 2:01 |
-|  | Surf's Up - Original Album |  |
-| C1 | Don't Go Near The Water | 2:41 |
-| C2 | Long Promised Road | 3:32 |
-| C3 | Take A Load Off Your Feet | 2:32 |
-| C4 | Disney Girls | 4:11 |
-| C5 | Student Demonstration Time | 3:59 |
-|  | Bonus Tracks (Previously Unreleased) |  |
-| C6 | Disney Girls (Live) | 4:19 |
-| C7 | Feel Flows (Backing Vocals) | 0:33 |
-|  | Surf's Up - Original Album |  |
-| D1 | Feel Flows | 4:49 |
-| D2 | Lookin' At Tomorrow (A Welfare Song) | 1:57 |
-| D3 | A Day In The Life Of A Tree | 3:10 |
-| D4 | 'Til I Die | 2:44 |
-| D5 | Surf's Up | 4:11 |
-|  | Bonus Tracks (Previously Unreleased) |  |
-| D6 | A Day In The Life Of A Tree (Track- & Backing Vocals) | 2:54 |
-| D7 | 'Til I Die (A Capella) | 2:11 |
+| Position | Title |
+|----------|--------|
+|  | Sunflower - Original Album |
+| A1 | Slip On Through |
+| A2 | This Whole World |
+| A3 | Add Some Music To Your Day |
+| A4 | Got To Know The Woman |
+| A5 | Deirdre |
+| A6 | It's About Time |
+|  | Bonus Tracks (Previously Unreleased) |
+| A7 | Cotton Fields (2020 Stereo Mix) |
+| A8 | San Miguel (Backing Vocals) |
+| A9 | It's About Time (Backing Vocals) |
+|  | Sunflower - Original Album |
+| B1 | Tears In The Morning |
+| B2 | All I Wanna Do |
+| B3 | Forever |
+| B4 | Our Sweet Love |
+| B5 | At My Window |
+| B6 | Cool, Cool Water |
+|  | Bonus Track (Previously Unreleased) |
+| B7  | This Whole World (Live 1988) |
+|  | Surf's Up - Original Album |
+| C1 | Don't Go Near The Water |
+| C2 | Long Promised Road |
+| C3 | Take A Load Off Your Feet |
+| C4 | Disney Girls |
+| C5 | Student Demonstration Time |
+|  | Bonus Tracks (Previously Unreleased) |
+| C6 | Disney Girls (Live) |
+| C7 | Feel Flows (Backing Vocals) |
+|  | Surf's Up - Original Album |
+| D1 | Feel Flows |
+| D2 | Lookin' At Tomorrow (A Welfare Song) |
+| D3 | A Day In The Life Of A Tree |
+| D4 | 'Til I Die |
+| D5 | Surf's Up |
+|  | Bonus Tracks (Previously Unreleased) |
+| D6 | A Day In The Life Of A Tree (Track- & Backing Vocals) |
+| D7 | 'Til I Die (A Capella) |
 
 
 ## Apple Music
@@ -92,5 +92,5 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 | Format         | All Media Compilation, Vinyl LP Album Compilation Reissue Stereo, Vinyl LP Album Compilation Reissue Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 00602508802102 |
-| Notes | Made in the EU.<br><br>Gatefold sleeve including 4-page booklet<br> |
+| Notes | Made in the EU.  Gatefold sleeve including 4-page booklet  |
 | Discogs URL    | [The Beach Boys - Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)](https://www.discogs.com/release/20015524-The-Beach-Boys-Feel-Flows-The-Sunflower-Surfs-Up-Sessions-1969-1971) |

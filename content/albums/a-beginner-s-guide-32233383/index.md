@@ -28,19 +28,19 @@ A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chime (Edit) |  |
-| A2 | Halcyon (Edit) |  |
-| A3 | Belfast (Edit) |  |
-| A4 | Satan (Spawn) |  |
-| A5 | The Box (Edit) |  |
-| B1 | Lush 3.1 (Edit) |  |
-| B2 | Beached (Edit) |  |
-| B3 | Are We Here? (Edit) |  |
-| B4 | Are You Alive? (Edit) |  |
-| B5 | Style (Edit) |  |
-| B6 | Dirty Rat (Edit) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chime (Edit) |
+| A2 | Halcyon (Edit) |
+| A3 | Belfast (Edit) |
+| A4 | Satan (Spawn) |
+| A5 | The Box (Edit) |
+| B1 | Lush 3.1 (Edit) |
+| B2 | Beached (Edit) |
+| B3 | Are We Here? (Edit) |
+| B4 | Are You Alive? (Edit) |
+| B5 | Style (Edit) |
+| B6 | Dirty Rat (Edit) |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbi
 | Format         | Vinyl LP Compilation |
 | Label          | London Records |
 | Catalog Number | LMS1725246 |
-| Notes | Manufactured in France.<br><br>On hype sticker: <br>11 classic tracks including Chime, Belfast, Halcyon, Beached, Dirty Rat & more. |
+| Notes | Manufactured in France.  On hype sticker:  11 classic tracks including Chime, Belfast, Halcyon, Beached, Dirty Rat & more. |
 | Discogs URL    | [Orbital - A Beginner's Guide](https://www.discogs.com/release/32233383-Orbital-A-Beginners-Guide) |

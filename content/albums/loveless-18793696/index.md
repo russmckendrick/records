@@ -39,19 +39,19 @@ Since its release, Loveless has been widely cited by critics as one of the great
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Only Shallow |  |
-| A2 | Loomer |  |
-| A3 | Touched |  |
-| A4 | To Here Knows When |  |
-| A5 | When You Sleep |  |
-| A6 | I Only Said |  |
-| B1 | Come In Alone |  |
-| B2 | Sometimes |  |
-| B3 | Blown A Wish |  |
-| B4 | What You Want |  |
-| B5 | Soon |  |
+| Position | Title |
+|----------|--------|
+| A1 | Only Shallow |
+| A2 | Loomer |
+| A3 | Touched |
+| A4 | To Here Knows When |
+| A5 | When You Sleep |
+| A6 | I Only Said |
+| B1 | Come In Alone |
+| B2 | Sometimes |
+| B3 | Blown A Wish |
+| B4 | What You Want |
+| B5 | Soon |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Since its release, Loveless has been widely cited by critics as one of the great
 | Format         | Vinyl LP Album Deluxe Edition Reissue Repress (Gatefold) |
 | Label          | Domino |
 | Catalog Number | REWIGLP159X |
-| Notes | Deluxe edition on heavyweight vinyl. Comes in a gatefold tip-on jacket and board-mounted sleeve.<br>Fully analog cut.<br>Includes a printed poly-lined inner sleeve and a download card with choices of MP3 and 16-bit or 24-bit WAV.<br>Repress of the 2018 analog remaster [r=11439719].<br><br>Made in the EU<br><br>Unopened, this version appears identical to [r=21223558]. They can however be distinguished by weight: this one weighs 475g, the other 585g.<br><br>The runouts are hand-etched. |
+| Notes | Deluxe edition on heavyweight vinyl. Comes in a gatefold tip-on jacket and board-mounted sleeve. Fully analog cut. Includes a printed poly-lined inner sleeve and a download card with choices of MP3 and 16-bit or 24-bit WAV. Repress of the 2018 analog remaster [r=11439719].  Made in the EU  Unopened, this version appears identical to [r=21223558]. They can however be distinguished by weight: this one weighs 475g, the other 585g.  The runouts are hand-etched. |
 | Discogs URL    | [My Bloody Valentine - Loveless](https://www.discogs.com/release/18793696-My-Bloody-Valentine-Loveless) |

@@ -29,19 +29,19 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 3000AD Mass |  |
-| A2 | Bermejo And The Devil |  |
-| A3 | Minotaur |  |
-| A4 | Atlas |  |
-| A5 | The Last Dance |  |
-| A6 | Ghost In Smoke |  |
-| B1 | Alien Coast |  |
-| B2 | Hunter And His Hounds |  |
-| B3 | Tin Man Love |  |
-| B4 | Popcorn Ceiling |  |
-| B5 | Love Letter From A Red Roof Inn |  |
+| Position | Title |
+|----------|--------|
+| A1 | 3000AD Mass |
+| A2 | Bermejo And The Devil |
+| A3 | Minotaur |
+| A4 | Atlas |
+| A5 | The Last Dance |
+| A6 | Ghost In Smoke |
+| B1 | Alien Coast |
+| B2 | Hunter And His Hounds |
+| B3 | Tin Man Love |
+| B4 | Popcorn Ceiling |
+| B5 | Love Letter From A Red Roof Inn |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: []
 | Format         | Vinyl LP Album Deluxe Edition Stereo (Ghostly) |
 | Label          | ATO Records |
 | Catalog Number | ATO0590 |
-| Notes | Ghost vinyl with foil cover limited to 2,000 copies. <br><br>First 300 pre-orders receive a signed postcard<br><br>Vinyl pressed in Czech Republic  <br> |
+| Notes | Ghost vinyl with foil cover limited to 2,000 copies.   First 300 pre-orders receive a signed postcard  Vinyl pressed in Czech Republic    |
 | Discogs URL    | [St Paul  The Broken Bones - The Alien Coast](https://www.discogs.com/release/21884815-St-Paul-The-Broken-Bones-The-Alien-Coast) |

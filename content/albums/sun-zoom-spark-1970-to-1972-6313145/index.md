@@ -33,63 +33,63 @@ styles: ["Blues Rock", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Lick My Decals Off, Baby |  |
-| A1 | Lick My Decals Off, Baby | 2:38 |
-| A2 | Doctor Dark | 2:46 |
-| A3 | I Love You, You Big Dummy | 2:54 |
-| A4 | Peon | 2:24 |
-| A5 | Bellerin' Plain | 3:35 |
-| A6 | Woe-Is-Uh-Me-Bop | 2:06 |
-| A7 | Japan In A Dishpan | 3:00 |
-| B1 | I Wanna Find A Woman That'll Hold My Big Toe Till I Have To Go | 1:53 |
-| B2 | Petrified Forest | 1:40 |
-| B3 | One Red Rose That I Mean | 1:53 |
-| B4 | The Buggy Boogie Woogie | 2:19 |
-| B5 | The Smithsonian Institute Blues (Or The Big Dig) | 2:11 |
-| B6 | Space-Age Couple | 2:32 |
-| B7 | The Clouds Are Full Of Wine (Not Whiskey Or Rye) | 2:50 |
-| B8 | Flash Gordon's Ape | 4:57 |
-|  | The Spotlight Kid |  |
-| C1 | I'm Gonna Booglarize You Baby | 4:34 |
-| C2 | White Jam | 2:57 |
-| C3 | Blabber 'N Smoke | 2:48 |
-| C4 | When It Blows It Stacks | 3:41 |
-| C5 | Alice In Blunderland | 3:55 |
-| D1 | The Spotlight Kid | 3:21 |
-| D2 | Click Clack | 3:31 |
-| D3 | Grow Fins | 3:31 |
-| D4 | There Ain't No Santa Claus On The Evenin' Stage | 3:13 |
-| D5 | Glider | 4:37 |
-|  | Clear Spot |  |
-| E1 | Low Yo Yo Stuff | 3:38 |
-| E2 | Nowadays A Woman's Gotta Hit A Man | 3:45 |
-| E3 | Too Much Time | 2:46 |
-| E4 | Circumstances | 3:11 |
-| E5 | My Head Is My Only House Unless It Rains | 2:57 |
-| E6 | Sun Zoom Spark | 2:11 |
-| F1 | Clear Spot | 3:35 |
-| F2 | Crazy Little Thing | 2:35 |
-| F3 | Long Neck Bottles | 3:17 |
-| F4 | Her Eyes Are A Blue Million Miles | 2:54 |
-| F5 | Big Eyed Beans From Venus | 4:23 |
-| F6 | Golden Birdies | 1:37 |
-|  | Out-Takes |  |
-| G1 | Alice In Blunderland (Alternate Version) | 3:55 |
-| G2 | Harry Irene | 3:33 |
-| G3 | I Can't Do This Unless I Can Do This / Seam Crooked Sam | 2:00 |
-| G4 | Pompadour Swamp / Suction Prints | 4:23 |
-| G5 | The Witch Doctor Life | 5:27 |
-| G6 | Two Rips In A Haystack / Kiss Me My Love | 2:38 |
-| G7 | Best Batch Yet (Track) Version 1 | 2:18 |
-| H1 | Your Love Brought Me To Life (Instrumental) | 3:11 |
-| H2 | Dirty Blue Gene (Alternate Version 1) | 2:52 |
-| H3 | Nowadays A Woman's Gotta Hit A Man (Early Mix) | 3:59 |
-| H4 | Kiss Where I Kain't | 2:44 |
-| H5 | Circumstances (Alternate Version 2) | 3:23 |
-| H6 | Little Scratch | 2:57 |
-| H7 | Dirty Blue Gene (Alternate Version 3) | 3:03 |
+| Position | Title |
+|----------|--------|
+|  | Lick My Decals Off, Baby |
+| A1 | Lick My Decals Off, Baby |
+| A2 | Doctor Dark |
+| A3 | I Love You, You Big Dummy |
+| A4 | Peon |
+| A5 | Bellerin' Plain |
+| A6 | Woe-Is-Uh-Me-Bop |
+| A7 | Japan In A Dishpan |
+| B1 | I Wanna Find A Woman That'll Hold My Big Toe Till I Have To Go |
+| B2 | Petrified Forest |
+| B3 | One Red Rose That I Mean |
+| B4 | The Buggy Boogie Woogie |
+| B5 | The Smithsonian Institute Blues (Or The Big Dig) |
+| B6 | Space-Age Couple |
+| B7 | The Clouds Are Full Of Wine (Not Whiskey Or Rye) |
+| B8 | Flash Gordon's Ape |
+|  | The Spotlight Kid |
+| C1 | I'm Gonna Booglarize You Baby |
+| C2 | White Jam |
+| C3 | Blabber 'N Smoke |
+| C4 | When It Blows It Stacks |
+| C5 | Alice In Blunderland |
+| D1 | The Spotlight Kid |
+| D2 | Click Clack |
+| D3 | Grow Fins |
+| D4 | There Ain't No Santa Claus On The Evenin' Stage |
+| D5 | Glider |
+|  | Clear Spot |
+| E1 | Low Yo Yo Stuff |
+| E2 | Nowadays A Woman's Gotta Hit A Man |
+| E3 | Too Much Time |
+| E4 | Circumstances |
+| E5 | My Head Is My Only House Unless It Rains |
+| E6 | Sun Zoom Spark |
+| F1 | Clear Spot |
+| F2 | Crazy Little Thing |
+| F3 | Long Neck Bottles |
+| F4 | Her Eyes Are A Blue Million Miles |
+| F5 | Big Eyed Beans From Venus |
+| F6 | Golden Birdies |
+|  | Out-Takes |
+| G1 | Alice In Blunderland (Alternate Version) |
+| G2 | Harry Irene |
+| G3 | I Can't Do This Unless I Can Do This / Seam Crooked Sam |
+| G4 | Pompadour Swamp / Suction Prints |
+| G5 | The Witch Doctor Life |
+| G6 | Two Rips In A Haystack / Kiss Me My Love |
+| G7 | Best Batch Yet (Track) Version 1 |
+| H1 | Your Love Brought Me To Life (Instrumental) |
+| H2 | Dirty Blue Gene (Alternate Version 1) |
+| H3 | Nowadays A Woman's Gotta Hit A Man (Early Mix) |
+| H4 | Kiss Where I Kain't |
+| H5 | Circumstances (Alternate Version 2) |
+| H6 | Little Scratch |
+| H7 | Dirty Blue Gene (Alternate Version 3) |
 
 
 ## Apple Music
@@ -106,5 +106,5 @@ styles: ["Blues Rock", "Experimental"]
 | Format         | Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP (180 Gram), Box Set Compilation Limited Edition Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 541728 |
-| Notes | Sticker On The Plastic Wrap:<br>"Limited Edition, 180g 4-LP Box Set<br>Features The Studio Albums 'Lick My Decals Off, Baby', 'The Spotlight Kid', 'Clear Spot'<br>Cut From The Original Analog Masters<br>Plus An LP Of Previously Unreleased Outtakes & Rarities, Liner Notes By Rip Rense & Artwork By Don Van Vliet"<br><br>Here Are Some More Details:<br>LP 1: Lick My Decals Off, Baby (Captain Beefheart & The Magic Band), Comes With Black Inner Sleeve, Orange Label, Reprise Records R1 6420 / 8122786846<br>LP 2: The Spotlight Kid (Captain Beefheart), Comes With White Inner Sleeve & Lyric Sheet, Orange Label, Reprise Records R1-2050 / 0348781110<br>LP 3: Clear Spot (Captain Beefheart & The Magic Band), Comes With White Inner Sleeve & Cover Sheet, Housed In A Plastic Cover (no regular cover), Backside Of Cover Sheet Has Tracklist And Credits Written On It, Orange Label, Reprise Records R1-2115 / 8122786845<br>LP 4: Out-Takes "Art Is Rearranging And Grouping Mistakes" (Captain Beefheart), Comes With Black Inner Sleeve, Black Label, White Letters, R1 541728 / 8122795862 |
+| Notes | Sticker On The Plastic Wrap:  "Limited Edition, 180g 4-LP Box Set  Features The Studio Albums 'Lick My Decals Off, Baby', 'The Spotlight Kid', 'Clear Spot'  Cut From The Original Analog Masters  Plus An LP Of Previously Unreleased Outtakes & Rarities, Liner Notes By Rip Rense & Artwork By Don Van Vliet"    Here Are Some More Details:  LP 1: Lick My Decals Off, Baby (Captain Beefheart & The Magic Band), Comes With Black Inner Sleeve, Orange Label, Reprise Records R1 6420 / 8122786846  LP 2: The Spotlight Kid (Captain Beefheart), Comes With White Inner Sleeve & Lyric Sheet, Orange Label, Reprise Records R1-2050 / 0348781110  LP 3: Clear Spot (Captain Beefheart & The Magic Band), Comes With White Inner Sleeve & Cover Sheet, Housed In A Plastic Cover (no regular cover), Backside Of Cover Sheet Has Tracklist And Credits Written On It, Orange Label, Reprise Records R1-2115 / 8122786845  LP 4: Out-Takes "Art Is Rearranging And Grouping Mistakes" (Captain Beefheart), Comes With Black Inner Sleeve, Black Label, White Letters, R1 541728 / 8122795862 |
 | Discogs URL    | [Captain Beefheart - Sun Zoom Spark: 1970 To 1972](https://www.discogs.com/release/6313145-Captain-Beefheart-Sun-Zoom-Spark-1970-To-1972) |

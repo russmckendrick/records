@@ -27,14 +27,14 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Will Tear Us Apart |  |
-| A2 | Wicked Game |  |
-| A3 | The Living Dead |  |
-| B1 | Asleep |  |
-| B2 | Elderly Woman Behind The Counter In A Small Town |  |
-| B3 | Tender |  |
+| Position | Title |
+|----------|--------|
+| A1 | Love Will Tear Us Apart |
+| A2 | Wicked Game |
+| A3 | The Living Dead |
+| B1 | Asleep |
+| B2 | Elderly Woman Behind The Counter In A Small Town |
+| B3 | Tender |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl 12" EP Limited Edition (eco-mix) |
 | Label          | Hiraeth (2) |
 | Catalog Number | HIRAETH003 |
-| Notes | Limited edition of 500 copies via Bandcamp, signed<br><br>Official release date 6.12.2024 according to the a.m. Bandcamp account, in fact they were send out in the second half of November |
+| Notes | Limited edition of 500 copies via Bandcamp, signed  Official release date 6.12.2024 according to the a.m. Bandcamp account, in fact they were send out in the second half of November |
 | Discogs URL    | [The Anchoress - Versions:Encore](https://www.discogs.com/release/32359797-The-Anchoress-VersionsEncore) |

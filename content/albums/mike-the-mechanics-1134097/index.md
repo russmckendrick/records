@@ -27,17 +27,17 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Silent Running (On Dangerous Ground) | 6:08 |
-| A2 | All I Need Is A Miracle | 4:08 |
-| A3 | Par Avion | 3:30 |
-| A4 | Hanging By A Thread | 4:40 |
-| B1 | I Get The Feeling | 4:27 |
-| B2 | Take The Reins | 4:22 |
-| B3 | You Are The One | 3:34 |
-| B4 | A Call To Arms | 4:37 |
-| B5 | Taken In | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Silent Running (On Dangerous Ground) |
+| A2 | All I Need Is A Miracle |
+| A3 | Par Avion |
+| A4 | Hanging By A Thread |
+| B1 | I Get The Feeling |
+| B2 | Take The Reins |
+| B3 | You Are The One |
+| B4 | A Call To Arms |
+| B5 | Taken In |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Pop Rock", "Synth-pop"]
 | Format         | Vinyl LP Album |
 | Label          | WEA |
 | Catalog Number | 252 496-1 |
-| Notes | Recorded at Air Studios Montserrat, Air London and The Farm.<br><br>ⓟ&© 1985 WEA International Inc. |
+| Notes | Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc. |
 | Discogs URL    | [Mike  The Mechanics - Mike + The Mechanics](https://www.discogs.com/release/1134097-Mike-The-Mechanics-Mike-The-Mechanics) |

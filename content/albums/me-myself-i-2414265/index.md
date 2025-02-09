@@ -35,18 +35,18 @@ The title track became one of her most successful singles, peaking at number 21 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Me Myself I | 3:16 |
-| A2 | Ma-Me-O-Beach | 3:00 |
-| A3 | Friends | 3:05 |
-| A4 | Is It Tomorrow Yet | 3:31 |
-| A5 | Turn Out The Light | 4:19 |
-| B1 | When You Kisses Me | 3:14 |
-| B2 | All The Way From America | 4:49 |
-| B3 | Feeling In My Heart (For You) | 3:36 |
-| B4 | Simon | 3:40 |
-| B5 | I Need You | 2:44 |
+| Position | Title |
+|----------|--------|
+| A1 | Me Myself I |
+| A2 | Ma-Me-O-Beach |
+| A3 | Friends |
+| A4 | Is It Tomorrow Yet |
+| A5 | Turn Out The Light |
+| B1 | When You Kisses Me |
+| B2 | All The Way From America |
+| B3 | Feeling In My Heart (For You) |
+| B4 | Simon |
+| B5 | I Need You |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The title track became one of her most successful singles, peaking at number 21 
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64809 |
-| Notes | Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side. <br>Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"<br> |
+| Notes | Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"  |
 | Discogs URL    | [Joan Armatrading - Me Myself I](https://www.discogs.com/release/2414265-Joan-Armatrading-Me-Myself-I) |

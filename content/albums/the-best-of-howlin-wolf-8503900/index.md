@@ -28,24 +28,24 @@ styles: ["Chicago Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smokestack Lightnin' | 3:06 |
-| A2 | Spoonful | 2:45 |
-| A3 | Moanin' At Midnight | 2:43 |
-| A4 | Evil | 2:55 |
-| A5 | I Asked For Water (She Gave Me Gasoline) | 2:52 |
-| A6 | Sittin' On Top Of The World | 2:36 |
-| A7 | Back Door Man | 2:48 |
-| A8 | All Night Long | 2:34 |
-| B1 | The Red Rooster | 2:29 |
-| B2 | You Can't Be Beat | 2:52 |
-| B3 | Shake For Me | 2:15 |
-| B4 | How Many More Years? | 2:44 |
-| B5 | Forty Four | 2:51 |
-| B6 | I've Been Abused | 2:16 |
-| B7 | The Natchez Burnin' | 2:12 |
-| B8 | Goin' Down Slow | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Smokestack Lightnin' |
+| A2 | Spoonful |
+| A3 | Moanin' At Midnight |
+| A4 | Evil |
+| A5 | I Asked For Water (She Gave Me Gasoline) |
+| A6 | Sittin' On Top Of The World |
+| A7 | Back Door Man |
+| A8 | All Night Long |
+| B1 | The Red Rooster |
+| B2 | You Can't Be Beat |
+| B3 | Shake For Me |
+| B4 | How Many More Years? |
+| B5 | Forty Four |
+| B6 | I've Been Abused |
+| B7 | The Natchez Burnin' |
+| B8 | Goin' Down Slow |
 
 
 ## Apple Music

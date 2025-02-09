@@ -32,24 +32,24 @@ In 2022, Greatest Hits was reissued for its 30th anniversary in a remastered dou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Roxanne |  |
-| A2 | Can't Stand Losing You |  |
-| A3 | So Lonely |  |
-| A4 | Message In A Bottle |  |
-| B1 | Walking On The Moon |  |
-| B2 | The Bed's Too Big Without You |  |
-| B3 | Don't Stand So Close To Me |  |
-| B4 | De Do Do Do, De Da Da Da |  |
-| C1 | Every Little Thing She Does Is Magic |  |
-| C2 | Invisible Sun |  |
-| C3 | Spirits In The Material World |  |
-| C4 | Synchronicity II |  |
-| D1 | Every Breath You Take |  |
-| D2 | King Of Pain |  |
-| D3 | Wrapped Around Your Finger |  |
-| D4 | Tea In The Sahara |  |
+| Position | Title |
+|----------|--------|
+| A1 | Roxanne |
+| A2 | Can't Stand Losing You |
+| A3 | So Lonely |
+| A4 | Message In A Bottle |
+| B1 | Walking On The Moon |
+| B2 | The Bed's Too Big Without You |
+| B3 | Don't Stand So Close To Me |
+| B4 | De Do Do Do, De Da Da Da |
+| C1 | Every Little Thing She Does Is Magic |
+| C2 | Invisible Sun |
+| C3 | Spirits In The Material World |
+| C4 | Synchronicity II |
+| D1 | Every Breath You Take |
+| D2 | King Of Pain |
+| D3 | Wrapped Around Your Finger |
+| D4 | Tea In The Sahara |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In 2022, Greatest Hits was reissued for its 30th anniversary in a remastered dou
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 455 692-5 |
-| Notes | "Made in Germany" sticker on rear shrink wrap.<br><br>Remastered at Abbey Road Studios. <br><br>On back cover: <br>[...] 2023 Vinyl Edition <br><br>Mastered And Cut [...] At Abbey Road Studios, London <br>Art Direction And Design [...] At Storey London Design <br>Photographs Courtesy Of [a1907359] And [a640446] [...] <br>Sting Is Managed By Cherrytree Management (Martin Kierszenbaum, Nicole Vangiesen And Meghan Johansson)<br>Sting PR By Forge Ahead Media, Inc. (Tracy Bufferd), Dawbell (Stuart Bell) <br>Stewart Copeland And Andy Summers Are Managed By Tarquin Gotch At Very Serious Comedy LTD <br><br>All Songs Published By Songs Of Universal, Inc. (BMI) <br><br>Disc One <br>Side A Tracks 1, 2 & 3 ℗ 1978 Polydor Records, Track 4 ℗ 1979 Polydor Records<br>Side B Tracks 1 & 2 ℗ 1979 Polydor Records, Tracks 3 & 4 1980 Polydor Records<br><br>Disc Two <br>Side A Tracks 1, 2 & 3 ℗ 1981 Polydor Records, Track 4 ℗ 1983 Polydor Records<br>Side B Tracks 1, 2, 3 & 4 ℗ 1983 Polydor Records <br><br>This Compilation ℗ 2023 Polydor Ltd, (UK) © 2023 Polydor Ltd, (UK) [...] Made in The EU. Universal International Music B.V. 'S-Gravelandseweg 80, 1217 Hilversum, Netherlands. BIEM/SDRM [...]  |
+| Notes | "Made in Germany" sticker on rear shrink wrap.  Remastered at Abbey Road Studios.   On back cover:  [...] 2023 Vinyl Edition   Mastered And Cut [...] At Abbey Road Studios, London  Art Direction And Design [...] At Storey London Design  Photographs Courtesy Of [a1907359] And [a640446] [...]  Sting Is Managed By Cherrytree Management (Martin Kierszenbaum, Nicole Vangiesen And Meghan Johansson) Sting PR By Forge Ahead Media, Inc. (Tracy Bufferd), Dawbell (Stuart Bell)  Stewart Copeland And Andy Summers Are Managed By Tarquin Gotch At Very Serious Comedy LTD   All Songs Published By Songs Of Universal, Inc. (BMI)   Disc One  Side A Tracks 1, 2 & 3 ℗ 1978 Polydor Records, Track 4 ℗ 1979 Polydor Records Side B Tracks 1 & 2 ℗ 1979 Polydor Records, Tracks 3 & 4 1980 Polydor Records  Disc Two  Side A Tracks 1, 2 & 3 ℗ 1981 Polydor Records, Track 4 ℗ 1983 Polydor Records Side B Tracks 1, 2, 3 & 4 ℗ 1983 Polydor Records   This Compilation ℗ 2023 Polydor Ltd, (UK) © 2023 Polydor Ltd, (UK) [...] Made in The EU. Universal International Music B.V. 'S-Gravelandseweg 80, 1217 Hilversum, Netherlands. BIEM/SDRM [...]  |
 | Discogs URL    | [The Police - Greatest Hits](https://www.discogs.com/release/26517422-The-Police-Greatest-Hits) |

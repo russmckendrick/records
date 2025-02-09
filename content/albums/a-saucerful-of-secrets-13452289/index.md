@@ -33,15 +33,15 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let There Be More Light | 5:37 |
-| A2 | Remember A Day | 4:33 |
-| A3 | Set The Controls For The Heart Of The Sun | 5:28 |
-| A4 | Corporal Clegg | 4:08 |
-| B1 | A Saucerful Of Secrets | 11:57 |
-| B2 | See-Saw | 4:37 |
-| B3 | Jugband Blues | 3:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Let There Be More Light |
+| A2 | Remember A Day |
+| A3 | Set The Controls For The Heart Of The Sun |
+| A4 | Corporal Clegg |
+| B1 | A Saucerful Of Secrets |
+| B2 | See-Saw |
+| B3 | Jugband Blues |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP29 |
-| Notes | Reproduction of original sleeve. Limited edition of 6500 copies.<br><br>Made and Printed in the EU for Record Store Day 2019.<br><br>Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment |
+| Notes | Reproduction of original sleeve. Limited edition of 6500 copies.  Made and Printed in the EU for Record Store Day 2019.  Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment |
 | Discogs URL    | [Pink Floyd - A Saucerful Of Secrets](https://www.discogs.com/release/13452289-Pink-Floyd-A-Saucerful-Of-Secrets) |

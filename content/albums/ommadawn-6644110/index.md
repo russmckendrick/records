@@ -37,10 +37,10 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Ommadawn Part 1 | 19:14 |
-| B | Ommadawn Part 2 | 17:17 |
+| Position | Title |
+|----------|--------|
+| A | Ommadawn Part 1 |
+| B | Ommadawn Part 2 |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2043 |
-| Notes | Recorded at The Beacon January - September 1975.<br><br>Printed cardboard inner sleeve.<br><br>Virgin Records, Vernon Yard, Portobello Road, London W11<br>Printed in England by Robor Limited<br><br>Different coloured labels.<br><br>Bagpipes player :<br>Herbie credited on inner sleeve<br>Paddy Moloney credited on center label side B only |
+| Notes | Recorded at The Beacon January - September 1975.  Printed cardboard inner sleeve.  Virgin Records, Vernon Yard, Portobello Road, London W11 Printed in England by Robor Limited  Different coloured labels.  Bagpipes player : Herbie credited on inner sleeve Paddy Moloney credited on center label side B only |
 | Discogs URL    | [Mike Oldfield - Ommadawn](https://www.discogs.com/release/6644110-Mike-Oldfield-Ommadawn) |

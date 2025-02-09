@@ -109,141 +109,141 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Let's Dance |  |
-| A1 | Modern Love | 4:48 |
-| A2 | China Girl | 5:33 |
-| A3 | Let's Dance | 7:37 |
-| A4 | Without You | 3:09 |
-| B1 | Ricochet | 5:13 |
-| B2 | Criminal World | 4:25 |
-| B3 | Cat People (Putting Out Fire) | 5:09 |
-| B4 | Shake It | 3:52 |
-|  | Serious Moonlight [Live '83] |  |
-| C1 | Look Back In Anger |  |
-| C2 | "Heroes" |  |
-| C3 | What In The World |  |
-| C4 | Golden Years |  |
-| C5 | Fashion |  |
-| C6 | Let's Dance |  |
-| D1 | Breaking Glass |  |
-| D2 | Life On Mars? |  |
-| D3 | Sorrow |  |
-| D4 | Cat People (Putting Out Fire) |  |
-| D5 | China Girl |  |
-| D6 | Scary Monsters (And Super Creeps) |  |
-| D7 | Rebel Rebel |  |
-| E1 | White Light / White Heat |  |
-| E2 | Station To Station |  |
-| E3 | Cracked Actor |  |
-| E4 | Ashes To Ashes |  |
-| F1 | Space Oddity / Band Introduction |  |
-| F2 | Young Americans |  |
-| F3 | Fame |  |
-| F4 | Modern Love |  |
-|  | Tonight |  |
-| G1 | Loving The Alien | 7:12 |
-| G2 | Don't Look Down | 4:11 |
-| G3 | God Only Knows | 3:09 |
-| G4 | Tonight | 3:45 |
-| H1 | Neighborhood Threat | 3:12 |
-| H2 | Blue Jean | 3:11 |
-| H3 | Tumble And Twirl | 4:58 |
-| H4 | I Keep Forgettin' | 2:35 |
-| H5 | Dancing With The Big Boys | 3:34 |
-|  | Never Let Me Down |  |
-| I1 | Day-In Day-Out | 5:39 |
-| I2 | Time Will Crawl | 4:20 |
-| I3 | Beat Of Your Drum | 5:06 |
-| I4 | Never Let Me Down | 4:05 |
-| I5 | Zeroes | 5:47 |
-| J1 | Glass Spider | 5:34 |
-| J2 | Shining Star (Makin' My Love) | 5:06 |
-| J3 | New York's In Love | 4:34 |
-| J4 | '87 And Cry | 4:21 |
-| J5 | Bang Bang | 4:30 |
-|  | Never Let Me Down [2018] |  |
-| K1 | Day-In Day-Out |  |
-| K2 | Time Will Crawl |  |
-| K3 | Beat Of Your Drum |  |
-| L1 | Never Let Me Down |  |
-| L2 | Zeroes |  |
-| L3 | Glass Spider |  |
-| M1 | Shining Star (Makin' My Love) |  |
-| M2 | New York's In Love |  |
-| M3 | '87 And Cry |  |
-| M4 | Bang Bang |  |
-|  | Glass Spider [Live Montreal '87] |  |
-| N1 | Up The Hill Backwards |  |
-| N2 | Glass Spider |  |
-| N3 | Day-In Day-Out |  |
-| N4 | Bang Bang |  |
-| O1 | Absolute Beginners |  |
-| O2 | Loving The Alien |  |
-| O3 | China Girl |  |
-| O4 | Rebel Rebel |  |
-| P1 | Fashion |  |
-| P2 | Scary Monsters (And Super Creeps) |  |
-| P3 | All The Mad Men |  |
-| P4 | Never Let Me Down |  |
-| Q1 | Big Brother |  |
-| Q2 | '87 And Cry |  |
-| Q3 | "Heroes" |  |
-| Q4 | Sons Of The Silent Age |  |
-| Q5 | Time Will Crawl / Band Introduction |  |
-| R1 | Young Americans |  |
-| R2 | Beat Of Your Drum |  |
-| R3 | The Jean Genie |  |
-| R4 | Let's Dance |  |
-| S1 | Fame |  |
-| S2 | Time |  |
-| S3 | Blue Jean |  |
-| S4 | Modern Love |  |
-|  | Dance |  |
-| T1 | Shake It (Re-mix AKA Long Version) | 5:22 |
-| T2 | Blue Jean (Extended Dance Mix) | 5:18 |
-| T3 | Dancing With The Big Boys (Extended Dance Mix) | 7:29 |
-| U1 | Tonight (Vocal Dance Mix) | 4:29 |
-| U2 | Don't Look Down (Extended Dance Mix) | 4:50 |
-| U3 | Loving The Alien (Extended Dub Mix) | 7:13 |
-| V1 | Tumble And Twirl (Extended Dance Mix) | 5:03 |
-| V2 | Underground (Extended Dance Mix) | 7:53 |
-| V3 | Day-In Day-Out (Groucho Mix) | 6:30 |
-| W1 | Time Will Crawl (Dance Crew Mix) | 5:39 |
-| W2 | Shining Star (Makin' My Love) (12" Mix) | 6:27 |
-| W3 | Never Let Me Down (Dub / Acapella) | 5:58 |
-|  | Re:Call 4 |  |
-| X1 | Let's Dance (Single Version) |  |
-| X2 | China Girl (Single Version) |  |
-| X3 | Modern Love (Single Version) |  |
-| X4 | This Is Not America (The Theme From 'The Falcon And The Snowman') |  |
-| X5 | Loving The Alien (Re-mixed Version) |  |
-| Y1 | Don't Look Down (Re-mixed Version) |  |
-| Y2 | Dancing In The Street (Clearmountain Mix) |  |
-| Y3 | Absolute Beginners |  |
-| Y4 | That's Motivation |  |
-| Y5 | Volare |  |
-| Z1 | Labyrinth Opening Titles / Underground |  |
-| Z2 | Magic Dance |  |
-| Z3 | As The World Falls Down |  |
-| Z4 | Within You |  |
-| Z5 | Underground |  |
-| AA1 | When The Wind Blows (Single Version) |  |
-| AA2 | Day-In Day-Out (Single Version) |  |
-| AA3 | Julie |  |
-| AA4 | Beat Of Your Drum (Vinyl Album Edit) |  |
-| AA5 | Glass Spider (Vinyl Album Edit) |  |
-| AB1 | Shining Star (Makin' My Love) (Vinyl Album Edit) |  |
-| AB2 | New York's In Love (Vinyl Album Edit) |  |
-| AB3 | '87 And Cry (Vinyl Album Edit) |  |
-| AB4 | Bang Bang (Vinyl Album Edit) |  |
-| AB5 | Time Will Crawl (Single Version) |  |
-| AC1 | Girls (Extended Edit) |  |
-| AC2 | Never Let Me Down (7" Remix Edit) |  |
-| AC3 | Bang Bang (Live – Promotional Mix) |  |
-| AC4 | Tonight (Live) |  |
-| AC5 | Let's Dance (Live) |  |
+| Position | Title |
+|----------|--------|
+|  | Let's Dance |
+| A1 | Modern Love |
+| A2 | China Girl |
+| A3 | Let's Dance |
+| A4 | Without You |
+| B1 | Ricochet |
+| B2 | Criminal World |
+| B3 | Cat People (Putting Out Fire) |
+| B4 | Shake It |
+|  | Serious Moonlight [Live '83] |
+| C1 | Look Back In Anger |
+| C2 | "Heroes" |
+| C3 | What In The World |
+| C4 | Golden Years |
+| C5 | Fashion |
+| C6 | Let's Dance |
+| D1 | Breaking Glass |
+| D2 | Life On Mars? |
+| D3 | Sorrow |
+| D4 | Cat People (Putting Out Fire) |
+| D5 | China Girl |
+| D6 | Scary Monsters (And Super Creeps) |
+| D7 | Rebel Rebel |
+| E1 | White Light / White Heat |
+| E2 | Station To Station |
+| E3 | Cracked Actor |
+| E4 | Ashes To Ashes |
+| F1 | Space Oddity / Band Introduction |
+| F2 | Young Americans |
+| F3 | Fame |
+| F4 | Modern Love |
+|  | Tonight |
+| G1 | Loving The Alien |
+| G2 | Don't Look Down |
+| G3 | God Only Knows |
+| G4 | Tonight |
+| H1 | Neighborhood Threat |
+| H2 | Blue Jean |
+| H3 | Tumble And Twirl |
+| H4 | I Keep Forgettin' |
+| H5 | Dancing With The Big Boys |
+|  | Never Let Me Down |
+| I1 | Day-In Day-Out |
+| I2 | Time Will Crawl |
+| I3 | Beat Of Your Drum |
+| I4 | Never Let Me Down |
+| I5 | Zeroes |
+| J1 | Glass Spider |
+| J2 | Shining Star (Makin' My Love) |
+| J3 | New York's In Love |
+| J4 | '87 And Cry |
+| J5 | Bang Bang |
+|  | Never Let Me Down [2018] |
+| K1 | Day-In Day-Out |
+| K2 | Time Will Crawl |
+| K3 | Beat Of Your Drum |
+| L1 | Never Let Me Down |
+| L2 | Zeroes |
+| L3 | Glass Spider |
+| M1 | Shining Star (Makin' My Love) |
+| M2 | New York's In Love |
+| M3 | '87 And Cry |
+| M4 | Bang Bang |
+|  | Glass Spider [Live Montreal '87] |
+| N1 | Up The Hill Backwards |
+| N2 | Glass Spider |
+| N3 | Day-In Day-Out |
+| N4 | Bang Bang |
+| O1 | Absolute Beginners |
+| O2 | Loving The Alien |
+| O3 | China Girl |
+| O4 | Rebel Rebel |
+| P1 | Fashion |
+| P2 | Scary Monsters (And Super Creeps) |
+| P3 | All The Mad Men |
+| P4 | Never Let Me Down |
+| Q1 | Big Brother |
+| Q2 | '87 And Cry |
+| Q3 | "Heroes" |
+| Q4 | Sons Of The Silent Age |
+| Q5 | Time Will Crawl / Band Introduction |
+| R1 | Young Americans |
+| R2 | Beat Of Your Drum |
+| R3 | The Jean Genie |
+| R4 | Let's Dance |
+| S1 | Fame |
+| S2 | Time |
+| S3 | Blue Jean |
+| S4 | Modern Love |
+|  | Dance |
+| T1 | Shake It (Re-mix AKA Long Version) |
+| T2 | Blue Jean (Extended Dance Mix) |
+| T3 | Dancing With The Big Boys (Extended Dance Mix) |
+| U1 | Tonight (Vocal Dance Mix) |
+| U2 | Don't Look Down (Extended Dance Mix) |
+| U3 | Loving The Alien (Extended Dub Mix) |
+| V1 | Tumble And Twirl (Extended Dance Mix) |
+| V2 | Underground (Extended Dance Mix) |
+| V3 | Day-In Day-Out (Groucho Mix) |
+| W1 | Time Will Crawl (Dance Crew Mix) |
+| W2 | Shining Star (Makin' My Love) (12" Mix) |
+| W3 | Never Let Me Down (Dub / Acapella) |
+|  | Re:Call 4 |
+| X1 | Let's Dance (Single Version) |
+| X2 | China Girl (Single Version) |
+| X3 | Modern Love (Single Version) |
+| X4 | This Is Not America (The Theme From 'The Falcon And The Snowman') |
+| X5 | Loving The Alien (Re-mixed Version) |
+| Y1 | Don't Look Down (Re-mixed Version) |
+| Y2 | Dancing In The Street (Clearmountain Mix) |
+| Y3 | Absolute Beginners |
+| Y4 | That's Motivation |
+| Y5 | Volare |
+| Z1 | Labyrinth Opening Titles / Underground |
+| Z2 | Magic Dance |
+| Z3 | As The World Falls Down |
+| Z4 | Within You |
+| Z5 | Underground |
+| AA1 | When The Wind Blows (Single Version) |
+| AA2 | Day-In Day-Out (Single Version) |
+| AA3 | Julie |
+| AA4 | Beat Of Your Drum (Vinyl Album Edit) |
+| AA5 | Glass Spider (Vinyl Album Edit) |
+| AB1 | Shining Star (Makin' My Love) (Vinyl Album Edit) |
+| AB2 | New York's In Love (Vinyl Album Edit) |
+| AB3 | '87 And Cry (Vinyl Album Edit) |
+| AB4 | Bang Bang (Vinyl Album Edit) |
+| AB5 | Time Will Crawl (Single Version) |
+| AC1 | Girls (Extended Edit) |
+| AC2 | Never Let Me Down (7" Remix Edit) |
+| AC3 | Bang Bang (Live – Promotional Mix) |
+| AC4 | Tonight (Live) |
+| AC5 | Let's Dance (Live) |
 
 
 ## Apple Music
@@ -260,5 +260,5 @@ styles: ["Pop Rock"]
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Single Sided Album Etched, Vinyl 3× LP Album Reissue Remastered, Vinyl 2× LP Compilation, Vinyl 3× LP Compilation |
 | Label          | Parlophone |
 | Catalog Number | DBXL4 |
-| Notes | Serious Moonlight [Live '83], Never Let Me Down [2018], Glass Spider [Live Montreal '87], Dance and Re:call 4 are exclusive to this box set.<br>Deluxe box set includes 84 page hardback book.<br><br>Dance:<br>T1: Originally released on the B-side of the 'China Girl' 12” single on EMI America 12EA 157 (U.K.) and V-7809 (U.S.) in May, 1983<br>T2: Originally released on 12" single on EMI America 12EA 181 (U.K.) and V-7838 (U.S.) in September, 1984.<br>T3: Originally released on the B-side of the 'Blue Jean' 12" single alongside an Extended Dub Mix of the same, release details as above.<br>U1: Originally released on 12" single on EMI America 12EA 187 (U.K.) and V-7846 (U.S.) in November, 1984.<br>U2: Originally released on the B-side of the 'Loving The Alien' (Extended Dance Mix) 12" single alongside the 'Loving The Alien' (Extended Dub Mix) on EMI America 12EA 195 (U.K.) and VG-7858 (U.S.) in May, 1985.<br>U3: Originally released on the B-side of the 'Loving The Alien' (Extended Dance Mix) 12" single, release details as above.<br>V1: Originally released on the B-side of the 'Tonight' 12" single alongside a 'Tonight' (Dub Mix), release details as above.<br>V2: Originally released on 12" single on EMI America 12EA 216 (U.K.) and V-19210 (U.S.) in June, 1986.<br>V3: Originally released on 12" single on EMI America 12EAX 230 (U.K.) and V-19239 (U.S.) in March, 1987.<br>W1: Originally released on 12" single on EMI America 12EAX 237 (U.K.) in June, 1987.<br>W2: Originally released on the 'Never Let Me Down' digital E.P. on EMI 0094639278954 in May, 2007.<br>W3: Originally released on the B-side of the 'Never Let Me Down' (Extended Dance Mix) 12" single on EMI America 12EA 239 (U.K.) and V-19255 (U.S.) in August, 1987. |
+| Notes | Serious Moonlight [Live '83], Never Let Me Down [2018], Glass Spider [Live Montreal '87], Dance and Re:call 4 are exclusive to this box set. Deluxe box set includes 84 page hardback book.  Dance: T1: Originally released on the B-side of the 'China Girl' 12” single on EMI America 12EA 157 (U.K.) and V-7809 (U.S.) in May, 1983 T2: Originally released on 12" single on EMI America 12EA 181 (U.K.) and V-7838 (U.S.) in September, 1984. T3: Originally released on the B-side of the 'Blue Jean' 12" single alongside an Extended Dub Mix of the same, release details as above. U1: Originally released on 12" single on EMI America 12EA 187 (U.K.) and V-7846 (U.S.) in November, 1984. U2: Originally released on the B-side of the 'Loving The Alien' (Extended Dance Mix) 12" single alongside the 'Loving The Alien' (Extended Dub Mix) on EMI America 12EA 195 (U.K.) and VG-7858 (U.S.) in May, 1985. U3: Originally released on the B-side of the 'Loving The Alien' (Extended Dance Mix) 12" single, release details as above. V1: Originally released on the B-side of the 'Tonight' 12" single alongside a 'Tonight' (Dub Mix), release details as above. V2: Originally released on 12" single on EMI America 12EA 216 (U.K.) and V-19210 (U.S.) in June, 1986. V3: Originally released on 12" single on EMI America 12EAX 230 (U.K.) and V-19239 (U.S.) in March, 1987. W1: Originally released on 12" single on EMI America 12EAX 237 (U.K.) in June, 1987. W2: Originally released on the 'Never Let Me Down' digital E.P. on EMI 0094639278954 in May, 2007. W3: Originally released on the B-side of the 'Never Let Me Down' (Extended Dance Mix) 12" single on EMI America 12EA 239 (U.K.) and V-19255 (U.S.) in August, 1987. |
 | Discogs URL    | [David Bowie - Loving The Alien [ 1983–1988 ]](https://www.discogs.com/release/12645443-David-Bowie-Loving-The-Alien-19831988-) |

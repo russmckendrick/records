@@ -27,18 +27,18 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Lost Everything | 3:45 |
-| A2 | I Used To Pray For The Heavens To Fall | 5:32 |
-| A3 | To Hold And Have | 5:32 |
-| A4 | You Can't Get Born Again | 4:11 |
-| A5 | Times Infinity 1 | 0:04 |
-| B1 | Here's To The Death Of All The Romance | 3:13 |
-| B2 | Someday All This Will Be Yours | 3:50 |
-| B3 | Face Of Horrors | 4:07 |
-| B4 | Hell Hath Frozen In Your Eyes | 4:28 |
-| B5 | Onward And Downward | 3:40 |
+| Position | Title |
+|----------|--------|
+| A1 | We Lost Everything |
+| A2 | I Used To Pray For The Heavens To Fall |
+| A3 | To Hold And Have |
+| A4 | You Can't Get Born Again |
+| A5 | Times Infinity 1 |
+| B1 | Here's To The Death Of All The Romance |
+| B2 | Someday All This Will Be Yours |
+| B3 | Face Of Horrors |
+| B4 | Hell Hath Frozen In Your Eyes |
+| B5 | Onward And Downward |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB121-1 |
-| Notes | (c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026<br><br>Pressed By information is not listed. Information derived from runouts.  |
+| Notes | (c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026  Pressed By information is not listed. Information derived from runouts.  |
 | Discogs URL    | [The Dears - Times Infinity Volume One](https://www.discogs.com/release/7543598-The-Dears-Times-Infinity-Volume-One) |

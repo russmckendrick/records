@@ -45,16 +45,16 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alone |  |
-| A2 | And Nothing Is Forever |  |
-| A3 | A Fragile Thing |  |
-| A4 | Warsong |  |
-| B1 | Drone: Nodrone |  |
-| B2 | I Can Never Say Goodbye |  |
-| B3 | All I Ever Am |  |
-| B4 | Endsong |  |
+| Position | Title |
+|----------|--------|
+| A1 | Alone |
+| A2 | And Nothing Is Forever |
+| A3 | A Fragile Thing |
+| A4 | Warsong |
+| B1 | Drone: Nodrone |
+| B2 | I Can Never Say Goodbye |
+| B3 | All I Ever Am |
+| B4 | Endsong |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 | Format         | Vinyl LP Album Bioplastic (Grey Marbled [Marble Stone], 180g) |
 | Label          | Polydor |
 | Catalog Number | 7503683 |
-| Notes | Retail exclusive version on "marble stone" heavyweight bio vinyl.<br><br>Picture labels.<br>Matte sleeve. The interior section of the pocket is printed black.<br>Printed inner sleeve of top opening matte paper. The base colour on this version is pale grey.<br>Hype sticker and country of manufacture sticker both applied to the shrink wrap.<br>Includes a 24" square matte poster, which was sealed within the shrink wrap.<br><br><br>Unknown amount of copies purchased at indie record stores include an extra A3 poster. <br>Assai Records issued a hand-numbered edition of 500 with a Japanese style obi strip.<br><br>℗ & © 2024 Lost Music Limited<br><br>'Made In The EU' is printed on the back sleeve, 'Made in Germany' is stickered on the shrink wrap back.<br><br>The runouts are all etched apart from the '-61171-' elements which are stamped. |
+| Notes | Retail exclusive version on "marble stone" heavyweight bio vinyl.  Picture labels. Matte sleeve. The interior section of the pocket is printed black. Printed inner sleeve of top opening matte paper. The base colour on this version is pale grey. Hype sticker and country of manufacture sticker both applied to the shrink wrap. Includes a 24" square matte poster, which was sealed within the shrink wrap.   Unknown amount of copies purchased at indie record stores include an extra A3 poster.  Assai Records issued a hand-numbered edition of 500 with a Japanese style obi strip.  ℗ & © 2024 Lost Music Limited  'Made In The EU' is printed on the back sleeve, 'Made in Germany' is stickered on the shrink wrap back.  The runouts are all etched apart from the '-61171-' elements which are stamped. |
 | Discogs URL    | [The Cure - Songs Of A Lost World](https://www.discogs.com/release/32149125-The-Cure-Songs-Of-A-Lost-World) |

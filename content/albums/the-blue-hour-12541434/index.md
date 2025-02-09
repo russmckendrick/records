@@ -39,22 +39,22 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | As One |  |
-| A2 | Wastelands |  |
-| A3 | Mistress |  |
-| B1 | Beyond The Outskirts |  |
-| B2 | Chalk Circles |  |
-| B3 | Cold Hands |  |
-| B4 | Life Is Golden |  |
-| C1 | Roadkill |  |
-| C2 | Tides |  |
-| C3 | Don't Be Afraid If Nobody Loves You |  |
-| D1 | Dead Bird |  |
-| D2 | All The Wild Places |  |
-| D3 | The Invisibles |  |
-| D4 | Flytipping |  |
+| Position | Title |
+|----------|--------|
+| A1 | As One |
+| A2 | Wastelands |
+| A3 | Mistress |
+| B1 | Beyond The Outskirts |
+| B2 | Chalk Circles |
+| B3 | Cold Hands |
+| B4 | Life Is Golden |
+| C1 | Roadkill |
+| C2 | Tides |
+| C3 | Don't Be Afraid If Nobody Loves You |
+| D1 | Dead Bird |
+| D2 | All The Wild Places |
+| D3 | The Invisibles |
+| D4 | Flytipping |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Warner Music UK |
 | Catalog Number | WEA 503 |
-| Notes | Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.<br><br>No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].<br><br>The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860]. |
+| Notes | Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.  No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].  The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860]. |
 | Discogs URL    | [Suede - The Blue Hour](https://www.discogs.com/release/12541434-Suede-The-Blue-Hour) |

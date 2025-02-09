@@ -33,18 +33,18 @@ His 'n' Hers is the fourth studio album by English rock band Pulp, released on 1
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Joyriders |  |
-| A2 | Lipgloss |  |
-| A3 | Acrylic Afternoons |  |
-| A4 | Have You Seen Her Lately? |  |
-| A5 | She's A Lady |  |
-| B1 | Happy Endings |  |
-| B2 | Do You Remember The First Time? |  |
-| B3 | Pink Glove |  |
-| B4 | Someone Like The Moon |  |
-| B5 | David's Last Summer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Joyriders |
+| A2 | Lipgloss |
+| A3 | Acrylic Afternoons |
+| A4 | Have You Seen Her Lately? |
+| A5 | She's A Lady |
+| B1 | Happy Endings |
+| B2 | Do You Remember The First Time? |
+| B3 | Pink Glove |
+| B4 | Someone Like The Moon |
+| B5 | David's Last Summer |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ His 'n' Hers is the fourth studio album by English rock band Pulp, released on 1
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785292 |
-| Notes | An initial run of copies of this release were exclusively sold on [l11249] stores (those copies have an "HMV exclusive" sticker placed on shrink). <br><br>Released with lyrics / credits printed on a glossy liner.<br><br>℗ 1994 except track 2 ℗ 1993 & track 5 ℗ 1992 Island Records Ltd.<br>© 2016 Universal-Island Records Ltd<br> |
+| Notes | An initial run of copies of this release were exclusively sold on [l11249] stores (those copies have an "HMV exclusive" sticker placed on shrink).   Released with lyrics / credits printed on a glossy liner.  ℗ 1994 except track 2 ℗ 1993 & track 5 ℗ 1992 Island Records Ltd. © 2016 Universal-Island Records Ltd  |
 | Discogs URL    | [Pulp - His 'N' Hers](https://www.discogs.com/release/8669493-Pulp-His-N-Hers) |

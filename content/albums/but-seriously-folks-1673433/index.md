@@ -33,16 +33,16 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Over And Over | 4:52 |
-| A2 | Second Hand Store | 3:36 |
-| A3 | Indian Summer | 3:03 |
-| A4 | At The Station | 5:09 |
-| B1 | Tomorrow | 3:38 |
-| B2 | Inner Tube | 1:25 |
-| B3 | Theme From Boat Weirdos | 4:44 |
-| B4 | Life's Been Good | 8:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Over And Over |
+| A2 | Second Hand Store |
+| A3 | Indian Summer |
+| A4 | At The Station |
+| B1 | Tomorrow |
+| B2 | Inner Tube |
+| B3 | Theme From Boat Weirdos |
+| B4 | Life's Been Good |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | Asylum Records |
 | Catalog Number | K 53081 |
-| Notes | Mastered at Sterling Sound, N.Y.C.<br>Recorded at Bayshore Recording Studios, Coconut Grove, Florida.<br>Gatefold sleeve and printed inner sleeve<br>℗ 1978 Asylum Records<br>© 1978 an Elektra/Asylum recording. |
+| Notes | Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording. |
 | Discogs URL    | [Joe Walsh - "But Seriously, Folks..."](https://www.discogs.com/release/1673433-Joe-Walsh-But-Seriously-Folks) |

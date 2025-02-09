@@ -83,25 +83,25 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You Had Your Soul With You |  |
-| A2 | Quiet Light |  |
-| A3 | Roman Holiday |  |
-| A4 | Oblivions |  |
-| B1 | The Pull Of You |  |
-| B2 | Hey Rosey |  |
-| B3 | I Am Easy To Find |  |
-| B4 | Her Father In The Pool |  |
-| C1 | Where Is Her Head |  |
-| C2 | Not In Kansas |  |
-| C3 | So Far So Fast |  |
-| C4 | Dust Swirls In Strange Light |  |
-| D1 | Hairpin Turns |  |
-| D2 | Rylan |  |
-| D3 | Underwater |  |
-| D4 | Light Years |  |
-| E1 | I Am Easy To Find (Original Film Score) |  |
+| Position | Title |
+|----------|--------|
+| A1 | You Had Your Soul With You |
+| A2 | Quiet Light |
+| A3 | Roman Holiday |
+| A4 | Oblivions |
+| B1 | The Pull Of You |
+| B2 | Hey Rosey |
+| B3 | I Am Easy To Find |
+| B4 | Her Father In The Pool |
+| C1 | Where Is Her Head |
+| C2 | Not In Kansas |
+| C3 | So Far So Fast |
+| C4 | Dust Swirls In Strange Light |
+| D1 | Hairpin Turns |
+| D2 | Rylan |
+| D3 | Underwater |
+| D4 | Light Years |
+| E1 | I Am Easy To Find (Original Film Score) |
 
 
 ## Apple Music
@@ -119,5 +119,5 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 | Format         | Vinyl LP (Red), Vinyl LP (Yellow), Vinyl LP Single Sided Etched (Grey), All Media Album Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0154LPX |
-| Notes | Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors.<br>5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format.<br>Etching on the 6th side.<br><br>Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.<br><br>Includes digital download card for tracks A1 to D4. |
+| Notes | Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors. 5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format. Etching on the 6th side.  Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.  Includes digital download card for tracks A1 to D4. |
 | Discogs URL    | [The National - I Am Easy To Find](https://www.discogs.com/release/13632090-The-National-I-Am-Easy-To-Find) |

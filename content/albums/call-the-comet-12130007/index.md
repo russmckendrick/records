@@ -32,20 +32,20 @@ Call the Comet is the third studio album by musician Johnny Marr. It was release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rise |  |
-| A2 | The Tracers |  |
-| A3 | Hey Angel |  |
-| A4 | Hi Hello |  |
-| A5 | New Dominions |  |
-| A6 | Day In Day Out |  |
-| B1 | Walk Into The Sea |  |
-| B2 | Bug |  |
-| B3 | Actor Attractor |  |
-| B4 | Spiral Cities |  |
-| B5 | My Eternal  |  |
-| B6 | A Different Gun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rise |
+| A2 | The Tracers |
+| A3 | Hey Angel |
+| A4 | Hi Hello |
+| A5 | New Dominions |
+| A6 | Day In Day Out |
+| B1 | Walk Into The Sea |
+| B2 | Bug |
+| B3 | Actor Attractor |
+| B4 | Spiral Cities |
+| B5 | My Eternal  |
+| B6 | A Different Gun |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Call the Comet is the third studio album by musician Johnny Marr. It was release
 | Format         | Vinyl LP Album (Purple) |
 | Label          | Warner Bros. Records |
 | Catalog Number | NVLPH004 |
-| Notes | Gatefold sleeve including digital download card. Vinyl held in a separate slim black sleeve in the right-hand compartment. The gatefold sleeve - once opened - features album artwork, credits and lyrics.<br><br>Shrink wrapped copies feature a black circular "JOHNNY MARR" sticker in upper right corner and a white barcode sticker on back cover to hide the barcode from the regular version [r12143164].<br><br>℗ & © 2018 New Voodoo. All Rights reserved. The copyright in this sound recording is owned by Warner Music UK.<br>Made in The EU.  |
+| Notes | Gatefold sleeve including digital download card. Vinyl held in a separate slim black sleeve in the right-hand compartment. The gatefold sleeve - once opened - features album artwork, credits and lyrics.  Shrink wrapped copies feature a black circular "JOHNNY MARR" sticker in upper right corner and a white barcode sticker on back cover to hide the barcode from the regular version [r12143164].  ℗ & © 2018 New Voodoo. All Rights reserved. The copyright in this sound recording is owned by Warner Music UK. Made in The EU.  |
 | Discogs URL    | [Johnny Marr - Call The Comet](https://www.discogs.com/release/12130007-Johnny-Marr-Call-The-Comet) |

@@ -28,16 +28,16 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Untitled 01 | 08.19.2014. |  |
-| A2 | Untitled 02 | 06.23.2014. |  |
-| A3 | Untitled 03 | 05.28.2013. |  |
-| A4 | Untitled 04 | 08.14.2014. |  |
-| A5 | Untitled 05 | 09.21.2014. |  |
-| B1 | Untitled 06 | 06.30.2014. |  |
-| B2 | Untitled 07 | 2014 - 2016 |  |
-| B3 | Untitled 08 | 09.06.2014. |  |
+| Position | Title |
+|----------|--------|
+| A1 | Untitled 01 | 08.19.2014. |
+| A2 | Untitled 02 | 06.23.2014. |
+| A3 | Untitled 03 | 05.28.2013. |
+| A4 | Untitled 04 | 08.14.2014. |
+| A5 | Untitled 05 | 09.21.2014. |
+| B1 | Untitled 06 | 06.30.2014. |
+| B2 | Untitled 07 | 2014 - 2016 |
+| B3 | Untitled 08 | 09.06.2014. |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 | Format         | Vinyl LP Album |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 00602547866813 |
-| Notes | [Back cover & labels]<br>℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc.<br>Made in the EU. |
+| Notes | [Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU. |
 | Discogs URL    | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered) |

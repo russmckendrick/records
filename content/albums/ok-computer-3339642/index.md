@@ -45,24 +45,24 @@ For all of its dread, <i>OK Computer</i> is ultimately an act of hope, the expre
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | eeny |  |
-| A1 | Airbag | 4:44 |
-| A2 | Paranoid Android | 6:23 |
-| A3 | Subterranean Homesick Alien | 4:27 |
-|  | meeny |  |
-| B1 | Exit Music (For A Film) | 4:24 |
-| B2 | Let Down | 4:59 |
-| B3 | Karma Police | 4:21 |
-|  | miney |  |
-| C1 | Fitter Happier | 1:57 |
-| C2 | Electioneering | 3:50 |
-| C3 | Climbing Up The Walls | 4:45 |
-| C4 | No Surprises | 3:48 |
-|  | mo |  |
-| D1 | Lucky | 4:19 |
-| D2 | The Tourist | 5:24 |
+| Position | Title |
+|----------|--------|
+|  | eeny |
+| A1 | Airbag |
+| A2 | Paranoid Android |
+| A3 | Subterranean Homesick Alien |
+|  | meeny |
+| B1 | Exit Music (For A Film) |
+| B2 | Let Down |
+| B3 | Karma Police |
+|  | miney |
+| C1 | Fitter Happier |
+| C2 | Electioneering |
+| C3 | Climbing Up The Walls |
+| C4 | No Surprises |
+|  | mo |
+| D1 | Lucky |
+| D2 | The Tourist |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ For all of its dread, <i>OK Computer</i> is ultimately an act of hope, the expre
 | Format         | Vinyl 2× LP Album Reissue Repress (180 Gram, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 55229 1 8 |
-| Notes | Audio fixing and dubbing done at Mayfair, Abbey Road, Air Lyndhurst, Courtyard and The Curch. Mastered at Abbey Road.<br><br>Matrix# on labels "7243 8 55229 1 8"<br>Manufactured and distributed by EMI<br><br>Disc I : (eeny/meeny) - 7243 8 55229 1 8<br>                                   (7243 8 57331 1 6)<br><br>Disc II : (miney/moo) - 7243 8 55229 1 8<br>                                   (7243 8 57331 1 5)<br><br>Manufactured and distributed by EMI<br>Made and Printed in the U.K. lc 0299 NODATA 02<br><br>Comes in a gatefold sleeve with printed inner sleeves.<br><br>The labels of this release differ from the original release ([r=4950798] & [r=216593]). Specifically, this release features: "A Warner Music Group Company", whereas the others have "EMI Records Ltd.". Please see the provided image.<br><br>Pressed by Record Industry using original DMM parts by EMI Records. |
+| Notes | Audio fixing and dubbing done at Mayfair, Abbey Road, Air Lyndhurst, Courtyard and The Curch. Mastered at Abbey Road.  Matrix# on labels "7243 8 55229 1 8" Manufactured and distributed by EMI  Disc I : (eeny/meeny) - 7243 8 55229 1 8                                    (7243 8 57331 1 6)  Disc II : (miney/moo) - 7243 8 55229 1 8                                    (7243 8 57331 1 5)  Manufactured and distributed by EMI Made and Printed in the U.K. lc 0299 NODATA 02  Comes in a gatefold sleeve with printed inner sleeves.  The labels of this release differ from the original release ([r=4950798] & [r=216593]). Specifically, this release features: "A Warner Music Group Company", whereas the others have "EMI Records Ltd.". Please see the provided image.  Pressed by Record Industry using original DMM parts by EMI Records. |
 | Discogs URL    | [Radiohead - OK Computer](https://www.discogs.com/release/3339642-Radiohead-OK-Computer) |

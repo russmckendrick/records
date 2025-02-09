@@ -31,15 +31,15 @@ With <i>The Wild, the Innocent & the E Street Shuffle</i>, Springsteen—who’d
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The E Street Shuffle | 4:26 |
-| A2 | 4th Of July, Asbury Park (Sandy) | 5:35 |
-| A3 | Kitty's Back | 7:07 |
-| A4 | Wild Billy's Circus Story | 4:43 |
-| B1 | Incident On 57th Street | 7:45 |
-| B2 | Rosalita (Come Out Tonight) | 7:02 |
-| B3 | New York City Serenade | 9:56 |
+| Position | Title |
+|----------|--------|
+| A1 | The E Street Shuffle |
+| A2 | 4th Of July, Asbury Park (Sandy) |
+| A3 | Kitty's Back |
+| A4 | Wild Billy's Circus Story |
+| B1 | Incident On 57th Street |
+| B2 | Rosalita (Come Out Tonight) |
+| B3 | New York City Serenade |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ With <i>The Wild, the Innocent & the E Street Shuffle</i>, Springsteen—who’d
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | CBS |
 | Catalog Number | S 65780 |
-| Notes | Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).<br><br>Wide title, first line in record title on label is 70 mm long. |
+| Notes | Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).  Wide title, first line in record title on label is 70 mm long. |
 | Discogs URL    | [Bruce Springsteen - The Wild, The Innocent &  The E Street Shuffle](https://www.discogs.com/release/5153034-Bruce-Springsteen-The-WildInnocent-The-E-Street-Shuffle) |

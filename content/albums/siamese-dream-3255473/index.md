@@ -36,21 +36,21 @@ None of the band’s Lollapalooza-era peers were attempting the sort of multi-tr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cherub Rock |  |
-| A2 | Quiet |  |
-| A3 | Today |  |
-| A4 | Hummer |  |
-| B1 | Rocket |  |
-| B2 | Disarm |  |
-| B3 | Soma |  |
-| C1 | Geek U.S.A. |  |
-| C2 | Mayonaise |  |
-| C3 | Spaceboy |  |
-| D1 | Silverfuck |  |
-| D2 | Sweet Sweet |  |
-| D3 | Luna |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cherub Rock |
+| A2 | Quiet |
+| A3 | Today |
+| A4 | Hummer |
+| B1 | Rocket |
+| B2 | Disarm |
+| B3 | Soma |
+| C1 | Geek U.S.A. |
+| C2 | Mayonaise |
+| C3 | Spaceboy |
+| D1 | Silverfuck |
+| D2 | Sweet Sweet |
+| D3 | Luna |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ None of the band’s Lollapalooza-era peers were attempting the sort of multi-tr
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 50999 67928 9 10 |
-| Notes | Hype sticker reads; " Smashing Pumpkins Siamese Dream One Of The Most Influential Albums Of The 90's Remastered And Reissued For The First Time On 180 Gram Vinyl ! Includes: Today, Disarm and Cherub Rock -  5099967928910 "<br><br>Ⓟ&Ⓒ 2011 Virgin Records America, Inc.<br>Manufactured by Virgin Records America, Inc. 150 Fifth Avenue, New York, NY 10011.<br>Gatefold sleeve. Features liner notes and track commentary from Billy Corgan. Also included are never before seen collages, photos, and postcards! All content was personally curated by founding member Billy Corgan.<br><br>Due to the Metallic Effect of the outer printed sleeve:Track listings, barcode and other info are printed on a additional single sided sheet. No printed text/barcode appears on actual rear sleeve. <br>High quality printed inner sleeves include lyrics. |
+| Notes | Hype sticker reads; " Smashing Pumpkins Siamese Dream One Of The Most Influential Albums Of The 90's Remastered And Reissued For The First Time On 180 Gram Vinyl ! Includes: Today, Disarm and Cherub Rock -  5099967928910 "  Ⓟ&Ⓒ 2011 Virgin Records America, Inc. Manufactured by Virgin Records America, Inc. 150 Fifth Avenue, New York, NY 10011. Gatefold sleeve. Features liner notes and track commentary from Billy Corgan. Also included are never before seen collages, photos, and postcards! All content was personally curated by founding member Billy Corgan.  Due to the Metallic Effect of the outer printed sleeve:Track listings, barcode and other info are printed on a additional single sided sheet. No printed text/barcode appears on actual rear sleeve.  High quality printed inner sleeves include lyrics. |
 | Discogs URL    | [The Smashing Pumpkins - Siamese Dream](https://www.discogs.com/release/3255473-Smashing-Pumpkins-Siamese-Dream) |

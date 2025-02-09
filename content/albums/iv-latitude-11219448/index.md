@@ -36,21 +36,21 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A-I | Modern Goddess | 4:31 |
-| A-II | In The Game | 5:27 |
-| A-III | Icon | 4:02 |
-| B-IV | In Their Eyes | 7:24 |
-| B-V | Gone And Forgotten | 5:31 |
-| B-VI | Eden's Garden | 6:45 |
-| C-VII | Zeroes And Ones | 4:10 |
-| C-VIII | Kissed By Sunlight | 4:58 |
-| C-IX | Cheap Trade | 3:10 |
-| D-X | Comforting Rain | 4:16 |
-| D-XI | Latitude | 3:39 |
-| D-XII | Faith Is | 6:21 |
-| D-XIII | Cradle Song | 1:55 |
+| Position | Title |
+|----------|--------|
+| A-I | Modern Goddess |
+| A-II | In The Game |
+| A-III | Icon |
+| B-IV | In Their Eyes |
+| B-V | Gone And Forgotten |
+| B-VI | Eden's Garden |
+| C-VII | Zeroes And Ones |
+| C-VIII | Kissed By Sunlight |
+| C-IX | Cheap Trade |
+| D-X | Comforting Rain |
+| D-XI | Latitude |
+| D-XII | Faith Is |
+| D-XIII | Cradle Song |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 054LP |
-| Notes | Ordered Directly by the Band to get a Signed edition.<br>Includes a download card. |
+| Notes | Ordered Directly by the Band to get a Signed edition. Includes a download card. |
 | Discogs URL    | [Lesoir - IV Latitude](https://www.discogs.com/release/11219448-Lesoir-IV-Latitude) |

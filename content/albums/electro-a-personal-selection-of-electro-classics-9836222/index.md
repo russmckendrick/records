@@ -31,16 +31,16 @@ styles: ["Electro"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Al Naafiyish (The Soul) |  |
-| A2 | Release Yourself |  |
-| B1 | Mysterious Waves |  |
-| B2 | Rain Forest |  |
-| C1 | The Party Scene |  |
-| C2 | This Party's Jam Packed |  |
-| D1 | Feel The Force |  |
-| D2 | The Smurf |  |
+| Position | Title |
+|----------|--------|
+| A1 | Al Naafiyish (The Soul) |
+| A2 | Release Yourself |
+| B1 | Mysterious Waves |
+| B2 | Rain Forest |
+| C1 | The Party Scene |
+| C2 | This Party's Jam Packed |
+| D1 | Feel The Force |
+| D2 | The Smurf |
 
 
 ## Apple Music

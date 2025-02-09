@@ -31,17 +31,17 @@ Pigeon Hole is a Canadian hip hop group from Vancouver. They were previously kno
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get Better |  |
-| A2 | Fishes Eyes |  |
-| A3 | Working For Him |  |
-| A4 | Part 4 |  |
-| B1 | Big |  |
-| B2 | You Were Lying When You Said You Loved Me |  |
-| B3 | Amplifier |  |
-| B4 | Reprise |  |
-| B5 | Partial |  |
+| Position | Title |
+|----------|--------|
+| A1 | Get Better |
+| A2 | Fishes Eyes |
+| A3 | Working For Him |
+| A4 | Part 4 |
+| B1 | Big |
+| B2 | You Were Lying When You Said You Loved Me |
+| B3 | Amplifier |
+| B4 | Reprise |
+| B5 | Partial |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Pigeon Hole is a Canadian hip hop group from Vancouver. They were previously kno
 | Format         | Vinyl LP Album |
 | Label          | Play It Again Sam Records |
 | Catalog Number | BIAS 185 |
-| Notes | Regular release without 7" bonus single<br><br>Released in conjunction with Playtime<br>Recorded at Studio House August / September 1990<br><br>Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".<br><br>A1 to A3, B2 to B5 published by Copyright Control<br>A4 published by Playtime Songs/Sands Enterprises Ltd.<br>B1 published by Playtime Songs/Copyright Control<br> |
+| Notes | Regular release without 7" bonus single    Released in conjunction with Playtime  Recorded at Studio House August / September 1990    Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".    A1 to A3, B2 to B5 published by Copyright Control  A4 published by Playtime Songs/Sands Enterprises Ltd.  B1 published by Playtime Songs/Copyright Control   |
 | Discogs URL    | [New Fast Automatic Daffodils - Pigeonhole](https://www.discogs.com/release/3580224-New-Fast-Automatic-Daffodils-Pigeonhole) |

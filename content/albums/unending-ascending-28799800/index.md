@@ -26,16 +26,16 @@ Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tiny Galaxies |  |
-| A2 | My Guitar Is A Spaceship |  |
-| A3 | Ship Of Ishtar |  |
-| A4 | O, Arcturus |  |
-| B1 | All Clocks Reset |  |
-| B2 | Choose Your Goddess |  |
-| B3 | Lunar Invocation |  |
-| B4 | Asleep Do We Lay |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tiny Galaxies |
+| A2 | My Guitar Is A Spaceship |
+| A3 | Ship Of Ishtar |
+| A4 | O, Arcturus |
+| B1 | All Clocks Reset |
+| B2 | Choose Your Goddess |
+| B3 | Lunar Invocation |
+| B4 | Asleep Do We Lay |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by
 | Format         | Vinyl LP Album Limited Edition (Green Vinyl) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1293 |
-| Notes | Comes with an advertising sheet of K-scope releases.<br>Pre-orders from the band's Bandcamp page and PlanetGong website came with an exclusive A5 limited edition art print, hand-numbered (xxxx/1000), and signed by the artist, Kavus Torabi. |
+| Notes | Comes with an advertising sheet of K-scope releases. Pre-orders from the band's Bandcamp page and PlanetGong website came with an exclusive A5 limited edition art print, hand-numbered (xxxx/1000), and signed by the artist, Kavus Torabi. |
 | Discogs URL    | [Gong - Unending Ascending](https://www.discogs.com/release/28799800-Gong-Unending-Ascending) |

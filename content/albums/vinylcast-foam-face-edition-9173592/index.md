@@ -27,21 +27,21 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | TESD Anthem |  |
-| A2 | Greetings All |  |
-| A3 | Album Art Decoded |  |
-| A4 | Apex of Anonymity |  |
-| A5 | TESD's Top Ten |  |
-| B1 | Welcome to the B-Side |  |
-| B2 | A Slacker Rewarded |  |
-| B3 | Let The Games Begin |  |
-| B4 | Celebrity Crooners |  |
-| B5 | Watersports |  |
-| B6 | Show Walt The Money |  |
-| B7 | Post Game Wrap Up |  |
-| B8 | Check Out The Hook |  |
+| Position | Title |
+|----------|--------|
+| A1 | TESD Anthem |
+| A2 | Greetings All |
+| A3 | Album Art Decoded |
+| A4 | Apex of Anonymity |
+| A5 | TESD's Top Ten |
+| B1 | Welcome to the B-Side |
+| B2 | A Slacker Rewarded |
+| B3 | Let The Games Begin |
+| B4 | Celebrity Crooners |
+| B5 | Watersports |
+| B6 | Show Walt The Money |
+| B7 | Post Game Wrap Up |
+| B8 | Check Out The Hook |
 
 
 ## Apple Music

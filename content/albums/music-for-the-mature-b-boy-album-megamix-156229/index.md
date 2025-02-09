@@ -25,10 +25,10 @@ styles: ["Breakbeat"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Music For The Mature B-Boy (Album Megamix) |  |
-| B1 | Music For The Mature B-Boy (Album Megamix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Music For The Mature B-Boy (Album Megamix) |
+| B1 | Music For The Mature B-Boy (Album Megamix) |
 
 
 ## Apple Music
@@ -45,5 +45,5 @@ styles: ["Breakbeat"]
 | Format         | Vinyl 12" Picture Disc Limited Edition |
 | Label          | Genuine |
 | Catalog Number | GEN 005 T |
-| Notes | DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.<br><br>Plays same both sides. Limited to 300 copies.<br> |
+| Notes | DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.    Plays same both sides. Limited to 300 copies.  |
 | Discogs URL    | [DJ Format - Music For The Mature B-Boy (Album Megamix)](https://www.discogs.com/release/156229-DJ-Format-Music-For-The-Mature-B-Boy-Album-Megamix) |

@@ -38,18 +38,18 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Sort Of Homecoming |  |
-| A2 | Pride (In The Name Of Love) |  |
-| A3 | Wire |  |
-| A4 | The Unforgettable Fire |  |
-| A5 | Promenade |  |
-| B1 | 4th Of July |  |
-| B2 | Bad |  |
-| B3 | Indian Summer Sky |  |
-| B4 | Elvis Presley And America |  |
-| B5 | MLK |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Sort Of Homecoming |
+| A2 | Pride (In The Name Of Love) |
+| A3 | Wire |
+| A4 | The Unforgettable Fire |
+| A5 | Promenade |
+| B1 | 4th Of July |
+| B2 | Bad |
+| B3 | Indian Summer Sky |
+| B4 | Elvis Presley And America |
+| B5 | MLK |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 | Format         | Vinyl LP Album Stereo |
 | Label          | Island Records |
 | Catalog Number | U25 |
-| Notes | Printed inner sleeve showing credits and picture. Side opening with a die cut thumb section.<br>Outer sleeve is textured dense matte.<br><br>All tracks recorded in Ireland at Slane Castle, Co, Meath and Windmill Lane Studios, Dublin.<br><br>Thanks to Mrs. Christine Kerr.<br><br>Drums: Yamaha. Strings: James Howe Industries.<br><br>℗ 1984 Island Records Ltd. |
+| Notes | Printed inner sleeve showing credits and picture. Side opening with a die cut thumb section. Outer sleeve is textured dense matte.  All tracks recorded in Ireland at Slane Castle, Co, Meath and Windmill Lane Studios, Dublin.  Thanks to Mrs. Christine Kerr.  Drums: Yamaha. Strings: James Howe Industries.  ℗ 1984 Island Records Ltd. |
 | Discogs URL    | [U2 - The Unforgettable Fire](https://www.discogs.com/release/204237-U2-The-Unforgettable-Fire) |

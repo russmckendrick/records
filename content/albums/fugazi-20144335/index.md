@@ -49,33 +49,33 @@ The album is titled after a military slang term well known at the time of releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Record 1 - Fugazi (2021 Remix) |  |
-| A1 | Assassing | 7:01 |
-| A2 | Punch And Judy | 3:22 |
-| A3 | Jigsaw | 6:49 |
-| A4 | Emerald Lies | 5:08 |
-| B1 | She Chameleon | 6:53 |
-| B2 | Incubus | 8:30 |
-| B3 | Fugazi | 8:02 |
-|  | Record 2 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 1) |  |
-| C1 | Assassing | 7:28 |
-| C2 | Punch And Judy | 4:03 |
-| C3 | Jigsaw | 6:34 |
-| D1 | Script For A Jester's Tear | 9:00 |
-| D2 | Chelsea Monday | 8:15 |
-|  | Record 3 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 2) |  |
-| E1 | Emerald Lies | 5:21 |
-| E2 | Cinderella Search | 5:47 |
-| E3 | Incubus | 9:00 |
-| F1 | Charting The Single | 7:02 |
-| F2 | He Knows, You Know | 5:56 |
-|  | Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3) |  |
-| G1 | Fugazi | 9:11 |
-| G2 | Forgotten Sons | 11:03 |
-| H1 | Garden Party | 6:35 |
-| H2 | Market Square Heroes | 10:46 |
+| Position | Title |
+|----------|--------|
+|  | Record 1 - Fugazi (2021 Remix) |
+| A1 | Assassing |
+| A2 | Punch And Judy |
+| A3 | Jigsaw |
+| A4 | Emerald Lies |
+| B1 | She Chameleon |
+| B2 | Incubus |
+| B3 | Fugazi |
+|  | Record 2 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 1) |
+| C1 | Assassing |
+| C2 | Punch And Judy |
+| C3 | Jigsaw |
+| D1 | Script For A Jester's Tear |
+| D2 | Chelsea Monday |
+|  | Record 3 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 2) |
+| E1 | Emerald Lies |
+| E2 | Cinderella Search |
+| E3 | Incubus |
+| F1 | Charting The Single |
+| F2 | He Knows, You Know |
+|  | Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3) |
+| G1 | Fugazi |
+| G2 | Forgotten Sons |
+| H1 | Garden Party |
+| H2 | Market Square Heroes |
 
 
 ## Apple Music
@@ -93,5 +93,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo (remixed), Vinyl 3× LP Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295016463 |
-| Notes | Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website.<br>Signed by Fish when pre-ordered at Fish webshop<br><br>Ⓟ 2021 this compilation Parlophone Records Ltd. <br>Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. <br>Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company.<br>Made in Germany<br> |
+| Notes | Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website. Signed by Fish when pre-ordered at Fish webshop  Ⓟ 2021 this compilation Parlophone Records Ltd.  Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany  |
 | Discogs URL    | [Marillion - Fugazi](https://www.discogs.com/release/20144335-Marillion-Fugazi) |

@@ -34,20 +34,20 @@ Liquidizer is a techno and power pop album, borrowing influence from hip hop, th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Move Mountains | 3:19 |
-| A2 | Never Enough | 2:41 |
-| A3 | The Real World | 3:03 |
-| A4 | All The Answers | 3:48 |
-| A5 | What's Going On | 3:04 |
-| A6 | Song 13 | 4:04 |
-| B1 | Info Freako | 2:51 |
-| B2 | Bring It On Down | 2:37 |
-| B3 | Too Much To Learn | 3:02 |
-| B4 | What Would You Know? | 3:55 |
-| B5 | One For The Money | 2:56 |
-| B6 | Someone To Blame | 4:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Move Mountains |
+| A2 | Never Enough |
+| A3 | The Real World |
+| A4 | All The Answers |
+| A5 | What's Going On |
+| A6 | Song 13 |
+| B1 | Info Freako |
+| B2 | Bring It On Down |
+| B3 | Too Much To Learn |
+| B4 | What Would You Know? |
+| B5 | One For The Money |
+| B6 | Someone To Blame |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Liquidizer is a techno and power pop album, borrowing influence from hip hop, th
 | Format         | Vinyl LP Album Stereo |
 | Label          | Food |
 | Catalog Number | FOODLP 3 |
-| Notes | Recorded in London in June 1989.<br>Front photography at P.T.W.<br><br>This is the first Jesus Jones Album and is a diary of the band conception to...This! "Liquidizer" was made under the influence of: Turntable Orchestra, The Byrds, Napalm Death, The Shamen, Neneh Cherry, Star Trek, Public Enemy, Mel and Kim, Sonic Youth, Bomb The Bass, Rapeman, Todd Terry, Cookie Crew, Prince, Allen Konigsberg, S'Express, World Domination, Enterprise, Sonny Boy, Williamson, Jimi Hendrix, The Jungle Brothers, Them Mysterious Bulgarian Voices, Head Of David, For A Few Dollars More, A Guy Called Gerald, Malcolm Young, Leigh "Scratch" Fenlon, Dinosaur Jnr, Sweet T, Joe Smooth, Black Sabbath, De La Soul, Faith No More, Erik B + Rakim, Apocalypse Now, The The, Big Black, The Evil Dead and the news and views of 1988 / 1989.<br><br>BPMs: <br>A1: 120 / A2: "quite fast" / A3: 125 / A4: 110 / A5: 110 / A6: "quite slow"<br>B1: 125 / B2: 125 / B3: 120 / B4: 120 / B5: 118<br><br>Comes with an inner sleeve with lots of thank you's.<br>Label:<br>℗ 1989 The copyright in this sound recording is owned by EMI Records Ltd.<br>Inner sleeve:<br>© 1989 Food Records Ltd.<br>Rear sleeve:<br>℗ 1989 the copyright in this sound recording is owned by Food Records Limited<br>under exclusive licence to EMI Records Limited.<br>Sleeve printed in England. Manufactured in England. |
+| Notes | Recorded in London in June 1989. Front photography at P.T.W.  This is the first Jesus Jones Album and is a diary of the band conception to...This! "Liquidizer" was made under the influence of: Turntable Orchestra, The Byrds, Napalm Death, The Shamen, Neneh Cherry, Star Trek, Public Enemy, Mel and Kim, Sonic Youth, Bomb The Bass, Rapeman, Todd Terry, Cookie Crew, Prince, Allen Konigsberg, S'Express, World Domination, Enterprise, Sonny Boy, Williamson, Jimi Hendrix, The Jungle Brothers, Them Mysterious Bulgarian Voices, Head Of David, For A Few Dollars More, A Guy Called Gerald, Malcolm Young, Leigh "Scratch" Fenlon, Dinosaur Jnr, Sweet T, Joe Smooth, Black Sabbath, De La Soul, Faith No More, Erik B + Rakim, Apocalypse Now, The The, Big Black, The Evil Dead and the news and views of 1988 / 1989.  BPMs:  A1: 120 / A2: "quite fast" / A3: 125 / A4: 110 / A5: 110 / A6: "quite slow" B1: 125 / B2: 125 / B3: 120 / B4: 120 / B5: 118  Comes with an inner sleeve with lots of thank you's. Label: ℗ 1989 The copyright in this sound recording is owned by EMI Records Ltd. Inner sleeve: © 1989 Food Records Ltd. Rear sleeve: ℗ 1989 the copyright in this sound recording is owned by Food Records Limited under exclusive licence to EMI Records Limited. Sleeve printed in England. Manufactured in England. |
 | Discogs URL    | [Jesus Jones - Liquidizer](https://www.discogs.com/release/564347-Jesus-Jones-Liquidizer) |

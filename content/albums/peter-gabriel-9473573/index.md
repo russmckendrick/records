@@ -38,16 +38,16 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rhythm Of The Heat |  |
-| A2 | San Jacinto |  |
-| A3 | I Have The Touch |  |
-| A4 | The Family And The Fishing Net |  |
-| B1 | Shock The Monkey |  |
-| B2 | Lay Your Hands On Me |  |
-| B3 | Wallflower |  |
-| B4 | Kiss Of Life |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rhythm Of The Heat |
+| A2 | San Jacinto |
+| A3 | I Have The Touch |
+| A4 | The Family And The Fishing Net |
+| B1 | Shock The Monkey |
+| B2 | Lay Your Hands On Me |
+| B3 | Wallflower |
+| B4 | Kiss Of Life |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 grams) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR4 |
-| Notes | ℗ 2016 Peter Gabriel Ltd.<br>© 2016 Peter Gabriel Ltd.<br><br>Half-Speed Remaster + Hi-Res Download Code.<br><br>Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |
+| Notes | ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel ](https://www.discogs.com/release/9473573-Peter-Gabriel-Peter-Gabriel-) |

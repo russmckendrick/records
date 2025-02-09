@@ -35,16 +35,16 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | More Than A Feeling | 4:44 |
-| A2 | Peace Of Mind | 4:55 |
-| A3 | Foreplay/Long Time | 7:56 |
-| B1 | Rock & Roll Band | 2:59 |
-| B2 | Smokin' | 4:44 |
-| B3 | Hitch A Ride | 3:18 |
-| B4 | Something About You | 4:19 |
-| B5 | Let Me Take You Home Tonight | 4:12 |
+| Position | Title |
+|----------|--------|
+| A1 | More Than A Feeling |
+| A2 | Peace Of Mind |
+| A3 | Foreplay/Long Time |
+| B1 | Rock & Roll Band |
+| B2 | Smokin' |
+| B3 | Hitch A Ride |
+| B4 | Something About You |
+| B5 | Let Me Take You Home Tonight |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 | Format         | Vinyl LP Album Repress (180 g) |
 | Label          | Epic |
 | Catalog Number | 88985438101 |
-| Notes | ℗ 1976 and © 1976, 2017 Epic Records.<br>Made in the EU. |
+| Notes | ℗ 1976 and © 1976, 2017 Epic Records. Made in the EU. |
 | Discogs URL    | [Boston - Boston](https://www.discogs.com/release/10857591-Boston-Boston) |

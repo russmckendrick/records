@@ -32,21 +32,21 @@ Internal Wrangler is the debut studio album by British indie rock band Clinic. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Voodoo Wop | 1:44 |
-| A2 | The Return Of Evil Bill | 2:32 |
-| A3 | Internal Wrangler | 3:05 |
-| A4 | DJ Shangri-La | 0:58 |
-| A5 | The Second Line | 2:28 |
-| A6 | C.Q. | 1:06 |
-| A7 | Earth Angel | 3:22 |
-| B1 | T.K. | 2:31 |
-| B2 | Distortions | 3:59 |
-| B3 | Hippy Death Suite | 1:15 |
-| B4 | 2nd Foot Stomp | 2:46 |
-| B5 | 2/4 | 2:43 |
-| B6 | Goodnight Georgie | 2:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Voodoo Wop |
+| A2 | The Return Of Evil Bill |
+| A3 | Internal Wrangler |
+| A4 | DJ Shangri-La |
+| A5 | The Second Line |
+| A6 | C.Q. |
+| A7 | Earth Angel |
+| B1 | T.K. |
+| B2 | Distortions |
+| B3 | Hippy Death Suite |
+| B4 | 2nd Foot Stomp |
+| B5 | 2/4 |
+| B6 | Goodnight Georgie |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Internal Wrangler is the debut studio album by British indie rock band Clinic. I
 | Format         | Vinyl LP Album |
 | Label          | Domino |
 | Catalog Number | WIGLP78 |
-| Notes | Printed inner sleeve.<br>Made in the UK.<br><br>This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US.<br>Copies distributed in the US come with an additional sticker printed with:<br>[barcode]<br>DOMUS01 • Clinic • Internal Wrangler<br>Distributed by Revolver USA • www.mindheaven.com |
+| Notes | Printed inner sleeve. Made in the UK.  This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US. Copies distributed in the US come with an additional sticker printed with: [barcode] DOMUS01 • Clinic • Internal Wrangler Distributed by Revolver USA • www.mindheaven.com |
 | Discogs URL    | [Clinic - Internal Wrangler](https://www.discogs.com/release/356708-Clinic-Internal-Wrangler) |

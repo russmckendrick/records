@@ -37,81 +37,81 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kajagoogoo (Instrumental) |  |
-| A2 | Don't You (Forget About Me) |  |
-| A3 | If You Leave |  |
-| A4 | Weird Science |  |
-| A5 | Brilliant Mind |  |
-| A6 | She's Having A Baby |  |
-| B1 | Beat City |  |
-| B2 | Pretty In Pink |  |
-| B3 | I Go Crazy |  |
-| B4 | Full Of Love |  |
-| B5 | Can't Help Falling In Love |  |
-| B6 | Six Days On The Road (Album Version) |  |
-| C1 | You Just Haven't Earned It Yet Baby (Soundtrack Version) |  |
-| C2 | Left Of Center |  |
-| C3 | Do Anything (Soundtrack Version) |  |
-| C4 | It's All In The Game |  |
-| C5 | Power To Believe (Instrumental) |  |
-| C6 | This Woman's Work |  |
-| D1 | March Of The Swivelheads (Rotating Heads - Dub Version) |  |
-| D2 | When It Started To Begin |  |
-| D3 | Tesla Girls |  |
-| D4 | BAD |  |
-| D5 | Eighties |  |
-| D6 | Little Bitch |  |
-| E1 | Desire (Come And Get It) (US Club Mix) |  |
-| E2 | Slide |  |
-| E3 | Haunted When The Minutes Drag |  |
-| E4 | Love Missile F1-11 (Ultraviolence Mix) |  |
-| E5 | Method To My Madness |  |
-| F1 | The Hardest Walk (Single Version) |  |
-| F2 | Bring On The Dancing Horses |  |
-| F3 | Tenderness |  |
-| F4 | I'm Afraid |  |
-| F5 | Round, Round |  |
-| F6 | If You Were Here |  |
-| F7 | Please, Please, Please Let Me Get What I Want (Instrumental) |  |
-| G1 | Oh Yeah |  |
-| G2 | Modligliani (Lost In Your Eyes) |  |
-| G3 | Try A Little Tenderness |  |
-| G4 | Gloria: In Excelsis Deo |  |
-| G5 | Ba-Na-Na-Bam-Boo |  |
-| G6 | Ring Me Up |  |
-| G7 | Drummin' Man |  |
-| H1 | Catch My Fall |  |
-| H2 | Cherish |  |
-| H3 | Music For A Found Harmonium |  |
-| H4 | Radio People |  |
-| H5 | Cry Like This |  |
-| I1 | Mess Around |  |
-| I2 | Lipstick, Powder And Paint |  |
-| I3 | (Today I Met) The Boy I'm Gonna Marry |  |
-| I4 | How Sweet It Is (To Be Loved By You) |  |
-| I5 | Juke Box Baby |  |
-| I6 | Mr Sandman |  |
-| I7 | The Peter Gunn Theme |  |
-| J1 | Holiday Road |  |
-| J2 | Back In Baby's Arms |  |
-| J3 | Rhythm Of Life |  |
-| J4 | True |  |
-| J5 | Abuse-Here |  |
-| J6 | The Edge Of Forever |  |
-| K1 | Lost Again (Album Version) |  |
-| K2 | Crazy Love |  |
-| K3 | Positively Lost Me |  |
-| K4 | Don't Worry Baby |  |
-| K5 | Continental Trailways Blues (Album Version) |  |
-| K6 | Rev Up! |  |
-| L1 | More Than A Feeling |  |
-| L2 | I'll Show You Something Special |  |
-| L3 | Rave Up/Shut Up |  |
-| L4 | Beaver Patrol |  |
-| L5 | Turning Japanese |  |
-| L6 | Red River Rock |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kajagoogoo (Instrumental) |
+| A2 | Don't You (Forget About Me) |
+| A3 | If You Leave |
+| A4 | Weird Science |
+| A5 | Brilliant Mind |
+| A6 | She's Having A Baby |
+| B1 | Beat City |
+| B2 | Pretty In Pink |
+| B3 | I Go Crazy |
+| B4 | Full Of Love |
+| B5 | Can't Help Falling In Love |
+| B6 | Six Days On The Road (Album Version) |
+| C1 | You Just Haven't Earned It Yet Baby (Soundtrack Version) |
+| C2 | Left Of Center |
+| C3 | Do Anything (Soundtrack Version) |
+| C4 | It's All In The Game |
+| C5 | Power To Believe (Instrumental) |
+| C6 | This Woman's Work |
+| D1 | March Of The Swivelheads (Rotating Heads - Dub Version) |
+| D2 | When It Started To Begin |
+| D3 | Tesla Girls |
+| D4 | BAD |
+| D5 | Eighties |
+| D6 | Little Bitch |
+| E1 | Desire (Come And Get It) (US Club Mix) |
+| E2 | Slide |
+| E3 | Haunted When The Minutes Drag |
+| E4 | Love Missile F1-11 (Ultraviolence Mix) |
+| E5 | Method To My Madness |
+| F1 | The Hardest Walk (Single Version) |
+| F2 | Bring On The Dancing Horses |
+| F3 | Tenderness |
+| F4 | I'm Afraid |
+| F5 | Round, Round |
+| F6 | If You Were Here |
+| F7 | Please, Please, Please Let Me Get What I Want (Instrumental) |
+| G1 | Oh Yeah |
+| G2 | Modligliani (Lost In Your Eyes) |
+| G3 | Try A Little Tenderness |
+| G4 | Gloria: In Excelsis Deo |
+| G5 | Ba-Na-Na-Bam-Boo |
+| G6 | Ring Me Up |
+| G7 | Drummin' Man |
+| H1 | Catch My Fall |
+| H2 | Cherish |
+| H3 | Music For A Found Harmonium |
+| H4 | Radio People |
+| H5 | Cry Like This |
+| I1 | Mess Around |
+| I2 | Lipstick, Powder And Paint |
+| I3 | (Today I Met) The Boy I'm Gonna Marry |
+| I4 | How Sweet It Is (To Be Loved By You) |
+| I5 | Juke Box Baby |
+| I6 | Mr Sandman |
+| I7 | The Peter Gunn Theme |
+| J1 | Holiday Road |
+| J2 | Back In Baby's Arms |
+| J3 | Rhythm Of Life |
+| J4 | True |
+| J5 | Abuse-Here |
+| J6 | The Edge Of Forever |
+| K1 | Lost Again (Album Version) |
+| K2 | Crazy Love |
+| K3 | Positively Lost Me |
+| K4 | Don't Worry Baby |
+| K5 | Continental Trailways Blues (Album Version) |
+| K6 | Rev Up! |
+| L1 | More Than A Feeling |
+| L2 | I'll Show You Something Special |
+| L3 | Rave Up/Shut Up |
+| L4 | Beaver Patrol |
+| L5 | Turning Japanese |
+| L6 | Red River Rock |
 
 
 ## Apple Music
@@ -128,5 +128,5 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 | Format         | Vinyl 6× LP Compilation (Translucent Red ), Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX71 |
-| Notes | Manufactured in the EU<br><br>6-LP, 140gm, translucent red vinyl box set<br><br>73 tracks featured in the following John Hughes films:<br>National Lampoon's Vacation<br>Sixteen Candles<br>The Breakfast Club<br>Weird Science<br>Pretty In Pink<br>Ferris Bueller's Day Off<br>Some Kind of Wonderful<br>Planes, Trains & Automobiles<br>She's Having A Baby<br>The Great Outdoors<br>Uncle Buck<br><br>Includes 24-pg booklet with extensive liner notes and other commentary.  |
+| Notes | Manufactured in the EU  6-LP, 140gm, translucent red vinyl box set  73 tracks featured in the following John Hughes films: National Lampoon's Vacation Sixteen Candles The Breakfast Club Weird Science Pretty In Pink Ferris Bueller's Day Off Some Kind of Wonderful Planes, Trains & Automobiles She's Having A Baby The Great Outdoors Uncle Buck  Includes 24-pg booklet with extensive liner notes and other commentary.  |
 | Discogs URL    | [Various - Life Moves Pretty Fast: The John Hughes Mixtapes](https://www.discogs.com/release/25135282-Various-Life-Moves-Pretty-Fast-The-John-Hughes-Mixtapes) |

@@ -59,16 +59,16 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shanty |  |
-| A2 | Prayer Remembered |  |
-| A3 | Alife |  |
-| A4 | Andalucia Plays |  |
-| B1 | Kisses |  |
-| B2 | Skin In The Game |  |
-| B3 | Chained To A Cloud |  |
-| B4 | The Slab |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shanty |
+| A2 | Prayer Remembered |
+| A3 | Alife |
+| A4 | Andalucia Plays |
+| B1 | Kisses |
+| B2 | Skin In The Game |
+| B3 | Chained To A Cloud |
+| B4 | The Slab |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 | Format         | Vinyl LP Album (Pink [Pale Pink]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC232 |
-| Notes | Released in a gatefold sleeve.<br>Includes a download code.<br><br>The second cat # only visible on sticker from shrinkwrap. |
+| Notes | Released in a gatefold sleeve. Includes a download code.  The second cat # only visible on sticker from shrinkwrap. |
 | Discogs URL    | [Slowdive - Everything Is Alive](https://www.discogs.com/release/28131346-Slowdive-Everything-Is-Alive) |

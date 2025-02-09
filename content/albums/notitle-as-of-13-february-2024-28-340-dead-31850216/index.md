@@ -38,15 +38,15 @@ styles: ["Post Rock", "Drone"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sun Is A Hole Sun Is Vapors | 5:32 |
-| A2 | Babys In A Thundercloud | 13:37 |
-| B3 | Raindrops Cast In Lead | 13:18 |
-| C4 | Broken Spires At Dead Kapital | 3:35 |
-| C5 | Pale Spectator Takes Photographs | 11:18 |
-| C6 | Grey Rubble — Green Shoots | 6:54 |
-| D7 | Untitled | 13:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Sun Is A Hole Sun Is Vapors |
+| A2 | Babys In A Thundercloud |
+| B3 | Raindrops Cast In Lead |
+| C4 | Broken Spires At Dead Kapital |
+| C5 | Pale Spectator Takes Photographs |
+| C6 | Grey Rubble — Green Shoots |
+| D7 | Untitled |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Post Rock", "Drone"]
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Constellation |
 | Catalog Number | CST183 |
-| Notes | In full-color printed gatefold sleeve. Discs come in full-color printed custom inner sleeves. <br><br>Comes with a download code for the tracks in mp3 format. <br><br>Recorded at Thee Mighty Hotel2Tango Winter of Bombs 2024.<br><br>Side D not titled on packaging but is a continuation of Grey Rubble - Green Shoots not present on the compact disc edition.<br><br>Tracks are listed sequentially regardless of side on inner panels of gatefold. <br><br>Track durations do not appear on the release. <br><br>Runouts are etched. <br><br>Lacquer cutting company/engineer, vinyl pressing company derived from runouts.  |
+| Notes | In full-color printed gatefold sleeve. Discs come in full-color printed custom inner sleeves.   Comes with a download code for the tracks in mp3 format.   Recorded at Thee Mighty Hotel2Tango Winter of Bombs 2024.  Side D not titled on packaging but is a continuation of Grey Rubble - Green Shoots not present on the compact disc edition.  Tracks are listed sequentially regardless of side on inner panels of gatefold.   Track durations do not appear on the release.   Runouts are etched.   Lacquer cutting company/engineer, vinyl pressing company derived from runouts.  |
 | Discogs URL    | [Godspeed You Black Emperor - No Title As Of 13 February 2024 28,340 Dead](https://www.discogs.com/release/31850216-Godspeed-You-Black-Emperor-NoTitle-As-Of-13-February-2024-28340-Dead) |

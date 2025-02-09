@@ -30,20 +30,20 @@ styles: ["Indie Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | U.V. |  |
-| A2 | Yeah Yeah |  |
-| A3 | Written By A Man |  |
-| A4 | Broken Bird |  |
-| A5 | Wanna Be Free |  |
-| A6 | A Size More Woman Than Her |  |
-| B1 | Cardboy King |  |
-| B2 | Namedrops |  |
-| B3 | Foreign Cow |  |
-| B4 | Terrible Day |  |
-| B5 | Wolves Over Washington |  |
-| B6 | The Sky's Our Terminal |  |
+| Position | Title |
+|----------|--------|
+| A1 | U.V. |
+| A2 | Yeah Yeah |
+| A3 | Written By A Man |
+| A4 | Broken Bird |
+| A5 | Wanna Be Free |
+| A6 | A Size More Woman Than Her |
+| B1 | Cardboy King |
+| B2 | Namedrops |
+| B3 | Foreign Cow |
+| B4 | Terrible Day |
+| B5 | Wolves Over Washington |
+| B6 | The Sky's Our Terminal |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Indie Rock", "Britpop"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1130 |
-| Notes | 140g Black Vinyl<br>Includes print signed by [a506138] |
+| Notes | 140g Black Vinyl Includes print signed by [a506138] |
 | Discogs URL    | [Salad - Ice Cream](https://www.discogs.com/release/28613203-Salad-Ice-Cream) |

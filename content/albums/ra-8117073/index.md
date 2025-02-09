@@ -32,16 +32,16 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1a | Overture (Instrumental) |  |
-| A1b | Communion With The Sun | 7:15 |
-| A2 | Magic Dragon Theatre | 3:28 |
-| A3 | Jealousy | 4:43 |
-| A4 | Eternal Love | 4:51 |
-| A5 | Sunburst Finish | 7:38 |
-| B1 | Hiroshima | 7:16 |
-| B2 | Singring And The Glass Guitar (An Electrified Fairytale) | 18:24 |
+| Position | Title |
+|----------|--------|
+| A1a | Overture (Instrumental) |
+| A1b | Communion With The Sun |
+| A2 | Magic Dragon Theatre |
+| A3 | Jealousy |
+| A4 | Eternal Love |
+| A5 | Sunburst Finish |
+| B1 | Hiroshima |
+| B2 | Singring And The Glass Guitar (An Electrified Fairytale) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bearsville |
 | Catalog Number | K 55514 |
-| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y.<br>"Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn<br><br>This version has publishers mentioned with (1) and (2 - 5) on side A label<br>Made in UK<br> |
+| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  This version has publishers mentioned with (1) and (2 - 5) on side A label Made in UK  |
 | Discogs URL    | [Utopia - Ra](https://www.discogs.com/release/8117073-Utopia-5-Ra) |

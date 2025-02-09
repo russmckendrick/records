@@ -34,19 +34,19 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Pavement Side |  |
-| A1 | (We Don't Need This) Fascist Groove Thang | 4:17 |
-| A2 | Penthouse And Pavement | 6:20 |
-| A3 | Play To Win | 3:30 |
-| A4 | Soul Warfare | 4:57 |
-|  | Penthouse Side |  |
-| B1 | Geisha Boys And Temple Girls | 4:30 |
-| B2 | Let's All Make A Bomb | 4:02 |
-| B3 | The Height Of The Fighting | 3:00 |
-| B4 | Song With No Name | 3:33 |
-| B5 | We're Going To Live For A Very Long Time |  |
+| Position | Title |
+|----------|--------|
+|  | Pavement Side |
+| A1 | (We Don't Need This) Fascist Groove Thang |
+| A2 | Penthouse And Pavement |
+| A3 | Play To Win |
+| A4 | Soul Warfare |
+|  | Penthouse Side |
+| B1 | Geisha Boys And Temple Girls |
+| B2 | Let's All Make A Bomb |
+| B3 | The Height Of The Fighting |
+| B4 | Song With No Name |
+| B5 | We're Going To Live For A Very Long Time |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | 0602547941602 |
-| Notes | Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.<br><br>Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield. <br><br>B5 ends in a locked groove, hence no duration.<br><br>Includes 24Bit/44.1Khz WAV download coupon.<br><br><br> |
+| Notes | Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.    |
 | Discogs URL    | [Heaven - Penthouse And Pavement](https://www.discogs.com/release/9929529-Heaven-17-Penthouse-And-Pavement) |

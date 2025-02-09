@@ -29,17 +29,17 @@ Flowermouth is the second studio album by British duo No-Man, released in 1994 o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Angel Gets Caught In The Beauty Trap |  |
-| A2 | You Grow More Beautiful |  |
-| B3 | Animal Ghost |  |
-| B4 | Soft Shoulders |  |
-| C5 | Shell Of A Fighter |  |
-| C6 | Teardrop Fall |  |
-| C7 | Watching Over Me |  |
-| D8 | Simple |  |
-| D9 | Things Change |  |
+| Position | Title |
+|----------|--------|
+| A1 | Angel Gets Caught In The Beauty Trap |
+| A2 | You Grow More Beautiful |
+| B3 | Animal Ghost |
+| B4 | Soft Shoulders |
+| C5 | Shell Of A Fighter |
+| C6 | Teardrop Fall |
+| C7 | Watching Over Me |
+| D8 | Simple |
+| D9 | Things Change |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Flowermouth is the second studio album by British duo No-Man, released in 1994 o
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Red) |
 | Label          | One Little Independent Records |
 | Catalog Number | TPLP67 |
-| Notes | Comes with poster. 500 copies globally.<br><br>Barcode featured on sticker to sleeve which also carries alternative catalogue number TPLP67LTD. |
+| Notes | Comes with poster. 500 copies globally.  Barcode featured on sticker to sleeve which also carries alternative catalogue number TPLP67LTD. |
 | Discogs URL    | [No-Man - Flowermouth](https://www.discogs.com/release/32195109-No-Man-Flowermouth) |

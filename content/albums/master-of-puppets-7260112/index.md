@@ -34,16 +34,16 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Battery | 5:10 |
-| A2 | Master Of Puppets | 8:38 |
-| A3 | The Thing That Should Not Be | 6:32 |
-| A4 | Welcome Home (Sanitarium) | 6:28 |
-| B1 | Disposable Heroes | 8:14 |
-| B2 | Leper Messiah | 5:38 |
-| B3 | Orion (Instrumental) | 8:12 |
-| B4 | Damage, Inc | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Battery |
+| A2 | Master Of Puppets |
+| A3 | The Thing That Should Not Be |
+| A4 | Welcome Home (Sanitarium) |
+| B1 | Disposable Heroes |
+| B2 | Leper Messiah |
+| B3 | Orion (Instrumental) |
+| B4 | Damage, Inc |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 | Format         | Vinyl LP Album Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND005-1 |
-| Notes | [On back cover:]<br>℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.<br><br>[On printed inner sheet:]<br>All songs published by Creeping Death Music (ASCAP). |
+| Notes | [On back cover:] ℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.  [On printed inner sheet:] All songs published by Creeping Death Music (ASCAP). |
 | Discogs URL    | [Metallica - Master Of Puppets](https://www.discogs.com/release/7260112-Metallica-Master-Of-Puppets) |

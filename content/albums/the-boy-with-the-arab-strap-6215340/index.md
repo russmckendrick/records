@@ -28,20 +28,20 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | It Could Have Been A Brilliant Career | 2:23 |
-| A2 | Sleep The Clock Around | 4:58 |
-| A3 | Is It Wicked Not To Care? | 3:22 |
-| A4 | Ease Your Feet In The Sea | 3:35 |
-| A5 | A Summer Wasting | 2:06 |
-| A6 | Seymour Stein | 4:42 |
-| B1 | A Space Boy Dream | 3:01 |
-| B2 | Dirty Dream Number Two | 4:14 |
-| B3 | The Boy With The Arab Strap | 5:14 |
-| B4 | Chickfactor | 3:32 |
-| B5 | Simple Things | 1:46 |
-| B6 | The Rollercoaster Ride | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | It Could Have Been A Brilliant Career |
+| A2 | Sleep The Clock Around |
+| A3 | Is It Wicked Not To Care? |
+| A4 | Ease Your Feet In The Sea |
+| A5 | A Summer Wasting |
+| A6 | Seymour Stein |
+| B1 | A Space Boy Dream |
+| B2 | Dirty Dream Number Two |
+| B3 | The Boy With The Arab Strap |
+| B4 | Chickfactor |
+| B5 | Simple Things |
+| B6 | The Rollercoaster Ride |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 | Format         | Vinyl LP Album Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP 003 |
-| Notes | Includes download of entire album.<br>Includes a PVC outer sleeve.<br><br>℗ & © 1998 Jeepster Recordings Ltd.<br>Made in the E.U.<br>Distributed by Universal Music Operations Ltd.<br><br>Lyrics printed on the inside (left half) of the gatefold sleeve.<br><br><br> |
+| Notes | Includes download of entire album.  Includes a PVC outer sleeve.    ℗ & © 1998 Jeepster Recordings Ltd.  Made in the E.U.  Distributed by Universal Music Operations Ltd.    Lyrics printed on the inside (left half) of the gatefold sleeve.       |
 | Discogs URL    | [Belle  Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/6215340-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |

@@ -39,27 +39,27 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction: Das Rheingold - Vorspiel |  |
-| A2 | Singularity |  |
-| A3 | Ceremony |  |
-| A4 | Crystal |  |
-| B1 | 586 |  |
-| B2 | Restless |  |
-| B3 | Lonesome Tonight |  |
-| B4 | Your Silent Face |  |
-| C1 | Tutti Frutti |  |
-| C2 | People On The High Line |  |
-| C3 | Bizarre Love Triangle |  |
-| D1 | Waiting For The Sirens' Call |  |
-| D2 | Plastic |  |
-| D3 | The Perfect Kiss |  |
-| E1 | True Faith |  |
-| E2 | Temptation |  |
-| F1 | Atmosphere |  |
-| F2 | Love Will Tear Us Apart |  |
-| F3 | Blue Monday |  |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction: Das Rheingold - Vorspiel |
+| A2 | Singularity |
+| A3 | Ceremony |
+| A4 | Crystal |
+| B1 | 586 |
+| B2 | Restless |
+| B3 | Lonesome Tonight |
+| B4 | Your Silent Face |
+| C1 | Tutti Frutti |
+| C2 | People On The High Line |
+| C3 | Bizarre Love Triangle |
+| D1 | Waiting For The Sirens' Call |
+| D2 | Plastic |
+| D3 | The Perfect Kiss |
+| E1 | True Faith |
+| E2 | Temptation |
+| F1 | Atmosphere |
+| F2 | Love Will Tear Us Apart |
+| F3 | Blue Monday |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 | Format         | Vinyl 3× LP Album Limited Edition (Clear, 180g) |
 | Label          | Live Here Now |
 | Catalog Number | LHN018LP |
-| Notes | Released in a three panel gatefold sleeve with printed inner sleeves, triple clear heavy vinyl (180g).<br><br>According to the release website, recorded at the band's second gig at Brixton Academy in November 2015 (17/11/2015).<br>NOMC15 is captured by live show recording experts Live Here Now.<br><br>The original 2017 pressing was exclusively sold by [l327325] where fans could "pledge" an amount to make the album happen. A limited repress of 450 copies was issued August 2020 to support the New Order crew and sold through the [l64260] online shop. There are no discernable differences between the two pressings.<br><br>℗ & © 2017 New Order Limited under exclusive license to Live Here Now Limited. |
+| Notes | Released in a three panel gatefold sleeve with printed inner sleeves, triple clear heavy vinyl (180g).  According to the release website, recorded at the band's second gig at Brixton Academy in November 2015 (17/11/2015). NOMC15 is captured by live show recording experts Live Here Now.  The original 2017 pressing was exclusively sold by [l327325] where fans could "pledge" an amount to make the album happen. A limited repress of 450 copies was issued August 2020 to support the New Order crew and sold through the [l64260] online shop. There are no discernable differences between the two pressings.  ℗ & © 2017 New Order Limited under exclusive license to Live Here Now Limited. |
 | Discogs URL    | [New Order - NOMC15](https://www.discogs.com/release/10443938-New-Order-NOMC15) |

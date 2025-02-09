@@ -37,20 +37,20 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introducing The Band | 2:38 |
-| A2 | We Are The Pigs | 4:19 |
-| A3 | Heroine | 3:22 |
-| A4 | The Wild Ones | 4:50 |
-| B1 | Daddy's Speeding | 5:22 |
-| B2 | The Power | 4:31 |
-| B3 | New Generation | 4:37 |
-| C1 | This Hollywood Life | 3:50 |
-| C2 | The 2 Of Us | 5:45 |
-| C3 | Black Or Blue | 3:48 |
-| D1 | The Asphalt World | 9:25 |
-| D2 | Still Life | 5:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Introducing The Band |
+| A2 | We Are The Pigs |
+| A3 | Heroine |
+| A4 | The Wild Ones |
+| B1 | Daddy's Speeding |
+| B2 | The Power |
+| B3 | New Generation |
+| C1 | This Hollywood Life |
+| C2 | The 2 Of Us |
+| C3 | Black Or Blue |
+| D1 | The Asphalt World |
+| D2 | Still Life |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 | Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 2 |
-| Notes | Mastered in Portland, Maine. <br>Though reissued in 2014, copyright notice states '(c) 2013'. |
+| Notes | Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'. |
 | Discogs URL    | [Suede - Dog Man Star](https://www.discogs.com/release/5448646-Suede-Dog-Man-Star) |

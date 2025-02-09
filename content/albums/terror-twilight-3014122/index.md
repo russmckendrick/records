@@ -31,19 +31,19 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spit On A Stranger | 3:04 |
-| A2 | Folk Jam | 3:34 |
-| A3 | You Are A Light | 3:54 |
-| A4 | Cream Of Gold | 3:47 |
-| A5 | Major Leagues | 3:25 |
-| A6 | Platform Blues | 4:42 |
-| B1 | Ann Don't Cry | 4:09 |
-| B2 | Billie | 3:44 |
-| B3 | Speak, See, Remember | 4:20 |
-| B4 | The Hexx | 5:39 |
-| B5 | ...And Carrot Rope | 3:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Spit On A Stranger |
+| A2 | Folk Jam |
+| A3 | You Are A Light |
+| A4 | Cream Of Gold |
+| A5 | Major Leagues |
+| A6 | Platform Blues |
+| B1 | Ann Don't Cry |
+| B2 | Billie |
+| B3 | Speak, See, Remember |
+| B4 | The Hexx |
+| B5 | ...And Carrot Rope |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 | Format         | Vinyl LP Reissue (180 gram) |
 | Label          | Domino |
 | Catalog Number | WIGLP 66 |
-| Notes | Sticker says :180gm heavyweight vinyl comes with mp3s!<br><br>Comes with printed inner sleeve and free download code.<br> |
+| Notes | Sticker says :180gm heavyweight vinyl comes with mp3s!    Comes with printed inner sleeve and free download code.   |
 | Discogs URL    | [Pavement - Terror Twilight](https://www.discogs.com/release/3014122-Pavement-Terror-Twilight) |

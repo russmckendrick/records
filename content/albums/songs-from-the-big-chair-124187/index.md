@@ -32,17 +32,17 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shout |  |
-| A2 | The Working Hour |  |
-| A3 | Everybody Wants To Rule The World |  |
-| A4 | Mothers Talk |  |
-| B1 | I Believe |  |
-| B2 | Broken |  |
-| B3 | Head Over Heels |  |
-| B4 | Broken (Live) |  |
-| B5 | Listen |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shout |
+| A2 | The Working Hour |
+| A3 | Everybody Wants To Rule The World |
+| A4 | Mothers Talk |
+| B1 | I Believe |
+| B2 | Broken |
+| B3 | Head Over Heels |
+| B4 | Broken (Live) |
+| B5 | Listen |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 | Format         | Vinyl LP Album |
 | Label          | Mercury |
 | Catalog Number | MERH 58 |
-| Notes | Released with known two different types of hype sticker. See images.<br><br>Labels:<br>A1 to A4 & B5 Virgin Music (Publishers) Ltd./10 Music Ltd.<br>B1 to B4 Virgin Music (Publishers) Ltd.<br><br>Original sound recording made by Phonogram Ltd. (London)<br>A1 & A4 ℗ 1984 Phonogram Ltd. (London)<br>A2, A3 & B1 to B5 ℗ 1985 Phonogram Ltd. (London)<br><br>Made In England<br><br>Sleeve:<br>© Phonogram Ltd. (London) 1985<br>℗ 1985 Phonogram Ltd. (London)<br><br>Track B4 Broken (Live) is only mentioned on the label.<br>Comes with Credits / Picture inner sleeve. |
+| Notes | Released with known two different types of hype sticker. See images.  Labels: A1 to A4 & B5 Virgin Music (Publishers) Ltd./10 Music Ltd. B1 to B4 Virgin Music (Publishers) Ltd.  Original sound recording made by Phonogram Ltd. (London) A1 & A4 ℗ 1984 Phonogram Ltd. (London) A2, A3 & B1 to B5 ℗ 1985 Phonogram Ltd. (London)  Made In England  Sleeve: © Phonogram Ltd. (London) 1985 ℗ 1985 Phonogram Ltd. (London)  Track B4 Broken (Live) is only mentioned on the label. Comes with Credits / Picture inner sleeve. |
 | Discogs URL    | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/124187-Tears-For-Fears-Songs-From-The-Big-Chair) |

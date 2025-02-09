@@ -37,27 +37,27 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Something So Strong |  |
-| A2 | Weather With You |  |
-| A3 | It's Only Natural |  |
-| A4 | Chocolate Cake |  |
-| A5 | Fall At Your Feet |  |
-| B1 | Distant Sun |  |
-| B2 | Better Be Home Soon |  |
-| B3 | Four Seasons In One Day |  |
-| B4 | Don't Dream It's Over |  |
-| B5 | Mean To Me |  |
-| C1 | Locked Out |  |
-| C2 | Don't Stop Now |  |
-| C3 | Pineapple Head |  |
-| C4 | Instinct |  |
-| C5 | Fingers Of Love |  |
-| D1 | Private Universe |  |
-| D2 | Not The Girl You Think You Are |  |
-| D3 | Nails In My Feet |  |
-| D4 | Pour Le Monde |  |
+| Position | Title |
+|----------|--------|
+| A1 | Something So Strong |
+| A2 | Weather With You |
+| A3 | It's Only Natural |
+| A4 | Chocolate Cake |
+| A5 | Fall At Your Feet |
+| B1 | Distant Sun |
+| B2 | Better Be Home Soon |
+| B3 | Four Seasons In One Day |
+| B4 | Don't Dream It's Over |
+| B5 | Mean To Me |
+| C1 | Locked Out |
+| C2 | Don't Stop Now |
+| C3 | Pineapple Head |
+| C4 | Instinct |
+| C5 | Fingers Of Love |
+| D1 | Private Universe |
+| D2 | Not The Girl You Think You Are |
+| D3 | Nails In My Feet |
+| D4 | Pour Le Monde |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Universal Music |
 | Catalog Number | 00602557847581 |
-| Notes | 180 gram Black vinyl.<br><br>Comes with a hype sticker and a voucher with a download code |
+| Notes | 180 gram Black vinyl.  Comes with a hype sticker and a voucher with a download code |
 | Discogs URL    | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13869670-Crowded-House-The-Very-Very-Best-Of-Crowded-House) |

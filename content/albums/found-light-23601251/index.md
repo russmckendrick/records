@@ -32,22 +32,22 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Autumn Song |  |
-| A2 | Ring Song |  |
-| A3 | Seaside Haiku |  |
-| A4 | Naked Hymn |  |
-| A5 | My Lantern |  |
-| A6 | Signal |  |
-| A7 | Can't Help But Sing |  |
-| B1 | Eucalyptus |  |
-| B2 | New Arms |  |
-| B3 | Sword Song |  |
-| B4 | Time Will Show You |  |
-| B5 | T & O |  |
-| B6 | Komorebi |  |
-| B7 | Winter Windows |  |
+| Position | Title |
+|----------|--------|
+| A1 | Autumn Song |
+| A2 | Ring Song |
+| A3 | Seaside Haiku |
+| A4 | Naked Hymn |
+| A5 | My Lantern |
+| A6 | Signal |
+| A7 | Can't Help But Sing |
+| B1 | Eucalyptus |
+| B2 | New Arms |
+| B3 | Sword Song |
+| B4 | Time Will Show You |
+| B5 | T & O |
+| B6 | Komorebi |
+| B7 | Winter Windows |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 | Format         | Vinyl LP Album Limited Edition (Pink Galaxy) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1299V |
-| Notes | MADE IN CZECH REPUBLIC clear sticker on rear shrink wrap.<br>BELLA 1299V on spine.<br>Promo sticker on front shrink wrap.<br>Includes insert with credits one side and art print on the other.<br>Plain white paper inner sleeve with cutout. |
+| Notes | MADE IN CZECH REPUBLIC clear sticker on rear shrink wrap. BELLA 1299V on spine. Promo sticker on front shrink wrap. Includes insert with credits one side and art print on the other. Plain white paper inner sleeve with cutout. |
 | Discogs URL    | [Laura Veirs - Found Light](https://www.discogs.com/release/23601251-Laura-Veirs-Found-Light) |

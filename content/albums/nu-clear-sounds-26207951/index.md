@@ -32,19 +32,19 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Projects |  |
-| A2 | Low Ebb |  |
-| A3 | Jesus Says |  |
-| A4 | Wildsurf |  |
-| A5 | Death Trip 21 |  |
-| B6 | Folk Song |  |
-| B7 | Numbskull |  |
-| B8 | Burn Out |  |
-| B9 | Aphrodite |  |
-| B10 | Fortune Teller |  |
-| B11 | I'm Gonna Fall |  |
+| Position | Title |
+|----------|--------|
+| A1 | Projects |
+| A2 | Low Ebb |
+| A3 | Jesus Says |
+| A4 | Wildsurf |
+| A5 | Death Trip 21 |
+| B6 | Folk Song |
+| B7 | Numbskull |
+| B8 | Burn Out |
+| B9 | Aphrodite |
+| B10 | Fortune Teller |
+| B11 | I'm Gonna Fall |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 | Format         | Vinyl LP Album Reissue Remastered (Clear With Green Nuclear Splatter) |
 | Label          | BMG |
 | Catalog Number | BMGCAT759CLP |
-| Notes | Gatefold sleeve containing band photos, tracklist and credits.<br>Record is housed in a matte full-colour innersleeve with songtexts on one side.<br><br>Tracks are numbered as exactly as on [r=649223]<br><br>Recorded at Rockfield, Wales and Astoria, London - Spring & Summer 1998. <br>Strings recorded at Metropolis. <br><br>Management by Tav and Pat<br><br>Manufactured in Czech Republic |
+| Notes | Gatefold sleeve containing band photos, tracklist and credits. Record is housed in a matte full-colour innersleeve with songtexts on one side.  Tracks are numbered as exactly as on [r=649223]  Recorded at Rockfield, Wales and Astoria, London - Spring & Summer 1998.  Strings recorded at Metropolis.   Management by Tav and Pat  Manufactured in Czech Republic |
 | Discogs URL    | [Ash - Nu-Clear Sounds](https://www.discogs.com/release/26207951-Ash-Nu-Clear-Sounds) |

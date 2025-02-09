@@ -26,16 +26,16 @@ England’s Steel Pulse took no prisoners with their cerebral yet accessible bra
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Handsworth Revolution |  |
-| A2 | Bad Man |  |
-| A3 | Soldiers |  |
-| A4 | Sound Check |  |
-| B1 | Prodigal Son |  |
-| B2 | Ku Klux Klan |  |
-| B3 | Prediction |  |
-| B4 | Macka Splaff |  |
+| Position | Title |
+|----------|--------|
+| A1 | Handsworth Revolution |
+| A2 | Bad Man |
+| A3 | Soldiers |
+| A4 | Sound Check |
+| B1 | Prodigal Son |
+| B2 | Ku Klux Klan |
+| B3 | Prediction |
+| B4 | Macka Splaff |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ England’s Steel Pulse took no prisoners with their cerebral yet accessible bra
 | Format         | Vinyl LP Album Reissue (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 535 158-2 |
-| Notes | "Back To Black" series. <br>180 gram heavyweight vinyl. <br>Includes a voucher to download MP3 version of the album. |
+| Notes | "Back To Black" series.   180 gram heavyweight vinyl.   Includes a voucher to download MP3 version of the album. |
 | Discogs URL    | [Steel Pulse - Handsworth Revolution](https://www.discogs.com/release/5954072-Steel-Pulse-Handsworth-Revolution) |

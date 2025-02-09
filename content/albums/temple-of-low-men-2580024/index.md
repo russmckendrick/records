@@ -29,18 +29,18 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Feel Possessed | 3:47 |
-| A2 | Kill Eye | 3:10 |
-| A3 | Into Temptation | 5:32 |
-| A4 | Mansion In The Slums | 3:46 |
-| A5 | When You Come | 4:45 |
-| B1 | Never Be The Same | 4:27 |
-| B2 | Love This Life | 3:35 |
-| B3 | Sister Madly | 2:52 |
-| B4 | In The Lowlands | 3:57 |
-| B5 | Better Be Home Soon | 3:07 |
+| Position | Title |
+|----------|--------|
+| A1 | I Feel Possessed |
+| A2 | Kill Eye |
+| A3 | Into Temptation |
+| A4 | Mansion In The Slums |
+| A5 | When You Come |
+| B1 | Never Be The Same |
+| B2 | Love This Life |
+| B3 | Sister Madly |
+| B4 | In The Lowlands |
+| B5 | Better Be Home Soon |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2064 |
-| Notes | © 1988 Capitol Records, Inc. <br>Made in UK<br>Mixed for Fast Forward Productions, Ltd.<br>All songs published by Roundhead Music - BMI<br>℗ 1988 Capitol Records, Inc.<br><br>Printed inner sleeve |
+| Notes | © 1988 Capitol Records, Inc.  Made in UK Mixed for Fast Forward Productions, Ltd. All songs published by Roundhead Music - BMI ℗ 1988 Capitol Records, Inc.  Printed inner sleeve |
 | Discogs URL    | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/2580024-Crowded-House-Temple-Of-Low-Men) |

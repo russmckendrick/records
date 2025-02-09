@@ -36,21 +36,21 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Race For The Prize | 4:09 |
-| A2 | A Spoonful Weighs A Ton | 3:32 |
-| A3 | The Spark That Bled | 5:55 |
-| A4 | The Spiderbite Song | 4:02 |
-| B1 | Buggin' | 3:16 |
-| B2 | What Is The Light? | 4:05 |
-| B3 | The Observer | 4:11 |
-| C1 | Waitin' For A Superman | 4:17 |
-| C2 | Suddenly Everything Has Changed | 3:54 |
-| C3 | The Gash | 4:02 |
-| D1 | Slow Motion | 3:53 |
-| D2 | Feeling Yourself Disintegrate | 5:17 |
-| D3 | Sleeping On The Roof | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Race For The Prize |
+| A2 | A Spoonful Weighs A Ton |
+| A3 | The Spark That Bled |
+| A4 | The Spiderbite Song |
+| B1 | Buggin' |
+| B2 | What Is The Light? |
+| B3 | The Observer |
+| C1 | Waitin' For A Superman |
+| C2 | Suddenly Everything Has Changed |
+| C3 | The Gash |
+| D1 | Slow Motion |
+| D2 | Feeling Yourself Disintegrate |
+| D3 | Sleeping On The Roof |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 530199-1 |
-| Notes | Manufactured in Germany.<br><br>The Soft Bulletin was recorded in Cassadaga, New York April 1997-February 1999<br><br>2011 Vinyl remastered by Chris Bellman at Bernie Grundman Mastering, Hollywood, CA<br><br>[r5234762] has a different Cat # on the labels than this release. |
+| Notes | Manufactured in Germany.  The Soft Bulletin was recorded in Cassadaga, New York April 1997-February 1999  2011 Vinyl remastered by Chris Bellman at Bernie Grundman Mastering, Hollywood, CA  [r5234762] has a different Cat # on the labels than this release. |
 | Discogs URL    | [The Flaming Lips - The Soft Bulletin](https://www.discogs.com/release/3416651-The-Flaming-Lips-The-Soft-Bulletin) |

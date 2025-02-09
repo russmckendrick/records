@@ -27,19 +27,19 @@ Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scot
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Fought In A War |  |
-| A2 | The Model |  |
-| A3 | Beyond The Sunrise |  |
-| A4 | Waiting For The Moon To Rise |  |
-| A5 | Don't Leave The Light On Baby |  |
-| B1 | The Wrong Girl |  |
-| B2 | The Chalet Lines |  |
-| B3 | Nice Day For A Sulk |  |
-| B4 | Women's Realm |  |
-| B5 | Family Tree |  |
-| B6 | There's Too Much Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Fought In A War |
+| A2 | The Model |
+| A3 | Beyond The Sunrise |
+| A4 | Waiting For The Moon To Rise |
+| A5 | Don't Leave The Light On Baby |
+| B1 | The Wrong Girl |
+| B2 | The Chalet Lines |
+| B3 | Nice Day For A Sulk |
+| B4 | Women's Realm |
+| B5 | Family Tree |
+| B6 | There's Too Much Love |
 
 
 ## Apple Music

@@ -31,24 +31,24 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Teen Vogue |  |
-| A2 | Outsider |  |
-| A3 | Flame |  |
-| A4 | Strange Seas Of Thought (Wistful Version) |  |
-| B1 | Fluttering Bird |  |
-| B2 | Red Feather |  |
-| B3 | Insider (Undersea Lounge Version) |  |
-| B4 | Mosaic |  |
-| C1 | Time Travel |  |
-| C2 | Crush |  |
-| C3 | Sleepers |  |
-| C4 | Beyond The Valley |  |
-| D1 | Fake Fur Coat |  |
-| D2 | O Fortuna (Space Lounge Version) |  |
-| D3 | Jets For Brazil |  |
-| D4 | Gustav's Departure (Spirit & Mind Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Teen Vogue |
+| A2 | Outsider |
+| A3 | Flame |
+| A4 | Strange Seas Of Thought (Wistful Version) |
+| B1 | Fluttering Bird |
+| B2 | Red Feather |
+| B3 | Insider (Undersea Lounge Version) |
+| B4 | Mosaic |
+| C1 | Time Travel |
+| C2 | Crush |
+| C3 | Sleepers |
+| C4 | Beyond The Valley |
+| D1 | Fake Fur Coat |
+| D2 | O Fortuna (Space Lounge Version) |
+| D3 | Jets For Brazil |
+| D4 | Gustav's Departure (Spirit & Mind Version) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Green, Yellow & Blue Marble) |
 | Label          | Rockosmos |
 | Catalog Number | ROK221 |
-| Notes | Comes in a gatefold jacket. Printed inner sleeves were mistakenly missing when it first released, but were sent out separately to backers later.<br><br>Funded via a Bandcamp Vinyl Pressing campaign.<br><br>Amplifier Info: <br>Double Gatefold Vinyl - 180g Hand Dipped - Each set unique<br>As good as it gets for vinyl. <br>"We've remixed and remastered the original Residue tracks for Vinyl and additionally included some previously unheard demos and thrown in the tracks from Insider Versions as well to make a bumper double album of gems from the diamond mine on Crystal Mountain." |
+| Notes | Comes in a gatefold jacket. Printed inner sleeves were mistakenly missing when it first released, but were sent out separately to backers later.  Funded via a Bandcamp Vinyl Pressing campaign.  Amplifier Info:  Double Gatefold Vinyl - 180g Hand Dipped - Each set unique As good as it gets for vinyl.  "We've remixed and remastered the original Residue tracks for Vinyl and additionally included some previously unheard demos and thrown in the tracks from Insider Versions as well to make a bumper double album of gems from the diamond mine on Crystal Mountain." |
 | Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26901554-Amplifier-3-Residue) |

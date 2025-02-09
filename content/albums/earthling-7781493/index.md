@@ -37,17 +37,17 @@ Earthling charted better than its predecessor and reached the top ten in several
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Little Wonder |  |
-| A2 | Looking For Satellites |  |
-| A3 | Battle For Britain (The Letter) |  |
-| A4 | Seven Years In Tibet |  |
-| B1 | Dead Man Walking |  |
-| B2 | Telling Lies |  |
-| B3 | The Last Thing You Should Do |  |
-| B4 | I'm Afraid Of Americans |  |
-| B5 | Law (Earthlings On Fire) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Little Wonder |
+| A2 | Looking For Satellites |
+| A3 | Battle For Britain (The Letter) |
+| A4 | Seven Years In Tibet |
+| B1 | Dead Man Walking |
+| B2 | Telling Lies |
+| B3 | The Last Thing You Should Do |
+| B4 | I'm Afraid Of Americans |
+| B5 | Law (Earthlings On Fire) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Earthling charted better than its predecessor and reached the top ten in several
 | Format         | Vinyl LP Album Record Store Day Reissue (Green, 180g) |
 | Label          | ISO Records |
 | Catalog Number | FRM-42627 |
-| Notes | Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.<br><br>Recorded at Looking Glass Studios<br>Mixed at Right Track<br>Originally mastered at Gateway Mastering Studios Inc. Portland, Maine<br>(Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA<br><br>© 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment<br>℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment<br><br>Title is written as "EART HL I NG" on the cover.<br><br>Premium Vinyl Pressing HQ-180 RTI <br><br>ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine<br> |
+| Notes | Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.  Recorded at Looking Glass Studios Mixed at Right Track Originally mastered at Gateway Mastering Studios Inc. Portland, Maine (Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA  © 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment ℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment  Title is written as "EART HL I NG" on the cover.  Premium Vinyl Pressing HQ-180 RTI   ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine  |
 | Discogs URL    | [David Bowie - Earthling](https://www.discogs.com/release/7781493-David-Bowie-Earthling) |

@@ -29,21 +29,21 @@ styles: ["Funk", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 4th Chamber |  |
-| A2 | Iron Man |  |
-| A3 | Shaolin Brew |  |
-| A4 | Pork Chop Express |  |
-| A5 | Snakes |  |
-| A6 | Drums For Sale |  |
-| A7 | Shadow Boxing |  |
-| B1 | Sipped Up |  |
-| B2 | Tearz |  |
-| B3 | Verbal Intercourse |  |
-| B4 | Wu-Tang Clan Aint Nuthing Ta F' Wit |  |
-| B5 | All I Need |  |
-| B6 | The End (Eat My Vocals) |  |
+| Position | Title |
+|----------|--------|
+| A1 | 4th Chamber |
+| A2 | Iron Man |
+| A3 | Shaolin Brew |
+| A4 | Pork Chop Express |
+| A5 | Snakes |
+| A6 | Drums For Sale |
+| A7 | Shadow Boxing |
+| B1 | Sipped Up |
+| B2 | Tearz |
+| B3 | Verbal Intercourse |
+| B4 | Wu-Tang Clan Aint Nuthing Ta F' Wit |
+| B5 | All I Need |
+| B6 | The End (Eat My Vocals) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Funk", "Soul"]
 | Format         | Vinyl LP Album |
 | Label          | Big Crown Records |
 | Catalog Number | BC017-LP B |
-| Notes | 2nd of 4 different covers of this release. <br>Included a digital download code of the album. |
+| Notes | 2nd of 4 different covers of this release.  Included a digital download code of the album. |
 | Discogs URL    | [El Michels Affair - Return To The 37th Chamber](https://www.discogs.com/release/10178866-El-Michels-Affair-Return-To-The-37th-Chamber) |

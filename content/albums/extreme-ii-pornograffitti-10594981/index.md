@@ -36,21 +36,21 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Decadence Dance |  |
-| A2 | Li'l Jack Horny |  |
-| A3 | When I'm President |  |
-| A4 | Get The Funk Out |  |
-| A5 | More Than Words |  |
-| A6 | Money (In God We Trust) |  |
-| A7 | Hole Hearted |  |
-| B1 | It ('s A Monster) |  |
-| B2 | Pornograffitti |  |
-| B3 | When I First Kissed You |  |
-| B4 | Suzi (Wants Her All Day What?) |  |
-| B5 | He-Man Woman Hater |  |
-| B6 | Song For Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Decadence Dance |
+| A2 | Li'l Jack Horny |
+| A3 | When I'm President |
+| A4 | Get The Funk Out |
+| A5 | More Than Words |
+| A6 | Money (In God We Trust) |
+| A7 | Hole Hearted |
+| B1 | It ('s A Monster) |
+| B2 | Pornograffitti |
+| B3 | When I First Kissed You |
+| B4 | Suzi (Wants Her All Day What?) |
+| B5 | He-Man Woman Hater |
+| B6 | Song For Love |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 | Format         | Vinyl LP Album Limited Edition Numbered (Orange, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP793 |
-| Notes | 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.<br><br>Recorded and mixed at Scream Studios, Studio City, CA<br>Additional recording at Courtlen Studios, Hanson, MA<br>Mastered at Sterling Sound, NYC<br><br>Original release ℗ 1990 A&M Records Inc.<br>This release ℗ & © 2013 Universal Music B.V.<br>Made in the EU<br><br>Repress of the [url=https://www.discogs.com/release/4902118]original Music on Vinyl reissue[/url] from 2013 |
+| Notes | 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.  Recorded and mixed at Scream Studios, Studio City, CA Additional recording at Courtlen Studios, Hanson, MA Mastered at Sterling Sound, NYC  Original release ℗ 1990 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Made in the EU  Repress of the [url=https://www.discogs.com/release/4902118]original Music on Vinyl reissue[/url] from 2013 |
 | Discogs URL    | [Extreme - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-2-Extreme-II-Pornograffitti) |

@@ -45,27 +45,27 @@ The Octopus is the third studio album of the Manchester space rock band Amplifie
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part One |  |
-| A1 | The Runner | 3:38 |
-| A2 | Minion's Song | 5:51 |
-| A3 | Interglacial Spell | 6:25 |
-| B1 | The Wave | 7:00 |
-| B2 | The Octopus | 9:17 |
-| C1 | Planet Of Insects | 5:49 |
-| C2 | White Horses At Sea // Utopian Daydream | 8:55 |
-| D1 | Trading Dark Matter On The Stock Exchange | 11:33 |
-|  | Part Two |  |
-| E1 | The Sick Rose | 8:58 |
-| E2 | Interstellar | 10:18 |
-| F1 | The Emperor | 6:40 |
-| F2 | Golden Ratio | 5:16 |
-| F3 | Fall Of The Empire | 8:29 |
-| G1 | Bloodtest | 5:18 |
-| G2 | Oscar Night // Embryo | 7:44 |
-| H1 | The Eternal | 6:23 |
-| H2 | Forever And More | 9:23 |
+| Position | Title |
+|----------|--------|
+|  | Part One |
+| A1 | The Runner |
+| A2 | Minion's Song |
+| A3 | Interglacial Spell |
+| B1 | The Wave |
+| B2 | The Octopus |
+| C1 | Planet Of Insects |
+| C2 | White Horses At Sea // Utopian Daydream |
+| D1 | Trading Dark Matter On The Stock Exchange |
+|  | Part Two |
+| E1 | The Sick Rose |
+| E2 | Interstellar |
+| F1 | The Emperor |
+| F2 | Golden Ratio |
+| F3 | Fall Of The Empire |
+| G1 | Bloodtest |
+| G2 | Oscar Night // Embryo |
+| H1 | The Eternal |
+| H2 | Forever And More |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ The Octopus is the third studio album of the Manchester space rock band Amplifie
 | Format         | Vinyl LP (Clear With Black Splatter), Vinyl LP (Blue Transparent With Black Splatter), Vinyl LP (Orange Transparent With Black Splatter), Vinyl LP (Red Transparent With Black Splatter), All Media Album Reissue Remastered |
 | Label          | Rockosmos |
 | Catalog Number | ROK 70 |
-| Notes | Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.<br><br>500 Copies only<br><br>Including Bonus Track "The Eternal"<br><br>From Amplifier's bandcamp page.<br><br>"The moment is here.<br>Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been.<br>This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book.<br>There's no doubt that it is expensive - but we guarantee that you will be blown away by this.<br>One pressing only - you will never sell it and handle it only with white gloves (not included)<br>Remastered for vinyl by Greg Norman.<br>We can only afford 500 - so it will be strictly first come first served." |
+| Notes | Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.  500 Copies only  Including Bonus Track "The Eternal"  From Amplifier's bandcamp page.  "The moment is here. Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been. This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book. There's no doubt that it is expensive - but we guarantee that you will be blown away by this. One pressing only - you will never sell it and handle it only with white gloves (not included) Remastered for vinyl by Greg Norman. We can only afford 500 - so it will be strictly first come first served." |
 | Discogs URL    | [Amplifier - The Octopus](https://www.discogs.com/release/14385592-Amplifier-3-The-Octopus) |

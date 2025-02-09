@@ -42,33 +42,33 @@ Released several months after <i>Hot Rocks</i>, this is that conservative collec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tell Me | 2:47 |
-| A2 | Not Fade Away | 1:48 |
-| A3 | The Last Time | 3:38 |
-| A4 | It's All Over Now | 3:22 |
-| A5 | Good Times Bad Times | 2:29 |
-| A6 | I'm Free | 2:23 |
-| B1 | Out Of Time | 3:39 |
-| B2 | Lady Jane | 3:08 |
-| B3 | Sittin' On A Fence | 2:58 |
-| B4 | Have You Seen Your Mother, Baby, Standing In The Shadow? | 2:32 |
-| B5 | Dandelion | 3:48 |
-| B6 | We Love You | 4:19 |
-| C1 | She's A Rainbow | 4:12 |
-| C2 | 2000 Light Years From Home | 4:47 |
-| C3 | Child Of The Moon | 3:08 |
-| C4 | No Expectations | 3:59 |
-| C5 | Let It Bleed | 5:27 |
-| D1 | What To Do | 2:38 |
-| D2 | Money | 2:32 |
-| D3 | Come On | 1:48 |
-| D4 | Fortune Teller | 2:16 |
-| D5 | Poison Ivy | 2:47 |
-| D6 | Bye Bye Johnnie | 2:08 |
-| D7 | I Can't Be Satisfied | 3:24 |
-| D8 | Long Long While | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Tell Me |
+| A2 | Not Fade Away |
+| A3 | The Last Time |
+| A4 | It's All Over Now |
+| A5 | Good Times Bad Times |
+| A6 | I'm Free |
+| B1 | Out Of Time |
+| B2 | Lady Jane |
+| B3 | Sittin' On A Fence |
+| B4 | Have You Seen Your Mother, Baby, Standing In The Shadow? |
+| B5 | Dandelion |
+| B6 | We Love You |
+| C1 | She's A Rainbow |
+| C2 | 2000 Light Years From Home |
+| C3 | Child Of The Moon |
+| C4 | No Expectations |
+| C5 | Let It Bleed |
+| D1 | What To Do |
+| D2 | Money |
+| D3 | Come On |
+| D4 | Fortune Teller |
+| D5 | Poison Ivy |
+| D6 | Bye Bye Johnnie |
+| D7 | I Can't Be Satisfied |
+| D8 | Long Long While |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Released several months after <i>Hot Rocks</i>, this is that conservative collec
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Glow In The Dark) |
 | Label          | ABKCO |
 | Catalog Number | 2058-1 |
-| Notes | OBI strip<br>Exclusive Limited Edition<br>2 x 180 Gram Glow in the Dark Vinyl<br>Litographs on Archivial Paper<br>Original Gatefold Art<br><br>Limited to 7200 copies<br><br>Record Store Day 2022 Release<br><br>℗ 2016-2020 © 1987 [l282302]<br><br>Runouts are stamped, except for "#2058-1" on sides A, B,C and "7120601-D-RE1SELECTION #2058-1 RECORD # 2PS - 62617" on side D which are all etched. |
+| Notes | OBI strip Exclusive Limited Edition 2 x 180 Gram Glow in the Dark Vinyl Litographs on Archivial Paper Original Gatefold Art  Limited to 7200 copies  Record Store Day 2022 Release  ℗ 2016-2020 © 1987 [l282302]  Runouts are stamped, except for "#2058-1" on sides A, B,C and "7120601-D-RE1SELECTION #2058-1 RECORD # 2PS - 62617" on side D which are all etched. |
 | Discogs URL    | [The Rolling Stones - More Hot Rocks (Big Hits & Fazed Cookies)](https://www.discogs.com/release/22967249-Rolling-Stones-More-Hot-Rocks-Big-Hits-Fazed-Cookies) |

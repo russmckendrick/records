@@ -32,17 +32,17 @@ Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cocaine |  |
-| A2 | Wonderful Tonight |  |
-| A3 | Lay Down Sally |  |
-| A4 | Next Time You See Her |  |
-| A5 | We're All The Way |  |
-| B1 | The Core |  |
-| B2 | May You Never |  |
-| B3 | Mean Old Frisco Blues |  |
-| B4 | Peaches And Diesel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cocaine |
+| A2 | Wonderful Tonight |
+| A3 | Lay Down Sally |
+| A4 | Next Time You See Her |
+| A5 | We're All The Way |
+| B1 | The Core |
+| B2 | May You Never |
+| B3 | Mean Old Frisco Blues |
+| B4 | Peaches And Diesel |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RSO |
 | Catalog Number | 2479 201 |
-| Notes | R.S.O. Deluxe 2479 201<br><br>Produced by Arrangement with The Robert Stigwood Organisation.<br>Design and Art Direction: El and Nell Ink.<br><br>A1: ATV Mus. Ltd.<br>A2 to A4, B4: Throat Mus. Ltd.<br>A5: Anchor Mus. Ltd.<br>B1: RSO Publg. Ltd. / Throat Mus. Ltd.<br>B2: Warlock Mus. Ltd.<br>B3: Leeds Mus. Ltd.<br><br>(P) 1977 Robert Stigwood Group Ltd.<br>Marketed by Polydor.<br>Made in England.<br>Printed and made by Howards Printers (Slough) Ltd., England.<br> |
+| Notes | R.S.O. Deluxe 2479 201    Produced by Arrangement with The Robert Stigwood Organisation.  Design and Art Direction: El and Nell Ink.    A1: ATV Mus. Ltd.  A2 to A4, B4: Throat Mus. Ltd.  A5: Anchor Mus. Ltd.  B1: RSO Publg. Ltd. / Throat Mus. Ltd.  B2: Warlock Mus. Ltd.  B3: Leeds Mus. Ltd.    (P) 1977 Robert Stigwood Group Ltd.  Marketed by Polydor.  Made in England.  Printed and made by Howards Printers (Slough) Ltd., England.   |
 | Discogs URL    | [Eric Clapton - Slowhand](https://www.discogs.com/release/732881-Eric-Clapton-Slowhand) |

@@ -32,20 +32,20 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Is This Love |  |
-| A2 | Life's A Fucking Miracle |  |
-| A3 | Better With You |  |
-| A4 | Stay |  |
-| A5 | Shadow Of A Giant |  |
-| A6 | Way Over Your Head |  |
-| B1 | Mobile God |  |
-| B2 | Our World |  |
-| B3 | Rogue |  |
-| B4 | Hey |  |
-| B5 | Butterfly |  |
-| B6 | Folks |  |
+| Position | Title |
+|----------|--------|
+| A1 | Is This Love |
+| A2 | Life's A Fucking Miracle |
+| A3 | Better With You |
+| A4 | Stay |
+| A5 | Shadow Of A Giant |
+| A6 | Way Over Your Head |
+| B1 | Mobile God |
+| B2 | Our World |
+| B3 | Rogue |
+| B4 | Hey |
+| B5 | Butterfly |
+| B6 | Folks |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 | Format         | Vinyl LP Album Special Edition (Gatefold, Red [Marble], 180g) |
 | Label          | Virgin Music |
 | Catalog Number | NBLM003LPX |
-| Notes | ℗ & © 2024 Nothing But Love Music.<br><br>Indie exclusive. 500 copies from [l1942119] came with an obi-strip signed by the band. Available from other retailers minus the signed obi.<br><br>Catalogue number on sleeve: NBLM003LPX<br>Catalogue number on Assai obi-strip: NBLM3LPX |
+| Notes | ℗ & © 2024 Nothing But Love Music.  Indie exclusive. 500 copies from [l1942119] came with an obi-strip signed by the band. Available from other retailers minus the signed obi.  Catalogue number on sleeve: NBLM003LPX Catalogue number on Assai obi-strip: NBLM3LPX |
 | Discogs URL    | [James - Yummy](https://www.discogs.com/release/30375872-James-Yummy) |

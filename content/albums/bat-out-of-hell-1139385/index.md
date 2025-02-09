@@ -34,18 +34,18 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bat Out Of Hell | 9:48 |
-| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) | 5:04 |
-| A3 | Heaven Can Wait | 4:38 |
-| A4 | All Revved Up With No Place To Go | 4:19 |
-| B1 | Two Out Of Three Ain't Bad | 5:23 |
-| B2 | Paradise By The Dashboard Light | 8:28 |
-| B2i | Paradise |  |
-| B2ii | Let Me Sleep On It |  |
-| B2iii | Praying For The End Of Time |  |
-| B3 | For Crying Out Loud | 8:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Bat Out Of Hell |
+| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) |
+| A3 | Heaven Can Wait |
+| A4 | All Revved Up With No Place To Go |
+| B1 | Two Out Of Three Ain't Bad |
+| B2 | Paradise By The Dashboard Light |
+| B2i | Paradise |
+| B2ii | Let Me Sleep On It |
+| B2iii | Praying For The End Of Time |
+| B3 | For Crying Out Loud |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 82419 |
-| Notes | Epic 'Sky Blue' labels used from October 1979 until mid 1985.<br><br>Track B2 is seperated into three parts.<br>Credit for arranging reads: "Arranged by Jim Steinman with Todd Rundgren".<br><br>Recorded at Bearsville Sound, Bearsville, N.Y., Utopia Sound, Lake Hill, N.Y., The Hit Factory, New York City, N.Y., House Of Music, West Orange, N.J.<br>Mastered at The Cutting Room.<br><br>Dedicated to Wesley and Wilma Aday and Louis Steinman.<br><br>ⓟ 1977 CBS Inc / © 1977 CBS Inc.<br>Issue with an insert containing lyrics.<br><br>Shorepack by Shorewood Packaging Co. Ltd. England<br><br>Recorded at:<br>Bearsville Sound, Bearsville, N.Y.<br>Utopia Sound, Lake Hill, N.Y.<br>The Hit Factory, New York City, N.Y.<br>House Of Music, West Orange, N.J.<br><br>[r=21945979] is almost the same as this release but does NOT include an inner sleeve with printed credits + lyrics, and also has "EPC 82419" on the labels<br>[r=10022013] is almost the same as this release but has "S EPC 82419" not "EPC 82419" cat # printed on the labels |
+| Notes | Epic 'Sky Blue' labels used from October 1979 until mid 1985.  Track B2 is seperated into three parts. Credit for arranging reads: "Arranged by Jim Steinman with Todd Rundgren".  Recorded at Bearsville Sound, Bearsville, N.Y., Utopia Sound, Lake Hill, N.Y., The Hit Factory, New York City, N.Y., House Of Music, West Orange, N.J. Mastered at The Cutting Room.  Dedicated to Wesley and Wilma Aday and Louis Steinman.  ⓟ 1977 CBS Inc / © 1977 CBS Inc. Issue with an insert containing lyrics.  Shorepack by Shorewood Packaging Co. Ltd. England  Recorded at: Bearsville Sound, Bearsville, N.Y. Utopia Sound, Lake Hill, N.Y. The Hit Factory, New York City, N.Y. House Of Music, West Orange, N.J.  [r=21945979] is almost the same as this release but does NOT include an inner sleeve with printed credits + lyrics, and also has "EPC 82419" on the labels [r=10022013] is almost the same as this release but has "S EPC 82419" not "EPC 82419" cat # printed on the labels |
 | Discogs URL    | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/1139385-Meat-Loaf-Bat-Out-Of-Hell) |

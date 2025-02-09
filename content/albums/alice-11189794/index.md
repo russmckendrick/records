@@ -38,23 +38,23 @@ Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alice |  |
-| A2 | Everything You Can Think |  |
-| A3 | Flower's Grave |  |
-| A4 | No One Knows I'm Gone |  |
-| A5 | Kommienezuspadt |  |
-| B1 | Poor Edward |  |
-| B2 | Table Top Joe |  |
-| B3 | Lost In The Harbour |  |
-| B4 | We're All Mad Here |  |
-| B5 | Watch Her Disappear |  |
-| C1 | Reeperbahn |  |
-| C2 | I'm Still Here |  |
-| C3 | Fish & Bird |  |
-| C4 | Barcarolle |  |
-| C5 | Fawn |  |
+| Position | Title |
+|----------|--------|
+| A1 | Alice |
+| A2 | Everything You Can Think |
+| A3 | Flower's Grave |
+| A4 | No One Knows I'm Gone |
+| A5 | Kommienezuspadt |
+| B1 | Poor Edward |
+| B2 | Table Top Joe |
+| B3 | Lost In The Harbour |
+| B4 | We're All Mad Here |
+| B5 | Watch Her Disappear |
+| C1 | Reeperbahn |
+| C2 | I'm Still Here |
+| C3 | Fish & Bird |
+| C4 | Barcarolle |
+| C5 | Fawn |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph R
 | Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
 | Label          | Anti- |
 | Catalog Number | 6632-3 |
-| Notes | Sticker: Newly remastered with Waits/Brennan<br><br>6632-3 CAT. NO. on spine & labels |
+| Notes | Sticker: Newly remastered with Waits/Brennan  6632-3 CAT. NO. on spine & labels |
 | Discogs URL    | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |

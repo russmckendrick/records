@@ -34,21 +34,21 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gaza |  |
-| A2 | Waiting To Happen |  |
-| B1 | Lucky Man |  |
-| B2 | This Strange Engine |  |
-| C1 | Pour My Love |  |
-| C2 | Neverland |  |
-| C3 | Invisible Ink |  |
-| D1 | Montréal |  |
-| D2 | Power |  |
-| E1 | Sounds That Can't Be Made |  |
-| E2 | The King Of Sunset Town |  |
-| F1 | The Sky Above The Rain |  |
-| F2 | Garden Party |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gaza |
+| A2 | Waiting To Happen |
+| B1 | Lucky Man |
+| B2 | This Strange Engine |
+| C1 | Pour My Love |
+| C2 | Neverland |
+| C3 | Invisible Ink |
+| D1 | Montréal |
+| D2 | Power |
+| E1 | Sounds That Can't Be Made |
+| E2 | The King Of Sunset Town |
+| F1 | The Sky Above The Rain |
+| F2 | Garden Party |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 | Format         | Vinyl 3× LP Album (180 Gram) |
 | Label          | Ear Music |
 | Catalog Number | 0209657ERE |
-| Notes | Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.<br><br>℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.<br><br>Made in Germany.<br><br>comes in a gatefold cover |
+| Notes | Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover |
 | Discogs URL    | [Marillion - A Sunday Night Above The Rain](https://www.discogs.com/release/5864102-Marillion-A-Sunday-Night-Above-The-Rain) |

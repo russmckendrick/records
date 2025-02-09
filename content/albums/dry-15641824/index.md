@@ -30,19 +30,19 @@ Dry is the debut studio album by the English singer-songwriter PJ Harvey, releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh My Lover | 3:57 |
-| A2 | O Stella | 2:36 |
-| A3 | Dress | 3:18 |
-| A4 | Victory | 3:15 |
-| A5 | Happy And Bleeding | 5:03 |
-| B1 | Sheela-Na-Gig | 3:12 |
-| B2 | Hair | 3:45 |
-| B3 | Joe | 2:35 |
-| B4 | Plants And Rags | 4:08 |
-| B5 | Fountain | 3:52 |
-| B6 | Water | 4:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Oh My Lover |
+| A2 | O Stella |
+| A3 | Dress |
+| A4 | Victory |
+| A5 | Happy And Bleeding |
+| B1 | Sheela-Na-Gig |
+| B2 | Hair |
+| B3 | Joe |
+| B4 | Plants And Rags |
+| B5 | Fountain |
+| B6 | Water |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Dry is the debut studio album by the English singer-songwriter PJ Harvey, releas
 | Format         | Vinyl LP Album Reissue Remastered (Metropolis Studios Cut) |
 | Label          | Too Pure |
 | Catalog Number | PURE 10 LP |
-| Notes | On spine, printed: PURE 10 LP   P J HARVEY   DRY.<br>With inner sleeve black with white lettering. <br>Includes download card.<br><br>Mastering consultant: Head<br>Thank you Richard and Paul<br><br>The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.<br><br>Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623] |
+| Notes | On spine, printed: PURE 10 LP   P J HARVEY   DRY. With inner sleeve black with white lettering.  Includes download card.  Mastering consultant: Head Thank you Richard and Paul  The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.  Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623] |
 | Discogs URL    | [PJ Harvey - Dry](https://www.discogs.com/release/15641824-P-J-Harvey-Dry) |

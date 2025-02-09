@@ -33,23 +33,23 @@ styles: ["Alternative Rock", "Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | When Your Number Isn't Up | 3:01 |
-| A2 | Hit The City | 2:49 |
-| A3 | Wedding Dress | 3:07 |
-| A4 | Methamphetamine Blues | 3:16 |
-| B1 | One Hundred Days | 4:36 |
-| B2 | Bombed | 1:09 |
-| B3 | Strange Religion | 4:08 |
-| B4 | Sideways In Reverse | 2:46 |
-| C1 | Come To Me | 3:45 |
-| C2 | Like Little Willie John | 3:53 |
-| C3 | Can't Come Down | 3:37 |
-| D1 | Morning Glory Wine | 4:27 |
-| D2 | Head | 3:05 |
-| D3 | Driving Death Valley Blues | 2:49 |
-| D4 | Out Of Nowhere | 2:43 |
+| Position | Title |
+|----------|--------|
+| A1 | When Your Number Isn't Up |
+| A2 | Hit The City |
+| A3 | Wedding Dress |
+| A4 | Methamphetamine Blues |
+| B1 | One Hundred Days |
+| B2 | Bombed |
+| B3 | Strange Religion |
+| B4 | Sideways In Reverse |
+| C1 | Come To Me |
+| C2 | Like Little Willie John |
+| C3 | Can't Come Down |
+| D1 | Morning Glory Wine |
+| D2 | Head |
+| D3 | Driving Death Valley Blues |
+| D4 | Out Of Nowhere |
 
 
 ## Apple Music

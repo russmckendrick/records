@@ -26,17 +26,17 @@ The Utopia Strong are a British electronic band formed in Glastonbury, England i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Emerald Tablet |  |
-| A2 | Konta Chorus |  |
-| A3 | Swimmer |  |
-| A4 | Unquiet Boundary |  |
-| A5 | Transition To The Afterlife |  |
-| A6 | Pickman's Model |  |
-| B1 | Brainsurgeons 3 |  |
-| B2 | Do You Believe In Two Gods? |  |
-| B3 | Moonchild |  |
+| Position | Title |
+|----------|--------|
+| A1 | Emerald Tablet |
+| A2 | Konta Chorus |
+| A3 | Swimmer |
+| A4 | Unquiet Boundary |
+| A5 | Transition To The Afterlife |
+| A6 | Pickman's Model |
+| B1 | Brainsurgeons 3 |
+| B2 | Do You Believe In Two Gods? |
+| B3 | Moonchild |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ The Utopia Strong are a British electronic band formed in Glastonbury, England i
 | Format         | Vinyl LP Album Limited Edition (Orange "Fireball Orange") |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH172 |
-| Notes | Ltd edition, "indies only" Fireball Orange Vinyl.<br><br>Comes with printed inner sleeve and protective outer sleeve. |
+| Notes | Ltd edition, "indies only" Fireball Orange Vinyl.  Comes with printed inner sleeve and protective outer sleeve. |
 | Discogs URL    | [The Utopia Strong - The Utopia Strong](https://www.discogs.com/release/14133042-The-Utopia-Strong-The-Utopia-Strong) |

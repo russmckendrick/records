@@ -33,20 +33,20 @@ Pretenders II is the second studio album by British-American rock band the Prete
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Adultress |  |
-| A2 | Bad Boys Get Spanked |  |
-| A3 | Message Of Love |  |
-| A4 | I Go To Sleep |  |
-| A5 | Birds Of Paradise |  |
-| A6 | Talk Of The Town |  |
-| B1 | Pack It Up |  |
-| B2 | Waste Not Want Not |  |
-| B3 | Day After Day |  |
-| B4 | Jealous Dogs |  |
-| B5 | The English Roses |  |
-| B6 | Louie Louie |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Adultress |
+| A2 | Bad Boys Get Spanked |
+| A3 | Message Of Love |
+| A4 | I Go To Sleep |
+| A5 | Birds Of Paradise |
+| A6 | Talk Of The Town |
+| B1 | Pack It Up |
+| B2 | Waste Not Want Not |
+| B3 | Day After Day |
+| B4 | Jealous Dogs |
+| B5 | The English Roses |
+| B6 | Louie Louie |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Pretenders II is the second studio album by British-American rock band the Prete
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (White) |
 | Label          | Real Records (2) |
 | Catalog Number | 0190296766138 |
-| Notes | Made in Germany. Limited edition white vinyl with 2018 remastered audio.<br><br>Originally ℗ 1981, Remaster ℗ 2018. © 2021 Warner Music UK Ltd.<br> |
+| Notes | Made in Germany. Limited edition white vinyl with 2018 remastered audio.  Originally ℗ 1981, Remaster ℗ 2018. © 2021 Warner Music UK Ltd.  |
 | Discogs URL    | [The Pretenders - Pretenders II](https://www.discogs.com/release/20982424-Pretenders-Pretenders-II) |

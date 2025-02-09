@@ -39,29 +39,29 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Time Is On My Side | 2:50 |
-| A2 | Heart Of Stone | 2:49 |
-| A3 | Play With Fire | 2:15 |
-| A4 | (I Can't Get No) Satisfaction | 3:45 |
-| A5 | As Tears Go By | 2:45 |
-| A6 | Get Off Of My Cloud | 2:52 |
-| B1 | Mother's Little Helper | 2:40 |
-| B2 | 19th Nervous Breakdown | 3:52 |
-| B3 | Paint It Black | 3:20 |
-| B4 | Under My Thumb | 3:20 |
-| B5 | Ruby Tuesday | 3:12 |
-| B6 | Let's Spend The Night Together | 3:29 |
-| C1 | Jumpin' Jack Flash | 3:40 |
-| C2 | Street Fighting Man | 3:10 |
-| C3 | Sympathy For The Devil | 6:14 |
-| C4 | Honky Tonk Woman | 3:03 |
-| C5 | Gimme Shelter | 4:30 |
-| D1 | Midnight Rambler (Live) | 8:23 |
-| D2 | You Can't Always Get What You Want | 7:28 |
-| D3 | Brown Sugar | 3:50 |
-| D4 | Wild Horses | 5:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Time Is On My Side |
+| A2 | Heart Of Stone |
+| A3 | Play With Fire |
+| A4 | (I Can't Get No) Satisfaction |
+| A5 | As Tears Go By |
+| A6 | Get Off Of My Cloud |
+| B1 | Mother's Little Helper |
+| B2 | 19th Nervous Breakdown |
+| B3 | Paint It Black |
+| B4 | Under My Thumb |
+| B5 | Ruby Tuesday |
+| B6 | Let's Spend The Night Together |
+| C1 | Jumpin' Jack Flash |
+| C2 | Street Fighting Man |
+| C3 | Sympathy For The Devil |
+| C4 | Honky Tonk Woman |
+| C5 | Gimme Shelter |
+| D1 | Midnight Rambler (Live) |
+| D2 | You Can't Always Get What You Want |
+| D3 | Brown Sugar |
+| D4 | Wild Horses |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Yellow, 180 Gram, Gatefold) |
 | Label          | London Records |
 | Catalog Number | 2PS 606/7 |
-| Notes | Record Store Day Pressing for Drop 2 on July 17th, but few copies slipped out in France and Mexico on Drop 1.<br><br>Limited to 7200 copies.<br><br>Includes two 8.5" x 11" lithographs printed on embossed archival paper<br><br>Labels: Made in the EU.<br><br>Sleeve: Made in Germany<br><br>with OBI<br><br>inner 1 with London Sunburst image<br><br>inner 2 with replica of  original London Records insert with Rolling Stones catalogue<br><br>Variant 4 runout: side B - "2" in "V2" is mirrored; side C - "1" in "+1" is mirrored. |
+| Notes | Record Store Day Pressing for Drop 2 on July 17th, but few copies slipped out in France and Mexico on Drop 1.  Limited to 7200 copies.  Includes two 8.5" x 11" lithographs printed on embossed archival paper  Labels: Made in the EU.  Sleeve: Made in Germany  with OBI  inner 1 with London Sunburst image  inner 2 with replica of  original London Records insert with Rolling Stones catalogue  Variant 4 runout: side B - "2" in "V2" is mirrored; side C - "1" in "+1" is mirrored. |
 | Discogs URL    | [The Rolling Stones - Hot Rocks 1964-1971](https://www.discogs.com/release/19121767-The-Rolling-Stones-Hot-Rocks-1964-1971) |

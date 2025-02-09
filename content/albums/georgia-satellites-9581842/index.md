@@ -29,18 +29,18 @@ The Georgia Satellites resurfaced in 1993 and have since continued to perform li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Keep Your Hands To Yourself | 3:26 |
-| A2 | Railroad Steel | 4:12 |
-| A3 | Battleship Chains | 2:58 |
-| A4 | Red Light | 2:48 |
-| A5 | The Myth Of Love | 4:12 |
-| B1 | Can't Stand The Pain | 3:44 |
-| B2 | Golden Light | 3:42 |
-| B3 | Over And Over | 3:37 |
-| B4 | Nights Of Mystery | 4:44 |
-| B5 | Every Picture Tells A Story | 5:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Keep Your Hands To Yourself |
+| A2 | Railroad Steel |
+| A3 | Battleship Chains |
+| A4 | Red Light |
+| A5 | The Myth Of Love |
+| B1 | Can't Stand The Pain |
+| B2 | Golden Light |
+| B3 | Over And Over |
+| B4 | Nights Of Mystery |
+| B5 | Every Picture Tells A Story |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The Georgia Satellites resurfaced in 1993 and have since continued to perform li
 | Format         | Vinyl LP Album Stereo (Gray Labels) |
 | Label          | Elektra |
 | Catalog Number | 960 496-1 |
-| Notes | Gray labels with different label logo.<br><br>Runouts:<br>'R / S Alsdorf 960496-1-A' and 'R / S Alsdorf 960496-1-B' are stamped, the rest is etched. |
+| Notes | Gray labels with different label logo.  Runouts: 'R / S Alsdorf 960496-1-A' and 'R / S Alsdorf 960496-1-B' are stamped, the rest is etched. |
 | Discogs URL    | [The Georgia Satellites - Georgia Satellites](https://www.discogs.com/release/9581842-Georgia-Satellites-Georgia-Satellites) |

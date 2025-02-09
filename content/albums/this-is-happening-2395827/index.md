@@ -50,17 +50,17 @@ Hits or not, LCD Soundsystem was now big enough to be billed just below Jay-Z fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dance Yrself Clean |  |
-| A2 | Drunk Girls |  |
-| B1 | One Touch |  |
-| B2 | All I Want |  |
-| B3 | I Can Change |  |
-| C1 | You Wanted A Hit |  |
-| C2 | Pow Pow |  |
-| D1 | Somebody's Calling Me |  |
-| D2 | Home |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dance Yrself Clean |
+| A2 | Drunk Girls |
+| B1 | One Touch |
+| B2 | All I Want |
+| B3 | I Can Change |
+| C1 | You Wanted A Hit |
+| C2 | Pow Pow |
+| D1 | Somebody's Calling Me |
+| D2 | Home |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Hits or not, LCD Soundsystem was now big enough to be billed just below Jay-Z fo
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | DFA 2250-2 |
-| Notes | Issued in a matte gatefold sleeve with full-color printed inner sleeves with artwork and a full-color 11.5"×11.5" printed insert with lyrics, credits and artwork.<br><br>℗ 2010 DFA LLC under exclusive license to Virgin Records<br>© 2010 EMI Records Ltd. under exclusive license to Virgin Records<br>Printed in U.S.A.<br>Made in the USA<br><br>℗ + © 2010 DFA Records<br><br>Produced for The DFA in 2009/2010<br>Recorded @ the Manshun and DFA<br>Mixed @ DFA and the Hillside Manor<br><br>Tracks A1, B1, B2, C2, D2 mixed @ DFA.<br>Tracks A2, B3, C1, D1 mixed @ Hillside.<br><br>Publishing: Guy with Head and Arms Music, 2009/2010<br><br>Label logos:<br>DFA on back cover, spine, labels.<br>Virgin Music on back cover. |
+| Notes | Issued in a matte gatefold sleeve with full-color printed inner sleeves with artwork and a full-color 11.5"×11.5" printed insert with lyrics, credits and artwork.  ℗ 2010 DFA LLC under exclusive license to Virgin Records © 2010 EMI Records Ltd. under exclusive license to Virgin Records Printed in U.S.A. Made in the USA  ℗ + © 2010 DFA Records  Produced for The DFA in 2009/2010 Recorded @ the Manshun and DFA Mixed @ DFA and the Hillside Manor  Tracks A1, B1, B2, C2, D2 mixed @ DFA. Tracks A2, B3, C1, D1 mixed @ Hillside.  Publishing: Guy with Head and Arms Music, 2009/2010  Label logos: DFA on back cover, spine, labels. Virgin Music on back cover. |
 | Discogs URL    | [LCD Soundsystem - This Is Happening](https://www.discogs.com/release/2395827-LCD-Soundsystem-This-Is-Happening) |

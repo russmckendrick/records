@@ -40,31 +40,31 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | International Feel | 2:53 |
-| A2 | Never Never Land | 1:25 |
-| A3 | Tic Tic Tic It Wears Off | 1:15 |
-| A4 | You Need Your Head | 1:07 |
-| A5 | Rock And Roll Pussy | 1:10 |
-| A6 | Dogfight Giggle | 1:10 |
-| A7 | You Don't Have To Camp Around | 1:05 |
-| A8 | Flamingo | 2:35 |
-| A9 | Zen Archer | 5:25 |
-| A10 | Just Another Onion Head; Da Da Dali | 2:25 |
-| A11 | When The Shit Hits The Fan; Sunset Blvd | 4:01 |
-| A12 | Le Feel Internacionale | 1:46 |
-| B1 | Sometimes I Don't Know What To Feel | 4:15 |
-| B2 | Does Anybody Love You? | 1:31 |
-|  | Medley | 10:35 |
-| B3.1 | I'm So Proud |  |
-| B3.2 | Ooh Baby Baby |  |
-| B3.3 | La La Means I Love You |  |
-| B3.4 | Cool Jerk |  |
-| B4 | Hungry For Love | 2:11 |
-| B5 | I Don't Want To Tie You Down | 1:56 |
-| B6 | Is It My Name? | 3:50 |
-| B7 | Just One Victory | 4:50 |
+| Position | Title |
+|----------|--------|
+| A1 | International Feel |
+| A2 | Never Never Land |
+| A3 | Tic Tic Tic It Wears Off |
+| A4 | You Need Your Head |
+| A5 | Rock And Roll Pussy |
+| A6 | Dogfight Giggle |
+| A7 | You Don't Have To Camp Around |
+| A8 | Flamingo |
+| A9 | Zen Archer |
+| A10 | Just Another Onion Head; Da Da Dali |
+| A11 | When The Shit Hits The Fan; Sunset Blvd |
+| A12 | Le Feel Internacionale |
+| B1 | Sometimes I Don't Know What To Feel |
+| B2 | Does Anybody Love You? |
+|  | Medley |
+| B3.1 | I'm So Proud |
+| B3.2 | Ooh Baby Baby |
+| B3.3 | La La Means I Love You |
+| B3.4 | Cool Jerk |
+| B4 | Hungry For Love |
+| B5 | I Don't Want To Tie You Down |
+| B6 | Is It My Name? |
+| B7 | Just One Victory |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | Bearsville |
 | Catalog Number | BEA 45 513 |
-| Notes | (P) 1973<br>Seperate lyric sheet, credits and a photo collage<br><br> |
+| Notes | (P) 1973  Seperate lyric sheet, credits and a photo collage     |
 | Discogs URL    | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/2244770-Todd-Rundgren-A-Wizard-A-True-Star) |

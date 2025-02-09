@@ -31,21 +31,21 @@ It is also common for greatest hits albums to include new recordings, remixes or
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sex & Drugs & Rock & Roll |  |
-| A2 | Wake Up And Make Love |  |
-| A3 | Reasons To Be Cheerful Part 3 |  |
-| A4 | Hit Me With Your Rhythm Stick |  |
-| A5 | My Old Man |  |
-| A6 | Sweet Gene Vincent |  |
-| A7 | What A Waste |  |
-| B1 | There Ain't Half Been Some Clever Bastards |  |
-| B2 | Inbetweenies |  |
-| B3 | I Want To Be Straight |  |
-| B4 | Sueperman's Big Sister |  |
-| B5 | Billericay Dickie |  |
-| B6 | Clevor Trever |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sex & Drugs & Rock & Roll |
+| A2 | Wake Up And Make Love |
+| A3 | Reasons To Be Cheerful Part 3 |
+| A4 | Hit Me With Your Rhythm Stick |
+| A5 | My Old Man |
+| A6 | Sweet Gene Vincent |
+| A7 | What A Waste |
+| B1 | There Ain't Half Been Some Clever Bastards |
+| B2 | Inbetweenies |
+| B3 | I Want To Be Straight |
+| B4 | Sueperman's Big Sister |
+| B5 | Billericay Dickie |
+| B6 | Clevor Trever |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ It is also common for greatest hits albums to include new recordings, remixes or
 | Format         | Vinyl LP Compilation (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC280 |
-| Notes | Released on translucent yellow heavyweight vinyl .<br><br>Sticker on the wrapper states:<br>IAN DURY<br>AND THE BLOCKHEADS<br>GREATEST HITS<br>INCLUDES THE HIT SONGS<br>'HIT ME WITH YOUR<br>RYTHM STICK'<br>'REASON'S TO BE CHEERFUL<br>(PART 3)'<br>'WHAT A WASTE'<br>ON 180g COLOURED VINYL<br>DEMREC280 |
+| Notes | Released on translucent yellow heavyweight vinyl .  Sticker on the wrapper states: IAN DURY AND THE BLOCKHEADS GREATEST HITS INCLUDES THE HIT SONGS 'HIT ME WITH YOUR RYTHM STICK' 'REASON'S TO BE CHEERFUL (PART 3)' 'WHAT A WASTE' ON 180g COLOURED VINYL DEMREC280 |
 | Discogs URL    | [Ian Dury And The Blockheads - Greatest Hits](https://www.discogs.com/release/12167804-Ian-Dury-And-The-Blockheads-Greatest-Hits) |

@@ -40,19 +40,19 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Test For Echo | 5:56 |
-| A2 | Driven | 4:27 |
-| A3 | Half The World | 3:43 |
-| A4 | The Color Of Right | 4:49 |
-| B1 | Time And Motion | 5:02 |
-| B2 | Totem | 4:59 |
-| B3 | Dog Years | 4:55 |
-| C1 | Virtuality | 5:44 |
-| C2 | Resist | 4:24 |
-| C3 | Limbo | 5:29 |
-| C4 | Carve Away The Stone | 4:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Test For Echo |
+| A2 | Driven |
+| A3 | Half The World |
+| A4 | The Color Of Right |
+| B1 | Time And Motion |
+| B2 | Totem |
+| B3 | Dog Years |
+| C1 | Virtuality |
+| C2 | Resist |
+| C3 | Limbo |
+| C4 | Carve Away The Stone |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 83739 |
-| Notes | Includes High Quality Download Code <br>Etched D Side |
+| Notes | Includes High Quality Download Code  Etched D Side |
 | Discogs URL    | [Rush - Test For Echo](https://www.discogs.com/release/7684234-Rush-Test-For-Echo) |

@@ -38,20 +38,20 @@ But, as usual with Springsteen, the details are more complex than that. The albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ain't Got You | 2:06 |
-| A2 | Tougher Than The Rest | 4:35 |
-| A3 | All That Heaven Will Allow | 2:38 |
-| A4 | Spare Parts | 3:39 |
-| A5 | Cautious Man | 3:56 |
-| A6 | Walk Like A Man | 3:37 |
-| B1 | Tunnel Of Love | 5:11 |
-| B2 | Two Faces | 3:00 |
-| B3 | Brilliant Disguise | 4:15 |
-| B4 | One Step Up | 4:21 |
-| B5 | When You're Alone | 3:20 |
-| B6 | Valentine's Day | 5:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Ain't Got You |
+| A2 | Tougher Than The Rest |
+| A3 | All That Heaven Will Allow |
+| A4 | Spare Parts |
+| A5 | Cautious Man |
+| A6 | Walk Like A Man |
+| B1 | Tunnel Of Love |
+| B2 | Two Faces |
+| B3 | Brilliant Disguise |
+| B4 | One Step Up |
+| B5 | When You're Alone |
+| B6 | Valentine's Day |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ But, as usual with Springsteen, the details are more complex than that. The albu
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | CBS 460270 1 |
-| Notes | Issued with a printed inner sleeve with lyrics, pic and credits<br><br>Back cover:<br>℗ 1987 Bruce Springsteen/ / © 1987 Bruce Springsteen<br>Printed in Holland / Imprimé en Hollande<br><br>Labels:<br>Made in Holland<br><br>Inner sleeve:<br>Recorded in New Jersey ("One Step Up" [B4] recorded at A&M Studios, Los Angeles, California)<br>Mixed at A&M Studios, Los Angeles, California ("Tunnel of Love" [B1] mixed at The Hit Factory, New York City).<br><br>Additional Recording:<br>The Hit Factory, New York City<br>Kren Studio, Los Angeles, California<br>A&M Studios, Los Angeles, California.<br><br>All recording and mixing on Sony Digital.<br><br>Mastering at Masterdisk, New York (on Neve Digital Console).<br><br>All music performed by Bruce Springsteen except where noted.<br><br>All songs © 1987 Bruce Springsteen (ASCAP)<br><br>Runouts:<br>Side A is etched<br>Side B is stamped |
+| Notes | Issued with a printed inner sleeve with lyrics, pic and credits  Back cover: ℗ 1987 Bruce Springsteen/ / © 1987 Bruce Springsteen Printed in Holland / Imprimé en Hollande  Labels: Made in Holland  Inner sleeve: Recorded in New Jersey ("One Step Up" [B4] recorded at A&M Studios, Los Angeles, California) Mixed at A&M Studios, Los Angeles, California ("Tunnel of Love" [B1] mixed at The Hit Factory, New York City).  Additional Recording: The Hit Factory, New York City Kren Studio, Los Angeles, California A&M Studios, Los Angeles, California.  All recording and mixing on Sony Digital.  Mastering at Masterdisk, New York (on Neve Digital Console).  All music performed by Bruce Springsteen except where noted.  All songs © 1987 Bruce Springsteen (ASCAP)  Runouts: Side A is etched Side B is stamped |
 | Discogs URL    | [Bruce Springsteen - Tunnel Of Love](https://www.discogs.com/release/386066-Bruce-Springsteen-Tunnel-Of-Love) |

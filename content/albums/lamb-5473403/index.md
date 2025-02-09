@@ -27,21 +27,21 @@ The band's cumulative sales equal almost two million in the United States, inclu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lusty |  |
-| A2 | God Bless |  |
-| A3 | Cotton Wool |  |
-| A4 | Trans Fatty Acid |  |
-| B1 | Zero |  |
-| B2 | Merge |  |
-| B3 | Gold |  |
-| B4 | Closer |  |
-| C1 | Górecki |  |
-| C2 | Feela |  |
-| C3 | Cotton Wool (Fila Brazillia Mix) |  |
-| D1 | Trans Fatty Acid (Kruder & Dorfmeister Remix) |  |
-| D2 | Gorecki (Global Communication Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lusty |
+| A2 | God Bless |
+| A3 | Cotton Wool |
+| A4 | Trans Fatty Acid |
+| B1 | Zero |
+| B2 | Merge |
+| B3 | Gold |
+| B4 | Closer |
+| C1 | Górecki |
+| C2 | Feela |
+| C3 | Cotton Wool (Fila Brazillia Mix) |
+| D1 | Trans Fatty Acid (Kruder & Dorfmeister Remix) |
+| D2 | Gorecki (Global Communication Mix) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The band's cumulative sales equal almost two million in the United States, inclu
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP854 |
-| Notes | Standard Black Vinyl release.<br><br>180 gram audiophile vinyl.<br>Insert with exclusive liner notes written by Lou Rhodes.<br>Includes 3 bonus tracks. |
+| Notes | Standard Black Vinyl release.    180 gram audiophile vinyl.  Insert with exclusive liner notes written by Lou Rhodes.  Includes 3 bonus tracks. |
 | Discogs URL    | [Lamb - Lamb](https://www.discogs.com/release/5473403-Lamb-Lamb) |

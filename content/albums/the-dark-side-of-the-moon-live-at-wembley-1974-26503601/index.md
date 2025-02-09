@@ -32,18 +32,18 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speak To Me |  |
-| A2 | Breathe (In The Air) |  |
-| A3 | On The Run |  |
-| A4 | Time |  |
-| A5 | The Great Gig In The Sky |  |
-| B1 | Money |  |
-| B2 | Us And Them |  |
-| B3 | Any Colour You Like |  |
-| B4 | Brain Damage |  |
-| B5 | Eclipse |  |
+| Position | Title |
+|----------|--------|
+| A1 | Speak To Me |
+| A2 | Breathe (In The Air) |
+| A3 | On The Run |
+| A4 | Time |
+| A5 | The Great Gig In The Sky |
+| B1 | Money |
+| B2 | Us And Them |
+| B3 | Any Colour You Like |
+| B4 | Brain Damage |
+| B5 | Eclipse |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 | Format         | Vinyl LP Album Stereo (Gatefold, 180 Gram, 50th Anniversary) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50LP2 |
-| Notes | Recorded at the Empire Pool, Wembley, London,<br>November 1974.<br><br>A5, B1 and B3 are marked as '(Edit)' following the song title on both the labels and inner gatefold tracklist. <br><br>Includes two posters.<br>Black polylined inner bag.<br>Hype sticker on front shrink.<br><br>Made and Printed in The Netherlands.<br>© 2023 Pink Floyd Music Ltd.<br>℗ 2023 Pink Floyd Music Ltd, marketed and distributed by Parlophone Records Ltd.<br><br>Runouts are stamped, while:<br>in variant 1 both "STU" and "B" on A-side are etched;<br>in variant 2 both "STU" and last "C" on A-side and "B" on B-side are etched;<br>in variant 5 and 6, "STU" is etched. There are no additional letters.<br>in variant 7, "STU" and "B" on A-side & B-side are etched; |
+| Notes | Recorded at the Empire Pool, Wembley, London, November 1974.  A5, B1 and B3 are marked as '(Edit)' following the song title on both the labels and inner gatefold tracklist.   Includes two posters. Black polylined inner bag. Hype sticker on front shrink.  Made and Printed in The Netherlands. © 2023 Pink Floyd Music Ltd. ℗ 2023 Pink Floyd Music Ltd, marketed and distributed by Parlophone Records Ltd.  Runouts are stamped, while: in variant 1 both "STU" and "B" on A-side are etched; in variant 2 both "STU" and last "C" on A-side and "B" on B-side are etched; in variant 5 and 6, "STU" is etched. There are no additional letters. in variant 7, "STU" and "B" on A-side & B-side are etched; |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon (Live At Wembley 1974)](https://www.discogs.com/release/26503601-Pink-Floyd-The-Dark-Side-Of-The-Moon-Live-At-Wembley-1974) |

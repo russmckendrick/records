@@ -29,19 +29,19 @@ styles: ["Blues Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Caddo Queen | 3:35 |
-| A2 | A Woman Left Lonely | 3:54 |
-| A3 | Souvenirs | 5:32 |
-| A4 | After Midnight | 2:34 |
-| A5 | Queen Of The Night | 4:02 |
-| B1 | Oh My My | 3:00 |
-| B2 | As The Years Go Passing By | 4:21 |
-| B3 | Yesterday's Music | 3:28 |
-| B4 | We Had It All | 2:55 |
-| B5 | The Other Side | 2:59 |
-| B6 | Trade Winds | 5:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Caddo Queen |
+| A2 | A Woman Left Lonely |
+| A3 | Souvenirs |
+| A4 | After Midnight |
+| A5 | Queen Of The Night |
+| B1 | Oh My My |
+| B2 | As The Years Go Passing By |
+| B3 | Yesterday's Music |
+| B4 | We Had It All |
+| B5 | The Other Side |
+| B6 | Trade Winds |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Blues Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 2383 239 |
-| Notes | On the sleeve:<br>2383 239 SUPER<br>(Polydor logo)<br>Marketed by Polydor Limited<br>Also available on Musicassette 3170 125<br>and 8 Track Cartridge 3820 080<br>A (Colourme Gone logo) Product<br>Sleeve printed and made in England by MacNeill Press., London, SE1 <br><br>On the labels:<br>Polydor<br>Stereo<br>2383239<br>Made in England<br>℗ 1974 Polydor Int.<br>Track A1 has been misspelt as "Cado Queen" |
+| Notes | On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen" |
 | Discogs URL    | [Maggie Bell - Queen Of The Night](https://www.discogs.com/release/2386688-Maggie-Bell-Queen-Of-The-Night) |

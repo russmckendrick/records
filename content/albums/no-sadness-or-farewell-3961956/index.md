@@ -30,14 +30,14 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How We Rock | 12:24 |
-| A2 | Hold On (So Goodbye To All Of That) | 6:53 |
-| B1 | One Armed Boxer | 3:18 |
-| B2 | Jonestown Martin | 6:29 |
-| B3 | Long Live Independence | 5:22 |
-| B4 | Maniac Beast | 3:24 |
+| Position | Title |
+|----------|--------|
+| A1 | How We Rock |
+| A2 | Hold On (So Goodbye To All Of That) |
+| B1 | One Armed Boxer |
+| B2 | Jonestown Martin |
+| B3 | Long Live Independence |
+| B4 | Maniac Beast |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 | Format         | Vinyl LP EP |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7397 1 |
-| Notes | ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.<br><br>B1's title on the label is "One Armed Robber". |
+| Notes | ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.  B1's title on the label is "One Armed Robber". |
 | Discogs URL    | [Crippled Black Phoenix - No Sadness Or Farewell](https://www.discogs.com/release/3961956-Crippled-Black-Phoenix-No-Sadness-Or-Farewell) |

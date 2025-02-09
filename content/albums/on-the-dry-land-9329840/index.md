@@ -26,23 +26,23 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | After | 2:14 |
-| A2 | Eating A Heart Out | 2:50 |
-| A3 | Big River | 2:00 |
-| A4 | Sea Snake Beware | 2:54 |
-| A5 | Mirmaid's Purse | 2:06 |
-| A6 | Cut Yourself Kidding | 3:07 |
-| A7 | Bye Bye Spirit | 4:31 |
-| A8 | Heaven Haven | 1:39 |
-| B9 | Anchors Away | 0:23 |
-| B10 | On The Dry Land | 1:46 |
-| B11 | The Black Blooded Clam | 2:46 |
-| B12 | The Sea Ritual | 2:22 |
-| B13 | Liberated And Handsome | 1:36 |
-| B14 | A Kind Of Keeper | 1:24 |
-| B15 | Wanky | 2:25 |
+| Position | Title |
+|----------|--------|
+| A1 | After |
+| A2 | Eating A Heart Out |
+| A3 | Big River |
+| A4 | Sea Snake Beware |
+| A5 | Mirmaid's Purse |
+| A6 | Cut Yourself Kidding |
+| A7 | Bye Bye Spirit |
+| A8 | Heaven Haven |
+| B9 | Anchors Away |
+| B10 | On The Dry Land |
+| B11 | The Black Blooded Clam |
+| B12 | The Sea Ritual |
+| B13 | Liberated And Handsome |
+| B14 | A Kind Of Keeper |
+| B15 | Wanky |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 032 |
-| Notes | Limited to 200 numbered, stickered copies.<br><br>Includes download card. |
+| Notes | Limited to 200 numbered, stickered copies.  Includes download card. |
 | Discogs URL    | [The Sea Nymphs - On The Dry Land](https://www.discogs.com/release/9329840-The-Sea-Nymphs-On-The-Dry-Land) |

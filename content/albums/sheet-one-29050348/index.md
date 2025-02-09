@@ -32,19 +32,19 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Drp |  |
-| A2 | Plasticity |  |
-| A3 | Gak |  |
-| B1 | Okx |  |
-| B2 | Helikopter |  |
-| B3 | Glob |  |
-| C1 | Plasticine |  |
-| C2 | Koma |  |
-| D1 | Vokx |  |
-| D2 | Smak |  |
-| D3 | Ovokx |  |
+| Position | Title |
+|----------|--------|
+| A1 | Drp |
+| A2 | Plasticity |
+| A3 | Gak |
+| B1 | Okx |
+| B2 | Helikopter |
+| B3 | Glob |
+| C1 | Plasticine |
+| C2 | Koma |
+| D1 | Vokx |
+| D2 | Smak |
+| D3 | Ovokx |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 | Format         | Vinyl 2× LP Album Bioplastic Reissue (30th Anniversary Edition) |
 | Label          | NovaMute |
 | Catalog Number | NOMU22LP |
-| Notes | 30th Anniversary edition<br>Pressed using the original masters<br>100% BioVinyl with reduced petroleum content and significant CO2 emission savings<br>mastered by manmade berlin |
+| Notes | 30th Anniversary edition Pressed using the original masters 100% BioVinyl with reduced petroleum content and significant CO2 emission savings mastered by manmade berlin |
 | Discogs URL    | [Plastikman - Sheet One](https://www.discogs.com/release/29050348-Plastikman-Sheet-One) |

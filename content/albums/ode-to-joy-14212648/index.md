@@ -33,19 +33,19 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bright Leaves |  |
-| A2 | Before Us |  |
-| A3 | One And A Half Stars |  |
-| A4 | Quiet Amplifier |  |
-| A5 | Everyone Hides |  |
-| B6 | White Wooden Cross |  |
-| B7 | Citizens |  |
-| B8 | We Were Lucky |  |
-| B9 | Love Is Everywhere (Beware) |  |
-| B10 | Hold Me Anyway |  |
-| B11 | An Empty Corner |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bright Leaves |
+| A2 | Before Us |
+| A3 | One And A Half Stars |
+| A4 | Quiet Amplifier |
+| A5 | Everyone Hides |
+| B6 | White Wooden Cross |
+| B7 | Citizens |
+| B8 | We Were Lucky |
+| B9 | Love Is Everywhere (Beware) |
+| B10 | Hold Me Anyway |
+| B11 | An Empty Corner |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | dBpm Records |
 | Catalog Number | DBPM-010-20-LP |
-| Notes | Includes a printed insert.<br>Tracks are continuously numbered across sides.<br><br>℗ © 2019 dBpm Records.<br><br>Recorded at The Loft - Chicago<br><br>All songs [...] published by Words Ampersand Music (BMI).<br>Administered worldwide by BMG Rights Management. |
+| Notes | Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management. |
 | Discogs URL    | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648-Wilco-Ode-To-Joy) |

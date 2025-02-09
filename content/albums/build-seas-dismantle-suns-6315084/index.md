@@ -29,16 +29,16 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Violent Lights |  |
-| A2 | Drumfire |  |
-| A3 | Neotenie |  |
-| A4 | Between Two Worlds |  |
-| B1 | Little Bird |  |
-| B2 | Mechanical Minds |  |
-| B3 | Strangest Tides |  |
-| B4 | Dark Clouds Mean War |  |
+| Position | Title |
+|----------|--------|
+| A1 | Violent Lights |
+| A2 | Drumfire |
+| A3 | Neotenie |
+| A4 | Between Two Worlds |
+| B1 | Little Bird |
+| B2 | Mechanical Minds |
+| B3 | Strangest Tides |
+| B4 | Dark Clouds Mean War |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE869 |
-| Notes | Made in Germany<br><br>The 2013 Self Released EPs on 180g Clear Vinyl<br><br>www.nordicgiants.co.uk |
+| Notes | Made in Germany    The 2013 Self Released EPs on 180g Clear Vinyl    www.nordicgiants.co.uk |
 | Discogs URL    | [Nordic Giants - Build Seas, Dismantle Suns](https://www.discogs.com/release/6315084-Nordic-Giants-Build-Seas-Dismantle-Suns) |

@@ -33,23 +33,23 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Aboard |  |
-| A2 | Summer Sun |  |
-| A3 | Safe Passage |  |
-| A4 | Now Disappear |  |
-| A5 | Alone |  |
-| A6 | Invisible |  |
-| A7 | Blues Inside Me |  |
-| A8 | I Cannot Speak |  |
-| B1 | The Blue Elephant |  |
-| B2 | Life Unknown |  |
-| B3 | Safer Passage |  |
-| B4 | Like Stone |  |
-| B5 | Story Told |  |
-| B6 | Forget Me |  |
-| B7 | Now Disappear (Again) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Aboard |
+| A2 | Summer Sun |
+| A3 | Safe Passage |
+| A4 | Now Disappear |
+| A5 | Alone |
+| A6 | Invisible |
+| A7 | Blues Inside Me |
+| A8 | I Cannot Speak |
+| B1 | The Blue Elephant |
+| B2 | Life Unknown |
+| B3 | Safer Passage |
+| B4 | Like Stone |
+| B5 | Story Told |
+| B6 | Forget Me |
+| B7 | Now Disappear (Again) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 | Format         | Vinyl LP Album Limited Edition Stereo (Mustard) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP578M |
-| Notes | 'Mustard' colour vinyl.<br>Recorded by Matt Berry at Peach Studios between May & October 2020<br><br><br><br><br><br> |
+| Notes | 'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020       |
 | Discogs URL    | [Matt Berry - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-3-The-Blue-Elephant) |

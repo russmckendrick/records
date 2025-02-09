@@ -35,18 +35,18 @@ Bryter Layter is the second studio album by English folk singer-songwriter Nick 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction | 1:33 |
-| A2 | Hazey Jane II | 3:41 |
-| A3 | At The Chime Of A City Clock | 4:42 |
-| A4 | One Of These Things First | 4:46 |
-| A5 | Hazey Jane I | 4:24 |
-| B1 | Bryter Layter | 3:16 |
-| B2 | Fly | 2:56 |
-| B3 | Poor Boy | 6:30 |
-| B4 | Northern Sky | 3:42 |
-| B5 | Sunday | 3:39 |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction |
+| A2 | Hazey Jane II |
+| A3 | At The Chime Of A City Clock |
+| A4 | One Of These Things First |
+| A5 | Hazey Jane I |
+| B1 | Bryter Layter |
+| B2 | Fly |
+| B3 | Poor Boy |
+| B4 | Northern Sky |
+| B5 | Sunday |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Bryter Layter is the second studio album by English folk singer-songwriter Nick 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Textured Sleeve) |
 | Label          | Island Records |
 | Catalog Number | 0602537347551 |
-| Notes | ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company.<br>Made in the EU.<br><br>Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format:<br>-24 bit / 96 kHz FLAC<br>-24 bit / 96 kHz 320 Kbps MP3<br>-"Dubbed From Disc" 320 Kbps MP3<br><br>Adam Nunn's credit does not appear on release.<br>Universal Music Group International appears on sticker and coupon only.<br><br>Cut from a tape-copy of original masters.<br><br>All the runout information on both sides is etched. The number "5" is inverted on variant 2's side B runout information. |
+| Notes | ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company. Made in the EU.  Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format: -24 bit / 96 kHz FLAC -24 bit / 96 kHz 320 Kbps MP3 -"Dubbed From Disc" 320 Kbps MP3  Adam Nunn's credit does not appear on release. Universal Music Group International appears on sticker and coupon only.  Cut from a tape-copy of original masters.  All the runout information on both sides is etched. The number "5" is inverted on variant 2's side B runout information. |
 | Discogs URL    | [Nick Drake - Bryter Layter](https://www.discogs.com/release/4635606-Nick-Drake-Bryter-Layter) |

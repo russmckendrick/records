@@ -36,18 +36,18 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crystalline Green |  |
-| A2 | Train |  |
-| A3 | Black Cherry |  |
-| A4 | Tiptoe |  |
-| A5 | Deep Honey |  |
-| B1 | Hairy Trees |  |
-| B2 | Twist |  |
-| B3 | Strict Machine |  |
-| B4 | Forever |  |
-| B5 | Slippage |  |
+| Position | Title |
+|----------|--------|
+| A1 | Crystalline Green |
+| A2 | Train |
+| A3 | Black Cherry |
+| A4 | Tiptoe |
+| A5 | Deep Honey |
+| B1 | Hairy Trees |
+| B2 | Twist |
+| B3 | Strict Machine |
+| B4 | Forever |
+| B5 | Slippage |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 | Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Purple) |
 | Label          | Mute |
 | Catalog Number | Stumm196 |
-| Notes | Includes exclusive art print.<br><br>Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.<br><br>℗ & © 2003 Mute Records Ltd., a BMG company.<br>Manufactured in the EU. |
+| Notes | Includes exclusive art print.  Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.  ℗ & © 2003 Mute Records Ltd., a BMG company. Manufactured in the EU. |
 | Discogs URL    | [Goldfrapp - Black Cherry](https://www.discogs.com/release/14182932-Goldfrapp-Black-Cherry) |

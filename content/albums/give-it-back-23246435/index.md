@@ -34,18 +34,18 @@ Give It Back! is the sixth studio album by the American psychedelic rock band Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wretched Soul | 5:27 |
-| A2 | Dead In The Water | 4:44 |
-| A3 | Shoot First | 3:43 |
-| A4 | Build A World | 3:42 |
-| A5 | Start Your Descent | 4:21 |
-| B1 | Give It Back | 6:19 |
-| B2 | Boxing Day | 3:25 |
-| B3 | Someone Pull Me Out | 4:00 |
-| B4 | Last Man Standing | 3:13 |
-| B5 | Little Man | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Wretched Soul |
+| A2 | Dead In The Water |
+| A3 | Shoot First |
+| A4 | Build A World |
+| A5 | Start Your Descent |
+| B1 | Give It Back |
+| B2 | Boxing Day |
+| B3 | Someone Pull Me Out |
+| B4 | Last Man Standing |
+| B5 | Little Man |
 
 
 ## Apple Music

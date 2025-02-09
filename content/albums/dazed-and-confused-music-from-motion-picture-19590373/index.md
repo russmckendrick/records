@@ -26,22 +26,22 @@ styles: ["Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rock And Roll, Hoochie Koo |  |
-| A2 | Slow Ride |  |
-| A3 | School's Out |  |
-| A4 | Jim Dandy |  |
-| A5 | Tush |  |
-| B1 | Love Hurts |  |
-| B2 | Stranglehold |  |
-| B3 | Cherry Bomb |  |
-| C1 | Fox On The Run |  |
-| C2 | Low Rider |  |
-| C3 | Tuesday’s Gone |  |
-| D1 | Highway Star |  |
-| D2 | Rock And Roll All Night |  |
-| D3 | Paranoid |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rock And Roll, Hoochie Koo |
+| A2 | Slow Ride |
+| A3 | School's Out |
+| A4 | Jim Dandy |
+| A5 | Tush |
+| B1 | Love Hurts |
+| B2 | Stranglehold |
+| B3 | Cherry Bomb |
+| C1 | Fox On The Run |
+| C2 | Low Rider |
+| C3 | Tuesday’s Gone |
+| D1 | Highway Star |
+| D2 | Rock And Roll All Night |
+| D3 | Paranoid |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Classic Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
 | Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |
-| Notes | Made in Czech Republic.<br><br>Runouts are Etched and stamped;<br>e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |
+| Notes | Made in Czech Republic.  Runouts are Etched and stamped; e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |
 | Discogs URL    | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |

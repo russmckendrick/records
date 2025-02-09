@@ -29,30 +29,30 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Salutations | 1:11 |
-| A2 | Jump Around | 3:37 |
-| A3 | Put Your Head Out | 3:02 |
-| A4 | Top O' The Morning To Ya | 3:36 |
-| A5 | Commercial 1 | 0:07 |
-| A6 | House And The Rising Sun | 3:39 |
-| B1 | Shamrocks And Shenanigans | 3:38 |
-| B2 | House Of Pain Anthem | 2:35 |
-| B3 | Danny Boy, Danny Boy | 1:54 |
-| B4 | Guess Who's Back | 3:59 |
-| B5 | Commercial 2 | 0:21 |
-| B6 | Put On Your Shit Kickers | 3:10 |
-| C1 | Come And Get Some Of This | 2:50 |
-| C2 | Life Goes On | 2:42 |
-| C3 | One For The Road | 2:50 |
-| C4 | Feel It | 3:59 |
-| C5 | All My Love | 3:20 |
-| D1 | Jump Around (25 Year Remix) | 3:13 |
-| D2 | Jump Around (Pete Rock Remix) | 3:56 |
-| D3 | Shamrocks And Shenanigans (Butch Vig Remix) | 3:57 |
-| D4 | Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) | 4:05 |
-| D5 | Jump Around (Instrumental) | 3:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Salutations |
+| A2 | Jump Around |
+| A3 | Put Your Head Out |
+| A4 | Top O' The Morning To Ya |
+| A5 | Commercial 1 |
+| A6 | House And The Rising Sun |
+| B1 | Shamrocks And Shenanigans |
+| B2 | House Of Pain Anthem |
+| B3 | Danny Boy, Danny Boy |
+| B4 | Guess Who's Back |
+| B5 | Commercial 2 |
+| B6 | Put On Your Shit Kickers |
+| C1 | Come And Get Some Of This |
+| C2 | Life Goes On |
+| C3 | One For The Road |
+| C4 | Feel It |
+| C5 | All My Love |
+| D1 | Jump Around (25 Year Remix) |
+| D2 | Jump Around (Pete Rock Remix) |
+| D3 | Shamrocks And Shenanigans (Butch Vig Remix) |
+| D4 | Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) |
+| D5 | Jump Around (Instrumental) |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 | Format         | Vinyl LP (Orange), Vinyl LP (White), All Media Album Deluxe Edition Limited Edition Numbered Reissue Remastered |
 | Label          | Tommy Boy |
 | Catalog Number | TB-5184-1 |
-| Notes | Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl.<br>Numbered edition of 6500.<br>Comes with a jump rope. |
+| Notes | Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope. |
 | Discogs URL    | [House Of Pain - House Of Pain (Fine Malt Lyrics)](https://www.discogs.com/release/24012683-House-Of-Pain-House-Of-Pain-Fine-Malt-Lyrics) |

@@ -37,20 +37,20 @@ styles: ["Electric Blues", "Chicago Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Just Your Fool | 2:19 |
-| A2 | Commit A Crime | 3:41 |
-| A3 | Blue And Lonesome | 3:10 |
-| B1 | All Of Your Love | 4:49 |
-| B2 | I Gotta Go | 3:28 |
-| B3 | Everybody Knows About My Good Thing | 4:31 |
-| C1 | Ride 'Em On Down | 2:52 |
-| C2 | Hate To See You Go | 3:23 |
-| C3 | Hoo Doo Blues | 2:38 |
-| D1 | Little Rain | 3:33 |
-| D2 | Just Like I Treat You | 3:26 |
-| D3 | I Can't Quit You Baby | 5:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Just Your Fool |
+| A2 | Commit A Crime |
+| A3 | Blue And Lonesome |
+| B1 | All Of Your Love |
+| B2 | I Gotta Go |
+| B3 | Everybody Knows About My Good Thing |
+| C1 | Ride 'Em On Down |
+| C2 | Hate To See You Go |
+| C3 | Hoo Doo Blues |
+| D1 | Little Rain |
+| D2 | Just Like I Treat You |
+| D3 | I Can't Quit You Baby |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Electric Blues", "Chicago Blues"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Rolling Stones Records |
 | Catalog Number | 571 494-4 |
-| Notes | - gatefold sleeve<br>- printed inner sleeves <br>- download card included (Download album is 16bit/44.1kHz WAV file)<br><br>Recording: British Grove Studios, London.<br>Mixed at Henson Studios, Los Angeles.<br>Mastered at Capitol Studios, Hollywood<br><br>"Just Your Fool", "Commit A Crime", "Blue And Lonesome", "I Gotta Go", "Hate To See You Go"<br>Published by Arc Music.<br><br>"All Of Your Love"<br>Published by Conrad Music / Lerie Music Inc.<br><br>"Everybody Knows About My Good Thing"<br>Published by Respect Music Co.<br><br>"Ride 'Em On Down"<br>Published by Conrad Music.<br><br>"Hoo Doo Blues"<br>Published by Embassy Music Corporation.<br><br>"Little Rain"<br>Published by Conrad Music / Seeds Of Reed Music.<br><br>"Just Like I Treat You", "I Can't Quit You Baby"<br>Published by Hoochie Coochie Music.<br><br>℗ 2016 Promotone B.V. © 2016 Promotone B.V. The copyright in this sound recording is owned by Promotone B.V. and is under exclusive licence to Polydor Records, a division of Universal Music Operations Ltd.<br>Made in France.<br>Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands.<br><br>Records and sleeve are made in France.<br><br>Runout strings are etched. |
+| Notes | - gatefold sleeve - printed inner sleeves  - download card included (Download album is 16bit/44.1kHz WAV file)  Recording: British Grove Studios, London. Mixed at Henson Studios, Los Angeles. Mastered at Capitol Studios, Hollywood  "Just Your Fool", "Commit A Crime", "Blue And Lonesome", "I Gotta Go", "Hate To See You Go" Published by Arc Music.  "All Of Your Love" Published by Conrad Music / Lerie Music Inc.  "Everybody Knows About My Good Thing" Published by Respect Music Co.  "Ride 'Em On Down" Published by Conrad Music.  "Hoo Doo Blues" Published by Embassy Music Corporation.  "Little Rain" Published by Conrad Music / Seeds Of Reed Music.  "Just Like I Treat You", "I Can't Quit You Baby" Published by Hoochie Coochie Music.  ℗ 2016 Promotone B.V. © 2016 Promotone B.V. The copyright in this sound recording is owned by Promotone B.V. and is under exclusive licence to Polydor Records, a division of Universal Music Operations Ltd. Made in France. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Records and sleeve are made in France.  Runout strings are etched. |
 | Discogs URL    | [The Rolling Stones - Blue & Lonesome](https://www.discogs.com/release/9437886-Rolling-Stones-Blue-Lonesome) |

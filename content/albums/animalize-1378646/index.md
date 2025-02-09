@@ -32,17 +32,17 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I've Had Enough (Into The Fire) |  |
-| A2 | Heaven's On Fire |  |
-| A3 | Burn Bitch Burn |  |
-| A4 | Get All You Can Take |  |
-| A5 | Lonely Is The Hunter |  |
-| B1 | Under The Gun |  |
-| B2 | Thrills In The Night |  |
-| B3 | While The City Sleeps |  |
-| B4 | Murder In High Heels |  |
+| Position | Title |
+|----------|--------|
+| A1 | I've Had Enough (Into The Fire) |
+| A2 | Heaven's On Fire |
+| A3 | Burn Bitch Burn |
+| A4 | Get All You Can Take |
+| A5 | Lonely Is The Hunter |
+| B1 | Under The Gun |
+| B2 | Thrills In The Night |
+| B3 | While The City Sleeps |
+| B4 | Murder In High Heels |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 | Format         | Vinyl LP Album Stereo |
 | Label          | Vertigo |
 | Catalog Number | VERL 18 |
-| Notes | VERL 18 appears on spine, back cover, inner sleeve and labels<br>822 415-1 appears on labels<br>822 495-1 appears on back cover<br> |
+| Notes | VERL 18 appears on spine, back cover, inner sleeve and labels 822 415-1 appears on labels 822 495-1 appears on back cover  |
 | Discogs URL    | [Kiss - Animalize](https://www.discogs.com/release/1378646-Kiss-Animalize) |

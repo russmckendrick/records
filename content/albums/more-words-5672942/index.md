@@ -28,22 +28,22 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | It's Over |  |
-| A2 | Catch The Wind |  |
-| A3 | Long Black Limousine |  |
-| A4 | That's All That Matters |  |
-| A5 | Gentle On My Mind |  |
-| A6 | The Straight Life |  |
-| A7 | Twelfth Of Never |  |
-| B1 |  Turn Around And Look At Me |  |
-| B2 | Ann |  |
-| B3 | Hey Little One |  |
-| B4 | Break My Mind |  |
-| B5 | Dreams Of The Everyday Housewife |  |
-| B6 | You Better Sit Down Kids |  |
-| B7 | Love Me As Though There Were No Tomorrow |  |
+| Position | Title |
+|----------|--------|
+| A1 | It's Over |
+| A2 | Catch The Wind |
+| A3 | Long Black Limousine |
+| A4 | That's All That Matters |
+| A5 | Gentle On My Mind |
+| A6 | The Straight Life |
+| A7 | Twelfth Of Never |
+| B1 |  Turn Around And Look At Me |
+| B2 | Ann |
+| B3 | Hey Little One |
+| B4 | Break My Mind |
+| B5 | Dreams Of The Everyday Housewife |
+| B6 | You Better Sit Down Kids |
+| B7 | Love Me As Though There Were No Tomorrow |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: []
 | Format         | Vinyl LP Compilation |
 | Label          | Ember Records |
 | Catalog Number | NRH 1001 |
-| Notes | Fold out front cover<br>© 1975<br>℗ 1968 track A1, A2, A4, B1, B3. B4<br>℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7<br><br>Made in England<br> |
+| Notes | Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England  |
 | Discogs URL    | [Glen Campbell - More Words](https://www.discogs.com/release/5672942-Glen-Campbell-More-Words) |

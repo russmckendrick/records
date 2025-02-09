@@ -31,18 +31,18 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mary Winter | 5:04 |
-| A2 | The Lonely Crowd Fades In The Air | 4:13 |
-| A3 | Future Ruins | 6:13 |
-| A4 | Theeascending | 4:45 |
-| A5 | Drone Lover | 4:19 |
-| B1 | Spiked Flower | 3:26 |
-| B2 | Everybody's Going Somewhere & No-One's Going Anywhere | 3:49 |
-| B3 | Golden Remedy | 5:43 |
-| B4 | Good Times Are So Hard To Follow | 3:09 |
-| B5 | Radio-Silent | 7:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Mary Winter |
+| A2 | The Lonely Crowd Fades In The Air |
+| A3 | Future Ruins |
+| A4 | Theeascending |
+| A5 | Drone Lover |
+| B1 | Spiked Flower |
+| B2 | Everybody's Going Somewhere & No-One's Going Anywhere |
+| B3 | Golden Remedy |
+| B4 | Good Times Are So Hard To Follow |
+| B5 | Radio-Silent |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 | Format         | Vinyl LP Album (Red) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT121LP |
-| Notes | Indies exclusive heavyweight red vinyl. Includes MP3 Download Code.<br> |
+| Notes | Indies exclusive heavyweight red vinyl. Includes MP3 Download Code.  |
 | Discogs URL    | [Swervedriver - Future Ruins](https://www.discogs.com/release/13092267-Swervedriver-Future-Ruins) |

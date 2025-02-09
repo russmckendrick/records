@@ -57,83 +57,83 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album - 2017 Remaster |  |
-| CD1-1 | Big Love | 3:44 |
-| CD1-2 | Seven Wonders | 3:42 |
-| CD1-3 | Everywhere | 3:47 |
-| CD1-4 | Caroline | 3:54 |
-| CD1-5 | Tango In The Night | 4:03 |
-| CD1-6 | Mystified | 3:10 |
-| CD1-7 | Little Lies | 3:41 |
-| CD1-8 | Family Man | 4:07 |
-| CD1-9 | Welcome To The Room...Sara | 3:42 |
-| CD1-10 | Isn't It Midnight | 4:14 |
-| CD1-11 | When I See You Again | 3:49 |
-| CD1-12 | You And I, Part II | 2:40 |
-|  | Demos, Alternates And B-Sides |  |
-| CD2-1 | Down Endless Street | 4:29 |
-| CD2-2 | Special Kind Of Love (Demo) | 2:53 |
-| CD2-3 | Seven Wonders (Early Version) | 4:34 |
-| CD2-4 | Tango In The Night (Demo) | 4:42 |
-| CD2-5 | Mystified (Alternate Version) | 3:28 |
-| CD2-6 | Book Of Miracles (Instrumental) | 4:32 |
-| CD2-7 | Where We Belong (Demo) | 2:53 |
-| CD2-8 | Ricky | 4:27 |
-| CD2-9 | Juliet (Run-Through) | 5:04 |
-| CD2-10 | Isn't It Midnight (Alternate Mix) | 3:39 |
-| CD2-11 | Ooh My Love (Demo) | 3:51 |
-| CD2-12 | Mystified (Instrumental Demo) | 3:18 |
-| CD2-13 | You And I, Part I & II (Full Version) | 6:28 |
-|  | The 12" Mixes |  |
-| CD3-1 | Big Love (Extended Remix) | 6:43 |
-| CD3-2 | Big Love (House On The Hill Dub) | 3:01 |
-| CD3-3 | Big Love (Piano Dub) | 6:37 |
-| CD3-4 | Big Love (Remix/Edit) | 3:41 |
-| CD3-5 | Seven Wonders (Extended Version) | 6:26 |
-| CD3-6 | Seven Wonders (Dub) | 4:34 |
-| CD3-7 | Little Lies (Extended Version) | 6:15 |
-| CD3-8 | Little Lies (Dub) | 4:14 |
-| CD3-9 | Family Man (Extended Vocal Remix) | 8:31 |
-| CD3-10 | Family Man (I'm A Jazz Man Dub) | 8:52 |
-| CD3-11 | Family Man (Extended Guitar Version) | 6:28 |
-| CD3-12 | Family Man (Bonus Beats) | 4:38 |
-| CD3-13 | Everywhere (12" Version) | 5:50 |
-| CD3-14 | Everywhere (Dub Version) | 3:55 |
-|  | DVD Promotional Music Videos & 24/96 Stereo Audio Of Original Album |  |
-|  | Promotional Videos  |  |
-| DVD-1 | Big Love | 3:44 |
-| DVD-2 | Seven Wonders | 3:42 |
-| DVD-3 | Little Lies | 3:41 |
-| DVD-4 | Family Man | 4:07 |
-| DVD-5 | Everywhere | 3:47 |
-|  | 24/96 Stereo Audio Of Original Album |  |
-| DVD-6 | Big Love | 3:44 |
-| DVD-7 | Seven Wonders | 3:42 |
-| DVD-8 | Everywhere | 3:47 |
-| DVD-9 | Caroline | 3:54 |
-| DVD-10 | Tango In The Night | 4:03 |
-| DVD-11 | Mystified  | 3:10 |
-| DVD-12 | Little Lies | 3:41 |
-| DVD-13 | Family Man | 4:07 |
-| DVD-14 | Welcome To The Room...Sara | 3:42 |
-| DVD-15 | Isn't It Midnight | 4:14 |
-| DVD-16 | When I See You Again | 3:49 |
-| DVD-17 | You And I, Part II | 2:40 |
-|  | Original Album - 2017 Remaster |  |
-| A1 | Big Love | 3:44 |
-| A2 | Seven Wonders | 3:42 |
-| A3 | Everywhere | 3:47 |
-| A4 | Caroline | 3:54 |
-| A5 | Tango In The Night | 4:03 |
-| A6 | Mystified | 3:10 |
-| B1 | Little Lies | 3:41 |
-| B2 | Family Man | 4:07 |
-| B3 | Welcome To The Room...Sara | 3:42 |
-| B4 | Isn't It Midnight | 4:14 |
-| B5 | When I See You Again | 3:49 |
-| B6 | You And I, Part II | 2:40 |
+| Position | Title |
+|----------|--------|
+|  | Original Album - 2017 Remaster |
+| CD1-1 | Big Love |
+| CD1-2 | Seven Wonders |
+| CD1-3 | Everywhere |
+| CD1-4 | Caroline |
+| CD1-5 | Tango In The Night |
+| CD1-6 | Mystified |
+| CD1-7 | Little Lies |
+| CD1-8 | Family Man |
+| CD1-9 | Welcome To The Room...Sara |
+| CD1-10 | Isn't It Midnight |
+| CD1-11 | When I See You Again |
+| CD1-12 | You And I, Part II |
+|  | Demos, Alternates And B-Sides |
+| CD2-1 | Down Endless Street |
+| CD2-2 | Special Kind Of Love (Demo) |
+| CD2-3 | Seven Wonders (Early Version) |
+| CD2-4 | Tango In The Night (Demo) |
+| CD2-5 | Mystified (Alternate Version) |
+| CD2-6 | Book Of Miracles (Instrumental) |
+| CD2-7 | Where We Belong (Demo) |
+| CD2-8 | Ricky |
+| CD2-9 | Juliet (Run-Through) |
+| CD2-10 | Isn't It Midnight (Alternate Mix) |
+| CD2-11 | Ooh My Love (Demo) |
+| CD2-12 | Mystified (Instrumental Demo) |
+| CD2-13 | You And I, Part I & II (Full Version) |
+|  | The 12" Mixes |
+| CD3-1 | Big Love (Extended Remix) |
+| CD3-2 | Big Love (House On The Hill Dub) |
+| CD3-3 | Big Love (Piano Dub) |
+| CD3-4 | Big Love (Remix/Edit) |
+| CD3-5 | Seven Wonders (Extended Version) |
+| CD3-6 | Seven Wonders (Dub) |
+| CD3-7 | Little Lies (Extended Version) |
+| CD3-8 | Little Lies (Dub) |
+| CD3-9 | Family Man (Extended Vocal Remix) |
+| CD3-10 | Family Man (I'm A Jazz Man Dub) |
+| CD3-11 | Family Man (Extended Guitar Version) |
+| CD3-12 | Family Man (Bonus Beats) |
+| CD3-13 | Everywhere (12" Version) |
+| CD3-14 | Everywhere (Dub Version) |
+|  | DVD Promotional Music Videos & 24/96 Stereo Audio Of Original Album |
+|  | Promotional Videos  |
+| DVD-1 | Big Love |
+| DVD-2 | Seven Wonders |
+| DVD-3 | Little Lies |
+| DVD-4 | Family Man |
+| DVD-5 | Everywhere |
+|  | 24/96 Stereo Audio Of Original Album |
+| DVD-6 | Big Love |
+| DVD-7 | Seven Wonders |
+| DVD-8 | Everywhere |
+| DVD-9 | Caroline |
+| DVD-10 | Tango In The Night |
+| DVD-11 | Mystified  |
+| DVD-12 | Little Lies |
+| DVD-13 | Family Man |
+| DVD-14 | Welcome To The Room...Sara |
+| DVD-15 | Isn't It Midnight |
+| DVD-16 | When I See You Again |
+| DVD-17 | You And I, Part II |
+|  | Original Album - 2017 Remaster |
+| A1 | Big Love |
+| A2 | Seven Wonders |
+| A3 | Everywhere |
+| A4 | Caroline |
+| A5 | Tango In The Night |
+| A6 | Mystified |
+| B1 | Little Lies |
+| B2 | Family Man |
+| B3 | Welcome To The Room...Sara |
+| B4 | Isn't It Midnight |
+| B5 | When I See You Again |
+| B6 | You And I, Part II |
 
 
 ## Apple Music
@@ -151,5 +151,5 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 | Format         | CD Album Reissue Remastered, CD Remastered, CD Compilation Remastered, DVD DVD-Video NTSC Compilation, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (30th Anniversary Edition) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R2 554813 |
-| Notes | Deluxe edition of 'Tango In The Night', contains:<br>Disc 1: CD - Original album, remastered,<br>Disc 2: CD - Demo's, Alternates and B-Sides,<br>Disc 3: CD - The 12'' mixes,<br>Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album,<br>Disc 5: 180g Vinyl LP - original album, remastered.<br>Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band,<br>Peel-off 12"x12" backing paper containing track listing.<br>All housed in a 12"x12", solid, card sleeve.<br><br>The Everywhere video on the DVD is the version that doesn't feature the band superimposed.<br><br>Sticker on front with format description + cat. no. R2 554813 |
+| Notes | Deluxe edition of 'Tango In The Night', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Demo's, Alternates and B-Sides, Disc 3: CD - The 12'' mixes, Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album, Disc 5: 180g Vinyl LP - original album, remastered. Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  The Everywhere video on the DVD is the version that doesn't feature the band superimposed.  Sticker on front with format description + cat. no. R2 554813 |
 | Discogs URL    | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/10063396-Fleetwood-Mac-Tango-In-The-Night) |

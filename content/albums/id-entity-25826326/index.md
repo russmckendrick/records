@@ -36,17 +36,17 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Friend Or Foe? | 7:29 |
-| A2 | Landmine Blast | 4:50 |
-| A3 | Big Tech Brother | 7:24 |
-| B1 | Post-Truth | 5:37 |
-| B2 | The Place Where I Belong | 13:16 |
-| C1 | I'm Done With You | 5:52 |
-| C2 | Self-Aware | 8:43 |
-| D1 | Age Of Anger | 11:56 |
-| D2 | Together Again | 6:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Friend Or Foe? |
+| A2 | Landmine Blast |
+| A3 | Big Tech Brother |
+| B1 | Post-Truth |
+| B2 | The Place Where I Belong |
+| C1 | I'm Done With You |
+| C2 | Self-Aware |
+| D1 | Age Of Anger |
+| D2 | Together Again |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (White, 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM658 |
-| Notes | Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC.<br>Some copies came with signed art card.<br><br>℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic<br>Made in the EU |
+| Notes | Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC. Some copies came with signed art card.  ℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic Made in the EU |
 | Discogs URL    | [Riverside - ID.Entity](https://www.discogs.com/release/25826326-Riverside-IDEntity) |

@@ -39,18 +39,18 @@ Rhythm and Stealth is the second studio album by the English electronic group Le
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dusted | 4:41 |
-| A2 | Phat Planet | 5:23 |
-| B1 | Chant Of A Poor Man | 5:56 |
-| B2 | Double Flash | 4:12 |
-| B3 | El Cid | 6:02 |
-| C1 | Afrika Shox | 5:37 |
-| C2 | Dub Gussett | 4:51 |
-| D1 | Swords | 5:07 |
-| D2 | 6/8 War | 4:13 |
-| D3 | Rino's Prayer | 6:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Dusted |
+| A2 | Phat Planet |
+| B1 | Chant Of A Poor Man |
+| B2 | Double Flash |
+| B3 | El Cid |
+| C1 | Afrika Shox |
+| C2 | Dub Gussett |
+| D1 | Swords |
+| D2 | 6/8 War |
+| D3 | Rino's Prayer |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Rhythm and Stealth is the second studio album by the English electronic group Le
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Hard Hands |
 | Catalog Number | HANDLP4 |
-| Notes | Printed inner sleeves<br><br>All tracks written by Barnes, Daley. Except A1 additional writing Smith, vocals Roots Manuva. A3 additional writing Cheshire, vocals Cheshire Cat. B1 Additional writing Bambaataa, Rapaccioli, vocals Afrika Bambaataa. B2 additional writing Rapaccioli. B3 additional writing Willis, vocals Nichole Willis. B5 Additional writing Della Vole, vocals Rino. All Tracks produced by Leftfield.<br>Except B1 & B2 produced By Leftfield and Nick Rapaccioli. B1 remixed @ Sarm West. Engineered By Adam Wren Recorded @ Rollover Studios, W10 Mastered by Paul Solomons. All tracks published by Hard (UK) Hands Publishing Ltd. Except: C1 Hard (UK) Hands Publishing Ltd. /<br>BMG Rights Management (UK) Ltd. / Copyright Control. C2, D3 Hard (UK) Hands Publishing Ltd. / BMG Rights Management (UK) Ltd. All rights of the producer and of the owner of the recorded work reserved. Unauthorised copying, public performance, broadcasting, hiring or rental of this recording prohibited. In the UK apply for public performance licences to PPL, 1 Upper James Street, London W1R 3HG. Original Sound Recording made by Hard Hands Ltd. The copyright in this sound recording is owned by Hard Hands Ltd under exclusive license to Sony Music Entertainment UK Ltd. © 1999 Hard Hands Ltd. © 1999 Sony Music Entertainment UK Ltd.<br>Distribution: Sony Music. Art Direction by Blue Source. Photography by Toby McFarlan Pond.<br>Thanks to everyone who's helped and supported us, too many to mention, you know who you are. Dedicated to the memory of Monty Barnes.<br><br><br>© 1999 Hard Hands under exclusive licence to Sony Music Entertainment UK Ltd. <br>© 1999 Sony Music Entertainment UK Ltd. <br>Distributed by Sony Music Entertainment.<br><br><br>Made in the EU |
+| Notes | Printed inner sleeves  All tracks written by Barnes, Daley. Except A1 additional writing Smith, vocals Roots Manuva. A3 additional writing Cheshire, vocals Cheshire Cat. B1 Additional writing Bambaataa, Rapaccioli, vocals Afrika Bambaataa. B2 additional writing Rapaccioli. B3 additional writing Willis, vocals Nichole Willis. B5 Additional writing Della Vole, vocals Rino. All Tracks produced by Leftfield. Except B1 & B2 produced By Leftfield and Nick Rapaccioli. B1 remixed @ Sarm West. Engineered By Adam Wren Recorded @ Rollover Studios, W10 Mastered by Paul Solomons. All tracks published by Hard (UK) Hands Publishing Ltd. Except: C1 Hard (UK) Hands Publishing Ltd. / BMG Rights Management (UK) Ltd. / Copyright Control. C2, D3 Hard (UK) Hands Publishing Ltd. / BMG Rights Management (UK) Ltd. All rights of the producer and of the owner of the recorded work reserved. Unauthorised copying, public performance, broadcasting, hiring or rental of this recording prohibited. In the UK apply for public performance licences to PPL, 1 Upper James Street, London W1R 3HG. Original Sound Recording made by Hard Hands Ltd. The copyright in this sound recording is owned by Hard Hands Ltd under exclusive license to Sony Music Entertainment UK Ltd. © 1999 Hard Hands Ltd. © 1999 Sony Music Entertainment UK Ltd. Distribution: Sony Music. Art Direction by Blue Source. Photography by Toby McFarlan Pond. Thanks to everyone who's helped and supported us, too many to mention, you know who you are. Dedicated to the memory of Monty Barnes.   © 1999 Hard Hands under exclusive licence to Sony Music Entertainment UK Ltd.  © 1999 Sony Music Entertainment UK Ltd.  Distributed by Sony Music Entertainment.   Made in the EU |
 | Discogs URL    | [Leftfield - Rhythm And Stealth](https://www.discogs.com/release/26862581-Leftfield-Rhythm-And-Stealth) |

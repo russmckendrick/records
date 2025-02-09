@@ -68,21 +68,21 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A-1 | Death Wish | 4:30 |
-| A-2 | King of Oklahoma | 5:02 |
-| A-3 | Strawberry Woman | 4:10 |
-| A-4 | Middle of the Morning | 4:40 |
-| B-1 | Save the World | 5:09 |
-| B-2 | If You Insist | 3:45 |
-| B-3 | Cast Iron Skillet | 3:24 |
-| C-1 | When We Were Close | 3:57 |
-| C-2 | Volunteer | 4:05 |
-| C-3 | Vestavia Hills | 4:31 |
-| D-1 | White Beretta | 3:56 |
-| D-2 | This Ain't It | 6:14 |
-| D-3 | Miles | 7:07 |
+| Position | Title |
+|----------|--------|
+| A-1 | Death Wish |
+| A-2 | King of Oklahoma |
+| A-3 | Strawberry Woman |
+| A-4 | Middle of the Morning |
+| B-1 | Save the World |
+| B-2 | If You Insist |
+| B-3 | Cast Iron Skillet |
+| C-1 | When We Were Close |
+| C-2 | Volunteer |
+| C-3 | Vestavia Hills |
+| D-1 | White Beretta |
+| D-2 | This Ain't It |
+| D-3 | Miles |
 
 
 ## Apple Music

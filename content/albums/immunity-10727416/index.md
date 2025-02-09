@@ -33,16 +33,16 @@ Immunity is the fourth studio album by English electronic musician and producer 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Disappear  |  |
-| A2 | Open Eye Signal  |  |
-| B1 | Breathe This Air  |  |
-| B2 | Collider  |  |
-| C1 | Abandon Window |  |
-| C2 | Form By Firelight |  |
-| D1 | Sun Harmonics |  |
-| D2 | Immunity |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Disappear  |
+| A2 | Open Eye Signal  |
+| B1 | Breathe This Air  |
+| B2 | Collider  |
+| C1 | Abandon Window |
+| C2 | Form By Firelight |
+| D1 | Sun Harmonics |
+| D2 | Immunity |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Immunity is the fourth studio album by English electronic musician and producer 
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP298 |
-| Notes | • 180-gram heavyweight virgin vinyl<br>• Gatefold sleeve<br>• Includes glossy insert with printed artwork/details/credits<br>• Includes a card for MP3 album download |
+| Notes | • 180-gram heavyweight virgin vinyl • Gatefold sleeve • Includes glossy insert with printed artwork/details/credits • Includes a card for MP3 album download |
 | Discogs URL    | [Jon Hopkins - Immunity](https://www.discogs.com/release/10727416-Jon-Hopkins-Immunity) |

@@ -34,20 +34,20 @@ Efflorescences can occur in natural and built environments. On porous constructi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Am The Morning | 4:18 |
-| A2 | Catalyst | 6:40 |
-| A3 | One Day All This Could Be Yours | 4:19 |
-| B1 | Massive Bereavement | 9:59 |
-| B2 | Rinsed | 3:58 |
-| B3 | You Wish | 6:00 |
-| C1 | Remember Where You Are | 5:22 |
-| C2 | Amputee | 5:32 |
-| C3 | Unravel | 2:50 |
-| C4 | Women Who Love Men Who Love Drugs | 8:30 |
-| D1 | Saturday Morning Breakfast Show | 9:04 |
-| D2 | Long Forgotten | 8:57 |
+| Position | Title |
+|----------|--------|
+| A1 | I Am The Morning |
+| A2 | Catalyst |
+| A3 | One Day All This Could Be Yours |
+| B1 | Massive Bereavement |
+| B2 | Rinsed |
+| B3 | You Wish |
+| C1 | Remember Where You Are |
+| C2 | Amputee |
+| C3 | Unravel |
+| C4 | Women Who Love Men Who Love Drugs |
+| D1 | Saturday Morning Breakfast Show |
+| D2 | Long Forgotten |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Efflorescences can occur in natural and built environments. On porous constructi
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 235 |
-| Notes | Mastered at Abbey Road Studios.<br><br>"Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.<br> |
+| Notes | Mastered at Abbey Road Studios.    "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.  |
 | Discogs URL    | [Oceansize - Effloresce](https://www.discogs.com/release/1460913-Oceansize-Effloresce) |

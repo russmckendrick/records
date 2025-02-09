@@ -34,26 +34,26 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Delores' Boyfriend |  |
-| A2 | Viper's Drag |  |
-| A3  | Confessin' (That I Love You) |  |
-| A4 | Mardi Gras In New Orleans |  |
-| A5 | Lotus Blossom |  |
-| B1 | Waltz For Debby |  |
-| B2  | Big Chief |  |
-| B3 | Rocks In My Bed |  |
-| B4 | Danza, Op. 33 |  |
-| B5 | Hey Little Girl |  |
-| C1 | Rosetta |  |
-| C2 | Come Sunday |  |
-| C3 | Southern Nights |  |
-| C4 | American Tune |  |
-|  | Bonus Tracks |  |
-| D1 | Her Mind Is Gone |  |
-| D2 | Moon River |  |
-| D3 | Bald Head |  |
+| Position | Title |
+|----------|--------|
+| A1 | Delores' Boyfriend |
+| A2 | Viper's Drag |
+| A3  | Confessin' (That I Love You) |
+| A4 | Mardi Gras In New Orleans |
+| A5 | Lotus Blossom |
+| B1 | Waltz For Debby |
+| B2  | Big Chief |
+| B3 | Rocks In My Bed |
+| B4 | Danza, Op. 33 |
+| B5 | Hey Little Girl |
+| C1 | Rosetta |
+| C2 | Come Sunday |
+| C3 | Southern Nights |
+| C4 | American Tune |
+|  | Bonus Tracks |
+| D1 | Her Mind Is Gone |
+| D2 | Moon River |
+| D3 | Bald Head |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 | Format         | Vinyl 2× LP Album |
 | Label          | Nonesuch |
 | Catalog Number | 554656-1 |
-| Notes | Gatefold sleeve includes printed insert with credits and notes. <br><br>℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.<br><br>Runouts are etched up to ᶜB, everything after is stamped.  |
+| Notes | Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped.  |
 | Discogs URL    | [Allen Toussaint - American Tunes](https://www.discogs.com/release/8634623-Allen-Toussaint-American-Tunes) |

@@ -38,47 +38,47 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Summer |  |
-| A1 | Summer Overture | 2:36 |
-| A2 | Party | 0:28 |
-| A3 | Coney Island Dreaming | 1:04 |
-| A4 | Party | 0:36 |
-| A5 | Chocolate Charms | 0:25 |
-| A6 | Ghosts Of Things To Come | 1:33 |
-| A7 | Dreams | 0:44 |
-| A8 | Tense | 0:37 |
-| A9 | Dr. Pill | 0:42 |
-| A10 | High On Life | 0:11 |
-| A11 | Ghosts | 1:21 |
-| A12 | Crimin' & Dealin' | 1:44 |
-| A13 | Hope Overture | 2:31 |
-| A14 | Tense | 0:28 |
-| A15 | Bialy & Lox Conga | 0:45 |
-|  | Fall |  |
-| B1 | Cleaning Apartment | 1:25 |
-| B2 | Ghosts-Falling | 1:11 |
-| B3 | Dreams | 1:02 |
-| B4 | Arnold | 2:35 |
-| B5 | Marion Barfs | 2:22 |
-| B6 | Supermarket Sweep | 2:14 |
-| B7 | Dreams | 0:32 |
-| B8 | Sara Goldfarb Has Left The Building | 1:17 |
-| B9 | Bugs Got A Devilish Grin Conga | 0:57 |
-|  | Winter |  |
-| C1 | Winter Overture | 0:19 |
-| C2 | Southern Hospitality | 1:23 |
-| C3 | Fear | 2:26 |
-| C4 | Full Tense | 1:04 |
-| C5 | The Beginning Of The End | 4:28 |
-| C6 | Ghosts Of A Future Lost | 1:50 |
-| C7 | Meltdown | 3:55 |
-| C8 | Lux Aeterna | 3:54 |
-| C9 | Coney Island Low | 2:13 |
-|  | In The End It's All Nice |  |
-| D1 | Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night | 13:16 |
-| D2 | 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE | 6:55 |
+| Position | Title |
+|----------|--------|
+|  | Summer |
+| A1 | Summer Overture |
+| A2 | Party |
+| A3 | Coney Island Dreaming |
+| A4 | Party |
+| A5 | Chocolate Charms |
+| A6 | Ghosts Of Things To Come |
+| A7 | Dreams |
+| A8 | Tense |
+| A9 | Dr. Pill |
+| A10 | High On Life |
+| A11 | Ghosts |
+| A12 | Crimin' & Dealin' |
+| A13 | Hope Overture |
+| A14 | Tense |
+| A15 | Bialy & Lox Conga |
+|  | Fall |
+| B1 | Cleaning Apartment |
+| B2 | Ghosts-Falling |
+| B3 | Dreams |
+| B4 | Arnold |
+| B5 | Marion Barfs |
+| B6 | Supermarket Sweep |
+| B7 | Dreams |
+| B8 | Sara Goldfarb Has Left The Building |
+| B9 | Bugs Got A Devilish Grin Conga |
+|  | Winter |
+| C1 | Winter Overture |
+| C2 | Southern Hospitality |
+| C3 | Fear |
+| C4 | Full Tense |
+| C5 | The Beginning Of The End |
+| C6 | Ghosts Of A Future Lost |
+| C7 | Meltdown |
+| C8 | Lux Aeterna |
+| C9 | Coney Island Low |
+|  | In The End It's All Nice |
+| D1 | Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night |
+| D2 | 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered |
 | Label          | Nonesuch |
 | Catalog Number | 553787-1 |
-| Notes | Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000).<br>Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.<br><br>Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.<br><br>Originally mastered at SoundByte Productions, Inc., New York City.<br><br>Limited edition of 5000 copies.<br>Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).<br><br>Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store. |
+| Notes | Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store. |
 | Discogs URL    | [Clint Mansell - Requiem For A Dream](https://www.discogs.com/release/8384112-Clint-Mansell-Featuring-Kronos-Quartet-Requiem-For-A-Dream) |

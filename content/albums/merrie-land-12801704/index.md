@@ -42,19 +42,19 @@ I just love making music, so it’s not that difficult. I had a strange four day
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction | 0:13 |
-| A2 | Merrie Land | 4:46 |
-| A3 | Gun To The Head | 4:18 |
-| A4 | Nineteen Seventeen | 3:40 |
-| A5 | The Great Fire | 3:54 |
-| A6 | Lady Boston | 4:18 |
-| B1 | Drifters & Trawlers | 2:32 |
-| B2 | The Truce Of Twilight | 4:21 |
-| B3 | Ribbons | 2:51 |
-| B4 | The Last Man To Leave | 2:37 |
-| B5 | The Poison Tree | 3:39 |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction |
+| A2 | Merrie Land |
+| A3 | Gun To The Head |
+| A4 | Nineteen Seventeen |
+| A5 | The Great Fire |
+| A6 | Lady Boston |
+| B1 | Drifters & Trawlers |
+| B2 | The Truce Of Twilight |
+| B3 | Ribbons |
+| B4 | The Last Man To Leave |
+| B5 | The Poison Tree |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ I just love making music, so it’s not that difficult. I had a strange four day
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Studio 13 (4) |
 | Catalog Number | STUDIO13LPX |
-| Notes | Sticker: "Limited Edition Heavyweight Green Vinyl LP"<br>Indies only edition.<br>Includes a custom inner sleeve.<br>The Introduction track (A1) is not listed on the sleeve or labels, but is listed in he credits on the inner sleeve.<br><br>℗ & © 2018 Studio 13<br><br>All tracks engineered [...] at Studio 13, Penrhyn Castle And Garden National Trust, Bangor Wales.<br><br>Introduction (0:13)<br>Sample taken from 'A Canterbury Tale' by Michael Powell and Emeric Pressburger (ITV Archive)<br><br>Cover photograph of Michael Redgrave 'Dead Of Night'. <br>Courtesy of Ronald Grant Archive / Mary Evans Picture Library <br>c. Studio Canal Film Archive<br>Front and back cover photograph of 'The Blitz' by Herbert Mason / Daily Mail / Solo Syndication<br><br>'The Piper' lithograph by Theodore Gericault<br>c. The Trustees of The British Museum |
+| Notes | Sticker: "Limited Edition Heavyweight Green Vinyl LP" Indies only edition. Includes a custom inner sleeve. The Introduction track (A1) is not listed on the sleeve or labels, but is listed in he credits on the inner sleeve.  ℗ & © 2018 Studio 13  All tracks engineered [...] at Studio 13, Penrhyn Castle And Garden National Trust, Bangor Wales.  Introduction (0:13) Sample taken from 'A Canterbury Tale' by Michael Powell and Emeric Pressburger (ITV Archive)  Cover photograph of Michael Redgrave 'Dead Of Night'.  Courtesy of Ronald Grant Archive / Mary Evans Picture Library  c. Studio Canal Film Archive Front and back cover photograph of 'The Blitz' by Herbert Mason / Daily Mail / Solo Syndication  'The Piper' lithograph by Theodore Gericault c. The Trustees of The British Museum |
 | Discogs URL    | [The Good The Bad  The Queen - Merrie Land](https://www.discogs.com/release/12801704-The-GoodBad-The-Queen-Merrie-Land) |

@@ -29,18 +29,18 @@ It's Great When You're Straight...Yeah received generally positive reviews from 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Reverend Black Grape | 5:21 |
-| A2 | In The Name Of The Father | 4:21 |
-| A3 | Tramazi Party | 4:45 |
-| A4 | Kelly's Heroes | 4:22 |
-| A5 | Yeah Yeah Brother | 4:10 |
-| B1 | A Big Day In The North | 4:10 |
-| B2 | Shake Well Before Opening | 5:40 |
-| B3 | Submarine | 3:50 |
-| B4 | Shake Your Money | 4:13 |
-| B5 | Little Bob | 5:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Reverend Black Grape |
+| A2 | In The Name Of The Father |
+| A3 | Tramazi Party |
+| A4 | Kelly's Heroes |
+| A5 | Yeah Yeah Brother |
+| B1 | A Big Day In The North |
+| B2 | Shake Well Before Opening |
+| B3 | Submarine |
+| B4 | Shake Your Money |
+| B5 | Little Bob |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ It's Great When You're Straight...Yeah received generally positive reviews from 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Radioactive |
 | Catalog Number | 5373030 |
-| Notes | Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London.<br>A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069].<br>Contains a [l1052727] download coupon.<br>Side B is labeled X on release. |
+| Notes | Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release. |
 | Discogs URL    | [Black Grape - It's Great When You're Straight...Yeah](https://www.discogs.com/release/9303682-Black-Grape-Its-Great-When-Youre-StraightYeah) |

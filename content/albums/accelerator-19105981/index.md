@@ -33,18 +33,18 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Expander | 5:38 |
-| A2 | Stolen Documents | 5:10 |
-| B1 | While Others Cry | 4:14 |
-| B2 | Calcium | 6:47 |
-| B3 | It's Not My Problem | 3:45 |
-| C1 | Papua New Guinea | 6:46 |
-| C2 | Moscow | 3:34 |
-| D1 | 1 in 8 | 4:56 |
-| D2 | Pulse State | 7:14 |
-| D3 | Central Industrial | 4:19 |
+| Position | Title |
+|----------|--------|
+| A1 | Expander |
+| A2 | Stolen Documents |
+| B1 | While Others Cry |
+| B2 | Calcium |
+| B3 | It's Not My Problem |
+| C1 | Papua New Guinea |
+| C2 | Moscow |
+| D1 | 1 in 8 |
+| D2 | Pulse State |
+| D3 | Central Industrial |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 | Format         | Vinyl 2× 12" Album Record Store Day Limited Edition Numbered Reissue |
 | Label          | Jumpin' & Pumpin' |
 | Catalog Number | DLPRSDTOT2 |
-| Notes | 30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1.<br> |
+| Notes | 30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1.  |
 | Discogs URL    | [The Future Sound Of London - Accelerator](https://www.discogs.com/release/19105981-The-Future-Sound-Of-London-Accelerator) |

@@ -33,20 +33,20 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Universal |  |
-| A2 | Walking On The Milky Way |  |
-| A3 | The Moon & The Sun |  |
-| A4 | The Black Sea |  |
-| A5 | Very Close To Far Away |  |
-| A6 | The Gospel Of St Jude |  |
-| B1 | That Was Then |  |
-| B2 | Too Late |  |
-| B3 | The Boy From The Chemist Is Here To See You |  |
-| B4 | If You're Still In Love With Me |  |
-| B5 | New Head |  |
-| B6 | Victory Waltz |  |
+| Position | Title |
+|----------|--------|
+| A1 | Universal |
+| A2 | Walking On The Milky Way |
+| A3 | The Moon & The Sun |
+| A4 | The Black Sea |
+| A5 | Very Close To Far Away |
+| A6 | The Gospel Of St Jude |
+| B1 | That Was Then |
+| B2 | Too Late |
+| B3 | The Boy From The Chemist Is Here To See You |
+| B4 | If You're Still In Love With Me |
+| B5 | New Head |
+| B6 | Victory Waltz |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422589 |
-| Notes | An EMI release.<br>℗ 2021 Virgin Records Ltd.<br>© 2021 Virgin Records Ltd.<br>Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in Germany.<br>Includes download card (WAV files). |
+| Notes | An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files). |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Universal](https://www.discogs.com/release/19761679-OMD-Universal) |

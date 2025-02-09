@@ -35,15 +35,15 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Always Together With You |  |
-| A2 | Best Thing You Never Had (The D Song) |  |
-| A3 | Let It Bleed (For Iggy) |  |
-| A4 | Crazy |  |
-| B1 | The Mainline Song |  |
-| B2 | The A Song (Laid In Your Arms) |  |
-| B3 | I'm Coming Home Again |  |
+| Position | Title |
+|----------|--------|
+| A1 | Always Together With You |
+| A2 | Best Thing You Never Had (The D Song) |
+| A3 | Let It Bleed (For Iggy) |
+| A4 | Crazy |
+| B1 | The Mainline Song |
+| B2 | The A Song (Laid In Your Arms) |
+| B3 | I'm Coming Home Again |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA1270V |
-| Notes | Includes printed inner sleeve and download card for the MP3 version ([r=27971124])<br>Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER<br><br>Runouts are etched except : -56500- which is stamped. |
+| Notes | Includes printed inner sleeve and download card for the MP3 version ([r=27971124]) Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER  Runouts are etched except : -56500- which is stamped. |
 | Discogs URL    | [Spiritualized - Everything Was Beautiful](https://www.discogs.com/release/22954349-Spiritualized-Everything-Was-Beautiful) |

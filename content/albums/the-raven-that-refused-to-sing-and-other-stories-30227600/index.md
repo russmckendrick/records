@@ -32,14 +32,14 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Luminol | 12:10 |
-| B1 | Drive Home | 7:33 |
-| B2 | Holy Drinker | 10:14 |
-| C1 | The Pin Drop  | 5:01 |
-| C2 |  The Watchmaker | 11:42 |
-| D1 | The Raven Who Refused To Sing | 7:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Luminol |
+| B1 | Drive Home |
+| B2 | Holy Drinker |
+| C1 | The Pin Drop  |
+| C2 |  The Watchmaker |
+| D1 | The Raven Who Refused To Sing |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 | Format         | Vinyl 2× LP Album Limited Edition (glow in the dark) |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM363LPL |
-| Notes | 10th Anniversary 2LP glow in the dark vinyl edition.<br>Gatefold sleeve.<br>Includes an 8-page booklet. |
+| Notes | 10th Anniversary 2LP glow in the dark vinyl edition. Gatefold sleeve. Includes an 8-page booklet. |
 | Discogs URL    | [Steven Wilson - The Raven That Refused To Sing (And Other Stories)](https://www.discogs.com/release/30227600-Steven-Wilson-The-Raven-That-Refused-To-Sing-And-Other-Stories) |

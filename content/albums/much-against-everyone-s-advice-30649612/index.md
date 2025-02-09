@@ -30,25 +30,25 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Conversation Intercom |  |
-| A2 | Saturday |  |
-| A3 | When Logics Die |  |
-| A4 | Much Against Everyone's Advice |  |
-| A5 | Overweight Karate Kid |  |
-| B1 | Proverbial Pants |  |
-| B2 | The Salty Knowledge Of Tears |  |
-| B3 | Flying Without Wings  |  |
-| B4 | More Than This |  |
-| C1 | Too Many DJ's |  |
-| C2 | Temptingly Yours |  |
-| C3 | My Cruel Joke  |  |
-| C4 | Scream |  |
-| C5 | Funny |  |
-| D1 | Conversation Intercom (Vocoder Intermix)  |  |
-| D2 | Mike Rule Joe Cream Mix |  |
-| D3 | Saturday (Roger Manning Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Conversation Intercom |
+| A2 | Saturday |
+| A3 | When Logics Die |
+| A4 | Much Against Everyone's Advice |
+| A5 | Overweight Karate Kid |
+| B1 | Proverbial Pants |
+| B2 | The Salty Knowledge Of Tears |
+| B3 | Flying Without Wings  |
+| B4 | More Than This |
+| C1 | Too Many DJ's |
+| C2 | Temptingly Yours |
+| C3 | My Cruel Joke  |
+| C4 | Scream |
+| C5 | Funny |
+| D1 | Conversation Intercom (Vocoder Intermix)  |
+| D2 | Mike Rule Joe Cream Mix |
+| D3 | Saturday (Roger Manning Mix) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIACS1035LP |
-| Notes | Sticker Text:<br><br>SOULWAX<br>MUCHAGAINSTEVERYONE'SADVICE<br>LIMITED EDITION<br>EXPANDED 2LP VINYL<br><br>℗ + © 2023 [PIAS] Recordings |
+| Notes | Sticker Text:  SOULWAX MUCHAGAINSTEVERYONE'SADVICE LIMITED EDITION EXPANDED 2LP VINYL  ℗ + © 2023 [PIAS] Recordings |
 | Discogs URL    | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/30649612-Soulwax-Much-Against-Everyones-Advice) |

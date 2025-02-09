@@ -38,27 +38,27 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Theme From Flood | 0:29 |
-| A2 | Birdhouse In Your Soul | 3:15 |
-| A3 | Lucky Ball & Chain | 2:49 |
-| A4 | Istanbul (Not Constantinople) | 2:34 |
-| A5 | Dead | 2:54 |
-| A6 | Your Racist Friend | 2:53 |
-| A7 | Particle Man | 1:56 |
-| A8 | Twisting | 1:54 |
-| A9 | We Want A Rock | 2:45 |
-| B1 | Someone Keeps Moving My Chair | 2:19 |
-| B2 | Hearing Aid | 3:28 |
-| B3 | Minimum Wage | 0:44 |
-| B4 | Letterbox | 1:21 |
-| B5 | Whistling In The Dark | 3:25 |
-| B6 | Hot Cha | 1:33 |
-| B7 | Women & Men | 1:45 |
-| B8 | Sapphire Bullets Of Pure Love | 1:32 |
-| B9 | They Might Be Giants | 2:39 |
-| B10 | Road Movie To Berlin | 2:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Theme From Flood |
+| A2 | Birdhouse In Your Soul |
+| A3 | Lucky Ball & Chain |
+| A4 | Istanbul (Not Constantinople) |
+| A5 | Dead |
+| A6 | Your Racist Friend |
+| A7 | Particle Man |
+| A8 | Twisting |
+| A9 | We Want A Rock |
+| B1 | Someone Keeps Moving My Chair |
+| B2 | Hearing Aid |
+| B3 | Minimum Wage |
+| B4 | Letterbox |
+| B5 | Whistling In The Dark |
+| B6 | Hot Cha |
+| B7 | Women & Men |
+| B8 | Sapphire Bullets Of Pure Love |
+| B9 | They Might Be Giants |
+| B10 | Road Movie To Berlin |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Turquoise / White Marbled [Icy Mint], 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1239 |
-| Notes | Hype sticker:<br>Limited numbered edition of 2,500 copies on icy mint coloured vinyl<br>180 gram audiophile vinyl<br><br>Gatefold sleeve.<br>Poly-lined die-cut white paper inner sleeve.<br><br>Made in the EU.<br><br>Some copies have a quite different colour than the advertised icy mint and are translucent moss green with brown and white marble. |
+| Notes | Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU.  Some copies have a quite different colour than the advertised icy mint and are translucent moss green with brown and white marble. |
 | Discogs URL    | [They Might Be Giants - Flood](https://www.discogs.com/release/16176945-They-Might-Be-Giants-Flood) |

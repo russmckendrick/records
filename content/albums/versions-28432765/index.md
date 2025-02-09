@@ -28,18 +28,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Enjoy The Silence |  |
-| A2 | Bizarre Love Triangle |  |
-| A3 | Climbing Up The Walls |  |
-| A4 | Friday I'm In Love |  |
-| A5 | Pennyroyal Tea |  |
-| B1 | These Days |  |
-| B2 | Martha's Harbour |  |
-| B3 | The Tradition |  |
-| B4 | This Is Yesterday |  |
-| B5 | Sweetness Follows |  |
+| Position | Title |
+|----------|--------|
+| A1 | Enjoy The Silence |
+| A2 | Bizarre Love Triangle |
+| A3 | Climbing Up The Walls |
+| A4 | Friday I'm In Love |
+| A5 | Pennyroyal Tea |
+| B1 | These Days |
+| B2 | Martha's Harbour |
+| B3 | The Tradition |
+| B4 | This Is Yesterday |
+| B5 | Sweetness Follows |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (eco-mix) |
 | Label          | Drowned In Sound |
 | Catalog Number | DIS2004 |
-| Notes | Cover versions. <br><br>Signed vinyl available through Bandcamp. Official release date 6th October but copies were shipped mid-September.<br>Limited edition of 1.000 copies.<br><br>Hype sticker: 'Pressed on Eco-Mix vinyl using leftover wax - each record is completely unique'<br><br> |
+| Notes | Cover versions.   Signed vinyl available through Bandcamp. Official release date 6th October but copies were shipped mid-September. Limited edition of 1.000 copies.  Hype sticker: 'Pressed on Eco-Mix vinyl using leftover wax - each record is completely unique'   |
 | Discogs URL    | [The Anchoress - Versions](https://www.discogs.com/release/28432765-The-Anchoress-Versions) |

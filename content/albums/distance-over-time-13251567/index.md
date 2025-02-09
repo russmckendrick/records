@@ -44,28 +44,28 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Untethered Angel | 6:12 |
-| A2 | Paralyzed | 4:14 |
-| A3 | Fall Into The Light | 7:01 |
-| B1 | Barstool Warrior | 6:41 |
-| B2 | Room 137 | 4:20 |
-| B3 | S2N | 6:19 |
-| C1 | At Wit's End | 9:16 |
-| C2 | Out Of Reach | 4:00 |
-| D1 | Pale Blue Dot | 8:20 |
-| D2 | Viper King | 3:58 |
-| CD-1 | Untethered Angel | 6:15 |
-| CD-2 | Paralyzed | 4:18 |
-| CD-3 | Fall Into The Light | 7:05 |
-| CD-4 | Barstool Warrior | 6:43 |
-| CD-5 | Room 137 | 4:24 |
-| CD-6 | S2N | 6:21 |
-| CD-7 | A Wit's End | 9:21 |
-| CD-8 | Out Of Reach | 4:05 |
-| CD-9 | Pale Blue Dot | 8:26 |
-| CD-10 | Viper King | 4:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Untethered Angel |
+| A2 | Paralyzed |
+| A3 | Fall Into The Light |
+| B1 | Barstool Warrior |
+| B2 | Room 137 |
+| B3 | S2N |
+| C1 | At Wit's End |
+| C2 | Out Of Reach |
+| D1 | Pale Blue Dot |
+| D2 | Viper King |
+| CD-1 | Untethered Angel |
+| CD-2 | Paralyzed |
+| CD-3 | Fall Into The Light |
+| CD-4 | Barstool Warrior |
+| CD-5 | Room 137 |
+| CD-6 | S2N |
+| CD-7 | A Wit's End |
+| CD-8 | Out Of Reach |
+| CD-9 | Pale Blue Dot |
+| CD-10 | Viper King |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 | Format         | Vinyl 2× LP Album Stereo (180 gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 523 |
-| Notes | This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch.<br>It comes with hype-sticker on external sleeve.<br><br>Durations do not appear on this release.<br><br>CD mastered at Baker Mastering<br>LP mastered at Fine Tune Mastering |
+| Notes | This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering |
 | Discogs URL    | [Dream Theater - Distance Over Time](https://www.discogs.com/release/13251567-Dream-Theater-Distance-Over-Time) |

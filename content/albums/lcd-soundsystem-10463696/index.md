@@ -33,17 +33,17 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daft Punk Is Playing At My House |  |
-| A2 | Too Much Love |  |
-| A3 | Tribulations |  |
-| A4 | Movement |  |
-| A5 | Never As Tired As When I'm Waking Up |  |
-| B1 | On Repeat |  |
-| B2 | Thrills |  |
-| B3 | Disco Infiltrator |  |
-| B4 | Great Release |  |
+| Position | Title |
+|----------|--------|
+| A1 | Daft Punk Is Playing At My House |
+| A2 | Too Much Love |
+| A3 | Tribulations |
+| A4 | Movement |
+| A5 | Never As Tired As When I'm Waking Up |
+| B1 | On Repeat |
+| B2 | Thrills |
+| B3 | Disco Infiltrator |
+| B4 | Great Release |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | DFA |
 | Catalog Number | dfaplg 2138lp |
-| Notes | Gatefold sleeve<br><br>℗ 2005<br>© 2017<br><br>Printed in the EU<br><br>Reissue with different back cover. |
+| Notes | Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover. |
 | Discogs URL    | [LCD Soundsystem - LCD Soundsystem](https://www.discogs.com/release/10463696-LCD-Soundsystem-LCD-Soundsystem) |

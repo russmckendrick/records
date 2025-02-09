@@ -29,20 +29,20 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Obsession |  |
-| A2 | Silent Genesis |  |
-| A3 | Maelstrom |  |
-| B1 | Ghosts & Typhoons |  |
-| B2 | Beyond Our Bodies |  |
-| C1 | Eupnea |  |
-| CD-1 | New Obsession | 5:07 |
-| CD-2 | Silent Genesis | 10:20 |
-| CD-3 | Maelstrom | 5:44 |
-| CD-4 | Ghosts & Typhoons | 8:45 |
-| CD-5 | Beyond Our Bodies | 4:28 |
-| CD-6 | Eupnea | 13:22 |
+| Position | Title |
+|----------|--------|
+| A1 | New Obsession |
+| A2 | Silent Genesis |
+| A3 | Maelstrom |
+| B1 | Ghosts & Typhoons |
+| B2 | Beyond Our Bodies |
+| C1 | Eupnea |
+| CD-1 | New Obsession |
+| CD-2 | Silent Genesis |
+| CD-3 | Maelstrom |
+| CD-4 | Ghosts & Typhoons |
+| CD-5 | Beyond Our Bodies |
+| CD-6 | Eupnea |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 | Format         | Vinyl LP (Yellow Neon, 180 Gram), Vinyl LP Single Sided Etched (Yellow Neon, 180 Gram), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 545 |
-| Notes | Gatefold release and limited to 100 copies from the Burning Shed online store.<br><br>CD housed in a transparent sleeve. Included a 12" lyric sheet.<br><br>Made in the EU.<br> |
+| Notes | Gatefold release and limited to 100 copies from the Burning Shed online store.  CD housed in a transparent sleeve. Included a 12" lyric sheet.  Made in the EU.  |
 | Discogs URL    | [Pure Reason Revolution - Eupnea](https://www.discogs.com/release/15061317-Pure-Reason-Revolution-Eupnea) |

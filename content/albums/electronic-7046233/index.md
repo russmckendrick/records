@@ -30,19 +30,19 @@ The album was a commercial and critical success, reaching number 2 in the United
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Idiot Country | 5:03 |
-| A2 | Reality | 5:39 |
-| A3 | Tighten Up | 4:38 |
-| A4 | The Patience Of A Saint | 4:10 |
-| A5 | Getting Away With It | 5:14 |
-| B1 | Gangster | 5:26 |
-| B2 | Soviet | 2:00 |
-| B3 | Get The Message | 5:20 |
-| B4 | Try All You Want | 5:37 |
-| B5 | Some Distant Memory | 4:09 |
-| B6 | Feel Every Beat | 5:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Idiot Country |
+| A2 | Reality |
+| A3 | Tighten Up |
+| A4 | The Patience Of A Saint |
+| A5 | Getting Away With It |
+| B1 | Gangster |
+| B2 | Soviet |
+| B3 | Get The Message |
+| B4 | Try All You Want |
+| B5 | Some Distant Memory |
+| B6 | Feel Every Beat |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album was a commercial and critical success, reaching number 2 in the United
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | 0825646144747 |
-| Notes | Includes download card for a 320 kbps MP3 version of the album that can be redeemed via Rhino UK's 'Vinyl Collector' web site.<br><br>All songs published by Warner Chappell Music Ltd. except A4 & A5 published by Warner Chappell Music Ltd/Cage Music Ltd/Sony/ATV Music Publishing (UK) Ltd.<br><br>Digital remasters ℗ 2013 The copyright in these sound recordings is owned by Clear Productions Ltd under exclusive license to Parlophone Records Ltd. © 2015 Clear Productions Ltd.<br>© 2015 Parlophone Records Ltd. A Warner Music Group Company.<br>Printed in the EU. |
+| Notes | Includes download card for a 320 kbps MP3 version of the album that can be redeemed via Rhino UK's 'Vinyl Collector' web site.  All songs published by Warner Chappell Music Ltd. except A4 & A5 published by Warner Chappell Music Ltd/Cage Music Ltd/Sony/ATV Music Publishing (UK) Ltd.  Digital remasters ℗ 2013 The copyright in these sound recordings is owned by Clear Productions Ltd under exclusive license to Parlophone Records Ltd. © 2015 Clear Productions Ltd. © 2015 Parlophone Records Ltd. A Warner Music Group Company. Printed in the EU. |
 | Discogs URL    | [Electronic - Electronic](https://www.discogs.com/release/7046233-Electronic-Electronic) |

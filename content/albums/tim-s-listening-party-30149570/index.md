@@ -32,32 +32,32 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hold On (Ultimate Mix) |  |
-| A2 | One To Another |  |
-| A3 | Space Samba (Disco Volador Theme) |  |
-| A4 | The Wild Ones |  |
-| A5 | Real Life |  |
-| A6 | Sexuality |  |
-| B1 | Setting Sun |  |
-| B2 | Blind |  |
-| B3 | Cannonball |  |
-| B4 | Ease Your Feet In The Sea |  |
-| B5 | My Ever Changing Moods |  |
-| C1 | Moonshine Freeze |  |
-| C2 | Oh My Corazon |  |
-| C3 | Music When The Lights Go Out |  |
-| C4 | Wiggy Giggy |  |
-| C5 | Emily Kane |  |
-| C6 | Flash Delirium |  |
-| D1 | Too Much Too Young |  |
-| D2 | Self-Effacing |  |
-| D3 | Black Belt |  |
-| D4 | Other Side Of The World |  |
-| D5 | Girl Inform Me |  |
-| D6 | Let's Push Things Forward |  |
-| D7 | Jackie Wilson Said (I'm In Heaven When You Smile) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hold On (Ultimate Mix) |
+| A2 | One To Another |
+| A3 | Space Samba (Disco Volador Theme) |
+| A4 | The Wild Ones |
+| A5 | Real Life |
+| A6 | Sexuality |
+| B1 | Setting Sun |
+| B2 | Blind |
+| B3 | Cannonball |
+| B4 | Ease Your Feet In The Sea |
+| B5 | My Ever Changing Moods |
+| C1 | Moonshine Freeze |
+| C2 | Oh My Corazon |
+| C3 | Music When The Lights Go Out |
+| C4 | Wiggy Giggy |
+| C5 | Emily Kane |
+| C6 | Flash Delirium |
+| D1 | Too Much Too Young |
+| D2 | Self-Effacing |
+| D3 | Black Belt |
+| D4 | Other Side Of The World |
+| D5 | Girl Inform Me |
+| D6 | Let's Push Things Forward |
+| D7 | Jackie Wilson Said (I'm In Heaven When You Smile) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: []
 | Format         | Vinyl 2× LP Compilation (Green) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1184X |
-| Notes | 500 copies came with a signed print, identified by the X added to the cat. no. on a sticker.<br>200 copies came with a signed and hand numbered Japanese style obi from Assai Records. |
+| Notes | 500 copies came with a signed print, identified by the X added to the cat. no. on a sticker. 200 copies came with a signed and hand numbered Japanese style obi from Assai Records. |
 | Discogs URL    | [Tim Burgess - Tim's Listening Party](https://www.discogs.com/release/30149570-Tim-Burgess-Tims-Listening-Party) |

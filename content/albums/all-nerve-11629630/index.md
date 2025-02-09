@@ -34,19 +34,19 @@ All Nerve is the fifth full-length studio album by American alternative rock ban
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nervous Mary | 2:29 |
-| A2 | Wait In The Car | 2:03 |
-| A3 | All Nerve | 2:11 |
-| A4 | Metagoth | 3:09 |
-| A5 | Spacewoman | 4:22 |
-| A6 | Walking With A Killer | 3:44 |
-| B7 | Howl At The Summit | 2:58 |
-| B8 | Archangel's Thunderbird | 3:25 |
-| B9 | Dawn: Making An Effort | 3:50 |
-| B10 | Skinhead #2 | 2:46 |
-| B11 | Blues At The Acropolis | 2:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Nervous Mary |
+| A2 | Wait In The Car |
+| A3 | All Nerve |
+| A4 | Metagoth |
+| A5 | Spacewoman |
+| A6 | Walking With A Killer |
+| B7 | Howl At The Summit |
+| B8 | Archangel's Thunderbird |
+| B9 | Dawn: Making An Effort |
+| B10 | Skinhead #2 |
+| B11 | Blues At The Acropolis |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ All Nerve is the fifth full-length studio album by American alternative rock ban
 | Format         | Vinyl LP Album Limited Edition (Orange, 180 g) |
 | Label          | 4AD |
 | Catalog Number | 4AD0035LPE |
-| Notes | Indie stores only<br><br>Alternative cover art. Includes a [url=https://www.discogs.com/The-Breeders-All-Nerve/release/11701498]download card[/url] and a custom inner sleeve. <br>Sequential track numbering over the A and B sides.<br><br>℗ & © 4AD Ltd 2018<br><br>Tracks 1, 2, 5, 6 & 7<br>Recorded by Mike Montgomery at Candyland, Kentucky<br>Additional recordings by Greg Norman at Electrical Audio, Chicago<br><br>Track 3<br>Recorded by Steve Albini at Electrical Audio, Chicago<br>Additional recordings by Greg Norman at Electrical Audio, Chicago<br><br>Track 8<br>Recorded by Mike Montgomery at Candyland, Kentucky and by Steve Albini at Electrical Audio, Chicago<br><br>Track 9<br>Recorded By Tom Rastikis at Fernwood Studios, Dayton<br>Additional recordings by Greg Norman at Electrical Audio, Chicago<br><br>Track 10<br>Recorded by Steve Albini at Electrical Audio, Chicago and by Mike Montgomery at Candyland, Kentucky<br>Additional recordings by Greg Norman at Electrical Audio, Chicago<br><br>Tracks 4 & 11<br>Recorded by Mike Montgomery at Candyland, Kentucky<br><br>Mixed [...] at Vacation Island Recording, Brooklyn<br>Except: Track 8 Mixed [...] at Electrical Audio, Chicago<br><br>Mastered [...] at Sterling Sound, NYC<br>Vinyl mastered [...] at Chicago Mastering Service, Chicago<br><br>Manufactured by Pallas GmbH, Diepholz, Germany<br><br>Publishers/Rights Societies:<br>Kim Deal - Sony / ATV Music Publishing Ltd<br>Richard Presley - BMI<br>Josephine Wiggs - Naked Mole Rat Music<br>Morgan Nagler - Goldmeyn Music (BMI) administered by Rough Trade Songs (BMI)<br>John Weinzierl & Falk Ulrich Rogner - Metric Musikverlag / EMI Partnership Musikverlag |
+| Notes | Indie stores only  Alternative cover art. Includes a [url=https://www.discogs.com/The-Breeders-All-Nerve/release/11701498]download card[/url] and a custom inner sleeve.  Sequential track numbering over the A and B sides.  ℗ & © 4AD Ltd 2018  Tracks 1, 2, 5, 6 & 7 Recorded by Mike Montgomery at Candyland, Kentucky Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 3 Recorded by Steve Albini at Electrical Audio, Chicago Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 8 Recorded by Mike Montgomery at Candyland, Kentucky and by Steve Albini at Electrical Audio, Chicago  Track 9 Recorded By Tom Rastikis at Fernwood Studios, Dayton Additional recordings by Greg Norman at Electrical Audio, Chicago  Track 10 Recorded by Steve Albini at Electrical Audio, Chicago and by Mike Montgomery at Candyland, Kentucky Additional recordings by Greg Norman at Electrical Audio, Chicago  Tracks 4 & 11 Recorded by Mike Montgomery at Candyland, Kentucky  Mixed [...] at Vacation Island Recording, Brooklyn Except: Track 8 Mixed [...] at Electrical Audio, Chicago  Mastered [...] at Sterling Sound, NYC Vinyl mastered [...] at Chicago Mastering Service, Chicago  Manufactured by Pallas GmbH, Diepholz, Germany  Publishers/Rights Societies: Kim Deal - Sony / ATV Music Publishing Ltd Richard Presley - BMI Josephine Wiggs - Naked Mole Rat Music Morgan Nagler - Goldmeyn Music (BMI) administered by Rough Trade Songs (BMI) John Weinzierl & Falk Ulrich Rogner - Metric Musikverlag / EMI Partnership Musikverlag |
 | Discogs URL    | [The Breeders - All Nerve](https://www.discogs.com/release/11629630-The-Breeders-All-Nerve) |

@@ -33,22 +33,22 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Moon Rise (Prelude) |  |
-| A2 | Let It Hurt |  |
-| A3 | The Exchange |  |
-| B1 | Show Your Face |  |
-| B2 | The Art Of Losing |  |
-| B3 | All Farewells Should Be Sudden |  |
-| B4 | All Shall Be Well |  |
-| C1 | Unravel |  |
-| C2 | Paris |  |
-| C3 | 5am |  |
-| C4 | The Heart Is A Lonesome Hunter |  |
-| D1 | My Confessor |  |
-| D2 | With The Boys |  |
-| D3 | Moon (An End) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Moon Rise (Prelude) |
+| A2 | Let It Hurt |
+| A3 | The Exchange |
+| B1 | Show Your Face |
+| B2 | The Art Of Losing |
+| B3 | All Farewells Should Be Sudden |
+| B4 | All Shall Be Well |
+| C1 | Unravel |
+| C2 | Paris |
+| C3 | 5am |
+| C4 | The Heart Is A Lonesome Hunter |
+| D1 | My Confessor |
+| D2 | With The Boys |
+| D3 | Moon (An End) |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Gold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1111 |
-| Notes | Double Gold Vinyl<br>Limited to 500 copies |
+| Notes | Double Gold Vinyl Limited to 500 copies |
 | Discogs URL    | [The Anchoress - The Art Of Losing](https://www.discogs.com/release/17834095-The-Anchoress-The-Art-Of-Losing) |

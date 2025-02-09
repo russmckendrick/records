@@ -31,19 +31,19 @@ For a band so strongly identified with a particular time and place, The Strokes 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Is This It | 2:35 |
-| A2 | The Modern Age | 3:32 |
-| A3 | Soma | 2:37 |
-| A4 | Barely Legal | 3:58 |
-| A5 | Someday | 3:07 |
-| B1 | Alone, Together | 3:12 |
-| B2 | Last Nite | 3:17 |
-| B3 | Hard To Explain | 3:47 |
-| B4 | New York City Cops | 3:36 |
-| B5 | Trying Your Luck | 3:27 |
-| B6 | Take It Or Leave It | 3:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Is This It |
+| A2 | The Modern Age |
+| A3 | Soma |
+| A4 | Barely Legal |
+| A5 | Someday |
+| B1 | Alone, Together |
+| B2 | Last Nite |
+| B3 | Hard To Explain |
+| B4 | New York City Cops |
+| B5 | Trying Your Luck |
+| B6 | Take It Or Leave It |
 
 
 ## Apple Music

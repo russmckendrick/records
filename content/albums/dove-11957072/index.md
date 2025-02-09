@@ -28,18 +28,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stars Align |  |
-| A2 | Shiny One |  |
-| A3 | Girl |  |
-| A4 | Faceless |  |
-| A5 | Suffer The Fools |  |
-| B6 | Mine |  |
-| B7 | Human Child |  |
-| B8 | Army Of Clay |  |
-| B9 | Artifact |  |
-| B10 | Heartstrings |  |
+| Position | Title |
+|----------|--------|
+| A1 | Stars Align |
+| A2 | Shiny One |
+| A3 | Girl |
+| A4 | Faceless |
+| A5 | Suffer The Fools |
+| B6 | Mine |
+| B7 | Human Child |
+| B8 | Army Of Clay |
+| B9 | Artifact |
+| B10 | Heartstrings |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Yellow/Orange Splatter, Translucent) |
 | Label          | Not On Label (Belly Self-released) |
 | Catalog Number | 83774-031-I |
-| Notes | Includes download card for MP3 version.<br><br>Printed inner sleeve with lyrics.<br><br>Tracks numbered sequentially regardless of sides. |
+| Notes | Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides. |
 | Discogs URL    | [Belly - Dove](https://www.discogs.com/release/11957072-Belly-Dove) |

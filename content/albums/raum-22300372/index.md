@@ -38,15 +38,15 @@ Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 202
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | In 256 Zeichen | 19:10 |
-| B1 | You're Always On Time | 8:08 |
-| B2 | Along The Canal | 5:29 |
-| C1 | Continuum | 7:08 |
-| C2 | Portico | 6:44 |
-| C3 | What You Should Know About Endings | 6:55 |
-| D | Raum | 14:54 |
+| Position | Title |
+|----------|--------|
+| A | In 256 Zeichen |
+| B1 | You're Always On Time |
+| B2 | Along The Canal |
+| C1 | Continuum |
+| C2 | Portico |
+| C3 | What You Should Know About Endings |
+| D | Raum |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 202
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1019 |
-| Notes | Release issued in gatefold sleeve with printed inner sleeves. <br><br>Notes from black-orange hype sticker:<br>"THE NEW STUDIO ALBUM - 2LP SET<br>The band's second studio album since the passing of Edgar Froese in 2015. <br>With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream.<br>KSCOPE1019"<br><br>℗ 2022 eastgate music & arts<br>© 2022 eastgate music & arts<br><br>All Runouts are etched. |
+| Notes | Release issued in gatefold sleeve with printed inner sleeves.   Notes from black-orange hype sticker: "THE NEW STUDIO ALBUM - 2LP SET The band's second studio album since the passing of Edgar Froese in 2015.  With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream. KSCOPE1019"  ℗ 2022 eastgate music & arts © 2022 eastgate music & arts  All Runouts are etched. |
 | Discogs URL    | [Tangerine Dream - Raum](https://www.discogs.com/release/22300372-Tangerine-Dream-Raum) |

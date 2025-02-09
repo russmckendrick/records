@@ -37,29 +37,29 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackest Eyes |  |
-| A2 | Harridan |  |
-| A3 | Of The New Day |  |
-| B1 | Rats Return |  |
-| B2 | Even Less |  |
-| B3 | Drown With Me |  |
-| C1 | Dignity |  |
-| C2 | The Sound Of Muzak |  |
-| C3 | Last Chance To Evacuate Planet Earth Before It Is Recycled |  |
-| D1 | Chimera's Wreck |  |
-| D2 | Fear Of A Blank Planet |  |
-| E1 | Buying New Soul |  |
-| E2 | Walk The Plank |  |
-| E3 | Sentimental |  |
-| F | Anesthetize |  |
-| G1 | Herd Culling |  |
-| G2 | I Drive The Hearse |  |
-| G3 | Sleep Together |  |
-| H1 | Collapse The Light Into Earth |  |
-| H2 | Halo |  |
-| H3 | Trains |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blackest Eyes |
+| A2 | Harridan |
+| A3 | Of The New Day |
+| B1 | Rats Return |
+| B2 | Even Less |
+| B3 | Drown With Me |
+| C1 | Dignity |
+| C2 | The Sound Of Muzak |
+| C3 | Last Chance To Evacuate Planet Earth Before It Is Recycled |
+| D1 | Chimera's Wreck |
+| D2 | Fear Of A Blank Planet |
+| E1 | Buying New Soul |
+| E2 | Walk The Plank |
+| E3 | Sentimental |
+| F | Anesthetize |
+| G1 | Herd Culling |
+| G2 | I Drive The Hearse |
+| G3 | Sleep Together |
+| H1 | Collapse The Light Into Earth |
+| H2 | Halo |
+| H3 | Trains |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 4× LP Limited Edition Stereo (Clear) |
 | Label          | Music For Nations |
 | Catalog Number | 19658830371 |
-| Notes | ℗ & © 2023 Sony Music Entertainment UK Limited.<br><br>Limited clear vinyl edition, featuring four records housed in individual sleeves, all housed in a slipcase.<br><br>Made in the EU.<br><br>All runouts are stamped, except "JASPER" is etched.<br><br>Some copies pre-ordered via Burning Shed came with a art print signed by the 3 core band members (see picture).<br><br>Track H2 'Halo' has an incorrect writing credit for [a510445] on the release. |
+| Notes | ℗ & © 2023 Sony Music Entertainment UK Limited.  Limited clear vinyl edition, featuring four records housed in individual sleeves, all housed in a slipcase.  Made in the EU.  All runouts are stamped, except "JASPER" is etched.  Some copies pre-ordered via Burning Shed came with a art print signed by the 3 core band members (see picture).  Track H2 'Halo' has an incorrect writing credit for [a510445] on the release. |
 | Discogs URL    | [Porcupine Tree - Closure / Continuation.Live. Amsterdam 07/11/22](https://www.discogs.com/release/29133415-Porcupine-Tree-Closure-ContinuationLive-Amsterdam-071122) |

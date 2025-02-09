@@ -24,20 +24,20 @@ styles: ["Acid Jazz", "Funk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Money Spyder |  |
-| A2 | One Way Street |  |
-| A3 | Car Chase |  |
-| A4 | The Spiral Staircase |  |
-| A5 | Mr Cool's Dream |  |
-| A6 | A Real Mean Time |  |
-| B1 | The Onion Club |  |
-| B2 | The Stroll |  |
-| B3 | "Los Cuevos Pablo" |  |
-| B4 | Midnight Stomp (The New Rhumba) |  |
-| B5 | Buzy Bee |  |
-| B6 | In The Park |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Money Spyder |
+| A2 | One Way Street |
+| A3 | Car Chase |
+| A4 | The Spiral Staircase |
+| A5 | Mr Cool's Dream |
+| A6 | A Real Mean Time |
+| B1 | The Onion Club |
+| B2 | The Stroll |
+| B3 | "Los Cuevos Pablo" |
+| B4 | Midnight Stomp (The New Rhumba) |
+| B5 | Buzy Bee |
+| B6 | In The Park |
 
 
 ## Apple Music

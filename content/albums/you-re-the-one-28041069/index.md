@@ -48,20 +48,20 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Too Little, Too Late, Too Bad | 3:44 |
-| A2 | You're The One | 3:25 |
-| A3 | Yet To Be | 3:40 |
-| A4 | Wrong Kind Of Right | 4:40 |
-| A5 | Another Wasted Life | 4:48 |
-| B1 | You Louisiana Man | 4:06 |
-| B2 | If You Don't Know How Sweet It Is | 3:01 |
-| B3 | Hen In The Foxhouse | 3:47 |
-| B4 | Who Are You Dreaming Of | 3:26 |
-| B5 | You Put The Sugar In My Bowl | 2:59 |
-| B6 | Way Over Yonder | 3:12 |
-| B7 | Good Ol' Cider | 0:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Too Little, Too Late, Too Bad |
+| A2 | You're The One |
+| A3 | Yet To Be |
+| A4 | Wrong Kind Of Right |
+| A5 | Another Wasted Life |
+| B1 | You Louisiana Man |
+| B2 | If You Don't Know How Sweet It Is |
+| B3 | Hen In The Foxhouse |
+| B4 | Who Are You Dreaming Of |
+| B5 | You Put The Sugar In My Bowl |
+| B6 | Way Over Yonder |
+| B7 | Good Ol' Cider |
 
 
 ## Apple Music

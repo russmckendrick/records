@@ -34,18 +34,18 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | World Where You Live | 3:04 |
-| A2 | Now We're Getting Somewhere | 4:05 |
-| A3 | Don't Dream It's Over | 3:58 |
-| A4 | Mean To Me | 3:15 |
-| A5 | Love You 'Til Day I Die | 3:30 |
-| B1 | Something So Strong | 2:51 |
-| B2 | Hole In The River | 3:58 |
-| B3 | I Walk Away | 3:05 |
-| B4 | Tombstone | 3:30 |
-| B5 | That's What I Call Love | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | World Where You Live |
+| A2 | Now We're Getting Somewhere |
+| A3 | Don't Dream It's Over |
+| A4 | Mean To Me |
+| A5 | Love You 'Til Day I Die |
+| B1 | Something So Strong |
+| B2 | Hole In The River |
+| B3 | I Walk Away |
+| B4 | Tombstone |
+| B5 | That's What I Call Love |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2016 |
-| Notes | ''Hayes, Middlesex, England'' in tiny print on the backcover.<br>Inner sleeve with lyrics.<br> |
+| Notes | ''Hayes, Middlesex, England'' in tiny print on the backcover.  Inner sleeve with lyrics.  |
 | Discogs URL    | [Crowded House - Crowded House](https://www.discogs.com/release/2035236-Crowded-House-Crowded-House) |

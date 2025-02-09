@@ -33,16 +33,16 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What Happens Now? | 7:32 |
-| A2 | Sound Of Muzak / So Called Friend | 5:56 |
-| A3 | The Start Of Something Beautiful | 4:48 |
-| A4 | Heartattack In A Layby | 6:00 |
-| B1 | The Pills I'm Taking (From Anesthetise) | 5:03 |
-| B2 | Hatesong / Halo | 8:17 |
-| B3 | Cheating The Polygraph / Mother & Child Divided | 5:29 |
-| B4 | Futile | 6:04 |
+| Position | Title |
+|----------|--------|
+| A1 | What Happens Now? |
+| A2 | Sound Of Muzak / So Called Friend |
+| A3 | The Start Of Something Beautiful |
+| A4 | Heartattack In A Layby |
+| B1 | The Pills I'm Taking (From Anesthetise) |
+| B2 | Hatesong / Halo |
+| B3 | Cheating The Polygraph / Mother & Child Divided |
+| B4 | Futile |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE876 |
-| Notes | The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).<br><br>180g heavyweight vinyl, gatefold cover.<br><br>All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison. |
+| Notes | The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).  180g heavyweight vinyl, gatefold cover.  All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison. |
 | Discogs URL    | [Gavin Harrison - Cheating The Polygraph](https://www.discogs.com/release/6905612-Gavin-Harrison-Cheating-The-Polygraph) |

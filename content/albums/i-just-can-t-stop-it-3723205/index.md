@@ -34,22 +34,22 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mirror In The Bathroom | 3:07 |
-| A2 | Hands Off...She's Mine | 2:59 |
-| A3 | Two Swords | 2:18 |
-| A4 | Twist & Crawl | 2:33 |
-| A5 | Tears Of A Clown | 2:39 |
-| A6 | Rough Rider | 4:52 |
-| A7 | Click Click | 1:27 |
-| B1 | Ranking Full Stop | 2:44 |
-| B2 | Big Shot | 2:32 |
-| B3 | Whine & Grine / Stand Down Margaret | 3:49 |
-| B4 | Noise In This World | 2:16 |
-| B5 | Can't Get Used To Losing You | 3:05 |
-| B6 | Best Friend | 3:02 |
-| B7 | Jackpot | 4:19 |
+| Position | Title |
+|----------|--------|
+| A1 | Mirror In The Bathroom |
+| A2 | Hands Off...She's Mine |
+| A3 | Two Swords |
+| A4 | Twist & Crawl |
+| A5 | Tears Of A Clown |
+| A6 | Rough Rider |
+| A7 | Click Click |
+| B1 | Ranking Full Stop |
+| B2 | Big Shot |
+| B3 | Whine & Grine / Stand Down Margaret |
+| B4 | Noise In This World |
+| B5 | Can't Get Used To Losing You |
+| B6 | Best Friend |
+| B7 | Jackpot |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 | Format         | Vinyl LP Album (Jacksonville Pressing) |
 | Label          | Sire |
 | Catalog Number | SRK 6091 |
-| Notes | Pressing variation of the original US release.<br>"0" stamped & "JW" etched in runouts denotes a  [l314605]<br><br>Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.<br><br>Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.<br><br><br><br><br> |
+| Notes | Pressing variation of the original US release. "0" stamped & "JW" etched in runouts denotes a  [l314605]  Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.  Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.      |
 | Discogs URL    | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/3723205-The-English-Beat-I-Just-Cant-Stop-It) |

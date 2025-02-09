@@ -38,20 +38,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prelude - Island Of Peace |  |
-| A2 | Meet Me In The Air |  |
-| A3 | Where's My Room |  |
-| B1 | Listen |  |
-| B2 | Any Other Way |  |
-| B3 | Back To Life |  |
-| C1 | Anger Plays A Part |  |
-| C2 | Troubles |  |
-| C3 | Hiding Place |  |
-| D1 | Ghosts |  |
-| D2 | We Know What It Means |  |
-| D3 | Hold Her Close |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prelude - Island Of Peace |
+| A2 | Meet Me In The Air |
+| A3 | Where's My Room |
+| B1 | Listen |
+| B2 | Any Other Way |
+| B3 | Back To Life |
+| C1 | Anger Plays A Part |
+| C2 | Troubles |
+| C3 | Hiding Place |
+| D1 | Ghosts |
+| D2 | We Know What It Means |
+| D3 | Hold Her Close |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: []
 | Format         | Vinyl 2× LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRNFLF0017LP |
-| Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.<br><br>Neil & Sharon Finn published by Kobalt Publishing,<br>Liam Finn published by Mushroom Publishing<br><br>℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]<br><br>All matrix details are etched.<br>Mastered at Takt = Plated at. |
+| Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]  All matrix details are etched. Mastered at Takt = Plated at. |
 | Discogs URL    | [Neil  Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |

@@ -35,16 +35,16 @@ After the punk-spiked indecency of “When You Were Mine”—one of the very be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dirty Mind | 4:11 |
-| A2 | When You Were Mine | 3:44 |
-| A3 | Do It All Night | 3:42 |
-| A4 | Gotta Broken Heart Again | 2:13 |
-| B1 | Uptown | 5:30 |
-| B2 | Head | 4:40 |
-| B3 | Sister | 1:33 |
-| B4 | Partyup | 4:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Dirty Mind |
+| A2 | When You Were Mine |
+| A3 | Do It All Night |
+| A4 | Gotta Broken Heart Again |
+| B1 | Uptown |
+| B2 | Head |
+| B3 | Sister |
+| B4 | Partyup |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ After the punk-spiked indecency of “When You Were Mine”—one of the very be
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-7 |
-| Notes | Recorded somewhere in Uptown.<br>Re-mixed at Hollywood Sound Recorders, Hollywood, Calif. <br>Mastered at Bernie Grundman Mastering from the Original Tapes <br>Mastered at A&M Records.<br>Warner Bros. Records Inc. A Warner Music Group Company.<br>Manufactured in the E.U.<br><br>The runouts read the release was plated at RTI and pressed by Optimal.<br>A similar [url=https://www.discogs.com/Prince-Dirty-Mind/release/2908664]US version[/url] exists. |
+| Notes | Recorded somewhere in Uptown. Re-mixed at Hollywood Sound Recorders, Hollywood, Calif.  Mastered at Bernie Grundman Mastering from the Original Tapes  Mastered at A&M Records. Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  The runouts read the release was plated at RTI and pressed by Optimal. A similar [url=https://www.discogs.com/Prince-Dirty-Mind/release/2908664]US version[/url] exists. |
 | Discogs URL    | [Prince - Dirty Mind](https://www.discogs.com/release/5030969-Prince-Dirty-Mind) |

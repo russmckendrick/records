@@ -33,18 +33,18 @@ English Electric Part One is the seventh studio album by the English progressive
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The First Rebreather | 8:31 |
-| A2 | Uncle Jack | 3:50 |
-| A3 | Winchester From St. Giles' Hill | 7:20 |
-| B1 | Judas Unrepentant | 7:17 |
-| B2 | Upton Heath | 5:38 |
-| B3 | A Boy In Darkness | 8:03 |
-| C1 | Summoned By Bells | 9:21 |
-| C2 | Hedgerow | 8:55 |
-| D1 | Seen Better Days (The Brass Band's Final Piece) | 4:48 |
-| D2 | East Coast Racer (Live At King's Place, London August 2015) | 17:30 |
+| Position | Title |
+|----------|--------|
+| A1 | The First Rebreather |
+| A2 | Uncle Jack |
+| A3 | Winchester From St. Giles' Hill |
+| B1 | Judas Unrepentant |
+| B2 | Upton Heath |
+| B3 | A Boy In Darkness |
+| C1 | Summoned By Bells |
+| C2 | Hedgerow |
+| D1 | Seen Better Days (The Brass Band's Final Piece) |
+| D2 | East Coast Racer (Live At King's Place, London August 2015) |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ English Electric Part One is the seventh studio album by the English progressive
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | 7426822210565 |
-| Notes | 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live).<br>Including one sided credit sheet. <br>Gatefold sleeve |
+| Notes | 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live). Including one sided credit sheet.  Gatefold sleeve |
 | Discogs URL    | [Big Big Train - English Electric Part One](https://www.discogs.com/release/14252474-Big-Big-Train-English-Electric-Part-One) |

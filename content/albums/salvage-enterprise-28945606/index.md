@@ -38,17 +38,17 @@ styles: ["Indie Rock", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Section 44: Galloping Seas |  |
-| A2 | Section 45: Wishful, Brave, And True |  |
-| A3 | Section 46: Give Me Everything |  |
-| A4 | Section 47: Got Down To The Soul |  |
-| A5 | Section 48: Shadows On The Hillside |  |
-| B1 | Section 49: Hop Off The Fence |  |
-| B2 | Section 50: Open The Shores |  |
-| B3 | Section 51: Winds Of Summer |  |
-| B4 | Section 52: Morning Sun, I Built The Stairs |  |
+| Position | Title |
+|----------|--------|
+| A1 | Section 44: Galloping Seas |
+| A2 | Section 45: Wishful, Brave, And True |
+| A3 | Section 46: Give Me Everything |
+| A4 | Section 47: Got Down To The Soul |
+| A5 | Section 48: Shadows On The Hillside |
+| B1 | Section 49: Hop Off The Fence |
+| B2 | Section 50: Open The Shores |
+| B3 | Section 51: Winds Of Summer |
+| B4 | Section 52: Morning Sun, I Built The Stairs |
 
 
 ## Apple Music

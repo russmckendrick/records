@@ -30,16 +30,16 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ride On My Bike |  |
-| A2 | Fuck Love |  |
-| A3 | House Of The Glass Red |  |
-| A4 | Dethroning Of The Party Queen |  |
-| A5 | Nobody Hears |  |
-| B1 | Riddles And Games |  |
-| B2 | Butterflies  |  |
-| B3 | A Yarn From The Wheel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ride On My Bike |
+| A2 | Fuck Love |
+| A3 | House Of The Glass Red |
+| A4 | Dethroning Of The Party Queen |
+| A5 | Nobody Hears |
+| B1 | Riddles And Games |
+| B2 | Butterflies  |
+| B3 | A Yarn From The Wheel |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 | Format         | Vinyl LP Album |
 | Label          | Esoteric Antenna |
 | Catalog Number | EANTLP1075 |
-| Notes | Standard black vinyl<br>200 copies was signed by the band<br>Made in the EU |
+| Notes | Standard black vinyl 200 copies was signed by the band Made in the EU |
 | Discogs URL    | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |

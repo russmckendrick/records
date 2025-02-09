@@ -30,18 +30,18 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Give It Up | 3:40 |
-| A2 | Family Man | 3:46 |
-| A3 | Cuddly Toy | 3:49 |
-| A4 | Find Me Another Love | 4:20 |
-| A5 | No Way | 4:03 |
-| B1 | Kathleen | 5:50 |
-| B2 | Beautiful Morning | 3:53 |
-| B3 | Lying Again | 3:32 |
-| B4 | Since | 3:22 |
-| B5 | Nobody But You | 4:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Give It Up |
+| A2 | Family Man |
+| A3 | Cuddly Toy |
+| A4 | Find Me Another Love |
+| A5 | No Way |
+| B1 | Kathleen |
+| B2 | Beautiful Morning |
+| B3 | Lying Again |
+| B4 | Since |
+| B5 | Nobody But You |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | 460630 1 |
-| Notes | ℗ 1988 CBS Records (labels, inside sleeve)<br>© 1988 CBS Records (back cover)<br><br>Textured sleeve with printed inner sleeve. |
+| Notes | ℗ 1988 CBS Records (labels, inside sleeve) © 1988 CBS Records (back cover)  Textured sleeve with printed inner sleeve. |
 | Discogs URL    | [Roachford - Roachford](https://www.discogs.com/release/3265167-Roachford-Roachford) |

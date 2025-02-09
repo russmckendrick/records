@@ -27,10 +27,10 @@ Alan went on to appear in two series of the sitcom I'm Alan Partridge, following
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992 |  |
-| B | Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993 |  |
+| Position | Title |
+|----------|--------|
+| A | Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992 |
+| B | Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993 |
 
 
 ## Apple Music

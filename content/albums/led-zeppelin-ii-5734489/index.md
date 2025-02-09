@@ -36,17 +36,17 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Whole Lotta Love | 5:34 |
-| A2 | What Is And What Should Never Be | 4:44 |
-| A3 | The Lemon Song | 6:19 |
-| A4 | Thank You | 4:47 |
-| B1 | Heartbreaker | 4:14 |
-| B2 | Living Loving Maid (She's Just A Woman) | 2:39 |
-| B3 | Ramble On | 4:23 |
-| B4 | Moby Dick | 4:21 |
-| B5 | Bring It On Home | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Whole Lotta Love |
+| A2 | What Is And What Should Never Be |
+| A3 | The Lemon Song |
+| A4 | Thank You |
+| B1 | Heartbreaker |
+| B2 | Living Loving Maid (She's Just A Woman) |
+| B3 | Ramble On |
+| B4 | Moby Dick |
+| B5 | Bring It On Home |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | 8122796640 |
-| Notes | Housed in a gatefold jacket and issued in a white poly lined inner sleeve.<br>Runouts are etched.<br><br>[Gatefold inside:]<br>All selections administered by WB Music Corp. (ASCAP) except 'Bring It On Home' administered by Hoochie Coochie Music BMI.<br>Mixed at A&R Studios, New York, with Eddie Kramer<br>Released October 22, 1969<br>© 1969 Atlantic Recording Corporation, a Warner Music Group Company. [...] Made in the EU.<br><br>[Labels:]<br>© 1969 Atlantic Recording Corporation. ℗ 2013 Atlantic Recording Corporation. Manufactured in Germany. |
+| Notes | Housed in a gatefold jacket and issued in a white poly lined inner sleeve. Runouts are etched.  [Gatefold inside:] All selections administered by WB Music Corp. (ASCAP) except 'Bring It On Home' administered by Hoochie Coochie Music BMI. Mixed at A&R Studios, New York, with Eddie Kramer Released October 22, 1969 © 1969 Atlantic Recording Corporation, a Warner Music Group Company. [...] Made in the EU.  [Labels:] © 1969 Atlantic Recording Corporation. ℗ 2013 Atlantic Recording Corporation. Manufactured in Germany. |
 | Discogs URL    | [Led Zeppelin - Led Zeppelin II](https://www.discogs.com/release/5734489-Led-Zeppelin-Led-Zeppelin-II) |

@@ -34,21 +34,21 @@ Five different singles were released from God Fodder across different regions. U
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kill Your Television | 2:59 |
-| A2 | Less Than Useful | 4:01 |
-| A3 | Selfish | 3:50 |
-| A4 | Grey Cell Green | 3:45 |
-| A5 | Cut Up | 3:03 |
-| A6 | Throwing Things | 3:20 |
-| B1 | Capital Letters | 2:50 |
-| B2 | Happy | 3:58 |
-| B3 | Your Complex | 2:33 |
-| B4 | Nothing Like | 2:40 |
-| B5 | Until You Find Out | 3:05 |
-| B6 | You | 1:56 |
-| B7 | What Gives My Son? | 2:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Kill Your Television |
+| A2 | Less Than Useful |
+| A3 | Selfish |
+| A4 | Grey Cell Green |
+| A5 | Cut Up |
+| A6 | Throwing Things |
+| B1 | Capital Letters |
+| B2 | Happy |
+| B3 | Your Complex |
+| B4 | Nothing Like |
+| B5 | Until You Find Out |
+| B6 | You |
+| B7 | What Gives My Son? |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Five different singles were released from God Fodder across different regions. U
 | Format         | Vinyl LP Album |
 | Label          | Furtive (2) |
 | Catalog Number | 468112 1 |
-| Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.<br><br>Comes with inner bag with lyrics, pictures and information.<br><br>Cat# 468112 1 appears on the spine, top left of the photo side of the insert and both labels.<br>Cat# 468112-1 appears top right of back cover.<br>01-468112-20 appears bottom right of back cover.<br>01-468112.20 appears bottom right on the lyric side of the insert.<br><br>℗1991 Sony Music Entertainment (UK) Ltd.<br>©1991 Sony Music Entertainment (UK) Ltd. |
+| Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Comes with inner bag with lyrics, pictures and information.  Cat# 468112 1 appears on the spine, top left of the photo side of the insert and both labels. Cat# 468112-1 appears top right of back cover. 01-468112-20 appears bottom right of back cover. 01-468112.20 appears bottom right on the lyric side of the insert.  ℗1991 Sony Music Entertainment (UK) Ltd. ©1991 Sony Music Entertainment (UK) Ltd. |
 | Discogs URL    | [Neds Atomic Dustbin - God Fodder](https://www.discogs.com/release/781893-Neds-Atomic-Dustbin-God-Fodder) |

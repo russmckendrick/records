@@ -36,12 +36,12 @@ Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aft
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coast Is Clear |  |
-| A2 | The Colour Hurts |  |
-| B1 | Frozen |  |
-| B2 | Zoo |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coast Is Clear |
+| A2 | The Colour Hurts |
+| B1 | Frozen |
+| B2 | Zoo |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aft
 | Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12031 |
-| Notes | Part of a reissue series.<br>Coloured vinyl.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Limited edition of 1000.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series. |
+| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. |
 | Discogs URL    | [Curve - Frozen](https://www.discogs.com/release/26071519-Curve-Frozen) |

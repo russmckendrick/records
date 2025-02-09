@@ -35,31 +35,31 @@ The album received mixed reviews at first, and was the first Genesis album which
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lamb Lies Down On Broadway |  |
-| A2 | Fly On A Windshield |  |
-| A3 | Broadway Melody Of 1974 |  |
-| A4 | Cuckoo Cocoon |  |
-| A5 | In The Cage |  |
-| A6 | The Grand Parade Of Lifeless Packaging |  |
-| B1 | Back In N.Y.C. |  |
-| B2 | Hairless Heart |  |
-| B3 | Counting Out Time |  |
-| B4 | Carpet Crawlers |  |
-| B5 | The Chamber Of 32 Doors |  |
-| C1 | Lilywhite Lilith |  |
-| C2 | The Waiting Room |  |
-| C3 | Anyway |  |
-| C4 | Here Comes The Supernatural Anaesthetist |  |
-| C5 | The Lamia |  |
-| C6 | Silent Sorrow In Empty Boats |  |
-|  | The Colony Of Slipperman |  |
-| D2 | Ravine |  |
-| D3 | The Light Dies Down On Broadway |  |
-| D4 | Riding The Scree |  |
-| D5 | In The Rapids |  |
-| D6 | It |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Lamb Lies Down On Broadway |
+| A2 | Fly On A Windshield |
+| A3 | Broadway Melody Of 1974 |
+| A4 | Cuckoo Cocoon |
+| A5 | In The Cage |
+| A6 | The Grand Parade Of Lifeless Packaging |
+| B1 | Back In N.Y.C. |
+| B2 | Hairless Heart |
+| B3 | Counting Out Time |
+| B4 | Carpet Crawlers |
+| B5 | The Chamber Of 32 Doors |
+| C1 | Lilywhite Lilith |
+| C2 | The Waiting Room |
+| C3 | Anyway |
+| C4 | Here Comes The Supernatural Anaesthetist |
+| C5 | The Lamia |
+| C6 | Silent Sorrow In Empty Boats |
+|  | The Colony Of Slipperman |
+| D2 | Ravine |
+| D3 | The Light Dies Down On Broadway |
+| D4 | Riding The Scree |
+| D5 | In The Rapids |
+| D6 | It |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ The album received mixed reviews at first, and was the first Genesis album which
 | Format         | Vinyl 2× LP Album Mispress Reissue Stereo Mono (Gatefold, 180 Gram) |
 | Label          | Charisma |
 | Catalog Number | 602567489856 |
-| Notes | Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.<br><br>Printed on center label of record one: "6478992 Record One"<br>Printed on center label of record two: "6749005 Record One"<br>Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.<br><br>ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.<br><br>Comes with download code.<br><br>Made in the Eu |
+| Notes | Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu |
 | Discogs URL    | [Genesis - The Lamb Lies Down On Broadway](https://www.discogs.com/release/12333317-Genesis-The-Lamb-Lies-Down-On-Broadway) |

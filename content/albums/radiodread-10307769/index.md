@@ -33,24 +33,24 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Airbag | 5:00 |
-| A2 | Paranoid Android | 6:27 |
-| A3 | Subterranean Homesick Alien | 4:40 |
-| A4 | Exit Music (For A Film) | 4:23 |
-| B1 | Let Down | 4:44 |
-| B2 | Karma Police | 4:48 |
-| B3 | Fitter Happier | 2:19 |
-| B4 | Electioneering | 4:33 |
-| C1 | Climbing Up The Walls | 4:56 |
-| C2 | No Surprises | 4:01 |
-| C3 | Lucky | 5:45 |
-| C4 | The Tourist | 4:02 |
-| D1 | An Airbag Saved My Dub | 4:50 |
-| D2 | Exit Music (For A Dub) | 4:38 |
-| D3 | Dub Is What You Get (Mad Professor/Joe Ariwa Mix) | 4:34 |
-| D4 | Lucky Dub A (Mad Professor/Joe Ariwa Mix) | 4:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Airbag |
+| A2 | Paranoid Android |
+| A3 | Subterranean Homesick Alien |
+| A4 | Exit Music (For A Film) |
+| B1 | Let Down |
+| B2 | Karma Police |
+| B3 | Fitter Happier |
+| B4 | Electioneering |
+| C1 | Climbing Up The Walls |
+| C2 | No Surprises |
+| C3 | Lucky |
+| C4 | The Tourist |
+| D1 | An Airbag Saved My Dub |
+| D2 | Exit Music (For A Dub) |
+| D3 | Dub Is What You Get (Mad Professor/Joe Ariwa Mix) |
+| D4 | Lucky Dub A (Mad Professor/Joe Ariwa Mix) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 | Format         | Vinyl 2× LP Album Repress (Transparent gold & solid army green ) |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1055V |
-| Notes | "A complete reggae version of [url=http://www.discogs.com/artist/Radiohead]Radiohead's[/url] [url=http://www.discogs.com/release/83182]OK Computer[/url]."<br><br>No samples from "[r83182]" (or anywhere else) were used in the recording of this album.<br><br>Recorded at Capture Sound (Brooklyn, NY), Mellow Stone Studios (Queens, NY), Estudio El Rocha (Sao Paulo, Brazil), Ultraband Studios (NYC), Obstacle Course Studios (Brooklyn, NY), Studio JMage (NYC), Circle House Studios (Miami, FL) & Electric Lady Studios (NYC).<br><br>Mixed at Estudio El Rocha (Sao Paulo, Brazil) except Side 2B tracks 1 & 2 Obstacle Course Studios (Brooklyn, NY) and  Side 2B tracks 3 & 4 Ariwa Studios (London, England)<br><br>Mastered for vinyl at VP Record Mastering (Queens, NY).<br><br>All songs published by Wanner Chappell Ltd.<br>Lyrics to "Fitter Happier" adapted with permission by Radiohead.<br><br>© 2006 Easy Star Records.<br>Manufactured and distributed by Easy Star Records.<br>Made in the U.S.A.<br> |
+| Notes | "A complete reggae version of [url=http://www.discogs.com/artist/Radiohead]Radiohead's[/url] [url=http://www.discogs.com/release/83182]OK Computer[/url]."  No samples from "[r83182]" (or anywhere else) were used in the recording of this album.  Recorded at Capture Sound (Brooklyn, NY), Mellow Stone Studios (Queens, NY), Estudio El Rocha (Sao Paulo, Brazil), Ultraband Studios (NYC), Obstacle Course Studios (Brooklyn, NY), Studio JMage (NYC), Circle House Studios (Miami, FL) & Electric Lady Studios (NYC).  Mixed at Estudio El Rocha (Sao Paulo, Brazil) except Side 2B tracks 1 & 2 Obstacle Course Studios (Brooklyn, NY) and  Side 2B tracks 3 & 4 Ariwa Studios (London, England)  Mastered for vinyl at VP Record Mastering (Queens, NY).  All songs published by Wanner Chappell Ltd. Lyrics to "Fitter Happier" adapted with permission by Radiohead.  © 2006 Easy Star Records. Manufactured and distributed by Easy Star Records. Made in the U.S.A.  |
 | Discogs URL    | [Easy Star All-Stars - Radiodread](https://www.discogs.com/release/10307769-Easy-Star-All-Stars-Radiodread) |

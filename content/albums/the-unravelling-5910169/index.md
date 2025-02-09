@@ -24,24 +24,24 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Can Teach You How To Lose A Fight |  |
-| A2 | The Orphanage |  |
-| A3 | Send Him Seaworthy |  |
-| A4 | Don't Land On Me |  |
-| B1 | The Skulls We Buried Have Regrown Their Eyes |  |
-| B2 | Destroy The World We Love |  |
-| B3 | This Empty Room Once Was Alive |  |
-| B4 | I'm Hiding Behind My Eyes |  |
-| CD-1 | I Can Teach You How To Lose A Fight | 5:14 |
-| CD-2 | The Orphanage | 1:33 |
-| CD-3 | Send Him Seaworthy | 6:36 |
-| CD-4 | Don't Land On Me | 8:02 |
-| CD-5 | The Skulls We Buried Have Regrown Their Eyes | 4:45 |
-| CD-6 | Destroy The World We Love | 6:05 |
-| CD-7 | This Empty Room Once Was Alive | 3:50 |
-| CD-8 | I'm Hiding Behind My Eyes | 9:15 |
+| Position | Title |
+|----------|--------|
+| A1 | I Can Teach You How To Lose A Fight |
+| A2 | The Orphanage |
+| A3 | Send Him Seaworthy |
+| A4 | Don't Land On Me |
+| B1 | The Skulls We Buried Have Regrown Their Eyes |
+| B2 | Destroy The World We Love |
+| B3 | This Empty Room Once Was Alive |
+| B4 | I'm Hiding Behind My Eyes |
+| CD-1 | I Can Teach You How To Lose A Fight |
+| CD-2 | The Orphanage |
+| CD-3 | Send Him Seaworthy |
+| CD-4 | Don't Land On Me |
+| CD-5 | The Skulls We Buried Have Regrown Their Eyes |
+| CD-6 | Destroy The World We Love |
+| CD-7 | This Empty Room Once Was Alive |
+| CD-8 | I'm Hiding Behind My Eyes |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl LP Album (180 Gram), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 402 |
-| Notes | From removable sticker on front:<br>180g vinyl edition incl. the entire album on CD<br><br>Includes a printed inner card sleeve with photos of the band members, lyrics, and credits.<br><br>© 2014 InsideOut Music<br>℗ 2014 Century Media Records Ltd.<br>Made in Germany<br><br>Drums recorded at One Cat<br>Piano on [A1, 1] recorded at Securisound <br>Piano on [A3, 3 & B4, 8] recorded at Westminster Kingsway College<br>Mixed and mastered at Studio Midi Pyrenees<br>Layout and artwork at 57design.co.uk |
+| Notes | From removable sticker on front: 180g vinyl edition incl. the entire album on CD  Includes a printed inner card sleeve with photos of the band members, lyrics, and credits.  © 2014 InsideOut Music ℗ 2014 Century Media Records Ltd. Made in Germany  Drums recorded at One Cat Piano on [A1, 1] recorded at Securisound  Piano on [A3, 3 & B4, 8] recorded at Westminster Kingsway College Mixed and mastered at Studio Midi Pyrenees Layout and artwork at 57design.co.uk |
 | Discogs URL    | [Knifeworld - The Unravelling](https://www.discogs.com/release/5910169-Knifeworld-The-Unravelling) |

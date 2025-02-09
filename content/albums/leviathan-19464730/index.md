@@ -32,17 +32,17 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Empire |  |
-| A2 | Milkwood |  |
-| A3 | Pulse Detected |  |
-| B1 | Loom |  |
-| B2 | Leviathan |  |
-| C1 | After The Rain |  |
-| C2 | Fire Tower |  |
-| D1 | Zhora |  |
-| D2 | Sympatico |  |
+| Position | Title |
+|----------|--------|
+| A1 | Empire |
+| A2 | Milkwood |
+| A3 | Pulse Detected |
+| B1 | Loom |
+| B2 | Leviathan |
+| C1 | After The Rain |
+| C2 | Fire Tower |
+| D1 | Zhora |
+| D2 | Sympatico |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 | Format         | Vinyl 2× LP Album (200g) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLPX102 |
-| Notes | Gatefold sleeve<br><br><br><br> |
+| Notes | Gatefold sleeve     |
 | Discogs URL    | [The Grid - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |

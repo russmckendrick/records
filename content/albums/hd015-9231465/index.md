@@ -29,17 +29,17 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Deserted Skies |  |
-| A2 | Floating Cube |  |
-| A3 | To Light Alone I Bow |  |
-| A4 | Hourglass |  |
-| A5 | Omniverse |  |
-| B1 | Black Mollies |  |
-| B2 | Scalar Wave |  |
-| B3 | Shunting Yard |  |
-| B4 | Dirge |  |
+| Position | Title |
+|----------|--------|
+| A1 | Deserted Skies |
+| A2 | Floating Cube |
+| A3 | To Light Alone I Bow |
+| A4 | Hourglass |
+| A5 | Omniverse |
+| B1 | Black Mollies |
+| B2 | Scalar Wave |
+| B3 | Shunting Yard |
+| B4 | Dirge |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear & Black) |
 | Label          | HoloDeck |
 | Catalog Number | HD015LP |
-| Notes | 150g vinyl with yellow/black alternate sleeve artwork.  <br><br>Includes download code (choice of formats, via Bandcamp). |
+| Notes | 150g vinyl with yellow/black alternate sleeve artwork.    Includes download code (choice of formats, via Bandcamp). |
 | Discogs URL    | [Survive - HD015](https://www.discogs.com/release/9231465-S-U-R-V-I-V-E-HD015) |

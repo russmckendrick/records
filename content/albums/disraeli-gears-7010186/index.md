@@ -31,19 +31,19 @@ On their second studio album, the British power trio subdues blues grooves to cr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strange Brew |  |
-| A2 | Sunshine Of Your Love |  |
-| A3 | World Of Pain |  |
-| A4 | Dance The Night Away |  |
-| A5 | Blue Condition |  |
-| B1 | Tales Of Brave Ulysses |  |
-| B2 | Swlabr |  |
-| B3 | We're Going Wrong |  |
-| B4 | Outside Woman Blues |  |
-| B5 | Take It Back |  |
-| B6 | Mother's Lament |  |
+| Position | Title |
+|----------|--------|
+| A1 | Strange Brew |
+| A2 | Sunshine Of Your Love |
+| A3 | World Of Pain |
+| A4 | Dance The Night Away |
+| A5 | Blue Condition |
+| B1 | Tales Of Brave Ulysses |
+| B2 | Swlabr |
+| B3 | We're Going Wrong |
+| B4 | Outside Woman Blues |
+| B5 | Take It Back |
+| B6 | Mother's Lament |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ On their second studio album, the British power trio subdues blues grooves to cr
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 535 484-3 |
-| Notes | This version has hand-etched "MPO" in the runouts. The release with a laser-etched MPO logo "MPO®" in the runouts is here: [r13712296] <br><br>Made in France sticker applied to rear jacket shrink wrap. Some copies have a [l197898] hype sticker applied to the front shrink wrap and a voucher to download an MP3 version of the album. <br><br>[On back cover]<br>℗ & © 1967 Universal International Music BV<br>Made in the EU. BIEM/SDRM. 0600753548431.<br><br>[On labels]<br>℗ 1967<br>℗ & © 1967 Universal International Music BV<br>Made in the EU. BIEM/SDRM. 0600753548431.<br><br>Publishers:<br>A1: Careers-BMG Music Publishing, Inc./Dratleaf Music Ltd./Eric Patrick Clapton/Windfall Music Ent. Inc.<br>A2: Warner Chappell Music Ltd.<br>A3: Careers-BMG Music Publishing, Inc./Warner-Tamerlane Publishing Corp.<br>A4, A5: Dratleaf Music Ltd.<br>B1: Dratleaf Music Ltd./ Unichappell Music, Inc.<br>B2, B3, B5, B6: Dratleaf Music Ltd.<br>B4: Apple Music Publ. Co. Inc.<br><br>Runouts are etched in all variants.<br>The 2 digits after "MPO" in variants 2 and 3 are mirrored on dead wax (unmirrored in BaOI). |
+| Notes | This version has hand-etched "MPO" in the runouts. The release with a laser-etched MPO logo "MPO®" in the runouts is here: [r13712296]   Made in France sticker applied to rear jacket shrink wrap. Some copies have a [l197898] hype sticker applied to the front shrink wrap and a voucher to download an MP3 version of the album.   [On back cover] ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  [On labels] ℗ 1967 ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  Publishers: A1: Careers-BMG Music Publishing, Inc./Dratleaf Music Ltd./Eric Patrick Clapton/Windfall Music Ent. Inc. A2: Warner Chappell Music Ltd. A3: Careers-BMG Music Publishing, Inc./Warner-Tamerlane Publishing Corp. A4, A5: Dratleaf Music Ltd. B1: Dratleaf Music Ltd./ Unichappell Music, Inc. B2, B3, B5, B6: Dratleaf Music Ltd. B4: Apple Music Publ. Co. Inc.  Runouts are etched in all variants. The 2 digits after "MPO" in variants 2 and 3 are mirrored on dead wax (unmirrored in BaOI). |
 | Discogs URL    | [Cream - Disraeli Gears](https://www.discogs.com/release/7010186-Cream-2-Disraeli-Gears) |

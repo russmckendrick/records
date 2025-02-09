@@ -33,18 +33,18 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Seventh Seal |  |
-| A2 | On Your Own Again |  |
-| A3 | The World's Strongest Man |  |
-| A4 | Angels Of Ashes |  |
-| A5 | Boy Child |  |
-| B1 | Hero Of The War |  |
-| B2 | The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime) |  |
-| B3 | Duchess |  |
-| B4 | Get Behind Me |  |
-| B5 | Rhymes Of Goodbye |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Seventh Seal |
+| A2 | On Your Own Again |
+| A3 | The World's Strongest Man |
+| A4 | Angels Of Ashes |
+| A5 | Boy Child |
+| B1 | Hero Of The War |
+| B2 | The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime) |
+| B3 | Duchess |
+| B4 | Get Behind Me |
+| B5 | Rhymes Of Goodbye |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 3728852 |
-| Notes | Includes download code.<br>Remastered 2013 from original analogue tapes. |
+| Notes | Includes download code. Remastered 2013 from original analogue tapes. |
 | Discogs URL    | [Scott Walker - Scott 4](https://www.discogs.com/release/5758295-Scott-Walker-Scott-4) |

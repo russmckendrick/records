@@ -33,18 +33,18 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dead Imperial Bastard | 4:59 |
-| A2 | Deviant Burials | 6:45 |
-| A3 | No Fun | 4:53 |
-| B1 | Rotten Memories | 3:10 |
-| B2 | Champions Of Disturbance | 9:02 |
-| B3 | Goodbye Then | 5:22 |
-| C1 | Turn To Stone | 7:04 |
-| C2 | Scared And Alone | 8:58 |
-| D1 | Winning A Losing Battle | 9:14 |
-| D2 | We Are The Darkeners | 7:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Dead Imperial Bastard |
+| A2 | Deviant Burials |
+| A3 | No Fun |
+| B1 | Rotten Memories |
+| B2 | Champions Of Disturbance |
+| B3 | Goodbye Then |
+| C1 | Turn To Stone |
+| C2 | Scared And Alone |
+| D1 | Winning A Losing Battle |
+| D2 | We Are The Darkeners |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 | Format         | Vinyl 2× LP Album Limited Edition (Green) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 399LP |
-| Notes | Limited edition of 200 copies worldwide.<br><br>Released in gatefold sleeve with printed insert.<br><br>First cat.# on spine, second cat.# on sticker.<br><br>On label print:<br>A=B<br>B=R<br>C=O<br>D=N |
+| Notes | Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N |
 | Discogs URL    | [Crippled Black Phoenix - Bronze](https://www.discogs.com/release/9310134-Crippled-Black-Phoenix-Bronze) |

@@ -33,18 +33,18 @@ The album peaked with 263,000 units sold in the US.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Out There | 5:53 |
-| A2 | Start Choppin | 5:38 |
-| A3 | What Else Is New | 5:09 |
-| A4 | On The Way | 3:28 |
-| A5 | Not The Same | 6:00 |
-| B1 | Get Me | 5:50 |
-| B2 | Drawerings | 4:48 |
-| B3 | Hide | 4:11 |
-| B4 | Goin Home | 4:15 |
-| B5 | I Ain't Sayin | 2:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Out There |
+| A2 | Start Choppin |
+| A3 | What Else Is New |
+| A4 | On The Way |
+| A5 | Not The Same |
+| B1 | Get Me |
+| B2 | Drawerings |
+| B3 | Hide |
+| B4 | Goin Home |
+| B5 | I Ain't Sayin |
 
 
 ## Apple Music

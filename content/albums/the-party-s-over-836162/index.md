@@ -32,17 +32,17 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Talk Talk | 3:20 |
-| A2 | It's So Serious | 3:19 |
-| A3 | Today | 3:28 |
-| A4 | The Party's Over | 6:10 |
-| B1 | Hate | 3:56 |
-| B2 | Have You Heard The News? | 5:05 |
-| B3 | Mirror Man | 3:18 |
-| B4 | Another Word | 3:12 |
-| B5 | Candy | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Talk Talk |
+| A2 | It's So Serious |
+| A3 | Today |
+| A4 | The Party's Over |
+| B1 | Hate |
+| B2 | Have You Heard The News? |
+| B3 | Mirror Man |
+| B4 | Another Word |
+| B5 | Candy |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3413 |
-| Notes | First issue, with textured outer sleeve.<br>Includes a heavy paper printed inner sleeve with lyrics.<br>Durations do not appear on release.<br><br>Labels:<br>℗1982 Original sound recordings made by EMI Records Ltd.<br>Island Music Ltd.<br>Manufactured in the UK by EMI Records Limited.<br><br>Insert:<br>Lyrics reproduced by kind permission<br>Island Music Publishing Ltd. © 1982<br><br>Sleeve:<br>EMC 3413<br>OC 062-07 646<br>Available on cassette<br>✽<br><br>℗ 1982 Original sound recordings made by EMI Records Ltd.<br><br>EMI Records Ltd.<br>Hayes - Middlesex - England.<br>SP 8207 RS |
+| Notes | First issue, with textured outer sleeve. Includes a heavy paper printed inner sleeve with lyrics. Durations do not appear on release.  Labels: ℗1982 Original sound recordings made by EMI Records Ltd. Island Music Ltd. Manufactured in the UK by EMI Records Limited.  Insert: Lyrics reproduced by kind permission Island Music Publishing Ltd. © 1982  Sleeve: EMC 3413 OC 062-07 646 Available on cassette ✽  ℗ 1982 Original sound recordings made by EMI Records Ltd.  EMI Records Ltd. Hayes - Middlesex - England. SP 8207 RS |
 | Discogs URL    | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162-Talk-Talk-The-Partys-Over) |

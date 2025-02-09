@@ -41,18 +41,18 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bedside Manners |  |
-| A2 | Rats And Clowns |  |
-| A3 | Cross Your Fingers |  |
-| A4 | Wanting And Waiting |  |
-| A5 | Wilted Rose |  |
-| B1 | Dirty Cold Sun |  |
-| B2 | Bleed It Dry |  |
-| B3 | Flesh Wound |  |
-| B4 | Follow The Moon |  |
-| B5 | Kindred Friend |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bedside Manners |
+| A2 | Rats And Clowns |
+| A3 | Cross Your Fingers |
+| A4 | Wanting And Waiting |
+| A5 | Wilted Rose |
+| B1 | Dirty Cold Sun |
+| B2 | Bleed It Dry |
+| B3 | Flesh Wound |
+| B4 | Follow The Moon |
+| B5 | Kindred Friend |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 | Format         | Vinyl LP Album Stereo (Clear) |
 | Label          | Silver Arrow Records |
 | Catalog Number | SAR66 |
-| Notes | Clear LP. Limited edition for independent record stores.<br>The inside of the gatefold sleeve is printed yellow and partially laminated.<br><br>On sticker:<br>Made in CZ<br><br>The runout strings are laser etched.<br> |
+| Notes | Clear LP. Limited edition for independent record stores. The inside of the gatefold sleeve is printed yellow and partially laminated.  On sticker: Made in CZ  The runout strings are laser etched.  |
 | Discogs URL    | [The Black Crowes - Happiness Bastards](https://www.discogs.com/release/30103142-The-Black-Crowes-Happiness-Bastards) |

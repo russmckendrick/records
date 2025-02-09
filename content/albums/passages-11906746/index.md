@@ -31,18 +31,18 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Where Are All The Dreams? | 3:49 |
-| A2 | Suck It Up | 3:04 |
-| A3 | Chemistry | 3:33 |
-| A4 | Fall | 5:02 |
-| A5 | Rounding Out The Square Holes | 3:31 |
-| B1 | How's This Even Going Down? | 4:08 |
-| B2 | So Welcome | 4:16 |
-| B3 | Grateful | 3:46 |
-| B4 | One Day At A Time | 2:37 |
-| B5 | Stripped | 5:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Where Are All The Dreams? |
+| A2 | Suck It Up |
+| A3 | Chemistry |
+| A4 | Fall |
+| A5 | Rounding Out The Square Holes |
+| B1 | How's This Even Going Down? |
+| B2 | So Welcome |
+| B3 | Grateful |
+| B4 | One Day At A Time |
+| B5 | Stripped |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 | Format         | Vinyl LP Album Limited Edition Misprint (Yellow Translucent) |
 | Label          | Absolute |
 | Catalog Number | JJR001LP |
-| Notes | ℗ 2018 Jesus Jones Recordings<br>© 2018 Jesus Jones Recordings<br><br>All songs copyright Mike Edwards 2018 except "Stripped" written by Mike Edwards Published by Sony/ATV<br>Brought to you by Absolute via Universal/Sony DADC<br><br>Limited to 250 copies in a gatefold sleeve with printed inner sleeve.<br>Misprint. Band name printed as "Jesusus Jones" on spine. <br><br>Band signed copies were available via PledgeMusic campaign. |
+| Notes | ℗ 2018 Jesus Jones Recordings © 2018 Jesus Jones Recordings  All songs copyright Mike Edwards 2018 except "Stripped" written by Mike Edwards Published by Sony/ATV Brought to you by Absolute via Universal/Sony DADC  Limited to 250 copies in a gatefold sleeve with printed inner sleeve. Misprint. Band name printed as "Jesusus Jones" on spine.   Band signed copies were available via PledgeMusic campaign. |
 | Discogs URL    | [Jesus Jones - Passages](https://www.discogs.com/release/11906746-Jesus-Jones-Passages) |

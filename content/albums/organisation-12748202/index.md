@@ -29,17 +29,17 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Enola Gay | 3:25 |
-| A2 | 2nd Thought | 4:03 |
-| A3 | VCL XI | 3:45 |
-| A4 | Motion And Heart | 3:08 |
-| A5 | Statues | 4:05 |
-| B1 | The Misunderstanding | 4:40 |
-| B2 | The More I See You | 4:00 |
-| B3 | Promise | 4:38 |
-| B4 | Stanlow | 6:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Enola Gay |
+| A2 | 2nd Thought |
+| A3 | VCL XI |
+| A4 | Motion And Heart |
+| A5 | Statues |
+| B1 | The Misunderstanding |
+| B2 | The More I See You |
+| B3 | Promise |
+| B4 | Stanlow |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin |
 | Catalog Number | 0602557050837 |
-| Notes | Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap.<br>Half speed mastered at Abbey Road Studios.<br><br>All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.<br><br>All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.<br><br>A Virgin EMI Records Release<br>℗ 1980 Virgin Records Ltd.<br>© 2018 Virgin Records Ltd.<br>Made in the EU. |
+| Notes | Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap. Half speed mastered at Abbey Road Studios.  All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.  All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.  A Virgin EMI Records Release ℗ 1980 Virgin Records Ltd. © 2018 Virgin Records Ltd. Made in the EU. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Organisation](https://www.discogs.com/release/12748202-Orchestral-Manoeuvres-In-The-Dark-Organisation) |

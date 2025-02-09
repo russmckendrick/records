@@ -37,16 +37,16 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Untitled #1 | 6:35 |
-| A2 | Untitled #2  | 7:33 |
-| A3 | Untitled #3  | 6:33 |
-| B1 | Untitled #4  | 7:33 |
-| B2 | Untitled #5  | 9:57 |
-| C1 | Untitled #6  | 8:48 |
-| C2 | Untitled #7 | 13:00 |
-| D | Untitled #8 | 11:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Untitled #1 |
+| A2 | Untitled #2  |
+| A3 | Untitled #3  |
+| B1 | Untitled #4  |
+| B2 | Untitled #5  |
+| C1 | Untitled #6  |
+| C2 | Untitled #7 |
+| D | Untitled #8 |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Translucent Haze, 180g, 20th Anniversary Edition) |
 | Label          | Krúnk |
 | Catalog Number | KRUNK79CLP |
-| Notes | Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.<br><br>℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk.<br>© 2022 Krunk |
+| Notes | Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk |
 | Discogs URL    | [Sigur Rós - ( )](https://www.discogs.com/release/25472284-Sigur-Rós--) |

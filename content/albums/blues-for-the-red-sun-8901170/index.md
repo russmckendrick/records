@@ -29,22 +29,22 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thumb | 4:43 |
-| A2 | Green Machine | 3:38 |
-| A3 | Molten Universe | 2:48 |
-| A4 | 50 Million Year Trip  (Downside Up) | 5:46 |
-| A5 | Thong Song | 3:46 |
-| A6 | Apothecaries' Weight | 5:20 |
-| B1 | Caterpillar March | 1:55 |
-| B2 | Freedom Run | 7:37 |
-| B3 | 800 | 1:33 |
-| B4 | Writhe | 3:38 |
-| B5 | Capsized | 0:55 |
-| B6 | Allen's Wrench | 2:42 |
-| B7 | Mondo Generator | 6:15 |
-| B8 | Yeah | 0:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Thumb |
+| A2 | Green Machine |
+| A3 | Molten Universe |
+| A4 | 50 Million Year Trip  (Downside Up) |
+| A5 | Thong Song |
+| A6 | Apothecaries' Weight |
+| B1 | Caterpillar March |
+| B2 | Freedom Run |
+| B3 | 800 |
+| B4 | Writhe |
+| B5 | Capsized |
+| B6 | Allen's Wrench |
+| B7 | Mondo Generator |
+| B8 | Yeah |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 | Format         | Vinyl LP Album Repress (Dark Red Marbled) |
 | Label          | Dali Records |
 | Catalog Number | 3705-61340-1 |
-| Notes | Repress on dark red marbled vinyl.<br><br>℗&©1992 Dali Records. Exclusively distributed by Elektra Entertainment, a division of Warner Communications, INC. in the United States and WEA International for the world excluding the United States, Australia and New Zealand. All rights reserved. Dali Records, 1740 Broadway, New York, Ny 10019 |
+| Notes | Repress on dark red marbled vinyl.  ℗&©1992 Dali Records. Exclusively distributed by Elektra Entertainment, a division of Warner Communications, INC. in the United States and WEA International for the world excluding the United States, Australia and New Zealand. All rights reserved. Dali Records, 1740 Broadway, New York, Ny 10019 |
 | Discogs URL    | [Kyuss - Blues For The Red Sun](https://www.discogs.com/release/8901170-Kyuss-Blues-For-The-Red-Sun) |

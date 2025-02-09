@@ -33,16 +33,16 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Program |  |
-| A1 | CheetahT2 (Ld Spectrum) |  |
-| A2 | CheetahT7b |  |
-| A3 | Cheeta1b ms800 |  |
-| A4 | Cheeta2 ms800 |  |
-|  | Function |  |
-| B1 | Cirklon3 (Колхозная Mix) |  |
-| B2 | Cirklon1 |  |
+| Position | Title |
+|----------|--------|
+|  | Program |
+| A1 | CheetahT2 (Ld Spectrum) |
+| A2 | CheetahT7b |
+| A3 | Cheeta1b ms800 |
+| A4 | Cheeta2 ms800 |
+|  | Function |
+| B1 | Cirklon3 (Колхозная Mix) |
+| B2 | Cirklon1 |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP391 |
-| Notes | Printed on back cover sticker:<br>BMG / Chrysalis<br>Written & produced @ the Dandelion Spaceship (pre-[m=734427])<br>℗ 2016 Warp Records Ltd © 2016 Warp Records Ltd<br>Warp.net / Records<br>WARP logo / Aphex Twin logo / MITDR Logo™️<br>Aphex is a registered trademark of Aphex Systems Ltd and is used by permission<br>Made in EU<br><br>Printed on label, Side A:<br>Aphex Twin Function B1-B2. is on the other side<br><br>Printed on label, Side B:<br>Please flip disc over to access WAP391 Aphex Twin Program A1-A4.<br><br>Printed on spine: <br>Aphex Twin Cheetah EP<br><br>Printed on download card:<br>Aphex Twin Cheetah EP<br><br>Other notes:<br>Glossy inner sleeve |
+| Notes | Printed on back cover sticker: BMG / Chrysalis Written & produced @ the Dandelion Spaceship (pre-[m=734427]) ℗ 2016 Warp Records Ltd © 2016 Warp Records Ltd Warp.net / Records WARP logo / Aphex Twin logo / MITDR Logo™️ Aphex is a registered trademark of Aphex Systems Ltd and is used by permission Made in EU  Printed on label, Side A: Aphex Twin Function B1-B2. is on the other side  Printed on label, Side B: Please flip disc over to access WAP391 Aphex Twin Program A1-A4.  Printed on spine:  Aphex Twin Cheetah EP  Printed on download card: Aphex Twin Cheetah EP  Other notes: Glossy inner sleeve |
 | Discogs URL    | [Aphex Twin - Cheetah EP](https://www.discogs.com/release/8720448-Aphex-Twin-Cheetah-EP) |

@@ -26,30 +26,30 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radio Voltaire | 7:03 |
-| A2 | The Dead Club | 4:09 |
-| A3 | Idlewild | 6:01 |
-| B1 | I Don't Know Why | 5:22 |
-| B2 | I Won't Break So Easily Any More | 5:11 |
-| B3 | Temple Tudor | 4:46 |
-| C1 | Out Of Time | 6:22 |
-| C2 | Warmth Of The Sun | 1:49 |
-| C3 | Grey Shapes On Concrete Fields | 4:41 |
-| D1 | Keep The Faith | 5:35 |
-| D2 | The Silent Fighter Pilot | 4:44 |
-| CD1 | Radio Voltaire | 7:02 |
-| CD2 | The Dead Club | 4:06 |
-| CD3 | Idlewild | 5:59 |
-| CD4 | I Don't Know Why | 5:21 |
-| CD5 | I Won't Break So Easily Any More | 5:26 |
-| CD6 | Temple Tudor | 4:24 |
-| CD7 | Out Of Time | 6:18 |
-| CD8 | Warmth Of The Sun | 1:46 |
-| CD9 | Grey Shapes On Concrete Fields | 4:39 |
-| CD10 | Keep The Faith | 5:32 |
-| CD11 | The Silent Fighter Pilot | 4:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Radio Voltaire |
+| A2 | The Dead Club |
+| A3 | Idlewild |
+| B1 | I Don't Know Why |
+| B2 | I Won't Break So Easily Any More |
+| B3 | Temple Tudor |
+| C1 | Out Of Time |
+| C2 | Warmth Of The Sun |
+| C3 | Grey Shapes On Concrete Fields |
+| D1 | Keep The Faith |
+| D2 | The Silent Fighter Pilot |
+| CD1 | Radio Voltaire |
+| CD2 | The Dead Club |
+| CD3 | Idlewild |
+| CD4 | I Don't Know Why |
+| CD5 | I Won't Break So Easily Any More |
+| CD6 | Temple Tudor |
+| CD7 | Out Of Time |
+| CD8 | Warmth Of The Sun |
+| CD9 | Grey Shapes On Concrete Fields |
+| CD10 | Keep The Faith |
+| CD11 | The Silent Fighter Pilot |
 
 
 ## Apple Music

@@ -76,67 +76,67 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | On The Sunday Of Life |  |
-| A1 | Music For The Head | 2:40 |
-| A2 | Jupiter Island | 6:08 |
-| A3 | Third Eye Surfer | 2:48 |
-| A4 | On The Sunday Of Life | 2:07 |
-| A5 | The Nostalgia Factory  | 7:29 |
-| B1 | Space Transmission  | 2:59 |
-| B2 | Message From A Self Destructing Turnip | 0:27 |
-| B3 | Radioactive Toy | 10:00 |
-| B4 | Nine Cats | 3:54 |
-| C1 | Hymn | 1:16 |
-| C2 | Footprints  | 5:51 |
-| C3 | Linton Samuel Dawson | 3:04 |
-| C4 | And The Swallows Dance Above The Sun | 4:03 |
-| C5 | Queen Quotes Crowley  | 3:50 |
-| D1 | No Luck With Rabbits  | 0:47 |
-| D2 | Begonia Seduction Scene  | 2:18 |
-| D3 | This Long Silence | 4:58 |
-| D4 | It Will Rain For A Million Years | 10:53 |
-|  | Voyage 34 |  |
-| E | Voyage 34 (Phase I) | 12:57 |
-| F | Voyage 34 (Phase II) | 17:30 |
-| G | Voyage 34 (Phase III - Astralasia Dreamstate) | 19:29 |
-| H | Voyage 34 (Phase IV - A New Civilization) | 19:47 |
-|  | Up The Downstair |  |
-| I1 | What You Are Listening To... | 0:57 |
-| I2 | Synesthesia | 5:13 |
-| I3 | Monuments Burn Into Moments | 0:26 |
-| I4 | Always Never | 7:13 |
-| J1 | Up The Downstair | 10:13 |
-| K1 | Not Beautiful Anymore  | 3:26 |
-| K2 | Siren | 0:53 |
-| K3 | Small Fish | 2:49 |
-| L1 | Burning Sky | 11:42 |
-| L2 | Fadeaway | 6:19 |
-|  | Staircase Infinities |  |
-| M1 | Cloud Zero | 4:40 |
-| M2 | The Joke's On You | 4:19 |
-| M3 | Navigator | 4:49 |
-| M4 | Phantoms | 3:17 |
-| N1 | Rainy Taxi | 6:49 |
-| N2 | Yellow Hedgerow Dreamscape | 9:30 |
-|  | Yellow Hedgerow Dreamscape |  |
-| O1 | Mute | 8:06 |
-| O2 | Landscare | 2:59 |
-| O3 | Prayer | 1:38 |
-| O4 | Daughters In Excess  | 6:35 |
-| O5 | Delightful Suicide  | 1:10 |
-| P1 | Split Image  | 1:52 |
-| P2 | No Reason To Live, No Reason To Die | 11:07 |
-| P3 | Wastecoat | 1:11 |
-| P4 | Towel | 3:35 |
-| Q1 | Execution Of The Will Of The Marquis De Sade | 5:07 |
-| Q2 | Track 11 | 3:00 |
-| Q3 | RadioactiveToy | 5:59 |
-| Q4 | An Empty Box | 3:19 |
-| R1 | Out | 8:58 |
-| R2 | Yellow Hedgerow Dreamscape | 10:45 |
-| R3 | Music For The Head | 1:22 |
+| Position | Title |
+|----------|--------|
+|  | On The Sunday Of Life |
+| A1 | Music For The Head |
+| A2 | Jupiter Island |
+| A3 | Third Eye Surfer |
+| A4 | On The Sunday Of Life |
+| A5 | The Nostalgia Factory  |
+| B1 | Space Transmission  |
+| B2 | Message From A Self Destructing Turnip |
+| B3 | Radioactive Toy |
+| B4 | Nine Cats |
+| C1 | Hymn |
+| C2 | Footprints  |
+| C3 | Linton Samuel Dawson |
+| C4 | And The Swallows Dance Above The Sun |
+| C5 | Queen Quotes Crowley  |
+| D1 | No Luck With Rabbits  |
+| D2 | Begonia Seduction Scene  |
+| D3 | This Long Silence |
+| D4 | It Will Rain For A Million Years |
+|  | Voyage 34 |
+| E | Voyage 34 (Phase I) |
+| F | Voyage 34 (Phase II) |
+| G | Voyage 34 (Phase III - Astralasia Dreamstate) |
+| H | Voyage 34 (Phase IV - A New Civilization) |
+|  | Up The Downstair |
+| I1 | What You Are Listening To... |
+| I2 | Synesthesia |
+| I3 | Monuments Burn Into Moments |
+| I4 | Always Never |
+| J1 | Up The Downstair |
+| K1 | Not Beautiful Anymore  |
+| K2 | Siren |
+| K3 | Small Fish |
+| L1 | Burning Sky |
+| L2 | Fadeaway |
+|  | Staircase Infinities |
+| M1 | Cloud Zero |
+| M2 | The Joke's On You |
+| M3 | Navigator |
+| M4 | Phantoms |
+| N1 | Rainy Taxi |
+| N2 | Yellow Hedgerow Dreamscape |
+|  | Yellow Hedgerow Dreamscape |
+| O1 | Mute |
+| O2 | Landscare |
+| O3 | Prayer |
+| O4 | Daughters In Excess  |
+| O5 | Delightful Suicide  |
+| P1 | Split Image  |
+| P2 | No Reason To Live, No Reason To Die |
+| P3 | Wastecoat |
+| P4 | Towel |
+| Q1 | Execution Of The Will Of The Marquis De Sade |
+| Q2 | Track 11 |
+| Q3 | RadioactiveToy |
+| Q4 | An Empty Box |
+| R1 | Out |
+| R2 | Yellow Hedgerow Dreamscape |
+| R3 | Music For The Head |
 
 
 ## Apple Music

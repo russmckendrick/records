@@ -35,21 +35,21 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Electricity | 4:39 |
-| A2 | Savoir Faire | 4:37 |
-| A3 | Can't Get Enough | 3:58 |
-| B1 | Everything Will Flow | 4:41 |
-| B2 | Down | 6:12 |
-| B3 | She's In Fashion | 4:53 |
-| C1 | Asbestos | 5:17 |
-| C2 | Head Music | 3:23 |
-| C3 | Elephant Man | 3:06 |
-| D1 | Hi-Fi | 5:09 |
-| D2 | Indian Strings | 4:21 |
-| D3 | He's Gone | 5:35 |
-| D4 | Crack In The Union Jack | 1:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Electricity |
+| A2 | Savoir Faire |
+| A3 | Can't Get Enough |
+| B1 | Everything Will Flow |
+| B2 | Down |
+| B3 | She's In Fashion |
+| C1 | Asbestos |
+| C2 | Head Music |
+| C3 | Elephant Man |
+| D1 | Hi-Fi |
+| D2 | Indian Strings |
+| D3 | He's Gone |
+| D4 | Crack In The Union Jack |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 | Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 4 |
-| Notes | Mastered at The Townhouse. Pressed at Damont Audio Limited.<br>Designed at Commercial Art.<br>Supplied with download card for the full album. <br>Though reissued in 2014, copyright notice states '(c) 2013'.<br> |
+| Notes | Mastered at The Townhouse. Pressed at Damont Audio Limited.  Designed at Commercial Art.  Supplied with download card for the full album.   Though reissued in 2014, copyright notice states '(c) 2013'.   |
 | Discogs URL    | [Suede - Head Music](https://www.discogs.com/release/5448682-Suede-Head-Music) |

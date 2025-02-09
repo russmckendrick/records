@@ -31,17 +31,17 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Paranormalium | 5:35 |
-| A2 | Synchro Anarchy | 4:25 |
-| A3 | Planet Eaters | 5:33 |
-| A4 | Mind Clock | 6:45 |
-| B1 | Sleeves Off | 4:08 |
-| B2 | Holographic Thinking | 6:12 |
-| B3 | The World Today | 4:10 |
-| B4 | Quest For Nothing | 5:38 |
-| B5 | Memory Failure | 5:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Paranormalium |
+| A2 | Synchro Anarchy |
+| A3 | Planet Eaters |
+| A4 | Mind Clock |
+| B1 | Sleeves Off |
+| B2 | Holographic Thinking |
+| B3 | The World Today |
+| B4 | Quest For Nothing |
+| B5 | Memory Failure |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 | Format         | Vinyl LP Album Stereo (180g) |
 | Label          | Century Media |
 | Catalog Number | 19439967881 |
-| Notes | Regular black vinyl version, includes A2 poster.<br>1 I mirrored in runouts (Variant 2)<br><br>Made in the EU. |
+| Notes | Regular black vinyl version, includes A2 poster. 1 I mirrored in runouts (Variant 2)  Made in the EU. |
 | Discogs URL    | [Voïvod - Synchro Anarchy](https://www.discogs.com/release/22112023-Voïvod-Synchro-Anarchy) |

@@ -122,147 +122,147 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Black Tie White Noise |  |
-| A1 | The Wedding | 5:07 |
-| A2 | You've Been Around | 4:43 |
-| A3 | I Feel Free | 4:52 |
-| B1 | Black Tie White Noise | 4:53 |
-| B2 | Jump They Say | 4:23 |
-| B3 | Nite Flights | 4:37 |
-| C1 | Pallas Athena | 4:40 |
-| C2 | Miracle Goodnight | 4:12 |
-| C3 | Don't Let Me Down & Down | 4:54 |
-| D1 | Looking For Lester | 5:37 |
-| D2 | I Know It's Gonna Happen Someday | 4:07 |
-| D3 | The Wedding Song | 4:30 |
-|  | The Buddha Of Suburbia |  |
-| E1 | Buddha Of Suburbia | 4:28 |
-| E2 | Sex And The Church | 6:25 |
-| E3 | South Horizon | 5:26 |
-| F1 | The Mysteries | 7:12 |
-| F2 | Bleed Like A Craze, Dad | 5:22 |
-| G1 | Strangers When We Meet | 4:58 |
-| G2 | Dead Against It | 5:48 |
-| G3 | Untitled No. 1 | 5:01 |
-| H1 | Ian Fish, U.K. Heir | 6:27 |
-| H2 | Buddha Of Suburbia | 4:19 |
-|  | 1. Outside |  |
-| I1 | Leon Takes Us Outside | 1:26 |
-| I2 | Outside | 4:03 |
-| I3 | The Hearts Filthy Lesson | 4:58 |
-| I4 | A Small Plot Of Land | 6:33 |
-| J1 | Baby Grace (A Horrid Cassette) (Segue) | 1:40 |
-| J2 | Hallo Spaceboy | 5:13 |
-| J3 | The Motel | 6:50 |
-| J4 | I Have Not Been To Oxford Town | 3:50 |
-| K1 | No Control | 4:32 |
-| K2 | Algeria Touchshriek (Segue) | 2:02 |
-| K3 | The Voyeur Of Utter Destruction (As Beauty) | 4:22 |
-| K4 | Ramona A. Stone / I Am With Name (Segue) | 4:01 |
-| K5 | Wishful Beginnings | 5:08 |
-| L1 | We Prick You | 4:35 |
-| L2 | Segue - Nathan Adler Pt.1 | 1:01 |
-| L3 | I'm Deranged | 4:29 |
-| L4 | Thru' These Architect's Eyes | 4:22 |
-| L5 | Segue - Nathan Adler Pt.2 | 0:28 |
-| L6 | Strangers When We Meet | 5:10 |
-|  | Earthling |  |
-| M1 | Little Wonder |  |
-| M2 | Looking For Satellites |  |
-| M3 | Battle For Britain (The Letter) |  |
-| N1 | Seven Years In Tibet |  |
-| N2 | Dead Man Walking |  |
-| N3 | Telling Lies |  |
-| O1 | The Last Thing You Should Do |  |
-| O2 | I'm Afraid Of Americans |  |
-| O3 | Law (Earthlings On Fire) |  |
-|  | 'Hours...'  |  |
-| P1 | Thursday's Child | 5:24 |
-| P2 | Something In The Air | 5:46 |
-| P3 | Survive | 4:11 |
-| P4 | If I'm Dreaming My Life | 7:04 |
-| Q1 | Seven | 4:04 |
-| Q2 | What's Really Happening? | 4:10 |
-| Q3 | The Pretty Things Are Going To Hell | 4:40 |
-| Q4 | New Angels Of Promise | 4:35 |
-| Q5 | Brilliant Adventure | 1:54 |
-| Q6 | The Dreamers | 5:14 |
-|  | BBC Radio Theatre, London, June 27, 2000 |  |
-| R1 | Wild Is The Wind |  |
-| R2 | Ashes To Ashes |  |
-| R3 | Seven |  |
-| S1 | This Is Not America |  |
-| S2 | Absolute Beginners |  |
-| S3 | Always Crashing In The Same Car |  |
-| T1 | Survive |  |
-| T2 | The London Boys |  |
-| T3 | I Dig Everything |  |
-| T4 | Little Wonder |  |
-| U1 | The Man Who Sold The World |  |
-| U2 | Fame |  |
-| U3 | Stay |  |
-| V1 | Hallo Spaceboy |  |
-| V2 | Cracked Actor |  |
-| V3 | I'm Afraid Of Americans |  |
-| V4 | All The Young Dudes |  |
-| W1 | Starman |  |
-| W2 | "Heroes" |  |
-| W3 | Let's Dance |  |
-|  | Toy |  |
-| X1 | I Dig Everything |  |
-| X2 | You've Got A Habit Of Leaving |  |
-| X3 | The London Boys |  |
-| X4 | Karma Man |  |
-| Y1 | Conversation Piece |  |
-| Y2 | Shadow Man |  |
-| Y3 | Let Me Sleep Beside You |  |
-| Y4 | Hole In The Ground |  |
-| Z1 | Baby Loves That Way |  |
-| Z2 | Can't Help Thinking About Me |  |
-| Z3 | Silly Boy Blue |  |
-| Z4 | Toy (Your Turn To Drive) |  |
-|  | Re:Call 5 |  |
-| AA1 | Real Cool World (Sounds From The Cool World Soundtrack Version) |  |
-| AA2 | Jump They Say (7" Version) |  |
-| AA3 | Lucy Can't Dance |  |
-| AA4 | Black Tie White Noise (Radio Edit) |  |
-| AB1 | Don't Let Me Down & Down (Indonesian Vocal Version) |  |
-| AB2 | Buddha Of Suburbia (Single Version) |  |
-| AB3 | The Hearts Filthy Lesson (Radio Edit) |  |
-| AB4 | Nothing To Be Desired |  |
-| AB5 | Strangers When We Meet (Edit) |  |
-| AB6 | Get Real |  |
-| AC1 | The Man Who Sold The World (Live Eno Mix) |  |
-| AC2 | I'm Afraid Of Americans (Showgirls Soundtrack Version) |  |
-| AC3 | Hallo Spaceboy (Remix) |  |
-| AC4 | I Am With Name (Alternative Version) |  |
-| AC5 | A Small Plot Of Land (Long Basquiat Soundtrack Version) |  |
-| AD1 | Little Wonder (Edit) |  |
-| AD2 | A Fleeting Moment (AKA Seven Years In Tibet - Mandarin Version) |  |
-| AD3 | Dead Man Walking (Edit) |  |
-| AD4 | Seven Years In Tibet (Edit) |  |
-| AD5 | Planet Of Dreams |  |
-| AE1 | I'm Afraid Of Americans (V1 Edit) |  |
-| AE2 | I Can't Read (The Ice Storm Long Version) |  |
-| AE3 | A Foggy Day In London Town |  |
-| AE4 | Fun (BowieNet Mix) |  |
-| AE5 | The Pretty Things Are Going To Hell (Stigmata Soundtrack Version) |  |
-| AF1 | Thursday's Child (Radio Edit) |  |
-| AF2 | We All Go Through |  |
-| AF3 | No One Calls |  |
-| AF4 | We Shall Go To Town |  |
-| AF5 | 1917 |  |
-| AG1 | The Pretty Things Are Going To Hell (Edit) |  |
-| AG2 | Thursday's Child (Omikron: The Nomad Soul Version) |  |
-| AG3 | New Angels Of Promise (Omikron: The Nomad Soul Version) |  |
-| AG4 | The Dreamers (Omikron: The Nomad Soul Version) |  |
-| AG5 | Seven (Demo) |  |
-| AH1 | Survive (Marius De Vries Mix) |  |
-| AH2 | Something In The Air (American Psycho Remix) |  |
-| AH3 | Seven (Marius De Vries Mix) |  |
-| AH4 | Pictures Of Lily |  |
+| Position | Title |
+|----------|--------|
+|  | Black Tie White Noise |
+| A1 | The Wedding |
+| A2 | You've Been Around |
+| A3 | I Feel Free |
+| B1 | Black Tie White Noise |
+| B2 | Jump They Say |
+| B3 | Nite Flights |
+| C1 | Pallas Athena |
+| C2 | Miracle Goodnight |
+| C3 | Don't Let Me Down & Down |
+| D1 | Looking For Lester |
+| D2 | I Know It's Gonna Happen Someday |
+| D3 | The Wedding Song |
+|  | The Buddha Of Suburbia |
+| E1 | Buddha Of Suburbia |
+| E2 | Sex And The Church |
+| E3 | South Horizon |
+| F1 | The Mysteries |
+| F2 | Bleed Like A Craze, Dad |
+| G1 | Strangers When We Meet |
+| G2 | Dead Against It |
+| G3 | Untitled No. 1 |
+| H1 | Ian Fish, U.K. Heir |
+| H2 | Buddha Of Suburbia |
+|  | 1. Outside |
+| I1 | Leon Takes Us Outside |
+| I2 | Outside |
+| I3 | The Hearts Filthy Lesson |
+| I4 | A Small Plot Of Land |
+| J1 | Baby Grace (A Horrid Cassette) (Segue) |
+| J2 | Hallo Spaceboy |
+| J3 | The Motel |
+| J4 | I Have Not Been To Oxford Town |
+| K1 | No Control |
+| K2 | Algeria Touchshriek (Segue) |
+| K3 | The Voyeur Of Utter Destruction (As Beauty) |
+| K4 | Ramona A. Stone / I Am With Name (Segue) |
+| K5 | Wishful Beginnings |
+| L1 | We Prick You |
+| L2 | Segue - Nathan Adler Pt.1 |
+| L3 | I'm Deranged |
+| L4 | Thru' These Architect's Eyes |
+| L5 | Segue - Nathan Adler Pt.2 |
+| L6 | Strangers When We Meet |
+|  | Earthling |
+| M1 | Little Wonder |
+| M2 | Looking For Satellites |
+| M3 | Battle For Britain (The Letter) |
+| N1 | Seven Years In Tibet |
+| N2 | Dead Man Walking |
+| N3 | Telling Lies |
+| O1 | The Last Thing You Should Do |
+| O2 | I'm Afraid Of Americans |
+| O3 | Law (Earthlings On Fire) |
+|  | 'Hours...'  |
+| P1 | Thursday's Child |
+| P2 | Something In The Air |
+| P3 | Survive |
+| P4 | If I'm Dreaming My Life |
+| Q1 | Seven |
+| Q2 | What's Really Happening? |
+| Q3 | The Pretty Things Are Going To Hell |
+| Q4 | New Angels Of Promise |
+| Q5 | Brilliant Adventure |
+| Q6 | The Dreamers |
+|  | BBC Radio Theatre, London, June 27, 2000 |
+| R1 | Wild Is The Wind |
+| R2 | Ashes To Ashes |
+| R3 | Seven |
+| S1 | This Is Not America |
+| S2 | Absolute Beginners |
+| S3 | Always Crashing In The Same Car |
+| T1 | Survive |
+| T2 | The London Boys |
+| T3 | I Dig Everything |
+| T4 | Little Wonder |
+| U1 | The Man Who Sold The World |
+| U2 | Fame |
+| U3 | Stay |
+| V1 | Hallo Spaceboy |
+| V2 | Cracked Actor |
+| V3 | I'm Afraid Of Americans |
+| V4 | All The Young Dudes |
+| W1 | Starman |
+| W2 | "Heroes" |
+| W3 | Let's Dance |
+|  | Toy |
+| X1 | I Dig Everything |
+| X2 | You've Got A Habit Of Leaving |
+| X3 | The London Boys |
+| X4 | Karma Man |
+| Y1 | Conversation Piece |
+| Y2 | Shadow Man |
+| Y3 | Let Me Sleep Beside You |
+| Y4 | Hole In The Ground |
+| Z1 | Baby Loves That Way |
+| Z2 | Can't Help Thinking About Me |
+| Z3 | Silly Boy Blue |
+| Z4 | Toy (Your Turn To Drive) |
+|  | Re:Call 5 |
+| AA1 | Real Cool World (Sounds From The Cool World Soundtrack Version) |
+| AA2 | Jump They Say (7" Version) |
+| AA3 | Lucy Can't Dance |
+| AA4 | Black Tie White Noise (Radio Edit) |
+| AB1 | Don't Let Me Down & Down (Indonesian Vocal Version) |
+| AB2 | Buddha Of Suburbia (Single Version) |
+| AB3 | The Hearts Filthy Lesson (Radio Edit) |
+| AB4 | Nothing To Be Desired |
+| AB5 | Strangers When We Meet (Edit) |
+| AB6 | Get Real |
+| AC1 | The Man Who Sold The World (Live Eno Mix) |
+| AC2 | I'm Afraid Of Americans (Showgirls Soundtrack Version) |
+| AC3 | Hallo Spaceboy (Remix) |
+| AC4 | I Am With Name (Alternative Version) |
+| AC5 | A Small Plot Of Land (Long Basquiat Soundtrack Version) |
+| AD1 | Little Wonder (Edit) |
+| AD2 | A Fleeting Moment (AKA Seven Years In Tibet - Mandarin Version) |
+| AD3 | Dead Man Walking (Edit) |
+| AD4 | Seven Years In Tibet (Edit) |
+| AD5 | Planet Of Dreams |
+| AE1 | I'm Afraid Of Americans (V1 Edit) |
+| AE2 | I Can't Read (The Ice Storm Long Version) |
+| AE3 | A Foggy Day In London Town |
+| AE4 | Fun (BowieNet Mix) |
+| AE5 | The Pretty Things Are Going To Hell (Stigmata Soundtrack Version) |
+| AF1 | Thursday's Child (Radio Edit) |
+| AF2 | We All Go Through |
+| AF3 | No One Calls |
+| AF4 | We Shall Go To Town |
+| AF5 | 1917 |
+| AG1 | The Pretty Things Are Going To Hell (Edit) |
+| AG2 | Thursday's Child (Omikron: The Nomad Soul Version) |
+| AG3 | New Angels Of Promise (Omikron: The Nomad Soul Version) |
+| AG4 | The Dreamers (Omikron: The Nomad Soul Version) |
+| AG5 | Seven (Demo) |
+| AH1 | Survive (Marius De Vries Mix) |
+| AH2 | Something In The Air (American Psycho Remix) |
+| AH3 | Seven (Marius De Vries Mix) |
+| AH4 | Pictures Of Lily |
 
 
 ## Apple Music
@@ -279,5 +279,5 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 | Format         | Box Set Compilation Limited Edition, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Single Sided Album Etched Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 3× LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Single Sided Album Etched, Vinyl 4× LP Compilation Remastered |
 | Label          | Parlophone |
 | Catalog Number | DBXL 5 |
-| Notes | BBC Radio Theatre, London, June 27, 2000 & Re:Call 5 are exclusive to this box set.<br>Deluxe box set includes 88 page hardback book.<br><br>Made in Germany<br><br>Black Tie White Noise:<br><br> - Recorded at Mountain Studios, Montreux, 38 Fresh Recording Studios and The Hite Factory, New York. Recorded June - September 1992<br><br> - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd. except:<br> - A2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Gabrels Music (ASCAP) c/o Universal Polygram International Publishing Inc. Rest of world - Tintoretto Music/RZO Music Ltd, Gabrels / Universal/Island Music Ltd.<br> - A3 published by North America  - Unichappell Music Inc. o/b/o Dratleaf Music Ltd. Rest of world - Dratleaf Music Ltd.<br> - B3 published by Conexion Music Limited/Copyright Administrative Services Limited<br> - C3 published by North America - Grounded Music (BMI). Rest of world - Editer A Paris/Fairwood Music Ltd.<br> - D1 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Sony-ATV Songs LLC (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Sony Music Publishing LLC.<br> - D2 published by North America - Universal Music Corporation (ASCAP), Warner-Tamerlane Publishing Corp. (BMI). Rest of world - Artemis Muziekuitgeverij B V/Warner Chappell Artemis Music Limited. Universal Music Corporation.<br><br>[a49758] appears courtesy of [l1000]<br>[a853005] appears courtesy of [l52142]<br>[a105451] appears courtesy of [l1000]<br><br>The Buddha Of Suburbia:<br><br> - Recorded at Mountain Studios, Montreux and O'Henry Sound, Burbank. Recorded June - July 1993<br><br> - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd. <br><br>1.Outside:<br><br> - Recorded at Mountain Studios, Switzerland<br><br> - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK) Limited. except:<br> - I2 published by published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Kevin Alexander Armstrong (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Kevin Alexander Armstrong.<br> - J2, J4, K1, K5, L1, L3, L5 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS).<br>  - J3, L6 by North America - Tintoretto Music (BMI) administered by RZO Music, Inc.  Rest of world - Tintoretto Music/RZO Music Ltd.<br> - K2, K4, L2  published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Strep Throat Music (ASCAP) administered by WB Music Corp., Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Strept Throat Music /WB Music Corp.<br> - K3 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK) Limited.<br> - L4 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Strept Throat Music (ASCAP) administered by WB Music Corp. Rest of world - Tintoretto Music/RZO Music Ltd., Strept Throat Music/WB Music Corp.<br><br>Earthling:<br><br> - Recorded at Looking Glass Studios, NYC<br> - Recorded between March and August 1996<br> - Mixed at Right Track Studios, NYC<br><br> - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd, Exploded View Music/BMG Rights Management (UK) Limited. except:<br> - N2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP), administered by WB Music Corp. Rest of world - Tintoretto Music/RZO Music Ltd, Stept Throat Music/WB Music Corp.<br> - N3 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.<br> - O2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music, Inc. (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS).<br><br>'Hours...'<br><br> - Recorded at Seaview, Bermuda<br> - Overdubs and mix - Looking Glass and Chung King Studios, NYC<br><br> - All songs published by North America  - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp. <br> - P3, Q4, Q5, Q6 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., My Half Music c/o MG Firefly. Rest of world - Nipple Music /RZO Music Ltd., My Half Music / BMG Rights Management (UK) Limited<br> - Q2 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., My Half Music c/o MG Firefly, Angel Inaudible (BMI).  Rest of world - Nipple Music /RZO Music Ltd., My Half Music / BMG Rights Management (UK) Limited, Angel Inaudible (BMI)<br> - Q3 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP) c/o MG Firefly.   Rest of world - Nipple Music /RZO Music Ltd., Exploded View Music / BMG Rights Management (UK) Limited<br><br>BBC Radio Theatre, London, June 27, 2000:<br><br> - Recorded live at the BBC Radio Theartre, BBC Broadcasting House on 27th June, 2000<br> - Mixed at Chung King, NYC (August 2000) and Alice's Restaurant, NYC (March 2000)<br><br> - R1 published by North America - Anne Rachel Music Corp. (ASCAP). Patti Washing Music (ASCAP). Shapiro, Berstein & Co., Inc. o/b/o Catharine Hinen Music (ASCAP). Rest of world -  Shapiro Berstein & Co., Inc., o/b/o Catharine Hine Music (ASCAP) Carlin Music Corp., Universal Music Publishing MGB Ltd.<br> - R2, S3, U1 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd. Rest of world - Tintoretto Music/RZO Music, Ltd., EMI Music Publishing Ltd.<br> - R3, T1 published by North America - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) All rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) All rights on behalf of Strept Throat Music administered by WB Music Corp.<br> - S1 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing, Pat-Meth Music Corp. (BMI), Donna Dijon Music Publications (BMI), OPC Music Publishing Inc. (ASCAP). Rest of world - Jones Music America/RZO Music Ltd. Donna Dijon Music Publications, Pat-Met Music Corp., Sony/ATV Music Publishing (UK) Ltd.<br> - S2 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.<br> - T2, T3 published by North America - Embassy Music Corporation (BMI). Rest of world - Sparta-Florida Music Group Ltd.<br> - T4 published by North America -  Tintoretto Music (BMI) administered by RZO Music Inc., Exploded View Music (ASCAP) c/o BMG Firefly. Rest of world  - Tintoretto Music/RZO Music, Ltd., Exploded View Music/BMG Right Management (UK) Limited<br> - U2 - published by North America - Jones America Music (ASCAP) administered by ARZO Publishing, Unitunes Music (ASCAP) a Division of Unidisc Music Inc., Colgems-Emi Music, Inc. (ASCAP) o/b/o EMI Publishing Ltd., BMG Monach (ASCAP) Lennon Music (BMI). Res of world Jones Music America/RZO Music Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd., Unitunes Music, a Division of Unidisc Music Inc., Lennon Music<br> - U3, V4, W1 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., BMG Blue (BMI). Rest of world - Tintoretto Music/RZO Music, Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd.<br> - V1, V3 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Upala Music Inc. (BMI). Rest of world- Tintoretto Music/RZO Music, Ltd., Opal Music, London (PRS)<br> - V2 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., Chrysalis Songs (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd.<br> - W2 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., Universal Music Careers (BMI). Rest of world -  Rest of world - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd., Universal Music MGB Ltd.<br> - W3 published by North America - Jones America Music (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.<br><br>Toy:<br><br> - Recorded at Sear Sound, The Looking Glass and Alice's Restaurant in New York, Summer 2000<br> - Mixed at The Looking Glass except 'Karma Man' and 'Can't Help Thinking About Me' mixed at Alice's Restaurant <br><br> - X1, X3, Z2 published in North America - Embassy Music Corporation (BMI). Rest of world - Sparta-Florida Music Group Ltd.<br> - X2, Z1 published by North America -  EMI Unart Catalog Inc. (BMI). Rest of world - EMI United Partnership Ltd.<br> - X4 published by North America - Essex Music International, Inc. (ASCAP). Rest of world - Westminster Music Ltd.<br> - Y1 published by North America - Carbert Music, Inc. (BMI). Rest of world - Carlin Music Corp.<br> - Y2 published by North America - Jones Music America (ASCAP) administered b ARZO Publishing, Colgems-EMI Music, Inc. (ASCAP) o/b/o EMI Music Publishing Ltd. Rest of world - Jones Music America, RZO Music Ltd.<br> - Y3 published by North America - Essex Music International, Inc. (ASCAP). Rest of world - Onward Music Ltd.<br> - Y4 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd. UK & Eire - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd. R.O.W excl. US, UK & Eire - Onward Music Ltd.<br> - Z3 published by North America - Embassy Music Corp. (BMI), Hollis Music (BMI). Rest of world - Sparta Florida Music Group Ltd.<br> - Z4 published by North America - Nipple Music (BMI) administered by RZO Music, Inc. Rest of world - Nipple Music/RZO Music Ltd.<br><br>Re:Call 5:<br><br>Publishing for tracks not already listed:<br> - AA1 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Sony/ATV Melody. Rest of world - Tintoretto Music/RZO Music Ltd, Sony/ATV Harmony U.K.	<br> - AA3 -published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.<br> - AB4 - published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK)<br> - AB6 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Universal Songs of Polygram International, Inc. Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS)<br> - AD5  published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.<br>  - AE2 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.<br> - AE3 published by Warner Chappell North America Ltd.<br> - AE4 published by Tintoretto Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP). Rest of world - Tintoretto Music/RZO Music Ltd., Exploded View Music<br> - AF2 to AF5 published by North America - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp.<br> - AH4 published by Essex Music, Inc. (ASCAP) |
+| Notes | BBC Radio Theatre, London, June 27, 2000 & Re:Call 5 are exclusive to this box set. Deluxe box set includes 88 page hardback book.  Made in Germany  Black Tie White Noise:   - Recorded at Mountain Studios, Montreux, 38 Fresh Recording Studios and The Hite Factory, New York. Recorded June - September 1992   - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd. except:  - A2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Gabrels Music (ASCAP) c/o Universal Polygram International Publishing Inc. Rest of world - Tintoretto Music/RZO Music Ltd, Gabrels / Universal/Island Music Ltd.  - A3 published by North America  - Unichappell Music Inc. o/b/o Dratleaf Music Ltd. Rest of world - Dratleaf Music Ltd.  - B3 published by Conexion Music Limited/Copyright Administrative Services Limited  - C3 published by North America - Grounded Music (BMI). Rest of world - Editer A Paris/Fairwood Music Ltd.  - D1 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Sony-ATV Songs LLC (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Sony Music Publishing LLC.  - D2 published by North America - Universal Music Corporation (ASCAP), Warner-Tamerlane Publishing Corp. (BMI). Rest of world - Artemis Muziekuitgeverij B V/Warner Chappell Artemis Music Limited. Universal Music Corporation.  [a49758] appears courtesy of [l1000] [a853005] appears courtesy of [l52142] [a105451] appears courtesy of [l1000]  The Buddha Of Suburbia:   - Recorded at Mountain Studios, Montreux and O'Henry Sound, Burbank. Recorded June - July 1993   - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.   1.Outside:   - Recorded at Mountain Studios, Switzerland   - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK) Limited. except:  - I2 published by published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Kevin Alexander Armstrong (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Kevin Alexander Armstrong.  - J2, J4, K1, K5, L1, L3, L5 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS).   - J3, L6 by North America - Tintoretto Music (BMI) administered by RZO Music, Inc.  Rest of world - Tintoretto Music/RZO Music Ltd.  - K2, K4, L2  published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Strep Throat Music (ASCAP) administered by WB Music Corp., Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Strept Throat Music /WB Music Corp.  - K3 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly.  Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK) Limited.  - L4 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Strept Throat Music (ASCAP) administered by WB Music Corp. Rest of world - Tintoretto Music/RZO Music Ltd., Strept Throat Music/WB Music Corp.  Earthling:   - Recorded at Looking Glass Studios, NYC  - Recorded between March and August 1996  - Mixed at Right Track Studios, NYC   - All songs published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing.  Rest of world - Tintoretto Music/RZO Music Ltd, Exploded View Music/BMG Rights Management (UK) Limited. except:  - N2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP), administered by WB Music Corp. Rest of world - Tintoretto Music/RZO Music Ltd, Stept Throat Music/WB Music Corp.  - N3 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.  - O2 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music, Inc. (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS).  'Hours...'   - Recorded at Seaview, Bermuda  - Overdubs and mix - Looking Glass and Chung King Studios, NYC   - All songs published by North America  - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp.   - P3, Q4, Q5, Q6 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., My Half Music c/o MG Firefly. Rest of world - Nipple Music /RZO Music Ltd., My Half Music / BMG Rights Management (UK) Limited  - Q2 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., My Half Music c/o MG Firefly, Angel Inaudible (BMI).  Rest of world - Nipple Music /RZO Music Ltd., My Half Music / BMG Rights Management (UK) Limited, Angel Inaudible (BMI)  - Q3 published by North America  -  Nipple Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP) c/o MG Firefly.   Rest of world - Nipple Music /RZO Music Ltd., Exploded View Music / BMG Rights Management (UK) Limited  BBC Radio Theatre, London, June 27, 2000:   - Recorded live at the BBC Radio Theartre, BBC Broadcasting House on 27th June, 2000  - Mixed at Chung King, NYC (August 2000) and Alice's Restaurant, NYC (March 2000)   - R1 published by North America - Anne Rachel Music Corp. (ASCAP). Patti Washing Music (ASCAP). Shapiro, Berstein & Co., Inc. o/b/o Catharine Hinen Music (ASCAP). Rest of world -  Shapiro Berstein & Co., Inc., o/b/o Catharine Hine Music (ASCAP) Carlin Music Corp., Universal Music Publishing MGB Ltd.  - R2, S3, U1 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd. Rest of world - Tintoretto Music/RZO Music, Ltd., EMI Music Publishing Ltd.  - R3, T1 published by North America - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) All rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) All rights on behalf of Strept Throat Music administered by WB Music Corp.  - S1 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing, Pat-Meth Music Corp. (BMI), Donna Dijon Music Publications (BMI), OPC Music Publishing Inc. (ASCAP). Rest of world - Jones Music America/RZO Music Ltd. Donna Dijon Music Publications, Pat-Met Music Corp., Sony/ATV Music Publishing (UK) Ltd.  - S2 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.  - T2, T3 published by North America - Embassy Music Corporation (BMI). Rest of world - Sparta-Florida Music Group Ltd.  - T4 published by North America -  Tintoretto Music (BMI) administered by RZO Music Inc., Exploded View Music (ASCAP) c/o BMG Firefly. Rest of world  - Tintoretto Music/RZO Music, Ltd., Exploded View Music/BMG Right Management (UK) Limited  - U2 - published by North America - Jones America Music (ASCAP) administered by ARZO Publishing, Unitunes Music (ASCAP) a Division of Unidisc Music Inc., Colgems-Emi Music, Inc. (ASCAP) o/b/o EMI Publishing Ltd., BMG Monach (ASCAP) Lennon Music (BMI). Res of world Jones Music America/RZO Music Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd., Unitunes Music, a Division of Unidisc Music Inc., Lennon Music  - U3, V4, W1 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., BMG Blue (BMI). Rest of world - Tintoretto Music/RZO Music, Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd.  - V1, V3 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Upala Music Inc. (BMI). Rest of world- Tintoretto Music/RZO Music, Ltd., Opal Music, London (PRS)  - V2 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., Chrysalis Songs (BMI). Rest of world - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd., Chrysalis Music Ltd.  - W2 published by North America - Tintoretto Music (BMI) administered by RZO Music Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd., Universal Music Careers (BMI). Rest of world -  Rest of world - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd., Universal Music MGB Ltd.  - W3 published by North America - Jones America Music (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.  Toy:   - Recorded at Sear Sound, The Looking Glass and Alice's Restaurant in New York, Summer 2000  - Mixed at The Looking Glass except 'Karma Man' and 'Can't Help Thinking About Me' mixed at Alice's Restaurant    - X1, X3, Z2 published in North America - Embassy Music Corporation (BMI). Rest of world - Sparta-Florida Music Group Ltd.  - X2, Z1 published by North America -  EMI Unart Catalog Inc. (BMI). Rest of world - EMI United Partnership Ltd.  - X4 published by North America - Essex Music International, Inc. (ASCAP). Rest of world - Westminster Music Ltd.  - Y1 published by North America - Carbert Music, Inc. (BMI). Rest of world - Carlin Music Corp.  - Y2 published by North America - Jones Music America (ASCAP) administered b ARZO Publishing, Colgems-EMI Music, Inc. (ASCAP) o/b/o EMI Music Publishing Ltd. Rest of world - Jones Music America, RZO Music Ltd.  - Y3 published by North America - Essex Music International, Inc. (ASCAP). Rest of world - Onward Music Ltd.  - Y4 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Screen Gems-EMI Music, Inc. (BMI) o/b/o EMI Music Publishing Ltd. UK & Eire - Tintoretto Music/RZO Music Ltd., EMI Music Publishing Ltd. R.O.W excl. US, UK & Eire - Onward Music Ltd.  - Z3 published by North America - Embassy Music Corp. (BMI), Hollis Music (BMI). Rest of world - Sparta Florida Music Group Ltd.  - Z4 published by North America - Nipple Music (BMI) administered by RZO Music, Inc. Rest of world - Nipple Music/RZO Music Ltd.  Re:Call 5:  Publishing for tracks not already listed:  - AA1 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Sony/ATV Melody. Rest of world - Tintoretto Music/RZO Music Ltd, Sony/ATV Harmony U.K.	  - AA3 -published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.  - AB4 - published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Upala Music Inc. (BMI), Exploded View Music (ASCAP) c/o BMG Firefly, Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Tintoretto Music/RZO Music Ltd., Jones Music America/RZO Music Ltd., Opal Music, London (PRS), Exploded View Music/BMG Rights Management (UK)  - AB6 published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc., Universal Songs of Polygram International, Inc. Rest of world - Tintoretto Music/RZO Music Ltd., Opal Music, London (PRS)  - AD5  published by North America - Tintoretto Music (BMI) administered by RZO Music, Inc. Rest of world - Tintoretto Music/RZO Music Ltd.   - AE2 published by North America - Jones Music America (ASCAP) administered by ARZO Publishing. Rest of world - Jones Music America/RZO Music Ltd.  - AE3 published by Warner Chappell North America Ltd.  - AE4 published by Tintoretto Music (BMI) administered by RZO Music, Inc., Exploded View Music (ASCAP). Rest of world - Tintoretto Music/RZO Music Ltd., Exploded View Music  - AF2 to AF5 published by North America - Nipple Music (BMI) administered by RZO Music, Inc., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp. Rest of world - Nipple Music/RZO Music Ltd., Strept Throat Music (ASCAP) all rights on behalf of Strept Throat Music administered by WB Music Corp.  - AH4 published by Essex Music, Inc. (ASCAP) |
 | Discogs URL    | [David Bowie - Brilliant Adventure [1992-2001]](https://www.discogs.com/release/21131182-David-Bowie-Brilliant-Adventure-1992-2001) |

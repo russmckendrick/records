@@ -66,37 +66,37 @@ The audio is presented in 7.1.4-channel Dolby Atmos.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Flesh? |  |
-| A2 | The Thin Ice |  |
-| A3 | Another Brick In The Wall, Part 1 |  |
-| A4 | The Happiest Days Of Our Lives |  |
-| A5 | Another Brick In The Wall, Part 2 |  |
-| A6 | The Ballad Of Jean Charles De Menezes |  |
-| B1 | Mother |  |
-| B2 | Goodbye Blue Sky |  |
-| B3 | Empty Spaces |  |
-| B4 | What Shall We Do Now? |  |
-| C1 | Young Lust |  |
-| C2 | One Of My Turns |  |
-| C3 | Don't Leave Me Now |  |
-| C4 | Another Brick In The Wall, Part 3 |  |
-| C5 | Last Few Bricks |  |
-| C6 | Goodbye Cruel World |  |
-| D1 | Hey You |  |
-| D2 | Is There Anybody Out There? |  |
-| D3 | Nobody Home |  |
-| D4 | Vera |  |
-| D5 | Bring The Boys Back Home |  |
-| E1 | Comfortably Numb |  |
-| E2 | The Show Must Go On |  |
-| E3 | In The Flesh |  |
-| E4 | Run Like Hell |  |
-| F1 | Waiting For The Worms |  |
-| F2 | Stop |  |
-| F3 | The Trial |  |
-| F4 | Outside The Wall |  |
+| Position | Title |
+|----------|--------|
+| A1 | In The Flesh? |
+| A2 | The Thin Ice |
+| A3 | Another Brick In The Wall, Part 1 |
+| A4 | The Happiest Days Of Our Lives |
+| A5 | Another Brick In The Wall, Part 2 |
+| A6 | The Ballad Of Jean Charles De Menezes |
+| B1 | Mother |
+| B2 | Goodbye Blue Sky |
+| B3 | Empty Spaces |
+| B4 | What Shall We Do Now? |
+| C1 | Young Lust |
+| C2 | One Of My Turns |
+| C3 | Don't Leave Me Now |
+| C4 | Another Brick In The Wall, Part 3 |
+| C5 | Last Few Bricks |
+| C6 | Goodbye Cruel World |
+| D1 | Hey You |
+| D2 | Is There Anybody Out There? |
+| D3 | Nobody Home |
+| D4 | Vera |
+| D5 | Bring The Boys Back Home |
+| E1 | Comfortably Numb |
+| E2 | The Show Must Go On |
+| E3 | In The Flesh |
+| E4 | Run Like Hell |
+| F1 | Waiting For The Worms |
+| F2 | Stop |
+| F3 | The Trial |
+| F4 | Outside The Wall |
 
 
 ## Apple Music
@@ -114,5 +114,5 @@ The audio is presented in 7.1.4-channel Dolby Atmos.
 | Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875155411 |
-| Notes | The Soundtrack From A Film By Roger Waters And Sean Evans<br>3LP in tri-fold jacket on 180-gram audiophile vinyl<br>Includes 16-page book with color photos<br>Made in the EU.<br><br>Live Recording Athens: Le Voyageur |
+| Notes | The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur |
 | Discogs URL    | [Roger Waters - The Wall](https://www.discogs.com/release/7717250-Roger-Waters-The-Wall) |

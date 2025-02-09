@@ -43,21 +43,21 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rich Woman | 4:04 |
-| A2 | Killing The Blues | 4:16 |
-| A3 | Sister Rosetta Goes Before Us | 3:26 |
-| A4 | Polly Come Home | 5:36 |
-| B1 | Gone Gone Gone (Done Moved On) | 3:33 |
-| B2 | Through The Morning, Through The Night | 4:01 |
-| B3 | Please Read The Letter | 5:53 |
-| C1 | Trampled Rose | 5:34 |
-| C2 | Fortune Teller | 4:30 |
-| C3 | Stick With Me Baby | 2:50 |
-| D1 | Nothin’ | 5:33 |
-| D2 | Let Your Loss Be Your Lesson | 4:02 |
-| D3 | Your Long Journey | 3:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Rich Woman |
+| A2 | Killing The Blues |
+| A3 | Sister Rosetta Goes Before Us |
+| A4 | Polly Come Home |
+| B1 | Gone Gone Gone (Done Moved On) |
+| B2 | Through The Morning, Through The Night |
+| B3 | Please Read The Letter |
+| C1 | Trampled Rose |
+| C2 | Fortune Teller |
+| C3 | Stick With Me Baby |
+| D1 | Nothin’ |
+| D2 | Let Your Loss Be Your Lesson |
+| D3 | Your Long Journey |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Rounder Records |
 | Catalog Number | 11661-9075-1 |
-| Notes | 1st vinyl edition<br>℗ & © 2007 Rounder Records Corp.<br><br>Published By:<br>A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI)<br>A2: Graph Music (ASCAP)<br>A3: © Eden Bridge Music (ASCAP) administered by Bug Music <br>A4: © 1969 Irving Music, Inc. (BMI)<br>B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI)<br>B2: © 1969 Irving Music, Inc. (BMI)<br>B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs.<br>C1: Jalma Music (ASCAP)<br>C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI)<br>C3: © 1960 Universal-Cedarwood Publ. (BMI)<br>D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug<br>D2: © 2000 Trice Publishing Co. (BMI)<br>D3: Hillgreen Music (BMI)<br><br>Both records are housed in 140 gage square plastic polythene bags |
+| Notes | 1st vinyl edition ℗ & © 2007 Rounder Records Corp.  Published By: A1: © 1955 Sony/ATV Songs LLC/Venice Music (BMI) A2: Graph Music (ASCAP) A3: © Eden Bridge Music (ASCAP) administered by Bug Music  A4: © 1969 Irving Music, Inc. (BMI) B1: © 1964 Sony/ATV Songs LLC/Acuff Rose Music (BMI) B2: © 1969 Irving Music, Inc. (BMI) B3: © BMG Songs (ASCAP)/BMG Music Publishing International Ltd. (PRS)/Sons Of Einion Limited (PRS)/Succubus Music Ltd. (PRS). All rights for the U.S. on behalf of BMG Songs. Administered by BMG Songs. C1: Jalma Music (ASCAP) C2: © 1962 renewed 1990 Unart Music Corporation. Rights assigned to EMI Catalogue Partnership. All rights controlled and administered by EMI Unart Catalog Inc. (BMI) C3: © 1960 Universal-Cedarwood Publ. (BMI) D1: © 1970 1999 (renewed) JTVZ Music (ASCAP)/Katie Belle Music (ASCAP)/Will Van Zandt Publishing (ASCAP) administered by Bug D2: © 2000 Trice Publishing Co. (BMI) D3: Hillgreen Music (BMI)  Both records are housed in 140 gage square plastic polythene bags |
 | Discogs URL    | [Robert Plant - Raising Sand](https://www.discogs.com/release/1272003-Robert-Plant-Alison-Krauss-Raising-Sand) |

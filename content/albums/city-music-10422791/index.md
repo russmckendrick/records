@@ -45,19 +45,19 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come To Me Now | 4:50 |
-| A2 | Crybaby | 3:58 |
-| A3 | 1234 | 1:45 |
-| A4 | Aboard My Train | 3:19 |
-| A5 | Dry Your Eyes | 4:11 |
-| A6 | City Music | 6:46 |
-| B1 | Tin Can | 3:33 |
-| B2 | Caught In My Eye | 4:49 |
-| B3 | Night Time | 6:07 |
-| B4 | Pearly Gates | 3:50 |
-| B5 | Downtown's Lights | 4:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Come To Me Now |
+| A2 | Crybaby |
+| A3 | 1234 |
+| A4 | Aboard My Train |
+| A5 | Dry Your Eyes |
+| A6 | City Music |
+| B1 | Tin Can |
+| B2 | Caught In My Eye |
+| B3 | Night Time |
+| B4 | Pearly Gates |
+| B5 | Downtown's Lights |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 | Format         | Vinyl LP Album Club Edition (White & Orange Tie-Dye) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC131 |
-| Notes | "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."<br><br>Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.<br><br>All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.<br><br>["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI).<br>["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).<br><br>℗ & © 2017 Dead Oceans, Inc.<br><br>Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016. |
+| Notes | "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."  Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.  All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.  ["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI). ["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).  ℗ & © 2017 Dead Oceans, Inc.  Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016. |
 | Discogs URL    | [Kevin Morby - City Music](https://www.discogs.com/release/10422791-Kevin-Morby-City-Music) |

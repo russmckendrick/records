@@ -39,24 +39,24 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | War Pigs |  |
-| A2 | Paranoid |  |
-| A3 | Planet Caravan |  |
-| A4 | Iron Man |  |
-| B1 | Electric Funeral |  |
-| B2 | Hand Of Doom |  |
-| B3 | Rat Salad |  |
-| B4 | Fairies Wear Boots |  |
-| CD-1 | War Pigs |  |
-| CD-2 | Paranoid |  |
-| CD-3 | Planet Caravan |  |
-| CD-4 | Iron Man |  |
-| CD-5 | Electric Funeral |  |
-| CD-6 | Hand Of Doom |  |
-| CD-7 | Rat Salad |  |
-| CD-8 | Fairies Wear Boots |  |
+| Position | Title |
+|----------|--------|
+| A1 | War Pigs |
+| A2 | Paranoid |
+| A3 | Planet Caravan |
+| A4 | Iron Man |
+| B1 | Electric Funeral |
+| B2 | Hand Of Doom |
+| B3 | Rat Salad |
+| B4 | Fairies Wear Boots |
+| CD-1 | War Pigs |
+| CD-2 | Paranoid |
+| CD-3 | Planet Caravan |
+| CD-4 | Iron Man |
+| CD-5 | Electric Funeral |
+| CD-6 | Hand Of Doom |
+| CD-7 | Rat Salad |
+| CD-8 | Fairies Wear Boots |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 | Format         | Vinyl LP Album Reissue, CD Album Reissue |
 | Label          | Sanctuary |
 | Catalog Number | BMGRM054LP |
-| Notes | Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve.<br>Sticker on shrink-wrap reads: Includes CD of Album<br><br>Vertigo swirl on top left of front cover.<br>Vertigo swirl on side A disc label.<br><br>Recorded at Regent Sound and Island Studios<br>Management/Jim Simpson, Big Bear, Birmingham<br><br>℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]<br>© 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]<br>Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group.<br>Made in EU<br><br> |
+| Notes | Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve.  Sticker on shrink-wrap reads: Includes CD of Album    Vertigo swirl on top left of front cover.  Vertigo swirl on side A disc label.    Recorded at Regent Sound and Island Studios  Management/Jim Simpson, Big Bear, Birmingham    ℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  © 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group.  Made in EU     |
 | Discogs URL    | [Black Sabbath - Paranoid](https://www.discogs.com/release/7161194-Black-Sabbath-Paranoid) |

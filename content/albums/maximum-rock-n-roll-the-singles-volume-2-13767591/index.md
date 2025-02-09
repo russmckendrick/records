@@ -27,22 +27,22 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Accelerator |  |
-| A2 | Miss Lucifer |  |
-| A3 | Autobahn 66 |  |
-| A4 | Some Velvet Morning |  |
-| B5 | Country Girl |  |
-| B6 | Dolls |  |
-| B7 | Sometimes I Feel So Lonely |  |
-| C8 | Can't Go Back |  |
-| C9 | Uptown |  |
-| C10 | 2013 |  |
-| C11 | It's Alright, It's OK |  |
-| D12 | Goodbye Johnny |  |
-| D13 | Where The Light Gets In |  |
-| D14 | 100% Or Nothing |  |
+| Position | Title |
+|----------|--------|
+| A1 | Accelerator |
+| A2 | Miss Lucifer |
+| A3 | Autobahn 66 |
+| A4 | Some Velvet Morning |
+| B5 | Country Girl |
+| B6 | Dolls |
+| B7 | Sometimes I Feel So Lonely |
+| C8 | Can't Go Back |
+| C9 | Uptown |
+| C10 | 2013 |
+| C11 | It's Alright, It's OK |
+| D12 | Goodbye Johnny |
+| D13 | Where The Light Gets In |
+| D14 | 100% Or Nothing |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP (Green), Vinyl LP (White), All Media Compilation Limited Edition Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19075933811 |
-| Notes | Limited 500 copies in gatefold sleeve with download code.<br><br>Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels). |
+| Notes | Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels). |
 | Discogs URL    | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 ](https://www.discogs.com/release/13767591-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-2-) |

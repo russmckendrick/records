@@ -37,25 +37,25 @@ Cosmogramma was promoted with a free "augmented reality" application called Cosm
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Clock Catcher | 1:12 |
-| 2 | Pickled! | 2:13 |
-| 3 | Nose Art | 1:58 |
-| 4 | Intro//A Cosmic Drama | 1:14 |
-| 5 | Zodiac Shit | 2:44 |
-| 6 | Computer Face//Pure Being | 2:32 |
-| 7 | ... And The World Laughs With You | 2:55 |
-| 8 | Arkestry | 2:51 |
-| 9 | MmmHmm | 4:14 |
-| 10 | Do The Astral Plane | 3:57 |
-| 11 | Satelllliiiiiiiteee | 3:49 |
-| 12 | German Haircut | 1:57 |
-| 13 | Recoiled | 3:36 |
-| 14 | Dance Of The Pseudo Nymph | 2:46 |
-| 15 | Drips//Auntie's Harp | 2:10 |
-| 16 | Table Tennis | 3:01 |
-| 17 | Galaxy In Janaki | 2:27 |
+| Position | Title |
+|----------|--------|
+| 1 | Clock Catcher |
+| 2 | Pickled! |
+| 3 | Nose Art |
+| 4 | Intro//A Cosmic Drama |
+| 5 | Zodiac Shit |
+| 6 | Computer Face//Pure Being |
+| 7 | ... And The World Laughs With You |
+| 8 | Arkestry |
+| 9 | MmmHmm |
+| 10 | Do The Astral Plane |
+| 11 | Satelllliiiiiiiteee |
+| 12 | German Haircut |
+| 13 | Recoiled |
+| 14 | Dance Of The Pseudo Nymph |
+| 15 | Drips//Auntie's Harp |
+| 16 | Table Tennis |
+| 17 | Galaxy In Janaki |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Cosmogramma was promoted with a free "augmented reality" application called Cosm
 | Format         | CD Album |
 | Label          | Warp Records |
 | Catalog Number | WARPCD195 |
-| Notes | Released in jewel case.<br><br>Published by Just Isn't Music.<br><br>(P)(C) 2010 Warp Records Limited<br><br>Made in EU.<br> |
+| Notes | Released in jewel case.    Published by Just Isn't Music.    (P)(C) 2010 Warp Records Limited    Made in EU.   |
 | Discogs URL    | [Flying Lotus - Cosmogramma](https://www.discogs.com/release/2595467-Flying-Lotus-Cosmogramma) |

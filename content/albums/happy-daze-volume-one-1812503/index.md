@@ -27,23 +27,23 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loaded |  |
-| A2 | Real, Real, Real |  |
-| A3 | Come Home |  |
-| A4 | Big |  |
-| A5 | Hippy Chick |  |
-| A6 | Velouria |  |
-| A7 | Taste |  |
-| A8 | She Comes In The Fall |  |
-| B1 | Groovy Train |  |
-| B2 | The Only One I Know |  |
-| B3 | Circle Square |  |
-| B4 | Sheriff Fatman |  |
-| B5 | ProGen |  |
-| B6 | Wrote For Luck |  |
-| B7 | I'm Free |  |
+| Position | Title |
+|----------|--------|
+| A1 | Loaded |
+| A2 | Real, Real, Real |
+| A3 | Come Home |
+| A4 | Big |
+| A5 | Hippy Chick |
+| A6 | Velouria |
+| A7 | Taste |
+| A8 | She Comes In The Fall |
+| B1 | Groovy Train |
+| B2 | The Only One I Know |
+| B3 | Circle Square |
+| B4 | Sheriff Fatman |
+| B5 | ProGen |
+| B6 | Wrote For Luck |
+| B7 | I'm Free |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPTV 1 |
-| Notes | ℗ 1990 Island Records Ltd.<br>© 1990 Island Records Ltd.<br> |
+| Notes | ℗ 1990 Island Records Ltd.  © 1990 Island Records Ltd.   |
 | Discogs URL    | [Various - Happy Daze (Volume One)](https://www.discogs.com/release/1812503-Various-Happy-Daze-Volume-One) |

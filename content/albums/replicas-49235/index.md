@@ -38,18 +38,18 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Me! I Disconnect From You | 3:22 |
-| A2 | Are 'Friends' Electric? | 5:24 |
-| A3 | The Machman | 3:07 |
-| A4 | Praying To The Aliens | 3:59 |
-| A5 | Down In The Park | 4:26 |
-| B1 | You Are In My Vision | 3:14 |
-| B2 | Replicas | 5:00 |
-| B3 | It Must Have Been Years | 4:01 |
-| B4 | When The Machines Rock | 3:14 |
-| B5 | I Nearly Married A Human | 6:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Me! I Disconnect From You |
+| A2 | Are 'Friends' Electric? |
+| A3 | The Machman |
+| A4 | Praying To The Aliens |
+| A5 | Down In The Park |
+| B1 | You Are In My Vision |
+| B2 | Replicas |
+| B3 | It Must Have Been Years |
+| B4 | When The Machines Rock |
+| B5 | I Nearly Married A Human |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 7 |
-| Notes | Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London.<br>Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners.<br>Initial copies included a poster.<br><br>There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].<br><br>℗ 1979 Beggars Banquet.<br>© 1979 A Beggars Banquet Recording |
+| Notes | Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London. Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners. Initial copies included a poster.  There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording |
 | Discogs URL    | [Tubeway Army - Replicas](https://www.discogs.com/release/49235-Tubeway-Army-Replicas) |

@@ -35,31 +35,31 @@ The album effectively supersedes the now deleted Divine Madness collection. Tota
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Step Beyond |  |
-| A2 | Baggy Trousers |  |
-| A3 | House Of Fun |  |
-| A4 | Our House |  |
-| A5 | Embarrassment |  |
-| A6 | My Girl |  |
-| B1 | It Must Be Love |  |
-| B2 | Wings Of A Dove |  |
-| B3 | The Sun And The Rain |  |
-| B4 | Grey Day |  |
-| B5 | NW5 |  |
-| C1 | Cardiac Arrest |  |
-| C2 | Tomorrow's (Just Another Day) |  |
-| C3 | Driving In My Car |  |
-| C4 | Bed And Breakfast Man |  |
-| C5 | Lovestruck |  |
-| C6 | One Better Day |  |
-| D1 | Michael Caine |  |
-| D2 | Return Of The Los Palmas 7 |  |
-| D3 | The Prince |  |
-| D4 | Shut Up |  |
-| D5 | Madness |  |
-| D6 | Night Boat To Cairo |  |
+| Position | Title |
+|----------|--------|
+| A1 | One Step Beyond |
+| A2 | Baggy Trousers |
+| A3 | House Of Fun |
+| A4 | Our House |
+| A5 | Embarrassment |
+| A6 | My Girl |
+| B1 | It Must Be Love |
+| B2 | Wings Of A Dove |
+| B3 | The Sun And The Rain |
+| B4 | Grey Day |
+| B5 | NW5 |
+| C1 | Cardiac Arrest |
+| C2 | Tomorrow's (Just Another Day) |
+| C3 | Driving In My Car |
+| C4 | Bed And Breakfast Man |
+| C5 | Lovestruck |
+| C6 | One Better Day |
+| D1 | Michael Caine |
+| D2 | Return Of The Los Palmas 7 |
+| D3 | The Prince |
+| D4 | Shut Up |
+| D5 | Madness |
+| D6 | Night Boat To Cairo |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ The album effectively supersedes the now deleted Divine Madness collection. Tota
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP629 |
-| Notes | Limited edition of 2.000 numbered copies on red vinyl<br>Gatefold Sleeve. Repressed from [r=4071815] master.<br><br>MOV 00[XXXX] [silver print on back sleeve]<br><br>This compilation ℗ and © 2012 Union Square Music Ltd.<br>Made in the EU.<br><br>All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.<br><br>Hype stickers on cellophane bag:<br><br>"Britain's Favourite Band!<br>Featuring<br>Our House<br>One Step Beyond<br>Baggy Trousers<br>It Must Be Love<br>House Of Fun<br>MOVLP629"<br><br>"Music On Vinyl<br>Madness<br>'Total Madness'<br>All Their Greatest Hits<br>Limited Edition of 2000 Coloured Copies<br>Individually Numbered<br>180 gram audiophile vinyl<br>www.musiconvinyl.com MOVLP629"<br> |
+| Notes | Limited edition of 2.000 numbered copies on red vinyl Gatefold Sleeve. Repressed from [r=4071815] master.  MOV 00[XXXX] [silver print on back sleeve]  This compilation ℗ and © 2012 Union Square Music Ltd. Made in the EU.  All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.  Hype stickers on cellophane bag:  "Britain's Favourite Band! Featuring Our House One Step Beyond Baggy Trousers It Must Be Love House Of Fun MOVLP629"  "Music On Vinyl Madness 'Total Madness' All Their Greatest Hits Limited Edition of 2000 Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com MOVLP629"  |
 | Discogs URL    | [Madness - Total Madness](https://www.discogs.com/release/9848793-Madness-Total-Madness) |

@@ -31,29 +31,29 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jean Walks In Fresh Fields | 1:48 |
-| A2 | Grey Skies | 4:17 |
-| A3 | Real To Real | 2:49 |
-| A4 | Tidal Flow | 3:51 |
-| A5 | An Evening In The Ray | 2:48 |
-| A6 | The Winds | 5:10 |
-| B1 | Youth | 3:14 |
-| B2 | Europe After The Rain | 3:58 |
-| B3 | Personal Loss | 2:51 |
-| B4 | Lights Of April | 2:19 |
-| B5 | Sealand | 7:42 |
-| C1 | Private Plane | 3:58 |
-| C2 | Direct Lines | 3:51 |
-| C3 | Unless | 4:38 |
-| C4 | October (Love Song) | 3:51 |
-| C5 | A Map Of You | 3:48 |
-| D1 | WXJL Tonight | 4:35 |
-| D2 | Christiana | 3:36 |
-| D3 | Tiny Children | 3:49 |
-| D4 | Behind The Shades | 5:55 |
-| D5 | Feather Bed | 3:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Jean Walks In Fresh Fields |
+| A2 | Grey Skies |
+| A3 | Real To Real |
+| A4 | Tidal Flow |
+| A5 | An Evening In The Ray |
+| A6 | The Winds |
+| B1 | Youth |
+| B2 | Europe After The Rain |
+| B3 | Personal Loss |
+| B4 | Lights Of April |
+| B5 | Sealand |
+| C1 | Private Plane |
+| C2 | Direct Lines |
+| C3 | Unless |
+| C4 | October (Love Song) |
+| C5 | A Map Of You |
+| D1 | WXJL Tonight |
+| D2 | Christiana |
+| D3 | Tiny Children |
+| D4 | Behind The Shades |
+| D5 | Feather Bed |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["New Wave", "Synth-pop"]
 | Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Label          | Ace |
 | Catalog Number | XXQLP2068W |
-| Notes | The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd<br><br>This compilation P & C 2020 Ace Records Ltd<br><br>White Vinyl version exclusive to Rough Trade in the UK. <br><br>Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"   |
+| Notes | The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd  This compilation P & C 2020 Ace Records Ltd  White Vinyl version exclusive to Rough Trade in the UK.   Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"   |
 | Discogs URL    | [Bob Stanley - The Tears Of Technology](https://www.discogs.com/release/14861335-Bob-Stanley-Pete-Wiggs-The-Tears-Of-Technology) |

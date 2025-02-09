@@ -34,17 +34,17 @@ Initially released as a 2013 split seven-inch single with psych-metal trio Moab,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dimension Shifter |  |
-| A2 | Invaders On My Back |  |
-| A3 | Anxiety Reducer |  |
-| A4 | Radio Source Sagitarius |  |
-| A5 | Mutant |  |
-| B1 | No Warning |  |
-| B2 | Evolution Machine |  |
-| B3 | Triplanetary |  |
-| B4 | The Last Question |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dimension Shifter |
+| A2 | Invaders On My Back |
+| A3 | Anxiety Reducer |
+| A4 | Radio Source Sagitarius |
+| A5 | Mutant |
+| B1 | No Warning |
+| B2 | Evolution Machine |
+| B3 | Triplanetary |
+| B4 | The Last Question |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Initially released as a 2013 split seven-inch single with psych-metal trio Moab,
 | Format         | Vinyl LP Album Repress (Blue Translucent With White Splatter) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD008 |
-| Notes | Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet.<br>Pressing plant uncredited, identified by the matrix numbers.<br><br>[Back cover]<br>℗&© Fu Manchu under license to At The Dojo Records<br><br>[Inner sheet]<br>Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014<br>Additional recording […] at The Racket Room in Santa Ana, CA<br>Mastered […] at Oasis Mastering, Burbank, CA<br><br>Published by: Fu Music (ASCAP)<br><br>The "Management" credit is printed as "Brian Frank for BFrank Management" on the release.<br>The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release.<br>The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release.<br>The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.<br><br>[Labels] <br>℗ & © Fu Manchu under license to At The Dojo Records |
+| Notes | Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet. Pressing plant uncredited, identified by the matrix numbers.  [Back cover] ℗&© Fu Manchu under license to At The Dojo Records  [Inner sheet] Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014 Additional recording […] at The Racket Room in Santa Ana, CA Mastered […] at Oasis Mastering, Burbank, CA  Published by: Fu Music (ASCAP)  The "Management" credit is printed as "Brian Frank for BFrank Management" on the release. The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release. The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release. The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.  [Labels]  ℗ & © Fu Manchu under license to At The Dojo Records |
 | Discogs URL    | [Fu Manchu - Gigantoid](https://www.discogs.com/release/6129307-Fu-Manchu-Gigantoid) |

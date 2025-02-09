@@ -36,15 +36,15 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Cow | 5:07 |
-| A2 | Aja | 7:56 |
-| A3 | Deacon Blues | 7:26 |
-| B1 | Peg | 3:58 |
-| B2 | Home At Last | 5:31 |
-| B3 | I Got The News | 5:03 |
-| B4 | Josie | 4:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Cow |
+| A2 | Aja |
+| A3 | Deacon Blues |
+| B1 | Peg |
+| B2 | Home At Last |
+| B3 | I Got The News |
+| B4 | Josie |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180gms) |
 | Label          | Geffen Records |
 | Catalog Number | B0035028-01 |
-| Notes | A Geffen Records release ℗ 1977 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc. All rights reserved. umgcatalog.com B0035028-01.<br><br>The format of the runouts is as follows:<br>Variant 1: '266344E1 1698750' and '266344E2 1688470' are stamped; everything else is etched<br>Variant 2: '266344E1 1698750' and '266344E2 1707970' are stamped; everything else is etched<br>Variant 3: '266344E1 1655685' and '266344E2 1684364' are stamped; everything else is etched |
+| Notes | A Geffen Records release ℗ 1977 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc. All rights reserved. umgcatalog.com B0035028-01.  The format of the runouts is as follows: Variant 1: '266344E1 1698750' and '266344E2 1688470' are stamped; everything else is etched Variant 2: '266344E1 1698750' and '266344E2 1707970' are stamped; everything else is etched Variant 3: '266344E1 1655685' and '266344E2 1684364' are stamped; everything else is etched |
 | Discogs URL    | [Steely Dan - Aja](https://www.discogs.com/release/28423303-Steely-Dan-Aja) |

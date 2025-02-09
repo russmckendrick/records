@@ -37,32 +37,32 @@ Supported by six singles, the most since their debut, the album was received wit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | People Give In |  |
-| A2 | International Blue |  |
-| A3 | Distant Colours |  |
-| A4 | Vivian |  |
-| A5 | Dylan & Caitlin |  |
-| A6 | Liverpool Revisited |  |
-| B7 | Sequels Of Forgotten Wars |  |
-| B8 | Hold Me Like A Heaven |  |
-| B9 | In Eternity |  |
-| B10 | Broken Algorithms |  |
-| B11 | A Song For The Sadness |  |
-| B12 | The Left Behind |  |
-| CD-1 | People Give In |  |
-| CD-2 | International Blue |  |
-| CD-3 | Distant Colours |  |
-| CD-4 | Vivian |  |
-| CD-5 | Dylan & Caitlin |  |
-| CD-6 | Liverpool Revisited |  |
-| CD-7 | Sequels Of Forgotten Wars |  |
-| CD-8 | Hold Me Like A Heaven |  |
-| CD-9 | In Eternity |  |
-| CD-10 | Broken Algorithms |  |
-| CD-11 | A Song For The Sadness |  |
-| CD-12 | The Left Behind |  |
+| Position | Title |
+|----------|--------|
+| A1 | People Give In |
+| A2 | International Blue |
+| A3 | Distant Colours |
+| A4 | Vivian |
+| A5 | Dylan & Caitlin |
+| A6 | Liverpool Revisited |
+| B7 | Sequels Of Forgotten Wars |
+| B8 | Hold Me Like A Heaven |
+| B9 | In Eternity |
+| B10 | Broken Algorithms |
+| B11 | A Song For The Sadness |
+| B12 | The Left Behind |
+| CD-1 | People Give In |
+| CD-2 | International Blue |
+| CD-3 | Distant Colours |
+| CD-4 | Vivian |
+| CD-5 | Dylan & Caitlin |
+| CD-6 | Liverpool Revisited |
+| CD-7 | Sequels Of Forgotten Wars |
+| CD-8 | Hold Me Like A Heaven |
+| CD-9 | In Eternity |
+| CD-10 | Broken Algorithms |
+| CD-11 | A Song For The Sadness |
+| CD-12 | The Left Behind |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Supported by six singles, the most since their debut, the album was received wit
 | Format         | Vinyl LP Album Limited Edition (White, 180g), CD Album |
 | Label          | Columbia |
 | Catalog Number | 19075809911 |
-| Notes | Includes the album on CD. <br><br><br>Issued in a gatefold sleeve. The gatefold image is different for each vinyl colour variant.<br>Side opening inner sleeve with a portrait, lyrics, credits.<br>Hype sticker applied to the shrink-wrap.<br><br>Tracks are numbered sequentially across each disc, 1 to 12.<br>Made In The E.U. |
+| Notes | Includes the album on CD.    Issued in a gatefold sleeve. The gatefold image is different for each vinyl colour variant. Side opening inner sleeve with a portrait, lyrics, credits. Hype sticker applied to the shrink-wrap.  Tracks are numbered sequentially across each disc, 1 to 12. Made In The E.U. |
 | Discogs URL    | [Manic Street Preachers - Resistance Is Futile](https://www.discogs.com/release/11850128-Manic-Street-Preachers-Resistance-Is-Futile) |

@@ -31,13 +31,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 	21st Century Schizoid Man (Including "Mirrors") |  |
-| A2 | 	I Talk To The Wind |  |
-| A3 | Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow") |  |
-| B1 | Moonchild (Including "The Dream" And "The Illusion") |  |
-| B2 | The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") |  |
+| Position | Title |
+|----------|--------|
+| A1 | 	21st Century Schizoid Man (Including "Mirrors") |
+| A2 | 	I Talk To The Wind |
+| A3 | Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow") |
+| B1 | Moonchild (Including "The Dream" And "The Illusion") |
+| B2 | The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear) |
 | Label          | Panegyric |
 | Catalog Number | KCLP1 |
-| Notes | Rough Trade Essential Edition, limited to 1000 copies on 180gr clear vinyl.<br>Gatefold sleeve, with OBI.<br><br>℗ & © 2010 Robert Fripp.<br>Made in England |
+| Notes | Rough Trade Essential Edition, limited to 1000 copies on 180gr clear vinyl. Gatefold sleeve, with OBI.  ℗ & © 2010 Robert Fripp. Made in England |
 | Discogs URL    | [King Crimson - In The Court Of The Crimson King (An Observation By King Crimson)](https://www.discogs.com/release/23486366-King-Crimson-In-The-Court-Of-The-Crimson-King-An-Observation-By-King-Crimson) |

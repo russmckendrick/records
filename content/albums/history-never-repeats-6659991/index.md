@@ -31,11 +31,11 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | History Never Repeats | 3:00 |
-| B1 | Shark Attack | 3:00 |
-| B2 | What's The Matter With You | 4:34 |
+| Position | Title |
+|----------|--------|
+| A | History Never Repeats |
+| B1 | Shark Attack |
+| B2 | What's The Matter With You |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 | Format         | Vinyl 7" 45 RPM Single Etched |
 | Label          | A&M Records |
 | Catalog Number | AMS 8128 |
-| Notes | A-side has a laser etched pattern on the vinyl.<br><br>B1 and B2 recorded live at the Hammersmith Odeon.<br><br>℗ 1981 Mushroom Records Pty. Ltd.<br><br>A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.<br> |
+| Notes | A-side has a laser etched pattern on the vinyl.    B1 and B2 recorded live at the Hammersmith Odeon.    ℗ 1981 Mushroom Records Pty. Ltd.    A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.   |
 | Discogs URL    | [Split Enz - History Never Repeats](https://www.discogs.com/release/6659991-Split-Enz-History-Never-Repeats) |

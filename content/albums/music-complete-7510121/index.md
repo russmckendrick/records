@@ -33,19 +33,19 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Restless | 5:26 |
-| A2 | Singularity | 5:37 |
-| A3 | Plastic | 6:58 |
-| B1 | Tutti Frutti | 6:22 |
-| B2 | People On The High Line | 5:41 |
-| B3 | Stray Dog | 6:14 |
-| C1 | Academic | 5:54 |
-| C2 | Nothing But A Fool | 7:42 |
-| D1 | Unlearn This Hatred | 4:18 |
-| D2 | The Game | 5:06 |
-| D3 | Superheated | 5:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Restless |
+| A2 | Singularity |
+| A3 | Plastic |
+| B1 | Tutti Frutti |
+| B2 | People On The High Line |
+| B3 | Stray Dog |
+| C1 | Academic |
+| C2 | Nothing But A Fool |
+| D1 | Unlearn This Hatred |
+| D2 | The Game |
+| D3 | Superheated |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 | Format         | Vinyl 2× LP Album |
 | Label          | Mute |
 | Catalog Number | STUMM390 |
-| Notes | This is the non-limited black vinyl edition which includes a 12 page booklet featuring variations of the 'lines' artwork in black & white and recording credits. A code to redeem a digital copy of the album in both 96khz/24-bit FLAC and 320kbps MP3 formats from the Mute web site is also included on a sticker on the inner vinyl bag. Issued in a Gatefold sleeve as all other versions.<br>Additional notes from the booklet state:<br><br>· Managed by Rebecca Boulton and Andrew Robinson at Prime Management.<br>· New Order published by Universal Music Publishing,<br>· Tom Rowlands published by BMG Rights Management (UK) Ltd.,<br>· Brandon Flowers published by Universal-Polygram International Publishing Inc. (ASCAP).<br>· Richard X appears courtesy of blackmelody.com<br>· Pete Hofmann appears courtesy of gothamproducers.com<br>· Iggy Pop appears courtesy of Thousand Mile Inc.<br>· Strings recorded at 80 Hertz Studios, The Sharp Project, Manchester.<br><br>℗&© 2015 New Order Ltd. under exclusive license to Mute Artists Ltd. Printed in the EU. |
+| Notes | This is the non-limited black vinyl edition which includes a 12 page booklet featuring variations of the 'lines' artwork in black & white and recording credits. A code to redeem a digital copy of the album in both 96khz/24-bit FLAC and 320kbps MP3 formats from the Mute web site is also included on a sticker on the inner vinyl bag. Issued in a Gatefold sleeve as all other versions. Additional notes from the booklet state:  · Managed by Rebecca Boulton and Andrew Robinson at Prime Management. · New Order published by Universal Music Publishing, · Tom Rowlands published by BMG Rights Management (UK) Ltd., · Brandon Flowers published by Universal-Polygram International Publishing Inc. (ASCAP). · Richard X appears courtesy of blackmelody.com · Pete Hofmann appears courtesy of gothamproducers.com · Iggy Pop appears courtesy of Thousand Mile Inc. · Strings recorded at 80 Hertz Studios, The Sharp Project, Manchester.  ℗&© 2015 New Order Ltd. under exclusive license to Mute Artists Ltd. Printed in the EU. |
 | Discogs URL    | [New Order - Music Complete](https://www.discogs.com/release/7510121-New-Order-Music-Complete) |

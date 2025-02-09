@@ -32,20 +32,20 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stolen Car |  |
-| A2 | Sweetest Decline |  |
-| A3 | Couldn't Cause Me Harm |  |
-| B1 | So Much More |  |
-| B2 | Pass In Time |  |
-| B3 | Central Reservation |  |
-| C1 | Stars All Seem To Weep |  |
-| C2 | Love Like Laughter |  |
-| C3 | Blood Red River |  |
-| D1 | Devil Song |  |
-| D2 | Feel To Believe |  |
-| D3 | Central Reservation (The Then Again Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Stolen Car |
+| A2 | Sweetest Decline |
+| A3 | Couldn't Cause Me Harm |
+| B1 | So Much More |
+| B2 | Pass In Time |
+| B3 | Central Reservation |
+| C1 | Stars All Seem To Weep |
+| C2 | Love Like Laughter |
+| C3 | Blood Red River |
+| D1 | Devil Song |
+| D2 | Feel To Believe |
+| D3 | Central Reservation (The Then Again Version) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Red [Pillar Box]) |
 | Label          | Sony Music |
 | Catalog Number | 19439 95678 1 |
-| Notes | Released for Record Store Day 2022 on Pillar Box Red Vinyl<br><br> |
+| Notes | Released for Record Store Day 2022 on Pillar Box Red Vinyl   |
 | Discogs URL    | [Beth Orton - Central Reservation](https://www.discogs.com/release/23031092-Beth-Orton-Central-Reservation) |

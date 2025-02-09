@@ -51,18 +51,18 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| E1 | Spinning My Wheels |  |
-| E2 | Still Thinkin' |  |
-| E3 | Climbing The Ladder |  |
-| E4 | Feel You |  |
-| E5 | Beautiful Love (Wasn't Enough) |  |
-| F1 | Magic Bullet |  |
-| F2 | Run It |  |
-| F3 | Wasted |  |
-| F4 | Welcome Home |  |
-| F5 | The First Time |  |
+| Position | Title |
+|----------|--------|
+| E1 | Spinning My Wheels |
+| E2 | Still Thinkin' |
+| E3 | Climbing The Ladder |
+| E4 | Feel You |
+| E5 | Beautiful Love (Wasn't Enough) |
+| F1 | Magic Bullet |
+| F2 | Run It |
+| F3 | Wasted |
+| F4 | Welcome Home |
+| F5 | The First Time |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 | Format         | Vinyl LP Album (Clear) |
 | Label          | ATO Records |
 | Catalog Number | ATO0530LP |
-| Notes | Standard clear version<br><br>Brittany Howard appears courtesy of ATO Records<br> |
+| Notes | Standard clear version  Brittany Howard appears courtesy of ATO Records  |
 | Discogs URL    | [My Morning Jacket - The Waterfall II](https://www.discogs.com/release/15837565-My-Morning-Jacket-The-Waterfall-II) |

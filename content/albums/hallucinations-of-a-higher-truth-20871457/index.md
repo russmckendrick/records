@@ -31,18 +31,18 @@ styles: ["Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Morning | 4:10 |
-| A2 | I'll See You Around | 4:39 |
-| A3 | Better Than You | 2:38 |
-| A4 | Fsus | 2:10 |
-| A5 | Caroline | 4:02 |
-| B1 | Answers In Your Soul | 4:35 |
-| B2 | People Should Be Friendly | 3:00 |
-| B3 | Off To Work | 2:37 |
-| B4 | Time & Death | 1:43 |
-| B5 | Evil In Your Eye | 5:56 |
+| Position | Title |
+|----------|--------|
+| A1 | In The Morning |
+| A2 | I'll See You Around |
+| A3 | Better Than You |
+| A4 | Fsus |
+| A5 | Caroline |
+| B1 | Answers In Your Soul |
+| B2 | People Should Be Friendly |
+| B3 | Off To Work |
+| B4 | Time & Death |
+| B5 | Evil In Your Eye |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Crimson Nebula Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 5 |
-| Notes | Super Deluxe Crimson Nebula Edition.<br>Limited Edition of 500.<br>Gatefold sleeve with black poly-lined inner sleeve.<br>All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young.<br>All songs performed and produced by Bill Fisher.<br>Recorded at The Rainbow Lodge, Nottingham, England.<br>Mastered by Lira Wish at Film-Maker Studios.<br>Art and design by Zorad.<br>©℗ 2021 Bill Fisher |
+| Notes | Super Deluxe Crimson Nebula Edition. Limited Edition of 500. Gatefold sleeve with black poly-lined inner sleeve. All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young. All songs performed and produced by Bill Fisher. Recorded at The Rainbow Lodge, Nottingham, England. Mastered by Lira Wish at Film-Maker Studios. Art and design by Zorad. ©℗ 2021 Bill Fisher |
 | Discogs URL    | [Bill Fisher - Hallucinations Of A Higher Truth](https://www.discogs.com/release/20871457-Bill-Fisher-Hallucinations-Of-A-Higher-Truth) |

@@ -33,19 +33,19 @@ It was Dire Straits' most commercially successful single, peaking at number 1 fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sultans Of Swing |  |
-| A2 | Down To The Waterline |  |
-| A3 | Portobello Belle - Live |  |
-| A4 | Twisting By The Pool (Remix) |  |
-| A5 | Romeo And Juliet |  |
-| A6 | Where Do You Think You're Going |  |
-| B1 | Walk Of Life |  |
-| B2 | Private Investigations |  |
-| B3 | Money For Nothing |  |
-| B4 | Tunnel Of Love |  |
-| B5 | Brothers In Arms |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sultans Of Swing |
+| A2 | Down To The Waterline |
+| A3 | Portobello Belle - Live |
+| A4 | Twisting By The Pool (Remix) |
+| A5 | Romeo And Juliet |
+| A6 | Where Do You Think You're Going |
+| B1 | Walk Of Life |
+| B2 | Private Investigations |
+| B3 | Money For Nothing |
+| B4 | Tunnel Of Love |
+| B5 | Brothers In Arms |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ It was Dire Straits' most commercially successful single, peaking at number 1 fo
 | Format         | Vinyl LP Compilation |
 | Label          | Vertigo |
 | Catalog Number | VERH 64 |
-| Notes | Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).<br><br>Issued with a lyric inner sleeve. |
+| Notes | Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).    Issued with a lyric inner sleeve. |
 | Discogs URL    | [Dire Straits - Money For Nothing](https://www.discogs.com/release/1971903-Dire-Straits-Money-For-Nothing) |

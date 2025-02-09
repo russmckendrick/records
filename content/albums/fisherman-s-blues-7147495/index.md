@@ -29,19 +29,19 @@ the Waterboys' best selling album, reaching a number 13 placing on the U.K. char
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fisherman's Blues |  |
-| A2 | We Will Not Be Lovers |  |
-| A3 | Strange Boat |  |
-| A4 | World Party |  |
-| A5 | Sweet Thing |  |
-| B1 | And A Bang On The Ear |  |
-| B2 | Has Anybody Here Seen Hank? |  |
-| B3 | When Will We Be Married? |  |
-| B4 | When Ye Go Away |  |
-| B5 | Dunford’s Fancy |  |
-| B6 | The Stolen Child |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fisherman's Blues |
+| A2 | We Will Not Be Lovers |
+| A3 | Strange Boat |
+| A4 | World Party |
+| A5 | Sweet Thing |
+| B1 | And A Bang On The Ear |
+| B2 | Has Anybody Here Seen Hank? |
+| B3 | When Will We Be Married? |
+| B4 | When Ye Go Away |
+| B5 | Dunford’s Fancy |
+| B6 | The Stolen Child |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ the Waterboys' best selling album, reaching a number 13 placing on the U.K. char
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Chrysalis |
 | Catalog Number | CHEN 5 |
-| Notes | www.mikescottwaterboys.com<br><br>Made in the E.U.<br><br>Track B5 not listed on rear sleeve. Listed on label and printed inner sleeve.<br><br>Track B6 contains a coda of “This Land Is Your Land” that is not credited on sleeve, but is partially acknowledged on the label and inner sleeve.  |
+| Notes | www.mikescottwaterboys.com  Made in the E.U.  Track B5 not listed on rear sleeve. Listed on label and printed inner sleeve.  Track B6 contains a coda of “This Land Is Your Land” that is not credited on sleeve, but is partially acknowledged on the label and inner sleeve.  |
 | Discogs URL    | [The Waterboys - Fisherman's Blues](https://www.discogs.com/release/7147495-The-Waterboys-Fishermans-Blues) |

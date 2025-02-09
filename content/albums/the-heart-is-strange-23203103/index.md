@@ -31,16 +31,16 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Night | 6:00 |
-| A2 | Chasing Utopia | 5:24 |
-| A3 | Beauty Is Truth | 5:29 |
-| A4 | Only Human | 3:03 |
-| B1 | Don't (You Mess With Me) | 3:20 |
-| B2 | No Ordinary Girl | 4:43 |
-| B3 | The Wolves Are Returning | 5:01 |
-| B4 | Ribbons Of Steel | 9:42 |
+| Position | Title |
+|----------|--------|
+| A1 | The Night |
+| A2 | Chasing Utopia |
+| A3 | Beauty Is Truth |
+| A4 | Only Human |
+| B1 | Don't (You Mess With Me) |
+| B2 | No Ordinary Girl |
+| B3 | The Wolves Are Returning |
+| B4 | Ribbons Of Steel |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album |
 | Label          | ZTT |
 | Catalog Number | ZTTnovis1 |
-| Notes | Sticker on front sleeve:<br>"xPropaganda<br>xTheHeartIsStrange<br>///////////////////////////////////////////<br>xClaudiaBrücken<br>xSusanneFreytag<br>//////////////////////////////////////////<br>xProducedBy<br>xStephenLipson<br>/////////////////////////////////////////<br>>Don't(YouMessWithMe)<br>>OnlyHuman<br>>TheWolvesAreReturning<br>>BeautyIsTruth<br><br>ZTTnovis1<br>3838272"<br><br>Runouts are etched except "-59257-" which is stamped. |
+| Notes | Sticker on front sleeve: "xPropaganda xTheHeartIsStrange /////////////////////////////////////////// xClaudiaBrücken xSusanneFreytag ////////////////////////////////////////// xProducedBy xStephenLipson ///////////////////////////////////////// >Don't(YouMessWithMe) >OnlyHuman >TheWolvesAreReturning >BeautyIsTruth  ZTTnovis1 3838272"  Runouts are etched except "-59257-" which is stamped. |
 | Discogs URL    | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |

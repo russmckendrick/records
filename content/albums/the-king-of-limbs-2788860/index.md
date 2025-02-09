@@ -37,16 +37,16 @@ There are more straightforward moments here, especially the piano ache of “Cod
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bloom |  |
-| A2 | Morning Mr Magpie |  |
-| A3 | Little By Little |  |
-| A4 | Feral |  |
-| B1 | Lotus Flower |  |
-| B2 | Codex |  |
-| B3 | Give Up The Ghost |  |
-| B4 | Separator |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bloom |
+| A2 | Morning Mr Magpie |
+| A3 | Little By Little |
+| A4 | Feral |
+| B1 | Lotus Flower |
+| B2 | Codex |
+| B3 | Give Up The Ghost |
+| B4 | Separator |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ There are more straightforward moments here, especially the piano ache of “Cod
 | Format         | Vinyl LP Album |
 | Label          | Ticker Tape Ltd. |
 | Catalog Number | TICK001LP |
-| Notes | Mastered at Gateway Mastering & DVD<br>℗ & © 2011 Ticker Tape Ltd.<br>Published by Ticker Tape Ltd.<br>Made in the EU<br><br>PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve<br><br>Includes a voucher for an MP3 download of the album and a printed inner sleeve.<br><br>Download link now redirects to a different page and codes are no longer accepted for download. |
+| Notes | Mastered at Gateway Mastering & DVD ℗ & © 2011 Ticker Tape Ltd. Published by Ticker Tape Ltd. Made in the EU  PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve  Includes a voucher for an MP3 download of the album and a printed inner sleeve.  Download link now redirects to a different page and codes are no longer accepted for download. |
 | Discogs URL    | [Radiohead - The King Of Limbs](https://www.discogs.com/release/2788860-Radiohead-The-King-Of-Limbs) |

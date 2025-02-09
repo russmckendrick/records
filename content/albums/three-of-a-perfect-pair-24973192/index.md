@@ -34,19 +34,19 @@ Three of a Perfect Pair is the tenth studio album by English progressive rock ba
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Left Side |  |
-| A1 | Three Of A Perfect Pair |  |
-| A2 | Model Man |  |
-| A3 | Sleepless |  |
-| A4 | Man With An Open Heart |  |
-| A5 | Nuages (That Which Passes, Passes Like Clouds) |  |
-|  | Right Side |  |
-| B1 | Industry |  |
-| B2 | Dig Me |  |
-| B3 | No Warning |  |
-| B4 | Larks' Tongues In Aspic Part III |  |
+| Position | Title |
+|----------|--------|
+|  | Left Side |
+| A1 | Three Of A Perfect Pair |
+| A2 | Model Man |
+| A3 | Sleepless |
+| A4 | Man With An Open Heart |
+| A5 | Nuages (That Which Passes, Passes Like Clouds) |
+|  | Right Side |
+| B1 | Industry |
+| B2 | Dig Me |
+| B3 | No Warning |
+| B4 | Larks' Tongues In Aspic Part III |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Three of a Perfect Pair is the tenth studio album by English progressive rock ba
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP10 |
-| Notes | Sticker on wrap reads as follows:<br>KCLLP10<br>200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].<br><br>All songs © Universal Music MGB Ltd<br><br>Back:<br>℗ & © 2019 Robert Fripp<br><br>Labels:<br>Made in England. ℗ & © 2019 Robert Fripp.<br><br>Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale.<br>All runouts etched |
+| Notes | Sticker on wrap reads as follows: KCLLP10 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale. All runouts etched |
 | Discogs URL    | [King Crimson - Three Of A Perfect Pair](https://www.discogs.com/release/24973192-King-Crimson-Three-Of-A-Perfect-Pair) |

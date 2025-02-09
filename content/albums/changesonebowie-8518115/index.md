@@ -35,19 +35,19 @@ The album was followed up by a companion compilation, Changestwobowie, in 1981.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Space Oddity | 5:10 |
-| A2 | John, I'm Only Dancing | 2:43 |
-| A3 | Changes | 3:34 |
-| A4 | Ziggy Stardust | 3:13 |
-| A5 | Suffragette City | 3:20 |
-| A6 | The Jean Genie | 4:04 |
-| B1 | Diamond Dogs | 5:58 |
-| B2 | Rebel Rebel | 4:25 |
-| B3 | Young Americans | 5:07 |
-| B4 | Fame | 4:10 |
-| B5 | Golden Years | 3:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Space Oddity |
+| A2 | John, I'm Only Dancing |
+| A3 | Changes |
+| A4 | Ziggy Stardust |
+| A5 | Suffragette City |
+| A6 | The Jean Genie |
+| B1 | Diamond Dogs |
+| B2 | Rebel Rebel |
+| B3 | Young Americans |
+| B4 | Fame |
+| B5 | Golden Years |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album was followed up by a companion compilation, Changestwobowie, in 1981.
 | Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
 | Label          | Parlophone |
 | Catalog Number | COBLP 2016 |
-| Notes | Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve.<br>Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url].<br>No mention of the vinyl colour on the sleeve or the sticker.<br> |
+| Notes | Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url]. No mention of the vinyl colour on the sleeve or the sticker.  |
 | Discogs URL    | [David Bowie - ChangesOneBowie](https://www.discogs.com/release/8518115-David-Bowie-ChangesOneBowie) |

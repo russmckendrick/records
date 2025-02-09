@@ -40,18 +40,18 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dreamline |  |
-| A2 | Bravado |  |
-| A3 | Roll The Bones |  |
-| A4 | Face Up |  |
-| A5 | Where's My Thing? (Part IV, "Gangster Of Boats" Trilogy) |  |
-| B1 | The Big Wheel |  |
-| B2 | Heresy |  |
-| B3 | Ghost Of A Chance |  |
-| B4 | Neurotica |  |
-| B5 | You Bet Your Life |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dreamline |
+| A2 | Bravado |
+| A3 | Roll The Bones |
+| A4 | Face Up |
+| A5 | Where's My Thing? (Part IV, "Gangster Of Boats" Trilogy) |
+| B1 | The Big Wheel |
+| B2 | Heresy |
+| B3 | Ghost Of A Chance |
+| B4 | Neurotica |
+| B5 | You Bet Your Life |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 83737 |
-| Notes | Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto.<br>Mixed at Nomis Studios, London.<br>Pre-production work at Chalet Studio by Lerxst Sound.<br>Mastered at Masterdisk, NYC.<br><br>℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment<br><br>Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download. |
+| Notes | Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto. Mixed at Nomis Studios, London. Pre-production work at Chalet Studio by Lerxst Sound. Mastered at Masterdisk, NYC.  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download. |
 | Discogs URL    | [Rush - Roll The Bones](https://www.discogs.com/release/7632117-Rush-Roll-The-Bones) |

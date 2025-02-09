@@ -35,32 +35,32 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Rush |  |
-| A1 | Finding My Way | 5:03 |
-| A2 | Need Some Love | 2:16 |
-| A3 | Take A Friend | 4:27 |
-| A4 | Here Again | 7:30 |
-| B1 | What You're Doing | 4:19 |
-| B2 | In The Mood | 3:36 |
-| B3 | Before And After | 5:53 |
-| B4 | Working Man | 7:07 |
-|  | Fly By Night |  |
-| C1 | Anthem | 4:10 |
-| C2 | Best I Can | 3:24 |
-| C3 | Beneath, Between And Behind | 3:00 |
-|  | By-Tor And The Snow Dog | 8:57 |
-| D1 | Fly By Night | 3:20 |
-| D2 | Making Memories | 2:56 |
-| D3 | Rivendell | 5:00 |
-| D4 | In The End | 6:51 |
-|  | Caress Of Steel |  |
-| E1 | Bastille Day | 4:36 |
-| E2 | I Think I'm Going Bald | 3:35 |
-| E3 | Lakeside Park | 4:07 |
-|  | The Necromancer |  |
-|  | The Fountain Of Lamneth |  |
+| Position | Title |
+|----------|--------|
+|  | Rush |
+| A1 | Finding My Way |
+| A2 | Need Some Love |
+| A3 | Take A Friend |
+| A4 | Here Again |
+| B1 | What You're Doing |
+| B2 | In The Mood |
+| B3 | Before And After |
+| B4 | Working Man |
+|  | Fly By Night |
+| C1 | Anthem |
+| C2 | Best I Can |
+| C3 | Beneath, Between And Behind |
+|  | By-Tor And The Snow Dog |
+| D1 | Fly By Night |
+| D2 | Making Memories |
+| D3 | Rivendell |
+| D4 | In The End |
+|  | Caress Of Steel |
+| E1 | Bastille Day |
+| E2 | I Think I'm Going Bald |
+| E3 | Lakeside Park |
+|  | The Necromancer |
+|  | The Fountain Of Lamneth |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Mercury |
 | Catalog Number | 6641 799 |
-| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'<br><br>Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974<br>Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975<br>Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975<br><br>All timings are approximate.<br><br>Issued in a gatefold sleeve.<br><br>For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.<br><br>[r31108571] is a similar release without the etched 'JACKO' and extended rim text<br>[r13968254] is a similar release with extended rim text<br> |
+| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve.  For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.  [r31108571] is a similar release without the etched 'JACKO' and extended rim text [r13968254] is a similar release with extended rim text  |
 | Discogs URL    | [Rush - Archives](https://www.discogs.com/release/1644515-Rush-Archives) |

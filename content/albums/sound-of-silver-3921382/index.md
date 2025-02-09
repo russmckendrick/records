@@ -36,17 +36,17 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get Innocuous! | 7:11 |
-| A2 | Time To Get Away | 4:11 |
-| B1 | North American Scum | 5:25 |
-| B2 | Someone Great | 6:25 |
-| C1 | All My Friends | 7:37 |
-| C2 | Us V Them | 8:29 |
-| D1 | Watch The Tapes | 3:55 |
-| D2 | Sound Of Silver | 7:07 |
-| D3 | New York, I Love You But You're Bringing Me Down | 5:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Get Innocuous! |
+| A2 | Time To Get Away |
+| B1 | North American Scum |
+| B2 | Someone Great |
+| C1 | All My Friends |
+| C2 | Us V Them |
+| D1 | Watch The Tapes |
+| D2 | Sound Of Silver |
+| D3 | New York, I Love You But You're Bringing Me Down |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | DFA |
 | Catalog Number | dfaemi 2164lp |
-| Notes | 2012 Reissue. 180g vinyl.<br>Printed in UK<br><br>Packaging:<br><br>Gatefold cover double album. Includes a large poster.<br>Printed inner sleeves with pictures and lyrics.<br>Metalic silver embossed writing on the front cover.<br>Electrospective sticker on the shrink wrap. |
+| Notes | 2012 Reissue. 180g vinyl.  Printed in UK    Packaging:    Gatefold cover double album. Includes a large poster.  Printed inner sleeves with pictures and lyrics.  Metalic silver embossed writing on the front cover.  Electrospective sticker on the shrink wrap. |
 | Discogs URL    | [LCD Soundsystem - Sound Of Silver](https://www.discogs.com/release/3921382-LCD-Soundsystem-Sound-Of-Silver) |

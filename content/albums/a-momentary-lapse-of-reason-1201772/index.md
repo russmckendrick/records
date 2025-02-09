@@ -42,19 +42,19 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Signs Of Life | 4:17 |
-| A2 | Learning To Fly | 4:52 |
-| A3 | The Dogs Of War | 6:15 |
-| A4 | One Slip | 5:05 |
-| A5 | On The Turning Away | 5:32 |
-| B1a | Yet Another Movie | 6:00 |
-| B1b | Round And Around | 1:25 |
-| B2 | A New Machine (Part 1) | 1:42 |
-| B3 | Terminal Frost | 6:15 |
-| B4 | A New Machine (Part 2) | 0:39 |
-| B5 | Sorrow | 8:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Signs Of Life |
+| A2 | Learning To Fly |
+| A3 | The Dogs Of War |
+| A4 | One Slip |
+| A5 | On The Turning Away |
+| B1a | Yet Another Movie |
+| B1b | Round And Around |
+| B2 | A New Machine (Part 1) |
+| B3 | Terminal Frost |
+| B4 | A New Machine (Part 2) |
+| B5 | Sorrow |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMD 1003 |
-| Notes | Matt gatefold cover with printed inner sleeve.<br><br>Sleeve:<br>Studios, Astoria, Hampton<br>Britannia Row Studios, London<br>A&M Studios, Los Angeles<br>Can Am Studios, Los Angeles<br>Village Recorder, Los Angeles<br>Mayfair, London<br>Audio International, London. <br>Spherical Sound recorded at Le Mobile, Los Angeles. <br><br>Also thanks to Winston Johnson at Cama, Gary Barlogh at Producers Workshop, Air London.<br>This album was recorded digitally, with the exception of the acoustic drums and bass guitar,<br>which were recorded analogue. Dolby SR noise reduction was used for mixing, mastered direct to metal.<br><br>EMI Records Ltd Hayes Middlesex England. Sleeve printed in England. Manufactured in England. RB8709HP<br><br>℗ 1987 Original sound recording made by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.<br>© 1987 Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.<br><br>Inner sleeve:<br>A1:  © D. J. Gilmour A. Moore, 1986<br>A2:  © D. J. Gilmour, 1986<br>A3, B4, B5:  © D. J. Gilmour, 1986<br>A4:  © D. J. Gilmour A. Moore, 1986/7<br>B1a, B1b, B2, B3:  © D. J. Gilmour, 1987<br><br>Durations do not appear on this release. Timings via stopwatch. |
+| Notes | Matt gatefold cover with printed inner sleeve.  Sleeve: Studios, Astoria, Hampton Britannia Row Studios, London A&M Studios, Los Angeles Can Am Studios, Los Angeles Village Recorder, Los Angeles Mayfair, London Audio International, London.  Spherical Sound recorded at Le Mobile, Los Angeles.   Also thanks to Winston Johnson at Cama, Gary Barlogh at Producers Workshop, Air London. This album was recorded digitally, with the exception of the acoustic drums and bass guitar, which were recorded analogue. Dolby SR noise reduction was used for mixing, mastered direct to metal.  EMI Records Ltd Hayes Middlesex England. Sleeve printed in England. Manufactured in England. RB8709HP  ℗ 1987 Original sound recording made by Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd. © 1987 Pink Floyd Music Ltd under exclusive licence to EMI Records Ltd.  Inner sleeve: A1:  © D. J. Gilmour A. Moore, 1986 A2:  © D. J. Gilmour, 1986 A3, B4, B5:  © D. J. Gilmour, 1986 A4:  © D. J. Gilmour A. Moore, 1986/7 B1a, B1b, B2, B3:  © D. J. Gilmour, 1987  Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Pink Floyd - A Momentary Lapse Of Reason](https://www.discogs.com/release/1201772-Pink-Floyd-A-Momentary-Lapse-Of-Reason) |

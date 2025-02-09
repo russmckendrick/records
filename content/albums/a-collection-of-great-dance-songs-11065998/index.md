@@ -33,14 +33,14 @@ A Collection of Great Dance Songs is a compilation album by the English rock ban
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Of These Days | 5:49 |
-| A2 | Money | 6:45 |
-| A3 | Sheep | 10:21 |
-| B1 | Shine On You Crazy Diamond | 10:40 |
-| B2 | Wish You Were Here | 5:26 |
-| B3 | Another Brick In The Wall (Part 2) | 3:54 |
+| Position | Title |
+|----------|--------|
+| A1 | One Of These Days |
+| A2 | Money |
+| A3 | Sheep |
+| B1 | Shine On You Crazy Diamond |
+| B2 | Wish You Were Here |
+| B3 | Another Brick In The Wall (Part 2) |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ A Collection of Great Dance Songs is a compilation album by the English rock ban
 | Format         | Vinyl LP Compilation Reissue Remastered (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP19 |
-| Notes | <br>A1 from Meddle 1971<br>A2 from Dark Side Of The Moon 1981, Re-recorded at New Roydonia Studios 1981<br>A3 from Animals 1977<br>B1 from Wish You Were Here 1975<br>B2 from Wish You Were Here 1975<br>B3 from The Wall 1979<br><br>Comes with printed cardboard- inner sleeve with rounded corners.<br><br>This compilation ℗1981 by EMI Records Ltd/Pink Floyd Music Ltd |
+| Notes |  A1 from Meddle 1971 A2 from Dark Side Of The Moon 1981, Re-recorded at New Roydonia Studios 1981 A3 from Animals 1977 B1 from Wish You Were Here 1975 B2 from Wish You Were Here 1975 B3 from The Wall 1979  Comes with printed cardboard- inner sleeve with rounded corners.  This compilation ℗1981 by EMI Records Ltd/Pink Floyd Music Ltd |
 | Discogs URL    | [Pink Floyd - A Collection Of Great Dance Songs](https://www.discogs.com/release/11065998-Pink-Floyd-A-Collection-Of-Great-Dance-Songs) |

@@ -57,21 +57,21 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Diamond Mine |  |
-| A2 | Born To Go |  |
-| A3 | Epitaph For A Head |  |
-| A4 | Solid Gold Hell |  |
-| A5 | Be Forewarned |  |
-| B1 | Mr. Destroyer |  |
-| B2 | When The Wolf Sits |  |
-| B3 | Death |  |
-| B4 | Situation |  |
-| C1 | It's Trash |  |
-| C2 | Motorcycle (Straight To Hell) |  |
-| C3 | Learning To Die |  |
-| C4 | Welcome To The Void |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Diamond Mine |
+| A2 | Born To Go |
+| A3 | Epitaph For A Head |
+| A4 | Solid Gold Hell |
+| A5 | Be Forewarned |
+| B1 | Mr. Destroyer |
+| B2 | When The Wolf Sits |
+| B3 | Death |
+| B4 | Situation |
+| C1 | It's Trash |
+| C2 | Motorcycle (Straight To Hell) |
+| C3 | Learning To Die |
+| C4 | Welcome To The Void |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR916VINYL |
-| Notes | - Gatefold<br>- Etching on side D<br>- Runouts are etched<br><br>On rear cover:<br>Produced and mixed summer / fall 2020<br>Strictly limited edition<br>Made in Germany<br><br>Original performers are uncredited:<br>A1. [a3209238] & [a1122390] on "[m=1485999]"<br>A2. [a69719] on "[m=28163]"<br>A3. [a887226] on "[m=631348]"<br>A4. [a538147] on "[m=123364]"<br>A5. [a396928] on "[r=2547729]"<br>B1. [a2595059] on "[m=447570]"<br>B2. [a1169205] on "[m=335297]"<br>B3. [a260959] on "[m=59306]"<br>B4. [a1346515] on "[m=180040]"<br>C1. [a1359595] on "[r=3805077]"<br>C2. [a3793862] on "[m=873363]"<br>C3. [a1144149] on "[m=94781]"<br>C4. [a445508] on "[m=28716]" |
+| Notes | - Gatefold - Etching on side D - Runouts are etched  On rear cover: Produced and mixed summer / fall 2020 Strictly limited edition Made in Germany  Original performers are uncredited: A1. [a3209238] & [a1122390] on "[m=1485999]" A2. [a69719] on "[m=28163]" A3. [a887226] on "[m=631348]" A4. [a538147] on "[m=123364]" A5. [a396928] on "[r=2547729]" B1. [a2595059] on "[m=447570]" B2. [a1169205] on "[m=335297]" B3. [a260959] on "[m=59306]" B4. [a1346515] on "[m=180040]" C1. [a1359595] on "[r=3805077]" C2. [a3793862] on "[m=873363]" C3. [a1144149] on "[m=94781]" C4. [a445508] on "[m=28716]" |
 | Discogs URL    | [Monster Magnet - A Better Dystopia](https://www.discogs.com/release/18795121-Monster-Magnet-A-Better-Dystopia) |

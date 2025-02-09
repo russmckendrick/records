@@ -39,20 +39,20 @@ On its release, the album was well received from the British press with positive
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Release The Pressure | 7:39 |
-| A2 | Afro-Left | 7:32 |
-| B1 | Cut For Life | 7:09 |
-| B2 | Melt | 5:15 |
-| C1 | Black Flute | 3:56 |
-| C2 | Original | 6:22 |
-| D1 | Inspection (Check One) | 6:29 |
-| D2 | Space Shanty | 7:14 |
-| E1 | Storm 3000 | 5:45 |
-| E2 | Half Past Dub | 3:38 |
-| F1 | Open Up | 8:44 |
-| F2 | 21st Century Poem | 4:39 |
+| Position | Title |
+|----------|--------|
+| A1 | Release The Pressure |
+| A2 | Afro-Left |
+| B1 | Cut For Life |
+| B2 | Melt |
+| C1 | Black Flute |
+| C2 | Original |
+| D1 | Inspection (Check One) |
+| D2 | Space Shanty |
+| E1 | Storm 3000 |
+| E2 | Half Past Dub |
+| F1 | Open Up |
+| F2 | 21st Century Poem |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ On its release, the album was well received from the British press with positive
 | Format         | Vinyl 3× LP Album Reissue Remastered Special Edition (180 g) |
 | Label          | Columbia |
 | Catalog Number | 88985388501 |
-| Notes | Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"<br><br>First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back.  |
+| Notes | Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"  First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back.  |
 | Discogs URL    | [Leftfield - Leftism](https://www.discogs.com/release/10236835-Leftfield-Leftism) |

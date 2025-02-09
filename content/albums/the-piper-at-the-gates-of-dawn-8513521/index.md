@@ -38,19 +38,19 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Astronomy Dominé |  |
-| A2 | Lucifer Sam |  |
-| A3 | Matilda Mother |  |
-| A4 | Flaming |  |
-| A5 | Pow R. Toc H. |  |
-| A6 | Take Up Thy Stethoscope And Walk |  |
-| B1 | Interstellar Overdrive |  |
-| B2 | The Gnome |  |
-| B3 | Chapter 24 |  |
-| B4 | The Scarecrow |  |
-| B5 | Bike |  |
+| Position | Title |
+|----------|--------|
+| A1 | Astronomy Dominé |
+| A2 | Lucifer Sam |
+| A3 | Matilda Mother |
+| A4 | Flaming |
+| A5 | Pow R. Toc H. |
+| A6 | Take Up Thy Stethoscope And Walk |
+| B1 | Interstellar Overdrive |
+| B2 | The Gnome |
+| B3 | Chapter 24 |
+| B4 | The Scarecrow |
+| B5 | Bike |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP1 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: August 1967<br>Made in the E.U.<br>www.pinkfloyd.com<br><br>Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve. |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve. |
 | Discogs URL    | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/8513521-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |

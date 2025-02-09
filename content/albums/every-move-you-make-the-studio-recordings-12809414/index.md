@@ -58,79 +58,79 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Outlandos d'Amour (1978) |  |
-| A1 | Next To You | 2:51 |
-| A2 | So Lonely | 4:48 |
-| A3 | Roxanne | 3:13 |
-| A4 | Hole In My Life | 4:48 |
-| A5 | Peanuts | 3:54 |
-| B1 | Can't Stand Losing You | 3:02 |
-| B2 | Truth Hits Everybody | 2:53 |
-| B3 | Born In The 50's | 3:42 |
-| B4 | Be My Girl - Sally | 3:24 |
-| B5 | Masoko Tanga | 5:41 |
-|  | Reggatta de Blanc (1979) |  |
-| C1 | Message In A Bottle | 4:49 |
-| C2 | Reggatta De Blanc | 3:05 |
-| C3 | It's Alright For You | 3:14 |
-| C4 | Bring On The Night | 4:16 |
-| C5 | Deathwish | 4:13 |
-| D1 | Walking On The Moon | 4:59 |
-| D2 | On Any Other Day | 2:56 |
-| D3 | The Bed's Too Big Without You | 4:24 |
-| D4 | Contact | 2:39 |
-| D5 | Does Everyone Stare | 3:49 |
-| D6 | No Time This Time | 3:18 |
-|  | Zenyattà Mondatta (1980) |  |
-| E1 | Don't Stand So Close To Me | 4:03 |
-| E2 | Driven To Tears | 3:21 |
-| E3 | When The World Is Running Down, You Make The Best Of What's Still Around | 3:33 |
-| E4 | Canary In A Coalmine | 2:24 |
-| E5 | Voices Inside My Head | 3:51 |
-| E6 | Bombs Away | 3:07 |
-| F1 | De Do Do Do, De Da Da Da | 4:09 |
-| F2 | Behind My Camel | 2:53 |
-| F3 | Man In A Suitcase | 2:15 |
-| F4 | Shadows In The Rain | 5:09 |
-| F5 | The Other Way Of Stopping | 3:21 |
-|  | Ghost In The Machine (1981) |  |
-| G1 | Spirits In The Material World | 2:58 |
-| G2 | Every Little Thing She Does Is Magic | 4:20 |
-| G3 | Invisible Sun | 3:35 |
-| G4 | Hungry For You (J'aurais Toujours Faim De Toi) | 2:52 |
-| G5 | Demolition Man | 5:54 |
-| H1 | Too Much Information | 3:42 |
-| H2 | Rehumanize Yourself | 3:10 |
-| H3 | One World (Not Three) | 4:45 |
-| H4 | Ωmegaman | 2:47 |
-| H5 | Secret Journey | 3:32 |
-| H6 | Darkness | 3:11 |
-|  | Synchronicity (1983) |  |
-| I1 | Synchronicity I | 3:23 |
-| I2 | Walking In Your Footsteps | 3:35 |
-| I3 | O My God | 4:00 |
-| I4 | Mother | 3:03 |
-| I5 | Miss Gradenko | 2:00 |
-| I6 | Synchronicity II | 5:04 |
-| J1 | Every Breath You Take | 4:13 |
-| J2 | King Of Pain | 4:59 |
-| J3 | Wrapped Around Your Finger | 5:12 |
-| J4 | Tea In The Sahara | 4:11 |
-|  | Flexible Strategies |  |
-| K1 | Dead End Job (1978) |  |
-| K2 | Landlord (1979) |  |
-| K3 | Visions Of The Night (1979) |  |
-| K4 | Friends (1980) |  |
-| K5 | A Sermon (1980) |  |
-| K6 | Shambelle (1981) |  |
-| L1 | Flexible Strategies (1981) |  |
-| L2 | Low Life (1981) |  |
-| L3 | Murder By Numbers (1983) |  |
-| L4 | Truth Hits Everybody (Remix) (1983) |  |
-| L5 | Someone To Talk To (1983) |  |
-| L6 | Once Upon A Daydream (1983) |  |
+| Position | Title |
+|----------|--------|
+|  | Outlandos d'Amour (1978) |
+| A1 | Next To You |
+| A2 | So Lonely |
+| A3 | Roxanne |
+| A4 | Hole In My Life |
+| A5 | Peanuts |
+| B1 | Can't Stand Losing You |
+| B2 | Truth Hits Everybody |
+| B3 | Born In The 50's |
+| B4 | Be My Girl - Sally |
+| B5 | Masoko Tanga |
+|  | Reggatta de Blanc (1979) |
+| C1 | Message In A Bottle |
+| C2 | Reggatta De Blanc |
+| C3 | It's Alright For You |
+| C4 | Bring On The Night |
+| C5 | Deathwish |
+| D1 | Walking On The Moon |
+| D2 | On Any Other Day |
+| D3 | The Bed's Too Big Without You |
+| D4 | Contact |
+| D5 | Does Everyone Stare |
+| D6 | No Time This Time |
+|  | Zenyattà Mondatta (1980) |
+| E1 | Don't Stand So Close To Me |
+| E2 | Driven To Tears |
+| E3 | When The World Is Running Down, You Make The Best Of What's Still Around |
+| E4 | Canary In A Coalmine |
+| E5 | Voices Inside My Head |
+| E6 | Bombs Away |
+| F1 | De Do Do Do, De Da Da Da |
+| F2 | Behind My Camel |
+| F3 | Man In A Suitcase |
+| F4 | Shadows In The Rain |
+| F5 | The Other Way Of Stopping |
+|  | Ghost In The Machine (1981) |
+| G1 | Spirits In The Material World |
+| G2 | Every Little Thing She Does Is Magic |
+| G3 | Invisible Sun |
+| G4 | Hungry For You (J'aurais Toujours Faim De Toi) |
+| G5 | Demolition Man |
+| H1 | Too Much Information |
+| H2 | Rehumanize Yourself |
+| H3 | One World (Not Three) |
+| H4 | Ωmegaman |
+| H5 | Secret Journey |
+| H6 | Darkness |
+|  | Synchronicity (1983) |
+| I1 | Synchronicity I |
+| I2 | Walking In Your Footsteps |
+| I3 | O My God |
+| I4 | Mother |
+| I5 | Miss Gradenko |
+| I6 | Synchronicity II |
+| J1 | Every Breath You Take |
+| J2 | King Of Pain |
+| J3 | Wrapped Around Your Finger |
+| J4 | Tea In The Sahara |
+|  | Flexible Strategies |
+| K1 | Dead End Job (1978) |
+| K2 | Landlord (1979) |
+| K3 | Visions Of The Night (1979) |
+| K4 | Friends (1980) |
+| K5 | A Sermon (1980) |
+| K6 | Shambelle (1981) |
+| L1 | Flexible Strategies (1981) |
+| L2 | Low Life (1981) |
+| L3 | Murder By Numbers (1983) |
+| L4 | Truth Hits Everybody (Remix) (1983) |
+| L5 | Someone To Talk To (1983) |
+| L6 | Once Upon A Daydream (1983) |
 
 
 ## Apple Music
@@ -147,5 +147,5 @@ styles: []
 | Format         | Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered; 180 gram), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Album Reissue Remastered (Half Speed Mastered), Vinyl LP Compilation Remastered (Half Speed Mastered), Box Set Compilation Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | 676 325-0 |
-| Notes | From the hype sticker:<br>"Limited edition 6-disc vinyl box set<br>featuring all five studio albums.<br><br>Includes exclusive bonus 12-track<br>LP - "Flexible Strategies" featuring non-album b-sides.<br><br>Remastered at Abbey Road Studios using "half-speed´"mastering process.<br><br>Pressed on heavyweight, 180gm vinyl. Each LP wrapped by an Abbey Road banderole, Box wrapped by an OBI.<br>Original printed inner sleeves, except for "Reggatta de Blanc" and "Outlandos d'Amour" with white protective sleeves .<br>24-page photo-book including rare photos (inside, credits on rear) from the band's own archives.<br><br>Features 14 top-20 singles,<br>including five number ones!"<br><br>Includes a voucher to download a WAV version of all the albums (all files have a sample rate of 96 kHz with a bit depth of 24 except the last two albums which use a sample rate of 44,1 kHz).<br><br>Made in Germany. |
+| Notes | From the hype sticker: "Limited edition 6-disc vinyl box set featuring all five studio albums.  Includes exclusive bonus 12-track LP - "Flexible Strategies" featuring non-album b-sides.  Remastered at Abbey Road Studios using "half-speed´"mastering process.  Pressed on heavyweight, 180gm vinyl. Each LP wrapped by an Abbey Road banderole, Box wrapped by an OBI. Original printed inner sleeves, except for "Reggatta de Blanc" and "Outlandos d'Amour" with white protective sleeves . 24-page photo-book including rare photos (inside, credits on rear) from the band's own archives.  Features 14 top-20 singles, including five number ones!"  Includes a voucher to download a WAV version of all the albums (all files have a sample rate of 96 kHz with a bit depth of 24 except the last two albums which use a sample rate of 44,1 kHz).  Made in Germany. |
 | Discogs URL    | [The Police - Every Move You Make (The Studio Recordings)](https://www.discogs.com/release/12809414-The-Police-Every-Move-You-Make-The-Studio-Recordings) |

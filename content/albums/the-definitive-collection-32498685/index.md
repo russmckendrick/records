@@ -39,29 +39,29 @@ Stevie Wonder: The Definitive Collection is a compilation album, released in 200
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fingertips - Pt. 2 | 3:11 |
-| A2 | Uptight (Everything's Alright) | 2:54 |
-| A3 | Hey Love | 2:43 |
-| A4 | I Was Made To Love Her | 2:36 |
-| A5 | For Once In My Life | 2:50 |
-| A6 | My Cherie Amour | 2:52 |
-| A7 | Signed, Sealed, Delivered I'm Yours | 2:39 |
-| B1 | You Are The Sunshine Of My Life | 2:52 |
-| B2 | Superstition | 4:05 |
-| B3 | Higher Ground | 3:11 |
-| B4 | Living For The City | 7:25 |
-| C1 | You Haven't Done Nothin' | 3:24 |
-| C2 | Boogie On Reggae Woman | 4:11 |
-| C3 | I Wish | 4:09 |
-| C4 | Sir Duke | 3:54 |
-| C5 | Master Blaster (Jammin') | 4:51 |
-| D1 | That Girl | 5:09 |
-| D2 | Do I Do | 5:04 |
-| D3 | I Just Called To Say I Love You | 4:22 |
-| D4 | Overjoyed | 3:44 |
-| D5 | Part Time Lover | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Fingertips - Pt. 2 |
+| A2 | Uptight (Everything's Alright) |
+| A3 | Hey Love |
+| A4 | I Was Made To Love Her |
+| A5 | For Once In My Life |
+| A6 | My Cherie Amour |
+| A7 | Signed, Sealed, Delivered I'm Yours |
+| B1 | You Are The Sunshine Of My Life |
+| B2 | Superstition |
+| B3 | Higher Ground |
+| B4 | Living For The City |
+| C1 | You Haven't Done Nothin' |
+| C2 | Boogie On Reggae Woman |
+| C3 | I Wish |
+| C4 | Sir Duke |
+| C5 | Master Blaster (Jammin') |
+| D1 | That Girl |
+| D2 | Do I Do |
+| D3 | I Just Called To Say I Love You |
+| D4 | Overjoyed |
+| D5 | Part Time Lover |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ Stevie Wonder: The Definitive Collection is a compilation album, released in 200
 | Format         | Vinyl 2× LP Compilation Reissue Stereo (Gold Marbled Translucent) |
 | Label          | Motown |
 | Catalog Number | 00602475152798 |
-| Notes | Gatefold sleeve<br>The artist and title are indicated in Braille on the front cover.<br>"Made in Czech Republic" (on sticker)<br>Printed inner sleeves with credits<br><br>℗© 2024 UMG Recordings, Inc.<br><br>First Issued<br>A1 - May 1963 - [m239987]<br>A2 - November 1965 - [m272936]<br>A3 - November 1966 - [m90313]<br>A4 - May 1967 - [m112032]<br>A5 - October 1968 - [m112037]<br>A6 - January 1969 - [m283019]<br>A7 - June 1970 - [m157082]<br>B1, B2 - October 1972 - [m87446]<br>B3 - July 1973 - [m157084]<br>B4 - August 1973 - [m86466]<br>C1, C2 - July 1974 - [m87463]<br>C3, C4 - September 1976 - [m87440]<br>C5 - September 1980 - [m102527]<br>D1 - December 1981 - [m120690]<br>D2 - May 1982 - [m163049]<br>D3 - August 1984 - [m120669]<br>D4 - September 1985 - [m87474]<br>D5 - August 1985 - [m120686] |
+| Notes | Gatefold sleeve The artist and title are indicated in Braille on the front cover. "Made in Czech Republic" (on sticker) Printed inner sleeves with credits  ℗© 2024 UMG Recordings, Inc.  First Issued A1 - May 1963 - [m239987] A2 - November 1965 - [m272936] A3 - November 1966 - [m90313] A4 - May 1967 - [m112032] A5 - October 1968 - [m112037] A6 - January 1969 - [m283019] A7 - June 1970 - [m157082] B1, B2 - October 1972 - [m87446] B3 - July 1973 - [m157084] B4 - August 1973 - [m86466] C1, C2 - July 1974 - [m87463] C3, C4 - September 1976 - [m87440] C5 - September 1980 - [m102527] D1 - December 1981 - [m120690] D2 - May 1982 - [m163049] D3 - August 1984 - [m120669] D4 - September 1985 - [m87474] D5 - August 1985 - [m120686] |
 | Discogs URL    | [Stevie Wonder - The Definitive Collection](https://www.discogs.com/release/32498685-Stevie-Wonder-The-Definitive-Collection) |

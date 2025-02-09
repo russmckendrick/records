@@ -28,23 +28,23 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Foux Du Fafa | 2:46 |
-| A2 | Inner City Pressure | 3:27 |
-| A3 | Hiphopopotamus Vs. Rhymenoceros | 2:09 |
-| A4 | Think About It | 3:14 |
-| A5 | Ladies Of The World | 3:57 |
-| A6 | Mutha'uckas | 2:26 |
-| A7 | The Prince Of Parties | 1:48 |
-| A8 | Leggy Blonde | 2:42 |
-| B1 | Robots | 3:43 |
-| B2 | Boom | 2:17 |
-| B3 | A Kiss Is Not A Contract | 1:54 |
-| B4 | The Most Beautiful Girl (In The Room) | 4:02 |
-| B5 | Business Time | 4:05 |
-| B6 | Bowie | 3:15 |
-| B7 | Au Revoir | 0:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Foux Du Fafa |
+| A2 | Inner City Pressure |
+| A3 | Hiphopopotamus Vs. Rhymenoceros |
+| A4 | Think About It |
+| A5 | Ladies Of The World |
+| A6 | Mutha'uckas |
+| A7 | The Prince Of Parties |
+| A8 | Leggy Blonde |
+| B1 | Robots |
+| B2 | Boom |
+| B3 | A Kiss Is Not A Contract |
+| B4 | The Most Beautiful Girl (In The Room) |
+| B5 | Business Time |
+| B6 | Bowie |
+| B7 | Au Revoir |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 | Format         | Vinyl LP Album Reissue (Yellow) |
 | Label          | Sub Pop |
 | Catalog Number | SP 715 |
-| Notes | Credits<br>Art Direction – Dusty Summers, Jeff Kleinsmith<br>Design – Jeff Kleinsmith<br>Drum Programming [Beat Programming] – Mickey Petralia<br>Engineer – Matt Shane (2), Mickey Petralia<br>Illustration – Tyler Stout<br>Management [Music] – Martinovich & Sampson<br>Mastered By – Greg Calbi, Ray Janos<br>Mixed By – Mickey Petralia<br>Performer – Bret McKenzie, Jemaine Clement<br>Producer – Flight Of The Conchords, Mickey Petralia<br>Written-By – Bret McKenzie, Jemaine Clement |
+| Notes | Credits Art Direction – Dusty Summers, Jeff Kleinsmith Design – Jeff Kleinsmith Drum Programming [Beat Programming] – Mickey Petralia Engineer – Matt Shane (2), Mickey Petralia Illustration – Tyler Stout Management [Music] – Martinovich & Sampson Mastered By – Greg Calbi, Ray Janos Mixed By – Mickey Petralia Performer – Bret McKenzie, Jemaine Clement Producer – Flight Of The Conchords, Mickey Petralia Written-By – Bret McKenzie, Jemaine Clement |
 | Discogs URL    | [Flight Of The Conchords - Flight Of The Conchords](https://www.discogs.com/release/11770971-Flight-Of-The-Conchords-Flight-Of-The-Conchords) |

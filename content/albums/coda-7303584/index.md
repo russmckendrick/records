@@ -40,16 +40,16 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We're Gonna Groove | 2:37 |
-| A2 | Poor Tom | 3:02 |
-| A3 | I Can't Quit You Baby | 4:18 |
-| A4 | Walter's Walk | 4:31 |
-| B1 | Ozone Baby | 3:36 |
-| B2 | Darlene | 5:06 |
-| B3 | Bonzo's Montreux | 4:22 |
-| B4 | Wearing And Tearing | 5:27 |
+| Position | Title |
+|----------|--------|
+| A1 | We're Gonna Groove |
+| A2 | Poor Tom |
+| A3 | I Can't Quit You Baby |
+| A4 | Walter's Walk |
+| B1 | Ozone Baby |
+| B2 | Darlene |
+| B3 | Bonzo's Montreux |
+| B4 | Wearing And Tearing |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Swan Song |
 | Catalog Number | 8122795588 |
-| Notes | ℗ & © 1982 Atlantic Recording Corporation, manufactured in Germany<br>A1: Recorded on the Pye Mobile Truck at The Royal Albert Hall, on 9/1/70<br>A2: Recorded at Olympic Studios, London, on 5/6/70<br>A3: Recorded during sound rehearsal at the Royal Albert Hall, London, on 9/1/70<br>A4: Recorded on the Rolling Stones Mobile at Stargroves, on 16/5/72<br>B1: Recorded at Polar Studios, Stockholm, on 14/11/78<br>B2: Recorded at Polar Studios, Stockholm, on 16/11/78<br>B3: Recorded at Mountain Studios, Montreux, on 12/9/76<br>B4: Recorded at Polar Studios, Stockholm, on 21/11/78<br><br>A & B runouts are etched.<br><br>Embossed Cover. |
+| Notes | ℗ & © 1982 Atlantic Recording Corporation, manufactured in Germany A1: Recorded on the Pye Mobile Truck at The Royal Albert Hall, on 9/1/70 A2: Recorded at Olympic Studios, London, on 5/6/70 A3: Recorded during sound rehearsal at the Royal Albert Hall, London, on 9/1/70 A4: Recorded on the Rolling Stones Mobile at Stargroves, on 16/5/72 B1: Recorded at Polar Studios, Stockholm, on 14/11/78 B2: Recorded at Polar Studios, Stockholm, on 16/11/78 B3: Recorded at Mountain Studios, Montreux, on 12/9/76 B4: Recorded at Polar Studios, Stockholm, on 21/11/78  A & B runouts are etched.  Embossed Cover. |
 | Discogs URL    | [Led Zeppelin - Coda](https://www.discogs.com/release/7303584-Led-Zeppelin-Coda) |

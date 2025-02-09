@@ -26,19 +26,19 @@ An “alternative rock” band that actually does provide an alternative by util
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turn It On | 4:39 |
-| A2 | Pilot Can At The Queer Of God | 4:17 |
-| A3 | Oh My Pregnant Head (Labia In The Sunlight) | 4:06 |
-| A4 | She Don't Use Jelly | 3:40 |
-| A5 | Chewin' The Apple Of Your Eye | 3:51 |
-| B1 | Superhumans | 3:14 |
-| B2 | Be My Head | 3:15 |
-| B3 | Moth In The Incubator | 4:13 |
-| B4 | Plastic Jesus | 2:19 |
-| B5 | When Yer Twenty Two | 3:34 |
-| B6 | Slow-Nerve-Action | 5:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Turn It On |
+| A2 | Pilot Can At The Queer Of God |
+| A3 | Oh My Pregnant Head (Labia In The Sunlight) |
+| A4 | She Don't Use Jelly |
+| A5 | Chewin' The Apple Of Your Eye |
+| B1 | Superhumans |
+| B2 | Be My Head |
+| B3 | Moth In The Incubator |
+| B4 | Plastic Jesus |
+| B5 | When Yer Twenty Two |
+| B6 | Slow-Nerve-Action |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ An “alternative rock” band that actually does provide an alternative by util
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Grey [Ash Grey]) |
 | Label          | Warner Records |
 | Catalog Number | 093624952206 |
-| Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.<br><br>Made in Germany.<br><br>All runouts etched except for "P. USA -22310-" which is stamped. |
+| Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped. |
 | Discogs URL    | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898-The-Flaming-Lips-Transmissions-From-The-Satellite-Heart) |

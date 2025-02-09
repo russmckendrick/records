@@ -52,75 +52,75 @@ Revolver expanded the boundaries of pop music, revolutionised standard practices
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | New Stereo Mix |  |
-| A1 | Taxman |  |
-| A2 | Eleanor Rigby |  |
-| A3 | I'm Only Sleeping |  |
-| A4 | Love You To |  |
-| A5 | Here, There And Everywhere |  |
-| A6 | Yellow Submarine |  |
-| A7 | She Said She Said |  |
-| B1 | Good Day Sunshine |  |
-| B2 | And Your Bird Can Sing |  |
-| B3 | For No One |  |
-| B4 | Doctor Robert |  |
-| B5 | I Want To Tell You |  |
-| B6 | Got To Get You Into My Life |  |
-| B7 | Tomorrow Never Knows |  |
-|  | Revolver Sessions |  |
-| C1 | Tomorrow Never Knows (Take 1) |  |
-| C2 | Tomorrow Never Knows (Mono Mix RM 11) |  |
-| C3 | Got To Get You Into My Life (First Version - Take 5) |  |
-| C4 | Got To Get You Into My Life (Second Version Unnumbered Mix) |  |
-| C5 | Got To Get You Into My Life (Second Version - Take 8) |  |
-| C6 | Love You To (Take 1) |  |
-| C7 | Love You To (Unnumbered Rehearsal) |  |
-| D1 | Love You To (Take 7) |  |
-| D2 | Paperback Writer (Takes 1 And 2 - Backing Track) |  |
-| D3 | Rain (Take 5 - Actual Speed) |  |
-| D4 | Rain (Take 5 - Slowed Down For Master Tape) |  |
-| D5 | Doctor Robert (Take 7) |  |
-| D6 | And Your Bird Can Sing (First Version - Take 2) |  |
-| D7 | And Your Bird Can Sing (First Version - Take 2) (Giggling) |  |
-| E1 | And Your Bird Can Sing (Second Version - Take 5) |  |
-| E2 | Taxman (Take 1) |  |
-| E3 | I'm Only Sleeping (Rehearsal Fragment) |  |
-| E4 | I'm Only Sleeping (Take 2) |  |
-| E5 | I'm Only Sleeping (Take 5) |  |
-| E6 | I'm Only Sleeping (Mono Mix RM1) |  |
-| E7 | Eleanor Rigby (Speech Before Take 2) |  |
-| E8 | Eleanor Rigby (Take 2) |  |
-| F1 | For No One Take (10 Backing Track) |  |
-| F2 | Yellow Submarine (Songwriting Work Tape Part 1) |  |
-| F3 | Yellow Submarine (Songwriting Work Tape Part 2) |  |
-| F4 | Yellow Submarine (Take 4 Before Sound Effects) |  |
-| F5 | Yellow Submarine (Highlighted Sound Effects) |  |
-| F6 | I Want To Tell You (Speech And Take 4) |  |
-| F7 | Here, There And Everywhere (Take 6) |  |
-| F8 | She Said She Said (John's Demo) |  |
-| F9 | She Said She Said (Take 15 - Backing Track Rehearsal) |  |
-|  | Original Mono Master |  |
-| G1 | Taxman |  |
-| G2 | Eleanor Rigby |  |
-| G3 | I'm Only Sleeping |  |
-| G4 | Love You To |  |
-| G5 | Here, There And Everywhere |  |
-| G6 | Yellow Submarine |  |
-| G7 | She Said She Said |  |
-| H1 | Good Day Sunshine |  |
-| H2 | And Your Bird Can Sing |  |
-| H3 | For No One |  |
-| H4 | Doctor Robert |  |
-| H5 | I Want To Tell You |  |
-| H6 | Got To Get You Into My Life |  |
-| H7 | Tomorrow Never Knows |  |
-|  | Revolver EP |  |
-| I1 | Paperback Writer (Stereo) |  |
-| I2 | Rain (Stereo) |  |
-| J1 | Paperback Writer (Mono) |  |
-| J2 | Rain (Mono) |  |
+| Position | Title |
+|----------|--------|
+|  | New Stereo Mix |
+| A1 | Taxman |
+| A2 | Eleanor Rigby |
+| A3 | I'm Only Sleeping |
+| A4 | Love You To |
+| A5 | Here, There And Everywhere |
+| A6 | Yellow Submarine |
+| A7 | She Said She Said |
+| B1 | Good Day Sunshine |
+| B2 | And Your Bird Can Sing |
+| B3 | For No One |
+| B4 | Doctor Robert |
+| B5 | I Want To Tell You |
+| B6 | Got To Get You Into My Life |
+| B7 | Tomorrow Never Knows |
+|  | Revolver Sessions |
+| C1 | Tomorrow Never Knows (Take 1) |
+| C2 | Tomorrow Never Knows (Mono Mix RM 11) |
+| C3 | Got To Get You Into My Life (First Version - Take 5) |
+| C4 | Got To Get You Into My Life (Second Version Unnumbered Mix) |
+| C5 | Got To Get You Into My Life (Second Version - Take 8) |
+| C6 | Love You To (Take 1) |
+| C7 | Love You To (Unnumbered Rehearsal) |
+| D1 | Love You To (Take 7) |
+| D2 | Paperback Writer (Takes 1 And 2 - Backing Track) |
+| D3 | Rain (Take 5 - Actual Speed) |
+| D4 | Rain (Take 5 - Slowed Down For Master Tape) |
+| D5 | Doctor Robert (Take 7) |
+| D6 | And Your Bird Can Sing (First Version - Take 2) |
+| D7 | And Your Bird Can Sing (First Version - Take 2) (Giggling) |
+| E1 | And Your Bird Can Sing (Second Version - Take 5) |
+| E2 | Taxman (Take 1) |
+| E3 | I'm Only Sleeping (Rehearsal Fragment) |
+| E4 | I'm Only Sleeping (Take 2) |
+| E5 | I'm Only Sleeping (Take 5) |
+| E6 | I'm Only Sleeping (Mono Mix RM1) |
+| E7 | Eleanor Rigby (Speech Before Take 2) |
+| E8 | Eleanor Rigby (Take 2) |
+| F1 | For No One Take (10 Backing Track) |
+| F2 | Yellow Submarine (Songwriting Work Tape Part 1) |
+| F3 | Yellow Submarine (Songwriting Work Tape Part 2) |
+| F4 | Yellow Submarine (Take 4 Before Sound Effects) |
+| F5 | Yellow Submarine (Highlighted Sound Effects) |
+| F6 | I Want To Tell You (Speech And Take 4) |
+| F7 | Here, There And Everywhere (Take 6) |
+| F8 | She Said She Said (John's Demo) |
+| F9 | She Said She Said (Take 15 - Backing Track Rehearsal) |
+|  | Original Mono Master |
+| G1 | Taxman |
+| G2 | Eleanor Rigby |
+| G3 | I'm Only Sleeping |
+| G4 | Love You To |
+| G5 | Here, There And Everywhere |
+| G6 | Yellow Submarine |
+| G7 | She Said She Said |
+| H1 | Good Day Sunshine |
+| H2 | And Your Bird Can Sing |
+| H3 | For No One |
+| H4 | Doctor Robert |
+| H5 | I Want To Tell You |
+| H6 | Got To Get You Into My Life |
+| H7 | Tomorrow Never Knows |
+|  | Revolver EP |
+| I1 | Paperback Writer (Stereo) |
+| I2 | Rain (Stereo) |
+| J1 | Paperback Writer (Mono) |
+| J2 | Rain (Mono) |
 
 
 ## Apple Music
@@ -138,5 +138,5 @@ Revolver expanded the boundaries of pop music, revolutionised standard practices
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Remixed), Vinyl 2× LP Stereo (180 Gram), Vinyl LP Album Reissue Mono (180 Gram), Vinyl 7" 45 RPM EP Stereo Mono (Stereo Remix), Box Set (Super Deluxe) |
 | Label          | Apple Records |
 | Catalog Number | 0602445599523 |
-| Notes | Comes in a slipcase box. The 'New Stereo Mix' and 'Original Mono Mix' are each housed in a separate jacket and the 'Revolver Sessions' in a gatefold jacket. Each of the 4 LPs have a plain white poly-lined inner sleeve. The EP is housed in a printed jacket without an inner sleeve. Includes a 100-page LP-sized hardbound book. Hype sticker on shrink-wrap front and 'Made in Czech Republic' on shrink-wrap back.<br><br>First Catalog number appears on box bottom and each LP label. Second catalog number appears on the hype sticker.<br><br>[From box bottom]<br>℗ 2022 The copyright in this sound recording is owned by Calderstone Productions Limited (a division of Universal Music Group)/Apple Corps Limited.<br>© Apple Corps Limited<br><br>[From hype sticker]<br>Super deluxe 4 LP edition<br>New stereo mix by Giles Martin and Sam Okell<br>Two sessions LPs of outtakes, rehearsals, demos and studio chat<br>Original 1966 mono LP<br>180 gram vinyl<br>Plus 7" bonus EP with 'Paperback Writer' & 'Rain' in new stereo mixes & original 1966 mono<br>100-page hardback book with a Foreword by Paul McCartney, extensive historical and track-by-track information, rare photos and memorabilia.<br><br>[From labels]<br>℗ 2022 {Missing from "Sessions" LPs}<br>Made in the EU<br>℗ 2022 The copyright in this sound recording is owned by Calderstone Productions Limited (a division of Universal Music Group)/Apple Corps Limited. © Apple Corps Limited.<br><br>[From booklet pg 99]<br>© Apple Corps Limited [...] All songs published by Sony Tunes (ASCAP). All rights administered by Sony Music Publishing (US) LLC.<br><br>All runouts are stamped besides "MILES. ABBEY ROAD 1/2 SPEED. ROOM30" which is etched and only appears on sides A and B. |
+| Notes | Comes in a slipcase box. The 'New Stereo Mix' and 'Original Mono Mix' are each housed in a separate jacket and the 'Revolver Sessions' in a gatefold jacket. Each of the 4 LPs have a plain white poly-lined inner sleeve. The EP is housed in a printed jacket without an inner sleeve. Includes a 100-page LP-sized hardbound book. Hype sticker on shrink-wrap front and 'Made in Czech Republic' on shrink-wrap back.  First Catalog number appears on box bottom and each LP label. Second catalog number appears on the hype sticker.  [From box bottom] ℗ 2022 The copyright in this sound recording is owned by Calderstone Productions Limited (a division of Universal Music Group)/Apple Corps Limited. © Apple Corps Limited  [From hype sticker] Super deluxe 4 LP edition New stereo mix by Giles Martin and Sam Okell Two sessions LPs of outtakes, rehearsals, demos and studio chat Original 1966 mono LP 180 gram vinyl Plus 7" bonus EP with 'Paperback Writer' & 'Rain' in new stereo mixes & original 1966 mono 100-page hardback book with a Foreword by Paul McCartney, extensive historical and track-by-track information, rare photos and memorabilia.  [From labels] ℗ 2022 {Missing from "Sessions" LPs} Made in the EU ℗ 2022 The copyright in this sound recording is owned by Calderstone Productions Limited (a division of Universal Music Group)/Apple Corps Limited. © Apple Corps Limited.  [From booklet pg 99] © Apple Corps Limited [...] All songs published by Sony Tunes (ASCAP). All rights administered by Sony Music Publishing (US) LLC.  All runouts are stamped besides "MILES. ABBEY ROAD 1/2 SPEED. ROOM30" which is etched and only appears on sides A and B. |
 | Discogs URL    | [The Beatles - Revolver](https://www.discogs.com/release/24971641-The-Beatles-Revolver) |

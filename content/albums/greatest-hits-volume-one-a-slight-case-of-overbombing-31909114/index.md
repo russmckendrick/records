@@ -28,20 +28,20 @@ styles: ["Goth Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Under The Gun | 5:41 |
-| A2 | Temple Of Love (1992) | 8:03 |
-| A3 | Vision Thing | 7:33 |
-| B1 | Detonation Boulevard | 3:48 |
-| B2 | Doctor Jeep | 3:00 |
-| B3 | More | 8:23 |
-| C1 | Lucretia My Reflection | 8:43 |
-| C2 | Dominion / Mother Russia | 7:01 |
-| D1 | This Corrosion | 10:16 |
-| D2 | No Time To Cry | 3:56 |
-| D3 | Walk Away | 3:22 |
-| D4 | Body And Soul | 3:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Under The Gun |
+| A2 | Temple Of Love (1992) |
+| A3 | Vision Thing |
+| B1 | Detonation Boulevard |
+| B2 | Doctor Jeep |
+| B3 | More |
+| C1 | Lucretia My Reflection |
+| C2 | Dominion / Mother Russia |
+| D1 | This Corrosion |
+| D2 | No Time To Cry |
+| D3 | Walk Away |
+| D4 | Body And Soul |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Goth Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Repress Stereo (Purple) |
 | Label          | Merciful Release |
 | Catalog Number | 0190295695071 |
-| Notes | Gatefold sleeve with lyrics.<br>Track timings printed on side labels.<br>Runouts are etched. |
+| Notes | Gatefold sleeve with lyrics. Track timings printed on side labels. Runouts are etched. |
 | Discogs URL    | [The Sisters Of Mercy - Greatest Hits Volume One - A Slight Case Of Overbombing](https://www.discogs.com/release/31909114-The-Sisters-Of-Mercy-Greatest-Hits-Volume-One-A-Slight-Case-Of-Overbombing) |

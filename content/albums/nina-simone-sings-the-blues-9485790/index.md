@@ -38,19 +38,19 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Do I Move You? | 2:41 |
-| A2 | Day And Night | 2:34 |
-| A3 | In The Dark | 2:53 |
-| A4 | Real Real | 2:17 |
-| A5 | My Man's Gone Now | 4:13 |
-| A6 | Backlash Blues | 2:14 |
-| B1 | I Want A Little Sugar In My Bowl | 2:27 |
-| B2 | Buck | 2:00 |
-| B3 | Since I Fell For You | 2:44 |
-| B4 | The House Of The Rising Sun | 3:55 |
-| B5 | Blues For Mama | 3:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Do I Move You? |
+| A2 | Day And Night |
+| A3 | In The Dark |
+| A4 | Real Real |
+| A5 | My Man's Gone Now |
+| A6 | Backlash Blues |
+| B1 | I Want A Little Sugar In My Bowl |
+| B2 | Buck |
+| B3 | Since I Fell For You |
+| B4 | The House Of The Rising Sun |
+| B5 | Blues For Mama |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 | Format         | Vinyl LP Album Club Edition Reissue Stereo (Blue, Gatefold) |
 | Label          | RCA Victor |
 | Catalog Number | 88985317261 |
-| Notes | Gatefold sleeve.<br>Comes with an art print and an extra liner with a cocktail recipe and album notes.<br><br>© 1967, 2016 RCA Records, a division of Sony Music Entertainment / Originally released 1967.<br>Manufactured for Vinyl Me, Please by Sony Music Entertainment<br><br>Recorded in RCA Victor's Studio B, New York City.<br><br>Library of Congress Card Numbers R67-2922 (Mono) and R67-2923 (Stereo) apply to this recording.<br><br>Mastered from the original analog tapes [...] @ Sterling Sound, NYC |
+| Notes | Gatefold sleeve. Comes with an art print and an extra liner with a cocktail recipe and album notes.  © 1967, 2016 RCA Records, a division of Sony Music Entertainment / Originally released 1967. Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded in RCA Victor's Studio B, New York City.  Library of Congress Card Numbers R67-2922 (Mono) and R67-2923 (Stereo) apply to this recording.  Mastered from the original analog tapes [...] @ Sterling Sound, NYC |
 | Discogs URL    | [Nina Simone - Nina Simone Sings The Blues](https://www.discogs.com/release/9485790-Nina-Simone-Nina-Simone-Sings-The-Blues) |

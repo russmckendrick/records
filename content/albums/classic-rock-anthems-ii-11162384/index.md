@@ -25,28 +25,28 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Africa |  |
-| A2 | Burning Heart |  |
-| A3 | Danger Zone |  |
-| A4 | Any Way You Want It |  |
-| A5 | Rock The Night |  |
-| B1 | Holding Out For A Hero |  |
-| B2 | Dead Ringer For Love |  |
-| B3 | Rock And Roll Dreams Come Through |  |
-| B4 | Frederick |  |
-| B5 | Don't Look Back |  |
-| C1 | Walk This Way |  |
-| C2 | Human Touch |  |
-| C3 | You're The Voice |  |
-| C4 | Kyrie |  |
-| C5 | Take It On The Run |  |
-| D1 | All The Young Dudes |  |
-| D2 | God Gave Rock And Roll To You |  |
-| D3 | Black Magic Woman |  |
-| D4 | She's Not Here |  |
-| D5 | American Woman |  |
+| Position | Title |
+|----------|--------|
+| A1 | Africa |
+| A2 | Burning Heart |
+| A3 | Danger Zone |
+| A4 | Any Way You Want It |
+| A5 | Rock The Night |
+| B1 | Holding Out For A Hero |
+| B2 | Dead Ringer For Love |
+| B3 | Rock And Roll Dreams Come Through |
+| B4 | Frederick |
+| B5 | Don't Look Back |
+| C1 | Walk This Way |
+| C2 | Human Touch |
+| C3 | You're The Voice |
+| C4 | Kyrie |
+| C5 | Take It On The Run |
+| D1 | All The Young Dudes |
+| D2 | God Gave Rock And Roll To You |
+| D3 | Black Magic Woman |
+| D4 | She's Not Here |
+| D5 | American Woman |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 | Format         | Vinyl 2× LP Compilation (180g, Gatefold) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP006 |
-| Notes | Vinyl exclusive.<br><br>2017 Demon Music Group Ltd.<br>Marketed by Demon Music Group Ltd. London, W12 7FA<br>The Demon Music Group is a BBC Worldwide Company |
+| Notes | Vinyl exclusive.  2017 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company |
 | Discogs URL    | [Various - Classic Rock Anthems II](https://www.discogs.com/release/11162384-Various-Classic-Rock-Anthems-II) |

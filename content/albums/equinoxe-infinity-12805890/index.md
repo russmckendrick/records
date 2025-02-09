@@ -35,18 +35,18 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Watchers (Movement 1)  | 2:58 |
-| A2 | Flying Totems (Movement 2)  | 3:54 |
-| A3 | Robots Don't Cry (Movement 3)  | 5:44 |
-| A4 | All That You Leave Behind (Movement 4)  | 4:01 |
-| A5 | If The Wind Could Speak (Movement 5)  | 1:42 |
-| B1 | Infinity (Movement 6)  | 4:14 |
-| B2 | Machines Are Learning (Movement 7)  | 2:07 |
-| B3 | The Opening (Movement 8) | 4:16 |
-| B4 | Don’t Look Back (Movement 9)  | 3:36 |
-| B5 | Equinoxe Infinity (Movement 10)  | 7:35 |
+| Position | Title |
+|----------|--------|
+| A1 | The Watchers (Movement 1)  |
+| A2 | Flying Totems (Movement 2)  |
+| A3 | Robots Don't Cry (Movement 3)  |
+| A4 | All That You Leave Behind (Movement 4)  |
+| A5 | If The Wind Could Speak (Movement 5)  |
+| B1 | Infinity (Movement 6)  |
+| B2 | Machines Are Learning (Movement 7)  |
+| B3 | The Opening (Movement 8) |
+| B4 | Don’t Look Back (Movement 9)  |
+| B5 | Equinoxe Infinity (Movement 10)  |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album (First Cover) |
 | Label          | Columbia |
 | Catalog Number | 19075876451 |
-| Notes | Pre-mastered with the new FiDef algorithm.<br><br>Made in the EU |
+| Notes | Pre-mastered with the new FiDef algorithm.  Made in the EU |
 | Discogs URL    | [Jean-Michel Jarre - Equinoxe Infinity](https://www.discogs.com/release/12805890-Jean-Michel-Jarre-Equinoxe-Infinity) |

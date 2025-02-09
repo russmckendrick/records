@@ -34,16 +34,16 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Chef's Kiss | 3:45 |
-| A2 | Drop C | 3:22 |
-| A3 | Papa Was A Rolling Stone Journalist | 1:58 |
-| A4 | Fuku | 7:03 |
-| B1 | Unknown Man | 4:23 |
-| B2 | Blue Leo | 3:04 |
-| B3 | Impossible Meatballs | 3:10 |
-| B4 | The Last Benedict | 4:03 |
+| Position | Title |
+|----------|--------|
+| A1 | A Chef's Kiss |
+| A2 | Drop C |
+| A3 | Papa Was A Rolling Stone Journalist |
+| A4 | Fuku |
+| B1 | Unknown Man |
+| B2 | Blue Leo |
+| B3 | Impossible Meatballs |
+| B4 | The Last Benedict |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 | Format         | Vinyl LP 45 RPM Album Limited Edition Stereo (White) |
 | Label          | City Slang |
 | Catalog Number | SLANG50362LP |
-| Notes | ℗ & © 2021 City Slang.<br>Produced and mixed at Battle Tapes, Nashville TN 2019-2020<br>Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken.<br>Songs published by Pathetic Hindsight Music admin by Schubert Music<br><br>Issued with download code card.<br>ONLINE SHOP EXCLUSIVE from the label, City Slang:<br>Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)<br><br> |
+| Notes | ℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)   |
 | Discogs URL    | [Lambchop - Showtunes](https://www.discogs.com/release/18763735-Lambchop-Showtunes) |

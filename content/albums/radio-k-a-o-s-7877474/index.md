@@ -30,16 +30,16 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radio Waves | 4:58 |
-| A2 | Who Needs Information | 5:45 |
-| A3 | Me Or Him | 5:28 |
-| A4 | The Powers That Be | 4:09 |
-| B1 | Sunset Strip | 5:02 |
-| B2 | Home | 6:37 |
-| B3 | Four Minutes | 4:40 |
-| B4 | The Tide Is Turning (After Live Aid) | 5:44 |
+| Position | Title |
+|----------|--------|
+| A1 | Radio Waves |
+| A2 | Who Needs Information |
+| A3 | Me Or Him |
+| A4 | The Powers That Be |
+| B1 | Sunset Strip |
+| B2 | Home |
+| B3 | Four Minutes |
+| B4 | The Tide Is Turning (After Live Aid) |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 | Format         | Vinyl LP Album Promo |
 | Label          | EMI |
 | Catalog Number | 074 24 0783 1 |
-| Notes | Disco destinado a promoción prohibida su venta.<br>℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987<br><br>© 1987 Roger Waters Music Ltd. bajo licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.<br><br>Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)<br><br>Made in Spain. |
+| Notes | Disco destinado a promoción prohibida su venta. ℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987  © 1987 Roger Waters Music Ltd. bajo licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.  Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)  Made in Spain. |
 | Discogs URL    | [Roger Waters - Radio K.A.O.S.](https://www.discogs.com/release/7877474-Roger-Waters-Radio-KAOS) |

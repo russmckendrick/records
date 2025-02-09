@@ -38,15 +38,15 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tom Sawyer | 4:33 |
-| A2 | Red Barchetta | 6:07 |
-| A3 | YYZ | 4:23 |
-| A4 | Limelight | 4:18 |
-|  | The Camera Eye | 10:55 |
-| B2 | Witch Hunt | 4:43 |
-| B3 | Vital Signs | 4:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Tom Sawyer |
+| A2 | Red Barchetta |
+| A3 | YYZ |
+| A4 | Limelight |
+|  | The Camera Eye |
+| B2 | Witch Hunt |
+| B3 | Vital Signs |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118080 |
-| Notes | Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.<br><br>Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980<br>Remastered at Abbey Road Mastering Studios<br><br>DMM Mastering at Abbey Road Mastering Studios - January 2015<br><br>℗ &  © 2015 Mercury Records. Made in the EU |
+| Notes | Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.    Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980  Remastered at Abbey Road Mastering Studios    DMM Mastering at Abbey Road Mastering Studios - January 2015    ℗ &  © 2015 Mercury Records. Made in the EU |
 | Discogs URL    | [Rush - Moving Pictures](https://www.discogs.com/release/7258897-Rush-Moving-Pictures) |

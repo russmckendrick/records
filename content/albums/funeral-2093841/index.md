@@ -39,18 +39,18 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Neighborhood #1 (Tunnels) | 4:48 |
-| A2 | Neighborhood #2 (Laïka) | 3:32 |
-| A3 | Une Année Sans Lumiere | 5:12 |
-| A4 | Neighborhood #3 (Power Out) | 3:41 |
-| A5 | Neighborhood #4 (7 Kettles) | 4:49 |
-| B6 | Crown Of Love | 4:42 |
-| B7 | Wake Up | 5:35 |
-| B8 | Haiti | 4:07 |
-| B9 | Rebellion (Lies) | 5:10 |
-| B10 | In The Backseat | 6:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Neighborhood #1 (Tunnels) |
+| A2 | Neighborhood #2 (Laïka) |
+| A3 | Une Année Sans Lumiere |
+| A4 | Neighborhood #3 (Power Out) |
+| A5 | Neighborhood #4 (7 Kettles) |
+| B6 | Crown Of Love |
+| B7 | Wake Up |
+| B8 | Haiti |
+| B9 | Rebellion (Lies) |
+| B10 | In The Backseat |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 | Format         | Vinyl LP Album Repress (180 Gram) |
 | Label          | Merge Records |
 | Catalog Number | MRG255 |
-| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.<br><br>Housed in an embossed gatefold sleeve.<br><br>The Arcade Fire<br>Funeral<br>September 14, 2004<br><br>Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004<br>Mastered at Disques SNB, Montréal<br><br>©The Arcade Fire 2004<br><br>℗ & © merge records 2005<br><br>Variations on the titles of some tracks:<br>•Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist.<br>•Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert.<br>•Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.<br><br>Tracklisting ascends numerically regardless of disc side.<br><br>Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |
+| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: •Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist. •Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert. •Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.  Tracklisting ascends numerically regardless of disc side.  Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |
 | Discogs URL    | [Arcade Fire - Funeral](https://www.discogs.com/release/2093841-Arcade-Fire-Funeral) |

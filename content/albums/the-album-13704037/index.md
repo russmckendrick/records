@@ -27,17 +27,17 @@ From contemporary reviews, American critics J. D. Considine and Ken Tucker predo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | This Side |  |
-| A1 | Bassline | 5:24 |
-| A2 | Needle To The Groove | 3:41 |
-| A3 | Mega-Mix | 5:49 |
-|  | That Side |  |
-| B1 | Hardcore Hip-Hop | 6:11 |
-| B2 | Ladies | 6:54 |
-| B3 | Get Stupid "Fresh" Part I | 3:48 |
-| B4 | Fresh Is The Word | 3:48 |
+| Position | Title |
+|----------|--------|
+|  | This Side |
+| A1 | Bassline |
+| A2 | Needle To The Groove |
+| A3 | Mega-Mix |
+|  | That Side |
+| B1 | Hardcore Hip-Hop |
+| B2 | Ladies |
+| B3 | Get Stupid "Fresh" Part I |
+| B4 | Fresh Is The Word |
 
 
 ## Apple Music

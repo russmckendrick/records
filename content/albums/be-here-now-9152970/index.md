@@ -47,20 +47,20 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | D'You Know What I Mean? | 7:42 |
-| A2 | My Big Mouth | 5:02 |
-| A3 | Magic Pie | 7:19 |
-| B1 | Stand By Me | 5:56 |
-| B2 | I Hope, I Think, I Know | 4:22 |
-| B3 | The Girl In The Dirty Shirt | 5:49 |
-| C1 | Fade In-Out | 6:52 |
-| C2 | Don't Go Away | 4:48 |
-| C3 | Be Here Now | 5:13 |
-| D1 | All Around The World | 9:20 |
-| D2 | It's Gettin' Better (Man!!) | 7:00 |
-| D3 | All Around The World (Reprise) | 2:08 |
+| Position | Title |
+|----------|--------|
+| A1 | D'You Know What I Mean? |
+| A2 | My Big Mouth |
+| A3 | Magic Pie |
+| B1 | Stand By Me |
+| B2 | I Hope, I Think, I Know |
+| B3 | The Girl In The Dirty Shirt |
+| C1 | Fade In-Out |
+| C2 | Don't Go Away |
+| C3 | Be Here Now |
+| D1 | All Around The World |
+| D2 | It's Gettin' Better (Man!!) |
+| D3 | All Around The World (Reprise) |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85 |
-| Notes | Double heavyweight vinyl.<br>Includes download code for album, rare & unreleased tracks, & mustique demos.<br><br>Original release date was 7.10.2016 but it was postponed to 14.10.2016. <br><br>Back sleeve:<br>℗ & © 2016 Big Brother Recordings Ltd<br>The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.<br><br>WWW.OASISINET.COM<br><br>All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)<br><br>Inside panel:<br>Recorded at Abbey Road, Ridge Farm, Air, Master Rock and Orinoco Studios, England between Nov 96 - April 97<br>All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)<br><br>Labels:<br>The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.<br>℗ & © 2016 Big Brother Recordings Ltd<br>All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd) |
+| Notes | Double heavyweight vinyl. Includes download code for album, rare & unreleased tracks, & mustique demos.  Original release date was 7.10.2016 but it was postponed to 14.10.2016.   Back sleeve: ℗ & © 2016 Big Brother Recordings Ltd The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.  WWW.OASISINET.COM  All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Inside panel: Recorded at Abbey Road, Ridge Farm, Air, Master Rock and Orinoco Studios, England between Nov 96 - April 97 All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Labels: The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd. ℗ & © 2016 Big Brother Recordings Ltd All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd) |
 | Discogs URL    | [Oasis - Be Here Now](https://www.discogs.com/release/9152970-Oasis-2-Be-Here-Now) |

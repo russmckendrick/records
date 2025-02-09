@@ -42,28 +42,28 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part 1 |  |
-| A1 | Spirit Power & Soul |  |
-| A2 | Receiver |  |
-| A3 | All These Days |  |
-| A4 | Ariel |  |
-|  | Part 2 |  |
-| B1 | Lightning People |  |
-| B2 | Hideaway Girl |  |
-| B3 | Sensory Street |  |
-| B4 | Tenement Time |  |
-|  | Part 3 |  |
-| C1 | The Speed Of Love |  |
-| C2 | Night And Day |  |
-| C3 | Counter-clock World |  |
-| C4 | Rubicon |  |
-|  | Part 4 |  |
-| D1 | God's Gift |  |
-| D2 | Ghoster |  |
-| D3 | The Whirl |  |
-| D4 | Human |  |
+| Position | Title |
+|----------|--------|
+|  | Part 1 |
+| A1 | Spirit Power & Soul |
+| A2 | Receiver |
+| A3 | All These Days |
+| A4 | Ariel |
+|  | Part 2 |
+| B1 | Lightning People |
+| B2 | Hideaway Girl |
+| B3 | Sensory Street |
+| B4 | Tenement Time |
+|  | Part 3 |
+| C1 | The Speed Of Love |
+| C2 | Night And Day |
+| C3 | Counter-clock World |
+| C4 | Rubicon |
+|  | Part 4 |
+| D1 | God's Gift |
+| D2 | Ghoster |
+| D3 | The Whirl |
+| D4 | Human |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Turquoise) |
 | Label          | BMG |
 | Catalog Number | NVLP005T |
-| Notes | Gatefold sleeve with inner sleeves with lyrics printed on them.<br>Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"<br><br>500 copies were retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Obi signed by Johnny Marr.<br><br>Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.<br><br>Manufactured in Poland.<br><br>Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr. |
+| Notes | Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  500 copies were retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Obi signed by Johnny Marr.  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr. |
 | Discogs URL    | [Johnny Marr - Fever Dreams Pts 1-4](https://www.discogs.com/release/22287256-Johnny-Marr-Fever-Dreams-Pts-1-4) |

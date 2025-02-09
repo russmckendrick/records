@@ -35,28 +35,28 @@ styles: ["Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pretty Vacant |  |
-| A2 | God Save The Queen |  |
-| A3 | Bodies |  |
-| A4 | No Feelings |  |
-| A5 | I Wanna Be Me |  |
-| B1 | Anarchy In The UK |  |
-| B2 | Submission |  |
-| B3 | No Fun |  |
-| B4 | (I'm Not Your) Stepping Stone |  |
-| B5 | Holidays In The Sun |  |
-| C1 | New York |  |
-| C2 | Problems |  |
-| C3 | Lonely Boy |  |
-| C4 | Silly Things |  |
-| C5 | Something Else |  |
-| D1 | C'Mon Everybody |  |
-| D2 | Satellite |  |
-| D3 | Did You No Wrong |  |
-| D4 | Substitute |  |
-| D5 | My Way |  |
+| Position | Title |
+|----------|--------|
+| A1 | Pretty Vacant |
+| A2 | God Save The Queen |
+| A3 | Bodies |
+| A4 | No Feelings |
+| A5 | I Wanna Be Me |
+| B1 | Anarchy In The UK |
+| B2 | Submission |
+| B3 | No Fun |
+| B4 | (I'm Not Your) Stepping Stone |
+| B5 | Holidays In The Sun |
+| C1 | New York |
+| C2 | Problems |
+| C3 | Lonely Boy |
+| C4 | Silly Things |
+| C5 | Something Else |
+| D1 | C'Mon Everybody |
+| D2 | Satellite |
+| D3 | Did You No Wrong |
+| D4 | Substitute |
+| D5 | My Way |
 
 
 ## Apple Music

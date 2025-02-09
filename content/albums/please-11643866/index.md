@@ -35,18 +35,18 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Two Divided By Zero | 3:33 |
-| A2 | West End Girls | 4:47 |
-| A3 | Opportunities (Let's Make Lots Of Money) | 3:44 |
-| A4 | Love Comes Quickly | 4:19 |
-| A5 | Suburbia | 5:07 |
-| B1 | Tonight Is Forever | 4:30 |
-| B2 | Violence | 4:28 |
-| B3 | I Want A Lover | 4:05 |
-| B4 | Later Tonight | 2:49 |
-| B5 | Why Don't We Live Together? | 4:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Two Divided By Zero |
+| A2 | West End Girls |
+| A3 | Opportunities (Let's Make Lots Of Money) |
+| A4 | Love Comes Quickly |
+| A5 | Suburbia |
+| B1 | Tonight Is Forever |
+| B2 | Violence |
+| B3 | I Want A Lover |
+| B4 | Later Tonight |
+| B5 | Why Don't We Live Together? |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 190295832759 |
-| Notes | Engineered by David Jacob at Advision Studios, London.<br>Andy Mackay courtesy of Virgin Records Ltd.<br>Helena Springs courtesy of Arista Records Ltd.<br>2018 Remastering: Tim Young/Metropolis.<br><br>℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved.<br>Made in the EU.<br><br>Comes with printed inner sleeve and sticker on shrinkwrap:<br>"pet shop boys<br>please<br>Pressed onto 180g heavyweight<br>vinyl featuring a brand new 2018<br>remaster of the original album<br>0190295832759"<br> |
+| Notes | Engineered by David Jacob at Advision Studios, London. Andy Mackay courtesy of Virgin Records Ltd. Helena Springs courtesy of Arista Records Ltd. 2018 Remastering: Tim Young/Metropolis.  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Comes with printed inner sleeve and sticker on shrinkwrap: "pet shop boys please Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album 0190295832759"  |
 | Discogs URL    | [Pet Shop Boys - Please](https://www.discogs.com/release/11643866-Pet-Shop-Boys-Please) |

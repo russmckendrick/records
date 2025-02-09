@@ -27,20 +27,20 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blockbuster |  |
-| A2 | You're So Vain |  |
-| A3 | Always On My Mind |  |
-| A4 | Relay |  |
-| A5 | Dreidel |  |
-| A6 | The Jean Genie |  |
-| B1 | Me And Mrs. Jones |  |
-| B2 | C. Moon |  |
-| B3 | Papa Was A Rollin' Stone |  |
-| B4 | Ball Park Incident |  |
-| B5 | Roll Over Beethoven |  |
-| B6 | Wishing Well |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blockbuster |
+| A2 | You're So Vain |
+| A3 | Always On My Mind |
+| A4 | Relay |
+| A5 | Dreidel |
+| A6 | The Jean Genie |
+| B1 | Me And Mrs. Jones |
+| B2 | C. Moon |
+| B3 | Papa Was A Rollin' Stone |
+| B4 | Ball Park Incident |
+| B5 | Roll Over Beethoven |
+| B6 | Wishing Well |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 | Format         | Vinyl LP Stereo |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50056 |
-| Notes | Album consists of various unaccredited session artists recreating the hits of the day.<br><br>℗ 1973 <br>BWD Productions<br><br>A BWD Production<br><br>Made in England.<br><br><br><br><br> |
+| Notes | Album consists of various unaccredited session artists recreating the hits of the day.  ℗ 1973  BWD Productions  A BWD Production  Made in England.      |
 | Discogs URL    | [Unknown Artist - Hot Hits 16](https://www.discogs.com/release/1425998-Unknown-Artist-Hot-Hits-16) |

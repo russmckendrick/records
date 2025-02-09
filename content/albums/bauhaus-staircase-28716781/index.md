@@ -24,20 +24,20 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bauhaus Staircase |  |
-| A2 | Anthropocene |  |
-| A3 | Look At You Now |  |
-| A4 | G.E.M. |  |
-| A5 | Where We Started |  |
-| A6 | Veruschka |  |
-| B1 | Slow Train |  |
-| B2 | Don't Go |  |
-| B3 | Kleptocracy |  |
-| B4 | Aphrodite's Favourite Child |  |
-| B5 | Evolution Of Species |  |
-| B6 | Healing |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bauhaus Staircase |
+| A2 | Anthropocene |
+| A3 | Look At You Now |
+| A4 | G.E.M. |
+| A5 | Where We Started |
+| A6 | Veruschka |
+| B1 | Slow Train |
+| B2 | Don't Go |
+| B3 | Kleptocracy |
+| B4 | Aphrodite's Favourite Child |
+| B5 | Evolution Of Species |
+| B6 | Healing |
 
 
 ## Apple Music

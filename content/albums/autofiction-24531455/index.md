@@ -37,19 +37,19 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Still Leads Me On | 4:08 |
-| A2 | Personality Disorder | 4:00 |
-| A3 | 15 Again | 3:24 |
-| A4 | The Only Way I Can Love You | 4:07 |
-| A5 | That Boy On The Stage | 2:35 |
-| A6 | Drive Myself Home | 4:29 |
-| B1 | Black Ice | 2:45 |
-| B2 | Shadow Self | 3:33 |
-| B3 | It's Always The Quiet Ones | 4:12 |
-| B4 | What Am I Without You? | 6:17 |
-| B5 | Turn Off Your Brain And Yell | 5:54 |
+| Position | Title |
+|----------|--------|
+| A1 | She Still Leads Me On |
+| A2 | Personality Disorder |
+| A3 | 15 Again |
+| A4 | The Only Way I Can Love You |
+| A5 | That Boy On The Stage |
+| A6 | Drive Myself Home |
+| B1 | Black Ice |
+| B2 | Shadow Self |
+| B3 | It's Always The Quiet Ones |
+| B4 | What Am I Without You? |
+| B5 | Turn Off Your Brain And Yell |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 | Format         | Vinyl LP Album Stereo (Grey) |
 | Label          | BMG |
 | Catalog Number | 538804791 |
-| Notes | 'Bricks and Mortar'* exclusive colour<br><br>*Independent and HMV retail and online shops<br><br>Gatefold sleeve<br><br>Manufactured In Czech Republic |
+| Notes | 'Bricks and Mortar'* exclusive colour  *Independent and HMV retail and online shops  Gatefold sleeve  Manufactured In Czech Republic |
 | Discogs URL    | [Suede - Autofiction](https://www.discogs.com/release/24531455-Suede-Autofiction) |

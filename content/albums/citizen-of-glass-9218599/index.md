@@ -31,18 +31,18 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stretch Your Eyes |  |
-| A2 | Familiar |  |
-| A3 | Red Virgin Soil |  |
-| A4 | It's Happening Again |  |
-| A5 | Stone |  |
-| B1 | Trojan Horses |  |
-| B2 | Citizen Of Glass |  |
-| B3 | Golden Green |  |
-| B4 | Grasshopper |  |
-| B5 | Mary |  |
+| Position | Title |
+|----------|--------|
+| A1 | Stretch Your Eyes |
+| A2 | Familiar |
+| A3 | Red Virgin Soil |
+| A4 | It's Happening Again |
+| A5 | Stone |
+| B1 | Trojan Horses |
+| B2 | Citizen Of Glass |
+| B3 | Golden Green |
+| B4 | Grasshopper |
+| B5 | Mary |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | [PIAS] |
 | Catalog Number | PIASR905LP |
-| Notes | Debossed gatefold sleeve with full lyrics and credits printed on inside.<br>Includes download code for MP3 and/or FLAC digital copy of the album.<br><br>Dedicated to Ole.<br><br>(P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam.<br>All runouts etched.<br> |
+| Notes | Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched.  |
 | Discogs URL    | [Agnes Obel - Citizen Of Glass](https://www.discogs.com/release/9218599-Agnes-Obel-Citizen-Of-Glass) |

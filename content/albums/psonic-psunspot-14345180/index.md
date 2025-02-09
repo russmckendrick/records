@@ -33,18 +33,18 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Vanishing Girl | 3:00 |
-| A2 | Have You Seen Jackie? | 3:20 |
-| A3 | Little Lighthouse | 4:30 |
-| A4 | You're A Good Man Albert Brown (Curse You Red Barrel) | 3:38 |
-| A5 | Collideascope | 3:22 |
-| B1 | You're My Drug | 3:18 |
-| B2 | Shiny Cage | 3:15 |
-| B3 | Brainiac's Daughter | 3:58 |
-| B4 | The Affiliated | 2:30 |
-| B5 | Pale And Precious | 4:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Vanishing Girl |
+| A2 | Have You Seen Jackie? |
+| A3 | Little Lighthouse |
+| A4 | You're A Good Man Albert Brown (Curse You Red Barrel) |
+| A5 | Collideascope |
+| B1 | You're My Drug |
+| B2 | Shiny Cage |
+| B3 | Brainiac's Daughter |
+| B4 | The Affiliated |
+| B5 | Pale And Precious |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 | Format         | Vinyl LP Album Reissue Repress Stereo (Gatefold, 200 Gram) |
 | Label          | Ape House |
 | Catalog Number | APELP024 |
-| Notes | This reissue is a repress of the 2010 release [r=2770110], cut by [a=John Dent]. This release was originally marketed as a new cut from [a501967], but they found and used the previously used plates.<br><br>Back cover:<br>All songs by Andy Partridge as SIR JOHN JOHNS except A1, B2, B4 by Colin Moulding as THE RED CURTAIN<br>℗ 2019 Ape House Ltd. © 2019 Ape House Ltd. Made In England<br><br>On labels:<br>℗ 2019 Ape House Ltd. © 2019 Ape House Ltd.<br><br>No track times on this issue.<br><br>Some copies issued with a colour-printed polylined inner sleeve with bevelled corners, showing XTC back catalogue on one side and some more APE releases on the other side.<br><br>Recorded at Sawmill Studios, Cornwall. Mastered [...] at Loud Mastering. |
+| Notes | This reissue is a repress of the 2010 release [r=2770110], cut by [a=John Dent]. This release was originally marketed as a new cut from [a501967], but they found and used the previously used plates.  Back cover: All songs by Andy Partridge as SIR JOHN JOHNS except A1, B2, B4 by Colin Moulding as THE RED CURTAIN ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd. Made In England  On labels: ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd.  No track times on this issue.  Some copies issued with a colour-printed polylined inner sleeve with bevelled corners, showing XTC back catalogue on one side and some more APE releases on the other side.  Recorded at Sawmill Studios, Cornwall. Mastered [...] at Loud Mastering. |
 | Discogs URL    | [XTC - Psonic Psunspot](https://www.discogs.com/release/14345180-XTC-As-The-Dukes-Of-Stratosphear-Psonic-Psunspot) |

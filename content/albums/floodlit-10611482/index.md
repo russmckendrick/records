@@ -25,12 +25,12 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dumbstruck & Floodlit | 8:23 |
-| A2 | Hazel | 2:29 |
-| B1 | Cassandra | 1:37 |
-| B2 | Lacquer | 7:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Dumbstruck & Floodlit |
+| A2 | Hazel |
+| B1 | Cassandra |
+| B2 | Lacquer |
 
 
 ## Apple Music
@@ -47,5 +47,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP 45 RPM EP Limited Edition Repress (Cream) |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR166 |
-| Notes | Repress, Edition of 250. <br>Durations taken from digital files.  |
+| Notes | Repress, Edition of 250.  Durations taken from digital files.  |
 | Discogs URL    | [Pijn - Floodlit](https://www.discogs.com/release/10611482-Pijn-Floodlit) |

@@ -34,18 +34,18 @@ The Magpie Salute was an American rock band formed in 2016 by the Black Crowes g
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Omission |  |
-| A2 | Comin' Home |  |
-| A3 | What Is Home |  |
-| B1 | Wiser Time |  |
-| B2 | Goin' Down South |  |
-| C1 | War Drums |  |
-| C2 | Ain't No More Cane |  |
-| D1 | Fearless |  |
-| D2 | Glad And Sorry |  |
-| D3 | Time Will Tell |  |
+| Position | Title |
+|----------|--------|
+| A1 | Omission |
+| A2 | Comin' Home |
+| A3 | What Is Home |
+| B1 | Wiser Time |
+| B2 | Goin' Down South |
+| C1 | War Drums |
+| C2 | Ain't No More Cane |
+| D1 | Fearless |
+| D2 | Glad And Sorry |
+| D3 | Time Will Tell |
 
 
 ## Apple Music

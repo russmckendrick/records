@@ -31,16 +31,16 @@ Street Songs is the fifth studio album by American musician Rick James, released
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Give It To Me Baby | 4:07 |
-| A2 | Ghetto Life | 4:20 |
-| A3 | Make Love To Me | 4:48 |
-| A4 | Mr. Policeman | 4:17 |
-| B1 | Super Freak | 3:25 |
-| B2 | Fire And Desire | 7:19 |
-| B3 | Call Me Up | 3:54 |
-| B4 | Below The Funk (Pass The J) | 2:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Give It To Me Baby |
+| A2 | Ghetto Life |
+| A3 | Make Love To Me |
+| A4 | Mr. Policeman |
+| B1 | Super Freak |
+| B2 | Fire And Desire |
+| B3 | Call Me Up |
+| B4 | Below The Funk (Pass The J) |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Street Songs is the fifth studio album by American musician Rick James, released
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Gordy |
 | Catalog Number | G 1002 |
-| Notes | Includes voucher to download MP3 version of the album.<br><br>On back cover :<br>℗ 1981 Motown Records Company L.P. A Universal Music Company<br>© 1981 Motown Records Company L.P. A Universal Music Company<br>Made in the EU.<br>LC 01846. 0600753160107<br><br>On inner sleeve :<br>Steve Price, courtesy of A&M Records<br>Michael Narada Walden, courtesy of Atlantic Recording Corp.<br>Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records. |
+| Notes | Includes voucher to download MP3 version of the album.  On back cover : ℗ 1981 Motown Records Company L.P. A Universal Music Company © 1981 Motown Records Company L.P. A Universal Music Company Made in the EU. LC 01846. 0600753160107  On inner sleeve : Steve Price, courtesy of A&M Records Michael Narada Walden, courtesy of Atlantic Recording Corp. Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records. |
 | Discogs URL    | [Rick James - Street Songs](https://www.discogs.com/release/9106450-Rick-James-Street-Songs) |

@@ -40,19 +40,19 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Mirror | 4:13 |
-| A2 | Keep The Car Running | 3:29 |
-| A3 | Neon Bible | 2:16 |
-| A4 | Intervention | 4:19 |
-| B5 | Black Wave / Bad Vibrations | 3:57 |
-| B6 | Ocean Of Noise | 4:53 |
-| B7 | The Well And The Lighthouse | 3:56 |
-| B8 | (Antichrist Television Blues) | 5:07 |
-| C9 | Windowsill | 4:16 |
-| C10 | No Cars Go | 5:43 |
-| C11 | My Body Is A Cage | 4:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Mirror |
+| A2 | Keep The Car Running |
+| A3 | Neon Bible |
+| A4 | Intervention |
+| B5 | Black Wave / Bad Vibrations |
+| B6 | Ocean Of Noise |
+| B7 | The Well And The Lighthouse |
+| B8 | (Antichrist Television Blues) |
+| C9 | Windowsill |
+| C10 | No Cars Go |
+| C11 | My Body Is A Cage |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched Special Cut, All Media Album (Gatefold) |
 | Label          | Sonovox Records |
 | Catalog Number | 1724447 |
-| Notes | LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.<br><br>Side three has a locked groove in the run out repeatedly playing the same, short piece of music.<br><br>Recorded and mixed during 2006 at "the church" in Quebec.<br>Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.<br><br>The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.<br><br>Tracks listed sequentially on release.<br><br>Runouts are etched. |
+| Notes | LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.  Side three has a locked groove in the run out repeatedly playing the same, short piece of music.  Recorded and mixed during 2006 at "the church" in Quebec. Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.  The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.  Tracks listed sequentially on release.  Runouts are etched. |
 | Discogs URL    | [Arcade Fire - Neon Bible](https://www.discogs.com/release/1022035-Arcade-Fire-Neon-Bible) |

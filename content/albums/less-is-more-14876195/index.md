@@ -39,20 +39,20 @@ Less Is More is an acoustic studio album by Marillion, released on the band's ow
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Go! |  |
-| A2 | Interior Lulu |  |
-| A3 | Out Of This World |  |
-| B1 | Wrapped Up In Time |  |
-| B2 | The Space |  |
-| B3 | Hard As Love |  |
-| C1 | Quartz |  |
-| C2 | If My Heart Were A Ball |  |
-| C3 | It's Not Your Fault |  |
-| D1 | The Memory Of Water |  |
-| D2 | This Is The 21st Century |  |
-| D3 | Cannibal Surf Babe |  |
+| Position | Title |
+|----------|--------|
+| A1 | Go! |
+| A2 | Interior Lulu |
+| A3 | Out Of This World |
+| B1 | Wrapped Up In Time |
+| B2 | The Space |
+| B3 | Hard As Love |
+| C1 | Quartz |
+| C2 | If My Heart Were A Ball |
+| C3 | It's Not Your Fault |
+| D1 | The Memory Of Water |
+| D2 | This Is The 21st Century |
+| D3 | Cannibal Surf Babe |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Less Is More is an acoustic studio album by Marillion, released on the band's ow
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (White, 180 gram) |
 | Label          | Ear Music |
 | Catalog Number | 0214647EMU |
-| Notes | Gatefold sleeve.<br>- Limited Edition (1000 only)<br>- Printed inner sleeves containing lyrics and credits<br><br>Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.<br><br>℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH.<br>MADE IN GERMANY<br><br>All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched.  |
+| Notes | Gatefold sleeve. - Limited Edition (1000 only) - Printed inner sleeves containing lyrics and credits  Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.  ℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH. MADE IN GERMANY  All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched.  |
 | Discogs URL    | [Marillion - Less Is More](https://www.discogs.com/release/14876195-Marillion-Less-Is-More) |

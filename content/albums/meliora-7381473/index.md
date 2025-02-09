@@ -47,18 +47,18 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spirit | 5:15 |
-| A2 | From The Pinnacle To The Pit | 4:02 |
-| A3 | Cirice | 6:02 |
-| A4 | Spöksonat | 0:56 |
-| A5 | He Is | 4:13 |
-| B1 | Mummy Dust | 4:07 |
-| B2 | Majesty | 5:24 |
-| B3 | Devil Church | 1:06 |
-| B4 | Absolution | 4:50 |
-| B5 | Deus In Absentia | 5:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Spirit |
+| A2 | From The Pinnacle To The Pit |
+| A3 | Cirice |
+| A4 | Spöksonat |
+| A5 | He Is |
+| B1 | Mummy Dust |
+| B2 | Majesty |
+| B3 | Devil Church |
+| B4 | Absolution |
+| B5 | Deus In Absentia |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 | Format         | Vinyl LP Album |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE237751 |
-| Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records. <br><br>Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet. <br><br>Runouts are etched and stamped<br><br><br><br> |
+| Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped     |
 | Discogs URL    | [Ghost - Meliora](https://www.discogs.com/release/7381473-Ghost-32-Meliora) |

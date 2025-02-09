@@ -36,19 +36,19 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Packt Like Sardines In A Crushd Tin Box |  |
-| A2 | Pyramid Song |  |
-| A3 | Pull/Pulk Revolving Doors |  |
-| B1 | You And Whose Army? |  |
-| B2 | I Might Be Wrong |  |
-| C1 | Knives Out |  |
-| C2 | Morning Bell/Amnesiac |  |
-| C3 | Dollars And Cents |  |
-| D1 | Hunting Bears |  |
-| D2 | Like Spinning Plates |  |
-| D3 | Life In A Glasshouse |  |
+| Position | Title |
+|----------|--------|
+| A1 | Packt Like Sardines In A Crushd Tin Box |
+| A2 | Pyramid Song |
+| A3 | Pull/Pulk Revolving Doors |
+| B1 | You And Whose Army? |
+| B2 | I Might Be Wrong |
+| C1 | Knives Out |
+| C2 | Morning Bell/Amnesiac |
+| C3 | Dollars And Cents |
+| D1 | Hunting Bears |
+| D2 | Like Spinning Plates |
+| D3 | Life In A Glasshouse |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 | Format         | Vinyl 2× 10" 33 ⅓ RPM Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP783 |
-| Notes | From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.<br><br>Including voucher with download code |
+| Notes | From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.  Including voucher with download code |
 | Discogs URL    | [Radiohead - Amnesiac](https://www.discogs.com/release/8992372-Radiohead-Amnesiac) |

@@ -28,11 +28,11 @@ S'well is a reusable water bottle and insulated products company headquartered i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Swell | 20:42 |
-| B1 | Jacques Cousteau | 11:13 |
-| B2 | Seagull | 9:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Swell |
+| B1 | Jacques Cousteau |
+| B2 | Seagull |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ S'well is a reusable water bottle and insulated products company headquartered i
 | Format         | Vinyl LP Album Limited Edition (FX) |
 | Label          | Rockosmos |
 | Catalog Number | ROK151 |
-| Notes | Limited 180 FX Vinyl.<br>Track timings not listed. |
+| Notes | Limited 180 FX Vinyl. Track timings not listed. |
 | Discogs URL    | [Sel Balamir - Swell](https://www.discogs.com/release/22720439-Sel-Balamir-Swell) |

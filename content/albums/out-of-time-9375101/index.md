@@ -42,41 +42,41 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Time Side |  |
-| A1 | Radio Song | 4:12 |
-| A2 | Losing My Religion | 4:26 |
-| A3 | Low | 4:55 |
-| A4 | Near Wild Heaven | 3:17 |
-| A5 | Endgame | 3:48 |
-|  | Memory Side |  |
-| B1 | Shiny Happy People | 3:44 |
-| B2 | Belong | 4:03 |
-| B3 | Half A World Away | 3:26 |
-| B4 | Texarkana | 3:36 |
-| B5 | Country Feedback | 4:07 |
-| B6 | Me In Honey | 4:06 |
-|  | Out Of Time Demos |  |
-| C1 | Losing My Religion 1 (Demo) | 4:00 |
-| C2 | Near Wild Heaven 1 (Demo) | 4:09 |
-| C3 | Shiny Happy People 1 (Demo) | 3:14 |
-| C4 | Texarkana 1 (Demo) | 3:50 |
-| C5 | Untitled Demo 2 | 3:33 |
-| D1 | Radio – Acoustic (Radio Song 1 Demo) | 4:15 |
-| D2 | Near Wild Heaven 2 (Demo) | 4:34 |
-| D3 | Shiny Happy People 2 (Demo) | 3:55 |
-| D4 | Slow Sad Rocker (Endgame Demo) | 4:34 |
-| E1 | Radio – Band (Radio Song 3 Demo) | 4:22 |
-| E2 | Losing My Religion 2 (Demo) | 4:36 |
-| E3 | Belong (Demo) | 4:17 |
-| E4 | Blackbirds (Half A World Away Demo) | 3:26 |
-| E5 | Texarkana (Demo) | 4:06 |
-| F1 | Country Feedback (Demo) | 4:03 |
-| F2 | Me On Keyboard (Me In Honey Demo) | 3:42 |
-| F3 | Low (Demo) | 4:54 |
-| F4 | 40 Sec. (40 Second Song Demo) | 1:22 |
-| F5 | Fretless 1 (Demo) | 4:52 |
+| Position | Title |
+|----------|--------|
+|  | Time Side |
+| A1 | Radio Song |
+| A2 | Losing My Religion |
+| A3 | Low |
+| A4 | Near Wild Heaven |
+| A5 | Endgame |
+|  | Memory Side |
+| B1 | Shiny Happy People |
+| B2 | Belong |
+| B3 | Half A World Away |
+| B4 | Texarkana |
+| B5 | Country Feedback |
+| B6 | Me In Honey |
+|  | Out Of Time Demos |
+| C1 | Losing My Religion 1 (Demo) |
+| C2 | Near Wild Heaven 1 (Demo) |
+| C3 | Shiny Happy People 1 (Demo) |
+| C4 | Texarkana 1 (Demo) |
+| C5 | Untitled Demo 2 |
+| D1 | Radio – Acoustic (Radio Song 1 Demo) |
+| D2 | Near Wild Heaven 2 (Demo) |
+| D3 | Shiny Happy People 2 (Demo) |
+| D4 | Slow Sad Rocker (Endgame Demo) |
+| E1 | Radio – Band (Radio Song 3 Demo) |
+| E2 | Losing My Religion 2 (Demo) |
+| E3 | Belong (Demo) |
+| E4 | Blackbirds (Half A World Away Demo) |
+| E5 | Texarkana (Demo) |
+| F1 | Country Feedback (Demo) |
+| F2 | Me On Keyboard (Me In Honey Demo) |
+| F3 | Low (Demo) |
+| F4 | 40 Sec. (40 Second Song Demo) |
+| F5 | Fretless 1 (Demo) |
 
 
 ## Apple Music
@@ -94,5 +94,5 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP (Demos), All Media Limited Edition Remastered (25th Anniversary Edition, 180 Gram) |
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072010246 |
-| Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.<br><br>On back:<br>Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
+| Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
 | Discogs URL    | [REM - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |

@@ -30,13 +30,13 @@ The strength of a magnetic field always decreases with distance from the magneti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Magnet In Your Face | 1:41 |
-| 2 | Palm Trees | 4:00 |
-| 3 | Flint | 4:24 |
-| 4 | Part 6 (The 8th Circuit) | 3:59 |
-| 5 | Chief (Rehearsal Recording) | 5:05 |
+| Position | Title |
+|----------|--------|
+| 1 | Magnet In Your Face |
+| 2 | Palm Trees |
+| 3 | Flint |
+| 4 | Part 6 (The 8th Circuit) |
+| 5 | Chief (Rehearsal Recording) |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ The strength of a magnetic field always decreases with distance from the magneti
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Limited Edition Stereo (Screenprint) |
 | Label          | Crate Digger Records |
 | Catalog Number | CDIGG001 |
-| Notes | Limited Edition of 500<br>Screen printed B side<br><br>Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios<br>Tracks 5 recorded at the New Empowering Church |
+| Notes | Limited Edition of 500 Screen printed B side  Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios Tracks 5 recorded at the New Empowering Church |
 | Discogs URL    | [The Fierce  The Dead - Magnet](https://www.discogs.com/release/8267564-The-Fierce-The-Dead-Magnet) |

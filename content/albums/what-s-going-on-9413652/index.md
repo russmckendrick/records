@@ -51,51 +51,51 @@ The album was an immediate commercial and critical success, and came to be viewe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original LP Release (May 21 1971) |  |
-| A1 | What's Going On | 3:51 |
-| A2 | What's Happening Brother | 2:44 |
-| A3 | Flyin' High (In The Friendly Sky) | 3:49 |
-| A4 | Save The Children | 4:03 |
-| A5 | God Is Love | 1:42 |
-| A6 | Mercy Mercy Me (The Ecology) | 3:13 |
-| B1 | Right On | 7:31 |
-| B2 | Wholy Holy | 3:08 |
-| B3 | Inner City Blues (Make Me Wanna Holler) | 5:28 |
-|  | Original Detroit Mix (April 5 1971) |  |
-| C1 | What's Going On | 4:07 |
-| C2 | What's Happening Brother | 2:43 |
-| C3 | Flyin' High (In The Friendly Sky) | 3:48 |
-| C4 | Save The Children | 4:01 |
-| C5 | God Is Love | 1:46 |
-| C6 | Mercy Mercy Me (The Ecology) | 3:04 |
-| D1 | Right On | 7:31 |
-| D2 | Wholy Holy | 3:07 |
-| D3 | Inner City Blues (Make Me Wanna Holler) | 5:36 |
-|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |  |
-|  | Sixties Medley | 13:23 |
-| E2 | Right On | 7:33 |
-| F1 | Wholy Holy | 3:32 |
-| F2 | Inner City Blues (Make Me Wanna Holler) | 9:05 |
-| F3 | What's Going On | 5:42 |
-| F4 | What's Happening Brother | 2:54 |
-|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |  |
-| G1 | Flyin' High (In The Friendly Sky) | 3:51 |
-| G2 | Save The Children | 4:22 |
-| G3 | God Is Love | 1:43 |
-| G4 | Stage Dialogue | 2:34 |
-|  | Reprise |  |
-| G5 | Inner City Blues (Make Me Wanna Holler) | 5:12 |
-| G6 | What's Going On | 4:01 |
-|  | Single Versions |  |
-| H1 | What's Going On | 3:53 |
-| H2 | God Is Love | 2:47 |
-| H3 | Sad Tomorrows | 2:24 |
-|  | In The Meantime... |  |
-| H4 | Head Title (AKA Distant Lover) | 4:07 |
-|  | The Foundation |  |
-| H5 | What's Going On - Rhythm 'N' Strings Mix | 3:50 |
+| Position | Title |
+|----------|--------|
+|  | Original LP Release (May 21 1971) |
+| A1 | What's Going On |
+| A2 | What's Happening Brother |
+| A3 | Flyin' High (In The Friendly Sky) |
+| A4 | Save The Children |
+| A5 | God Is Love |
+| A6 | Mercy Mercy Me (The Ecology) |
+| B1 | Right On |
+| B2 | Wholy Holy |
+| B3 | Inner City Blues (Make Me Wanna Holler) |
+|  | Original Detroit Mix (April 5 1971) |
+| C1 | What's Going On |
+| C2 | What's Happening Brother |
+| C3 | Flyin' High (In The Friendly Sky) |
+| C4 | Save The Children |
+| C5 | God Is Love |
+| C6 | Mercy Mercy Me (The Ecology) |
+| D1 | Right On |
+| D2 | Wholy Holy |
+| D3 | Inner City Blues (Make Me Wanna Holler) |
+|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |
+|  | Sixties Medley |
+| E2 | Right On |
+| F1 | Wholy Holy |
+| F2 | Inner City Blues (Make Me Wanna Holler) |
+| F3 | What's Going On |
+| F4 | What's Happening Brother |
+|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |
+| G1 | Flyin' High (In The Friendly Sky) |
+| G2 | Save The Children |
+| G3 | God Is Love |
+| G4 | Stage Dialogue |
+|  | Reprise |
+| G5 | Inner City Blues (Make Me Wanna Holler) |
+| G6 | What's Going On |
+|  | Single Versions |
+| H1 | What's Going On |
+| H2 | God Is Love |
+| H3 | Sad Tomorrows |
+|  | In The Meantime... |
+| H4 | Head Title (AKA Distant Lover) |
+|  | The Foundation |
+| H5 | What's Going On - Rhythm 'N' Strings Mix |
 
 
 ## Apple Music
@@ -113,5 +113,5 @@ The album was an immediate commercial and critical success, and came to be viewe
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Remastered Stereo Mono, All Media Deluxe Edition |
 | Label          | Tamla |
 | Catalog Number | 0600753703069 |
-| Notes | Four LPs with inner picture sleeves housed in a soft card slipcase.<br>Includes voucher to download MP3 version of the album and comes with a Japanese style obi.<br>Half speed mastered. |
+| Notes | Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered. |
 | Discogs URL    | [Marvin Gaye - What's Going On](https://www.discogs.com/release/9413652-Marvin-Gaye-Whats-Going-On) |

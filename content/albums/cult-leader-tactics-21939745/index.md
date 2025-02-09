@@ -32,19 +32,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cult Leader Tactics | 4:08 |
-| A2 | Internationalle | 3:24 |
-| A3 | Dirty Trix | 3:49 |
-| A4 | Cult Leader Tactics In E-Flat Minor | 1:33 |
-| A5 | You've Got No Life Skills, Baby! | 3:58 |
-| A6 | U Killed My Fish | 3:44 |
-| B1 | Everyone Becomes A Problem Eventually | 3:31 |
-| B2 | Annie | 4:24 |
-| B3 | Talkin Behind My Back | 2:59 |
-| B4 | Omega Man | 4:08 |
-| B5 | Lyin Bout Who You Sleep With | 5:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Cult Leader Tactics |
+| A2 | Internationalle |
+| A3 | Dirty Trix |
+| A4 | Cult Leader Tactics In E-Flat Minor |
+| A5 | You've Got No Life Skills, Baby! |
+| A6 | U Killed My Fish |
+| B1 | Everyone Becomes A Problem Eventually |
+| B2 | Annie |
+| B3 | Talkin Behind My Back |
+| B4 | Omega Man |
+| B5 | Lyin Bout Who You Sleep With |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Violet Translucent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1160 |
-| Notes | First 150 signed by Paul Draper<br><br>Gatefold sleeve<br>Lyric / credits inner sleeve.<br>Kscope insert<br><br> |
+| Notes | First 150 signed by Paul Draper  Gatefold sleeve Lyric / credits inner sleeve. Kscope insert   |
 | Discogs URL    | [Paul Draper - Cult Leader Tactics](https://www.discogs.com/release/21939745-Paul-Draper-Cult-Leader-Tactics) |

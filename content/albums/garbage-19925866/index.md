@@ -36,20 +36,20 @@ In October 2015, the album was reissued to mark its 20th anniversary, featuring 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Supervixen |  |
-| A2 | Queer |  |
-| A3 | Only Happy When It Rains |  |
-| B4 | As Heaven Is Wide |  |
-| B5 | Not My Idea |  |
-| B6 | A Stroke Of Luck |  |
-| C7 | Vow |  |
-| C8 | Stupid Girl |  |
-| C9 | Dog New Tricks |  |
-| D10 | My Lover's Box |  |
-| D11 | Fix Me Now |  |
-| D12 | Milk |  |
+| Position | Title |
+|----------|--------|
+| A1 | Supervixen |
+| A2 | Queer |
+| A3 | Only Happy When It Rains |
+| B4 | As Heaven Is Wide |
+| B5 | Not My Idea |
+| B6 | A Stroke Of Luck |
+| C7 | Vow |
+| C8 | Stupid Girl |
+| C9 | Dog New Tricks |
+| D10 | My Lover's Box |
+| D11 | Fix Me Now |
+| D12 | Milk |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In October 2015, the album was reissued to mark its 20th anniversary, featuring 
 | Format         | Vinyl 2× LP 45 RPM Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | BMG |
 | Catalog Number | BMGCAT514DLP |
-| Notes | The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.<br><br>Runouts are etched. |
+| Notes | The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.  Runouts are etched. |
 | Discogs URL    | [Garbage - Garbage](https://www.discogs.com/release/19925866-Garbage-Garbage) |

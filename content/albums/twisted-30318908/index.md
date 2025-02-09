@@ -39,20 +39,20 @@ The album included Del Amitri's most successful single, "Roll to Me", which reac
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Food For Songs |  |
-| A2 | Start With Me |  |
-| A3 | Here And Now |  |
-| A4 | One Thing Left To Do |  |
-| A5 | Tell Her This |  |
-| A6 | Being Somebody Else |  |
-| B1 | Roll To Me |  |
-| B2 | Crashing Down |  |
-| B3 | It Might As Well Be You |  |
-| B4 | Never Enough |  |
-| B5 | It's Never Too Late To Be Alone |  |
-| B6 | Driving With The Brakes On |  |
+| Position | Title |
+|----------|--------|
+| A1 | Food For Songs |
+| A2 | Start With Me |
+| A3 | Here And Now |
+| A4 | One Thing Left To Do |
+| A5 | Tell Her This |
+| A6 | Being Somebody Else |
+| B1 | Roll To Me |
+| B2 | Crashing Down |
+| B3 | It Might As Well Be You |
+| B4 | Never Enough |
+| B5 | It's Never Too Late To Be Alone |
+| B6 | Driving With The Brakes On |
 
 
 ## Apple Music

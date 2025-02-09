@@ -40,22 +40,22 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Frank Sinatra | 4:00 |
-| A2 | The Distance | 3:01 |
-| A3 | Friend Is A Four Letter Word | 3:22 |
-| A4 | Open Book | 3:45 |
-| A5 | Daria | 3:44 |
-| A6 | Race Car Ya-Yas | 1:21 |
-| A7 | I Will Survive | 5:11 |
-| B1 | Stickshifts And Safetybelts | 2:09 |
-| B2 | Perhaps, Perhaps, Perhaps | 2:24 |
-| B3 | It's Coming Down | 3:44 |
-| B4 | Nugget | 3:58 |
-| B5 | She'll Come Back To Me | 2:25 |
-| B6 | Italian Leather Sofa | 5:52 |
-| B7 | Sad Songs And Waltzes | 3:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Frank Sinatra |
+| A2 | The Distance |
+| A3 | Friend Is A Four Letter Word |
+| A4 | Open Book |
+| A5 | Daria |
+| A6 | Race Car Ya-Yas |
+| A7 | I Will Survive |
+| B1 | Stickshifts And Safetybelts |
+| B2 | Perhaps, Perhaps, Perhaps |
+| B3 | It's Coming Down |
+| B4 | Nugget |
+| B5 | She'll Come Back To Me |
+| B6 | Italian Leather Sofa |
+| B7 | Sad Songs And Waltzes |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 | Format         | Vinyl LP Album Limited Edition Misprint Reissue Remastered Stereo (Red Opaque, 140 gr.) |
 | Label          | Upbeat Records (2) |
 | Catalog Number | 19439966461 |
-| Notes | Comes with printed inner sleeve.<br>Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts". |
+| Notes | Comes with printed inner sleeve. Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts". |
 | Discogs URL    | [Cake - Fashion Nugget](https://www.discogs.com/release/23837591-Cake-Fashion-Nugget) |

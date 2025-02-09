@@ -75,44 +75,44 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Being Boiled (Fast Product Version) |  |
-| A2 | Down In The Park |  |
-| A3 | Back To Nature |  |
-| A4 | New Girls/Neutrons |  |
-| A5 | Hot On The Heels Of Love |  |
-| B1 | Warm Leatherette |  |
-| B2 | Nag Nag Nag |  |
-| B3 | Burning Car |  |
-| B4 | Electricity (1980 Dindisc Version) |  |
-| B5 | R.E.R.B. |  |
-| C1 | Hiroshima Mon Amour |  |
-| C2 | Permafrost |  |
-| C3 | Put Your Love In Me |  |
-| C4 | Moon Over Moscow |  |
-| D1 | The Number One Song In Heaven (Long Version |  |
-| D2 | Makes You Blind |  |
-| D3 | 7 Teen |  |
-| D4 | Angel Eyes (Extended Remix) |  |
-| E1 | I Don't Depend On You |  |
-| E2 | Theme From 'The Warriors' |  |
-| E3 | Willie And The Hand Jive (12" Version) |  |
-| E4 | La Vie En Rose |  |
-| F1 | Schaufensterpuppen |  |
-| F2 | Passing Strangers |  |
-| F3 | Nightclubbing |  |
-| F4 | No G.D.M. |  |
-| G1 | Only After Dark |  |
-| G2 | Changeling |  |
-| G3 | Animation (Edit) |  |
-| G4 | Life In Tokyo (1979 Single Version) |  |
-| G5 | Follow Me |  |
-| G6 | To Cut A Long Story Short |  |
-| H1 | Bostich |  |
-| H2 | Chase (From 'Midnight Express' Soundtrack) |  |
-| H3 | Fade To Grey (1980 Dance Mix) |  |
-| H4 | Perfect Day |  |
+| Position | Title |
+|----------|--------|
+| A1 | Being Boiled (Fast Product Version) |
+| A2 | Down In The Park |
+| A3 | Back To Nature |
+| A4 | New Girls/Neutrons |
+| A5 | Hot On The Heels Of Love |
+| B1 | Warm Leatherette |
+| B2 | Nag Nag Nag |
+| B3 | Burning Car |
+| B4 | Electricity (1980 Dindisc Version) |
+| B5 | R.E.R.B. |
+| C1 | Hiroshima Mon Amour |
+| C2 | Permafrost |
+| C3 | Put Your Love In Me |
+| C4 | Moon Over Moscow |
+| D1 | The Number One Song In Heaven (Long Version |
+| D2 | Makes You Blind |
+| D3 | 7 Teen |
+| D4 | Angel Eyes (Extended Remix) |
+| E1 | I Don't Depend On You |
+| E2 | Theme From 'The Warriors' |
+| E3 | Willie And The Hand Jive (12" Version) |
+| E4 | La Vie En Rose |
+| F1 | Schaufensterpuppen |
+| F2 | Passing Strangers |
+| F3 | Nightclubbing |
+| F4 | No G.D.M. |
+| G1 | Only After Dark |
+| G2 | Changeling |
+| G3 | Animation (Edit) |
+| G4 | Life In Tokyo (1979 Single Version) |
+| G5 | Follow Me |
+| G6 | To Cut A Long Story Short |
+| H1 | Bostich |
+| H2 | Chase (From 'Midnight Express' Soundtrack) |
+| H3 | Fade To Grey (1980 Dance Mix) |
+| H4 | Perfect Day |
 
 
 ## Apple Music
@@ -129,5 +129,5 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 | Format         | Vinyl 4× LP Compilation, Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX92 |
-| Notes | Compiled exhaustively from his DJ sets, 'Rusty Egan Presents The Blitz' brings together the sounds of a night at the club circa 1980 on either 66-track 4CD or 36-track 4LP sets.  Beautifully presented with contemporary photography from Sheila Rock, Peter Ashworth, and Terry Smith, the booklets contain sleeve notes from Alexis Petridis and Rusty himself.<br><br>[SLEEVE - front]:<br>RUSTY EGAN<br>BLITZED!<br><br>[SLEEVE - (STICKER) front]:<br>RUSTY EGAN<br>PRESENTS<br>BLITZED!<br>DEMRECBOX92<br><br>[SLEEVE - spine]:<br>RUSTY EGAN PRESENTS BLITZED!     DEMRECBOX92<br><br>[SLEEVE - back]:<br>DEMRECBOX92<br><br>This compilation ℗ & © 2024 Demon Music Group Limited<br>Marketed by Demon Records, a division of the Demon Music Group Ltd, London, W12 7FA.<br>The Demon Music Group is a BBC Studios company.  Manufactured in the EU.<br>www.demonmusicgroup.co.uk<br><br>5 014 797 911208     DEMON RECORDS [logo]<br><br>[ERRATUM]:<br>Track A4:  [r=391552], printed as New Girls/Neutrons<br>Track E2  [m=110758], printed as Theme From 'The Warriors' |
+| Notes | Compiled exhaustively from his DJ sets, 'Rusty Egan Presents The Blitz' brings together the sounds of a night at the club circa 1980 on either 66-track 4CD or 36-track 4LP sets.  Beautifully presented with contemporary photography from Sheila Rock, Peter Ashworth, and Terry Smith, the booklets contain sleeve notes from Alexis Petridis and Rusty himself.  [SLEEVE - front]: RUSTY EGAN BLITZED!  [SLEEVE - (STICKER) front]: RUSTY EGAN PRESENTS BLITZED! DEMRECBOX92  [SLEEVE - spine]: RUSTY EGAN PRESENTS BLITZED!     DEMRECBOX92  [SLEEVE - back]: DEMRECBOX92  This compilation ℗ & © 2024 Demon Music Group Limited Marketed by Demon Records, a division of the Demon Music Group Ltd, London, W12 7FA. The Demon Music Group is a BBC Studios company.  Manufactured in the EU. www.demonmusicgroup.co.uk  5 014 797 911208     DEMON RECORDS [logo]  [ERRATUM]: Track A4:  [r=391552], printed as New Girls/Neutrons Track E2  [m=110758], printed as Theme From 'The Warriors' |
 | Discogs URL    | [Rusty Egan - Blitzed!](https://www.discogs.com/release/31079972-Rusty-Egan-Blitzed) |

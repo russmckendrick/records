@@ -39,25 +39,25 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Star (Album Version) | 5:13 |
-| A2 | Corpses In Their Mouths (Album Version) | 4:09 |
-| A3 | Can't See Me (Bacon & Quarmby Remix) | 3:56 |
-| B1 | Be There | 5:16 |
-| B2 | Love Like A Fountain (Single Version) | 3:31 |
-| B3 | Dolphins Were Monkeys (Single Version) | 2:55 |
-| B4 | Golden Gaze (Single Version) | 3:09 |
-| C1 | F.E.A.R. (Album Version) | 4:29 |
-| C2 | Whispers (Album Version) | 3:56 |
-| C3 | Forever And A Day (The Greatest Version) | 3:03 |
-| C4 | Keep What Ya Got (Album Version) | 4:28 |
-| C5 | Time Is My Everything (Album Version) | 3:52 |
-| D1 | Longsight M13 (Album Version) | 3:12 |
-| D2 | Reign | 5:32 |
-| D3 | Lovebug (The Greatest Version) | 3:12 |
-| D4 | All Ablaze (The Album Version) | 4:29 |
-| D5 | Return Of The Fisherman (The Album Version) | 4:17 |
+| Position | Title |
+|----------|--------|
+| A1 | My Star (Album Version) |
+| A2 | Corpses In Their Mouths (Album Version) |
+| A3 | Can't See Me (Bacon & Quarmby Remix) |
+| B1 | Be There |
+| B2 | Love Like A Fountain (Single Version) |
+| B3 | Dolphins Were Monkeys (Single Version) |
+| B4 | Golden Gaze (Single Version) |
+| C1 | F.E.A.R. (Album Version) |
+| C2 | Whispers (Album Version) |
+| C3 | Forever And A Day (The Greatest Version) |
+| C4 | Keep What Ya Got (Album Version) |
+| C5 | Time Is My Everything (Album Version) |
+| D1 | Longsight M13 (Album Version) |
+| D2 | Reign |
+| D3 | Lovebug (The Greatest Version) |
+| D4 | All Ablaze (The Album Version) |
+| D5 | Return Of The Fisherman (The Album Version) |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polydor |
 | Catalog Number | 987 289-0 |
-| Notes | Made in the EU.<br>Runouts are etched. |
+| Notes | Made in the EU. Runouts are etched. |
 | Discogs URL    | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |

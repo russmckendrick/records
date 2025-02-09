@@ -35,46 +35,46 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Act I |  |
-| A1 | Atum |  |
-| A2 | Butterfly Suite |  |
-| A3 | The Good In Goodbye |  |
-| A4 | Embracer |  |
-| A5 | With Ado I Do |  |
-| A6 | Hooligan |  |
-| B7 | Steps In Time |  |
-| B8 | Where Rain Must Fall |  |
-| B9 | Beyond The Vale |  |
-| B10 | Hooray! |  |
-| B11 | The Gold Mask |  |
-|  | Act II |  |
-| C12 | Avalanche |  |
-| C13 | Empires |  |
-| C14 | Neophyte |  |
-| C15 | Moss |  |
-| C16 | Night Waves |  |
-| C17 | Space Age |  |
-| D18 | Every Morning |  |
-| D19 | To The Grays |  |
-| D20 | Beguiled |  |
-| D21 | The Culling |  |
-| D22 | Springtimes |  |
-|  | Act III |  |
-| E23 | Sojourner |  |
-| E24 | That Which Animates The Spirit |  |
-| E25 | The Canary Trainer |  |
-| F26 | Pacer |  |
-| F27 | In Lieu Of Failure |  |
-| F28 | Cenotaph |  |
-| F29 | Harmageddon |  |
-| G30 | Fireflies |  |
-| G31 | Intergalactic |  |
-| G32 | Spellbinding |  |
-| G33 | Of Wings |  |
-|  | Audio Story |  |
-| H34 | Act 1 Of Atum |  |
+| Position | Title |
+|----------|--------|
+|  | Act I |
+| A1 | Atum |
+| A2 | Butterfly Suite |
+| A3 | The Good In Goodbye |
+| A4 | Embracer |
+| A5 | With Ado I Do |
+| A6 | Hooligan |
+| B7 | Steps In Time |
+| B8 | Where Rain Must Fall |
+| B9 | Beyond The Vale |
+| B10 | Hooray! |
+| B11 | The Gold Mask |
+|  | Act II |
+| C12 | Avalanche |
+| C13 | Empires |
+| C14 | Neophyte |
+| C15 | Moss |
+| C16 | Night Waves |
+| C17 | Space Age |
+| D18 | Every Morning |
+| D19 | To The Grays |
+| D20 | Beguiled |
+| D21 | The Culling |
+| D22 | Springtimes |
+|  | Act III |
+| E23 | Sojourner |
+| E24 | That Which Animates The Spirit |
+| E25 | The Canary Trainer |
+| F26 | Pacer |
+| F27 | In Lieu Of Failure |
+| F28 | Cenotaph |
+| F29 | Harmageddon |
+| G30 | Fireflies |
+| G31 | Intergalactic |
+| G32 | Spellbinding |
+| G33 | Of Wings |
+|  | Audio Story |
+| H34 | Act 1 Of Atum |
 
 
 ## Apple Music
@@ -91,5 +91,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 4× LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | 04471LP |
-| Notes | Double gatefold book format.<br>℗ & © 2023 Martha's Music.<br><br>The track positions are numbered sequentially on the rear sleeve. |
+| Notes | Double gatefold book format. ℗ & © 2023 Martha's Music.  The track positions are numbered sequentially on the rear sleeve. |
 | Discogs URL    | [The Smashing Pumpkins - ATUM (A Rock Opera In Three Acts)](https://www.discogs.com/release/26984012-The-Smashing-Pumpkins-ATUM-A-Rock-Opera-In-Three-Acts) |

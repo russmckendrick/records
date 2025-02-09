@@ -41,20 +41,20 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Will Follow |  |
-| A2 | Twilight |  |
-| A3 | An Cat Dubh |  |
-| A4 | Into The Heart |  |
-| A5 | Out Of Control |  |
-| B1 | Stories For Boys |  |
-| B2 | The Ocean |  |
-| B3 | A Day Without Me |  |
-| B4 | Another Time, Another Place |  |
-| B5 | The Electric Co. |  |
-| B6 | Shadows And Tall Trees |  |
-| B7 | Saturday Night (snipped) |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Will Follow |
+| A2 | Twilight |
+| A3 | An Cat Dubh |
+| A4 | Into The Heart |
+| A5 | Out Of Control |
+| B1 | Stories For Boys |
+| B2 | The Ocean |
+| B3 | A Day Without Me |
+| B4 | Another Time, Another Place |
+| B5 | The Electric Co. |
+| B6 | Shadows And Tall Trees |
+| B7 | Saturday Night (snipped) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
 | Label          | Island Records |
 | Catalog Number | 0749627 |
-| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included. <br><br>From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."<br><br>Made In Germany. |
+| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."  Made In Germany. |
 | Discogs URL    | [U2 - Boy](https://www.discogs.com/release/16273305-U2-Boy) |

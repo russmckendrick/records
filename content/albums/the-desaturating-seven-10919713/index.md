@@ -37,15 +37,15 @@ Reuniting the classic Primus lineup to record original music for the first time 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Valley |  |
-| A2 | The Seven |  |
-| A3 | The Trek |  |
-| B1 | The Scheme |  |
-| B2 | The Dream |  |
-| B3 | The Storm |  |
-| B4 | The Ends? |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Valley |
+| A2 | The Seven |
+| A3 | The Trek |
+| B1 | The Scheme |
+| B2 | The Dream |
+| B3 | The Storm |
+| B4 | The Ends? |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Reuniting the classic Primus lineup to record original music for the first time 
 | Format         | Vinyl LP Album (Rainbow Splattered) |
 | Label          | ATO Records |
 | Catalog Number | ATO0404LP |
-| Notes | Issued with a printed inner sleeve with credits and lyrics. Including download card.<br><br>Hype-sticker on shrink-wrap:<br>"Includes Digital Download<br>NEW 2017 RELEASE<br>Rainbow Splattered Colored Vinyl"<br><br>"The Desaturating Seven" was inspired by Uli De Rico's "The Rainbow Goblins".<br><br>℗ & © 2017 ATO Records<br>www.primusville.com |
+| Notes | Issued with a printed inner sleeve with credits and lyrics. Including download card.  Hype-sticker on shrink-wrap: "Includes Digital Download NEW 2017 RELEASE Rainbow Splattered Colored Vinyl"  "The Desaturating Seven" was inspired by Uli De Rico's "The Rainbow Goblins".  ℗ & © 2017 ATO Records www.primusville.com |
 | Discogs URL    | [Primus - The Desaturating Seven](https://www.discogs.com/release/10919713-Primus-The-Desaturating-Seven) |

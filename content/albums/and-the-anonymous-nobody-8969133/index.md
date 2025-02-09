@@ -35,26 +35,26 @@ The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Genesis | 1:40 |
-| A2 | Royalty Capes | 3:47 |
-| A3 | Pain | 4:40 |
-| A4 | Property Of Spitkicker.com | 5:32 |
-| B1 | Memory Of...(Us) | 4:57 |
-| B2 | CBGB'S | 1:21 |
-| B3 | Lord Intended | 7:16 |
-| B4 | Snoopies | 4:15 |
-| C1 | Greyhounds | 5:17 |
-| C2 | Sexy Bitch | 1:41 |
-| C3 | Trainwreck | 3:17 |
-| C4 | Drawn | 5:35 |
-| C5 | Whoodeeni | 4:29 |
-| D1 | Nosed Up | 3:58 |
-| D2 | You Go Dave (A Goldblatt Presentation) | 1:20 |
-| D3 | Unfold | 6:00 |
-| D4 | Here In After | 5:35 |
-| D5 | Exodus | 3:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Genesis |
+| A2 | Royalty Capes |
+| A3 | Pain |
+| A4 | Property Of Spitkicker.com |
+| B1 | Memory Of...(Us) |
+| B2 | CBGB'S |
+| B3 | Lord Intended |
+| B4 | Snoopies |
+| C1 | Greyhounds |
+| C2 | Sexy Bitch |
+| C3 | Trainwreck |
+| C4 | Drawn |
+| C5 | Whoodeeni |
+| D1 | Nosed Up |
+| D2 | You Go Dave (A Goldblatt Presentation) |
+| D3 | Unfold |
+| D4 | Here In After |
+| D5 | Exodus |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, 
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | AOI Records |
 | Catalog Number | AOI001VLK |
-| Notes | *Kickstarter campaign edition <br>*Includes Kickstarter only bonus track "Unfold" which is not included on retail versions.<br>*Unsigned (some LP covers were signed as a different Kickstarter reward level)<br>*Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level)<br>*Comes with drop card for digital download of album (MP3) |
+| Notes | *Kickstarter campaign edition  *Includes Kickstarter only bonus track "Unfold" which is not included on retail versions. *Unsigned (some LP covers were signed as a different Kickstarter reward level) *Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level) *Comes with drop card for digital download of album (MP3) |
 | Discogs URL    | [De La Soul - And The Anonymous Nobody](https://www.discogs.com/release/8969133-De-La-Soul-And-The-Anonymous-Nobody) |

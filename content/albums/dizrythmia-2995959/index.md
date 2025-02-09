@@ -37,17 +37,17 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bold As Brass | 3:22 |
-| A2 | My Mistake | 2:56 |
-| A3 | Parrot Fashion Love | 3:47 |
-| A4 | Sugar And Spice | 3:49 |
-| A5 | Without A Doubt | 5:26 |
-| B1 | Crosswords | 3:21 |
-| B2 | Charley | 6:26 |
-| B3 | Nice To Know | 4:22 |
-| B4 | Jamboree | 6:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Bold As Brass |
+| A2 | My Mistake |
+| A3 | Parrot Fashion Love |
+| A4 | Sugar And Spice |
+| A5 | Without A Doubt |
+| B1 | Crosswords |
+| B2 | Charley |
+| B3 | Nice To Know |
+| B4 | Jamboree |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1145 |
-| Notes | Released with an insert with lyrics.<br><br>Backcover caption:<br>Chrysalis Records Limited<br>388/396 Oxford Street, London, W1.<br> |
+| Notes | Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1.  |
 | Discogs URL    | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |

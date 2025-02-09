@@ -33,20 +33,20 @@ The European part of the tour opened with a special one-off gig at the ancient R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Untouchable Part 1 | 7:07 |
-| A2 | Untouchable Part 2 | 5:55 |
-| A3 | Thin Air | 5:58 |
-| B1 | Dreaming Light | 5:58 |
-| B2 | Everything | 5:39 |
-| B3 | The Storm Before The Calm | 9:24 |
-| C1 | A Simple Mistake | 8:33 |
-| C2 | The Beginning And The End | 4:41 |
-| C3 | Universal | 7:31 |
-| D1 | Closer | 6:28 |
-| D2 | A Natural Disaster | 6:38 |
-| D3 | Flying | 8:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Untouchable Part 1 |
+| A2 | Untouchable Part 2 |
+| A3 | Thin Air |
+| B1 | Dreaming Light |
+| B2 | Everything |
+| B3 | The Storm Before The Calm |
+| C1 | A Simple Mistake |
+| C2 | The Beginning And The End |
+| C3 | Universal |
+| D1 | Closer |
+| D2 | A Natural Disaster |
+| D3 | Flying |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The European part of the tour opened with a special one-off gig at the ancient R
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE843 |
-| Notes | Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.<br><br>Gatefold sleeve<br><br>Made in Germany. |
+| Notes | Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.  Gatefold sleeve  Made in Germany. |
 | Discogs URL    | [Anathema - Untouchable](https://www.discogs.com/release/4765496-Anathema-Untouchable) |

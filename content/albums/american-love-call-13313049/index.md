@@ -34,26 +34,26 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | American Love Call (LP) |  |
-| A1 | Morning In America |  |
-| A2 | Don't You Know |  |
-| A3 | Circles |  |
-| A4 | Court Of Love |  |
-| A5 | Long Way Home |  |
-| A6 | Too Many Tears |  |
-| B1 | Walk Away |  |
-| B2 | What I Know About You |  |
-| B3 | Listen To Your Heart |  |
-| B4 | Sea Gets Hotter |  |
-| B5 | How Can I Be Sure |  |
-| B6 | True Love |  |
-|  | American Love Call - Demo Tracks (CD) |  |
-| 1 | Don't You Know (Demo) |  |
-| 2 | Circles (Demo) |  |
-| 3 | Don't You Know (Instrumental) |  |
-| 4 | Walk Away (Instrumental) |  |
+| Position | Title |
+|----------|--------|
+|  | American Love Call (LP) |
+| A1 | Morning In America |
+| A2 | Don't You Know |
+| A3 | Circles |
+| A4 | Court Of Love |
+| A5 | Long Way Home |
+| A6 | Too Many Tears |
+| B1 | Walk Away |
+| B2 | What I Know About You |
+| B3 | Listen To Your Heart |
+| B4 | Sea Gets Hotter |
+| B5 | How Can I Be Sure |
+| B6 | True Love |
+|  | American Love Call - Demo Tracks (CD) |
+| 1 | Don't You Know (Demo) |
+| 2 | Circles (Demo) |
+| 3 | Don't You Know (Instrumental) |
+| 4 | Walk Away (Instrumental) |
 
 
 ## Apple Music

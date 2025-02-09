@@ -37,19 +37,19 @@ Hyperspace received generally positive reviews from critics, though some comment
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hyperlife | 1:37 |
-| A2 | Uneventful Days | 3:17 |
-| A3 | Saw Lightning | 4:02 |
-| A4 | Die Waiting | 4:05 |
-| A5 | Chemical | 4:19 |
-| A6 | See Through | 3:39 |
-| B1 | Hyperspace | 2:45 |
-| B2 | Stratosphere | 3:57 |
-| B3 | Dark Places | 3:46 |
-| B4 | Star | 2:51 |
-| B5 | Everlasting Nothing | 5:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Hyperlife |
+| A2 | Uneventful Days |
+| A3 | Saw Lightning |
+| A4 | Die Waiting |
+| A5 | Chemical |
+| A6 | See Through |
+| B1 | Hyperspace |
+| B2 | Stratosphere |
+| B3 | Dark Places |
+| B4 | Star |
+| B5 | Everlasting Nothing |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Hyperspace received generally positive reviews from critics, though some comment
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Fonograf (3) |
 | Catalog Number | 00602577692505 |
-| Notes | Limited Indie Exclusive silver vinyl.<br>Gatefold sleeve.<br>Includes a printed inner sleeve with track list, lyrics, credits and thank yous.<br>Includes a download card (mp3 and WAV - expiry 22 November 2020).<br><br>[On back cover]:<br>Fonograf Records/Capitol Records, ℗© 2019 Fonograf Records under exclusive license to Capitol Records, LLC.<br>[...] Made in Germany. Universal International Music B.V. [...], Netherlands.<br><br>Publishers:<br>A1 to A3, A5, B3, B5: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI April Music. Inc. obo itself and Even More Water From Nazareth (GMR)<br>A4: Youthless (admin. by Kobalt Music Publishing/ASCAP), Digital Jazz (admin. by Beggars Music/SESAC) and Music Of Cutcraft (admin. by Concord Sounds/ASCAP)<br>A6: Youthless (admin. by Kobalt Music Publishing/ASCAP) and Kurstin Music (admin. by EMI April Music, Inc./ASCAP)<br>B1: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI April Music. Inc. obo itself and Even More Water From Nazareth (GMR) and Terrell Hines Music (admin. by Sony ATV Tunes LLC7ASCAP)<br>B2: Youthless (admin. by Kobalt Music Publishing/ASCAP)<br>B4: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI Publishing Ltd. (ASCAP)<br><br>A3 & B5: additional programming for I am OTHER Entertainment<br><br>[a1551658] appears courtesy of Capitol Records.<br>[a7511764] appears courtesy of Capitol Records.<br>[a42610] appears courtesy of Parlophone Records.<br>[a90037] appears courtesy of Columbia Records, a division of Sony Music Entertainment.<br><br>Runouts:<br>- Runouts are etched<br>- The Optimal Media "geometric" marks are mirrored |
+| Notes | Limited Indie Exclusive silver vinyl. Gatefold sleeve. Includes a printed inner sleeve with track list, lyrics, credits and thank yous. Includes a download card (mp3 and WAV - expiry 22 November 2020).  [On back cover]: Fonograf Records/Capitol Records, ℗© 2019 Fonograf Records under exclusive license to Capitol Records, LLC. [...] Made in Germany. Universal International Music B.V. [...], Netherlands.  Publishers: A1 to A3, A5, B3, B5: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI April Music. Inc. obo itself and Even More Water From Nazareth (GMR) A4: Youthless (admin. by Kobalt Music Publishing/ASCAP), Digital Jazz (admin. by Beggars Music/SESAC) and Music Of Cutcraft (admin. by Concord Sounds/ASCAP) A6: Youthless (admin. by Kobalt Music Publishing/ASCAP) and Kurstin Music (admin. by EMI April Music, Inc./ASCAP) B1: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI April Music. Inc. obo itself and Even More Water From Nazareth (GMR) and Terrell Hines Music (admin. by Sony ATV Tunes LLC7ASCAP) B2: Youthless (admin. by Kobalt Music Publishing/ASCAP) B4: Youthless (admin. by Kobalt Music Publishing/ASCAP) and EMI Publishing Ltd. (ASCAP)  A3 & B5: additional programming for I am OTHER Entertainment  [a1551658] appears courtesy of Capitol Records. [a7511764] appears courtesy of Capitol Records. [a42610] appears courtesy of Parlophone Records. [a90037] appears courtesy of Columbia Records, a division of Sony Music Entertainment.  Runouts: - Runouts are etched - The Optimal Media "geometric" marks are mirrored |
 | Discogs URL    | [Beck - Hyperspace](https://www.discogs.com/release/14427560-Beck-Hyperspace) |

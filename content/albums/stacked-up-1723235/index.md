@@ -35,21 +35,21 @@ It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | States Of Mind | 5:10 |
-| A2 | The Key | 5:22 |
-| A3 | Switch | 4:33 |
-| B1 | Age Of Panic | 4:08 |
-| B2 | What's Going On | 5:07 |
-| B3 | One Touch One Bounce | 3:24 |
-| C1 | Stubborn | 5:46 |
-| C2 | Door Game | 6:39 |
-| C3 | Peanut Head | 5:40 |
-| D1 | Peace | 5:50 |
-| D2 | Eject | 5:19 |
-| D3 | No Comply | 2:37 |
-| D4 | Worth | 3:04 |
+| Position | Title |
+|----------|--------|
+| A1 | States Of Mind |
+| A2 | The Key |
+| A3 | Switch |
+| B1 | Age Of Panic |
+| B2 | What's Going On |
+| B3 | One Touch One Bounce |
+| C1 | Stubborn |
+| C2 | Door Game |
+| C3 | Peanut Head |
+| D1 | Peace |
+| D2 | Eject |
+| D3 | No Comply |
+| D4 | Worth |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
 | Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
 | Label          | Ultimate |
 | Catalog Number | topp lp008s |
-| Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered.<br>Gatefold sleeve with lyrics on inside.<br>Some with merchandise insert.<br>Runouts: all hand-etched.<br> |
+| Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold sleeve with lyrics on inside. Some with merchandise insert. Runouts: all hand-etched.  |
 | Discogs URL    | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |

@@ -34,17 +34,17 @@ The album was an immediate critical and commercial success and has since been vi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Baba O' Riley | 4:58 |
-| A2 | Bargain | 5:33 |
-| A3 | Love Ain't For Keeping | 2:10 |
-| A4 | My Wife | 3:33 |
-| A5 | Song Is Over | 6:16 |
-| B1 | Getting In Tune | 4:48 |
-| B2 | Going Mobile | 3:42 |
-| B3 | Behind Blue Eyes | 3:41 |
-| B4 | Won't Get Fooled Again | 8:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Baba O' Riley |
+| A2 | Bargain |
+| A3 | Love Ain't For Keeping |
+| A4 | My Wife |
+| A5 | Song Is Over |
+| B1 | Getting In Tune |
+| B2 | Going Mobile |
+| B3 | Behind Blue Eyes |
+| B4 | Won't Get Fooled Again |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was an immediate critical and commercial success and has since been vi
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Polydor |
 | Catalog Number | 3715614 |
-| Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.<br><br>Made in the EU. |
+| Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU. |
 | Discogs URL    | [The Who - Who's Next](https://www.discogs.com/release/6957505-The-Who-Whos-Next) |

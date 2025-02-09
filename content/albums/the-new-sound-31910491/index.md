@@ -28,19 +28,19 @@ Featuring an expansive cast of supporting players and session musicians—includ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blues |  |
-| A2 | Terra |  |
-| A3 | Holy, Holy |  |
-| B4 | The New Sound |  |
-| B5 | Walk Up |  |
-| B6 | Through A War |  |
-| B7 | Bongo Season |  |
-| C8 | Motorbike |  |
-| C9 | As If Waltz |  |
-| D10 | The Magician |  |
-| D11 | If You Are But A Dream |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blues |
+| A2 | Terra |
+| A3 | Holy, Holy |
+| B4 | The New Sound |
+| B5 | Walk Up |
+| B6 | Through A War |
+| B7 | Bongo Season |
+| C8 | Motorbike |
+| C9 | As If Waltz |
+| D10 | The Magician |
+| D11 | If You Are But A Dream |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Featuring an expansive cast of supporting players and session musicians—includ
 | Format         | Vinyl 2× LP Album (Regular Cover) |
 | Label          | Rough Trade |
 | Catalog Number | RT0499LP |
-| Notes | Original cover version<br>Early orders came with a small sticker sheet |
+| Notes | Original cover version Early orders came with a small sticker sheet |
 | Discogs URL    | [Geordie Greep - The New Sound](https://www.discogs.com/release/31910491-Geordie-Greep-The-New-Sound) |

@@ -30,20 +30,20 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Signed, Sealed, Delivered I'm Yours |  |
-| A2 | Little By Little |  |
-| A3 | Just Dropped In (To See What Condition My Condition Was In) |  |
-| A4 | Here I Am Baby |  |
-| A5 | What Have You Done For Me Lately? |  |
-| A6 | Take Me With U |  |
-| B1 | Inspiration Information |  |
-| B2 | Giving Up |  |
-| B3 | Rescue Me |  |
-| B4 | In The Bush |  |
-| B5 | It Hurts To Be Alone |  |
-| B6 | Trespasser |  |
+| Position | Title |
+|----------|--------|
+| A1 | Signed, Sealed, Delivered I'm Yours |
+| A2 | Little By Little |
+| A3 | Just Dropped In (To See What Condition My Condition Was In) |
+| A4 | Here I Am Baby |
+| A5 | What Have You Done For Me Lately? |
+| A6 | Take Me With U |
+| B1 | Inspiration Information |
+| B2 | Giving Up |
+| B3 | Rescue Me |
+| B4 | In The Bush |
+| B5 | It Hurts To Be Alone |
+| B6 | Trespasser |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (Blue With Black Splatter) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-066 |
-| Notes | Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.<br><br>Hype sticker affixed to shrink, with barcode:<br>Limited blue vinyl with black splatter!<br>These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land.<br>"Sharon Jones is the 21st century's Godmother of Soul" - NPR<br>Includes MP3 download card<br><br>Title on jacket back, labels:<br>Just Dropped In (To See What Condition My Rendition Was In)<br>Title on jacket front:<br>"Just Dropped In To See What Condition My RENDITION Was In!"<br>Title on jacket spine:<br>Just Dropped In ...<br><br>Labels include "Support Your Local Record Store" text.<br><br>Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016. |
+| Notes | Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.  Hype sticker affixed to shrink, with barcode: Limited blue vinyl with black splatter! These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land. "Sharon Jones is the 21st century's Godmother of Soul" - NPR Includes MP3 download card  Title on jacket back, labels: Just Dropped In (To See What Condition My Rendition Was In) Title on jacket front: "Just Dropped In To See What Condition My RENDITION Was In!" Title on jacket spine: Just Dropped In ...  Labels include "Support Your Local Record Store" text.  Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016. |
 | Discogs URL    | [Sharon Jones  The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)](https://www.discogs.com/release/16275214-Sharon-Jones-The-Dap-Kings-Just-Dropped-In-To-See-What-Condition-My-Rendition-Was-In) |

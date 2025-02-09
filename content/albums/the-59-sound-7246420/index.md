@@ -36,20 +36,20 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Great Expectations |  |
-| A2 | The '59 Sound |  |
-| A3 | Old White Lincoln |  |
-| A4 | High Lonesome |  |
-| A5 | Film Noir |  |
-| A6 | Miles Davis & The Cool |  |
-| B7 | The Patient Ferris Wheel |  |
-| B8 | Casanova, Baby! |  |
-| B9 | Even Cowgirls Get The Blues |  |
-| B10 | Meet Me By The River's Edge |  |
-| B11 | Here's Looking At You Kid |  |
-| B12 | The Backseat |  |
+| Position | Title |
+|----------|--------|
+| A1 | Great Expectations |
+| A2 | The '59 Sound |
+| A3 | Old White Lincoln |
+| A4 | High Lonesome |
+| A5 | Film Noir |
+| A6 | Miles Davis & The Cool |
+| B7 | The Patient Ferris Wheel |
+| B8 | Casanova, Baby! |
+| B9 | Even Cowgirls Get The Blues |
+| B10 | Meet Me By The River's Edge |
+| B11 | Here's Looking At You Kid |
+| B12 | The Backseat |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 | Format         | Vinyl LP Limited Edition Reissue Stereo (Blue Transparent) |
 | Label          | SideOneDummy Records |
 | Catalog Number | SD1358-1 |
-| Notes | Made in USA.<br><br>Cat# SD1358-1 appears on spine, Cat# SD-1358-2 appears on front cover<br><br>First barcode is on a sticker placed on the shrink-wrap, obscuring the barcode printed on the sleeve.<br><br>Gatefold sleeve.<br><br>Two hype stickers on shrink-wrap:<br>"SideOneDummy Records Celebrating 20 Years"<br>"Limited Edition Colored Vinyl"<br><br>Tracks listed sequentially on rear sleeve.<br><br>Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".<br><br>In memory of Zach Finch, John Soyack an Travis Connor. |
+| Notes | Made in USA.  Cat# SD1358-1 appears on spine, Cat# SD-1358-2 appears on front cover  First barcode is on a sticker placed on the shrink-wrap, obscuring the barcode printed on the sleeve.  Gatefold sleeve.  Two hype stickers on shrink-wrap: "SideOneDummy Records Celebrating 20 Years" "Limited Edition Colored Vinyl"  Tracks listed sequentially on rear sleeve.  Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".  In memory of Zach Finch, John Soyack an Travis Connor. |
 | Discogs URL    | [The Gaslight Anthem - The '59 Sound](https://www.discogs.com/release/7246420-The-Gaslight-Anthem-The-59-Sound) |

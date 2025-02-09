@@ -39,16 +39,16 @@ Ride the Lightning received a highly positive response from music critics, who s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fight Fire With Fire | 4:44 |
-| A2 | Ride The Lightning | 6:36 |
-| A3 | For Whom The Bell Tolls | 5:10 |
-| A4 | Fade To Black | 6:56 |
-| B1 | Trapped Under Ice | 4:03 |
-| B2 | Escape | 4:23 |
-| B3 | Creeping Death | 6:36 |
-| B4 | The Call Of Ktulu | 8:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Fight Fire With Fire |
+| A2 | Ride The Lightning |
+| A3 | For Whom The Bell Tolls |
+| A4 | Fade To Black |
+| B1 | Trapped Under Ice |
+| B2 | Escape |
+| B3 | Creeping Death |
+| B4 | The Call Of Ktulu |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Ride the Lightning received a highly positive response from music critics, who s
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Blue [Electric Blue]) |
 | Label          | Blackened |
 | Catalog Number | BLCKND004R-1U |
-| Notes | Includes two-sided full color insert with lyrics and a digital download card. No mention of enclosed download on hype-sticker.<br>Sticker on back cover : Made in Germany & it's also printed at the bottom of the back cover. |
+| Notes | Includes two-sided full color insert with lyrics and a digital download card. No mention of enclosed download on hype-sticker. Sticker on back cover : Made in Germany & it's also printed at the bottom of the back cover. |
 | Discogs URL    | [Metallica - Ride The Lightning](https://www.discogs.com/release/29071198-Metallica-Ride-The-Lightning) |

@@ -25,22 +25,22 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Building A Beginning |  |
-| A2 | Julian |  |
-| A3 | I Live To Make You Smile |  |
-| A4 | Find It Hard To Say |  |
-| B1 | Me And You |  |
-| B2 | How Did I Live Before Your Love |  |
-| B3 | Walk Right Back |  |
-| C1 | Nothing's Gonna Change |  |
-| C2 | In Love And Alone |  |
-| C3 | Motionless |  |
-| C4 | Believe In Me |  |
-| D1 | I Stay Inside |  |
-| D2 | Precious Years |  |
-| D3 | Don't Let Me Let You Go |  |
+| Position | Title |
+|----------|--------|
+| A1 | Building A Beginning |
+| A2 | Julian |
+| A3 | I Live To Make You Smile |
+| A4 | Find It Hard To Say |
+| B1 | Me And You |
+| B2 | How Did I Live Before Your Love |
+| B3 | Walk Right Back |
+| C1 | Nothing's Gonna Change |
+| C2 | In Love And Alone |
+| C3 | Motionless |
+| C4 | Believe In Me |
+| D1 | I Stay Inside |
+| D2 | Precious Years |
+| D3 | Don't Let Me Let You Go |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 | Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
 | Label          | Jajulin |
 | Catalog Number | JJL004 |
-| Notes | Gatefold sleeve.<br>Includes digital download.  |
+| Notes | Gatefold sleeve. Includes digital download.  |
 | Discogs URL    | [Jamie Lidell - Building A Beginning](https://www.discogs.com/release/9310602-Jamie-Lidell-Building-A-Beginning) |

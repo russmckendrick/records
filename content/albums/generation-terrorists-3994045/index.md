@@ -53,27 +53,27 @@ On the back of significant media attention and a "disproportionately high press 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Slash N' Burn | 3:53 |
-| A2 | Nat West-Barclays-Midlands-Lloyds | 4:30 |
-| A3 | Born To End | 4:08 |
-| A4 | Motorcycle Emptiness | 6:05 |
-| A5 | You Love Us | 4:16 |
-| B1 | Love's Sweet Exile | 3:04 |
-| B2 | Little Baby Nothing | 5:20 |
-| B3 | Repeat (Stars And Stripes) | 4:18 |
-| B4 | Tennessee | 3:10 |
-| C1 | Another Invented Disease | 3:30 |
-| C2 | Stay Beautiful | 3:10 |
-| C3 | So Dead | 4:26 |
-| C4 | Repeat (UK) | 3:10 |
-| C5 | Spectators Of Suicide | 4:55 |
-| D1 | Damn Dog | 1:48 |
-| D2 | Crucifix Kiss | 3:20 |
-| D3 | Methadone Pretty | 3:50 |
-| D4 | Condemned To Rock 'N' Roll | 6:03 |
-| D5 | Theme From M*A*S*H (Suicide Is Painless) | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Slash N' Burn |
+| A2 | Nat West-Barclays-Midlands-Lloyds |
+| A3 | Born To End |
+| A4 | Motorcycle Emptiness |
+| A5 | You Love Us |
+| B1 | Love's Sweet Exile |
+| B2 | Little Baby Nothing |
+| B3 | Repeat (Stars And Stripes) |
+| B4 | Tennessee |
+| C1 | Another Invented Disease |
+| C2 | Stay Beautiful |
+| C3 | So Dead |
+| C4 | Repeat (UK) |
+| C5 | Spectators Of Suicide |
+| D1 | Damn Dog |
+| D2 | Crucifix Kiss |
+| D3 | Methadone Pretty |
+| D4 | Condemned To Rock 'N' Roll |
+| D5 | Theme From M*A*S*H (Suicide Is Painless) |
 
 
 ## Apple Music
@@ -91,5 +91,5 @@ On the back of significant media attention and a "disproportionately high press 
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 20th Anniversary Legacy Edition) |
 | Label          | Columbia |
 | Catalog Number | 88725471251 |
-| Notes | 20th Anniversary Legacy Edition <br><br>Comes with a 16 page 29x29 cm booklet.<br><br>Made in the EU.<br><br><br>* This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)". |
+| Notes | 20th Anniversary Legacy Edition   Comes with a 16 page 29x29 cm booklet.  Made in the EU.   * This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)". |
 | Discogs URL    | [Manic Street Preachers - Generation Terrorists](https://www.discogs.com/release/3994045-Manic-Street-Preachers-Generation-Terrorists) |

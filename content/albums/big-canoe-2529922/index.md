@@ -32,18 +32,18 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spiritual Hunger |  |
-| A2 | Don't Bury My Heart |  |
-| A3 | Timmy |  |
-| A4 | So Deep |  |
-| A5 | No Thunder, No Fire, No Rain |  |
-| B1 | Carve You In Marble |  |
-| B2 | Water Into Wine |  |
-| B3 | Hyacinth |  |
-| B4 | Big Canoe |  |
-| B5 | Are We One Or Are We Two |  |
+| Position | Title |
+|----------|--------|
+| A1 | Spiritual Hunger |
+| A2 | Don't Bury My Heart |
+| A3 | Timmy |
+| A4 | So Deep |
+| A5 | No Thunder, No Fire, No Rain |
+| B1 | Carve You In Marble |
+| B2 | Water Into Wine |
+| B3 | Hyacinth |
+| B4 | Big Canoe |
+| B5 | Are We One Or Are We Two |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V2369 |
-| Notes | This is an Australian release although no country of release displayed on Sleeve, insert or labels. However, the labels' publisher credits are the Australian publishers and the dead wax has Australian mastering and pressing details.<br><br>All runouts are etched<br><br>Printed inner sleeve with lyrics and credits<br><br>Outer sleeve:<br>℗ 1986 Virgin Records<br>© 1986 Virgin Records<br><br>Inner sleeve:<br>Recorded and Mixed at Townhouse Studios 2 & 3<br><br>Labels:<br>℗ 1986 Virgin Records Ltd.<br>Virgin is a trade mark of Virgin Holdings Ltd. |
+| Notes | This is an Australian release although no country of release displayed on Sleeve, insert or labels. However, the labels' publisher credits are the Australian publishers and the dead wax has Australian mastering and pressing details.  All runouts are etched  Printed inner sleeve with lyrics and credits  Outer sleeve: ℗ 1986 Virgin Records © 1986 Virgin Records  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. Virgin is a trade mark of Virgin Holdings Ltd. |
 | Discogs URL    | [Tim Finn - Big Canoe](https://www.discogs.com/release/2529922-Tim-Finn-Big-Canoe) |

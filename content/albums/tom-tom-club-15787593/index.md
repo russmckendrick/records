@@ -33,16 +33,16 @@ Tom Tom Club is an American new wave band founded in 1981 by husband-and-wife te
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wordy Rappinghood | 6:27 |
-| A2 | Genius Of Love | 5:34 |
-| A3 | Tom Tom Theme | 1:25 |
-| A4 | L'Éléphant | 4:50 |
-| B1 | As Above, So Below | 5:23 |
-| B2 | Lorelei | 5:05 |
-| B3 | On, On, On, On... | 3:33 |
-| B4 | Booming And Zooming | 4:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Wordy Rappinghood |
+| A2 | Genius Of Love |
+| A3 | Tom Tom Theme |
+| A4 | L'Éléphant |
+| B1 | As Above, So Below |
+| B2 | Lorelei |
+| B3 | On, On, On, On... |
+| B4 | Booming And Zooming |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Tom Tom Club is an American new wave band founded in 1981 by husband-and-wife te
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow (Tropical) & Red) |
 | Label          | Sire |
 | Catalog Number | RGM-1070 |
-| Notes | Recorded and mixed [...] at Compass Point Studios, New Providence, Bahamas.<br>Mastered at Sterling Sound, New York.<br><br>All songs [...] © 1981<br><br>℗ & © 1981 & 2016 Warner Records Inc. Produced under license from Warner Records Inc.  Manufactured by Rhino Entertainment Company, a Warner Music Gorup Company.<br>Made in the U.S.A.<br><br>Runouts are etched. |
+| Notes | Recorded and mixed [...] at Compass Point Studios, New Providence, Bahamas. Mastered at Sterling Sound, New York.  All songs [...] © 1981  ℗ & © 1981 & 2016 Warner Records Inc. Produced under license from Warner Records Inc.  Manufactured by Rhino Entertainment Company, a Warner Music Gorup Company. Made in the U.S.A.  Runouts are etched. |
 | Discogs URL    | [Tom Tom Club - Tom Tom Club](https://www.discogs.com/release/15787593-Tom-Tom-Club-Tom-Tom-Club) |

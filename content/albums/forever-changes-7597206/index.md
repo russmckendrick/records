@@ -29,19 +29,19 @@ Forever Changes had only moderate success on the album charts upon release, peak
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alone Again Or | 3:15 |
-| A2 | A House Is Not A Motel | 3:25 |
-| A3 | Andmoreagain | 3:15 |
-| A4 | The Daily Planet | 3:25 |
-| A5 | Old Man | 2:57 |
-| A6 | The Red Telephone | 4:45 |
-| B1 | Maybe The People Would Be The Times Or Between Clark And Hilldale | 3:30 |
-| B2 | Live And Let Live | 5:24 |
-| B3 | The Good Humor Man He Sees Everything Like This | 3:00 |
-| B4 | Bummer In The Summer | 2:20 |
-| B5 | You Set The Scene | 6:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Alone Again Or |
+| A2 | A House Is Not A Motel |
+| A3 | Andmoreagain |
+| A4 | The Daily Planet |
+| A5 | Old Man |
+| A6 | The Red Telephone |
+| B1 | Maybe The People Would Be The Times Or Between Clark And Hilldale |
+| B2 | Live And Let Live |
+| B3 | The Good Humor Man He Sees Everything Like This |
+| B4 | Bummer In The Summer |
+| B5 | You Set The Scene |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Forever Changes had only moderate success on the album charts upon release, peak
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (White, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122797115 |
-| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.<br><br>Judging from the matrix nos, it looks as though plating was done at RTI and EU version pressed by Optimal.<br><br>Technically, this is a repress of [r4073447]<br><br>Ltd ed. of only 2000 |
+| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.  Judging from the matrix nos, it looks as though plating was done at RTI and EU version pressed by Optimal.  Technically, this is a repress of [r4073447]  Ltd ed. of only 2000 |
 | Discogs URL    | [Love - Forever Changes](https://www.discogs.com/release/7597206-Love-Forever-Changes) |

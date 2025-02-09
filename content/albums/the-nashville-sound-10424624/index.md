@@ -35,18 +35,18 @@ styles: ["Country"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Last Of My Kind | 4:22 |
-| A2 | Cumberland Gap | 3:24 |
-| A3 | Tupelo | 4:01 |
-| A4 | White Man's World  | 3:57 |
-| A5 | If We Were Vampires | 3:36 |
-| B1 | Anxiety | 6:58 |
-| B2 | Molotov  | 3:47 |
-| B3 | Chaos And Clothes | 3:35 |
-| B4 | Hope The High Road | 3:03 |
-| B5 | Something To Love | 3:39 |
+| Position | Title |
+|----------|--------|
+| A1 | Last Of My Kind |
+| A2 | Cumberland Gap |
+| A3 | Tupelo |
+| A4 | White Man's World  |
+| A5 | If We Were Vampires |
+| B1 | Anxiety |
+| B2 | Molotov  |
+| B3 | Chaos And Clothes |
+| B4 | Hope The High Road |
+| B5 | Something To Love |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Country"]
 | Format         | Vinyl LP Album Limited Edition (Gatefold, 180 Gram) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99881 |
-| Notes | With limited edition songbook. Album download included.<br>400 Songbooks randomly signed by Jason and the band.<br><br>© & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.  <br><br>Recorded in RCA's "Nashville Sound" Studio.<br><br>Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI). |
+| Notes | With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI). |
 | Discogs URL    | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624-Jason-Isbell-And-The-400-Unit-The-Nashville-Sound-) |

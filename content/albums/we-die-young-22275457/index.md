@@ -31,11 +31,11 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | We Die Young | 2:32 |
-| C1 | It Ain't Like That | 4:38 |
-| C2 | Killing Yourself | 2:55 |
+| Position | Title |
+|----------|--------|
+| A | We Die Young |
+| C1 | It Ain't Like That |
+| C2 | Killing Yourself |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439784651 |
-| Notes | Record Store Day 2022 exclusive release, edition of 14350 copies worldwide.<br>This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo.<br>No MPO pressing info on side C.<br><br>Made in the EU. |
+| Notes | Record Store Day 2022 exclusive release, edition of 14350 copies worldwide. This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo. No MPO pressing info on side C.  Made in the EU. |
 | Discogs URL    | [Alice In Chains - We Die Young](https://www.discogs.com/release/22275457-Alice-In-Chains-We-Die-Young) |

@@ -32,14 +32,14 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wild And Loose | 7:32 |
-| A2 | 777-9311 | 7:57 |
-| A3 | Onedayi'mgonnabesomebody | 2:27 |
-| B1 | The Walk | 9:30 |
-| B2 | Gigolos Get Lonely Too | 4:40 |
-| B3 | I Don't Wanna Leave You | 6:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Wild And Loose |
+| A2 | 777-9311 |
+| A3 | Onedayi'mgonnabesomebody |
+| B1 | The Walk |
+| B2 | Gigolos Get Lonely Too |
+| B3 | I Don't Wanna Leave You |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Stereo (Green vinyl) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R1 23701 |
-| Notes | Record Store Day 2017 Release. Limited Edition of 5500. <br><br>Printed inner sleeve in black and white, featuring lyrics on one side and band pictures on the other.<br><br>Green sticker on front:<br><br>"The Time's Classic Second Album on Green vinyl Limited Edition of 5500<br><br>Contains the hit singles "777-9311", "The Walk", and "Gigolos Get Lonely Too"<br><br>Co-Produced by Jamie Starr (aka Prince)<br><br>081227940836"<br><br>Printed in E.U.<br><br>℗ and © 2017, 1982 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.<br>© 1982 Tionna Music ASCAP<br><br>Runouts are etched. |
+| Notes | Record Store Day 2017 Release. Limited Edition of 5500.   Printed inner sleeve in black and white, featuring lyrics on one side and band pictures on the other.  Green sticker on front:  "The Time's Classic Second Album on Green vinyl Limited Edition of 5500  Contains the hit singles "777-9311", "The Walk", and "Gigolos Get Lonely Too"  Co-Produced by Jamie Starr (aka Prince)  081227940836"  Printed in E.U.  ℗ and © 2017, 1982 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. © 1982 Tionna Music ASCAP  Runouts are etched. |
 | Discogs URL    | [The Time - What Time Is It?](https://www.discogs.com/release/10174128-The-Time-What-Time-Is-It) |

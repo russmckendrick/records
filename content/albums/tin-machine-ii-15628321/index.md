@@ -35,21 +35,21 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Baby Universal | 3:18 |
-| A2 | One Shot | 5:11 |
-| A3 | You Belong In Rock N' Roll | 4:07 |
-| A4 | If There Is Something | 4:45 |
-| A5 | Amlapura | 3:46 |
-| A6 | Betty Wrong | 3:48 |
-| B1 | You Can't Talk | 3:09 |
-| B2 | Stateside | 5:38 |
-| B3 | Shopping For Girls | 3:44 |
-| B4 | A Big Hurt | 3:40 |
-| B5 | Sorry | 3:29 |
-| B6 | Goodbye Mr. Ed | 3:24 |
-| B7 | Hammerhead | 0:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Baby Universal |
+| A2 | One Shot |
+| A3 | You Belong In Rock N' Roll |
+| A4 | If There Is Something |
+| A5 | Amlapura |
+| A6 | Betty Wrong |
+| B1 | You Can't Talk |
+| B2 | Stateside |
+| B3 | Shopping For Girls |
+| B4 | A Big Hurt |
+| B5 | Sorry |
+| B6 | Goodbye Mr. Ed |
+| B7 | Hammerhead |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Silver, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2715 |
-| Notes | Originally released ℗ © 1991 Tin Machine.<br><br>Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover.<br>Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.<br><br>Track B7 is unlisted.<br><br>Includes insert.<br><br>Special spot varnished sleeve.<br><br>Hype sticker front cover in gold. |
+| Notes | Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold. |
 | Discogs URL    | [Tin Machine - Tin Machine II](https://www.discogs.com/release/15628321-Tin-Machine-Tin-Machine-II) |

@@ -31,20 +31,20 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stand Above Me | 3:33 |
-| A2 | Everyday | 3:57 |
-| A3 | King Of Stone | 4:17 |
-| A4 | Dollar Girl | 4:19 |
-| A5 | Dream Of Me (Based On Love's Theme) | 4:13 |
-| A6 | Sunday Morning | 3:23 |
-| B1 | Agnus Dei | 3:39 |
-| B2 | Love And Hate You | 3:18 |
-| B3 | Heaven Is | 4:30 |
-| B4 | Best Years Of Our Lives | 4:35 |
-| B5 | Christine | 5:04 |
-| B6 | Only Tears | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Stand Above Me |
+| A2 | Everyday |
+| A3 | King Of Stone |
+| A4 | Dollar Girl |
+| A5 | Dream Of Me (Based On Love's Theme) |
+| A6 | Sunday Morning |
+| B1 | Agnus Dei |
+| B2 | Love And Hate You |
+| B3 | Heaven Is |
+| B4 | Best Years Of Our Lives |
+| B5 | Christine |
+| B6 | Only Tears |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422497 |
-| Notes | An EMI release.<br>℗ 2021 Virgin Records Ltd.<br>© 2021 Virgin Records Ltd.<br>Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in Germany.<br>Includes download card (WAV files). |
+| Notes | An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files). |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |

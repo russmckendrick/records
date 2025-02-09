@@ -30,20 +30,20 @@ Midnight at the Movies is the second studio album by Justin Townes Earle, releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Midnight At The Movies |  |
-| A2 | What I Mean To You |  |
-| A3 | They Killed John Henry |  |
-| A4 | Mama's Eyes |  |
-| A5 | Dirty Rag |  |
-| A6 | Can't Hardly Wait |  |
-| B1 | Black Eyed Suzy |  |
-| B2 | Poor Fool |  |
-| B3 | Halfway To Jackson |  |
-| B4 | Someday I'll Be Forgiven For This |  |
-| B5 | Walk Out |  |
-| B6 | Here We Go Again |  |
+| Position | Title |
+|----------|--------|
+| A1 | Midnight At The Movies |
+| A2 | What I Mean To You |
+| A3 | They Killed John Henry |
+| A4 | Mama's Eyes |
+| A5 | Dirty Rag |
+| A6 | Can't Hardly Wait |
+| B1 | Black Eyed Suzy |
+| B2 | Poor Fool |
+| B3 | Halfway To Jackson |
+| B4 | Someday I'll Be Forgiven For This |
+| B5 | Walk Out |
+| B6 | Here We Go Again |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Midnight at the Movies is the second studio album by Justin Townes Earle, releas
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 160 LP |
-| Notes | "Limited Edition of 2000"<br>Released with mp3 download |
+| Notes | "Limited Edition of 2000"  Released with mp3 download |
 | Discogs URL    | [Justin Townes Earle - Midnight At The Movies](https://www.discogs.com/release/2414977-Justin-Townes-Earle-Midnight-At-The-Movies) |

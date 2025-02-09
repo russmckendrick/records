@@ -29,15 +29,15 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intelligent Worship |  |
-| A2 | (I've Been) Hexed |  |
-| A3 | Don't Panic |  |
-| A4 | Slower Than Light |  |
-| A5 | Nowhere Left To Hide |  |
-| A6 | Clone Of The Universe |  |
-| B | Il Mostro Atomico |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intelligent Worship |
+| A2 | (I've Been) Hexed |
+| A3 | Don't Panic |
+| A4 | Slower Than Light |
+| A5 | Nowhere Left To Hide |
+| A6 | Clone Of The Universe |
+| B | Il Mostro Atomico |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 | Format         | Vinyl LP Album (Black / Blue Swirl) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD014 |
-| Notes | Includes a printed 12" x 12" sheet with photos and credits.<br><br>LP's from band store came with lyric sheets for each of the 7 songs just as Scott Hill wrote them down to sing from in the studio and die cut prism stickers.<br><br>℗ © Fu Manchu Under License To At The Dojo Records<br><br>Recorded, Engineered And Mixed [...] At The Racket Room In Santa Ana, CA July 2017<br>Drums / Bass On [B, A1, A5] Were Recorded [...] At Susstudio In Simi Valley, CA July 2017<br>All Songs Written By [...] (ASCAP) And Published By Fu Manchu (ASCAP)<br>Alex Lifeson Appears Courtesy Of Lersxt Music |
+| Notes | Includes a printed 12" x 12" sheet with photos and credits.  LP's from band store came with lyric sheets for each of the 7 songs just as Scott Hill wrote them down to sing from in the studio and die cut prism stickers.  ℗ © Fu Manchu Under License To At The Dojo Records  Recorded, Engineered And Mixed [...] At The Racket Room In Santa Ana, CA July 2017 Drums / Bass On [B, A1, A5] Were Recorded [...] At Susstudio In Simi Valley, CA July 2017 All Songs Written By [...] (ASCAP) And Published By Fu Manchu (ASCAP) Alex Lifeson Appears Courtesy Of Lersxt Music |
 | Discogs URL    | [Fu Manchu - Clone Of The Universe](https://www.discogs.com/release/11533218-Fu-Manchu-Clone-Of-The-Universe) |

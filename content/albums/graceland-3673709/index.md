@@ -34,19 +34,19 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Boy In The Bubble | 3:59 |
-| A2 | Graceland | 4:51 |
-| A3 | I Know What I Know | 3:13 |
-| A4 | Gumboots | 2:44 |
-| A5 | Diamonds On The Soles Of Her Shoes | 5:51 |
-| B1 | You Can Call Me Al | 4:40 |
-| B2 | Under African Skies | 3:37 |
-| B3 | Homeless | 3:48 |
-| B4 | Crazy Love, Vol. II | 4:19 |
-| B5 | That Was Your Mother | 2:52 |
-| B6 | All Around The World Or The Myth Of Fingerprints | 3:16 |
+| Position | Title |
+|----------|--------|
+| A1 | The Boy In The Bubble |
+| A2 | Graceland |
+| A3 | I Know What I Know |
+| A4 | Gumboots |
+| A5 | Diamonds On The Soles Of Her Shoes |
+| B1 | You Can Call Me Al |
+| B2 | Under African Skies |
+| B3 | Homeless |
+| B4 | Crazy Love, Vol. II |
+| B5 | That Was Your Mother |
+| B6 | All Around The World Or The Myth Of Fingerprints |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Legacy |
 | Catalog Number | 88691914721 |
-| Notes | - Front Cover: Photo of Icon, courtesy of Langmuir Collection, Peabody Museum of Salem.<br>- Back Cover: Liner notes (credited) + Track listing.<br>- Originally Mastered by Greg Calbi at Sterling Sound, New York.<br>- Comes with mp3 download and poster.<br>- White inner sleeve with printed lyrics and notes.<br> |
+| Notes | - Front Cover: Photo of Icon, courtesy of Langmuir Collection, Peabody Museum of Salem. - Back Cover: Liner notes (credited) + Track listing. - Originally Mastered by Greg Calbi at Sterling Sound, New York. - Comes with mp3 download and poster. - White inner sleeve with printed lyrics and notes.  |
 | Discogs URL    | [Paul Simon - Graceland](https://www.discogs.com/release/3673709-Paul-Simon-Graceland) |

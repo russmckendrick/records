@@ -32,18 +32,18 @@ Flock is the eleventh album by the English musician Jane Weaver, released on 5 M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heartlow |  |
-| A2 | The Revolution Of Super Visions |  |
-| A3 | Stages Of Phases |  |
-| A4 | Lux |  |
-| A5 | Modern Reputation |  |
-| B1 | Flock |  |
-| B2 | Sunset Dreams |  |
-| B3 | All The Things You Do |  |
-| B4 | Pyramid Schemes |  |
-| B5 | Solarised |  |
+| Position | Title |
+|----------|--------|
+| A1 | Heartlow |
+| A2 | The Revolution Of Super Visions |
+| A3 | Stages Of Phases |
+| A4 | Lux |
+| A5 | Modern Reputation |
+| B1 | Flock |
+| B2 | Sunset Dreams |
+| B3 | All The Things You Do |
+| B4 | Pyramid Schemes |
+| B5 | Solarised |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Flock is the eleventh album by the English musician Jane Weaver, released on 5 M
 | Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP544 |
-| Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.<br><br>Also available from recordstore.co.uk with signed art card (quantity unknown). |
+| Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown). |
 | Discogs URL    | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |

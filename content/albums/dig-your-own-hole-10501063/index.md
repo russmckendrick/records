@@ -37,19 +37,19 @@ But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Block Rockin' Beats |  |
-| A2 | Dig Your Own Hole |  |
-| B1 | Elektrobank |  |
-| B2 | Piku |  |
-| B3 | Setting Sun |  |
-| C1 | It Doesn't Matter |  |
-| C2 | Don't Stop The Rock |  |
-| C3 | Get Up On It Like This |  |
-| D1 | Lost In The K-Hole |  |
-| D2 | Where Do I Begin |  |
-| D3 | The Private Psychedelic Reel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Block Rockin' Beats |
+| A2 | Dig Your Own Hole |
+| B1 | Elektrobank |
+| B2 | Piku |
+| B3 | Setting Sun |
+| C1 | It Doesn't Matter |
+| C2 | Don't Stop The Rock |
+| C3 | Get Up On It Like This |
+| D1 | Lost In The K-Hole |
+| D2 | Where Do I Begin |
+| D3 | The Private Psychedelic Reel |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole
 | Format         | Vinyl 2× LP Album Reissue Repress (Silver) |
 | Label          | Virgin |
 | Catalog Number | 5761964 |
-| Notes | 20th Anniversary Silver vinyl edition.<br>Gatefold cover.<br>Printed in the UK.<br><br>℗ 1997 Virgin Records Limited.<br>© 1997 Virgin Records Limited.<br><br>Includes a download code for the album in 16 bit WAV format, [r=11516477].<br><br>The colour is rather gray than the stated silver. |
+| Notes | 20th Anniversary Silver vinyl edition. Gatefold cover. Printed in the UK.  ℗ 1997 Virgin Records Limited. © 1997 Virgin Records Limited.  Includes a download code for the album in 16 bit WAV format, [r=11516477].  The colour is rather gray than the stated silver. |
 | Discogs URL    | [The Chemical Brothers - Dig Your Own Hole](https://www.discogs.com/release/10501063-The-Chemical-Brothers-Dig-Your-Own-Hole) |

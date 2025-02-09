@@ -36,27 +36,27 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dancing Gold |  |
-| A2 | Star (Full Band) |  |
-| A3 | Dream On Me |  |
-| A4 | Sweet Ride |  |
-| A5 | Trust In Me |  |
-| B1 | Diamond Rib Cage |  |
-| B2 | Sexy S |  |
-| B3 | Baby's Arm |  |
-| B4 | Broken |  |
-| B5 | It's Not Unusual (Ivo's Version) |  |
-| C1 | Are You Experienced? |  |
-| C2 | Spaceman |  |
-| C3 | Hot Burrito #1 |  |
-| C4 | Think About Your Troubles |  |
-| C5 | Hushabye Mountain |  |
-| D1 | Lilith |  |
-| D2 | John Dark |  |
-| D3 | Judas Mon Coeur (French Version) |  |
-| D4 | Thief |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dancing Gold |
+| A2 | Star (Full Band) |
+| A3 | Dream On Me |
+| A4 | Sweet Ride |
+| A5 | Trust In Me |
+| B1 | Diamond Rib Cage |
+| B2 | Sexy S |
+| B3 | Baby's Arm |
+| B4 | Broken |
+| B5 | It's Not Unusual (Ivo's Version) |
+| C1 | Are You Experienced? |
+| C2 | Spaceman |
+| C3 | Hot Burrito #1 |
+| C4 | Think About Your Troubles |
+| C5 | Hushabye Mountain |
+| D1 | Lilith |
+| D2 | John Dark |
+| D3 | Judas Mon Coeur (French Version) |
+| D4 | Thief |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Record Store Day Compilation (Honey) |
 | Label          | 4AD |
 | Catalog Number | 4AD0342LPE |
-| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve.<br>Compilation of B-sides, covers and oddities.<br><br>Barcode sticker on reverse with 4AD address, address, Belly web address.<br><br>Runouts are hand etched except MPO codes which are laser etched. |
+| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve. Compilation of B-sides, covers and oddities.  Barcode sticker on reverse with 4AD address, address, Belly web address.  Runouts are hand etched except MPO codes which are laser etched. |
 | Discogs URL    | [Belly - Bees](https://www.discogs.com/release/19112494-Belly-Bees) |

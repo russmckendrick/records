@@ -39,14 +39,14 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Of These Days |  |
-| A2 | A Pillow Of Winds |  |
-|  | Fearless Including "You'll Never Walk Alone" |  |
-| A4 | San Tropez |  |
-| A5 | Seamus |  |
-| B1 | Echoes |  |
+| Position | Title |
+|----------|--------|
+| A1 | One Of These Days |
+| A2 | A Pillow Of Winds |
+|  | Fearless Including "You'll Never Walk Alone" |
+| A4 | San Tropez |
+| A5 | Seamus |
+| B1 | Echoes |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 | Format         | Vinyl LP Album Stereo (A-1U/B-1U Runouts) |
 | Label          | Harvest |
 | Catalog Number | SHVL 795 |
-| Notes | This is the original UK release with A1U/B1U runouts, fully textured (outside & inside) gatefold sleeve & 'The Gramophone Co.' rimtext on green/yellow Harvest labels.<br>EMI/Harvest polylined paper inner sleeve, advertising other Harvest releases.<br><br>First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back in parentheses.<br><br>Labels: <br>• The Gramophone Co, Ltd. (rimtext)<br>• Boxed EMI logo (above Harvest logo)<br>• Made in Gt. Britain (at 6 o'clock)<br>• ℗ 1971 <br><br>Sleeve:<br>• Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971<br>• ℗ 1971.<br>• E.M.I Records (The Gramophone Company Ltd) • Hayes • Middlesex • England <br>• Harvest - Trade Mark of The Gramophone Co. Ltd.<br>• A Company of The [url=https://www.discogs.com/label/293204]EMI[/url] Group<br>• Made and Printed in Great Britain<br>• File under POPULAR : Pop Groups • 7110 • TPS • Printed and made by Garrod & Lofthouse Ltd. • SHVL 795<br>• Patent No. 1224339<br><br>All songs published by World Copyrights Ltd. except "You'll Never Walk Alone": Williamson Music Ltd. Chappell. <br><br> |
+| Notes | This is the original UK release with A1U/B1U runouts, fully textured (outside & inside) gatefold sleeve & 'The Gramophone Co.' rimtext on green/yellow Harvest labels. EMI/Harvest polylined paper inner sleeve, advertising other Harvest releases.  First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back in parentheses.  Labels:  • The Gramophone Co, Ltd. (rimtext) • Boxed EMI logo (above Harvest logo) • Made in Gt. Britain (at 6 o'clock) • ℗ 1971   Sleeve: • Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971 • ℗ 1971. • E.M.I Records (The Gramophone Company Ltd) • Hayes • Middlesex • England  • Harvest - Trade Mark of The Gramophone Co. Ltd. • A Company of The [url=https://www.discogs.com/label/293204]EMI[/url] Group • Made and Printed in Great Britain • File under POPULAR : Pop Groups • 7110 • TPS • Printed and made by Garrod & Lofthouse Ltd. • SHVL 795 • Patent No. 1224339  All songs published by World Copyrights Ltd. except "You'll Never Walk Alone": Williamson Music Ltd. Chappell.    |
 | Discogs URL    | [Pink Floyd - Meddle](https://www.discogs.com/release/4137493-Pink-Floyd-Meddle) |

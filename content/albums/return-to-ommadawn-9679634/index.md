@@ -38,10 +38,10 @@ Return to Ommadawn is the twenty-sixth and final studio album by English musicia
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Return To Ommadawn Pt. I | 21:10 |
-| B | Return To Ommadawn Pt. II | 20:57 |
+| Position | Title |
+|----------|--------|
+| A | Return To Ommadawn Pt. I |
+| B | Return To Ommadawn Pt. II |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Return to Ommadawn is the twenty-sixth and final studio album by English musicia
 | Format         | Vinyl LP Album (180g) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3166 |
-| Notes | Gatefold cover, with an illustrated inner sleeve.<br>Includes download code for the album in lossy AAC format, see [r=9853010].<br>Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24").<br>Vinyl half-speed mastered at Abbey Road.<br><br>℗ & © 2017 Mercury Records Limited<br>Made in the EU<br><br>Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!<br><br>Runouts are stamped except for 'MILES' which is etched. |
+| Notes | Gatefold cover, with an illustrated inner sleeve. Includes download code for the album in lossy AAC format, see [r=9853010]. Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24"). Vinyl half-speed mastered at Abbey Road.  ℗ & © 2017 Mercury Records Limited Made in the EU  Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!  Runouts are stamped except for 'MILES' which is etched. |
 | Discogs URL    | [Mike Oldfield - Return To Ommadawn](https://www.discogs.com/release/9679634-Mike-Oldfield-Return-To-Ommadawn) |

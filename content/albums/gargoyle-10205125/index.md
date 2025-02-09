@@ -34,18 +34,18 @@ In architecture, and specifically Gothic architecture, a gargoyle () is a carved
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Death's Head Tattoo |  |
-| A2 | Nocturne |  |
-| A3 | Blue Blue Sea |  |
-| A4 | Beehive |  |
-| A5 | Sister |  |
-| B1 | Emperor |  |
-| B2 | Goodbye To Beauty |  |
-| B3 | Drunk On Destruction |  |
-| B4 | First Day Of Winter |  |
-| B5 | Old Swan |  |
+| Position | Title |
+|----------|--------|
+| A1 | Death's Head Tattoo |
+| A2 | Nocturne |
+| A3 | Blue Blue Sea |
+| A4 | Beehive |
+| A5 | Sister |
+| B1 | Emperor |
+| B2 | Goodbye To Beauty |
+| B3 | Drunk On Destruction |
+| B4 | First Day Of Winter |
+| B5 | Old Swan |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ In architecture, and specifically Gothic architecture, a gargoyle () is a carved
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP137 |
-| Notes | Housed in a gatefold cover, contains a download coupon for the entire album. <br><br>From the back cover: <br>℗ & © 2017 Heavenly Recordings under exclusive license to [PIAS] <br><br>Pressing plant is uncredited, derived from runout the etchings.  |
+| Notes | Housed in a gatefold cover, contains a download coupon for the entire album.   From the back cover:  ℗ & © 2017 Heavenly Recordings under exclusive license to [PIAS]   Pressing plant is uncredited, derived from runout the etchings.  |
 | Discogs URL    | [Mark Lanegan Band - Gargoyle](https://www.discogs.com/release/10205125-Mark-Lanegan-Band-Gargoyle) |

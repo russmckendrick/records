@@ -40,24 +40,24 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 4 Better Or 4 Worse (Interlude) | 0:36 |
-| A2 | Oh Shit | 4:29 |
-| A3 | It's Jiggaboo Time (Skit) | 1:26 |
-| A4 | 4 Better Or 4 Worse | 5:03 |
-| B1 | I'm That Type Of Nigga | 5:16 |
-| B2 | If I Were President (Skit) | 1:01 |
-| B3 | Soul Flower (Remix) | 4:23 |
-| B4 | On The DL | 4:27 |
-| C1 | Pack The Pipe (Interlude) | 0:21 |
-| C2 | Officer | 4:00 |
-| C3 | Ya Mama | 4:20 |
-| C4 | Passing Me By | 5:03 |
-| D1 | Otha Fish | 5:21 |
-| D2 | Quinton's On The Way (Skit) | 2:09 |
-| D3 | Pack The Pipe | 5:03 |
-| D4 | Return Of The B-Boy | 3:33 |
+| Position | Title |
+|----------|--------|
+| A1 | 4 Better Or 4 Worse (Interlude) |
+| A2 | Oh Shit |
+| A3 | It's Jiggaboo Time (Skit) |
+| A4 | 4 Better Or 4 Worse |
+| B1 | I'm That Type Of Nigga |
+| B2 | If I Were President (Skit) |
+| B3 | Soul Flower (Remix) |
+| B4 | On The DL |
+| C1 | Pack The Pipe (Interlude) |
+| C2 | Officer |
+| C3 | Ya Mama |
+| C4 | Passing Me By |
+| D1 | Otha Fish |
+| D2 | Quinton's On The Way (Skit) |
+| D3 | Pack The Pipe |
+| D4 | Return Of The B-Boy |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 | Format         | Vinyl 2× LP Album Record Store Day Reissue Stereo (Clear w/Yellow & Purple Splatter) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00018 |
-| Notes | On back cover, label side A & C and insert:<br>℗ & © 1992 Craft Recordings, A Division Of Concord Music Group, Inc.<br>Made In The U.S.A.<br><br>Similar version:<br>[r=11190558] is a 2017 reissue with yellow & blue translucent vinyl records. |
+| Notes | On back cover, label side A & C and insert: ℗ & © 1992 Craft Recordings, A Division Of Concord Music Group, Inc. Made In The U.S.A.  Similar version: [r=11190558] is a 2017 reissue with yellow & blue translucent vinyl records. |
 | Discogs URL    | [The Pharcyde - Bizarre Ride II The Pharcyde](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II-The-Pharcyde) |

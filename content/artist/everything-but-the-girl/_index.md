@@ -1,8 +1,12 @@
 ---
-title: ""
-summary: ""
-slug: ""
+title: "Everything But The Girl"
+summary: |
+  Tracey Thorn and Ben Watt first emerged as pioneers in the lite-jazz music scene in the early 1980's. They continued to refine their jazz versus electronica sound through eight studio albums until they gained larger exposure in 1994 through a collaboration with Massive Attack on "Protection" and their hit album "Amplified Heart." Todd Terry's remix of "Missing" was a smash hit in 1995 and continues to be remixed and played to this day. After the success of "Missing", the duo took their music in a more beat-oriented and clubbier direction, with Tracey lending her vocals as guest singer on several club tracks by Deep Dish and others. In 2017, Watt's label Buzzin' Fly Records took over the Everything But The Girl back catalogue from Warner Music Group, securing rights to most of the band’s recordings. In 2022, Thorn and Watt announced that they were reuniting and had recorded an album set for release in 2023, their first in 24 years. The duo got their name from a furniture store ad which proclaimed, "For your bedroom needs, we have everything but the girl."
+slug: "everything-but-the-girl"
 image: "everything-but-the-girl.jpg"
-apple_music_artist_url: ""
-wikipedia_url: ""
+apple_music_artist_url: "https://music.apple.com/gb/artist/everything-but-the-girl/164449"
+wikipedia_url: "None"
+discogs_url: "https://www.discogs.com/artist/4115-Everything-But-The-Girl"
 ---
+
+Tracey Thorn and Ben Watt first emerged as pioneers in the lite-jazz music scene in the early 1980's. They continued to refine their jazz versus electronica sound through eight studio albums until they gained larger exposure in 1994 through a collaboration with Massive Attack on "Protection" and their hit album "Amplified Heart." Todd Terry's remix of "Missing" was a smash hit in 1995 and continues to be remixed and played to this day. After the success of "Missing", the duo took their music in a more beat-oriented and clubbier direction, with Tracey lending her vocals as guest singer on several club tracks by Deep Dish and others. In 2017, Watt's label Buzzin' Fly Records took over the Everything But The Girl back catalogue from Warner Music Group, securing rights to most of the band’s recordings. In 2022, Thorn and Watt announced that they were reuniting and had recorded an album set for release in 2023, their first in 24 years. The duo got their name from a furniture store ad which proclaimed, "For your bedroom needs, we have everything but the girl."

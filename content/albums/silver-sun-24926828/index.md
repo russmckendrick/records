@@ -30,23 +30,23 @@ Changing their name from Sun, under which their debut EP had been released, thei
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Test |  |
-| A2 | Golden Skin |  |
-| A3 | Dumb |  |
-| A4 | Julia |  |
-| A5 | Far Out |  |
-| A6 | Last Day |  |
-| A7 | Service |  |
-| A8 | Yellow Light |  |
-| B1 | Lava |  |
-| B2 | Digits |  |
-| B3 | This 'N' That |  |
-| B4 | Wonderful |  |
-| B5 | Bad Haircut |  |
-| B6 | Nobody |  |
-| B7 | Animals Feets |  |
+| Position | Title |
+|----------|--------|
+| A1 | Test |
+| A2 | Golden Skin |
+| A3 | Dumb |
+| A4 | Julia |
+| A5 | Far Out |
+| A6 | Last Day |
+| A7 | Service |
+| A8 | Yellow Light |
+| B1 | Lava |
+| B2 | Digits |
+| B3 | This 'N' That |
+| B4 | Wonderful |
+| B5 | Bad Haircut |
+| B6 | Nobody |
+| B7 | Animals Feets |
 
 
 ## Apple Music

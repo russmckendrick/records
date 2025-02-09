@@ -31,22 +31,22 @@ styles: ["Heavy Metal", "Groove Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Welcome To Planet Motherfucker / Psychoholic Slag | 6:21 |
-| A2 | Knuckle Duster (Radio 1-A) | 0:24 |
-| A3 | Thunder Kiss '65 | 3:53 |
-| A4 | Black Sunshine | 4:48 |
-| A5 | Soul-Crusher | 5:04 |
-| A6 | Cosmic Monsters Inc. | 5:13 |
-| A7 | Spiderbaby (Yeah-Yeah-Yeah) | 5:00 |
-| B1 | I Am Legend | 5:08 |
-| B2 | Knuckle Duster (Radio 2-B) | 0:24 |
-| B3 | Thrust! | 5:05 |
-| B4 | One Big Crunch | 0:21 |
-| B5 | Grindhouse (A Go-Go) | 4:04 |
-| B6 | Starface | 5:02 |
-| B7 | Warp Asylum | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Welcome To Planet Motherfucker / Psychoholic Slag |
+| A2 | Knuckle Duster (Radio 1-A) |
+| A3 | Thunder Kiss '65 |
+| A4 | Black Sunshine |
+| A5 | Soul-Crusher |
+| A6 | Cosmic Monsters Inc. |
+| A7 | Spiderbaby (Yeah-Yeah-Yeah) |
+| B1 | I Am Legend |
+| B2 | Knuckle Duster (Radio 2-B) |
+| B3 | Thrust! |
+| B4 | One Big Crunch |
+| B5 | Grindhouse (A Go-Go) |
+| B6 | Starface |
+| B7 | Warp Asylum |
 
 
 ## Apple Music

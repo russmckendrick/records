@@ -46,26 +46,26 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Test The Sound | 2:29 |
-| A2 | Music Takes Me Up | 5:27 |
-| A3 | Donkey Ride | 5:12 |
-| B1 | Hairy Bumpercress | 6:30 |
-| B2 | Whiplash | 5:59 |
-| B3 | Nice Up The Function | 3:54 |
-| C1 | Bang The Floor | 3:41 |
-| C2 | Get On Down | 5:53 |
-| C3 | Hold On | 5:03 |
-| D1 | Give Up To Get | 6:44 |
-| D2 | Kalimba | 5:54 |
-| D3 | Zen | 3:52 |
-| E1 | This Way | 5:32 |
-| E2 | Stockport Carnival | 5:29 |
-| E3 | Fix That Speaker | 4:51 |
-| F1 | Bunch Of Keys (LP Edit) | 7:22 |
-| F2 | Rocking Chair | 5:59 |
-| F3 | Nice Up The Function (Remix Instrumental) | 3:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Test The Sound |
+| A2 | Music Takes Me Up |
+| A3 | Donkey Ride |
+| B1 | Hairy Bumpercress |
+| B2 | Whiplash |
+| B3 | Nice Up The Function |
+| C1 | Bang The Floor |
+| C2 | Get On Down |
+| C3 | Hold On |
+| D1 | Give Up To Get |
+| D2 | Kalimba |
+| D3 | Zen |
+| E1 | This Way |
+| E2 | Stockport Carnival |
+| E3 | Fix That Speaker |
+| F1 | Bunch Of Keys (LP Edit) |
+| F2 | Rocking Chair |
+| F3 | Nice Up The Function (Remix Instrumental) |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 | Format         | Vinyl 3× LP Album Deluxe Edition Reissue |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN143 |
-| Notes | Gatefold release, first time on vinyl<br>Cover includes peel-able tuna sticker |
+| Notes | Gatefold release, first time on vinyl Cover includes peel-able tuna sticker |
 | Discogs URL    | [Mr Scruff - Ninja Tuna](https://www.discogs.com/release/30208622-Mr-Scruff-Ninja-Tuna) |

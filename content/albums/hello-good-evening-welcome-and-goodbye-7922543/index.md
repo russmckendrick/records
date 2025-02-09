@@ -31,20 +31,20 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rubbish | 4:59 |
-| A2 | Do Re Me, So Far So Good | 2:57 |
-| A3 | Everytime A Churchbell Rings | 4:29 |
-| A4 | Anytime, Anyplace, Anywhere | 4:15 |
-| A5 | A Prince In A Paupers Grave | 4:29 |
-| A6 | And God Created Brixton | 5:20 |
-| B1 | This is How It Feels | 3:21 |
-| B2 | Lets Get Tattoos | 3:20 |
-| B3 | The Music That Nobody Likes | 7:00 |
-| B4 | The Only Living Boy In New Cross | 4:35 |
-| B5 | Sheriff Fatman | 4:36 |
-| B6 | Rent | 3:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Rubbish |
+| A2 | Do Re Me, So Far So Good |
+| A3 | Everytime A Churchbell Rings |
+| A4 | Anytime, Anyplace, Anywhere |
+| A5 | A Prince In A Paupers Grave |
+| A6 | And God Created Brixton |
+| B1 | This is How It Feels |
+| B2 | Lets Get Tattoos |
+| B3 | The Music That Nobody Likes |
+| B4 | The Only Living Boy In New Cross |
+| B5 | Sheriff Fatman |
+| B6 | Rent |
 
 
 ## Apple Music

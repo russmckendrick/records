@@ -32,17 +32,17 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shield Your Eyes |  |
-| A2 | Big |  |
-| A3 | Sleep |  |
-| A4 | Donatello |  |
-| A5 | P.S. New York Is Burning |  |
-| B1 | Like A Secret |  |
-| B2 | Chesterfield King |  |
-| B3 | Parabola |  |
-| B4 | Bivouac |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shield Your Eyes |
+| A2 | Big |
+| A3 | Sleep |
+| A4 | Donatello |
+| A5 | P.S. New York Is Burning |
+| B1 | Like A Secret |
+| B2 | Chesterfield King |
+| B3 | Parabola |
+| B4 | Bivouac |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 | Format         | Vinyl LP Album Reissue Remastered (Translucent Green) |
 | Label          | Blackball Records |
 | Catalog Number | BB-009-LP |
-| Notes | Does not include a download card. Lyrics are printed on the inner<br><br> |
+| Notes | Does not include a download card. Lyrics are printed on the inner   |
 | Discogs URL    | [Jawbreaker - Bivouac](https://www.discogs.com/release/27712656-Jawbreaker-Bivouac) |

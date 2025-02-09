@@ -34,15 +34,15 @@ styles: ["Ambient", "Electro"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oxygene (Part 14) | 5:28 |
-| A2 | Oxygene (Part 15) | 6:40 |
-| A3 | Oxygene (Part 16) | 6:56 |
-| B1 | Oxygene (Part 17) | 4:20 |
-| B2 | Oxygene (Part 18) | 2:48 |
-| B3 | Oxygene (Part 19) | 5:45 |
-| B4 | Oxygene (Part 20) | 7:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Oxygene (Part 14) |
+| A2 | Oxygene (Part 15) |
+| A3 | Oxygene (Part 16) |
+| B1 | Oxygene (Part 17) |
+| B2 | Oxygene (Part 18) |
+| B3 | Oxygene (Part 19) |
+| B4 | Oxygene (Part 20) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Ambient", "Electro"]
 | Format         | Vinyl LP Album (Translucent) |
 | Label          | Columbia |
 | Catalog Number | 88985361881 |
-| Notes | Back cover:<br>Recorded and mixed on Ableton live and Macbook Pro.<br><br>Recorded and mixed at JMJ's Studio, France.<br>Mastering: Yakuda Mastering 2016.<br><br>Ⓟ 2016 Jean-Michel Jarre under exclusive license to Sony Music Entertainment Germany GmbH. Ⓒ 2016 EDDA under exclusive license to Sony Music Entertainment Germany GmbH. Distributed by Sony Music Entertainment Germany GmbH. Made in the EU.<br><br>Gatefold sleeve. Some copies were signed by artist as part of a presale campaign on Pledge Music.  |
+| Notes | Back cover: Recorded and mixed on Ableton live and Macbook Pro.  Recorded and mixed at JMJ's Studio, France. Mastering: Yakuda Mastering 2016.  Ⓟ 2016 Jean-Michel Jarre under exclusive license to Sony Music Entertainment Germany GmbH. Ⓒ 2016 EDDA under exclusive license to Sony Music Entertainment Germany GmbH. Distributed by Sony Music Entertainment Germany GmbH. Made in the EU.  Gatefold sleeve. Some copies were signed by artist as part of a presale campaign on Pledge Music.  |
 | Discogs URL    | [Jean-Michel Jarre - Oxygene 3](https://www.discogs.com/release/9435559-Jean-Michel-Jarre-Oxygene-3) |

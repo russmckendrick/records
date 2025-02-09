@@ -28,17 +28,17 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Zero Day | 3:57 |
-| A2 | Blue Line Baby | 4:30 |
-| A3 | You Wind Me Up | 3:59 |
-| A4 | Plastic Migraine | 4:44 |
-| A5 | Us/We/Are | 3:34 |
-| B1 | Hail On Palace Pier | 4:48 |
-| B2 | I Hate The Flowers | 4:21 |
-| B3 | The Carpenter's Son | 7:45 |
-| B4 | (Hope) Is Just Another Word With A Hole In It | 5:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Zero Day |
+| A2 | Blue Line Baby |
+| A3 | You Wind Me Up |
+| A4 | Plastic Migraine |
+| A5 | Us/We/Are |
+| B1 | Hail On Palace Pier |
+| B2 | I Hate The Flowers |
+| B3 | The Carpenter's Son |
+| B4 | (Hope) Is Just Another Word With A Hole In It |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 | Format         | Vinyl LP Album Limited Edition (White Chrysanthemum (White)) |
 | Label          | Relapse Records |
 | Catalog Number | RR7394 |
-| Notes | UK indie retailer exclusive.<br><br>From sticker on plastic cover sleeve:<br>LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.<br><br>Comes in a gatefold cover with a lyric/credit sheet and a digital download code.<br><br>Recorded at Dreamland Recording, West Hurley, NY.<br>Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY.<br>Mixed at Strange Weather, Greenpoint, Brooklyn, NY.<br>Additional mixing at Water Music Recorders, Hoboken, NJ.<br>Mastered at Sterling Sound, NY.<br><br>℗&© 2018 Relapse Record Inc. Made in EU. |
+| Notes | UK indie retailer exclusive.  From sticker on plastic cover sleeve: LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.  Comes in a gatefold cover with a lyric/credit sheet and a digital download code.  Recorded at Dreamland Recording, West Hurley, NY. Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY. Mixed at Strange Weather, Greenpoint, Brooklyn, NY. Additional mixing at Water Music Recorders, Hoboken, NJ. Mastered at Sterling Sound, NY.  ℗&© 2018 Relapse Record Inc. Made in EU. |
 | Discogs URL    | [Nothing - Dance On The Blacktop](https://www.discogs.com/release/12436581-Nothing-12-Dance-On-The-Blacktop) |

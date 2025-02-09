@@ -32,21 +32,21 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kare Kare |  |
-| A2 | In My Command |  |
-| A3 | Nails In My Feet |  |
-| A4 | Black & White Boy |  |
-| A5 | Fingers Of Love |  |
-| A6 | Pineapple Head |  |
-| B1 | Locked Out |  |
-| B2 | Private Universe |  |
-| B3 | Walking On The Spot |  |
-| B4 | Distant Sun |  |
-| B5 | Catherine Wheels |  |
-| B6 | Skin Feeling |  |
-| B7 | Together Alone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kare Kare |
+| A2 | In My Command |
+| A3 | Nails In My Feet |
+| A4 | Black & White Boy |
+| A5 | Fingers Of Love |
+| A6 | Pineapple Head |
+| B1 | Locked Out |
+| B2 | Private Universe |
+| B3 | Walking On The Spot |
+| B4 | Distant Sun |
+| B5 | Catherine Wheels |
+| B6 | Skin Feeling |
+| B7 | Together Alone |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2215 |
-| Notes | Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London<br><br>Printed in U.K.<br><br>Published by Roundhead Music (BMI), except:<br>A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP<br>B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI)<br>B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP<br>B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP<br> |
+| Notes | Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London  Printed in U.K.  Published by Roundhead Music (BMI), except: A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI) B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP  |
 | Discogs URL    | [Crowded House - Together Alone](https://www.discogs.com/release/2187186-Crowded-House-Together-Alone) |

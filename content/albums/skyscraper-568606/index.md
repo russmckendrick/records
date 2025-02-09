@@ -33,18 +33,18 @@ Skyscraper is the second full-length studio album by David Lee Roth, released du
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knucklebones | 3:18 |
-| A2 | Just Like Paradise | 4:03 |
-| A3 | The Bottom Line | 3:37 |
-| A4 | Skyscraper | 3:38 |
-| A5 | Damn Good | 5:49 |
-| B1 | Hot Dog And A Shake | 3:19 |
-| B2 | Stand Up | 4:39 |
-| B3 | Hina | 4:40 |
-| B4 | Perfect Timing | 3:41 |
-| B5 | Two Fools A Minute | 4:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Knucklebones |
+| A2 | Just Like Paradise |
+| A3 | The Bottom Line |
+| A4 | Skyscraper |
+| A5 | Damn Good |
+| B1 | Hot Dog And A Shake |
+| B2 | Stand Up |
+| B3 | Hina |
+| B4 | Perfect Timing |
+| B5 | Two Fools A Minute |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Skyscraper is the second full-length studio album by David Lee Roth, released du
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 671-1 |
-| Notes | Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound.<br>Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle.<br>Manufactured in Germany. Record Service GmbH, Alsdorf.<br>A Warner Communication Company <br><br>(C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.<br><br>Printed inner sleeve (lyrics and credits)<br>The cover photographs of David Lee Roth were taken on the Northwest Face of Half Dome. The route pictured is 2.000 plus feet of solid vertical rock.<br> |
+| Notes | Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound. Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle. Manufactured in Germany. Record Service GmbH, Alsdorf. A Warner Communication Company   (C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.  Printed inner sleeve (lyrics and credits) The cover photographs of David Lee Roth were taken on the Northwest Face of Half Dome. The route pictured is 2.000 plus feet of solid vertical rock.  |
 | Discogs URL    | [David Lee Roth - Skyscraper](https://www.discogs.com/release/568606-David-Lee-Roth-Skyscraper) |

@@ -32,22 +32,22 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Feel the Earth Move |  |
-| A2 | So Far Away |  |
-| A3 | It's Too Late |  |
-| A4 | Home Again |  |
-| A5 | Beautiful |  |
-| A6 | Way Over Yonder |  |
-| A7 | Out In The Cold |  |
-| B1 | You've Got A Friend |  |
-| B2 | Where You Lead |  |
-| B3 | Will You Still Love Me Tomorrow? |  |
-| B4 | Smackwater Jack |  |
-| B5 | Tapestry |  |
-| B6 | (You Make Me Feel Like) A Natural Woman |  |
-| B7 | Smackwater Jack (Previously Unreleased Live Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Feel the Earth Move |
+| A2 | So Far Away |
+| A3 | It's Too Late |
+| A4 | Home Again |
+| A5 | Beautiful |
+| A6 | Way Over Yonder |
+| A7 | Out In The Cold |
+| B1 | You've Got A Friend |
+| B2 | Where You Lead |
+| B3 | Will You Still Love Me Tomorrow? |
+| B4 | Smackwater Jack |
+| B5 | Tapestry |
+| B6 | (You Make Me Feel Like) A Natural Woman |
+| B7 | Smackwater Jack (Previously Unreleased Live Version) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
 | Label          | Ode Records (2) |
 | Catalog Number | 88875170161 |
-| Notes | Gatefold sleeve.<br>Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM |
+| Notes | Gatefold sleeve. Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM |
 | Discogs URL    | [Carole King - Tapestry](https://www.discogs.com/release/8211921-Carole-King-Tapestry) |

@@ -30,14 +30,14 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sunset Dreams | 4:27 |
-| A2 | Solarised (Extended Mix) | 8:16 |
-| A3 | The Lexical Distance | 4:31 |
-| B1 | The Revolution Of Super Visions (See Thru Hands Remix) | 3:27 |
-| B2 | Solarised (W. H. Lung Remix) | 7:34 |
-| B3 | Don't Tell Me I'm Wrong | 3:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Sunset Dreams |
+| A2 | Solarised (Extended Mix) |
+| A3 | The Lexical Distance |
+| B1 | The Revolution Of Super Visions (See Thru Hands Remix) |
+| B2 | Solarised (W. H. Lung Remix) |
+| B3 | Don't Tell Me I'm Wrong |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 | Format         | Vinyl 12" EP (White) |
 | Label          | Fire Records |
 | Catalog Number | FIRE643W |
-| Notes | Limited to 450 copies<br>Includes download code |
+| Notes | Limited to 450 copies Includes download code |
 | Discogs URL    | [Jane Weaver - Sunset Dreams](https://www.discogs.com/release/21262522-Jane-Weaver-Sunset-Dreams) |

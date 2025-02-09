@@ -37,17 +37,17 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fix My Heart | 4:56 |
-| A2 | Moonbeam Rider | 4:10 |
-| A3 | Le Pont Noir | 5:43 |
-| A4 | The Nile Song | 4:00 |
-| A5 | The Lost Machine | 5:52 |
-| A6 | Time Warp | 3:54 |
-| B1 | Jack Luminous | 17:28 |
-| B2 | Wrong-Way Street | 3:50 |
-| B3 | We Are Not Alone | 4:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Fix My Heart |
+| A2 | Moonbeam Rider |
+| A3 | Le Pont Noir |
+| A4 | The Nile Song |
+| A5 | The Lost Machine |
+| A6 | Time Warp |
+| B1 | Jack Luminous |
+| B2 | Wrong-Way Street |
+| B3 | We Are Not Alone |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red/Black Smoke) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1320 |
-| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing.<br>Issued with a double-sided printed innersleeve with lyrics. <br><br>CAT# on spine : RGM-1320<br><br>[Back cover]<br>A Geffen Records release; 1993 2021 UMG Recordings, Inc. <br><br>Courtesy of Geffen Records under licence from Universal Music Enterprises,<br>a division of UMG Recordings, Inc.<br>Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
+| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing. Issued with a double-sided printed innersleeve with lyrics.   CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
 | Discogs URL    | [Voïvod - The Outer Limits](https://www.discogs.com/release/19332691-Voivod-The-Outer-Limits) |

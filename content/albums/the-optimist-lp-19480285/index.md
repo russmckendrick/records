@@ -37,32 +37,32 @@ In late 2011, Turin Brakes embarked on a national tour performing the whole of t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feeling Oblivion | 3:43 |
-| A2 | Underdog (Save Me) | 3:34 |
-| A3 | Emergency 72 | 4:04 |
-| A4 | Future Boy | 3:55 |
-| A5 | The Door | 3:49 |
-| A6 | State Of Things | 3:30 |
-| B1 | By TV Light | 4:50 |
-| B2 | Slack | 3:13 |
-| B3 | Starship | 2:46 |
-| B4 | The Road | 5:29 |
-| B5 | Mind Over Money | 4:53 |
-| B6 | The Optimist | 3:24 |
-| C1 | Feeling Oblivion (Demo) |  |
-| C2 | Underdog (Sally) (Demo) | 2:17 |
-| C3 | Emergency 72 (Demo) |  |
-| C4 | Future Boy (Demo) |  |
-| C5 | The Door (Demo) |  |
-| C6 | State Of Things (Demo) |  |
-| D1 | By Tv Light (Demo) |  |
-| D2 | Slack (Demo) |  |
-| D3 | Starship (Demo) |  |
-| D4 | The Road (Demo) |  |
-| D5 | Mind Over Money (Demo) |  |
-| D6 | The Optimist (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Feeling Oblivion |
+| A2 | Underdog (Save Me) |
+| A3 | Emergency 72 |
+| A4 | Future Boy |
+| A5 | The Door |
+| A6 | State Of Things |
+| B1 | By TV Light |
+| B2 | Slack |
+| B3 | Starship |
+| B4 | The Road |
+| B5 | Mind Over Money |
+| B6 | The Optimist |
+| C1 | Feeling Oblivion (Demo) |
+| C2 | Underdog (Sally) (Demo) |
+| C3 | Emergency 72 (Demo) |
+| C4 | Future Boy (Demo) |
+| C5 | The Door (Demo) |
+| C6 | State Of Things (Demo) |
+| D1 | By Tv Light (Demo) |
+| D2 | Slack (Demo) |
+| D3 | Starship (Demo) |
+| D4 | The Road (Demo) |
+| D5 | Mind Over Money (Demo) |
+| D6 | The Optimist (Demo) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ In late 2011, Turin Brakes embarked on a national tour performing the whole of t
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Amber Transparent) |
 | Label          | Two Piers Records |
 | Catalog Number | BN1LPX |
-| Notes | Back in print with refreshed artwork and bonus demos.<br>20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"<br><br>On sleeve: BN1LP<br>On hype sticker: BN1LPX |
+| Notes | Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX |
 | Discogs URL    | [Turin Brakes - The Optimist LP](https://www.discogs.com/release/19480285-Turin-Brakes-The-Optimist-LP) |

@@ -31,19 +31,19 @@ Cracked Rear View is the debut studio album by Hootie & the Blowfish, released o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hannah Jane | 3:33 |
-| A2 | Hold My Hand | 4:15 |
-| A3 | Let Her Cry | 5:08 |
-| A4 | Only Wanna Be With You | 3:46 |
-| A5 | Running From An Angel | 3:37 |
-| A6 | I'm Goin' Home | 4:10 |
-| B1 | Drowning | 5:01 |
-| B2 | Time | 4:53 |
-| B3 | Look Away | 2:38 |
-| B4 | Not Even The Trees |  |
-| B5 | Goodbye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hannah Jane |
+| A2 | Hold My Hand |
+| A3 | Let Her Cry |
+| A4 | Only Wanna Be With You |
+| A5 | Running From An Angel |
+| A6 | I'm Goin' Home |
+| B1 | Drowning |
+| B2 | Time |
+| B3 | Look Away |
+| B4 | Not Even The Trees |
+| B5 | Goodbye |
 
 
 ## Apple Music

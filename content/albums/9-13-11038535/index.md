@@ -29,17 +29,17 @@ styles: ["Sludge Metal", "Doom Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crown Of Electrodes |  |
-| A2 | OmegaMangler |  |
-| A3 | 9-13 |  |
-| A4 | Toadcrucifier / R.I.P.PER |  |
-| A5 | Destroyer 	 |  |
-| B1 | Mortarhex 	 |  |
-| B2 | The Rope  |  |
-| B3 | Doomsday Impulse Multiplier |  |
-| B4 | Moreland St. Hammervortex  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Crown Of Electrodes |
+| A2 | OmegaMangler |
+| A3 | 9-13 |
+| A4 | Toadcrucifier / R.I.P.PER |
+| A5 | Destroyer 	 |
+| B1 | Mortarhex 	 |
+| B2 | The Rope  |
+| B3 | Doomsday Impulse Multiplier |
+| B4 | Moreland St. Hammervortex  |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Sludge Metal", "Doom Metal"]
 | Format         | Vinyl LP Album Limited Edition (White Inside Clear With Black Splatter) |
 | Label          | Relapse Records |
 | Catalog Number | RR7379 |
-| Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.<br><br>Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.<br><br>℗&© 2017 Relapse Records, Inc. Made in EU. |
+| Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU. |
 | Discogs URL    | [Iron Monkey - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-3-9-13) |

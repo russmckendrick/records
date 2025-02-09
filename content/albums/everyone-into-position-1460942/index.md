@@ -35,18 +35,18 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Charm Offensive | 7:19 |
-| A2 | Heaven Alive | 6:21 |
-| A3 | A Homage To A Shame | 5:52 |
-| B1 | Meredith | 5:26 |
-| B2 | Music For A Nurse | 8:16 |
-| C1 | New Pin | 5:11 |
-| C2 | No Tomorrow | 7:10 |
-| C3 | Mine Host | 4:10 |
-| D1 | You Can't Keep A Bad Man Down | 7:36 |
-| D2 | Ornament / The Last Wrongs | 9:23 |
+| Position | Title |
+|----------|--------|
+| A1 | The Charm Offensive |
+| A2 | Heaven Alive |
+| A3 | A Homage To A Shame |
+| B1 | Meredith |
+| B2 | Music For A Nurse |
+| C1 | New Pin |
+| C2 | No Tomorrow |
+| C3 | Mine Host |
+| D1 | You Can't Keep A Bad Man Down |
+| D2 | Ornament / The Last Wrongs |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 |
-| Notes | Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport.<br>Mixed at Sarm West Studio, London.<br>Mastered at Abbey Road, London.<br> |
+| Notes | Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport.  Mixed at Sarm West Studio, London.  Mastered at Abbey Road, London.   |
 | Discogs URL    | [Oceansize - Everyone Into Position](https://www.discogs.com/release/1460942-Oceansize-Everyone-Into-Position) |

@@ -39,13 +39,13 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Red | 6:16 |
-| A2 | Fallen Angel | 5:58 |
-| A3 | One More Red Nightmare | 7:07 |
-| B1 | Providence | 8:06 |
-| B2 | Starless | 12:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Red |
+| A2 | Fallen Angel |
+| A3 | One More Red Nightmare |
+| B1 | Providence |
+| B2 | Starless |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Album Reissue Stereo (200-Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP7 |
-| Notes | Includes b/w postcard with MP3 download code, showing the band live on stage 1974.<br><br>All songs published by UMG Music Ltd.<br><br>Produced at Olympic Sound Studios, London, England in July and August 1974.<br><br>Sticker reads: <br>The original stereo mix of the 1974 classic <br>Newly cut from masters approved by Robert Fripp <br>Includes exclusive codes for 320kbps MP3 downloads of an original 1974 vinyl transfer<br>200-gram super-heavyweight vinyl<br><br>℗ & © 2013 Robert Fripp.<br><br>Made in England.<br> |
+| Notes | Includes b/w postcard with MP3 download code, showing the band live on stage 1974.    All songs published by UMG Music Ltd.    Produced at Olympic Sound Studios, London, England in July and August 1974.    Sticker reads:   The original stereo mix of the 1974 classic   Newly cut from masters approved by Robert Fripp   Includes exclusive codes for 320kbps MP3 downloads of an original 1974 vinyl transfer  200-gram super-heavyweight vinyl    ℗ & © 2013 Robert Fripp.    Made in England.   |
 | Discogs URL    | [King Crimson - Red](https://www.discogs.com/release/4703409-King-Crimson-Red) |

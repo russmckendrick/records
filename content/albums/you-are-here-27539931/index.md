@@ -29,18 +29,18 @@ The album earned engineer Clint Murphy the runner up position for Best Engineer 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Last Day |  |
-| A2 | Lava |  |
-| A3 | Trickle Down |  |
-| A4 | Thickshake  |  |
-| A5 | Captain |  |
-| B1 | Top Trumps |  |
-| B2 | There Will Never Be Another Me |  |
-| B3 | Gossip |  |
-| B4 | Changing |  |
-| B5 | Streets Are Paved With Tarmac |  |
+| Position | Title |
+|----------|--------|
+| A1 | Last Day |
+| A2 | Lava |
+| A3 | Trickle Down |
+| A4 | Thickshake  |
+| A5 | Captain |
+| B1 | Top Trumps |
+| B2 | There Will Never Be Another Me |
+| B3 | Gossip |
+| B4 | Changing |
+| B5 | Streets Are Paved With Tarmac |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The album earned engineer Clint Murphy the runner up position for Best Engineer 
 | Format         | Vinyl LP Album Compilation Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1037 |
-| Notes | Previously only available exclusively in Japan, this ten-track album contains all the songs from their “Sun” EP, and the "Lava" and "Last Day" singles.<br><br>Pressed on 140g black vinyl with printed inner sleeves |
+| Notes | Previously only available exclusively in Japan, this ten-track album contains all the songs from their “Sun” EP, and the "Lava" and "Last Day" singles.  Pressed on 140g black vinyl with printed inner sleeves |
 | Discogs URL    | [Silver Sun - You Are Here](https://www.discogs.com/release/27539931-Silver-Sun-You-Are-Here) |

@@ -62,85 +62,85 @@ styles: ["Techno", "Electro", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 1 Autobahn |  |
-| A1 | Autobahn | 14:27 |
-| B1 | Kometenmelodie 1 | 5:29 |
-| B2 | Kometenmelodie 2 | 3:30 |
-| B3 | Mitternacht | 2:15 |
-| B4 | Morgenspaziergang | 1:17 |
-|  | 2 Radioactivity |  |
-| C1 | Geiger Counter | 0:31 |
-| C2 | Radioactivity | 6:14 |
-| C3 | Radioland | 5:55 |
-| C4 | Intermission | 0:25 |
-| C5 | News | 1:17 |
-| D1 | Airwaves | 6:01 |
-| D2 | The Voice Of Energy | 0:51 |
-| D3 | Antenna | 3:37 |
-| D4 | Radio Stars | 2:19 |
-| D5 | Uranium | 1:26 |
-| D6 | Transistor | 1:14 |
-| D7 | Ohm Sweet Ohm | 2:58 |
-|  | 3 Trans Europe Express |  |
-| E1 | Trans Europe Express | 3:21 |
-| E2 | Metal On Metal | 2:08 |
-| E3 | Abzug | 2:24 |
-| E4 | Showroom Dummies | 3:37 |
-| F1 | Franz Schubert | 1:12 |
-| F2 | Europe Endless | 5:52 |
-| F3 | The Hall Of Mirrors | 5:20 |
-|  | 4 The Man-Machine |  |
-| G1 | The Man-Machine | 5:08 |
-| G2 | Spacelab | 5:27 |
-| G3 | Metropolis | 5:45 |
-| H1 | The Model | 3:38 |
-| H2 | Neon Lights | 5:43 |
-| H3 | The Robots | 7:44 |
-|  | 5 Computer World |  |
-| I1 | Numbers | 2:58 |
-| I2 | Computer World | 3:22 |
-| I3 | It's More Fun To Compute | 1:03 |
-| I4 | Home Computer | 5:09 |
-| J1 | Computer Love | 6:33 |
-| J2 | Pocket Calculator | 3:26 |
-| J3 | Dentaku | 3:08 |
-|  | 6 Techno Pop |  |
-| K1 | Boing Boom Tschak | 2:33 |
-| K2 | Techno Pop | 2:46 |
-| K3 | Music Non Stop | 7:45 |
-| L1 | Electric Cafe | 3:50 |
-| L2 | The Telephone Call | 2:45 |
-| L3 | House Phone | 2:30 |
-| L4 | Sex Object | 5:30 |
-|  | 7 The Mix |  |
-| M1 | The Robots | 7:44 |
-| M2 | Computer Love | 6:33 |
-| M3 | Pocket Calculator | 3:26 |
-| M4 | Dentaku | 3:08 |
-| N1 | Autobahn | 14:27 |
-| O1 | Geiger Counter | 0:31 |
-| O2 | Radioactivity | 6:14 |
-| O3 | Trans Europe Express | 3:21 |
-| O4 | Metal On Metal | 2:08 |
-| O5 | Abzug | 2:24 |
-| O6 | Home Computer | 6:12 |
-| P1 | Boing Boom Tschak | 2:33 |
-| P2 | Techno Pop | 2:46 |
-| P3 | Music Non Stop | 7:45 |
-| P4 | Planet Of Visions | 7:52 |
-|  | 8 Tour De France |  |
-| Q1 | Tour De France | 4:18 |
-| Q2 | Prologue | 0:27 |
-| Q3 | Etape 1 | 3:46 |
-| Q4 | Chrono | 1:12 |
-| Q5 | Etape 2 | 4:59 |
-| Q6 | Elektro Kardiogramm | 4:37 |
-| R1 | Aéro Dynamik | 5:59 |
-| R2 | Vitamin | 5:54 |
-| R3 | La Forme | 6:19 |
-| R4 | Regeneration | 0:28 |
+| Position | Title |
+|----------|--------|
+|  | 1 Autobahn |
+| A1 | Autobahn |
+| B1 | Kometenmelodie 1 |
+| B2 | Kometenmelodie 2 |
+| B3 | Mitternacht |
+| B4 | Morgenspaziergang |
+|  | 2 Radioactivity |
+| C1 | Geiger Counter |
+| C2 | Radioactivity |
+| C3 | Radioland |
+| C4 | Intermission |
+| C5 | News |
+| D1 | Airwaves |
+| D2 | The Voice Of Energy |
+| D3 | Antenna |
+| D4 | Radio Stars |
+| D5 | Uranium |
+| D6 | Transistor |
+| D7 | Ohm Sweet Ohm |
+|  | 3 Trans Europe Express |
+| E1 | Trans Europe Express |
+| E2 | Metal On Metal |
+| E3 | Abzug |
+| E4 | Showroom Dummies |
+| F1 | Franz Schubert |
+| F2 | Europe Endless |
+| F3 | The Hall Of Mirrors |
+|  | 4 The Man-Machine |
+| G1 | The Man-Machine |
+| G2 | Spacelab |
+| G3 | Metropolis |
+| H1 | The Model |
+| H2 | Neon Lights |
+| H3 | The Robots |
+|  | 5 Computer World |
+| I1 | Numbers |
+| I2 | Computer World |
+| I3 | It's More Fun To Compute |
+| I4 | Home Computer |
+| J1 | Computer Love |
+| J2 | Pocket Calculator |
+| J3 | Dentaku |
+|  | 6 Techno Pop |
+| K1 | Boing Boom Tschak |
+| K2 | Techno Pop |
+| K3 | Music Non Stop |
+| L1 | Electric Cafe |
+| L2 | The Telephone Call |
+| L3 | House Phone |
+| L4 | Sex Object |
+|  | 7 The Mix |
+| M1 | The Robots |
+| M2 | Computer Love |
+| M3 | Pocket Calculator |
+| M4 | Dentaku |
+| N1 | Autobahn |
+| O1 | Geiger Counter |
+| O2 | Radioactivity |
+| O3 | Trans Europe Express |
+| O4 | Metal On Metal |
+| O5 | Abzug |
+| O6 | Home Computer |
+| P1 | Boing Boom Tschak |
+| P2 | Techno Pop |
+| P3 | Music Non Stop |
+| P4 | Planet Of Visions |
+|  | 8 Tour De France |
+| Q1 | Tour De France |
+| Q2 | Prologue |
+| Q3 | Etape 1 |
+| Q4 | Chrono |
+| Q5 | Etape 2 |
+| Q6 | Elektro Kardiogramm |
+| R1 | Aéro Dynamik |
+| R2 | Vitamin |
+| R3 | La Forme |
+| R4 | Regeneration |
 
 
 ## Apple Music
@@ -157,5 +157,5 @@ styles: ["Techno", "Electro", "Experimental"]
 | Format         | Box Set, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album (Headphone Surround 3D), Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | 0190295923518 |
-| Notes | Sticker on release reads:<br>8 Album Vinyl Box-Set - New Recordings 2012-2016<br>Album 7 / Headphone Surround 3D<br>+ download card |
+| Notes | Sticker on release reads: 8 Album Vinyl Box-Set - New Recordings 2012-2016 Album 7 / Headphone Surround 3D + download card |
 | Discogs URL    | [Kraftwerk - 3-D (The Catalogue)](https://www.discogs.com/release/10349797-Kraftwerk-3-D-The-Catalogue) |

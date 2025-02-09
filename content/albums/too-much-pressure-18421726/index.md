@@ -35,23 +35,23 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Three Minute Hero | 3:00 |
-| A2 | Everyday | 3:10 |
-| A3 | They Make Me Mad | 2:47 |
-| A4 | Missing Words | 3:22 |
-| A5 | Danger | 2:38 |
-| A6 | Street Feeling | 3:11 |
-| A7 | My Collie (Not A Dog) | 2:45 |
-| B1 | Too Much Pressure | 3:48 |
-| B2 | Murder | 2:39 |
-| B3 | Out On The Streets | 3:28 |
-| B4 | Carry Go Bring Come | 3:02 |
-| B5 | Black And Blue | 3:17 |
-| B6 | James Bond | 2:16 |
-| C | On My Radio |  |
-| D | Too Much Pressure |  |
+| Position | Title |
+|----------|--------|
+| A1 | Three Minute Hero |
+| A2 | Everyday |
+| A3 | They Make Me Mad |
+| A4 | Missing Words |
+| A5 | Danger |
+| A6 | Street Feeling |
+| A7 | My Collie (Not A Dog) |
+| B1 | Too Much Pressure |
+| B2 | Murder |
+| B3 | Out On The Streets |
+| B4 | Carry Go Bring Come |
+| B5 | Black And Blue |
+| B6 | James Bond |
+| C | On My Radio |
+| D | Too Much Pressure |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 | Format         | Vinyl LP Album (Clear), Vinyl 7" 45 RPM Single (Clear), All Media Limited Edition Reissue Remastered (40th Anniversary) |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTH5002 |
-| Notes | Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80.<br>40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl<br>2021 Half-Speed Remaster by Alchemy At Air<br><br>"Anniversary" misspelt on OBI strip stating "40th Annivarsary"<br>'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image<br><br>℗ & © 2021 Chrysalis Records Limited. Made in The UK.<br><br>Catalogue number on 'belly-band': CDL TTC 5002<br>Catalogue number on spine: CDL TTH5002 |
+| Notes | Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002 |
 | Discogs URL    | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726-The-Selecter-Too-Much-Pressure) |

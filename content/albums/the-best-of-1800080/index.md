@@ -28,16 +28,16 @@ Judas Priest had been steadily gaining ground as one of the leading practitioner
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dying To Meet You | 6:15 |
-| A2 | Never Satisfied | 4:50 |
-| A3 | Rocka Rolla | 3:05 |
-| A4 | Diamonds And Rust | 3:15 |
-| B1 | Victim Of Changes | 7:45 |
-| B2 | Island Of Domination | 4:26 |
-| B3 | The Ripper | 2:50 |
-| B4 | Deceiver | 2:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Dying To Meet You |
+| A2 | Never Satisfied |
+| A3 | Rocka Rolla |
+| A4 | Diamonds And Rust |
+| B1 | Victim Of Changes |
+| B2 | Island Of Domination |
+| B3 | The Ripper |
+| B4 | Deceiver |
 
 
 ## Apple Music

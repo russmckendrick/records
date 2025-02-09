@@ -32,29 +32,29 @@ Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New York, New York | 3:47 |
-| A2 | Firecracker | 2:48 |
-| A3 | Answering Bell | 3:02 |
-| A4 | La Cienega Just Smiled | 4:59 |
-| A5 | The Rescue Blues | 3:36 |
-| A6 | Somehow, Someday | 4:23 |
-| B1 | When The Stars Go Blue | 3:31 |
-| B2 | Nobody Girl | 9:39 |
-| B3 | Sylvia Plath | 4:08 |
-| B4 | Enemy Fire | 4:04 |
-| B5 | Gonna Make You Love Me | 2:34 |
-| C1 | Wild Flowers | 4:55 |
-| C2 | Harder Now That It's Over | 4:31 |
-| C3 | Touch, Feel & Lose | 4:13 |
-| C4 | Tina Toledo's Street Walkin' Blues | 6:04 |
-| C5 | Goodnight, Hollywood Blvd | 3:23 |
-| D1 | Rosalie Come And Go | 3:53 |
-| D2 | The Fools We Are As Men | 3:56 |
-| D3 | Sweet Black Magic | 2:34 |
-| D4 | The Bar Is A Beautiful Place | 5:50 |
-| D5 | Cannonball Days | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | New York, New York |
+| A2 | Firecracker |
+| A3 | Answering Bell |
+| A4 | La Cienega Just Smiled |
+| A5 | The Rescue Blues |
+| A6 | Somehow, Someday |
+| B1 | When The Stars Go Blue |
+| B2 | Nobody Girl |
+| B3 | Sylvia Plath |
+| B4 | Enemy Fire |
+| B5 | Gonna Make You Love Me |
+| C1 | Wild Flowers |
+| C2 | Harder Now That It's Over |
+| C3 | Touch, Feel & Lose |
+| C4 | Tina Toledo's Street Walkin' Blues |
+| C5 | Goodnight, Hollywood Blvd |
+| D1 | Rosalie Come And Go |
+| D2 | The Fools We Are As Men |
+| D3 | Sweet Black Magic |
+| D4 | The Bar Is A Beautiful Place |
+| D5 | Cannonball Days |
 
 
 ## Apple Music

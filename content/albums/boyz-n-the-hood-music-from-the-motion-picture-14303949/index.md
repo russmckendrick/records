@@ -30,22 +30,22 @@ styles: ["Soundtrack", "Gangsta", "Contemporary R&B"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How To Survive In South Central | 3:40 |
-| A2 | Just Ask Me To | 4:08 |
-| A3 | Mama Don't Take No Mess | 4:05 |
-| A4 | Growin' Up In The Hood | 4:13 |
-| B1 | Just A Friendly Game Of Baseball (Remix) | 4:02 |
-| B2 | Me & You | 4:11 |
-| B3 | Work It Out | 4:15 |
-| C1 | Every Single Weekend | 4:37 |
-| C2 | Too Young | 4:35 |
-| C3 | Hangin' Out | 2:36 |
-| C4 | It's Your Life | 4:47 |
-| D1 | Spirit (Does Anyone Care?) | 4:19 |
-| D2 | Setembro |  |
-| D3 | Black On Black Crime |  |
+| Position | Title |
+|----------|--------|
+| A1 | How To Survive In South Central |
+| A2 | Just Ask Me To |
+| A3 | Mama Don't Take No Mess |
+| A4 | Growin' Up In The Hood |
+| B1 | Just A Friendly Game Of Baseball (Remix) |
+| B2 | Me & You |
+| B3 | Work It Out |
+| C1 | Every Single Weekend |
+| C2 | Too Young |
+| C3 | Hangin' Out |
+| C4 | It's Your Life |
+| D1 | Spirit (Does Anyone Care?) |
+| D2 | Setembro |
+| D3 | Black On Black Crime |
 
 
 ## Apple Music

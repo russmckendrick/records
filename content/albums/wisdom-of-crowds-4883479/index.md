@@ -37,17 +37,17 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pleasure | 6:10 |
-| A2 | Wisdom Of Crowds | 5:02 |
-| A3 | Radio Star | 4:34 |
-| B1 | Frozen North | 6:31 |
-| B2 | The Light | 7:12 |
-| C1 | Stacked Naked | 4:53 |
-| C2 | Pretend | 5:23 |
-| D1 | The Centre Of Gravity | 5:36 |
-| D2 | Flows Through You | 11:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Pleasure |
+| A2 | Wisdom Of Crowds |
+| A3 | Radio Star |
+| B1 | Frozen North |
+| B2 | The Light |
+| C1 | Stacked Naked |
+| C2 | Pretend |
+| D1 | The Centre Of Gravity |
+| D2 | Flows Through You |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 | Format         | Vinyl 2× LP Album Limited Edition ( Red Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE844 |
-| Notes | Mastered at 360 Mastering, London.<br><br>℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.<br><br>Made in Germany.<br><br>Limited edition red vinyl in special mirrored foil gatefold covers. |
+| Notes | Mastered at 360 Mastering, London.    ℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.    Made in Germany.    Limited edition red vinyl in special mirrored foil gatefold covers. |
 | Discogs URL    | [Bruce Soord - Wisdom Of Crowds](https://www.discogs.com/release/4883479-Bruce-Soord-With-Jonas-Renkse-Wisdom-Of-Crowds-Wisdom-Of-Crowds) |

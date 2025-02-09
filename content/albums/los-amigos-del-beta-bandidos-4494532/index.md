@@ -28,12 +28,12 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Push It Out |  |
-| A2 | It's Over |  |
-| B1 | Dr. Baker |  |
-| B2 | Needles In My Eyes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Push It Out |
+| A2 | It's Over |
+| B1 | Dr. Baker |
+| B2 | Needles In My Eyes |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 | Format         | Vinyl 12" EP Record Store Day Limited Edition Reissue |
 | Label          | EMI |
 | Catalog Number | REGS 20 |
-| Notes | Record Store Day 2013 limited edition reissue.<br><br>℗ 1998<br>© 2013<br><br>Made in EU. |
+| Notes | Record Store Day 2013 limited edition reissue.    ℗ 1998  © 2013    Made in EU. |
 | Discogs URL    | [The Beta Band - Los Amigos Del Beta Bandidos](https://www.discogs.com/release/4494532-The-Beta-Band-Los-Amigos-Del-Beta-Bandidos) |

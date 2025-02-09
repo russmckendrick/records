@@ -37,18 +37,18 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Metal Box |  |
-| B1 | Consequences of Love |  |
-| B2 | Transmission |  |
-| C1 | Mind Control |  |
-| C2 | Flak |  |
-| D1 | Sequential Analog Memory |  |
-| D2 | Arise |  |
-| E | You Disco I Freak |  |
-| F1 | Strom |  |
-| F2 | Transwave |  |
+| Position | Title |
+|----------|--------|
+| A | Metal Box |
+| B1 | Consequences of Love |
+| B2 | Transmission |
+| C1 | Mind Control |
+| C2 | Flak |
+| D1 | Sequential Analog Memory |
+| D2 | Arise |
+| E | You Disco I Freak |
+| F1 | Strom |
+| F2 | Transwave |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 | Format         | Vinyl 3× 12" 33 ⅓ RPM Album |
 | Label          | Drone |
 | Catalog Number | DRONE 007LP |
-| Notes | Tri-fold gatefold sleeve.<br><br>Includes digital download code.<br><br> |
+| Notes | Tri-fold gatefold sleeve.  Includes digital download code.   |
 | Discogs URL    | [Death In Vegas - Transmission](https://www.discogs.com/release/8473733-Death-In-Vegas-Transmission) |

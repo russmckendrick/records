@@ -26,19 +26,19 @@ The Second Brightest Star is the eleventh studio album by the English progressiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Second Brightest Star |  |
-| A2 | Haymaking |  |
-| A3 | The Passing Widow |  |
-| B1 | Skylon |  |
-| B2 | London Stone |  |
-| B3 | The Leaden Stour |  |
-| B4 | Terra Australis Incognita |  |
-|  | Grimlore |  |
-|  | Brooklands Sequence |  |
-|  | London Plane Sequence |  |
-| D2 | The Gentlemen's Reprise |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Second Brightest Star |
+| A2 | Haymaking |
+| A3 | The Passing Widow |
+| B1 | Skylon |
+| B2 | London Stone |
+| B3 | The Leaden Stour |
+| B4 | Terra Australis Incognita |
+|  | Grimlore |
+|  | Brooklands Sequence |
+|  | London Plane Sequence |
+| D2 | The Gentlemen's Reprise |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The Second Brightest Star is the eleventh studio album by the English progressiv
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG056 |
-| Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.<br><br>A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.<br> <br>Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |
+| Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |
 | Discogs URL    | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |

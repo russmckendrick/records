@@ -41,12 +41,12 @@ Packaging contains liner notes dedicating the album to prisoners, a diagram illu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Storm | 21:59 |
-|  | Static | 21:07 |
-|  | Sleep | 21:12 |
-|  | Antennas To Heaven... |  |
+| Position | Title |
+|----------|--------|
+|  | Storm |
+|  | Static |
+|  | Sleep |
+|  | Antennas To Heaven... |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Packaging contains liner notes dedicating the album to prisoners, a diagram illu
 | Format         | Vinyl 2× LP Album |
 | Label          | Constellation |
 | Catalog Number | cst012 |
-| Notes | Recorded at Chemical Sound during 9 days in February 2000. (other scraps of tape were magnetized all over the last 4 years at the mighty hôtel2tango.)<br><br>Inner sleeve drawings and inspiration for front cover from 'notes to a friend; silently listening' no. 2.<br><br>Comes in a gatefold sleeve with printed inner sleeves and packaged in a clear plastic sleeve with barcode and "Made in Canada" on sticker.<br><br>Some copies include the Constellation Records catalog sheet from Autumn 2000.<br><br>On inner sleeve:<br>Thank you: hugsum, wherehouse, reitschule, l'x... (minutemen, weather underground, symptomhall...) |
+| Notes | Recorded at Chemical Sound during 9 days in February 2000. (other scraps of tape were magnetized all over the last 4 years at the mighty hôtel2tango.)  Inner sleeve drawings and inspiration for front cover from 'notes to a friend; silently listening' no. 2.  Comes in a gatefold sleeve with printed inner sleeves and packaged in a clear plastic sleeve with barcode and "Made in Canada" on sticker.  Some copies include the Constellation Records catalog sheet from Autumn 2000.  On inner sleeve: Thank you: hugsum, wherehouse, reitschule, l'x... (minutemen, weather underground, symptomhall...) |
 | Discogs URL    | [Godspeed You Black Emperor - Lift Your Skinny Fists Like Antennas To Heaven](https://www.discogs.com/release/74260-Godspeed-You-Black-Emperor-Lift-Your-Skinny-Fists-Like-Antennas-To-Heaven) |

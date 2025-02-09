@@ -27,23 +27,23 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Flesh |  |
-| A2 | Another Brick In The Wall Pt.III |  |
-| A3 | Mother |  |
-| A4 | Another Brick In The Wall Pt.II |  |
-| A5 | Young Lust |  |
-| A6 | One Of My Turns |  |
-| A7 | Another Brick In The Wall Pt.I |  |
-| A8 | Hey You |  |
-| B1 | Comfortably Numb |  |
-| B2 | Is There Anybody Out There  |  |
-| B3 | Nobody Home |  |
-| B4 | Run Like Hell |  |
-| B5 | Waiting For The Worms |  |
-| B6 | The Trial |  |
-| B7 | Outside The Wall |  |
+| Position | Title |
+|----------|--------|
+| A1 | In The Flesh |
+| A2 | Another Brick In The Wall Pt.III |
+| A3 | Mother |
+| A4 | Another Brick In The Wall Pt.II |
+| A5 | Young Lust |
+| A6 | One Of My Turns |
+| A7 | Another Brick In The Wall Pt.I |
+| A8 | Hey You |
+| B1 | Comfortably Numb |
+| B2 | Is There Anybody Out There  |
+| B3 | Nobody Home |
+| B4 | Run Like Hell |
+| B5 | Waiting For The Worms |
+| B6 | The Trial |
+| B7 | Outside The Wall |
 
 
 ## Apple Music

@@ -30,15 +30,15 @@ The album charted in the R&B Top 20. It features a ten-minute title track, large
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Maggot Brain | 10:18 |
-| A2 | Can You Get To That | 2:49 |
-| A3 | Hit It And Quit It | 3:48 |
-| A4 | You And Your Folks, Me And My Folks | 3:35 |
-| B1 | Super Stupid | 3:56 |
-| B2 | Back In Our Minds | 2:37 |
-| B3 | Wars Of Armageddon | 9:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Maggot Brain |
+| A2 | Can You Get To That |
+| A3 | Hit It And Quit It |
+| A4 | You And Your Folks, Me And My Folks |
+| B1 | Super Stupid |
+| B2 | Back In Our Minds |
+| B3 | Wars Of Armageddon |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The album charted in the R&B Top 20. It features a ten-minute title track, large
 | Format         | Vinyl LP Album Reissue |
 | Label          | Westbound Records |
 | Catalog Number | SEW 002 |
-| Notes | Reissue of the original [url=http://www.discogs.com/release/773587]Westbound release[/url] from 1971.<br><br>Also available<br>on CD (CDSEW 002)<br><br>[Rear Cover Notes] Taken from Process Number Five on Fear The Process-Church of the Final Judgement.<br><br>® 1971 Nine Records Inc © 1971 Nine Records Inc<br>Direct Metal Mastered from digital tapes<br>Made in West Germany<br><br>All titles Bridgeport Music Inc.<br>℗ 1971<br>Nine Records Inc.<br><br>Runouts are stamped.  |
+| Notes | Reissue of the original [url=http://www.discogs.com/release/773587]Westbound release[/url] from 1971.  Also available on CD (CDSEW 002)  [Rear Cover Notes] Taken from Process Number Five on Fear The Process-Church of the Final Judgement.  ® 1971 Nine Records Inc © 1971 Nine Records Inc Direct Metal Mastered from digital tapes Made in West Germany  All titles Bridgeport Music Inc. ℗ 1971 Nine Records Inc.  Runouts are stamped.  |
 | Discogs URL    | [Funkadelic - Maggot Brain](https://www.discogs.com/release/602546-Funkadelic-Maggot-Brain) |

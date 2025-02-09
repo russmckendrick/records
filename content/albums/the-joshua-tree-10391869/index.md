@@ -79,60 +79,60 @@ Frequently listed among the greatest albums of all time, The Joshua Tree is one 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Joshua Tree Remastered |  |
-| A1 | Where The Streets Have No Name | 5:37 |
-| A2 | I Still Haven't Found What I'm Looking For | 4:37 |
-| A3 | With Or Without You | 4:55 |
-| B1 | Bullet The Blue Sky | 4:31 |
-| B2 | Running To Stand Still | 4:17 |
-| C1 | Red Hill Mining Town | 4:52 |
-| C2 | In God's Country | 2:56 |
-| C3 | Trip Through Your Wires | 3:31 |
-| D1 | One Tree Hill | 5:22 |
-| D2 | Exit | 4:13 |
-| D3 | Mothers Of The Disappeared | 5:14 |
-|  | U2 Live At Madison Square Garden 28th September 1987 |  |
-| E1 | Where The Streets Have No Name | 6:30 |
-| E2 | I Will Follow | 3:58 |
-| E3 | Trip Through Your Wires | 3:45 |
-| E4 | I Still Haven't Found What I'm Looking For | 5:51 |
-| F1 | MLK | 2:02 |
-| F2 | Bullet The Blue Sky | 5:47 |
-| F3 | Running To Stand Still | 4:45 |
-| F4 | In God’s Country | 2:49 |
-| F5 | Sunday Bloody Sunday | 4:13 |
-| G1 | Exit | 4:39 |
-| G2 | October | 2:05 |
-| G3 | New Year’s Day | 4:44 |
-| G4 | Pride (In The Name Of Love) | 4:53 |
-| H1 | With Or Without You | 5:28 |
-| H2 | Party Girl | 3:23 |
-| H3 | I Still Haven’t Found What I’m Looking For | 5:53 |
-| H4 | “40” | 5:51 |
-|  | The Joshua Tree Remixes, Outtakes & B-Sides |  |
-| I1 | One Tree Hill (St Francis Hotel Remix) | 4:17 |
-| I2 | Bullet The Blue Sky (Jacknife Lee Remix) | 6:03 |
-| I3 | Running To Stand Still (Daniel Lanois Remix) |  |
-| J1 | Red Hill Mining Town (Steve Lillywhite 2017 Mix) | 4:53 |
-| J2 | With Or Without You (Daniel Lanois Remix) | 5:04 |
-| J3 | Where The Streets Have No Name (Flood Remix) | 6:45 |
-| K1 | I Still Haven’t Found What I’m Looking For (Lillywhite Alternative Mix ’87) | 4:15 |
-| K2 | One Tree Hill Reprise (Brian Eno 2017 Mix) | 2:10 |
-| K3 | Silver And Gold (Sun City) | 4:42 |
-| K4 | Beautiful Ghost/Introduction To Songs Of Experience | 3:56 |
-| L1 | Wave Of Sorrow (Birdland) | 4:06 |
-| L2 | Desert Of Our Love | 4:58 |
-| L3 | Rise Up | 4:08 |
-| L4 | Drunk Chicken/America | 1:31 |
-| M1 | Luminous Times (Hold On To Love) | 4:34 |
-| M2 | Walk To The Water | 4:49 |
-| M3 | Spanish Eyes | 3:16 |
-| N1 | Deep In The Heart | 4:31 |
-| N2 | Silver And Gold | 4:37 |
-| N3 | Sweetest Thing | 3:04 |
-| N4 | Race Against Time | 4:03 |
+| Position | Title |
+|----------|--------|
+|  | The Joshua Tree Remastered |
+| A1 | Where The Streets Have No Name |
+| A2 | I Still Haven't Found What I'm Looking For |
+| A3 | With Or Without You |
+| B1 | Bullet The Blue Sky |
+| B2 | Running To Stand Still |
+| C1 | Red Hill Mining Town |
+| C2 | In God's Country |
+| C3 | Trip Through Your Wires |
+| D1 | One Tree Hill |
+| D2 | Exit |
+| D3 | Mothers Of The Disappeared |
+|  | U2 Live At Madison Square Garden 28th September 1987 |
+| E1 | Where The Streets Have No Name |
+| E2 | I Will Follow |
+| E3 | Trip Through Your Wires |
+| E4 | I Still Haven't Found What I'm Looking For |
+| F1 | MLK |
+| F2 | Bullet The Blue Sky |
+| F3 | Running To Stand Still |
+| F4 | In God’s Country |
+| F5 | Sunday Bloody Sunday |
+| G1 | Exit |
+| G2 | October |
+| G3 | New Year’s Day |
+| G4 | Pride (In The Name Of Love) |
+| H1 | With Or Without You |
+| H2 | Party Girl |
+| H3 | I Still Haven’t Found What I’m Looking For |
+| H4 | “40” |
+|  | The Joshua Tree Remixes, Outtakes & B-Sides |
+| I1 | One Tree Hill (St Francis Hotel Remix) |
+| I2 | Bullet The Blue Sky (Jacknife Lee Remix) |
+| I3 | Running To Stand Still (Daniel Lanois Remix) |
+| J1 | Red Hill Mining Town (Steve Lillywhite 2017 Mix) |
+| J2 | With Or Without You (Daniel Lanois Remix) |
+| J3 | Where The Streets Have No Name (Flood Remix) |
+| K1 | I Still Haven’t Found What I’m Looking For (Lillywhite Alternative Mix ’87) |
+| K2 | One Tree Hill Reprise (Brian Eno 2017 Mix) |
+| K3 | Silver And Gold (Sun City) |
+| K4 | Beautiful Ghost/Introduction To Songs Of Experience |
+| L1 | Wave Of Sorrow (Birdland) |
+| L2 | Desert Of Our Love |
+| L3 | Rise Up |
+| L4 | Drunk Chicken/America |
+| M1 | Luminous Times (Hold On To Love) |
+| M2 | Walk To The Water |
+| M3 | Spanish Eyes |
+| N1 | Deep In The Heart |
+| N2 | Silver And Gold |
+| N3 | Sweetest Thing |
+| N4 | Race Against Time |
 
 
 ## Apple Music
@@ -150,5 +150,5 @@ Frequently listed among the greatest albums of all time, The Joshua Tree is one 
 | Format         | Box Set Deluxe Edition (30th Anniversary Edition), Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album, Vinyl 3× LP Compilation |
 | Label          | Island Records |
 | Catalog Number | 00602557482485 |
-| Notes | The Joshua Tree 30th Anniversary Super Deluxe Edition<br><br>Cover features a textured embossed gold foiled Joshua Tree icon. Includes:<br>• 7 pieces of original, live and unreleased recordings on 12" 180gsm vinyl including:<br>• The Joshua Tree double album (Remastered edition of the original album.)<br>• The Joshua Tree Live at Madison Square Garden 28th September 1987 (Features selected tracks from the concert with no overdubs or corrections.) <br>• The Joshua Tree Remixes, Outtakes & B-Sides<br>• The Joshua Tree – Photographs by The Edge. An 84-page hardback book of personal never-before seen photography by The Edge, taken during the original Mojave Desert Joshua Tree shoot, 1986<br>• A folio of 8 rare 12” Anton Corbijn colour prints<br>• 3.5hrs of audio content / 49 tracks (25x unreleased tracks: 17x live, 7x new mixes, 1x archive track)<br>• Audio download code<br><br>LPs 1 & 2: The Joshua Tree<br>LPs 3 & 4: The Joshua Tree Live at Madison Square Garden 28th September 1987 <br>LPs 5, 6 & 7: The Joshua Tree Remixes, Outtakes & B-Sides<br><br>All tracks written by U2 and published by Universal Music Publishing B.V. except Blue Mountain Music Ltd. (UK), Mother Music (IRL). |
+| Notes | The Joshua Tree 30th Anniversary Super Deluxe Edition  Cover features a textured embossed gold foiled Joshua Tree icon. Includes: • 7 pieces of original, live and unreleased recordings on 12" 180gsm vinyl including: • The Joshua Tree double album (Remastered edition of the original album.) • The Joshua Tree Live at Madison Square Garden 28th September 1987 (Features selected tracks from the concert with no overdubs or corrections.)  • The Joshua Tree Remixes, Outtakes & B-Sides • The Joshua Tree – Photographs by The Edge. An 84-page hardback book of personal never-before seen photography by The Edge, taken during the original Mojave Desert Joshua Tree shoot, 1986 • A folio of 8 rare 12” Anton Corbijn colour prints • 3.5hrs of audio content / 49 tracks (25x unreleased tracks: 17x live, 7x new mixes, 1x archive track) • Audio download code  LPs 1 & 2: The Joshua Tree LPs 3 & 4: The Joshua Tree Live at Madison Square Garden 28th September 1987  LPs 5, 6 & 7: The Joshua Tree Remixes, Outtakes & B-Sides  All tracks written by U2 and published by Universal Music Publishing B.V. except Blue Mountain Music Ltd. (UK), Mother Music (IRL). |
 | Discogs URL    | [U2 - The Joshua Tree](https://www.discogs.com/release/10391869-U2-The-Joshua-Tree) |

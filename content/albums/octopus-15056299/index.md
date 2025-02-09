@@ -30,16 +30,16 @@ Octopus is the fourth studio album by British progressive rock band Gentle Giant
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Advent Of Panurge |  |
-| A2 | Raconteur, Troubadour |  |
-| A3 | A Cry For Everyone |  |
-| A4 | Knots |  |
-| B1 | The Boys In The Band |  |
-| B2 | Dog's Life |  |
-| B3 | Think Of Me With Kindness |  |
-| B4 | River |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Advent Of Panurge |
+| A2 | Raconteur, Troubadour |
+| A3 | A Cry For Everyone |
+| A4 | Knots |
+| B1 | The Boys In The Band |
+| B2 | Dog's Life |
+| B3 | Think Of Me With Kindness |
+| B4 | River |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Octopus is the fourth studio album by British progressive rock band Gentle Giant
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV61 |
-| Notes | ℗ & © 2020 Alucard Publishing Limited<br>Made in EU<br><br>180g black vinyl in a gatefold sleeve with the original European artwork including all lyrics.<br>50th anniversary reissue of the original mix.<br>This 2020 edition is remastered from the original mixes. As Ray Shulman has said:<br>"The tapes used were the original quarter inch masters from the Phonogram/Universal archive. They were digitised at 24bit/192khz from a Studer A80 Mkii Tape Machine. Tape machine line up and bias settings are critical in faithfully reproducing the masters, so we thought it best to send digital files, that we knew were correctly transferred, to the cutting room. That way we didn't have to rely on unknown inferior tape machines."<br> <br>To be clear, these 2020 releases do not use any of the later Steven Wilson mixes and Steven did not remaster any of them. |
+| Notes | ℗ & © 2020 Alucard Publishing Limited Made in EU  180g black vinyl in a gatefold sleeve with the original European artwork including all lyrics. 50th anniversary reissue of the original mix. This 2020 edition is remastered from the original mixes. As Ray Shulman has said: "The tapes used were the original quarter inch masters from the Phonogram/Universal archive. They were digitised at 24bit/192khz from a Studer A80 Mkii Tape Machine. Tape machine line up and bias settings are critical in faithfully reproducing the masters, so we thought it best to send digital files, that we knew were correctly transferred, to the cutting room. That way we didn't have to rely on unknown inferior tape machines."   To be clear, these 2020 releases do not use any of the later Steven Wilson mixes and Steven did not remaster any of them. |
 | Discogs URL    | [Gentle Giant - Octopus](https://www.discogs.com/release/15056299-Gentle-Giant-Octopus) |

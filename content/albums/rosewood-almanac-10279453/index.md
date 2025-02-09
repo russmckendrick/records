@@ -27,18 +27,18 @@ Rosewood Almanac is the sixth studio album by American singer-songwriter Will St
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Light Blue | 4:06 |
-| A2 | Thick Skin | 3:06 |
-| A3 | Manzanita | 3:46 |
-| A4 | Vanishing Class | 4:10 |
-| A5 | Whatever's Divine | 2:48 |
-| B1 | I See You | 4:14 |
-| B2 | Some Ride | 3:00 |
-| B3 | Skating On The Glass | 2:07 |
-| B4 | This Is What We Do | 3:23 |
-| B5 | Ribbons | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Light Blue |
+| A2 | Thick Skin |
+| A3 | Manzanita |
+| A4 | Vanishing Class |
+| A5 | Whatever's Divine |
+| B1 | I See You |
+| B2 | Some Ride |
+| B3 | Skating On The Glass |
+| B4 | This Is What We Do |
+| B5 | Ribbons |
 
 
 ## Apple Music

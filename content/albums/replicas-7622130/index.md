@@ -34,18 +34,18 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Me! I Disconnect From You | 3:22 |
-| A2 | Are 'Friends' Electric? | 5:24 |
-| A3 | The Machman | 3:07 |
-| A4 | Praying To The Aliens | 3:59 |
-| A5 | Down In The Park | 4:26 |
-| B1 | You Are In My Vision | 3:14 |
-| B2 | Replicas | 5:00 |
-| B3 | It Must Have Been Years | 4:01 |
-| B4 | When The Machines Rock | 3:14 |
-| B5 | I Nearly Married A Human | 6:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Me! I Disconnect From You |
+| A2 | Are 'Friends' Electric? |
+| A3 | The Machman |
+| A4 | Praying To The Aliens |
+| A5 | Down In The Park |
+| B1 | You Are In My Vision |
+| B2 | Replicas |
+| B3 | It Must Have Been Years |
+| B4 | When The Machines Rock |
+| B5 | I Nearly Married A Human |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 7 |
-| Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.<br><br>℗ 1979 Beggars Banquet<br>© 2015 Beggars Banquet<br><br>Mixed at Marcus Music AB, London<br><br>Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike<br>Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.<br><br> The lacquer cut identifier appears as /L (AL for Alex Nimmermann) in runouts |
+| Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.   The lacquer cut identifier appears as /L (AL for Alex Nimmermann) in runouts |
 | Discogs URL    | [Tubeway Army - Replicas](https://www.discogs.com/release/7622130-Tubeway-Army-Replicas) |

@@ -37,21 +37,21 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Other Side |  |
-| A1 | I Wanna Be Adored |  |
-| A2 | She Bangs The Drums |  |
-| A3 | Waterfall |  |
-| A4 | Don't Stop |  |
-| A5 | Bye Bye Badman |  |
-|  | This Side |  |
-| B1 | Elizabeth My Dear |  |
-| B2 | (Song For My) Sugar Spun Sister |  |
-| B3 | Made Of Stone |  |
-| B4 | Shoot You Down |  |
-| B5 | This Is The One |  |
-| B6 | I Am The Resurrection |  |
+| Position | Title |
+|----------|--------|
+|  | Other Side |
+| A1 | I Wanna Be Adored |
+| A2 | She Bangs The Drums |
+| A3 | Waterfall |
+| A4 | Don't Stop |
+| A5 | Bye Bye Badman |
+|  | This Side |
+| B1 | Elizabeth My Dear |
+| B2 | (Song For My) Sugar Spun Sister |
+| B3 | Made Of Stone |
+| B4 | Shoot You Down |
+| B5 | This Is The One |
+| B6 | I Am The Resurrection |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow) |
 | Label          | Silvertone Records |
 | Catalog Number | 19439894221 |
-| Notes | HMV exclusive with obi strip. Limited to 2000 copies.<br><br>℗ 2009 Silvertone Records Limited<br>© 2014 Silvertone Records Limited<br><br>A4 is credited as as Another Schroeder/Garage Flower Production |
+| Notes | HMV exclusive with obi strip. Limited to 2000 copies.  ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited  A4 is credited as as Another Schroeder/Garage Flower Production |
 | Discogs URL    | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/19606036-The-Stone-Roses-The-Stone-Roses) |

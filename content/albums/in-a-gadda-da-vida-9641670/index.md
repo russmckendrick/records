@@ -35,14 +35,14 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Most Anything You Want | 3:41 |
-| A2 | Flowers And Beads | 3:05 |
-| A3 | My Mirage | 4:51 |
-| A4 | Termination | 2:50 |
-| A5 | Are You Happy | 4:28 |
-| B1 | In-A-Gadda-Da-Vida | 17:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Most Anything You Want |
+| A2 | Flowers And Beads |
+| A3 | My Mirage |
+| A4 | Termination |
+| A5 | Are You Happy |
+| B1 | In-A-Gadda-Da-Vida |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Smoked Clear with Green & Pink Splatter) |
 | Label          | ATCO Records |
 | Catalog Number | 081227941918 |
-| Notes | Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"<br><br>Ref. on the spine :  081227941918<br><br>Made in E.U. : on rear cover<br><br>(P) & (C) 2017, 1968 Atlantic Recording Corporation |
+| Notes | Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation |
 | Discogs URL    | [Iron Butterfly - In-A-Gadda-Da-Vida](https://www.discogs.com/release/9641670-Iron-Butterfly-In-A-Gadda-Da-Vida) |

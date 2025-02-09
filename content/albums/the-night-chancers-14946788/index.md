@@ -34,18 +34,18 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Not Your Dog |  |
-| A2 | Slumlord |  |
-| A3 | Saliva Hog |  |
-| A4 | Samurai |  |
-| A5 | Sleep People |  |
-| B1 | Carla's Got A Boyfriend |  |
-| B2 | The Night Chancers |  |
-| B3 | Hello, I'm Sorry |  |
-| B4 | Daylight |  |
-| B5 | Say Nothing |  |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Not Your Dog |
+| A2 | Slumlord |
+| A3 | Saliva Hog |
+| A4 | Samurai |
+| A5 | Sleep People |
+| B1 | Carla's Got A Boyfriend |
+| B2 | The Night Chancers |
+| B3 | Hello, I'm Sorry |
+| B4 | Daylight |
+| B5 | Say Nothing |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear, Heavyweight) |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASLL141LPC |
-| Notes | Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.<br><br>℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.<br><br>Recorded at Hoxa<br>Strings recorded at The Church. |
+| Notes | Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.  ℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.  Recorded at Hoxa Strings recorded at The Church. |
 | Discogs URL    | [Baxter Dury - The Night Chancers](https://www.discogs.com/release/14946788-Baxter-Dury-The-Night-Chancers) |

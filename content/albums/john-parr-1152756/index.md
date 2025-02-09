@@ -33,18 +33,18 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magical |  |
-| A2 | Naughty Naughty |  |
-| A3 | Love Grammar |  |
-| A4 | Treat Me Like An Animal |  |
-| A5 | She's Gonna Love You To Death |  |
-| B1 | St. Elmo's Fire (Man In Motion) |  |
-| B2 | Revenge |  |
-| B3 | Heartbreaker |  |
-| B4 | Somebody Stole My Thunder |  |
-| B5 | Don't Leave Your Mark On Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Magical |
+| A2 | Naughty Naughty |
+| A3 | Love Grammar |
+| A4 | Treat Me Like An Animal |
+| A5 | She's Gonna Love You To Death |
+| B1 | St. Elmo's Fire (Man In Motion) |
+| B2 | Revenge |
+| B3 | Heartbreaker |
+| B4 | Somebody Stole My Thunder |
+| B5 | Don't Leave Your Mark On Me |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | LONLP 12 |
-| Notes | (p) 1984 Phonogram International B.V., Baarn/The Netherlands.<br>(c) 1984 Atlantic Recording Corporation U.S.A.<br>B1 (p) 1985 Columbia Pictues Industries Inc.<br><br>Similar release exists with a different barcode - see [r8535738].<br> |
+| Notes | (p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738].  |
 | Discogs URL    | [John Parr - John Parr](https://www.discogs.com/release/1152756-John-Parr-John-Parr) |

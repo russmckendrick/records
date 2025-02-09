@@ -41,21 +41,21 @@ A remastered and expanded edition of the album was released on November 5, 2021,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shut Your Mouth |  |
-| A2 | Androgyny |  |
-| A3 | Can't Cry These Tears |  |
-| A4 | Til The Day I Die |  |
-| B5 | Cup Of Coffee |  |
-| B6 | Silence Is Golden |  |
-| B7 | Cherry Lips (Go Baby Go!) |  |
-| C8 | Breaking Up The Girl |  |
-| C9 | Drive You Home |  |
-| C10 | Parade |  |
-| D11 | Nobody Loves You |  |
-| D12 | Untouchable |  |
-| D13 | So Like A Rose |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shut Your Mouth |
+| A2 | Androgyny |
+| A3 | Can't Cry These Tears |
+| A4 | Til The Day I Die |
+| B5 | Cup Of Coffee |
+| B6 | Silence Is Golden |
+| B7 | Cherry Lips (Go Baby Go!) |
+| C8 | Breaking Up The Girl |
+| C9 | Drive You Home |
+| C10 | Parade |
+| D11 | Nobody Loves You |
+| D12 | Untouchable |
+| D13 | So Like A Rose |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ A remastered and expanded edition of the album was released on November 5, 2021,
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 140g) |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT528DCLP |
-| Notes | Made in Poland<br><br>20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."<br><br>Tracks are numbered sequentially on release.<br><br>℗ & © 2021 |
+| Notes | Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021 |
 | Discogs URL    | [Garbage - Beautiful Garbage](https://www.discogs.com/release/20856595-Garbage-Beautiful-Garbage) |

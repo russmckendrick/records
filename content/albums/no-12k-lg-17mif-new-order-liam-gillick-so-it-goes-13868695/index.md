@@ -39,28 +39,28 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Times Change |  |
-| A2 | Who's Joe |  |
-| A3 | Dream Attack |  |
-| B1 | Disorder |  |
-| B2 | Ultraviolence |  |
-| B3 | In A Lonely Place |  |
-| B4 | All Day Long |  |
-| C1 | Shellshock |  |
-| C2 | Guilt Is A Useless Emotion |  |
-| C3 | Sub-Culture |  |
-| D1 | Bizarre Love Triangle |  |
-| D2 | Vanishing Point |  |
-| D3 | Plastic |  |
-|  | Encore |  |
-| E1 | Your Silent Face |  |
-| E2 | Decades |  |
-|  | Bonus Tracks |  |
-| F1 | Elegia |  |
-| F2 | Heart And Soul |  |
-| F3 | Behind Closed Doors |  |
+| Position | Title |
+|----------|--------|
+| A1 | Times Change |
+| A2 | Who's Joe |
+| A3 | Dream Attack |
+| B1 | Disorder |
+| B2 | Ultraviolence |
+| B3 | In A Lonely Place |
+| B4 | All Day Long |
+| C1 | Shellshock |
+| C2 | Guilt Is A Useless Emotion |
+| C3 | Sub-Culture |
+| D1 | Bizarre Love Triangle |
+| D2 | Vanishing Point |
+| D3 | Plastic |
+|  | Encore |
+| E1 | Your Silent Face |
+| E2 | Decades |
+|  | Bonus Tracks |
+| F1 | Elegia |
+| F2 | Heart And Soul |
+| F3 | Behind Closed Doors |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 | Format         | Vinyl LP (Green), Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition |
 | Label          | Mute |
 | Catalog Number | STUMM450 |
-| Notes | Limited Edition Triple Coloured Vinyl<br>LP1 – Transparent Red / LP2 Transparent Light Green / LP3 Transparent Blue<br>24 Page Deluxe Booklet . Packed in a hardback slip case with spot gloss varnish<br>Containing exclusive imagery and text relating to the legendary event plus high definition digital download of all 18 tracks. |
+| Notes | Limited Edition Triple Coloured Vinyl LP1 – Transparent Red / LP2 Transparent Light Green / LP3 Transparent Blue 24 Page Deluxe Booklet . Packed in a hardback slip case with spot gloss varnish Containing exclusive imagery and text relating to the legendary event plus high definition digital download of all 18 tracks. |
 | Discogs URL    | [New Order - ∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes..](https://www.discogs.com/release/13868695-New-Order-Liam-Gillick-No12kLg17Mif-New-Order-Liam-Gillick-So-It-Goes) |

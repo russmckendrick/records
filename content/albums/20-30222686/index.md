@@ -24,17 +24,17 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cabin Fever |  |
-| A2 | Rumblefish |  |
-| A3 | San Quentin Blues |  |
-| A4 | Down So Low |  |
-| B1 | Closer |  |
-| B2 | Love |  |
-| B3 | Down For The Count |  |
-| B4 | Precious Time |  |
-| B5 | Untitled 9 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cabin Fever |
+| A2 | Rumblefish |
+| A3 | San Quentin Blues |
+| A4 | Down So Low |
+| B1 | Closer |
+| B2 | Love |
+| B3 | Down For The Count |
+| B4 | Precious Time |
+| B5 | Untitled 9 |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Downtempo", "Indie Rock"]
 | Format         | Vinyl LP Limited Edition (Red, Reworked) |
 | Label          | The Point Of Departure Recording Company |
 | Catalog Number | PODR010LP |
-| Notes | Tough Guys Don't Dance, 20th Anniversary, Reworked, Remixed, Remastered<br>Limited Edition Red Vinyl |
+| Notes | Tough Guys Don't Dance, 20th Anniversary, Reworked, Remixed, Remastered Limited Edition Red Vinyl |
 | Discogs URL    | [The Soulsavers - 20](https://www.discogs.com/release/30222686-The-Soulsavers-20) |

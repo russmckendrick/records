@@ -30,14 +30,14 @@ styles: ["Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A: Paradise | 11:33 |
-| A2 | B: Purgatory | 9:17 |
-|  | Seti - A Three Piece Suite |  |
-| B1 | Seti Pt 1 | 7:20 |
-| B2 | Seti Pt 2 | 9:08 |
-| B3 | Seti Pt 3 | 5:41 |
+| Position | Title |
+|----------|--------|
+| A1 | A: Paradise |
+| A2 | B: Purgatory |
+|  | Seti - A Three Piece Suite |
+| B1 | Seti Pt 1 |
+| B2 | Seti Pt 2 |
+| B3 | Seti Pt 3 |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Ambient"]
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Orbscure |
 | Catalog Number | ORBSLP005 |
-| Notes | p&c2023, (C) 2023 Orbscure under exclusive license to Cooking Vinyl Limited<br><br>Made in Poland |
+| Notes | p&c2023, (C) 2023 Orbscure under exclusive license to Cooking Vinyl Limited  Made in Poland |
 | Discogs URL    | [Sedibus - Seti](https://www.discogs.com/release/29917387-Sedibus-Seti) |

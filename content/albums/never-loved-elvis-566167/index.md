@@ -37,21 +37,21 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mission Drive | 4:08 |
-| A2 | Play | 2:47 |
-| A3 | False Start | 0:47 |
-| A4 | Welcome To The Cheap Seats | 2:54 |
-| A5 | The Size Of A Cow | 3:12 |
-| A6 | Sleep Alone | 3:52 |
-| A7 | Donation | 3:51 |
-| B1 | Inertia | 3:57 |
-| B2 | Maybe | 4:12 |
-| B3 | Grotesque | 1:59 |
-| B4 | Here Comes Everyone | 3:53 |
-| B5 | Caught In My Shadow | 3:48 |
-| B6 | 38 Line Poem | 5:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Mission Drive |
+| A2 | Play |
+| A3 | False Start |
+| A4 | Welcome To The Cheap Seats |
+| A5 | The Size Of A Cow |
+| A6 | Sleep Alone |
+| A7 | Donation |
+| B1 | Inertia |
+| B2 | Maybe |
+| B3 | Grotesque |
+| B4 | Here Comes Everyone |
+| B5 | Caught In My Shadow |
+| B6 | 38 Line Poem |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 | Format         | Vinyl LP Album |
 | Label          | The Far Out Recording Company |
 | Catalog Number | 847252-1 |
-| Notes | Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	<br>Comes with printed inner sleeve.<br>Release date taken from 'Polydor News' press release. |
+| Notes | Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release. |
 | Discogs URL    | [The Wonder Stuff - Never Loved Elvis](https://www.discogs.com/release/566167-The-Wonder-Stuff-Never-Loved-Elvis) |

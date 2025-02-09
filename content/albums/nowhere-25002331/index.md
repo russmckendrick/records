@@ -35,16 +35,16 @@ Nowhere is the debut album by British shoegaze band Ride, released 15 October 19
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seagull |  |
-| A2 | Kaleidoscope |  |
-| A3 | In A Different Place |  |
-| A4 | Polar Bear |  |
-| B1 | Dreams Burn Down |  |
-| B2 | Decay |  |
-| B3 | Paralysed |  |
-| B4 | Vapour Trail |  |
+| Position | Title |
+|----------|--------|
+| A1 | Seagull |
+| A2 | Kaleidoscope |
+| A3 | In A Different Place |
+| A4 | Polar Bear |
+| B1 | Dreams Burn Down |
+| B2 | Decay |
+| B3 | Paralysed |
+| B4 | Vapour Trail |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Nowhere is the debut album by British shoegaze band Ride, released 15 October 19
 | Format         | Vinyl LP Album Limited Edition Reissue (Blue [Transparent Curacao]) |
 | Label          | Wichita |
 | Catalog Number | webb572lp |
-| Notes | — Description of contents:<br>Record comes with a gatefold jacket on reverse board: On the front cover band name as well as title are embossed. Left and right inner panel feature black and white photographs of the band members. The hype sticker is attached directly to the gatefold jacket. The record in standard weight comes in a black poly-lined inner sleeve. The inner sleeve features a sticker including a link and a code to retrieve digital files to the music. Also includes a double sided 12" x 12" insert featuring a variety of names on one side and various selections of lyrics of the album on the other side.<br><br>— Hype sticker reads:<br>"RIDE Nowhere<br>The Band's classic debut album<br>Limited Edition coloured vinyl pressing<br>[tracklist] + [cat#] + [barcode]<br>Recorded at [...], London by Mark Waterman<br>Mixed at [...], London<br>℗ 1990 Wichita Recordings Ltd., under exclusive license from Ride.<br>© 2022 Wichita Recordings Ltd., under exclusive license from Ride.<br>Release under exclusive license to [PIAS]."<br><br>— Additional information:<br>• Catalog no. designated as "webblp572" on spine of record as well as record center labels and insert, meahwile designated as "WEBB572LP" upon hype sticker.<br>• 'Original audio reworked and refined' |
+| Notes | — Description of contents: Record comes with a gatefold jacket on reverse board: On the front cover band name as well as title are embossed. Left and right inner panel feature black and white photographs of the band members. The hype sticker is attached directly to the gatefold jacket. The record in standard weight comes in a black poly-lined inner sleeve. The inner sleeve features a sticker including a link and a code to retrieve digital files to the music. Also includes a double sided 12" x 12" insert featuring a variety of names on one side and various selections of lyrics of the album on the other side.  — Hype sticker reads: "RIDE Nowhere The Band's classic debut album Limited Edition coloured vinyl pressing [tracklist] + [cat#] + [barcode] Recorded at [...], London by Mark Waterman Mixed at [...], London ℗ 1990 Wichita Recordings Ltd., under exclusive license from Ride. © 2022 Wichita Recordings Ltd., under exclusive license from Ride. Release under exclusive license to [PIAS]."  — Additional information: • Catalog no. designated as "webblp572" on spine of record as well as record center labels and insert, meahwile designated as "WEBB572LP" upon hype sticker. • 'Original audio reworked and refined' |
 | Discogs URL    | [Ride - Nowhere](https://www.discogs.com/release/25002331-Ride-Nowhere) |

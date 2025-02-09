@@ -27,18 +27,18 @@ styles: ["Country", "Rock & Roll"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wanted Man |  |
-| A2 | Wreck Of The Old 97 |  |
-| A3 | I Walk The Line |  |
-| A4 | Darling Companion |  |
-| A5 | Starkville City Jail |  |
-| B1 | San Quentin |  |
-| B2 | San Quentin |  |
-| B3 | A Boy Named Sue |  |
-| B4 | (There'll Be) Peace In The Valley |  |
-| B5 | Folsom Prison Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wanted Man |
+| A2 | Wreck Of The Old 97 |
+| A3 | I Walk The Line |
+| A4 | Darling Companion |
+| A5 | Starkville City Jail |
+| B1 | San Quentin |
+| B2 | San Quentin |
+| B3 | A Boy Named Sue |
+| B4 | (There'll Be) Peace In The Valley |
+| B5 | Folsom Prison Blues |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Country", "Rock & Roll"]
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875111981 |
-| Notes | Sticker on cover can vary with 2 versions:<br>We are vinyl sticker<br>or Legacy sticker.<br><br>The labels state that the record is mono. The audio is actually stereo.<br><br>Contains download card. |
+| Notes | Sticker on cover can vary with 2 versions: We are vinyl sticker or Legacy sticker.  The labels state that the record is mono. The audio is actually stereo.  Contains download card. |
 | Discogs URL    | [Johnny Cash - Johnny Cash At San Quentin](https://www.discogs.com/release/7478564-Johnny-Cash-Johnny-Cash-At-San-Quentin) |

@@ -33,36 +33,36 @@ replicr, 2019 is the sixth studio album by 65daysofstatic, which was released on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | pretext | 2:15 |
-| A2 | stillstellung | 3:37 |
-| A3 | d|| tl | | | | 1:43 |
-| A4 | bad age | 4:48 |
-| A5 | 05|| | 1| | 0:48 |
-| A6 | sister | 4:23 |
-| A7 | gr[]v-_s | 1:21 |
-| A8 | popular beats | 3:01 |
-| B1 | five waves | 4:00 |
-| B2 | interference_1 | 5:22 |
-| B3 | []lid | 1:00 |
-| B4 | z03 | 4:08 |
-| B5 | u| || | th | r| d | 2:01 |
-| B6 | trackerplatz | 3:41 |
-| CD-1 | pretext | 2:15 |
-| CD-2 | stillstellung | 3:37 |
-| CD-3 | d|| tl | | | | 1:43 |
-| CD-4 | bad age | 4:48 |
-| CD-5 | 05|| | 1| | 0:48 |
-| CD-6 | sister | 4:23 |
-| CD-7 | gr[]v-_s | 1:21 |
-| CD-8 | popular beats | 3:01 |
-| CD-9 | five waves | 4:00 |
-| CD-10 | interference_1 | 5:22 |
-| CD-11 | []lid | 1:00 |
-| CD-12 | z03 | 4:08 |
-| CD-13 | u| || | th | r| d | 2:01 |
-| CD-14 | trackerplatz | 3:41 |
+| Position | Title |
+|----------|--------|
+| A1 | pretext |
+| A2 | stillstellung |
+| A3 | d|| tl | | | |
+| A4 | bad age |
+| A5 | 05|| | 1| |
+| A6 | sister |
+| A7 | gr[]v-_s |
+| A8 | popular beats |
+| B1 | five waves |
+| B2 | interference_1 |
+| B3 | []lid |
+| B4 | z03 |
+| B5 | u| || | th | r| d |
+| B6 | trackerplatz |
+| CD-1 | pretext |
+| CD-2 | stillstellung |
+| CD-3 | d|| tl | | | |
+| CD-4 | bad age |
+| CD-5 | 05|| | 1| |
+| CD-6 | sister |
+| CD-7 | gr[]v-_s |
+| CD-8 | popular beats |
+| CD-9 | five waves |
+| CD-10 | interference_1 |
+| CD-11 | []lid |
+| CD-12 | z03 |
+| CD-13 | u| || | th | r| d |
+| CD-14 | trackerplatz |
 
 
 ## Apple Music

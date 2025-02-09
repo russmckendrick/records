@@ -32,14 +32,14 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ice Cream Castles | 7:33 |
-| A2 | My Drawers | 4:04 |
-| A3 | Chilli Sauce | 3:43 |
-| B1 | Jungle Love | 3:29 |
-| B2 | If The Kid Can't Make You Come | 7:33 |
-| B3 | The Bird | 7:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Ice Cream Castles |
+| A2 | My Drawers |
+| A3 | Chilli Sauce |
+| B1 | Jungle Love |
+| B2 | If The Kid Can't Make You Come |
+| B3 | The Bird |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 | Format         | Vinyl LP Album Limited Edition Reissue (Tri-coloured Vinyl) |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1-25109 |
-| Notes | Originally mastered by Bernie Grundman Mastering<br><br>European issue presented on Neopolitan Vinyl, Pink/White/Brown. |
+| Notes | Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown. |
 | Discogs URL    | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |

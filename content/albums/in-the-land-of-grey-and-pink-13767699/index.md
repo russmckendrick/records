@@ -29,13 +29,13 @@ The album was critically well received but was not a chart success, which led to
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Golf Girl |  |
-| A2 | Winter Wine |  |
-| A3 | Love To Love You (And Tonight Pigs Will Fly) |  |
-| A4 | In The Land Of Grey And Pink |  |
-|  | Nine Feet Underground |  |
+| Position | Title |
+|----------|--------|
+| A1 | Golf Girl |
+| A2 | Winter Wine |
+| A3 | Love To Love You (And Tonight Pigs Will Fly) |
+| A4 | In The Land Of Grey And Pink |
+|  | Nine Feet Underground |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ The album was critically well received but was not a chart success, which led to
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold, Transparent) |
 | Label          | Deram |
 | Catalog Number | 7763089 |
-| Notes | HMV limited edition of 750 copies on transparent vinyl.<br><br>English liner notes uncredited. |
+| Notes | HMV limited edition of 750 copies on transparent vinyl.  English liner notes uncredited. |
 | Discogs URL    | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/13767699-Caravan-In-The-Land-Of-Grey-And-Pink) |

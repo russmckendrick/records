@@ -29,20 +29,20 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 7 O'Clock | 3:46 |
-| A2 | Man On The Loose | 4:29 |
-| A3 | Whippin' Boy | 5:00 |
-| B1 | Sex Party | 2:58 |
-| B2 | Sweet Mary Ann | 3:37 |
-| B3 | I Don't Love You Anymore | 5:40 |
-| C1 | Hey You | 3:22 |
-| C2 | Misled | 3:40 |
-| C3 | Long Time Comin' | 3:32 |
-| D1 | Roses & Rings | 4:16 |
-| D2 | There She Goes Again | 3:27 |
-| D3 | Take Me Home | 4:44 |
+| Position | Title |
+|----------|--------|
+| A1 | 7 O'Clock |
+| A2 | Man On The Loose |
+| A3 | Whippin' Boy |
+| B1 | Sex Party |
+| B2 | Sweet Mary Ann |
+| B3 | I Don't Love You Anymore |
+| C1 | Hey You |
+| C2 | Misled |
+| C3 | Long Time Comin' |
+| D1 | Roses & Rings |
+| D2 | There She Goes Again |
+| D3 | Take Me Home |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 | Format         | Vinyl 2× LP 10" Limited Edition (Blue Vinyl) |
 | Label          | Off Yer Rocka Recordings |
 | Catalog Number | OYR068 |
-| Notes | Fully re-recorded version of their first album released for the 30th anniversary.<br>Blue vinyl limited to 750 copies |
+| Notes | Fully re-recorded version of their first album released for the 30th anniversary. Blue vinyl limited to 750 copies |
 | Discogs URL    | [The Quireboys - A Bit Of What You Fancy 30th Anniversary Edition](https://www.discogs.com/release/23407643-The-Quireboys-A-Bit-Of-What-You-Fancy-30th-Anniversary-Edition) |

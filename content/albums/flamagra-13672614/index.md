@@ -58,35 +58,35 @@ In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the e
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heroes |  |
-| A2 | Post Requisite |  |
-| A3 | Heroes In A Half Shell |  |
-| A4 | More |  |
-| A5 | Capillaries |  |
-| A6 | Burning Down The House |  |
-| A7 | Spontaneous |  |
-| B1 | Takashi |  |
-| B2 | Pilgrim Side Eye |  |
-| B3 | All Spies |  |
-| B4 | Yellow Belly |  |
-| B5 | Black Balloons Reprise |  |
-| C1 | Fire Is Coming |  |
-| C2 | Inside Your Home |  |
-| C3 | Actually Virtual |  |
-| C4 | Andromeda |  |
-| C5 | Remind U |  |
-| C6 | Say Something |  |
-| C7 | Debbie Is Depressed |  |
-| C8 | Find Your Own Way Home |  |
-| D1 | The Climb |  |
-| D2 | Pygmy |  |
-| D3 | 9 Carrots |  |
-| D4 | FF4 |  |
-| D5 | Land Of Honey |  |
-| D6 | Thank U Malcolm |  |
-| D7 | Hot Oct. |  |
+| Position | Title |
+|----------|--------|
+| A1 | Heroes |
+| A2 | Post Requisite |
+| A3 | Heroes In A Half Shell |
+| A4 | More |
+| A5 | Capillaries |
+| A6 | Burning Down The House |
+| A7 | Spontaneous |
+| B1 | Takashi |
+| B2 | Pilgrim Side Eye |
+| B3 | All Spies |
+| B4 | Yellow Belly |
+| B5 | Black Balloons Reprise |
+| C1 | Fire Is Coming |
+| C2 | Inside Your Home |
+| C3 | Actually Virtual |
+| C4 | Andromeda |
+| C5 | Remind U |
+| C6 | Say Something |
+| C7 | Debbie Is Depressed |
+| C8 | Find Your Own Way Home |
+| D1 | The Climb |
+| D2 | Pygmy |
+| D3 | 9 Carrots |
+| D4 | FF4 |
+| D5 | Land Of Honey |
+| D6 | Thank U Malcolm |
+| D7 | Hot Oct. |
 
 
 ## Apple Music
@@ -104,5 +104,5 @@ In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the e
 | Format         | Vinyl 2× LP Album Limited Edition (Red) |
 | Label          | Warp Records |
 | Catalog Number | WARPLP291 |
-| Notes | Rough Trade Shops exclusive edition pressed on red vinyl and issued in a gatefold sleeve with printed die-cut inner sleeves. All sleeves bear a glossy finish. Accompanied by an MP3 download card redeemable through the Bleep website. Limited to 1,000 copies.<br><br>"Black Balloons Reprise" contains a sample of "Ten Et Tiwa" by Alain Goraguer - © and ℗ Sugarmusic France S.a.r.l., courtesy of Creazioni Artistiche Musicali C.A.M. S.r.l.<br><br>Artwork collage contains elements of: Göran Nilsson, Hole Observatory - "Iris Nebula"; Harel Boren - "Chaotic Carina Nebula"; Chuck Ayoub - "Orion Nebula"; Rawastrodata - "The Horsehead Nebula"; Ken Crawford - "Cygnus Wall"; Dylan O'Donnell - "Carina The Keyhole Nebula"; NASA, ESA, and The Hubble Heritage Team - "NGC 3324 Hubble"; N. Smith (University of California, Berkeley) and NOAO/AURA/NSF - "Carina Nebula Detail" |
+| Notes | Rough Trade Shops exclusive edition pressed on red vinyl and issued in a gatefold sleeve with printed die-cut inner sleeves. All sleeves bear a glossy finish. Accompanied by an MP3 download card redeemable through the Bleep website. Limited to 1,000 copies.  "Black Balloons Reprise" contains a sample of "Ten Et Tiwa" by Alain Goraguer - © and ℗ Sugarmusic France S.a.r.l., courtesy of Creazioni Artistiche Musicali C.A.M. S.r.l.  Artwork collage contains elements of: Göran Nilsson, Hole Observatory - "Iris Nebula"; Harel Boren - "Chaotic Carina Nebula"; Chuck Ayoub - "Orion Nebula"; Rawastrodata - "The Horsehead Nebula"; Ken Crawford - "Cygnus Wall"; Dylan O'Donnell - "Carina The Keyhole Nebula"; NASA, ESA, and The Hubble Heritage Team - "NGC 3324 Hubble"; N. Smith (University of California, Berkeley) and NOAO/AURA/NSF - "Carina Nebula Detail" |
 | Discogs URL    | [Flying Lotus - Flamagra](https://www.discogs.com/release/13672614-Flying-Lotus-Flamagra) |

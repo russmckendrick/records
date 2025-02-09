@@ -34,19 +34,19 @@ In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords labe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Regular John |  |
-| A2 | Avon |  |
-| A3 | If Only |  |
-| A4 | Walkin' On The Sidewalks |  |
-| A5 | You Would Know |  |
-| A6 | How To Handle A Rope (A Lesson In The Lariat) |  |
-| B7 | Mexicola |  |
-| B8 | Hispanic Impressions |  |
-| B9 | You Can't Quit Me Baby |  |
-| B10 | Give The Mule What He Wants |  |
-| B11 | I Was A Teenage Hand Model |  |
+| Position | Title |
+|----------|--------|
+| A1 | Regular John |
+| A2 | Avon |
+| A3 | If Only |
+| A4 | Walkin' On The Sidewalks |
+| A5 | You Would Know |
+| A6 | How To Handle A Rope (A Lesson In The Lariat) |
+| B7 | Mexicola |
+| B8 | Hispanic Impressions |
+| B9 | You Can't Quit Me Baby |
+| B10 | Give The Mule What He Wants |
+| B11 | I Was A Teenage Hand Model |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords labe
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1768LP |
-| Notes | Gatefold sleeve with [a1178021] art and original vinyl sequence.<br>Featuring obi-strip designed by [a3311508].<br>Record comes with a plain black inner sleeve.<br><br>℗ 1998 Queens of the Stone Age under exclusive license to Matador Records<br>℗ 2021 Queens of the Stone Age under exclusive license to Matador Records<br><br>Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.<br><br>Some orders from the Matador webstore came with a [a1178021] poster.<br><br>Tracks listed sequentially on release.<br><br>Cutting engineer and pressing plant derived from matrix.<br><br> |
+| Notes | Gatefold sleeve with [a1178021] art and original vinyl sequence. Featuring obi-strip designed by [a3311508]. Record comes with a plain black inner sleeve.  ℗ 1998 Queens of the Stone Age under exclusive license to Matador Records ℗ 2021 Queens of the Stone Age under exclusive license to Matador Records  Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.  Some orders from the Matador webstore came with a [a1178021] poster.  Tracks listed sequentially on release.  Cutting engineer and pressing plant derived from matrix.   |
 | Discogs URL    | [Queens Of The Stone Age - Queens Of The Stone Age](https://www.discogs.com/release/20712265-Queens-Of-The-Stone-Age-Queens-Of-The-Stone-Age) |

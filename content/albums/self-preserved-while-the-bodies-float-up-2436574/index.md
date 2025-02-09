@@ -33,29 +33,29 @@ Self Preserved While the Bodies Float Up is the fourth and final full-length stu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Part Cardiac | 4:10 |
-| A2 | Superimposer | 4:14 |
-| A3 | Build Us A Rocket Then… | 3:58 |
-| A4 | Oscar Acceptance Speech | 8:53 |
-| A5 | Ransoms | 4:06 |
-| B1 | A Penny's Weight | 3:37 |
-| B2 | Silent/Transparent | 8:29 |
-| B3 | It's My Tail And I'll Chase It If I Want To | 3:35 |
-| B4 | Pine | 4:55 |
-| B5 | SuperImposter | 5:15 |
-|  | CD: |  |
-| CD-1 | Part Cardiac | 4:10 |
-| CD-2 | Superimposer | 4:14 |
-| CD-3 | Build Us A Rocket Then… | 3:58 |
-| CD-4 | Oscar Acceptance Speech | 8:53 |
-| CD-5 | Ransoms | 4:06 |
-| CD-6 | A Penny's Weight | 3:37 |
-| CD-7 | Silent/Transparent | 8:29 |
-| CD-8 | It's My Tail And I'll Chase It If I Want To | 3:35 |
-| CD-9 | Pine | 4:55 |
-| CD-10 | SuperImposter | 5:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Part Cardiac |
+| A2 | Superimposer |
+| A3 | Build Us A Rocket Then… |
+| A4 | Oscar Acceptance Speech |
+| A5 | Ransoms |
+| B1 | A Penny's Weight |
+| B2 | Silent/Transparent |
+| B3 | It's My Tail And I'll Chase It If I Want To |
+| B4 | Pine |
+| B5 | SuperImposter |
+|  | CD: |
+| CD-1 | Part Cardiac |
+| CD-2 | Superimposer |
+| CD-3 | Build Us A Rocket Then… |
+| CD-4 | Oscar Acceptance Speech |
+| CD-5 | Ransoms |
+| CD-6 | A Penny's Weight |
+| CD-7 | Silent/Transparent |
+| CD-8 | It's My Tail And I'll Chase It If I Want To |
+| CD-9 | Pine |
+| CD-10 | SuperImposter |
 
 
 ## Apple Music

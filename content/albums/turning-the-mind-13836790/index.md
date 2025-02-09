@@ -28,20 +28,20 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turning The Mind |  |
-| A2 | I Dream Of Crystal |  |
-| A3 | Let Go Of The Fear |  |
-| A4 | Valium In The Sunshine |  |
-| B1 | Papercuts |  |
-| B2 | Love Will Come |  |
-| B3 | Everything Is Shattering |  |
-| B4 | Nothing |  |
-| C1 | The Note (These Voices) |  |
-| C2 | Chemeleon |  |
-| C3 | Die Happy, Die Smiling |  |
-| C4 | Without You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Turning The Mind |
+| A2 | I Dream Of Crystal |
+| A3 | Let Go Of The Fear |
+| A4 | Valium In The Sunshine |
+| B1 | Papercuts |
+| B2 | Love Will Come |
+| B3 | Everything Is Shattering |
+| B4 | Nothing |
+| C1 | The Note (These Voices) |
+| C2 | Chemeleon |
+| C3 | Die Happy, Die Smiling |
+| C4 | Without You |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue Repress (Orange) |
 | Label          | Mute |
 | Catalog Number | STUMM298 |
-| Notes | Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.<br><br>Circular silver hype sticker on the cellophane reads:<br><br>First time on vinyl<br><br>Mute 4.0 Orange vinyl<br>Limited edition of 500<br><br>Double album<br>D side etching<br>+<br>Digital copy<br>_<br><br>℗ 2019 Mute Records Limited<br>© 2009 Mute Records Limited<br>Printed in the EU. |
+| Notes | Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.  Circular silver hype sticker on the cellophane reads:  First time on vinyl  Mute 4.0 Orange vinyl Limited edition of 500  Double album D side etching + Digital copy _  ℗ 2019 Mute Records Limited © 2009 Mute Records Limited Printed in the EU. |
 | Discogs URL    | [Maps - Turning The Mind](https://www.discogs.com/release/13836790-Maps-Turning-The-Mind) |

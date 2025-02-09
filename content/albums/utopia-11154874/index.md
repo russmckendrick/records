@@ -41,22 +41,22 @@ Avant-garde folktronica and 12-piece Icelandic flute sections don’t exactly le
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Arisen My Senses | 5:01 |
-| A2 | Blissing Me | 5:04 |
-| A3 | The Gate | 6:34 |
-| B1 | Body Memory | 10:12 |
-| B2 | Losss | 7:13 |
-| C1 | Utopia | 4:45 |
-| C2 | Saint | 4:39 |
-| C3 | Courtship | 4:52 |
-| C4 | Sue Me | 4:57 |
-| D1 | Tabula Rasa | 4:42 |
-| D2 | Claimstaker | 3:19 |
-| D3 | Paradisia | 1:42 |
-| D4 | Features Creatures | 4:41 |
-| D5 | Future Forever | 4:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Arisen My Senses |
+| A2 | Blissing Me |
+| A3 | The Gate |
+| B1 | Body Memory |
+| B2 | Losss |
+| C1 | Utopia |
+| C2 | Saint |
+| C3 | Courtship |
+| C4 | Sue Me |
+| D1 | Tabula Rasa |
+| D2 | Claimstaker |
+| D3 | Paradisia |
+| D4 | Features Creatures |
+| D5 | Future Forever |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Avant-garde folktronica and 12-piece Icelandic flute sections don’t exactly le
 | Format         | Vinyl 2× LP Album Limited Edition (Peach) |
 | Label          | One Little Indian |
 | Catalog Number | tplp1381ltd |
-| Notes | Rough Trade Exclusive Limited Edition in double peach coloured vinyl.<br>Limited to 5000 copies.<br>Glossy gatefold sleeve with print on the inside and lyrics inner sleeves.<br><br>From the sleeve and inner sleeves:<br><br>Published by Kobalt Music Publishing Ltd., except A1, A3, C4, D2, D5: published by Kobalt Music Publishing Ltd./EMI April Music Inc (ASCAP); D4: Kobalt Music Publishing Ltd./Copyright Control (APRA)<br><br>Original recording on D4: [url=https://www.discogs.com/Various-Gravikords-Whirlies-Pyrophones-Experimental-Musical-Instruments/release/626936]'Kindred Spirits, Music For Harmonic Whirlies'[/url] composed, performed and recorded by Sarah Hopkins © 1996 Sarah Hopkins APRA<br><br>Original recording on C3: 'Mo-mo' track recorded in the village of Damaindeh-Bau, Finisterre Range, Papua New Guinea, taken from the album [url=https://www.discogs.com/release/8302925]'Sacred Flute Music From New Guinea: Madang/Windim Mabu'[/url] by Ragnar Johnson & Jessica Mayer © 2016 soma024, courtesy of [l243287]/[l61632]<br><br>Various bird song samples used by kind permission of Jean C. Roché from his recordings [url=https://www.discogs.com/Jean-C-Roch%C3%A9-Oiseaux-Du-Birds-Of-V%C3%A9n%C3%A9zu%C3%A9la/master/1179475]'Oiseau du (Birds of) Venezuala'[/url]<br><br>Various Icelandic field recordings by Chris Watson<br><br>Thanks to [a391] and [a214033] for their help with sourcing and clearing samples<br><br>Thanks to [a2365659] @ [l1012]<br><br>p/c 2017 One Little Indian Ltd / Wellhart Ltd<br>The copyright in this sound recordings is owned by One Little Indian Records<br>All rights reserved |
+| Notes | Rough Trade Exclusive Limited Edition in double peach coloured vinyl. Limited to 5000 copies. Glossy gatefold sleeve with print on the inside and lyrics inner sleeves.  From the sleeve and inner sleeves:  Published by Kobalt Music Publishing Ltd., except A1, A3, C4, D2, D5: published by Kobalt Music Publishing Ltd./EMI April Music Inc (ASCAP); D4: Kobalt Music Publishing Ltd./Copyright Control (APRA)  Original recording on D4: [url=https://www.discogs.com/Various-Gravikords-Whirlies-Pyrophones-Experimental-Musical-Instruments/release/626936]'Kindred Spirits, Music For Harmonic Whirlies'[/url] composed, performed and recorded by Sarah Hopkins © 1996 Sarah Hopkins APRA  Original recording on C3: 'Mo-mo' track recorded in the village of Damaindeh-Bau, Finisterre Range, Papua New Guinea, taken from the album [url=https://www.discogs.com/release/8302925]'Sacred Flute Music From New Guinea: Madang/Windim Mabu'[/url] by Ragnar Johnson & Jessica Mayer © 2016 soma024, courtesy of [l243287]/[l61632]  Various bird song samples used by kind permission of Jean C. Roché from his recordings [url=https://www.discogs.com/Jean-C-Roch%C3%A9-Oiseaux-Du-Birds-Of-V%C3%A9n%C3%A9zu%C3%A9la/master/1179475]'Oiseau du (Birds of) Venezuala'[/url]  Various Icelandic field recordings by Chris Watson  Thanks to [a391] and [a214033] for their help with sourcing and clearing samples  Thanks to [a2365659] @ [l1012]  p/c 2017 One Little Indian Ltd / Wellhart Ltd The copyright in this sound recordings is owned by One Little Indian Records All rights reserved |
 | Discogs URL    | [Björk - Utopia](https://www.discogs.com/release/11154874-Björk-Utopia) |

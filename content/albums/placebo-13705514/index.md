@@ -35,18 +35,18 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come Home |  |
-| A2 | Teenage Angst |  |
-| A3 | Bionic |  |
-| A4 | 36 Degrees |  |
-| A5 | Hang On To Your IQ |  |
-| B1 | Nancy Boy |  |
-| B2 | I Know |  |
-| B3 | Bruise Pristine |  |
-| B4 | Lady Of The Flowers |  |
-| B5 | Swallow |  |
+| Position | Title |
+|----------|--------|
+| A1 | Come Home |
+| A2 | Teenage Angst |
+| A3 | Bionic |
+| A4 | 36 Degrees |
+| A5 | Hang On To Your IQ |
+| B1 | Nancy Boy |
+| B2 | I Know |
+| B3 | Bruise Pristine |
+| B4 | Lady Of The Flowers |
+| B5 | Swallow |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Elevator Music (4) |
 | Catalog Number | 6711042 |
-| Notes | Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996.<br>Made in the EU<br>Riverman Management.<br><br>Gatefold sleeve. Opening inside. Printed glossy inner sleeve.<br>A Blue Source Sleeve. |
+| Notes | Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996. Made in the EU Riverman Management.  Gatefold sleeve. Opening inside. Printed glossy inner sleeve. A Blue Source Sleeve. |
 | Discogs URL    | [Placebo - Placebo](https://www.discogs.com/release/13705514-Placebo-Placebo) |

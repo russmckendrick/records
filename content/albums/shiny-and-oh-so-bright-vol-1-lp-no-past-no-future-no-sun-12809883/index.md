@@ -34,16 +34,16 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knights Of Malta |  |
-| A2 | Silvery Sometimes (Ghosts) |  |
-| A3 | Travels |  |
-| A4 | Solara |  |
-| B1 | Alienation |  |
-| B2 | Marchin' On |  |
-| B3 | With Sympathy |  |
-| B4 | Seek And You Shall Destroy |  |
+| Position | Title |
+|----------|--------|
+| A1 | Knights Of Malta |
+| A2 | Silvery Sometimes (Ghosts) |
+| A3 | Travels |
+| A4 | Solara |
+| B1 | Alienation |
+| B2 | Marchin' On |
+| B3 | With Sympathy |
+| B4 | Seek And You Shall Destroy |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Napalm Records |
 | Catalog Number | NPR807VINYL |
-| Notes | Gatefold sleeve<br>Includes booklet 16 pages & download card. |
+| Notes | Gatefold sleeve Includes booklet 16 pages & download card. |
 | Discogs URL    | [The Smashing Pumpkins - Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun](https://www.discogs.com/release/12809883-The-Smashing-Pumpkins-Shiny-And-Oh-So-Bright-Vol1-LP-No-Past-No-Future-No-Sun) |

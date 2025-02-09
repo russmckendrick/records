@@ -30,19 +30,19 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mallo Cup |  |
-| A2 | Glad I Don't Know |  |
-| A3 | 7 Powers |  |
-| A4 | A Circle Of One |  |
-| A5 | Cazzo Di Ferro |  |
-| B1 | Anyway |  |
-| B2 | Luka |  |
-| B3 | Come Back D.A. |  |
-| B4 | I Am A Rabbit |  |
-| B5 | Sad Girl |  |
-| B6 | Ever |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mallo Cup |
+| A2 | Glad I Don't Know |
+| A3 | 7 Powers |
+| A4 | A Circle Of One |
+| A5 | Cazzo Di Ferro |
+| B1 | Anyway |
+| B2 | Luka |
+| B3 | Come Back D.A. |
+| B4 | I Am A Rabbit |
+| B5 | Sad Girl |
+| B6 | Ever |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 | Format         | Vinyl LP Album |
 | Label          | World Service |
 | Catalog Number | SERV 007 |
-| Notes | © 1988 Ray Burr Music, Inc.<br>Issued under license ℗ 1989 World Service.<br><br>Sad Girl (1/87)<br>Ever (8/86) <br><br>Made in England <br><br>Distribution: UK - Rough Trade/Cartel<br>                  BENELUX - Rough Trade B.V. <br>                  W. Germany - Rough Trade G.M.B.H.  |
+| Notes | © 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H.  |
 | Discogs URL    | [The Lemonheads - Lick](https://www.discogs.com/release/864844-Lemonheads-Lick) |

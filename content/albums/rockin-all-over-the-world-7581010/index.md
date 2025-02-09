@@ -33,20 +33,20 @@ The album was reissued by Mercury in 2005 with a bonus track: a cover of the Bea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hard Time | 5:04 |
-| A2 | Can't Give You More | 4:00 |
-| A3 | Let's Ride | 3:00 |
-| A4 | Baby Boy | 3:15 |
-| A5 | You Don't Own Me | 3:04 |
-| A6 | Rockers Rollin' | 3:56 |
-| B1 | Rockin' All Over The World | 3:40 |
-| B2 | Who Am I? | 4:20 |
-| B3 | Too Far Gone | 3:12 |
-| B4 | For You | 3:03 |
-| B5 | Dirty Water | 3:42 |
-| B6 | Hold You Back | 4:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Hard Time |
+| A2 | Can't Give You More |
+| A3 | Let's Ride |
+| A4 | Baby Boy |
+| A5 | You Don't Own Me |
+| A6 | Rockers Rollin' |
+| B1 | Rockin' All Over The World |
+| B2 | Who Am I? |
+| B3 | Too Far Gone |
+| B4 | For You |
+| B5 | Dirty Water |
+| B6 | Hold You Back |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was reissued by Mercury in 2005 with a bonus track: a cover of the Bea
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723767 |
-| Notes | Comes with printed inner sleeve and a poster. 180 gram Vinyl.<br><br>© 1977 Mercury Records Limited/Universal Music Catalogue<br>℗ 1977 Mercury Records Limited |
+| Notes | Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1977 Mercury Records Limited/Universal Music Catalogue ℗ 1977 Mercury Records Limited |
 | Discogs URL    | [Status Quo - Rockin' All Over The World](https://www.discogs.com/release/7581010-Status-Quo-Rockin-All-Over-The-World) |

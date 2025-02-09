@@ -33,19 +33,19 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Epilepsy |  |
-| A2 | Stories |  |
-| A3 | A Moment Of Clarity |  |
-| A4 | Jude The Obscene |  |
-| A5 | Bowels Of Love |  |
-| A6 | Misery |  |
-| B1 | Bad Mother |  |
-| B2 | Me Vs You |  |
-| B3 | Loose |  |
-| B4 | Diane |  |
-| B5 | 30 Seconds |  |
+| Position | Title |
+|----------|--------|
+| A1 | Epilepsy |
+| A2 | Stories |
+| A3 | A Moment Of Clarity |
+| A4 | Jude The Obscene |
+| A5 | Bowels Of Love |
+| A6 | Misery |
+| B1 | Bad Mother |
+| B2 | Me Vs You |
+| B3 | Loose |
+| B4 | Diane |
+| B5 | 30 Seconds |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2806 |
-| Notes | Includes a 12" square matte insert with song lyrics and credits, printed on both sides.<br>Disc held in a white paper die cut polylined inner.<br>Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.<br><br>Made in The Netherlands.<br><br>This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc). |
+| Notes | Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc). |
 | Discogs URL    | [Therapy - Infernal Love](https://www.discogs.com/release/18393268-Therapy-Infernal-Love) |

@@ -32,12 +32,12 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ten Little Girls |  |
-| A2 | I Speak Your Every Word |  |
-| B1 | Blindfold |  |
-| B2 | No Escape From Heaven |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ten Little Girls |
+| A2 | I Speak Your Every Word |
+| B1 | Blindfold |
+| B2 | No Escape From Heaven |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered Stereo (Red/Black Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12030 |
-| Notes | Part of a reissue series.<br>Coloured vinyl.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Limited edition of 1000.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series.<br>Runouts are stamped.<br>Track timings not stated on release. |
+| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. Runouts are stamped. Track timings not stated on release. |
 | Discogs URL    | [Curve - Blindfold EP](https://www.discogs.com/release/26071315-Curve-Blindfold-EP) |

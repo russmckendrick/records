@@ -35,20 +35,20 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackest Eyes | 5:29 |
-| A2 | Shesmovedon | 5:24 |
-| A3 | Gravity Eyelids | 7:41 |
-| B4 | Futile | 7:49 |
-| B5 | Even Less | 7:15 |
-| B6 | Slave Called Shiver | 4:38 |
-| B7 | Waiting | 4:42 |
-| C8 | Hatesong | 8:42 |
-| C9 | Russia On Ice | 12:08 |
-| D10 | Moon Touches Your Shoulder | 6:12 |
-| D11 | Strip The Soul | 8:06 |
-| D12 | Wedding Nails | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Blackest Eyes |
+| A2 | Shesmovedon |
+| A3 | Gravity Eyelids |
+| B4 | Futile |
+| B5 | Even Less |
+| B6 | Slave Called Shiver |
+| B7 | Waiting |
+| C8 | Hatesong |
+| C9 | Russia On Ice |
+| D10 | Moon Touches Your Shoulder |
+| D11 | Strip The Soul |
+| D12 | Wedding Nails |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue transparent) |
 | Label          | Transmission Recordings |
 | Catalog Number | Transmission 14.2 |
-| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.<br><br>Tracks listed sequentially on sleeve. <br><br>The plating marks (1|, 1=, 1+, etc.) on runouts are mirrored.<br><br>[Liner notes]<br>Recorded live at the House of Blues, Los Angeles on 30th July 2003.<br>Restored and remixed from the 24 track ADAT tapes in 2020. <br>(...)<br>℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.<br><br><br> |
+| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.  Tracks listed sequentially on sleeve.   The plating marks (1|, 1=, 1+, etc.) on runouts are mirrored.  [Liner notes] Recorded live at the House of Blues, Los Angeles on 30th July 2003. Restored and remixed from the 24 track ADAT tapes in 2020.  (...) ℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.    |
 | Discogs URL    | [Porcupine Tree - House Of Blues - Los Angeles 2003](https://www.discogs.com/release/19649257-Porcupine-Tree-House-Of-Blues-Los-Angeles-2003) |

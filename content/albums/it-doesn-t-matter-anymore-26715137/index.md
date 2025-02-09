@@ -30,20 +30,20 @@ The song has been covered many times by artists like Linda Ronstadt in 1974, and
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Please Be Gentle With Me |  |
-| A2 | Smile |  |
-| A3 | Glimpse Of The Light |  |
-| A4 | Lazy Lover |  |
-| A5 | Love Has Passed Away |  |
-| A6 | Dung Beetle |  |
-| B1 | Stammer |  |
-| B2 | I Don't Think So |  |
-| B3 | Pie In The Sky |  |
-| B4 | The Day Before Yesterday's Man |  |
-| B5 | Prepare To Land |  |
-| B6 | Trees |  |
+| Position | Title |
+|----------|--------|
+| A1 | Please Be Gentle With Me |
+| A2 | Smile |
+| A3 | Glimpse Of The Light |
+| A4 | Lazy Lover |
+| A5 | Love Has Passed Away |
+| A6 | Dung Beetle |
+| B1 | Stammer |
+| B2 | I Don't Think So |
+| B3 | Pie In The Sky |
+| B4 | The Day Before Yesterday's Man |
+| B5 | Prepare To Land |
+| B6 | Trees |
 
 
 ## Apple Music

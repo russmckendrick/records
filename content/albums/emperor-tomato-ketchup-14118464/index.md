@@ -38,37 +38,37 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Metronomic Underground |  |
-| A2 | Cybele's Reverie |  |
-| A3 | Percolator |  |
-| B1 | Les Yper-Sound |  |
-| B2 | Spark Plug |  |
-| B3 | OLV 26 |  |
-| B4 | The Noise Of Carpet |  |
-| C1 | Tomorrow Is Already Here |  |
-| C2 | Emperor Tomato Ketchup |  |
-| C3 | Monstre Sacre |  |
-| D1 | Motoroller Scalatron |  |
-| D2 | Slow Fast Hazel |  |
-| D3 | Anonymous Collective |  |
-|  | Bonus Disc |  |
-| E1 | Freestyle Dumpling |  |
-| E2 | The Noise Of Carpet (Original Mix) |  |
-| E3 | Old Lungs |  |
-| E4 | Percolator (Original Mix) |  |
-| F1 | Cybele's Reverie (Demo) |  |
-| F2 | Spark Plug (Demo) |  |
-| F3 | Spinal Column (Demo) |  |
-| F4 | Emperor Tomato Ketchup (Demo) |  |
-| F5 | Les Yper-Sound (Demo) |  |
-| F6 | Metronomic Underground (Demo) |  |
-| F7 | Percolator (Demo) |  |
-| F8 | Tomorrow Is Already Here (Demo) |  |
-| F9 | Brigitte (Demo) |  |
-| F10 | Motoroller Scalatron (Demo) |  |
-| F11 | Anonymous Collective (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Metronomic Underground |
+| A2 | Cybele's Reverie |
+| A3 | Percolator |
+| B1 | Les Yper-Sound |
+| B2 | Spark Plug |
+| B3 | OLV 26 |
+| B4 | The Noise Of Carpet |
+| C1 | Tomorrow Is Already Here |
+| C2 | Emperor Tomato Ketchup |
+| C3 | Monstre Sacre |
+| D1 | Motoroller Scalatron |
+| D2 | Slow Fast Hazel |
+| D3 | Anonymous Collective |
+|  | Bonus Disc |
+| E1 | Freestyle Dumpling |
+| E2 | The Noise Of Carpet (Original Mix) |
+| E3 | Old Lungs |
+| E4 | Percolator (Original Mix) |
+| F1 | Cybele's Reverie (Demo) |
+| F2 | Spark Plug (Demo) |
+| F3 | Spinal Column (Demo) |
+| F4 | Emperor Tomato Ketchup (Demo) |
+| F5 | Les Yper-Sound (Demo) |
+| F6 | Metronomic Underground (Demo) |
+| F7 | Percolator (Demo) |
+| F8 | Tomorrow Is Already Here (Demo) |
+| F9 | Brigitte (Demo) |
+| F10 | Motoroller Scalatron (Demo) |
+| F11 | Anonymous Collective (Demo) |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D11R |
-| Notes | Expanded Edition, housed in PVC outer sleeve.<br>Limited to 2500 copies, numbered on hype sticker.<br><br>Contains poster, download card, and lottery scratch ticket. |
+| Notes | Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket. |
 | Discogs URL    | [Stereolab - Emperor Tomato Ketchup](https://www.discogs.com/release/14118464-Stereolab-Emperor-Tomato-Ketchup) |

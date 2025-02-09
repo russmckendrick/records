@@ -34,22 +34,22 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turn To Stone |  |
-| A2 | It's Over |  |
-| A3 | Sweet Talkin'  Woman |  |
-| A4 | Across The Border |  |
-| B1 | Night In The City |  |
-| B2 | Starlight |  |
-| B3 | Jungle |  |
-| B4 | Believe Me Now |  |
-| B5 | Steppin'  Out |  |
-|  | Concerto For A Rainy Day |  |
-| D1 | Sweet Is The Night |  |
-| D2 | The Whale |  |
-| D3 | Birmingham Blues |  |
-| D4 | Wild West Hero |  |
+| Position | Title |
+|----------|--------|
+| A1 | Turn To Stone |
+| A2 | It's Over |
+| A3 | Sweet Talkin'  Woman |
+| A4 | Across The Border |
+| B1 | Night In The City |
+| B2 | Starlight |
+| B3 | Jungle |
+| B4 | Believe Me Now |
+| B5 | Steppin'  Out |
+|  | Concerto For A Rainy Day |
+| D1 | Sweet Is The Night |
+| D2 | The Whale |
+| D3 | Birmingham Blues |
+| D4 | Wild West Hero |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue Stereo |
 | Label          | Sony Music |
 | Catalog Number | 88985456161 |
-| Notes | 40th Anniversary double LP Picture Disc with digital download.<br>Made in the E.U.<br>℗ 1977 Epic Records<br>© 1977, 2017 Epic Records<br> |
+| Notes | 40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records  |
 | Discogs URL    | [Electric Light Orchestra - Out Of The Blue](https://www.discogs.com/release/11176316-Electric-Light-Orchestra-Out-Of-The-Blue) |

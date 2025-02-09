@@ -43,19 +43,19 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1999 | 6:22 |
-| A2 | Little Red Corvette | 4:58 |
-| A3 | Delirious | 3:56 |
-| B1 | Let's Pretend We're Married | 7:20 |
-| B2 | D.M.S.R. | 8:05 |
-| C1 | Automatic | 9:24 |
-| C2 | Something In The Water (Does Not Compute) | 4:00 |
-| C3 | Free | 5:00 |
-| D1 | Lady Cab Driver | 8:25 |
-| D2 | All The Critics Love U In New York | 5:55 |
-| D3 | International Lover | 6:35 |
+| Position | Title |
+|----------|--------|
+| A1 | 1999 |
+| A2 | Little Red Corvette |
+| A3 | Delirious |
+| B1 | Let's Pretend We're Married |
+| B2 | D.M.S.R. |
+| C1 | Automatic |
+| C2 | Something In The Water (Does Not Compute) |
+| C3 | Free |
+| D1 | Lady Cab Driver |
+| D2 | All The Critics Love U In New York |
+| D3 | International Lover |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Minneapolis Sound", "Funk"]
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-5 |
-| Notes | Cover:<br>Mastered [...] at A&M Records<br>Manufactured in the E.U.<br><br>Labels:<br>Made in the E.U.<br><br>Similar editions:<br>1999 (Manufactured in the E.U.) [this release]<br>[r=3139530] (Printed in U.S.A.) |
+| Notes | Cover: Mastered [...] at A&M Records Manufactured in the E.U.  Labels: Made in the E.U.  Similar editions: 1999 (Manufactured in the E.U.) [this release] [r=3139530] (Printed in U.S.A.) |
 | Discogs URL    | [Prince - 1999](https://www.discogs.com/release/4913531-Prince-1999) |

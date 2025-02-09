@@ -25,21 +25,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part I |  |
-| A1 | Disclaimer | 6:44 |
-| A2 | Dream Job | 4:32 |
-| A3 | Money Babies | 4:17 |
-| B1 | Berlin Heart | 4:26 |
-| B2 | Lights Off | 8:02 |
-|  | Part II |  |
-| C1 | Crisis 1&2 | 3:43 |
-| C2 | Demons | 5:00 |
-| C3 | Missiles | 5:01 |
-| D1 | Meltdown In A Major | 5:09 |
-|  | Part III |  |
-| D2 | Saviour | 11:20 |
+| Position | Title |
+|----------|--------|
+|  | Part I |
+| A1 | Disclaimer |
+| A2 | Dream Job |
+| A3 | Money Babies |
+| B1 | Berlin Heart |
+| B2 | Lights Off |
+|  | Part II |
+| C1 | Crisis 1&2 |
+| C2 | Demons |
+| C3 | Missiles |
+| D1 | Meltdown In A Major |
+|  | Part III |
+| D2 | Saviour |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB033 |
-| Notes | ℗ © 2018 Dangerbird Records LLC<br><br>Tenth Anniversary First Edition on Vinyl LP  |
+| Notes | ℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP  |
 | Discogs URL    | [The Dears - Missiles](https://www.discogs.com/release/12677910-The-Dears-Missiles) |

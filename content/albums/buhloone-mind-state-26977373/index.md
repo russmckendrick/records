@@ -32,19 +32,19 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eye Patch | 2:28 |
-| A2 | En Focus | 3:15 |
-| A3 | Patti Dooke | 5:54 |
-| A4 | I Be Blowin' | 4:58 |
-| A5 | Ego Trippin' (Part Two) | 3:52 |
-| B1 | 3 Days Later | 2:39 |
-| B2 | Area | 3:32 |
-| B3 | I Am I Be | 5:03 |
-| B4 | In The Woods | 4:03 |
-| B5 | Breakadawn | 4:15 |
-| B6 | Stone Age | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Eye Patch |
+| A2 | En Focus |
+| A3 | Patti Dooke |
+| A4 | I Be Blowin' |
+| A5 | Ego Trippin' (Part Two) |
+| B1 | 3 Days Later |
+| B2 | Area |
+| B3 | I Am I Be |
+| B4 | In The Woods |
+| B5 | Breakadawn |
+| B6 | Stone Age |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 | Format         | Vinyl LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 053-1 |
-| Notes | ℗ & © A.O.I., LLC under exclusive license to Chrysalis Records Limited.<br><br>Sticker on back-cover can come with "Made in Czech Republic" or "Made in Canada". |
+| Notes | ℗ & © A.O.I., LLC under exclusive license to Chrysalis Records Limited.  Sticker on back-cover can come with "Made in Czech Republic" or "Made in Canada". |
 | Discogs URL    | [De La Soul - Buhloone Mind State](https://www.discogs.com/release/26977373-De-La-Soul-Buhloone-Mind-State) |

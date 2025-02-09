@@ -38,25 +38,25 @@ Though a decent commercial and critical success upon release, The Name of This B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Feeling | 3:10 |
-| A2 | A Clean Break | 4:57 |
-| A3 | Don't Worry About The Government | 3:08 |
-| A4 | Pulled Up | 4:08 |
-| A5 | Psycho Killer | 5:34 |
-| B1 | Artists Only | 3:48 |
-| B2 | Stay Hungry | 4:00 |
-| B3 | Air | 4:09 |
-| B4 | Building On Fire | 3:36 |
-| B5 | Memories (Can't Wait) | 3:58 |
-| C1 | I Zimbra | 3:33 |
-| C2 | Drugs | 4:47 |
-| C3 | Houses In Motion | 7:00 |
-| C4 | Life During Wartime | 5:03 |
-| D1 | The Great Curve | 6:58 |
-| D2 | Crosseyed And Painless | 7:05 |
-| D3 | Take Me To The River | 6:43 |
+| Position | Title |
+|----------|--------|
+| A1 | New Feeling |
+| A2 | A Clean Break |
+| A3 | Don't Worry About The Government |
+| A4 | Pulled Up |
+| A5 | Psycho Killer |
+| B1 | Artists Only |
+| B2 | Stay Hungry |
+| B3 | Air |
+| B4 | Building On Fire |
+| B5 | Memories (Can't Wait) |
+| C1 | I Zimbra |
+| C2 | Drugs |
+| C3 | Houses In Motion |
+| C4 | Life During Wartime |
+| D1 | The Great Curve |
+| D2 | Crosseyed And Painless |
+| D3 | Take Me To The River |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Though a decent commercial and critical success upon release, The Name of This B
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
 | Label          | Sire |
 | Catalog Number | RCV5 3590 |
-| Notes | Rhino 2021 "Start Your Ear Off Right" release.<br><br>Limited edition of 4,500 copies.<br><br>On outer sleeve - ℗© 1982 Sire Records Company<br>On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc.<br>On labels -  ℗ & © 1982 Sire Records Company<br><br>Made in Germany on labels / Made in Germany sticker on shrinkwrap |
+| Notes | Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap |
 | Discogs URL    | [Talking Heads - The Name Of This Band Is Talking Heads](https://www.discogs.com/release/16809120-Talking-Heads-The-Name-Of-This-Band-Is-Talking-Heads) |

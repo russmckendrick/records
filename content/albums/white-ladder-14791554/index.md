@@ -41,18 +41,18 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Please Forgive Me |  |
-| A2 | Babylon |  |
-| B3 | My Oh My |  |
-| B4 | We're Not Right |  |
-| B5 | Nightblindness |  |
-| C6 | Silver Lining |  |
-| C7 | White Ladder |  |
-| C8 | This Year's Love |  |
-| D9 | Sail Away |  |
-| D10 | Say Hello, Wave Goodbye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Please Forgive Me |
+| A2 | Babylon |
+| B3 | My Oh My |
+| B4 | We're Not Right |
+| B5 | Nightblindness |
+| C6 | Silver Lining |
+| C7 | White Ladder |
+| C8 | This Year's Love |
+| D9 | Sail Away |
+| D10 | Say Hello, Wave Goodbye |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 | Format         | Vinyl 2× LP Album Reissue Remastered (White) |
 | Label          | IHT Records |
 | Catalog Number | IHTLP1910 |
-| Notes | To celebrate the 20th Anniversary of White Ladder.<br>Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411].<br>All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.<br><br>Track C8 engineered and recorded at Air Studios.<br><br>℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.<br><br>Tracks appear sequentially on release. |
+| Notes | To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release. |
 | Discogs URL    | [David Gray - White Ladder](https://www.discogs.com/release/14791554-David-Gray-White-Ladder) |

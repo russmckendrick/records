@@ -44,19 +44,19 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magic Piano |  |
-| A2 | Life's Imitation |  |
-| A3 | The Howl |  |
-| A4 | All That I Can Ever Own |  |
-| A5 | Oh Hi |  |
-| A6 | Some Greater Plan (For Claire) |  |
-| B1 | Black Water, White Circle |  |
-| B2 | Blurry Grass |  |
-| B3 | I Can't Keep Up With You |  |
-| B4 | Thirsty |  |
-| B5 | Night Song |  |
+| Position | Title |
+|----------|--------|
+| A1 | Magic Piano |
+| A2 | Life's Imitation |
+| A3 | The Howl |
+| A4 | All That I Can Ever Own |
+| A5 | Oh Hi |
+| A6 | Some Greater Plan (For Claire) |
+| B1 | Black Water, White Circle |
+| B2 | Blurry Grass |
+| B3 | I Can't Keep Up With You |
+| B4 | Thirsty |
+| B5 | Night Song |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 | Format         | Vinyl LP Album Stereo (Blue [Cloudy]) |
 | Label          | BMG |
 | Catalog Number | 4099964027372 |
-| Notes | Gatefold sleeve.<br>Includes a printed inner sleeve with track list on one side and lyrics on the other.<br><br>Catalog numbers:<br>4099964027372 (on back cover)<br>964027371 (on sticker and side B label)<br><br>Runouts are machine etched.<br><br>[Back cover:]<br>All Songs [...] (BMG Publishing) except:<br>The Howl [...] (Mushroom Music Publishing),<br>Some Greater Plan (for Claire) [...] (BMG Publishing / Mushroom Music Publishing),<br>Blurry Glass [...] (Control) and [...] (BMG Publishing),<br>Can't Keep Up With You [...] (BMG Publishing / Mushroom Music Publishing),<br>Thirsty [...] (Control / BMG Publishing)<br><br>Recorded at Music Farm Studios - Byron Bay, Roundhead Studios - Auckland, LaLa Mansion Studios - Los Angeles, La Fabrique Studios St Remy de Provence.<br>Additional Recording at our homes.<br>All songs mixed at Roundhead Studios - Auckland New Zealand.<br>All songs mastered [...] at Gateway Mastering - Portland Maine USA<br><br>'Oh Hi' was inspired and created for the children of 'So They Can' schools in Kenya and Tanzania.<br><br>℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.<br><br>Antonis Moraitis misspelled as "Antonis Moriatis" on the back cover.<br><br>Original packaging is shrink wrapped with two stickers:<br>  - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the catalog number 964027371.<br>  - One stating "Made in Czech Republic".<br>  - Additionally, there is a printing on the shrink wrap stating "Made in Canada".<br><br>Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
+| Notes | Gatefold sleeve. Includes a printed inner sleeve with track list on one side and lyrics on the other.  Catalog numbers: 4099964027372 (on back cover) 964027371 (on sticker and side B label)  Runouts are machine etched.  [Back cover:] All Songs [...] (BMG Publishing) except: The Howl [...] (Mushroom Music Publishing), Some Greater Plan (for Claire) [...] (BMG Publishing / Mushroom Music Publishing), Blurry Glass [...] (Control) and [...] (BMG Publishing), Can't Keep Up With You [...] (BMG Publishing / Mushroom Music Publishing), Thirsty [...] (Control / BMG Publishing)  Recorded at Music Farm Studios - Byron Bay, Roundhead Studios - Auckland, LaLa Mansion Studios - Los Angeles, La Fabrique Studios St Remy de Provence. Additional Recording at our homes. All songs mixed at Roundhead Studios - Auckland New Zealand. All songs mastered [...] at Gateway Mastering - Portland Maine USA  'Oh Hi' was inspired and created for the children of 'So They Can' schools in Kenya and Tanzania.  ℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.  Antonis Moraitis misspelled as "Antonis Moriatis" on the back cover.  Original packaging is shrink wrapped with two stickers:   - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the catalog number 964027371.   - One stating "Made in Czech Republic".   - Additionally, there is a printing on the shrink wrap stating "Made in Canada".  Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
 | Discogs URL    | [Crowded House - Gravity Stairs](https://www.discogs.com/release/30830307-Crowded-House-Gravity-Stairs) |

@@ -37,18 +37,18 @@ The "hammer and anvil" tactic is fundamentally a single envelopment, and is to b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fight Fire |  |
-| A2 | Black Mourning |  |
-| A3 | Patriarch |  |
-| B1 | Last Man, Last Round |  |
-| B2 | Valour |  |
-| B3 | Over The Top |  |
-| B4 | Never Divide |  |
-| C1 | Blitzkrieg |  |
-| C2 | Open Insurrection |  |
-| C3 | Armistice |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fight Fire |
+| A2 | Black Mourning |
+| A3 | Patriarch |
+| B1 | Last Man, Last Round |
+| B2 | Valour |
+| B3 | Over The Top |
+| B4 | Never Divide |
+| C1 | Blitzkrieg |
+| C2 | Open Insurrection |
+| C3 | Armistice |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The "hammer and anvil" tactic is fundamentally a single envelopment, and is to b
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow) |
 | Label          | Superball Music |
 | Catalog Number | MOVLP3078 |
-| Notes | Limited Edition of 1000 copies on yellow coloured vinyl<br>Available on vinyl for the first time<br>Includes band logo etch on D-side<br>180 gram audiophile vinyl<br><br>Made in the EU. |
+| Notes | Limited Edition of 1000 copies on yellow coloured vinyl Available on vinyl for the first time Includes band logo etch on D-side 180 gram audiophile vinyl  Made in the EU. |
 | Discogs URL    | [Pure Reason Revolution - Hammer And Anvil](https://www.discogs.com/release/24455267-Pure-Reason-Revolution-Hammer-And-Anvil) |

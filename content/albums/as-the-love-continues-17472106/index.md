@@ -47,35 +47,35 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 |  To The Bin My Friend, Tonight We Vacate Earth |  |
-| A2 | Here We, Here We, Here We Go Forever |  |
-| A3 | Dry Fantasy |  |
-| B1 | Ritchie Sacramento |  |
-| B2 | Drive The Nail |  |
-| B3 | Fuck Off Money |  |
-| C1 | Ceiling Granny |  |
-| C2 | Midnight Flit |  |
-| C3 | Pat Stains |  |
-| D1 | Supposedly, We Were Nightmares |  |
-| D2 | It's What I Want To Do, Mum. |  |
-| E1 |  To The Bin My Friend, Tonight We Vacate Earth (Demo) |  |
-| E2 | Here We, Here We, Here We Go Forever (Demo) |  |
-| E3 | Supposedly, We Were Nightmares (Demo) |  |
-| F1 | Drive The Nail (Demo) |  |
-| F2 | It's What I Want To Do, Mum. (Demo) |  |
-| CD-1 |  To The Bin My Friend, Tonight We Vacate Earth |  |
-| CD-2 | Here We, Here We, Here We Go Forever |  |
-| CD-3 | Dry Fantasy |  |
-| CD-4 | Ritchie Sacramento |  |
-| CD-5 | Drive The Nail |  |
-| CD-6 | Fuck Off Money |  |
-| CD-7 | Ceiling Granny |  |
-| CD-8 | Midnight Flit |  |
-| CD-9 | Pat Stains |  |
-| CD-10 | Supposedly, We Were Nightmares |  |
-| CD-11 | It's What I Want To Do, Mum. |  |
+| Position | Title |
+|----------|--------|
+| A1 |  To The Bin My Friend, Tonight We Vacate Earth |
+| A2 | Here We, Here We, Here We Go Forever |
+| A3 | Dry Fantasy |
+| B1 | Ritchie Sacramento |
+| B2 | Drive The Nail |
+| B3 | Fuck Off Money |
+| C1 | Ceiling Granny |
+| C2 | Midnight Flit |
+| C3 | Pat Stains |
+| D1 | Supposedly, We Were Nightmares |
+| D2 | It's What I Want To Do, Mum. |
+| E1 |  To The Bin My Friend, Tonight We Vacate Earth (Demo) |
+| E2 | Here We, Here We, Here We Go Forever (Demo) |
+| E3 | Supposedly, We Were Nightmares (Demo) |
+| F1 | Drive The Nail (Demo) |
+| F2 | It's What I Want To Do, Mum. (Demo) |
+| CD-1 |  To The Bin My Friend, Tonight We Vacate Earth |
+| CD-2 | Here We, Here We, Here We Go Forever |
+| CD-3 | Dry Fantasy |
+| CD-4 | Ritchie Sacramento |
+| CD-5 | Drive The Nail |
+| CD-6 | Fuck Off Money |
+| CD-7 | Ceiling Granny |
+| CD-8 | Midnight Flit |
+| CD-9 | Pat Stains |
+| CD-10 | Supposedly, We Were Nightmares |
+| CD-11 | It's What I Want To Do, Mum. |
 
 
 ## Apple Music
@@ -93,5 +93,5 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 | Format         | Box Set, Vinyl 2× LP Album (Red ), Vinyl 12" (Demos), CD |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT140 |
-| Notes | This Deluxe Vinyl Boxset includes:<br><br>2 x Transparent Red Vinyl | Gatefold Cover <br>1 x Black Vinyl Demos EP<br>12 page photograph book<br>CD version of album<br>Album digital download code<br><br>Limited to 1000 copies<br> |
+| Notes | This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies  |
 | Discogs URL    | [Mogwai - As The Love Continues](https://www.discogs.com/release/17472106-Mogwai-As-The-Love-Continues) |

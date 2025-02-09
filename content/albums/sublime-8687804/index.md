@@ -41,25 +41,25 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Garden Grove | 4:21 |
-| A2 | What I Got | 2:51 |
-| A3 | Wrong Way | 2:16 |
-| A4 | Same In The End | 2:36 |
-| B1 | April 29, 1992 (Miami) | 3:53 |
-| B2 | Santeria | 3:03 |
-| B3 | Seed | 2:10 |
-| B4 | Jailhouse | 4:53 |
-| C1 | Pawn Shop | 6:06 |
-| C2 | Paddle Out | 1:15 |
-| C3 | The Ballad Of Johnny Butt | 2:11 |
-| C4 | Burritos | 3:55 |
-| C5 | Under My Voodoo | 3:25 |
-| D1 | Get Ready | 4:50 |
-| D2 | Caress Me Down | 3:32 |
-| D3 | What I Got (Reprise) | 3:02 |
-| D4 | Doin' Time | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Garden Grove |
+| A2 | What I Got |
+| A3 | Wrong Way |
+| A4 | Same In The End |
+| B1 | April 29, 1992 (Miami) |
+| B2 | Santeria |
+| B3 | Seed |
+| B4 | Jailhouse |
+| C1 | Pawn Shop |
+| C2 | Paddle Out |
+| C3 | The Ballad Of Johnny Butt |
+| C4 | Burritos |
+| C5 | Under My Voodoo |
+| D1 | Get Ready |
+| D2 | Caress Me Down |
+| D3 | What I Got (Reprise) |
+| D4 | Doin' Time |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 | Format         | Vinyl 2× LP Album Reissue Remastered (RTI, Gatefold) |
 | Label          | Gasoline Alley |
 | Catalog Number | B0024679-01 |
-| Notes | 2016 LP reissue variant<br><br>Runouts indicate that the metal parts used for this pressing were processed<br>by Record Technology, Inc.<br><br>Records housed in thick cardstock color graphics inner's.<br>Gatefold sleeve |
+| Notes | 2016 LP reissue variant  Runouts indicate that the metal parts used for this pressing were processed by Record Technology, Inc.  Records housed in thick cardstock color graphics inner's. Gatefold sleeve |
 | Discogs URL    | [Sublime - Sublime](https://www.discogs.com/release/8687804-Sublime-2-Sublime) |

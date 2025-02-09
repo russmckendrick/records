@@ -30,20 +30,20 @@ While some critics derided Fawlty Towers upon release, the series soon received 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Mrs Richards |  |
-| A1 | Scene 1 - Reception, Morning |  |
-| A2 | Scene 2 - Mrs. Richard's Room |  |
-| A3 | Scene 3 - Reception, That Afternoon |  |
-| A4 | Scene 4 - Kitchen And Reception Area, Later |  |
-| A5 | Scene 5 - Reception, The Next Morning |  |
-| B | Hotel Inspectors |  |
-| B1 | Scene 1 - Reception, Morning |  |
-| B2 | Scene 2 - Dining Room At Lunchtime |  |
-| B3 | Scene 3 - The Office In Reception |  |
-| B4 | Scene 4 - Dining Room A Few Minutes Later |  |
-| B5 | Scene 5 - Reception Area That Afternoon |  |
+| Position | Title |
+|----------|--------|
+| A | Mrs Richards |
+| A1 | Scene 1 - Reception, Morning |
+| A2 | Scene 2 - Mrs. Richard's Room |
+| A3 | Scene 3 - Reception, That Afternoon |
+| A4 | Scene 4 - Kitchen And Reception Area, Later |
+| A5 | Scene 5 - Reception, The Next Morning |
+| B | Hotel Inspectors |
+| B1 | Scene 1 - Reception, Morning |
+| B2 | Scene 2 - Dining Room At Lunchtime |
+| B3 | Scene 3 - The Office In Reception |
+| B4 | Scene 4 - Dining Room A Few Minutes Later |
+| B5 | Scene 5 - Reception Area That Afternoon |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ While some critics derided Fawlty Towers upon release, the series soon received 
 | Format         | Vinyl LP Mono |
 | Label          | BBC Records |
 | Catalog Number | REB 377 |
-| Notes | Soundtracks from the BBC television series. <br>Side 1 first broadcast on BBC TV, 1979.<br>Side 2 first broadcast on BBC TV, 1975.<br>Reproduction by Pinepoint Ltd.<br><br>Label variant with Pye Records (Sales) Ltd. distribution credit.<br>Translucent pressing appears dark red when held to light. |
+| Notes | Soundtracks from the BBC television series.  Side 1 first broadcast on BBC TV, 1979. Side 2 first broadcast on BBC TV, 1975. Reproduction by Pinepoint Ltd.  Label variant with Pye Records (Sales) Ltd. distribution credit. Translucent pressing appears dark red when held to light. |
 | Discogs URL    | [John Cleese - Fawlty Towers](https://www.discogs.com/release/5815932-John-Cleese-Prunella-Scales-Connie-Booth-And-Andrew-Sachs-Fawlty-Towers) |

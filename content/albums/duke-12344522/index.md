@@ -33,20 +33,20 @@ Duke was positively received by music critics, who praised the album for bridgin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Behind The Lines |  |
-| A2 | Duchess |  |
-| A3 | Guide Vocal |  |
-| A4 | Man Of Our Times |  |
-| A5 | Misunderstanding |  |
-| A6 | Heathaze |  |
-| B1 | Turn It On Again |  |
-| B2 | Alone Tonight |  |
-| B3 | Cul-De-Sac |  |
-| B4 | Please Don't Ask |  |
-| B5 | Duke's Travels |  |
-| B6 | Duke's End |  |
+| Position | Title |
+|----------|--------|
+| A1 | Behind The Lines |
+| A2 | Duchess |
+| A3 | Guide Vocal |
+| A4 | Man Of Our Times |
+| A5 | Misunderstanding |
+| A6 | Heathaze |
+| B1 | Turn It On Again |
+| B2 | Alone Tonight |
+| B3 | Cul-De-Sac |
+| B4 | Please Don't Ask |
+| B5 | Duke's Travels |
+| B6 | Duke's End |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Duke was positively received by music critics, who praised the album for bridgin
 | Format         | Vinyl LP Album Reissue |
 | Label          | Charisma |
 | Catalog Number | 6748978 |
-| Notes | Gatefold sleeve.<br>Comes with a download card. |
+| Notes | Gatefold sleeve. Comes with a download card. |
 | Discogs URL    | [Genesis - Duke](https://www.discogs.com/release/12344522-Genesis-Duke) |

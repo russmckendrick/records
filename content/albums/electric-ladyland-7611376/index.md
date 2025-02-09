@@ -42,24 +42,24 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | ...And The Gods Made Love |  |
-| A2 | Have You Ever Been (To Electric Ladyland) |  |
-| A3 | Cross Town Traffic |  |
-| A4 | Voodoo Chile |  |
-| B1 | Little Miss Strange |  |
-| B2 | Long Hot Summer Night |  |
-| B3 | Come On |  |
-| B4 | Gypsy Eyes |  |
-| B5 | The Burning Of The Midnight Lamp |  |
-| C1 | Rainy Day, Dream Away |  |
-| C2 | 1983... (A Merman I Should Turn To Be) |  |
-| C3 | Moon, Turn The Tides... Gently, Gently Away |  |
-| D1 | Still Raining, Still Dreaming |  |
-| D2 | House Burning Down |  |
-| D3 | All Along The Watchtower |  |
-| D4 | Voodoo Child (Slight Return) |  |
+| Position | Title |
+|----------|--------|
+| A1 | ...And The Gods Made Love |
+| A2 | Have You Ever Been (To Electric Ladyland) |
+| A3 | Cross Town Traffic |
+| A4 | Voodoo Chile |
+| B1 | Little Miss Strange |
+| B2 | Long Hot Summer Night |
+| B3 | Come On |
+| B4 | Gypsy Eyes |
+| B5 | The Burning Of The Midnight Lamp |
+| C1 | Rainy Day, Dream Away |
+| C2 | 1983... (A Merman I Should Turn To Be) |
+| C3 | Moon, Turn The Tides... Gently, Gently Away |
+| D1 | Still Raining, Still Dreaming |
+| D2 | House Burning Down |
+| D3 | All Along The Watchtower |
+| D4 | Voodoo Child (Slight Return) |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
 | Label          | Experience Hendrix |
 | Catalog Number | 88875134511 |
-| Notes | Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures<br><br>All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music,<br>D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.<br><br>Recorded at the Record Plant, New York<br>Remastered at Sterling Sound, N.Y.<br><br>℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C.<br>Made in the EU<br><br>Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"<br><br>Reissue of the 2010 [url=https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland]Music on Vinyl[/url] release, with exactly the same runout numbers. |
+| Notes | Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures  All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music, D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.  Recorded at the Record Plant, New York Remastered at Sterling Sound, N.Y.  ℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C. Made in the EU  Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"  Reissue of the 2010 [url=https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland]Music on Vinyl[/url] release, with exactly the same runout numbers. |
 | Discogs URL    | [The Jimi Hendrix Experience - Electric Ladyland](https://www.discogs.com/release/7611376-The-Jimi-Hendrix-Experience-Electric-Ladyland) |

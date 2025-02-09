@@ -29,22 +29,22 @@ The style on this album is a good demonstration of how they earned the nickname 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ain't Got A Clue |  |
-| A2 | I Don't Need To Tell Her |  |
-| A3 | Total War |  |
-| A4 | Hey You |  |
-| A5 | Shadow |  |
-| A6 | Then I Kicked Her |  |
-| A7 | Go, Go, Go |  |
-| B1 | Jenny |  |
-| B2 | Time Of Year |  |
-| B3 | Self Destruct |  |
-| B4 | It's Quiet Here |  |
-| B5 | Gerald |  |
-| B6 | I'm On Heat |  |
-| B7 | Be My Prisoner |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ain't Got A Clue |
+| A2 | I Don't Need To Tell Her |
+| A3 | Total War |
+| A4 | Hey You |
+| A5 | Shadow |
+| A6 | Then I Kicked Her |
+| A7 | Go, Go, Go |
+| B1 | Jenny |
+| B2 | Time Of Year |
+| B3 | Self Destruct |
+| B4 | It's Quiet Here |
+| B5 | Gerald |
+| B6 | I'm On Heat |
+| B7 | Be My Prisoner |
 
 
 ## Apple Music

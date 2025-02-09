@@ -31,20 +31,20 @@ styles: ["Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Version Girl (Version) |  |
-| A2 | Stop Your Sobbing |  |
-| A3 | Everyday Is Like Sunday |  |
-| A4 | What A Wonderful World |  |
-| A5 | Hangin' Round |  |
-| A6 | Song To The Siren |  |
-| B1 | Walking After Midnight |  |
-| B2 | The Man Who Sold The World |  |
-| B3 | Comme Un Arbre |  |
-| B4 | As Tears Go By |  |
-| B5 | Love Hurts |  |
-| B6 | Peace, Love And Understanding |  |
+| Position | Title |
+|----------|--------|
+| A1 | Version Girl (Version) |
+| A2 | Stop Your Sobbing |
+| A3 | Everyday Is Like Sunday |
+| A4 | What A Wonderful World |
+| A5 | Hangin' Round |
+| A6 | Song To The Siren |
+| B1 | Walking After Midnight |
+| B2 | The Man Who Sold The World |
+| B3 | Comme Un Arbre |
+| B4 | As Tears Go By |
+| B5 | Love Hurts |
+| B6 | Peace, Love And Understanding |
 
 
 ## Apple Music

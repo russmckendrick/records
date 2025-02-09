@@ -30,18 +30,18 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Is Alright Tonite | 3:28 |
-| A2 | Jessie's Girl | 3:14 |
-| A3 | Hole In My Heart | 3:12 |
-| A4 | Carry Me Away | 3:01 |
-| A5 | I've Done Everything For You | 3:17 |
-| B1 | The Light Of Love | 2:43 |
-| B2 | Everybody's Girl | 2:59 |
-| B3 | Daddy's Pearl | 2:37 |
-| B4 | Red Hot & Blue Love | 2:57 |
-| B5 | Inside Silvia | 4:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Is Alright Tonite |
+| A2 | Jessie's Girl |
+| A3 | Hole In My Heart |
+| A4 | Carry Me Away |
+| A5 | I've Done Everything For You |
+| B1 | The Light Of Love |
+| B2 | Everybody's Girl |
+| B3 | Daddy's Pearl |
+| B4 | Red Hot & Blue Love |
+| B5 | Inside Silvia |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Black & White Swirled) |
 | Label          | RCA Victor |
 | Catalog Number | MOVLP1655 |
-| Notes | 180 gram audiophile vinyl<br>Includes insert<br>Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl |
+| Notes | 180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl |
 | Discogs URL    | [Rick Springfield - Working Class Dog](https://www.discogs.com/release/13184025-Rick-Springfield-Working-Class-Dog) |

@@ -42,17 +42,17 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Up Song |  |
-| A2 | The Boy |  |
-| A3 | I Won’t Always Love You |  |
-| A4 | Across The Pond Friend |  |
-| A5 | Laughing Song |  |
-| B1 | The Wrong Trousers |  |
-| B2 | Turbines/Pigs |  |
-| B3 | Dancers |  |
-| B4 | Up Song (Reprise) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Up Song |
+| A2 | The Boy |
+| A3 | I Won’t Always Love You |
+| A4 | Across The Pond Friend |
+| A5 | Laughing Song |
+| B1 | The Wrong Trousers |
+| B2 | Turbines/Pigs |
+| B3 | Dancers |
+| B4 | Up Song (Reprise) |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN289 |
-| Notes | 140g black vinyl.<br>Includes a booklet and a download code.<br><br>Recorded at Bush Hall, London<br>Mastered... at Abbey Road<br><br>℗ & © Ninja Tune 2023<br>Made in EU |
+| Notes | 140g black vinyl. Includes a booklet and a download code.  Recorded at Bush Hall, London Mastered... at Abbey Road  ℗ & © Ninja Tune 2023 Made in EU |
 | Discogs URL    | [Black Country New Road - Live At Bush Hall](https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall) |

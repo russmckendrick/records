@@ -31,12 +31,12 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Utopia | 14:18 |
-| A2 | Freak Parade | 10:14 |
-| A3 | Freedom Fighters | 4:01 |
-| B | The Ikon | 30:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Utopia |
+| A2 | Freak Parade |
+| A3 | Freedom Fighters |
+| B | The Ikon |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bearsville |
 | Catalog Number | K55501 |
-| Notes | Stamped runouts<br>Lyrics printed on back sleeve.<br>A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974<br>All lyrics reproduced by kind permission of United Artists © 1974 |
+| Notes | Stamped runouts Lyrics printed on back sleeve. A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974 All lyrics reproduced by kind permission of United Artists © 1974 |
 | Discogs URL    | [Utopia - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194-Utopia-5-Todd-Rundgrens-Utopia) |

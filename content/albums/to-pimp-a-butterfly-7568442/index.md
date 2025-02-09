@@ -38,24 +38,24 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wesley's Theory | 4:47 |
-| A2 | For Free? (Interlude) | 2:10 |
-| A3 | King Kunta | 3:54 |
-| A4 | Institutionalized | 4:31 |
-| A5 | These Walls | 5:00 |
-| B1 | U | 4:28 |
-| B2 | Alright | 3:39 |
-| B3 | For Sale? (Interlude) | 4:51 |
-| B4 | Momma | 4:43 |
-| C1 | Hood Politics | 4:52 |
-| C2 | How Much A Dollar Cost | 4:21 |
-| C3 | Complexion (A Zulu Love) | 4:23 |
-| C4 | The Blacker The Berry | 5:28 |
-| D1 | You Aint Gotta Lie (Momma Said) | 4:01 |
-| D2 | I | 5:36 |
-| D3 | Mortal Man | 12:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Wesley's Theory |
+| A2 | For Free? (Interlude) |
+| A3 | King Kunta |
+| A4 | Institutionalized |
+| A5 | These Walls |
+| B1 | U |
+| B2 | Alright |
+| B3 | For Sale? (Interlude) |
+| B4 | Momma |
+| C1 | Hood Politics |
+| C2 | How Much A Dollar Cost |
+| C3 | Complexion (A Zulu Love) |
+| C4 | The Blacker The Berry |
+| D1 | You Aint Gotta Lie (Momma Said) |
+| D2 | I |
+| D3 | Mortal Man |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 0602547311009 |
-| Notes | Released in a gatefold cover.<br>No track durations mentioned on the release.<br><br>[a2402706] of [a1628709]'<br><br>The credit section inside gatefold contains some errors:<br>– Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa.<br>– Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"<br><br>[Back cover]<br>℗© 2015 Aftermath/Interscope Records. […]<br>Made in the EU.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |
+| Notes | Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |
 | Discogs URL    | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |

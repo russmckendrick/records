@@ -38,22 +38,22 @@ Reprise is the 19th studio album by American musician Moby, released on May 28, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Everloving |  |
-| A2 | Natural Blues |  |
-| A3 | Go |  |
-| A4 | Porcelain |  |
-| B1 | Extreme Ways |  |
-| B2 | Heroes |  |
-| B3 | God Moving Over The Face Of The Waters |  |
-| C1 | Why Does My Heart Feel So Bad? |  |
-| C2 | The Lonely Night |  |
-| C3 | We Are All Made Of Stars |  |
-| D1 | Lift Me Up |  |
-| D2 | The Great Escape |  |
-| D3 | Almost Home |  |
-| D4 | The Last Day |  |
+| Position | Title |
+|----------|--------|
+| A1 | Everloving |
+| A2 | Natural Blues |
+| A3 | Go |
+| A4 | Porcelain |
+| B1 | Extreme Ways |
+| B2 | Heroes |
+| B3 | God Moving Over The Face Of The Waters |
+| C1 | Why Does My Heart Feel So Bad? |
+| C2 | The Lonely Night |
+| C3 | We Are All Made Of Stars |
+| D1 | Lift Me Up |
+| D2 | The Great Escape |
+| D3 | Almost Home |
+| D4 | The Last Day |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Reprise is the 19th studio album by American musician Moby, released on May 28, 
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Deutsche Grammophon |
 | Catalog Number | 483 9867 |
-| Notes | ℗ 2021 LITTLE IDIOT, UNDER EXCLUSIVE LICENSE TO DEUTSCHE GRAMMOPHON GMBH, BERLIN.<br>2 LPs in a gatefold sleeve including 2 printed innersleeves with photos and credits. |
+| Notes | ℗ 2021 LITTLE IDIOT, UNDER EXCLUSIVE LICENSE TO DEUTSCHE GRAMMOPHON GMBH, BERLIN. 2 LPs in a gatefold sleeve including 2 printed innersleeves with photos and credits. |
 | Discogs URL    | [Moby - Reprise](https://www.discogs.com/release/18089404-Moby-Reprise) |

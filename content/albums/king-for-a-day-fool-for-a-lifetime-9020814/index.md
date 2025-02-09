@@ -42,31 +42,31 @@ Critical reception to the album has been mixed, with its varied genres being cit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get Out		 | 2:16 |
-| A2 | Ricochet | 4:28 |
-| A3 | Evidence | 4:54 |
-| A4 | The Gentle Art Of Making Enemies | 3:29 |
-| A5 | Star A.D. | 3:23 |
-| A6 | Cuckoo For Caca | 4:28 |
-| B1 | Caralho Voador | 4:01 |
-| B2 | Ugly In The Morning | 3:05 |
-| B3 | Digging The Grave | 3:04 |
-| B4 | Take This Bottle | 4:58 |
-| B5 | King For A Day | 6:36 |
-| C1 | What A Day | 2:38 |
-| C2 | The Last To Know | 4:27 |
-| C3 | Just A Man | 5:36 |
-|  | Bonus tracks |  |
-| C4 | Absolute Zero | 4:06 |
-| C5 | Greenfields | 4:38 |
-| D1 | I Started A Joke | 3:01 |
-| D2 | Spanish Eyes | 3:00 |
-| D3 | I Won't Forget You | 4:10 |
-| D4 | Hippie Jam Song | 4:57 |
-| D5 | Evidence (Versione Italiana) | 3:56 |
-| D6 | I Wanna F**k Myself | 2:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Get Out		 |
+| A2 | Ricochet |
+| A3 | Evidence |
+| A4 | The Gentle Art Of Making Enemies |
+| A5 | Star A.D. |
+| A6 | Cuckoo For Caca |
+| B1 | Caralho Voador |
+| B2 | Ugly In The Morning |
+| B3 | Digging The Grave |
+| B4 | Take This Bottle |
+| B5 | King For A Day |
+| C1 | What A Day |
+| C2 | The Last To Know |
+| C3 | Just A Man |
+|  | Bonus tracks |
+| C4 | Absolute Zero |
+| C5 | Greenfields |
+| D1 | I Started A Joke |
+| D2 | Spanish Eyes |
+| D3 | I Won't Forget You |
+| D4 | Hippie Jam Song |
+| D5 | Evidence (Versione Italiana) |
+| D6 | I Wanna F**k Myself |
 
 
 ## Apple Music
@@ -84,5 +84,5 @@ Critical reception to the album has been mixed, with its varied genres being cit
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold Sleeve, 180 gram) |
 | Label          | Slash |
 | Catalog Number | 0190295973292 |
-| Notes | A sticker on the front cover states:<br>"Double 180gm Gatefold Vinyl<br>Bonus LP features rare tracks & previously unreleased versions<br>New liner notes by Roddy Bottum<br>Includes download code for mp3 version of the album "<br><br>Mp3 download catalogued here: [r=12129387]<br>The US version of the release does not include a download card and features a different sleeve sticker. |
+| Notes | A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker. |
 | Discogs URL    | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814-Faith-No-More-King-For-A-Day-Fool-For-A-Lifetime) |

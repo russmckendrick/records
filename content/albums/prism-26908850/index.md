@@ -36,17 +36,17 @@ Prism is the seventeenth studio album by English ambient house duo the Orb. The 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | H.O.M.E. (High Orbs Mini Earths) | 10:35 |
-| A2 | Why Can You Be In Two Places @ Once When You're Not Anywhere At All... Where's Gary Mix | 7:40 |
-| B1 | A Ghetto Love Story | 6:11 |
-| B2 | Picking Tea Leaves & Chasing Butterflies | 6:13 |
-| B3 | Tiger | 4:32 |
-| C1 | Dragon Of The Ocean (Dogon Mix) | 6:10 |
-| C2 | The Beginning Of The End | 8:29 |
-| D1 | Living In Recycled Times | 10:27 |
-| D2 | Prism | 9:45 |
+| Position | Title |
+|----------|--------|
+| A1 | H.O.M.E. (High Orbs Mini Earths) |
+| A2 | Why Can You Be In Two Places @ Once When You're Not Anywhere At All... Where's Gary Mix |
+| B1 | A Ghetto Love Story |
+| B2 | Picking Tea Leaves & Chasing Butterflies |
+| B3 | Tiger |
+| C1 | Dragon Of The Ocean (Dogon Mix) |
+| C2 | The Beginning Of The End |
+| D1 | Living In Recycled Times |
+| D2 | Prism |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Prism is the seventeenth studio album by English ambient house duo the Orb. The 
 | Format         | Vinyl 2× LP Album Limited Edition (Citrus) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP865X |
-| Notes | Limited edition citrus coloured vinyl<br><br>Cat# on hype sticker: COOKLP865X<br>Cat# on sleeve and labels: COOKLP865<br><br>Additional credits:<br>Sauces: King Michael (Johnson)<br>Psychic Adviser: Youth<br>Orb Concert Agent: Ian @ X Ray<br><br>The runouts are etched |
+| Notes | Limited edition citrus coloured vinyl  Cat# on hype sticker: COOKLP865X Cat# on sleeve and labels: COOKLP865  Additional credits: Sauces: King Michael (Johnson) Psychic Adviser: Youth Orb Concert Agent: Ian @ X Ray  The runouts are etched |
 | Discogs URL    | [The Orb - Prism](https://www.discogs.com/release/26908850-Orb-Prism) |

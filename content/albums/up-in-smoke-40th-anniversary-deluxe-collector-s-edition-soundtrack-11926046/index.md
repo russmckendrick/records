@@ -46,50 +46,50 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Finkelstien Shit Kid | 0:14 |
-| A2 | Up In Smoke | 2:24 |
-| A3 | Low Rider | 3:13 |
-| A4 | 1st Gear, 2nd Gear | 7:20 |
-| A5 | Framed | 2:44 |
-| A6 | Searchin' | 2:44 |
-| A7 | The Ajax Lady | 0:54 |
-| A8 | Strawberry's | 3:28 |
-| B1 | Here Come The Mounties to the Rescue | 2:58 |
-| B2 | Sometimes When You Gotta Go You Can't | 1:04 |
-| B3 | Lost Due To Incompetence (Theme For A Big Green Van) | 3:13 |
-| B4 | Lard Ass | 1:27 |
-| B5 | Rock Fight | 3:13 |
-| B6 | I Didn't Know Your Name Was Alex | 1:26 |
-| B7 | Earache My Eye | 2:38 |
-| B8 | Up In Smoke Reprise | 0:56 |
-|  | 7" Picture Disc |  |
-| C1 | Earache My Eye |  |
-| D1 | Lost Due To Incompetence (Theme For A Big Green Van) |  |
-| CD1 | The Finklestien Shit Kid | 0:14 |
-| CD2 | Up In Smoke | 2:24 |
-| CD3 | Low Rider | 3:13 |
-| CD4 | 1st Gear, 2nd Gear | 7:20 |
-| CD5 | Framed | 2:44 |
-| CD6 | Searchin' | 2:44 |
-| CD7 | The Ajax Lady | 0:54 |
-| CD8 | Strawberry's | 3:28 |
-| CD9 | Here Come The Mounties To The Rescue | 2:58 |
-| CD10 | Sometimes When You Gotta Go You Can't | 1:04 |
-| CD11 | Lost Due To Incompetence (Theme For A Big Green Van)  | 3:45 |
-| CD12 | Lard Ass | 1:27 |
-| CD13 | Rock Fight | 3:13 |
-| CD14 | I Didn't Know Your Name Was Alex | 1:26 |
-| CD15 | Earache My Eye | 2:38 |
-| CD16 | Up In Smoke Reprise | 0:56 |
-|  | Bonus Tracks |  |
-| CD17 | Up In Smoke (Spanish Verse) | 3:26 |
-| CD18 | Up In Smoke 2018 | 3:57 |
-| BR1 | Main Feature | 85:00 |
-|  | Bonus Content |  |
-|  | Roach Clips (Deleted Scenes) With Optional Commentary |  |
-|  | Vintage Radio Spots |  |
+| Position | Title |
+|----------|--------|
+| A1 | Finkelstien Shit Kid |
+| A2 | Up In Smoke |
+| A3 | Low Rider |
+| A4 | 1st Gear, 2nd Gear |
+| A5 | Framed |
+| A6 | Searchin' |
+| A7 | The Ajax Lady |
+| A8 | Strawberry's |
+| B1 | Here Come The Mounties to the Rescue |
+| B2 | Sometimes When You Gotta Go You Can't |
+| B3 | Lost Due To Incompetence (Theme For A Big Green Van) |
+| B4 | Lard Ass |
+| B5 | Rock Fight |
+| B6 | I Didn't Know Your Name Was Alex |
+| B7 | Earache My Eye |
+| B8 | Up In Smoke Reprise |
+|  | 7" Picture Disc |
+| C1 | Earache My Eye |
+| D1 | Lost Due To Incompetence (Theme For A Big Green Van) |
+| CD1 | The Finklestien Shit Kid |
+| CD2 | Up In Smoke |
+| CD3 | Low Rider |
+| CD4 | 1st Gear, 2nd Gear |
+| CD5 | Framed |
+| CD6 | Searchin' |
+| CD7 | The Ajax Lady |
+| CD8 | Strawberry's |
+| CD9 | Here Come The Mounties To The Rescue |
+| CD10 | Sometimes When You Gotta Go You Can't |
+| CD11 | Lost Due To Incompetence (Theme For A Big Green Van)  |
+| CD12 | Lard Ass |
+| CD13 | Rock Fight |
+| CD14 | I Didn't Know Your Name Was Alex |
+| CD15 | Earache My Eye |
+| CD16 | Up In Smoke Reprise |
+|  | Bonus Tracks |
+| CD17 | Up In Smoke (Spanish Verse) |
+| CD18 | Up In Smoke 2018 |
+| BR1 | Main Feature |
+|  | Bonus Content |
+|  | Roach Clips (Deleted Scenes) With Optional Commentary |
+|  | Vintage Radio Spots |
 
 
 ## Apple Music
@@ -106,5 +106,5 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 | Format         | Vinyl LP Album, Vinyl 7" 45 RPM Single Picture Disc Stereo Mono, CD Album, Blu-ray Multichannel, Box Set Deluxe Edition Numbered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 566654 |
-| Notes | Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #. <br>Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.<br><br>Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].<br><br>Side C is Stereo, Side D is Mono. |
+| Notes | Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #.  Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.  Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].  Side C is Stereo, Side D is Mono. |
 | Discogs URL    | [Cheech  Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack](https://www.discogs.com/release/11926046-Cheech-y-Chong-Up-In-Smoke-40th-Anniversary-Deluxe-Collectors-Edition-Soundtrack) |

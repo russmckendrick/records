@@ -34,16 +34,16 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Woman In Chains |  |
-| A2 | Badman's Song |  |
-| A3 | Sowing The Seeds Of Love |  |
-| A4 | Advice For The Young At Heart |  |
-| B1 | Standing On The Corner Of The Third World |  |
-| B2 | Swords And Knives |  |
-| B3 | Year Of The Knife |  |
-| B4 | Famous Last Words |  |
+| Position | Title |
+|----------|--------|
+| A1 | Woman In Chains |
+| A2 | Badman's Song |
+| A3 | Sowing The Seeds Of Love |
+| A4 | Advice For The Young At Heart |
+| B1 | Standing On The Corner Of The Third World |
+| B2 | Swords And Knives |
+| B3 | Year Of The Knife |
+| B4 | Famous Last Words |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Remastered Special Edition Stereo (Gatefold) |
 | Label          | Mobile Fidelity Sound Lab |
 | Catalog Number | MOFI 1-034 |
-| Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.<br><br>Standard weight audiophile quality vinyl, 140gram.<br><br>1/2" / 30 IPS analog copy to analog console to lathe<br><br>[Back cover and labels]<br>℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.<br><br>[Back cover]<br>Special limited edition.<br>Mastered on "The Gain 2 Ultra Analog System™"<br><br>Runouts are etched. |
+| Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.  Standard weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe  [Back cover and labels] ℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.  [Back cover] Special limited edition. Mastered on "The Gain 2 Ultra Analog System™"  Runouts are etched. |
 | Discogs URL    | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/3936935-Tears-For-Fears-The-Seeds-Of-Love) |

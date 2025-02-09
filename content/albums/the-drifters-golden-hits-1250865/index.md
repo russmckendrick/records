@@ -29,20 +29,20 @@ The album was included in Robert Christgau's "Basic Record Library" of 1950s and
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | There Goes My Baby | 2:11 |
-| A2 | (If You Cry) True Love, True Love | 2:17 |
-| A3 | Dance With Me | 2:21 |
-| A4 | This Magic Moment | 2:28 |
-| A5 | Save The Last Dance For Me | 2:34 |
-| A6 | I Count The Tears | 2:06 |
-| B1 | Some Kind Of Wonderful | 2:17 |
-| B2 | Up On The Roof | 2:34 |
-| B3 | On Broadway | 3:05 |
-| B4 | Under The Boardwalk | 2:40 |
-| B5 | I've Got Sand In My Shoes | 2:48 |
-| B6 | Saturday Night At The Movies | 2:26 |
+| Position | Title |
+|----------|--------|
+| A1 | There Goes My Baby |
+| A2 | (If You Cry) True Love, True Love |
+| A3 | Dance With Me |
+| A4 | This Magic Moment |
+| A5 | Save The Last Dance For Me |
+| A6 | I Count The Tears |
+| B1 | Some Kind Of Wonderful |
+| B2 | Up On The Roof |
+| B3 | On Broadway |
+| B4 | Under The Boardwalk |
+| B5 | I've Got Sand In My Shoes |
+| B6 | Saturday Night At The Movies |
 
 
 ## Apple Music

@@ -34,18 +34,18 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Up The Beach | 3:00 |
-| A2 | Ocean Size | 4:22 |
-| A3 | Had A Dad | 3:44 |
-| A4 | Ted, Just Admit It... | 7:23 |
-| A5 | Standing In The Shower... Thinking | 3:03 |
-| B1 | Summertime Rolls | 6:18 |
-| B2 | Mountain Song | 4:03 |
-| B3 | Idiots Rule | 3:00 |
-| B4 | Jane Says | 4:52 |
-| B5 | Thank You Boys | 1:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Up The Beach |
+| A2 | Ocean Size |
+| A3 | Had A Dad |
+| A4 | Ted, Just Admit It... |
+| A5 | Standing In The Shower... Thinking |
+| B1 | Summertime Rolls |
+| B2 | Mountain Song |
+| B3 | Idiots Rule |
+| B4 | Jane Says |
+| B5 | Thank You Boys |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |
-| Notes | Engineered [...] at Eldorado Studios in Los Angeles<br>Mixed [...] at Post Logic Studios in Hollywood<br>Mastered by Steve Hall at Future Disc<br>All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI<br>℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.<br>Made in E.U.<br><br>Includes a printed inner sleeve |
+| Notes | Engineered [...] at Eldorado Studios in Los Angeles  Mixed [...] at Post Logic Studios in Hollywood  Mastered by Steve Hall at Future Disc  All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI  ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.  Made in E.U.    Includes a printed inner sleeve |
 | Discogs URL    | [Janes Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |

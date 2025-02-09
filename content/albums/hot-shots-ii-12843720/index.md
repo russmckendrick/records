@@ -39,28 +39,28 @@ Mason later said the album was, "us doing what we promised to do and making some
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Squares |  |
-| A2 | Al Sharp |  |
-| B1 | Human Being |  |
-| B2 | Gone |  |
-| B3 | Dragon |  |
-| C1 | Broke |  |
-| C2 | Quiet |  |
-| C3 | Alleged |  |
-| D1 | Life |  |
-| D2 | Eclipse |  |
-| CD-1 | Squares |  |
-| CD-2 | Al Sharp |  |
-| CD-3 | Human Being |  |
-| CD-4 | Gone |  |
-| CD-5 | Dragon |  |
-| CD-6 | Broke |  |
-| CD-7 | Quiet |  |
-| CD-8 | Alleged |  |
-| CD-9 | Life |  |
-| CD-10 | Eclipse |  |
+| Position | Title |
+|----------|--------|
+| A1 | Squares |
+| A2 | Al Sharp |
+| B1 | Human Being |
+| B2 | Gone |
+| B3 | Dragon |
+| C1 | Broke |
+| C2 | Quiet |
+| C3 | Alleged |
+| D1 | Life |
+| D2 | Eclipse |
+| CD-1 | Squares |
+| CD-2 | Al Sharp |
+| CD-3 | Human Being |
+| CD-4 | Gone |
+| CD-5 | Dragon |
+| CD-6 | Broke |
+| CD-7 | Quiet |
+| CD-8 | Alleged |
+| CD-9 | Life |
+| CD-10 | Eclipse |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Mason later said the album was, "us doing what we promised to do and making some
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver), CD Reissue |
 | Label          | Because Music |
 | Catalog Number | BEC5543810 |
-| Notes | Limited edition of 1000 copies. Includes CD of album.<br><br>Recorded and mixed for SRM.<br><br>Printed in EU.<br><br>Catalogue number BEC5543810 appears on a UPC sticker on outer wrap, covering the original UPC. Spine still has catalogue number BEC5543701, as per the black vinyl version.<br><br>With full-colour printed inner sleeves.<br> |
+| Notes | Limited edition of 1000 copies. Includes CD of album.  Recorded and mixed for SRM.  Printed in EU.  Catalogue number BEC5543810 appears on a UPC sticker on outer wrap, covering the original UPC. Spine still has catalogue number BEC5543701, as per the black vinyl version.  With full-colour printed inner sleeves.  |
 | Discogs URL    | [The Beta Band - Hot Shots II](https://www.discogs.com/release/12843720-The-Beta-Band-Hot-Shots-II) |

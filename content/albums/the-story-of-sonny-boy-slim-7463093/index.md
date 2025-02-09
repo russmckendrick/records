@@ -40,21 +40,21 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Healing | 4:49 |
-| A2 | Grinder | 3:22 |
-| A3 | Star | 4:44 |
-| A4 | Our Love | 4:12 |
-| B1 | Church | 5:10 |
-| B2 | Hold On | 3:47 |
-| B3 | Cold Blooded | 3:43 |
-| B4 | Wings | 4:12 |
-| C1 | BYOB | 1:00 |
-| C2 | Can't Sleep | 3:48 |
-| C3 | Stay | 3:45 |
-| C4 | Shake | 3:18 |
-| C5 | Down To Ride | 7:52 |
+| Position | Title |
+|----------|--------|
+| A1 | The Healing |
+| A2 | Grinder |
+| A3 | Star |
+| A4 | Our Love |
+| B1 | Church |
+| B2 | Hold On |
+| B3 | Cold Blooded |
+| B4 | Wings |
+| C1 | BYOB |
+| C2 | Can't Sleep |
+| C3 | Stay |
+| C4 | Shake |
+| C5 | Down To Ride |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 | Format         | Vinyl LP Stereo, Vinyl LP Single Sided Etched Stereo, All Media Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
-| Notes | © 2015 Hotwire Unlimited LLC (BMI)<br><br>© ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S.<br>Printed in Canada.<br>Manufactured in The Netherlands.<br><br> <br>Gatefold sleeve contains colour insert with credits. |
+| Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |
 | Discogs URL    | [Gary Clark Jr - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |

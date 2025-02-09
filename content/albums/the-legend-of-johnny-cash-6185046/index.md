@@ -38,29 +38,29 @@ A UK version entitled Ring of Fire: The Legend of Johnny Cash has a different tr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ring Of Fire |  |
-| A2 | I Walk The Line |  |
-| A3 | Jackson |  |
-| A4 | Folsom Prison Blues |  |
-| A5 | A Boy Named Sue (Live) |  |
-| A6 | Big River |  |
-| B1 | Get Rhythm |  |
-| B2 | Cry! Cry! Cry! |  |
-| B3 | Hey Porter |  |
-| B4 | A Thing Called Love |  |
-| B5 | Guess Things Happen That Way |  |
-| B6 | San Quentin (Live) |  |
-| B7 | Man In Black |  |
-| C1 | Highwayman |  |
-| C2 | The Wanderer |  |
-| C3 | I've Been Everywhere |  |
-| C4 | Rusty Cage |  |
-| D1 | Personal Jesus |  |
-| D2 | Give My Love To Rose |  |
-| D3 | One |  |
-| D4 | Hurt |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ring Of Fire |
+| A2 | I Walk The Line |
+| A3 | Jackson |
+| A4 | Folsom Prison Blues |
+| A5 | A Boy Named Sue (Live) |
+| A6 | Big River |
+| B1 | Get Rhythm |
+| B2 | Cry! Cry! Cry! |
+| B3 | Hey Porter |
+| B4 | A Thing Called Love |
+| B5 | Guess Things Happen That Way |
+| B6 | San Quentin (Live) |
+| B7 | Man In Black |
+| C1 | Highwayman |
+| C2 | The Wanderer |
+| C3 | I've Been Everywhere |
+| C4 | Rusty Cage |
+| D1 | Personal Jesus |
+| D2 | Give My Love To Rose |
+| D3 | One |
+| D4 | Hurt |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ A UK version entitled Ring of Fire: The Legend of Johnny Cash has a different tr
 | Format         | Vinyl 2× LP Compilation (180 Gram, GZ Media Pressing) |
 | Label          | Island Records |
 | Catalog Number | 00602537952168 |
-| Notes | Includes voucher to download an MP3 version of the album.<br>Gatefold cover.<br><br>Not to be confused with the [url=https://www.discogs.com/release/30977797-Johnny-Cash-The-Legend-Of-Johnny-Cash]MPO Pressing[/url].<br><br>℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment.<br>Made in the EU<br> |
+| Notes | Includes voucher to download an MP3 version of the album. Gatefold cover.  Not to be confused with the [url=https://www.discogs.com/release/30977797-Johnny-Cash-The-Legend-Of-Johnny-Cash]MPO Pressing[/url].  ℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment. Made in the EU  |
 | Discogs URL    | [Johnny Cash - The Legend Of Johnny Cash](https://www.discogs.com/release/6185046-Johnny-Cash-The-Legend-Of-Johnny-Cash) |

@@ -30,21 +30,21 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kickin' | 3:47 |
-| A2 | That's Where It's At | 4:15 |
-| A3 | Pay For Me | 4:24 |
-| B1 | Eurodog | 3:36 |
-| B2 | I'll Do Ya | 8:26 |
-| B3 | Electricity | 4:13 |
-| C1 | Hobo Humpin' Slobo Babe | 3:59 |
-| C2 | Tryzasnice | 4:45 |
-| C3 | Happy In You | 4:59 |
-| D1 | I Miss Me | 4:11 |
-| D2 | Young Dumb N' Full Of Cum | 5:14 |
-| D3 | I'm Cold | 8:25 |
-| D4 | Born To Raise Hell | 1:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Kickin' |
+| A2 | That's Where It's At |
+| A3 | Pay For Me |
+| B1 | Eurodog |
+| B2 | I'll Do Ya |
+| B3 | Electricity |
+| C1 | Hobo Humpin' Slobo Babe |
+| C2 | Tryzasnice |
+| C3 | Happy In You |
+| D1 | I Miss Me |
+| D2 | Young Dumb N' Full Of Cum |
+| D3 | I'm Cold |
+| D4 | Born To Raise Hell |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 | Format         | Vinyl 2× LP Album |
 | Label          | Virgin |
 | Catalog Number | 7243 8 40560 1 8 |
-| Notes | <br>Foil cover with die-cut black inner sleeves.<br><br>Made in England (on labels)<br>Printed in UK (sticker)<br><br> |
+| Notes |  Foil cover with die-cut black inner sleeves.  Made in England (on labels) Printed in UK (sticker)   |
 | Discogs URL    | [Whale - We Care](https://www.discogs.com/release/1415702-Whale-We-Care) |

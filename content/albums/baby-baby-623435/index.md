@@ -29,11 +29,11 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Baby Baby (Heart In Motion Mix) | 5:57 |
-| B1 | Baby Baby (No Getting Over You Mix) | 3:55 |
-| B2 | Lead Me On | 5:28 |
+| Position | Title |
+|----------|--------|
+| A | Baby Baby (Heart In Motion Mix) |
+| B1 | Baby Baby (No Getting Over You Mix) |
+| B2 | Lead Me On |
 
 
 ## Apple Music

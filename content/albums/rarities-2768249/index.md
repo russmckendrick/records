@@ -40,36 +40,36 @@ Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dead Things |  |
-| A2 | Wednesday’s Child |  |
-| A3 | Tuna Fish |  |
-| A4 | To Be Free |  |
-| B1 | If You Go Away |  |
-| B2 | Weird Friendless Kid |  |
-| B3 | To Be Free (Futureshock Vocal Mix) |  |
-| C1 | To Be Free (Dillon & Dickens Vocal Remix) |  |
-| C2 | To Be Free (Raw Deal Remix) |  |
-| C3 | Baby Blue |  |
-| D1 | Baby Blue (Rae & Christian Remix) |  |
-| D2 | Baby Blue (Runaways Mix) |  |
-| D3 | Easy (Tore Johansson Mix) |  |
-| E1 | Easy (Album Version) |  |
-| E2 | Flirt (Slow Blow) |  |
-| E3 | Easy (In The Sunshine Acoustic) |  |
-| E4 | Easy (In The Rain Acoustic) |  |
-| E5 | Easy (Video Version) |  |
-| F1 | Unemployed In Summertime (Tore Johansson Mix) |  |
-| F2 | 7-Up Days |  |
-| F3 | Tuna Fish (Acoustic Version) |  |
-| F4 | Unemployed In Summertime (Dreemhouse Radio Mix) |  |
-| G1 | Unemployed In Summertime (Dreemhouse Mix) |  |
-| G2 | Unemployed In Summertime (Junior’s Summertime Mix) |  |
-| G3 | Unemployed In Summertime (Batucada Mix) |  |
-| H1 | To Be Free (Tore Johansson Radio Edit) |  |
-| H2 | To Be Free (Future Shock To Be Free Vocal Club Mix) |  |
-| H3 | Unemployed In Summertime (Dreemhouse Unemployed Club Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dead Things |
+| A2 | Wednesday’s Child |
+| A3 | Tuna Fish |
+| A4 | To Be Free |
+| B1 | If You Go Away |
+| B2 | Weird Friendless Kid |
+| B3 | To Be Free (Futureshock Vocal Mix) |
+| C1 | To Be Free (Dillon & Dickens Vocal Remix) |
+| C2 | To Be Free (Raw Deal Remix) |
+| C3 | Baby Blue |
+| D1 | Baby Blue (Rae & Christian Remix) |
+| D2 | Baby Blue (Runaways Mix) |
+| D3 | Easy (Tore Johansson Mix) |
+| E1 | Easy (Album Version) |
+| E2 | Flirt (Slow Blow) |
+| E3 | Easy (In The Sunshine Acoustic) |
+| E4 | Easy (In The Rain Acoustic) |
+| E5 | Easy (Video Version) |
+| F1 | Unemployed In Summertime (Tore Johansson Mix) |
+| F2 | 7-Up Days |
+| F3 | Tuna Fish (Acoustic Version) |
+| F4 | Unemployed In Summertime (Dreemhouse Radio Mix) |
+| G1 | Unemployed In Summertime (Dreemhouse Mix) |
+| G2 | Unemployed In Summertime (Junior’s Summertime Mix) |
+| G3 | Unemployed In Summertime (Batucada Mix) |
+| H1 | To Be Free (Tore Johansson Radio Edit) |
+| H2 | To Be Free (Future Shock To Be Free Vocal Club Mix) |
+| H3 | Unemployed In Summertime (Dreemhouse Unemployed Club Mix) |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini
 | Format         | Vinyl 4× LP Compilation |
 | Label          | One Little Indian |
 | Catalog Number | TPLP1081 |
-| Notes | Issued in a slip case with 2 separate outer sleeves.<br>Hype sticker on shrink wrap.<br><br>This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records. <br>The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited.<br>CAT NO. TPLP1081 (LC 03275) 5 016958 134662.<br> |
+| Notes | Issued in a slip case with 2 separate outer sleeves. Hype sticker on shrink wrap.  This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records.  The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited. CAT NO. TPLP1081 (LC 03275) 5 016958 134662.  |
 | Discogs URL    | [Emiliana Torrini - Rarities](https://www.discogs.com/release/2768249-Emiliana-Torrini-Rarities) |

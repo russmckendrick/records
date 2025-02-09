@@ -34,23 +34,23 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Man's Final Frontier | 2:38 |
-| A2 | Mama's Always On Stage | 3:25 |
-| A3 | People Everyday | 3:26 |
-| A4 | Blues Happy | 0:46 |
-| A5 | Mr. Wendal | 4:06 |
-| A6 | Children Play With Earth | 2:38 |
-| A7 | Raining Revolution | 3:55 |
-| A8 | Fishin' 4 Religion | 4:06 |
-| A9 | Give A Man A Fish | 4:22 |
-| B1 | U | 4:59 |
-| B2 | Eve Of Reality | 1:53 |
-| B3 | Natural | 4:18 |
-| B4 | Dawn Of The Dreads | 5:17 |
-| B5 | Tennessee | 4:32 |
-| B6 | Washed Away | 6:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Man's Final Frontier |
+| A2 | Mama's Always On Stage |
+| A3 | People Everyday |
+| A4 | Blues Happy |
+| A5 | Mr. Wendal |
+| A6 | Children Play With Earth |
+| A7 | Raining Revolution |
+| A8 | Fishin' 4 Religion |
+| A9 | Give A Man A Fish |
+| B1 | U |
+| B2 | Eve Of Reality |
+| B3 | Natural |
+| B4 | Dawn Of The Dreads |
+| B5 | Tennessee |
+| B6 | Washed Away |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Cooltempo |
 | Catalog Number | MOVLP890 |
-| Notes | 180 gram audiophile vinyl<br>Insert  |
+| Notes | 180 gram audiophile vinyl  Insert  |
 | Discogs URL    | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763-Arrested-Development-3-Years-5-Months-And-2-Days-In-The-Life-Of) |

@@ -37,16 +37,16 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mood Swings | 7:15 |
-| A2 | Ancient Love | 5:53 |
-| A3 | Your Hammer, My Heart | 4:44 |
-| A4 | Patterns | 3:53 |
-| B1 | A Bird Of No Address | 4:13 |
-| B2 | Born Horses | 3:40 |
-| B3 | Everything I Thought I Had Lost | 6:12 |
-| B4 | There's Always Been A Bird In Me | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Mood Swings |
+| A2 | Ancient Love |
+| A3 | Your Hammer, My Heart |
+| A4 | Patterns |
+| B1 | A Bird Of No Address |
+| B2 | Born Horses |
+| B3 | Everything I Thought I Had Lost |
+| B4 | There's Always Been A Bird In Me |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bella Union |
 | Catalog Number | BELLA1582V |
-| Notes | Gatefold sleeve and includes a 4 page 12" x 12" insert with lyrics and band member images.<br><br>Made in Germany. |
+| Notes | Gatefold sleeve and includes a 4 page 12" x 12" insert with lyrics and band member images.  Made in Germany. |
 | Discogs URL    | [Mercury Rev - Born Horses](https://www.discogs.com/release/31673543-Mercury-Rev-Born-Horses) |

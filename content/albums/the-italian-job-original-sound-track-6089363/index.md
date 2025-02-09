@@ -24,19 +24,19 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | On Days Like These | 3:39 |
-| A2 | Something's Cookin' | 2:30 |
-| A3 | Hello Mrs. Beckerman! | 1:00 |
-| A4 | Britannia-And Mr. Bridger - If You Please | 1:55 |
-| A5 | Trouble For Charlie | 1:45 |
-| A6 | On Days Like These | 3:07 |
-| B1 | It's Caper Time - The Italian Job (Vocal) | 3:10 |
-| B2 | Meanwhile, Back At The Mafia | 1:20 |
-| B3 | Smell That Gold | 1:30 |
-| B4 | Greensleeves And All That Jazz | 2:05 |
-| B5 | Getta Bloomin' Move On! - The Italian Job (Vocal) | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | On Days Like These |
+| A2 | Something's Cookin' |
+| A3 | Hello Mrs. Beckerman! |
+| A4 | Britannia-And Mr. Bridger - If You Please |
+| A5 | Trouble For Charlie |
+| A6 | On Days Like These |
+| B1 | It's Caper Time - The Italian Job (Vocal) |
+| B2 | Meanwhile, Back At The Mafia |
+| B3 | Smell That Gold |
+| B4 | Greensleeves And All That Jazz |
+| B5 | Getta Bloomin' Move On! - The Italian Job (Vocal) |
 
 
 ## Apple Music

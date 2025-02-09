@@ -34,23 +34,23 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Forbidden City |  |
-| A2 | Getting Away With It |  |
-| A3 | Get The Message (Single Remix) |  |
-| A4 | Feel Every Beat |  |
-| B1 | Disappointed (Single Mix) |  |
-| B2 | Vivid (Radio Edit) |  |
-| B3 | Second Nature |  |
-| B4 | All That I Need |  |
-| C1 | Prodigal Son |  |
-| C2 | For You |  |
-| C3 | Imitation Of Life (New Edit) |  |
-| D1 | Out Of My League |  |
-| D2 | Like No Other |  |
-| D3 | Twisted Tenderness |  |
-| D4 | Late At Night (Radio Edit) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Forbidden City |
+| A2 | Getting Away With It |
+| A3 | Get The Message (Single Remix) |
+| A4 | Feel Every Beat |
+| B1 | Disappointed (Single Mix) |
+| B2 | Vivid (Radio Edit) |
+| B3 | Second Nature |
+| B4 | All That I Need |
+| C1 | Prodigal Son |
+| C2 | For You |
+| C3 | Imitation Of Life (New Edit) |
+| D1 | Out Of My League |
+| D2 | Like No Other |
+| D3 | Twisted Tenderness |
+| D4 | Late At Night (Radio Edit) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 | Format         | Vinyl 2× LP Compilation Reissue Stereo |
 | Label          | Warner Music |
 | Catalog Number | 0190296453823 |
-| Notes | This Compilation ℗ & © 2022, 2006 Warner Records Inc. for the World excluding Europe and X Limited and New Voodoo Limited under exclusive license to Parlophone Records Limited for Europe. A Warner Music Group Company. <br>Made in Germany<br><br>Special Thanks: Joe Moss, Rebecca Boulton; Andrew Booth & Andy Robinson |
+| Notes | This Compilation ℗ & © 2022, 2006 Warner Records Inc. for the World excluding Europe and X Limited and New Voodoo Limited under exclusive license to Parlophone Records Limited for Europe. A Warner Music Group Company.  Made in Germany  Special Thanks: Joe Moss, Rebecca Boulton; Andrew Booth & Andy Robinson |
 | Discogs URL    | [Electronic - Get The Message The Best Of Electronic](https://www.discogs.com/release/27115494-Electronic-Get-The-Message-The-Best-Of-Electronic) |

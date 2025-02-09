@@ -36,16 +36,16 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chonks | 8:32 |
-| A2 | Bigly Strictness | 7:37 |
-| A3 | Coven | 6:38 |
-| B1 | Bling Bling | 5:55 |
-| B2 | Xavi | 9:31 |
-| B3 | While We're Young | 2:42 |
-| C1 | Bad Kids To The Back | 5:45 |
-| C2 | Even Us | 7:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Chonks |
+| A2 | Bigly Strictness |
+| A3 | Coven |
+| B1 | Bling Bling |
+| B2 | Xavi |
+| B3 | While We're Young |
+| C1 | Bad Kids To The Back |
+| C2 | Even Us |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | GroundUP Music (2) |
 | Catalog Number | GUM0319V |
-| Notes | Distributed in a gatefold sleeve.<br>Includes an mp3 download card.<br><br>Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas<br>Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York<br>Additional recording by Camilo Salazar at Morley College in London, England<br>Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York<br>Mastered by Dave McNair in Winston-Salem, North Carolina<br><br>Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC)<br>Track A3: © Big Boy Big Girl (ASCAP)<br>Track B1: © Ceebull Music (SESAC)<br>Track B3: © Mazarito Music (SESAC)<br>Track C1: © J Stant Music (SESAC)<br><br>℗ & © 2019 GroundUp Music LLC |
+| Notes | Distributed in a gatefold sleeve. Includes an mp3 download card.  Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York Additional recording by Camilo Salazar at Morley College in London, England Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York Mastered by Dave McNair in Winston-Salem, North Carolina  Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC) Track A3: © Big Boy Big Girl (ASCAP) Track B1: © Ceebull Music (SESAC) Track B3: © Mazarito Music (SESAC) Track C1: © J Stant Music (SESAC)  ℗ & © 2019 GroundUp Music LLC |
 | Discogs URL    | [Snarky Puppy - Immigrance](https://www.discogs.com/release/13391155-Snarky-Puppy-Immigrance) |

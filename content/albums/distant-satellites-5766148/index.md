@@ -51,18 +51,18 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lost Song Part 1 | 5:53 |
-| A2 | The Lost Song Part 2 | 5:47 |
-| B1 | Dusk (Dark Is Descending) | 6:01 |
-| B2 | Ariel | 6:29 |
-| C1 | The Lost Song Part 3 | 5:22 |
-| C2 | Anathema | 6:41 |
-| C3 | You're Not Alone | 3:26 |
-| D1 | Firelight | 2:44 |
-| D2 | Distant Satellites | 8:18 |
-| D3 | Take Shelter | 6:18 |
+| Position | Title |
+|----------|--------|
+| A1 | The Lost Song Part 1 |
+| A2 | The Lost Song Part 2 |
+| B1 | Dusk (Dark Is Descending) |
+| B2 | Ariel |
+| C1 | The Lost Song Part 3 |
+| C2 | Anathema |
+| C3 | You're Not Alone |
+| D1 | Firelight |
+| D2 | Distant Satellites |
+| D3 | Take Shelter |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE866 |
-| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet. <br><br>Runouts are etched. |
+| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet.   Runouts are etched. |
 | Discogs URL    | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148-Anathema-Distant-Satellites) |

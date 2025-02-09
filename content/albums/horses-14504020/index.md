@@ -30,16 +30,16 @@ Even at her artiest, Smith doesn’t flinch or distance herself with irony, turn
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Gloria |  |
-| A2 | Redondo Beach |  |
-| A3 | Birdland |  |
-| A4 | Free Money |  |
-| B1 | Kimberly |  |
-| B2 | Break It Up |  |
-|  | Land |  |
-| B4 | Elegie |  |
+| Position | Title |
+|----------|--------|
+|  | Gloria |
+| A2 | Redondo Beach |
+| A3 | Birdland |
+| A4 | Free Money |
+| B1 | Kimberly |
+| B2 | Break It Up |
+|  | Land |
+| B4 | Elegie |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Even at her artiest, Smith doesn’t flinch or distance herself with irony, turn
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Arista |
 | Catalog Number | 19075995581 |
-| Notes | Clear Vinyl<br>Rough Trade Exclusive<br>Limited to 1000 copies<br>2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip |
+| Notes | Clear Vinyl Rough Trade Exclusive Limited to 1000 copies 2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip |
 | Discogs URL    | [Patti Smith - Horses](https://www.discogs.com/release/14504020-Patti-Smith-Horses) |

@@ -34,20 +34,20 @@ Tiny Music... initially received mixed reviews, similar to the band's earlier wo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Press Play | 4:22 |
-| A2 | Pop's Love Suicide | 3:40 |
-| A3 | Tumble In The Rough | 3:18 |
-| A4 | Big Bang Baby | 3:21 |
-| A5 | Lady Picture Show | 4:06 |
-| A6 | And So I Know | 3:56 |
-| B7 | Trippin' On A Hole In A Paper Heart | 2:54 |
-| B8 | Art School Girl | 3:32 |
-| B9 | Adhesive | 5:31 |
-| B10 | Ride The Cliché | 3:15 |
-| B11 | Daisy | 2:13 |
-| B12 | Seven Caged Tigers | 4:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Press Play |
+| A2 | Pop's Love Suicide |
+| A3 | Tumble In The Rough |
+| A4 | Big Bang Baby |
+| A5 | Lady Picture Show |
+| A6 | And So I Know |
+| B7 | Trippin' On A Hole In A Paper Heart |
+| B8 | Art School Girl |
+| B9 | Adhesive |
+| B10 | Ride The Cliché |
+| B11 | Daisy |
+| B12 | Seven Caged Tigers |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Tiny Music... initially received mixed reviews, similar to the band's earlier wo
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP935 |
-| Notes | 180 gram audiophile vinyl. Includes a printed insert.                  <br>First track is extended on this release. Originally 1.22, this version is 4.22.<br><br>Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.<br><br>Recorded at Westerly Ranch, Santa Ynez, CA<br>Mixed at Southern Tracks, Atlanta, GA<br>B9 Mixed at Bad Animals, Seattle, WA<br>B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA<br><br>All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP<br><br>Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA<br><br>Made in the EU. BIEM/STEMRA<br><br>Pressed By information is not listed. Information derived from runouts.  |
+| Notes | 180 gram audiophile vinyl. Includes a printed insert.                   First track is extended on this release. Originally 1.22, this version is 4.22.  Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.  Recorded at Westerly Ranch, Santa Ynez, CA Mixed at Southern Tracks, Atlanta, GA B9 Mixed at Bad Animals, Seattle, WA B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA  All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP  Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA  Made in the EU. BIEM/STEMRA  Pressed By information is not listed. Information derived from runouts.  |
 | Discogs URL    | [Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop](https://www.discogs.com/release/5266870-Stone-Temple-Pilots-Tiny-MusicSongs-From-The-Vatican-Gift-Shop) |

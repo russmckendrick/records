@@ -37,23 +37,23 @@ styles: ["Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Best Mindfuck Yet |  |
-| A2 | Out Of This World |  |
-| A3 | Nuthin' Sandwich |  |
-| A4 | Shakedown |  |
-| B1 | A Ride |  |
-| B2 | Collide |  |
-| B3 | Katal |  |
-| B4 | Pain Down The Drain |  |
-| C1 | Montezuma |  |
-| C2 | Holy Shit |  |
-| C3 | Masters of Mankind |  |
-| D1 | Alligator |  |
-| D2 | Police Next Door |  |
-| D3 | Sorry I'm Not Sorry |  |
-| D4 | Wired For Sound |  |
+| Position | Title |
+|----------|--------|
+| A1 | Best Mindfuck Yet |
+| A2 | Out Of This World |
+| A3 | Nuthin' Sandwich |
+| A4 | Shakedown |
+| B1 | A Ride |
+| B2 | Collide |
+| B3 | Katal |
+| B4 | Pain Down The Drain |
+| C1 | Montezuma |
+| C2 | Holy Shit |
+| C3 | Masters of Mankind |
+| D1 | Alligator |
+| D2 | Police Next Door |
+| D3 | Sorry I'm Not Sorry |
+| D4 | Wired For Sound |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Vinyl 2× LP Album (Eco-mix) |
 | Label          | Strangetown Records |
 | Catalog Number | STR062V |
-| Notes | Signed print and download information postcard included with Bandcamp copies.<br><br>In the runouts, "2|", "1|" & "2=" are mirrored. |
+| Notes | Signed print and download information postcard included with Bandcamp copies.  In the runouts, "2|", "1|" & "2=" are mirrored. |
 | Discogs URL    | [Das Koolies - DK. 01](https://www.discogs.com/release/28365712-Das-Koolies-DK-01) |

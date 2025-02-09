@@ -30,21 +30,21 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Everything Falls Apart |  |
-| A2 | Do Or Die |  |
-| A3 | Spider To The Fly |  |
-| A4 | Second Guessing |  |
-| A5 | Bow To Love |  |
-| A6 | 4316 |  |
-| A7 | Dopamine |  |
-| B1 | Keep Calm, Carry On |  |
-| B2 | Saturday's Son |  |
-| B3 | Take This Poison |  |
-| B4 | Om Shanti Om |  |
-| B5 | You |  |
-| B6 | Why Worry |  |
+| Position | Title |
+|----------|--------|
+| A1 | Everything Falls Apart |
+| A2 | Do Or Die |
+| A3 | Spider To The Fly |
+| A4 | Second Guessing |
+| A5 | Bow To Love |
+| A6 | 4316 |
+| A7 | Dopamine |
+| B1 | Keep Calm, Carry On |
+| B2 | Saturday's Son |
+| B3 | Take This Poison |
+| B4 | Om Shanti Om |
+| B5 | You |
+| B6 | Why Worry |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl LP Album Limited Edition (Transparent Blue) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP909 |
-| Notes | Limited edition transparent blue vinyl, 250 copies only. <br><br>Rough Trade Exclusive + Monorail Scottish Exclusive.<br><br>℗ 2024 Isobel Campbell under exclusive licence to Cooking Vinyl Limited.<br>Made in Poland. |
+| Notes | Limited edition transparent blue vinyl, 250 copies only.   Rough Trade Exclusive + Monorail Scottish Exclusive.  ℗ 2024 Isobel Campbell under exclusive licence to Cooking Vinyl Limited. Made in Poland. |
 | Discogs URL    | [Isobel Campbell - Bow To Love](https://www.discogs.com/release/30971581-Isobel-Campbell-Bow-To-Love) |

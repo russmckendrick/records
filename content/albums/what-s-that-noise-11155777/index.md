@@ -31,19 +31,19 @@ styles: ["House", "Breaks", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | People Hold On | 3:58 |
-| A2 | Fat (Party And Bullshit) | 4:17 |
-| A3 | (I'm) In Deep | 5:08 |
-| A4 | My Telephone | 4:54 |
-| A5 | Theme From "Reportage" | 1:35 |
-| A6 | Which Doctor? | 4:30 |
-| B1 | Stop This Crazy Thing | 5:15 |
-| B2 | No Connection | 3:34 |
-| B3 | Smoke 1 | 4:40 |
-| B4 | Doctorin' The House (Say R Mix) | 4:35 |
-| B5 | What's That Noise? | 2:28 |
+| Position | Title |
+|----------|--------|
+| A1 | People Hold On |
+| A2 | Fat (Party And Bullshit) |
+| A3 | (I'm) In Deep |
+| A4 | My Telephone |
+| A5 | Theme From "Reportage" |
+| A6 | Which Doctor? |
+| B1 | Stop This Crazy Thing |
+| B2 | No Connection |
+| B3 | Smoke 1 |
+| B4 | Doctorin' The House (Say R Mix) |
+| B5 | What's That Noise? |
 
 
 ## Apple Music

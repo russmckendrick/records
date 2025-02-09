@@ -27,29 +27,29 @@ Special Beat Service is the third studio album by the British ska band the Beat,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Confess |  |
-| A2 | Jeanette |  |
-| A3 | Sorry |  |
-| A4 | Sole Salvation |  |
-| A5 | Spar Wid Me |  |
-| A6 | Rotating Heads |  |
-| B1 | Save It For Later |  |
-| B2 | She’s Going |  |
-| B3 | Pato And Roger A Go Talk |  |
-| B4 | Sugar & Stress |  |
-| B5 | End Of The Party |  |
-| B6 | Ackee 1 2 3 |  |
-| C1 | What’s Your Best Thing |  |
-| C2 | March Of The Swivel Heads (Extended) |  |
-| C3 | It Makes Me Rock |  |
-| C4 | I Confess (United States Of America Remix) |  |
-| C5 | What’S Your Best Thing (Dub Style) |  |
-| D1 | Doors Of Your Heart (Live) |  |
-| D2 | I Confess (Live) |  |
-| D3 | Spar Wid Me (Live) |  |
-| D4 | Save It For Later (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Confess |
+| A2 | Jeanette |
+| A3 | Sorry |
+| A4 | Sole Salvation |
+| A5 | Spar Wid Me |
+| A6 | Rotating Heads |
+| B1 | Save It For Later |
+| B2 | She’s Going |
+| B3 | Pato And Roger A Go Talk |
+| B4 | Sugar & Stress |
+| B5 | End Of The Party |
+| B6 | Ackee 1 2 3 |
+| C1 | What’s Your Best Thing |
+| C2 | March Of The Swivel Heads (Extended) |
+| C3 | It Makes Me Rock |
+| C4 | I Confess (United States Of America Remix) |
+| C5 | What’S Your Best Thing (Dub Style) |
+| D1 | Doors Of Your Heart (Live) |
+| D2 | I Confess (Live) |
+| D3 | Spar Wid Me (Live) |
+| D4 | Save It For Later (Live) |
 
 
 ## Apple Music

@@ -30,21 +30,21 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Over The Border |  |
-| A2 | I've Got Your Music |  |
-| A3 | Heading For The Fair |  |
-| A4 | Last Days Of Disco |  |
-| A5 | Tonight |  |
-| A6 | Answer Song |  |
-| B1 | Record Doctor |  |
-| B2 | Popular |  |
-| B3 | Twenty Five Years |  |
-| B4 | DJ |  |
-| B5 | When I Was Seventeen |  |
-| B6 | I Threw It All Away |  |
-| B7 | Haunted Jukebox |  |
+| Position | Title |
+|----------|--------|
+| A1 | Over The Border |
+| A2 | I've Got Your Music |
+| A3 | Heading For The Fair |
+| A4 | Last Days Of Disco |
+| A5 | Tonight |
+| A6 | Answer Song |
+| B1 | Record Doctor |
+| B2 | Popular |
+| B3 | Twenty Five Years |
+| B4 | DJ |
+| B5 | When I Was Seventeen |
+| B6 | I Threw It All Away |
+| B7 | Haunted Jukebox |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 | Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP92C |
-| Notes | Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.<br><br>Includes Download.<br><br> |
+| Notes | Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.  Includes Download.   |
 | Discogs URL    | [Saint Etienne - Words And Music By Saint Etienne ](https://www.discogs.com/release/15627233-Saint-Etienne-Words-And-Music-By-Saint-Etienne-) |

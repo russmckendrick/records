@@ -36,19 +36,19 @@ Last Patrol is the ninth studio album by American rock band Monster Magnet, rele
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Live Behind The Clouds |  |
-| A2 | Last Patrol |  |
-| B1 | Three Kingfishers |  |
-| B2 | Paradise |  |
-| B3 | Hallelujah |  |
-| C1 | Mindless Ones |  |
-| C2 | The Duke Of Supernature |  |
-| C3 | End Of Time |  |
-| D1 | Stay Tuned |  |
-| D2 | Strobe Light Beatdown |  |
-| D3 | One Dead Moon |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Live Behind The Clouds |
+| A2 | Last Patrol |
+| B1 | Three Kingfishers |
+| B2 | Paradise |
+| B3 | Hallelujah |
+| C1 | Mindless Ones |
+| C2 | The Duke Of Supernature |
+| C3 | End Of Time |
+| D1 | Stay Tuned |
+| D2 | Strobe Light Beatdown |
+| D3 | One Dead Moon |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Last Patrol is the ninth studio album by American rock band Monster Magnet, rele
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Spinning Goblin Productions |
 | Catalog Number | NPR 490 LP |
-| Notes | Strictly limited edtion. D2 and D3 are bonus tracks.<br>Issued in a gatefold cover with lyrics on the inner spread, includes download code.<br>Tracks on back cover are sequential listed 01 to 11<br><br>C + P 2013 Napalm Records Handel GmbH<br>Made in Germany<br><br>Also issued on [url=https://www.discogs.com/release/5004894]purple[/url], [url=https://www.discogs.com/release/5004917]multicolor splatter[/url] and [url=https://www.discogs.com/release/5035119]orange[/url] vinyl and as [url=https://www.discogs.com/release/5013916]picture disc[/url]. |
+| Notes | Strictly limited edtion. D2 and D3 are bonus tracks. Issued in a gatefold cover with lyrics on the inner spread, includes download code. Tracks on back cover are sequential listed 01 to 11  C + P 2013 Napalm Records Handel GmbH Made in Germany  Also issued on [url=https://www.discogs.com/release/5004894]purple[/url], [url=https://www.discogs.com/release/5004917]multicolor splatter[/url] and [url=https://www.discogs.com/release/5035119]orange[/url] vinyl and as [url=https://www.discogs.com/release/5013916]picture disc[/url]. |
 | Discogs URL    | [Monster Magnet - Last Patrol](https://www.discogs.com/release/5003313-Monster-Magnet-Last-Patrol) |

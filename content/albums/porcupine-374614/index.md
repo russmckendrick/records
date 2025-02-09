@@ -35,18 +35,18 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Cutter | 3:50 |
-| A2 | Back Of Love | 3:12 |
-| A3 | My White Devil | 4:30 |
-| A4 | Clay | 4:10 |
-| A5 | Porcupine | 5:55 |
-| B1 | Heads Will Roll | 3:28 |
-| B2 | Ripeness | 4:46 |
-| B3 | Higher Hell | 5:00 |
-| B4 | Gods Will Be Gods | 4:10 |
-| B5 | In Bluer Skies | 5:55 |
+| Position | Title |
+|----------|--------|
+| A1 | The Cutter |
+| A2 | Back Of Love |
+| A3 | My White Devil |
+| A4 | Clay |
+| A5 | Porcupine |
+| B1 | Heads Will Roll |
+| B2 | Ripeness |
+| B3 | Higher Hell |
+| B4 | Gods Will Be Gods |
+| B5 | In Bluer Skies |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 | Format         | Vinyl LP Album |
 | Label          | Korova |
 | Catalog Number | KODE 6 |
-| Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner.<br>KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.<br><br>A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time. <br><br>℗&© 1983 WEA Records Ltd.<br><br>ZOO MANAGEMENT<br>c/o Korova Records<br>17 Berners Street<br>London, West One <br><br>"PINING FOR THE PORK OF THE PORCUPINE"<br><br>Manufactured in Germany<br>----------------<br>Mastering credit derived from matrix.<br>Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |
+| Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |
 | Discogs URL    | [Echo  The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |

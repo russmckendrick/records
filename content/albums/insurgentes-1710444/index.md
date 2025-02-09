@@ -37,22 +37,22 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harmony Korine | 5:08 |
-| A2 | Abandoner | 4:48 |
-| A3 | Salvaging | 8:17 |
-| B1 | Veneno Para Las Hadas | 5:57 |
-| B2 | No Twilight Within The Courts Of The Sun | 8:37 |
-| B3 | Significant Other | 4:31 |
-| C1 | Only Child | 4:24 |
-| C2 | Twilight Coda | 3:25 |
-| C3 | Get All You Deserve | 6:17 |
-| C4 | Insurgentes | 3:55 |
-| D1 | Port Rubicon | 4:24 |
-| D2 | Puncture Wound | 4:18 |
-| D3 | Collecting Space | 5:10 |
-| D4 | Insurgentes (Mexico) | 4:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Harmony Korine |
+| A2 | Abandoner |
+| A3 | Salvaging |
+| B1 | Veneno Para Las Hadas |
+| B2 | No Twilight Within The Courts Of The Sun |
+| B3 | Significant Other |
+| C1 | Only Child |
+| C2 | Twilight Coda |
+| C3 | Get All You Deserve |
+| C4 | Insurgentes |
+| D1 | Port Rubicon |
+| D2 | Puncture Wound |
+| D3 | Collecting Space |
+| D4 | Insurgentes (Mexico) |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE808 |
-| Notes | The debut solo album from Steven Wilson on double heavyweight (180g) vinyl in a gatefold sleeve.<br>Features 4 bonus tracks not available on the CD/DVD edition.<br>Limited to 2000 copies.<br><br>An international recording written and performed in various locations between Dec 07 - Aug 08, except track D3 written in 2003.<br>Steinway piano on track C4 recorded at St Bartholemew's Church in Brighton.<br>Additional guitar recording at Red Room Recorders, Tampa, Florida.<br>Michiyo Yagi recorded at Sound Pot, Tokyo.<br>London Session Orchestra recorded at Angel Studio, London.<br>Stereo mastering at Masterdisk, New York City.<br>Track D4 written and recorded during the night of 28th February in Ex Templo de Santa Teresa La Antigua, Mexico City.<br>Design for Aleph.<br><br>Steven Wilson uses Paul Reed Smith guitars, Babicz acoustic guitars, Bad Cat amplifiers, Line6 effects, Spector basses, Ernie Ball strings.<br><br>Track C2 is misspelled "Twliight Coda" on the sleeve.<br><br>The copyright in this recording is owned by Steven Wilson under exclusive license to Kscope.<br>℗ 2009 Steven Wilson.<br>© 2009 Steven Wilson. |
+| Notes | The debut solo album from Steven Wilson on double heavyweight (180g) vinyl in a gatefold sleeve. Features 4 bonus tracks not available on the CD/DVD edition. Limited to 2000 copies.  An international recording written and performed in various locations between Dec 07 - Aug 08, except track D3 written in 2003. Steinway piano on track C4 recorded at St Bartholemew's Church in Brighton. Additional guitar recording at Red Room Recorders, Tampa, Florida. Michiyo Yagi recorded at Sound Pot, Tokyo. London Session Orchestra recorded at Angel Studio, London. Stereo mastering at Masterdisk, New York City. Track D4 written and recorded during the night of 28th February in Ex Templo de Santa Teresa La Antigua, Mexico City. Design for Aleph.  Steven Wilson uses Paul Reed Smith guitars, Babicz acoustic guitars, Bad Cat amplifiers, Line6 effects, Spector basses, Ernie Ball strings.  Track C2 is misspelled "Twliight Coda" on the sleeve.  The copyright in this recording is owned by Steven Wilson under exclusive license to Kscope. ℗ 2009 Steven Wilson. © 2009 Steven Wilson. |
 | Discogs URL    | [Steven Wilson - Insurgentes](https://www.discogs.com/release/1710444-Steven-Wilson-Insurgentes) |

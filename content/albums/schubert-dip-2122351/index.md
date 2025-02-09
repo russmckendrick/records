@@ -32,19 +32,19 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Children |  |
-| A2 | Long Summer Days |  |
-| A3 | When You're Mine |  |
-| A4 | Travelling Not Running |  |
-| A5 | I Believe |  |
-| B1 | Unbelievable |  |
-| B2 | Girl Of An Age |  |
-| B3 | Admit It |  |
-| B4 | Lies |  |
-| B5 | Longtime |  |
-| B6 | Untitled |  |
+| Position | Title |
+|----------|--------|
+| A1 | Children |
+| A2 | Long Summer Days |
+| A3 | When You're Mine |
+| A4 | Travelling Not Running |
+| A5 | I Believe |
+| B1 | Unbelievable |
+| B2 | Girl Of An Age |
+| B3 | Admit It |
+| B4 | Lies |
+| B5 | Longtime |
+| B6 | Untitled |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 | Format         | Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | PCS 7353 |
-| Notes | Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.<br><br>Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".<br><br>Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"<br><br>[Record labels, rim text]<br>Manufactured in England by EMI Records Limited<br><br>[Record label side A]<br>℗ 1991... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Record label side B]<br>℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Inner sleeve, back cover]<br>℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Back cover]<br>℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br>Sleeve printed in England. Manufactured in England. SP9105GU<br><br>[Runouts]<br>All runout data is stamped. |
+| Notes | Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.  Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".  Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"  [Record labels, rim text] Manufactured in England by EMI Records Limited  [Record label side A] ℗ 1991... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Record label side B] ℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Inner sleeve, back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd. Sleeve printed in England. Manufactured in England. SP9105GU  [Runouts] All runout data is stamped. |
 | Discogs URL    | [EMF - Schubert Dip](https://www.discogs.com/release/2122351-EMF-Schubert-Dip) |

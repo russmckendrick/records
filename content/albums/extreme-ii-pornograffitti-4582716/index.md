@@ -30,20 +30,20 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Decadence Dance | 6:49 |
-| A2 | Li'l Jack Horny | 4:52 |
-| A3 | When I'm President | 4:22 |
-| A4 | Get The Funk Out | 4:24 |
-| A5 | More Than Words | 5:34 |
-| A6 | Money (In God We Trust) | 4:11 |
-| B1 | It ('s A Monster) | 4:25 |
-| B2 | Pornograffitti | 6:16 |
-| B3 | When I First Kissed You | 4:00 |
-| B4 | Suzi (Wants Her All Day What?) | 3:39 |
-| B5 | He-Man Woman Hater | 6:19 |
-| B6 | Song For Love | 5:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Decadence Dance |
+| A2 | Li'l Jack Horny |
+| A3 | When I'm President |
+| A4 | Get The Funk Out |
+| A5 | More Than Words |
+| A6 | Money (In God We Trust) |
+| B1 | It ('s A Monster) |
+| B2 | Pornograffitti |
+| B3 | When I First Kissed You |
+| B4 | Suzi (Wants Her All Day What?) |
+| B5 | He-Man Woman Hater |
+| B6 | Song For Love |
 
 
 ## Apple Music

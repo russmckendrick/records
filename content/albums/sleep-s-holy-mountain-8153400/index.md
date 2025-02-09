@@ -26,17 +26,17 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dragonaut |  |
-| A2 | The Druid |  |
-| A3 | Evil Gypsy / Solomon's Theme |  |
-| A4 | Some Grass |  |
-| A5 | Aquarian |  |
-| B1 | Holy Mountain |  |
-| B2 | Inside The Sun |  |
-| B3 | From Beyond |  |
-| B4 | Nain's Baptism |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dragonaut |
+| A2 | The Druid |
+| A3 | Evil Gypsy / Solomon's Theme |
+| A4 | Some Grass |
+| A5 | Aquarian |
+| B1 | Holy Mountain |
+| B2 | Inside The Sun |
+| B3 | From Beyond |
+| B4 | Nain's Baptism |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Earache |
 | Catalog Number | MOSH079FDR |
-| Notes | New edition on black vinyl with different matrix. Same layout as the [url=https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007]2015[/url] press.<br><br>Comes with printed inner sleeve.<br><br>There is also [url=http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920]mispress[/url] version on black vinyl, the copies were not issued for general sale. |
+| Notes | New edition on black vinyl with different matrix. Same layout as the [url=https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007]2015[/url] press.  Comes with printed inner sleeve.  There is also [url=http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920]mispress[/url] version on black vinyl, the copies were not issued for general sale. |
 | Discogs URL    | [Sleep - Sleep's Holy Mountain](https://www.discogs.com/release/8153400-Sleep-Sleeps-Holy-Mountain) |

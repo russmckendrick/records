@@ -31,9 +31,9 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Weekender | 12:53 |
+| Position | Title |
+|----------|--------|
+| A | Weekender |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM Single Sided |
 | Label          | Heavenly |
 | Catalog Number | HVN 16 |
-| Notes | Recorded at Westside Studios, London.<br><br>© 1992 Sony Music Entertainment (UK) Ltd.<br>℗ 1992 Sony Music Entertainment (UK) Ltd. |
+| Notes | Recorded at Westside Studios, London.    © 1992 Sony Music Entertainment (UK) Ltd.  ℗ 1992 Sony Music Entertainment (UK) Ltd. |
 | Discogs URL    | [Flowered Up - Weekender](https://www.discogs.com/release/663259-Flowered-Up-Weekender) |

@@ -37,18 +37,18 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cosmic Thing | 3:50 |
-| A2 | Dry County | 4:54 |
-| A3 | Deadbeat Club | 4:45 |
-| A4 | Love Shack | 5:21 |
-| A5 | Junebug | 5:04 |
-| B1 | Roam | 4:54 |
-| B2 | Bushfire | 4:58 |
-| B3 | Channel Z | 4:49 |
-| B4 | Topaz | 4:20 |
-| B5 | Follow Your Bliss | 4:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Cosmic Thing |
+| A2 | Dry County |
+| A3 | Deadbeat Club |
+| A4 | Love Shack |
+| A5 | Junebug |
+| B1 | Roam |
+| B2 | Bushfire |
+| B3 | Channel Z |
+| B4 | Topaz |
+| B5 | Follow Your Bliss |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Rainbow) |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 25854 |
-| Notes | Sticker:<br>Exclusive Rainbow Vinyl<br>Features: "Love Shack", "Roam" & "Channel Z"<br>Limited to 4500 copies.<br><br>Includes printed inner sleeve containing lyrics, credits, and photograph. |
+| Notes | Sticker: Exclusive Rainbow Vinyl Features: "Love Shack", "Roam" & "Channel Z" Limited to 4500 copies.  Includes printed inner sleeve containing lyrics, credits, and photograph. |
 | Discogs URL    | [The B-52s - Cosmic Thing](https://www.discogs.com/release/12830083-The-B-52s-Cosmic-Thing) |

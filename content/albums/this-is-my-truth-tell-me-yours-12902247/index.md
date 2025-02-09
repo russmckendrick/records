@@ -39,21 +39,21 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Everlasting |  |
-| A2 | If You Tolerate This Your Children Will Be Next |  |
-| A3 | You Stole The Sun From My Heart |  |
-| B1 | Ready For Drowning |  |
-| B2 | Tsunami |  |
-| B3 | My Little Empire |  |
-| C1 | I'm Not Working |  |
-| C2 | You're Tender And You're Tired |  |
-| C3 | Born A Girl |  |
-| C4 | Be Natural |  |
-| D1 | Black Dog On My Shoulder |  |
-| D2 | Prologue To History |  |
-| D3 | S.Y.M.M. |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Everlasting |
+| A2 | If You Tolerate This Your Children Will Be Next |
+| A3 | You Stole The Sun From My Heart |
+| B1 | Ready For Drowning |
+| B2 | Tsunami |
+| B3 | My Little Empire |
+| C1 | I'm Not Working |
+| C2 | You're Tender And You're Tired |
+| C3 | Born A Girl |
+| C4 | Be Natural |
+| D1 | Black Dog On My Shoulder |
+| D2 | Prologue To History |
+| D3 | S.Y.M.M. |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Sony Music |
 | Catalog Number | 19075895241 |
-| Notes | 20th Anniversary Collectors’ Edition<br><br>Gatefold sleeve<br>Printed inner sleeves<br>Double180 gram vinyl<br>Includes mp3 download card and a poster.<br><br>Made in the EU.<br> |
+| Notes | 20th Anniversary Collectors’ Edition  Gatefold sleeve Printed inner sleeves Double180 gram vinyl Includes mp3 download card and a poster.  Made in the EU.  |
 | Discogs URL    | [Manic Street Preachers - This Is My Truth Tell Me Yours](https://www.discogs.com/release/12902247-Manic-Street-Preachers-This-Is-My-Truth-Tell-Me-Yours) |

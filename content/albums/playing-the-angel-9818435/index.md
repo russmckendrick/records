@@ -38,20 +38,20 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Pain That I'm Used To |  |
-| A2 | John The Revelator |  |
-| A3 | Suffer Well |  |
-| B1 | The Sinner In Me |  |
-| B2 | Precious |  |
-| B3 | Macro |  |
-| C1 | I Want It All |  |
-| C2 | Nothing's Impossible |  |
-| C3 | Introspectre |  |
-| C4 | Damaged People |  |
-| D1 | Lilian |  |
-| D2 | The Darkest Star |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Pain That I'm Used To |
+| A2 | John The Revelator |
+| A3 | Suffer Well |
+| B1 | The Sinner In Me |
+| B2 | Precious |
+| B3 | Macro |
+| C1 | I Want It All |
+| C2 | Nothing's Impossible |
+| C3 | Introspectre |
+| C4 | Damaged People |
+| D1 | Lilian |
+| D2 | The Darkest Star |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88985336991 |
-| Notes | ℗ 2005 Venusnote Ltd. under exclusive license to<br>Sony Music Entertainment International Ltd.<br>© 2005, 2016 Venusnote Ltd. under exclusive <br>license to Sony Music Entertainment International <br>Ltd. / Distributed by Sony Music Entertainment. /<br>All trademarks and logos are protected. / Made <br>in the EU. / Sony Music Entertainment International<br>Services GmbH, PO Box 510, 33311 Gütersloh,<br>Germany. / LC 05834 / 88985336991.<br><br>Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.<br><br>The runout strings are etched. |
+| Notes | ℗ 2005 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2005, 2016 Venusnote Ltd. under exclusive  license to Sony Music Entertainment International  Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made  in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336991.  Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.  The runout strings are etched. |
 | Discogs URL    | [Depeche Mode - Playing The Angel](https://www.discogs.com/release/9818435-Depeche-Mode-Playing-The-Angel) |

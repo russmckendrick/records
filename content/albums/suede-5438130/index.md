@@ -35,19 +35,19 @@ The album was preceded by what Rolling Stone called "its triptych of instantly c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | So Young | 3:38 |
-| A2 | Animal Nitrate | 3:27 |
-| A3 | She's Not Dead | 4:33 |
-| A4 | Moving | 2:51 |
-| A5 | Pantomime Horse | 5:50 |
-| B1 | The Drowners | 4:10 |
-| B2 | Sleeping Pills | 3:51 |
-| B3 | Breakdown  | 6:03 |
-| B4 | Metal Mickey | 3:28 |
-| B5 | Animal Lover | 4:18 |
-| B6 | The Next Life | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | So Young |
+| A2 | Animal Nitrate |
+| A3 | She's Not Dead |
+| A4 | Moving |
+| A5 | Pantomime Horse |
+| B1 | The Drowners |
+| B2 | Sleeping Pills |
+| B3 | Breakdown  |
+| B4 | Metal Mickey |
+| B5 | Animal Lover |
+| B6 | The Next Life |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album was preceded by what Rolling Stone called "its triptych of instantly c
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 1 |
-| Notes | 2014 Demon Records reissue on 180g vinyl.  <br>Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon.<br>Though reissued in 2014, copyright notice states '(c) 2013.' |
+| Notes | 2014 Demon Records reissue on 180g vinyl.   Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon. Though reissued in 2014, copyright notice states '(c) 2013.' |
 | Discogs URL    | [Suede - Suede](https://www.discogs.com/release/5438130-Suede-Suede) |

@@ -54,70 +54,70 @@ Let It Be topped record charts in several countries, including both the UK and t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Let It Be |  |
-| A1 | Two Of Us |  |
-| A2 | Dig A Pony |  |
-| A3 | Across The Universe |  |
-| A4 | I Me Mine |  |
-| A5 | Dig It |  |
-| A6 | Let It Be |  |
-| A7 | Maggie Mae |  |
-| B1 | I've Got A Feeling |  |
-| B2 | One After 909 |  |
-| B3 | The Long And Winding Road |  |
-| B4 | For You Blue |  |
-| B5 | Get Back |  |
-|  | Get Back - Apple Sessions |  |
-| C1 | Morning Camera (Speech - Mono) / Two Of Us (Take 4) |  |
-| C2 | Maggie Mae / Fancy My Chances With You (Mono) |  |
-| C3 | Can You Dig It? |  |
-| C4 | Don't Know Why I'm Moaning (Speech – Mono) |  |
-| C5 | For You Blue (Take 4) |  |
-| C6 | Let It Be / Please Please Me / Let It Be (Take 10) |  |
-| C7 | I've Got A Feeling (Take 10) |  |
-| D1 | Dig A Pony (Take 14) |  |
-| D2 | Get Back (Take 19) |  |
-| D3 | Like Making An Album? (Speech) |  |
-| D4 | One After 909  (Take 3) |  |
-| D5 | Don't Let Me Down (First Rooftop Performance) |  |
-| D6 | The Long And Winding Road (Take 19) |  |
-| D7 | Wake Up Little Suzie / I Me Mine (Take 11) |  |
-|  | Get Back - Rehearsals And Apple Jams |  |
-| E1 | On The Day Shift Now (Speech – Mono) / All Things Must Pass (Rehearsals – Mono) |  |
-| E2 | Concentrate On The Sound (Mono) |  |
-| E3 | Gimme Some Truth (Rehearsal – Mono) |  |
-| E4 | I Me Mine (Rehearsal – Mono) |  |
-| E5 | She Came In Through The Bathroom Window (Rehearsal) |  |
-| E6 | Polythene Pam (Rehearsal – Mono) |  |
-| E7 | Octopus's Garden (Rehearsal – Mono) |  |
-| F1 | Oh! Darling (Jam) |  |
-| F2 | Get Back (Take 8) |  |
-| F3 | The Walk (Jam) |  |
-| F4 | Without A Song (Jam) – Billy Preston With John And Ringo |  |
-| F5 | Something (Rehearsal – Mono) |  |
-| F6 | Let It Be (Take 28) |  |
-|  | Get Back - 1969 Glyn Johns Mix |  |
-| G1 | One After 909 |  |
-| G2 | I'm Ready (AKA Rocker) / Save The Last Dance For Me / Don't Let Me Down |  |
-| G3 | Don't Let Me Down |  |
-| G4 | Dig A Pony |  |
-| G5 | I've Got A Feeling |  |
-| G6 | Get Back |  |
-| H1 | For You Blue |  |
-| H2 | Teddy Boy |  |
-| H3 | Two Of Us |  |
-| H4 | Maggie Mae |  |
-| H5 | Dig It |  |
-| H6 | Let It Be |  |
-| H7 | The Long And Winding Road |  |
-| H8 | Get Back (Reprise) |  |
-|  | Let It Be EP |  |
-| I1 | Across The Universe (Unreleased Glyn Johns 1970 Mix) |  |
-| I2 | I Me Mine (Unreleased Glyn Johns 1970 Mix) |  |
-| J1 | Don't Let Me Down (New Mix Of Original Single Version) |  |
-| J2 | Let It Be (New Mix Of Original Single Version) |  |
+| Position | Title |
+|----------|--------|
+|  | Let It Be |
+| A1 | Two Of Us |
+| A2 | Dig A Pony |
+| A3 | Across The Universe |
+| A4 | I Me Mine |
+| A5 | Dig It |
+| A6 | Let It Be |
+| A7 | Maggie Mae |
+| B1 | I've Got A Feeling |
+| B2 | One After 909 |
+| B3 | The Long And Winding Road |
+| B4 | For You Blue |
+| B5 | Get Back |
+|  | Get Back - Apple Sessions |
+| C1 | Morning Camera (Speech - Mono) / Two Of Us (Take 4) |
+| C2 | Maggie Mae / Fancy My Chances With You (Mono) |
+| C3 | Can You Dig It? |
+| C4 | Don't Know Why I'm Moaning (Speech – Mono) |
+| C5 | For You Blue (Take 4) |
+| C6 | Let It Be / Please Please Me / Let It Be (Take 10) |
+| C7 | I've Got A Feeling (Take 10) |
+| D1 | Dig A Pony (Take 14) |
+| D2 | Get Back (Take 19) |
+| D3 | Like Making An Album? (Speech) |
+| D4 | One After 909  (Take 3) |
+| D5 | Don't Let Me Down (First Rooftop Performance) |
+| D6 | The Long And Winding Road (Take 19) |
+| D7 | Wake Up Little Suzie / I Me Mine (Take 11) |
+|  | Get Back - Rehearsals And Apple Jams |
+| E1 | On The Day Shift Now (Speech – Mono) / All Things Must Pass (Rehearsals – Mono) |
+| E2 | Concentrate On The Sound (Mono) |
+| E3 | Gimme Some Truth (Rehearsal – Mono) |
+| E4 | I Me Mine (Rehearsal – Mono) |
+| E5 | She Came In Through The Bathroom Window (Rehearsal) |
+| E6 | Polythene Pam (Rehearsal – Mono) |
+| E7 | Octopus's Garden (Rehearsal – Mono) |
+| F1 | Oh! Darling (Jam) |
+| F2 | Get Back (Take 8) |
+| F3 | The Walk (Jam) |
+| F4 | Without A Song (Jam) – Billy Preston With John And Ringo |
+| F5 | Something (Rehearsal – Mono) |
+| F6 | Let It Be (Take 28) |
+|  | Get Back - 1969 Glyn Johns Mix |
+| G1 | One After 909 |
+| G2 | I'm Ready (AKA Rocker) / Save The Last Dance For Me / Don't Let Me Down |
+| G3 | Don't Let Me Down |
+| G4 | Dig A Pony |
+| G5 | I've Got A Feeling |
+| G6 | Get Back |
+| H1 | For You Blue |
+| H2 | Teddy Boy |
+| H3 | Two Of Us |
+| H4 | Maggie Mae |
+| H5 | Dig It |
+| H6 | Let It Be |
+| H7 | The Long And Winding Road |
+| H8 | Get Back (Reprise) |
+|  | Let It Be EP |
+| I1 | Across The Universe (Unreleased Glyn Johns 1970 Mix) |
+| I2 | I Me Mine (Unreleased Glyn Johns 1970 Mix) |
+| J1 | Don't Let Me Down (New Mix Of Original Single Version) |
+| J2 | Let It Be (New Mix Of Original Single Version) |
 
 
 ## Apple Music
@@ -135,5 +135,5 @@ Let It Be topped record charts in several countries, including both the UK and t
 | Format         | Box Set Deluxe Edition, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Compilation Stereo Mono, Vinyl LP Remastered Stereo, Vinyl 12" 45 RPM EP Stereo |
 | Label          | Apple Records |
 | Catalog Number | 0602507138899 |
-| Notes | The Super Deluxe Vinyl Special Edition slipcase box set houses 4 LPs, a 12"/45rpm EP, and a 108-page hardbound book in slipcase.<br><br>Comes with a black sticker on shrink:<br>"The Beatles. Let it be. 5 LP edition.<br>New mixes by Giles Martin and Sam OKell. Let it be + 2 LPs of outtakes, jams, rehearsals and studio chat plus 'Get back' album (1969 mix by Glyn Johns) + Let it be EP.<br>180gm heavyweight vinyl half-speed mastered at Abbey Road.<br>100-page hardback book with in-depth essays, track-by-track recording information and foreword by Paul McCartney".<br>+ additional release icons/barcode/notes.<br><br>Made in Germany.<br><br>Runouts are hand-etched. In runouts, all Optimal plating symbol may be mirrored (“⊥” vs “T”) and/or inverted ("△1 vs ”△↾”). To enable searchability, these special Unicode characters have been replaced in the runout field by standard letters. See [url=https://www.discogs.com/group/thread/809508]Common runout groove etchings V8[/url], guidance (8)(a)(b)(c). |
+| Notes | The Super Deluxe Vinyl Special Edition slipcase box set houses 4 LPs, a 12"/45rpm EP, and a 108-page hardbound book in slipcase.  Comes with a black sticker on shrink: "The Beatles. Let it be. 5 LP edition. New mixes by Giles Martin and Sam OKell. Let it be + 2 LPs of outtakes, jams, rehearsals and studio chat plus 'Get back' album (1969 mix by Glyn Johns) + Let it be EP. 180gm heavyweight vinyl half-speed mastered at Abbey Road. 100-page hardback book with in-depth essays, track-by-track recording information and foreword by Paul McCartney". + additional release icons/barcode/notes.  Made in Germany.  Runouts are hand-etched. In runouts, all Optimal plating symbol may be mirrored (“⊥” vs “T”) and/or inverted ("△1 vs ”△↾”). To enable searchability, these special Unicode characters have been replaced in the runout field by standard letters. See [url=https://www.discogs.com/group/thread/809508]Common runout groove etchings V8[/url], guidance (8)(a)(b)(c). |
 | Discogs URL    | [The Beatles - Let It Be](https://www.discogs.com/release/20583457-The-Beatles-Let-It-Be) |

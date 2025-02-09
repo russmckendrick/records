@@ -25,18 +25,18 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burning Heart |  |
-| A2 | Heart's On Fire |  |
-| A3 | Double Or Nothing |  |
-| A4 | Eye Of The Tiger |  |
-| A5 | War / Fanfare From Rocky |  |
-| B1 | Living In America |  |
-| B2 | No Easy Way Out |  |
-| B3 | One Way Street |  |
-| B4 | The Sweetest Victory |  |
-| B5 | Training Montage |  |
+| Position | Title |
+|----------|--------|
+| A1 | Burning Heart |
+| A2 | Heart's On Fire |
+| A3 | Double Or Nothing |
+| A4 | Eye Of The Tiger |
+| A5 | War / Fanfare From Rocky |
+| B1 | Living In America |
+| B2 | No Easy Way Out |
+| B3 | One Way Street |
+| B4 | The Sweetest Victory |
+| B5 | Training Montage |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl LP Limited Edition Numbered Reissue (Clear) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM062 |
-| Notes | Limited to 1000 individually-numbered copies.<br><br>PVC protective sleeve included<br>180 Gram Audiophile Vinyl |
+| Notes | Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl |
 | Discogs URL    | [Various - Rocky IV (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8300839-Various-Rocky-IV-Original-Motion-Picture-Soundtrack) |

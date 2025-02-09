@@ -40,16 +40,16 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Finding My Way | 5:03 |
-| A2 | Need Some Love | 2:16 |
-| A3 | Take A Friend | 4:27 |
-| A4 | Here Again | 7:30 |
-| B1 | What You're Doing | 4:19 |
-| B2 | In The Mood | 3:36 |
-| B3 | Before And After | 5:33 |
-| B4 | Working Man | 7:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Finding My Way |
+| A2 | Need Some Love |
+| A3 | Take A Friend |
+| A4 | Here Again |
+| B1 | What You're Doing |
+| B2 | In The Mood |
+| B3 | Before And After |
+| B4 | Working Man |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (200 Gram), Box Set |
 | Label          | Moon Records (18) |
 | Catalog Number | MN 100 |
-| Notes | ReDISCovered<br>- Limited edition 200g 40th anniversary reissue of 1974 Moon Records album<br>- Jacket art features all original 1974 details<br>- Exclusive poster, band photo prints and Rush family tree<br>- Digital download card - 320 kbps<br>- Vinyl ripped AAC MP4s<br>- Direct Metal Mastering DMM<br><br>Published by Core Music, CAPAC<br>Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios<br>Tracks A3 and B1 to B4 recorded at Eastern Sound<br>Remixed at Toronto Sound<br><br>DMM Mastering at Abbey Road Studios - December 2013<br><br>Moon Records is a subsidiary of SRO Productions Ltd.<br><br>℗ © 2014 The Island Def Jam Music Group<br><br>On center labels:<br>℗ 1974 S.R.O. Productions<br>All selections - MAPL<br><br>[url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release<br>[url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |
+| Notes | ReDISCovered - Limited edition 200g 40th anniversary reissue of 1974 Moon Records album - Jacket art features all original 1974 details - Exclusive poster, band photo prints and Rush family tree - Digital download card - 320 kbps - Vinyl ripped AAC MP4s - Direct Metal Mastering DMM  Published by Core Music, CAPAC Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios Tracks A3 and B1 to B4 recorded at Eastern Sound Remixed at Toronto Sound  DMM Mastering at Abbey Road Studios - December 2013  Moon Records is a subsidiary of SRO Productions Ltd.  ℗ © 2014 The Island Def Jam Music Group  On center labels: ℗ 1974 S.R.O. Productions All selections - MAPL  [url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release [url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |
 | Discogs URL    | [Rush - Rush](https://www.discogs.com/release/5887416-Rush-Rush) |

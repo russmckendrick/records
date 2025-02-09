@@ -32,53 +32,53 @@ The mix definitively dynamites the idea that different styles should be kept apa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1.1 | Peter Gunn (Live) | 2:49 |
-| A1.2 | Where's Your Head At (Head-A-Pella) |  |
-| A2 | Fuck The Pain Away | 1:38 |
-| A3 | I'm Waiting For The Man | 0:57 |
-| A4.1 | J'Aime Regarder Les Mecs | 0:57 |
-| A4.2 | Dance To The Music |  |
-| A4.3 | Oh Sheila (A Capella) |  |
-| A5 | I Wanna Be Your Dog | 1:44 |
-| A6 | Disko Kings | 1:28 |
-| A7.1 | The "O" Medley | 2:56 |
-| A7.2 | Silverscreen-Shower Scene |  |
-| B1.1 | No Fun | 2:31 |
-| B1.2 | Push It |  |
-| B2.1 | Joe Le Taxi | 2:28 |
-| B2.2 | Crush On You (A Capella) |  |
-| B3.1 | Funkacise | 3:03 |
-| B3.2 | Motocross Madness |  |
-| B3.3 | French Kiss |  |
-| B4 | Serious Trouble | 1:38 |
-| B5 | Androgyny 'Thee Glitz Mix' By Felix Da Housecat | 1:16 |
-| B6.1 | Disc Jockey's Delight Vol. 2 | 2:30 |
-| B6.2 | Kaw-Liga (Prairie Mix) |  |
-| B7 | Shake Your Body | 2:11 |
-| B8 | Into The Stars (Firebirds Remix) | 0:58 |
-| B9.1 | Concepts | 1:37 |
-| B9.2 | 99 Luftballons |  |
-| C1.1 | Independent Women Part 1 (A Capella) | 3:30 |
-| C1.2 | Dreadlock Holiday |  |
-| C2.1 | 9 To 5 | 2:29 |
-| C2.2 | Eple |  |
-| C3 | Death Disco | 0:43 |
-| C4 | Keine Melodien | 1:46 |
-| C5.1 | I Wish (A Cappella) | 3:30 |
-| C5.2 | My Gigolo |  |
-| C5.3 | Cannonball |  |
-| D1 | Human Fly | 1:33 |
-| D2 | Danger! High Voltage | 1:42 |
-| D3 | Don't Bring Me Down | 1:57 |
-| D4 | Hand To Phone | 1:40 |
-| D5 | La Rock 01 | 2:37 |
-| D6 | I Was Made For Loving You | 1:59 |
-| D7.1 | The Beach | 2:12 |
-| D7.2 | Sandwiches (A Capella) |  |
-| D8 | I Sit On Acid (Soulwax Remix) | 2:56 |
-| D9 | Start Button | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1.1 | Peter Gunn (Live) |
+| A1.2 | Where's Your Head At (Head-A-Pella) |
+| A2 | Fuck The Pain Away |
+| A3 | I'm Waiting For The Man |
+| A4.1 | J'Aime Regarder Les Mecs |
+| A4.2 | Dance To The Music |
+| A4.3 | Oh Sheila (A Capella) |
+| A5 | I Wanna Be Your Dog |
+| A6 | Disko Kings |
+| A7.1 | The "O" Medley |
+| A7.2 | Silverscreen-Shower Scene |
+| B1.1 | No Fun |
+| B1.2 | Push It |
+| B2.1 | Joe Le Taxi |
+| B2.2 | Crush On You (A Capella) |
+| B3.1 | Funkacise |
+| B3.2 | Motocross Madness |
+| B3.3 | French Kiss |
+| B4 | Serious Trouble |
+| B5 | Androgyny 'Thee Glitz Mix' By Felix Da Housecat |
+| B6.1 | Disc Jockey's Delight Vol. 2 |
+| B6.2 | Kaw-Liga (Prairie Mix) |
+| B7 | Shake Your Body |
+| B8 | Into The Stars (Firebirds Remix) |
+| B9.1 | Concepts |
+| B9.2 | 99 Luftballons |
+| C1.1 | Independent Women Part 1 (A Capella) |
+| C1.2 | Dreadlock Holiday |
+| C2.1 | 9 To 5 |
+| C2.2 | Eple |
+| C3 | Death Disco |
+| C4 | Keine Melodien |
+| C5.1 | I Wish (A Cappella) |
+| C5.2 | My Gigolo |
+| C5.3 | Cannonball |
+| D1 | Human Fly |
+| D2 | Danger! High Voltage |
+| D3 | Don't Bring Me Down |
+| D4 | Hand To Phone |
+| D5 | La Rock 01 |
+| D6 | I Was Made For Loving You |
+| D7.1 | The Beach |
+| D7.2 | Sandwiches (A Capella) |
+| D8 | I Sit On Acid (Soulwax Remix) |
+| D9 | Start Button |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ The mix definitively dynamites the idea that different styles should be kept apa
 | Format         | Vinyl 2× LP Mixed Reissue Repress (Gatefold) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR565DLPR |
-| Notes | ­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam.<br>Made in the EU.<br><br>Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"<br><br>First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition.<br> |
+| Notes | ­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam. Made in the EU.  Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"  First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition.  |
 | Discogs URL    | [2 Many DJs - As Heard On Radio Soulwax Pt.2](https://www.discogs.com/release/24877952-2manydjs-As-Heard-On-Radio-Soulwax-Pt2) |

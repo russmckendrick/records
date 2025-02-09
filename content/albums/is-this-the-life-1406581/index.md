@@ -30,10 +30,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Is This The Life |  |
-| B | I'm Eating In Bed |  |
+| Position | Title |
+|----------|--------|
+| A | Is This The Life |
+| B | I'm Eating In Bed |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 7" 45 RPM Single |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | alph 008Sp |
-| Notes | 'Is This The Life' is taken from the Cardiacs L.P. '[m=36059]'. (The Alphabet Business Concern CAT No: ALPH LP007 distributed by pinnacle).<br><br>Is This The Life has been edited down to approx 3:10 mins.<br><br>© 1988<br><br>Runouts: all hand-etched. |
+| Notes | 'Is This The Life' is taken from the Cardiacs L.P. '[m=36059]'. (The Alphabet Business Concern CAT No: ALPH LP007 distributed by pinnacle).  Is This The Life has been edited down to approx 3:10 mins.  © 1988  Runouts: all hand-etched. |
 | Discogs URL    | [Cardiacs - Is This The Life](https://www.discogs.com/release/1406581-Cardiacs-Is-This-The-Life) |

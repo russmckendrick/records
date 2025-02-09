@@ -45,16 +45,16 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologus |  |
-| A2 | Alföður Orkar |  |
-| B1 | Dvergmál |  |
-| B2 | Stendur Æva |  |
-| C1 | Áss Hinn Hvíti  |  |
-| C2 | Hvert Stefnir |  |
-| D1 | Spár Eða Spakmál |  |
-| D2 | Dagrenning |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prologus |
+| A2 | Alföður Orkar |
+| B1 | Dvergmál |
+| B2 | Stendur Æva |
+| C1 | Áss Hinn Hvíti  |
+| C2 | Hvert Stefnir |
+| D1 | Spár Eða Spakmál |
+| D2 | Dagrenning |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 | Format         | Vinyl 2× LP Album |
 | Label          | Krúnk |
 | Catalog Number | KRUNK41LP |
-| Notes | Standard double gatefold black-vinyl edition.<br>Some issues with round black sticker on front of shrink wrap.<br>Sticker with barcode, label logo & reference on back of shrink wrap.<br><br>See images section. |
+| Notes | Standard double gatefold black-vinyl edition. Some issues with round black sticker on front of shrink wrap. Sticker with barcode, label logo & reference on back of shrink wrap.  See images section. |
 | Discogs URL    | [Sigur Rós - Odin's Raven Magic](https://www.discogs.com/release/16306752-Sigur-Rós-With-Steindór-Andersen-Hilmar-Örn-Hilmarsson-And-María-Huld-Markan-Sigfúsdóttir-Odin) |

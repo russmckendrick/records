@@ -28,24 +28,24 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Boom Boom | 2:31 |
-| A2 | Crawlin' King Snake | 2:39 |
-| A3 | Shake It Baby | 4:13 |
-| A4 | I'm In The Mood | 2:39 |
-| A5  | No Shoes | 2:23 |
-| A6 | Little Wheel | 2:33 |
-| A7 | Solid Sender | 2:28 |
-| A8 | Boogie Chillun | 2:29 |
-| B1 | Dimples | 2:08 |
-| B2 | Hobo Blues | 2:41 |
-| B3 | I Love You Honey | 2:28 |
-| B4 | I'm So Excited | 2:46 |
-| B5 | Leave My Wife Alone | 2:43 |
-| B6 | Every Night | 2:52 |
-| B7 | I'm Prison Bound | 3:56 |
-| B8  | Sugar Mama | 3:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Boom Boom |
+| A2 | Crawlin' King Snake |
+| A3 | Shake It Baby |
+| A4 | I'm In The Mood |
+| A5  | No Shoes |
+| A6 | Little Wheel |
+| A7 | Solid Sender |
+| A8 | Boogie Chillun |
+| B1 | Dimples |
+| B2 | Hobo Blues |
+| B3 | I Love You Honey |
+| B4 | I'm So Excited |
+| B5 | Leave My Wife Alone |
+| B6 | Every Night |
+| B7 | I'm Prison Bound |
+| B8  | Sugar Mama |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: []
 | Format         | Vinyl LP Compilation |
 | Label          | Not Now Music |
 | Catalog Number | CATLP126 |
-| Notes | This Compilation ℗ & © 2016 Not Now Music Limited.<br>Distributed By Not Now Music Limited.<br>Made In The E.U. (on back cover).<br><br>Glossy jacket with white paper inner sleeve.<br>Artwork similar to [r6536180] but with five different tracks. |
+| Notes | This Compilation ℗ & © 2016 Not Now Music Limited. Distributed By Not Now Music Limited. Made In The E.U. (on back cover).  Glossy jacket with white paper inner sleeve. Artwork similar to [r6536180] but with five different tracks. |
 | Discogs URL    | [John Lee Hooker - The Very Best Of John Lee Hooker](https://www.discogs.com/release/8578752-John-Lee-Hooker-The-Very-Best-Of-John-Lee-Hooker) |

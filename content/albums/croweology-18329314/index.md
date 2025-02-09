@@ -44,28 +44,28 @@ Croweology is an acoustic-based album by American rock band The Black Crowes, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jealous Again |  |
-| A2 | Share The Ride |  |
-| A3 | Remedy |  |
-| B1 | Non-Fiction |  |
-| B2 | Hotel Illness |  |
-| B3 | Soul Singing |  |
-| C1 | Ballad In Urgency |  |
-| C2 | Wiser Time |  |
-| C3 | Cold Boy Smile |  |
-| D1 | Under A Mountain |  |
-| D2 | She Talks To Angels |  |
-| D3 | Morning Song |  |
-| D4 | Downtown Money Waster |  |
-| E1 | Good Friday |  |
-| E2 | Thorn In My Pride |  |
-| E3 | Welcome To The Good Times |  |
-| F1 | Girl From A Pawnshop |  |
-| F2 | Sister Luck |  |
-| F3 | She |  |
-| F4 | Bad Luck Blue Eyes Goodbye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Jealous Again |
+| A2 | Share The Ride |
+| A3 | Remedy |
+| B1 | Non-Fiction |
+| B2 | Hotel Illness |
+| B3 | Soul Singing |
+| C1 | Ballad In Urgency |
+| C2 | Wiser Time |
+| C3 | Cold Boy Smile |
+| D1 | Under A Mountain |
+| D2 | She Talks To Angels |
+| D3 | Morning Song |
+| D4 | Downtown Money Waster |
+| E1 | Good Friday |
+| E2 | Thorn In My Pride |
+| E3 | Welcome To The Good Times |
+| F1 | Girl From A Pawnshop |
+| F2 | Sister Luck |
+| F3 | She |
+| F4 | Bad Luck Blue Eyes Goodbye |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Croweology is an acoustic-based album by American rock band The Black Crowes, re
 | Format         | Vinyl 3× LP Album Limited Edition Reissue Stereo (10th Anniversary, Gold + Black) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR 03 LP |
-| Notes | Hype Sticker: "10th Anniversary Edition Gold Vinyl"<br>Gatefold pop-up sleeve.<br>Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.<br><br>℗ & © 2010 Silver Arrow Records, Inc.<br><br>Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release) |
+| Notes | Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release) |
 | Discogs URL    | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314-The-Black-Crowes-Croweology) |

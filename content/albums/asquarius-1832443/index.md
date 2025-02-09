@@ -32,20 +32,20 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rich And Strange | 3:39 |
-| A2 | Easy | 2:45 |
-| A3 | Sometimes Rightly, Sometimes Wrongly | 3:10 |
-| A4 | Spanish Love Song | 3:26 |
-| A5 | Magic Alex | 4:16 |
-| A6 | Beyond Hair | 3:11 |
-| B1 | Pink Flamingo | 3:51 |
-| B2 | Possession | 3:42 |
-| B3 | Through The Roof | 3:59 |
-| B4 | Soul Food | 2:55 |
-| B5 | Once Again | 5:07 |
-| B6 | No Smoking | 3:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Rich And Strange |
+| A2 | Easy |
+| A3 | Sometimes Rightly, Sometimes Wrongly |
+| A4 | Spanish Love Song |
+| A5 | Magic Alex |
+| A6 | Beyond Hair |
+| B1 | Pink Flamingo |
+| B2 | Possession |
+| B3 | Through The Roof |
+| B4 | Soul Food |
+| B5 | Once Again |
+| B6 | No Smoking |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 | Format         | Vinyl LP Album Limited Edition Numbered Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 390-1 |
-| Notes | A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".<br><br>Issued in a 'flipback' outer sleeve and a printed inner sleeve.<br><br>Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92.<br>Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.<br><br>℗ 1992 A&M Records Ltd. London<br>© 1992 A&M Records Ltd. London<br><br>Made in England. |
+| Notes | A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England. |
 | Discogs URL    | [Cud - Asquarius](https://www.discogs.com/release/1832443-Cud-Asquarius) |

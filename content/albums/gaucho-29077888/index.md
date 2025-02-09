@@ -32,15 +32,15 @@ The making of the album was plagued by a number of creative, personal, and profe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Babylon Sisters | 5:51 |
-| A2 | Hey Nineteen | 5:04 |
-| A3 | Glamour Profession | 7:28 |
-| B1 | Gaucho | 5:32 |
-| B2 | Time Out Of Mind | 4:10 |
-| B3 | My Rival | 4:30 |
-| B4 | Third World Man | 5:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Babylon Sisters |
+| A2 | Hey Nineteen |
+| A3 | Glamour Profession |
+| B1 | Gaucho |
+| B2 | Time Out Of Mind |
+| B3 | My Rival |
+| B4 | Third World Man |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The making of the album was plagued by a number of creative, personal, and profe
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | B0034896-01 |
-| Notes | Distributed in the U.S.A. by Universal Music Enterprises<br><br>Runout's etched up to and including AA. The rest stamped. |
+| Notes | Distributed in the U.S.A. by Universal Music Enterprises  Runout's etched up to and including AA. The rest stamped. |
 | Discogs URL    | [Steely Dan - Gaucho](https://www.discogs.com/release/29077888-Steely-Dan-Gaucho) |

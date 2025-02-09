@@ -30,15 +30,15 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Solar Sea | 7:30 |
-| A2 | New Found Land | 7:18 |
-|  | Night Of The Hunter | 10:45 |
-| C4 | Interstellar Medium | 5:38 |
-| C5 | Unholy | 8:58 |
-| D6 | Shafts Of Light | 6:38 |
-| D7 | Solar Storm | 6:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Solar Sea |
+| A2 | New Found Land |
+|  | Night Of The Hunter |
+| C4 | Interstellar Medium |
+| C5 | Unholy |
+| D6 | Shafts Of Light |
+| D7 | Solar Storm |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 | Format         | Vinyl 2× LP 45 RPM Album (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE942 |
-| Notes | Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.<br><br>www.kscopemusic.com/artists/richard-barbieri/<br>www.facebook.com/richardbarbieriofficial<br><br>Kscope is a Snapper Music label. Made in Germany.<br><br> |
+| Notes | Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.  www.kscopemusic.com/artists/richard-barbieri/ www.facebook.com/richardbarbieriofficial  Kscope is a Snapper Music label. Made in Germany.   |
 | Discogs URL    | [Richard Barbieri - Planets + Persona](https://www.discogs.com/release/9916802-Richard-Barbieri-Planets-Persona) |

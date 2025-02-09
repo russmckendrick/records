@@ -29,18 +29,18 @@ West Coast vs. Wessex is a split album by the American punk rock band NOFX and t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Substitute |  |
-| A2 | Worse Things Happen At Sea |  |
-| A3 | Thatcher Fucked The Kids |  |
-| A4 | Ballad Of Me And My Friends |  |
-| A5 | Glory Hallelujah |  |
-| B1 | Scavenger Type |  |
-| B2 | Bob |  |
-| B3 | Eat The Meek |  |
-| B4 | Perfect Government |  |
-| B5 | Falling In Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Substitute |
+| A2 | Worse Things Happen At Sea |
+| A3 | Thatcher Fucked The Kids |
+| A4 | Ballad Of Me And My Friends |
+| A5 | Glory Hallelujah |
+| B1 | Scavenger Type |
+| B2 | Bob |
+| B3 | Eat The Meek |
+| B4 | Perfect Government |
+| B5 | Falling In Love |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ West Coast vs. Wessex is a split album by the American punk rock band NOFX and t
 | Format         | Vinyl LP 45 RPM Album |
 | Label          | Fat Wreck Chords |
 | Catalog Number | FAT137-1 |
-| Notes | Regular black vinyl version.<br><br>Publishers:<br>A1 to A5: Pure Groove Music Ltd / Universal<br>B1 to B3, B5: NOFX Music / BMI<br>B4: Four Hour Hell / EMI / Virgin Music<br><br>Runouts are etched. |
+| Notes | Regular black vinyl version.  Publishers: A1 to A5: Pure Groove Music Ltd / Universal B1 to B3, B5: NOFX Music / BMI B4: Four Hour Hell / EMI / Virgin Music  Runouts are etched. |
 | Discogs URL    | [NOFX - West Coast Vs. Wessex](https://www.discogs.com/release/15699574-NOFX-Vs-Frank-Turner-West-Coast-Vs-Wessex) |

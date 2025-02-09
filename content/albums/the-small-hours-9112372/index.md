@@ -30,20 +30,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 0:20 |
-| A2 | One By One | 3:06 |
-| A3 | The Peach And The Melon | 2:54 |
-| A4 | Say It Again | 3:05 |
-| A5 | Gone For Good | 3:13 |
-| A6 | Beam Me Up | 3:00 |
-| A7 | Seasons On Fire | 3:57 |
-| B1 | Night Terrors | 9:49 |
-| B2 | Lord Above | 2:25 |
-| B3 | Obsessed And So Obscure | 3:46 |
-| B4 | Wounded Heart | 2:22 |
-| B5 | Small Hours | 3:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | One By One |
+| A3 | The Peach And The Melon |
+| A4 | Say It Again |
+| A5 | Gone For Good |
+| A6 | Beam Me Up |
+| A7 | Seasons On Fire |
+| B1 | Night Terrors |
+| B2 | Lord Above |
+| B3 | Obsessed And So Obscure |
+| B4 | Wounded Heart |
+| B5 | Small Hours |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Green, 180g) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP404 |
-| Notes | Pressed on 180g "opaque forest green" vinyl.<br>Gatefold sleeve.<br>Download code on a sticker on the inner die-cut white paper sleeve.<br><br>Limited edition of 500 copies.<br>Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.<br><br>Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.<br><br>Track durations on the sleeve are incorrect.<br>(Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch) |
+| Notes | Pressed on 180g "opaque forest green" vinyl. Gatefold sleeve. Download code on a sticker on the inner die-cut white paper sleeve.  Limited edition of 500 copies. Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.  Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.  Track durations on the sleeve are incorrect. (Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch) |
 | Discogs URL    | [Matt Berry - The Small Hours](https://www.discogs.com/release/9112372-Matt-Berry-3-The-Small-Hours) |

@@ -25,18 +25,18 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Never Know |  |
-| A2 | #WarOnFalse |  |
-| A3 | Úlfur Resurrection |  |
-| B1 | Downtown Tigers |  |
-| B2 | London Water |  |
-| C1 | Summertime Police |  |
-| C2 | Poseidon (Keep Me Safe) |  |
-| C3 | The Light Under The Door |  |
-| D1 | All About Waiting |  |
-| D2 | Admiral Of Upside Down |  |
+| Position | Title |
+|----------|--------|
+| A1 | Never Know |
+| A2 | #WarOnFalse |
+| A3 | Úlfur Resurrection |
+| B1 | Downtown Tigers |
+| B2 | London Water |
+| C1 | Summertime Police |
+| C2 | Poseidon (Keep Me Safe) |
+| C3 | The Light Under The Door |
+| D1 | All About Waiting |
+| D2 | Admiral Of Upside Down |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 | Format         | Vinyl 2× LP Album Limited Edition (180g) |
 | Label          | BMG |
 | Catalog Number | 538317510 |
-| Notes | Includes digital download code. Gatefold sleeve.<br><br>Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.<br><br>Runouts are etched. |
+| Notes | Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.  Runouts are etched. |
 | Discogs URL    | [Dhani Harrison - In///Parallel](https://www.discogs.com/release/11027074-Dhani-Harrison-InParallel) |

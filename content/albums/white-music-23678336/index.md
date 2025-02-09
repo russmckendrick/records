@@ -29,20 +29,20 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radios In Motion |  |
-| A2 | X Wires |  |
-| A3 | This Is Pop |  |
-| A4 | Do What You Do |  |
-| A5 | Statue Of Liberty |  |
-| A6 | All Along The Watchtower |  |
-| B1 | Atom Age |  |
-| B2 | Set Myself On Fire |  |
-| B3 | I'm Bugged |  |
-| B4 | New Town Animal |  |
-| B5 | Spinning Top |  |
-| B6 | Neon Shuffle |  |
+| Position | Title |
+|----------|--------|
+| A1 | Radios In Motion |
+| A2 | X Wires |
+| A3 | This Is Pop |
+| A4 | Do What You Do |
+| A5 | Statue Of Liberty |
+| A6 | All Along The Watchtower |
+| B1 | Atom Age |
+| B2 | Set Myself On Fire |
+| B3 | I'm Bugged |
+| B4 | New Town Animal |
+| B5 | Spinning Top |
+| B6 | Neon Shuffle |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 | Format         | Vinyl LP Album Reissue Stereo (200 Gram) |
 | Label          | Ape House |
 | Catalog Number | APELP101 |
-| Notes | Issued in a black poly lined inner sleeve.<br>All runout details are hand etched.<br><br>[Sticker:]<br>The 1978 classic debut album newly cut from masters approved by Andy Partridge<br>Pressed on 200g super-heavyweight vinyl<br><br>[Rear jacket:]<br>Mixed at The Manor & Advision<br>℗ 1978, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.<br>© 2022 Ape House Ltd. All rights reserved. Made in the UK. |
+| Notes | Issued in a black poly lined inner sleeve. All runout details are hand etched.  [Sticker:] The 1978 classic debut album newly cut from masters approved by Andy Partridge Pressed on 200g super-heavyweight vinyl  [Rear jacket:] Mixed at The Manor & Advision ℗ 1978, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2022 Ape House Ltd. All rights reserved. Made in the UK. |
 | Discogs URL    | [XTC - White Music](https://www.discogs.com/release/23678336-XTC-White-Music) |

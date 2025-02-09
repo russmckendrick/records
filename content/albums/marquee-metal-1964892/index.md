@@ -27,27 +27,27 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Will Rock You |  |
-| A2 | Wishing Well |  |
-| A3 | Can't Get Enough |  |
-| A4 | Epic |  |
-| A5 | She's A Little Angel |  |
-| A6 | Killer On The Loose |  |
-| A7 | Smoke On The Water |  |
-| A8 | Voodoo Chile (Slight Return) |  |
-| A9 | Paranoid |  |
-| B1 | Down Down |  |
-| B2 | Crazy, Crazy Nights |  |
-| B3 | School's Out |  |
-| B4 | Walk This Way |  |
-| B5 | Is There Anybody There |  |
-| B6 | The Wizard |  |
-| B7 | Days Of No Trust |  |
-| B8 | Living After Midnight |  |
-| B9 | Free 'N' Easy |  |
-| B10 | Ace Of Spades |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Will Rock You |
+| A2 | Wishing Well |
+| A3 | Can't Get Enough |
+| A4 | Epic |
+| A5 | She's A Little Angel |
+| A6 | Killer On The Loose |
+| A7 | Smoke On The Water |
+| A8 | Voodoo Chile (Slight Return) |
+| A9 | Paranoid |
+| B1 | Down Down |
+| B2 | Crazy, Crazy Nights |
+| B3 | School's Out |
+| B4 | Walk This Way |
+| B5 | Is There Anybody There |
+| B6 | The Wizard |
+| B7 | Days Of No Trust |
+| B8 | Living After Midnight |
+| B9 | Free 'N' Easy |
+| B10 | Ace Of Spades |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | PolyGram TV |
 | Catalog Number | 845 417-1 |
-| Notes | Compilation of popular Rock/Metal cuts.<br><br>Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!!<br> |
+| Notes | Compilation of popular Rock/Metal cuts.    Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!!  |
 | Discogs URL    | [Various - Marquee Metal](https://www.discogs.com/release/1964892-Various-Marquee-Metal) |

@@ -42,18 +42,18 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tell Me Who You Are Today | 3:55 |
-| A2 | Floating On A Moment | 5:26 |
-| A3 | Burden Of Life | 3:35 |
-| A4 | Lost Changes | 5:41 |
-| A5 | Rewind | 4:47 |
-| B1 | Reaching Out | 4:15 |
-| B2 | Oceans | 3:43 |
-| B3 | For Sale | 4:25 |
-| B4 | Beyond The Sun | 3:54 |
-| B5 | Whispering Love | 6:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Tell Me Who You Are Today |
+| A2 | Floating On A Moment |
+| A3 | Burden Of Life |
+| A4 | Lost Changes |
+| A5 | Rewind |
+| B1 | Reaching Out |
+| B2 | Oceans |
+| B3 | For Sale |
+| B4 | Beyond The Sun |
+| B5 | Whispering Love |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition Stereo (180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP287X |
-| Notes | Limited deluxe heavy gatefold indie vinyl.<br>Made in EU.<br><br>Including:<br>- tip-on gatefold sleeve <br>- 180 gram heavyweight vinyl<br>- 12-page "Scrapbook" booklet <br>- 4-page insert with lyrics, credits and photos<br>- download code card<br>- black antistatic inner sleeve<br>- 12"x12" album art print in XI/XX editions <br>Catalogue number on rear jacket and spine: WIGLP287X<br>Catalogue number on sticker: WIGLP287XX or WIGLP287XI<br><br>200 additional copies of this release were retailed by Assai Records with a hand numbered Japanese style Obi under their Assai Obi Editions.<br><br>All runout details are hand etched. The faintly inscribed Optimal marks (e.g. 'TV' and '1IV') are mirrored.<br><br>[Rear jacket:]<br>℗ & © 2024 Domino Recording Co. Ltd. PO Box 47029 London SW18 1WD / 20 Jay Street #626 Brooklyn NY 11201 dominomusic.com Made in the EU<br><br>[Insert:]<br>Recorded at Devon Barn, Bristol State of Art, Studio 53 London and Snap Studios London<br>Orchestration recorded at Konk Studios [...]<br>Mixed [...] at Studio 53 London<br>Mastered [...] Metropolis, London |
+| Notes | Limited deluxe heavy gatefold indie vinyl. Made in EU.  Including: - tip-on gatefold sleeve  - 180 gram heavyweight vinyl - 12-page "Scrapbook" booklet  - 4-page insert with lyrics, credits and photos - download code card - black antistatic inner sleeve - 12"x12" album art print in XI/XX editions  Catalogue number on rear jacket and spine: WIGLP287X Catalogue number on sticker: WIGLP287XX or WIGLP287XI  200 additional copies of this release were retailed by Assai Records with a hand numbered Japanese style Obi under their Assai Obi Editions.  All runout details are hand etched. The faintly inscribed Optimal marks (e.g. 'TV' and '1IV') are mirrored.  [Rear jacket:] ℗ & © 2024 Domino Recording Co. Ltd. PO Box 47029 London SW18 1WD / 20 Jay Street #626 Brooklyn NY 11201 dominomusic.com Made in the EU  [Insert:] Recorded at Devon Barn, Bristol State of Art, Studio 53 London and Snap Studios London Orchestration recorded at Konk Studios [...] Mixed [...] at Studio 53 London Mastered [...] Metropolis, London |
 | Discogs URL    | [Beth Gibbons - Lives Outgrown](https://www.discogs.com/release/30702310-Beth-Gibbons-Lives-Outgrown) |

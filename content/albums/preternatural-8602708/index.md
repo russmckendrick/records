@@ -34,19 +34,19 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Behemooth | 4:07 |
-| A2 | Underwaterpainter | 3:22 |
-| A3 | Coral | 4:13 |
-| A4 | Hidden World (Halicephalobus Mephisto) | 4:47 |
-| A5 | Pufferfish Love | 4:57 |
-| B6 | Patterns | 3:43 |
-| B7 | Rite Of Passage | 3:41 |
-| B8 | Medusa | 3:51 |
-| B9 | Parasite | 3:39 |
-| B10 | Bird Of Paradise (Part II) | 3:38 |
-| B11 | Silk | 4:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Behemooth |
+| A2 | Underwaterpainter |
+| A3 | Coral |
+| A4 | Hidden World (Halicephalobus Mephisto) |
+| A5 | Pufferfish Love |
+| B6 | Patterns |
+| B7 | Rite Of Passage |
+| B8 | Medusa |
+| B9 | Parasite |
+| B10 | Bird Of Paradise (Part II) |
+| B11 | Silk |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 | Format         | Vinyl LP Album |
 | Label          | C.R.A.F.T Pop Records |
 | Catalog Number | CRAFTPOP1 |
-| Notes | Contains 24" x 12" fold-out lyric and credit sheet.<br><br>Engineered & mixed at Berry Cottage.<br>Mastered at Loud Mastering.<br>Additional engineering on an iPhone & 4 track recorder; in a summerhouse, in the Green Wood, in the Boipuso Centre, in bed & in a staircase in Bangalore.<br><br>℗ 2016 Sotones Music Publishing under exclusive licensing from Moulettes<br>© 2016 Moulettes. The copyright in the sound recordings is owned by Moulettes under exclusive license to C.R.A.F.T Pop Ltd.<br>Distributed and marketed by Republic of Music |
+| Notes | Contains 24" x 12" fold-out lyric and credit sheet.  Engineered & mixed at Berry Cottage. Mastered at Loud Mastering. Additional engineering on an iPhone & 4 track recorder; in a summerhouse, in the Green Wood, in the Boipuso Centre, in bed & in a staircase in Bangalore.  ℗ 2016 Sotones Music Publishing under exclusive licensing from Moulettes © 2016 Moulettes. The copyright in the sound recordings is owned by Moulettes under exclusive license to C.R.A.F.T Pop Ltd. Distributed and marketed by Republic of Music |
 | Discogs URL    | [Moulettes - Preternatural](https://www.discogs.com/release/8602708-Moulettes-Preternatural) |

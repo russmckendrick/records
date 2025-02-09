@@ -31,22 +31,22 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Born In East L.A. | 4:51 |
-| A2 | Dorm Radio I | 2:40 |
-| A3 | I'm Not Home Right Now | 6:22 |
-| A4 | Sushi Bar | 3:53 |
-| A5 | Dorm Radio II | 7:09 |
-| A6 | Love Is Strange | 3:34 |
-| A7 | Dorm Radio III | 1:09 |
-| B1 | I'm A (Modern) Man | 5:38 |
-| B2 | The Music Lesson | 4:37 |
-| B3 | The Stupid Early Show | 0:48 |
-| B4 | Warren Beatty | 0:30 |
-| B5 | Juan Coyote | 1:19 |
-| B6 | Radio News | 3:34 |
-| B7 | Get Out Of My Room | 4:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Born In East L.A. |
+| A2 | Dorm Radio I |
+| A3 | I'm Not Home Right Now |
+| A4 | Sushi Bar |
+| A5 | Dorm Radio II |
+| A6 | Love Is Strange |
+| A7 | Dorm Radio III |
+| B1 | I'm A (Modern) Man |
+| B2 | The Music Lesson |
+| B3 | The Stupid Early Show |
+| B4 | Warren Beatty |
+| B5 | Juan Coyote |
+| B6 | Radio News |
+| B7 | Get Out Of My Room |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCA 5640 |
-| Notes | Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu.<br>Mixed At Ocean Way.<br>Mastered At Bernie Grundman Mastering.<br> |
+| Notes | Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu.  Mixed At Ocean Way.  Mastered At Bernie Grundman Mastering.  |
 | Discogs URL    | [Cheech  Chong - Get Out Of My Room](https://www.discogs.com/release/968986-Cheech-Chong-Get-Out-Of-My-Room) |

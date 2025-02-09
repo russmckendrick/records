@@ -25,21 +25,21 @@ styles: ["Classic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come See Me | 2:42 |
-| A2 | Don't Bring Me Down | 2:12 |
-| A3 | Defecting Grey | 4:31 |
-| A4 | SF Sorrow Is Born | 3:14 |
-| A5 | L.S.D | 2:27 |
-| A6 | Midnight To Six Man | 2:21 |
-| A7 | Rosalyn | 2:20 |
-| B1 | Old Man Going | 3:07 |
-| B2 | Roadrunner | 3:14 |
-| B3 | Talkin' About The Good Times | 3:45 |
-| B4 | Summertime | 4:31 |
-| B5 | Tripping | 3:26 |
-| B6 | Cries From The Midnight Circus | 6:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Come See Me |
+| A2 | Don't Bring Me Down |
+| A3 | Defecting Grey |
+| A4 | SF Sorrow Is Born |
+| A5 | L.S.D |
+| A6 | Midnight To Six Man |
+| A7 | Rosalyn |
+| B1 | Old Man Going |
+| B2 | Roadrunner |
+| B3 | Talkin' About The Good Times |
+| B4 | Summertime |
+| B5 | Tripping |
+| B6 | Cries From The Midnight Circus |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Classic Rock"]
 | Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
 | Label          | Madfish |
 | Catalog Number | SMALP 1085 |
-| Notes | ℗ 2017 Snapper Music Ltd<br>© 2017 Snapper Music Ltd<br>Made in Germany<br><br>HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.<br><br><br> |
+| Notes | ℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.    |
 | Discogs URL    | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |

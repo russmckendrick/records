@@ -35,20 +35,20 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Stray | 2:07 |
-| A2 | Nothing Natural | 5:54 |
-| A3 | Tiny Smiles | 4:26 |
-| A4 | Covert | 3:34 |
-| A5 | Ocean | 4:49 |
-| A6 | For Love | 3:29 |
-| B1 | Superblast! | 4:07 |
-| B2 | Untogether | 3:33 |
-| B3 | Fantasy | 4:27 |
-| B4 | Take | 3:28 |
-| B5 | Laura | 3:22 |
-| B6 | Monochrome | 5:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Stray |
+| A2 | Nothing Natural |
+| A3 | Tiny Smiles |
+| A4 | Covert |
+| A5 | Ocean |
+| A6 | For Love |
+| B1 | Superblast! |
+| B2 | Untogether |
+| B3 | Fantasy |
+| B4 | Take |
+| B5 | Laura |
+| B6 | Monochrome |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear, GZ Media Pressing ) |
 | Label          | 4AD |
 | Catalog Number | 4ad0451LP |
-| Notes | Remastered from the original analogue tapes, pressed on ultra-clear vinyl.<br><br>Catalogue number on the sticker on shrink wrap is 4ad0452lpe and the barcode is 191400045101.<br>Manufactured in EU printed on rear of sleeve.<br><br>Catalog number and ''KEVIN@CURVEPUSHER'' in runouts are hand etched, GZ media strings are laser etched. |
+| Notes | Remastered from the original analogue tapes, pressed on ultra-clear vinyl.  Catalogue number on the sticker on shrink wrap is 4ad0452lpe and the barcode is 191400045101. Manufactured in EU printed on rear of sleeve.  Catalog number and ''KEVIN@CURVEPUSHER'' in runouts are hand etched, GZ media strings are laser etched. |
 | Discogs URL    | [Lush - Spooky](https://www.discogs.com/release/27919932-Lush-Spooky) |

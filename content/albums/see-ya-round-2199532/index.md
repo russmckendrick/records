@@ -34,19 +34,19 @@ After an appearance on Countdown and the release of "One Mouth Is Fed" as a foll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Breakin' My Back | 3:53 |
-| A2 | I Walk Away | 3:48 |
-| A3 | Doctor Love | 4:15 |
-| A4 | One Mouth Is Fed | 3:24 |
-| A5 | Years Go By | 4:11 |
-| A6 | Voices | 3:30 |
-| B1 | The Lost Cat | 5:45 |
-| B2 | Adz | 4:07 |
-| B3 | This Is Massive | 3:24 |
-| B4 | Kia Kaha | 3:36 |
-| B5 | Ninnie Knees Up | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Breakin' My Back |
+| A2 | I Walk Away |
+| A3 | Doctor Love |
+| A4 | One Mouth Is Fed |
+| A5 | Years Go By |
+| A6 | Voices |
+| B1 | The Lost Cat |
+| B2 | Adz |
+| B3 | This Is Massive |
+| B4 | Kia Kaha |
+| B5 | Ninnie Knees Up |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ After an appearance on Countdown and the release of "One Mouth Is Fed" as a foll
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 52050 |
-| Notes | Recorded at A.A.V. Studios, Melbourne.<br><br>℗ 1984 Mushroom Records Pty. Ltd. Australia.<br>Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization.<br>Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z.<br>Distributed by Festival Records Retail Marketing<br>© 1984 Mushroom Records Pty. Ltd. Australia<br><br>NZ pressing |
+| Notes | Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing |
 | Discogs URL    | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532-Split-Enz-See-Ya-Round) |

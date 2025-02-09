@@ -33,16 +33,16 @@ styles: ["Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alps |  |
-| A2 | Be Careful |  |
-| A3 | It's Just A Bit Of Blood |  |
-| A4 | We Fall Apart |  |
-| B1 | Advertisement One |  |
-| B2 | Hidden Cinema |  |
-| B3 | Pulling Stitches |  |
-| B4 | A Final Movement |  |
+| Position | Title |
+|----------|--------|
+| A1 | Alps |
+| A2 | Be Careful |
+| A3 | It's Just A Bit Of Blood |
+| A4 | We Fall Apart |
+| B1 | Advertisement One |
+| B2 | Hidden Cinema |
+| B3 | Pulling Stitches |
+| B4 | A Final Movement |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Downtempo"]
 | Format         | Vinyl LP Album Limited Edition (White Marble) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT156LPX |
-| Notes | Gatefold sleeve<br><br>Includes MP3 download<br><br>Hype sticker: ROCKACT156LPX<br>Sleeve: ROCKACT156LP<br><br>nb: 200 hand signed copies on the sleeve were available from band online webshop |
+| Notes | Gatefold sleeve  Includes MP3 download  Hype sticker: ROCKACT156LPX Sleeve: ROCKACT156LP  nb: 200 hand signed copies on the sleeve were available from band online webshop |
 | Discogs URL    | [bdrmm - I Don't Know](https://www.discogs.com/release/27538611-bdrmm-I-Dont-Know) |

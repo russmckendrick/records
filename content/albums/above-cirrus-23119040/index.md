@@ -35,22 +35,22 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Our Prism |  |
-| A2 | New Kind Of Evil |  |
-| A3 | Phantoms |  |
-| A4 | Cruel Deliverance |  |
-| B5 | Scream Sideways |  |
-| B6 | Dead Butterfly |  |
-| B7 | Lucid |  |
-| CD-1 | Our Prism | 3:34 |
-| CD-2 | New Kind Of Evil | 8:32 |
-| CD-3 | Phantoms | 3:51 |
-| CD-4 | Cruel Deliverance | 5:55 |
-| CD-5 | Scream Sideways | 10:09 |
-| CD-6 | Dead Butterfly | 7:09 |
-| CD-7 | Lucid | 6:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Our Prism |
+| A2 | New Kind Of Evil |
+| A3 | Phantoms |
+| A4 | Cruel Deliverance |
+| B5 | Scream Sideways |
+| B6 | Dead Butterfly |
+| B7 | Lucid |
+| CD-1 | Our Prism |
+| CD-2 | New Kind Of Evil |
+| CD-3 | Phantoms |
+| CD-4 | Cruel Deliverance |
+| CD-5 | Scream Sideways |
+| CD-6 | Dead Butterfly |
+| CD-7 | Lucid |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Format         | Vinyl LP Album (Green [Light], 180g), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM628 |
-| Notes | Inside Out store exclusive release. Limited to 300 copies worldwide.<br>Gatefold release. CD housed in a transparent sleeve and lyric sheet included.<br>Some copies including a signed postcard.<br><br>LPs tracks positions given sequentially reardless of sides on back.<br><br>Track times taken from mediaplayer on PC.<br><br>Hype sticker:<br>Gatefold 180g LP + CD<br>Pure Reason Revolution<br>return with seven<br>songs of cinematic,<br>psych-prog wonder. |
+| Notes | Inside Out store exclusive release. Limited to 300 copies worldwide. Gatefold release. CD housed in a transparent sleeve and lyric sheet included. Some copies including a signed postcard.  LPs tracks positions given sequentially reardless of sides on back.  Track times taken from mediaplayer on PC.  Hype sticker: Gatefold 180g LP + CD Pure Reason Revolution return with seven songs of cinematic, psych-prog wonder. |
 | Discogs URL    | [Pure Reason Revolution - Above Cirrus](https://www.discogs.com/release/23119040-Pure-Reason-Revolution-Above-Cirrus) |

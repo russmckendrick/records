@@ -35,10 +35,10 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Love You To Bits (Bits 1-5) | 17:02 |
-| B | Love You To Pieces (Pieces 1-5) | 18:54 |
+| Position | Title |
+|----------|--------|
+| A | Love You To Bits (Bits 1-5) |
+| B | Love You To Pieces (Pieces 1-5) |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Caroline International |
 | Catalog Number | CAROL020LP |
-| Notes | Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.<br><br>[Liner notes]<br>Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019<br>Mastered by Matt Colton at Metropolis<br><br>℗&© 2019 no-man, under exclusive license to Caroline International |
+| Notes | Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.  [Liner notes] Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019 Mastered by Matt Colton at Metropolis  ℗&© 2019 no-man, under exclusive license to Caroline International |
 | Discogs URL    | [No-Man - Love You To Bits](https://www.discogs.com/release/14187668-No-Man-Love-You-To-Bits) |

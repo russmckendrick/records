@@ -31,20 +31,20 @@ styles: ["Alternative Rock", "New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wheel | 3:10 |
-| A2 | Rainmaker | 2:56 |
-| A3 | Liberator | 3:38 |
-| A4 | Prisoner Of Love | 3:31 |
-| A5 | Come Back | 3:36 |
-| A6 | Mickey | 6:18 |
-| B1 | The Traveller | 4:45 |
-| B2 | Was That You? | 3:55 |
-| B3 | Strangers In Our Town | 3:55 |
-| B4 | Never Take Me Alive | 4:15 |
-| B5 | So In Love With You | 4:20 |
-| B6 | Radio Radio | 3:10 |
+| Position | Title |
+|----------|--------|
+| A1 | The Wheel |
+| A2 | Rainmaker |
+| A3 | Liberator |
+| A4 | Prisoner Of Love |
+| A5 | Come Back |
+| A6 | Mickey |
+| B1 | The Traveller |
+| B2 | Was That You? |
+| B3 | Strangers In Our Town |
+| B4 | Never Take Me Alive |
+| B5 | So In Love With You |
+| B6 | Radio Radio |
 
 
 ## Apple Music

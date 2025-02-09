@@ -46,26 +46,26 @@ Five singles were released from the album: lead single "Sleeping in My Car" beca
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harleys & Indians (Riders In The Sky) | 3:44 |
-| A2 | Crash! Boom! Bang! | 5:01 |
-| A3 | Fireworks | 3:57 |
-| A4 | Run To You | 3:39 |
-| B1 | Sleeping In My Car | 3:46 |
-| B2 | Vulnerable | 5:01 |
-| B3 | The First Girl On The Moon | 3:01 |
-| B4 | Place Your Love | 3:07 |
-| B5 | I Love The Sound Of Crashing Guitars | 4:47 |
-| C1 | What's She Like | 4:14 |
-| C2 | Do You Wanna Go The Whole Way | 4:09 |
-| C3 | Lies | 3:34 |
-| C4 | I'm Sorry | 3:11 |
-| C5 | Love Is All (Shine Your Light On Me) | 6:41 |
-| D1 | Go To Sleep | 3:58 |
-| D2 | Almost Unreal | 3:54 |
-| D3 | Crazy About You | 3:57 |
-| D4 | See Me | 3:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Harleys & Indians (Riders In The Sky) |
+| A2 | Crash! Boom! Bang! |
+| A3 | Fireworks |
+| A4 | Run To You |
+| B1 | Sleeping In My Car |
+| B2 | Vulnerable |
+| B3 | The First Girl On The Moon |
+| B4 | Place Your Love |
+| B5 | I Love The Sound Of Crashing Guitars |
+| C1 | What's She Like |
+| C2 | Do You Wanna Go The Whole Way |
+| C3 | Lies |
+| C4 | I'm Sorry |
+| C5 | Love Is All (Shine Your Light On Me) |
+| D1 | Go To Sleep |
+| D2 | Almost Unreal |
+| D3 | Crazy About You |
+| D4 | See Me |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Five singles were released from the album: lead single "Sleeping in My Car" beca
 | Format         | Vinyl LP, Vinyl LP (White), All Media Album Reissue Stereo (30th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 5021732477194 |
-| Notes | Hype sticker:<br>“30th ANNIVERSARY EDITION<br>18 TRACKS + 2LP’s (BLACK & WHITE)<br>8 PAGE BOOKLET“<br><br>Runouts are etched. Optimal Media special plate symbols are mirrored. |
+| Notes | Hype sticker: “30th ANNIVERSARY EDITION 18 TRACKS + 2LP’s (BLACK & WHITE) 8 PAGE BOOKLET“  Runouts are etched. Optimal Media special plate symbols are mirrored. |
 | Discogs URL    | [Roxette - Crash! Boom! Bang!](https://www.discogs.com/release/32490318-Roxette-Crash-Boom-Bang) |

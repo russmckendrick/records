@@ -24,26 +24,26 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Silent Earthling |  |
-| A2 | Strebek |  |
-| A3 | Kraken |  |
-| B1 | Blimp |  |
-| B2 | Engrams |  |
-| B3 | Tekkers |  |
-| C1 | Hemisphere |  |
-| C2 | Rainbow Road |  |
-| C3 | Elsewhere |  |
-| CD-1 | Silent Earthling |  |
-| CD-2 | Strebek |  |
-| CD-3 | Kraken |  |
-| CD-4 | Blimp |  |
-| CD-5 | Engrams |  |
-| CD-6 | Tekkers |  |
-| CD-7 | Hemisphere |  |
-| CD-8 | Rainbow Road |  |
-| CD-9 | Elsewhere |  |
+| Position | Title |
+|----------|--------|
+| A1 | Silent Earthling |
+| A2 | Strebek |
+| A3 | Kraken |
+| B1 | Blimp |
+| B2 | Engrams |
+| B3 | Tekkers |
+| C1 | Hemisphere |
+| C2 | Rainbow Road |
+| C3 | Elsewhere |
+| CD-1 | Silent Earthling |
+| CD-2 | Strebek |
+| CD-3 | Kraken |
+| CD-4 | Blimp |
+| CD-5 | Engrams |
+| CD-6 | Tekkers |
+| CD-7 | Hemisphere |
+| CD-8 | Rainbow Road |
+| CD-9 | Elsewhere |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SMBLP 039 |
-| Notes | Additional Recording by Ash Gardner<br><br>Side D is etched with the TTT logo |
+| Notes | Additional Recording by Ash Gardner  Side D is etched with the TTT logo |
 | Discogs URL    | [Three Trapped Tigers - Silent Earthling](https://www.discogs.com/release/8337431-Three-Trapped-Tigers-Silent-Earthling) |

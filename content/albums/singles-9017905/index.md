@@ -40,40 +40,40 @@ An updated edition of Singles was released on 9 September 2016, which adds "I'll
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ceremony  |  |
-| A2 | Procession  |  |
-| A3 | Everything's Gone Green (7" Version) |  |
-| A4 | Temptation (Original 7" Version) |  |
-| B1 | Blue Monday  |  |
-| B2 | Confusion (UK 7" Promo Edit) |  |
-| B3 | Thieves Like Us (7" Promo Edit) |  |
-| C1 | The Perfect Kiss (7" Edit) |  |
-| C2 | Sub-Culture (7" Edit) |  |
-| C3 | Shellshock (7" Edit) |  |
-| C4 | State Of The Nation (7" Edit) |  |
-| D1 | Bizarre Love Triangle (7" Remix Edit) |  |
-| D2 | True Faith (7" Edit) |  |
-| D3 | Touched By The Hand Of God (7" Edit) |  |
-| D4 | Blue Monday '88 (7" Version) |  |
-| E1 | Fine Time (7" Version) |  |
-| E2 | Round And Round (7" Version) |  |
-| E3 | Run 2 (7" Remix Edit) |  |
-| E4 | World In Motion |  |
-| F1 | Regret |  |
-| F2 | Ruined In A Day (Radio Edit) |  |
-| F3 | World (The Price Of Love) (Radio Edit) |  |
-| F4 | Spooky (Minimix) |  |
-| F5 | Nineteen63 (Arthur Baker Radio Remix) |  |
-| G1 | Crystal (Radio Edit) |  |
-| G2 | 60 Miles An Hour (Radio Edit) |  |
-| G3 | Here To Stay (Radio Edit) |  |
-| G4 | Krafty (Single Edit) |  |
-| H1 | Jetstream (Radio Edit) |  |
-| H2 | Waiting For The Sirens' Call (Rich Costey Radio Version) |  |
-| H3 | Turn (Stephen Street Edit) |  |
-| H4 | I'll Stay With You ('Lost Sirens' LP Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ceremony  |
+| A2 | Procession  |
+| A3 | Everything's Gone Green (7" Version) |
+| A4 | Temptation (Original 7" Version) |
+| B1 | Blue Monday  |
+| B2 | Confusion (UK 7" Promo Edit) |
+| B3 | Thieves Like Us (7" Promo Edit) |
+| C1 | The Perfect Kiss (7" Edit) |
+| C2 | Sub-Culture (7" Edit) |
+| C3 | Shellshock (7" Edit) |
+| C4 | State Of The Nation (7" Edit) |
+| D1 | Bizarre Love Triangle (7" Remix Edit) |
+| D2 | True Faith (7" Edit) |
+| D3 | Touched By The Hand Of God (7" Edit) |
+| D4 | Blue Monday '88 (7" Version) |
+| E1 | Fine Time (7" Version) |
+| E2 | Round And Round (7" Version) |
+| E3 | Run 2 (7" Remix Edit) |
+| E4 | World In Motion |
+| F1 | Regret |
+| F2 | Ruined In A Day (Radio Edit) |
+| F3 | World (The Price Of Love) (Radio Edit) |
+| F4 | Spooky (Minimix) |
+| F5 | Nineteen63 (Arthur Baker Radio Remix) |
+| G1 | Crystal (Radio Edit) |
+| G2 | 60 Miles An Hour (Radio Edit) |
+| G3 | Here To Stay (Radio Edit) |
+| G4 | Krafty (Single Edit) |
+| H1 | Jetstream (Radio Edit) |
+| H2 | Waiting For The Sirens' Call (Rich Costey Radio Version) |
+| H3 | Turn (Stephen Street Edit) |
+| H4 | I'll Stay With You ('Lost Sirens' LP Version) |
 
 
 ## Apple Music
@@ -91,5 +91,5 @@ An updated edition of Singles was released on 9 September 2016, which adds "I'll
 | Format         | Vinyl 4× LP Compilation Remastered, Box Set |
 | Label          | Warner Music |
 | Catalog Number | 0825646069620 |
-| Notes | Additions in the new "Singles" 4xLP (Remastered 2016) / Omissions from the "Singles" 2xCD (2005):<br><br>B2 - Confusion (UK 7" Promo Edit) replaces "Confusion (''Singles'' Unique Edit) "<br>C1 - The Perfect Kiss (7" Edit) replaces "The Perfect Kiss (Album Version)"<br>D1 - Bizarre Love Triangle (7" Remix Edit) replaces "Bizarre Love Triangle (Album Version)"<br>D2 - True Faith (7" Edit) replaces "True Faith (Album Version)"<br>E3 - Run 2 (7" Remix Edit) replaces "Run (Album Version)"<br>F5 - Nineteen63 (Arthur Baker Radio Remix) replaces "1963 (''Singles'' Unique Edit)"<br>F4 - Spooky (Minimix) replaces "Spooky (Radio Edit)"<br>.................................................................<br><br>H4 - I'll Stay With You (Lost Sirens LP Version) is an extra/bonus track in this remastered version.<br>..................................................................<br><br>Tracks first time on vinyl:<br><br>F4 - Spooky (Minimix)<br>G1 - Crystal (Radio Edit)<br>G2 - 60 Miles an Hour (Radio Edit)<br>H3 - Turn (Stephen Street Edit)<br><br>Contains a [l873810] download coupon. |
+| Notes | Additions in the new "Singles" 4xLP (Remastered 2016) / Omissions from the "Singles" 2xCD (2005):  B2 - Confusion (UK 7" Promo Edit) replaces "Confusion (''Singles'' Unique Edit) " C1 - The Perfect Kiss (7" Edit) replaces "The Perfect Kiss (Album Version)" D1 - Bizarre Love Triangle (7" Remix Edit) replaces "Bizarre Love Triangle (Album Version)" D2 - True Faith (7" Edit) replaces "True Faith (Album Version)" E3 - Run 2 (7" Remix Edit) replaces "Run (Album Version)" F5 - Nineteen63 (Arthur Baker Radio Remix) replaces "1963 (''Singles'' Unique Edit)" F4 - Spooky (Minimix) replaces "Spooky (Radio Edit)" .................................................................  H4 - I'll Stay With You (Lost Sirens LP Version) is an extra/bonus track in this remastered version. ..................................................................  Tracks first time on vinyl:  F4 - Spooky (Minimix) G1 - Crystal (Radio Edit) G2 - 60 Miles an Hour (Radio Edit) H3 - Turn (Stephen Street Edit)  Contains a [l873810] download coupon. |
 | Discogs URL    | [New Order - Singles](https://www.discogs.com/release/9017905-New-Order-Singles) |

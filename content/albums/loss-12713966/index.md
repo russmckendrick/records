@@ -28,16 +28,16 @@ styles: ["Post Rock", "Post-Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Denial |  |
-| A2 | Detach |  |
-| B1 | Distress |  |
-| B2 | Blanch |  |
-| C1 | Blush |  |
-| C2 | Unspoken |  |
-| D1 | Squalor |  |
-| D2 | Squander |  |
+| Position | Title |
+|----------|--------|
+| A1 | Denial |
+| A2 | Detach |
+| B1 | Distress |
+| B2 | Blanch |
+| C1 | Blush |
+| C2 | Unspoken |
+| D1 | Squalor |
+| D2 | Squander |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Post Rock", "Post-Metal"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue/Frosted Clear/Purple Starburst) |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR262V |
-| Notes | Limited edition of:<br>250 x Blue/frosted clear/purple starburst (Holy Roar subscribers only) (this)<br>250 x Blue/frosted clear half and half ([r12713869])<br>500 x Blue suede shoes ([r12713919]) |
+| Notes | Limited edition of: 250 x Blue/frosted clear/purple starburst (Holy Roar subscribers only) (this) 250 x Blue/frosted clear half and half ([r12713869]) 500 x Blue suede shoes ([r12713919]) |
 | Discogs URL    | [Pijn - Loss](https://www.discogs.com/release/12713966-Pijn-Loss) |

@@ -43,28 +43,28 @@ Permanent Waves received a mostly positive reception from critics and became the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album |  |
-| A1 | The Spirit Of Radio | 4:54 |
-| A2 | Freewill | 5:22 |
-| A3 | Jacob's Ladder | 7:50 |
-| B1 | Entre Nous | 4:37 |
-| B2 | Different Strings | 3:50 |
-| B3 | Natural Science | 9:20 |
-|  | Permanent Waves World Tour 1980 |  |
-| C1 | Beneath, Between & Behind (Live In Manchester) |  |
-| C2 | By-Tor & The Snow Dog (Live In London) |  |
-| C3 | Xanadu (Live In London) |  |
-| D1 | The Spirit Of Radio (Live in Manchester) |  |
-| D2 | Natural Science (Live In Manchester) |  |
-| D3 | A Passage To Bangkok (Live In Manchester) |  |
-| D4 | The Trees (Live In Manchester) |  |
-| E1 | Cygnus X-1 (Live In London) |  |
-| E2 | Cygnus X-1 Book II (Live In London) |  |
-| F1 | Closer To The Heart (Live In Manchester) |  |
-| F2 | Jacob’s Ladder (Live In Missouri) |  |
-| F3 | Freewill (Live In London) |  |
+| Position | Title |
+|----------|--------|
+|  | Original Album |
+| A1 | The Spirit Of Radio |
+| A2 | Freewill |
+| A3 | Jacob's Ladder |
+| B1 | Entre Nous |
+| B2 | Different Strings |
+| B3 | Natural Science |
+|  | Permanent Waves World Tour 1980 |
+| C1 | Beneath, Between & Behind (Live In Manchester) |
+| C2 | By-Tor & The Snow Dog (Live In London) |
+| C3 | Xanadu (Live In London) |
+| D1 | The Spirit Of Radio (Live in Manchester) |
+| D2 | Natural Science (Live In Manchester) |
+| D3 | A Passage To Bangkok (Live In Manchester) |
+| D4 | The Trees (Live In Manchester) |
+| E1 | Cygnus X-1 (Live In London) |
+| E2 | Cygnus X-1 Book II (Live In London) |
+| F1 | Closer To The Heart (Live In Manchester) |
+| F2 | Jacob’s Ladder (Live In Missouri) |
+| F3 | Freewill (Live In London) |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Permanent Waves received a mostly positive reception from critics and became the
 | Format         | Vinyl 3× LP Album Reissue Remastered, All Media Deluxe Edition |
 | Label          | Mercury |
 | Catalog Number | 00602508607257 |
-| Notes | Slipcase packing containing:<br>- Permanent Waves Album  - Single cover with printed insert<br>- Permanent Waves World Tour 1980 - Gatefold cover<br>- LP sized softcover booklet<br><br>Sticker on shrink wrap:<br>40th Anniversary Edition<br>3LPS - 180-Gram AudioPhile Vinyl<br>Original Album + Permanent Waves World Tour 1980<br>12 Unreleased Live Performances<br>Designed By Hugh Syme<br>With Unreleased Illustrations And Photos |
+| Notes | Slipcase packing containing: - Permanent Waves Album  - Single cover with printed insert - Permanent Waves World Tour 1980 - Gatefold cover - LP sized softcover booklet  Sticker on shrink wrap: 40th Anniversary Edition 3LPS - 180-Gram AudioPhile Vinyl Original Album + Permanent Waves World Tour 1980 12 Unreleased Live Performances Designed By Hugh Syme With Unreleased Illustrations And Photos |
 | Discogs URL    | [Rush - Permanent Waves](https://www.discogs.com/release/15405283-Rush-Permanent-Waves) |

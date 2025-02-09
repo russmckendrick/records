@@ -39,20 +39,20 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lay Your Hands On Me |  |
-| A2 | Bad Medicine |  |
-| B1 | Born To Be My Baby |  |
-| B2 | Living In Sin |  |
-| B3 | Blood On Blood |  |
-| C1 | Homebound Train |  |
-| C2 | Wild Is The Wind |  |
-| C3 | Ride Cowboy Ride |  |
-| C4 | Stick To Your Guns |  |
-| D1 | I'll Be There For You |  |
-| D2 | 99 In The Shade |  |
-| D3 | Love For Sale |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lay Your Hands On Me |
+| A2 | Bad Medicine |
+| B1 | Born To Be My Baby |
+| B2 | Living In Sin |
+| B3 | Blood On Blood |
+| C1 | Homebound Train |
+| C2 | Wild Is The Wind |
+| C3 | Ride Cowboy Ride |
+| C4 | Stick To Your Guns |
+| D1 | I'll Be There For You |
+| D2 | 99 In The Shade |
+| D3 | Love For Sale |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Mercury |
 | Catalog Number | B0021969-01 |
-| Notes | Gatefold sleeve.<br><br>Runouts etched except for STERLING which is stamped |
+| Notes | Gatefold sleeve.  Runouts etched except for STERLING which is stamped |
 | Discogs URL    | [Bon Jovi - New Jersey](https://www.discogs.com/release/9295617-Bon-Jovi-New-Jersey) |

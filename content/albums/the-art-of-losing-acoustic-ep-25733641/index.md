@@ -24,14 +24,14 @@ styles: ["Acoustic", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Show Your Face ( Piano Version ) | 3:12 |
-| A2 | Let It Hurt ( String Quartet Version ) | 3:37 |
-| A3 | All Farewells Should Be Sudden ( Acoustic Version ) | 4:56 |
-| B1 | The Art Of Losing ( Acoustic Lounge Version ) | 3:23 |
-| B2 | The Exchange ( Solo Piano Version ) | 3:32 |
-| B3 | Let It Hurt ( French Version ) ( Bonus Track ) | 3:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Show Your Face ( Piano Version ) |
+| A2 | Let It Hurt ( String Quartet Version ) |
+| A3 | All Farewells Should Be Sudden ( Acoustic Version ) |
+| B1 | The Art Of Losing ( Acoustic Lounge Version ) |
+| B2 | The Exchange ( Solo Piano Version ) |
+| B3 | Let It Hurt ( French Version ) ( Bonus Track ) |
 
 
 ## Apple Music

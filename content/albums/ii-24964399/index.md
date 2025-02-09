@@ -28,17 +28,17 @@ styles: ["Hardcore", "Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Without Love |  |
-| A2 | Animal Espionage |  |
-| A3 | Heart Reformer |  |
-| A4 | Strong And Wrong |  |
-| A5 | Ants And Dragons |  |
-| B1 | Nightclub Canary |  |
-| B2 | Christian Missile Crisis |  |
-| B3 | Reign Of Error |  |
-| B4 | Imposter Syndrome |  |
+| Position | Title |
+|----------|--------|
+| A1 | Love Without Love |
+| A2 | Animal Espionage |
+| A3 | Heart Reformer |
+| A4 | Strong And Wrong |
+| A5 | Ants And Dragons |
+| B1 | Nightclub Canary |
+| B2 | Christian Missile Crisis |
+| B3 | Reign Of Error |
+| B4 | Imposter Syndrome |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Hardcore", "Heavy Metal"]
 | Format         | Vinyl LP Album (Glass Coffin Vinyl) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC248LP |
-| Notes | Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem<br><br>First catalog number on the spine, second on the sticker on shrink wrap |
+| Notes | Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap |
 | Discogs URL    | [Dead Cross - II](https://www.discogs.com/release/24964399-Dead-Cross-II) |

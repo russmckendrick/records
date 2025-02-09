@@ -31,17 +31,17 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Time Is Running Out | 9:20 |
-| A2 | The Harmony Codex | 5:10 |
-| A3 | Codex Theme #10 | 0:57 |
-| A4 | Actual Brutal Facts | 5:09 |
-| B1 | Economies Of Scale | 4:03 |
-| B2 | Codex Theme #4 | 1:37 |
-| B3 | Rock Bottom | 5:01 |
-| B4 | The Harmony Codex | 9:51 |
-| B5 | Codex Theme #13 | 0:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Time Is Running Out |
+| A2 | The Harmony Codex |
+| A3 | Codex Theme #10 |
+| A4 | Actual Brutal Facts |
+| B1 | Economies Of Scale |
+| B2 | Codex Theme #4 |
+| B3 | Rock Bottom |
+| B4 | The Harmony Codex |
+| B5 | Codex Theme #13 |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7RSD1 |
-| Notes | Originally produced and mixed by Steven Wilson.<br>Additional production and performance by the artists.<br><br>Track B1 first released on [url=https://www.discogs.com/release/28425214-Steven-Wilson-The-Harmony-Codex]Harmonic Distortion[/url] (CD2 of the Harmony Codex Deluxe Edition).<br><br>Presented in a single sleeve with a printed inner sleeve.<br>Limited to 2200 copies.<br><br>Some copies came with a "Made in Czech Republic" sticker on the back.<br><br>Made in the EU. |
+| Notes | Originally produced and mixed by Steven Wilson. Additional production and performance by the artists.  Track B1 first released on [url=https://www.discogs.com/release/28425214-Steven-Wilson-The-Harmony-Codex]Harmonic Distortion[/url] (CD2 of the Harmony Codex Deluxe Edition).  Presented in a single sleeve with a printed inner sleeve. Limited to 2200 copies.  Some copies came with a "Made in Czech Republic" sticker on the back.  Made in the EU. |
 | Discogs URL    | [Steven Wilson - Harmonic Divergence (The Harmony Codex Remixed And Reimagined)](https://www.discogs.com/release/30450185-Steven-Wilson-Harmonic-Divergence-The-Harmony-Codex-Remixed-And-Reimagined) |

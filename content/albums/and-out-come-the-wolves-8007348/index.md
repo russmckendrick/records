@@ -32,27 +32,27 @@ Along with Bad Religion's Stranger than Fiction, Green Day's Dookie and The Offs
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Maxwell Murder | 1:26 |
-| A2 | The 11th Hour | 2:28 |
-| A3 | Roots Radicals | 2:48 |
-| A4 | Time Bomb | 2:24 |
-| A5 | Olympia WA. | 3:31 |
-| A6 | Lock, Step & Gone | 2:25 |
-| A7 | Junkie Man | 3:05 |
-| A8 | Listed M.I.A. | 2:22 |
-| A9 | Ruby Soho | 2:38 |
-| A10 | Daly City Train | 3:21 |
-| B1 | Journey To The End Of The East Bay | 3:12 |
-| B2 | She's Automatic | 1:35 |
-| B3 | Old Friend | 2:54 |
-| B4 | Disorder And Disarray | 2:49 |
-| B5 | The Wars End | 1:54 |
-| B6 | You Don't Care Nothin' | 2:28 |
-| B7 | As Wicked | 2:41 |
-| B8 | Avenues & Alleyways | 3:12 |
-| B9 | The Way I Feel | 2:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Maxwell Murder |
+| A2 | The 11th Hour |
+| A3 | Roots Radicals |
+| A4 | Time Bomb |
+| A5 | Olympia WA. |
+| A6 | Lock, Step & Gone |
+| A7 | Junkie Man |
+| A8 | Listed M.I.A. |
+| A9 | Ruby Soho |
+| A10 | Daly City Train |
+| B1 | Journey To The End Of The East Bay |
+| B2 | She's Automatic |
+| B3 | Old Friend |
+| B4 | Disorder And Disarray |
+| B5 | The Wars End |
+| B6 | You Don't Care Nothin' |
+| B7 | As Wicked |
+| B8 | Avenues & Alleyways |
+| B9 | The Way I Feel |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Along with Bad Religion's Stranger than Fiction, Green Day's Dookie and The Offs
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Gold, 180g) |
 | Label          | Epitaph |
 | Catalog Number | 7441-1 |
-| Notes | To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves.<br>Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards.<br>– Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet<br>LP contains Download card.Comes with fold-out poster.<br>Limited to 1500 copies<br><br>©+℗ 1995 Epitaph Records<br>All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)<br><br>Intro to A1 from the movie "Gringo" by Lech Kowalski.<br>Thanks to [a=Jim Carroll] for coming down & writing a poem to our song. |
+| Notes | To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves. Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards. – Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet LP contains Download card.Comes with fold-out poster. Limited to 1500 copies  ©+℗ 1995 Epitaph Records All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)  Intro to A1 from the movie "Gringo" by Lech Kowalski. Thanks to [a=Jim Carroll] for coming down & writing a poem to our song. |
 | Discogs URL    | [Rancid - ...And Out Come The Wolves](https://www.discogs.com/release/8007348-Rancid-And-Out-Come-The-Wolves) |

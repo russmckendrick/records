@@ -35,18 +35,18 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Camera's Rolling |  |
-| A2 | Broken Sleep |  |
-| A3 | Island Of Doom |  |
-| A4 | Roscian |  |
-| A5 | Myopia |  |
-| B1 | Drosera |  |
-| B2 | Can't Be |  |
-| B3 | Parliament Of Owls |  |
-| B4 | Promise Keeper |  |
-| B5 | Won't You Call Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Camera's Rolling |
+| A2 | Broken Sleep |
+| A3 | Island Of Doom |
+| A4 | Roscian |
+| A5 | Myopia |
+| B1 | Drosera |
+| B2 | Can't Be |
+| B3 | Parliament Of Owls |
+| B4 | Promise Keeper |
+| B5 | Won't You Call Me |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 | Format         | Vinyl LP Album Limited Edition Misprint (Blue Translucent) |
 | Label          | Blue Note |
 | Catalog Number | 483 7178 |
-| Notes | Indie-store release on 180 gram in gatefold jacket.<br><br>℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH<br>A Universal Music Company. Made in the EU.<br><br>Lacquer Cut By taken from runout.<br><br>Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper. <br> |
+| Notes | Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.   |
 | Discogs URL    | [Agnes Obel - Myopia](https://www.discogs.com/release/14818594-Agnes-Obel-Myopia) |

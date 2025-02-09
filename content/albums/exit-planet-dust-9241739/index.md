@@ -38,19 +38,19 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leave Home |  |
-| A2 | In Dust We Trust |  |
-| B1 | Song To The Siren |  |
-| B2 | Three Little Birdies Down Beats |  |
-| B3 | Fuck Up Beats |  |
-| B4 | Chemical Beats |  |
-| C1 | Life Is Sweet |  |
-| C2 | Playground For A Wedgeless Firm |  |
-| D1 | Chico's Groove |  |
-| D2 | One Too Many Mornings |  |
-| D3 | Alive Alone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Leave Home |
+| A2 | In Dust We Trust |
+| B1 | Song To The Siren |
+| B2 | Three Little Birdies Down Beats |
+| B3 | Fuck Up Beats |
+| B4 | Chemical Beats |
+| C1 | Life Is Sweet |
+| C2 | Playground For A Wedgeless Firm |
+| D1 | Chico's Groove |
+| D2 | One Too Many Mornings |
+| D3 | Alive Alone |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Freestyle Dust |
 | Catalog Number | XDUSTLP1 |
-| Notes | Color printed glossy inner sleeves. Printed in UK.<br><br>On the back of the sleeve:<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands<br><br> |
+| Notes | Color printed glossy inner sleeves. Printed in UK.  On the back of the sleeve: Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands   |
 | Discogs URL    | [The Chemical Brothers - Exit Planet Dust](https://www.discogs.com/release/9241739-The-Chemical-Brothers-Exit-Planet-Dust) |

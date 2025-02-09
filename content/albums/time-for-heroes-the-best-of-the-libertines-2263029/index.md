@@ -34,21 +34,21 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Up The Bracket | 2:40 |
-| A2 | Time For Heroes | 2:39 |
-| A3 | Mayday | 1:04 |
-| A4 | Don't Look Back Into The Sun | 2:58 |
-| A5 | Tell The King | 3:23 |
-| A6 | What Katie Did | 3:51 |
-| A7 | Can't Stand Me Now | 3:24 |
-| B8 | What A Waster | 2:59 |
-| B9 | The Delaney | 2:41 |
-| B10 | Boys In The Band | 3:43 |
-| B11 | Death On The Stairs | 3:44 |
-| B12 | I Get Along | 2:51 |
-| B13 | What Became Of The Likely Lads | 3:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Up The Bracket |
+| A2 | Time For Heroes |
+| A3 | Mayday |
+| A4 | Don't Look Back Into The Sun |
+| A5 | Tell The King |
+| A6 | What Katie Did |
+| A7 | Can't Stand Me Now |
+| B8 | What A Waster |
+| B9 | The Delaney |
+| B10 | Boys In The Band |
+| B11 | Death On The Stairs |
+| B12 | I Get Along |
+| B13 | What Became Of The Likely Lads |
 
 
 ## Apple Music

@@ -28,18 +28,18 @@ It is home to a large colony of white-capped albatrosses: about 65,000 pairs –
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coconut Crab |  |
-| A2 | A Chase Of Sorts |  |
-| A3 | Consoling Ghosts |  |
-| A4 | In Praise Of Idleness |  |
-| A5 | Whatever, Whenever |  |
-| B1 | Bliss Quest |  |
-| B2 | There's No 'I' In Time |  |
-| B3 | Destroy The Tabernacle! |  |
-| B4 | Sponkulus Nodge |  |
-| B5 | Empty Palms |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coconut Crab |
+| A2 | A Chase Of Sorts |
+| A3 | Consoling Ghosts |
+| A4 | In Praise Of Idleness |
+| A5 | Whatever, Whenever |
+| B1 | Bliss Quest |
+| B2 | There's No 'I' In Time |
+| B3 | Destroy The Tabernacle! |
+| B4 | Sponkulus Nodge |
+| B5 | Empty Palms |
 
 
 ## Apple Music

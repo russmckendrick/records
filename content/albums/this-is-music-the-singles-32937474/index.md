@@ -39,22 +39,22 @@ This is Music: The Singles 92–98 is a singles compilation album by the English
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Is Music | 3:38 |
-| A2 | Slide Away | 4:06 |
-| A3 | Lucky Man | 4:49 |
-| A4 | History | 5:28 |
-| B1 | She's A Superstar | 8:53 |
-| B2 | On Your Own | 3:36 |
-| B3 | Blue | 3:39 |
-| B4 | Sonnet | 4:24 |
-| C1 | All In The Mind | 4:17 |
-| C2 | The Drugs Don't Work | 5:05 |
-| C3 | Gravity Grave | 8:21 |
-| D1 | Bitter Sweet Symphony | 5:59 |
-| D2 | Love Is Noise | 5:29 |
-| D3 | Rather Be | 5:38 |
+| Position | Title |
+|----------|--------|
+| A1 | This Is Music |
+| A2 | Slide Away |
+| A3 | Lucky Man |
+| A4 | History |
+| B1 | She's A Superstar |
+| B2 | On Your Own |
+| B3 | Blue |
+| B4 | Sonnet |
+| C1 | All In The Mind |
+| C2 | The Drugs Don't Work |
+| C3 | Gravity Grave |
+| D1 | Bitter Sweet Symphony |
+| D2 | Love Is Noise |
+| D3 | Rather Be |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ This is Music: The Singles 92–98 is a singles compilation album by the English
 | Format         | Vinyl 2× LP Compilation Stereo (Coke Bottle Clear, Transparent Red) |
 | Label          | Universal Music Recordings |
 | Catalog Number | 6580364 |
-| Notes | An EMI Release ℗ 2024 Virgin Records Limited © Virgin Records Limited<br><br>Sleeve: Made in the EU<br>Sticker: Made in Germany |
+| Notes | An EMI Release ℗ 2024 Virgin Records Limited © Virgin Records Limited  Sleeve: Made in the EU Sticker: Made in Germany |
 | Discogs URL    | [The Verve - This Is Music: The Singles](https://www.discogs.com/release/32937474-The-Verve-This-Is-Music-The-Singles) |

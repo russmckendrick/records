@@ -33,24 +33,24 @@ styles: ["Pop Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Day And Age  | 11:49 |
-| A2 | Terrestrial  | 5:13 |
-| B1 | Waiting For The Lie | 4:31 |
-| B2 | The Boy Who Stood Still | 7:33 |
-| B3 | Island Life | 4:14 |
-| B4 | Skywards | 4:13 |
-| C1 | Kill The Orchestra  | 9:27 |
-| C2 | Repeat To Fade | 6:14 |
-| CD-1 | Day And Age | 11:49 |
-| CD-2 | Terrestrial | 5:13 |
-| CD-3 | Waiting For The Lie | 4:31 |
-| CD-4 | The Boy Who Stood Still | 7:33 |
-| CD-5 | Island Life | 4:14 |
-| CD-6 | Skywards | 4:13 |
-| CD-7 | Kill The Orchestra | 9:27 |
-| CD-8 | Repeat To Fade | 6:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Day And Age  |
+| A2 | Terrestrial  |
+| B1 | Waiting For The Lie |
+| B2 | The Boy Who Stood Still |
+| B3 | Island Life |
+| B4 | Skywards |
+| C1 | Kill The Orchestra  |
+| C2 | Repeat To Fade |
+| CD-1 | Day And Age |
+| CD-2 | Terrestrial |
+| CD-3 | Waiting For The Lie |
+| CD-4 | The Boy Who Stood Still |
+| CD-5 | Island Life |
+| CD-6 | Skywards |
+| CD-7 | Kill The Orchestra |
+| CD-8 | Repeat To Fade |
 
 
 ## Apple Music

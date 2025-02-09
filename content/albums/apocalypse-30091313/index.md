@@ -33,22 +33,22 @@ In February 2014, Thundercat released a double video on the MySpace website for 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tenfold |  |
-| A2 | Heartbreaks + Setbacks |  |
-| A3 | The Life Aquatic |  |
-| A4 | Special Stage |  |
-| A5 | Tron Song |  |
-| A6 | Seven |  |
-| A7 | Oh Sheit It's X |  |
-| B1 | Without You |  |
-| B2 | Lotus And The Jondy |  |
-| B3 | Evangelion |  |
-| B4 | We'll Die |  |
-| B5 | Before I Loved Myself “I” Pooped My Ankles (True) |  |
-| B6 | Paris |  |
-| B7 | A Message For Austin / Praise The Lord / Enter The Void |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tenfold |
+| A2 | Heartbreaks + Setbacks |
+| A3 | The Life Aquatic |
+| A4 | Special Stage |
+| A5 | Tron Song |
+| A6 | Seven |
+| A7 | Oh Sheit It's X |
+| B1 | Without You |
+| B2 | Lotus And The Jondy |
+| B3 | Evangelion |
+| B4 | We'll Die |
+| B5 | Before I Loved Myself “I” Pooped My Ankles (True) |
+| B6 | Paris |
+| B7 | A Message For Austin / Praise The Lord / Enter The Void |
 
 
 ## Apple Music

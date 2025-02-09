@@ -46,24 +46,24 @@ The album has received critical praise from several publications over the years,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Child's Christmas In Wales | 3:20 |
-| A2 | Hanky Panky Nohow | 2:43 |
-| A3 | The Endless Plain Of Fortune | 4:10 |
-| A4 | Andalucia | 3:50 |
-| A5 | Macbeth | 3:03 |
-| B1 | Paris 1919 | 4:03 |
-| B2 | Graham Greene | 2:58 |
-| B3 | Half Past France | 4:17 |
-| B4 | Antarctica Starts Here | 2:51 |
-| C1 | I Must Not Sniff Cocaine | 0:39 |
-| C2 | Hanky Panky Nohow (Drone Mix) | 3:01 |
-| C3 | Child's Christmas In Wales (Rehearsal 1) | 3:30 |
-| C4 | Half Past France (Intro Chat) | 4:27 |
-| C5 | Macbeth (Take 11) | 3:37 |
-| D1 | Hanky Panky Nohow (Guitar Mix) | 3:40 |
-| D2 | Fever Dream 2024: You're A Ghost | 9:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Child's Christmas In Wales |
+| A2 | Hanky Panky Nohow |
+| A3 | The Endless Plain Of Fortune |
+| A4 | Andalucia |
+| A5 | Macbeth |
+| B1 | Paris 1919 |
+| B2 | Graham Greene |
+| B3 | Half Past France |
+| B4 | Antarctica Starts Here |
+| C1 | I Must Not Sniff Cocaine |
+| C2 | Hanky Panky Nohow (Drone Mix) |
+| C3 | Child's Christmas In Wales (Rehearsal 1) |
+| C4 | Half Past France (Intro Chat) |
+| C5 | Macbeth (Take 11) |
+| D1 | Hanky Panky Nohow (Guitar Mix) |
+| D2 | Fever Dream 2024: You're A Ghost |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ The album has received critical praise from several publications over the years,
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Stereo, All Media Deluxe Edition |
 | Label          | Domino |
 | Catalog Number | REWIGLP139 |
-| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2).<br>Includes liner notes written by Grayson Haver Currin.<br>Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.<br><br>Includes digital download card. |
+| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2). Includes liner notes written by Grayson Haver Currin. Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.  Includes digital download card. |
 | Discogs URL    | [John Cale - Paris 1919](https://www.discogs.com/release/32196960-John-Cale-Paris-1919) |

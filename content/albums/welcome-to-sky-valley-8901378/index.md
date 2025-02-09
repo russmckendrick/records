@@ -29,21 +29,21 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | I |  |
-| A1 | Gardenia | 5:53 |
-| A2 | Asteroid | 4:50 |
-| A3 | Supa Scoopa And Mighty Scoop | 5:56 |
-|  | II |  |
-| A4 | 100° | 2:29 |
-| A5 | Space Cadet | 7:03 |
-| B6 | Demon Cleaner | 5:23 |
-|  | III |  |
-| B7 | Odyssey | 4:20 |
-| B8 | Conan Troutman | 3:20 |
-| B9 | N.O. | 3:48 |
-| B10 | Whitewater | 7:52 |
+| Position | Title |
+|----------|--------|
+|  | I |
+| A1 | Gardenia |
+| A2 | Asteroid |
+| A3 | Supa Scoopa And Mighty Scoop |
+|  | II |
+| A4 | 100° |
+| A5 | Space Cadet |
+| B6 | Demon Cleaner |
+|  | III |
+| B7 | Odyssey |
+| B8 | Conan Troutman |
+| B9 | N.O. |
+| B10 | Whitewater |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 | Format         | Vinyl LP Album Reissue Repress (Gold Marbled, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 7559-61571-1 |
-| Notes | German 2016 repress on gold vinyl, sourced from the [url=https://www.discogs.com/Kyuss-Welcome-To-Sky-Valley/release/6681326]2014 Optimal Media GmbH stampers[/url].<br><br>This release is missing the Hidden Track 'Lick Doo' that is present after 'Whitewater' on many Issues of this album .<br><br>The writing credits of "Josh Homme" are erroneously credited to "John Homme" on the vinyl label. They are correctly printed on the back cover though.<br><br>[Sticker on front sleeve shrink-wrap]<br>180g Coloured Vinyl<br><br>[Back cover]<br>Instructions: Listen without distraction<br><br>Recorded at Sound City (Van Nuys, CA)<br>Mixed at NRG (North Hollywood, CA)<br>Mastered […] at Future Disc Systems (Hollywood, CA)<br><br>U.S. Booking Agency: I.C.M. (Beverly Hills, CA) Shelley Shaw<br>Int'l Booking Agency: I.C.M./Fair Warning (London, England) John Jackson<br><br>Josh Homme/Board Stiff Music (BMI) (2-8, 10)<br>Brant Bjork/A Bjork Music (BMI) (1, 10)<br>Scott Reeder/Bardo Byproduct (BMI) (5, 9)<br>Mario Lalli/Blood Onion Music (BMI) (9) <br><br>℗&© 1994 Elektra Entertainment, a division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States. […]<br>Made in Germany by WARNER MUSIC MANUFACTURING EUROPE<br><br>[Vinyl label]<br>℗ + © 1994 Elektra Entertainment |
+| Notes | German 2016 repress on gold vinyl, sourced from the [url=https://www.discogs.com/Kyuss-Welcome-To-Sky-Valley/release/6681326]2014 Optimal Media GmbH stampers[/url].  This release is missing the Hidden Track 'Lick Doo' that is present after 'Whitewater' on many Issues of this album .  The writing credits of "Josh Homme" are erroneously credited to "John Homme" on the vinyl label. They are correctly printed on the back cover though.  [Sticker on front sleeve shrink-wrap] 180g Coloured Vinyl  [Back cover] Instructions: Listen without distraction  Recorded at Sound City (Van Nuys, CA) Mixed at NRG (North Hollywood, CA) Mastered […] at Future Disc Systems (Hollywood, CA)  U.S. Booking Agency: I.C.M. (Beverly Hills, CA) Shelley Shaw Int'l Booking Agency: I.C.M./Fair Warning (London, England) John Jackson  Josh Homme/Board Stiff Music (BMI) (2-8, 10) Brant Bjork/A Bjork Music (BMI) (1, 10) Scott Reeder/Bardo Byproduct (BMI) (5, 9) Mario Lalli/Blood Onion Music (BMI) (9)   ℗&© 1994 Elektra Entertainment, a division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States. […] Made in Germany by WARNER MUSIC MANUFACTURING EUROPE  [Vinyl label] ℗ + © 1994 Elektra Entertainment |
 | Discogs URL    | [Kyuss - Welcome To Sky Valley](https://www.discogs.com/release/8901378-Kyuss-Welcome-To-Sky-Valley) |

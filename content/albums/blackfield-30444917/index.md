@@ -37,18 +37,18 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Open Mind | 3:49 |
-| A2 | Blackfield | 4:06 |
-| A3 | Glow | 4:00 |
-| A4 | Scars | 3:57 |
-| A5 | Lullaby | 3:29 |
-| B1 | Pain | 3:47 |
-| B2 | Summer | 4:12 |
-| B3 | Cloudy Now | 3:34 |
-| B4 | The Hole In Me | 2:47 |
-| B5 | Hello | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Open Mind |
+| A2 | Blackfield |
+| A3 | Glow |
+| A4 | Scars |
+| A5 | Lullaby |
+| B1 | Pain |
+| B2 | Summer |
+| B3 | Cloudy Now |
+| B4 | The Hole In Me |
+| B5 | Hello |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Black Marble ) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1233 |
-| Notes | "Limited Edition 20th Anniversary Marble Vinyl"<br>Includes printed inner sleeve containing lyrics.<br><br>℗ 2011 Snapper Music © 2004 Snapper Music.<br>Made in the EU<br><br>Runouts are etched. |
+| Notes | "Limited Edition 20th Anniversary Marble Vinyl" Includes printed inner sleeve containing lyrics.  ℗ 2011 Snapper Music © 2004 Snapper Music. Made in the EU  Runouts are etched. |
 | Discogs URL    | [Blackfield - Blackfield](https://www.discogs.com/release/30444917-Blackfield-Blackfield) |

@@ -45,29 +45,29 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wagon |  |
-| A2 | Puke + Cry |  |
-| A3 | Blowing It |  |
-| A4 | I Live For That Look |  |
-| A5 | Flying Cloud |  |
-| A6 | How'd You Pin That One On Me |  |
-| B1 | Water |  |
-| B2 | Muck |  |
-| B3 | Thumb |  |
-| B4 | Green Mind |  |
-| C1 | Pebbles + Weeds |  |
-| C2 | The Little Baby |  |
-| C3 | Not You Again |  |
-| C4 | Quicksand (Wagon Reprise) |  |
-| C5 | Throw Down |  |
-| C6 | Whatever's Cool With Me |  |
-| D1 | Sideways |  |
-| D2 | Thumb (Live) |  |
-| D3 | Keep The Glove (Live) |  |
-| D4 | The Lung (Live) |  |
-| D5 | The Post (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Wagon |
+| A2 | Puke + Cry |
+| A3 | Blowing It |
+| A4 | I Live For That Look |
+| A5 | Flying Cloud |
+| A6 | How'd You Pin That One On Me |
+| B1 | Water |
+| B2 | Muck |
+| B3 | Thumb |
+| B4 | Green Mind |
+| C1 | Pebbles + Weeds |
+| C2 | The Little Baby |
+| C3 | Not You Again |
+| C4 | Quicksand (Wagon Reprise) |
+| C5 | Throw Down |
+| C6 | Whatever's Cool With Me |
+| D1 | Sideways |
+| D2 | Thumb (Live) |
+| D3 | Keep The Glove (Live) |
+| D4 | The Lung (Live) |
+| D5 | The Post (Live) |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 | Format         | Vinyl LP Album Reissue (Green), Vinyl LP Compilation (Green), All Media Deluxe Edition Remastered |
 | Label          | Cherry Red |
 | Catalog Number | PBREDD756 |
-| Notes | Includes printer inner sleeves with a review and interviews with the band.<br><br>℗ 2019 Cherry Red Records Ltd.<br>This compilation © 2019 Cherry Red Records Ltd.<br>Power Road Studios, 114 Power Road, London W4 5PY<br>www.cherryred.co.uk Made in EU<br><br>Green mind:<br>Drums recorded at Sorcerer Sound.<br>Other stuff recorded at Fort Apache North<br>Mixed at White Crow Audio<br><br>'Whatever's Cool With Me' EP recorded all over the place [...]<br><br>'Green Mind' released February 1991.<br>Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991.<br>Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991.<br>Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.<br><br>All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.<br><br>Pre-order came with pin 4x4 cm (compare photos). |
+| Notes | Includes printer inner sleeves with a review and interviews with the band.  ℗ 2019 Cherry Red Records Ltd. This compilation © 2019 Cherry Red Records Ltd. Power Road Studios, 114 Power Road, London W4 5PY www.cherryred.co.uk Made in EU  Green mind: Drums recorded at Sorcerer Sound. Other stuff recorded at Fort Apache North Mixed at White Crow Audio  'Whatever's Cool With Me' EP recorded all over the place [...]  'Green Mind' released February 1991. Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991. Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991. Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.  All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.  Pre-order came with pin 4x4 cm (compare photos). |
 | Discogs URL    | [Dinosaur Jr - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |

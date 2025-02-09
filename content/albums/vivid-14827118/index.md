@@ -33,19 +33,19 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cult Of Personality | 4:53 |
-| A2 | I Want To Know | 4:23 |
-| A3 | Middle Man | 3:46 |
-| A4 | Desperate People | 5:35 |
-| A5 | Open Letter (To A Landlord) | 5:30 |
-| B1 | Funny Vibe | 4:19 |
-| B2 | Memories Can't Wait | 4:30 |
-| B3 | Broken Hearts | 4:48 |
-| B4 | Glamour Boys | 3:40 |
-| B5 | What's Your Favorite Color? (Theme Song) | 1:38 |
-| B6 | Which Way To America? | 3:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Cult Of Personality |
+| A2 | I Want To Know |
+| A3 | Middle Man |
+| A4 | Desperate People |
+| A5 | Open Letter (To A Landlord) |
+| B1 | Funny Vibe |
+| B2 | Memories Can't Wait |
+| B3 | Broken Hearts |
+| B4 | Glamour Boys |
+| B5 | What's Your Favorite Color? (Theme Song) |
+| B6 | Which Way To America? |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP596 |
-| Notes | Music on Vinyl hypesticker:<br>"Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"<br><br>180 gram audiophile vinyl"<br><br>Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment<br> |
+| Notes | Music on Vinyl hypesticker: "Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"  180 gram audiophile vinyl"  Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment  |
 | Discogs URL    | [Living Colour - Vivid](https://www.discogs.com/release/14827118-Living-Colour-Vivid) |

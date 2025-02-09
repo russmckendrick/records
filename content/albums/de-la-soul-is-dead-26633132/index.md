@@ -35,35 +35,35 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 2:14 |
-| A2 | Oodles Of O's | 3:32 |
-| A3 | Talkin' Bout Hey Love | 2:27 |
-| A4 | Pease Porridge | 5:01 |
-| A5 | Skit 1 | 0:25 |
-| A6 | Johnny's Dead AKA Vincent Mason (Live From The BK Lounge) | 1:56 |
-| A7 | A Rollerskating Jam Named "Saturdays" | 4:02 |
-| B1 | WRMS' Dedication To The Bitty | 0:46 |
-| B2 | Bitties In The BK Lounge | 5:39 |
-| B3 | Skit 2 | 0:30 |
-| B4 | My Brother's A Basehead | 4:20 |
-| B5 | Let, Let Me In | 3:25 |
-| B6 | Afro Connections At A Hi 5 (In The Eyes Of The Hoodlum) | 4:03 |
-| C1 | Rap De Rap Show | 2:19 |
-| C2 | Millie Pulled A Pistol On Santa | 4:09 |
-| C3 | Who Do U Worship? | 1:59 |
-| C4 | Skit 3 | 0:32 |
-| C5 | Kicked Out The House | 1:55 |
-| C6 | Pass The Plugs | 3:29 |
-| C7 | Not Over Till The Fat Lady Plays The Demo | 1:29 |
-| D1 | Ring Ring Ring (Ha Ha Hey) | 5:05 |
-| D2 | WRMS: Cat's In Control | 0:33 |
-| D3 | Skit 4 | 0:12 |
-| D4 | Shwingalokate | 4:13 |
-| D5 | Fanatic Of The B Word | 4:09 |
-| D6 | Keepin' The Faith | 4:44 |
-| D7 | Skit 5 | 0:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Oodles Of O's |
+| A3 | Talkin' Bout Hey Love |
+| A4 | Pease Porridge |
+| A5 | Skit 1 |
+| A6 | Johnny's Dead AKA Vincent Mason (Live From The BK Lounge) |
+| A7 | A Rollerskating Jam Named "Saturdays" |
+| B1 | WRMS' Dedication To The Bitty |
+| B2 | Bitties In The BK Lounge |
+| B3 | Skit 2 |
+| B4 | My Brother's A Basehead |
+| B5 | Let, Let Me In |
+| B6 | Afro Connections At A Hi 5 (In The Eyes Of The Hoodlum) |
+| C1 | Rap De Rap Show |
+| C2 | Millie Pulled A Pistol On Santa |
+| C3 | Who Do U Worship? |
+| C4 | Skit 3 |
+| C5 | Kicked Out The House |
+| C6 | Pass The Plugs |
+| C7 | Not Over Till The Fat Lady Plays The Demo |
+| D1 | Ring Ring Ring (Ha Ha Hey) |
+| D2 | WRMS: Cat's In Control |
+| D3 | Skit 4 |
+| D4 | Shwingalokate |
+| D5 | Fanatic Of The B Word |
+| D6 | Keepin' The Faith |
+| D7 | Skit 5 |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis Records |
 | Catalog Number | RMM-052-1 |
-| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited<br><br><br>All boring tracks recorded at Calliope Productions<br>Mixed at Battery Studios and Island Media<br>Made In Czech Republic on back of sleeve. |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   All boring tracks recorded at Calliope Productions Mixed at Battery Studios and Island Media Made In Czech Republic on back of sleeve. |
 | Discogs URL    | [De La Soul - De La Soul Is Dead](https://www.discogs.com/release/26633132-De-La-Soul-De-La-Soul-Is-Dead) |

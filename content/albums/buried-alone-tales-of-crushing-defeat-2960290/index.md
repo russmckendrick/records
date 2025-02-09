@@ -24,21 +24,21 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side One |  |
-| A1 | Singled Out For Battery |  |
-| A2 | The Wretched Fathoms |  |
-| A3 | Corpses Feuding Underground |  |
-| A4 | Severed Of Horsehoof |  |
-| A5 | No More Dying |  |
-| A6 | An Arrival |  |
-|  | Side Two |  |
-| B1 | Unwreckaged |  |
-| B2 | Pissed Up On Brake Fluid |  |
-| B3 | The Money Shot |  |
-| B4 | Torch |  |
-| B5 | Me To The Future Of You |  |
+| Position | Title |
+|----------|--------|
+|  | Side One |
+| A1 | Singled Out For Battery |
+| A2 | The Wretched Fathoms |
+| A3 | Corpses Feuding Underground |
+| A4 | Severed Of Horsehoof |
+| A5 | No More Dying |
+| A6 | An Arrival |
+|  | Side Two |
+| B1 | Unwreckaged |
+| B2 | Pissed Up On Brake Fluid |
+| B3 | The Money Shot |
+| B4 | Torch |
+| B5 | Me To The Future Of You |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Believers Roast |
 | Catalog Number | BRR002LP |
-| Notes | All music and lyrics by Kavus Torabi<br><br>Recorded at the Cop's Dream by Kavus Torabi.<br>Drums recorded at Map, London, and engineered by Colin Smith.<br>Tom Clues cast a stern ear and provided loving encouragement over Kavus' singing.<br>Believers Roast logo by David Barclay. Catering by Zahara Poe<br>Photography by Hayley Madden.<br>All artwork by Steve Mitchell, www.57design.co.uk<br><br>Kavus Torabi thanks and sends his warmest love to all the players, key or otherwise: James Larcombe and Jason Carty for computer based assistance and transferral patience, Andy Thompson for the use of his wonderful mellotron, Daniel O'Sullivan, Spuder Stacy and Dan Chudley for the loan of essential instruments, Mike Quayle for early facilitations, Ben Hardy for starting and finishing the thing, Dawn, Khyam Allami, David Barclay and Georgina Torabi for unceasing support.<br>Claire Lim and Julia Finley for PR, Pete at Genepool, John Fowers and Lol Drake.<br><br>Dedicated to Dan Chudley and Tim Smith, sorely missed.<br> |
+| Notes | All music and lyrics by Kavus Torabi    Recorded at the Cop's Dream by Kavus Torabi.  Drums recorded at Map, London, and engineered by Colin Smith.  Tom Clues cast a stern ear and provided loving encouragement over Kavus' singing.  Believers Roast logo by David Barclay. Catering by Zahara Poe  Photography by Hayley Madden.  All artwork by Steve Mitchell, www.57design.co.uk    Kavus Torabi thanks and sends his warmest love to all the players, key or otherwise: James Larcombe and Jason Carty for computer based assistance and transferral patience, Andy Thompson for the use of his wonderful mellotron, Daniel O'Sullivan, Spuder Stacy and Dan Chudley for the loan of essential instruments, Mike Quayle for early facilitations, Ben Hardy for starting and finishing the thing, Dawn, Khyam Allami, David Barclay and Georgina Torabi for unceasing support.  Claire Lim and Julia Finley for PR, Pete at Genepool, John Fowers and Lol Drake.    Dedicated to Dan Chudley and Tim Smith, sorely missed.   |
 | Discogs URL    | [Knifeworld - Buried Alone: Tales Of Crushing Defeat](https://www.discogs.com/release/2960290-Knifeworld-Buried-Alone-Tales-Of-Crushing-Defeat) |

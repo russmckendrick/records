@@ -39,26 +39,26 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Honey | 3:27 |
-| A2 | Find My Baby | 3:58 |
-| A3 | Porcelain | 4:01 |
-| A4 | Why Does My Heart Feel So Bad? | 4:23 |
-| B1 | South Side | 3:48 |
-| B2 | Rushing | 2:58 |
-| B3 | Bodyrock | 3:34 |
-| B4 | Natural Blues | 4:12 |
-| C1 | Machete | 3:36 |
-| C2 | 7 | 1:00 |
-| C3 | Run On | 3:43 |
-| C4 | Down Slow | 1:34 |
-| C5 | If Things Were Perfect | 4:17 |
-| C6 | Everloving | 3:24 |
-| D1 | Inside | 4:47 |
-| D2 | Guitar Flute & String | 2:07 |
-| D3 | The Sky Is Broken | 4:17 |
-| D4 | My Weakness | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Honey |
+| A2 | Find My Baby |
+| A3 | Porcelain |
+| A4 | Why Does My Heart Feel So Bad? |
+| B1 | South Side |
+| B2 | Rushing |
+| B3 | Bodyrock |
+| B4 | Natural Blues |
+| C1 | Machete |
+| C2 | 7 |
+| C3 | Run On |
+| C4 | Down Slow |
+| C5 | If Things Were Perfect |
+| C6 | Everloving |
+| D1 | Inside |
+| D2 | Guitar Flute & String |
+| D3 | The Sky Is Broken |
+| D4 | My Weakness |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (180g) |
 | Label          | Mute |
 | Catalog Number | Stumm172 |
-| Notes | Printed inner sleeves.<br><br>If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.<br><br>"Honey" features samples from the Bessie Jones recording "Sometimes".<br>"Find My Baby" features samples from the Boy Blue recording "Joe Lee's Rock".<br>"Bodyrock" contains a sample of "Love Rap" as performed by Spoony G & the Treacherous 3 and written by Bobby Robinson.<br>"Natural Blues" features samples from the Vera Hall recording "Trouble So Hard".<br>"Run On" features samples from "Run On for a Long Time" by Bill Landford & The Landfordaires.<br><br>℗ 1999 Mute Records Limited © 1999 Mute Records Limited, a BMG company<br>Manufactured and distributed by [PIAS]<br>Manufactured / Made in EU<br><br>1IΔ, 1IX, 1=X and 1Δ are mirrored in runouts. |
+| Notes | Printed inner sleeves.  If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.  "Honey" features samples from the Bessie Jones recording "Sometimes". "Find My Baby" features samples from the Boy Blue recording "Joe Lee's Rock". "Bodyrock" contains a sample of "Love Rap" as performed by Spoony G & the Treacherous 3 and written by Bobby Robinson. "Natural Blues" features samples from the Vera Hall recording "Trouble So Hard". "Run On" features samples from "Run On for a Long Time" by Bill Landford & The Landfordaires.  ℗ 1999 Mute Records Limited © 1999 Mute Records Limited, a BMG company Manufactured and distributed by [PIAS] Manufactured / Made in EU  1IΔ, 1IX, 1=X and 1Δ are mirrored in runouts. |
 | Discogs URL    | [Moby - Play](https://www.discogs.com/release/8465720-Moby-Play) |

@@ -29,34 +29,34 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | "Reboot?" | 0:02 |
-| A2 | Goodbye Horses | 6:26 |
-| A3 | "Out Of Order!" | 0:06 |
-| A4 | Social  | 3:37 |
-| A5 | "Want Me To Order?" | 0:18 |
-| A6 | Mooby's Song | 2:25 |
-| A7 | "Boo Boo Kitty …" | 0:05 |
-| A8 | Keep On Loving You | 3:23 |
-| A9 | "I Knew Your Dad A Little Bit …" | 0:07 |
-| A10 | I Saw A Ghost | 1:50 |
-| A11 | "Dressed Like Us …" | 0:04 |
-| A12 | Loser (Movie Mix)  | 2:24 |
-| A13 | "Stop This Reboot!" | 0:10 |
-| B1 | Good Morning | 2:40 |
-| B2 | "3 Days …" | 0:11 |
-| B3 | I'd Die Without You | 4:06 |
-| B4 | "That Director …" | 0:11 |
-| B5 | Smodcast Theme | 0:40 |
-| B6 | "The Dishes Are Done …" | 0:08 |
-| B7 | Shecky Don't Like It | 3:05 |
-| B8 | "Names Back …" | 0:10 |
-| B9 | Come My Way  | 3:13 |
-| B10 | "I Don't Know If Anybody Knows This …" | 0:18 |
-| B11 | Drinkin' Blunts | 2:30 |
-| B12 | "Hung Out …" | 0:19 |
-| B13 | Stay With Me | 4:29 |
+| Position | Title |
+|----------|--------|
+| A1 | "Reboot?" |
+| A2 | Goodbye Horses |
+| A3 | "Out Of Order!" |
+| A4 | Social  |
+| A5 | "Want Me To Order?" |
+| A6 | Mooby's Song |
+| A7 | "Boo Boo Kitty …" |
+| A8 | Keep On Loving You |
+| A9 | "I Knew Your Dad A Little Bit …" |
+| A10 | I Saw A Ghost |
+| A11 | "Dressed Like Us …" |
+| A12 | Loser (Movie Mix)  |
+| A13 | "Stop This Reboot!" |
+| B1 | Good Morning |
+| B2 | "3 Days …" |
+| B3 | I'd Die Without You |
+| B4 | "That Director …" |
+| B5 | Smodcast Theme |
+| B6 | "The Dishes Are Done …" |
+| B7 | Shecky Don't Like It |
+| B8 | "Names Back …" |
+| B9 | Come My Way  |
+| B10 | "I Don't Know If Anybody Knows This …" |
+| B11 | Drinkin' Blunts |
+| B12 | "Hung Out …" |
+| B13 | Stay With Me |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 | Format         | Vinyl LP Album Record Store Day (Green [Weed Green], 180g) |
 | Label          | eOne |
 | Catalog Number | EOM-LP-46214 |
-| Notes | The track duration is not mentioned in the output.<br>Made in U.S.A.<br>including: a movie poster with credits<br><br>Hype Sticker:<br><br>"RECORD STORE DAY<br>1ST TIME ON VINYL!<br>180G WEED GREEN <br>COLORED EDITION<br>INCLUDES<br>CHRONICON<br>DOWNLOAD CARD" |
+| Notes | The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD" |
 | Discogs URL    | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350-Various-Jay-Silent-Bob-Reboot-Original-Motion-Picture-Soundtrack) |

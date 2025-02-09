@@ -40,27 +40,27 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | International Feel | 2:50 |
-| A2 | Never Never Land | 1:34 |
-| A3 | Tic Tic Tic It Wears Off | 1:14 |
-| A4 | You Need Your Head | 1:02 |
-| A5 | Rock And Roll Pussy | 1:08 |
-| A6 | Dogfight Giggle | 1:05 |
-| A7 | You Don't Have To Camp Around | 1:03 |
-| A8 | Flamingo | 2:34 |
-| A9 | Zen Archer | 5:35 |
-| A10 | Just Another Onion Head; Da Da Dali | 2:23 |
-| A11 | When The Shit Hits The Fan; Sunset Blvd. | 4:02 |
-| A12 | Le Feel Internacionale | 1:51 |
-| B1 | Sometimes I Don't Know What To Feel | 4:16 |
-| B2 | Does Anybody Love You | 1:31 |
-|  | Medley | 10:34 |
-| B4 | Hungry For Love | 2:18 |
-| B5 | I Don't Want To Tie You Down | 1:56 |
-| B6 | Is It My Name? | 4:01 |
-| B7 | Just One Victory | 4:59 |
+| Position | Title |
+|----------|--------|
+| A1 | International Feel |
+| A2 | Never Never Land |
+| A3 | Tic Tic Tic It Wears Off |
+| A4 | You Need Your Head |
+| A5 | Rock And Roll Pussy |
+| A6 | Dogfight Giggle |
+| A7 | You Don't Have To Camp Around |
+| A8 | Flamingo |
+| A9 | Zen Archer |
+| A10 | Just Another Onion Head; Da Da Dali |
+| A11 | When The Shit Hits The Fan; Sunset Blvd. |
+| A12 | Le Feel Internacionale |
+| B1 | Sometimes I Don't Know What To Feel |
+| B2 | Does Anybody Love You |
+|  | Medley |
+| B4 | Hungry For Love |
+| B5 | I Don't Want To Tie You Down |
+| B6 | Is It My Name? |
+| B7 | Just One Victory |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 | Format         | Vinyl LP Album Reissue (Teal Green, 180g, Gatefold) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC22 |
-| Notes | 180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography. <br><br> |
+| Notes | 180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography.    |
 | Discogs URL    | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/6651214-Todd-Rundgren-A-Wizard-A-True-Star) |

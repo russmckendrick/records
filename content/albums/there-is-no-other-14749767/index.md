@@ -31,28 +31,28 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | There Is No Other... |  |
-| A1 | City Of Angels |  |
-| A2 | Runnin' Down A Dream |  |
-| A3 | Vultures |  |
-| A4 | Ant Life |  |
-| A5 | Rainbow |  |
-| A6 | The Heart Of It All |  |
-| A7 | Hey World |  |
-| B1 | The National Bird Of India |  |
-| B2 | Just For Today |  |
-| B3 | See Your Face Again |  |
-| B4 | Boulevard |  |
-| B5 | Counting Fireflies |  |
-| B6 | Below Zero |  |
-|  | Voices In The Sky |  |
-| CD-1 | Together |  |
-| CD-2 | Never My Love |  |
-| CD-3 | Something |  |
-| CD-4 | Voices In The Sky |  |
-| CD-5 | Sa Ta Na Ma. |  |
+| Position | Title |
+|----------|--------|
+|  | There Is No Other... |
+| A1 | City Of Angels |
+| A2 | Runnin' Down A Dream |
+| A3 | Vultures |
+| A4 | Ant Life |
+| A5 | Rainbow |
+| A6 | The Heart Of It All |
+| A7 | Hey World |
+| B1 | The National Bird Of India |
+| B2 | Just For Today |
+| B3 | See Your Face Again |
+| B4 | Boulevard |
+| B5 | Counting Fireflies |
+| B6 | Below Zero |
+|  | Voices In The Sky |
+| CD-1 | Together |
+| CD-2 | Never My Love |
+| CD-3 | Something |
+| CD-4 | Voices In The Sky |
+| CD-5 | Sa Ta Na Ma. |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl LP Album Limited Edition (Yellow Heavyweight Vinyl), CD |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP720Y |
-| Notes | Limited to 1,000 copies.<br><br>Rough Trade album of the month February 2020.<br><br>LP packaged in a gatefold sleeve, includes a printed inner sleeve.<br><br>Includes a download code.<br><br>Includes a bonus 5-track CD in its own card sleeve.<br><br>Cat. number COOKLP720Y on sticker<br>Cat. number COOKLP720 on LP spine and labels<br>Cat. number FRYCD1194 on CD sleeve and CD label. |
+| Notes | Limited to 1,000 copies.  Rough Trade album of the month February 2020.  LP packaged in a gatefold sleeve, includes a printed inner sleeve.  Includes a download code.  Includes a bonus 5-track CD in its own card sleeve.  Cat. number COOKLP720Y on sticker Cat. number COOKLP720 on LP spine and labels Cat. number FRYCD1194 on CD sleeve and CD label. |
 | Discogs URL    | [Isobel Campbell - There Is No Other...](https://www.discogs.com/release/14749767-Isobel-Campbell-There-Is-No-Other) |

@@ -36,19 +36,19 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hornets! Hornets! | 4:48 |
-| A2 | Cattle And The Creeping Things  | 3:47 |
-| A3 | Your Little Hoodrat Friend | 3:54 |
-| A4 | Banging Camp  | 4:16 |
-| A5 | Charlemagne In Sweatpants | 3:59 |
-| B1 | Stevie Nix | 5:28 |
-| B2 | Multitude Of Casualties | 3:06 |
-| B3 | Don't Let Me Explode | 2:23 |
-| B4 | Chicago Seemed Tired Last Night | 3:20 |
-| B5 | Crucifixion Cruise | 1:51 |
-| B6 | How A Resurrection Really Feels | 5:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Hornets! Hornets! |
+| A2 | Cattle And The Creeping Things  |
+| A3 | Your Little Hoodrat Friend |
+| A4 | Banging Camp  |
+| A5 | Charlemagne In Sweatpants |
+| B1 | Stevie Nix |
+| B2 | Multitude Of Casualties |
+| B3 | Don't Let Me Explode |
+| B4 | Chicago Seemed Tired Last Night |
+| B5 | Crucifixion Cruise |
+| B6 | How A Resurrection Really Feels |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 | Format         | Vinyl LP Reissue Remastered (White) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR087-1 |
-| Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks<br><br>©&℗ 2016 Frenchkiss Records.  |
+| Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records.  |
 | Discogs URL    | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |

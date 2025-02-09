@@ -31,20 +31,20 @@ styles: ["Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Neat Neat Neat |  |
-| A2 | Fan Club |  |
-| A3 | I Fall |  |
-| A4 | Born To Kill |  |
-| A5 | Stab Yor Back |  |
-| A6 | Feel The Pain |  |
-| B1 | New Rose |  |
-| B2 | Fish |  |
-| B3 | See Her Tonite |  |
-| B4 | 1 Of The 2 |  |
-| B5 | So Messed Up |  |
-| B6 | I Feel Alright |  |
+| Position | Title |
+|----------|--------|
+| A1 | Neat Neat Neat |
+| A2 | Fan Club |
+| A3 | I Fall |
+| A4 | Born To Kill |
+| A5 | Stab Yor Back |
+| A6 | Feel The Pain |
+| B1 | New Rose |
+| B2 | Fish |
+| B3 | See Her Tonite |
+| B4 | 1 Of The 2 |
+| B5 | So Messed Up |
+| B6 | I Feel Alright |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Punk"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
 | Label          | BMG |
 | Catalog Number | BMGCAT705CLP |
-| Notes | Issued for National Album Day 2022 on yellow vinyl.<br>Sleeve with a light gloss finish.<br>Black paper die cut polylined inner sleeve.<br>Hype sticker applied to the shrink-wrap.<br><br>℗ & © 2017 Union Square Music Limited, a BMG Company<br>All tracks published by BMG Rights Management (UK) Ltd. except A3, A5 and A6 published by Rock Music Co. Ltd.<br>All tracks published by BMG Rights Management (UK) Ltd. except B2, B3 published by Rock Music Co. Ltd., B6 published by Warner Chappell Music Ltd.<br><br>Manufactured in Norway.<br>Runouts are etched. |
+| Notes | Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  ℗ & © 2017 Union Square Music Limited, a BMG Company All tracks published by BMG Rights Management (UK) Ltd. except A3, A5 and A6 published by Rock Music Co. Ltd. All tracks published by BMG Rights Management (UK) Ltd. except B2, B3 published by Rock Music Co. Ltd., B6 published by Warner Chappell Music Ltd.  Manufactured in Norway. Runouts are etched. |
 | Discogs URL    | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |

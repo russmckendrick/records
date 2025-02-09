@@ -31,18 +31,18 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Who Can It Be Now? | 3:20 |
-| A2 | I Can See It In Your Eyes | 3:26 |
-| A3 | Down Under | 3:39 |
-| A4 | Underground | 3:04 |
-| A5 | Helpless Automaton | 3:18 |
-| B1 | People Just Love To Play With Words | 3:33 |
-| B2 | Be Good Johnny | 3:33 |
-| B3 | Touching The Untouchables | 3:47 |
-| B4 | Catch A Star | 3:28 |
-| B5 | Down By The Sea | 6:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Who Can It Be Now? |
+| A2 | I Can See It In Your Eyes |
+| A3 | Down Under |
+| A4 | Underground |
+| A5 | Helpless Automaton |
+| B1 | People Just Love To Play With Words |
+| B2 | Be Good Johnny |
+| B3 | Touching The Untouchables |
+| B4 | Catch A Star |
+| B5 | Down By The Sea |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 | Format         | Vinyl LP Album Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 85669 |
-| Notes | Rear Sleeve: © 1982 CBS Inc.<br>Labels: ℗ 1981 CBS Records Australia Ltd.<br>Made in England.<br>Original sound recording made by CBS Records Australia Ltd.<br>CBS Records are the exclusive licensees for the UK.<br><br>Shorepak by Shorewood Packaging Co. Ltd., England. |
+| Notes | Rear Sleeve: © 1982 CBS Inc.  Labels: ℗ 1981 CBS Records Australia Ltd.  Made in England.  Original sound recording made by CBS Records Australia Ltd.  CBS Records are the exclusive licensees for the UK.    Shorepak by Shorewood Packaging Co. Ltd., England. |
 | Discogs URL    | [Men At Work - Business As Usual](https://www.discogs.com/release/843432-Men-At-Work-Business-As-Usual) |

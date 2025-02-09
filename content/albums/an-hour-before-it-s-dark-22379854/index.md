@@ -34,16 +34,16 @@ An Hour Before It's Dark is the 20th studio album by British neo-prog band Maril
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Be Hard On Yourself | 9:22 |
-|  | Reprogram The Gene | 6:27 |
-| A7 | Only A Kiss (Instrumental) | 0:38 |
-| A8 | Murder Machines | 4:14 |
-| B1 | The Crow And The Nightingale | 6:28 |
-|  | Sierra Leone | 10:46 |
-|  | Care | 15:06 |
-| D | Murder Machines (12" Remix) | 6:27 |
+| Position | Title |
+|----------|--------|
+|  | Be Hard On Yourself |
+|  | Reprogram The Gene |
+| A7 | Only A Kiss (Instrumental) |
+| A8 | Murder Machines |
+| B1 | The Crow And The Nightingale |
+|  | Sierra Leone |
+|  | Care |
+| D | Murder Machines (12" Remix) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ An Hour Before It's Dark is the 20th studio album by British neo-prog band Maril
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue) |
 | Label          | Ear Music |
 | Catalog Number | 0217171EMU |
-| Notes | Recorded at The Racket Club, Bucks and Real World, Box.<br>Assistant Engineer at Real World: Katie May.<br>Strings Recorded by Christine Verschoren at Ace Studio, Aarteslaar, Belgium.<br>Artwork by Simon Ward for 1d3ntity.<br>www.identity-media.co.uk<br><br>No credit details listed for Track D - Murder Machines (12" Remix) but probably similar to track A8.<br><br>Limited coloured version sold exclusively at the Marillion store. Could be ordered signed from the band members. <br><br>Comes With Printed Inner Sleeves (Lyrics and Credits).<br>Barcode covered with a separate sticker.<br><br>℗ & © 2022 Intact Records under exclusive license to Edel Music & Entertainment GmbH.<br>Made in Germany.<br><br>Durations do not appear on this release. |
+| Notes | Recorded at The Racket Club, Bucks and Real World, Box. Assistant Engineer at Real World: Katie May. Strings Recorded by Christine Verschoren at Ace Studio, Aarteslaar, Belgium. Artwork by Simon Ward for 1d3ntity. www.identity-media.co.uk  No credit details listed for Track D - Murder Machines (12" Remix) but probably similar to track A8.  Limited coloured version sold exclusively at the Marillion store. Could be ordered signed from the band members.   Comes With Printed Inner Sleeves (Lyrics and Credits). Barcode covered with a separate sticker.  ℗ & © 2022 Intact Records under exclusive license to Edel Music & Entertainment GmbH. Made in Germany.  Durations do not appear on this release. |
 | Discogs URL    | [Marillion - An Hour Before It's Dark](https://www.discogs.com/release/22379854-Marillion-An-Hour-Before-Its-Dark) |

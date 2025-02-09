@@ -24,19 +24,19 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Swimming Pools (Drank) | 3:56 |
-| A2 | Steppin' Out | 4:23 |
-| A3 | Owner Of A Lonely Heart | 3:42 |
-| A4 | Slave To The Rhythm | 4:13 |
-| A5 | Love Is A Battlefield | 3:31 |
-| A6 | Personal Jesus | 3:25 |
-| B1 | Drive | 3:54 |
-| B2 | Relax | 4:05 |
-| B3 | White Wedding | 4:33 |
-| B4 | Smells Like Teen Spirit | 4:31 |
-| B5 | Avalon | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Swimming Pools (Drank) |
+| A2 | Steppin' Out |
+| A3 | Owner Of A Lonely Heart |
+| A4 | Slave To The Rhythm |
+| A5 | Love Is A Battlefield |
+| A6 | Personal Jesus |
+| B1 | Drive |
+| B2 | Relax |
+| B3 | White Wedding |
+| B4 | Smells Like Teen Spirit |
+| B5 | Avalon |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 | Format         | Vinyl LP Limited Edition Numbered Stereo (Clear) |
 | Label          | Universal Music Group |
 | Catalog Number | 486 4880 |
-| Notes | Crystal clear limited edition<br>180g heavyweight vinyl pressing<br>#### of 3.000 |
+| Notes | Crystal clear limited edition 180g heavyweight vinyl pressing #### of 3.000 |
 | Discogs URL    | [Trevor Horn - Echoes - Ancient & Modern](https://www.discogs.com/release/29085826-Trevor-Horn-Echoes-Ancient-Modern) |

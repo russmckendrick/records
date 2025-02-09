@@ -32,19 +32,19 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Still Feeling Blue | 2:38 |
-| A2 | We'll Sweep Out The Ashes In The Morning | 3:13 |
-| A3 | A Song For You | 4:57 |
-| A4 | Streets Of Baltimore | 2:50 |
-| A5 | She | 4:55 |
-| B1 | That's All It Took | 2:57 |
-| B2 | The New Soft Shoe | 3:52 |
-| B3 | Kiss The Children | 2:50 |
-| B4 | Cry One More Time | 3:55 |
-| B5 | How Much I've Lied | 2:27 |
-| B6 | Big Mouth Blues | 3:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Still Feeling Blue |
+| A2 | We'll Sweep Out The Ashes In The Morning |
+| A3 | A Song For You |
+| A4 | Streets Of Baltimore |
+| A5 | She |
+| B1 | That's All It Took |
+| B2 | The New Soft Shoe |
+| B3 | Kiss The Children |
+| B4 | Cry One More Time |
+| B5 | How Much I've Lied |
+| B6 | Big Mouth Blues |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 | Format         | Vinyl LP Album Reissue (180g, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 8122795953 |
-| Notes | ℗ & © 1973 Warner Bros. Records Inc.<br>Manufactured in the EU. <br><br>First cat.# on spine & label rimtext; second cat.# on labels.<br>Rick Grech is misspelled as Rik Grech on cover, but not on label.<br><br>Runouts are etched, except '99509 1A/B' that are stamped. |
+| Notes | ℗ & © 1973 Warner Bros. Records Inc. Manufactured in the EU.   First cat.# on spine & label rimtext; second cat.# on labels. Rick Grech is misspelled as Rik Grech on cover, but not on label.  Runouts are etched, except '99509 1A/B' that are stamped. |
 | Discogs URL    | [Gram Parsons - GP](https://www.discogs.com/release/5886669-Gram-Parsons-GP) |

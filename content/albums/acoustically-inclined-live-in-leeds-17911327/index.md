@@ -28,30 +28,30 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Let It Roll |  |
-| A3 | Funeral |  |
-| B1 | Deadhead |  |
-| B2 | Ih-Ah! |  |
-| C1 | Love? |  |
-| C2 | Hyperdrive |  |
-| C3 | Terminal |  |
-| D1 | Coast |  |
-| D2 | Solar Winds |  |
-| D3 | Thing Beyond Things |  |
-| CD-1 | Intro |  |
-| CD-2 | Let It Roll |  |
-| CD-3 | Funeral |  |
-| CD-4 | Deadhead |  |
-| CD-5 | Ih-Ah! |  |
-| CD-6 | Love? |  |
-| CD-7 | Hyperdrive |  |
-| CD-8 | Terminal |  |
-| CD-9 | Coast |  |
-| CD-10 | Solar Winds |  |
-| CD-11 | Thing Beyond Things |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Let It Roll |
+| A3 | Funeral |
+| B1 | Deadhead |
+| B2 | Ih-Ah! |
+| C1 | Love? |
+| C2 | Hyperdrive |
+| C3 | Terminal |
+| D1 | Coast |
+| D2 | Solar Winds |
+| D3 | Thing Beyond Things |
+| CD-1 | Intro |
+| CD-2 | Let It Roll |
+| CD-3 | Funeral |
+| CD-4 | Deadhead |
+| CD-5 | Ih-Ah! |
+| CD-6 | Love? |
+| CD-7 | Hyperdrive |
+| CD-8 | Terminal |
+| CD-9 | Coast |
+| CD-10 | Solar Winds |
+| CD-11 | Thing Beyond Things |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 | Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 586 |
-| Notes | Black vinyl edition.<br><br>Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingdom. |
+| Notes | Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingdom. |
 | Discogs URL    | [Devin Townsend - Acoustically Inclined, Live In Leeds](https://www.discogs.com/release/17911327-Devin-Townsend-Acoustically-Inclined-Live-In-Leeds) |

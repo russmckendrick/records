@@ -42,19 +42,19 @@ styles: ["African"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hasabe (My Worries) | 3:56 |
-| A2 | Gedawo (The Hero) | 4:00 |
-| A3 | Rehab (My Hunger) | 4:34 |
-| A4 | Ewedish Nebere (I Used To Love You) | 3:24 |
-| A5 | Yesew Neger (Amazed By Humanity) | 5:02 |
-| A6 | Libe Menta Hone (My Divided Heart) | 3:55 |
-| B1 | Endet Liyesh (How Can I See You) | 3:39 |
-| B2 | Ambasel (Ambasel) | 4:52 |
-| B3 | Zebeder (Mesmerizing) | 6:08 |
-| B4 | Yetembelal Loga (Tall And Graceful) | 4:03 |
-| B5 | Gud Aderegechign (Blindsided By Love) | 3:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Hasabe (My Worries) |
+| A2 | Gedawo (The Hero) |
+| A3 | Rehab (My Hunger) |
+| A4 | Ewedish Nebere (I Used To Love You) |
+| A5 | Yesew Neger (Amazed By Humanity) |
+| A6 | Libe Menta Hone (My Divided Heart) |
+| B1 | Endet Liyesh (How Can I See You) |
+| B2 | Ambasel (Ambasel) |
+| B3 | Zebeder (Mesmerizing) |
+| B4 | Yetembelal Loga (Tall And Graceful) |
+| B5 | Gud Aderegechign (Blindsided By Love) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ styles: ["African"]
 | Format         | Vinyl LP Compilation Club Edition (Maroon, 180 gram) |
 | Label          | Now-Again Records |
 | Catalog Number | NA 5164 |
-| Notes | Sticker:<br>Ayalew Mesfin and the Black Lion Band<br>Unheard Ethio-Groove From Addis Ababa<br>First Time Issued On LP<br>Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story<br>Never Before Published Photos<br><br>Includes artwork and cocktail inserts.<br><br>(P)(C) 2018 Now-Again Records.<br><br>Remastered [...] at Elysian Masters, Los Angeles.<br>Licensed courtesy Ayalew Mesfin.<br>Special thanks to Helen Asfaw Dubale and Danny Mekonnen. |
+| Notes | Sticker: Ayalew Mesfin and the Black Lion Band Unheard Ethio-Groove From Addis Ababa First Time Issued On LP Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story Never Before Published Photos  Includes artwork and cocktail inserts.  (P)(C) 2018 Now-Again Records.  Remastered [...] at Elysian Masters, Los Angeles. Licensed courtesy Ayalew Mesfin. Special thanks to Helen Asfaw Dubale and Danny Mekonnen. |
 | Discogs URL    | [Ayalew Mesfin - Hasabe - My Worries](https://www.discogs.com/release/11544269-Ayalew-Mesfin-Hasabe-My-Worries) |

@@ -44,22 +44,22 @@ Throughout the 1990s, rap’s revolutions continued to cycle: From Dr. Dre’s <
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Best Foot Forward | 0:49 |
-| A2 | Building Steam With A Grain Of Salt | 6:40 |
-| A3 | The Number Song | 4:40 |
-| B1.a | Changeling | 7:51 |
-| B1.b | **Transmission 1 |  |
-| B2 | Stem/Long Stem | 7:49 |
-| C1.a | **Transmission 2 |  |
-| C1.b | Mutual Slump | 5:33 |
-| C2 | Organ Donor | 1:57 |
-| C3 | Why Hip Hop Sucks In '96 | 0:43 |
-| C4 | Midnight In A Perfect World | 4:57 |
-| D1 | Napalm Brain/Scatter Brain | 9:23 |
-| D2.a | What Does Your Soul Look Like (Part 1 - Blue Sky Revisit) | 7:28 |
-| D2.b | **Transmission 3 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Best Foot Forward |
+| A2 | Building Steam With A Grain Of Salt |
+| A3 | The Number Song |
+| B1.a | Changeling |
+| B1.b | **Transmission 1 |
+| B2 | Stem/Long Stem |
+| C1.a | **Transmission 2 |
+| C1.b | Mutual Slump |
+| C2 | Organ Donor |
+| C3 | Why Hip Hop Sucks In '96 |
+| C4 | Midnight In A Perfect World |
+| D1 | Napalm Brain/Scatter Brain |
+| D2.a | What Does Your Soul Look Like (Part 1 - Blue Sky Revisit) |
+| D2.b | **Transmission 3 |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ Throughout the 1990s, rap’s revolutions continued to cycle: From Dr. Dre’s <
 | Format         | Vinyl 2× LP Album Reissue (180gram) |
 | Label          | Mo Wax |
 | Catalog Number | 0600753351604 |
-| Notes | Issued with printed inner sleeves and a red sticker on shrinkwrap stating:<br>"Back To Black" / "Classic Hip-Hop"<br>"Includes a voucher to download an MP3 version of the album<br>180 gram heavyweight vinyl"<br><br>Endtroducing... is written with 3 dots on sleeve's spine. While it's written with 4 dots on inner sleeves & labels as Endtroducing....<br>Tracks B1.b, C1.a & D2.b (**Transmission 1 to 3) don't have their timings printed.<br><br>A2 Contains a sample "I Feel A New Shadow" as performed by [a1021870] courtesy of BMG Records, published by Ensign Music Corp/Daisy Lou Music Inc. c/o BMG Music Publishing.<br>B1.a Contains a sample of "Invisible Limits" as performed by [a10343] courtesy of Virgin Records. Published by EMI Virgin Music Publishing.<br>B2 Contains a sample of "Love Suite" as performed by [a307513] courtesy of Island Records. Published by Blue Mountain c/o PolyGram Music Publishing.<br>C1.b Contains a sample of "Possibly Maybe" as performed by [a1373] courtesy of Elektra Entertainment, published by BMG Music Publishing/Warner Chappell Music/Famous Music, Inc./PolyGram Music Publishing. Under license from One Little Indian Records Mother Records Limited and Elektra Entertainment Group.<br>C4 Contains a a sample of "The Madness Subsides" as performed by [a260764] courtesy of Virgin Records, written by Pekka Pohjola, published by EMI Music Publishing and "Sower Of Seeds" as performed by Braka (sic) courtesy of Baraka Records, Published by Baraka (SCAP) (sic).<br>D2.a Contains a sample of "The Voice Of The Saxophone" from "Afro American Suite Of Evolution" as performed by [a61413] courtesy of Sony Music Entertainment. Published by MJQ Music Inc.<br><br>Recorded at The Glue Factory, San Francisco.<br>All songs Copyright Control.<br><br>℗ © 1996 Mowax Recordings/A&M Records Ltd. London |
+| Notes | Issued with printed inner sleeves and a red sticker on shrinkwrap stating: "Back To Black" / "Classic Hip-Hop" "Includes a voucher to download an MP3 version of the album 180 gram heavyweight vinyl"  Endtroducing... is written with 3 dots on sleeve's spine. While it's written with 4 dots on inner sleeves & labels as Endtroducing.... Tracks B1.b, C1.a & D2.b (**Transmission 1 to 3) don't have their timings printed.  A2 Contains a sample "I Feel A New Shadow" as performed by [a1021870] courtesy of BMG Records, published by Ensign Music Corp/Daisy Lou Music Inc. c/o BMG Music Publishing. B1.a Contains a sample of "Invisible Limits" as performed by [a10343] courtesy of Virgin Records. Published by EMI Virgin Music Publishing. B2 Contains a sample of "Love Suite" as performed by [a307513] courtesy of Island Records. Published by Blue Mountain c/o PolyGram Music Publishing. C1.b Contains a sample of "Possibly Maybe" as performed by [a1373] courtesy of Elektra Entertainment, published by BMG Music Publishing/Warner Chappell Music/Famous Music, Inc./PolyGram Music Publishing. Under license from One Little Indian Records Mother Records Limited and Elektra Entertainment Group. C4 Contains a a sample of "The Madness Subsides" as performed by [a260764] courtesy of Virgin Records, written by Pekka Pohjola, published by EMI Music Publishing and "Sower Of Seeds" as performed by Braka (sic) courtesy of Baraka Records, Published by Baraka (SCAP) (sic). D2.a Contains a sample of "The Voice Of The Saxophone" from "Afro American Suite Of Evolution" as performed by [a61413] courtesy of Sony Music Entertainment. Published by MJQ Music Inc.  Recorded at The Glue Factory, San Francisco. All songs Copyright Control.  ℗ © 1996 Mowax Recordings/A&M Records Ltd. London |
 | Discogs URL    | [DJ Shadow - Endtroducing...](https://www.discogs.com/release/3244766-DJ-Shadow-Endtroducing) |

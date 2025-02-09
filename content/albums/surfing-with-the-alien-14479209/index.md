@@ -45,28 +45,28 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Surfing With The Alien | 4:26 |
-| A2 | Ice 9 | 4:00 |
-| A3 | Crushing Day | 5:15 |
-| A4 | Always With Me, Always With You | 3:22 |
-| A5 | Satch Boogie | 3:14 |
-| B1 | Hill Of The Skull | 1:48 |
-| B2 | Circles | 3:29 |
-| B3 | Lord's Of Karma | 4:48 |
-| B4 | Midnight | 1:42 |
-| B5 | Echo | 5:40 |
-| C1 | Surfing With The Alien (Stripped) | 4:26 |
-| C2 | Ice 9 (Stripped) | 4:00 |
-| C3 | Crushing Day (Stripped) | 5:17 |
-| C4 | Always With Me, Always With You (Stripped) | 3:26 |
-| C5 | Satch Boogie (Stripped) | 3:19 |
-| D1 | Hill Of The Skull (Stripped) | 1:52 |
-| D2 | Circles (Stripped) | 3:30 |
-| D3 | Lords Of Karma (Stripped) | 5:04 |
-| D4 | Midnight (Stripped) | 0:55 |
-| D5 | Echo (Stripped) | 5:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Surfing With The Alien |
+| A2 | Ice 9 |
+| A3 | Crushing Day |
+| A4 | Always With Me, Always With You |
+| A5 | Satch Boogie |
+| B1 | Hill Of The Skull |
+| B2 | Circles |
+| B3 | Lord's Of Karma |
+| B4 | Midnight |
+| B5 | Echo |
+| C1 | Surfing With The Alien (Stripped) |
+| C2 | Ice 9 (Stripped) |
+| C3 | Crushing Day (Stripped) |
+| C4 | Always With Me, Always With You (Stripped) |
+| C5 | Satch Boogie (Stripped) |
+| D1 | Hill Of The Skull (Stripped) |
+| D2 | Circles (Stripped) |
+| D3 | Lords Of Karma (Stripped) |
+| D4 | Midnight (Stripped) |
+| D5 | Echo (Stripped) |
 
 
 ## Apple Music
@@ -84,5 +84,5 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 | Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 19075978611 |
-| Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses. <br><br>Includes digital download card. <br><br>Made in the EU. |
+| Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU. |
 | Discogs URL    | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |

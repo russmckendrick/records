@@ -37,24 +37,24 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | William, It Was Really Nothing | 2:09 |
-| A2 | What Difference Does It Make? | 3:42 |
-| A3 | These Things Take Time | 2:33 |
-| A4 | This Charming Man | 2:43 |
-| A5 | How Soon Is Now? | 6:43 |
-| A6 | Handsome Devil | 2:46 |
-| A7 | Hand In Glove | 3:14 |
-| A8 | Still Ill | 3:54 |
-| B1 | Heaven Knows I'm Miserable Now | 3:34 |
-| B2 | This Night Has Opened My Eyes | 3:40 |
-| B3 | You've Got Everything Now | 4:18 |
-| B4 | Accept Yourself | 4:02 |
-| B5 | Girl Afraid | 2:45 |
-| B6 | Back To The Old House | 3:02 |
-| B7 | Reel Around The Fountain | 5:51 |
-| B8 | Please Please Please Let Me Get What I Want | 1:50 |
+| Position | Title |
+|----------|--------|
+| A1 | William, It Was Really Nothing |
+| A2 | What Difference Does It Make? |
+| A3 | These Things Take Time |
+| A4 | This Charming Man |
+| A5 | How Soon Is Now? |
+| A6 | Handsome Devil |
+| A7 | Hand In Glove |
+| A8 | Still Ill |
+| B1 | Heaven Knows I'm Miserable Now |
+| B2 | This Night Has Opened My Eyes |
+| B3 | You've Got Everything Now |
+| B4 | Accept Yourself |
+| B5 | Girl Afraid |
+| B6 | Back To The Old House |
+| B7 | Reel Around The Fountain |
+| B8 | Please Please Please Let Me Get What I Want |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 | Format         | Vinyl LP Compilation (180 Gram, Gat) |
 | Label          | SIRE |
 | Catalog Number | R1 45205 |
-| Notes | 180 Gram Gatefold LP<br>1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles<br> |
+| Notes | 180 Gram Gatefold LP 1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles  |
 | Discogs URL    | [The Smiths - Hatful Of Hollow](https://www.discogs.com/release/4418602-The-Smiths-Hatful-Of-Hollow) |

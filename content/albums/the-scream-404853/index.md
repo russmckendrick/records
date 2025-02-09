@@ -32,18 +32,18 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pure | 1:48 |
-| A2 | Jigsaw Feeling | 4:46 |
-| A3 | Overground | 3:46 |
-| A4 | Carcass | 3:49 |
-| A5 | Helter Skelter | 3:42 |
-| B1 | Mirage | 2:48 |
-| B2 | Metal Postcard (Mittageissen) | 4:12 |
-| B3 | Nicotine Stain | 2:56 |
-| B4 | Suburban Relapse | 4:10 |
-| B5 | Switch | 6:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Pure |
+| A2 | Jigsaw Feeling |
+| A3 | Overground |
+| A4 | Carcass |
+| A5 | Helter Skelter |
+| B1 | Mirage |
+| B2 | Metal Postcard (Mittageissen) |
+| B3 | Nicotine Stain |
+| B4 | Suburban Relapse |
+| B5 | Switch |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5009 |
-| Notes | Includes a printed inner sleeve with lyrics.<br><br>Mixed August 1978.<br><br>Centre label:<br>© 1978 side 1 tracks 1-4 Pure Noise / Chappell & Co. Track 5 Northern Songs Ltd.<br>Side 2 tracks 1-5 Pure Noise / Chappell & Co.<br>℗ 1978 Polydor Ltd. U.K.<br><br>Inner sleeve:<br>℗ 1978 Polydor Ltd. © 1978 Polydor Ltd.<br><br>Durations do not appear on this release. Timings via stopwatch.<br><br>On all variants runout data is stamped, except etched Ʊ [Lyre symbol] and variant 7 which has 'CW' as etched on both sides. |
+| Notes | Includes a printed inner sleeve with lyrics.  Mixed August 1978.  Centre label: © 1978 side 1 tracks 1-4 Pure Noise / Chappell & Co. Track 5 Northern Songs Ltd. Side 2 tracks 1-5 Pure Noise / Chappell & Co. ℗ 1978 Polydor Ltd. U.K.  Inner sleeve: ℗ 1978 Polydor Ltd. © 1978 Polydor Ltd.  Durations do not appear on this release. Timings via stopwatch.  On all variants runout data is stamped, except etched Ʊ [Lyre symbol] and variant 7 which has 'CW' as etched on both sides. |
 | Discogs URL    | [Siouxsie  The Banshees - The Scream](https://www.discogs.com/release/404853-Siouxsie-And-The-Banshees-The-Scream) |

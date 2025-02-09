@@ -37,18 +37,18 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Under The Pressure | 8:51 |
-| A2 | Red Eyes | 4:59 |
-| A3 | Suffering | 6:01 |
-| B1 | An Ocean In Between The Waves | 7:11 |
-| B2 | Disappearing | 6:51 |
-| C1 | Eyes To The Wind | 5:54 |
-| C2 | The Haunting Idle | 3:07 |
-| C3 | Burning | 5:48 |
-| D1 | Lost In The Dream | 4:09 |
-| D2 | In Reverse | 7:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Under The Pressure |
+| A2 | Red Eyes |
+| A3 | Suffering |
+| B1 | An Ocean In Between The Waves |
+| B2 | Disappearing |
+| C1 | Eyes To The Wind |
+| C2 | The Haunting Idle |
+| C3 | Burning |
+| D1 | Lost In The Dream |
+| D2 | In Reverse |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 | Format         | Vinyl 2× LP Album Club Edition Limited Edition Reissue (Green) |
 | Label          | Secretly Canadian |
 | Catalog Number | SC310 |
-| Notes | Limited to 2,100 copies. Gatefold tip-on sleeve with glossy, printed inner sleeves. Includes a download code.<br><br>©&℗ 2014 Secretly Canadian<br><br>All songs © 2014 Sea Formation Music ASCAP<br><br>Mixed at Rare Book Room Studios, Brooklyn, August-September 2013. "An Ocean in Between the Waves," "Disappearing" and "The Haunting Idle" mixed at Uniform Recording, Philadelphia, September-November 2013.<br><br>All songs recorded between August 2012 and November 2013 at Uniform Recording (Philly), Echo Mountain (Asheville, NC), Fidelitorium (Kornersville, NC), Rare Book Room (Brooklyn), Miner St (Philly), Water Music (Hoboken), Public Hi-Fi (Austin), University of the Arts (Philly) and Adam's house in Philly.<br><br>Mastered at Sterling Sound, NYC. |
+| Notes | Limited to 2,100 copies. Gatefold tip-on sleeve with glossy, printed inner sleeves. Includes a download code.  ©&℗ 2014 Secretly Canadian  All songs © 2014 Sea Formation Music ASCAP  Mixed at Rare Book Room Studios, Brooklyn, August-September 2013. "An Ocean in Between the Waves," "Disappearing" and "The Haunting Idle" mixed at Uniform Recording, Philadelphia, September-November 2013.  All songs recorded between August 2012 and November 2013 at Uniform Recording (Philly), Echo Mountain (Asheville, NC), Fidelitorium (Kornersville, NC), Rare Book Room (Brooklyn), Miner St (Philly), Water Music (Hoboken), Public Hi-Fi (Austin), University of the Arts (Philly) and Adam's house in Philly.  Mastered at Sterling Sound, NYC. |
 | Discogs URL    | [The War On Drugs - Lost In The Dream](https://www.discogs.com/release/5990802-The-War-On-Drugs-Lost-In-The-Dream) |

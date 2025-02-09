@@ -34,38 +34,38 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Overture | 2:28 |
-| A2 | The Grid | 1:36 |
-| A3 | The Son Of Flynn | 1:35 |
-| A4 | Recognizer | 2:37 |
-| A5 | Armory | 2:02 |
-| A6 | Arena | 1:33 |
-| A7 | Rinzler | 2:17 |
-| A8 | The Game Has Changed | 3:25 |
-| A9 | Outlands | 2:42 |
-| B1 | Adagio For TRON | 4:11 |
-| B2 | Nocturne | 1:41 |
-| B3 | End Of Line | 2:36 |
-| B4 | Derezzed | 1:44 |
-| B5 | Fall | 1:22 |
-| B6 | Solar Sailer | 2:42 |
-| B7 | Rectifier | 2:14 |
-| B8 | Disc Wars | 4:11 |
-| C1 | C.L.U. | 4:39 |
-| C2 | Arrival | 2:00 |
-| C3 | Flynn Lives | 3:22 |
-| C4 | TRON Legacy (End Titles) | 3:17 |
-| C5 | Finale | 4:24 |
-|  | Bonus Content |  |
-| D1 | Sea Of Simulation | 2:40 |
-| D2 | Encom Part 2 | 2:15 |
-| D3 | Encom Part 1 | 3:51 |
-| D4 | Round One | 1:38 |
-| D5 | Castor | 2:18 |
-| D6 | Reflections | 2:36 |
-| D7 | Sunrise Prelude | 2:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Overture |
+| A2 | The Grid |
+| A3 | The Son Of Flynn |
+| A4 | Recognizer |
+| A5 | Armory |
+| A6 | Arena |
+| A7 | Rinzler |
+| A8 | The Game Has Changed |
+| A9 | Outlands |
+| B1 | Adagio For TRON |
+| B2 | Nocturne |
+| B3 | End Of Line |
+| B4 | Derezzed |
+| B5 | Fall |
+| B6 | Solar Sailer |
+| B7 | Rectifier |
+| B8 | Disc Wars |
+| C1 | C.L.U. |
+| C2 | Arrival |
+| C3 | Flynn Lives |
+| C4 | TRON Legacy (End Titles) |
+| C5 | Finale |
+|  | Bonus Content |
+| D1 | Sea Of Simulation |
+| D2 | Encom Part 2 |
+| D3 | Encom Part 1 |
+| D4 | Round One |
+| D5 | Castor |
+| D6 | Reflections |
+| D7 | Sunrise Prelude |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Walt Disney Records |
 | Catalog Number | D001356101 |
-| Notes | 180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark.<br>Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert.<br>Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]")<br>Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.<br><br>Back and insert: This compilation ℗ 2011 Walt Disney Records<br>Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD. |
+| Notes | 180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark. Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert. Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]") Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.  Back and insert: This compilation ℗ 2011 Walt Disney Records Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD. |
 | Discogs URL    | [Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)](https://www.discogs.com/release/7347762-Daft-Punk-TRON-Legacy-Vinyl-Edition-Motion-Picture-Soundtrack) |

@@ -40,21 +40,21 @@ The album was produced by Sean Lakeman.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Food Roof Family | 3:40 |
-| A2 | Generation Fear | 2:36 |
-| A3 | Four Boys Lost | 3:36 |
-| A4 | Burning Hate Like Fire | 3:49 |
-| A5 | Born That Way | 3:13 |
-| A6 | Our New Day | 2:33 |
-| B1 | Calling Out | 3:44 |
-| B2 | Ghosts In The Water | 3:59 |
-| B3 | The Men Who Would Be King | 2:20 |
-| B4 | Albion + Phoenix | 3:09 |
-| B5 | Our Future | 3:55 |
-| C | Food Roof Family (Live In The Studio) |  |
-| D | Our New Day (Live In The Studio) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Food Roof Family |
+| A2 | Generation Fear |
+| A3 | Four Boys Lost |
+| A4 | Burning Hate Like Fire |
+| A5 | Born That Way |
+| A6 | Our New Day |
+| B1 | Calling Out |
+| B2 | Ghosts In The Water |
+| B3 | The Men Who Would Be King |
+| B4 | Albion + Phoenix |
+| B5 | Our Future |
+| C | Food Roof Family (Live In The Studio) |
+| D | Our New Day (Live In The Studio) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The album was produced by Sean Lakeman.
 | Format         | Vinyl LP Deluxe Edition Stereo (Blue Splatter), Vinyl 7" |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP031S |
-| Notes | Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” <br>Signed print. <br><br>Bonus 7”<br>A – Food Roof Family (Live in the Studio)<br>B – Our New Day (Live in the Studio) |
+| Notes | Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7”  Signed print.   Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio) |
 | Discogs URL    | [The Levellers - Peace](https://www.discogs.com/release/15772073-Levellers-Peace) |

@@ -28,28 +28,28 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | D.I.S.C.O. |  |
-| A2 | Amigo |  |
-| A3 | Johnny & Mary |  |
-| A4 | Trouble |  |
-| A5 | I Die You Die |  |
-| A6 | Misunderstanding |  |
-| A7 | If It's Alright With You |  |
-| A8 | The Whisper |  |
-| A9 | Dancin' On A Wire |  |
-| A10 | Metropolis |  |
-| B1 | Feels Like I'm In Love |  |
-| B2 | You're Lying |  |
-| B3 | Use It Up And Wear It Out |  |
-| B4 | Enola Gay |  |
-| B5 | Lies (Through The 80's) |  |
-| B6 | Generals And Majors |  |
-| B7 | Paranoid |  |
-| B8 | Unlock The Funk |  |
-| B9 | You Gotta Be A Hustler |  |
-| B10 | I Think It's Gonna Rain |  |
+| Position | Title |
+|----------|--------|
+| A1 | D.I.S.C.O. |
+| A2 | Amigo |
+| A3 | Johnny & Mary |
+| A4 | Trouble |
+| A5 | I Die You Die |
+| A6 | Misunderstanding |
+| A7 | If It's Alright With You |
+| A8 | The Whisper |
+| A9 | Dancin' On A Wire |
+| A10 | Metropolis |
+| B1 | Feels Like I'm In Love |
+| B2 | You're Lying |
+| B3 | Use It Up And Wear It Out |
+| B4 | Enola Gay |
+| B5 | Lies (Through The 80's) |
+| B6 | Generals And Majors |
+| B7 | Paranoid |
+| B8 | Unlock The Funk |
+| B9 | You Gotta Be A Hustler |
+| B10 | I Think It's Gonna Rain |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 | Format         | Vinyl LP Compilation (Lyntone Pressing) |
 | Label          | Ronco |
 | Catalog Number | RTL 2049 |
-| Notes | Subtitled "20 Electric Hits"<br><br>Track B5 title shortened to 'Lies' on sleeve tracklist.<br> |
+| Notes | Subtitled "20 Electric Hits"    Track B5 title shortened to 'Lies' on sleeve tracklist.   |
 | Discogs URL    | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |

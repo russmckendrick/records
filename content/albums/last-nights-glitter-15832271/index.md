@@ -24,18 +24,18 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | Sing to God (Intro) | 1:22 |
-| 2 | All I Have | 4:25 |
-| 3 | The Weather | 4:32 |
-| 4 | MacbethMacbethMacbeth | 4:11 |
-| 5 | Ruins | 4:37 |
-| 6 | Dresden | 4:52 |
-| 7 | WHTHR (interlude) | 0:48 |
-| 8 | Will & Testament | 4:10 |
-| 9 | Former Glories/Bruising (Reprise) | 4:26 |
-| 10 | Last Night's Glitter | 6:31 |
+| Position | Title |
+|----------|--------|
+| 1 | Sing to God (Intro) |
+| 2 | All I Have |
+| 3 | The Weather |
+| 4 | MacbethMacbethMacbeth |
+| 5 | Ruins |
+| 6 | Dresden |
+| 7 | WHTHR (interlude) |
+| 8 | Will & Testament |
+| 9 | Former Glories/Bruising (Reprise) |
+| 10 | Last Night's Glitter |
 
 
 ## Apple Music

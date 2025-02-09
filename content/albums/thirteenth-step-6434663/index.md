@@ -35,20 +35,20 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Package | 7:40 |
-| A2 | Weak And Powerless | 3:15 |
-| A3 | The Noose | 4:53 |
-| B1 | Blue | 4:13 |
-| B2 | Vanishing | 4:51 |
-| B3 | A Stranger | 3:12 |
-| C1 | The Outsider | 4:06 |
-| C2 | Crimes | 2:34 |
-| C3 | The Nurse Who Loved Me | 4:04 |
-| D1 | Pet | 4:34 |
-| D2 | Lullaby | 2:01 |
-| D3 | Gravity | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | The Package |
+| A2 | Weak And Powerless |
+| A3 | The Noose |
+| B1 | Blue |
+| B2 | Vanishing |
+| B3 | A Stranger |
+| C1 | The Outsider |
+| C2 | Crimes |
+| C3 | The Nurse Who Loved Me |
+| D1 | Pet |
+| D2 | Lullaby |
+| D3 | Gravity |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1114 |
-| Notes | Pressing plant uncredited, identified by matrix numbers <br><br>Sticker says:<br>"Music On Vinyl<br>Classic Album<br>180 gram audiophile vinyl pressing<br>www.musiconvinyl.com"<br><br>Original release Ⓟ 2003 Virgin Records America, Inc. <br>This release Ⓟ & Ⓒ 2014 Universal Music B.V. |
+| Notes | Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V. |
 | Discogs URL    | [A Perfect Circle - Thirteenth Step](https://www.discogs.com/release/6434663-A-Perfect-Circle-Thirteenth-Step) |

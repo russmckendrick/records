@@ -31,17 +31,17 @@ The album consists almost entirely of covers of earlier rhythm and blues and roc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Little Sister | 3:49 |
-| A2 | Go Home, Girl | 5:10 |
-| A3 | The Very Thing That Makes Your Rich | 5:32 |
-| A4 | I Think It's Going To Work Out Fine | 4:43 |
-| B1 | Down In Hollywood | 4:14 |
-| B2 | Look At Granny Run Run | 3:09 |
-| B3 | Trouble You Can't Fool Me | 4:55 |
-| B4 | Don't You Mess Up A Good Thing | 4:08 |
-| B5 | I Can't Win | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Little Sister |
+| A2 | Go Home, Girl |
+| A3 | The Very Thing That Makes Your Rich |
+| A4 | I Think It's Going To Work Out Fine |
+| B1 | Down In Hollywood |
+| B2 | Look At Granny Run Run |
+| B3 | Trouble You Can't Fool Me |
+| B4 | Don't You Mess Up A Good Thing |
+| B5 | I Can't Win |
 
 
 ## Apple Music

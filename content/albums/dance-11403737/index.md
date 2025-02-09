@@ -39,24 +39,24 @@ Dance features the single "She's Got Claws", which reached no. 6 on the singles 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Slowcar To China | 9:05 |
-| A2 | Night Talk | 4:26 |
-| A3 | A Subway Called 'You' | 4:36 |
-| B1 | Cry The Clock Said | 9:54 |
-| B2 | She's Got Claws | 4:59 |
-| B3 | Crash | 3:35 |
-| C1 | Boys Like Me | 4:14 |
-| C2 | Stories | 3:09 |
-| C3 | My Brother's Time | 4:35 |
-| C4 | You Are, You Are | 4:00 |
-| C5 | Moral (Extended Version) | 5:41 |
-| D1 | Stormtrooper In Drag | 4:57 |
-| D2 | Face To Face | 3:45 |
-| D3 | Dance | 2:46 |
-| D4 | Exhibition | 4:26 |
-| D5 | I Sing Rain | 2:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Slowcar To China |
+| A2 | Night Talk |
+| A3 | A Subway Called 'You' |
+| B1 | Cry The Clock Said |
+| B2 | She's Got Claws |
+| B3 | Crash |
+| C1 | Boys Like Me |
+| C2 | Stories |
+| C3 | My Brother's Time |
+| C4 | You Are, You Are |
+| C5 | Moral (Extended Version) |
+| D1 | Stormtrooper In Drag |
+| D2 | Face To Face |
+| D3 | Dance |
+| D4 | Exhibition |
+| D5 | I Sing Rain |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Dance features the single "She's Got Claws", which reached no. 6 on the singles 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple, Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2146 |
-| Notes | Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.<br><br>Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.<br><br>℗ 1981 Beggars Banquet Records Ltd.<br>© 2017 Beggars Banquet Records Ltd.<br>No credits listed on release for tracks D2-5. |
+| Notes | Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.  Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.  ℗ 1981 Beggars Banquet Records Ltd. © 2017 Beggars Banquet Records Ltd. No credits listed on release for tracks D2-5. |
 | Discogs URL    | [Gary Numan - Dance](https://www.discogs.com/release/11403737-Gary-Numan-Dance) |

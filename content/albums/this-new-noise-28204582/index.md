@@ -37,16 +37,16 @@ styles: ["Krautrock", "Classical"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ripples in The Ether (Towards The Infinite) |  |
-| A2 | This New Noise |  |
-| B1 | An Unusual Man |  |
-| B2 | A Cello Sings In Daventry  |  |
-| C1 | Broadcasting House |  |
-| C2 | The Microphone (The Fleet is Lit Up) |  |
-| D1 | A Candle Which Will Not Be Put Out |  |
-| D2 | What Of The Future? (In Touch With The Infinite) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ripples in The Ether (Towards The Infinite) |
+| A2 | This New Noise |
+| B1 | An Unusual Man |
+| B2 | A Cello Sings In Daventry  |
+| C1 | Broadcasting House |
+| C2 | The Microphone (The Fleet is Lit Up) |
+| D1 | A Candle Which Will Not Be Put Out |
+| D2 | What Of The Future? (In Touch With The Infinite) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Krautrock", "Classical"]
 | Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA05 |
-| Notes | Hype Sticker with Barcode:<br>Limited white vinyl double LP<br><br>Indies only limited edition 3000 copies<br><br>℗ 2023 BBC<br>© 2023 Test Card Recordings<br>All runout data is etched |
+| Notes | Hype Sticker with Barcode: Limited white vinyl double LP  Indies only limited edition 3000 copies  ℗ 2023 BBC © 2023 Test Card Recordings All runout data is etched |
 | Discogs URL    | [Public Service Broadcasting - This New Noise ](https://www.discogs.com/release/28204582-Public-Service-Broadcasting-BBC-Symphony-Orchestra-Jules-Buckley-This-New-Noise-) |

@@ -32,22 +32,22 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cecilia Ann |  |
-| A2 | Rock Music |  |
-| A3 | Velouria |  |
-| A4 | Allison |  |
-| A5 | Is She Weird |  |
-| A6 | Ana |  |
-| A7 | All Over The World |  |
-| B1 | Dig For Fire |  |
-| B2 | Down To The Well |  |
-| B3 | The Happening |  |
-| B4 | Blown Away |  |
-| B5 | Hang Wire |  |
-| B6 | Stormy Weather |  |
-| B7 | Havalina |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cecilia Ann |
+| A2 | Rock Music |
+| A3 | Velouria |
+| A4 | Allison |
+| A5 | Is She Weird |
+| A6 | Ana |
+| A7 | All Over The World |
+| B1 | Dig For Fire |
+| B2 | Down To The Well |
+| B3 | The Happening |
+| B4 | Blown Away |
+| B5 | Hang Wire |
+| B6 | Stormy Weather |
+| B7 | Havalina |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
 | Label          | 4AD |
 | Catalog Number | 4AD 0265 LPX |
-| Notes | 30th Anniversary<br>Limited Red Vinyl Edition includes Original Booklet.<br><br>The booklet previously only available in the UK release. |
+| Notes | 30th Anniversary Limited Red Vinyl Edition includes Original Booklet.  The booklet previously only available in the UK release. |
 | Discogs URL    | [Pixies - Bossanova](https://www.discogs.com/release/15709017-Pixies-Bossanova) |

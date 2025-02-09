@@ -39,20 +39,20 @@ Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | God |  |
-| A2 | Ocean To Ocean |  |
-| A3 | Amber Waves |  |
-| A4 | Daisy Dead Petals |  |
-| B1 | Pandora's Aquarium |  |
-| B2 | Silent All These Years |  |
-| B3 | Ruby Through The Looking Glass |  |
-| C1 | Climb |  |
-| C2 | Spring Haze |  |
-| D1 | Code Red |  |
-| D2 | Cornflake Girl |  |
-| D3 | Lady In Blue |  |
+| Position | Title |
+|----------|--------|
+| A1 | God |
+| A2 | Ocean To Ocean |
+| A3 | Amber Waves |
+| A4 | Daisy Dead Petals |
+| B1 | Pandora's Aquarium |
+| B2 | Silent All These Years |
+| B3 | Ruby Through The Looking Glass |
+| C1 | Climb |
+| C2 | Spring Haze |
+| D1 | Code Red |
+| D2 | Cornflake Girl |
+| D3 | Lady In Blue |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. 
 | Format         | Vinyl 2× LP Limited Edition (Turquoise) |
 | Label          | Decca |
 | Catalog Number | 7500639 |
-| Notes | Ltd Edition Coloured Vinyl with signed artwork insert<br>In a Gatefold sleeve<br>Vinyl Mastered by Miles Showell at Abbey Road Studios |
+| Notes | Ltd Edition Coloured Vinyl with signed artwork insert In a Gatefold sleeve Vinyl Mastered by Miles Showell at Abbey Road Studios |
 | Discogs URL    | [Tori Amos - Diving Deep Live](https://www.discogs.com/release/32500305-Tori-Amos-Diving-Deep-Live) |

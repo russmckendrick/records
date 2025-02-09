@@ -46,28 +46,28 @@ The Epic is the third studio album by American jazz saxophonist Kamasi Washingto
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Volume 1 - The Plan |  |
-| A1 | Change Of The Guard | 12:16 |
-| A2 | Isabelle  | 12:13 |
-| A3 | Final Thought | 6:32 |
-| B1 | The Next Step | 14:49 |
-| B2 | Askim | 12:35 |
-|  | Volume 2 - The Glorious Tale |  |
-| C1 | The Rhythm Changes | 7:44 |
-| C2 | Leroy And Lanisha | 9:24 |
-| C3 | Re Run | 8:20 |
-| D1 | Miss Understanding | 8:46 |
-| D2 | Henrietta Our Hero | 7:14 |
-| D3 | Seven Prayers | 7:36 |
-| D4 | Cherokee | 8:14 |
-|  | Volume 3 - The Historic Repetition |  |
-| E1 | The Magnificent 7 | 12:46 |
-| E2 | Re Run Home | 14:06 |
-| F1 | Malcolm's Theme | 8:41 |
-| F2 | Clair De Lune | 11:08 |
-| F3 | The Message | 11:09 |
+| Position | Title |
+|----------|--------|
+|  | Volume 1 - The Plan |
+| A1 | Change Of The Guard |
+| A2 | Isabelle  |
+| A3 | Final Thought |
+| B1 | The Next Step |
+| B2 | Askim |
+|  | Volume 2 - The Glorious Tale |
+| C1 | The Rhythm Changes |
+| C2 | Leroy And Lanisha |
+| C3 | Re Run |
+| D1 | Miss Understanding |
+| D2 | Henrietta Our Hero |
+| D3 | Seven Prayers |
+| D4 | Cherokee |
+|  | Volume 3 - The Historic Repetition |
+| E1 | The Magnificent 7 |
+| E2 | Re Run Home |
+| F1 | Malcolm's Theme |
+| F2 | Clair De Lune |
+| F3 | The Message |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ The Epic is the third studio album by American jazz saxophonist Kamasi Washingto
 | Format         | Vinyl 3× LP (180g), Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF050 |
-| Notes | - 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase.<br>- Half speed cut by Matt Colton at Alchemy Mastering.<br>- Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis<br>- Download MP3 Code sticker on sleeve of Volume 1 - The Plan<br>- Black sticker on shrink wrap (front)<br>- White BC sticker on shrink wrap (rear)<br><br>On rear box:<br>P & C Brainfeeder 2015<br>Made in the EU |
+| Notes | - 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase. - Half speed cut by Matt Colton at Alchemy Mastering. - Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis - Download MP3 Code sticker on sleeve of Volume 1 - The Plan - Black sticker on shrink wrap (front) - White BC sticker on shrink wrap (rear)  On rear box: P & C Brainfeeder 2015 Made in the EU |
 | Discogs URL    | [Kamasi Washington - The Epic](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |

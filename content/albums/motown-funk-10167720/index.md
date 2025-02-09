@@ -27,30 +27,30 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strung Out |  |
-| A2 | Easily Persuaded |  |
-| A3 | When My Love Hand Comes Down |  |
-| A4 | Psychedelic Shack |  |
-| A5 | Smiling Faces Sometimes |  |
-| A6 | The Hunter Gets Captured By The Game |  |
-| A7 | Who Is She (And What Is She To You) |  |
-| B1 | Ball Of Confusion |  |
-| B2 | Feelin' Alright |  |
-| B3 | Can I Get A Witness |  |
-| B4 | Here Comes The Judge |  |
-| B5 | Easin' In |  |
-| C1 | Papa Was A Rolling Stone |  |
-| C2 | "T" Plays It Cool |  |
-| C3 | Rapid Fire |  |
-| C4 | Scratchin' |  |
-| C5 | Give Me Your Love |  |
-| D1 | Brothers Gonna Work It Out |  |
-| D2 | LA (My Town) |  |
-| D3 | Girl You Need A Change Of Mind |  |
-| D4 | Our Lives Are Shaped By What We Love |  |
-| D5 | Sun Country |  |
+| Position | Title |
+|----------|--------|
+| A1 | Strung Out |
+| A2 | Easily Persuaded |
+| A3 | When My Love Hand Comes Down |
+| A4 | Psychedelic Shack |
+| A5 | Smiling Faces Sometimes |
+| A6 | The Hunter Gets Captured By The Game |
+| A7 | Who Is She (And What Is She To You) |
+| B1 | Ball Of Confusion |
+| B2 | Feelin' Alright |
+| B3 | Can I Get A Witness |
+| B4 | Here Comes The Judge |
+| B5 | Easin' In |
+| C1 | Papa Was A Rolling Stone |
+| C2 | "T" Plays It Cool |
+| C3 | Rapid Fire |
+| C4 | Scratchin' |
+| C5 | Give Me Your Love |
+| D1 | Brothers Gonna Work It Out |
+| D2 | LA (My Town) |
+| D3 | Girl You Need A Change Of Mind |
+| D4 | Our Lives Are Shaped By What We Love |
+| D5 | Sun Country |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 | Format         | Vinyl 2× LP Compilation (Red Translucent) |
 | Label          | Tamla Motown |
 | Catalog Number | 537 552-0 |
-| Notes | Released on Record Store Day 2017.<br>Made in the E.U.<br>Coordinated by Spectrum Music, a Universal Music Group Company. |
+| Notes | Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company. |
 | Discogs URL    | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |

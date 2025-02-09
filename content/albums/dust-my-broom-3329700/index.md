@@ -32,20 +32,20 @@ In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the clas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coming Home | 2:34 |
-| A2 | Dust My Broom | 2:26 |
-| A3 | Everyday I Have The Blues | 2:35 |
-| A4 | Fine Little Mama | 2:30 |
-| A5 | I Done Somebody Wrong | 2:24 |
-| A6 | It Hurts Me Too | 2:45 |
-| B1 | Pickin The Blues | 2:20 |
-| B2 | Look On Yonder Wall | 2:51 |
-| B3 | Mean Mistreating Mama | 3:14 |
-| B4 | Rolling And Tumbling | 2:30 |
-| B5 | Standing At The Crossroads | 2:15 |
-| B6 | The Sky Is Crying | 3:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Coming Home |
+| A2 | Dust My Broom |
+| A3 | Everyday I Have The Blues |
+| A4 | Fine Little Mama |
+| A5 | I Done Somebody Wrong |
+| A6 | It Hurts Me Too |
+| B1 | Pickin The Blues |
+| B2 | Look On Yonder Wall |
+| B3 | Mean Mistreating Mama |
+| B4 | Rolling And Tumbling |
+| B5 | Standing At The Crossroads |
+| B6 | The Sky Is Crying |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the clas
 | Format         | Vinyl LP Compilation |
 | Label          | Topline Records |
 | Catalog Number | TOP 120 |
-| Notes | Licensed from Charly Records International APS<br>℗ 1984 Charly Holdings Inc.<br>© 1984 Topline Records Ltd. |
+| Notes | Licensed from Charly Records International APS  ℗ 1984 Charly Holdings Inc.  © 1984 Topline Records Ltd. |
 | Discogs URL    | [Elmore James - Dust My Broom](https://www.discogs.com/release/3329700-Elmore-James-Dust-My-Broom) |

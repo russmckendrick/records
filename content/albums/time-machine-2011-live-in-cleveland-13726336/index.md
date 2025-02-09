@@ -34,34 +34,34 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Spirit Of Radio |  |
-| A2 | Time Stand Still |  |
-| A3 | Presto |  |
-| A4 | Stick It Out |  |
-| B1 | Workin' Them Angels |  |
-| B2 | Leave That Thing Alone |  |
-| B3 | Faithless |  |
-| B4 | BU2B |  |
-| C1 | Free Will |  |
-| C2 | Marathon |  |
-| C3 | Subdivisions |  |
-| D1 | Tom Sawyer |  |
-| D2 | Red Barchetta |  |
-| D3 | YYZ |  |
-| D4 | Limelight |  |
-| E1 | The Camera Eye |  |
-| E2 | Witch Hunt |  |
-| E3 | Vital Signs |  |
-| F1 | Caravan |  |
-| F2 | Moto Perpetuo (Featuring Love For Sale) |  |
-| G1 | O'Malley's Break |  |
-| G2 | Closer To The Heart |  |
-| G3 | 2112 Overture / The Temples Of Syrinx |  |
-| G4 | Far Cry |  |
-| H1 | La Villa Strangiato |  |
-| H2 | Working Man |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Spirit Of Radio |
+| A2 | Time Stand Still |
+| A3 | Presto |
+| A4 | Stick It Out |
+| B1 | Workin' Them Angels |
+| B2 | Leave That Thing Alone |
+| B3 | Faithless |
+| B4 | BU2B |
+| C1 | Free Will |
+| C2 | Marathon |
+| C3 | Subdivisions |
+| D1 | Tom Sawyer |
+| D2 | Red Barchetta |
+| D3 | YYZ |
+| D4 | Limelight |
+| E1 | The Camera Eye |
+| E2 | Witch Hunt |
+| E3 | Vital Signs |
+| F1 | Caravan |
+| F2 | Moto Perpetuo (Featuring Love For Sale) |
+| G1 | O'Malley's Break |
+| G2 | Closer To The Heart |
+| G3 | 2112 Overture / The Temples Of Syrinx |
+| G4 | Far Cry |
+| H1 | La Villa Strangiato |
+| H2 | Working Man |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 | Format         | Vinyl 4× LP Album Reissue (180g) |
 | Label          | Anthem (5) |
 | Catalog Number | R1 176655 |
-| Notes | Issued Under License To Roadrunner Records From ole Media Management L.P.<br><br>Printed in Canada - printed on back cover<br>Manufactured in E.U. - printed on label RIM text<br><br>Download card included. Expires December 31, 2021 |
+| Notes | Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021 |
 | Discogs URL    | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336-Rush-Time-Machine-2011-Live-In-Cleveland) |

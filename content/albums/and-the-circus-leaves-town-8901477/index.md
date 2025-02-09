@@ -29,19 +29,19 @@ styles: ["Stoner Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hurricane | 2:41 |
-| A2 | One Inch Man | 3:29 |
-| A3 | Thee Ol' Boozeroony | 2:47 |
-| A4 | Gloria Lewis | 4:01 |
-| A5 | Phototropic | 5:18 |
-| A6 | El Rodeo | 5:28 |
-| B1 | Jumbo Blimp Jumbo | 4:37 |
-| B2 | Tangy Zizzle | 2:38 |
-| B3 | Size Queen | 3:46 |
-| B4 | Catamaran | 2:59 |
-| B5 | Spaceship Landing | 11:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Hurricane |
+| A2 | One Inch Man |
+| A3 | Thee Ol' Boozeroony |
+| A4 | Gloria Lewis |
+| A5 | Phototropic |
+| A6 | El Rodeo |
+| B1 | Jumbo Blimp Jumbo |
+| B2 | Tangy Zizzle |
+| B3 | Size Queen |
+| B4 | Catamaran |
+| B5 | Spaceship Landing |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Stoner Rock"]
 | Format         | Vinyl LP Album Repress (Blue Marbled, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 7559-61811-1 |
-| Notes | Recorded 3/1/95 - 3/20/95.<br>"Catamaran" previously recorded by Yawning Man.<br><br>This repress is largely identical to the 1999 German Repress. There's a "180g COLOURED VINYL" sticker on shrinkwrap.<br>This version is solid blue, whereas the 1999 version ([r=1768971]) is clear blue.<br>----------------------------------------------------------------------------------------------------<br>The two tracks appearing after "Spaceship Landing" on other versions (M'deea & Day One) are not included here.<br> |
+| Notes | Recorded 3/1/95 - 3/20/95. "Catamaran" previously recorded by Yawning Man.  This repress is largely identical to the 1999 German Repress. There's a "180g COLOURED VINYL" sticker on shrinkwrap. This version is solid blue, whereas the 1999 version ([r=1768971]) is clear blue. ---------------------------------------------------------------------------------------------------- The two tracks appearing after "Spaceship Landing" on other versions (M'deea & Day One) are not included here.  |
 | Discogs URL    | [Kyuss - ...And The Circus Leaves Town](https://www.discogs.com/release/8901477-Kyuss-And-The-Circus-Leaves-Town) |

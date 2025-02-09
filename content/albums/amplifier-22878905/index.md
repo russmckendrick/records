@@ -38,19 +38,19 @@ The critical reception of the album was generally positive, with comments such a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Motorhead | 6:15 |
-| A2 | Airborne | 8:29 |
-| B3 | Panzer | 7:03 |
-| B4 | Old Movies | 5:50 |
-| B5 | Post Acid Youth | 6:06 |
-| C6 | Neon | 4:17 |
-| C7 | On/Off | 6:34 |
-| C8 | The Consultancy | 4:59 |
-| D9 | One Great Summer | 5:57 |
-| D10 | UFOs | 7:27 |
-| D11 | Glory Electricity | 7:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Motorhead |
+| A2 | Airborne |
+| B3 | Panzer |
+| B4 | Old Movies |
+| B5 | Post Acid Youth |
+| C6 | Neon |
+| C7 | On/Off |
+| C8 | The Consultancy |
+| D9 | One Great Summer |
+| D10 | UFOs |
+| D11 | Glory Electricity |
 
 
 ## Apple Music

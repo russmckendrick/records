@@ -29,18 +29,18 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Where Are All The Dreams? |  |
-| A2 | Suck It Up |  |
-| A3 | Chemistry |  |
-| A4 | Fall |  |
-| A5 | Rounding Out The Square Holes |  |
-| B1 | How's This Even Going Down? |  |
-| B2 | So Welcome |  |
-| B3 | Grateful |  |
-| B4 | One Day At A Time |  |
-| B5 | Stripped |  |
+| Position | Title |
+|----------|--------|
+| A1 | Where Are All The Dreams? |
+| A2 | Suck It Up |
+| A3 | Chemistry |
+| A4 | Fall |
+| A5 | Rounding Out The Square Holes |
+| B1 | How's This Even Going Down? |
+| B2 | So Welcome |
+| B3 | Grateful |
+| B4 | One Day At A Time |
+| B5 | Stripped |
 
 
 ## Apple Music

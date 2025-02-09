@@ -39,26 +39,26 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beauty Queen / Horses | 6:07 |
-| A2 | Blood Roses | 3:56 |
-| A3 | Father Lucifer | 3:43 |
-| A4 | Professional Widow | 4:32 |
-| B1 | Mr. Zebra | 1:07 |
-| B2 | Marianne | 4:10 |
-| B3 | Caught A Lite Sneeze | 4:25 |
-| B4 | Muhammad My Friend | 3:49 |
-| B5 | Hey Jupiter | 5:12 |
-| C1 | Way Down | 1:13 |
-| C2 | Little Amsterdam | 4:29 |
-| C3 | Talula | 4:08 |
-| C4 | Not The Red Baron | 3:51 |
-| D1 | Agent Orange | 1:26 |
-| D2 | Doughnut Song | 4:21 |
-| D3 | In The Springtime Of His Voodoo | 5:34 |
-| D4 | Putting The Damage On | 5:10 |
-| D5 | Twinkle | 3:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Beauty Queen / Horses |
+| A2 | Blood Roses |
+| A3 | Father Lucifer |
+| A4 | Professional Widow |
+| B1 | Mr. Zebra |
+| B2 | Marianne |
+| B3 | Caught A Lite Sneeze |
+| B4 | Muhammad My Friend |
+| B5 | Hey Jupiter |
+| C1 | Way Down |
+| C2 | Little Amsterdam |
+| C3 | Talula |
+| C4 | Not The Red Baron |
+| D1 | Agent Orange |
+| D2 | Doughnut Song |
+| D3 | In The Springtime Of His Voodoo |
+| D4 | Putting The Damage On |
+| D5 | Twinkle |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 081227947774 |
-| Notes | "Newly remastered" release in stickered sleeve.<br><br>"Includes download code for MP3 version of the album".<br>with printed lyricsheet.<br><br>Runouts are etched, Optimal plating symbols are mirrored. |
+| Notes | "Newly remastered" release in stickered sleeve.  "Includes download code for MP3 version of the album". with printed lyricsheet.  Runouts are etched, Optimal plating symbols are mirrored. |
 | Discogs URL    | [Tori Amos - Boys For Pele](https://www.discogs.com/release/9408163-Tori-Amos-Boys-For-Pele) |

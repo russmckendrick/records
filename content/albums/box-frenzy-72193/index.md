@@ -32,20 +32,20 @@ At the end of 1987, the NME ranked the album at number 49 in their list of the t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Grebo Guru | 3:56 |
-| A2 | Beaver Patrol | 3:08 |
-| A3 | Let's Get Ugly | 4:00 |
-| A4 | U.B.L.U.D. | 3:49 |
-| A5 | Inside You | 2:37 |
-| A6 | Evelyn | 3:16 |
-| B1 | There Is No Love Between Us Anymore | 3:55 |
-| B2 | She's Surreal | 4:08 |
-| B3 | Intergalactic Love Mission | 3:53 |
-| B4 | Love Missile F1-11 | 4:10 |
-| B5 | Hit The Hi-Tech Groove | 5:10 |
-| B6 | Razorblade Kisses | 1:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Grebo Guru |
+| A2 | Beaver Patrol |
+| A3 | Let's Get Ugly |
+| A4 | U.B.L.U.D. |
+| A5 | Inside You |
+| A6 | Evelyn |
+| B1 | There Is No Love Between Us Anymore |
+| B2 | She's Surreal |
+| B3 | Intergalactic Love Mission |
+| B4 | Love Missile F1-11 |
+| B5 | Hit The Hi-Tech Groove |
+| B6 | Razorblade Kisses |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ At the end of 1987, the NME ranked the album at number 49 in their list of the t
 | Format         | Vinyl LP Album |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 18 |
-| Notes | Produced at Fon Studios, Sheffield.<br><br>Includes printed inner sleeve with lyrics and credits on one side. The other side features an adaptation of an advert (taken from a comic) titled 'The Insult That Made A Man Out Of 'Mac''. A-side identified as Front Side, B-side as Back Side (sleeve and labels).<br><br>℗ 1987 Chapter 22 Records<br>© 1987 Chapter 22 Records<br><br>Made in England<br><br>Mastered at The Townhouse.<br>Pressed at MPO Averton.<br><br>Distributed in the UK by Nine Mile/Cartel<br> |
+| Notes | Produced at Fon Studios, Sheffield.  Includes printed inner sleeve with lyrics and credits on one side. The other side features an adaptation of an advert (taken from a comic) titled 'The Insult That Made A Man Out Of 'Mac''. A-side identified as Front Side, B-side as Back Side (sleeve and labels).  ℗ 1987 Chapter 22 Records © 1987 Chapter 22 Records  Made in England  Mastered at The Townhouse. Pressed at MPO Averton.  Distributed in the UK by Nine Mile/Cartel  |
 | Discogs URL    | [Pop Will Eat Itself - Box Frenzy](https://www.discogs.com/release/72193-Pop-Will-Eat-Itself-Box-Frenzy) |

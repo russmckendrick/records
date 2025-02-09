@@ -36,20 +36,20 @@ The album gradually achieved critical praise and a cult following, and has since
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Care Of Cell 44 |  |
-| A2 | A Rose For Emily |  |
-| A3 | Maybe After He's Gone |  |
-| A4 | Beechwood Park |  |
-| A5 | Brief Candles |  |
-| A6 | Hung Up On A Dream |  |
-| B1 | Changes |  |
-| B2 | I Want Her She Wants Me |  |
-| B3 | This Will Be Our Year |  |
-| B4 | Butcher's Tale (Western Front 1914) |  |
-| B5 | Friends Of Mine |  |
-| B6 | Time Of The Season |  |
+| Position | Title |
+|----------|--------|
+| A1 | Care Of Cell 44 |
+| A2 | A Rose For Emily |
+| A3 | Maybe After He's Gone |
+| A4 | Beechwood Park |
+| A5 | Brief Candles |
+| A6 | Hung Up On A Dream |
+| B1 | Changes |
+| B2 | I Want Her She Wants Me |
+| B3 | This Will Be Our Year |
+| B4 | Butcher's Tale (Western Front 1914) |
+| B5 | Friends Of Mine |
+| B6 | Time Of The Season |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album gradually achieved critical praise and a cult following, and has since
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Big Beat Records |
 | Catalog Number | WIKD 181 |
-| Notes | 30th Anniversary Edition<br><br>"Be not afraid;<br>The isle is full of noises<br>Sound, and sweet airs that give delight and hurt not.<br>Sometimes a thousand twanging instruments<br>Will hum about mine ears; and sometimes voices"<br>(Shakespeare)<br><br>Lacquers cut directly from original analogue tapes at Whitfield Street.<br><br>"We have used the mono version of 'This Will Be Our Year' for this anniversary edition, rather than using the fake stereo that was used on the original Stereo LP CBS LP S63280. All the other recordings were made in stereo."<br><br>℗ 1968 except [B3] ℗ 1997 Marquis Enterprises (on sleeve)<br>℗ 1968 Marquis Music Enterprises (on A-side label)<br>℗ 1968 except [B3] ℗ 1997 Marquis Music Enterprises (on B-side label) |
+| Notes | 30th Anniversary Edition  "Be not afraid; The isle is full of noises Sound, and sweet airs that give delight and hurt not. Sometimes a thousand twanging instruments Will hum about mine ears; and sometimes voices" (Shakespeare)  Lacquers cut directly from original analogue tapes at Whitfield Street.  "We have used the mono version of 'This Will Be Our Year' for this anniversary edition, rather than using the fake stereo that was used on the original Stereo LP CBS LP S63280. All the other recordings were made in stereo."  ℗ 1968 except [B3] ℗ 1997 Marquis Enterprises (on sleeve) ℗ 1968 Marquis Music Enterprises (on A-side label) ℗ 1968 except [B3] ℗ 1997 Marquis Music Enterprises (on B-side label) |
 | Discogs URL    | [The Zombies - Odessey And Oracle](https://www.discogs.com/release/1317966-The-Zombies-Odessey-And-Oracle) |

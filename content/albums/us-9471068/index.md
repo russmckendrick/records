@@ -43,18 +43,18 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come Talk To Me | 7:06 |
-| A2 | Love To Be Loved | 5:17 |
-| A3 | Blood Of Eden | 6:39 |
-| B1 | Steam | 6:03 |
-| B2 | Only Us | 6:32 |
-| C1 | Washing Of The Water | 3:52 |
-| C2 | Digging In The Dirt | 5:18 |
-| C3 | Fourteen Black Paintings | 4:38 |
-| D1 | Kiss That Frog | 5:20 |
-| D2 | Secret World | 7:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Come Talk To Me |
+| A2 | Love To Be Loved |
+| A3 | Blood Of Eden |
+| B1 | Steam |
+| B2 | Only Us |
+| C1 | Washing Of The Water |
+| C2 | Digging In The Dirt |
+| C3 | Fourteen Black Paintings |
+| D1 | Kiss That Frog |
+| D2 | Secret World |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR7 |
-| Notes | 180 Gram Vinyl, Half Speed Remaster.<br>Includes Hi-Res Download Code.<br><br>℗ & © 2016 Peter Gabriel Ltd<br><br>England<br><br>In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped. <br> |
+| Notes | 180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.   |
 | Discogs URL    | [Peter Gabriel - Us](https://www.discogs.com/release/9471068-Peter-Gabriel-Us) |

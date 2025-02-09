@@ -32,20 +32,20 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Love The City |  |
-| A2 | The Greedy Ugly People |  |
-| A3 | Good Fruit |  |
-| A4 | Painting And Kissing |  |
-| A5 | Hold Me Closer |  |
-| A6 | Don't Go |  |
-| B1 | The Greater London Radio |  |
-| B2 | As Soon As You're Ready |  |
-| B3 | She Can't Sleep No More |  |
-| B4 | The Cure For Evil |  |
-| B5 | The Day That Thatcher Dies |  |
-| B6 | Your Head To Your Toes |  |
+| Position | Title |
+|----------|--------|
+| A1 | We Love The City |
+| A2 | The Greedy Ugly People |
+| A3 | Good Fruit |
+| A4 | Painting And Kissing |
+| A5 | Hold Me Closer |
+| A6 | Don't Go |
+| B1 | The Greater London Radio |
+| B2 | As Soon As You're Ready |
+| B3 | She Can't Sleep No More |
+| B4 | The Cure For Evil |
+| B5 | The Day That Thatcher Dies |
+| B6 | Your Head To Your Toes |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow Translucent) |
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wia098lp 2021 |
-| Notes | 20th anniversary vinyl re-issue. Edition of 300.<br><br>No copies shrink-wrapped. <br>Sleeve in an outer poly sleeve with additional barcode on a sticker, unique to this colour pressing.<br>(See photos)<br><br>Die-cut black-printed white paper inner sleeve. |
+| Notes | 20th anniversary vinyl re-issue. Edition of 300.  No copies shrink-wrapped.  Sleeve in an outer poly sleeve with additional barcode on a sticker, unique to this colour pressing. (See photos)  Die-cut black-printed white paper inner sleeve. |
 | Discogs URL    | [Hefner - We Love The City](https://www.discogs.com/release/21297037-Hefner-2-We-Love-The-City) |

@@ -42,29 +42,29 @@ To promote the project, Sia appeared on a number of TV shows, including The Elle
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chandelier |  |
-| A2 | Big Girls Cry |  |
-| A3 | Burn The Pages |  |
-| A4 | Eye Of The Needle |  |
-| A5 | Hostage |  |
-| A6 | Straight For The Knife |  |
-| B7 | Fair Game |  |
-| B8 | Elastic Heart |  |
-| B9 | Free The Animal |  |
-| B10 | Fire Meet Gasoline |  |
-| B11 | Cellophane |  |
-| C12 | Dressed In Black |  |
-| C13 | Elastic Heart |  |
-| C14 | Chandelier (Piano Version) |  |
-| C15 | Elastic Heart (Piano Version) |  |
-| C16 | Chandelier (Four Tet Remix) |  |
-| D17 | Chandelier (Plastic Plates Remix) |  |
-| D18 | Elastic Heart (Clams Casino Remix) |  |
-| D19 | Elastic Heart (Blood Diamonds Remix) |  |
-| D20 | Big Girls Cry (ODESZA Remix) |  |
-| D21 | Big Girls Cry (Bleachers Remix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chandelier |
+| A2 | Big Girls Cry |
+| A3 | Burn The Pages |
+| A4 | Eye Of The Needle |
+| A5 | Hostage |
+| A6 | Straight For The Knife |
+| B7 | Fair Game |
+| B8 | Elastic Heart |
+| B9 | Free The Animal |
+| B10 | Fire Meet Gasoline |
+| B11 | Cellophane |
+| C12 | Dressed In Black |
+| C13 | Elastic Heart |
+| C14 | Chandelier (Piano Version) |
+| C15 | Elastic Heart (Piano Version) |
+| C16 | Chandelier (Four Tet Remix) |
+| D17 | Chandelier (Plastic Plates Remix) |
+| D18 | Elastic Heart (Clams Casino Remix) |
+| D19 | Elastic Heart (Blood Diamonds Remix) |
+| D20 | Big Girls Cry (ODESZA Remix) |
+| D21 | Big Girls Cry (Bleachers Remix) |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ To promote the project, Sia appeared on a number of TV shows, including The Elle
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Reissue (Purple [Light Translucent], 10th Anniversary Edition) |
 | Label          | Monkey Puzzle Records |
 | Catalog Number | 19658885771 |
-| Notes | Issued in a single pocket sleeve, with embossed lettering in front.<br>Each record comes inside a basic white-paper inner sleeve, with die-cut hole.<br>Also, the edition includes a bifold insert, with photos, lyrics and credits for each song.<br><br>℗ + © 2014, 2024 Monkey Puzzle Records under license to RCA Records, a division of Sony Music Entertainment.<br>Distributed by Sony Music Entertainment. [...] Made in the EU.<br><br>_____<br><br>Track A1 published by EMI Music Publishing, Inc. (ASCAP), EMI April Music, Inc. / Aidenjulius Music (ASCAP). Vocals recorded at Hot Closet Studios, Echo Park, CA.<br><br>Track A2 published by EMI Music Publishing Inc. (ASCAP), BMG Sapphire Songs / Magical Thinking (BMI). Recorded at Magical Thinking Studios and Echo Studio, Los Angeles, CA.<br><br>Track A3 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.<br><br>Track A4 published by EMI Music Publishing, Inc. (ASCAP), BMG Sapphire Songs / Mushroom Musical / Christopher Braide Publishing Designee (BMI).<br><br>Track A5 published by EMI Music Publishing, Inc. (ASCAP), Nick Valensi Music (ASCAP).<br><br>Track A6 published by EMI Music Publishing, Inc. (ASCAP), Sony/ATV Music Publishing Limited for Spilt Milk Management. Mixed at Echo Studio, Los Angeles, CA.<br><br>Track B7 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.<br><br>Track B8 published by EMI Blackwood Music, Inc. (BMI), Songs Music Publishing, LLC O/B/O I Like Turtles Music (ASCAP) / Songs Of SMP (ASCAP), Mad Decent Music Publishing LLC / 12th And Spring Garden / Andrew Swanson Music (ASCAP). Produced by Diplo for I Like Turtles Music. Engineered at Mad Decent, Atwater, CA + Echo Studio, Los Angeles, CA. Vocals recorded at Hot Closet Studios, Los Angeles, CA. Mixed at Larrabee Studios, North Hollywood, CA.<br><br>Track B9 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP), Jasper Leak (APRA) / Universal Songs Of Polygram International, Inc. (ASCAP).<br><br>Track B10 published by EMI Music Publishing, Inc. (ASCAP), Chrysalis Music Ltd. (PRS) / BMG Rights Management US LLC (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP).<br><br>Track B11 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.<br><br>Track C12 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP), Songs Music Publishing LLC D/B/A Mighty Seven Music Publishing LLC O/B/O Songs Of SMP (ASCAP), Mighty Seven (ASCAP), Lucky Human Crew Music (ASCAP). |
+| Notes | Issued in a single pocket sleeve, with embossed lettering in front. Each record comes inside a basic white-paper inner sleeve, with die-cut hole. Also, the edition includes a bifold insert, with photos, lyrics and credits for each song.  ℗ + © 2014, 2024 Monkey Puzzle Records under license to RCA Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. [...] Made in the EU.  _____  Track A1 published by EMI Music Publishing, Inc. (ASCAP), EMI April Music, Inc. / Aidenjulius Music (ASCAP). Vocals recorded at Hot Closet Studios, Echo Park, CA.  Track A2 published by EMI Music Publishing Inc. (ASCAP), BMG Sapphire Songs / Magical Thinking (BMI). Recorded at Magical Thinking Studios and Echo Studio, Los Angeles, CA.  Track A3 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.  Track A4 published by EMI Music Publishing, Inc. (ASCAP), BMG Sapphire Songs / Mushroom Musical / Christopher Braide Publishing Designee (BMI).  Track A5 published by EMI Music Publishing, Inc. (ASCAP), Nick Valensi Music (ASCAP).  Track A6 published by EMI Music Publishing, Inc. (ASCAP), Sony/ATV Music Publishing Limited for Spilt Milk Management. Mixed at Echo Studio, Los Angeles, CA.  Track B7 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.  Track B8 published by EMI Blackwood Music, Inc. (BMI), Songs Music Publishing, LLC O/B/O I Like Turtles Music (ASCAP) / Songs Of SMP (ASCAP), Mad Decent Music Publishing LLC / 12th And Spring Garden / Andrew Swanson Music (ASCAP). Produced by Diplo for I Like Turtles Music. Engineered at Mad Decent, Atwater, CA + Echo Studio, Los Angeles, CA. Vocals recorded at Hot Closet Studios, Los Angeles, CA. Mixed at Larrabee Studios, North Hollywood, CA.  Track B9 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP), Jasper Leak (APRA) / Universal Songs Of Polygram International, Inc. (ASCAP).  Track B10 published by EMI Music Publishing, Inc. (ASCAP), Chrysalis Music Ltd. (PRS) / BMG Rights Management US LLC (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP).  Track B11 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP). Mixed at Echo Studio, Los Angeles, CA.  Track C12 published by EMI Music Publishing, Inc. (ASCAP), Kurstin Music / EMI April Music, Inc. (ASCAP), Songs Music Publishing LLC D/B/A Mighty Seven Music Publishing LLC O/B/O Songs Of SMP (ASCAP), Mighty Seven (ASCAP), Lucky Human Crew Music (ASCAP). |
 | Discogs URL    | [Sia - 1000 Forms Of Fear](https://www.discogs.com/release/31105532-Sia-1000-Forms-Of-Fear) |

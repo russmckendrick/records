@@ -28,22 +28,22 @@ Television Themes is the seventh studio album by English comedian and musician M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Are You Being Served |  |
-| A2 | The Good Life |  |
-| A3 | London Weekend Television |  |
-| A4 | Blankety Blank |  |
-| A5 | Top Of The Pops |  |
-| A6 | Picture Box |  |
-| A7 | The Liver Birds |  |
-| B1 | Thames Television |  |
-| B2 | Rainbow |  |
-| B3 | Doctor Who |  |
-| B4 | Wildtrak |  |
-| B5 | World In Action |  |
-| B6 | Sorry |  |
-| B7 | Open University |  |
+| Position | Title |
+|----------|--------|
+| A1 | Are You Being Served |
+| A2 | The Good Life |
+| A3 | London Weekend Television |
+| A4 | Blankety Blank |
+| A5 | Top Of The Pops |
+| A6 | Picture Box |
+| A7 | The Liver Birds |
+| B1 | Thames Television |
+| B2 | Rainbow |
+| B3 | Doctor Who |
+| B4 | Wildtrak |
+| B5 | World In Action |
+| B6 | Sorry |
+| B7 | Open University |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Television Themes is the seventh studio album by English comedian and musician M
 | Format         | Vinyl LP Album (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |
-| Notes | "Halloween" orange vinyl.<br><br>Sleeve signed by Matt Berry.<br><br>Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |
+| Notes | "Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |
 | Discogs URL    | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-3-Television-Themes) |

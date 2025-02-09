@@ -34,18 +34,18 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beating Of Hearts | 3:58 |
-| A2 | Wonderland | 4:47 |
-| A3 | Love On A Farmboy's Wages | 3:58 |
-| A4 | Great Fire | 3:47 |
-| A5 | Deliver Us From The Elements | 4:35 |
-| B1 | Human Alchemy | 5:10 |
-| B2 | Ladybird | 4:32 |
-| B3 | In Loving Memory Of A Name | 3:15 |
-| B4 | Me And The Wind | 4:17 |
-| B5 | Funk Pop A Roll | 3:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Beating Of Hearts |
+| A2 | Wonderland |
+| A3 | Love On A Farmboy's Wages |
+| A4 | Great Fire |
+| A5 | Deliver Us From The Elements |
+| B1 | Human Alchemy |
+| B2 | Ladybird |
+| B3 | In Loving Memory Of A Name |
+| B4 | Me And The Wind |
+| B5 | Funk Pop A Roll |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 | Format         | Vinyl LP Album Reissue (200g) |
 | Label          | Ape House |
 | Catalog Number | APELP106 |
-| Notes | The album has been mastered with input from Andy Partridge.<br><br>Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'<br> <br><br> |
+| Notes | The album has been mastered with input from Andy Partridge.  Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'     |
 | Discogs URL    | [XTC - Mummer](https://www.discogs.com/release/23134673-XTC-Mummer) |

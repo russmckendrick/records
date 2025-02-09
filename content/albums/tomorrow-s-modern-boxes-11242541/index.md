@@ -35,16 +35,16 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Brain In A Bottle |  |
-| A2 | Guess Again! |  |
-| A3 | Interference |  |
-| A4 | The Mother Lode |  |
-| B1 | Truth Ray |  |
-| B2 | There Is No Ice (For My Drink) |  |
-| B3 | Pink Section |  |
-| B4 | Nose Grows Some |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Brain In A Bottle |
+| A2 | Guess Again! |
+| A3 | Interference |
+| A4 | The Mother Lode |
+| B1 | Truth Ray |
+| B2 | There Is No Ice (For My Drink) |
+| B3 | Pink Section |
+| B4 | Nose Grows Some |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 | Format         | Vinyl LP Album Reissue (White, 180g) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP866 |
-| Notes | High gloss sleeve with a white border around the artwork front and back.<br>Printed inner sleeve, also gloss, with undersized centre holes die cut, made from thick gauge cardstock.<br>Opaque white heavyweight vinyl with undersized labels.<br>There is an 8cm square download voucher, printed on both sides, (sleeve art on one side, redemption instructions at WASTE headquarters on the other).<br>Package came shrink-wrapped.<br><br>Durations are not shown on the release.<br>Side B ends in a locked groove.<br><br>2014 Unsustainabubble Ltd.<br>Made in the EU |
+| Notes | High gloss sleeve with a white border around the artwork front and back. Printed inner sleeve, also gloss, with undersized centre holes die cut, made from thick gauge cardstock. Opaque white heavyweight vinyl with undersized labels. There is an 8cm square download voucher, printed on both sides, (sleeve art on one side, redemption instructions at WASTE headquarters on the other). Package came shrink-wrapped.  Durations are not shown on the release. Side B ends in a locked groove.  2014 Unsustainabubble Ltd. Made in the EU |
 | Discogs URL    | [Thom Yorke - Tomorrow's Modern Boxes](https://www.discogs.com/release/11242541-Thom-Yorke-Tomorrows-Modern-Boxes) |

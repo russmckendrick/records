@@ -32,24 +32,24 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Commemorative ___ T-Shirt | 8:37 |
-| A2 | Unfamiliar | 6:32 |
-| B1 | Trail Of Fire | 8:07 |
-| B2 | Savant | 8:07 |
-| C1 | Only Twin | 7:22 |
-| C2 | An Old Friend Of The Christy's | 10:20 |
-| D1 | Sleeping Dogs And Dead Lions | 6:43 |
-| D2 | The Frame | 10:41 |
-| CD-1 | Commemorative ___ T-Shirt | 8:37 |
-| CD-2 | Unfamiliar | 6:32 |
-| CD-3 | Trail Of Fire | 8:07 |
-| CD-4 | Savant | 8:07 |
-| CD-5 | Only Twin | 7:22 |
-| CD-6 | An Old Friend Of The Christy's | 10:20 |
-| CD-7 | Sleeping Dogs And Dead Lions | 6:43 |
-| CD-8 | The Frame | 10:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Commemorative ___ T-Shirt |
+| A2 | Unfamiliar |
+| B1 | Trail Of Fire |
+| B2 | Savant |
+| C1 | Only Twin |
+| C2 | An Old Friend Of The Christy's |
+| D1 | Sleeping Dogs And Dead Lions |
+| D2 | The Frame |
+| CD-1 | Commemorative ___ T-Shirt |
+| CD-2 | Unfamiliar |
+| CD-3 | Trail Of Fire |
+| CD-4 | Savant |
+| CD-5 | Only Twin |
+| CD-6 | An Old Friend Of The Christy's |
+| CD-7 | Sleeping Dogs And Dead Lions |
+| CD-8 | The Frame |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 | Format         | Vinyl 2× LP Album (Red Transparent), CD Album, All Media Deluxe Edition Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 001 |
-| Notes | Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.<br><br>Transparent red vinyl limited to 100 copies.  |
+| Notes | Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.    Transparent red vinyl limited to 100 copies.  |
 | Discogs URL    | [Oceansize - Frames](https://www.discogs.com/release/6030016-Oceansize-Frames) |

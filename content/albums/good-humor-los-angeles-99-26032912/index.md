@@ -36,31 +36,31 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Good Humor |  |
-| A1 | Woodcabin |  |
-| A2 | Sylvie |  |
-| A3 | Split Screen |  |
-| A4 | Mr Donut |  |
-| A5 | Goodnight Jack |  |
-| B1 | Lose That Girl |  |
-| B2 | The Bad Photographer |  |
-| B3 | Been So Long |  |
-| B4 | Postman |  |
-| B5 | Erica America |  |
-| B6 | Dutch TV |  |
-|  | Los Angeles '99 |  |
-| CD-1 | Introduction  | 0:22 |
-| CD-2 | Nothing Can Stop Us	 | 3:47 |
-| CD-3 | Lose That Girl	 | 3:50 |
-| CD-4 | Hug My Soul	 | 4:10 |
-| CD-5 | Goodnight Jack	 | 4:43 |
-| CD-6 | Erica America	 | 3:57 |
-| CD-7 | Been So Long | 4:03 |
-| CD-8 | The Bad Photographer | 4:26 |
-| CD-9 | Sylvie | 4:36 |
-| CD-10 | He's On The Phone	 | 4:50 |
+| Position | Title |
+|----------|--------|
+|  | Good Humor |
+| A1 | Woodcabin |
+| A2 | Sylvie |
+| A3 | Split Screen |
+| A4 | Mr Donut |
+| A5 | Goodnight Jack |
+| B1 | Lose That Girl |
+| B2 | The Bad Photographer |
+| B3 | Been So Long |
+| B4 | Postman |
+| B5 | Erica America |
+| B6 | Dutch TV |
+|  | Los Angeles '99 |
+| CD-1 | Introduction  |
+| CD-2 | Nothing Can Stop Us	 |
+| CD-3 | Lose That Girl	 |
+| CD-4 | Hug My Soul	 |
+| CD-5 | Goodnight Jack	 |
+| CD-6 | Erica America	 |
+| CD-7 | Been So Long |
+| CD-8 | The Bad Photographer |
+| CD-9 | Sylvie |
+| CD-10 | He's On The Phone	 |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Splatter [Green Transparent with Dark Green & White Splatter]), CD Promo |
 | Label          | Heavenly |
 | Catalog Number | HVNLP71C |
-| Notes | Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021) <br><br>LP :<br>Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect.<br>Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS]<br>All tracks produced [...] at Tambourine Studios, Malmo<br>Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP<br>Includes digital download card for Good Humor.<br><br>CD :<br>℗ 2023 Saint Etienne Limited<br>© 1999 Saint Etienne Limited<br>Promotional - Not for resale |
+| Notes | Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021)   LP : Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect. Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS] All tracks produced [...] at Tambourine Studios, Malmo Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP Includes digital download card for Good Humor.  CD : ℗ 2023 Saint Etienne Limited © 1999 Saint Etienne Limited Promotional - Not for resale |
 | Discogs URL    | [Saint Etienne - Good Humor / Los Angeles '99](https://www.discogs.com/release/26032912-Saint-Etienne-Good-Humor-Los-Angeles-99) |

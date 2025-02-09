@@ -46,18 +46,18 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Sort Of Homecoming |  |
-| A2 | Pride (In The Name Of Love) |  |
-| A3 | Wire |  |
-| A4 | The Unforgettable Fire |  |
-| A5 | Promenade |  |
-| B1 | 4th Of July |  |
-| B2 | Bad |  |
-| B3 | Indian Summer Sky |  |
-| B4 | Elvis Presley And America |  |
-| B5 | MLK |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Sort Of Homecoming |
+| A2 | Pride (In The Name Of Love) |
+| A3 | Wire |
+| A4 | The Unforgettable Fire |
+| A5 | Promenade |
+| B1 | 4th Of July |
+| B2 | Bad |
+| B3 | Indian Summer Sky |
+| B4 | Elvis Presley And America |
+| B5 | MLK |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 | Format         | Vinyl LP Album Limited Edition Reissue (Burgundy, 180g) |
 | Label          | Mercury |
 | Catalog Number | 1792416 |
-| Notes | 35th Anniversary<br>Colour stated as "wine" on release.<br>Includes 16 page booklet with lyrics and liner notes.<br><br>Exclusive retailers in multiple territories:<br><br>UK - HMV<br>Australia - JB HiFi<br>Canada - Sunrise Records<br>France - FNAC<br>US - [l1052727]<br><br>℗ & © 2009 Universal-Island Records Limited under exclusive licence to Mercury Records Limited in the UK, Interscope Records in the US and Universal Music Group for the rest of the world.<br>Made in the EU<br><br>All runouts stamped with '1792416-A5' and 'CB/SS' on side A and with '1792416-B5' and 'CB/SS' on side B etched. |
+| Notes | 35th Anniversary Colour stated as "wine" on release. Includes 16 page booklet with lyrics and liner notes.  Exclusive retailers in multiple territories:  UK - HMV Australia - JB HiFi Canada - Sunrise Records France - FNAC US - [l1052727]  ℗ & © 2009 Universal-Island Records Limited under exclusive licence to Mercury Records Limited in the UK, Interscope Records in the US and Universal Music Group for the rest of the world. Made in the EU  All runouts stamped with '1792416-A5' and 'CB/SS' on side A and with '1792416-B5' and 'CB/SS' on side B etched. |
 | Discogs URL    | [U2 - The Unforgettable Fire](https://www.discogs.com/release/13734008-U2-The-Unforgettable-Fire) |

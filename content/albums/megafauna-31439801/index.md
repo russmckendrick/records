@@ -29,17 +29,17 @@ During the Pleistocene, megafauna were diverse across the globe, with most conti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | North Coast Megafauna  | 6:27 |
-| A2 | Do Mór | 4:14 |
-| A3 | Gallery Of Honour | 5:32 |
-| A4 | Mother Belfast Pt.1 | 5:51 |
-| B1 | Mother Belfast Pt.2 | 3:46 |
-| B2 | Years Ago | 5:14 |
-| B3 | Any Joy | 3:09 |
-| B4 | Button Days | 3:19 |
-| B5 | Me And Dunbar | 5:52 |
+| Position | Title |
+|----------|--------|
+| A1 | North Coast Megafauna  |
+| A2 | Do Mór |
+| A3 | Gallery Of Honour |
+| A4 | Mother Belfast Pt.1 |
+| B1 | Mother Belfast Pt.2 |
+| B2 | Years Ago |
+| B3 | Any Joy |
+| B4 | Button Days |
+| B5 | Me And Dunbar |
 
 
 ## Apple Music

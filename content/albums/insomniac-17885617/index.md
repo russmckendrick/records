@@ -38,31 +38,31 @@ The album received generally positive reviews from critics, who praised the sing
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Armatage Shanks |  |
-| A2 | Brat |  |
-| A3 | Stuck With Me |  |
-| A4 | Geek Stink Breath |  |
-| A5 | No Pride |  |
-| A6 | Bab's Uvula Who? |  |
-| A7 | 86 |  |
-| B1 | Panic Song |  |
-| B2 | Stuart And The Ave. |  |
-| B3 | Brain Stew |  |
-| B4 | Jaded |  |
-| B5 | Westbound Sign |  |
-| B6 | Tight Wad Hill |  |
-| B7 | Walking Contradiction |  |
-|  | Live In Prague |  |
-| C1 | Armatage Shanks |  |
-| C2 | Brat |  |
-| C3 | Geek Stink Breath |  |
-| C4 | Stuck With Me |  |
-| C5 | Brain Stew |  |
-| C6 | Jaded |  |
-| C7 | Walking Contradiction |  |
-| C8 | 86 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Armatage Shanks |
+| A2 | Brat |
+| A3 | Stuck With Me |
+| A4 | Geek Stink Breath |
+| A5 | No Pride |
+| A6 | Bab's Uvula Who? |
+| A7 | 86 |
+| B1 | Panic Song |
+| B2 | Stuart And The Ave. |
+| B3 | Brain Stew |
+| B4 | Jaded |
+| B5 | Westbound Sign |
+| B6 | Tight Wad Hill |
+| B7 | Walking Contradiction |
+|  | Live In Prague |
+| C1 | Armatage Shanks |
+| C2 | Brat |
+| C3 | Geek Stink Breath |
+| C4 | Stuck With Me |
+| C5 | Brain Stew |
+| C6 | Jaded |
+| C7 | Walking Contradiction |
+| C8 | 86 |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The album received generally positive reviews from critics, who praised the sing
 | Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched, All Media Deluxe Edition Limited Edition (25th Anniversary Edition) |
 | Label          | Reprise Records |
 | Catalog Number | 093624884576 |
-| Notes | This release has center labels which indicate "Made in Czech Republic." <br>For the release with center labels which indicate "Made in Canada" instead, please refer to [r=21660517].<br><br>Packaged in rainbow foil cover<br>Side C is a live recording from Prague in 1996. Etching of album cover on side D.<br><br>Reprise Records, A Warner Music Group Company. <br>777 S. Santa Fe Ave. Los Angeles, CA 90021; 1633 Broadway, New York, NY 10019-6708.<br>© 2021 Reprise Records. ℗ 2016, 2020 Reprise Records. Made in Czech Republic.<br><br>Runouts are etched and stamped. |
+| Notes | This release has center labels which indicate "Made in Czech Republic."  For the release with center labels which indicate "Made in Canada" instead, please refer to [r=21660517].  Packaged in rainbow foil cover Side C is a live recording from Prague in 1996. Etching of album cover on side D.  Reprise Records, A Warner Music Group Company.  777 S. Santa Fe Ave. Los Angeles, CA 90021; 1633 Broadway, New York, NY 10019-6708. © 2021 Reprise Records. ℗ 2016, 2020 Reprise Records. Made in Czech Republic.  Runouts are etched and stamped. |
 | Discogs URL    | [Green Day - Insomniac](https://www.discogs.com/release/17885617-Green-Day-Insomniac) |

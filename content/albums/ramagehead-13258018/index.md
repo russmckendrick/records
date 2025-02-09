@@ -33,17 +33,17 @@ styles: ["Art Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kneel To Nothing |  |
-| A2 | Signals Erased |  |
-| A3 | Beyond Sight |  |
-| A4 | Black Blooms |  |
-| A5 | Some Other Rainbow Part 1 |  |
-| B6 | Time Corroded |  |
-| B7 | Down The Road |  |
-| B8 | Strangled Words |  |
-| B9 | Some Other Rainbow Part 2 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kneel To Nothing |
+| A2 | Signals Erased |
+| A3 | Beyond Sight |
+| A4 | Black Blooms |
+| A5 | Some Other Rainbow Part 1 |
+| B6 | Time Corroded |
+| B7 | Down The Road |
+| B8 | Strangled Words |
+| B9 | Some Other Rainbow Part 2 |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1014 |
-| Notes | Made in Germany.<br><br>Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.<br><br>Tracks numbered 1-9 on the back cover and labels. |
+| Notes | Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels. |
 | Discogs URL    | [ORk - Ramagehead](https://www.discogs.com/release/13258018-ORk-Ramagehead) |

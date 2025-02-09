@@ -28,18 +28,18 @@ styles: ["Acid Jazz", "Jazz-Funk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rest Of Me | 4:23 |
-| A2 | Put Yourself In My Shoes | 5:01 |
-| A3 | Reality | 3:54 |
-| A4 | Country Funkin' | 4:45 |
-| A5 | Got To Give | 3:45 |
-| B1 | Mother's Tongue | 4:18 |
-| B2 | Dream Come True | 5:23 |
-| B3 | Never Stop | 4:45 |
-| B4 | Headhunters | 5:30 |
-| B5 | A Day At The Seaside | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Rest Of Me |
+| A2 | Put Yourself In My Shoes |
+| A3 | Reality |
+| A4 | Country Funkin' |
+| A5 | Got To Give |
+| B1 | Mother's Tongue |
+| B2 | Dream Come True |
+| B3 | Never Stop |
+| B4 | Headhunters |
+| B5 | A Day At The Seaside |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Acid Jazz", "Jazz-Funk"]
 | Format         | Vinyl LP Compilation Limited Edition Reissue Remastered (White) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP900W |
-| Notes | Tracks two, five and seven ⓟ 1988 Acid Jazz<br>All other tracks ⓟ 1990 Acid Jazz<br>This album ⓟ & © 1994 Acid Jazz<br>This edition ⓟ & © 2023 Acid Jazz Aquisition Ltd<br>www.acidjazz.co.uk<br><br>On sticker:<br>First vinyl reissue of the ultimate rare and previously unissued album from The Heavies.<br>Featuring their debut single, original versions of big hits, and super heavy funk.<br>Issued on red (in fact white) vinyl, remastered from the original source tapes.<br><br>A1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>A2 Recorded 1988 for [l3198].<br>A3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>A4 Recorded 1990.<br>A5 The A-side for the band's only single for [l3198] released April 1988.<br><br>B1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>B2 Recorded 1988 for [l3198]. Later re-recorded to become the band's breakthrough hit.<br>B3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. New version became first [a157154] single. Re-recorded Heavies version became big US & UK hit.<br>B4 Recorded 1990 live in Vienna for an Austrian radioshow.<br>B5 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url] but didn't make the final running order.<br><br>Track durations are not printed on this release. |
+| Notes | Tracks two, five and seven ⓟ 1988 Acid Jazz All other tracks ⓟ 1990 Acid Jazz This album ⓟ & © 1994 Acid Jazz This edition ⓟ & © 2023 Acid Jazz Aquisition Ltd www.acidjazz.co.uk  On sticker: First vinyl reissue of the ultimate rare and previously unissued album from The Heavies. Featuring their debut single, original versions of big hits, and super heavy funk. Issued on red (in fact white) vinyl, remastered from the original source tapes.  A1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. A2 Recorded 1988 for [l3198]. A3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. A4 Recorded 1990. A5 The A-side for the band's only single for [l3198] released April 1988.  B1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. B2 Recorded 1988 for [l3198]. Later re-recorded to become the band's breakthrough hit. B3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. New version became first [a157154] single. Re-recorded Heavies version became big US & UK hit. B4 Recorded 1990 live in Vienna for an Austrian radioshow. B5 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url] but didn't make the final running order.  Track durations are not printed on this release. |
 | Discogs URL    | [The Brand New Heavies - Original Flava](https://www.discogs.com/release/27141702-The-Brand-New-Heavies-Original-Flava) |

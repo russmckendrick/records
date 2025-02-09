@@ -38,21 +38,21 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Far Cry | 5:19 |
-| A2 | Armor And Sword | 6:36 |
-| A3 | Working Them Angels | 4:47 |
-| B1 | Larger Bowl | 4:07 |
-| B2 | Spindrift | 5:24 |
-| B3 | Monkey Business | 6:01 |
-| C1 | The Way The Wind Blows | 6:28 |
-| C2 | Hope | 2:02 |
-| C3 | Faithless | 5:31 |
-| D1 | Bravest Face | 5:12 |
-| D2 | Good News First | 4:51 |
-| D3 | Malignant Narcissism | 2:17 |
-| D4 | Hold On | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Far Cry |
+| A2 | Armor And Sword |
+| A3 | Working Them Angels |
+| B1 | Larger Bowl |
+| B2 | Spindrift |
+| B3 | Monkey Business |
+| C1 | The Way The Wind Blows |
+| C2 | Hope |
+| C3 | Faithless |
+| D1 | Bravest Face |
+| D2 | Good News First |
+| D3 | Malignant Narcissism |
+| D4 | Hold On |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (200 gram, Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | R1 177084 |
-| Notes | Remastered On 200 gram Audiophile vinyl.<br>Includes high-res 24/96khz digital download card and 2 glossy lyric sheets. |
+| Notes | Remastered On 200 gram Audiophile vinyl. Includes high-res 24/96khz digital download card and 2 glossy lyric sheets. |
 | Discogs URL    | [Rush - Snakes & Arrows](https://www.discogs.com/release/7973425-Rush-Snakes-Arrows) |

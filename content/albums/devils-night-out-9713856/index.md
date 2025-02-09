@@ -32,18 +32,18 @@ Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Devil's Night Out |  |
-| A2 | Howwhywuz, Howwhyyam |  |
-| A3 | Drunks And Children |  |
-| A4 | Hope I Never Lose My Wallet |  |
-| A5 | Haji |  |
-| B1 | The Bartender's Song |  |
-| B2 | Patricia |  |
-| B3 | The Cave ('Cognito Fiesta Version) |  |
-| B4 | Do Something Crazy |  |
-| B5 | A Little Bit Ugly |  |
+| Position | Title |
+|----------|--------|
+| A1 | Devil's Night Out |
+| A2 | Howwhywuz, Howwhyyam |
+| A3 | Drunks And Children |
+| A4 | Hope I Never Lose My Wallet |
+| A5 | Haji |
+| B1 | The Bartender's Song |
+| B2 | Patricia |
+| B3 | The Cave ('Cognito Fiesta Version) |
+| B4 | Do Something Crazy |
+| B5 | A Little Bit Ugly |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It w
 | Format         | Vinyl LP Album Reissue |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! #44 |
-| Notes | Engineered at the Fort Apache Boston<br><br>Issued with a lyric sheet |
+| Notes | Engineered at the Fort Apache Boston  Issued with a lyric sheet |
 | Discogs URL    | [The Mighty Mighty Bosstones - Devils Night Out](https://www.discogs.com/release/9713856-The-Mighty-Mighty-Bosstones-Devils-Night-Out) |

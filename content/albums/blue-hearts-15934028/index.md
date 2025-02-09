@@ -37,22 +37,22 @@ The album peaked at No. 181 on the Billboard 200.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heart On My Sleeve | 1:58 |
-| A2 | Next Generation | 2:20 |
-| A3 | American Crisis | 2:28 |
-| A4 | Fireball | 1:39 |
-| A5 | Forecast of Rain | 2:26 |
-| A6 | When You Left | 2:32 |
-| A7 | Siberian Butterfly | 2:10 |
-| A8 | Everyth!ng to You | 2:51 |
-| B1 | Racing to the End | 1:51 |
-| B2 | Baby Needs a Cookie | 2:57 |
-| B3 | Little Pieces | 2:37 |
-| B4 | Leather Dreams | 2:53 |
-| B5 | Password to My Soul | 2:54 |
-| B6 | The Ocean | 3:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Heart On My Sleeve |
+| A2 | Next Generation |
+| A3 | American Crisis |
+| A4 | Fireball |
+| A5 | Forecast of Rain |
+| A6 | When You Left |
+| A7 | Siberian Butterfly |
+| A8 | Everyth!ng to You |
+| B1 | Racing to the End |
+| B2 | Baby Needs a Cookie |
+| B3 | Little Pieces |
+| B4 | Leather Dreams |
+| B5 | Password to My Soul |
+| B6 | The Ocean |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The album peaked at No. 181 on the Billboard 200.
 | Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
 | Label          | Merge Records |
 | Catalog Number | MRG730 |
-| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.<br><br>Runouts are etched. |
+| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.  Runouts are etched. |
 | Discogs URL    | [Bob Mould - Blue Hearts](https://www.discogs.com/release/15934028-Bob-Mould-Blue-Hearts) |

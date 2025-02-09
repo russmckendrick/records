@@ -27,18 +27,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Preservation |  |
-| A2 | The Arrow And The Aim |  |
-| A3 | Richard |  |
-| A4 | I Come Home To You |  |
-| A5 | Hanson St Part 2 (A River) |  |
-| B1 | Right On Time |  |
-| B2 | Reach My Destination |  |
-| B3 | Te Aro |  |
-| B4 | The Way It Goes |  |
-| B5 | Ain't Got You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Preservation |
+| A2 | The Arrow And The Aim |
+| A3 | Richard |
+| A4 | I Come Home To You |
+| A5 | Hanson St Part 2 (A River) |
+| B1 | Right On Time |
+| B2 | Reach My Destination |
+| B3 | Te Aro |
+| B4 | The Way It Goes |
+| B5 | Ain't Got You |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Basin Rock |
 | Catalog Number | BR002 |
-| Notes | Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand. <br><br>Made in the EU. <br><br>2-piece flip-back cover |
+| Notes | Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand.   Made in the EU.   2-piece flip-back cover |
 | Discogs URL    | [Nadia Reid - Preservation](https://www.discogs.com/release/9938964-Nadia-Reid-Preservation) |

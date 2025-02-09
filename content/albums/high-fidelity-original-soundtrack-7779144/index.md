@@ -31,23 +31,23 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | You're Gonna Miss Me | 2:28 |
-| A2 | Everybody's Gonna Be Happy | 2:18 |
-| A3 | I'm Wrong About Everything | 3:36 |
-| A4 | Oh! Sweet Nuthin' | 7:27 |
-| B1 | Always See Your Face | 3:21 |
-| B2 | Most Of The Time | 5:03 |
-| B3 | Fallen For You | 3:16 |
-| B4 | Dry The Rain | 6:05 |
-| C1 | Shipbuilding | 4:53 |
-| C2 | Cold Blooded Old Times | 4:12 |
-| C3 | Let's Get It On | 4:27 |
-| D1 | Lo Boob Oscillator | 6:36 |
-| D2 | Inside Game | 3:42 |
-| D3 | Who Loves The Sun | 2:46 |
-| D4 | I Believe (When I Fall In Love It Will Be Forever) | 4:51 |
+| Position | Title |
+|----------|--------|
+| A1 | You're Gonna Miss Me |
+| A2 | Everybody's Gonna Be Happy |
+| A3 | I'm Wrong About Everything |
+| A4 | Oh! Sweet Nuthin' |
+| B1 | Always See Your Face |
+| B2 | Most Of The Time |
+| B3 | Fallen For You |
+| B4 | Dry The Rain |
+| C1 | Shipbuilding |
+| C2 | Cold Blooded Old Times |
+| C3 | Let's Get It On |
+| D1 | Lo Boob Oscillator |
+| D2 | Inside Game |
+| D3 | Who Loves The Sun |
+| D4 | I Believe (When I Fall In Love It Will Be Forever) |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 | Format         | Vinyl 2× LP Record Store Day Compilation Numbered Reissue (Orange) |
 | Label          | Hollywood Records |
 | Catalog Number | D002176001 |
-| Notes | "Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015<br><br>Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.<br><br><br> |
+| Notes | "Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015  Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.    |
 | Discogs URL    | [Various - High Fidelity (Original Soundtrack)](https://www.discogs.com/release/7779144-Various-High-Fidelity-Original-Soundtrack) |

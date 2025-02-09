@@ -27,28 +27,28 @@ styles: ["Country"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Any Old Arms Won't Do | 2:47 |
-| A2 | Slow Down Old World | 1:51 |
-| A3 | Healing Hands Of Time | 2:13 |
-| A4 | And So Will You My Love | 3:16 |
-| A5 | Things To Remember | 1:45 |
-| A6 | One Step Beyond | 2:00 |
-| A7 | Undo The Wrong | 2:57 |
-| A8 | Home Is Where You're Happy | 3:01 |
-| A9 | Why Are You Picking On Me? | 1:55 |
-| A10 | I Hope So | 2:35 |
-| B1 | I Let My Mind Wonder | 3:44 |
-| B2 | December Days | 2:32 |
-| B3 | I Can't Find The Time | 2:41 |
-| B4 | I Didn't Sleep A Wink | 2:11 |
-| B5 | You Wouldn't Cross The Street To Say Goodbye | 1:47 |
-| B6 | Suffering In Silence | 2:27 |
-| B7 | I Feel Sorry For Him | 2:19 |
-| B8 | You'll Always Have Someone | 2:56 |
-| B9 | I Just Don't Understand | 2:48 |
-| B10 | Pages | 1:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Any Old Arms Won't Do |
+| A2 | Slow Down Old World |
+| A3 | Healing Hands Of Time |
+| A4 | And So Will You My Love |
+| A5 | Things To Remember |
+| A6 | One Step Beyond |
+| A7 | Undo The Wrong |
+| A8 | Home Is Where You're Happy |
+| A9 | Why Are You Picking On Me? |
+| A10 | I Hope So |
+| B1 | I Let My Mind Wonder |
+| B2 | December Days |
+| B3 | I Can't Find The Time |
+| B4 | I Didn't Sleep A Wink |
+| B5 | You Wouldn't Cross The Street To Say Goodbye |
+| B6 | Suffering In Silence |
+| B7 | I Feel Sorry For Him |
+| B8 | You'll Always Have Someone |
+| B9 | I Just Don't Understand |
+| B10 | Pages |
 
 
 ## Apple Music

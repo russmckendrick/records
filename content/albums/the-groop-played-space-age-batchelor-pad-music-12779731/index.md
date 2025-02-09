@@ -26,18 +26,18 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Easy Listening |  |
-| A1 | Avant Garde M.O.R. | 4:09 |
-| A2 | Space Age Bachelor Pad Music (Mellow) | 1:45 |
-| A3 | The Groop Play Chord X | 2:03 |
-| A4 | Space Age Bachelor Pad Music (Foamy) | 2:13 |
-| A5 | Ronco Symphony | 3:37 |
-|  | New Wave |  |
-| B1 | We're Not Adult Orientated | 6:07 |
-| B2 | U.H.F. - M.F.P. | 4:54 |
-| B3 | We're Not Adult Orientated (Neu Wave Live) | 3:32 |
+| Position | Title |
+|----------|--------|
+|  | Easy Listening |
+| A1 | Avant Garde M.O.R. |
+| A2 | Space Age Bachelor Pad Music (Mellow) |
+| A3 | The Groop Play Chord X |
+| A4 | Space Age Bachelor Pad Music (Foamy) |
+| A5 | Ronco Symphony |
+|  | New Wave |
+| B1 | We're Not Adult Orientated |
+| B2 | U.H.F. - M.F.P. |
+| B3 | We're Not Adult Orientated (Neu Wave Live) |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 | Format         | Vinyl LP Mini-Album Reissue (Clear) |
 | Label          | Too Pure |
 | Catalog Number | PURE 19LP |
-| Notes | This re-issue comes with an insert with notes about each song. <br><br>GZ-pressed release without the 'X' appended on the cat number on the back and the spine, no remastering credit listed on the back. |
+| Notes | This re-issue comes with an insert with notes about each song.   GZ-pressed release without the 'X' appended on the cat number on the back and the spine, no remastering credit listed on the back. |
 | Discogs URL    | [Stereolab - The Groop Played "Space Age Batchelor Pad Music"](https://www.discogs.com/release/12779731-Stereolab-The-Groop-Played-Space-Age-Batchelor-Pad-Music) |

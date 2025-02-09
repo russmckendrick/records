@@ -46,25 +46,25 @@ Band member Alan Wilder is credited with coming up with the album's title; the p
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pimpf | 0:53 |
-| A2 | Behind The Wheel | 5:41 |
-| A3 | Strangelove | 4:42 |
-| A4 | Something To Do | 3:45 |
-| A5 | Blasphemous Rumours | 5:06 |
-| B1 | Stripped | 6:16 |
-| B2 | Somebody | 4:27 |
-| B3 | Things You Said | 4:09 |
-| B4 | Black Celebration | 4:33 |
-| C1 | Shake The Disease | 4:57 |
-| C2 | Pleasure Little Treasure | 4:35 |
-| C3 | People Are People | 4:54 |
-| C4 | A Question Of Time | 4:09 |
-| D1 | Never Let Me Down Again | 6:22 |
-| D2 | Master And Servant | 4:24 |
-| D3 | Just Can't Get Enough | 4:01 |
-| D4 | Everything Counts | 6:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Pimpf |
+| A2 | Behind The Wheel |
+| A3 | Strangelove |
+| A4 | Something To Do |
+| A5 | Blasphemous Rumours |
+| B1 | Stripped |
+| B2 | Somebody |
+| B3 | Things You Said |
+| B4 | Black Celebration |
+| C1 | Shake The Disease |
+| C2 | Pleasure Little Treasure |
+| C3 | People Are People |
+| C4 | A Question Of Time |
+| D1 | Never Let Me Down Again |
+| D2 | Master And Servant |
+| D3 | Just Can't Get Enough |
+| D4 | Everything Counts |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Band member Alan Wilder is credited with coming up with the album's title; the p
 | Format         | Vinyl 2× LP Album Reissue (180 Gram, Gatefold Sleeve) |
 | Label          | Mute |
 | Catalog Number | Stumm101 |
-| Notes | Recorded Live at the Pasadena Rose Bowl, June 18th 1988<br>(P) 1989 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd.<br>(C) 1989, 2016 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd.<br>All trademarks and logos are protected.<br>Made in the EU.<br>Sony Music Entertainment International Service GmbH, PO Box 510, 33311 Gütersloh, Germany.<br>sonymusic.com<br>depechemode.com<br>Includes a 16-page booklet of photos.<br><br>The runout strings are stamped<br> |
+| Notes | Recorded Live at the Pasadena Rose Bowl, June 18th 1988 (P) 1989 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. (C) 1989, 2016 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. All trademarks and logos are protected. Made in the EU. Sony Music Entertainment International Service GmbH, PO Box 510, 33311 Gütersloh, Germany. sonymusic.com depechemode.com Includes a 16-page booklet of photos.  The runout strings are stamped  |
 | Discogs URL    | [Depeche Mode - 101](https://www.discogs.com/release/9191026-Depeche-Mode-101) |

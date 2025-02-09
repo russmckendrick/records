@@ -27,20 +27,20 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thanks For Reaching Out |  |
-| A2 | The Day Of Reckoning |  |
-| A3 | Bernadette (Hasn’t Found Anyone Yet) |  |
-| A4 | Toxic Man |  |
-| A5 | This Is End Times |  |
-| A6 | We Need To Try Harder (We Need To Do Better) |  |
-| B1 | Billionaire In Space |  |
-| B2 | Sebastian’s Gone On A Ridealong |  |
-| B3 | goesaroundcomesaround |  |
-| B4 | Befriend The Police |  |
-| B5 | The Prince Of Wales |  |
-| B6 | Thanks For Reaching Outro |  |
+| Position | Title |
+|----------|--------|
+| A1 | Thanks For Reaching Out |
+| A2 | The Day Of Reckoning |
+| A3 | Bernadette (Hasn’t Found Anyone Yet) |
+| A4 | Toxic Man |
+| A5 | This Is End Times |
+| A6 | We Need To Try Harder (We Need To Do Better) |
+| B1 | Billionaire In Space |
+| B2 | Sebastian’s Gone On A Ridealong |
+| B3 | goesaroundcomesaround |
+| B4 | Befriend The Police |
+| B5 | The Prince Of Wales |
+| B6 | Thanks For Reaching Outro |
 
 
 ## Apple Music

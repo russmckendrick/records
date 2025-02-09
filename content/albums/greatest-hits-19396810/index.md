@@ -34,30 +34,30 @@ Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Boys Are Back In Town |  |
-| A2 | Jailbreak |  |
-| A3 | Don’t Believe A Word |  |
-| A4 | Dancing In The Moonlight (It’s Caught Me In Its Spotlight) |  |
-| A5 | Waiting For An Alibi |  |
-| A6 | Rosalie (Live) |  |
-| B1 | Do Anything You Want To |  |
-| B2 | Chinatown |  |
-| B3 | Sarah (Version 3) |  |
-| B4 | Fighting My Way Back |  |
-| B5 | Killer On The Loose |  |
-| B6 | Hollywood (Down On Your Luck) |  |
-| C1 | Thunder And Lightning |  |
-| C2 | Renegade |  |
-| C3 | Still In Love With You |  |
-| C4 | The Sun Goes Down |  |
-| D1 | Whiskey In The Jar |  |
-| D2 | Bad Reputation |  |
-| D3 | The Rocker |  |
-| D4 | Showdown |  |
-| D5 | Cold Sweat |  |
-| D6 | Wild One |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Boys Are Back In Town |
+| A2 | Jailbreak |
+| A3 | Don’t Believe A Word |
+| A4 | Dancing In The Moonlight (It’s Caught Me In Its Spotlight) |
+| A5 | Waiting For An Alibi |
+| A6 | Rosalie (Live) |
+| B1 | Do Anything You Want To |
+| B2 | Chinatown |
+| B3 | Sarah (Version 3) |
+| B4 | Fighting My Way Back |
+| B5 | Killer On The Loose |
+| B6 | Hollywood (Down On Your Luck) |
+| C1 | Thunder And Lightning |
+| C2 | Renegade |
+| C3 | Still In Love With You |
+| C4 | The Sun Goes Down |
+| D1 | Whiskey In The Jar |
+| D2 | Bad Reputation |
+| D3 | The Rocker |
+| D4 | Showdown |
+| D5 | Cold Sweat |
+| D6 | Wild One |
 
 
 ## Apple Music

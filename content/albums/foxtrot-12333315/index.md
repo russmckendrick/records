@@ -34,14 +34,14 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Watcher Of The Skies |  |
-| A2 | Time Table |  |
-| A3 | Get 'Em Out By Friday |  |
-| A4 | Can-Utility And The Coastliners |  |
-| B1 | Horizons' |  |
-|  | Supper's Ready |  |
+| Position | Title |
+|----------|--------|
+| A1 | Watcher Of The Skies |
+| A2 | Time Table |
+| A3 | Get 'Em Out By Friday |
+| A4 | Can-Utility And The Coastliners |
+| B1 | Horizons' |
+|  | Supper's Ready |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | 00602567489795 |
-| Notes | Comes with download code<br><br>℗ 1972 Charisma Records Ltd<br>Quartet Music Ltd and Carlin Music Corp<br><br>℗ & © 2018<br>Made in the E.U. |
+| Notes | Comes with download code  ℗ 1972 Charisma Records Ltd Quartet Music Ltd and Carlin Music Corp  ℗ & © 2018 Made in the E.U. |
 | Discogs URL    | [Genesis - Foxtrot](https://www.discogs.com/release/12333315-Genesis-Foxtrot) |

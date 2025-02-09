@@ -34,17 +34,17 @@ Robertson collaborated on film and TV soundtracks, usually with director Martin 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fallen Angel | 5:54 |
-| A2 | Showdown At Big Sky | 4:48 |
-| A3 | Broken Arrow | 5:23 |
-| A4 | Sweet Fire Of Love | 5:17 |
-| B1 | American Roulette | 4:57 |
-| B2 | Somewhere Down The Crazy River | 4:57 |
-| B3 | Hell's Half Acre | 4:21 |
-| B4 | Sonny Got Caught In The Moonlight | 3:52 |
-| B5 | Testimony | 4:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Fallen Angel |
+| A2 | Showdown At Big Sky |
+| A3 | Broken Arrow |
+| A4 | Sweet Fire Of Love |
+| B1 | American Roulette |
+| B2 | Somewhere Down The Crazy River |
+| B3 | Hell's Half Acre |
+| B4 | Sonny Got Caught In The Moonlight |
+| B5 | Testimony |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Robertson collaborated on film and TV soundtracks, usually with director Martin 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 924160-1 |
-| Notes | Similar to [r=1113594] but with different publishers on label<br><br>made in germany<br><br>Promotional sticker in top right corner to front cover<br>"Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky" |
+| Notes | Similar to [r=1113594] but with different publishers on label  made in germany  Promotional sticker in top right corner to front cover "Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky" |
 | Discogs URL    | [Robbie Robertson - Robbie Robertson](https://www.discogs.com/release/9243821-Robbie-Robertson-Robbie-Robertson) |

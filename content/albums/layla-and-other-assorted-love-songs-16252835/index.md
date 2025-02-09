@@ -45,39 +45,39 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album - Half-Speed Mastered Edition - 50th Anniversary |  |
-| A1 | I Looked Away | 3:06 |
-| A2 | Bell Bottom Blues | 5:05 |
-| A3 | Keep On Growing | 6:23 |
-| A4 | Nobody Knows You When You're Down And Out | 4:58 |
-| B1 | I Am Yours | 3:35 |
-| B2 | Anyday | 6:36 |
-| B3 | Key To The Highway | 9:38 |
-| C1 | Tell The Truth | 6:40 |
-| C2 | Why Does Love Got To Be So Sad? | 4:43 |
-| C3 | Have You Ever Loved A Woman | 6:54 |
-| D1 | Little Wing | 5:33 |
-| D2 | It's Too Late | 3:51 |
-| D3 | Layla | 7:05 |
-| D4 | Thorn Tree In The Garden | 2:51 |
-|  | LP3: Bonus Material |  |
-| E1 | Mean Old World (Layla Session Out-Take) | 3:52 |
-| E2 | Roll It Over (Phil Spector Produced Single B-Side) | 4:31 |
-| E3 | Tell The Truth (Phil Spector Produced Single A-Side) | 3:23 |
-| F1 | It's Too Late (Live On The Johnny Cash TV Show, 5 November, 1970) | 4:11 |
-| F2 | Got To Get Better In A Little While (Live On The Johnny Cash TV Show, 5 November, 1970) | 6:34 |
-| F3 | Matchbox (Live On The Johnny Cash TV Show, 5 November, 1970) | 3:56 |
-| F4 | Blues Power (Live On The Johnny Cash TV Show, 5 November, 1970) | 6:31 |
-|  | LP4: Bonus Material |  |
-| G1 | Snake Lake Blues (From April / May 1971 Sessions For The Dominos' Second Album) | 3:34 |
-| G2 | Evil (From April / May 1971 Sessions For The Dominos' Second Album) | 4:34 |
-| G3 | Mean Old Frisco (From April / May 1971 Sessions For The Dominos' Second Album) | 4:04 |
-| G4 | One More Chance (From April / May 1971 Sessions For The Dominos' Second Album) | 3:15 |
-| H1 | High (From April / May 1971 Sessions For The Dominos' Second Album) | 3:15 |
-| H2 | Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) | 3:45 |
-| H3 | Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) | 6:05 |
+| Position | Title |
+|----------|--------|
+|  | The Original Album - Half-Speed Mastered Edition - 50th Anniversary |
+| A1 | I Looked Away |
+| A2 | Bell Bottom Blues |
+| A3 | Keep On Growing |
+| A4 | Nobody Knows You When You're Down And Out |
+| B1 | I Am Yours |
+| B2 | Anyday |
+| B3 | Key To The Highway |
+| C1 | Tell The Truth |
+| C2 | Why Does Love Got To Be So Sad? |
+| C3 | Have You Ever Loved A Woman |
+| D1 | Little Wing |
+| D2 | It's Too Late |
+| D3 | Layla |
+| D4 | Thorn Tree In The Garden |
+|  | LP3: Bonus Material |
+| E1 | Mean Old World (Layla Session Out-Take) |
+| E2 | Roll It Over (Phil Spector Produced Single B-Side) |
+| E3 | Tell The Truth (Phil Spector Produced Single A-Side) |
+| F1 | It's Too Late (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F2 | Got To Get Better In A Little While (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F3 | Matchbox (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F4 | Blues Power (Live On The Johnny Cash TV Show, 5 November, 1970) |
+|  | LP4: Bonus Material |
+| G1 | Snake Lake Blues (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G2 | Evil (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G3 | Mean Old Frisco (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G4 | One More Chance (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H1 | High (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H2 | Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H3 | Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 | Format         | Box Set (50th Anniversary Edition), Vinyl 2× LP Album Reissue Remastered Stereo (Half-Speed Mastered), Vinyl 2× LP Stereo |
 | Label          | Polydor |
 | Catalog Number | 0602507274900 |
-| Notes | This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company.<br>Made in the Czech Republic.<br><br>Hype Sticker (Guitar Shape) on Front of The Box Set reads:<br>50th Anniversary Half-Speed Mastered Vinyl Edition.<br>Includes:<br>- The Original Album In Half-Speed Mastered Format<br>- Bonus Material Cut As Normal 180 Gram Vinyl<br>- First Time On Vinyl For Some  Of These Rarities<br><br>F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set). |
+| Notes | This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set). |
 | Discogs URL    | [Derek  The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835-Derek-The-Dominos-Layla-And-Other-Assorted-Love-Songs) |

@@ -27,24 +27,24 @@ It is also common for greatest hits albums to include new recordings, remixes or
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Still Of The Night | 6:50 |
-| A2 | Here I Go Again | 4:32 |
-| A3 | Is This Love | 5:03 |
-| A4 | Give Me All Your Love | 3:13 |
-| B1 | Love Ain't No Stranger | 4:18 |
-| B2 | Slide It In | 3:19 |
-| B3 | Slow An' Easy | 6:09 |
-| B4 | Guilty Of Love | 3:22 |
-| C1 | Fool For Your Loving | 4:11 |
-| C2 | Judgement Day | 5:22 |
-| C3 | The Deeper The Love | 4:08 |
-| C4 | Now You're Gone | 4:10 |
-| D1 | Sweet Lady Luck | 4:36 |
-| D2 | You're Gonna Break My Heart Again | 4:16 |
-| D3 | Crying In The Rain | 5:47 |
-| D4 | Forevermore | 7:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Still Of The Night |
+| A2 | Here I Go Again |
+| A3 | Is This Love |
+| A4 | Give Me All Your Love |
+| B1 | Love Ain't No Stranger |
+| B2 | Slide It In |
+| B3 | Slow An' Easy |
+| B4 | Guilty Of Love |
+| C1 | Fool For Your Loving |
+| C2 | Judgement Day |
+| C3 | The Deeper The Love |
+| C4 | Now You're Gone |
+| D1 | Sweet Lady Luck |
+| D2 | You're Gonna Break My Heart Again |
+| D3 | Crying In The Rain |
+| D4 | Forevermore |
 
 
 ## Apple Music

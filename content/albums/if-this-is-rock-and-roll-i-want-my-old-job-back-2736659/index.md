@@ -28,23 +28,23 @@ The album was a number one hit in the Irish Album Charts upon release, and also 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | I Useta Lover |  |
-| 2 | Only One Girl |  |
-| 3 | Why Do I Always Want You |  |
-| 4 | It Won't Be Tonight |  |
-| 5 | Irish Post |  |
-| 6 | Sing A Powerful Song |  |
-| 7 | Freedom Fighters |  |
-| 8 | That's What She Said Last Night |  |
-| 9 | Red Cortina |  |
-| 10 | Presentation Boarder |  |
-| 11 | Don't Let Me Down |  |
-| 12 | £25 |  |
-| 13 | What A Day |  |
-| 14 | N17 |  |
-| 15 | I Hope You Meet Again |  |
+| Position | Title |
+|----------|--------|
+| 1 | I Useta Lover |
+| 2 | Only One Girl |
+| 3 | Why Do I Always Want You |
+| 4 | It Won't Be Tonight |
+| 5 | Irish Post |
+| 6 | Sing A Powerful Song |
+| 7 | Freedom Fighters |
+| 8 | That's What She Said Last Night |
+| 9 | Red Cortina |
+| 10 | Presentation Boarder |
+| 11 | Don't Let Me Down |
+| 12 | £25 |
+| 13 | What A Day |
+| 14 | N17 |
+| 15 | I Hope You Meet Again |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was a number one hit in the Irish Album Charts upon release, and also 
 | Format         | Vinyl LP |
 | Label          | Solid Records (4) |
 | Catalog Number | Rock 7 |
-| Notes | All songs recorded at loco studios in Wales and mixed at Windmill Lane Studios in Dublin.<br><br>Track 14 recorded and mixed at Windmill Lane<br>Track 7 recorded live at the Barrowlands, Glasgow, March 1989<br> |
+| Notes | All songs recorded at loco studios in Wales and mixed at Windmill Lane Studios in Dublin.    Track 14 recorded and mixed at Windmill Lane  Track 7 recorded live at the Barrowlands, Glasgow, March 1989  |
 | Discogs URL    | [The Saw Doctors - If This Is Rock And Roll, I Want My Old Job Back](https://www.discogs.com/release/2736659-The-Saw-Doctors-If-This-Is-Rock-And-Roll-I-Want-My-Old-Job-Back) |

@@ -25,32 +25,32 @@ styles: ["Trip Hop", "Beatdown"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Close But Not Quite |  |
-| A3 | She Said |  |
-| A4 | Wet Looking Road |  |
-| A5 | Mountains Of Gold |  |
-| A6 | Show Love |  |
-| B1 | Echoes In The Bone (Interlude) |  |
-| B2 | Bloodshot Red Eyes |  |
-| B3 | Cane |  |
-| B4 | Purify (Interlude) |  |
-| B5 | Be My Friend |  |
-| B6 | Everything Is Recorded |  |
-| CD-1 | Intro | 1:44 |
-| CD-2 | Close But Not Quite | 3:26 |
-| CD-3 | She Said | 3:15 |
-| CD-4 | Wet Looking Road | 2:53 |
-| CD-5 | Mountains Of Gold | 3:55 |
-| CD-6 | Show Love | 3:17 |
-| CD-7 | Echoes In The Bone (Interlude) | 1:01 |
-| CD-8 | Bloodshot Red Eyes | 3:58 |
-| CD-9 | Cane | 3:34 |
-| CD-10 | Purify (Interlude) | 1:35 |
-| CD-11 | Be My Friend | 4:20 |
-| CD-12 | Everything Is Recorded | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Close But Not Quite |
+| A3 | She Said |
+| A4 | Wet Looking Road |
+| A5 | Mountains Of Gold |
+| A6 | Show Love |
+| B1 | Echoes In The Bone (Interlude) |
+| B2 | Bloodshot Red Eyes |
+| B3 | Cane |
+| B4 | Purify (Interlude) |
+| B5 | Be My Friend |
+| B6 | Everything Is Recorded |
+| CD-1 | Intro |
+| CD-2 | Close But Not Quite |
+| CD-3 | She Said |
+| CD-4 | Wet Looking Road |
+| CD-5 | Mountains Of Gold |
+| CD-6 | Show Love |
+| CD-7 | Echoes In The Bone (Interlude) |
+| CD-8 | Bloodshot Red Eyes |
+| CD-9 | Cane |
+| CD-10 | Purify (Interlude) |
+| CD-11 | Be My Friend |
+| CD-12 | Everything Is Recorded |
 
 
 ## Apple Music

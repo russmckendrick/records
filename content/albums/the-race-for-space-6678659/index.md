@@ -33,17 +33,17 @@ On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Race For Space |  |
-| A2 | Sputnik |  |
-| A3 | Gagarin |  |
-| A4 | Fire In The Cockpit |  |
-| A5 | E. V. A. |  |
-| B1 | The Other Side |  |
-| B2 | Valentina |  |
-| B3 | Go! |  |
-| B4 | Tomorrow |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Race For Space |
+| A2 | Sputnik |
+| A3 | Gagarin |
+| A4 | Fire In The Cockpit |
+| A5 | E. V. A. |
+| B1 | The Other Side |
+| B2 | Valentina |
+| B3 | Go! |
+| B4 | Tomorrow |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing 
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA02X |
-| Notes | Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet.<br>Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.<br><br>'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!' |
+| Notes | Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet.  Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.    'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!' |
 | Discogs URL    | [Public Service Broadcasting - The Race For Space](https://www.discogs.com/release/6678659-Public-Service-Broadcasting-The-Race-For-Space) |

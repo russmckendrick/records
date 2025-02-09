@@ -34,24 +34,24 @@ The song was the subject of controversy due to its overt similarity to another b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Line Up |  |
-| A2 | Annie |  |
-| A3 | Connection |  |
-| A4 | Car Song |  |
-| A5 | Smile |  |
-| A6 | Hold Me Now |  |
-| A7 | S.O.F.T. |  |
-| A8 | Indian Song |  |
-| B1 | Blue |  |
-| B2 | All-Nighter |  |
-| B3 | Waking Up |  |
-| B4 | 2:1 |  |
-| B5 | Vaseline |  |
-| B6 | Never Here |  |
-| B7 | Stutter |  |
-| C | In The City |  |
+| Position | Title |
+|----------|--------|
+| A1 | Line Up |
+| A2 | Annie |
+| A3 | Connection |
+| A4 | Car Song |
+| A5 | Smile |
+| A6 | Hold Me Now |
+| A7 | S.O.F.T. |
+| A8 | Indian Song |
+| B1 | Blue |
+| B2 | All-Nighter |
+| B3 | Waking Up |
+| B4 | 2:1 |
+| B5 | Vaseline |
+| B6 | Never Here |
+| B7 | Stutter |
+| C | In The City |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The song was the subject of controversy due to its overt similarity to another b
 | Format         | Vinyl LP Album Reissue, Flexi-disc 7" 45 RPM Single Sided, All Media Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP914 |
-| Notes | Release comes with flexi-disc, and replica of Elasticatalogue.<br><br>"In The City" credits:<br>Published by EMI Music Publishing<br>Recorded 16 March 1994 for the BBC Radio One<br>Steve Lamacq Evening Session<br>released with arrangement with BBC Music.<br>P 1994 BBC Music<br>C 2017 Rough Trade Records |
+| Notes | Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records |
 | Discogs URL    | [Elastica - Elastica](https://www.discogs.com/release/11175695-Elastica-2-Elastica) |

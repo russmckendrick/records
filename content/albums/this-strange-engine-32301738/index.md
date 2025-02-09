@@ -66,34 +66,34 @@ This Strange Engine is the ninth studio album by the British neo-prog band Maril
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Album Remix 2024 |  |
-| LP1-A1 | Man Of A Thousand Faces |  |
-| LP1-A2 | One Fine Day |  |
-| LP1-B1 | 80 Days |  |
-| LP1-B2 | Estonia |  |
-| LP2-C1 | Memory Of Water |  |
-| LP2-C2 | An Accidental Man |  |
-| LP2-C3 | Hope For The Future |  |
-| LP2-D1 | This Strange Engine |  |
-|  | Live In Grand Rapids 1997 |  |
-| LP3-A1 | Intro |  |
-| LP3-A2 | Estonia |  |
-| LP3-A3 | Lap Of Luxury |  |
-| LP3-A4 | Hard As Love |  |
-| LP3-B1 | 80 Days |  |
-| LP3-B2 | Warm Wet Circles |  |
-| LP3-B3 | Man Of A Thousand Faces |  |
-| LP4-C1 | Seasons End |  |
-| LP4-C2 | This Town |  |
-| LP4-D1 | Slainthe Mhath |  |
-| LP4-D2 | King |  |
-| LP5-E1 | Bass Solo |  |
-| LP5-E2 | This Strange Engine |  |
-| LP5-F1 | Easter |  |
-| LP5-F2 | White Russian |  |
-| LP5-F3 | Garden Party |  |
+| Position | Title |
+|----------|--------|
+|  | Album Remix 2024 |
+| LP1-A1 | Man Of A Thousand Faces |
+| LP1-A2 | One Fine Day |
+| LP1-B1 | 80 Days |
+| LP1-B2 | Estonia |
+| LP2-C1 | Memory Of Water |
+| LP2-C2 | An Accidental Man |
+| LP2-C3 | Hope For The Future |
+| LP2-D1 | This Strange Engine |
+|  | Live In Grand Rapids 1997 |
+| LP3-A1 | Intro |
+| LP3-A2 | Estonia |
+| LP3-A3 | Lap Of Luxury |
+| LP3-A4 | Hard As Love |
+| LP3-B1 | 80 Days |
+| LP3-B2 | Warm Wet Circles |
+| LP3-B3 | Man Of A Thousand Faces |
+| LP4-C1 | Seasons End |
+| LP4-C2 | This Town |
+| LP4-D1 | Slainthe Mhath |
+| LP4-D2 | King |
+| LP5-E1 | Bass Solo |
+| LP5-E2 | This Strange Engine |
+| LP5-F1 | Easter |
+| LP5-F2 | White Russian |
+| LP5-F3 | Garden Party |
 
 
 ## Apple Music

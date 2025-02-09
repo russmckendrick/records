@@ -31,18 +31,18 @@ styles: ["Acoustic", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Will Have Her Way | 5:24 |
-| A2 | Careless | 3:48 |
-| A3 | Distant Sun | 4:31 |
-| A4 | Before Too Long | 3:32 |
-| A5 | Won't Give In | 4:41 |
-| B1 | Don't Stand So Close To The Window | 2:52 |
-| B2 | Four Seasons In One Day | 3:48 |
-| B3 | Into Temptation | 5:03 |
-| B4 | To Her Door | 3:34 |
-| B5 | Don't Dream It's Over | 4:31 |
+| Position | Title |
+|----------|--------|
+| A1 | She Will Have Her Way |
+| A2 | Careless |
+| A3 | Distant Sun |
+| A4 | Before Too Long |
+| A5 | Won't Give In |
+| B1 | Don't Stand So Close To The Window |
+| B2 | Four Seasons In One Day |
+| B3 | Into Temptation |
+| B4 | To Her Door |
+| B5 | Don't Dream It's Over |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Acoustic", "Pop Rock"]
 | Format         | Vinyl LP (Yellow Highlighter ) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-154 |
-| Notes | Recorded in Sydney on Monday, 18 March 2013<br> |
+| Notes | Recorded in Sydney on Monday, 18 March 2013   |
 | Discogs URL    | [Neil Finn - Goin' Your Way (Highlights)](https://www.discogs.com/release/7780882-Neil-Finn-Paul-Kelly-2-Goin-Your-Way-Highlights) |

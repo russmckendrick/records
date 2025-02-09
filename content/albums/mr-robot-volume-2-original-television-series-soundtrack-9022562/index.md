@@ -37,31 +37,31 @@ styles: ["Soundtrack", "Score"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1.5_1-Askingthe1mpossible.M4p |  |
-| A2 | 1.5_2-Hackthepolice.Mp3 |  |
-| A3 | 1.5_3-Trustyourself.Bwf |  |
-| A4 | 1.5_4-Issacsbestmove.Bwf |  |
-| A5 | 1.5_5-Mybestmove.Ra |  |
-| B1 | 1.5_6-Veraliber4ted.Aiff |  |
-| B2 | 1.6_1-V1ew-S0urce.Ogg |  |
-| B3 | 1.6_2-A-Way-Out.Wav |  |
-| B4 | 1.7_1-Consumatesurvivor.Caf |  |
-| B5 | 1.7_2-Darlenesgun.Aac |  |
-| B6 | 1.7_3-In0urgrasps.Ogg |  |
-| C1 | 1.7_4-Wh1ter0se.Flac |  |
-| C2 | 1.7_5-Mrrobot&Tyrell.Wma |  |
-| C3 | 1.8_1-Imcrazy.Aiff |  |
-| C4 | 1.8_2-Mostdangerouscar.M4p |  |
-| C5 | 1.8_3-Ch4ngefromwith1n.Au |  |
-| D1 | 1.8_4-Oneconstant.Caf |  |
-| D2 | 1.9_1-Waltznumber2.Bwf |  |
-| D3 | 1.9_2-Wearefinallyaw4ke.Ra |  |
-| D4 | 1.9_3-Johannaphishes.Wav |  |
-| D5 | 1.9_4-Forcerobotshand.Sd2 |  |
-| D6 | 1.9_5-Urmygod.Ogg |  |
-| D7 | 1.9_6-Nothingisreal.Ra |  |
+| Position | Title |
+|----------|--------|
+| A1 | 1.5_1-Askingthe1mpossible.M4p |
+| A2 | 1.5_2-Hackthepolice.Mp3 |
+| A3 | 1.5_3-Trustyourself.Bwf |
+| A4 | 1.5_4-Issacsbestmove.Bwf |
+| A5 | 1.5_5-Mybestmove.Ra |
+| B1 | 1.5_6-Veraliber4ted.Aiff |
+| B2 | 1.6_1-V1ew-S0urce.Ogg |
+| B3 | 1.6_2-A-Way-Out.Wav |
+| B4 | 1.7_1-Consumatesurvivor.Caf |
+| B5 | 1.7_2-Darlenesgun.Aac |
+| B6 | 1.7_3-In0urgrasps.Ogg |
+| C1 | 1.7_4-Wh1ter0se.Flac |
+| C2 | 1.7_5-Mrrobot&Tyrell.Wma |
+| C3 | 1.8_1-Imcrazy.Aiff |
+| C4 | 1.8_2-Mostdangerouscar.M4p |
+| C5 | 1.8_3-Ch4ngefromwith1n.Au |
+| D1 | 1.8_4-Oneconstant.Caf |
+| D2 | 1.9_1-Waltznumber2.Bwf |
+| D3 | 1.9_2-Wearefinallyaw4ke.Ra |
+| D4 | 1.9_3-Johannaphishes.Wav |
+| D5 | 1.9_4-Forcerobotshand.Sd2 |
+| D6 | 1.9_5-Urmygod.Ogg |
+| D7 | 1.9_6-Nothingisreal.Ra |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ styles: ["Soundtrack", "Score"]
 | Format         | Vinyl 2× LP Album (White) |
 | Label          | Invada |
 | Catalog Number | INV161LP |
-| Notes | Music Executive: Alicen Schneider<br>Studio Executives: Stacy Fung, Steve Dolcemaschio<br><br>Gatefold sleeve. Release comes with:<br>Double Sided Printed Insert<br>fsociety stencil art on cardstock<br>Download Card for digital version (choice of formats, via bandcamp)<br><br>If purchased direct from Invada with Vol.1, included a 12x12 print. |
+| Notes | Music Executive: Alicen Schneider Studio Executives: Stacy Fung, Steve Dolcemaschio  Gatefold sleeve. Release comes with: Double Sided Printed Insert fsociety stencil art on cardstock Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.1, included a 12x12 print. |
 | Discogs URL    | [Mac Quayle - Mr. Robot: Volume 2 (Original Television Series Soundtrack)](https://www.discogs.com/release/9022562-Mac-Quayle-Mr-Robot-Volume-2-Original-Television-Series-Soundtrack) |

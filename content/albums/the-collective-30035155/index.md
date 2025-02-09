@@ -34,19 +34,19 @@ The Collective is the second solo studio album by the American musician Kim Gord
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bye Bye |  |
-| A2 | The Candy House |  |
-| A3 | I Don't Miss My Mind |  |
-| A4 | I'm A Man |  |
-| A5 | Trophies |  |
-| A6 | It's Dark Inside |  |
-| B1 | Psychedelic Orgasm |  |
-| B2 | Tree House |  |
-| B3 | Shelf Warmer |  |
-| B4 | The Believers |  |
-| B5 | Dream Dollar |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bye Bye |
+| A2 | The Candy House |
+| A3 | I Don't Miss My Mind |
+| A4 | I'm A Man |
+| A5 | Trophies |
+| A6 | It's Dark Inside |
+| B1 | Psychedelic Orgasm |
+| B2 | Tree House |
+| B3 | Shelf Warmer |
+| B4 | The Believers |
+| B5 | Dream Dollar |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Collective is the second solo studio album by the American musician Kim Gord
 | Format         | Vinyl LP Album Limited Edition Stereo (Coke Bottle Green) |
 | Label          | Matador |
 | Catalog Number | OLE2029LP |
-| Notes | Packaged in a glossy sleeve.<br>Includes a printed inner sleeve.<br>Hype sticker: Limited edition coke bottle green vinyl<br>Some copies came with a signed poster.<br><br>© & ℗ 2023 Matador Records. 134 Grand St New York NY 10013.<br><br>Recorded at Justin Raisen's Home STudio, Los Angeles, CA<br><br>Published by: Forgetful Songs (BMI), Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Anthony Paul Lopez Publishing, Van Cortlandt Music (SESAC) |
+| Notes | Packaged in a glossy sleeve. Includes a printed inner sleeve. Hype sticker: Limited edition coke bottle green vinyl Some copies came with a signed poster.  © & ℗ 2023 Matador Records. 134 Grand St New York NY 10013.  Recorded at Justin Raisen's Home STudio, Los Angeles, CA  Published by: Forgetful Songs (BMI), Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Anthony Paul Lopez Publishing, Van Cortlandt Music (SESAC) |
 | Discogs URL    | [Kim Gordon - The Collective](https://www.discogs.com/release/30035155-Kim-Gordon-The-Collective) |

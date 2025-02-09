@@ -31,18 +31,18 @@ The album reached number 2 in the UK Albums Chart.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Look Away |  |
-| A2 | The Seer |  |
-| A3 | The Teacher |  |
-| A4 | I Walk The Hill |  |
-| A5 | Eiledon |  |
-| B1 | One Great Thing |  |
-| B2 | Hold The Heart |  |
-| B3 | Remembrance Day |  |
-| B4 | The Red Fox |  |
-| B5 | The Sailor |  |
+| Position | Title |
+|----------|--------|
+| A1 | Look Away |
+| A2 | The Seer |
+| A3 | The Teacher |
+| A4 | I Walk The Hill |
+| A5 | Eiledon |
+| B1 | One Great Thing |
+| B2 | Hold The Heart |
+| B3 | Remembrance Day |
+| B4 | The Red Fox |
+| B5 | The Sailor |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album reached number 2 in the UK Albums Chart.
 | Format         | Vinyl LP Album |
 | Label          | Mercury |
 | Catalog Number | MERH 87 |
-| Notes | Contains a printed inner sleeve with lyrics and credits.<br>Some copies comes with a sticker on front:<br>" Includes The Hit Singles<br>Look Away<br>Teacher<br>MERH 87"<br><br>N.B. This is the 'Sterling' version, a "Tape One" version is here [r29428114] and a 'Town House' version is also available - [r=8013006].<br><br>[Inner sleeve]<br>Thanks to:<br>Ian Grant, Alan Edwards - Management<br>Les King, Dave Davies, Pete Barnes, Kevin Hartman, Joe Seabrook, Peter Stevens - The Crew<br>Katie, Catherine, Jennette, Paulette - The Office<br>Pearl (drums), Zildjian (cymbals), Fender (guitars), Jimmy Moon (Guitars)<br><br>Recorded at The Power Plant & Rak Studios.<br>Mixed at Maison Rouge<br><br>Kate Bush appears courtesy of EMI Records<br>Management Address:<br>[url=http://www.discogs.com/artist/1663082-Grant-Edwards-Management]Grant/Edwards Management[/url]<br>30 Bridstow Place, Talbot Road<br>London W2 5AE<br>Fan Club:<br>c/o Andy Marlow<br>Acme House<br>26-40 St. Andrews Street<br>Northampton NNI 2HL<br><br>[Rear sleeve]<br>℗ 1986 Phonogram Ltd (London)<br>© 1986 Phonogram Ltd (London)<br>Also available on Chrome Cassette [url=http://www.discogs.com/Big-Country-The-Seer/release/1196309]MERHC 87[/url] and Compact Disc.<br>A Promo version exists with a gold embossed stamp on the rear stating: "Promo Copy Not For Resale", which is otherwise identical.<br><br>[Labels]<br>Produced by Robin Millar for Modern Media Ltd<br>All tracks 10 Music Ltd<br>Original sound recording made by Phonogram Ltd.(London)<br>℗ 1986 Phonogram Ltd.(London)<br><br>[Runouts]<br>The first "MERH-87-A" on side A and "MERH-87-B" on side B are hand-etched, the remainder of the text is stamped. |
+| Notes | Contains a printed inner sleeve with lyrics and credits. Some copies comes with a sticker on front: " Includes The Hit Singles Look Away Teacher MERH 87"  N.B. This is the 'Sterling' version, a "Tape One" version is here [r29428114] and a 'Town House' version is also available - [r=8013006].  [Inner sleeve] Thanks to: Ian Grant, Alan Edwards - Management Les King, Dave Davies, Pete Barnes, Kevin Hartman, Joe Seabrook, Peter Stevens - The Crew Katie, Catherine, Jennette, Paulette - The Office Pearl (drums), Zildjian (cymbals), Fender (guitars), Jimmy Moon (Guitars)  Recorded at The Power Plant & Rak Studios. Mixed at Maison Rouge  Kate Bush appears courtesy of EMI Records Management Address: [url=http://www.discogs.com/artist/1663082-Grant-Edwards-Management]Grant/Edwards Management[/url] 30 Bridstow Place, Talbot Road London W2 5AE Fan Club: c/o Andy Marlow Acme House 26-40 St. Andrews Street Northampton NNI 2HL  [Rear sleeve] ℗ 1986 Phonogram Ltd (London) © 1986 Phonogram Ltd (London) Also available on Chrome Cassette [url=http://www.discogs.com/Big-Country-The-Seer/release/1196309]MERHC 87[/url] and Compact Disc. A Promo version exists with a gold embossed stamp on the rear stating: "Promo Copy Not For Resale", which is otherwise identical.  [Labels] Produced by Robin Millar for Modern Media Ltd All tracks 10 Music Ltd Original sound recording made by Phonogram Ltd.(London) ℗ 1986 Phonogram Ltd.(London)  [Runouts] The first "MERH-87-A" on side A and "MERH-87-B" on side B are hand-etched, the remainder of the text is stamped. |
 | Discogs URL    | [Big Country - The Seer](https://www.discogs.com/release/369478-Big-Country-The-Seer) |

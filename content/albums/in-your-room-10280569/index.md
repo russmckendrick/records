@@ -27,20 +27,20 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pearly | 3:32 |
-| A2 | Hey Okay! | 2:34 |
-| A3 | I Want | 3:14 |
-| A4 | Wonder | 3:06 |
-| A5 | The World | 3:52 |
-| A6 | Sunny Side Up | 2:46 |
-| B1 | Physical | 3:47 |
-| B2 | Home Again | 4:37 |
-| B3 | Wide Open | 3:15 |
-| B4 | Longest Day | 4:11 |
-| B5 | Just Fine | 3:27 |
-| B6 | Adore | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Pearly |
+| A2 | Hey Okay! |
+| A3 | I Want |
+| A4 | Wonder |
+| A5 | The World |
+| A6 | Sunny Side Up |
+| B1 | Physical |
+| B2 | Home Again |
+| B3 | Wide Open |
+| B4 | Longest Day |
+| B5 | Just Fine |
+| B6 | Adore |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (White) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1876 |
-| Notes | Limited to 1,000 copies worldwide.<br>Numbered on rear sleeve in silver. |
+| Notes | Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver. |
 | Discogs URL    | [Anneke van Giersbergen - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |

@@ -35,23 +35,23 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seeker Of The Serpent's Eye  | 2:11 |
-| A2 | Starling | 2:15 |
-| A3 | Mandy Love Theme | 4:38 |
-| A4 | Horns Of Abraxas | 1:31 |
-| A5 | Black Skulls | 2:46 |
-| A6 | Death And Ashes | 4:38 |
-| A7 | Sand | 2:02 |
-| A8 | Red | 1:32 |
-| B1 | Forging The Beast | 1:46 |
-| B2 | Dive-Bomb Blues | 2:15 |
-| B3 | Waste | 2:55 |
-| B4 | Temple | 2:59 |
-| B5 | Burning Church | 1:37 |
-| B6 | Memories | 2:34 |
-| B7 | Children Of The New Dawn | 5:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Seeker Of The Serpent's Eye  |
+| A2 | Starling |
+| A3 | Mandy Love Theme |
+| A4 | Horns Of Abraxas |
+| A5 | Black Skulls |
+| A6 | Death And Ashes |
+| A7 | Sand |
+| A8 | Red |
+| B1 | Forging The Beast |
+| B2 | Dive-Bomb Blues |
+| B3 | Waste |
+| B4 | Temple |
+| B5 | Burning Church |
+| B6 | Memories |
+| B7 | Children Of The New Dawn |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 | Format         | Vinyl LP Album (Red Translucent) |
 | Label          | Lakeshore Records |
 | Catalog Number | LKSINV203LP |
-| Notes | Translucent red, 140g vinyl. <br>Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.<br><br>Repressed in October 2018.<br><br>© 2018  Lakeshore Records LLC. |
+| Notes | Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC. |
 | Discogs URL    | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-Jóhann-Jóhannsson-Mandy-Original-Motion-Picture-Soundtrack) |

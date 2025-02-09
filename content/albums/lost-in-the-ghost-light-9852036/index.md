@@ -34,24 +34,24 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Worlds Of Yesterday | 5:41 |
-| LP-A2 | Moonshot Manchild | 8:58 |
-| LP-A3 | Kill The Pain That's Killing You | 3:44 |
-| LP-A4 | Nowhere Good To Go | 4:46 |
-| LP-B1 | You'll Be The Silence | 9:01 |
-| LP-B2 | Lost In The Ghost Light | 1:40 |
-| LP-B3 | You Wanted To Be Seen | 5:32 |
-| LP-B4 | Distant Summers | 4:06 |
-| CD-1 | Worlds Of Yesterday | 5:41 |
-| CD-2 | Moonshot Manchild | 8:58 |
-| CD-3 | Kill The Pain That's Killing You | 3:44 |
-| CD-4 | Nowhere Good To Go | 4:46 |
-| CD-5 | You'll Be The Silence | 9:01 |
-| CD-6 | Lost In The Ghost Light | 1:40 |
-| CD-7 | You Wanted To Be Seen | 5:32 |
-| CD-8 | Distant Summers | 4:06 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Worlds Of Yesterday |
+| LP-A2 | Moonshot Manchild |
+| LP-A3 | Kill The Pain That's Killing You |
+| LP-A4 | Nowhere Good To Go |
+| LP-B1 | You'll Be The Silence |
+| LP-B2 | Lost In The Ghost Light |
+| LP-B3 | You Wanted To Be Seen |
+| LP-B4 | Distant Summers |
+| CD-1 | Worlds Of Yesterday |
+| CD-2 | Moonshot Manchild |
+| CD-3 | Kill The Pain That's Killing You |
+| CD-4 | Nowhere Good To Go |
+| CD-5 | You'll Be The Silence |
+| CD-6 | Lost In The Ghost Light |
+| CD-7 | You Wanted To Be Seen |
+| CD-8 | Distant Summers |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album (Gold), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 473 |
-| Notes | Gold vinyl + CD in gatefold.<br>Limited to 400 copies.<br>Burning Shed mailorder exclusive including postcard signed by Tim Bowness.<br><br>Tracks durations as indicated on release back. |
+| Notes | Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back. |
 | Discogs URL    | [Tim Bowness - Lost In The Ghost Light](https://www.discogs.com/release/9852036-Tim-Bowness-Lost-In-The-Ghost-Light) |

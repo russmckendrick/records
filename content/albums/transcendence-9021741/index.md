@@ -36,32 +36,32 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Truth |  |
-| LP-A2 | Stormbending |  |
-| LP-A3 | Failure |  |
-| LP-A4 | Secret Sciences |  |
-| LP-B1 | Higher |  |
-| LP-B2 | Stars |  |
-| LP-B3 | Transcendence |  |
-| LP-C1 | Offer Your Light |  |
-| LP-C2 | From The Heart |  |
-| LP-C3 | Transdermal Celebration |  |
-| LP-D1 | Gump |  |
-| LP-D2 | Loud |  |
-| CD-1 | Truth | 4:47 |
-| CD-2 | Stormbending | 5:23 |
-| CD-3 | Failure | 6:02 |
-| CD-4 | Secret Sciences | 7:28 |
-| CD-5 | Higher | 9:40 |
-| CD-6 | Stars | 4:18 |
-| CD-7 | Transcendence | 5:55 |
-| CD-8 | Offer Your Light | 3:58 |
-| CD-9 | From The Heart | 8:24 |
-| CD-10 | Transdermal Celebration | 8:26 |
-| CD-11 | Gump | 5:25 |
-| CD-12 | Loud | 3:23 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Truth |
+| LP-A2 | Stormbending |
+| LP-A3 | Failure |
+| LP-A4 | Secret Sciences |
+| LP-B1 | Higher |
+| LP-B2 | Stars |
+| LP-B3 | Transcendence |
+| LP-C1 | Offer Your Light |
+| LP-C2 | From The Heart |
+| LP-C3 | Transdermal Celebration |
+| LP-D1 | Gump |
+| LP-D2 | Loud |
+| CD-1 | Truth |
+| CD-2 | Stormbending |
+| CD-3 | Failure |
+| CD-4 | Secret Sciences |
+| CD-5 | Higher |
+| CD-6 | Stars |
+| CD-7 | Transcendence |
+| CD-8 | Offer Your Light |
+| CD-9 | From The Heart |
+| CD-10 | Transdermal Celebration |
+| CD-11 | Gump |
+| CD-12 | Loud |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 | Format         | Vinyl LP (Clear), Vinyl LP Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 462 |
-| Notes | Recorded between March & April 2016 in Vancouver BC, Canada.<br><br>Published by: Copyright Control except 'Stormbending', 'Failure', 'Secret Sciences', 'Higher' and 'Transcendence', published by Copyright Control / AMF Music.<br>'From The Heart' published by Copyright Control / AMF Music / Mustamullah Music (BMI)<br><br>'Transdermal Celebration' is a cover by [a=Ween] which appeared on their 2003 album 'Quebec'.<br>Copyright Control<br><br>Sample of the O.L.D. song, 'Last Look' used with kind permission from Earache Records<br><br>Mastered for Systematic Productions<br><br>FACTOR<br>We acknowledge the financial support of FACTOR and Canada's private radio broadcasters.<br><br>Recorded at The Armoury Studios<br><br>Choir recorded at The Farm Studios<br><br>© 2016 InsideOut Music. Issued under license from HevyDevy Records · ℗ 2016 HevyDevy Records. Issued under from HevyDevy Records to Century Media Records Ltd. under exclusive license from InsideOutMusic · Made in Germany · Century Media Records Ltd.<br><br>180g Transparent clear vinyl in gatefold + CD in PVC sleeve.<br><br>Limited to 200 copies<br><br>"From The Heart" is both credited with Music By credits for "Devin Townsend, Dave Young, Brian Waddell, Ryan VanPoederooyen, Mike St-Jean" and "Devin Townsend, Jeffrey M. Kagel" |
+| Notes | Recorded between March & April 2016 in Vancouver BC, Canada.  Published by: Copyright Control except 'Stormbending', 'Failure', 'Secret Sciences', 'Higher' and 'Transcendence', published by Copyright Control / AMF Music. 'From The Heart' published by Copyright Control / AMF Music / Mustamullah Music (BMI)  'Transdermal Celebration' is a cover by [a=Ween] which appeared on their 2003 album 'Quebec'. Copyright Control  Sample of the O.L.D. song, 'Last Look' used with kind permission from Earache Records  Mastered for Systematic Productions  FACTOR We acknowledge the financial support of FACTOR and Canada's private radio broadcasters.  Recorded at The Armoury Studios  Choir recorded at The Farm Studios  © 2016 InsideOut Music. Issued under license from HevyDevy Records · ℗ 2016 HevyDevy Records. Issued under from HevyDevy Records to Century Media Records Ltd. under exclusive license from InsideOutMusic · Made in Germany · Century Media Records Ltd.  180g Transparent clear vinyl in gatefold + CD in PVC sleeve.  Limited to 200 copies  "From The Heart" is both credited with Music By credits for "Devin Townsend, Dave Young, Brian Waddell, Ryan VanPoederooyen, Mike St-Jean" and "Devin Townsend, Jeffrey M. Kagel" |
 | Discogs URL    | [Devin Townsend Project - Transcendence](https://www.discogs.com/release/9021741-Devin-Townsend-Project-Transcendence) |

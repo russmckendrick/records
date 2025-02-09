@@ -35,18 +35,18 @@ Gold Against the Soul takes to an extreme the hard rock sound of its predecessor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sleepflower |  |
-| A2 | From Despair To Where |  |
-| A3 | La Tristesse Durera (Scream To A Sigh) |  |
-| A4 | Yourself |  |
-| A5 | Life Becoming A Landslide |  |
-| B1 | Drug Drug Druggy |  |
-| B2 | Roses In The Hospital |  |
-| B3 | Nostalgic Pushead |  |
-| B4 | Symphony Of Tourette |  |
-| B5 | Gold Against The Soul |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sleepflower |
+| A2 | From Despair To Where |
+| A3 | La Tristesse Durera (Scream To A Sigh) |
+| A4 | Yourself |
+| A5 | Life Becoming A Landslide |
+| B1 | Drug Drug Druggy |
+| B2 | Roses In The Hospital |
+| B3 | Nostalgic Pushead |
+| B4 | Symphony Of Tourette |
+| B5 | Gold Against The Soul |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Gold Against the Soul takes to an extreme the hard rock sound of its predecessor
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439733611 |
-| Notes | 2020 remastered reissue on 180gm vinyl.<br><br>Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.<br><br>Includes a [l=we are vinyl] download code for album plus b sides.<br><br>Made in the EU. |
+| Notes | 2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU. |
 | Discogs URL    | [Manic Street Preachers - Gold Against The Soul](https://www.discogs.com/release/15458799-Manic-Street-Preachers-Gold-Against-The-Soul) |

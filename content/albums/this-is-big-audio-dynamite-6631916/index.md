@@ -30,16 +30,16 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Medicine Show | 6:30 |
-| A2 | Sony | 4:30 |
-| A3 | E=MC² | 5:56 |
-| A4 | The Bottom Line | 4:35 |
-| B1 | A Party | 6:35 |
-| B2 | Sudden Impact! | 5:00 |
-| B3 | Stone Thames | 4:00 |
-| B4 | BAD | 6:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Medicine Show |
+| A2 | Sony |
+| A3 | E=MC² |
+| A4 | The Bottom Line |
+| B1 | A Party |
+| B2 | Sudden Impact! |
+| B3 | Stone Thames |
+| B4 | BAD |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 | Format         | Vinyl LP Album Stereo (No Barcode) |
 | Label          | CBS |
 | Catalog Number | CBS 26714 |
-| Notes | Very similar to [r=180852]; however, this version does not have a barcode on the right top-hand corner of the rear sleeve.<br><br>Issued with printed inner sleeve with lyrics and credits.<br><br>Runouts are etched, "A" stamped.<br><br>Catalogue number CBS 26714 on labels, spine; 26714 on back cover, inner sleeve.<br><br>Some copies may be gold-stamped as promotional.<br><br>Made entirely on location in West London<br>Engineered at Sarm West and at Redan Rec.<br>Shorepak by Shorewood Packaging Co. Ltd. England.<br><br>All songs Bad Songs Publishing |
+| Notes | Very similar to [r=180852]; however, this version does not have a barcode on the right top-hand corner of the rear sleeve.  Issued with printed inner sleeve with lyrics and credits.  Runouts are etched, "A" stamped.  Catalogue number CBS 26714 on labels, spine; 26714 on back cover, inner sleeve.  Some copies may be gold-stamped as promotional.  Made entirely on location in West London Engineered at Sarm West and at Redan Rec. Shorepak by Shorewood Packaging Co. Ltd. England.  All songs Bad Songs Publishing |
 | Discogs URL    | [Big Audio Dynamite - This Is Big Audio Dynamite](https://www.discogs.com/release/6631916-Big-Audio-Dynamite-This-Is-Big-Audio-Dynamite) |

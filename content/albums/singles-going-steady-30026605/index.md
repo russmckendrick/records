@@ -33,24 +33,24 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Orgasm Addict | 2:01 |
-| A2 | What Do I Get? | 2:55 |
-| A3 | I Don't Mind | 2:19 |
-| A4 | Love You More | 1:49 |
-| A5 | Ever Fallen In Love? | 2:41 |
-| A6 | Promises | 2:35 |
-| A7 | Everybody's Happy Nowadays | 3:11 |
-| A8 | Harmony In My Head | 3:07 |
-| B1 | What Ever Happened To? | 2:14 |
-| B2 | Oh Shit! | 1:36 |
-| B3 | Autonomy | 3:44 |
-| B4 | Noise Annoys | 2:51 |
-| B5 | Just Lust | 3:00 |
-| B6 | Lipstick | 2:37 |
-| B7 | Why Can't I Touch It? | 6:35 |
-| B8 | Something's Gone Wrong Again | 4:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Orgasm Addict |
+| A2 | What Do I Get? |
+| A3 | I Don't Mind |
+| A4 | Love You More |
+| A5 | Ever Fallen In Love? |
+| A6 | Promises |
+| A7 | Everybody's Happy Nowadays |
+| A8 | Harmony In My Head |
+| B1 | What Ever Happened To? |
+| B2 | Oh Shit! |
+| B3 | Autonomy |
+| B4 | Noise Annoys |
+| B5 | Just Lust |
+| B6 | Lipstick |
+| B7 | Why Can't I Touch It? |
+| B8 | Something's Gone Wrong Again |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 | Format         | Vinyl LP Compilation Numbered Reissue Remastered Repress (Orange Translucent) |
 | Label          | Domino |
 | Catalog Number | REWIGLP129 |
-| Notes | Numbered edition of 2000 copies<br>Heavyweight vinyl including download code and 8-page booklet. <br>Half-speed mastering by Barry Grint at Alchemy, London.<br>This compilation ℗ 1979 © 2019 Domino Recording Co. Ltd.<br>Made in the EU |
+| Notes | Numbered edition of 2000 copies Heavyweight vinyl including download code and 8-page booklet.  Half-speed mastering by Barry Grint at Alchemy, London. This compilation ℗ 1979 © 2019 Domino Recording Co. Ltd. Made in the EU |
 | Discogs URL    | [Buzzcocks - Singles Going Steady](https://www.discogs.com/release/30026605-Buzzcocks-Singles-Going-Steady) |

@@ -29,17 +29,17 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Vanishing Heart |  |
-| A2 | Judgement Train |  |
-| A3 | Brings Me Joy |  |
-| A4 | Our Tomorrows |  |
-| A5 | Euphonium Dream |  |
-| B1 | The World's In Town |  |
-| B2 | Light The Light |  |
-| B3 | Martian Garden |  |
-| B4 | All Summer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Vanishing Heart |
+| A2 | Judgement Train |
+| A3 | Brings Me Joy |
+| A4 | Our Tomorrows |
+| A5 | Euphonium Dream |
+| B1 | The World's In Town |
+| B2 | Light The Light |
+| B3 | Martian Garden |
+| B4 | All Summer |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 | Format         | Vinyl LP Album Deluxe Edition (Signed Photographic Print, 180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP414 |
-| Notes | [Hype sticker on front]:<br>"Deluxe mart edition<br>180 gram heavyweight vinyl<br>Includes exclusive signed photographic print<br>plus download code.<br>WIGLP414XM 887828041459"<br><br>This version which includes the signed print was available only direct from Domino.<br><br>Recorded at Barnlight Studios, North West essex.<br>Mastered at Electric Mastering, London.<br>Cover photograph  - Archives Kunkels Organ Foundation.<br>Booklet photograph still taken from the short film directed by Edwin Burdis.<br><br>All songs published by Domino Publishing Co. Ltd except<br>"Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.<br><br>Made in the EU ℗&© 2019 Domino Recording Co. Ltd. |
+| Notes | [Hype sticker on front]: "Deluxe mart edition 180 gram heavyweight vinyl Includes exclusive signed photographic print plus download code. WIGLP414XM 887828041459"  This version which includes the signed print was available only direct from Domino.  Recorded at Barnlight Studios, North West essex. Mastered at Electric Mastering, London. Cover photograph  - Archives Kunkels Organ Foundation. Booklet photograph still taken from the short film directed by Edwin Burdis.  All songs published by Domino Publishing Co. Ltd except "Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.  Made in the EU ℗&© 2019 Domino Recording Co. Ltd. |
 | Discogs URL    | [Rustin Man - Drift Code](https://www.discogs.com/release/13151178-Rustin-Man-Drift-Code) |

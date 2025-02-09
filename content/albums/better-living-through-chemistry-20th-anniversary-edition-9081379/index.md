@@ -29,19 +29,19 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Song For Lindy | 4:49 |
-| A2 | 10th & Crenshaw | 4:18 |
-| A3 | Give The Po' Man A Break | 5:51 |
-| B1 | Going Out Of My Head | 5:11 |
-| B2 | Everybody Needs A 303 | 5:49 |
-| B3 | First Down | 6:17 |
-| C1 | The Weekend Starts Here | 6:41 |
-| C2 | The Sound Of Milwaukee | 6:20 |
-| D1 | Santa Cruz | 7:27 |
-| D2 | Punk To Funk | 4:58 |
-| D3 | Crenshaw Siren Beats | 2:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Song For Lindy |
+| A2 | 10th & Crenshaw |
+| A3 | Give The Po' Man A Break |
+| B1 | Going Out Of My Head |
+| B2 | Everybody Needs A 303 |
+| B3 | First Down |
+| C1 | The Weekend Starts Here |
+| C2 | The Sound Of Milwaukee |
+| D1 | Santa Cruz |
+| D2 | Punk To Funk |
+| D3 | Crenshaw Siren Beats |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 | Format         | Vinyl 2× LP Album Reissue (Yellow) |
 | Label          | Skint |
 | Catalog Number | BRASSIC2LPS |
-| Notes | 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.<br><br>"Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968."<br>"Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints" |
+| Notes | 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.  "Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968." "Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints" |
 | Discogs URL    | [Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) ](https://www.discogs.com/release/9081379-Fatboy-Slim-Better-Living-Through-Chemistry-20th-Anniversary-Edition-) |

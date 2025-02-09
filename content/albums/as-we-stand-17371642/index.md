@@ -25,18 +25,18 @@ styles: ["Contemporary Jazz"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rivers Of Mind | 4:14 |
-| A2 | Convolution | 5:00 |
-| A3 | Polar Retreat | 6:49 |
-| B1 | Out Of Sight, Out Of Mind | 7:31 |
-| B2 | Home | 8:54 |
-| C1 | Settling Into The Sun | 6:56 |
-| C2 | Intwination | 4:11 |
-| C3 | As We Stand | 5:19 |
-| D1 | Kestrel | 6:50 |
-| D2 | What's In A Tune | 6:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Rivers Of Mind |
+| A2 | Convolution |
+| A3 | Polar Retreat |
+| B1 | Out Of Sight, Out Of Mind |
+| B2 | Home |
+| C1 | Settling Into The Sun |
+| C2 | Intwination |
+| C3 | As We Stand |
+| D1 | Kestrel |
+| D2 | What's In A Tune |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Contemporary Jazz"]
 | Format         | Vinyl 2× 12" Album (Gatefold) |
 | Label          | Cadillac Records |
 | Catalog Number | SGCLP019 |
-| Notes | Gatefold double vinyl - strictly limited edition of 500<br><br> |
+| Notes | Gatefold double vinyl - strictly limited edition of 500   |
 | Discogs URL    | [Tori Handsley - As We Stand](https://www.discogs.com/release/17371642-Tori-Handsley-As-We-Stand) |

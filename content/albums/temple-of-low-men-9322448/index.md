@@ -35,20 +35,20 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | High Side |  |
-| A1 | I Feel Possessed |  |
-| A2 | Kill Eye |  |
-| A3 | Into Temptation |  |
-| A4 | Mansion In The Slums |  |
-| A5 | When You Come |  |
-|  | Low Side |  |
-| B1 | Never Be The Same |  |
-| B2 | Love This Life |  |
-| B3 | Sister Madly |  |
-| B4 | In The Lowlands |  |
-| B5 | Better Be Home Soon |  |
+| Position | Title |
+|----------|--------|
+|  | High Side |
+| A1 | I Feel Possessed |
+| A2 | Kill Eye |
+| A3 | Into Temptation |
+| A4 | Mansion In The Slums |
+| A5 | When You Come |
+|  | Low Side |
+| B1 | Never Be The Same |
+| B2 | Love This Life |
+| B3 | Sister Madly |
+| B4 | In The Lowlands |
+| B5 | Better Be Home Soon |
 
 
 ## Apple Music

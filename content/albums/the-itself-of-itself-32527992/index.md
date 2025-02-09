@@ -28,15 +28,15 @@ The album received a physical release exclusively on CD, in a limited edition of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Unperson | 10:34 |
-| A2 | Apparition 3 | 6:04 |
-| B3 | Bruise | 13:19 |
-| B4 | Blackmail | 7:24 |
-| C5 | The Itself Of Itself | 10:24 |
-| D6 | Study For Tape Hiss And Other Audio Artefacts | 11:58 |
-| D7 | Apparition 5  | 2:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Unperson |
+| A2 | Apparition 3 |
+| B3 | Bruise |
+| B4 | Blackmail |
+| C5 | The Itself Of Itself |
+| D6 | Study For Tape Hiss And Other Audio Artefacts |
+| D7 | Apparition 5  |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ The album received a physical release exclusively on CD, in a limited edition of
 | Format         | Vinyl 2× LP Deluxe Edition Limited Edition |
 | Label          | Lumberton Trading Company |
 | Catalog Number | LUMB2LP036 |
-| Notes | Limited edition of 1000 with obi strip and 24pp booklet.<br><br>First 150 arrive with postcard.<br> |
+| Notes | Limited edition of 1000 with obi strip and 24pp booklet.  First 150 arrive with postcard.  |
 | Discogs URL    | [Bass Communion - The Itself Of Itself](https://www.discogs.com/release/32527992-Bass-Communion-The-Itself-Of-Itself) |

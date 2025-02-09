@@ -24,17 +24,17 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All That Is And Is One |  |
-| A2 | L∞p |  |
-| A3 | What's New Guru? |  |
-| A4 | Earthly Emerald Eyes |  |
-| A5 | Hyperception |  |
-| B1 | New Moon |  |
-| B2 | Misty Maker Stomp |  |
-| B3 | Rain |  |
-| B4 | Universe Goggles |  |
+| Position | Title |
+|----------|--------|
+| A1 | All That Is And Is One |
+| A2 | L∞p |
+| A3 | What's New Guru? |
+| A4 | Earthly Emerald Eyes |
+| A5 | Hyperception |
+| B1 | New Moon |
+| B2 | Misty Maker Stomp |
+| B3 | Rain |
+| B4 | Universe Goggles |
 
 
 ## Apple Music

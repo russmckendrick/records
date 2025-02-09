@@ -30,21 +30,21 @@ The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | West Side 1 |  |
-| WS1 | Six Bad Brothers | 5:04 |
-| WS2 | Rated R | 5:09 |
-| WS3 | Don't Mess | 5:44 |
-| WS4 | New Funky Nation | 5:49 |
-| WS5 | Once Upon A Drive By | 5:47 |
-| WS6 | T.R.I.B.E. | 3:49 |
-|  | East Side 2 |  |
-| ES1 | Walk The Line | 6:02 |
-| ES2 | R.A.I.D. | 4:27 |
-| ES3 | Psyko Funk | 4:12 |
-| ES4 | Riot Pump | 5:12 |
-| ES5 | Pickin' Up Metal | 4:58 |
+| Position | Title |
+|----------|--------|
+|  | West Side 1 |
+| WS1 | Six Bad Brothers |
+| WS2 | Rated R |
+| WS3 | Don't Mess |
+| WS4 | New Funky Nation |
+| WS5 | Once Upon A Drive By |
+| WS6 | T.R.I.B.E. |
+|  | East Side 2 |
+| ES1 | Walk The Line |
+| ES2 | R.A.I.D. |
+| ES3 | Psyko Funk |
+| ES4 | Riot Pump |
+| ES5 | Pickin' Up Metal |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
 | Format         | Vinyl LP Album Stereo |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLP 544 |
-| Notes | WS2, WS3, WS5, ES4 produced for Dust Bros. Music.<br>WS4, ES1, ES5 produced for Chicken Feed Productions.<br><br>Fish appears courtesy of CBS Records.<br><br>Recorded at Image Recording, Hollywood.<br>Mixed at Image Recording & The Record Plant, Hollywood.<br>ES2 recorded at Paramount Studios, Hollywood.<br>WS6, ES2 mixed at Studio 4, Philadelphia.<br>Mastered at Masterdisk, NYC, NY.<br><br>Publishing:<br>Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.<br><br>Back cover:<br>℗ 1990 owned by Island Records Inc except ES2 ℗ 1989.<br>Island Records Ltd are the exclusive licensees in the UK.<br>© 1990 Island Records Inc.<br><br>WS label:<br>℗ 1990 owned by Island Records Inc.<br>Island Records Ltd are the exclusive licensees for the U.K.<br><br>ES label:<br>℗ 1990 except ES1. 1989 owned by Island Records, Inc.<br>Island Records Ltd are the exclusive licensees for the United Kingdom.<br>Made in Gt Britain. |
+| Notes | WS2, WS3, WS5, ES4 produced for Dust Bros. Music. WS4, ES1, ES5 produced for Chicken Feed Productions.  Fish appears courtesy of CBS Records.  Recorded at Image Recording, Hollywood. Mixed at Image Recording & The Record Plant, Hollywood. ES2 recorded at Paramount Studios, Hollywood. WS6, ES2 mixed at Studio 4, Philadelphia. Mastered at Masterdisk, NYC, NY.  Publishing: Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.  Back cover: ℗ 1990 owned by Island Records Inc except ES2 ℗ 1989. Island Records Ltd are the exclusive licensees in the UK. © 1990 Island Records Inc.  WS label: ℗ 1990 owned by Island Records Inc. Island Records Ltd are the exclusive licensees for the U.K.  ES label: ℗ 1990 except ES1. 1989 owned by Island Records, Inc. Island Records Ltd are the exclusive licensees for the United Kingdom. Made in Gt Britain. |
 | Discogs URL    | [Boo-Yaa TRIBE - New Funky Nation](https://www.discogs.com/release/712190-Boo-Yaa-TRIBE-New-Funky-Nation) |

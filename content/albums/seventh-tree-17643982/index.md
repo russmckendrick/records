@@ -42,18 +42,18 @@ Four singles were released from the album. "A&E" was released as the lead single
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Clowns |  |
-| A2 | Little Bird |  |
-| A3 | Happiness |  |
-| A4 | Road To Somewhere |  |
-| A5 | Eat Yourself |  |
-| B1 | Some People |  |
-| B2 | A&E |  |
-| B3 | Cologne Cerrone Houdini |  |
-| B4 | Caravan Girl |  |
-| B5 | Monster Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Clowns |
+| A2 | Little Bird |
+| A3 | Happiness |
+| A4 | Road To Somewhere |
+| A5 | Eat Yourself |
+| B1 | Some People |
+| B2 | A&E |
+| B3 | Cologne Cerrone Houdini |
+| B4 | Caravan Girl |
+| B5 | Monster Love |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Four singles were released from the album. "A&E" was released as the lead single
 | Format         | Vinyl LP Album Reissue Special Edition (Yellow) |
 | Label          | Mute |
 | Catalog Number | YSTUMM280 |
-| Notes | Gatefold sleeve.<br>With Exclusive Art Print.<br>Printed card inner sleeve.<br>Copies purchased from Mute Bank webstore include A1-sized fold-out poster.<br><br>℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.<br><br>Made in The Netherlands |
+| Notes | Gatefold sleeve. With Exclusive Art Print. Printed card inner sleeve. Copies purchased from Mute Bank webstore include A1-sized fold-out poster.  ℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.  Made in The Netherlands |
 | Discogs URL    | [Goldfrapp - Seventh Tree](https://www.discogs.com/release/17643982-Goldfrapp-Seventh-Tree) |

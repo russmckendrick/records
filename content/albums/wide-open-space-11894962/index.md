@@ -34,15 +34,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wide Open Space |  |
-| A2 | Rebel Without A Quilt |  |
-| A3 | Vision Impaired  |  |
-| A4 | Skin Up Pin Up |  |
-| B1 | The Gods Of Not Very Much |  |
-| B2 | Moronica (Acoustic Version) |  |
-| B3 | Lemonade Secret Drinker (Acoustic Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wide Open Space |
+| A2 | Rebel Without A Quilt |
+| A3 | Vision Impaired  |
+| A4 | Skin Up Pin Up |
+| B1 | The Gods Of Not Very Much |
+| B2 | Moronica (Acoustic Version) |
+| B3 | Lemonade Secret Drinker (Acoustic Version) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Remastered (White) |
 | Label          | Kscope |
 | Catalog Number | Kscope989 |
-| Notes | Record Store Day 2018 release. <br>First time on 12" vinyl.<br>Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]). |
+| Notes | Record Store Day 2018 release.  First time on 12" vinyl. Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]). |
 | Discogs URL    | [Mansun - Wide Open Space](https://www.discogs.com/release/11894962-Mansun-Wide-Open-Space) |

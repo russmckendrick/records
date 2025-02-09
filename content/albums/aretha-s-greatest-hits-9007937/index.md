@@ -32,22 +32,22 @@ Aretha's Greatest Hits is the third compilation album by American singer Aretha 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spanish Harlem | 3:30 |
-| A2 | Chain Of Fools | 2:45 |
-| A3 | Don't Play That Song | 2:48 |
-| A4 | I Say A Little Prayer | 3:30 |
-| A5 | Dr. Feelgood | 3:18 |
-| A6 | Let It Be | 3:28 |
-| A7 | Do Right Woman - Do Right Man | 3:15 |
-| B1 | Bridge Over Troubled Water | 5:31 |
-| B2 | Respect | 2:26 |
-| B3 | Baby I Love You | 2:39 |
-| B4 | (You Make Me Feel LIke) A Natural Woman | 2:39 |
-| B5 | I Never Loved A Man (The Way I Love You) | 2:47 |
-| B6 | You're All I Need To Get By | 3:34 |
-| B7 | Call Me | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Spanish Harlem |
+| A2 | Chain Of Fools |
+| A3 | Don't Play That Song |
+| A4 | I Say A Little Prayer |
+| A5 | Dr. Feelgood |
+| A6 | Let It Be |
+| A7 | Do Right Woman - Do Right Man |
+| B1 | Bridge Over Troubled Water |
+| B2 | Respect |
+| B3 | Baby I Love You |
+| B4 | (You Make Me Feel LIke) A Natural Woman |
+| B5 | I Never Loved A Man (The Way I Love You) |
+| B6 | You're All I Need To Get By |
+| B7 | Call Me |
 
 
 ## Apple Music

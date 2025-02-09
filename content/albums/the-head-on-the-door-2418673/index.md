@@ -36,18 +36,18 @@ The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In Between Days | 2:56 |
-| A2 | Kyoto Song | 4:14 |
-| A3 | The Blood | 3:41 |
-| A4 | Six Different Ways | 3:16 |
-| A5 | Push | 4:30 |
-| B1 | The Baby Screams | 3:42 |
-| B2 | Close To Me | 3:21 |
-| B3 | A Night Like This | 4:13 |
-| B4 | Screw | 2:36 |
-| B5 | Sinking | 4:53 |
+| Position | Title |
+|----------|--------|
+| A1 | In Between Days |
+| A2 | Kyoto Song |
+| A3 | The Blood |
+| A4 | Six Different Ways |
+| A5 | Push |
+| B1 | The Baby Screams |
+| B2 | Close To Me |
+| B3 | A Night Like This |
+| B4 | Screw |
+| B5 | Sinking |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 gram) |
 | Label          | Fiction Records |
 | Catalog Number | 0042282723116 |
-| Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font:<br>"Back To Black<br>60th Vinyl Anniversary<br>Includes a voucher to download MP3 version of the album<br>Made in EU<br>www.backtoblackvinyl.com"<br><br>Originally released in 1985<br><br>Track times not given on release<br> |
+| Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font: "Back To Black 60th Vinyl Anniversary Includes a voucher to download MP3 version of the album Made in EU www.backtoblackvinyl.com"  Originally released in 1985  Track times not given on release  |
 | Discogs URL    | [The Cure - The Head On The Door](https://www.discogs.com/release/2418673-The-Cure-The-Head-On-The-Door) |

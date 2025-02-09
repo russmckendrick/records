@@ -34,36 +34,36 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Song For America | 5:42 |
-| A2 | The Joker | 4:26 |
-| A3 | Read 'Em And Weep | 3:46 |
-| A4 | Born To Be Wild | 3:27 |
-| A5 | Stage Fright | 4:19 |
-| A6 | Keep On Loving You | 3:19 |
-| A7 | Do You Believe In Love | 3:30 |
-| B1 | Foolish Heart | 3:37 |
-| B2 | She's Not There | 3:13 |
-| B3 | White Rabbit | 2:33 |
-| B4 | More Than A Feeling | 3:22 |
-| B5 | Heart Like A Wheel |  |
-| B6 | Even The Nights Are Better | 3:55 |
-| B7 | We Belong | 3:40 |
-| C1 | I Can't Hold Back | 3:58 |
-| C2 | American Woman | 3:50 |
-| C3 | Don't Stop Believing | 4:09 |
-| C4 | She's Gone | 3:25 |
-| C5 | Sylvia's Mother | 3:50 |
-| C6 | Trouble | 3:53 |
-| C7 | Missing You | 4:45 |
-| D1 | Rosana | 3:59 |
-| D2 | Because The Night | 3:00 |
-| D3 | Miracles | 3:26 |
-| D4 | Nobody But You | 2:58 |
-| D5 | Freebird | 4:10 |
-| D6 | Feels So Right | 3:35 |
-| D7 | Here Comes That Feeling | 3:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Song For America |
+| A2 | The Joker |
+| A3 | Read 'Em And Weep |
+| A4 | Born To Be Wild |
+| A5 | Stage Fright |
+| A6 | Keep On Loving You |
+| A7 | Do You Believe In Love |
+| B1 | Foolish Heart |
+| B2 | She's Not There |
+| B3 | White Rabbit |
+| B4 | More Than A Feeling |
+| B5 | Heart Like A Wheel |
+| B6 | Even The Nights Are Better |
+| B7 | We Belong |
+| C1 | I Can't Hold Back |
+| C2 | American Woman |
+| C3 | Don't Stop Believing |
+| C4 | She's Gone |
+| C5 | Sylvia's Mother |
+| C6 | Trouble |
+| C7 | Missing You |
+| D1 | Rosana |
+| D2 | Because The Night |
+| D3 | Miracles |
+| D4 | Nobody But You |
+| D5 | Freebird |
+| D6 | Feels So Right |
+| D7 | Here Comes That Feeling |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Starblend Records Ltd. |
 | Catalog Number | SLTD 12 |
-| Notes | This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.<br><br>Artwork differs from [r=6672471]<br><br>Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5 |
+| Notes | This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5 |
 | Discogs URL    | [Various - American Dreams](https://www.discogs.com/release/1665212-Various-American-Dreams) |

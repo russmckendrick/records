@@ -51,17 +51,17 @@ Dirty Deeds Done Dirt Cheap is the third studio album by Australian hard rock ba
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dirty Deeds Done Dirt Cheap |  |
-| A2 | Love At First Feel |  |
-| A3 | Big Balls |  |
-| A4 | Rocker |  |
-| A5 | Problem Child |  |
-| B1 | There's Gonna Be Some Rockin' |  |
-| B2 | Ain't No Fun (Waiting Round To Be A Millionaire) |  |
-| B3 | Ride On |  |
-| B4 | Squealer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dirty Deeds Done Dirt Cheap |
+| A2 | Love At First Feel |
+| A3 | Big Balls |
+| A4 | Rocker |
+| A5 | Problem Child |
+| B1 | There's Gonna Be Some Rockin' |
+| B2 | Ain't No Fun (Waiting Round To Be A Millionaire) |
+| B3 | Ride On |
+| B4 | Squealer |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ Dirty Deeds Done Dirt Cheap is the third studio album by Australian hard rock ba
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Special Edition (Gold, 180g, 50th Anniversary) |
 | Label          | Columbia |
 | Catalog Number | 19658834581 |
-| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.<br>Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.<br>There are two hype stickers on the outer film on the front.<br><br>The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.<br>The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.<br><br>[Printed on rectangular hypsticker:]<br>50th Anniversary<br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels<br><br>[Printed on back cover:]<br>Produced by Vanda & Young for Albert Productions..<br>[...]<br>© 1976, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1976 J. Albert & Son (Pty.) Ltd.<br>[...]<br>Made in the EU.<br><br>[Printed on inner sleeve:]<br>[...]<br>"Rocker" - Studio version. Live version previously released on Atlantic SD 19212 - [r=1419774].<br>"Problem Child" previously released on Atco SD 36-151 - [r=368686].<br>All selections recorded in 1976.<br>Originally released as Atlantic 16033 on March 27, 1981.<br>Remastered from the original master tapes by George Marino at Sterling Sound<br>[...]<br>Additional artifacts courtesy Albert Productions and Arnaud Durieux.<br>"Dirty Deeds Done Dirt Cheap" and "Love At First Feel" © 1976 J. Albert & Son (Pty.) Ltd.<br>Lyrics printed by kind permission of the publisher.<br>19658834581 © 1976, 2003 J. Albert & Son (Pty.) Ltd.<br><br>[Printed on artwork:]<br>Reverse side photo by Michael Putland archive. 19658834581-11<br><br>[Printed on label side B:]<br>© 1976, 2024 J. Albert & Son (Pty.) Ltd.<br><br>Runouts are etched.<br>Pressing plant identified based on the runout areas.<br><br>A1 in the runout field = A₁ in the vinyl runout.<br>B1 in the runout field = B₁ in the vinyl runout.<br><br>[Additional information about the faintly inscribed geometric marks:]<br>In the runouts "2l△" and "2lX" are mirrored. |
+| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on back cover:] Produced by Vanda & Young for Albert Productions.. [...] © 1976, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1976 J. Albert & Son (Pty.) Ltd. [...] Made in the EU.  [Printed on inner sleeve:] [...] "Rocker" - Studio version. Live version previously released on Atlantic SD 19212 - [r=1419774]. "Problem Child" previously released on Atco SD 36-151 - [r=368686]. All selections recorded in 1976. Originally released as Atlantic 16033 on March 27, 1981. Remastered from the original master tapes by George Marino at Sterling Sound [...] Additional artifacts courtesy Albert Productions and Arnaud Durieux. "Dirty Deeds Done Dirt Cheap" and "Love At First Feel" © 1976 J. Albert & Son (Pty.) Ltd. Lyrics printed by kind permission of the publisher. 19658834581 © 1976, 2003 J. Albert & Son (Pty.) Ltd.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834581-11  [Printed on label side B:] © 1976, 2024 J. Albert & Son (Pty.) Ltd.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "2l△" and "2lX" are mirrored. |
 | Discogs URL    | [ACDC - Dirty Deeds Done Dirt Cheap](https://www.discogs.com/release/30106859-ACDC-Dirty-Deeds-Done-Dirt-Cheap) |

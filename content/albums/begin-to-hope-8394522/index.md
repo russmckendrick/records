@@ -39,30 +39,30 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fidelity | 3:47 |
-| A2 | Better | 3:22 |
-| A3 | Samson | 3:10 |
-| A4 | On The Radio | 3:22 |
-| A5 | Field Below | 5:18 |
-| A6 | Hotel Song | 3:29 |
-| B1 | Après Moi | 5:08 |
-| B2 | 20 Years of Snow | 3:31 |
-| B3 | That Time | 2:39 |
-| B4 | Edit | 4:53 |
-| B5 | Lady | 4:45 |
-| B6 | Summer In The City | 3:50 |
-| C1 | Another Town | 4:07 |
-| C2 | Uh-Merica | 3:16 |
-| C3 | Baobabs | 2:02 |
-| C4 | Düsseldorf  | 3:09 |
-| C5 | Music Box | 2:11 |
-| D1 | Better (Piano And Voice) | 3:09 |
-| D2 | Hero | 3:45 |
-| D3 | Bartender | 3:12 |
-| D4 | Baby Jesus | 2:43 |
-| D5 | Better (Radio Recut) | 3:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Fidelity |
+| A2 | Better |
+| A3 | Samson |
+| A4 | On The Radio |
+| A5 | Field Below |
+| A6 | Hotel Song |
+| B1 | Après Moi |
+| B2 | 20 Years of Snow |
+| B3 | That Time |
+| B4 | Edit |
+| B5 | Lady |
+| B6 | Summer In The City |
+| C1 | Another Town |
+| C2 | Uh-Merica |
+| C3 | Baobabs |
+| C4 | Düsseldorf  |
+| C5 | Music Box |
+| D1 | Better (Piano And Voice) |
+| D2 | Hero |
+| D3 | Bartender |
+| D4 | Baby Jesus |
+| D5 | Better (Radio Recut) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
 | Label          | Sire |
 | Catalog Number | 553891-1 |
-| Notes | 10th Anniversary Limited Edition 2-LP Set<br>Bonus LP Features 10 Additional Tracks.<br><br>Record Store Day Release 2016. Limited to 3,000 copies. |
+| Notes | 10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies. |
 | Discogs URL    | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |

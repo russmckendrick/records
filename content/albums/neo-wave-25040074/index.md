@@ -29,24 +29,24 @@ The album reached No. 74 on the UK Albums Chart. Two singles reached the UK top 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cheerleading |  |
-| A2 | I'll See You Around |  |
-| A3 | Would've If I Could've |  |
-| A4 | Too Much, Too Little, Too Late |  |
-| A5 | Scared |  |
-| A6 | There Goes Summer |  |
-| A7 | Sharks |  |
-| A8 | The Profit Of The Prairie |  |
-| B1 | Mustard |  |
-| B2 | Pixie, Pixie |  |
-| B3 | Hey Girlfriend |  |
-| B4 | Only A Girl |  |
-| B5 | Special Powers |  |
-| B6 | Fire & Blood |  |
-| B7 | Patients |  |
-| B8 | Dead End |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cheerleading |
+| A2 | I'll See You Around |
+| A3 | Would've If I Could've |
+| A4 | Too Much, Too Little, Too Late |
+| A5 | Scared |
+| A6 | There Goes Summer |
+| A7 | Sharks |
+| A8 | The Profit Of The Prairie |
+| B1 | Mustard |
+| B2 | Pixie, Pixie |
+| B3 | Hey Girlfriend |
+| B4 | Only A Girl |
+| B5 | Special Powers |
+| B6 | Fire & Blood |
+| B7 | Patients |
+| B8 | Dead End |
 
 
 ## Apple Music

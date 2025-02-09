@@ -50,20 +50,20 @@ Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Slut Machine |  |
-| A2 | Supercruel |  |
-| A3 | On The Verge |  |
-| B1 | Unbroken (Hotel Baby) |  |
-| B2 | Radiation Day |  |
-| B3 | Monolithic |  |
-| C1 | The Right Stuff |  |
-| C2 | There's No Way Out Of Here |  |
-| C3 | Master Of Light |  |
-| D1 | Too Bad |  |
-| D2 | Ultimate Everything |  |
-| D3 | CNN War Theme |  |
+| Position | Title |
+|----------|--------|
+| A1 | Slut Machine |
+| A2 | Supercruel |
+| A3 | On The Verge |
+| B1 | Unbroken (Hotel Baby) |
+| B2 | Radiation Day |
+| B3 | Monolithic |
+| C1 | The Right Stuff |
+| C2 | There's No Way Out Of Here |
+| C3 | Master Of Light |
+| D1 | Too Bad |
+| D2 | Ultimate Everything |
+| D3 | CNN War Theme |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 i
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1066VINYL |
-| Notes | Black vinyl edition.<br><br>Tracks C1, D3 mixed at Paramount Studios, CA.<br><br>Tim Cronin, eye of agamotto and the sum of all fears.<br><br>Magnet welcomes aboard Bob Pantella on drums.<br><br>Dedicated to the memory of Gerald F Wyndorf 1918-2003<br>"Love you Pop! See you on the other side!'<br><br>(45 RPM not mentioned anywhere on the cover/inlay/record.) |
+| Notes | Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.) |
 | Discogs URL    | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108-Monster-Magnet-Monolithic-Baby) |

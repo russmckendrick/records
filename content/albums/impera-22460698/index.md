@@ -82,20 +82,20 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Imperium | 1:40 |
-| A2 | Kaisarion | 5:02 |
-| A3 | Spillways | 3:16 |
-| A4 | Call Me Little Sunshine  | 4:44 |
-| A5 | Hunter's Moon  | 3:16 |
-| A6 | Watcher In The Sky | 5:48 |
-| B1 | Dominion | 1:22 |
-| B2 | Twenties | 3:46 |
-| B3 | Darkness At The Heart Of My Love | 4:58 |
-| B4 | Griftwood | 5:16 |
-| B5 | Bite Of Passage  | 0:31 |
-| B6 | Respite On The Spitalfields | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Imperium |
+| A2 | Kaisarion |
+| A3 | Spillways |
+| A4 | Call Me Little Sunshine  |
+| A5 | Hunter's Moon  |
+| A6 | Watcher In The Sky |
+| B1 | Dominion |
+| B2 | Twenties |
+| B3 | Darkness At The Heart Of My Love |
+| B4 | Griftwood |
+| B5 | Bite Of Passage  |
+| B6 | Respite On The Spitalfields |
 
 
 ## Apple Music
@@ -113,5 +113,5 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 | Format         | Vinyl LP Album Limited Edition (Magenta [Dark Magenta]) |
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |
-| Notes | Issued with a 28-page booklet.<br>Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.<br><br>Recorded April 2020 - July 2021.<br>Mixed June - August 2021.<br>Mastered August 2021.<br><br>Hype sticker:<br>Dark Magenta Vinyl<br>Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine" <br>Plus a 28-page book of illustrations |
+| Notes | Issued with a 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.  Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations |
 | Discogs URL    | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-32-Impera) |

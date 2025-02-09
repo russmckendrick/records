@@ -34,21 +34,21 @@ Following the album's release, a falling out with the band's record label, EMI, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Should Have Known Better | 3:50 |
-| A2 | Two People In A Room | 2:08 |
-| A3 | The 15th | 3:02 |
-| A4 | The Other Window | 2:06 |
-| A5 | Single K.O. | 2:19 |
-| A6 | A Touching Display | 6:25 |
-| A7 | On Returning | 2:05 |
-| B1 | A Mutual Friend | 4:25 |
-| B2 | Blessed State | 3:26 |
-| B3 | Once Is Enough | 3:20 |
-| B4 | Map Ref. 41ºN 93ºW | 3:35 |
-| B5 | Indirect Enquiries | 3:33 |
-| B6 | 40 Versions | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | I Should Have Known Better |
+| A2 | Two People In A Room |
+| A3 | The 15th |
+| A4 | The Other Window |
+| A5 | Single K.O. |
+| A6 | A Touching Display |
+| A7 | On Returning |
+| B1 | A Mutual Friend |
+| B2 | Blessed State |
+| B3 | Once Is Enough |
+| B4 | Map Ref. 41ºN 93ºW |
+| B5 | Indirect Enquiries |
+| B6 | 40 Versions |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Following the album's release, a falling out with the band's record label, EMI, 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF13LP |
-| Notes | Manufactured under licence from The state51 Conspiracy.<br><br>℗ & © 2018 pinkflag<br><br>Printed inner sleeve with credits and lyrics. |
+| Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Printed inner sleeve with credits and lyrics. |
 | Discogs URL    | [Wire - 154](https://www.discogs.com/release/12173889-Wire-154) |

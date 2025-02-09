@@ -31,14 +31,14 @@ styles: ["Post Rock", "Stoner Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Orion | 7:49 |
-| A2 | Magik | 6:38 |
-| A3 | Underskin | 8:05 |
-| B1 | Sirens | 6:20 |
-| B2 | Day 366 | 9:08 |
-| B3 | One Must Fall | 6:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Orion |
+| A2 | Magik |
+| A3 | Underskin |
+| B1 | Sirens |
+| B2 | Day 366 |
+| B3 | One Must Fall |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Post Rock", "Stoner Rock"]
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Tonzonen Records |
 | Catalog Number | TON109 |
-| Notes | Limited to 750 (red), Gatefold Cover, Download-Card, Poster<br><br>Recorded and mixed Tonstudio45, Lahnstein in 2020<br>Mastered by [...], Berlin in 2020-2021<br>Artwork : [...] : sulewski.net<br><br>Cat# 1 appears on rear cover<br>Cat# 2 appears on spine |
+| Notes | Limited to 750 (red), Gatefold Cover, Download-Card, Poster  Recorded and mixed Tonstudio45, Lahnstein in 2020 Mastered by [...], Berlin in 2020-2021 Artwork : [...] : sulewski.net  Cat# 1 appears on rear cover Cat# 2 appears on spine |
 | Discogs URL    | [Glasgow Coma Scale - Sirens](https://www.discogs.com/release/20160328-Glasgow-Coma-Scale-Sirens) |

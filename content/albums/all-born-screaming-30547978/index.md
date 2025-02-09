@@ -49,18 +49,18 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hell Is Near | 4:09 |
-| A2 | Reckless | 3:57 |
-| A3 | Broken Man | 3:21 |
-| A4 | Flea | 3:47 |
-| A5 | Big Time Nothing | 2:59 |
-| B1 | Violent Times | 3:57 |
-| B2 | The Power's Out | 4:38 |
-| B3 | Sweetest Fruit | 3:56 |
-| B4 | So Many Planets | 3:35 |
-| B5 | All Born Screaming | 6:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Hell Is Near |
+| A2 | Reckless |
+| A3 | Broken Man |
+| A4 | Flea |
+| A5 | Big Time Nothing |
+| B1 | Violent Times |
+| B2 | The Power's Out |
+| B3 | Sweetest Fruit |
+| B4 | So Many Planets |
+| B5 | All Born Screaming |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Total Pleasure Records |
 | Catalog Number | 00196922801839 |
-| Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list. <br><br>Made in Germany. |
+| Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list.   Made in Germany. |
 | Discogs URL    | [St Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |

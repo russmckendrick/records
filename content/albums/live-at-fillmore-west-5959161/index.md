@@ -33,17 +33,17 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Memphis Soul Stew | 7:30 |
-| A2 | A Whiter Shade Of Pale | 5:15 |
-| A3 | Whole Lotta Love | 2:10 |
-| A4 | I Stand Accused | 6:17 |
-| B1 | Changes | 6:52 |
-| B2 | Ode To Billie Joe | 3:12 |
-| B3 | Mr. Bojangles | 4:23 |
-| B4 | Signed Sealed Delivered, I'm Yours | 2:30 |
-| B5 | Soul Serenade | 5:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Memphis Soul Stew |
+| A2 | A Whiter Shade Of Pale |
+| A3 | Whole Lotta Love |
+| A4 | I Stand Accused |
+| B1 | Changes |
+| B2 | Ode To Billie Joe |
+| B3 | Mr. Bojangles |
+| B4 | Signed Sealed Delivered, I'm Yours |
+| B5 | Soul Serenade |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1143 |
-| Notes | Originally released ℗  & © 1971 ATCO records<br>This release ℗ © 2104 Warner Music.<br>Comes into a lined black paper with round central holes.<br>Made in the EU. |
+| Notes | Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU. |
 | Discogs URL    | [King Curtis - Live At Fillmore West](https://www.discogs.com/release/5959161-King-Curtis-Live-At-Fillmore-West) |

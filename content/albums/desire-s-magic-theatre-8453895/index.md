@@ -31,18 +31,18 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Desire's Magic Theatre |  |
-| A2 | Electric Landlady |  |
-| A3 | Dead Dodo Down |  |
-| A4 | Pedigree Chums |  |
-| A5 | The Sky Parade |  |
-| B1 | The Window Cleaner |  |
-| B2 | The Way It Is |  |
-| B3 | Mr. Howard |  |
-| B4 | I Know |  |
-| B5 | The Bitter Suite |  |
+| Position | Title |
+|----------|--------|
+| A1 | Desire's Magic Theatre |
+| A2 | Electric Landlady |
+| A3 | Dead Dodo Down |
+| A4 | Pedigree Chums |
+| A5 | The Sky Parade |
+| B1 | The Window Cleaner |
+| B2 | The Way It Is |
+| B3 | Mr. Howard |
+| B4 | I Know |
+| B5 | The Bitter Suite |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Spinefarm Records |
 | Catalog Number | 0602547711557 |
-| Notes | Album has a sticker on shrinkwrap.<br>Gatefold cover. |
+| Notes | Album has a sticker on shrinkwrap. Gatefold cover. |
 | Discogs URL    | [Purson - Desire's Magic Theatre](https://www.discogs.com/release/8453895-Purson-Desires-Magic-Theatre) |

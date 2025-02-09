@@ -28,74 +28,74 @@ styles: ["Hard Rock", "Arena Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Van Halen (2015 Remaster) |  |
-| A1 | Runnin' With The Devil | 3:35 |
-| A2 | Eruption | 1:42 |
-| A3 | You Really Got Me | 2:36 |
-| A4 | Ain't Talkin 'Bout Love | 3:48 |
-| A5 | I'm The One | 3:44 |
-| B1 | Jamie's Cryin' | 3:29 |
-| B2 | Atomic Punk | 3:00 |
-| B3 | Feel Your Love Tonight | 3:41 |
-| B4 | Little Dreamer | 3:22 |
-| B5 | Ice Cream Man | 3:18 |
-| B6 | On Fire | 3:00 |
-|  | Van Halen II (2015 Remaster) |  |
-| C1 | You're No Good | 3:17 |
-| C2 | Dance The Night Away | 3:09 |
-| C3 | Somebody Get Me A Doctor | 2:53 |
-| C4 | Bottoms Up! | 3:06 |
-| C5 | Outta Love Again | 2:52 |
-| D1 | Light Up The Sky | 3:11 |
-| D2 | Spanish Fly | 1:02 |
-| D3 | D.O.A. | 4:10 |
-| D4 | Women In Love... | 4:09 |
-| D5 | Beautiful Girls | 3:57 |
-|  | Women And Children First (2015 Remaster) |  |
-| E1 | And The Cradle Will Rock... | 3:33 |
-| E2 | Everybody Wants Some!! | 5:07 |
-| E3 | Fools | 5:56 |
-| E4 | Romeo Delight | 4:20 |
-| F1 | Tora! Tora! | 0:56 |
-| F2 | Loss Of Control | 2:39 |
-| F3 | Take Your Whiskey Home | 3:10 |
-| F4 | Could This Be Magic | 3:10 |
-| F5 | In A Simple Rhyme | 4:41 |
-|  | Fair Warning (2015 Remaster) |  |
-| G1 | Mean Street | 5:01 |
-| G2 | "Dirty Movies" | 4:08 |
-| G3 | Sinner's Swing | 3:09 |
-| G4 | Hear About It Later | 4:32 |
-| H1 | Unchained | 3:29 |
-| H2 | Push Comes To Shove | 3:49 |
-| H3 | So This Is Love? | 3:06 |
-| H4 | Sunday Afternoon In The Park | 1:59 |
-| H5 | One Foot Out Of The Door | 2:01 |
-|  | Diver Down (2015 Remaster) |  |
-| I1 | Where Have All The Good Times Gone! | 3:05 |
-| I2 | Hang 'Em High | 3:28 |
-| I3 | Cathedral | 1:23 |
-| I4 | Secrets | 3:25 |
-| I5 | Intruder | 1:39 |
-| I6 | (Oh) Pretty Woman | 2:53 |
-| J1 | Dancing In The Street | 3:45 |
-| J2 | Little Guitars (Intro) | 0:42 |
-| J3 | Little Guitars | 3:48 |
-| J4 | Big Bad Bill (Is Sweet William Now) | 2:45 |
-| J5 | The Full Bug | 3:21 |
-| J6 | Happy Trails | 1:06 |
-|  | 1984 (2015 Remaster) |  |
-| K1 | 1984 | 1:08 |
-| K2 | Jump | 4:02 |
-| K3 | Panama | 3:30 |
-| K4 | Top Jimmy | 3:00 |
-| K5 | Drop Dead Legs | 4:14 |
-| L1 | Hot For Teacher | 4:42 |
-| L2 | I'll Wait | 4:41 |
-| L3 | Girl Gone Bad | 4:33 |
-| L4 | House Of Pain | 3:19 |
+| Position | Title |
+|----------|--------|
+|  | Van Halen (2015 Remaster) |
+| A1 | Runnin' With The Devil |
+| A2 | Eruption |
+| A3 | You Really Got Me |
+| A4 | Ain't Talkin 'Bout Love |
+| A5 | I'm The One |
+| B1 | Jamie's Cryin' |
+| B2 | Atomic Punk |
+| B3 | Feel Your Love Tonight |
+| B4 | Little Dreamer |
+| B5 | Ice Cream Man |
+| B6 | On Fire |
+|  | Van Halen II (2015 Remaster) |
+| C1 | You're No Good |
+| C2 | Dance The Night Away |
+| C3 | Somebody Get Me A Doctor |
+| C4 | Bottoms Up! |
+| C5 | Outta Love Again |
+| D1 | Light Up The Sky |
+| D2 | Spanish Fly |
+| D3 | D.O.A. |
+| D4 | Women In Love... |
+| D5 | Beautiful Girls |
+|  | Women And Children First (2015 Remaster) |
+| E1 | And The Cradle Will Rock... |
+| E2 | Everybody Wants Some!! |
+| E3 | Fools |
+| E4 | Romeo Delight |
+| F1 | Tora! Tora! |
+| F2 | Loss Of Control |
+| F3 | Take Your Whiskey Home |
+| F4 | Could This Be Magic |
+| F5 | In A Simple Rhyme |
+|  | Fair Warning (2015 Remaster) |
+| G1 | Mean Street |
+| G2 | "Dirty Movies" |
+| G3 | Sinner's Swing |
+| G4 | Hear About It Later |
+| H1 | Unchained |
+| H2 | Push Comes To Shove |
+| H3 | So This Is Love? |
+| H4 | Sunday Afternoon In The Park |
+| H5 | One Foot Out Of The Door |
+|  | Diver Down (2015 Remaster) |
+| I1 | Where Have All The Good Times Gone! |
+| I2 | Hang 'Em High |
+| I3 | Cathedral |
+| I4 | Secrets |
+| I5 | Intruder |
+| I6 | (Oh) Pretty Woman |
+| J1 | Dancing In The Street |
+| J2 | Little Guitars (Intro) |
+| J3 | Little Guitars |
+| J4 | Big Bad Bill (Is Sweet William Now) |
+| J5 | The Full Bug |
+| J6 | Happy Trails |
+|  | 1984 (2015 Remaster) |
+| K1 | 1984 |
+| K2 | Jump |
+| K3 | Panama |
+| K4 | Top Jimmy |
+| K5 | Drop Dead Legs |
+| L1 | Hot For Teacher |
+| L2 | I'll Wait |
+| L3 | Girl Gone Bad |
+| L4 | House Of Pain |
 
 
 ## Apple Music

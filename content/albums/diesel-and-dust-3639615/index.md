@@ -31,18 +31,18 @@ Diesel and Dust has been critically lauded since its release. Rolling Stone edit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beds Are Burning | 4:14 |
-| A2 | Put Down That Weapon | 4:38 |
-| A3 | Dreamworld | 3:36 |
-| A4 | Arctic World | 4:21 |
-| A5 | Warakurna | 4:38 |
-| B1 | The Dead Heart | 5:10 |
-| B2 | Whoah | 3:51 |
-| B3 | Bullroarer | 4:59 |
-| B4 | Sell My Soul | 3:35 |
-| B5 | Sometimes | 3:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Beds Are Burning |
+| A2 | Put Down That Weapon |
+| A3 | Dreamworld |
+| A4 | Arctic World |
+| A5 | Warakurna |
+| B1 | The Dead Heart |
+| B2 | Whoah |
+| B3 | Bullroarer |
+| B4 | Sell My Soul |
+| B5 | Sometimes |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Diesel and Dust has been critically lauded since its release. Rolling Stone edit
 | Format         | Vinyl LP Album Stereo (Red Label) |
 | Label          | CBS |
 | Catalog Number | 460005 1 |
-| Notes | Non-gatefold sleeve with generic inner sleeve.<br><br>Recorded at Albert Studios, Sydney, Australia.<br><br>ⓟ 1987 Midnight Oil<br><br>Shorepak by Shorewood Packaging Co. Ltd., England<br><br>Made in England. |
+| Notes | Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England. |
 | Discogs URL    | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |

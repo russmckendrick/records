@@ -26,28 +26,28 @@ styles: ["Ska", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue "Mr Beckett Sir..." |  |
-| A2 | Theatre Of The Absurd |  |
-| A3 | If I Go Mad |  |
-| A4 | Baby Burglar |  |
-| B1 | Act One "Surrounded On All Sides..." |  |
-| B2 | C'Est La Vie |  |
-| B3 | What On Earth Is It (You Take Me For?) |  |
-| B4 | Hour Of Need |  |
-| B5 | Act Two "The Damsel In Distress.." |  |
-| B6 | Round We Go |  |
-| C1 | Act Three "The Situation Deteriorates..." |  |
-| C2 | Lockdown And Frack Off |  |
-| C3 | Beginners 101 |  |
-| C4 | Is There Anybody Out There? |  |
-| C5 | The Law According To Dr. Kippah |  |
-| D1 | Epilogue "And So Ladies And Gentlemen..." |  |
-| D2 | Run For Your Life |  |
-| D3 | Set Me Free (Let Me Be) |  |
-| D4 | In My Street |  |
-| D5 | Fin "Ladies And Gentlemen" |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue "Mr Beckett Sir..." |
+| A2 | Theatre Of The Absurd |
+| A3 | If I Go Mad |
+| A4 | Baby Burglar |
+| B1 | Act One "Surrounded On All Sides..." |
+| B2 | C'Est La Vie |
+| B3 | What On Earth Is It (You Take Me For?) |
+| B4 | Hour Of Need |
+| B5 | Act Two "The Damsel In Distress.." |
+| B6 | Round We Go |
+| C1 | Act Three "The Situation Deteriorates..." |
+| C2 | Lockdown And Frack Off |
+| C3 | Beginners 101 |
+| C4 | Is There Anybody Out There? |
+| C5 | The Law According To Dr. Kippah |
+| D1 | Epilogue "And So Ladies And Gentlemen..." |
+| D2 | Run For Your Life |
+| D3 | Set Me Free (Let Me Be) |
+| D4 | In My Street |
+| D5 | Fin "Ladies And Gentlemen" |
 
 
 ## Apple Music

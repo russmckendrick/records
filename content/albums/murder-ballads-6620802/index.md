@@ -41,18 +41,18 @@ So, what’s it all about? Through these broken people, and all their butchery a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Song Of Joy | 6:47 |
-| A2 | Henry Lee | 5:15 |
-| A3 | Lovely Creature | 3:58 |
-| A4 | Stagger Lee | 4:13 |
-| B5 | Where The Wild Roses Grow | 3:57 |
-| B6 | The Curse Of Millhaven | 6:55 |
-| B7 | The Kindness Of Strangers | 4:39 |
-| B8 | Crow Jane | 4:14 |
-| C9 | O' Malley's Bar | 14:28 |
-| C10 | Death Is Not The End | 4:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Song Of Joy |
+| A2 | Henry Lee |
+| A3 | Lovely Creature |
+| A4 | Stagger Lee |
+| B5 | Where The Wild Roses Grow |
+| B6 | The Curse Of Millhaven |
+| B7 | The Kindness Of Strangers |
+| B8 | Crow Jane |
+| C9 | O' Malley's Bar |
+| C10 | Death Is Not The End |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ So, what’s it all about? Through these broken people, and all their butchery a
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue Remastered Stereo (180g) |
 | Label          | Mute |
 | Catalog Number | LPSEEDS9 |
-| Notes | Sides A to C contain music, side D is blank.<br>Track numbers are listed sequentially regardless of side.<br><br>From front sticker on shrink wrap:<br>Includes download code<br><br>Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.<br><br>Issued with plain white paper inner sleeves.<br><br>Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis. <br>"Where The Wild Roses Grow" was mixed at Sarm West, London.<br>Mastered at Whitfield Street<br><br>℗ 2011 Mute Records Ltd, a BMG Company<br>© 2014 Mute Records Ltd, a BMG Company<br><br>Runouts are etched |
+| Notes | Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company  Runouts are etched |
 | Discogs URL    | [Nick Cave  The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |

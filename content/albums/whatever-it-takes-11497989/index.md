@@ -29,18 +29,18 @@ styles: ["Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Don't Wanna Be Without You |  |
-| A2 | Whatever It Takes |  |
-| A3 | I Got Eyes |  |
-| A4 | Mm-Hmm |  |
-| A5 | Blisters |  |
-| B1 | I Should've Spoke Up |  |
-| B2 | Show Her |  |
-| B3 | Don't Let Pride Take You For A Ride |  |
-| B4 | How Long |  |
-| B5 | It Was Gonna Be You |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Don't Wanna Be Without You |
+| A2 | Whatever It Takes |
+| A3 | I Got Eyes |
+| A4 | Mm-Hmm |
+| A5 | Blisters |
+| B1 | I Should've Spoke Up |
+| B2 | Show Her |
+| B3 | Don't Let Pride Take You For A Ride |
+| B4 | How Long |
+| B5 | It Was Gonna Be You |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition Mono (Gold Transparent) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-051 |
-| Notes | Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.<br><br>All songs Stoketone Pub., BMI.<br>A Bosco Mann Production<br>© 2017, Daptone Records.<br>Sleeve notes -Sam Boncon, WHIT<br><br>Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206<br><br>Limited edition translucent gold vinyl. Includes MP 3 download card. |
+| Notes | Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card. |
 | Discogs URL    | [The James Hunter Six - Whatever It Takes](https://www.discogs.com/release/11497989-The-James-Hunter-Six-Whatever-It-Takes) |

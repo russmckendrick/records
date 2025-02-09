@@ -25,24 +25,24 @@ styles: ["Pop Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A01 | Say Goodbye To Mum And Dad |  |
-| A02 | The Girl That I Call Home |  |
-| A03 | Emily Said |  |
-| A04 | Astronaut |  |
-| A05 | The Tipping Point |  |
-| B06 | Everybody Wants To Rule The World |  |
-| B07 | Sowing The Seeds Of Love |  |
-| B08 | Break The Man |  |
-| B09 | Mad World |  |
-| C10 | Woman In Chains |  |
-| C11 | Badman’s Song |  |
-| C12 | Pale Shelter |  |
-| D13 | Break It Down Again |  |
-| D14 | Head Over Heels |  |
-| D15 | Change |  |
-| D16 | Shout |  |
+| Position | Title |
+|----------|--------|
+| A01 | Say Goodbye To Mum And Dad |
+| A02 | The Girl That I Call Home |
+| A03 | Emily Said |
+| A04 | Astronaut |
+| A05 | The Tipping Point |
+| B06 | Everybody Wants To Rule The World |
+| B07 | Sowing The Seeds Of Love |
+| B08 | Break The Man |
+| B09 | Mad World |
+| C10 | Woman In Chains |
+| C11 | Badman’s Song |
+| C12 | Pale Shelter |
+| D13 | Break It Down Again |
+| D14 | Head Over Heels |
+| D15 | Change |
+| D16 | Shout |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Pop Rock", "Alternative Rock"]
 | Format         | Vinyl 2× LP Limited Edition (Cocoa Cream) |
 | Label          | Concord Records |
 | Catalog Number | 00888072651517 |
-| Notes | Gatefold sleeve.<br>Back cover lists tracks and the following credits:<br>tearsforfears.com | concordrecords.com<br>℗ & © 2024 TFFUK, LLC. Under exclusive license to Concord Records. Manufactured & Distributed by Concord.<br>All Rights Reserved. Unauthorized copying, reoproduction, hiring, lending, public performance and broadcasting<br>prohibited. Made in the EU. LC 15025. Universal International Music B.V. 's-Gravelandsweg 80,<br>1217 EW HGilversum, Netherlands. 00888072651517<br><br>Sticker on front exterior shrink reads: <br>“2-LP Featuring Live Performances Of “Shout,” “Head Over Heels,” “Everybody Wants To Rule The World,” & More Hits, Plus 4 New Songs!<br>Limited Edition “Cocoa Cream” Vinyl<br>00888072651517"<br><br>Side A begins with 4 new songs and the remainder of A and the entirety of sides B C and D are live recordings.<br><br>Records are issued with black, die-cut anti-static sleeves. Tracks are sequentially numbered.<br><br>In the runouts, "CRE02697-Ⅹ (1) and "JN-H" are etched, the rest is stamped.<br><br>Some copies with "Made In Czech Republic" sticker on back cover shrink-wrap.<br> |
+| Notes | Gatefold sleeve. Back cover lists tracks and the following credits: tearsforfears.com | concordrecords.com ℗ & © 2024 TFFUK, LLC. Under exclusive license to Concord Records. Manufactured & Distributed by Concord. All Rights Reserved. Unauthorized copying, reoproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 15025. Universal International Music B.V. 's-Gravelandsweg 80, 1217 EW HGilversum, Netherlands. 00888072651517  Sticker on front exterior shrink reads:  “2-LP Featuring Live Performances Of “Shout,” “Head Over Heels,” “Everybody Wants To Rule The World,” & More Hits, Plus 4 New Songs! Limited Edition “Cocoa Cream” Vinyl 00888072651517"  Side A begins with 4 new songs and the remainder of A and the entirety of sides B C and D are live recordings.  Records are issued with black, die-cut anti-static sleeves. Tracks are sequentially numbered.  In the runouts, "CRE02697-Ⅹ (1) and "JN-H" are etched, the rest is stamped.  Some copies with "Made In Czech Republic" sticker on back cover shrink-wrap.  |
 | Discogs URL    | [Tears For Fears - Songs For A Nervous Planet](https://www.discogs.com/release/32086020-Tears-For-Fears-Songs-For-A-Nervous-Planet) |

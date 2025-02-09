@@ -30,16 +30,16 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Once Upon A Time | 5:44 |
-| A2 | All The Things She Said | 4:16 |
-| A3 | Ghost Dancing | 4:46 |
-| A4 | Alive And Kicking | 5:24 |
-| B1 | Oh Jungleland | 5:12 |
-| B2 | I Wish You Were Here | 4:42 |
-| B3 | Sanctify Yourself | 5:00 |
-| B4 | Come A Long Way | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Once Upon A Time |
+| A2 | All The Things She Said |
+| A3 | Ghost Dancing |
+| A4 | Alive And Kicking |
+| B1 | Oh Jungleland |
+| B2 | I Wish You Were Here |
+| B3 | Sanctify Yourself |
+| B4 | Come A Long Way |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 4722194 |
-| Notes | 180 Gram according to labels site:<br>https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000<br><br>Made in EU. |
+| Notes | 180 Gram according to labels site: https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000  Made in EU. |
 | Discogs URL    | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/7860558-Simple-Minds-Once-Upon-A-Time) |

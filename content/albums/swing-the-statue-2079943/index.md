@@ -28,20 +28,20 @@ Swing the Statue! is the second album by American singer/songwriter Victoria Wil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Why Look At The Moon | 2:30 |
-| A2 | Boogieman | 3:50 |
-| A3 | Clothesline | 4:32 |
-| A4 | Tarbelly And Featherfoot | 4:30 |
-| A5 | On Time | 3:12 |
-| A6 | Holy Spirit | 4:38 |
-| B1 | Summer Of Drugs | 4:50 |
-| B2 | I Can't Cry Hard Enough | 3:38 |
-| B3 | Wobbling | 3:15 |
-| B4 | Vieux Amis | 2:10 |
-| B5 | Weeds | 3:36 |
-| B6 | Lift Him Up | 3:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Why Look At The Moon |
+| A2 | Boogieman |
+| A3 | Clothesline |
+| A4 | Tarbelly And Featherfoot |
+| A5 | On Time |
+| A6 | Holy Spirit |
+| B1 | Summer Of Drugs |
+| B2 | I Can't Cry Hard Enough |
+| B3 | Wobbling |
+| B4 | Vieux Amis |
+| B5 | Weeds |
+| B6 | Lift Him Up |
 
 
 ## Apple Music

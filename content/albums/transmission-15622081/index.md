@@ -31,10 +31,10 @@ styles: ["New Wave", "Post-Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Transmission |  |
-| B | Novelty |  |
+| Position | Title |
+|----------|--------|
+| A | Transmission |
+| B | Novelty |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["New Wave", "Post-Punk"]
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
 | Label          | Factory |
 | Catalog Number | FAC13.12 |
-| Notes | Embossed sleeve.<br><br>On front:<br>FACTORY RECORDS—DEC.80—JD—FAC.13.12—A<br><br>On spine:<br>JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.<br><br>On rear:<br>FACTORY RECORDS—DEC.80—JD—FAC.13.12—B<br><br>On black inner sleeve (both sides):<br>White [l264765] logo on bottom |
+| Notes | Embossed sleeve.  On front: FACTORY RECORDS—DEC.80—JD—FAC.13.12—A  On spine: JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.  On rear: FACTORY RECORDS—DEC.80—JD—FAC.13.12—B  On black inner sleeve (both sides): White [l264765] logo on bottom |
 | Discogs URL    | [Joy Division - Transmission](https://www.discogs.com/release/15622081-Joy-Division-Transmission) |

@@ -39,18 +39,18 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | No Small Thing | 4:42 |
-| A2 | The Tipping Point | 4:13 |
-| A3 | Long, Long, Long Time | 4:31 |
-| A4 | Break The Man | 3:55 |
-| A5 | My Demons | 3:08 |
-| B1 | Rivers Of Mercy | 6:08 |
-| B2 | Please Be Happy | 3:05 |
-| B3 | Master Plan | 4:37 |
-| B4 | End Of Night | 3:23 |
-| B5 | Stay | 4:36 |
+| Position | Title |
+|----------|--------|
+| A1 | No Small Thing |
+| A2 | The Tipping Point |
+| A3 | Long, Long, Long Time |
+| A4 | Break The Man |
+| A5 | My Demons |
+| B1 | Rivers Of Mercy |
+| B2 | Please Be Happy |
+| B3 | Master Plan |
+| B4 | End Of Night |
+| B5 | Stay |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 | Format         | Vinyl LP Album Limited Edition (Green Grass) |
 | Label          | Concord Records |
 | Catalog Number | CRE01856 |
-| Notes | US & Canada Indie Exclusive<br><br>℗ & © 2022 TFFUK, LLC<br><br>Gatefold sleeve and includes a limited edition lithograph.<br>888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC. |
+| Notes | US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC. |
 | Discogs URL    | [Tears For Fears - The Tipping Point](https://www.discogs.com/release/22266628-Tears-For-Fears-The-Tipping-Point) |

@@ -36,16 +36,16 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | See No Evil | 3:56 |
-| A2 | Venus | 3:48 |
-| A3 | Friction | 4:43 |
-| A4 | Marquee Moon | 9:58 |
-| B1 | Elevation | 5:08 |
-| B2 | Guiding Light | 5:36 |
-| B3 | Prove It | 5:04 |
-| B4 | Torn Curtain | 7:00 |
+| Position | Title |
+|----------|--------|
+| A1 | See No Evil |
+| A2 | Venus |
+| A3 | Friction |
+| A4 | Marquee Moon |
+| B1 | Elevation |
+| B2 | Guiding Light |
+| B3 | Prove It |
+| B4 | Torn Curtain |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (White, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122797158 |
-| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U. <br><br>Ltd Edition of 3000 copies |
+| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies |
 | Discogs URL    | [Television - Marquee Moon](https://www.discogs.com/release/7603547-Television-Marquee-Moon) |

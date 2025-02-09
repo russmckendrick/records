@@ -41,70 +41,70 @@ CSN's 1969 debut not only provided the template for the era's folk-rock renaissa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Carry On | 4:25 |
-| A2 | Teach Your Children | 2:53 |
-| A3 | Almost Cut My Hair | 4:25 |
-| A4 | Helpless | 3:30 |
-| A5 | Woodstock | 3:52 |
-| B1 | Déjà Vu | 4:10 |
-| B2 | Our House | 2:59 |
-| B3 | 4 + 20 | 1:55 |
-|  | Country Girl | 5:05 |
-| B5 | Everybody I Love You | 2:20 |
-|  | Original Album |  |
-| CD1-1 | Carry On | 4:27 |
-| CD1-2 | Teach Your Children | 2:53 |
-| CD1-3 | Almost Cut My Hair | 4:29 |
-| CD1-4 | Helpless | 3:40 |
-| CD1-5 | Woodstock | 3:54 |
-| CD1-6 | Déjà Vu | 4:11 |
-| CD1-7 | Our House | 3:00 |
-| CD1-8 | 4 + 20 | 2:08 |
-|  | Country Girl | 5:13 |
-| CD1-10 | Everybody I Love You | 2:21 |
-|  | Demos |  |
-| CD2-1 | Our House | 2:57 |
-| CD2-2 | 4 + 20 | 2:18 |
-| CD2-3 | Song With No Words (Tree With No Leaves) | 3:13 |
-| CD2-4 | Birds | 3:36 |
-| CD2-5 | So Begins The Task / Hold On Tight | 7:46 |
-| CD2-6 | Right Between The Eyes | 2:06 |
-| CD2-7 | Almost Cut My Hair | 4:39 |
-| CD2-8 | Teach Your Children | 3:14 |
-| CD2-9 | How Have You Been | 3:44 |
-| CD2-10 | Triad | 5:30 |
-| CD2-11 | Horses Through A Rainstorm | 3:51 |
-| CD2-12 | Know You Got To Run | 4:12 |
-| CD2-13 | Question Why | 2:02 |
-| CD2-14 | Laughing | 4:27 |
-| CD2-15 | She Can't Handle It | 6:44 |
-| CD2-16 | Sleep Song | 3:01 |
-| CD2-17 | Déjà Vu | 4:25 |
-| CD2-18 | Our House | 2:43 |
-|  | Outtakes |  |
-| CD3-1 | Everyday We Live | 3:18 |
-| CD3-2 | The Lee Shore (1969 Vocal) | 6:03 |
-| CD3-3 | I'll Be There | 3:41 |
-| CD3-4 | Bluebird Revisited | 3:24 |
-| CD3-5 | Horses Through A Rainstorm | 3:32 |
-| CD3-6 | 30 Dollar Fine | 2:45 |
-| CD3-7 | Ivory Tower | 3:51 |
-| CD3-8 | Same Old Song | 4:21 |
-| CD3-9 | Hold On Tight / Change Partners | 5:04 |
-| CD3-10 | Laughing | 4:09 |
-| CD3-11 | Right On Rock 'N' Roll | 2:47 |
-|  | Alternates |  |
-| CD4-1 | Carry On (Early Alternate Mix) | 4:34 |
-| CD4-2 | Teach Your Children (Early Version) | 3:02 |
-| CD4-3 | Almost Cut My Hair (Early Version) | 10:14 |
-| CD4-4 | Helpless (Harmonica Version) | 3:48 |
-| CD4-5 | Woodstock (Alternate Vocals) | 4:18 |
-| CD4-6 | Déjà Vu (Early Alternate Mix) | 3:42 |
-| CD4-7 | Our House (Early Version) | 2:55 |
-| CD4-8 | 4 + 20 (Alternate Take 2) | 2:08 |
-| CD4-9 | Know You Got To Run | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Carry On |
+| A2 | Teach Your Children |
+| A3 | Almost Cut My Hair |
+| A4 | Helpless |
+| A5 | Woodstock |
+| B1 | Déjà Vu |
+| B2 | Our House |
+| B3 | 4 + 20 |
+|  | Country Girl |
+| B5 | Everybody I Love You |
+|  | Original Album |
+| CD1-1 | Carry On |
+| CD1-2 | Teach Your Children |
+| CD1-3 | Almost Cut My Hair |
+| CD1-4 | Helpless |
+| CD1-5 | Woodstock |
+| CD1-6 | Déjà Vu |
+| CD1-7 | Our House |
+| CD1-8 | 4 + 20 |
+|  | Country Girl |
+| CD1-10 | Everybody I Love You |
+|  | Demos |
+| CD2-1 | Our House |
+| CD2-2 | 4 + 20 |
+| CD2-3 | Song With No Words (Tree With No Leaves) |
+| CD2-4 | Birds |
+| CD2-5 | So Begins The Task / Hold On Tight |
+| CD2-6 | Right Between The Eyes |
+| CD2-7 | Almost Cut My Hair |
+| CD2-8 | Teach Your Children |
+| CD2-9 | How Have You Been |
+| CD2-10 | Triad |
+| CD2-11 | Horses Through A Rainstorm |
+| CD2-12 | Know You Got To Run |
+| CD2-13 | Question Why |
+| CD2-14 | Laughing |
+| CD2-15 | She Can't Handle It |
+| CD2-16 | Sleep Song |
+| CD2-17 | Déjà Vu |
+| CD2-18 | Our House |
+|  | Outtakes |
+| CD3-1 | Everyday We Live |
+| CD3-2 | The Lee Shore (1969 Vocal) |
+| CD3-3 | I'll Be There |
+| CD3-4 | Bluebird Revisited |
+| CD3-5 | Horses Through A Rainstorm |
+| CD3-6 | 30 Dollar Fine |
+| CD3-7 | Ivory Tower |
+| CD3-8 | Same Old Song |
+| CD3-9 | Hold On Tight / Change Partners |
+| CD3-10 | Laughing |
+| CD3-11 | Right On Rock 'N' Roll |
+|  | Alternates |
+| CD4-1 | Carry On (Early Alternate Mix) |
+| CD4-2 | Teach Your Children (Early Version) |
+| CD4-3 | Almost Cut My Hair (Early Version) |
+| CD4-4 | Helpless (Harmonica Version) |
+| CD4-5 | Woodstock (Alternate Vocals) |
+| CD4-6 | Déjà Vu (Early Alternate Mix) |
+| CD4-7 | Our House (Early Version) |
+| CD4-8 | 4 + 20 (Alternate Take 2) |
+| CD4-9 | Know You Got To Run |
 
 
 ## Apple Music
@@ -121,5 +121,5 @@ CSN's 1969 debut not only provided the template for the era's folk-rock renaissa
 | Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered Stereo, CD 3× Stereo, Box Set Deluxe Edition (50th Anniversary) |
 | Label          | Atlantic |
 | Catalog Number | 603497848027 |
-| Notes | Hype sticker:<br>"The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."<br><br>Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein"<br>on backcover: Made In Germany |
+| Notes | Hype sticker: "The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."  Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein" on backcover: Made In Germany |
 | Discogs URL    | [Crosby Stills Nash  Young - Déjà Vu](https://www.discogs.com/release/18715600-Crosby-Stills-Nash-Young-Déjà-Vu) |

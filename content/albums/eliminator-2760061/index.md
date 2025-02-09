@@ -37,21 +37,21 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | X1 |  |
-| A1 | Gimme All Your Lovin | 3:59 |
-| A2 | Got Me Under Pressure | 3:59 |
-| A3 | Sharp Dressed Man | 4:13 |
-| A4 | I Need You Tonight | 6:14 |
-| A5 | I Got The Six | 2:52 |
-|  | X2 |  |
-| B1 | Legs | 4:35 |
-| B2 | Thug | 4:17 |
-| B3 | TV Dinners | 3:50 |
-| B4 | Dirty Dog | 4:05 |
-| B5 | If I Could Only Flag Her Down | 3:40 |
-| B6 | Bad Girl | 3:16 |
+| Position | Title |
+|----------|--------|
+|  | X1 |
+| A1 | Gimme All Your Lovin |
+| A2 | Got Me Under Pressure |
+| A3 | Sharp Dressed Man |
+| A4 | I Need You Tonight |
+| A5 | I Got The Six |
+|  | X2 |
+| B1 | Legs |
+| B2 | Thug |
+| B3 | TV Dinners |
+| B4 | Dirty Dog |
+| B5 | If I Could Only Flag Her Down |
+| B6 | Bad Girl |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 92-3774-1 |
-| Notes | Comes with the printed inner sleeve. <br><br>Similar releases with GEMA and Biem right societies on label/s:<br>[url=https://www.discogs.com/release/4901281]Release 4901281[/url]: GEMA/BIEM on both labels.<br>[url=https://www.discogs.com/release/5968143]Release 5968143[/url]: GEMA/BIEM on label A, GEMA on label B.<br>[url=https://www.discogs.com/release/6088729]Release 6088729[/url]: GEMA/Biem on labels, but with the additional ID number printed underneath the bold printed ID number: (92-3774-1)/(92-3774-2).<br>[url=https://www.discogs.com/release/31328548]Release 31328548[/url]: GEMA/Biem on labels, but without "A Lone Wolf Production" printed on labels.<br><br><br>Sides are designated "X 1"/ "X 2" on labels, and "X1" / "X2" on back cover.<br><br>[On side X1 label:]<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>All tracks published by Hamstein Music Co.<br>℗ + © 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] A Warner Communications Company<br><br>[On side X2 label:]<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>All tracks written by Hamstein Music Co.<br>℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] a Warner Communications Company<br><br>[On back cover:]<br>All selections © 1983 Hamstein Music Co.-BMI<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>Warner Bros. Records Inc. [Warner's "Big W" logo] a Warner Communications Company<br>© 1983 Warner Bros. Records Inc. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Belgique/België: Distributed by WEA Records S.A./N.V. • Deutschland: Vertrieb durch WEA Musik GmbH • England: Distributed by WEA Records Ltd. • España: Edita WEA Records S.A. • France: Distribué par WEA/Filipacchi Music, Paris<br>Ireland: Distributed by WEA Records Ltd. • Italia: Distributed by WEA Italiana S.P.A. • Nederland: Distributed by WEA Records B.V. • Österreich: Vertrieb durch WEA Music Ges.m.b.H. • Sverige: Distributed by WEA Metronome Records AB<br>Manufactured in Germany by Record Service GmbH, Alsdorf • Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner's "Big W" logo] a Warner Communications Company<br> |
+| Notes | Comes with the printed inner sleeve.   Similar releases with GEMA and Biem right societies on label/s: [url=https://www.discogs.com/release/4901281]Release 4901281[/url]: GEMA/BIEM on both labels. [url=https://www.discogs.com/release/5968143]Release 5968143[/url]: GEMA/BIEM on label A, GEMA on label B. [url=https://www.discogs.com/release/6088729]Release 6088729[/url]: GEMA/Biem on labels, but with the additional ID number printed underneath the bold printed ID number: (92-3774-1)/(92-3774-2). [url=https://www.discogs.com/release/31328548]Release 31328548[/url]: GEMA/Biem on labels, but without "A Lone Wolf Production" printed on labels.   Sides are designated "X 1"/ "X 2" on labels, and "X1" / "X2" on back cover.  [On side X1 label:] [Lone Wolf Productions logo] A Lone Wolf Production ® All tracks published by Hamstein Music Co. ℗ + © 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] A Warner Communications Company  [On side X2 label:] [Lone Wolf Productions logo] A Lone Wolf Production ® All tracks written by Hamstein Music Co. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] a Warner Communications Company  [On back cover:] All selections © 1983 Hamstein Music Co.-BMI [Lone Wolf Productions logo] A Lone Wolf Production ® Warner Bros. Records Inc. [Warner's "Big W" logo] a Warner Communications Company © 1983 Warner Bros. Records Inc. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. Belgique/België: Distributed by WEA Records S.A./N.V. • Deutschland: Vertrieb durch WEA Musik GmbH • England: Distributed by WEA Records Ltd. • España: Edita WEA Records S.A. • France: Distribué par WEA/Filipacchi Music, Paris Ireland: Distributed by WEA Records Ltd. • Italia: Distributed by WEA Italiana S.P.A. • Nederland: Distributed by WEA Records B.V. • Österreich: Vertrieb durch WEA Music Ges.m.b.H. • Sverige: Distributed by WEA Metronome Records AB Manufactured in Germany by Record Service GmbH, Alsdorf • Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner's "Big W" logo] a Warner Communications Company  |
 | Discogs URL    | [ZZ Top - Eliminator](https://www.discogs.com/release/2760061-ZZ-Top-Eliminator) |

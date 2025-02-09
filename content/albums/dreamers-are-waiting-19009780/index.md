@@ -38,20 +38,20 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bad Times Good |  |
-| A2 | Playing With Fire |  |
-| A3 | To The Island |  |
-| A4 | Sweet Tooth |  |
-| A5 | Whatever You Want |  |
-| A6 | Show Me The Way |  |
-| B1 | Goodnight Everyone |  |
-| B2 | Too Good For This World |  |
-| B3 | Start Of Something |  |
-| B4 | Real Life Woman |  |
-| B5 | Love Isn't Hard At All |  |
-| B6 | Deeper Down |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bad Times Good |
+| A2 | Playing With Fire |
+| A3 | To The Island |
+| A4 | Sweet Tooth |
+| A5 | Whatever You Want |
+| A6 | Show Me The Way |
+| B1 | Goodnight Everyone |
+| B2 | Too Good For This World |
+| B3 | Start Of Something |
+| B4 | Real Life Woman |
+| B5 | Love Isn't Hard At All |
+| B6 | Deeper Down |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 | Format         | Vinyl LP Album Limited Edition (Cyan Blue / Black Split) |
 | Label          | EMI |
 | Catalog Number | 3543054 |
-| Notes | Gatefold sleeve.<br>Photo innersleeve.<br>8 pages lyrics insert.<br><br>An EMI Recorded Music Australia production.<br>℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company.<br>Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in the E.U.<br><br>Round Hype sticker:<br>180 gram<br>Heavyweight<br>Multi-Coloured Vinyl<br>3543054<br><br>Rectangular Hype sticker:<br>Crowded House<br>Dreamers Are Waiting<br>3543054<br> |
+| Notes | Gatefold sleeve. Photo innersleeve. 8 pages lyrics insert.  An EMI Recorded Music Australia production. ℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company. Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the E.U.  Round Hype sticker: 180 gram Heavyweight Multi-Coloured Vinyl 3543054  Rectangular Hype sticker: Crowded House Dreamers Are Waiting 3543054  |
 | Discogs URL    | [Crowded House - Dreamers Are Waiting](https://www.discogs.com/release/19009780-Crowded-House-Dreamers-Are-Waiting) |

@@ -35,26 +35,26 @@ Spartacus received generally positive reviews from music critics. Although some 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Spartacus |  |
-| A1 | Hearts & Minds | 4:24 |
-| A2 | How Long | 3:35 |
-| A3 | Sweet Inspiration | 5:26 |
-| A4 | Groovy Train | 4:07 |
-| A5 | Higher & Higher | 3:36 |
-| B1 | Don't Let Me Down | 4:34 |
-| B2 | Family Of Man | 4:42 |
-| B3 | Tell The Story | 3:38 |
-| B4 | Very Emotional | 4:40 |
-| B5 | All Together Now | 5:41 |
-|  | Spartacus (Terry Farley Remix EP) |  |
-| C1 | Don't Let Me Down (Terry Farley Mix) |  |
-| C2 | Sweet Inspiration (Terry Farley Mix) |  |
-| C3 | Higher & Higher (Terry Farley Mix) |  |
-| D1 | Hearts & Minds (Terry Farley Mix) |  |
-| D2 | Very Emotional (Terry Farley Mix) |  |
-| D3 | Groovy Train (Terry Farley Mix) |  |
+| Position | Title |
+|----------|--------|
+|  | Spartacus |
+| A1 | Hearts & Minds |
+| A2 | How Long |
+| A3 | Sweet Inspiration |
+| A4 | Groovy Train |
+| A5 | Higher & Higher |
+| B1 | Don't Let Me Down |
+| B2 | Family Of Man |
+| B3 | Tell The Story |
+| B4 | Very Emotional |
+| B5 | All Together Now |
+|  | Spartacus (Terry Farley Remix EP) |
+| C1 | Don't Let Me Down (Terry Farley Mix) |
+| C2 | Sweet Inspiration (Terry Farley Mix) |
+| C3 | Higher & Higher (Terry Farley Mix) |
+| D1 | Hearts & Minds (Terry Farley Mix) |
+| D2 | Very Emotional (Terry Farley Mix) |
+| D3 | Groovy Train (Terry Farley Mix) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Spartacus received generally positive reviews from music critics. Although some 
 | Format         | Vinyl LP Album, Vinyl 12" 33 ⅓ RPM EP Limited Edition |
 | Label          | Produce Records |
 | Catalog Number | MILK LP1 |
-| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy" <br>The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.<br><br>All songs published by  Virgin Music (Publishers) Ltd.<br>Design Miles & Carl © 91.<br>Distributed by Pinnacle. Made in England.<br>℗ 1991 Produce Records<br>© 1991 Produce Records <br><br>Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3).<br>Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.<br><br>LP with printed inner sleeve.<br>Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover. <br><br>No tracklist is present on bonus EP, info taken from full retail copy.<br> |
+| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP, info taken from full retail copy.  |
 | Discogs URL    | [The Farm - Spartacus](https://www.discogs.com/release/1407749-The-Farm-Spartacus) |

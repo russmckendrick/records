@@ -36,19 +36,19 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Wanna Be Adored | 4:49 |
-| A2 | She Bangs The Drums | 3:52 |
-| A3 | Waterfall | 4:39 |
-| A4 | Don't Stop | 5:19 |
-| A5 | Bye Bye Bad Man | 4:01 |
-| B1 | Elizabeth My Dear | 0:55 |
-| B2 | (Song For My) Sugar Spun Sister | 3:26 |
-| B3 | Made Of Stone | 4:14 |
-| B4 | Shoot You Down | 4:13 |
-| B5 | This Is The One | 4:57 |
-| B6 | I Am The Resurrection | 8:10 |
+| Position | Title |
+|----------|--------|
+| A1 | I Wanna Be Adored |
+| A2 | She Bangs The Drums |
+| A3 | Waterfall |
+| A4 | Don't Stop |
+| A5 | Bye Bye Bad Man |
+| B1 | Elizabeth My Dear |
+| B2 | (Song For My) Sugar Spun Sister |
+| B3 | Made Of Stone |
+| B4 | Shoot You Down |
+| B5 | This Is The One |
+| B6 | I Am The Resurrection |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | Silvertone Records |
 | Catalog Number | 88843041991 |
-| Notes | This reissue has raised gold lettering the same as the UK first pressing. <br><br>℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited.<br>Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited.<br>Made in the EU. |
+| Notes | This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU. |
 | Discogs URL    | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/5581078-The-Stone-Roses-The-Stone-Roses) |

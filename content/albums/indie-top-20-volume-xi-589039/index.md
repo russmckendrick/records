@@ -33,28 +33,28 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Anytime Anyplace Anywhere | 4:10 |
-| A2 | Pray | 3:56 |
-| A3 | Spirit | 3:25 |
-| A4 | Fishes Eyes | 6:45 |
-| A5 | Phobia | 4:42 |
-| B1 | Listen | 3:30 |
-| B2 | Magic | 3:57 |
-| B3 | Moody 'Live' | 4:22 |
-| B4 | I Wanna Talk Like Iggy Pop | 4:52 |
-| B5 | Get Higher | 4:30 |
-| C1 | Then | 4:12 |
-| C2 | God Knows It's True | 4:55 |
-| C3 | Half Life, Remembered | 4:38 |
-| C4 | Cry-Blood (Dub) | 6:16 |
-| C5 | Oxygen Reprise V2.0 | 5:20 |
-| D1 | Tragedy >For You< | 4:31 |
-| D2 | Kaleidoscope | 5:38 |
-| D3 | Decadence | 4:19 |
-| D4 | Birdbrain | 3:12 |
-| D5 | Dig For Fire | 2:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Anytime Anyplace Anywhere |
+| A2 | Pray |
+| A3 | Spirit |
+| A4 | Fishes Eyes |
+| A5 | Phobia |
+| B1 | Listen |
+| B2 | Magic |
+| B3 | Moody 'Live' |
+| B4 | I Wanna Talk Like Iggy Pop |
+| B5 | Get Higher |
+| C1 | Then |
+| C2 | God Knows It's True |
+| C3 | Half Life, Remembered |
+| C4 | Cry-Blood (Dub) |
+| C5 | Oxygen Reprise V2.0 |
+| D1 | Tragedy >For You< |
+| D2 | Kaleidoscope |
+| D3 | Decadence |
+| D4 | Birdbrain |
+| D5 | Dig For Fire |
 
 
 ## Apple Music

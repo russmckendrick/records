@@ -35,23 +35,23 @@ The album was produced by John Leckie.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Exodus |  |
-| A2 | Liberty Song |  |
-| A3 | England My Home |  |
-| A4 | Subvert |  |
-| A5 | Hope Street |  |
-| B1 | Elation |  |
-| B2 | Dance Before The Storm |  |
-| B3 | The Shame |  |
-| B4 | Drug Bust McGee |  |
-| B5 | One Way |  |
-|  | We The Extras 12" Bonus |  |
-| C1 | Fifteen Years |  |
-| C2 | Outside Inside |  |
-| D1 | All The Unknown |  |
-| D2 | Said And Done |  |
+| Position | Title |
+|----------|--------|
+| A1 | Exodus |
+| A2 | Liberty Song |
+| A3 | England My Home |
+| A4 | Subvert |
+| A5 | Hope Street |
+| B1 | Elation |
+| B2 | Dance Before The Storm |
+| B3 | The Shame |
+| B4 | Drug Bust McGee |
+| B5 | One Way |
+|  | We The Extras 12" Bonus |
+| C1 | Fifteen Years |
+| C2 | Outside Inside |
+| D1 | All The Unknown |
+| D2 | Said And Done |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album was produced by John Leckie.
 | Format         | Vinyl LP Album (Green), Vinyl 12" (Green, Bonus), All Media Deluxe Edition Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP029F |
-| Notes | LP+12” limited edition green vinyl . Limited to 1000 copies worldwide. <br>First 500 copies Signed by Band. |
+| Notes | LP+12” limited edition green vinyl . Limited to 1000 copies worldwide.  First 500 copies Signed by Band. |
 | Discogs URL    | [The Levellers - We The Collective](https://www.discogs.com/release/11647665-Levellers-We-The-Collective) |

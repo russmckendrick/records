@@ -28,18 +28,18 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | America Is Your Boyfriend |  |
-| A2 | Rocket |  |
-| A3 | No Clue |  |
-| A4 | About The Light |  |
-| A5 | Fox On The Rooftop |  |
-| B1 | Stars Around My Heart |  |
-| B2 | Spanish Brigade |  |
-| B3 | Don't Know Where |  |
-| B4 | Walking Away From Love |  |
-| B5 | The End |  |
+| Position | Title |
+|----------|--------|
+| A1 | America Is Your Boyfriend |
+| A2 | Rocket |
+| A3 | No Clue |
+| A4 | About The Light |
+| A5 | Fox On The Rooftop |
+| B1 | Stars Around My Heart |
+| B2 | Spanish Brigade |
+| B3 | Don't Know Where |
+| B4 | Walking Away From Love |
+| B5 | The End |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |
-| Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).<br><br>Download card for MP3 and WAV files included.<br><br>Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
+| Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
 | Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-2-About-The-Light) |

@@ -33,17 +33,17 @@ This album earned the group the most press they have had since the release of 19
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sensing Elements |  |
-| A2 | Roll The Seven Twice |  |
-| B1 | Identity Proven Matrix |  |
-| B2 | Tear Down The Grey Skies |  |
-| B3 | Proton Bonfire |  |
-| C1 | It Is Time To Leave When Everyone Is Dancing |  |
-| C2 | Non-Locality Destination |  |
-| D1 | Genesis Of Precious Thoughts |  |
-| D2 | Granular Blankets |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sensing Elements |
+| A2 | Roll The Seven Twice |
+| B1 | Identity Proven Matrix |
+| B2 | Tear Down The Grey Skies |
+| B3 | Proton Bonfire |
+| C1 | It Is Time To Leave When Everyone Is Dancing |
+| C2 | Non-Locality Destination |
+| D1 | Genesis Of Precious Thoughts |
+| D2 | Granular Blankets |
 
 
 ## Apple Music

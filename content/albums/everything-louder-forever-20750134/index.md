@@ -48,50 +48,50 @@ styles: ["Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Overkill |  |
-| A2 | We Are Motörhead |  |
-| A3 | Snaggletooth |  |
-| A4 | Rock It |  |
-| A5 | Orgasmatron |  |
-| B1 | Brotherhood Of Man |  |
-| B2 | In The Name Of Tragedy |  |
-| B3 | Bomber |  |
-| B4 | Sacrifice |  |
-| B5 | The Thousand Names Of God |  |
-| C1 | Love For Sale |  |
-| C2 | Killed By Death |  |
-| C3 | I'm So Bad (Baby I Don't Care) |  |
-| C4 | Smiling Like A Killer |  |
-| C5 | Sharpshooter |  |
-| D1 | Queen Of The Damned |  |
-| D2 | Keys To The Kingdom |  |
-| D3 | Cradle To The Grave |  |
-| D4 | Lost Johnny |  |
-| D5 | The Game |  |
-| E1 | Ace Of Spades |  |
-| E2 | Burner |  |
-| E3 | Stone Dead Forever |  |
-| E4 | Bad Woman |  |
-| E5 | Just 'Cos You Got The Power |  |
-| F1 | Stay Out Of Jail |  |
-| F2 | No Class |  |
-| F3 | I Am The Sword |  |
-| F4 | The Chase Is Better Than The Catch |  |
-| G1 | God Save The Queen |  |
-| G2 | R.A.M.O.N.E.S. |  |
-| G3 | Iron Fist |  |
-| G4 | Rock Out |  |
-| G5 | Dirty Love |  |
-| G6 | Shine |  |
-| G7 | Overnight Sensation |  |
-| H1 | On Your Feet Or On Your Knees |  |
-| H2 | I Ain't No Nice Guy |  |
-| H3 | Sucker |  |
-| H4 | 1916 |  |
-| H5 | Choking On Your Screams |  |
-| H6 | Motörhead  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Overkill |
+| A2 | We Are Motörhead |
+| A3 | Snaggletooth |
+| A4 | Rock It |
+| A5 | Orgasmatron |
+| B1 | Brotherhood Of Man |
+| B2 | In The Name Of Tragedy |
+| B3 | Bomber |
+| B4 | Sacrifice |
+| B5 | The Thousand Names Of God |
+| C1 | Love For Sale |
+| C2 | Killed By Death |
+| C3 | I'm So Bad (Baby I Don't Care) |
+| C4 | Smiling Like A Killer |
+| C5 | Sharpshooter |
+| D1 | Queen Of The Damned |
+| D2 | Keys To The Kingdom |
+| D3 | Cradle To The Grave |
+| D4 | Lost Johnny |
+| D5 | The Game |
+| E1 | Ace Of Spades |
+| E2 | Burner |
+| E3 | Stone Dead Forever |
+| E4 | Bad Woman |
+| E5 | Just 'Cos You Got The Power |
+| F1 | Stay Out Of Jail |
+| F2 | No Class |
+| F3 | I Am The Sword |
+| F4 | The Chase Is Better Than The Catch |
+| G1 | God Save The Queen |
+| G2 | R.A.M.O.N.E.S. |
+| G3 | Iron Fist |
+| G4 | Rock Out |
+| G5 | Dirty Love |
+| G6 | Shine |
+| G7 | Overnight Sensation |
+| H1 | On Your Feet Or On Your Knees |
+| H2 | I Ain't No Nice Guy |
+| H3 | Sucker |
+| H4 | 1916 |
+| H5 | Choking On Your Screams |
+| H6 | Motörhead  |
 
 
 ## Apple Music
@@ -108,5 +108,5 @@ styles: ["Heavy Metal"]
 | Format         | Vinyl 4× LP Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT522QLP |
-| Notes | 4 LPs in a big three-folded cover in amplifier-style. The sleeve front and reverse has lightly embossed silver and gold foil block detail.<br>Four printed inner-sleeves with pictures and credits.<br><br>℗ & © 2021 BMG Rights Management (UK) Limited<br>Manufactured in France.<br><br>Nuclear Blast mailorder provide an exclusive DIN-A1 poster |
+| Notes | 4 LPs in a big three-folded cover in amplifier-style. The sleeve front and reverse has lightly embossed silver and gold foil block detail. Four printed inner-sleeves with pictures and credits.  ℗ & © 2021 BMG Rights Management (UK) Limited Manufactured in France.  Nuclear Blast mailorder provide an exclusive DIN-A1 poster |
 | Discogs URL    | [Motörhead - Everything Louder Forever](https://www.discogs.com/release/20750134-Motörhead-Everything-Louder-Forever) |

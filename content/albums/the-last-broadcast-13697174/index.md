@@ -34,20 +34,20 @@ The Last Broadcast is the second studio album by British indie rock band Doves. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Words |  |
-| A3 | There Goes The Fear |  |
-| B1 | M62 Song |  |
-| B2 | Where We're Calling From |  |
-| B3 | N.Y. |  |
-| C1 | Satellites |  |
-| C2 | Friday's Dust |  |
-| C3 | Pounding |  |
-| D1 | Last Broadcast |  |
-| D2 | The Sulphur Man |  |
-| D3 | Caught By The River |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Words |
+| A3 | There Goes The Fear |
+| B1 | M62 Song |
+| B2 | Where We're Calling From |
+| B3 | N.Y. |
+| C1 | Satellites |
+| C2 | Friday's Dust |
+| C3 | Pounding |
+| D1 | Last Broadcast |
+| D2 | The Sulphur Man |
+| D3 | Caught By The River |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Last Broadcast is the second studio album by British indie rock band Doves. 
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange) |
 | Label          | Heavenly |
 | Catalog Number | 7748263 |
-| Notes | 2019 reissue, 180gr coloured vinyl, lyric sheet but no gatefold sleeve.<br><br>"M62 Song" is an adaptation of "Moonchild" by King Crimson. |
+| Notes | 2019 reissue, 180gr coloured vinyl, lyric sheet but no gatefold sleeve.  "M62 Song" is an adaptation of "Moonchild" by King Crimson. |
 | Discogs URL    | [Doves - The Last Broadcast](https://www.discogs.com/release/13697174-Doves-The-Last-Broadcast) |

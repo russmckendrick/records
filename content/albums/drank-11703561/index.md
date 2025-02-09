@@ -25,32 +25,32 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ", "Crunk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rabbot Ho (Chopnotslop Remix) |  |
-| A2 | Drink Dat (Chopnotslop Remix) |  |
-| A3 | Lava Lamp (Chopnotslop Remix) |  |
-| A4 | Weakstyle (Chopnotslop Remix) |  |
-| A5 | Show You The Way (Chopnotslop Remix) |  |
-| A6 | Where I'm Going (Chopnotslop Remix) |  |
-| B1 | Tokyo (Chopnotslop Remix) |  |
-| B2 | Uh Uh (Chopnotslop Remix) |  |
-| B3 | Inferno (Chopnotslop Remix) |  |
-| B4 | Them Changes (Chopnotslop Remix) |  |
-| B5 | I Am Crazy (Chopnotslop Remix) |  |
-| B6 | 3AM (Chopnotslop Remix) |  |
-| C1 | Jethro (Chopnotslop Remix) |  |
-| C2 | The Turn Down (Chopnotslop Remix) |  |
-| C3 | Walk On By (Chopnotslop Remix) |  |
-| C4 | Day & Night (Chopnotslop Remix) |  |
-| C5 | A Fan’s Mail (Tron Song Suite II) (Chopnotslop Remix) |  |
-| C6 | Jameel’s Space Ride (Chopnotslop Remix) |  |
-| D1 | Captain Stupido (Chopnotslop Remix) |  |
-| D2 | Friend Zone (Chopnotslop Remix) |  |
-| D3 | Bus In These Streets (Chopnotslop Remix) |  |
-| D4 | DUI (Chopnotslop Remix) |  |
-| D5 | Blackkk (Chopnotslop Remix) |  |
-| D6 | Drunk (Chopnotslop Remix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rabbot Ho (Chopnotslop Remix) |
+| A2 | Drink Dat (Chopnotslop Remix) |
+| A3 | Lava Lamp (Chopnotslop Remix) |
+| A4 | Weakstyle (Chopnotslop Remix) |
+| A5 | Show You The Way (Chopnotslop Remix) |
+| A6 | Where I'm Going (Chopnotslop Remix) |
+| B1 | Tokyo (Chopnotslop Remix) |
+| B2 | Uh Uh (Chopnotslop Remix) |
+| B3 | Inferno (Chopnotslop Remix) |
+| B4 | Them Changes (Chopnotslop Remix) |
+| B5 | I Am Crazy (Chopnotslop Remix) |
+| B6 | 3AM (Chopnotslop Remix) |
+| C1 | Jethro (Chopnotslop Remix) |
+| C2 | The Turn Down (Chopnotslop Remix) |
+| C3 | Walk On By (Chopnotslop Remix) |
+| C4 | Day & Night (Chopnotslop Remix) |
+| C5 | A Fan’s Mail (Tron Song Suite II) (Chopnotslop Remix) |
+| C6 | Jameel’s Space Ride (Chopnotslop Remix) |
+| D1 | Captain Stupido (Chopnotslop Remix) |
+| D2 | Friend Zone (Chopnotslop Remix) |
+| D3 | Bus In These Streets (Chopnotslop Remix) |
+| D4 | DUI (Chopnotslop Remix) |
+| D5 | Blackkk (Chopnotslop Remix) |
+| D6 | Drunk (Chopnotslop Remix) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ", "Crunk"]
 | Format         | Vinyl 2× LP Mixtape (Purple) |
 | Label          | Brainfeeder |
 | Catalog Number | BF067 |
-| Notes | Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars<br><br>Download code sticker affixed to inner sleeve of record 1. |
+| Notes | Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars  Download code sticker affixed to inner sleeve of record 1. |
 | Discogs URL    | [Thundercat - Drank](https://www.discogs.com/release/11703561-Thundercat-OG-Ron-C-The-Chopstars-Drank) |

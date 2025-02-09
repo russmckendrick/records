@@ -33,16 +33,16 @@ styles: ["Hard Rock", "Blues Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Dog | 4:55 |
-| A2 | Rock And Roll | 3:40 |
-| A3 | The Battle Of Evermore | 5:51 |
-| A4 | Stairway To Heaven | 8:02 |
-| B1 | Misty Mountain Hop | 4:38 |
-| B2 | Four Sticks | 4:45 |
-| B3 | Going To California | 3:32 |
-| B4 | When The Levee Breaks | 7:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Dog |
+| A2 | Rock And Roll |
+| A3 | The Battle Of Evermore |
+| A4 | Stairway To Heaven |
+| B1 | Misty Mountain Hop |
+| B2 | Four Sticks |
+| B3 | Going To California |
+| B4 | When The Levee Breaks |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Hard Rock", "Blues Rock"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180g) |
 | Label          | Atlantic |
 | Catalog Number | 8122-79657-7 |
-| Notes | Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as "Led Zeppelin IV" in online retailers and such.<br><br>180gr vinyl in gatefold sleeve with insert.<br><br>Printed on front cover sticker:<br>"LED ZEPPELIN'S CLASSIC<br>4th ALBUM ON 180g VINYL<br>Includes Stairway To Heaven,<br>Black Dog & Rock And Roll<br>Remastered & Produced by Jimmy Page<br>[barcode image<br>0 81227 96577 8]<br>8122796577"<br><br>Cat# on labels 8122-79657-7<br>Cat# on sticker on front cover : 8122769577<br><br>Manufactured in Germany. (on label)<br>Made in the EU (insert) |
+| Notes | Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as "Led Zeppelin IV" in online retailers and such.  180gr vinyl in gatefold sleeve with insert.  Printed on front cover sticker: "LED ZEPPELIN'S CLASSIC 4th ALBUM ON 180g VINYL Includes Stairway To Heaven, Black Dog & Rock And Roll Remastered & Produced by Jimmy Page [barcode image 0 81227 96577 8] 8122796577"  Cat# on labels 8122-79657-7 Cat# on sticker on front cover : 8122769577  Manufactured in Germany. (on label) Made in the EU (insert) |
 | Discogs URL    | [Led Zeppelin - Untitled](https://www.discogs.com/release/6224514-Led-Zeppelin-Untitled) |

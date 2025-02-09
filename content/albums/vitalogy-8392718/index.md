@@ -43,26 +43,26 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Division One |  |
-| A1 | Last Exit |  |
-| A2 | Spin The Black Circle |  |
-| A3 | Not For You |  |
-| A4 | Tremor Christ |  |
-|  | Division Two |  |
-| B1 | Nothingman |  |
-| B2 | Whipping |  |
-| B3 | Pry, To |  |
-| B4 | Corduroy |  |
-|  | Division Three |  |
-| C1 | Bugs |  |
-| C2 | Satan's Bed |  |
-| C3 | Better Man |  |
-| C4 | Aye Davanita |  |
-|  | Division Four |  |
-| D1 | Immortality |  |
-| D2 | Hey Foxymophandlemama, That's Me |  |
+| Position | Title |
+|----------|--------|
+|  | Division One |
+| A1 | Last Exit |
+| A2 | Spin The Black Circle |
+| A3 | Not For You |
+| A4 | Tremor Christ |
+|  | Division Two |
+| B1 | Nothingman |
+| B2 | Whipping |
+| B3 | Pry, To |
+| B4 | Corduroy |
+|  | Division Three |
+| C1 | Bugs |
+| C2 | Satan's Bed |
+| C3 | Better Man |
+| C4 | Aye Davanita |
+|  | Division Four |
+| D1 | Immortality |
+| D2 | Hey Foxymophandlemama, That's Me |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 | Format         | Vinyl 2× LP Album Remastered Reissue (180 Gram, Gold Foil Stamp) |
 | Label          | Epic |
 | Catalog Number | 88697843111 |
-| Notes | Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits.<br>Track D2 titled "Stupid Mop" on label. <br><br>Recorded in Seattle, Atlanta & New Orleans 1994. <br><br>℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment<br>Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh<br><br>Made in the EU |
+| Notes | Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU |
 | Discogs URL    | [Pearl Jam - Vitalogy](https://www.discogs.com/release/8392718-Pearl-Jam-Vitalogy) |

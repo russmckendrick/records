@@ -25,38 +25,38 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Downtempo", "Dub", "Experim
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beethoven (I Love To Listen To) |  |
-| A2 | Dr. Mabuse |  |
-| A3 | Planet Claire |  |
-| A4 | Party Fears Two (Single Edit) |  |
-| A5 | Stories Of Johnny |  |
-| A6 | Broken Land (7" Version) |  |
-| A7 | European Female |  |
-| B1 | Shipbuilding |  |
-| B2 | Atmospherics: Listen To The Radio |  |
-| B3 | I'm In Love With A German Film Star |  |
-| B4 | After A Fashion (7" Version) |  |
-| B5 | Gentlemen Take Polaroids (Edit) |  |
-| B6 | Dreams Of Immigrants |  |
-| B7 | Vicious Games |  |
-| B8 | Whip It |  |
-| C1 | This Corrosion |  |
-| C2 | Peek-A-Boo |  |
-| C3 | Kick In The Eye (Remix Single Version) |  |
-| C4 | A Forest (Shortened Edit) |  |
-| C5 | Birthday |  |
-| C6 | Pop Song |  |
-| C7 | Flowers |  |
-| D1 | Hand In Glove (Single Version) |  |
-| D2 | Oblivious |  |
-| D3 | Talk Of The Town |  |
-| D4 | So. Central Rain |  |
-| D5 | Monkey Gone To Heaven |  |
-| D6 | President Gas |  |
-| D7 | Edie (Ciao Baby) (Edit) |  |
-| D8 | This Is England |  |
+| Position | Title |
+|----------|--------|
+| A1 | Beethoven (I Love To Listen To) |
+| A2 | Dr. Mabuse |
+| A3 | Planet Claire |
+| A4 | Party Fears Two (Single Edit) |
+| A5 | Stories Of Johnny |
+| A6 | Broken Land (7" Version) |
+| A7 | European Female |
+| B1 | Shipbuilding |
+| B2 | Atmospherics: Listen To The Radio |
+| B3 | I'm In Love With A German Film Star |
+| B4 | After A Fashion (7" Version) |
+| B5 | Gentlemen Take Polaroids (Edit) |
+| B6 | Dreams Of Immigrants |
+| B7 | Vicious Games |
+| B8 | Whip It |
+| C1 | This Corrosion |
+| C2 | Peek-A-Boo |
+| C3 | Kick In The Eye (Remix Single Version) |
+| C4 | A Forest (Shortened Edit) |
+| C5 | Birthday |
+| C6 | Pop Song |
+| C7 | Flowers |
+| D1 | Hand In Glove (Single Version) |
+| D2 | Oblivious |
+| D3 | Talk Of The Town |
+| D4 | So. Central Rain |
+| D5 | Monkey Gone To Heaven |
+| D6 | President Gas |
+| D7 | Edie (Ciao Baby) (Edit) |
+| D8 | This Is England |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Downtempo", "Dub", "Experim
 | Format         | Vinyl 2× LP Compilation (Red) |
 | Label          | Sony Music |
 | Catalog Number | LPNNNOW141 |
-| Notes | UK edition 2 red vinyl compilation.<br><br>℗ 2023  The copyright in this sound recording is owned by Now That's What I Call Music LLP.  © 2023 Now That's What I Call Music LLP.   LC48653   BIEM/SDRM   Made In The EU.   LPNNNOW141 / 0196588008818<br><br>[ERRATUM]:<br>Track B2: [m=109695], incorrectly printed as Atmospherics: Listen To The Radio<br>Track D4: [r=1816827], incorrectly printed as So. Central Rain |
+| Notes | UK edition 2 red vinyl compilation.  ℗ 2023  The copyright in this sound recording is owned by Now That's What I Call Music LLP.  © 2023 Now That's What I Call Music LLP.   LC48653   BIEM/SDRM   Made In The EU.   LPNNNOW141 / 0196588008818  [ERRATUM]: Track B2: [m=109695], incorrectly printed as Atmospherics: Listen To The Radio Track D4: [r=1816827], incorrectly printed as So. Central Rain |
 | Discogs URL    | [Various - Now 80s Alternative](https://www.discogs.com/release/27441879-Various-Now-80s-Alternative) |

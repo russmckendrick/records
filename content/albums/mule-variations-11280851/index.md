@@ -35,24 +35,24 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Big In Japan | 4:05 |
-| A2 | Lowside Of The Road | 2:59 |
-| A3 | Hold On | 5:33 |
-| A4 | Get Behind The Mule | 6:52 |
-| B1 | House Where Nobody Lives | 4:14 |
-| B2 | Cold Water | 5:23 |
-| B3 | Pony | 4:32 |
-| B4 | What's He Building? | 3:20 |
-| C1 | Black Market Baby | 5:02 |
-| C2 | Eyeball Kid | 4:25 |
-| C3 | Picture In A Frame | 3:39 |
-| C4 | Chocolate Jesus | 3:55 |
-| D1 | Georgia Lee | 4:24 |
-| D2 | Filipino Box Spring Hog | 3:09 |
-| D3 | Take It With Me | 4:24 |
-| D4 | Come On Up To The House | 4:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Big In Japan |
+| A2 | Lowside Of The Road |
+| A3 | Hold On |
+| A4 | Get Behind The Mule |
+| B1 | House Where Nobody Lives |
+| B2 | Cold Water |
+| B3 | Pony |
+| B4 | What's He Building? |
+| C1 | Black Market Baby |
+| C2 | Eyeball Kid |
+| C3 | Picture In A Frame |
+| C4 | Chocolate Jesus |
+| D1 | Georgia Lee |
+| D2 | Filipino Box Spring Hog |
+| D3 | Take It With Me |
+| D4 | Come On Up To The House |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gram, Gatefold) |
 | Label          | Anti- |
 | Catalog Number | 6547-3 |
-| Notes | Hype sticker on front shrink:<br>"Newly Remastered<br>with Waits/Brennan"<br><br>Small white circular sticker:<br>"Download Card Included<br>180 Gram"<br><br>Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler.<br>Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.<br><br>All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.<br><br>Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records<br><br>John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.<br><br>Marc Ribot appears courtesy of Atlantic Recording Corporation<br><br>© 1999 Jalma Music (ASCAP) |
+| Notes | Hype sticker on front shrink: "Newly Remastered with Waits/Brennan"  Small white circular sticker: "Download Card Included 180 Gram"  Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler. Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.  All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.  Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records  John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.  Marc Ribot appears courtesy of Atlantic Recording Corporation  © 1999 Jalma Music (ASCAP) |
 | Discogs URL    | [Tom Waits - Mule Variations](https://www.discogs.com/release/11280851-Tom-Waits-Mule-Variations) |

@@ -37,18 +37,18 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Touch |  |
-| A2 | Instruments Of Destruction |  |
-| A3 | Death Of Optimus Prime |  |
-| A4 | Dare |  |
-| A5 | Nothin's Gonna Stand In Our Way |  |
-| B1 | The Transformers® (Theme) |  |
-| B2 | Escape |  |
-| B3 | Hunger |  |
-| B4 | Autobot/Decepticon Battle |  |
-| B5 | Dare To Be Stupid |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Touch |
+| A2 | Instruments Of Destruction |
+| A3 | Death Of Optimus Prime |
+| A4 | Dare |
+| A5 | Nothin's Gonna Stand In Our Way |
+| B1 | The Transformers® (Theme) |
+| B2 | Escape |
+| B3 | Hunger |
+| B4 | Autobot/Decepticon Battle |
+| B5 | Dare To Be Stupid |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 | Format         | All Media Record Store Day Limited Edition (30th Anniversary Edition), Vinyl LP Single Sided Etched Stereo (Red (Autobot)), Vinyl LP Single Sided Etched Stereo (Purple (Decepticon)) |
 | Label          | Volcano (2) |
 | Catalog Number | 88875144321 |
-| Notes | Record Store Day Black Friday 2015 Exclusive. Collectors Edition. Limited to 5000.<br><br>"Transforming" cover from Autobot themed jacket to Decepticon themed. |
+| Notes | Record Store Day Black Friday 2015 Exclusive. Collectors Edition. Limited to 5000.  "Transforming" cover from Autobot themed jacket to Decepticon themed. |
 | Discogs URL    | [Various - Transformers: The Movie (Original Motion Picture Soundtrack)](https://www.discogs.com/release/7782037-Various-Transformers-The-Movie-Original-Motion-Picture-Soundtrack) |

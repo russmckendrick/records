@@ -33,15 +33,15 @@ U.F.Orb is the second studio album by English electronic music group the Orb. It
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | O.O.B.E | 12:51 |
-| A2 | U.F. Orb | 6:08 |
-| B | Blue Room | 17:34 |
-| C | Towers Of Dub | 15:00 |
-| D1 | Close Encounters | 10:27 |
-| D2 | Majestic | 11:06 |
-| D3 | Sticky End | 0:49 |
+| Position | Title |
+|----------|--------|
+| A1 | O.O.B.E |
+| A2 | U.F. Orb |
+| B | Blue Room |
+| C | Towers Of Dub |
+| D1 | Close Encounters |
+| D2 | Majestic |
+| D3 | Sticky End |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ U.F.Orb is the second studio album by English electronic music group the Orb. It
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 00602557797831 |
-| Notes | ℗ 1992 Island Records, a division of Universal Music Operations Limited<br>© 1992 Island Records, a division of Universal Music Operations Limited<br>Includes a download voucher.<br><br>Cat# on sticker: 577 978-3<br>Cat# on spine: 00602557797831<br><br>All tracks mixed at Matrix 4 Studio.<br>A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music<br>A2: Programmed at Butterfly. Published by Orb Music, Big Life Music<br>B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music<br>C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music<br>D: Programmed at Livingston. Published by Orb Music, Big Life Music<br>D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music<br>D: Published by Orb Music, Big Life Music |
+| Notes | ℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music |
 | Discogs URL    | [The Orb - U.F.Orb](https://www.discogs.com/release/11049854-The-Orb-UFOrb) |

@@ -39,33 +39,33 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Saltatio Mortis | 1:57 |
-| A2 | Animal Army | 5:00 |
-| A3 | We Can't Carry On | 5:11 |
-| B1 | The Dumping Of The Stupid | 7:09 |
-| B2 | Early Warning | 3:56 |
-| B3 | Tardigrades Will Inherit The Earth | 5:02 |
-| C1 | Window Onto The Sun | 6:00 |
-| C2 | Lament | 2:01 |
-| C3 | The Singing Fish Of Batticaloa | 8:24 |
-| D1 | Hallelujah | 5:50 |
-| D2 | The Andromeda Strain | 2:57 |
-| D3 | Stranger Than Fiction | 4:21 |
-| D4 | Jesus Thinks You're A Fuckwit | 3:39 |
-| CD-1 | Saltatio Mortis | 1:56 |
-| CD-2 | Animal Army | 4:59 |
-| CD-3 | We Can't Carry On | 5:11 |
-| CD-4 | The Dumping Of The Stupid | 7:08 |
-| CD-5 | Early Warning | 3:56 |
-| CD-6 | Tardigrades Will Inherit The Earth | 5:02 |
-| CD-7 | Window Onto The Sun | 6:00 |
-| CD-8 | Lament | 2:01 |
-| CD-9 | The Singing Fish Of Batticaloa | 8:24 |
-| CD-10 | Hallelujah | 5:50 |
-| CD-11 | The Andromeda Strain | 2:56 |
-| CD-12 | Stranger Than Fiction | 9:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Saltatio Mortis |
+| A2 | Animal Army |
+| A3 | We Can't Carry On |
+| B1 | The Dumping Of The Stupid |
+| B2 | Early Warning |
+| B3 | Tardigrades Will Inherit The Earth |
+| C1 | Window Onto The Sun |
+| C2 | Lament |
+| C3 | The Singing Fish Of Batticaloa |
+| D1 | Hallelujah |
+| D2 | The Andromeda Strain |
+| D3 | Stranger Than Fiction |
+| D4 | Jesus Thinks You're A Fuckwit |
+| CD-1 | Saltatio Mortis |
+| CD-2 | Animal Army |
+| CD-3 | We Can't Carry On |
+| CD-4 | The Dumping Of The Stupid |
+| CD-5 | Early Warning |
+| CD-6 | Tardigrades Will Inherit The Earth |
+| CD-7 | Window Onto The Sun |
+| CD-8 | Lament |
+| CD-9 | The Singing Fish Of Batticaloa |
+| CD-10 | Hallelujah |
+| CD-11 | The Andromeda Strain |
+| CD-12 | Stranger Than Fiction |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album (180 grams), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 474 |
-| Notes | Sleeve Gatefold<br>Mirror Man: Michael Grassi<br>Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).<br><br>Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43<br><br>InsideOut Music provided signed postcard from Nick Beggs with purchase of LP |
+| Notes | Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP |
 | Discogs URL    | [The Mute Gods - Tardigrades Will Inherit The Earth](https://www.discogs.com/release/9875365-The-Mute-Gods-Tardigrades-Will-Inherit-The-Earth) |

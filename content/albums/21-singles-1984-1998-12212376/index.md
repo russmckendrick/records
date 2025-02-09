@@ -31,29 +31,29 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Upside Down |  |
-| A2 | Never Understand |  |
-| A3 | You Trip Me Up |  |
-| A4 | Just Like Honey |  |
-| A5 | Some Candy Talking |  |
-| B1 | April Skies |  |
-| B2 | Happy When It Rains |  |
-| B3 | Darklands |  |
-| B4 | Sidewalking |  |
-| C1 | Blues From A Gun |  |
-| C2 | Head On |  |
-| C3 | Rollercoaster |  |
-| C4 | Reverence |  |
-| C5 | Far Gone And Out |  |
-| C6 | Almost Gold |  |
-| D1 | Snakedriver |  |
-| D2 | Sometimes Always |  |
-| D3 | Come On |  |
-| D4 | I Hate Rock N Roll |  |
-| D5 | Cracking Up |  |
-| D6 | I Love Rock N Roll |  |
+| Position | Title |
+|----------|--------|
+| A1 | Upside Down |
+| A2 | Never Understand |
+| A3 | You Trip Me Up |
+| A4 | Just Like Honey |
+| A5 | Some Candy Talking |
+| B1 | April Skies |
+| B2 | Happy When It Rains |
+| B3 | Darklands |
+| B4 | Sidewalking |
+| C1 | Blues From A Gun |
+| C2 | Head On |
+| C3 | Rollercoaster |
+| C4 | Reverence |
+| C5 | Far Gone And Out |
+| C6 | Almost Gold |
+| D1 | Snakedriver |
+| D2 | Sometimes Always |
+| D3 | Come On |
+| D4 | I Hate Rock N Roll |
+| D5 | Cracking Up |
+| D6 | I Love Rock N Roll |
 
 
 ## Apple Music

@@ -38,20 +38,20 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Want You | 3:09 |
-| A2 | Party In The Sky | 3:51 |
-| A3 | Plutoman | 4:14 |
-| A4 | Uniform | 3:54 |
-| A5 | Lovegrove | 3:17 |
-| A6 | Just Wednesday | 3:43 |
-| B7 | Saturn 5 | 3:59 |
-| B8 | All Of This And More | 3:32 |
-| B9 | The Way The Lights Fall | 4:54 |
-| B10 | Half Way There | 3:50 |
-| B11 | Cobra | 2:13 |
-| B12 | I Don't Want To Go Blind | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | I Want You |
+| A2 | Party In The Sky |
+| A3 | Plutoman |
+| A4 | Uniform |
+| A5 | Lovegrove |
+| A6 | Just Wednesday |
+| B7 | Saturn 5 |
+| B8 | All Of This And More |
+| B9 | The Way The Lights Fall |
+| B10 | Half Way There |
+| B11 | Cobra |
+| B12 | I Don't Want To Go Blind |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
 | Label          | Mute |
 | Catalog Number | ldung25 |
-| Notes | Hype sticker on sleeve.<br>Inner sleeve with lyrics.<br><br>"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."<br><br><br> |
+| Notes | Hype sticker on sleeve. Inner sleeve with lyrics.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."    |
 | Discogs URL    | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/22846772-Inspiral-Carpets-Devil-Hopping) |

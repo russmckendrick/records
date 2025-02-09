@@ -33,24 +33,24 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 1969 Original Stereo Mix |  |
-| A1 | Don't Want You No More | 2:25 |
-| A2 | It's Not My Cross To Bear | 5:02 |
-| A3 | Black Hearted Woman | 5:08 |
-| A4 | Trouble No More | 3:45 |
-| B1 | Every Hungry Woman | 4:13 |
-| B2 | Dreams | 7:18 |
-| B3 | Whipping Post | 5:17 |
-|  | 1973 Beginnings Stereo Mix |  |
-| C1 | Don't Want You No More | 2:25 |
-| C2 | It's Not My Cross To Bear | 4:56 |
-| C3 | Black Hearted Woman | 5:17 |
-| C4 | Trouble No More | 3:48 |
-| D1 | Every Hungry Woman | 4:17 |
-| D2 | Dreams | 7:17 |
-| D3 | Whipping Post | 5:20 |
+| Position | Title |
+|----------|--------|
+|  | 1969 Original Stereo Mix |
+| A1 | Don't Want You No More |
+| A2 | It's Not My Cross To Bear |
+| A3 | Black Hearted Woman |
+| A4 | Trouble No More |
+| B1 | Every Hungry Woman |
+| B2 | Dreams |
+| B3 | Whipping Post |
+|  | 1973 Beginnings Stereo Mix |
+| C1 | Don't Want You No More |
+| C2 | It's Not My Cross To Bear |
+| C3 | Black Hearted Woman |
+| C4 | Trouble No More |
+| D1 | Every Hungry Woman |
+| D2 | Dreams |
+| D3 | Whipping Post |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547813190 |
-| Notes | 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.<br><br>180-Gram Audiophile vinyl, newly remastered from original analog tapes.<br>DMM Direct Metal Mastering for Optimal Sound<br><br>Made in Holland |
+| Notes | 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.  180-Gram Audiophile vinyl, newly remastered from original analog tapes. DMM Direct Metal Mastering for Optimal Sound  Made in Holland |
 | Discogs URL    | [The Allman Brothers Band - The Allman Brothers Band](https://www.discogs.com/release/9275505-The-Allman-Brothers-Band-The-Allman-Brothers-Band) |

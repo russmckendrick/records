@@ -44,31 +44,31 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 2:17 |
-| A2 | The Magic Number | 3:14 |
-| A3 | Change In Speak | 2:33 |
-| A4 | Cool Breeze On The Rocks | 0:46 |
-| A5 | Can U Keep A Secret | 1:38 |
-| A6 | Jenifa Taught Me (Derwin's Revenge) | 3:25 |
-| A7 | Ghetto Thang | 3:35 |
-| B1 | Transmitting Live From Mars | 1:06 |
-| B2 | Eye Know | 4:06 |
-| B3 | Take It Off | 1:53 |
-| B4 | A Little Bit Of Soap | 0:47 |
-| B5 | Tread Water | 3:54 |
-| B6 | Potholes In My Lawn | 4:14 |
-| C1 | Say No Go | 4:20 |
-| C2 | Do As De La Does | 1:58 |
-| C3 | Plug Tunin' (Last Chance To Comprehend) | 4:13 |
-| C4 | De La Orgee | 1:11 |
-| C5 | Buddy (With Jungle Brothers And Q-Tip From A Tribe Called Quest) | 4:56 |
-| D1ll | Description | 1:24 |
-| D2 | Me Myself And I | 3:41 |
-| D3 | This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) | 3:16 |
-| D4 | I Can Do Anything (Delacratic) | 0:40 |
-| D5 | D.A.I.S.Y. Age | 3:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | The Magic Number |
+| A3 | Change In Speak |
+| A4 | Cool Breeze On The Rocks |
+| A5 | Can U Keep A Secret |
+| A6 | Jenifa Taught Me (Derwin's Revenge) |
+| A7 | Ghetto Thang |
+| B1 | Transmitting Live From Mars |
+| B2 | Eye Know |
+| B3 | Take It Off |
+| B4 | A Little Bit Of Soap |
+| B5 | Tread Water |
+| B6 | Potholes In My Lawn |
+| C1 | Say No Go |
+| C2 | Do As De La Does |
+| C3 | Plug Tunin' (Last Chance To Comprehend) |
+| C4 | De La Orgee |
+| C5 | Buddy (With Jungle Brothers And Q-Tip From A Tribe Called Quest) |
+| D1ll | Description |
+| D2 | Me Myself And I |
+| D3 | This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) |
+| D4 | I Can Do Anything (Delacratic) |
+| D5 | D.A.I.S.Y. Age |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1-81019 |
-| Notes | Black Vinyl<br>Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label. |
+| Notes | Black Vinyl Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label. |
 | Discogs URL    | [De La Soul - 3 Feet High And Rising](https://www.discogs.com/release/4686503-De-La-Soul-3-Feet-High-And-Rising) |

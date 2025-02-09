@@ -36,19 +36,19 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Boy In The Bubble | 3:59 |
-| A2 | Graceland | 4:48 |
-| A3 | I Know What I Know | 3:13 |
-| A4 | Gumboots | 2:42 |
-| A5 | Diamonds On The Soles Of Her Shoes | 5:34 |
-| B1 | You Can Call Me Al | 4:39 |
-| B2 | Under African Skies | 3:34 |
-| B3 | Homeless | 3:45 |
-| B4 | Crazy Love Vol II | 4:17 |
-| B5 | That Was Your Mother | 2:51 |
-| B6 | All Around The World Or The Myth Of Fingerprints | 3:15 |
+| Position | Title |
+|----------|--------|
+| A1 | The Boy In The Bubble |
+| A2 | Graceland |
+| A3 | I Know What I Know |
+| A4 | Gumboots |
+| A5 | Diamonds On The Soles Of Her Shoes |
+| B1 | You Can Call Me Al |
+| B2 | Under African Skies |
+| B3 | Homeless |
+| B4 | Crazy Love Vol II |
+| B5 | That Was Your Mother |
+| B6 | All Around The World Or The Myth Of Fingerprints |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 | Format         | Vinyl LP Album (Embossed) |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 52 |
-| Notes | All Rights in the U.K. & Eire controlled by Pattern M. Ltd.<br>Embossed horseman picture on front cover (very slightly raised). |
+| Notes | All Rights in the U.K. & Eire controlled by Pattern M. Ltd. Embossed horseman picture on front cover (very slightly raised). |
 | Discogs URL    | [Paul Simon - Graceland](https://www.discogs.com/release/5416395-Paul-Simon-Graceland) |

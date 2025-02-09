@@ -36,26 +36,26 @@ styles: ["Alternative Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Man On The Moon |  |
-| A2 | The Great Beyond |  |
-| A3 | Bad Day |  |
-| A4 | What's The Frequency, Kenneth? |  |
-| B1 | All The Way To Reno |  |
-| B2 | Losing My Religion |  |
-| B3 | E-Bow The Letter |  |
-| B4 | Orange Crush |  |
-| B5 | Imitation Of Life |  |
-| C1 | Daysleeper |  |
-| C2 | Animal |  |
-| C3 | The Sidewinder Sleeps Tonite |  |
-| C4 | Stand |  |
-| C5 | Electrolite |  |
-| D1 | All The Right Friends |  |
-| D2 | Everybody Hurts |  |
-| D3 | At My Most Beautiful |  |
-| D4 | Nightswimming |  |
+| Position | Title |
+|----------|--------|
+| A1 | Man On The Moon |
+| A2 | The Great Beyond |
+| A3 | Bad Day |
+| A4 | What's The Frequency, Kenneth? |
+| B1 | All The Way To Reno |
+| B2 | Losing My Religion |
+| B3 | E-Bow The Letter |
+| B4 | Orange Crush |
+| B5 | Imitation Of Life |
+| C1 | Daysleeper |
+| C2 | Animal |
+| C3 | The Sidewinder Sleeps Tonite |
+| C4 | Stand |
+| C5 | Electrolite |
+| D1 | All The Right Friends |
+| D2 | Everybody Hurts |
+| D3 | At My Most Beautiful |
+| D4 | Nightswimming |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue (Blue Translucent) |
 | Label          | Craft Recordings |
 | Catalog Number | 00888072095274 |
-| Notes | 180g <br>Gatefold sleeve.<br><br>Made in the EU.<br><br>Exclusive retailers in Germany: Media Markt & Saturn<br>Exclusive retailers in UK: HMV & Fopp<br>Exclusive retailer in Italy La Feltrinelli<br>Exclusive retailer in Australia: JB Hi-Fi |
+| Notes | 180g  Gatefold sleeve.  Made in the EU.  Exclusive retailers in Germany: Media Markt & Saturn Exclusive retailers in UK: HMV & Fopp Exclusive retailer in Italy La Feltrinelli Exclusive retailer in Australia: JB Hi-Fi |
 | Discogs URL    | [REM - In Time: The Best Of R.E.M. 1988-2003](https://www.discogs.com/release/13640264-REM-In-Time-The-Best-Of-REM-1988-2003) |

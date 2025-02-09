@@ -35,14 +35,14 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 2112 |  |
-| B1 | A Passage To Bangkok | 3:30 |
-| B2 | The Twilight Zone | 3:14 |
-| B3 | Lessons | 3:48 |
-| B4 | Tears | 3:29 |
-| B5 | Something For Nothing | 3:56 |
+| Position | Title |
+|----------|--------|
+|  | 2112 |
+| B1 | A Passage To Bangkok |
+| B2 | The Twilight Zone |
+| B3 | Lessons |
+| B4 | Tears |
+| B5 | Something For Nothing |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Mercury |
 | Catalog Number | 9100 039 |
-| Notes | ℗ 1976 Phonogram Inc.<br><br>Runouts are stamped except for the 'PR' on side A which is etched. |
+| Notes | ℗ 1976 Phonogram Inc.  Runouts are stamped except for the 'PR' on side A which is etched. |
 | Discogs URL    | [Rush - 2112](https://www.discogs.com/release/814617-Rush-2112) |

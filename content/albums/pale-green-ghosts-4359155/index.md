@@ -37,30 +37,30 @@ The title refers to the Russian olive trees that stand along the I-25 highway ne
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pale Green Ghosts | 6:04 |
-| A2 | Black Belt | 4:19 |
-| A3 | GMF | 5:14 |
-| B1 | Vietnam | 4:28 |
-| B2 | It Doesn't Matter To Him | 6:26 |
-| B3 | Why Don't You Love Me Anymore | 6:11 |
-| C1 | You Don't Have To | 5:53 |
-| C2 | Sensitive New Age Guy | 4:41 |
-| C3 | Ernest Borgnine | 4:53 |
-| D1 | I Hate This Town | 4:04 |
-| D2 | Glacier | 7:36 |
-| CD-1 | Pale Green Ghosts | 6:04 |
-| CD-2 | Black Belt | 4:19 |
-| CD-3 | GMF | 5:14 |
-| CD-4 | Vietnam | 4:29 |
-| CD-5 | It Doesn't Matter To Him | 6:27 |
-| CD-6 | Why Don't You Love Me Anymore | 6:12 |
-| CD-7 | You Don't Have To | 5:54 |
-| CD-8 | Sensitive New Age Guy | 4:42 |
-| CD-9 | Ernest Borgnine | 4:54 |
-| CD-10 | I Hate This Town | 4:04 |
-| CD-11 | Glacier | 7:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Pale Green Ghosts |
+| A2 | Black Belt |
+| A3 | GMF |
+| B1 | Vietnam |
+| B2 | It Doesn't Matter To Him |
+| B3 | Why Don't You Love Me Anymore |
+| C1 | You Don't Have To |
+| C2 | Sensitive New Age Guy |
+| C3 | Ernest Borgnine |
+| D1 | I Hate This Town |
+| D2 | Glacier |
+| CD-1 | Pale Green Ghosts |
+| CD-2 | Black Belt |
+| CD-3 | GMF |
+| CD-4 | Vietnam |
+| CD-5 | It Doesn't Matter To Him |
+| CD-6 | Why Don't You Love Me Anymore |
+| CD-7 | You Don't Have To |
+| CD-8 | Sensitive New Age Guy |
+| CD-9 | Ernest Borgnine |
+| CD-10 | I Hate This Town |
+| CD-11 | Glacier |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The title refers to the Russian olive trees that stand along the I-25 highway ne
 | Format         | Vinyl 2× LP Album (Mint Green), CD Album |
 | Label          | Bella Union |
 | Catalog Number | BELLAV377 |
-| Notes | Gatefold cover with 180g mint green vinyl, printed inner sleeves.<br><br>Recorded and mixed at Oroom Reykjavík. <br>Additional recording at Orgelsmiðjan Studio and Syrland Studio, Reykjavik; Elmwood Studio, Dallas; and Strongroom, London.<br>Mastered at 3345 Mastering.<br><br>Pale Green Ghosts contains a string arrangement based on the second movement of Sergei Rachmaninoff's Prelude in C# Minor.<br><br>No track durations mentioned on this release.<br><br>℗ & © 2013 Bella Union. Made in the EU. |
+| Notes | Gatefold cover with 180g mint green vinyl, printed inner sleeves.    Recorded and mixed at Oroom Reykjavík.   Additional recording at Orgelsmiðjan Studio and Syrland Studio, Reykjavik; Elmwood Studio, Dallas; and Strongroom, London.  Mastered at 3345 Mastering.    Pale Green Ghosts contains a string arrangement based on the second movement of Sergei Rachmaninoff's Prelude in C# Minor.    No track durations mentioned on this release.    ℗ & © 2013 Bella Union. Made in the EU. |
 | Discogs URL    | [John Grant - Pale Green Ghosts](https://www.discogs.com/release/4359155-John-Grant-Pale-Green-Ghosts) |

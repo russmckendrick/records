@@ -40,21 +40,21 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hitch Hikin' |  |
-| A2 | The Wayfarer |  |
-| A3 | Tucson Train |  |
-| B1 | Western Stars |  |
-| B2 | Sleepy Joe's Café |  |
-| B3 | Drive Fast (The Stuntman) |  |
-| C1 | Chasin' Wild Horses |  |
-| C2 | Sundown |  |
-| C3 | Somewhere North Of Nashville |  |
-| C4 | Stones |  |
-| D1 | There Goes My Miracle |  |
-| D2 | Hello Sunshine |  |
-| D3 | Moonlight Motel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hitch Hikin' |
+| A2 | The Wayfarer |
+| A3 | Tucson Train |
+| B1 | Western Stars |
+| B2 | Sleepy Joe's Café |
+| B3 | Drive Fast (The Stuntman) |
+| C1 | Chasin' Wild Horses |
+| C2 | Sundown |
+| C3 | Somewhere North Of Nashville |
+| C4 | Stones |
+| D1 | There Goes My Miracle |
+| D2 | Hello Sunshine |
+| D3 | Moonlight Motel |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Columbia |
 | Catalog Number | 19075937511 |
-| Notes | © & ℗ 2019 Bruce Springsteen<br><br>Gatefold sleeve.<br>Includes printed inner sleeves and Free Digital Download.<br><br>Some copies sold in Spain were repackaged to include a promotional slipmat.<br><br>Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched.  |
+| Notes | © & ℗ 2019 Bruce Springsteen  Gatefold sleeve. Includes printed inner sleeves and Free Digital Download.  Some copies sold in Spain were repackaged to include a promotional slipmat.  Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched.  |
 | Discogs URL    | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13751042-Bruce-Springsteen-Western-Stars) |

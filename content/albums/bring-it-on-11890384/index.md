@@ -43,20 +43,20 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get Miles | 5:15 |
-| A2 | Whippin' Piccadilly | 3:12 |
-| A3 | Make No Sound | 3:26 |
-| A4 | 78 Stone Wobble | 4:22 |
-| B1 | Tijuana Lady | 7:08 |
-| B2 | Here Comes The Breeze | 5:29 |
-| B3 | Love Is Better Than A Warm Trombone | 3:29 |
-| B4 | Get Myself Arrested | 4:04 |
-| C1 | Free To Run | 4:31 |
-| C2 | Bubble Gum Years | 3:20 |
-| C3 | Rie's Wagon | 9:07 |
-| D1 | The Comeback | 0:44 |
+| Position | Title |
+|----------|--------|
+| A1 | Get Miles |
+| A2 | Whippin' Piccadilly |
+| A3 | Make No Sound |
+| A4 | 78 Stone Wobble |
+| B1 | Tijuana Lady |
+| B2 | Here Comes The Breeze |
+| B3 | Love Is Better Than A Warm Trombone |
+| B4 | Get Myself Arrested |
+| C1 | Free To Run |
+| C2 | Bubble Gum Years |
+| C3 | Rie's Wagon |
+| D1 | The Comeback |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 | Format         | Vinyl LP (Burgundy), Vinyl LP (Yellow), All Media Album Limited Edition Reissue Remastered |
 | Label          | UMC |
 | Catalog Number | 6711417 |
-| Notes | 20th Anniversary reissue.<br>Unipack envelope sleeve. <br><br>Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.<br><br>First catalogue number on spine, second on hype sticker.<br><br> |
+| Notes | 20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.   |
 | Discogs URL    | [Gomez - Bring It On](https://www.discogs.com/release/11890384-Gomez-Bring-It-On) |

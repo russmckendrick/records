@@ -33,17 +33,17 @@ styles: ["Thrash"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackened | 6:42 |
-| A2 | …And Justice for All | 9:45 |
-| B1 | Eye Of The Beholder | 6:26 |
-| B2 | One | 7:23 |
-| C1 | The Shortest Straw | 6:35 |
-| C2 | Harvester Of Sorrow | 5:45 |
-| C3 | The Frayed Ends Of Sanity | 7:41 |
-| D1 | To Live Is To Die | 9:48 |
-| D2 | Dyers Eve | 5:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Blackened |
+| A2 | …And Justice for All |
+| B1 | Eye Of The Beholder |
+| B2 | One |
+| C1 | The Shortest Straw |
+| C2 | Harvester Of Sorrow |
+| C3 | The Frayed Ends Of Sanity |
+| D1 | To Live Is To Die |
+| D2 | Dyers Eve |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Thrash"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Dyers Green) |
 | Label          | Blackened Recordings |
 | Catalog Number | BLCKND007R-1 |
-| Notes | Cover sticker reads "Metallica ... And Justice For All. Pressed on Limited Edition Dyers Green 2LP Vinyl BLCKND007R-1U"<br>Made in Germany printed on back cover & on a sticker |
+| Notes | Cover sticker reads "Metallica ... And Justice For All. Pressed on Limited Edition Dyers Green 2LP Vinyl BLCKND007R-1U" Made in Germany printed on back cover & on a sticker |
 | Discogs URL    | [Metallica - … And Justice For All](https://www.discogs.com/release/29674207-Metallica--And-Justice-For-All) |

@@ -30,40 +30,40 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fuses |  |
-| A2 | People Do It All The Time |  |
-| A3 | The Free Design |  |
-| A4 | Blips Drips And Strips |  |
-| A5 | Italian Shoes Continuum |  |
-| B1 | Infinity Girl |  |
-| B2 | The Spiracles |  |
-| B3 | Op Hop Detonation |  |
-| B4 | Puncture In The Radax Permutation |  |
-| B5 | Velvet Water |  |
-| C1 | Blue Milk |  |
-| D1 | Caleidoscopic Gaze |  |
-| D2 | Strobo Acceleration |  |
-| D3 | The Emergency Kisses |  |
-| D4 | Come And Play In The Milky Night |  |
-| E1 | Galaxidion |  |
-| E2 | With Friends Like These Pt. 2 |  |
-| E3 | Backwards Shug |  |
-| E4 | Continuum (Unreleased Original Version) |  |
-| E5 | Continuum Vocodered (Unreleased) |  |
-| E6 | People Do It All The Time (Demo) |  |
-| E7 | Op Hop Detonation (Demo) |  |
-| E8 | The Spiracles (Demo) |  |
-| E9 | Latin Cobra Coda (Demo) |  |
-| F1 | Infinity Girl (Demo) |  |
-| F2 | Blips, Drips & Strips (Demo) |  |
-| F3 | Blue Milk (Demo) |  |
-| F4 | Italian Shoes Continuum (Demo) |  |
-| F5 | Come And Play In The Milky Night (Demo) |  |
-| F6 | Strobo Acceleration (Demo) |  |
-| F7 | Caleidoscopic Gaze (Demo) |  |
-| F8 | Galaxidion (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fuses |
+| A2 | People Do It All The Time |
+| A3 | The Free Design |
+| A4 | Blips Drips And Strips |
+| A5 | Italian Shoes Continuum |
+| B1 | Infinity Girl |
+| B2 | The Spiracles |
+| B3 | Op Hop Detonation |
+| B4 | Puncture In The Radax Permutation |
+| B5 | Velvet Water |
+| C1 | Blue Milk |
+| D1 | Caleidoscopic Gaze |
+| D2 | Strobo Acceleration |
+| D3 | The Emergency Kisses |
+| D4 | Come And Play In The Milky Night |
+| E1 | Galaxidion |
+| E2 | With Friends Like These Pt. 2 |
+| E3 | Backwards Shug |
+| E4 | Continuum (Unreleased Original Version) |
+| E5 | Continuum Vocodered (Unreleased) |
+| E6 | People Do It All The Time (Demo) |
+| E7 | Op Hop Detonation (Demo) |
+| E8 | The Spiracles (Demo) |
+| E9 | Latin Cobra Coda (Demo) |
+| F1 | Infinity Girl (Demo) |
+| F2 | Blips, Drips & Strips (Demo) |
+| F3 | Blue Milk (Demo) |
+| F4 | Italian Shoes Continuum (Demo) |
+| F5 | Come And Play In The Milky Night (Demo) |
+| F6 | Strobo Acceleration (Demo) |
+| F7 | Caleidoscopic Gaze (Demo) |
+| F8 | Galaxidion (Demo) |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D23RC |
-| Notes | Limited edition numbered clear vinyl edition (2500 copies) <br>With scratch card to win an exclusive Stereolab record at end of the year.<br>Remastered from original tapes.<br>Bonus disk of unreleased demos, outtakes and alternate mixes.<br>Co-released by band’s own label Duophonic UHF Disks and Warp Records.<br>Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane.<br>Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet.  |
+| Notes | Limited edition numbered clear vinyl edition (2500 copies)  With scratch card to win an exclusive Stereolab record at end of the year. Remastered from original tapes. Bonus disk of unreleased demos, outtakes and alternate mixes. Co-released by band’s own label Duophonic UHF Disks and Warp Records. Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane. Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet.  |
 | Discogs URL    | [Stereolab - Cobra And Phases Group Play Voltage In The Milky Night](https://www.discogs.com/release/14128831-Stereolab-Cobra-And-Phases-Group-Play-Voltage-In-The-Milky-Night) |

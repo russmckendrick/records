@@ -39,21 +39,21 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Capsized | 3:40 |
-| A2 | Roma Fade | 4:03 |
-| A3 | Truth Lies Low | 5:29 |
-| A4 | Puma | 3:31 |
-| A5 | Chemical Switches | 3:22 |
-| B1 | Left Handed Kisses | 3:15 |
-| B2 | Are You Serious | 3:38 |
-| B3 | Saints Preservus | 3:49 |
-| B4 | The New Saint Jude | 4:11 |
-| B5 | Valleys Of The Young | 5:34 |
-| B6 | Bellevue | 2:03 |
-| C | Shoulder Mountain | 4:02 |
-| D | Pulaski | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Capsized |
+| A2 | Roma Fade |
+| A3 | Truth Lies Low |
+| A4 | Puma |
+| A5 | Chemical Switches |
+| B1 | Left Handed Kisses |
+| B2 | Are You Serious |
+| B3 | Saints Preservus |
+| B4 | The New Saint Jude |
+| B5 | Valleys Of The Young |
+| B6 | Bellevue |
+| C | Shoulder Mountain |
+| D | Pulaski |
 
 
 ## Apple Music

@@ -33,27 +33,27 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leon Takes Us Outside | 1:24 |
-| A2 | Outside | 4:04 |
-| A3 | The Hearts Filthy Lesson | 4:56 |
-| A4 | A Small Plot Of Land | 6:33 |
-| B1 | Segue - Baby Grace (A Horrid Cassette) | 1:40 |
-| B2 | Hallo Spaceboy | 5:13 |
-| B3 | The Motel | 6:49 |
-| B4 | I Have Not Been To Oxford Town | 3:48 |
-| C1 | No Control | 4:32 |
-| C2 | Segue - Algeria Touchshriek | 2:02 |
-| C3 | The Voyeur Of Utter Destruction (As Beauty) | 4:20 |
-| C4 | Segue - Ramona A. Stone / I Am With Name | 4:01 |
-| C5 | Wishful Beginnings | 5:08 |
-| D1 | We Prick You | 4:34 |
-| D2 | Segue - Nathan Adler | 1:00 |
-| D3 | I'm Deranged | 4:29 |
-| D4 | Thru' These Architects Eyes | 4:20 |
-| D5 | Segue - Nathan Adler (Version #2) | 0:28 |
-| D6 | Strangers When We Meet | 5:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Leon Takes Us Outside |
+| A2 | Outside |
+| A3 | The Hearts Filthy Lesson |
+| A4 | A Small Plot Of Land |
+| B1 | Segue - Baby Grace (A Horrid Cassette) |
+| B2 | Hallo Spaceboy |
+| B3 | The Motel |
+| B4 | I Have Not Been To Oxford Town |
+| C1 | No Control |
+| C2 | Segue - Algeria Touchshriek |
+| C3 | The Voyeur Of Utter Destruction (As Beauty) |
+| C4 | Segue - Ramona A. Stone / I Am With Name |
+| C5 | Wishful Beginnings |
+| D1 | We Prick You |
+| D2 | Segue - Nathan Adler |
+| D3 | I'm Deranged |
+| D4 | Thru' These Architects Eyes |
+| D5 | Segue - Nathan Adler (Version #2) |
+| D6 | Strangers When We Meet |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White/Black Swirl, 180 Gram) |
 | Label          | Friday Music |
 | Catalog Number | FRM-40711 |
-| Notes |  Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover<br><br>Identical to 2015 Reissue, [r7810564], but on different colored vinyl. |
+| Notes |  Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover  Identical to 2015 Reissue, [r7810564], but on different colored vinyl. |
 | Discogs URL    | [David Bowie - 1. Outside (The Nathan Adler Diaries: A Hyper Cycle)](https://www.discogs.com/release/13024979-David-Bowie-1-Outside-The-Nathan-Adler-Diaries-A-Hyper-Cycle) |

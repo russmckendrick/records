@@ -31,32 +31,32 @@ styles: ["Pop Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dignity |  |
-| A2 | When Will You (Make My Telephone Ring) |  |
-| A3 | Chocolate Girl |  |
-| A4 | Real Gone Kid |  |
-| A5 | Wages Day |  |
-| A6 | Fergus Sings The Blues |  |
-| B1 | Queen Of The New Year |  |
-| B2 | Love And Regret |  |
-| B3 | I'll Never Fall In Love Again |  |
-| B4 | Your Swaying Arms |  |
-| B5 | Twist And Shout |  |
-| B6 | Closing Time |  |
-| C1 | Cover From The Sky |  |
-| C2 | Your Town |  |
-| C3 | Will We Be Lovers |  |
-| C4 | Only Tender Love |  |
-| C5 | Hang Your Head |  |
-| C6 | I Was Right And You Were Wrong |  |
-| D1 | Everytime You Sleep |  |
-| D2 | Bigger Than Dynamite |  |
-| D3 | The Hipsters |  |
-| D4 | A New House |  |
-| D5 | The Believers |  |
-| D6 | City Of Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dignity |
+| A2 | When Will You (Make My Telephone Ring) |
+| A3 | Chocolate Girl |
+| A4 | Real Gone Kid |
+| A5 | Wages Day |
+| A6 | Fergus Sings The Blues |
+| B1 | Queen Of The New Year |
+| B2 | Love And Regret |
+| B3 | I'll Never Fall In Love Again |
+| B4 | Your Swaying Arms |
+| B5 | Twist And Shout |
+| B6 | Closing Time |
+| C1 | Cover From The Sky |
+| C2 | Your Town |
+| C3 | Will We Be Lovers |
+| C4 | Only Tender Love |
+| C5 | Hang Your Head |
+| C6 | I Was Right And You Were Wrong |
+| D1 | Everytime You Sleep |
+| D2 | Bigger Than Dynamite |
+| D3 | The Hipsters |
+| D4 | A New House |
+| D5 | The Believers |
+| D6 | City Of Love |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Pop Rock", "Synth-pop"]
 | Format         | Vinyl LP (Yellow), Vinyl LP (Pink), All Media Compilation Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP868X |
-| Notes | On hype sticker and barcode sticker: COOKLP868X<br>On sleeve: COOKLP868<br><br>100 copies of this release were sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
+| Notes | On hype sticker and barcode sticker: COOKLP868X On sleeve: COOKLP868  100 copies of this release were sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
 | Discogs URL    | [Deacon Blue - All The Old 45s - The Very Best Of Deacon Blue](https://www.discogs.com/release/28160602-Deacon-Blue-All-The-Old-45s-The-Very-Best-Of-Deacon-Blue) |

@@ -35,23 +35,23 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Los Angeles |  |
-| A2 | I Heard Ramona Sing |  |
-| A3 | Hang On To Your Ego |  |
-| A4 | Fu Manchu |  |
-| A5 | Places Named After Numbers |  |
-| A6 | Czar |  |
-| A7 | Old Black Dawning |  |
-| A8 | Ten Percenter |  |
-| B9 | Brackish Boy |  |
-| B10 | Two Spaces |  |
-| B11 | Tossed (Instrumental Version) |  |
-| B12 | Parry The Wind High, Low |  |
-| B13 | Adda Lee |  |
-| B14 | Every Time I Go Around Here |  |
-| B15 | Don't Ya Rile 'Em |  |
+| Position | Title |
+|----------|--------|
+| A1 | Los Angeles |
+| A2 | I Heard Ramona Sing |
+| A3 | Hang On To Your Ego |
+| A4 | Fu Manchu |
+| A5 | Places Named After Numbers |
+| A6 | Czar |
+| A7 | Old Black Dawning |
+| A8 | Ten Percenter |
+| B9 | Brackish Boy |
+| B10 | Two Spaces |
+| B11 | Tossed (Instrumental Version) |
+| B12 | Parry The Wind High, Low |
+| B13 | Adda Lee |
+| B14 | Every Time I Go Around Here |
+| B15 | Don't Ya Rile 'Em |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 | Format         | Vinyl LP Album Record Store Day Reissue (Orange) |
 | Label          | 4AD |
 | Catalog Number | CAD 3004 LPE |
-| Notes | A Record Store Day 2019 release. Exclusive, quantity of 4,500.<br>Includes a custom inner sleeve.<br><br>On back of jacket:<br>Made in E.U.<br>U.S. • 134 Grand Street, New York, N.Y. 10013<br>U.K. • 17-19 Alma Road, London SW18 1AA<br><br>Made in E.U on labels.<br><br>Recorded at The Clubhouse, Burbank, California.<br>Mixed at The Plant Studios, Sausalito, Ca.<br>Additional recording at Master Control Studio, Burbank, Ca.<br>Mastered at Capitol Tower Mastering [...]<br><br>All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.<br><br>℗ & © 1993 4AD Ltd.<br><br>On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched. |
+| Notes | A Record Store Day 2019 release. Exclusive, quantity of 4,500. Includes a custom inner sleeve.  On back of jacket: Made in E.U. U.S. • 134 Grand Street, New York, N.Y. 10013 U.K. • 17-19 Alma Road, London SW18 1AA  Made in E.U on labels.  Recorded at The Clubhouse, Burbank, California. Mixed at The Plant Studios, Sausalito, Ca. Additional recording at Master Control Studio, Burbank, Ca. Mastered at Capitol Tower Mastering [...]  All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.  ℗ & © 1993 4AD Ltd.  On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched. |
 | Discogs URL    | [Frank Black - Frank Black](https://www.discogs.com/release/13452156-Frank-Black-Frank-Black) |

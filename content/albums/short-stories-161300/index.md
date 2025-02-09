@@ -32,18 +32,18 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Curious Electric |  |
-| A2 | Each And Everyday |  |
-| A3 | Bird Song |  |
-| A4 | I Hear You Now |  |
-| A5 | The Road |  |
-| B1 | Far Away In Baagad |  |
-| B2 | Love Is |  |
-| B3 | One More Time |  |
-| B4 | Thunder |  |
-| B5 | A Play Within A Play |  |
+| Position | Title |
+|----------|--------|
+| A1 | Curious Electric |
+| A2 | Each And Everyday |
+| A3 | Bird Song |
+| A4 | I Hear You Now |
+| A5 | The Road |
+| B1 | Far Away In Baagad |
+| B2 | Love Is |
+| B3 | One More Time |
+| B4 | Thunder |
+| B5 | A Play Within A Play |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5030 |
-| Notes | Recorded at London, England, 1979.<br><br>A Spheric Production.<br><br>All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979<br>℗ 1979  © 1979<br><br>Includes printed inner sleeve with lyrics<br><br>Cassette POLDC 5030<br><br>Runout is stamped |
+| Notes | Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped |
 | Discogs URL    | [Jon  Vangelis - Short Stories](https://www.discogs.com/release/161300-Jon-And-Vangelis-Short-Stories) |

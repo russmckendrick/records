@@ -24,18 +24,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | White Street | 1:19 |
-| A2 | Chimes | 4:31 |
-| A3 | Namer Of Clouds | 3:41 |
-| A4 | Phase In A Still River Flows | 7:39 |
-| A5 | Hollow Tree | 2:44 |
-| B1 | Black Candles | 2:25 |
-| B2 | Forever Blue | 5:30 |
-| B3 | Soon The Monsoon | 3:02 |
-| B4 | Summer Lawns | 4:57 |
-| B5 | Always Is Now | 6:28 |
+| Position | Title |
+|----------|--------|
+| A1 | White Street |
+| A2 | Chimes |
+| A3 | Namer Of Clouds |
+| A4 | Phase In A Still River Flows |
+| A5 | Hollow Tree |
+| B1 | Black Candles |
+| B2 | Forever Blue |
+| B3 | Soon The Monsoon |
+| B4 | Summer Lawns |
+| B5 | Always Is Now |
 
 
 ## Apple Music

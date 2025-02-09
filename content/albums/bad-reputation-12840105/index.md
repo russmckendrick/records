@@ -29,21 +29,21 @@ styles: ["Classic Rock", "Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fresh Start |  |
-| A2 | Bad Reputation |  |
-| A3 | Cherry Bomb |  |
-| A4 | Love is Pain |  |
-| A5 | I Love Rock ‘N’ Roll |  |
-| A6 | Victim of Circumstance |  |
-| A7 | I Hate Myself For Loving You |  |
-| B1 | Crimson And Clover |  |
-| B2 | Rebel Girl |  |
-| B3 | I Wanna Be Your Dog |  |
-| B4 | Fetish |  |
-| B5 | Feminazi |  |
-| B6 | Androgynous |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fresh Start |
+| A2 | Bad Reputation |
+| A3 | Cherry Bomb |
+| A4 | Love is Pain |
+| A5 | I Love Rock ‘N’ Roll |
+| A6 | Victim of Circumstance |
+| A7 | I Hate Myself For Loving You |
+| B1 | Crimson And Clover |
+| B2 | Rebel Girl |
+| B3 | I Wanna Be Your Dog |
+| B4 | Fetish |
+| B5 | Feminazi |
+| B6 | Androgynous |
 
 
 ## Apple Music

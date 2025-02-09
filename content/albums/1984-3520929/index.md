@@ -34,17 +34,17 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1984 |  |
-| A2 | Jump |  |
-| A3 | Panama |  |
-| A4 | Top Jimmy |  |
-| A5 | Drop Dead Legs |  |
-| B1 | Hot For Teacher |  |
-| B2 | I'll Wait |  |
-| B3 | Girl Gone Bad |  |
-| B4 | House Of Pain |  |
+| Position | Title |
+|----------|--------|
+| A1 | 1984 |
+| A2 | Jump |
+| A3 | Panama |
+| A4 | Top Jimmy |
+| A5 | Drop Dead Legs |
+| B1 | Hot For Teacher |
+| B2 | I'll Wait |
+| B3 | Girl Gone Bad |
+| B4 | House Of Pain |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79792-3 |
-| Notes | Released through Rhino Records. Like most Rhino reissues - Rhino pressed both an EU version and a US version [r2631093]. This is the EU pressing.<br><br>Judging from the matrix nos, plating was done at Record Technology Incorporated(19512) and EU version pressed by Optimal.<br><br>Sticker On Front <br>180-Gram <br>Cut From The Original Analog Master Tapes <br>Packaging Replicated To The Finest Detail <br>Pressed With More Care Than Ever<br> |
+| Notes | Released through Rhino Records. Like most Rhino reissues - Rhino pressed both an EU version and a US version [r2631093]. This is the EU pressing.    Judging from the matrix nos, plating was done at Record Technology Incorporated(19512) and EU version pressed by Optimal.    Sticker On Front   180-Gram   Cut From The Original Analog Master Tapes   Packaging Replicated To The Finest Detail   Pressed With More Care Than Ever   |
 | Discogs URL    | [Van Halen - 1984](https://www.discogs.com/release/3520929-Van-Halen-1984) |

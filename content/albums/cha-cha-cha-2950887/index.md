@@ -29,18 +29,18 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Torrid Cha Cha |  |
-| A2 | Chat Cha Cha |  |
-| A3 | Simple Cha Cha |  |
-| A4 | Chanticleer Cha Cha |  |
-| A5 | Yes Please Cha Cha |  |
-| B1 | Continental Cha Cha |  |
-| B2 | Let's Go Cha Cha |  |
-| B3 | Pass Cha Cha |  |
-| B4 | Vacation Cha Cha |  |
-| B5 | Piccadilly Cha Cha |  |
+| Position | Title |
+|----------|--------|
+| A1 | Torrid Cha Cha |
+| A2 | Chat Cha Cha |
+| A3 | Simple Cha Cha |
+| A4 | Chanticleer Cha Cha |
+| A5 | Yes Please Cha Cha |
+| B1 | Continental Cha Cha |
+| B2 | Let's Go Cha Cha |
+| B3 | Pass Cha Cha |
+| B4 | Vacation Cha Cha |
+| B5 | Piccadilly Cha Cha |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 | Format         | Vinyl LP |
 | Label          | Allegro Records |
 | Catalog Number | ALL734 |
-| Notes | Sleeve printed in U.S.A.<br>A Pickwick International Product <br>Rec. first pub. 1964<br> |
+| Notes | Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964  |
 | Discogs URL    | [Carmen  Fernando Del Valle  Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |

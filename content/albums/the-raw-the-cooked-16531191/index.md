@@ -26,18 +26,18 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Drives Me Crazy |  |
-| A2 | Good Thing |  |
-| A3 | I'm Not The Man I Used To Be |  |
-| A4 | I'm Not Satisfied |  |
-| A5 | Tell Me What |  |
-| B6 | Don't Look Back |  |
-| B7 | It's OK (It's Alright) |  |
-| B8 | Don't Let It Get You Down |  |
-| B9 | As Hard As It Is |  |
-| B10 | Ever Fallen In Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | She Drives Me Crazy |
+| A2 | Good Thing |
+| A3 | I'm Not The Man I Used To Be |
+| A4 | I'm Not Satisfied |
+| A5 | Tell Me What |
+| B6 | Don't Look Back |
+| B7 | It's OK (It's Alright) |
+| B8 | Don't Let It Get You Down |
+| B9 | As Hard As It Is |
+| B10 | Ever Fallen In Love |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 | Format         | Vinyl LP Album Reissue Remastered (White, Gatefold) |
 | Label          | London Records |
 | Catalog Number | LMS5521363 |
-| Notes | Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve.<br>Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.<br><br>Initial copies from the artist's store came with a signed print |
+| Notes | Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve. Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.  Initial copies from the artist's store came with a signed print |
 | Discogs URL    | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/16531191-Fine-Young-Cannibals-The-Raw-The-Cooked) |

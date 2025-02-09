@@ -29,10 +29,10 @@ Although all original UK singles used the spelling 'Suzanah', in many other coun
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Susannah's Still Alive |  |
-| B | Blind In Safety And Leafy In Love |  |
+| Position | Title |
+|----------|--------|
+| A | Susannah's Still Alive |
+| B | Blind In Safety And Leafy In Love |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ Although all original UK singles used the spelling 'Suzanah', in many other coun
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH 009 |
-| Notes | Track A Darbe Music/Carlin Music Ltd<br>Track B Copyright Control<br><br>© 1988<br>℗ The Alphabet Business Concern 1988 |
+| Notes | Track A Darbe Music/Carlin Music Ltd  Track B Copyright Control    © 1988  ℗ The Alphabet Business Concern 1988 |
 | Discogs URL    | [Cardiacs - Susannah's Still Alive](https://www.discogs.com/release/1605967-Cardiacs-Susannahs-Still-Alive) |

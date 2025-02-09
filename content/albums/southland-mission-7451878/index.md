@@ -29,17 +29,17 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ain't It Sweet |  |
-| A2 | 1922 |  |
-| A3 | Great Tide |  |
-| A4 | Belong |  |
-| B1 | Sitting on a Fence |  |
-| B2 | Lowly Road |  |
-| B3 | Time to Wake Up |  |
-| B4 | Anybody Else |  |
-| B5 | Gone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ain't It Sweet |
+| A2 | 1922 |
+| A3 | Great Tide |
+| A4 | Belong |
+| B1 | Sitting on a Fence |
+| B2 | Lowly Road |
+| B3 | Time to Wake Up |
+| B4 | Anybody Else |
+| B5 | Gone |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 | Format         | Vinyl LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | none |
-| Notes | Recorded at Echo Mountain Recording, March to October 2014.<br><br>Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).<br><br>B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.<br><br>Contains download code |
+| Notes | Recorded at Echo Mountain Recording, March to October 2014.  Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).  B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.  Contains download code |
 | Discogs URL    | [Phil Cook - Southland Mission](https://www.discogs.com/release/7451878-Phil-Cook-Southland-Mission) |

@@ -33,18 +33,18 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lost Song Part 1 | 5:53 |
-| A2 | The Lost Song Part 2 | 5:47 |
-| B1 | Dusk (Dark Is Descending) | 6:01 |
-| B2 | Ariel | 6:29 |
-| C1 | The Lost Song Part 3 | 5:22 |
-| C2 | Anathema | 6:41 |
-| C3 | You're Not Alone | 3:26 |
-| D1 | Firelight | 2:44 |
-| D2 | Distant Satellites | 8:18 |
-| D3 | Take Shelter | 6:18 |
+| Position | Title |
+|----------|--------|
+| A1 | The Lost Song Part 1 |
+| A2 | The Lost Song Part 2 |
+| B1 | Dusk (Dark Is Descending) |
+| B2 | Ariel |
+| C1 | The Lost Song Part 3 |
+| C2 | Anathema |
+| C3 | You're Not Alone |
+| D1 | Firelight |
+| D2 | Distant Satellites |
+| D3 | Take Shelter |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 | Format         | Vinyl 2× LP Album Stereo (Sparkle) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1247 |
-| Notes | Sticker reads:<br><br>ANATHEMA<br>distant satellites<br>10TH ANNIVERSARY 2LP<br>SPARKLE VINYL EDITION<br>"Yet another sublime masterclass in supercharged emotional songwriting and fearless sonic curiosity."<br>DOM LAWSON, THE GUARDIAN<br>KSCOPE1247<br>kscopemusic.com |
+| Notes | Sticker reads:  ANATHEMA distant satellites 10TH ANNIVERSARY 2LP SPARKLE VINYL EDITION "Yet another sublime masterclass in supercharged emotional songwriting and fearless sonic curiosity." DOM LAWSON, THE GUARDIAN KSCOPE1247 kscopemusic.com |
 | Discogs URL    | [Anathema - Distant Satellites](https://www.discogs.com/release/32168343-Anathema-Distant-Satellites) |

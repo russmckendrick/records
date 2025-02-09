@@ -32,14 +32,14 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Life Of The Honeybee & Other Moments Of Clarity |  |
-| A2 | One Small Soul |  |
-| A3 | Arran Shores |  |
-| B1 | Summerlong |  |
-| B2 | Sepia And White |  |
-| B3 | The Light Shines Out |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Life Of The Honeybee & Other Moments Of Clarity |
+| A2 | One Small Soul |
+| A3 | Arran Shores |
+| B1 | Summerlong |
+| B2 | Sepia And White |
+| B3 | The Light Shines Out |
 
 
 ## Apple Music

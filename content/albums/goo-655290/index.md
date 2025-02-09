@@ -47,43 +47,43 @@ Later, Lee Ranaldo said that part of the reason the band went to a major label w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album (Released 06.26.90) |  |
-| A1 | Dirty Boots | 5:29 |
-| A2 | Tunic (Song For Karen) | 6:21 |
-| A3 | Mary-Christ | 3:11 |
-| A4 | Kool Thing | 4:06 |
-| B1 | Mote | 7:37 |
-| B2 | My Friend Goo | 2:20 |
-| B3 | Disappearer | 5:08 |
-| B4 | Mildred Pierce | 2:13 |
-| C1 | Cinderella's Big Score | 5:54 |
-| C2 | Scooter + Jinx | 1:05 |
-| C3 | Titanium Exposé | 6:26 |
-|  | Out-Takes, B-Sides & Rehearsals |  |
-| D1 | Lee #2 | 3:31 |
-| D2 | That's All I Know (Right Now) | 2:20 |
-| D3 | The Bedroom (Live) | 3:42 |
-| D4 | Dr. Benway's House | 1:17 |
-| D5 | Tuff Boyz | 5:39 |
-|  | 8-Track Demos |  |
-| E1 | Tunic | 6:44 |
-| E2 | Number One (Disappearer) | 4:57 |
-| E3 | Titanium Exposé | 4:43 |
-| F1 | Dirty Boots | 6:37 |
-| F2 | Corky (Cinderella's Big Score) | 7:49 |
-| F3 | My Friend Goo | 2:31 |
-| G1 | Bookstore (Mote) | 4:14 |
-| G2 | Animals (Mary-Christ) | 3:02 |
-| G3 | DV2 (Kool Thing) | 4:17 |
-| G4 | Blowjob (Mildred Pierce) | 8:52 |
-| H1 | Lee #2 | 3:30 |
-|  | More Goo |  |
-| H2 | I Know There's An Answer | 3:10 |
-| H3 | Can Song | 3:17 |
-| H4 | Isaac | 2:36 |
-| H5 | Goo Interview Flexi | 6:03 |
+| Position | Title |
+|----------|--------|
+|  | The Original Album (Released 06.26.90) |
+| A1 | Dirty Boots |
+| A2 | Tunic (Song For Karen) |
+| A3 | Mary-Christ |
+| A4 | Kool Thing |
+| B1 | Mote |
+| B2 | My Friend Goo |
+| B3 | Disappearer |
+| B4 | Mildred Pierce |
+| C1 | Cinderella's Big Score |
+| C2 | Scooter + Jinx |
+| C3 | Titanium Exposé |
+|  | Out-Takes, B-Sides & Rehearsals |
+| D1 | Lee #2 |
+| D2 | That's All I Know (Right Now) |
+| D3 | The Bedroom (Live) |
+| D4 | Dr. Benway's House |
+| D5 | Tuff Boyz |
+|  | 8-Track Demos |
+| E1 | Tunic |
+| E2 | Number One (Disappearer) |
+| E3 | Titanium Exposé |
+| F1 | Dirty Boots |
+| F2 | Corky (Cinderella's Big Score) |
+| F3 | My Friend Goo |
+| G1 | Bookstore (Mote) |
+| G2 | Animals (Mary-Christ) |
+| G3 | DV2 (Kool Thing) |
+| G4 | Blowjob (Mildred Pierce) |
+| H1 | Lee #2 |
+|  | More Goo |
+| H2 | I Know There's An Answer |
+| H3 | Can Song |
+| H4 | Isaac |
+| H5 | Goo Interview Flexi |
 
 
 ## Apple Music
@@ -101,5 +101,5 @@ Later, Lee Ranaldo said that part of the reason the band went to a major label w
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Remastered, Box Set |
 | Label          | Goofin' Records |
 | Catalog Number | GOO-07 |
-| Notes | "That's All I Know (Right Now)" originally recorded by Neon Boys.<br>"I Know There's an Answer" originally recorded by The Beach Boys.<br>A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990.<br>D2, H3 recorded at Wharton Tier's Studio, 1990.<br>D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990.<br>D4 recorded at Sorcerer Sound, NYC, 1990<br>D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989.<br>E1 to H1 recorded at Waterworks, NYC, Nov 1989.<br><br>Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.<br><br>16-page printed color booklet, photographic inner sleeves. |
+| Notes | "That's All I Know (Right Now)" originally recorded by Neon Boys. "I Know There's an Answer" originally recorded by The Beach Boys. A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990. D2, H3 recorded at Wharton Tier's Studio, 1990. D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990. D4 recorded at Sorcerer Sound, NYC, 1990 D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989. E1 to H1 recorded at Waterworks, NYC, Nov 1989.  Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.  16-page printed color booklet, photographic inner sleeves. |
 | Discogs URL    | [Sonic Youth - Goo](https://www.discogs.com/release/655290-Sonic-Youth-Goo) |

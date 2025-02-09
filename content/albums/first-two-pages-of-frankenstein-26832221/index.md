@@ -57,19 +57,19 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Once Upon A Poolside | 3:36 |
-| A2 | Eucalyptus | 4:24 |
-| A3 | New Order T-Shirt | 4:56 |
-| A4 | This Isn't Helping | 4:04 |
-| A5 | Tropic Morning News | 5:09 |
-| A6 | Alien | 4:07 |
-| B7 | The Alcott | 4:27 |
-| B8 | Grease In Your Hair | 3:57 |
-| B9 | Ice Machines | 4:16 |
-| B10 | Your Mind Is Not Your Friend | 4:24 |
-| B11 | Send For Me | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Once Upon A Poolside |
+| A2 | Eucalyptus |
+| A3 | New Order T-Shirt |
+| A4 | This Isn't Helping |
+| A5 | Tropic Morning News |
+| A6 | Alien |
+| B7 | The Alcott |
+| B8 | Grease In Your Hair |
+| B9 | Ice Machines |
+| B10 | Your Mind Is Not Your Friend |
+| B11 | Send For Me |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 | Format         | Vinyl LP Album Limited Edition (Red, Optimal Pressing) |
 | Label          | 4AD |
 | Catalog Number | 4AD0566LPE |
-| Notes | Tracks numbered sequentially on back jacket.<br><br>This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |
+| Notes | Tracks numbered sequentially on back jacket.  This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |
 | Discogs URL    | [The National - First Two Pages Of Frankenstein](https://www.discogs.com/release/26832221-The-National-First-Two-Pages-Of-Frankenstein) |

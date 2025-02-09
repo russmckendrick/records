@@ -53,25 +53,25 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Front Toward Enemy |  |
-| A2 | I’m Already Gone |  |
-| A3 | Seasons |  |
-| A4 | Sevens |  |
-| A5 | Tourniquet |  |
-| A6 | Anchor’s Lament |  |
-| B1 | Throw Me An Anchor |  |
-| B2 | I’d Do Anything |  |
-| B3 | Blankets Of Ash |  |
-| B4 | Emmett-Radiating Light |  |
-| B5 | Cold-Blooded Angels |  |
-| C1 | Crooked Mile |  |
-| C2 | Broken Halo |  |
-| C3 | Can Oscura |  |
-| C4 | Borderlines |  |
-| C5 | Assault On East Falls |  |
-| C6 | Pale Sun |  |
+| Position | Title |
+|----------|--------|
+| A1 | Front Toward Enemy |
+| A2 | I’m Already Gone |
+| A3 | Seasons |
+| A4 | Sevens |
+| A5 | Tourniquet |
+| A6 | Anchor’s Lament |
+| B1 | Throw Me An Anchor |
+| B2 | I’d Do Anything |
+| B3 | Blankets Of Ash |
+| B4 | Emmett-Radiating Light |
+| B5 | Cold-Blooded Angels |
+| C1 | Crooked Mile |
+| C2 | Broken Halo |
+| C3 | Can Oscura |
+| C4 | Borderlines |
+| C5 | Assault On East Falls |
+| C6 | Pale Sun |
 
 
 ## Apple Music
@@ -88,5 +88,5 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 | Format         | Vinyl LP (Red Transparent), Vinyl LP Single Sided Etched (Blue Transparent), All Media Album Limited Edition |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN006-1 |
-| Notes | Independent Record Stores Release<br>Includes download code, lyric booklet, and printed inner sleeves.<br><br>Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA.<br>Strings recorded at Bird Cloud Recording in Edwardsville, IL.<br>Mastered at Sterling Sound in Edgewater, NJ.<br><br>All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).<br><br>© & ℗ 2019 Abraxan Hymns, LLC. |
+| Notes | Independent Record Stores Release Includes download code, lyric booklet, and printed inner sleeves.  Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA. Strings recorded at Bird Cloud Recording in Edwardsville, IL. Mastered at Sterling Sound in Edgewater, NJ.  All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).  © & ℗ 2019 Abraxan Hymns, LLC. |
 | Discogs URL    | [Baroness - Gold & Grey](https://www.discogs.com/release/13744754-Baroness-Gold-Grey) |

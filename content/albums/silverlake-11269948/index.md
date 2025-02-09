@@ -24,19 +24,19 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1 | The Perfect Summer |  |
-| 2 | What Are You Like |  |
-| 3 | Why Do I |  |
-| 4 | Better Than Nothing At All |  |
-| 5 | Without You |  |
-| 6 | Sunshine True |  |
-| 7 | Everyone Knows That You're Mine |  |
-| 8 | Make It Yourself |  |
-| 9 | Such A Shame |  |
-| 10 | Easier Done Than Said |  |
-| 11 | Autarch |  |
+| Position | Title |
+|----------|--------|
+| 1 | The Perfect Summer |
+| 2 | What Are You Like |
+| 3 | Why Do I |
+| 4 | Better Than Nothing At All |
+| 5 | Without You |
+| 6 | Sunshine True |
+| 7 | Everyone Knows That You're Mine |
+| 8 | Make It Yourself |
+| 9 | Such A Shame |
+| 10 | Easier Done Than Said |
+| 11 | Autarch |
 
 
 ## Apple Music

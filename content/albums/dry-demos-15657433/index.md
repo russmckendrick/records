@@ -32,19 +32,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh My Lover |  |
-| A2 | O Stella  |  |
-| A3 | Dress |  |
-| A4 | Victory |  |
-| A5 | Happy And Bleeding |  |
-| B1 | Sheela-Na-Gig |  |
-| B2 | Hair |  |
-| B3 | Joe |  |
-| B4 | Plants And Rags |  |
-| B5 | Fountain |  |
-| B6 | Water |  |
+| Position | Title |
+|----------|--------|
+| A1 | Oh My Lover |
+| A2 | O Stella  |
+| A3 | Dress |
+| A4 | Victory |
+| A5 | Happy And Bleeding |
+| B1 | Sheela-Na-Gig |
+| B2 | Hair |
+| B3 | Joe |
+| B4 | Plants And Rags |
+| B5 | Fountain |
+| B6 | Water |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Island Records |
 | Catalog Number | 0878247 |
-| Notes | 180g vinyl with printed inner sleeve. Weight is not indicated on the release.<br>Artwork includes 3 previously unreleased photos. <br>Includes a download code card from thesoundofvinyl.com (16bit/44.1k WAV format). <br>250 signed copies by P.J. Harvey were available.<br><br>Hype sticker:<br>The original demo recordings of every track from the album [m=52561], including Dress and Sheela-Na-Gig available for the first time since 1992<br>Includes download card<br><br>An Island Records Release.<br>℗1992 PJ Harvey under exclusive license to Universal Music Operations Ltd. ©2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V., Gerrit Van Der Veenlaan 4, 3743 DN Baarn, Netherlands. Made in Germany.<br>BIEM/SDRM.<br><br>All songs © 1992<br>Published by Hot Head Music Limited (ASCAP)<br>Administered by Kobalt Songs Music Publishing (ASCAP)<br><br>Both labels appear on labels, jacket back. No label appears on jacket spine.<br><br>First cat. # (0878247) on jacket, inner sleeve, labels.<br>Second cat. # (00602508782473) on labels.<br><br>Runouts are hand etched. |
+| Notes | 180g vinyl with printed inner sleeve. Weight is not indicated on the release. Artwork includes 3 previously unreleased photos.  Includes a download code card from thesoundofvinyl.com (16bit/44.1k WAV format).  250 signed copies by P.J. Harvey were available.  Hype sticker: The original demo recordings of every track from the album [m=52561], including Dress and Sheela-Na-Gig available for the first time since 1992 Includes download card  An Island Records Release. ℗1992 PJ Harvey under exclusive license to Universal Music Operations Ltd. ©2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., Gerrit Van Der Veenlaan 4, 3743 DN Baarn, Netherlands. Made in Germany. BIEM/SDRM.  All songs © 1992 Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)  Both labels appear on labels, jacket back. No label appears on jacket spine.  First cat. # (0878247) on jacket, inner sleeve, labels. Second cat. # (00602508782473) on labels.  Runouts are hand etched. |
 | Discogs URL    | [PJ Harvey - Dry - Demos](https://www.discogs.com/release/15657433-PJ-Harvey-Dry-Demos) |

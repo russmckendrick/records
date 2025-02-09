@@ -34,25 +34,25 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side Uno |  |
-| A1 | Icky Thump | 4:14 |
-| A2 | You Don't Know What Love Is  (You Just Do As You're Told) | 3:54 |
-| A3 | 300 M.P.H. Torrential Outpour Blues | 5:28 |
-|  | Side Dwa |  |
-| B4 | Conquest | 2:48 |
-| B5 | Bone Broke | 3:14 |
-| B6 | Prickly Thorn, But Sweetly Worn | 3:05 |
-| B7 | St. Andrew (This Battle Is In The Air) | 1:49 |
-|  | Side Three |  |
-| C8 | Little Cream Soda | 3:45 |
-| C9 | Rag And Bone | 3:48 |
-| C10 | I'm Slowly Turning Into You | 4:34 |
-|  | Side Fower |  |
-| D11 | A Martyr For My Love For You | 4:19 |
-| D12 | Catch Hell Blues | 4:18 |
-| D13 | Effect And Cause | 3:00 |
+| Position | Title |
+|----------|--------|
+|  | Side Uno |
+| A1 | Icky Thump |
+| A2 | You Don't Know What Love Is  (You Just Do As You're Told) |
+| A3 | 300 M.P.H. Torrential Outpour Blues |
+|  | Side Dwa |
+| B4 | Conquest |
+| B5 | Bone Broke |
+| B6 | Prickly Thorn, But Sweetly Worn |
+| B7 | St. Andrew (This Battle Is In The Air) |
+|  | Side Three |
+| C8 | Little Cream Soda |
+| C9 | Rag And Bone |
+| C10 | I'm Slowly Turning Into You |
+|  | Side Fower |
+| D11 | A Martyr For My Love For You |
+| D12 | Catch Hell Blues |
+| D13 | Effect And Cause |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (180 Gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-500 |
-| Notes | Black Friday release by third man records.<br><br>Direct-to-board double pocket gatefold LP jacket.<br>180 gram weight vinyl with 4-page insert.<br><br>The new TMR version has a printed inner sleeve with a black and white image.<br>Audio sourced from the original master tapes.<br>100% all-analog mastering by NRP with even more superior sound than previous pressings.<br><br>© & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC. |
+| Notes | Black Friday release by third man records.  Direct-to-board double pocket gatefold LP jacket. 180 gram weight vinyl with 4-page insert.  The new TMR version has a printed inner sleeve with a black and white image. Audio sourced from the original master tapes. 100% all-analog mastering by NRP with even more superior sound than previous pressings.  © & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC. |
 | Discogs URL    | [The White Stripes - Icky Thump](https://www.discogs.com/release/12839822-The-White-Stripes-Icky-Thump) |

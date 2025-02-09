@@ -47,35 +47,35 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | #1 | 7:28 |
-| A2 | #2 | 6:34 |
-| A3 | #3 | 7:44 |
-| B1 | #4 | 4:40 |
-| B2 | #5 | 8:55 |
-| B3 | #6 | 3:31 |
-| B4 | #7 | 8:51 |
-| C1 | #8 | 5:08 |
-| C2 | #9 | 6:55 |
-| C3 | #10 | 9:58 |
-| D1 | #11 | 7:18 |
-| D2 | #12 | 2:42 |
-| D3 | Blue Calx | 7:20 |
-| D4 | #14 | 8:01 |
-| E1 | #15 | 5:34 |
-| E2 | #16 | 4:46 |
-| E3 | #17 | 2:05 |
-| E4 | #18 | 7:17 |
-| F1 | #19 | 10:15 |
-| F2 | #20 | 5:58 |
-| F3 | #21 | 4:15 |
-| G1 | #22 | 7:09 |
-| G2 | #23 | 7:30 |
-| G3 | #24 | 11:27 |
-| H1 | #25 | 5:42 |
-| H2 | Th1 [Evnslower] | 11:08 |
-| H3 | Rhubarb Orc. 19.53 Rev | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | #1 |
+| A2 | #2 |
+| A3 | #3 |
+| B1 | #4 |
+| B2 | #5 |
+| B3 | #6 |
+| B4 | #7 |
+| C1 | #8 |
+| C2 | #9 |
+| C3 | #10 |
+| D1 | #11 |
+| D2 | #12 |
+| D3 | Blue Calx |
+| D4 | #14 |
+| E1 | #15 |
+| E2 | #16 |
+| E3 | #17 |
+| E4 | #18 |
+| F1 | #19 |
+| F2 | #20 |
+| F3 | #21 |
+| G1 | #22 |
+| G2 | #23 |
+| G3 | #24 |
+| H1 | #25 |
+| H2 | Th1 [Evnslower] |
+| H3 | Rhubarb Orc. 19.53 Rev |
 
 
 ## Apple Music
@@ -93,5 +93,5 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 | Format         | Vinyl 4× LP Album Bioplastic Reissue Remastered Stereo (Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | WARPLP21R |
-| Notes | Black 4LP vinyl in polylined innersleeves in foil blocked wide spine jacket.<br>Includes a fold-out insert with liner notes and a sticker sheet.<br>Pressed on BioVinyl.<br><br>On label:<br>℗ and © Warp Records 2024<br><br>On insert:<br>℗ 2024 Warp Records Limited<br>© 2024 Warp Records Limited<br><br>Blue Calx taken from Rephlex/[url=https://www.discogs.com/release/51236-Various-The-Philosophy-Of-Sound-And-Machine]Art2cd[/url]<br><br>Made in EU<br><br>Track names taken from Warp's website.<br><br>Plating stamper " V1, +1, 1+, -l2, T1 and x1" in runouts are mirrored. |
+| Notes | Black 4LP vinyl in polylined innersleeves in foil blocked wide spine jacket. Includes a fold-out insert with liner notes and a sticker sheet. Pressed on BioVinyl.  On label: ℗ and © Warp Records 2024  On insert: ℗ 2024 Warp Records Limited © 2024 Warp Records Limited  Blue Calx taken from Rephlex/[url=https://www.discogs.com/release/51236-Various-The-Philosophy-Of-Sound-And-Machine]Art2cd[/url]  Made in EU  Track names taken from Warp's website.  Plating stamper " V1, +1, 1+, -l2, T1 and x1" in runouts are mirrored. |
 | Discogs URL    | [Aphex Twin - Selected Ambient Works Volume II](https://www.discogs.com/release/31768115-Aphex-Twin-Selected-Ambient-Works-Volume-II) |

@@ -28,22 +28,22 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I See Red | 3:15 |
-| A2 | Give It A Whirl | 2:52 |
-| A3 | Master Plan | 3:00 |
-| A4 | Betty | 4:42 |
-| A5 | Frenzy | 2:15 |
-| A6 | Stuff And Nonsense | 4:30 |
-| A7 | Marooned | 2:15 |
-| B1 | Hermit McDermitt | 4:19 |
-| B2 | Holy Smoke | 3:15 |
-| B3 | Semi Detached | 5:05 |
-| B4 | Carried Away | 4:34 |
-| B5 | She Got Body | 2:55 |
-| B6 | Mind Over Matter | 2:52 |
-| B7 | Livin' It Up | 1:15 |
+| Position | Title |
+|----------|--------|
+| A1 | I See Red |
+| A2 | Give It A Whirl |
+| A3 | Master Plan |
+| A4 | Betty |
+| A5 | Frenzy |
+| A6 | Stuff And Nonsense |
+| A7 | Marooned |
+| B1 | Hermit McDermitt |
+| B2 | Holy Smoke |
+| B3 | Semi Detached |
+| B4 | Carried Away |
+| B5 | She Got Body |
+| B6 | Mind Over Matter |
+| B7 | Livin' It Up |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLK 63153 |
-| Notes | A Boomerang Production.<br>℗ 1979 Mushroom Records Pty., Ltd.<br>Track A1 engineered and co-produced at Startling Studios, Ascot, England, august 1978.<br>Track A2 to A7 produced and engineered at The Manor Studios, England, november/december 1978.<br>Track B1 to B7 produced and engineered at Quest Studios, Luton, Beds., U.K., june 1978 (The Rootin', Tootin' Luton Tapes).<br>Split Enz wish to thank The Queen Elizabeth Arts Council.<br>© 1981 A&M Records.<br>Distributed by CBS Records<br>Printed in Holland.<br>Orinally recorded by Mushroom Records, Australia Pty., ℗ 1978. <br><br>All tracks remixed february 1981.<br>Previously recorded tunes 1978-79.<br>The collection of songs embodied on this album represents the recordings of Split Enz in England prior to the "True Colours" and "Waiata" albums (circa 1978-1979). All tracks except "I See Red" were remixed february, 1981, at Armstrongs Recording Studios, Melbourne, Australia.<br><br>Catalog# "AMLK 63153" appears on label.<br>Catalog# "AMLE 63153" appears on rear cover, spine and innersleeve.<br><br>Comes with a lyric-innersleeve.<br> |
+| Notes | A Boomerang Production. ℗ 1979 Mushroom Records Pty., Ltd. Track A1 engineered and co-produced at Startling Studios, Ascot, England, august 1978. Track A2 to A7 produced and engineered at The Manor Studios, England, november/december 1978. Track B1 to B7 produced and engineered at Quest Studios, Luton, Beds., U.K., june 1978 (The Rootin', Tootin' Luton Tapes). Split Enz wish to thank The Queen Elizabeth Arts Council. © 1981 A&M Records. Distributed by CBS Records Printed in Holland. Orinally recorded by Mushroom Records, Australia Pty., ℗ 1978.   All tracks remixed february 1981. Previously recorded tunes 1978-79. The collection of songs embodied on this album represents the recordings of Split Enz in England prior to the "True Colours" and "Waiata" albums (circa 1978-1979). All tracks except "I See Red" were remixed february, 1981, at Armstrongs Recording Studios, Melbourne, Australia.  Catalog# "AMLK 63153" appears on label. Catalog# "AMLE 63153" appears on rear cover, spine and innersleeve.  Comes with a lyric-innersleeve.  |
 | Discogs URL    | [Split Enz - Frenzy](https://www.discogs.com/release/2830392-Split-Enz-Frenzy) |

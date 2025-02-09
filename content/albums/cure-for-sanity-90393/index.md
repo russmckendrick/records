@@ -31,25 +31,25 @@ In 2011, a two-disc version of the album was issued by Cherry Red Records, conta
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Incredible P.W.E.I Vs. The Moral Majority | 1:33 |
-| A2 | Dance Of The Mad Bastards | 5:30 |
-| A3 | 88 Seconds...& Still Counting | 3:53 |
-| A4 | X  Y & Zee | 4:35 |
-| A5 | City Zen Radio 1990/2000 FM | 0:49 |
-| A6 | Dr. Nightmare's Medication Time | 3:10 |
-| A7 | Touched By The Hand Of Cicciolina (Extra Time Mix) | 7:40 |
-| A8 | 1000x No! | 3:27 |
-| B1 | Psychosexual | 2:10 |
-| B2 | Axe Of Men | 4:20 |
-| B3 | Another Man's Rhubarb | 4:11 |
-| B4 | Medicine Man Speak With Forked Tongue | 0:31 |
-| B5 | Nightmare At 20,000 FT | 4:12 |
-| B6 | Very Metal Noise Pollution | 1:26 |
-| B7 | 92°F (The 3rd Degree) | 5:37 |
-| B8 | Lived In Splendour:  Died In Chaos | 5:05 |
-| B9 | The Beat That Refused To Die | 1:39 |
+| Position | Title |
+|----------|--------|
+| A1 | The Incredible P.W.E.I Vs. The Moral Majority |
+| A2 | Dance Of The Mad Bastards |
+| A3 | 88 Seconds...& Still Counting |
+| A4 | X  Y & Zee |
+| A5 | City Zen Radio 1990/2000 FM |
+| A6 | Dr. Nightmare's Medication Time |
+| A7 | Touched By The Hand Of Cicciolina (Extra Time Mix) |
+| A8 | 1000x No! |
+| B1 | Psychosexual |
+| B2 | Axe Of Men |
+| B3 | Another Man's Rhubarb |
+| B4 | Medicine Man Speak With Forked Tongue |
+| B5 | Nightmare At 20,000 FT |
+| B6 | Very Metal Noise Pollution |
+| B7 | 92°F (The 3rd Degree) |
+| B8 | Lived In Splendour:  Died In Chaos |
+| B9 | The Beat That Refused To Die |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In 2011, a two-disc version of the album was issued by Cherry Red Records, conta
 | Format         | Vinyl LP Album Stereo |
 | Label          | RCA |
 | Catalog Number | PL 74828 |
-| Notes | As per many of the original issues of this album, A7 is mislabelled '(Edited Highlights)' instead of '(Extra Time Mix)'.<br><br>Label:<br>Flood courtesy of 140 dB<br>℗ 1990 BMG Records (UK) Ltd<br>The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd<br>Made in West Germany<br>Fabrique en Allemagne<br> <br>Cover:<br>℗1990 BMG Records (UK) Ltd<br>The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd<br> ©1990 BMG Records (UK) Ltd <br>All Trade Marks and Logos are Protected<br>RCA is a Registered Trademark of the Recording Corporation of America<br>Distributed in the UK by BMG Records. Distribué en Europe par BMG-Ariola. Vertrieb in Europa durch BMG-Ariola.<br>A Bertelsmann Music Group Company.<br>Printed in West Germany. Imprime en Allemagne.<br><br>Matrix / Runout note:<br>Side A - Stamped, except 020 and last 1 (which looks like an inverted V) - are etched<br>Side B - Stamped, except 020 - is etched |
+| Notes | As per many of the original issues of this album, A7 is mislabelled '(Edited Highlights)' instead of '(Extra Time Mix)'.  Label: Flood courtesy of 140 dB ℗ 1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd Made in West Germany Fabrique en Allemagne   Cover: ℗1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd  ©1990 BMG Records (UK) Ltd  All Trade Marks and Logos are Protected RCA is a Registered Trademark of the Recording Corporation of America Distributed in the UK by BMG Records. Distribué en Europe par BMG-Ariola. Vertrieb in Europa durch BMG-Ariola. A Bertelsmann Music Group Company. Printed in West Germany. Imprime en Allemagne.  Matrix / Runout note: Side A - Stamped, except 020 and last 1 (which looks like an inverted V) - are etched Side B - Stamped, except 020 - is etched |
 | Discogs URL    | [Pop Will Eat Itself - Cure For Sanity](https://www.discogs.com/release/90393-Pop-Will-Eat-Itself-Cure-For-Sanity) |

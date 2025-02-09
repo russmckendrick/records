@@ -30,14 +30,14 @@ styles: ["Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oilyvoice |  |
-| A2 | Seen The Sun |  |
-| A3 | Magnetophoria |  |
-| B1 | Floating Plates |  |
-| B2 | Infinity Curtains |  |
-| B3 | Starseeds |  |
+| Position | Title |
+|----------|--------|
+| A1 | Oilyvoice |
+| A2 | Seen The Sun |
+| A3 | Magnetophoria |
+| B1 | Floating Plates |
+| B2 | Infinity Curtains |
+| B3 | Starseeds |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1176 |
-| Notes | All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms).<br>Layout by Ed with a little help from Arnold Pesch@Peschdesign.<br>Mastered by Adam Goodlet at re:Creation Studios.<br><br>Hype sticker:<br>"New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"<br><br>Black vinyl. Some copies come with a Kscope promo leaflet. |
+| Notes | All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet. |
 | Discogs URL    | [Ed Wynne - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800-Ed-Wynne-And-Gre-Vanderloo-Tumbling-Through-The-Floativerse) |

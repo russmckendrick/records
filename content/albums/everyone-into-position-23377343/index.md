@@ -38,18 +38,18 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Charm Offensive |  |
-| A2 | Heaven Alive |  |
-| A3 | A Homage To A Shame |  |
-| B1 | Meredith |  |
-| B2 | Music For A Nurse |  |
-| C1 | New Pin |  |
-| C2 | No Tomorrow |  |
-| C3 | Mine Host |  |
-| D1 | You Can't Keep A Bad Man Down |  |
-| D2 | Ornament / The Last Wrongs |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Charm Offensive |
+| A2 | Heaven Alive |
+| A3 | A Homage To A Shame |
+| B1 | Meredith |
+| B2 | Music For A Nurse |
+| C1 | New Pin |
+| C2 | No Tomorrow |
+| C3 | Mine Host |
+| D1 | You Can't Keep A Bad Man Down |
+| D2 | Ornament / The Last Wrongs |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Splatter Yellow) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 LP2 |
-| Notes | Hype sticker says Limited Edition Vinyl Pressing Splatter Yellow but it is acutally Translucent Yellow with Green, Red and White Splatter. <br><br>Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.<br><br>℗ 2005 Beggars Banquet Records Ltd<br>© 2005 Beggars Banquet Records Ltd |
+| Notes | Hype sticker says Limited Edition Vinyl Pressing Splatter Yellow but it is acutally Translucent Yellow with Green, Red and White Splatter.   Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.  ℗ 2005 Beggars Banquet Records Ltd © 2005 Beggars Banquet Records Ltd |
 | Discogs URL    | [Oceansize - Everyone Into Position](https://www.discogs.com/release/23377343-Oceansize-Everyone-Into-Position) |

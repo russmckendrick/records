@@ -46,19 +46,19 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Juliet Naked | 3:22 |
-| A2 | Give A Little Time | 3:23 |
-| A3 | When We Were Very Young | 3:52 |
-| A4 | Will I Tell You A Secret? | 2:15 |
-| A5 | So In The Moment | 3:23 |
-| A6 | The Evening Star | 4:25 |
-| B1 | When You're Not With Me | 4:42 |
-| B2 | I Don't Know What You See In Me | 3:39 |
-| B3 | Do You Follow? | 4:19 |
-| B4 | When The Cynics Stare Back From The Wall | 4:21 |
-| B5 | Late Developers | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Juliet Naked |
+| A2 | Give A Little Time |
+| A3 | When We Were Very Young |
+| A4 | Will I Tell You A Secret? |
+| A5 | So In The Moment |
+| A6 | The Evening Star |
+| B1 | When You're Not With Me |
+| B2 | I Don't Know What You See In Me |
+| B3 | Do You Follow? |
+| B4 | When The Cynics Stare Back From The Wall |
+| B5 | Late Developers |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |
-| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet<br><br>Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'<br><br>200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.<br><br>Catalog number on labels and back cover: OLE1896LP.<br>Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
+| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
 | Discogs URL    | [Belle  Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |

@@ -39,18 +39,18 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Section 1 (Have A Day/Celebratory) |  |
-| A2 | Section 2 (It's The Sun) |  |
-| A3 | Section 3 (Days Like This Keep Me Warm) |  |
-| A4 | Section 4 (La La) |  |
-| A5 | Section 5 (Middle Of The Day) |  |
-| B1 | Section 6 (Hanging Around The Day Part 1) |  |
-| B2 | Section 7 (Hanging Around The Day Part 2) |  |
-| C1 | Section 8 (Soldier Girl) |  |
-| C2 | Section 9 (Light & Day / Reach For The Sun) |  |
-| D1 | Section 10 (A Long Day) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Section 1 (Have A Day/Celebratory) |
+| A2 | Section 2 (It's The Sun) |
+| A3 | Section 3 (Days Like This Keep Me Warm) |
+| A4 | Section 4 (La La) |
+| A5 | Section 5 (Middle Of The Day) |
+| B1 | Section 6 (Hanging Around The Day Part 1) |
+| B2 | Section 7 (Hanging Around The Day Part 2) |
+| C1 | Section 8 (Soldier Girl) |
+| C2 | Section 9 (Light & Day / Reach For The Sun) |
+| D1 | Section 10 (A Long Day) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 | Format         | Vinyl 2× LP Album Numbered |
 | Label          | 679 |
 | Catalog Number | 679L011TLP |
-| Notes | Additional voices on this recording include the members of the band as well as friends.<br>Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).<br>Gatefold sleeve with printed inner sleeves. |
+| Notes | Additional voices on this recording include the members of the band as well as friends.  Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).  Gatefold sleeve with printed inner sleeves. |
 | Discogs URL    | [The Polyphonic Spree - The Beginning Stages Of...](https://www.discogs.com/release/890127-The-Polyphonic-Spree-The-Beginning-Stages-Of) |

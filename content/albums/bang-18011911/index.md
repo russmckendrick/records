@@ -32,19 +32,19 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kingdom Come |  |
-| A2 | Is It Like Today? |  |
-| A3 | What Is Love All About? |  |
-| A4 | And God Said…. |  |
-| A5 | Give It All Away |  |
-| B1 | Sooner Or Later |  |
-| B2 | Hollywood |  |
-| B3 | Radio Days |  |
-| B4 | Rescue Me |  |
-| B5 | Sunshine |  |
-| B6 | All I Gave |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kingdom Come |
+| A2 | Is It Like Today? |
+| A3 | What Is Love All About? |
+| A4 | And God Said…. |
+| A5 | Give It All Away |
+| B1 | Sooner Or Later |
+| B2 | Hollywood |
+| B3 | Radio Days |
+| B4 | Rescue Me |
+| B5 | Sunshine |
+| B6 | All I Gave |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 | Format         | Vinyl LP Album Misprint Reissue |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 3LP |
-| Notes | With printed inner sleeve.<br><br>"Sooner or Later" erroneously listed as last song on A side on both jacket and label. "Give It All Away (Reprise)" is included in the extended “Give It All Away” on side A and not on the b-side as separate song as stated on both jacket and label.<br><br>Tracks for additional engineering credit by Joe Blaney are not specified on this release, but other versions (including [r8181374] and [r3184051]) identify this credit only for "Radio Days," "Sunshine" and "All I Gave". <br><br>Rear cover & labels: Manufactured in the USA |
+| Notes | With printed inner sleeve.  "Sooner or Later" erroneously listed as last song on A side on both jacket and label. "Give It All Away (Reprise)" is included in the extended “Give It All Away” on side A and not on the b-side as separate song as stated on both jacket and label.  Tracks for additional engineering credit by Joe Blaney are not specified on this release, but other versions (including [r8181374] and [r3184051]) identify this credit only for "Radio Days," "Sunshine" and "All I Gave".   Rear cover & labels: Manufactured in the USA |
 | Discogs URL    | [World Party - Bang!](https://www.discogs.com/release/18011911-World-Party-Bang) |

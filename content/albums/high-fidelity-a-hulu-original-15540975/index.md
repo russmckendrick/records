@@ -24,19 +24,19 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Can't Stand The Rain |  |
-| A2 | Didn't I |  |
-| A3 | I'll Make Love To You |  |
-| A4 | Come On Eileen |  |
-| A5 | Tiebreaker |  |
-| A6 | Once I Had A Love (Aka The Disco Song) |  |
-| B1 | Fantastic Man |  |
-| B2 | Till It Hits The Ground |  |
-| B3 | Gimme Light/New Tattoo |  |
-| B4 | Pains |  |
-| B5 | I Believe (When I Fall In Love It Will Be Forever) |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Can't Stand The Rain |
+| A2 | Didn't I |
+| A3 | I'll Make Love To You |
+| A4 | Come On Eileen |
+| A5 | Tiebreaker |
+| A6 | Once I Had A Love (Aka The Disco Song) |
+| B1 | Fantastic Man |
+| B2 | Till It Hits The Ground |
+| B3 | Gimme Light/New Tattoo |
+| B4 | Pains |
+| B5 | I Believe (When I Fall In Love It Will Be Forever) |
 
 
 ## Apple Music

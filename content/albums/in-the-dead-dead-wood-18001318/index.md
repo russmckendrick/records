@@ -35,16 +35,16 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Silhouette |  |
-| A2 | Super Sleuth |  |
-| A3 | Elemental |  |
-| A4 | Lancelot |  |
-| A5 | In The Dead, Dead Wood |  |
-| B1 | Weight In Gold |  |
-| B2 | Mourning On The Range |  |
-| B3 | Forc In The Road |  |
+| Position | Title |
+|----------|--------|
+| A1 | Silhouette |
+| A2 | Super Sleuth |
+| A3 | Elemental |
+| A4 | Lancelot |
+| A5 | In The Dead, Dead Wood |
+| B1 | Weight In Gold |
+| B2 | Mourning On The Range |
+| B3 | Forc In The Road |
 
 
 ## Apple Music

@@ -52,18 +52,18 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Carousels | 4:50 |
-| A2 | I Will Not Hide | 4:15 |
-| A3 | Broken Eyes | 4:15 |
-| A4 | For Tomorrow | 5:28 |
-| A5 | Cathedrals Of The Mind | 5:20 |
-| B1 | Prisoners | 4:27 |
-| B2 | Cycle Of Hurt | 4:15 |
-| B3 | Mother Silverlake | 5:13 |
-| B4 | Universal Want | 5:21 |
-| B5 | Forest House | 3:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Carousels |
+| A2 | I Will Not Hide |
+| A3 | Broken Eyes |
+| A4 | For Tomorrow |
+| A5 | Cathedrals Of The Mind |
+| B1 | Prisoners |
+| B2 | Cycle Of Hurt |
+| B3 | Mother Silverlake |
+| B4 | Universal Want |
+| B5 | Forest House |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Virgin |
 | Catalog Number | VY 3248 |
-| Notes | Includes download code. Some copies signed by the band in gold marker.<br><br>Made in the Czech Republic. |
+| Notes | Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic. |
 | Discogs URL    | [Doves - The Universal Want](https://www.discogs.com/release/15898397-Doves-The-Universal-Want) |

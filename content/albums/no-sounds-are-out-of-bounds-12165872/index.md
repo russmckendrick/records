@@ -37,20 +37,20 @@ No Sounds Are Out of Bounds is the fifteenth studio album by English ambient hou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The End Of The End |  |
-| A2 | Wish I Had A Pretty Dog |  |
-| A3 | Rush Hill Road |  |
-| A4 | Pillow Fight @ Shag Mountain |  |
-| B1 | Isle Of Horns |  |
-| B2 | Wolfbane |  |
-| B3 | Other Blue Worlds |  |
-| C1 | Doughnuts Forever |  |
-| C2 | Drift |  |
-| C3 | Easy On The Onions |  |
-| C4 | Ununited States |  |
-| D1 | Soul Planet |  |
+| Position | Title |
+|----------|--------|
+| A1 | The End Of The End |
+| A2 | Wish I Had A Pretty Dog |
+| A3 | Rush Hill Road |
+| A4 | Pillow Fight @ Shag Mountain |
+| B1 | Isle Of Horns |
+| B2 | Wolfbane |
+| B3 | Other Blue Worlds |
+| C1 | Doughnuts Forever |
+| C2 | Drift |
+| C3 | Easy On The Onions |
+| C4 | Ununited States |
+| D1 | Soul Planet |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ No Sounds Are Out of Bounds is the fifteenth studio album by English ambient hou
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP711 |
-| Notes | Indie Exclusive <br>Limited to 500<br><br>Includes a download code.<br><br>A: 22:25 / B: 17:22 / C: 15:23 / D:15:09<br>Total Length: 70:09<br><br> |
+| Notes | Indie Exclusive  Limited to 500  Includes a download code.  A: 22:25 / B: 17:22 / C: 15:23 / D:15:09 Total Length: 70:09   |
 | Discogs URL    | [The Orb - No Sounds Are Out Of Bounds](https://www.discogs.com/release/12165872-The-Orb-No-Sounds-Are-Out-Of-Bounds) |

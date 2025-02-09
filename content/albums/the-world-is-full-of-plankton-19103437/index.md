@@ -28,11 +28,11 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The World Is Full Of Plankton | 7:58 |
-| B1 | All Is Harvest | 6:39 |
-| B2 | The Emptiness Of Nothingness | 6:17 |
+| Position | Title |
+|----------|--------|
+| A1 | The World Is Full Of Plankton |
+| B1 | All Is Harvest |
+| B2 | The Emptiness Of Nothingness |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 | Format         | Vinyl 10" 33 ⅓ RPM EP Record Store Day Limited Edition Numbered |
 | Label          | fsoldigital.com |
 | Catalog Number | 10RSDAA1 |
-| Notes | RSD 2021 release. Limited to 1000 machine-numbered copies worldwide.<br><br>Taken from the album [url=https://www.discogs.com/The-Future-Sound-Of-London-Present-The-Amorphous-Androgynous-Alice-In-Ultraland/master/23561]Alice In Ultraland[/url] |
+| Notes | RSD 2021 release. Limited to 1000 machine-numbered copies worldwide.  Taken from the album [url=https://www.discogs.com/The-Future-Sound-Of-London-Present-The-Amorphous-Androgynous-Alice-In-Ultraland/master/23561]Alice In Ultraland[/url] |
 | Discogs URL    | [Amorphous Androgynous - The World Is Full Of Plankton](https://www.discogs.com/release/19103437-The-Amorphous-Androgynous-The-World-Is-Full-Of-Plankton) |

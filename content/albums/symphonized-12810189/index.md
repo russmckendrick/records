@@ -25,30 +25,30 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feel Alive |  |
-| A2 | Amity |  |
-| A3 | Your Glorious Light Will Shine - Helsinki |  |
-| B1 | Two Souls |  |
-| B2 | When I Am Laid In Earth |  |
-| B3 | Travel |  |
-| C1 | Zo Lief |  |
-| C2 | You Will Never Change |  |
-| C3 | Freedom - Rio |  |
-| D1 | Forgotten |  |
-| D2 | Shores Of India |  |
-| CD-1 | Feel Alive | 3:34 |
-| CD-2 | Amity | 6:48 |
-| CD-3 | Your Glorious Light Will Shine - Helsinki | 5:22 |
-| CD-4 | Two Souls | 3:01 |
-| CD-5 | When I Am Laid In Earth | 3:47 |
-| CD-6 | Travel | 10:46 |
-| CD-7 | Zo Lief | 4:05 |
-| CD-8 | You Will Never Change | 4:18 |
-| CD-9 | Freedom - Rio | 6:13 |
-| CD-10 | Forgotten | 4:42 |
-| CD-11 | Shores Of India | 7:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Feel Alive |
+| A2 | Amity |
+| A3 | Your Glorious Light Will Shine - Helsinki |
+| B1 | Two Souls |
+| B2 | When I Am Laid In Earth |
+| B3 | Travel |
+| C1 | Zo Lief |
+| C2 | You Will Never Change |
+| C3 | Freedom - Rio |
+| D1 | Forgotten |
+| D2 | Shores Of India |
+| CD-1 | Feel Alive |
+| CD-2 | Amity |
+| CD-3 | Your Glorious Light Will Shine - Helsinki |
+| CD-4 | Two Souls |
+| CD-5 | When I Am Laid In Earth |
+| CD-6 | Travel |
+| CD-7 | Zo Lief |
+| CD-8 | You Will Never Change |
+| CD-9 | Freedom - Rio |
+| CD-10 | Forgotten |
+| CD-11 | Shores Of India |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: []
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 520 |
-| Notes | Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.<br><br>180 gr. vinyl in gatefold sleeve with insert. |
+| Notes | Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.  180 gr. vinyl in gatefold sleeve with insert. |
 | Discogs URL    | [Anneke van Giersbergen - Symphonized](https://www.discogs.com/release/12810189-Anneke-van-Giersbergen-with-Residentie-Orkest-The-Hague-Symphonized) |

@@ -38,20 +38,20 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | When We Were Young |  |
-| A2 | Déjà Vu |  |
-| A3 | The Last Refugee |  |
-| B4 | Picture That |  |
-| B5 | Broken Bones |  |
-| C6 | Is This The Life We Really Want? |  |
-| C7 | Bird In A Gale |  |
-| C8 | The Most Beautiful Girl |  |
-| D9 | Smell The Roses |  |
-| D10 | Wait For Her |  |
-| D11 | Oceans Apart |  |
-| D12 | Part Of Me Died |  |
+| Position | Title |
+|----------|--------|
+| A1 | When We Were Young |
+| A2 | Déjà Vu |
+| A3 | The Last Refugee |
+| B4 | Picture That |
+| B5 | Broken Bones |
+| C6 | Is This The Life We Really Want? |
+| C7 | Bird In A Gale |
+| C8 | The Most Beautiful Girl |
+| D9 | Smell The Roses |
+| D10 | Wait For Her |
+| D11 | Oceans Apart |
+| D12 | Part Of Me Died |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 | Format         | Vinyl 2× LP Album Stereo (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88985 43649 1 |
-| Notes | Comes in a gatefold cover, inner sleeves with lyrics.<br>Download code included.<br><br>Parental Advisory<br>Explicit Content<br>Strong Language<br><br>Back cover:<br>© 2017 Jule Pond Productions LLC / ℗ 2017 The copyright in this sound recording is owned by Jule Pond Productions LLC, under exclusive license to Columbia Records, <br>a Division of Sony Music Entertainment. / Distributed by Columbia Records, a Division of Sony Music Entertainment / Sony Music Entertainment International Services GmbH,<br>PO Box 510, 33311 Gütersloh, Germany. / “Columbia” and [Columbia logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada. / All Rights Reserved. / Made in the EU. / LC00162<br><br>Gatefold interior:<br>The lyrics for 'Wait For Her' were written by Roger Waters and inspired by an English translation by an unknown author of Lesson from the Kama Sutra (Wait For Her) by Mahmoud Darwish<br><br>Runouts are etched |
+| Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included.  Parental Advisory Explicit Content Strong Language  Back cover: © 2017 Jule Pond Productions LLC / ℗ 2017 The copyright in this sound recording is owned by Jule Pond Productions LLC, under exclusive license to Columbia Records,  a Division of Sony Music Entertainment. / Distributed by Columbia Records, a Division of Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / “Columbia” and [Columbia logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada. / All Rights Reserved. / Made in the EU. / LC00162  Gatefold interior: The lyrics for 'Wait For Her' were written by Roger Waters and inspired by an English translation by an unknown author of Lesson from the Kama Sutra (Wait For Her) by Mahmoud Darwish  Runouts are etched |
 | Discogs URL    | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/10364702-Roger-Waters-Is-This-The-Life-We-Really-Want) |

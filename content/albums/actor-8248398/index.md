@@ -31,19 +31,19 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Strangers | 4:04 |
-| A2 | Save Me From What I Want | 3:35 |
-| A3 | The Neighbors | 3:30 |
-| A4 | Actor Out Of Work | 2:15 |
-| A5 | Black Rainbow | 4:11 |
-| A6 | The Sequel | 1:53 |
-| B1 | Laughing With A Mouth Of Blood | 3:01 |
-| B2 | Marrow | 3:24 |
-| B3 | The Bed | 3:43 |
-| B4 | The Party | 4:05 |
-| B5 | Just The Same But Brand New | 5:24 |
+| Position | Title |
+|----------|--------|
+| A1 | The Strangers |
+| A2 | Save Me From What I Want |
+| A3 | The Neighbors |
+| A4 | Actor Out Of Work |
+| A5 | Black Rainbow |
+| A6 | The Sequel |
+| B1 | Laughing With A Mouth Of Blood |
+| B2 | Marrow |
+| B3 | The Bed |
+| B4 | The Party |
+| B5 | Just The Same But Brand New |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 | Format         | Vinyl LP Album Reissue |
 | Label          | 4AD |
 | Catalog Number | none |
-| Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.<br><br>Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas<br>Mastered at Sterlingsound, NYC<br><br>Runout information is stamped.<br><br>Shrink wrap has hype sticker on rear: 'Made in Czech Republic' <br><br>For thank yous & additional credits - ILOVESTVINCENT.COM<br><br>MP3 album download included with purchase. |
+| Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.  Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas Mastered at Sterlingsound, NYC  Runout information is stamped.  Shrink wrap has hype sticker on rear: 'Made in Czech Republic'   For thank yous & additional credits - ILOVESTVINCENT.COM  MP3 album download included with purchase. |
 | Discogs URL    | [St Vincent - Actor](https://www.discogs.com/release/8248398-St-Vincent-Actor) |

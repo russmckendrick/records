@@ -35,20 +35,20 @@ The cover artwork is a reference to Happy Days, a play by Samuel Beckett, whose 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Church Of Noise |  |
-| A2 | Tightrope Walker |  |
-| A3 | Black Eye Purple Sky |  |
-| A4 | Lonely, Cryin', Only. |  |
-| A5 | Born Too Soon |  |
-| A6 | Stay Happy. |  |
-| B1 | Safe |  |
-| B2 | Straight Life |  |
-| B3 | Heaven's Gate. |  |
-| B4 | Don't Expect Roses. |  |
-| B5 | Tramline |  |
-| B6 | The Boy's Asleep |  |
+| Position | Title |
+|----------|--------|
+| A1 | Church Of Noise |
+| A2 | Tightrope Walker |
+| A3 | Black Eye Purple Sky |
+| A4 | Lonely, Cryin', Only. |
+| A5 | Born Too Soon |
+| A6 | Stay Happy. |
+| B1 | Safe |
+| B2 | Straight Life |
+| B3 | Heaven's Gate. |
+| B4 | Don't Expect Roses. |
+| B5 | Tramline |
+| B6 | The Boy's Asleep |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The cover artwork is a reference to Happy Days, a play by Samuel Beckett, whose 
 | Format         | Vinyl LP Album Reissue (Yellow And Black Marbled, 180 Gram, 25th Anniversary Edition) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3567 |
-| Notes | Premier vinyl LP version of this album.<br>Upon original release in 1998, it was never released on LP, the only vinyl version being the multi-7" box set, see [r=970042].<br><br>25th anniversary edition on coloured heavyweight opaque vinyl.<br>Matte sleeve. Disc held in a polylined die cut white paper inner sleeve.<br>Includes a 12" square matte paper insert, printed on both sides.<br>The packing did not come shrink-wrapped, rather in a resealable polypropylene cover. Affixed to this is a bronze/gold hype sticker.<br><br>Runouts are etched.<br><br>Track A3 is listed as "Black Eye Purple Sky" on cover and label but is printed "Black Eye, Purple Sky" on lyric sheet.<br><br>Made in the Netherlands. |
+| Notes | Premier vinyl LP version of this album. Upon original release in 1998, it was never released on LP, the only vinyl version being the multi-7" box set, see [r=970042].  25th anniversary edition on coloured heavyweight opaque vinyl. Matte sleeve. Disc held in a polylined die cut white paper inner sleeve. Includes a 12" square matte paper insert, printed on both sides. The packing did not come shrink-wrapped, rather in a resealable polypropylene cover. Affixed to this is a bronze/gold hype sticker.  Runouts are etched.  Track A3 is listed as "Black Eye Purple Sky" on cover and label but is printed "Black Eye, Purple Sky" on lyric sheet.  Made in the Netherlands. |
 | Discogs URL    | [Therapy - Semi-Detached](https://www.discogs.com/release/28696462-Therapy-Semi-Detached) |

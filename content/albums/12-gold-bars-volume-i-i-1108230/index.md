@@ -35,32 +35,32 @@ styles: ["Blues Rock", "Rock & Roll", "Pop Rock", "Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rockin' All Over The World | 3:37 |
-| A2 | Down Down | 3:53 |
-| A3 | Caroline | 3:46 |
-| A4 | Paper Plane | 2:56 |
-| A5 | Break The Rules | 3:37 |
-| A6 | Again & Again | 3:38 |
-| B1 | Mystery Song | 4:00 |
-| B2 | Roll Over Lay Down | 5:41 |
-| B3 | Rain | 4:35 |
-| B4 | Wild Side Of Life | 3:16 |
-| B5 | Whatever You Want | 4:03 |
-| B6 | Living On An Island | 3:54 |
-| C1 | What You're Proposin' | 4:08 |
-| C2 | Lies | 3:50 |
-| C3 | Something About You Baby I Like | 2:43 |
-| C4 | Don't Drive My Car | 4:09 |
-| C5 | Dear John | 3:08 |
-| C6 | Rock 'n' Roll | 3:58 |
-| D1 | Ol' Rag Blues | 2:46 |
-| D2 | Mess Of Blues | 3:15 |
-| D3 | Marguerita Time | 3:24 |
-| D4 | Going Down Town Tonight | 3:32 |
-| D5 | The Wanderer | 3:26 |
-| D6 | Caroline (Live At The N.E.C.) | 4:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Rockin' All Over The World |
+| A2 | Down Down |
+| A3 | Caroline |
+| A4 | Paper Plane |
+| A5 | Break The Rules |
+| A6 | Again & Again |
+| B1 | Mystery Song |
+| B2 | Roll Over Lay Down |
+| B3 | Rain |
+| B4 | Wild Side Of Life |
+| B5 | Whatever You Want |
+| B6 | Living On An Island |
+| C1 | What You're Proposin' |
+| C2 | Lies |
+| C3 | Something About You Baby I Like |
+| C4 | Don't Drive My Car |
+| C5 | Dear John |
+| C6 | Rock 'n' Roll |
+| D1 | Ol' Rag Blues |
+| D2 | Mess Of Blues |
+| D3 | Marguerita Time |
+| D4 | Going Down Town Tonight |
+| D5 | The Wanderer |
+| D6 | Caroline (Live At The N.E.C.) |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Blues Rock", "Rock & Roll", "Pop Rock", "Hard Rock"]
 | Format         | Vinyl 2× LP Compilation Stereo (Gatefold) |
 | Label          | Vertigo |
 | Catalog Number | QUOTV 2 |
-| Notes | Gatefold sleeve, 'Home Taping Is Killing Music'- inner sleeves.<br><br>This compilation consists of the previously released compilations [r=512955] and [r=3298835].<br><br>Album title appears on spine as '12 Gold Bars Volume Two (And One)'.<br><br>Disc 1 mastered at CTS Studios, Disc 2 mastered at Strawberry Mastering.<br><br>Runoutsa re stamped.<br><br>Titles on center labels:<br>'Twelve Gold Bars' (Disc 1)<br>'12 Gold Bars - Volume 2' (Disc 2)<br><br>Center labels also show catalog numbers 'QUO TV 1' (Disc 1) and 'QUOTV 2 (824 041-1)' (Disc 2).<br><br>(Approximate) track durations stated only on Disc 1. <br><br>Barcode also includes 824 041-1 catalog number, QUOTV 2 is printed on the sleeve rear, VERTIGO QUOTV 2 on the spine.  <br><br>A4 ℗ 1972<br>A3, B2 ℗ 1973 <br>A2, A5 ℗ 1974<br>B1, B3, B4 ℗ 1976<br>A1 ℗ 1977<br>A6 ℗ 1978<br>B5, B6 ℗ 1979<br><br>C1, C2, C4, C6 ℗ 1980<br>C3 ℗ 1981<br>C5, D6 ℗ 1982<br>D1 to D3 ℗ 1983<br>D4, D5 ℗ 1984<br><br>Disc 1: ℗ 1980 Phonogram Ltd.<br>Disc 2: ℗ 1984 Phonogram Ltd. (London)<br><br>Made in England |
+| Notes | Gatefold sleeve, 'Home Taping Is Killing Music'- inner sleeves.  This compilation consists of the previously released compilations [r=512955] and [r=3298835].  Album title appears on spine as '12 Gold Bars Volume Two (And One)'.  Disc 1 mastered at CTS Studios, Disc 2 mastered at Strawberry Mastering.  Runoutsa re stamped.  Titles on center labels: 'Twelve Gold Bars' (Disc 1) '12 Gold Bars - Volume 2' (Disc 2)  Center labels also show catalog numbers 'QUO TV 1' (Disc 1) and 'QUOTV 2 (824 041-1)' (Disc 2).  (Approximate) track durations stated only on Disc 1.   Barcode also includes 824 041-1 catalog number, QUOTV 2 is printed on the sleeve rear, VERTIGO QUOTV 2 on the spine.    A4 ℗ 1972 A3, B2 ℗ 1973  A2, A5 ℗ 1974 B1, B3, B4 ℗ 1976 A1 ℗ 1977 A6 ℗ 1978 B5, B6 ℗ 1979  C1, C2, C4, C6 ℗ 1980 C3 ℗ 1981 C5, D6 ℗ 1982 D1 to D3 ℗ 1983 D4, D5 ℗ 1984  Disc 1: ℗ 1980 Phonogram Ltd. Disc 2: ℗ 1984 Phonogram Ltd. (London)  Made in England |
 | Discogs URL    | [Status Quo - 12 Gold Bars Volume I+I](https://www.discogs.com/release/1108230-Status-Quo-12-Gold-Bars-Volume-II) |

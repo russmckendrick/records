@@ -47,21 +47,21 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lemon Of Pink | 4:40 |
-| A2 | The Lemon Of Pink II | 1:35 |
-| A3 | Tokyo | 3:43 |
-| A4 | Bonanza | 0:53 |
-| A5 | S Is For Evrysing | 3:32 |
-| A6 | Explanation Mark | 0:20 |
-| A7 | There Is No There | 3:37 |
-| B1 | Take Time | 3:37 |
-| B2 | Don't Even Sing About It | 4:10 |
-| B3 | The Future, Wouldn't That Be Nice | 3:16 |
-| B4 | A True Story Of A Story Of True Love | 4:25 |
-| B5 | That Right Ain't Shit | 2:48 |
-| B6 | P.S. | 0:56 |
+| Position | Title |
+|----------|--------|
+| A1 | The Lemon Of Pink |
+| A2 | The Lemon Of Pink II |
+| A3 | Tokyo |
+| A4 | Bonanza |
+| A5 | S Is For Evrysing |
+| A6 | Explanation Mark |
+| A7 | There Is No There |
+| B1 | Take Time |
+| B2 | Don't Even Sing About It |
+| B3 | The Future, Wouldn't That Be Nice |
+| B4 | A True Story Of A Story Of True Love |
+| B5 | That Right Ain't Shit |
+| B6 | P.S. |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 | Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR181-VMP |
-| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.<br><br>Record pressed on lemon-colored vinyl with hot pink splatter.<br><br>Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.<br><br>All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |
+| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.  Record pressed on lemon-colored vinyl with hot pink splatter.  Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.  All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |
 | Discogs URL    | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526-The-Books-The-Lemon-Of-Pink) |

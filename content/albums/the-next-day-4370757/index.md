@@ -44,42 +44,42 @@ The Next Day was praised by critics as Bowie's best work in decades; it was rank
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Next Day | 3:26 |
-| A2 | Dirty Boys | 2:58 |
-| A3 | The Stars (Are Out Tonight) | 3:57 |
-| A4 | Love Is Lost | 3:57 |
-| B1 | Where Are We Now? | 4:09 |
-| B2 | Valentine’s Day | 3:02 |
-| B3 | If You Can See Me | 3:12 |
-| B4 | I’d Rather Be High | 3:44 |
-| C1 | Boss Of Me | 4:09 |
-| C2 | Dancing Out In Space | 3:21 |
-| C3 | How Does The Grass Grow? | 4:34 |
-| C4 | (You Will) Set The World On Fire | 3:32 |
-| D1 | You Feel So Lonely You Could Die | 4:37 |
-| D2 | Heat | 4:25 |
-| D3 | So She | 2:31 |
-| D4 | Plan | 2:02 |
-| D5 | I'll Take You There | 2:41 |
-| CD-1 | The Next Day | 3:26 |
-| CD-2 | Dirty Boys | 2:58 |
-| CD-3 | The Stars (Are Out Tonight) | 3:57 |
-| CD-4 | Love Is Lost | 3:57 |
-| CD-5 | Where Are We Now? | 4:09 |
-| CD-6 | Valentine's Day | 3:02 |
-| CD-7 | If You Can See Me | 3:12 |
-| CD-8 | I'd Rather Be High | 3:44 |
-| CD-9 | Boss Of Me | 4:09 |
-| CD-10 | Dancing Out In Space | 3:21 |
-| CD-11 | How Does The Grass Grow? | 4:34 |
-| CD-12 | (You Will) Set The World On Fire | 3:32 |
-| CD-13 | You Feel So Lonely You Could Die | 4:37 |
-| CD-14 | Heat | 4:25 |
-| CD-15 | So She | 2:31 |
-| CD-16 | Plan | 2:02 |
-| CD-17 | I'll Take You There | 2:41 |
+| Position | Title |
+|----------|--------|
+| A1 | The Next Day |
+| A2 | Dirty Boys |
+| A3 | The Stars (Are Out Tonight) |
+| A4 | Love Is Lost |
+| B1 | Where Are We Now? |
+| B2 | Valentine’s Day |
+| B3 | If You Can See Me |
+| B4 | I’d Rather Be High |
+| C1 | Boss Of Me |
+| C2 | Dancing Out In Space |
+| C3 | How Does The Grass Grow? |
+| C4 | (You Will) Set The World On Fire |
+| D1 | You Feel So Lonely You Could Die |
+| D2 | Heat |
+| D3 | So She |
+| D4 | Plan |
+| D5 | I'll Take You There |
+| CD-1 | The Next Day |
+| CD-2 | Dirty Boys |
+| CD-3 | The Stars (Are Out Tonight) |
+| CD-4 | Love Is Lost |
+| CD-5 | Where Are We Now? |
+| CD-6 | Valentine's Day |
+| CD-7 | If You Can See Me |
+| CD-8 | I'd Rather Be High |
+| CD-9 | Boss Of Me |
+| CD-10 | Dancing Out In Space |
+| CD-11 | How Does The Grass Grow? |
+| CD-12 | (You Will) Set The World On Fire |
+| CD-13 | You Feel So Lonely You Could Die |
+| CD-14 | Heat |
+| CD-15 | So She |
+| CD-16 | Plan |
+| CD-17 | I'll Take You There |
 
 
 ## Apple Music
@@ -97,5 +97,5 @@ The Next Day was praised by critics as Bowie's best work in decades; it was rank
 | Format         | Vinyl 2× LP Album Stereo (180g), CD Album Promo Stereo |
 | Label          | ISO Records |
 | Catalog Number | 88765461861 |
-| Notes | Gatefold cover with printed inner sleeves with lyrics and credits.<br><br>Sticker on shrinkwrap: <br>David Bowie's First Album in 10 Years. Featuring 17 New Songs Including 'Where Are We Now?' and 'The Stars (Are Out Tonight)'. 180 Gram Vinyl. Also Contains a CD of the Complete Album. 88765461861<br><br>On back cover:<br>© & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment.<br><br>On CD: <br>© & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment. All rights reserved. BIEM/GEMA. LC 00162. Made in the EU. 88765 49048 2-Promo CD<br><br>Some marks from the plating like "3, 1, 1V┴, 1TX, 3||, 1+-" appear mirrored in the runouts. |
+| Notes | Gatefold cover with printed inner sleeves with lyrics and credits.  Sticker on shrinkwrap:  David Bowie's First Album in 10 Years. Featuring 17 New Songs Including 'Where Are We Now?' and 'The Stars (Are Out Tonight)'. 180 Gram Vinyl. Also Contains a CD of the Complete Album. 88765461861  On back cover: © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment.  On CD:  © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment. All rights reserved. BIEM/GEMA. LC 00162. Made in the EU. 88765 49048 2-Promo CD  Some marks from the plating like "3, 1, 1V┴, 1TX, 3||, 1+-" appear mirrored in the runouts. |
 | Discogs URL    | [David Bowie - The Next Day](https://www.discogs.com/release/4370757-David-Bowie-The-Next-Day) |

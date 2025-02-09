@@ -48,50 +48,50 @@ styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sparks Documentary Film Fanfare |  |
-| A2 | This Town Ain’t Big Enough For Both Of Us |  |
-| A3 | Fa La Fa Lee |  |
-| A4 | Slowboat |  |
-| A5 | Wonder Girl |  |
-| A6 | Girl From Germany |  |
-| A7 | Talent Is An Asset |  |
-| B8 | This Town Ain’t Big Enough For Both Of Us |  |
-| B9 | Amateur Hour |  |
-| B10  | Never Turn Your Back On Mother Earth |  |
-| B11 | Something For The Girl With Everything |  |
-| B12 | Get In The Swing |  |
-| B13 | Under The Table With Her |  |
-| B14 | Everybody's Stupid |  |
-| C15 | Those Mysteries |  |
-| C16 | La Dolce Vita |  |
-| C17 | Beat The Clock |  |
-| C18 | The Number One Song In Heaven (7" Version) |  |
-| D19 | When I'm With You |  |
-| D20 | Tips For Teens |  |
-| D21 | Angst In My Pants |  |
-| D22 | I Predict |  |
-| D23 | Cool Places |  |
-| D24 | I Wish I Looked A Little Better |  |
-| E25 | Change |  |
-| E26 | Music That You Can Dance To |  |
-| E27 | The Race For President |  |
-| E28 | When Do I Get To Sing ‘My Way’ |  |
-| E29 | Balls |  |
-| F30 | The Rhythm Thief |  |
-| F31 | My Baby’s Taking Me Home (Live In London 2018) |  |
-| F32 | Dick Around |  |
-| F33 | I Can’t Believe That You Would Fall For All The Crap In This Song |  |
-| G34 | Johnny Delusional |  |
-| G35 | Edith Piaf (Said It Better Than Me) |  |
-| G36 | All That |  |
-| G37 | The Number One Song In Heaven (Live 2012) |  |
-| H38 | Computer Girl |  |
-| H39 | Hospitality On Parade (Live At Fairfield Halls 1975) |  |
-| H40 | What The Hell Is It This Time? (Live In London 2018) |  |
-|  | ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018) |  |
-| H42 | Amateur Hour |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sparks Documentary Film Fanfare |
+| A2 | This Town Ain’t Big Enough For Both Of Us |
+| A3 | Fa La Fa Lee |
+| A4 | Slowboat |
+| A5 | Wonder Girl |
+| A6 | Girl From Germany |
+| A7 | Talent Is An Asset |
+| B8 | This Town Ain’t Big Enough For Both Of Us |
+| B9 | Amateur Hour |
+| B10  | Never Turn Your Back On Mother Earth |
+| B11 | Something For The Girl With Everything |
+| B12 | Get In The Swing |
+| B13 | Under The Table With Her |
+| B14 | Everybody's Stupid |
+| C15 | Those Mysteries |
+| C16 | La Dolce Vita |
+| C17 | Beat The Clock |
+| C18 | The Number One Song In Heaven (7" Version) |
+| D19 | When I'm With You |
+| D20 | Tips For Teens |
+| D21 | Angst In My Pants |
+| D22 | I Predict |
+| D23 | Cool Places |
+| D24 | I Wish I Looked A Little Better |
+| E25 | Change |
+| E26 | Music That You Can Dance To |
+| E27 | The Race For President |
+| E28 | When Do I Get To Sing ‘My Way’ |
+| E29 | Balls |
+| F30 | The Rhythm Thief |
+| F31 | My Baby’s Taking Me Home (Live In London 2018) |
+| F32 | Dick Around |
+| F33 | I Can’t Believe That You Would Fall For All The Crap In This Song |
+| G34 | Johnny Delusional |
+| G35 | Edith Piaf (Said It Better Than Me) |
+| G36 | All That |
+| G37 | The Number One Song In Heaven (Live 2012) |
+| H38 | Computer Girl |
+| H39 | Hospitality On Parade (Live At Fairfield Halls 1975) |
+| H40 | What The Hell Is It This Time? (Live In London 2018) |
+|  | ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018) |
+| H42 | Amateur Hour |
 
 
 ## Apple Music
@@ -108,5 +108,5 @@ styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 | Format         | Vinyl 4× LP Album Compilation (Pink Marble, 180 Gram) |
 | Label          | Waxwork Records |
 | Catalog Number | WW143 |
-| Notes | Issued on pink marble vinyl.<br>Gatefold sleeve with separate slots for all 4 discs with photos, sleeve notes and release credits.<br>8 page booklet with photos, track credits and film quotes.<br>11x17 movie poster.<br><br>Mastered [...] at d2 Mastering. Los Angeles, CA.<br>Mastered for vinyl at Bernie Grundman Mastering.<br><br>[Tracks]<br>- Tracks are listed sequentially on rear sleeve.<br>- Track A1, ℗2021 Sparks.<br>- Track A2 from [m=87082], ℗1997 Sparks.<br>- Track A3 to A5 from [m=92474] / [r=969486], ℗1972 Sparks.<br>- Track A6 from [m=87042] ℗1973 Sparks.<br>- Tracks A7 to B9 from [m=87047], ℗1974 Universal Music Operations Ltd.<br>- Tracks B10, B11 from [m=87068], ℗1974 Universal Music Operations Ltd.<br>- Tracks B12, B13 from [m=87057], ℗1974, 1975 Universal Music Operations Ltd.<br>- Track B14 from [m=87048], ℗1976 Universal Music Operations Ltd.<br>- Track C15 from [m=478556], ℗1977 Sparks.<br>- Tracks C16 to C18 from [m=87067]], ℗1979 Sparks / Giorgio Moroder Enterprises.<br>- Track D19 from [m=87069], ℗1980 Sparks / Giorgio Moroder Enterprises.<br>- Track D20 from [m=87076], ℗1981 Sparks / Giorgio Moroder Enterprises.<br>- Tracks D21, D22 from [m=87044], ℗1982 Sparks / Giorgio Moroder Enterprises.<br>- Tracks D23, D24 from [m=86620], ℗1983 Sparks / Giorgio Moroder Enterprises.<br>- Tracks E25, E26 from [m=87066], ℗1985, 1986 Curb Records, Inc.<br>- Track E27, ℗1999 Sparks.<br>- Track E28 from [m=87054], ℗1994 Sparks.<br>- Track E29 from [m=87045], ℗2000 Sparks.<br>- Track F30 from [m=87063], ℗2002 Sparks.<br>- Track F31, ℗2021 MRC II Distribution Company L.P.<br>- Track F32 from [m=87055], ℗2006 Sparks.<br>- Track F33 from [m=87052], ℗2008 Sparks.<br>- Track G34 from [m=844093], ℗2016 Domino Recording Co. Ltd.<br>- Track G35 from [m=1234306] ℗2017 BMG Rights Management (UK) Limited.<br>- Track G36 from [m=1764622] ℗2020 BMG Rights Management (UK) Limited.<br>- Track G37 from [m=1610895] ℗2012 SPARKS<br>- Track H38, ℗1967 Sparks.<br>- Track H39, ℗1974 Universal Music Operations Ltd.<br>- Tracks H40 to H42, ℗2021 MRC II Distribution Company L.P.<br><br> |
+| Notes | Issued on pink marble vinyl. Gatefold sleeve with separate slots for all 4 discs with photos, sleeve notes and release credits. 8 page booklet with photos, track credits and film quotes. 11x17 movie poster.  Mastered [...] at d2 Mastering. Los Angeles, CA. Mastered for vinyl at Bernie Grundman Mastering.  [Tracks] - Tracks are listed sequentially on rear sleeve. - Track A1, ℗2021 Sparks. - Track A2 from [m=87082], ℗1997 Sparks. - Track A3 to A5 from [m=92474] / [r=969486], ℗1972 Sparks. - Track A6 from [m=87042] ℗1973 Sparks. - Tracks A7 to B9 from [m=87047], ℗1974 Universal Music Operations Ltd. - Tracks B10, B11 from [m=87068], ℗1974 Universal Music Operations Ltd. - Tracks B12, B13 from [m=87057], ℗1974, 1975 Universal Music Operations Ltd. - Track B14 from [m=87048], ℗1976 Universal Music Operations Ltd. - Track C15 from [m=478556], ℗1977 Sparks. - Tracks C16 to C18 from [m=87067]], ℗1979 Sparks / Giorgio Moroder Enterprises. - Track D19 from [m=87069], ℗1980 Sparks / Giorgio Moroder Enterprises. - Track D20 from [m=87076], ℗1981 Sparks / Giorgio Moroder Enterprises. - Tracks D21, D22 from [m=87044], ℗1982 Sparks / Giorgio Moroder Enterprises. - Tracks D23, D24 from [m=86620], ℗1983 Sparks / Giorgio Moroder Enterprises. - Tracks E25, E26 from [m=87066], ℗1985, 1986 Curb Records, Inc. - Track E27, ℗1999 Sparks. - Track E28 from [m=87054], ℗1994 Sparks. - Track E29 from [m=87045], ℗2000 Sparks. - Track F30 from [m=87063], ℗2002 Sparks. - Track F31, ℗2021 MRC II Distribution Company L.P. - Track F32 from [m=87055], ℗2006 Sparks. - Track F33 from [m=87052], ℗2008 Sparks. - Track G34 from [m=844093], ℗2016 Domino Recording Co. Ltd. - Track G35 from [m=1234306] ℗2017 BMG Rights Management (UK) Limited. - Track G36 from [m=1764622] ℗2020 BMG Rights Management (UK) Limited. - Track G37 from [m=1610895] ℗2012 SPARKS - Track H38, ℗1967 Sparks. - Track H39, ℗1974 Universal Music Operations Ltd. - Tracks H40 to H42, ℗2021 MRC II Distribution Company L.P.   |
 | Discogs URL    | [Sparks - The Sparks Brothers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/22546391-Sparks-The-Sparks-Brothers-Original-Motion-Picture-Soundtrack) |

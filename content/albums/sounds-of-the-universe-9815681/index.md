@@ -39,22 +39,22 @@ The album was released by Virgin Records and Capitol Records in the United State
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In Chains |  |
-| A2 | Hole To Feed |  |
-| A3 | Wrong |  |
-| B1 | Fragile Tension |  |
-| B2 | Little Soul |  |
-| B3 | In Sympathy |  |
-| C1 | Peace |  |
-| C2 | Come Back |  |
-| C3 | Spacewalker |  |
-| C4 | Perfect |  |
-| D1 | Miles Away / The Truth Is |  |
-| D2 | Jezebel |  |
-| D3 | Corrupt |  |
-| D4 | Untitled |  |
+| Position | Title |
+|----------|--------|
+| A1 | In Chains |
+| A2 | Hole To Feed |
+| A3 | Wrong |
+| B1 | Fragile Tension |
+| B2 | Little Soul |
+| B3 | In Sympathy |
+| C1 | Peace |
+| C2 | Come Back |
+| C3 | Spacewalker |
+| C4 | Perfect |
+| D1 | Miles Away / The Truth Is |
+| D2 | Jezebel |
+| D3 | Corrupt |
+| D4 | Untitled |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The album was released by Virgin Records and Capitol Records in the United State
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985337031 |
-| Notes | ℗ 2009 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International Ltd.<br>© 2009, 2016 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International Ltd.<br>Distributed by Sony Music<br>Entertainment. / All trademarks<br>and logos are protected. / Made<br>in the EU. / Sony Music<br>Entertainment International<br>Services GmbH, PO Box 510, 33311<br>Gütersloh , Germany.  / LC 05834<br>88985337031<br><br>Gatefold sleeve. 180 gram. |
+| Notes | ℗ 2009 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2009, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh , Germany.  / LC 05834 88985337031  Gatefold sleeve. 180 gram. |
 | Discogs URL    | [Depeche Mode - Sounds Of The Universe](https://www.discogs.com/release/9815681-Depeche-Mode-Sounds-Of-The-Universe) |

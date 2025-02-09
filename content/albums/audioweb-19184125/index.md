@@ -28,18 +28,18 @@ The album was produced by Kevin Bacon and Jonathan Quarmby with additional produ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sleeper | 5:15 |
-| A2 | Yeah? | 4:00 |
-| A3 | Into My World | 4:20 |
-| A4 | Faker | 4:26 |
-| A5 | Who's To Blame | 4:05 |
-| B1 | Time | 4:18 |
-| B2 | Jah Love | 3:58 |
-| B3 | Bankrobber | 3:40 |
-| B4 | Lover | 4:30 |
-| B5 | Drip Feed | 8:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Sleeper |
+| A2 | Yeah? |
+| A3 | Into My World |
+| A4 | Faker |
+| A5 | Who's To Blame |
+| B1 | Time |
+| B2 | Jah Love |
+| B3 | Bankrobber |
+| B4 | Lover |
+| B5 | Drip Feed |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ The album was produced by Kevin Bacon and Jonathan Quarmby with additional produ
 | Format         | Vinyl LP Album Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC897 |
-| Notes | About this release<br>This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.<br><br>This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.<br><br> |
+| Notes | About this release This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.  This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.   |
 | Discogs URL    | [Audioweb - Audioweb](https://www.discogs.com/release/19184125-Audioweb-Audioweb) |

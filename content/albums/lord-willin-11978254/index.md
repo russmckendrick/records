@@ -51,24 +51,24 @@ Not long after the release of <i>Lord Willin’</i>, the Clipse turned up on the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 2:16 |
-| A2 | Young Boy | 4:25 |
-| A3 | Virginia | 3:57 |
-| A4 | Grindin' | 4:24 |
-| B1 | Cot Damn | 5:01 |
-| B2 | Ma, I Don't Love Her | 4:17 |
-| B3 | FamLay Freestyle | 1:57 |
-| B4 | When The Last Time | 4:14 |
-| C1 | Ego | 2:48 |
-| C2 | Comedy Central | 4:33 |
-| C3 | Let's Talk About It | 5:10 |
-| C4 | Gangsta Lean | 5:20 |
-| D1 | I'm Not You | 4:18 |
-|  | Bonus Tracks |  |
-| D2 | Grindin' (Remix) | 4:17 |
-| D3 | Grindin' (Selector Remix) | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Young Boy |
+| A3 | Virginia |
+| A4 | Grindin' |
+| B1 | Cot Damn |
+| B2 | Ma, I Don't Love Her |
+| B3 | FamLay Freestyle |
+| B4 | When The Last Time |
+| C1 | Ego |
+| C2 | Comedy Central |
+| C3 | Let's Talk About It |
+| C4 | Gangsta Lean |
+| D1 | I'm Not You |
+|  | Bonus Tracks |
+| D2 | Grindin' (Remix) |
+| D3 | Grindin' (Selector Remix) |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ Not long after the release of <i>Lord Willin’</i>, the Clipse turned up on the
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue (Green [Emerald]) |
 | Label          | Star Trak Entertainment |
 | Catalog Number | VMP-E065 |
-| Notes | Comes with an obi strip. <br>Each LP housed in custom inner sleeves.<br>Includes an art print.<br><br>Sticker:<br>Sourced From the Original Masters<br>2LP Emerald Vinyl<br>Heavyweight Gatefold Tip-On Jacket<br><br>Track durations taken from LP labels. They differ slightly from the ones listed on the rear cover.<br><br>Mastered [...] at Sterling Sound, NYC<br><br>© 2002, 2018 Arista Records LLC / ℗ 2002 Arista Records LLC / Manufactured for Vinyl Me, Please by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601<br><br>On inner sleeve: ℗ 2001 Arista Records, Inc.<br><br>A1, A2, A3, A4, B1, B2, B4, C1, C4<br>Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)<br><br>B3<br>Published by FamLay Publishing/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)<br><br>C2<br>Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./D. Brasco Music (ASCAP)/Desert Storm Music (BMI)<br><br>C3<br>Published by EMI-April Music, Inc. o/b/o itself & So So Def Music/GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)<br>Recorded [...] at Patchwerk Recording Studios, Atlanta, GA<br>Mixed [...] at SouthSide Studios, Atlanta, GA<br>℗ 2001 A Joint Venture between Sony Music Entertainment Inc. & So So Def Recordings Inc.<br><br>D1<br>Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Jaewon's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc./Paniro's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc. (ASCAP)<br><br>D2<br>Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)/Off Da Yelzabulb/Money Mack/Money Mack (BMI)<br><br>D3<br>Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Dutty Rock Music (ASCAP)/One Man Music/Bless Publishing Designee<br><br>All Songs Recorded at MasterSound & Windmark Studios, Virginia Beach, VA • Except "Grindin'," Recorded at Star Trak Studios, Virginia Beach, VA & "Cot Damn," Recorded at Silent Sound Studios, Atlanta, GA (& where noted) • All Songs Engineered [...] at MasterSound & Windmark Studios, Virginia Beach, VA • All Songs Mixed by Phil Tan at Silent Sound Studios, Atlanta GA (Except where noted) |
+| Notes | Comes with an obi strip.  Each LP housed in custom inner sleeves. Includes an art print.  Sticker: Sourced From the Original Masters 2LP Emerald Vinyl Heavyweight Gatefold Tip-On Jacket  Track durations taken from LP labels. They differ slightly from the ones listed on the rear cover.  Mastered [...] at Sterling Sound, NYC  © 2002, 2018 Arista Records LLC / ℗ 2002 Arista Records LLC / Manufactured for Vinyl Me, Please by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On inner sleeve: ℗ 2001 Arista Records, Inc.  A1, A2, A3, A4, B1, B2, B4, C1, C4 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  B3 Published by FamLay Publishing/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)  C2 Published by GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./D. Brasco Music (ASCAP)/Desert Storm Music (BMI)  C3 Published by EMI-April Music, Inc. o/b/o itself & So So Def Music/GenMarc Publishing/Terrardome Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP) Recorded [...] at Patchwerk Recording Studios, Atlanta, GA Mixed [...] at SouthSide Studios, Atlanta, GA ℗ 2001 A Joint Venture between Sony Music Entertainment Inc. & So So Def Recordings Inc.  D1 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Jaewon's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc./Paniro's Publishing/Justin Combs Publishing, adm. by EMI-April Music, Inc. (ASCAP)  D2 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc. (ASCAP)/Off Da Yelzabulb/Money Mack/Money Mack (BMI)  D3 Published by Terrardome Music/GenMarc Publishing (ASCAP)/Waters Of Nazareth Publishing/EMI-Blackwood Music Inc. (BMI)/Chase Chad Music/EMI-April Music, Inc./Dutty Rock Music (ASCAP)/One Man Music/Bless Publishing Designee  All Songs Recorded at MasterSound & Windmark Studios, Virginia Beach, VA • Except "Grindin'," Recorded at Star Trak Studios, Virginia Beach, VA & "Cot Damn," Recorded at Silent Sound Studios, Atlanta, GA (& where noted) • All Songs Engineered [...] at MasterSound & Windmark Studios, Virginia Beach, VA • All Songs Mixed by Phil Tan at Silent Sound Studios, Atlanta GA (Except where noted) |
 | Discogs URL    | [Clipse - Lord Willin'](https://www.discogs.com/release/11978254-Clipse-Lord-Willin) |

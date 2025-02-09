@@ -33,19 +33,19 @@ Shame is the debut studio album by the American rock band Brad. It was released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Buttercup | 4:14 |
-| A2 | My Fingers | 3:20 |
-| A3 | Nadine | 3:32 |
-| A4 | Screen | 5:12 |
-| A5 | 20th Century | 4:02 |
-| B1 | Good News | 4:24 |
-| B2 | Raise Love | 4:14 |
-| B3 | Bad For The Soul | 1:11 |
-| B4 | Down | 4:18 |
-| B5 | Rockstar | 2:48 |
-| B6 | We | 5:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Buttercup |
+| A2 | My Fingers |
+| A3 | Nadine |
+| A4 | Screen |
+| A5 | 20th Century |
+| B1 | Good News |
+| B2 | Raise Love |
+| B3 | Bad For The Soul |
+| B4 | Down |
+| B5 | Rockstar |
+| B6 | We |
 
 
 ## Apple Music

@@ -36,16 +36,16 @@ Superfuzz Bigmuff is the debut album and first major release by the Seattle grun
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Here |  |
-| A1 | Touch Me I'm Sick |  |
-| A2 | Chain That Door |  |
-| A3 | Mudride |  |
-|  | There |  |
-| B1 | No One Has |  |
-| B2 | If I Think |  |
-| B3 | In 'N' Out Of Grace |  |
+| Position | Title |
+|----------|--------|
+|  | Here |
+| A1 | Touch Me I'm Sick |
+| A2 | Chain That Door |
+| A3 | Mudride |
+|  | There |
+| B1 | No One Has |
+| B2 | If I Think |
+| B3 | In 'N' Out Of Grace |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Superfuzz Bigmuff is the debut album and first major release by the Seattle grun
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Glitterhouse Records |
 | Catalog Number | GR 0034 |
-| Notes | Recorded at Reciprocal.<br><br>Manufactured under license from Sub Pop Records, USA.<br><br>Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".<br><br>The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.<br> |
+| Notes | Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.  |
 | Discogs URL    | [Mudhoney - Superfuzz Bigmuff](https://www.discogs.com/release/461149-Mudhoney-Superfuzz-Bigmuff) |

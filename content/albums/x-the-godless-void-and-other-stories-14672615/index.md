@@ -32,32 +32,32 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Opening Crescendo |  |
-| A2 | All Who Wander |  |
-| A3 | Something Like This |  |
-| A4 | Into The Godless Void |  |
-| A5 | Don't Look Down |  |
-| A6 | Gone |  |
-| B1 | Children Of The Sky |  |
-| B2 | Who Haunts The Haunter |  |
-| B3 | Eyes Of The Overworld |  |
-| B4 | Gravity |  |
-| B5 | Blade Of Wind |  |
-| B6 | Through The Sunlit Door |  |
-| CD-1 | The Opening Crescendo |  |
-| CD-2 | All Who Wander |  |
-| CD-3 | Something Like This |  |
-| CD-4 | Into The Godless Void |  |
-| CD-5 | Don't Look Down |  |
-| CD-6 | Gone |  |
-| CD-7 | Children Of The Sky |  |
-| CD-8 | Who Haunts The Haunter |  |
-| CD-9 | Eyes Of The Overworld |  |
-| CD-10 | Gravity |  |
-| CD-11 | Blade Of Wind |  |
-| CD-12 | Through The Sunlit Door |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Opening Crescendo |
+| A2 | All Who Wander |
+| A3 | Something Like This |
+| A4 | Into The Godless Void |
+| A5 | Don't Look Down |
+| A6 | Gone |
+| B1 | Children Of The Sky |
+| B2 | Who Haunts The Haunter |
+| B3 | Eyes Of The Overworld |
+| B4 | Gravity |
+| B5 | Blade Of Wind |
+| B6 | Through The Sunlit Door |
+| CD-1 | The Opening Crescendo |
+| CD-2 | All Who Wander |
+| CD-3 | Something Like This |
+| CD-4 | Into The Godless Void |
+| CD-5 | Don't Look Down |
+| CD-6 | Gone |
+| CD-7 | Children Of The Sky |
+| CD-8 | Who Haunts The Haunter |
+| CD-9 | Eyes Of The Overworld |
+| CD-10 | Gravity |
+| CD-11 | Blade Of Wind |
+| CD-12 | Through The Sunlit Door |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 | Format         | Vinyl LP Album (Clear), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 533 |
-| Notes | Limited clear vinyl edition.<br>Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics.<br>180g vinyl. Made in the EU. |
+| Notes | Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU. |
 | Discogs URL    | [And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615-And-You-Will-Know-Us-By-The-Trail-Of-Dead-X-The-Godless-Void-And-Other-Stories) |

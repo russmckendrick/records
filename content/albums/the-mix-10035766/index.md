@@ -41,19 +41,19 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Robots | 8:59 |
-| A2 | Computer Love | 6:39 |
-| B1 | Pocket Calculator | 4:32 |
-| B2 | Dentaku | 3:27 |
-| B3 | Autobahn | 9:28 |
-| C1 | Radioactivity | 6:53 |
-| C2 | Trans Europe Express | 3:20 |
-| C3 | Abzug | 2:18 |
-| C4 | Metal On Metal | 4:59 |
-| D1 | Home Computer | 8:03 |
-| D2 | Music Non Stop | 6:38 |
+| Position | Title |
+|----------|--------|
+| A1 | The Robots |
+| A2 | Computer Love |
+| B1 | Pocket Calculator |
+| B2 | Dentaku |
+| B3 | Autobahn |
+| C1 | Radioactivity |
+| C2 | Trans Europe Express |
+| C3 | Abzug |
+| C4 | Metal On Metal |
+| D1 | Home Computer |
+| D2 | Music Non Stop |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6605219 |
-| Notes | Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider<br><br>Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.<br><br>℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd. <br>© 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company.<br>Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover.  |
+| Notes | Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider  Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.  ℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd.  © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company. Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover.  |
 | Discogs URL    | [Kraftwerk - The Mix](https://www.discogs.com/release/10035766-Kraftwerk-The-Mix) |

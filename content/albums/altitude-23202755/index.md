@@ -38,30 +38,30 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side One  |  |
-| 1 | We're All Men |  |
-| 2 | Penelope Tree |  |
-| 3 | When The Winter Comes  |  |
-| 4 | Favourite Girl  |  |
-| 5 | Swim  |  |
-|  | Side Two  |  |
-| 1 | The Refuge Tree |  |
-| 2 | What You've Done  |  |
-| 3 | Second Swim  |  |
-| 4 | Girlfriend Guru |  |
-| 5 | Mandala  |  |
-|  | Side Three  |  |
-| 1 | I Decided To Fly  |  |
-| 2 | The Day You Were Born  |  |
-| 3 | Halfway Round The World  |  |
-| 4 | Many's The Time  |  |
-|  | Side Four  |  |
-| 1 | The Future Is Broken  |  |
-| 2 | Girlfriend Guru ( alt version) |  |
-| 3 | Mandala (alt version) |  |
-| 4 | The Glad Eyed Maid  |  |
+| Position | Title |
+|----------|--------|
+|  | Side One  |
+| 1 | We're All Men |
+| 2 | Penelope Tree |
+| 3 | When The Winter Comes  |
+| 4 | Favourite Girl  |
+| 5 | Swim  |
+|  | Side Two  |
+| 1 | The Refuge Tree |
+| 2 | What You've Done  |
+| 3 | Second Swim  |
+| 4 | Girlfriend Guru |
+| 5 | Mandala  |
+|  | Side Three  |
+| 1 | I Decided To Fly  |
+| 2 | The Day You Were Born  |
+| 3 | Halfway Round The World  |
+| 4 | Many's The Time  |
+|  | Side Four  |
+| 1 | The Future Is Broken  |
+| 2 | Girlfriend Guru ( alt version) |
+| 3 | Mandala (alt version) |
+| 4 | The Glad Eyed Maid  |
 
 
 ## Apple Music

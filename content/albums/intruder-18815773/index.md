@@ -38,21 +38,21 @@ Intruder is the nineteenth studio album by English musician Gary Numan, released
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Betrayed |  |
-| A2 | The Gift |  |
-| A3 | I Am Screaming |  |
-| A4 | Intruder |  |
-| B1 | Is This World Not Enough |  |
-| B2 | A Black Sun |  |
-| B3 | The Chosen |  |
-| C1 | And It Breaks Me Again |  |
-| C2 | Saints And Liars |  |
-| C3 | Now And Forever |  |
-| D1 | The End Of Dragons |  |
-| D2 | When You Fall  |  |
-| D3 | The End Of Dragons (Alt)  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Betrayed |
+| A2 | The Gift |
+| A3 | I Am Screaming |
+| A4 | Intruder |
+| B1 | Is This World Not Enough |
+| B2 | A Black Sun |
+| B3 | The Chosen |
+| C1 | And It Breaks Me Again |
+| C2 | Saints And Liars |
+| C3 | Now And Forever |
+| D1 | The End Of Dragons |
+| D2 | When You Fall  |
+| D3 | The End Of Dragons (Alt)  |
 
 
 ## Apple Music

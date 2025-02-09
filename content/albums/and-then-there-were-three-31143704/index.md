@@ -29,19 +29,19 @@ The album received mixed reviews from critics, but reached No. 3 on the UK Alb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Down And Out |  |
-| A2 | Undertow |  |
-| A3 | Ballad Of Big |  |
-| A4 | Snowbound |  |
-| A5 | Burning Rope |  |
-| B1 | Deep In The Motherlode |  |
-| B2 | Many Too Many |  |
-| B3 | Scenes From A Night's Dream |  |
-| B4 | Say It's Alright Joe |  |
-| B5 | The Lady Lies |  |
-| B6 | Follow You Follow Me |  |
+| Position | Title |
+|----------|--------|
+| A1 | Down And Out |
+| A2 | Undertow |
+| A3 | Ballad Of Big |
+| A4 | Snowbound |
+| A5 | Burning Rope |
+| B1 | Deep In The Motherlode |
+| B2 | Many Too Many |
+| B3 | Scenes From A Night's Dream |
+| B4 | Say It's Alright Joe |
+| B5 | The Lady Lies |
+| B6 | Follow You Follow Me |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The album received mixed reviews from critics, but reached No. 3 on the UK Alb
 | Format         | Vinyl LP Album Limited Edition Reissue (Sea-Blue) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 188284 |
-| Notes | Rhino<br>Sounds Of The Summer<br>The 1978 Album<br>Featuring:<br>Follow You Follow Me<br>Many Too Many<br>Deep In The Motherlode<br>On Sea-Blue Vinyl |
+| Notes | Rhino Sounds Of The Summer The 1978 Album Featuring: Follow You Follow Me Many Too Many Deep In The Motherlode On Sea-Blue Vinyl |
 | Discogs URL    | [Genesis - ...And Then There Were Three...](https://www.discogs.com/release/31143704-Genesis-And-Then-There-Were-Three) |

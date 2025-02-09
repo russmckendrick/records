@@ -38,28 +38,28 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mantra Slider |  |
-| A2 | Firmament Vacation (A Soundtrack Of Our Lives) |  |
-| A3 | Underground Indian |  |
-| A4 | Chromosome Layer |  |
-| B1 | Instant Repeater '99 |  |
-| B2 | Embryonic Rendezvous |  |
-| B3 | Four Ages (Part II) |  |
-| B4 | Grand Canaria |  |
-| B5 | Endless Song |  |
-| C1 | Confrontation Camp |  |
-| C2 | Blow My Cool |  |
-| C3 | Senior Breakdown |  |
-| C4 | Bendover Babies |  |
-| C5 | The Homo Habilis Blues |  |
-| C6 | For Good |  |
-| D1 | Magic Muslims |  |
-| D2 | Rest In Piece |  |
-| D3 | Retro Man |  |
-| D4 | Theme From Hållö |  |
-| D5 | Legend In His Own Mind |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mantra Slider |
+| A2 | Firmament Vacation (A Soundtrack Of Our Lives) |
+| A3 | Underground Indian |
+| A4 | Chromosome Layer |
+| B1 | Instant Repeater '99 |
+| B2 | Embryonic Rendezvous |
+| B3 | Four Ages (Part II) |
+| B4 | Grand Canaria |
+| B5 | Endless Song |
+| C1 | Confrontation Camp |
+| C2 | Blow My Cool |
+| C3 | Senior Breakdown |
+| C4 | Bendover Babies |
+| C5 | The Homo Habilis Blues |
+| C6 | For Good |
+| D1 | Magic Muslims |
+| D2 | Rest In Piece |
+| D3 | Retro Man |
+| D4 | Theme From Hållö |
+| D5 | Legend In His Own Mind |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 | Format         | Vinyl 2× LP Album Reissue (Gold ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2645 |
-| Notes | Music On Vinyl<br>THE SOUNDTRACK OF OUR LIVES<br>”Welcome to The Infant Freebase”<br>Limited Edition of 1500 Gold Coloured Copies”<br>Individually numbered<br>Includes Insert<br>180 gram audiophile vinyl <br>Gatefold sleeve. |
+| Notes | Music On Vinyl THE SOUNDTRACK OF OUR LIVES ”Welcome to The Infant Freebase” Limited Edition of 1500 Gold Coloured Copies” Individually numbered Includes Insert 180 gram audiophile vinyl  Gatefold sleeve. |
 | Discogs URL    | [The Soundtrack Of Our Lives - Welcome To The Infant Freebase](https://www.discogs.com/release/15010459-The-Soundtrack-Of-Our-Lives-Welcome-To-The-Infant-Freebase) |

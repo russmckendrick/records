@@ -27,20 +27,20 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sweet Freedom | 4:04 |
-| A2 | (I'll Be Your) Angel | 3:48 |
-| A3 | Yah Mo B There | 4:29 |
-| A4 | I Gotta Try | 3:49 |
-| A5 | I Keep Forgettin' | 3:39 |
-| A6 | Our Love (Remix) | 4:18 |
-| B1 | On My Own | 4:39 |
-| B2 | No Lookin' Back | 3:54 |
-| B3 | Any Foolish Thing | 4:22 |
-| B4 | That's Why | 4:22 |
-| B5 | What A Fool Believes | 3:40 |
-| B6 | I Can Let Go Now | 2:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Sweet Freedom |
+| A2 | (I'll Be Your) Angel |
+| A3 | Yah Mo B There |
+| A4 | I Gotta Try |
+| A5 | I Keep Forgettin' |
+| A6 | Our Love (Remix) |
+| B1 | On My Own |
+| B2 | No Lookin' Back |
+| B3 | Any Foolish Thing |
+| B4 | That's Why |
+| B5 | What A Fool Believes |
+| B6 | I Can Let Go Now |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 | Format         | Vinyl LP Compilation Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 241 049-1 |
-| Notes | Manufactured in Germany<br>has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it<br><br>Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144] |
+| Notes | Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144] |
 | Discogs URL    | [Michael McDonald - Sweet Freedom (The Best Of Michael McDonald)](https://www.discogs.com/release/573351-Michael-McDonald-Sweet-Freedom-The-Best-Of-Michael-McDonald) |

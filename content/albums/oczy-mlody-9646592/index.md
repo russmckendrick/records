@@ -31,19 +31,19 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oczy Mlody |  |
-| A2 | How?? |  |
-| A3 | There Should Be Unicorns |  |
-| A4 | Sunrise (Eyes Of The Young) |  |
-| A5 | Nigdy Nie (Never No) |  |
-| A6 | Galaxy I Sink |  |
-| B1 | One Night While Hunting For Faeries And Witches And Wizards To Kill |  |
-| B2 | Do Glowy |  |
-| B3 | The Castle |  |
-| B4 | Almost Home (Blisko Domu) |  |
-| B5 | We A Famly |  |
+| Position | Title |
+|----------|--------|
+| A1 | Oczy Mlody |
+| A2 | How?? |
+| A3 | There Should Be Unicorns |
+| A4 | Sunrise (Eyes Of The Young) |
+| A5 | Nigdy Nie (Never No) |
+| A6 | Galaxy I Sink |
+| B1 | One Night While Hunting For Faeries And Witches And Wizards To Kill |
+| B2 | Do Glowy |
+| B3 | The Castle |
+| B4 | Almost Home (Blisko Domu) |
+| B5 | We A Famly |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA584V |
-| Notes | ℗ & © 2017 Bella Union under exclusive license to [PIAS].<br>© 2016 Lovely Sorts Of Death Music (BMI).<br><br>Recorded June 2012 - June 2016 at<br>Pink Floor Studios in Oklahoma City, Oklahoma<br>Tarbox Road Studios in Cassadaga, New York<br><br>[A=Miley Cyrus] appears courtesy of [L=RCA Records]<br>[A=Reggie Watts] appears courtesy of [L=Secretly Canadian]<br><br>Lyrics and credits on inner sleeve. Includes download coupon.<br><br>Runouts are etched. |
+| Notes | ℗ & © 2017 Bella Union under exclusive license to [PIAS]. © 2016 Lovely Sorts Of Death Music (BMI).  Recorded June 2012 - June 2016 at Pink Floor Studios in Oklahoma City, Oklahoma Tarbox Road Studios in Cassadaga, New York  [A=Miley Cyrus] appears courtesy of [L=RCA Records] [A=Reggie Watts] appears courtesy of [L=Secretly Canadian]  Lyrics and credits on inner sleeve. Includes download coupon.  Runouts are etched. |
 | Discogs URL    | [The Flaming Lips - Oczy Mlody](https://www.discogs.com/release/9646592-The-Flaming-Lips-Oczy-Mlody) |

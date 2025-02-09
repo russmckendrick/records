@@ -28,25 +28,25 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Liberty Print |  |
-| A2 | We're Going To Make It In A Man's World |  |
-| A3 | Big Love |  |
-| A4 | Only A Dream |  |
-| A5 | The Light Nights |  |
-| B1 | Sleepwalking |  |
-| B2 | Baby Huey (Hard Times) |  |
-| B3 | Denon |  |
-| B4 | Pop Goes Pop |  |
-| B5 | Sugar Almond |  |
-| B6 | Look To The East, Look To The West |  |
-|  | Look To The Demos |  |
-| 1 | Baby Huey (Hard Times) |  |
-| 2 | Denon |  |
-| 3 | Liberty Print |  |
-| 4 | Only A Dream |  |
-| 5 | The Light Nights |  |
+| Position | Title |
+|----------|--------|
+| A1 | Liberty Print |
+| A2 | We're Going To Make It In A Man's World |
+| A3 | Big Love |
+| A4 | Only A Dream |
+| A5 | The Light Nights |
+| B1 | Sleepwalking |
+| B2 | Baby Huey (Hard Times) |
+| B3 | Denon |
+| B4 | Pop Goes Pop |
+| B5 | Sugar Almond |
+| B6 | Look To The East, Look To The West |
+|  | Look To The Demos |
+| 1 | Baby Huey (Hard Times) |
+| 2 | Denon |
+| 3 | Liberty Print |
+| 4 | Only A Dream |
+| 5 | The Light Nights |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 | Format         | Vinyl LP Album Limited Edition Stereo (Opaque Violet), CD EP Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG839 |
-| Notes | Limited to 1500 copies<br><br>Sticker says:<br><br>ROUGH TRADE EXCLUSIVE<br>LIMITED EDITION<br>OPAQUE VIOLET VINYL<br>INCLUDES LOOK TO THE DEMOS<br>5-TRACK CD<br>MERGE RECORDS |
+| Notes | Limited to 1500 copies  Sticker says:  ROUGH TRADE EXCLUSIVE LIMITED EDITION OPAQUE VIOLET VINYL INCLUDES LOOK TO THE DEMOS 5-TRACK CD MERGE RECORDS |
 | Discogs URL    | [Camera Obscura - Look To The East, Look To The West](https://www.discogs.com/release/30581497-Camera-Obscura-Look-To-The-East-Look-To-The-West) |

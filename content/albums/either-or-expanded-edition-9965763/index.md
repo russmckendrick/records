@@ -68,29 +68,29 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speed Trials |  |
-| A2 | Alameda |  |
-| A3 | Ballad of Big Nothing |  |
-| A4 | Between the Bars |  |
-| A5 | Pictures of Me |  |
-| A6 | No Name No. 5 |  |
-| B1 | Rose Parade |  |
-| B2 | Punch and Judy |  |
-| B3 | Angeles |  |
-| B4 | Cupid's Trick |  |
-| B5 | 2:45 AM |  |
-| B6 | Say Yes |  |
-| C1 | My New Freedom (Live) |  |
-| C2 | Pictures of Me (Live) |  |
-| C3 | Angeles (Live) |  |
-| C4 | Some Song (Live) |  |
-| C5 | Rose Parade (Live) |  |
-| D1 | New Monkey (Keys) |  |
-| D2 | I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered) |  |
-| D3 | I Figured You Out |  |
-| D4 | Bottle Up and Explode! (Alternate Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Speed Trials |
+| A2 | Alameda |
+| A3 | Ballad of Big Nothing |
+| A4 | Between the Bars |
+| A5 | Pictures of Me |
+| A6 | No Name No. 5 |
+| B1 | Rose Parade |
+| B2 | Punch and Judy |
+| B3 | Angeles |
+| B4 | Cupid's Trick |
+| B5 | 2:45 AM |
+| B6 | Say Yes |
+| C1 | My New Freedom (Live) |
+| C2 | Pictures of Me (Live) |
+| C3 | Angeles (Live) |
+| C4 | Some Song (Live) |
+| C5 | Rose Parade (Live) |
+| D1 | New Monkey (Keys) |
+| D2 | I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered) |
+| D3 | I Figured You Out |
+| D4 | Bottle Up and Explode! (Alternate Version) |
 
 
 ## Apple Music
@@ -107,5 +107,5 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gatefold) |
 | Label          | Kill Rock Stars |
 | Catalog Number | KRS620 |
-| Notes | Includes a download card and OBI strip<br><br>Standard black vinyl version |
+| Notes | Includes a download card and OBI strip  Standard black vinyl version |
 | Discogs URL    | [Elliott Smith - Either / Or: Expanded Edition](https://www.discogs.com/release/9965763-Elliott-Smith-Either-Or-Expanded-Edition) |

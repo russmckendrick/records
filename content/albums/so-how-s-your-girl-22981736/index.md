@@ -34,24 +34,24 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rock N' Roll (Could Never Hip Hop Like This) | 4:21 |
-| A2 | Magnetizing | 6:10 |
-| A3 | Metaphysical | 3:25 |
-| B4 | Look At This Face (Oh My God They're Gorgeous) | 1:59 |
-| B5 | Waterworld | 5:22 |
-| B6 | Once Again (Here To Kick One For You) | 4:01 |
-| B7 | The Truth | 5:37 |
-| C8 | Holy Calamity (Bear Witness II) | 4:01 |
-| C9 | Calling The Biz | 0:49 |
-| C10 | The Projects (P Jays) | 4:29 |
-| C11 | Sunshine | 4:09 |
-| D12 | Modeling Sucks | 1:02 |
-| D13 | Torch Song Trilogy | 3:54 |
-| D14 | The Runway Song | 4:48 |
-| D15 | Megaton B-Boy 2000 | 4:57 |
-| D16 | Father Speaks | 1:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Rock N' Roll (Could Never Hip Hop Like This) |
+| A2 | Magnetizing |
+| A3 | Metaphysical |
+| B4 | Look At This Face (Oh My God They're Gorgeous) |
+| B5 | Waterworld |
+| B6 | Once Again (Here To Kick One For You) |
+| B7 | The Truth |
+| C8 | Holy Calamity (Bear Witness II) |
+| C9 | Calling The Biz |
+| C10 | The Projects (P Jays) |
+| C11 | Sunshine |
+| D12 | Modeling Sucks |
+| D13 | Torch Song Trilogy |
+| D14 | The Runway Song |
+| D15 | Megaton B-Boy 2000 |
+| D16 | Father Speaks |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 | Format         | Vinyl 2× LP Album Record Store Day Reissue |
 | Label          | Tommy Boy |
 | Catalog Number | TB-1258-1 |
-| Notes | Record Store Day "RSD First" release, part of the April 23rd drop.<br><br>Tracks numbered sequentially on release.<br><br>Made In Canada |
+| Notes | Record Store Day "RSD First" release, part of the April 23rd drop.  Tracks numbered sequentially on release.  Made In Canada |
 | Discogs URL    | [Handsome Boy Modeling School - So... How's Your Girl?](https://www.discogs.com/release/22981736-Handsome-Boy-Modeling-School-So-Hows-Your-Girl) |

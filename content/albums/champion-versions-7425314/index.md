@@ -35,12 +35,12 @@ The cover of the EP references the design of King Tubby's The Roots of Dub LP, w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dry The Rain | 6:05 |
-| A2 | I Know | 4:00 |
-| B1 | B+A | 6:35 |
-| B2 | Dogs Got A Bone | 5:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Dry The Rain |
+| A2 | I Know |
+| B1 | B+A |
+| B2 | Dogs Got A Bone |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The cover of the EP references the design of King Tubby's The Roots of Dub LP, w
 | Format         | Vinyl 12" EP Repress (180g) |
 | Label          | Regal |
 | Catalog Number | REGS 16 |
-| Notes | 180 gram pressing, includes MP3 download voucher.<br><br>Printed on spine: The Pigeons<br><br>℗1997 Parlophone Records Ltd.<br>©2013 Parlophone Records Ltd.<br>Made in EU. |
+| Notes | 180 gram pressing, includes MP3 download voucher.    Printed on spine: The Pigeons    ℗1997 Parlophone Records Ltd.  ©2013 Parlophone Records Ltd.  Made in EU. |
 | Discogs URL    | [The Beta Band - Champion Versions](https://www.discogs.com/release/7425314-The-Beta-Band-Champion-Versions) |

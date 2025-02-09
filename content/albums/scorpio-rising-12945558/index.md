@@ -35,18 +35,18 @@ Several songs on the album have appeared in television advertisements and on fil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leather |  |
-| A2 | Girls |  |
-| A3 | Hands Around My Throat |  |
-| B1 | 23 Lies |  |
-| B2 | Scorpio Rising |  |
-| B3 | Killing Smile |  |
-| C1 | Natja |  |
-| C2 | So You Say You Lost Your Baby |  |
-| C3 | Diving Horses |  |
-| D | Help Yourself |  |
+| Position | Title |
+|----------|--------|
+| A1 | Leather |
+| A2 | Girls |
+| A3 | Hands Around My Throat |
+| B1 | 23 Lies |
+| B2 | Scorpio Rising |
+| B3 | Killing Smile |
+| C1 | Natja |
+| C2 | So You Say You Lost Your Baby |
+| C3 | Diving Horses |
+| D | Help Yourself |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Several songs on the album have appeared in television advertisements and on fil
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Red Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2251 |
-| Notes | ℗ & © 2018 Sony Music Entertainment.<br><br>180 gram audiophile vinyl.<br>Gatefold sleeve.<br>Printed innersleeves with per track credits.<br>2.500 individually numbered copies on red vinyl.<br><br>Runouts are hand etched on all four sides. |
+| Notes | ℗ & © 2018 Sony Music Entertainment.  180 gram audiophile vinyl. Gatefold sleeve. Printed innersleeves with per track credits. 2.500 individually numbered copies on red vinyl.  Runouts are hand etched on all four sides. |
 | Discogs URL    | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/12945558-Death-In-Vegas-Scorpio-Rising) |

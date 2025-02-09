@@ -33,18 +33,18 @@ Made in America  was the band's last album in its original incarnation. Followin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soul Finger / Funky Broadway | 2:05 |
-| A2 | Who's Making Love | 3:34 |
-| A3 | Do You Love Me / Mother Popcorn (You Got To Have A Mother For Me) | 2:54 |
-| A4 | Guilty | 3:42 |
-| A5 | Perry Mason Theme | 2:10 |
-| A6 | Riot In Cell Block Number Nine | 3:25 |
-| B1 | Green Onions | 5:45 |
-| B2 | I Ain't Got You | 2:45 |
-| B3 | From The Bottom | 3:25 |
-| B4 | Going Back To Miami | 4:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Soul Finger / Funky Broadway |
+| A2 | Who's Making Love |
+| A3 | Do You Love Me / Mother Popcorn (You Got To Have A Mother For Me) |
+| A4 | Guilty |
+| A5 | Perry Mason Theme |
+| A6 | Riot In Cell Block Number Nine |
+| B1 | Green Onions |
+| B2 | I Ain't Got You |
+| B3 | From The Bottom |
+| B4 | Going Back To Miami |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Made in America  was the band's last album in its original incarnation. Followin
 | Format         | Vinyl LP Album Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 50 768 |
-| Notes | German reissue with 3 rows of copyright rim text in German, French and English. No barcode.<br><br>℗ © 1980 Atlantic Recording Corporation<br>Made in Germany by WEA Musik GmbH<br><br>Track B1 misspelt "Green Onion" on center label B. |
+| Notes | German reissue with 3 rows of copyright rim text in German, French and English. No barcode.  ℗ © 1980 Atlantic Recording Corporation Made in Germany by WEA Musik GmbH  Track B1 misspelt "Green Onion" on center label B. |
 | Discogs URL    | [The Blues Brothers - Made In America](https://www.discogs.com/release/2767076-Blues-Brothers-Made-In-America) |

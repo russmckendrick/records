@@ -30,22 +30,22 @@ Tubular Bells II is the fifteenth studio album by English guitarist and songwrit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sentinel | 8:06 |
-| A2 | Dark Star | 2:16 |
-| A3 | Clear Light | 5:47 |
-| A4 | Blue Saloon | 2:58 |
-| A5 | Sunjammer | 2:32 |
-| A6 | Red Dawn | 1:49 |
-| A7 | The Bell | 6:55 |
-| B8 | Weightless | 5:43 |
-| B9 | The Great Plain | 4:46 |
-| B10 | Sunset Door | 2:23 |
-| B11 | Tattoo | 4:14 |
-| B12 | Altered State | 5:12 |
-| B13 | Maya Gold | 4:00 |
-| B14 | Moonshine | 1:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Sentinel |
+| A2 | Dark Star |
+| A3 | Clear Light |
+| A4 | Blue Saloon |
+| A5 | Sunjammer |
+| A6 | Red Dawn |
+| A7 | The Bell |
+| B8 | Weightless |
+| B9 | The Great Plain |
+| B10 | Sunset Door |
+| B11 | Tattoo |
+| B12 | Altered State |
+| B13 | Maya Gold |
+| B14 | Moonshine |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Tubular Bells II is the fifteenth studio album by English guitarist and songwrit
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Music |
 | Catalog Number | 2564623323 |
-| Notes | Originally planned to be released in October 2014 but it was rescheduled to April 2015.<br><br>℗ 1992 Warner Music UK Ltd. © 2014 Oldfield Music Limited for the United Kingdom and Oldfield Music Overseas Limited for the world outside the United Kingdom.<br><br>Made in the EU.<br><br>Comes with graphite grey plain (antistatic) die-cut inner.<br>Etched matrices<br>Sequential track positions on sleeve & labels |
+| Notes | Originally planned to be released in October 2014 but it was rescheduled to April 2015.  ℗ 1992 Warner Music UK Ltd. © 2014 Oldfield Music Limited for the United Kingdom and Oldfield Music Overseas Limited for the world outside the United Kingdom.  Made in the EU.  Comes with graphite grey plain (antistatic) die-cut inner. Etched matrices Sequential track positions on sleeve & labels |
 | Discogs URL    | [Mike Oldfield - Tubular Bells II](https://www.discogs.com/release/6795868-Mike-Oldfield-Tubular-Bells-II) |

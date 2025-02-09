@@ -31,30 +31,30 @@ Two singles were released from The Big Dream; "I'm Waiting Here", a collaboratio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Prologue - Deep Sleep | 2:12 |
-| LP-A2 | Awakenings | 5:10 |
-| LP-A3 | Sigma | 5:06 |
-| LP-B1 | In Floral Green | 5:08 |
-| LP-B2 | Everglow | 4:58 |
-| LP-B3 | False Light | 5:33 |
-| LP-C1 | Symbolic | 5:06 |
-| LP-C2 | The Divine Art Of Being | 5:38 |
-| LP-D1 | The Big Dream | 8:02 |
-| LP-D2 | Hello World, Goodbye | 3:52 |
-| LP-D3 | Epilogue - Sea Beams | 2:48 |
-| CD-1 | Prologue - Deep Sleep | 2:12 |
-| CD-2 | Awakenings | 5:10 |
-| CD-3 | Sigma | 5:06 |
-| CD-4 | In Floral Green | 5:08 |
-| CD-5 | Everglow | 4:58 |
-| CD-6 | False Lights | 5:33 |
-| CD-7 | Symbolic | 5:06 |
-| CD-8 | The Divine Art Of Being | 5:38 |
-| CD-9 | The Big Dream | 8:02 |
-| CD-10 | Hello World, Goodbye | 3:52 |
-| CD-11 | Epilogue - Sea Beams | 2:48 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Prologue - Deep Sleep |
+| LP-A2 | Awakenings |
+| LP-A3 | Sigma |
+| LP-B1 | In Floral Green |
+| LP-B2 | Everglow |
+| LP-B3 | False Light |
+| LP-C1 | Symbolic |
+| LP-C2 | The Divine Art Of Being |
+| LP-D1 | The Big Dream |
+| LP-D2 | Hello World, Goodbye |
+| LP-D3 | Epilogue - Sea Beams |
+| CD-1 | Prologue - Deep Sleep |
+| CD-2 | Awakenings |
+| CD-3 | Sigma |
+| CD-4 | In Floral Green |
+| CD-5 | Everglow |
+| CD-6 | False Lights |
+| CD-7 | Symbolic |
+| CD-8 | The Divine Art Of Being |
+| CD-9 | The Big Dream |
+| CD-10 | Hello World, Goodbye |
+| CD-11 | Epilogue - Sea Beams |
 
 
 ## Apple Music

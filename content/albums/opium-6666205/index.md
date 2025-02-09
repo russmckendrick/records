@@ -30,19 +30,19 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction |  |
-| A2 | Reach For The Ground |  |
-| A3 | Love Is A Fool |  |
-| A4 | Lay Your Love On Me |  |
-| A5 | White Hood |  |
-| B1 | Opium |  |
-| B2 | The Hangman |  |
-| B3 | Hot Dog |  |
-| B4 | Jet Setter |  |
-| B5 | Love Is A Fool (Again) |  |
-| B6 | One More Hit |  |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction |
+| A2 | Reach For The Ground |
+| A3 | Love Is A Fool |
+| A4 | Lay Your Love On Me |
+| A5 | White Hood |
+| B1 | Opium |
+| B2 | The Hangman |
+| B3 | Hot Dog |
+| B4 | Jet Setter |
+| B5 | Love Is A Fool (Again) |
+| B6 | One More Hit |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 | Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |
-| Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London.<br>Some copies are signed.<br>Artwork is exclusive to this release only. |
+| Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only. |
 | Discogs URL    | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-3-Opium) |

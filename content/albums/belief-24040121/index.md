@@ -25,19 +25,19 @@ styles: ["House"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Want to Be | 4:05 |
-| A2 | Anx | 3:07 |
-| A3 | Bayo | 4:14 |
-| A4 | Luther | 4:07 |
-| A5 | Dreams | 3:54 |
-| B1 | Nebo | 5:46 |
-| B2 | WOT | 3:53 |
-| B3 | Ulu | 5:26 |
-| B4 | Jung | 4:45 |
-| B5 | Art of Love | 2:45 |
-| B6 | Charch | 2:07 |
+| Position | Title |
+|----------|--------|
+| A1 | I Want to Be |
+| A2 | Anx |
+| A3 | Bayo |
+| A4 | Luther |
+| A5 | Dreams |
+| B1 | Nebo |
+| B2 | WOT |
+| B3 | Ulu |
+| B4 | Jung |
+| B5 | Art of Love |
+| B6 | Charch |
 
 
 ## Apple Music

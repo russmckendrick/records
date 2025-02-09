@@ -66,90 +66,90 @@ It was the band's debut release in the United States, with Mercury Records handl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ace Of Spades |  |
-| LP-A1 | Ace Of Spades |  |
-| LP-A2 | Love Me Like A Reptile |  |
-| LP-A3 | Shoot You In The Back |  |
-| LP-A4 | Live To Win  |  |
-| LP-A5 | Fast And Loose |  |
-| LP-A6 | (We Are) The Road Crew |  |
-| LP-B1 | Fire Fire |  |
-| LP-B2 | Jailbait |  |
-| LP-B3 | Dance |  |
-| LP-B4 | Bite The Bullet |  |
-| LP-B5 | The Chase Is Better Than The Catch |  |
-| LP-B6 | The Hammer |  |
-|  | Dead Man's Hand - Live In Orléans |  |
-| LP-C1 | Ace Of Spades |  |
-| LP-C2 | Stay Clean |  |
-| LP-C3 | Over The Top |  |
-| LP-C4 | Metropolis |  |
-| LP-C5 | Shoot You In The Back |  |
-| LP-D1 | The Hammer |  |
-| LP-D2 | Jailbait |  |
-| LP-D3 | Leaving Here |  |
-| LP-D4 | Fire Fire |  |
-| LP-D5 | Love Me Like A Reptile |  |
-| LP-E1 | Capricorn |  |
-| LP-E2 | Too Late, Too Late |  |
-| LP-E3 | (We Are) The Road Crew |  |
-| LP-E4 | No Class |  |
-| LP-F1 | Bite The Bullet |  |
-| LP-F2 | The Chase Is Better Than The Catch |  |
-| LP-F3 | Overkill |  |
-| LP-F4 | Bomber |  |
-|  | Riders Wearing Black - Live In Belfast - 1981 |  |
-| LP-G1 | Ace Of Spades |  |
-| LP-G2 | Stay Clean |  |
-| LP-G3 | Over The Top |  |
-| LP-G4 | The Hammer |  |
-| LP-G5 | Shoot You In The Back |  |
-| LP-G6 | Metropolis |  |
-| LP-H1 | Jailbait |  |
-| LP-H2 | Leaving Here |  |
-| LP-H3 | Capricorn |  |
-| LP-H4 | Too Late, Too Late |  |
-| LP-I1 | (We Are) The Road Crew |  |
-| LP-I2 | No Class |  |
-| LP-I3 | Bite The Bullet |  |
-| LP-I4 | The Chase Is Better Than The Catch |  |
-| LP-J1 | Overkill |  |
-| LP-J2 | Bomber |  |
-| LP-J3 | Motörhead |  |
-|  | The Good, The Broke & The Ugly |  |
-| LP-K1 | Ace Of Spades (Alternative Version) |  |
-| LP-K2 | Dirty Love |  |
-| LP-K3 | Love Me Like A Reptile (Alternative Long Version) |  |
-| LP-K4 | Shoot You In The Back (Alternative Version) |  |
-| LP-L1 | Hump On Your Back |  |
-| LP-L2 | Fast And Loose (Alternative Version) |  |
-| LP-L3 | (We Are) The Road Crew (Alternative Version) |  |
-| LP-L4 | Fire Fire (Alternative Version) |  |
-| LP-L5 | Jailbait (Alternative Version) |  |
-| LP-M1 | Waltz Of The Vampire |  |
-| LP-M2 | The Hammer (Alternative Version) |  |
-| LP-M3 | Dirty Love (Alternative Long Version) |  |
-| LP-M4 | Bastard |  |
-| LP-M5 | Godzilla Akimbo |  |
-| LP-N1 | Love Me Like A Reptile (Alternative Version) |  |
-| LP-N2 | Dirty Love (Alternative Version) |  |
-| LP-N3 | Please Don't Touch |  |
-| LP-N4 | Bomber |  |
-| LP-N5 | Emergency |  |
-|  | A Fistful Of Instrumentals 10" |  |
-| 10"-A1 | Ace Of Spades (Instrumental Demo) |  |
-| 10"-A2 | Hump On Your Back (Instrumental Demo) |  |
-| 10"-A3 | Shoot You In The Back (Instrumental Demo) |  |
-| 10"-A4 | Fast And Loose (Instrumental Demo) |  |
-| 10"-B1 | Dirty Love (Instrumental Demo) |  |
-| 10"-B2 | Love Me Like A Reptile (Instrumental Demo) |  |
-| 10"-B3 | Dance (Instrumental Demo) |  |
-|  | Ace On Your Screens DVD |  |
-|  | Ace On Your Screens | 51:04 |
-|  | Live In Belfast '81 | 26:25 |
-|  | Ace Of Spades 5.1 | 36:35 |
+| Position | Title |
+|----------|--------|
+|  | Ace Of Spades |
+| LP-A1 | Ace Of Spades |
+| LP-A2 | Love Me Like A Reptile |
+| LP-A3 | Shoot You In The Back |
+| LP-A4 | Live To Win  |
+| LP-A5 | Fast And Loose |
+| LP-A6 | (We Are) The Road Crew |
+| LP-B1 | Fire Fire |
+| LP-B2 | Jailbait |
+| LP-B3 | Dance |
+| LP-B4 | Bite The Bullet |
+| LP-B5 | The Chase Is Better Than The Catch |
+| LP-B6 | The Hammer |
+|  | Dead Man's Hand - Live In Orléans |
+| LP-C1 | Ace Of Spades |
+| LP-C2 | Stay Clean |
+| LP-C3 | Over The Top |
+| LP-C4 | Metropolis |
+| LP-C5 | Shoot You In The Back |
+| LP-D1 | The Hammer |
+| LP-D2 | Jailbait |
+| LP-D3 | Leaving Here |
+| LP-D4 | Fire Fire |
+| LP-D5 | Love Me Like A Reptile |
+| LP-E1 | Capricorn |
+| LP-E2 | Too Late, Too Late |
+| LP-E3 | (We Are) The Road Crew |
+| LP-E4 | No Class |
+| LP-F1 | Bite The Bullet |
+| LP-F2 | The Chase Is Better Than The Catch |
+| LP-F3 | Overkill |
+| LP-F4 | Bomber |
+|  | Riders Wearing Black - Live In Belfast - 1981 |
+| LP-G1 | Ace Of Spades |
+| LP-G2 | Stay Clean |
+| LP-G3 | Over The Top |
+| LP-G4 | The Hammer |
+| LP-G5 | Shoot You In The Back |
+| LP-G6 | Metropolis |
+| LP-H1 | Jailbait |
+| LP-H2 | Leaving Here |
+| LP-H3 | Capricorn |
+| LP-H4 | Too Late, Too Late |
+| LP-I1 | (We Are) The Road Crew |
+| LP-I2 | No Class |
+| LP-I3 | Bite The Bullet |
+| LP-I4 | The Chase Is Better Than The Catch |
+| LP-J1 | Overkill |
+| LP-J2 | Bomber |
+| LP-J3 | Motörhead |
+|  | The Good, The Broke & The Ugly |
+| LP-K1 | Ace Of Spades (Alternative Version) |
+| LP-K2 | Dirty Love |
+| LP-K3 | Love Me Like A Reptile (Alternative Long Version) |
+| LP-K4 | Shoot You In The Back (Alternative Version) |
+| LP-L1 | Hump On Your Back |
+| LP-L2 | Fast And Loose (Alternative Version) |
+| LP-L3 | (We Are) The Road Crew (Alternative Version) |
+| LP-L4 | Fire Fire (Alternative Version) |
+| LP-L5 | Jailbait (Alternative Version) |
+| LP-M1 | Waltz Of The Vampire |
+| LP-M2 | The Hammer (Alternative Version) |
+| LP-M3 | Dirty Love (Alternative Long Version) |
+| LP-M4 | Bastard |
+| LP-M5 | Godzilla Akimbo |
+| LP-N1 | Love Me Like A Reptile (Alternative Version) |
+| LP-N2 | Dirty Love (Alternative Version) |
+| LP-N3 | Please Don't Touch |
+| LP-N4 | Bomber |
+| LP-N5 | Emergency |
+|  | A Fistful Of Instrumentals 10" |
+| 10"-A1 | Ace Of Spades (Instrumental Demo) |
+| 10"-A2 | Hump On Your Back (Instrumental Demo) |
+| 10"-A3 | Shoot You In The Back (Instrumental Demo) |
+| 10"-A4 | Fast And Loose (Instrumental Demo) |
+| 10"-B1 | Dirty Love (Instrumental Demo) |
+| 10"-B2 | Love Me Like A Reptile (Instrumental Demo) |
+| 10"-B3 | Dance (Instrumental Demo) |
+|  | Ace On Your Screens DVD |
+|  | Ace On Your Screens |
+|  | Live In Belfast '81 |
+|  | Ace Of Spades 5.1 |
 
 
 ## Apple Music
@@ -167,5 +167,5 @@ It was the band's debut release in the United States, with Mercury Records handl
 | Format         | Box Set Deluxe Edition (40th Anniversary), Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Album Stereo, Vinyl 2× LP Album Stereo, Vinyl 2× LP Album Stereo, Vinyl 10" 45 RPM EP Stereo, DVD Multichannel Album Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT432BOX |
-| Notes | 40th Anniversary Box<br><br>This deluxe lift-off lid box set includes:<br>• Ace Of Spades (half-speed mastered and created from the original master tapes)<br>• Two double-live albums of previously unheard concerts from the Ace Up Your Sleeve tour, both in gatefold sleeves.<br>• A Fistful Of Instrumentals : A 10” EP of previously unreleased, instrumental tracks from 1980.<br>• The Good, The Broke & The Ugly. A double album of B-sides, outtakes and rare tracks, in gatefold sleeve.<br>• Ace On Your Screens: A DVD compilation of rare TV appearances from 1980-81, a live concert from 1981 and a 5.1 audio mix of the original album. The disc is in a digipak which is affixed into the base section.<br>• The Ace Of Spades story. A 40 page book telling the story of Ace Of Spades through previously unpublished interviews with the people that were there. Includes never before seen photos and memorabilia.<br>• The Ace Up Your Sleeve tour programme.<br>• The Motörhead Rock Commando comic.<br>• A set of 5 poker dice that can be played on the game board inside the box set lid.<br>• All encased in a classic Wild West dynamite box, which has woodgrain effect texturing. The texturing is in the opposite direction to the printed woodgrain. There is an access cord to raise the vinyl. There is a bullet belt shaped wraparound bellyband with a barcode and contents information.<br><br>The package came in hype stickered shrink-wrap. There was a picture barcode label on the outer packing case.<br>Aside from the E.P., each vinyl is held in a die cut black paper inner.<br><br>Orders at the official Motörhead shop got an exclusive "Ace Of Spades" single, Dutch replica, with an unrelease instrumental version of the song on side B.<br><br>DVD barcode came from DVD label |
+| Notes | 40th Anniversary Box  This deluxe lift-off lid box set includes: • Ace Of Spades (half-speed mastered and created from the original master tapes) • Two double-live albums of previously unheard concerts from the Ace Up Your Sleeve tour, both in gatefold sleeves. • A Fistful Of Instrumentals : A 10” EP of previously unreleased, instrumental tracks from 1980. • The Good, The Broke & The Ugly. A double album of B-sides, outtakes and rare tracks, in gatefold sleeve. • Ace On Your Screens: A DVD compilation of rare TV appearances from 1980-81, a live concert from 1981 and a 5.1 audio mix of the original album. The disc is in a digipak which is affixed into the base section. • The Ace Of Spades story. A 40 page book telling the story of Ace Of Spades through previously unpublished interviews with the people that were there. Includes never before seen photos and memorabilia. • The Ace Up Your Sleeve tour programme. • The Motörhead Rock Commando comic. • A set of 5 poker dice that can be played on the game board inside the box set lid. • All encased in a classic Wild West dynamite box, which has woodgrain effect texturing. The texturing is in the opposite direction to the printed woodgrain. There is an access cord to raise the vinyl. There is a bullet belt shaped wraparound bellyband with a barcode and contents information.  The package came in hype stickered shrink-wrap. There was a picture barcode label on the outer packing case. Aside from the E.P., each vinyl is held in a die cut black paper inner.  Orders at the official Motörhead shop got an exclusive "Ace Of Spades" single, Dutch replica, with an unrelease instrumental version of the song on side B.  DVD barcode came from DVD label |
 | Discogs URL    | [Motörhead - Ace Of Spades](https://www.discogs.com/release/16134336-Motörhead-Ace-Of-Spades) |

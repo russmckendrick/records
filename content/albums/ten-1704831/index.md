@@ -42,32 +42,32 @@ Beyond its role in consolidating the mainstream success of grunge rock in the ea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ten |  |
-| A1 | Once |  |
-| A2 | Even Flow |  |
-| A3 | Alive |  |
-| A4 | Why Go |  |
-| A5 | Black |  |
-| A6 | Jeremy |  |
-| B1 | Oceans |  |
-| B2 | Porch |  |
-| B3 | Garden |  |
-| B4 | Deep |  |
-| B5 | Release |  |
-|  | Ten Redux |  |
-| C1 | Once |  |
-| C2 | Even Flow |  |
-| C3 | Alive |  |
-| C4 | Why Go |  |
-| C5 | Black |  |
-| C6 | Jeremy |  |
-| D1 | Oceans |  |
-| D2 | Porch |  |
-| D3 | Garden |  |
-| D4 | Deep |  |
-| D5 | Release |  |
+| Position | Title |
+|----------|--------|
+|  | Ten |
+| A1 | Once |
+| A2 | Even Flow |
+| A3 | Alive |
+| A4 | Why Go |
+| A5 | Black |
+| A6 | Jeremy |
+| B1 | Oceans |
+| B2 | Porch |
+| B3 | Garden |
+| B4 | Deep |
+| B5 | Release |
+|  | Ten Redux |
+| C1 | Once |
+| C2 | Even Flow |
+| C3 | Alive |
+| C4 | Why Go |
+| C5 | Black |
+| C6 | Jeremy |
+| D1 | Oceans |
+| D2 | Porch |
+| D3 | Garden |
+| D4 | Deep |
+| D5 | Release |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Beyond its role in consolidating the mainstream success of grunge rock in the ea
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram), Vinyl LP Album (180 Gram), All Media (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 88697413021 |
-| Notes | This version had the lacquer cut at Nashville Record Productions Inc, cut by Wes Garland "WG/NRP" and pressed by [l=United Record Pressing] as differentiated by matrix/runout.<br><br>Comes with LP-sized round cardboard inlet printed on both sides (see pics) <br><br>Front sleeve hype sticker attached to shrinkwrap reads;-<br>pearl jam - ten<br>Vinyl Edition<br>180-Gram Audiophile Pressing. <br>LP1 - Ten: The groundbreaking debut album. Newly Remastered for vinyl - featuring "Alive".<br>LP2 - Ten Redux: Brand New Remixes by Brendan O'Brien! <br>88697413021-S1<br><br>Rear sleeve has track listings & barcode printed on a laminated sticker attached to shrinkwrap.<br>All songs ©1991 Write Treatage Music/Innocent Bystander/Jumpin' Cat Music/Scribing C-Ment Songs/3 Kick Heads (ASCAP).<br>© 1991, 2009 Sony Music Entertainment.<br><br>"Ten" -  Mixed for Worlds End (America) Inc.<br>Recorded at London Bridge Studios, Seattle - March/April 1991.<br>Mixed at Ridge Farm Studios, Dorking, England - June 1991.<br>Remastered 2008 at Gateway Mastering, Portland, ME.<br><br>"Ten Redux" - Remixed at Southern Tracks, Atlanta, GA.<br>Mastered at Gateway Mastering , Portland, ME. |
+| Notes | This version had the lacquer cut at Nashville Record Productions Inc, cut by Wes Garland "WG/NRP" and pressed by [l=United Record Pressing] as differentiated by matrix/runout.  Comes with LP-sized round cardboard inlet printed on both sides (see pics)   Front sleeve hype sticker attached to shrinkwrap reads;- pearl jam - ten Vinyl Edition 180-Gram Audiophile Pressing.  LP1 - Ten: The groundbreaking debut album. Newly Remastered for vinyl - featuring "Alive". LP2 - Ten Redux: Brand New Remixes by Brendan O'Brien!  88697413021-S1  Rear sleeve has track listings & barcode printed on a laminated sticker attached to shrinkwrap. All songs ©1991 Write Treatage Music/Innocent Bystander/Jumpin' Cat Music/Scribing C-Ment Songs/3 Kick Heads (ASCAP). © 1991, 2009 Sony Music Entertainment.  "Ten" -  Mixed for Worlds End (America) Inc. Recorded at London Bridge Studios, Seattle - March/April 1991. Mixed at Ridge Farm Studios, Dorking, England - June 1991. Remastered 2008 at Gateway Mastering, Portland, ME.  "Ten Redux" - Remixed at Southern Tracks, Atlanta, GA. Mastered at Gateway Mastering , Portland, ME. |
 | Discogs URL    | [Pearl Jam - Ten](https://www.discogs.com/release/1704831-Pearl-Jam-Ten) |

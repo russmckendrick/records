@@ -38,36 +38,36 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Champion Versions |  |
-| A1 | Dry The Rain |  |
-| A2 | I Know |  |
-| A3 | B + A |  |
-| B1 | Dogs Got A Bone |  |
-|  | The Patty Patty Sound |  |
-| B2 | Inner Meet Me |  |
-| B3 | The House Song |  |
-| C1 | Monolith |  |
-| C2 | She's The One |  |
-|  | Los Amigos Del Beta Bandidos |  |
-| D1 | Push It Out |  |
-| D2 | It's Over |  |
-| D3 | Dr. Baker |  |
-| D4 | Needles In My Eyes |  |
-|  | CD |  |
-| CD1 | Dry The Rain |  |
-| CD2 | I Know |  |
-| CD3 | B + A |  |
-| CD4 | Dogs Got A Bone |  |
-| CD5 | Inner Meet Me |  |
-| CD6 | The House Song |  |
-|  CD7 | Monolith |  |
-| CD8 | She's The One |  |
-| CD9 | Push It Out |  |
-| CD10 | It's Over |  |
-| CD11 | Dr. Baker |  |
-|  CD12 | Needles In My Eyes |  |
+| Position | Title |
+|----------|--------|
+|  | Champion Versions |
+| A1 | Dry The Rain |
+| A2 | I Know |
+| A3 | B + A |
+| B1 | Dogs Got A Bone |
+|  | The Patty Patty Sound |
+| B2 | Inner Meet Me |
+| B3 | The House Song |
+| C1 | Monolith |
+| C2 | She's The One |
+|  | Los Amigos Del Beta Bandidos |
+| D1 | Push It Out |
+| D2 | It's Over |
+| D3 | Dr. Baker |
+| D4 | Needles In My Eyes |
+|  | CD |
+| CD1 | Dry The Rain |
+| CD2 | I Know |
+| CD3 | B + A |
+| CD4 | Dogs Got A Bone |
+| CD5 | Inner Meet Me |
+| CD6 | The House Song |
+|  CD7 | Monolith |
+| CD8 | She's The One |
+| CD9 | Push It Out |
+| CD10 | It's Over |
+| CD11 | Dr. Baker |
+|  CD12 | Needles In My Eyes |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 | Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
 | Label          | Because Music |
 | Catalog Number | BE5543747 |
-| Notes | First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).<br><br>Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD<br><br>B3 not listed on label<br><br>Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website  |
+| Notes | First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website  |
 | Discogs URL    | [The Beta Band - The Three E.P.'s](https://www.discogs.com/release/12647330-The-Beta-Band-The-Three-EPs) |

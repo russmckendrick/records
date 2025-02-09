@@ -37,20 +37,20 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Torn | 4:04 |
-| A2 | One More Addiction | 3:30 |
-| A3 | Big Mistake | 4:32 |
-| A4 | Leave Me Alone | 4:21 |
-| A5 | Intuition | 3:22 |
-| A6 | Smoke | 4:37 |
-| B1 | Pigeons And Crumbs | 5:21 |
-| B2 | Don't You Think? | 3:55 |
-| B3 | Impressed | 4:47 |
-| B4 | Wishing I Was There | 3:52 |
-| B5 | City | 4:33 |
-| B6 | Left Of The Middle | 3:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Torn |
+| A2 | One More Addiction |
+| A3 | Big Mistake |
+| A4 | Leave Me Alone |
+| A5 | Intuition |
+| A6 | Smoke |
+| B1 | Pigeons And Crumbs |
+| B2 | Don't You Think? |
+| B3 | Impressed |
+| B4 | Wishing I Was There |
+| B5 | City |
+| B6 | Left Of The Middle |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Translucent) |
 | Label          | RCA |
 | Catalog Number | 74321544411 |
-| Notes |  Includes four page booklet<br>25th anniversary release<br>180g<br><br>A  [url=https://www.discogs.com/release/25225081-Natalie-Imbruglia-Left-Of-The-Middle]version[/url] including a signed booklet and with a different barcode was exclusively available as a pre-order from the artist's online store. |
+| Notes |  Includes four page booklet 25th anniversary release 180g  A  [url=https://www.discogs.com/release/25225081-Natalie-Imbruglia-Left-Of-The-Middle]version[/url] including a signed booklet and with a different barcode was exclusively available as a pre-order from the artist's online store. |
 | Discogs URL    | [Natalie Imbruglia - Left Of The Middle](https://www.discogs.com/release/25207813-Natalie-Imbruglia-Left-Of-The-Middle) |

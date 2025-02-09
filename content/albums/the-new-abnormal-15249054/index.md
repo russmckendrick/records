@@ -31,17 +31,17 @@ A general observation: You don’t go see Rick Rubin at Shangri-La if you’re j
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Adults Are Talking | 4:46 |
-| A2 | Selfless | 4:02 |
-| A3 | Brooklyn Bridge To Chorus | 3:54 |
-| A4 | Bad Decisions | 4:46 |
-| A5 | Eternal Summer | 6:20 |
-| B6 | At The Door | 5:10 |
-| B7 | Why Are Sundays So Depressing | 4:28 |
-| B8 | Not The Same Anymore | 5:46 |
-| B9 | Ode To The Mets | 5:50 |
+| Position | Title |
+|----------|--------|
+| A1 | The Adults Are Talking |
+| A2 | Selfless |
+| A3 | Brooklyn Bridge To Chorus |
+| A4 | Bad Decisions |
+| A5 | Eternal Summer |
+| B6 | At The Door |
+| B7 | Why Are Sundays So Depressing |
+| B8 | Not The Same Anymore |
+| B9 | Ode To The Mets |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ A general observation: You don’t go see Rick Rubin at Shangri-La if you’re j
 | Format         | Vinyl LP Album |
 | Label          | RCA |
 | Catalog Number | 19439-70588-1 |
-| Notes | Packaged in a PVC sleeve which lies within shrink-wrap.<br>Includes a custom inner sleeve, a foldout poster, and a download card.<br>Track numbering is sequential across sides.<br><br>All songs [...] © 2020 The Strokes Band Music (ASCAP), all rights administered by BMG Rights Management (US) LLC d/b/a BMG Gold Songs<br>Except<br>"Eternal Summer" [...] © 2020 BMG Gold Songs / The Strokes Band Music (ASCAP) and EMI Songs Ltd. c/o EMI Blackwood Music Inc. (BMI) - All rights administered by BMG Rights Management (US) LLC and Sony/ATV Music Publishing<br>"At The Door" [...] © 2020 The Strokes Band Music (ASCAP) and Pvinny Music (ASCAP), all rights administered by BMG Rights Management (US) LLC d/b/a BMG Gold Songs<br>"Bad Decisions" [...] © 2020 BMG Gold Songs / The Strokes Band Music (ASCAP), BMG Onyx Songs / Boneidol Music (GMR) and BMG Gold Songs (ASCAP) - All rights administered by BMG Rights Management (US) LLC<br><br>Additional engineering [...] at Lucy's Meat Market<br><br>Assistant engineers<br>Rob Bisel & Dylan Neustadter at Shangri-La<br>Kevin Smith at Groove Masters<br><br>Recorded at Shangri-La Studios - Malibu, CA<br><br>Additional recording at<br>Studio City Sound - Studio City, CA<br>Mauka View - Princeville, HI<br>Lucy's Meat Market - Eagle Rock, CA<br>Groove Masters Studio - Santa Monica, CA<br>Joel and Zach's Studio - North Hollywood, CA<br><br>Tracks A1, A2, A3 & B8 mixed [...] at Strongroom Studios - London, UK<br>Tracks A4, A5, B6, B7 & B9 mixed [...] at Shangri-La Studios - Malibu, CA<br><br>Mastered [...] at Marcussen Mastering - Los Angeles, CA<br><br>Cover painting "Bird On Money" 1981<br>Artwork © estate of Jean-Michel Basquiat, licensed by Artestar, New York.<br><br>℗ & © 2020 RCA Records, a division of Sony Music Entertainment. Marketed and distributed by Sony Music Entertainment. Sony Music Entertainment International Services GMBH, PO Box 510, 33311 Gütersloh, Germany.<br>Made in the EU |
+| Notes | Packaged in a PVC sleeve which lies within shrink-wrap. Includes a custom inner sleeve, a foldout poster, and a download card. Track numbering is sequential across sides.  All songs [...] © 2020 The Strokes Band Music (ASCAP), all rights administered by BMG Rights Management (US) LLC d/b/a BMG Gold Songs Except "Eternal Summer" [...] © 2020 BMG Gold Songs / The Strokes Band Music (ASCAP) and EMI Songs Ltd. c/o EMI Blackwood Music Inc. (BMI) - All rights administered by BMG Rights Management (US) LLC and Sony/ATV Music Publishing "At The Door" [...] © 2020 The Strokes Band Music (ASCAP) and Pvinny Music (ASCAP), all rights administered by BMG Rights Management (US) LLC d/b/a BMG Gold Songs "Bad Decisions" [...] © 2020 BMG Gold Songs / The Strokes Band Music (ASCAP), BMG Onyx Songs / Boneidol Music (GMR) and BMG Gold Songs (ASCAP) - All rights administered by BMG Rights Management (US) LLC  Additional engineering [...] at Lucy's Meat Market  Assistant engineers Rob Bisel & Dylan Neustadter at Shangri-La Kevin Smith at Groove Masters  Recorded at Shangri-La Studios - Malibu, CA  Additional recording at Studio City Sound - Studio City, CA Mauka View - Princeville, HI Lucy's Meat Market - Eagle Rock, CA Groove Masters Studio - Santa Monica, CA Joel and Zach's Studio - North Hollywood, CA  Tracks A1, A2, A3 & B8 mixed [...] at Strongroom Studios - London, UK Tracks A4, A5, B6, B7 & B9 mixed [...] at Shangri-La Studios - Malibu, CA  Mastered [...] at Marcussen Mastering - Los Angeles, CA  Cover painting "Bird On Money" 1981 Artwork © estate of Jean-Michel Basquiat, licensed by Artestar, New York.  ℗ & © 2020 RCA Records, a division of Sony Music Entertainment. Marketed and distributed by Sony Music Entertainment. Sony Music Entertainment International Services GMBH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU |
 | Discogs URL    | [The Strokes - The New Abnormal](https://www.discogs.com/release/15249054-The-Strokes-The-New-Abnormal) |

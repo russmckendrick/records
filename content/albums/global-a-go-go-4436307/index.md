@@ -39,31 +39,31 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Johnny Appleseed | 4:05 |
-| A2 | Cool'n'Out | 4:17 |
-| A3 | Global A Go-Go | 5:50 |
-| A4 | Bhindi Bhagee | 5:45 |
-| B1 | Gamma Ray | 6:55 |
-| B2 | Mega Bottle Ride | 3:33 |
-| B3 | Shaktar Donetsk | 5:58 |
-| C1 | Mondo Bongo | 6:13 |
-| C2 | Bummed Out City | 5:33 |
-| C3 | At The Border, Guy | 7:02 |
-| D | Minstrel Boy (Full Length Version) | 20:56 |
-| 1 | Johnny Appleseed | 4:05 |
-| 2 | Cool'n'Out | 4:17 |
-| 3 | Global A Go-Go | 5:50 |
-| 4 | Bhindi Bhagee | 5:45 |
-| 5 | Gamma Ray | 6:55 |
-| 6 | Mega Bottle Ride | 3:33 |
-| 7 | Shaktar Donetsk | 5:58 |
-| 8 | Mondo Bongo | 6:13 |
-| 9 | Bummed Out City | 5:33 |
-| 10 | At The Border, Guy | 7:02 |
-| 11 | Minstrel Boy | 17:51 |
-| 12 | Bhindi Bhagee (Live From The Action Concert) | 5:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Johnny Appleseed |
+| A2 | Cool'n'Out |
+| A3 | Global A Go-Go |
+| A4 | Bhindi Bhagee |
+| B1 | Gamma Ray |
+| B2 | Mega Bottle Ride |
+| B3 | Shaktar Donetsk |
+| C1 | Mondo Bongo |
+| C2 | Bummed Out City |
+| C3 | At The Border, Guy |
+| D | Minstrel Boy (Full Length Version) |
+| 1 | Johnny Appleseed |
+| 2 | Cool'n'Out |
+| 3 | Global A Go-Go |
+| 4 | Bhindi Bhagee |
+| 5 | Gamma Ray |
+| 6 | Mega Bottle Ride |
+| 7 | Shaktar Donetsk |
+| 8 | Mondo Bongo |
+| 9 | Bummed Out City |
+| 10 | At The Border, Guy |
+| 11 | Minstrel Boy |
+| 12 | Bhindi Bhagee (Live From The Action Concert) |
 
 
 ## Apple Music

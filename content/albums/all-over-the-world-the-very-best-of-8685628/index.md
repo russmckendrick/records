@@ -35,28 +35,28 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mr. Blue Sky | 5:02 |
-| A2 | Evil Woman | 4:11 |
-| A3 | Don't Bring Me Down | 4:03 |
-| A4 | Sweet Talkin' Woman | 3:47 |
-| A5 | Shine A Little Love | 4:11 |
-| B1 | Turn To Stone | 3:48 |
-| B2 | The Diary Of Horace Wimp | 4:16 |
-| B3 | Confusion | 3:41 |
-| B4 | Hold On Tight | 3:06 |
-| B5 | Livin' Thing | 3:31 |
-| C1 | Telephone Line | 4:39 |
-| C2 | All Over The World | 4:03 |
-| C3 | Wild West Hero | 4:40 |
-| C4 | Showdown | 4:11 |
-| C5 | Ma-Ma-Ma Belle | 3:37 |
-| D1 | Xanadu | 3:21 |
-| D2 | Rockaria! | 3:12 |
-| D3 | Strange Magic | 4:07 |
-| D4 | Alright | 3:10 |
-| D5 | Rock 'N' Roll Is King | 3:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Mr. Blue Sky |
+| A2 | Evil Woman |
+| A3 | Don't Bring Me Down |
+| A4 | Sweet Talkin' Woman |
+| A5 | Shine A Little Love |
+| B1 | Turn To Stone |
+| B2 | The Diary Of Horace Wimp |
+| B3 | Confusion |
+| B4 | Hold On Tight |
+| B5 | Livin' Thing |
+| C1 | Telephone Line |
+| C2 | All Over The World |
+| C3 | Wild West Hero |
+| C4 | Showdown |
+| C5 | Ma-Ma-Ma Belle |
+| D1 | Xanadu |
+| D2 | Rockaria! |
+| D3 | Strange Magic |
+| D4 | Alright |
+| D5 | Rock 'N' Roll Is King |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 | Format         | Vinyl 2× LP Compilation Reissue Stereo (180g) |
 | Label          | Epic |
 | Catalog Number | 88985312351 |
-| Notes | Gatefold sleeve with plain white die-cut poly-lined inner sleeves. Contains inlay with lines notes and credits.<br><br>Cat# on: gatefold sleeve (rear, spine) and center labels (as part of the matrix).<br><br>Runouts entirely etched on all sides.<br><br>Durations not given on release.<br><br>Track D1 is a new version.<br>Track D5 is a single edit.<br><br>© 2005, 2016 Epic Records, a division of Sony Music Entertainment.<br>This compilation ℗ 2005 Epic Records, a division of Sony Music Entertainment.<br><br>On inlay:<br>Tracks A1, A4, B1, C3: ℗ 1977 Epic Records, a division of Sony Music Entertainment<br>Tracks A2, D3: ℗ 1975 Epic Records, a division of Sony Music Entertainment<br>Tracks A3, A5, B2, B3: ℗ 1979 Epic Records, a division of Sony Music Entertainment<br>Track B4: ℗ 1981 Epic Records, a division of Sony Music Entertainment<br>Tracks B5, C1, D2: ℗ 1976 Epic Records, a division of Sony Music Entertainment<br>Track C2: US & Canada: ℗ 1980 UMG Recordings, Inc. Courtesy of Universal Music Enterprises, a division of UMG Recordings, Inc.; <br>Rest of World: ℗ 1980 Sony Music Entertainment<br>Track C5: ℗ 1973 Epic Records, a division of Sony Music Entertainment<br>Track C4: US & Canada: ℗ 1973 Epic Records, a division of Sony Music Entertainment<br>Rest of World: ℗ 1973 Parlophone Records Ltd., A Warner Music Group Company<br>Track D1: ℗ 2000 Epic Records, a division of Sony Music Entertainment<br>Track D4: ℗ 2001 Daft As A Brush, Inc. Courtesy of Daft As A Brush, Inc.<br>Track D5: ℗ 1983 Epic Records, a division of Sony Music Entertainment<br><br>On back cover:<br>Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.<br>"Epic", "Legacy" and L Reg. U.S. Pat. & Tm. Off. Marca Registrada. All rights reserved.<br>This package consists of previous released material. / Made in the EU.<br>www.legacyrecordings.com |
+| Notes | Gatefold sleeve with plain white die-cut poly-lined inner sleeves. Contains inlay with lines notes and credits.  Cat# on: gatefold sleeve (rear, spine) and center labels (as part of the matrix).  Runouts entirely etched on all sides.  Durations not given on release.  Track D1 is a new version. Track D5 is a single edit.  © 2005, 2016 Epic Records, a division of Sony Music Entertainment. This compilation ℗ 2005 Epic Records, a division of Sony Music Entertainment.  On inlay: Tracks A1, A4, B1, C3: ℗ 1977 Epic Records, a division of Sony Music Entertainment Tracks A2, D3: ℗ 1975 Epic Records, a division of Sony Music Entertainment Tracks A3, A5, B2, B3: ℗ 1979 Epic Records, a division of Sony Music Entertainment Track B4: ℗ 1981 Epic Records, a division of Sony Music Entertainment Tracks B5, C1, D2: ℗ 1976 Epic Records, a division of Sony Music Entertainment Track C2: US & Canada: ℗ 1980 UMG Recordings, Inc. Courtesy of Universal Music Enterprises, a division of UMG Recordings, Inc.;  Rest of World: ℗ 1980 Sony Music Entertainment Track C5: ℗ 1973 Epic Records, a division of Sony Music Entertainment Track C4: US & Canada: ℗ 1973 Epic Records, a division of Sony Music Entertainment Rest of World: ℗ 1973 Parlophone Records Ltd., A Warner Music Group Company Track D1: ℗ 2000 Epic Records, a division of Sony Music Entertainment Track D4: ℗ 2001 Daft As A Brush, Inc. Courtesy of Daft As A Brush, Inc. Track D5: ℗ 1983 Epic Records, a division of Sony Music Entertainment  On back cover: Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. "Epic", "Legacy" and L Reg. U.S. Pat. & Tm. Off. Marca Registrada. All rights reserved. This package consists of previous released material. / Made in the EU. www.legacyrecordings.com |
 | Discogs URL    | [Electric Light Orchestra - All Over The World - The Very Best Of](https://www.discogs.com/release/8685628-Electric-Light-Orchestra-All-Over-The-World-The-Very-Best-Of) |

@@ -31,18 +31,18 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Embers |  |
-| A2 | Last Word |  |
-| A3 | Beneath The Rose |  |
-| A4 | Choir |  |
-| A5 | The Dirge |  |
-| A6 | Anodyne |  |
-| B1 | Shine |  |
-| B2 | Magnolia |  |
-| B3 | Under The Wheel |  |
-| B4 | Bloom |  |
+| Position | Title |
+|----------|--------|
+| A1 | Embers |
+| A2 | Last Word |
+| A3 | Beneath The Rose |
+| A4 | Choir |
+| A5 | The Dirge |
+| A6 | Anodyne |
+| B1 | Shine |
+| B2 | Magnolia |
+| B3 | Under The Wheel |
+| B4 | Bloom |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 | Format         | Vinyl LP Album Limited Edition Stereo (Transparent Yellow) |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN008-1 |
-| Notes | Limited edition of 500 copies, exclusive to Rough Trade.<br><br>Heavyweight printed inner sleeve inside of a gatefold sleeve with black flood and four panel lyric booklet.<br><br>Additional information found on barcode sticker: v15. YELLOWTRANS<br><br>Side B ends with a locked groove.  |
+| Notes | Limited edition of 500 copies, exclusive to Rough Trade.  Heavyweight printed inner sleeve inside of a gatefold sleeve with black flood and four panel lyric booklet.  Additional information found on barcode sticker: v15. YELLOWTRANS  Side B ends with a locked groove.  |
 | Discogs URL    | [Baroness - Stone](https://www.discogs.com/release/28316803-Baroness-Stone) |

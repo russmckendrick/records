@@ -37,23 +37,23 @@ Last Day of June is an adventure puzzle video game developed by Ovosonico and pu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Some Things Cannot Be Changed | 2:58 |
-| A2 | That Day By The Pier | 3:58 |
-| A3 | There Must Be A Way | 1:17 |
-| A4 | The Last Day Of June | 8:18 |
-| A5 | Suspended In Me | 1:09 |
-| A6 | Driving Home | 1:39 |
-| B1 | I'm Still Here | 1:35 |
-| B2 | The Boy Who Lost His Friends | 2:16 |
-| B3 | The Crib | 2:16 |
-| B4 | Time For A New Start | 3:27 |
-| B5 | Suspended In You | 1:18 |
-| B6 | Under The Shadow Of My Father | 1:29 |
-| B7 | Accept | 4:13 |
-| B8 | Deceive | 1:07 |
-| B9 | Together, Forever Again | 3:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Some Things Cannot Be Changed |
+| A2 | That Day By The Pier |
+| A3 | There Must Be A Way |
+| A4 | The Last Day Of June |
+| A5 | Suspended In Me |
+| A6 | Driving Home |
+| B1 | I'm Still Here |
+| B2 | The Boy Who Lost His Friends |
+| B3 | The Crib |
+| B4 | Time For A New Start |
+| B5 | Suspended In You |
+| B6 | Under The Shadow Of My Father |
+| B7 | Accept |
+| B8 | Deceive |
+| B9 | Together, Forever Again |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Last Day of June is an adventure puzzle video game developed by Ovosonico and pu
 | Format         | Vinyl LP Deluxe Edition Limited Edition Numbered Stereo (Blue Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM335 |
-| Notes | Original game soundtrack by Steven Wilson.<br>Limited edition of 4000 numbered copies on Translucent Blue Vinyl <br>Based on music originally released between 2004-2016.<br>Includes exclusive mixes and edits.<br>Includes insert.<br>180 gram audiophile vinyl.<br><br>Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’. <br>Barcode sticker on back. <br><br>℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd.<br>Made in the EU. |
+| Notes | Original game soundtrack by Steven Wilson. Limited edition of 4000 numbered copies on Translucent Blue Vinyl  Based on music originally released between 2004-2016. Includes exclusive mixes and edits. Includes insert. 180 gram audiophile vinyl.  Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’.  Barcode sticker on back.   ℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd. Made in the EU. |
 | Discogs URL    | [Steven Wilson - Last Day Of June ](https://www.discogs.com/release/21028867-Steven-Wilson-Last-Day-Of-June-) |

@@ -29,18 +29,18 @@ styles: ["Ethereal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side A - Eventide |  |
-| A1 | Pure Sunlight |  |
-| A2 | The Golden Hour |  |
-| A3 | The Blue Hour |  |
-| A4 | Grow Dark |  |
-| A5 | Nightfall |  |
-|  | Side B - Live At Real World Studios |  |
-| B1 | In The Trees |  |
-| B2 | The Tree Of Life |  |
-| B3 | The New Earth |  |
+| Position | Title |
+|----------|--------|
+|  | Side A - Eventide |
+| A1 | Pure Sunlight |
+| A2 | The Golden Hour |
+| A3 | The Blue Hour |
+| A4 | Grow Dark |
+| A5 | Nightfall |
+|  | Side B - Live At Real World Studios |
+| B1 | In The Trees |
+| B2 | The Tree Of Life |
+| B3 | The New Earth |
 
 
 ## Apple Music

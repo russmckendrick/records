@@ -39,20 +39,20 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crucify | 4:58 |
-| A2 | Girl | 4:06 |
-| A3 | Silent All These Years | 4:11 |
-| B1 | Precious Things | 4:26 |
-| B2 | Winter | 5:41 |
-| B3 | Happy Phantom | 3:13 |
-| C1 | China | 4:59 |
-| C2 | Leather | 3:12 |
-| C3 | Mother | 6:59 |
-| D1 | Tear In Your Hand | 4:38 |
-| D2 | Me And A Gun | 3:44 |
-| D3 | Little Earthquakes | 6:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Crucify |
+| A2 | Girl |
+| A3 | Silent All These Years |
+| B1 | Precious Things |
+| B2 | Winter |
+| B3 | Happy Phantom |
+| C1 | China |
+| C2 | Leather |
+| C3 | Mother |
+| D1 | Tear In Your Hand |
+| D2 | Me And A Gun |
+| D3 | Little Earthquakes |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition Stereo (Green Translucent [Cola-Bottle Clear]) |
 | Label          | Atlantic |
 | Catalog Number | R1 82358 |
-| Notes | Double Vinyl <br>Barnes & Noble Exclusive<br>Cola-Bottle Clear Vinyl<br>Debut solo album. <br><br>Release produced by Tori Amos<br>Audio Supervision Mark Hawley<br>Remastered in 2022 by Jon Astley for Close to the Edge<br>Half-Speed master cut at Abbey Road Studio, London by Miles Showell<br><br>1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker. |
+| Notes | Double Vinyl  Barnes & Noble Exclusive Cola-Bottle Clear Vinyl Debut solo album.   Release produced by Tori Amos Audio Supervision Mark Hawley Remastered in 2022 by Jon Astley for Close to the Edge Half-Speed master cut at Abbey Road Studio, London by Miles Showell  1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker. |
 | Discogs URL    | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/25684807-Tori-Amos-Little-Earthquakes) |

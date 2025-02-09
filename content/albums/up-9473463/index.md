@@ -53,18 +53,18 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Darkness |  |
-| A2 | Growing Up |  |
-| A3 | Sky Blue |  |
-| B1 | No Way Out |  |
-| B2 | I Grieve |  |
-| C1 | The Barry Williams Show |  |
-| C2 | My Head Sounds Like That |  |
-| C3 | More Than This |  |
-| D1 | Signal To Noise |  |
-| D2 | The Drop |  |
+| Position | Title |
+|----------|--------|
+| A1 | Darkness |
+| A2 | Growing Up |
+| A3 | Sky Blue |
+| B1 | No Way Out |
+| B2 | I Grieve |
+| C1 | The Barry Williams Show |
+| C2 | My Head Sounds Like That |
+| C3 | More Than This |
+| D1 | Signal To Noise |
+| D2 | The Drop |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR11 |
-| Notes | 33 ⅓ Half-Speed Remaster.<br>Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.<br><br>On labels and sleeve back:<br>℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd. <br><br>In booklet:<br>℗ © 2016 Peter Gabriel Ltd. <br>Manufactured in the EU.<br><br>Runouts:<br>"PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped. |
+| Notes | 33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped. |
 | Discogs URL    | [Peter Gabriel - Up](https://www.discogs.com/release/9473463-Peter-Gabriel-Up) |

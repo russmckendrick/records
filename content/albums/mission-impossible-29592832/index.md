@@ -24,15 +24,15 @@ styles: ["Acid Jazz"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blow Up |  |
-| A2 | Mission Impossible |  |
-| A3 | Goldfinger |  |
-| B1 | Joyhouse |  |
-| B2 | Mrs. Robinson |  |
-| B3 | Alfie |  |
-| B4 | The Stooge |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blow Up |
+| A2 | Mission Impossible |
+| A3 | Goldfinger |
+| B1 | Joyhouse |
+| B2 | Mrs. Robinson |
+| B3 | Alfie |
+| B4 | The Stooge |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Acid Jazz"]
 | Format         | Vinyl 12" Mini-Album (Red Coloured) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP292R |
-| Notes | Limited Edition Red Vinyl LP reissued as part of the Acid Jazz label’s 35th Anniversary celebrations<br><br> |
+| Notes | Limited Edition Red Vinyl LP reissued as part of the Acid Jazz label’s 35th Anniversary celebrations   |
 | Discogs URL    | [The James Taylor Quartet - Mission Impossible](https://www.discogs.com/release/29592832-The-James-Taylor-Quartet-Mission-Impossible) |

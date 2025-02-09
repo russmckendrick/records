@@ -30,17 +30,17 @@ Dissolution  (stylised as di§olution) is the twelfth studio album by British pr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Not Naming Any Names | 2:05 |
-| A2 | Try As I Might | 4:26 |
-| A3 | Threatening War | 6:37 |
-| A4 | Uncovering Your Tracks | 4:29 |
-| A5 |  All That You've Got | 3:27 |
-| B1 | Far Below | 4:36 |
-| B2 | Pillar of Salt | 1:25 |
-| B3 | White Mist | 11:05 |
-| B4 | Shed A Light | 5:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Not Naming Any Names |
+| A2 | Try As I Might |
+| A3 | Threatening War |
+| A4 | Uncovering Your Tracks |
+| A5 |  All That You've Got |
+| B1 | Far Below |
+| B2 | Pillar of Salt |
+| B3 | White Mist |
+| B4 | Shed A Light |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Dissolution  (stylised as di§olution) is the twelfth studio album by British pr
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE997 |
-| Notes | The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag.<br>Ace guitarist David Torn guests on the song White Mist. |
+| Notes | The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist. |
 | Discogs URL    | [The Pineapple Thief - Dissolution](https://www.discogs.com/release/12172923-The-Pineapple-Thief-Dissolution) |

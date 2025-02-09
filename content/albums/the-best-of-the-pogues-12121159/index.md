@@ -32,22 +32,22 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fairytale Of New York |  |
-| A2 | Sally MacLennane |  |
-| A3 | Dirty Old Town |  |
-| A4 | The Irish Rover |  |
-| A5 | A Pair Of Brown Eyes |  |
-| A6 | Streams Of Whiskey |  |
-| A7 | A Rainy Night In Soho |  |
-| B1 | Fiesta |  |
-| B2 | Rain Street |  |
-| B3 | Misty Morning, Albert Bridge |  |
-| B4 | White City |  |
-| B5 | Thousands Are Sailing |  |
-| B6 | The Broad Majestic Shannon |  |
-| B7 | The Body Of An American |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fairytale Of New York |
+| A2 | Sally MacLennane |
+| A3 | Dirty Old Town |
+| A4 | The Irish Rover |
+| A5 | A Pair Of Brown Eyes |
+| A6 | Streams Of Whiskey |
+| A7 | A Rainy Night In Soho |
+| B1 | Fiesta |
+| B2 | Rain Street |
+| B3 | Misty Morning, Albert Bridge |
+| B4 | White City |
+| B5 | Thousands Are Sailing |
+| B6 | The Broad Majestic Shannon |
+| B7 | The Body Of An American |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 | Format         | Vinyl LP Compilation Reissue Stereo |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 0190295672560 |
-| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd.<br>A Warner Music Group Company. Manufactured In The E.U.<br><br>Runouts are etched. |
+| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.  Runouts are etched. |
 | Discogs URL    | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159-The-Pogues-The-Best-Of-The-Pogues) |

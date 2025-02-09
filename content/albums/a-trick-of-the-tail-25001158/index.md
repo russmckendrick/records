@@ -39,16 +39,16 @@ Upon release, critics were impressed by the improved sound quality and the group
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dance On A Volcano |  |
-| A2 | Entangled |  |
-| A3 | Squonk |  |
-| A4 | Mad Man Moon |  |
-| B1 | Robbery, Assault And Battery |  |
-| B2 | Ripples |  |
-| B3 | A Trick Of The Tail |  |
-| B4 | Los Endos |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dance On A Volcano |
+| A2 | Entangled |
+| A3 | Squonk |
+| A4 | Mad Man Moon |
+| B1 | Robbery, Assault And Battery |
+| B2 | Ripples |
+| B3 | A Trick Of The Tail |
+| B4 | Los Endos |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Upon release, critics were impressed by the improved sound quality and the group
 | Format         | Vinyl LP Album Reissue Remastered Repress Stereo (180g) |
 | Label          | Atlantic |
 | Catalog Number | R1 187964 |
-| Notes | A repress of the [url=https://www.discogs.com/release/6949783]2015 Deluxe Edition[/url] reissue and physically nearly identical to that pressing, including a parchment-style gatefold sleeve, but with several notable differences including the cat# and labels. The hype sticker, while similar, does not indicate "Deluxe Edition", and gives Genesis joint credit with Nick Davis for the 2008 Mixes.<br><br>Hype sticker:<br>[Genesis logo]<br>The Classic Albums<br>featuring<br>Half-Speed Mastering<br>2008 Mixes by Nick Davis & Genesis<br>180g Audiophile Vinyl<br>R1 187964 / 081227955151<br><br>℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation / Rhino Entertainment Company, Warner Music Group Companies.<br><br>Recorded at Trident Studios, London Oct/Nov 1975<br><br>Made in Germany.<br><br>Runouts are etched. |
+| Notes | A repress of the [url=https://www.discogs.com/release/6949783]2015 Deluxe Edition[/url] reissue and physically nearly identical to that pressing, including a parchment-style gatefold sleeve, but with several notable differences including the cat# and labels. The hype sticker, while similar, does not indicate "Deluxe Edition", and gives Genesis joint credit with Nick Davis for the 2008 Mixes.  Hype sticker: [Genesis logo] The Classic Albums featuring Half-Speed Mastering 2008 Mixes by Nick Davis & Genesis 180g Audiophile Vinyl R1 187964 / 081227955151  ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation / Rhino Entertainment Company, Warner Music Group Companies.  Recorded at Trident Studios, London Oct/Nov 1975  Made in Germany.  Runouts are etched. |
 | Discogs URL    | [Genesis - A Trick Of The Tail](https://www.discogs.com/release/25001158-Genesis-A-Trick-Of-The-Tail) |

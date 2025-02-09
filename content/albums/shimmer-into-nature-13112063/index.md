@@ -36,13 +36,13 @@ styles: ["Space Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Glass Staircase  | 7:55 |
-| A2 | Travel Dust | 9:15 |
-| A3 | Oddplonk | 8:00 |
-| B1 | Shim | 7:44 |
-| B2 | Wherble | 10:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Glass Staircase  |
+| A2 | Travel Dust |
+| A3 | Oddplonk |
+| B1 | Shim |
+| B2 | Wherble |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Space Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1004 |
-| Notes | 180gm Heavy Weight Vinyl<br><br>Gatefold sleeve<br><br>Some copies come with Kscope promotional flyer. |
+| Notes | 180gm Heavy Weight Vinyl  Gatefold sleeve  Some copies come with Kscope promotional flyer. |
 | Discogs URL    | [Ed Wynne - Shimmer Into Nature](https://www.discogs.com/release/13112063-Ed-Wynne-Shimmer-Into-Nature) |

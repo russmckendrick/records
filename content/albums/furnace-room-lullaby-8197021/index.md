@@ -29,20 +29,20 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Set Out Running |  |
-| A2 | Guided By Wire |  |
-| A3 | Porchlight |  |
-| A4 | Mood To Burn Bridges |  |
-| A5 | No Need To Cry |  |
-| A6 | Twist The Knife |  |
-| B1 | Thrice All American |  |
-| B2 | We've Never Met |  |
-| B3 | Whip The Blankets |  |
-| B4 | South Tacoma Way |  |
-| B5 | Bought And Sold |  |
-| B6 | Furnace Room Lullaby |  |
+| Position | Title |
+|----------|--------|
+| A1 | Set Out Running |
+| A2 | Guided By Wire |
+| A3 | Porchlight |
+| A4 | Mood To Burn Bridges |
+| A5 | No Need To Cry |
+| A6 | Twist The Knife |
+| B1 | Thrice All American |
+| B2 | We've Never Met |
+| B3 | Whip The Blankets |
+| B4 | South Tacoma Way |
+| B5 | Bought And Sold |
+| B6 | Furnace Room Lullaby |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear w/ Red, Gatefold) |
 | Label          | Anti- |
 | Catalog Number | #86915-1 |
-| Notes | Download card included.<br><br>"#86915-1" is on the spine<br>"99976-1" is on the sticker that states that the download card is included<br>"86915-1CRM (Clear/Red)" is on the bar code sticker<br><br>Copyright is 2015 but the lp was reissued on March 4th, 2016.   |
+| Notes | Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.   |
 | Discogs URL    | [Neko Case  Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |

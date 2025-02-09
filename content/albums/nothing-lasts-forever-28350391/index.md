@@ -29,18 +29,18 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Foreign Land | 3:54 |
-| A2 | Tired Of Being Alone  | 4:43 |
-| A3 | I Left A Light On | 3:34 |
-| A4 | See The Light | 3:22 |
-| A5 | It’s Alright  | 3:48 |
-| B1 | Falling Into The Sun | 3:13 |
-| B2 | Self-Sedation  | 3:20 |
-| B3 | Middle Of My Mind | 3:17 |
-| B4 | Back To The Light | 3:06 |
-| B5 | I Will Love You | 7:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Foreign Land |
+| A2 | Tired Of Being Alone  |
+| A3 | I Left A Light On |
+| A4 | See The Light |
+| A5 | It’s Alright  |
+| B1 | Falling Into The Sun |
+| B2 | Self-Sedation  |
+| B3 | Middle Of My Mind |
+| B4 | Back To The Light |
+| B5 | I Will Love You |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Pema |
 | Catalog Number | PEMA20LPX |
-| Notes | Available via both Rough Trade and Monorail as an "exclusive" edition of 1000 copies on clear vinyl with signed art print.<br>Housed in mirror board sleeve with printed inner.<br><br>Barcode printed in a hyper stick.<br>Cat# PEMA20LP on the side. |
+| Notes | Available via both Rough Trade and Monorail as an "exclusive" edition of 1000 copies on clear vinyl with signed art print. Housed in mirror board sleeve with printed inner.  Barcode printed in a hyper stick. Cat# PEMA20LP on the side. |
 | Discogs URL    | [Teenage Fanclub - Nothing Lasts Forever](https://www.discogs.com/release/28350391-Teenage-Fanclub-Nothing-Lasts-Forever) |

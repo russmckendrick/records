@@ -38,17 +38,17 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Elysian Skies |  |
-| A2 | Evolve Or Perish |  |
-| A3 | Rapture |  |
-| A4 | Give Flight To The Imagination |  |
-| A5 | Dissolve |  |
-| B1 | Illuminate |  |
-| B2 | Futures Dark |  |
-| B3 | Black Folds |  |
-| B4 | A Thousand Lost Dreams |  |
+| Position | Title |
+|----------|--------|
+| A1 | Elysian Skies |
+| A2 | Evolve Or Perish |
+| A3 | Rapture |
+| A4 | Give Flight To The Imagination |
+| A5 | Dissolve |
+| B1 | Illuminate |
+| B2 | Futures Dark |
+| B3 | Black Folds |
+| B4 | A Thousand Lost Dreams |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album (180 g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE879 |
-| Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.<br><br>Gatefold 1LP + 4 page booklet + download code.<br><br> |
+| Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.  Gatefold 1LP + 4 page booklet + download code.   |
 | Discogs URL    | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951-Nordic-Giants-A-Séance-Of-Dark-Delusions) |

@@ -40,21 +40,21 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dream On |  |
-| A2 | Shine |  |
-| A3 | The Sweetest Condition |  |
-| B1 | When The Body Speaks |  |
-| B2 | The Dead Of Night |  |
-| B3 | Lovetheme |  |
-| C1 | Freelove |  |
-| C2 | Comatose |  |
-| C3 | I Feel Loved |  |
-| D1 | Breathe |  |
-| D2 | Easy Tiger |  |
-| D3 | I Am You |  |
-| D4 | Goodnight Lovers |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dream On |
+| A2 | Shine |
+| A3 | The Sweetest Condition |
+| B1 | When The Body Speaks |
+| B2 | The Dead Of Night |
+| B3 | Lovetheme |
+| C1 | Freelove |
+| C2 | Comatose |
+| C3 | I Feel Loved |
+| D1 | Breathe |
+| D2 | Easy Tiger |
+| D3 | I Am You |
+| D4 | Goodnight Lovers |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985336931 |
-| Notes | ℗ 2001 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International<br>Ltd. © 2001, 2016 Venusnote Ltd.<br>under exclusive license to Sony Music<br>Entertainment International Ltd.<br>Distributed by Sony Music<br>Entertainment. / All trademarks and<br>logos are protected. / Made<br>in the EU. / Sony Music<br>Entertainment International<br>Services GmbH, PO Box 510, 33311<br>Gütersloh, Germany. / LC 05834<br>88985336931<br><br>Gatefold sleeve. 180 gram. |
+| Notes | ℗ 2001 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2001, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 88985336931  Gatefold sleeve. 180 gram. |
 | Discogs URL    | [Depeche Mode - Exciter](https://www.discogs.com/release/9798727-Depeche-Mode-Exciter) |

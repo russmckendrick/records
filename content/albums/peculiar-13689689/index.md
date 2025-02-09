@@ -28,25 +28,25 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | First Act |  |
-| A1 | 86 The Mayo |  |
-| A2 | Peculiar |  |
-| A3 | Propaganda |  |
-| A4 | Crazy |  |
-| A5 | Set The Girl Free |  |
-| A6 | In Walked Capo |  |
-|  | Second Act |  |
-| B1 | I'd Rather Die Happy |  |
-| B2 | What Went Wrong |  |
-| B3 | Keep It Simple |  |
-| B4 | International War Criminal |  |
-| B5 | Sauron |  |
-| B6 | I Shall Be Released |  |
-|  | Encore 7" |  |
-| A | Rider |  |
-| B | Propaganda Dub |  |
+| Position | Title |
+|----------|--------|
+|  | First Act |
+| A1 | 86 The Mayo |
+| A2 | Peculiar |
+| A3 | Propaganda |
+| A4 | Crazy |
+| A5 | Set The Girl Free |
+| A6 | In Walked Capo |
+|  | Second Act |
+| B1 | I'd Rather Die Happy |
+| B2 | What Went Wrong |
+| B3 | Keep It Simple |
+| B4 | International War Criminal |
+| B5 | Sauron |
+| B6 | I Shall Be Released |
+|  | Encore 7" |
+| A | Rider |
+| B | Propaganda Dub |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 | Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR231-1 |
-| Notes | Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".<br><br>Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios.<br>Additional overdubs recorded in Los Angeles. |
+| Notes | Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".  Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios. Additional overdubs recorded in Los Angeles. |
 | Discogs URL    | [The Slackers - Peculiar](https://www.discogs.com/release/13689689-The-Slackers-Peculiar) |

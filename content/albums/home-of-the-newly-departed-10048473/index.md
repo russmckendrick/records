@@ -25,15 +25,15 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pilot Her |  |
-| A2 | Dear Lord, No Deal |  |
-| A3 | Clairvoyant Fortnight |  |
-| A4 | In A Foreign Way |  |
-| A5 | Happy Half-Life, Dear Friend |  |
-| B1 | The Prime Of Our Decline |  |
-| B2 | HMS Washout |  |
+| Position | Title |
+|----------|--------|
+| A1 | Pilot Her |
+| A2 | Dear Lord, No Deal |
+| A3 | Clairvoyant Fortnight |
+| A4 | In A Foreign Way |
+| A5 | Happy Half-Life, Dear Friend |
+| B1 | The Prime Of Our Decline |
+| B2 | HMS Washout |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 | Format         | Vinyl LP Album Compilation |
 | Label          | Believers Roast |
 | Catalog Number | BR017LP |
-| Notes | Happy Half-life, Dear Friend was released in 2009 as the B-side to the 'Pissed Up On Brake Fluid' 7" single (BR001V).<br>Pilot Her, Dear Lord, No Deal and HMS Washout were released in 2011 as the limited, hand-numbered CDr EP, 'Dear Lord, No Deal' (BR004).<br>Clairvoyant Fortnight, In A Foreign Way and The Prime of Our Decline were released in 2012 as the limited edition CD EP, 'Clairvoyant Fortnight' (BR008). |
+| Notes | Happy Half-life, Dear Friend was released in 2009 as the B-side to the 'Pissed Up On Brake Fluid' 7" single (BR001V).  Pilot Her, Dear Lord, No Deal and HMS Washout were released in 2011 as the limited, hand-numbered CDr EP, 'Dear Lord, No Deal' (BR004).  Clairvoyant Fortnight, In A Foreign Way and The Prime of Our Decline were released in 2012 as the limited edition CD EP, 'Clairvoyant Fortnight' (BR008). |
 | Discogs URL    | [Knifeworld - Home Of The Newly Departed](https://www.discogs.com/release/10048473-Knifeworld-Home-Of-The-Newly-Departed) |

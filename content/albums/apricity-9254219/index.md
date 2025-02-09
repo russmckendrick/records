@@ -26,18 +26,18 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coal Mine |  |
-| A2 | Plane Crash In Kansas |  |
-| A3 | No Peace |  |
-| A4 | Sun Rays |  |
-| A5 | Into Eternity |  |
-| B1 | Rebel Lands |  |
-| B2 | Seraphim |  |
-| B3 | Portal |  |
-| B4 | Evolution |  |
-| B5 | Apricity |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coal Mine |
+| A2 | Plane Crash In Kansas |
+| A3 | No Peace |
+| A4 | Sun Rays |
+| A5 | Into Eternity |
+| B1 | Rebel Lands |
+| B2 | Seraphim |
+| B3 | Portal |
+| B4 | Evolution |
+| B5 | Apricity |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Harvest |
 | Catalog Number | 4776485 |
-| Notes | Includes an insert with artwork on one and lyrics and liner notes on the other side, as well as a card with a download code for WAV and MP3 files.<br><br>All tracks © 2016 Sony ATV Music // Syd Arthur Music BMI. All Rights Reserved. Used By Permission.<br><br>℗ © 2016 Harvest Records, Under Exclusive License To Communion Group Ltd. BIEM /SDRM. Made In The EU. COMM159 / 4776485 |
+| Notes | Includes an insert with artwork on one and lyrics and liner notes on the other side, as well as a card with a download code for WAV and MP3 files.  All tracks © 2016 Sony ATV Music // Syd Arthur Music BMI. All Rights Reserved. Used By Permission.  ℗ © 2016 Harvest Records, Under Exclusive License To Communion Group Ltd. BIEM /SDRM. Made In The EU. COMM159 / 4776485 |
 | Discogs URL    | [Syd Arthur - Apricity](https://www.discogs.com/release/9254219-Syd-Arthur-Apricity) |

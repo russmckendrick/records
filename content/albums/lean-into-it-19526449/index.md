@@ -35,19 +35,19 @@ The album includes the song "Green-Tinted Sixties Mind".
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) | 3:54 |
-| A2 | Alive And Kickin' | 5:28 |
-| A3 | Green-Tinted Sixties Mind | 3:30 |
-| A4 | CDFF-Lucky This Time | 4:10 |
-| A5 | Voodoo Kiss | 4:07 |
-| B1 | Never Say Never | 3:48 |
-| B2 | Just Take My Heart | 4:21 |
-| B3 | My Kinda Woman | 4:09 |
-| B4 | A Little Too Loose | 5:21 |
-| B5 | Road To Ruin | 3:54 |
-| B6 | To Be With You | 3:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) |
+| A2 | Alive And Kickin' |
+| A3 | Green-Tinted Sixties Mind |
+| A4 | CDFF-Lucky This Time |
+| A5 | Voodoo Kiss |
+| B1 | Never Say Never |
+| B2 | Just Take My Heart |
+| B3 | My Kinda Woman |
+| B4 | A Little Too Loose |
+| B5 | Road To Ruin |
+| B6 | To Be With You |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album includes the song "Green-Tinted Sixties Mind".
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (White) |
 | Label          | Evoxs |
 | Catalog Number | EVLP036 |
-| Notes | Delayed RSD 2021 reissue.<br><br>Released as an import in Australia on RSD 2021 drop 2, July 17th.<br>Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url]<br>May have been released in other regions (unconfirmed official sources) |
+| Notes | Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url] May have been released in other regions (unconfirmed official sources) |
 | Discogs URL    | [Mr Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |

@@ -43,25 +43,25 @@ This article is a discography of American rock musician Todd Rundgren.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How About A Little Fanfare? | 0:57 |
-| A2 | I Think You Know | 3:48 |
-| A3 | The Spark Of Life | 6:43 |
-| A4 | An Elpee's Worth Of Toons | 2:08 |
-| A5 | A Dream Goes On Forever | 2:21 |
-| A6 | Lord Chancellor's Nightmare Song | 3:30 |
-| B1 | Drunken Blue Rooster | 3:00 |
-| B2 | The Last Ride | 4:46 |
-| B3 | Everybody's Going To Heaven / King Kong Reggae | 6:35 |
-| C1 | Number 1 Lowest Common Denominator | 5:10 |
-| C2 | Useless Begging | 3:27 |
-| C3 | Sidewalk Cafe | 2:25 |
-| C4 | Izzat Love? | 1:56 |
-| C5 | Heavy Metal Kids | 4:13 |
-| D1 | In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) | 5:48 |
-| D2 | Don't You Ever Learn? | 6:01 |
-| D3 | Sons Of 1984 | 4:37 |
+| Position | Title |
+|----------|--------|
+| A1 | How About A Little Fanfare? |
+| A2 | I Think You Know |
+| A3 | The Spark Of Life |
+| A4 | An Elpee's Worth Of Toons |
+| A5 | A Dream Goes On Forever |
+| A6 | Lord Chancellor's Nightmare Song |
+| B1 | Drunken Blue Rooster |
+| B2 | The Last Ride |
+| B3 | Everybody's Going To Heaven / King Kong Reggae |
+| C1 | Number 1 Lowest Common Denominator |
+| C2 | Useless Begging |
+| C3 | Sidewalk Cafe |
+| C4 | Izzat Love? |
+| C5 | Heavy Metal Kids |
+| D1 | In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) |
+| D2 | Don't You Ever Learn? |
+| D3 | Sons Of 1984 |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ This article is a discography of American rock musician Todd Rundgren.
 | Format         | Vinyl 2× LP Album |
 | Label          | Bearsville |
 | Catalog Number | 2 BR 6952 |
-| Notes | First pressings came with a fold-out black and white poster with lyrics, credits, and names of buyers returning postcards enclosed in [m93839].<br>Original 1973 double LP album.<br>The runouts are etched; STERLING is stamped.<br>Cat# 2 BR 6952 on the cover and spine.<br>Cat# 2BR 6952 on the labels.<br>Tracks A1 to A5, B1 to D3: [l360084]/[l276311]<br>Track A6: [l264963]<br>Recorded at Secret Sound Studio.<br>Sons of 1984: Recorded at Wollman Rink, Central Park by Bearsville Sound Remote Recording. |
+| Notes | First pressings came with a fold-out black and white poster with lyrics, credits, and names of buyers returning postcards enclosed in [m93839]. Original 1973 double LP album. The runouts are etched; STERLING is stamped. Cat# 2 BR 6952 on the cover and spine. Cat# 2BR 6952 on the labels. Tracks A1 to A5, B1 to D3: [l360084]/[l276311] Track A6: [l264963] Recorded at Secret Sound Studio. Sons of 1984: Recorded at Wollman Rink, Central Park by Bearsville Sound Remote Recording. |
 | Discogs URL    | [Todd Rundgren - Todd](https://www.discogs.com/release/380303-Todd-Rundgren-Todd) |

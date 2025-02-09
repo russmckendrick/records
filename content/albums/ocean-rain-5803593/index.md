@@ -28,17 +28,17 @@ The band wrote the songs for the new album in 1983. In early 1984 they recorded 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Silver | 3:19 |
-| A2 | Nocturnal Me | 4:54 |
-| A3 | Crystal Days | 2:24 |
-| A4 | The Yo Yo Man | 3:11 |
-| A5 | Thorn Of Crowns | 4:50 |
-| B1 | The Killing Moon | 5:46 |
-| B2 | Seven Seas | 3:19 |
-| B3 | My Kingdom | 4:06 |
-| B4 | Ocean Rain | 5:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Silver |
+| A2 | Nocturnal Me |
+| A3 | Crystal Days |
+| A4 | The Yo Yo Man |
+| A5 | Thorn Of Crowns |
+| B1 | The Killing Moon |
+| B2 | Seven Seas |
+| B3 | My Kingdom |
+| B4 | Ocean Rain |
 
 
 ## Apple Music

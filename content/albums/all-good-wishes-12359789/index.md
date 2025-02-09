@@ -24,19 +24,19 @@ styles: ["Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Search For Your Love |  |
-| A2 | Claudia |  |
-| A3 | Spend Time Right Here With You |  |
-| A4 | I Dream Of Your Song |  |
-| A5 | Beam |  |
-| A6 | All Good Wishes |  |
-| B1 | Morning Velvet Sky |  |
-| B2 | Following Rain |  |
-| B3 | Ride |  |
-| B4 | Watching Ships |  |
-| B5 | Silver Tides |  |
+| Position | Title |
+|----------|--------|
+| A1 | Search For Your Love |
+| A2 | Claudia |
+| A3 | Spend Time Right Here With You |
+| A4 | I Dream Of Your Song |
+| A5 | Beam |
+| A6 | All Good Wishes |
+| B1 | Morning Velvet Sky |
+| B2 | Following Rain |
+| B3 | Ride |
+| B4 | Watching Ships |
+| B5 | Silver Tides |
 
 
 ## Apple Music

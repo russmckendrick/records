@@ -58,64 +58,64 @@ Quadrophenia was released to a positive reception in both the UK and the US, but
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album : 2011 Remaster |  |
-| CD1-1 | I Am The Sea | 2:10 |
-| CD1-2 | The Real Me | 3:21 |
-| CD1-3 | Quadrophenia | 6:13 |
-| CD1-4 | Cut My Hair | 3:45 |
-| CD1-5 | The Punk And The Godfather | 5:11 |
-| CD1-6 | I'm One | 2:38 |
-| CD1-7 | The Dirty Jobs | 4:29 |
-| CD1-8 | Helpless Dancer | 2:34 |
-| CD1-9 | Is It In My Head? | 3:43 |
-| CD1-10 | I've Had Enough | 6:16 |
-| CD2-1 | 5.15 | 5:01 |
-| CD2-2 | Sea And Sand | 5:01 |
-| CD2-3 | Drowned | 5:27 |
-| CD2-4 | Bell Boy | 4:58 |
-| CD2-5 | Doctor Jimmy | 8:36 |
-| CD2-6 | The Rock | 6:37 |
-| CD2-7 | Love Reign O'er Me | 5:50 |
-|  | The Demos |  |
-| CD3-1 | The Real Me (Demo) | 4:27 |
-| CD3-2 | Quadrophenia - Four Overtures (Demo) | 6:21 |
-| CD3-3 | Cut My Hair (Demo) | 3:30 |
-| CD3-4 | Fill No. 1 - Get Out And Stay Out (Demo) | 1:23 |
-| CD3-5 | Quadrophenic - Four Faces (Demo) | 4:04 |
-| CD3-6 | We Close Tonight (Demo) | 2:44 |
-| CD3-7 | You Came Back (Demo) | 3:19 |
-| CD3-8 | Get Inside (Demo) | 3:11 |
-| CD3-9 | Joker James (Demo) | 3:42 |
-| CD3-10 | Punk (Demo) | 4:56 |
-| CD3-11 | I'm One (Demo) | 2:39 |
-| CD3-12 | Dirty Jobs (Demo) | 3:48 |
-| CD3-13 | Helpless Dancer (Demo) | 2:16 |
-| CD4-1 | Is It In My Head? (Demo) | 4:13 |
-| CD4-2 | Anymore (Demo) | 3:22 |
-| CD4-3 | I've Had Enough (Demo) | 6:23 |
-| CD4-4 | Fill No. 2 (Demo) | 1:32 |
-| CD4-5 | Wizardry (Demo) | 3:11 |
-| CD4-6 | Sea And Sand (Demo) | 4:14 |
-| CD4-7 | Drowned (Demo) | 4:15 |
-| CD4-8 | Is It Me? (Demo) | 4:39 |
-| CD4-9 | Bell Boy (Demo) | 5:04 |
-| CD4-10 | Doctor Jimmy (Demo) | 7:30 |
-| CD4-11 | Finale - The Rock (Demo) | 8:00 |
-| CD4-12 | Love Reign O'er Me (Demo) | 5:12 |
-|  | 5.1 Surround-Sound Mix |  |
-| DVD-1 | I Am The Sea |  |
-| DVD-2 | The Real Me |  |
-| DVD-3 | Quadrophenia |  |
-| DVD-4 | I've Had Enough |  |
-| DVD-5 | 5.15 |  |
-| DVD-6 | Doctor Jimmy |  |
-| DVD-7 | The Rock |  |
-| DVD-8 | Love Reign O'er Me |  |
-|  | Seven-Inch Vinyl Single |  |
-| 7"-A | 5.15 |  |
-| 7"-B | Water |  |
+| Position | Title |
+|----------|--------|
+|  | The Original Album : 2011 Remaster |
+| CD1-1 | I Am The Sea |
+| CD1-2 | The Real Me |
+| CD1-3 | Quadrophenia |
+| CD1-4 | Cut My Hair |
+| CD1-5 | The Punk And The Godfather |
+| CD1-6 | I'm One |
+| CD1-7 | The Dirty Jobs |
+| CD1-8 | Helpless Dancer |
+| CD1-9 | Is It In My Head? |
+| CD1-10 | I've Had Enough |
+| CD2-1 | 5.15 |
+| CD2-2 | Sea And Sand |
+| CD2-3 | Drowned |
+| CD2-4 | Bell Boy |
+| CD2-5 | Doctor Jimmy |
+| CD2-6 | The Rock |
+| CD2-7 | Love Reign O'er Me |
+|  | The Demos |
+| CD3-1 | The Real Me (Demo) |
+| CD3-2 | Quadrophenia - Four Overtures (Demo) |
+| CD3-3 | Cut My Hair (Demo) |
+| CD3-4 | Fill No. 1 - Get Out And Stay Out (Demo) |
+| CD3-5 | Quadrophenic - Four Faces (Demo) |
+| CD3-6 | We Close Tonight (Demo) |
+| CD3-7 | You Came Back (Demo) |
+| CD3-8 | Get Inside (Demo) |
+| CD3-9 | Joker James (Demo) |
+| CD3-10 | Punk (Demo) |
+| CD3-11 | I'm One (Demo) |
+| CD3-12 | Dirty Jobs (Demo) |
+| CD3-13 | Helpless Dancer (Demo) |
+| CD4-1 | Is It In My Head? (Demo) |
+| CD4-2 | Anymore (Demo) |
+| CD4-3 | I've Had Enough (Demo) |
+| CD4-4 | Fill No. 2 (Demo) |
+| CD4-5 | Wizardry (Demo) |
+| CD4-6 | Sea And Sand (Demo) |
+| CD4-7 | Drowned (Demo) |
+| CD4-8 | Is It Me? (Demo) |
+| CD4-9 | Bell Boy (Demo) |
+| CD4-10 | Doctor Jimmy (Demo) |
+| CD4-11 | Finale - The Rock (Demo) |
+| CD4-12 | Love Reign O'er Me (Demo) |
+|  | 5.1 Surround-Sound Mix |
+| DVD-1 | I Am The Sea |
+| DVD-2 | The Real Me |
+| DVD-3 | Quadrophenia |
+| DVD-4 | I've Had Enough |
+| DVD-5 | 5.15 |
+| DVD-6 | Doctor Jimmy |
+| DVD-7 | The Rock |
+| DVD-8 | Love Reign O'er Me |
+|  | Seven-Inch Vinyl Single |
+| 7"-A | 5.15 |
+| 7"-B | Water |
 
 
 ## Apple Music
@@ -133,5 +133,5 @@ Quadrophenia was released to a positive reception in both the UK and the US, but
 | Format         | Box Set Deluxe Edition Limited Edition (Director's Cut), CD 2× Album Reissue Remastered, CD 2× Album, DVD DVD-Audio Multichannel, Vinyl 7" 45 RPM Single Reissue |
 | Label          | Polydor |
 | Catalog Number | 2777840 |
-| Notes | "Super-Deluxe" limited edition 5 CD/DVD box set. <br>Discs 1 & 2 feature the 2011 remastered album.<br>Discs 3 & 4 feature 25 demo tracks from Pete Townshend's studio archive, including songs that didn’t make the finished album. <br>Disc 5 - The Quadrophenia 5.1. EP - is an exclusive eight-track DVD-A re-mixed for 5.1 surround sound. <br>Also includes a replica 7" vinyl single featuring the hit single "5.15" b/w "Water" in a picture sleeve. (Note: The mix of "5:15" on this replica single is actually the 1979 remix from the "[m=68480]," not the 1973 UK single mix.)<br><br>This set is presented in a package replicating the striking black and white imagery from the original vinyl LP photography and adds a never-seen colour out-take of the famous cover shot. <br>Includes a set of six facsimile memorabilia "inserts" housed in a card envelope; deluxe 100-page, hard-back book featuring a brand new 13,000-word essay by Pete Townshend; previously unseen personal notes, photographs, handwritten lyrics and memorabilia from the period. Also features Pete's in depth, track-by-track guide to the demos and studio diary.<br><br>Disc 1 label and book contains instructions to access bonus "Q-Cloud" material online for this release.<br><br>On discs:<br>Made in the E.U.<br><br>On box, book:<br>Made in the EU<br><br>Sticker affixed to box shrink: <br>Disc Made In Germany<br><br>Title on book: "Quadrophenia : Director's Cut"<br>Catalog number on book: 2777847<br><br>Insert packet catalog number: 2777849<br><br>Hype sticker with catalog number 2777840 describing full package contents affixed to box shrink.<br><br>5.1 mixes at FX Rentals.<br>Demos recorded on 8-track analogue tape at Pete Townshend's home studio No 2 The Embankment, Twickenham between March 1970 and March 1973.<br>Demos mixed using Digital Performer software at 192Khz-24BIT at Woody Studios, Richmond, London in May, June and July 2011.<br><br>Box, book:<br>℗ 2011 Polydor Ltd. (UK) © 2011 Polydor Ltd. (UK). A Universal Music Company. <br><br>Discs 1, 2, 5, 7" vinyl single:<br>℗ 1973 Polydor Ltd. (UK) <br><br>Discs 3, 4:<br>℗ 2011 Eel Pie Recording Productions Ltd., under license to Polydor Ltd. (UK)<br><br>Track 7"-A title on replica label: "5 : 15" |
+| Notes | "Super-Deluxe" limited edition 5 CD/DVD box set.  Discs 1 & 2 feature the 2011 remastered album. Discs 3 & 4 feature 25 demo tracks from Pete Townshend's studio archive, including songs that didn’t make the finished album.  Disc 5 - The Quadrophenia 5.1. EP - is an exclusive eight-track DVD-A re-mixed for 5.1 surround sound.  Also includes a replica 7" vinyl single featuring the hit single "5.15" b/w "Water" in a picture sleeve. (Note: The mix of "5:15" on this replica single is actually the 1979 remix from the "[m=68480]," not the 1973 UK single mix.)  This set is presented in a package replicating the striking black and white imagery from the original vinyl LP photography and adds a never-seen colour out-take of the famous cover shot.  Includes a set of six facsimile memorabilia "inserts" housed in a card envelope; deluxe 100-page, hard-back book featuring a brand new 13,000-word essay by Pete Townshend; previously unseen personal notes, photographs, handwritten lyrics and memorabilia from the period. Also features Pete's in depth, track-by-track guide to the demos and studio diary.  Disc 1 label and book contains instructions to access bonus "Q-Cloud" material online for this release.  On discs: Made in the E.U.  On box, book: Made in the EU  Sticker affixed to box shrink:  Disc Made In Germany  Title on book: "Quadrophenia : Director's Cut" Catalog number on book: 2777847  Insert packet catalog number: 2777849  Hype sticker with catalog number 2777840 describing full package contents affixed to box shrink.  5.1 mixes at FX Rentals. Demos recorded on 8-track analogue tape at Pete Townshend's home studio No 2 The Embankment, Twickenham between March 1970 and March 1973. Demos mixed using Digital Performer software at 192Khz-24BIT at Woody Studios, Richmond, London in May, June and July 2011.  Box, book: ℗ 2011 Polydor Ltd. (UK) © 2011 Polydor Ltd. (UK). A Universal Music Company.   Discs 1, 2, 5, 7" vinyl single: ℗ 1973 Polydor Ltd. (UK)   Discs 3, 4: ℗ 2011 Eel Pie Recording Productions Ltd., under license to Polydor Ltd. (UK)  Track 7"-A title on replica label: "5 : 15" |
 | Discogs URL    | [The Who - Quadrophenia](https://www.discogs.com/release/3818240-The-Who-Quadrophenia) |

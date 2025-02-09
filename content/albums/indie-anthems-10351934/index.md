@@ -29,28 +29,28 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trash |  |
-| A2 | Just |  |
-| A3 | One To Another |  |
-| A4 | Movin' On Up |  |
-| A5 | Juxtaposed With U |  |
-| B1 | Fools Gold |  |
-| B2 | Fire |  |
-| B3 | Rearrange |  |
-| B4 | Same Jeans |  |
-| B5 | Dreaming Of You |  |
-| C1 | Breathe (Edit) |  |
-| C2 | You Love Us |  |
-| C3 | Waking Up |  |
-| C4 | Ladykillers |  |
-| C5 | Inbetweener |  |
-| D1 | Ashes |  |
-| D2 | Sing |  |
-| D3 | Here Comes Your Man |  |
-| D4 | Sparky's Dream |  |
-| D5 | Come Together |  |
+| Position | Title |
+|----------|--------|
+| A1 | Trash |
+| A2 | Just |
+| A3 | One To Another |
+| A4 | Movin' On Up |
+| A5 | Juxtaposed With U |
+| B1 | Fools Gold |
+| B2 | Fire |
+| B3 | Rearrange |
+| B4 | Same Jeans |
+| B5 | Dreaming Of You |
+| C1 | Breathe (Edit) |
+| C2 | You Love Us |
+| C3 | Waking Up |
+| C4 | Ladykillers |
+| C5 | Inbetweener |
+| D1 | Ashes |
+| D2 | Sing |
+| D3 | Here Comes Your Man |
+| D4 | Sparky's Dream |
+| D5 | Come Together |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 | Format         | Vinyl 2× LP Compilation Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP004 |
-| Notes | Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.<br><br>Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.<br><br>Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit. |
+| Notes | Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.  Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.  Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit. |
 | Discogs URL    | [Various - Indie Anthems](https://www.discogs.com/release/10351934-Various-Indie-Anthems) |

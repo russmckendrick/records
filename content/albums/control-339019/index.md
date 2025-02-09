@@ -36,17 +36,17 @@ Control went on to receive several accolades, including a nomination for the Gra
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Control | 5:55 |
-| A2 | Nasty | 4:00 |
-| A3 | What Have You Done For Me Lately | 4:41 |
-| A4 | You Can Be Mine | 5:12 |
-| B1 | The Pleasure Principle | 4:58 |
-| B2 | When I Think Of You | 3:57 |
-| B3 | He Doesn't Know I'm Alive | 3:30 |
-| B4 | Let's Wait Awhile | 4:36 |
-| B5 | Funny How Time Flies (When You're Having Fun) | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Control |
+| A2 | Nasty |
+| A3 | What Have You Done For Me Lately |
+| A4 | You Can Be Mine |
+| B1 | The Pleasure Principle |
+| B2 | When I Think Of You |
+| B3 | He Doesn't Know I'm Alive |
+| B4 | Let's Wait Awhile |
+| B5 | Funny How Time Flies (When You're Having Fun) |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Control went on to receive several accolades, including a nomination for the Gra
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMA 5106 |
-| Notes | ℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve)<br>© 1986 A & M Records Inc. (back cover, inner sleeve)<br><br>Issued with a custom printed inner sleeve containing credits.<br><br>'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)<br><br>'Made in England' (labels)<br><br>'Printed in England' (spine)<br><br>Runouts are stamped except "JA" which is etched. |
+| Notes | ℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve) © 1986 A & M Records Inc. (back cover, inner sleeve)  Issued with a custom printed inner sleeve containing credits.  'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)  'Made in England' (labels)  'Printed in England' (spine)  Runouts are stamped except "JA" which is etched. |
 | Discogs URL    | [Janet Jackson - Control](https://www.discogs.com/release/339019-Janet-Jackson-Control) |

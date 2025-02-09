@@ -53,17 +53,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I’ll Haunt You |  |
-| A2 | Need Your Love |  |
-| A3 | How To Forgive |  |
-| A4 | Runner |  |
-| A5 | Echoes |  |
-| B6 | Swimmer |  |
-| B7 | Tender As A Tomb |  |
-| B8 | Late Night |  |
-| B9 | Matrimony II |  |
+| Position | Title |
+|----------|--------|
+| A1 | I’ll Haunt You |
+| A2 | Need Your Love |
+| A3 | How To Forgive |
+| A4 | Runner |
+| A5 | Echoes |
+| B6 | Swimmer |
+| B7 | Tender As A Tomb |
+| B8 | Late Night |
+| B9 | Matrimony II |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD007LP |
-| Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.<br><br>Tracks are sequentially listed on release.<br><br>Embossed cover.<br><br>Includes digital download coupon. |
+| Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.  Tracks are sequentially listed on release.  Embossed cover.  Includes digital download coupon. |
 | Discogs URL    | [Tennis - Swimmer](https://www.discogs.com/release/26162459-Tennis-6-Swimmer) |

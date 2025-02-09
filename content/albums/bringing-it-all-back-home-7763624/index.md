@@ -35,19 +35,19 @@ There’s a common conception that Dylan left political songwriting behind on <i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Subterranean Homesick Blues | 2:17 |
-| A2 | She Belongs To Me | 2:48 |
-| A3 | Maggie's Farm | 3:51 |
-| A4 | Love Minus Zero / No Limit | 2:47 |
-| A5 | Outlaw Blues | 3:00 |
-| A6 | On The Road Again | 2:30 |
-| A7 | Bob Dylan's 115th Dream | 6:29 |
-| B1 | Mr. Tambourine Man | 5:25 |
-| B2 | Gates Of Eden | 5:42 |
-| B3 | It's Alright, Ma (I'm Only Bleeding) | 7:30 |
-| B4 | It's All Over Now, Baby Blue | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Subterranean Homesick Blues |
+| A2 | She Belongs To Me |
+| A3 | Maggie's Farm |
+| A4 | Love Minus Zero / No Limit |
+| A5 | Outlaw Blues |
+| A6 | On The Road Again |
+| A7 | Bob Dylan's 115th Dream |
+| B1 | Mr. Tambourine Man |
+| B2 | Gates Of Eden |
+| B3 | It's Alright, Ma (I'm Only Bleeding) |
+| B4 | It's All Over Now, Baby Blue |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ There’s a common conception that Dylan left political songwriting behind on <i
 | Format         | Vinyl LP Album Reissue Mono (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | CL 2328 |
-| Notes | Re-issue with Legacy Vinyl 180 Gram sticker on the front.<br><br>Originally released 1965. © 1965, 2015 Columbia Records. Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.<br><br>© 1965 by Bob Dylan.<br><br>Runouts are stamped and etched. On both sides, the script from 88016 to STERLING is stamped and from RKS to 5-A/B is etched,  |
+| Notes | Re-issue with Legacy Vinyl 180 Gram sticker on the front.  Originally released 1965. © 1965, 2015 Columbia Records. Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  © 1965 by Bob Dylan.  Runouts are stamped and etched. On both sides, the script from 88016 to STERLING is stamped and from RKS to 5-A/B is etched,  |
 | Discogs URL    | [Bob Dylan - Bringing It All Back Home](https://www.discogs.com/release/7763624-Bob-Dylan-Bringing-It-All-Back-Home) |

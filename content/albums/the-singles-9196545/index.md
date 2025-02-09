@@ -46,41 +46,41 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Easy Lover | 5:03 |
-| A2 | Two Hearts | 3:24 |
-| A3 | Sussudio | 4:23 |
-| A4 | I Missed Again | 3:44 |
-| A5 | Wear My Hat | 4:42 |
-| B1 | Don't Lose My Number | 4:48 |
-| B2 | You Can't Hurry Love | 2:54 |
-| B3 | Something Happened On The Way To Heaven | 4:51 |
-| B4 | We Wait And We Wonder | 7:00 |
-| C1 | Can't Stop Loving You | 4:16 |
-| C2 | Dance Into The Light | 4:23 |
-| C3 | It's In Your Eyes | 3:04 |
-| C4 | Hang In Long Enough | 4:44 |
-| D1 | Thru These Walls | 5:04 |
-| D2 | I Wish It Would Rain Down | 5:28 |
-| D3 | Both Sides Of The Story | 6:42 |
-| D4 | (Love Is Like A) Heatwave | 2:52 |
-| E1 | Going Back | 4:38 |
-| E2 | In The Air Tonight | 5:35 |
-| E3 | Against All Odds | 3:26 |
-| E4 | If Leaving Me Is Easy | 4:56 |
-| F1 | One More Night | 4:48 |
-| F2 | Separate Lives | 4:08 |
-| F3 | A Groovy Kind Of Love | 3:30 |
-| F4 | That's Just The Way It Is | 5:20 |
-| G1 | Do You Remember? | 4:36 |
-| G2 | Everyday | 5:43 |
-| G3 | True Colors | 4:34 |
-| G4 | You'll Be In My Heart | 4:17 |
-| H1 | The Least You Can Do | 4:22 |
-| H2 | Look Through My Eyes | 4:00 |
-| H3 | Another Day In Paradise | 5:23 |
-| H4 | Take Me Home | 5:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Easy Lover |
+| A2 | Two Hearts |
+| A3 | Sussudio |
+| A4 | I Missed Again |
+| A5 | Wear My Hat |
+| B1 | Don't Lose My Number |
+| B2 | You Can't Hurry Love |
+| B3 | Something Happened On The Way To Heaven |
+| B4 | We Wait And We Wonder |
+| C1 | Can't Stop Loving You |
+| C2 | Dance Into The Light |
+| C3 | It's In Your Eyes |
+| C4 | Hang In Long Enough |
+| D1 | Thru These Walls |
+| D2 | I Wish It Would Rain Down |
+| D3 | Both Sides Of The Story |
+| D4 | (Love Is Like A) Heatwave |
+| E1 | Going Back |
+| E2 | In The Air Tonight |
+| E3 | Against All Odds |
+| E4 | If Leaving Me Is Easy |
+| F1 | One More Night |
+| F2 | Separate Lives |
+| F3 | A Groovy Kind Of Love |
+| F4 | That's Just The Way It Is |
+| G1 | Do You Remember? |
+| G2 | Everyday |
+| G3 | True Colors |
+| G4 | You'll Be In My Heart |
+| H1 | The Least You Can Do |
+| H2 | Look Through My Eyes |
+| H3 | Another Day In Paradise |
+| H4 | Take Me Home |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 | Format         | Vinyl 4× LP Compilation Remastered, Box Set |
 | Label          | Atlantic |
 | Catalog Number | 081227945909 |
-| Notes | Includes 20 page high gloss book with photos and song info.<br><br>For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'<br><br>Half speed mastering and pressing plant uncredited, identified by runout. |
+| Notes | Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout. |
 | Discogs URL    | [Phil Collins - The Singles](https://www.discogs.com/release/9196545-Phil-Collins-The-Singles) |

@@ -29,18 +29,18 @@ styles: ["Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Times |  |
-| A2 | Lost In The Shadows (The Lost Boys) |  |
-| A3 | Don't Let The Sun Go Down On Me |  |
-| A4 | Laying Down The Law |  |
-| B1 | People Are Strange |  |
-| B2 | Cry Little Sister (Theme From The Lost Boys) |  |
-| B3 | Power Play |  |
-| B4 | I Still Believe |  |
-| B5 | Beauty Has Her Way |  |
-| B6 | To The Shock Of Miss Louise |  |
+| Position | Title |
+|----------|--------|
+| A1 | Good Times |
+| A2 | Lost In The Shadows (The Lost Boys) |
+| A3 | Don't Let The Sun Go Down On Me |
+| A4 | Laying Down The Law |
+| B1 | People Are Strange |
+| B2 | Cry Little Sister (Theme From The Lost Boys) |
+| B3 | Power Play |
+| B4 | I Still Believe |
+| B5 | Beauty Has Her Way |
+| B6 | To The Shock Of Miss Louise |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl LP Reissue (White) |
 | Label          | Atlantic |
 | Catalog Number | 603497860630 |
-| Notes | Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition"<br> |
+| Notes | Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition"  |
 | Discogs URL    | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12168177-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |

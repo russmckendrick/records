@@ -43,18 +43,18 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Symphony In Blue | 3:34 |
-| A2 | In Search Of Peter Pan | 3:46 |
-| A3 | Wow | 3:58 |
-| A4 | Don't Push Your Foot On The Heartbrake | 3:11 |
-| A5 | Oh England My Lionheart | 3:09 |
-| B1 | Fullhouse | 3:13 |
-| B2 | In The Warm Room | 3:33 |
-| B3 | Kashka From Baghdad | 3:55 |
-| B4 | Coffee Homeground | 3:38 |
-| B5 | Hammer Horror | 4:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Symphony In Blue |
+| A2 | In Search Of Peter Pan |
+| A3 | Wow |
+| A4 | Don't Push Your Foot On The Heartbrake |
+| A5 | Oh England My Lionheart |
+| B1 | Fullhouse |
+| B2 | In The Warm Room |
+| B3 | Kashka From Baghdad |
+| B4 | Coffee Homeground |
+| B5 | Hammer Horror |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 | Format         | Vinyl LP Album Stereo (Embossed, Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMA 787 |
-| Notes | Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.<br><br>"Kate Bush - Lionheart" text on front cover and rear cover are embossed.<br>Gatefold sleeve with lyrics inside.<br>Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side.<br>'HOPE YOU LIKE IT' etched in runouts, the rest stamped.<br>Recorded at Superbear Studios.<br>All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978.<br>David Paton and Ian Bairnson courtesy of Arista Records.<br>(P) 1978 EMI Records Ltd.<br>Available on tape.<br><br>Made in Gt. Britain.<br><br>Durations do not appear on this release.<br><br>[r=10148817] is a later repress with different record labels<br>[r=5536970] has "Made in Ireland" on the labels, otherwise identical |
+| Notes | Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.  "Kate Bush - Lionheart" text on front cover and rear cover are embossed. Gatefold sleeve with lyrics inside. Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side. 'HOPE YOU LIKE IT' etched in runouts, the rest stamped. Recorded at Superbear Studios. All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978. David Paton and Ian Bairnson courtesy of Arista Records. (P) 1978 EMI Records Ltd. Available on tape.  Made in Gt. Britain.  Durations do not appear on this release.  [r=10148817] is a later repress with different record labels [r=5536970] has "Made in Ireland" on the labels, otherwise identical |
 | Discogs URL    | [Kate Bush - Lionheart](https://www.discogs.com/release/426108-Kate-Bush-Lionheart) |

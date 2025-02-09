@@ -41,20 +41,20 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All I Really Want | 4:42 |
-| A2 | You Oughta Know | 4:07 |
-| A3 | Perfect | 3:05 |
-| A4 | Hand In My Pocket | 3:38 |
-| A5 | Right Through You | 2:53 |
-| A6 | Forgiven | 4:57 |
-| B1 | You Learn | 3:58 |
-| B2 | Head Over Feet | 4:24 |
-| B3 | Mary Jane | 4:38 |
-| B4 | Ironic | 3:47 |
-| B5 | Not The Doctor | 3:44 |
-| B6 | Wake Up | 4:54 |
+| Position | Title |
+|----------|--------|
+| A1 | All I Really Want |
+| A2 | You Oughta Know |
+| A3 | Perfect |
+| A4 | Hand In My Pocket |
+| A5 | Right Through You |
+| A6 | Forgiven |
+| B1 | You Learn |
+| B2 | Head Over Feet |
+| B3 | Mary Jane |
+| B4 | Ironic |
+| B5 | Not The Doctor |
+| B6 | Wake Up |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Maverick |
 | Catalog Number | 8122797168 |
-| Notes | Hype sticker:<br>"180-Gram Vinyl Cut From the Original Analog Master"<br><br>Black & white printed inner sleeve with lyrics and credits.<br><br>This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference. |
+| Notes | Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference. |
 | Discogs URL    | [Alanis Morissette - Jagged Little Pill](https://www.discogs.com/release/4064194-Alanis-Morissette-Jagged-Little-Pill) |

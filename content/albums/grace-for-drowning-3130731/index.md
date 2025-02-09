@@ -40,22 +40,22 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Vol 1 - Deform To Form A Star |  |
-| A1 | Grace For Drowning | 2:00 |
-| A2 | Sectarian | 7:45 |
-| A3 | Deform To Form A Star | 8:00 |
-| B1 | No Part Of Me | 5:45 |
-| B2 | Postcard | 4:30 |
-| B3 | Raider Prelude | 2:30 |
-| B4 | Remainder The Black Dog | 9:30 |
-|  | Vol 2 - Like Dust I Have Cleared From My Eye |  |
-| C1 | Raider II | 23:15 |
-| D1 | Belle De Jour | 3:00 |
-| D2 | Index | 4:45 |
-| D3 | Track One | 4:15 |
-| D4 | Like Dust I Have Cleared From My Eye | 8:00 |
+| Position | Title |
+|----------|--------|
+|  | Vol 1 - Deform To Form A Star |
+| A1 | Grace For Drowning |
+| A2 | Sectarian |
+| A3 | Deform To Form A Star |
+| B1 | No Part Of Me |
+| B2 | Postcard |
+| B3 | Raider Prelude |
+| B4 | Remainder The Black Dog |
+|  | Vol 2 - Like Dust I Have Cleared From My Eye |
+| C1 | Raider II |
+| D1 | Belle De Jour |
+| D2 | Index |
+| D3 | Track One |
+| D4 | Like Dust I Have Cleared From My Eye |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE818 |
-| Notes | Written and recorded during the period of Jan 2010 - June 2011. <br>Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.<br><br>Additional recording made by the musicians on location in the UK, USA and Germany. <br><br>Management for Acme Music. Artwork and design for Aleph.<br>Exclusively administered through Universal Music Publishing Group<br><br>℗ 2011 Steven Wilson © Steven Wilson<br>Made in EU.<br><br>Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits. |
+| Notes | Written and recorded during the period of Jan 2010 - June 2011.  Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.  Additional recording made by the musicians on location in the UK, USA and Germany.   Management for Acme Music. Artwork and design for Aleph. Exclusively administered through Universal Music Publishing Group  ℗ 2011 Steven Wilson © Steven Wilson Made in EU.  Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits. |
 | Discogs URL    | [Steven Wilson - Grace For Drowning](https://www.discogs.com/release/3130731-Steven-Wilson-Grace-For-Drowning) |

@@ -31,40 +31,40 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Innuendo | 6:29 |
-| A2 | Calling Elvis | 6:23 |
-| A3 | Mysterious Ways | 4:01 |
-| A4 | Cream | 4:10 |
-| A5 | Rescue Me | 4:51 |
-| A6 | Stars | 4:06 |
-| A7 | Can't Stop This Thing We Started | 4:25 |
-| B1 | Don't Let The Sun Go Down On Me | 5:46 |
-| B2 | When A Man Loves A Woman | 3:48 |
-| B3 | All Woman | 4:46 |
-| B4 | Promise Me | 3:33 |
-| B5 | Hole Hearted | 3:36 |
-| B6 | Shiny Happy People | 3:43 |
-| B7 | Love Is A Stranger | 3:39 |
-| B8 | Sit Down | 4:01 |
-| B9 | Mystify (Live) | 3:14 |
-| C1 | Love To Hate You | 3:55 |
-| C2 | Killer | 4:17 |
-| C3 | Justified And Ancient (Stand By The JAMS) | 3:37 |
-| C4 | Unbelievable | 3:29 |
-| C5 | Just Another Dream | 3:55 |
-| C6 | Set Adrift On Memory Bliss | 3:54 |
-| C7 | Thinking About Your Love | 3:54 |
-| C8 | All 4 Love | 3:29 |
-| D1 | Sunshine On A Rainy Day (Original 7" Mix) | 4:11 |
-| D2 | Unfinished Sympathy | 4:33 |
-| D3 | The King Is Half Undressed | 3:47 |
-| D4 | Mustang Sally | 3:59 |
-| D5 | Blue Hotel | 3:11 |
-| D6 | It Had To Be You | 2:38 |
-| D7 | Caribbean Blue |  |
-| D8 | Inspector Morse (Main Theme) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Innuendo |
+| A2 | Calling Elvis |
+| A3 | Mysterious Ways |
+| A4 | Cream |
+| A5 | Rescue Me |
+| A6 | Stars |
+| A7 | Can't Stop This Thing We Started |
+| B1 | Don't Let The Sun Go Down On Me |
+| B2 | When A Man Loves A Woman |
+| B3 | All Woman |
+| B4 | Promise Me |
+| B5 | Hole Hearted |
+| B6 | Shiny Happy People |
+| B7 | Love Is A Stranger |
+| B8 | Sit Down |
+| B9 | Mystify (Live) |
+| C1 | Love To Hate You |
+| C2 | Killer |
+| C3 | Justified And Ancient (Stand By The JAMS) |
+| C4 | Unbelievable |
+| C5 | Just Another Dream |
+| C6 | Set Adrift On Memory Bliss |
+| C7 | Thinking About Your Love |
+| C8 | All 4 Love |
+| D1 | Sunshine On A Rainy Day (Original 7" Mix) |
+| D2 | Unfinished Sympathy |
+| D3 | The King Is Half Undressed |
+| D4 | Mustang Sally |
+| D5 | Blue Hotel |
+| D6 | It Had To Be You |
+| D7 | Caribbean Blue |
+| D8 | Inspector Morse (Main Theme) |
 
 
 ## Apple Music

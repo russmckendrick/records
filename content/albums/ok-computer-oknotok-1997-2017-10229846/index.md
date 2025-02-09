@@ -47,37 +47,37 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ip |  |
-| A1 | Airbag |  |
-| A2 | Paranoid Android |  |
-| A3 | Subterranean Homesick Alien |  |
-|  | Skip |  |
-| B1 | Exit Music (For A Film) |  |
-| B2 | Let Down |  |
-| B3 | Karma Police |  |
-|  | Sky |  |
-| C1 | Fitter Happier |  |
-| C2 | Electioneering |  |
-| C3 | Climbing Up The Walls |  |
-| C4 | No Surprises |  |
-|  | Blue |  |
-| D1 | Lucky |  |
-| D2 | The Tourist |  |
-|  | Who's |  |
-| E1 | I Promise |  |
-| E2 | Man Of War |  |
-| E3 | Lift |  |
-| E4 | Lull |  |
-| E5 | Meeting In The Aisle |  |
-|  | It |  |
-| F1 | Melatonin |  |
-| F2 | A Reminder |  |
-| F3 | Polyethylene (Parts 1 & 2) |  |
-| F4 | Pearly* |  |
-| F5 | Palo Alto |  |
-| F6 | How I Made My Millions |  |
+| Position | Title |
+|----------|--------|
+|  | Ip |
+| A1 | Airbag |
+| A2 | Paranoid Android |
+| A3 | Subterranean Homesick Alien |
+|  | Skip |
+| B1 | Exit Music (For A Film) |
+| B2 | Let Down |
+| B3 | Karma Police |
+|  | Sky |
+| C1 | Fitter Happier |
+| C2 | Electioneering |
+| C3 | Climbing Up The Walls |
+| C4 | No Surprises |
+|  | Blue |
+| D1 | Lucky |
+| D2 | The Tourist |
+|  | Who's |
+| E1 | I Promise |
+| E2 | Man Of War |
+| E3 | Lift |
+| E4 | Lull |
+| E5 | Meeting In The Aisle |
+|  | It |
+| F1 | Melatonin |
+| F2 | A Reminder |
+| F3 | Polyethylene (Parts 1 & 2) |
+| F4 | Pearly* |
+| F5 | Palo Alto |
+| F6 | How I Made My Millions |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 | Format         | Vinyl 2× LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition Remastered Stereo (Blue Opaque, 180 Gram) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP868X |
-| Notes | Originally advertised as being "Limited to 7,000 copies".<br>Unconfirmed 10,000 copies pressed due to pre-order demand.<br>Indie record stores exclusive.<br><br>Triple-sleeve gatefold jacket with colour printed inner sleeves.<br>Three 180 gram blue coloured 12" vinyl records containing the original twelve track album, <br>three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes. <br>Includes a download code card (for MP3 or WAV formats).<br><br>Different barcodes on the cover and shrink.<br><br>XLLP868  appears on the back of the gatefold.<br>XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.<br><br>℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited.<br>© 1997-2017 XL Recordings Limited.<br><br>Printed in E.U.<br>Made in the E.U.<br><br>Runouts are etched |
+| Notes | Originally advertised as being "Limited to 7,000 copies". Unconfirmed 10,000 copies pressed due to pre-order demand. Indie record stores exclusive.  Triple-sleeve gatefold jacket with colour printed inner sleeves. Three 180 gram blue coloured 12" vinyl records containing the original twelve track album,  three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes.  Includes a download code card (for MP3 or WAV formats).  Different barcodes on the cover and shrink.  XLLP868  appears on the back of the gatefold. XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.  ℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited. © 1997-2017 XL Recordings Limited.  Printed in E.U. Made in the E.U.  Runouts are etched |
 | Discogs URL    | [Radiohead - OK Computer OKNOTOK 1997 2017](https://www.discogs.com/release/10229846-Radiohead-OK-Computer-OKNOTOK-1997-2017) |

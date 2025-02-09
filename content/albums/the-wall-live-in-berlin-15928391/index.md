@@ -41,36 +41,36 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Part One |  |
-| A1 | In The Flesh? |  |
-| A2 | The Thin Ice |  |
-| A3 | Another Brick In The Wall (Part 1) |  |
-| A4 | The Happiest Days Of Our Lives |  |
-| A5 | Another Brick In The Wall (Part 2) |  |
-| A6 | Mother |  |
-| B1 | Goodbye Blue Sky |  |
-| B2 | Empty Spaces |  |
-| B3 | Young Lust |  |
-|  | Oh My God - What A Fabulous Room / One Of My Turns |  |
-| B5 | Don't Leave Me Now |  |
-| B6 | Another Brick In The Wall (Part 3) |  |
-| B7 | Goodbye Cruel World |  |
-|  | Part Two |  |
-| C1 | Hey You |  |
-| C2 | Is There Anybody Out There? |  |
-| C3 | Nobody Home |  |
-| C4 | Vera |  |
-| C5 | Bring The Boys Back Home |  |
-| C6 | Comfortably Numb |  |
-| D1 | In The Flesh |  |
-| D2 | Run Like Hell |  |
-| D3 | Waiting For The Worms |  |
-| D4 | Stop |  |
-| D5 | The Trial |  |
-|  | Encore |  |
-| D6 | The Tide Is Turning |  |
+| Position | Title |
+|----------|--------|
+|  | Part One |
+| A1 | In The Flesh? |
+| A2 | The Thin Ice |
+| A3 | Another Brick In The Wall (Part 1) |
+| A4 | The Happiest Days Of Our Lives |
+| A5 | Another Brick In The Wall (Part 2) |
+| A6 | Mother |
+| B1 | Goodbye Blue Sky |
+| B2 | Empty Spaces |
+| B3 | Young Lust |
+|  | Oh My God - What A Fabulous Room / One Of My Turns |
+| B5 | Don't Leave Me Now |
+| B6 | Another Brick In The Wall (Part 3) |
+| B7 | Goodbye Cruel World |
+|  | Part Two |
+| C1 | Hey You |
+| C2 | Is There Anybody Out There? |
+| C3 | Nobody Home |
+| C4 | Vera |
+| C5 | Bring The Boys Back Home |
+| C6 | Comfortably Numb |
+| D1 | In The Flesh |
+| D2 | Run Like Hell |
+| D3 | Waiting For The Worms |
+| D4 | Stop |
+| D5 | The Trial |
+|  | Encore |
+| D6 | The Tide Is Turning |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Clear, 180 gram, 30th Anniversary Edition) |
 | Label          | UMC |
 | Catalog Number | 0602508538506 |
-| Notes | Record Store Day - RSD Drops Sep 26th 2020<br>Quantity: 8.000 copies<br>Gatefold cover with records housed in printed inner sleeves.<br>Includes a download card.<br><br>Global, worldwide release.<br><br>Some copies do not have a hype sticker. Some copies did not include a download card.<br><br>Title on the spine:<br>The Wall - Live In Berlin 1990<br><br>Back cover:<br>Roger Waters : The Wall<br>Saturday 21st July 1990<br><br>Made in the EU.<br><br>Label rim text:<br>Made In The EU.<br><br>Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△". |
+| Notes | Record Store Day - RSD Drops Sep 26th 2020 Quantity: 8.000 copies Gatefold cover with records housed in printed inner sleeves. Includes a download card.  Global, worldwide release.  Some copies do not have a hype sticker. Some copies did not include a download card.  Title on the spine: The Wall - Live In Berlin 1990  Back cover: Roger Waters : The Wall Saturday 21st July 1990  Made in the EU.  Label rim text: Made In The EU.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△". |
 | Discogs URL    | [Roger Waters - The Wall (Live In Berlin)](https://www.discogs.com/release/15928391-Roger-Waters-The-Wall-Live-In-Berlin) |

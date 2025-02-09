@@ -40,18 +40,18 @@ Going Blank Again is the second studio album by English rock band Ride, released
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leave Them All Behind |  |
-| A2 | Twisterella |  |
-| B3 | Not Fazed |  |
-| B4 | Chrome Waves |  |
-| B5 | Mouse Trap |  |
-| C6 | Time Of Her Time |  |
-| C7 | Cool Your Boots |  |
-| C8 | Making Judy Smile |  |
-| D9 | Time Machine |  |
-| D10 | OX4 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Leave Them All Behind |
+| A2 | Twisterella |
+| B3 | Not Fazed |
+| B4 | Chrome Waves |
+| B5 | Mouse Trap |
+| C6 | Time Of Her Time |
+| C7 | Cool Your Boots |
+| C8 | Making Judy Smile |
+| D9 | Time Machine |
+| D10 | OX4 |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Going Blank Again is the second studio album by English rock band Ride, released
 | Format         | Vinyl 2× LP Album Reissue (Orange Transparent) |
 | Label          | Wichita |
 | Catalog Number | webb573lp |
-| Notes | ℗ 1992 Wichita Recordings Ltd., under exclusive license from Ride.<br>© 2022 Wichita Recordings Ltd., under exclusive license from Ride.<br>Release under exclusive license to [PIAS].<br><br>— Description of contents:<br>Record comes with a gatefold jacket with gloss machine varnish: Left and right inner panel feature a single black and white photograph of the entire band. The record in standard weight comes in a black poly-lined inner sleeve. One of the inner sleeves features a sticker including a link and a code to retrieve digital files to the music. Also includes a single sided 12" x 12" insert featuring credits and lyrics.<br><br>— Hype sticker reads:<br>"The band's clasic<br>sophomore album <br>back in print<br>on coloured vinyl<br><br>Featuring the singles<br>Leave Them All Behind<br>and Twisterella<br><br>Includes <br>full album download with <br>four bonus tracks<br><br>[cat#]"<br><br>— Additional information:<br>• Catalog no. designated as "webblp573" on spine of record as well as record center labels and insert, meanwhile designated as "WEBB573LP" upon hype sticker and runout.<br>• 'Original audio reworked and refined'<br>• Tracklist is sequentially the way it appears on the backside of the record jacket.<br>• Recorded at Chipping Norton Recording Studios by Alan Moulder and at Black Barn Studios, Ripley by Matt Oliver<br>• Track C7: Dialogue [...] from withnail & I used by permission © 1987 handmade films (1985) partnership<br>• The runout section features a cross out in the catalog number on all four sides: WEBB58̶73LP<br><br>Although not mentioned on the release, the bonus download tracks are "Going Blank Again", "Howard Hughes", "Stampede" (all from the Twisterella EP), and "Grasshopper" (from the Leave Them All Behind EP). |
+| Notes | ℗ 1992 Wichita Recordings Ltd., under exclusive license from Ride. © 2022 Wichita Recordings Ltd., under exclusive license from Ride. Release under exclusive license to [PIAS].  — Description of contents: Record comes with a gatefold jacket with gloss machine varnish: Left and right inner panel feature a single black and white photograph of the entire band. The record in standard weight comes in a black poly-lined inner sleeve. One of the inner sleeves features a sticker including a link and a code to retrieve digital files to the music. Also includes a single sided 12" x 12" insert featuring credits and lyrics.  — Hype sticker reads: "The band's clasic sophomore album  back in print on coloured vinyl  Featuring the singles Leave Them All Behind and Twisterella  Includes  full album download with  four bonus tracks  [cat#]"  — Additional information: • Catalog no. designated as "webblp573" on spine of record as well as record center labels and insert, meanwhile designated as "WEBB573LP" upon hype sticker and runout. • 'Original audio reworked and refined' • Tracklist is sequentially the way it appears on the backside of the record jacket. • Recorded at Chipping Norton Recording Studios by Alan Moulder and at Black Barn Studios, Ripley by Matt Oliver • Track C7: Dialogue [...] from withnail & I used by permission © 1987 handmade films (1985) partnership • The runout section features a cross out in the catalog number on all four sides: WEBB58̶73LP  Although not mentioned on the release, the bonus download tracks are "Going Blank Again", "Howard Hughes", "Stampede" (all from the Twisterella EP), and "Grasshopper" (from the Leave Them All Behind EP). |
 | Discogs URL    | [Ride - Going Blank Again](https://www.discogs.com/release/25002466-Ride-Going-Blank-Again) |

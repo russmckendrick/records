@@ -34,16 +34,16 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Colour Of Spring |  |
-| A2 | Watershed |  |
-| A3 | Inside Looking Out |  |
-| A4 | The Gift |  |
-| B5 | A Life (1895 - 1915) |  |
-| B6 | Westward Bound |  |
-| B7 | The Daily Planet |  |
-| B8 | A New Jerusalem |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Colour Of Spring |
+| A2 | Watershed |
+| A3 | Inside Looking Out |
+| A4 | The Gift |
+| B5 | A Life (1895 - 1915) |
+| B6 | Westward Bound |
+| B7 | The Daily Planet |
+| B8 | A New Jerusalem |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Polydor |
 | Catalog Number | 080 288-0 |
-| Notes | Hype sticker on front reads:<br><br>» Only solo album by Talk Talk frontman<br>A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road<br>Original artwork – printed inner sleeve, lyrics and credits<br>"A sound whose ambience is as natural as breathing"<br>Includes download card <br>080 288-0«<br><br>Later presses of this release do not include the hype sticker and no download code (discovered on a copy that was ordered 03/2024).<br><br>Download are 1411kbps WAV files.<br><br>On rear sleeve:<br>© 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved.<br>Made in the EU<br><br>The tracks are numbered sequentially, 1 to 8, on the release.<br>The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.<br><br>In the runouts of variant 7, "21" and "1X" are mirrored. |
+| Notes | Hype sticker on front reads:  » Only solo album by Talk Talk frontman A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road Original artwork – printed inner sleeve, lyrics and credits "A sound whose ambience is as natural as breathing" Includes download card  080 288-0«  Later presses of this release do not include the hype sticker and no download code (discovered on a copy that was ordered 03/2024).  Download are 1411kbps WAV files.  On rear sleeve: © 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved. Made in the EU  The tracks are numbered sequentially, 1 to 8, on the release. The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.  In the runouts of variant 7, "21" and "1X" are mirrored. |
 | Discogs URL    | [Mark Hollis - Mark Hollis](https://www.discogs.com/release/14282355-Mark-Hollis-Mark-Hollis) |

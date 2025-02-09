@@ -33,19 +33,19 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Floating Parade |  |
-| A2 | Small Changes |  |
-| A3 | One And Only |  |
-| A4 | Rebel Soul |  |
-| A5 | Lowdown (Part i) |  |
-| A6 | Lowdown (Part ii) |  |
-| B1 | Follow Your Dreams |  |
-| B2 | Live For Your Love |  |
-| B3 | Stay By My Side |  |
-| B4 | The Rest Of Me |  |
-| B5 | Four Long Years |  |
+| Position | Title |
+|----------|--------|
+| A1 | Floating Parade |
+| A2 | Small Changes |
+| A3 | One And Only |
+| A4 | Rebel Soul |
+| A5 | Lowdown (Part i) |
+| A6 | Lowdown (Part ii) |
+| B1 | Follow Your Dreams |
+| B2 | Live For Your Love |
+| B3 | Stay By My Side |
+| B4 | The Rest Of Me |
+| B5 | Four Long Years |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 | Format         | Vinyl LP Limited Edition (White and Black Marbled) |
 | Label          | Polydor |
 | Catalog Number | 6590614 |
-| Notes | Rough Trade Exclusive<br>White and Black Marbled<br>Limited to 1500 copies<br>180 Gram Vinyl Housed in Gatefold Sleeve with Full Size 12 Page Booklet. |
+| Notes | Rough Trade Exclusive White and Black Marbled Limited to 1500 copies 180 Gram Vinyl Housed in Gatefold Sleeve with Full Size 12 Page Booklet. |
 | Discogs URL    | [Michael Kiwanuka - Small Changes](https://www.discogs.com/release/32384205-Michael-Kiwanuka-Small-Changes) |

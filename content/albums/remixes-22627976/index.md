@@ -43,27 +43,27 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Non Stop | 8:32 |
-| A2 | Robotronik (Kling Klang Mix) | 4:54 |
-| A3 | Robotnik (Kling Klang Mix) | 7:43 |
-| B1 | Home Computer (2021 Single Edit) | 4:45 |
-| B2 | Radioactivity (William Orbit Hardcore Remix / Kling Klang Edit) | 5:35 |
-| B3 | Radioactivity (François Kevorkian 12" Remix) | 7:27 |
-| C1 | Expo Remix (Kling Klang Mix 2002) | 5:40 |
-| C2 | Expo Remix (Kling Klang Mix 2001) | 6:49 |
-| C3 | Expo Remix (Orbital Mix) | 4:57 |
-| D1 | Expo Remix (François K + Rob Rives Mix) | 7:21 |
-| D2 | Expo Remix (DJ Rolando Mix) | 7:29 |
-| D3 | Expo Remix (Underground Resistance Mix) | 3:58 |
-| D4 | Expo Remix (UR Thought 3 Mix) | 2:43 |
-| E1 | Aéro Dynamik (Kling Klang Dynamix) | 7:01 |
-| E2 | Aéro Dynamik (Alex Gopher / Ètienne De Crécy Dynamik Mix) | 7:42 |
-| E3 | Aéro Dynamik (François K. Aero Mix) | 7:52 |
-| F1 | Tour De France (Etape 2) | 4:57 |
-| F2 | Aéro Dynamik (Intelligent Design Mix By Hot Chip) | 8:34 |
-| F3 | La Forme (King Of The Mountains Mix By Hot Chip) | 6:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Non Stop |
+| A2 | Robotronik (Kling Klang Mix) |
+| A3 | Robotnik (Kling Klang Mix) |
+| B1 | Home Computer (2021 Single Edit) |
+| B2 | Radioactivity (William Orbit Hardcore Remix / Kling Klang Edit) |
+| B3 | Radioactivity (François Kevorkian 12" Remix) |
+| C1 | Expo Remix (Kling Klang Mix 2002) |
+| C2 | Expo Remix (Kling Klang Mix 2001) |
+| C3 | Expo Remix (Orbital Mix) |
+| D1 | Expo Remix (François K + Rob Rives Mix) |
+| D2 | Expo Remix (DJ Rolando Mix) |
+| D3 | Expo Remix (Underground Resistance Mix) |
+| D4 | Expo Remix (UR Thought 3 Mix) |
+| E1 | Aéro Dynamik (Kling Klang Dynamix) |
+| E2 | Aéro Dynamik (Alex Gopher / Ètienne De Crécy Dynamik Mix) |
+| E3 | Aéro Dynamik (François K. Aero Mix) |
+| F1 | Tour De France (Etape 2) |
+| F2 | Aéro Dynamik (Intelligent Design Mix By Hot Chip) |
+| F3 | La Forme (King Of The Mountains Mix By Hot Chip) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 | Format         | Vinyl 3× LP Compilation Stereo (180g) |
 | Label          | Kling Klang |
 | Catalog Number | 0190296504761 |
-| Notes | Kling Klang Produkt Ralf Hütter 2022<br>This Compilation ℗ + © 2022 Ralf Hütter/Kraftwerk® under exclusive licence to Parlophone Records Limited.<br>Made in Germany.<br><br>Issued in wide-spine sleeve with matte-finish inners.<br><br>1V, 1||, 1|Λ and 1|V in runouts are mirrored.<br><br>Track F1 was previously issued as Tour De France 2003 (Étape 2), whereas this is an edit. None of the remixer credits are included.<br><br>Some copies issued with "Made In Germany" sticker on rear album cover. |
+| Notes | Kling Klang Produkt Ralf Hütter 2022 This Compilation ℗ + © 2022 Ralf Hütter/Kraftwerk® under exclusive licence to Parlophone Records Limited. Made in Germany.  Issued in wide-spine sleeve with matte-finish inners.  1V, 1||, 1|Λ and 1|V in runouts are mirrored.  Track F1 was previously issued as Tour De France 2003 (Étape 2), whereas this is an edit. None of the remixer credits are included.  Some copies issued with "Made In Germany" sticker on rear album cover. |
 | Discogs URL    | [Kraftwerk - Remixes](https://www.discogs.com/release/22627976-Kraftwerk-Remixes) |

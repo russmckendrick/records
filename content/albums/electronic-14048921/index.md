@@ -27,38 +27,38 @@ The album was a commercial and critical success, reaching number 2 in the United
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Action (I Believe In Love) | 3:51 |
-| A2 | Quiet Life | 3:35 |
-| A3 | Fade To Grey | 3:50 |
-| A4 | Mad World | 3:35 |
-| A5 | The Walk | 3:30 |
-| A6 | Whip It | 2:38 |
-| A7 | Say Hello, Wave Goodbye | 5:26 |
-| B1 | I Feel Love | 3:46 |
-| B2 | Axel F | 3:00 |
-| B3 | Rockit | 3:40 |
-| B4 | The Race | 3:20 |
-| B5 | Einstein A Go-Go | 2:59 |
-| B6 | Buffalo Gals | 3:40 |
-| B7 | (Hey You) The Rock Steady Crew | 3:46 |
-| B8 | Crockett's Theme | 3:29 |
-| C1 | Enola Gay | 3:34 |
-| C2 | Temptation | 3:33 |
-| C3 | New Song | 4:15 |
-| C4 | Wishing (If I Had A Photograph Of You) | 5:30 |
-| C5 | Hymn | 4:27 |
-| C6 | Brilliant Mind | 3:42 |
-| C7 | Glittering Prize | 3:58 |
-| D1 | Video Killed The Radio Star | 3:20 |
-| D2 | Together In Electric Dreams | 3:52 |
-| D3 | Kids In America | 3:25 |
-| D4 | Don't Talk To Me About Love | 3:46 |
-| D5 | Rock Me Amadeus | 3:12 |
-| D6 | Steppin' Out | 4:18 |
-| D7 | Echo Beach | 3:36 |
-| D8 | I'm In Love With A German Film Star | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Action (I Believe In Love) |
+| A2 | Quiet Life |
+| A3 | Fade To Grey |
+| A4 | Mad World |
+| A5 | The Walk |
+| A6 | Whip It |
+| A7 | Say Hello, Wave Goodbye |
+| B1 | I Feel Love |
+| B2 | Axel F |
+| B3 | Rockit |
+| B4 | The Race |
+| B5 | Einstein A Go-Go |
+| B6 | Buffalo Gals |
+| B7 | (Hey You) The Rock Steady Crew |
+| B8 | Crockett's Theme |
+| C1 | Enola Gay |
+| C2 | Temptation |
+| C3 | New Song |
+| C4 | Wishing (If I Had A Photograph Of You) |
+| C5 | Hymn |
+| C6 | Brilliant Mind |
+| C7 | Glittering Prize |
+| D1 | Video Killed The Radio Star |
+| D2 | Together In Electric Dreams |
+| D3 | Kids In America |
+| D4 | Don't Talk To Me About Love |
+| D5 | Rock Me Amadeus |
+| D6 | Steppin' Out |
+| D7 | Echo Beach |
+| D8 | I'm In Love With A German Film Star |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ The album was a commercial and critical success, reaching number 2 in the United
 | Format         | Vinyl 2× LP Compilation |
 | Label          | UMC |
 | Catalog Number | 5388157 |
-| Notes | Includes 'The Sound of Vinyl' free digital download code.<br><br>This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.<br><br>Made in the E.U. |
+| Notes | Includes 'The Sound of Vinyl' free digital download code.  This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.  Made in the E.U. |
 | Discogs URL    | [Various - Electronic](https://www.discogs.com/release/14048921-Various-Electronic) |

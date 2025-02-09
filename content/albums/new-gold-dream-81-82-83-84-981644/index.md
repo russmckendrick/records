@@ -30,17 +30,17 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Someone Somewhere In Summertime | 4:34 |
-| A2 | Colours Fly And Catherine Wheel | 3:49 |
-| A3 | Promised You A Miracle | 4:25 |
-| A4 | Big Sleep | 4:59 |
-| A5 | Somebody Up There Likes You | 4:58 |
-| B1 | New Gold Dream (81-82-83-84) | 5:36 |
-| B2 | Glittering Prize | 4:33 |
-| B3 | Hunter And The Hunted | 5:54 |
-| B4 | King Is White And In The Crowd | 6:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Someone Somewhere In Summertime |
+| A2 | Colours Fly And Catherine Wheel |
+| A3 | Promised You A Miracle |
+| A4 | Big Sleep |
+| A5 | Somebody Up There Likes You |
+| B1 | New Gold Dream (81-82-83-84) |
+| B2 | Glittering Prize |
+| B3 | Hunter And The Hunted |
+| B4 | King Is White And In The Crowd |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 | Format         | Vinyl LP Album (Two Rights) |
 | Label          | Virgin |
 | Catalog Number | 204 965 |
-| Notes | This version has only the two Rights mentioned in the box on the labels.<br><br>Made in: Summer '82.<br>Distributed by the Ariola Group of Companies.<br>Printed in Western Germany by Mohndruck Graphische Betriebe GmbH, Gütersloh.<br><br>Sleeve: at Assorted iMaGes.<br> P & C: 1982 Virgin Records Ltd.<br><br>Printed inner sleeve with lyrics.<br>All lyrics reproduced by kind permission of EMI Music Publishers Ltd. (P: 1982)<br><br>Labels:<br>℗ & © 1982 Virgin Records Ltd.<br><br>Runouts are stamped. |
+| Notes | This version has only the two Rights mentioned in the box on the labels.  Made in: Summer '82. Distributed by the Ariola Group of Companies. Printed in Western Germany by Mohndruck Graphische Betriebe GmbH, Gütersloh.  Sleeve: at Assorted iMaGes.  P & C: 1982 Virgin Records Ltd.  Printed inner sleeve with lyrics. All lyrics reproduced by kind permission of EMI Music Publishers Ltd. (P: 1982)  Labels: ℗ & © 1982 Virgin Records Ltd.  Runouts are stamped. |
 | Discogs URL    | [Simple Minds - New Gold Dream (81-82-83-84)](https://www.discogs.com/release/981644-Simple-Minds-New-Gold-Dream-81-82-83-84) |

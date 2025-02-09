@@ -38,31 +38,31 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dearest Forsaken |  |
-| A2 | Morning |  |
-| A3 | Loud As Hope |  |
-| A4 | Peng! 33 |  |
-| A5 | Sacred Vision |  |
-| A6 | Friends They Are Jewels |  |
-| B1 | Hickory |  |
-| B2 | Waitin' For A Superman |  |
-| B3 | Swans And The Swimming |  |
-| B4 | Call Your Boys |  |
-| B5 | Such Great Heights |  |
-| C1 | Communion Cups & Someone's Coat |  |
-| C2 | Belated Promise Ring |  |
-| C3 | God Made The Automobile |  |
-| C4 | Homeward, These Shoes |  |
-| C5 | Love Vigilantes |  |
-| C6 | Sinning Hands |  |
-| D1 | No Moon |  |
-| D2 | Serpent Charmer |  |
-| D3 | Carried Home |  |
-| D4 | Kingdom Of The Animals |  |
-| D5 | Arms Of A Thief |  |
-| E1 | The Trapeze Swinger |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dearest Forsaken |
+| A2 | Morning |
+| A3 | Loud As Hope |
+| A4 | Peng! 33 |
+| A5 | Sacred Vision |
+| A6 | Friends They Are Jewels |
+| B1 | Hickory |
+| B2 | Waitin' For A Superman |
+| B3 | Swans And The Swimming |
+| B4 | Call Your Boys |
+| B5 | Such Great Heights |
+| C1 | Communion Cups & Someone's Coat |
+| C2 | Belated Promise Ring |
+| C3 | God Made The Automobile |
+| C4 | Homeward, These Shoes |
+| C5 | Love Vigilantes |
+| C6 | Sinning Hands |
+| D1 | No Moon |
+| D2 | Serpent Charmer |
+| D3 | Carried Home |
+| D4 | Kingdom Of The Animals |
+| D5 | Arms Of A Thief |
+| E1 | The Trapeze Swinger |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 | Format         | Vinyl 2× LP Compilation (Gatefold), Vinyl 12" 33 ⅓ RPM Single Sided Etched |
 | Label          | Sub Pop |
 | Catalog Number | SP 808 |
-| Notes | Includes an MP3 download coupon for the entire album + insert with lyrics.<br>'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.<br><br>All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]<br><br>F-side is an etched album/artist artwork.<br><br>© ℗ 2009 Sub Pop Records |
+| Notes | Includes an MP3 download coupon for the entire album + insert with lyrics. 'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.  All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]  F-side is an etched album/artist artwork.  © ℗ 2009 Sub Pop Records |
 | Discogs URL    | [Iron And Wine - Around The Well](https://www.discogs.com/release/1786285-Iron-And-Wine-Around-The-Well) |

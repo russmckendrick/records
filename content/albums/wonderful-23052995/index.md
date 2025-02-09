@@ -32,19 +32,19 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lovestruck |  |
-| A2 | Johnny The Horse |  |
-| A3 | The Communicator |  |
-| A4 | 4am |  |
-| A5 | The Wizard |  |
-| A6 | Drip Fed Fred |  |
-| B1 | Going To The Top |  |
-| B2 | Elysium |  |
-| B3 | Saturday Night, Sunday Morning |  |
-| B4 | If I Didn't Care |  |
-| B5 | No Money |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lovestruck |
+| A2 | Johnny The Horse |
+| A3 | The Communicator |
+| A4 | 4am |
+| A5 | The Wizard |
+| A6 | Drip Fed Fred |
+| B1 | Going To The Top |
+| B2 | Elysium |
+| B3 | Saturday Night, Sunday Morning |
+| B4 | If I Didn't Care |
+| B5 | No Money |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 | Format         | Vinyl LP Album Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP14 |
-| Notes | Hype sticker reads:-<br><br>HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL<br>Includes<br>NEW LINER NOTES<br>FROM LEE THOMPSON<br>CHRIS FOREMAN<br>MARK BEDFORD<br>CATAHAL SMYTH &<br>WOODY WOODGATE<br>Featuring classic tracks<br>Drip Fed Fred • Lovestruck<br>Johnny The Horse<br>SALVOLP14 |
+| Notes | Hype sticker reads:-  HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL Includes NEW LINER NOTES FROM LEE THOMPSON CHRIS FOREMAN MARK BEDFORD CATAHAL SMYTH & WOODY WOODGATE Featuring classic tracks Drip Fed Fred • Lovestruck Johnny The Horse SALVOLP14 |
 | Discogs URL    | [Madness - Wonderful](https://www.discogs.com/release/23052995-Madness-Wonderful) |

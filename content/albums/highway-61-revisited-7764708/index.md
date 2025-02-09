@@ -34,17 +34,17 @@ As controversial as it may have been to some, Dylan’s electric pivot on all of
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Like A Rolling Stone | 5:59 |
-| A2 | Tombstone Blues | 5:53 |
-| A3 | It Takes A Lot To Laugh, It Takes A Train To Cry | 3:25 |
-| A4 | From A Buick 6 | 3:06 |
-| A5 | Ballad Of A Thin Man | 5:48 |
-| B1 | Queen Jane Approximately | 4:57 |
-| B2 | Highway 61 Revisited | 3:15 |
-| B3 | Just Like Tom Thumb's Blues | 5:08 |
-| B4 | Desolation Row | 11:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Like A Rolling Stone |
+| A2 | Tombstone Blues |
+| A3 | It Takes A Lot To Laugh, It Takes A Train To Cry |
+| A4 | From A Buick 6 |
+| A5 | Ballad Of A Thin Man |
+| B1 | Queen Jane Approximately |
+| B2 | Highway 61 Revisited |
+| B3 | Just Like Tom Thumb's Blues |
+| B4 | Desolation Row |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ As controversial as it may have been to some, Dylan’s electric pivot on all of
 | Format         | Vinyl LP Album Reissue Mono (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | CL 2389 |
-| Notes | [Cover]<br>Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment.<br>© 1965, 2015 Columbia Records, a division of Sony Music Entertainment.<br>/ Distributed by Sony Music Entertainment. / All trademarks and logos are protected.<br>/ Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 00162 / 88875146301<br><br>® "COLUMBIA", [Columbia logo] MARCAS REG.<br><br>[Label]<br>Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment.<br>© 1965, 2015 Columbia Records, a division of Sony Music Entertainment.<br>/ All rights reserved. / Made in the EU. / BIEM/GEMA / LC 00162 / 88875146301<br><br>Runout details:<br>Everything is hand-etched except stamped "88019 1A MOVLP244 STERLING" on side A, and "88019 1B MOVLP244 STERLING" on side B. |
+| Notes | [Cover] Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment. © 1965, 2015 Columbia Records, a division of Sony Music Entertainment. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 00162 / 88875146301  ® "COLUMBIA", [Columbia logo] MARCAS REG.  [Label] Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment. © 1965, 2015 Columbia Records, a division of Sony Music Entertainment. / All rights reserved. / Made in the EU. / BIEM/GEMA / LC 00162 / 88875146301  Runout details: Everything is hand-etched except stamped "88019 1A MOVLP244 STERLING" on side A, and "88019 1B MOVLP244 STERLING" on side B. |
 | Discogs URL    | [Bob Dylan - Highway 61 Revisited](https://www.discogs.com/release/7764708-Bob-Dylan-Highway-61-Revisited) |

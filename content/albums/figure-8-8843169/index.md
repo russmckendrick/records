@@ -37,26 +37,26 @@ Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Son Of Sam |  |
-| A2 | Somebody That I Used To Know |  |
-| A3 | Junk Bond Trader |  |
-| A4 | Everything Reminds Me Of Her |  |
-| A5 | Everything Means Nothing To Me |  |
-| A6 | LA |  |
-| A7 | In The Lost And Found (Honky Bach) |  |
-| A8 | The Roost |  |
-| A9 | Stupidity Tries |  |
-| B10 | Easy Way Out |  |
-| B11 | Wouldn't Mama Be Proud? |  |
-| B12 | Color Bars |  |
-| B13 | Happiness |  |
-| B14 | The Gondola Man |  |
-| B15 | Pretty Mary K |  |
-| B16 | I Better Be Quiet Now |  |
-| B17 | Can't Make A Sound |  |
-| B18 | Bye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Son Of Sam |
+| A2 | Somebody That I Used To Know |
+| A3 | Junk Bond Trader |
+| A4 | Everything Reminds Me Of Her |
+| A5 | Everything Means Nothing To Me |
+| A6 | LA |
+| A7 | In The Lost And Found (Honky Bach) |
+| A8 | The Roost |
+| A9 | Stupidity Tries |
+| B10 | Easy Way Out |
+| B11 | Wouldn't Mama Be Proud? |
+| B12 | Color Bars |
+| B13 | Happiness |
+| B14 | The Gondola Man |
+| B15 | Pretty Mary K |
+| B16 | I Better Be Quiet Now |
+| B17 | Can't Make A Sound |
+| B18 | Bye |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little 
 | Format         | Vinyl LP Album Limited Edition Numbered Special Edition (Coke Bottle Swirl, 180 Gram) |
 | Label          | Bong Load Records |
 | Catalog Number | BL48 |
-| Notes | Bong Load Records 25th anniversary reissue.<br><br>Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl.<br>Includes 11" X 11" insert and sticker. No barcode.<br>Record housed in a black Bong Load round bottom inner sleeve.<br><br>The Roost and The Gondola Man are not numbered on the sleeve.<br><br>Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.<br><br>Assistant engineers:<br>at Sunset Sound: Geoff Walcha, Monique Mizrahi<br>at Sonora: Richard Baron<br>at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson<br>at Abbey Road: Paul Hicks |
+| Notes | Bong Load Records 25th anniversary reissue.  Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl. Includes 11" X 11" insert and sticker. No barcode. Record housed in a black Bong Load round bottom inner sleeve.  The Roost and The Gondola Man are not numbered on the sleeve.  Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.  Assistant engineers: at Sunset Sound: Geoff Walcha, Monique Mizrahi at Sonora: Richard Baron at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson at Abbey Road: Paul Hicks |
 | Discogs URL    | [Elliott Smith - Figure 8](https://www.discogs.com/release/8843169-Elliott-Smith-Figure-8) |

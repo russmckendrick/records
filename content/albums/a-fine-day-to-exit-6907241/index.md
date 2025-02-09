@@ -31,29 +31,29 @@ It is the last album with bassist Dave Pybus, and the first with keyboardist Les
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Fine Day | 3:36 |
-| A2 | Release | 5:40 |
-| A3 | Leave No Trace | 4:46 |
-| A4 | Underworld | 4:12 |
-| A5 | Pressure | 6:38 |
-| B1 | Panic | 3:37 |
-| B2 | Breaking Down The Barriers | 5:44 |
-| B3 | Looking Outside Inside | 6:15 |
-| B4 | A Fine Day To Exit | 6:48 |
-| B5 | Temporary Peace | 7:01 |
-| CD-1 | A Fine Day | 3:35 |
-| CD-2 | Release | 5:41 |
-| CD-3 | Leave No Trace | 4:46 |
-| CD-4 | Underworld | 4:12 |
-| CD-5 | Pressure | 6:38 |
-| CD-6 | Panic | 3:38 |
-| CD-7 | Breaking Down The Barriers | 5:44 |
-| CD-8 | Looking Outside Inside | 6:15 |
-| CD-9 | A Fine Day To Exit | 6:49 |
-| CD-10.1 | Temporary Peace | 12:15 |
-| CD-10.2 | In The Dog's House | 3:01 |
+| Position | Title |
+|----------|--------|
+| A1 | A Fine Day |
+| A2 | Release |
+| A3 | Leave No Trace |
+| A4 | Underworld |
+| A5 | Pressure |
+| B1 | Panic |
+| B2 | Breaking Down The Barriers |
+| B3 | Looking Outside Inside |
+| B4 | A Fine Day To Exit |
+| B5 | Temporary Peace |
+| CD-1 | A Fine Day |
+| CD-2 | Release |
+| CD-3 | Leave No Trace |
+| CD-4 | Underworld |
+| CD-5 | Pressure |
+| CD-6 | Panic |
+| CD-7 | Breaking Down The Barriers |
+| CD-8 | Looking Outside Inside |
+| CD-9 | A Fine Day To Exit |
+| CD-10.1 | Temporary Peace |
+| CD-10.2 | In The Dog's House |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ It is the last album with bassist Dave Pybus, and the first with keyboardist Les
 | Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058501 |
-| Notes | Produced for SJP<br><br>℗ 2001 © 2015 Music For Nations. Made in the EU<br><br> Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.<br><br>On the compact disc, "Temporary Peace" (CD-10.1) lasts until 5:50, followed by the sound of waves, spoken word, and an unlisted hidden song called "In The Dog's House" (CD-10.2) at 12:15.  |
+| Notes | Produced for SJP  ℗ 2001 © 2015 Music For Nations. Made in the EU   Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.  On the compact disc, "Temporary Peace" (CD-10.1) lasts until 5:50, followed by the sound of waves, spoken word, and an unlisted hidden song called "In The Dog's House" (CD-10.2) at 12:15.  |
 | Discogs URL    | [Anathema - A Fine Day To Exit ](https://www.discogs.com/release/6907241-Anathema-A-Fine-Day-To-Exit-) |

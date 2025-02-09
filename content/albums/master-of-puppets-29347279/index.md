@@ -36,16 +36,16 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Battery | 5:12 |
-| A2 | Master Of Puppets | 8:35 |
-| A3 | The Thing That Should Not Be | 6:36 |
-| A4 | Welcome Home (Sanitarium) | 6:27 |
-| B1 | Disposable Heroes | 8:16 |
-| B2 | Leper Messiah | 5:40 |
-| B3 | Orion | 8:27 |
-| B4 | Damage, Inc. | 5:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Battery |
+| A2 | Master Of Puppets |
+| A3 | The Thing That Should Not Be |
+| A4 | Welcome Home (Sanitarium) |
+| B1 | Disposable Heroes |
+| B2 | Leper Messiah |
+| B3 | Orion |
+| B4 | Damage, Inc. |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Red (Battery Brick)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND005R-1 |
-| Notes | Made in Germany<br>Pressed on Limited Edition Battery Brick Vinyl  |
+| Notes | Made in Germany Pressed on Limited Edition Battery Brick Vinyl  |
 | Discogs URL    | [Metallica - Master Of Puppets](https://www.discogs.com/release/29347279-Metallica-Master-Of-Puppets) |

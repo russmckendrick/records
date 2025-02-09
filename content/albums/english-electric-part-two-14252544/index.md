@@ -34,19 +34,19 @@ English Electric Part Two is the eighth studio album by the English progressive 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Make Some Noise |  |
-| A2 | Worked Out |  |
-| A3 | Keeper Of Abbeys |  |
-| B1 | Swan Hunter |  |
-| B2 | Seen Better Days |  |
-| B3 | Edgelands |  |
-| B4 | The Lovers |  |
-| C1 | Leopards |  |
-| C2 | East Coast Racer |  |
-| D1 | The Permanent Way |  |
-| D2 | Curator Of Butterflies |  |
+| Position | Title |
+|----------|--------|
+| A1 | Make Some Noise |
+| A2 | Worked Out |
+| A3 | Keeper Of Abbeys |
+| B1 | Swan Hunter |
+| B2 | Seen Better Days |
+| B3 | Edgelands |
+| B4 | The Lovers |
+| C1 | Leopards |
+| C2 | East Coast Racer |
+| D1 | The Permanent Way |
+| D2 | Curator Of Butterflies |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ English Electric Part Two is the eighth studio album by the English progressive 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Orange) |
 | Label          | English Electric Recordings |
 | Catalog Number | 0700613252192 |
-| Notes | Big Big Train's classic English Electric Part Two remastered for wider dynamic range and repressed in a final limited edition of 500 copies on double 180g transparent orange vinyl.<br>Including one sided credit sheet.<br>Gatefold sleeve <br> <br>Combines all the tracks from the English Electric Part Two CD and the Make Some Noise EP. |
+| Notes | Big Big Train's classic English Electric Part Two remastered for wider dynamic range and repressed in a final limited edition of 500 copies on double 180g transparent orange vinyl. Including one sided credit sheet. Gatefold sleeve    Combines all the tracks from the English Electric Part Two CD and the Make Some Noise EP. |
 | Discogs URL    | [Big Big Train - English Electric Part Two](https://www.discogs.com/release/14252544-Big-Big-Train-English-Electric-Part-Two) |

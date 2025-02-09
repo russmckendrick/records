@@ -39,32 +39,32 @@ The Light the Dead See is the fourth full-length studio album from English elect
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | La Ribera |  |
-| A2 | In The Morning |  |
-| A3 | Longest Day |  |
-| A4 | Presence Of God |  |
-| A5 | Just Try |  |
-| A6 | Gone Too Far |  |
-| B1 | Point Sur Pt. 1 |  |
-| B2 | Take Me Back Home |  |
-| B3 | Bitterman |  |
-| B4 | I Can't Stay |  |
-| B5 | Take |  |
-| B6 | Tonight |  |
-| CD-1 | La Ribera | 1:51 |
-| CD-2 | In The Morning | 3:33 |
-| CD-3 | Longest Day | 4:14 |
-| CD-4 | Presence Of God | 3:45 |
-| CD-5 | Just Try | 4:03 |
-| CD-6 | Gone Too Far | 3:12 |
-| CD-7 | Point Sur Pt. 1 | 1:41 |
-| CD-8 | Take Me Back Home | 4:06 |
-| CD-9 | Bitterman | 4:51 |
-| CD-10 | I Can't Stay | 5:02 |
-| CD-11 | Take | 3:45 |
-| CD-12 | Tonight | 3:58 |
+| Position | Title |
+|----------|--------|
+| A1 | La Ribera |
+| A2 | In The Morning |
+| A3 | Longest Day |
+| A4 | Presence Of God |
+| A5 | Just Try |
+| A6 | Gone Too Far |
+| B1 | Point Sur Pt. 1 |
+| B2 | Take Me Back Home |
+| B3 | Bitterman |
+| B4 | I Can't Stay |
+| B5 | Take |
+| B6 | Tonight |
+| CD-1 | La Ribera |
+| CD-2 | In The Morning |
+| CD-3 | Longest Day |
+| CD-4 | Presence Of God |
+| CD-5 | Just Try |
+| CD-6 | Gone Too Far |
+| CD-7 | Point Sur Pt. 1 |
+| CD-8 | Take Me Back Home |
+| CD-9 | Bitterman |
+| CD-10 | I Can't Stay |
+| CD-11 | Take |
+| CD-12 | Tonight |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ The Light the Dead See is the fourth full-length studio album from English elect
 | Format         | Vinyl LP Album, CD Album |
 | Label          | V2 |
 | Catalog Number | VVR797363 |
-| Notes | Recorded 2010/11/12 in Los Angeles, New York, London, Berlin, Sydney & Stoke-on-Trent.<br><br>Recorded at<br>Sunset Sound / Selma Sound / 11AD - Los Angeles, The Mouse House / Casa G / Mute hq / Strongrooms - UK<br>Schlaf Klänge Studios - Berlin, Studios 301 - Sydney<br>Dave Gahan vocals recorded at Madpan studios N.Y.C. & Blanco Studio N.Y.C.<br><br>Published by EMI Music Publishing Ltd Licensed by JJSR Productions Inc / Mute Songs<br><br>℗&© 2012 V2 Records.<br><br>Duration times are not printed on cover or labels.<br><br>Initial pre-orders from recordstore.co.uk included an 'exclusive album artwork print'<br><br>CD packaged in clear generic PVC sleeve.<br><br>The album title printed on labels has a typo – "Sea" instead of "See".<br> |
+| Notes | Recorded 2010/11/12 in Los Angeles, New York, London, Berlin, Sydney & Stoke-on-Trent.    Recorded at  Sunset Sound / Selma Sound / 11AD - Los Angeles, The Mouse House / Casa G / Mute hq / Strongrooms - UK  Schlaf Klänge Studios - Berlin, Studios 301 - Sydney  Dave Gahan vocals recorded at Madpan studios N.Y.C. & Blanco Studio N.Y.C.    Published by EMI Music Publishing Ltd Licensed by JJSR Productions Inc / Mute Songs    ℗&© 2012 V2 Records.    Duration times are not printed on cover or labels.    Initial pre-orders from recordstore.co.uk included an 'exclusive album artwork print'    CD packaged in clear generic PVC sleeve.    The album title printed on labels has a typo – "Sea" instead of "See".   |
 | Discogs URL    | [The Soulsavers - The Light The Dead See](https://www.discogs.com/release/3700217-Soulsavers-The-Light-The-Dead-See) |

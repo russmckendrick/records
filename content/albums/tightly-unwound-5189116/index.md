@@ -35,17 +35,17 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Debt To You |  |
-| A2 | Shoot First |  |
-| A3 | Sinners |  |
-| B1 | The Sorry State |  |
-| B2 | Tightly Wound |  |
-| B3 | My Bleeding Hand |  |
-| C1 | Different World |  |
-| C2 | And So Say All Of You |  |
-| D1 | Too Much To Lose |  |
+| Position | Title |
+|----------|--------|
+| A1 | My Debt To You |
+| A2 | Shoot First |
+| A3 | Sinners |
+| B1 | The Sorry State |
+| B2 | Tightly Wound |
+| B3 | My Bleeding Hand |
+| C1 | Different World |
+| C2 | And So Say All Of You |
+| D1 | Too Much To Lose |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 | Format         | Vinyl 2× LP Album (Orange) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE852 |
-| Notes | A double vinyl edition of the first ever album released on Kscope. <br><br>Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package. <br><br>Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.<br>Remastered and Remixed<br>Made in Germany<br> |
+| Notes | A double vinyl edition of the first ever album released on Kscope.     Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.     Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.  Remastered and Remixed  Made in Germany   |
 | Discogs URL    | [The Pineapple Thief - Tightly Unwound](https://www.discogs.com/release/5189116-The-Pineapple-Thief-Tightly-Unwound) |

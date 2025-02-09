@@ -40,19 +40,19 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ceremony |  |
-| A2 | Wild Hearted Son |  |
-| A3 | Earth Mofo |  |
-| B4 | White |  |
-| B5 | If |  |
-| C6 | Full Tilt |  |
-| C7 | Heart Of Soul |  |
-| C8 | Bangkok Rain |  |
-| D9 | Indian |  |
-| D10 | Sweet Salvation |  |
-| D11 | Wonderland |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ceremony |
+| A2 | Wild Hearted Son |
+| A3 | Earth Mofo |
+| B4 | White |
+| B5 | If |
+| C6 | Full Tilt |
+| C7 | Heart Of Soul |
+| C8 | Bangkok Rain |
+| D9 | Indian |
+| D10 | Sweet Salvation |
+| D11 | Wonderland |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 | Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Album Limited Edition Reissue |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2297 LP |
-| Notes | Issued in an unlaminated single pocket sleeve with a wide spine.<br>Picture/lyric/credits top opening inner sleeves of card.<br>The red vinyl is translucent to strong light.<br>There is a hype sticker to the front, below the band name and a barcode/catalogue number over-sticker on the reverse, both applied to the shrink-wrap.<br><br>"Indie stores exclusive" in the UK and was also available from the official webstore of the label.<br><br>This version is similar to [r27909384] except for disc one as blue vinyl, disc two as red vinyl. This colour scheme is reversed on the similar version with disc one being red and disc two being blue, differing runouts, showing no characters typical of GZ Media. An external visual identification is that they have a different layout on the barcode over-sticker, although the numbers are the same.<br><br>Runouts are etched. <br>"1|", "1T", "1=" are Optimal Media GmbH mirrored geometric plating marks.<br><br>Tracks are numbered sequentially across the release, 1 to 11. |
+| Notes | Issued in an unlaminated single pocket sleeve with a wide spine. Picture/lyric/credits top opening inner sleeves of card. The red vinyl is translucent to strong light. There is a hype sticker to the front, below the band name and a barcode/catalogue number over-sticker on the reverse, both applied to the shrink-wrap.  "Indie stores exclusive" in the UK and was also available from the official webstore of the label.  This version is similar to [r27909384] except for disc one as blue vinyl, disc two as red vinyl. This colour scheme is reversed on the similar version with disc one being red and disc two being blue, differing runouts, showing no characters typical of GZ Media. An external visual identification is that they have a different layout on the barcode over-sticker, although the numbers are the same.  Runouts are etched.  "1|", "1T", "1=" are Optimal Media GmbH mirrored geometric plating marks.  Tracks are numbered sequentially across the release, 1 to 11. |
 | Discogs URL    | [The Cult - Ceremony](https://www.discogs.com/release/27997590-The-Cult-Ceremony) |

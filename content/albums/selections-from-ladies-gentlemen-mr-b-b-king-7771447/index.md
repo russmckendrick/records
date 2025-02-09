@@ -37,25 +37,25 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How Blue Can You Get? |  |
-| A2 | I Wonder Why |  |
-| A3 | Think It Over |  |
-| A4 | The Thrill Is Gone |  |
-| A5 | Chains And Things |  |
-| B1 | Worry, Worry |  |
-| B2 | Sweet Sixteen |  |
-| B3 | Ghetto Woman |  |
-| C1 | There Must Be A Better World Somewhere |  |
-| C2 | When Love Comes To Town |  |
-| C3 | Stormy Monday Blues |  |
-| C4 | Blues Man |  |
-| D1 | Caldonia |  |
-| D2 | You Have A Way |  |
-| D3 | Key To The Highway (Live)  |  |
-| D4 | Get These Blues Off Me  |  |
-| D5 | See That My Grave Is Kept Clean |  |
+| Position | Title |
+|----------|--------|
+| A1 | How Blue Can You Get? |
+| A2 | I Wonder Why |
+| A3 | Think It Over |
+| A4 | The Thrill Is Gone |
+| A5 | Chains And Things |
+| B1 | Worry, Worry |
+| B2 | Sweet Sixteen |
+| B3 | Ghetto Woman |
+| C1 | There Must Be A Better World Somewhere |
+| C2 | When Love Comes To Town |
+| C3 | Stormy Monday Blues |
+| C4 | Blues Man |
+| D1 | Caldonia |
+| D2 | You Have A Way |
+| D3 | Key To The Highway (Live)  |
+| D4 | Get These Blues Off Me  |
+| D5 | See That My Grave Is Kept Clean |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: []
 | Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Label          | Universal Music Group International |
 | Catalog Number | 0600753629734 |
-| Notes | Includes voucher to download MP3 version of the album.<br>Gatefold cover.<br>Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |
+| Notes | Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |
 | Discogs URL    | [BB King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |

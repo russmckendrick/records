@@ -25,21 +25,21 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Anathema | 6:41 |
-| A2 | Untouchable (Part 1) | 6:14 |
-| A3 | Untouchable (Part 2) | 5:33 |
-| B1 | Thin Air | 6:00 |
-| B2 | Ariel | 6:29 |
-| B3 | Can't Let Go | 5:00 |
-| C1 | Dreaming Light | 5:47 |
-| C2 | Are You There? | 5:18 |
-| C3 | J'ai Fait Une Promesse | 4:22 |
-| C4 | Leaving It Behind | 4:27 |
-| D1 | Springfield | 5:49 |
-| D2 | Distant Satellites | 8:18 |
-| D3 | Internal Landscapes | 8:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Anathema |
+| A2 | Untouchable (Part 1) |
+| A3 | Untouchable (Part 2) |
+| B1 | Thin Air |
+| B2 | Ariel |
+| B3 | Can't Let Go |
+| C1 | Dreaming Light |
+| C2 | Are You There? |
+| C3 | J'ai Fait Une Promesse |
+| C4 | Leaving It Behind |
+| D1 | Springfield |
+| D2 | Distant Satellites |
+| D3 | Internal Landscapes |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1009 |
-| Notes | The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping.<br>2LP gatefold 180 gram heavyweight red vinyl. |
+| Notes | The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl. |
 | Discogs URL    | [Anathema - Internal Landscapes 2008-2018 (The Best Of)](https://www.discogs.com/release/12717350-Anathema-Internal-Landscapes-2008-2018-The-Best-Of) |

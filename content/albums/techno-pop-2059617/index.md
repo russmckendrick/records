@@ -31,15 +31,15 @@ styles: ["Electro", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Boing Boom Tschak | 2:58 |
-| A2 | Techno Pop | 7:42 |
-| A3 | Musique Non Stop | 5:44 |
-| B1 | The Telephone Call | 3:50 |
-| B2 | House Phone | 4:56 |
-| B3 | Sex Object | 6:51 |
-| B4 | Electric Cafe | 4:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Boing Boom Tschak |
+| A2 | Techno Pop |
+| A3 | Musique Non Stop |
+| B1 | The Telephone Call |
+| B2 | House Phone |
+| B3 | Sex Object |
+| B4 | Electric Cafe |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Electro", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered (English Version, 180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66050 1 1 |
-| Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".<br><br>Released with 16 page 12"x12" booklet and illustrated inner sleeve.<br><br>Sleeve: Printed in Germany<br>Labels: Made in the EU |
+| Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU |
 | Discogs URL    | [Kraftwerk - Techno Pop](https://www.discogs.com/release/2059617-Kraftwerk-Techno-Pop) |

@@ -32,17 +32,17 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Forget My Name |  |
-| A2 | Woolf Music |  |
-| A3 | The Bridge |  |
-| A4 | Aeaea |  |
-| A5 | Inland |  |
-| B1 | Missouri |  |
-| B2 | By The Stars |  |
-| B3 | Drawn |  |
-| B4 | The Lake |  |
+| Position | Title |
+|----------|--------|
+| A1 | Forget My Name |
+| A2 | Woolf Music |
+| A3 | The Bridge |
+| A4 | Aeaea |
+| A5 | Inland |
+| B1 | Missouri |
+| B2 | By The Stars |
+| B3 | Drawn |
+| B4 | The Lake |
 
 
 ## Apple Music

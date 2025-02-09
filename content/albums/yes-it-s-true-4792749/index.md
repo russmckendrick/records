@@ -31,19 +31,19 @@ Yes, It's True is the fourth studio album by American pop band The Polyphonic Sp
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Section 33 (You Don't Know Me) | 3:24 |
-| A2 | Section 34 (Popular By Design) | 4:14 |
-| A3 | Section 35 (Hold Yourself Up) | 4:23 |
-| A4 | Section 36 (Carefully Try) | 3:54 |
-| A5 | Section 37 (You're Golden | 4:08 |
-| A6 | Section 38 (Heart Talk) | 3:42 |
-| B1 | Section 39 (Blurry Up The Lines) | 4:25 |
-| B2 | Section 40 (Let Them Be) | 3:13 |
-| B3 | Section 41 (Raise Your Head) | 5:17 |
-| B4 | Section 42 (What Would You Do?) | 4:36 |
-| B5 | Section 43 (Battlefield) | 7:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Section 33 (You Don't Know Me) |
+| A2 | Section 34 (Popular By Design) |
+| A3 | Section 35 (Hold Yourself Up) |
+| A4 | Section 36 (Carefully Try) |
+| A5 | Section 37 (You're Golden |
+| A6 | Section 38 (Heart Talk) |
+| B1 | Section 39 (Blurry Up The Lines) |
+| B2 | Section 40 (Let Them Be) |
+| B3 | Section 41 (Raise Your Head) |
+| B4 | Section 42 (What Would You Do?) |
+| B5 | Section 43 (Battlefield) |
 
 
 ## Apple Music

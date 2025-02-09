@@ -34,26 +34,26 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Push It Along | 7:42 |
-| A2 | Luck Of Lucien | 4:32 |
-| A3 | After Hours | 4:39 |
-| A4 | Footprints | 4:00 |
-| B1 | I Left My Wallet In El Segundo | 4:06 |
-| B2 | Pubic Enemy | 3:45 |
-| B3 | Bonita Applebum | 4:11 |
-| B4 | Can I Kick It? | 4:52 |
-| B5 | Youthful Expression | 4:01 |
-| C1 | Rhythm (Devoted To The Art Of Moving Butts) | 3:33 |
-| C2 | Mr. Muhammad | 5:27 |
-| C3 | Ham 'N' Eggs | 3:54 |
-| C4 | Go Ahead In The Rain | 3:54 |
-| D1 | Description Of A Fool | 5:41 |
-|  | Bonus Tracks |  |
-| D2 | Footprints (Remix) | 5:08 |
-| D3 | Bonita Applebum (Pharrell Williams Remix) | 3:53 |
-| D4 | Can I Kick It? (J. Cole Remix) | 2:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Push It Along |
+| A2 | Luck Of Lucien |
+| A3 | After Hours |
+| A4 | Footprints |
+| B1 | I Left My Wallet In El Segundo |
+| B2 | Pubic Enemy |
+| B3 | Bonita Applebum |
+| B4 | Can I Kick It? |
+| B5 | Youthful Expression |
+| C1 | Rhythm (Devoted To The Art Of Moving Butts) |
+| C2 | Mr. Muhammad |
+| C3 | Ham 'N' Eggs |
+| C4 | Go Ahead In The Rain |
+| D1 | Description Of A Fool |
+|  | Bonus Tracks |
+| D2 | Footprints (Remix) |
+| D3 | Bonita Applebum (Pharrell Williams Remix) |
+| D4 | Can I Kick It? (J. Cole Remix) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
 | Label          | Jive |
 | Catalog Number | 88875172371 |
-| Notes | 25th anniversary edition with 3 bonus remixes.<br><br>Made in the EU.<br><br>Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp". <br><br>Pressed By and Lacquer Cut At derived from matrix details.<br><br>Runouts are etched, except for -37846- which is stamped |
+| Notes | 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.  Runouts are etched, except for -37846- which is stamped |
 | Discogs URL    | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm) |

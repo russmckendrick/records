@@ -31,17 +31,17 @@ Welcome 2 Club XIII  is the fourteenth studio album by American rock band Drive-
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Driver | 7:00 |
-| A2 | Maria's Awful Disclosure | 3:50 |
-| A3 | Shake and Pine | 3:45 |
-| A4 | We Will Never Wake You Up In The Morning | 5:37 |
-| B1 | Welcome 2 Club XIII | 3:22 |
-| B2 | Forged In Hell And Heaven Sent | 4:45 |
-| B3 | Every Single Storied Flameout | 3:55 |
-| B4 | Billy Ringo In The Dark | 3:45 |
-| B5 | Wilder Days | 6:37 |
+| Position | Title |
+|----------|--------|
+| A1 | The Driver |
+| A2 | Maria's Awful Disclosure |
+| A3 | Shake and Pine |
+| A4 | We Will Never Wake You Up In The Morning |
+| B1 | Welcome 2 Club XIII |
+| B2 | Forged In Hell And Heaven Sent |
+| B3 | Every Single Storied Flameout |
+| B4 | Billy Ringo In The Dark |
+| B5 | Wilder Days |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Welcome 2 Club XIII  is the fourteenth studio album by American rock band Drive-
 | Format         | Vinyl LP Limited Edition (Red) |
 | Label          | ATO Records |
 | Catalog Number | ATO0601 |
-| Notes | Rough Trade exclusive. Limited to 400 copies per Rough Trade's website.  <br>Copies with the shrinkwrap have a post production barcode sticker on the shrinkwrap covering the barcode printed on the back cover. <br>The album title "Welcome 2 club XIII" on the front cover is embossed.<br>Presented in a gatefold sleeve, package includes translucent red vinyl LP with black labels in a black paper inner sleeve, a download card, and 8-page booklet (featuring sleeve notes, lyrics, credits and photographs).<br><br>[Back cover]<br>℗ & © 2022 ATO Records, LLC. ... 0882467012 / ATO0601<br><br>[Record labels]<br>℗ & © 2022 ATO Records, LLC. ... 0882467012 / ATO0601<br><br>[Catalogue numbers]<br>Post production sticker on shrinkwrap: ATO0608<br>Record labels, sleeve spine, back cover: ATO0601<br>Back cover, record labels: 0882467012<br><br>[Post production sticker]<br>Red background found on the shrinkwrap: <br>"DRIVE-BY TRUCKERS WELCOME 2 CLUB XIII The 14th studio album by Drive-By Truckers ... 180-gram, Red and Black vinyl ROUGH TRADE SHOPS EXCLUSIVE ATO0608"<br><br>[Publishers]<br>A1, A3 to B1, B4, B5 © Mt. St. Helen Keller Music (BMI), administered by Hipgnosis Songs Group<br>A2, B3 Cheap Labor (BMI) administered by Hipgnosis Songs Group<br><br>[Booklet]<br>Recorded, engineered, and mixed by ... at Chase Park Transduction, Athens Georgia, summer and fall 2021<br>W2CXXII, Billy Ringo and Wilder Days recorded at Sam Phillips Recording Service fall 2018, mixed at CPT winter 2019...<br>This album  is dedicated the loving memory of Linda Phillips who founded Nuçi's Space...<br><br>[Runouts]<br>All runout data is etched except for "STERLING" which is stamped |
+| Notes | Rough Trade exclusive. Limited to 400 copies per Rough Trade's website.   Copies with the shrinkwrap have a post production barcode sticker on the shrinkwrap covering the barcode printed on the back cover.  The album title "Welcome 2 club XIII" on the front cover is embossed. Presented in a gatefold sleeve, package includes translucent red vinyl LP with black labels in a black paper inner sleeve, a download card, and 8-page booklet (featuring sleeve notes, lyrics, credits and photographs).  [Back cover] ℗ & © 2022 ATO Records, LLC. ... 0882467012 / ATO0601  [Record labels] ℗ & © 2022 ATO Records, LLC. ... 0882467012 / ATO0601  [Catalogue numbers] Post production sticker on shrinkwrap: ATO0608 Record labels, sleeve spine, back cover: ATO0601 Back cover, record labels: 0882467012  [Post production sticker] Red background found on the shrinkwrap:  "DRIVE-BY TRUCKERS WELCOME 2 CLUB XIII The 14th studio album by Drive-By Truckers ... 180-gram, Red and Black vinyl ROUGH TRADE SHOPS EXCLUSIVE ATO0608"  [Publishers] A1, A3 to B1, B4, B5 © Mt. St. Helen Keller Music (BMI), administered by Hipgnosis Songs Group A2, B3 Cheap Labor (BMI) administered by Hipgnosis Songs Group  [Booklet] Recorded, engineered, and mixed by ... at Chase Park Transduction, Athens Georgia, summer and fall 2021 W2CXXII, Billy Ringo and Wilder Days recorded at Sam Phillips Recording Service fall 2018, mixed at CPT winter 2019... This album  is dedicated the loving memory of Linda Phillips who founded Nuçi's Space...  [Runouts] All runout data is etched except for "STERLING" which is stamped |
 | Discogs URL    | [Drive-By Truckers - Welcome 2 Club XIII](https://www.discogs.com/release/23507621-Drive-By-Truckers-Welcome-2-Club-XIII) |

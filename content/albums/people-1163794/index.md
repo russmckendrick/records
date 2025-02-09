@@ -30,19 +30,19 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Sorry |  |
-| A2 | Don't Go |  |
-| A3 | Forgiven |  |
-| A4 | It'll Be Easier In The Morning |  |
-| A5 | Hallelujah Jordan |  |
-| A6 | If You Go |  |
-| B1 | The Older We Get |  |
-| B2 | Yes I Was |  |
-| B3 | Love Don't Work This Way |  |
-| B4 | Ballad Of Katie |  |
-| B5 | Feet On The Ground |  |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Sorry |
+| A2 | Don't Go |
+| A3 | Forgiven |
+| A4 | It'll Be Easier In The Morning |
+| A5 | Hallelujah Jordan |
+| A6 | If You Go |
+| B1 | The Older We Get |
+| B2 | Yes I Was |
+| B3 | Love Don't Work This Way |
+| B4 | Ballad Of Katie |
+| B5 | Feet On The Ground |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | LON LP 58 |
-| Notes | Dedicated to Eamon and Terri with love.<br>Issued with a custom inner sleeve containing lyrics, credits and images. |
+| Notes | Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images. |
 | Discogs URL    | [Hothouse Flowers - People](https://www.discogs.com/release/1163794-Hothouse-Flowers-People) |

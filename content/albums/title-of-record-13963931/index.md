@@ -41,23 +41,23 @@ Title of Record was a critical and commercial success upon its release, peaking 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sand | 0:37 |
-| A2 | Welcome To The Fold | 7:40 |
-| A3 | Captain Bligh | 5:12 |
-| A4 | It's Gonna Kill Me | 5:05 |
-| B1 | The Best Things | 4:24 |
-| B2 | Take A Picture | 6:00 |
-| B3 | Skinny | 5:43 |
-| B4 | I Will Lead You | 3:22 |
-| C1 | Cancer | 6:39 |
-| C2 | I'm Not The Only One | 5:50 |
-| C3 | Miss Blue | 5:36 |
-| D1 | Jurassitol (2009 Remaster Version) | 5:13 |
-| D2 | (Can't You) Trip Like I Do (2009 Remaster Version) | 4:27 |
-| D3 | Take A Picture (H & H Remix) | 4:13 |
-| D4 | The Best Things (Humble Brothers Remix) | 6:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Sand |
+| A2 | Welcome To The Fold |
+| A3 | Captain Bligh |
+| A4 | It's Gonna Kill Me |
+| B1 | The Best Things |
+| B2 | Take A Picture |
+| B3 | Skinny |
+| B4 | I Will Lead You |
+| C1 | Cancer |
+| C2 | I'm Not The Only One |
+| C3 | Miss Blue |
+| D1 | Jurassitol (2009 Remaster Version) |
+| D2 | (Can't You) Trip Like I Do (2009 Remaster Version) |
+| D3 | Take A Picture (H & H Remix) |
+| D4 | The Best Things (Humble Brothers Remix) |
 
 
 ## Apple Music

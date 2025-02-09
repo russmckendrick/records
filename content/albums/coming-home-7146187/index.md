@@ -31,18 +31,18 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coming Home |  |
-| A2 | Better Man |  |
-| A3 | Brown Skin Girl |  |
-| A4 | Smooth Sailin' |  |
-| A5 | Shine |  |
-| B1 | Lisa Sawyer |  |
-| B2 | Flowers |  |
-| B3 | Pull Away |  |
-| B4 | Twistin' & Groovin' |  |
-| B5 | River |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coming Home |
+| A2 | Better Man |
+| A3 | Brown Skin Girl |
+| A4 | Smooth Sailin' |
+| A5 | Shine |
+| B1 | Lisa Sawyer |
+| B2 | Flowers |
+| B3 | Pull Away |
+| B4 | Twistin' & Groovin' |
+| B5 | River |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875 08914 1 |
-| Notes | 180 gram vinyl with MP3 download.<br><br>All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP). |
+| Notes | 180 gram vinyl with MP3 download.    All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP). |
 | Discogs URL    | [Leon Bridges - Coming Home](https://www.discogs.com/release/7146187-Leon-Bridges-Coming-Home) |

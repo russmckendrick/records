@@ -32,15 +32,15 @@ The band toured the UK and Europe for one year to promote the album, which raise
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Musical Box |  |
-| A2 | For Absent Friends |  |
-| A3 | The Return Of The Giant Hogweed |  |
-| B1 | Seven Stones |  |
-| B2 | Harold The Barrel |  |
-| B3 | Harlequin |  |
-| B4 | The Fountain Of Salmacis |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Musical Box |
+| A2 | For Absent Friends |
+| A3 | The Return Of The Giant Hogweed |
+| B1 | Seven Stones |
+| B2 | Harold The Barrel |
+| B3 | Harlequin |
+| B4 | The Fountain Of Salmacis |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The band toured the UK and Europe for one year to promote the album, which raise
 | Format         | Vinyl LP Album Deluxe Edition Reissue Remastered Repress Stereo (Gatefold, 180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 516780 |
-| Notes | Issued in a single-pocket gatefold jacket with a plain white poly-lined inner sleeve. Song lyrics are printed on the gatefold interior.<br>The runouts are stamped apart from 'THE PARADIGM 1/2 SPEED PROCESS ⓂMILES.', which is etched.<br>Repress of [r3174421].<br><br>From back cover:<br>℗ & © 2008 Anthony Banks Ltd., Philip Collins Ltd., Peter Gabriel Ltd., Steve Hackett Music Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company. [...] Manufactured & Marketed by Rhino Entertainment Company, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in U.S.A.<br><br>From gatefold interior:<br>Remixed 2008 Nick Davis at The Farm Studio, Surrey<br>All tracks composed, arranged and performed by Genesis<br>Recorded at Trident Studios, London<br><br>From labels:<br>All tracks Composed & Written by Genesis<br>℗ & © 2008 Anthony Banks Ltd., Philip Collins Ltd., Peter Gabriel Ltd., Steve Hackett Music Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company. [...] Manufactured & Marketed by Rhino Entertainment Company. Manufactured in Germany by Furnace MFG/The Pallas Group.<br><br>From sticker on shrink:<br>The Classic Albums<br>DELUXE EDITIONS<br>featuring:<br>Half Speed Mastering<br>2008 Mixes by Nick Davis & Genesis<br>Pressed at Pallas GmbH<br>180 Gram Audiophile Vinyl |
+| Notes | Issued in a single-pocket gatefold jacket with a plain white poly-lined inner sleeve. Song lyrics are printed on the gatefold interior. The runouts are stamped apart from 'THE PARADIGM 1/2 SPEED PROCESS ⓂMILES.', which is etched. Repress of [r3174421].  From back cover: ℗ & © 2008 Anthony Banks Ltd., Philip Collins Ltd., Peter Gabriel Ltd., Steve Hackett Music Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company. [...] Manufactured & Marketed by Rhino Entertainment Company, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in U.S.A.  From gatefold interior: Remixed 2008 Nick Davis at The Farm Studio, Surrey All tracks composed, arranged and performed by Genesis Recorded at Trident Studios, London  From labels: All tracks Composed & Written by Genesis ℗ & © 2008 Anthony Banks Ltd., Philip Collins Ltd., Peter Gabriel Ltd., Steve Hackett Music Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company. [...] Manufactured & Marketed by Rhino Entertainment Company. Manufactured in Germany by Furnace MFG/The Pallas Group.  From sticker on shrink: The Classic Albums DELUXE EDITIONS featuring: Half Speed Mastering 2008 Mixes by Nick Davis & Genesis Pressed at Pallas GmbH 180 Gram Audiophile Vinyl |
 | Discogs URL    | [Genesis - Nursery Cryme](https://www.discogs.com/release/6512577-Genesis-Nursery-Cryme) |

@@ -29,21 +29,21 @@ Gold Mother received generally positive reviews from music critics, some of whom
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come Home (Flood Mix) |  |
-| A2 | Lose Control |  |
-| A3 | Government Walls |  |
-| B1 | God Only Knows |  |
-| B2 | You Can't Tell How Much Suffering (On A Face That's Always Smiling) |  |
-| B3 | How Was It For You |  |
-| B4 | Sit Down |  |
-| C1 | Walking The Ghost |  |
-| C2 | Gold Mother |  |
-| C3 | Top Of The World |  |
-| D1 | Come Home (Original Version) |  |
-| D2 | Crescendo |  |
-| D3 | Hang On |  |
+| Position | Title |
+|----------|--------|
+| A1 | Come Home (Flood Mix) |
+| A2 | Lose Control |
+| A3 | Government Walls |
+| B1 | God Only Knows |
+| B2 | You Can't Tell How Much Suffering (On A Face That's Always Smiling) |
+| B3 | How Was It For You |
+| B4 | Sit Down |
+| C1 | Walking The Ghost |
+| C2 | Gold Mother |
+| C3 | Top Of The World |
+| D1 | Come Home (Original Version) |
+| D2 | Crescendo |
+| D3 | Hang On |
 
 
 ## Apple Music

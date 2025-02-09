@@ -34,20 +34,20 @@ Change Everything is the third studio album by Del Amitri, released on 1 June 19
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Be My Downfall |  |
-| A2 | Just Like A Man |  |
-| A3 | When You Were Young |  |
-| A4 | Surface Of The Moon |  |
-| A5 | I Won't Take The Blame |  |
-| A6 | The First Rule Of Love |  |
-| B1 | The Ones That You Love Lead You Nowhere |  |
-| B2 | Always The Last To Know |  |
-| B3 | To Last A Lifetime |  |
-| B4 | As Soon As The Tide Comes In |  |
-| B5 | Behind The Fool |  |
-| B6 | Sometimes I Just Have To Say Your Name |  |
+| Position | Title |
+|----------|--------|
+| A1 | Be My Downfall |
+| A2 | Just Like A Man |
+| A3 | When You Were Young |
+| A4 | Surface Of The Moon |
+| A5 | I Won't Take The Blame |
+| A6 | The First Rule Of Love |
+| B1 | The Ones That You Love Lead You Nowhere |
+| B2 | Always The Last To Know |
+| B3 | To Last A Lifetime |
+| B4 | As Soon As The Tide Comes In |
+| B5 | Behind The Fool |
+| B6 | Sometimes I Just Have To Say Your Name |
 
 
 ## Apple Music

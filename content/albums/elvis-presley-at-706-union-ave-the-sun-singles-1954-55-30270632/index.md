@@ -52,22 +52,22 @@ styles: ["Rock & Roll", "Rockabilly"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | That's All Right |  |
-| B | Blue Moon Of Kentucky |  |
-| C | I Don't Care If The Sun Don't Shine | 2:27 |
-| D | Good Rockin' Tonight | 2:10 |
-| E | Milkcow Blues Boogie |  |
-| F | You're A Heartbreaker |  |
-| G | I'm Left, You're Right, She's Gone |  |
-| H | Baby Let's Play House |  |
-| I | Mystery Train |  |
-| J | I Forgot To Remember To Forget |  |
-| K1 | Blue Moon |  |
-| K2 | Just Because |  |
-| L1 | Trying To Get To You |  |
-| L2 | When It Rains, It Really Pours |  |
+| Position | Title |
+|----------|--------|
+| A | That's All Right |
+| B | Blue Moon Of Kentucky |
+| C | I Don't Care If The Sun Don't Shine |
+| D | Good Rockin' Tonight |
+| E | Milkcow Blues Boogie |
+| F | You're A Heartbreaker |
+| G | I'm Left, You're Right, She's Gone |
+| H | Baby Let's Play House |
+| I | Mystery Train |
+| J | I Forgot To Remember To Forget |
+| K1 | Blue Moon |
+| K2 | Just Because |
+| L1 | Trying To Get To You |
+| L2 | When It Rains, It Really Pours |
 
 
 ## Apple Music
@@ -84,5 +84,5 @@ styles: ["Rock & Roll", "Rockabilly"]
 | Format         | Vinyl 7" 45 RPM Single Reissue (Yellow And Black Marble [Memphis Dust]), Vinyl 7" 45 RPM Single Reissue (Yellow And Black Marble [Memphis Dust]), Vinyl 7" 45 RPM Single Reissue (Yellow And Black Marble [Memphis Dust]), Vinyl 7" 45 RPM Single Reissue (Yellow And Black Marble [Memphis Dust]), Vinyl 7" 45 RPM Single Reissue (Yellow And Black Marble [Memphis Dust]), Vinyl 7" 33 ⅓ RPM EP (Yellow With Black Splatter [Sun Ray]), Box Set Compilation |
 | Label          | Third Man Records |
 | Catalog Number | TMR-967 |
-| Notes | Tracks A and B originally released as [m=216486].<br>Tracks C and D originally released as [m=473519].<br>Tracks E and F originally released as [m=107317].<br>Tracks G and H originally released as [m=107311].<br>Tracks I and J originally released as [m=107319].<br>Tracks K1 to L2 originally released in the compilation [m=107699] and marketed here as an EP.<br><br>It also includes two linen-style postcards (one depicting the Sun storefront and the other showing the sound absorbing acoustic tile), a name tag-styled truck driver patch, and a milled nickel 45 adaptor featuring the Sun Records rooster.<br><br>Track D incorrectly credited to Ray Brown on label.<br><br>Track publishers on labels:<br>A: Wabash BMI<br>B: Peer BMI<br>C: Famous ASCAP<br>E: Leeds Ascap<br>F, G: Hi-Lo Music BMI<br>H: Excellorec BMI<br>I, J: Hi Lo Music BMI<br><br>Track publishers on box:<br>A: Crudup Music / PW Ballads / Unichappell Music Inc. (BMI)<br>B: Bill Monroe Music c/o Music Of Evergreen (BMI)<br>C: Brad Reinis Music / Debbie Grillo Music / Jobe Music (ASCAP)<br>D: Brown Angel Music Publishing c/o Wixen Music Publishing Inc. (BMI)<br>E, K2: Universal Music Corporation (ASCAP)<br>F, G, L2: Hi-Lo Music (BMI)<br>H: Embassy Music Corp. / LPGV Music (BMI)<br>I: Hi-lo Music / Mijac Music / Unichappell Music Inc. (BMI)<br>J: C Feathers Publishing / Edward B. Marks Music Company (BMI)<br>K1: EMI Robbins Catalog Inc. (ASCAP)<br>L1: ABG Elvis Songs / Elvis Presley Music (BMI) |
+| Notes | Tracks A and B originally released as [m=216486]. Tracks C and D originally released as [m=473519]. Tracks E and F originally released as [m=107317]. Tracks G and H originally released as [m=107311]. Tracks I and J originally released as [m=107319]. Tracks K1 to L2 originally released in the compilation [m=107699] and marketed here as an EP.  It also includes two linen-style postcards (one depicting the Sun storefront and the other showing the sound absorbing acoustic tile), a name tag-styled truck driver patch, and a milled nickel 45 adaptor featuring the Sun Records rooster.  Track D incorrectly credited to Ray Brown on label.  Track publishers on labels: A: Wabash BMI B: Peer BMI C: Famous ASCAP E: Leeds Ascap F, G: Hi-Lo Music BMI H: Excellorec BMI I, J: Hi Lo Music BMI  Track publishers on box: A: Crudup Music / PW Ballads / Unichappell Music Inc. (BMI) B: Bill Monroe Music c/o Music Of Evergreen (BMI) C: Brad Reinis Music / Debbie Grillo Music / Jobe Music (ASCAP) D: Brown Angel Music Publishing c/o Wixen Music Publishing Inc. (BMI) E, K2: Universal Music Corporation (ASCAP) F, G, L2: Hi-Lo Music (BMI) H: Embassy Music Corp. / LPGV Music (BMI) I: Hi-lo Music / Mijac Music / Unichappell Music Inc. (BMI) J: C Feathers Publishing / Edward B. Marks Music Company (BMI) K1: EMI Robbins Catalog Inc. (ASCAP) L1: ABG Elvis Songs / Elvis Presley Music (BMI) |
 | Discogs URL    | [Elvis Presley - Elvis Presley At 706 Union Ave: The Sun Singles 1954-55](https://www.discogs.com/release/30270632-Elvis-Presley-Elvis-Presley-At-706-Union-Ave-The-Sun-Singles-1954-55) |

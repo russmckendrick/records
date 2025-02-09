@@ -42,21 +42,21 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hitch Hikin' |  |
-| A2 | The Wayfarer |  |
-| A3 | Tucson Train |  |
-| B1 | Western Stars |  |
-| B2 | Sleepy Joe's Café |  |
-| B3 | Drive Fast (The Stuntman) |  |
-| C1 | Chasin' Wild Horses |  |
-| C2 | Sundown |  |
-| C3 | Somewhere North Of Nashville |  |
-| C4 | Stones |  |
-| D1 | There Goes My Miracle |  |
-| D2 | Hello Sunshine |  |
-| D3 | Moonlight Motel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hitch Hikin' |
+| A2 | The Wayfarer |
+| A3 | Tucson Train |
+| B1 | Western Stars |
+| B2 | Sleepy Joe's Café |
+| B3 | Drive Fast (The Stuntman) |
+| C1 | Chasin' Wild Horses |
+| C2 | Sundown |
+| C3 | Somewhere North Of Nashville |
+| C4 | Stones |
+| D1 | There Goes My Miracle |
+| D2 | Hello Sunshine |
+| D3 | Moonlight Motel |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue) |
 | Label          | Columbia |
 | Catalog Number | 19075960331 |
-| Notes | Limited edition blue colored vinyl (light blue with dark blue and white splatters).<br>Includes free digital download<br>19075960331 S2<br><br>Gatefold sleeve + 2 inner sleeves with lyrics and credits<br><br>On back cover & labels:<br>© & ℗ 2019 Bruce Springsteen<br>Made in the EU<br><br>On inner sleeve:<br>Recorded at Stone Hill Studio, NJ<br>Additional recording at: Ocean Studio (Burbank, CA) / Very Loud House (Woodland Hills, CA) / Avatar Studios (New York, NY) / Sage And Sound (Hollywood, CA) / Stone Hill Studio, NJ<br>Mixed at Electric Lady Studios (New York, NY)<br>Mastered at Gateway Mastering (Portland, ME)<br><br>On runouts:<br>All is etched except GZ Media number<br> |
+| Notes | Limited edition blue colored vinyl (light blue with dark blue and white splatters). Includes free digital download 19075960331 S2  Gatefold sleeve + 2 inner sleeves with lyrics and credits  On back cover & labels: © & ℗ 2019 Bruce Springsteen Made in the EU  On inner sleeve: Recorded at Stone Hill Studio, NJ Additional recording at: Ocean Studio (Burbank, CA) / Very Loud House (Woodland Hills, CA) / Avatar Studios (New York, NY) / Sage And Sound (Hollywood, CA) / Stone Hill Studio, NJ Mixed at Electric Lady Studios (New York, NY) Mastered at Gateway Mastering (Portland, ME)  On runouts: All is etched except GZ Media number  |
 | Discogs URL    | [Bruce Springsteen - Western Stars](https://www.discogs.com/release/13744936-Bruce-Springsteen-Western-Stars) |

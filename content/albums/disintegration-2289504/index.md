@@ -42,20 +42,20 @@ Disintegration became the band's highest charting album to that point, reaching 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Plainsong | 5:15 |
-| A2 | Pictures Of You | 7:28 |
-| A3 | Closedown | 4:21 |
-| B1 | Lovesong | 3:30 |
-| B2 | Last Dance | 4:47 |
-| B3 | Lullaby | 4:12 |
-| B4 | Fascination Street | 5:16 |
-| C1 | Prayers For Rain | 6:07 |
-| C2 | The Same Deep Water As You | 9:22 |
-| D1 | Disintegration | 8:23 |
-| D2 | Homesick | 7:09 |
-| D3 | Untitled | 6:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Plainsong |
+| A2 | Pictures Of You |
+| A3 | Closedown |
+| B1 | Lovesong |
+| B2 | Last Dance |
+| B3 | Lullaby |
+| B4 | Fascination Street |
+| C1 | Prayers For Rain |
+| C2 | The Same Deep Water As You |
+| D1 | Disintegration |
+| D2 | Homesick |
+| D3 | Untitled |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Disintegration became the band's highest charting album to that point, reaching 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g, Gatefold Sleeve) |
 | Label          | Fiction Records |
 | Catalog Number | 532 456-3 |
-| Notes | [front sticker]<br>The Cure * Disintegration<br>180grm heavy weight double vinyl<br>Digitally remastered from the original master tapes by Robert Smith<br>Complete 12 song album on double vinyl for the first time including lyric bags<br>532 456-3<br><br>[sleeve & labels]<br>℗ 2010 Fiction Records Ltd. © Fiction Records Ltd.<br>The copyright in this sound recording is owned by Fiction Records Ltd. and licensed exclusively to Polydor Ltd (UK). <br>A Universal Music Company. <br>Made in the EU.<br><br>"Homesick" & "Last Dance" featured here for the first time on LP, 1989 LP releases of this album contained 10 tracks only.<br>Catalog number 060075324563 (7) appears on spine only. It is crossed-out on backsleeve (left upper corner) and not printed on labels.<br>Also released in [url=http://www.discogs.com/Cure-Disintegration/release/2323894]the US[/url].<br><br>[runout groove information]<br>'www.gzvinyl.com - 5324563-# 86821E#/#' stamped, remainder are etched.<br> |
+| Notes | [front sticker] The Cure * Disintegration 180grm heavy weight double vinyl Digitally remastered from the original master tapes by Robert Smith Complete 12 song album on double vinyl for the first time including lyric bags 532 456-3  [sleeve & labels] ℗ 2010 Fiction Records Ltd. © Fiction Records Ltd. The copyright in this sound recording is owned by Fiction Records Ltd. and licensed exclusively to Polydor Ltd (UK).  A Universal Music Company.  Made in the EU.  "Homesick" & "Last Dance" featured here for the first time on LP, 1989 LP releases of this album contained 10 tracks only. Catalog number 060075324563 (7) appears on spine only. It is crossed-out on backsleeve (left upper corner) and not printed on labels. Also released in [url=http://www.discogs.com/Cure-Disintegration/release/2323894]the US[/url].  [runout groove information] 'www.gzvinyl.com - 5324563-# 86821E#/#' stamped, remainder are etched.  |
 | Discogs URL    | [The Cure - Disintegration](https://www.discogs.com/release/2289504-The-Cure-Disintegration) |

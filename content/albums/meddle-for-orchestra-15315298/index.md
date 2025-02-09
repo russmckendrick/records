@@ -26,13 +26,13 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Echoes |  |
-| B1 | One Of These Days |  |
-| B2 | A Pillow Of Winds |  |
-| B3 | San Tropez |  |
-| B4 | Fearless |  |
+| Position | Title |
+|----------|--------|
+| A1 | Echoes |
+| B1 | One Of These Days |
+| B2 | A Pillow Of Winds |
+| B3 | San Tropez |
+| B4 | Fearless |
 
 
 ## Apple Music

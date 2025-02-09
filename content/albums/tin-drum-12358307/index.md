@@ -31,16 +31,16 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Art Of Parties | 4:09 |
-| A2 | Talking Drum | 3:32 |
-| B1 | Ghosts | 4:33 |
-| B2 | Canton | 5:30 |
-| C1 | Still Life In Mobile Homes | 5:32 |
-| C2 | Visions Of China | 3:38 |
-| D1 | Sons Of Pioneers | 7:07 |
-| D2 | Cantonese Boy | 3:44 |
+| Position | Title |
+|----------|--------|
+| A1 | The Art Of Parties |
+| A2 | Talking Drum |
+| B1 | Ghosts |
+| B2 | Canton |
+| C1 | Still Life In Mobile Homes |
+| C2 | Visions Of China |
+| D1 | Sons Of Pioneers |
+| D2 | Cantonese Boy |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 | Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue (Gatefold Sleeve) |
 | Label          | Virgin |
 | Catalog Number | 671 041-7 |
-| Notes | ℗ 1981 Virgin Records Ltd.  © 2018 Virgin Records Ltd.<br>Made in the EU<br><br>Project Co-ordination For Universal at Hey Joe!<br><br>Mastered by Miles Showell at Abbey Road, each record was cut using a half-speed mastering technique; a specialist artisan process, which results in cuts that have a superior high frequency (treble) response and solid and stable stereo images. In short, this produces a very high-quality master, which in turn helps to create a very high-quality record.<br><br>Additionally, each album is being released as a double 45 RPM half-speed mastered edition, the ultimate high-quality reproduction as the faster the replay speed of the record, the higher the potential quality. The shorter side times also allow the level recorded to the master lacquer discs to be increased, thereby improving the signal to noise ratio.<br><br>Half Speed Mastering Certificate |
+| Notes | ℗ 1981 Virgin Records Ltd.  © 2018 Virgin Records Ltd. Made in the EU  Project Co-ordination For Universal at Hey Joe!  Mastered by Miles Showell at Abbey Road, each record was cut using a half-speed mastering technique; a specialist artisan process, which results in cuts that have a superior high frequency (treble) response and solid and stable stereo images. In short, this produces a very high-quality master, which in turn helps to create a very high-quality record.  Additionally, each album is being released as a double 45 RPM half-speed mastered edition, the ultimate high-quality reproduction as the faster the replay speed of the record, the higher the potential quality. The shorter side times also allow the level recorded to the master lacquer discs to be increased, thereby improving the signal to noise ratio.  Half Speed Mastering Certificate |
 | Discogs URL    | [Japan - Tin Drum](https://www.discogs.com/release/12358307-Japan-Tin-Drum) |

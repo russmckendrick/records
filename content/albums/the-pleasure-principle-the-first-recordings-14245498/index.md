@@ -26,29 +26,29 @@ styles: ["New Wave", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cars (Demo Version 2) |  |
-| A2 | Films (Demo Version) |  |
-| A3 | Complex (Demo Version) |  |
-| A4 | Random (Remastered 2009) |  |
-| A5 | M.E. (Demo Version) |  |
-| B1 | Conversation (Demo Version 2) |  |
-| B2 | Tracks (Demo Version) |  |
-| B3 | Cars (Demo Version 1) |  |
-| B4 | Metal (Demo Version) |  |
-| B5 | Airlane (Demo Version) |  |
-| C1 | Trois Gymnopédies No. 1 (Demo Version) |  |
-| C2 | Observer (Demo Version) |  |
-| C3 | Conversation (Demo Version 1) |  |
-| C4 | Engineers (Demo Version) |  |
-| C5 | Asylum (Remastered 2009) |  |
-| C6 | Oceans (Remastered 2009) |  |
-| C7  | Photograph (Remastered 2009) |  |
-| D1 | Airlane (BBC Peel Session) |  |
-| D2 | Cars (BBC Peel Session) |  |
-| D3 | Films (BBC Peel Session) |  |
-| D4 | Conversation (BBC Peel Session) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cars (Demo Version 2) |
+| A2 | Films (Demo Version) |
+| A3 | Complex (Demo Version) |
+| A4 | Random (Remastered 2009) |
+| A5 | M.E. (Demo Version) |
+| B1 | Conversation (Demo Version 2) |
+| B2 | Tracks (Demo Version) |
+| B3 | Cars (Demo Version 1) |
+| B4 | Metal (Demo Version) |
+| B5 | Airlane (Demo Version) |
+| C1 | Trois Gymnopédies No. 1 (Demo Version) |
+| C2 | Observer (Demo Version) |
+| C3 | Conversation (Demo Version 1) |
+| C4 | Engineers (Demo Version) |
+| C5 | Asylum (Remastered 2009) |
+| C6 | Oceans (Remastered 2009) |
+| C7  | Photograph (Remastered 2009) |
+| D1 | Airlane (BBC Peel Session) |
+| D2 | Cars (BBC Peel Session) |
+| D3 | Films (BBC Peel Session) |
+| D4 | Conversation (BBC Peel Session) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["New Wave", "Synth-pop"]
 | Format         | Vinyl 2× LP Compilation Stereo (Orange) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2158LP |
-| Notes | 40th Anniversary Edition.<br><br>Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks. <br><br>Orange vinyl. Cut out sleeve. <br><br>℗ & © 2019 Beggars Banquet, The Arkive.<br><br>Side One / Two / Three Recorded at Freerange Recording Studios London.<br>Side Four Recorded at BBC Maida Vale Studios London.<br><br> |
+| Notes | 40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.   |
 | Discogs URL    | [Gary Numan - The Pleasure Principle (The First Recordings)](https://www.discogs.com/release/14245498-Gary-Numan-The-Pleasure-Principle-The-First-Recordings) |

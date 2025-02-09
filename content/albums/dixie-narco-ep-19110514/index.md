@@ -30,12 +30,12 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Movin' On Up | 3:51 |
-| A2 | Stone My Soul | 3:02 |
-| A3 | Carry Me Home | 5:16 |
-| B | Screamadelica | 10:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Movin' On Up |
+| A2 | Stone My Soul |
+| A3 | Carry Me Home |
+| B | Screamadelica |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue |
 | Label          | Creation Records |
 | Catalog Number | 19439844431 |
-| Notes | Record Store Day 2021, Drop 1 release<br>Limited edition of 2.000 copies<br><br>The second of two hype stickers on the front reads:<br>"record store day<br>exclusive<br>180g red vinyl 4-track EP<br>first time on vinyl since<br>the original 1992 release<br><br>19439844431"<br><br>Contrary to the hype sticker, however, the vinyl is standard black, not red.<br><br>℗ 2011 © 2021 Creation Records.<br><br>Made in the EU. |
+| Notes | Record Store Day 2021, Drop 1 release Limited edition of 2.000 copies  The second of two hype stickers on the front reads: "record store day exclusive 180g red vinyl 4-track EP first time on vinyl since the original 1992 release  19439844431"  Contrary to the hype sticker, however, the vinyl is standard black, not red.  ℗ 2011 © 2021 Creation Records.  Made in the EU. |
 | Discogs URL    | [Primal Scream - Dixie-Narco EP](https://www.discogs.com/release/19110514-Primal-Scream-Dixie-Narco-EP) |

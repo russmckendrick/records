@@ -33,32 +33,32 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Overture | 3:50 |
-| A2 | It's A Boy | 2:07 |
-| A3 | 1921 | 2:49 |
-| A4 | Amazing Journey | 3:25 |
-| A5 | Sparks | 3:45 |
-| A6 | The Hawker | 2:15 |
-| B1 | Christmas | 4:34 |
-| B2 | Cousin Kevin | 4:06 |
-| B3 | The Acid Queen | 3:34 |
-| B4 | Underture | 10:01 |
-| C1 | Do You Think It's Alright? | 0:24 |
-| C2 | Fiddle About | 1:31 |
-| C3 | Pinball Wizard | 3:00 |
-| C4 | There's A Doctor | 0:23 |
-| C5 | Go To The Mirror! | 3:47 |
-| C6 | Tommy Can You Hear Me? | 1:35 |
-| C7 | Smash The Mirror | 1:34 |
-| C8 | Sensation | 2:26 |
-| D1 | Miracle Cure | 0:12 |
-| D2 | Sally Simpson | 4:10 |
-| D3 | I'm Free | 2:39 |
-| D4 | Welcome | 4:32 |
-| D5 | Tommy's Holiday Camp | 0:57 |
-| D6 | We're Not Gonna Take It | 7:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Overture |
+| A2 | It's A Boy |
+| A3 | 1921 |
+| A4 | Amazing Journey |
+| A5 | Sparks |
+| A6 | The Hawker |
+| B1 | Christmas |
+| B2 | Cousin Kevin |
+| B3 | The Acid Queen |
+| B4 | Underture |
+| C1 | Do You Think It's Alright? |
+| C2 | Fiddle About |
+| C3 | Pinball Wizard |
+| C4 | There's A Doctor |
+| C5 | Go To The Mirror! |
+| C6 | Tommy Can You Hear Me? |
+| C7 | Smash The Mirror |
+| C8 | Sensation |
+| D1 | Miracle Cure |
+| D2 | Sally Simpson |
+| D3 | I'm Free |
+| D4 | Welcome |
+| D5 | Tommy's Holiday Camp |
+| D6 | We're Not Gonna Take It |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | B0019527-01 |
-| Notes | Includes 12 page booklet containing lyrics and artwork.<br><br>Runouts are etched. |
+| Notes | Includes 12 page booklet containing lyrics and artwork.  Runouts are etched. |
 | Discogs URL    | [The Who - Tommy](https://www.discogs.com/release/5539661-The-Who-Tommy) |

@@ -37,20 +37,20 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Outside |  |
-| A1 | Disorder | 3:36 |
-| A2 | Day Of The Lords | 4:43 |
-| A3 | Candidate | 3:00 |
-| A4 | Insight | 4:00 |
-| A5 | New Dawn Fades | 4:47 |
-|  | Inside |  |
-| B1 | She’s Lost Control | 3:40 |
-| B2 | Shadowplay | 3:50 |
-| B3 | Wilderness | 2:35 |
-| B4 | Interzone | 2:10 |
-| B5 | I Remember Nothing | 6:00 |
+| Position | Title |
+|----------|--------|
+|  | Outside |
+| A1 | Disorder |
+| A2 | Day Of The Lords |
+| A3 | Candidate |
+| A4 | Insight |
+| A5 | New Dawn Fades |
+|  | Inside |
+| B1 | She’s Lost Control |
+| B2 | Shadowplay |
+| B3 | Wilderness |
+| B4 | Interzone |
+| B5 | I Remember Nothing |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red [Ruby Red], 180g) |
 | Label          | Factory |
 | Catalog Number | FACT 10 40 |
-| Notes | 30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.<br><br>[Labels]<br>℗ 2015 & ©  2019 Warner Records UK Ltd. <br><br>[Sticker (on shrink wrap)]<br>Joy Division Unknown Pleasures<br>40th anniversary limited edition of the classic debut album<br>Pressed on ruby red 180g heavyweight vinyl |
+| Notes | 30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.  [Labels] ℗ 2015 & ©  2019 Warner Records UK Ltd.   [Sticker (on shrink wrap)] Joy Division Unknown Pleasures 40th anniversary limited edition of the classic debut album Pressed on ruby red 180g heavyweight vinyl |
 | Discogs URL    | [Joy Division - Unknown Pleasures](https://www.discogs.com/release/13729623-Joy-Division-Unknown-Pleasures) |

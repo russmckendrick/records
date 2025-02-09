@@ -30,22 +30,22 @@ From the Beginning is the first compilation album by the English rock band Small
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Runaway |  |
-| A2 | My Mind's Eye |  |
-| A3 | Yesterday, Today And Tomorrow |  |
-| A4 | That Man |  |
-| A5 | My Way Of Giving |  |
-| A6 | Hey Girl |  |
-| A7 | Tell Me Have You Ever Seen Me |  |
-| B1 | Come Back And Take This Hurt Off Me |  |
-| B2 | All Or Nothing |  |
-| B3 | Baby Don't Do It |  |
-| B4 | Plum Nellie |  |
-| B5 | Sha La La La Lee |  |
-| B6 | You Really Got A Hold On Me |  |
-| B7 | What'cha Gonna Do About It |  |
+| Position | Title |
+|----------|--------|
+| A1 | Runaway |
+| A2 | My Mind's Eye |
+| A3 | Yesterday, Today And Tomorrow |
+| A4 | That Man |
+| A5 | My Way Of Giving |
+| A6 | Hey Girl |
+| A7 | Tell Me Have You Ever Seen Me |
+| B1 | Come Back And Take This Hurt Off Me |
+| B2 | All Or Nothing |
+| B3 | Baby Don't Do It |
+| B4 | Plum Nellie |
+| B5 | Sha La La La Lee |
+| B6 | You Really Got A Hold On Me |
+| B7 | What'cha Gonna Do About It |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ From the Beginning is the first compilation album by the English rock band Small
 | Format         | Vinyl LP Compilation Reissue Mono (180 Gram) |
 | Label          | Decca |
 | Catalog Number | 471 537-3 |
-| Notes | Includes a voucher to download an MP3 version of the album.<br>180 gram heavyweight vinyl.<br><br>© 1967, The Decca Record Company Limited, London.<br>℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd.<br>Made in the EU. |
+| Notes | Includes a voucher to download an MP3 version of the album. 180 gram heavyweight vinyl.  © 1967, The Decca Record Company Limited, London. ℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd. Made in the EU. |
 | Discogs URL    | [Small Faces - From The Beginning](https://www.discogs.com/release/7206931-Small-Faces-From-The-Beginning) |

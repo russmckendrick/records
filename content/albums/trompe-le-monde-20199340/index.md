@@ -33,23 +33,23 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trompe Le Monde |  |
-| A2 | Planet Of Sound |  |
-| A3 | Alec Eiffel |  |
-| A4 | The Sad Punk |  |
-| A5 | Head On |  |
-| A6 | U-Mass |  |
-| A7 | Palace Of The Brine |  |
-| A8 | Letter To Memphis |  |
-| B1 | Bird Dream Of The Olympus Mons |  |
-| B2 | Space (I Believe In) |  |
-| B3 | Subbacultcha |  |
-| B4 | Distance Equals Rate Times Time |  |
-| B5 | Lovely Day |  |
-| B6 | Motorway To Roswell |  |
-| B7 | The Navajo Know |  |
+| Position | Title |
+|----------|--------|
+| A1 | Trompe Le Monde |
+| A2 | Planet Of Sound |
+| A3 | Alec Eiffel |
+| A4 | The Sad Punk |
+| A5 | Head On |
+| A6 | U-Mass |
+| A7 | Palace Of The Brine |
+| A8 | Letter To Memphis |
+| B1 | Bird Dream Of The Olympus Mons |
+| B2 | Space (I Believe In) |
+| B3 | Subbacultcha |
+| B4 | Distance Equals Rate Times Time |
+| B5 | Lovely Day |
+| B6 | Motorway To Roswell |
+| B7 | The Navajo Know |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 | Format         | Vinyl LP Album Limited Edition Reissue (Green Marbled, GZ Media Pressing) |
 | Label          | 4AD |
 | Catalog Number | CAD 1014 LP |
-| Notes | 30th Anniversary Edition<br>Has "Made in Czech Republic" printed on the shrink wrap on the rear cover. <br>Includes a printed inner sleeve.<br><br>Recorded at Master Control, Burbank<br>Pacifique, Burbank<br>Studio Des Dames, Paris<br>Blackwing, London<br>Mixed at Master Rock, London<br><br>Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.<br><br>℗&© 1991 4.A.D. |
+| Notes | 30th Anniversary Edition Has "Made in Czech Republic" printed on the shrink wrap on the rear cover.  Includes a printed inner sleeve.  Recorded at Master Control, Burbank Pacifique, Burbank Studio Des Dames, Paris Blackwing, London Mixed at Master Rock, London  Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.  ℗&© 1991 4.A.D. |
 | Discogs URL    | [Pixies - Trompe Le Monde](https://www.discogs.com/release/20199340-Pixies-Trompe-Le-Monde) |

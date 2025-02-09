@@ -41,17 +41,17 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What We Was (Intro) | 1:55 |
-| A2 | You Can't Kill Me | 9:02 |
-| A3 | Rejoice! | 9:50 |
-| B1 | If Never I'm And Ever You | 2:39 |
-| B2 | Kapital | 4:21 |
-| B3 | Master Builder | 15:45 |
-| C1 | Forever Reoccurring | 22:40 |
-| D1 | My Sawtooth Wake | 12:43 |
-| D2 | Insert Yr Own Prophecy | 10:32 |
+| Position | Title |
+|----------|--------|
+| A1 | What We Was (Intro) |
+| A2 | You Can't Kill Me |
+| A3 | Rejoice! |
+| B1 | If Never I'm And Ever You |
+| B2 | Kapital |
+| B3 | Master Builder |
+| C1 | Forever Reoccurring |
+| D1 | My Sawtooth Wake |
+| D2 | Insert Yr Own Prophecy |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 | Format         | Vinyl 2× LP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1143 |
-| Notes | Comes with foldout sleeve and cardboard inner sleeves<br><br>Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi<br>[Hype sticker:]<br>"Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"<br><br>(C) 2022 Gong (P) 2022 Gongband.com<br> |
+| Notes | Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com  |
 | Discogs URL    | [Gong - Pulsing Signals](https://www.discogs.com/release/22602818-Gong-Pulsing-Signals) |

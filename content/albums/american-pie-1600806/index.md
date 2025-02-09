@@ -32,18 +32,18 @@ At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | American Pie | 8:27 |
-| A2 | Till Tomorrow | 2:11 |
-| A3 | Vincent | 3:55 |
-| A4 | Crossroads | 3:34 |
-| B1 | Winterwood | 3:09 |
-| B2 | Empty Chairs | 3:24 |
-| B3 | Everybody Loves Me, Baby | 3:37 |
-| B4 | Sister Fatima | 2:31 |
-| B5 | The Grave | 3:08 |
-| B6 | Babylon | 1:40 |
+| Position | Title |
+|----------|--------|
+| A1 | American Pie |
+| A2 | Till Tomorrow |
+| A3 | Vincent |
+| A4 | Crossroads |
+| B1 | Winterwood |
+| B2 | Empty Chairs |
+| B3 | Everybody Loves Me, Baby |
+| B4 | Sister Fatima |
+| B5 | The Grave |
+| B6 | Babylon |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.
 | Format         | Vinyl LP Album |
 | Label          | United Artists Records |
 | Catalog Number | UAS 29285 |
-| Notes | Made in the UK<br>Dedicated to Buddy Holly<br><br>Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55<br>Some initial copies comes with a small white/red sticker<br> |
+| Notes | Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker  |
 | Discogs URL    | [Don McLean - American Pie](https://www.discogs.com/release/1600806-Don-McLean-American-Pie) |

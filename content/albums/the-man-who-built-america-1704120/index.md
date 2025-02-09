@@ -30,18 +30,18 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loneliness | 4:17 |
-| A2 | Tonight (You're With Me) | 3:18 |
-| A3 | I'll Be Waiting | 6:23 |
-| A4 | If It Takes All Night | 3:32 |
-| A5 | Green Star Liner | 3:24 |
-| B1 | The Man Who Built America | 3:36 |
-| B2 | Homesick | 4:00 |
-| B3 | Long Weekend | 3:46 |
-| B4 | Letters From Home | 4:14 |
-| B5 | Long Time Ago | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Loneliness |
+| A2 | Tonight (You're With Me) |
+| A3 | I'll Be Waiting |
+| A4 | If It Takes All Night |
+| A5 | Green Star Liner |
+| B1 | The Man Who Built America |
+| B2 | Homesick |
+| B3 | Long Weekend |
+| B4 | Letters From Home |
+| B5 | Long Time Ago |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 | Format         | Vinyl LP Album |
 | Label          | DJM Records (2) |
 | Catalog Number | DJF 20546 |
-| Notes | Recorded and mixed at Advision, October 1978.<br><br>Laminated sleeve. Included printed inner sleeve.<br><br>Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y" |
+| Notes | Recorded and mixed at Advision, October 1978.  Laminated sleeve. Included printed inner sleeve.  Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y" |
 | Discogs URL    | [Horslips - The Man Who Built America](https://www.discogs.com/release/1704120-Horslips-The-Man-Who-Built-America) |

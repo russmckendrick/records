@@ -27,18 +27,18 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Comes Late | 4:48 |
-| A2 | Love Gathers | 4:28 |
-| A3 | Torched | 5:09 |
-| A4 | Please Stop Leaving Me Alone | 4:16 |
-| A5 | I Hold Your Heart | 5:07 |
-| B1 | Waltz No. 9 | 3:53 |
-| B2 | You Were Never In Love | 4:36 |
-| B3 | Locked Inside | 5:52 |
-| B4 | Why Don't You Kiss Me | 3:12 |
-| B5 | Mantra | 6:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Comes Late |
+| A2 | Love Gathers |
+| A3 | Torched |
+| A4 | Please Stop Leaving Me Alone |
+| A5 | I Hold Your Heart |
+| B1 | Waltz No. 9 |
+| B2 | You Were Never In Love |
+| B3 | Locked Inside |
+| B4 | Why Don't You Kiss Me |
+| B5 | Mantra |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Northern Writes |
 | Catalog Number | none |
-| Notes | Limited to 500 copies. <br>Comes with Mp3 download code card. |
+| Notes | Limited to 500 copies.  Comes with Mp3 download code card. |
 | Discogs URL    | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-2-One) |

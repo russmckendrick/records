@@ -26,97 +26,97 @@ The Complete DreamWorks Albums is a 2015 box set of seven albums from American i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Beautiful Freak |  |
-| A1 | Novocaine For The Soul |  |
-| A2 | Susan's House |  |
-| A3 | Rags To Rags |  |
-| A4 | Beautiful Freak |  |
-| A5 | Not Ready Yet |  |
-| A6 | My Beloved Monster |  |
-| B1 | Flower |  |
-| B2 | Guest List |  |
-| B3 | Mental |  |
-| B4 | Spunky |  |
-| B5 | Your Lucky Day In Hell |  |
-| B6 | Manchild |  |
-|  | Electro-Shock Blues |  |
-| C1 | Elizabeth On The Bathroom Floor | 2:10 |
-| C2 | Going To Your Funeral Part I | 2:37 |
-| C3 | Cancer For The Cure | 4:45 |
-| C4 | My Descent Into Madness | 3:54 |
-| D1 | 3 Speed | 2:45 |
-| D2 | Hospital Food | 3:23 |
-| D3 | Electro-Shock Blues | 2:29 |
-| D4 | Efils' God | 3:19 |
-| E1 | Going To Your Funeral Part II | 1:30 |
-| E2 | Last Stop: This Town | 3:27 |
-| E3 | Baby Genius | 2:03 |
-| E4 | Climbing To The Moon | 3:38 |
-| F1 | Ant Farm | 2:11 |
-| F2 | Dead Of Winter | 2:59 |
-| F3 | The Medication Is Wearing Off | 3:51 |
-| F4 | P.S. You Rock My World | 3:08 |
-|  | Daisies Of The Galaxy |  |
-| G1 | Grace Kelly Blues |  |
-| G2 | Packing Blankets |  |
-| G3 | The Sound Of Fear |  |
-| G4 | I Like Birds |  |
-| G5 | Daisies Of The Galaxy |  |
-| G6 | Flyswatter |  |
-| H7 | It's A Motherfucker |  |
-| H8 | Estate Sale |  |
-| H9 | Tiger In My Tank |  |
-| H10 | A Daisy Through Concrete |  |
-| H11 | Jeannie's Diary |  |
-| H12 | Wooden Nickels |  |
-| H13 | Something Is Sacred |  |
-| H14 | Selective Memory |  |
-| H15 | Untitled |  |
-|  | Souljacker |  |
-| I1 | Dog Faced Boy | 3:17 |
-| I2 | That's Not Really Funny | 3:19 |
-| I3 | Fresh Feeling | 3:37 |
-| I4 | Woman Driving, Man Sleeping | 3:30 |
-| I5 | Souljacker Part I | 3:15 |
-| I6 | Friendly Ghost | 3:22 |
-| J7 | Teenage Witch | 4:44 |
-| J8 | Bus Stop Boxer | 3:42 |
-| J9 | Jungle Telegraph | 3:39 |
-| J10 | World Of Shit | 3:29 |
-| J11 | Souljacker Part II | 1:58 |
-| J12 | What Is This Note? | 2:28 |
-|  | Shootenanny! |  |
-| K1 | All In A Day's Work |  |
-| K2 | Saturday Morning |  |
-| K3 | The Good Old Days |  |
-| K4 | Love Of The Loveless |  |
-| K5 | Dirty Girl |  |
-| K6 | Agony |  |
-| L1 | Rock Hard Times |  |
-| L2 | Restraining Order Blues |  |
-| L3 | Lone Wolf |  |
-| L4 | Wrong About Bobby |  |
-| L5 | Numbered Days |  |
-| L6 | Fashion Awards |  |
-| L7 | Somebody Loves You |  |
-|  | Electro-Shock Blues Show |  |
-| M1 | Cancer For The Cure |  |
-| M2 | Fingertips Part III |  |
-| M3 | Going To Your Funeral Part I |  |
-| M4 | Efil's God |  |
-| N1 | Souljacker Part I |  |
-| N2 | My Beloved Monster |  |
-| N3 | Novocaine For The Soul |  |
-| O1 | Not Ready Yet |  |
-| O2 | Last Stop: This Town |  |
-| O3 | Everything's Gonna Be Cool This Christmas |  |
-| P1 | Flower |  |
-| P2 | Dead Of Winter |  |
-| P3 | Electro-Shock Blues |  |
-| P4 | The Medication Is Wearing Off |  |
-| P5 | Climbing To The Moon |  |
+| Position | Title |
+|----------|--------|
+|  | Beautiful Freak |
+| A1 | Novocaine For The Soul |
+| A2 | Susan's House |
+| A3 | Rags To Rags |
+| A4 | Beautiful Freak |
+| A5 | Not Ready Yet |
+| A6 | My Beloved Monster |
+| B1 | Flower |
+| B2 | Guest List |
+| B3 | Mental |
+| B4 | Spunky |
+| B5 | Your Lucky Day In Hell |
+| B6 | Manchild |
+|  | Electro-Shock Blues |
+| C1 | Elizabeth On The Bathroom Floor |
+| C2 | Going To Your Funeral Part I |
+| C3 | Cancer For The Cure |
+| C4 | My Descent Into Madness |
+| D1 | 3 Speed |
+| D2 | Hospital Food |
+| D3 | Electro-Shock Blues |
+| D4 | Efils' God |
+| E1 | Going To Your Funeral Part II |
+| E2 | Last Stop: This Town |
+| E3 | Baby Genius |
+| E4 | Climbing To The Moon |
+| F1 | Ant Farm |
+| F2 | Dead Of Winter |
+| F3 | The Medication Is Wearing Off |
+| F4 | P.S. You Rock My World |
+|  | Daisies Of The Galaxy |
+| G1 | Grace Kelly Blues |
+| G2 | Packing Blankets |
+| G3 | The Sound Of Fear |
+| G4 | I Like Birds |
+| G5 | Daisies Of The Galaxy |
+| G6 | Flyswatter |
+| H7 | It's A Motherfucker |
+| H8 | Estate Sale |
+| H9 | Tiger In My Tank |
+| H10 | A Daisy Through Concrete |
+| H11 | Jeannie's Diary |
+| H12 | Wooden Nickels |
+| H13 | Something Is Sacred |
+| H14 | Selective Memory |
+| H15 | Untitled |
+|  | Souljacker |
+| I1 | Dog Faced Boy |
+| I2 | That's Not Really Funny |
+| I3 | Fresh Feeling |
+| I4 | Woman Driving, Man Sleeping |
+| I5 | Souljacker Part I |
+| I6 | Friendly Ghost |
+| J7 | Teenage Witch |
+| J8 | Bus Stop Boxer |
+| J9 | Jungle Telegraph |
+| J10 | World Of Shit |
+| J11 | Souljacker Part II |
+| J12 | What Is This Note? |
+|  | Shootenanny! |
+| K1 | All In A Day's Work |
+| K2 | Saturday Morning |
+| K3 | The Good Old Days |
+| K4 | Love Of The Loveless |
+| K5 | Dirty Girl |
+| K6 | Agony |
+| L1 | Rock Hard Times |
+| L2 | Restraining Order Blues |
+| L3 | Lone Wolf |
+| L4 | Wrong About Bobby |
+| L5 | Numbered Days |
+| L6 | Fashion Awards |
+| L7 | Somebody Loves You |
+|  | Electro-Shock Blues Show |
+| M1 | Cancer For The Cure |
+| M2 | Fingertips Part III |
+| M3 | Going To Your Funeral Part I |
+| M4 | Efil's God |
+| N1 | Souljacker Part I |
+| N2 | My Beloved Monster |
+| N3 | Novocaine For The Soul |
+| O1 | Not Ready Yet |
+| O2 | Last Stop: This Town |
+| O3 | Everything's Gonna Be Cool This Christmas |
+| P1 | Flower |
+| P2 | Dead Of Winter |
+| P3 | Electro-Shock Blues |
+| P4 | The Medication Is Wearing Off |
+| P5 | Climbing To The Moon |
 
 
 ## Apple Music
@@ -134,5 +134,5 @@ The Complete DreamWorks Albums is a 2015 box set of seven albums from American i
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Box Set Compilation Limited Edition |
 | Label          | Universal Music Group |
 | Catalog Number | 602547306623 |
-| Notes | "Daisies Of The Galaxy" and "Souljacker" have consecutively listed track positions.<br>Track H15 is not listed on the release.<br><br>M1-O3 Recorded somewhere in England, December 1998<br>P1. Gronigen, Holland, Sept. 30 1998<br>P2. Stockholm, Sweden, Oct. 5 1998<br>P3 & P4. Paris, France, Sept. 21 1998<br>P5. Indianapolis, Indiana, U.S.A., Oct. 29 1998<br><br>First 100 copies came with 6 art prints. |
+| Notes | "Daisies Of The Galaxy" and "Souljacker" have consecutively listed track positions. Track H15 is not listed on the release.  M1-O3 Recorded somewhere in England, December 1998 P1. Gronigen, Holland, Sept. 30 1998 P2. Stockholm, Sweden, Oct. 5 1998 P3 & P4. Paris, France, Sept. 21 1998 P5. Indianapolis, Indiana, U.S.A., Oct. 29 1998  First 100 copies came with 6 art prints. |
 | Discogs URL    | [Eels - The Complete Dreamworks Albums](https://www.discogs.com/release/7660802-Eels-The-Complete-Dreamworks-Albums) |

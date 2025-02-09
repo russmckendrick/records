@@ -37,18 +37,18 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sussudio | 4:23 |
-| A2 | Only You Know And I Know | 4:20 |
-| A3 | Long Long Way To Go | 4:20 |
-| A4 | I Don't Wanna Know | 4:12 |
-| A5 | One More Night | 4:47 |
-| B1 | Don't Lose My Number | 4:46 |
-| B2 | Who Said I Would | 4:01 |
-| B3 | Doesn't Anybody Stay Together Anymore | 4:18 |
-| B4 | Inside Out | 5:14 |
-| B5 | Take Me Home | 5:51 |
+| Position | Title |
+|----------|--------|
+| A1 | Sussudio |
+| A2 | Only You Know And I Know |
+| A3 | Long Long Way To Go |
+| A4 | I Don't Wanna Know |
+| A5 | One More Night |
+| B1 | Don't Lose My Number |
+| B2 | Who Said I Would |
+| B3 | Doesn't Anybody Stay Together Anymore |
+| B4 | Inside Out |
+| B5 | Take Me Home |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 | Format         | Vinyl LP Album Stereo (Black Labels) |
 | Label          | Virgin |
 | Catalog Number | V 2345 |
-| Notes | Recorded at the Townhouse, London and Old Croft, Surrey except strings, recorded at Air Studios, engineered by John Jacobs<br>Mixed at the Townhouse Digitally<br><br>Manufactured in the U.K<br><br>℗ & © 1985 Virgin Records Ltd.<br>-<br>Different to:<br>[r=3727910] - has black labels, cut at [l=The Town House].<br>[r=6165566] - has black labels with white print.<br>[r=4673198] - has orange labels with black print.<br>[r=6601740] - has a barcode.<br><br> |
+| Notes | Recorded at the Townhouse, London and Old Croft, Surrey except strings, recorded at Air Studios, engineered by John Jacobs Mixed at the Townhouse Digitally  Manufactured in the U.K  ℗ & © 1985 Virgin Records Ltd. - Different to: [r=3727910] - has black labels, cut at [l=The Town House]. [r=6165566] - has black labels with white print. [r=4673198] - has orange labels with black print. [r=6601740] - has a barcode.   |
 | Discogs URL    | [Phil Collins - No Jacket Required](https://www.discogs.com/release/665295-Phil-Collins-No-Jacket-Required) |

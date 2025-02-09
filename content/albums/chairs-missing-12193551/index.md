@@ -33,23 +33,23 @@ Although it features some of the minimalist punk rock of the band's debut Pink F
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Practice Makes Perfect | 4:06 |
-| A2 | French Film Blurred | 2:35 |
-| A3 | Another The Letter | 1:06 |
-| A4 | Men 2nd | 1:43 |
-| A5 | Marooned | 2:21 |
-| A6 | Sand In My Joints | 1:51 |
-| A7 | Being Sucked In Again | 3:12 |
-| A8 | Heartbeat | 3:15 |
-| B1 | Mercy | 5:46 |
-| B2 | Outdoor Miner | 1:45 |
-| B3 | I Am The Fly | 3:06 |
-| B4 | I Feel Mysterious Today | 1:56 |
-| B5 | From The Nursery | 3:00 |
-| B6 | Used To | 2:21 |
-| B7 | Too Late | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Practice Makes Perfect |
+| A2 | French Film Blurred |
+| A3 | Another The Letter |
+| A4 | Men 2nd |
+| A5 | Marooned |
+| A6 | Sand In My Joints |
+| A7 | Being Sucked In Again |
+| A8 | Heartbeat |
+| B1 | Mercy |
+| B2 | Outdoor Miner |
+| B3 | I Am The Fly |
+| B4 | I Feel Mysterious Today |
+| B5 | From The Nursery |
+| B6 | Used To |
+| B7 | Too Late |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Although it features some of the minimalist punk rock of the band's debut Pink F
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF12LP |
-| Notes | Manufactured under licence from The state51 Conspiracy.<br><br>℗ & © 2018 pinkflag<br><br>Not available on cassette<br><br>Printed inner sleeve with lyrics.<br><br>Labels read "Side One" on both sides, track listing is correct for each side however.<br><br>A similar version of [r=31405538] states "Available on cassette" and does not mention "Manufactured under licence from The state51 Conspiracy." |
+| Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however.  A similar version of [r=31405538] states "Available on cassette" and does not mention "Manufactured under licence from The state51 Conspiracy." |
 | Discogs URL    | [Wire - Chairs Missing](https://www.discogs.com/release/12193551-Wire-Chairs-Missing) |

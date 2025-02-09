@@ -33,15 +33,15 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I've Been Waitin' For Tomorrow (All Of My Life) |  |
-| A2 | This Is The Day |  |
-| A3 | The Sinking Feeling  |  |
-| A4 | Uncertain Smile |  |
-| B1 | The Twilight Hour |  |
-| B2 | Soul Mining  |  |
-| B3 | Giant |  |
+| Position | Title |
+|----------|--------|
+| A1 | I've Been Waitin' For Tomorrow (All Of My Life) |
+| A2 | This Is The Day |
+| A3 | The Sinking Feeling  |
+| A4 | Uncertain Smile |
+| B1 | The Twilight Hour |
+| B2 | Soul Mining  |
+| B3 | Giant |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Some Bizzare |
 | Catalog Number | 19658720241 |
-| Notes | Made in the EU.<br><br>Reissued on vinyl for National Album Day.<br>Used the 30th Anniversary boxset remaster.<br><br>Runouts are stamped, apart from ''Ⅰ'' on variant 2, which is etched. |
+| Notes | Made in the EU.  Reissued on vinyl for National Album Day. Used the 30th Anniversary boxset remaster.  Runouts are stamped, apart from ''Ⅰ'' on variant 2, which is etched. |
 | Discogs URL    | [The The - Soul Mining](https://www.discogs.com/release/24818426-The-The-Soul-Mining) |

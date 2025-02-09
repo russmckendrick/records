@@ -28,18 +28,18 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Am Ready |  |
-| A2 | I Wanna Be Your Man |  |
-| A3 | Better With You |  |
-| A4 | I'd Be Lost |  |
-| A5 | Maybe This Time |  |
-| B1 | Beyond |  |
-| B2 | Luxurious |  |
-| B3 | Only One |  |
-| B4 | Say What You Want |  |
-| B5 | Without |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Am Ready |
+| A2 | I Wanna Be Your Man |
+| A3 | Better With You |
+| A4 | I'd Be Lost |
+| A5 | Maybe This Time |
+| B1 | Beyond |
+| B2 | Luxurious |
+| B3 | Only One |
+| B4 | Say What You Want |
+| B5 | Without |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 | Format         | Vinyl LP Album |
 | Label          | Universal Music |
 | Catalog Number | 4755574 |
-| Notes | Single sleeve with printed inner sleeve containing lyrics and album credits.<br>Includes a download code.<br><br>℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd.<br>Manufactured and distributed by Universal Music Australia Pty Ltd<br><br>All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).<br><br>Produced & engineered at The Grove Studios. |
+| Notes | Single sleeve with printed inner sleeve containing lyrics and album credits. Includes a download code.  ℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd. Manufactured and distributed by Universal Music Australia Pty Ltd  All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).  Produced & engineered at The Grove Studios. |
 | Discogs URL    | [Sarah Blasko - Eternal Return](https://www.discogs.com/release/7904854-Sarah-Blasko-Eternal-Return) |

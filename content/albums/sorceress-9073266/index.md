@@ -44,21 +44,21 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Persephone |  |
-| A2 | Sorceress |  |
-| A3 | The Wilde Flowers |  |
-| A4 | Will O The Wisp |  |
-| B1 | Chrysalis |  |
-| B2 | Sorceress 2 |  |
-| B3 | The Seventh Sojourn |  |
-| C1 | Strange Brew |  |
-| C2 | A Fleeting Glance |  |
-| C3 | Era |  |
-| C4 | Persephone (Slight Return) |  |
-| D1 | The Ward |  |
-| D2 | Spring MCMLXXIV |  |
+| Position | Title |
+|----------|--------|
+| A1 | Persephone |
+| A2 | Sorceress |
+| A3 | The Wilde Flowers |
+| A4 | Will O The Wisp |
+| B1 | Chrysalis |
+| B2 | Sorceress 2 |
+| B3 | The Seventh Sojourn |
+| C1 | Strange Brew |
+| C2 | A Fleeting Glance |
+| C3 | Era |
+| C4 | Persephone (Slight Return) |
+| D1 | The Ward |
+| D2 | Spring MCMLXXIV |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 | Format         | Vinyl 2× LP Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 3822-1 |
-| Notes | Recorded at Rockfield Studios, Monmouthshire, Wales during 12 days of May, 2016<br>Strings recorded at RAK Studios, London<br>Additional recordings done at Junkmail Studios, Stockholm, Sweden and at Psalms Studios, Bath, UK<br><br>Engineered and mixed at Rockfield & Psalm Studios<br>Mastered at Metropolis Studios<br><br>Published by Kobalt Music Services Ltd., except "Strange Brew" published by Kobalt Music Services Ltd. / Copyright Control<br><br>℗ + © 2016 Moderbolaget Records<br><br>Gatefold sleeve with 2 inserts |
+| Notes | Recorded at Rockfield Studios, Monmouthshire, Wales during 12 days of May, 2016 Strings recorded at RAK Studios, London Additional recordings done at Junkmail Studios, Stockholm, Sweden and at Psalms Studios, Bath, UK  Engineered and mixed at Rockfield & Psalm Studios Mastered at Metropolis Studios  Published by Kobalt Music Services Ltd., except "Strange Brew" published by Kobalt Music Services Ltd. / Copyright Control  ℗ + © 2016 Moderbolaget Records  Gatefold sleeve with 2 inserts |
 | Discogs URL    | [Opeth - Sorceress](https://www.discogs.com/release/9073266-Opeth-Sorceress) |

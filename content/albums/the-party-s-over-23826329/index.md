@@ -39,17 +39,17 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Talk Talk |  |
-| A2 | It's So Serious |  |
-| A3 | Today |  |
-| A4 | The Party's Over |  |
-| B1 | Hate |  |
-| B2 | Have You Heard The News? |  |
-| B3 | Mirror Man |  |
-| B4 | Another Word |  |
-| B5 | Candy |  |
+| Position | Title |
+|----------|--------|
+| A1 | Talk Talk |
+| A2 | It's So Serious |
+| A3 | Today |
+| A4 | The Party's Over |
+| B1 | Hate |
+| B2 | Have You Heard The News? |
+| B3 | Mirror Man |
+| B4 | Another Word |
+| B5 | Candy |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 | Format         | Vinyl LP Album Reissue Repress (White, 40th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 0190296419638 |
-| Notes | Textured outer sleeve. Printed inner sleeve.<br>Circular sticker on shrink front: 40th Anniversary White Vinyl Edition 0190296419638<br>On spine: Talk Talk - The Party's Over - 0190295792626<br>On back cover : 0190295792626 Stereo<br>℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company.<br>Stickered barcode on shrink rear over printed barcode (without numbering) in right hand lower corner<br>Repress of the 2017 issue: [r=11009246]<br> |
+| Notes | Textured outer sleeve. Printed inner sleeve. Circular sticker on shrink front: 40th Anniversary White Vinyl Edition 0190296419638 On spine: Talk Talk - The Party's Over - 0190295792626 On back cover : 0190295792626 Stereo ℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Stickered barcode on shrink rear over printed barcode (without numbering) in right hand lower corner Repress of the 2017 issue: [r=11009246]  |
 | Discogs URL    | [Talk Talk - The Party's Over](https://www.discogs.com/release/23826329-Talk-Talk-The-Partys-Over) |

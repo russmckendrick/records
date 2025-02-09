@@ -35,16 +35,16 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Welcome |  |
-| A2 | Love Flows Over Us In Prismatic Waves |  |
-| A3 | Deep In The Glowing Heart |  |
-| B | Tayos Caves, Ecuador |  |
-| C1 | Ascending, Dawn Sky |  |
-| C2 | Arriving |  |
-| C3 | Sit Around The Fire |  |
-| D | Singing Bowl (Ascension) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Welcome |
+| A2 | Love Flows Over Us In Prismatic Waves |
+| A3 | Deep In The Glowing Heart |
+| B | Tayos Caves, Ecuador |
+| C1 | Ascending, Dawn Sky |
+| C2 | Arriving |
+| C3 | Sit Around The Fire |
+| D | Singing Bowl (Ascension) |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Domino |
 | Catalog Number | WIGLP458X |
-| Notes | WIGLP458X on hype sticker, WIGLP458 on spine.<br><br>Hype sticker:<br>LIMITED EDITION DOUBLE CLEAR VINYL<br>includes BONUS TRACK: SINGING BOWL (ASCENSION)<br>plus DOWNLOAD CODE<br>8 87828 04583 9<br>WIGLP458X<br><br>℗+© 2021/2022 Domino Recording Co. Ltd.<br>Made in the EU.<br><br>Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.<br><br>'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation |
+| Notes | WIGLP458X on hype sticker, WIGLP458 on spine.  Hype sticker: LIMITED EDITION DOUBLE CLEAR VINYL includes BONUS TRACK: SINGING BOWL (ASCENSION) plus DOWNLOAD CODE 8 87828 04583 9 WIGLP458X  ℗+© 2021/2022 Domino Recording Co. Ltd. Made in the EU.  Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.  'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation |
 | Discogs URL    | [Jon Hopkins - Music For Psychedelic Therapy](https://www.discogs.com/release/22482188-Jon-Hopkins-Music-For-Psychedelic-Therapy) |

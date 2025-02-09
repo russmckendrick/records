@@ -34,22 +34,22 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Flight Response | 5:55 |
-| A2 | The Real | 4:19 |
-| A3 | Enemy | 5:12 |
-| B1 | Weapon & The Wound | 5:45 |
-| B2 | Skeleton Key | 3:03 |
-| B3 | Take Me Back Then | 4:16 |
-| B4 | Bring Yourself | 5:55 |
-| C1 | I Think | 5:51 |
-| C2 | Longfellow | 1:56 |
-| C3 | Intro | 1:42 |
-| C4 | Phobics Of Tragedy | 3:27 |
-| D1 | Not The Same | 4:24 |
-| D2 | Provider | 5:53 |
-| D3 | Last One | 4:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Flight Response |
+| A2 | The Real |
+| A3 | Enemy |
+| B1 | Weapon & The Wound |
+| B2 | Skeleton Key |
+| B3 | Take Me Back Then |
+| B4 | Bring Yourself |
+| C1 | I Think |
+| C2 | Longfellow |
+| C3 | Intro |
+| C4 | Phobics Of Tragedy |
+| D1 | Not The Same |
+| D2 | Provider |
+| D3 | Last One |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3623 |
-| Notes | Includes insert with lyrics.<br>Available on vinyl for the first time.<br>Original release ℗ 1999 Outpost Recordings. This release ℗ & © 2024 Universal International Music B.V. |
+| Notes | Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 1999 Outpost Recordings. This release ℗ & © 2024 Universal International Music B.V. |
 | Discogs URL    | [Days Of The New - Days Of The New](https://www.discogs.com/release/29455765-Days-Of-The-New-Days-Of-The-New) |

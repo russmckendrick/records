@@ -33,19 +33,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turn On, Tune In, Pop Up! |  |
-| A2 | Jo's Got Papercuts |  |
-| A3 | Kidstrike! |  |
-| A4 | Ted Talks |  |
-| A5 | Truce |  |
-| B1 | 2020 WTF! |  |
-| B2 | If It Ain't Broke |  |
-| B3 | Big Boy |  |
-| B4 | Barry's On Safari (In His Safari Suit) |  |
-| B5 | #thoughtsandprayers |  |
-| B6 | You're Cancelled And We're Done |  |
+| Position | Title |
+|----------|--------|
+| A1 | Turn On, Tune In, Pop Up! |
+| A2 | Jo's Got Papercuts |
+| A3 | Kidstrike! |
+| A4 | Ted Talks |
+| A5 | Truce |
+| B1 | 2020 WTF! |
+| B2 | If It Ain't Broke |
+| B3 | Big Boy |
+| B4 | Barry's On Safari (In His Safari Suit) |
+| B5 | #thoughtsandprayers |
+| B6 | You're Cancelled And We're Done |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |
-| Notes | Gatefold sleeve.<br><br>2021 Jim Bob Calendar included |
+| Notes | Gatefold sleeve.  2021 Jim Bob Calendar included |
 | Discogs URL    | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-2-Pop-Up-Jim-Bob) |

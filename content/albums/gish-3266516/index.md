@@ -45,19 +45,19 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Am One |  |
-| A2 | Siva |  |
-| A3 | Rhinoceros |  |
-| A4 | Bury Me |  |
-| A5 | Crush |  |
-| B1 | Suffer |  |
-| B2 | Snail |  |
-| B3 | Tristessa |  |
-| B4 | Window Paine |  |
-| B5 | Daydream |  |
-| B6 | I'm Going Crazy |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Am One |
+| A2 | Siva |
+| A3 | Rhinoceros |
+| A4 | Bury Me |
+| A5 | Crush |
+| B1 | Suffer |
+| B2 | Snail |
+| B3 | Tristessa |
+| B4 | Window Paine |
+| B5 | Daydream |
+| B6 | I'm Going Crazy |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 5099990959615 |
-| Notes | Includes download code<br><br><br>[l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring. <br><br>Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.<br><br><br>℗ 2011 Virgin Records America, Inc.<br>© 2011 Virgin Records America, Inc.<br> |
+| Notes | Includes download code   [l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring.   Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.   ℗ 2011 Virgin Records America, Inc. © 2011 Virgin Records America, Inc.  |
 | Discogs URL    | [The Smashing Pumpkins - Gish](https://www.discogs.com/release/3266516-Smashing-Pumpkins-Gish) |

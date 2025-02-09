@@ -30,27 +30,27 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Sells Sanctuary | 4:12 |
-| A2 | Fire Woman | 5:07 |
-| A3 | Lil' Devil | 2:44 |
-| A4 | Spiritwalker | 3:11 |
-| A5 | The Witch | 4:17 |
-| B1 | Revolution | 4:16 |
-| B2 | Love Removal Machine | 4:17 |
-| B3 | Rain | 3:54 |
-| B4 | In The Clouds | 3:59 |
-| B5 | Coming Down (Drug Tongue) | 4:01 |
-| C1 | Edie (Ciao Baby) | 3:59 |
-| C2 | Heart Of Soul | 4:30 |
-| C3 | Wild Flower | 3:37 |
-| C4 | Star | 3:59 |
-| D1 | Resurrection Joe | 4:18 |
-| D2 | Go West | 3:56 |
-| D3 | Sun King | 4:56 |
-| D4 | Wild Hearted Son | 4:24 |
-| D5 | Sweet Soul Sister | 3:29 |
+| Position | Title |
+|----------|--------|
+| A1 | She Sells Sanctuary |
+| A2 | Fire Woman |
+| A3 | Lil' Devil |
+| A4 | Spiritwalker |
+| A5 | The Witch |
+| B1 | Revolution |
+| B2 | Love Removal Machine |
+| B3 | Rain |
+| B4 | In The Clouds |
+| B5 | Coming Down (Drug Tongue) |
+| C1 | Edie (Ciao Baby) |
+| C2 | Heart Of Soul |
+| C3 | Wild Flower |
+| C4 | Star |
+| D1 | Resurrection Joe |
+| D2 | Go West |
+| D3 | Sun King |
+| D4 | Wild Hearted Son |
+| D5 | Sweet Soul Sister |
 
 
 ## Apple Music

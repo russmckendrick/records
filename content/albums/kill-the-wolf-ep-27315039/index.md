@@ -27,12 +27,12 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Medicine | 3:06 |
-| A2 | An Electric Hero | 3:36 |
-| AA1 | On A High | 2:12 |
-| AA2 | Ukenwhistle | 3:51 |
+| Position | Title |
+|----------|--------|
+| A1 | Medicine |
+| A2 | An Electric Hero |
+| AA1 | On A High |
+| AA2 | Ukenwhistle |
 
 
 ## Apple Music
@@ -49,5 +49,5 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 7" 45 RPM Repress |
 | Label          | Acid Jazz |
 | Catalog Number | AJX337S |
-| Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album. <br><br>"All instruments played by Matt Berry (except whistle & recorder)" |
+| Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album.   "All instruments played by Matt Berry (except whistle & recorder)" |
 | Discogs URL    | [Matt Berry - Kill The Wolf EP](https://www.discogs.com/release/27315039-Matt-Berry-3-Kill-The-Wolf-EP) |

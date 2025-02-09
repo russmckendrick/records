@@ -31,20 +31,20 @@ The Band, also known as The Brown Album, is the second studio album by the Canad
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Across The Great Divide | 2:52 |
-| A2 | Rag Mama Rag | 3:02 |
-| A3 | The Night They Drove Old Dixie Down | 3:30 |
-| A4 | When You Awake | 3:10 |
-| A5  | Up On Cripple Creek | 4:29 |
-| A6 | Whispering Pines | 3:55 |
-| B1 | Jemima Surrender | 3:30 |
-| B2 | Rockin' Chair | 3:40 |
-| B3 | Look Out Cleveland | 3:07 |
-| B4 | Jawbone | 4:17 |
-| B5 | The Unfaithful Servant | 4:15 |
-| B6 | King Harvest (Has Surely Come) | 3:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Across The Great Divide |
+| A2 | Rag Mama Rag |
+| A3 | The Night They Drove Old Dixie Down |
+| A4 | When You Awake |
+| A5  | Up On Cripple Creek |
+| A6 | Whispering Pines |
+| B1 | Jemima Surrender |
+| B2 | Rockin' Chair |
+| B3 | Look Out Cleveland |
+| B4 | Jawbone |
+| B5 | The Unfaithful Servant |
+| B6 | King Harvest (Has Surely Come) |
 
 
 ## Apple Music

@@ -24,18 +24,18 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Memory Is A Weapon | 3:55 |
-| A2 | This Might Be Love | 3:51 |
-| A3 | BURMA | 3:42 |
-| A4 | The Innermost Light | 4:03 |
-| A5 | Maybe You | 4:10 |
-| B6 | Portobello Serenade | 5:50 |
-| B7 | Thin Red Lines | 3:30 |
-| B8 | Shelter | 3:48 |
-| B9 | Seasons Of You | 3:01 |
-| B10 | F**king In Joy And Sorrow | 5:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Memory Is A Weapon |
+| A2 | This Might Be Love |
+| A3 | BURMA |
+| A4 | The Innermost Light |
+| A5 | Maybe You |
+| B6 | Portobello Serenade |
+| B7 | Thin Red Lines |
+| B8 | Shelter |
+| B9 | Seasons Of You |
+| B10 | F**king In Joy And Sorrow |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Silent X Records |
 | Catalog Number | SNTX002LP |
-| Notes | Studios, What Studios? UK & Australia<br>Design & Artwork - Gower Preston - oicdesign.net<br>Photography - John Halfhide<br>Cover Image - Snyder & Cole - Courtesy of Chicago Tribune<br>Published by Blue Mountain Music<br><br>Signed copies offered as a pre-order through PledgeMusic |
+| Notes | Studios, What Studios? UK & Australia Design & Artwork - Gower Preston - oicdesign.net Photography - John Halfhide Cover Image - Snyder & Cole - Courtesy of Chicago Tribune Published by Blue Mountain Music  Signed copies offered as a pre-order through PledgeMusic |
 | Discogs URL    | [Cousteau - CousteauX](https://www.discogs.com/release/11442059-CousteauX-CousteauX) |

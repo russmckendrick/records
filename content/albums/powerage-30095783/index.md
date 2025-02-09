@@ -48,17 +48,17 @@ Bon Scott, Angus Young and Malcolm Young hit on a new level of songwriting matur
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rock'N'Roll Damnation |  |
-| A2 | Down Payment Blues |  |
-| A3 | Gimme A Bullet |  |
-| A4 | Riff Raff |  |
-| B1 | Sin City |  |
-| B2 | What's Next To The Moon |  |
-| B3 | Gone Shootin' |  |
-| B4 | Up To My Neck In You |  |
-| B5 | Kicked In The Teeth |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rock'N'Roll Damnation |
+| A2 | Down Payment Blues |
+| A3 | Gimme A Bullet |
+| A4 | Riff Raff |
+| B1 | Sin City |
+| B2 | What's Next To The Moon |
+| B3 | Gone Shootin' |
+| B4 | Up To My Neck In You |
+| B5 | Kicked In The Teeth |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Bon Scott, Angus Young and Malcolm Young hit on a new level of songwriting matur
 | Format         | Vinyl LP Album Reissue Remastered Special Edition Stereo (Gold, 180g, 50th Anniversary ) |
 | Label          | Columbia |
 | Catalog Number | 19658834601 |
-| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.<br>Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.<br>There are two hype stickers on the outer film on the front.<br><br>The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.<br>The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.<br><br>[Printed on rectangular hypsticker:]<br>50th Anniversary<br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels<br><br>[Printed on back cover:]<br>Remastered from the original master tapes by George Marino at Sterling Sound.<br>© 1978, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1978 J. Albert & Son (Pty.) Ltd., 1980, 1981, 1985, 1986 Leidseplein Presse B.V.<br>Made in the EU.<br><br>[Printed on inner sleeve:]<br>Originally released as [url=https://www.discogs.com/release/380978-ACDC-Powerage]Atlantic 19180[/url] on May 30, 1978.<br>Recorded at Albert Studios, Sydney, Australia February/March 1978.<br><br>[Printed on artwork:]<br>Reverse side photo by Michael Putland archive. 19658834601-11<br><br>[Printed on label side B:]<br>© 1978, 2024 J. Albert & Son (Pty.) Ltd.<br><br>[Printed on cover spine below:]<br>© 1978, 2003 J. Albert & Son (Pty.) Ltd.<br><br>Runouts are etched.<br>Pressing plant identified based on the runout areas.<br><br>A1 in the runout field = A₁ in the vinyl runout.<br>B1 in the runout field = B₁ in the vinyl runout.<br><br>[Additional information about the faintly inscribed geometric marks:]<br>In the runouts "A + A", "J I +",  "1 - +", "2 I T", "1 + +" and "2 l l" are mirrored. |
+| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on back cover:] Remastered from the original master tapes by George Marino at Sterling Sound. © 1978, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1978 J. Albert & Son (Pty.) Ltd., 1980, 1981, 1985, 1986 Leidseplein Presse B.V. Made in the EU.  [Printed on inner sleeve:] Originally released as [url=https://www.discogs.com/release/380978-ACDC-Powerage]Atlantic 19180[/url] on May 30, 1978. Recorded at Albert Studios, Sydney, Australia February/March 1978.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834601-11  [Printed on label side B:] © 1978, 2024 J. Albert & Son (Pty.) Ltd.  [Printed on cover spine below:] © 1978, 2003 J. Albert & Son (Pty.) Ltd.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "A + A", "J I +",  "1 - +", "2 I T", "1 + +" and "2 l l" are mirrored. |
 | Discogs URL    | [ACDC - Powerage](https://www.discogs.com/release/30095783-ACDC-Powerage) |

@@ -65,20 +65,20 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Dead Hearts | 3:29 |
-| B | Wasted Daylight | 3:43 |
-| C | I Died So I Could Haunt You | 3:04 |
-| D | Fixed | 3:26 |
-| E | We Don't Want Your Body | 3:25 |
-| F | He Dreams He's Awake | 4:04 |
-| G | Changes | 4:13 |
-| H | The Passenger | 4:17 |
-| I | The Last Song Ever Written | 3:17 |
-| J | How Much More | 2:56 |
-| K | Winter Bones | 3:00 |
-| L | Asleep | 2:43 |
+| Position | Title |
+|----------|--------|
+| A | Dead Hearts |
+| B | Wasted Daylight |
+| C | I Died So I Could Haunt You |
+| D | Fixed |
+| E | We Don't Want Your Body |
+| F | He Dreams He's Awake |
+| G | Changes |
+| H | The Passenger |
+| I | The Last Song Ever Written |
+| J | How Much More |
+| K | Winter Bones |
+| L | Asleep |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 | Format         | Vinyl 7" (Pink Translucent ), Vinyl 7" (Yellow Translucent ), Vinyl 7" (White Translucent ), Vinyl 7" (Pink Marbled Translucent ), Vinyl 7" (Clear Milky Translucent ), Vinyl 7" (Blue Light Translucent ), Box Set Album Limited Edition |
 | Label          | Soft Revolution Records |
 | Catalog Number | 003 Box Set |
-| Notes | Concept/design/assembly by The Cardboardbox Project in Montréal, QC.<br><br>Vinyl commissioned by Vagrant Records and pressed by Gotta Groove Records in Cleveland, OH.<br><br>Handcrafted wooden box set includes:<br><br>* 6 coloured 7" vinyl of all tracks on The Five Ghosts plus one bonus track, "Asleep"<br>* 13 photo inserts (7" x 7") of album artwork and lyrics<br>* 1 plastic download card for digital delivery of The Five Ghosts & The Séance E.P.<br><br>All digital tracks are High Quality MP3 files @ 320kbps<br><br>Box sets began shipping on July 13, 2010 from Montréal. |
+| Notes | Concept/design/assembly by The Cardboardbox Project in Montréal, QC.  Vinyl commissioned by Vagrant Records and pressed by Gotta Groove Records in Cleveland, OH.  Handcrafted wooden box set includes:  * 6 coloured 7" vinyl of all tracks on The Five Ghosts plus one bonus track, "Asleep" * 13 photo inserts (7" x 7") of album artwork and lyrics * 1 plastic download card for digital delivery of The Five Ghosts & The Séance E.P.  All digital tracks are High Quality MP3 files @ 320kbps  Box sets began shipping on July 13, 2010 from Montréal. |
 | Discogs URL    | [Stars - The Five Ghosts](https://www.discogs.com/release/2332240-Stars-The-Five-Ghosts) |

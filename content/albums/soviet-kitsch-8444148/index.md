@@ -35,23 +35,23 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ode To Divorce | 3:43 |
-| A2 | Poor Little Rich Boy | 2:25 |
-| A3 | Carbon Monoxide | 4:55 |
-| A4 | The Flowers | 3:52 |
-| A5 | Us | 4:50 |
-| B1 | Sailor Song | 3:15 |
-| B2 | * * * | 0:45 |
-| B3 | Your Honor | 2:09 |
-| B4 | Ghost Of Corporate Future | 3:19 |
-| B5 | Chemo Limo | 6:02 |
-| B6 | Somedays | 3:22 |
-|  | Bonus 7" |  |
-| C1 | Us (Video Edit) | 4:00 |
-| D1 | Scarecrow & Fungus | 2:29 |
-| D2 | December | 2:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Ode To Divorce |
+| A2 | Poor Little Rich Boy |
+| A3 | Carbon Monoxide |
+| A4 | The Flowers |
+| A5 | Us |
+| B1 | Sailor Song |
+| B2 | * * * |
+| B3 | Your Honor |
+| B4 | Ghost Of Corporate Future |
+| B5 | Chemo Limo |
+| B6 | Somedays |
+|  | Bonus 7" |
+| C1 | Us (Video Edit) |
+| D1 | Scarecrow & Fungus |
+| D2 | December |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Red), Vinyl 7" 45 RPM Single Limited Edition (Large Center Hole) |
 | Label          | Sire |
 | Catalog Number | 9362-49267-9 |
-| Notes | ℗ 2004, 2005 Sire Records for the US  and WEA International Inc.<br>© 2005 Sire Records for the US  and WEA International Inc.<br>Manufactured in E.U.<br>Comes with double-printed lyric sheet.<br><br>LP: © 2005 Sire Records ℗ 2004, 2005 Sire Records. Manufactured in The Netherlands.<br>7": © ℗ 2016 Sire Records. Manufactured in The Netherlands.<br>Has a large ("dinked") center hole<br><br>A Record Store Day 2016 release. Limited to 3,000 copies.<br> |
+| Notes | ℗ 2004, 2005 Sire Records for the US  and WEA International Inc. © 2005 Sire Records for the US  and WEA International Inc. Manufactured in E.U. Comes with double-printed lyric sheet.  LP: © 2005 Sire Records ℗ 2004, 2005 Sire Records. Manufactured in The Netherlands. 7": © ℗ 2016 Sire Records. Manufactured in The Netherlands. Has a large ("dinked") center hole  A Record Store Day 2016 release. Limited to 3,000 copies.  |
 | Discogs URL    | [Regina Spektor - Soviet Kitsch](https://www.discogs.com/release/8444148-Regina-Spektor-Soviet-Kitsch) |

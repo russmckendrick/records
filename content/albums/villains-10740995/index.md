@@ -46,17 +46,17 @@ The album received widely positive reviews and performed well commercially, topp
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feet Don't Fail Me |  |
-| A2 | The Way You Used To Do |  |
-| A3 | Domesticated Animals |  |
-| B4 | Fortress |  |
-| B5 | Head Like A Haunted House |  |
-| B6 | Un-Reborn Again |  |
-| C7 | Hideaway |  |
-| C8 | The Evil Has Landed |  |
-| C9 | Villains Of Circumstance |  |
+| Position | Title |
+|----------|--------|
+| A1 | Feet Don't Fail Me |
+| A2 | The Way You Used To Do |
+| A3 | Domesticated Animals |
+| B4 | Fortress |
+| B5 | Head Like A Haunted House |
+| B6 | Un-Reborn Again |
+| C7 | Hideaway |
+| C8 | The Evil Has Landed |
+| C9 | Villains Of Circumstance |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ The album received widely positive reviews and performed well commercially, topp
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Indie Edition) |
 | Label          | Matador |
 | Catalog Number | OLE-1125-8 |
-| Notes | Limited press of 7,000 units worldwide - exclusively released to Indie Record stores<br><br>This is the US pressing. <br>For the E.U. edition pressed by [l313190] see [r10756198]<br><br><br>Hype sticker text:<br>Limited Special Cover Art By Boneface<br>Includes Free Download Of The Entire Album On MP3 And FLAC<br><br>Packaged in a gatefold cover with printed inner sleeve and lyric insert.<br><br>OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records<br><br>Track numbering is sequential on the release.<br><br>Engineered [...] at United Recording Studios, Los Angeles, CA<br>Mixed [...] at Pink Duck Studios, Burbank, CA<br>Mastered by [...] of Lurssen Mastering, Burbank, CA<br><br>Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI)<br>Magic Bullet Music (ASCAP)<br>Sleeping Disorder Music (BMI)<br>Dr. Shoes (BMI)<br><br>Pressing plant and lacquer cut by credit derived from matrix info. |
+| Notes | Limited press of 7,000 units worldwide - exclusively released to Indie Record stores  This is the US pressing.  For the E.U. edition pressed by [l313190] see [r10756198]   Hype sticker text: Limited Special Cover Art By Boneface Includes Free Download Of The Entire Album On MP3 And FLAC  Packaged in a gatefold cover with printed inner sleeve and lyric insert.  OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records  Track numbering is sequential on the release.  Engineered [...] at United Recording Studios, Los Angeles, CA Mixed [...] at Pink Duck Studios, Burbank, CA Mastered by [...] of Lurssen Mastering, Burbank, CA  Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI) Magic Bullet Music (ASCAP) Sleeping Disorder Music (BMI) Dr. Shoes (BMI)  Pressing plant and lacquer cut by credit derived from matrix info. |
 | Discogs URL    | [Queens Of The Stone Age - Villains](https://www.discogs.com/release/10740995-Queens-Of-The-Stone-Age-Villains) |

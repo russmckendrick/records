@@ -39,18 +39,18 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Anger! | 4:12 |
-| A2 | Ritual | 3:34 |
-| A3 | Take 'em Out | 2:40 |
-| A4 | Prostitutionalized | 3:13 |
-| A5 | Downset | 3:02 |
-| B1 | My American Prayer | 5:26 |
-| B2 | Holding Hands | 3:16 |
-| B3 | About To Blast | 2:56 |
-| B4 | Breed The Killer | 2:51 |
-| B5 | Dying Of Thirst | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Anger! |
+| A2 | Ritual |
+| A3 | Take 'em Out |
+| A4 | Prostitutionalized |
+| A5 | Downset |
+| B1 | My American Prayer |
+| B2 | Holding Hands |
+| B3 | About To Blast |
+| B4 | Breed The Killer |
+| B5 | Dying Of Thirst |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1883 |
-| Notes | - 180 gram audiophile vinyl<br>- Includes 4 page 12X12" insert with song lyrics & credits<br>- Limited edition of 1.000 numbered copies on blue vinyl |
+| Notes | - 180 gram audiophile vinyl - Includes 4 page 12X12" insert with song lyrics & credits - Limited edition of 1.000 numbered copies on blue vinyl |
 | Discogs URL    | [Downset - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |

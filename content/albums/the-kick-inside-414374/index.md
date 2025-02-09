@@ -36,21 +36,21 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Moving | 3:00 |
-| A2 | The Saxophone Song | 3:48 |
-| A3 | Strange Phenomena | 2:52 |
-| A4 | Kite | 2:55 |
-| A5 | The Man With The Child In His Eyes | 2:38 |
-| A6 | Wuthering Heights | 4:25 |
-| B1 | James And The Cold Gun | 3:32 |
-| B2 | Feel It | 2:56 |
-| B3 | Oh To Be In Love | 3:16 |
-| B4 | L'Amour Looks Something Like You | 2:24 |
-| B5 | Them Heavy People | 3:02 |
-| B6 | Room For The Life | 4:01 |
-| B7 | The Kick Inside | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Moving |
+| A2 | The Saxophone Song |
+| A3 | Strange Phenomena |
+| A4 | Kite |
+| A5 | The Man With The Child In His Eyes |
+| A6 | Wuthering Heights |
+| B1 | James And The Cold Gun |
+| B2 | Feel It |
+| B3 | Oh To Be In Love |
+| B4 | L'Amour Looks Something Like You |
+| B5 | Them Heavy People |
+| B6 | Room For The Life |
+| B7 | The Kick Inside |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3223 |
-| Notes | Fully laminated sleeve.<br>Tan labels with red EMI logo.<br>First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.<br><br>Recorded at AIR London Studios: July/August 1977<br>A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]<br><br>All songs published by EMI/Kate Bush © 1978<br>℗ 1978 EMI Records Ltd.<br>Made in Gt. Britain<br><br>Durations do not appear on this release. (Taken per stop watch.)<br><br>Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |
+| Notes | Fully laminated sleeve. Tan labels with red EMI logo. First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.  Recorded at AIR London Studios: July/August 1977 A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]  All songs published by EMI/Kate Bush © 1978 ℗ 1978 EMI Records Ltd. Made in Gt. Britain  Durations do not appear on this release. (Taken per stop watch.)  Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |
 | Discogs URL    | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374-Kate-Bush-The-Kick-Inside) |

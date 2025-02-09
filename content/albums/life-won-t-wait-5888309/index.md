@@ -27,30 +27,30 @@ Life Won't Wait is the fourth studio album by the American punk rock band Rancid
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 0:48 |
-| A2 | Bloodclot | 2:45 |
-| A3 | Hoover Street | 4:09 |
-| A4 | Black Lung | 1:53 |
-| A5 | Life Won't Wait | 3:48 |
-| B1 | New Dress | 2:51 |
-| B2 | Warsaw | 1:31 |
-| B3 | Hooligans | 2:32 |
-| B4 | Crane Fist | 3:48 |
-| B5 | Leicester Square | 2:34 |
-| B6 | Backslide | 2:53 |
-| C1 | Who Would've Thought | 2:56 |
-| C2 | Cash, Culture And Violence | 3:10 |
-| C3 | Cocktails | 3:20 |
-| C4 | The Wolf | 2:38 |
-| C5 | 1998 | 2:45 |
-| C6 | Lady Liberty | 2:20 |
-| D1 | Wrongful Suspicion | 3:31 |
-| D2 | Turntable | 2:16 |
-| D3 | Something In The World Today | 2:33 |
-| D4 | Corazon De Oro | 3:58 |
-| D5 | Coppers | 5:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Bloodclot |
+| A3 | Hoover Street |
+| A4 | Black Lung |
+| A5 | Life Won't Wait |
+| B1 | New Dress |
+| B2 | Warsaw |
+| B3 | Hooligans |
+| B4 | Crane Fist |
+| B5 | Leicester Square |
+| B6 | Backslide |
+| C1 | Who Would've Thought |
+| C2 | Cash, Culture And Violence |
+| C3 | Cocktails |
+| C4 | The Wolf |
+| C5 | 1998 |
+| C6 | Lady Liberty |
+| D1 | Wrongful Suspicion |
+| D2 | Turntable |
+| D3 | Something In The World Today |
+| D4 | Corazon De Oro |
+| D5 | Coppers |
 
 
 ## Apple Music

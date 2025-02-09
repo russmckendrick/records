@@ -24,18 +24,18 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Already Yours |  |
-| A2 | Horror Head |  |
-| A3 | Wish You Dead |  |
-| A4 | Doppelgänger |  |
-| A5 | Lillies Dying |  |
-| B1 | Ice That Melts The Tips |  |
-| B2 | Split Into Fractions |  |
-| B3 | Think And Act |  |
-| B4 | Fait Accompli |  |
-| B5 | Sandpit |  |
+| Position | Title |
+|----------|--------|
+| A1 | Already Yours |
+| A2 | Horror Head |
+| A3 | Wish You Dead |
+| A4 | Doppelgänger |
+| A5 | Lillies Dying |
+| B1 | Ice That Melts The Tips |
+| B2 | Split Into Fractions |
+| B3 | Think And Act |
+| B4 | Fait Accompli |
+| B5 | Sandpit |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |
-| Notes | 25th Anniversary Edition<br>Comes with download card from 3 Loop Music. <br><br>Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
+| Notes | 25th Anniversary Edition Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
 | Discogs URL    | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelgänger) |

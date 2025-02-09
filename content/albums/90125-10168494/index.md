@@ -32,17 +32,17 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Owner Of A Lonely Heart | 4:27 |
-| A2 | Hold On | 5:15 |
-| A3 | It Can Happen | 5:39 |
-| A4 | Changes | 6:16 |
-| B1 | Cinema | 2:09 |
-| B2 | Leave It | 4:10 |
-| B3 | Our Song | 4:16 |
-| B4 | City Of Love | 4:48 |
-| B5 | Hearts | 7:34 |
+| Position | Title |
+|----------|--------|
+| A1 | Owner Of A Lonely Heart |
+| A2 | Hold On |
+| A3 | It Can Happen |
+| A4 | Changes |
+| B1 | Cinema |
+| B2 | Leave It |
+| B3 | Our Song |
+| B4 | City Of Love |
+| B5 | Hearts |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered |
 | Label          | Atlantic Recording Corporation |
 | Catalog Number | R1 90125 |
-| Notes | Record Store Day 2017 Release<br><br>Sticker on front:<br><br>"LIMITED EDITION OF 5000<br>For the first time ever as a picture disc<br><br>featuring the hit "Owner Of a Lonely Heart"<br><br>Taken from the 2014 HD Remasters" |
+| Notes | Record Store Day 2017 Release  Sticker on front:  "LIMITED EDITION OF 5000 For the first time ever as a picture disc  featuring the hit "Owner Of a Lonely Heart"  Taken from the 2014 HD Remasters" |
 | Discogs URL    | [Yes - 90125](https://www.discogs.com/release/10168494-Yes-90125) |

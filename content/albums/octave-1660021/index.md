@@ -32,18 +32,18 @@ Octave is the ninth album by the Moody Blues (the eighth by this particular line
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Steppin' In A Slide Zone | 5:28 |
-| A2 | Under Moonshine | 5:00 |
-| A3 | Had To Fall In Love | 3:38 |
-| A4 | I'll Be Level With You | 3:47 |
-| A5 | Driftwood | 5:02 |
-| B1 | Top Rank Suite | 3:40 |
-| B2 | I'm Your Man | 4:20 |
-| B3 | Survival | 4:09 |
-| B4 | One Step Into The Light | 4:28 |
-| B5 | The Day We Meet Again | 6:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Steppin' In A Slide Zone |
+| A2 | Under Moonshine |
+| A3 | Had To Fall In Love |
+| A4 | I'll Be Level With You |
+| A5 | Driftwood |
+| B1 | Top Rank Suite |
+| B2 | I'm Your Man |
+| B3 | Survival |
+| B4 | One Step Into The Light |
+| B5 | The Day We Meet Again |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Octave is the ninth album by the Moody Blues (the eighth by this particular line
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Decca |
 | Catalog Number | TXS 129 |
-| Notes | Gatefold sleeve. <br>Track lengths only printed on sleeve<br> |
+| Notes | Gatefold sleeve.   Track lengths only printed on sleeve  |
 | Discogs URL    | [The Moody Blues - Octave](https://www.discogs.com/release/1660021-The-Moody-Blues-Octave) |

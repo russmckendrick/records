@@ -31,18 +31,18 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Man Don't Give A Fuck |  |
-| A2 | Dim Bendith |  |
-| A3 | Arnofio / Glô In The Dark  |  |
-| A4 | Don't Be A Fool Billy! |  |
-| B1 | Guacamole  |  |
-| B2 | Death By Melody |  |
-| B3 | Lazy Life (Of No Fixed Identity) |  |
-| B4 | Waiting To Happen |  |
-| B5 | (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith |  |
-| B6 | Something For The Weekend |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Man Don't Give A Fuck |
+| A2 | Dim Bendith |
+| A3 | Arnofio / Glô In The Dark  |
+| A4 | Don't Be A Fool Billy! |
+| B1 | Guacamole  |
+| B2 | Death By Melody |
+| B3 | Lazy Life (Of No Fixed Identity) |
+| B4 | Waiting To Happen |
+| B5 | (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith |
+| B6 | Something For The Weekend |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Stereo (Green Bottle) |
 | Label          | BMG |
 | Catalog Number | BMGCAT870LP |
-| Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.<br><br>Manufactured in Germany<br><br>1500 copies. |
+| Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.  Manufactured in Germany  1500 copies. |
 | Discogs URL    | [Super Furry Animals - Fuzzy Logic B-Sides And Besides](https://www.discogs.com/release/30451196-Super-Furry-Animals-Fuzzy-Logic-B-Sides-And-Besides) |

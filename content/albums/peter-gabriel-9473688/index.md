@@ -37,17 +37,17 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Moribund The Burgermeister |  |
-| A2 | Solsbury Hill |  |
-| A3 | Modern Love |  |
-| A4 | Excuse Me |  |
-| A5 | Humdrum |  |
-| B1 | Slowburn |  |
-| B2 | Waiting For The Big One |  |
-| B3 | Down The Dolce Vita |  |
-| B4 | Here Comes The Flood |  |
+| Position | Title |
+|----------|--------|
+| A1 | Moribund The Burgermeister |
+| A2 | Solsbury Hill |
+| A3 | Modern Love |
+| A4 | Excuse Me |
+| A5 | Humdrum |
+| B1 | Slowburn |
+| B2 | Waiting For The Big One |
+| B3 | Down The Dolce Vita |
+| B4 | Here Comes The Flood |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR1 |
-| Notes | Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.<br><br>'14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched. |
+| Notes | Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.  '14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473688-Peter-Gabriel-Peter-Gabriel) |

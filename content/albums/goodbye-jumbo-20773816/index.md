@@ -31,20 +31,20 @@ The album received generally positive reviews from critics and peaked at No. 73 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Is It Too Late? | 4:24 |
-| A2 | Way Down Now | 3:49 |
-| A3 | When The Rainbow Comes | 4:58 |
-| A4 | Put The Message In The Box | 4:16 |
-| A5 | Ain't Gonna Come Till I'm Ready | 5:05 |
-| A6 | And I Fell Back Alone | 3:57 |
-| B1 | Take It Up | 4:37 |
-| B2 | God On My Side | 4:14 |
-| B3 | Show Me To The Top | 5:15 |
-| B4 | Love Street | 4:21 |
-| B5 | Sweet Soul Dream | 4:39 |
-| B6 | Thank You World | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Is It Too Late? |
+| A2 | Way Down Now |
+| A3 | When The Rainbow Comes |
+| A4 | Put The Message In The Box |
+| A5 | Ain't Gonna Come Till I'm Ready |
+| A6 | And I Fell Back Alone |
+| B1 | Take It Up |
+| B2 | God On My Side |
+| B3 | Show Me To The Top |
+| B4 | Love Street |
+| B5 | Sweet Soul Dream |
+| B6 | Thank You World |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album received generally positive reviews from critics and peaked at No. 73 
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Seaview Records |
 | Catalog Number | seaview 2LP |
-| Notes | Recorded At Seaview Studios, <br>The Old Rectory, Bedfordshire, England And Seaview Studios, London, England<br><br>Printed Inner Sleeve<br>Digitally edited, mastered and remastered by Tim Young |
+| Notes | Recorded At Seaview Studios,  The Old Rectory, Bedfordshire, England And Seaview Studios, London, England  Printed Inner Sleeve Digitally edited, mastered and remastered by Tim Young |
 | Discogs URL    | [World Party - Goodbye Jumbo](https://www.discogs.com/release/20773816-World-Party-Goodbye-Jumbo) |

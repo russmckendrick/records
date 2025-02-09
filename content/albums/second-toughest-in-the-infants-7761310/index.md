@@ -37,16 +37,16 @@ The album was remastered and re-released on 20 November 2015 with deluxe and sup
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Juanita : Kiteless : To Dream Of Love | 16:36 |
-| B1 | Banstyle / Sappys Curry | 15:22 |
-| B2 | Confusion The Waitress | 6:47 |
-| C1 | Rowla | 6:31 |
-| C2 | Pearls Girl | 9:36 |
-| D1 | Air Towel | 7:37 |
-| D2 | Blueski | 2:55 |
-| D3 | Stagger | 7:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Juanita : Kiteless : To Dream Of Love |
+| B1 | Banstyle / Sappys Curry |
+| B2 | Confusion The Waitress |
+| C1 | Rowla |
+| C2 | Pearls Girl |
+| D1 | Air Towel |
+| D2 | Blueski |
+| D3 | Stagger |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was remastered and re-released on 20 November 2015 with deluxe and sup
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Universal Music Catalogue |
 | Catalog Number | uwr00054 |
-| Notes | ℗ + © 2015 Smith Hyde Productions, under exclusive license to Universal Music Operations, Ltd. <br><br>Rick Smith & Karl Hyde are published by Mute Song Ltd. for the world excluding the USA, Canada and Mexico and by Music Of Big Deal (BMI) for USA, Canada and Mexico; Darren Emerson is published by Mute Song Ltd for the world excluding USA & Canada and Kobalt for USA & Canada. <br><br>Made in the EU.<br><br>Remastered at Abbey Road Studios by Miles Showell cut at half speed. 180 gram vinyl.<br><br>Includes printed inner sleeves.<br><br>Steven Hall for Junior Boys Own |
+| Notes | ℗ + © 2015 Smith Hyde Productions, under exclusive license to Universal Music Operations, Ltd.   Rick Smith & Karl Hyde are published by Mute Song Ltd. for the world excluding the USA, Canada and Mexico and by Music Of Big Deal (BMI) for USA, Canada and Mexico; Darren Emerson is published by Mute Song Ltd for the world excluding USA & Canada and Kobalt for USA & Canada.   Made in the EU.  Remastered at Abbey Road Studios by Miles Showell cut at half speed. 180 gram vinyl.  Includes printed inner sleeves.  Steven Hall for Junior Boys Own |
 | Discogs URL    | [Underworld - Second Toughest In The Infants](https://www.discogs.com/release/7761310-Underworld-Second-Toughest-In-The-Infants) |

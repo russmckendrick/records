@@ -33,18 +33,18 @@ Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and ba
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mysteries |  |
-| A2 | Tom The Model |  |
-| A3 | Show |  |
-| A4 | Romance |  |
-| A5 | Sand River |  |
-| B1 | Spider Monkey |  |
-| B2 | Resolve |  |
-| B3 | Drake |  |
-| B4 | Funny Time Of Year |  |
-| B5 | Rustin Man |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mysteries |
+| A2 | Tom The Model |
+| A3 | Show |
+| A4 | Romance |
+| A5 | Sand River |
+| B1 | Spider Monkey |
+| B2 | Resolve |
+| B3 | Drake |
+| B4 | Funny Time Of Year |
+| B5 | Rustin Man |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and ba
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Go! Beat |
 | Catalog Number | 0602567891543 |
-| Notes | Heavyweight vinyl.<br>Printed inner sleeve with pictures, lyrics and extensive credits.<br><br>Some copies include:<br>Includes download card.<br>Hype sticker on shrink wrap.<br><br>Catalogue numbers:<br>0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels.<br>678 915-4 is listed on the hype sticker.<br><br>Mastered [...] at The Townwnhouse<br><br>Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.<br><br>An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited.<br>Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.<br><br>Mysteries: Recorded at The Barn, Devon & Sanctuary Westside.<br>Tom The Model: Recorded at Sanctuary Westside & Konk Studios.<br>Show: Recorded at Sanctuary Westside & Konk Studios.<br>Romance: Recorded at Sanctuary Westside & Konk Studios.<br>Sand River: Recorded at Sanctuary Westside & Konk Studios.<br>Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside.<br>Resolve: Mix recorded at Sanctuary Westside.<br>Drake: Recorded at Sanctuary Westside & Konk Studios.<br>Funny Time Of Year: Recorded at Sanctuary Westside.<br>Rustin Man: Mix recorded at Sanctuary Westside. |
+| Notes | Heavyweight vinyl. Printed inner sleeve with pictures, lyrics and extensive credits.  Some copies include: Includes download card. Hype sticker on shrink wrap.  Catalogue numbers: 0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels. 678 915-4 is listed on the hype sticker.  Mastered [...] at The Townwnhouse  Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.  An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited. Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.  Mysteries: Recorded at The Barn, Devon & Sanctuary Westside. Tom The Model: Recorded at Sanctuary Westside & Konk Studios. Show: Recorded at Sanctuary Westside & Konk Studios. Romance: Recorded at Sanctuary Westside & Konk Studios. Sand River: Recorded at Sanctuary Westside & Konk Studios. Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside. Resolve: Mix recorded at Sanctuary Westside. Drake: Recorded at Sanctuary Westside & Konk Studios. Funny Time Of Year: Recorded at Sanctuary Westside. Rustin Man: Mix recorded at Sanctuary Westside. |
 | Discogs URL    | [Beth Gibbons - Out Of Season](https://www.discogs.com/release/14252668-Beth-Gibbons-Rustin-Man-Out-Of-Season) |

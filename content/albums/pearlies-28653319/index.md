@@ -28,18 +28,18 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Was Miles Away |  |
-| A2 | Bend The Round |  |
-| A3 | Inter Light |  |
-| A4 | Taste The Air |  |
-| A5 | Xanthe |  |
-| B1 | The Presence |  |
-| B2 | Willow And Mallow |  |
-| B3 | Tonight Is Mine |  |
-| B4 | For A Moment |  |
-| B5 | Clusters |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Was Miles Away |
+| A2 | Bend The Round |
+| A3 | Inter Light |
+| A4 | Taste The Air |
+| A5 | Xanthe |
+| B1 | The Presence |
+| B2 | Willow And Mallow |
+| B3 | Tonight Is Mine |
+| B4 | For A Moment |
+| B5 | Clusters |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 | Format         | Vinyl LP Album Limited Edition (Blue Pearl) |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR250LPB |
-| Notes | Rough Trade exlusive, limited to 500 copies.<br>Including signed postcard.<br><br>℗ & © 2023 Emma Anderson under exclusive licence to Sonic Catherdral<br>Manufactured in CZ<br> |
+| Notes | Rough Trade exlusive, limited to 500 copies. Including signed postcard.  ℗ & © 2023 Emma Anderson under exclusive licence to Sonic Catherdral Manufactured in CZ  |
 | Discogs URL    | [Emma Anderson - Pearlies](https://www.discogs.com/release/28653319-Emma-Anderson-Pearlies) |

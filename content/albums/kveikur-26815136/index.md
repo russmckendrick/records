@@ -33,17 +33,17 @@ Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Brennisteinn |  |
-| A2 | Hrafntinna |  |
-| B1 | Ísjaki |  |
-| B2 | Yfirborð |  |
-| C1 | Stormur |  |
-| C2 | Kveikur |  |
-| D1 | Rafstraumur |  |
-| D2 | Bláþráður |  |
-| D3 | Var |  |
+| Position | Title |
+|----------|--------|
+| A1 | Brennisteinn |
+| A2 | Hrafntinna |
+| B1 | Ísjaki |
+| B2 | Yfirborð |
+| C1 | Stormur |
+| C2 | Kveikur |
+| D1 | Rafstraumur |
+| D2 | Bláþráður |
+| D3 | Var |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio albu
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Yellow [Sulphuric Yellow], 10th Anniversary Edition) |
 | Label          | Krúnk |
 | Catalog Number | KRUNK77CLPY |
-| Notes | ℗ 2013 The copyright in this sound recording is owned by Sigur Rós, under exclusive license to Krunk. © 2023 Krunk.<br><br>Includes limited silk screen print on 350gsm art card by Sigga Björg Sigurðardóttir.<br>Pressed in a total number of 1350 ex on sulphuric coloured vinyl. <br><br>Circular hype sticker reads:<br>"10th Anniversary Edition<br>Record Store Day<br>Sulphuric Yellow<br>Heavyweight<br>Vinyl<br>Includes limited silk screen print on 350 gsm art card"<br><br>Additional information:<br>• Front cover image [...] by kind permission of the Lydia Clarke Foundation.<br>Mixing credit:<br>• Assisted by Elisabeth Carlsson (Sundlaugin, Álafoss)<br>• Assisted by Chris Kasych & Eric Isip (Eldorado, Los Angeles)<br>• Assisted by Laura Sisk (Pacifique, North Hollywood)<br> |
+| Notes | ℗ 2013 The copyright in this sound recording is owned by Sigur Rós, under exclusive license to Krunk. © 2023 Krunk.  Includes limited silk screen print on 350gsm art card by Sigga Björg Sigurðardóttir. Pressed in a total number of 1350 ex on sulphuric coloured vinyl.   Circular hype sticker reads: "10th Anniversary Edition Record Store Day Sulphuric Yellow Heavyweight Vinyl Includes limited silk screen print on 350 gsm art card"  Additional information: • Front cover image [...] by kind permission of the Lydia Clarke Foundation. Mixing credit: • Assisted by Elisabeth Carlsson (Sundlaugin, Álafoss) • Assisted by Chris Kasych & Eric Isip (Eldorado, Los Angeles) • Assisted by Laura Sisk (Pacifique, North Hollywood)  |
 | Discogs URL    | [Sigur Rós - Kveikur](https://www.discogs.com/release/26815136-Sigur-Rós-Kveikur) |

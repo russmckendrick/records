@@ -34,20 +34,20 @@ Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Walking In The Sunshine | 3:26 |
-| A2 | Dansetta | 3:53 |
-| A3 | Can Can | 2:55 |
-| A4 | Weeping And Wailing | 3:37 |
-| A5 | Casablanca (Rags And Riches) | 4:48 |
-| A6 | Don't Be Angry (Live Recording) | 2:30 |
-| B1 | Ben E. Wriggle | 3:48 |
-| B2 | Runaway | 3:06 |
-| B3 | Never Will Change | 3:04 |
-| B4 | Only Funkin' | 3:32 |
-| B5 | End Of The World | 2:57 |
-| B6 | Gherkin | 4:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Walking In The Sunshine |
+| A2 | Dansetta |
+| A3 | Can Can |
+| A4 | Weeping And Wailing |
+| A5 | Casablanca (Rags And Riches) |
+| A6 | Don't Be Angry (Live Recording) |
+| B1 | Ben E. Wriggle |
+| B2 | Runaway |
+| B3 | Never Will Change |
+| B4 | Only Funkin' |
+| B5 | End Of The World |
+| B6 | Gherkin |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Magnet (2) |
 | Catalog Number | MAGL 5043 |
-| Notes | Track A3 is based on the classical operetta by [r13333558].<br><br>Issued in a textured single sleeve and with a printed lyric inner sleeve.<br><br>Some copies include a poster of the band. |
+| Notes | Track A3 is based on the classical operetta by [r13333558].  Issued in a textured single sleeve and with a printed lyric inner sleeve.  Some copies include a poster of the band. |
 | Discogs URL    | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569-Bad-Manners-Gosh-Its) |

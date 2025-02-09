@@ -31,20 +31,20 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Light From A Dead Star | 3:15 |
-| A2 | Kiss Chase | 3:15 |
-| A3 | Blackout | 3:06 |
-| A4 | Hypocrite | 2:53 |
-| A5 | Lovelife | 3:56 |
-| A6 | Desire Lines | 7:37 |
-| A7 | The Invisible Man | 2:14 |
-| B8 | Undertow | 4:57 |
-| B9 | Never-Never | 8:04 |
-| B10 | Lit Up | 4:00 |
-| B11 | Starlust | 4:30 |
-| B12 | When I Die | 4:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Light From A Dead Star |
+| A2 | Kiss Chase |
+| A3 | Blackout |
+| A4 | Hypocrite |
+| A5 | Lovelife |
+| A6 | Desire Lines |
+| A7 | The Invisible Man |
+| B8 | Undertow |
+| B9 | Never-Never |
+| B10 | Lit Up |
+| B11 | Starlust |
+| B12 | When I Die |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4ad0452lp |
-| Notes | Tracks listed sequentially (1 to 12) on sleeve and label.<br><br>Some copies lack sticker barcode.<br> |
+| Notes | Tracks listed sequentially (1 to 12) on sleeve and label.  Some copies lack sticker barcode.  |
 | Discogs URL    | [Lush - Split](https://www.discogs.com/release/27909429-Lush-Split) |

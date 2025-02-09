@@ -30,20 +30,20 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | It Could Have Been A Brilliant Career | 2:23 |
-| A2 | Sleep The Clock Around | 4:58 |
-| A3 | Is It Wicked Not To Care? | 3:22 |
-| A4 | Ease Your Feet In The Sea | 3:35 |
-| A5 | A Summer Wasting | 2:06 |
-| A6 | Seymour Stein | 4:42 |
-| B1 | A Space Boy Dream | 3:01 |
-| B2 | Dirty Dream Number Two | 4:14 |
-| B3 | The Boy With The Arab Strap | 5:14 |
-| B4 | Chickfactor | 3:32 |
-| B5 | Simple Things | 1:46 |
-| B6 | The Rollercoaster Ride | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | It Could Have Been A Brilliant Career |
+| A2 | Sleep The Clock Around |
+| A3 | Is It Wicked Not To Care? |
+| A4 | Ease Your Feet In The Sea |
+| A5 | A Summer Wasting |
+| A6 | Seymour Stein |
+| B1 | A Space Boy Dream |
+| B2 | Dirty Dream Number Two |
+| B3 | The Boy With The Arab Strap |
+| B4 | Chickfactor |
+| B5 | Simple Things |
+| B6 | The Rollercoaster Ride |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Repress (Green Transparent) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP003RSD |
-| Notes | Record Store Day 2021 Exclusive<br>Gatefold sleeve with die cut, poly lined paper inner sleeve.<br>Lyrics are printed inside the gatefold.<br><br>(P) & (C) 1998 Jeepster Recordings<br>Made in EU. <br>Distributed by Universal Music Operations Ltd. <br><br><br><br><br><br>The title of this record in no way refers to the cover star, by the way.<br><br> |
+| Notes | Record Store Day 2021 Exclusive Gatefold sleeve with die cut, poly lined paper inner sleeve. Lyrics are printed inside the gatefold.  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.   |
 | Discogs URL    | [Belle  Sebastian - The Boy With The Arab Strap](https://www.discogs.com/release/19112392-Belle-Sebastian-The-Boy-With-The-Arab-Strap) |

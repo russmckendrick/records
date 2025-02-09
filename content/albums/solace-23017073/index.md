@@ -32,16 +32,16 @@ styles: ["Post Rock", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Next To Silence |  |
-| A2 | In The Trees |  |
-| A3 | Rain After Sun |  |
-| A4 | Wave Upon Wave |  |
-| B5 | An Approach |  |
-| B6 | The Tree Of Life |  |
-| B7 | Mysterium |  |
-| B8 | The New Earth |  |
+| Position | Title |
+|----------|--------|
+| A1 | Next To Silence |
+| A2 | In The Trees |
+| A3 | Rain After Sun |
+| A4 | Wave Upon Wave |
+| B5 | An Approach |
+| B6 | The Tree Of Life |
+| B7 | Mysterium |
+| B8 | The New Earth |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Post Rock", "Experimental"]
 | Format         | Vinyl LP Album (Eco Vinyl) |
 | Label          | Tweed Jacket Music Ltd |
 | Catalog Number | TJMLP01 |
-| Notes | The colour of the record may vary as it is 'eco vinyl'.<br><br>© ℗ Tweed Jacket Music Ltd 2022<br><br>The tracks are numbered 1 to 8 on the release. |
+| Notes | The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release. |
 | Discogs URL    | [Held By Trees - Solace](https://www.discogs.com/release/23017073-Held-By-Trees-Solace) |

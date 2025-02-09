@@ -28,29 +28,29 @@ The album was again reissued in August 2015 by Beggars Banquet as Premier Hits a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| a1 | Cars  |  |
-| a2 | I Die: You Die | 3:43 |
-| a3 | Are 'Friends' Electric? | 5:23 |
-| a4 | Down In The Park | 4:23 |
-| a5 | We Are Glass | 4:47 |
-| b1 | Metal |  |
-| b2 | We Are So Fragile |  |
-| b3 | Bombers | 3:54 |
-| b4 | We Take Mystery (To Bed) | 3:43 |
-| b5 | She's Got Claws | 4:56 |
-| b6 | Complex | 3:12 |
-| c1 | Music For Chameleons | 3:40 |
-| c2 | That's Too Bad | 3:20 |
-| c3 | This Wreckage | 5:24 |
-| c4 | Films |  |
-| c5 | Warriors | 4:09 |
-| d1 | Me! I Disconnect From You |  |
-| d2 | Love Needs No Disguise | 4:38 |
-| d3 | White Boys And Heroes | 3:37 |
-| d4 | Sister Surprise | 5:01 |
-| d5 | Stormtrooper In Drag |  |
+| Position | Title |
+|----------|--------|
+| a1 | Cars  |
+| a2 | I Die: You Die |
+| a3 | Are 'Friends' Electric? |
+| a4 | Down In The Park |
+| a5 | We Are Glass |
+| b1 | Metal |
+| b2 | We Are So Fragile |
+| b3 | Bombers |
+| b4 | We Take Mystery (To Bed) |
+| b5 | She's Got Claws |
+| b6 | Complex |
+| c1 | Music For Chameleons |
+| c2 | That's Too Bad |
+| c3 | This Wreckage |
+| c4 | Films |
+| c5 | Warriors |
+| d1 | Me! I Disconnect From You |
+| d2 | Love Needs No Disguise |
+| d3 | White Boys And Heroes |
+| d4 | Sister Surprise |
+| d5 | Stormtrooper In Drag |
 
 
 ## Apple Music

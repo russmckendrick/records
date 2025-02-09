@@ -34,18 +34,18 @@ The album had sold around 15,000 copies before it was picked up by Island.  "My 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Umbrella | 4:32 |
-| A2 | One Through Four | 2:57 |
-| A3 | Lost And Found | 3:23 |
-| A4 | Change Of Mind | 4:33 |
-| A5 | On The Ground | 4:14 |
-| A6 | The Morning | 2:27 |
-| B1 | Blown Away | 4:31 |
-| B2 | Brown-Eyed Pickle Boy | 4:50 |
-| B3 | Miles And Miles Of Pain | 5:41 |
-| B4 | Triangle | 5:52 |
+| Position | Title |
+|----------|--------|
+| A1 | My Umbrella |
+| A2 | One Through Four |
+| A3 | Lost And Found |
+| A4 | Change Of Mind |
+| A5 | On The Ground |
+| A6 | The Morning |
+| B1 | Blown Away |
+| B2 | Brown-Eyed Pickle Boy |
+| B3 | Miles And Miles Of Pain |
+| B4 | Triangle |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album had sold around 15,000 copies before it was picked up by Island.  "My 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3369 |
-| Notes | MOV Hype Sticker: Available On Vinyl For The First Time<br>Includes Insert<br>180 Gram Audiophile Vinyl |
+| Notes | MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl |
 | Discogs URL    | [Tripping Daisy - Bill](https://www.discogs.com/release/26508692-Tripping-Daisy-Bill) |

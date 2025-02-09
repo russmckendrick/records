@@ -35,18 +35,18 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come With Us |  |
-| A2 | It Began In Afrika |  |
-| A3 | Galaxy Bounce |  |
-| B1 | Star Guitar |  |
-| B2 | Hoops |  |
-| C1 | My Elastic Eye |  |
-| C2 | The State We're In |  |
-| C3 | Denmark |  |
-| D1 | Pioneer Skies |  |
-| D2 | The Test |  |
+| Position | Title |
+|----------|--------|
+| A1 | Come With Us |
+| A2 | It Began In Afrika |
+| A3 | Galaxy Bounce |
+| B1 | Star Guitar |
+| B2 | Hoops |
+| C1 | My Elastic Eye |
+| C2 | The State We're In |
+| C3 | Denmark |
+| D1 | Pioneer Skies |
+| D2 | The Test |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 | Format         | Vinyl 2× LP Album |
 | Label          | Astralwerks |
 | Catalog Number | ASW 11682 |
-| Notes | Gatefold sleeve<br><br>Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel.<br>It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram.<br>Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman)<br>Hoops features samples from The Association recording 'Round Again'.<br>Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy).<br>Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler).<br>The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'.<br> |
+| Notes | Gatefold sleeve    Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel.  It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram.  Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman)  Hoops features samples from The Association recording 'Round Again'.  Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy).  Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler).  The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'.   |
 | Discogs URL    | [The Chemical Brothers - Come With Us](https://www.discogs.com/release/108093-The-Chemical-Brothers-Come-With-Us) |

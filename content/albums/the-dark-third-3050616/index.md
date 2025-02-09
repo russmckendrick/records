@@ -35,22 +35,22 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Aeropause |  |
-| A2 | Goshen's Remains |  |
-| A3 | Apprentice Of The Universe |  |
-| B1 | The Bright Ambassadors Of Morning |  |
-| B2 | Nimos & Tambos |  |
-| B3 | Voices In Winter / In The Realms Of The Divine |  |
-| C1 | Bullitts Dominæ |  |
-| C2 | Arrival / The Intention Craft |  |
-| C3 | He Tried To Show Them Magic! / Ambassadors Return |  |
-| C4 | Asleep Under Eiderdown |  |
-| D1 | In Aurélia |  |
-| D2 | Borgens Vor |  |
-| D3 | The Exact Colour |  |
-| D4 | The Twyncyn / Trembling Willows |  |
+| Position | Title |
+|----------|--------|
+| A1 | Aeropause |
+| A2 | Goshen's Remains |
+| A3 | Apprentice Of The Universe |
+| B1 | The Bright Ambassadors Of Morning |
+| B2 | Nimos & Tambos |
+| B3 | Voices In Winter / In The Realms Of The Divine |
+| C1 | Bullitts Dominæ |
+| C2 | Arrival / The Intention Craft |
+| C3 | He Tried To Show Them Magic! / Ambassadors Return |
+| C4 | Asleep Under Eiderdown |
+| D1 | In Aurélia |
+| D2 | Borgens Vor |
+| D3 | The Exact Colour |
+| D4 | The Twyncyn / Trembling Willows |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 | Format         | Vinyl 2× LP Album |
 | Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |
-| Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.<br>© + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records<br>Distributed by Plastic Head Music Distribution Ltd<br>Recorded at Fairhazel, Eden, The Gables & RAK Studios. <br>Mixed at RAK Studios.<br> |
+| Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.  © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records  Distributed by Plastic Head Music Distribution Ltd  Recorded at Fairhazel, Eden, The Gables & RAK Studios.   Mixed at RAK Studios.   |
 | Discogs URL    | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |

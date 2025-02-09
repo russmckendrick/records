@@ -30,18 +30,18 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Airlane | 3:18 |
-| A2 | Metal | 3:33 |
-| A3 | Complex | 3:14 |
-| A4 | Films | 4:09 |
-| A5 | M.E. | 5:37 |
-| B1 | Tracks | 2:52 |
-| B2 | Observer | 2:53 |
-| B3 | Conversation | 7:38 |
-| B4 | Cars | 3:53 |
-| B5 | Engineers | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Airlane |
+| A2 | Metal |
+| A3 | Complex |
+| A4 | Films |
+| A5 | M.E. |
+| B1 | Tracks |
+| B2 | Observer |
+| B3 | Conversation |
+| B4 | Cars |
+| B5 | Engineers |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 10 |
-| Notes | Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.<br><br>℗ 1979 Beggars Banquet.<br>© 1979 A Beggars Banquet Recording.<br>All songs © 1979<br><br>Distributed by WEA Records Ltd. A Warner Communications Company.<br><br>All titles:- Beggars Banquet / Andrew Heath Music Ltd. |
+| Notes | Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd. |
 | Discogs URL    | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/45996-Gary-Numan-The-Pleasure-Principle) |

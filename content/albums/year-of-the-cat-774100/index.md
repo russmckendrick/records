@@ -35,17 +35,17 @@ Stewart had all of the music and orchestration written and completely recorded b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lord Grenville | 5:00 |
-| A2 | On The Border | 3:22 |
-| A3 | Midas Shadow | 3:08 |
-| A4 | Sand In Your Shoes | 3:02 |
-| A5 | If It Doesn't Come Naturally, Leave It | 4:28 |
-| B1 | Flying Sorcery | 4:20 |
-| B2 | Broadway Hotel | 3:55 |
-| B3 | One Stage Before | 4:39 |
-| B4 | Year Of The Cat | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Lord Grenville |
+| A2 | On The Border |
+| A3 | Midas Shadow |
+| A4 | Sand In Your Shoes |
+| A5 | If It Doesn't Come Naturally, Leave It |
+| B1 | Flying Sorcery |
+| B2 | Broadway Hotel |
+| B3 | One Stage Before |
+| B4 | Year Of The Cat |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Stewart had all of the music and orchestration written and completely recorded b
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | RCA |
 | Catalog Number | RS 1082 |
-| Notes | <br><br>Note:<br>An alternate version with flat labels and mastered by [a336941], is here - [r8747181]<br><br><br> |
+| Notes |   Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]    |
 | Discogs URL    | [Al Stewart - Year Of The Cat](https://www.discogs.com/release/774100-Al-Stewart-Year-Of-The-Cat) |

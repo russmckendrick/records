@@ -31,21 +31,21 @@ Upon release, Bad as Me became Waits' first top 10 album in the US, peaking at n
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chicago | 2:15 |
-| A2 | Raised Right Men | 3:24 |
-| A3 | Talking At The Same Time | 4:13 |
-| A4 | Get Lost | 2:42 |
-| A5 | Face To The Highway | 3:42 |
-| A6 | Pay Me | 3:14 |
-| A7 | Back In The Crowd | 2:49 |
-| B1 | Bad As Me | 3:10 |
-| B2 | Kiss Me | 3:41 |
-| B3 | Satisfied | 4:05 |
-| B4 | Last Leaf | 2:55 |
-| B5 | Hell Broke Luce | 3:57 |
-| B6 | New Year's Eve | 4:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Chicago |
+| A2 | Raised Right Men |
+| A3 | Talking At The Same Time |
+| A4 | Get Lost |
+| A5 | Face To The Highway |
+| A6 | Pay Me |
+| A7 | Back In The Crowd |
+| B1 | Bad As Me |
+| B2 | Kiss Me |
+| B3 | Satisfied |
+| B4 | Last Leaf |
+| B5 | Hell Broke Luce |
+| B6 | New Year's Eve |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Upon release, Bad as Me became Waits' first top 10 album in the US, peaking at n
 | Format         | Vinyl LP Album Remastered (180 g) |
 | Label          | Anti- |
 | Catalog Number | 7151-1 |
-| Notes | Information on shrinkwrap: <br><br>"Newly Remastered with Waits/Brennan 7151-1"<br><br>"Download Card Included 180 Gram"<br><br>Information on the back:<br><br>"LC02576 | BIEM/STEMRA<br>(C)&(P) 2011 ANTI, Inc. Manufactured and distributed by Epitaph Europe.<br>P.O. Box 10574, 1001 EN Amsterdam. The Netherlands. All rights reserved.<br>Unauthorized duplication is a violation of applicable laws. |
+| Notes | Information on shrinkwrap:   "Newly Remastered with Waits/Brennan 7151-1"  "Download Card Included 180 Gram"  Information on the back:  "LC02576 | BIEM/STEMRA (C)&(P) 2011 ANTI, Inc. Manufactured and distributed by Epitaph Europe. P.O. Box 10574, 1001 EN Amsterdam. The Netherlands. All rights reserved. Unauthorized duplication is a violation of applicable laws. |
 | Discogs URL    | [Tom Waits - Bad As Me](https://www.discogs.com/release/11147825-Tom-Waits-Bad-As-Me) |

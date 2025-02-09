@@ -43,38 +43,38 @@ English Settlement was well-received critically and continues to be regarded by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Runaways | 4:51 |
-| A2 | Ball And Chain | 4:28 |
-| A3 | Senses Working Overtime | 4:45 |
-| A4 | Jason And The Argonauts | 6:03 |
-| B1 | No Thugs In Our House | 5:16 |
-| B2 | Yacht Dance | 3:52 |
-| B3 | All Of A Sudden (It's Too Late) | 5:18 |
-| C1 | Melt The Guns | 6:31 |
-| C2 | Leisure | 5:01 |
-| C3 | It's Nearly Africa | 3:54 |
-| C4 | Knuckle Down | 4:26 |
-| D1 | Fly On The Wall | 3:11 |
-| D2 | Down In The Cockpit | 5:35 |
-| D3 | English Roundabout | 3:50 |
-| D4 | Snowman | 4:26 |
-| CD-1 | Runaways | 4:51 |
-| CD-2 | Ball And Chain | 4:28 |
-| CD-3 | Senses Working Overtime | 4:45 |
-| CD-4 | Jason And The Argonauts | 6:03 |
-| CD-5 | No Thugs In Our House | 5:16 |
-| CD-6 | Yacht Dance | 3:52 |
-| CD-7 | All Of A Sudden (It's Too Late) | 5:18 |
-| CD-8 | Melt The Guns | 6:31 |
-| CD-9 | Leisure | 5:01 |
-| CD-10 | It's Nearly Africa | 3:54 |
-| CD-11 | Knuckle Down | 4:26 |
-| CD-12 | Fly On The Wall | 3:11 |
-| CD-13 | Down In The Cockpit | 5:35 |
-| CD-14 | English Roundabout | 3:50 |
-| CD-15 | Snowman | 4:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Runaways |
+| A2 | Ball And Chain |
+| A3 | Senses Working Overtime |
+| A4 | Jason And The Argonauts |
+| B1 | No Thugs In Our House |
+| B2 | Yacht Dance |
+| B3 | All Of A Sudden (It's Too Late) |
+| C1 | Melt The Guns |
+| C2 | Leisure |
+| C3 | It's Nearly Africa |
+| C4 | Knuckle Down |
+| D1 | Fly On The Wall |
+| D2 | Down In The Cockpit |
+| D3 | English Roundabout |
+| D4 | Snowman |
+| CD-1 | Runaways |
+| CD-2 | Ball And Chain |
+| CD-3 | Senses Working Overtime |
+| CD-4 | Jason And The Argonauts |
+| CD-5 | No Thugs In Our House |
+| CD-6 | Yacht Dance |
+| CD-7 | All Of A Sudden (It's Too Late) |
+| CD-8 | Melt The Guns |
+| CD-9 | Leisure |
+| CD-10 | It's Nearly Africa |
+| CD-11 | Knuckle Down |
+| CD-12 | Fly On The Wall |
+| CD-13 | Down In The Cockpit |
+| CD-14 | English Roundabout |
+| CD-15 | Snowman |
 
 
 ## Apple Music
@@ -92,5 +92,5 @@ English Settlement was well-received critically and continues to be regarded by 
 | Format         | Vinyl 2× LP Album Reissue, CD Album Reissue, Box Set Deluxe Edition |
 | Label          | Ape House |
 | Catalog Number | APELPD105 |
-| Notes | A deluxe version of XTC's 1982 classic, English Settlement. <br><br>Including: <br><br>* 2 x 33rpm, 200g heavyweight vinyl <br>* 12" 16 page booklet with song notes by band members <br>* Lyric sheet <br>* 2016 cut from original half-inch master sources <br>* CD mastered from the same original master sources <br>* All contents packaged in a sturdy slipcase <br><br>While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition.  |
+| Notes | A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition.  |
 | Discogs URL    | [XTC - English Settlement](https://www.discogs.com/release/8800946-XTC-English-Settlement) |

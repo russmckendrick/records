@@ -35,21 +35,21 @@ The album was a critical and commercial success, debuting at number four on the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Quasar | 4:55 |
-| A2 | Panopticon | 3:52 |
-| A3 | The Celestials | 3:57 |
-| A4 | Violet Rays | 4:19 |
-| B1 | My Love Is Winter | 3:32 |
-| B2 | One Diamond, One Heart | 3:50 |
-| B3 | Pinwheels | 5:43 |
-| C1 | Oceania | 9:05 |
-| C2 | Pale Horse | 4:37 |
-| C3 | The Chimera | 4:16 |
-| D1 | Glissandra | 4:06 |
-| D2 | Inkless | 3:08 |
-| D3 | Wildflower | 4:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Quasar |
+| A2 | Panopticon |
+| A3 | The Celestials |
+| A4 | Violet Rays |
+| B1 | My Love Is Winter |
+| B2 | One Diamond, One Heart |
+| B3 | Pinwheels |
+| C1 | Oceania |
+| C2 | Pale Horse |
+| C3 | The Chimera |
+| D1 | Glissandra |
+| D2 | Inkless |
+| D3 | Wildflower |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album was a critical and commercial success, debuting at number four on the 
 | Format         | Vinyl 2× LP Album |
 | Label          | Martha's Music |
 | Catalog Number | MM 002 |
-| Notes | Gatefold packaging, with lyrics printed inside the sleeve.<br>180 grams pressing.<br><br>Issued with a hype sticker including barcode stating:<br>"Oceania <br>First studio album from The Smashing Pumpkins in 5 years<br>On Tour Fall 2012"<br><br>Nicole Fiorentino's name is misspelled "Florentino" in the credits.<br><br>Runouts are etched. |
+| Notes | Gatefold packaging, with lyrics printed inside the sleeve. 180 grams pressing.  Issued with a hype sticker including barcode stating: "Oceania  First studio album from The Smashing Pumpkins in 5 years On Tour Fall 2012"  Nicole Fiorentino's name is misspelled "Florentino" in the credits.  Runouts are etched. |
 | Discogs URL    | [The Smashing Pumpkins - Oceania](https://www.discogs.com/release/3702725-The-Smashing-Pumpkins-Oceania) |

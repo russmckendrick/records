@@ -50,51 +50,51 @@ styles: ["Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Madcap Laughs |  |
-| A1 | Terrapin  | 5:00 |
-| A2 | No Good Trying  | 3:26 |
-| A3 | Love You  | 2:25 |
-| A4 | No Man's Land | 3:50 |
-| A5 | Dark Globe  | 2:10 |
-| A6 | Here I Go  | 3:13 |
-| B1 | Octopus | 3:45 |
-| B2 | Golden Hair | 1:56 |
-| B3 | Long Gone | 2:47 |
-|  | - | 7:59 |
-| B7 | Late Night  | 3:12 |
-|  | Barrett |  |
-| C1 | Baby Lemonade  |  |
-| C2 | Love Song  |  |
-| C3 | Dominoes  |  |
-| C4 | It Is Obvious  |  |
-| C5 | Rats  |  |
-| C6 | Maisie |  |
-| D1 | Gigolo Aunt  |  |
-| D2 | Waving My Arms In The Air |  |
-| D3 | I Never Lied To You |  |
-| D4 | Wined And Dined  |  |
-| D5 | Wolfpack |  |
-| D6 | Effervescing Elephant  |  |
-|  | Opel |  |
-| E1 | Opel |  |
-| E2 | Clowns And Jugglers |  |
-| E3 | Rats |  |
-| E4 | Golden Hair (Remake, Take 6) |  |
-| E5 | Dolly Rocker  |  |
-| E6 | Word Song |  |
-| E7 | Wined And Dined  |  |
-| F1 | Swan Lee (Silas Lang)  |  |
-| F2 | Birdie Hop  |  |
-| F3 | Let's Split  |  |
-| F4 | Lanky (Part One)  |  |
-| F5 | Wouldn't You Miss Me (Dark Globe)  |  |
-| F6 | Milky Way  |  |
-| F7 | Golden Hair (Take 1)  |  |
-|  | - |  |
-| G | Dark Globe  |  |
-| H | Dominoes  |  |
+| Position | Title |
+|----------|--------|
+|  | The Madcap Laughs |
+| A1 | Terrapin  |
+| A2 | No Good Trying  |
+| A3 | Love You  |
+| A4 | No Man's Land |
+| A5 | Dark Globe  |
+| A6 | Here I Go  |
+| B1 | Octopus |
+| B2 | Golden Hair |
+| B3 | Long Gone |
+|  | - |
+| B7 | Late Night  |
+|  | Barrett |
+| C1 | Baby Lemonade  |
+| C2 | Love Song  |
+| C3 | Dominoes  |
+| C4 | It Is Obvious  |
+| C5 | Rats  |
+| C6 | Maisie |
+| D1 | Gigolo Aunt  |
+| D2 | Waving My Arms In The Air |
+| D3 | I Never Lied To You |
+| D4 | Wined And Dined  |
+| D5 | Wolfpack |
+| D6 | Effervescing Elephant  |
+|  | Opel |
+| E1 | Opel |
+| E2 | Clowns And Jugglers |
+| E3 | Rats |
+| E4 | Golden Hair (Remake, Take 6) |
+| E5 | Dolly Rocker  |
+| E6 | Word Song |
+| E7 | Wined And Dined  |
+| F1 | Swan Lee (Silas Lang)  |
+| F2 | Birdie Hop  |
+| F3 | Let's Split  |
+| F4 | Lanky (Part One)  |
+| F5 | Wouldn't You Miss Me (Dark Globe)  |
+| F6 | Milky Way  |
+| F7 | Golden Hair (Take 1)  |
+|  | - |
+| G | Dark Globe  |
+| H | Dominoes  |
 
 
 ## Apple Music
@@ -111,5 +111,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Gold Translucent With Black Smoke [Golden Hair], 180g), Vinyl LP Album Reissue (Green Marble [Baby Lemonade], 180g ), Vinyl LP Album Reissue (Clear With Black Smoke [Milky Way Opel], 180g), Vinyl 7" 45 RPM Single |
 | Label          | Third Man Records |
 | Catalog Number | TMR-944 |
-| Notes | The lyric of "Golden Hair" is from a poem by James Joyce. Permission for use granted by The Society of Authors, literary representatives of the estate of James Joyce.<br><br>The back cover of The Madcap Laughs reads "SIDE ONE" on the tracklisting for both sides.<br><br>Durations are only listed for The Madcap Laughs on the back cover.<br><br>Runouts are etched. |
+| Notes | The lyric of "Golden Hair" is from a poem by James Joyce. Permission for use granted by The Society of Authors, literary representatives of the estate of James Joyce.  The back cover of The Madcap Laughs reads "SIDE ONE" on the tracklisting for both sides.  Durations are only listed for The Madcap Laughs on the back cover.  Runouts are etched. |
 | Discogs URL    | [Syd Barrett - The Solo Works Of Syd Barrett ](https://www.discogs.com/release/28522522-Syd-Barrett-The-Solo-Works-Of-Syd-Barrett-) |

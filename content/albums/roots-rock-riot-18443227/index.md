@@ -36,23 +36,23 @@ Roots Rock Riot is the second album from Welsh rock band Skindred. It was releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Roots Rock Riot | 3:02 |
-| A2 | Trouble | 3:49 |
-| A3 | Ratrace | 3:22 |
-| A4 | State Of Emergency | 4:03 |
-| A5 | Alright | 3:09 |
-| A6 | Destroy The Dancefloor | 3:44 |
-| B1 | Rude Boy For Life | 4:11 |
-| B2 | Killing Me | 4:19 |
-| B3 | Spit Out The Poison | 3:47 |
-| B4 | Cause Ah Riot | 3:05 |
-| B5 | Ease Up | 3:59 |
-| B6 | Choices And Decisions | 4:40 |
-|  | 7 Inch Bonus Tracks: |  |
-| A | It's A Crime | 3:17 |
-| B | Struggle | 3:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Roots Rock Riot |
+| A2 | Trouble |
+| A3 | Ratrace |
+| A4 | State Of Emergency |
+| A5 | Alright |
+| A6 | Destroy The Dancefloor |
+| B1 | Rude Boy For Life |
+| B2 | Killing Me |
+| B3 | Spit Out The Poison |
+| B4 | Cause Ah Riot |
+| B5 | Ease Up |
+| B6 | Choices And Decisions |
+|  | 7 Inch Bonus Tracks: |
+| A | It's A Crime |
+| B | Struggle |
 
 
 ## Apple Music

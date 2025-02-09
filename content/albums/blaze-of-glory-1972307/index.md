@@ -31,19 +31,19 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Billy Get Your Guns | 4:48 |
-| A2 | Miracle | 5:08 |
-| A3 | Blaze Of Glory | 5:44 |
-| A4 | Blood Money | 2:34 |
-| A5 | Santa Fe | 5:40 |
-| B1 | Justice In The Barrel | 6:47 |
-| B2 | Never Say Die | 4:53 |
-| B3 | You Really Got Me Now | 2:23 |
-| B4 | Bang A Drum | 4:36 |
-| B5 | Dyin' Ain't Much Of A Livin' | 4:39 |
-| B6 | Guano City | 1:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Billy Get Your Guns |
+| A2 | Miracle |
+| A3 | Blaze Of Glory |
+| A4 | Blood Money |
+| A5 | Santa Fe |
+| B1 | Justice In The Barrel |
+| B2 | Never Say Die |
+| B3 | You Really Got Me Now |
+| B4 | Bang A Drum |
+| B5 | Dyin' Ain't Much Of A Livin' |
+| B6 | Guano City |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 | Format         | Vinyl LP Album |
 | Label          | Vertigo |
 | Catalog Number | 846 473-1 |
-| Notes | Inspired by the film Young Guns II.<br>Recorded and mixed at A&M Studios, Los Angeles, California.<br><br>Publishing Info:-<br>A1 to B5: Polygram Music Publishing Ltd.<br>B6: MCA Music Ltd. |
+| Notes | Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California.  Publishing Info:- A1 to B5: Polygram Music Publishing Ltd. B6: MCA Music Ltd. |
 | Discogs URL    | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307-Jon-Bon-Jovi-Blaze-Of-Glory) |

@@ -28,19 +28,19 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nerve Attack |  |
-| A2 | Paranoid Core |  |
-| A3 | Please Mr. Gunman |  |
-| A4 | Kill Yourself Live |  |
-| A5 | Night And Fog |  |
-| B1 | 21st Century Pharisees |  |
-| B2 | Hey Neanderfuck |  |
-| B3 | Prosperity Gospel |  |
-| B4 | Messiah's Lament |  |
-| B5 | Next Mass Extinction |  |
-| B6 | Oh Yeah |  |
+| Position | Title |
+|----------|--------|
+| A1 | Nerve Attack |
+| A2 | Paranoid Core |
+| A3 | Please Mr. Gunman |
+| A4 | Kill Yourself Live |
+| A5 | Night And Fog |
+| B1 | 21st Century Pharisees |
+| B2 | Hey Neanderfuck |
+| B3 | Prosperity Gospel |
+| B4 | Messiah's Lament |
+| B5 | Next Mass Extinction |
+| B6 | Oh Yeah |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 | Format         | Vinyl LP Album (Blue Opaque) |
 | Label          | Sub Pop |
 | Catalog Number | SP1225 |
-| Notes | Loser Edition, sold through independent stores only.<br>Die-cut foldout sleeve with die-cut printed inner & download card. |
+| Notes | Loser Edition, sold through independent stores only. Die-cut foldout sleeve with die-cut printed inner & download card. |
 | Discogs URL    | [Mudhoney - Digital Garbage](https://www.discogs.com/release/12580247-Mudhoney-Digital-Garbage) |

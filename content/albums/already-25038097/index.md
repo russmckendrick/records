@@ -30,20 +30,20 @@ The album followed a working hiatus by the band following the disappointing comm
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Next Big Thing | 4:01 |
-| A2 | Run On Empty | 3:13 |
-| A3 | Look Out Tomorrow | 3:34 |
-| A4 | Top Of The World | 3:31 |
-| A5 | Rails | 3:13 |
-| A6 | Wishing It Away | 5:04 |
-| A7 | Chemical #1 | 3:26 |
-| B1 | Motion | 4:54 |
-| B2 | They're Out There | 4:01 |
-| B3 | For A Moment | 3:31 |
-| B4 | Addiction, Obsession & Me | 4:19 |
-| B5 | February | 6:43 |
+| Position | Title |
+|----------|--------|
+| A1 | The Next Big Thing |
+| A2 | Run On Empty |
+| A3 | Look Out Tomorrow |
+| A4 | Top Of The World |
+| A5 | Rails |
+| A6 | Wishing It Away |
+| A7 | Chemical #1 |
+| B1 | Motion |
+| B2 | They're Out There |
+| B3 | For A Moment |
+| B4 | Addiction, Obsession & Me |
+| B5 | February |
 
 
 ## Apple Music

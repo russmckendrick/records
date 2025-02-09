@@ -40,29 +40,29 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | F - Pray Frankie Pray |  |
-| A1 | Well... | 0:57 |
-| A2 | The World Is My Oyster | 1:05 |
-| A3 | Snatch Of Fury (Stay) | 1:20 |
-| A4 | Welcome To The Pleasure Dome | 12:24 |
-|  | G - Say Frankie Say |  |
-| B1 | Relax (Come Fighting) | 4:00 |
-| B2 | War (...And Hide) | 6:11 |
-| B3 | Two Tribes (For The Victims Of Ravishment) | 3:58 |
-|  | T - Stay Frankie Stay |  |
-| C1 | Ferry (Go) | 1:55 |
-| C2 | Born To Run | 3:56 |
-| C3 | San Jose (The Way) | 3:10 |
-| C4 | Wish (The Lads Were Here) | 3:06 |
-| C5 | Including The Ballad Of 32 | 4:23 |
-|  | H - Play Frankie Play |  |
-| D1 | Krisco Kisses | 3:03 |
-| D2 | Black Night White Light | 4:04 |
-| D3 | The Only Star In Heaven | 4:18 |
-| D4 | The Power Of Love | 5:24 |
-| D5 | Bang... | 1:14 |
+| Position | Title |
+|----------|--------|
+|  | F - Pray Frankie Pray |
+| A1 | Well... |
+| A2 | The World Is My Oyster |
+| A3 | Snatch Of Fury (Stay) |
+| A4 | Welcome To The Pleasure Dome |
+|  | G - Say Frankie Say |
+| B1 | Relax (Come Fighting) |
+| B2 | War (...And Hide) |
+| B3 | Two Tribes (For The Victims Of Ravishment) |
+|  | T - Stay Frankie Stay |
+| C1 | Ferry (Go) |
+| C2 | Born To Run |
+| C3 | San Jose (The Way) |
+| C4 | Wish (The Lads Were Here) |
+| C5 | Including The Ballad Of 32 |
+|  | H - Play Frankie Play |
+| D1 | Krisco Kisses |
+| D2 | Black Night White Light |
+| D3 | The Only Star In Heaven |
+| D4 | The Power Of Love |
+| D5 | Bang... |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 | Format         | Vinyl 2× LP Album (EMI Pressing, Gatefold) |
 | Label          | ZTT |
 | Catalog Number | ZTT IQ1 |
-| Notes | Gatefold sleeve with printed inner sleeves (round corners).<br><br>Some copies came with a sticker with European cat# 302 419-977 on upper right corner of back cover (UK version imported to mainland Europe?)<br><br>From sleeve notes: IQ number one becomes no.four in Zang Tuum Tumb's fishy Action Series. "Ain't that peculiar."<br><br>Record two's inner sleeve includes a mail order form for FGTH accessories, such as the "Sophisticated Virginia Woolf vest for the luxury of life" and the "Jean Genet boxer shorts", modelled by Paul Rutherford of the group Frankie Goes To Hollywood and Claudia Bruecken [sic] of the group Propaganda ...<br><br>"[4 symbols] x (frankie symbol) = BANG!<br>(the spunk plus the bomb plus the pump plus the torture instrument times frankie equalling the bang is an exclusive piece of ZTT exploitation.)" © ZTT 1984<br><br>A1, A2, A4, B1, B3, C4, C5, D1, D2, D3, D4, D5: Perfect Songs Ltd<br>A3, C1: Dick James Music Ltd<br>B2: Jobete Music (UK) Ltd<br>C2: Zomba Music Ltd<br>C3: Carlin Music Corp<br><br>Side A banded as one continuous piece.<br><br>Spelling inconsistencies (intentional or otherwise) appear on release:<br>• title listed as Welcome To The Pleasuredome on front, spine and inner sleeve / The Pleasure Dome on labels;<br>• track C1 listed as 'ferry (Go)' on inner sleeve / 'fury' on label.<br>• track D1 listed as 'Krisco Kisses' on inner sleeve / 'Ḱrisco Ḱisses' on label. |
+| Notes | Gatefold sleeve with printed inner sleeves (round corners).  Some copies came with a sticker with European cat# 302 419-977 on upper right corner of back cover (UK version imported to mainland Europe?)  From sleeve notes: IQ number one becomes no.four in Zang Tuum Tumb's fishy Action Series. "Ain't that peculiar."  Record two's inner sleeve includes a mail order form for FGTH accessories, such as the "Sophisticated Virginia Woolf vest for the luxury of life" and the "Jean Genet boxer shorts", modelled by Paul Rutherford of the group Frankie Goes To Hollywood and Claudia Bruecken [sic] of the group Propaganda ...  "[4 symbols] x (frankie symbol) = BANG! (the spunk plus the bomb plus the pump plus the torture instrument times frankie equalling the bang is an exclusive piece of ZTT exploitation.)" © ZTT 1984  A1, A2, A4, B1, B3, C4, C5, D1, D2, D3, D4, D5: Perfect Songs Ltd A3, C1: Dick James Music Ltd B2: Jobete Music (UK) Ltd C2: Zomba Music Ltd C3: Carlin Music Corp  Side A banded as one continuous piece.  Spelling inconsistencies (intentional or otherwise) appear on release: • title listed as Welcome To The Pleasuredome on front, spine and inner sleeve / The Pleasure Dome on labels; • track C1 listed as 'ferry (Go)' on inner sleeve / 'fury' on label. • track D1 listed as 'Krisco Kisses' on inner sleeve / 'Ḱrisco Ḱisses' on label. |
 | Discogs URL    | [Frankie Goes To Hollywood - Welcome To The Pleasuredome](https://www.discogs.com/release/73458-Frankie-Goes-To-Hollywood-Welcome-To-The-Pleasuredome) |

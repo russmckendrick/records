@@ -26,18 +26,18 @@ The re-released version of the album contains different versions of "Rim Shak" a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Big Star | 4:05 |
-| A2 | I See | 3:50 |
-| A3 | Rim Shak | 6:01 |
-| A4 | Wasted | 4:24 |
-| B1 | Get On With It | 4:17 |
-| B2 | Here & Now | 3:38 |
-| B3 | From Under The Dust | 3:26 |
-| B4 | Mellie's Comin' Over | 2:11 |
-| B5 | Come Around | 4:11 |
-| B6 | Step Back | 2:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Big Star |
+| A2 | I See |
+| A3 | Rim Shak |
+| A4 | Wasted |
+| B1 | Get On With It |
+| B2 | Here & Now |
+| B3 | From Under The Dust |
+| B4 | Mellie's Comin' Over |
+| B5 | Come Around |
+| B6 | Step Back |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ The re-released version of the album contains different versions of "Rim Shak" a
 | Format         | Vinyl LP Album Reissue (Purple Translucent) |
 | Label          | Dot Rat Records |
 | Catalog Number | DRR-101 |
-| Notes | Limited to 1000 copies<br><br>Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com<br>Booking: Larry Webman: lwebmn@paradigmagency.com<br><br>Reissues dedicated to Steve Baker RIP<br><br>Runouts etched except Bakery is stamped |
+| Notes | Limited to 1000 copies  Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com Booking: Larry Webman: lwebmn@paradigmagency.com  Reissues dedicated to Steve Baker RIP  Runouts etched except Bakery is stamped |
 | Discogs URL    | [Letters To Cleo - Aurora Gory Alice](https://www.discogs.com/release/11180733-Letters-To-Cleo-Aurora-Gory-Alice) |

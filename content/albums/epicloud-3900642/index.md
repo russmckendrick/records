@@ -85,35 +85,35 @@ Epicloud is the fifteenth studio album by Canadian musician Devin Townsend, and 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Effervescent! |  |
-| A2 | True North |  |
-| A3 | Lucky Animals (The New Beige) |  |
-| A4 | Liberation |  |
-| B1 | Where We Belong |  |
-| B2 | Save Our Now |  |
-| B3 | Kingdom |  |
-| C1 | Divine |  |
-| C2 | Grace |  |
-| C3 | More! |  |
-| C4 | Lessons |  |
-| D1 | Hold On |  |
-| D2 | Angel |  |
-| D3 | Epicloud |  |
-| CD-1 | Effervescent! | 0:43 |
-| CD-2 | True North | 3:53 |
-| CD-3 | Lucky Animals (The New Beige) | 3:21 |
-| CD-4 | Liberation | 3:20 |
-| CD-5 | Where We Belong | 4:33 |
-| CD-6 | Save Our Now | 4:01 |
-| CD-7 | Kingdom | 5:29 |
-| CD-8 | Divine | 3:17 |
-| CD-9 | Grace | 6:08 |
-| CD-10 | More! | 4:04 |
-| CD-11 | Lessons | 1:06 |
-| CD-12 | Hold On | 3:57 |
-| CD-13 | Angel | 6:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Effervescent! |
+| A2 | True North |
+| A3 | Lucky Animals (The New Beige) |
+| A4 | Liberation |
+| B1 | Where We Belong |
+| B2 | Save Our Now |
+| B3 | Kingdom |
+| C1 | Divine |
+| C2 | Grace |
+| C3 | More! |
+| C4 | Lessons |
+| D1 | Hold On |
+| D2 | Angel |
+| D3 | Epicloud |
+| CD-1 | Effervescent! |
+| CD-2 | True North |
+| CD-3 | Lucky Animals (The New Beige) |
+| CD-4 | Liberation |
+| CD-5 | Where We Belong |
+| CD-6 | Save Our Now |
+| CD-7 | Kingdom |
+| CD-8 | Divine |
+| CD-9 | Grace |
+| CD-10 | More! |
+| CD-11 | Lessons |
+| CD-12 | Hold On |
+| CD-13 | Angel |
 
 
 ## Apple Music
@@ -131,5 +131,5 @@ Epicloud is the fifteenth studio album by Canadian musician Devin Townsend, and 
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMSECD 364 |
-| Notes | This Epicloud album is packaged in gatefold with printed inner sleeves, lyrics, credits, photographs, and artwork.<br>Ltd 180g black double vinyl, plus one extra song, and album on compact disc in poly-sleeve <br>inserted in outer sleeve.<br><br>Mix tag teamed by Devin Townsend and Paul Silveira at The Armoury Studios, Vancouver BC Canada. <br>Drums recorded at Kingdom Studio, Perth Australia.  <br>Bass recorded at Strait Sound Studio.  <br>Saxophone and Trumpet by Graham Ord recorded by Ray Fulber at Strait Sound. <br>Choir and gang vocals recorded at The Armoury Studios, Engineered by Paul Silveira. <br>Worldwide Management by Andy Farrow for Northern Music Co. <br>North American booking by Joshua Dick for The Agency Group. <br>Worldwide booking by Jim Morewood for E.G.O. <br>All Music & Lyrics Written by Devin Townsend except 'Liberation' & 'Grace' by Townsend & VanPoederooyen. <br>'Save Our Now' was written based on a structure written by Rob Swire. <br>'Kingdom' originally appeared on the album [url=https://www.discogs.com/master/12703-Devin-Townsend-Physicist]'Physicist'[/url] by Devin Townsend. <br><br>All songs published by Element Music Publishing, except 'Liberation' & 'Grace'; Published by Element Music Publishing / AMF Music, Ltd and 'Kingdom'; Published by Bucket Of Nothing / SOCAN. <br><br>On back of gatefold to the right of barcode as printed: <br>www.insideoutmusic.com <br>℗ 2012 HevyDevy Records.<br>© 2012 HevyDevy Records.<br>Issued under exclusive license from HevyDevy Records to IsideOutMusic are a registered trademarks.<br>All rights reserved. <br>Unauthorized duplication is a violation of applicable laws.  <br>Made in Germany. <br><br>On printed inner sleeve for side C & D, as printed: <br>DevinTownsend.com<br>HevyDevy.com<br>www.omerch.com<br><br><br>There are no tracklist time durations physically printed anywhere.  <br><br>Track A3 / CD - 3 title indicated as Lucky Animals on back of gatefold and Lucky Animals (The New Beige) printed on inner sleeve for side A & B. <br><br>Poly-bag grey and white hype decal as printed;<br>LTD. 180G Gatefold - <br>2LP Vinyl Edition - <br>+ extra song<br>& album on CD <br><br>On tour with Fear Factory<br>from Oct 29 to Dec 17th 2012.<br> |
+| Notes | This Epicloud album is packaged in gatefold with printed inner sleeves, lyrics, credits, photographs, and artwork. Ltd 180g black double vinyl, plus one extra song, and album on compact disc in poly-sleeve  inserted in outer sleeve.  Mix tag teamed by Devin Townsend and Paul Silveira at The Armoury Studios, Vancouver BC Canada.  Drums recorded at Kingdom Studio, Perth Australia.   Bass recorded at Strait Sound Studio.   Saxophone and Trumpet by Graham Ord recorded by Ray Fulber at Strait Sound.  Choir and gang vocals recorded at The Armoury Studios, Engineered by Paul Silveira.  Worldwide Management by Andy Farrow for Northern Music Co.  North American booking by Joshua Dick for The Agency Group.  Worldwide booking by Jim Morewood for E.G.O.  All Music & Lyrics Written by Devin Townsend except 'Liberation' & 'Grace' by Townsend & VanPoederooyen.  'Save Our Now' was written based on a structure written by Rob Swire.  'Kingdom' originally appeared on the album [url=https://www.discogs.com/master/12703-Devin-Townsend-Physicist]'Physicist'[/url] by Devin Townsend.   All songs published by Element Music Publishing, except 'Liberation' & 'Grace'; Published by Element Music Publishing / AMF Music, Ltd and 'Kingdom'; Published by Bucket Of Nothing / SOCAN.   On back of gatefold to the right of barcode as printed:  www.insideoutmusic.com  ℗ 2012 HevyDevy Records. © 2012 HevyDevy Records. Issued under exclusive license from HevyDevy Records to IsideOutMusic are a registered trademarks. All rights reserved.  Unauthorized duplication is a violation of applicable laws.   Made in Germany.   On printed inner sleeve for side C & D, as printed:  DevinTownsend.com HevyDevy.com www.omerch.com   There are no tracklist time durations physically printed anywhere.    Track A3 / CD - 3 title indicated as Lucky Animals on back of gatefold and Lucky Animals (The New Beige) printed on inner sleeve for side A & B.   Poly-bag grey and white hype decal as printed; LTD. 180G Gatefold -  2LP Vinyl Edition -  + extra song & album on CD   On tour with Fear Factory from Oct 29 to Dec 17th 2012.  |
 | Discogs URL    | [Devin Townsend Project - Epicloud](https://www.discogs.com/release/3900642-Devin-Townsend-Project-Epicloud) |

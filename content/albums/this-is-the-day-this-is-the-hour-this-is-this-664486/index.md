@@ -32,22 +32,22 @@ The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | PWEI Is A Four Letter Word | 1:12 |
-| A2 | Preaching To The Perverted | 4:16 |
-| A3 | Wise Up! Sucker | 3:17 |
-| A4 | Sixteen Different Flavors Of Hell | 2:03 |
-| A5 | Inject Me | 4:31 |
-| A6 | Can U Dig It? | 4:32 |
-| A7 | The Fuses Have Been Lit | 4:02 |
-| B1 | Poison To The Mind | 0:58 |
-| B2 | Def.Con.One | 4:39 |
-| B3 | Radio PWEI | 4:17 |
-| B4 | Shortwave Transmission "Up To The Minuteman Nine" | 1:02 |
-| B5 | Satellite Ecstatica | 4:37 |
-| B6 | Not Now James, We're Busy | 3:08 |
-| B7 | Wake Up! Time To Die... | 7:21 |
+| Position | Title |
+|----------|--------|
+| A1 | PWEI Is A Four Letter Word |
+| A2 | Preaching To The Perverted |
+| A3 | Wise Up! Sucker |
+| A4 | Sixteen Different Flavors Of Hell |
+| A5 | Inject Me |
+| A6 | Can U Dig It? |
+| A7 | The Fuses Have Been Lit |
+| B1 | Poison To The Mind |
+| B2 | Def.Con.One |
+| B3 | Radio PWEI |
+| B4 | Shortwave Transmission "Up To The Minuteman Nine" |
+| B5 | Satellite Ecstatica |
+| B6 | Not Now James, We're Busy |
+| B7 | Wake Up! Time To Die... |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RCA |
 | Catalog Number | PL 74141 |
-| Notes | On the release, [a578564] is credited as - The Buzzard from "Yeah God"<br><br>℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd.<br>Original Sound Recording Made By BMG Records (UK) Ltd.<br><br>Distributed in the UK by BMG Records<br>Distribue en Europe par BMG-Ariola<br>Vertrieb in Europe durch BMG-Ariola<br> |
+| Notes | On the release, [a578564] is credited as - The Buzzard from "Yeah God"  ℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd. Original Sound Recording Made By BMG Records (UK) Ltd.  Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europe durch BMG-Ariola  |
 | Discogs URL    | [Pop Will Eat Itself - This Is The Day...This Is The Hour...This Is This!](https://www.discogs.com/release/664486-Pop-Will-Eat-Itself-This-Is-The-DayThis-Is-The-HourThis-Is-This) |

@@ -44,20 +44,20 @@ Imposter is the third collaborative studio album by English singer-songwriter Da
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Dark End Of The Street |  |
-| A2 | Strange Religion |  |
-| A3 | Lilac Wine |  |
-| A4 | I Held My Baby Last Night |  |
-| A5 | A Man Needs A Maid |  |
-| A6 | Metal Heart |  |
-| B1 | Shut Me Down |  |
-| B2 | Where My Love Lies Asleep |  |
-| B3 | Smile |  |
-| B4 | The Desperate Kingdom Of Love |  |
-| B5 | Not Dark Yet |  |
-| B6 | Always On My Mind |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Dark End Of The Street |
+| A2 | Strange Religion |
+| A3 | Lilac Wine |
+| A4 | I Held My Baby Last Night |
+| A5 | A Man Needs A Maid |
+| A6 | Metal Heart |
+| B1 | Shut Me Down |
+| B2 | Where My Love Lies Asleep |
+| B3 | Smile |
+| B4 | The Desperate Kingdom Of Love |
+| B5 | Not Dark Yet |
+| B6 | Always On My Mind |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Imposter is the third collaborative studio album by English singer-songwriter Da
 | Format         | Vinyl LP Album Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439925601 |
-| Notes | Mixed at Studio Zona (London)<br>Mastered at Abbey Road Studios (London)<br>Recorded at Shangri-La Studios (Malibu, CA)<br>Additional Recording at Wolf Cabin (Oxfordshire)<br>Pre-Production at Famous Times Studio (London)<br><br>© & ℗ 2021 JJSR Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment.<br>Made in the EU.<br><br>A1 published by Screen Gems-EMI Music Inc. (BMI)<br>A2 published by Heavenly Songs / Ripplestick Music (BMI)<br>A3 published by Chappell & Co. Inc. c/o Warner/Chappell Music Inc. (ASCAP)<br>A4 published by Universal Music - Careers (BMI) / EMI Longitude Music (BMI)<br>A5 published by Hipgnosis Side A o/b/o Broken Fiddle Music (ASCAP)<br>A6 published by Mattitude Music LLC c/o Hipgnosis International a div. of Big Deal Music LLC<br>B1 published by Mute Song Limited (PRS) <br>B2 published by Irving Music, Inc. (BMI)<br>B3 published by Bourne Co. (ASCAP)<br>B4 published by Hot Head Music Ltd., admin. by Kobalt Music Publishing (ASCAP) <br>B5 published by Special Rider Music (SESAC)<br>B6 published by Screen Gems-EMI Music Inc. (BMI) <br><br>All runouts stamped<br><br>Booklet 12 pages black and white. |
+| Notes | Mixed at Studio Zona (London) Mastered at Abbey Road Studios (London) Recorded at Shangri-La Studios (Malibu, CA) Additional Recording at Wolf Cabin (Oxfordshire) Pre-Production at Famous Times Studio (London)  © & ℗ 2021 JJSR Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment. Made in the EU.  A1 published by Screen Gems-EMI Music Inc. (BMI) A2 published by Heavenly Songs / Ripplestick Music (BMI) A3 published by Chappell & Co. Inc. c/o Warner/Chappell Music Inc. (ASCAP) A4 published by Universal Music - Careers (BMI) / EMI Longitude Music (BMI) A5 published by Hipgnosis Side A o/b/o Broken Fiddle Music (ASCAP) A6 published by Mattitude Music LLC c/o Hipgnosis International a div. of Big Deal Music LLC B1 published by Mute Song Limited (PRS)  B2 published by Irving Music, Inc. (BMI) B3 published by Bourne Co. (ASCAP) B4 published by Hot Head Music Ltd., admin. by Kobalt Music Publishing (ASCAP)  B5 published by Special Rider Music (SESAC) B6 published by Screen Gems-EMI Music Inc. (BMI)   All runouts stamped  Booklet 12 pages black and white. |
 | Discogs URL    | [Dave Gahan - Imposter](https://www.discogs.com/release/20922610-Dave-Gahan-Soulsavers-Imposter) |

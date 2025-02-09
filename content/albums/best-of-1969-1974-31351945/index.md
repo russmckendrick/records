@@ -27,27 +27,27 @@ styles: ["AOR", "Blues Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh Well (Part 1) | 3:22 |
-| A2 | Rattlesnake Shake | 3:29 |
-| A3 | The Green Manalishi (With The Two Prong Crown) | 4:37 |
-| A4 | Station Man | 5:52 |
-| A5 | Jewel Eyed Judy | 3:19 |
-| B1 | Tell Me All The Things You Do | 4:15 |
-| B2 | Future Games | 8:14 |
-| B3 | Sands Of Time (Single Version) | 3:03 |
-| B4 | Sunny Side Of Heaven | 3:11 |
-| C1 | Bare Trees | 5:05 |
-| C2 | Sentimental Lady | 4:36 |
-| C3 | Spare Me A Little Of Your Love | 3:48 |
-| C4 | Remember Me | 2:41 |
-| C5 | Did You Ever Love Me | 3:39 |
-| D1 | Emerald Eyes | 3:35 |
-| D2 | Hypnotized | 4:49 |
-| D3 | Heroes Are Hard To Find | 3:35 |
-| D4 | Angel | 3:55 |
-| D5 | Prove Your Love | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Oh Well (Part 1) |
+| A2 | Rattlesnake Shake |
+| A3 | The Green Manalishi (With The Two Prong Crown) |
+| A4 | Station Man |
+| A5 | Jewel Eyed Judy |
+| B1 | Tell Me All The Things You Do |
+| B2 | Future Games |
+| B3 | Sands Of Time (Single Version) |
+| B4 | Sunny Side Of Heaven |
+| C1 | Bare Trees |
+| C2 | Sentimental Lady |
+| C3 | Spare Me A Little Of Your Love |
+| C4 | Remember Me |
+| C5 | Did You Ever Love Me |
+| D1 | Emerald Eyes |
+| D2 | Hypnotized |
+| D3 | Heroes Are Hard To Find |
+| D4 | Angel |
+| D5 | Prove Your Love |
 
 
 ## Apple Music

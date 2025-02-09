@@ -36,19 +36,19 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jacqueline | 3:51 |
-| A2 | Tell Her Tonight | 2:20 |
-| A3 | Take Me Out | 3:59 |
-| A4 | The Dark Of The Matinée | 4:05 |
-| A5 | Auf Achse | 4:22 |
-| B1 | Cheating On You | 2:39 |
-| B2 | This Fire | 4:17 |
-| B3 | Darts Of Pleasure | 3:02 |
-| B4 | Michael | 3:23 |
-| B5 | Come On Home | 3:48 |
-| B6 | 40' | 3:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Jacqueline |
+| A2 | Tell Her Tonight |
+| A3 | Take Me Out |
+| A4 | The Dark Of The Matinée |
+| A5 | Auf Achse |
+| B1 | Cheating On You |
+| B2 | This Fire |
+| B3 | Darts Of Pleasure |
+| B4 | Michael |
+| B5 | Come On Home |
+| B6 | 40' |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange & Black Swirl) |
 | Label          | Domino |
 | Catalog Number | WIGLP136 |
-| Notes | Hype sticker:<br>Franz Ferdinand<br>The Debut Album<br>20th Anniversary<br>Limited Edition<br>Black & Orange Swirl Vinyl |
+| Notes | Hype sticker: Franz Ferdinand The Debut Album 20th Anniversary Limited Edition Black & Orange Swirl Vinyl |
 | Discogs URL    | [Franz Ferdinand - Franz Ferdinand](https://www.discogs.com/release/29697511-Franz-Ferdinand-Franz-Ferdinand) |

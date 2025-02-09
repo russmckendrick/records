@@ -42,18 +42,18 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Section 11 (A Long Day Continues / We Sound Amazed) | 8:32 |
-| A2 | Section 12 (Hold Me Now) | 4:30 |
-| B1 | Section 13 (Diamonds / Mild Devotion To Majesty) | 4:55 |
-| B2 | Section 14 (Two Thousand Places) | 5:19 |
-| B3 | Section 15 (Ensure Your Reservation) | 1:39 |
-| C1 | Section 16 (One Man Show) | 4:58 |
-| C2 | Section 17 (Suitcase Calling) | 8:48 |
-| D1 | Section 18 (Everything Starts At The Seam) | 1:54 |
-| D2 | Section 19 (When The Fool Becomes A King) | 10:38 |
-| D3 | Section 20 (Together We're Heavy) | 6:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Section 11 (A Long Day Continues / We Sound Amazed) |
+| A2 | Section 12 (Hold Me Now) |
+| B1 | Section 13 (Diamonds / Mild Devotion To Majesty) |
+| B2 | Section 14 (Two Thousand Places) |
+| B3 | Section 15 (Ensure Your Reservation) |
+| C1 | Section 16 (One Man Show) |
+| C2 | Section 17 (Suitcase Calling) |
+| D1 | Section 18 (Everything Starts At The Seam) |
+| D2 | Section 19 (When The Fool Becomes A King) |
+| D3 | Section 20 (Together We're Heavy) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Hollywood Records |
 | Catalog Number | 2061-62423-1 |
-| Notes | Cover has Disneyland Records logo on back, but no catalog number.<br><br>Release comes with 2-page booklet of liner notes and lyrics. |
+| Notes | Cover has Disneyland Records logo on back, but no catalog number.    Release comes with 2-page booklet of liner notes and lyrics. |
 | Discogs URL    | [The Polyphonic Spree - Together We're Heavy](https://www.discogs.com/release/5326625-The-Polyphonic-Spree-Together-Were-Heavy) |

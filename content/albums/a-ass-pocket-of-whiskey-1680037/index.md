@@ -32,18 +32,18 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Goin' Down South |  |
-| A2 | Boogie Chillen |  |
-| A3 | Poor Boy |  |
-| A4 | 2 Brothers |  |
-| A5 | Snake Drive |  |
-| A6 | Shake 'Em On Down |  |
-| B7 | The Criminal Inside Me |  |
-| B8 | Walkin' Blues |  |
-| B9 | Tojo Told Hitler |  |
-| B10 | Have You Ever Been Lonely? |  |
+| Position | Title |
+|----------|--------|
+| A1 | Goin' Down South |
+| A2 | Boogie Chillen |
+| A3 | Poor Boy |
+| A4 | 2 Brothers |
+| A5 | Snake Drive |
+| A6 | Shake 'Em On Down |
+| B7 | The Criminal Inside Me |
+| B8 | Walkin' Blues |
+| B9 | Tojo Told Hitler |
+| B10 | Have You Ever Been Lonely? |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 | Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1026-1 |
-| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.<br> <br>Released with different stickers on shrink and download code.<br>Tracks are listed sequentially on release.<br><br>©℗1996 Fat Possum Records, LLC.<br> <br>Printed on labels:<br>"All Rights Reserved All Wrongs Reversed" <br>"Made in the USA".<br><br>Runouts are etched. |
+| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   Released with different stickers on shrink and download code. Tracks are listed sequentially on release.  ©℗1996 Fat Possum Records, LLC.   Printed on labels: "All Rights Reserved All Wrongs Reversed"  "Made in the USA".  Runouts are etched. |
 | Discogs URL    | [RL Burnside - A Ass Pocket Of Whiskey](https://www.discogs.com/release/1680037-RL-Burnside-A-Ass-Pocket-Of-Whiskey) |

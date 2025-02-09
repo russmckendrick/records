@@ -34,19 +34,19 @@ The album features the band's second-highest charting single, "Black and White T
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Some Cities |  |
-| A2 | Black And White Town |  |
-| A3 | Almost Forgot Myself |  |
-| B1 | Snowden |  |
-| B2 | The Storm |  |
-| B3 | Walk In Fire |  |
-| C1 | One Of These Days |  |
-| C2 | Someday Soon |  |
-| C3 | Shadows Of Salford |  |
-| D1 | Sky Starts Falling |  |
-| D2 | Ambition |  |
+| Position | Title |
+|----------|--------|
+| A1 | Some Cities |
+| A2 | Black And White Town |
+| A3 | Almost Forgot Myself |
+| B1 | Snowden |
+| B2 | The Storm |
+| B3 | Walk In Fire |
+| C1 | One Of These Days |
+| C2 | Someday Soon |
+| C3 | Shadows Of Salford |
+| D1 | Sky Starts Falling |
+| D2 | Ambition |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album features the band's second-highest charting single, "Black and White T
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (White) |
 | Label          | Heavenly |
 | Catalog Number | 7748265 |
-| Notes | All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.<br><br>B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.<br><br>℗ 2004 [l26760]<br>© 2019 [l26760]<br><br>Non-gatefold (single) sleeve with insert.<br>Comes with a [l1052727] download coupon. |
+| Notes | All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.  B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.  ℗ 2004 [l26760] © 2019 [l26760]  Non-gatefold (single) sleeve with insert. Comes with a [l1052727] download coupon. |
 | Discogs URL    | [Doves - Some Cities](https://www.discogs.com/release/13701527-Doves-Some-Cities) |

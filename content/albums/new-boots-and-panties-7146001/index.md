@@ -39,18 +39,18 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wake Up And Make Love With Me | 4:21 |
-| A2 | Sweet Gene Vincent | 3:32 |
-| A3 | I'm Partial To Your Abracadabra | 3:12 |
-| A4 | My Old Man | 3:38 |
-| A5 | Billericay Dickie | 4:15 |
-| B1 | Clevor Trever | 4:53 |
-| B2 | If I Was With A Woman | 3:23 |
-| B3 | Blockheads | 3:30 |
-| B4 | Plaistow Patricia | 4:12 |
-| B5 | Blackmail Man | 2:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Wake Up And Make Love With Me |
+| A2 | Sweet Gene Vincent |
+| A3 | I'm Partial To Your Abracadabra |
+| A4 | My Old Man |
+| A5 | Billericay Dickie |
+| B1 | Clevor Trever |
+| B2 | If I Was With A Woman |
+| B3 | Blockheads |
+| B4 | Plaistow Patricia |
+| B5 | Blackmail Man |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC56 |
-| Notes | Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.<br><br>This record was not produced and recorded at The Workhouse in the Old Kent Road!!<br><br>Manufactured in the EU.<br> |
+| Notes | Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU.  |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/7146001-Ian-Dury-New-Boots-And-Panties) |

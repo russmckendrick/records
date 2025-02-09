@@ -30,20 +30,20 @@ styles: ["Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Do You Wanna Riot |  |
-| A2 | Kick Hard |  |
-| A3 | Big Bad World |  |
-| A4 | Kicking Up Dust |  |
-| A5 | Don't Pray For Me |  |
-| A6 | Radical Your Lover |  |
-| B1 | Broken Wings Of An Angel |  |
-| B2 | Bitter & Twisted |  |
-| B3 | Promises |  |
-| B4 | When I Get Out Of Here |  |
-| B5 | No Solution |  |
-| B6 | She's A Little Angel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Do You Wanna Riot |
+| A2 | Kick Hard |
+| A3 | Big Bad World |
+| A4 | Kicking Up Dust |
+| A5 | Don't Pray For Me |
+| A6 | Radical Your Lover |
+| B1 | Broken Wings Of An Angel |
+| B2 | Bitter & Twisted |
+| B3 | Promises |
+| B4 | When I Get Out Of Here |
+| B5 | No Solution |
+| B6 | She's A Little Angel |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Polydor |
 | Catalog Number | 843 469-1 |
-| Notes | With hype sticker on sleeve.<br>Includes black and white printed inner sleeve.<br><br>℗ 1989 Polydor Ltd. (UK)<br>℗ 1990 Polydor Ltd. (UK)<br>© 1990 Polydor Ltd. (UK) |
+| Notes | With hype sticker on sleeve. Includes black and white printed inner sleeve.  ℗ 1989 Polydor Ltd. (UK) ℗ 1990 Polydor Ltd. (UK) © 1990 Polydor Ltd. (UK) |
 | Discogs URL    | [Little Angels - Don't Prey For Me](https://www.discogs.com/release/2591341-Little-Angels-Dont-Prey-For-Me) |

@@ -34,24 +34,24 @@ styles: ["Soft Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Are You Blue Or Are You Blind? | 2:52 |
-| A2 | Bluetonic | 4:07 |
-| A3 | Slight Return | 3:23 |
-| A4 | Cut Some Rug | 4:35 |
-| B1 | Marblehead Johnson | 3:22 |
-| B2 | Solomon Bites The Worm | 3:06 |
-| B3 | If... | 5:12 |
-| B4 | Sleazy Bed Track | 4:36 |
-| C1 | 4-Day Weekend | 3:57 |
-| C2 | Keep The Home Fires Burning | 3:28 |
-| C3 | Autophilia | 5:00 |
-| C4 | Mudslide | 4:21 |
-| D1 | After Hours | 3:33 |
-| D2 | Freeze Dried Pop (Dumb It Up) | 2:26 |
-| D3 | Persuasion | 4:07 |
-| D4 | The Bluetones Big Score | 3:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Are You Blue Or Are You Blind? |
+| A2 | Bluetonic |
+| A3 | Slight Return |
+| A4 | Cut Some Rug |
+| B1 | Marblehead Johnson |
+| B2 | Solomon Bites The Worm |
+| B3 | If... |
+| B4 | Sleazy Bed Track |
+| C1 | 4-Day Weekend |
+| C2 | Keep The Home Fires Burning |
+| C3 | Autophilia |
+| C4 | Mudslide |
+| D1 | After Hours |
+| D2 | Freeze Dried Pop (Dumb It Up) |
+| D3 | Persuasion |
+| D4 | The Bluetones Big Score |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Soft Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue (Blue) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC421 |
-| Notes | Gatefold sleeve.<br>500 copies available on official web store include a 12x12" print signed by the band.<br>This compilation Ⓟ 2002 [l125796] © 2019 [l204812]. |
+| Notes | Gatefold sleeve. 500 copies available on official web store include a 12x12" print signed by the band. This compilation Ⓟ 2002 [l125796] © 2019 [l204812]. |
 | Discogs URL    | [The Bluetones - The Singles](https://www.discogs.com/release/13954056-The-Bluetones-The-Singles) |

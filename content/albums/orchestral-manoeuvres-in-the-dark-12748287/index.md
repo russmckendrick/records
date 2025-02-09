@@ -37,18 +37,18 @@ Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bunker Soldiers | 2:51 |
-| A2 | Almost | 3:40 |
-| A3 | Mystereality | 2:42 |
-| A4 | Electricity | 3:32 |
-| A5 | The Messerschmitt Twins | 5:38 |
-| B1 | Messages | 4:06 |
-| B2 | Julia's Song | 4:40 |
-| B3 | Red Frame / White Light | 3:11 |
-| B4 | Dancing | 2:59 |
-| B5 | Pretending To See The Future | 3:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Bunker Soldiers |
+| A2 | Almost |
+| A3 | Mystereality |
+| A4 | Electricity |
+| A5 | The Messerschmitt Twins |
+| B1 | Messages |
+| B2 | Julia's Song |
+| B3 | Red Frame / White Light |
+| B4 | Dancing |
+| B5 | Pretending To See The Future |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album 
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 602557050806 |
-| Notes | Half speed mastered at Abbey Road Studios.<br>Includes digital download card. |
+| Notes | Half speed mastered at Abbey Road Studios. Includes digital download card. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark](https://www.discogs.com/release/12748287-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark) |

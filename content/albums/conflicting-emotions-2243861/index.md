@@ -36,18 +36,18 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strait Old Line | 4:00 |
-| A2 | Bullet Brain And Cactus Head | 3:55 |
-| A3 | Message To My Girl | 4:02 |
-| A4 | Working Up An Appetite | 4:05 |
-| A5 | Our Day | 4:54 |
-| B1 | No Mischief | 4:14 |
-| B2 | The Devil You Know | 3:34 |
-| B3 | I Wake Up Every Night | 4:45 |
-| B4 | Conflicting Emotions | 4:31 |
-| B5 | Bon Voyage | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Strait Old Line |
+| A2 | Bullet Brain And Cactus Head |
+| A3 | Message To My Girl |
+| A4 | Working Up An Appetite |
+| A5 | Our Day |
+| B1 | No Mischief |
+| B2 | The Devil You Know |
+| B3 | I Wake Up Every Night |
+| B4 | Conflicting Emotions |
+| B5 | Bon Voyage |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLX 64963 |
-| Notes | Includes inner sleeve with lyrics and credits.<br><br>Some copies came with hype sticker <br>"featuring <br>TIM FINN <br>64963"<br><br>Made in Holland.<br><br>Similar to [r=13033729] but with both stampers from EDP |
+| Notes | Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP |
 | Discogs URL    | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |

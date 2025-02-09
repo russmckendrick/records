@@ -72,20 +72,20 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cognitive Dissident | 3:07 |
-| A2 | Some Days I Drink My Coffee By The Grave Of William Blake | 4:03 |
-| A3 | Zen & The Art Of Dating | 4:30 |
-| B4 | Kissing The Ring Of POTUS | 3:34 |
-| B5 | Life After Life | 3:12 |
-| B6 | I Want To Wake Up With You | 4:00 |
-| C7 | Down By The Frozen River | 3:34 |
-| C8 | Risin' Above The Need | 3:46 |
-| C9 | Linoleum Smooth To The Stockinged Foot | 3:54 |
-| D10 | Where Do We Go When We Die? | 4:03 |
-| D11 | I Hope You Remember (The Things I Can't Forget) | 3:38 |
-| D12 | A Rainy Day In May | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Cognitive Dissident |
+| A2 | Some Days I Drink My Coffee By The Grave Of William Blake |
+| A3 | Zen & The Art Of Dating |
+| B4 | Kissing The Ring Of POTUS |
+| B5 | Life After Life |
+| B6 | I Want To Wake Up With You |
+| C7 | Down By The Frozen River |
+| C8 | Risin' Above The Need |
+| C9 | Linoleum Smooth To The Stockinged Foot |
+| D10 | Where Do We Go When We Die? |
+| D11 | I Hope You Remember (The Things I Can't Forget) |
+| D12 | A Rainy Day In May |
 
 
 ## Apple Music
@@ -103,5 +103,5 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear) |
 | Label          | Ear Music |
 | Catalog Number | 0219535EMU |
-| Notes | Limited edition issued on crystal clear, 180g vinyl in a gatefold sleeve with a 32-page 10" x 10" full colour booklet with photos and lyrics, with die-cut, black paper inner sleeves, in stickered shrink wrap.<br>The barcode is covered with a barcode sticker.<br><br>The tracks are numbered sequentially on the release.<br><br>Recorded at Real World Studios, Corsham and Studio Cinoéola, London<br>Mixed at Studio Cinoéola, London<br>Additional editing / processing at The Command Centre, Toronto<br>Additional Engineering at Studio Cinéola, London<br>Assistant Engineering at Real World Studios, Corsham<br>Technical support at Grizzly Media<br><br>Tracks 2, 3, 5, 6, 8, 9, 10, 12 Published by Lazarus / Kobalt Music Group<br>Tracks 1, 11 Published by Lazarus / Kobalt Music Group - Bucks Music Group<br>Tracks 4, 7 Published by Lazarus / Kobalt Music Group - Black Dream Music<br><br>On sleeve:<br>℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. MADE IN GERMANY<br><br>On labels and booklet:<br>℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. Made in Germany by Optimal Media GmbH |
+| Notes | Limited edition issued on crystal clear, 180g vinyl in a gatefold sleeve with a 32-page 10" x 10" full colour booklet with photos and lyrics, with die-cut, black paper inner sleeves, in stickered shrink wrap. The barcode is covered with a barcode sticker.  The tracks are numbered sequentially on the release.  Recorded at Real World Studios, Corsham and Studio Cinoéola, London Mixed at Studio Cinoéola, London Additional editing / processing at The Command Centre, Toronto Additional Engineering at Studio Cinéola, London Assistant Engineering at Real World Studios, Corsham Technical support at Grizzly Media  Tracks 2, 3, 5, 6, 8, 9, 10, 12 Published by Lazarus / Kobalt Music Group Tracks 1, 11 Published by Lazarus / Kobalt Music Group - Bucks Music Group Tracks 4, 7 Published by Lazarus / Kobalt Music Group - Black Dream Music  On sleeve: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. MADE IN GERMANY  On labels and booklet: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. Made in Germany by Optimal Media GmbH |
 | Discogs URL    | [The The - Ensoulment](https://www.discogs.com/release/31668308-The-The-Ensoulment) |

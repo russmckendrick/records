@@ -35,19 +35,19 @@ Pink Moon, like Drake's previous studio albums, did not sell well during his lif
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pink Moon |  |
-| A2 | Place To Be |  |
-| A3 | Road |  |
-| A4 | Which Will |  |
-| A5 | Horn |  |
-| A6 | Things Behind The Sun |  |
-| B1 | Know |  |
-| B2 | Parasite |  |
-| B3 | Free Ride |  |
-| B4 | Harvest Breed |  |
-| B5 | From The Morning |  |
+| Position | Title |
+|----------|--------|
+| A1 | Pink Moon |
+| A2 | Place To Be |
+| A3 | Road |
+| A4 | Which Will |
+| A5 | Horn |
+| A6 | Things Behind The Sun |
+| B1 | Know |
+| B2 | Parasite |
+| B3 | Free Ride |
+| B4 | Harvest Breed |
+| B5 | From The Morning |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Pink Moon, like Drake's previous studio albums, did not sell well during his lif
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Island Records |
 | Catalog Number | 006025 17456976 |
-| Notes | Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl.<br>Issued with hype sticker on shrink wrap and download code.<br><br>Engineer: John Wood, Sound Techniques |
+| Notes | Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques |
 | Discogs URL    | [Nick Drake - Pink Moon](https://www.discogs.com/release/1890448-Nick-Drake-Pink-Moon) |

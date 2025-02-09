@@ -36,50 +36,50 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Oxygene Trilogy |  |
-| CD1-1 | Oxygene (Part 1) | 7:39 |
-| CD1-2 | Oxygene (Part 2) | 7:47 |
-| CD1-3 | Oxygene (Part 3) | 3:15 |
-| CD1-4 | Oxygene (Part 4) | 4:06 |
-| CD1-5 | Oxygene (Part 5) | 10:14 |
-| CD1-6 | Oxygene (Part 6) | 6:37 |
-| CD2-1 | Oxygene (Part 7) | 11:41 |
-| CD2-2 | Oxygene (Part 8) | 3:54 |
-| CD2-3 | Oxygene (Part 9) | 6:13 |
-| CD2-4 | Oxygene (Part 10) | 4:16 |
-| CD2-5 | Oxygene (Part 11) | 4:58 |
-| CD2-6 | Oxygene (Part 12) | 5:40 |
-| CD2-7 | Oxygene (Part 13) | 4:25 |
-| CD3-1 | Oxygene (Part 14) | 5:27 |
-| CD3-2 | Oxygene (Part 15) | 6:40 |
-| CD3-3 | Oxygene (Part 16) | 6:50 |
-| CD3-4 | Oxygene (Part 17) | 4:20 |
-| CD3-5 | Oxygene (Part 18) | 2:48 |
-| CD3-6 | Oxygene (Part 19) | 5:45 |
-| CD3-7 | Oxygene (Part 20) | 7:59 |
-|  | Oxygene Trilogy |  |
-| A1 | Oxygene (Part 1) |  |
-| A2 | Oxygene (Part 2) |  |
-| A3 | Oxygene (Part 3) |  |
-| B1 | Oxygene (Part 4) |  |
-| B2 | Oxygene (Part 5) |  |
-| B3 | Oxygene (Part 6) |  |
-| C1 | Oxygene (Part 7) |  |
-| C2 | Oxygene (Part 8) |  |
-| C3 | Oxygene (Part 9) |  |
-| D1 | Oxygene (Part 10) |  |
-| D2 | Oxygene (Part 11) |  |
-| D3 | Oxygene (Part 12) |  |
-| D4 | Oxygene (Part 13) |  |
-| E1 | Oxygene (Part 14) |  |
-| E2 | Oxygene (Part 15) |  |
-| E3 | Oxygene (Part 16) |  |
-| F1 | Oxygene (Part 17) |  |
-| F2 | Oxygene (Part 18) |  |
-| F3 | Oxygene (Part 19) |  |
-| F4 | Oxygene (Part 20) |  |
+| Position | Title |
+|----------|--------|
+|  | Oxygene Trilogy |
+| CD1-1 | Oxygene (Part 1) |
+| CD1-2 | Oxygene (Part 2) |
+| CD1-3 | Oxygene (Part 3) |
+| CD1-4 | Oxygene (Part 4) |
+| CD1-5 | Oxygene (Part 5) |
+| CD1-6 | Oxygene (Part 6) |
+| CD2-1 | Oxygene (Part 7) |
+| CD2-2 | Oxygene (Part 8) |
+| CD2-3 | Oxygene (Part 9) |
+| CD2-4 | Oxygene (Part 10) |
+| CD2-5 | Oxygene (Part 11) |
+| CD2-6 | Oxygene (Part 12) |
+| CD2-7 | Oxygene (Part 13) |
+| CD3-1 | Oxygene (Part 14) |
+| CD3-2 | Oxygene (Part 15) |
+| CD3-3 | Oxygene (Part 16) |
+| CD3-4 | Oxygene (Part 17) |
+| CD3-5 | Oxygene (Part 18) |
+| CD3-6 | Oxygene (Part 19) |
+| CD3-7 | Oxygene (Part 20) |
+|  | Oxygene Trilogy |
+| A1 | Oxygene (Part 1) |
+| A2 | Oxygene (Part 2) |
+| A3 | Oxygene (Part 3) |
+| B1 | Oxygene (Part 4) |
+| B2 | Oxygene (Part 5) |
+| B3 | Oxygene (Part 6) |
+| C1 | Oxygene (Part 7) |
+| C2 | Oxygene (Part 8) |
+| C3 | Oxygene (Part 9) |
+| D1 | Oxygene (Part 10) |
+| D2 | Oxygene (Part 11) |
+| D3 | Oxygene (Part 12) |
+| D4 | Oxygene (Part 13) |
+| E1 | Oxygene (Part 14) |
+| E2 | Oxygene (Part 15) |
+| E3 | Oxygene (Part 16) |
+| F1 | Oxygene (Part 17) |
+| F2 | Oxygene (Part 18) |
+| F3 | Oxygene (Part 19) |
+| F4 | Oxygene (Part 20) |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ styles: ["Synth-pop"]
 | Format         | Box Set Compilation Deluxe Edition Limited Edition (40th Anniversary Edition), CD Album Reissue, CD Album Reissue, CD Album, Vinyl LP Album Reissue (Transparent), Vinyl LP Album Reissue (Transparent), Vinyl LP Album (Transparent) |
 | Label          | Sony Music |
 | Catalog Number | 88985361872 |
-| Notes | Limited edition including a 12"x12" lithograph signed by Jean-Michel Jarre – available for a limited period of time exclusively on his web shop.<br><br>Made in the EU.<br>Includes coffee table book.<br>Track times not listed for any media.  Those for the CDs taken from a CD player. |
+| Notes | Limited edition including a 12"x12" lithograph signed by Jean-Michel Jarre – available for a limited period of time exclusively on his web shop.  Made in the EU. Includes coffee table book. Track times not listed for any media.  Those for the CDs taken from a CD player. |
 | Discogs URL    | [Jean-Michel Jarre - Oxygene Trilogy](https://www.discogs.com/release/9520607-Jean-Michel-Jarre-Oxygene-Trilogy) |

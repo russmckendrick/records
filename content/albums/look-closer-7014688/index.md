@@ -27,19 +27,19 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Look Closer (Can't You See The Signs?) |  |
-| A2 | Hot Shot |  |
-| A3 | Gonna Make Time |  |
-| A4 | Sunshine (You're Blowin My Cool) |  |
-| A5 | If Only |  |
-| B1 | Another Love Like Mine |  |
-| B2 | Big Wheel |  |
-| B3 | Your Face Before My Eyes |  |
-| B4 | Dear Mr. Teddy |  |
-| B5 | In The Night |  |
-| B6 | Blah Blah Blah Blah Blah Blah Blah  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Look Closer (Can't You See The Signs?) |
+| A2 | Hot Shot |
+| A3 | Gonna Make Time |
+| A4 | Sunshine (You're Blowin My Cool) |
+| A5 | If Only |
+| B1 | Another Love Like Mine |
+| B2 | Big Wheel |
+| B3 | Your Face Before My Eyes |
+| B4 | Dear Mr. Teddy |
+| B5 | In The Night |
+| B6 | Blah Blah Blah Blah Blah Blah Blah  |
 
 
 ## Apple Music

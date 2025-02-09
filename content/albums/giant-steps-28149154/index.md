@@ -28,27 +28,27 @@ Giant Steps is the third studio album by the Boo Radleys, released in 1993. The 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Hang Suspended |  |
-| A2 | Upon 9th & Fairchild |  |
-| A3 | Wish I Was Skinny |  |
-| A4 | Leaves And Sand |  |
-| B1 | Butterfly McQueen |  |
-| B2 | Rodney King (Song For Lenny Bruce) |  |
-| B3 | Thinking Of Ways |  |
-| B4 | Barney (...And Me) |  |
-| C1 | Spun Around |  |
-| C2 | If You Want It, Take It |  |
-| C3 | Best Lose The Fear |  |
-| C4 | Take The Time Around |  |
-| C5 | Lazarus |  |
-| D1 | One Is For |  |
-| D2 | Run My Way Runway |  |
-| D3 | I've Lost The Reason |  |
-| D4 | The White Noise Revisited |  |
-| E | Lazarus (Saint Etienne Remix) |  |
-| F | Rodney King (Saint Etienne Remix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Hang Suspended |
+| A2 | Upon 9th & Fairchild |
+| A3 | Wish I Was Skinny |
+| A4 | Leaves And Sand |
+| B1 | Butterfly McQueen |
+| B2 | Rodney King (Song For Lenny Bruce) |
+| B3 | Thinking Of Ways |
+| B4 | Barney (...And Me) |
+| C1 | Spun Around |
+| C2 | If You Want It, Take It |
+| C3 | Best Lose The Fear |
+| C4 | Take The Time Around |
+| C5 | Lazarus |
+| D1 | One Is For |
+| D2 | Run My Way Runway |
+| D3 | I've Lost The Reason |
+| D4 | The White Noise Revisited |
+| E | Lazarus (Saint Etienne Remix) |
+| F | Rodney King (Saint Etienne Remix) |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Giant Steps is the third studio album by the Boo Radleys, released in 1993. The 
 | Format         | Vinyl LP (Orange), Vinyl LP (Purple), Vinyl 10" 45 RPM (Exclusive), All Media Album Limited Edition Reissue Remastered |
 | Label          | Two Piers |
 | Catalog Number | BN7LPX |
-| Notes | 30th Anniversary Reissue<br>Recorded at First Protocol Studios, London, February & March 1993<br><br>Exclusive black vinyl 10" featuring two Saint Etienne remixes in this format<br><br>Copies ordered from the band's website came with a limited enamel pin.<br><br>Sleeve note: Originally released 1993 Creation Records Ltd.<br> |
+| Notes | 30th Anniversary Reissue Recorded at First Protocol Studios, London, February & March 1993  Exclusive black vinyl 10" featuring two Saint Etienne remixes in this format  Copies ordered from the band's website came with a limited enamel pin.  Sleeve note: Originally released 1993 Creation Records Ltd.  |
 | Discogs URL    | [The Boo Radleys - Giant Steps](https://www.discogs.com/release/28149154-The-Boo-Radleys-Giant-Steps) |

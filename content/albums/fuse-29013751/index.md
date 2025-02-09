@@ -29,18 +29,18 @@ Fuse is the eleventh studio album by British duo Everything but the Girl, releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nothing Left To Lose | 3:46 |
-| A2 | Run A Red Light | 3:49 |
-| A3 | Caution To The Wind | 4:07 |
-| A4 | When You Mess Up | 3:48 |
-| A5 | Time And Time Again | 2:52 |
-| B1 | No One Knows We’re Dancing | 4:09 |
-| B2 | Lost | 3:25 |
-| B3 | Forever | 3:41 |
-| B4 | Interior Space | 2:24 |
-| B5 | Karaoke | 3:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Nothing Left To Lose |
+| A2 | Run A Red Light |
+| A3 | Caution To The Wind |
+| A4 | When You Mess Up |
+| A5 | Time And Time Again |
+| B1 | No One Knows We’re Dancing |
+| B2 | Lost |
+| B3 | Forever |
+| B4 | Interior Space |
+| B5 | Karaoke |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Fuse is the eleventh studio album by British duo Everything but the Girl, releas
 | Format         | Vinyl LP Album Limited Edition Reissue |
 | Label          | [{'name': "Buzzin' Fly Records", 'catno': ''}] |
 | Catalog Number | EBTG015VRX |
-| Notes | Rough Trade exclusive 2023 albums of the year edition on transparent pink vinyl with purple splatter. Limited to 1000 copies.<br><br><br> |
+| Notes | Rough Trade exclusive 2023 albums of the year edition on transparent pink vinyl with purple splatter. Limited to 1000 copies.    |
 | Discogs URL    | [Everything But The Girl - Fuse](https://www.discogs.com/release/29013751-Everything-But-The-Girl-Fuse) |

@@ -38,24 +38,24 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Psycho Killer | 3:44 |
-| A2 | Heaven | 4:17 |
-| A3 | Thank You for Sending Me an Angel | 3:08 |
-| A4 | Found a Job | 4:12 |
-| B5 | Slippery People | 5:40 |
-| B6 | Burning Down the House | 3:38 |
-| B7 | Life During Wartime | 4:24 |
-| C8 | Making Flippy Floppy | 5:53 |
-| C9 | Swamp | 3:20 |
-| C10 | What a Day That Was | 4:30 |
-| C11 | This Must Be the Place (Naive Melody) | 4:31 |
-| C12 | Once in a Lifetime | 2:38 |
-| D13 | Genius of Love | 3:25 |
-| D14 | Girlfriend Is Better | 3:05 |
-| D15 | Take Me to the River | 4:24 |
-| D16 | Crosseyed and Painless | 5:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Psycho Killer |
+| A2 | Heaven |
+| A3 | Thank You for Sending Me an Angel |
+| A4 | Found a Job |
+| B5 | Slippery People |
+| B6 | Burning Down the House |
+| B7 | Life During Wartime |
+| C8 | Making Flippy Floppy |
+| C9 | Swamp |
+| C10 | What a Day That Was |
+| C11 | This Must Be the Place (Naive Melody) |
+| C12 | Once in a Lifetime |
+| D13 | Genius of Love |
+| D14 | Girlfriend Is Better |
+| D15 | Take Me to the River |
+| D16 | Crosseyed and Painless |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver with Red Splatter (This Must Be The Grey)) |
 | Label          | A24 Music |
 | Catalog Number | A24M026 |
-| Notes | A tribute to Talking Head's "Stop Making Sense"<br><br>Tracks are numbered sequentially across sides <br><br>Rough Trade Exclusive Limited to 700 copies<br> |
+| Notes | A tribute to Talking Head's "Stop Making Sense"  Tracks are numbered sequentially across sides   Rough Trade Exclusive Limited to 700 copies  |
 | Discogs URL    | [Various - Everyone’s Getting Involved: A Tribute To Talking Heads’ Stop Making Sense](https://www.discogs.com/release/31314999-Various-Everyones-Getting-Involved-A-Tribute-To-Talking-Heads-Stop-Making-Sense) |

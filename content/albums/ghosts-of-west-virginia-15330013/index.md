@@ -35,18 +35,18 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heaven Ain't Goin' Nowhere | 1:39 |
-| A2 | Union, God And Country | 2:23 |
-| A3 | Devil Put The Coal In The Ground | 2:54 |
-| A4 | John Henry Was A Steel Drivin' Man | 3:28 |
-| A5 | Time Is Never On Our Side | 2:55 |
-| B1 | It's About Blood | 4:34 |
-| B2 | If I Could See Your Face Again | 2:57 |
-| B3 | Black Lung | 3:20 |
-| B4 | Fastest Man Alive | 2:51 |
-| B5 | The Mine | 2:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Heaven Ain't Goin' Nowhere |
+| A2 | Union, God And Country |
+| A3 | Devil Put The Coal In The Ground |
+| A4 | John Henry Was A Steel Drivin' Man |
+| A5 | Time Is Never On Our Side |
+| B1 | It's About Blood |
+| B2 | If I Could See Your Face Again |
+| B3 | Black Lung |
+| B4 | Fastest Man Alive |
+| B5 | The Mine |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 | Format         | Vinyl LP Album Limited Edition Mono (Blue & Gold West Virginia) |
 | Label          | New West Records |
 | Catalog Number | NW5397 |
-| Notes | Indie "blue and gold" limited edition pressing.<br><br>Includes 4-page printed insert containing photographs, lyrics and credits.<br><br>Some copies included a turntable slip mat containing the album cover artwork.<br> |
+| Notes | Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork.  |
 | Discogs URL    | [Steve Earle  The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |

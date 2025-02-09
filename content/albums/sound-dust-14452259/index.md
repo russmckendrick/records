@@ -31,28 +31,28 @@ The song "Nothing to Do with Me" features lyrics derived from English satirist C
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Ants In Sound Dust | 1:57 |
-| A2 | Space Moth | 7:35 |
-| A3 | Captain Easychord | 5:29 |
-| B1 | Baby Lulu | 5:13 |
-| B2 | The Black Arts | 5:12 |
-| B3 | Hallucinex | 3:52 |
-| C1 | Double Rocker | 5:38 |
-| C2 | Gus The Mynah Bird | 9:05 |
-| C3 | Naught More Terrific Than Man | 4:07 |
-| D1 | Nothing To Do With Me | 3:38 |
-| D2 | Suggestion Diabolique | 7:53 |
-| D3 | Les Bons Bons Des Raisons | 6:44 |
-| E1 | Black Ants Demo | 1:43 |
-| E2 | Spacemoth Intro Demo | 0:33 |
-| E3 | Spacemoth Demo | 3:44 |
-| E4 | Baby Lulu Demo | 3:19 |
-| E5 | Hallucinex Pt 1 Demo | 2:07 |
-| E6 | Hallucinex Pt 2 Demo | 0:51 |
-| E7 | Long Live Love Demo | 2:18 |
-| E8 | Les Bon Bons Des Raisons Demo | 3:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Ants In Sound Dust |
+| A2 | Space Moth |
+| A3 | Captain Easychord |
+| B1 | Baby Lulu |
+| B2 | The Black Arts |
+| B3 | Hallucinex |
+| C1 | Double Rocker |
+| C2 | Gus The Mynah Bird |
+| C3 | Naught More Terrific Than Man |
+| D1 | Nothing To Do With Me |
+| D2 | Suggestion Diabolique |
+| D3 | Les Bons Bons Des Raisons |
+| E1 | Black Ants Demo |
+| E2 | Spacemoth Intro Demo |
+| E3 | Spacemoth Demo |
+| E4 | Baby Lulu Demo |
+| E5 | Hallucinex Pt 1 Demo |
+| E6 | Hallucinex Pt 2 Demo |
+| E7 | Long Live Love Demo |
+| E8 | Les Bon Bons Des Raisons Demo |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The song "Nothing to Do with Me" features lyrics derived from English satirist C
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP Single Sided Etched, All Media Limited Edition Numbered (Clear, Gatefold, Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | D-UHF-D27RC |
-| Notes | Ⓟ 2001 Duophonic Ultra High Frequency Disks<br>© 2019 Warp Records<br><br>Cat#:<br>D-UHF-D27RC stickered on PVC front and back<br>D-UHF-D27R printed on cover |
+| Notes | Ⓟ 2001 Duophonic Ultra High Frequency Disks © 2019 Warp Records  Cat#: D-UHF-D27RC stickered on PVC front and back D-UHF-D27R printed on cover |
 | Discogs URL    | [Stereolab - Sound-Dust](https://www.discogs.com/release/14452259-Stereolab-Sound-Dust) |

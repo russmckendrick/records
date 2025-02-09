@@ -36,21 +36,21 @@ The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Satan Is My Motor | 3:12 |
-| A2 | Mexico | 3:26 |
-| A3 | Never There | 2:44 |
-| A4 | Guitar | 3:40 |
-| A5 | You Turn The Screws | 4:00 |
-| A6 | Walk On By | 3:46 |
-| A7 | Sheep Go To Heaven | 3:48 |
-| B8 | When You Sleep | 3:58 |
-| B9 | Hem Of Your Garment | 3:35 |
-| B10 | Alpha Beta Parking Lot | 3:30 |
-| B11 | Let Me Go | 3:29 |
-| B12 | Cool Blue Reason | 3:27 |
-| B13 | Where Would I Be? | 3:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Satan Is My Motor |
+| A2 | Mexico |
+| A3 | Never There |
+| A4 | Guitar |
+| A5 | You Turn The Screws |
+| A6 | Walk On By |
+| A7 | Sheep Go To Heaven |
+| B8 | When You Sleep |
+| B9 | Hem Of Your Garment |
+| B10 | Alpha Beta Parking Lot |
+| B11 | Let Me Go |
+| B12 | Cool Blue Reason |
+| B13 | Where Would I Be? |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Baby Blue, 140 Gr.) |
 | Label          | Sony Music |
 | Catalog Number | 19658714061 |
-| Notes | Cake Webstore Exclusive<br>Tracks listed sequentially.<br><br>No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1. <br>[Weight not mentioned, denoted as on Cake Website] |
+| Notes | Cake Webstore Exclusive Tracks listed sequentially.  No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1.  [Weight not mentioned, denoted as on Cake Website] |
 | Discogs URL    | [Cake - Prolonging The Magic](https://www.discogs.com/release/26375354-Cake-Prolonging-The-Magic) |

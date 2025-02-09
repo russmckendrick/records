@@ -34,18 +34,18 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Praying For Time | 4:41 |
-| A2 | Freedom 90 | 6:30 |
-| A3 | They Won't Go When I Go | 5:06 |
-| A4 | Something To Save | 3:18 |
-| A5 | Cowboys And Angels | 7:14 |
-| B1 | Waiting For That Day | 4:49 |
-| B2 | Mothers Pride | 3:59 |
-| B3 | Heal The Pain | 4:39 |
-| B4 | Soul Free | 5:30 |
-| B5 | Waiting (Reprise) | 2:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Praying For Time |
+| A2 | Freedom 90 |
+| A3 | They Won't Go When I Go |
+| A4 | Something To Save |
+| A5 | Cowboys And Angels |
+| B1 | Waiting For That Day |
+| B2 | Mothers Pride |
+| B3 | Heal The Pain |
+| B4 | Soul Free |
+| B5 | Waiting (Reprise) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Epic |
 | Catalog Number | 88875145271 |
-| Notes | Hype Sticker Reads: George Michael Listen Without Prejudice<br>Features Praying For Time Freedom '90 Waiting For That Day Cowboys And Angels<br><br>The release has been delayed from being officially released a number of times, with release dates given as follows:<br>11 November 2016<br>3 March 2017 (Following George Michael's sudden death on Christmas Day 2016)<br>May 2017 <br>20th October 2017 (current and actual official release date)<br><br>A number of copies are known to have been mistakenly available despite the cancelling of release dates.<br><br>Including MP3 download code. |
+| Notes | Hype Sticker Reads: George Michael Listen Without Prejudice Features Praying For Time Freedom '90 Waiting For That Day Cowboys And Angels  The release has been delayed from being officially released a number of times, with release dates given as follows: 11 November 2016 3 March 2017 (Following George Michael's sudden death on Christmas Day 2016) May 2017  20th October 2017 (current and actual official release date)  A number of copies are known to have been mistakenly available despite the cancelling of release dates.  Including MP3 download code. |
 | Discogs URL    | [George Michael - Listen Without Prejudice Vol. 1](https://www.discogs.com/release/9939004-George-Michael-Listen-Without-Prejudice-Vol-1) |

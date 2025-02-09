@@ -36,20 +36,20 @@ A slightly modified version of Life was released in North America. It dropped th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Real Thing |  |
-| A2 | Song For A Family |  |
-| A3 | This Is How It Feels |  |
-| A4  | Directing Traffic |  |
-| A5 | Besides Me |  |
-| A6 | Manny Happy Returns |  |
-| B1 | Memories Of You |  |
-| B2 | She Comes In The Fall |  |
-| B3 | Monkey On My Back |  |
-| B4 | Sun Don't Shine |  |
-| B5 | Inside My Head |  |
-| B6 | Sackville |  |
+| Position | Title |
+|----------|--------|
+| A1 | Real Thing |
+| A2 | Song For A Family |
+| A3 | This Is How It Feels |
+| A4  | Directing Traffic |
+| A5 | Besides Me |
+| A6 | Manny Happy Returns |
+| B1 | Memories Of You |
+| B2 | She Comes In The Fall |
+| B3 | Monkey On My Back |
+| B4 | Sun Don't Shine |
+| B5 | Inside My Head |
+| B6 | Sackville |
 
 
 ## Apple Music

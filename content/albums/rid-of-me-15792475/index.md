@@ -35,22 +35,22 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rid Of Me | 4:28 |
-| A2 | Missed | 4:25 |
-| A3 | Legs | 3:40 |
-| A4 | Rub 'Til It Bleeds | 5:03 |
-| A5 | Hook | 3:56 |
-| A6 | Man-Size Sextet | 2:16 |
-| B1 | Highway '61 Revisited | 2:57 |
-| B2 | 50Ft Queenie | 2:23 |
-| B3 | Yuri-G | 3:28 |
-| B4 | Man-Size | 3:16 |
-| B5 | Dry | 3:23 |
-| B6 | Me-Jane | 2:42 |
-| B7 | Snake | 1:35 |
-| B8 | Ecstasy | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Rid Of Me |
+| A2 | Missed |
+| A3 | Legs |
+| A4 | Rub 'Til It Bleeds |
+| A5 | Hook |
+| A6 | Man-Size Sextet |
+| B1 | Highway '61 Revisited |
+| B2 | 50Ft Queenie |
+| B3 | Yuri-G |
+| B4 | Man-Size |
+| B5 | Dry |
+| B6 | Me-Jane |
+| B7 | Snake |
+| B8 | Ecstasy |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0851112 |
-| Notes | Hype sticker, catalog number 0851112, affixed to shrinkwrap on some copies:<br>Re-issue of the original 1993 album Rid Of Me, featuring the singles 50ft Queenie and Man-Size<br>Pressed on 180gsm vinyl<br>Includes download card<br><br>Issued on blue Island labels with yellow logo.<br>Issued with a printed inner sleeve.<br><br>First catalog # (0851112) on jacket spine, labels, inner sleeve.<br>Second catalog # (00602508511127) on jacket back, label rimtext.<br><br>Track A4 on label: "Rub 'Till It Bleeds"<br>Track B2 on label: "50 Ft Queenie"<br><br>An Island Records Release.<br>℗1993 Universal Music Operations Ltd.<br>©1993 Universal Music Operations Ltd. <br>A Universal Music Company.<br>Universal International Music. B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. <br>Made in Germany<br><br>Vinyl cutting [...] at Chicago Mastering Service.<br><br>Tracks A1 to A6, B2 to B8 published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP).<br>Track B1 published by Special Rider Music.<br><br>Some copies include download card, in 16bit / 44.1KHz WAV format. |
+| Notes | Hype sticker, catalog number 0851112, affixed to shrinkwrap on some copies: Re-issue of the original 1993 album Rid Of Me, featuring the singles 50ft Queenie and Man-Size Pressed on 180gsm vinyl Includes download card  Issued on blue Island labels with yellow logo. Issued with a printed inner sleeve.  First catalog # (0851112) on jacket spine, labels, inner sleeve. Second catalog # (00602508511127) on jacket back, label rimtext.  Track A4 on label: "Rub 'Till It Bleeds" Track B2 on label: "50 Ft Queenie"  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd.  A Universal Music Company. Universal International Music. B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.  Made in Germany  Vinyl cutting [...] at Chicago Mastering Service.  Tracks A1 to A6, B2 to B8 published by Hot Head Music Limited (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP). Track B1 published by Special Rider Music.  Some copies include download card, in 16bit / 44.1KHz WAV format. |
 | Discogs URL    | [PJ Harvey - Rid Of Me](https://www.discogs.com/release/15792475-P-J-Harvey-Rid-Of-Me) |

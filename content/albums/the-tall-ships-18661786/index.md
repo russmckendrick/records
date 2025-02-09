@@ -29,32 +29,32 @@ The Tall Ships was released in 2008, nineteen years after the release of the ban
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh My God |  |
-| A2 | Ghosts |  |
-| A3 | Playground |  |
-| B1 | Memory Of Water |  |
-| B2 | The Tall Ships |  |
-| B3 | The Wind That Shakes The Barley |  |
-| C1 | Great Disasters |  |
-| C2 | Fahrenheit |  |
-| C3 | For Safekeeping |  |
-| D1 | Lights |  |
-| D2 | This Is England |  |
-| CD1 | Oh My God |  |
-| CD2 | Ghosts |  |
-| CD3 | Playground |  |
-| CD4 | Memory Of Water |  |
-| CD5 | The Tall Ships |  |
-| CD6 | The Wind That Shakes The Barley |  |
-| CD7 | Great Disasters |  |
-| CD8 | Fahrenheit |  |
-| CD9 | For Safekeeping |  |
-| CD10 | Lights |  |
-| CD11 | This Is England |  |
-| CD12 | These Words (Bonus Track) |  |
-| CD13 | When I Fall (Bonus Track) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Oh My God |
+| A2 | Ghosts |
+| A3 | Playground |
+| B1 | Memory Of Water |
+| B2 | The Tall Ships |
+| B3 | The Wind That Shakes The Barley |
+| C1 | Great Disasters |
+| C2 | Fahrenheit |
+| C3 | For Safekeeping |
+| D1 | Lights |
+| D2 | This Is England |
+| CD1 | Oh My God |
+| CD2 | Ghosts |
+| CD3 | Playground |
+| CD4 | Memory Of Water |
+| CD5 | The Tall Ships |
+| CD6 | The Wind That Shakes The Barley |
+| CD7 | Great Disasters |
+| CD8 | Fahrenheit |
+| CD9 | For Safekeeping |
+| CD10 | Lights |
+| CD11 | This Is England |
+| CD12 | These Words (Bonus Track) |
+| CD13 | When I Fall (Bonus Track) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The Tall Ships was released in 2008, nineteen years after the release of the ban
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered, CD Album Remastered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 584 |
-| Notes | Gatefold 2LP + CD + LP-Booklet.<br>The fourth studio album from It Bites available on vinyl for the very first time.<br>Newly remastered and featuring expanded liner notes on the making of the album.<br>Black vinyl.<br><br>*The CD features two bonus tracks.  |
+| Notes | Gatefold 2LP + CD + LP-Booklet. The fourth studio album from It Bites available on vinyl for the very first time. Newly remastered and featuring expanded liner notes on the making of the album. Black vinyl.  *The CD features two bonus tracks.  |
 | Discogs URL    | [It Bites - The Tall Ships](https://www.discogs.com/release/18661786-It-Bites-The-Tall-Ships) |

@@ -34,20 +34,20 @@ The band toured extensively to support the record, performing to over 1.7 millio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Joyride |  |
-| A2 | Hotblooded |  |
-| A3 | Fading Like A Flower (Every Time You Leave) |  |
-| A4 | Knockin' On Every Door |  |
-| A5 | Spending My Time |  |
-| A6 | Watercolours In The Rain |  |
-| B1 | The Big L. |  |
-| B2 | (Do You Get) Excited? |  |
-| B3 | Small Talk |  |
-| B4 | Physical Fascination |  |
-| B5 | Things Will Never Be The Same |  |
-| B6 | Perfect Day |  |
+| Position | Title |
+|----------|--------|
+| A1 | Joyride |
+| A2 | Hotblooded |
+| A3 | Fading Like A Flower (Every Time You Leave) |
+| A4 | Knockin' On Every Door |
+| A5 | Spending My Time |
+| A6 | Watercolours In The Rain |
+| B1 | The Big L. |
+| B2 | (Do You Get) Excited? |
+| B3 | Small Talk |
+| B4 | Physical Fascination |
+| B5 | Things Will Never Be The Same |
+| B6 | Perfect Day |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The band toured extensively to support the record, performing to over 1.7 millio
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | EMD 1019 |
-| Notes | Printed inner sleeve with photo, lyrics and credits.<br><br>Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is)<br><br>The runouts are stamped.<br> |
+| Notes | Printed inner sleeve with photo, lyrics and credits.  Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is)  The runouts are stamped.  |
 | Discogs URL    | [Roxette - Joyride](https://www.discogs.com/release/3178939-Roxette-Joyride) |

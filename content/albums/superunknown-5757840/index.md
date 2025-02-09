@@ -52,24 +52,24 @@ In the months leading up to the release of <i>Superunknown</i>, Seattle peers su
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let Me Drown |  |
-| A2 | My Wave |  |
-| A3 | Fell On Black Days |  |
-| A4 | Mailman |  |
-| B1 | Superunknown |  |
-| B2 | Head Down |  |
-| B3 | Black Hole Sun |  |
-| C1 | Spoonman |  |
-| C2 | Limo Wreck |  |
-| C3 | The Day I Tried To Live |  |
-| C4 | Kickstand |  |
-| D1 | Fresh Tendrils |  |
-| D2 | 4th Of July |  |
-| D3 | Half |  |
-| D4 | Like Suicide |  |
-| D5 | She Likes Surprises |  |
+| Position | Title |
+|----------|--------|
+| A1 | Let Me Drown |
+| A2 | My Wave |
+| A3 | Fell On Black Days |
+| A4 | Mailman |
+| B1 | Superunknown |
+| B2 | Head Down |
+| B3 | Black Hole Sun |
+| C1 | Spoonman |
+| C2 | Limo Wreck |
+| C3 | The Day I Tried To Live |
+| C4 | Kickstand |
+| D1 | Fresh Tendrils |
+| D2 | 4th Of July |
+| D3 | Half |
+| D4 | Like Suicide |
+| D5 | She Likes Surprises |
 
 
 ## Apple Music
@@ -87,5 +87,5 @@ In the months leading up to the release of <i>Superunknown</i>, Seattle peers su
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | A&M Records |
 | Catalog Number | 0602537789818 |
-| Notes | 20th Anniversary Edition.<br>180-gram double vinyl, newly remastered from original analog tapes.<br>Issued in a gatefold sleeve with 12 page book with new photos and art and a digital download card.<br><br>Engineered and mixed at Bad Animals Studio, Seattle, WA<br><br>Track D2 mixed at Electric Lady, NY<br>Track D5 recorded at Bear Creek Studios, Wooninville, WA, mixed at A&M Studios, Hollywood, CA. Originally released as International Album and U.S. Vinyl Album bonus track<br><br>This reissue mastered by: Stephen Marcussen, Marcussen Mastering<br><br>℗  © 2014 A&M Records<br><br>Made in the EU<br><br>Hype sticker on shink:<br>Superunknown<br>180-Gram audiophile<br>Double vinyl<br>Newly remastered from<br>Original analog tapes<br>Gatefold Jacket<br>12 page book<br>With new photos and art<br>Digital download card<br>320kbps vinyl ripped AAC MP4's<br> |
+| Notes | 20th Anniversary Edition. 180-gram double vinyl, newly remastered from original analog tapes. Issued in a gatefold sleeve with 12 page book with new photos and art and a digital download card.  Engineered and mixed at Bad Animals Studio, Seattle, WA  Track D2 mixed at Electric Lady, NY Track D5 recorded at Bear Creek Studios, Wooninville, WA, mixed at A&M Studios, Hollywood, CA. Originally released as International Album and U.S. Vinyl Album bonus track  This reissue mastered by: Stephen Marcussen, Marcussen Mastering  ℗  © 2014 A&M Records  Made in the EU  Hype sticker on shink: Superunknown 180-Gram audiophile Double vinyl Newly remastered from Original analog tapes Gatefold Jacket 12 page book With new photos and art Digital download card 320kbps vinyl ripped AAC MP4's  |
 | Discogs URL    | [Soundgarden - Superunknown](https://www.discogs.com/release/5757840-Soundgarden-Superunknown) |

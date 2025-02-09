@@ -46,14 +46,14 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Sciences | 3:04 |
-| A2 | Marijuanaut's Theme | 6:40 |
-| B | Sonic Titan | 12:26 |
-| C | Antarcticans Thawed | 14:23 |
-| D1 | Giza Butler | 10:02 |
-| D2 | The Botanist | 6:27 |
+| Position | Title |
+|----------|--------|
+| A1 | The Sciences |
+| A2 | Marijuanaut's Theme |
+| B | Sonic Titan |
+| C | Antarcticans Thawed |
+| D1 | Giza Butler |
+| D2 | The Botanist |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 | Format         | Vinyl 2× LP Album Limited Edition (Green Translucent) |
 | Label          | Third Man Records |
 | Catalog Number | TMR 547 |
-| Notes | ℗ © 2018 Sleep LLC under exclusive license to Third Man Records. LLC<br><br>Limited edition first pressing on translucent green vinyl<br><br>Issued in a gatefold jacket with insert.<br><br>Center labels include the following text around the outer edge: "Manufactured by Third Man Pressing in Detroit MI"<br><br>Morse Code Translations:<br>Side A - PURPLE KUSH<br>Side B - SKYWALKER OG<br>Side C - CAT PISS ROMULAN<br>Side D - SUPER LEMON HAZE<br><br>CMS logo [sideways Ⓨ] in runouts denotes lacquer was cut at [l265517]. |
+| Notes | ℗ © 2018 Sleep LLC under exclusive license to Third Man Records. LLC  Limited edition first pressing on translucent green vinyl  Issued in a gatefold jacket with insert.  Center labels include the following text around the outer edge: "Manufactured by Third Man Pressing in Detroit MI"  Morse Code Translations: Side A - PURPLE KUSH Side B - SKYWALKER OG Side C - CAT PISS ROMULAN Side D - SUPER LEMON HAZE  CMS logo [sideways Ⓨ] in runouts denotes lacquer was cut at [l265517]. |
 | Discogs URL    | [Sleep - The Sciences](https://www.discogs.com/release/11888908-Sleep-The-Sciences) |

@@ -31,24 +31,24 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Grey Cell Green | 3:47 |
-| A2 | Kill Your Television | 2:59 |
-| A3 | Until You Find Out | 3:07 |
-| A4 | Happy | 3:56 |
-| A5 | Trust | 3:29 |
-| A6 | Not Sleeping Around | 3:16 |
-| B1 | Intact | 4:47 |
-| B2 | All I Ask Of Myself Is That I Hold Together | 3:06 |
-| B3 | Stuck | 3:32 |
-| B4 | Cut Up | 3:05 |
-| B5 | Selfish | 3:52 |
-| C1 | Scrawl | 3:24 |
-| C2 | Leg End In His Own Boots | 3:08 |
-| C3 | Who Goes First? | 4:32 |
-| C4 | Traffic | 3:32 |
-| C5 | Song 11 Could Take Forever | 3:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Grey Cell Green |
+| A2 | Kill Your Television |
+| A3 | Until You Find Out |
+| A4 | Happy |
+| A5 | Trust |
+| A6 | Not Sleeping Around |
+| B1 | Intact |
+| B2 | All I Ask Of Myself Is That I Hold Together |
+| B3 | Stuck |
+| B4 | Cut Up |
+| B5 | Selfish |
+| C1 | Scrawl |
+| C2 | Leg End In His Own Boots |
+| C3 | Who Goes First? |
+| C4 | Traffic |
+| C5 | Song 11 Could Take Forever |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 | Format         | Vinyl LP (Yellow Flame), Vinyl LP Single Sided Etched (Yellow Flame), All Media Compilation Limited Edition Numbered Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3331 |
-| Notes | 180 gram audiophile vinyl<br>Includes insert<br>Contains a band logo etch on side D<br>Compiled with the assistance of the band<br>Limited edition of 1500 individually numbered copies on yellow coloured vinyl |
+| Notes | 180 gram audiophile vinyl Includes insert Contains a band logo etch on side D Compiled with the assistance of the band Limited edition of 1500 individually numbered copies on yellow coloured vinyl |
 | Discogs URL    | [Neds Atomic Dustbin - Some Furtive Years: A Ned's Anthology](https://www.discogs.com/release/31586179-Neds-Atomic-Dustbin-Some-Furtive-Years-A-Neds-Anthology) |

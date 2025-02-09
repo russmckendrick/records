@@ -29,19 +29,19 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Davidian |  |
-| A2 | Old |  |
-| A3 | A Thousand Lies |  |
-| A4 | None But My Own |  |
-| A5 | The Rage To Overcome |  |
-| B1 | Death Church |  |
-| B2 | A Nation On Fire |  |
-| B3 | Blood For Blood |  |
-| B4 | I'm Your God Now |  |
-| B5 | Real Eyes, Realize, Real Lies |  |
-| B6 | Block |  |
+| Position | Title |
+|----------|--------|
+| A1 | Davidian |
+| A2 | Old |
+| A3 | A Thousand Lies |
+| A4 | None But My Own |
+| A5 | The Rage To Overcome |
+| B1 | Death Church |
+| B2 | A Nation On Fire |
+| B3 | Blood For Blood |
+| B4 | I'm Your God Now |
+| B5 | Real Eyes, Realize, Real Lies |
+| B6 | Block |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 | Format         | Vinyl LP Album Reissue (Gold Transparent) |
 | Label          | Metal Blade Records |
 | Catalog Number | 3984-15313-1 |
-| Notes | Gold transparent 180g vinyl.<br>Limited to 1.500 Copies<br><br>℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc. <br>Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc. |
+| Notes | Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc. |
 | Discogs URL    | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-3-Burn-My-Eyes) |

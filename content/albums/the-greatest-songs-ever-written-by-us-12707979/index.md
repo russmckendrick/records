@@ -34,35 +34,35 @@ The Greatest Songs Ever Written (By Us) is a greatest hits compilation album rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dinosaurs Will Die |  |
-| A2 | Linoleum |  |
-| A3 | Bob |  |
-| A4 | The Seperation Of Church And Skate |  |
-| A5 | Murder The Government |  |
-| A6 | Bleeding Heart Disease |  |
-| A7 | Bottles To The Ground |  |
-| B1 | 180 Degrees |  |
-| B2 | Party Enema |  |
-| B3 | What's The Matter With Kid's Today? |  |
-| B4 | Reeko |  |
-| B5 | Stickin' In My Eye |  |
-| B6 | All Outta Angst |  |
-| B7 | Leave It Alone |  |
-| C1 | Green Corn |  |
-| C2 | The Longest Line |  |
-| C3 | Thank God It's Monday |  |
-| C4 | The Idiots Are Taking Over |  |
-| C5 | Don't Call Me White |  |
-| C6 | Day To Daze |  |
-| C7 | Soul Doubt |  |
-| D1 | Philthy Phil Philanthropist |  |
-| D2 | Shut Up Already |  |
-| D3 | It's My Job To Keep Punk Rock Elite |  |
-| D4 | Franco Un-American |  |
-| D5 | Kill All The White Man |  |
-| D6 | Wore Out The Soles Of My Party Boots |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dinosaurs Will Die |
+| A2 | Linoleum |
+| A3 | Bob |
+| A4 | The Seperation Of Church And Skate |
+| A5 | Murder The Government |
+| A6 | Bleeding Heart Disease |
+| A7 | Bottles To The Ground |
+| B1 | 180 Degrees |
+| B2 | Party Enema |
+| B3 | What's The Matter With Kid's Today? |
+| B4 | Reeko |
+| B5 | Stickin' In My Eye |
+| B6 | All Outta Angst |
+| B7 | Leave It Alone |
+| C1 | Green Corn |
+| C2 | The Longest Line |
+| C3 | Thank God It's Monday |
+| C4 | The Idiots Are Taking Over |
+| C5 | Don't Call Me White |
+| C6 | Day To Daze |
+| C7 | Soul Doubt |
+| D1 | Philthy Phil Philanthropist |
+| D2 | Shut Up Already |
+| D3 | It's My Job To Keep Punk Rock Elite |
+| D4 | Franco Un-American |
+| D5 | Kill All The White Man |
+| D6 | Wore Out The Soles Of My Party Boots |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The Greatest Songs Ever Written (By Us) is a greatest hits compilation album rel
 | Format         | Vinyl 2× LP Compilation Reissue (Green Translucent) |
 | Label          | Epitaph |
 | Catalog Number | 6727-1 |
-| Notes | Gatefold Jacket<br>D6 is previously unreleased.<br>Indie exclusive, limited to 300 copies.<br><br>The title as it appears on the front cover is "The Greatest Songs Ever Written."<br>The title as it appears on the labels is "The Greatest Songs Ever Written By Us." |
+| Notes | Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.  The title as it appears on the front cover is "The Greatest Songs Ever Written." The title as it appears on the labels is "The Greatest Songs Ever Written By Us." |
 | Discogs URL    | [NOFX - The Greatest Songs Ever Written (By Us)](https://www.discogs.com/release/12707979-NOFX-The-Greatest-Songs-Ever-Written-By-Us) |

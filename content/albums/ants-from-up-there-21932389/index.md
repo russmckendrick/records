@@ -83,18 +83,18 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Chaos Space Marine |  |
-| A3 | Concorde |  |
-| A4 | Bread Song |  |
-| B1 | Good Will Hunting |  |
-| B2 | Haldern |  |
-| B3 | Mark's Theme |  |
-| C1 | The Place Where He Inserted The Blade |  |
-| C2 | Snow Globes |  |
-| D1 | Basketball Shoes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Chaos Space Marine |
+| A3 | Concorde |
+| A4 | Bread Song |
+| B1 | Good Will Hunting |
+| B2 | Haldern |
+| B3 | Mark's Theme |
+| C1 | The Place Where He Inserted The Blade |
+| C2 | Snow Globes |
+| D1 | Basketball Shoes |
 
 
 ## Apple Music
@@ -112,5 +112,5 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marbled) |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN278X |
-| Notes | Inverted artwork.<br>Packaged in a gatefold sleeve. <br>Includes a lyric booklet and a download code.<br><br>Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.<br><br>Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.<br><br>℗ & © Ninja Tune 2022<br>Made in EU<br><br>Recorded at Chale Abbey Studios.<br>Mixed at Fish Factory and Chale Abbey Studios.<br>Mastered [...] at Abbey Road. |
+| Notes | Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road. |
 | Discogs URL    | [Black Country New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |

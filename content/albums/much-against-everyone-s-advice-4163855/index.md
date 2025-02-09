@@ -26,19 +26,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Conversation Intercom |  |
-| A2 | Saturday |  |
-| A3 | When Logics Die |  |
-| A4 | Much Against Everyone's Advice |  |
-| A5 | Overweight Karate Kid |  |
-| A6 | Proverbial Pants |  |
-| B1 | Too Many DJ's |  |
-| B2 | Temptingly Yours |  |
-| B3 | More Than This |  |
-| B4 | Scream |  |
-| B5 | Funny |  |
+| Position | Title |
+|----------|--------|
+| A1 | Conversation Intercom |
+| A2 | Saturday |
+| A3 | When Logics Die |
+| A4 | Much Against Everyone's Advice |
+| A5 | Overweight Karate Kid |
+| A6 | Proverbial Pants |
+| B1 | Too Many DJ's |
+| B2 | Temptingly Yours |
+| B3 | More Than This |
+| B4 | Scream |
+| B5 | Funny |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 010 LP |
-| Notes | Reissue for "[PIAS] 30 years".<br><br>Comes with blank white inner sleeve, same as the first press.<br><br>℗ + © 2000 [PIAS] Recordings |
+| Notes | Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings |
 | Discogs URL    | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |

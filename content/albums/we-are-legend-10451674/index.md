@@ -27,11 +27,11 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trojan | 25:58 |
-| B1 | Colours | 10:48 |
-| B2 | Legend | 11:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Trojan |
+| B1 | Colours |
+| B2 | Legend |
 
 
 ## Apple Music

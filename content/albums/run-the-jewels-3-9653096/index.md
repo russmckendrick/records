@@ -47,23 +47,23 @@ Much like its predecessors, Run the Jewels 3 received widespread acclaim from cr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Down |  |
-| A2 | Talk To Me |  |
-| A3 | Legend Has It |  |
-| A4 | Call Ticketron |  |
-| B5 | Hey Kids (Bumaye) |  |
-| B6 | Stay Gold |  |
-| B7 | Don't Get Captured |  |
-| B8 | Thieves! (Screamed The Ghost) |  |
-| C9 | 2100 |  |
-| C10 | Panther Like A Panther (Miracle Mix) |  |
-| C11 | Everybody Stay Calm |  |
-| D12 | Oh Mama |  |
-| D13 | Thursday In The Danger Room |  |
-| D14a | A Report To The Shareholders |  |
-| D14b | Kill Your Masters |  |
+| Position | Title |
+|----------|--------|
+| A1 | Down |
+| A2 | Talk To Me |
+| A3 | Legend Has It |
+| A4 | Call Ticketron |
+| B5 | Hey Kids (Bumaye) |
+| B6 | Stay Gold |
+| B7 | Don't Get Captured |
+| B8 | Thieves! (Screamed The Ghost) |
+| C9 | 2100 |
+| C10 | Panther Like A Panther (Miracle Mix) |
+| C11 | Everybody Stay Calm |
+| D12 | Oh Mama |
+| D13 | Thursday In The Danger Room |
+| D14a | A Report To The Shareholders |
+| D14b | Kill Your Masters |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Much like its predecessors, Run the Jewels 3 received widespread acclaim from cr
 | Format         | Vinyl 2× LP Album (Gold) |
 | Label          | Run The Jewels, Inc. |
 | Catalog Number | RTJ003LP |
-| Notes | Comes in a gatefold sleeve. Pressed on opaque marbled gold vinyl. Includes lyric sheet, poster and stickers. There is a [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-3/release/10950921]similar issue[/url] that also includes a gold pendant and has a barcode sticker on the shrink wrap which covers the barcode printed on the back cover.<br><br>℗ & © 2016 Run The Jewels, Inc.<br><br>Twitter: runjewels<br>Instagram: runthejewels<br>Website: www.runthejewels.com<br><br>All songs recorded at RTJ Studios except for track A1, with additional recording at Pulse Studios, Los Angeles; tracks B8 and D13, with additional recording at Sound Factory, Los Angeles; and track D14b, at Cosmic Zoo, Los Angeles with additional at UTTRB Studios, Los Angeles<br><br>All songs mastered at Sterling Sound, New York, NY<br><br>All songs published by Definitive Jux Music / Pulse Music Co, Aniyah's Music / Royalty Network, Money Makes Me Dance and Eussicise Entertainment<br>Track B5 additionally published by YonaBona / Warp Publishing<br>Tracks B8 and C9 additionally published by Songs of Roc Nation Music / Warner-Tamerlane Publishing<br>Track D14b additionally published by Zack World War Publishing<br><br>Label management:<br>Amit Nerurkar / face-less<br>Andrew Friedman / [url=https://www.discogs.com/label/1068511-Monotone-Inc]Monotone[/url]<br>Zena White (UK & EU) / [l507946]<br><br>Publicity:<br>Kathryn Frazier / [url=https://www.discogs.com/artist/5098825-Biz3]Biz 3[/url] (US)<br>Ben Harris (UK & EU)<br><br>Tracks are listed sequentially, as they are on the release.<br>Надежда Толоконникова credited as "Nadya Tolokonnikova Of Pussy Riot".<br>Pressing plant and lacquer cut credits identified through runouts. |
+| Notes | Comes in a gatefold sleeve. Pressed on opaque marbled gold vinyl. Includes lyric sheet, poster and stickers. There is a [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-3/release/10950921]similar issue[/url] that also includes a gold pendant and has a barcode sticker on the shrink wrap which covers the barcode printed on the back cover.  ℗ & © 2016 Run The Jewels, Inc.  Twitter: runjewels Instagram: runthejewels Website: www.runthejewels.com  All songs recorded at RTJ Studios except for track A1, with additional recording at Pulse Studios, Los Angeles; tracks B8 and D13, with additional recording at Sound Factory, Los Angeles; and track D14b, at Cosmic Zoo, Los Angeles with additional at UTTRB Studios, Los Angeles  All songs mastered at Sterling Sound, New York, NY  All songs published by Definitive Jux Music / Pulse Music Co, Aniyah's Music / Royalty Network, Money Makes Me Dance and Eussicise Entertainment Track B5 additionally published by YonaBona / Warp Publishing Tracks B8 and C9 additionally published by Songs of Roc Nation Music / Warner-Tamerlane Publishing Track D14b additionally published by Zack World War Publishing  Label management: Amit Nerurkar / face-less Andrew Friedman / [url=https://www.discogs.com/label/1068511-Monotone-Inc]Monotone[/url] Zena White (UK & EU) / [l507946]  Publicity: Kathryn Frazier / [url=https://www.discogs.com/artist/5098825-Biz3]Biz 3[/url] (US) Ben Harris (UK & EU)  Tracks are listed sequentially, as they are on the release. Надежда Толоконникова credited as "Nadya Tolokonnikova Of Pussy Riot". Pressing plant and lacquer cut credits identified through runouts. |
 | Discogs URL    | [Run The Jewels - Run The Jewels 3](https://www.discogs.com/release/9653096-Run-The-Jewels-Run-The-Jewels-3) |

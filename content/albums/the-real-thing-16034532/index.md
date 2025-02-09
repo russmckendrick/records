@@ -37,17 +37,17 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | From Out Of Nowhere | 3:20 |
-| A2 | Epic | 4:51 |
-| A3 | Falling To Pieces | 5:12 |
-| A4 | Surprise! You're Dead! | 2:25 |
-| A5 | Zombie Eaters | 5:56 |
-| B1 | The Real Thing | 8:11 |
-| B2 | Underwater Love | 3:49 |
-| B3 | The Morning After | 3:41 |
-| B4 | Woodpecker From Mars | 5:38 |
+| Position | Title |
+|----------|--------|
+| A1 | From Out Of Nowhere |
+| A2 | Epic |
+| A3 | Falling To Pieces |
+| A4 | Surprise! You're Dead! |
+| A5 | Zombie Eaters |
+| B1 | The Real Thing |
+| B2 | Underwater Love |
+| B3 | The Morning After |
+| B4 | Woodpecker From Mars |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Yellow) |
 | Label          | Slash |
 | Catalog Number | RCV1 25878 |
-| Notes | 2500 pressed. <br><br>A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads:<br>Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.<br><br>Rear sleeve and face labels:<br>Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU. <br><br>Inner Sleeve:<br>© 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. <br><br>Face labels:<br> |
+| Notes | 2500 pressed.   A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads: Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.  Rear sleeve and face labels: Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU.   Inner Sleeve: © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company.   Face labels:  |
 | Discogs URL    | [Faith No More - The Real Thing](https://www.discogs.com/release/16034532-Faith-No-More-The-Real-Thing) |

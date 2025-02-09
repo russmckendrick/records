@@ -36,19 +36,19 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Cries Your Name |  |
-| A2 | Tangent |  |
-| A3 | Don't Need A Reason |  |
-| B1 | Live As You Dream |  |
-| B2 | Sugar Boy |  |
-| B3 | Touch Me With Your Love |  |
-| C1 | Whenever |  |
-| C2 | How Far |  |
-| C3 | Someone's Daughter |  |
-| C4 | I Wish I Never Saw The Sunshine |  |
-| D | Galaxy Of Emptiness |  |
+| Position | Title |
+|----------|--------|
+| A1 | She Cries Your Name |
+| A2 | Tangent |
+| A3 | Don't Need A Reason |
+| B1 | Live As You Dream |
+| B2 | Sugar Boy |
+| B3 | Touch Me With Your Love |
+| C1 | Whenever |
+| C2 | How Far |
+| C3 | Someone's Daughter |
+| C4 | I Wish I Never Saw The Sunshine |
+| D | Galaxy Of Emptiness |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 19439956801 |
-| Notes | On sticker:<br>Trailer Park<br>Limited Edition<br>American Diner Blue<br>colour vinyl<br>Pressed across 2LPs<br>for the first time<br><br>Ⓟ 2008 Sony Music Entertainment (UK) Limited<br>© 1996, 2022 Sony Music Entertainment (UK) Limited<br><br>RSD 2022 Second Drop<br>Limited to 2000 copies<br><br>Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |
+| Notes | On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |
 | Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |

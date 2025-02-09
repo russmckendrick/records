@@ -43,20 +43,20 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pretty Good Year | 3:25 |
-| A2 | God | 3:58 |
-| A3 | Bells For Her | 5:20 |
-| B1 | Past The Mission | 4:05 |
-| B2 | Baker Baker | 3:20 |
-| B3 | The Wrong Band | 3:03 |
-| B4 | The Waitress | 3:09 |
-| C1 | Cornflake Girl | 5:06 |
-| C2 | Icicle | 5:47 |
-| C3 | Cloud On My Tongue | 4:44 |
-| D1 | Space Dog | 5:10 |
-| D2 | Yes, Anastasia  | 9:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Pretty Good Year |
+| A2 | God |
+| A3 | Bells For Her |
+| B1 | Past The Mission |
+| B2 | Baker Baker |
+| B3 | The Wrong Band |
+| B4 | The Waitress |
+| C1 | Cornflake Girl |
+| C2 | Icicle |
+| C3 | Cloud On My Tongue |
+| D1 | Space Dog |
+| D2 | Yes, Anastasia  |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered Stereo (Pink Translucent) |
 | Label          | Atlantic |
 | Catalog Number | RCV1 82567 |
-| Notes | Half-speed master cut at Abbey Road Studios, London, by Miles Stowell<br><br>Hype sticker text:<br><br>LIMITED-EDITION 2-LP<br>PINK VINYL<br>"In just under fifty minutes, Amos exposes a world of paradoxes, where the profound rubs up against the profane, the divine shacks up next door to the dollar store, and the vulnerable exists without victimhood" - Noah Michelson<br>THE TIMELESS ALBUM FULLY REMASTERED<br>RCV1 82567 / 603497845378<br><br>Copies sold by Barnes & Noble may also read “BARNES&NOBLE EXCLUSIVE” at the top of the sticker in addition to the aforementioned text.<br><br>All songs published by Sword and Stone (ASCAP).<br>All rights administered by Downtown Music Publishing.<br><br>Made in Germany.<br><br>Runout info:<br>- Runouts are etched<br>- The Optimal Media "geometric" marks are mirrored |
+| Notes | Half-speed master cut at Abbey Road Studios, London, by Miles Stowell  Hype sticker text:  LIMITED-EDITION 2-LP PINK VINYL "In just under fifty minutes, Amos exposes a world of paradoxes, where the profound rubs up against the profane, the divine shacks up next door to the dollar store, and the vulnerable exists without victimhood" - Noah Michelson THE TIMELESS ALBUM FULLY REMASTERED RCV1 82567 / 603497845378  Copies sold by Barnes & Noble may also read “BARNES&NOBLE EXCLUSIVE” at the top of the sticker in addition to the aforementioned text.  All songs published by Sword and Stone (ASCAP). All rights administered by Downtown Music Publishing.  Made in Germany.  Runout info: - Runouts are etched - The Optimal Media "geometric" marks are mirrored |
 | Discogs URL    | [Tori Amos - Under The Pink](https://www.discogs.com/release/19520113-Tori-Amos-Under-The-Pink) |

@@ -29,20 +29,20 @@ The title track, written by the team of Dan Penn and Carson Whitsett with Hoy Li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Give Up On Me |  |
-| A2 | Fast Train |  |
-| A3 | Diamond In Your Mind |  |
-| B1 | Flesh And Blood |  |
-| B2 | Soul Searchin' |  |
-| B3 | Only A Dream |  |
-| C1 | The Judgement |  |
-| C2 | Stepchild |  |
-| C3 | The Other Side Of The Coin |  |
-| D1 | None Of Us Are Free |  |
-| D2 | Sit This One Out |  |
-| D3 | I Need A Holiday |  |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Give Up On Me |
+| A2 | Fast Train |
+| A3 | Diamond In Your Mind |
+| B1 | Flesh And Blood |
+| B2 | Soul Searchin' |
+| B3 | Only A Dream |
+| C1 | The Judgement |
+| C2 | Stepchild |
+| C3 | The Other Side Of The Coin |
+| D1 | None Of Us Are Free |
+| D2 | Sit This One Out |
+| D3 | I Need A Holiday |
 
 
 ## Apple Music

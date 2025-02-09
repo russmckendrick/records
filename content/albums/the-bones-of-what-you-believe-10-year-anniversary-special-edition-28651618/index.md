@@ -37,29 +37,29 @@ styles: ["Indie Pop", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Mother We Share |  |
-| A2 | We Sink |  |
-| A3 | Gun |  |
-| A4 | Tether |  |
-| A5 | Lies |  |
-| A6 | Under The Tide |  |
-| B1 | Recover |  |
-| B2 | Night Sky |  |
-| B3 | Science/Visions |  |
-| B4 | Lungs |  |
-| B5 | By The Throat |  |
-| B6 | You Caught The Light |  |
-| C1 | Manhattan |  |
-| C2 | White Summer |  |
-| C3 | Talking In My Sleep |  |
-| C4 | City On Fire |  |
-| D1 | We Sink (Live) |  |
-| D2 | Now Is Not The Time (Live) |  |
-| D3 | Lies (Live) |  |
-| D4 | Strong Hand (Live) |  |
-| D5 | By The Throat (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Mother We Share |
+| A2 | We Sink |
+| A3 | Gun |
+| A4 | Tether |
+| A5 | Lies |
+| A6 | Under The Tide |
+| B1 | Recover |
+| B2 | Night Sky |
+| B3 | Science/Visions |
+| B4 | Lungs |
+| B5 | By The Throat |
+| B6 | You Caught The Light |
+| C1 | Manhattan |
+| C2 | White Summer |
+| C3 | Talking In My Sleep |
+| C4 | City On Fire |
+| D1 | We Sink (Live) |
+| D2 | Now Is Not The Time (Live) |
+| D3 | Lies (Live) |
+| D4 | Strong Hand (Live) |
+| D5 | By The Throat (Live) |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ styles: ["Indie Pop", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl LP Compilation Remastered, All Media Special Edition |
 | Label          | Goodbye Records (2) |
 | Catalog Number | 5560889 |
-| Notes | Sticker "Made in Germany" on back.<br><br>Sticker on front reads<br>"The Bones Of What You Believe<br>CHVRCHES<br>10TH ANNIVERSARY<br>REMASTERED 2LP EDITION<br>feat. PREVIOUSLY<br>UNRELEASED TRACKS +<br>EXCLUSIVE LIVE RECORDINGS.<br>MMXIII MMXXIII<br>5560889"<br><br>Issued in gatefold sleeve - front sleeve has 4 cut outs in each corner giving sight on the inner sleeve.<br><br>℗ & © Chvrches under exclusive license to Virgin Records Limited, UK for its controlled territories and to Vertigo/Capitol, a division of Universal Music GmbH, Germany for its controlled territories. A Universal Music Company.<br>Universal international Music B.V. 'S-Gravelandseweg 80, 1217 Ew Hilversum, Netherlands. Made in the EU.<br><br>Recorded at Alucard Studios, Glasgow.<br>Live tracks recorded at Ancienne Belgique with thanks to AB & VRT/Studio Brussels.<br>The Bones of What You Believe mixed... at Eldorado Recording Studios, Los Angeles except Tether and By The Throat mixed... at Wall 2 Wall Studios, Chicago.<br>Manhattan, White Summer, Talking In My Sleep & City On Fire mixed... at Alucard Studios, Glasgow.<br>Mastered... at Lurssen Mastering, Burbank. |
+| Notes | Sticker "Made in Germany" on back.  Sticker on front reads "The Bones Of What You Believe CHVRCHES 10TH ANNIVERSARY REMASTERED 2LP EDITION feat. PREVIOUSLY UNRELEASED TRACKS + EXCLUSIVE LIVE RECORDINGS. MMXIII MMXXIII 5560889"  Issued in gatefold sleeve - front sleeve has 4 cut outs in each corner giving sight on the inner sleeve.  ℗ & © Chvrches under exclusive license to Virgin Records Limited, UK for its controlled territories and to Vertigo/Capitol, a division of Universal Music GmbH, Germany for its controlled territories. A Universal Music Company. Universal international Music B.V. 'S-Gravelandseweg 80, 1217 Ew Hilversum, Netherlands. Made in the EU.  Recorded at Alucard Studios, Glasgow. Live tracks recorded at Ancienne Belgique with thanks to AB & VRT/Studio Brussels. The Bones of What You Believe mixed... at Eldorado Recording Studios, Los Angeles except Tether and By The Throat mixed... at Wall 2 Wall Studios, Chicago. Manhattan, White Summer, Talking In My Sleep & City On Fire mixed... at Alucard Studios, Glasgow. Mastered... at Lurssen Mastering, Burbank. |
 | Discogs URL    | [Chvrches - The Bones Of What You Believe (10 Year Anniversary Special Edition)](https://www.discogs.com/release/28651618-Chvrches-The-Bones-Of-What-You-Believe-10-Year-Anniversary-Special-Edition) |

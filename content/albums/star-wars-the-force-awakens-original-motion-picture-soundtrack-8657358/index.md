@@ -56,31 +56,31 @@ The Force is as strong as ever in John Williams’ writing for orchestra. His mi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Main Title And The Attack On The Jakku Village | 6:25 |
-| A2 | The Scavenger | 3:39 |
-| A3 | I Can Fly Anything | 3:10 |
-| A4 | Rey Meets BB-8 | 1:31 |
-| A5 | Follow Me | 2:54 |
-| A6 | Rey’s Theme | 3:11 |
-| A7 | The Falcon | 3:32 |
-| A8 | That Girl With The Staff | 1:58 |
-| B1 | The Rathtars! | 4:05 |
-| B2 | Finn’s Confession | 2:08 |
-| B3 | Maz’s Counsel | 3:07 |
-| B4 | The Starkiller | 1:50 |
-| B5 | Kylo Ren Arrives At The Battle | 2:00 |
-| C1 | The Abduction | 2:23 |
-| C2 | Han And Leia | 4:41 |
-| C3 | March Of The Resistance | 2:34 |
-| C4 | Snoke | 2:03 |
-| C5 | On The Inside | 2:06 |
-| C6 | Torn Apart | 4:19 |
-| C7 | The Ways Of The Force | 3:14 |
-| C8 | Scherzo For X-Wings | 2:32 |
-| D1 | Farewell And The Trip | 4:55 |
-| D2 | The Jedi Steps And Finale | 8:51 |
+| Position | Title |
+|----------|--------|
+| A1 | Main Title And The Attack On The Jakku Village |
+| A2 | The Scavenger |
+| A3 | I Can Fly Anything |
+| A4 | Rey Meets BB-8 |
+| A5 | Follow Me |
+| A6 | Rey’s Theme |
+| A7 | The Falcon |
+| A8 | That Girl With The Staff |
+| B1 | The Rathtars! |
+| B2 | Finn’s Confession |
+| B3 | Maz’s Counsel |
+| B4 | The Starkiller |
+| B5 | Kylo Ren Arrives At The Battle |
+| C1 | The Abduction |
+| C2 | Han And Leia |
+| C3 | March Of The Resistance |
+| C4 | Snoke |
+| C5 | On The Inside |
+| C6 | Torn Apart |
+| C7 | The Ways Of The Force |
+| C8 | Scherzo For X-Wings |
+| D1 | Farewell And The Trip |
+| D2 | The Jedi Steps And Finale |
 
 
 ## Apple Music
@@ -97,5 +97,5 @@ The Force is as strong as ever in John Williams’ writing for orchestra. His mi
 | Format         | Vinyl 2× LP Album Etched |
 | Label          | Walt Disney Records |
 | Catalog Number | D002364401 |
-| Notes | ℗ 2015 © 2016 & ™ Lucasfilm Ltd.<br>Burbank, CA 91521.<br><br>Holograms hand-etched by Tristan Duke of Infinity Light Science.<br><br>Disc 1 side B (Millennium Falcon)<br>Disc 2 side D (TIE Fighter).<br><br>Packaged in an embossed gatefold sleeve, featuring a 'hologramatic' effect on 'Star Wars' and the stars.<br>Includes a 16-page booklet.<br><br>Sticker on shrinkwrap:<br>"Includes a one-of-a-kind 3D holographic experience featuring the Millennium Falcon on disc 1 & TIE Fighter on disc 2<br>DMM Direct Metal Mastering 180 gram vinyl D002364401 ST01" |
+| Notes | ℗ 2015 © 2016 & ™ Lucasfilm Ltd. Burbank, CA 91521.  Holograms hand-etched by Tristan Duke of Infinity Light Science.  Disc 1 side B (Millennium Falcon) Disc 2 side D (TIE Fighter).  Packaged in an embossed gatefold sleeve, featuring a 'hologramatic' effect on 'Star Wars' and the stars. Includes a 16-page booklet.  Sticker on shrinkwrap: "Includes a one-of-a-kind 3D holographic experience featuring the Millennium Falcon on disc 1 & TIE Fighter on disc 2 DMM Direct Metal Mastering 180 gram vinyl D002364401 ST01" |
 | Discogs URL    | [John Williams - Star Wars: The Force Awakens (Original Motion Picture Soundtrack)](https://www.discogs.com/release/8657358-John-Williams-4-Star-Wars-The-Force-Awakens-Original-Motion-Picture-Soundtrack) |

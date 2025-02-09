@@ -37,19 +37,19 @@ Liquid Skin received generally favourable reviews from critics, many of whom fou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hangover | 3:27 |
-| A2 | Revolutionary Kind | 4:31 |
-| A3 | Bring It On | 4:10 |
-| B1 | Blue Moon Rising | 4:48 |
-| B2 | Las Vegas Dealer | 3:54 |
-| B3 | We Haven't Turned Around | 6:29 |
-| C1 | Fill My Cup | 4:38 |
-| C2 | Rhythm & Blues Alibi | 5:03 |
-| C3 | Rosalita | 4:04 |
-| D1 | California | 7:23 |
-| D2 | Devil Will Ride | 6:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Hangover |
+| A2 | Revolutionary Kind |
+| A3 | Bring It On |
+| B1 | Blue Moon Rising |
+| B2 | Las Vegas Dealer |
+| B3 | We Haven't Turned Around |
+| C1 | Fill My Cup |
+| C2 | Rhythm & Blues Alibi |
+| C3 | Rosalita |
+| D1 | California |
+| D2 | Devil Will Ride |
 
 
 ## Apple Music

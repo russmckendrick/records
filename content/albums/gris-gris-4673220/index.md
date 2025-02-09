@@ -30,15 +30,15 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gris-Gris Gumbo Ya Ya | 5:34 |
-| A2 | Danse Kalinda Ba Doom | 3:44 |
-| A3 | Mama Roux | 2:55 |
-| A4 | Danse Fambeaux | 4:53 |
-| B1 | Croker Courtbullion | 5:57 |
-| B2 | Jump Sturdy | 2:19 |
-| B3 | I Walk On Guilded Splinters | 7:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Gris-Gris Gumbo Ya Ya |
+| A2 | Danse Kalinda Ba Doom |
+| A3 | Mama Roux |
+| A4 | Danse Fambeaux |
+| B1 | Croker Courtbullion |
+| B2 | Jump Sturdy |
+| B3 | I Walk On Guilded Splinters |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | ATCO Records |
 | Catalog Number | SD 33-234 |
-| Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".<br><br>On back cover and labels:<br>℗© 1968 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Manufactured In EU. LC02982<br><br>Liner notes uncredited.<br><br>On runouts:<br>All is etched<br>Last code (after MK) is mirrored<br><br> |
+| Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored   |
 | Discogs URL    | [Dr John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |

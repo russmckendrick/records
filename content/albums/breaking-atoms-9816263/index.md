@@ -49,21 +49,21 @@ The album has been widely regarded by writers and music critics as a significant
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Snake Eyes | 3:30 |
-| A2 | Just Hangin' Out | 4:10 |
-| A3 | Looking At The Front Door | 4:10 |
-| A4 | Large Professor | 3:08 |
-| A5 | Just A Friendly Game Of Baseball | 3:22 |
-| A6 | Scratch & Kut | 2:57 |
-| B1 | Peace Is Not The Word To Play | 3:07 |
-| B2 | Vamos A Rapiar | 3:59 |
-| B3 | He Got So Much Soul (He Don't Need No Music) | 3:34 |
-| B4 | Live At The Barbeque | 4:35 |
-| B5 | Watch Roger Do His Thing | 4:22 |
-| C | Peace Is Not The Word To Play (Remix) |  |
-| D | How My Man Went Down In The Game |  |
+| Position | Title |
+|----------|--------|
+| A1 | Snake Eyes |
+| A2 | Just Hangin' Out |
+| A3 | Looking At The Front Door |
+| A4 | Large Professor |
+| A5 | Just A Friendly Game Of Baseball |
+| A6 | Scratch & Kut |
+| B1 | Peace Is Not The Word To Play |
+| B2 | Vamos A Rapiar |
+| B3 | He Got So Much Soul (He Don't Need No Music) |
+| B4 | Live At The Barbeque |
+| B5 | Watch Roger Do His Thing |
+| C | Peace Is Not The Word To Play (Remix) |
+| D | How My Man Went Down In The Game |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ The album has been widely regarded by writers and music critics as a significant
 | Format         | Vinyl LP Album Club Edition Misprint Reissue (Orange in Clear), Vinyl 7" 45 RPM (Violet) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-006 |
-| Notes | Back cover has a typo at the bottom, music is misspelled "Muisc"<br><br>Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI).<br>Mastered at Hit Factory, DMS.<br><br>Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts. |
+| Notes | Back cover has a typo at the bottom, music is misspelled "Muisc"  Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI). Mastered at Hit Factory, DMS.  Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts. |
 | Discogs URL    | [Main Source - Breaking Atoms](https://www.discogs.com/release/9816263-Main-Source-Breaking-Atoms) |

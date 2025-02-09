@@ -30,21 +30,21 @@ Pure Air is a compilation album by Agua de Annique, a band formed by the former 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Blower's Daughter | 4:33 |
-| A2 | Beautiful One | 5:55 |
-| A3 | Wild Flowers | 4:19 |
-| A4 | Day After Yesterday | 3:43 |
-| A5 | Come Wander With Me | 3:34 |
-| A6 | Valley Of The Queens | 2:40 |
-| B1 | To Catch A Thief | 5:46 |
-| B2 | Ironic | 3:54 |
-| B3 | What's The Reason? | 3:31 |
-| B4 | Yalin | 3:40 |
-| B5 | Somewhere | 4:09 |
-| B6 | Witnesses | 1:51 |
-| B7 | The Power Of Love | 4:44 |
+| Position | Title |
+|----------|--------|
+| A1 | The Blower's Daughter |
+| A2 | Beautiful One |
+| A3 | Wild Flowers |
+| A4 | Day After Yesterday |
+| A5 | Come Wander With Me |
+| A6 | Valley Of The Queens |
+| B1 | To Catch A Thief |
+| B2 | Ironic |
+| B3 | What's The Reason? |
+| B4 | Yalin |
+| B5 | Somewhere |
+| B6 | Witnesses |
+| B7 | The Power Of Love |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Pure Air is a compilation album by Agua de Annique, a band formed by the former 
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1875 |
-| Notes | Limited to 1,000 copies worldwide<br>Number stamped on rear sleeve in gold. |
+| Notes | Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold. |
 | Discogs URL    | [Anneke van Giersbergen - Pure Air](https://www.discogs.com/release/10280655-Anneke-van-Giersbergen-With-Agua-De-Annique-Pure-Air) |

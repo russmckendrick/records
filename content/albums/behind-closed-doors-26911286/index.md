@@ -39,24 +39,24 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Moth To The Flame |  |
-| A2 | Fly On The Wall |  |
-| A3 | I'll Be Waiting |  |
-| A4 | River Of Pain |  |
-| B1 | Future Train |  |
-| B2 | 'Til The River Runs Dry |  |
-| B3 | Stand Up |  |
-| B4 | Preaching From A Chair |  |
-| C1 | Castles In The Sand |  |
-| C2 | Too Scared To Live |  |
-| C3 | Ball And Chain |  |
-| C4 | It Happened In This Town |  |
-| D1 | In A Broken Dream (Live At Club Citta Japan, 2000) |  |
-| D2 | Stand Up (Live At Shepherd's Bush Empire London, 2005) |  |
-| D3 | Til The River Runs Dry (Live At Nottingham Rock City, 2005) |  |
-| D4 | Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Moth To The Flame |
+| A2 | Fly On The Wall |
+| A3 | I'll Be Waiting |
+| A4 | River Of Pain |
+| B1 | Future Train |
+| B2 | 'Til The River Runs Dry |
+| B3 | Stand Up |
+| B4 | Preaching From A Chair |
+| C1 | Castles In The Sand |
+| C2 | Too Scared To Live |
+| C3 | Ball And Chain |
+| C4 | It Happened In This Town |
+| D1 | In A Broken Dream (Live At Club Citta Japan, 2000) |
+| D2 | Stand Up (Live At Shepherd's Bush Empire London, 2005) |
+| D3 | Til The River Runs Dry (Live At Nottingham Rock City, 2005) |
+| D4 | Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear), Vinyl LP Album Limited Edition Reissue (Red) |
 | Label          | BMG |
 | Catalog Number | BMGCAT717DLP |
-| Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital.<br>Track D2 Previously unreleased<br>Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.<br>Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.<br><br>Some copies came with a limited edition art card. |
+| Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital. Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.  Some copies came with a limited edition art card. |
 | Discogs URL    | [Thunder - Behind Closed Doors](https://www.discogs.com/release/26911286-Thunder-3-Behind-Closed-Doors) |

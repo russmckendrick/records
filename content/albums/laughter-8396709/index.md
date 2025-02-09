@@ -26,20 +26,20 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sueperman's Big Sister |  |
-| A2 | Pardon |  |
-| A3 | Delusions Of Grandeur |  |
-| A4 | Yes & No (Paula) |  |
-| A5 | Dance Of The Crackpots |  |
-| A6 | Over The Points |  |
-| B1 | (Take Your Elbow Out Of The Soup You're Sitting On The Chicken) |  |
-| B2 | Uncoolohol |  |
-| B3 | Hey, Hey, Take Me Away |  |
-| B4 | Manic Depression (Jimi) |  |
-| B5 | Oh Mr Peanut |  |
-| B6 | Fucking Ada |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sueperman's Big Sister |
+| A2 | Pardon |
+| A3 | Delusions Of Grandeur |
+| A4 | Yes & No (Paula) |
+| A5 | Dance Of The Crackpots |
+| A6 | Over The Points |
+| B1 | (Take Your Elbow Out Of The Soup You're Sitting On The Chicken) |
+| B2 | Uncoolohol |
+| B3 | Hey, Hey, Take Me Away |
+| B4 | Manic Depression (Jimi) |
+| B5 | Oh Mr Peanut |
+| B6 | Fucking Ada |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC57 |
-| Notes | Contains printed inner which shows Ian Horne and Wilco Johnson.<br><br>Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING".<br>--------------------<br>Some other examples have the WARNING! sticker adhered to the left side of the front, and a<br>small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'.<br>------------------<br> |
+| Notes | Contains printed inner which shows Ian Horne and Wilco Johnson.  Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING". -------------------- Some other examples have the WARNING! sticker adhered to the left side of the front, and a small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'. ------------------  |
 | Discogs URL    | [Ian Dury And The Blockheads - Laughter](https://www.discogs.com/release/8396709-Ian-Dury-The-Blockheads-Laughter) |

@@ -38,26 +38,26 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Fawlty Towers |  |
-| A | Communications Problems |  |
-| B | The Hotel Inspectors |  |
-|  | Second Sitting |  |
-| C | Basil The Rat |  |
-| D | The Builders |  |
-|  | At Your Service |  |
-| E | The Kipper And The Corpse |  |
-| F | The Germans |  |
-|  | A La Carte |  |
-| G | Waldorf Salad |  |
-| H | Gourmet Night |  |
-|  | Plat Du Jour |  |
-| I | A Touch Of Class |  |
-| J | The Wedding Party |  |
-|  | Enjoy Your Stay |  |
-| K | The Psychiatrist |  |
-| L | The Anniversary |  |
+| Position | Title |
+|----------|--------|
+|  | Fawlty Towers |
+| A | Communications Problems |
+| B | The Hotel Inspectors |
+|  | Second Sitting |
+| C | Basil The Rat |
+| D | The Builders |
+|  | At Your Service |
+| E | The Kipper And The Corpse |
+| F | The Germans |
+|  | A La Carte |
+| G | Waldorf Salad |
+| H | Gourmet Night |
+|  | Plat Du Jour |
+| I | A Touch Of Class |
+| J | The Wedding Party |
+|  | Enjoy Your Stay |
+| K | The Psychiatrist |
+| L | The Anniversary |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 | Format         | Vinyl 6× LP Compilation (140g, White), Box Set Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX54 |
-| Notes | Contains the 4 original BBC Records LPs, plus two which are previously unissued. The original cover art is reproduced as the inner sleeve of each disc, with BBC Records branding. Also contains a large format, 4 page booklet describing the history of Fawlty Towers and its audio releases, plus a 12" signed photograph of John Cleese.<br><br>1500 copies pressed.  This set was officially deleted in August 2021.  <br>Two piece, lift off lid box. Lilac hype sticker applied to shrink-wrap. Reproduction BBC labels. |
+| Notes | Contains the 4 original BBC Records LPs, plus two which are previously unissued. The original cover art is reproduced as the inner sleeve of each disc, with BBC Records branding. Also contains a large format, 4 page booklet describing the history of Fawlty Towers and its audio releases, plus a 12" signed photograph of John Cleese.  1500 copies pressed.  This set was officially deleted in August 2021.   Two piece, lift off lid box. Lilac hype sticker applied to shrink-wrap. Reproduction BBC labels. |
 | Discogs URL    | [Fawlty Towers - Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrated By Andrew Sachs)](https://www.discogs.com/release/18955195-Fawlty-Towers-Fawlty-Towers-For-The-Record-12-Full-Cast-TV-Soundtracks-Narrated-By-Andrew-Sachs) |

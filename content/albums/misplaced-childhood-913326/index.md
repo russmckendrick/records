@@ -34,18 +34,18 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pseudo Silk Kimono | 2:14 |
-| A2 | Kayleigh | 3:55 |
-| A3 | Lavender | 2:34 |
-| A4 | Bitter Suite | 8:15 |
-| A5 | Heart Of Lothian | 3:40 |
-| B1 | Waterhole (Expresso Bongo) | 2:07 |
-| B2 | Lords Of The Backstage | 1:59 |
-| B3 | Blind Curve | 9:27 |
-| B4 | Childhoods End? | 4:32 |
-| B5 | White Feather | 2:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Pseudo Silk Kimono |
+| A2 | Kayleigh |
+| A3 | Lavender |
+| A4 | Bitter Suite |
+| A5 | Heart Of Lothian |
+| B1 | Waterhole (Expresso Bongo) |
+| B2 | Lords Of The Backstage |
+| B3 | Blind Curve |
+| B4 | Childhoods End? |
+| B5 | White Feather |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 | Format         | Vinyl LP Album Stereo (Purple Labels) |
 | Label          | EMI |
 | Catalog Number | EJ 2403401 |
-| Notes | Recorded at Hansa Tonstudios, Berlin between March and May 1985.<br><br>This album is dedicated to John Mylett.<br><br>Gatefold Cover.<br>Durations do not appear on this release.  Timings via stopwatch. |
+| Notes | Recorded at Hansa Tonstudios, Berlin between March and May 1985.  This album is dedicated to John Mylett.  Gatefold Cover. Durations do not appear on this release.  Timings via stopwatch. |
 | Discogs URL    | [Marillion - Misplaced Childhood](https://www.discogs.com/release/913326-Marillion-Misplaced-Childhood) |

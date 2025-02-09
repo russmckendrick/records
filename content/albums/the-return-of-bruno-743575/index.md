@@ -32,18 +32,18 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Comin' Right Up | 3:25 |
-| A2 | Respect Yourself | 3:51 |
-| A3 | Down In Hollywood | 5:19 |
-| A4 | Young Blood | 4:06 |
-| A5 | Under The Boardwalk | 3:02 |
-| B1 | Secret Agent Man (James Bond Is Back) | 4:46 |
-| B2 | Jackpot (Bruno's Bop) | 4:08 |
-| B3 | Fun Time | 3:35 |
-| B4 | Lose Myself | 3:55 |
-| B5 | Flirting With Disaster | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Comin' Right Up |
+| A2 | Respect Yourself |
+| A3 | Down In Hollywood |
+| A4 | Young Blood |
+| A5 | Under The Boardwalk |
+| B1 | Secret Agent Man (James Bond Is Back) |
+| B2 | Jackpot (Bruno's Bop) |
+| B3 | Fun Time |
+| B4 | Lose Myself |
+| B5 | Flirting With Disaster |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 | Format         | Vinyl LP Album Stereo |
 | Label          | Motown |
 | Catalog Number | ZL 72571 |
-| Notes | Motown Record Corp, An Overboard Production.<br>Inner sleeve with lyrics and photo.<br>℗ + © 1987 Motown Record Corporation<br>Made from masters of Motown Record Corporation<br>Label: "MANUFACTURED IN W. GERMANY"<br>Sleeve: "Printed in Germany"<br><br>Runouts are stamped. |
+| Notes | Motown Record Corp, An Overboard Production. Inner sleeve with lyrics and photo. ℗ + © 1987 Motown Record Corporation Made from masters of Motown Record Corporation Label: "MANUFACTURED IN W. GERMANY" Sleeve: "Printed in Germany"  Runouts are stamped. |
 | Discogs URL    | [Bruce Willis - The Return Of Bruno](https://www.discogs.com/release/743575-Bruce-Willis-The-Return-Of-Bruno) |

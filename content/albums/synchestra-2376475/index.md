@@ -35,21 +35,21 @@ Synchestra ( sing-KES-trə) is the eighth solo album by Canadian musician Devin 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let It Roll |  |
-| A2 | Hypergeek |  |
-| A3 | Triumph |  |
-| B4 | Babysong |  |
-| B5 | Vampolka |  |
-| B6 | Vampira |  |
-| B7 | Mental Tan |  |
-| C8 | Gaia |  |
-| C9 | Pixillate |  |
-| C10 | Judgement |  |
-| D11 | A Simple Lullaby |  |
-| D12 | Sunset |  |
-| D13 | Notes From Africa |  |
+| Position | Title |
+|----------|--------|
+| A1 | Let It Roll |
+| A2 | Hypergeek |
+| A3 | Triumph |
+| B4 | Babysong |
+| B5 | Vampolka |
+| B6 | Vampira |
+| B7 | Mental Tan |
+| C8 | Gaia |
+| C9 | Pixillate |
+| C10 | Judgement |
+| D11 | A Simple Lullaby |
+| D12 | Sunset |
+| D13 | Notes From Africa |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Synchestra ( sing-KES-trə) is the eighth solo album by Canadian musician Devin 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Brown, Gatefold, 180-Gram) |
 | Label          | Back On Black |
 | Catalog Number | BOBV246LP |
-| Notes | Drums recorded at the Armoury.<br>Bass recorded at Hipposonic.<br>Grand piano and tuba recorded at 'Dave and Mike's Mom's House Studio'.<br>Deborah's vocals recorded at Tyz studios<br>Heather's vocals recorded at 'Rusty Trombone Studios'.<br>Mixed at The Devlab, then Hipposonic A Studios.<br>Mastered at GreenJacket.<br>Photos taken at The Bloedel Conservatory, Vancouver.<br><br>Manufactured and Distributed by Plastic Head.<br>Under license from Century Media.<br>℗ Century Media 2006. © Back On Black 2010.<br><br>"℗&©" doesn't appear on the release itself but is corrected here.<br><br>Limited to 1000 Copies.<br> |
+| Notes | Drums recorded at the Armoury.  Bass recorded at Hipposonic.  Grand piano and tuba recorded at 'Dave and Mike's Mom's House Studio'.  Deborah's vocals recorded at Tyz studios  Heather's vocals recorded at 'Rusty Trombone Studios'.  Mixed at The Devlab, then Hipposonic A Studios.  Mastered at GreenJacket.  Photos taken at The Bloedel Conservatory, Vancouver.    Manufactured and Distributed by Plastic Head.  Under license from Century Media.  ℗ Century Media 2006. © Back On Black 2010.    "℗&©" doesn't appear on the release itself but is corrected here.    Limited to 1000 Copies.   |
 | Discogs URL    | [The Devin Townsend Band - Synchestra](https://www.discogs.com/release/2376475-The-Devin-Townsend-Band-Synchestra) |

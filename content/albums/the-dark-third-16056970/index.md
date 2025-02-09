@@ -31,41 +31,41 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| I-I | Aeropause |  |
-| I-II | Goshen's Remains |  |
-| I-III | Apprentice Of The Universe |  |
-| II-I | The Bright Ambassadors Of Morning |  |
-| II-II | Nimos & Tambos |  |
-| II-III-I | Voices In Winter |  |
-| II-III-II | In The Realms Of The Divine |  |
-| III-I | Bullitts Dominæ |  |
-| III-II-I | Arrival |  |
-| III-II-II | The Intention Craft |  |
-| III-III-I | He Tried To Show Them Magic! |  |
-| III-III-II | Ambassadors Return |  |
-| III-IV | Asleep Under Eiderdown |  |
-| IV-I | In Aurélia |  |
-| IV-II | Golden Clothes |  |
-| IV-III | The Exact Colour |  |
-| IV-IV-I | The Twyncyn |  |
-| IV-IV-II | Trembling Willows |  |
-| CD1-1 | Aeropause | 5:04 |
-| CD1-2 | Goshen’s Remains | 5:44 |
-| CD1-3 | Apprentice Of The Universe | 4:16 |
-| CD1-4 | The Bright Ambassadors Of Morning | 11:56 |
-| CD1-5 | Nimos And Tambos | 3:44 |
-| CD1-6 | Voices In Winter / In The Realms Of The Divine | 6:34 |
-| CD1-7 | Bullitts Dominae | 5:22 |
-| CD1-8 | Arrival / The Intention Craft | 8:53 |
-| CD1-9 | He Tried To Show Them Magic! / Ambassadors Return | 5:13 |
-| CD1-10 | Asleep Under Eiderdown | 3:02 |
-| CD2-1 | In Aurélia | 3:59 |
-| CD2-2 | Borgens Vor | 4:17 |
-| CD2-3 | The Exact Colour | 4:05 |
-| CD2-4 | The Twyncyn / Trembling Willows | 7:16 |
-| CD2-5 | Golden Clothes | 7:31 |
+| Position | Title |
+|----------|--------|
+| I-I | Aeropause |
+| I-II | Goshen's Remains |
+| I-III | Apprentice Of The Universe |
+| II-I | The Bright Ambassadors Of Morning |
+| II-II | Nimos & Tambos |
+| II-III-I | Voices In Winter |
+| II-III-II | In The Realms Of The Divine |
+| III-I | Bullitts Dominæ |
+| III-II-I | Arrival |
+| III-II-II | The Intention Craft |
+| III-III-I | He Tried To Show Them Magic! |
+| III-III-II | Ambassadors Return |
+| III-IV | Asleep Under Eiderdown |
+| IV-I | In Aurélia |
+| IV-II | Golden Clothes |
+| IV-III | The Exact Colour |
+| IV-IV-I | The Twyncyn |
+| IV-IV-II | Trembling Willows |
+| CD1-1 | Aeropause |
+| CD1-2 | Goshen’s Remains |
+| CD1-3 | Apprentice Of The Universe |
+| CD1-4 | The Bright Ambassadors Of Morning |
+| CD1-5 | Nimos And Tambos |
+| CD1-6 | Voices In Winter / In The Realms Of The Divine |
+| CD1-7 | Bullitts Dominae |
+| CD1-8 | Arrival / The Intention Craft |
+| CD1-9 | He Tried To Show Them Magic! / Ambassadors Return |
+| CD1-10 | Asleep Under Eiderdown |
+| CD2-1 | In Aurélia |
+| CD2-2 | Borgens Vor |
+| CD2-3 | The Exact Colour |
+| CD2-4 | The Twyncyn / Trembling Willows |
+| CD2-5 | Golden Clothes |
 
 
 ## Apple Music

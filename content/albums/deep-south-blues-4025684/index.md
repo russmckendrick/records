@@ -25,18 +25,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lullaby Of The Leaves |  |
-| A2 | Bourbon Street Parade |  |
-| A3 | My Honey's Lovin' Arms |  |
-| A4 | Some Of These Days |  |
-| A5 | Squeeze Me |  |
-| B1 | Lady Be Good |  |
-| B2 | Ole Rockin' Chair |  |
-| B3 | Stumblin' |  |
-| B4 | Down Home Rag |  |
-| B5 | Farewell Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lullaby Of The Leaves |
+| A2 | Bourbon Street Parade |
+| A3 | My Honey's Lovin' Arms |
+| A4 | Some Of These Days |
+| A5 | Squeeze Me |
+| B1 | Lady Be Good |
+| B2 | Ole Rockin' Chair |
+| B3 | Stumblin' |
+| B4 | Down Home Rag |
+| B5 | Farewell Blues |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: []
 | Format         | Vinyl LP (Saga label.) |
 | Label          | Presto |
 | Catalog Number | PRE 629 |
-| Notes | Sleeve says PRESTO, but label on record is SAGA.<br>Both own by manufacture.<br>Manufactured by Allied Records Ltd.<br>127 Kensal Road / London W.10 |
+| Notes | Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10 |
 | Discogs URL    | [The Mississippi Moons - Deep South Blues](https://www.discogs.com/release/4025684-The-Mississippi-Moons-Deep-South-Blues) |

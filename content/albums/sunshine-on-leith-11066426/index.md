@@ -31,20 +31,20 @@ The songs, arranged by musical director Paul Englishby, are performed by the cas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'm Gonna Be (500 Miles) | 3:34 |
-| A2 | Cap In Hand | 3:20 |
-| A3 | Then I Met You | 3:45 |
-| A4 | My Old Friend The Blues | 3:01 |
-| A5 | Sean | 3:18 |
-| A6 | Sunshine On Leith | 5:12 |
-| B1 | Come On Nature | 3:31 |
-| B2 | I'm On My Way | 3:42 |
-| B3 | What Do You Do | 3:34 |
-| B4 | It's Saturday Night | 3:22 |
-| B5 | Teardrops | 2:30 |
-| B6 | Oh Jean | 5:54 |
+| Position | Title |
+|----------|--------|
+| A1 | I'm Gonna Be (500 Miles) |
+| A2 | Cap In Hand |
+| A3 | Then I Met You |
+| A4 | My Old Friend The Blues |
+| A5 | Sean |
+| A6 | Sunshine On Leith |
+| B1 | Come On Nature |
+| B2 | I'm On My Way |
+| B3 | What Do You Do |
+| B4 | It's Saturday Night |
+| B5 | Teardrops |
+| B6 | Oh Jean |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The songs, arranged by musical director Paul Englishby, are performed by the cas
 | Format         | Vinyl LP Album Reissue |
 | Label          | Parlophone Records Ltd. |
 | Catalog Number | 0190295784416 |
-| Notes | ℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.  <br><br>Printed In us<br> |
+| Notes | ℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.    Printed In us  |
 | Discogs URL    | [The Proclaimers - Sunshine On Leith](https://www.discogs.com/release/11066426-The-Proclaimers-Sunshine-On-Leith) |

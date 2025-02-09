@@ -42,47 +42,47 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Come On Pilgrim |  |
-| A1 | Caribou |  |
-| A2 | Vamos |  |
-| A3 | Isla De Encanta |  |
-| A4 | Ed Is Dead |  |
-| B5 | The Holiday Song |  |
-| B6 | Nimrod's Son |  |
-| B7 | I've Been Tired |  |
-| B8 | Levitate Me |  |
-|  | Surfer Rosa |  |
-| C1 | Bone Machine |  |
-| C2 | Break My Body |  |
-| C3 | Something Against You |  |
-| C4 | Broken Face |  |
-| C5 | Gigantic |  |
-| C6 | River Euphrates |  |
-| D7 | Where Is My Mind? |  |
-| D8 | Cactus |  |
-| D9 | Tony's Theme |  |
-| D10 | Oh My Golly! |  |
-| D11 | Vamos |  |
-| D12 | I'm Amazed |  |
-| D13 | Brick Is Red |  |
-|  | Live From The Fallout Shelter |  |
-| E1 | The Holiday Song |  |
-| E2 | I'm Amazed |  |
-| E3 | Rock A My Soul |  |
-| E4 | Isla De Encanta |  |
-| E5 | Caribou |  |
-| E6 | Broken Face |  |
-| E7 | Subbacultcha |  |
-| E8 | Build High |  |
-| F9 | Ed Is Dead |  |
-| F10 | Nimrod's Son |  |
-| F11 | Down To The Well  |  |
-| F12 | I've Been Tired |  |
-| F13 | Boom Chicka Boom |  |
-| F14 | Vamos |  |
-| F15 | In Heaven |  |
+| Position | Title |
+|----------|--------|
+|  | Come On Pilgrim |
+| A1 | Caribou |
+| A2 | Vamos |
+| A3 | Isla De Encanta |
+| A4 | Ed Is Dead |
+| B5 | The Holiday Song |
+| B6 | Nimrod's Son |
+| B7 | I've Been Tired |
+| B8 | Levitate Me |
+|  | Surfer Rosa |
+| C1 | Bone Machine |
+| C2 | Break My Body |
+| C3 | Something Against You |
+| C4 | Broken Face |
+| C5 | Gigantic |
+| C6 | River Euphrates |
+| D7 | Where Is My Mind? |
+| D8 | Cactus |
+| D9 | Tony's Theme |
+| D10 | Oh My Golly! |
+| D11 | Vamos |
+| D12 | I'm Amazed |
+| D13 | Brick Is Red |
+|  | Live From The Fallout Shelter |
+| E1 | The Holiday Song |
+| E2 | I'm Amazed |
+| E3 | Rock A My Soul |
+| E4 | Isla De Encanta |
+| E5 | Caribou |
+| E6 | Broken Face |
+| E7 | Subbacultcha |
+| E8 | Build High |
+| F9 | Ed Is Dead |
+| F10 | Nimrod's Son |
+| F11 | Down To The Well  |
+| F12 | I've Been Tired |
+| F13 | Boom Chicka Boom |
+| F14 | Vamos |
+| F15 | In Heaven |
 
 
 ## Apple Music
@@ -99,5 +99,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Mini-Album Reissue (Gold), Vinyl LP Album Reissue (Gold), Vinyl LP (Gold), All Media Compilation (30th Anniversary) |
 | Label          | 4AD |
 | Catalog Number | 4AD0084LP |
-| Notes | Triple LP set on gold/bronze 180g vinyl in wide spine cover with download card for the live concert.<br>Each LP comes in a custom inner sleeve.<br>Tracks on each LP are continuously numbered across sides.<br><br>Sticker:<br>30th Anniversary Edition<br>Pixies' Debut EP and Album, Come On Pilgrim and Surfer Rosa, includes Bonus 1986 Radio Concert Live from the Fallout Shelter<br><br>Come On Pilgrim:<br>Recorded at Fort Apache, Roxbury, MA in March 1987<br>Come On Pilgrim all works by Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Levitate Me written by Jean Walsh, David Lovering and Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited.<br><br>Surfer Rosa:<br>Recorded and Mixed at Q Division, Boston, Massachusetts, U.S.A.<br>Surfer Rosa published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Gigantic, written by Frank Black Published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limitedand Mrs. John Murphy Published by EMI Publishing Limited.<br><br>Live From The Fallout Shelter:<br>All Songs from Live From The Fallout Shelter written and published as above except Rock A My Soul and Boom Chicka Boom by Frank Black and In Heaven written by David Lynch and Peter Ivers and published by Paul Music.<br>Licensed courtesy of The University of Massachusetts Lowell and WUML 91.5 FM. Mixed live to stereo broadcast, 15 Dec. 1986, on the WJUL radio program Live From the Fallout Shelter.<br>Interview hosted by Mark Colacito.<br><br>'Live From The Fallout Shelter' is one of the earliest recordings of the band, a radio concert that first aired in late 1986 on [l=WJUL]-FM in Lowell, MA. |
+| Notes | Triple LP set on gold/bronze 180g vinyl in wide spine cover with download card for the live concert. Each LP comes in a custom inner sleeve. Tracks on each LP are continuously numbered across sides.  Sticker: 30th Anniversary Edition Pixies' Debut EP and Album, Come On Pilgrim and Surfer Rosa, includes Bonus 1986 Radio Concert Live from the Fallout Shelter  Come On Pilgrim: Recorded at Fort Apache, Roxbury, MA in March 1987 Come On Pilgrim all works by Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Levitate Me written by Jean Walsh, David Lovering and Frank Black published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited.  Surfer Rosa: Recorded and Mixed at Q Division, Boston, Massachusetts, U.S.A. Surfer Rosa published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limited except Gigantic, written by Frank Black Published by Rice and Beans Music (BMI) administered by Universal/MCA Music Limitedand Mrs. John Murphy Published by EMI Publishing Limited.  Live From The Fallout Shelter: All Songs from Live From The Fallout Shelter written and published as above except Rock A My Soul and Boom Chicka Boom by Frank Black and In Heaven written by David Lynch and Peter Ivers and published by Paul Music. Licensed courtesy of The University of Massachusetts Lowell and WUML 91.5 FM. Mixed live to stereo broadcast, 15 Dec. 1986, on the WJUL radio program Live From the Fallout Shelter. Interview hosted by Mark Colacito.  'Live From The Fallout Shelter' is one of the earliest recordings of the band, a radio concert that first aired in late 1986 on [l=WJUL]-FM in Lowell, MA. |
 | Discogs URL    | [Pixies - Come On Pilgrim... It's Surfer Rosa](https://www.discogs.com/release/12571941-Pixies-Come-On-Pilgrim-Its-Surfer-Rosa) |

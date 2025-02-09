@@ -41,18 +41,18 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Raise Your Hands |  |
-| A2 | Mars To Liverpool |  |
-| A3 | One Day At A Time |  |
-| A4 | I'm A Wheel |  |
-| A5 | Just Another Rainbow |  |
-| B6 | Love You Forever |  |
-| B7 | Make It Up As You Go Along |  |
-| B8 | You're Not The Only One |  |
-| B9 | I'm So Bored |  |
-| B10 | Mother Nature's Song |  |
+| Position | Title |
+|----------|--------|
+| A1 | Raise Your Hands |
+| A2 | Mars To Liverpool |
+| A3 | One Day At A Time |
+| A4 | I'm A Wheel |
+| A5 | Just Another Rainbow |
+| B6 | Love You Forever |
+| B7 | Make It Up As You Go Along |
+| B8 | You're Not The Only One |
+| B9 | I'm So Bored |
+| B10 | Mother Nature's Song |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 | Format         | Vinyl LP Album Stereo (White) |
 | Label          | Warner Records |
 | Catalog Number | 5054197893957 |
-| Notes | EXCLUSIVE WHITE VINYL<br><br>Official artist and title is 'Liam Gallagher & John Squire'<br>On sleeve: Liam Gallagher John Squire<br><br>Engineered at No Expectations Studios, Hollywood, CA, USA.<br><br>Made in Germany<br><br>White vinyl catalogue number: 5054197893957<br>Standard sleeve catalogue number: 5054197893940<br>Runouts are hand etched.<br><br>300 copies of this release were retailed by Assai Records with an approved hand numbered Obi under Assai Obi Editions.<br><br>Ships with poster. |
+| Notes | EXCLUSIVE WHITE VINYL  Official artist and title is 'Liam Gallagher & John Squire' On sleeve: Liam Gallagher John Squire  Engineered at No Expectations Studios, Hollywood, CA, USA.  Made in Germany  White vinyl catalogue number: 5054197893957 Standard sleeve catalogue number: 5054197893940 Runouts are hand etched.  300 copies of this release were retailed by Assai Records with an approved hand numbered Obi under Assai Obi Editions.  Ships with poster. |
 | Discogs URL    | [Liam Gallagher - Liam Gallagher John Squire](https://www.discogs.com/release/29939659-Liam-Gallagher-John-Squire-Liam-Gallagher-John-Squire) |

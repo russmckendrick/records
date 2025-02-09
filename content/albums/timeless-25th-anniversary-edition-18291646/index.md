@@ -37,24 +37,24 @@ Goldie's <i>Timeless</i> set the standard for what a drum 'n' bass LP might achi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inner City Life |  |
-| A2 | Pressure |  |
-| A3 | Jah |  |
-| B1 | Saint Angel |  |
-| B2 | State Of Mind |  |
-| B3 | This Is A Bad |  |
-| C1 | Sea Of Tears |  |
-| C2 | Jah The Seventh Seal |  |
-| D1 | A Sense Of Rage (Sensual V.I.P. Mix) |  |
-| D2 | Still Life |  |
-| D3 | Angel |  |
-| E1 | Adrift |  |
-| E2 | Kemistry |  |
-| E3 | You & Me |  |
-| F1 | Sensual (Original Mix) |  |
-| F2 | Kemistry (V.I.P. Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Inner City Life |
+| A2 | Pressure |
+| A3 | Jah |
+| B1 | Saint Angel |
+| B2 | State Of Mind |
+| B3 | This Is A Bad |
+| C1 | Sea Of Tears |
+| C2 | Jah The Seventh Seal |
+| D1 | A Sense Of Rage (Sensual V.I.P. Mix) |
+| D2 | Still Life |
+| D3 | Angel |
+| E1 | Adrift |
+| E2 | Kemistry |
+| E3 | You & Me |
+| F1 | Sensual (Original Mix) |
+| F2 | Kemistry (V.I.P. Mix) |
 
 
 ## Apple Music

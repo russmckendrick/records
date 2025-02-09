@@ -50,19 +50,19 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cluster One | 5:58 |
-| A2 | What Do You Want From Me | 4:21 |
-| A3 | Poles Apart | 7:04 |
-| B1 | Marooned | 5:29 |
-| B2 | A Great Day For Freedom | 4:17 |
-| B3 | Wearing The Inside Out | 6:49 |
-| C1 | Take It Back | 6:12 |
-| C2 | Coming Back To Life | 6:19 |
-| C3 | Keep Talking | 6:11 |
-| D1 | Lost For Words | 5:14 |
-| D2 | High Hopes | 8:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Cluster One |
+| A2 | What Do You Want From Me |
+| A3 | Poles Apart |
+| B1 | Marooned |
+| B2 | A Great Day For Freedom |
+| B3 | Wearing The Inside Out |
+| C1 | Take It Back |
+| C2 | Coming Back To Life |
+| C3 | Keep Talking |
+| D1 | Lost For Words |
+| D2 | High Hopes |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue) |
 | Label          | Parlophone |
 | Catalog Number | 0190295477394 |
-| Notes | 25th Anniversary Blue Heavyweight Vinyl <br>Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes<br>With a Special Appearance by Stephen Hawking in "Keep Talkin" <br><br>Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company.<br>Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection.<br>All rights reserved. Made in the E.U.<br><br>[Runouts]<br>All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped  |
+| Notes | 25th Anniversary Blue Heavyweight Vinyl  Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes With a Special Appearance by Stephen Hawking in "Keep Talkin"   Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection. All rights reserved. Made in the E.U.  [Runouts] All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped  |
 | Discogs URL    | [Pink Floyd - The Division Bell](https://www.discogs.com/release/13718487-Pink-Floyd-The-Division-Bell) |

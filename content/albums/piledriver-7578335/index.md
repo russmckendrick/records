@@ -25,16 +25,16 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Waste My Time | 4:19 |
-| A2 | Oh Baby | 4:35 |
-| A3 | A Year | 5:45 |
-| A4 | Unspoken Words | 5:09 |
-| B1 | Big Fat Mama | 5:53 |
-| B2 | Paper Plane | 2:58 |
-| B3 | All The Reasons | 3:38 |
-| B4 | Roadhouse Blues | 7:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Waste My Time |
+| A2 | Oh Baby |
+| A3 | A Year |
+| A4 | Unspoken Words |
+| B1 | Big Fat Mama |
+| B2 | Paper Plane |
+| B3 | All The Reasons |
+| B4 | Roadhouse Blues |
 
 
 ## Apple Music

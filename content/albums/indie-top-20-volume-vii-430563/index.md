@@ -31,28 +31,28 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Monkey Gone To Heaven | 2:59 |
-| A2 | Made Of Stone | 4:14 |
-| A3 | Ana Ng | 3:18 |
-| A4 | Eardrum Buzz | 4:15 |
-| A5 | Dizzy | 3:24 |
-| B1 | Polish Plain | 3:52 |
-| B2 | Rain, Steam, Speed | 5:09 |
-| B3 | My Love Is Like A Gift You Can't Return | 3:06 |
-| B4 | Joe | 3:23 |
-| B5 | Happy Shopper | 2:20 |
-| C1 | Freak Scene | 3:34 |
-| C2 | Kansas | 3:30 |
-| C3 | You, Me & Everything | 3:56 |
-| C4 | Mercy Seat | 3:58 |
-| C5 | Time To Kill | 4:05 |
-| D1 | Baby You're Just You | 5:13 |
-| D2 | Sugar Luv | 3:18 |
-| D3 | Preachin' & Ramblin' | 3:52 |
-| D4 | White Knuckle Ride | 2:46 |
-| D5 | Deanna | 3:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Monkey Gone To Heaven |
+| A2 | Made Of Stone |
+| A3 | Ana Ng |
+| A4 | Eardrum Buzz |
+| A5 | Dizzy |
+| B1 | Polish Plain |
+| B2 | Rain, Steam, Speed |
+| B3 | My Love Is Like A Gift You Can't Return |
+| B4 | Joe |
+| B5 | Happy Shopper |
+| C1 | Freak Scene |
+| C2 | Kansas |
+| C3 | You, Me & Everything |
+| C4 | Mercy Seat |
+| C5 | Time To Kill |
+| D1 | Baby You're Just You |
+| D2 | Sugar Luv |
+| D3 | Preachin' & Ramblin' |
+| D4 | White Knuckle Ride |
+| D5 | Deanna |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT07 |
-| Notes | ℗ + © Beechwood Music<br>Made in England<br>1989 |
+| Notes | ℗ + © Beechwood Music Made in England 1989 |
 | Discogs URL    | [Various - Indie Top 20 Volume VII](https://www.discogs.com/release/430563-Various-Indie-Top-20-Volume-VII) |

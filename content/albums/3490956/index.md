@@ -30,17 +30,17 @@ styles: ["Industrial Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | N.W.O. | 5:29 |
-| A2 | Just One Fix | 5:11 |
-| A3 | TV II | 3:04 |
-| A4 | Hero | 4:12 |
-| A5 | Jesus Built My Hot Rod | 4:51 |
-| B1 | Scare Crow | 8:21 |
-| B2 | Psalm 69 | 5:29 |
-| B3 | Corrosion | 4:55 |
-| B4 | Grace | 3:06 |
+| Position | Title |
+|----------|--------|
+| A1 | N.W.O. |
+| A2 | Just One Fix |
+| A3 | TV II |
+| A4 | Hero |
+| A5 | Jesus Built My Hot Rod |
+| B1 | Scare Crow |
+| B2 | Psalm 69 |
+| B3 | Corrosion |
+| B4 | Grace |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Industrial Metal"]
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Sire |
 | Catalog Number | 8122-79760-1 |
-| Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.<br>℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Manufactured in the EU<br>Made in the E.U.<br><br>Issued with a printed inner sleeve with credits.<br><br>Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |
+| Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. ℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. Manufactured in the EU Made in the E.U.  Issued with a printed inner sleeve with credits.  Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |
 | Discogs URL    | [Ministry - ΚΕΦΑΛΗΞΘ](https://www.discogs.com/release/3490956-Ministry-ΚΕΦΑΛΗΞΘ) |

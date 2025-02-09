@@ -35,18 +35,18 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Town Ain't Big Enough For The Both Of Us |  |
-| A2 | Amateur Hour |  |
-| A3 | Falling In Love With Myself Again |  |
-| A4 | Here In Heaven |  |
-| A5 | Thank God It's Not Christmas |  |
-| B1 | Hasta Mañana, Monsieur |  |
-| B2 | Talent Is An Asset |  |
-| B3 | Complaints |  |
-| B4 | In My Family |  |
-| B5 | Equator |  |
+| Position | Title |
+|----------|--------|
+| A1 | This Town Ain't Big Enough For The Both Of Us |
+| A2 | Amateur Hour |
+| A3 | Falling In Love With Myself Again |
+| A4 | Here In Heaven |
+| A5 | Thank God It's Not Christmas |
+| B1 | Hasta Mañana, Monsieur |
+| B2 | Talent Is An Asset |
+| B3 | Complaints |
+| B4 | In My Family |
+| B5 | Equator |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 | Format         | Vinyl LP Album Reissue (Green [Caramel Apple]) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1269 |
-| Notes | Manufactured in the EU.<br><br>℗ 1974 Universal Music Operations Limited<br>© 1974, 2024 Universal Operations Limited<br>Licensed courtesy of Universal Operations Limited<br><br>Runouts are machine-etched. |
+| Notes | Manufactured in the EU.  ℗ 1974 Universal Music Operations Limited © 1974, 2024 Universal Operations Limited Licensed courtesy of Universal Operations Limited  Runouts are machine-etched. |
 | Discogs URL    | [Sparks - Kimono My House](https://www.discogs.com/release/32434239-Sparks-Kimono-My-House) |

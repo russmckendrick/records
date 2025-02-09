@@ -30,23 +30,23 @@ Metal Fingers flexes his producer skills, too, packing the album’s midsection 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beef Rapp | 4:39 |
-| A2 | Hoe Cakes | 3:54 |
-| A3 | Potholderz | 3:20 |
-| B1 | One Beer | 4:18 |
-| B2 | Deep Fried Frenz | 4:59 |
-| B3 | Poo-Putt Platter | 1:13 |
-| B4 | Fillet-O-Rapper | 1:03 |
-| B5 | Gumbo | 0:49 |
-| C1 | Fig Leaf Bi-Carbonate | 3:19 |
-| C2 | Kon Karne | 2:51 |
-| C3 | Guinnesses | 4:41 |
-| D1 | Kon Queso | 4:00 |
-| D2 | Rapp Snitch Knishes | 2:52 |
-| D3 | Vomitspit | 2:48 |
-| D4 | Kookies | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Beef Rapp |
+| A2 | Hoe Cakes |
+| A3 | Potholderz |
+| B1 | One Beer |
+| B2 | Deep Fried Frenz |
+| B3 | Poo-Putt Platter |
+| B4 | Fillet-O-Rapper |
+| B5 | Gumbo |
+| C1 | Fig Leaf Bi-Carbonate |
+| C2 | Kon Karne |
+| C3 | Guinnesses |
+| D1 | Kon Queso |
+| D2 | Rapp Snitch Knishes |
+| D3 | Vomitspit |
+| D4 | Kookies |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Metal Fingers flexes his producer skills, too, packing the album’s midsection 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange Crush) |
 | Label          | Rhymesayers Entertainment |
 | Catalog Number | RSE400LPC4 |
-| Notes | Rough Trade exclusive version on orange crush vinyl - limited to 3000 copies.<br><br>℗© 2004/2024 Rhymesayers Entertainment, LLC<br><br>"Made in Czech Republic" sticker on foil backside<br><br>20th Anniversary Edition with new artwork<br>Tip-on gatefold |
+| Notes | Rough Trade exclusive version on orange crush vinyl - limited to 3000 copies.  ℗© 2004/2024 Rhymesayers Entertainment, LLC  "Made in Czech Republic" sticker on foil backside  20th Anniversary Edition with new artwork Tip-on gatefold |
 | Discogs URL    | [MF Doom - MM..Food](https://www.discogs.com/release/32298090-MF-Doom-MMFood) |

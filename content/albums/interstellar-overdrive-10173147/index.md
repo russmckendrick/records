@@ -36,9 +36,9 @@ The song originated when guitarist Syd Barrett heard the band's manager Peter Je
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Interstellar Overdrive | 14:57 |
+| Position | Title |
+|----------|--------|
+| A | Interstellar Overdrive |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The song originated when guitarist Syd Barrett heard the band's manager Peter Je
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided Record Store Day Single Limited Edition Mono |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR12S6 |
-| Notes | [url=https://www.discogs.com/Pink-Floyd-Interstellar-Overdrive/release/10165060]Another version[/url] of this release exists with a different catalog number and a different barcode<br><br>• Record Store 2017 Exclusive release <br>• 4,000 pressings<br>• This track is presumed to have been recorded at the Thomson recording studio, Hemel Hempstead, Hertfordshire, UK on October 31, 1966<br>• Cover images taken from footage of Pink Floyd at the [l720953], 13 January 1967, directed by [url=https://www.discogs.com/artist/1950058-Peter-Whitehead-3]Peter Whitehead[/url]<br>• Mastered for vinyl by Andy Jackson, Tube Mastering & Ray Staff, AIR Studios<br>• Comes with a printed inner sleeve, poster and a postcard of the band<br><br>Made in the EU |
+| Notes | [url=https://www.discogs.com/Pink-Floyd-Interstellar-Overdrive/release/10165060]Another version[/url] of this release exists with a different catalog number and a different barcode  • Record Store 2017 Exclusive release  • 4,000 pressings • This track is presumed to have been recorded at the Thomson recording studio, Hemel Hempstead, Hertfordshire, UK on October 31, 1966 • Cover images taken from footage of Pink Floyd at the [l720953], 13 January 1967, directed by [url=https://www.discogs.com/artist/1950058-Peter-Whitehead-3]Peter Whitehead[/url] • Mastered for vinyl by Andy Jackson, Tube Mastering & Ray Staff, AIR Studios • Comes with a printed inner sleeve, poster and a postcard of the band  Made in the EU |
 | Discogs URL    | [Pink Floyd - Interstellar Overdrive](https://www.discogs.com/release/10173147-Pink-Floyd-Interstellar-Overdrive) |

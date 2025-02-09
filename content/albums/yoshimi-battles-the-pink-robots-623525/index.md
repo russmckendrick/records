@@ -33,19 +33,19 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fight Test | 4:14 |
-| A2 | One More Robot / Sympathy 3000-21 | 4:59 |
-| A3 | Yoshimi Battles The Pink Robots Pt. 1 | 4:45 |
-| A4 | Yoshimi Battles The Pink Robots Pt. 2 | 2:57 |
-| A5 | In The Morning Of The Magicians | 6:18 |
-| B1 | Ego Tripping At The Gates Of Hell | 4:34 |
-| B2 | Are You A Hypnotist?? | 4:44 |
-| B3 | It's Summertime | 4:20 |
-| B4 | Do You Realize?? | 3:32 |
-| B5 | All We Have Is Now | 3:53 |
-| B6 | Approaching Pavanis Mons By Balloon (Utopia Planitia) | 3:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Fight Test |
+| A2 | One More Robot / Sympathy 3000-21 |
+| A3 | Yoshimi Battles The Pink Robots Pt. 1 |
+| A4 | Yoshimi Battles The Pink Robots Pt. 2 |
+| A5 | In The Morning Of The Magicians |
+| B1 | Ego Tripping At The Gates Of Hell |
+| B2 | Are You A Hypnotist?? |
+| B3 | It's Summertime |
+| B4 | Do You Realize?? |
+| B5 | All We Have Is Now |
+| B6 | Approaching Pavanis Mons By Balloon (Utopia Planitia) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 | Format         | Vinyl LP Album (Red Translucent, Gatefold) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-48141-1 |
-| Notes | Comes in a gatefold sleeve.<br><br>Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.<br><br>© ℗ 2002 Warner Bros. Records Inc.<br>©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.<br><br>Some copies come affixed with a Cargo Distribution sticker.<br><br>Made in Germany. |
+| Notes | Comes in a gatefold sleeve.  Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.  © ℗ 2002 Warner Bros. Records Inc. ©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.  Some copies come affixed with a Cargo Distribution sticker.  Made in Germany. |
 | Discogs URL    | [The Flaming Lips - Yoshimi Battles The Pink Robots](https://www.discogs.com/release/623525-The-Flaming-Lips-Yoshimi-Battles-The-Pink-Robots) |

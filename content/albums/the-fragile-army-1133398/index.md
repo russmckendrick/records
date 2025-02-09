@@ -37,20 +37,20 @@ The Fragile Army is the Polyphonic Spree's only record on which lead guitarist A
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Section 21 (Together We're Heavy) | 0:29 |
-| A2 | Section 22 (Running Away) | 3:33 |
-| A3 | Section 23 (Get Up And Go) | 3:53 |
-| B1 | Section 24 (The Fragile Army) | 4:01 |
-| B2 | Section 25 (Younger Yesterday) | 4:35 |
-| B3 | Section 26 (We Crawl) | 3:28 |
-| C1 | Section 27 (Mental Cabaret) | 3:00 |
-| C2 | Section 28 (Guaranteed Nightlife) | 3:54 |
-| C3 | Section 29 (Light To Follow) | 4:25 |
-| D1 | Section 30 (Watch Us Explode (Justify)) | 4:41 |
-| D2 | Section 31 (Overblow Your Nest) | 4:47 |
-| D3 | Section 32 (The Championship) | 5:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Section 21 (Together We're Heavy) |
+| A2 | Section 22 (Running Away) |
+| A3 | Section 23 (Get Up And Go) |
+| B1 | Section 24 (The Fragile Army) |
+| B2 | Section 25 (Younger Yesterday) |
+| B3 | Section 26 (We Crawl) |
+| C1 | Section 27 (Mental Cabaret) |
+| C2 | Section 28 (Guaranteed Nightlife) |
+| C3 | Section 29 (Light To Follow) |
+| D1 | Section 30 (Watch Us Explode (Justify)) |
+| D2 | Section 31 (Overblow Your Nest) |
+| D3 | Section 32 (The Championship) |
 
 
 ## Apple Music

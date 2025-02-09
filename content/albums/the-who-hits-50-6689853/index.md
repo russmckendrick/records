@@ -38,29 +38,29 @@ The selections were remastered by Jon Astley, and the cover art by Richard Evans
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Zoot Suit | 2:01 |
-| A2 | I Can't Explain | 2:05 |
-| A3 | Anyway, Anyhow, Anywhere | 2:41 |
-| A4 | My Generation | 3:17 |
-| A5 | Substitute | 3:49 |
-| A6 | I'm A Boy | 2:42 |
-| B1 | Happy Jack | 2:13 |
-| B2 | Pictures Of Lily | 2:46 |
-| B3 | I Can See For Miles | 4:09 |
-| B4 | Magic Bus | 4:37 |
-| B5 | Pinball Wizard | 3:03 |
-| C1 | The Seeker | 3:13 |
-| C2 | Won't Get Fooled Again (Single Edit) | 3:40 |
-| C3 | Baba O'Riley | 5:01 |
-| C4 | Bargain | 5:35 |
-| C5 | Join Together | 4:24 |
-| D1 | 5:15 | 4:53 |
-| D2 | Squeeze Box | 2:43 |
-| D3 | Who Are You | 5:11 |
-| D4 | Real Good-Looking Boy | 3:53 |
-| D5 | Be Lucky | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Zoot Suit |
+| A2 | I Can't Explain |
+| A3 | Anyway, Anyhow, Anywhere |
+| A4 | My Generation |
+| A5 | Substitute |
+| A6 | I'm A Boy |
+| B1 | Happy Jack |
+| B2 | Pictures Of Lily |
+| B3 | I Can See For Miles |
+| B4 | Magic Bus |
+| B5 | Pinball Wizard |
+| C1 | The Seeker |
+| C2 | Won't Get Fooled Again (Single Edit) |
+| C3 | Baba O'Riley |
+| C4 | Bargain |
+| C5 | Join Together |
+| D1 | 5:15 |
+| D2 | Squeeze Box |
+| D3 | Who Are You |
+| D4 | Real Good-Looking Boy |
+| D5 | Be Lucky |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The selections were remastered by Jon Astley, and the cover art by Richard Evans
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Polydor |
 | Catalog Number | 3794051 |
-| Notes | This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051. <br>Catalog Number Disc 1: 3794052<br>Catalog Number Disc 1: 3794053<br><br>Track D5 recorded at British Grove Studios and Yellow Fish Studios.<br>All royalties from this Track are going to Teen Cancer America.<br><br>Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).<br><br>Differs from [r11234307]: runout information LP1.<br><br>Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched. |
+| Notes | This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051.  Catalog Number Disc 1: 3794052 Catalog Number Disc 1: 3794053  Track D5 recorded at British Grove Studios and Yellow Fish Studios. All royalties from this Track are going to Teen Cancer America.  Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).  Differs from [r11234307]: runout information LP1.  Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched. |
 | Discogs URL    | [The Who - The Who Hits 50!](https://www.discogs.com/release/6689853-The-Who-The-Who-Hits-50) |

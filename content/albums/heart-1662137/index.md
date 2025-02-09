@@ -28,18 +28,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tell It Like It Is |  |
-| A2 | Barracuda |  |
-| A3 | Straight On |  |
-| A4 | Dog & Butterfly |  |
-| A5 | Even It Up |  |
-| B1 | Bebe Le Strange |  |
-| B2 | Sweet Darlin |  |
-| B3 | I'm Down/Long Tall Sally |  |
-| B4 | Unchained Melody |  |
-| B5 | Rock And Roll |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tell It Like It Is |
+| A2 | Barracuda |
+| A3 | Straight On |
+| A4 | Dog & Butterfly |
+| A5 | Even It Up |
+| B1 | Bebe Le Strange |
+| B2 | Sweet Darlin |
+| B3 | I'm Down/Long Tall Sally |
+| B4 | Unchained Melody |
+| B5 | Rock And Roll |
 
 
 ## Apple Music

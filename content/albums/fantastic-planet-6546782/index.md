@@ -28,17 +28,17 @@ A working title while in development was Sur la planète Ygam (On the Planet Yga
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Into The Dunes | 4:50 |
-| A2 | No Unholy Mountain | 2:45 |
-| A3 | Rubicon | 4:17 |
-| A4 | Sisters | 4:40 |
-| A5 | Concrete Dreams | 2:28 |
-| B1 | Pulse Point | 6:58 |
-| B2 | In February | 4:21 |
-| B3 | Growing | 3:11 |
-| B4 | The Ascent | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Into The Dunes |
+| A2 | No Unholy Mountain |
+| A3 | Rubicon |
+| A4 | Sisters |
+| A5 | Concrete Dreams |
+| B1 | Pulse Point |
+| B2 | In February |
+| B3 | Growing |
+| B4 | The Ascent |
 
 
 ## Apple Music

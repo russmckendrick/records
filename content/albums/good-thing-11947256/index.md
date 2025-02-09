@@ -28,18 +28,18 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bet Ain't Worth The Hand |  |
-| A2 | Bad Bad News |  |
-| A3 | Shy |  |
-| A4 | Beyond |  |
-| A5 | Forgive You |  |
-| B1 | Lions |  |
-| B2 | If It Feels Good (Then It Must Be) |  |
-| B3 | You Don't Know |  |
-| B4 | Mrs. |  |
-| B5 | Georgia To Texas |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bet Ain't Worth The Hand |
+| A2 | Bad Bad News |
+| A3 | Shy |
+| A4 | Beyond |
+| A5 | Forgive You |
+| B1 | Lions |
+| B2 | If It Feels Good (Then It Must Be) |
+| B3 | You Don't Know |
+| B4 | Mrs. |
+| B5 | Georgia To Texas |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | C-206928 |
-| Notes | Signed copies feature a stickered barcode: 190758530611<br>Made in EU.<br>Includes download code. |
+| Notes | Signed copies feature a stickered barcode: 190758530611 Made in EU. Includes download code. |
 | Discogs URL    | [Leon Bridges - Good Thing](https://www.discogs.com/release/11947256-Leon-Bridges-Good-Thing) |

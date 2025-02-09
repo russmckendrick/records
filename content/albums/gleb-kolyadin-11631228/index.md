@@ -33,20 +33,20 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Insight |  |
-| A2 | Astral Architecture |  |
-| A3 | Kaleidoscope |  |
-| A4 | Eidolon |  |
-| A5 | Into The Void |  |
-| A6 | The Room |  |
-| B1 | Confluence |  |
-| B2 | Constellation |  |
-| B3 | Echo / Sigh / Strand  |  |
-| B4 | Penrose Stairs |  |
-| B5 | Storyteller  |  |
-| B6 | The Best Of Days |  |
+| Position | Title |
+|----------|--------|
+| A1 | Insight |
+| A2 | Astral Architecture |
+| A3 | Kaleidoscope |
+| A4 | Eidolon |
+| A5 | Into The Void |
+| A6 | The Room |
+| B1 | Confluence |
+| B2 | Constellation |
+| B3 | Echo / Sigh / Strand  |
+| B4 | Penrose Stairs |
+| B5 | Storyteller  |
+| B6 | The Best Of Days |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE973 |
-| Notes | Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.<br><br>Ⓟ 2018 Kscope Ⓒ 2018 Kscope <br>Made in the EU. |
+| Notes | Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.  Ⓟ 2018 Kscope Ⓒ 2018 Kscope  Made in the EU. |
 | Discogs URL    | [Gleb Kolyadin - Gleb Kolyadin](https://www.discogs.com/release/11631228-Gleb-Kolyadin-Gleb-Kolyadin) |

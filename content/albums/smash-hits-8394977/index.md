@@ -37,20 +37,20 @@ Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Purple Haze | 2:50 |
-| A2 | Fire | 2:43 |
-| A3 | The Wind Cries Mary | 3:20 |
-| A4 | Can You See Me | 2:33 |
-| A5 | Hey Joe | 3:30 |
-| A6 | All Along The Watchtower | 3:59 |
-| B1 | Stone Free | 3:36 |
-| B2 | Crosstown Traffic | 2:12 |
-| B3 | Manic Depression | 3:42 |
-| B4 | Remember | 2:48 |
-| B5 | Red House | 3:50 |
-| B6 | Foxey Lady | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Purple Haze |
+| A2 | Fire |
+| A3 | The Wind Cries Mary |
+| A4 | Can You See Me |
+| A5 | Hey Joe |
+| A6 | All Along The Watchtower |
+| B1 | Stone Free |
+| B2 | Crosstown Traffic |
+| B3 | Manic Depression |
+| B4 | Remember |
+| B5 | Red House |
+| B6 | Foxey Lady |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as 
 | Format         | Vinyl LP Record Store Day Compilation Reissue Remastered |
 | Label          | Experience Hendrix |
 | Catalog Number | 88985303081 |
-| Notes | Remastered reissue features alternate original cover artwork <br><br>Inner sleeve plain white<br>Includes a recreation of the poster included in the original LP release with Jimi, Mitch, and Noel dressed as cowboys from the Warner Brothers’ film studios in early 1969.<br><br>Record Store Day 2016 release, exclusively available from independent record stores.<br><br>Some have a sticker on shrink wrap that reads: "The Authorized Hendrix Family Edition. Remastered from the original 2-track master tapes. The classic original album & poster. Alternate original cover artwork. All analogue mastering by Bernie Grundman. Pressed on audiophile vinyl."<br><br>Made in the E.U.<br><br>Also marketed in Canada |
+| Notes | Remastered reissue features alternate original cover artwork   Inner sleeve plain white Includes a recreation of the poster included in the original LP release with Jimi, Mitch, and Noel dressed as cowboys from the Warner Brothers’ film studios in early 1969.  Record Store Day 2016 release, exclusively available from independent record stores.  Some have a sticker on shrink wrap that reads: "The Authorized Hendrix Family Edition. Remastered from the original 2-track master tapes. The classic original album & poster. Alternate original cover artwork. All analogue mastering by Bernie Grundman. Pressed on audiophile vinyl."  Made in the E.U.  Also marketed in Canada |
 | Discogs URL    | [The Jimi Hendrix Experience - Smash Hits](https://www.discogs.com/release/8394977-The-Jimi-Hendrix-Experience-Smash-Hits) |

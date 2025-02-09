@@ -25,20 +25,20 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eating The Dead |  |
-| A2 | Death Is The New Sex  |  |
-| A3 | SDC |  |
-| B1 | Three Birds |  |
-| B2 | A Million Colours |  |
-| B3 | Carry You |  |
-| C1 | The Last Day |  |
-| C2 | Tsunami |  |
-| C3 | Man |  |
-| D1 | Scared To Death  |  |
-| D2 | Fatally Human |  |
-| D3 | Woman |  |
+| Position | Title |
+|----------|--------|
+| A1 | Eating The Dead |
+| A2 | Death Is The New Sex  |
+| A3 | SDC |
+| B1 | Three Birds |
+| B2 | A Million Colours |
+| B3 | Carry You |
+| C1 | The Last Day |
+| C2 | Tsunami |
+| C3 | Man |
+| D1 | Scared To Death  |
+| D2 | Fatally Human |
+| D3 | Woman |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 | Format         | Vinyl LP Album Limited Edition (Magenta) |
 | Label          | Full Time Hobby |
 | Catalog Number | FTH390LPB |
-| Notes | - Supported using public funding by Arts Council England<br><br>DEAD CLUB is dedicated to anyone who is grieving<br>Limited edition of 300. <br><br>Hype Sticker reads - <br><br>"tunng<br><br>Tunng Presents ... Dead Club<br><br>A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter. <br><br>Tunng Store Exclusive <br>2x Magenta LP. limited to 300<br>Includes download code.<br>FTH390LPB"<br> |
+| Notes | - Supported using public funding by Arts Council England  DEAD CLUB is dedicated to anyone who is grieving Limited edition of 300.   Hype Sticker reads -   "tunng  Tunng Presents ... Dead Club  A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter.   Tunng Store Exclusive  2x Magenta LP. limited to 300 Includes download code. FTH390LPB"  |
 | Discogs URL    | [Tunng - Tunng Presents... Dead Club](https://www.discogs.com/release/16173154-Tunng-Tunng-Presents-Dead-Club) |

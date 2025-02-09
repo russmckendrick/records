@@ -35,19 +35,19 @@ Harlem River Blues is Justin Townes Earle's third studio album, released on Janu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harlem River Blues |  |
-| A2 | One More Night In Brooklyn |  |
-| A3 | Move Over Mama |  |
-| A4 | Workin' For The MTA |  |
-| A5 | Wanderin' |  |
-| B1 | Slippin'  And Slidin' |  |
-| B2 | Christchurch Woman |  |
-| B3 | Learning To Cry |  |
-| B4 | Ain't Waitin' |  |
-| B5 | Rogers Park |  |
-| B6 | Harlem River Blues Reprise |  |
+| Position | Title |
+|----------|--------|
+| A1 | Harlem River Blues |
+| A2 | One More Night In Brooklyn |
+| A3 | Move Over Mama |
+| A4 | Workin' For The MTA |
+| A5 | Wanderin' |
+| B1 | Slippin'  And Slidin' |
+| B2 | Christchurch Woman |
+| B3 | Learning To Cry |
+| B4 | Ain't Waitin' |
+| B5 | Rogers Park |
+| B6 | Harlem River Blues Reprise |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Harlem River Blues is Justin Townes Earle's third studio album, released on Janu
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 178 LP |
-| Notes | © ℗ 2010 Bloodshot Ltd.<br>All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except<br>"Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug<br><br>[a929782] appears courtesy of [l166451]<br>[a732399] appears courtesy of [l126609]<br> <br> |
+| Notes | © ℗ 2010 Bloodshot Ltd.  All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except  "Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug    [a929782] appears courtesy of [l166451]  [a732399] appears courtesy of [l126609]      |
 | Discogs URL    | [Justin Townes Earle - Harlem River Blues](https://www.discogs.com/release/2682819-Justin-Townes-Earle-Harlem-River-Blues) |

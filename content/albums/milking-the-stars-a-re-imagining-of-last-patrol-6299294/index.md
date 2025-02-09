@@ -35,20 +35,20 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let The Circus Burn |  |
-| A2 | Mindless Ones '68 |  |
-| A3 | No Paradise For Me |  |
-| B1 | End Of Time (B-3) |  |
-| B2 | Milking The Stars |  |
-| B3 | Hallelujah (Fuzz And Swamp) |  |
-| C1 | I Live Behind The Clouds (Roughed Up And Slightly Spaced) |  |
-| C2 | Goliath Returns |  |
-| C3 | Stay Tuned (Even Sadder) |  |
-| C4 | The Duke (Full On Drums 'n Wah) |  |
-| D1 | Last Patrol (Live) |  |
-| D2 | Three Kingfishers (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Let The Circus Burn |
+| A2 | Mindless Ones '68 |
+| A3 | No Paradise For Me |
+| B1 | End Of Time (B-3) |
+| B2 | Milking The Stars |
+| B3 | Hallelujah (Fuzz And Swamp) |
+| C1 | I Live Behind The Clouds (Roughed Up And Slightly Spaced) |
+| C2 | Goliath Returns |
+| C3 | Stay Tuned (Even Sadder) |
+| C4 | The Duke (Full On Drums 'n Wah) |
+| D1 | Last Patrol (Live) |
+| D2 | Three Kingfishers (Live) |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 563 LP |
-| Notes | Limited Edition. Gatefold 2-LP on black 180 g vinyl.<br>It's not a new  album, it's a re-imagining of [url=http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229]Last Patrol[/url], with two new songs, six overworked songs and two live songs.<br><br>New vocal, guitar, bass and keyboard tracks recorded March 2014.<br>Mixed at JHOC Studios<br><br>© + ℗ 2014 Napalm Records Handels GmbH<br>Made in Germany<br> |
+| Notes | Limited Edition. Gatefold 2-LP on black 180 g vinyl. It's not a new  album, it's a re-imagining of [url=http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229]Last Patrol[/url], with two new songs, six overworked songs and two live songs.  New vocal, guitar, bass and keyboard tracks recorded March 2014. Mixed at JHOC Studios  © + ℗ 2014 Napalm Records Handels GmbH Made in Germany  |
 | Discogs URL    | [Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol](https://www.discogs.com/release/6299294-Monster-Magnet-Milking-The-Stars-A-Re-Imagining-Of-Last-Patrol) |

@@ -28,18 +28,18 @@ Extreme is the first studio album by the American glam metal band Extreme, relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Little Girls | 3:45 |
-| A2 | Wind Me Up | 3:35 |
-| A3 | Kid Ego | 4:02 |
-| A4 | Watching, Waiting | 4:54 |
-| A5 | Mutha (Don't Wanna Go To School Today) | 4:49 |
-| B1 | Teacher's Pet | 3:01 |
-| B2 | Big Boys Don't Cry | 3:34 |
-| B3 | Smoke Signals | 4:13 |
-| B4 | Flesh N' Blood | 3:30 |
-| B5 | Rock A Bye Bye | 5:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Little Girls |
+| A2 | Wind Me Up |
+| A3 | Kid Ego |
+| A4 | Watching, Waiting |
+| A5 | Mutha (Don't Wanna Go To School Today) |
+| B1 | Teacher's Pet |
+| B2 | Big Boys Don't Cry |
+| B3 | Smoke Signals |
+| B4 | Flesh N' Blood |
+| B5 | Rock A Bye Bye |
 
 
 ## Apple Music

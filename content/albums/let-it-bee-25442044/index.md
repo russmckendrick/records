@@ -27,19 +27,19 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Beat Of Love | 4:03 |
-| A2 | Sorrow Floats | 4:15 |
-| A3 | Don't Call Me Baby | 3:07 |
-| A4 | Man In The Moon | 3:07 |
-| A5 | What You Have Is Enough | 2:34 |
-| A6 | Oh Love | 3:00 |
-| B1 | I Walk The Earth | 3:45 |
-| B2 | Trust Me | 3:16 |
-| B3 | I Say Nothing | 3:25 |
-| B4 | There's A Barbarian In The Back Of My Car | 2:35 |
-| B5 | Just A City | 4:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Beat Of Love |
+| A2 | Sorrow Floats |
+| A3 | Don't Call Me Baby |
+| A4 | Man In The Moon |
+| A5 | What You Have Is Enough |
+| A6 | Oh Love |
+| B1 | I Walk The Earth |
+| B2 | Trust Me |
+| B3 | I Say Nothing |
+| B4 | There's A Barbarian In The Back Of My Car |
+| B5 | Just A City |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
 | Label          | London Records |
 | Catalog Number | LMS5521766 |
-| Notes | Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.<br><br>Copies ordered from the artist's online store (via Townsend Music) come with a signed print.<br><br>Manufactured in France. |
+| Notes | Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.  Copies ordered from the artist's online store (via Townsend Music) come with a signed print.  Manufactured in France. |
 | Discogs URL    | [Voice Of The Beehive - Let It Bee](https://www.discogs.com/release/25442044-Voice-Of-The-Beehive-Let-It-Bee) |

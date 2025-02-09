@@ -28,10 +28,10 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Music For Insomniacs - Part 1 | 23:35 |
-| B1 | Music For Insomniacs - Part 2 | 22:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Music For Insomniacs - Part 1 |
+| B1 | Music For Insomniacs - Part 2 |
 
 
 ## Apple Music
@@ -48,5 +48,5 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 | Format         | Vinyl LP Album (Blue) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP321 |
-| Notes | 'Music For Insomniacs' was recorded in Matt Berry's studio between March and May 2012.<br><br>Dedicated to insomnia sufferers everywhere. Sleep well.<br><br>Limited number of copies were available signed. |
+| Notes | 'Music For Insomniacs' was recorded in Matt Berry's studio between March and May 2012.    Dedicated to insomnia sufferers everywhere. Sleep well.    Limited number of copies were available signed. |
 | Discogs URL    | [Matt Berry - Music For Insomniacs](https://www.discogs.com/release/5685420-Matt-Berry-3-Music-For-Insomniacs) |

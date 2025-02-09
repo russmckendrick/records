@@ -38,22 +38,22 @@ In 2020, Frampton Comes Alive! was inducted into the Grammy Hall of Fame.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | (Baby) Something's Happening | 5:54 |
-| A2 | Doobie Wah | 5:28 |
-| A3 | Show Me The Way | 4:42 |
-| A4 | It's A Plain Shame | 4:21 |
-| B1 | All I Want To Be (Is By Your Side) | 3:27 |
-| B2 | Wind Of Change | 2:47 |
-| B3 | Baby, I Love Your Way | 4:43 |
-| B4 | I Wanna Go To The Sun | 7:02 |
-| C1 | Penny For Your Thoughts | 1:23 |
-| C2 | (I'll Give You) Money | 5:39 |
-| C3 | Shine On | 3:35 |
-| C4 | Jumping Jack Flash | 7:45 |
-| D1 | Lines On My Face | 7:06 |
-| D2 | Do You Feel Like We Do | 14:15 |
+| Position | Title |
+|----------|--------|
+| A1 | (Baby) Something's Happening |
+| A2 | Doobie Wah |
+| A3 | Show Me The Way |
+| A4 | It's A Plain Shame |
+| B1 | All I Want To Be (Is By Your Side) |
+| B2 | Wind Of Change |
+| B3 | Baby, I Love Your Way |
+| B4 | I Wanna Go To The Sun |
+| C1 | Penny For Your Thoughts |
+| C2 | (I'll Give You) Money |
+| C3 | Shine On |
+| C4 | Jumping Jack Flash |
+| D1 | Lines On My Face |
+| D2 | Do You Feel Like We Do |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ In 2020, Frampton Comes Alive! was inducted into the Grammy Hall of Fame.
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | A&M Records |
 | Catalog Number | AMLM 63703 |
-| Notes | Side C may have metalwork sent from the USA via [l264380].<br><br>Runouts are stamped except SP 37xx numbers and "MB M5-EX ∴ (MR) Δ20308 England" which are etched.<br><br>℗ 1976 A&M Records Inc.<br>Differs From:<br>[r456090]: Different label layout, different rear cover<br>[r5870498]: Different label layout, printed by Robor Ltd.<br>[r6361031]: Different label layout<br>Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York.<br>Remixed at Electric Lady Studios, New York.<br>Mastered at the Mastering Lab, Los Angeles.<br>Auto-coupled release.<br><br>Released in gatefold sleeve.<br> |
+| Notes | Side C may have metalwork sent from the USA via [l264380].  Runouts are stamped except SP 37xx numbers and "MB M5-EX ∴ (MR) Δ20308 England" which are etched.  ℗ 1976 A&M Records Inc. Differs From: [r456090]: Different label layout, different rear cover [r5870498]: Different label layout, printed by Robor Ltd. [r6361031]: Different label layout Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York. Remixed at Electric Lady Studios, New York. Mastered at the Mastering Lab, Los Angeles. Auto-coupled release.  Released in gatefold sleeve.  |
 | Discogs URL    | [Peter Frampton - Frampton Comes Alive!](https://www.discogs.com/release/7084077-Peter-Frampton-Frampton-Comes-Alive) |

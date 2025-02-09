@@ -29,12 +29,12 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Are ‘Friends’ Electric? |  |
-| A2 | Pretty In Pink |  |
-| B1 | Labelled With Love |  |
-| B2 | Geno |  |
+| Position | Title |
+|----------|--------|
+| A1 | Are ‘Friends’ Electric? |
+| A2 | Pretty In Pink |
+| B1 | Labelled With Love |
+| B2 | Geno |
 
 
 ## Apple Music

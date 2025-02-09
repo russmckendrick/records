@@ -45,23 +45,23 @@ The album did not chart in the UK, due to it being packaged with a couple of sti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Invisible Man |  |
-| A2 | Marbles I |  |
-| A3 | Genie |  |
-| B1 | Fantastic Place |  |
-| B2 | The Only Unforgivable Thing |  |
-| B3 | Marbles II |  |
-| C1 | Ocean Cloud |  |
-| C2 | Marbles III |  |
-| D1 | The Damage |  |
-| D2 | Don't Hurt Yourself |  |
-| D3 | You're Gone |  |
-| E1 | Angelina |  |
-| E2 | Drilling Holes |  |
-| F1 | Marbles IV |  |
-| F2 | Neverland |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Invisible Man |
+| A2 | Marbles I |
+| A3 | Genie |
+| B1 | Fantastic Place |
+| B2 | The Only Unforgivable Thing |
+| B3 | Marbles II |
+| C1 | Ocean Cloud |
+| C2 | Marbles III |
+| D1 | The Damage |
+| D2 | Don't Hurt Yourself |
+| D3 | You're Gone |
+| E1 | Angelina |
+| E2 | Drilling Holes |
+| F1 | Marbles IV |
+| F2 | Neverland |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The album did not chart in the UK, due to it being packaged with a couple of sti
 | Format         | Vinyl 3× LP Reissue, Box Set Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1086 |
-| Notes | 3 LP box set with book.<br>It includes the tracks 'Genie', 'The Only Unforgivable Thing', 'Ocean Cloud' and 'The Damage' which have not previously been available on vinyl.<br><br>Mastered at Super Audio Mastering.<br>Written, recorded and mixed at The Racket Club, Buckinghamshire, for the whole of 2002, 2003 and the beginning of 2004 Phew... Take the rest of the day off, Dave...<br><br>The copyright in this sound recording is owned by Intact Recordings.under exclusive license to Snapper Music Plc. <br>℗ 2004 Intact Recordings under exclusive license to Snapper Music Plc. <br>© 2004 Intact Recordings under exclusive license to Snapper Music Plc. <br><br>Made in EU. www.marillion.com |
+| Notes | 3 LP box set with book. It includes the tracks 'Genie', 'The Only Unforgivable Thing', 'Ocean Cloud' and 'The Damage' which have not previously been available on vinyl.  Mastered at Super Audio Mastering. Written, recorded and mixed at The Racket Club, Buckinghamshire, for the whole of 2002, 2003 and the beginning of 2004 Phew... Take the rest of the day off, Dave...  The copyright in this sound recording is owned by Intact Recordings.under exclusive license to Snapper Music Plc.  ℗ 2004 Intact Recordings under exclusive license to Snapper Music Plc.  © 2004 Intact Recordings under exclusive license to Snapper Music Plc.   Made in EU. www.marillion.com |
 | Discogs URL    | [Marillion - Marbles](https://www.discogs.com/release/10716478-Marillion-Marbles) |

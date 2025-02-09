@@ -28,20 +28,20 @@ Guns is the fifth studio album by English rock band Cardiacs. It was recorded an
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spell With A Shell | 3:17 |
-| A2 | There's Good Cud | 2:17 |
-| A3 | Wind And Rains Is Cold | 3:21 |
-| A4 | Cry Wet Smile Dry | 3:28 |
-| A5 | Jitterbug (Junior Is A) | 7:31 |
-| B1 | Sleep All Eyes Open | 2:59 |
-| B2 | Come Back Clammy Lammy | 4:07 |
-| B3 | Clean That Evil Mud Out Your Soul | 2:25 |
-| B4 | Ain't He Messy Though | 2:03 |
-| B5 | Signs | 4:26 |
-| B6 | Song Of A Dead Pest | 2:37 |
-| B7 | Will Bleed Amen | 7:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Spell With A Shell |
+| A2 | There's Good Cud |
+| A3 | Wind And Rains Is Cold |
+| A4 | Cry Wet Smile Dry |
+| A5 | Jitterbug (Junior Is A) |
+| B1 | Sleep All Eyes Open |
+| B2 | Come Back Clammy Lammy |
+| B3 | Clean That Evil Mud Out Your Soul |
+| B4 | Ain't He Messy Though |
+| B5 | Signs |
+| B6 | Song Of A Dead Pest |
+| B7 | Will Bleed Amen |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Guns is the fifth studio album by English rock band Cardiacs. It was recorded an
 | Format         | Vinyl LP Album Limited Edition Numbered |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP027 |
-| Notes |  "The first 200 pressings will have a special sticker to make them even more special." (They are numbered)<br>Pressings without the shrink wrap sticker are found here: [r=12334086] <br>Comes in a gatefold sleeve with a picture inner sleeve and a download coupon. <br><br>Recorded and mixed at Apollo 8 London England.<br><br>Made in England.<br><br>©&℗ Alphabet 1999 |
+| Notes |  "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999 |
 | Discogs URL    | [Cardiacs - Guns](https://www.discogs.com/release/7235227-Cardiacs-Guns) |

@@ -32,17 +32,17 @@ Two years after their triumphant comeback album, <i>Evergreen</i>, Echo & The Bu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What Are You Going To Do With Your Life? |  |
-| A2 | Rust |  |
-| A3 | Get In The Car |  |
-| A4 | Baby Rain |  |
-| B1 | History Chimes |  |
-| B2 | Lost On You |  |
-| B3 | Morning Sun |  |
-| B4 | When It All Blows Over |  |
-| B5 | Fools Like Us |  |
+| Position | Title |
+|----------|--------|
+| A1 | What Are You Going To Do With Your Life? |
+| A2 | Rust |
+| A3 | Get In The Car |
+| A4 | Baby Rain |
+| B1 | History Chimes |
+| B2 | Lost On You |
+| B3 | Morning Sun |
+| B4 | When It All Blows Over |
+| B5 | Fools Like Us |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Two years after their triumphant comeback album, <i>Evergreen</i>, Echo & The Bu
 | Format         | Vinyl LP Album Limited Edition Reissue (Rust) |
 | Label          | London Records |
 | Catalog Number | LMS1725285 |
-| Notes | 25th Anniversary Edition on Rust colour Vinyl limited to 1000 copies worldwide.<br>Rust Orange Vinyl.<br><br>Barcode label on shrink wrap covers barcode printed on album cover.<br><br>Printed disk labels specify LMS1725111 as do matrix runouts |
+| Notes | 25th Anniversary Edition on Rust colour Vinyl limited to 1000 copies worldwide. Rust Orange Vinyl.  Barcode label on shrink wrap covers barcode printed on album cover.  Printed disk labels specify LMS1725111 as do matrix runouts |
 | Discogs URL    | [Echo  The Bunnymen - What Are You Going To Do With Your Life?](https://www.discogs.com/release/32438634-Echo-The-Bunnymen-What-Are-You-Going-To-Do-With-Your-Life) |

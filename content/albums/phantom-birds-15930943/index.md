@@ -29,21 +29,21 @@ Phantom Birds is the eighth studio album by English comedian and musician Matt B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Something In My Eye |  |
-| A2 | You Danced All Night |  |
-| A3 | Phantom Birds |  |
-| A4 | Moonlight Flit |  |
-| A5 | Man Of Doom |  |
-| A6 | Where's My Love? |  |
-| B1 | Take A Bow |  |
-| B2 | Intermission |  |
-| B3 | Hail To The King |  |
-| B4 | In My Mind |  |
-| B5 | That Yellow Bird |  |
-| B6 | Waving Goodbye |  |
-| B7 | Covered In Clowns |  |
+| Position | Title |
+|----------|--------|
+| A1 | Something In My Eye |
+| A2 | You Danced All Night |
+| A3 | Phantom Birds |
+| A4 | Moonlight Flit |
+| A5 | Man Of Doom |
+| A6 | Where's My Love? |
+| B1 | Take A Bow |
+| B2 | Intermission |
+| B3 | Hail To The King |
+| B4 | In My Mind |
+| B5 | That Yellow Bird |
+| B6 | Waving Goodbye |
+| B7 | Covered In Clowns |
 
 
 ## Apple Music

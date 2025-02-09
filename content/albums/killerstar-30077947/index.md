@@ -28,16 +28,16 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Should’ve Known Better | 5:45 |
-| A2 | Everybody Loves A Hero | 4:16 |
-| A3 | Got Me All Wrong | 4:18 |
-| A4 | Go (Hold On Tight) | 5:30 |
-| B1 | Feel It | 3:57 |
-| B2 | You’re A Chameleon | 3:50 |
-| B3 | Too Late | 4:09 |
-| B4 | Falling Through | 6:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Should’ve Known Better |
+| A2 | Everybody Loves A Hero |
+| A3 | Got Me All Wrong |
+| A4 | Go (Hold On Tight) |
+| B1 | Feel It |
+| B2 | You’re A Chameleon |
+| B3 | Too Late |
+| B4 | Falling Through |
 
 
 ## Apple Music

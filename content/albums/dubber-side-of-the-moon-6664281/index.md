@@ -29,17 +29,17 @@ Dubber Side of the Moon is the second dub reggae tribute to the Pink Floyd album
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speak To Me / Breathe (In The Air) | 3:52 |
-| A2 | On The Run | 4:04 |
-| A3 | Time | 5:46 |
-| A4 | The Great Gig In The Sky | 5:06 |
-| B1 | Money | 6:38 |
-| B2 | Us And Them | 6:00 |
-| B3 | Any Colour You Like | 4:04 |
-| B4 | Brain Damage | 4:28 |
-| B5 | Eclipse | 2:29 |
+| Position | Title |
+|----------|--------|
+| A1 | Speak To Me / Breathe (In The Air) |
+| A2 | On The Run |
+| A3 | Time |
+| A4 | The Great Gig In The Sky |
+| B1 | Money |
+| B2 | Us And Them |
+| B3 | Any Colour You Like |
+| B4 | Brain Damage |
+| B5 | Eclipse |
 
 
 ## Apple Music

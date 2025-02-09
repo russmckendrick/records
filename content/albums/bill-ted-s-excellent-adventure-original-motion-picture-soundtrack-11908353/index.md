@@ -32,18 +32,18 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Play With Me | 3:31 |
-| A2 | The Boys And Girls Are Doing It | 3:22 |
-| A3 | Not So Far Away | 3:47 |
-| A4 | Dancing With A Gypsy | 4:02 |
-| A5 | Father Time | 5:15 |
-| B1 | I Can't Break Away | 3:36 |
-| B2 | Dangerous | 3:13 |
-| B3 | Walk Away | 4:11 |
-| B4 | In Time | 5:09 |
-| B5 | Two Heads Are Better Than One | 4:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Play With Me |
+| A2 | The Boys And Girls Are Doing It |
+| A3 | Not So Far Away |
+| A4 | Dancing With A Gypsy |
+| A5 | Father Time |
+| B1 | I Can't Break Away |
+| B2 | Dangerous |
+| B3 | Walk Away |
+| B4 | In Time |
+| B5 | Two Heads Are Better Than One |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | B0026799-01 |
-| Notes | Standard black vinyl version. <br>No OBI strip.<br><br>Co-Release with Rusted Wave & Mondo<br>LP housed in a silver board jacket<br>Includes printed inner sleeve & insert<br>Initial pressing of 500 LPs on black vinyl |
+| Notes | Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl |
 | Discogs URL    | [Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack](https://www.discogs.com/release/11908353-Various-Bill-Teds-Excellent-Adventure-Original-Motion-Picture-Soundtrack) |

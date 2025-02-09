@@ -31,18 +31,18 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fraction Too Much Friction | 4:14 |
-| A2 | Made My Day | 3:23 |
-| A3 | Not For Nothing | 3:25 |
-| A4 | In A Minor Key | 3:56 |
-| A5 | Grand Adventure | 3:32 |
-| B1 | Staring At The Embers | 3:02 |
-| B2 | Wait And See | 3:57 |
-| B3 | I Only Want To Know | 4:02 |
-| B4 | Growing Pains | 3:01 |
-| B5 | Through The Years | 3:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Fraction Too Much Friction |
+| A2 | Made My Day |
+| A3 | Not For Nothing |
+| A4 | In A Minor Key |
+| A5 | Grand Adventure |
+| B1 | Staring At The Embers |
+| B2 | Wait And See |
+| B3 | I Only Want To Know |
+| B4 | Growing Pains |
+| B5 | Through The Years |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 53104 |
-| Notes | All runouts are etched<br><br>Made In Australia<br><br>℗ 1983 MUSHROOM RECORDS.<br>MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST.<br>TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.<br> |
+| Notes | All runouts are etched  Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.  |
 | Discogs URL    | [Tim Finn - Escapade](https://www.discogs.com/release/2733922-Tim-Finn-Escapade) |

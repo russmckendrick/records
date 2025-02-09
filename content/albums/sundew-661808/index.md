@@ -34,18 +34,18 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eternity | 3:21 |
-| A2 | Fade | 3:58 |
-| A3 | Smile | 3:32 |
-| A4 | Slippery Man | 3:51 |
-| A5 | What Goes On | 4:04 |
-| B1 | Perfume (Loved Up) | 4:10 |
-| B2 | Louise | 3:05 |
-| B3 | Breathless | 5:34 |
-| B4 | Chaos (Stupid Stupid) | 4:02 |
-| B5 | Purest Values | 4:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Eternity |
+| A2 | Fade |
+| A3 | Smile |
+| A4 | Slippery Man |
+| A5 | What Goes On |
+| B1 | Perfume (Loved Up) |
+| B2 | Louise |
+| B3 | Breathless |
+| B4 | Chaos (Stupid Stupid) |
+| B5 | Purest Values |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2667 |
-| Notes | Laminated cover<br>Inner sleeve with photo and credits<br><br>[Label]<br>Manufactured by the UK |
+| Notes | Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK |
 | Discogs URL    | [Paris Angels - Sundew](https://www.discogs.com/release/661808-Paris-Angels-Sundew) |

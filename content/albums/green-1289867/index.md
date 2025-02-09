@@ -37,21 +37,21 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Air |  |
-| A1 | Pop Song 89 | 3:03 |
-| A2 | Get Up | 2:35 |
-| A3 | You Are The Everything | 3:45 |
-| A4 | Stand | 3:10 |
-| A5 | World Leader Pretend | 4:15 |
-| A6 | The Wrong Child | 3:35 |
-|  | Metal |  |
-| B7 | Orange Crush | 3:50 |
-| B8 | Turn You Inside Out | 4:15 |
-| B9 | Hairshirt | 3:55 |
-| B10 | I Remember California | 5:05 |
-| B11 | Untitled | 3:15 |
+| Position | Title |
+|----------|--------|
+|  | Air |
+| A1 | Pop Song 89 |
+| A2 | Get Up |
+| A3 | You Are The Everything |
+| A4 | Stand |
+| A5 | World Leader Pretend |
+| A6 | The Wrong Child |
+|  | Metal |
+| B7 | Orange Crush |
+| B8 | Turn You Inside Out |
+| B9 | Hairshirt |
+| B10 | I Remember California |
+| B11 | Untitled |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 795-1 |
-| Notes | Recorded at Ardent Studios, Memphis, Tennessee.<br>Mixed at Bearsville Studios, Bearsville, New York.<br>Mastered at Masterdisk N.Y.C.<br><br>Manufactured in Germany by Record Service GmbH, Alsdorf (on center labels).<br>Manufactured in Germany. Pressé En Allemagne: Teldec Record Service GmbH. A Warner Communications Company (on the sleeve)<br><br>Sleeve notes include lyrics to "World Leader Pretend."<br><br>The front cover has the text '4' in spot varnish twice.<br>Many copies of this release had two stickers on the back cover. One white sticker with a barcode, various catalog numbers, a French price code, and one gray sticker with the tracklisting.<br><br>"UK: WX 234” on spine, indicating WX 234 is the UK catalog number.<br><br>Tracks are numbered sequentially across both sides. Sides are labeled "Air" and "Metal."<br><br>© 1988 R.E.M./Athens Ltd.<br>℗ 1988 R.E.M./Athens Ltd.<br><br>Publisher: Night Garden Music BMI<br><br>Track B11 only noted on the label.<br><br>For a Direct Metal Mastered (DMM) version also pressed at Alsdorf, please see [r=15202613].<br>For a mixed Alsdorf pressing with DMM on one side and BN on the other, please see [r=15174885].<br><br>Runouts: "R/S Alsdorf 925795-1-A(B)" is stamped, the remainder is etched. |
+| Notes | Recorded at Ardent Studios, Memphis, Tennessee. Mixed at Bearsville Studios, Bearsville, New York. Mastered at Masterdisk N.Y.C.  Manufactured in Germany by Record Service GmbH, Alsdorf (on center labels). Manufactured in Germany. Pressé En Allemagne: Teldec Record Service GmbH. A Warner Communications Company (on the sleeve)  Sleeve notes include lyrics to "World Leader Pretend."  The front cover has the text '4' in spot varnish twice. Many copies of this release had two stickers on the back cover. One white sticker with a barcode, various catalog numbers, a French price code, and one gray sticker with the tracklisting.  "UK: WX 234” on spine, indicating WX 234 is the UK catalog number.  Tracks are numbered sequentially across both sides. Sides are labeled "Air" and "Metal."  © 1988 R.E.M./Athens Ltd. ℗ 1988 R.E.M./Athens Ltd.  Publisher: Night Garden Music BMI  Track B11 only noted on the label.  For a Direct Metal Mastered (DMM) version also pressed at Alsdorf, please see [r=15202613]. For a mixed Alsdorf pressing with DMM on one side and BN on the other, please see [r=15174885].  Runouts: "R/S Alsdorf 925795-1-A(B)" is stamped, the remainder is etched. |
 | Discogs URL    | [REM - Green](https://www.discogs.com/release/1289867-REM-Green) |

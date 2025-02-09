@@ -36,18 +36,18 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Hurting | 4:16 |
-| A2 | Mad World | 3:35 |
-| A3 | Pale Shelter | 4:34 |
-| A4 | Ideas As Opiates | 3:46 |
-| A5 | Memories Fade | 5:01 |
-| B1 | Suffer The Children | 3:49 |
-| B2 | Watch Me Bleed | 4:15 |
-| B3 | Change | 4:13 |
-| B4 | The Prisoner | 2:55 |
-| B5 | Start Of The Breakdown | 4:57 |
+| Position | Title |
+|----------|--------|
+| A1 | The Hurting |
+| A2 | Mad World |
+| A3 | Pale Shelter |
+| A4 | Ideas As Opiates |
+| A5 | Memories Fade |
+| B1 | Suffer The Children |
+| B2 | Watch Me Bleed |
+| B3 | Change |
+| B4 | The Prisoner |
+| B5 | Start Of The Breakdown |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 378 944-0 |
-| Notes | Issued with a printed inner sleeve, containing credits and lyrics.<br>Including digital download code. <br><br>Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd.<br>All lyrics Copyright Control.<br><br>"Pale Shelter" on this release, is the second single version.<br><br>Track durations are not printed on the release.<br><br>Runouts are machine stamped.<br><br>℗ & © 1983 Mercury Records Ltd.<br><br>Made in the EU. |
+| Notes | Issued with a printed inner sleeve, containing credits and lyrics. Including digital download code.   Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd. All lyrics Copyright Control.  "Pale Shelter" on this release, is the second single version.  Track durations are not printed on the release.  Runouts are machine stamped.  ℗ & © 1983 Mercury Records Ltd.  Made in the EU. |
 | Discogs URL    | [Tears For Fears - The Hurting](https://www.discogs.com/release/5934162-Tears-For-Fears-The-Hurting) |

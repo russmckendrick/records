@@ -39,26 +39,26 @@ It is the final album to feature keyboardist Barry Andrews, who went on to form 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Meccanik Dancing (Oh We Go!) | 2:35 |
-| A2 | Battery Brides (Andy Paints Brian) | 4:30 |
-| A3 | Buzzcity Talking | 2:45 |
-| A4 | Crowded Room | 3:05 |
-| A5 | The Rhythm | 3:00 |
-| A6 | Red | 3:00 |
-| B1 | Beatown | 4:34 |
-| B2 | Life Is Good In The Greenhouse | 4:45 |
-| B3 | Jumping In Gomorrah | 2:00 |
-| B4 | My Weapon | 2:18 |
-| B5 | Super-Tuff | 4:25 |
-| B6 | I Am The Audience | 3:40 |
-|  | Go+ |  |
-| C1 | Dance With Me, Germany | 3:29 |
-| C2 | Beat The Bible | 2:16 |
-| D1 | A Dictionary Of Modern Marriage | 2:36 |
-| D2 | Clap Clap Clap | 2:25 |
-| D3 | We Kill The Beast | 2:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Meccanik Dancing (Oh We Go!) |
+| A2 | Battery Brides (Andy Paints Brian) |
+| A3 | Buzzcity Talking |
+| A4 | Crowded Room |
+| A5 | The Rhythm |
+| A6 | Red |
+| B1 | Beatown |
+| B2 | Life Is Good In The Greenhouse |
+| B3 | Jumping In Gomorrah |
+| B4 | My Weapon |
+| B5 | Super-Tuff |
+| B6 | I Am The Audience |
+|  | Go+ |
+| C1 | Dance With Me, Germany |
+| C2 | Beat The Bible |
+| D1 | A Dictionary Of Modern Marriage |
+| D2 | Clap Clap Clap |
+| D3 | We Kill The Beast |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ It is the final album to feature keyboardist Barry Andrews, who went on to form 
 | Format         | Vinyl LP Album Stereo, Vinyl 12" 45 RPM EP Stereo, All Media Limited Edition Reissue (200g) |
 | Label          | Ape House |
 | Catalog Number | APELPX102 |
-| Notes | Issued with poly-lined colour printed inner sleeves, and housed in a gatefold jacket.<br>All runout details are hand etched.<br><br>[Sticker:]<br>XTC . GO2<br>A ltd. 2 disc, gatefold reissue of the 1978 album complete with 5 track 12” Go+ unavailable on vinyl since original release. 200g super-heavyweight vinyl.<br><br>[Rear jacket:]<br>[...] assistant engineers Haydn Bendall and Pete James at Abbey Road, also, Ande Llewelyn and Jess Sutcliffe at Matrix [...]<br>[...] this is a product of Ape House Ltd. under license from Virgin Records Ltd. [...] This edition ℗2023 Ape House Ltd. This sleeve was written and photographed by Hipgnosis and printed in England by RAD Printing Ltd. The discs were manufactured by Vinyl Factory UK.<br><br>[Labels sides A & B:]<br>[...] this edition is a product of Ape House Ltd. and is licensed from Virgin Records Ltd. ℗ 2023 Ape House Ltd. Made in the United Kingdom.<br><br>[Labels sides C & D:]<br>℗ 2023 Ape House Ltd. under license from Virgin Records Ltd. [...] Made in the UK. |
+| Notes | Issued with poly-lined colour printed inner sleeves, and housed in a gatefold jacket. All runout details are hand etched.  [Sticker:] XTC . GO2 A ltd. 2 disc, gatefold reissue of the 1978 album complete with 5 track 12” Go+ unavailable on vinyl since original release. 200g super-heavyweight vinyl.  [Rear jacket:] [...] assistant engineers Haydn Bendall and Pete James at Abbey Road, also, Ande Llewelyn and Jess Sutcliffe at Matrix [...] [...] this is a product of Ape House Ltd. under license from Virgin Records Ltd. [...] This edition ℗2023 Ape House Ltd. This sleeve was written and photographed by Hipgnosis and printed in England by RAD Printing Ltd. The discs were manufactured by Vinyl Factory UK.  [Labels sides A & B:] [...] this edition is a product of Ape House Ltd. and is licensed from Virgin Records Ltd. ℗ 2023 Ape House Ltd. Made in the United Kingdom.  [Labels sides C & D:] ℗ 2023 Ape House Ltd. under license from Virgin Records Ltd. [...] Made in the UK. |
 | Discogs URL    | [XTC - Go 2](https://www.discogs.com/release/27125847-XTC-Go-2) |

@@ -33,19 +33,19 @@ styles: ["Country"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All I Need | 2:52 |
-| A2 | Rex's Blues | 2:15 |
-| A3 | The Hills Of Roane  | 3:53 |
-| A4 | Sky Blue | 2:34 |
-| A5 | Forever, For Always, For Certain | 2:28 |
-| A6 | Blue Ridge Mtns. (Smokey Version) | 2:58 |
-| B1 | Pancho & Lefty | 3:54 |
-| B2 | Snake Song | 2:08 |
-| B3 | Silver Ship of Andilar | 5:30 |
-| B4 | Dream Spider | 1:57 |
-| B5 | Last Thing On My Mind | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | All I Need |
+| A2 | Rex's Blues |
+| A3 | The Hills Of Roane  |
+| A4 | Sky Blue |
+| A5 | Forever, For Always, For Certain |
+| A6 | Blue Ridge Mtns. (Smokey Version) |
+| B1 | Pancho & Lefty |
+| B2 | Snake Song |
+| B3 | Silver Ship of Andilar |
+| B4 | Dream Spider |
+| B5 | Last Thing On My Mind |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Country"]
 | Format         | Vinyl LP Album Limited Edition (White Vinyl) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1706-1 |
-| Notes | Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.<br><br>Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.<br><br>Includes Download Card |
+| Notes | Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.  Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.  Includes Download Card |
 | Discogs URL    | [Townes Van Zandt - Sky Blue](https://www.discogs.com/release/13310013-Townes-Van-Zandt-Sky-Blue) |

@@ -35,22 +35,22 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knives | 1:56 |
-| A2 | Screamager | 2:36 |
-| A3 | Hellbelly | 3:20 |
-| A4 | Stop It You're Killing Me | 3:50 |
-| A5 | Nowhere | 2:26 |
-| A6 | Die Laughing | 2:48 |
-| A7 | Unbeliever | 3:28 |
-| B1 | Trigger Inside | 3:56 |
-| B2 | Lunacy Booth | 3:55 |
-| B3 | Isolation | 3:10 |
-| B4 | Turn | 3:49 |
-| B5 | Femtex | 3:14 |
-| B6 | Unrequited | 3:03 |
-| B7 | Brainsaw | 3:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Knives |
+| A2 | Screamager |
+| A3 | Hellbelly |
+| A4 | Stop It You're Killing Me |
+| A5 | Nowhere |
+| A6 | Die Laughing |
+| A7 | Unbeliever |
+| B1 | Trigger Inside |
+| B2 | Lunacy Booth |
+| B3 | Isolation |
+| B4 | Turn |
+| B5 | Femtex |
+| B6 | Unrequited |
+| B7 | Brainsaw |
 
 
 ## Apple Music

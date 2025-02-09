@@ -24,22 +24,22 @@ styles: ["Contemporary Jazz"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Carrier | 6:17 |
-| A2 | Broken | 7:20 |
-| A3 | Sixth Sense | 6:59 |
-| B1 | Monsoon | 4:18 |
-| B2 | Half Self | 4:46 |
-| B3 | Taal Caldera | 5:38 |
-| B4 | Sedna | 5:54 |
-| 1 | Carrier |  |
-| 2 | Broken |  |
-| 3 | Sixth Sense |  |
-| 4 | Monsoon |  |
-| 5 | Half Self |  |
-| 6 | Taal Caldera |  |
-| 7 | Sedna |  |
+| Position | Title |
+|----------|--------|
+| A1 | Carrier |
+| A2 | Broken |
+| A3 | Sixth Sense |
+| B1 | Monsoon |
+| B2 | Half Self |
+| B3 | Taal Caldera |
+| B4 | Sedna |
+| 1 | Carrier |
+| 2 | Broken |
+| 3 | Sixth Sense |
+| 4 | Monsoon |
+| 5 | Half Self |
+| 6 | Taal Caldera |
+| 7 | Sedna |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Contemporary Jazz"]
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Hubro |
 | Catalog Number | HUBROLP3587 |
-| Notes | Recorded at Hljoðriti, Hafnarfjörður, Iceland, January 2015 and at Kennel Collective, Oslo, January 2017.<br>Mixed at Amper Tone, Oslo, March 2017.<br>Mastered at Tinnitus Mastering, Oslo, October 2017.<br>(p) & (c) Grappa Musikkforlag AS 2018 |
+| Notes | Recorded at Hljoðriti, Hafnarfjörður, Iceland, January 2015 and at Kennel Collective, Oslo, January 2017. Mixed at Amper Tone, Oslo, March 2017. Mastered at Tinnitus Mastering, Oslo, October 2017. (p) & (c) Grappa Musikkforlag AS 2018 |
 | Discogs URL    | [Splashgirl - Sixth Sense](https://www.discogs.com/release/11750748-Splashgirl-Sixth-Sense) |

@@ -30,19 +30,19 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All This Music Must Fade |  |
-| A2 | Ball And Chain |  |
-| A3 | I Don't Wanna Get Wise |  |
-| A4 | Detour |  |
-| A5 | Beads On One String |  |
-| A6 | Hero Ground Zero |  |
-| B1 | Street Song |  |
-| B2 | I'll Be Back |  |
-| B3 | Break The News |  |
-| B4 | Rockin' In Rage |  |
-| B5 | She Rocked My World |  |
+| Position | Title |
+|----------|--------|
+| A1 | All This Music Must Fade |
+| A2 | Ball And Chain |
+| A3 | I Don't Wanna Get Wise |
+| A4 | Detour |
+| A5 | Beads On One String |
+| A6 | Hero Ground Zero |
+| B1 | Street Song |
+| B2 | I'll Be Back |
+| B3 | Break The News |
+| B4 | Rockin' In Rage |
+| B5 | She Rocked My World |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
 | Label          | Polydor |
 | Catalog Number | 0830402 |
-| Notes | The First Studio Album since 2006<br><br>Includes free digital download code of all songs of "Who"<br><br>℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited<br><br>Made in the EU<br> |
+| Notes | The First Studio Album since 2006  Includes free digital download code of all songs of "Who"  ℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited  Made in the EU  |
 | Discogs URL    | [The Who - Who](https://www.discogs.com/release/14492295-The-Who-Who) |

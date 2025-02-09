@@ -35,18 +35,18 @@ The album's lead track, "Murder She Said," is a cover of the theme from the four
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Murder She Said | 1:57 |
-| A2 | The More I See (The Less I Believe) | 3:38 |
-| A3 | Going Home | 3:36 |
-| A4 | We're Having All The Fun | 2:51 |
-| A5 | The Farm Yard Connection | 2:46 |
-| B1 | The Tunnel Of Love | 3:08 |
-| B2 | Our Lips Are Sealed | 3:36 |
-| B3 | The Pressure Of Life (Takes Weight Off The Body) | 3:10 |
-| B4 | Things We Do | 3:36 |
-| B5 | Well Fancy That! | 3:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Murder She Said |
+| A2 | The More I See (The Less I Believe) |
+| A3 | Going Home |
+| A4 | We're Having All The Fun |
+| A5 | The Farm Yard Connection |
+| B1 | The Tunnel Of Love |
+| B2 | Our Lips Are Sealed |
+| B3 | The Pressure Of Life (Takes Weight Off The Body) |
+| B4 | Things We Do |
+| B5 | Well Fancy That! |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album's lead track, "Murder She Said," is a cover of the theme from the four
 | Format         | Vinyl LP Album Reissue Remastered (Blue Translucent, 180gm) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CHV1427 |
-| Notes | Hype Sticker:<br>WAITING<br>180gm TRANSLUCENT BLUE VINYL<br>Features the hits:<br>OUR LIPS ARE SEALED, THE TUNNEL OF LOVE<br>and THE MORE I SEE (The Less I Believe)<br>★★★★★★★★★★★★★★★★★★★★★★★★★★<br>CRV1427<br><br>The runouts are etched. |
+| Notes | Hype Sticker: WAITING 180gm TRANSLUCENT BLUE VINYL Features the hits: OUR LIPS ARE SEALED, THE TUNNEL OF LOVE and THE MORE I SEE (The Less I Believe) ★★★★★★★★★★★★★★★★★★★★★★★★★★ CRV1427  The runouts are etched. |
 | Discogs URL    | [Fun Boy Three - Waiting](https://www.discogs.com/release/27873642-Fun-Boy-Three-Waiting) |

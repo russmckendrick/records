@@ -30,18 +30,18 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Late Last Night | 4:05 |
-| A2 | Walking Down A Road | 5:19 |
-| A3 | Titus | 3:11 |
-| A4 | Lovey Dovey | 3:01 |
-| A5 | Sweet Dreams | 4:59 |
-| B1 | Stranger Than Fiction | 7:06 |
-| B2 | Time For A Change | 4:02 |
-| B3 | Matinee Idyll | 2:54 |
-| B4 | The Woman Who Loves You | 6:46 |
-| B5 | Mental Notes | 0:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Late Last Night |
+| A2 | Walking Down A Road |
+| A3 | Titus |
+| A4 | Lovey Dovey |
+| A5 | Sweet Dreams |
+| B1 | Stranger Than Fiction |
+| B2 | Time For A Change |
+| B3 | Matinee Idyll |
+| B4 | The Woman Who Loves You |
+| B5 | Mental Notes |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1131 |
-| Notes | Released in a gatefold cover.<br><br>On the label the cat.nr. appears as ''CHR-1131''.<br>Recorded at Basing St. Studios, London April/May 1976.<br><br>This is a re-recorded version with a new producer, new versions of old tracks and some new tracks. <br> |
+| Notes | Released in a gatefold cover.    On the label the cat.nr. appears as ''CHR-1131''.  Recorded at Basing St. Studios, London April/May 1976.    This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.    |
 | Discogs URL    | [Split Enz - Mental Notes](https://www.discogs.com/release/1445113-Split-Enz-Mental-Notes) |

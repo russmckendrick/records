@@ -35,16 +35,16 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Woman In Chains | 6:31 |
-| A2 | Badman's Song | 8:32 |
-| A3 | Sowing The Seeds Of Love | 6:19 |
-| A4 | Advice For The Young At Heart | 4:50 |
-| B1 | Standing On The Corner Of The Third World | 5:33 |
-| B2 | Swords And Knives | 6:12 |
-| B3 | Year Of The Knife | 7:08 |
-| B4 | Famous Last Words | 4:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Woman In Chains |
+| A2 | Badman's Song |
+| A3 | Sowing The Seeds Of Love |
+| A4 | Advice For The Young At Heart |
+| B1 | Standing On The Corner Of The Third World |
+| B2 | Swords And Knives |
+| B3 | Year Of The Knife |
+| B4 | Famous Last Words |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 | Format         | Vinyl LP Album Reissue (Gatefold, 180G) |
 | Label          | Fontana |
 | Catalog Number | 4770716 |
-| Notes | 2020 Reissue in a high gloss gatefold sleeve with lyrics printed on the inside and a plain sky blue inner sleeve.<br>Some copies include a "The Sound of Vinyl" download code card.<br><br>National Album Day (NAD) 2020 Release in UK.<br><br>This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited.<br>Made in Germany. 0602547707161<br><br>This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited.<br>Universal International Music B.V. Gerrit Van Der  Veenlaan 4, 3743 DN, Baran, Netherlands<br>Made in EU. 0602547707161 (Variant 6)<br><br>On inner sleeve “ Lead Guiatr ” for tracks B3<br><br>“Vocal” credits for Curt Smith and Roland Orzabal are not specified on this release<br><br>Small 4770716 on the bottom of the one side of the inner sleeve<br><br>Mixed in SuperBascombeVision.<br><br>Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”), and the entire Optimal character string is mirrored (e.g., “1△” vs “△↾”). |
+| Notes | 2020 Reissue in a high gloss gatefold sleeve with lyrics printed on the inside and a plain sky blue inner sleeve. Some copies include a "The Sound of Vinyl" download code card.  National Album Day (NAD) 2020 Release in UK.  This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited. Made in Germany. 0602547707161  This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited. Universal International Music B.V. Gerrit Van Der  Veenlaan 4, 3743 DN, Baran, Netherlands Made in EU. 0602547707161 (Variant 6)  On inner sleeve “ Lead Guiatr ” for tracks B3  “Vocal” credits for Curt Smith and Roland Orzabal are not specified on this release  Small 4770716 on the bottom of the one side of the inner sleeve  Mixed in SuperBascombeVision.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”), and the entire Optimal character string is mirrored (e.g., “1△” vs “△↾”). |
 | Discogs URL    | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/16026538-Tears-For-Fears-The-Seeds-Of-Love) |

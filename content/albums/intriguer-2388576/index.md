@@ -30,18 +30,18 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Saturday Sun | 3:26 |
-| A2 | Archer's Arrows | 4:05 |
-| A3 | Amsterdam | 3:35 |
-| A4 | Either Side Of The World | 4:35 |
-| A5 | Falling Dove | 4:35 |
-| B1 | Isolation | 4:37 |
-| B2 | Twice If You're Lucky | 3:33 |
-| B3 | Inside Out | 3:19 |
-| B4 | Even If | 4:03 |
-| B5 | Elephants | 4:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Saturday Sun |
+| A2 | Archer's Arrows |
+| A3 | Amsterdam |
+| A4 | Either Side Of The World |
+| A5 | Falling Dove |
+| B1 | Isolation |
+| B2 | Twice If You're Lucky |
+| B3 | Inside Out |
+| B4 | Even If |
+| B5 | Elephants |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 | Format         | Vinyl LP Album |
 | Label          | Universal Music Group International |
 | Catalog Number | 00602527415185 |
-| Notes | Recorded at Roundhead Studios, Auckland May-Aug 09<br>Mixed at PLYRZ Studios, LA<br>Mastered @ Gateway Mastering & DVD Portland.<br>Additional recording @ Exchequer Studios, Dublin.<br>Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.<br><br>Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover<br> |
+| Notes | Recorded at Roundhead Studios, Auckland May-Aug 09 Mixed at PLYRZ Studios, LA Mastered @ Gateway Mastering & DVD Portland. Additional recording @ Exchequer Studios, Dublin. Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.  Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover  |
 | Discogs URL    | [Crowded House - Intriguer](https://www.discogs.com/release/2388576-Crowded-House-Intriguer) |

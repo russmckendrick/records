@@ -36,18 +36,18 @@ Upon the albums release, critical and fan reception was generally positive. Many
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Edin |  |
-| A2 | Pentagrams |  |
-| A3 | Sighommi |  |
-| A4 | Pentecost |  |
-| A5 | War Dreams Of Itself |  |
-| B1 | Who Goes There |  |
-| B2 | 999 |  |
-| B3 | Goeth The Fall |  |
-| B4 | Sicarus |  |
-| B5 | Murnau |  |
+| Position | Title |
+|----------|--------|
+| A1 | Edin |
+| A2 | Pentagrams |
+| A3 | Sighommi |
+| A4 | Pentecost |
+| A5 | War Dreams Of Itself |
+| B1 | Who Goes There |
+| B2 | 999 |
+| B3 | Goeth The Fall |
+| B4 | Sicarus |
+| B5 | Murnau |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Upon the albums release, critical and fan reception was generally positive. Many
 | Format         | Vinyl LP Album (Independent Record Store Edition) |
 | Label          | Martha's Music |
 | Catalog Number | 06537LP |
-| Notes | Hype sticker: "Independent Record Store Exclusive"<br><br>℗ & © 2024 Martha's Music<br><br>The Independent Record Store Edition comes with a poster.<br><br>No country indicated on the sleeve<br><br> |
+| Notes | Hype sticker: "Independent Record Store Exclusive"  ℗ & © 2024 Martha's Music  The Independent Record Store Edition comes with a poster.  No country indicated on the sleeve   |
 | Discogs URL    | [The Smashing Pumpkins - Aghori Mhori Mei](https://www.discogs.com/release/32366532-The-Smashing-Pumpkins-Aghori-Mhori-Mei) |

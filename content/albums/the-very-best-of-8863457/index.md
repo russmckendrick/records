@@ -35,26 +35,26 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sara Smile | 3:07 |
-| A2 | Rich Girl | 2:23 |
-| A3 | It's A Laugh (Single Version) | 3:38 |
-| A4 | Wait For Me | 3:59 |
-| A5 | You've Lost That Lovin' Feeling | 4:36 |
-| B1 | Kiss On My List | 3:48 |
-| B2 | You Make My Dreams | 3:10 |
-| B3 | Private Eyes | 3:29 |
-| B4 | I Can't Go For That (No Can Do) | 5:07 |
-| B5 | Did It In A Minute | 3:37 |
-| C1 | Maneater | 4:34 |
-| C2 | One On One | 4:28 |
-| C3 | Family Man | 3:25 |
-| C4 | Say It Isn't So | 4:17 |
-| D1 | Adult Education (Promotional 12") | 4:34 |
-| D2 | Out Of Touch (Single Version) | 3:55 |
-| D3 | Method Of Modern Love | 5:27 |
-| D4 | Some Things Are Better Left Unsaid | 5:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Sara Smile |
+| A2 | Rich Girl |
+| A3 | It's A Laugh (Single Version) |
+| A4 | Wait For Me |
+| A5 | You've Lost That Lovin' Feeling |
+| B1 | Kiss On My List |
+| B2 | You Make My Dreams |
+| B3 | Private Eyes |
+| B4 | I Can't Go For That (No Can Do) |
+| B5 | Did It In A Minute |
+| C1 | Maneater |
+| C2 | One On One |
+| C3 | Family Man |
+| C4 | Say It Isn't So |
+| D1 | Adult Education (Promotional 12") |
+| D2 | Out Of Touch (Single Version) |
+| D3 | Method Of Modern Love |
+| D4 | Some Things Are Better Left Unsaid |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Gray / Blue) |
 | Label          | RCA |
 | Catalog Number | 88985330971 |
-| Notes | Legacy edition. First time on vinyl for this compilation.<br>LP1 is pressed on gray vinyl, LP2 on blue vinyl.<br><br>Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment.<br>The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.<br><br>This package consists of previously released material.<br> |
+| Notes | Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material.  |
 | Discogs URL    | [Daryl Hall  John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |

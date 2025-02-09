@@ -29,15 +29,15 @@ Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dissolution (The Clouds Disperse) | 6:11 |
-| A2 | O-I | 4:09 |
-| A3 | Phalarn Dawn | 7:28 |
-| A4 | The Domes Of G'Bal | 4:37 |
-| B1 | Ayurvedic | 10:58 |
-| B2 | Kick Muck | 3:56 |
-| B3 | Agog In The Ether | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Dissolution (The Clouds Disperse) |
+| A2 | O-I |
+| A3 | Phalarn Dawn |
+| A4 | The Domes Of G'Bal |
+| B1 | Ayurvedic |
+| B2 | Kick Muck |
+| B3 | Agog In The Ether |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles
 | Format         | Vinyl LP Album Reissue (Blue) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1059 |
-| Notes | Sticker in front:<br>"Ozric Tentacles<br>2020 Ed Wynne Kscope Remaster Series<br>On Coloured Vinyl"<br><br>Remastered by Ed Wynne in 2020 |
+| Notes | Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020 |
 | Discogs URL    | [Ozric Tentacles - Pungent Effulgent](https://www.discogs.com/release/15341487-Ozric-Tentacles-Pungent-Effulgent) |

@@ -35,27 +35,27 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit) |  |
-| A2 | Doin' Damage In My Native Language (Shadow’s Legitimate Remix) |  |
-| A3 | See And Don't See |  |
-| A4 | Friends & Countrymen |  |
-| A5 | Food Of My De-Rhythm |  |
-| B1 | Return Of The Original Art Form (DJ Mix) |  |
-| B2 | Ravers Suck Our Sound And Get Fuck |  |
-| B3 | Contemplating Jazz |  |
-| B4 | Blue Flowers |  |
-| B5 | Kemuri |  |
-| C1 | Back And Forth |  |
-| C2 | What Does Your Soul Look Like (Part 3) |  |
-| C3 | Flow |  |
-| C4 | Organ Donor (Extended Overhaul) |  |
-| C5 | Rabbit In Your Headlights |  |
-| D1 | Swan Lake |  |
-| D2 | Reign |  |
-| D3 | …Like Clockwork |  |
-| D4 | What Does Your Soul Look Like (Part 1) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit) |
+| A2 | Doin' Damage In My Native Language (Shadow’s Legitimate Remix) |
+| A3 | See And Don't See |
+| A4 | Friends & Countrymen |
+| A5 | Food Of My De-Rhythm |
+| B1 | Return Of The Original Art Form (DJ Mix) |
+| B2 | Ravers Suck Our Sound And Get Fuck |
+| B3 | Contemplating Jazz |
+| B4 | Blue Flowers |
+| B5 | Kemuri |
+| C1 | Back And Forth |
+| C2 | What Does Your Soul Look Like (Part 3) |
+| C3 | Flow |
+| C4 | Organ Donor (Extended Overhaul) |
+| C5 | Rabbit In Your Headlights |
+| D1 | Swan Lake |
+| D2 | Reign |
+| D3 | …Like Clockwork |
+| D4 | What Does Your Soul Look Like (Part 1) |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
 | Label          | UMC |
 | Catalog Number | 6727901 |
-| Notes | Gatefold sleeve.<br><br>Including download code and director's notes. |
+| Notes | Gatefold sleeve.  Including download code and director's notes. |
 | Discogs URL    | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |

@@ -35,22 +35,22 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The State I Am In |  |
-| A2 | Like Dylan In The Movies |  |
-| A3 | Judy And The Dream Of Horses |  |
-| A4 | The Stars Of Track And Field |  |
-| B1 | I Could Be Dreaming |  |
-| B2 | Seymour Stein |  |
-| B3 | Lazy Jane |  |
-| C1 | Sleep The Clock Around |  |
-| C2 | Slow Graffiti |  |
-| C3 | Wrong Love |  |
-| D1 | Shoot The Sexual Athlete |  |
-| D2 | The Magic Of A Kind Word |  |
-| D3 | Nothing In The Silence |  |
-| D4 | (My Girl's Got) Miraculous Technique |  |
+| Position | Title |
+|----------|--------|
+| A1 | The State I Am In |
+| A2 | Like Dylan In The Movies |
+| A3 | Judy And The Dream Of Horses |
+| A4 | The Stars Of Track And Field |
+| B1 | I Could Be Dreaming |
+| B2 | Seymour Stein |
+| B3 | Lazy Jane |
+| C1 | Sleep The Clock Around |
+| C2 | Slow Graffiti |
+| C3 | Wrong Love |
+| D1 | Shoot The Sexual Athlete |
+| D2 | The Magic Of A Kind Word |
+| D3 | Nothing In The Silence |
+| D4 | (My Girl's Got) Miraculous Technique |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP018 |
-| Notes | Tracks A1 to B1 ℗ 1996 BBC<br>Tracks B2 to C2 ℗ 1997 BBC<br>Track C3 ℗ 1998 BBC<br>Tracks D1 to D4 ℗ 2001 BBC<br><br>The copyright in these sound recordings is owned by the BBC<br>This compilation: ℗ 2008, © 2008<br>Released by arrangement with BBC Music.<br><br>Includes OBI strip: All the Classics reissued on vinyl / It Could Have Been a Brilliant Career / Includes free download of entire album. |
+| Notes | Tracks A1 to B1 ℗ 1996 BBC Tracks B2 to C2 ℗ 1997 BBC Track C3 ℗ 1998 BBC Tracks D1 to D4 ℗ 2001 BBC  The copyright in these sound recordings is owned by the BBC This compilation: ℗ 2008, © 2008 Released by arrangement with BBC Music.  Includes OBI strip: All the Classics reissued on vinyl / It Could Have Been a Brilliant Career / Includes free download of entire album. |
 | Discogs URL    | [Belle  Sebastian - The BBC Sessions](https://www.discogs.com/release/13321532-Belle-And-Sebastian-The-BBC-Sessions) |

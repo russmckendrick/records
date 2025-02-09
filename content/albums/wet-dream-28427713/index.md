@@ -40,18 +40,18 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mediterranean C | 3:54 |
-| A2 | Against The Odds | 3:57 |
-| A3 | Cat Cruise | 5:48 |
-| A4 | Summer Elegy | 4:59 |
-| A5 | Waves | 5:12 |
-| B1 | Holiday | 6:13 |
-| B2 | Mad Yannis Dance | 3:19 |
-| B3 | Drop In From The Top | 3:29 |
-| B4 | Pink's Song | 3:29 |
-| B5 | Funky Deux | 5:03 |
+| Position | Title |
+|----------|--------|
+| A1 | Mediterranean C |
+| A2 | Against The Odds |
+| A3 | Cat Cruise |
+| A4 | Summer Elegy |
+| A5 | Waves |
+| B1 | Holiday |
+| B2 | Mad Yannis Dance |
+| B3 | Drop In From The Top |
+| B4 | Pink's Song |
+| B5 | Funky Deux |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Remixed, Blue Marbled) |
 | Label          | Parlophone |
 | Catalog Number | 5054197662348 |
-| Notes | First pressing since 1978<br>Limited edition on blue marble vinyl<br>Gatefold & soft touch sleeve + two panel double sided poster. <br>Made In Germany. |
+| Notes | First pressing since 1978 Limited edition on blue marble vinyl Gatefold & soft touch sleeve + two panel double sided poster.  Made In Germany. |
 | Discogs URL    | [Richard Wright - Wet Dream](https://www.discogs.com/release/28427713-Richard-Wright-Wet-Dream) |

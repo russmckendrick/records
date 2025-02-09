@@ -38,20 +38,20 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | TC And Honeybear |  |
-| A2 | Marz |  |
-| A3 | Where Dreams Go To Die |  |
-| B1 | Sigourney Weaver |  |
-| B2 | Chicken Bones |  |
-| B3 | Silver Platter Club |  |
-| C1 | It's Easier |  |
-| C2 | Outer Space |  |
-| C3 | Jesus Hates Faggots |  |
-| D1 | Caramel |  |
-| D2 | Leopard & Lamb |  |
-| D3 | Queen Of Denmark |  |
+| Position | Title |
+|----------|--------|
+| A1 | TC And Honeybear |
+| A2 | Marz |
+| A3 | Where Dreams Go To Die |
+| B1 | Sigourney Weaver |
+| B2 | Chicken Bones |
+| B3 | Silver Platter Club |
+| C1 | It's Easier |
+| C2 | Outer Space |
+| C3 | Jesus Hates Faggots |
+| D1 | Caramel |
+| D2 | Leopard & Lamb |
+| D3 | Queen Of Denmark |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | Bellav235 |
-| Notes | Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)<br><br>℗ & © Bella Union 2010<br>Made in the EU. |
+| Notes | Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)  ℗ & © Bella Union 2010 Made in the EU. |
 | Discogs URL    | [John Grant - Queen Of Denmark](https://www.discogs.com/release/2262071-John-Grant-Queen-Of-Denmark) |

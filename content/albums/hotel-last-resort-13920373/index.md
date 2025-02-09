@@ -32,21 +32,21 @@ Hotel Last Resort is the tenth studio album by American rock band Violent Femmes
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Another Chorus |  |
-| A2 | I Get What I Want |  |
-| A3 | I'm Nothing  |  |
-| A4 | Adam Was A Man |  |
-| A5 | Not Ok |  |
-| A6 | Hotel Last Resort |  |
-| B1 | Everlasting You |  |
-| B2 | It's All Or Nothing |  |
-| B3 | I'm Not Gonna Cry |  |
-| B4 | This Free Ride |  |
-| B5 | Paris To Sleep |  |
-| B6 | Sleepin' At The Meetin' |  |
-| B7 | God Bless America |  |
+| Position | Title |
+|----------|--------|
+| A1 | Another Chorus |
+| A2 | I Get What I Want |
+| A3 | I'm Nothing  |
+| A4 | Adam Was A Man |
+| A5 | Not Ok |
+| A6 | Hotel Last Resort |
+| B1 | Everlasting You |
+| B2 | It's All Or Nothing |
+| B3 | I'm Not Gonna Cry |
+| B4 | This Free Ride |
+| B5 | Paris To Sleep |
+| B6 | Sleepin' At The Meetin' |
+| B7 | God Bless America |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Hotel Last Resort is the tenth studio album by American rock band Violent Femmes
 | Format         | Vinyl LP Album |
 | Label          | Add It Up Productions |
 | Catalog Number | PIASR1100LP |
-| Notes | Includes printed insert containing credits.<br>Comes with a download card.<br>Downloads by 45RPM - Powered by dropscards.<br><br>Runouts are etched. |
+| Notes | Includes printed insert containing credits. Comes with a download card. Downloads by 45RPM - Powered by dropscards.  Runouts are etched. |
 | Discogs URL    | [Violent Femmes - Hotel Last Resort](https://www.discogs.com/release/13920373-Violent-Femmes-Hotel-Last-Resort) |

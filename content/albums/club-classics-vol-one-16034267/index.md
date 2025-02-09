@@ -31,18 +31,18 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Keep On Movin' | 6:02 |
-| A2 | Fairplay  | 3:58 |
-| A3 | Holdin' On (Bambelela) | 3:52 |
-| A4 | Feeling Free (Live Rap) | 4:16 |
-| A5 | African Dance | 6:08 |
-| B1 | Dance  | 3:42 |
-| B2 | Feel Free | 5:05 |
-| B3 | Happiness Dub | 5:34 |
-| B4 | Back To Life (Acapella) | 3:48 |
-| B5 | Jazzie's Groove | 2:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Keep On Movin' |
+| A2 | Fairplay  |
+| A3 | Holdin' On (Bambelela) |
+| A4 | Feeling Free (Live Rap) |
+| A5 | African Dance |
+| B1 | Dance  |
+| B2 | Feel Free |
+| B3 | Happiness Dub |
+| B4 | Back To Life (Acapella) |
+| B5 | Jazzie's Groove |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Gold & Black, 180g) |
 | Label          | 10 Records |
 | Catalog Number | 3507526 |
-| Notes | National Album Day 2020 Release<br>Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.<br><br>Catalogue number on sticker is: 3507526<br>Catalogue number on sleeve & labels is: 00602435075266<br><br>℗ 1989 10 Records Ltd.<br>© 2020 10 Records Ltd.<br>Manufactured in the EU.<br>Made in Germany. |
+| Notes | National Album Day 2020 Release Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.  Catalogue number on sticker is: 3507526 Catalogue number on sleeve & labels is: 00602435075266  ℗ 1989 10 Records Ltd. © 2020 10 Records Ltd. Manufactured in the EU. Made in Germany. |
 | Discogs URL    | [Soul II Soul - Club Classics Vol. One](https://www.discogs.com/release/16034267-Soul-II-Soul-Club-Classics-Vol-One) |

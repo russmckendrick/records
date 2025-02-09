@@ -33,20 +33,20 @@ styles: ["Downtempo", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Allatonceness | 4:28 |
-| A2 | Bliss | 3:52 |
-| A3 | Sociometer Blues | 3:44 |
-| A4 | Hide Your Fires | 3:07 |
-| A5 | Summer Season | 4:26 |
-| A6 | Molehills | 4:11 |
-| B1 | Strawberry Moon | 3:43 |
-| B2 | You're Not There | 3:01 |
-| B3 | Haven’t You Heard | 3:11 |
-| B4 | Safe & Well | 4:34 |
-| B5 | Dreg Queen | 3:41 |
-| B6 | Turn Off The Light | 4:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Allatonceness |
+| A2 | Bliss |
+| A3 | Sociometer Blues |
+| A4 | Hide Your Fires |
+| A5 | Summer Season |
+| A6 | Molehills |
+| B1 | Strawberry Moon |
+| B2 | You're Not There |
+| B3 | Haven’t You Heard |
+| B4 | Safe & Well |
+| B5 | Dreg Queen |
+| B6 | Turn Off The Light |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Downtempo", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Yellow [Emoji Yellow]) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT157LPX |
-| Notes | Hype Sticker: Limited Edition Indie Exclusive Emoji Yellow Vinyl ROCKACT157LPX<br>Catalogue number on spine, back cover, inner sleeve and vinyl labels: ROCKACT157LP<br><br>Some copies came with a two-sided 12"x12" signed art print.<br><br>Includes a printed inner sleeve.<br><br>Assai Records retailed 300 copies of this release with an approved hand-numbered Japanese style Obi signed by Arab Strap under Assai Obi editions. Some copies included an art card with UK tour dates on the reverse.<br><br>Published by BMG Rights Management (UK) Ltd.<br><br>Cover painting: "Spadające Gwiazda" by Witold Pruszkowski, 1884. |
+| Notes | Hype Sticker: Limited Edition Indie Exclusive Emoji Yellow Vinyl ROCKACT157LPX Catalogue number on spine, back cover, inner sleeve and vinyl labels: ROCKACT157LP  Some copies came with a two-sided 12"x12" signed art print.  Includes a printed inner sleeve.  Assai Records retailed 300 copies of this release with an approved hand-numbered Japanese style Obi signed by Arab Strap under Assai Obi editions. Some copies included an art card with UK tour dates on the reverse.  Published by BMG Rights Management (UK) Ltd.  Cover painting: "Spadające Gwiazda" by Witold Pruszkowski, 1884. |
 | Discogs URL    | [Arab Strap - I'm Totally Fine With It 👍 Don't Give A Fuck Anymore 👍](https://www.discogs.com/release/30624874-Arab-Strap-Im-Totally-Fine-With-It-Dont-Give-A-Fuck-Anymore-) |

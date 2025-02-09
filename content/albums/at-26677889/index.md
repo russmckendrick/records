@@ -29,20 +29,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | I |  |
-| A1 | The Sea Holds The Memory |  |
-| A2 | My Regeneration |  |
-| A3 | Bundle Of Their Dreams |  |
-| A4 | Everything Twice |  |
-| A5 | Save Me A Weekend |  |
-|  | II |  |
-| B1 | Three Sheep Grazing |  |
-| B2 | Best Fun Time For Ages |  |
-| B3 | It's Family |  |
-| B4 | The Happiness Index |  |
-| B5 | Rock 'N' Roll Star |  |
+| Position | Title |
+|----------|--------|
+|  | I |
+| A1 | The Sea Holds The Memory |
+| A2 | My Regeneration |
+| A3 | Bundle Of Their Dreams |
+| A4 | Everything Twice |
+| A5 | Save Me A Weekend |
+|  | II |
+| B1 | Three Sheep Grazing |
+| B2 | Best Fun Time For Ages |
+| B3 | It's Family |
+| B4 | The Happiness Index |
+| B5 | Rock 'N' Roll Star |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Stereo (Purple) |
 | Label          | Floating World |
 | Catalog Number | FWLP052 |
-| Notes | Recorded in Melbourne and Auckland<br>Mixed in Oxfordshire<br><br>℗ 2023 Andy White & Tim Finn<br>© 2023 Floating World Ltd. |
+| Notes | Recorded in Melbourne and Auckland Mixed in Oxfordshire  ℗ 2023 Andy White & Tim Finn © 2023 Floating World Ltd. |
 | Discogs URL    | [Andy White - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |

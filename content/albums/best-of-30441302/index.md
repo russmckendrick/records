@@ -44,26 +44,26 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Growing Up |  |
-| A2 | Rosalita (Come Out Tonight) |  |
-| A3 | Born To Run |  |
-| A4 | Thunder Road |  |
-| B5 | Badlands |  |
-| B6 | Hungry Heart |  |
-| B7 | Atlantic City |  |
-| B8 | Dancing In The Dark |  |
-| B9 | Born In The U.S.A |  |
-| C10 | Brilliant Disguise |  |
-| C11 | Human Touch |  |
-| C12 | Streets Of Philadelphia |  |
-| C13 | Ghost Of Tom Joad |  |
-| D14 | Secret Garden |  |
-| D15 | The Rising |  |
-| D16 | Girls In Their Summer Clothes |  |
-| D17 | Hello Sunshine |  |
-| D18 | Letter To You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Growing Up |
+| A2 | Rosalita (Come Out Tonight) |
+| A3 | Born To Run |
+| A4 | Thunder Road |
+| B5 | Badlands |
+| B6 | Hungry Heart |
+| B7 | Atlantic City |
+| B8 | Dancing In The Dark |
+| B9 | Born In The U.S.A |
+| C10 | Brilliant Disguise |
+| C11 | Human Touch |
+| C12 | Streets Of Philadelphia |
+| C13 | Ghost Of Tom Joad |
+| D14 | Secret Garden |
+| D15 | The Rising |
+| D16 | Girls In Their Summer Clothes |
+| D17 | Hello Sunshine |
+| D18 | Letter To You |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 | Format         | Vinyl 2× LP Album Compilation Stereo (Blue [Atlantic Blue]) |
 | Label          | Columbia |
 | Catalog Number | 19658869901 |
-| Notes | Atlantic Blue vinyl release<br><br>On back cover:<br>THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM.<br>COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.<br><br>On sticker:<br>A CARRER-SPANNING<br>HITS COLLECTION<br><br>Features 18 Classic Tracks<br>Including<br><br>Dancing In The Dark,<br>Thunder Road + More<br><br>2LPs on<br>ATLANTIC BLUE Vinyl<br><br>The matrix runouts are etched up to RKS and stamped for the rest but the Roman numbers on the end are also etched. |
+| Notes | Atlantic Blue vinyl release  On back cover: THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM. COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.  On sticker: A CARRER-SPANNING HITS COLLECTION  Features 18 Classic Tracks Including  Dancing In The Dark, Thunder Road + More  2LPs on ATLANTIC BLUE Vinyl  The matrix runouts are etched up to RKS and stamped for the rest but the Roman numbers on the end are also etched. |
 | Discogs URL    | [Bruce Springsteen - Best Of](https://www.discogs.com/release/30441302-Bruce-Springsteen-Best-Of) |

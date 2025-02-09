@@ -33,18 +33,18 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Infestissumam | 1:42 |
-| A2 | Per Aspera Ad Inferi | 4:09 |
-| A3 | Secular Haze | 5:09 |
-| A4 | Jigolo Har Megiddo | 3:58 |
-| A5 | Ghuleh / Zombie Queen | 7:29 |
-| B1 | Year Zero | 5:50 |
-| B2 | Body And Blood | 3:43 |
-| B3 | Idolatrine | 4:23 |
-| B4 | Depth Of Satan's Eyes | 5:25 |
-| B5 | Monstrance Clock | 5:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Infestissumam |
+| A2 | Per Aspera Ad Inferi |
+| A3 | Secular Haze |
+| A4 | Jigolo Har Megiddo |
+| A5 | Ghuleh / Zombie Queen |
+| B1 | Year Zero |
+| B2 | Body And Blood |
+| B3 | Idolatrine |
+| B4 | Depth Of Satan's Eyes |
+| B5 | Monstrance Clock |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 | Format         | Vinyl LP Album Stereo (Red Translucent) |
 | Label          | Loma Vista |
 | Catalog Number | 602537343737 |
-| Notes | Gatefold cover.<br><br>Made in EU. |
+| Notes | Gatefold cover.  Made in EU. |
 | Discogs URL    | [Ghost - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |

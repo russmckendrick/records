@@ -30,18 +30,18 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cold Little Heart |  |
-| A2 | Black Man In A White World |  |
-| B1 | Falling |  |
-| B2 | Place I Belong |  |
-| B3 | Love & Hate |  |
-| C1 | One More Night |  |
-| C2 | I’ll Never Love |  |
-| C3 | Rule The World |  |
-| D1 | Father’s Child |  |
-| D2 | The Final Frame |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cold Little Heart |
+| A2 | Black Man In A White World |
+| B1 | Falling |
+| B2 | Place I Belong |
+| B3 | Love & Hate |
+| C1 | One More Night |
+| C2 | I’ll Never Love |
+| C3 | Rule The World |
+| D1 | Father’s Child |
+| D2 | The Final Frame |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 | Format         | Vinyl 2× LP Album |
 | Label          | Polydor |
 | Catalog Number | 4783458 |
-| Notes | Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode<br>Gatefold.<br>Includes a card to download [r=9073982]<br><br>On back cover and label:<br>2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited.<br>Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands<br><br>Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters). |
+| Notes | Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode Gatefold. Includes a card to download [r=9073982]  On back cover and label: 2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited. Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands  Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters). |
 | Discogs URL    | [Michael Kiwanuka - Love & Hate](https://www.discogs.com/release/8778580-Michael-Kiwanuka-Love-Hate) |

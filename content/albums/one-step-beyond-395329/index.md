@@ -33,23 +33,23 @@ This was the first album produced by the team of Clive Langer and Alan Winstanle
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One Step Beyond... | 2:17 |
-| A2 | My Girl | 2:44 |
-| A3 | Night Boat To Cairo | 3:31 |
-| A4 | Believe Me | 2:28 |
-| A5 | Land Of Hope & Glory | 2:56 |
-| A6 | The Prince | 3:18 |
-| A7 | Tarzan's Nuts | 2:24 |
-| B1 | In The Middle Of The Night | 3:01 |
-| B2 | Bed & Breakfast | 2:32 |
-| B3 | Razor Blade Alley | 2:41 |
-| B4 | Swan Lake | 2:35 |
-| B5 | Rockin' In A♭ | 2:28 |
-| B6 | Mummy's Boy | 2:24 |
-| B7 | Madness | 2:37 |
-| B8 | Chipmunks Are Go! | 0:52 |
+| Position | Title |
+|----------|--------|
+| A1 | One Step Beyond... |
+| A2 | My Girl |
+| A3 | Night Boat To Cairo |
+| A4 | Believe Me |
+| A5 | Land Of Hope & Glory |
+| A6 | The Prince |
+| A7 | Tarzan's Nuts |
+| B1 | In The Middle Of The Night |
+| B2 | Bed & Breakfast |
+| B3 | Razor Blade Alley |
+| B4 | Swan Lake |
+| B5 | Rockin' In A♭ |
+| B6 | Mummy's Boy |
+| B7 | Madness |
+| B8 | Chipmunks Are Go! |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ This was the first album produced by the team of Clive Langer and Alan Winstanle
 | Format         | Vinyl LP Album Misprint |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 17 |
-| Notes | Similar UK versions (SEEZ 17):<br>[r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher;<br>[r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher;<br>[r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;<br><br>A Clanger / Alan Winstanley Production.<br>Recorded at Eden & T.W. Studios.<br>Mixed at Rushent's Mansion (The Lucky Bleeder).<br><br>℗ 1979<br><br>All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.<br><br>Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues.<br>The track B7 'Madness' is intentionally not credited on either the sleeve or label.<br><br>Runouts are etched except for the CBS mark which is stamped<br>SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2, 7 & 9) |
+| Notes | Similar UK versions (SEEZ 17): [r=395329] (this) - "Bed & Breakfast" on labels and sleeve; "Copyright Control" publisher; [r=10744663] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Copyright Control" publisher; [r=6915969] - "Bed & Breakfast" on labels, "Bed and Breakfast Man" on sleeve; "Nutty Sounds / Warner" publisher;  A Clanger / Alan Winstanley Production. Recorded at Eden & T.W. Studios. Mixed at Rushent's Mansion (The Lucky Bleeder).  ℗ 1979  All tracks published by Copyright Control except B1 by Melodisc Records Ltd. and B6 by Warner Bros Music Ltd.  Both sleeve and label list B2 as Bed & Breakfast instead of Bed & Breakfast Man as seen on later issues. The track B7 'Madness' is intentionally not credited on either the sleeve or label.  Runouts are etched except for the CBS mark which is stamped SEEZ 17 A1 is etched SEEZ 16, the six is struck by a line and followed by a 7 (variants 2, 7 & 9) |
 | Discogs URL    | [Madness - One Step Beyond...](https://www.discogs.com/release/395329-Madness-One-Step-Beyond) |

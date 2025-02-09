@@ -34,18 +34,18 @@ The album was a critical success upon release, with several critics noting the a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bombtrack | 4:04 |
-| A2 | Killing In The Name | 5:13 |
-| A3 | Take The Power Back | 5:36 |
-| A4 | Settle For Nothing | 4:47 |
-| A5 | Bullet In The Head | 5:08 |
-| B1 | Know Your Enemy | 4:55 |
-| B2 | Wake Up | 6:04 |
-| B3 | Fistful Of Steel | 5:31 |
-| B4 | Township Rebellion | 5:24 |
-| B5 | Freedom | 6:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Bombtrack |
+| A2 | Killing In The Name |
+| A3 | Take The Power Back |
+| A4 | Settle For Nothing |
+| A5 | Bullet In The Head |
+| B1 | Know Your Enemy |
+| B2 | Wake Up |
+| B3 | Fistful Of Steel |
+| B4 | Township Rebellion |
+| B5 | Freedom |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album was a critical success upon release, with several critics noting the a
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP043 |
-| Notes | Released with a blank inner sleeve with no lyrics.<br>Pressed from the same masters as the original [url=http://www.discogs.com/release/396798]1992 European release[/url].<br>RL etched in the run-out side A.<br><br>Cat# on spine: MOVLP043<br>Cat#s on back cover: 472224 1 & MOVLP043 <br>Cat# on labels: MOVLP043<br><br>[Sticker]<br>Music On Vinyl<br>Classic Album<br>180 gram audiophile vinyl pressing<br><br>[Back cover]<br>Originally released ℗ & © 1992 Sony Music Entertainment […]<br>This release 2009: manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment<br>Made in the EU<br><br>[Labels]<br>All tracks published by Retribution Music (BMI) except track 5 published by Sony/ATV Music Publishing Ltd.<br><br>Original Sound Recording Made By Sony Music Entertainment Inc.<br>The Copyright In This Sound Recording Is Owned By Sony Music Entertainment Inc. |
+| Notes | Released with a blank inner sleeve with no lyrics. Pressed from the same masters as the original [url=http://www.discogs.com/release/396798]1992 European release[/url]. RL etched in the run-out side A.  Cat# on spine: MOVLP043 Cat#s on back cover: 472224 1 & MOVLP043  Cat# on labels: MOVLP043  [Sticker] Music On Vinyl Classic Album 180 gram audiophile vinyl pressing  [Back cover] Originally released ℗ & © 1992 Sony Music Entertainment […] This release 2009: manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment Made in the EU  [Labels] All tracks published by Retribution Music (BMI) except track 5 published by Sony/ATV Music Publishing Ltd.  Original Sound Recording Made By Sony Music Entertainment Inc. The Copyright In This Sound Recording Is Owned By Sony Music Entertainment Inc. |
 | Discogs URL    | [Rage Against The Machine - Rage Against The Machine](https://www.discogs.com/release/2055684-Rage-Against-The-Machine-Rage-Against-The-Machine) |

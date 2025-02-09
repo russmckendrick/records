@@ -32,18 +32,18 @@ Coming Up is the third album by English alternative rock band Suede, released on
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trash | 4:06 |
-| A2 | Filmstar | 3:25 |
-| A3 | Lazy | 3:19 |
-| A4 | By The Sea | 4:15 |
-| A5 | She | 3:38 |
-| B1 | Beautiful Ones | 3:50 |
-| B2 | Starcrazy | 3:33 |
-| B3 | Picnic By The Motorway | 4:45 |
-| B4 | The Chemistry Between Us | 7:04 |
-| B5 | Saturday Night | 4:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Trash |
+| A2 | Filmstar |
+| A3 | Lazy |
+| A4 | By The Sea |
+| A5 | She |
+| B1 | Beautiful Ones |
+| B2 | Starcrazy |
+| B3 | Picnic By The Motorway |
+| B4 | The Chemistry Between Us |
+| B5 | Saturday Night |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Coming Up is the third album by English alternative rock band Suede, released on
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 3 |
-| Notes | 180 gram vinyl.<br>Demon Records Ltd release.<br>Some copies have a MP3 download card.<br>Pressing plant uncredited, identified by the matrix numbers. |
+| Notes | 180 gram vinyl. Demon Records Ltd release. Some copies have a MP3 download card. Pressing plant uncredited, identified by the matrix numbers. |
 | Discogs URL    | [Suede - Coming Up](https://www.discogs.com/release/5410320-Suede-Coming-Up) |

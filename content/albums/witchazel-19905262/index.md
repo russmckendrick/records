@@ -27,21 +27,21 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | An Awakening | 0:46 |
-| A2 | Take My Hand | 3:11 |
-| A3 | Accident At A Harvest Festival | 3:25 |
-| A4 | A Song For Rosie | 2:49 |
-| A5 | So Low | 3:16 |
-| A6 | Look In My Book | 2:26 |
-| A7 | The Pheasant | 8:42 |
-| B1 | Woman | 3:32 |
-| B2 | The Badger's Wake | 3:49 |
-| B3 | Rain Came Down | 4:11 |
-| B4 | From The Manger To The Mortuary / Recorder Dance | 5:10 |
-| B5 | Into The Sky | 3:08 |
-| B6 | Roosting Time | 5:24 |
+| Position | Title |
+|----------|--------|
+| A1 | An Awakening |
+| A2 | Take My Hand |
+| A3 | Accident At A Harvest Festival |
+| A4 | A Song For Rosie |
+| A5 | So Low |
+| A6 | Look In My Book |
+| A7 | The Pheasant |
+| B1 | Woman |
+| B2 | The Badger's Wake |
+| B3 | Rain Came Down |
+| B4 | From The Manger To The Mortuary / Recorder Dance |
+| B5 | Into The Sky |
+| B6 | Roosting Time |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: []
 | Format         | Vinyl LP Album Reissue (Caramel) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251B |
-| Notes | 10th Anniversary Edition - Caramel colored vinyl<br><br>Made in EU. |
+| Notes | 10th Anniversary Edition - Caramel colored vinyl  Made in EU. |
 | Discogs URL    | [Matt Berry - Witchazel](https://www.discogs.com/release/19905262-Matt-Berry-3-Witchazel) |

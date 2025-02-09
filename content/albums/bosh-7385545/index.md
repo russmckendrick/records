@@ -29,18 +29,18 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 12 Second Panda | 4:16 |
-| A2 | Tamed Beests | 3:30 |
-| A3 | Alec Baldwins's Hair | 2:14 |
-| A4 | Gutter Brush | 2:43 |
-| A5 | Ghost Thighs | 3:58 |
-| B1 | Elephant In The Bar Room (feat. Matt Franklin) | 3:42 |
-| B2 | Drop A Bastard | 3:43 |
-| B3 | Buffet Remorse | 4:48 |
-| B4 | Pudendal | 2:39 |
-| B5 | Hostage | 3:50 |
+| Position | Title |
+|----------|--------|
+| A1 | 12 Second Panda |
+| A2 | Tamed Beests |
+| A3 | Alec Baldwins's Hair |
+| A4 | Gutter Brush |
+| A5 | Ghost Thighs |
+| B1 | Elephant In The Bar Room (feat. Matt Franklin) |
+| B2 | Drop A Bastard |
+| B3 | Buffet Remorse |
+| B4 | Pudendal |
+| B5 | Hostage |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 12" Album Limited Edition Misprint Numbered Repress (Blue Transparent) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR03 |
-| Notes | 300 pressings on 12" transparent blue vinyl.<br><br>Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve. |
+| Notes | 300 pressings on 12" transparent blue vinyl.  Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve. |
 | Discogs URL    | [Cleft - Bosh!](https://www.discogs.com/release/7385545-Cleft-Bosh) |

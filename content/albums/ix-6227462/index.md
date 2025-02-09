@@ -24,30 +24,30 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Doomsday Book | 3:32 |
-| A2 | Jaded Apostles | 4:04 |
-| A3 | A Million Random Digits | 3:07 |
-| A4 | Lie Without A Liar | 3:22 |
-| A5 | The Ghost Within | 3:14 |
-| A6 | The Dragonfly Queen | 2:57 |
-| A7 | How To Avoid Huge Ships | 4:46 |
-| B1 | Bus Lines | 6:09 |
-| B2 | Lost In The Grand Scheme | 7:26 |
-| B3 | Like Summer Tempests Came His Tears | 3:42 |
-| B4 | Sound Of The Silk | 5:18 |
-| CD-1 | The Doomsday Book | 3:32 |
-| CD-2 | Jaded Apostles | 4:04 |
-| CD-3 | A Million Random Digits | 3:07 |
-| CD-4 | Lie Without A Liar | 3:22 |
-| CD-5 | The Ghost Within | 3:14 |
-| CD-6 | The Dragonfly Queen | 2:57 |
-| CD-7 | How To Avoid Huge Ships | 4:46 |
-| CD-8 | Bus Lines | 6:09 |
-| CD-9 | Lost In The Grand Scheme | 7:26 |
-| CD-10 | Like Summer Tempests Came His Tears | 3:42 |
-| CD-11 | Sound Of The Silk | 5:18 |
+| Position | Title |
+|----------|--------|
+| A1 | The Doomsday Book |
+| A2 | Jaded Apostles |
+| A3 | A Million Random Digits |
+| A4 | Lie Without A Liar |
+| A5 | The Ghost Within |
+| A6 | The Dragonfly Queen |
+| A7 | How To Avoid Huge Ships |
+| B1 | Bus Lines |
+| B2 | Lost In The Grand Scheme |
+| B3 | Like Summer Tempests Came His Tears |
+| B4 | Sound Of The Silk |
+| CD-1 | The Doomsday Book |
+| CD-2 | Jaded Apostles |
+| CD-3 | A Million Random Digits |
+| CD-4 | Lie Without A Liar |
+| CD-5 | The Ghost Within |
+| CD-6 | The Dragonfly Queen |
+| CD-7 | How To Avoid Huge Ships |
+| CD-8 | Bus Lines |
+| CD-9 | Lost In The Grand Scheme |
+| CD-10 | Like Summer Tempests Came His Tears |
+| CD-11 | Sound Of The Silk |
 
 
 ## Apple Music

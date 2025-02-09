@@ -32,17 +32,17 @@ The album became an instant success in the United States, being certified platin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hollywood Nights | 5:00 |
-| A2 | Still The Same | 3:21 |
-| A3 | Old Time Rock & Roll | 3:13 |
-| A4 | Till It Shines | 3:53 |
-| A5 | Feel Like A Number | 3:42 |
-| B1 | Ain't Got No Money | 4:12 |
-| B2 | We've Got Tonite | 4:39 |
-| B3 | Brave Strangers | 6:21 |
-| B4 | The Famous Final Scene | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Hollywood Nights |
+| A2 | Still The Same |
+| A3 | Old Time Rock & Roll |
+| A4 | Till It Shines |
+| A5 | Feel Like A Number |
+| B1 | Ain't Got No Money |
+| B2 | We've Got Tonite |
+| B3 | Brave Strangers |
+| B4 | The Famous Final Scene |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album became an instant success in the United States, being certified platin
 | Format         | Vinyl LP Album Reissue |
 | Label          | Capitol Records |
 | Catalog Number | EAST 11698 |
-| Notes | On the back of the sleeve with this release, under the catalogue numbers, is printed "Available on Cassette"<br><br>Printer code in lower right corner dates this reissue to 1982 (plain inner sleeve also dated 1982).<br><br>Lilac Capitol label. |
+| Notes | On the back of the sleeve with this release, under the catalogue numbers, is printed "Available on Cassette"    Printer code in lower right corner dates this reissue to 1982 (plain inner sleeve also dated 1982).    Lilac Capitol label. |
 | Discogs URL    | [Bob Seger And The Silver Bullet Band - Stranger In Town](https://www.discogs.com/release/5173884-Bob-Seger-The-Silver-Bullet-Band-Stranger-In-Town) |

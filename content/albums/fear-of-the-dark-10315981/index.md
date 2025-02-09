@@ -38,20 +38,20 @@ It was also the first album to be produced by bassist and band founder Steve Har
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Be Quick Or Be Dead |  |
-| A2 | From Here To Eternity |  |
-| A3 | Afraid To Shoot Strangers |  |
-| B1 | Fear Is The Key |  |
-| B2 | Childhood's End |  |
-| B3 | Wasting Love |  |
-| C1 | The Fugitive |  |
-| C2 | Chains Of Misery |  |
-| C3 | The Apparition |  |
-| D1 | Judas Be My Guide |  |
-| D2 | Weekend Warrior |  |
-| D3 | Fear Of The Dark |  |
+| Position | Title |
+|----------|--------|
+| A1 | Be Quick Or Be Dead |
+| A2 | From Here To Eternity |
+| A3 | Afraid To Shoot Strangers |
+| B1 | Fear Is The Key |
+| B2 | Childhood's End |
+| B3 | Wasting Love |
+| C1 | The Fugitive |
+| C2 | Chains Of Misery |
+| C3 | The Apparition |
+| D1 | Judas Be My Guide |
+| D2 | Weekend Warrior |
+| D3 | Fear Of The Dark |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ It was also the first album to be produced by bassist and band founder Steve Har
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295852344 |
-| Notes | 180 Gram Black Vinyl<br>Original Album Art And High Res Audio Remasters<br><br>The remasters are the 2015 digital remasters<br><br>Recorded and Mixed at Barnyard Studios, Essex, England<br><br>Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company. <br>This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.<br><br>Discs are in black inner sleeves. |
+| Notes | 180 Gram Black Vinyl Original Album Art And High Res Audio Remasters  The remasters are the 2015 digital remasters  Recorded and Mixed at Barnyard Studios, Essex, England  Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.  This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Discs are in black inner sleeves. |
 | Discogs URL    | [Iron Maiden - Fear Of The Dark](https://www.discogs.com/release/10315981-Iron-Maiden-Fear-Of-The-Dark) |

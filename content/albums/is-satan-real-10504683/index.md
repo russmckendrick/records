@@ -31,15 +31,15 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mountain Heart |  |
-| A2 | Black Slug |  |
-| A3 | Movements In The Sky |  |
-| A4 | Answers In Your Soul |  |
-| B1 | Is Satan Real? |  |
-| B2 | Watch It Grow |  |
-| B3 | Evil In Your Eye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mountain Heart |
+| A2 | Black Slug |
+| A3 | Movements In The Sky |
+| A4 | Answers In Your Soul |
+| B1 | Is Satan Real? |
+| B2 | Watch It Grow |
+| B3 | Evil In Your Eye |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Alternative Artwork, Clear) |
 | Label          | Bilocation Records |
 | Catalog Number | BILOCATION 44 |
-| Notes | Second pressing with different cover artwork.<br><br>Limited to 500 copies on 180gr. clear vinyl. |
+| Notes | Second pressing with different cover artwork.  Limited to 500 copies on 180gr. clear vinyl. |
 | Discogs URL    | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683-Church-Of-The-Cosmic-Skull-Is-Satan-Real) |

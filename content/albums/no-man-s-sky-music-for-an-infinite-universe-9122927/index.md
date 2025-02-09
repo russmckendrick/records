@@ -29,24 +29,24 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Monolith | 6:18 |
-| A2 | Supermoon | 4:22 |
-| B1 | Asimov | 5:52 |
-| B2 | Heliosphere | 4:23 |
-| C1 | Blueprint For A Slow Machine | 5:54 |
-| C2 | Pillars Of Frost | 2:57 |
-| C3 | Escape Velocity | 2:55 |
-| D1 | Red Parallax | 4:47 |
-| D2 | Hypersleep | 2:53 |
-| D3 | End Of The World Sun | 7:26 |
-| E1 | NMS_exteriorAtmos1 / False Suns | 9:29 |
-| E2 | Tomorrow / Lull / Celestial Feedback | 10:54 |
-| F1 | Departure / Shortwave / Noisetest | 11:50 |
-| G1 | temporalDissent / ascension_test1 / koaecax | 10:07 |
-| G2 | Borealis / Contrastellar | 8:52 |
-| H1 | Outlier / EOTWS_Variation1 | 11:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Monolith |
+| A2 | Supermoon |
+| B1 | Asimov |
+| B2 | Heliosphere |
+| C1 | Blueprint For A Slow Machine |
+| C2 | Pillars Of Frost |
+| C3 | Escape Velocity |
+| D1 | Red Parallax |
+| D2 | Hypersleep |
+| D3 | End Of The World Sun |
+| E1 | NMS_exteriorAtmos1 / False Suns |
+| E2 | Tomorrow / Lull / Celestial Feedback |
+| F1 | Departure / Shortwave / Noisetest |
+| G1 | temporalDissent / ascension_test1 / koaecax |
+| G2 | Borealis / Contrastellar |
+| H1 | Outlier / EOTWS_Variation1 |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 | Format         | Vinyl 4× LP Album Deluxe Edition, Box Set |
 | Label          | Laced Records |
 | Catalog Number | LMLP004X |
-| Notes | THE ULTIMATE COLLECTOR'S VINYL EDITION<br>Deluxe X4 Vinyl Boxset Edition<br>X4 180-gram Vinyl Discs<br>Each disc will be packaged within a custom designed spined sleeve<br>All 4 vinyls packaged within a deluxe custom designed thick cardboard boxset<br> <br>Includes the full 10 track ‘No Man’s Sky: Music for an Infinite Universe’ and 6 soundscapes spread across 4 vinyl discs<br><br>Plus digital download of the 10 track album and 6 soundscapes in MP3 format |
+| Notes | THE ULTIMATE COLLECTOR'S VINYL EDITION Deluxe X4 Vinyl Boxset Edition X4 180-gram Vinyl Discs Each disc will be packaged within a custom designed spined sleeve All 4 vinyls packaged within a deluxe custom designed thick cardboard boxset   Includes the full 10 track ‘No Man’s Sky: Music for an Infinite Universe’ and 6 soundscapes spread across 4 vinyl discs  Plus digital download of the 10 track album and 6 soundscapes in MP3 format |
 | Discogs URL    | [65daysofstatic - No Man's Sky: Music For An Infinite Universe](https://www.discogs.com/release/9122927-65daysofstatic-No-Mans-Sky-Music-For-An-Infinite-Universe) |

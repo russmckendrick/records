@@ -49,32 +49,32 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Earth |  |
-| A1 | Fists Of Fury | 9:42 |
-| A2 | Can You Hear Him | 8:54 |
-| B3 | Hub-Tones | 9:09 |
-| B4 | Connections | 8:23 |
-| C5 | Tiffakonkae | 9:24 |
-| C6 | The Invincible Youth | 9:52 |
-| D7 | Testify | 5:43 |
-| D8 | One Of One | 9:50 |
-|  | Heaven |  |
-| E1 | The Space Travelers Lullaby | 10:31 |
-| E2 | Vi Lua Vi Sol | 11:06 |
-| F3 | Street Fighter Mas | 5:57 |
-| F4 | Song For The Fallen | 12:41 |
-| G5 | Journey | 8:50 |
-| G6 | The Psalmnist | 7:18 |
-| H7 | Show Us The Way | 6:51 |
-| H8 | Will You Sing | 10:12 |
-|  | The Choice |  |
-| I1 | The Secret Of Jinsinson | 8:07 |
-| I2 | Will You Love Me Tomorrow | 9:40 |
-| J3 | My Family | 6:34 |
-| J4 | Agents Of Multiverse | 5:22 |
-| J5 | Ooh Child | 8:53 |
+| Position | Title |
+|----------|--------|
+|  | Earth |
+| A1 | Fists Of Fury |
+| A2 | Can You Hear Him |
+| B3 | Hub-Tones |
+| B4 | Connections |
+| C5 | Tiffakonkae |
+| C6 | The Invincible Youth |
+| D7 | Testify |
+| D8 | One Of One |
+|  | Heaven |
+| E1 | The Space Travelers Lullaby |
+| E2 | Vi Lua Vi Sol |
+| F3 | Street Fighter Mas |
+| F4 | Song For The Fallen |
+| G5 | Journey |
+| G6 | The Psalmnist |
+| H7 | Show Us The Way |
+| H8 | Will You Sing |
+|  | The Choice |
+| I1 | The Secret Of Jinsinson |
+| I2 | Will You Love Me Tomorrow |
+| J3 | My Family |
+| J4 | Agents Of Multiverse |
+| J5 | Ooh Child |
 
 
 ## Apple Music
@@ -92,5 +92,5 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 | Format         | Vinyl 5× LP Album |
 | Label          | Young Turks |
 | Catalog Number | YT176LP |
-| Notes | The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.<br><br>'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.<br><br>On labels:<br>YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU<br><br>Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio<br><br>Track A1: © 2018 Molique Music (BMI)<br>Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP)<br>Track B3: © 2018 Hubtones Music Co (BMI)<br>Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP)<br>Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP)<br>Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI)<br>Track J4: © 2018 Drum Hedz 713 Music (SESAC)<br>Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)<br><br>All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.<br><br>℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings<br>© 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings |
+| Notes | The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.  'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.  On labels: YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU  Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio  Track A1: © 2018 Molique Music (BMI) Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP) Track B3: © 2018 Hubtones Music Co (BMI) Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP) Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP) Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI) Track J4: © 2018 Drum Hedz 713 Music (SESAC) Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)  All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.  ℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings © 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings |
 | Discogs URL    | [Kamasi Washington - Heaven And Earth](https://www.discogs.com/release/12138973-Kamasi-Washington-Heaven-And-Earth) |

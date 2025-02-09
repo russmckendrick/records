@@ -59,28 +59,28 @@ Captured live onstage at a variety of dates between 1990 and 1991, <I>AC/DC Live
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thunderstruck |  |
-| A2 | Shoot To Thrill |  |
-| A3 | Back In Black |  |
-| A4 | Sin City |  |
-| A5 | Who Made Who |  |
-| A6 | Fire Your Guns |  |
-| B1 | Jailbreak |  |
-| B2 | The Jack |  |
-| B3 | The Razor‘s Edge |  |
-| B4 | Dirty Deeds Done Dirt Cheap |  |
-| C1 | Hells Bells |  |
-| C2 | Heatseeker |  |
-| C3 | That‘s The Way I Wanna Rock‘n‘Roll |  |
-| C4 | High Voltage |  |
-| C5 | You Shook Me All Night Long |  |
-| D1 | Whole Lotta Rosie |  |
-| D2 | Let There Be Rock |  |
-| D3 | Highway To Hell |  |
-| D4 | T.N.T. |  |
-| D5 | For Those About To Rock (We Salute You) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Thunderstruck |
+| A2 | Shoot To Thrill |
+| A3 | Back In Black |
+| A4 | Sin City |
+| A5 | Who Made Who |
+| A6 | Fire Your Guns |
+| B1 | Jailbreak |
+| B2 | The Jack |
+| B3 | The Razor‘s Edge |
+| B4 | Dirty Deeds Done Dirt Cheap |
+| C1 | Hells Bells |
+| C2 | Heatseeker |
+| C3 | That‘s The Way I Wanna Rock‘n‘Roll |
+| C4 | High Voltage |
+| C5 | You Shook Me All Night Long |
+| D1 | Whole Lotta Rosie |
+| D2 | Let There Be Rock |
+| D3 | Highway To Hell |
+| D4 | T.N.T. |
+| D5 | For Those About To Rock (We Salute You) |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ Captured live onstage at a variety of dates between 1990 and 1991, <I>AC/DC Live
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Special Edition Stereo (Gold, 180g, 50th Anniversary, Gatefold) |
 | Label          | Columbia |
 | Catalog Number | 19658834561 |
-| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.<br>Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.<br>There are two hype stickers on the outer film on the front.<br><br>The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.<br>The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.<br><br>[Printed on rectangular hypsticker:]<br>50th Anniversary<br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels<br><br>[Printed on cover inside:]<br>Little Mountain Studios, Vancouver, Canada.<br>All tracks were recorded during AC/DC's 1990-1991 world tour that covered twenty-one countries and<br>one hundred and fifty-three shows.<br>Originally released as [url=https://www.discogs.com/release/1686873-ACDC-Live]ATCO 92212[/url] on October 27, 1992.<br><br>[Printed on back cover:]<br>Remastered from the original master tapes by George Marino at Sterling Sound.<br>© 1990, 2003 Leidseplein Presse B.V. ℗ 1981 Leidseplein Presse B.V.<br>Made in the EU.<br><br>[Printed on artwork:]<br>Reverse side photo by Michael Putland archive. 19658834561-11<br><br>Runouts are etched.<br>Pressing plant identified based on the runout areas.<br><br>A1 in the runout field = A₁ in the vinyl runout.<br>B1 in the runout field = B₁ in the vinyl runout.<br><br>[Additional information about the faintly inscribed geometric marks:]<br>In the runouts "3 △ l", "3 + -", "T l 3" and "7 = △" are mirrored. |
+| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on cover inside:] Little Mountain Studios, Vancouver, Canada. All tracks were recorded during AC/DC's 1990-1991 world tour that covered twenty-one countries and one hundred and fifty-three shows. Originally released as [url=https://www.discogs.com/release/1686873-ACDC-Live]ATCO 92212[/url] on October 27, 1992.  [Printed on back cover:] Remastered from the original master tapes by George Marino at Sterling Sound. © 1990, 2003 Leidseplein Presse B.V. ℗ 1981 Leidseplein Presse B.V. Made in the EU.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834561-11  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "3 △ l", "3 + -", "T l 3" and "7 = △" are mirrored. |
 | Discogs URL    | [ACDC - Live](https://www.discogs.com/release/30102011-ACDC-Live) |

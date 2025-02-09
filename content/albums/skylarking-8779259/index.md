@@ -46,38 +46,38 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Summer's Cauldron |  |
-| A2 | Grass |  |
-| A3 | The Meeting Place |  |
-| A4 | That's Really Super Supergirl |  |
-| B1 | Ballet For A Rainy Day |  |
-| B2 | 1000 Umbrellas |  |
-| B3 | Season Cycle |  |
-| C1 | Earn Enough For Us |  |
-| C2 | Big Day |  |
-| C3 | Another Satellite |  |
-| C4 | Mermaid Smiled |  |
-| D1 | The Man Who Sailed Around His Soul |  |
-| D2 | Dear God |  |
-| D3 | Dying |  |
-| D4 | Sacrificial Bonfire |  |
-| CD-1 | Summer's Cauldron |  |
-| CD-2 | Grass |  |
-| CD-3 | The Meeting Place |  |
-| CD-4 | That's Really Super Supergirl |  |
-| CD-5 | Ballet For A Rainy Day |  |
-| CD-6 | 1000 Umbrellas |  |
-| CD-7 | Season Cycle |  |
-| CD-8 | Earn Enough For Us |  |
-| CD-9 | Big Day |  |
-| CD-10 | Another Satellite |  |
-| CD-11 | Mermaid Smiled |  |
-| CD-12 | The Man Who Sailed Around His Soul |  |
-| CD-13 | Dear God |  |
-| CD-14 | Dying |  |
-| CD-15 | Sacrificial Bonfire |  |
+| Position | Title |
+|----------|--------|
+| A1 | Summer's Cauldron |
+| A2 | Grass |
+| A3 | The Meeting Place |
+| A4 | That's Really Super Supergirl |
+| B1 | Ballet For A Rainy Day |
+| B2 | 1000 Umbrellas |
+| B3 | Season Cycle |
+| C1 | Earn Enough For Us |
+| C2 | Big Day |
+| C3 | Another Satellite |
+| C4 | Mermaid Smiled |
+| D1 | The Man Who Sailed Around His Soul |
+| D2 | Dear God |
+| D3 | Dying |
+| D4 | Sacrificial Bonfire |
+| CD-1 | Summer's Cauldron |
+| CD-2 | Grass |
+| CD-3 | The Meeting Place |
+| CD-4 | That's Really Super Supergirl |
+| CD-5 | Ballet For A Rainy Day |
+| CD-6 | 1000 Umbrellas |
+| CD-7 | Season Cycle |
+| CD-8 | Earn Enough For Us |
+| CD-9 | Big Day |
+| CD-10 | Another Satellite |
+| CD-11 | Mermaid Smiled |
+| CD-12 | The Man Who Sailed Around His Soul |
+| CD-13 | Dear God |
+| CD-14 | Dying |
+| CD-15 | Sacrificial Bonfire |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Repress, CD Album Reissue, Box Set Deluxe Edition Remastered |
 | Label          | Ape House |
 | Catalog Number | APELPD108 |
-| Notes | "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking. <br><br>Including: <br>* 2 x 45rpm, 200g heavyweight vinyl <br>* 12" 16 page booklet with song notes by band members <br>* Lyric sheet <br>* Cut from corrected polarity master <br>* CD of corrected polarity master <br>* Both album sleeves - sleeve as released and original proposed design <br>* All contents packaged in a sturdy slipcase." <br>- Ape House Ltd.<br> |
+| Notes | "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd.  |
 | Discogs URL    | [XTC - Skylarking](https://www.discogs.com/release/8779259-XTC-Skylarking) |

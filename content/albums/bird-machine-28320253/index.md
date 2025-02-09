@@ -34,22 +34,22 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | It Will Never Stop |  |
-| A2 | Kind Ghosts |  |
-| A3 | Evening Star Super Charger |  |
-| A4 | O Child |  |
-| A5 | Falling Down |  |
-| A6 | I Fucked It Up |  |
-| A7 | Hello Lord |  |
-| B1 | Daddy's Gone |  |
-| B2 | Chaos Of The Universe |  |
-| B3 | Listening To The Higsons |  |
-| B4 | Everybody's Gone To Sleep |  |
-| B5 | The Scull Of Lucia |  |
-| B6 | Blue |  |
-| B7 | Stay |  |
+| Position | Title |
+|----------|--------|
+| A1 | It Will Never Stop |
+| A2 | Kind Ghosts |
+| A3 | Evening Star Super Charger |
+| A4 | O Child |
+| A5 | Falling Down |
+| A6 | I Fucked It Up |
+| A7 | Hello Lord |
+| B1 | Daddy's Gone |
+| B2 | Chaos Of The Universe |
+| B3 | Listening To The Higsons |
+| B4 | Everybody's Gone To Sleep |
+| B5 | The Scull Of Lucia |
+| B6 | Blue |
+| B7 | Stay |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 | Format         | Vinyl LP Album Limited Edition (Yellow & Black Opaque ) |
 | Label          | Anti- |
 | Catalog Number | 87081-1YAB |
-| Notes | Yellow and Black Opaque Vinyl<br>Rough Trade Exclusive<br>Limited to 500 copies<br>US release 9th September 2023, UK release 29th September 2023. |
+| Notes | Yellow and Black Opaque Vinyl Rough Trade Exclusive Limited to 500 copies US release 9th September 2023, UK release 29th September 2023. |
 | Discogs URL    | [Sparklehorse - Bird Machine](https://www.discogs.com/release/28320253-Sparklehorse-Bird-Machine) |

@@ -30,11 +30,11 @@ The song was certified double platinum in the UK, selling and streaming over 1,2
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Love Will Tear Us Apart |  |
-| B1 | These Days |  |
-| B2 | Love Will Tear Us Apart |  |
+| Position | Title |
+|----------|--------|
+| A | Love Will Tear Us Apart |
+| B1 | These Days |
+| B2 | Love Will Tear Us Apart |
 
 
 ## Apple Music

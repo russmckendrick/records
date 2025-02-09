@@ -30,20 +30,20 @@ Hup is the second album by English alternative rock band the Wonder Stuff, relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 30 Years In The Bathroom |  |
-| A2 | Radio Ass Kiss |  |
-| A3 | Golden Green |  |
-| A4 | Let's Be Other People |  |
-| A5 | Piece Of Sky |  |
-| A6 | Can't Shape Up |  |
-| B1 | Don't Let Me Down, Gently |  |
-| B2 | Cartoon Boyfriend |  |
-| B3 | Good Night Though |  |
-| B4 | Unfaithful |  |
-| B5 | Them, Big Oak Trees |  |
-| B6 | Room 410 |  |
+| Position | Title |
+|----------|--------|
+| A1 | 30 Years In The Bathroom |
+| A2 | Radio Ass Kiss |
+| A3 | Golden Green |
+| A4 | Let's Be Other People |
+| A5 | Piece Of Sky |
+| A6 | Can't Shape Up |
+| B1 | Don't Let Me Down, Gently |
+| B2 | Cartoon Boyfriend |
+| B3 | Good Night Though |
+| B4 | Unfaithful |
+| B5 | Them, Big Oak Trees |
+| B6 | Room 410 |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Hup is the second album by English alternative rock band the Wonder Stuff, relea
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 841187-1 |
-| Notes | 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached. <br>Released with a printed lyric and credit inner sleeve.<br><br>Engineered at The Greenhouse, North London.<br><br>[Labels]:<br>℗ 1989 Polydor Ltd. (UK) <br>© Polydor Ltd. (UK) 1989.<br>Polygram Music 1989.<br>[Sleeve]:<br>℗ 1989 Polydor Ltd. (UK) <br>© Polydor Ltd. (UK) 1989. |
+| Notes | 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. |
 | Discogs URL    | [The Wonder Stuff - Hup](https://www.discogs.com/release/3580276-The-Wonder-Stuff-Hup) |

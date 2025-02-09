@@ -31,21 +31,21 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Six | 8:07 |
-| A2 | Negative | 4:21 |
-| A3 | Shotgun | 6:37 |
-| B1 | Inverse Midas | 1:44 |
-| B2 | Anti Everything | 2:25 |
-| B3 | Fall Out | 3:47 |
-| B4 | Serotonin | 2:33 |
-| B5 | Cancer | 9:22 |
-| C1 | Witness To A Murder (Part Two) | 3:06 |
-| C2 | Television | 8:21 |
-| C3 | Special / Blown It (Delete As Appropriate) | 5:32 |
-| D1 | Legacy | 6:26 |
-| D2 | Being A Girl | 7:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Six |
+| A2 | Negative |
+| A3 | Shotgun |
+| B1 | Inverse Midas |
+| B2 | Anti Everything |
+| B3 | Fall Out |
+| B4 | Serotonin |
+| B5 | Cancer |
+| C1 | Witness To A Murder (Part Two) |
+| C2 | Television |
+| C3 | Special / Blown It (Delete As Appropriate) |
+| D1 | Legacy |
+| D2 | Being A Girl |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1066 |
-| Notes | Indies exclusive edition.<br><br>KSCOPE1011 - generic catalogue number on the record sleeve.<br>KSCOPE1066 - clear vinyl 'hype' sticker & barcode sticker catalogue number.<br><br>21st-anniversary edition.<br><br>Hype sticker:<br>MANSUN<br>SIX<br>2019 REMASTER<br>LIMITED EDITION CLEAR 180g VINYL<br>2LP SET - 21ST ANNIVERSARY EDITION<br>Mansun's audacious and infectious Top 10 album.<br>Includes the singles 'Six', 'Being A Girl', 'Legacy'<br>and 'Negative'.<br>"A twisting maze of prog, glam and early-'80s<br>guitar pop... No-one has done northern angst on<br>LSD quite like this." NME<br>kscope 1066 kscopemusic.com/mansun <br><br>Made in the EU |
+| Notes | Indies exclusive edition.  KSCOPE1011 - generic catalogue number on the record sleeve. KSCOPE1066 - clear vinyl 'hype' sticker & barcode sticker catalogue number.  21st-anniversary edition.  Hype sticker: MANSUN SIX 2019 REMASTER LIMITED EDITION CLEAR 180g VINYL 2LP SET - 21ST ANNIVERSARY EDITION Mansun's audacious and infectious Top 10 album. Includes the singles 'Six', 'Being A Girl', 'Legacy' and 'Negative'. "A twisting maze of prog, glam and early-'80s guitar pop... No-one has done northern angst on LSD quite like this." NME kscope 1066 kscopemusic.com/mansun   Made in the EU |
 | Discogs URL    | [Mansun - Six](https://www.discogs.com/release/13372907-Mansun-Six) |

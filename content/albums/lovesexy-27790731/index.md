@@ -38,17 +38,17 @@ Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eye No |  |
-| A2 | Alphabet St. |  |
-| A3 | Glam Slam |  |
-| A4 | Anna Stesia |  |
-| B1 | Dance On |  |
-| B2 | Lovesexy |  |
-| B3 | When 2 R In Love |  |
-| B4 | I Wish U Heaven |  |
-| B5 | Positivity |  |
+| Position | Title |
+|----------|--------|
+| A1 | Eye No |
+| A2 | Alphabet St. |
+| A3 | Glam Slam |
+| A4 | Anna Stesia |
+| B1 | Dance On |
+| B2 | Lovesexy |
+| B3 | When 2 R In Love |
+| B4 | I Wish U Heaven |
+| B5 | Positivity |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmu
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Legacy |
 | Catalog Number | 19439904001 |
-| Notes | Hype sticker on shrink-wrap:<br>Lovesexy<br>"Lovesexy was a mind trip,<br>like a psychedelic movie"<br>-PRINCE<br>features<br>"Alphabet St." and "Glam Slam"<br><br>Issued with printed glossy inner sleeve. Printed on labels and spine as "PRINCE LOVESEXY"<br><br>"Eye" in track title A1 and printed in all lyrics on the inner sleeve is represented by a stylized "👁" eye symbol.<br><br>Side A: Total Timing 21:29<br>Side B: Total Timing 23:32<br>Songs are in a continuous sequence<br><br>"Vinyl Made In France" on barcode sticker on shrink-wrap.<br><br>℗ 1988 & © 1988, 2023 NPG Records, LLC, under exclusive license to  Sony Music Entertainment for the U.S.A. <br>and Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.<br><br>In runouts, "[MPO logo]® 23 303XXX" is stamped, rest is etched.<br> |
+| Notes | Hype sticker on shrink-wrap: Lovesexy "Lovesexy was a mind trip, like a psychedelic movie" -PRINCE features "Alphabet St." and "Glam Slam"  Issued with printed glossy inner sleeve. Printed on labels and spine as "PRINCE LOVESEXY"  "Eye" in track title A1 and printed in all lyrics on the inner sleeve is represented by a stylized "👁" eye symbol.  Side A: Total Timing 21:29 Side B: Total Timing 23:32 Songs are in a continuous sequence  "Vinyl Made In France" on barcode sticker on shrink-wrap.  ℗ 1988 & © 1988, 2023 NPG Records, LLC, under exclusive license to  Sony Music Entertainment for the U.S.A.  and Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.  In runouts, "[MPO logo]® 23 303XXX" is stamped, rest is etched.  |
 | Discogs URL    | [Prince - Lovesexy](https://www.discogs.com/release/27790731-Prince-Lovesexy) |

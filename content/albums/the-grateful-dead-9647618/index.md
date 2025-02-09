@@ -29,17 +29,17 @@ The Grateful Dead is the debut studio album by the American rock band the Gratef
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Golden Road (To Unlimited Devotion) |  |
-| A2 | Beat It On Down The Line |  |
-| A3 | Good Mornin' Little School Girl |  |
-| A4 | Cold Rain And Snow |  |
-| A5 | Sittin' On Top Of The World |  |
-| A6 | Cream Puff War |  |
-| B1 | Morning Dew |  |
-| B2 | New, New Minglewood Blues |  |
-| B3 | Viola Lee Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Golden Road (To Unlimited Devotion) |
+| A2 | Beat It On Down The Line |
+| A3 | Good Mornin' Little School Girl |
+| A4 | Cold Rain And Snow |
+| A5 | Sittin' On Top Of The World |
+| A6 | Cream Puff War |
+| B1 | Morning Dew |
+| B2 | New, New Minglewood Blues |
+| B3 | Viola Lee Blues |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ The Grateful Dead is the debut studio album by the American rock band the Gratef
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 557478 |
-| Notes | Limited Edition Of 10,000<br>50th Anniversary Edition |
+| Notes | Limited Edition Of 10,000 50th Anniversary Edition |
 | Discogs URL    | [The Grateful Dead - The Grateful Dead](https://www.discogs.com/release/9647618-The-Grateful-Dead-The-Grateful-Dead) |

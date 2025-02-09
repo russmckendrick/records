@@ -32,22 +32,22 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Actor And The Cardboard Cowboy |  |
-| A2 | Cycles Of The Season |  |
-| A3 | Faraway Worlds |  |
-| A4 | Wild Bird |  |
-| A5 | North Wind |  |
-| A6 | Eleanor |  |
-| A7 | Sea Of Mirrors |  |
-| B1 | That's Where She Belongs |  |
-| B2 | The Way You Are |  |
-| B3 | Dream River |  |
-| B4 | Almeria |  |
-| B5 | Child Of The Moon |  |
-| B6 | Oceans Apart |  |
-| C | Mare Di Specchi |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Actor And The Cardboard Cowboy |
+| A2 | Cycles Of The Season |
+| A3 | Faraway Worlds |
+| A4 | Wild Bird |
+| A5 | North Wind |
+| A6 | Eleanor |
+| A7 | Sea Of Mirrors |
+| B1 | That's Where She Belongs |
+| B2 | The Way You Are |
+| B3 | Dream River |
+| B4 | Almeria |
+| B5 | Child Of The Moon |
+| B6 | Oceans Apart |
+| C | Mare Di Specchi |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 | Format         | Vinyl LP Album Limited Edition (Tricolour Marble, Gatefold), Flexi-disc 7" 33 ⅓ RPM Single Sided (Blue) |
 | Label          | Modern Sky UK |
 | Catalog Number | M9497UKRT |
-| Notes | 500 copies.<br><br>Flexi disc translates from Italian as 'Sea Of Mirrors' but it is not the same song as A7. Includes a narration read by Johnny Echols. No catalog number or runout on flexi. |
+| Notes | 500 copies.  Flexi disc translates from Italian as 'Sea Of Mirrors' but it is not the same song as A7. Includes a narration read by Johnny Echols. No catalog number or runout on flexi. |
 | Discogs URL    | [The Coral - Sea Of Mirrors](https://www.discogs.com/release/28205629-The-Coral-Sea-Of-Mirrors) |

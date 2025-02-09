@@ -31,22 +31,22 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dancing With Tears In My Eyes | 4:11 |
-| A2 | Hymn (The Power And The Glory) | 4:28 |
-| A3 | The Thin Wall | 4:27 |
-| A4 | The Voice | 4:25 |
-| A5 | Vienna | 4:39 |
-| A6 | Passing Strangers | 3:51 |
-| A7 | Sleepwalk | 3:14 |
-| B1 | Reap The Wild Wind | 3:43 |
-| B2 | All Stood Still | 3:43 |
-| B3 | Visions In Blue | 4:15 |
-| B4 | We Came To Dance | 4:10 |
-| B5 | One Small Day | 4:29 |
-| B6 | Love's Great Adventure | 3:07 |
-| B7 | Lament | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Dancing With Tears In My Eyes |
+| A2 | Hymn (The Power And The Glory) |
+| A3 | The Thin Wall |
+| A4 | The Voice |
+| A5 | Vienna |
+| A6 | Passing Strangers |
+| A7 | Sleepwalk |
+| B1 | Reap The Wild Wind |
+| B2 | All Stood Still |
+| B3 | Visions In Blue |
+| B4 | We Came To Dance |
+| B5 | One Small Day |
+| B6 | Love's Great Adventure |
+| B7 | Lament |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 | Format         | Vinyl LP Compilation |
 | Label          | Chrysalis |
 | Catalog Number | UTV1 |
-| Notes | Some copies include a printed inner sleeve that is same as the background on the outer sleeve.<br><br>Timings do not appear on the sleeve/label - Timings measured from a digitized copy of this release. |
+| Notes | Some copies include a printed inner sleeve that is same as the background on the outer sleeve.  Timings do not appear on the sleeve/label - Timings measured from a digitized copy of this release. |
 | Discogs URL    | [Ultravox - The Collection](https://www.discogs.com/release/97080-Ultravox-The-Collection) |

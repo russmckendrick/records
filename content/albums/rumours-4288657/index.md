@@ -81,91 +81,91 @@ The album garnered widespread acclaim from critics, who praised its production q
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Original Album - 2013 Remaster |  |
-| CD1-1 | Second Hand News | 2:43 |
-| CD1-2 | Dreams | 4:14 |
-| CD1-3 | Never Going Back Again | 2:02 |
-| CD1-4 | Don't Stop | 3:11 |
-| CD1-5 | Go Your Own Way | 3:38 |
-| CD1-6 | Songbird | 3:20 |
-| CD1-7 | The Chain | 4:28 |
-| CD1-8 | You Make Loving Fun | 3:31 |
-| CD1-9 | I Don't Want To Know | 3:11 |
-| CD1-10 | Oh Daddy | 3:54 |
-| CD1-11 | Gold Dust Woman | 4:51 |
-| CD1-12 | Silver Springs | 4:33 |
-|  | Live, 1977  "Rumours World Tour" (Previously Unreleased) |  |
-| CD2-1 | Intro | 0:48 |
-| CD2-2 | Monday Morning | 2:38 |
-| CD2-3 | Dreams | 4:07 |
-| CD2-4 | Don't Stop | 3:51 |
-| CD2-5 | The Chain | 5:40 |
-| CD2-6 | Oh Daddy | 4:47 |
-| CD2-7 | Rhiannon | 7:55 |
-| CD2-8 | Never Going Back Again | 2:19 |
-| CD2-9 | Gold Dust Woman | 7:03 |
-| CD2-10 | World Turning | 7:31 |
-| CD2-11 | Go Your Own Way | 4:54 |
-| CD2-12 | Songbird | 4:00 |
-|  | The Rosebud Film Documentary |  |
-| DVD-1 | World Turning |  |
-| DVD-2 | Rhiannon |  |
-| DVD-3 | Say You Love Me |  |
-| DVD-4 | Go Your Own Way |  |
-| DVD-5 | You Make Loving Fun |  |
-| DVD-6 | I'm So Afraid |  |
-|  | More From The Recording Sessions (Previously Unreleased) |  |
-| CD4-1 | Second Hand News (Early Take) | 2:26 |
-| CD4-2 | Dreams (Take 2) | 5:35 |
-| CD4-3 | Never Going Back Again (Acoustic Duet) | 2:19 |
-| CD4-4 | Go Your Own Way (Early Take) | 4:04 |
-| CD4-5 | Songbird (Demo) | 4:33 |
-| CD4-6 | Songbird (Instrumental Take 10) | 4:23 |
-| CD4-7 | I Don't Want To Know  (Early Take) | 3:42 |
-| CD4-8 | Keep Me There (Instrumental) | 5:14 |
-| CD4-9 | The Chain (Demo) | 5:29 |
-| CD4-10 | Keep Me There (With Vocal) | 4:18 |
-| CD4-11 | Gold Dust Woman (Early Take) | 5:25 |
-| CD4-12 | Oh Daddy (Early Take) | 3:48 |
-| CD4-13 | Silver Springs (Early Take) | 5:31 |
-| CD4-14 | Planets Of The Universe (Demo) | 4:27 |
-| CD4-15 | Doesn't Anything Last (Acoustic Duet) | 1:03 |
-| CD4-16 | Never Going Back Again (Instrumental) | 2:36 |
-|  | Recording Sessions, Roughs And Outtakes |  |
-| CD5-1 | Second Hand News | 2:55 |
-| CD5-2 | Dreams | 4:32 |
-| CD5-3 | Brushes (Never Going Back Again) | 2:52 |
-| CD5-4 | Don't Stop | 3:33 |
-| CD5-5 | Go Your Own Way | 3:16 |
-| CD5-6 | Songbird | 3:11 |
-| CD5-7 | Silver Springs | 6:08 |
-| CD5-8 | You Make Loving Fun | 4:55 |
-| CD5-9 | Gold Dust Woman #1 | 5:02 |
-| CD5-10 | Oh Daddy | 4:03 |
-| CD5-11 | Think About It | 3:01 |
-|  | Early Demos |  |
-| CD5-12 | Never Going Back Again | 1:55 |
-| CD5-13 | Planets Of The Universe | 3:30 |
-| CD5-14 | Butter Cookie (Keep Me There) | 2:47 |
-| CD5-15 | Gold Dust Woman | 5:00 |
-| CD5-16 | Doesn't Anything Last | 1:06 |
-|  | Jam Sessions |  |
-| CD5-17 | Mic The Screecher | 0:53 |
-| CD5-18 | For Duster (The Blues) | 4:47 |
-|  | Original Album - 2013 Remaster |  |
-| A1 | Second Hand News | 2:42 |
-| A2 | Dreams | 4:15 |
-| A3 | Never Going Back Again | 2:02 |
-| A4 | Don't Stop | 3:10 |
-| A5 | Go Your Own Way | 3:40 |
-| A6 | Songbird | 3:18 |
-| B1 | The Chain | 4:27 |
-| B2 | You Make Loving Fun | 3:33 |
-| B3 | I Don't Want To Know | 3:13 |
-| B4 | Oh Daddy | 3:54 |
-| B5 | Gold Dust Woman | 5:13 |
+| Position | Title |
+|----------|--------|
+|  | Original Album - 2013 Remaster |
+| CD1-1 | Second Hand News |
+| CD1-2 | Dreams |
+| CD1-3 | Never Going Back Again |
+| CD1-4 | Don't Stop |
+| CD1-5 | Go Your Own Way |
+| CD1-6 | Songbird |
+| CD1-7 | The Chain |
+| CD1-8 | You Make Loving Fun |
+| CD1-9 | I Don't Want To Know |
+| CD1-10 | Oh Daddy |
+| CD1-11 | Gold Dust Woman |
+| CD1-12 | Silver Springs |
+|  | Live, 1977  "Rumours World Tour" (Previously Unreleased) |
+| CD2-1 | Intro |
+| CD2-2 | Monday Morning |
+| CD2-3 | Dreams |
+| CD2-4 | Don't Stop |
+| CD2-5 | The Chain |
+| CD2-6 | Oh Daddy |
+| CD2-7 | Rhiannon |
+| CD2-8 | Never Going Back Again |
+| CD2-9 | Gold Dust Woman |
+| CD2-10 | World Turning |
+| CD2-11 | Go Your Own Way |
+| CD2-12 | Songbird |
+|  | The Rosebud Film Documentary |
+| DVD-1 | World Turning |
+| DVD-2 | Rhiannon |
+| DVD-3 | Say You Love Me |
+| DVD-4 | Go Your Own Way |
+| DVD-5 | You Make Loving Fun |
+| DVD-6 | I'm So Afraid |
+|  | More From The Recording Sessions (Previously Unreleased) |
+| CD4-1 | Second Hand News (Early Take) |
+| CD4-2 | Dreams (Take 2) |
+| CD4-3 | Never Going Back Again (Acoustic Duet) |
+| CD4-4 | Go Your Own Way (Early Take) |
+| CD4-5 | Songbird (Demo) |
+| CD4-6 | Songbird (Instrumental Take 10) |
+| CD4-7 | I Don't Want To Know  (Early Take) |
+| CD4-8 | Keep Me There (Instrumental) |
+| CD4-9 | The Chain (Demo) |
+| CD4-10 | Keep Me There (With Vocal) |
+| CD4-11 | Gold Dust Woman (Early Take) |
+| CD4-12 | Oh Daddy (Early Take) |
+| CD4-13 | Silver Springs (Early Take) |
+| CD4-14 | Planets Of The Universe (Demo) |
+| CD4-15 | Doesn't Anything Last (Acoustic Duet) |
+| CD4-16 | Never Going Back Again (Instrumental) |
+|  | Recording Sessions, Roughs And Outtakes |
+| CD5-1 | Second Hand News |
+| CD5-2 | Dreams |
+| CD5-3 | Brushes (Never Going Back Again) |
+| CD5-4 | Don't Stop |
+| CD5-5 | Go Your Own Way |
+| CD5-6 | Songbird |
+| CD5-7 | Silver Springs |
+| CD5-8 | You Make Loving Fun |
+| CD5-9 | Gold Dust Woman #1 |
+| CD5-10 | Oh Daddy |
+| CD5-11 | Think About It |
+|  | Early Demos |
+| CD5-12 | Never Going Back Again |
+| CD5-13 | Planets Of The Universe |
+| CD5-14 | Butter Cookie (Keep Me There) |
+| CD5-15 | Gold Dust Woman |
+| CD5-16 | Doesn't Anything Last |
+|  | Jam Sessions |
+| CD5-17 | Mic The Screecher |
+| CD5-18 | For Duster (The Blues) |
+|  | Original Album - 2013 Remaster |
+| A1 | Second Hand News |
+| A2 | Dreams |
+| A3 | Never Going Back Again |
+| A4 | Don't Stop |
+| A5 | Go Your Own Way |
+| A6 | Songbird |
+| B1 | The Chain |
+| B2 | You Make Loving Fun |
+| B3 | I Don't Want To Know |
+| B4 | Oh Daddy |
+| B5 | Gold Dust Woman |
 
 
 ## Apple Music
@@ -183,5 +183,5 @@ The album garnered widespread acclaim from critics, who praised its production q
 | Format         | CD Album Reissue Remastered, CD Remastered, DVD DVD-Video NTSC, CD Remastered, CD Remastered, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (35th Anniversary Edition ) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R2-533806 |
-| Notes | Deluxe edition of 'Rumours', contains:<br>Disc 1: CD - Original album, remastered,<br>Disc 2: CD - Live, 1977,<br>Disc 3: DVD - The Rosebud Film Documentary,<br>Disc 4: CD - More from the Recording Sessions,<br>Disc 5: CD - Recording Sessions, Roughs and Outtakes,<br>Disc 6: 180g Vinyl LP - original album, remastered,<br>Soft-back 12"x12" book, containing pictures and notes on Rumours, written by various members of the band,<br>Peel-off 12"x12" backing paper containing track listing.<br>All housed in a 12"x12", solid, card sleeve.<br><br>*Previously released as R2-73882<br><br>Disc 1:<br>Recorded at Record Plant, Sausalito & Los Angeles, CA; Wally Heider Recording Studios, Los Angeles, CA; Criteria Studios, Miami, FL; Davlen Recording Studio, North Hollywood, CA * "Songbird" Recorded at Zellerbach Auditorium/U.C. Berkeley, Berkeley, CA (3/3/76)<br>Mixed at Sound City, Van Nuys, California; Record Plant, Los Angeles, California<br><br>Disc 2: <br>Live tracks recorded during the 1977 "Rumours" Tour In Oklahoma City, OK; Tulsa, OK; Nashville, TN & Columbia, SC<br><br>Disc 3: <br>1977 documentary film created to promote the European leg of the "Rumours" tour.  Includes behind-the-scenes interviews, rehearsal footage and live performances.<br><br>This Reissue ℗ & © 2013 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. |
+| Notes | Deluxe edition of 'Rumours', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Live, 1977, Disc 3: DVD - The Rosebud Film Documentary, Disc 4: CD - More from the Recording Sessions, Disc 5: CD - Recording Sessions, Roughs and Outtakes, Disc 6: 180g Vinyl LP - original album, remastered, Soft-back 12"x12" book, containing pictures and notes on Rumours, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  *Previously released as R2-73882  Disc 1: Recorded at Record Plant, Sausalito & Los Angeles, CA; Wally Heider Recording Studios, Los Angeles, CA; Criteria Studios, Miami, FL; Davlen Recording Studio, North Hollywood, CA * "Songbird" Recorded at Zellerbach Auditorium/U.C. Berkeley, Berkeley, CA (3/3/76) Mixed at Sound City, Van Nuys, California; Record Plant, Los Angeles, California  Disc 2:  Live tracks recorded during the 1977 "Rumours" Tour In Oklahoma City, OK; Tulsa, OK; Nashville, TN & Columbia, SC  Disc 3:  1977 documentary film created to promote the European leg of the "Rumours" tour.  Includes behind-the-scenes interviews, rehearsal footage and live performances.  This Reissue ℗ & © 2013 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. |
 | Discogs URL    | [Fleetwood Mac - Rumours ](https://www.discogs.com/release/4288657-Fleetwood-Mac-Rumours-) |

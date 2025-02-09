@@ -36,20 +36,20 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cool Mountaineer |  |
-| A2 | Justice Keepers |  |
-| A3 | Long Time |  |
-| A4 | Rights Of A Child |  |
-| A5 | God Of Love |  |
-| A6 | Overs The Water |  |
-| B1 | Tongue Tee Tie |  |
-| B2 | Darling I Need You |  |
-| B3 | To The Heavens |  |
-| B4 | Thank Jah |  |
-| B5 | Big Fun |  |
-| B6 | How I Love Thee |  |
+| Position | Title |
+|----------|--------|
+| A1 | Cool Mountaineer |
+| A2 | Justice Keepers |
+| A3 | Long Time |
+| A4 | Rights Of A Child |
+| A5 | God Of Love |
+| A6 | Overs The Water |
+| B1 | Tongue Tee Tie |
+| B2 | Darling I Need You |
+| B3 | To The Heavens |
+| B4 | Thank Jah |
+| B5 | Big Fun |
+| B6 | How I Love Thee |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Green/Yellow Mixed, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2531 |
-| Notes | 180-gram audiophile vinyl<br>Insert<br>Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl |
+| Notes | 180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl |
 | Discogs URL    | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513-Bad-Brains-God-Of-Love) |

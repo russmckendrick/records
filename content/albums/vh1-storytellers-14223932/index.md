@@ -35,21 +35,21 @@ VH1 Storytellers is a live album by the English singer-songwriter David Bowie. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Life On Mars? |  |
-| A2 | Rebel Rebel (Truncated) |  |
-| A3 | Thursday's Child |  |
-| B1 | Can't Help Thinking About Me |  |
-| B2 | China Girl  |  |
-| B3 | Seven |  |
-| C1 | Drive-In Saturday |  |
-| C2 | Word On A Wing |  |
-|  | Bonus Performances: |  |
-| C3 | Survive |  |
-| D1 | I Can't Read |  |
-| D2 | Always Crashing In The Same Car |  |
-| D3 | If I'm Dreaming My Life |  |
+| Position | Title |
+|----------|--------|
+| A1 | Life On Mars? |
+| A2 | Rebel Rebel (Truncated) |
+| A3 | Thursday's Child |
+| B1 | Can't Help Thinking About Me |
+| B2 | China Girl  |
+| B3 | Seven |
+| C1 | Drive-In Saturday |
+| C2 | Word On A Wing |
+|  | Bonus Performances: |
+| C3 | Survive |
+| D1 | I Can't Read |
+| D2 | Always Crashing In The Same Car |
+| D3 | If I'm Dreaming My Life |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ VH1 Storytellers is a live album by the English singer-songwriter David Bowie. I
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | DBVH1 9919 |
-| Notes | Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.<br><br>Recorded at Manhattan Center, New York, NY 23rd August, 1999.<br><br>℗ 2009 © 2019<br><br>Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"   |
+| Notes | Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.  Recorded at Manhattan Center, New York, NY 23rd August, 1999.  ℗ 2009 © 2019  Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"   |
 | Discogs URL    | [David Bowie - VH1 Storytellers](https://www.discogs.com/release/14223932-David-Bowie-VH1-Storytellers) |

@@ -29,18 +29,18 @@ styles: ["Pop Rock", "Goth Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wheel |  |
-| A2 | Rainmaker |  |
-| A3 | Prisoner Of Love |  |
-| A4 | Playground Of The Rich |  |
-| A5 | Young Men |  |
-| B1 | Up All Night |  |
-| B2 | Come Back |  |
-| B3 | All My Love (Ask Nothing) |  |
-| B4 | Mickey |  |
-| B5 | Liberator |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Wheel |
+| A2 | Rainmaker |
+| A3 | Prisoner Of Love |
+| A4 | Playground Of The Rich |
+| A5 | Young Men |
+| B1 | Up All Night |
+| B2 | Come Back |
+| B3 | All My Love (Ask Nothing) |
+| B4 | Mickey |
+| B5 | Liberator |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Pop Rock", "Goth Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | Epic |
 | Catalog Number | 450872 1 |
-| Notes | Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.<br><br>Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover. |
+| Notes | Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.  Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover. |
 | Discogs URL    | [Spear Of Destiny - S.O.D. The Epic Years](https://www.discogs.com/release/492090-Spear-Of-Destiny-SOD-The-Epic-Years) |

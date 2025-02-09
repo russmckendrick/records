@@ -33,20 +33,20 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Want You | 3:09 |
-| A2 | Party In The Sky | 3:51 |
-| A3 | Plutoman | 4:14 |
-| A4 | Uniform | 3:54 |
-| A5 | Lovegrove | 3:17 |
-| A6 | Just Wednesday | 3:43 |
-| B1 | Saturn 5 | 3:59 |
-| B2 | All Of This And More | 3:32 |
-| B3 | The Way The Lights Fall | 4:54 |
-| B4 | Half Way There | 3:50 |
-| B5 | Cobra | 2:13 |
-| B6 | I Don't Want To Go Blind | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | I Want You |
+| A2 | Party In The Sky |
+| A3 | Plutoman |
+| A4 | Uniform |
+| A5 | Lovegrove |
+| A6 | Just Wednesday |
+| B1 | Saturn 5 |
+| B2 | All Of This And More |
+| B3 | The Way The Lights Fall |
+| B4 | Half Way There |
+| B5 | Cobra |
+| B6 | I Don't Want To Go Blind |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 | Format         | Vinyl LP Album |
 | Label          | Mute |
 | Catalog Number | dung 25 |
-| Notes | Recorded and mixed at Parr Street Studios, Liverpool.<br><br>Inner sleeve with lyrics & credits.<br><br>Same release as [r638225] but with other barcode and without the bonus 10".<br> |
+| Notes | Recorded and mixed at Parr Street Studios, Liverpool.  Inner sleeve with lyrics & credits.  Same release as [r638225] but with other barcode and without the bonus 10".  |
 | Discogs URL    | [Inspiral Carpets - Devil Hopping](https://www.discogs.com/release/2158022-Inspiral-Carpets-Devil-Hopping) |

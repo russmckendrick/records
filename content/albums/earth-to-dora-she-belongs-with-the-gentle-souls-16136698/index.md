@@ -29,20 +29,20 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Anything For Boo	 |  |
-| A2 | Are We Alright Again	 |  |
-| A3 | Who You Say You Are	 |  |
-| A4 | Earth To Dora	 |  |
-| A5 | Dark And Dramatic	 |  |
-| A6 | Are You Fucking Your Ex	 |  |
-| B1 | The Gentle Souls	 |  |
-| B2 | Of Unsent Letters	 |  |
-| B3 | I Got Hurt	 |  |
-| B4 | OK |  |
-| B5 | Baby Let's Make It Real	 |  |
-| B6 | Waking Up	 |  |
+| Position | Title |
+|----------|--------|
+| A1 | Anything For Boo	 |
+| A2 | Are We Alright Again	 |
+| A3 | Who You Say You Are	 |
+| A4 | Earth To Dora	 |
+| A5 | Dark And Dramatic	 |
+| A6 | Are You Fucking Your Ex	 |
+| B1 | The Gentle Souls	 |
+| B2 | Of Unsent Letters	 |
+| B3 | I Got Hurt	 |
+| B4 | OK |
+| B5 | Baby Let's Make It Real	 |
+| B6 | Waking Up	 |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Stereo |
 | Label          | E Works Records |
 | Catalog Number | EWORKS116LP |
-| Notes | Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.<br><br>Tracks A1, A2, B5: Satan's Cock-A-Doodle Do/Almo Music ASCAP/Koool G Murder Music ASCAP<br>Tracks B3, B6: Satan's Cock-A- Doodle Do/Almo Music ASCAP<br>Tracks A4, A5, B2: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI<br>Tracks A3, A6, B4: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Questionable Notability Music ASCAP<br>Track B1: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI/Koool G Murder Music ASCAP |
+| Notes | Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.  Tracks A1, A2, B5: Satan's Cock-A-Doodle Do/Almo Music ASCAP/Koool G Murder Music ASCAP Tracks B3, B6: Satan's Cock-A- Doodle Do/Almo Music ASCAP Tracks A4, A5, B2: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI Tracks A3, A6, B4: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Questionable Notability Music ASCAP Track B1: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI/Koool G Murder Music ASCAP |
 | Discogs URL    | [Eels - Earth To Dora (She Belongs With The Gentle Souls)](https://www.discogs.com/release/16136698-Eels-Earth-To-Dora-She-Belongs-With-The-Gentle-Souls) |

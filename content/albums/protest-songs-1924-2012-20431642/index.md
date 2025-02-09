@@ -40,20 +40,20 @@ styles: ["Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Freedom Highway |  |
-| A2 | Everybody Knows |  |
-| A3 | I Don't Mind Failing In This World |  |
-| A4 | Black, Brown And White |  |
-| A5 | Ain't Gonna Let Nobody Turn Us Around |  |
-| A6 | Fuck All The Perfect People |  |
-| B1 | My Next Door Neighbour |  |
-| B2 | Trouble Every Day |  |
-| B3 | Listening Wind |  |
-| B4 | I Live In A City |  |
-| B5 | Soldiers Who Want To Be Heroes |  |
-| B6 | Get Up, Stand Up |  |
+| Position | Title |
+|----------|--------|
+| A1 | Freedom Highway |
+| A2 | Everybody Knows |
+| A3 | I Don't Mind Failing In This World |
+| A4 | Black, Brown And White |
+| A5 | Ain't Gonna Let Nobody Turn Us Around |
+| A6 | Fuck All The Perfect People |
+| B1 | My Next Door Neighbour |
+| B2 | Trouble Every Day |
+| B3 | Listening Wind |
+| B4 | I Live In A City |
+| B5 | Soldiers Who Want To Be Heroes |
+| B6 | Get Up, Stand Up |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Ska"]
 | Format         | Vinyl LP Album (180g) |
 | Label          | Island Records |
 | Catalog Number | 3840701 |
-| Notes | 180 grams heavyweight black vinyl. <br>Includes 12 page booklet with lyrics, credits and download card. |
+| Notes | 180 grams heavyweight black vinyl.  Includes 12 page booklet with lyrics, credits and download card. |
 | Discogs URL    | [The Specials - Protest Songs 1924-2012](https://www.discogs.com/release/20431642-The-Specials-Protest-Songs-1924-2012) |

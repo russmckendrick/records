@@ -77,59 +77,59 @@ In 2018, the album reached a peak of number 9 on the US Billboard 200 following 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bohemian Rhapsody | 5:54 |
-| A2 | Another One Bites The Dust | 3:36 |
-| A3 | Killer Queen | 2:59 |
-| A4 | Fat Bottomed Girls | 3:21 |
-| B1 | Bicycle Race | 3:02 |
-| B2 | You're My Best Friend | 2:51 |
-| B3 | Don't Stop Me Now | 3:29 |
-| B4 | Save Me | 3:48 |
-| C1 | Crazy Little Thing Called Love | 2:43 |
-| C2 | Somebody To Love | 4:55 |
-| C3 | Now I'm Here | 4:13 |
-| C4 | Good Old-Fashioned Lover Boy | 2:54 |
-| D1 | Play The Game | 3:31 |
-| D2 | Flash | 2:47 |
-| D3 | Seven Seas Of Rhye | 2:48 |
-| D4 | We Will Rock You | 2:01 |
-| D5 | We Are The Champions | 2:59 |
-| E1 | A Kind Of Magic | 4:24 |
-| E2 | Under Pressure | 3:56 |
-| E3 | Radio Ga Ga | 5:48 |
-| E4 | I Want It All | 4:01 |
-| E5 | I Want To Break Free | 4:18 |
-| F1 | Innuendo | 6:31 |
-| F2 | It's A Hard Life | 4:09 |
-| F3 | Breakthru | 4:08 |
-| F4 | Who Wants To Live Forever | 4:56 |
-| G1 | Headlong | 4:33 |
-| G2 | The Miracle | 5:01 |
-| G3 | I'm Going Slightly Mad | 4:07 |
-| G4 | The Invisible Man | 3:55 |
-| H1 | Hammer To Fall | 3:40 |
-| H2 | Friends Will Be Friends | 4:07 |
-| H3 | The Show Must Go On | 4:35 |
-| H4 | One Vision | 4:02 |
-| I1 | The Show Must Go On | 4:35 |
-| I2 | Under Pressure (Rah Mix) | 4:08 |
-| I3 | Barcelona | 4:26 |
-| I4 | Too Much Love Will Kill You | 4:20 |
-| J1 | Somebody To Love | 5:17 |
-| J2 | You Don't Fool Me | 5:24 |
-| J3 | Heaven For Everyone | 4:43 |
-| J4 | Las Palabras De Amor | 4:31 |
-| K1 | Driven By You | 4:11 |
-| K2 | Living On My Own | 3:38 |
-| K3 | Let Me Live | 4:45 |
-| K4 | The Great Pretender | 3:28 |
-| K5 | Princes Of The Universe | 3:32 |
-| L1 | Another One Bites The Dust | 4:20 |
-| L2 | No-One But You (Only The Good Die Young) | 4:13 |
-| L3 | These Are The Days Of Our Lives | 4:15 |
-| L4 | Thank God It's Christmas | 4:19 |
+| Position | Title |
+|----------|--------|
+| A1 | Bohemian Rhapsody |
+| A2 | Another One Bites The Dust |
+| A3 | Killer Queen |
+| A4 | Fat Bottomed Girls |
+| B1 | Bicycle Race |
+| B2 | You're My Best Friend |
+| B3 | Don't Stop Me Now |
+| B4 | Save Me |
+| C1 | Crazy Little Thing Called Love |
+| C2 | Somebody To Love |
+| C3 | Now I'm Here |
+| C4 | Good Old-Fashioned Lover Boy |
+| D1 | Play The Game |
+| D2 | Flash |
+| D3 | Seven Seas Of Rhye |
+| D4 | We Will Rock You |
+| D5 | We Are The Champions |
+| E1 | A Kind Of Magic |
+| E2 | Under Pressure |
+| E3 | Radio Ga Ga |
+| E4 | I Want It All |
+| E5 | I Want To Break Free |
+| F1 | Innuendo |
+| F2 | It's A Hard Life |
+| F3 | Breakthru |
+| F4 | Who Wants To Live Forever |
+| G1 | Headlong |
+| G2 | The Miracle |
+| G3 | I'm Going Slightly Mad |
+| G4 | The Invisible Man |
+| H1 | Hammer To Fall |
+| H2 | Friends Will Be Friends |
+| H3 | The Show Must Go On |
+| H4 | One Vision |
+| I1 | The Show Must Go On |
+| I2 | Under Pressure (Rah Mix) |
+| I3 | Barcelona |
+| I4 | Too Much Love Will Kill You |
+| J1 | Somebody To Love |
+| J2 | You Don't Fool Me |
+| J3 | Heaven For Everyone |
+| J4 | Las Palabras De Amor |
+| K1 | Driven By You |
+| K2 | Living On My Own |
+| K3 | Let Me Live |
+| K4 | The Great Pretender |
+| K5 | Princes Of The Universe |
+| L1 | Another One Bites The Dust |
+| L2 | No-One But You (Only The Good Die Young) |
+| L3 | These Are The Days Of Our Lives |
+| L4 | Thank God It's Christmas |
 
 
 ## Apple Music
@@ -147,5 +147,5 @@ In 2018, the album reached a peak of number 9 on the US Billboard 200 following 
 | Format         | Vinyl LP Compilation Reissue Remastered (180 Grams, Yellow), Vinyl LP Compilation Reissue Remastered (180 Grams, Red), Vinyl LP Compilation Reissue Remastered (180 Grams, Pink), Vinyl LP Compilation Reissue Remastered (180 Grams, Purple), Vinyl LP Compilation Reissue Remastered (180 Grams, Blue), Vinyl LP Compilation Reissue Remastered (180 Grams, Green), Box Set Limited Edition |
 | Label          | EMI |
 | Catalog Number | 0602435877518 |
-| Notes | Sticker on shrinkwrap states:<br>"QUEEN<br>THE PLATINUM <br>COLLECTION<br><br>51 HITS ON VINYL <br>FOR THE FIRST TIME<br>6x 180g Coloured LPs<br>24 page 12" photo book<br>00602435877518"<br><br>Made in the EU<br><br>Runout etched, "1=X", "1=I", "3=+", "1T", "V1", 1-", "S1=", "1+", "1I" are mirrored<br><br>A limited number of orders from queenonline.com included a hand-numbered (n/2,000) 12" x 12" art card.<br>Print shipped in a white cardboard envelope with 2 stickers:<br>-barcode 2566016375153 (QUPCPRINT) on the back<br>-"QUPCPRINT QUEEN PLATINUM COLLECTION PRINT"  on the front<br><br> |
+| Notes | Sticker on shrinkwrap states: "QUEEN THE PLATINUM  COLLECTION  51 HITS ON VINYL  FOR THE FIRST TIME 6x 180g Coloured LPs 24 page 12" photo book 00602435877518"  Made in the EU  Runout etched, "1=X", "1=I", "3=+", "1T", "V1", 1-", "S1=", "1+", "1I" are mirrored  A limited number of orders from queenonline.com included a hand-numbered (n/2,000) 12" x 12" art card. Print shipped in a white cardboard envelope with 2 stickers: -barcode 2566016375153 (QUPCPRINT) on the back -"QUPCPRINT QUEEN PLATINUM COLLECTION PRINT"  on the front   |
 | Discogs URL    | [Queen - The Platinum Collection](https://www.discogs.com/release/23601854-Queen-The-Platinum-Collection) |

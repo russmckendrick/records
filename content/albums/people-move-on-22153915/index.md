@@ -28,20 +28,20 @@ Music critics gave People Move On generally favourable reviews, though some of t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Woman I Know | 7:51 |
-| A2 | You Just Know | 4:39 |
-| A3 | People Move On | 4:40 |
-| B1 | A Change Of Heart | 4:41 |
-| B2 | Autograph | 8:45 |
-| B3 | You Light The Fire | 3:54 |
-| C1 | Not Alone | 3:52 |
-| C2 | When You Grow | 5:25 |
-| C3 | You've Got What It Takes | 4:50 |
-| D1 | Stay | 5:16 |
-| D2 | In Vain | 4:56 |
-| D3 | I'm Tired | 4:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Woman I Know |
+| A2 | You Just Know |
+| A3 | People Move On |
+| B1 | A Change Of Heart |
+| B2 | Autograph |
+| B3 | You Light The Fire |
+| C1 | Not Alone |
+| C2 | When You Grow |
+| C3 | You've Got What It Takes |
+| D1 | Stay |
+| D2 | In Vain |
+| D3 | I'm Tired |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Music critics gave People Move On generally favourable reviews, though some of t
 | Format         | Vinyl 2× LP Album Limited Edition (White 180g, Signed Print) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC943 |
-| Notes | This version has re-recorded vocals and new guitar overdubs recorded in 2021. <br><br>Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X). |
+| Notes | This version has re-recorded vocals and new guitar overdubs recorded in 2021.   Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X). |
 | Discogs URL    | [Bernard Butler - People Move On](https://www.discogs.com/release/22153915-Bernard-Butler-People-Move-On) |

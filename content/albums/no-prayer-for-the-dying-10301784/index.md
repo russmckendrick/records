@@ -37,18 +37,18 @@ Although it received generally mixed to negative reviews, the album peaked at No
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tailgunner |  |
-| A2 | Holy Smoke |  |
-| A3 | No Prayer For The Dying |  |
-| A4 | Public Enema Number One |  |
-| A5 | Fates Warning |  |
-| B1 | The Assassin |  |
-| B2 | Run Silent Run Deep |  |
-| B3 | Hooks In You |  |
-| B4 | Bring Your Daughter...To The Slaughter |  |
-| B5 | Mother Russia |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tailgunner |
+| A2 | Holy Smoke |
+| A3 | No Prayer For The Dying |
+| A4 | Public Enema Number One |
+| A5 | Fates Warning |
+| B1 | The Assassin |
+| B2 | Run Silent Run Deep |
+| B3 | Hooks In You |
+| B4 | Bring Your Daughter...To The Slaughter |
+| B5 | Mother Russia |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Although it received generally mixed to negative reviews, the album peaked at No
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295852351 |
-| Notes | Frontcover artwork with misprint, in contrary to the other existing [url=https://www.discogs.com/release/30424103]without misprint[/url].<br><br>180 Gram Black Vinyl.<br>Original Album Art And High Res Audio Remasters.<br>Released with a inner sleeve with lyrics and credits in one side and photos in the other side. <br>The remasters are the 2015 digital remasters.<br><br>Original ℗ 1990. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.<br>This label copy information is the subject of copyright protection. All rights reserved. © 2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.<br><br>Recorded at Steve Harris' Barn, somewhere in England on the Rolling Stone mobile.<br>Mixed at Battery Studios, London. |
+| Notes | Frontcover artwork with misprint, in contrary to the other existing [url=https://www.discogs.com/release/30424103]without misprint[/url].  180 Gram Black Vinyl. Original Album Art And High Res Audio Remasters. Released with a inner sleeve with lyrics and credits in one side and photos in the other side.  The remasters are the 2015 digital remasters.  Original ℗ 1990. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company. This label copy information is the subject of copyright protection. All rights reserved. © 2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Recorded at Steve Harris' Barn, somewhere in England on the Rolling Stone mobile. Mixed at Battery Studios, London. |
 | Discogs URL    | [Iron Maiden - No Prayer For The Dying](https://www.discogs.com/release/10301784-Iron-Maiden-No-Prayer-For-The-Dying) |

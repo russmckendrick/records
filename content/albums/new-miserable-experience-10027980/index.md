@@ -31,20 +31,20 @@ New Miserable Experience is the second studio album by alternative rock band Gin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lost Horizon | 3:20 |
-| A2 | Hey Jealousy | 3:56 |
-| A3 | Mrs. Rita | 4:25 |
-| A4 | Until I Fall Away | 3:51 |
-| A5 | Hold Me Down | 4:50 |
-| A6 | Cajun Song | 2:56 |
-| B1 | Hands Are Tied | 3:17 |
-| B2 | Found Out About You | 3:53 |
-| B3 | Allison Road | 3:18 |
-| B4 | 29 | 4:18 |
-| B5 | Pieces Of The Night | 4:33 |
-| B5 | Cheatin' | 3:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Lost Horizon |
+| A2 | Hey Jealousy |
+| A3 | Mrs. Rita |
+| A4 | Until I Fall Away |
+| A5 | Hold Me Down |
+| A6 | Cajun Song |
+| B1 | Hands Are Tied |
+| B2 | Found Out About You |
+| B3 | Allison Road |
+| B4 | 29 |
+| B5 | Pieces Of The Night |
+| B5 | Cheatin' |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ New Miserable Experience is the second studio album by alternative rock band Gin
 | Format         | Vinyl LP Album Reissue |
 | Label          | A&M Records |
 | Catalog Number | B-0026126-01 |
-| Notes | From insert:<br>Produced by John Hampton & Gin Blossoms  Engineered & Mixed by John Hampton  Recorded February - March 1992 @ Ardent Studios - Memphis, TN<br>except "Mrs. Rita" and "Allison Road" - Produced by Gin Blossoms. Engineered by Andy Barrett  Recorded May - July 1991 @ AB Recorders - Phoenix, AZ  Mixed July 1991 by John Hampton @ Ardent Studios - Memphis, TN |
+| Notes | From insert: Produced by John Hampton & Gin Blossoms  Engineered & Mixed by John Hampton  Recorded February - March 1992 @ Ardent Studios - Memphis, TN except "Mrs. Rita" and "Allison Road" - Produced by Gin Blossoms. Engineered by Andy Barrett  Recorded May - July 1991 @ AB Recorders - Phoenix, AZ  Mixed July 1991 by John Hampton @ Ardent Studios - Memphis, TN |
 | Discogs URL    | [Gin Blossoms - New Miserable Experience](https://www.discogs.com/release/10027980-Gin-Blossoms-New-Miserable-Experience) |

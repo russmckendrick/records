@@ -49,25 +49,25 @@ Thirty Something (Chinese: 我的30定律; pinyin: wo de san shi ding lu; litera
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smiley | 7:08 |
-| A2 | Satan (30-Something Years Later Mix) | 7:10 |
-| B1 | Where Is It Going (Feat. Stephen Hawking) | 3:02 |
-| B2 | Impact (30 Years Later And The Earth Is Still Burning Mix) | 11:52 |
-| C1 | Chime (30-Something Years Later Mix) | 5:40 |
-| C2 | Halcyon (30-Something Years Later Mix) | 9:11 |
-| D1 | The Box (30-Something Years Later Mix) | 4:03 |
-| D2 | Belfast (30-Something Years Later Mix) | 9:36 |
-| E1 | The Girl With The Sun In Her Head (Floex Remix) | 4:44 |
-| E2 | Belfast (David Holmes Remix) | 12:02 |
-| F1 | Halcyon & On (Jon Hopkins Remix) | 7:07 |
-| F2 | Chime (Eli Brown Remix) | 5:31 |
-| G1 | Impact (John Tejada Remix) | 7:53 |
-| G2 | Are We Here? (Dusky Remix) | 5:47 |
-| H1 | Belfast (ANNA Techno Remix) | 7:22 |
-| H2 | The Box (Joris Voorn Remix) | 6:42 |
-| H3 | Are We Here? (Shanti Celeste Remix) | 5:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Smiley |
+| A2 | Satan (30-Something Years Later Mix) |
+| B1 | Where Is It Going (Feat. Stephen Hawking) |
+| B2 | Impact (30 Years Later And The Earth Is Still Burning Mix) |
+| C1 | Chime (30-Something Years Later Mix) |
+| C2 | Halcyon (30-Something Years Later Mix) |
+| D1 | The Box (30-Something Years Later Mix) |
+| D2 | Belfast (30-Something Years Later Mix) |
+| E1 | The Girl With The Sun In Her Head (Floex Remix) |
+| E2 | Belfast (David Holmes Remix) |
+| F1 | Halcyon & On (Jon Hopkins Remix) |
+| F2 | Chime (Eli Brown Remix) |
+| G1 | Impact (John Tejada Remix) |
+| G2 | Are We Here? (Dusky Remix) |
+| H1 | Belfast (ANNA Techno Remix) |
+| H2 | The Box (Joris Voorn Remix) |
+| H3 | Are We Here? (Shanti Celeste Remix) |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ Thirty Something (Chinese: 我的30定律; pinyin: wo de san shi ding lu; litera
 | Format         | Vinyl 4× 12" Album (180g), Box Set |
 | Label          | Orbital Recordings Ltd. |
 | Catalog Number | LMS5521698 |
-| Notes | Boxes ordered directly from Townsend Music came with an exclusive signed print.<br>12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.<br><br>Runouts are etched, apart from MPO logo and subsequent digits on sides A to F, which are laser etched. |
+| Notes | Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.  Runouts are etched, apart from MPO logo and subsequent digits on sides A to F, which are laser etched. |
 | Discogs URL    | [Orbital - Thirty-Something](https://www.discogs.com/release/24033002-Orbital-Thirty-Something) |

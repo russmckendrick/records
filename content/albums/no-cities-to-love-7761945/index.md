@@ -25,18 +25,18 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Price Tag |  |
-| A2 | Fangless |  |
-| A3 | Surface Envy |  |
-| A4 | No Cities To Love |  |
-| A5 | A New Wave |  |
-| B1 | No Anthems |  |
-| B2 | Gimme Love |  |
-| B3 | Bury Our Friends |  |
-| B4 | Hey Darling |  |
-| B5 | Fade |  |
+| Position | Title |
+|----------|--------|
+| A1 | Price Tag |
+| A2 | Fangless |
+| A3 | Surface Envy |
+| A4 | No Cities To Love |
+| A5 | A New Wave |
+| B1 | No Anthems |
+| B2 | Gimme Love |
+| B3 | Bury Our Friends |
+| B4 | Hey Darling |
+| B5 | Fade |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Sub Pop |
 | Catalog Number | SP1100 |
-| Notes | Black vinyl edition, comes in a triple gatefold cover.  <br>Includes a four page sheet with lyrics and credits and a coupon with free download code. <br>Exclusive Barnes & Noble edition with art print signed by the band. <br><br>All songs written by Sleater Kinney.<br>Code Word Nemesis (ASCAP)<br><br>©℗ 2015 Sub Pop Records.<br><br>Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"<br> |
+| Notes | Black vinyl edition, comes in a triple gatefold cover.    Includes a four page sheet with lyrics and credits and a coupon with free download code.   Exclusive Barnes & Noble edition with art print signed by the band.     All songs written by Sleater Kinney.  Code Word Nemesis (ASCAP)    ©℗ 2015 Sub Pop Records.    Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"   |
 | Discogs URL    | [Sleater-Kinney - No Cities To Love](https://www.discogs.com/release/7761945-Sleater-Kinney-No-Cities-To-Love) |

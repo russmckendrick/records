@@ -35,19 +35,19 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ich Bin Ein Auslander | 4:01 |
-| A2 | Kick To Kill | 3:26 |
-| A3 | Familus Horribilus | 4:05 |
-| B1 | Underbelly | 3:58 |
-| B2 | Fatman | 3:18 |
-| B3 | Home | 3:42 |
-| C1 | Cape Connection | 5:02 |
-| C2 | Menofearthereaper | 6:30 |
-| D1 | Everything's Cool | 4:23 |
-| D2 | R.S.V.P. | 3:34 |
-| D3 | Babylon | 5:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Ich Bin Ein Auslander |
+| A2 | Kick To Kill |
+| A3 | Familus Horribilus |
+| B1 | Underbelly |
+| B2 | Fatman |
+| B3 | Home |
+| C1 | Cape Connection |
+| C2 | Menofearthereaper |
+| D1 | Everything's Cool |
+| D2 | R.S.V.P. |
+| D3 | Babylon |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 | Format         | Vinyl 2× LP Album |
 | Label          | Infectious Records |
 | Catalog Number | INFECT 10LPX |
-| Notes | distributed by: rtm / pinnacle<br>all tracks (b.m.g. music ltd.), engineered for 140dB. <br>an infectious records release fax 071 371 7663. <br>worldwide representation by craig jennings/chapter 22 music fax 021 604 8888. uk agent: paul boswell for the agency 071 278 3331 fax 071 837 4672. <br>us agent: steve ferguson for icm 212 556 5649 fax 212556 6847. <br>pwei info: chapter 22 unit 114 the custard factory gibb street birmingham b9 4aa england. <br>the designers republic say grrr…! a pretty face, a shapely figure - she used them to get what they want!!<br>℗ 1994 the copyright in this sound recording is owned by infectious records ltd. © 1994 infectious records ltd. <br>sissy™ love the poppies! <br><br>(lyrics reproduced by kind permission) <br>craig jennings + pwei would like to thank korda marshall, trent reznor + john a. malm jr. fuzz uses paiste cymbals. pwei crew are […] <br><br>Made in England. i luv my dr™ cos labels can be fun!! <br> |
+| Notes | distributed by: rtm / pinnacle  all tracks (b.m.g. music ltd.), engineered for 140dB.   an infectious records release fax 071 371 7663.   worldwide representation by craig jennings/chapter 22 music fax 021 604 8888. uk agent: paul boswell for the agency 071 278 3331 fax 071 837 4672.   us agent: steve ferguson for icm 212 556 5649 fax 212556 6847.   pwei info: chapter 22 unit 114 the custard factory gibb street birmingham b9 4aa england.   the designers republic say grrr…! a pretty face, a shapely figure - she used them to get what they want!!  ℗ 1994 the copyright in this sound recording is owned by infectious records ltd. © 1994 infectious records ltd.   sissy™ love the poppies!     (lyrics reproduced by kind permission)   craig jennings + pwei would like to thank korda marshall, trent reznor + john a. malm jr. fuzz uses paiste cymbals. pwei crew are […]     Made in England. i luv my dr™ cos labels can be fun!!    |
 | Discogs URL    | [Pop Will Eat Itself - Dos Dedos Mis Amigos](https://www.discogs.com/release/213818-Pop-Will-Eat-Itself-Dos-Dedos-Mis-Amigos) |

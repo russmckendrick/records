@@ -25,24 +25,24 @@ styles: ["Power Pop", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Street (Single Mix) | 2:59 |
-| A2 | Don't Lie To Me (Single Version) | 2:49 |
-| A3 | September Gurls (Single Version) | 2:47 |
-| A4 | Thirteen | 2:35 |
-| A5 | Jesus Christ (Single Edit) | 2:19 |
-| B1 | I'm In Love With A Girl | 1:47 |
-| B2 | O, My Soul (Single Edit) | 2:54 |
-| B3 | Feel | 3:33 |
-| B4 | When My Baby's Beside Me | 3:24 |
-| C1 | Take Care | 2:48 |
-| C2 | Life Is White | 3:18 |
-| C3 | Watch The Sunrise (Single Version) | 3:15 |
-| D1 | The Ballad Of El Goodo | 4:20 |
-| D2 | Nightime | 2:53 |
-| D3 | Back Of A Car | 2:46 |
-| D4 | Thank You Friends | 3:07 |
+| Position | Title |
+|----------|--------|
+| A1 | In The Street (Single Mix) |
+| A2 | Don't Lie To Me (Single Version) |
+| A3 | September Gurls (Single Version) |
+| A4 | Thirteen |
+| A5 | Jesus Christ (Single Edit) |
+| B1 | I'm In Love With A Girl |
+| B2 | O, My Soul (Single Edit) |
+| B3 | Feel |
+| B4 | When My Baby's Beside Me |
+| C1 | Take Care |
+| C2 | Life Is White |
+| C3 | Watch The Sunrise (Single Version) |
+| D1 | The Ballad Of El Goodo |
+| D2 | Nightime |
+| D3 | Back Of A Car |
+| D4 | Thank You Friends |
 
 
 ## Apple Music

@@ -30,14 +30,14 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Theme (From Crocodile Dundee) |  |
-| A2 | Astral Womb |  |
-| A3 | Pink Bows |  |
-| B1 | Mannequin |  |
-| B2 | Don't Wear The Crown |  |
-| B3 | Orphans |  |
+| Position | Title |
+|----------|--------|
+| A1 | Theme (From Crocodile Dundee) |
+| A2 | Astral Womb |
+| A3 | Pink Bows |
+| B1 | Mannequin |
+| B2 | Don't Wear The Crown |
+| B3 | Orphans |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: []
 | Format         | Vinyl LP Album (Purple Opaque With Black, White & Yellow Splatter) |
 | Label          | Rockosmos |
 | Catalog Number | ROK251 |
-| Notes | 180g vinyl. Includes a printed inner sleeve with lyrics.<br><br>Funded via Bandcamp's vinyl pressing service. |
+| Notes | 180g vinyl. Includes a printed inner sleeve with lyrics.  Funded via Bandcamp's vinyl pressing service. |
 | Discogs URL    | [Sel Balamir - ( )rphans](https://www.discogs.com/release/25320166-Sel-Balamir--rphans) |

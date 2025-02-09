@@ -33,18 +33,18 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alison | 3:52 |
-| A2 | Machine Gun | 4:28 |
-| A3 | 40 Days | 3:17 |
-| A4 | Sing | 4:50 |
-| A5 | Here She Comes | 2:19 |
-| B1 | Souvlaki Space Station | 5:59 |
-| B2 | When The Sun Hits | 4:48 |
-| B3 | Altogether | 3:43 |
-| B4 | Melon Yellow | 3:54 |
-| B5 | Dagger | 3:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Alison |
+| A2 | Machine Gun |
+| A3 | 40 Days |
+| A4 | Sing |
+| A5 | Here She Comes |
+| B1 | Souvlaki Space Station |
+| B2 | When The Sun Hits |
+| B3 | Altogether |
+| B4 | Melon Yellow |
+| B5 | Dagger |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP202 |
-| Notes | Originally released ℗ & © 1993 Creation Records Limited<br>This release ℗ & © 2011 Sony Music Entertainment:<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>Made in the EU.<br>[sleeve]<br><br>tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London.<br>tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay.<br>tracks b2 & b4 recorded at The White House Studio, Weston Super Mare.<br>All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music<br>Originally released ℗ & © 1993 Creation Records.<br>This release ℗ & © 2011 Sony Music Entertainment:<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>Made in the EU.<br>[insert]<br><br>Originally released ℗ & © 1993 Creation Records Limited<br>This release ℗ & © 2011 Sony Music Entertainment<br>Made in the EU<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>[labels]<br><br>Music On Vinyl [logo]<br>Classic Album<br>180 gram audiophile pressing<br>www.musiconvinyl.com<br>[sticker]<br><br>- 30cm square insert<br>- esealable PVC protective sleeve with sticker on front<br>- etched matrices<br>- similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |
+| Notes | Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [sleeve]  tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London. tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay. tracks b2 & b4 recorded at The White House Studio, Weston Super Mare. All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music Originally released ℗ & © 1993 Creation Records. This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [insert]  Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment Made in the EU Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. [labels]  Music On Vinyl [logo] Classic Album 180 gram audiophile pressing www.musiconvinyl.com [sticker]  - 30cm square insert - esealable PVC protective sleeve with sticker on front - etched matrices - similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |
 | Discogs URL    | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028-Slowdive-Souvlaki) |

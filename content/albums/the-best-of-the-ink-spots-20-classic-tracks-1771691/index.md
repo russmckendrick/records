@@ -27,28 +27,28 @@ styles: ["Vocal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If I Didn't Care |  |
-| A2 | Bless You For Being An Angel |  |
-| A3 | When The Swallows Come Back To Capistrano |  |
-| A4 | Whispering Grass (Don't Tell The Trees) |  |
-| A5 | Maybe |  |
-| A6 | Java Jive |  |
-| A7 | Do I Worry |  |
-| A8 | I Don't Want To Set The World On Fire |  |
-| A9 | Ev'ry Night About This Time |  |
-| A10 | Don't Get Around Much Anymore |  |
-| B1 | To Each His Own |  |
-| B2 | Ring Telephone Ring |  |
-| B3 | I'd Climb The Highest Mountain |  |
-| B4 | Puttin' And Takin' |  |
-| B5 | Cow-Cow-Boogie |  |
-| B6 | Into Each Life Some Rain Must Fall |  |
-| B7 | Your Feet's Too Big |  |
-| B8 | I'll Never Smile Again |  |
-| B9 | It's A Sin To Tell A Lie |  |
-| B10 | Someone's Rocking My Dreamboat |  |
+| Position | Title |
+|----------|--------|
+| A1 | If I Didn't Care |
+| A2 | Bless You For Being An Angel |
+| A3 | When The Swallows Come Back To Capistrano |
+| A4 | Whispering Grass (Don't Tell The Trees) |
+| A5 | Maybe |
+| A6 | Java Jive |
+| A7 | Do I Worry |
+| A8 | I Don't Want To Set The World On Fire |
+| A9 | Ev'ry Night About This Time |
+| A10 | Don't Get Around Much Anymore |
+| B1 | To Each His Own |
+| B2 | Ring Telephone Ring |
+| B3 | I'd Climb The Highest Mountain |
+| B4 | Puttin' And Takin' |
+| B5 | Cow-Cow-Boogie |
+| B6 | Into Each Life Some Rain Must Fall |
+| B7 | Your Feet's Too Big |
+| B8 | I'll Never Smile Again |
+| B9 | It's A Sin To Tell A Lie |
+| B10 | Someone's Rocking My Dreamboat |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Vocal"]
 | Format         | Vinyl LP Compilation Reissue Mono |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50529 |
-| Notes | On rear cover:<br>℗ Original sound recording made by MCA Records Inc.<br>Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title<br>Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |
+| Notes | On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |
 | Discogs URL    | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |

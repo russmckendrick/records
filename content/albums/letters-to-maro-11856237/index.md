@@ -30,19 +30,19 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dear Maro | 6:22 |
-| A2 | Underground | 5:02 |
-| A3 | Electricity | 4:52 |
-| A4 | Deprivation | 3:35 |
-| B1 | Neon | 6:09 |
-| B2 | Izanami | 5:09 |
-| B3 | Nine | 6:10 |
-| C1 | Escalator | 4:26 |
-| C2 | Sleep Paralysis | 6:03 |
-| D1 | Who's Master? | 9:16 |
-| D2 | Ghosts When It Rains | 3:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Dear Maro |
+| A2 | Underground |
+| A3 | Electricity |
+| A4 | Deprivation |
+| B1 | Neon |
+| B2 | Izanami |
+| B3 | Nine |
+| C1 | Escalator |
+| C2 | Sleep Paralysis |
+| D1 | Who's Master? |
+| D2 | Ghosts When It Rains |
 
 
 ## Apple Music

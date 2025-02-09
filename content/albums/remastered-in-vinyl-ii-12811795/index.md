@@ -52,46 +52,46 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Hounds Of Love |  |
-| A1 | Running Up That Hill (A Deal With God) |  |
-| A2 | Hounds Of Love |  |
-| A3 | The Big Sky (7" Mix) |  |
-| A4 | Mother Stands For Comfort |  |
-| A5 | Cloudbusting |  |
-|  | The Ninth Wave |  |
-| B1 | And Dream Of Sheep |  |
-| B2 | Under Ice |  |
-| B3 | Waking The Witch |  |
-| B4 | Watching You Without Me |  |
-| B5 | Jig Of Life |  |
-| B6 | Hello Earth |  |
-| B7 | The Morning Fog |  |
-|  | The Sensual World |  |
-| C1 | The Sensual World |  |
-| C2 | Love And Anger |  |
-| C3 | The Fog |  |
-| C4 | Reaching Out |  |
-| C5 | Heads We're Dancing |  |
-| D1 | Deeper Understanding |  |
-| D2 | Between A Man And A Woman |  |
-| D3 | Never Be Mine |  |
-| D4 | Rocket's Tail |  |
-| D5 | This Woman's Work |  |
-|  | The Red Shoes |  |
-| E1 | Rubberband Girl |  |
-| E2 | And So Is Love |  |
-| E3 | Eat The Music |  |
-| F1 | Moments Of Pleasure |  |
-| F2 | The Song Of Solomon |  |
-| F3 | Lily |  |
-| G1 | The Red Shoes |  |
-| G2 | Top Of The City |  |
-| G3 | Constellation Of The Heart |  |
-| H1 | Big Stripey Lie |  |
-| H2 | Why Should I Love You? |  |
-| H3 | You're The One |  |
+| Position | Title |
+|----------|--------|
+|  | Hounds Of Love |
+| A1 | Running Up That Hill (A Deal With God) |
+| A2 | Hounds Of Love |
+| A3 | The Big Sky (7" Mix) |
+| A4 | Mother Stands For Comfort |
+| A5 | Cloudbusting |
+|  | The Ninth Wave |
+| B1 | And Dream Of Sheep |
+| B2 | Under Ice |
+| B3 | Waking The Witch |
+| B4 | Watching You Without Me |
+| B5 | Jig Of Life |
+| B6 | Hello Earth |
+| B7 | The Morning Fog |
+|  | The Sensual World |
+| C1 | The Sensual World |
+| C2 | Love And Anger |
+| C3 | The Fog |
+| C4 | Reaching Out |
+| C5 | Heads We're Dancing |
+| D1 | Deeper Understanding |
+| D2 | Between A Man And A Woman |
+| D3 | Never Be Mine |
+| D4 | Rocket's Tail |
+| D5 | This Woman's Work |
+|  | The Red Shoes |
+| E1 | Rubberband Girl |
+| E2 | And So Is Love |
+| E3 | Eat The Music |
+| F1 | Moments Of Pleasure |
+| F2 | The Song Of Solomon |
+| F3 | Lily |
+| G1 | The Red Shoes |
+| G2 | Top Of The City |
+| G3 | Constellation Of The Heart |
+| H1 | Big Stripey Lie |
+| H2 | Why Should I Love You? |
+| H3 | You're The One |
 
 
 ## Apple Music
@@ -108,5 +108,5 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered (Gatefold), Box Set Compilation (180 Gram) |
 | Label          | Fish People |
 | Catalog Number | 0190295593957 |
-| Notes | Issued in a slipcase style box with each album housed in its own jacket.<br> - 'Hounds Of Love' has a color printed inner sleeve with lyrics and credits<br> - 'The Sensual World' has a monochrome printed inner sleeve with lyrics and credits<br> - 'The Red Shoes is a dual pocket gatefold with lyrics and credits on the interior and plain black poly-lined inner sleeve for each LP.<br><br>Each album was also released separately on the same day: [r=12795892], [r=12810399], and [r=12809698].<br><br>[From back of the box and each album]<br>℗ 2018 The copyright in this compilation is owned by Noble & Brite Ltd. © 2018 Noble & Brite Ltd.<br>Made in the E.U.<br><br>[From inner sleeve, LP 1]<br>Engineer at Windmill Lane: Bill Somerville-Large<br>Published by Noble & Brite Ltd. / EMI Music Publishing Ltd.<br><br>[From inner sleeve, LP 2]<br>Orchestral Sessions Recorded at Abbey Road<br>The Irish Sessions: recorded at Windmill Lane Studio, Dublin<br>The Trio Bulgarka Sessions: recorded at The Angel Studios<br>All titles published by Noble & Brite Ltd.<br><br>[From gatefold inside, LP 3]<br>Recorded at Abbey Road Studio Number One<br><br>Additional runout information:<br>- Runouts are etched<br>- The Optimal Media plating symbols ("geometric" marks) are mirrored<br>- An unidentified symbol which looks like a smaller case "c" with lines going up and down on sides A, B, E, F, G and H, represented here by { |
+| Notes | Issued in a slipcase style box with each album housed in its own jacket.  - 'Hounds Of Love' has a color printed inner sleeve with lyrics and credits  - 'The Sensual World' has a monochrome printed inner sleeve with lyrics and credits  - 'The Red Shoes is a dual pocket gatefold with lyrics and credits on the interior and plain black poly-lined inner sleeve for each LP.  Each album was also released separately on the same day: [r=12795892], [r=12810399], and [r=12809698].  [From back of the box and each album] ℗ 2018 The copyright in this compilation is owned by Noble & Brite Ltd. © 2018 Noble & Brite Ltd. Made in the E.U.  [From inner sleeve, LP 1] Engineer at Windmill Lane: Bill Somerville-Large Published by Noble & Brite Ltd. / EMI Music Publishing Ltd.  [From inner sleeve, LP 2] Orchestral Sessions Recorded at Abbey Road The Irish Sessions: recorded at Windmill Lane Studio, Dublin The Trio Bulgarka Sessions: recorded at The Angel Studios All titles published by Noble & Brite Ltd.  [From gatefold inside, LP 3] Recorded at Abbey Road Studio Number One  Additional runout information: - Runouts are etched - The Optimal Media plating symbols ("geometric" marks) are mirrored - An unidentified symbol which looks like a smaller case "c" with lines going up and down on sides A, B, E, F, G and H, represented here by { |
 | Discogs URL    | [Kate Bush - Remastered In Vinyl II](https://www.discogs.com/release/12811795-Kate-Bush-Remastered-In-Vinyl-II) |

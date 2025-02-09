@@ -39,21 +39,21 @@ Free All Angels received generally positive reviews from music critics, some of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Walking Barefoot | 4:14 |
-| A2 | Shining Light | 5:11 |
-| A3 | Burn Baby Burn | 3:30 |
-| A4 | Candy | 4:52 |
-| A5 | Cherry Bomb | 3:18 |
-| A6 | Submission | 3:34 |
-| B7 | Someday | 4:34 |
-| B8 | Pacific Palisades | 1:59 |
-| B9 | Shark | 3:20 |
-| B10 | Sometimes | 4:07 |
-| B11 | Nicole | 3:22 |
-| B12 | There's A Star | 4:19 |
-| B13 | World Domination | 2:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Walking Barefoot |
+| A2 | Shining Light |
+| A3 | Burn Baby Burn |
+| A4 | Candy |
+| A5 | Cherry Bomb |
+| A6 | Submission |
+| B7 | Someday |
+| B8 | Pacific Palisades |
+| B9 | Shark |
+| B10 | Sometimes |
+| B11 | Nicole |
+| B12 | There's A Star |
+| B13 | World Domination |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Free All Angels received generally positive reviews from music critics, some of 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Clear With Yellow Splatter) |
 | Label          | BMG |
 | Catalog Number | BMGCAT710CLP |
-| Notes | Housed in a replica gatefold sleeve of original [r=1126204] edition.<br>Tracks are numbered sequentially on sleeve.<br>Sticker reports <br>Pressed On Clear & Yellow Splatter Vinyl (Gatefold)<br>*Each Copy Unique And Individual*<br> |
+| Notes | Housed in a replica gatefold sleeve of original [r=1126204] edition. Tracks are numbered sequentially on sleeve. Sticker reports  Pressed On Clear & Yellow Splatter Vinyl (Gatefold) *Each Copy Unique And Individual*  |
 | Discogs URL    | [Ash - Free All Angels](https://www.discogs.com/release/24515054-Ash-Free-All-Angels) |

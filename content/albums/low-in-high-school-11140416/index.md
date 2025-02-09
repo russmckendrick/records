@@ -40,20 +40,20 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Love, I’d Do Anything For You | 4:43 |
-| A2 | I Wish You Lonely | 2:58 |
-| A3 | Jacky’s Only Happy When She’s Up On The Stage | 4:19 |
-| A4 | Home Is A Question Mark | 3:59 |
-| A5 | Spent The Day In Bed | 3:31 |
-| A6 | I Bury The Living | 7:25 |
-| B1 | In Your Lap | 4:35 |
-| B2 | The Girl From Tel-Aviv Who Wouldn’t Kneel | 4:57 |
-| B3 | All The Young People Must Fall In Love | 3:36 |
-| B4 | When You Open Your Legs | 3:17 |
-| B5 | Who Will Protect Us From The Police? | 4:05 |
-| B6 | Israel | 5:55 |
+| Position | Title |
+|----------|--------|
+| A1 | My Love, I’d Do Anything For You |
+| A2 | I Wish You Lonely |
+| A3 | Jacky’s Only Happy When She’s Up On The Stage |
+| A4 | Home Is A Question Mark |
+| A5 | Spent The Day In Bed |
+| A6 | I Bury The Living |
+| B1 | In Your Lap |
+| B2 | The Girl From Tel-Aviv Who Wouldn’t Kneel |
+| B3 | All The Young People Must Fall In Love |
+| B4 | When You Open Your Legs |
+| B5 | Who Will Protect Us From The Police? |
+| B6 | Israel |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Étienne |
 | Catalog Number | 538337938 |
-| Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print. <br>Sticker on front notes Green Vinyl and Download.<br>Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.<br><br>Transparent green vinyl.<br>Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.<br><br>Includes a green printed cardboard inner sleeve with a die-cut hole to reveal the label on the disc. Credits and thank yous on one side and a photo of Morrissey on the other.<br><br>Includes a credit card sized download voucher, printed on both sides.<br>Hype sticker on the shrink wrap.<br><br>Runouts are etched. |
+| Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.  Includes a green printed cardboard inner sleeve with a die-cut hole to reveal the label on the disc. Credits and thank yous on one side and a photo of Morrissey on the other.  Includes a credit card sized download voucher, printed on both sides. Hype sticker on the shrink wrap.  Runouts are etched. |
 | Discogs URL    | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |

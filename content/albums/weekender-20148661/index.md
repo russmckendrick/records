@@ -32,10 +32,10 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Weekender | 12:54 |
-| B | Weekender (Original Film Soundtrack) | 18:16 |
+| Position | Title |
+|----------|--------|
+| A | Weekender |
+| B | Weekender (Original Film Soundtrack) |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM Limited Edition Reissue Repress (Pink) |
 | Label          | Heavenly |
 | Catalog Number | HVN588 |
-| Notes | Love Record Stores pink vinyl repress.<br><br>℗ 1992 Sony Music Entertainment UK Limited. Licenced courtesy of Sony Music Entertainment UK Limited.<br><br>nb: catalogue number incorrect on the Side A runout. Stamped HNV588-A1 instead of HVN588-A1. |
+| Notes | Love Record Stores pink vinyl repress.  ℗ 1992 Sony Music Entertainment UK Limited. Licenced courtesy of Sony Music Entertainment UK Limited.  nb: catalogue number incorrect on the Side A runout. Stamped HNV588-A1 instead of HVN588-A1. |
 | Discogs URL    | [Flowered Up - Weekender](https://www.discogs.com/release/20148661-Flowered-Up-Weekender) |

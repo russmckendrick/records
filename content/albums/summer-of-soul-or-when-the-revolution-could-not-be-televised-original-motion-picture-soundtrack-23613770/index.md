@@ -39,25 +39,25 @@ styles: ["Soul", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Uptown | 6:07 |
-| A2 | Why I Sing The Blues | 2:20 |
-| A3 | Don't Cha Hear Me Callin' To Ya | 3:32 |
-| A4 | Aquarius / Let The Sunshine In (The Flesh Failures) | 6:52 |
-| B1 | My Girl | 5:49 |
-| B2 | Oh Happy Day | 3:57 |
-| B3 | It's Been A Change | 3:21 |
-| B4 | Precious Lord, Take My Hand | 8:55 |
-| C1 | I Heard It Through The Grapevine | 4:35 |
-| C2 | Watermelon Man | 5:17 |
-| C3 | Together | 4:42 |
-| C4 | Hold On, I'm Comin' | 7:07 |
-| D1 | Sing A Simple Song | 5:29 |
-| D2 | Everyday People | 2:32 |
-| D3 | Africa | 3:15 |
-| D4 | Backlash Blues | 3:08 |
-| D5 | Are You Ready? | 7:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Uptown |
+| A2 | Why I Sing The Blues |
+| A3 | Don't Cha Hear Me Callin' To Ya |
+| A4 | Aquarius / Let The Sunshine In (The Flesh Failures) |
+| B1 | My Girl |
+| B2 | Oh Happy Day |
+| B3 | It's Been A Change |
+| B4 | Precious Lord, Take My Hand |
+| C1 | I Heard It Through The Grapevine |
+| C2 | Watermelon Man |
+| C3 | Together |
+| C4 | Hold On, I'm Comin' |
+| D1 | Sing A Simple Song |
+| D2 | Everyday People |
+| D3 | Africa |
+| D4 | Backlash Blues |
+| D5 | Are You Ready? |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Soul", "Soundtrack"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Legacy |
 | Catalog Number | 19439953321 |
-| Notes | D3 is LP only track, not on CD.<br>A Questlove Jawn.<br><br>Harlem Cultural Festival directed and produced by Hal Tulchin. Tony Lawrence host & MC.<br>Recorded live at the Harlem Cultural Festival June, July and August, 1969 at Mount Morris Park, Harlem, New York City "Soulsville U.S.A."<br><br>Made in the EU. |
+| Notes | D3 is LP only track, not on CD. A Questlove Jawn.  Harlem Cultural Festival directed and produced by Hal Tulchin. Tony Lawrence host & MC. Recorded live at the Harlem Cultural Festival June, July and August, 1969 at Mount Morris Park, Harlem, New York City "Soulsville U.S.A."  Made in the EU. |
 | Discogs URL    | [Various - Summer Of Soul (...Or, When The Revolution Could Not Be Televised) (Original Motion Picture Soundtrack)](https://www.discogs.com/release/23613770-Various-Summer-Of-Soul-Or-When-The-Revolution-Could-Not-Be-Televised-Original-Motion-Picture-Soundtr) |

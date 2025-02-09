@@ -29,18 +29,18 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Drives Me Crazy |  |
-| A2 | Good Thing |  |
-| A3 | I'm Not The Man I Used To Be |  |
-| A4 | I'm Not Satisfied |  |
-| A5 | Tell Me What |  |
-| B1 | Don't Look Back |  |
-| B2 | It's OK (It's Alright) |  |
-| B3 | Don't Let It Get You Down |  |
-| B4 | As Hard As It Is |  |
-| B5 | Ever Fallen In Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | She Drives Me Crazy |
+| A2 | Good Thing |
+| A3 | I'm Not The Man I Used To Be |
+| A4 | I'm Not Satisfied |
+| A5 | Tell Me What |
+| B1 | Don't Look Back |
+| B2 | It's OK (It's Alright) |
+| B3 | Don't Let It Get You Down |
+| B4 | As Hard As It Is |
+| B5 | Ever Fallen In Love |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 069. 1 |
-| Notes | © 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited.<br>A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd.<br>A2, A5 & B4 ℗ 1987 Touchstone Pictures<br>B5 ℗ 1987 FFRR Records Ltd.<br><br>Publishers:<br>A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd.<br>A2, A5 & B4 - Campbell Connelly<br>Issued in a single sleeve and with a printed inner sleeve.<br><br>All runout data is stamped. |
+| Notes | © 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped. |
 | Discogs URL    | [Fine Young Cannibals - The Raw & The Cooked](https://www.discogs.com/release/251670-Fine-Young-Cannibals-The-Raw-The-Cooked) |

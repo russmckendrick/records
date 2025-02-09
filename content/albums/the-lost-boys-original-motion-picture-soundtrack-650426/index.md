@@ -27,18 +27,18 @@ styles: ["Soundtrack", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Times | 3:49 |
-| A2 | Lost In The Shadows (Lost Boys) | 6:35 |
-| A3 | Don't Let The Sun Go Down On Me | 6:09 |
-| A4 | Laying Down The Law | 4:24 |
-| B1 | People Are Strange | 3:36 |
-| B2 | Cry Little Sister (Theme From The Lost Boys) | 4:44 |
-| B3 | Power Play | 3:57 |
-| B4 | I Still Believe | 3:42 |
-| B5 | Beauty Has Her Way | 3:56 |
-| B6 | To The Shock Of Miss Louise | 1:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Good Times |
+| A2 | Lost In The Shadows (Lost Boys) |
+| A3 | Don't Let The Sun Go Down On Me |
+| A4 | Laying Down The Law |
+| B1 | People Are Strange |
+| B2 | Cry Little Sister (Theme From The Lost Boys) |
+| B3 | Power Play |
+| B4 | I Still Believe |
+| B5 | Beauty Has Her Way |
+| B6 | To The Shock Of Miss Louise |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Soundtrack", "Pop Rock"]
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Atlantic |
 | Catalog Number | 781 767-1 |
-| Notes | Labels:<br>℗ + © 1987 Atlantic Recording Corporation for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Made in Germany by WEA Musik GmbH.<br><br>Sleeve:<br>This compilation ℗ 1987 Atlantic Recording Cooperation for the United States and WEA International Inc. for the world outside the United States.<br>© 1987 Warner Bros. Inc.<br>Mastered at Atlantic Studios, NYC.<br>Manufactured in Germany by Record Services GmbH, Alsdorf.<br><br>This Issue: no publishing notes on labels<br>Another european issue: with publishing notes on labels [r18850189] |
+| Notes | Labels: ℗ + © 1987 Atlantic Recording Corporation for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH.  Sleeve: This compilation ℗ 1987 Atlantic Recording Cooperation for the United States and WEA International Inc. for the world outside the United States. © 1987 Warner Bros. Inc. Mastered at Atlantic Studios, NYC. Manufactured in Germany by Record Services GmbH, Alsdorf.  This Issue: no publishing notes on labels Another european issue: with publishing notes on labels [r18850189] |
 | Discogs URL    | [Various - The Lost Boys (Original Motion Picture Soundtrack)](https://www.discogs.com/release/650426-Various-The-Lost-Boys-Original-Motion-Picture-Soundtrack) |

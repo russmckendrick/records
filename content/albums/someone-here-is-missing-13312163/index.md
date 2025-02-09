@@ -33,17 +33,17 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nothing At Best | 4:08 |
-| A2 | Wake Up The Dead | 4:23 |
-| A3 | The State We're In | 3:18 |
-| A4 | Preparation For Meltdown | 7:27 |
-| A5 | Barely Breathing | 3:44 |
-| B1 | Show A Little Love | 3:58 |
-| B2 | Someone Here Is Missing | 3:52 |
-| B3 | 3000 Days | 6:09 |
-| B4 | So We Row | 8:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Nothing At Best |
+| A2 | Wake Up The Dead |
+| A3 | The State We're In |
+| A4 | Preparation For Meltdown |
+| A5 | Barely Breathing |
+| B1 | Show A Little Love |
+| B2 | Someone Here Is Missing |
+| B3 | 3000 Days |
+| B4 | So We Row |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 | Format         | Vinyl LP Album Remastered Repress |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1028 |
-| Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...].<br>Mixed by [...] and [...] @ [...], Yeovil.<br>Remastered in 2018 by [...]. |
+| Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...]. Mixed by [...] and [...] @ [...], Yeovil. Remastered in 2018 by [...]. |
 | Discogs URL    | [The Pineapple Thief - Someone Here Is Missing](https://www.discogs.com/release/13312163-The-Pineapple-Thief-Someone-Here-Is-Missing) |

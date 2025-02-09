@@ -41,17 +41,17 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | For You (Intro) | 4:00 |
-| A2 | Your Sweet Six Six Six | 4:12 |
-| A3 | Wicked Game | 3:54 |
-| A4 | The Heartless | 4:03 |
-| A5 | Our Diabolikal Rapture | 5:21 |
-| B1 | It's All Tears (Drown in This Love) | 3:44 |
-| B2 | When Love And Death Embrace | 6:08 |
-| B3 | The Beginning Of The End | 4:07 |
-| B4 | (Don't Fear) The Reaper | 6:30 |
+| Position | Title |
+|----------|--------|
+| A1 | For You (Intro) |
+| A2 | Your Sweet Six Six Six |
+| A3 | Wicked Game |
+| A4 | The Heartless |
+| A5 | Our Diabolikal Rapture |
+| B1 | It's All Tears (Drown in This Love) |
+| B2 | When Love And Death Embrace |
+| B3 | The Beginning Of The End |
+| B4 | (Don't Fear) The Reaper |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 | Format         | Vinyl LP Album Reissue |
 | Label          | RCA |
 | Catalog Number | 19439982221 |
-| Notes | 25th anniversary re-Issue, released on standard black vinyl in a gatefold cover.<br><br>Lyrics and credits are printed to the inside of the gatefold. |
+| Notes | 25th anniversary re-Issue, released on standard black vinyl in a gatefold cover.  Lyrics and credits are printed to the inside of the gatefold. |
 | Discogs URL    | [HIM - Greatest Lovesongs Vol. 666](https://www.discogs.com/release/25047838-HIM-2-Greatest-Lovesongs-Vol-666) |

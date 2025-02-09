@@ -35,18 +35,18 @@ Along with his brother, Finn was appointed Officer of the Order of British Empir
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Young Mountain | 4:20 |
-| A2 | Not Even Close | 4:18 |
-| A3 | How'm I Gonna Sleep | 3:54 |
-| A4 | Parihaka | 4:18 |
-| A5 | Tears Inside | 4:03 |
-| B1 | Birds Swim Fish Fly | 3:24 |
-| B2 | Suicide On Downing St. | 3:31 |
-| B3 | Show A Little Mercy | 4:00 |
-| B4 | Crescendo | 4:17 |
-| B5 | Been There Done That | 4:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Young Mountain |
+| A2 | Not Even Close |
+| A3 | How'm I Gonna Sleep |
+| A4 | Parihaka |
+| A5 | Tears Inside |
+| B1 | Birds Swim Fish Fly |
+| B2 | Suicide On Downing St. |
+| B3 | Show A Little Mercy |
+| B4 | Crescendo |
+| B5 | Been There Done That |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Along with his brother, Finn was appointed Officer of the Order of British Empir
 | Format         | Vinyl LP Album (Allied Pressing) |
 | Label          | Capitol Records |
 | Catalog Number | C1-48735 |
-| Notes | [l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.<br><br>(P) (C) 1989 Capitol Records, Inc.<br><br>Includes printed inner sleeve with lyrics.<br><br>Recorded at Sunset Sound Factory. |
+| Notes | [l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.  (P) (C) 1989 Capitol Records, Inc.  Includes printed inner sleeve with lyrics.  Recorded at Sunset Sound Factory. |
 | Discogs URL    | [Tim Finn - Tim Finn](https://www.discogs.com/release/1855525-Tim-Finn-Tim-Finn) |

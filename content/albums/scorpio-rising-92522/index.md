@@ -45,18 +45,18 @@ Several songs on the album have appeared in television advertisements and on fil
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leather |  |
-| A2 | Girls |  |
-| A3 | Hands Around My Throat |  |
-| B1 | 23 Lies |  |
-| B2 | Scorpio Rising |  |
-| B3 | Killing Smile |  |
-| C1 | Natja |  |
-| C2 | So You Say You Lost Your Baby |  |
-| C3 | Diving Horses |  |
-| D | Help Yourself |  |
+| Position | Title |
+|----------|--------|
+| A1 | Leather |
+| A2 | Girls |
+| A3 | Hands Around My Throat |
+| B1 | 23 Lies |
+| B2 | Scorpio Rising |
+| B3 | Killing Smile |
+| C1 | Natja |
+| C2 | So You Say You Lost Your Baby |
+| C3 | Diving Horses |
+| D | Help Yourself |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Several songs on the album have appeared in television advertisements and on fil
 | Format         | Vinyl 2× LP Album |
 | Label          | Concrete |
 | Catalog Number | HARD5312 |
-| Notes | Gatefold picture sleeve.<br><br>Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.<br><br>℗&© 2002 BMG UK & Ireland Ltd. <br>All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd. <br><br>Made in the EU. |
+| Notes | Gatefold picture sleeve.  Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.  ℗&© 2002 BMG UK & Ireland Ltd.  All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd.   Made in the EU. |
 | Discogs URL    | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/92522-Death-In-Vegas-Scorpio-Rising) |

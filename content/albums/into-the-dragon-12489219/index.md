@@ -33,20 +33,20 @@ Into the Dragon is the debut studio album by English musician Bomb the Bass, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Dis Side |  |
-| A1 | Beat Dis (U.S. 7" Mix) | 3:24 |
-| A2 | Megablast Rap (Version) | 6:15 |
-| A3 | On The Cut | 3:30 |
-| A4 | Don't Make Me Wait (7" Mix) | 3:44 |
-| A5 | Dynamite Beats | 1:22 |
-|  | Dat Side |  |
-| B1 | Megablast (Hip Hop On Precinct 13) (7" Mix) | 3:40 |
-| B2 | Hey You! | 3:00 |
-| B3 | Shake It | 4:30 |
-| B4 | Say A Little Prayer | 4:30 |
-| B5 | Beat Dat (Freestyle Scratch Mix) | 2:40 |
+| Position | Title |
+|----------|--------|
+|  | Dis Side |
+| A1 | Beat Dis (U.S. 7" Mix) |
+| A2 | Megablast Rap (Version) |
+| A3 | On The Cut |
+| A4 | Don't Make Me Wait (7" Mix) |
+| A5 | Dynamite Beats |
+|  | Dat Side |
+| B1 | Megablast (Hip Hop On Precinct 13) (7" Mix) |
+| B2 | Hey You! |
+| B3 | Shake It |
+| B4 | Say A Little Prayer |
+| B5 | Beat Dat (Freestyle Scratch Mix) |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Into the Dragon is the debut studio album by English musician Bomb the Bass, rel
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2172 |
-| Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.<br><br>Made in the EU. |
+| Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU. |
 | Discogs URL    | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |

@@ -39,18 +39,18 @@ styles: ["Synth-pop", "New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Living On The Ceiling |  |
-| A2 | Waves |  |
-| A3 | Blind Vision |  |
-| A4 | Don't Tell Me |  |
-| A5 | The Day Before You Came |  |
-| B1 | What's The Time? |  |
-| B2 | Distant Storm |  |
-| B3 | Mindset |  |
-| B4 | Reduced Voltage |  |
-| B5 | Some Times These |  |
+| Position | Title |
+|----------|--------|
+| A1 | Living On The Ceiling |
+| A2 | Waves |
+| A3 | Blind Vision |
+| A4 | Don't Tell Me |
+| A5 | The Day Before You Came |
+| B1 | What's The Time? |
+| B2 | Distant Storm |
+| B3 | Mindset |
+| B4 | Reduced Voltage |
+| B5 | Some Times These |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Synth-pop", "New Wave"]
 | Format         | Vinyl LP Album Compilation Limited Edition (Coke Bottle Green Transparent) |
 | Label          | London Records |
 | Catalog Number | LMS1725115 |
-| Notes | Truncated 10 track vinyl version of the companion 2XCD which contains 38 tracks [r30631420].<br><br>℗ & © 2024 London Records Ltd.<br>Manufactured in France.<br><br>Title of A1 is printed upside down on cover. Initial copies ordered from the band's official website included a 12"x12" colour print signed by Neil Arthur. |
+| Notes | Truncated 10 track vinyl version of the companion 2XCD which contains 38 tracks [r30631420].  ℗ & © 2024 London Records Ltd. Manufactured in France.  Title of A1 is printed upside down on cover. Initial copies ordered from the band's official website included a 12"x12" colour print signed by Neil Arthur. |
 | Discogs URL    | [Blancmange - Everything Is Connected (The Best Of Blancmange 1979-2024)](https://www.discogs.com/release/30640249-Blancmange-Everything-Is-Connected-The-Best-Of-Blancmange-1979-2024) |

@@ -37,28 +37,28 @@ Following the screening of INXS: Never Tear Us Apart, an Australian miniseries a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Need You Tonight  |  |
-| A2 | Mystify |  |
-| A3 | Suicide Blonde |  |
-| A4 | Taste It |  |
-| A5 | Original Sin |  |
-| B1 | Heaven Sent |  |
-| B2 | Disappear |  |
-| B3 | Never Tear Us Apart |  |
-| B4 | The Gift |  |
-| B5 | Devil Inside |  |
-| C1 | Beautiful Girl |  |
-| C2 | By My Side |  |
-| C3 | Kiss The Dirt (Falling Down The Mountain) |  |
-| C4 | Elegantly Wasted |  |
-| C5 | New Sensation |  |
-| D1 | What You Need |  |
-| D2 | Listen Like Thieves |  |
-| D3 | Just Keep Walking |  |
-| D4 | Bitter Tears |  |
-| D5 | Baby Don't Cry |  |
+| Position | Title |
+|----------|--------|
+| A1 | Need You Tonight  |
+| A2 | Mystify |
+| A3 | Suicide Blonde |
+| A4 | Taste It |
+| A5 | Original Sin |
+| B1 | Heaven Sent |
+| B2 | Disappear |
+| B3 | Never Tear Us Apart |
+| B4 | The Gift |
+| B5 | Devil Inside |
+| C1 | Beautiful Girl |
+| C2 | By My Side |
+| C3 | Kiss The Dirt (Falling Down The Mountain) |
+| C4 | Elegantly Wasted |
+| C5 | New Sensation |
+| D1 | What You Need |
+| D2 | Listen Like Thieves |
+| D3 | Just Keep Walking |
+| D4 | Bitter Tears |
+| D5 | Baby Don't Cry |
 
 
 ## Apple Music

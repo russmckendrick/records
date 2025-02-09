@@ -33,16 +33,16 @@ I, Assassin is the fourth solo studio album by the English new wave musician Gar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | White Boys And Heroes |  |
-| A2 | War Songs |  |
-| A3 | A Dream Of Siam |  |
-| A4 | Music For Chameleons |  |
-| B1 | This Is My House |  |
-| B2 | I, Assassin |  |
-| B3 | The 1930's Rust |  |
-| B4 | We Take Mystery To Bed |  |
+| Position | Title |
+|----------|--------|
+| A1 | White Boys And Heroes |
+| A2 | War Songs |
+| A3 | A Dream Of Siam |
+| A4 | Music For Chameleons |
+| B1 | This Is My House |
+| B2 | I, Assassin |
+| B3 | The 1930's Rust |
+| B4 | We Take Mystery To Bed |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ I, Assassin is the fourth solo studio album by the English new wave musician Gar
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Green) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 40 |
-| Notes | Pressed on dark green vinyl. Released through the Beggars Banquet "The Arkive" project<br>Restored from the original analogue tapes. |
+| Notes | Pressed on dark green vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes. |
 | Discogs URL    | [Gary Numan - I, Assassin](https://www.discogs.com/release/13281584-Gary-Numan-I-Assassin) |

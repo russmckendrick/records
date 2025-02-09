@@ -29,16 +29,16 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Comes In Waves | 4:48 |
-| A2 | Indica | 6:55 |
-| A3 | Ghost Tones | 2:28 |
-| A4 | Skywalker | 6:22 |
-| B1 | Aubrey Drylands Gladwell | 3:10 |
-| B2 | Cherry Cola | 4:29 |
-| B3 | I Was Alone | 6:45 |
-| B4 | Heat Haze On Weyland Road | 7:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Love Comes In Waves |
+| A2 | Indica |
+| A3 | Ghost Tones |
+| A4 | Skywalker |
+| B1 | Aubrey Drylands Gladwell |
+| B2 | Cherry Cola |
+| B3 | I Was Alone |
+| B4 | Heat Haze On Weyland Road |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 | Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR170LP |
-| Notes | Printed inner sleeve.<br>Barcode is on a sticker on the shrink wrapping.<br><br>250 signed copies were available as 'pre-order' via Recordstore.co.uk<br><br>Includes a download code card.<br><br>(Track durations from playing the album.) |
+| Notes | Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.) |
 | Discogs URL    | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-2-The-View-From-Halfway-Down) |

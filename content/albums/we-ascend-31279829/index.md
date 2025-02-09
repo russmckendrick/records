@@ -28,15 +28,15 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | SIDE A |  |
-| 1 | We Ascend | 5:44 |
-| 2 | Zero Blue (NSS mix) | 3:18 |
-| 3 | Anchor | 3:39 |
-|  | SIDE B |  |
-| 4 | Wide Steppe | 6:16 |
-| 5 | Stowaway | 4:37 |
+| Position | Title |
+|----------|--------|
+|  | SIDE A |
+| 1 | We Ascend |
+| 2 | Zero Blue (NSS mix) |
+| 3 | Anchor |
+|  | SIDE B |
+| 4 | Wide Steppe |
+| 5 | Stowaway |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Stereo |
 | Label          | Kscope |
 | Catalog Number | 1058 |
-| Notes | Hype sticker says:<br><br>The Radicant<br>We Ascend<br>The Debut EP<br>KSCOPE1058<br>kscopemusic.com/theradicant<br><br>Link is wrong though, URL should be https://kscopemusic.com/artists/the-radicant/<br><br>Orders placed in Artist Store were signed by Vincent Cavanagh.  |
+| Notes | Hype sticker says:  The Radicant We Ascend The Debut EP KSCOPE1058 kscopemusic.com/theradicant  Link is wrong though, URL should be https://kscopemusic.com/artists/the-radicant/  Orders placed in Artist Store were signed by Vincent Cavanagh.  |
 | Discogs URL    | [The Radicant - We Ascend](https://www.discogs.com/release/31279829-The-Radicant-We-Ascend) |

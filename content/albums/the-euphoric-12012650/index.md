@@ -24,17 +24,17 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| 1-1 | Truck | 4:06 |
-| 1-2 | 1991 | 4:23 |
-| 1-3 | The Euphoric | 3:57 |
-| 1-4 | Dancing Robots | 3:59 |
-| 1-5 | Dug Town | 4:01 |
-| 2-1 | Cadet Opal | 1:42 |
-| 2-2 | Verbose | 6:07 |
-| 2-3 | 48K | 2:38 |
-|  | Parts 7 & 8 | 6:47 |
+| Position | Title |
+|----------|--------|
+| 1-1 | Truck |
+| 1-2 | 1991 |
+| 1-3 | The Euphoric |
+| 1-4 | Dancing Robots |
+| 1-5 | Dug Town |
+| 2-1 | Cadet Opal |
+| 2-2 | Verbose |
+| 2-3 | 48K |
+|  | Parts 7 & 8 |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Bad Elephant Music |
 | Catalog Number | BEM058 |
-| Notes | The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.<br><br><br>'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.<br><br>The bonus CD and print are both signed and numbered, and in limited editions of 500.  |
+| Notes | The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.   'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.  The bonus CD and print are both signed and numbered, and in limited editions of 500.  |
 | Discogs URL    | [The Fierce  The Dead - The Euphoric](https://www.discogs.com/release/12012650-The-Fierce-The-Dead-The-Euphoric) |

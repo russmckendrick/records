@@ -29,12 +29,12 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spider Island | 5:15 |
-| A2 | New Dark Age | 14:10 |
-| C1 | Echoes Pt.1 | 19:19 |
-| D1 | Echoes Pt.2 | 18:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Spider Island |
+| A2 | New Dark Age |
+| C1 | Echoes Pt.1 |
+| D1 | Echoes Pt.2 |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl 12" Single Sided Etched (Clear), Vinyl 12" (Clear), All Media EP Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 375LP |
-| Notes | Sticker:<br><br>"Ltd to 500 copies worldwide<br>With etched design<br>on side B!"<br><br>"© & ℗ 2015 Season of Mist"<br><br>"This tour EP was recorded in 30 hours at Chapel Studio, Lincolnshire.<br>With parts done at Cavesounds Studio, Stenungsund, Sweden &<br>Wacka Playground (Also in Sweden)."<br><br>"[...]<br>Mastered by Karl Daniel Lidén at Tri-Lamb Studio, Stockholm."<br><br>"Thanks to the following partisans for making this release possible - <br>Mattew Dunn, Fran, Tom and Andy at Chapel Studio, Karl Daniel Lidén, Sergio da Silva, Roger Johannessen, Richie Chappell, Michael Berberian, Todd Greene."<br><br>"(Additional "Bonus" Track Info)<br>[url=http://www.discogs.com/Crippled-Black-Phoenix-Se-Delan-OhEch-oes/master/884112]Echoes[/url] was previously recorded with Se Delan and released on [l40772] (In very limited numbers)<br>Originally written and recorded by Pink Floyd."<br><br>The first catalog number is taken from the spine and from the labels,<br>the second catalog number is taken from the sticker on the wrap. |
+| Notes | Sticker:  "Ltd to 500 copies worldwide With etched design on side B!"  "© & ℗ 2015 Season of Mist"  "This tour EP was recorded in 30 hours at Chapel Studio, Lincolnshire. With parts done at Cavesounds Studio, Stenungsund, Sweden & Wacka Playground (Also in Sweden)."  "[...] Mastered by Karl Daniel Lidén at Tri-Lamb Studio, Stockholm."  "Thanks to the following partisans for making this release possible -  Mattew Dunn, Fran, Tom and Andy at Chapel Studio, Karl Daniel Lidén, Sergio da Silva, Roger Johannessen, Richie Chappell, Michael Berberian, Todd Greene."  "(Additional "Bonus" Track Info) [url=http://www.discogs.com/Crippled-Black-Phoenix-Se-Delan-OhEch-oes/master/884112]Echoes[/url] was previously recorded with Se Delan and released on [l40772] (In very limited numbers) Originally written and recorded by Pink Floyd."  The first catalog number is taken from the spine and from the labels, the second catalog number is taken from the sticker on the wrap. |
 | Discogs URL    | [Crippled Black Phoenix - New Dark Age Tour EP 2015 A.D.](https://www.discogs.com/release/7783721-Crippled-Black-Phoenix-New-Dark-Age-Tour-EP-2015-AD) |

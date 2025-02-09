@@ -29,23 +29,23 @@ styles: ["Krautrock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blackfield | 4:06 |
-| A2 | Family Man | 3:37 |
-| A3 | Open Mind | 3:49 |
-| A4 | 1,000 People | 3:54 |
-| A5 | Oxygen | 3:04 |
-| B1 | Hello | 3:09 |
-| B2 | Once | 4:03 |
-| B3 | How Was Your Ride? | 3:58 |
-| B4 | Waving | 3:56 |
-| B5 | From 44 To 48 | 4:31 |
-| C1 | Pain | 3:47 |
-| C2 | October | 3:31 |
-| C3 | Faking | 3:33 |
-| C4 | Dissolving With The Night | 4:08 |
-| C5 | End Of The World | 5:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Blackfield |
+| A2 | Family Man |
+| A3 | Open Mind |
+| A4 | 1,000 People |
+| A5 | Oxygen |
+| B1 | Hello |
+| B2 | Once |
+| B3 | How Was Your Ride? |
+| B4 | Waving |
+| B5 | From 44 To 48 |
+| C1 | Pain |
+| C2 | October |
+| C3 | Faking |
+| C4 | Dissolving With The Night |
+| C5 | End Of The World |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Krautrock", "Alternative Rock"]
 | Format         | Vinyl LP (Yellow [Sun Yellow]), Vinyl LP Single Sided Etched (Yellow [Sun Yellow]), All Media Compilation Limited Edition |
 | Label          | Kscope |
 | Catalog Number | kscope 1016 |
-| Notes | ℗ & © 2018 Snapper Music Ltd.<br><br>The catalog number kscope 1016 only appears on the sticker on the bag the release comes in. |
+| Notes | ℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in. |
 | Discogs URL    | [Blackfield - Open Mind (The Best Of Blackfield)](https://www.discogs.com/release/12599468-Blackfield-Open-Mind-The-Best-Of-Blackfield) |

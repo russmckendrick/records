@@ -37,31 +37,31 @@ The Singles is a compilation album of singles and B-sides by the German experime
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soul Desert |  |
-| A2 | She Brings The Rain |  |
-| A3 | Spoon |  |
-| A4 | Shikako Maru Ten |  |
-| B1 | Turtles Have Short Legs |  |
-| B2 | Halleluwah (Edit) |  |
-| B3 | Vitamin C |  |
-| B4 | I'm So Green |  |
-| C1 | Mushroom |  |
-| C2 | Moonshake |  |
-| C3 | Future Days (Edit) |  |
-| C4 | Dizzy Dizzy (Edit) |  |
-| D1 | Splash (Edit) |  |
-| D2 | Hunters And Collectors (Edit) |  |
-| D3 | Vernal Equinox (Edit) |  |
-| D4 | I Want More |  |
-| E1 | ...And More |  |
-| E2 | Silent Night |  |
-| E3 | Cascade Waltz |  |
-| F1 | Don't Say No (Edit) |  |
-| F2 | Return |  |
-| F3 | Can Can |  |
-| F4 | Hoolah Hoolah (Edit) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Soul Desert |
+| A2 | She Brings The Rain |
+| A3 | Spoon |
+| A4 | Shikako Maru Ten |
+| B1 | Turtles Have Short Legs |
+| B2 | Halleluwah (Edit) |
+| B3 | Vitamin C |
+| B4 | I'm So Green |
+| C1 | Mushroom |
+| C2 | Moonshake |
+| C3 | Future Days (Edit) |
+| C4 | Dizzy Dizzy (Edit) |
+| D1 | Splash (Edit) |
+| D2 | Hunters And Collectors (Edit) |
+| D3 | Vernal Equinox (Edit) |
+| D4 | I Want More |
+| E1 | ...And More |
+| E2 | Silent Night |
+| E3 | Cascade Waltz |
+| F1 | Don't Say No (Edit) |
+| F2 | Return |
+| F3 | Can Can |
+| F4 | Hoolah Hoolah (Edit) |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The Singles is a compilation album of singles and B-sides by the German experime
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Spoon Records |
 | Catalog Number | SPOON60 |
-| Notes | Issued in tri-fold sleeve with download code.<br><br>Made in the EU.<br><br>This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited<br>for the world outside Germany |
+| Notes | Issued in tri-fold sleeve with download code.  Made in the EU.  This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited for the world outside Germany |
 | Discogs URL    | [Can - The Singles](https://www.discogs.com/release/10434382-Can-The-Singles) |

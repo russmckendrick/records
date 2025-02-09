@@ -43,29 +43,29 @@ styles: ["Lo-Fi", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Under The Western Freeway |  |
-| A1 | Nonphenomenal Lineage  | 3:11 |
-| A2 | A.M. 180 | 3:20 |
-| A3 | Collective Dreamwish Of Upperclass Elegance | 5:26 |
-| A4 | Summer Here Kids | 3:35 |
-| A5 | Laughing Stock | 5:59 |
-| A6 | Under The Western Freeway | 3:01 |
-| B7 | Everything Beautiful Is Far Away | 5:13 |
-| B8 | Poisoned At Hartsy Thai Food | 1:13 |
-| B9 | Go Progress Chrome | 2:31 |
-| B10 | Why Took Your Advice | 4:07 |
-| B11 | Lawn & So On | 9:04 |
-|  | Unreleased 1997 Demos |  |
-| C1 | Hawaiian Island Wranglers | 3:47 |
-| C2 | For The Dishwashers (Slow Demo) | 3:16 |
-| C3 | Dying Brains (Early Demo) | 7:07 |
-| C4 | Summer Here Kids (Early Demo) | 4:44 |
-| D5 | Le Symphonique D'HeeHaw | 4:37 |
-| D6 | Street Bunny (Fluffy Distortion Demo) | 2:52 |
-| D7 | Bjork ELO Xanadu & The Birth Of Chartsengrafs | 8:16 |
-| D8 | Laughing Stock (Revelation Demo) | 6:03 |
+| Position | Title |
+|----------|--------|
+|  | Under The Western Freeway |
+| A1 | Nonphenomenal Lineage  |
+| A2 | A.M. 180 |
+| A3 | Collective Dreamwish Of Upperclass Elegance |
+| A4 | Summer Here Kids |
+| A5 | Laughing Stock |
+| A6 | Under The Western Freeway |
+| B7 | Everything Beautiful Is Far Away |
+| B8 | Poisoned At Hartsy Thai Food |
+| B9 | Go Progress Chrome |
+| B10 | Why Took Your Advice |
+| B11 | Lawn & So On |
+|  | Unreleased 1997 Demos |
+| C1 | Hawaiian Island Wranglers |
+| C2 | For The Dishwashers (Slow Demo) |
+| C3 | Dying Brains (Early Demo) |
+| C4 | Summer Here Kids (Early Demo) |
+| D5 | Le Symphonique D'HeeHaw |
+| D6 | Street Bunny (Fluffy Distortion Demo) |
+| D7 | Bjork ELO Xanadu & The Birth Of Chartsengrafs |
+| D8 | Laughing Stock (Revelation Demo) |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP (Blue) |
 | Label          | Friendship Fever |
 | Catalog Number | FVRLP012 |
-| Notes | Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet.<br>Disc 2 mastered at Wave Parade Studio.<br><br>The first 250 orders got a special bundle [r=11060713].<br><br>Tracklisting ascends numerically regardless of disc side.<br><br>Pressing credit identified in runout stampings. |
+| Notes | Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings. |
 | Discogs URL    | [Grandaddy - Under The Western Freeway 20th Anniversary Edition](https://www.discogs.com/release/11028998-Grandaddy-Under-The-Western-Freeway-20th-Anniversary-Edition) |

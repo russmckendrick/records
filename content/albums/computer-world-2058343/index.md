@@ -42,15 +42,15 @@ The album is themed around computer technology and its rise within society. In k
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Computer World | 5:06 |
-| A2 | Pocket Calculator | 4:57 |
-| A3 | Numbers | 3:20 |
-| A4 | Computer World 2 | 3:25 |
-| B1 | Computer Love | 7:19 |
-| B2 | Homecomputer | 6:21 |
-| B3 | It's More Fun To Compute | 4:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Computer World |
+| A2 | Pocket Calculator |
+| A3 | Numbers |
+| A4 | Computer World 2 |
+| B1 | Computer Love |
+| B2 | Homecomputer |
+| B3 | It's More Fun To Compute |
 
 
 ## Apple Music

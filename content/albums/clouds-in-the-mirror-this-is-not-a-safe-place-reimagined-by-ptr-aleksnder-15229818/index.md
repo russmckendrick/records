@@ -25,20 +25,20 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | R.I.D.E. |  |
-| A2 | Future Love |  |
-| A3 | Repetition |  |
-| A4 | Kill Switch |  |
-| A5 | Clouds Of Saint Marie |  |
-| A6 | Eternal Recurrence |  |
-| B1 | Fifteen Minutes |  |
-| B2 | Jump Jet |  |
-| B3 | Dial Up |  |
-| B4 | End Game |  |
-| B5 | Shadows Behind The Sun |  |
-| B6 | In This Room |  |
+| Position | Title |
+|----------|--------|
+| A1 | R.I.D.E. |
+| A2 | Future Love |
+| A3 | Repetition |
+| A4 | Kill Switch |
+| A5 | Clouds Of Saint Marie |
+| A6 | Eternal Recurrence |
+| B1 | Fifteen Minutes |
+| B2 | Jump Jet |
+| B3 | Dial Up |
+| B4 | End Game |
+| B5 | Shadows Behind The Sun |
+| B6 | In This Room |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Wichita |
 | Catalog Number | WEBB584LP |
-| Notes | With one-sided card stock insert. Download code on sticker attached to inner sleeve.<br><br>On hype sticker:<br><br>Limited edition clear vinyl<br>With full album download<br>'Wichita recordings would like to thank you for buying vinyl' |
+| Notes | With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl' |
 | Discogs URL    | [Ride - Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr Aleksänder)](https://www.discogs.com/release/15229818-Ride-Reimagined-By-Pêtr-Aleksänder-Clouds-In-The-Mirror-This-Is-Not-A-Safe-Place-Reimagined-By-Pê) |

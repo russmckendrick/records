@@ -29,19 +29,19 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magic |  |
-| A2 | Summer |  |
-| A3 | Utopia |  |
-| A4 | The Signal And The Noise |  |
-| B1 | In Dreams |  |
-| B2 | Barrowland Star |  |
-| B3 | Walk Between Worlds |  |
-| B4 | Sense Of Discovery |  |
-| C1 |  Silent Kiss |  |
-| C2 | Angel Underneath My Skin |  |
-| C3 | Dirty Old Town (Live) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Magic |
+| A2 | Summer |
+| A3 | Utopia |
+| A4 | The Signal And The Noise |
+| B1 | In Dreams |
+| B2 | Barrowland Star |
+| B3 | Walk Between Worlds |
+| B4 | Sense Of Discovery |
+| C1 |  Silent Kiss |
+| C2 | Angel Underneath My Skin |
+| C3 | Dirty Old Town (Live) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Deluxe Edition (Fuchsia) |
 | Label          | BMG |
 | Catalog Number | 538349730 |
-| Notes | Made in the EU.<br>Gatefold sleeve.<br><br>Sticker:<br>DELUXE EDITION<br>Double Album<br>Etched Fuschia (Fuchsia) Vinyl<br>Includes 3 x bonus tracks + Free download<br>538349730<br><br>Artist name on cover is in caps, and the letter N is mirrored.<br><br>Catalog number on back cover and on the hype sticker on the protective plastic is 538349730.<br>Catalog number on spine is 4050538349733, which also coincides with the barcode.<br> |
+| Notes | Made in the EU. Gatefold sleeve.  Sticker: DELUXE EDITION Double Album Etched Fuschia (Fuchsia) Vinyl Includes 3 x bonus tracks + Free download 538349730  Artist name on cover is in caps, and the letter N is mirrored.  Catalog number on back cover and on the hype sticker on the protective plastic is 538349730. Catalog number on spine is 4050538349733, which also coincides with the barcode.  |
 | Discogs URL    | [Simple Minds - Walk Between Worlds](https://www.discogs.com/release/11490159-Simpleminds-Walk-Between-Worlds) |

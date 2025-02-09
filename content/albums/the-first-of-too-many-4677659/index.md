@@ -27,23 +27,23 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Everybody's Gone |  |
-| A2 | Best Friend |  |
-| A3 | Ex Teenager |  |
-| A4 | It's Cool To Hang Out With Your Ex |  |
-| A5 | 19 Blue |  |
-| A6 | Should I Feel It |  |
-| A7 | Lip Radio |  |
-| B1 | In Love Again |  |
-| B2 | Got It At The Delmar |  |
-| B3 | American Dad |  |
-| B4 | Radio Spiteful |  |
-| B5 | Chicken |  |
-| B6 | Wrong Number |  |
-| B7 | Different Tongues |  |
-| B8 | Fishing At Tescos |  |
+| Position | Title |
+|----------|--------|
+| A1 | Everybody's Gone |
+| A2 | Best Friend |
+| A3 | Ex Teenager |
+| A4 | It's Cool To Hang Out With Your Ex |
+| A5 | 19 Blue |
+| A6 | Should I Feel It |
+| A7 | Lip Radio |
+| B1 | In Love Again |
+| B2 | Got It At The Delmar |
+| B3 | American Dad |
+| B4 | Radio Spiteful |
+| B5 | Chicken |
+| B6 | Wrong Number |
+| B7 | Different Tongues |
+| B8 | Fishing At Tescos |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Purple) |
 | Label          | Epic |
 | Catalog Number | 469157 0 |
-| Notes | Recorded at the Greenhouse Studios, London - March/April 1991.<br>Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991.<br>Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991.<br>Track B2 mixed at Gooseberry Studios, Brixton - July 1991.<br><br>Runouts are etched. |
+| Notes | Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studios, Brixton - July 1991.  Runouts are etched. |
 | Discogs URL    | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |

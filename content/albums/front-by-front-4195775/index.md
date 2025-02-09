@@ -34,17 +34,17 @@ Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Until Death (Us Do Part) | 4:31 |
-| A2 | Circling Overland | 4:43 |
-| A3 | Im Rhythmus Bleiben | 4:14 |
-| A4 | Felines | 3:33 |
-| B1 | First In / First Out | 3:52 |
-| B2 | Blend The Strengths | 3:12 |
-| B3 | Headhunter V 3.0 | 4:45 |
-| B4 | Work 01 | 3:27 |
-| B5 | Terminal State | 4:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Until Death (Us Do Part) |
+| A2 | Circling Overland |
+| A3 | Im Rhythmus Bleiben |
+| A4 | Felines |
+| B1 | First In / First Out |
+| B2 | Blend The Strengths |
+| B3 | Headhunter V 3.0 |
+| B4 | Work 01 |
+| B5 | Terminal State |
 
 
 ## Apple Music

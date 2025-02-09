@@ -24,12 +24,12 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1st Movement - Invention | 13:21 |
-| A2 | 2nd Movement - Harmony | 13:54 |
-| B1 | 3rd Movement - Division | 15:11 |
-| B2 | 4th Movement - Reconstruction | 11:24 |
+| Position | Title |
+|----------|--------|
+| A1 | 1st Movement - Invention |
+| A2 | 2nd Movement - Harmony |
+| B1 | 3rd Movement - Division |
+| B2 | 4th Movement - Reconstruction |
 
 
 ## Apple Music

@@ -41,19 +41,19 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Takk... |  |
-| A2 | Glósóli |  |
-| A3 | Hoppípolla |  |
-| A4 | Með Blóðnasir |  |
-| B1 | Sé Lest |  |
-| B2 | Sæglópur |  |
-| C1 | Gong |  |
-| C2 | Andvari |  |
-| D1 | Svo Hljótt |  |
-| D2 | Heysátan |  |
-| E | Mílanó |  |
+| Position | Title |
+|----------|--------|
+| A1 | Takk... |
+| A2 | Glósóli |
+| A3 | Hoppípolla |
+| A4 | Með Blóðnasir |
+| B1 | Sé Lest |
+| B2 | Sæglópur |
+| C1 | Gong |
+| C2 | Andvari |
+| D1 | Svo Hljótt |
+| D2 | Heysátan |
+| E | Mílanó |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 | Format         | Vinyl 2× LP (180 g), Vinyl 10" 33 ⅓ RPM Single Sided Etched, All Media Album Deluxe Edition Limited Edition Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK9LP |
-| Notes | 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".<br><br>Sticker on front reads:<br>Sigur Rós<br>"Takk…"<br>Deluxe 180g Vinyl<br>2 x LP<br>&<br>Etched 10"<br><br>Sides are actually numbered 1A, 1B, 2A, 2B, 3A. |
+| Notes | 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A. |
 | Discogs URL    | [Sigur Rós - Takk...](https://www.discogs.com/release/7665804-Sigur-Rós-Takk) |

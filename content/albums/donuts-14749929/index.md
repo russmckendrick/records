@@ -36,39 +36,39 @@ But <I>Donuts</I> was Yancey’s final missive, notwithstanding a flood of posth
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Donuts (Outro) | 0:12 |
-| A2 | Workinonit | 2:57 |
-| A3 | Waves | 1:38 |
-| A4 | Light My Fire | 0:35 |
-| A5 | The New | 0:49 |
-| A6 | Stop | 1:39 |
-| A7 | People | 1:24 |
-| A8 | The Difference | 1:52 |
-| B1 | Mash | 1:31 |
-| B2 | Time: The Donut Of The Heart | 1:38 |
-| B3 | Glazed | 1:21 |
-| B4 | Airworks | 1:44 |
-| B5 | Lightworks | 1:55 |
-| B6 | Stepson Of The Clapper | 1:01 |
-| B7 | The Twister (Huh, What) | 1:16 |
-| C1 | One Eleven | 1:11 |
-| C2 | Two Can Win | 1:47 |
-| C3 | Don't Cry | 1:59 |
-| C4 | Anti-American Graffiti | 1:53 |
-| C5 | Geek Down | 1:19 |
-| C6 | Thunder | 0:54 |
-| C7 | Gobstopper | 1:05 |
-| D1 | One For Ghost | 1:18 |
-| D2 | Dilla Says Go | 1:16 |
-| D3 | Walkinonit | 1:15 |
-| D4 | The Factory | 1:23 |
-| D5 | U-Love | 1:00 |
-| D6 | Hi. | 1:16 |
-| D7 | Bye. | 1:27 |
-| D8 | Last Donut Of The Night | 1:39 |
-| D9 | Welcome To The Show | 1:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Donuts (Outro) |
+| A2 | Workinonit |
+| A3 | Waves |
+| A4 | Light My Fire |
+| A5 | The New |
+| A6 | Stop |
+| A7 | People |
+| A8 | The Difference |
+| B1 | Mash |
+| B2 | Time: The Donut Of The Heart |
+| B3 | Glazed |
+| B4 | Airworks |
+| B5 | Lightworks |
+| B6 | Stepson Of The Clapper |
+| B7 | The Twister (Huh, What) |
+| C1 | One Eleven |
+| C2 | Two Can Win |
+| C3 | Don't Cry |
+| C4 | Anti-American Graffiti |
+| C5 | Geek Down |
+| C6 | Thunder |
+| C7 | Gobstopper |
+| D1 | One For Ghost |
+| D2 | Dilla Says Go |
+| D3 | Walkinonit |
+| D4 | The Factory |
+| D5 | U-Love |
+| D6 | Hi. |
+| D7 | Bye. |
+| D8 | Last Donut Of The Night |
+| D9 | Welcome To The Show |
 
 
 ## Apple Music

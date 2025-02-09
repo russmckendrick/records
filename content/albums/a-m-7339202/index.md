@@ -39,21 +39,21 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Must Be High | 2:59 |
-| A2 | Casino Queen | 2:45 |
-| A3 | Box Full Of Letters | 3:05 |
-| A4 | Shouldn't Be Ashamed | 3:29 |
-| A5 | Pick Up The Change | 2:56 |
-| A6 | I Thought I Held You | 3:49 |
-| A7 | That's Not The Issue | 3:21 |
-| B1 | It's Just That Simple | 3:46 |
-| B2 | Should've Been In Love | 3:36 |
-| B3 | Passenger Side | 3:34 |
-| B4 | Dash 7 | 3:29 |
-| B5 | Blue Eyed Soul | 4:05 |
-| B6 | Too Far Apart | 3:44 |
+| Position | Title |
+|----------|--------|
+| A1 | I Must Be High |
+| A2 | Casino Queen |
+| A3 | Box Full Of Letters |
+| A4 | Shouldn't Be Ashamed |
+| A5 | Pick Up The Change |
+| A6 | I Thought I Held You |
+| A7 | That's Not The Issue |
+| B1 | It's Just That Simple |
+| B2 | Should've Been In Love |
+| B3 | Passenger Side |
+| B4 | Dash 7 |
+| B5 | Blue Eyed Soul |
+| B6 | Too Far Apart |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 | Format         | Vinyl LP Album Club Edition Reissue (Red/Tangerine, 180-gram) |
 | Label          | Nonesuch |
 | Catalog Number | 518084-1 |
-| Notes | 20th anniversary edition issued with gatefold cover; full-colour, one-sided 12"x12" art print; and 4-page, full-size, black & white lyrics/credits/photos insert.<br><br>Recorded at Easley Recording, Memphis, TN<br>Mixed by Richard Dodd at Masterphonics and Emerald Studios, Nashville, TN<br>Mixed by Brian Paulson at Battery Studios, Nashville<br>Radio courtesy of Robert G. Tweedy<br><br>Thanks to Tony Margherita, Bob Andrews, Bob & Jo Tweedy, Sue Miller, $ Bill and Helen Johnston, Stephanie Dominguez, Don & Sue Coomer, Ruth Nichols, Avery Stirratt, Jennifer Allen, Richard Dodd, Paul Heck at Red Hot, Doug Schoemer, Fork's Drum Closet in Nashville, Gravity Strings in St. Louis, Doug and Davis at Easley Recording, Michael Praytor, Daniel Herbst, Jenni George, Frank Riley, Josh Grier, Joe McEwen, Molly Reve-Morrison, Deb Bernardini, Bill Bentley and Peter Standish.<br>Very special thanks to Jay Bennett.<br><br>Nonesuch Records, a Warner Music Group company. <br>℗ 2009 & © 2015 Nonesuch Records for the United States and WEA International Inc. for the world outside of the United States.<br><br>Durations are not printed on the packaging. |
+| Notes | 20th anniversary edition issued with gatefold cover; full-colour, one-sided 12"x12" art print; and 4-page, full-size, black & white lyrics/credits/photos insert.  Recorded at Easley Recording, Memphis, TN Mixed by Richard Dodd at Masterphonics and Emerald Studios, Nashville, TN Mixed by Brian Paulson at Battery Studios, Nashville Radio courtesy of Robert G. Tweedy  Thanks to Tony Margherita, Bob Andrews, Bob & Jo Tweedy, Sue Miller, $ Bill and Helen Johnston, Stephanie Dominguez, Don & Sue Coomer, Ruth Nichols, Avery Stirratt, Jennifer Allen, Richard Dodd, Paul Heck at Red Hot, Doug Schoemer, Fork's Drum Closet in Nashville, Gravity Strings in St. Louis, Doug and Davis at Easley Recording, Michael Praytor, Daniel Herbst, Jenni George, Frank Riley, Josh Grier, Joe McEwen, Molly Reve-Morrison, Deb Bernardini, Bill Bentley and Peter Standish. Very special thanks to Jay Bennett.  Nonesuch Records, a Warner Music Group company.  ℗ 2009 & © 2015 Nonesuch Records for the United States and WEA International Inc. for the world outside of the United States.  Durations are not printed on the packaging. |
 | Discogs URL    | [Wilco - A.M.](https://www.discogs.com/release/7339202-Wilco-AM) |

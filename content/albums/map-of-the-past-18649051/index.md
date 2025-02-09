@@ -28,32 +28,32 @@ Map of the Past is the fifth studio album by progressive rock band It Bites. It 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Man In The Photograph |  |
-| A2 | Wallflower |  |
-| A3 | Map Of The Past |  |
-| B1 | Clocks |  |
-| B2 | Flag |  |
-| B3 | The Big Machine |  |
-| C1 | Cartoon Graveyard |  |
-| C2 | Send No Flowers |  |
-| D1 | Meadow And The Stream |  |
-| D2 | The Last Escape |  |
-| D3 | Exit Song |  |
-| CD-1 | Man In The Photograph |  |
-| CD-2 | Wallflower |  |
-| CD-3 | Map Of The Past |  |
-| CD-4 | Clocks |  |
-| CD-5 | Flag |  |
-| CD-6 | The Big Machine |  |
-| CD-7 | Cartoon Graveyard |  |
-| CD-8 | Send No Flowers |  |
-| CD-9 | Meadow And The Stream |  |
-| CD-10 | The Last Escape |  |
-| CD-11 | Exit Song |  |
-| CD-12 | Lighthouse | 3:27 |
-| CD-13 | Come On | 5:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Man In The Photograph |
+| A2 | Wallflower |
+| A3 | Map Of The Past |
+| B1 | Clocks |
+| B2 | Flag |
+| B3 | The Big Machine |
+| C1 | Cartoon Graveyard |
+| C2 | Send No Flowers |
+| D1 | Meadow And The Stream |
+| D2 | The Last Escape |
+| D3 | Exit Song |
+| CD-1 | Man In The Photograph |
+| CD-2 | Wallflower |
+| CD-3 | Map Of The Past |
+| CD-4 | Clocks |
+| CD-5 | Flag |
+| CD-6 | The Big Machine |
+| CD-7 | Cartoon Graveyard |
+| CD-8 | Send No Flowers |
+| CD-9 | Meadow And The Stream |
+| CD-10 | The Last Escape |
+| CD-11 | Exit Song |
+| CD-12 | Lighthouse |
+| CD-13 | Come On |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Map of the Past is the fifth studio album by progressive rock band It Bites. It 
 | Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |
-| Notes | Gatefold, black vinyl version..<br><br>Hype sticker:<br>"Gatefold 2LP + CD + LP-Booklet<br>The fifth studio album from <br>IT BITES<br>available on vinyl once again.<br>Newly remastered and <br>featuring expanded liner notes <br>on the making of the album."<br><br>℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.<br><br>Tracks CD-12 and CD-13 are bonus tracks. |
+| Notes | Gatefold, black vinyl version..  Hype sticker: "Gatefold 2LP + CD + LP-Booklet The fifth studio album from  IT BITES available on vinyl once again. Newly remastered and  featuring expanded liner notes  on the making of the album."  ℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.  Tracks CD-12 and CD-13 are bonus tracks. |
 | Discogs URL    | [It Bites - Map Of The Past](https://www.discogs.com/release/18649051-It-Bites-Map-Of-The-Past) |

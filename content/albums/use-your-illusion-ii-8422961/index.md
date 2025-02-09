@@ -39,22 +39,22 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Civil War | 7:42 |
-| A2 | 14 Years | 4:21 |
-| A3 | Yesterdays | 3:16 |
-| A4 | Knockin' On Heaven's Door | 5:36 |
-| B1 | Get In The Ring | 5:41 |
-| B2 | Shotgun Blues | 3:23 |
-| B3 | Breakdown | 7:04 |
-| C1 | Pretty Tied Up | 4:47 |
-| C2 | Locomotive | 8:42 |
-| C3 | So Fine | 4:06 |
-| D1 | Estranged | 9:23 |
-| D2 | You Could Be Mine | 5:43 |
-| D3 | Don't Cry (Alt. Lyrics) | 4:44 |
-| D4 | My World | 1:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Civil War |
+| A2 | 14 Years |
+| A3 | Yesterdays |
+| A4 | Knockin' On Heaven's Door |
+| B1 | Get In The Ring |
+| B2 | Shotgun Blues |
+| B3 | Breakdown |
+| C1 | Pretty Tied Up |
+| C2 | Locomotive |
+| C3 | So Fine |
+| D1 | Estranged |
+| D2 | You Could Be Mine |
+| D3 | Don't Cry (Alt. Lyrics) |
+| D4 | My World |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 0720642442012 |
-| Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].<br><br>2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |
+| Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |
 | Discogs URL    | [Guns N Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |

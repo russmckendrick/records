@@ -40,17 +40,17 @@ Second Nature is the second studio album by the American supergroup Flying Color
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Open Up Your Eyes | 12:24 |
-| A2 | Mask Machine | 6:06 |
-| B1 | Bombs Away | 5:03 |
-| B2 | The Fury Of My Love | 5:10 |
-| B3 | A Place In Your World | 6:25 |
-| C1 | Lost Without You | 4:46 |
-| C2 | One Love Forever | 7:17 |
-| C3 | Peaceful Harbor | 7:01 |
-|  | Cosmic Symphony | 11:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Open Up Your Eyes |
+| A2 | Mask Machine |
+| B1 | Bombs Away |
+| B2 | The Fury Of My Love |
+| B3 | A Place In Your World |
+| C1 | Lost Without You |
+| C2 | One Love Forever |
+| C3 | Peaceful Harbor |
+|  | Cosmic Symphony |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Second Nature is the second studio album by the American supergroup Flying Color
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR 7443 1 |
-| Notes | Includes a download card. Each pre-order will include a free bonus DVD, [r6141400] with behind the scenes footage, interviews and more, a poster and we will send you MP3s of 2 bonus songs that are not available on the album. <br><br>Made in the EU |
+| Notes | Includes a download card. Each pre-order will include a free bonus DVD, [r6141400] with behind the scenes footage, interviews and more, a poster and we will send you MP3s of 2 bonus songs that are not available on the album.     Made in the EU |
 | Discogs URL    | [Flying Colors - Second Nature](https://www.discogs.com/release/6126197-Flying-Colors-Second-Nature) |

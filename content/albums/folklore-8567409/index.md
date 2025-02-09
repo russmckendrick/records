@@ -38,19 +38,19 @@ The album was released in multiple formats: standard and High Res downloads, as 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Folklore | 7:30 |
-| A2 | Along The Ridgeway | 6:06 |
-| A3 | Salisbury Giant | 3:37 |
-| B1 | London Plane | 10:10 |
-| B2 | Mudlarks | 6:12 |
-| B3 | Lost Rivers Of London | 6:02 |
-| C1 | The Transit Of Venus Across The Sun | 7:18 |
-| C2 | Wassail | 6:47 |
-| C3 | Winkie | 8:26 |
-| D1 | Brooklands | 12:39 |
-| D2 | Telling The Bees | 6:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Folklore |
+| A2 | Along The Ridgeway |
+| A3 | Salisbury Giant |
+| B1 | London Plane |
+| B2 | Mudlarks |
+| B3 | Lost Rivers Of London |
+| C1 | The Transit Of Venus Across The Sun |
+| C2 | Wassail |
+| C3 | Winkie |
+| D1 | Brooklands |
+| D2 | Telling The Bees |
 
 
 ## Apple Music

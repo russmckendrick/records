@@ -32,18 +32,18 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pressure Down | 3:45 |
-| A2 | You're The Voice | 4:58 |
-| A3 | One Step Away | 3:35 |
-| A4 | Reasons | 4:23 |
-| A5 | Going, Going, Gone | 3:31 |
-| B1 | No One Comes Close | 4:06 |
-| B2 | Love To Shine | 3:59 |
-| B3 | Trouble | 3:25 |
-| B4 | A Touch Of Paradise | 4:45 |
-| B5 | Let Me Out | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Pressure Down |
+| A2 | You're The Voice |
+| A3 | One Step Away |
+| A4 | Reasons |
+| A5 | Going, Going, Gone |
+| B1 | No One Comes Close |
+| B2 | Love To Shine |
+| B3 | Trouble |
+| B4 | A Touch Of Paradise |
+| B5 | Let Me Out |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 | Format         | Vinyl LP Album Stereo (boxed BIEM GEMA) |
 | Label          | RCA |
 | Catalog Number | PL71224 |
-| Notes | This release has a different layout on the center label as the [r=1152744] already in the database.<br><br>Printed in Germany<br><br>Ⓟ 1986 Wheatley Records, Pty. Ltd.<br><br>Printed inner sleeve with lyrics and credits. |
+| Notes | This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Printed inner sleeve with lyrics and credits. |
 | Discogs URL    | [John Farnham - Whispering Jack](https://www.discogs.com/release/1161865-John-Farnham-Whispering-Jack) |

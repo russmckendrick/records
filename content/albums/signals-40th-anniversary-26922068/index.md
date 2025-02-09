@@ -51,42 +51,42 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Subdivisions | 5:34 |
-| A2 | The Analog Kid | 4:47 |
-| A3 | Chemistry | 4:59 |
-| A4 | Digital Man | 6:23 |
-| B1 | The Weapon | 6:27 |
-| B2 | New World Man | 3:44 |
-| B3 | Losing It | 4:53 |
-| B4 | Countdown | 5:48 |
-| C | Subdivisions |  |
-| D | Red Barchetta (Live) |  |
-| E | Countdown |  |
-| F | New World Man |  |
-| G | New World Man |  |
-| H | Vital Signs (Live) |  |
-| I | The Weapon (Single Edit) |  |
-| J | Digital Man |  |
-| CD-1 | Subdivisions | 5:34 |
-| CD-2 | The Analog Kid | 4:46 |
-| CD-3 | Chemistry | 4:54 |
-| CD-4 | Digital Man | 6:20 |
-| CD-5 | The Weapon | 6:26 |
-| CD-6 | New World Man | 3:46 |
-| CD-7 | Losing It | 4:51 |
-| CD-8 | Countdown | 5:51 |
-| BD-1 | Subdivisions |  |
-| BD-2 | The Analog Kid |  |
-| BD-3 | Chemistry |  |
-| BD-4 | Digital Man |  |
-| BD-5 | The Weapon |  |
-| BD-6 | New World Man |  |
-| BD-7 | Losing It |  |
-| BD-8 | Countdown |  |
-| BD-9 | Subdivisions |  |
-| BD-10 | Countdown |  |
+| Position | Title |
+|----------|--------|
+| A1 | Subdivisions |
+| A2 | The Analog Kid |
+| A3 | Chemistry |
+| A4 | Digital Man |
+| B1 | The Weapon |
+| B2 | New World Man |
+| B3 | Losing It |
+| B4 | Countdown |
+| C | Subdivisions |
+| D | Red Barchetta (Live) |
+| E | Countdown |
+| F | New World Man |
+| G | New World Man |
+| H | Vital Signs (Live) |
+| I | The Weapon (Single Edit) |
+| J | Digital Man |
+| CD-1 | Subdivisions |
+| CD-2 | The Analog Kid |
+| CD-3 | Chemistry |
+| CD-4 | Digital Man |
+| CD-5 | The Weapon |
+| CD-6 | New World Man |
+| CD-7 | Losing It |
+| CD-8 | Countdown |
+| BD-1 | Subdivisions |
+| BD-2 | The Analog Kid |
+| BD-3 | Chemistry |
+| BD-4 | Digital Man |
+| BD-5 | The Weapon |
+| BD-6 | New World Man |
+| BD-7 | Losing It |
+| BD-8 | Countdown |
+| BD-9 | Subdivisions |
+| BD-10 | Countdown |
 
 
 ## Apple Music
@@ -103,5 +103,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 4× 7" Single, CD Album Reissue Remastered, Blu-ray Blu-ray Audio Album Stereo Multichannel, Box Set Deluxe Edition Limited Edition (40th Anniversary) |
 | Label          | Mercury |
 | Catalog Number | B0036560-00 |
-| Notes | Box contains:<br>- Signals - Half-Speed DMM Vinyl<br>- Signals - CD 2015 Remaster<br>- Four 7 inches -  Featuring Brand-New Hugh Syme Art<br>- Signals - BluRay Audio / Dolby Atmos / Dolby TrueHD 5.1 / PCM Stereo<br>- 40 Page Hardcover Book With Brand-New Hugh Syme Artwork And Unreleased Photos<br>- Geddy Lee, Alex Lifeson, Neil Peart - Digital Man Lenticulars<br>- Double-Sided 24"x24" Poster<br>- Hugh Syme Album Cover Sketch Litho<br>- 4 Band Photo Prints<br><br>Box front side (on shrink): Hype sticker, 'FSK' sticker <br>Box back side (on shrink): 'MADE IN CZECH REPUBLIC' sticker<br><br>On the record labels of the four singles the sides are denoted by using the letters of the Semaphore alphabet.<br> |
+| Notes | Box contains: - Signals - Half-Speed DMM Vinyl - Signals - CD 2015 Remaster - Four 7 inches -  Featuring Brand-New Hugh Syme Art - Signals - BluRay Audio / Dolby Atmos / Dolby TrueHD 5.1 / PCM Stereo - 40 Page Hardcover Book With Brand-New Hugh Syme Artwork And Unreleased Photos - Geddy Lee, Alex Lifeson, Neil Peart - Digital Man Lenticulars - Double-Sided 24"x24" Poster - Hugh Syme Album Cover Sketch Litho - 4 Band Photo Prints  Box front side (on shrink): Hype sticker, 'FSK' sticker  Box back side (on shrink): 'MADE IN CZECH REPUBLIC' sticker  On the record labels of the four singles the sides are denoted by using the letters of the Semaphore alphabet.  |
 | Discogs URL    | [Rush - Signals (40th Anniversary)](https://www.discogs.com/release/26922068-Rush-Signals-40th-Anniversary) |

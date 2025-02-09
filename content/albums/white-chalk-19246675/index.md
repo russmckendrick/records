@@ -32,19 +32,19 @@ styles: ["Indie Rock", "Ethereal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Devil |  |
-| A2 | Dear Darkness |  |
-| A3 | Grow Grow Grow |  |
-| A4 | When Under Ether |  |
-| A5 | White Chalk |  |
-| B1 | Broken Harp |  |
-| B2 | Silence |  |
-| B3 | To Talk To You |  |
-| B4 | The Piano |  |
-| B5 | Before Departure |  |
-| B6 | The Mountain |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Devil |
+| A2 | Dear Darkness |
+| A3 | Grow Grow Grow |
+| A4 | When Under Ether |
+| A5 | White Chalk |
+| B1 | Broken Harp |
+| B2 | Silence |
+| B3 | To Talk To You |
+| B4 | The Piano |
+| B5 | Before Departure |
+| B6 | The Mountain |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Indie Rock", "Ethereal"]
 | Format         | Vinyl LP 45 RPM Album Reissue (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0725347 |
-| Notes | Includes a printed inner sleeve.<br><br>Hype sticker:<br>Reissue of the original 2007 album White Chalk featuring the singles When Under Ether, The Piano and The Devil<br>Pressed on 180GSM Vinyl<br>Includes Download Card<br><br>Some copies sold without hype sticker and download card.<br><br>An Island Records Release ℗2007 Universal Music Operations Ltd. ©2007 Universal Music Operations Ltd.<br>The copyright in this sound recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.<br><br>Hot Head Music (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) |
+| Notes | Includes a printed inner sleeve.  Hype sticker: Reissue of the original 2007 album White Chalk featuring the singles When Under Ether, The Piano and The Devil Pressed on 180GSM Vinyl Includes Download Card  Some copies sold without hype sticker and download card.  An Island Records Release ℗2007 Universal Music Operations Ltd. ©2007 Universal Music Operations Ltd. The copyright in this sound recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Hot Head Music (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) |
 | Discogs URL    | [PJ Harvey - White Chalk](https://www.discogs.com/release/19246675-P-J-Harvey-White-Chalk) |

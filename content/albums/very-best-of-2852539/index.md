@@ -38,26 +38,26 @@ Very Best of Morrissey is a compilation album by Morrissey, containing material 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Last Of The Famous International Playboys |  |
-| A2 | You're Gonna Need Someone On Your Side |  |
-| A3 | The More You Ignore Me, The Closer I Get |  |
-| A4 | Glamorous Glue |  |
-| A5 | Girl Least Likely To |  |
-| B1 | Suedehead |  |
-| B2 | Tomorrow |  |
-| B3 | Boxers |  |
-| B4 | My Love Life |  |
-| C1 | Break Up The Family |  |
-| C2 | I've Changed My Plea To Guilty |  |
-| C3 | Such A Little Thing Makes Such A Big Difference |  |
-| C4 | Ouija Board, Ouija Board |  |
-| C5 | Interesting Drug |  |
-| D1 | November Spawned A Monster |  |
-| D2 | Everyday Is Like Sunday |  |
-| D3 | Interlude |  |
-| D4 | Moonriver |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Last Of The Famous International Playboys |
+| A2 | You're Gonna Need Someone On Your Side |
+| A3 | The More You Ignore Me, The Closer I Get |
+| A4 | Glamorous Glue |
+| A5 | Girl Least Likely To |
+| B1 | Suedehead |
+| B2 | Tomorrow |
+| B3 | Boxers |
+| B4 | My Love Life |
+| C1 | Break Up The Family |
+| C2 | I've Changed My Plea To Guilty |
+| C3 | Such A Little Thing Makes Such A Big Difference |
+| C4 | Ouija Board, Ouija Board |
+| C5 | Interesting Drug |
+| D1 | November Spawned A Monster |
+| D2 | Everyday Is Like Sunday |
+| D3 | Interlude |
+| D4 | Moonriver |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Very Best of Morrissey is a compilation album by Morrissey, containing material 
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Major Minor |
 | Catalog Number | SMLP71 |
-| Notes | Digitally Remastered | File Under Popular<br><br>This version of Interlude is previously unreleased.<br><br>Very similar to the 2016 reissue ([r=10082664]) in which the copyrights are not owned by EMI Records Ltd. but by Parlophone Records Ltd.<br><br>Songwriter credits are listed on inner-sleeves with tracks 1 to 19, whereas the producers are listed with side and track number for each side. Credit is given for "Gatefold Photographer" but this 2 LP-set comes in a single pocket wide-spine sleeve with inner sleeves.<br>The inner sleeves configure to make one image.<br><br>Runouts:<br>'BB30418-01 A/B/C/D1 MK' stamped, remainder etched<br><br>Some copies included a hype sticker:<br>"180 Gram<br>* Limited Edition Classic LP<br>* High-Definition Premium Virgin Vinyl Pressing for Super Fidelity<br>* The Nicest Thing You Can Do For Your Stylus And Your Ears<br>The Ultimate Record: The Way Music Was Meant To Be Heard And Great Enough For An Audiophile" |
+| Notes | Digitally Remastered | File Under Popular  This version of Interlude is previously unreleased.  Very similar to the 2016 reissue ([r=10082664]) in which the copyrights are not owned by EMI Records Ltd. but by Parlophone Records Ltd.  Songwriter credits are listed on inner-sleeves with tracks 1 to 19, whereas the producers are listed with side and track number for each side. Credit is given for "Gatefold Photographer" but this 2 LP-set comes in a single pocket wide-spine sleeve with inner sleeves. The inner sleeves configure to make one image.  Runouts: 'BB30418-01 A/B/C/D1 MK' stamped, remainder etched  Some copies included a hype sticker: "180 Gram * Limited Edition Classic LP * High-Definition Premium Virgin Vinyl Pressing for Super Fidelity * The Nicest Thing You Can Do For Your Stylus And Your Ears The Ultimate Record: The Way Music Was Meant To Be Heard And Great Enough For An Audiophile" |
 | Discogs URL    | [Morrissey - Very Best Of](https://www.discogs.com/release/2852539-Morrissey-Very-Best-Of) |

@@ -36,18 +36,18 @@ The Underfall Yard is the sixth studio album by the English progressive rock ban
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Evening Star |  |
-| A2 | Master James Of St. George |  |
-| B1 | Victorian Brickwork |  |
-| C1 | Last Train |  |
-| C2 | Winchester Diver |  |
-| D1 | The Underfall Yard |  |
-| E1 | Prelude To The Underfall Yard |  |
-| E2 | The Underfall Yard (2020 Studio Version) |  |
-|  | Songs From The Shoreline |  |
-| F2 | Brew And Burgh |  |
+| Position | Title |
+|----------|--------|
+| A1 | Evening Star |
+| A2 | Master James Of St. George |
+| B1 | Victorian Brickwork |
+| C1 | Last Train |
+| C2 | Winchester Diver |
+| D1 | The Underfall Yard |
+| E1 | Prelude To The Underfall Yard |
+| E2 | The Underfall Yard (2020 Studio Version) |
+|  | Songs From The Shoreline |
+| F2 | Brew And Burgh |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The Underfall Yard is the sixth studio album by the English progressive rock ban
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180 Gram, Remixed) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG091 |
-| Notes | The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals. <br><br>Recording details:<br>Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.<br><br>Packaged in a trifold jacket with polylined LP sleeves. |
+| Notes | The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals.   Recording details: Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.  Packaged in a trifold jacket with polylined LP sleeves. |
 | Discogs URL    | [Big Big Train - The Underfall Yard](https://www.discogs.com/release/18321256-Big-Big-Train-The-Underfall-Yard) |

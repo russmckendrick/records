@@ -34,20 +34,20 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | R.I.D.E. |  |
-| A2 | Future Love |  |
-| A3 | Repetition |  |
-| B1 | Kill Switch |  |
-| B2 | Clouds Of Saint Marie |  |
-| B3 | Eternal Recurrence |  |
-| C1 | Fifteen Minutes |  |
-| C2 | Jump Jet |  |
-| C3 | Dial Up |  |
-| D1 | End Game |  |
-| D2 | Shadows Behind The Sun |  |
-| D3 | In This Room |  |
+| Position | Title |
+|----------|--------|
+| A1 | R.I.D.E. |
+| A2 | Future Love |
+| A3 | Repetition |
+| B1 | Kill Switch |
+| B2 | Clouds Of Saint Marie |
+| B3 | Eternal Recurrence |
+| C1 | Fifteen Minutes |
+| C2 | Jump Jet |
+| C3 | Dial Up |
+| D1 | End Game |
+| D2 | Shadows Behind The Sun |
+| D3 | In This Room |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 | Format         | Vinyl 2× LP Album Limited Edition (Green Translucent, Embossed) |
 | Label          | Wichita |
 | Catalog Number | WEBB570LPC |
-| Notes | Gatefold sleeve. Embossed lettering on cover.<br>Die cut poly lined inner sleeves and single sided square insert of lyrics and credits.<br>Includes full Album download in mp3 and FLAC.<br><br>Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London.<br>Mixed at Assault & Battery, London.<br>Mastered at Metropolis Mastering, London.<br><br>[Publicity]:<br>James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.<br><br>℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd.<br>Released under exclusive license to [PIAS] outside of North America. <br> |
+| Notes | Gatefold sleeve. Embossed lettering on cover. Die cut poly lined inner sleeves and single sided square insert of lyrics and credits. Includes full Album download in mp3 and FLAC.  Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London. Mixed at Assault & Battery, London. Mastered at Metropolis Mastering, London.  [Publicity]: James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.  ℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd. Released under exclusive license to [PIAS] outside of North America.   |
 | Discogs URL    | [Ride - This Is Not A Safe Place](https://www.discogs.com/release/14003030-Ride-This-Is-Not-A-Safe-Place) |

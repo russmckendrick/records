@@ -26,18 +26,18 @@ styles: ["Rhythm & Blues", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Funky Weekend | 3:27 |
-| A2 | Jenny | 3:46 |
-| A3 | That Don't Shake Me | 3:15 |
-| A4 | Na-Na Is The Saddest World | 2:58 |
-| A5 | Michael Or Me | 3:39 |
-| B1 | The Day The Clown Came To Town | 3:02 |
-| B2 | You Are Beautiful | 4:08 |
-| B3 | To Save My Rock 'n' Roll Soul | 3:01 |
-| B4 | If You Are There | 3:21 |
-| B5 | We Just Can't Help It | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Funky Weekend |
+| A2 | Jenny |
+| A3 | That Don't Shake Me |
+| A4 | Na-Na Is The Saddest World |
+| A5 | Michael Or Me |
+| B1 | The Day The Clown Came To Town |
+| B2 | You Are Beautiful |
+| B3 | To Save My Rock 'n' Roll Soul |
+| B4 | If You Are There |
+| B5 | We Just Can't Help It |
 
 
 ## Apple Music

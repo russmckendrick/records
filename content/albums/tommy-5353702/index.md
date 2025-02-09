@@ -41,131 +41,131 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Original Album 2013 Remaster |  |
-| CD1-1 | Overture | 5:20 |
-| CD1-2 | It's A Boy | 0:38 |
-| CD1-3 | 1921 | 2:49 |
-| CD1-4 | Amazing Journey | 5:04 |
-| CD1-5 | Sparks | 2:05 |
-| CD1-6 | The Hawker | 2:13 |
-| CD1-7 | Christmas | 4:34 |
-| CD1-8 | Cousin Kevin | 4:05 |
-| CD1-9 | The Acid Queen | 3:34 |
-| CD1-10 | Underture | 10:01 |
-| CD1-11 | Do You Think It's Alright? | 0:24 |
-| CD1-12 | Fiddle About | 1:29 |
-| CD1-13 | Pinball Wizard | 3:01 |
-| CD1-14 | There's A Doctor | 0:23 |
-| CD1-15 | Go To The Mirror! | 3:47 |
-| CD1-16 | Tommy Can You Hear Me? | 1:35 |
-| CD1-17 | Smash The Mirror | 1:34 |
-| CD1-18 | Sensation | 2:25 |
-| CD1-19 | Miracle Cure | 0:12 |
-| CD1-20 | Sally Simpson | 4:10 |
-| CD1-21 | I'm Free | 2:39 |
-| CD1-22 | Welcome | 4:32 |
-| CD1-23 | Tommy's Holiday Camp | 0:57 |
-| CD1-24 | We're Not Gonna Take It | 7:06 |
-|  | Hi-Fidelity Pure Audio Blu-Ray - The  5.1 Mix  |  |
-| BD-1-1 | Overture | 5:20 |
-| BD-1-2 | It's A Boy | 0:37 |
-| BD-1-3 | 1921 | 2:49 |
-| BD-1-4 | Amazing Journey | 5:05 |
-| BD-1-5 | Sparks | 2:05 |
-| BD-1-6 | The Hawker | 2:14 |
-| BD-1-7 | Christmas | 4:34 |
-| BD-1-8 | Cousin Kevin | 4:07 |
-| BD-1-9 | The Acid Queen | 3:34 |
-| BD-1-10 | Underture | 10:05 |
-| BD-1-11 | Do You Think It's Alright? | 0:25 |
-| BD-1-12 | Fiddle About | 1:31 |
-| BD-1-13 | Pinball Wizard | 3:01 |
-| BD-1-14 | There's A Doctor | 0:24 |
-| BD-1-15 | Go To The Mirror! | 3:48 |
-| BD-1-16 | Tommy Can You Hear Me? | 1:35 |
-| BD-1-17 | Smash The Mirror | 1:33 |
-| BD-1-18 | Sensation | 2:27 |
-| BD-1-19 | Miracle Cure | 0:12 |
-| BD-1-20 | Sally Simpson | 4:11 |
-| BD-1-21 | I'm Free | 2:39 |
-| BD-1-22 | Welcome | 4:32 |
-| BD-1-23 | Tommy's Holiday Camp | 0:57 |
-| BD-1-24 | We're Not Gonna Take It | 7:06 |
-|  | Hi-Fidelity Pure Audio Blu-Ray - 2ch Stereo |  |
-| BD-2-1 | Overture | 5:20 |
-| BD-2-2 | It's A Boy  | 0:37 |
-| BD-2-3 | 1921 | 2:49 |
-| BD-2-4 | Amazing Journey | 5:05 |
-| BD-2-5 | Sparks | 2:05 |
-| BD-2-6 | The Hawker | 2:14 |
-| BD-2-7 | Christmas | 4:34 |
-| BD-2-8 | Cousin Kevin  | 4:07 |
-| BD-2-9 | The Acid Queen  | 3:34 |
-| BD-2-10 | Underture | 10:05 |
-| BD-2-11 | Do You Think It's Alright?  | 0:25 |
-| BD-2-12 | Fiddle About | 1:31 |
-| BD-2-13 | Pinball Wizard | 3:01 |
-| BD-2-14 | There's A Doctor  | 0:24 |
-| BD-2-15 | Go To The Mirror!  | 3:48 |
-| BD-2-16 | Tommy Can You Hear Me?  | 1:35 |
-| BD-2-17 | Smash The Mirror  | 1:33 |
-| BD-2-18 | Sensation | 2:27 |
-| BD-2-19 | Miracle Cure | 0:12 |
-| BD-2-20 | Sally Simpson | 4:11 |
-| BD-2-21 | I'm Free | 2:39 |
-| BD-2-22 | Welcome | 4:32 |
-| BD-2-23 | Tommy's Holiday Camp | 0:57 |
-| BD-2-24 | We're Not Gonna Take It  | 7:06 |
-|  | The Demos And Out-takes |  |
-| CD2-1 | Overture | 4:07 |
-| CD2-2 | It's A Boy  | 0:41 |
-| CD2-3 | 1921 | 3:13 |
-| CD2-4 | Amazing Journey | 4:47 |
-| CD2-5 | Dream One | 3:09 |
-| CD2-6 | Sparks | 7:38 |
-| CD2-7 | The Hawker | 4:45 |
-| CD2-8 | Christmas | 4:42 |
-| CD2-9 | Acid Queen | 3:35 |
-| CD2-10 | Underture (Dream Two) | 1:47 |
-| CD2-11 | Do You Think It's Alright? | 0:26 |
-| CD2-12 | Pinball Wizard | 3:42 |
-| CD2-13 | There's A Doctor | 0:24 |
-| CD2-14 | Go To The Mirror! | 4:32 |
-| CD2-15 | Success | 0:10 |
-| CD2-16 | Tommy Can You Hear Me? | 1:15 |
-| CD2-17 | Smash The Mirror | 1:37 |
-| CD2-18 | Sensation | 2:47 |
-| CD2-19 | Miracle Cure | 0:11 |
-| CD2-20 | Sally Simpson | 4:50 |
-| CD2-21 | I'm Free | 2:27 |
-| CD2-22 | Welcome | 3:26 |
-| CD2-23 | We're Not Gonna Take It | 5:02 |
-| CD2-24 | Trying To Get Through | 2:27 |
-| CD2-25 | Young Man Blues | 2:47 |
-|  | The Live Bootleg Album |  |
-| CD3-1 | Overture | 7:00 |
-| CD3-2 | It's A Boy | 0:39 |
-| CD3-3 | 1921 | 2:28 |
-| CD3-4 | Amazing Journey | 5:07 |
-| CD3-5 | Sparks | 2:49 |
-| CD3-6 | The Hawker | 1:54 |
-| CD3-7 | Christmas | 3:11 |
-| CD3-8 | The Acid Queen | 3:30 |
-| CD3-9 | Pinball Wizard | 2:47 |
-| CD3-10 | Do You Think It's Alright? | 0:21 |
-| CD3-11 | Fiddle About | 1:12 |
-| CD3-12 | Tommy Can You Hear Me? | 0:55 |
-| CD3-13 | There's A Doctor | 0:24 |
-| CD3-14 | Go To The Mirror! | 3:22 |
-| CD3-15 | Smash The Mirror | 1:10 |
-| CD3-16 | Miracle Cure | 0:12 |
-| CD3-17 | Sally Simpson | 4:01 |
-| CD3-18 | I'm Free | 2:12 |
-| CD3-19 | Tommy's Holiday Camp | 0:48 |
-| CD3-20 | We're Not Gonna Take It | 3:38 |
-| CD3-21 | See Me, Feel Me/Listening To You | 7:51 |
+| Position | Title |
+|----------|--------|
+|  | The Original Album 2013 Remaster |
+| CD1-1 | Overture |
+| CD1-2 | It's A Boy |
+| CD1-3 | 1921 |
+| CD1-4 | Amazing Journey |
+| CD1-5 | Sparks |
+| CD1-6 | The Hawker |
+| CD1-7 | Christmas |
+| CD1-8 | Cousin Kevin |
+| CD1-9 | The Acid Queen |
+| CD1-10 | Underture |
+| CD1-11 | Do You Think It's Alright? |
+| CD1-12 | Fiddle About |
+| CD1-13 | Pinball Wizard |
+| CD1-14 | There's A Doctor |
+| CD1-15 | Go To The Mirror! |
+| CD1-16 | Tommy Can You Hear Me? |
+| CD1-17 | Smash The Mirror |
+| CD1-18 | Sensation |
+| CD1-19 | Miracle Cure |
+| CD1-20 | Sally Simpson |
+| CD1-21 | I'm Free |
+| CD1-22 | Welcome |
+| CD1-23 | Tommy's Holiday Camp |
+| CD1-24 | We're Not Gonna Take It |
+|  | Hi-Fidelity Pure Audio Blu-Ray - The  5.1 Mix  |
+| BD-1-1 | Overture |
+| BD-1-2 | It's A Boy |
+| BD-1-3 | 1921 |
+| BD-1-4 | Amazing Journey |
+| BD-1-5 | Sparks |
+| BD-1-6 | The Hawker |
+| BD-1-7 | Christmas |
+| BD-1-8 | Cousin Kevin |
+| BD-1-9 | The Acid Queen |
+| BD-1-10 | Underture |
+| BD-1-11 | Do You Think It's Alright? |
+| BD-1-12 | Fiddle About |
+| BD-1-13 | Pinball Wizard |
+| BD-1-14 | There's A Doctor |
+| BD-1-15 | Go To The Mirror! |
+| BD-1-16 | Tommy Can You Hear Me? |
+| BD-1-17 | Smash The Mirror |
+| BD-1-18 | Sensation |
+| BD-1-19 | Miracle Cure |
+| BD-1-20 | Sally Simpson |
+| BD-1-21 | I'm Free |
+| BD-1-22 | Welcome |
+| BD-1-23 | Tommy's Holiday Camp |
+| BD-1-24 | We're Not Gonna Take It |
+|  | Hi-Fidelity Pure Audio Blu-Ray - 2ch Stereo |
+| BD-2-1 | Overture |
+| BD-2-2 | It's A Boy  |
+| BD-2-3 | 1921 |
+| BD-2-4 | Amazing Journey |
+| BD-2-5 | Sparks |
+| BD-2-6 | The Hawker |
+| BD-2-7 | Christmas |
+| BD-2-8 | Cousin Kevin  |
+| BD-2-9 | The Acid Queen  |
+| BD-2-10 | Underture |
+| BD-2-11 | Do You Think It's Alright?  |
+| BD-2-12 | Fiddle About |
+| BD-2-13 | Pinball Wizard |
+| BD-2-14 | There's A Doctor  |
+| BD-2-15 | Go To The Mirror!  |
+| BD-2-16 | Tommy Can You Hear Me?  |
+| BD-2-17 | Smash The Mirror  |
+| BD-2-18 | Sensation |
+| BD-2-19 | Miracle Cure |
+| BD-2-20 | Sally Simpson |
+| BD-2-21 | I'm Free |
+| BD-2-22 | Welcome |
+| BD-2-23 | Tommy's Holiday Camp |
+| BD-2-24 | We're Not Gonna Take It  |
+|  | The Demos And Out-takes |
+| CD2-1 | Overture |
+| CD2-2 | It's A Boy  |
+| CD2-3 | 1921 |
+| CD2-4 | Amazing Journey |
+| CD2-5 | Dream One |
+| CD2-6 | Sparks |
+| CD2-7 | The Hawker |
+| CD2-8 | Christmas |
+| CD2-9 | Acid Queen |
+| CD2-10 | Underture (Dream Two) |
+| CD2-11 | Do You Think It's Alright? |
+| CD2-12 | Pinball Wizard |
+| CD2-13 | There's A Doctor |
+| CD2-14 | Go To The Mirror! |
+| CD2-15 | Success |
+| CD2-16 | Tommy Can You Hear Me? |
+| CD2-17 | Smash The Mirror |
+| CD2-18 | Sensation |
+| CD2-19 | Miracle Cure |
+| CD2-20 | Sally Simpson |
+| CD2-21 | I'm Free |
+| CD2-22 | Welcome |
+| CD2-23 | We're Not Gonna Take It |
+| CD2-24 | Trying To Get Through |
+| CD2-25 | Young Man Blues |
+|  | The Live Bootleg Album |
+| CD3-1 | Overture |
+| CD3-2 | It's A Boy |
+| CD3-3 | 1921 |
+| CD3-4 | Amazing Journey |
+| CD3-5 | Sparks |
+| CD3-6 | The Hawker |
+| CD3-7 | Christmas |
+| CD3-8 | The Acid Queen |
+| CD3-9 | Pinball Wizard |
+| CD3-10 | Do You Think It's Alright? |
+| CD3-11 | Fiddle About |
+| CD3-12 | Tommy Can You Hear Me? |
+| CD3-13 | There's A Doctor |
+| CD3-14 | Go To The Mirror! |
+| CD3-15 | Smash The Mirror |
+| CD3-16 | Miracle Cure |
+| CD3-17 | Sally Simpson |
+| CD3-18 | I'm Free |
+| CD3-19 | Tommy's Holiday Camp |
+| CD3-20 | We're Not Gonna Take It |
+| CD3-21 | See Me, Feel Me/Listening To You |
 
 
 ## Apple Music

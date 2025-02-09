@@ -32,23 +32,23 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 5,000 Candles in the Wind (Bye, Bye Lil Sebastian) |  |
-| A2 | The Pit |  |
-| A3 | Sex Hair |  |
-| A4 | Catch Your Dream |  |
-| A5 | Two Birds Holding Hands |  |
-| A6 | Ann Song |  |
-| A7 | The Way You Look Tonight |  |
-| A8 | Menace Ball |  |
-| B1 | Remember I Get A Kick Out Of You |  |
-| B2 | Let's Call The Whole Thing Off |  |
-| B3 | Lovely Tonight |  |
-| B4 | I've Got You Under My Skin |  |
-| B5 | I Only Have Eyes For You |  |
-| B6 | Pickled Ginger |  |
-| B7 | Cold Water |  |
+| Position | Title |
+|----------|--------|
+| A1 | 5,000 Candles in the Wind (Bye, Bye Lil Sebastian) |
+| A2 | The Pit |
+| A3 | Sex Hair |
+| A4 | Catch Your Dream |
+| A5 | Two Birds Holding Hands |
+| A6 | Ann Song |
+| A7 | The Way You Look Tonight |
+| A8 | Menace Ball |
+| B1 | Remember I Get A Kick Out Of You |
+| B2 | Let's Call The Whole Thing Off |
+| B3 | Lovely Tonight |
+| B4 | I've Got You Under My Skin |
+| B5 | I Only Have Eyes For You |
+| B6 | Pickled Ginger |
+| B7 | Cold Water |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition Stereo (Catch Your Dream (Red, White, and Blue Stripe)) |
 | Label          | Dualtone |
 | Catalog Number | x |
-| Notes | Mouse Rat, formerly known as Scarecrow Boat, Everything Rhymes With Orange, Fleetwood Mac Sexpants, Threeskin, Just The Tip, Tackleshaft, or Teddy Bear Suicide, is fronted by Parks and Recreation shoe shine employee Andy Dwyer.  They have released a prolific string of hits including 5000 Candles In The Wind (Bye Bye Li'l Sebastian), Catch Your Dream (featuring Duke Silver), Two Birds Holding Hands, and The Pit.<br><br>"Catch Your Dream" red, white, and blue vinyl variant exclusive to the Dualtone Store. |
+| Notes | Mouse Rat, formerly known as Scarecrow Boat, Everything Rhymes With Orange, Fleetwood Mac Sexpants, Threeskin, Just The Tip, Tackleshaft, or Teddy Bear Suicide, is fronted by Parks and Recreation shoe shine employee Andy Dwyer.  They have released a prolific string of hits including 5000 Candles In The Wind (Bye Bye Li'l Sebastian), Catch Your Dream (featuring Duke Silver), Two Birds Holding Hands, and The Pit.  "Catch Your Dream" red, white, and blue vinyl variant exclusive to the Dualtone Store. |
 | Discogs URL    | [Mouse Rat - The Awesome Album](https://www.discogs.com/release/19841596-Mouse-Rat-The-Awesome-Album) |

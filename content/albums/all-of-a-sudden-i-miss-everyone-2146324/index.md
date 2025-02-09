@@ -38,14 +38,14 @@ All of a Sudden I Miss Everyone is the fifth studio album by American post-rock 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Birth And Death Of The Day |  |
-| A2 | Welcome, Ghosts |  |
-| B | It's Natural To Be Afraid |  |
-| C1 | What Do You Go Home To? |  |
-| C2 | Catastrophe And The Cure |  |
-| C3 | So Long, Lonesome |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Birth And Death Of The Day |
+| A2 | Welcome, Ghosts |
+| B | It's Natural To Be Afraid |
+| C1 | What Do You Go Home To? |
+| C2 | Catastrophe And The Cure |
+| C3 | So Long, Lonesome |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ All of a Sudden I Miss Everyone is the fifth studio album by American post-rock 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | Temporary Residence Limited |
 | Catalog Number | trr 99 |
-| Notes | Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical.<br><br>Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker and/or a small folded label catalog. <br><br>The label catalog includes releases up through [url=https://www.discogs.com/release/12899067-Fridge-The-Sun]TRR117[/url] which carries the note "Available May '07!" and [url=https://www.discogs.com/master/6075-Grails-Burning-Off-Impurities]TRR118[/url] which carries the note "NEW!"<br><br>Side D is an etched picture similar to the cover artwork.<br><br>Recorded in Minnesota, August 2006.<br><br>Runouts are etched, except for GOLDEN (which is stamped). <br><br>Lacquer cutting company derived from runouts.  |
+| Notes | Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical.  Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker and/or a small folded label catalog.   The label catalog includes releases up through [url=https://www.discogs.com/release/12899067-Fridge-The-Sun]TRR117[/url] which carries the note "Available May '07!" and [url=https://www.discogs.com/master/6075-Grails-Burning-Off-Impurities]TRR118[/url] which carries the note "NEW!"  Side D is an etched picture similar to the cover artwork.  Recorded in Minnesota, August 2006.  Runouts are etched, except for GOLDEN (which is stamped).   Lacquer cutting company derived from runouts.  |
 | Discogs URL    | [Explosions In The Sky - All Of A Sudden I Miss Everyone](https://www.discogs.com/release/2146324-Explosions-In-The-Sky-All-Of-A-Sudden-I-Miss-Everyone) |

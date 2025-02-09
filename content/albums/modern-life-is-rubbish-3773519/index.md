@@ -40,24 +40,24 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | For Tomorrow | 4:18 |
-| A2 | Advert | 3:43 |
-| A3 | Colin Zeal | 3:14 |
-| A4 | Pressure On Julian | 3:30 |
-| B5 | Star Shaped | 3:25 |
-| B6 | Blue Jeans | 3:53 |
-| B7.1 | Chemical World | 4:02 |
-| B7.2 | Intermission | 2:27 |
-| C8 | Sunday Sunday | 2:36 |
-| C9 | Oily Water | 4:59 |
-| C10 | Miss America | 5:34 |
-| C11 | Villa Rosie | 3:54 |
-| D12 | Coping | 3:23 |
-| D13 | Turn It Up | 3:21 |
-| D14.1 | Resigned | 5:13 |
-| D14.2 | Commercial Break | 0:56 |
+| Position | Title |
+|----------|--------|
+| A1 | For Tomorrow |
+| A2 | Advert |
+| A3 | Colin Zeal |
+| A4 | Pressure On Julian |
+| B5 | Star Shaped |
+| B6 | Blue Jeans |
+| B7.1 | Chemical World |
+| B7.2 | Intermission |
+| C8 | Sunday Sunday |
+| C9 | Oily Water |
+| C10 | Miss America |
+| C11 | Villa Rosie |
+| D12 | Coping |
+| D13 | Turn It Up |
+| D14.1 | Resigned |
+| D14.2 | Commercial Break |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition (180 Gram, Gatefold) |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |
-| Notes | Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3 <br>Each LP comes in a printed inner sleeve.<br>Tracks are numbered sequentially on release.<br>Sticker on shrinkwrap |
+| Notes | Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap |
 | Discogs URL    | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/3773519-Blur-Modern-Life-Is-Rubbish) |

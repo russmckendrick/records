@@ -40,29 +40,29 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wake Up And Make Love With Me |  |
-| A2 | Sweet Gene Vincent |  |
-| A3 | I'm Partial To Your Abracadabra |  |
-| A4 | My Old Man |  |
-| A5 | Billericay Dickie |  |
-| B1 | Clevor Trever |  |
-| B2 | If I Was With A Woman |  |
-| B3 | Blockheads |  |
-| B4 | Plaistow Patricia |  |
-| B5 | Blackmail Man |  |
-| C1 | Sex & Drugs & Rock & Roll [Live] |  |
-| C2 | Wake Up And Make Love With Me [Live] |  |
-| C3 | Clevor Trever [Live] |  |
-| C4 | Plaistow Patricia [Live] |  |
-| C5 | I Made Mary Cry [Live] |  |
-| D1 | What A Waste [Live] |  |
-| D2 | Blockheads [Live] |  |
-| D3 | If I Was With A Woman [Live] |  |
-| D4 | Upminster Kid [Live] |  |
-| D5 | Sweet Gene Vincent [Live] |  |
-| D6 | Sex & Drugs & Rock & Roll (Reprise) [Live] |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wake Up And Make Love With Me |
+| A2 | Sweet Gene Vincent |
+| A3 | I'm Partial To Your Abracadabra |
+| A4 | My Old Man |
+| A5 | Billericay Dickie |
+| B1 | Clevor Trever |
+| B2 | If I Was With A Woman |
+| B3 | Blockheads |
+| B4 | Plaistow Patricia |
+| B5 | Blackmail Man |
+| C1 | Sex & Drugs & Rock & Roll [Live] |
+| C2 | Wake Up And Make Love With Me [Live] |
+| C3 | Clevor Trever [Live] |
+| C4 | Plaistow Patricia [Live] |
+| C5 | I Made Mary Cry [Live] |
+| D1 | What A Waste [Live] |
+| D2 | Blockheads [Live] |
+| D3 | If I Was With A Woman [Live] |
+| D4 | Upminster Kid [Live] |
+| D5 | Sweet Gene Vincent [Live] |
+| D6 | Sex & Drugs & Rock & Roll (Reprise) [Live] |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Numbered Reissue (Green/Orange Splatter) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECDLX005 |
-| Notes | Limited to 1000 copies - numbered on the lower left of the back cover.<br>Deluxe Edition<br>Includes the classic album and Live AT The Paris Theatre, London.<br>2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.<br><br>Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.<br> |
+| Notes | Limited to 1000 copies - numbered on the lower left of the back cover. Deluxe Edition Includes the classic album and Live AT The Paris Theatre, London. 2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.  Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.  |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/11098144-Ian-Dury-New-Boots-And-Panties) |

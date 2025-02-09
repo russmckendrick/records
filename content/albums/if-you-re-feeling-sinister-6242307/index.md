@@ -33,18 +33,18 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Stars Of Track And Field | 4:48 |
-| A2 | Seeing Other People | 3:48 |
-| A3 | Me And The Major | 3:51 |
-| A4 | Like Dylan In The Movies | 4:14 |
-| A5 | The Fox In The Snow | 4:11 |
-| B1 | Get Me Away From Here, I'm Dying | 3:25 |
-| B2 | If You're Feeling Sinister | 5:21 |
-| B3 | Mayfly | 3:42 |
-| B4 | The Boy Done Wrong Again | 4:17 |
-| B5 | Judy And The Dream Of Horses | 3:40 |
+| Position | Title |
+|----------|--------|
+| A1 | The Stars Of Track And Field |
+| A2 | Seeing Other People |
+| A3 | Me And The Major |
+| A4 | Like Dylan In The Movies |
+| A5 | The Fox In The Snow |
+| B1 | Get Me Away From Here, I'm Dying |
+| B2 | If You're Feeling Sinister |
+| B3 | Mayfly |
+| B4 | The Boy Done Wrong Again |
+| B5 | Judy And The Dream Of Horses |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001 |
-| Notes | Gatefold sleeve<br><br>Reissue with an alternative code etched into the matrix.<br>Made in EU.<br>Includes free download of entire album.<br>Includes a PVC protective outer sleeve.<br>Includes obi. |
+| Notes | Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi. |
 | Discogs URL    | [Belle  Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |

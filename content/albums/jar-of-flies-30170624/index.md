@@ -37,15 +37,15 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rotten Apple | 6:56 |
-| A2 | Nutshell | 4:16 |
-| A3 | I Stay Away | 4:13 |
-| A4 | No Excuses | 4:15 |
-| B1 | Whale & Wasp | 2:35 |
-| B2 | Don't Follow | 4:21 |
-| B3 | Swing On This | 4:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Rotten Apple |
+| A2 | Nutshell |
+| A3 | I Stay Away |
+| A4 | No Excuses |
+| B1 | Whale & Wasp |
+| B2 | Don't Follow |
+| B3 | Swing On This |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 | Format         | Vinyl LP EP Reissue Remastered |
 | Label          | Velvet Hammer |
 | Catalog Number | 19658800371 |
-| Notes | Includes printed inner sleeve with credits and lyrics.<br><br>Release distributed globally except for the Americas.<br>For the North American release without [l=sony music] logo, please refer to [r=30106898].<br><br>© 1994, 2024 Columbia Records, A Division of Sony Music Entertainment.<br><br>Made in the EU.<br><br>Runouts are etched, except -61933- is stamped. |
+| Notes | Includes printed inner sleeve with credits and lyrics.  Release distributed globally except for the Americas. For the North American release without [l=sony music] logo, please refer to [r=30106898].  © 1994, 2024 Columbia Records, A Division of Sony Music Entertainment.  Made in the EU.  Runouts are etched, except -61933- is stamped. |
 | Discogs URL    | [Alice In Chains - Jar Of Flies](https://www.discogs.com/release/30170624-Alice-In-Chains-Jar-Of-Flies) |

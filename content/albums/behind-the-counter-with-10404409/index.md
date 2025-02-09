@@ -39,47 +39,47 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP1-A1 | The Unanswered Question |  |
-| LP1-A2 | BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland |  |
-| LP1-A3 | Partita III. Courante |  |
-| LP1-A4 | 3 Pieces For Cello And Piano: No. 1. Modere |  |
-| LP1-B1 | Ether |  |
-| LP1-B2 | Arcadiana, Op.12 (1994): VI. O Albion |  |
-| LP1-B3 | Hoquetus David  |  |
-| LP1-B4 | Zoetrope |  |
-| LP1-B5 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  |  |
-| LP2-C1 | Qui Habitat (Psalm 90) |  |
-| LP2-C2 | Of Late |  |
-| LP2-C3 | Bobbing Beams of Light |  |
-| LP2-C4 | Dixit Dominus, HWV 232: IX. Die Torrente In Via Bibet  |  |
-| LP2-C5 | Mercy |  |
-| LP2-D1 | Rejoice O Virgin  |  |
-| LP2-D2 | Last Things Last  |  |
-| LP2-D3 | Canticles Of The Sky: Sky With Four Suns |  |
-| LP2-D4 | Wasserklavier  |  |
-| LP2-D5 | Satyagraha: Evening Song  |  |
-| LP2-D6 | Deep Six Textbook  |  |
-| LP3-E1 | Fantasia 7 |  |
-| LP3-E2 | Preludes, Opus 11: XXI Andante - In B Flat Major |  |
-| LP3-E3 | What Part of Me |  |
-| LP3-E4 | Tenebrae II |  |
-| LP3-E5 | DISKPREPT1 |  |
-| LP3-E6 | Immortal Bach  |  |
-| LP3-F1 | Rockets Fall On Rocket Falls  |  |
-| 7"-A | The Young Mariner | 4:10 |
-| 7"-B | Whale Window Hotel / Farewell Threshold Laudanum | 2:36 |
-| CD-1 | Ether | 5:05 |
-| CD-2 | Zoetrope | 5:00 |
-| CD-3 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  | 3:15 |
-| CD-4 | Bobbing Beams Of Light | 6:14 |
-| CD-5 | Mercy | 5:25 |
-| CD-6 | Deep Six Textbook | 5:41 |
-| CD-7 | What Part Of Me | 3:03 |
-| CD-8 | Tenebrae II | 6:46 |
-| CD-9 | Diskprept1 | 3:28 |
-| CD-10 | Rockets Fall On Rocket Falls  | 20:40 |
+| Position | Title |
+|----------|--------|
+| LP1-A1 | The Unanswered Question |
+| LP1-A2 | BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland |
+| LP1-A3 | Partita III. Courante |
+| LP1-A4 | 3 Pieces For Cello And Piano: No. 1. Modere |
+| LP1-B1 | Ether |
+| LP1-B2 | Arcadiana, Op.12 (1994): VI. O Albion |
+| LP1-B3 | Hoquetus David  |
+| LP1-B4 | Zoetrope |
+| LP1-B5 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  |
+| LP2-C1 | Qui Habitat (Psalm 90) |
+| LP2-C2 | Of Late |
+| LP2-C3 | Bobbing Beams of Light |
+| LP2-C4 | Dixit Dominus, HWV 232: IX. Die Torrente In Via Bibet  |
+| LP2-C5 | Mercy |
+| LP2-D1 | Rejoice O Virgin  |
+| LP2-D2 | Last Things Last  |
+| LP2-D3 | Canticles Of The Sky: Sky With Four Suns |
+| LP2-D4 | Wasserklavier  |
+| LP2-D5 | Satyagraha: Evening Song  |
+| LP2-D6 | Deep Six Textbook  |
+| LP3-E1 | Fantasia 7 |
+| LP3-E2 | Preludes, Opus 11: XXI Andante - In B Flat Major |
+| LP3-E3 | What Part of Me |
+| LP3-E4 | Tenebrae II |
+| LP3-E5 | DISKPREPT1 |
+| LP3-E6 | Immortal Bach  |
+| LP3-F1 | Rockets Fall On Rocket Falls  |
+| 7"-A | The Young Mariner |
+| 7"-B | Whale Window Hotel / Farewell Threshold Laudanum |
+| CD-1 | Ether |
+| CD-2 | Zoetrope |
+| CD-3 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  |
+| CD-4 | Bobbing Beams Of Light |
+| CD-5 | Mercy |
+| CD-6 | Deep Six Textbook |
+| CD-7 | What Part Of Me |
+| CD-8 | Tenebrae II |
+| CD-9 | Diskprept1 |
+| CD-10 | Rockets Fall On Rocket Falls  |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 | Format         | Vinyl 3× LP Compilation (Transparent Green Vinyl), Vinyl 7" 45 RPM (Black Vinyl), CD Compilation Promo |
 | Label          | Rough Trade |
 | Catalog Number | rtbtc1lpx |
-| Notes | This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor".<br>The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version.<br>There is a download code for 2 mixes [total time 120:22]<br>The LP has 27 tracks<br>The "Download Mix" has 33 tracks<br><br>3 panel sleeve.<br><br> |
+| Notes | This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor". The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version. There is a download code for 2 mixes [total time 120:22] The LP has 27 tracks The "Download Mix" has 33 tracks  3 panel sleeve.   |
 | Discogs URL    | [Max Richter - Behind The Counter With](https://www.discogs.com/release/10404409-Max-Richter-Various-Behind-The-Counter-With) |

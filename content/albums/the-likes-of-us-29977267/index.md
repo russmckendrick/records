@@ -29,16 +29,16 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Light Left In The Day | 6:10 |
-| A2 | Oblivion | 5:27 |
-| B1 | Beneath The Masts | 17:26 |
-| B2 | Skates On | 4:28 |
-| C1 | Miramare | 10:17 |
-| C2 | Love Is The Light | 6:11 |
-| D1 | Bookmarks | 6:23 |
-| D2 | Last Eleven | 7:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Light Left In The Day |
+| A2 | Oblivion |
+| B1 | Beneath The Masts |
+| B2 | Skates On |
+| C1 | Miramare |
+| C2 | Love Is The Light |
+| D1 | Bookmarks |
+| D2 | Last Eleven |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM700 |
-| Notes | Black vinyl edition.<br><br>Gatefold sleeve including printed insert. |
+| Notes | Black vinyl edition.  Gatefold sleeve including printed insert. |
 | Discogs URL    | [Big Big Train - The Likes Of Us](https://www.discogs.com/release/29977267-Big-Big-Train-The-Likes-Of-Us) |

@@ -34,26 +34,26 @@ Ciao! Best of Lush is a compilation album by the band Lush, released in March 20
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ladykillers |  |
-| A2 | Single Girl |  |
-| A3 | Ciao! |  |
-| A4 | 500 (Shake Baby Shake) |  |
-| A5 | Light From A Dead Star |  |
-| B1 | Love At First Sight |  |
-| B2 | Hypocrite |  |
-| B3 | Desire Lines |  |
-| B4 | Lovelife |  |
-| C1 | When I Die |  |
-| C2 | Nothing Natural |  |
-| C3 | Untogether |  |
-| C4 | For Love |  |
-| D1 | Monochrome |  |
-| D2 | De-Luxe |  |
-| D3 | Sweetness And Light |  |
-| D4 | Thoughtforms |  |
-| D5 | Etheriel |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ladykillers |
+| A2 | Single Girl |
+| A3 | Ciao! |
+| A4 | 500 (Shake Baby Shake) |
+| A5 | Light From A Dead Star |
+| B1 | Love At First Sight |
+| B2 | Hypocrite |
+| B3 | Desire Lines |
+| B4 | Lovelife |
+| C1 | When I Die |
+| C2 | Nothing Natural |
+| C3 | Untogether |
+| C4 | For Love |
+| D1 | Monochrome |
+| D2 | De-Luxe |
+| D3 | Sweetness And Light |
+| D4 | Thoughtforms |
+| D5 | Etheriel |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Ciao! Best of Lush is a compilation album by the band Lush, released in March 20
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red) |
 | Label          | 4AD |
 | Catalog Number | CAD 2K22 |
-| Notes | Released on Record Store Day Black Friday 2015. Comes in a gatefold sleeve.<br><br>Dedicated to the memory of [url=https://www.discogs.com/artist/259782-Chris-Acland]Christopher Acland[/url].<br><br>A1 to A3 taken from the album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url].<br>℗ 1996 4AD Ltd.<br><br>A4: single remix, original version on album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url].<br>℗ 1996 4AD Ltd.<br><br>A5, B2 to C1: taken from the album [url=http://www.discogs.com/Lush-Split/master/19721]'Split'[/url].<br>℗ 1994 4AD Ltd.<br><br>B1: taken from the single [url=http://www.discogs.com/Lush-Hypocrite/master/6363]'Hypocrite'[/url].<br>℗ 1994 4AD Ltd.<br><br>C2 to D1: taken from the single album [url=http://www.discogs.com/Lush-Spooky/master/6277]'Spooky'[/url].<br>℗ 1992 4AD Ltd.<br><br>D2: taken from the single [url=http://www.discogs.com/Lush-Mad-Love/master/19700]'Mad Love'[/url].<br>℗ 1990 4AD Ltd.<br><br>D3: taken from the single [url=http://www.discogs.com/Lush-Sweetness-And-Light/master/6298]'Sweetness And Light'[/url].<br>℗ 1990 4AD Ltd.<br><br>D4, D5: taken from the mini album [url=http://www.discogs.com/Lush-Scar/master/6226]'Scar'[/url].<br>℗ 1989 4AD Ltd.<br><br>This compilation ℗ 2000 4AD Ltd. © 2015 4AD Ltd. |
+| Notes | Released on Record Store Day Black Friday 2015. Comes in a gatefold sleeve.  Dedicated to the memory of [url=https://www.discogs.com/artist/259782-Chris-Acland]Christopher Acland[/url].  A1 to A3 taken from the album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A4: single remix, original version on album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A5, B2 to C1: taken from the album [url=http://www.discogs.com/Lush-Split/master/19721]'Split'[/url]. ℗ 1994 4AD Ltd.  B1: taken from the single [url=http://www.discogs.com/Lush-Hypocrite/master/6363]'Hypocrite'[/url]. ℗ 1994 4AD Ltd.  C2 to D1: taken from the single album [url=http://www.discogs.com/Lush-Spooky/master/6277]'Spooky'[/url]. ℗ 1992 4AD Ltd.  D2: taken from the single [url=http://www.discogs.com/Lush-Mad-Love/master/19700]'Mad Love'[/url]. ℗ 1990 4AD Ltd.  D3: taken from the single [url=http://www.discogs.com/Lush-Sweetness-And-Light/master/6298]'Sweetness And Light'[/url]. ℗ 1990 4AD Ltd.  D4, D5: taken from the mini album [url=http://www.discogs.com/Lush-Scar/master/6226]'Scar'[/url]. ℗ 1989 4AD Ltd.  This compilation ℗ 2000 4AD Ltd. © 2015 4AD Ltd. |
 | Discogs URL    | [Lush - Ciao! Best Of Lush](https://www.discogs.com/release/7778678-Lush-Ciao-Best-Of-Lush) |

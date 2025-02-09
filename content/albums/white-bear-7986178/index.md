@@ -37,18 +37,18 @@ The album was produced in 2015 and released on 15 January 2016.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Three Bulleits | 3:14 |
-| A2 | Get Yourself Free | 3:37 |
-| A3 | A Pleasant Peace I Feel | 4:35 |
-| A4 | Modern Massacre | 2:21 |
-| A5 | Battle Lines | 4:16 |
-| B1 | White Bear | 4:00 |
-| B2 | Oh Lorraine | 3:03 |
-| B3 | Magnify | 3:59 |
-| B4 | The Sun And Moon Roll Around Too Soon | 2:48 |
-| B5 | I Hope I’m Not Losing My Mind | 3:57 |
+| Position | Title |
+|----------|--------|
+| A1 | Three Bulleits |
+| A2 | Get Yourself Free |
+| A3 | A Pleasant Peace I Feel |
+| A4 | Modern Massacre |
+| A5 | Battle Lines |
+| B1 | White Bear |
+| B2 | Oh Lorraine |
+| B3 | Magnify |
+| B4 | The Sun And Moon Roll Around Too Soon |
+| B5 | I Hope I’m Not Losing My Mind |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The album was produced in 2015 and released on 15 January 2016.
 | Format         | Vinyl LP Album Stereo (White) |
 | Label          | Earache |
 | Catalog Number | MOSH556LP |
-| Notes | White version of the "White Bear" album. Two versions were available :<br>- simple white vinyl<br>- "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package.<br>Both comes with A double sided 12 panel poster.<br><br>Manufactured in the EU.<br><br>Durations do not appear on this release.<br> |
+| Notes | White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release.  |
 | Discogs URL    | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178-The-Temperance-Movement-White-Bear) |

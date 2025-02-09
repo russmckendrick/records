@@ -38,30 +38,30 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Interstellar Overdrive |  |
-| A2 | Astronomy Domine |  |
-| A3 | Lucifer Sam |  |
-| A4 | Fearless |  |
-| A5 | Obscured By Clouds |  |
-| A6 | When You're In |  |
-| B1 | Remember A Day |  |
-| B2 | Arnold Layne |  |
-| B3 | Vegetable Man |  |
-| B4 | If |  |
-| B5 | Atom Heart Mother |  |
-| B6 | If (Reprise) |  |
-| B7 | The Nile Song |  |
-| C1 | Green Is The Colour |  |
-| C2 | Let There Be More Light |  |
-| C3 | Childhood's End |  |
-| C4 | Set The Controls For The Heart Of The Sun |  |
-| D1 | See Emily Play |  |
-| D2 | Bike |  |
-| D3 | One Of These Days |  |
-| D4 | A Saucerful Of Secrets |  |
-| D5 | Point Me At The Sky |  |
+| Position | Title |
+|----------|--------|
+| A1 | Interstellar Overdrive |
+| A2 | Astronomy Domine |
+| A3 | Lucifer Sam |
+| A4 | Fearless |
+| A5 | Obscured By Clouds |
+| A6 | When You're In |
+| B1 | Remember A Day |
+| B2 | Arnold Layne |
+| B3 | Vegetable Man |
+| B4 | If |
+| B5 | Atom Heart Mother |
+| B6 | If (Reprise) |
+| B7 | The Nile Song |
+| C1 | Green Is The Colour |
+| C2 | Let There Be More Light |
+| C3 | Childhood's End |
+| C4 | Set The Controls For The Heart Of The Sun |
+| D1 | See Emily Play |
+| D2 | Bike |
+| D3 | One Of These Days |
+| D4 | A Saucerful Of Secrets |
+| D5 | Point Me At The Sky |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Album (Die Cut Slipcase) |
 | Label          | Legacy |
 | Catalog Number | 19075982711 |
-| Notes | Sticker:<br>Nick Mason's Saucerful Of Secrets<br>Perform Over Two Hours Of Early Pink Floyd<br>Filmed Live At The Roundhouse In London<br>2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun<br><br>This Product Contains :<br>--Die Cut Slipcase & Printed Inner Bags<br>-- MP3 Download Card<br><br>Sleeve gatefold<br>Made in the EU.<br><br>Runouts etched, except [MPO logo] 20...... , stamped |
+| Notes | Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU.  Runouts etched, except [MPO logo] 20...... , stamped |
 | Discogs URL    | [Nick Masons Saucerful Of Secrets - Live At The Roundhouse](https://www.discogs.com/release/15927877-Nick-Masons-Saucerful-Of-Secrets-Live-At-The-Roundhouse) |

@@ -29,26 +29,26 @@ Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I'v
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Believe I've Found |  |
-| A2 | Transcendental Suicide |  |
-| A3 | Bigtime |  |
-| A4 | Heading For A Breakdown |  |
-| B1 | Mother One Track Mind |  |
-| B2 | Midnight Children |  |
-| B3 | Lone Summer |  |
-| B4 | Royal Explosion (Part II) |  |
-| C1 | Wheels Of Boredom |  |
-| C2 | Borderline |  |
-| C3 | Song For The Others |  |
-| C4 | Age Of No Reply |  |
-|  | Bonus Side |  |
-| D1 | To Somewhere Else |  |
-| D2 | World Bank |  |
-| D3 | Sister Surround |  |
-| D4 | Love Song #3105 |  |
-| D5 | A Room Without A View |  |
+| Position | Title |
+|----------|--------|
+| A1 | Believe I've Found |
+| A2 | Transcendental Suicide |
+| A3 | Bigtime |
+| A4 | Heading For A Breakdown |
+| B1 | Mother One Track Mind |
+| B2 | Midnight Children |
+| B3 | Lone Summer |
+| B4 | Royal Explosion (Part II) |
+| C1 | Wheels Of Boredom |
+| C2 | Borderline |
+| C3 | Song For The Others |
+| C4 | Age Of No Reply |
+|  | Bonus Side |
+| D1 | To Somewhere Else |
+| D2 | World Bank |
+| D3 | Sister Surround |
+| D4 | Love Song #3105 |
+| D5 | A Room Without A View |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I'v
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2646 |
-| Notes | Limited Edition of 1500 Gold Coloured Copies<br>Individually Numbered<br>Includes Insert<br>Contains 5 Bonus Tracks<br>180 gram audiophile vinyl<br><br>Gatefold cover |
+| Notes | Limited Edition of 1500 Gold Coloured Copies Individually Numbered Includes Insert Contains 5 Bonus Tracks 180 gram audiophile vinyl  Gatefold cover |
 | Discogs URL    | [The Soundtrack Of Our Lives - Origin Vol. 1](https://www.discogs.com/release/15417224-The-Soundtrack-Of-Our-Lives-Origin-Vol-1) |

@@ -27,26 +27,26 @@ styles: ["Alternative Rock", "Grunge"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Siva |  |
-| A2 | Rhinocerous |  |
-| A3 | Drown |  |
-| A4 | Cherub Rock |  |
-| B1 | Today |  |
-| B2 | Disarm |  |
-| B3 | Landslide |  |
-| B4 | Bullet With Butterfly Wings |  |
-| B5 | 1979 |  |
-| C1 | Zero |  |
-| C2 | Tonight, Tonight |  |
-| C3 | Eye |  |
-| C4 | Ava Adore |  |
-| C5 | Perfect |  |
-| D1 | The Everlasting Gaze |  |
-| D2 | Stand Inside Your Love |  |
-| D3 | Real Love |  |
-| D4 | Untitled |  |
+| Position | Title |
+|----------|--------|
+| A1 | Siva |
+| A2 | Rhinocerous |
+| A3 | Drown |
+| A4 | Cherub Rock |
+| B1 | Today |
+| B2 | Disarm |
+| B3 | Landslide |
+| B4 | Bullet With Butterfly Wings |
+| B5 | 1979 |
+| C1 | Zero |
+| C2 | Tonight, Tonight |
+| C3 | Eye |
+| C4 | Ava Adore |
+| C5 | Perfect |
+| D1 | The Everlasting Gaze |
+| D2 | Stand Inside Your Love |
+| D3 | Real Love |
+| D4 | Untitled |
 
 
 ## Apple Music

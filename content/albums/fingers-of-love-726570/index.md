@@ -32,12 +32,12 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fingers Of Love (Live) | 5:08 |
-| A2 | Love U Till The Day I Die (Live) | 4:31 |
-| B1 | Whispers And Moans (Live) | 4:42 |
-| B2 | It's Only Natural (Live) | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Fingers Of Love (Live) |
+| A2 | Love U Till The Day I Die (Live) |
+| B1 | Whispers And Moans (Live) |
+| B2 | It's Only Natural (Live) |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl 10" 45 RPM Single Limited Edition Numbered Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 10CL 715 |
-| Notes | Issued in a gatefold sleeve.<br><br>[Back cover:]<br>All tracks published by Roundhead Music (BMI) except Side 2 track 2 published by Roundhead Music/Rebel Larynx Music/BMI.<br>Side 1 track 1 & Side 2 track 1 recorded at The Boathouse, Norfolk.<br>Side 1 track 2 & Side 2 track 2 recorded at The Arlington Theater, Santa Barbara.<br>Recorded live to dat.<br>℗ 1994 the copyright in this sound recording is owned by Capitol Records Inc.<br>© 1994 Capitol Records Inc.<br><br>original version appears on the CD, LP and cassette "[m=157732]"<br><br>[Labels:]<br>A Capitol Records, Inc., U.S.A. recording<br>Manufactured in the UK by EMI Records Limited |
+| Notes | Issued in a gatefold sleeve.  [Back cover:] All tracks published by Roundhead Music (BMI) except Side 2 track 2 published by Roundhead Music/Rebel Larynx Music/BMI. Side 1 track 1 & Side 2 track 1 recorded at The Boathouse, Norfolk. Side 1 track 2 & Side 2 track 2 recorded at The Arlington Theater, Santa Barbara. Recorded live to dat. ℗ 1994 the copyright in this sound recording is owned by Capitol Records Inc. © 1994 Capitol Records Inc.  original version appears on the CD, LP and cassette "[m=157732]"  [Labels:] A Capitol Records, Inc., U.S.A. recording Manufactured in the UK by EMI Records Limited |
 | Discogs URL    | [Crowded House - Fingers Of Love](https://www.discogs.com/release/726570-Crowded-House-Fingers-Of-Love) |

@@ -26,38 +26,38 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Velvet Kevorkian |  |
-| A2 | All Hail The New Flesh |  |
-| A3 | By Your Command |  |
-| A4 | Almost Again |  |
-| B1 | Juular |  |
-| B2 | March Of The Poozers |  |
-| B3 | Supercrush! |  |
-| B4 | Hyperdrive |  |
-| C1 | Stormbending |  |
-| C2 | Deadhead |  |
-| C3 | Aftermath |  |
-| D1 | Love? |  |
-| D2 | Spirits Will Collide |  |
-| D3 | Kingdom |  |
-| D4 | Detox |  |
-| CD-1 | Velvet Kevorkian | 2:26 |
-| CD-2 | All Hail The New Flesh | 5:32 |
-| CD-3 | By Your Command | 8:19 |
-| CD-4 | Almost Again | 3:42 |
-| CD-5 | Juular | 3:50 |
-| CD-6 | March Of The Poozers | 5:25 |
-| CD-7 | Supercrush! | 5:15 |
-| CD-8 | Hyperdrive | 3:42 |
-| CD-9 | Stormbending | 5:21 |
-| CD-10 | Deadhead | 7:55 |
-| CD-11 | Aftermath | 6:51 |
-| CD-12 | Love? | 5:21 |
-| CD-13 | Spirits Will Collide | 4:35 |
-| CD-14 | Kingdom | 5:05 |
-| CD-15 | Detox | 6:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Velvet Kevorkian |
+| A2 | All Hail The New Flesh |
+| A3 | By Your Command |
+| A4 | Almost Again |
+| B1 | Juular |
+| B2 | March Of The Poozers |
+| B3 | Supercrush! |
+| B4 | Hyperdrive |
+| C1 | Stormbending |
+| C2 | Deadhead |
+| C3 | Aftermath |
+| D1 | Love? |
+| D2 | Spirits Will Collide |
+| D3 | Kingdom |
+| D4 | Detox |
+| CD-1 | Velvet Kevorkian |
+| CD-2 | All Hail The New Flesh |
+| CD-3 | By Your Command |
+| CD-4 | Almost Again |
+| CD-5 | Juular |
+| CD-6 | March Of The Poozers |
+| CD-7 | Supercrush! |
+| CD-8 | Hyperdrive |
+| CD-9 | Stormbending |
+| CD-10 | Deadhead |
+| CD-11 | Aftermath |
+| CD-12 | Love? |
+| CD-13 | Spirits Will Collide |
+| CD-14 | Kingdom |
+| CD-15 | Detox |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 | Format         | Vinyl 2× LP Album (180g), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 588 |
-| Notes | Standard version on black vinyl<br>Gatefold sleeve<br><br>© 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261.<br>Made in EU.<br><br>Recorded between July and September 2020 in various places around the world.<br>Originally aired on September 5th 2020 on StageIt.com |
+| Notes | Standard version on black vinyl Gatefold sleeve  © 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261. Made in EU.  Recorded between July and September 2020 in various places around the world. Originally aired on September 5th 2020 on StageIt.com |
 | Discogs URL    | [Devin Townsend - Galactic Quarantine](https://www.discogs.com/release/19283533-Devin-Townsend-Galactic-Quarantine) |

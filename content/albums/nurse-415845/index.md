@@ -32,18 +32,18 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nausea | 3:56 |
-| A2 | Teethgrinder | 3:26 |
-| A3 | Disgracelands | 3:42 |
-| A4 | Accelerator | 2:15 |
-| A5 | Neck Freak | 5:51 |
-| B1 | Perversonality | 3:52 |
-| B2 | Gone | 6:23 |
-| B3 | Zipless | 2:53 |
-| B4 | Deep Sleep | 5:14 |
-| B5 | Hypermania | 2:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Nausea |
+| A2 | Teethgrinder |
+| A3 | Disgracelands |
+| A4 | Accelerator |
+| A5 | Neck Freak |
+| B1 | Perversonality |
+| B2 | Gone |
+| B3 | Zipless |
+| B4 | Deep Sleep |
+| B5 | Hypermania |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | 540 044-1 |
-| Notes | The records has a printed inner and outer sleeve.<br><br>Rear sleeve:<br>Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.<br><br>℗ 1992 A&M Records Ltd, London.<br><br>Side B face label:<br>The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.<br> |
+| Notes | The records has a printed inner and outer sleeve.  Rear sleeve: Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.  ℗ 1992 A&M Records Ltd, London.  Side B face label: The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.  |
 | Discogs URL    | [Therapy - Nurse](https://www.discogs.com/release/415845-Therapy-Nurse) |

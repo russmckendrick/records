@@ -25,12 +25,12 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Architect |  |
-| A2 | The Architect - Andy Votel's Brutaliszt 250KG Readymix |  |
-| B1 | Code |  |
-| B2 | Element |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Architect |
+| A2 | The Architect - Andy Votel's Brutaliszt 250KG Readymix |
+| B1 | Code |
+| B2 | Element |
 
 
 ## Apple Music

@@ -30,19 +30,19 @@ Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nautilus | 5:30 |
-| A2 | Taken | 4:50 |
-| A3 | Scrimshaw | 4:43 |
-| A4 | Something Helpful | 3:13 |
-| A5 | R-Type | 4:42 |
-| B1 | Dowager | 5:22 |
-| B2 | The Vapours | 6:33 |
-| B3 | Honeyed Words | 3:17 |
-| B4 | Last Rose | 3:31 |
-| B5 | Shill | 2:47 |
-| B6 | Blackfriars | 2:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Nautilus |
+| A2 | Taken |
+| A3 | Scrimshaw |
+| A4 | Something Helpful |
+| A5 | R-Type |
+| B1 | Dowager |
+| B2 | The Vapours |
+| B3 | Honeyed Words |
+| B4 | Last Rose |
+| B5 | Shill |
+| B6 | Blackfriars |
 
 
 ## Apple Music

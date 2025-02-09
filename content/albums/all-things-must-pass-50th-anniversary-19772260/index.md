@@ -66,50 +66,50 @@ There’s a mystical power between every echoing line of <i>All Things Must Pass
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | All Things Must Pass - New Mix By Paul Hicks	 |  |
-| A1 | I'd Have You Anytime |  |
-| A2 | My Sweet Lord |  |
-| A3 | Wah-Wah |  |
-| A4 | Isn't It A Pity (Version One) |  |
-| B1 | What Is Life |  |
-| B2 | If Not For You |  |
-| B3 | Behind That Locked Door |  |
-| B4 | Let It Down |  |
-| B5 | Run Of The Mill |  |
-| C1 | Beware Of Darkness |  |
-| C2 | Apple Scruffs |  |
-| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |  |
-| C4 | Awaiting On You All |  |
-| C5 | All Things Must Pass |  |
-| D1 | I Dig Love |  |
-| D2 | Art Of Dying |  |
-| D3 | Isn't It A Pity (Version Two) |  |
-| D4 | Hear Me Lord |  |
-| E1 | Out Of The Blue |  |
-| E2 | It's Johnny's Birthday |  |
-| E3 | Plug Me In |  |
-| F1 | I Remember Jeep |  |
-| F2 | Thanks For The Pepperoni |  |
-|  | Session Outtakes And Jams |  |
-| G1 | Isn't It A Pity - Take 14 |  |
-| G2 | Wah-Wah - Take 1 |  |
-| G3 | I'd Have You Anytime - Take 5 |  |
-| G4 | Art Of Dying - Take 1 |  |
-| H1 | Isn't It A Pity - Take 27 |  |
-| H2 | If Not For You - Take 2 |  |
-| H3 | Wedding Bells (Are Breaking Up That Old Gang Of Mine) - Take 1 |  |
-| H4 | What Is Life - Take 1 |  |
-| H5 | Beware Of Darkness - Take 8 |  |
-| I1 | Hear Me Lord - Take 5 |  |
-| I2 | Let It Down - Take 1 |  |
-| I3 | Run Of The Mill - Take 36 |  |
-| I4 | Down To The River (Rocking Chair Jam) - Take 1 |  |
-| J1 | Get Back - Take 1 |  |
-| J2 | Almost 12 Bar Honky Tonk - Take 1 |  |
-| J3 | It's Johnny's Birthday - Take 1 |  |
-| J4 | Woman Don't You Cry For Me - Take 5 |  |
+| Position | Title |
+|----------|--------|
+|  | All Things Must Pass - New Mix By Paul Hicks	 |
+| A1 | I'd Have You Anytime |
+| A2 | My Sweet Lord |
+| A3 | Wah-Wah |
+| A4 | Isn't It A Pity (Version One) |
+| B1 | What Is Life |
+| B2 | If Not For You |
+| B3 | Behind That Locked Door |
+| B4 | Let It Down |
+| B5 | Run Of The Mill |
+| C1 | Beware Of Darkness |
+| C2 | Apple Scruffs |
+| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |
+| C4 | Awaiting On You All |
+| C5 | All Things Must Pass |
+| D1 | I Dig Love |
+| D2 | Art Of Dying |
+| D3 | Isn't It A Pity (Version Two) |
+| D4 | Hear Me Lord |
+| E1 | Out Of The Blue |
+| E2 | It's Johnny's Birthday |
+| E3 | Plug Me In |
+| F1 | I Remember Jeep |
+| F2 | Thanks For The Pepperoni |
+|  | Session Outtakes And Jams |
+| G1 | Isn't It A Pity - Take 14 |
+| G2 | Wah-Wah - Take 1 |
+| G3 | I'd Have You Anytime - Take 5 |
+| G4 | Art Of Dying - Take 1 |
+| H1 | Isn't It A Pity - Take 27 |
+| H2 | If Not For You - Take 2 |
+| H3 | Wedding Bells (Are Breaking Up That Old Gang Of Mine) - Take 1 |
+| H4 | What Is Life - Take 1 |
+| H5 | Beware Of Darkness - Take 8 |
+| I1 | Hear Me Lord - Take 5 |
+| I2 | Let It Down - Take 1 |
+| I3 | Run Of The Mill - Take 36 |
+| I4 | Down To The River (Rocking Chair Jam) - Take 1 |
+| J1 | Get Back - Take 1 |
+| J2 | Almost 12 Bar Honky Tonk - Take 1 |
+| J3 | It's Johnny's Birthday - Take 1 |
+| J4 | Woman Don't You Cry For Me - Take 5 |
 
 
 ## Apple Music
@@ -126,5 +126,5 @@ There’s a mystical power between every echoing line of <i>All Things Must Pass
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180g), Vinyl 2× LP Stereo (180g), Box Set Deluxe Edition |
 | Label          | Capitol Records |
 | Catalog Number | 0602435676012 |
-| Notes | Made in Czech Republic<br><br>Comes with a poster and an 8-page booklet.<br><br>[disc 1 inner sleeve]<br>A1*†<br>A2 to B1*<br>B2†<br>B3 to B5*<br>* All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br>† All lyrics copyright 1970 by Big Sky Music.<br><br>[disc 2 inner sleeve]<br>All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br><br>[disc 3 inner sleeve]<br>All tracks * except E2†<br>* Copyright for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br>† based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br><br>[disc 4 inner sleeve]<br>All songs written by George Harrison and published by Harrisongs Ltd. except "I'd Have You Anytime" written by George Harrison & Bob Dylan and published by Harrisongs Ltd. & Big Sky Music, and "If Not For You" written by Bob Dylan and published by Big Sky Music, and "Wedding Bells (Are Breaking Up That Old Gang Of Mine)" written by Willie Raskin, Sammy Fain & Irving Kahal and published by Cherio Corporation Kobalt OBO RYTVOC, Inc.<br>3567601 <br><br>[disc 5 inner sleeve]<br>All songs written by George Harrison and published by Harrisongs Ltd. except "Get Back" written by John Lennon & Paul McCartney and Published by Sony/ATV Music Publishing LLC, and "It's Johnny's Birthday" based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br>3567601<br><br>Runouts are all stamped |
+| Notes | Made in Czech Republic  Comes with a poster and an 8-page booklet.  [disc 1 inner sleeve] A1*† A2 to B1* B2† B3 to B5* * All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc. † All lyrics copyright 1970 by Big Sky Music.  [disc 2 inner sleeve] All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc.  [disc 3 inner sleeve] All tracks * except E2† * Copyright for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc. † based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.  [disc 4 inner sleeve] All songs written by George Harrison and published by Harrisongs Ltd. except "I'd Have You Anytime" written by George Harrison & Bob Dylan and published by Harrisongs Ltd. & Big Sky Music, and "If Not For You" written by Bob Dylan and published by Big Sky Music, and "Wedding Bells (Are Breaking Up That Old Gang Of Mine)" written by Willie Raskin, Sammy Fain & Irving Kahal and published by Cherio Corporation Kobalt OBO RYTVOC, Inc. 3567601   [disc 5 inner sleeve] All songs written by George Harrison and published by Harrisongs Ltd. except "Get Back" written by John Lennon & Paul McCartney and Published by Sony/ATV Music Publishing LLC, and "It's Johnny's Birthday" based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd. 3567601  Runouts are all stamped |
 | Discogs URL    | [George Harrison - All Things Must Pass (50th Anniversary)](https://www.discogs.com/release/19772260-George-Harrison-All-Things-Must-Pass-50th-Anniversary) |

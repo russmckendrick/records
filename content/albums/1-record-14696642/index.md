@@ -29,20 +29,20 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feel | 3:34 |
-| A2 | The Ballad Of El Goodo | 4:21 |
-| A3 | In The Street | 2:55 |
-| A4 | Thirteen | 2:34 |
-| A5 | Don't Lie To Me | 3:07 |
-| A6 | The India Song | 2:20 |
-| B1 | When My Baby's Beside Me | 3:23 |
-| B2 | My Life Is Right | 3:08 |
-| B3 | Give Me Another Chance | 3:27 |
-| B4 | Try Again | 3:31 |
-| B5 | Watch The Sunrise | 3:45 |
-| B6 | ST 100/6 | 1:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Feel |
+| A2 | The Ballad Of El Goodo |
+| A3 | In The Street |
+| A4 | Thirteen |
+| A5 | Don't Lie To Me |
+| A6 | The India Song |
+| B1 | When My Baby's Beside Me |
+| B2 | My Life Is Right |
+| B3 | Give Me Another Chance |
+| B4 | Try Again |
+| B5 | Watch The Sunrise |
+| B6 | ST 100/6 |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Ardent Records (2) |
 | Catalog Number | CR00211 |
-| Notes | Red, black, and white hype sticker from Craft Recordings<br>All-analog mastering<br>Comes with a plain white poly-lined inner<br><br>℗ 2019 & © 1972 Craft Recordings Made in USA.<br><br>Published By:<br>A1 to A5, B1, B3 to B6 -- East/Memphis BMI<br>A6, B2 -- Koala-Birdess ASCAP<br><br>Runout details:<br>Variant 1 -- Stamped vs etched state not specified<br>Variant 2 -- Stamped vs etched state not specified<br>Variant 3 -- Stamped vs etched state not specified<br>Variant 4 -- Stamped vs etched state not specified<br>Variant 5 -- Both sides are etched<br>Variant 6 -- Both sides are etched<br>Variant 7 -- Both sides are etched<br>Variant 8 -- Both sides are etched. |
+| Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched Variant 6 -- Both sides are etched Variant 7 -- Both sides are etched Variant 8 -- Both sides are etched. |
 | Discogs URL    | [Big Star - #1 Record](https://www.discogs.com/release/14696642-Big-Star-1-Record) |

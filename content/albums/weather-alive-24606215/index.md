@@ -36,16 +36,16 @@ Weather Alive is the eighth studio album by English singer-songwriter Beth Orton
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Weather Alive |  |
-| A2 | Friday Night |  |
-| A3 | Fractals |  |
-| A4 | Haunted Satellite |  |
-| B1 | Forever Young |  |
-| B2 | Lonely |  |
-| B3 | Arms Around A Memory |  |
-| B4 | Unwritten |  |
+| Position | Title |
+|----------|--------|
+| A1 | Weather Alive |
+| A2 | Friday Night |
+| A3 | Fractals |
+| A4 | Haunted Satellite |
+| B1 | Forever Young |
+| B2 | Lonely |
+| B3 | Arms Around A Memory |
+| B4 | Unwritten |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Weather Alive is the eighth studio album by English singer-songwriter Beth Orton
 | Format         | Vinyl LP Album Limited Edition (Transparent [Clear]) |
 | Label          | Partisan Records |
 | Catalog Number | PTKF3023-3 |
-| Notes | hype sticker with Catalog No. PTKF3023-3<br>Inner sleeve printed with Lyrics<br>Made in Germany<br>a limited number of copies were available with a signed print |
+| Notes | hype sticker with Catalog No. PTKF3023-3 Inner sleeve printed with Lyrics Made in Germany a limited number of copies were available with a signed print |
 | Discogs URL    | [Beth Orton - Weather Alive](https://www.discogs.com/release/24606215-Beth-Orton-Weather-Alive) |

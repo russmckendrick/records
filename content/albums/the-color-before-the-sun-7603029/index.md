@@ -33,30 +33,30 @@ The Color Before the Sun is the eighth studio album by American progressive rock
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Color Before The Sun |  |
-| A1 | Island |  |
-| A2 | Eraser |  |
-| A3 | Colors |  |
-| A4 | Here To Mars |  |
-| A5 | Ghost |  |
-| B1 | Atlas |  |
-| B2 | Young Love |  |
-| B3 | You Got Spirit, Kid |  |
-| B4 | The Audience |  |
-| B5 | Peace To The Mountain |  |
-|  | The Color Before The Sun |  |
-| CD-1 | Island | 5:02 |
-| CD-2 | Eraser | 3:53 |
-| CD-3 | Colors | 4:42 |
-| CD-4 | Here To Mars | 4:01 |
-| CD-5 | Ghost | 2:45 |
-| CD-6 | Atlas | 6:03 |
-| CD-7 | Young Love | 3:51 |
-| CD-8 | You Got Spirit, Kid | 4:11 |
-| CD-9 | The Audience | 6:11 |
-| CD-10 | Peace To The Mountain | 6:34 |
+| Position | Title |
+|----------|--------|
+|  | The Color Before The Sun |
+| A1 | Island |
+| A2 | Eraser |
+| A3 | Colors |
+| A4 | Here To Mars |
+| A5 | Ghost |
+| B1 | Atlas |
+| B2 | Young Love |
+| B3 | You Got Spirit, Kid |
+| B4 | The Audience |
+| B5 | Peace To The Mountain |
+|  | The Color Before The Sun |
+| CD-1 | Island |
+| CD-2 | Eraser |
+| CD-3 | Colors |
+| CD-4 | Here To Mars |
+| CD-5 | Ghost |
+| CD-6 | Atlas |
+| CD-7 | Young Love |
+| CD-8 | You Got Spirit, Kid |
+| CD-9 | The Audience |
+| CD-10 | Peace To The Mountain |
 
 
 ## Apple Music

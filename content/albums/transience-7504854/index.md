@@ -34,21 +34,21 @@ Transience is a compilation album released in 2015 by British musician and recor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Transience - Single Version | 3:10 |
-| A2 | Harmony Korine | 5:07 |
-| A3 | Postcard | 4:27 |
-| A4 | Significant Other | 4:31 |
-| A5 | Insurgentes | 3:54 |
-| B1 | The Pin Drop | 5:01 |
-| B2 | Happy Returns - Edit | 5:11 |
-| B3 | Deform To Form A Star - Edit | 5:53 |
-| B4 | Thank You | 4:39 |
-| C1 | Index | 4:47 |
-| C2 | Hand Cannot Erase | 4:13 |
-| C3 | Lazarus - 2015 Recording | 3:57 |
-| C4 | Drive Home | 7:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Transience - Single Version |
+| A2 | Harmony Korine |
+| A3 | Postcard |
+| A4 | Significant Other |
+| A5 | Insurgentes |
+| B1 | The Pin Drop |
+| B2 | Happy Returns - Edit |
+| B3 | Deform To Form A Star - Edit |
+| B4 | Thank You |
+| C1 | Index |
+| C2 | Hand Cannot Erase |
+| C3 | Lazarus - 2015 Recording |
+| C4 | Drive Home |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Transience is a compilation album released in 2015 by British musician and recor
 | Format         | Vinyl LP (180g), Vinyl LP Single Sided Etched (180g), All Media Compilation Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE904 |
-| Notes | "Harmony Korine", "Significant Other" and "Insurgentes" taken from "Insurgentes" (2008)<br>"Postcard", "Deform to Form a Star" and "Index" taken drom "Grace For Drowning" (2011)<br>"The Pin Drop" and "Drive Home" taken from "The Raven That Refused to Sing" (2013)<br>"Transience", "Happy Returns" and "Hand Cannot Erase" taken from "Hand. Cannot. Erase." (2015)<br>"Thank You" taken from "Cover Version" compilation (originally recorded and released as a single in 2003)<br>"Lazarus" backing track recorded on tour in March 2015, final studio overdubs and mix July 2015<br><br>Side D features an etching of the original handwritten lyric sketches for "Happy Returns".<br><br>[From hype sticker:]<br>2LP 180g Vinyl in Gatefold with Etching<br>Songs recorded between 2003-2015: an introduction to the more accessible side of the four time Grammy nominee Steven Wilson.<br>Includes 3 exclusive edits, plus a 2015 re-recording of "Lazarus".<br>kscope 904 kscopemusic.com/sw<br><br>[2nd sticker:]<br>Digital Download Code Inside <br>180g Heavyweight Vinyl<br><br>Limited edition of 2000 copies.<br>Digital download: [r=9295476]<br><br>Release date for central Europe:  2015-10-02<br><br>℗ 2015 Steven Wilson © 2015 Steven Wilson.<br>Made in Germany<br><br>Design [...] for Aleph |
+| Notes | "Harmony Korine", "Significant Other" and "Insurgentes" taken from "Insurgentes" (2008) "Postcard", "Deform to Form a Star" and "Index" taken drom "Grace For Drowning" (2011) "The Pin Drop" and "Drive Home" taken from "The Raven That Refused to Sing" (2013) "Transience", "Happy Returns" and "Hand Cannot Erase" taken from "Hand. Cannot. Erase." (2015) "Thank You" taken from "Cover Version" compilation (originally recorded and released as a single in 2003) "Lazarus" backing track recorded on tour in March 2015, final studio overdubs and mix July 2015  Side D features an etching of the original handwritten lyric sketches for "Happy Returns".  [From hype sticker:] 2LP 180g Vinyl in Gatefold with Etching Songs recorded between 2003-2015: an introduction to the more accessible side of the four time Grammy nominee Steven Wilson. Includes 3 exclusive edits, plus a 2015 re-recording of "Lazarus". kscope 904 kscopemusic.com/sw  [2nd sticker:] Digital Download Code Inside  180g Heavyweight Vinyl  Limited edition of 2000 copies. Digital download: [r=9295476]  Release date for central Europe:  2015-10-02  ℗ 2015 Steven Wilson © 2015 Steven Wilson. Made in Germany  Design [...] for Aleph |
 | Discogs URL    | [Steven Wilson - Transience](https://www.discogs.com/release/7504854-Steven-Wilson-Transience) |

@@ -53,20 +53,20 @@ styles: ["Art Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Panopticom | 5:16 |
-| A2 | Playing For Time | 6:17 |
-| A3 | The Court | 4:21 |
-| B1 | Four Kinds Of Horses | 6:47 |
-| B2 | I/O | 3:52 |
-| B3 | Love Can Heal | 5:59 |
-| C1 | Road To Joy | 5:21 |
-| C2 | So Much | 4:51 |
-| C3 | Olive Tree | 5:58 |
-| D1 | This Is Home | 5:04 |
-| D2 | And Still | 7:42 |
-| D3 | Live And Let Live | 7:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Panopticom |
+| A2 | Playing For Time |
+| A3 | The Court |
+| B1 | Four Kinds Of Horses |
+| B2 | I/O |
+| B3 | Love Can Heal |
+| C1 | Road To Joy |
+| C2 | So Much |
+| C3 | Olive Tree |
+| D1 | This Is Home |
+| D2 | And Still |
+| D3 | Live And Let Live |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ styles: ["Art Rock", "Pop Rock"]
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Real World Records |
 | Catalog Number | PGLPX21 |
-| Notes | Comes with a blue OBI strip, a 12'' booklet and a card with a download code. <br><br>Runouts are all etched besides the hyphens and the Pallas cat# which are stamped.<br><br>Cover sleeves have blue coloring on inside.  Inner record sleeves are poly-lined black white paper<br><br>Made In Germany sticker affixed to shrink wrap on back cover.  |
+| Notes | Comes with a blue OBI strip, a 12'' booklet and a card with a download code.   Runouts are all etched besides the hyphens and the Pallas cat# which are stamped.  Cover sleeves have blue coloring on inside.  Inner record sleeves are poly-lined black white paper  Made In Germany sticker affixed to shrink wrap on back cover.  |
 | Discogs URL    | [Peter Gabriel - I/O (Dark-Side Mixes)](https://www.discogs.com/release/29077516-Peter-Gabriel-IO-Dark-Side-Mixes) |

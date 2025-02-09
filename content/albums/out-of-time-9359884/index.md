@@ -33,21 +33,21 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Time Side |  |
-| A1 | Radio Song | 4:12 |
-| A2 | Losing My Religion | 4:26 |
-| A3 | Low | 4:55 |
-| A4 | Near Wild Heaven | 3:17 |
-| A5 | Endgame | 3:48 |
-|  | Memory Side |  |
-| B1 | Shiny Happy People | 3:44 |
-| B2 | Belong | 4:03 |
-| B3 | Half A World Away | 3:26 |
-| B4 | Texarkana | 3:36 |
-| B5 | Country Feedback | 4:07 |
-| B6 | Me In Honey | 4:06 |
+| Position | Title |
+|----------|--------|
+|  | Time Side |
+| A1 | Radio Song |
+| A2 | Losing My Religion |
+| A3 | Low |
+| A4 | Near Wild Heaven |
+| A5 | Endgame |
+|  | Memory Side |
+| B1 | Shiny Happy People |
+| B2 | Belong |
+| B3 | Half A World Away |
+| B4 | Texarkana |
+| B5 | Country Feedback |
+| B6 | Me In Honey |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 | Format         | Vinyl LP Album Reissue Remastered (180g, 25th Anniversary Edition) |
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072004405 |
-| Notes | 25th Anniversary Edition:<br>-Remastered From Original Analog Masters<br>-180-Gram Vinyl<br>-Includes Digital Download Card<br><br>Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.<br><br>In the runouts, [l313190] geometrical symbols like "2=△" are mirrored. |
+| Notes | 25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.  In the runouts, [l313190] geometrical symbols like "2=△" are mirrored. |
 | Discogs URL    | [REM - Out Of Time](https://www.discogs.com/release/9359884-REM-Out-Of-Time) |

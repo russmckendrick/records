@@ -32,22 +32,22 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rebel Rebel | 2:46 |
-| A2 | Life On Mars? | 3:29 |
-| A3 | Starman | 3:16 |
-| A4 | Ziggy Stardust | 3:41 |
-| B1 | Lady Stardust | 3:31 |
-| B2 | Changes | 3:40 |
-| B3 | Oh! You Pretty Things | 3:32 |
-| B4 | Rock N' Roll Suicide | 3:10 |
-| C1 | Suffragette City | 3:10 |
-| C2 | Five Years | 3:59 |
-| C3 | Queen Bitch | 3:42 |
-| D1 | When I Live My Dream | 2:55 |
-| D2 | Quicksand | 4:35 |
-| D3 | Team Zissou |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rebel Rebel |
+| A2 | Life On Mars? |
+| A3 | Starman |
+| A4 | Ziggy Stardust |
+| B1 | Lady Stardust |
+| B2 | Changes |
+| B3 | Oh! You Pretty Things |
+| B4 | Rock N' Roll Suicide |
+| C1 | Suffragette City |
+| C2 | Five Years |
+| C3 | Queen Bitch |
+| D1 | When I Live My Dream |
+| D2 | Quicksand |
+| D3 | Team Zissou |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Unofficial Release Stereo (Clear) |
 | Label          | Hollywood Records (5) |
 | Catalog Number | SEUJORGE001 |
-| Notes | Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies!<br>All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005<br>Printed on labels:<br>"Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263] |
+| Notes | Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies! All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005 Printed on labels: "Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263] |
 | Discogs URL    | [Seu Jorge - The Life Aquatic Studio Sessions](https://www.discogs.com/release/6242963-Seu-Jorge-The-Life-Aquatic-Studio-Sessions) |

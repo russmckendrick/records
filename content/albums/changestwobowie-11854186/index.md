@@ -37,18 +37,18 @@ Changestwobowie was reissued in its original form by Rhino, on vinyl, CD, and di
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Aladdin Sane (1913-1938-197?)  |  |
-| A2 | Oh! You Pretty Things |  |
-| A3 | Starman |  |
-| A4 | 1984 |  |
-| A5 | Ashes To Ashes |  |
-| B1 | Sound And Vision |  |
-| B2 | Fashion |  |
-| B3 | Wild Is The Wind |  |
-| B4 | John I'm Only Dancing (Again) 1975 |  |
-| B5 | D.J. |  |
+| Position | Title |
+|----------|--------|
+| A1 | Aladdin Sane (1913-1938-197?)  |
+| A2 | Oh! You Pretty Things |
+| A3 | Starman |
+| A4 | 1984 |
+| A5 | Ashes To Ashes |
+| B1 | Sound And Vision |
+| B2 | Fashion |
+| B3 | Wild Is The Wind |
+| B4 | John I'm Only Dancing (Again) 1975 |
+| B5 | D.J. |
 
 
 ## Apple Music

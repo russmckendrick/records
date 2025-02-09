@@ -55,46 +55,46 @@ The Aeroplane Flies High is a five-disc box set released by American alternative
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Bullet With Butterfly Wings |  |
-| A1 | Bullet With Butterfly Wings | 4:16 |
-| A2 | ...Said Sadly | 3:09 |
-| A3 | You're All I've Got Tonight | 3:10 |
-| A4 | Clones (We're All) | 2:43 |
-| B1 | A Night Like This | 3:36 |
-| B2 | Destination Unknown | 4:14 |
-| B3 | Dreaming | 5:11 |
-|  | 1979 |  |
-| C1 | 1979 | 4:28 |
-| C2 | Ugly | 2:52 |
-| C3 | The Boy | 3:04 |
-| D1 | Cherry | 4:02 |
-| D2 | Believe | 3:15 |
-| D3 | Set The Ray To Jerry | 4:10 |
-|  | Zero |  |
-| E1 | Zero | 2:39 |
-| E2 | God | 3:09 |
-| E3 | Mouths Of Babes | 3:46 |
-| E4 | Tribute To Johnny | 2:34 |
-| E5 | Marquis In Spades | 3:17 |
-| E6 | Pennies | 2:28 |
-| F1 | Pastichio Medley (Early Fade Version) | 17:10 |
-|  | Tonight, Tonight |  |
-| G1 | Tonight, Tonight | 4:15 |
-| G2 | Meladori Magpie | 2:41 |
-| G3 | Rotten Apples | 3:02 |
-| H1 | Jupiter's Lament | 2:30 |
-| H2 | Medellia Of The Gray Skies | 3:11 |
-| H3 | Blank | 2:54 |
-| H4 | Tonite Reprise | 2:40 |
-|  | Thirty-Three |  |
-| I1 | Thirty-Three | 4:10 |
-| I2 | The Last Song | 3:55 |
-| I3 | The Aeroplane Flies High (Turns Left, Looks Right) | 8:31 |
-| J1 | Transformer | 3:25 |
-| J2 | The Bells | 2:17 |
-| J3 | My Blue Heaven | 3:20 |
+| Position | Title |
+|----------|--------|
+|  | Bullet With Butterfly Wings |
+| A1 | Bullet With Butterfly Wings |
+| A2 | ...Said Sadly |
+| A3 | You're All I've Got Tonight |
+| A4 | Clones (We're All) |
+| B1 | A Night Like This |
+| B2 | Destination Unknown |
+| B3 | Dreaming |
+|  | 1979 |
+| C1 | 1979 |
+| C2 | Ugly |
+| C3 | The Boy |
+| D1 | Cherry |
+| D2 | Believe |
+| D3 | Set The Ray To Jerry |
+|  | Zero |
+| E1 | Zero |
+| E2 | God |
+| E3 | Mouths Of Babes |
+| E4 | Tribute To Johnny |
+| E5 | Marquis In Spades |
+| E6 | Pennies |
+| F1 | Pastichio Medley (Early Fade Version) |
+|  | Tonight, Tonight |
+| G1 | Tonight, Tonight |
+| G2 | Meladori Magpie |
+| G3 | Rotten Apples |
+| H1 | Jupiter's Lament |
+| H2 | Medellia Of The Gray Skies |
+| H3 | Blank |
+| H4 | Tonite Reprise |
+|  | Thirty-Three |
+| I1 | Thirty-Three |
+| I2 | The Last Song |
+| I3 | The Aeroplane Flies High (Turns Left, Looks Right) |
+| J1 | Transformer |
+| J2 | The Bells |
+| J3 | My Blue Heaven |
 
 
 ## Apple Music
@@ -112,5 +112,5 @@ The Aeroplane Flies High is a five-disc box set released by American alternative
 | Format         | Box Set Compilation, Vinyl 5× 12" Maxi-Single Reissue Remastered |
 | Label          | Virgin |
 | Catalog Number | B0018550-01 |
-| Notes | "the end of what we had to offer, everything that followed the pieces of one without the other." - billy corgan<br><br>A1, I1 - Recorded at Pumpkinland and Chicago Recording Company.<br>A2 - Mixed at The Chicago Recording Company.<br>A3, A4, B2, B3 - Recorded at Soundworks Studios, Chicago.  Additional Recording on B3 at Farmer Brown's Studio.<br>B1 - Recorded at Bugg Studios, Chicago.<br>C1, I1 - Mixed at The Village Recorder.<br>C2 to D3, - Mixed at Soundworks Recording Studios.<br>C1 to D3 - Recorded at Pumpkinland, Chicago Recording Company and Soundworks Recording Studios.<br>G1, H4 - Recorded at CRC.<br>G2 to H1, H3 - Recorded at Sadland.<br>H2 - Recorded at Soundworks.<br>I2 to J1 - Recorded at Charing Cross Studios, Sydney, and Soundworks Recording Studios, Chicago.<br>J2 - Recorded at Bugg Studios, Chicago and The Place, NYC.<br>J3 - Recorded at Soundworks Recording Studios, Chicago.<br>I2 to J3 - Mixed at Chung King, NYC.<br><br>"The Pastichio Medley is from a variety of sources recorded during completion of Mellon Collie And The Infinite Sadness.  The LP version has been faded out earlier than the original version in order to fit the vinyl format." |
+| Notes | "the end of what we had to offer, everything that followed the pieces of one without the other." - billy corgan  A1, I1 - Recorded at Pumpkinland and Chicago Recording Company. A2 - Mixed at The Chicago Recording Company. A3, A4, B2, B3 - Recorded at Soundworks Studios, Chicago.  Additional Recording on B3 at Farmer Brown's Studio. B1 - Recorded at Bugg Studios, Chicago. C1, I1 - Mixed at The Village Recorder. C2 to D3, - Mixed at Soundworks Recording Studios. C1 to D3 - Recorded at Pumpkinland, Chicago Recording Company and Soundworks Recording Studios. G1, H4 - Recorded at CRC. G2 to H1, H3 - Recorded at Sadland. H2 - Recorded at Soundworks. I2 to J1 - Recorded at Charing Cross Studios, Sydney, and Soundworks Recording Studios, Chicago. J2 - Recorded at Bugg Studios, Chicago and The Place, NYC. J3 - Recorded at Soundworks Recording Studios, Chicago. I2 to J3 - Mixed at Chung King, NYC.  "The Pastichio Medley is from a variety of sources recorded during completion of Mellon Collie And The Infinite Sadness.  The LP version has been faded out earlier than the original version in order to fit the vinyl format." |
 | Discogs URL    | [The Smashing Pumpkins - The Aeroplane Flies High](https://www.discogs.com/release/4760393-The-Smashing-Pumpkins-The-Aeroplane-Flies-High) |

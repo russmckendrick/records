@@ -67,20 +67,20 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Cosmos Is Mine | 5:14 |
-| A2 | Wagging Tongue | 3:24 |
-| A3 | Ghosts Again | 3:56 |
-| A4 | Don't Say You Love Me | 3:47 |
-| B1 | My Favourite Stranger | 3:54 |
-| B2 | Soul With Me | 4:12 |
-| B3 | Caroline's Monkey | 4:16 |
-| B4 | Before We Drown | 4:02 |
-| C1 | People Are Good | 4:21 |
-| C2 | Always You | 4:18 |
-| C3 | Never Let Me Go | 3:59 |
-| C4 | Speak To Me | 4:33 |
+| Position | Title |
+|----------|--------|
+| A1 | My Cosmos Is Mine |
+| A2 | Wagging Tongue |
+| A3 | Ghosts Again |
+| A4 | Don't Say You Love Me |
+| B1 | My Favourite Stranger |
+| B2 | Soul With Me |
+| B3 | Caroline's Monkey |
+| B4 | Before We Drown |
+| C1 | People Are Good |
+| C2 | Always You |
+| C3 | Never Let Me Go |
+| C4 | Speak To Me |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 | Format         | Vinyl LP Stereo (Red Opaque, 180g), Vinyl LP Single Sided Etched Stereo (Red Opaque, 180g), All Media Album Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19658792641 |
-| Notes | © & ℗ 2023 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment.<br>Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany<br>Sony Music UK, 2 Canal Reach, Kings Cross, London, N1C 4DB, United Kingdom.<br>Made in the EU.<br><br>[Publishing]:<br>Tracks A1, B2, C1 to C3<br>© 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS)<br>Track A2<br>© 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc., Grabbing Hands Music Ltd., and EMI Music Publishing Ltd. (PRS)<br>Tracks A3 to B1, B3<br>© 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) / Universal - Songs of PolyGram Int., Inc. (BMI)<br>Track B4<br>© 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS)<br>Track C4<br>© 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) / WC Music Corp. (ASCAP) on behalf of Warner/Chappell Music Ltd. (PRS) / Marta Salogni Publishing Designee.<br><br>Recorded at Electric Ladyboy (Santa Barbara, CA) and Shangri-La (Malibu, CA)<br>Shangri-La Studio Assistant: Gregg White<br>Mixed at Studio Zona (London)<br>Mastered at Metropolis Studios (London)<br>Additional vocal recording at Blanco Studio (New York, NY)<br>Design assistance for Antonymous BV<br><br>[On inner jacket]<br>Andrew John Fletcher<br>1961 - 2022<br>'in our hearts and minds'<br>dave & martin<br><br>[On hype sticker]<br>Depeche Mode<br>New album<br>Memento Mori<br>2x 180g vinyl<br>Limited Edition<br>Opaque red vinyl<br>19658792641<br><br>Side D is etched with a floral arrangement and "est vere malus".<br><br>In runouts GZ Media and Memphis Records Pressing identifiers are stamped, the rest is etched.<br><br>Track times not given on release.<br><br>Comes in a trifold embossed sleeve with a poster.<br>Some copies show both some transparency and translucency |
+| Notes | © & ℗ 2023 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany Sony Music UK, 2 Canal Reach, Kings Cross, London, N1C 4DB, United Kingdom. Made in the EU.  [Publishing]: Tracks A1, B2, C1 to C3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) Track A2 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc., Grabbing Hands Music Ltd., and EMI Music Publishing Ltd. (PRS) Tracks A3 to B1, B3 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of Grabbing Hands Music Ltd. and EMI Music Publishing Ltd. (PRS) / Universal - Songs of PolyGram Int., Inc. (BMI) Track B4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) Track C4 © 2022 EMI Blackwood Music Inc. (BMI) on behalf of JJSR Productions Inc. (PRS) / Reservoir 416 (BMI) published by Reservoir Media Management, Inc. (PRS) / WC Music Corp. (ASCAP) on behalf of Warner/Chappell Music Ltd. (PRS) / Marta Salogni Publishing Designee.  Recorded at Electric Ladyboy (Santa Barbara, CA) and Shangri-La (Malibu, CA) Shangri-La Studio Assistant: Gregg White Mixed at Studio Zona (London) Mastered at Metropolis Studios (London) Additional vocal recording at Blanco Studio (New York, NY) Design assistance for Antonymous BV  [On inner jacket] Andrew John Fletcher 1961 - 2022 'in our hearts and minds' dave & martin  [On hype sticker] Depeche Mode New album Memento Mori 2x 180g vinyl Limited Edition Opaque red vinyl 19658792641  Side D is etched with a floral arrangement and "est vere malus".  In runouts GZ Media and Memphis Records Pressing identifiers are stamped, the rest is etched.  Track times not given on release.  Comes in a trifold embossed sleeve with a poster. Some copies show both some transparency and translucency |
 | Discogs URL    | [Depeche Mode - Memento Mori](https://www.discogs.com/release/26515907-Depeche-Mode-Memento-Mori) |

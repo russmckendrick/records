@@ -46,32 +46,32 @@ A coral island is a type of island formed from coral detritus and associated org
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Part 1 - Welcome To Coral Island |  |
-| A2 | Lover Undiscovered |  |
-| A3 | Change Your Mind |  |
-| A4 | Mist On The River |  |
-| A5 | Pavillions Of The Mind |  |
-| A6 | Vacancy |  |
-| B1 | My Best Friend |  |
-| B2 | Arcade Hallucinations |  |
-| B3 | The Game She Plays |  |
-| B4 | Autumn Has Come |  |
-| B5 | End Of The Pier |  |
-| C1 | The Ghost Of Coral Island |  |
-| C2 | Golden Age |  |
-| C3 | Faceless Angel |  |
-| C4 | The Great Lafayette |  |
-| C5 | Strange Illusions |  |
-| C6 | Take Me Back To The Summertime |  |
-| D1 | Telepathic Waltz |  |
-| D2 | Old Photographs |  |
-| D3 | Watch You Disappear |  |
-| D4 | Late Night At The Borders |  |
-| D5 | Land Of The Lost |  |
-| D6 | The Calico Girl |  |
-| D7 | The Last Entertainer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Part 1 - Welcome To Coral Island |
+| A2 | Lover Undiscovered |
+| A3 | Change Your Mind |
+| A4 | Mist On The River |
+| A5 | Pavillions Of The Mind |
+| A6 | Vacancy |
+| B1 | My Best Friend |
+| B2 | Arcade Hallucinations |
+| B3 | The Game She Plays |
+| B4 | Autumn Has Come |
+| B5 | End Of The Pier |
+| C1 | The Ghost Of Coral Island |
+| C2 | Golden Age |
+| C3 | Faceless Angel |
+| C4 | The Great Lafayette |
+| C5 | Strange Illusions |
+| C6 | Take Me Back To The Summertime |
+| D1 | Telepathic Waltz |
+| D2 | Old Photographs |
+| D3 | Watch You Disappear |
+| D4 | Late Night At The Borders |
+| D5 | Land Of The Lost |
+| D6 | The Calico Girl |
+| D7 | The Last Entertainer |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ A coral island is a type of island formed from coral detritus and associated org
 | Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
 | Label          | Modern Sky UK |
 | Catalog Number | RO-001-LP |
-| Notes | Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.<br><br>Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour:<br>• Indie Record Store; marketed as 'exclusive colour'.<br>• recordstore.co.uk; sold with limited edition print signed by all five band members.<br>• Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members. |
+| Notes | Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members. |
 | Discogs URL    | [The Coral - Coral Island](https://www.discogs.com/release/18531073-The-Coral-Coral-Island) |

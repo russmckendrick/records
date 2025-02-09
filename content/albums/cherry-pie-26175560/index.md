@@ -30,20 +30,20 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cherry Pie | 3:20 |
-| A2 | Uncle Tom's Cabin | 4:01 |
-| A3 | I Saw Red | 3:46 |
-| A4 | Bed Of Roses | 4:04 |
-| A5 | Sure Feels Good To Me | 2:39 |
-| B1 | Love In Stereo | 3:06 |
-| B2 | Blind Faith | 3:33 |
-| B3 | Song And Dance Man | 2:58 |
-| B4 | You're The Only Hell Your Mama Ever Raised | 3:34 |
-| B5 | Mr. Rainmaker | 3:29 |
-| B6 | Train, Train | 2:49 |
-| B7 | Ode To Tipper Gore | 0:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Cherry Pie |
+| A2 | Uncle Tom's Cabin |
+| A3 | I Saw Red |
+| A4 | Bed Of Roses |
+| A5 | Sure Feels Good To Me |
+| B1 | Love In Stereo |
+| B2 | Blind Faith |
+| B3 | Song And Dance Man |
+| B4 | You're The Only Hell Your Mama Ever Raised |
+| B5 | Mr. Rainmaker |
+| B6 | Train, Train |
+| B7 | Ode To Tipper Gore |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3112 |
-| Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl<br><br>Distribution cat # MOVLPC3112 |
+| Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112 |
 | Discogs URL    | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |

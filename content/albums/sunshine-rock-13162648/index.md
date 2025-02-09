@@ -32,20 +32,20 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sunshine Rock | 3:09 |
-| A2 | What Do You Want Me To Do | 2:31 |
-| A3 | Sunny Love Song | 3:01 |
-| A4 | Thirty Dozen Roses | 2:53 |
-| A5 | The Final Years | 3:25 |
-| A6 | Irrational Poison | 2:52 |
-| B1 | I Fought | 2:36 |
-| B2 | Sin King | 3:54 |
-| B3 | Lost Faith | 3:21 |
-| B4 | Camp Sunshine | 3:04 |
-| B5 | Send Me A Postcard  | 2:35 |
-| B6 | Western Sunset | 3:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Sunshine Rock |
+| A2 | What Do You Want Me To Do |
+| A3 | Sunny Love Song |
+| A4 | Thirty Dozen Roses |
+| A5 | The Final Years |
+| A6 | Irrational Poison |
+| B1 | I Fought |
+| B2 | Sin King |
+| B3 | Lost Faith |
+| B4 | Camp Sunshine |
+| B5 | Send Me A Postcard  |
+| B6 | Western Sunset |
 
 
 ## Apple Music

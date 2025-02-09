@@ -34,22 +34,22 @@ The group re-formed in 1993, and continued to perform and record with varying li
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Message To You Rudy |  |
-| A2 | Do The Dog |  |
-| A3 | It's Up To You |  |
-| A4 | Nite Klub |  |
-| A5 | Doesn't Make It Alright |  |
-| A6 | Concrete Jungle |  |
-| A7 | Too Hot |  |
-| B1 | Monkey Man |  |
-| B2 | (Dawning Of A) New Era |  |
-| B3 | Blank Expression |  |
-| B4 | Stupid Marriage |  |
-| B5 | Too Much Too Young |  |
-| B6 | Little Bitch |  |
-| B7 | You're Wondering Now |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Message To You Rudy |
+| A2 | Do The Dog |
+| A3 | It's Up To You |
+| A4 | Nite Klub |
+| A5 | Doesn't Make It Alright |
+| A6 | Concrete Jungle |
+| A7 | Too Hot |
+| B1 | Monkey Man |
+| B2 | (Dawning Of A) New Era |
+| B3 | Blank Expression |
+| B4 | Stupid Marriage |
+| B5 | Too Much Too Young |
+| B6 | Little Bitch |
+| B7 | You're Wondering Now |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The group re-formed in 1993, and continued to perform and record with varying li
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTX 5001 |
-| Notes | Consolidation by Trigger<br><br>Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd.<br>© 2014 Chrysalis Records Ltd.<br>A Warner Music Group Company<br> |
+| Notes | Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company  |
 | Discogs URL    | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |

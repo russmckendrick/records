@@ -42,20 +42,20 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seasons |  |
-| A2 | I Regret |  |
-| A3 | Lost At 22 |  |
-| A4 | Other Side Of The River |  |
-| A5 | Let's Pretend |  |
-| A6 | Ugly |  |
-| B1 | Drained |  |
-| B2 | How It Would Be |  |
-| B3 | Unstable |  |
-| B4 | Damned If I Do |  |
-| B5 | Fears |  |
-| B6 | Don't You (Forget About Me) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Seasons |
+| A2 | I Regret |
+| A3 | Lost At 22 |
+| A4 | Other Side Of The River |
+| A5 | Let's Pretend |
+| A6 | Ugly |
+| B1 | Drained |
+| B2 | How It Would Be |
+| B3 | Unstable |
+| B4 | Damned If I Do |
+| B5 | Fears |
+| B6 | Don't You (Forget About Me) |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2003 |
-| Notes | Limited edition of 1,500 individually numbered copies. Includes insert.<br><br>Made in the EU. |
+| Notes | Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU. |
 | Discogs URL    | [Life Of Agony - Ugly](https://www.discogs.com/release/11152363-Life-Of-Agony-Ugly) |

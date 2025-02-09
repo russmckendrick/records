@@ -26,17 +26,17 @@ styles: ["Prog Rock", "Jazz-Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hurricane Esmeralda | 3:20 |
-| A2 | Helium I | 2:16 |
-| A3 | Helium II | 1:24 |
-| A4 | Winter Mountain | 5:20 |
-| A5 | White Light | 5:00 |
-| B1 | Michelangelo Don't Stop | 6:51 |
-| B2 | The Strength Of A Thousand Year Rose | 4:23 |
-| B3 | Reverend Mum | 4:06 |
-| B4 | Leon's Experiment | 7:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Hurricane Esmeralda |
+| A2 | Helium I |
+| A3 | Helium II |
+| A4 | Winter Mountain |
+| A5 | White Light |
+| B1 | Michelangelo Don't Stop |
+| B2 | The Strength Of A Thousand Year Rose |
+| B3 | Reverend Mum |
+| B4 | Leon's Experiment |
 
 
 ## Apple Music

@@ -28,16 +28,16 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Night Terrors (Saint Etienne Remix) | 4:15 |
-| A2 | Middle Of The East | 3:39 |
-| A3 | Angi | 2:48 |
-| A4 | Lord Above (Matt Berry Meets Thomas Walsh) | 3:30 |
-| B1 | Any Colour You Like | 3:25 |
-| B2 | Mr Green Genes | 2:58 |
-| B3 | Hey Little Girl | 3:48 |
-| B4 | Night Terrors (Clark Remix) | 6:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Night Terrors (Saint Etienne Remix) |
+| A2 | Middle Of The East |
+| A3 | Angi |
+| A4 | Lord Above (Matt Berry Meets Thomas Walsh) |
+| B1 | Any Colour You Like |
+| B2 | Mr Green Genes |
+| B3 | Hey Little Girl |
+| B4 | Night Terrors (Clark Remix) |
 
 
 ## Apple Music

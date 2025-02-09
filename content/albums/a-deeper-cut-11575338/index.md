@@ -33,20 +33,20 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Caught In The Middle |  |
-| A2 | Built-In Forgetter |  |
-| A3 | Love And Devotion |  |
-| A4 | A Deeper Cut |  |
-| A6 | Backwater Zoo |  |
-| A7 | Another Spiral |  |
-| B1 | Beast Nation |  |
-| B2 | The Way It Was And The Way It Is Now |  |
-| B3 | Higher Than The Sun |  |
-| B4 | Children |  |
-| B5 | There's Still Time |  |
-| B6 | The Wonders We've Seen |  |
+| Position | Title |
+|----------|--------|
+| A1 | Caught In The Middle |
+| A2 | Built-In Forgetter |
+| A3 | Love And Devotion |
+| A4 | A Deeper Cut |
+| A6 | Backwater Zoo |
+| A7 | Another Spiral |
+| B1 | Beast Nation |
+| B2 | The Way It Was And The Way It Is Now |
+| B3 | Higher Than The Sun |
+| B4 | Children |
+| B5 | There's Still Time |
+| B6 | The Wonders We've Seen |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 | Format         | Vinyl LP Album Limited Edition (Orange, Gatefold) |
 | Label          | Earache |
 | Catalog Number | MOSH606LP |
-| Notes | Came with glossy 4 pages booklet with lyrics and credits.<br>Limited to 1000 copies for the indie stores.<br>Label code only on lower right on back cover. |
+| Notes | Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover. |
 | Discogs URL    | [The Temperance Movement - A Deeper Cut](https://www.discogs.com/release/11575338-The-Temperance-Movement-A-Deeper-Cut) |

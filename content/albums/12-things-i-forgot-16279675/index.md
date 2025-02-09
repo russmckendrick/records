@@ -27,11 +27,11 @@ For their second album, Chicago shortened their name (from Chicago Transit Autho
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 12 Things I Forgot | 4:43 |
-| A2 | Move Like A Fever | 6:15 |
-| B | King Ghost (Tangerine Dream Remix) | 9:22 |
+| Position | Title |
+|----------|--------|
+| A1 | 12 Things I Forgot |
+| A2 | Move Like A Fever |
+| B | King Ghost (Tangerine Dream Remix) |
 
 
 ## Apple Music

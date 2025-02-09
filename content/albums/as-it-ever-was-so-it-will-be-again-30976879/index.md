@@ -33,21 +33,21 @@ At first glance, Colin Meloy and co. are doing a lot across the ample framework 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burial Ground | 4:04 |
-| A2 | Oh No! | 5:04 |
-| A3 | The Reapers | 4:41 |
-| A4 | Long White Veil | 3:49 |
-| B1 | William Fitzwilliam | 3:35 |
-| B2 | Don't Go To The Woods | 3:57 |
-| B3 | The Black Maria | 3:50 |
-| B4 | All I Want Is You | 2:38 |
-| C1 | Born To The Morning | 3:24 |
-| C2 | America Made Me | 5:20 |
-| C3 | Tell Me What's On Your Mind | 3:57 |
-| C4 | Never Satisfied | 4:01 |
-| D1 | Joan In The Garden | 19:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Burial Ground |
+| A2 | Oh No! |
+| A3 | The Reapers |
+| A4 | Long White Veil |
+| B1 | William Fitzwilliam |
+| B2 | Don't Go To The Woods |
+| B3 | The Black Maria |
+| B4 | All I Want Is You |
+| C1 | Born To The Morning |
+| C2 | America Made Me |
+| C3 | Tell Me What's On Your Mind |
+| C4 | Never Satisfied |
+| D1 | Joan In The Garden |
 
 
 ## Apple Music

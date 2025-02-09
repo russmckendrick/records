@@ -37,24 +37,24 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Bloody & Violent History |  |
-| A2 | Mud, Blood, & Gold |  |
-| A3 | Devil In Disguise |  |
-| A4 | New American |  |
-| A5 | Tomorrow Never Comes |  |
-| A6 | Don't Make Me Do It |  |
-| A7 | It's A Road To Righteousness |  |
-| A8 | Live Forever |  |
-| B1 | Drop Dead Inn |  |
-| B2 | Prisoners Song |  |
-| B3 | Magnificent Rogue |  |
-| B4 | One Way Ticket |  |
-| B5 | Hellbound Train |  |
-| B6 | Eddie The Butcher |  |
-| B7 | Hear Us Out |  |
-| B8 | When The Smoke Clears |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Bloody & Violent History |
+| A2 | Mud, Blood, & Gold |
+| A3 | Devil In Disguise |
+| A4 | New American |
+| A5 | Tomorrow Never Comes |
+| A6 | Don't Make Me Do It |
+| A7 | It's A Road To Righteousness |
+| A8 | Live Forever |
+| B1 | Drop Dead Inn |
+| B2 | Prisoners Song |
+| B3 | Magnificent Rogue |
+| B4 | One Way Ticket |
+| B5 | Hellbound Train |
+| B6 | Eddie The Butcher |
+| B7 | Hear Us Out |
+| B8 | When The Smoke Clears |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 | Format         | Vinyl LP 45 RPM Album Limited Edition (Eco-Mix) |
 | Label          | Hellcat Records |
 | Catalog Number | 87773-1 |
-| Notes | Limited Edition Eco-Mix.<br>A limited edition unique and random vinyl color. <br>Comes with printed inner sleeve and huge poster.<br> |
+| Notes | Limited Edition Eco-Mix. A limited edition unique and random vinyl color.  Comes with printed inner sleeve and huge poster.  |
 | Discogs URL    | [Rancid - Tomorrow Never Comes](https://www.discogs.com/release/27265383-Rancid-Tomorrow-Never-Comes) |

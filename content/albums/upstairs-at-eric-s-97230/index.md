@@ -33,19 +33,19 @@ Against the group's wishes, "Situation", originally the B-side of "Only You" in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Go | 3:08 |
-| A2 | Too Pieces | 3:14 |
-| A3 | Bad Connection | 3:20 |
-| A4 | I Before E Except After C | 4:36 |
-| A5 | Midnight | 4:22 |
-| A6 | In My Room | 3:52 |
-| B1 | Only You | 3:14 |
-| B2 | Goodbye 70's | 2:35 |
-| B3 | Tuesday | 3:22 |
-| B4 | Winter Kills | 4:06 |
-| B5 | Bring Your Love Down (Didn't I) | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Go |
+| A2 | Too Pieces |
+| A3 | Bad Connection |
+| A4 | I Before E Except After C |
+| A5 | Midnight |
+| A6 | In My Room |
+| B1 | Only You |
+| B2 | Goodbye 70's |
+| B3 | Tuesday |
+| B4 | Winter Kills |
+| B5 | Bring Your Love Down (Didn't I) |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Against the group's wishes, "Situation", originally the B-side of "Only You" in 
 | Format         | Vinyl LP Album (Musitech Plating) |
 | Label          | Mute |
 | Catalog Number | STUMM 7 |
-| Notes | Recorded at Blackwing 1 & 2 Studios, London<br>Distributed by Rough Trade & Spartan<br>℗ Mute Records<br>© Sonet Publishing<br><br>Comes with a printed inner sleeve with lyrics.<br><br>This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.<br><br>There are also two versions plated at [l304945]: one [url=https://www.discogs.com/release/9605338]with[/url] "© [l266398]" printed on inner sleeve and one [url=https://www.discogs.com/release/8179227]without[/url]. |
+| Notes | Recorded at Blackwing 1 & 2 Studios, London Distributed by Rough Trade & Spartan ℗ Mute Records © Sonet Publishing  Comes with a printed inner sleeve with lyrics.  This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.  There are also two versions plated at [l304945]: one [url=https://www.discogs.com/release/9605338]with[/url] "© [l266398]" printed on inner sleeve and one [url=https://www.discogs.com/release/8179227]without[/url]. |
 | Discogs URL    | [Yazoo - Upstairs At Eric's](https://www.discogs.com/release/97230-Yazoo-Upstairs-At-Erics) |

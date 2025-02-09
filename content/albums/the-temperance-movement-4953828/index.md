@@ -27,23 +27,23 @@ The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Only Friend | 4:29 |
-| A2 | Ain't No Telling | 3:52 |
-| A3 | Pride | 5:39 |
-| A4 | Be Lucky | 3:23 |
-| B1 | Midnight Black | 3:46 |
-| B2 | Chinese Lanterns | 3:21 |
-| B3 | Know For Sure | 4:12 |
-| B4 | Morning Riders | 3:40 |
-| C1 | Lovers And Fighters | 4:39 |
-| C2 | Take It Back | 3:04 |
-| C3 | Smouldering | 5:47 |
-| C4 | Serenity | 5:39 |
-|  | Bonus Material |  |
-| D1 | Turn | 3:50 |
-| D2 | Mother's Eyes | 5:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Only Friend |
+| A2 | Ain't No Telling |
+| A3 | Pride |
+| A4 | Be Lucky |
+| B1 | Midnight Black |
+| B2 | Chinese Lanterns |
+| B3 | Know For Sure |
+| B4 | Morning Riders |
+| C1 | Lovers And Fighters |
+| C2 | Take It Back |
+| C3 | Smouldering |
+| C4 | Serenity |
+|  | Bonus Material |
+| D1 | Turn |
+| D2 | Mother's Eyes |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-
 | Format         | Vinyl 2× LP Album |
 | Label          | Earache |
 | Catalog Number | MOSH502LP |
-| Notes | A double classic LP.<br>If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks. |
+| Notes | A double classic LP.  If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks. |
 | Discogs URL    | [The Temperance Movement - The Temperance Movement](https://www.discogs.com/release/4953828-The-Temperance-Movement-The-Temperance-Movement) |

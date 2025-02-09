@@ -38,14 +38,14 @@ Permanent Waves received a mostly positive reception from critics and became the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Spirit Of Radio | 4:54 |
-| A2 | Freewill | 5:23 |
-| A3 | Jacob's Ladder | 7:50 |
-| B1 | Entre Nous | 4:37 |
-| B2 | Different Strings | 3:50 |
-|  | Natural Science | 9:27 |
+| Position | Title |
+|----------|--------|
+| A1 | The Spirit Of Radio |
+| A2 | Freewill |
+| A3 | Jacob's Ladder |
+| B1 | Entre Nous |
+| B2 | Different Strings |
+|  | Natural Science |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Permanent Waves received a mostly positive reception from critics and became the
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118073 |
-| Notes | Issued with an insert with pictures, lyrics and credits. Includes a voucher to download an MP3 version of the album.<br><br>Recorded at Le Studio, Morin-Heights, Quebec, during September and October 1979<br>Mixed at Trident Studios, Soho, London, in November 1979<br>Remastered at Abbey Road Mastering Studios, London<br><br>DMM Mastering at Abbey Road Mastering Studios - January 2015<br><br>℗ 2015 Mercury Records. © 2015 Mercury Records<br>Made in the EU<br> |
+| Notes | Issued with an insert with pictures, lyrics and credits. Includes a voucher to download an MP3 version of the album.    Recorded at Le Studio, Morin-Heights, Quebec, during September and October 1979  Mixed at Trident Studios, Soho, London, in November 1979  Remastered at Abbey Road Mastering Studios, London    DMM Mastering at Abbey Road Mastering Studios - January 2015    ℗ 2015 Mercury Records. © 2015 Mercury Records  Made in the EU   |
 | Discogs URL    | [Rush - Permanent Waves](https://www.discogs.com/release/7133273-Rush-Permanent-Waves) |

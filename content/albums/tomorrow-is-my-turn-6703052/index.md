@@ -31,30 +31,30 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Last Kind Words | 4:14 |
-| A2 | Don't Let It Trouble Your Mind | 3:40 |
-| A3 | Waterboy | 3:45 |
-| A4 | She's Got You | 4:17 |
-| A5 | Up Above My Head | 3:10 |
-| A6 | Tomorrow Is My Turn | 4:37 |
-| B1 | Black Is The Color | 3:46 |
-| B2 | Round About The Mountain | 3:30 |
-| B3 | Shake Sugaree | 4:24 |
-| B4 | O Love Is Teasin' | 4:33 |
-| B5 | Angel City | 3:53 |
-| CD-1 | Last Kind Words | 4:14 |
-| CD-2 | Don't Let It Trouble Your Mind | 3:40 |
-| CD-3 | Waterboy | 3:45 |
-| CD-4 | She's Got You | 4:17 |
-| CD-5 | Up Above My Head | 3:10 |
-| CD-6 | Tomorrow Is My Turn | 4:37 |
-| CD-7 | Black Is The Color | 3:46 |
-| CD-8 | Round About The Mountain | 3:30 |
-| CD-9 | Shake Sugaree | 4:24 |
-| CD-10 | O Love Is Teasin' | 4:33 |
-| CD-11 | Angel City | 3:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Last Kind Words |
+| A2 | Don't Let It Trouble Your Mind |
+| A3 | Waterboy |
+| A4 | She's Got You |
+| A5 | Up Above My Head |
+| A6 | Tomorrow Is My Turn |
+| B1 | Black Is The Color |
+| B2 | Round About The Mountain |
+| B3 | Shake Sugaree |
+| B4 | O Love Is Teasin' |
+| B5 | Angel City |
+| CD-1 | Last Kind Words |
+| CD-2 | Don't Let It Trouble Your Mind |
+| CD-3 | Waterboy |
+| CD-4 | She's Got You |
+| CD-5 | Up Above My Head |
+| CD-6 | Tomorrow Is My Turn |
+| CD-7 | Black Is The Color |
+| CD-8 | Round About The Mountain |
+| CD-9 | Shake Sugaree |
+| CD-10 | O Love Is Teasin' |
+| CD-11 | Angel City |
 
 
 ## Apple Music

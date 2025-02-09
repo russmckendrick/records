@@ -38,20 +38,20 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ghost Nation |  |
-| A2 | Bed Of Thorns |  |
-| A3 | My Name Is Ruin |  |
-| B1 | The End Of Things |  |
-| B2 | And It All Began With You  |  |
-| B3 | When The World Comes Apart |  |
-| C1 | Mercy |  |
-| C2 | What God Intended |  |
-| C3 | If I Said |  |
-| D1 | Pray For The Pain You Serve |  |
-| D2 | Broken |  |
-| D3 | Cold |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ghost Nation |
+| A2 | Bed Of Thorns |
+| A3 | My Name Is Ruin |
+| B1 | The End Of Things |
+| B2 | And It All Began With You  |
+| B3 | When The World Comes Apart |
+| C1 | Mercy |
+| C2 | What God Intended |
+| C3 | If I Said |
+| D1 | Pray For The Pain You Serve |
+| D2 | Broken |
+| D3 | Cold |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | BMG |
 | Catalog Number | 538307451 |
-| Notes | Gatefold Sleeve.<br><br>Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.<br><br>℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited. |
+| Notes | Gatefold Sleeve.  Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.  ℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited. |
 | Discogs URL    | [Gary Numan - Savage (Songs From A Broken World)](https://www.discogs.com/release/10858288-Gary-Numan-Savage-Songs-From-A-Broken-World) |

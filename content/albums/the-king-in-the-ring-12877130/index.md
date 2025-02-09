@@ -33,39 +33,39 @@ styles: ["Rock & Roll", "Ballad"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | That’s All Right | 4:08 |
-| A2 | Heartbreak Hotel | 2:55 |
-| A3 | Love Me | 3:12 |
-| A4 | Baby What You Want Me To Do | 5:44 |
-| A5 | Blue Suede Shoes | 2:20 |
-| A6 | Baby What You Want Me To Do | 4:03 |
-| A7 | Lawdy, Miss Clawdy | 3:03 |
-| B1 | Are You Lonesome Tonight? | 2:51 |
-| B2 | When My Blue Moon Turns To Gold Again | 0:38 |
-| B3 | Blue Christmas | 2:36 |
-| B4 | Trying To Get To You | 2:50 |
-| B5 | One Night | 3:57 |
-| B6 | Baby What You Want Me To Do | 5:11 |
-| B7 | One Night | 2:37 |
-| B8 | Memories | 3:24 |
-| C1 | Heartbreak Hotel | 4:12 |
-| C2 | Baby What You Want Me To Do | 3:27 |
-| C3 | Introductions | 2:17 |
-| C4 | That’s All Right | 3:08 |
-| C5 | Are You Lonesome Tonight? | 4:00 |
-| C6 | Baby What You Want Me To Do  | 3:24 |
-| C7 | Blue Suede Shoes | 2:27 |
-| C8 | One Night | 3:20 |
-| D1 | Love Me | 4:14 |
-| D2 | Trying To Get To You | 3:04 |
-| D3 | Lawdy, Miss Clawdy | 2:57 |
-| D4 | Santa Claus Is Back In Town | 1:18 |
-| D5 | Blue Christmas  | 4:02 |
-| D6 | Tiger Man  | 3:11 |
-| D7 | When My Blue Moon Turns To Gold Again  | 1:17 |
-| D8 | Memories  | 3:13 |
+| Position | Title |
+|----------|--------|
+| A1 | That’s All Right |
+| A2 | Heartbreak Hotel |
+| A3 | Love Me |
+| A4 | Baby What You Want Me To Do |
+| A5 | Blue Suede Shoes |
+| A6 | Baby What You Want Me To Do |
+| A7 | Lawdy, Miss Clawdy |
+| B1 | Are You Lonesome Tonight? |
+| B2 | When My Blue Moon Turns To Gold Again |
+| B3 | Blue Christmas |
+| B4 | Trying To Get To You |
+| B5 | One Night |
+| B6 | Baby What You Want Me To Do |
+| B7 | One Night |
+| B8 | Memories |
+| C1 | Heartbreak Hotel |
+| C2 | Baby What You Want Me To Do |
+| C3 | Introductions |
+| C4 | That’s All Right |
+| C5 | Are You Lonesome Tonight? |
+| C6 | Baby What You Want Me To Do  |
+| C7 | Blue Suede Shoes |
+| C8 | One Night |
+| D1 | Love Me |
+| D2 | Trying To Get To You |
+| D3 | Lawdy, Miss Clawdy |
+| D4 | Santa Claus Is Back In Town |
+| D5 | Blue Christmas  |
+| D6 | Tiger Man  |
+| D7 | When My Blue Moon Turns To Gold Again  |
+| D8 | Memories  |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ styles: ["Rock & Roll", "Ballad"]
 | Format         | Vinyl 2× LP Album Compilation |
 | Label          | RCA Victor |
 | Catalog Number | 19075896631 |
-| Notes | Black Vinyl. Gatefold sleeve.<br><br>Recorded at NBC Studios Burbank, June 27, 1968  6PM & 8PM shows.<br><br>Made in the US.<br><br>Track information:<br>Tracks A6,B7,D3,D5,D6  originally released 1968<br>Tracks C5,D1,D2 originally released 1974<br>Tracks B6, C7 originally released 1976<br>Track A5 originally released 1981<br>Track C4 originally released 1983<br>Tracks B2,B4 originally released 1997<br>Tracks A1to A4, A7,B1,B3,B5,B8, C1 to C3, C6, C8,D4,D7,D8 originally released 1998<br>All tracks originally recorded 1968 |
+| Notes | Black Vinyl. Gatefold sleeve.  Recorded at NBC Studios Burbank, June 27, 1968  6PM & 8PM shows.  Made in the US.  Track information: Tracks A6,B7,D3,D5,D6  originally released 1968 Tracks C5,D1,D2 originally released 1974 Tracks B6, C7 originally released 1976 Track A5 originally released 1981 Track C4 originally released 1983 Tracks B2,B4 originally released 1997 Tracks A1to A4, A7,B1,B3,B5,B8, C1 to C3, C6, C8,D4,D7,D8 originally released 1998 All tracks originally recorded 1968 |
 | Discogs URL    | [Elvis Presley - The King In The Ring](https://www.discogs.com/release/12877130-Elvis-Presley-The-King-In-The-Ring) |

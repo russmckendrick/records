@@ -35,20 +35,20 @@ The album was preceded by the EP, Future Weather, in 2010.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Best Night |  |
-| A2 | Brothers |  |
-| A3 | I Was There |  |
-| B1 | Your Love Is Calling My Name |  |
-| B2 | The Animator |  |
-| B3 | Come To The City |  |
-| C1 | Come For It |  |
-| C2 | It's Your Destiny |  |
-| C3 | City Reprise #12 |  |
-| D1 | Baby Missiles |  |
-| D2 | Original Slave |  |
-| D3 | Black Water Falls |  |
+| Position | Title |
+|----------|--------|
+| A1 | Best Night |
+| A2 | Brothers |
+| A3 | I Was There |
+| B1 | Your Love Is Calling My Name |
+| B2 | The Animator |
+| B3 | Come To The City |
+| C1 | Come For It |
+| C2 | It's Your Destiny |
+| C3 | City Reprise #12 |
+| D1 | Baby Missiles |
+| D2 | Original Slave |
+| D3 | Black Water Falls |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The album was preceded by the EP, Future Weather, in 2010.
 | Format         | Vinyl 2× 12" 45 RPM Album |
 | Label          | Secretly Canadian |
 | Catalog Number | SC190 |
-| Notes | Includes a download card for a free high-quality digital version.<br>Each record is in a printed inner sleeve.<br><br>©&℗ 2011 Secretly Canadian<br><br>Recorded 2008-2011 at Uniform Studio (Philly), Echo Mountain (Asheville, NC), AG's joint in Philly.<br><br>All words and music by Adam Granduciel/Seaformation Music (ASCAP) except Brothers (Granduciel/Hartley/Zanghi/Bennett), Come To The City (Granduciel/Hartley), It's Your Destiny (Granduciel/Bennett)<br><br>Photography:<br>Cover - Zaragoza, Spain, Drugs Tour, July 2009<br>Inside - Livingston, MT. Violators Tour, October 2009 |
+| Notes | Includes a download card for a free high-quality digital version. Each record is in a printed inner sleeve.  ©&℗ 2011 Secretly Canadian  Recorded 2008-2011 at Uniform Studio (Philly), Echo Mountain (Asheville, NC), AG's joint in Philly.  All words and music by Adam Granduciel/Seaformation Music (ASCAP) except Brothers (Granduciel/Hartley/Zanghi/Bennett), Come To The City (Granduciel/Hartley), It's Your Destiny (Granduciel/Bennett)  Photography: Cover - Zaragoza, Spain, Drugs Tour, July 2009 Inside - Livingston, MT. Violators Tour, October 2009 |
 | Discogs URL    | [The War On Drugs - Slave Ambient](https://www.discogs.com/release/3052756-The-War-On-Drugs-Slave-Ambient) |

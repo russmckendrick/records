@@ -36,19 +36,19 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Never Ending Circles |  |
-| A2 | Leave A Trace |  |
-| A3 | Keep You On My Side |  |
-| A4 | Make Them Gold |  |
-| A5 | Clearest Blue |  |
-| B6 | High Enough To Carry You Over |  |
-| B7 | Empty Threat |  |
-| B8 | Down Side Of Me |  |
-| B9 | Playing Dead |  |
-| B10 | Bury It |  |
-| B11 | Afterglow |  |
+| Position | Title |
+|----------|--------|
+| A1 | Never Ending Circles |
+| A2 | Leave A Trace |
+| A3 | Keep You On My Side |
+| A4 | Make Them Gold |
+| A5 | Clearest Blue |
+| B6 | High Enough To Carry You Over |
+| B7 | Empty Threat |
+| B8 | Down Side Of Me |
+| B9 | Playing Dead |
+| B10 | Bury It |
+| B11 | Afterglow |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 | Format         | Vinyl LP Album (White, 180 Gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3139 |
-| Notes | Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album. <br>Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.<br><br>On back sleeve & labels:<br>℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd.<br>Made in the EU.<br><br>On inner sleeve:<br>Recorded at Alucard Studios, Glasgow, January - July 2015.<br>Mastered at Gateway Mastering, Portland, Maine.<br>All songs published by Universal Music Publishing Ltd.<br> |
+| Notes | Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album.  Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.  On back sleeve & labels: ℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd. Made in the EU.  On inner sleeve: Recorded at Alucard Studios, Glasgow, January - July 2015. Mastered at Gateway Mastering, Portland, Maine. All songs published by Universal Music Publishing Ltd.  |
 | Discogs URL    | [Chvrches - Every Open Eye](https://www.discogs.com/release/7492694-Chvrches-Every-Open-Eye) |

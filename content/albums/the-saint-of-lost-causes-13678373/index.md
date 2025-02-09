@@ -36,20 +36,20 @@ The Saint of Lost Causes is the eighth and final studio album released by Americ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Saint Of Lost Causes |  |
-| A2 | Ain't Got No Money |  |
-| A3 | Mornings In Memphis |  |
-| A4 | Don't Drink The Water |  |
-| B1 | Frightened By The Sound |  |
-| B2 | Flint City Shake It |  |
-| B3 | Over Alameda |  |
-| B4 | Pacific Northwestern Blues |  |
-| C1 | Appalachian Nightmare |  |
-| C2 | Say Baby |  |
-| C3 | Ahi Esta Mi Nina |  |
-| C4 | Talking To Myself |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Saint Of Lost Causes |
+| A2 | Ain't Got No Money |
+| A3 | Mornings In Memphis |
+| A4 | Don't Drink The Water |
+| B1 | Frightened By The Sound |
+| B2 | Flint City Shake It |
+| B3 | Over Alameda |
+| B4 | Pacific Northwestern Blues |
+| C1 | Appalachian Nightmare |
+| C2 | Say Baby |
+| C3 | Ahi Esta Mi Nina |
+| C4 | Talking To Myself |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Saint of Lost Causes is the eighth and final studio album released by Americ
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | New West Records |
 | Catalog Number | NW5279 |
-| Notes | Black vinyl edition.<br>Side D has a etched picture.<br><br>Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker.  |
+| Notes | Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker.  |
 | Discogs URL    | [Justin Townes Earle - The Saint Of Lost Causes](https://www.discogs.com/release/13678373-Justin-Townes-Earle-The-Saint-Of-Lost-Causes) |

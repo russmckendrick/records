@@ -59,18 +59,18 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Living Proof | 4:54 |
-| A2 | Harmonia's Dream | 6:26 |
-| A3 | Change | 6:04 |
-| B1 | I Don't Wanna Wait | 5:13 |
-| B2 | Victim | 6:00 |
-| C1 | I Don't Live Here Anymore | 5:28 |
-| C2 | Old Skin | 4:52 |
-| C3 | Wasted | 4:10 |
-| D1 | Rings Around My Father's Eyes | 4:18 |
-| D2 | Occasional Rain | 4:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Living Proof |
+| A2 | Harmonia's Dream |
+| A3 | Change |
+| B1 | I Don't Wanna Wait |
+| B2 | Victim |
+| C1 | I Don't Live Here Anymore |
+| C2 | Old Skin |
+| C3 | Wasted |
+| D1 | Rings Around My Father's Eyes |
+| D2 | Occasional Rain |
 
 
 ## Apple Music
@@ -88,5 +88,5 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Atlantic |
 | Catalog Number | SEL 1-659043 - 075678643477 |
-| Notes | ℗ & © 2021 Atlantic Recording Corporation.<br><br>Manufactured in France.<br><br>Double LP, black vinyl<br>Catalog Number 075678641299 on spine<br>Catalog Numbers SEL 1-659043 - 075678643477 on label |
+| Notes | ℗ & © 2021 Atlantic Recording Corporation.  Manufactured in France.  Double LP, black vinyl Catalog Number 075678641299 on spine Catalog Numbers SEL 1-659043 - 075678643477 on label |
 | Discogs URL    | [The War On Drugs - I Don't Live Here Anymore](https://www.discogs.com/release/20771347-The-War-On-Drugs-I-Dont-Live-Here-Anymore) |

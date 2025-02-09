@@ -28,18 +28,18 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In Company | 4:27 |
-| A2 | The Sequel | 3:49 |
-| A3 | Message To | 3:18 |
-| A4 | A Father's Lament | 3:41 |
-| A5 | Our Angel Polygon | 4:32 |
-| B1 | Cry A Spiral | 4:53 |
-| B2 | It's The End, The End | 5:26 |
-| B3 | Pretty Mire, Be My Friend | 4:04 |
-| B4 | E.B. | 2:15 |
-| B5 | Orange Synthetic | 6:21 |
+| Position | Title |
+|----------|--------|
+| A1 | In Company |
+| A2 | The Sequel |
+| A3 | Message To |
+| A4 | A Father's Lament |
+| A5 | Our Angel Polygon |
+| B1 | Cry A Spiral |
+| B2 | It's The End, The End |
+| B3 | Pretty Mire, Be My Friend |
+| B4 | E.B. |
+| B5 | Orange Synthetic |
 
 
 ## Apple Music

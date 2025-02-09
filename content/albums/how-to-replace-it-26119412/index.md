@@ -37,20 +37,20 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How To Replace It |  |
-| A2 | Must Have Been New |  |
-| A3 | Man Of The House |  |
-| B1 | 1989 |  |
-| B2 | Faux Bamboo |  |
-| B3 | Dream Is A Giver |  |
-| C1 | Pirates |  |
-| C2 | Simple Pleasures |  |
-| C3 | Never Gonna Get You High |  |
-| D1 | Why Think It Over (Cadillac) |  |
-| D2 | Love Breaks Down |  |
-| D3 | Le Blues Polaire |  |
+| Position | Title |
+|----------|--------|
+| A1 | How To Replace It |
+| A2 | Must Have Been New |
+| A3 | Man Of The House |
+| B1 | 1989 |
+| B2 | Faux Bamboo |
+| B3 | Dream Is A Giver |
+| C1 | Pirates |
+| C2 | Simple Pleasures |
+| C3 | Never Gonna Get You High |
+| D1 | Why Think It Over (Cadillac) |
+| D2 | Love Breaks Down |
+| D3 | Le Blues Polaire |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Crystal Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB820LP |
-| Notes | [Info:]<br>Issued in a gatefold sleeve with printed inner sleeves.<br><br>A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.<br><br>[On barcode sticker:]<br>PIASB820LPC<br><br>[On cover back:]<br>℗&© 2023 dEUS under exclusive license to<br>[PIAS] Recordings - LC07800 PIASB820LP<br>Made in the EU - SABAM/BIEM<br><br>[On labels, side B and D:]<br>℗&© 2023 dEUS under exclusive license to<br>[PIAS] Recordings - LC07800 PIASB820LP<br>Made in the EU - SABAM/BIEM<br><br>[Matrixes / Runouts:]<br>Sides A to D: etched PIASB820LP-LPC, rest stamped<br>Side C and D: etched -> 1V  |
+| Notes | [Info:] Issued in a gatefold sleeve with printed inner sleeves.  A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.  [On barcode sticker:] PIASB820LPC  [On cover back:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [On labels, side B and D:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [Matrixes / Runouts:] Sides A to D: etched PIASB820LP-LPC, rest stamped Side C and D: etched -> 1V  |
 | Discogs URL    | [dEUS - How To Replace It](https://www.discogs.com/release/26119412-dEUS-How-To-Replace-It) |

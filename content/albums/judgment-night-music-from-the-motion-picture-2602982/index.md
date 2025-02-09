@@ -31,19 +31,19 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Love You Mary Jane | 3:49 |
-| A2 | Judgment Night | 4:35 |
-| A3 | Just Another Victim | 4:21 |
-| A4 | Me, Myself & My Microphone | 3:08 |
-| A5 | Disorder | 4:57 |
-| A6 | Missing Link | 3:55 |
-| B1 | Fallin' | 4:25 |
-| B2 | Freak Momma | 3:57 |
-| B3 | Another Body Murdered | 4:22 |
-| B4 | Come And Die | 4:22 |
-| B5 | Real Thing | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | I Love You Mary Jane |
+| A2 | Judgment Night |
+| A3 | Just Another Victim |
+| A4 | Me, Myself & My Microphone |
+| A5 | Disorder |
+| A6 | Missing Link |
+| B1 | Fallin' |
+| B2 | Freak Momma |
+| B3 | Another Body Murdered |
+| B4 | Come And Die |
+| B5 | Real Thing |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP232 |
-| Notes | A sticker affixed to the polythene outer sleeve reads: <br>"Music On Vinyl®<br>Classic Album<br>180 gram audiophile vinyl pressing<br>www.musiconvinyl.com"<br><br>Actual 2022/2023 versions have same runouts but different hype sticker in silver.<br>Newer (2024?) represses have golden stickers.<br><br>Track B5 is listed as a bonus track.<br><br>Mastered at Masterdisk, New York.<br><br>Motion picture photography & artwork title © 1993 Largo Entertainment.<br>Originally released ℗ & © 1993 Sony Music Entertainment.<br>This release: ℗ & © 2010, Sony Music Entertainment.<br>Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>Made in the EU. |
+| Notes | A sticker affixed to the polythene outer sleeve reads:  "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Actual 2022/2023 versions have same runouts but different hype sticker in silver. Newer (2024?) represses have golden stickers.  Track B5 is listed as a bonus track.  Mastered at Masterdisk, New York.  Motion picture photography & artwork title © 1993 Largo Entertainment. Originally released ℗ & © 1993 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. |
 | Discogs URL    | [Various - Judgment Night (Music From The Motion Picture)](https://www.discogs.com/release/2602982-Various-Judgment-Night-Music-From-The-Motion-Picture) |

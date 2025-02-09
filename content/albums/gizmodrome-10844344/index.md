@@ -31,20 +31,20 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Zombies In The Mall | 4:00 |
-| A2 | Stay Ready | 4:02 |
-| A3 | Man In The Mountain | 3:43 |
-| A4 | Summer's Coming | 3:29 |
-| A5 | Sweet Angels (Rule The World) | 2:56 |
-| A6 | Amaka Pipa | 3:40 |
-| A7 | Strange Things Happen | 2:56 |
-| B1 | Ride Your Life | 3:43 |
-| B2 | Zubatta Cheve | 4:01 |
-| B3 | Spin This | 6:10 |
-| B4 | I Know Too Much | 3:47 |
-| B5 | Stark Naked | 4:04 |
+| Position | Title |
+|----------|--------|
+| A1 | Zombies In The Mall |
+| A2 | Stay Ready |
+| A3 | Man In The Mountain |
+| A4 | Summer's Coming |
+| A5 | Sweet Angels (Rule The World) |
+| A6 | Amaka Pipa |
+| A7 | Strange Things Happen |
+| B1 | Ride Your Life |
+| B2 | Zubatta Cheve |
+| B3 | Spin This |
+| B4 | I Know Too Much |
+| B5 | Stark Naked |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 | Format         | Vinyl LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0212264EMU |
-| Notes | Gatefold sleeve, printed inner. <br>Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)".<br>Made in Germany. |
+| Notes | Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany. |
 | Discogs URL    | [Gizmodrome - Gizmodrome](https://www.discogs.com/release/10844344-Gizmodrome-Gizmodrome) |

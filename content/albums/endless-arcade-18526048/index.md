@@ -36,20 +36,20 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Home |  |
-| A2 | Endless Arcade |  |
-| A3 | Warm Embrace |  |
-| A4 | Everything Is Falling Apart |  |
-| A5 | The Sun Won't Shine On Me |  |
-| A6 | Come With Me |  |
-| B1 | In Our Dreams |  |
-| B2 | I'm More Inclined |  |
-| B3 | Back In The Day |  |
-| B4 | The Future |  |
-| B5 | Living With You |  |
-| B6 | Silent Song |  |
+| Position | Title |
+|----------|--------|
+| A1 | Home |
+| A2 | Endless Arcade |
+| A3 | Warm Embrace |
+| A4 | Everything Is Falling Apart |
+| A5 | The Sun Won't Shine On Me |
+| A6 | Come With Me |
+| B1 | In Our Dreams |
+| B2 | I'm More Inclined |
+| B3 | Back In The Day |
+| B4 | The Future |
+| B5 | Living With You |
+| B6 | Silent Song |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 | Format         | Vinyl LP Album Limited Edition (Green Translucent, Die Cut Sleeve) |
 | Label          | Pema |
 | Catalog Number | PEMA14LPC |
-| Notes | Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff.<br>Mastered at Iterative Mastering.<br><br>Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies. <br>Some copies with a signed print.<br><br>PEMA14LPC on sticker. PEMA14LP on labels and spine. |
+| Notes | Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff. Mastered at Iterative Mastering.  Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies.  Some copies with a signed print.  PEMA14LPC on sticker. PEMA14LP on labels and spine. |
 | Discogs URL    | [Teenage Fanclub - Endless Arcade](https://www.discogs.com/release/18526048-Teenage-Fanclub-Endless-Arcade) |

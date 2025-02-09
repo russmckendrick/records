@@ -36,18 +36,18 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Change | 4:24 |
-| A2 | You Put My Love Out The Door | 2:28 |
-| A3 | She's A Rainbow | 4:13 |
-| A4 | Run To Me | 4:06 |
-| A5 | The Porpoise Song | 6:20 |
-| B1 | Could It Be Magic | 5:28 |
-| B2 | The Visitors | 6:07 |
-| B3 | Let 'Em In | 5:16 |
-| B4 | Never My Love | 3:51 |
-| B5 | The Spirit Of Radio | 5:09 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Change |
+| A2 | You Put My Love Out The Door |
+| A3 | She's A Rainbow |
+| A4 | Run To Me |
+| A5 | The Porpoise Song |
+| B1 | Could It Be Magic |
+| B2 | The Visitors |
+| B3 | Let 'Em In |
+| B4 | Never My Love |
+| B5 | The Spirit Of Radio |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 | Format         | Vinyl LP Album Limited Edition (Neon Green) |
 | Label          | Good Records Recordings |
 | Catalog Number | GRR104LP |
-| Notes | Limited to 1000 copies (Glow In The Dark Vinyl)<br><br>Recorded by David Wilson at The Triplex Dallas, TX March 2020<br>*except Mixed by Justin Cortelyou |
+| Notes | Limited to 1000 copies (Glow In The Dark Vinyl)  Recorded by David Wilson at The Triplex Dallas, TX March 2020 *except Mixed by Justin Cortelyou |
 | Discogs URL    | [The Polyphonic Spree - Afflatus](https://www.discogs.com/release/21302986-The-Polyphonic-Spree-Afflatus) |

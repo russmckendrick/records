@@ -41,14 +41,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Lizard King | 12:00 |
-| B1 | Ladyland Blues | 10:33 |
-| B2 | Pearl | 8:17 |
-| C1 | Stoned | 11:25 |
-| C2 | The Gift | 6:58 |
-| D1 | The Devil At The Crossroads | 14:53 |
+| Position | Title |
+|----------|--------|
+| A1 | The Lizard King |
+| B1 | Ladyland Blues |
+| B2 | Pearl |
+| C1 | Stoned |
+| C2 | The Gift |
+| D1 | The Devil At The Crossroads |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG018 |
-| Notes | Packaged in a gatefold cover with color printed inner LP sleeves.<br><br>Limited edition of 500 copies. |
+| Notes | Packaged in a gatefold cover with color printed inner LP sleeves.  Limited edition of 500 copies. |
 | Discogs URL    | [Magenta - The Twenty Seven Club](https://www.discogs.com/release/6321416-Magenta-10-The-Twenty-Seven-Club) |

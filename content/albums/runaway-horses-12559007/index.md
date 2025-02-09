@@ -34,18 +34,18 @@ The album peaked at number 37 on the US Billboard 200, a considerable fall in sa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Leave A Light On | 4:34 |
-| A2 | Runaway Horses | 4:42 |
-| A3 | Vision Of You | 4:37 |
-| A4 | Summer Rain | 5:26 |
-| A5 | La Luna | 4:43 |
-| B1 | (We Want) The Same Thing | 3:57 |
-| B2 | Deep Deep Ocean | 4:03 |
-| B3 | Valentine | 5:03 |
-| B4 | Whatever It Takes | 4:49 |
-| B5 | Shades Of Michelangelo | 5:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Leave A Light On |
+| A2 | Runaway Horses |
+| A3 | Vision Of You |
+| A4 | Summer Rain |
+| A5 | La Luna |
+| B1 | (We Want) The Same Thing |
+| B2 | Deep Deep Ocean |
+| B3 | Valentine |
+| B4 | Whatever It Takes |
+| B5 | Shades Of Michelangelo |
 
 
 ## Apple Music

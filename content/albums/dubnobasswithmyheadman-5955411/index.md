@@ -39,17 +39,17 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dark & Long |  |
-| A2 | Mmm Skyscraper I Love You |  |
-| B1 | Surfboy |  |
-| B2 | Spoonman |  |
-| B3 | Tongue |  |
-| C1 | Dirty Epic |  |
-| C2 | Cowgirl |  |
-| D1 | River Of Bass |  |
-| D2 | M. E. |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dark & Long |
+| A2 | Mmm Skyscraper I Love You |
+| B1 | Surfboy |
+| B2 | Spoonman |
+| B3 | Tongue |
+| C1 | Dirty Epic |
+| C2 | Cowgirl |
+| D1 | River Of Bass |
+| D2 | M. E. |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 | Format         | Vinyl 2× LP Album Reissue Remastered (20th Anniversary Edition, 180g) |
 | Label          | Universal UMC |
 | Catalog Number | 3790795 |
-| Notes | Digital download code included.<br>Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard. |
+| Notes | Digital download code included. Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard. |
 | Discogs URL    | [Underworld - Dubnobasswithmyheadman](https://www.discogs.com/release/5955411-Underworld-Dubnobasswithmyheadman) |

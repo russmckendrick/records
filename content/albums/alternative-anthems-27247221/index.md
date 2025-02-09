@@ -25,31 +25,31 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Teen Age Riot |  |
-| A2 | Rebel Girl |  |
-| A3 | Touch Me I'm Sick |  |
-| A4 | Don't Want To Know If You Are Lonely |  |
-| A5 | I Wanna Be Your Joey Ramone |  |
-| A6 | Feel The Pain |  |
-| B1 | A Good Idea |  |
-| B2 | The One I Love |  |
-| B3 | Black Hole Sun |  |
-| B4 | She Don't Use Jelly |  |
-| B5 | Swingin Party |  |
-| C1 | Nearly Lost You |  |
-| C2 | Debaser |  |
-| C3 | Feed The Tree |  |
-| C4 | Bruise Violet |  |
-| C5 | Honey Bucket |  |
-| C6 | Backwater |  |
-| D1 | Summer Babe (Winter Version) |  |
-| D2 | Pacer |  |
-| D3 | Take The Skinheads Bowling |  |
-| D4 | Not Too Soon |  |
-| D5 | Taillights Fade |  |
-| D6 | Hunger Strike |  |
+| Position | Title |
+|----------|--------|
+| A1 | Teen Age Riot |
+| A2 | Rebel Girl |
+| A3 | Touch Me I'm Sick |
+| A4 | Don't Want To Know If You Are Lonely |
+| A5 | I Wanna Be Your Joey Ramone |
+| A6 | Feel The Pain |
+| B1 | A Good Idea |
+| B2 | The One I Love |
+| B3 | Black Hole Sun |
+| B4 | She Don't Use Jelly |
+| B5 | Swingin Party |
+| C1 | Nearly Lost You |
+| C2 | Debaser |
+| C3 | Feed The Tree |
+| C4 | Bruise Violet |
+| C5 | Honey Bucket |
+| C6 | Backwater |
+| D1 | Summer Babe (Winter Version) |
+| D2 | Pacer |
+| D3 | Take The Skinheads Bowling |
+| D4 | Not Too Soon |
+| D5 | Taillights Fade |
+| D6 | Hunger Strike |
 
 
 ## Apple Music

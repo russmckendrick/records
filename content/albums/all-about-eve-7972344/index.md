@@ -41,19 +41,19 @@ Widely considered as among the greatest films of all time, in 1990, All About Ev
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Flowers In Our Hair | 4:18 |
-| A2 | Gypsy Dance | 3:57 |
-| A3 | In The Clouds | 3:28 |
-| A4 | Martha's Harbour | 3:07 |
-| A5 | Every Angel | 3:56 |
-| A6 | Shelter From The Rain | 5:20 |
-| B1 | She Moves Through The Fair | 5:05 |
-| B2 | Wild Hearted Woman | 3:22 |
-| B3 | Never Promise (Anyone Forever) | 3:49 |
-| B4 | What Kind Of Fool | 3:57 |
-| B5 | In The Meadow | 5:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Flowers In Our Hair |
+| A2 | Gypsy Dance |
+| A3 | In The Clouds |
+| A4 | Martha's Harbour |
+| A5 | Every Angel |
+| A6 | Shelter From The Rain |
+| B1 | She Moves Through The Fair |
+| B2 | Wild Hearted Woman |
+| B3 | Never Promise (Anyone Forever) |
+| B4 | What Kind Of Fool |
+| B5 | In The Meadow |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Widely considered as among the greatest films of all time, in 1990, All About Ev
 | Format         | Vinyl LP Album Stereo (JA Cut) |
 | Label          | Mercury |
 | Catalog Number | MERH 119 |
-| Notes | This version contains JA in the runouts.<br>Issued in an unlaminated single pocket sleeve.<br>Picture inner sleeve with a light gloss finish, top opening paper with a die cut thumb section.<br><br>Some with hype sticker - Includes "In The Clouds" "Wild Hearted Woman" And "Every Angel" MERH 119<br><br>℗ 1988 PHONOGRAM LTD (LONDON) except "In The Clouds" ℗ 1987 PHONOGRAM LTD (LONDON) <br>© 1988 PHONOGRAM LTD (LONDON).<br>Original sound recordings made by Phonogram Ltd.<br><br>Runouts are stamped excepting "JA" which are etched.<br>Some copies have a raised edge at the circumference of the labels (typical of PRS) whilst others do not. |
+| Notes | This version contains JA in the runouts. Issued in an unlaminated single pocket sleeve. Picture inner sleeve with a light gloss finish, top opening paper with a die cut thumb section.  Some with hype sticker - Includes "In The Clouds" "Wild Hearted Woman" And "Every Angel" MERH 119  ℗ 1988 PHONOGRAM LTD (LONDON) except "In The Clouds" ℗ 1987 PHONOGRAM LTD (LONDON)  © 1988 PHONOGRAM LTD (LONDON). Original sound recordings made by Phonogram Ltd.  Runouts are stamped excepting "JA" which are etched. Some copies have a raised edge at the circumference of the labels (typical of PRS) whilst others do not. |
 | Discogs URL    | [All About Eve - All About Eve](https://www.discogs.com/release/7972344-All-About-Eve-All-About-Eve) |

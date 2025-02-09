@@ -26,22 +26,22 @@ Dixie Blur is the fourth studio album by American musician and producer Jonathan
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Just For Love |  |
-| A2 | '69 Corvette |  |
-| A3 | New Home |  |
-| A4 | So Alive |  |
-| B1 | In Heaven Making Love |  |
-| B2 | Oh Girl |  |
-| B3 | Pirate |  |
-| C1 | Enemies |  |
-| C2 | Fun For The Masses |  |
-| C3 | Platform |  |
-| C4 | Riding The Blinds |  |
-| D1 | El Camino Real |  |
-| D2 | Golden Apples |  |
-| D3 | Korean Tea |  |
+| Position | Title |
+|----------|--------|
+| A1 | Just For Love |
+| A2 | '69 Corvette |
+| A3 | New Home |
+| A4 | So Alive |
+| B1 | In Heaven Making Love |
+| B2 | Oh Girl |
+| B3 | Pirate |
+| C1 | Enemies |
+| C2 | Fun For The Masses |
+| C3 | Platform |
+| C4 | Riding The Blinds |
+| D1 | El Camino Real |
+| D2 | Golden Apples |
+| D3 | Korean Tea |
 
 
 ## Apple Music

@@ -29,22 +29,22 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Endtro |  |
-| A2 | Guard The Fort  |  |
-| A3 | Bruce 2na  |  |
-| A4 | Distance |  |
-| A5 | Superheroes Anonymous |  |
-| A6 | South Coast Rocks |  |
-| A7 | Superhero Kit |  |
-| B1 | Black Vapor |  |
-| B2 | Feel The Power |  |
-| B3 | Worth Fighting For |  |
-| B4 | Waste No Time |  |
-| B5 | Stay Tuned |  |
-| B6 | Heartbroken |  |
-| B7 | Skillz |  |
+| Position | Title |
+|----------|--------|
+| A1 | Endtro |
+| A2 | Guard The Fort  |
+| A3 | Bruce 2na  |
+| A4 | Distance |
+| A5 | Superheroes Anonymous |
+| A6 | South Coast Rocks |
+| A7 | Superhero Kit |
+| B1 | Black Vapor |
+| B2 | Feel The Power |
+| B3 | Worth Fighting For |
+| B4 | Waste No Time |
+| B5 | Stay Tuned |
+| B6 | Heartbroken |
+| B7 | Skillz |
 
 
 ## Apple Music

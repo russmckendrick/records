@@ -38,24 +38,24 @@ Secret World Live is the second live album and tenth album overall by the Englis
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Come Talk To Me |  |
-| A2 | Steam |  |
-| A3 | Across The River |  |
-| A4 | Slow Marimbas |  |
-| A5 | Shaking The Tree |  |
-| B1 | Red Rain |  |
-| B2 | Blood Of Eden |  |
-| B3 | San Jacinto |  |
-| B4 | Kiss That Frog |  |
-| B5 | Washing Of The Water |  |
-| C1 | Solsbury Hill |  |
-| C2 | Digging In The Dirt |  |
-| C3 | Sledgehammer |  |
-| C4 | Secret World |  |
-| D1 | Don't Give Up |  |
-| D2 | In Your Eyes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Come Talk To Me |
+| A2 | Steam |
+| A3 | Across The River |
+| A4 | Slow Marimbas |
+| A5 | Shaking The Tree |
+| B1 | Red Rain |
+| B2 | Blood Of Eden |
+| B3 | San Jacinto |
+| B4 | Kiss That Frog |
+| B5 | Washing Of The Water |
+| C1 | Solsbury Hill |
+| C2 | Digging In The Dirt |
+| C3 | Sledgehammer |
+| C4 | Secret World |
+| D1 | Don't Give Up |
+| D2 | In Your Eyes |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Secret World Live is the second live album and tenth album overall by the Englis
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Half-Speed Remaster) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR8 |
-| Notes | Single sleeve including two printed inner sleeves with live photos, credits and thank yous.<br><br>Track durations do not appear on the release.<br><br>Catalog numbers:<br>PGLPR8 appears on back cover and spine<br>884108006184 appears on back cover, hype sticker and download coupon<br>PGLPR8LP1 (LP1) and PGLPR8LP2 (LP2) appear on labels<br>884108006283 (LP1) and 884108006290 (LP2) appear on labels and inner sleeves<br><br>[On back cover]:<br>Based on an original concert by Peter Gabriel<br>Recorded in Modena, Italy on 16th and 17th November 1993.<br><br>℗ 2020 Peter Gabriel Ltd. © 2020 Peter Gabriel Ltd.<br>The copyright in this sound recording is owned by Peter Gabriel Ltd.<br><br>[On the 2nd inner sleeve]:<br>additional recording and production: Real World Studios, Box, UK & Guillaume Tell Studios, Paris, France<br>assistant engineering: [...] at Guillaume Tell<br><br>all tracks [...] published by Real World Music Ltd/Sony ATV,<br>except Across the River [...] published by Real World Music Ltd/Sony ATV/Copyright Control<br>Shaking the Tree [...] published by Real World Music Ltd/Sony ATV/BMG VM Music Ltd<br><br>mastering: [...] at Metropolis<br>vinyl cut: [...] at Alchemy Mastering<br><br>[a253252] appears courtesy of [l332774]<br>[a158759] appears courtesy of [url=https://www.discogs.com/label/947040-Lollipop-Records-9]Lollipop Records[/url]<br>[a81363] appears courtesy of [url=https://www.discogs.com/label/309362-The-Imago-Recording-Company]Imago Recording Co.[/url]<br>[a132739] appears courtesy of [url=https://www.discogs.com/label/313338-Filament-Music-Publishers]Filament Music[/url]<br><br>The Secret World Live concert film, directed by François Girard, is also available.<br><br>[Hype sticker]:<br>PETER GABRIEL<br>SECRET WORLD LIVE<br>2xLP 180 gram Vinyl<br>331/3RPM Half-Speed Remaster<br>Includes Hi-Res Download Code<br>884108006184<br><br>Runouts:<br>- Runouts are hand-etched<br>- All Optimal Media plating symbols (e.g. "1+" and "XƧ") are mirrored and some of them may also be upside down. The numeral 1 (i.e., 𐰃) is etched in the continental style with a long riser, and can be misread as V or Λ. Within the string of variant 5, side D, the symbol transcribed as "Δ" actually looks like an etching of 3 separate lines in a triangular arrangement and has a dot on the top. |
+| Notes | Single sleeve including two printed inner sleeves with live photos, credits and thank yous.  Track durations do not appear on the release.  Catalog numbers: PGLPR8 appears on back cover and spine 884108006184 appears on back cover, hype sticker and download coupon PGLPR8LP1 (LP1) and PGLPR8LP2 (LP2) appear on labels 884108006283 (LP1) and 884108006290 (LP2) appear on labels and inner sleeves  [On back cover]: Based on an original concert by Peter Gabriel Recorded in Modena, Italy on 16th and 17th November 1993.  ℗ 2020 Peter Gabriel Ltd. © 2020 Peter Gabriel Ltd. The copyright in this sound recording is owned by Peter Gabriel Ltd.  [On the 2nd inner sleeve]: additional recording and production: Real World Studios, Box, UK & Guillaume Tell Studios, Paris, France assistant engineering: [...] at Guillaume Tell  all tracks [...] published by Real World Music Ltd/Sony ATV, except Across the River [...] published by Real World Music Ltd/Sony ATV/Copyright Control Shaking the Tree [...] published by Real World Music Ltd/Sony ATV/BMG VM Music Ltd  mastering: [...] at Metropolis vinyl cut: [...] at Alchemy Mastering  [a253252] appears courtesy of [l332774] [a158759] appears courtesy of [url=https://www.discogs.com/label/947040-Lollipop-Records-9]Lollipop Records[/url] [a81363] appears courtesy of [url=https://www.discogs.com/label/309362-The-Imago-Recording-Company]Imago Recording Co.[/url] [a132739] appears courtesy of [url=https://www.discogs.com/label/313338-Filament-Music-Publishers]Filament Music[/url]  The Secret World Live concert film, directed by François Girard, is also available.  [Hype sticker]: PETER GABRIEL SECRET WORLD LIVE 2xLP 180 gram Vinyl 331/3RPM Half-Speed Remaster Includes Hi-Res Download Code 884108006184  Runouts: - Runouts are hand-etched - All Optimal Media plating symbols (e.g. "1+" and "XƧ") are mirrored and some of them may also be upside down. The numeral 1 (i.e., 𐰃) is etched in the continental style with a long riser, and can be misread as V or Λ. Within the string of variant 5, side D, the symbol transcribed as "Δ" actually looks like an etching of 3 separate lines in a triangular arrangement and has a dot on the top. |
 | Discogs URL    | [Peter Gabriel - Secret World Live](https://www.discogs.com/release/16094641-Peter-Gabriel-Secret-World-Live) |

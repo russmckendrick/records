@@ -32,22 +32,22 @@ Although Jonny Cragg makes his singing debut in "Skylark" on the band's second L
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Meantime | 4:58 |
-| A2 | Spacehog | 2:14 |
-| A3 | Starside | 3:49 |
-| A4 | Candyman | 5:23 |
-| B1 | Space Is The Place | 3:04 |
-| B2 | Never Coming Down (Part I) | 1:43 |
-| B3 | Cruel To Be Kind | 3:03 |
-| B4 | Ship Wrecked | 5:28 |
-| B5 | Only A Few | 3:24 |
-| C1 | The Last Dictator | 4:13 |
-| C2 | Never Coming Down (Part II) | 4:02 |
-| C3 | Zeroes | 6:38 |
-| D1 | To Be A Millionaire...Was It Likely? | 13:10 |
-| D2 | Untitled | 8:10 |
+| Position | Title |
+|----------|--------|
+| A1 | In The Meantime |
+| A2 | Spacehog |
+| A3 | Starside |
+| A4 | Candyman |
+| B1 | Space Is The Place |
+| B2 | Never Coming Down (Part I) |
+| B3 | Cruel To Be Kind |
+| B4 | Ship Wrecked |
+| B5 | Only A Few |
+| C1 | The Last Dictator |
+| C2 | Never Coming Down (Part II) |
+| C3 | Zeroes |
+| D1 | To Be A Millionaire...Was It Likely? |
+| D2 | Untitled |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Although Jonny Cragg makes his singing debut in "Skylark" on the band's second L
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Pink & Cream Splatter) |
 | Label          | Sire |
 | Catalog Number | 61834-2 |
-| Notes | Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.<br><br>Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.   |
+| Notes | Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.  Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.   |
 | Discogs URL    | [Spacehog - Resident Alien](https://www.discogs.com/release/15815605-Spacehog-Resident-Alien) |

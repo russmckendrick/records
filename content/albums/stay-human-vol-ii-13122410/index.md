@@ -41,22 +41,22 @@ For the past 25 years, singer-songwriter Michael Franti has been wrapping his ar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Little Things |  |
-| A2 | Just To Say I Love You |  |
-| A3 | Flower In The Gun |  |
-| A4 | Only Thing Missing Was You 2 |  |
-| B1 | Stay Human 2 |  |
-| B2 | Summertime Won't Last Long |  |
-| B3 | This World Is So F*cked Up (But I Ain't Ever Giving Up On It) |  |
-| C1 | You're Number One |  |
-| C2 | Enjoy Every Second |  |
-| C3 | Nobody Cries Alone |  |
-| C4 | Extraordinary |  |
-| D1 | When The Sun Begins To Shine |  |
-| D2 | Show Me Your Peace Sign |  |
-| D2 | Take Me Alive |  |
+| Position | Title |
+|----------|--------|
+| A1 | Little Things |
+| A2 | Just To Say I Love You |
+| A3 | Flower In The Gun |
+| A4 | Only Thing Missing Was You 2 |
+| B1 | Stay Human 2 |
+| B2 | Summertime Won't Last Long |
+| B3 | This World Is So F*cked Up (But I Ain't Ever Giving Up On It) |
+| C1 | You're Number One |
+| C2 | Enjoy Every Second |
+| C3 | Nobody Cries Alone |
+| C4 | Extraordinary |
+| D1 | When The Sun Begins To Shine |
+| D2 | Show Me Your Peace Sign |
+| D2 | Take Me Alive |
 
 
 ## Apple Music

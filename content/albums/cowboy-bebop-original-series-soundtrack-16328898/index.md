@@ -35,30 +35,30 @@ styles: ["Soundtrack", "Score", "Anison"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tank! |  |
-| A2 | Rush |  |
-| A3 | Spokey Dokey |  |
-| A4 | Bad Dog No Biscuits |  |
-| A5 | Cat Blues |  |
-| B1 | Cosmos |  |
-| B2 | Space Lion |  |
-| B3 | Waltz For Zizi |  |
-| B4 | Piano Black |  |
-| B5 | Pot City |  |
-| C1 | Too Good Too Bad |  |
-| C2 | Car 24 |  |
-| C3 | The Egg And I |  |
-| C4 | Felt Tip Pen |  |
-| C5 | Rain |  |
-| C6 | Digging My Potato |  |
-| C7 | Memory |  |
-| D1 | What Planet Is This? |  |
-| D2 | Diamonds |  |
-| D3 | Mushroom Hunting |  |
-| D4 | Einstein Groovin’ |  |
-| D5 | Pearls |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tank! |
+| A2 | Rush |
+| A3 | Spokey Dokey |
+| A4 | Bad Dog No Biscuits |
+| A5 | Cat Blues |
+| B1 | Cosmos |
+| B2 | Space Lion |
+| B3 | Waltz For Zizi |
+| B4 | Piano Black |
+| B5 | Pot City |
+| C1 | Too Good Too Bad |
+| C2 | Car 24 |
+| C3 | The Egg And I |
+| C4 | Felt Tip Pen |
+| C5 | Rain |
+| C6 | Digging My Potato |
+| C7 | Memory |
+| D1 | What Planet Is This? |
+| D2 | Diamonds |
+| D3 | Mushroom Hunting |
+| D4 | Einstein Groovin’ |
+| D5 | Pearls |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Soundtrack", "Score", "Anison"]
 | Format         | Vinyl LP (Purple Translucent Marbled), Vinyl LP (Red/Gold Translucent Marbled), All Media Limited Edition Stereo |
 | Label          | Milan |
 | Catalog Number | 19439787681 |
-| Notes | Made in EU<br><br>Issued in a gatefold sleeve with printed inners.<br><br>The US release has swapped vinyl colours in opposite, the first disc is red/gold, and the second is purple. |
+| Notes | Made in EU  Issued in a gatefold sleeve with printed inners.  The US release has swapped vinyl colours in opposite, the first disc is red/gold, and the second is purple. |
 | Discogs URL    | [The Seatbelts - Cowboy Bebop (Original Series Soundtrack)](https://www.discogs.com/release/16328898-Seatbelts-Cowboy-Bebop-Original-Series-Soundtrack) |

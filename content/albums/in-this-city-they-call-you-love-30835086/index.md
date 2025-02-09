@@ -35,20 +35,20 @@ In This City They Call You Love is the tenth studio album by English singer-song
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Two For His Heels |  |
-| A2 | Have Love |  |
-| A3 | Prism In Jeans |  |
-| A4 | Heavy Rain	 |  |
-| A5 | People |  |
-| A6 | Hear That Lonesome Whistle Blow	 |  |
-| B1 | Deep Space |  |
-| B2 | Deep Waters |  |
-| B3 | I'll Never Get Over You |  |
-| B4 | Do I Really Need To Know? |  |
-| B5 | When The Lights Go Out |  |
-| B6 | 'Tis Night |  |
+| Position | Title |
+|----------|--------|
+| A1 | Two For His Heels |
+| A2 | Have Love |
+| A3 | Prism In Jeans |
+| A4 | Heavy Rain	 |
+| A5 | People |
+| A6 | Hear That Lonesome Whistle Blow	 |
+| B1 | Deep Space |
+| B2 | Deep Waters |
+| B3 | I'll Never Get Over You |
+| B4 | Do I Really Need To Know? |
+| B5 | When The Lights Go Out |
+| B6 | 'Tis Night |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ In This City They Call You Love is the tenth studio album by English singer-song
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | BMG |
 | Catalog Number | 964028791 |
-| Notes | Photos shot at Moore Street Electricity Substation, Sheffield<br><br>℗&© 2024 BMG Rights Management (UK) Limited.<br>Manufactured in Germany.<br><br>300 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.<br><br>Runouts are etched.<br> |
+| Notes | Photos shot at Moore Street Electricity Substation, Sheffield  ℗&© 2024 BMG Rights Management (UK) Limited. Manufactured in Germany.  300 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.  Runouts are etched.  |
 | Discogs URL    | [Richard Hawley - In This City They Call You Love](https://www.discogs.com/release/30835086-Richard-Hawley-In-This-City-They-Call-You-Love) |

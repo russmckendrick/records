@@ -32,21 +32,21 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take Back The Power |  |
-| A2 | White Noise |  |
-| A3 | Can't Be Trusted |  |
-| A4 | Liberty |  |
-| A5 | Judge Not |  |
-| A6 | This Is The New Sound |  |
-| A7 | Babylon |  |
-| B1 | Family |  |
-| B2 | Easy On You |  |
-| B3 | A Friend Like Me |  |
-| B4 | Last Call |  |
-| B5 | Haven't Seen The Last Of Me |  |
-| B6 | Jenny Drinks |  |
+| Position | Title |
+|----------|--------|
+| A1 | Take Back The Power |
+| A2 | White Noise |
+| A3 | Can't Be Trusted |
+| A4 | Liberty |
+| A5 | Judge Not |
+| A6 | This Is The New Sound |
+| A7 | Babylon |
+| B1 | Family |
+| B2 | Easy On You |
+| B3 | A Friend Like Me |
+| B4 | Last Call |
+| B5 | Haven't Seen The Last Of Me |
+| B6 | Jenny Drinks |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 | Format         | Vinyl LP Album Repress |
 | Label          | Hellcat Records |
 | Catalog Number | 0530-1 |
-| Notes | Track A7 & B6 are bonus tracks.<br>Printed innersleeve with lyrics |
+| Notes | Track A7 & B6 are bonus tracks. Printed innersleeve with lyrics |
 | Discogs URL    | [The Interrupters - The Interrupters](https://www.discogs.com/release/13602776-The-Interrupters-The-Interrupters) |

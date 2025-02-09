@@ -31,21 +31,21 @@ The album received mixed-to-positive reviews from music critics on release and i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let Them All Talk | 3:05 |
-| A2 | Everyday I Write The Book | 3:54 |
-| A3 | The Greatest Thing | 3:04 |
-| A4 | The Element Within Her | 2:52 |
-| A5 | Love Went Mad | 3:12 |
-| A6 | Shipbuilding | 4:52 |
-| B1 | TKO (Boxing Day) | 3:28 |
-| B2 | Charm School | 3:55 |
-| B3 | The Invisible Man | 3:05 |
-| B4 | Mouth Almighty | 3:00 |
-| B5 | King Of Thieves | 3:45 |
-| B6 | Pills And Soap | 3:42 |
-| B7 | The World And His Wife | 3:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Let Them All Talk |
+| A2 | Everyday I Write The Book |
+| A3 | The Greatest Thing |
+| A4 | The Element Within Her |
+| A5 | Love Went Mad |
+| A6 | Shipbuilding |
+| B1 | TKO (Boxing Day) |
+| B2 | Charm School |
+| B3 | The Invisible Man |
+| B4 | Mouth Almighty |
+| B5 | King Of Thieves |
+| B6 | Pills And Soap |
+| B7 | The World And His Wife |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album received mixed-to-positive reviews from music critics on release and i
 | Format         | Vinyl LP Album |
 | Label          | F-Beat |
 | Catalog Number | XXLP 19 |
-| Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.<br><br>Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)<br><br>[Publishers]<br>Plangent Visions Music Ltd. except<br>"Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.<br><br>[Rear sleeve]:<br>℗ & © 1983 F-Beat Records. Marketed and distributed by<br>RCA Ltd. Record Division.<br><br>[Labels]:<br>℗ 1983 Riviera Global Records Productions Ltd. <br>© 1983 F-Beat Records Ltd.<br><br>Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |
+| Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |
 | Discogs URL    | [Elvis Costello  The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |

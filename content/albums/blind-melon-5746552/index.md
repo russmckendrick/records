@@ -33,21 +33,21 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soak The Sin | 4:02 |
-| A2 | Tones Of Home | 4:27 |
-| A3 | I Wonder | 5:33 |
-| A4 | Paper Scratcher | 3:13 |
-| A5 | Dear Ol' Dad | 3:03 |
-| A6 | Change | 4:02 |
-| A7 | No Rain | 3:35 |
-| B1 | Deserted | 4:22 |
-| B2 | Sleepyhouse | 4:25 |
-| B3 | Holyman | 4:48 |
-| B4 | Seed To A Tree | 3:30 |
-| B5 | Drive | 4:41 |
-| B6 | Time | 6:01 |
+| Position | Title |
+|----------|--------|
+| A1 | Soak The Sin |
+| A2 | Tones Of Home |
+| A3 | I Wonder |
+| A4 | Paper Scratcher |
+| A5 | Dear Ol' Dad |
+| A6 | Change |
+| A7 | No Rain |
+| B1 | Deserted |
+| B2 | Sleepyhouse |
+| B3 | Holyman |
+| B4 | Seed To A Tree |
+| B5 | Drive |
+| B6 | Time |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1100 |
-| Notes | - 180 gram audiophile vinyl<br>- Insert with printed lyrics.<br><br>© 1992 Heavy Melon Music ASCAP<br> |
+| Notes | - 180 gram audiophile vinyl - Insert with printed lyrics.  © 1992 Heavy Melon Music ASCAP  |
 | Discogs URL    | [Blind Melon - Blind Melon](https://www.discogs.com/release/5746552-Blind-Melon-Blind-Melon) |

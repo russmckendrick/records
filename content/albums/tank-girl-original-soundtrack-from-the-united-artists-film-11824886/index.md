@@ -30,20 +30,20 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ripper Sole | 1:42 |
-| A2 | Army Of Me | 3:56 |
-| A3 | Girl U Want | 3:51 |
-| A4 | Mockingbird Girl | 3:30 |
-| A5 | Shove | 3:11 |
-| A6 | Drown Soda | 3:50 |
-| B1 | Bomb | 3:23 |
-| B2 | Roads | 5:04 |
-| B3 | Let's Do It | 2:23 |
-| B4 | Thief | 3:12 |
-| B5 | Aurora | 4:03 |
-| B6 | Big Gun | 3:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Ripper Sole |
+| A2 | Army Of Me |
+| A3 | Girl U Want |
+| A4 | Mockingbird Girl |
+| A5 | Shove |
+| A6 | Drown Soda |
+| B1 | Bomb |
+| B2 | Roads |
+| B3 | Let's Do It |
+| B4 | Thief |
+| B5 | Aurora |
+| B6 | Big Gun |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 | Format         | Vinyl LP Compilation Limited Edition (Aqua Blue Vinyl) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM 0679 |
-| Notes | Limited Gatefold Album Version<br>Aqua Blue Vinyl<br>Limited To 1000 Copies |
+| Notes | Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies |
 | Discogs URL    | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886-Various-Tank-Girl-Original-Soundtrack-From-The-United-Artists-Film) |

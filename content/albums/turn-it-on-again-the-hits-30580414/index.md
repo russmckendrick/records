@@ -31,26 +31,26 @@ styles: ["Soft Rock", "Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Turn It On Again | 3:51 |
-| A2 | Invisible Touch | 3:28 |
-| A3 | Mama | 6:48 |
-| A4 | Land Of Confusion | 4:46 |
-| A5 | I Can't Dance | 4:00 |
-| B1 | Follow You, Follow Me | 3:59 |
-| B2 | Hold On My Heart | 4:37 |
-| B3 | Abacab | 4:10 |
-| B4 | I Know What I Like (In Your Wardrobe) | 4:09 |
-| C1 | No Son Of Mine | 6:35 |
-| C2 | Tonight Tonight Tonight | 4:28 |
-| C3 | In Too Deep | 4:56 |
-| C4 | Congo | 4:03 |
-| D1 | Jesus He Knows Me | 4:17 |
-| D2 | That's All | 4:25 |
-| D3 | Misunderstanding | 3:14 |
-| D4 | Throwing It All Away | 3:51 |
-| D5 | The Carpet Crawlers 1999 | 5:34 |
+| Position | Title |
+|----------|--------|
+| A1 | Turn It On Again |
+| A2 | Invisible Touch |
+| A3 | Mama |
+| A4 | Land Of Confusion |
+| A5 | I Can't Dance |
+| B1 | Follow You, Follow Me |
+| B2 | Hold On My Heart |
+| B3 | Abacab |
+| B4 | I Know What I Like (In Your Wardrobe) |
+| C1 | No Son Of Mine |
+| C2 | Tonight Tonight Tonight |
+| C3 | In Too Deep |
+| C4 | Congo |
+| D1 | Jesus He Knows Me |
+| D2 | That's All |
+| D3 | Misunderstanding |
+| D4 | Throwing It All Away |
+| D5 | The Carpet Crawlers 1999 |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Soft Rock", "Pop Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Craft Recordings |
 | Catalog Number | 603497826544 |
-| Notes | Genesis - Turn It On Again - The Hits. 25th anniversary. On vinyl for the first time<br>Track D5 recorded at Sarm West, Sarm Hookend, Sarm Workshops, Aquarius, Crown, Fisher Lane Farm and Real world Studios.<br>Album compiled at Fisher Lane Farm Studios.. |
+| Notes | Genesis - Turn It On Again - The Hits. 25th anniversary. On vinyl for the first time Track D5 recorded at Sarm West, Sarm Hookend, Sarm Workshops, Aquarius, Crown, Fisher Lane Farm and Real world Studios. Album compiled at Fisher Lane Farm Studios.. |
 | Discogs URL    | [Genesis - Turn It On Again - The Hits](https://www.discogs.com/release/30580414-Genesis-Turn-It-On-Again-The-Hits) |

@@ -37,23 +37,23 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | (Argument With David Rawlings Concerning Morrissey) |  |
-| A2 | To Be Young (Is To Be Sad, Is To Be High) |  |
-| A3 | My Winding Wheel |  |
-| A4 | AMY |  |
-| B1 | Oh My Sweet Carolina |  |
-| B2 | Bartering Lines |  |
-| B3 | Call Me On Your Way Back Home |  |
-| B4 | Damn, Sam (I Love A Woman That Rains) |  |
-| C1 | Come Pick Me Up |  |
-| C2 | To Be The One |  |
-| C3 | Why Do They Leave? |  |
-| C4 | Shakedown On 9th Street |  |
-| D1 | Don't Ask For The Water |  |
-| D2 | In My Time Of Need |  |
-| D3 | Sweet Lil Gal (23rd/1st) |  |
+| Position | Title |
+|----------|--------|
+| A1 | (Argument With David Rawlings Concerning Morrissey) |
+| A2 | To Be Young (Is To Be Sad, Is To Be High) |
+| A3 | My Winding Wheel |
+| A4 | AMY |
+| B1 | Oh My Sweet Carolina |
+| B2 | Bartering Lines |
+| B3 | Call Me On Your Way Back Home |
+| B4 | Damn, Sam (I Love A Woman That Rains) |
+| C1 | Come Pick Me Up |
+| C2 | To Be The One |
+| C3 | Why Do They Leave? |
+| C4 | Shakedown On 9th Street |
+| D1 | Don't Ask For The Water |
+| D2 | In My Time Of Need |
+| D3 | Sweet Lil Gal (23rd/1st) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 052 |
-| Notes | Includes a voucher to download 96/24 WAV version of the album.<br><br>MADE IN GERMANY sticker on shrink wrap on back cover.<br><br>PAX-AM 052 located in lower right corner of back cover.<br>00600753583609 located on spine, and labels. |
+| Notes | Includes a voucher to download 96/24 WAV version of the album.    MADE IN GERMANY sticker on shrink wrap on back cover.    PAX-AM 052 located in lower right corner of back cover.  00600753583609 located on spine, and labels. |
 | Discogs URL    | [Ryan Adams - Heartbreaker](https://www.discogs.com/release/7040056-Ryan-Adams-Heartbreaker) |

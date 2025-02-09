@@ -32,20 +32,20 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jackie |  |
-| A2 | Best Of Both Worlds |  |
-| A3 | Black Sheep Boy |  |
-| A4 | The Amorous Humphrey Plugg |  |
-| A5 | Next |  |
-| A6 | The Girls From The Streets |  |
-| B1 | Plastic Palace People |  |
-| B2 | Wait Until Dark |  |
-| B3 | The Girls And The Dogs |  |
-| B4 | Windows Of The World |  |
-| B5 | The Bridge |  |
-| B6 | Come Next Spring |  |
+| Position | Title |
+|----------|--------|
+| A1 | Jackie |
+| A2 | Best Of Both Worlds |
+| A3 | Black Sheep Boy |
+| A4 | The Amorous Humphrey Plugg |
+| A5 | Next |
+| A6 | The Girls From The Streets |
+| B1 | Plastic Palace People |
+| B2 | Wait Until Dark |
+| B3 | The Girls And The Dogs |
+| B4 | Windows Of The World |
+| B5 | The Bridge |
+| B6 | Come Next Spring |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 | Format         | Vinyl LP Album Stereo |
 | Label          | Philips |
 | Catalog Number | SBL7840 |
-| Notes | Included 11" by 11" artist portrait insert.<br><br>SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.<br><br>A1. ℗ 1967<br>A2 to B6. ℗ 1968<br><br>A1, A5, B3. Carlin/BIEM<br>A2. Lords Music<br>A3. Robbins Music<br>A4, A6, B1, B5. Miracle Songs<br>B2. Blossom Music<br>B4. Blue Seas/Jac<br>B6. Frank Music |
+| Notes | Included 11" by 11" artist portrait insert.  SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.  A1. ℗ 1967 A2 to B6. ℗ 1968  A1, A5, B3. Carlin/BIEM A2. Lords Music A3. Robbins Music A4, A6, B1, B5. Miracle Songs B2. Blossom Music B4. Blue Seas/Jac B6. Frank Music |
 | Discogs URL    | [Scott Walker - Scott 2](https://www.discogs.com/release/2403028-Scott-Walker-Scott-2) |

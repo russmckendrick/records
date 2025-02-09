@@ -29,15 +29,15 @@ The album debuted at number two on the UK Albums Chart and reached number one in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harridan | 8:09 |
-| A2 | Of The New Day | 4:43 |
-| B1 | Rats Return | 5:40 |
-| B2 | Dignity | 8:21 |
-| C1 | Herd Culling | 7:02 |
-| C2 | Walk The Plank | 4:26 |
-| D | Chimera's Wreck | 9:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Harridan |
+| A2 | Of The New Day |
+| B1 | Rats Return |
+| B2 | Dignity |
+| C1 | Herd Culling |
+| C2 | Walk The Plank |
+| D | Chimera's Wreck |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ The album debuted at number two on the UK Albums Chart and reached number one in
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | Music For Nations |
 | Catalog Number | 19439966391 |
-| Notes | Silver 180 gram, limited edition double 12-inch vinyl in wide spine sleeve — available exclusively in the U.K.<br><br>℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment.<br>Closure / Continuation Produced & performed by Porcupine Tree.<br>Made in EU. BIEM / GEMA (LC)13989.<br><br>Hype sticker reads:<br>"Porcupine Tree Closure / Continuation. Silver Vinyl. Cat #. 19439966391".<br><br>The catalogue number '19439966391' is printed on the hype sticker, while the cat# variation '19439956901' is printed on the vinyl labels. |
+| Notes | Silver 180 gram, limited edition double 12-inch vinyl in wide spine sleeve — available exclusively in the U.K.  ℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment. Closure / Continuation Produced & performed by Porcupine Tree. Made in EU. BIEM / GEMA (LC)13989.  Hype sticker reads: "Porcupine Tree Closure / Continuation. Silver Vinyl. Cat #. 19439966391".  The catalogue number '19439966391' is printed on the hype sticker, while the cat# variation '19439956901' is printed on the vinyl labels. |
 | Discogs URL    | [Porcupine Tree - Closure / Continuation](https://www.discogs.com/release/23687546-Porcupine-Tree-Closure-Continuation) |

@@ -30,18 +30,18 @@ styles: ["Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Maniac | 3:29 |
-| A2 | Public Confidential | 3:07 |
-| A3 | Who's Dat Looking | 2:44 |
-| A4 | On The Road | 3:16 |
-| A5 | Dangerous | 4:58 |
-| B1 | Long Call Short Talk | 3:31 |
-| B2 | Giving It Up | 3:15 |
-| B3 | A Good Day For Sunshine | 2:42 |
-| B4 | Skank Away | 3:02 |
-| B5 | Civilisation | 3:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Maniac |
+| A2 | Public Confidential |
+| A3 | Who's Dat Looking |
+| A4 | On The Road |
+| A5 | Dangerous |
+| B1 | Long Call Short Talk |
+| B2 | Giving It Up |
+| B3 | A Good Day For Sunshine |
+| B4 | Skank Away |
+| B5 | Civilisation |
 
 
 ## Apple Music

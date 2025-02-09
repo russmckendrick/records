@@ -36,20 +36,20 @@ The album's title references a cephalophore, a saint carrying his own head, more
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Head Carrier  |  |
-| A2 | Classic Masher  |  |
-| A3 | Baal’s Back  |  |
-| A4 | Might As Well Be Gone  |  |
-| A5 | Oona |  |
-| A6 | Talent |  |
-| B1 | Tenement Song  |  |
-| B2 | Bel Esprit  |  |
-| B3 | All I Think About Now |  |
-| B4 | Um Chagga Lagga  |  |
-| B5 | Plaster Of Paris  |  |
-| B6 | All The Saints |  |
+| Position | Title |
+|----------|--------|
+| A1 | Head Carrier  |
+| A2 | Classic Masher  |
+| A3 | Baal’s Back  |
+| A4 | Might As Well Be Gone  |
+| A5 | Oona |
+| A6 | Talent |
+| B1 | Tenement Song  |
+| B2 | Bel Esprit  |
+| B3 | All I Think About Now |
+| B4 | Um Chagga Lagga  |
+| B5 | Plaster Of Paris  |
+| B6 | All The Saints |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album's title references a cephalophore, a saint carrying his own head, more
 | Format         | Vinyl LP Album (180g, Slipmat) |
 | Label          | Pixies Music |
 | Catalog Number | PM018LP |
-| Notes | The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release. <br><br>Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album. <br>Indie records store exclusive release.  <br><br>From the back cover: <br>Exclusively licensed worldwide to<br>play it aǵain <br>   sam <br><br>℗ & © Pixies Music 2016<br><br>From the inner sleeve: <br>Recorded at RAK Studios <br>Mixed at Psalm Studios <br>Assistant at RAK: [...]<br><br>Pressing plant uncredited, derived from runout etchings. |
+| Notes | The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release.   Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album.  Indie records store exclusive release.    From the back cover:  Exclusively licensed worldwide to play it aǵain     sam   ℗ & © Pixies Music 2016  From the inner sleeve:  Recorded at RAK Studios  Mixed at Psalm Studios  Assistant at RAK: [...]  Pressing plant uncredited, derived from runout etchings. |
 | Discogs URL    | [Pixies - Head Carrier](https://www.discogs.com/release/9051977-Pixies-Head-Carrier) |

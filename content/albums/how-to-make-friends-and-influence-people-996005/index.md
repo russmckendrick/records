@@ -31,21 +31,21 @@ How to Make Friends and Influence People is the second album by the rock band Te
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alice What's The Matter? | 2:43 |
-| A2 | Oblivion | 3:03 |
-| A3 | Stop The Bus | 3:43 |
-| A4 | Discotheque Wreck | 3:17 |
-| A5 | Middleman | 3:32 |
-| A6 | Still The Rhythm | 3:32 |
-| A7 | Ten Shades Of Grey | 3:03 |
-| B1 | Stab In The Back | 4:51 |
-| B2 | Pretend Best Friend | 3:47 |
-| B3 | Time O' The Signs | 3:25 |
-| B4 | What The Doctor Ordered | 2:17 |
-| B5 | Some People Say | 3:03 |
-| B6 | What Makes You Tick | 4:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Alice What's The Matter? |
+| A2 | Oblivion |
+| A3 | Stop The Bus |
+| A4 | Discotheque Wreck |
+| A5 | Middleman |
+| A6 | Still The Rhythm |
+| A7 | Ten Shades Of Grey |
+| B1 | Stab In The Back |
+| B2 | Pretend Best Friend |
+| B3 | Time O' The Signs |
+| B4 | What The Doctor Ordered |
+| B5 | Some People Say |
+| B6 | What Makes You Tick |
 
 
 ## Apple Music

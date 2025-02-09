@@ -34,19 +34,19 @@ The album was promoted by the single "Stripped" released 10 February, and was fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Celebration | 4:55 |
-| A2 | Fly On The Windscreen - Final | 5:18 |
-| A3 | A Question Of Lust | 4:20 |
-| A4 | Sometimes | 1:53 |
-| A5 | It Doesn't Matter Two | 2:50 |
-| B1 | A Question Of Time | 4:10 |
-| B2 | Stripped | 4:16 |
-| B3 | Here Is The House | 4:15 |
-| B4 | World Full Of Nothing | 2:50 |
-| B5 | Dressed In Black | 2:32 |
-| B6 | New Dress | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Celebration |
+| A2 | Fly On The Windscreen - Final |
+| A3 | A Question Of Lust |
+| A4 | Sometimes |
+| A5 | It Doesn't Matter Two |
+| B1 | A Question Of Time |
+| B2 | Stripped |
+| B3 | Here Is The House |
+| B4 | World Full Of Nothing |
+| B5 | Dressed In Black |
+| B6 | New Dress |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was promoted by the single "Stripped" released 10 February, and was fo
 | Format         | Vinyl LP Album Remastered Reissue (Gatefold, 180 Gram) |
 | Label          | Legacy |
 | Catalog Number | STUMM26 |
-| Notes | 180 Gram Superior Audio Quality<br><br>℗ 1986 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. <br>© 1986, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.<br>Made in the EU.<br>Sony Music Entertainment International Services GmbH.<br><br>Very similar release: [url=https://www.discogs.com/release/13132856]Black Celebration[/url]<br>Differences: Legacy Logo right of Sony on label + Legacy Sticker on cover (this), Mute Logo left of STUMM26 on label (other) |
+| Notes | 180 Gram Superior Audio Quality  ℗ 1986 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.  © 1986, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Made in the EU. Sony Music Entertainment International Services GmbH.  Very similar release: [url=https://www.discogs.com/release/13132856]Black Celebration[/url] Differences: Legacy Logo right of Sony on label + Legacy Sticker on cover (this), Mute Logo left of STUMM26 on label (other) |
 | Discogs URL    | [Depeche Mode - Black Celebration](https://www.discogs.com/release/9180616-Depeche-Mode-Black-Celebration) |

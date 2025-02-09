@@ -38,25 +38,25 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Horn Intro | 0:10 |
-| A2 | The World At Large | 4:32 |
-| A3 | Float On | 3:28 |
-| A4 | Ocean Breathes Salty | 3:47 |
-| B1 | Dig Your Grave | 0:13 |
-| B2 | Bury Me With It | 3:49 |
-| B3 | Dance Hall | 2:57 |
-| B4 | Bukowski | 4:14 |
-| B5 | This Devil's Workday | 2:19 |
-| C1 | The View | 4:11 |
-| C2 | Satin In A Coffin | 2:35 |
-| C3 | Interlude (Milo) | 0:58 |
-| C4 | Blame It On The Tetons | 5:24 |
-| D1 | Black Cadillacs | 2:43 |
-| D2 | One Chance | 3:02 |
-| D3 | The Good Times Are Killing Me | 4:16 |
-| D4 | I've Got It All (Most) | 3:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Horn Intro |
+| A2 | The World At Large |
+| A3 | Float On |
+| A4 | Ocean Breathes Salty |
+| B1 | Dig Your Grave |
+| B2 | Bury Me With It |
+| B3 | Dance Hall |
+| B4 | Bukowski |
+| B5 | This Devil's Workday |
+| C1 | The View |
+| C2 | Satin In A Coffin |
+| C3 | Interlude (Milo) |
+| C4 | Blame It On The Tetons |
+| D1 | Black Cadillacs |
+| D2 | One Chance |
+| D3 | The Good Times Are Killing Me |
+| D4 | I've Got It All (Most) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Epic |
 | Catalog Number | E2 87125 |
-| Notes | 180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."<br><br>Includes printed inner-sleeves containing lyrics, credits and artwork.<br><br>EPIC E2-87125-1<br>© 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment<br><br>Pressing and lacquer cutting credits are identified in runout etchings. |
+| Notes | 180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."  Includes printed inner-sleeves containing lyrics, credits and artwork.  EPIC E2-87125-1 © 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment  Pressing and lacquer cutting credits are identified in runout etchings. |
 | Discogs URL    | [Modest Mouse - Good News For People Who Love Bad News](https://www.discogs.com/release/2862960-Modest-Mouse-Good-News-For-People-Who-Love-Bad-News) |

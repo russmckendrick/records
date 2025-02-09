@@ -65,69 +65,69 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Yoshimi Battles The Pink Robots |  |
-| A1 | Fight Test | 4:14 |
-| A2 | One More Robot | 4:59 |
-| A3 | Yoshimi Battles The Pink Robots Pt. 1 | 4:46 |
-| A4 | Yoshimi Battles The Pink Robots Pt. 2 | 2:53 |
-| A5 | In The Morning Of The Magicians | 6:19 |
-| B1 | Ego Tripping At The Gates Of Hell | 4:34 |
-| B2 | Are You A Hypnotist?? | 4:45 |
-| B3 | It's Summertime | 4:20 |
-| B4 | Do You Realize?? | 3:33 |
-| B5 | All We Have Is Now | 3:53 |
-| B6 | Approaching Pavonis Mons By Ballon (Utopia Planitia) | 3:11 |
-|  | Demos+ |  |
-| C1 | All My Life – Morning Of The Magicians | 1:24 |
-| C2 | Ego Tripping Part 2 Or 3 | 5:22 |
-| C3 | Yoshimi Battles The Pink Robots | 2:58 |
-| C4 | Hypnotist: Early Version | 5:10 |
-| C5 | Epic Systems Delirium | 2:31 |
-| C6 | In The Morning Of The Magicians | 4:02 |
-| D1 | Do You Realize?? (1st Chords Wayne)  | 3:59 |
-| D2 | Do You Realize?? (Steven New Part) | 3:08 |
-| D3 | Fight Test: Primitive Demo With Helium Voice | 3:41 |
-| D4 | If I Go Mad / Funeral In My Head | 6:33 |
-| D5 | Syrtis Major | 3:18 |
-|  | Non-LP+ |  |
-| E1 | Yoshimi Battles The Pink Robots (Japanese Version) | 4:57 |
-| E2 | Spongebob & Patrick Confront The Psychic Wall Of Energy | 3:38 |
-| E3 | Seven Nation Army | 2:51 |
-| E4 | Go  | 4:41 |
-| E5 | The Deterioration Of The Fight Or Flight Response | 2:50 |
-| E6 | Fight Test (Live On WXRT, May 2nd, 2003) | 2:43 |
-| F1 | Do You Realize?? (Live On CD 101) | 3:39 |
-| F2 | Yoshimi Battles The Pink Robots (AOL Session) | 3:31 |
-| F3 | Waitin' For A Superman (Live On WXPN) | 4:18 |
-| F4 | In The Morning Of The Magicians (Live On KCRW) | 3:58 |
-| F5 | White Christmas (Live On WXPN) | 3:28 |
-| F6 | The Golden Path | 4:47 |
-|  | Radio Sessions |  |
-| G1 | Suspicious Minds (Live On Cover-ed) | 6:34 |
-| G2 | Assassination Of The Sun | 4:25 |
-| G3 | Can't Get You Out Of My Head (Live On BBC Radio 1) | 4:01 |
-| G4 | Do You Realize?? (Live On BBC Radio 1) | 3:23 |
-| G5 | One More Robot (Live On BBC Radio 1) | 3:54 |
-| H1 | Do You Realize?? (Live On KEXP) | 3:39 |
-| H2 | One More Robot (Live On KEXP) | 3:20 |
-| H3 | Can't Get You Out Of My Head (Live On KEXP) | 4:08 |
-| H4 | Yoshimi Battles The Pink Robots (Live On KEXP) | 3:19 |
-| H5 | Breathe (Live On XFM) | 3:12 |
-| H6 | Ego Tripping At The Gates of Hell (Live On XFM) | 3:26 |
-| H7 | Sunship Balloons (Live On XFM) | 3:09 |
-|  | Radio Sessions+ |  |
-| I1 | Fight Test (Live On XFM) | 4:03 |
-| I2 | Thank You Jack White (Live On XFM) | 4:18 |
-| I3 | Do You Realize?? (Live On XFM) | 3:39 |
-| I4 | One More Robot (Live On XFM)  | 4:28 |
-| I5 | Can't Get You Out Of My Head (Live On XFM)  | 4:15 |
-| J1 | Ego Tripping At The Gates Of Hell (Live On BBC Radio 1) | 3:50 |
-| J2 | Yoshimi Battles The Pink Robots (Live On BBC Radio 1) | 3:22 |
-| J3 | Sunship Balloons (Live On BBC Radio 1) | 3:16 |
-| J4 | Up Above The Daily Hum | 4:10 |
-| J5 | Xanthe Terra | 3:55 |
+| Position | Title |
+|----------|--------|
+|  | Yoshimi Battles The Pink Robots |
+| A1 | Fight Test |
+| A2 | One More Robot |
+| A3 | Yoshimi Battles The Pink Robots Pt. 1 |
+| A4 | Yoshimi Battles The Pink Robots Pt. 2 |
+| A5 | In The Morning Of The Magicians |
+| B1 | Ego Tripping At The Gates Of Hell |
+| B2 | Are You A Hypnotist?? |
+| B3 | It's Summertime |
+| B4 | Do You Realize?? |
+| B5 | All We Have Is Now |
+| B6 | Approaching Pavonis Mons By Ballon (Utopia Planitia) |
+|  | Demos+ |
+| C1 | All My Life – Morning Of The Magicians |
+| C2 | Ego Tripping Part 2 Or 3 |
+| C3 | Yoshimi Battles The Pink Robots |
+| C4 | Hypnotist: Early Version |
+| C5 | Epic Systems Delirium |
+| C6 | In The Morning Of The Magicians |
+| D1 | Do You Realize?? (1st Chords Wayne)  |
+| D2 | Do You Realize?? (Steven New Part) |
+| D3 | Fight Test: Primitive Demo With Helium Voice |
+| D4 | If I Go Mad / Funeral In My Head |
+| D5 | Syrtis Major |
+|  | Non-LP+ |
+| E1 | Yoshimi Battles The Pink Robots (Japanese Version) |
+| E2 | Spongebob & Patrick Confront The Psychic Wall Of Energy |
+| E3 | Seven Nation Army |
+| E4 | Go  |
+| E5 | The Deterioration Of The Fight Or Flight Response |
+| E6 | Fight Test (Live On WXRT, May 2nd, 2003) |
+| F1 | Do You Realize?? (Live On CD 101) |
+| F2 | Yoshimi Battles The Pink Robots (AOL Session) |
+| F3 | Waitin' For A Superman (Live On WXPN) |
+| F4 | In The Morning Of The Magicians (Live On KCRW) |
+| F5 | White Christmas (Live On WXPN) |
+| F6 | The Golden Path |
+|  | Radio Sessions |
+| G1 | Suspicious Minds (Live On Cover-ed) |
+| G2 | Assassination Of The Sun |
+| G3 | Can't Get You Out Of My Head (Live On BBC Radio 1) |
+| G4 | Do You Realize?? (Live On BBC Radio 1) |
+| G5 | One More Robot (Live On BBC Radio 1) |
+| H1 | Do You Realize?? (Live On KEXP) |
+| H2 | One More Robot (Live On KEXP) |
+| H3 | Can't Get You Out Of My Head (Live On KEXP) |
+| H4 | Yoshimi Battles The Pink Robots (Live On KEXP) |
+| H5 | Breathe (Live On XFM) |
+| H6 | Ego Tripping At The Gates of Hell (Live On XFM) |
+| H7 | Sunship Balloons (Live On XFM) |
+|  | Radio Sessions+ |
+| I1 | Fight Test (Live On XFM) |
+| I2 | Thank You Jack White (Live On XFM) |
+| I3 | Do You Realize?? (Live On XFM) |
+| I4 | One More Robot (Live On XFM)  |
+| I5 | Can't Get You Out Of My Head (Live On XFM)  |
+| J1 | Ego Tripping At The Gates Of Hell (Live On BBC Radio 1) |
+| J2 | Yoshimi Battles The Pink Robots (Live On BBC Radio 1) |
+| J3 | Sunship Balloons (Live On BBC Radio 1) |
+| J4 | Up Above The Daily Hum |
+| J5 | Xanthe Terra |
 
 
 ## Apple Music
@@ -145,5 +145,5 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 | Format         | Vinyl LP Reissue, Vinyl 4× LP Compilation, Box Set Album Deluxe Edition (20th Anniversary) |
 | Label          | Warner Records |
 | Catalog Number | 093624 873051 |
-| Notes | Left hand side opening slip-case box<br>Includes 22-page booklet and fold-out poster. <br><br>Records in individual sleeves with plain paper inners. <br><br>On each side, initial "093624873051-A CB" string of the runout is etched, and the following "1245947 244215E1" string is stamped. |
+| Notes | Left hand side opening slip-case box Includes 22-page booklet and fold-out poster.   Records in individual sleeves with plain paper inners.   On each side, initial "093624873051-A CB" string of the runout is etched, and the following "1245947 244215E1" string is stamped. |
 | Discogs URL    | [The Flaming Lips - Yoshimi Battles The Pink Robots](https://www.discogs.com/release/26754977-The-Flaming-Lips-Yoshimi-Battles-The-Pink-Robots) |

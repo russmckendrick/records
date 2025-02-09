@@ -40,14 +40,14 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The 2009 Stereo Mixes By Mike Oldfield |  |
-| A | Tubular Bells (Part One) |  |
-| B | Tubular Bells (Part Two) |  |
-|  | The Original 1973 Stereo Album Mix |  |
-| C | Tubular Bells (Part One) |  |
-| D | Tubular Bells (Part Two) |  |
+| Position | Title |
+|----------|--------|
+|  | The 2009 Stereo Mixes By Mike Oldfield |
+| A | Tubular Bells (Part One) |
+| B | Tubular Bells (Part Two) |
+|  | The Original 1973 Stereo Album Mix |
+| C | Tubular Bells (Part One) |
+| D | Tubular Bells (Part Two) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 | Format         | Vinyl LP Album Reissue (180 Gram ), Vinyl LP Album Reissue (180 Gram), All Media Deluxe Edition Remastered Stereo (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 0600753695036 |
-| Notes | 2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.<br><br>Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi.<br> |
+| Notes | 2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.  Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi.  |
 | Discogs URL    | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/9412569-Mike-Oldfield-Tubular-Bells) |

@@ -31,19 +31,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kent | 3:33 |
-| A2 | The King Of Love | 3:16 |
-| A3 | Heaven Can Wait | 2:37 |
-| A4 | Mistress | 3:01 |
-| A5 | Diminished Clothes | 4:19 |
-| B1 | Clear My Name | 2:53 |
-| B2 | Come Back Tomorrow | 3:16 |
-| B3 | On A Leash | 4:06 |
-| B4 | What Do You Say About That? | 3:29 |
-| B5 | Planet In The Ocean | 2:25 |
-| B6 | Problématique | 3:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Kent |
+| A2 | The King Of Love |
+| A3 | Heaven Can Wait |
+| A4 | Mistress |
+| A5 | Diminished Clothes |
+| B1 | Clear My Name |
+| B2 | Come Back Tomorrow |
+| B3 | On A Leash |
+| B4 | What Do You Say About That? |
+| B5 | Planet In The Ocean |
+| B6 | Problématique |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Compilation (140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1129 |
-| Notes | Hype sticker says: "On vinyl for the first time. Featuring 'Diminished Clothes', 'Kent' and 'On A Leash'. 140g black vinyl. Includes art print signed by Marijne van der Vlugt and Paul Kennedy <br><br>Rear sleeve states "The First Three Singles."<br><br>Tracks 1-5 ℗1993 Waldorf Records. <br>Tracks 6-11 ℗1994 Island Records Ltd. <br>©1994 Island Records Ltd. Marketed by Demon Records<br> |
+| Notes | Hype sticker says: "On vinyl for the first time. Featuring 'Diminished Clothes', 'Kent' and 'On A Leash'. 140g black vinyl. Includes art print signed by Marijne van der Vlugt and Paul Kennedy   Rear sleeve states "The First Three Singles."  Tracks 1-5 ℗1993 Waldorf Records.  Tracks 6-11 ℗1994 Island Records Ltd.  ©1994 Island Records Ltd. Marketed by Demon Records  |
 | Discogs URL    | [Salad - Singles Bar](https://www.discogs.com/release/28627258-Salad-Singles-Bar) |

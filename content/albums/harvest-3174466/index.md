@@ -38,18 +38,18 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Out On The Weekend | 4:32 |
-| A2 | Harvest | 3:09 |
-| A3 | A Man Needs A Maid | 4:02 |
-| A4 | Heart Of Gold | 3:07 |
-| A5 | Are You Ready For The Country? | 3:24 |
-| B1 | Old Man | 3:22 |
-| B2 | There's A World | 2:59 |
-| B3 | Alabama | 4:02 |
-| B4 | The Needle And The Damage Done | 2:03 |
-| B5 | Words (Between The Lines Of Age) | 6:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Out On The Weekend |
+| A2 | Harvest |
+| A3 | A Man Needs A Maid |
+| A4 | Heart Of Gold |
+| A5 | Are You Ready For The Country? |
+| B1 | Old Man |
+| B2 | There's A World |
+| B3 | Alabama |
+| B4 | The Needle And The Damage Done |
+| B5 | Words (Between The Lines Of Age) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49786-5 |
-| Notes | Sticker the sleeve: <br>A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)<br><br>On the back:<br>Neil Young Archives, Official Release Series, Disc 04<br><br>Comes in a textured, gatefold sleeve and with gatefold lyric sheet.<br><br>Matrices in runouts are etched, "-18662-" are stamped. |
+| Notes | Sticker the sleeve:  A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)  On the back: Neil Young Archives, Official Release Series, Disc 04  Comes in a textured, gatefold sleeve and with gatefold lyric sheet.  Matrices in runouts are etched, "-18662-" are stamped. |
 | Discogs URL    | [Neil Young - Harvest](https://www.discogs.com/release/3174466-Neil-Young-Harvest) |

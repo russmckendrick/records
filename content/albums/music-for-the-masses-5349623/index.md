@@ -36,18 +36,18 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Never Let Me Down Again | 4:47 |
-| A2 | The Things You Said | 3:55 |
-| A3 | Strangelove | 4:38 |
-| A4 | Sacred | 5:01 |
-| A5 | Little 15 | 4:14 |
-| B1 | Behind The Wheel | 5:17 |
-| B2 | I Want You Now | 3:28 |
-| B3 | To Have And To Hold | 3:08 |
-| B4 | Nothing | 4:12 |
-| B5 | Pimpf | 3:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Never Let Me Down Again |
+| A2 | The Things You Said |
+| A3 | Strangelove |
+| A4 | Sacred |
+| A5 | Little 15 |
+| B1 | Behind The Wheel |
+| B2 | I Want You Now |
+| B3 | To Have And To Hold |
+| B4 | Nothing |
+| B5 | Pimpf |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 | Format         | Vinyl LP Album Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP942 |
-| Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.<br><br>℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. <br><br>Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd. <br><br>Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.<br><br>Design & Artwork Photography at T&CP Assoc.<br> |
+| Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.  ℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V.   Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.   Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.  Design & Artwork Photography at T&CP Assoc.  |
 | Discogs URL    | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623-Depeche-Mode-Music-For-The-Masses) |

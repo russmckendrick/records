@@ -32,12 +32,12 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Clipped |  |
-| A2 | Die Like A Dog |  |
-| B1 | Galaxy |  |
-| B2 | Cherry |  |
+| Position | Title |
+|----------|--------|
+| A1 | Clipped |
+| A2 | Die Like A Dog |
+| B1 | Galaxy |
+| B2 | Cherry |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Pink & Purple Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12032 |
-| Notes | Part of the Curve EP reissue series.<br>180 gram audiophile vinyl.<br>Limited edition of 1000 on Pink & Purple Marbled vinyl.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series.<br><br>Track durations not listed on the release. |
+| Notes | Part of the Curve EP reissue series. 180 gram audiophile vinyl. Limited edition of 1000 on Pink & Purple Marbled vinyl. Individual number stamped in silver metallic on rear of outer sleeve. Plastic outer sleeve with Music On Vinyl sticker. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track durations not listed on the release. |
 | Discogs URL    | [Curve - Cherry](https://www.discogs.com/release/26071120-Curve-Cherry) |

@@ -37,22 +37,22 @@ The album was re-released by EMI as a deluxe edition CD and LP on July 17, 2012.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soothe |  |
-| A2 | Frail And Bedazzled |  |
-| A3 | Plume |  |
-| A4 | Whir |  |
-| B1 | Blew Away |  |
-| B2 | Pissant |  |
-| B3 | Hello Kitty Kat |  |
-| B4 | Obscured |  |
-| C1 | Landslide |  |
-| C2 | Starla |  |
-| D1 | Blue |  |
-| D2 | Girl Named Sandoz |  |
-| D3 | La Dolly Vita |  |
-| D4 | Spaced |  |
+| Position | Title |
+|----------|--------|
+| A1 | Soothe |
+| A2 | Frail And Bedazzled |
+| A3 | Plume |
+| A4 | Whir |
+| B1 | Blew Away |
+| B2 | Pissant |
+| B3 | Hello Kitty Kat |
+| B4 | Obscured |
+| C1 | Landslide |
+| C2 | Starla |
+| D1 | Blue |
+| D2 | Girl Named Sandoz |
+| D3 | La Dolly Vita |
+| D4 | Spaced |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ The album was re-released by EMI as a deluxe edition CD and LP on July 17, 2012.
 | Format         | Vinyl 2× LP Reissue Remastered Compilation (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 5099946425416 |
-| Notes | "Printed in the EU" on sleeve rear. (European Union)<br>---------------------------------------------------<br>Reissue Produced by Billy Corgan<br>Project Management: Bjorn Thorarud, Rynda Laurel, Michael Murphy<br>Vinyl Mastering by Stan Getz at A&R<br>Reissue Art Direction/Design: Noel Waggener<br>Illustrations: Satch Grimley<br>Legal Oversight: Jill Berliner<br>---------------------------------------------------<br>Original Pisces Iscariot Packaging and Photographing: Billy Corgan & Michael Meister.<br>Original Pisces Iscariot Design Assistance: Rachel Gutek<br><br>℗ 2012 The copyright of this sound recording is owned by Virgin Records America, Inc.<br>© 2012 Virgin Records America, Inc. 5099946425416<br>---------------------------------------------------<br>All songs written by Billy Corgan, except "Plume" written by Billy Corgan and James Iha, "Blew Away" written by James Iha, "Landslide" written by Stevie Nicks, "Girl Named Sandoz" written by Eric Burdon/John Weider. <br><br>Produced by Butch Vig and Billy Corgan, except "Plume" and "Starla" produced by Billy Corgan and Kerry Brown; "Soothe" produced by Billy Corgan; "Blew Away" produced by James Iha and Kerry Brown; "Landslide" produced by Ted de Bono; "Girl Named Sandoz" produced by Dale Griffin. <br><br>All songs published by Cinderful Music/Chrysalis Songs (BMI); except "Landslide" published by Welsh Witch Music/Sony Songs Inc. (BMI); "Girl Named Sandoz" published by Unichappell Music, Inc. (BMI). <br><br>"Landslide" released by arrangement with BBC Enterprises Ltd. <br>---------------------------------------------------<br>Printed inner sleeves contains lyric sheet and details/notes on the songs from Billy Corgan. Written February 12, 2012 specifically for the reissue.<br><br>Pressed By information is not listed. Information derived from runouts. <br><br>Runouts are etched.<br><br>Around 2022 this compilation was re-released with the same graphical layout and the same Optimal Media master cut by Marko Kluge (MK) with BC77969 as pressing number. It can be distinguished by the presence of a "Made in Germany" sticker that can be found on the shrinkwrap right above the barcode. |
+| Notes | "Printed in the EU" on sleeve rear. (European Union) --------------------------------------------------- Reissue Produced by Billy Corgan Project Management: Bjorn Thorarud, Rynda Laurel, Michael Murphy Vinyl Mastering by Stan Getz at A&R Reissue Art Direction/Design: Noel Waggener Illustrations: Satch Grimley Legal Oversight: Jill Berliner --------------------------------------------------- Original Pisces Iscariot Packaging and Photographing: Billy Corgan & Michael Meister. Original Pisces Iscariot Design Assistance: Rachel Gutek  ℗ 2012 The copyright of this sound recording is owned by Virgin Records America, Inc. © 2012 Virgin Records America, Inc. 5099946425416 --------------------------------------------------- All songs written by Billy Corgan, except "Plume" written by Billy Corgan and James Iha, "Blew Away" written by James Iha, "Landslide" written by Stevie Nicks, "Girl Named Sandoz" written by Eric Burdon/John Weider.   Produced by Butch Vig and Billy Corgan, except "Plume" and "Starla" produced by Billy Corgan and Kerry Brown; "Soothe" produced by Billy Corgan; "Blew Away" produced by James Iha and Kerry Brown; "Landslide" produced by Ted de Bono; "Girl Named Sandoz" produced by Dale Griffin.   All songs published by Cinderful Music/Chrysalis Songs (BMI); except "Landslide" published by Welsh Witch Music/Sony Songs Inc. (BMI); "Girl Named Sandoz" published by Unichappell Music, Inc. (BMI).   "Landslide" released by arrangement with BBC Enterprises Ltd.  --------------------------------------------------- Printed inner sleeves contains lyric sheet and details/notes on the songs from Billy Corgan. Written February 12, 2012 specifically for the reissue.  Pressed By information is not listed. Information derived from runouts.   Runouts are etched.  Around 2022 this compilation was re-released with the same graphical layout and the same Optimal Media master cut by Marko Kluge (MK) with BC77969 as pressing number. It can be distinguished by the presence of a "Made in Germany" sticker that can be found on the shrinkwrap right above the barcode. |
 | Discogs URL    | [The Smashing Pumpkins - Pisces Iscariot](https://www.discogs.com/release/4225337-Smashing-Pumpkins-Pisces-Iscariot) |

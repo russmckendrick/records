@@ -35,19 +35,19 @@ A remastered and expanded edition of the album, titled More Music for the Jilted
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 0:45 |
-| A2 | Break & Enter | 8:24 |
-| A3 | Their Law | 6:39 |
-| A4 | Full Throttle | 5:02 |
-| B5 | Voodoo People | 6:26 |
-| B6 | Speedway (Theme From 'Fastlane') | 8:56 |
-| B7 | The Heat (The Energy) | 4:27 |
-| C8 | Poison | 6:42 |
-| C9 | No Good (Start The Dance) | 6:18 |
-| C10 | One Love (Edit) | 3:53 |
-|  | The Narcotic Suite |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Break & Enter |
+| A3 | Their Law |
+| A4 | Full Throttle |
+| B5 | Voodoo People |
+| B6 | Speedway (Theme From 'Fastlane') |
+| B7 | The Heat (The Energy) |
+| C8 | Poison |
+| C9 | No Good (Start The Dance) |
+| C10 | One Love (Edit) |
+|  | The Narcotic Suite |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ A remastered and expanded edition of the album, titled More Music for the Jilted
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 114 |
-| Notes | 2008 repress not in gatefold sleeve.<br>On the center labels the "THE" part of the bands logo is damaged (doesn't occur on all copies).<br>Compared to the [url=https://www.discogs.com/release/8529918-The-Prodigy-Music-For-The-Jilted-Generation]2006 reissue[/url], this version does not have the word recordings printed under the XL logo on side labels.<br><br>Includes 2 identical printed inner sleeves.<br><br>The tracks are sequentially listed as 1 to 13 (both on the sleeve and on the labels).<br><br>All tracks written at Earthbound Studios. <br>Tracks A1, A2, A3, B6, C8, D11, D12 and D13 produced and mixed at Earthbound Studios. <br>Tracks A4, B5, B7, C9 and C10 produced and mixed at The Strongroom.<br><br>Samples from:<br>Track A2 sample taken from 'Casanova' by [a9076] courtesy of [l313822]<br>Track C9 'No Good For Me' by [a29231] sampled under license from [l66802], a division of [l277294]<br><br>All tracks published by EMI/Virgin Music Publishing Ltd. except track C9 published by EMI/Virgin Publishing Ltd. / All Boys Music Ltd.<br><br>℗ & © 1994 XL-Recordings<br><br>For the gatefold sleeve version, please refer to [r=1722156] instead. |
+| Notes | 2008 repress not in gatefold sleeve. On the center labels the "THE" part of the bands logo is damaged (doesn't occur on all copies). Compared to the [url=https://www.discogs.com/release/8529918-The-Prodigy-Music-For-The-Jilted-Generation]2006 reissue[/url], this version does not have the word recordings printed under the XL logo on side labels.  Includes 2 identical printed inner sleeves.  The tracks are sequentially listed as 1 to 13 (both on the sleeve and on the labels).  All tracks written at Earthbound Studios.  Tracks A1, A2, A3, B6, C8, D11, D12 and D13 produced and mixed at Earthbound Studios.  Tracks A4, B5, B7, C9 and C10 produced and mixed at The Strongroom.  Samples from: Track A2 sample taken from 'Casanova' by [a9076] courtesy of [l313822] Track C9 'No Good For Me' by [a29231] sampled under license from [l66802], a division of [l277294]  All tracks published by EMI/Virgin Music Publishing Ltd. except track C9 published by EMI/Virgin Publishing Ltd. / All Boys Music Ltd.  ℗ & © 1994 XL-Recordings  For the gatefold sleeve version, please refer to [r=1722156] instead. |
 | Discogs URL    | [The Prodigy - Music For The Jilted Generation](https://www.discogs.com/release/1411395-The-Prodigy-Music-For-The-Jilted-Generation) |

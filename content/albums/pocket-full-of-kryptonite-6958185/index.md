@@ -33,19 +33,19 @@ The album's title is a quote from the opening track, "Jimmy Olsen's Blues", a hu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jimmy Olsen's Blues | 4:35 |
-| A2 | What Time Is It? | 4:49 |
-| A3 | Little Miss Cant Be Wrong  | 3:53 |
-| A4 | Forty Or Fifty  | 4:23 |
-| A5 | Refrigerator Car | 4:44 |
-| A6 | More Than She Knows  | 2:10 |
-| B1 | Two Princes  | 4:16 |
-| B2 | Off My Line | 3:57 |
-| B3 | How Could You Want Him (When You Know You Could Have Me?) | 4:58 |
-| B4 A | Shinbone Alley |  |
-| B4 B | Hard To Exist |  |
+| Position | Title |
+|----------|--------|
+| A1 | Jimmy Olsen's Blues |
+| A2 | What Time Is It? |
+| A3 | Little Miss Cant Be Wrong  |
+| A4 | Forty Or Fifty  |
+| A5 | Refrigerator Car |
+| A6 | More Than She Knows  |
+| B1 | Two Princes  |
+| B2 | Off My Line |
+| B3 | How Could You Want Him (When You Know You Could Have Me?) |
+| B4 A | Shinbone Alley |
+| B4 B | Hard To Exist |
 
 
 ## Apple Music

@@ -42,38 +42,38 @@ A number of guests performed on the album, including Morgen Ågren of Kaipa on d
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daddy | 5:11 |
-| A2 | Mountaintop | 5:33 |
-| A3 | Flight | 5:32 |
-| A4 | The Code | 4:41 |
-| B1 | Moon | 6:28 |
-| B2 | Pier | 3:39 |
-| B3 | Ether | 4:50 |
-| B4 | Hejda | 3:40 |
-| C1 | Forgive Me | 6:00 |
-| C2 | Broken | 1:59 |
-| C3 | Bones | 3:39 |
-| C4 | Deathscope | 6:13 |
-| D1 | The Field | 4:01 |
-| D2 | The Bridge | 8:13 |
-| D3 | Pure | 4:08 |
-| CD-1 | Daddy |  |
-| CD-2 | Mountaintop |  |
-| CD-3 | Flight |  |
-| CD-4 | The Code |  |
-| CD-5 | Moon |  |
-| CD-6 | Pier |  |
-| CD-7 | Ether |  |
-| CD-8 | Hejda |  |
-| CD-9 | Forgive Me |  |
-| CD-10 | Broken |  |
-| CD-11 | Bones |  |
-| CD-12 | Deathscope |  |
-| CD-13 | The Field |  |
-| CD-14 | The Bridge |  |
-| CD-15 | Pure |  |
+| Position | Title |
+|----------|--------|
+| A1 | Daddy |
+| A2 | Mountaintop |
+| A3 | Flight |
+| A4 | The Code |
+| B1 | Moon |
+| B2 | Pier |
+| B3 | Ether |
+| B4 | Hejda |
+| C1 | Forgive Me |
+| C2 | Broken |
+| C3 | Bones |
+| C4 | Deathscope |
+| D1 | The Field |
+| D2 | The Bridge |
+| D3 | Pure |
+| CD-1 | Daddy |
+| CD-2 | Mountaintop |
+| CD-3 | Flight |
+| CD-4 | The Code |
+| CD-5 | Moon |
+| CD-6 | Pier |
+| CD-7 | Ether |
+| CD-8 | Hejda |
+| CD-9 | Forgive Me |
+| CD-10 | Broken |
+| CD-11 | Bones |
+| CD-12 | Deathscope |
+| CD-13 | The Field |
+| CD-14 | The Bridge |
+| CD-15 | Pure |
 
 
 ## Apple Music
@@ -91,5 +91,5 @@ A number of guests performed on the album, including Morgen Ågren of Kaipa on d
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 493 |
-| Notes | © 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic<br>© 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493<br>DIstributed by Sony Music Entertainment<br>All trademarks and logos are protected<br>Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany<br>19439883971<br><br>Gatefold sleeve<br>Booklet |
+| Notes | © 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic © 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493 DIstributed by Sony Music Entertainment All trademarks and logos are protected Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany 19439883971  Gatefold sleeve Booklet |
 | Discogs URL    | [Casualties Of Cool - Casualties Of Cool](https://www.discogs.com/release/20193448-Casualties-Of-Cool-Casualties-Of-Cool) |

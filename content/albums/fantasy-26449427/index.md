@@ -36,21 +36,21 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Water Deep |  |
-| A2 | Oceans Niagara |  |
-| A3 | Amnesia |  |
-| A4 | Us And The Rest |  |
-| B1 | Earth To Sea |  |
-| B2 | Radar, Far, Gone |  |
-| B3 | Deceiver |  |
-| C1 | Fantasy |  |
-| C2 | Laura |  |
-| C3 | Sunny Boy |  |
-| D1 | Kool Nuit |  |
-| D2 | Sunny Boy Part 2 |  |
-| D3 | Dismemberment Bureau |  |
+| Position | Title |
+|----------|--------|
+| A1 | Water Deep |
+| A2 | Oceans Niagara |
+| A3 | Amnesia |
+| A4 | Us And The Rest |
+| B1 | Earth To Sea |
+| B2 | Radar, Far, Gone |
+| B3 | Deceiver |
+| C1 | Fantasy |
+| C2 | Laura |
+| C3 | Sunny Boy |
+| D1 | Kool Nuit |
+| D2 | Sunny Boy Part 2 |
+| D3 | Dismemberment Bureau |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 | Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
 | Label          | Other Suns |
 | Catalog Number | OS1 LP |
-| Notes | tracks listed 1-13 on sleeve<br><br>℗ & © 2023 M83 Recording Inc. exclusively distributed by Virgin Records France excluding North America. All rights reserved. |
+| Notes | tracks listed 1-13 on sleeve  ℗ & © 2023 M83 Recording Inc. exclusively distributed by Virgin Records France excluding North America. All rights reserved. |
 | Discogs URL    | [M83 - Fantasy](https://www.discogs.com/release/26449427-M83-Fantasy) |

@@ -33,17 +33,17 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Monsters Exist |  |
-| A2 | Hoo Hoo Ha Ha |  |
-| A3 | The Raid |  |
-| B4 | P.H.U.K. |  |
-| B5 | Tiny Foldable Cities |  |
-| C6 | Buried Deep Within |  |
-| C7 | Vision OnE |  |
-| D8 | The End Is Nigh |  |
-| D9 | There Will Come A Time |  |
+| Position | Title |
+|----------|--------|
+| A1 | Monsters Exist |
+| A2 | Hoo Hoo Ha Ha |
+| A3 | The Raid |
+| B4 | P.H.U.K. |
+| B5 | Tiny Foldable Cities |
+| C6 | Buried Deep Within |
+| C7 | Vision OnE |
+| D8 | The End Is Nigh |
+| D9 | There Will Come A Time |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 | Format         | Vinyl 2× LP Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1806 |
-| Notes | Includes colour insert and download card.<br><br>Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk<br><br>Tracks on release are numbered sequentially across sides.<br><br>Mixed for Pieces of 8 Music |
+| Notes | Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music |
 | Discogs URL    | [Orbital - Monsters Exist](https://www.discogs.com/release/12518665-Orbital-Monsters-Exist) |

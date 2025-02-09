@@ -34,26 +34,26 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bring It On Down (Liquidized Mix) | 10:39 |
-| A2 | Cut & Dried | 3:44 |
-| A3 | None Of The Answers (Bpm 122) | 5:02 |
-| A4 | Beat It Down (Bpm 110) | 4:22 |
-| B1 | Real Real Real ("Raw" 12" Mix / Rhythm 1) | 4:33 |
-| B2 | Real Real Real (Ben Chapman "Spaced" 12" Mix) | 5:03 |
-| B3 | Machine Drug | 3:30 |
-| B4 | International Bright Young Thing (Phil Harding 12" Mix) | 4:59 |
-| B5 | International Bright Young Thing (Chaos Mix) | 4:07 |
-| C1 | Who? Where? Why? (12" Foot Mix) | 5:23 |
-| C2 | Kill Today | 2:55 |
-| C3 | The Right Decision (Acid Confusion Mix) | 6:13 |
-| C4 | The Right Decision (Moody Reconstruction Mix) | 6:37 |
-| D1 | The Right Decision (Klanger Mix) | 4:34 |
-| D2 | Starting From Scratch | 3:06 |
-| D3 | Right Here Right Now (Instrumental) |  |
-| D4 | Right Here Right Now (CJM Mix) |  |
-| D5 | Zeroes And Ones (The Prodigy Versus Jesus Jones Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Bring It On Down (Liquidized Mix) |
+| A2 | Cut & Dried |
+| A3 | None Of The Answers (Bpm 122) |
+| A4 | Beat It Down (Bpm 110) |
+| B1 | Real Real Real ("Raw" 12" Mix / Rhythm 1) |
+| B2 | Real Real Real (Ben Chapman "Spaced" 12" Mix) |
+| B3 | Machine Drug |
+| B4 | International Bright Young Thing (Phil Harding 12" Mix) |
+| B5 | International Bright Young Thing (Chaos Mix) |
+| C1 | Who? Where? Why? (12" Foot Mix) |
+| C2 | Kill Today |
+| C3 | The Right Decision (Acid Confusion Mix) |
+| C4 | The Right Decision (Moody Reconstruction Mix) |
+| D1 | The Right Decision (Klanger Mix) |
+| D2 | Starting From Scratch |
+| D3 | Right Here Right Now (Instrumental) |
+| D4 | Right Here Right Now (CJM Mix) |
+| D5 | Zeroes And Ones (The Prodigy Versus Jesus Jones Mix) |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Blue & Yellow Marbled) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC985 |
-| Notes | 180g <br><br>Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.<br><br>Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)". <br><br>℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings.  |
+| Notes | 180g   Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.  Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)".   ℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings.  |
 | Discogs URL    | [Jesus Jones - Scratched (Unreleased Rare Tracks & Remixes)](https://www.discogs.com/release/22978766-Jesus-Jones-Scratched-Unreleased-Rare-Tracks-Remixes) |

@@ -35,20 +35,20 @@ Combat Rock is the last Clash album featuring the band's classic lineup. Topper 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Know Your Rights | 3:38 |
-| A2 | Car Jamming | 3:58 |
-| A3 | Should I Stay Or Should I Go | 3:06 |
-| A4 | Rock The Casbah | 3:14 |
-| A5 | Red Angel Dragnet | 3:48 |
-| A6 | Straight To Hell | 5:30 |
-| B1 | Overpowered By Funk | 4:55 |
-| B2 | Atom Tan | 2:32 |
-| B3 | Sean Flynn | 4:30 |
-| B4 | Ghetto Defendant | 4:45 |
-| B5 | Inoculated City | 2:43 |
-| B6 | Death Is A Star | 3:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Know Your Rights |
+| A2 | Car Jamming |
+| A3 | Should I Stay Or Should I Go |
+| A4 | Rock The Casbah |
+| A5 | Red Angel Dragnet |
+| A6 | Straight To Hell |
+| B1 | Overpowered By Funk |
+| B2 | Atom Tan |
+| B3 | Sean Flynn |
+| B4 | Ghetto Defendant |
+| B5 | Inoculated City |
+| B6 | Death Is A Star |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Combat Rock is the last Clash album featuring the band's classic lineup. Topper 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Columbia |
 | Catalog Number | 88725446971 |
-| Notes | Printed inner sleeves with lyrics.<br>Includes 30x21cm photo of the band on thick card. |
+| Notes | Printed inner sleeves with lyrics. Includes 30x21cm photo of the band on thick card. |
 | Discogs URL    | [The Clash - Combat Rock](https://www.discogs.com/release/4914174-The-Clash-Combat-Rock) |

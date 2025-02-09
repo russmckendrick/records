@@ -33,17 +33,17 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heat Of The Moment | 3:50 |
-| A2 | Only Time Will Tell | 4:44 |
-| A3 | Sole Survivor | 4:48 |
-| A4 | One Step Closer | 4:16 |
-| A5 | Time Again | 4:45 |
-| B1 | Wildest Dreams | 5:10 |
-| B2 | Without You | 5:04 |
-| B3 | Cutting It Fine | 5:35 |
-| B4 | Here Comes The Feeling | 5:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Heat Of The Moment |
+| A2 | Only Time Will Tell |
+| A3 | Sole Survivor |
+| A4 | One Step Closer |
+| A5 | Time Again |
+| B1 | Wildest Dreams |
+| B2 | Without You |
+| B3 | Cutting It Fine |
+| B4 | Here Comes The Feeling |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 | Format         | Vinyl LP Album |
 | Label          | Geffen Records |
 | Catalog Number | GEF 85577 |
-| Notes | Included insert printed with the cat no.<br><br>'Home Taping Is Killing Music' logo on rear sleeve.<br><br>'Made in England' on labels. |
+| Notes | Included insert printed with the cat no.    'Home Taping Is Killing Music' logo on rear sleeve.    'Made in England' on labels. |
 | Discogs URL    | [Asia - Asia](https://www.discogs.com/release/1745333-Asia-2-Asia) |

@@ -30,20 +30,20 @@ Faithful is the seventh studio album by American musician Todd Rundgren, release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Happenings Ten Years Time Ago | 3:12 |
-| A2 | Good Vibrations | 3:44 |
-| A3 | Rain | 3:16 |
-| A4 | Most Likely You Go Your Way And I'll Go Mine | 3:24 |
-| A5 | If Six Was Nine | 4:55 |
-| A6 | Strawberry Fields Forever | 3:53 |
-| B1 | Black And White | 4:42 |
-| B2 | Common Man | 3:35 |
-| B3 | When I Pray | 2:58 |
-| B4 | Cliché | 4:00 |
-| B5 | The Verb To Love | 7:25 |
-| B6 | Boogies (Hamburger Hell) | 5:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Happenings Ten Years Time Ago |
+| A2 | Good Vibrations |
+| A3 | Rain |
+| A4 | Most Likely You Go Your Way And I'll Go Mine |
+| A5 | If Six Was Nine |
+| A6 | Strawberry Fields Forever |
+| B1 | Black And White |
+| B2 | Common Man |
+| B3 | When I Pray |
+| B4 | Cliché |
+| B5 | The Verb To Love |
+| B6 | Boogies (Hamburger Hell) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Faithful is the seventh studio album by American musician Todd Rundgren, release
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K55510 |
-| Notes | Textured sleeve with embossed letters on front cover.<br>Plain cardboard inner sleeve with BR 6963 printed on.<br>℗ & © 1976 on back cover<br><br>B4 is misspelled 'Cliches' on label. |
+| Notes | Textured sleeve with embossed letters on front cover. Plain cardboard inner sleeve with BR 6963 printed on. ℗ & © 1976 on back cover  B4 is misspelled 'Cliches' on label. |
 | Discogs URL    | [Todd Rundgren - Faithful](https://www.discogs.com/release/1692998-Todd-Rundgren-Faithful) |

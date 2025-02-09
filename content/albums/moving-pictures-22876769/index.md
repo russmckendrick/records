@@ -66,36 +66,36 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Moving Pictures |  |
-| A1 | Tom Sawyer |  |
-| A2 | Red Barchetta |  |
-| A3 | YYZ |  |
-| A4 | Limelight |  |
-| B1 | The Camera Eye |  |
-| B2 | Witch Hunt |  |
-| B3 | Vital Signs |  |
-|  | Live in YYZ 1981 |  |
-| C1 | 2112 - Overture |  |
-| C2 | 2112 - The Temples Of Syrinx |  |
-| C3 | Freewill |  |
-| C4 | Limelight |  |
-| D1 | Cygnus X-1 Book II: Hemispheres - Prelude |  |
-| D2 | Beneath, Between & Behind |  |
-| D3 | The Camera Eye |  |
-| E1 | YYZ |  |
-| E2 | Broon's Bane |  |
-| E3 | The Trees |  |
-| F1 | Xanadu |  |
-| F2 | The Spirit Of Radio |  |
-| G1 | Red Barchetta |  |
-| G2 | Closer To The Heart |  |
-| G3 | Tom Sawyer |  |
-| H1 | Vital Signs |  |
-| H2 | Natural Science |  |
-|  | I - Working Man / Cygnus X-1 Book II: Hemispheres – Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 – Grand Finale |  |
-| J | La Villa Strangiato |  |
+| Position | Title |
+|----------|--------|
+|  | Moving Pictures |
+| A1 | Tom Sawyer |
+| A2 | Red Barchetta |
+| A3 | YYZ |
+| A4 | Limelight |
+| B1 | The Camera Eye |
+| B2 | Witch Hunt |
+| B3 | Vital Signs |
+|  | Live in YYZ 1981 |
+| C1 | 2112 - Overture |
+| C2 | 2112 - The Temples Of Syrinx |
+| C3 | Freewill |
+| C4 | Limelight |
+| D1 | Cygnus X-1 Book II: Hemispheres - Prelude |
+| D2 | Beneath, Between & Behind |
+| D3 | The Camera Eye |
+| E1 | YYZ |
+| E2 | Broon's Bane |
+| E3 | The Trees |
+| F1 | Xanadu |
+| F2 | The Spirit Of Radio |
+| G1 | Red Barchetta |
+| G2 | Closer To The Heart |
+| G3 | Tom Sawyer |
+| H1 | Vital Signs |
+| H2 | Natural Science |
+|  | I - Working Man / Cygnus X-1 Book II: Hemispheres – Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 – Grand Finale |
+| J | La Villa Strangiato |
 
 
 ## Apple Music
@@ -113,5 +113,5 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl 5× LP Stereo, All Media Deluxe Edition (40th Anniversary, Half-Speed Mastered, 180g), Box Set |
 | Label          | Anthem Entertainment |
 | Catalog Number | B0033537-01 |
-| Notes | Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.<br><br>Slipcase containing:<br>Moving Pictures Album in single cover with one sheet insert<br>Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6<br>Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10<br>24 page LP sized booklet<br><br>Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC<br><br>℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan,<br>℗ 2021 Anthem Entertainment LP for Canada and Japan,<br>© 2021 Anthem Entertainment LP/UMG Recordings, Inc. <br> |
+| Notes | Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.  Slipcase containing: Moving Pictures Album in single cover with one sheet insert Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6 Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10 24 page LP sized booklet  Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC  ℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan, ℗ 2021 Anthem Entertainment LP for Canada and Japan, © 2021 Anthem Entertainment LP/UMG Recordings, Inc.   |
 | Discogs URL    | [Rush - Moving Pictures](https://www.discogs.com/release/22876769-Rush-Moving-Pictures) |

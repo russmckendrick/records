@@ -31,20 +31,20 @@ X, or x, is the twenty-fourth letter of the Latin alphabet, used in the modern E
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feel Good Hit Of The Summer | 2:43 |
-| A2 | The Lost Art Of Keeping A Secret | 3:36 |
-| A3 | Leg Of Lamb | 2:49 |
-| A4 | Auto Pilot | 4:01 |
-| A5 | Better Living Through Chemistry | 5:48 |
-| A6 | Monsters In The Parasol | 3:28 |
-| A7 | Quick And To The Pointless | 1:42 |
-| B1 | In The Fade | 3:51 |
-| B2 | Tension Head | 2:53 |
-| B3 | Lightning Song | 2:08 |
-| B4 | I Think I Lost My Headache | 8:40 |
-| B5 | Ode To Clarissa | 2:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Feel Good Hit Of The Summer |
+| A2 | The Lost Art Of Keeping A Secret |
+| A3 | Leg Of Lamb |
+| A4 | Auto Pilot |
+| A5 | Better Living Through Chemistry |
+| A6 | Monsters In The Parasol |
+| A7 | Quick And To The Pointless |
+| B1 | In The Fade |
+| B2 | Tension Head |
+| B3 | Lightning Song |
+| B4 | I Think I Lost My Headache |
+| B5 | Ode To Clarissa |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ X, or x, is the twenty-fourth letter of the Latin alphabet, used in the modern E
 | Format         | Vinyl LP Album Limited Edition Reissue |
 | Label          | Interscope Records |
 | Catalog Number | 490 864-1 |
-| Notes | A reissue of the [url=http://www.discogs.com/Queens-Of-The-Stone-Age-X/release/487593]original UK and European LP[/url]. Considered by many to be hugely inferior to the original version both aurally and physically with blurred artwork and printing. Unlike the original version this release has the title information printed on the cover (not a sticker), doesn't have the message "Don't make me beg, just fuck me" on the back cover and doesn't include any printed inner sleeve or insert, only a simple paper record sleeve. The sound and print quality of this version is so low that some have felt it is a counterfeit.<br><br>"Ode To Clarissa" is the bonus track.<br><br>℗ 2000 Interscope Records. © 2000 Interscope Records. The copyright in this sound recording is owned by Interscope Records an licenced exclusively to Polydor Ltd (UK), a Universal Music Company.<br><br>Made in the E.U. |
+| Notes | A reissue of the [url=http://www.discogs.com/Queens-Of-The-Stone-Age-X/release/487593]original UK and European LP[/url]. Considered by many to be hugely inferior to the original version both aurally and physically with blurred artwork and printing. Unlike the original version this release has the title information printed on the cover (not a sticker), doesn't have the message "Don't make me beg, just fuck me" on the back cover and doesn't include any printed inner sleeve or insert, only a simple paper record sleeve. The sound and print quality of this version is so low that some have felt it is a counterfeit.  "Ode To Clarissa" is the bonus track.  ℗ 2000 Interscope Records. © 2000 Interscope Records. The copyright in this sound recording is owned by Interscope Records an licenced exclusively to Polydor Ltd (UK), a Universal Music Company.  Made in the E.U. |
 | Discogs URL    | [Queens Of The Stone Age - X](https://www.discogs.com/release/2984283-Queens-Of-The-Stone-Age-X) |

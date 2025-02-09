@@ -30,20 +30,20 @@ styles: ["Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Forever | 3:15 |
-| A2 | I Should Have Let You Be | 3:00 |
-| A3 | Sentimental Fool | 3:05 |
-| A4 | Two Jobs | 3:22 |
-| A5 | Just Give Me Your Time | 3:08 |
-| A6 | Save Your Tears For Someone New | 2:51 |
-| B1 | The Door | 3:01 |
-| B2 | What Did I Do? | 3:44 |
-| B3 | Without A Heart | 3:59 |
-| B4 | Ordinary Lives | 3:16 |
-| B5 | Your Face Before My Eyes | 1:58 |
-| B6 | Extraordinary Man | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Forever |
+| A2 | I Should Have Let You Be |
+| A3 | Sentimental Fool |
+| A4 | Two Jobs |
+| A5 | Just Give Me Your Time |
+| A6 | Save Your Tears For Someone New |
+| B1 | The Door |
+| B2 | What Did I Do? |
+| B3 | Without A Heart |
+| B4 | Ordinary Lives |
+| B5 | Your Face Before My Eyes |
+| B6 | Extraordinary Man |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Mono (Orange [Sentimental Orange], Indie Exclusive) |
 | Label          | Daptone Recording Co. |
 | Catalog Number | DAP-075 |
-| Notes | "Made in Czech Republic" sticker on back cover<br><br>Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA. |
+| Notes | "Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA. |
 | Discogs URL    | [Lee Fields - Sentimental Fool](https://www.discogs.com/release/24981913-Lee-Fields-Sentimental-Fool) |

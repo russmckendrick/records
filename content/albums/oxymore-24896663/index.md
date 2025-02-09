@@ -69,19 +69,19 @@ styles: ["Techno"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Agora | 1:34 |
-| A2 | Oxymore | 4:46 |
-| A3 | Neon Lips | 4:27 |
-| B1 | Sonic Land | 6:01 |
-| B2 | Animal Genesis | 5:46 |
-| C1 | Synthy Sisters | 3:20 |
-| C2 | Sex In The Machine | 5:45 |
-| C3 | Zeitgeist | 3:11 |
-| D1 | Crystal Garden | 4:09 |
-| D2 | Brutalism | 4:41 |
-| D3 | Epica | 5:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Agora |
+| A2 | Oxymore |
+| A3 | Neon Lips |
+| B1 | Sonic Land |
+| B2 | Animal Genesis |
+| C1 | Synthy Sisters |
+| C2 | Sex In The Machine |
+| C3 | Zeitgeist |
+| D1 | Crystal Garden |
+| D2 | Brutalism |
+| D3 | Epica |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ styles: ["Techno"]
 | Format         | Vinyl 2× LP Album (180g) |
 | Label          | Columbia |
 | Catalog Number | 19658746581 |
-| Notes | Issued in a 6-panel trifold sleeve.<br>Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV)<br>Originally comes with 2 stickers:<br>Sticker 1:<br>"Jean-Michel Jarre<br>Oxymore<br>Homage To Pierre Henry"<br>Sticker 2 [french]:<br>"An immersive music project<br>+ Accès à la version binaurale<br>Double vinyle 180g, livret 32 pages _"<br>Sticker 2 [english]:<br>"An Immersive Music Project <br>+ Access To Binaural Version! <br>2x180g Vinyl / 32 Page Booklet"<br><br>Homage To Pierre Henry [Back cover]<br>℗ & © 2022 Music Affair Entertainment Limited [Back cover]<br>Made in the EU. [Back cover]<br>Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet]<br>Dedicated to [a7209] and [a32181] [Booklet]<br><br>All runouts are stamped |
+| Notes | Issued in a 6-panel trifold sleeve. Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV) Originally comes with 2 stickers: Sticker 1: "Jean-Michel Jarre Oxymore Homage To Pierre Henry" Sticker 2 [french]: "An immersive music project + Accès à la version binaurale Double vinyle 180g, livret 32 pages _" Sticker 2 [english]: "An Immersive Music Project  + Access To Binaural Version!  2x180g Vinyl / 32 Page Booklet"  Homage To Pierre Henry [Back cover] ℗ & © 2022 Music Affair Entertainment Limited [Back cover] Made in the EU. [Back cover] Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet] Dedicated to [a7209] and [a32181] [Booklet]  All runouts are stamped |
 | Discogs URL    | [Jean-Michel Jarre - Oxymore](https://www.discogs.com/release/24896663-Jean-Michel-Jarre-Oxymore) |

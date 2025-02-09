@@ -26,19 +26,19 @@ The Light in You is the eighth studio album by American rock band Mercury Rev, r
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Queen Of Swans | 3:58 |
-| A2 | Amelie  | 3:57 |
-| A3 | You've Gone With So Little For So Long | 3:30 |
-| A4 | Central Park East | 6:14 |
-| A5 | Emotional Free Fall | 4:17 |
-| B1 | Coming Up For Air | 3:17 |
-| B2 | Autumn's In The Air | 4:32 |
-| B3 | Are You Ready? | 3:47 |
-| B4 | Sunflower | 3:28 |
-| B5 | Moth Light | 3:44 |
-| B6 | Rainy Day Record | 3:41 |
+| Position | Title |
+|----------|--------|
+| A1 | The Queen Of Swans |
+| A2 | Amelie  |
+| A3 | You've Gone With So Little For So Long |
+| A4 | Central Park East |
+| A5 | Emotional Free Fall |
+| B1 | Coming Up For Air |
+| B2 | Autumn's In The Air |
+| B3 | Are You Ready? |
+| B4 | Sunflower |
+| B5 | Moth Light |
+| B6 | Rainy Day Record |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ The Light in You is the eighth studio album by American rock band Mercury Rev, r
 | Format         | Vinyl LP |
 | Label          | Bella Union |
 | Catalog Number | BELLA504V |
-| Notes | Black Vinyl Edition - Gatefold Sleeve includes download code.<br><br><br><br> |
+| Notes | Black Vinyl Edition - Gatefold Sleeve includes download code.     |
 | Discogs URL    | [Mercury Rev - The Light In You](https://www.discogs.com/release/25240180-Mercury-Rev-The-Light-In-You) |

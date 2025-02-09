@@ -42,22 +42,22 @@ A documentary film, titled A Skin, A Night, was released the following year. Foc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fake Empire | 3:25 |
-| A2 | Mistaken For Strangers | 3:29 |
-| A3 | Brainy | 3:16 |
-| A4 | Squalor Victoria | 3:01 |
-| A5 | Green Gloves | 3:33 |
-| A6 | Slow Show | 4:06 |
-| B1 | Apartment Story | 3:31 |
-| B2 | Start A War | 3:14 |
-| B3 | Guest Room | 3:17 |
-| B4 | Racing Like A Pro | 3:26 |
-| B5 | Ada | 3:56 |
-| B6 | Gospel | 4:28 |
-| C | The System Only Dreams In Total Darkness |  |
-| D | Guilty Party |  |
+| Position | Title |
+|----------|--------|
+| A1 | Fake Empire |
+| A2 | Mistaken For Strangers |
+| A3 | Brainy |
+| A4 | Squalor Victoria |
+| A5 | Green Gloves |
+| A6 | Slow Show |
+| B1 | Apartment Story |
+| B2 | Start A War |
+| B3 | Guest Room |
+| B4 | Racing Like A Pro |
+| B5 | Ada |
+| B6 | Gospel |
+| C | The System Only Dreams In Total Darkness |
+| D | Guilty Party |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ A documentary film, titled A Skin, A Night, was released the following year. Foc
 | Format         | Vinyl LP Album Club Edition Reissue Special Edition (Gray), Vinyl 7" 45 RPM (Clear) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 252 |
-| Notes | 10th Anniversary Reissue.<br><br>Sticker says :<br>"The National<br>Boxer<br>Special Edition Gray Vinyl<br>Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."<br><br>Package also includes 12x12 art print by Philip Johnson, and another 12x12 insert featuring “words” by Tyler Barstow and a cocktail recipe. |
+| Notes | 10th Anniversary Reissue.  Sticker says : "The National Boxer Special Edition Gray Vinyl Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."  Package also includes 12x12 art print by Philip Johnson, and another 12x12 insert featuring “words” by Tyler Barstow and a cocktail recipe. |
 | Discogs URL    | [The National - Boxer](https://www.discogs.com/release/10689734-The-National-Boxer) |

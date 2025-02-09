@@ -36,16 +36,16 @@ Images and Words is the second studio album by American progressive metal band D
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pull Me Under | 8:11 |
-| A2 | Another Day | 4:22 |
-| A3 | Take The Time | 8:21 |
-| A4 | Surrounded | 5:28 |
-| B1 | Metropolis Part I (The Miracle And The Sleeper) | 9:30 |
-| B2 | Under A Glass Moon | 7:02 |
-| B3 | Wait For Sleep | 2:31 |
-| B4 | Learning To Live | 11:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Pull Me Under |
+| A2 | Another Day |
+| A3 | Take The Time |
+| A4 | Surrounded |
+| B1 | Metropolis Part I (The Miracle And The Sleeper) |
+| B2 | Under A Glass Moon |
+| B3 | Wait For Sleep |
+| B4 | Learning To Live |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Images and Words is the second studio album by American progressive metal band D
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | ATCO Records |
 | Catalog Number | MOVLP780 |
-| Notes | 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics<br><br>Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991<br>Additional recording at The Hit Factory, NYC.<br><br>Originally released ℗ & © 1992 ATCO Records<br>This release ℗ & © 2013 Warner Music<br>Made in the EU<br><br>On insert: <br>All lyrics © 1992 Octa Music, Inc./Ytse Jams, Inc. adm. by WB Music Corp., ASCAP.<br>© 1992 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. |
+| Notes | 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics  Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991 Additional recording at The Hit Factory, NYC.  Originally released ℗ & © 1992 ATCO Records This release ℗ & © 2013 Warner Music Made in the EU  On insert:  All lyrics © 1992 Octa Music, Inc./Ytse Jams, Inc. adm. by WB Music Corp., ASCAP. © 1992 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. |
 | Discogs URL    | [Dream Theater - Images And Words](https://www.discogs.com/release/4708303-Dream-Theater-Images-And-Words) |

@@ -25,24 +25,24 @@ Tao of the Dead (pronounced ) is the seventh studio album by Texas rock band ...
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction: "Let's Experiment" |  |
-| A2 | Pure Radio Cosplay |  |
-| A3 | Summer Of All Dead Souls |  |
-| A4 | Cover The Days Like A Tidal Wave |  |
-| A5 | Fall Of The Empire |  |
-| B1 | The Wasteland |  |
-| B2 | Spiral Jetty |  |
-| B3 | Weight Of The Sun (Or The Post-Modern Prometheus) |  |
-| B4 | Pure Radio Cosplay (Reprise) |  |
-| B5 | Ebb Away |  |
-| B6 | The Fairlight Pendant |  |
-| C1 | Know Your Honor |  |
-| C2 | Rule By Being Just |  |
-| C3 | The Ship Impossible |  |
-| C4 | Strange Epiphany |  |
-| C5 | Racing And Hunting |  |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction: "Let's Experiment" |
+| A2 | Pure Radio Cosplay |
+| A3 | Summer Of All Dead Souls |
+| A4 | Cover The Days Like A Tidal Wave |
+| A5 | Fall Of The Empire |
+| B1 | The Wasteland |
+| B2 | Spiral Jetty |
+| B3 | Weight Of The Sun (Or The Post-Modern Prometheus) |
+| B4 | Pure Radio Cosplay (Reprise) |
+| B5 | Ebb Away |
+| B6 | The Fairlight Pendant |
+| C1 | Know Your Honor |
+| C2 | Rule By Being Just |
+| C3 | The Ship Impossible |
+| C4 | Strange Epiphany |
+| C5 | Racing And Hunting |
 
 
 ## Apple Music

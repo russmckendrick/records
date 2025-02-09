@@ -35,16 +35,16 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Matmos |  |
-| A2 | The Wheel |  |
-| B1 | Extra Vehicular |  |
-| B2 | Where The River Goes |  |
-| C1 | Paris In The Spring |  |
-| C2 | Between Today And Yesterday |  |
-| D1 | Echo Street |  |
-| D2 | Mary Rose |  |
+| Position | Title |
+|----------|--------|
+| A1 | Matmos |
+| A2 | The Wheel |
+| B1 | Extra Vehicular |
+| B2 | Where The River Goes |
+| C1 | Paris In The Spring |
+| C2 | Between Today And Yesterday |
+| D1 | Echo Street |
+| D2 | Mary Rose |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Format         | Vinyl 2× LP Album (180 g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE837 |
-| Notes | Comes in gatefold sleeve with full color inner sleeves. <br><br>Copies preordered from the Ampcorp Industries web store come signed by all four band members.<br><br>Copies ordered from Burning Shed include a download card.<br><br>℗ & © 2013 Ampcorp Industries<br>Kscope is a Snapper Music label<br>www.kscopemusic.com<br>www.amplifierband.com<br>www.ampcorp-industries.com<br><br>Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835 <br>(which is the cat# for "Steven Wilson - The Raven That Refused To Sing"). |
+| Notes | Comes in gatefold sleeve with full color inner sleeves.     Copies preordered from the Ampcorp Industries web store come signed by all four band members.    Copies ordered from Burning Shed include a download card.    ℗ & © 2013 Ampcorp Industries  Kscope is a Snapper Music label  www.kscopemusic.com  www.amplifierband.com  www.ampcorp-industries.com    Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835   (which is the cat# for "Steven Wilson - The Raven That Refused To Sing"). |
 | Discogs URL    | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-3-Echo-Street) |

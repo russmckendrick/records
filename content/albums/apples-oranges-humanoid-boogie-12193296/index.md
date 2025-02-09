@@ -29,12 +29,12 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Apples & Oranges (Stereo) |  |
-| A2 | Apples & Oranges (Mono) |  |
-| B1 | Humanoid Boogie (Stereo) |  |
-| B2 | Humanoid Boogie (Mono) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Apples & Oranges (Stereo) |
+| A2 | Apples & Oranges (Mono) |
+| B1 | Humanoid Boogie (Stereo) |
+| B2 | Humanoid Boogie (Mono) |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 10" 33 ⅓ RPM EP Stereo Mono |
 | Label          | Ape House |
 | Catalog Number | APEEP 901 |
-| Notes | Released as a limited edition of 1,396 copies on 10" vinyl<br>All initial limited edition copies come with a postcard signed by Andy Partridge<br>Included download card for [r=13346086] |
+| Notes | Released as a limited edition of 1,396 copies on 10" vinyl All initial limited edition copies come with a postcard signed by Andy Partridge Included download card for [r=13346086] |
 | Discogs URL    | [Andy Partridge - Apples & Oranges / Humanoid Boogie](https://www.discogs.com/release/12193296-Andy-Partridge-Apples-Oranges-Humanoid-Boogie) |

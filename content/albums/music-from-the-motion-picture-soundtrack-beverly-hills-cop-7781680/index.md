@@ -27,18 +27,18 @@ styles: ["Soundtrack", "Soft Rock", "Synth-pop", "Contemporary R&B"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Attitude | 4:36 |
-| A2 | Don't Get Stopped In Beverly Hills | 4:20 |
-| A3 | Do You Really (Want My Love?) | 3:44 |
-| A4 | Emergency | 3:28 |
-| A5 | Neutron Dance | 4:12 |
-| B1 | The Heat Is On | 3:45 |
-| B2 | Gratitude | 5:04 |
-| B3 | Stir It Up | 3:35 |
-| B4 | Rock 'N Roll Me Again | 3:14 |
-| B5 | Axel F | 3:00 |
+| Position | Title |
+|----------|--------|
+| A1 | New Attitude |
+| A2 | Don't Get Stopped In Beverly Hills |
+| A3 | Do You Really (Want My Love?) |
+| A4 | Emergency |
+| A5 | Neutron Dance |
+| B1 | The Heat Is On |
+| B2 | Gratitude |
+| B3 | Stir It Up |
+| B4 | Rock 'N Roll Me Again |
+| B5 | Axel F |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Soundtrack", "Soft Rock", "Synth-pop", "Contemporary R&B"]
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Geffen Records |
 | Catalog Number | B0023070-01 |
-| Notes | On back cover: <br>Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.<br><br>© 1984 Paramount Pictures Corporation<br>℗ 1984 © 2015 Geffen Records<br><br>Contains additional songs that were not in the film<br><br>Copyright © MCMLXXXIV By Paramount Pictures Corporation. <br><br>On labels: <br>℗ 1984 © 2015 Geffen Records<br><br>Geffen [logo] UMe [logo] - A Universal Music Company<br><br> |
+| Notes | On back cover:  Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.  © 1984 Paramount Pictures Corporation ℗ 1984 © 2015 Geffen Records  Contains additional songs that were not in the film  Copyright © MCMLXXXIV By Paramount Pictures Corporation.   On labels:  ℗ 1984 © 2015 Geffen Records  Geffen [logo] UMe [logo] - A Universal Music Company   |
 | Discogs URL    | [Various - Music From The Motion Picture Soundtrack - Beverly Hills Cop](https://www.discogs.com/release/7781680-Various-Music-From-The-Motion-Picture-Soundtrack-Beverly-Hills-Cop) |

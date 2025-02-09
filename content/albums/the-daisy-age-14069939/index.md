@@ -29,28 +29,28 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Roller Skating Jam Named "Saturdays" | 4:01 |
-| A2 | Bonita Applebum | 3:36 |
-| A3 | Sunshine Men | 4:32 |
-| A4 | Mistadobalina | 4:16 |
-| A5 | Whats Up Doc? (Can We Rock?) (K-Cut's Fat Trac Remix) | 3:51 |
-| B1 | Doowutchyalike | 4:05 |
-| B2 | Peachfuzz | 3:59 |
-| B3 | Doin' Our Own Dang | 4:16 |
-| B4 | Mama Gave Birth To The Soul Children | 4:24 |
-| B5 | O.P.P | 3:42 |
-| C1 | Where I'm From | 4:38 |
-| C2 | It's A Shame (My Sister) | 3:42 |
-| C3 | K Sera Sera | 3:11 |
-| C4 | All For One | 4:54 |
-| C5 | Case Of The P.T.A | 3:42 |
-| D1 | My Definition Of A Boombastic Jazz Style | 4:22 |
-| D2 | The Choice Is Yours | 4:02 |
-| D3 | Age Ain't Nothin' But A # | 4:26 |
-| D4 | We Run Things (It's Like Dat) | 4:11 |
-| D5 | You're Not Coming Home (Mase's Funkay Recall Mix) | 4:56 |
+| Position | Title |
+|----------|--------|
+| A1 | A Roller Skating Jam Named "Saturdays" |
+| A2 | Bonita Applebum |
+| A3 | Sunshine Men |
+| A4 | Mistadobalina |
+| A5 | Whats Up Doc? (Can We Rock?) (K-Cut's Fat Trac Remix) |
+| B1 | Doowutchyalike |
+| B2 | Peachfuzz |
+| B3 | Doin' Our Own Dang |
+| B4 | Mama Gave Birth To The Soul Children |
+| B5 | O.P.P |
+| C1 | Where I'm From |
+| C2 | It's A Shame (My Sister) |
+| C3 | K Sera Sera |
+| C4 | All For One |
+| C5 | Case Of The P.T.A |
+| D1 | My Definition Of A Boombastic Jazz Style |
+| D2 | The Choice Is Yours |
+| D3 | Age Ain't Nothin' But A # |
+| D4 | We Run Things (It's Like Dat) |
+| D5 | You're Not Coming Home (Mase's Funkay Recall Mix) |
 
 
 ## Apple Music

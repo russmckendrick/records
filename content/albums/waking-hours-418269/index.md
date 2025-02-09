@@ -32,18 +32,18 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kiss This Thing Goodbye |  |
-| A2 | Opposite View |  |
-| A3 | Move Away Jimmy Blue |  |
-| A4 | Stone Cold Sober |  |
-| A5 | You're Gone |  |
-| B1 | When I Want You |  |
-| B2 | This Side Of The Morning |  |
-| B3 | Empty |  |
-| B4 | Hatful Of Rain |  |
-| B5 | Nothing Ever Happens |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kiss This Thing Goodbye |
+| A2 | Opposite View |
+| A3 | Move Away Jimmy Blue |
+| A4 | Stone Cold Sober |
+| A5 | You're Gone |
+| B1 | When I Want You |
+| B2 | This Side Of The Morning |
+| B3 | Empty |
+| B4 | Hatful Of Rain |
+| B5 | Nothing Ever Happens |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMA 9006 |
-| Notes | ℗ 1989 A&M Records Ltd Reproduction prohibited<br>© 1989 A&M Records Ltd, all rights reserved<br>First pressing of album circa 1989.<br>Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse). |
+| Notes | ℗ 1989 A&M Records Ltd Reproduction prohibited © 1989 A&M Records Ltd, all rights reserved First pressing of album circa 1989. Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse). |
 | Discogs URL    | [Del Amitri - Waking Hours](https://www.discogs.com/release/418269-Del-Amitri-Waking-Hours) |

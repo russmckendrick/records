@@ -31,19 +31,19 @@ The album was preceded by and contains the hit-single "Geno", which topped the U
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burn It Down |  |
-| A2 | Tell Me When My Light Turns Green |  |
-| A3 | The Teams That Meet In Caffs |  |
-| A4 | I'm Just Looking |  |
-| A5 | Geno |  |
-| B1 | Seven Days Too Long |  |
-| B2 | I Couldn't Help If I Tried |  |
-| B3 | Thankfully Not Living In Yorkshire It Doesn't Apply |  |
-| B4 | Keep It |  |
-| B5 | Love Part One |  |
-| B6 | There, There, My Dear |  |
+| Position | Title |
+|----------|--------|
+| A1 | Burn It Down |
+| A2 | Tell Me When My Light Turns Green |
+| A3 | The Teams That Meet In Caffs |
+| A4 | I'm Just Looking |
+| A5 | Geno |
+| B1 | Seven Days Too Long |
+| B2 | I Couldn't Help If I Tried |
+| B3 | Thankfully Not Living In Yorkshire It Doesn't Apply |
+| B4 | Keep It |
+| B5 | Love Part One |
+| B6 | There, There, My Dear |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The album was preceded by and contains the hit-single "Geno", which topped the U
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Parlophone |
 | Catalog Number | PCSX 7213 |
-| Notes | Comes with printed inner sleeve with lyrics and liner notes.<br><br>Runouts are etched.<br><br>Back sleeve and labels: Digital remaster ℗2000 The copyright in this sound recording is owned by Parlophone Records Ltd. ©2014 Parlophone Records Ltd. <br><br>Inner sleeve: All lyrics ©1980, except *©1979, EMI Music Publishing Ltd.  |
+| Notes | Comes with printed inner sleeve with lyrics and liner notes.  Runouts are etched.  Back sleeve and labels: Digital remaster ℗2000 The copyright in this sound recording is owned by Parlophone Records Ltd. ©2014 Parlophone Records Ltd.   Inner sleeve: All lyrics ©1980, except *©1979, EMI Music Publishing Ltd.  |
 | Discogs URL    | [Dexys Midnight Runners - Searching For The Young Soul Rebels](https://www.discogs.com/release/5831017-Dexys-Midnight-Runners-Searching-For-The-Young-Soul-Rebels) |

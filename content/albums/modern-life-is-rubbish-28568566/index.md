@@ -41,24 +41,24 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | For Tomorrow | 4:18 |
-| A2 | Advert | 3:43 |
-| A3 | Colin Zeal | 3:14 |
-| A4 | Pressure On Julian | 3:30 |
-| B5 | Star Shaped | 3:25 |
-| B6 | Blue Jeans | 3:53 |
-| B7.1 | Chemical World | 4:02 |
-| B7.2 | Intermission | 2:27 |
-| C8 | Sunday Sunday | 2:36 |
-| C9 | Oily Water | 4:59 |
-| C10 | Miss America | 5:34 |
-| C11 | Villa Rosie | 3:54 |
-| D12 | Coping | 3:23 |
-| D13 | Turn It Up | 3:21 |
-| D14.1 | Resigned | 5:13 |
-| D14.2 | Commercial Break | 0:56 |
+| Position | Title |
+|----------|--------|
+| A1 | For Tomorrow |
+| A2 | Advert |
+| A3 | Colin Zeal |
+| A4 | Pressure On Julian |
+| B5 | Star Shaped |
+| B6 | Blue Jeans |
+| B7.1 | Chemical World |
+| B7.2 | Intermission |
+| C8 | Sunday Sunday |
+| C9 | Oily Water |
+| C10 | Miss America |
+| C11 | Villa Rosie |
+| D12 | Coping |
+| D13 | Turn It Up |
+| D14.1 | Resigned |
+| D14.2 | Commercial Break |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Transparent, 180 Gram, Gatefold) |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |
-| Notes | Hype sticker on shrinkwrap reports limited edition 30th anniversary orange vinyl.<br>Limited to 5000 copies.<br>Each LP comes in a printed inner sleeve with lyrics.<br>Tracks are numbered sequentially on release.<br>Runouts are etched.<br>Released for National Album Day 2023 in the UK. |
+| Notes | Hype sticker on shrinkwrap reports limited edition 30th anniversary orange vinyl. Limited to 5000 copies. Each LP comes in a printed inner sleeve with lyrics. Tracks are numbered sequentially on release. Runouts are etched. Released for National Album Day 2023 in the UK. |
 | Discogs URL    | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/28568566-Blur-Modern-Life-Is-Rubbish) |

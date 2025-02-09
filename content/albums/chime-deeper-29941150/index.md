@@ -27,10 +27,10 @@ styles: ["Techno"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Chime | 12:42 |
-| AA | Deeper | 15:10 |
+| Position | Title |
+|----------|--------|
+| A | Chime |
+| AA | Deeper |
 
 
 ## Apple Music
@@ -47,5 +47,5 @@ styles: ["Techno"]
 | Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition Remastered |
 | Label          | London Music Stream |
 | Catalog Number | LMS1725104 |
-| Notes | (P) & (C) London Records Ltd.<br><br>Was available to purchase on 23/02/2024. <br>Limited to 1,000 copies. |
+| Notes | (P) & (C) London Records Ltd.  Was available to purchase on 23/02/2024.  Limited to 1,000 copies. |
 | Discogs URL    | [Orbital - Chime / Deeper](https://www.discogs.com/release/29941150-Orbital-Chime-Deeper) |

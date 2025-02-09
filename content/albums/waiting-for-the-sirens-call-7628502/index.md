@@ -40,19 +40,19 @@ All that newfound effort paid off: Singles “Krafty” and “Jetstream” both
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Who's Joe? | 5:43 |
-| A2 | Hey Now What You Doing | 5:13 |
-| A3 | Waiting For The Sirens' Call | 5:40 |
-| B1 | Krafty | 4:33 |
-| B2 | I Told You So | 5:58 |
-| B3 | Morning Night And Day | 5:08 |
-| C1 | Dracula's Castle | 5:37 |
-| C2 | Jetstream | 5:21 |
-| D1 | Guilt Is A Useless Emotion | 5:37 |
-| D2 | Turn | 4:33 |
-| D3 | Working Overtime | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Who's Joe? |
+| A2 | Hey Now What You Doing |
+| A3 | Waiting For The Sirens' Call |
+| B1 | Krafty |
+| B2 | I Told You So |
+| B3 | Morning Night And Day |
+| C1 | Dracula's Castle |
+| C2 | Jetstream |
+| D1 | Guilt Is A Useless Emotion |
+| D2 | Turn |
+| D3 | Working Overtime |
 
 
 ## Apple Music

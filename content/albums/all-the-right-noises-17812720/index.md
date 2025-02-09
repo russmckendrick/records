@@ -42,19 +42,19 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Last One Out Turn Off The Lights | 4:14 |
-| A2 | Destruction | 4:59 |
-| A3 | The Smoking Gun | 4:45 |
-| B1 | Going To Sin City | 3:55 |
-| B2 | Don't Forget To Live Before You Die | 4:18 |
-| B3 | I'll Be The One | 4:25 |
-| C1 | Young Man | 5:52 |
-| C2 | You're Gonna Be My Girl | 4:10 |
-| D1 | St. George's Day | 4:02 |
-| D2 | Force Of Nature | 4:04 |
-| D3 | She's A Millionairess | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Last One Out Turn Off The Lights |
+| A2 | Destruction |
+| A3 | The Smoking Gun |
+| B1 | Going To Sin City |
+| B2 | Don't Forget To Live Before You Die |
+| B3 | I'll Be The One |
+| C1 | Young Man |
+| C2 | You're Gonna Be My Girl |
+| D1 | St. George's Day |
+| D2 | Force Of Nature |
+| D3 | She's A Millionairess |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 | Format         | Vinyl 2× LP Album Deluxe Edition Stereo (Blue & Orange Galaxy) |
 | Label          | BMG |
 | Catalog Number | BMGCAT465CDLP |
-| Notes | This version is the Deluxe Blue & Orange Galaxy Vinyl with Pop-Up Gatefold.<br>Comes complete with printed inner sleeves with lyrics, credits and photographs.<br>The first 500 pre-orders from Thunders on-line store also included and album artwork print hand signed by the band. <br><br>Manufactured in Czech Republic.<br><br>Durations do not appear on this release.  Timings via stopwatch. |
+| Notes | This version is the Deluxe Blue & Orange Galaxy Vinyl with Pop-Up Gatefold. Comes complete with printed inner sleeves with lyrics, credits and photographs. The first 500 pre-orders from Thunders on-line store also included and album artwork print hand signed by the band.   Manufactured in Czech Republic.  Durations do not appear on this release.  Timings via stopwatch. |
 | Discogs URL    | [Thunder - All The Right Noises](https://www.discogs.com/release/17812720-Thunder-3-All-The-Right-Noises) |

@@ -31,16 +31,16 @@ Chronology is a part of periodization. It is also a part of the discipline of hi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chronology Part 1 | 11:01 |
-| A2 | Chronology Part 2 | 6:05 |
-| A3 | Chronology Part 3 | 3:59 |
-| B1 | Chronology Part 4 | 3:58 |
-| B2 | Chronology Part 5 | 5:34 |
-| B3 | Chronology Part 6 | 3:45 |
-| B4 | Chronology Part 7 | 2:17 |
-| B5 | Chronology Part 8 | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Chronology Part 1 |
+| A2 | Chronology Part 2 |
+| A3 | Chronology Part 3 |
+| B1 | Chronology Part 4 |
+| B2 | Chronology Part 5 |
+| B3 | Chronology Part 6 |
+| B4 | Chronology Part 7 |
+| B5 | Chronology Part 8 |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Chronology is a part of periodization. It is also a part of the discipline of hi
 | Format         | Vinyl LP Album Reissue Remastered (140 Gram) |
 | Label          | Columbia |
 | Catalog Number | 19075828261 |
-| Notes | ℗ 1993 Jean-Michel Jarre  © 2018 Jean-Michel Jarre under exclusive licence to Sony Music Entertainment Germany GmbH.<br>Made in the EU.<br><br>Instruments Digisequencer, Kurzweil K2000, Mini Moog, ARP 2600, Akai MPC-60, Akai S 1000, AKS, JD 800, Korg 01, <br>TR 909, DR 660, Synthex, Eminent, JP 8, DJ 70, Vocalist, Fairlight.<br><br>Special thanks to [a=Arnaud de La Villesbrunne], Emmanuel Bourgeois, [a=Jean-Pierre Janiaud], Christophe Couderc, [l=Studio Gang], [a=Renaud Letang], Young Chang Europe Kurzweil / Martin Dietz, JDC / Jean-Claude Dubois, Akai / Bernard Ribet, Christian Braut, Jamie Lowry, Musikengro / Roland Delacroix, Colin Davie, Illel, [a=Barnaby Southcombe], Sigrid Daniel and [a=Stephen Hawking] for his "Brief History of Time.<br><br>Thanks to Louisa Chelouti, [a=Edith Napias], Pierrette Jacquard, Gerald Ano, Sandrine Napoli, SVC Audio / Richard Garrido, Korg France Sound Processing Laboratory / Mr Gier.<br><br>New mastering from the original analog master tapes [...] in 2014<br><br>Issued with printed inner sleeve |
+| Notes | ℗ 1993 Jean-Michel Jarre  © 2018 Jean-Michel Jarre under exclusive licence to Sony Music Entertainment Germany GmbH. Made in the EU.  Instruments Digisequencer, Kurzweil K2000, Mini Moog, ARP 2600, Akai MPC-60, Akai S 1000, AKS, JD 800, Korg 01,  TR 909, DR 660, Synthex, Eminent, JP 8, DJ 70, Vocalist, Fairlight.  Special thanks to [a=Arnaud de La Villesbrunne], Emmanuel Bourgeois, [a=Jean-Pierre Janiaud], Christophe Couderc, [l=Studio Gang], [a=Renaud Letang], Young Chang Europe Kurzweil / Martin Dietz, JDC / Jean-Claude Dubois, Akai / Bernard Ribet, Christian Braut, Jamie Lowry, Musikengro / Roland Delacroix, Colin Davie, Illel, [a=Barnaby Southcombe], Sigrid Daniel and [a=Stephen Hawking] for his "Brief History of Time.  Thanks to Louisa Chelouti, [a=Edith Napias], Pierrette Jacquard, Gerald Ano, Sandrine Napoli, SVC Audio / Richard Garrido, Korg France Sound Processing Laboratory / Mr Gier.  New mastering from the original analog master tapes [...] in 2014  Issued with printed inner sleeve |
 | Discogs URL    | [Jean-Michel Jarre - Chronology](https://www.discogs.com/release/11865300-Jean-Michel-Jarre-Chronology) |

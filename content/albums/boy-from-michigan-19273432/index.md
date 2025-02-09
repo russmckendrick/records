@@ -25,20 +25,20 @@ Boy from Michigan is the fifth studio album by American musician John Grant. It 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Boy From Michigan |  |
-| A2 | County Fair |  |
-| A3 | The Rusty Bull |  |
-| B1 | The Cruise Room |  |
-| B2 | Mike And Julie |  |
-| B3 | Best In Me |  |
-| C1 | Rhetorical Figure |  |
-| C2 | Just So You Know |  |
-| C3 | Dandy Star |  |
-| D1 | Your Portfolio |  |
-| D2 | The Only Baby |  |
-| D3 | Billy |  |
+| Position | Title |
+|----------|--------|
+| A1 | Boy From Michigan |
+| A2 | County Fair |
+| A3 | The Rusty Bull |
+| B1 | The Cruise Room |
+| B2 | Mike And Julie |
+| B3 | Best In Me |
+| C1 | Rhetorical Figure |
+| C2 | Just So You Know |
+| C3 | Dandy Star |
+| D1 | Your Portfolio |
+| D2 | The Only Baby |
+| D3 | Billy |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Boy from Michigan is the fifth studio album by American musician John Grant. It 
 | Format         | Vinyl 2× LP Album Deluxe Edition (Velvet O-card, Signed Edition) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1220V |
-| Notes | Deluxe velvet O-card with gatefold sleeve, 140g vinyl.<br>Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet.<br>MP3 download card included.<br><br>Signed edition available direct from the Bella Union Store.<br><br>Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik.<br>Mixed at Sea Horse Sound Studios, LA, USA.<br><br>℗ & © 2021 Bella Union<br>Under license to [PIAS] |
+| Notes | Deluxe velvet O-card with gatefold sleeve, 140g vinyl. Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet. MP3 download card included.  Signed edition available direct from the Bella Union Store.  Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik. Mixed at Sea Horse Sound Studios, LA, USA.  ℗ & © 2021 Bella Union Under license to [PIAS] |
 | Discogs URL    | [John Grant - Boy From Michigan](https://www.discogs.com/release/19273432-John-Grant-Boy-From-Michigan) |

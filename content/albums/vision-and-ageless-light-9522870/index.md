@@ -28,14 +28,14 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Book Of The Dead | 3:29 |
-| A2 | Kill The Slavemaster | 6:06 |
-| A3 | Searching | 5:26 |
-| A4 | Dweller Of The Twilight Void | 3:59 |
-| A5 | As Sure As The Sun | 4:43 |
-| B | As Sure As The Sun (Continued) | 22:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Book Of The Dead |
+| A2 | Kill The Slavemaster |
+| A3 | Searching |
+| A4 | Dweller Of The Twilight Void |
+| A5 | As Sure As The Sun |
+| B | As Sure As The Sun (Continued) |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 | Format         | Vinyl LP Album (Clear) |
 | Label          | The Laser's Edge |
 | Catalog Number | LE1077LP |
-| Notes | Side two was captured at Relay Recording.<br>All other recording and mixing at Backroads Recording.<br>Mastered at Lacquer Channel Mastering.<br><br>All compositions<br>© 2016 EYE<br>℗ The Laser's Edge |
+| Notes | Side two was captured at Relay Recording. All other recording and mixing at Backroads Recording. Mastered at Lacquer Channel Mastering.  All compositions © 2016 EYE ℗ The Laser's Edge |
 | Discogs URL    | [EYE - Vision And Ageless Light](https://www.discogs.com/release/9522870-EYE-16-Vision-And-Ageless-Light) |

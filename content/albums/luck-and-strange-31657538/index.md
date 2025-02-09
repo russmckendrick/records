@@ -54,17 +54,17 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Cat |  |
-| A2 | Luck And Strange |  |
-| A3 | The Piper's Call |  |
-| A4 | A Single Spark |  |
-| A5 | Vita Brevis |  |
-| A6 | Between Two Points |  |
-| B1 | Dark And Velvet Nights |  |
-| B2 | Sings |  |
-| B3 | Scattered |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Cat |
+| A2 | Luck And Strange |
+| A3 | The Piper's Call |
+| A4 | A Single Spark |
+| A5 | Vita Brevis |
+| A6 | Between Two Points |
+| B1 | Dark And Velvet Nights |
+| B2 | Sings |
+| B3 | Scattered |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 | Format         | Vinyl LP Album Stereo (Sea Blue Translucent ) |
 | Label          | Sony Music |
 | Catalog Number | 19802812421 |
-| Notes | Hype sticker:<br>The new album from <br>DAVID GILMOUR<br>Featuring<br>The Piper's Call<br>Between Two Points<br>Dark and Velvet Nights<br>Exclusive translucent sea blue vinyl<br>19802812412S1<br><br>Gatefold sleeve and 16 page black and white booklet.<br><br>Runout strings are stamped except for 'MILES ABBEY ROAD 1/2 SPEED ROOM 30' which are etched. |
+| Notes | Hype sticker: The new album from  DAVID GILMOUR Featuring The Piper's Call Between Two Points Dark and Velvet Nights Exclusive translucent sea blue vinyl 19802812412S1  Gatefold sleeve and 16 page black and white booklet.  Runout strings are stamped except for 'MILES ABBEY ROAD 1/2 SPEED ROOM 30' which are etched. |
 | Discogs URL    | [David Gilmour - Luck And Strange](https://www.discogs.com/release/31657538-David-Gilmour-Luck-And-Strange) |

@@ -67,20 +67,20 @@ TC: “Writing it in North Hadley with Chris, that’s where I started to feel v
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Palmistry |  |
-| A2 | Pretenders |  |
-| A3 | Patterns |  |
-| A4 | Back To The End |  |
-| A5 | That Girl |  |
-| A6 | Build A Fire |  |
-| B1 | Capelton Hill |  |
-| B2 | Hoping |  |
-| B3 | To Feel What They Feel |  |
-| B4 | If I Never See London Again |  |
-| B5 | I Need The Light |  |
-| B6 | Snowy Owl |  |
+| Position | Title |
+|----------|--------|
+| A1 | Palmistry |
+| A2 | Pretenders |
+| A3 | Patterns |
+| A4 | Back To The End |
+| A5 | That Girl |
+| A6 | Build A Fire |
+| B1 | Capelton Hill |
+| B2 | Hoping |
+| B3 | To Feel What They Feel |
+| B4 | If I Never See London Again |
+| B5 | I Need The Light |
+| B6 | Snowy Owl |
 
 
 ## Apple Music

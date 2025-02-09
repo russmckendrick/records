@@ -31,18 +31,18 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thin Air | 6:00 |
-| A2 | Summernight Horizon | 4:13 |
-| A3 | Dreaming Light | 5:47 |
-| B1 | Everything | 5:06 |
-| B2 | Angels Walk Among Us | 5:17 |
-| B3 | Presence | 2:58 |
-| C1 | A Simple Mistake | 8:14 |
-| C2 | Get Off Get Out | 5:01 |
-| D1 | Universal | 7:19 |
-| D2 | Hindsight | 8:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Thin Air |
+| A2 | Summernight Horizon |
+| A3 | Dreaming Light |
+| B1 | Everything |
+| B2 | Angels Walk Among Us |
+| B3 | Presence |
+| C1 | A Simple Mistake |
+| C2 | Get Off Get Out |
+| D1 | Universal |
+| D2 | Hindsight |
 
 
 ## Apple Music

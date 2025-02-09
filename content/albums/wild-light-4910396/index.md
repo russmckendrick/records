@@ -32,24 +32,24 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heat Death Infinity Splitter  |  |
-| A2 | Prisms |  |
-| A3 | The Undertow  |  |
-| A4 | Blackspots |  |
-| B1 | Sleepwalk City  |  |
-| B2 | Taipei  |  |
-| B3 | Unmake The Wild Light  |  |
-| B4 | Safe Passage  |  |
-| CD-1 | Heat Death Infinity Splitter |  |
-| CD-2 | Prisms |  |
-| CD-3 | The Undertow |  |
-| CD-4 | Blackspots |  |
-| CD-5 | Sleepwalk City |  |
-| CD-6 | Taipei |  |
-| CD-7 | Unmake The Wild Light |  |
-| CD-8 | Safe Passage |  |
+| Position | Title |
+|----------|--------|
+| A1 | Heat Death Infinity Splitter  |
+| A2 | Prisms |
+| A3 | The Undertow  |
+| A4 | Blackspots |
+| B1 | Sleepwalk City  |
+| B2 | Taipei  |
+| B3 | Unmake The Wild Light  |
+| B4 | Safe Passage  |
+| CD-1 | Heat Death Infinity Splitter |
+| CD-2 | Prisms |
+| CD-3 | The Undertow |
+| CD-4 | Blackspots |
+| CD-5 | Sleepwalk City |
+| CD-6 | Taipei |
+| CD-7 | Unmake The Wild Light |
+| CD-8 | Safe Passage |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 028 |
-| Notes | Includes printed inner sleeve and CD version of the album.<br>Pre-orders from the first week came signed by all band members.<br><br>Cover with sticker on front reading:<br><br>"180gr Vinyl Edition<br>incl. album on CD<br><br>Wild Light is where the music leads.<br>There is no order but chaos.<br>All that matters is to listen.<br><br>"No-one knows what is happening.<br>There is a lot of danger out there, ok?"<br><br>Co-produced by longtime conspirator<br>Dave Sanderson, mixed at the Castle<br>of Doom by Tony Doogan (Belle and<br>Sebastien/Mogwai) in Glasgow,<br>mastered at Abbey Road Studios<br><br>This sticker is removable" |
+| Notes | Includes printed inner sleeve and CD version of the album. Pre-orders from the first week came signed by all band members.  Cover with sticker on front reading:  "180gr Vinyl Edition incl. album on CD  Wild Light is where the music leads. There is no order but chaos. All that matters is to listen.  "No-one knows what is happening. There is a lot of danger out there, ok?"  Co-produced by longtime conspirator Dave Sanderson, mixed at the Castle of Doom by Tony Doogan (Belle and Sebastien/Mogwai) in Glasgow, mastered at Abbey Road Studios  This sticker is removable" |
 | Discogs URL    | [65daysofstatic - Wild Light](https://www.discogs.com/release/4910396-65daysofstatic-Wild-Light) |

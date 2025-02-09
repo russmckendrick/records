@@ -29,18 +29,18 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sadness Sets Me Free |  |
-| A2 | Bad Friend |  |
-| A3 | Celestial Candyfloss |  |
-| A4 | Silver Lining Lead Balloons |  |
-| A5 | On The Far Side Of The Dollar |  |
-| B1 | They Sold My Home To Build A Skyscraper |  |
-| B2 | Peace Signs |  |
-| B3 | Cover Up The Cover Up |  |
-| B4 | I Tendered My Resignation |  |
-| B5 | I'll Keep Singing |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sadness Sets Me Free |
+| A2 | Bad Friend |
+| A3 | Celestial Candyfloss |
+| A4 | Silver Lining Lead Balloons |
+| A5 | On The Far Side Of The Dollar |
+| B1 | They Sold My Home To Build A Skyscraper |
+| B2 | Peace Signs |
+| B3 | Cover Up The Cover Up |
+| B4 | I Tendered My Resignation |
+| B5 | I'll Keep Singing |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 | Format         | Vinyl LP Album Limited Edition (Brown [Chocolate Neo-Neapolitan]) |
 | Label          | Rough Trade |
 | Catalog Number | RT0420LPE2 |
-| Notes | Limited to 500 copies sold at Rough Trade and Welsh shops<br>Packaged in a split-door sleeve |
+| Notes | Limited to 500 copies sold at Rough Trade and Welsh shops Packaged in a split-door sleeve |
 | Discogs URL    | [Gruff Rhys - Sadness Sets Me Free](https://www.discogs.com/release/29584693-Gruff-Rhys-Sadness-Sets-Me-Free) |

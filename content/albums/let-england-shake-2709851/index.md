@@ -33,20 +33,20 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let England Shake |  |
-| A2 | The Last Living Rose |  |
-| A3 | The Glorious Land |  |
-| A4 | The Words That Maketh Murder |  |
-| A5 | All And Everyone |  |
-| A6 | On Battleship Hill |  |
-| B1 | England |  |
-| B2 | In The Dark Places |  |
-| B3 | Bitter Branches |  |
-| B4 | Hanging In The Wire |  |
-| B5 | Written On The Forehead |  |
-| B6 | The Colour Of The Earth |  |
+| Position | Title |
+|----------|--------|
+| A1 | Let England Shake |
+| A2 | The Last Living Rose |
+| A3 | The Glorious Land |
+| A4 | The Words That Maketh Murder |
+| A5 | All And Everyone |
+| A6 | On Battleship Hill |
+| B1 | England |
+| B2 | In The Dark Places |
+| B3 | Bitter Branches |
+| B4 | Hanging In The Wire |
+| B5 | Written On The Forehead |
+| B6 | The Colour Of The Earth |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 2758997 |
-| Notes | Made in Dorset, April - May 2010.<br>Mixed at Assault & Battery.<br><br>Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except:<br>Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'.<br>Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call.<br>Track A4 contains elements from 'Summertime Blues'.<br>Track B1 contains a sample of 'Kassem Miro'.<br>Track B5 contains a sample of 'Blood & Fire'.<br>Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt.<br>Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.<br><br>℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.<br><br>Made in the EU<br><br>Pressing plant and cutting facility/engineer derived from matrix.<br><br>Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched.<br><br>Comes with a printed inner sleeve. |
+| Notes | Made in Dorset, April - May 2010. Mixed at Assault & Battery.  Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except: Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'. Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call. Track A4 contains elements from 'Summertime Blues'. Track B1 contains a sample of 'Kassem Miro'. Track B5 contains a sample of 'Blood & Fire'. Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt. Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.  ℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.  Made in the EU  Pressing plant and cutting facility/engineer derived from matrix.  Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched.  Comes with a printed inner sleeve. |
 | Discogs URL    | [PJ Harvey - Let England Shake](https://www.discogs.com/release/2709851-PJ-Harvey-Let-England-Shake) |

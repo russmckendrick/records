@@ -38,20 +38,20 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lose Control |  |
-| A2 | Goldfinger |  |
-| A3 | Girl From Mars |  |
-| A4 | I'd Give You Anything |  |
-| A5 | Gone The Dream |  |
-| A6 | Kung Fu |  |
-| B7 | Oh Yeah |  |
-| B8 | Let It Flow |  |
-| B9 | Innocent Smile |  |
-| B10 | Angel Interceptor |  |
-| B11 | Lost In You |  |
-| B12 | Darkside Lightside |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lose Control |
+| A2 | Goldfinger |
+| A3 | Girl From Mars |
+| A4 | I'd Give You Anything |
+| A5 | Gone The Dream |
+| A6 | Kung Fu |
+| B7 | Oh Yeah |
+| B8 | Let It Flow |
+| B9 | Innocent Smile |
+| B10 | Angel Interceptor |
+| B11 | Lost In You |
+| B12 | Darkside Lightside |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 | Format         | Vinyl LP Album Reissue Remastered (White With Black Splatter) |
 | Label          | BMG |
 | Catalog Number | BMGCAT711CLP |
-| Notes | Gatefold sleeve<br>Sticker reports "Black & White splatter vinyl - Each copy unique and individual"<br><br>Track numbering listed sequentially on both sleeve and side labels. <br><br>4050538785463 catalog number printed on side labels<br><br>Manufactured in Czech Republic. |
+| Notes | Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic. |
 | Discogs URL    | [Ash - 1977](https://www.discogs.com/release/23719583-Ash-1977) |

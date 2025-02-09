@@ -32,14 +32,14 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Storm In A Teacup | 9:30 |
-| A2 | Deep Blue Shade | 5:08 |
-| A3 | Lotus Unfolding | 8:10 |
-| B1 | Crumplepenny | 9:54 |
-| B2 | Green Incantation | 7:35 |
-| B3 | Burundi Spaceport | 5:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Storm In A Teacup |
+| A2 | Deep Blue Shade |
+| A3 | Lotus Unfolding |
+| B1 | Crumplepenny |
+| B2 | Green Incantation |
+| B3 | Burundi Spaceport |
 
 
 ## Apple Music

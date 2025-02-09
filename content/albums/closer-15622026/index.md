@@ -38,17 +38,17 @@ Today, Closer is widely recognised as a seminal release of the post-punk era. Fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Atrocity Exhibition |  |
-| A2 | Isolation |  |
-| A3 | Passover |  |
-| A4 | Colony |  |
-| A5 | A Means To An End |  |
-| B1 | Heart And Soul |  |
-| B2 | Twenty Four Hours |  |
-| B3 | The Eternal |  |
-| B4 | Decades |  |
+| Position | Title |
+|----------|--------|
+| A1 | Atrocity Exhibition |
+| A2 | Isolation |
+| A3 | Passover |
+| A4 | Colony |
+| A5 | A Means To An End |
+| B1 | Heart And Soul |
+| B2 | Twenty Four Hours |
+| B3 | The Eternal |
+| B4 | Decades |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Today, Closer is widely recognised as a seminal release of the post-punk era. Fo
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress Stereo (Clear [Crystal Clear], 180 Gram) |
 | Label          | Factory |
 | Catalog Number | FACT∙XXV |
-| Notes | 40th anniversary edition.<br><br>Includes a plastic lined inner sleeve as well as a printed inner sleeve.<br><br>℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd. |
+| Notes | 40th anniversary edition.  Includes a plastic lined inner sleeve as well as a printed inner sleeve.  ℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd. |
 | Discogs URL    | [Joy Division - Closer](https://www.discogs.com/release/15622026-Joy-Division-Closer) |

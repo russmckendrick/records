@@ -30,15 +30,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Closed For Business |  |
-| A2 | K.I.DOUBLE.S.I.N.G. |  |
-| A3 | Everyone Must Win |  |
-| B1 | The World's Still Open |  |
-| B2 | Dark Mavis (Acoustic) |  |
-| B3 | Stripper Vicar (Live) |  |
-| B4 | Egg Shaped Fred (Acoustic) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Closed For Business |
+| A2 | K.I.DOUBLE.S.I.N.G. |
+| A3 | Everyone Must Win |
+| B1 | The World's Still Open |
+| B2 | Dark Mavis (Acoustic) |
+| B3 | Stripper Vicar (Live) |
+| B4 | Egg Shaped Fred (Acoustic) |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1117 |
-| Notes | Record Store Day June 2021 release.<br><br>Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker. <br><br>The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.<br><br>Track B3 recorded on the Manor Mobile.<br><br>Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).<br> <br>℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd.<br>© 1997 Snapper Music Ltd. Kscope is a Snapper Music label.<br><br>Made in the EU. |
+| Notes | Record Store Day June 2021 release.  Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker.   The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.  Track B3 recorded on the Manor Mobile.  Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).   ℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd. © 1997 Snapper Music Ltd. Kscope is a Snapper Music label.  Made in the EU. |
 | Discogs URL    | [Mansun - Closed For Business](https://www.discogs.com/release/19116019-Mansun-Closed-For-Business) |

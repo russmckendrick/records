@@ -34,18 +34,18 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Love Is Emotional |  |
-| A2 | More Than One Of You |  |
-| A3 | Chameleon Days |  |
-| A4 | Independence Day |  |
-| A5 | Alone |  |
-| B1 | Widow's Peak |  |
-| B2 | Second Nature |  |
-| B3 | The Law Is Always On Your Side |  |
-| B4 | Terrorise Me |  |
-| B5 | I Know Different |  |
+| Position | Title |
+|----------|--------|
+| A1 | Love Is Emotional |
+| A2 | More Than One Of You |
+| A3 | Chameleon Days |
+| A4 | Independence Day |
+| A5 | Alone |
+| B1 | Widow's Peak |
+| B2 | Second Nature |
+| B3 | The Law Is Always On Your Side |
+| B4 | Terrorise Me |
+| B5 | I Know Different |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRNF0016LP |
-| Notes | ℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd<br><br>All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control<br><br>Printed on side A/B labels:<br>Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.<br><br>Initial online pre-orders included a 7” x 5” photo signed by Neil Finn. |
+| Notes | ℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd  All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control  Printed on side A/B labels: Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.  Initial online pre-orders included a 7” x 5” photo signed by Neil Finn. |
 | Discogs URL    | [Neil Finn - Out Of Silence](https://www.discogs.com/release/11093773-Neil-Finn-Out-Of-Silence) |

@@ -31,18 +31,18 @@ Behaviour (released as Behavior in the United States) is the fourth studio album
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Being Boring | 6:48 |
-| A2 | This Must Be The Place I Waited Years To Leave | 5:30 |
-| A3 | To Face The Truth | 5:33 |
-| A4 | How Can You Expect To Be Taken Seriously? | 3:55 |
-| A5 | Only The Wind | 4:19 |
-| B6 | My October Symphony | 5:17 |
-| B7 | So Hard | 3:59 |
-| B8 | Nervously | 4:07 |
-| B9 | The End Of The World | 4:41 |
-| B10 | Jealousy | 4:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Being Boring |
+| A2 | This Must Be The Place I Waited Years To Leave |
+| A3 | To Face The Truth |
+| A4 | How Can You Expect To Be Taken Seriously? |
+| A5 | Only The Wind |
+| B6 | My October Symphony |
+| B7 | So Hard |
+| B8 | Nervously |
+| B9 | The End Of The World |
+| B10 | Jealousy |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Behaviour (released as Behavior in the United States) is the fourth studio album
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295821746 |
-| Notes | [Sticker on shrinkwrap:]<br>Pressed onto 180g heavyweight<br>vinyl featuring a brand new 2018<br>remaster of the original album<br><br>[From back cover:]<br>℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company<br>© 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company.<br>All rights reserved. Made in the EU.<br><br>[From inner sleeve:]<br>Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.<br><br>Tracks listed sequentially on back cover and labels.<br>Optimal credit extrapolated from runout data. |
+| Notes | [Sticker on shrinkwrap:] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  [From inner sleeve:] Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.  Tracks listed sequentially on back cover and labels. Optimal credit extrapolated from runout data. |
 | Discogs URL    | [Pet Shop Boys - Behaviour.](https://www.discogs.com/release/12452776-Pet-Shop-Boys-Behaviour) |

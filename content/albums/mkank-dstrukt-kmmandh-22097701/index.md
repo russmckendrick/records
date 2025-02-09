@@ -30,15 +30,15 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hortz Fur Dëhn Stëkëhn Ẁest | 9:36 |
-| A2 | Ïma Sürï Dondaï | 4:30 |
-| A3 | Kobaïa Is Dë Hündïn | 3:33 |
-| B1 | Da Zeuhl Ẁortz Mëkanïk | 7:50 |
-| B2 | Nëbëhr Gudahtt | 6:03 |
-| B3 | Mëkanïk Kömmandöh | 4:09 |
-| B4 | Kreühn Köhrmahn Ïss Dë Hündïn | 3:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Hortz Fur Dëhn Stëkëhn Ẁest |
+| A2 | Ïma Sürï Dondaï |
+| A3 | Kobaïa Is Dë Hündïn |
+| B1 | Da Zeuhl Ẁortz Mëkanïk |
+| B2 | Nëbëhr Gudahtt |
+| B3 | Mëkanïk Kömmandöh |
+| B4 | Kreühn Köhrmahn Ïss Dë Hündïn |
 
 
 ## Apple Music

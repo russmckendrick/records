@@ -43,23 +43,23 @@ A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Recor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Field Day Jitters | 4:09 |
-| A2 | Waited A Light Year | 6:00 |
-| A3 | Sonic Bloom | 3:39 |
-| B1 | Bandaids For Hire | 2:39 |
-| B2 | Mechanical Breakdown | 3:19 |
-| B3 | Your Socks Have No Name | 2:30 |
-| B4 | Geeareohdoubleyou | 3:47 |
-| B5 | New Plains Medicine | 2:01 |
-| C1 | Our Drive To The Sun / Can A Man Mark It? | 5:27 |
-| C2 | Human Contact | 5:37 |
-| C3 | Pillar | 3:00 |
-| D1 | 8 Ladies | 3:04 |
-| D2 | About The Movies | 5:06 |
-| D3 | Tiny Men | 3:25 |
-| D4 | Indian Poker Parts 2 & 3 | 3:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Field Day Jitters |
+| A2 | Waited A Light Year |
+| A3 | Sonic Bloom |
+| B1 | Bandaids For Hire |
+| B2 | Mechanical Breakdown |
+| B3 | Your Socks Have No Name |
+| B4 | Geeareohdoubleyou |
+| B5 | New Plains Medicine |
+| C1 | Our Drive To The Sun / Can A Man Mark It? |
+| C2 | Human Contact |
+| C3 | Pillar |
+| D1 | 8 Ladies |
+| D2 | About The Movies |
+| D3 | Tiny Men |
+| D4 | Indian Poker Parts 2 & 3 |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Recor
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Numbered (Pepto Bismol Pink) |
 | Label          | Good Records |
 | Catalog Number | GRR100 |
-| Notes | Released on Vinyl in 2020 for the first time in the following quantities:<br><br>1-300 DELUXE CLEAR WITH SLIPMAT<br>301-500 IVORY WHITE<br>501-700 FACE MASK BLUE<br>701-900 PEPTO BISMOL PINK<br>901-1000 180-GRAM AUDIOPHILE BLACK<br><br>All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.<br><br> |
+| Notes | Released on Vinyl in 2020 for the first time in the following quantities:  1-300 DELUXE CLEAR WITH SLIPMAT 301-500 IVORY WHITE 501-700 FACE MASK BLUE 701-900 PEPTO BISMOL PINK 901-1000 180-GRAM AUDIOPHILE BLACK  All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.   |
 | Discogs URL    | [Tripping Daisy - Jesus Hits Like The Atom Bomb](https://www.discogs.com/release/16253095-Tripping-Daisy-Jesus-Hits-Like-The-Atom-Bomb) |

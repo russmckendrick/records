@@ -28,10 +28,10 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Weatherall's Weekender (Audrey Is A Little Bit Partial Mix) | 15:22 |
-| B | Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) | 17:00 |
+| Position | Title |
+|----------|--------|
+| A | Weatherall's Weekender (Audrey Is A Little Bit Partial Mix) |
+| B | Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) |
 
 
 ## Apple Music
@@ -48,5 +48,5 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM Limited Edition Reissue (Yellow) |
 | Label          | Heavenly |
 | Catalog Number | HVN589 |
-| Notes | Love Record Stores yellow vinyl repress.<br><br>Issued in a die-cut Heavenly house sleeve with an updated design using the Flowered Up logo instead of the Heavenly bird logo, housed inside an outer polythene sleeve. A barcode sticker is affixed to the outer polythene sleeve. <br><br>℗ 1992 Sony Music Entertainment UK Limited. Licensed courtesy of Sony Music Entertainment UK Limited.<br>Made in the EU |
+| Notes | Love Record Stores yellow vinyl repress.  Issued in a die-cut Heavenly house sleeve with an updated design using the Flowered Up logo instead of the Heavenly bird logo, housed inside an outer polythene sleeve. A barcode sticker is affixed to the outer polythene sleeve.   ℗ 1992 Sony Music Entertainment UK Limited. Licensed courtesy of Sony Music Entertainment UK Limited. Made in the EU |
 | Discogs URL    | [Flowered Up - Weatherall's Weekender](https://www.discogs.com/release/20148349-Flowered-Up-Weatheralls-Weekender) |

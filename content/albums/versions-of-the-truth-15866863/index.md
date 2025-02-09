@@ -36,18 +36,18 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Versions Of The Truth |  |
-| A2 | Break It All |  |
-| A3 | Demons |  |
-| A4 | Driving Like Maniacs |  |
-| A5 | Leave Me Be |  |
-| B1 | Too Many Voices |  |
-| B2 | Our Mire |  |
-| B3 | Out Of Line |  |
-| B4 | Stop Making Sense |  |
-| B5 | The Game |  |
+| Position | Title |
+|----------|--------|
+| A1 | Versions Of The Truth |
+| A2 | Break It All |
+| A3 | Demons |
+| A4 | Driving Like Maniacs |
+| A5 | Leave Me Be |
+| B1 | Too Many Voices |
+| B2 | Our Mire |
+| B3 | Out Of Line |
+| B4 | Stop Making Sense |
+| B5 | The Game |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1062 |
-| Notes | On limited edition 180g heavyweight clear vinyl.  Comes with inner sleeve with lyrics, credits and artwork.  Inside of outer sleeve is coloured red.  Kscope flyer containing details of recent and future releases also included as an insert.  "Indies only" version.<br><br>KSCOPE1085 on Hype Sticker.<br><br>Recorded and mixed...between 1st October 2018 and 4th May 2020<br><br>Made in Germany<br><br>℗2020 ©2020<br><br> |
+| Notes | On limited edition 180g heavyweight clear vinyl.  Comes with inner sleeve with lyrics, credits and artwork.  Inside of outer sleeve is coloured red.  Kscope flyer containing details of recent and future releases also included as an insert.  "Indies only" version.  KSCOPE1085 on Hype Sticker.  Recorded and mixed...between 1st October 2018 and 4th May 2020  Made in Germany  ℗2020 ©2020   |
 | Discogs URL    | [The Pineapple Thief - Versions Of The Truth](https://www.discogs.com/release/15866863-The-Pineapple-Thief-Versions-Of-The-Truth) |

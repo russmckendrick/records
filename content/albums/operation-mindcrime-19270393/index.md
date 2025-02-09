@@ -39,23 +39,23 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Remember Now |  |
-| A2 | Anarchy-X |  |
-| A3 | Revolution Calling |  |
-| A4 | Operation: Mindcrime |  |
-| A5 | Speak |  |
-| B1 | Spreading The Disease |  |
-| B2 | The Mission |  |
-| B3 | Suite Sister Mary |  |
-| C1 | The Needle Lies |  |
-| C2 | Electric Requiem |  |
-| C3 | Breaking The Silence |  |
-| D1 | I Don't Believe In Love |  |
-| D2 | Waiting For 22 |  |
-| D3 | My Empty Room |  |
-| D4 | Eyes Of A Stranger |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Remember Now |
+| A2 | Anarchy-X |
+| A3 | Revolution Calling |
+| A4 | Operation: Mindcrime |
+| A5 | Speak |
+| B1 | Spreading The Disease |
+| B2 | The Mission |
+| B3 | Suite Sister Mary |
+| C1 | The Needle Lies |
+| C2 | Electric Requiem |
+| C3 | Breaking The Silence |
+| D1 | I Don't Believe In Love |
+| D2 | Waiting For 22 |
+| D3 | My Empty Room |
+| D4 | Eyes Of A Stranger |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 7714039 |
-| Notes | Made in Germany on label.<br>On inner sleeve: ℗ 2003 Capitol Records, LLC.<br>On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC<br><br>No reissue credits. All technical credits refer to the original release.<br><br>LP Runouts are etched. |
+| Notes | Made in Germany on label. On inner sleeve: ℗ 2003 Capitol Records, LLC. On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC  No reissue credits. All technical credits refer to the original release.  LP Runouts are etched. |
 | Discogs URL    | [Queensrÿche - Operation: Mindcrime](https://www.discogs.com/release/19270393-Queensrÿche-Operation-Mindcrime) |

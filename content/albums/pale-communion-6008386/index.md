@@ -43,16 +43,16 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eternal Rains Will Come |  |
-| A2 | Cusp Of Eternity |  |
-| B1 | Moon Above, Sun Below |  |
-| B2 | Elysian Woes |  |
-| C1 | Goblin |  |
-| C2 | River |  |
-| D1 | Voice Of Treason |  |
-| D2 | Faith In Others |  |
+| Position | Title |
+|----------|--------|
+| A1 | Eternal Rains Will Come |
+| A2 | Cusp Of Eternity |
+| B1 | Moon Above, Sun Below |
+| B2 | Elysian Woes |
+| C1 | Goblin |
+| C2 | River |
+| D1 | Voice Of Treason |
+| D2 | Faith In Others |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7573-1 |
-| Notes | 180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies.<br>Inclusive download card with bonus content (available on 08/25/14) <br>Some releases contained a silver coloured Opeth hanger, art.nr. 285947St<br><br>Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver. |
+| Notes | 180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies. Inclusive download card with bonus content (available on 08/25/14)  Some releases contained a silver coloured Opeth hanger, art.nr. 285947St  Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver. |
 | Discogs URL    | [Opeth - Pale Communion](https://www.discogs.com/release/6008386-Opeth-Pale-Communion) |

@@ -33,17 +33,17 @@ The album received generally positive reviews from music critics, but sold poorl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tiberius | 3:02 |
-| A2 | Being Beige | 3:39 |
-| A3 | Anaise! | 3:33 |
-| A4 | One And All (We Are) | 3:44 |
-| A5 | Run2Me | 4:08 |
-| B1 | Drum + Fife | 3:54 |
-| B2 | Monuments | 3:30 |
-| B3 | Dorian | 3:45 |
-| B4 | Anti-Hero | 3:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Tiberius |
+| A2 | Being Beige |
+| A3 | Anaise! |
+| A4 | One And All (We Are) |
+| A5 | Run2Me |
+| B1 | Drum + Fife |
+| B2 | Monuments |
+| B3 | Dorian |
+| B4 | Anti-Hero |
 
 
 ## Apple Music

@@ -32,18 +32,18 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Cries Your Name |  |
-| A2 | Tangent |  |
-| A3 | Don't Need A Reason |  |
-| A4 | Live As You Dream |  |
-| A5 | Sugar Boy |  |
-| B1 | Touch Me With Your Love |  |
-| B2 | How Far |  |
-| B3 | Someone's Daughter |  |
-| B4 | I Wish I Never Saw The Sunshine |  |
-| B5 | Galaxy Of Emptiness |  |
+| Position | Title |
+|----------|--------|
+| A1 | She Cries Your Name |
+| A2 | Tangent |
+| A3 | Don't Need A Reason |
+| A4 | Live As You Dream |
+| A5 | Sugar Boy |
+| B1 | Touch Me With Your Love |
+| B2 | How Far |
+| B3 | Someone's Daughter |
+| B4 | I Wish I Never Saw The Sunshine |
+| B5 | Galaxy Of Emptiness |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 | Format         | Vinyl LP Album Reissue |
 | Label          | Plain Recordings |
 | Catalog Number | plain149 |
-| Notes | Ⓟ 1996 Deconstruction Ltd.<br>© 2010 Runt LLC<br><br>180 gram vinyl<br><br>Custom inner sleeve<br> |
+| Notes | Ⓟ 1996 Deconstruction Ltd.  © 2010 Runt LLC    180 gram vinyl    Custom inner sleeve   |
 | Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |

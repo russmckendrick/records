@@ -30,32 +30,32 @@ A concept album about a love story set in the 17th century, The Diary consists o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Gentle  |  |
-| A1 | Endless Sea (Gentle Version) | 5:59 |
-| A2 | Heart Of Amsterdam (Gentle Version) | 6:36 |
-| A3 | The Greatest Love (Gentle Version) | 4:08 |
-| B1 | Shores Of India (Gentle Version) | 6:40 |
-| B2 | Cape Of Storms (Gentle Version) | 5:28 |
-| B3 | The Moment (Gentle Version) | 6:08 |
-| C1 | The Storm (Gentle Version) | 5:56 |
-| C2 | Eyes Of Michiel (Gentle Version) | 3:56 |
-| C3 | Brightest Light (Gentle Version) | 4:46 |
-| C4 | New Horizons (Gentle Version) | 5:24 |
-| C5 | Epilogue: The Final Entry (Gentle Version) | 2:02 |
-|  | Storm |  |
-| D1 | Endless Sea (Storm Version) | 5:53 |
-| D2 | Heart Of Amsterdam (Storm Version) | 6:37 |
-| D3 | The Greatest Love (Storm Version) | 3:57 |
-| E1 | Shores Of India (Storm Version) | 6:24 |
-| E2 | Cape Of Storms (Storm Version) | 5:32 |
-| E3 | The Moment (Storm Version) | 6:10 |
-| F1 | The Storm (Storm Version) | 5:58 |
-| F2 | Eyes Of Michiel (Storm Version) | 4:00 |
-| F3 | Brightest Light (Storm Version) | 4:54 |
-| F4 | New Horizons (Storm Version) | 5:25 |
-| F5 | Epilogue: The Final Entry (Storm Version) | 2:03 |
+| Position | Title |
+|----------|--------|
+|  | Gentle  |
+| A1 | Endless Sea (Gentle Version) |
+| A2 | Heart Of Amsterdam (Gentle Version) |
+| A3 | The Greatest Love (Gentle Version) |
+| B1 | Shores Of India (Gentle Version) |
+| B2 | Cape Of Storms (Gentle Version) |
+| B3 | The Moment (Gentle Version) |
+| C1 | The Storm (Gentle Version) |
+| C2 | Eyes Of Michiel (Gentle Version) |
+| C3 | Brightest Light (Gentle Version) |
+| C4 | New Horizons (Gentle Version) |
+| C5 | Epilogue: The Final Entry (Gentle Version) |
+|  | Storm |
+| D1 | Endless Sea (Storm Version) |
+| D2 | Heart Of Amsterdam (Storm Version) |
+| D3 | The Greatest Love (Storm Version) |
+| E1 | Shores Of India (Storm Version) |
+| E2 | Cape Of Storms (Storm Version) |
+| E3 | The Moment (Storm Version) |
+| F1 | The Storm (Storm Version) |
+| F2 | Eyes Of Michiel (Storm Version) |
+| F3 | Brightest Light (Storm Version) |
+| F4 | New Horizons (Storm Version) |
+| F5 | Epilogue: The Final Entry (Storm Version) |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ A concept album about a love story set in the 17th century, The Diary consists o
 | Format         | Vinyl 3× LP Album Limited Edition Numbered Reissue (Flaming Coloured) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3074 |
-| Notes | 180 gram audiophile vinyl<br>includes 12-page booklet with lyrics and background story<br>Limited edition of 1000 numbered copies |
+| Notes | 180 gram audiophile vinyl includes 12-page booklet with lyrics and background story Limited edition of 1000 numbered copies |
 | Discogs URL    | [The Gentle Storm - The Diary](https://www.discogs.com/release/26059753-The-Gentle-Storm-The-Diary) |

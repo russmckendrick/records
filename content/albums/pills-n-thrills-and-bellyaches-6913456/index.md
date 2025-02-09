@@ -52,18 +52,18 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Kinky Afro |  |
-| A2 | God's Cop |  |
-| A3 | Donovan |  |
-| A4 | Grandbag's Funeral |  |
-| A5 | Loose Fit |  |
-| B1 | Dennis And Lois |  |
-| B2 | Bob's Yer Uncle |  |
-| B3 | Step On |  |
-| B4 | Holiday |  |
-| B5 | Harmony |  |
+| Position | Title |
+|----------|--------|
+| A1 | Kinky Afro |
+| A2 | God's Cop |
+| A3 | Donovan |
+| A4 | Grandbag's Funeral |
+| A5 | Loose Fit |
+| B1 | Dennis And Lois |
+| B2 | Bob's Yer Uncle |
+| B3 | Step On |
+| B4 | Holiday |
+| B5 | Harmony |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Yellow) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 60986 |
-| Notes | 25th Anniversary edition, released on Record Store Day 2015.<br>Mastered from the original tapes on limited edition 180 gram yellow vinyl.<br><br>Published by London Music Ltd.<br>except B3 published by Tapestry Music Ltd. © 1970 |
+| Notes | 25th Anniversary edition, released on Record Store Day 2015. Mastered from the original tapes on limited edition 180 gram yellow vinyl.  Published by London Music Ltd. except B3 published by Tapestry Music Ltd. © 1970 |
 | Discogs URL    | [Happy Mondays - Pills 'N' Thrills And Bellyaches](https://www.discogs.com/release/6913456-Happy-Mondays-Pills-N-Thrills-And-Bellyaches) |

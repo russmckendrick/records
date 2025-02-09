@@ -29,17 +29,17 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Word Girl | 4:22 |
-| A2 | Small Talk | 3:36 |
-| A3 | Absolute | 4:22 |
-| A4 | A Little Knowledge | 5:00 |
-| A5 | Don't Work That Hard | 3:56 |
-| B1 | Perfect Way | 4:28 |
-| B2 | Lover To Fall | 4:11 |
-| B3 | Wood Beez (Pray Like Aretha Franklin) | 4:46 |
-| B4 | Hypnotize | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | The Word Girl |
+| A2 | Small Talk |
+| A3 | Absolute |
+| A4 | A Little Knowledge |
+| A5 | Don't Work That Hard |
+| B1 | Perfect Way |
+| B2 | Lover To Fall |
+| B3 | Wood Beez (Pray Like Aretha Franklin) |
+| B4 | Hypnotize |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2350 |
-| Notes | Initial copies of this vinyl release had the title Cupid & Psyche embossed in gold print. The 85 is embossed in various colors (gold, white, red, turquoise, blue). The catalogue number V 2350 is the same.<br><br>℗ 1985 Virgin Records Ltd.<br>© 1985 Jouissance Ltd.<br><br>Manufactured in the U.K. |
+| Notes | Initial copies of this vinyl release had the title Cupid & Psyche embossed in gold print. The 85 is embossed in various colors (gold, white, red, turquoise, blue). The catalogue number V 2350 is the same.  ℗ 1985 Virgin Records Ltd. © 1985 Jouissance Ltd.  Manufactured in the U.K. |
 | Discogs URL    | [Scritti Politti - Cupid & Psyche 85](https://www.discogs.com/release/481976-Scritti-Politti-Cupid-Psyche-85) |

@@ -38,19 +38,19 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blue Ocean | 7:05 |
-| A2 | Shoulda Coulda Woulda | 4:32 |
-| A3 | Kayla | 5:20 |
-| B1 | The Storm | 4:53 |
-| B2 | Forever In A Daze | 3:56 |
-| B3 | Love Is What I'm Waiting For | 3:36 |
-| C1 | Everything Changes | 6:55 |
-| C2 | Better Than Walking Away | 4:57 |
-| C3 | All Falls Down | 3:22 |
-| D1 | Fool In My Heart | 3:48 |
-| D2 | Infinite Fire | 12:02 |
+| Position | Title |
+|----------|--------|
+| A1 | Blue Ocean |
+| A2 | Shoulda Coulda Woulda |
+| A3 | Kayla |
+| B1 | The Storm |
+| B2 | Forever In A Daze |
+| B3 | Love Is What I'm Waiting For |
+| C1 | Everything Changes |
+| C2 | Better Than Walking Away |
+| C3 | All Falls Down |
+| D1 | Fool In My Heart |
+| D2 | Infinite Fire |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 | Format         | Vinyl LP Album |
 | Label          | [{'name': 'Music Theories Recordings', 'catno': ''}] |
 | Catalog Number | MTR 7363 1 |
-| Notes | Barcodes: <br>'8 712725 736318' is printed on the cover.<br>some copies - likely those marketed in the US - has '0 20286 19859 8' stickered on top of the printed barcode.<br><br>[On back cover:] <br>℗ & © 2011 Mascot Music Production and Publishing BV.<br>[On inner sleeve:] <br>© 2011 LaRue, McPherson, Morse, Morse, Portnoy<br>℗ & © 2012 Mascot Music Production and Publishing BV.<br>[On labels:]<br>℗ & © 2012 Mascot Music Production and Publishing BV.<br>Made in France by MPO <br><br>Drums, percussion, keyboards and vocals: Recorded in Nashville, TN, USA. www.radiantrecords.com/Radiantstudios<br>Guitars, Bass and additional keyboards: Recorded in Ocala, FL, USA.<br>Additional vocals and guitars: Recorded in Austin, TX, USA.<br>Viola recorded in Glasgow, Scotland, UK.<br><br>Runouts are etched. |
+| Notes | Barcodes:  '8 712725 736318' is printed on the cover. some copies - likely those marketed in the US - has '0 20286 19859 8' stickered on top of the printed barcode.  [On back cover:]  ℗ & © 2011 Mascot Music Production and Publishing BV. [On inner sleeve:]  © 2011 LaRue, McPherson, Morse, Morse, Portnoy ℗ & © 2012 Mascot Music Production and Publishing BV. [On labels:] ℗ & © 2012 Mascot Music Production and Publishing BV. Made in France by MPO   Drums, percussion, keyboards and vocals: Recorded in Nashville, TN, USA. www.radiantrecords.com/Radiantstudios Guitars, Bass and additional keyboards: Recorded in Ocala, FL, USA. Additional vocals and guitars: Recorded in Austin, TX, USA. Viola recorded in Glasgow, Scotland, UK.  Runouts are etched. |
 | Discogs URL    | [Flying Colors - Flying Colors](https://www.discogs.com/release/3641463-Flying-Colors-Flying-Colors) |

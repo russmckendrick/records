@@ -30,21 +30,21 @@ styles: ["Indie Rock", "Indie Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Your Ex-Lover Is Dead |  |
-| A2 | Set Yourself On Fire |  |
-| A3 | Ageless Beauty |  |
-| A4 | Reunion |  |
-| A5 | The Big Fight |  |
-| A6 | What I'm Trying To Say |  |
-| B1 | One More Night (Your Ex-Lover Remains Dead) |  |
-| B2 | Sleep Tonight |  |
-| B3 | The First Five Times |  |
-| B4 | He Lied About Death |  |
-| B5 | Celebration Guns |  |
-| B6 | Soft Revolution |  |
-| B7 | Calendar Girl |  |
+| Position | Title |
+|----------|--------|
+| A1 | Your Ex-Lover Is Dead |
+| A2 | Set Yourself On Fire |
+| A3 | Ageless Beauty |
+| A4 | Reunion |
+| A5 | The Big Fight |
+| A6 | What I'm Trying To Say |
+| B1 | One More Night (Your Ex-Lover Remains Dead) |
+| B2 | Sleep Tonight |
+| B3 | The First Five Times |
+| B4 | He Lied About Death |
+| B5 | Celebration Guns |
+| B6 | Soft Revolution |
+| B7 | Calendar Girl |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Rock", "Indie Pop"]
 | Format         | Vinyl LP Album Deluxe Edition Reissue Remastered (Red) |
 | Label          | Arts & Crafts International |
 | Catalog Number | AC009LPX |
-| Notes | Deluxe 20th Anniversary Edition of Stars' legendary album Set Yourself On Fire. Lovingly reimagined on 140g opaque red vinyl housed in a special die cut jacket with printed inner sleeve, 12x24" pinup poster, and a temporary tattoo featuring the iconic flame design. New liner notes written by album producer Tom McFall. Digital download includes two bonus tracks not widely available on other releases. <br><br>Limited to 3000 copies. <br><br>SIGNED versions available via Stars Patreon. |
+| Notes | Deluxe 20th Anniversary Edition of Stars' legendary album Set Yourself On Fire. Lovingly reimagined on 140g opaque red vinyl housed in a special die cut jacket with printed inner sleeve, 12x24" pinup poster, and a temporary tattoo featuring the iconic flame design. New liner notes written by album producer Tom McFall. Digital download includes two bonus tracks not widely available on other releases.   Limited to 3000 copies.   SIGNED versions available via Stars Patreon. |
 | Discogs URL    | [Stars - Set Yourself On Fire - 20th Anniversary Edition](https://www.discogs.com/release/31874636-Stars-Set-Yourself-On-Fire-20th-Anniversary-Edition) |

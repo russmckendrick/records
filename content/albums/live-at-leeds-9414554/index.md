@@ -46,41 +46,41 @@ The Who were looking for a way to follow up their 1969 album Tommy, and had reco
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heaven And Hell | 5:06 |
-| A2 | I Can't Explain | 2:26 |
-| A3 | Fortune Teller | 2:34 |
-| A4 | Tattoo | 3:00 |
-| A5 | Young Man Blues | 5:14 |
-| B1 | Substitute | 2:07 |
-| B2 | Happy Jack | 2:13 |
-| B3 | I'm A Boy | 2:45 |
-| B4 | A Quick One, While He's Away | 8:39 |
-| C1 | Overture | 6:51 |
-| C2 | It's A Boy | 0:31 |
-| C3 | 1921 | 2:25 |
-| C4 | Amazing Journey | 3:17 |
-| C5 | Sparks | 4:21 |
-| C6 | Eyesight To The Blind (The Hawker) | 1:58 |
-| C7 | Christmas | 3:18 |
-| D1 | The Acid Queen | 3:34 |
-| D2 | Pinball Wizard | 2:52 |
-| D3 | Do You Think It's Alright? | 0:21 |
-| D4 | Fiddle About | 1:13 |
-| D5 | Tommy Can You Hear Me? | 0:55 |
-| D6 | There's A Doctor | 0:22 |
-| D7 | Go To The Mirror | 3:24 |
-| D8 | Smash The Mirror | 1:18 |
-| D9 | Miracle Cure | 0:12 |
-| D10 | Sally Simpson | 4:00 |
-| D11 | I'm Free | 2:38 |
-| E1 | Tommy's Holiday Camp | 1:00 |
-| E2 | We're Not Gonna Take It | 8:47 |
-| E3 | Summertime Blues | 3:22 |
-| E4 | Shakin' All Over | 4:34 |
-| F1 | My Generation | 15:24 |
-| F2 | Magic Bus | 7:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Heaven And Hell |
+| A2 | I Can't Explain |
+| A3 | Fortune Teller |
+| A4 | Tattoo |
+| A5 | Young Man Blues |
+| B1 | Substitute |
+| B2 | Happy Jack |
+| B3 | I'm A Boy |
+| B4 | A Quick One, While He's Away |
+| C1 | Overture |
+| C2 | It's A Boy |
+| C3 | 1921 |
+| C4 | Amazing Journey |
+| C5 | Sparks |
+| C6 | Eyesight To The Blind (The Hawker) |
+| C7 | Christmas |
+| D1 | The Acid Queen |
+| D2 | Pinball Wizard |
+| D3 | Do You Think It's Alright? |
+| D4 | Fiddle About |
+| D5 | Tommy Can You Hear Me? |
+| D6 | There's A Doctor |
+| D7 | Go To The Mirror |
+| D8 | Smash The Mirror |
+| D9 | Miracle Cure |
+| D10 | Sally Simpson |
+| D11 | I'm Free |
+| E1 | Tommy's Holiday Camp |
+| E2 | We're Not Gonna Take It |
+| E3 | Summertime Blues |
+| E4 | Shakin' All Over |
+| F1 | My Generation |
+| F2 | Magic Bus |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ The Who were looking for a way to follow up their 1969 album Tommy, and had reco
 | Format         | Vinyl 3× LP Album Deluxe Edition Reissue Remastered (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 0600753698075 |
-| Notes | Back To Black half-speed mastering reissue of the full show. <br>Triple gatefold sleeve that comes with : <br>- a download card <br>- a "Mastered at Abbey Road Studios" spine card<br>- a half-speed mastering certificate (only with some copies)<br>- 3 printed inner sleeves<br><br>No label rim text on sides 2, 4 & 6. Sides 1, 3 & 5 have text.<br><br>Runout details:<br>Everything is machine engraved except hand etched "MILES. ABBEY ROAD ½ SPEED.".<br><br>[Spine card:]<br>Deluxe Edition<br>3LP edition<br>The complete 33 track set from Leeds University 14 February 1970<br>Mastered at Abbey Road Studios<br>Half Speed Mastering<br>This record was cut using half-speed mastering.<br><br>[Back To Black sticker:]<br>Includes a voucher to download MP3 version of the album<br>180 gram heavyweight vinyl<br><br>[Rear jacket:]<br>℗ 2016 Polydor Ltd. (UK). © 2016 Polydor Ltd. (UK), a Universal Music Company. [...] Made in the EU. BIEM/SDRM. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.<br><br>[Inner sleeve LP 3:]<br>Recorded at Leeds University on February 14, 1970, on the Pye Mobile.<br>The original Live At Leeds was released as [url=https://www.discogs.com/release/4501716-The-Who-Live-At-Leeds]Track 2406 001[/url] on May 3, 1970. It reached #3 in the UK. Released in the US as [url=https://www.discogs.com/release/556011-The-Who-Live-At-Leeds]Decca DL 79175[/url] on May 16, 1970, it reached #4. |
+| Notes | Back To Black half-speed mastering reissue of the full show.  Triple gatefold sleeve that comes with :  - a download card  - a "Mastered at Abbey Road Studios" spine card - a half-speed mastering certificate (only with some copies) - 3 printed inner sleeves  No label rim text on sides 2, 4 & 6. Sides 1, 3 & 5 have text.  Runout details: Everything is machine engraved except hand etched "MILES. ABBEY ROAD ½ SPEED.".  [Spine card:] Deluxe Edition 3LP edition The complete 33 track set from Leeds University 14 February 1970 Mastered at Abbey Road Studios Half Speed Mastering This record was cut using half-speed mastering.  [Back To Black sticker:] Includes a voucher to download MP3 version of the album 180 gram heavyweight vinyl  [Rear jacket:] ℗ 2016 Polydor Ltd. (UK). © 2016 Polydor Ltd. (UK), a Universal Music Company. [...] Made in the EU. BIEM/SDRM. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  [Inner sleeve LP 3:] Recorded at Leeds University on February 14, 1970, on the Pye Mobile. The original Live At Leeds was released as [url=https://www.discogs.com/release/4501716-The-Who-Live-At-Leeds]Track 2406 001[/url] on May 3, 1970. It reached #3 in the UK. Released in the US as [url=https://www.discogs.com/release/556011-The-Who-Live-At-Leeds]Decca DL 79175[/url] on May 16, 1970, it reached #4. |
 | Discogs URL    | [The Who - Live At Leeds](https://www.discogs.com/release/9414554-The-Who-Live-At-Leeds) |

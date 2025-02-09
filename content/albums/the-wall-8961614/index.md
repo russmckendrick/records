@@ -48,34 +48,34 @@ In addition to elevating them to implausibly greater levels of fame, <i>The Wall
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Flesh? | 3:16 |
-| A2 | The Thin Ice | 2:27 |
-| A3 | Another Brick In The Wall Part 1 | 3:11 |
-| A4 | The Happiest Days Of Our Lives | 1:46 |
-| A5 | Another Brick In The Wall Part 2 | 3:59 |
-| A6 | Mother | 5:32 |
-| B1 | Goodbye Blue Sky | 2:45 |
-| B2 | Empty Spaces | 2:10 |
-| B3 | Young Lust | 3:25 |
-| B4 | One Of My Turns | 3:41 |
-| B5 | Don't Leave Me Now | 4:08 |
-| B6 | Another Brick In The Wall Part 3 | 1:18 |
-| B7 | Goodbye Cruel World | 1:16 |
-| C1 | Hey You | 4:40 |
-| C2 | Is There Anybody Out There? | 2:44 |
-| C3 | Nobody Home | 3:26 |
-| C4 | Vera | 1:35 |
-| C5 | Bring The Boys Back Home | 1:21 |
-| C6 | Comfortably Numb | 6:23 |
-| D1 | The Show Must Go On | 1:36 |
-| D2 | In The Flesh | 4:15 |
-| D3 | Run Like Hell | 4:20 |
-| D4 | Waiting For The Worms | 4:04 |
-| D5 | Stop | 0:30 |
-| D6 | The Trial | 5:13 |
-| D7 | Outside The Wall | 1:41 |
+| Position | Title |
+|----------|--------|
+| A1 | In The Flesh? |
+| A2 | The Thin Ice |
+| A3 | Another Brick In The Wall Part 1 |
+| A4 | The Happiest Days Of Our Lives |
+| A5 | Another Brick In The Wall Part 2 |
+| A6 | Mother |
+| B1 | Goodbye Blue Sky |
+| B2 | Empty Spaces |
+| B3 | Young Lust |
+| B4 | One Of My Turns |
+| B5 | Don't Leave Me Now |
+| B6 | Another Brick In The Wall Part 3 |
+| B7 | Goodbye Cruel World |
+| C1 | Hey You |
+| C2 | Is There Anybody Out There? |
+| C3 | Nobody Home |
+| C4 | Vera |
+| C5 | Bring The Boys Back Home |
+| C6 | Comfortably Numb |
+| D1 | The Show Must Go On |
+| D2 | In The Flesh |
+| D3 | Run Like Hell |
+| D4 | Waiting For The Worms |
+| D5 | Stop |
+| D6 | The Trial |
+| D7 | Outside The Wall |
 
 
 ## Apple Music
@@ -93,5 +93,5 @@ In addition to elevating them to implausibly greater levels of fame, <i>The Wall
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP11 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: November 1979<br>Made in the E.U.<br>www.pinkfloyd.com<br><br>Cat#s:<br>'PFRLP11-1' on LP1 inner sleeve<br>'PFRLP11-2' on LP2 inner sleeve<br><br>Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap.<br>Printed inner sleeves in original UK-Style.<br><br>℗ & © 2016 Pink Floyd Music Ltd. <br><br>Runtimes measured by digitalizing the vinyl and having timed each track on computer.<br><br>Runouts:<br>'16736 #A / #B / #C / #D' is stamped, remainder is etched. |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1979 Made in the E.U. www.pinkfloyd.com  Cat#s: 'PFRLP11-1' on LP1 inner sleeve 'PFRLP11-2' on LP2 inner sleeve  Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap. Printed inner sleeves in original UK-Style.  ℗ & © 2016 Pink Floyd Music Ltd.   Runtimes measured by digitalizing the vinyl and having timed each track on computer.  Runouts: '16736 #A / #B / #C / #D' is stamped, remainder is etched. |
 | Discogs URL    | [Pink Floyd - The Wall](https://www.discogs.com/release/8961614-Pink-Floyd-The-Wall) |

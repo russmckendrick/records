@@ -37,18 +37,18 @@ The album was initially released for free as downloads on the internet. Later it
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wake Up |  |
-| A2 | Hold On |  |
-| A3 | Into Action |  |
-| A4 | Translator |  |
-| A5 | Take This City |  |
-| B1 | Inner City Violence |  |
-| B2 | Oh No |  |
-| B3 | Lady Demeter |  |
-| B4 | Among The Dead |  |
-| B5 | Cold Blooded |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wake Up |
+| A2 | Hold On |
+| A3 | Into Action |
+| A4 | Translator |
+| A5 | Take This City |
+| B1 | Inner City Violence |
+| B2 | Oh No |
+| B3 | Lady Demeter |
+| B4 | Among The Dead |
+| B5 | Cold Blooded |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The album was initially released for free as downloads on the internet. Later it
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
 | Label          | Hellcat Records |
 | Catalog Number | 0491-1 |
-| Notes | Gatefold cover. White vinyl. <br><br>The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made. |
+| Notes | Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made. |
 | Discogs URL    | [Tim Armstrong - A Poet's Life](https://www.discogs.com/release/11895222-Tim-Armstrong-A-Poets-Life) |

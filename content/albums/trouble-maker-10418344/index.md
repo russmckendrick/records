@@ -30,25 +30,25 @@ Rancidâ€™s ninth studio album arrives 24 years after their debut, but time hasnâ
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Track Fast	 |  |
-| A2 | Ghost Of A Chance |  |
-| A3 | Telegraph Avenue |  |
-| A4 | An Intimate Close Up Of A Street Punk Trouble Maker |  |
-| A5 | Where I'm Going |  |
-| A6 | Buddy |  |
-| A7 | Farewell Lola Blue |  |
-| A8 | All American Neighborhood |  |
-| A9 | Bovver Rock And Roll |  |
-| B1 | Make It Out Alive |  |
-| B2 | Molly Make Up Your Mind |  |
-| B3 | I Got Them Blues Again |  |
-| B4 | Beauty Of The Pool Hall |  |
-| B5 | Say Goodbye To Our Heroes |  |
-| B6 | I Kept A Promise |  |
-| B7 | Cold Cold Blood |  |
-| B8 | This Is Not The End |  |
+| Position | Title |
+|----------|--------|
+| A1 | Track Fast	 |
+| A2 | Ghost Of A Chance |
+| A3 | Telegraph Avenue |
+| A4 | An Intimate Close Up Of A Street Punk Trouble Maker |
+| A5 | Where I'm Going |
+| A6 | Buddy |
+| A7 | Farewell Lola Blue |
+| A8 | All American Neighborhood |
+| A9 | Bovver Rock And Roll |
+| B1 | Make It Out Alive |
+| B2 | Molly Make Up Your Mind |
+| B3 | I Got Them Blues Again |
+| B4 | Beauty Of The Pool Hall |
+| B5 | Say Goodbye To Our Heroes |
+| B6 | I Kept A Promise |
+| B7 | Cold Cold Blood |
+| B8 | This Is Not The End |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Rancidâ€™s ninth studio album arrives 24 years after their debut, but time hasnâ
 | Format         | Vinyl LP Album |
 | Label          | Hellcat Records |
 | Catalog Number | 7465-1 |
-| Notes | It contains a double sided insert.<br><br>Runout stamped |
+| Notes | It contains a double sided insert.  Runout stamped |
 | Discogs URL    | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344-Rancid-Trouble-Maker) |

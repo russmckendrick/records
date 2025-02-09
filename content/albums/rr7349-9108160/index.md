@@ -34,17 +34,17 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A.H.B | 4:25 |
-| A2 | Other | 3:43 |
-| A3 | Dirt | 5:06 |
-| A4 | High Rise | 3:59 |
-| A5 | Wardenclyffe | 4:08 |
-| B1 | Sorceror | 4:39 |
-| B2 | Low Fog | 4:40 |
-| B3 | Copter | 6:36 |
-| B4 | Cutthroat | 4:02 |
+| Position | Title |
+|----------|--------|
+| A1 | A.H.B |
+| A2 | Other |
+| A3 | Dirt |
+| A4 | High Rise |
+| A5 | Wardenclyffe |
+| B1 | Sorceror |
+| B2 | Low Fog |
+| B3 | Copter |
+| B4 | Cutthroat |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 | Format         | Vinyl LP Album |
 | Label          | Relapse Records |
 | Catalog Number | RR7349 |
-| Notes | Made in EU<br><br>Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp). |
+| Notes | Made in EU  Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp). |
 | Discogs URL    | [Survive - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |

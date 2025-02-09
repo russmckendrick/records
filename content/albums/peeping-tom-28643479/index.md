@@ -32,19 +32,19 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Five Seconds | 4:20 |
-| A2 | Mojo | 3:40 |
-| A3 | Don't Even Trip | 5:46 |
-| A4 | Getaway | 3:22 |
-| A5 | Your Neighborhood Spaceman | 5:45 |
-| B1 | Kill The DJ | 4:09 |
-| B2 | Caipirinha | 2:46 |
-| B3 | Celebrity Death Match | 3:42 |
-| B4 | How U Feelin? | 2:44 |
-| B5 | Sucker | 2:33 |
-| B6 | We're Not Alone (Remix) | 5:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Five Seconds |
+| A2 | Mojo |
+| A3 | Don't Even Trip |
+| A4 | Getaway |
+| A5 | Your Neighborhood Spaceman |
+| B1 | Kill The DJ |
+| B2 | Caipirinha |
+| B3 | Celebrity Death Match |
+| B4 | How U Feelin? |
+| B5 | Sucker |
+| B6 | We're Not Alone (Remix) |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 | Format         | Vinyl LP Album Reissue (Tan) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC258LP2 |
-| Notes | 2023 Reissue<br>Indie Exclusive Tan Vinyl<br>Die-Cut sleeve<br>Includes Hype Sticker On Front<br><br>Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.<br> |
+| Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Front  Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.  |
 | Discogs URL    | [Peeping Tom - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-3-Peeping-Tom) |

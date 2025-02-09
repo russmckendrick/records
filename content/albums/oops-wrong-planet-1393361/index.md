@@ -34,20 +34,20 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trapped | 3:06 |
-| A2 | Windows | 4:17 |
-| A3 | Love In Action | 3:26 |
-| A4 | Crazy Lady Blue | 3:37 |
-| A5 | Back On The Street | 4:09 |
-| A6 | The Marriage Of Heaven And Hell | 4:33 |
-| B1 | The Martyr | 3:48 |
-| B2 | Abandon City | 3:49 |
-| B3 | Gangrene | 3:36 |
-| B4 | My Angel | 3:40 |
-| B5 | Rape Of The Young | 3:11 |
-| B6 | Love Is The Answer | 4:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Trapped |
+| A2 | Windows |
+| A3 | Love In Action |
+| A4 | Crazy Lady Blue |
+| A5 | Back On The Street |
+| A6 | The Marriage Of Heaven And Hell |
+| B1 | The Martyr |
+| B2 | Abandon City |
+| B3 | Gangrene |
+| B4 | My Angel |
+| B5 | Rape Of The Young |
+| B6 | Love Is The Answer |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55517 |
-| Notes | Recorded at Utopia Sound<br>The Message: Use your head, use your heart, save yourselves<br>Printed inner sleeve: photo one side / lyrics other side<br>℗ & © 1977 [Warner logo]<br>Made in UK<br>Additional cat# (cover back, right top, and on labels): BR 6970<br> |
+| Notes | Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970  |
 | Discogs URL    | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-5-Oops-Wrong-Planet) |

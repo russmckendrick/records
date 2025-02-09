@@ -41,22 +41,22 @@ The album was critically well received but was not a chart success, which led to
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Golf Girl | 5:00 |
-| A2 | Winter Wine | 7:35 |
-| A3 | Love To Love You (And Tonight Pigs Will Fly) | 3:03 |
-| A4 | In The Land Of Grey And Pink | 4:59 |
-| B1 | Nine Feet Underground | 22:40 |
-|  | Expanded Edition - Bonus Tracks |  |
-| C1 | Frozen Rose (I Don't Know It's Name Alias The Word) | 6:10 |
-| C2 | Aristocracy  | 3:15 |
-| C3 | It Doesn't Take A Lot | 3:14 |
-| C4 | It's Likely To Have A Name Next Week/Winter Wine | 7:45 |
-| D1 | Love Song With Flute - Live At The BBC/1971 | 3:33 |
-| D2 | In The Land Of Grey & Pink - Live At The BBC/1971 | 3:43 |
-| D3 | Love To Love You (And Tonight Pigs Will Fly) - Live At The BBC/1971 | 3:12 |
-| D4 | Feelin',Reelin',Squealin' - Live At Paris Theatre London/1971 | 9:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Golf Girl |
+| A2 | Winter Wine |
+| A3 | Love To Love You (And Tonight Pigs Will Fly) |
+| A4 | In The Land Of Grey And Pink |
+| B1 | Nine Feet Underground |
+|  | Expanded Edition - Bonus Tracks |
+| C1 | Frozen Rose (I Don't Know It's Name Alias The Word) |
+| C2 | Aristocracy  |
+| C3 | It Doesn't Take A Lot |
+| C4 | It's Likely To Have A Name Next Week/Winter Wine |
+| D1 | Love Song With Flute - Live At The BBC/1971 |
+| D2 | In The Land Of Grey & Pink - Live At The BBC/1971 |
+| D3 | Love To Love You (And Tonight Pigs Will Fly) - Live At The BBC/1971 |
+| D4 | Feelin',Reelin',Squealin' - Live At Paris Theatre London/1971 |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ The album was critically well received but was not a chart success, which led to
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Pink / Grey Marble, Expanded Edition) |
 | Label          | Decca |
 | Catalog Number | 00602448775696 |
-| Notes | Hype Sticker Reads: <br>Expanded Edition 2LP Set Featuring The Original Classic Album plus Rare Bonus Tracks and BBC Sessions<br><br>WWW.DECCA.COM<br>TOTAL TIMING: 1:23:47<br>MADE IN THE EU<br><br>Sticker: Made in Germany |
+| Notes | Hype Sticker Reads:  Expanded Edition 2LP Set Featuring The Original Classic Album plus Rare Bonus Tracks and BBC Sessions  WWW.DECCA.COM TOTAL TIMING: 1:23:47 MADE IN THE EU  Sticker: Made in Germany |
 | Discogs URL    | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/28865239-Caravan-In-The-Land-Of-Grey-And-Pink) |

@@ -34,29 +34,29 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take My Hand |  |
-| A2 | Something In My Eye |  |
-| A3 | Medicine |  |
-| A4 | Badger's Wake |  |
-| A5 | World In Action |  |
-| A6 | One By One |  |
-| B1 | Take A Bow |  |
-| B2 | October Sun |  |
-| B3 | So Low |  |
-| B4 | Summer Sun |  |
-| B5 | Gather Up |  |
-| C1 | Snuff Box Theme |  |
-| C2 | Middle Of The East |  |
-| C3 | Like Stone |  |
-| C4 | Phantom Birds |  |
-| C5 | Music For Insomniacs Pt IV |  |
-| C6 | Say It Again |  |
-| D1 | The Innkeepers Song (Live) |  |
-| D2 | Obsessed & So Obscure |  |
-| D3 | Woman |  |
-| D4 | Solstice |  |
+| Position | Title |
+|----------|--------|
+| A1 | Take My Hand |
+| A2 | Something In My Eye |
+| A3 | Medicine |
+| A4 | Badger's Wake |
+| A5 | World In Action |
+| A6 | One By One |
+| B1 | Take A Bow |
+| B2 | October Sun |
+| B3 | So Low |
+| B4 | Summer Sun |
+| B5 | Gather Up |
+| C1 | Snuff Box Theme |
+| C2 | Middle Of The East |
+| C3 | Like Stone |
+| C4 | Phantom Birds |
+| C5 | Music For Insomniacs Pt IV |
+| C6 | Say It Again |
+| D1 | The Innkeepers Song (Live) |
+| D2 | Obsessed & So Obscure |
+| D3 | Woman |
+| D4 | Solstice |
 
 
 ## Apple Music

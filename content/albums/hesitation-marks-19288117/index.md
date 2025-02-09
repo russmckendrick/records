@@ -44,22 +44,22 @@ Hesitation Marks received positive reviews from critics, with the new sound attr
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Eater Of Dreams | 0:53 |
-| A2 | Copy Of A | 5:23 |
-| A3 | Came Back Haunted | 5:17 |
-| A4 | Find My Way | 5:16 |
-| B1 | All Time Low | 6:18 |
-| B2 | Disappointed | 5:44 |
-| B3 | Everything | 3:20 |
-| C1 | Satellite | 5:03 |
-| C2 | Various Methods Of Escape | 5:01 |
-| C3 | Running | 4:08 |
-| D1 | I Would For You | 4:33 |
-| D2 | In Two | 5:32 |
-| D3 | While I'm Still Here | 4:03 |
-| D4 | Black Noise | 1:28 |
+| Position | Title |
+|----------|--------|
+| A1 | The Eater Of Dreams |
+| A2 | Copy Of A |
+| A3 | Came Back Haunted |
+| A4 | Find My Way |
+| B1 | All Time Low |
+| B2 | Disappointed |
+| B3 | Everything |
+| C1 | Satellite |
+| C2 | Various Methods Of Escape |
+| C3 | Running |
+| D1 | I Would For You |
+| D2 | In Two |
+| D3 | While I'm Still Here |
+| D4 | Black Noise |
 
 
 ## Apple Music

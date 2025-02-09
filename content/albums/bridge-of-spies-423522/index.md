@@ -32,19 +32,19 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heart And Soul | 4:15 |
-| A2 | I Will Be With You | 4:06 |
-| A3 | China In Your Hand | 5:06 |
-| A4 | Friends Like These | 3:45 |
-| A5 | Sex Talk | 4:07 |
-| B1 | Bridge Of Spies | 5:23 |
-| B2 | Monkey House | 4:24 |
-| B3 | Valentine | 3:53 |
-| B4 | Thank You For Goodbye | 3:54 |
-| B5 | You Give Up | 4:39 |
-| B6 | China In Your Hand (Reprise) | 0:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Heart And Soul |
+| A2 | I Will Be With You |
+| A3 | China In Your Hand |
+| A4 | Friends Like These |
+| A5 | Sex Talk |
+| B1 | Bridge Of Spies |
+| B2 | Monkey House |
+| B3 | Valentine |
+| B4 | Thank You For Goodbye |
+| B5 | You Give Up |
+| B6 | China In Your Hand (Reprise) |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 | Format         | Vinyl LP Album Stereo |
 | Label          | Siren (3) |
 | Catalog Number | SRN LP8 |
-| Notes | This version has A/B side indicators.<br><br>Recorded at Fabarama.<br>Mastered at Sterling Sound, New York.<br><br>℗ & © 1987 Siren Records Ltd.<br><br>Comes with a lyric inner sleeve.<br> |
+| Notes | This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve.  |
 | Discogs URL    | [TPau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |

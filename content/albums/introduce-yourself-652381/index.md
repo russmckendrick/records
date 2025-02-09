@@ -32,18 +32,18 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Faster Disco | 4:17 |
-| A2 | Anne's Song | 4:47 |
-| A3 | Introduce Yourself | 1:30 |
-| A4 | Chinese Arithmetic | 4:36 |
-| A5 | Death March | 2:59 |
-| B1 | We Care A Lot | 4:01 |
-| B2 | R n' R | 3:11 |
-| B3 | The Crab Song | 5:52 |
-| B4 | Blood | 3:39 |
-| B5 | Spirit | 2:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Faster Disco |
+| A2 | Anne's Song |
+| A3 | Introduce Yourself |
+| A4 | Chinese Arithmetic |
+| A5 | Death March |
+| B1 | We Care A Lot |
+| B2 | R n' R |
+| B3 | The Crab Song |
+| B4 | Blood |
+| B5 | Spirit |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 | Format         | Vinyl LP Album (Allied Record Pressing) |
 | Label          | Slash |
 | Catalog Number | 25559-1 |
-| Notes | This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].<br><br>Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.<br><br>Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA. <br>Mixed at Studio D, Sausalito, CA.<br><br>© 1987 Slash Records ℗ 1987 Slash Records.<br>Distributed by Warner Bros. Records, Inc.<br>Made in USA.<br><br>Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.<br>Runout etched except "a kdisc" which is stamped. |
+| Notes | This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area. Runout etched except "a kdisc" which is stamped. |
 | Discogs URL    | [Faith No More - Introduce Yourself](https://www.discogs.com/release/652381-Faith-No-More-Introduce-Yourself) |

@@ -36,39 +36,39 @@ At this concert, Rush played to 40,000, their second-largest crowd on the Vapor 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tom Sawyer |  |
-| A2 | Distant Early Warning |  |
-| A3 | New World Man |  |
-| A4 | Roll The Bones |  |
-| B1 | Earthshine |  |
-| B2 | YYZ |  |
-| B3 | The Pass |  |
-| B4 | Bravado |  |
-| C1 | The Big Money |  |
-| C2 | The Trees |  |
-| C3 | Free Will |  |
-| C4 | Closer To The Heart |  |
-| D1 | Natural Science |  |
-| D2 | One Little Victory |  |
-| D3 | Driven |  |
-| D4 | Ghost Rider |  |
-| E1 | Secret Touch |  |
-| E2 | Dreamline |  |
-| E3 | Red Sector A |  |
-| E4 | Leave That Thing Alone |  |
-| F1 | O Baterista |  |
-| F2 | Resist |  |
-| F3 | 2112 |  |
-| G1 | Limelight |  |
-| G2 | La Villa Strangiato |  |
-| G3 | The Spirit Of Radio |  |
-| H1 | By-Tor And The Snow Dog |  |
-| H2 | Cygnus X-1 |  |
-| H3 | Working Man |  |
-| H4 | Between Sun & Moon |  |
-| H5 | Vital Signs |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tom Sawyer |
+| A2 | Distant Early Warning |
+| A3 | New World Man |
+| A4 | Roll The Bones |
+| B1 | Earthshine |
+| B2 | YYZ |
+| B3 | The Pass |
+| B4 | Bravado |
+| C1 | The Big Money |
+| C2 | The Trees |
+| C3 | Free Will |
+| C4 | Closer To The Heart |
+| D1 | Natural Science |
+| D2 | One Little Victory |
+| D3 | Driven |
+| D4 | Ghost Rider |
+| E1 | Secret Touch |
+| E2 | Dreamline |
+| E3 | Red Sector A |
+| E4 | Leave That Thing Alone |
+| F1 | O Baterista |
+| F2 | Resist |
+| F3 | 2112 |
+| G1 | Limelight |
+| G2 | La Villa Strangiato |
+| G3 | The Spirit Of Radio |
+| H1 | By-Tor And The Snow Dog |
+| H2 | Cygnus X-1 |
+| H3 | Working Man |
+| H4 | Between Sun & Moon |
+| H5 | Vital Signs |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ At this concert, Rush played to 40,000, their second-largest crowd on the Vapor 
 | Format         | Vinyl 4× LP Album Reissue (180g) |
 | Label          | Atlantic |
 | Catalog Number | R1 83672 |
-| Notes | ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.<br><br>Packaged in a four-panel gatefold.<br><br>Sticker on shrink foil: <br>"Rush in Rio <br>180g <br>Never-Before-Released on Vinyl<br>4LP + Download Card" |
+| Notes | ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.  Packaged in a four-panel gatefold.  Sticker on shrink foil:  "Rush in Rio  180g  Never-Before-Released on Vinyl 4LP + Download Card" |
 | Discogs URL    | [Rush - Rush In Rio](https://www.discogs.com/release/13087653-Rush-Rush-In-Rio) |

@@ -35,15 +35,15 @@ The album is titled after a military slang term well known at the time of releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Waiting Room |  |
-| A2 | Bulldog Front |  |
-| A3 | Bad Mouth |  |
-| A4 | Burning |  |
-| B1 | Give Me The Cure |  |
-| B2 | Suggestion |  |
-| B3 | Glue Man |  |
+| Position | Title |
+|----------|--------|
+| A1 | Waiting Room |
+| A2 | Bulldog Front |
+| A3 | Bad Mouth |
+| A4 | Burning |
+| B1 | Give Me The Cure |
+| B2 | Suggestion |
+| B3 | Glue Man |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Vinyl 12" 33 ⅓ RPM EP Reissue Remastered |
 | Label          | Dischord Records |
 | Catalog Number | Dischord 30 |
-| Notes | Cat# appears as Dischord 30 on label, as DISCHORD 30 on spine.<br><br>Barcode is on a sticker on the plastic. No barcode on album sleeve.<br><br>Sticker on front cover (on the plastic): "Free album downloaded included with this LP - Vinyl Remastered From Original Source Tapes - Coupon & MP3 Download Details Enclosed"<br><br>Comes with 12-digit MP3 download code from Dischord records.<br><br>Made in USA (on back cover)<br>Made in France (on labels)<br><br>No price on this version.<br><br>Dischord Records<br>3819 Beecher St NW<br>Washington, DC 20007<br><br>© 1988 Dischord<br><br>All songs © Fugazi |
+| Notes | Cat# appears as Dischord 30 on label, as DISCHORD 30 on spine.  Barcode is on a sticker on the plastic. No barcode on album sleeve.  Sticker on front cover (on the plastic): "Free album downloaded included with this LP - Vinyl Remastered From Original Source Tapes - Coupon & MP3 Download Details Enclosed"  Comes with 12-digit MP3 download code from Dischord records.  Made in USA (on back cover) Made in France (on labels)  No price on this version.  Dischord Records 3819 Beecher St NW Washington, DC 20007  © 1988 Dischord  All songs © Fugazi |
 | Discogs URL    | [Fugazi - Fugazi](https://www.discogs.com/release/8498294-Fugazi-Fugazi) |

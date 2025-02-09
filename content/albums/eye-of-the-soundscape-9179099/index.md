@@ -25,34 +25,34 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| LP-A1 | Where The River Flows | 10:53 |
-| LP-A2 | Shine | 4:09 |
-| LP-A3 | Sleepwalkers | 7:19 |
-| LP-B1 | Rapid Eye Movement (2016 Mix) | 12:40 |
-| LP-B2 | Rainbow Trip (2016 Mix) | 6:19 |
-| LP-C1 | Night Session - Part One | 10:40 |
-| LP-C2 | Night Session - Part Two | 11:35 |
-| LP-D1 | Heavenland | 4:59 |
-| LP-D2 | Return | 6:50 |
-| LP-D3 | Aether | 8:43 |
-| LP-E1 | Machines | 3:53 |
-| LP-E2 | Promise | 2:44 |
-| LP-E3 | Eye Of The Soundscape | 11:30 |
-| CD1-1 | Where The River Flows | 10:53 |
-| CD1-2 | Shine | 4:09 |
-| CD1-3 | Rapid Eye Movement (2016 Mix) | 7:19 |
-| CD1-4 | Night Session - Part One | 12:40 |
-| CD1-5 | Night Session - Part Two | 6:19 |
-| CD2-1 | Sleepwalkers | 10:40 |
-| CD2-2 | Rainbow Trip (2016 Mix) | 11:35 |
-| CD2-3 | Heavenland  | 4:59 |
-| CD2-4 | Return | 6:50 |
-| CD2-5 | Aether | 8:43 |
-| CD2-6 | Machines | 3:53 |
-| CD2-7 | Promise | 2:44 |
-| CD2-8 | Eye Of The Soundscape | 11:30 |
+| Position | Title |
+|----------|--------|
+| LP-A1 | Where The River Flows |
+| LP-A2 | Shine |
+| LP-A3 | Sleepwalkers |
+| LP-B1 | Rapid Eye Movement (2016 Mix) |
+| LP-B2 | Rainbow Trip (2016 Mix) |
+| LP-C1 | Night Session - Part One |
+| LP-C2 | Night Session - Part Two |
+| LP-D1 | Heavenland |
+| LP-D2 | Return |
+| LP-D3 | Aether |
+| LP-E1 | Machines |
+| LP-E2 | Promise |
+| LP-E3 | Eye Of The Soundscape |
+| CD1-1 | Where The River Flows |
+| CD1-2 | Shine |
+| CD1-3 | Rapid Eye Movement (2016 Mix) |
+| CD1-4 | Night Session - Part One |
+| CD1-5 | Night Session - Part Two |
+| CD2-1 | Sleepwalkers |
+| CD2-2 | Rainbow Trip (2016 Mix) |
+| CD2-3 | Heavenland  |
+| CD2-4 | Return |
+| CD2-5 | Aether |
+| CD2-6 | Machines |
+| CD2-7 | Promise |
+| CD2-8 | Eye Of The Soundscape |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 | Format         | Vinyl 2× LP (180 Gram), Vinyl LP Single Sided Etched (180 Gram), CD 2× Album Compilation, All Media Album Compilation |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 465 |
-| Notes | Black vinyl in a gatefold sleeve with printed inner sleeves with artwork, credits, and liner notes.<br>Includes the full album on 2 CDs in 1 clear plastic sleeve with 2 separate bags.<br><br>[Sticker on shrink:]<br>Complementary Instrumental And Ambient Electronic Release By Poland's Progressive Rock Institution Riverside.<br>"Eye Of The Soundscape" compiles all the Special experimental Riverside tracks previously used as Bonus material for the "Shrine Of New Generation Slaves" and "Love, Fear and the Time Machine" albums, alongside rare cuts as well as 4 new songs.<br>13 highly atmospheric compositions in a playing time of +100 minutes.<br>3x LP on 180gr. vinyl with etching on side F.<br>and with album on 2 CDs as bonus. <br><br>Recorded, mixed and mastered at Serakos Studio, Warszawa, Poland [...] (2007-2016)<br><br>© 2016 InsideOut Music • ℗ 2016Century Media Records Ltd., under exclusive license from InsideOut Music<br>Made in the EU.  <br><br>Tracks durations as given on release. |
+| Notes | Black vinyl in a gatefold sleeve with printed inner sleeves with artwork, credits, and liner notes. Includes the full album on 2 CDs in 1 clear plastic sleeve with 2 separate bags.  [Sticker on shrink:] Complementary Instrumental And Ambient Electronic Release By Poland's Progressive Rock Institution Riverside. "Eye Of The Soundscape" compiles all the Special experimental Riverside tracks previously used as Bonus material for the "Shrine Of New Generation Slaves" and "Love, Fear and the Time Machine" albums, alongside rare cuts as well as 4 new songs. 13 highly atmospheric compositions in a playing time of +100 minutes. 3x LP on 180gr. vinyl with etching on side F. and with album on 2 CDs as bonus.   Recorded, mixed and mastered at Serakos Studio, Warszawa, Poland [...] (2007-2016)  © 2016 InsideOut Music • ℗ 2016Century Media Records Ltd., under exclusive license from InsideOut Music Made in the EU.    Tracks durations as given on release. |
 | Discogs URL    | [Riverside - Eye Of The Soundscape](https://www.discogs.com/release/9179099-Riverside-Eye-Of-The-Soundscape) |

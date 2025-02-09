@@ -39,28 +39,28 @@ styles: ["Synth-pop", "Electro"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Who Needs Love Like That | 3:06 |
-| A2 | Oh L'Amour | 3:07 |
-| A3 | Sometimes | 3:39 |
-| A4 | Victim Of Love | 3:38 |
-| A5 | The Circus | 4:06 |
-| B1 | Ship Of Fools | 4:03 |
-| B2 | Chains Of Love | 3:43 |
-| B3 | A Little Respect | 3:38 |
-| B4 | Stop! | 2:55 |
-| B5 | Drama! | 4:06 |
-| C1 | Blue Savannah | 4:19 |
-| C2 | Chorus | 4:29 |
-| C3 | Love To Hate You | 3:56 |
-| C4 | Take A Chance On Me | 3:46 |
-| C5 | Always | 4:04 |
-| D1 | Fingers & Thumbs (Cold Summer's Day) | 4:23 |
-| D2 | Breathe | 3:49 |
-| D3 | Elevation | 3:36 |
-| D4 | Love You To The Sky | 3:19 |
-| D5 | Hey Now (Think I Got A Feeling) | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Who Needs Love Like That |
+| A2 | Oh L'Amour |
+| A3 | Sometimes |
+| A4 | Victim Of Love |
+| A5 | The Circus |
+| B1 | Ship Of Fools |
+| B2 | Chains Of Love |
+| B3 | A Little Respect |
+| B4 | Stop! |
+| B5 | Drama! |
+| C1 | Blue Savannah |
+| C2 | Chorus |
+| C3 | Love To Hate You |
+| C4 | Take A Chance On Me |
+| C5 | Always |
+| D1 | Fingers & Thumbs (Cold Summer's Day) |
+| D2 | Breathe |
+| D3 | Elevation |
+| D4 | Love You To The Sky |
+| D5 | Hey Now (Think I Got A Feeling) |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Synth-pop", "Electro"]
 | Format         | Vinyl 2× LP Compilation Reissue (180g, Gatefold) |
 | Label          | Mute |
 | Catalog Number | LPMUTEL26 |
-| Notes | Track durations taken from inner sleeves.<br>Originally released on CD to commemorate the 30th anniversary of Erasure, 'Always - The Very Best Of Erasure' is available on vinyl for the very first time.<br><br>On cover and spine: Always ERASURE The Very Best Of<br>On hype sticker: ALWAYS The Very Best Of Erasure<br><br>Manufactured in France |
+| Notes | Track durations taken from inner sleeves. Originally released on CD to commemorate the 30th anniversary of Erasure, 'Always - The Very Best Of Erasure' is available on vinyl for the very first time.  On cover and spine: Always ERASURE The Very Best Of On hype sticker: ALWAYS The Very Best Of Erasure  Manufactured in France |
 | Discogs URL    | [Erasure - Always (The Very Best Of Erasure)](https://www.discogs.com/release/27978444-Erasure-Always-The-Very-Best-Of-Erasure) |

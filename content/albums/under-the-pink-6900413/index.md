@@ -33,20 +33,20 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pretty Good Year | 3:25 |
-| A2 | God | 3:58 |
-| A3 | Bells For Her | 5:20 |
-| A4 | Past The Mission | 4:05 |
-| A5 | Baker Baker | 3:20 |
-| A6 | The Wrong Band | 3:03 |
-| A7 | The Waitress | 3:09 |
-| B1 | Cornflake Girl | 5:06 |
-| B2 | Icicle | 5:47 |
-| B3 | Cloud On My Tongue | 4:44 |
-| B4 | Space Dog | 5:10 |
-| B5 | Yes, Anastasia | 9:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Pretty Good Year |
+| A2 | God |
+| A3 | Bells For Her |
+| A4 | Past The Mission |
+| A5 | Baker Baker |
+| A6 | The Wrong Band |
+| A7 | The Waitress |
+| B1 | Cornflake Girl |
+| B2 | Icicle |
+| B3 | Cloud On My Tongue |
+| B4 | Space Dog |
+| B5 | Yes, Anastasia |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Atlantic |
 | Catalog Number | 081227957841 |
-| Notes | 180 gram 2015 remastered reissue.<br>Half speed master. |
+| Notes | 180 gram 2015 remastered reissue.  Half speed master. |
 | Discogs URL    | [Tori Amos - Under The Pink](https://www.discogs.com/release/6900413-Tori-Amos-Under-The-Pink) |

@@ -48,20 +48,20 @@ He would get there in the end and the crowning achievement of his career would b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ladies And Gentlemen We Are Floating In Space |  |
-| A2 | Come Together |  |
-| A3 | I Think I'm In Love |  |
-| B1 | All Of My Thoughts |  |
-| B2 | Stay With Me |  |
-| B3 | Electricity |  |
-| B4 | Home Of The Brave |  |
-| C1 | The Individual |  |
-| C2 | Broken Heart |  |
-| C3 | No God Only Religion |  |
-| C4 | Cool Waves |  |
-| D1 | Cop Shoot Cop… |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ladies And Gentlemen We Are Floating In Space |
+| A2 | Come Together |
+| A3 | I Think I'm In Love |
+| B1 | All Of My Thoughts |
+| B2 | Stay With Me |
+| B3 | Electricity |
+| B4 | Home Of The Brave |
+| C1 | The Individual |
+| C2 | Broken Heart |
+| C3 | No God Only Religion |
+| C4 | Cool Waves |
+| D1 | Cop Shoot Cop… |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ He would get there in the end and the crowning achievement of his career would b
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress Special Edition Stereo (Blue [Neptune Blue], 180g) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1753-4 |
-| Notes | Packaged in a gatefold, tip-on sleeve.<br><br>℗ & © 1997 Sony Music Entertainment UK.<br>Under exclusive license to Fat Possum Records, LLC.<br>P.O. Box 1923, Oxford, MS 38655. USA.<br>The tablets are made by [url=https://www.discogs.com/artist/1014517-Farrow-Design]MFD Limited[/url] for the licence/authorisation holder Fat Possum Records.<br><br>Recorded and mixed at Moles Studio - Bath, The Church, Rooster and The Strongroom Studios - London, House of Blues - Memphis, The Hit Factory - New York and A&M - Los Angeles.<br><br> |
+| Notes | Packaged in a gatefold, tip-on sleeve.  ℗ & © 1997 Sony Music Entertainment UK. Under exclusive license to Fat Possum Records, LLC. P.O. Box 1923, Oxford, MS 38655. USA. The tablets are made by [url=https://www.discogs.com/artist/1014517-Farrow-Design]MFD Limited[/url] for the licence/authorisation holder Fat Possum Records.  Recorded and mixed at Moles Studio - Bath, The Church, Rooster and The Strongroom Studios - London, House of Blues - Memphis, The Hit Factory - New York and A&M - Los Angeles.   |
 | Discogs URL    | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/20161612-Spiritualized-Ladies-And-Gentlemen-We-Are-Floating-In-Space) |

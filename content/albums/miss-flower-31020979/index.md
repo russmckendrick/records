@@ -32,19 +32,19 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Water |  |
-| A2 | Lady K |  |
-| A3 | Waterhole |  |
-| A4 | Dreamers |  |
-| A5 | Miss Flower |  |
-| B6 | Black Lion Lane |  |
-| B7 | Let's Keep Dancing |  |
-| B8 | Love Poem |  |
-| B9.1 | The Golden Thread |  |
-| B9.2 | (Silence) |  |
-| B9.3 | A Dream Through The Floorboards |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Water |
+| A2 | Lady K |
+| A3 | Waterhole |
+| A4 | Dreamers |
+| A5 | Miss Flower |
+| B6 | Black Lion Lane |
+| B7 | Let's Keep Dancing |
+| B8 | Love Poem |
+| B9.1 | The Golden Thread |
+| B9.2 | (Silence) |
+| B9.3 | A Dream Through The Floorboards |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Grönland Records |
 | Catalog Number | LPGRON291 |
-| Notes | ℗ & © 2024 Groenland Records<br><br>Lyrics and credits printed on the inner sleeve.<br><br>Signed version from JPC shop Germany, sticker code: 5 061010 501890  |
+| Notes | ℗ & © 2024 Groenland Records  Lyrics and credits printed on the inner sleeve.  Signed version from JPC shop Germany, sticker code: 5 061010 501890  |
 | Discogs URL    | [Emiliana Torrini - Miss Flower](https://www.discogs.com/release/31020979-Emiliana-Torrini-Miss-Flower) |

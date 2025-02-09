@@ -30,18 +30,18 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Every Sounds A Melody | 3:02 |
-| A2 | Wait For The Sun | 3:22 |
-| A3 | Silver Tongue | 3:51 |
-| A4 | Lower Loveday | 5:18 |
-| A5 | Shine | 5:23 |
-| B1 | Coming Home | 5:12 |
-| B2 | I'll Sing For You | 3:28 |
-| B3 | Inside The Dream | 3:12 |
-| B4 | Holding Tight | 2:24 |
-| B5 | Tomorrow | 3:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Every Sounds A Melody |
+| A2 | Wait For The Sun |
+| A3 | Silver Tongue |
+| A4 | Lower Loveday |
+| A5 | Shine |
+| B1 | Coming Home |
+| B2 | I'll Sing For You |
+| B3 | Inside The Dream |
+| B4 | Holding Tight |
+| B5 | Tomorrow |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 | Format         | Vinyl LP Album Reissue Stereo (Clear) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC729 |
-| Notes | In die cut sleeve, with die cut inner<br><br>From hype sticker:<br>¡Hay Tiempo! Britpop's Lost Album on vinyl for the very first time.<br>10 tracks pressed on 180g clear Vinyl<br> |
+| Notes | In die cut sleeve, with die cut inner  From hype sticker: ¡Hay Tiempo! Britpop's Lost Album on vinyl for the very first time. 10 tracks pressed on 180g clear Vinyl  |
 | Discogs URL    | [Menswear - ¡Hay Tiempo!](https://www.discogs.com/release/16153221-Menswear-Hay-Tiempo) |

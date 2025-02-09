@@ -40,13 +40,13 @@ Going for the One received a mostly positive response from music critics who wel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Going For The One | 5:30 |
-| A2 | Turn Of The Century | 7:58 |
-| A3 | Parallels | 5:52 |
-| B1 | Wonderous Stories | 3:45 |
-| B2 | Awaken | 15:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Going For The One |
+| A2 | Turn Of The Century |
+| A3 | Parallels |
+| B1 | Wonderous Stories |
+| B2 | Awaken |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Going for the One received a mostly positive response from music critics who wel
 | Format         | Vinyl LP Album Stereo (Specialty Records Pressing) |
 | Label          | Atlantic |
 | Catalog Number | SD 19106 |
-| Notes | Similar to [url=https://www.discogs.com/Yes-Going-For-The-One/release/7921043]this Specialty Records version[/url] by different lacquer cutting credits in runout. <br><br>Recorded at Mountain Studios, Montreux, Switzerland.<br>Track B2 recorded at Eglise des Planches, Montreux, Switzerland.<br>Church Organ recorded at St. Martin's Church, Vevey, Switzerland. <br><br>℗ 1977 Atlantic Recording Company and Star/Right Co.<br>All song published by Topographic Music ASCAP administered by WB Music Corp.<br>Mfg. by Atlantic Recording Corp.<br><br>Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.<br><br>Runouts are etched, except for the SRC logo which is stamped. |
+| Notes | Similar to [url=https://www.discogs.com/Yes-Going-For-The-One/release/7921043]this Specialty Records version[/url] by different lacquer cutting credits in runout.   Recorded at Mountain Studios, Montreux, Switzerland. Track B2 recorded at Eglise des Planches, Montreux, Switzerland. Church Organ recorded at St. Martin's Church, Vevey, Switzerland.   ℗ 1977 Atlantic Recording Company and Star/Right Co. All song published by Topographic Music ASCAP administered by WB Music Corp. Mfg. by Atlantic Recording Corp.  Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.  Runouts are etched, except for the SRC logo which is stamped. |
 | Discogs URL    | [Yes - Going For The One](https://www.discogs.com/release/476246-Yes-Going-For-The-One) |

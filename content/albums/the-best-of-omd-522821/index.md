@@ -31,22 +31,22 @@ The Best of OMD was named by The Quietus and Classic Pop as one of the best comp
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Electricity |  |
-| A2 | Messages |  |
-| A3 | Enola Gay |  |
-| A4 | Souvenir |  |
-| A5 | Joan Of Arc |  |
-| A6 | Maid Of Orleans |  |
-| A7 | Talking Loud And Clear |  |
-| B1 | Tesla Girls |  |
-| B2 | Locomotion |  |
-| B3 | So In Love |  |
-| B4 | Secret |  |
-| B5 | If You Leave |  |
-| B6 | Forever Live And Die |  |
-| B7 | Dreaming |  |
+| Position | Title |
+|----------|--------|
+| A1 | Electricity |
+| A2 | Messages |
+| A3 | Enola Gay |
+| A4 | Souvenir |
+| A5 | Joan Of Arc |
+| A6 | Maid Of Orleans |
+| A7 | Talking Loud And Clear |
+| B1 | Tesla Girls |
+| B2 | Locomotion |
+| B3 | So In Love |
+| B4 | Secret |
+| B5 | If You Leave |
+| B6 | Forever Live And Die |
+| B7 | Dreaming |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Best of OMD was named by The Quietus and Classic Pop as one of the best comp
 | Format         | Vinyl LP Album Compilation (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | OMD 1 |
-| Notes | Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.<br><br>DRG Malago branded generic paper inner sleeve dated "2/88" |
+| Notes | Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.  DRG Malago branded generic paper inner sleeve dated "2/88" |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - The Best Of OMD](https://www.discogs.com/release/522821-Orchestral-Manoeuvres-In-The-Dark-The-Best-Of-OMD) |

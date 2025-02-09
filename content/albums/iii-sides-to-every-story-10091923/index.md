@@ -35,26 +35,26 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Yours |  |
-| A1 | Warheads | 5:18 |
-| A2 | Rest In Peace | 6:02 |
-| A3 | Politicalamity | 5:04 |
-| A4 | Color Me Blind | 5:01 |
-| B1 | Cupid's Dead | 5:56 |
-| B2 | Peacemaker Die | 6:03 |
-|  | Mine |  |
-| B3 | Seven Sundays | 4:18 |
-| B4 | Tragic Comic | 4:45 |
-| C1 | Our Father | 4:02 |
-| C2 | Stop The World | 5:58 |
-| C3 | God Isn't Dead? | 2:02 |
-| C4 | Don't Leave Me Alone | 5:43 |
-|  | & The Truth |  |
-| D1 | Everything Under The Sun I: Rise 'N Shine | 6:23 |
-| D2 | Everything Under The Sun II: Am I Ever Gonna Change | 6:57 |
-| D3 | Everything Under The Sun III: Who Cares? | 8:19 |
+| Position | Title |
+|----------|--------|
+|  | Yours |
+| A1 | Warheads |
+| A2 | Rest In Peace |
+| A3 | Politicalamity |
+| A4 | Color Me Blind |
+| B1 | Cupid's Dead |
+| B2 | Peacemaker Die |
+|  | Mine |
+| B3 | Seven Sundays |
+| B4 | Tragic Comic |
+| C1 | Our Father |
+| C2 | Stop The World |
+| C3 | God Isn't Dead? |
+| C4 | Don't Leave Me Alone |
+|  | & The Truth |
+| D1 | Everything Under The Sun I: Rise 'N Shine |
+| D2 | Everything Under The Sun II: Am I Ever Gonna Change |
+| D3 | Everything Under The Sun III: Who Cares? |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Green, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1387 |
-| Notes | - 180 gram audiophile vinyl<br>- Includes insert with song lyrics<br>- 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl |
+| Notes | - 180 gram audiophile vinyl - Includes insert with song lyrics - 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl |
 | Discogs URL    | [Extreme - III Sides To Every Story](https://www.discogs.com/release/10091923-Extreme-2-III-Sides-To-Every-Story) |

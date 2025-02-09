@@ -45,17 +45,17 @@ The album was an immediate commercial and critical success, and came to be viewe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What's Going On | 3:51 |
-| A2 | What's Happening Brother | 2:57 |
-| A3 | Flyin' High (In The Friendly Sky) | 3:40 |
-| A4 | Save The Children | 3:04 |
-| A5 | God Is Love | 2:31 |
-| A6 | Mercy Mercy (The Ecology) | 3:05 |
-| B1 | Right On | 7:20 |
-| B2 | Wholy Holy | 3:20 |
-| B3 | Inner City Blues (Make Me Wanna Holler) | 5:16 |
+| Position | Title |
+|----------|--------|
+| A1 | What's Going On |
+| A2 | What's Happening Brother |
+| A3 | Flyin' High (In The Friendly Sky) |
+| A4 | Save The Children |
+| A5 | God Is Love |
+| A6 | Mercy Mercy (The Ecology) |
+| B1 | Right On |
+| B2 | Wholy Holy |
+| B3 | Inner City Blues (Make Me Wanna Holler) |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ The album was an immediate commercial and critical success, and came to be viewe
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Tamla Motown |
 | Catalog Number | 0731453002210 |
-| Notes | 180 gram vinyl remastered.<br>Includes a voucher to download MP3 version of the album.<br>Shrink wrapped copies featured red [l197898] sticker with [l138199] branding.<br>Copies sold in France featured red [l197898] sticker with [l181316] branding, covering aforementioned sticker.<br>Made in the EU. Copies exist with square white square sticker on back of sleeve (on shrink wrap) with black text "Disc Made In Germany".<br><br>℗ © 1991 [l266901]<br><br>Record labels: [l33859] branding<br>Sleeve (spine and back cover): [l1723] branding<br>Sleeve (front cover): [l6200] branding<br> |
+| Notes | 180 gram vinyl remastered. Includes a voucher to download MP3 version of the album. Shrink wrapped copies featured red [l197898] sticker with [l138199] branding. Copies sold in France featured red [l197898] sticker with [l181316] branding, covering aforementioned sticker. Made in the EU. Copies exist with square white square sticker on back of sleeve (on shrink wrap) with black text "Disc Made In Germany".  ℗ © 1991 [l266901]  Record labels: [l33859] branding Sleeve (spine and back cover): [l1723] branding Sleeve (front cover): [l6200] branding  |
 | Discogs URL    | [Marvin Gaye - What's Going On](https://www.discogs.com/release/1576940-Marvin-Gaye-Whats-Going-On) |

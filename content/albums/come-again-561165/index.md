@@ -29,24 +29,24 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coughing Contest | 2:37 |
-| A2 | Cancer | 0:29 |
-| A3 | Non-stop Dancer / My Mum Song | 5:37 |
-| A4 | Joan Crawford | 5:05 |
-| A5 | Norman The Carpet | 1:38 |
-| A6 | How's Your Mother | 4:40 |
-| A7 | Back Of The Cab | 6:23 |
-| A8 | Alfie Noakes | 3:01 |
-| A9 | Nurse | 0:48 |
-| B1 | In The Cubicles | 5:15 |
-| B2 | Ross McPharter | 3:42 |
-| B3 | Hello Colin | 0:16 |
-| B4 | Having A Wank | 11:57 |
-| B5 | I Saw This Bloke | 1:42 |
-| B6 | Parking Offence | 5:45 |
-| B7 | Members Only | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Coughing Contest |
+| A2 | Cancer |
+| A3 | Non-stop Dancer / My Mum Song |
+| A4 | Joan Crawford |
+| A5 | Norman The Carpet |
+| A6 | How's Your Mother |
+| A7 | Back Of The Cab |
+| A8 | Alfie Noakes |
+| A9 | Nurse |
+| B1 | In The Cubicles |
+| B2 | Ross McPharter |
+| B3 | Hello Colin |
+| B4 | Having A Wank |
+| B5 | I Saw This Bloke |
+| B6 | Parking Offence |
+| B7 | Members Only |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 | Format         | Vinyl LP Album Repress |
 | Label          | Virgin |
 | Catalog Number | V 2094 |
-| Notes | ℗ 1977 Virgin Records Ltd<br>© 1977 Aspera A.G.<br>Side One: Ay, Bee, See, You, En, Tee.<br>Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |
+| Notes | ℗ 1977 Virgin Records Ltd  © 1977 Aspera A.G.  Side One: Ay, Bee, See, You, En, Tee.  Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |
 | Discogs URL    | [Derek  Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |

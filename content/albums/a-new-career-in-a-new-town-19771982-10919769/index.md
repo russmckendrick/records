@@ -87,126 +87,126 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Low |  |
-| A1 | Speed Of Life |  |
-| A2 | Breaking Glass |  |
-| A3 | What In The World |  |
-| A4 | Sound And Vision |  |
-| A5 | Always Crashing In The Same Car |  |
-| A6 | Be My Wife |  |
-| A7 | A New Career In A New Town |  |
-| B1 | Warszawa |  |
-| B2 | Art Decade |  |
-| B3 | Weeping Wall |  |
-| B4 | Subterraneans |  |
-|  | Heroes |  |
-| C1 | Beauty And The Beast |  |
-| C2 | Joe The Lion |  |
-| C3 | “Heroes” |  |
-| C4 | Sons Of The Silent Age |  |
-| C5 | Blackout |  |
-| D1 | V-2 Schneider |  |
-| D2 | Sense Of Doubt |  |
-| D3 | Moss Garden |  |
-| D4 | Neuköln |  |
-| D5 | The Secret Life Of Arabia |  |
-|  | "Heroes" EP |  |
-| E1 | “Heroes” / ”Helden” (German Album Version) |  |
-| E2 | “Helden” (German Single Version) |  |
-| F1 | “Heroes” / ”Héros” (French Album Version) |  |
-| F2 | “Héros” (French Single Version) |  |
-|  | Stage (Original) |  |
-| G1 | Hang On To Yourself |  |
-| G2 | Ziggy Stardust |  |
-| G3 | Five Years |  |
-| G4 | Soul Love |  |
-| G5 | Star |  |
-| H1 | Station To Station |  |
-| H2 | Fame |  |
-| H3 | TVC 15 |  |
-| I1 | Warszawa |  |
-| I2 | Speed Of Life |  |
-| I3 | Art Decade |  |
-| I4 | Sense Of Doubt |  |
-| I5 | Breaking Glass |  |
-| J1 | “Heroes” |  |
-| J2 | What In The World |  |
-| J3 | Blackout |  |
-| J4 | Beauty And The Beast |  |
-|  | Stage (2017) |  |
-| K1 | Warszawa |  |
-| K2 | “Heroes” |  |
-| K3 | What In The World |  |
-| L1 | Be My Wife |  |
-| L2 | The Jean Genie |  |
-| L3 | Blackout |  |
-| L4 | Sense Of Doubt |  |
-| M1 | Speed Of Life |  |
-| M2 | Breaking Glass |  |
-| M3 | Beauty And The Beast |  |
-| M4 | Fame |  |
-| N1 | Five Years |  |
-| N2 | Soul Love |  |
-| N3 | Star |  |
-| N4 | Hang On To Yourself |  |
-| N5 | Ziggy Stardust |  |
-| N6 | Suffragette City |  |
-| O1 | Art Decade |  |
-| O2 | Alabama Song |  |
-| O3 | Station To Station |  |
-| P1 | Stay |  |
-| P2 | TVC 15 |  |
-|  | Lodger  |  |
-| Q1 | Fantastic Voyage |  |
-| Q2 | African Night Flight |  |
-| Q3 | Move On |  |
-| Q4 | Yassassin (Turkish For: Long Live) |  |
-| Q5 | Red Sails |  |
-| R1 | D.J. |  |
-| R2 | Look Back In Anger |  |
-| R3 | Boys Keep Swinging |  |
-| R4 | Repetition |  |
-| R5 | Red Money |  |
-|  | Lodger (2017 Tony Visconti Mix) |  |
-| S1 | Fantastic Voyage |  |
-| S2 | African Night Flight |  |
-| S3 | Move On |  |
-| S4 | Yassassin (Turkish For: Long Live) |  |
-| S5 | Red Sails |  |
-| T1 | D.J. |  |
-| T2 | Look Back In Anger |  |
-| T3 | Boys Keep Swinging |  |
-| T4 | Repetition |  |
-| T5 | Red Money |  |
-|  | Scary Monsters (And Super Creeps) |  |
-| U1 | It’s No Game (Part 1) |  |
-| U2 | Up The Hill Backwards |  |
-| U3 | Scary Monsters (And Super Creeps) |  |
-| U4 | Ashes To Ashes |  |
-| U5 | Fashion |  |
-| V1 | Teenage Wildlife |  |
-| V2 | Scream Like A Baby |  |
-| V3 | Kingdom Come |  |
-| V4 | Because You’re Young |  |
-| V5 | It’s No Game (Part 2) |  |
-|  | Re:Call 3 |  |
-| W1 | “Heroes” (Single Version) |  |
-| W2 | Beauty And The Beast (Extended Version) |  |
-| W3 | Breaking Glass (Australian Single Version) |  |
-| W4 | Yassassin (Single Version) |  |
-| W5 | D.J. (Single Version) |  |
-| X1 | Alabama Song |  |
-| X2 | Space Oddity (1979 Version) |  |
-| X3 | Ashes To Ashes (Single Version) |  |
-| X4 | Fashion (Single Version) |  |
-| X5 | Scary Monsters (And Super Creeps) (Single Version) |  |
-| Y1 | Crystal Japan |  |
-| Y2 | Under Pressure (Single Version) |  |
-| Y3 | Cat People (Putting Out Fire) |  |
-| Y4 | Peace On Earth / Little Drummer Boy (Mono) |  |
-|  | Bertolt Brecht’s Baal |  |
+| Position | Title |
+|----------|--------|
+|  | Low |
+| A1 | Speed Of Life |
+| A2 | Breaking Glass |
+| A3 | What In The World |
+| A4 | Sound And Vision |
+| A5 | Always Crashing In The Same Car |
+| A6 | Be My Wife |
+| A7 | A New Career In A New Town |
+| B1 | Warszawa |
+| B2 | Art Decade |
+| B3 | Weeping Wall |
+| B4 | Subterraneans |
+|  | Heroes |
+| C1 | Beauty And The Beast |
+| C2 | Joe The Lion |
+| C3 | “Heroes” |
+| C4 | Sons Of The Silent Age |
+| C5 | Blackout |
+| D1 | V-2 Schneider |
+| D2 | Sense Of Doubt |
+| D3 | Moss Garden |
+| D4 | Neuköln |
+| D5 | The Secret Life Of Arabia |
+|  | "Heroes" EP |
+| E1 | “Heroes” / ”Helden” (German Album Version) |
+| E2 | “Helden” (German Single Version) |
+| F1 | “Heroes” / ”Héros” (French Album Version) |
+| F2 | “Héros” (French Single Version) |
+|  | Stage (Original) |
+| G1 | Hang On To Yourself |
+| G2 | Ziggy Stardust |
+| G3 | Five Years |
+| G4 | Soul Love |
+| G5 | Star |
+| H1 | Station To Station |
+| H2 | Fame |
+| H3 | TVC 15 |
+| I1 | Warszawa |
+| I2 | Speed Of Life |
+| I3 | Art Decade |
+| I4 | Sense Of Doubt |
+| I5 | Breaking Glass |
+| J1 | “Heroes” |
+| J2 | What In The World |
+| J3 | Blackout |
+| J4 | Beauty And The Beast |
+|  | Stage (2017) |
+| K1 | Warszawa |
+| K2 | “Heroes” |
+| K3 | What In The World |
+| L1 | Be My Wife |
+| L2 | The Jean Genie |
+| L3 | Blackout |
+| L4 | Sense Of Doubt |
+| M1 | Speed Of Life |
+| M2 | Breaking Glass |
+| M3 | Beauty And The Beast |
+| M4 | Fame |
+| N1 | Five Years |
+| N2 | Soul Love |
+| N3 | Star |
+| N4 | Hang On To Yourself |
+| N5 | Ziggy Stardust |
+| N6 | Suffragette City |
+| O1 | Art Decade |
+| O2 | Alabama Song |
+| O3 | Station To Station |
+| P1 | Stay |
+| P2 | TVC 15 |
+|  | Lodger  |
+| Q1 | Fantastic Voyage |
+| Q2 | African Night Flight |
+| Q3 | Move On |
+| Q4 | Yassassin (Turkish For: Long Live) |
+| Q5 | Red Sails |
+| R1 | D.J. |
+| R2 | Look Back In Anger |
+| R3 | Boys Keep Swinging |
+| R4 | Repetition |
+| R5 | Red Money |
+|  | Lodger (2017 Tony Visconti Mix) |
+| S1 | Fantastic Voyage |
+| S2 | African Night Flight |
+| S3 | Move On |
+| S4 | Yassassin (Turkish For: Long Live) |
+| S5 | Red Sails |
+| T1 | D.J. |
+| T2 | Look Back In Anger |
+| T3 | Boys Keep Swinging |
+| T4 | Repetition |
+| T5 | Red Money |
+|  | Scary Monsters (And Super Creeps) |
+| U1 | It’s No Game (Part 1) |
+| U2 | Up The Hill Backwards |
+| U3 | Scary Monsters (And Super Creeps) |
+| U4 | Ashes To Ashes |
+| U5 | Fashion |
+| V1 | Teenage Wildlife |
+| V2 | Scream Like A Baby |
+| V3 | Kingdom Come |
+| V4 | Because You’re Young |
+| V5 | It’s No Game (Part 2) |
+|  | Re:Call 3 |
+| W1 | “Heroes” (Single Version) |
+| W2 | Beauty And The Beast (Extended Version) |
+| W3 | Breaking Glass (Australian Single Version) |
+| W4 | Yassassin (Single Version) |
+| W5 | D.J. (Single Version) |
+| X1 | Alabama Song |
+| X2 | Space Oddity (1979 Version) |
+| X3 | Ashes To Ashes (Single Version) |
+| X4 | Fashion (Single Version) |
+| X5 | Scary Monsters (And Super Creeps) (Single Version) |
+| Y1 | Crystal Japan |
+| Y2 | Under Pressure (Single Version) |
+| Y3 | Cat People (Putting Out Fire) |
+| Y4 | Peace On Earth / Little Drummer Boy (Mono) |
+|  | Bertolt Brecht’s Baal |
 
 
 ## Apple Music

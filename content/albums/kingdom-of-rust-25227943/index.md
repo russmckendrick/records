@@ -41,19 +41,19 @@ The album was born from a tumultuous time in Doves' history, and followed a four
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jetstream | 5:30 |
-| A2 | Kingdom Of Rust | 5:09 |
-| B1 | The Outsiders | 3:25 |
-| B2 | Winter Hill | 5:17 |
-| B3 | 10:03 | 4:03 |
-| C1 | The Greatest Denier | 3:55 |
-| C2 | Birds Flew Backwards | 2:50 |
-| C3 | Spellbound | 5:38 |
-| D1 | Compulsion | 5:12 |
-| D2 | House Of Mirrors | 4:14 |
-| D3 | Lifelines | 4:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Jetstream |
+| A2 | Kingdom Of Rust |
+| B1 | The Outsiders |
+| B2 | Winter Hill |
+| B3 | 10:03 |
+| C1 | The Greatest Denier |
+| C2 | Birds Flew Backwards |
+| C3 | Spellbound |
+| D1 | Compulsion |
+| D2 | House Of Mirrors |
+| D3 | Lifelines |
 
 
 ## Apple Music

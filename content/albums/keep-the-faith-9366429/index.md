@@ -33,20 +33,20 @@ It is a regular song at live shows by the band and is featured on the Live from 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Believe | 5:48 |
-| A2 | Keep The Faith | 5:45 |
-| A3 | I'll Sleep When I'm Dead | 4:44 |
-| B1 | In These Arms | 5:19 |
-| B2 | Bed Of Roses | 6:34 |
-| B3 | If I Was Your Mother | 4:27 |
-| C1 | Dry County | 9:52 |
-| C2 | Woman In Love | 3:48 |
-| C3 | Fear | 3:05 |
-| D1 | I Want You | 5:35 |
-| D2 | Blame It On The Love Of Rock & Roll | 4:23 |
-| D3 | Little Bit Of Soul | 5:47 |
+| Position | Title |
+|----------|--------|
+| A1 | I Believe |
+| A2 | Keep The Faith |
+| A3 | I'll Sleep When I'm Dead |
+| B1 | In These Arms |
+| B2 | Bed Of Roses |
+| B3 | If I Was Your Mother |
+| C1 | Dry County |
+| C2 | Woman In Love |
+| C3 | Fear |
+| D1 | I Want You |
+| D2 | Blame It On The Love Of Rock & Roll |
+| D3 | Little Bit Of Soul |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ It is a regular song at live shows by the band and is featured on the Live from 
 | Format         | Vinyl 2× LP Album (180 gram) |
 | Label          | Mercury |
 | Catalog Number | B0021970-01 |
-| Notes | 180 gram vinyl released in a gatefold sleeve.  <br><br> |
+| Notes | 180 gram vinyl released in a gatefold sleeve.     |
 | Discogs URL    | [Bon Jovi - Keep The Faith](https://www.discogs.com/release/9366429-Bon-Jovi-Keep-The-Faith) |

@@ -34,19 +34,19 @@ As of 2012, sales in the United States have exceeded 203,000 copies, according t
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Halfway Home | 5:32 |
-| A2 | Crying | 4:11 |
-| A3 | Dancing Choose | 2:56 |
-| B1 | Stork & Owl | 4:02 |
-| B2 | Golden Age | 4:12 |
-| B3 | Family Tree | 5:34 |
-| C1 | Red Dress | 4:25 |
-| C2 | Love Dog | 5:36 |
-| C3 | Shout Me Out | 4:16 |
-| D1 | DLZ | 3:49 |
-| D2 | Lover's Day | 5:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Halfway Home |
+| A2 | Crying |
+| A3 | Dancing Choose |
+| B1 | Stork & Owl |
+| B2 | Golden Age |
+| B3 | Family Tree |
+| C1 | Red Dress |
+| C2 | Love Dog |
+| C3 | Shout Me Out |
+| D1 | DLZ |
+| D2 | Lover's Day |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ As of 2012, sales in the United States have exceeded 203,000 copies, according t
 | Format         | Vinyl 2× LP Reissue (White, Gatefold, 180g) |
 | Label          | 4AD |
 | Catalog Number | CAD2821 |
-| Notes | "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink.<br>Gatefold sleeve.<br><br>℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.<br><br>Recorded at Stay Gold Studio, Brooklyn, NY 2008.<br>Mixed at Chalice Studios, Los Angeles, CA.<br><br>Track durations not listed on the release. |
+| Notes | "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release. |
 | Discogs URL    | [TV On The Radio - Dear Science](https://www.discogs.com/release/4688708-TV-On-The-Radio-Dear-Science) |

@@ -32,16 +32,16 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shout | 6:31 |
-| A2 | The Working Hour | 6:31 |
-| A3 | Everybody Wants To Rule The World | 4:10 |
-| A4 | Mothers Talk | 5:07 |
-| B1 | I Believe | 4:54 |
-| B2 | Broken | 2:38 |
-| B3 | Head Over Heels | 5:02 |
-| B4 | Listen | 6:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Shout |
+| A2 | The Working Hour |
+| A3 | Everybody Wants To Rule The World |
+| A4 | Mothers Talk |
+| B1 | I Believe |
+| B2 | Broken |
+| B3 | Head Over Heels |
+| B4 | Listen |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 3794995 |
-| Notes | Includes voucher to download MP3 version of the album.<br><br>℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited.<br>Made in EU. <br><br>All runouts are hand etched. Plating symbols are mirrored.  |
+| Notes | Includes voucher to download MP3 version of the album.  ℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited. Made in EU.   All runouts are hand etched. Plating symbols are mirrored.  |
 | Discogs URL    | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/6298468-Tears-For-Fears-Songs-From-The-Big-Chair) |

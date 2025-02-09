@@ -33,22 +33,22 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Skywaving | 1:58 |
-| A2 | Life In The Wires (Part 1) | 5:30 |
-| A3 | This House Of Winter | 6:11 |
-| A4 | The Solid State Orchestra | 6:35 |
-| B5 | Evaporator | 8:09 |
-| B6 | Strange World | 5:09 |
-| B7 | Idiot Box | 4:59 |
-| B8 | Absent Friends | 3:58 |
-| C9 | School (Introducing The All Seeing Eye) | 3:12 |
-| C10 | Propergander | 5:34 |
-| C11 | Sign Of Life | 5:43 |
-| C12 | Moral And Consequence | 8:13 |
-| D13 | Life In The Wires (Part 2) | 15:51 |
-| D14 | Starting Fires | 4:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Skywaving |
+| A2 | Life In The Wires (Part 1) |
+| A3 | This House Of Winter |
+| A4 | The Solid State Orchestra |
+| B5 | Evaporator |
+| B6 | Strange World |
+| B7 | Idiot Box |
+| B8 | Absent Friends |
+| C9 | School (Introducing The All Seeing Eye) |
+| C10 | Propergander |
+| C11 | Sign Of Life |
+| C12 | Moral And Consequence |
+| D13 | Life In The Wires (Part 2) |
+| D14 | Starting Fires |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Red [Transparent], 140g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM713 |
-| Notes | Gatefold cardboard jacket with plastic-lined black inner sleeves, inlay with lyrics, and two hype stickers (one black with white font and another triangle white with black font) on the shrinkwrap.<br>Some pre-orders came with a Jem Godfrey signed postcard.<br><br>Hype sticker text:<br>FROST*<br>Life In The Wires<br>Gatefold 140G 2LP<br>The New Concept Album - Over 80 Min. Of New Music.<br><br>Tracks positions given sequentially on release, regardless of vinyl sides.<br>All grooves etched.<br><br>℗ & © 2024 InsideOutMusic under exclusive licence from Frost*. |
+| Notes | Gatefold cardboard jacket with plastic-lined black inner sleeves, inlay with lyrics, and two hype stickers (one black with white font and another triangle white with black font) on the shrinkwrap. Some pre-orders came with a Jem Godfrey signed postcard.  Hype sticker text: FROST* Life In The Wires Gatefold 140G 2LP The New Concept Album - Over 80 Min. Of New Music.  Tracks positions given sequentially on release, regardless of vinyl sides. All grooves etched.  ℗ & © 2024 InsideOutMusic under exclusive licence from Frost*. |
 | Discogs URL    | [Frost - Life In The Wires](https://www.discogs.com/release/32056107-Frost-Life-In-The-Wires) |

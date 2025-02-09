@@ -31,29 +31,29 @@ For the expanded edition, Breezy dips further into his emotions for a posthumous
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Doors Of Your Heart | 3:48 |
-| A2 | All Out To Get You | 2:46 |
-| A3 | Monkey Murders | 3:12 |
-| A4 | I Am Your Flag | 2:56 |
-| A5 | French Toast (Soleil Trop Chaud) | 3:31 |
-| A6 | Drowning | 3:54 |
-| B1 | Dream Home In NZ | 3:12 |
-| B2 | Walk Away | 3:12 |
-| B3 | Over And Over | 2:41 |
-| B4 | Cheated | 3:30 |
-| B5 | Get-A-Job | 3:12 |
-| B6 | The Limits We Set | 4:16 |
-| C1 | Too Nice To Talk To |  |
-| C2 | Psychedelic Rockers |  |
-| C3 | Hit It |  |
-| C4 | Which Side Of The Bed? |  |
-| C5 | Drowning (Dub) |  |
-| D1 | Too Nice To Talk To (Dubweiser) |  |
-| D2 | Psychedelic Rockers (Dubweiser) |  |
-| D3 | Doors Of Your Heart (Extended) |  |
-| D4 | Hit It (Extended) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Doors Of Your Heart |
+| A2 | All Out To Get You |
+| A3 | Monkey Murders |
+| A4 | I Am Your Flag |
+| A5 | French Toast (Soleil Trop Chaud) |
+| A6 | Drowning |
+| B1 | Dream Home In NZ |
+| B2 | Walk Away |
+| B3 | Over And Over |
+| B4 | Cheated |
+| B5 | Get-A-Job |
+| B6 | The Limits We Set |
+| C1 | Too Nice To Talk To |
+| C2 | Psychedelic Rockers |
+| C3 | Hit It |
+| C4 | Which Side Of The Bed? |
+| C5 | Drowning (Dub) |
+| D1 | Too Nice To Talk To (Dubweiser) |
+| D2 | Psychedelic Rockers (Dubweiser) |
+| D3 | Doors Of Your Heart (Extended) |
+| D4 | Hit It (Extended) |
 
 
 ## Apple Music

@@ -39,25 +39,25 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Alone (Newly Recorded) |  |
-| A2 | Spanish Sea (Newly Recorded) |  |
-| A3 | I'll Supply The Love |  |
-| A4 | I'll Be Over You |  |
-| A5 | Stranger In Town |  |
-| B1 | 99 |  |
-| B2 | Struck By Lightning (Newly Recorded) |  |
-| B3 | Pamela |  |
-| B4 | Afraid Of Love |  |
-| C1 | I Won't Hold You Back |  |
-| C2 | Jake To The Bone |  |
-| C3 | Stop Loving You |  |
-| C4 | Lea |  |
-| D1 | Hold The Line |  |
-| D2 | Georgy Porgy |  |
-| D3 | Rosanna |  |
-| D4 | Africa |  |
+| Position | Title |
+|----------|--------|
+| A1 | Alone (Newly Recorded) |
+| A2 | Spanish Sea (Newly Recorded) |
+| A3 | I'll Supply The Love |
+| A4 | I'll Be Over You |
+| A5 | Stranger In Town |
+| B1 | 99 |
+| B2 | Struck By Lightning (Newly Recorded) |
+| B3 | Pamela |
+| B4 | Afraid Of Love |
+| C1 | I Won't Hold You Back |
+| C2 | Jake To The Bone |
+| C3 | Stop Loving You |
+| C4 | Lea |
+| D1 | Hold The Line |
+| D2 | Georgy Porgy |
+| D3 | Rosanna |
+| D4 | Africa |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075808661 |
-| Notes | Made in the EU.<br>This compilation ℗&© 2018 Sony Music Entertainment<br><br> ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records<br><br>Stickers, gatefold, celebrating their 40th anniversary. Three new songs: "Alone", "Spanish Sea" and "Struck By Lightning". |
+| Notes | Made in the EU. This compilation ℗&© 2018 Sony Music Entertainment   ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records  Stickers, gatefold, celebrating their 40th anniversary. Three new songs: "Alone", "Spanish Sea" and "Struck By Lightning". |
 | Discogs URL    | [Toto - 40 Trips Around The Sun](https://www.discogs.com/release/11540403-Toto-40-Trips-Around-The-Sun) |

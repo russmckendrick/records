@@ -28,22 +28,22 @@ Now for a Feast! is a compilation album by English rock band Pop Will Eat Itself
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Black Country Chainstore Massacreee |  |
-| A2 | Monogamy |  |
-| A3 | Oh Grebo I Think I Love You |  |
-| A4 | Titanic Clown |  |
-| A5 | B-B-B-Breakdown |  |
-| A6 | Sweet Sweet Pie |  |
-| A7 | Like An Angel |  |
-| B1 | I'm Sniffin With You Hoo |  |
-| B2 | Sick Little Girl |  |
-| B3 | Mesmerized |  |
-| B4 | There's A Psychopath In My Soup |  |
-| B5 | Candydiosis |  |
-| B6 | The Devil Inside |  |
-| B7 | Orgone Accumulator |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Black Country Chainstore Massacreee |
+| A2 | Monogamy |
+| A3 | Oh Grebo I Think I Love You |
+| A4 | Titanic Clown |
+| A5 | B-B-B-Breakdown |
+| A6 | Sweet Sweet Pie |
+| A7 | Like An Angel |
+| B1 | I'm Sniffin With You Hoo |
+| B2 | Sick Little Girl |
+| B3 | Mesmerized |
+| B4 | There's A Psychopath In My Soup |
+| B5 | Candydiosis |
+| B6 | The Devil Inside |
+| B7 | Orgone Accumulator |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Now for a Feast! is a compilation album by English rock band Pop Will Eat Itself
 | Format         | Vinyl LP Compilation |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 33 |
-| Notes | All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing<br>℗ Chapter 22 Records 1988<br>© Chapter 22 Records 1988<br>Made in England |
+| Notes | All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing ℗ Chapter 22 Records 1988 © Chapter 22 Records 1988 Made in England |
 | Discogs URL    | [Pop Will Eat Itself - Now For A Feast!](https://www.discogs.com/release/958446-Pop-Will-Eat-Itself-Now-For-A-Feast) |

@@ -48,19 +48,19 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burn The Witch |  |
-| A2 | Daydreaming |  |
-| B1 | Decks Dark |  |
-| B2 | Desert Island Disk |  |
-| B3 | Ful Stop |  |
-| C1 | Glass Eyes |  |
-| C2 | Identikit |  |
-| C3 | The Numbers |  |
-| D1 | Present Tense |  |
-| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief |  |
-| D3 | True Love Waits |  |
+| Position | Title |
+|----------|--------|
+| A1 | Burn The Witch |
+| A2 | Daydreaming |
+| B1 | Decks Dark |
+| B2 | Desert Island Disk |
+| B3 | Ful Stop |
+| C1 | Glass Eyes |
+| C2 | Identikit |
+| C3 | The Numbers |
+| D1 | Present Tense |
+| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief |
+| D3 | True Love Waits |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Optimal Media Pressing, White Opaque) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP790X |
-| Notes | Limited edition 2LP "opaque white" 180g vinyl exclusive for indie stores. Limited to 9000 copies.<br>Gatefold cover with printed inner sleeves and download card.<br>The inner sides of the sleeve housings are also printed with artwork..<br><br>On back cover:<br>Assistant engineer at La Fabrique Studio.<br>Mastered at Gateway Mastering<br>"Thanks to Hervé and Isobel and all at La Fabrique".<br>℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.<br>© 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.<br>Published by Warner/Chappell Music Ltd.<br>In memory of Vic Godrich 1936-2015.<br><br>The runouts are hand-etched. The Optimal stamper numbers are etched in mirrored orientation (3 to 5 chars building up an own group within the runout string).<br><br>Two separate pressings of AMSP on Opaque White exist based on matrix runouts.<br>One is by Optimal Media GmbH (this pressing) and the other is by Rainbo Records ([url=https://www.discogs.com/release/8666501]here[/url]).<br><br>"Variants 1, 4 & 5" of the Optimal Media pressing (see Barcodes and Other Identifiers) have a sticker with the correct barcode and catalog number XLLP790X stickered over the barcode of the [url=https://www.discogs.com/release/8581636]regular black vinyl issue[/url] outside the sealing foil, indicating that white vinyl copies of the Optimal Media pressing are actually packaged in covers made for the regular issue. The catalog number on the spine of the Optimal Media pressing is "XLLP790". Records are housed in thin paper printed inner sleeves.<br><br>The Rainbo pressing has the correct barcode printed on the back cover with 'XLLP790' printed below as the catalog number. Records are housed in thick cardboard printed inner sleeves. |
+| Notes | Limited edition 2LP "opaque white" 180g vinyl exclusive for indie stores. Limited to 9000 copies. Gatefold cover with printed inner sleeves and download card. The inner sides of the sleeve housings are also printed with artwork..  On back cover: Assistant engineer at La Fabrique Studio. Mastered at Gateway Mastering "Thanks to Hervé and Isobel and all at La Fabrique". ℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. Published by Warner/Chappell Music Ltd. In memory of Vic Godrich 1936-2015.  The runouts are hand-etched. The Optimal stamper numbers are etched in mirrored orientation (3 to 5 chars building up an own group within the runout string).  Two separate pressings of AMSP on Opaque White exist based on matrix runouts. One is by Optimal Media GmbH (this pressing) and the other is by Rainbo Records ([url=https://www.discogs.com/release/8666501]here[/url]).  "Variants 1, 4 & 5" of the Optimal Media pressing (see Barcodes and Other Identifiers) have a sticker with the correct barcode and catalog number XLLP790X stickered over the barcode of the [url=https://www.discogs.com/release/8581636]regular black vinyl issue[/url] outside the sealing foil, indicating that white vinyl copies of the Optimal Media pressing are actually packaged in covers made for the regular issue. The catalog number on the spine of the Optimal Media pressing is "XLLP790". Records are housed in thin paper printed inner sleeves.  The Rainbo pressing has the correct barcode printed on the back cover with 'XLLP790' printed below as the catalog number. Records are housed in thick cardboard printed inner sleeves. |
 | Discogs URL    | [Radiohead - A Moon Shaped Pool](https://www.discogs.com/release/8581634-Radiohead-A-Moon-Shaped-Pool) |

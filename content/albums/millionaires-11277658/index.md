@@ -32,20 +32,20 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crash | 3:58 |
-| A2 | Just Like Fred Astaire | 3:44 |
-| A3 | I Know What I'm Here For | 3:52 |
-| B1 | Shooting My Mouth Off | 3:24 |
-| B2 | We're Going To Miss You | 4:35 |
-| B3 | Strangers | 5:12 |
-| C1 | Hello | 4:37 |
-| C2 | Afro Lover | 4:02 |
-| C3 | Surprise | 5:04 |
-| D1 | Dumb Jam | 2:38 |
-| D2 | Someone's Got It In For Me | 4:08 |
-| D3 | Vervaceous | 5:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Crash |
+| A2 | Just Like Fred Astaire |
+| A3 | I Know What I'm Here For |
+| B1 | Shooting My Mouth Off |
+| B2 | We're Going To Miss You |
+| B3 | Strangers |
+| C1 | Hello |
+| C2 | Afro Lover |
+| C3 | Surprise |
+| D1 | Dumb Jam |
+| D2 | Someone's Got It In For Me |
+| D3 | Vervaceous |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Fontana |
 | Catalog Number | 5712914 |
-| Notes | Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.<br><br>The hype sticker reads:<br><br>James<br>Millionaires<br>Never before on Vinyl<br>'Millionaires' over 2 x 180G Heavyweight Vinyl LPs<br>Includes the single '[m=3524]'<br><br>[a42895] appears courtesy of Atlantic Recording Corporation.<br><br>Outer sleeve:<br>℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company.<br>Made in the E.U.<br><br>Inner sleeve:<br>℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company. |
+| Notes | Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.  The hype sticker reads:  James Millionaires Never before on Vinyl 'Millionaires' over 2 x 180G Heavyweight Vinyl LPs Includes the single '[m=3524]'  [a42895] appears courtesy of Atlantic Recording Corporation.  Outer sleeve: ℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company. Made in the E.U.  Inner sleeve: ℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company. |
 | Discogs URL    | [James - Millionaires](https://www.discogs.com/release/11277658-James-Millionaires) |

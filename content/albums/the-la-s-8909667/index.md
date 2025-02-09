@@ -36,20 +36,20 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Son Of A Gun |  |
-| A2 | I Can't Sleep |  |
-| A3 | Timeless Melody |  |
-| A4 | Liberty Ship |  |
-| A5 | There She Goes |  |
-| A6 | Doledrum |  |
-| B1 | Feelin' |  |
-| B2 | Way Out |  |
-| B3 | I.O.U. |  |
-| B4 | Freedom Song |  |
-| B5 | Failure |  |
-| B6 | Looking Glass |  |
+| Position | Title |
+|----------|--------|
+| A1 | Son Of A Gun |
+| A2 | I Can't Sleep |
+| A3 | Timeless Melody |
+| A4 | Liberty Ship |
+| A5 | There She Goes |
+| A6 | Doledrum |
+| B1 | Feelin' |
+| B2 | Way Out |
+| B3 | I.O.U. |
+| B4 | Freedom Song |
+| B5 | Failure |
+| B6 | Looking Glass |
 
 
 ## Apple Music

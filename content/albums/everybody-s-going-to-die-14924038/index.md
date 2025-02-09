@@ -33,18 +33,18 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Fantasy | 1:58 |
-| A2 | Don't You Believe In Magic? | 4:06 |
-| A3 | Everybody's Going To Die | 4:07 |
-| A4 | Do What You Want (With Love In Your Heart) | 3:22 |
-| A5 | Into The Skull | 3:00 |
-| B1 | Seven | 3:08 |
-| B2 | The Hunt | 5:40 |
-| B3 | The Great Black Hole | 2:59 |
-| B4 | Sorcery & Sabotage | 3:03 |
-| B5 | Living In A Bubble | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Fantasy |
+| A2 | Don't You Believe In Magic? |
+| A3 | Everybody's Going To Die |
+| A4 | Do What You Want (With Love In Your Heart) |
+| A5 | Into The Skull |
+| B1 | Seven |
+| B2 | The Hunt |
+| B3 | The Great Black Hole |
+| B4 | Sorcery & Sabotage |
+| B5 | Living In A Bubble |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Cosmic Rainbow Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 1 |
-| Notes | Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.<br><br>Comes with signed poster and certificate of authentication on name of customer<br>Serial number: 5 070000 12808 |
+| Notes | Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.  Comes with signed poster and certificate of authentication on name of customer Serial number: 5 070000 12808 |
 | Discogs URL    | [Church Of The Cosmic Skull - Everybody's Going To Die ](https://www.discogs.com/release/14924038-Church-Of-The-Cosmic-Skull-Everybodys-Going-To-Die-) |

@@ -34,27 +34,27 @@ Prior to Betty's release in June 1994, the album's biggest hit, "Milquetoast", a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wilma's Rainbow |  |
-| A2 | I Know |  |
-| A3 | Biscuits For Smut |  |
-| A4 | Milquetoast |  |
-| A5 | Tic |  |
-| A6 | Rollo |  |
-| A7 | Street Crab |  |
-| B1 | Clean |  |
-| B2 | Vaccination |  |
-| B3 | Beautiful Love |  |
-| B4 | Speechless |  |
-| B5 | The Silver Hawaiian |  |
-| B6 | Overrated |  |
-| B7 | Sam Hell |  |
-| C1 | Flushings |  |
-| C2 | Thick |  |
-| C3 | Pariah |  |
-| C4 | Biscuits For Smut - Mutt Mix |  |
-| C5 | Biscuits For Smut - Pooch Mix |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wilma's Rainbow |
+| A2 | I Know |
+| A3 | Biscuits For Smut |
+| A4 | Milquetoast |
+| A5 | Tic |
+| A6 | Rollo |
+| A7 | Street Crab |
+| B1 | Clean |
+| B2 | Vaccination |
+| B3 | Beautiful Love |
+| B4 | Speechless |
+| B5 | The Silver Hawaiian |
+| B6 | Overrated |
+| B7 | Sam Hell |
+| C1 | Flushings |
+| C2 | Thick |
+| C3 | Pariah |
+| C4 | Biscuits For Smut - Mutt Mix |
+| C5 | Biscuits For Smut - Pooch Mix |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Prior to Betty's release in June 1994, the album's biggest hit, "Milquetoast", a
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue Stereo (Baby Blue) |
 | Label          | Interscope Records |
 | Catalog Number | 00602468036647 |
-| Notes | Comes in a standard jacket. Includes printed inner sleeves with lyrics, bonus tracks on side C, and an etching on side D. This edition is 3500 copies.<br><br>On inner sleeve:<br>All songs © 1994 P. Hamilton (Warner-Tamerlane Publishing Corp./ Lemz Music/ Headlift Music, BMI) except*© 1994 by H Bogdan (Warner-Tamerlane Publishing Corp./ Lemz Music/ Goya Music. BMI) and P. Hamiltor and † © 1931/1959 by Young, King, Van Alstyne and Gillespie (Movie-tone Music Corporation/Sam Fox Publishing Co. Inc., ASCAP).<br><br>Back cover:<br>Interscope Records; ℗ 1994 © 1994 & 2024 Interscope Records. All rights reserved. Unauthorised copying, reproduction, hiring, lending, public performance, and broadcasting prohibited. Universal Music International B.V. 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the EU. BIEM/SDRM. LC06406. 00602468036647<br><br>Hype sticker:<br>2 LP Baby Blue Vinyl<br>LP1 original "Betty" album<br>LP2 etched vinyl with 5 bonus tracks<br>00602468036647<br><br>Made in Germany sticker in back cover.<br><br>Pressed by Optimal Media GmbH according to the Matrix runout however, Third Man Pressing logo is shown in the back cover. |
+| Notes | Comes in a standard jacket. Includes printed inner sleeves with lyrics, bonus tracks on side C, and an etching on side D. This edition is 3500 copies.  On inner sleeve: All songs © 1994 P. Hamilton (Warner-Tamerlane Publishing Corp./ Lemz Music/ Headlift Music, BMI) except*© 1994 by H Bogdan (Warner-Tamerlane Publishing Corp./ Lemz Music/ Goya Music. BMI) and P. Hamiltor and † © 1931/1959 by Young, King, Van Alstyne and Gillespie (Movie-tone Music Corporation/Sam Fox Publishing Co. Inc., ASCAP).  Back cover: Interscope Records; ℗ 1994 © 1994 & 2024 Interscope Records. All rights reserved. Unauthorised copying, reproduction, hiring, lending, public performance, and broadcasting prohibited. Universal Music International B.V. 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the EU. BIEM/SDRM. LC06406. 00602468036647  Hype sticker: 2 LP Baby Blue Vinyl LP1 original "Betty" album LP2 etched vinyl with 5 bonus tracks 00602468036647  Made in Germany sticker in back cover.  Pressed by Optimal Media GmbH according to the Matrix runout however, Third Man Pressing logo is shown in the back cover. |
 | Discogs URL    | [Helmet - Betty](https://www.discogs.com/release/32427519-Helmet-2-Betty) |

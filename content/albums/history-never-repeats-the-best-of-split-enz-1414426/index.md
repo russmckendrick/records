@@ -27,19 +27,19 @@ styles: ["New Wave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Got You | 3:29 |
-| A2 | Hard Act To Follow | 3:18 |
-| A3 | Six Months In A Leaky Boat | 4:26 |
-| A4 | What's The Matter With You | 3:06 |
-| A5 | One Step Ahead | 2:52 |
-| A6 | I See Red | 3:14 |
-| B1 | Message To My Girl | 3:59 |
-| B2 | History Never Repeats | 2:58 |
-| B3 | I Hope I Never | 4:32 |
-| B4 | Dirty Creature | 4:02 |
-| B5 | Poor Boy | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | I Got You |
+| A2 | Hard Act To Follow |
+| A3 | Six Months In A Leaky Boat |
+| A4 | What's The Matter With You |
+| A5 | One Step Ahead |
+| A6 | I See Red |
+| B1 | Message To My Girl |
+| B2 | History Never Repeats |
+| B3 | I Hope I Never |
+| B4 | Dirty Creature |
+| B5 | Poor Boy |
 
 
 ## Apple Music

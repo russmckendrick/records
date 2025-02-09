@@ -39,17 +39,17 @@ Although Roxy Music is an obvious influence—and the atmospheric art-school of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rio | 5:39 |
-| A2 | My Own Way | 4:51 |
-| A3 | Lonely In Your Nightmare | 3:52 |
-| A4 | Hungry Like The Wolf | 3:40 |
-| A5 | Hold Back The Rain | 3:59 |
-| B1 | New Religion | 5:31 |
-| B2 | Last Chance On The Stairway | 4:18 |
-| B3 | Save A Prayer | 5:33 |
-| B4 | The Chauffeur | 5:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Rio |
+| A2 | My Own Way |
+| A3 | Lonely In Your Nightmare |
+| A4 | Hungry Like The Wolf |
+| A5 | Hold Back The Rain |
+| B1 | New Religion |
+| B2 | Last Chance On The Stairway |
+| B3 | Save A Prayer |
+| B4 | The Chauffeur |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Although Roxy Music is an obvious influence—and the atmospheric art-school of 
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3411 |
-| Notes | Original UK pressing in a textured outer sleeve with a glossy die cut inner picture/lyric sleeve and rounded corners.<br><br>[Back cover]<br>℗ 1982 Original sound recording made by Tritec Music Limited<br>... country of manufacture of record as stated on record labels SP 8205 GL<br><br>[Record labels] <br>All songs composed and arranged by Duran Duran<br>All songs published by Tritec/Peterman/Carlin <br>℗ 1982 Original sound recordings made by Tritec Music Limited.<br>Manufactured in the UK by EMI Records Ltd.<br><br>[Inner sleeve credits side]<br>All songs written and arranged by Duran Duran<br>℗ 1982 Tritec Music Limiited<br>© 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music<br>Recorded Air, (London) Spring 1982.<br><br>Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"<br><br>[Inner sleeve lyrics side]<br>EMI Records EMC 3411 (1)<br>(top right of inner sleeve lyric side)<br><br>Runouts are stamped but NICKZ which is etched. |
+| Notes | Original UK pressing in a textured outer sleeve with a glossy die cut inner picture/lyric sleeve and rounded corners.  [Back cover] ℗ 1982 Original sound recording made by Tritec Music Limited ... country of manufacture of record as stated on record labels SP 8205 GL  [Record labels]  All songs composed and arranged by Duran Duran All songs published by Tritec/Peterman/Carlin  ℗ 1982 Original sound recordings made by Tritec Music Limited. Manufactured in the UK by EMI Records Ltd.  [Inner sleeve credits side] All songs written and arranged by Duran Duran ℗ 1982 Tritec Music Limiited © 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music Recorded Air, (London) Spring 1982.  Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"  [Inner sleeve lyrics side] EMI Records EMC 3411 (1) (top right of inner sleeve lyric side)  Runouts are stamped but NICKZ which is etched. |
 | Discogs URL    | [Duran Duran - Rio](https://www.discogs.com/release/140843-Duran-Duran-Rio) |

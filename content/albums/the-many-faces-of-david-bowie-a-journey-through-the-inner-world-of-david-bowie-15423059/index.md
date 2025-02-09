@@ -31,32 +31,32 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Many Faces of David Bowie |  |
-| A1 | You've Been Around |  |
-| A2 | All The Young Dudes |  |
-| A3 | Andy Warhol |  |
-| A4 | Growing Up And I'm Fine |  |
-| A5 | Funtime |  |
-|  | The Spiders From Mars |  |
-| B1 | Ziggy Stardust |  |
-| B2 | Pleasure Man / Hey Ma Get Papa |  |
-| B3 | I Am Divine |  |
-| B4 | I Just Want To Have Something To Do |  |
-| B5 | All The Way From Memphis |  |
-|  | The Man Who Fell To Earth |  |
-| C1 | The King Of Stamford Hill |  |
-| C2 | Moonage Daydream |  |
-| C3 | Lonely House |  |
-| C4 | Sister Midnight |  |
-| C5 | I Am A Laser |  |
-|  | Treasures & Songs |  |
-| D1 | I'm A Man |  |
-| D2 | Waiting For The Man |  |
-| D3 | Sorrow |  |
-| D4 | Around And Around |  |
-| D5 | La Mort (My Death) |  |
+| Position | Title |
+|----------|--------|
+|  | The Many Faces of David Bowie |
+| A1 | You've Been Around |
+| A2 | All The Young Dudes |
+| A3 | Andy Warhol |
+| A4 | Growing Up And I'm Fine |
+| A5 | Funtime |
+|  | The Spiders From Mars |
+| B1 | Ziggy Stardust |
+| B2 | Pleasure Man / Hey Ma Get Papa |
+| B3 | I Am Divine |
+| B4 | I Just Want To Have Something To Do |
+| B5 | All The Way From Memphis |
+|  | The Man Who Fell To Earth |
+| C1 | The King Of Stamford Hill |
+| C2 | Moonage Daydream |
+| C3 | Lonely House |
+| C4 | Sister Midnight |
+| C5 | I Am A Laser |
+|  | Treasures & Songs |
+| D1 | I'm A Man |
+| D2 | Waiting For The Man |
+| D3 | Sorrow |
+| D4 | Around And Around |
+| D5 | La Mort (My Death) |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 | Format         | Vinyl LP Compilation (Red), Vinyl LP Compilation (Blue), All Media Limited Edition Reissue (Gatefold) |
 | Label          | Music Brokers |
 | Catalog Number | VYN048 |
-| Notes | Hype sticker reads:<br>Double LP<br>Gatefold<br>180 GR<br>Color Vinyl<br>Limited Edition<br><br>Manufactured in France<br>(p) 2020 Music Brokers<br><br>Runout VYN 048 A/B/C/D etched other stamped |
+| Notes | Hype sticker reads: Double LP Gatefold 180 GR Color Vinyl Limited Edition  Manufactured in France (p) 2020 Music Brokers  Runout VYN 048 A/B/C/D etched other stamped |
 | Discogs URL    | [Various - The Many Faces Of David Bowie - A Journey Through The Inner World Of David Bowie](https://www.discogs.com/release/15423059-Various-The-Many-Faces-Of-David-Bowie-A-Journey-Through-The-Inner-World-Of-David-Bowie) |

@@ -34,20 +34,20 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Use Your Loaf |  |
-| A2 | Surplus And Scarcity |  |
-| A3 | What A Carry On |  |
-| A4 | Let’s Think About Living |  |
-| A5 | Black Country |  |
-| A6 | Ghost |  |
-| B1 | Born Again In Birmingham |  |
-| B2 | Overreactor |  |
-| B3 | Thick And Thin (Glam Version) |  |
-| B4 | Chaff |  |
-| B5 | The Desperate Quartet |  |
-| B6 | Gales Doc |  |
+| Position | Title |
+|----------|--------|
+| A1 | Use Your Loaf |
+| A2 | Surplus And Scarcity |
+| A3 | What A Carry On |
+| A4 | Let’s Think About Living |
+| A5 | Black Country |
+| A6 | Ghost |
+| B1 | Born Again In Birmingham |
+| B2 | Overreactor |
+| B3 | Thick And Thin (Glam Version) |
+| B4 | Chaff |
+| B5 | The Desperate Quartet |
+| B6 | Gales Doc |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Fire Records |
 | Catalog Number | KROCK001LP |
-| Notes | Comes in a plain black paper inner sleeve<br>Sleeve notes by Stewart Lee<br>Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham<br>Also contains download card |
+| Notes | Comes in a plain black paper inner sleeve Sleeve notes by Stewart Lee Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham Also contains download card |
 | Discogs URL    | [The Nightingales - King Rocker (The Original Soundtrack)](https://www.discogs.com/release/21188260-The-Nightingales-King-Rocker-The-Original-Soundtrack) |

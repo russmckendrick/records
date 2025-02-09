@@ -35,19 +35,19 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | So Low, So High |  |
-| A2 | You Don't Know Her Name |  |
-| A3 | Elouise |  |
-| A4 | It Will Find You |  |
-| B1 | Glory Verse |  |
-| B2 | Liquid Sugar |  |
-| B3 | To The Sky |  |
-| B4 | Back + Forth |  |
-| C1 | Lost My Soul |  |
-| C2 | Don't Fear |  |
-| C3 | When You Leave |  |
+| Position | Title |
+|----------|--------|
+| A1 | So Low, So High |
+| A2 | You Don't Know Her Name |
+| A3 | Elouise |
+| A4 | It Will Find You |
+| B1 | Glory Verse |
+| B2 | Liquid Sugar |
+| B3 | To The Sky |
+| B4 | Back + Forth |
+| C1 | Lost My Soul |
+| C2 | Don't Fear |
+| C3 | When You Leave |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue (Green Glass) |
 | Label          | Mute |
 | Catalog Number | lstumm281 |
-| Notes | Limited to 1000 copies. <br>Classified as both a reissue and repress on the Mute Bank website. <br>General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.<br><br>Circular hype sticker on the cellophane reads:<br>1st time on 12" vinyl<br>limited edition<br>seventies style<br>green glass coloured vinyl<br>double album<br>d side etching<br>+ digital copy<br><br>(p)2019 (c)2007 mute records limited<br>printed in the eu |
+| Notes | Limited to 1000 copies.  Classified as both a reissue and repress on the Mute Bank website.  General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.  Circular hype sticker on the cellophane reads: 1st time on 12" vinyl limited edition seventies style green glass coloured vinyl double album d side etching + digital copy  (p)2019 (c)2007 mute records limited printed in the eu |
 | Discogs URL    | [Maps - We Can Create](https://www.discogs.com/release/13836579-Maps-We-Can-Create) |

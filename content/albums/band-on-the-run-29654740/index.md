@@ -38,18 +38,18 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Band On The Run | 5:11 |
-| A2 | Jet | 4:08 |
-| A3 | Bluebird | 3:22 |
-| A4 | Mrs. Vandebilt | 4:39 |
-| A5 | Let Me Roll It | 4:49 |
-| B1 | Mamunia | 4:51 |
-| B2 | No Words | 2:35 |
-| B3 | Helen Wheels | 3:45 |
-| B4 | Picasso's Last Words (Drink To Me) | 5:49 |
-| B5 | Nineteen Hundred And Eighty Five | 5:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Band On The Run |
+| A2 | Jet |
+| A3 | Bluebird |
+| A4 | Mrs. Vandebilt |
+| A5 | Let Me Roll It |
+| B1 | Mamunia |
+| B2 | No Words |
+| B3 | Helen Wheels |
+| B4 | Picasso's Last Words (Drink To Me) |
+| B5 | Nineteen Hundred And Eighty Five |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 | Format         | Vinyl LP Album Reissue Remastered Stereo (50th Anniversary, Half-Speed Mastering) |
 | Label          | MPL (2) |
 | Catalog Number | 00602455435620 |
-| Notes | 50th Anniversary Edition<br>Half-Speed mastered at Abbey Road Studios<br>"Cut by Miles Showell...19 February 2023."<br><br>North American track list including 'Helen Wheels' as track B3<br><br>Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side. <br><br>Made in Germany.<br><br> |
+| Notes | 50th Anniversary Edition Half-Speed mastered at Abbey Road Studios "Cut by Miles Showell...19 February 2023."  North American track list including 'Helen Wheels' as track B3  Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.   Made in Germany.   |
 | Discogs URL    | [Wings - Band On The Run](https://www.discogs.com/release/29654740-Paul-McCartney-And-Wings-Band-On-The-Run) |

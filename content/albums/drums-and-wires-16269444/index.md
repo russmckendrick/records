@@ -39,23 +39,23 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Making Plans For Nigel  |  |
-| A2 | Helicopter |  |
-| A3 | Day In Day Out |  |
-| A4 | When You're Near Me I Have Difficulty  |  |
-| A5 | Ten Feet Tall |  |
-| A6 | Roads Girdle The Globe |  |
-| B1 | Real By Reel  |  |
-| B2 | Millions |  |
-| B3 | That Is The Way |  |
-| B4 | Outside World |  |
-| B5 | Scissor Man |  |
-| B6 | Complicated Game  |  |
-|  | Limited Edition Bonus 7" |  |
-| C | Chain Of Command  |  |
-| D | Limelight |  |
+| Position | Title |
+|----------|--------|
+| A1 | Making Plans For Nigel  |
+| A2 | Helicopter |
+| A3 | Day In Day Out |
+| A4 | When You're Near Me I Have Difficulty  |
+| A5 | Ten Feet Tall |
+| A6 | Roads Girdle The Globe |
+| B1 | Real By Reel  |
+| B2 | Millions |
+| B3 | That Is The Way |
+| B4 | Outside World |
+| B5 | Scissor Man |
+| B6 | Complicated Game  |
+|  | Limited Edition Bonus 7" |
+| C | Chain Of Command  |
+| D | Limelight |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 | Format         | Vinyl LP Album (200g), Vinyl 7" 45 RPM Single Limited Edition, All Media Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP103 |
-| Notes | Hype Sticker on Front of Shrink Wrap Reads: <br>XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge. <br>Pressed on 200G Super-Heavyweight Vinyl<br>LIMITED EDITION BONUS 7"<br>LIMELIGHT / CHAIN OF COMMAND<br><br>Includes bonus 7" replicating original U.K. release, [r=585255] <br><br>Tracks not numbered on rear of sleeve - tracks listed under side one and side two <br> |
+| Notes | Hype Sticker on Front of Shrink Wrap Reads:  XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge.  Pressed on 200G Super-Heavyweight Vinyl LIMITED EDITION BONUS 7" LIMELIGHT / CHAIN OF COMMAND  Includes bonus 7" replicating original U.K. release, [r=585255]   Tracks not numbered on rear of sleeve - tracks listed under side one and side two   |
 | Discogs URL    | [XTC - Drums And Wires](https://www.discogs.com/release/16269444-XTC-Drums-And-Wires) |

@@ -25,26 +25,26 @@ styles: ["Experimental", "Synthwave"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Martin On Synths, Keyboards Etc - Track A | 3:41 |
-| A2 | Homage To Delia Derbyshire, Pt. 2 | 2:38 |
-| A3 | Homage To Delia Derbyshire, Pt, 3 | 2:02 |
-| A4 | Martin Plays Bass | 3:26 |
-| A5 | Homage To Delia Derbyshire, Pt. 5 | 3:17 |
-| A6 | Homage To Delia Derbyshire, Pt. 6 | 1:23 |
-| A7 | Martin On Synths, Keyboards Etc - Track C | 4:40 |
-| A8 | Homage To Delia Derbyshire, Pt. 8 | 2:22 |
-| B1 | Martin On Syndrums | 10:31 |
-| B2 | Homage To Delia Derbyshire, Pt. 10 | 1:26 |
-| B3 | Homage To Delia Derbyshire, Pt. 11 | 3:03 |
-| B4 | Homage To Delia Derbyshire, Pt. 12 | 2:54 |
-| B5 | Homage To Delia Derbyshire, Pt. 13 | 3:48 |
-| B6 | Homage To Delia Derbyshire, Pt. 14 | 2:27 |
-| B7 | Homage To Delia Derbyshire, Pt. 15 | 1:04 |
-| B8 | Martin On Synths, Metronome Etc | 4:04 |
-| B9 | Homage To Delia Derbyshire, Pt. 17 | 2:07 |
-| B10 | Homage To Delia Derbyshire, Pt. 18 | 2:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Martin On Synths, Keyboards Etc - Track A |
+| A2 | Homage To Delia Derbyshire, Pt. 2 |
+| A3 | Homage To Delia Derbyshire, Pt, 3 |
+| A4 | Martin Plays Bass |
+| A5 | Homage To Delia Derbyshire, Pt. 5 |
+| A6 | Homage To Delia Derbyshire, Pt. 6 |
+| A7 | Martin On Synths, Keyboards Etc - Track C |
+| A8 | Homage To Delia Derbyshire, Pt. 8 |
+| B1 | Martin On Syndrums |
+| B2 | Homage To Delia Derbyshire, Pt. 10 |
+| B3 | Homage To Delia Derbyshire, Pt. 11 |
+| B4 | Homage To Delia Derbyshire, Pt. 12 |
+| B5 | Homage To Delia Derbyshire, Pt. 13 |
+| B6 | Homage To Delia Derbyshire, Pt. 14 |
+| B7 | Homage To Delia Derbyshire, Pt. 15 |
+| B8 | Martin On Synths, Metronome Etc |
+| B9 | Homage To Delia Derbyshire, Pt. 17 |
+| B10 | Homage To Delia Derbyshire, Pt. 18 |
 
 
 ## Apple Music

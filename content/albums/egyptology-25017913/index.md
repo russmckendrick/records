@@ -44,28 +44,28 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | It Is Time | 3:20 |
-| A2 | Beautiful Dream | 4:43 |
-| A3 | Call Me Up | 2:56 |
-| A4 | Vanity Fair | 3:32 |
-| A5 | She's The One | 4:55 |
-| B1 | (Vocal Interlude) | 0:24 |
-| B2 | Curse Of The Mummy's Tomb | 5:56 |
-| B3 | Hercules | 3:13 |
-| B4 | Love Is Best | 3:03 |
-| B5 | Rolling Off A Log | 5:55 |
-| C1 | Strange Groove | 4:08 |
-| C2 | The Whole Of The Night | 4:22 |
-| C3 | Piece Of Mind | 4:56 |
-| C4 | This World | 4:18 |
-| C5 | Always | 4:18 |
-| D1 | It Is Time (Live) | 4:01 |
-| D2 | Beautiful Dream (Live) | 4:00 |
-| D3 | Rolling Off A Log (Live) | 6:01 |
-| D4 | Hercules (Live) | 4:58 |
-| D5 | Vanity Fair (Live) | 3:26 |
+| Position | Title |
+|----------|--------|
+| A1 | It Is Time |
+| A2 | Beautiful Dream |
+| A3 | Call Me Up |
+| A4 | Vanity Fair |
+| A5 | She's The One |
+| B1 | (Vocal Interlude) |
+| B2 | Curse Of The Mummy's Tomb |
+| B3 | Hercules |
+| B4 | Love Is Best |
+| B5 | Rolling Off A Log |
+| C1 | Strange Groove |
+| C2 | The Whole Of The Night |
+| C3 | Piece Of Mind |
+| C4 | This World |
+| C5 | Always |
+| D1 | It Is Time (Live) |
+| D2 | Beautiful Dream (Live) |
+| D3 | Rolling Off A Log (Live) |
+| D4 | Hercules (Live) |
+| D5 | Vanity Fair (Live) |
 
 
 ## Apple Music
@@ -83,5 +83,5 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 4VC |
-| Notes | Side D recorded live in New York City, 1997<br><br>Released in a gatefold sleeve with 2 lyric inners<br><br>Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])<br><br>Made in Czech Republic<br><br>Mixed in a bucket with a big stick.<br><br>Recorded at Seaview Studios, London, England, between 1993 and 1997.<br><br>Runouts etched except GZ Media numbers and Ⓜ are stamped. |
+| Notes | Side D recorded live in New York City, 1997  Released in a gatefold sleeve with 2 lyric inners  Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])  Made in Czech Republic  Mixed in a bucket with a big stick.  Recorded at Seaview Studios, London, England, between 1993 and 1997.  Runouts etched except GZ Media numbers and Ⓜ are stamped. |
 | Discogs URL    | [World Party - Egyptology](https://www.discogs.com/release/25017913-World-Party-Egyptology) |

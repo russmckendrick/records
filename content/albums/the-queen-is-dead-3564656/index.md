@@ -38,18 +38,18 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Queen Is Dead (Take Me Back To Dear Old Blighty) (Medley) | 6:23 |
-| A2 | Frankly, Mr. Shankly | 2:17 |
-| A3 | I Know It's Over | 5:48 |
-| A4 | Never Had No One Ever | 3:36 |
-| A5 | Cemetry Gates | 2:39 |
-| B1 | Bigmouth Strikes Again | 3:12 |
-| B2 | The Boy With The Thorn In His Side | 3:15 |
-| B3 | Vicar In A Tutu | 2:21 |
-| B4 | There Is A Light That Never Goes Out | 4:02 |
-| B5 | Some Girls Are Bigger Than Others | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | The Queen Is Dead (Take Me Back To Dear Old Blighty) (Medley) |
+| A2 | Frankly, Mr. Shankly |
+| A3 | I Know It's Over |
+| A4 | Never Had No One Ever |
+| A5 | Cemetry Gates |
+| B1 | Bigmouth Strikes Again |
+| B2 | The Boy With The Thorn In His Side |
+| B3 | Vicar In A Tutu |
+| B4 | There Is A Light That Never Goes Out |
+| B5 | Some Girls Are Bigger Than Others |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold, 180 Gram) |
 | Label          | Warner Music UK Ltd. |
 | Catalog Number | 2564665887 |
-| Notes | Comes in a single pocket, unlaminated gatefold sleeve with a replica of the original inner sleeve. This replica inner sleeve is of matte paper whereas in the original copies, they were gloss card.<br>There may be a 'Made in Germany' sticker on the back cover.<br>Some copies have a circular pink sticker on the shrink-wrap.<br><br>[Gatefold inside]<br>Warner Bros UK Ltd.<br><br>[Inner sleeve]<br>recorded in England, Winter 1985<br>Cicely Courtneidge recording courtesy of Thorn EMI Elstree Studios Ltd<br>Cover star Alain Delon photos © 1965 Metro-Goldwyn-Mayer Inc<br>"take me back to dear old Blighty"<br><br>[Labels]<br>℗ & © 1986 Warner Music UK Ltd.<br>Made in the E.U.<br><br>[Runouts]<br>'✺' appears to be an error, possible '0', that has been scratched over.<br>Variant 10: '31T' is inverted and '21T' is mirrored. |
+| Notes | Comes in a single pocket, unlaminated gatefold sleeve with a replica of the original inner sleeve. This replica inner sleeve is of matte paper whereas in the original copies, they were gloss card. There may be a 'Made in Germany' sticker on the back cover. Some copies have a circular pink sticker on the shrink-wrap.  [Gatefold inside] Warner Bros UK Ltd.  [Inner sleeve] recorded in England, Winter 1985 Cicely Courtneidge recording courtesy of Thorn EMI Elstree Studios Ltd Cover star Alain Delon photos © 1965 Metro-Goldwyn-Mayer Inc "take me back to dear old Blighty"  [Labels] ℗ & © 1986 Warner Music UK Ltd. Made in the E.U.  [Runouts] '✺' appears to be an error, possible '0', that has been scratched over. Variant 10: '31T' is inverted and '21T' is mirrored. |
 | Discogs URL    | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/3564656-The-Smiths-The-Queen-Is-Dead) |

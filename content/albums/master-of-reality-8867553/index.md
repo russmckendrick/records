@@ -36,16 +36,16 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sweet Leaf | 5:06 |
-| A2 | After Forever (Including The Elegy) | 5:27 |
-| A3 | Embryo | 0:28 |
-| A4 | Children Of The Grave | 5:16 |
-| B1 | Orchid | 1:31 |
-| B2 | Lord Of This World | 5:26 |
-| B3 | Solitude | 5:02 |
-| B4 | Into The Void | 6:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Sweet Leaf |
+| A2 | After Forever (Including The Elegy) |
+| A3 | Embryo |
+| A4 | Children Of The Grave |
+| B1 | Orchid |
+| B2 | Lord Of This World |
+| B3 | Solitude |
+| B4 | Into The Void |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green, 180g, Gatefold) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2562 |
-| Notes | Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971<br><br>2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour<br>Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds<br>Reissue Design:  Gilmour Design<br><br>Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward<br><br>Lyrics printed on back cover of album<br>Warner logo, "Stereo" and "2562" printed on front cover in upper left corner<br>Also includes extra black inner sleeve with bio of band and album on both sides<br><br>Front sticker:<br>Black Sabbath <br>LIMITED EDITION <br>180 GRAMS GREEN VINYL <br>2012 REMASTERED AUDIO <br>FEATURES THE CLASSICS:<br>"INTO THE VOID"<br>& "CHILDREN OF THE GRAVE"<br>RRI 2562<br> |
+| Notes | Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971  2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds Reissue Design:  Gilmour Design  Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward  Lyrics printed on back cover of album Warner logo, "Stereo" and "2562" printed on front cover in upper left corner Also includes extra black inner sleeve with bio of band and album on both sides  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS GREEN VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "INTO THE VOID" & "CHILDREN OF THE GRAVE" RRI 2562  |
 | Discogs URL    | [Black Sabbath - Master Of Reality](https://www.discogs.com/release/8867553-Black-Sabbath-Master-Of-Reality) |

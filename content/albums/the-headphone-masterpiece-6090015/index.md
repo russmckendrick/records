@@ -26,44 +26,44 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magic In A Mortal Minute | 0:38 |
-| A2 | With Me In Mind | 3:51 |
-| A3 | Upstarts In A Blow Out | 3:04 |
-| A4 | Boylife In America | 2:21 |
-| A5 | Bitch. I'm Broke | 1:59 |
-| A6 | Serve This Royalty | 5:42 |
-| B1 | The Seed | 3:24 |
-| B2 | Enough Of Nothing | 0:58 |
-| B3 | Setting The System | 0:46 |
-| B4 | The Most Beautiful Shame | 0:49 |
-| B5 | Smoke And Love | 3:38 |
-| B6 | Michelle | 3:08 |
-| B7 | No One Will | 2:59 |
-| C1 | Batman Vs. Blackman | 1:02 |
-| C2 | Up In The Treehouse | 2:08 |
-| C3 | Can't Get No Betta' | 3:32 |
-| C4 | She's Still Here | 2:15 |
-| C5 | Can We Teach Each Other | 4:02 |
-| C6 | The World Is Coming To My Party | 4:26 |
-| D1 | Brother With An Ego | 0:13 |
-| D2 | War Between The Sexes | 1:36 |
-| D3 | The Make Up | 2:31 |
-| D4 | Out Of Nowhere | 1:45 |
-| D5 | Family On Blast | 3:55 |
-| D6 | My Woman. My Guitars | 3:15 |
-| E1 | Somebody's Parent | 1:46 |
-| E2 | When I Find Time | 4:03 |
-| E3 | Eric Burdon | 2:41 |
-| E4 | Juicin' The Dark | 4:56 |
-| E5 | 5 On A Joyride | 3:32 |
-| F1 | Daylight | 0:49 |
-| F2 | So Much Beauty In The Subconscious | 2:03 |
-| F3 | Daddy's Baby | 2:37 |
-| F4 | If We Don't Disagree | 3:23 |
-| F5 | Look Good In Leather | 3:55 |
-| F6 | 6 Seconds | 4:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Magic In A Mortal Minute |
+| A2 | With Me In Mind |
+| A3 | Upstarts In A Blow Out |
+| A4 | Boylife In America |
+| A5 | Bitch. I'm Broke |
+| A6 | Serve This Royalty |
+| B1 | The Seed |
+| B2 | Enough Of Nothing |
+| B3 | Setting The System |
+| B4 | The Most Beautiful Shame |
+| B5 | Smoke And Love |
+| B6 | Michelle |
+| B7 | No One Will |
+| C1 | Batman Vs. Blackman |
+| C2 | Up In The Treehouse |
+| C3 | Can't Get No Betta' |
+| C4 | She's Still Here |
+| C5 | Can We Teach Each Other |
+| C6 | The World Is Coming To My Party |
+| D1 | Brother With An Ego |
+| D2 | War Between The Sexes |
+| D3 | The Make Up |
+| D4 | Out Of Nowhere |
+| D5 | Family On Blast |
+| D6 | My Woman. My Guitars |
+| E1 | Somebody's Parent |
+| E2 | When I Find Time |
+| E3 | Eric Burdon |
+| E4 | Juicin' The Dark |
+| E5 | 5 On A Joyride |
+| F1 | Daylight |
+| F2 | So Much Beauty In The Subconscious |
+| F3 | Daddy's Baby |
+| F4 | If We Don't Disagree |
+| F5 | Look Good In Leather |
+| F6 | 6 Seconds |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 | Format         | Vinyl 3× LP Album Limited Edition Numbered Repress |
 | Label          | One Little Indian |
 | Catalog Number | TPLP345DMM |
-| Notes | third pressing - Limited Edition numbered on the front side<br><br> |
+| Notes | third pressing - Limited Edition numbered on the front side     |
 | Discogs URL    | [Cody ChesnuTT - The Headphone Masterpiece](https://www.discogs.com/release/6090015-Cody-Chesnutt-The-Headphone-Masterpiece) |

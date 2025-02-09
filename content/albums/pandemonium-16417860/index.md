@@ -39,18 +39,18 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pandemonium | 6:40 |
-| A2 | Exorcism | 7:26 |
-| B1 | Millennium | 5:33 |
-| B2 | Communion | 6:55 |
-| B3 | Black Moon | 5:19 |
-| C1 | Labyrinth | 5:53 |
-| C2 | Jana | 4:06 |
-| C3 | Whiteout | 5:43 |
-| D1 | Pleasures Of The Flesh | 5:40 |
-| D2 | Mathematics Of Chaos | 7:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Pandemonium |
+| A2 | Exorcism |
+| B1 | Millennium |
+| B2 | Communion |
+| B3 | Black Moon |
+| C1 | Labyrinth |
+| C2 | Jana |
+| C3 | Whiteout |
+| D1 | Pleasures Of The Flesh |
+| D2 | Mathematics Of Chaos |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 | Format         | Vinyl LP (Blue Translucent), Vinyl LP (Clear), All Media Album Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE511303 |
-| Notes | Includes double-sided insert with lyrics, credits and new liner notes.<br><br>Features revised cover art.<br><br> |
+| Notes | Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.   |
 | Discogs URL    | [Killing Joke - Pandemonium](https://www.discogs.com/release/16417860-Killing-Joke-Pandemonium) |

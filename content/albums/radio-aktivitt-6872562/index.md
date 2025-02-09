@@ -39,20 +39,20 @@ styles: ["Experimental"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Geigerzähler | 1:07 |
-| A2 | Radioaktivität | 6:42 |
-| A3 | Radioland | 5:52 |
-| A4 | Ätherwellen | 4:40 |
-| A5 | Sendepause | 0:39 |
-| A6 | Nachrichten | 1:17 |
-| B1 | Die Stimme Der Energie | 0:55 |
-| B2 | Antenne | 3:42 |
-| B3 | Radio Sterne | 3:34 |
-| B4 | Uran | 1:27 |
-| B5 | Transistor | 2:14 |
-| B6 | Ohm Sweet Ohm | 5:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Geigerzähler |
+| A2 | Radioaktivität |
+| A3 | Radioland |
+| A4 | Ätherwellen |
+| A5 | Sendepause |
+| A6 | Nachrichten |
+| B1 | Die Stimme Der Energie |
+| B2 | Antenne |
+| B3 | Radio Sterne |
+| B4 | Uran |
+| B5 | Transistor |
+| B6 | Ohm Sweet Ohm |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Experimental"]
 | Format         | Vinyl LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99587 1 7 |
-| Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider<br><br>℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd.<br>© 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.<br><br>Printed In EU <br><br>Include a huge booklet in LP-size |
+| Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider  ℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.  Printed In EU   Include a huge booklet in LP-size |
 | Discogs URL    | [Kraftwerk - Radio-Aktivität](https://www.discogs.com/release/6872562-Kraftwerk-Radio-Aktivität) |

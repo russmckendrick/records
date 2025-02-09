@@ -31,19 +31,19 @@ Wallinger is assisted on this album by several session musicians, including Anth
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Private Revolution | 4:01 |
-| A2 | Making Love (To The World) | 2:30 |
-| A3 | Ship Of Fools | 4:27 |
-| A4 | All Come True | 5:52 |
-| A5 | Dance Of The Hoppy Lads | 0:44 |
-| A6 | It Can Be Beautiful (Sometimes) | 3:00 |
-| B1 | The Ballad Of The Little Man | 5:02 |
-| B2 | Hawaiian Island World | 4:20 |
-| B3 | All I Really Want To Do | 4:43 |
-| B4 | World Party | 4:36 |
-| B5 | It's All Mine | 5:33 |
+| Position | Title |
+|----------|--------|
+| A1 | Private Revolution |
+| A2 | Making Love (To The World) |
+| A3 | Ship Of Fools |
+| A4 | All Come True |
+| A5 | Dance Of The Hoppy Lads |
+| A6 | It Can Be Beautiful (Sometimes) |
+| B1 | The Ballad Of The Little Man |
+| B2 | Hawaiian Island World |
+| B3 | All I Really Want To Do |
+| B4 | World Party |
+| B5 | It's All Mine |
 
 
 ## Apple Music

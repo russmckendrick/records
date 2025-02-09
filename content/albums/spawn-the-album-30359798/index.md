@@ -37,22 +37,22 @@ styles: ["Breakbeat", "Soundtrack", "Techno", "Drum n Bass", "Nu Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | (Can't You) Trip Like I Do |  |
-| A2 | Long Hard Road Out Of Hell |  |
-| A3 | Satan |  |
-| B1 | Kick The P.A. |  |
-| B2 | Tiny Rubberband |  |
-| B3 | For Whom The Bell Tolls (The Irony Of It All) |  |
-| B4 | Torn Apart |  |
-| C1 | Skin Up Pin Up |  |
-| C2 | One Man Army |  |
-| C3 | Spawn |  |
-| D1 | T-4 Strain |  |
-| D2 | Familiar |  |
-| D3 | No Remorse (I Wanna Die) |  |
-| D4 | A Plane Scraped Its Belly On A Sooty Yellow Moon |  |
+| Position | Title |
+|----------|--------|
+| A1 | (Can't You) Trip Like I Do |
+| A2 | Long Hard Road Out Of Hell |
+| A3 | Satan |
+| B1 | Kick The P.A. |
+| B2 | Tiny Rubberband |
+| B3 | For Whom The Bell Tolls (The Irony Of It All) |
+| B4 | Torn Apart |
+| C1 | Skin Up Pin Up |
+| C2 | One Man Army |
+| C3 | Spawn |
+| D1 | T-4 Strain |
+| D2 | Familiar |
+| D3 | No Remorse (I Wanna Die) |
+| D4 | A Plane Scraped Its Belly On A Sooty Yellow Moon |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ styles: ["Breakbeat", "Soundtrack", "Techno", "Drum n Bass", "Nu Metal"]
 | Format         | Vinyl 2× LP Album Record Store Day Compilation Reissue (Red Smoke) |
 | Label          | Immortal Records (3) |
 | Catalog Number | 19658833411 |
-| Notes | Record Store Day 2024 release, limited to 2,700 copies.<br><br>On labels and back cover: Made in the EU.<br><br>℗ 1997 New Line Productions, Inc.<br>℗ 1997, 2024 Epic Records, A Division of Sony Music Entertainment<br>Motion Picture Photography and Artwork Title © 1997 New Line Productions, Inc.<br><br>There are two different versions of the Spawn soundtrack RSD release:<br>- This one was pressed by Record Industry, has the same runouts than the MOV release from 2017, has 19658833411 on hype sticker, has "Made in the EU" on back cover and labels as well as label code and rights societies on labels.<br>- [r30522379] was pressed by Memphis Record Pressing/GZ Media, has completely different runouts, has 19658833411S1 on hype sticker, no "Made in the EU", no label codes and no rights societies on the release.<br><br> |
+| Notes | Record Store Day 2024 release, limited to 2,700 copies.  On labels and back cover: Made in the EU.  ℗ 1997 New Line Productions, Inc. ℗ 1997, 2024 Epic Records, A Division of Sony Music Entertainment Motion Picture Photography and Artwork Title © 1997 New Line Productions, Inc.  There are two different versions of the Spawn soundtrack RSD release: - This one was pressed by Record Industry, has the same runouts than the MOV release from 2017, has 19658833411 on hype sticker, has "Made in the EU" on back cover and labels as well as label code and rights societies on labels. - [r30522379] was pressed by Memphis Record Pressing/GZ Media, has completely different runouts, has 19658833411S1 on hype sticker, no "Made in the EU", no label codes and no rights societies on the release.   |
 | Discogs URL    | [Various - Spawn (The Album)](https://www.discogs.com/release/30359798-Various-Spawn-The-Album) |

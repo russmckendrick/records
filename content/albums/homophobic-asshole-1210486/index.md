@@ -27,11 +27,11 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Homophobic Asshole |  |
-| B1 | Body Bag |  |
-| B2 | Just Flirting |  |
+| Position | Title |
+|----------|--------|
+| A | Homophobic Asshole |
+| B1 | Body Bag |
+| B2 | Just Flirting |
 
 
 ## Apple Music

@@ -40,19 +40,19 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Animate | 6:05 |
-| A2 | Stick It Out | 4:30 |
-| A3 | Cut To The Chase | 4:49 |
-| A4 | Nobody's Hero | 4:54 |
-| B1 | Between Sun & Moon | 4:37 |
-| B2 | Alien Shore | 5:45 |
-| B3 | The Speed Of Love | 5:03 |
-| C1 | Double Agent | 4:51 |
-| C2 | Leave That Thing Alone | 4:06 |
-| C3 | Cold Fire | 4:27 |
-| C4 | Everyday Glory | 5:10 |
+| Position | Title |
+|----------|--------|
+| A1 | Animate |
+| A2 | Stick It Out |
+| A3 | Cut To The Chase |
+| A4 | Nobody's Hero |
+| B1 | Between Sun & Moon |
+| B2 | Alien Shore |
+| B3 | The Speed Of Love |
+| C1 | Double Agent |
+| C2 | Leave That Thing Alone |
+| C3 | Cold Fire |
+| C4 | Everyday Glory |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 82528 |
-| Notes | Includes High Quality Download Code<br>Etched D Side<br>2 LP in a single sleeve jacket<br> |
+| Notes | Includes High Quality Download Code Etched D Side 2 LP in a single sleeve jacket  |
 | Discogs URL    | [Rush - Counterparts](https://www.discogs.com/release/7684165-Rush-Counterparts) |

@@ -33,24 +33,24 @@ Three songs were taken from each of the first five studio albums and one song wa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Us |  |
-| A1 | Carnival Of Sorts (Boxcars) | 3:51 |
-| A2 | Radio Free Europe | 4:03 |
-| A3 | Perfect Circle | 3:22 |
-| A4 | Talk About The Passion | 3:22 |
-| A5 | So. Central Rain | 3:11 |
-| A6 | Pretty Persuasion | 3:53 |
-| A7 | Green Grow The Rushes | 3:42 |
-|  | Them |  |
-| B1 | Can't Get There From Here | 4:10 |
-| B2 | Fall On Me | 2:49 |
-| B3 | I Believe | 3:32 |
-| B4 | Cuyahoga | 4:17 |
-| B5 | The One I Love | 3:17 |
-| B6 | Finest Worksong | 3:48 |
-| B7 | It's The End Of The World As We Know It (And I Feel Fine) | 4:07 |
+| Position | Title |
+|----------|--------|
+|  | Us |
+| A1 | Carnival Of Sorts (Boxcars) |
+| A2 | Radio Free Europe |
+| A3 | Perfect Circle |
+| A4 | Talk About The Passion |
+| A5 | So. Central Rain |
+| A6 | Pretty Persuasion |
+| A7 | Green Grow The Rushes |
+|  | Them |
+| B1 | Can't Get There From Here |
+| B2 | Fall On Me |
+| B3 | I Believe |
+| B4 | Cuyahoga |
+| B5 | The One I Love |
+| B6 | Finest Worksong |
+| B7 | It's The End Of The World As We Know It (And I Feel Fine) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Three songs were taken from each of the first five studio albums and one song wa
 | Format         | Vinyl LP Compilation |
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |
-| Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.<br><br>Track A1 titled "Carnival Of Sorts" on the back cover.<br><br>This compilation: ℗ 1991 International Record Syndicate, Inc.<br>© 1991 International Record Syndicate, Inc. |
+| Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc. |
 | Discogs URL    | [REM - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |

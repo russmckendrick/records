@@ -85,24 +85,24 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Keep It On Your Mind | 5:31 |
-| A2 | East Bay | 5:11 |
-| A3 | Bet | 5:34 |
-| B1 | Cliroy | 4:45 |
-| B2 | Take It! | 6:39 |
-| B3 | Portal | 5:13 |
-| C1 | Broken Arrow | 7:19 |
-| C2 | RL's | 9:23 |
-| D1 | Mean Green | 4:55 |
-| D2 | Fuel City | 4:52 |
-| D3 | Free Fall | 3:50 |
-| E1 | Belmont | 6:29 |
-| E2 | Pineapple | 4:57 |
-| F1 | Honiara | 6:50 |
-| F2 | Coney Bear | 5:17 |
-| F3 | Trinity | 7:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Keep It On Your Mind |
+| A2 | East Bay |
+| A3 | Bet |
+| B1 | Cliroy |
+| B2 | Take It! |
+| B3 | Portal |
+| C1 | Broken Arrow |
+| C2 | RL's |
+| D1 | Mean Green |
+| D2 | Fuel City |
+| D3 | Free Fall |
+| E1 | Belmont |
+| E2 | Pineapple |
+| F1 | Honiara |
+| F2 | Coney Bear |
+| F3 | Trinity |
 
 
 ## Apple Music
@@ -120,5 +120,5 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 | Format         | Vinyl 3× LP |
 | Label          | GroundUP Music (2) |
 | Catalog Number | none |
-| Notes | Recorded and filmed March 3-10, 2022, at Deep Ellum Art Company in Dallas, Texas, USA.<br>Mixed March 15 - April 7, 2022, at Estudi Vint in Els Prats de Rei, Catalonia, Spain.<br><br>GUMUK Limited and GroundUP Music Publishing are administered under worldwide license through Reservoir Music Publishing.<br><br>Tracks A1, A3, C2, E1: © GUMUK Limited (SESAC)<br>Track A2: © Ceebull Music (SESAC)<br>Track B1: © YAYennings Publishing (ASCAP)<br>Track B2: © BOBBY SPARKS MUSIC (BMI)<br>Track B3: © Marcelo Woloski Music (ASCAP), GUMUK Limited (SESAC), and Shunwun Music (ASCAP)<br>Tracks C1, D3: © J Stant Music (SESAC)<br>Track D1: © Nate Werth Music (SESAC)<br>Track D2: © Bill Laurance Music (SESAC)<br>Track E2: © Mazarito Music (SESAC) and GUMUK Limited (SESAC)<br>Track F1: © Secret Fort Publishing (BMI), GUMUK Limited (SESAC), and Mazarito Music (SESAC)<br>Track F2: © Bobbylanz Music (SESAC)<br>Track F3: © Markus Justinius Music (SESAC)<br><br>℗ © 2022 Snarky Puppy under exclusive license to GroundUP Music LLC.<br><br>Title is mis-spelled as 'Centarl' on spine. |
+| Notes | Recorded and filmed March 3-10, 2022, at Deep Ellum Art Company in Dallas, Texas, USA. Mixed March 15 - April 7, 2022, at Estudi Vint in Els Prats de Rei, Catalonia, Spain.  GUMUK Limited and GroundUP Music Publishing are administered under worldwide license through Reservoir Music Publishing.  Tracks A1, A3, C2, E1: © GUMUK Limited (SESAC) Track A2: © Ceebull Music (SESAC) Track B1: © YAYennings Publishing (ASCAP) Track B2: © BOBBY SPARKS MUSIC (BMI) Track B3: © Marcelo Woloski Music (ASCAP), GUMUK Limited (SESAC), and Shunwun Music (ASCAP) Tracks C1, D3: © J Stant Music (SESAC) Track D1: © Nate Werth Music (SESAC) Track D2: © Bill Laurance Music (SESAC) Track E2: © Mazarito Music (SESAC) and GUMUK Limited (SESAC) Track F1: © Secret Fort Publishing (BMI), GUMUK Limited (SESAC), and Mazarito Music (SESAC) Track F2: © Bobbylanz Music (SESAC) Track F3: © Markus Justinius Music (SESAC)  ℗ © 2022 Snarky Puppy under exclusive license to GroundUP Music LLC.  Title is mis-spelled as 'Centarl' on spine. |
 | Discogs URL    | [Snarky Puppy - Empire Central](https://www.discogs.com/release/24798023-Snarky-Puppy-Empire-Central) |

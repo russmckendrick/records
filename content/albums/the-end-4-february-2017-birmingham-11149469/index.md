@@ -39,25 +39,25 @@ styles: ["Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Sabbath |  |
-| A2 | Fairies Wear Boots |  |
-| A3 | Under The Sun / Every Day Comes And Goes |  |
-| B1 | After Forever |  |
-| B2 | Into The Void |  |
-| B3 | Snowblind |  |
-| C1 | Band Intros |  |
-| C2 | War Pigs |  |
-| C3 | Behind The Wall Of Sleep |  |
-| C4 | Bassically / N.I.B. |  |
-| D1 | Hand Of Doom |  |
-| D2 | Supernaut / Sabbath Bloody Sabbath / Megalomania |  |
-| D3 | Rat Salad / Drum Solo |  |
-| E1 | Iron Man |  |
-| E2 | Dirty Women |  |
-| F1 | Children Of The Grave |  |
-| F2 | Paranoid |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Sabbath |
+| A2 | Fairies Wear Boots |
+| A3 | Under The Sun / Every Day Comes And Goes |
+| B1 | After Forever |
+| B2 | Into The Void |
+| B3 | Snowblind |
+| C1 | Band Intros |
+| C2 | War Pigs |
+| C3 | Behind The Wall Of Sleep |
+| C4 | Bassically / N.I.B. |
+| D1 | Hand Of Doom |
+| D2 | Supernaut / Sabbath Bloody Sabbath / Megalomania |
+| D3 | Rat Salad / Drum Solo |
+| E1 | Iron Man |
+| E2 | Dirty Women |
+| F1 | Children Of The Grave |
+| F2 | Paranoid |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Heavy Metal"]
 | Format         | Vinyl 3× LP Album (180 gram) |
 | Label          | Eagle Records |
 | Catalog Number | EAGLP679 |
-| Notes | Gatefold<br><br>From the final hometown concert in Birmingham on 04th February 2017.<br><br>An Eagle Rock Films production for Eagle Rock Entertainment Ltd.<br>℗ & © BS Productions Limited 2017 under exclusive licence to Eagle Rock Entertainment Ltd. All rights reserved.<br>An Eagle Vision release. Eagle vision is a division of Eagle Rock Entertainment, a Universal Music Group company. Made in the EU.<br><br>First cat.number on spine, second cat.number on front sticker<br>Yellow Sticker:<br>"3 x 180gm VINYL<br>THE FINAL SHOW FROM <br>THE GREATEST METAL <br>BAND OF ALL TIME<br>5034504167926"<br> |
+| Notes | Gatefold  From the final hometown concert in Birmingham on 04th February 2017.  An Eagle Rock Films production for Eagle Rock Entertainment Ltd. ℗ & © BS Productions Limited 2017 under exclusive licence to Eagle Rock Entertainment Ltd. All rights reserved. An Eagle Vision release. Eagle vision is a division of Eagle Rock Entertainment, a Universal Music Group company. Made in the EU.  First cat.number on spine, second cat.number on front sticker Yellow Sticker: "3 x 180gm VINYL THE FINAL SHOW FROM  THE GREATEST METAL  BAND OF ALL TIME 5034504167926"  |
 | Discogs URL    | [Black Sabbath - The End (4 February 2017 - Birmingham)](https://www.discogs.com/release/11149469-Black-Sabbath-The-End-4-February-2017-Birmingham) |

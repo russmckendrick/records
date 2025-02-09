@@ -75,20 +75,20 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro |  |
-| A2 | Be On Your Way |  |
-| A3 | Party |  |
-| A4 | Dandelion |  |
-| A5 | Neptune |  |
-| A6 | Swim Back |  |
-| B7 | Junkmail |  |
-| B8 | Future Lover |  |
-| B9 | (Missed Calls) |  |
-| B10 | Isolation |  |
-| B11 | To Rage |  |
-| B12 | Wish I Could Cross The Sea |  |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Be On Your Way |
+| A3 | Party |
+| A4 | Dandelion |
+| A5 | Neptune |
+| A6 | Swim Back |
+| B7 | Junkmail |
+| B8 | Future Lover |
+| B9 | (Missed Calls) |
+| B10 | Isolation |
+| B11 | To Rage |
+| B12 | Wish I Could Cross The Sea |
 
 
 ## Apple Music

@@ -38,20 +38,20 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heart's Done Time | 4:42 |
-| A2 | Magic Touch | 4:40 |
-| A3 | Rag Doll | 4:21 |
-| A4 | Simoriah | 3:21 |
-| A5 | Dude (Looks Like A Lady) | 4:23 |
-| A6 | St. John | 4:12 |
-| B1 | Hangman Jury | 5:33 |
-| B2 | Girl Keeps Coming Apart | 4:12 |
-| B3 | Angel | 5:10 |
-| B4 | Permanent Vacation | 4:52 |
-| B5 | I'm Down | 2:20 |
-| B6 | The Movie | 4:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Heart's Done Time |
+| A2 | Magic Touch |
+| A3 | Rag Doll |
+| A4 | Simoriah |
+| A5 | Dude (Looks Like A Lady) |
+| A6 | St. John |
+| B1 | Hangman Jury |
+| B2 | Girl Keeps Coming Apart |
+| B3 | Angel |
+| B4 | Permanent Vacation |
+| B5 | I'm Down |
+| B6 | The Movie |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 | Format         | Vinyl LP Album Limited Edition Reissue (Red/Black Marbled) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954374 |
-| Notes | Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada<br>Originally mastered at Sterling Sound<br><br>℗ 1987 © 2016 Geffen Records<br>Universal International Music B.V. Gerrit Van Der Veenlaan<br>Made in EU<br><br>Issued with a printed inner sleeve.<br><br>Runouts are stamped.<br> |
+| Notes | Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve.  Runouts are stamped.  |
 | Discogs URL    | [Aerosmith - Permanent Vacation](https://www.discogs.com/release/13639079-Aerosmith-Permanent-Vacation) |

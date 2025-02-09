@@ -87,32 +87,32 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burn The Witch | 3:41 |
-| A2 | Daydreaming | 6:25 |
-| B1 | Decks Dark | 4:41 |
-| B2 | Desert Island Disk | 3:45 |
-| B3 | Ful Stop | 6:07 |
-| C1 | Glass Eyes | 2:53 |
-| C2 | Identikit | 4:27 |
-| C3 |  The Numbers | 5:46 |
-| D1 | Present Tense | 5:07 |
-| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief | 5:04 |
-| D3 | True Love Waits | 4:46 |
-| CD1-1 | Burn The Witch | 3:41 |
-| CD1-2 | Daydreaming | 6:25 |
-| CD1-3 | Decks Dark | 4:41 |
-| CD1-4 | Desert Island Disk | 3:45 |
-| CD1-5 | Ful Stop | 6:07 |
-| CD1-6 | Glass Eyes | 2:53 |
-| CD1-7 | Identikit | 4:27 |
-| CD1-8 | The Numbers | 5:46 |
-| CD1-9 | Present Tense | 5:07 |
-| CD1-10 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief | 5:04 |
-| CD1-11 | True Love Waits | 4:46 |
-| CD2-1 | Ill Wind | 4:16 |
-| CD2-2 | Spectre | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Burn The Witch |
+| A2 | Daydreaming |
+| B1 | Decks Dark |
+| B2 | Desert Island Disk |
+| B3 | Ful Stop |
+| C1 | Glass Eyes |
+| C2 | Identikit |
+| C3 |  The Numbers |
+| D1 | Present Tense |
+| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief |
+| D3 | True Love Waits |
+| CD1-1 | Burn The Witch |
+| CD1-2 | Daydreaming |
+| CD1-3 | Decks Dark |
+| CD1-4 | Desert Island Disk |
+| CD1-5 | Ful Stop |
+| CD1-6 | Glass Eyes |
+| CD1-7 | Identikit |
+| CD1-8 | The Numbers |
+| CD1-9 | Present Tense |
+| CD1-10 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief |
+| CD1-11 | True Love Waits |
+| CD2-1 | Ill Wind |
+| CD2-2 | Spectre |
 
 
 ## Apple Music
@@ -130,5 +130,5 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 | Format         | Vinyl 2× LP Album (180g), CD 2× Album, All Media Special Edition |
 | Label          | XL Recordings |
 | Catalog Number | LLLPLLPLP01 |
-| Notes | Case bound album, inspired by the albums for 78rpm shellac records in the library of La Fabrique, France<br>32 pages of artwork<br>The 11 track album on two heavyweight 12" vinyl records<br>Two compact discs: one with the album and one with two extra tracks<br>Recording tape belly band applied *<br><br>* This is a piece of a Radiohead ½ inch master tape from an actual recording session.<br>The tape degrades over time and becomes unplayable. We thought rather than it ending up as landfill we would cut it up and make it useful as a part of the special edition. A new life for some obsolete technology...<br>Each loop contains about ¾ of a second of audio - which could be from any era in the band's recording past going back to Kid A.<br><br>Assistant engineer at La Fabrique Studio: Maxime LeGuil<br><br>℗ 2016 LLLP LLP under exclusive license to XL Recordings Ltd.<br>© 2016 LLLP LLP under exclusive license to XL Recordings Ltd.<br>Published by Warner/Chappell Music Ltd<br><br>In memory of Vic Goodrich 1936-2015 and Scott Johnson 1979-2012 |
+| Notes | Case bound album, inspired by the albums for 78rpm shellac records in the library of La Fabrique, France 32 pages of artwork The 11 track album on two heavyweight 12" vinyl records Two compact discs: one with the album and one with two extra tracks Recording tape belly band applied *  * This is a piece of a Radiohead ½ inch master tape from an actual recording session. The tape degrades over time and becomes unplayable. We thought rather than it ending up as landfill we would cut it up and make it useful as a part of the special edition. A new life for some obsolete technology... Each loop contains about ¾ of a second of audio - which could be from any era in the band's recording past going back to Kid A.  Assistant engineer at La Fabrique Studio: Maxime LeGuil  ℗ 2016 LLLP LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP LLP under exclusive license to XL Recordings Ltd. Published by Warner/Chappell Music Ltd  In memory of Vic Goodrich 1936-2015 and Scott Johnson 1979-2012 |
 | Discogs URL    | [Radiohead - A Moon Shaped Pool](https://www.discogs.com/release/9127152-Radiohead-A-Moon-Shaped-Pool) |

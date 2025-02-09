@@ -32,19 +32,19 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crying In The Rain | 4:24 |
-| A2 | Early Morning | 2:58 |
-| A3 | I Call Your Name | 4:53 |
-| A4 | Slender Frame | 3:42 |
-| A5 | East Of The Sun | 4:47 |
-| B1 | Sycamore Leaves | 5:21 |
-| B2 | Waiting For Her | 4:49 |
-| B3 | Cold River | 4:41 |
-| B4 | The Way We Talk | 1:31 |
-| B5 | Rolling Thunder | 5:43 |
-| B6 | (Seemingly) Nonstop July | 2:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Crying In The Rain |
+| A2 | Early Morning |
+| A3 | I Call Your Name |
+| A4 | Slender Frame |
+| A5 | East Of The Sun |
+| B1 | Sycamore Leaves |
+| B2 | Waiting For Her |
+| B3 | Cold River |
+| B4 | The Way We Talk |
+| B5 | Rolling Thunder |
+| B6 | (Seemingly) Nonstop July |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 | Format         | Vinyl LP Album Reissue Stereo (Purple Velvet, 30th Anniversary Edition) |
 | Label          | Warner Records |
 | Catalog Number | RCV1 26314 |
-| Notes | Made in the EU.<br>180 gram purple vinyl. |
+| Notes | Made in the EU. 180 gram purple vinyl. |
 | Discogs URL    | [a-ha - East Of The Sun West Of The Moon ](https://www.discogs.com/release/16037426-a-ha-East-Of-The-Sun-West-Of-The-Moon-) |

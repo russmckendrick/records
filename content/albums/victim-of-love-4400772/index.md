@@ -30,19 +30,19 @@ Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, hi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strictly Reserved For You | 3:43 |
-| A2 | You Put The Flame On It | 3:49 |
-| A3 | Let Love Stand A Chance | 3:59 |
-| A4 | Victim Of Love | 3:29 |
-| A5 | Love Bug Blues | 3:00 |
-| A6 | Dusty Blue | 3:22 |
-| B1 | Confusion | 3:45 |
-| B2 | Where Do We Go From Here? | 3:11 |
-| B3 | Crying In The Chapel | 3:55 |
-| B4 | Hurricane | 3:32 |
-| B5 | Through The Storm | 4:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Strictly Reserved For You |
+| A2 | You Put The Flame On It |
+| A3 | Let Love Stand A Chance |
+| A4 | Victim Of Love |
+| A5 | Love Bug Blues |
+| A6 | Dusty Blue |
+| B1 | Confusion |
+| B2 | Where Do We Go From Here? |
+| B3 | Crying In The Chapel |
+| B4 | Hurricane |
+| B5 | Through The Storm |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, hi
 | Format         | Vinyl LP Album Stereo |
 | Label          | Dunham |
 | Catalog Number | DUN-1004 |
-| Notes | Includes coupon for MP3 download.<br><br>CAT# on sleeve spine : DUN-1004 / DAP-031<br>CAT# on sleeve (back) : DUN 1004 / DAP 031<br>Barcode on the plastic shrink wrap only. |
+| Notes | Includes coupon for MP3 download.  CAT# on sleeve spine : DUN-1004 / DAP-031 CAT# on sleeve (back) : DUN 1004 / DAP 031 Barcode on the plastic shrink wrap only. |
 | Discogs URL    | [Charles Bradley - Victim Of Love](https://www.discogs.com/release/4400772-Charles-Bradley-Featuring-Menahan-Street-Band-Victim-Of-Love) |

@@ -98,154 +98,154 @@ This expansive overview focuses on David Bowie's fertile breakthrough, kicking o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | David Bowie A.K.A. Space Oddity |  |
-| A1 | Space Oddity |  |
-| A2a | Unwashed And Somewhat Slightly Dazed |  |
-| A2b | Don't Sit Down |  |
-| A3 | Letter To Hermione |  |
-| A4 | Cygnet Committee |  |
-| B1 | Janine |  |
-| B2 | An Occasional Dream |  |
-| B3 | The Wild Eyed Boy From Freecloud |  |
-| B4 | God Knows I'm Good |  |
-| B5 | Memory Of A Free Festival |  |
-|  | The Man Who Sold The World  |  |
-| C1 | The Width Of A Circle | 8:07 |
-| C2 | All The Madmen | 5:38 |
-| C3 | Black Country Rock | 3:33 |
-| C4 | After All | 3:52 |
-| D1 | Running Gun Blues | 3:12 |
-| D2 | Saviour Machine | 4:27 |
-| D3 | She Shook Me Cold | 4:13 |
-| D4 | The Man Who Sold The World | 3:58 |
-| D5 | The Supermen | 3:39 |
-|  | Hunky Dory |  |
-| E1 | Changes |  |
-| E2 | Oh! You Pretty Things |  |
-| E3 | Eight Line Poem |  |
-| E4 | Life On Mars? |  |
-| E5 | Kooks |  |
-| E6 | Quicksand |  |
-| F1 | Fill Your Heart |  |
-| F2 | Andy Warhol |  |
-| F3 | Song For Bob Dylan |  |
-| F4 | Queen Bitch |  |
-| F5 | The Bewlay Brothers |  |
-|  | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars |  |
-| G1 | Five Years | 4:42 |
-| G2 | Soul Love | 3:34 |
-| G3 | Moonage Daydream | 4:40 |
-| G4 | Starman | 4:10 |
-| G5 | It Ain't Easy | 2:58 |
-| H1 | Lady Stardust | 3:22 |
-| H2 | Star | 2:47 |
-| H3 | Hang On To Yourself | 2:40 |
-| H4 | Ziggy Stardust | 3:13 |
-| H5 | Suffragette City | 3:25 |
-| H6 | Rock 'N' Roll Suicide | 2:58 |
-|  | Aladdin Sane |  |
-| I1 | Watch That Man | 4:30 |
-| I2 | Aladdin Sane (1913-1938-197?) | 5:15 |
-| I3 | Drive-In Saturday | 4:38 |
-| I4 | Panic In Detroit | 4:30 |
-| I5 | Cracked Actor | 3:01 |
-| J1 | Time | 5:10 |
-| J2 | The Prettiest Star | 3:28 |
-| J3 | Let's Spend The Night Together | 3:10 |
-| J4 | The Jean Genie | 4:06 |
-| J5 | Lady Grinning Soul | 3:53 |
-|  | Pinups |  |
-| K1 | Rosalyn |  |
-| K2 | Here Comes The Night |  |
-| K3 | I Wish You Would |  |
-| K4 | See Emily Play |  |
-| K5 | Everything's Alright |  |
-| K6 | I Can't Explain |  |
-| L1 | Friday On My Mind |  |
-| L2 | Sorrow |  |
-| L3 | Don't Bring Me Down |  |
-| L4 | Shapes Of Things |  |
-| L5 | Anyway, Anyhow, Anywhere |  |
-| L6 | Where Have All The Good Times Gone! |  |
-|  | Live Santa Monica '72 |  |
-| M1 | Introduction |  |
-| M2 | Hang On To Yourself |  |
-| M3 | Ziggy Stardust |  |
-| M4 | Changes |  |
-| M5 | The Supermen |  |
-| M6 | Life On Mars? |  |
-| N1 | Five Years |  |
-| N2 | Space Oddity |  |
-| N3 | Andy Warhol |  |
-| N4 | My Death |  |
-| O1 | The Width Of A Circle |  |
-| O2 | Queen Bitch |  |
-| O3 | Moonage Daydream |  |
-| O4 | John, I'm Only Dancing |  |
-| P1 | Waiting For The Man |  |
-| P2 | The Jean Genie |  |
-| P3 | Suffragette City |  |
-| P4 | Rock 'N' Roll Suicide |  |
-|  |  Ziggy Stardust And The Spiders From Mars (The Motion Picture Soundtrack) |  |
-| Q1 | Introduction |  |
-| Q2 | Hang On To Yourself |  |
-| Q3 | Ziggy Stardust |  |
-| Q4 | Watch That Man |  |
-| Q5 | Wild Eyed Boy From Freecloud |  |
-| Q6 | All The Young Dudes |  |
-| Q7 | Oh! You Pretty Things |  |
-| R1 | Moonage Daydream |  |
-| R2 | Changes |  |
-| R3 | Space Oddity |  |
-| R4 | My Death |  |
-| S1 | Introduction |  |
-| S2 | Cracked Actor |  |
-| S3 | Time |  |
-| S4 | Width Of A Circle |  |
-| T1 | Let's Spend The Night Together |  |
-| T2 | Suffragette City |  |
-| T3 | White Light / White Heat |  |
-| T4 | Farewell Speech |  |
-| T5 | Rock 'N' Roll Suicide |  |
-|  | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2003 Mix) |  |
-| U1 | Five Years | 4:43 |
-| U2 | Soul Love | 3:33 |
-| U3 | Moonage Daydream | 4:39 |
-| U4 | Starman | 4:07 |
-| U5 | It Ain't Easy | 2:58 |
-| V1 | Lady Stardust | 3:21 |
-| V2 | Star | 2:47 |
-| V3 | Hang On To Yourself  | 2:40 |
-| V4 | Ziggy Stardust | 3:13 |
-| V5 | Suffragette City | 3:25 |
-| V6 | Rock 'N' Roll Suicide | 3:00 |
-|  | Re:Call 1 |  |
-| W1 |  Space Oddity (Original UK Mono Single Edit) | 4:42 |
-| W2 | Wild Eyed Boy From Freecloud (Original UK Mono Single Version) | 4:52 |
-| W3 | Ragazzo Solo, Ragazza Sola | 5:06 |
-| W4 | The Prettiest Star (Original Mono Single Version) | 3:13 |
-| W5 | Conversation Piece (Mono Version) | 3:07 |
-| X1 | Memory Of A Free Festival (Part 1) | 4:03 |
-| X2 | Memory Of A Free Festival (Part 2) | 3:34 |
-| X3 | All The Madmen (Mono Single Edit) | 3:15 |
-| X4 | Janine (Mono Version) | 3:23 |
-| X5 | Holy Holy (Original Mono Single Version) | 3:13 |
-| X6 | Moonage Daydream (The Arnold Corns Single Version) | 3:53 |
-| X7 | Hang On To Yourself (The Arnold Corns Single Version) | 2:52 |
-| Y1 | Changes (Mono Single Version) | 3:39 |
-| Y2 | Andy Warhol (Mono Single Version) | 3:07 |
-| Y3 | Starman (Original Single Mix) | 4:17 |
-| Y4 | John, I'm Only Dancing (Original Single Version) | 2:47 |
-| Y5 | The Jean Genie (Original Single Mix) | 4:08 |
-| Y6 | Drive-In Saturday (German Single Edit) | 4:03 |
-| Z1 | Round And Round | 2:42 |
-| Z2 | John, I'm Only Dancing (Sax Version) | 2:45 |
-| Z3 | Time (U.S. Single Edit) | 3:43 |
-| Z4 | Amsterdam | 3:27 |
-| Z5 | Holy Holy (Spiders Version) | 2:18 |
-| Z6 | Velvet Goldmine | 3:10 |
+| Position | Title |
+|----------|--------|
+|  | David Bowie A.K.A. Space Oddity |
+| A1 | Space Oddity |
+| A2a | Unwashed And Somewhat Slightly Dazed |
+| A2b | Don't Sit Down |
+| A3 | Letter To Hermione |
+| A4 | Cygnet Committee |
+| B1 | Janine |
+| B2 | An Occasional Dream |
+| B3 | The Wild Eyed Boy From Freecloud |
+| B4 | God Knows I'm Good |
+| B5 | Memory Of A Free Festival |
+|  | The Man Who Sold The World  |
+| C1 | The Width Of A Circle |
+| C2 | All The Madmen |
+| C3 | Black Country Rock |
+| C4 | After All |
+| D1 | Running Gun Blues |
+| D2 | Saviour Machine |
+| D3 | She Shook Me Cold |
+| D4 | The Man Who Sold The World |
+| D5 | The Supermen |
+|  | Hunky Dory |
+| E1 | Changes |
+| E2 | Oh! You Pretty Things |
+| E3 | Eight Line Poem |
+| E4 | Life On Mars? |
+| E5 | Kooks |
+| E6 | Quicksand |
+| F1 | Fill Your Heart |
+| F2 | Andy Warhol |
+| F3 | Song For Bob Dylan |
+| F4 | Queen Bitch |
+| F5 | The Bewlay Brothers |
+|  | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars |
+| G1 | Five Years |
+| G2 | Soul Love |
+| G3 | Moonage Daydream |
+| G4 | Starman |
+| G5 | It Ain't Easy |
+| H1 | Lady Stardust |
+| H2 | Star |
+| H3 | Hang On To Yourself |
+| H4 | Ziggy Stardust |
+| H5 | Suffragette City |
+| H6 | Rock 'N' Roll Suicide |
+|  | Aladdin Sane |
+| I1 | Watch That Man |
+| I2 | Aladdin Sane (1913-1938-197?) |
+| I3 | Drive-In Saturday |
+| I4 | Panic In Detroit |
+| I5 | Cracked Actor |
+| J1 | Time |
+| J2 | The Prettiest Star |
+| J3 | Let's Spend The Night Together |
+| J4 | The Jean Genie |
+| J5 | Lady Grinning Soul |
+|  | Pinups |
+| K1 | Rosalyn |
+| K2 | Here Comes The Night |
+| K3 | I Wish You Would |
+| K4 | See Emily Play |
+| K5 | Everything's Alright |
+| K6 | I Can't Explain |
+| L1 | Friday On My Mind |
+| L2 | Sorrow |
+| L3 | Don't Bring Me Down |
+| L4 | Shapes Of Things |
+| L5 | Anyway, Anyhow, Anywhere |
+| L6 | Where Have All The Good Times Gone! |
+|  | Live Santa Monica '72 |
+| M1 | Introduction |
+| M2 | Hang On To Yourself |
+| M3 | Ziggy Stardust |
+| M4 | Changes |
+| M5 | The Supermen |
+| M6 | Life On Mars? |
+| N1 | Five Years |
+| N2 | Space Oddity |
+| N3 | Andy Warhol |
+| N4 | My Death |
+| O1 | The Width Of A Circle |
+| O2 | Queen Bitch |
+| O3 | Moonage Daydream |
+| O4 | John, I'm Only Dancing |
+| P1 | Waiting For The Man |
+| P2 | The Jean Genie |
+| P3 | Suffragette City |
+| P4 | Rock 'N' Roll Suicide |
+|  |  Ziggy Stardust And The Spiders From Mars (The Motion Picture Soundtrack) |
+| Q1 | Introduction |
+| Q2 | Hang On To Yourself |
+| Q3 | Ziggy Stardust |
+| Q4 | Watch That Man |
+| Q5 | Wild Eyed Boy From Freecloud |
+| Q6 | All The Young Dudes |
+| Q7 | Oh! You Pretty Things |
+| R1 | Moonage Daydream |
+| R2 | Changes |
+| R3 | Space Oddity |
+| R4 | My Death |
+| S1 | Introduction |
+| S2 | Cracked Actor |
+| S3 | Time |
+| S4 | Width Of A Circle |
+| T1 | Let's Spend The Night Together |
+| T2 | Suffragette City |
+| T3 | White Light / White Heat |
+| T4 | Farewell Speech |
+| T5 | Rock 'N' Roll Suicide |
+|  | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2003 Mix) |
+| U1 | Five Years |
+| U2 | Soul Love |
+| U3 | Moonage Daydream |
+| U4 | Starman |
+| U5 | It Ain't Easy |
+| V1 | Lady Stardust |
+| V2 | Star |
+| V3 | Hang On To Yourself  |
+| V4 | Ziggy Stardust |
+| V5 | Suffragette City |
+| V6 | Rock 'N' Roll Suicide |
+|  | Re:Call 1 |
+| W1 |  Space Oddity (Original UK Mono Single Edit) |
+| W2 | Wild Eyed Boy From Freecloud (Original UK Mono Single Version) |
+| W3 | Ragazzo Solo, Ragazza Sola |
+| W4 | The Prettiest Star (Original Mono Single Version) |
+| W5 | Conversation Piece (Mono Version) |
+| X1 | Memory Of A Free Festival (Part 1) |
+| X2 | Memory Of A Free Festival (Part 2) |
+| X3 | All The Madmen (Mono Single Edit) |
+| X4 | Janine (Mono Version) |
+| X5 | Holy Holy (Original Mono Single Version) |
+| X6 | Moonage Daydream (The Arnold Corns Single Version) |
+| X7 | Hang On To Yourself (The Arnold Corns Single Version) |
+| Y1 | Changes (Mono Single Version) |
+| Y2 | Andy Warhol (Mono Single Version) |
+| Y3 | Starman (Original Single Mix) |
+| Y4 | John, I'm Only Dancing (Original Single Version) |
+| Y5 | The Jean Genie (Original Single Mix) |
+| Y6 | Drive-In Saturday (German Single Edit) |
+| Z1 | Round And Round |
+| Z2 | John, I'm Only Dancing (Sax Version) |
+| Z3 | Time (U.S. Single Edit) |
+| Z4 | Amsterdam |
+| Z5 | Holy Holy (Spiders Version) |
+| Z6 | Velvet Goldmine |
 
 
 ## Apple Music
@@ -262,5 +262,5 @@ This expansive overview focuses on David Bowie's fertile breakthrough, kicking o
 | Format         | Box Set Compilation Limited Edition Remastered, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation Stereo Mono |
 | Label          | Parlophone |
 | Catalog Number | 0825646284092 |
-| Notes | Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [url=https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599]Pinups Radio Show[/url] by adding it to shopping basket for free while preordering boxset.<br><br>Track A2b is not listed on the release. |
+| Notes | Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [url=https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599]Pinups Radio Show[/url] by adding it to shopping basket for free while preordering boxset.  Track A2b is not listed on the release. |
 | Discogs URL    | [David Bowie - [Five Years 1969 - 1973]](https://www.discogs.com/release/7521520-David-Bowie-Five-Years-1969-1973) |

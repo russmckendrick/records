@@ -26,14 +26,14 @@ styles: ["Art Rock", "Post Rock", "Avantgarde"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | For Stars Of The Air | 9:11 |
-| A2 | Nerve Time | 5:04 |
-| A3 | Positive Halfway | 7:29 |
-| B1 | Last Resort Of The Gambling Man | 4:09 |
-| B2 | Versatile Switch | 5:45 |
-| B3 | New Auspicious | 6:54 |
+| Position | Title |
+|----------|--------|
+| A1 | For Stars Of The Air |
+| A2 | Nerve Time |
+| A3 | Positive Halfway |
+| B1 | Last Resort Of The Gambling Man |
+| B2 | Versatile Switch |
+| B3 | New Auspicious |
 
 
 ## Apple Music

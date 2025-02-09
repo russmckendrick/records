@@ -36,20 +36,20 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Wolf Is Loose | 3:34 |
-| A2 | Crystal Skull | 3:27 |
-| A3 | Sleeping Giant | 5:36 |
-| A4 | Capillarian Crest | 4:25 |
-| A5 | Circle Of Cysquatch | 3:19 |
-| A6 | Bladecatcher | 3:21 |
-| B7 | Colony Of Birchmen | 4:20 |
-| B8 | Hunters Of The Sky | 3:52 |
-| B9 | Hand Of The Stone | 3:31 |
-| B10 | This Mortal Soil | 5:00 |
-| B11 | Siberian Divide | 5:32 |
-| B12 | Pendulous Skin | 5:04 |
+| Position | Title |
+|----------|--------|
+| A1 | The Wolf Is Loose |
+| A2 | Crystal Skull |
+| A3 | Sleeping Giant |
+| A4 | Capillarian Crest |
+| A5 | Circle Of Cysquatch |
+| A6 | Bladecatcher |
+| B7 | Colony Of Birchmen |
+| B8 | Hunters Of The Sky |
+| B9 | Hand Of The Stone |
+| B10 | This Mortal Soil |
+| B11 | Siberian Divide |
+| B12 | Pendulous Skin |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 | Format         | Vinyl LP Album Reissue Repress (Green Marbled) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49293-8 |
-| Notes | Reprise Records, A Warner Music Group Company. 3300 Warner Blvd., Burbank, <br>CA 91505-4694; 75 Rockefeller Plaza, New York, NY 10019-6908<br>© 2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. ℗ 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.<br><br>Printed in the E.U.<br>Manufactured in the Netherlands.<br><br>Tracks are listed sequentially on the release.<br><br>Sticker reads : The Grammy nominated album featuring: Colony Of Birchmen, Crystal Skull and Sleeping Giant.<br><br>Vinyl housed in a plane white innersleeve, comes with a 12" printed lyric sheet.<br><br>1st cat # = Spine, rear cover, inner<br>2nd cat # = labels<br><br>• Run-out information:<br>1-44364-A and 1-44364-B are etched<br>86117 1A and 86117 1B are stamped<br> |
+| Notes | Reprise Records, A Warner Music Group Company. 3300 Warner Blvd., Burbank,  CA 91505-4694; 75 Rockefeller Plaza, New York, NY 10019-6908 © 2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. ℗ 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Printed in the E.U. Manufactured in the Netherlands.  Tracks are listed sequentially on the release.  Sticker reads : The Grammy nominated album featuring: Colony Of Birchmen, Crystal Skull and Sleeping Giant.  Vinyl housed in a plane white innersleeve, comes with a 12" printed lyric sheet.  1st cat # = Spine, rear cover, inner 2nd cat # = labels  • Run-out information: 1-44364-A and 1-44364-B are etched 86117 1A and 86117 1B are stamped  |
 | Discogs URL    | [Mastodon - Blood Mountain](https://www.discogs.com/release/6775331-Mastodon-Blood-Mountain) |

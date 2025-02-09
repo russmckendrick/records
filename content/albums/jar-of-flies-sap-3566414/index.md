@@ -46,22 +46,22 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Jar Of Flies |  |
-| A1 | Rotten Apple |  |
-| A2 | Nutshell |  |
-| A3 | I Stay Away |  |
-| A4 | No Excuses |  |
-| A5 | Whale & Wasp |  |
-| B1 | Don't Follow |  |
-| B2 | Swing On This |  |
-|  | Sap |  |
-| C1 | Brother |  |
-| C2 | Got Me Wrong |  |
-| C3 | Right Turn |  |
-| C4 | Am I Inside |  |
-| C5 | Love Song |  |
+| Position | Title |
+|----------|--------|
+|  | Jar Of Flies |
+| A1 | Rotten Apple |
+| A2 | Nutshell |
+| A3 | I Stay Away |
+| A4 | No Excuses |
+| A5 | Whale & Wasp |
+| B1 | Don't Follow |
+| B2 | Swing On This |
+|  | Sap |
+| C1 | Brother |
+| C2 | Got Me Wrong |
+| C3 | Right Turn |
+| C4 | Am I Inside |
+| C5 | Love Song |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 | Format         | Vinyl 12" 33 ⅓ RPM EP, Vinyl 12" 33 ⅓ RPM Single Sided EP Etched, All Media Mini-Album Compilation Reissue Stereo (180 Gram Audiophile, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP086 |
-| Notes | "Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993.<br>Mixed at Scream Studio, 17-22 September 1993. MADE IN THE EU.<br><br>"Sap" recorded at London Bridge Studios, Seattle, WA. Mastered at Future Disc Systems, Hollywood, CA. MADE IN THE EU.<br><br>© 1992, 1993, 1994 Sony Music Entertainment Inc.<br>℗ 1994 Sony Music Entertainment Inc.<br>© 1992, 1993, 1994 Sony Music Entertainment.<br>℗ 1994 Sony Music Entertainment.<br>℗ & © 2010 Sony Music Entertainment<br><br>Released in gatefold sleeve including printed inner sleeves containing lyrics and credits.<br>Tribal sun/ logo laser etched on side D.<br>Track C5 is not listed on the release, title taken from the label's website.<br><br>All runouts are etched. |
+| Notes | "Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993. Mixed at Scream Studio, 17-22 September 1993. MADE IN THE EU.  "Sap" recorded at London Bridge Studios, Seattle, WA. Mastered at Future Disc Systems, Hollywood, CA. MADE IN THE EU.  © 1992, 1993, 1994 Sony Music Entertainment Inc. ℗ 1994 Sony Music Entertainment Inc. © 1992, 1993, 1994 Sony Music Entertainment. ℗ 1994 Sony Music Entertainment. ℗ & © 2010 Sony Music Entertainment  Released in gatefold sleeve including printed inner sleeves containing lyrics and credits. Tribal sun/ logo laser etched on side D. Track C5 is not listed on the release, title taken from the label's website.  All runouts are etched. |
 | Discogs URL    | [Alice In Chains - Jar Of Flies / Sap](https://www.discogs.com/release/3566414-Alice-In-Chains-Jar-Of-Flies-Sap) |

@@ -32,28 +32,28 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue | 2:15 |
-| A2 | Pork Chop Express (Main Title) | 4:01 |
-| A3 | Abduction At Airport | 4:17 |
-| A4 | The Alley (Procession) | 1:12 |
-| A5 | The Alley (War) | 2:31 |
-| A6 | The Storms | 2:42 |
-| A7 | Tenement / White Tiger | 3:49 |
-| B1 | Here Comes The Storm | 4:15 |
-| B2 | Wing Kong Exchange | 4:40 |
-| B3 | Lo Pan's Domain / Looking For A Girl | 3:16 |
-| B4 | Friends Of Yours? / Escape Iron Basis | 7:18 |
-| B5 | Escape From Wing Kong | 5:38 |
-| C1 | Hide! | 4:35 |
-| C2 | Call The Police | 7:32 |
-| C3 | Dragon Eyes | 1:12 |
-| C4 | Into The Spirit Path | 7:05 |
-| D1 | The Great Arcade (Mini Rock Opera) | 7:53 |
-| D2 | The Final Escape (Lo Pan's Demise / Getaway) | 7:02 |
-| D3 | Goodbye Jack | 3:14 |
-| D4 | Big Trouble In Little China (End Credits - Album Version) | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue |
+| A2 | Pork Chop Express (Main Title) |
+| A3 | Abduction At Airport |
+| A4 | The Alley (Procession) |
+| A5 | The Alley (War) |
+| A6 | The Storms |
+| A7 | Tenement / White Tiger |
+| B1 | Here Comes The Storm |
+| B2 | Wing Kong Exchange |
+| B3 | Lo Pan's Domain / Looking For A Girl |
+| B4 | Friends Of Yours? / Escape Iron Basis |
+| B5 | Escape From Wing Kong |
+| C1 | Hide! |
+| C2 | Call The Police |
+| C3 | Dragon Eyes |
+| C4 | Into The Spirit Path |
+| D1 | The Great Arcade (Mini Rock Opera) |
+| D2 | The Final Escape (Lo Pan's Demise / Getaway) |
+| D3 | Goodbye Jack |
+| D4 | Big Trouble In Little China (End Credits - Album Version) |
 
 
 ## Apple Music

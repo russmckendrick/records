@@ -35,19 +35,19 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Something Is...! | 3:42 |
-| A2 | Baby You're My Light | 2:56 |
-| A3 | Love Of My Life | 3:20 |
-| A4 | The Nights Are Cold | 2:49 |
-| A5 | Can You Hear The Rain, Love? | 4:55 |
-| B1 | Lonely Night | 2:45 |
-| B2 | Precious Sight | 4:15 |
-| B3 | No Way Home | 4:14 |
-| B4 | Cry A Tear For The Man In The Moon | 3:26 |
-| B5 | Long Black Train | 4:13 |
-| B6 | The Light At The End Of The Tunnel (Was A Train Coming The Other Way) | 4:54 |
+| Position | Title |
+|----------|--------|
+| A1 | Something Is...! |
+| A2 | Baby You're My Light |
+| A3 | Love Of My Life |
+| A4 | The Nights Are Cold |
+| A5 | Can You Hear The Rain, Love? |
+| B1 | Lonely Night |
+| B2 | Precious Sight |
+| B3 | No Way Home |
+| B4 | Cry A Tear For The Man In The Moon |
+| B5 | Long Black Train |
+| B6 | The Light At The End Of The Tunnel (Was A Train Coming The Other Way) |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |
-| Notes | Some signed copies were available on the 2016 tour. <br>℗ & © Setanta Records Ltd,<br>Made In UK |
+| Notes | Some signed copies were available on the 2016 tour.  ℗ & © Setanta Records Ltd, Made In UK |
 | Discogs URL    | [Richard Hawley - Late Night Final](https://www.discogs.com/release/6196121-Richard-Hawley-Late-Night-Final) |

@@ -35,19 +35,19 @@ The album's title (a German onomatopoeia for a loud pop or bang) and cover art a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Super Falling Star |  |
-| A2 | Orgiastic |  |
-| A3 | Peng ! 33 |  |
-| A4 | K-Stars |  |
-| A5 | Perversion |  |
-| A6 | You Little Shits |  |
-| B1 | The Seeming And The Meaning |  |
-| B2 | Mellotron |  |
-| B3 | Enivrez-Vous |  |
-| B4 | Stomach Worm |  |
-| B5 | Surrealchemist |  |
+| Position | Title |
+|----------|--------|
+| A1 | Super Falling Star |
+| A2 | Orgiastic |
+| A3 | Peng ! 33 |
+| A4 | K-Stars |
+| A5 | Perversion |
+| A6 | You Little Shits |
+| B1 | The Seeming And The Meaning |
+| B2 | Mellotron |
+| B3 | Enivrez-Vous |
+| B4 | Stomach Worm |
+| B5 | Surrealchemist |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album's title (a German onomatopoeia for a loud pop or bang) and cover art a
 | Format         | Vinyl LP Album Reissue Remastered (Clear) |
 | Label          | Too Pure |
 | Catalog Number | PURE11LPX |
-| Notes | Recorded - London April 1992<br>Re-mastered [...] @ Calyx, Berlin<br>Published by Complete Music / Domino Publ. Co. Ltd<br>Original sound recording made by Too Pure, London<br><br>℗ & © 1992 Too Pure<br><br>Includes a double-sided insert with lyrics and liner notes discussing the album. |
+| Notes | Recorded - London April 1992 Re-mastered [...] @ Calyx, Berlin Published by Complete Music / Domino Publ. Co. Ltd Original sound recording made by Too Pure, London  ℗ & © 1992 Too Pure  Includes a double-sided insert with lyrics and liner notes discussing the album. |
 | Discogs URL    | [Stereolab - Peng!](https://www.discogs.com/release/12767245-Stereolab-Peng) |

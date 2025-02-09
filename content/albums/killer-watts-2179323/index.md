@@ -33,25 +33,25 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The World Anthem | 3:00 |
-| A2 | Rock 'N' Roll Hall Of Fame | 4:06 |
-| A3 | U.S.A. | 4:52 |
-| A4 | Flesh And Blood | 4:47 |
-| A5 | Knock 'Em Dead Kid | 4:43 |
-| B1 | Rapid Fire | 4:07 |
-| B2 | Godzilla | 4:05 |
-| B3 | Need A Little Girl (Just Like You) | 3:30 |
-| B4 | Back On The Road Again | 5:40 |
-| C1 | Line Of Fire | 3:04 |
-| C2 | Solid As A Rock | 4:26 |
-| C3 | L'Elite | 3:59 |
-| C4 | Too Wild To Tame | 4:35 |
-| D1 | Let The Music Do The Talking | 4:43 |
-| D2 | No Surprise | 4:26 |
-| D3 | Checkin' It Out (Baby Don't You Cry) | 4:26 |
-| D4 | Boogie No More | 6:05 |
+| Position | Title |
+|----------|--------|
+| A1 | The World Anthem |
+| A2 | Rock 'N' Roll Hall Of Fame |
+| A3 | U.S.A. |
+| A4 | Flesh And Blood |
+| A5 | Knock 'Em Dead Kid |
+| B1 | Rapid Fire |
+| B2 | Godzilla |
+| B3 | Need A Little Girl (Just Like You) |
+| B4 | Back On The Road Again |
+| C1 | Line Of Fire |
+| C2 | Solid As A Rock |
+| C3 | L'Elite |
+| C4 | Too Wild To Tame |
+| D1 | Let The Music Do The Talking |
+| D2 | No Surprise |
+| D3 | Checkin' It Out (Baby Don't You Cry) |
+| D4 | Boogie No More |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 | Format         | Vinyl 2× LP Album Compilation Stereo |
 | Label          | Epic |
 | Catalog Number | KW 1 |
-| Notes | © 1980 CBS Records.<br><br> |
+| Notes | © 1980 CBS Records.   |
 | Discogs URL    | [Various - Killer Watts](https://www.discogs.com/release/2179323-Various-Killer-Watts) |

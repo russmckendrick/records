@@ -35,29 +35,29 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loverman (Single Version) | 4:57 |
-| A2 | Tupelo (Single Version) | 5:12 |
-| A3 | Deanna | 3:45 |
-| A4 | From Her To Eternity | 5:35 |
-| B1 | The Weeping Song | 4:21 |
-| B2 | Dig, Lazarus, Dig!!! (Single Version) | 3:35 |
-| B3 | People Ain’t No Good | 5:40 |
-| C1 | Higgs Boson Blues | 7:50 |
-| C2 | Straight To You | 4:35 |
-| C3 | Where The Wild Roses Grow | 3:57 |
-| D1 | Into My Arms | 4:13 |
-| D2 | Love Letter | 4:04 |
-| D3 | Red Right Hand (Single Version) | 4:49 |
-| D4 | The Mercy Seat | 5:10 |
-| E1 | O Children | 6:42 |
-| E2 | The Ship Song (Single Version) | 4:44 |
-| E3 | Stranger Than Kindness | 4:43 |
-| F1 | Jubilee Street (Alternative Video Version) | 5:03 |
-| F2 | Nature Boy (Single Version) | 3:31 |
-| F3 | We No Who U R | 4:05 |
-| F4 | Stagger Lee | 5:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Loverman (Single Version) |
+| A2 | Tupelo (Single Version) |
+| A3 | Deanna |
+| A4 | From Her To Eternity |
+| B1 | The Weeping Song |
+| B2 | Dig, Lazarus, Dig!!! (Single Version) |
+| B3 | People Ain’t No Good |
+| C1 | Higgs Boson Blues |
+| C2 | Straight To You |
+| C3 | Where The Wild Roses Grow |
+| D1 | Into My Arms |
+| D2 | Love Letter |
+| D3 | Red Right Hand (Single Version) |
+| D4 | The Mercy Seat |
+| E1 | O Children |
+| E2 | The Ship Song (Single Version) |
+| E3 | Stranger Than Kindness |
+| F1 | Jubilee Street (Alternative Video Version) |
+| F2 | Nature Boy (Single Version) |
+| F3 | We No Who U R |
+| F4 | Stagger Lee |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 | Format         | Vinyl 3× LP Compilation Remastered (180 g) |
 | Label          | Mute |
 | Catalog Number | LPSEEDS15 |
-| Notes | Released in a tri-fold sleeve.<br><br>Hype sticker on shrink: <br>3 LP Set <br>180g <br>Heavyweight Vinyl<br><br>[url=https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250]Another version[/url] of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve.<br> |
+| Notes | Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [url=https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250]Another version[/url] of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve.  |
 | Discogs URL    | [Nick Cave  The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191-Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014) |

@@ -42,17 +42,17 @@ Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shield
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Found Now |  |
-| A2 | Only Tomorrow |  |
-| A3 | Who Sees You |  |
-| A4 | Is This And Yes |  |
-| B1 | If I Am |  |
-| B2 | New You |  |
-| B3 | In Another Way |  |
-| B4 | Nothing Is |  |
-| B5 | Wonder 2 |  |
+| Position | Title |
+|----------|--------|
+| A1 | She Found Now |
+| A2 | Only Tomorrow |
+| A3 | Who Sees You |
+| A4 | Is This And Yes |
+| B1 | If I Am |
+| B2 | New You |
+| B3 | In Another Way |
+| B4 | Nothing Is |
+| B5 | Wonder 2 |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shield
 | Format         | Vinyl LP Album Deluxe Edition Reissue (Gatefold) |
 | Label          | Domino |
 | Catalog Number | REWIGLP160X |
-| Notes | Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve.<br>Includes a set of 5 card art prints and download card.<br><br>[Sticker on shrink / front]<br>"Fully Analog Cut<br>includes download codes<br>24-bit . 16-bit . mp3<br>Made in the EU"<br><br> |
+| Notes | Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"   |
 | Discogs URL    | [My Bloody Valentine - m b v](https://www.discogs.com/release/18769009-My-Bloody-Valentine-m-b-v) |

@@ -31,24 +31,24 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mu-Tron | 2:58 |
-| A2 | Discotraxx | 3:50 |
-| A3 | Another Breakfast With You | 3:03 |
-| A4 | CSKA Sofia | 2:21 |
-| B1 | The Way That I Found You | 3:29 |
-| B2 | Paco! | 3:00 |
-| B3 | Commodore Rock | 4:47 |
-| B4 | Zmeyka | 3:14 |
-| C1 | Playgirl | 3:49 |
-| C2 | I'm With The Pilots | 2:43 |
-| C3 | This Is Our Sound | 4:09 |
-| C4 | He Took Her To A Movie | 3:10 |
-| D1 | Laughing Cavalier | 1:08 |
-| D2 | Ladybird | 4:38 |
-| D3 | Jet Age | 3:10 |
-| D4 | Skools Out... | 4:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Mu-Tron |
+| A2 | Discotraxx |
+| A3 | Another Breakfast With You |
+| A4 | CSKA Sofia |
+| B1 | The Way That I Found You |
+| B2 | Paco! |
+| B3 | Commodore Rock |
+| B4 | Zmeyka |
+| C1 | Playgirl |
+| C2 | I'm With The Pilots |
+| C3 | This Is Our Sound |
+| C4 | He Took Her To A Movie |
+| D1 | Laughing Cavalier |
+| D2 | Ladybird |
+| D3 | Jet Age |
+| D4 | Skools Out... |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 | Format         | Vinyl LP 45 RPM (Red [Blood Red]), Vinyl LP 45 RPM (Clear [Ultra Clear]), All Media Album Limited Edition Reissue |
 | Label          | Nettwerk |
 | Catalog Number | 30912 1 |
-| Notes | 20th Anniversary Edition <br>Limited to 1000 copies<br>140g<br> |
+| Notes | 20th Anniversary Edition  Limited to 1000 copies 140g  |
 | Discogs URL    | [Ladytron - 604](https://www.discogs.com/release/20527537-Ladytron-604) |

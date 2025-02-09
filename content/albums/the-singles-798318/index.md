@@ -41,29 +41,29 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Joe |  |
-| A2 | Find Out Why |  |
-| A3 | Move |  |
-| A4 | This Is How It Feels |  |
-| A5 | She Comes In The Fall |  |
-| B1 | Commercial Reign |  |
-| B2 | Sackville |  |
-| B3 | Biggest Mountain |  |
-| B4 | Weakness |  |
-| C1 | Caravan |  |
-| C2 | Please Be Cruel |  |
-| C3 | Dragging Me Down |  |
-| C4 | Two Worlds Collide |  |
-| C5 | Generations |  |
-| D1 | Bitches Brew |  |
-| D2 | How It Should Be |  |
-| D3 | Saturn 5 |  |
-| D4 | I Want You |  |
-| D5 | Uniform |  |
-| E | Weakness (Live) | 4:39 |
-| F | Caravan (Live) | 3:36 |
+| Position | Title |
+|----------|--------|
+| A1 | Joe |
+| A2 | Find Out Why |
+| A3 | Move |
+| A4 | This Is How It Feels |
+| A5 | She Comes In The Fall |
+| B1 | Commercial Reign |
+| B2 | Sackville |
+| B3 | Biggest Mountain |
+| B4 | Weakness |
+| C1 | Caravan |
+| C2 | Please Be Cruel |
+| C3 | Dragging Me Down |
+| C4 | Two Worlds Collide |
+| C5 | Generations |
+| D1 | Bitches Brew |
+| D2 | How It Should Be |
+| D3 | Saturn 5 |
+| D4 | I Want You |
+| D5 | Uniform |
+| E | Weakness (Live) |
+| F | Caravan (Live) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Limited Edition Compilation, Vinyl 7" 45 RPM |
 | Label          | Mute |
 | Catalog Number | MOOTEL 3 |
-| Notes | Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.<br><br>Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".<br><br>Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"".<br> |
+| Notes | Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.  Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".  Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"".  |
 | Discogs URL    | [Inspiral Carpets - The Singles](https://www.discogs.com/release/798318-Inspiral-Carpets-The-Singles) |

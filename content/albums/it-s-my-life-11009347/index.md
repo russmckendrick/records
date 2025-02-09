@@ -36,17 +36,17 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dum Dum Girl |  |
-| A2 | Such A Shame |  |
-| A3 | Renée |  |
-| A4 | It's My Life |  |
-| B1 | Tomorrow Started |  |
-| B2 | The Last Time |  |
-| B3 | Call In The Night Boy |  |
-| B4 | Does Caroline Know? |  |
-| B5 | It's You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dum Dum Girl |
+| A2 | Such A Shame |
+| A3 | Renée |
+| A4 | It's My Life |
+| B1 | Tomorrow Started |
+| B2 | The Last Time |
+| B3 | Call In The Night Boy |
+| B4 | Does Caroline Know? |
+| B5 | It's You |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295792619 |
-| Notes | Inner sleeve in glossy paper.<br><br>On spine: ● 0190295792619 Talk Talk ● It's My Life ● Parlophone Records Ltd.<br><br>On back cover: 0190295792619 ★ Stereo ℗ 1984 Parlophone Records Ltd © 2017 Parlophone Records Ltd. A Warner Music Group Company. <br>Country of manufacture of record as stated on record label.<br><br>On labels:<br>Published by: Universal/Island Music Ltd.<br>except:<br>A1/A4: Universal/Island Music Ltd./Imagem London Ltd.<br>B2: Universal/Island Music Ltd./DWB Music Ltd.<br>℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company.<br>Manufactured in the EU. LC30419.<br><br>Runouts are etched with Optimal plating symbols mirrored |
+| Notes | Inner sleeve in glossy paper.  On spine: ● 0190295792619 Talk Talk ● It's My Life ● Parlophone Records Ltd.  On back cover: 0190295792619 ★ Stereo ℗ 1984 Parlophone Records Ltd © 2017 Parlophone Records Ltd. A Warner Music Group Company.  Country of manufacture of record as stated on record label.  On labels: Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd. ℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Manufactured in the EU. LC30419.  Runouts are etched with Optimal plating symbols mirrored |
 | Discogs URL    | [Talk Talk - It's My Life](https://www.discogs.com/release/11009347-Talk-Talk-Its-My-Life) |

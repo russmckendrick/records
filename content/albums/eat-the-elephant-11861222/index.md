@@ -40,21 +40,21 @@ The album was released on April 20, 2018, after four singles were released in ad
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Eat The Elephant |  |
-| A2 | Disillusioned |  |
-| A3 | The Contrarian |  |
-| B1 | The Doomed |  |
-| B2 | So Long, And Thanks For All The Fish |  |
-| B3 | Talktalk |  |
-| C1 | By And Down The River |  |
-| C2 | Delicious |  |
-| C3 | DLB |  |
-| D1 | DLB |  |
-| D2 | Hourglass |  |
-| D3 | Feathers |  |
-| D4 | Get The Lead Out |  |
+| Position | Title |
+|----------|--------|
+| A1 | Eat The Elephant |
+| A2 | Disillusioned |
+| A3 | The Contrarian |
+| B1 | The Doomed |
+| B2 | So Long, And Thanks For All The Fish |
+| B3 | Talktalk |
+| C1 | By And Down The River |
+| C2 | Delicious |
+| C3 | DLB |
+| D1 | DLB |
+| D2 | Hourglass |
+| D3 | Feathers |
+| D4 | Get The Lead Out |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ The album was released on April 20, 2018, after four singles were released in ad
 | Format         | Vinyl 2× LP Album Limited Edition Special Cut (White ) |
 | Label          | BMG |
 | Catalog Number | 538374370 |
-| Notes | Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.<br><br><br>Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".<br><br>Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”. |
+| Notes | Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.   Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".  Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”. |
 | Discogs URL    | [A Perfect Circle - Eat The Elephant](https://www.discogs.com/release/11861222-A-Perfect-Circle-Eat-The-Elephant) |

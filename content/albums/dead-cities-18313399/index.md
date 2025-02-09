@@ -36,21 +36,21 @@ The Dead Cities are situated in an elevated area of limestone known as Limestone
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Herd Killing |  |
-| A2 | Dead Cities |  |
-| A3 | Her Face Forms In Summertime |  |
-| A4 | We Have Explosive |  |
-| B1 | Everyone In The World Is Doing Something Without Me |  |
-| B2 | My Kingdom |  |
-| B3 | Max |  |
-| B4 | Antique Toy |  |
-| C1 | Quagmire / In A State Of Permanent Abyss |  |
-| C2 | Glass |  |
-| D1 | Yage |  |
-| D2 | Vit Drowning / Through Your Gills I Breathe |  |
-| D3 | First Death In The Family |  |
+| Position | Title |
+|----------|--------|
+| A1 | Herd Killing |
+| A2 | Dead Cities |
+| A3 | Her Face Forms In Summertime |
+| A4 | We Have Explosive |
+| B1 | Everyone In The World Is Doing Something Without Me |
+| B2 | My Kingdom |
+| B3 | Max |
+| B4 | Antique Toy |
+| C1 | Quagmire / In A State Of Permanent Abyss |
+| C2 | Glass |
+| D1 | Yage |
+| D2 | Vit Drowning / Through Your Gills I Breathe |
+| D3 | First Death In The Family |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Dead Cities are situated in an elevated area of limestone known as Limestone
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Virgin |
 | Catalog Number | 3537463 |
-| Notes | Comes with a [url=https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008]free digital download[/url] code redeemable at [l1052727].<br><br>Gatefold cover.<br><br>Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print. |
+| Notes | Comes with a [url=https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008]free digital download[/url] code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print. |
 | Discogs URL    | [The Future Sound Of London - Dead Cities](https://www.discogs.com/release/18313399-The-Future-Sound-Of-London-Dead-Cities) |

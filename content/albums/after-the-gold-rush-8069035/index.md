@@ -34,19 +34,19 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tell Me Why | 2:57 |
-| A2 | After The Gold Rush | 3:46 |
-| A3 | Only Love Can Break Your Heart | 3:09 |
-| A4 | Southern Man | 5:31 |
-| A5 | Till The Morning Comes | 1:16 |
-| B1 | Oh, Lonesome Me | 3:49 |
-| B2 | Don't Let It Bring You Down | 2:57 |
-| B3 | Birds | 2:33 |
-| B4 | When You Dance, I Can Really Love | 3:45 |
-| B5 | I Believe In You | 3:27 |
-| B6 | Cripple Creek Ferry | 1:34 |
+| Position | Title |
+|----------|--------|
+| A1 | Tell Me Why |
+| A2 | After The Gold Rush |
+| A3 | Only Love Can Break Your Heart |
+| A4 | Southern Man |
+| A5 | Till The Morning Comes |
+| B1 | Oh, Lonesome Me |
+| B2 | Don't Let It Bring You Down |
+| B3 | Birds |
+| B4 | When You Dance, I Can Really Love |
+| B5 | I Believe In You |
+| B6 | Cripple Creek Ferry |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 | Format         | Vinyl LP Album Reissue Repress (140 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 517936-1 |
-| Notes | Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.<br><br>Originally released in 1970.<br><br>©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.<br>Printed in U.S.A.<br><br>©℗2009 Reprise Records, a Warner Music Group Company<br>Manufactured in Germany |
+| Notes | Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany |
 | Discogs URL    | [Neil Young - After The Gold Rush](https://www.discogs.com/release/8069035-Neil-Young-After-The-Gold-Rush) |

@@ -47,22 +47,22 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | How The West Was Won And Where It Got Us | 4:30 |
-| A2 | The Wake-up Bomb | 5:07 |
-| A3 | New Test Leper | 5:25 |
-| B1 | Undertow | 5:08 |
-| B2 | E-bow The Letter | 5:22 |
-| B3 | Leave | 7:17 |
-| C1 | Departure | 3:27 |
-| C2 | Bittersweet Me | 4:06 |
-| C3 | Be Mine | 5:32 |
-| C4 | Binky The Doormat | 5:00 |
-| D1 | Zither | 2:33 |
-| D2 | So Fast, So Numb | 4:11 |
-| D3 | Low Desert | 3:30 |
-| D4 | Electrolite | 4:05 |
+| Position | Title |
+|----------|--------|
+| A1 | How The West Was Won And Where It Got Us |
+| A2 | The Wake-up Bomb |
+| A3 | New Test Leper |
+| B1 | Undertow |
+| B2 | E-bow The Letter |
+| B3 | Leave |
+| C1 | Departure |
+| C2 | Bittersweet Me |
+| C3 | Be Mine |
+| C4 | Binky The Doormat |
+| D1 | Zither |
+| D2 | So Fast, So Numb |
+| D3 | Low Desert |
+| D4 | Electrolite |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary ) |
 | Label          | Craft Recordings |
 | Catalog Number | 888072245457 |
-| Notes | 25th Anniversary Edition.<br><br>℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.<br><br>Made in the EU.<br><br>Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |
+| Notes | 25th Anniversary Edition.  ℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.  Made in the EU.  Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |
 | Discogs URL    | [REM - New Adventures In Hi-Fi](https://www.discogs.com/release/20712988-REM-New-Adventures-In-Hi-Fi) |

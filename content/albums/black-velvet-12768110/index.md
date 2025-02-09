@@ -31,18 +31,18 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Can't Fight The Feeling |  |
-| A2 | Luv Jones |  |
-| A3 | I Feel A Change |  |
-| A4 | Slip Away |  |
-| A5 | Black Velvet |  |
-| B1 | Stay Away |  |
-| B2 | Heart Of Gold |  |
-| B3 | (I Hope You Find) The Good Life |  |
-| B4 | Fly Little Girl |  |
-| B5 | Victim Of Love (Electric Version) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Can't Fight The Feeling |
+| A2 | Luv Jones |
+| A3 | I Feel A Change |
+| A4 | Slip Away |
+| A5 | Black Velvet |
+| B1 | Stay Away |
+| B2 | Heart Of Gold |
+| B3 | (I Hope You Find) The Good Life |
+| B4 | Fly Little Girl |
+| B5 | Victim Of Love (Electric Version) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 | Format         | Vinyl LP Album Limited Edition (Purple With Black Splatter) |
 | Label          | Dunham |
 | Catalog Number | DUN 1007 |
-| Notes | Daptone authorized dealer exclusive limited color vinyl.<br>Includes MP3 download Card.<br>Barcode only present on front sticker. |
+| Notes | Daptone authorized dealer exclusive limited color vinyl. Includes MP3 download Card. Barcode only present on front sticker. |
 | Discogs URL    | [Charles Bradley - Black Velvet](https://www.discogs.com/release/12768110-Charles-Bradley-Featuring-The-Menahan-Street-Band-Black-Velvet) |

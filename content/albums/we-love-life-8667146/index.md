@@ -30,19 +30,19 @@ We Love Life is the seventh studio album by English rock band Pulp, released on 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Weeds |  |
-| A2 | Weeds II (The Origin Of The Species) |  |
-| A3 | The Night That Minnie Timperley Died |  |
-| A4 | The Trees |  |
-| A5 | Wickerman |  |
-| B1 | I Love Life |  |
-| B2 | The Birds In Your Garden |  |
-| B3 | Bob Lind (The Only Way Is Down) |  |
-| B4 | Bad Cover Version |  |
-| B5 | Roadkill |  |
-| B6 | Sunrise |  |
+| Position | Title |
+|----------|--------|
+| A1 | Weeds |
+| A2 | Weeds II (The Origin Of The Species) |
+| A3 | The Night That Minnie Timperley Died |
+| A4 | The Trees |
+| A5 | Wickerman |
+| B1 | I Love Life |
+| B2 | The Birds In Your Garden |
+| B3 | Bob Lind (The Only Way Is Down) |
+| B4 | Bad Cover Version |
+| B5 | Roadkill |
+| B6 | Sunrise |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ We Love Life is the seventh studio album by English rock band Pulp, released on 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785290 |
-| Notes | An initial run of copies of this release were exclusively sold in [l11249] and Fopp stores (HMV copies have an "HMV exclusive" sticker placed on shrink). <br><br>Recorded and mixed at Metropolis, London. Strings recorded at Air Studios. Choir recorded at Angel Studios.<br><br>Track A4 samples "Tell Her You Love Her" written by Stanley Myers & Hal Shaper, published by Screen Gems-EMI Music Ltd. Taken from the film "Otley". <br>Track A5 samples "Willow's Song" composed by Paul Giovanni, from the British Lion film "The Wicker Man". <br>Track B2: Virtual birdsong generated at the Institute of Sound & Vibration Research, University of Southampton under the supervision of Professor Phil Nelson.<br><br>℗ 2001 Universal-Island Records Ltd. <br>© 2016 Universal-Island Records Ltd.<br><br>Made in the EU. |
+| Notes | An initial run of copies of this release were exclusively sold in [l11249] and Fopp stores (HMV copies have an "HMV exclusive" sticker placed on shrink).   Recorded and mixed at Metropolis, London. Strings recorded at Air Studios. Choir recorded at Angel Studios.  Track A4 samples "Tell Her You Love Her" written by Stanley Myers & Hal Shaper, published by Screen Gems-EMI Music Ltd. Taken from the film "Otley".  Track A5 samples "Willow's Song" composed by Paul Giovanni, from the British Lion film "The Wicker Man".  Track B2: Virtual birdsong generated at the Institute of Sound & Vibration Research, University of Southampton under the supervision of Professor Phil Nelson.  ℗ 2001 Universal-Island Records Ltd.  © 2016 Universal-Island Records Ltd.  Made in the EU. |
 | Discogs URL    | [Pulp - We Love Life](https://www.discogs.com/release/8667146-Pulp-We-Love-Life) |

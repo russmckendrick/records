@@ -32,18 +32,18 @@ The Holy Pictures is the fifth studio album by David Holmes released in Septembe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Heard Wonders | 5:35 |
-| A2 | The Story Of The Ink | 5:23 |
-| A3 | Love Reign Over Me | 3:48 |
-| A4 | Theme / I.M.C. | 3:56 |
-| A5 | Holy Pictures | 5:20 |
-| B1 | Kill Her With Kindness | 4:04 |
-| B2 | Melanie | 4:00 |
-| B3 | Hey Maggy | 4:59 |
-| B4 | Birth | 1:08 |
-| B5 | The Ballad Of Sarah & Jack | 4:28 |
+| Position | Title |
+|----------|--------|
+| A1 | I Heard Wonders |
+| A2 | The Story Of The Ink |
+| A3 | Love Reign Over Me |
+| A4 | Theme / I.M.C. |
+| A5 | Holy Pictures |
+| B1 | Kill Her With Kindness |
+| B2 | Melanie |
+| B3 | Hey Maggy |
+| B4 | Birth |
+| B5 | The Ballad Of Sarah & Jack |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The Holy Pictures is the fifth studio album by David Holmes released in Septembe
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE54LP |
-| Notes | Tracks A1, A3, A4, B1, B2, B5: Recorded at Drama Recording, Belfast. <br>Tracks A2, A5, B3: Recorded at Drama Recording, Belfast and Echo Rec, Los Angeles.<br>Track B4: Recorded at Echo Rec, Los Angeles.<br><br>Tracks A1, A2, A4, B1, B2, B5: Mixed at Mayfair Studios, London.<br>Tracks A3, A5, B3: Mixed at Air Studios, London.<br>Track B4: Mixed at Echo Rec, Los Angeles.<br><br>The recording credit on track B5 is missing. It says "Recorded By At Drama ...".<br><br>℗ 2008 and © 2008, 2019 Mercury Records Limited.<br>Made in the EU.<br><br>Publishers:<br>Track A1: Universal Music Publishing Ltd. / Peacefrog Music Ltd. / Revega Publishing Company.<br>Tracks A2, A5 to B4: Universal Music Publishing Ltd.<br>Track A3: Universal Music Publishing Ltd. / Copyright Control.<br>Track A4: Universal Music Publishing Ltd. / Peacefrog Music Ltd.<br>Track B5: Universal Music Publishing Ltd. / Just Publishing. |
+| Notes | Tracks A1, A3, A4, B1, B2, B5: Recorded at Drama Recording, Belfast.  Tracks A2, A5, B3: Recorded at Drama Recording, Belfast and Echo Rec, Los Angeles. Track B4: Recorded at Echo Rec, Los Angeles.  Tracks A1, A2, A4, B1, B2, B5: Mixed at Mayfair Studios, London. Tracks A3, A5, B3: Mixed at Air Studios, London. Track B4: Mixed at Echo Rec, Los Angeles.  The recording credit on track B5 is missing. It says "Recorded By At Drama ...".  ℗ 2008 and © 2008, 2019 Mercury Records Limited. Made in the EU.  Publishers: Track A1: Universal Music Publishing Ltd. / Peacefrog Music Ltd. / Revega Publishing Company. Tracks A2, A5 to B4: Universal Music Publishing Ltd. Track A3: Universal Music Publishing Ltd. / Copyright Control. Track A4: Universal Music Publishing Ltd. / Peacefrog Music Ltd. Track B5: Universal Music Publishing Ltd. / Just Publishing. |
 | Discogs URL    | [David Holmes - The Holy Pictures](https://www.discogs.com/release/13930358-David-Holmes-The-Holy-Pictures) |

@@ -33,18 +33,18 @@ The songs on Le Kov are written and composed by Gwenno Saunders with help from R
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hi A Skoellyas Liv A Dhagrow |  |
-| A2 | Tir Ha Mor |  |
-| A3 | Herdhya |  |
-| A4 | Eus Keus? |  |
-| A5 | Jynn-amontya |  |
-| B1 | Den Heb Taves |  |
-| B2 | Daromres Y'n Howl |  |
-| B3 | Aremorika |  |
-| B4 | Hunros |  |
-| B5 | Koweth Ker |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hi A Skoellyas Liv A Dhagrow |
+| A2 | Tir Ha Mor |
+| A3 | Herdhya |
+| A4 | Eus Keus? |
+| A5 | Jynn-amontya |
+| B1 | Den Heb Taves |
+| B2 | Daromres Y'n Howl |
+| B3 | Aremorika |
+| B4 | Hunros |
+| B5 | Koweth Ker |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The songs on Le Kov are written and composed by Gwenno Saunders with help from R
 | Format         | Vinyl LP Album (Blue) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP145C |
-| Notes | Light blue coloured vinyl.<br>Includes download code.<br><br>Lyrics and credits printed in both Cornish and English.<br><br>Mixed and additional programming ... for Solar Management Ltd<br><br>Copies pre-ordered directly from [l889] coming signed by the artist.  |
+| Notes | Light blue coloured vinyl. Includes download code.  Lyrics and credits printed in both Cornish and English.  Mixed and additional programming ... for Solar Management Ltd  Copies pre-ordered directly from [l889] coming signed by the artist.  |
 | Discogs URL    | [Gwenno - Le Kov](https://www.discogs.com/release/11638501-Gwenno-Le-Kov) |

@@ -33,17 +33,17 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Side 1 |  |
-|  | Apollo Medley |  |
-| A2 | When Something Is Wrong With My Baby | 4:50 |
-| A3 | Everytime You Go Away | 7:08 |
-|  | Side A |  |
-| B1 | I Can't Go For That (No Can Do) | 7:24 |
-| B2 | One On One | 5:13 |
-| B3 | Possession Obsession | 5:33 |
-| B4 | Adult Education | 6:05 |
+| Position | Title |
+|----------|--------|
+|  | Side 1 |
+|  | Apollo Medley |
+| A2 | When Something Is Wrong With My Baby |
+| A3 | Everytime You Go Away |
+|  | Side A |
+| B1 | I Can't Go For That (No Can Do) |
+| B2 | One On One |
+| B3 | Possession Obsession |
+| B4 | Adult Education |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 | Format         | Vinyl LP Album |
 | Label          | RCA |
 | Catalog Number | PL87035 |
-| Notes | ℗ 1985 RCA Records (on labels)<br>© 1985 RCA Records (on inner sleeve)<br><br>Managements by Champion Entertainment Organization, Inc<br><br>Comes with a printed inner sleeves with pictures and credits<br><br>On labels Side A is stated as 'Side 1' and Side B as 'Side A'.<br><br>Made in Germany.<br>Bass clef on inner ring of B-side label   |
+| Notes | ℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label   |
 | Discogs URL    | [Daryl Hall  John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |

@@ -33,19 +33,19 @@ The success of this album was a pleasant surprise for the band. After the commer
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Holes | 5:55 |
-| A2 | Tonite It Shows | 3:40 |
-| A3 | Endlessly | 4:25 |
-| A4 | I Collect Coins | 1:27 |
-| A5 | Opus 40 | 5:10 |
-| A6 | Hudson Line | 2:54 |
-| B1 | The Happy End (The Drunk Room) | 2:06 |
-| B2 | Goddess On A Hiway | 3:45 |
-| B3 | The Funny Bird | 5:51 |
-| B4 | Pick Up If You're There | 3:05 |
-| B5 | Delta Sun Bottleneck Stomp | 6:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Holes |
+| A2 | Tonite It Shows |
+| A3 | Endlessly |
+| A4 | I Collect Coins |
+| A5 | Opus 40 |
+| A6 | Hudson Line |
+| B1 | The Happy End (The Drunk Room) |
+| B2 | Goddess On A Hiway |
+| B3 | The Funny Bird |
+| B4 | Pick Up If You're There |
+| B5 | Delta Sun Bottleneck Stomp |
 
 
 ## Apple Music

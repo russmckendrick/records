@@ -25,18 +25,18 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Whatever You Want | 4:03 |
-| A2 | Shady Lady | 3:00 |
-| A3 | Who Asked You | 3:57 |
-| A4 | Your Smiling Face | 4:22 |
-| A5 | Living On An Island | 4:50 |
-| B1 | Come Rock With Me |  |
-| B2 | Rockin' On | 6:41 |
-| B3 | Runaway | 4:38 |
-| B4 | High Flyer | 3:50 |
-| B5 | Breaking Away | 6:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Whatever You Want |
+| A2 | Shady Lady |
+| A3 | Who Asked You |
+| A4 | Your Smiling Face |
+| A5 | Living On An Island |
+| B1 | Come Rock With Me |
+| B2 | Rockin' On |
+| B3 | Runaway |
+| B4 | High Flyer |
+| B5 | Breaking Away |
 
 
 ## Apple Music

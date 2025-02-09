@@ -42,23 +42,23 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Wouldn't Want To Say |  |
-| A2 | Apples From A Tree |  |
-| A3 | This Game Of Love |  |
-| A4 | Ketamine |  |
-| B1 | Bleed All Over |  |
-| B2 | Churchbells Ghosts |  |
-| B3 | Internal Hourglass Discussion |  |
-| B4 | Stockholm City Blues |  |
-| C1 | Skeleton Key |  |
-| C2 | Daylight In The Nocturnal House |  |
-| C3 | Ballad Of A Dying Rover |  |
-| D1 | Hanging On (For DRC) |  |
-| D2 | Burying Ground |  |
-| D3 | At Zero Below |  |
-| D4 | Eden Lost And Found |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Wouldn't Want To Say |
+| A2 | Apples From A Tree |
+| A3 | This Game Of Love |
+| A4 | Ketamine |
+| B1 | Bleed All Over |
+| B2 | Churchbells Ghosts |
+| B3 | Internal Hourglass Discussion |
+| B4 | Stockholm City Blues |
+| C1 | Skeleton Key |
+| C2 | Daylight In The Nocturnal House |
+| C3 | Ballad Of A Dying Rover |
+| D1 | Hanging On (For DRC) |
+| D2 | Burying Ground |
+| D3 | At Zero Below |
+| D4 | Eden Lost And Found |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear Crystal, 180 gram) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP178C |
-| Notes | Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download<br><br>Download code sticker on inner sleeve<br><br>On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS].<br>Made in the EU. |
+| Notes | Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU. |
 | Discogs URL    | [Mark Lanegan - Straight Songs Of Sorrow](https://www.discogs.com/release/15264315-Mark-Lanegan-Straight-Songs-Of-Sorrow) |

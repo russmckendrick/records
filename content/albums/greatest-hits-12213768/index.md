@@ -44,26 +44,26 @@ The compilation was commercially successful, hitting number one on the Billboard
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Born To Run |  |
-| A2 | Thunder Road |  |
-| A3 | Badlands |  |
-| A4 | The River |  |
-| B1 | Hungry Heart |  |
-| B2 | Atlantic City |  |
-| B3 | Dancing In The Dark |  |
-| B4 | Born In The U.S.A. |  |
-| B5 | My Hometown |  |
-| C1 | Glory Days |  |
-| C2 | Brilliant Disguise |  |
-| C3 | Human Touch |  |
-| C4 | Better Days |  |
-| C5 | Streets Of Philadelphia |  |
-| D1 | Secret Garden |  |
-| D2 | Murder Incorporated |  |
-| D3 | Blood Brothers |  |
-| D4 | This Hard Land |  |
+| Position | Title |
+|----------|--------|
+| A1 | Born To Run |
+| A2 | Thunder Road |
+| A3 | Badlands |
+| A4 | The River |
+| B1 | Hungry Heart |
+| B2 | Atlantic City |
+| B3 | Dancing In The Dark |
+| B4 | Born In The U.S.A. |
+| B5 | My Hometown |
+| C1 | Glory Days |
+| C2 | Brilliant Disguise |
+| C3 | Human Touch |
+| C4 | Better Days |
+| C5 | Streets Of Philadelphia |
+| D1 | Secret Garden |
+| D2 | Murder Incorporated |
+| D3 | Blood Brothers |
+| D4 | This Hard Land |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ The compilation was commercially successful, hitting number one on the Billboard
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gr.) |
 | Label          | Columbia |
 | Catalog Number | 19075820661 |
-| Notes | Made in the EU.<br>Issued in a gatefold sleeve with two printed inner sleeves and a download code. |
+| Notes | Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code. |
 | Discogs URL    | [Bruce Springsteen - Greatest Hits](https://www.discogs.com/release/12213768-Bruce-Springsteen-Greatest-Hits) |

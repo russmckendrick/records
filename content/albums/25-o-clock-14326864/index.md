@@ -33,14 +33,14 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 25 O'Clock |  |
-| A2 | Bike Ride To The Moon |  |
-| A3 | My Love Explodes |  |
-| B1 | What In The World??... |  |
-| B2 | Your Gold Dress |  |
-| B3 | The Mole From The Ministry |  |
+| Position | Title |
+|----------|--------|
+| A1 | 25 O'Clock |
+| A2 | Bike Ride To The Moon |
+| A3 | My Love Explodes |
+| B1 | What In The World??... |
+| B2 | Your Gold Dress |
+| B3 | The Mole From The Ministry |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 | Format         | Vinyl 12" 33 ⅓ RPM Mini-Album Reissue Repress Stereo (Gatefold, 200gr) |
 | Label          | Ape House |
 | Catalog Number | APELP023 |
-| Notes | 2019 reissue.<br><br>No track times on this issue.<br>Made in England<br><br>Back cover:<br>"All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"<br><br>Liner notes:<br>Captured gently at Chapel Lane Studios, Hereford<br><br>Mastering credit to [a147827] per liner notes.<br><br>Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side. |
+| Notes | 2019 reissue.  No track times on this issue. Made in England  Back cover: "All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"  Liner notes: Captured gently at Chapel Lane Studios, Hereford  Mastering credit to [a147827] per liner notes.  Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side. |
 | Discogs URL    | [XTC - 25 O'Clock](https://www.discogs.com/release/14326864-XTC-As-The-Dukes-Of-Stratosphear-25-OClock) |

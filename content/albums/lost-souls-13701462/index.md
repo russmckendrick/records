@@ -36,20 +36,20 @@ Lost Souls was considered by many to be the best debut album by a British act si
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Firesuite |  |
-| A2 | Here It Comes  |  |
-| A3 | Break Me Gently |  |
-| B4 | Sea Song |  |
-| B5 | Rise |  |
-| B6 | Lost Souls |  |
-| C7 | Melody Calls |  |
-| C8 | Catch The Sun |  |
-| C9 | The Man Who Told Everything  |  |
-| D10 | The Cedar Room |  |
-| D11 | Reprise |  |
-| D12 | A House  |  |
+| Position | Title |
+|----------|--------|
+| A1 | Firesuite |
+| A2 | Here It Comes  |
+| A3 | Break Me Gently |
+| B4 | Sea Song |
+| B5 | Rise |
+| B6 | Lost Souls |
+| C7 | Melody Calls |
+| C8 | Catch The Sun |
+| C9 | The Man Who Told Everything  |
+| D10 | The Cedar Room |
+| D11 | Reprise |
+| D12 | A House  |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Lost Souls was considered by many to be the best debut album by a British act si
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
 | Label          | Heavenly |
 | Catalog Number | 7748262 |
-| Notes | This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url]<br>℗ 2000 [l26760]<br>© 2019 [l26760]<br>made in e.u.<br><br>Comes with a [l1052727] download coupon. |
+| Notes | This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url] ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon. |
 | Discogs URL    | [Doves - Lost Souls ](https://www.discogs.com/release/13701462-Doves-Lost-Souls-) |

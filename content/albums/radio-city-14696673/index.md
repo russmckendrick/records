@@ -34,20 +34,20 @@ It was voted number 319 in the third edition of Colin Larkin's All Time Top 1000
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | O My Soul | 5:35 |
-| A2 | Life Is White | 3:18 |
-| A3 | Way Out West | 2:46 |
-| A4 | What's Goin Ahn | 2:37 |
-| A5 | You Get What You Deserve | 3:05 |
-| B1 | Mod Lang | 2:42 |
-| B2 | Back Of A Car | 2:42 |
-| B3 | Daisy Glaze | 3:49 |
-| B4 | She's A Mover | 3:09 |
-| B5 | September Gurls | 2:46 |
-| B6 | Morpha Too | 1:28 |
-| B7 | I'm In Love With A Girl | 1:45 |
+| Position | Title |
+|----------|--------|
+| A1 | O My Soul |
+| A2 | Life Is White |
+| A3 | Way Out West |
+| A4 | What's Goin Ahn |
+| A5 | You Get What You Deserve |
+| B1 | Mod Lang |
+| B2 | Back Of A Car |
+| B3 | Daisy Glaze |
+| B4 | She's A Mover |
+| B5 | September Gurls |
+| B6 | Morpha Too |
+| B7 | I'm In Love With A Girl |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ It was voted number 319 in the third edition of Colin Larkin's All Time Top 1000
 | Format         | Vinyl LP Album Reissue Stereo Mono (180g) |
 | Label          | Ardent Records (2) |
 | Catalog Number | ADS-1501 |
-| Notes | Red, black, and white hype sticker from Craft Recordings<br>All-analog mastering<br>Tip-on Sleeve<br>A1 is mono.  All other tracks are stereo<br><br>From back cover:<br>Photographs by Bill Eggleston/Cenotaph January 1974<br>℗ 2019 & © 1973 Craft Recordings Made in U.S.A.<br><br>On label:<br>All tracks published by Koala/Birdees (ASCAP)<br><br>Runout details:<br>Variant 1 -- Both sides are etched.<br>Variant 2 -- Stamped vs etched state not specified<br>Variant 3 -- Both sides are etched. On side A '10#' has been scratched out<br>Variant 4 -- Both sides are etched.<br><br>Track A1 is listed as "O My Soul" on the back cover, and "O, My Soul" on the label. |
+| Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Tip-on Sleeve A1 is mono.  All other tracks are stereo  From back cover: Photographs by Bill Eggleston/Cenotaph January 1974 ℗ 2019 & © 1973 Craft Recordings Made in U.S.A.  On label: All tracks published by Koala/Birdees (ASCAP)  Runout details: Variant 1 -- Both sides are etched. Variant 2 -- Stamped vs etched state not specified Variant 3 -- Both sides are etched. On side A '10#' has been scratched out Variant 4 -- Both sides are etched.  Track A1 is listed as "O My Soul" on the back cover, and "O, My Soul" on the label. |
 | Discogs URL    | [Big Star - Radio City](https://www.discogs.com/release/14696673-Big-Star-Radio-City) |

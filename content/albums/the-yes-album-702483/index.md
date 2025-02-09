@@ -32,14 +32,14 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Yours Is No Disgrace | 9:36 |
-| A2 | The Clap | 3:07 |
-|  | Starship Trooper | 9:23 |
-|  | I've Seen All Good People | 6:47 |
-| B2 | A Venture | 3:13 |
-| B3 | Perpetual Change | 8:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Yours Is No Disgrace |
+| A2 | The Clap |
+|  | Starship Trooper |
+|  | I've Seen All Good People |
+| B2 | A Venture |
+| B3 | Perpetual Change |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 | Format         | Vinyl LP Album Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 40 106 |
-| Notes | First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.<br><br>Recorded at Advision Studios, London, Autumn 1970.<br>Track A2 recorded live, Lyceum London<br>℗ 1971 Atlantic Records<br> |
+| Notes | First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.  Recorded at Advision Studios, London, Autumn 1970. Track A2 recorded live, Lyceum London ℗ 1971 Atlantic Records  |
 | Discogs URL    | [Yes - The Yes Album](https://www.discogs.com/release/702483-Yes-The-Yes-Album) |

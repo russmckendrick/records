@@ -25,19 +25,19 @@ styles: ["Alternative Rock", "Funk Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Selling Jesus |  |
-| A2 | Intellectualise My Blackness |  |
-| A3 | I Can Dream |  |
-| B1 | Little Baby Swastikkka |  |
-| B2 | All In The Name Of Pity |  |
-| B3 | Charity |  |
-| C1 | It Takes Blood & Guts To Be This Cool But I´m Still Just A Cliche |  |
-| C2 | Weak |  |
-| C3 | And Here I Stand |  |
-| D1 | 100 Ways To Be A Good Girl |  |
-| D2 | Rise Up |  |
+| Position | Title |
+|----------|--------|
+| A1 | Selling Jesus |
+| A2 | Intellectualise My Blackness |
+| A3 | I Can Dream |
+| B1 | Little Baby Swastikkka |
+| B2 | All In The Name Of Pity |
+| B3 | Charity |
+| C1 | It Takes Blood & Guts To Be This Cool But I´m Still Just A Cliche |
+| C2 | Weak |
+| C3 | And Here I Stand |
+| D1 | 100 Ways To Be A Good Girl |
+| D2 | Rise Up |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Format         | Vinyl 2× LP 45 RPM Limited Edition Numbered Reissue Remastered (200 Gram) |
 | Label          | One Little Indian |
 | Catalog Number | TPLP55DMM |
-| Notes | Huge round sticker on front that states the following:<br>One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.<br>All original artwork used, may not represent new side splits. |
+| Notes | Huge round sticker on front that states the following:  One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.  All original artwork used, may not represent new side splits. |
 | Discogs URL    | [Skunk Anansie - Paranoid & Sunburnt](https://www.discogs.com/release/3270870-Skunk-Anansie-Paranoid-Sunburnt) |

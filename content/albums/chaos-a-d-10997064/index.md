@@ -33,36 +33,36 @@ styles: ["Thrash", "Death Metal"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Chaos A.D. (2017 Remaster) |  |
-| A1 | Refuse/Resist | 3:19 |
-| A2 | Territory | 4:47 |
-| A3 | Slave New World | 2:54 |
-| A4 | Amen | 4:27 |
-| A5 | Kaiowas | 3:43 |
-| A6 | Propaganda | 3:32 |
-| B1 | Biotech Is Godzilla | 1:52 |
-| B2 | Nomad | 4:58 |
-| B3 | We Who Are Not As Others | 3:42 |
-| B4 | Manifest | 4:46 |
-| B5 | The Hunt | 3:59 |
-| B6 | Clenched Fist | 4:57 |
-|  | Bonus Tracks |  |
-| C1 | Chaos B.C. | 5:12 |
-| C2 | Symptom Of The Universe (Black Sabbath Cover) | 4:15 |
-| C3 | Inhuman Nature | 3:08 |
-| C4 | Policia | 1:46 |
-| C5 | Crucificados Pelo Sistema | 1:04 |
-| C6 | Propaganda (Instrumental Writing Session) | 1:52 |
-| C7 | Clenched Fist (Instrumental Writing Session Ver. 2) | 2:52 |
-| D1 | Refuse/Resist (Live) | 3:50 |
-| D2 | Slave New World (Live) | 3:06 |
-| D3 | Propaganda (Live) | 3:25 |
-| D4 | Kaiowas (Live) | 2:18 |
-| D5 | Clenched Fist (Live) | 3:38 |
-| D6 | Biotech Is Godzilla (Live) | 2:08 |
-| D7 | Territory (Live) | 4:48 |
+| Position | Title |
+|----------|--------|
+|  | Chaos A.D. (2017 Remaster) |
+| A1 | Refuse/Resist |
+| A2 | Territory |
+| A3 | Slave New World |
+| A4 | Amen |
+| A5 | Kaiowas |
+| A6 | Propaganda |
+| B1 | Biotech Is Godzilla |
+| B2 | Nomad |
+| B3 | We Who Are Not As Others |
+| B4 | Manifest |
+| B5 | The Hunt |
+| B6 | Clenched Fist |
+|  | Bonus Tracks |
+| C1 | Chaos B.C. |
+| C2 | Symptom Of The Universe (Black Sabbath Cover) |
+| C3 | Inhuman Nature |
+| C4 | Policia |
+| C5 | Crucificados Pelo Sistema |
+| C6 | Propaganda (Instrumental Writing Session) |
+| C7 | Clenched Fist (Instrumental Writing Session Ver. 2) |
+| D1 | Refuse/Resist (Live) |
+| D2 | Slave New World (Live) |
+| D3 | Propaganda (Live) |
+| D4 | Kaiowas (Live) |
+| D5 | Clenched Fist (Live) |
+| D6 | Biotech Is Godzilla (Live) |
+| D7 | Territory (Live) |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ styles: ["Thrash", "Death Metal"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold 180gr) |
 | Label          | Roadrunner Records |
 | Catalog Number | 081227934248 |
-| Notes | Newly remastered on 180gr vinyls.<br>The second and bonus LP contains rare and unreleased demos, cover versions and live tracks.<br>Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.<br><br>LP2 - Side D: Live In Minneapolis (1994) |
+| Notes | Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994) |
 | Discogs URL    | [Sepultura - Chaos A.D.](https://www.discogs.com/release/10997064-Sepultura-Chaos-AD) |

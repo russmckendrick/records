@@ -30,28 +30,28 @@ By June 2004, Margerine Eclipse had sold over 40,000 copies in the USA. A remast
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Vonal Declosion |  |
-| A2 | Need To Be |  |
-| A3 | "...Sudden Stars" |  |
-| B1 | Cosmic Country Noir |  |
-| B2 | La Demeure |  |
-| B3 | Margerine Rock |  |
-| C1 | The Man With 100 Cells |  |
-| C2 | Margerine Melodie |  |
-| C3 | Hillbilly Motobike |  |
-| D1 | Feel And Triple |  |
-| D2 | Bop Scotch |  |
-| D3 | Dear Marge |  |
-| E1 | Mass Riff |  |
-| E2 | Good Is Me |  |
-| E3 | Microclimate |  |
-| E4 | Mass Riff Instrumental |  |
-| F1 | Jaunty Monty And The Bubbles Of Silence |  |
-| F2 | Banana Monster Ne Répond Plus |  |
-| F3 | University Microfilms International |  |
-| F4 | Rose, My Rocket-Brain! (Rose, Le Cerveau Electronique de Ma Fusée!) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Vonal Declosion |
+| A2 | Need To Be |
+| A3 | "...Sudden Stars" |
+| B1 | Cosmic Country Noir |
+| B2 | La Demeure |
+| B3 | Margerine Rock |
+| C1 | The Man With 100 Cells |
+| C2 | Margerine Melodie |
+| C3 | Hillbilly Motobike |
+| D1 | Feel And Triple |
+| D2 | Bop Scotch |
+| D3 | Dear Marge |
+| E1 | Mass Riff |
+| E2 | Good Is Me |
+| E3 | Microclimate |
+| E4 | Mass Riff Instrumental |
+| F1 | Jaunty Monty And The Bubbles Of Silence |
+| F2 | Banana Monster Ne Répond Plus |
+| F3 | University Microfilms International |
+| F4 | Rose, My Rocket-Brain! (Rose, Le Cerveau Electronique de Ma Fusée!) |
 
 
 ## Apple Music

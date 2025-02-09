@@ -35,24 +35,24 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Space Program | 5:40 |
-| A2 | We The People.... | 2:52 |
-| A3 | Whateva Will Be | 2:52 |
-| A4 | Solid Wall of Sound | 3:43 |
-| B1 | Dis Generation | 3:33 |
-| B2 | Kids...  | 3:48 |
-| B3 | Melatonin | 4:44 |
-| B4 | Enough!! | 3:20 |
-| C1 | Mobius | 2:51 |
-| C2 | Black Spasmodic | 3:03 |
-| C3 | The Killing Season | 2:43 |
-| C4 | Lost Somebody | 4:18 |
-| D1 | Movin Backwards | 4:41 |
-| D2 | Conrad Tokyo | 3:31 |
-| D3 | Ego | 3:17 |
-| D4 | The Donald | 5:22 |
+| Position | Title |
+|----------|--------|
+| A1 | The Space Program |
+| A2 | We The People.... |
+| A3 | Whateva Will Be |
+| A4 | Solid Wall of Sound |
+| B1 | Dis Generation |
+| B2 | Kids...  |
+| B3 | Melatonin |
+| B4 | Enough!! |
+| C1 | Mobius |
+| C2 | Black Spasmodic |
+| C3 | The Killing Season |
+| C4 | Lost Somebody |
+| D1 | Movin Backwards |
+| D2 | Conrad Tokyo |
+| D3 | Ego |
+| D4 | The Donald |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 | Format         | Vinyl 2× LP Album |
 | Label          | Epic |
 | Catalog Number | 88985377871 |
-| Notes | B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA<br><br>Made in the EU.<br> |
+| Notes | B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU.  |
 | Discogs URL    | [A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service](https://www.discogs.com/release/9579770-A-Tribe-Called-Quest-We-Got-It-From-HereThank-You-4-Your-Service) |

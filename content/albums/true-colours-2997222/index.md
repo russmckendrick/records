@@ -25,19 +25,19 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Got You | 3:24 |
-| A2 | Shark Attack | 2:52 |
-| A3 | What's The Matter With You | 3:02 |
-| A4 | Double Happy | 3:15 |
-| A5 | I Wouldn't Dream Of It | 3:14 |
-| A6 | I Hope I Never | 4:26 |
-| B1 | Nobody Takes Me Seriously | 3:24 |
-| B2 | Missing Person | 3:32 |
-| B3 | Poor Boy | 3:19 |
-| B4 | How Can I Resist Her | 3:26 |
-| B5 | The Choral Sea | 4:29 |
+| Position | Title |
+|----------|--------|
+| A1 | I Got You |
+| A2 | Shark Attack |
+| A3 | What's The Matter With You |
+| A4 | Double Happy |
+| A5 | I Wouldn't Dream Of It |
+| A6 | I Hope I Never |
+| B1 | Nobody Takes Me Seriously |
+| B2 | Missing Person |
+| B3 | Poor Boy |
+| B4 | How Can I Resist Her |
+| B5 | The Choral Sea |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 | Format         | Vinyl LP Album Etched (Violet cover) |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68422 |
-| Notes | Released with a special inner sleeve. Silver hype sticker on sleeve "Limited Edition Laser-Etched Disc AMLH 64822"<br><br>Holographic etched vinyl. <br>Recorded at Armstrongs, Melbourne, Australia.<br>A Boomerang production.<br>© 1980 A&M Records Ltd.<br>℗ 1979 Mushroom Records Pty. Ltd. Australia.<br> |
+| Notes | Released with a special inner sleeve. Silver hype sticker on sleeve "Limited Edition Laser-Etched Disc AMLH 64822"  Holographic etched vinyl.  Recorded at Armstrongs, Melbourne, Australia. A Boomerang production. © 1980 A&M Records Ltd. ℗ 1979 Mushroom Records Pty. Ltd. Australia.  |
 | Discogs URL    | [Split Enz - True Colours](https://www.discogs.com/release/2997222-Split-Enz-True-Colours) |

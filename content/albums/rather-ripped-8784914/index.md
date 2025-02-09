@@ -36,20 +36,20 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Reena | 3:47 |
-| A2 | Incinerate | 4:55 |
-| A3 | Do You Believe In Rapture? | 3:11 |
-| A4 | Sleepin' Around | 3:42 |
-| A5 | What A Waste | 3:33 |
-| A6 | Jams Run Free | 3:51 |
-| B1 | Rats | 4:24 |
-| B2 | Turquoise Boy | 6:13 |
-| B3 | Lights Out | 3:32 |
-| B4 | The Neutral | 4:09 |
-| B5 | Pink Steam | 6:57 |
-| B6 | Or | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | Reena |
+| A2 | Incinerate |
+| A3 | Do You Believe In Rapture? |
+| A4 | Sleepin' Around |
+| A5 | What A Waste |
+| A6 | Jams Run Free |
+| B1 | Rats |
+| B2 | Turquoise Boy |
+| B3 | Lights Out |
+| B4 | The Neutral |
+| B5 | Pink Steam |
+| B6 | Or |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547491831 |
-| Notes | Includes a voucher to download MP3 version of the album. Later pressings does not include download voucher. Later pressings come in poly-lined inner sleeve, and a printed sheet of credits.<br>Made in the EU. Later pressings have sticker on back of cover reading “MADE IN CZECH REPUBLIC”.<br><br><br> |
+| Notes | Includes a voucher to download MP3 version of the album. Later pressings does not include download voucher. Later pressings come in poly-lined inner sleeve, and a printed sheet of credits. Made in the EU. Later pressings have sticker on back of cover reading “MADE IN CZECH REPUBLIC”.    |
 | Discogs URL    | [Sonic Youth - Rather Ripped](https://www.discogs.com/release/8784914-Sonic-Youth-Rather-Ripped) |

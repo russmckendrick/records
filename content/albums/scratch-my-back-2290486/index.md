@@ -30,20 +30,20 @@ Scratch My Back was initially released on compact disc and as music download; a 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Heroes | 4:10 |
-| A2 | The Boy In The Bubble | 4:28 |
-| A3 | Mirrorball | 4:48 |
-| A4 | Flume | 3:01 |
-| A5 | Listening Wind | 4:23 |
-| A6 | The Power Of The Heart | 5:52 |
-| B1 | My Body Is A Cage | 6:13 |
-| B2 | The Book Of Love | 3:53 |
-| B3 | I Think It's Going To Rain Today | 2:34 |
-| B4 | Après Moi | 5:13 |
-| B5 | Philadelphia | 3:46 |
-| B6 | Street Spirit (Fade Out) | 5:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Heroes |
+| A2 | The Boy In The Bubble |
+| A3 | Mirrorball |
+| A4 | Flume |
+| A5 | Listening Wind |
+| A6 | The Power Of The Heart |
+| B1 | My Body Is A Cage |
+| B2 | The Book Of Love |
+| B3 | I Think It's Going To Rain Today |
+| B4 | Après Moi |
+| B5 | Philadelphia |
+| B6 | Street Spirit (Fade Out) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Scratch My Back was initially released on compact disc and as music download; a 
 | Format         | Vinyl LP Album (200g) |
 | Label          | Real World Records |
 | Catalog Number | PGLP12 |
-| Notes | Issued on 200 gram vinyl in a deluxe gatefold jacket.<br><br>Classic Records reissue on 200 gram QUIEX SV-P. |
+| Notes | Issued on 200 gram vinyl in a deluxe gatefold jacket.  Classic Records reissue on 200 gram QUIEX SV-P. |
 | Discogs URL    | [Peter Gabriel - Scratch My Back](https://www.discogs.com/release/2290486-Peter-Gabriel-Scratch-My-Back) |

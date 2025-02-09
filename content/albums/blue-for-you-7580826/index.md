@@ -37,17 +37,17 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Is There A Better Way |  |
-| A2 | Mad About The Boy |  |
-| A3 | Ring Of A Change |  |
-| A4 | Blue For You |  |
-| A5 | Rain |  |
-| B1 | Rolling Home |  |
-| B2 | That's A Fact |  |
-| B3 | Ease Your Mind |  |
-| B4 | Mystery Song |  |
+| Position | Title |
+|----------|--------|
+| A1 | Is There A Better Way |
+| A2 | Mad About The Boy |
+| A3 | Ring Of A Change |
+| A4 | Blue For You |
+| A5 | Rain |
+| B1 | Rolling Home |
+| B2 | That's A Fact |
+| B3 | Ease Your Mind |
+| B4 | Mystery Song |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723766 |
-| Notes | Gatefold sleeve. <br>Comes with printed inner sleeve and a poster. 180 gram Vinyl.<br><br>© 1976 Mercury Records Limited/Universal Music Catalogue<br>℗ 1976 Mercury Records Limited |
+| Notes | Gatefold sleeve.  Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1976 Mercury Records Limited/Universal Music Catalogue ℗ 1976 Mercury Records Limited |
 | Discogs URL    | [Status Quo - Blue For You](https://www.discogs.com/release/7580826-Status-Quo-Blue-For-You) |

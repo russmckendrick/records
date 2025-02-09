@@ -42,12 +42,12 @@ Journey to the Centre of the Earth was overall well received by music critics. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Journey |  |
-| A2 | Recollection |  |
-| B1 | The Battle |  |
-| B2 | The Forest |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Journey |
+| A2 | Recollection |
+| B1 | The Battle |
+| B2 | The Forest |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Journey to the Centre of the Earth was overall well received by music critics. I
 | Format         | Vinyl LP Album Stereo (Gatefold Sleeve) |
 | Label          | A&M Records |
 | Catalog Number | AMLH 63621 |
-| Notes | Recorded in concert at The Royal Festival Hall London on Friday January 18th 1974.  Production narrated by David Hemmings.<br><br>Recorded by Ronnie Lane’s “Lyn Mobile Studio”.<br>Mixed at Morgan Studios, London on 21st-29th January 1974.<br><br>Rondor Music (London) Ltd.<br><br>Garry Pickford-Hopkins appears by courtesy of Chrysalis Records Ltd.<br><br>Sleeve printed and made in England by Gothic Print Finshers Ltd., London, SE9.<br>Released with a booklet fixed into the center of the GF sleeve. The sleeves inner panels effectively make up the first 2 pages of the booklet.<br>Different label image on [r449230] |
+| Notes | Recorded in concert at The Royal Festival Hall London on Friday January 18th 1974.  Production narrated by David Hemmings.  Recorded by Ronnie Lane’s “Lyn Mobile Studio”. Mixed at Morgan Studios, London on 21st-29th January 1974.  Rondor Music (London) Ltd.  Garry Pickford-Hopkins appears by courtesy of Chrysalis Records Ltd.  Sleeve printed and made in England by Gothic Print Finshers Ltd., London, SE9. Released with a booklet fixed into the center of the GF sleeve. The sleeves inner panels effectively make up the first 2 pages of the booklet. Different label image on [r449230] |
 | Discogs URL    | [Rick Wakeman - Journey To The Centre Of The Earth](https://www.discogs.com/release/1606192-Rick-Wakeman-Journey-To-The-Centre-Of-The-Earth) |

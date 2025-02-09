@@ -40,20 +40,20 @@ The rest of <i>The Bends</i> is just as invigorating. Though these are recognisa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Planet Telex | 4:22 |
-| A2 | The Bends | 3:58 |
-| A3 | High And Dry | 4:17 |
-| A4 | Fake Plastic Trees | 4:50 |
-| A5 | Bones | 3:07 |
-| A6 | (Nice Dream) | 3:51 |
-| B1 | Just | 3:52 |
-| B2 | My Iron Lung | 4:36 |
-| B3 | Bullet Proof..I Wish I Was | 3:28 |
-| B4 | Black Star | 4:03 |
-| B5 | Sulk | 3:42 |
-| B6 | Street Spirit (Fade Out) | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Planet Telex |
+| A2 | The Bends |
+| A3 | High And Dry |
+| A4 | Fake Plastic Trees |
+| A5 | Bones |
+| A6 | (Nice Dream) |
+| B1 | Just |
+| B2 | My Iron Lung |
+| B3 | Bullet Proof..I Wish I Was |
+| B4 | Black Star |
+| B5 | Sulk |
+| B6 | Street Spirit (Fade Out) |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The rest of <i>The Bends</i> is just as invigorating. Though these are recognisa
 | Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 7243 8 29626 1 8 |
-| Notes | 2008 US reissue of original 1995 UK vinyl release (first US vinyl issue).<br><br>Hype sticker on shrinkwrap on some copies:<br>"From The Capitol Vaults 180 Gram Vinyl Audiophile Quality Faithfully Restored Limited Edition"<br><br>Includes a cardstock inner sleeve with lyrics, credits, artwork, and graphics / photo collage.<br><br>First catalog number (7243 8 29626 1 8) on jacket, inner sleeve.<br>Second catalog number (8296261) on labels.<br><br>Track B3 title on labels: Bullet Proof...I Wish I Was<br><br>Runouts are mostly etched, mastering stamped.<br><br>Recorded at RAK, The Manor & Abbey Road.<br>Mixed at Fort Apache & Abbey Road.<br>Mastered & digitally edited at Abbey Road.<br><br>Dedicated to the late Bill Hicks. Also to Indigo.<br><br> ℗ 1995 except side 2, track 2 ℗ 1994 EMI Records Ltd. © 1995 EMI Records Ltd. |
+| Notes | 2008 US reissue of original 1995 UK vinyl release (first US vinyl issue).  Hype sticker on shrinkwrap on some copies: "From The Capitol Vaults 180 Gram Vinyl Audiophile Quality Faithfully Restored Limited Edition"  Includes a cardstock inner sleeve with lyrics, credits, artwork, and graphics / photo collage.  First catalog number (7243 8 29626 1 8) on jacket, inner sleeve. Second catalog number (8296261) on labels.  Track B3 title on labels: Bullet Proof...I Wish I Was  Runouts are mostly etched, mastering stamped.  Recorded at RAK, The Manor & Abbey Road. Mixed at Fort Apache & Abbey Road. Mastered & digitally edited at Abbey Road.  Dedicated to the late Bill Hicks. Also to Indigo.   ℗ 1995 except side 2, track 2 ℗ 1994 EMI Records Ltd. © 1995 EMI Records Ltd. |
 | Discogs URL    | [Radiohead - The Bends](https://www.discogs.com/release/1594061-Radiohead-The-Bends) |

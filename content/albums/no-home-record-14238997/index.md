@@ -33,17 +33,17 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sketch Artist |  |
-| A2 | Air BnB |  |
-| A3 | Paprika Pony |  |
-| A4 | Murdered Out |  |
-| A5 | Don't Play It |  |
-| B1 | Cookie Butter |  |
-| B2 | Hungry Baby |  |
-| B3 | Earthquake |  |
-| B4 | Get Yr Life Back |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sketch Artist |
+| A2 | Air BnB |
+| A3 | Paprika Pony |
+| A4 | Murdered Out |
+| A5 | Don't Play It |
+| B1 | Cookie Butter |
+| B2 | Hungry Baby |
+| B3 | Earthquake |
+| B4 | Get Yr Life Back |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 | Format         | Vinyl LP Album Limited Edition Stereo (White) |
 | Label          | Matador |
 | Catalog Number | OLE-1379LPE |
-| Notes | Includes a custom inner sleeve and a download coupon.<br><br>Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.<br><br>℗ & © 2019 Matador Records 134 Grand Street NYC 10013<br><br>Recorded at Sphere Ranch at Paulie's Kro East Studios<br><br>Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC |
+| Notes | Includes a custom inner sleeve and a download coupon.  Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.  ℗ & © 2019 Matador Records 134 Grand Street NYC 10013  Recorded at Sphere Ranch at Paulie's Kro East Studios  Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC |
 | Discogs URL    | [Kim Gordon - No Home Record](https://www.discogs.com/release/14238997-Kim-Gordon-No-Home-Record) |

@@ -36,18 +36,18 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Skin Blue Eyed Boys |  |
-| A2 | B.L.M. |  |
-| A3 | Vote For Me |  |
-| A4 | The Lunatics |  |
-| A5 | Breaking Point |  |
-| B1 | Blam Blam Fever |  |
-| B2 | 10 Commandments |  |
-| B3 | Embarrassed By You |  |
-| B4 | The Life And Times (Of A Man Called Depression) |  |
-| B5 | We Sell Hope |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Skin Blue Eyed Boys |
+| A2 | B.L.M. |
+| A3 | Vote For Me |
+| A4 | The Lunatics |
+| A5 | Breaking Point |
+| B1 | Blam Blam Fever |
+| B2 | 10 Commandments |
+| B3 | Embarrassed By You |
+| B4 | The Life And Times (Of A Man Called Depression) |
+| B5 | We Sell Hope |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 7721103 |
-| Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits.<br>Made in the E.U<br><br>Embossed front cover |
+| Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover |
 | Discogs URL    | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |

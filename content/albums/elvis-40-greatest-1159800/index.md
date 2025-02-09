@@ -32,48 +32,48 @@ It was originally pressed with a brown cover and doctored image of Elvis, with b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | My Baby Left Me |  |
-| A2 | Heartbreak Hotel |  |
-| A3 | Blue Suede Shoes |  |
-| A4 | Hound Dog |  |
-| A5 | Love Me Tender |  |
-| A6 | Got A Lot O' Livin' To Do |  |
-| A7 | (Let Me Be Your) Teddy Bear |  |
-| A8 | Party |  |
-| A9 | All Shook Up |  |
-| A10 | Old Shep |  |
-| B1 | Don't |  |
-| B2 | Hard Headed Woman |  |
-| B3 | Kring Creole |  |
-| B4 | Jailhouse Rock |  |
-| B5 | A Big Hunk O' Love |  |
-| B6 | I Got Stung |  |
-| B7 | One Night |  |
-| B8 | (Now And Then There's) A Fool Such As I |  |
-| B9 | I Need Your Love Tonight |  |
-| B10 | Stuck On You |  |
-| C1 | Fever |  |
-| C2 | It's Now Or Never |  |
-| C3 | Are You Lonesome Tonight? |  |
-| C4 | Wooden Heart |  |
-| C5 | Surrender |  |
-| C6 | (Marie's The Name) His Latest Flame |  |
-| C7 | Wild In The Country |  |
-| C8 | There's Always Me |  |
-| C9 | Rock-A-Hula Baby |  |
-| C10 | Can't Help Falling In Love With You |  |
-| D1 | Good Luck Charm |  |
-| D2 | She's Not You |  |
-| D3 | Return To Sender |  |
-| D4 | You're The Devil In Disguise |  |
-| D5 | Crying In The Chapel |  |
-| D6 | Guitar Man |  |
-| D7 | In The Ghetto |  |
-| D8 | Suspicious Minds |  |
-| D9 | There Goes My Everything |  |
-| D10 | Don't Cry Daddy |  |
+| Position | Title |
+|----------|--------|
+| A1 | My Baby Left Me |
+| A2 | Heartbreak Hotel |
+| A3 | Blue Suede Shoes |
+| A4 | Hound Dog |
+| A5 | Love Me Tender |
+| A6 | Got A Lot O' Livin' To Do |
+| A7 | (Let Me Be Your) Teddy Bear |
+| A8 | Party |
+| A9 | All Shook Up |
+| A10 | Old Shep |
+| B1 | Don't |
+| B2 | Hard Headed Woman |
+| B3 | Kring Creole |
+| B4 | Jailhouse Rock |
+| B5 | A Big Hunk O' Love |
+| B6 | I Got Stung |
+| B7 | One Night |
+| B8 | (Now And Then There's) A Fool Such As I |
+| B9 | I Need Your Love Tonight |
+| B10 | Stuck On You |
+| C1 | Fever |
+| C2 | It's Now Or Never |
+| C3 | Are You Lonesome Tonight? |
+| C4 | Wooden Heart |
+| C5 | Surrender |
+| C6 | (Marie's The Name) His Latest Flame |
+| C7 | Wild In The Country |
+| C8 | There's Always Me |
+| C9 | Rock-A-Hula Baby |
+| C10 | Can't Help Falling In Love With You |
+| D1 | Good Luck Charm |
+| D2 | She's Not You |
+| D3 | Return To Sender |
+| D4 | You're The Devil In Disguise |
+| D5 | Crying In The Chapel |
+| D6 | Guitar Man |
+| D7 | In The Ghetto |
+| D8 | Suspicious Minds |
+| D9 | There Goes My Everything |
+| D10 | Don't Cry Daddy |
 
 
 ## Apple Music
@@ -91,5 +91,5 @@ It was originally pressed with a brown cover and doctored image of Elvis, with b
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Arcade |
 | Catalog Number | ADEP 12 |
-| Notes | Gatefold Sleeve.<br>ADEP 12 = cat# on spine<br>ADE P 12 = cat# on labels<br><br>On rear cover:<br>Interpak by Shorewood Packaging Co. Ltd. England<br><br>On labels:<br>Made by RCA<br> |
+| Notes | Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA  |
 | Discogs URL    | [Elvis Presley - Elvis' 40 Greatest](https://www.discogs.com/release/1159800-Elvis-Presley-Elvis-40-Greatest) |

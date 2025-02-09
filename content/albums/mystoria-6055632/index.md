@@ -24,28 +24,28 @@ styles: ["Alternative Rock", "Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Magic Carpet |  |
-| A2 | Black Rainbow |  |
-| A3 | Named After Rocky |  |
-| A4 | Cat's Cradle |  |
-| A5 | Bride |  |
-| B1 | Open Up |  |
-| B2 | OMG |  |
-| B3 | The Meaning Of If |  |
-| B4 | Crystal Mountain |  |
-| B5 | Crystal Anthem |  |
-| CD-1 | Magic Carpet |  |
-| CD-2 | Black Rainbow |  |
-| CD-3 | Named After Rocky |  |
-| CD-4 | Cat's Cradle |  |
-| CD-5 | Bride |  |
-| CD-6 | Open Up |  |
-| CD-7 | OMG |  |
-| CD-8 | The Meaning Of If |  |
-| CD-9 | Crystal Mountain |  |
-| CD-10 | Crystal Anthem |  |
+| Position | Title |
+|----------|--------|
+| A1 | Magic Carpet |
+| A2 | Black Rainbow |
+| A3 | Named After Rocky |
+| A4 | Cat's Cradle |
+| A5 | Bride |
+| B1 | Open Up |
+| B2 | OMG |
+| B3 | The Meaning Of If |
+| B4 | Crystal Mountain |
+| B5 | Crystal Anthem |
+| CD-1 | Magic Carpet |
+| CD-2 | Black Rainbow |
+| CD-3 | Named After Rocky |
+| CD-4 | Cat's Cradle |
+| CD-5 | Bride |
+| CD-6 | Open Up |
+| CD-7 | OMG |
+| CD-8 | The Meaning Of If |
+| CD-9 | Crystal Mountain |
+| CD-10 | Crystal Anthem |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Format         | Vinyl LP Album, CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 032 |
-| Notes | 180 gram black vinyl in gatefold cover with printed innersleeves<br>Comes with cd version of the album |
+| Notes | 180 gram black vinyl in gatefold cover with printed innersleeves  Comes with cd version of the album |
 | Discogs URL    | [Amplifier - Mystoria](https://www.discogs.com/release/6055632-Amplifier-3-Mystoria) |

@@ -51,18 +51,18 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Unself |  |
-| A2 | Self |  |
-| A3 | King Ghost |  |
-| A4 | 12 Things I Forgot |  |
-| A5 | Eminent Sleaze |  |
-| A6 | Man Of The People |  |
-| B1 | Personal Shopper |  |
-| B2 | Follower |  |
-| B3 | Count Of Unease |  |
-| C1 | Hey Sleeper | 3:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Unself |
+| A2 | Self |
+| A3 | King Ghost |
+| A4 | 12 Things I Forgot |
+| A5 | Eminent Sleaze |
+| A6 | Man Of The People |
+| B1 | Personal Shopper |
+| B2 | Follower |
+| B3 | Count Of Unease |
+| C1 | Hey Sleeper |
 
 
 ## Apple Music
@@ -80,5 +80,5 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 | Format         | Vinyl LP Album, Vinyl 7" Single Sided Limited Edition (White), All Media Limited Edition (UK Tour Edition, O-Sleeve) |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPTUK |
-| Notes | This UK Tour Edition could be pre-ordered through Universal UK.<br><br>This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]<br> <br>The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"<br><br>The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release. |
+| Notes | This UK Tour Edition could be pre-ordered through Universal UK.  This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]   The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"  The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release. |
 | Discogs URL    | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17162293-Steven-Wilson-The-Future-Bites) |

@@ -34,24 +34,24 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ladies Love Chest Rockwell | 1:18 |
-| A2 | Pit Stop (Take Me Home) | 3:56 |
-| A3 | Anger Management | 4:18 |
-| B1 | Everyone Has A Summer | 4:15 |
-| B2 | To Catch A Thief | 3:17 |
-| B3 | Lies And Alibis | 3:16 |
-| B4 | Herbs, Good Hygiene & Socks | 1:54 |
-| C1 | Book Of The Month | 4:29 |
-| C2 | Lifeboat | 4:45 |
-| C3 | Strangers On A Train | 4:36 |
-| C4 | Lovage (Love That Lovage, Baby) | 1:04 |
-| D1 | Sex (I'm A) | 6:18 |
-| D2 | Koala's Lament | 3:54 |
-| D3 | Tea Time With Maseo | 1:38 |
-| D4 | Stroker Ace | 4:27 |
-| D5 | Archie & Veronica | 6:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Ladies Love Chest Rockwell |
+| A2 | Pit Stop (Take Me Home) |
+| A3 | Anger Management |
+| B1 | Everyone Has A Summer |
+| B2 | To Catch A Thief |
+| B3 | Lies And Alibis |
+| B4 | Herbs, Good Hygiene & Socks |
+| C1 | Book Of The Month |
+| C2 | Lifeboat |
+| C3 | Strangers On A Train |
+| C4 | Lovage (Love That Lovage, Baby) |
+| D1 | Sex (I'm A) |
+| D2 | Koala's Lament |
+| D3 | Tea Time With Maseo |
+| D4 | Stroker Ace |
+| D5 | Archie & Veronica |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Bulk Recordings |
 | Catalog Number | BULK020LP |
-| Notes | "Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb<br><br>The cover is a remake of [m4375]. <br><br>℗ © 2022 Bulk Recordings |
+| Notes | "Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings |
 | Discogs URL    | [Nathaniel Merriweather - Music To Make Love To Your Old Lady By](https://www.discogs.com/release/23894969-Nathaniel-Merriweather-Presents-Lovage-Avec-Michael-Patton-Jennifer-Charles-Music-To-Make-Love-To-Yo) |

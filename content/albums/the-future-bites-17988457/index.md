@@ -28,17 +28,17 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Unself |  |
-| A2 | Self |  |
-| A3 | King Ghost |  |
-| A4 | 12 Things I Forgot |  |
-| A5 | Eminent Sleaze |  |
-| A6 | Man Of The People |  |
-| B1 | Personal Shopper |  |
-| B2 | Follower |  |
-| B3 | Count Of Unease |  |
+| Position | Title |
+|----------|--------|
+| A1 | Unself |
+| A2 | Self |
+| A3 | King Ghost |
+| A4 | 12 Things I Forgot |
+| A5 | Eminent Sleaze |
+| A6 | Man Of The People |
+| B1 | Personal Shopper |
+| B2 | Follower |
+| B3 | Count Of Unease |
 
 
 ## Apple Music

@@ -31,13 +31,13 @@ styles: ["Soul", "Rhythm & Blues"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Man In A White World (Live From The Royal Albert Hall) |  |
-| A2 | One More Night (Live From The London Palladium) |  |
-| A3 | Tell Me A Tale (Live From The Birmingham Symphony Hall) |  |
-| B1 | Father's Child (Live From The Royal Albert Hall) |  |
-| B2 | Love And Hate (Live From The Royal Albert Hall) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Man In A White World (Live From The Royal Albert Hall) |
+| A2 | One More Night (Live From The London Palladium) |
+| A3 | Tell Me A Tale (Live From The Birmingham Symphony Hall) |
+| B1 | Father's Child (Live From The Royal Albert Hall) |
+| B2 | Love And Hate (Live From The Royal Albert Hall) |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Soul", "Rhythm & Blues"]
 | Format         | Vinyl LP Record Store Day Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 6730886 |
-| Notes | RSD Exclusive Release limited to 3500 copies.<br><br>Comes with a download card for the album & bonus track "Cold Little Heart - Live From Royal Albert Hall, London 2017".<br><br>℗ © 2018 Polydor Limited<br><br>Made in the Czech Republic. [back sleeve, labels]<br><br>Publisher BMG Chrysalis Music as BMG Chrysalis<br> |
+| Notes | RSD Exclusive Release limited to 3500 copies.  Comes with a download card for the album & bonus track "Cold Little Heart - Live From Royal Albert Hall, London 2017".  ℗ © 2018 Polydor Limited  Made in the Czech Republic. [back sleeve, labels]  Publisher BMG Chrysalis Music as BMG Chrysalis  |
 | Discogs URL    | [Michael Kiwanuka - Out Loud!](https://www.discogs.com/release/11895362-Michael-Kiwanuka-Out-Loud) |

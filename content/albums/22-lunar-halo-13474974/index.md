@@ -27,10 +27,10 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | With Arms And Legs Moving / The Tell Tales | 19:56 |
-| B | They Glow In Light / Like Coloured Glass | 23:26 |
+| Position | Title |
+|----------|--------|
+| A | With Arms And Legs Moving / The Tell Tales |
+| B | They Glow In Light / Like Coloured Glass |
 
 
 ## Apple Music
@@ -47,5 +47,5 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK32LP |
-| Notes | Released on Record Store Day 2019.<br><br>"Spined sleeve printed with special inks."<br><br>"Music from throughout Sigur Rós's career, twisted, bent, broken and finally added to in the band's Reykjavik studio, to create a new perspective for a dance piece of the same title initiated and created by Taiwanese choreographer Cheng Tsung-Lung." |
+| Notes | Released on Record Store Day 2019.  "Spined sleeve printed with special inks."  "Music from throughout Sigur Rós's career, twisted, bent, broken and finally added to in the band's Reykjavik studio, to create a new perspective for a dance piece of the same title initiated and created by Taiwanese choreographer Cheng Tsung-Lung." |
 | Discogs URL    | [Sigur Rós - 22° Lunar Halo](https://www.discogs.com/release/13474974-Sigur-Rós-22-Lunar-Halo) |

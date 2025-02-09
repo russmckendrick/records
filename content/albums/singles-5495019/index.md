@@ -34,18 +34,18 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Seasons (Waiting On You) | 3:46 |
-| A2 | Spirit | 4:21 |
-| A3 | Sun In The Morning | 3:50 |
-| A4 | Doves | 3:28 |
-| A5 | Back In The Tall Grass | 4:15 |
-| B1 | A Song For Our Grandfathers | 4:55 |
-| B2 | Light House | 4:47 |
-| B3 | Like The Moon | 4:40 |
-| B4 | Fall From Grace | 4:15 |
-| B5 | A Dream Of You & Me | 3:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Seasons (Waiting On You) |
+| A2 | Spirit |
+| A3 | Sun In The Morning |
+| A4 | Doves |
+| A5 | Back In The Tall Grass |
+| B1 | A Song For Our Grandfathers |
+| B2 | Light House |
+| B3 | Like The Moon |
+| B4 | Fall From Grace |
+| B5 | A Dream Of You & Me |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 | Format         | Vinyl LP Album |
 | Label          | 4AD |
 | Catalog Number | CAD 3402 |
-| Notes | Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.<br><br>℗ & © 2014 4AD<br>All songs © 2014 Ideas for Housecrafts (ASCAP).<br><br>Recorded August 2013 at Dreamland Recording Studios in Hurley, NY.<br>Additional tracking and mixing at DNA Studios in New York, NY.<br><br>Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.<br><br>Runouts are etched except "STERLING" which is stamped. |
+| Notes | Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped. |
 | Discogs URL    | [Future Islands - Singles](https://www.discogs.com/release/5495019-Future-Islands-Singles) |

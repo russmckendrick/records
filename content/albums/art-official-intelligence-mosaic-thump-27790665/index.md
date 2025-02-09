@@ -27,26 +27,26 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spitkicker.com / Say R. | 1:19 |
-| A2 | U Can Do (Life) | 4:23 |
-| A3 | My Writes | 5:29 |
-| A4 | Oooh / Ghost Weed Skit 01 | 5:27 |
-| A5 | Thru Ya City | 3:29 |
-| B1 | I.C. Y'All | 3:21 |
-| B2 | View | 3:56 |
-| B3 | Interluden | 0:22 |
-| B4 | Set The Mood / Ghost Weed Skit 02  | 4:24 |
-| B5 | All Good? | 4:58 |
-| C1 | Declaration | 2:56 |
-| C2 | Squat! | 4:14 |
-| C3 | Words From The Chief Rocker | 1:01 |
-| C4 | With Me / Ghost Weed Skit 03 | 4:52 |
-| D1 | Copa (Cabanga) | 4:05 |
-| D2 | Foolin' | 4:22 |
-| D3 | The Art Of Getting Jumped | 3:47 |
-| D4 | U Don't Wanna B.D.S | 4:13 |
+| Position | Title |
+|----------|--------|
+| A1 | Spitkicker.com / Say R. |
+| A2 | U Can Do (Life) |
+| A3 | My Writes |
+| A4 | Oooh / Ghost Weed Skit 01 |
+| A5 | Thru Ya City |
+| B1 | I.C. Y'All |
+| B2 | View |
+| B3 | Interluden |
+| B4 | Set The Mood / Ghost Weed Skit 02  |
+| B5 | All Good? |
+| C1 | Declaration |
+| C2 | Squat! |
+| C3 | Words From The Chief Rocker |
+| C4 | With Me / Ghost Weed Skit 03 |
+| D1 | Copa (Cabanga) |
+| D2 | Foolin' |
+| D3 | The Art Of Getting Jumped |
+| D4 | U Don't Wanna B.D.S |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 055-1 |
-| Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide.<br>"MADE IN CZECH REPUBLIC" sticker on back shrink<br><br>RMM-055-1 on 'hype' sticker |
+| Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide. "MADE IN CZECH REPUBLIC" sticker on back shrink  RMM-055-1 on 'hype' sticker |
 | Discogs URL    | [De La Soul - Art Official Intelligence: Mosaic Thump](https://www.discogs.com/release/27790665-De-La-Soul-Art-Official-Intelligence-Mosaic-Thump) |

@@ -37,20 +37,20 @@ The only person who gets a guest verse on the effort is AZ (“Life’s a Bitch�
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 40 Side North |  |
-| A1 | The Genesis | 1:45 |
-| A2 | N.Y. State Of Mind | 4:53 |
-| A3 | Life's A Bitch | 3:29 |
-| A4 | The World Is Yours | 4:50 |
-| A5 | Halftime | 4:20 |
-|  | 41st Side South |  |
-| B1 | Memory Lane (Sittin' In Da Park) | 4:07 |
-| B2 | One Love | 5:24 |
-| B3 | One Time 4 Your Mind | 3:18 |
-| B4 | Represent | 4:13 |
-| B5 | It Ain't Hard To Tell | 3:22 |
+| Position | Title |
+|----------|--------|
+|  | 40 Side North |
+| A1 | The Genesis |
+| A2 | N.Y. State Of Mind |
+| A3 | Life's A Bitch |
+| A4 | The World Is Yours |
+| A5 | Halftime |
+|  | 41st Side South |
+| B1 | Memory Lane (Sittin' In Da Park) |
+| B2 | One Love |
+| B3 | One Time 4 Your Mind |
+| B4 | Represent |
+| B5 | It Ain't Hard To Tell |
 
 
 ## Apple Music

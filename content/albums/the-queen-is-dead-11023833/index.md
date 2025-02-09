@@ -65,47 +65,47 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 2017 Remastered Album |  |
-| A1 | The Queen Is Dead  | 6:24 |
-| A2 | Frankly, Mr. Shankly | 2:18 |
-| A3 | I Know It's Over | 5:48 |
-| A4 | Never Had No One Ever | 3:37 |
-| A5 | Cemetry Gates | 2:38 |
-| B1 | Bigmouth Strikes Again | 3:12 |
-| B2 | The Boy With The Thorn In His Side | 3:16 |
-| B3 | Vicar In A Tutu | 2:22 |
-| B4 | There Is A Light That Never Goes Out | 4:03 |
-| B5 | Some Girls Are Bigger Than Others | 3:16 |
-|  | Additional Recordings  |  |
-| C1 | The Queen Is Dead (Full Version) | 7:14 |
-| C2 | Frankly, Mr. Shankly (Demo) | 2:19 |
-| C3 | I Know It's Over (Demo) | 5:49 |
-| D1 | Never Had No One Ever (Demo) | 4:41 |
-| D2 | Cemetry Gates (Demo) | 3:01 |
-| D3 | Bigmouth Strikes Again (Demo) | 3:07 |
-| E1 | Some Girls Are Bigger Than Others (Demo) | 3:57 |
-| E2 | The Boy With The Thorn In His Side (Demo Mix) | 3:19 |
-| E3 | There Is A Light That Never Goes Out (Take 1) | 4:25 |
-| F1 | Rubber Ring (Single B-Side) | 3:54 |
-| F2 | Asleep (Single B-Side) | 4:02 |
-| F3 | Money Changes Everything (Single B-Side) | 4:41 |
-| F4 | Unloveable (Single B-Side) | 3:56 |
-|  | Live In Boston |  |
-| G1 | How Soon Is Now? | 5:25 |
-| G2 | Hand In Glove | 2:58 |
-| G3 | I Want The One I Can't Have | 3:24 |
-| G4 | Never Had No One Ever | 3:29 |
-| H1 | Stretch Out And Wait | 3:09 |
-| H2 | The Boy With The Thorn In His Side | 3:34 |
-| H3 | Cemetry Gates | 3:01 |
-| H4 | Rubber Ring / What She Said / Rubber Ring | 4:17 |
-| I1 | Is It Really So Strange? | 3:23 |
-| I2 | There Is A Light That Never Goes Out | 4:09 |
-| I3 | That Joke Isn't Funny Anymore | 4:51 |
-| J1 | The Queen Is Dead | 5:08 |
-| J2 | I Know It's Over | 7:39 |
+| Position | Title |
+|----------|--------|
+|  | 2017 Remastered Album |
+| A1 | The Queen Is Dead  |
+| A2 | Frankly, Mr. Shankly |
+| A3 | I Know It's Over |
+| A4 | Never Had No One Ever |
+| A5 | Cemetry Gates |
+| B1 | Bigmouth Strikes Again |
+| B2 | The Boy With The Thorn In His Side |
+| B3 | Vicar In A Tutu |
+| B4 | There Is A Light That Never Goes Out |
+| B5 | Some Girls Are Bigger Than Others |
+|  | Additional Recordings  |
+| C1 | The Queen Is Dead (Full Version) |
+| C2 | Frankly, Mr. Shankly (Demo) |
+| C3 | I Know It's Over (Demo) |
+| D1 | Never Had No One Ever (Demo) |
+| D2 | Cemetry Gates (Demo) |
+| D3 | Bigmouth Strikes Again (Demo) |
+| E1 | Some Girls Are Bigger Than Others (Demo) |
+| E2 | The Boy With The Thorn In His Side (Demo Mix) |
+| E3 | There Is A Light That Never Goes Out (Take 1) |
+| F1 | Rubber Ring (Single B-Side) |
+| F2 | Asleep (Single B-Side) |
+| F3 | Money Changes Everything (Single B-Side) |
+| F4 | Unloveable (Single B-Side) |
+|  | Live In Boston |
+| G1 | How Soon Is Now? |
+| G2 | Hand In Glove |
+| G3 | I Want The One I Can't Have |
+| G4 | Never Had No One Ever |
+| H1 | Stretch Out And Wait |
+| H2 | The Boy With The Thorn In His Side |
+| H3 | Cemetry Gates |
+| H4 | Rubber Ring / What She Said / Rubber Ring |
+| I1 | Is It Really So Strange? |
+| I2 | There Is A Light That Never Goes Out |
+| I3 | That Joke Isn't Funny Anymore |
+| J1 | The Queen Is Dead |
+| J2 | I Know It's Over |
 
 
 ## Apple Music
@@ -123,5 +123,5 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 | Format         | Box Set Deluxe Edition, Vinyl LP Album Remastered, Vinyl 2× LP Compilation, Vinyl 2× LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0190295785628 |
-| Notes | Round silver hype sticker on shrink: '5 LP BOX SET featuring the 2017 Master of the seminal album, additional recordings and an unreleased live album, all heavyweight vinyl 0190295785628'. All three issued with gatefold sleeve and printed inner sleeves.<br>Made in the EU. |
+| Notes | Round silver hype sticker on shrink: '5 LP BOX SET featuring the 2017 Master of the seminal album, additional recordings and an unreleased live album, all heavyweight vinyl 0190295785628'. All three issued with gatefold sleeve and printed inner sleeves. Made in the EU. |
 | Discogs URL    | [The Smiths - The Queen Is Dead](https://www.discogs.com/release/11023833-The-Smiths-The-Queen-Is-Dead) |

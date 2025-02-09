@@ -28,24 +28,24 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | DeLarge | 5:22 |
-| A2 | Clay | 2:30 |
-| A3 | Torrance | 4:01 |
-| A4 | Dax | 4:59 |
-| B1 | Joker | 3:49 |
-| B2 | Hal | 4:37 |
-| B3 | Mandrake | 4:33 |
-| B4 | Ziegler | 2:31 |
-| CD-1 | DeLarge | 5:22 |
-| CD-2 | Clay | 2:30 |
-| CD-3 | Torrance | 4:01 |
-| CD-4 | Dax | 4:59 |
-| CD-5 | Joker | 3:49 |
-| CD-6 | Hal | 4:37 |
-| CD-7 | Mandrake | 4:33 |
-| CD-8 | Ziegler | 2:31 |
+| Position | Title |
+|----------|--------|
+| A1 | DeLarge |
+| A2 | Clay |
+| A3 | Torrance |
+| A4 | Dax |
+| B1 | Joker |
+| B2 | Hal |
+| B3 | Mandrake |
+| B4 | Ziegler |
+| CD-1 | DeLarge |
+| CD-2 | Clay |
+| CD-3 | Torrance |
+| CD-4 | Dax |
+| CD-5 | Joker |
+| CD-6 | Hal |
+| CD-7 | Mandrake |
+| CD-8 | Ziegler |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 | Format         | Vinyl LP Album, CD Album |
 | Label          | [PIAS] |
 | Catalog Number | COOP006LP |
-| Notes | ℗ 2015, © 2015 San Quentin. The copyright in this sound recording is owned by San Quentin, and is exclusively licensed to [PIAS].<br>Made in the E.U.<br><br>Track B2 / CD-6 'Hal' is a re-recorded version of [url=https://www.discogs.com/The-Soulsavers-Closer-EP/master/121758]Closer[/url]. |
+| Notes | ℗ 2015, © 2015 San Quentin. The copyright in this sound recording is owned by San Quentin, and is exclusively licensed to [PIAS]. Made in the E.U.  Track B2 / CD-6 'Hal' is a re-recorded version of [url=https://www.discogs.com/The-Soulsavers-Closer-EP/master/121758]Closer[/url]. |
 | Discogs URL    | [The Soulsavers - Kubrick](https://www.discogs.com/release/7815131-Soulsavers-Kubrick) |

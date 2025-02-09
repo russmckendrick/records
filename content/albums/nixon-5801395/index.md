@@ -33,18 +33,18 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Old Gold Shoe | 6:20 |
-| A2 | Grumpus | 4:19 |
-| A3 | You Masculine You | 5:59 |
-| A4 | Up With People | 5:59 |
-| B1 | Nashville Parent | 5:38 |
-| B2 | What Else Could It Be? | 3:39 |
-| B3 | The Distance From Her To There | 4:20 |
-| B4 | The Book I Haven't Read | 5:44 |
-| B5 | The Petrified Florist | 4:52 |
-| B6 | The Butcher Boy | 2:51 |
+| Position | Title |
+|----------|--------|
+| A1 | The Old Gold Shoe |
+| A2 | Grumpus |
+| A3 | You Masculine You |
+| A4 | Up With People |
+| B1 | Nashville Parent |
+| B2 | What Else Could It Be? |
+| B3 | The Distance From Her To There |
+| B4 | The Book I Haven't Read |
+| B5 | The Petrified Florist |
+| B6 | The Butcher Boy |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | City Slang |
 | Catalog Number | SLANG50044LP |
-| Notes | Comes with lyrics insert and download card for a one-off mp3 download of the album. <br> |
+| Notes | Comes with lyrics insert and download card for a one-off mp3 download of the album.   |
 | Discogs URL    | [Lambchop - Nixon](https://www.discogs.com/release/5801395-Lambchop-Nixon) |

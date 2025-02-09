@@ -33,20 +33,20 @@ High Water I is the debut studio album by American rock band The Magpie Salute, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mary The Gypsy | 3:07 |
-| A2 | High Water | 5:45 |
-| A3 | Send Me An Omen | 3:58 |
-| B1 | For The Wind | 5:05 |
-| B2 | Sister Moon | 3:48 |
-| B3 | Color Blind | 3:44 |
-| C1 | Take It All | 3:27 |
-| C2 | Walk On Water | 4:07 |
-| C3 | Hand In Hand | 3:25 |
-| D1 | You Found Me | 4:53 |
-| D2 | Can You See | 3:10 |
-| D3 | Open Up | 3:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Mary The Gypsy |
+| A2 | High Water |
+| A3 | Send Me An Omen |
+| B1 | For The Wind |
+| B2 | Sister Moon |
+| B3 | Color Blind |
+| C1 | Take It All |
+| C2 | Walk On Water |
+| C3 | Hand In Hand |
+| D1 | You Found Me |
+| D2 | Can You See |
+| D3 | Open Up |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ High Water I is the debut studio album by American rock band The Magpie Salute, 
 | Format         | Vinyl 2× LP Album (Clear Transparent, 180 Gram) |
 | Label          | Provogue |
 | Catalog Number | PRD7558 1 |
-| Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster. <br><br>Made in the EU. |
+| Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster.   Made in the EU. |
 | Discogs URL    | [The Magpie Salute - High Water I](https://www.discogs.com/release/12366614-The-Magpie-Salute-High-Water-I) |

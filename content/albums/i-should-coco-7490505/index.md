@@ -35,23 +35,23 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I'd Like To Know | 4:02 |
-| A2 | Caught By The Fuzz | 2:16 |
-| A3 | Mansize Rooster | 2:34 |
-| A4 | Alright | 2:01 |
-| A5 | Lose It | 2:37 |
-| A6 | Lenny | 2:41 |
-| B7 | Strange Ones | 4:19 |
-| B8 | Sitting Up Straight | 2:18 |
-| B9 | She's So Loose | 2:59 |
-| B10 | We're Not Supposed To | 2:03 |
-| B11 | Time | 3:10 |
-| B12 | Sofa (Of My Lethargy) | 6:18 |
-| B13 | Time To Go | 1:56 |
-| C | Stone Free | 3:10 |
-| D | Odd | 5:05 |
+| Position | Title |
+|----------|--------|
+| A1 | I'd Like To Know |
+| A2 | Caught By The Fuzz |
+| A3 | Mansize Rooster |
+| A4 | Alright |
+| A5 | Lose It |
+| A6 | Lenny |
+| B7 | Strange Ones |
+| B8 | Sitting Up Straight |
+| B9 | She's So Loose |
+| B10 | We're Not Supposed To |
+| B11 | Time |
+| B12 | Sofa (Of My Lethargy) |
+| B13 | Time To Go |
+| C | Stone Free |
+| D | Odd |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Single, All Media Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0825646130573 |
-| Notes | 20th anniversary edition. Album is dedicated to David Norland 1974-2014.<br>Supergrass and I Should Coco are embossed.<br><br>Recorded at Sawmills Studio, Golant, Fowey, Cornwall.<br>Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.<br><br>B side label of 7" is plain red.<br>Embossed letters on front sleeve.<br>Comes with a [l873810] download code. |
+| Notes | 20th anniversary edition. Album is dedicated to David Norland 1974-2014. Supergrass and I Should Coco are embossed.  Recorded at Sawmills Studio, Golant, Fowey, Cornwall. Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.  B side label of 7" is plain red. Embossed letters on front sleeve. Comes with a [l873810] download code. |
 | Discogs URL    | [Supergrass - I Should Coco](https://www.discogs.com/release/7490505-Supergrass-I-Should-Coco) |

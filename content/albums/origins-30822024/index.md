@@ -27,16 +27,16 @@ styles: ["Post Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Together |  |
-| A2 | Speed The Crows Nest |  |
-| A3 | Glass Skinned Girl |  |
-| A4 | Through A Lens Darkly |  |
-| B1 | Shine |  |
-| B2 | The Seed |  |
-| B3 | B.O.A.T.S |  |
-| B4 | Dark Clouds Mean War (Rework) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Together |
+| A2 | Speed The Crows Nest |
+| A3 | Glass Skinned Girl |
+| A4 | Through A Lens Darkly |
+| B1 | Shine |
+| B2 | The Seed |
+| B3 | B.O.A.T.S |
+| B4 | Dark Clouds Mean War (Rework) |
 
 
 ## Apple Music
@@ -53,5 +53,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Compilation Limited Edition (Dusk) |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |
-| Notes | Limited to 300 copies<br>Dedicated to Grampy |
+| Notes | Limited to 300 copies Dedicated to Grampy |
 | Discogs URL    | [Nordic Giants - Origins](https://www.discogs.com/release/30822024-Nordic-Giants-Origins) |

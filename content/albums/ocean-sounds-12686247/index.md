@@ -31,20 +31,20 @@ styles: ["Alternative Rock", "Neo-Classical"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Inside |  |
-| A2 | Scotland |  |
-| A3 | To Human Misery |  |
-| A4 | Romance |  |
-| A5 | 5/4 |  |
-| A6 | Touching II |  |
-| B1 | Os Lunatum |  |
-| B2 | Matches |  |
-| B3 | Sleeping Pills |  |
-| B4 | Libretto Horror |  |
-| B5 | Chalk & Coal |  |
-| B6 | K.O.S. |  |
+| Position | Title |
+|----------|--------|
+| A1 | Inside |
+| A2 | Scotland |
+| A3 | To Human Misery |
+| A4 | Romance |
+| A5 | 5/4 |
+| A6 | Touching II |
+| B1 | Os Lunatum |
+| B2 | Matches |
+| B3 | Sleeping Pills |
+| B4 | Libretto Horror |
+| B5 | Chalk & Coal |
+| B6 | K.O.S. |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Alternative Rock", "Neo-Classical"]
 | Format         | Vinyl LP Album (180 gr.) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE984 |
-| Notes | - Sticker<br>- printed inner sleeve<br><br>Ⓟ 2018 Kscope Ⓒ 2018 Kscope<br>Made in Germany<br><br>Barcode is scan only (no text). |
+| Notes | - Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text). |
 | Discogs URL    | [Iamthemorning - Ocean Sounds](https://www.discogs.com/release/12686247-Iamthemorning-Ocean-Sounds) |

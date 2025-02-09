@@ -42,16 +42,16 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Part I - Altar |  |
-| A2 | Part II - Palace / Illusion |  |
-| A3 | Part III - Transcend / Lament |  |
-| B1 | Part IV - The Veil |  |
-| B2 | Part V - Evocation |  |
-| B3 | Part VI - Solar Goddess Return |  |
-| C1 | Part VII - Dissolution |  |
-| C2 | Part VIII - Nothing Is Lost |  |
+| Position | Title |
+|----------|--------|
+| A1 | Part I - Altar |
+| A2 | Part II - Palace / Illusion |
+| A3 | Part III - Transcend / Lament |
+| B1 | Part IV - The Veil |
+| B2 | Part V - Evocation |
+| B3 | Part VI - Solar Goddess Return |
+| C1 | Part VII - Dissolution |
+| C2 | Part VIII - Nothing Is Lost |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album Limited Edition |
 | Label          | Domino |
 | Catalog Number | WIGLP523X |
-| Notes | Comes with a 12"x12" insert with credits, and a download card.<br><br>℗+©2024 Domino Recording Co. Ltd. |
+| Notes | Comes with a 12"x12" insert with credits, and a download card.  ℗+©2024 Domino Recording Co. Ltd. |
 | Discogs URL    | [Jon Hopkins - Ritual](https://www.discogs.com/release/31602217-Jon-Hopkins-Ritual) |

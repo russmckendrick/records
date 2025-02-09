@@ -33,24 +33,24 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff, released
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Red Berry Joy Town | 3:00 |
-| A2 | No, For The 13th Time | 2:53 |
-| A3 | It's Yer Money I'm After, Baby | 2:52 |
-| A4 | Rue The Day | 1:58 |
-| A5 | Give, Give, Give Me More, More, More | 2:51 |
-| A6 | Like A Merry Go Round | 2:43 |
-| A7 | The Animals And Me | 3:05 |
-| B1 | A Wish Away | 2:33 |
-| B2 | Grin | 3:00 |
-| B3 | Mother And I | 2:25 |
-| B4 | Some Sad Someone | 2:49 |
-| B5 | Ruby Horse | 3:08 |
-| B6 | Unbearable | 2:31 |
-| B7 | Poison | 3:00 |
-| B8.1 | (silence) | 0:17 |
-| B8.2 | Times Will Change | 0:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Red Berry Joy Town |
+| A2 | No, For The 13th Time |
+| A3 | It's Yer Money I'm After, Baby |
+| A4 | Rue The Day |
+| A5 | Give, Give, Give Me More, More, More |
+| A6 | Like A Merry Go Round |
+| A7 | The Animals And Me |
+| B1 | A Wish Away |
+| B2 | Grin |
+| B3 | Mother And I |
+| B4 | Some Sad Someone |
+| B5 | Ruby Horse |
+| B6 | Unbearable |
+| B7 | Poison |
+| B8.1 | (silence) |
+| B8.2 | Times Will Change |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff, released
 | Format         | Vinyl LP Album Stereo |
 | Label          | The Far Out Recording Company |
 | Catalog Number | GONLP 1 |
-| Notes | Released with a printed inner sleeve of lyrics, credits and photograph.<br>Track B8 is not listed on the release and is preceded by 17 seconds of silence.<br><br>[Labels]:<br>℗ 1988 Polydor Ltd (UK) <br>© Polydor Ltd (UK) 1988.<br>Polygram Music 1988.<br><br>[Sleeve]:<br>UK GONLP 1<br>INT 837 135-1 [Y] | POL 281<br>The Far Out Record Company 1986/1988.<br>℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988.<br>Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.<br><br>[Inner sleeve]:<br>Lyrics reproduced by kind permission of Polygram Music. |
+| Notes | Released with a printed inner sleeve of lyrics, credits and photograph. Track B8 is not listed on the release and is preceded by 17 seconds of silence.  [Labels]: ℗ 1988 Polydor Ltd (UK)  © Polydor Ltd (UK) 1988. Polygram Music 1988.  [Sleeve]: UK GONLP 1 INT 837 135-1 [Y] | POL 281 The Far Out Record Company 1986/1988. ℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988. Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.  [Inner sleeve]: Lyrics reproduced by kind permission of Polygram Music. |
 | Discogs URL    | [The Wonder Stuff - The Eight Legged Groove Machine](https://www.discogs.com/release/379123-The-Wonder-Stuff-The-Eight-Legged-Groove-Machine) |

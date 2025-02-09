@@ -57,18 +57,18 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | What've I Done To Help |  |
-| A2 | Dreamsicle |  |
-| A3 | Only Children |  |
-| A4 | Overseas |  |
-| B1 | Running With Our Eyes Closed |  |
-| B2 | River |  |
-| B3 | Be Afraid |  |
-| B4 | St. Peter's Autograph |  |
-| B5 | It Gets Easier |  |
-| B6 | Letting You Go |  |
+| Position | Title |
+|----------|--------|
+| A1 | What've I Done To Help |
+| A2 | Dreamsicle |
+| A3 | Only Children |
+| A4 | Overseas |
+| B1 | Running With Our Eyes Closed |
+| B2 | River |
+| B3 | Be Afraid |
+| B4 | St. Peter's Autograph |
+| B5 | It Gets Easier |
+| B6 | Letting You Go |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 | Format         | Vinyl LP Album Limited Edition (Orange Dreamsicle) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99921 |
-| Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.<br><br>In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |
+| Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.  In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |
 | Discogs URL    | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036-Jason-Isbell-And-The-400-Unit-Reunions) |

@@ -30,17 +30,17 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | M'Lady | 7:46 |
-| A2 | Sing A Simple Song | 5:14 |
-| A3 | You Can Make It If You Try | 5:37 |
-| B1 | Everyday People | 3:17 |
-| B2 | Dance To The Music | 4:28 |
-| B3 | Medley: Music Lover/Higher | 7:51 |
-| C1 |  I Want To Take You Higher | 6:43 |
-| C2 | Love City | 6:04 |
-| C3 | Stand! | 3:20 |
+| Position | Title |
+|----------|--------|
+| A1 | M'Lady |
+| A2 | Sing A Simple Song |
+| A3 | You Can Make It If You Try |
+| B1 | Everyday People |
+| B2 | Dance To The Music |
+| B3 | Medley: Music Lover/Higher |
+| C1 |  I Want To Take You Higher |
+| C2 | Love City |
+| C3 | Stand! |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: []
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Reissue |
 | Label          | Epic |
 | Catalog Number | 19075921541 |
-| Notes | Single wide spine sleeve includes an insert and a download-card<br><br>Side D etched with Sly & The Family Stone logo<br><br>Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199<br><br>Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched. |
+| Notes | Single wide spine sleeve includes an insert and a download-card  Side D etched with Sly & The Family Stone logo  Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199  Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched. |
 | Discogs URL    | [Sly  The Family Stone - Woodstock Sunday August 17, 1969](https://www.discogs.com/release/13496948-Sly-The-Family-Stone-Woodstock-Sunday-August-17-1969) |

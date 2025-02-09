@@ -25,19 +25,19 @@ styles: ["Pop Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Here I Am In London Town |  |
-| A2 | The Hipsters |  |
-| A3 | Stars |  |
-| A4 | Turn |  |
-| A5 | The Rest |  |
-| A6 | The Outsiders |  |
-| B1 | That's What We Can Do |  |
-| B2 | She'll Understand |  |
-| B3 | Laura From Memory |  |
-| B4 | It Will End In Tears |  |
-| B5 | Is There No Way Back To You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Here I Am In London Town |
+| A2 | The Hipsters |
+| A3 | Stars |
+| A4 | Turn |
+| A5 | The Rest |
+| A6 | The Outsiders |
+| B1 | That's What We Can Do |
+| B2 | She'll Understand |
+| B3 | Laura From Memory |
+| B4 | It Will End In Tears |
+| B5 | Is There No Way Back To You |
 
 
 ## Apple Music
@@ -54,5 +54,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album (Yellow Transparent ) |
 | Label          | Demon Records |
 | Catalog Number | DEACONLP001 |
-| Notes | ℗ & © 2012 Demon Music Group Ltd.<br><br>Includes code for free MP3 download of the album. |
+| Notes | ℗ & © 2012 Demon Music Group Ltd.    Includes code for free MP3 download of the album. |
 | Discogs URL    | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |

@@ -33,19 +33,19 @@ The album made the Top 10 in the United Kingdom.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Caravan |  |
-| A2 | Please Be Cruel |  |
-| A3 | Born Yesterday |  |
-| B4 | Sleep Well Tonight |  |
-| B5 | Grip |  |
-| B6 | Beast Inside |  |
-| C7 | Skidoo |  |
-| C8 | Niagara |  |
-| C9 | Mermaid |  |
-| D10 | Further Away |  |
-| D11 | Dreams Are All We Have |  |
+| Position | Title |
+|----------|--------|
+| A1 | Caravan |
+| A2 | Please Be Cruel |
+| A3 | Born Yesterday |
+| B4 | Sleep Well Tonight |
+| B5 | Grip |
+| B6 | Beast Inside |
+| C7 | Skidoo |
+| C8 | Niagara |
+| C9 | Mermaid |
+| D10 | Further Away |
+| D11 | Dreams Are All We Have |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The album made the Top 10 in the United Kingdom.
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Label          | Mute |
 | Catalog Number | Ldung14 |
-| Notes | Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).<br><br>Single jacket sleeve with two printed innersleeves.<br>Tracks listed sequentially on side labels.<br><br>"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
+| Notes | Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
 | Discogs URL    | [Inspiral Carpets - The Beast Inside](https://www.discogs.com/release/21038797-Inspiral-Carpets-The-Beast-Inside) |

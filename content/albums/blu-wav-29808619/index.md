@@ -33,21 +33,21 @@ Blu Wav is the sixth studio album by American indie rock band Grandaddy. Release
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Blu Wav |  |
-| A2 | Cabin In My Mind |  |
-| A3 | Long As I’m Not The One |  |
-| A4 | You’re Going To Be Fine And I’m Going To Hell |  |
-| A5 | Watercooler |  |
-| A6 | Let’s Put This Pinto On The Moon |  |
-| A7 | On A Train Or A Bus |  |
-| B1 | Jukebox App |  |
-| B2 | Yeehaw Ai In The Year 2025 |  |
-| B3 | Ducky, Boris and Dart |  |
-| B4 | East Yosemite  |  |
-| B5 | Nothin’ To Lose |  |
-| B6 | Blu Wav Buh Bye |  |
+| Position | Title |
+|----------|--------|
+| A1 | Blu Wav |
+| A2 | Cabin In My Mind |
+| A3 | Long As I’m Not The One |
+| A4 | You’re Going To Be Fine And I’m Going To Hell |
+| A5 | Watercooler |
+| A6 | Let’s Put This Pinto On The Moon |
+| A7 | On A Train Or A Bus |
+| B1 | Jukebox App |
+| B2 | Yeehaw Ai In The Year 2025 |
+| B3 | Ducky, Boris and Dart |
+| B4 | East Yosemite  |
+| B5 | Nothin’ To Lose |
+| B6 | Blu Wav Buh Bye |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Blu Wav is the sixth studio album by American indie rock band Grandaddy. Release
 | Format         | Vinyl LP Album Limited Edition (Nebula ) |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB272 |
-| Notes | Nebula burst colour <br><br>Includes download code |
+| Notes | Nebula burst colour   Includes download code |
 | Discogs URL    | [Grandaddy - Blu Wav](https://www.discogs.com/release/29808619-Grandaddy-Blu-Wav) |

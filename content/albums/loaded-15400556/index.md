@@ -26,38 +26,38 @@ Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Look Back In Anger | 4:47 |
-| A2 | The Bartender And The Thief | 2:55 |
-| A3 | Wake Up Boo! | 3:08 |
-| A4 | The Changingman | 4:02 |
-| A5 | The Day We Caught The Train | 3:06 |
-| A6 | All You Good Good People | 4:37 |
-| A7 | Slight Return | 3:23 |
-| B1 | Loaded | 4:20 |
-| B2 | Fool's Gold | 4:14 |
-| B3 | Step On | 5:16 |
-| B4 | Only Love Can Break Your Heart | 4:29 |
-| B5 | Born Slippy (Nuxx) | 4:21 |
-| B6 | Hey Boy Hey Girl | 3:32 |
-| B7 | Insomnia | 3:31 |
-| C1 | A Design For Life | 4:17 |
-| C2 | Disco 2000 | 4:33 |
-| C3 | Bohemian Like You | 3:28 |
-| C4 | Nancy Boy | 3:30 |
-| C5 | Celebrity Skin | 2:42 |
-| C6 | Buddy Holly | 2:39 |
-| C7 | Inbetweener | 3:18 |
-| C8 | Going For Gold | 4:24 |
-| D1 | There She Goes | 2:45 |
-| D2 | Friday I'm In Love | 3:35 |
-| D3 | Lovefool | 3:13 |
-| D4 | You & Me Song | 2:52 |
-| D5 | Sit Down | 4:04 |
-| D6 | Good Enough | 3:57 |
-| D7 | Lucky You | 4:20 |
-| D8 | Why Does It Always Rain On Me? | 4:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Look Back In Anger |
+| A2 | The Bartender And The Thief |
+| A3 | Wake Up Boo! |
+| A4 | The Changingman |
+| A5 | The Day We Caught The Train |
+| A6 | All You Good Good People |
+| A7 | Slight Return |
+| B1 | Loaded |
+| B2 | Fool's Gold |
+| B3 | Step On |
+| B4 | Only Love Can Break Your Heart |
+| B5 | Born Slippy (Nuxx) |
+| B6 | Hey Boy Hey Girl |
+| B7 | Insomnia |
+| C1 | A Design For Life |
+| C2 | Disco 2000 |
+| C3 | Bohemian Like You |
+| C4 | Nancy Boy |
+| C5 | Celebrity Skin |
+| C6 | Buddy Holly |
+| C7 | Inbetweener |
+| C8 | Going For Gold |
+| D1 | There She Goes |
+| D2 | Friday I'm In Love |
+| D3 | Lovefool |
+| D4 | You & Me Song |
+| D5 | Sit Down |
+| D6 | Good Enough |
+| D7 | Lucky You |
+| D8 | Why Does It Always Rain On Me? |
 
 
 ## Apple Music

@@ -33,20 +33,20 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Things Can Only Get Better | 3:56 |
-| A2 | Life In One Day | 3:40 |
-| A3 | Dream Into Action | 3:46 |
-| A4 | No One Is To Blame | 3:29 |
-| A5 | Look Mama | 4:03 |
-| A6 | Assault And Battery | 4:52 |
-| B1 | Automaton | 4:04 |
-| B2 | Is There A Difference? | 3:33 |
-| B3 | Elegy | 4:22 |
-| B4 | Specialty | 3:58 |
-| B5 | Why Look For The Key? | 3:23 |
-| B6 | Hunger For The Flesh | 3:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Things Can Only Get Better |
+| A2 | Life In One Day |
+| A3 | Dream Into Action |
+| A4 | No One Is To Blame |
+| A5 | Look Mama |
+| A6 | Assault And Battery |
+| B1 | Automaton |
+| B2 | Is There A Difference? |
+| B3 | Elegy |
+| B4 | Specialty |
+| B5 | Why Look For The Key? |
+| B6 | Hunger For The Flesh |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 | Format         | Vinyl LP Album |
 | Label          | WEA |
 | Catalog Number | WX 15 |
-| Notes | Inner sleeve: lyrics, credits, artwork<br>Some copies may have a sticker about contents on the sleeve front (see images).<br><br>LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.<br><br>℗ & © 1985 WEA Records Ltd<br>Manufactured in Germany by Record Service GmbH, Alsdorf.<br><br>UK only issue with no rights society credits on the labels.<br><br> |
+| Notes | Inner sleeve: lyrics, credits, artwork Some copies may have a sticker about contents on the sleeve front (see images).  LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.  ℗ & © 1985 WEA Records Ltd Manufactured in Germany by Record Service GmbH, Alsdorf.  UK only issue with no rights society credits on the labels.   |
 | Discogs URL    | [Howard Jones - Dream Into Action](https://www.discogs.com/release/5710031-Howard-Jones-Dream-Into-Action) |

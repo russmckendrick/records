@@ -24,26 +24,26 @@ styles: ["Alternative Rock", "Space Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Harmony 1 (Mellotron) | 0:24 |
-| A2 | Sweet Talk | 4:05 |
-| A3 | Death Take Your Fiddle | 3:14 |
-| A4 | I Gotta Fire | 2:28 |
-| A5 | Soul On Fire | 4:06 |
-| B1 | Harmony 2 (Piano) | 0:43 |
-| B2 | Sitting On Fire | 4:38 |
-| B3 | Yeah Yeah | 2:28 |
-| B4 | You Lie You Cheat | 3:04 |
-| C1 | Harmony 3 (Voice) | 0:18 |
-| C2 | Baby I'm Just A Fool | 7:07 |
-| C3 | Don't Hold Me Close | 3:08 |
-| C4 | Harmony 4 (The Old Man...) | 1:32 |
-| C5 | The Waves Crash In | 4:09 |
-| D1 | Harmony 5 (Accordion) | 1:04 |
-| D2 | Borrowed Your Gun | 3:48 |
-| D3 | Harmony 6 (Glockenspiel) | 0:51 |
-| D4 | Goodnight Goodnight | 4:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Harmony 1 (Mellotron) |
+| A2 | Sweet Talk |
+| A3 | Death Take Your Fiddle |
+| A4 | I Gotta Fire |
+| A5 | Soul On Fire |
+| B1 | Harmony 2 (Piano) |
+| B2 | Sitting On Fire |
+| B3 | Yeah Yeah |
+| B4 | You Lie You Cheat |
+| C1 | Harmony 3 (Voice) |
+| C2 | Baby I'm Just A Fool |
+| C3 | Don't Hold Me Close |
+| C4 | Harmony 4 (The Old Man...) |
+| C5 | The Waves Crash In |
+| D1 | Harmony 5 (Accordion) |
+| D2 | Borrowed Your Gun |
+| D3 | Harmony 6 (Glockenspiel) |
+| D4 | Goodnight Goodnight |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Alternative Rock", "Space Rock", "Psychedelic Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (Green) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1828-3 |
-| Notes | The Spaceman Reissue Program Volume 2<br><br>The artwork for this special edition features images from the original photo shot that were unused at the time. <br><br>There is no re-mastering credit in the sleeve, but the product description at the label website states: The reissue has been remastered for vinyl by Matt Colton at Metropolis Studios and features revamped artwork, including a new album cover. |
+| Notes | The Spaceman Reissue Program Volume 2  The artwork for this special edition features images from the original photo shot that were unused at the time.   There is no re-mastering credit in the sleeve, but the product description at the label website states: The reissue has been remastered for vinyl by Matt Colton at Metropolis Studios and features revamped artwork, including a new album cover. |
 | Discogs URL    | [Spiritualized - Songs In A&E](https://www.discogs.com/release/31015696-Spiritualized-Songs-In-AE) |

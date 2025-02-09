@@ -37,20 +37,20 @@ But the band were branching out into new directions, too. The syncopated grooves
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Go |  |
-| A2 | Animal |  |
-| A3 | Daughter |  |
-| A4 | Glorified G |  |
-| A5 | Dissident |  |
-| A6 | W.M.A. |  |
-| B1 | Blood |  |
-| B2 | Rearviewmirror |  |
-| B3 | Rats |  |
-| B4 | Elderly Woman Behind The Counter In A Small Town |  |
-| B5 | Leash |  |
-| B6 | Indifference |  |
+| Position | Title |
+|----------|--------|
+| A1 | Go |
+| A2 | Animal |
+| A3 | Daughter |
+| A4 | Glorified G |
+| A5 | Dissident |
+| A6 | W.M.A. |
+| B1 | Blood |
+| B2 | Rearviewmirror |
+| B3 | Rats |
+| B4 | Elderly Woman Behind The Counter In A Small Town |
+| B5 | Leash |
+| B6 | Indifference |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ But the band were branching out into new directions, too. The syncopated grooves
 | Format         | Vinyl LP Album Reissue Remastered Repress (Clear, 30th Anniversary) |
 | Label          | Epic |
 | Catalog Number | 19658836871 |
-| Notes | Gatefold sleeve.<br>Record housed in a white paper & plastic poly-lined inner sleeve.<br>Comes with a double sided, 12x12" replica printed insert.<br><br>Runouts are etched.<br>Pressed in The Netherlands by [l=Record Industry] using the same stampers of [r=8354355]<br><br>Black Hype sticker:<br>VINYL EDITION<br>30TH ANNIVERSARY<br>The explosive second album, Remastered<br>for vinyl featuring "Go", "Daughter", "Animal", "Dissident" and more!<br>19658836871<br><br>White/Silver Hype Sticker:<br>CLEAR COLOURED VINYL<br><br>© 1993, 2011 Sony Music Entertainment / ℗ 1993 Sony Music Entertainment / Distributed by Epic, A Division of Sony Music Entertainment. (on back cover)<br>© 1993, 2011 Sony Music Entertainment. ℗ 1993 Sony Music Entertainment. (on labels)<br><br>Made in the EU.<br><br>This is the EU clear edition.<br>For the US clear edition, see [url=https://www.discogs.com/release/28942606-Pearl-Jam-Vs]Vs.[/url]. |
+| Notes | Gatefold sleeve. Record housed in a white paper & plastic poly-lined inner sleeve. Comes with a double sided, 12x12" replica printed insert.  Runouts are etched. Pressed in The Netherlands by [l=Record Industry] using the same stampers of [r=8354355]  Black Hype sticker: VINYL EDITION 30TH ANNIVERSARY The explosive second album, Remastered for vinyl featuring "Go", "Daughter", "Animal", "Dissident" and more! 19658836871  White/Silver Hype Sticker: CLEAR COLOURED VINYL  © 1993, 2011 Sony Music Entertainment / ℗ 1993 Sony Music Entertainment / Distributed by Epic, A Division of Sony Music Entertainment. (on back cover) © 1993, 2011 Sony Music Entertainment. ℗ 1993 Sony Music Entertainment. (on labels)  Made in the EU.  This is the EU clear edition. For the US clear edition, see [url=https://www.discogs.com/release/28942606-Pearl-Jam-Vs]Vs.[/url]. |
 | Discogs URL    | [Pearl Jam - Vs.](https://www.discogs.com/release/28931644-Pearl-Jam-Vs) |

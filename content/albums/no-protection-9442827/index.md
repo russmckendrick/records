@@ -30,16 +30,16 @@ No Protection is a 1995 dub remix of Massive Attack's second album Protection by
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radiation Ruling The Nation (Protection) | 8:35 |
-| A2 | Bumper Ball Dub (Karmacoma) | 5:59 |
-| A3 | Trinity Dub (Three) | 4:22 |
-| A4 | Cool Monsoon (Weather Storm) | 7:10 |
-| B1 | Eternal Feedback (Sly) | 6:26 |
-| B2 | Moving Dub (Better Things) | 5:57 |
-| B3 | I Spy (Spying Glass) | 5:07 |
-| B4 | Backward Sucking (Heat Miser) | 6:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Radiation Ruling The Nation (Protection) |
+| A2 | Bumper Ball Dub (Karmacoma) |
+| A3 | Trinity Dub (Three) |
+| A4 | Cool Monsoon (Weather Storm) |
+| B1 | Eternal Feedback (Sly) |
+| B2 | Moving Dub (Better Things) |
+| B3 | I Spy (Spying Glass) |
+| B4 | Backward Sucking (Heat Miser) |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ No Protection is a 1995 dub remix of Massive Attack's second album Protection by
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 5700963 |
-| Notes | A Mad Professor dub version of Massive Attack's [url=http://www.discogs.com/Massive-Attack-Protection/master/32634] "Protection"[/url] album.<br><br><br>℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.<br><br>Track duration not mentioned on record/sleeve.<br><br>Includes a download card for the album on l[url=https://www.discogs.com/release/9665728]ossless digital WAV/PCM files[/url].<br> |
+| Notes | A Mad Professor dub version of Massive Attack's [url=http://www.discogs.com/Massive-Attack-Protection/master/32634] "Protection"[/url] album.   ℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Track duration not mentioned on record/sleeve.  Includes a download card for the album on l[url=https://www.discogs.com/release/9665728]ossless digital WAV/PCM files[/url].  |
 | Discogs URL    | [Massive Attack - No Protection](https://www.discogs.com/release/9442827-Massive-Attack-V-Mad-Professor-No-Protection) |

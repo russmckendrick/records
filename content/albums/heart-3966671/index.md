@@ -34,18 +34,18 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If Looks Could Kill | 3:41 |
-| A2 | What About Love | 3:39 |
-| A3 | Never | 4:04 |
-| A4 | These Dreams | 4:13 |
-| A5 | The Wolf | 4:02 |
-| B1 | All Eyes | 3:54 |
-| B2 | Nobody Home | 4:08 |
-| B3 | Nothin' At All | 4:12 |
-| B4 | What He Don't Know | 3:40 |
-| B5 | Shell Shock | 3:42 |
+| Position | Title |
+|----------|--------|
+| A1 | If Looks Could Kill |
+| A2 | What About Love |
+| A3 | Never |
+| A4 | These Dreams |
+| A5 | The Wolf |
+| B1 | All Eyes |
+| B2 | Nobody Home |
+| B3 | Nothin' At All |
+| B4 | What He Don't Know |
+| B5 | Shell Shock |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 | Format         | Vinyl LP Album Club Edition |
 | Label          | Capitol Records |
 | Catalog Number | 43 600 6 |
-| Notes | 'Club Edition'<br><br>'These Dreams' is dedicated to Sharon Hess.<br><br>℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc.<br>Made in EEC.<br>Printed in Holland<br>______________<br><br>Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1). |
+| Notes | 'Club Edition'  'These Dreams' is dedicated to Sharon Hess.  ℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc. Made in EEC. Printed in Holland ______________  Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1). |
 | Discogs URL    | [Heart - Heart](https://www.discogs.com/release/3966671-Heart-Heart) |

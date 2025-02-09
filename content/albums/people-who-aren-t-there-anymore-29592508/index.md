@@ -36,20 +36,20 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | King Of Sweden |  |
-| A2 | The Tower |  |
-| A3 | Deep In The Night |  |
-| A4 | Say Goodbye |  |
-| A5 | Give Me The Ghost Back |  |
-| A6 | Corner Of My Eye |  |
-| B7 | The Thief |  |
-| B8 | Iris |  |
-| B9 | The Fight |  |
-| B10 | Peach |  |
-| B11 | The Sickness |  |
-| B12 | The Garden Wheel |  |
+| Position | Title |
+|----------|--------|
+| A1 | King Of Sweden |
+| A2 | The Tower |
+| A3 | Deep In The Night |
+| A4 | Say Goodbye |
+| A5 | Give Me The Ghost Back |
+| A6 | Corner Of My Eye |
+| B7 | The Thief |
+| B8 | Iris |
+| B9 | The Fight |
+| B10 | Peach |
+| B11 | The Sickness |
+| B12 | The Garden Wheel |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 | Format         | Vinyl LP Album (Transparent) |
 | Label          | 4AD |
 | Catalog Number | 4AD0621LPE |
-| Notes | Indie store exclusive transparent coloured vinyl<br><br>Tracks are listed sequentially on the back cover |
+| Notes | Indie store exclusive transparent coloured vinyl  Tracks are listed sequentially on the back cover |
 | Discogs URL    | [Future Islands - People Who Aren't There Anymore](https://www.discogs.com/release/29592508-Future-Islands-People-Who-Arent-There-Anymore) |

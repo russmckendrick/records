@@ -31,20 +31,20 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ladykillers |  |
-| A2 | Heavenly Nobodies |  |
-| A3 | 500 |  |
-| A4 | I've Been Here Before |  |
-| A5 | Papasan |  |
-| A6 | Single Girl |  |
-| A7 | Ciao! |  |
-| B8 | Tralala |  |
-| B9 | Last Night |  |
-| B10 | Runaway |  |
-| B11 | The Childcatcher |  |
-| B12 | Olympia |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ladykillers |
+| A2 | Heavenly Nobodies |
+| A3 | 500 |
+| A4 | I've Been Here Before |
+| A5 | Papasan |
+| A6 | Single Girl |
+| A7 | Ciao! |
+| B8 | Tralala |
+| B9 | Last Night |
+| B10 | Runaway |
+| B11 | The Childcatcher |
+| B12 | Olympia |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4AD0453LP |
-| Notes | Recorded at Protocol Studios, London, May to August 1995.<br>Mixed at Fort Apache, Cambridge, MA, September 1995, except for track B10: mixed at BJG Studios, London.<br>Mastered at Gateway Mastering, Portland, ME.<br><br>Track durations not stated on this release.<br>Tracks are numbered sequentially across sides.<br><br>Some copies lack sticker barcode.<br> |
+| Notes | Recorded at Protocol Studios, London, May to August 1995. Mixed at Fort Apache, Cambridge, MA, September 1995, except for track B10: mixed at BJG Studios, London. Mastered at Gateway Mastering, Portland, ME.  Track durations not stated on this release. Tracks are numbered sequentially across sides.  Some copies lack sticker barcode.  |
 | Discogs URL    | [Lush - Lovelife](https://www.discogs.com/release/27921891-Lush-Lovelife) |

@@ -30,15 +30,15 @@ styles: ["Prog Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Strung Out  |  |
-| A2 | Dawn Again |  |
-| A3 | Ritual |  |
-| A4 | The Toil |  |
-| A5 | Hallucinations And Delusions |  |
-| B1 | The Confined Escape |  |
-| B2 | Our Shelter |  |
+| Position | Title |
+|----------|--------|
+| A1 | Strung Out  |
+| A2 | Dawn Again |
+| A3 | Ritual |
+| A4 | The Toil |
+| A5 | Hallucinations And Delusions |
+| B1 | The Confined Escape |
+| B2 | Our Shelter |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (180 gram, White) |
 | Label          | Kscope |
 | Catalog Number | Kscope974 |
-| Notes | Limited edition Record Store Day 2018 release. <br><br>"1V" is mirrored in side A runout. |
+| Notes | Limited edition Record Store Day 2018 release.   "1V" is mirrored in side A runout. |
 | Discogs URL    | [The Pineapple Thief - 8 Years Later ](https://www.discogs.com/release/11895351-The-Pineapple-Thief-8-Years-Later-) |

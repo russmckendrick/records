@@ -34,24 +34,24 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The American | 4:30 |
-| A2 | Promised You A Miracle | 4:35 |
-| A3 | Glittering Prize | 4:07 |
-| A4 | See The Lights | 4:58 |
-| B1 | New Gold Dream (81–82–83–84) | 4:58 |
-| B2 | Someone Somewhere In Summertime | 4:40 |
-| B3 | Waterfront | 5:16 |
-| B4 | Sanctify Yourself | 4:59 |
-| C1 | Chelsea Girl | 4:28 |
-| C2 | Alive And Kicking | 5:53 |
-| C3 | Don't You (Forget About Me) | 5:16 |
-| C4 | Long Black Train | 4:34 |
-|  | Bonus Tracks |  |
-| D1 | Stand By Love | 4:11 |
-| D2 | Speed Your Love To Me | 4:03 |
-| D3 | Light Travels | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | The American |
+| A2 | Promised You A Miracle |
+| A3 | Glittering Prize |
+| A4 | See The Lights |
+| B1 | New Gold Dream (81–82–83–84) |
+| B2 | Someone Somewhere In Summertime |
+| B3 | Waterfront |
+| B4 | Sanctify Yourself |
+| C1 | Chelsea Girl |
+| C2 | Alive And Kicking |
+| C3 | Don't You (Forget About Me) |
+| C4 | Long Black Train |
+|  | Bonus Tracks |
+| D1 | Stand By Love |
+| D2 | Speed Your Love To Me |
+| D3 | Light Travels |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 | Format         | Vinyl 2× LP Album |
 | Label          | Caroline International |
 | Catalog Number | SMAC02 |
-| Notes | From sticker:<br>"180gram Double Heavyweihgt Vinyl - 12 Classics Tracks Reworked Acoustically<br>Including Promised You A Miracle - Alive And Kicking - Don't You (Forget About Me)<br>Plus 3 exclusive Bonus Tracks"<br><br>Includes voucher to redeem Wav files for all 15 tracks.<br><br>Made in the EU |
+| Notes | From sticker: "180gram Double Heavyweihgt Vinyl - 12 Classics Tracks Reworked Acoustically Including Promised You A Miracle - Alive And Kicking - Don't You (Forget About Me) Plus 3 exclusive Bonus Tracks"  Includes voucher to redeem Wav files for all 15 tracks.  Made in the EU |
 | Discogs URL    | [Simple Minds - Acoustic](https://www.discogs.com/release/9415335-Simple-Minds-Acoustic) |

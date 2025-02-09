@@ -29,22 +29,22 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chocolate Cake | 4:02 |
-| A2 | It's Only Natural | 3:32 |
-| A3 | Fall At Your Feet | 3:18 |
-| A4 | Tall Trees | 2:19 |
-| A5 | Weather With You | 3:44 |
-| A6 | Whispers And Moans | 3:39 |
-| A7 | Four Seasons In One Day | 2:50 |
-| B1 | There Goes God | 3:50 |
-| B2 | Fame Is | 2:23 |
-| B3 | All I Ask | 3:56 |
-| B4 | As Sure As I Am | 2:53 |
-| B5 | Italian Plastic | 3:39 |
-| B6 | She Goes On | 3:15 |
-| B7 | How Will You Go | 4:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Chocolate Cake |
+| A2 | It's Only Natural |
+| A3 | Fall At Your Feet |
+| A4 | Tall Trees |
+| A5 | Weather With You |
+| A6 | Whispers And Moans |
+| A7 | Four Seasons In One Day |
+| B1 | There Goes God |
+| B2 | Fame Is |
+| B3 | All I Ask |
+| B4 | As Sure As I Am |
+| B5 | Italian Plastic |
+| B6 | She Goes On |
+| B7 | How Will You Go |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Capitol Records |
 | Catalog Number | 788023 |
-| Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Woodface/release/9318517]deluxe edition[/url] of this reissue. <br><br>Engineered at Sunset Sound Factory. |
+| Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Woodface/release/9318517]deluxe edition[/url] of this reissue.   Engineered at Sunset Sound Factory. |
 | Discogs URL    | [Crowded House - Woodface](https://www.discogs.com/release/9322374-Crowded-House-Woodface) |

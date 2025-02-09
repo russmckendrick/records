@@ -38,20 +38,20 @@ The album initially received poor reviews despite its commercial success; the ba
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dead & Bloated | 5:09 |
-| A2 | Sex Type Thing | 3:37 |
-| A3 | Wicked Garden | 4:05 |
-| A4 | No Memory | 1:19 |
-| A5 | Sin | 6:05 |
-| B1 | Naked Sunday | 3:49 |
-| B2 | Creep | 5:35 |
-| B3 | Piece Of Pie | 5:24 |
-| C1 | Plush | 5:09 |
-| C2 | Wet My Bed | 1:36 |
-| C3 | Crackerman | 3:12 |
-| C4 | Where The River Goes | 8:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Dead & Bloated |
+| A2 | Sex Type Thing |
+| A3 | Wicked Garden |
+| A4 | No Memory |
+| A5 | Sin |
+| B1 | Naked Sunday |
+| B2 | Creep |
+| B3 | Piece Of Pie |
+| C1 | Plush |
+| C2 | Wet My Bed |
+| C3 | Crackerman |
+| C4 | Where The River Goes |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The album initially received poor reviews despite its commercial success; the ba
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP833 |
-| Notes | Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.<br><br>Recorded at Rumbo Recorders in Los Angeles, CA<br>Mixed at Can Am Studion (sic) in Los Angeles, CA<br>Mastered at Future Disc Systems<br><br>Originally released ℗ & © 1992 Warner Music.<br>This release ℗ & © 2013 Warner Music.<br>Manufactured & distributed by Music On Vinyl B.V. for Warner Music.<br>Made in the EU. |
+| Notes | Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.  Recorded at Rumbo Recorders in Los Angeles, CA Mixed at Can Am Studion (sic) in Los Angeles, CA Mastered at Future Disc Systems  Originally released ℗ & © 1992 Warner Music. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music. Made in the EU. |
 | Discogs URL    | [Stone Temple Pilots - Core](https://www.discogs.com/release/4798781-Stone-Temple-Pilots-Core) |

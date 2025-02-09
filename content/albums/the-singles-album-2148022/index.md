@@ -30,31 +30,31 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hey Joe | 3:25 |
-| A2 | Stone Free | 3:34 |
-| A3 | Purple Haze | 2:45 |
-| A4 | 51st. Anniversary | 3:14 |
-| A5 | The Wind Cries Mary | 3:16 |
-| A6 | Highway Chile | 3:28 |
-| B1 | Burning Of The Midnight Lamp | 3:36 |
-| B2 | The Stars That Play With Laughing Sam's Dice | 4:17 |
-| B3 | All Along The Watchtower | 3:58 |
-| B4 | Long Hot Summer Night | 3:25 |
-| B5 | Cross-Town Traffic | 2:18 |
-| B6 | Let Me Light Your Fire | 2:38 |
-| C1 | Voodoo Chile (Slight Return) | 5:12 |
-| C2 | Angel | 4:15 |
-| C3 | Night Bird Flying | 3:41 |
-| C4 | Gypsy Eyes | 3:41 |
-| C5 | Remember | 2:44 |
-| C6 | Johnny B. Goode | 4:03 |
-| C7 | Little Wing | 3:15 |
-| D1 | Foxy Lady | 3:10 |
-| D2 | Manic Depression | 3:35 |
-| D3 | 3rd. Stone From The Sun | 6:38 |
-| D4 | Gloria | 8:45 |
+| Position | Title |
+|----------|--------|
+| A1 | Hey Joe |
+| A2 | Stone Free |
+| A3 | Purple Haze |
+| A4 | 51st. Anniversary |
+| A5 | The Wind Cries Mary |
+| A6 | Highway Chile |
+| B1 | Burning Of The Midnight Lamp |
+| B2 | The Stars That Play With Laughing Sam's Dice |
+| B3 | All Along The Watchtower |
+| B4 | Long Hot Summer Night |
+| B5 | Cross-Town Traffic |
+| B6 | Let Me Light Your Fire |
+| C1 | Voodoo Chile (Slight Return) |
+| C2 | Angel |
+| C3 | Night Bird Flying |
+| C4 | Gypsy Eyes |
+| C5 | Remember |
+| C6 | Johnny B. Goode |
+| C7 | Little Wing |
+| D1 | Foxy Lady |
+| D2 | Manic Depression |
+| D3 | 3rd. Stone From The Sun |
+| D4 | Gloria |
 
 
 ## Apple Music

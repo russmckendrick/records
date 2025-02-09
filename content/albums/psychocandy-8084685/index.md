@@ -34,22 +34,22 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Just Like Honey | 3:00 |
-| A2 | The Living End | 2:14 |
-| A3 | Taste The Floor | 2:54 |
-| A4 | The Hardest Walk | 2:36 |
-| A5 | Cut Dead | 2:45 |
-| A6 | In A Hole | 3:01 |
-| A7 | Taste Of Cindy | 1:39 |
-| B1 | Never Understand | 2:58 |
-| B2 | Inside Me | 3:08 |
-| B3 | Sowing Seeds | 2:47 |
-| B4 | My Little Underground | 2:30 |
-| B5 | You Trip Me Up | 2:22 |
-| B6 | Something's Wrong | 4:00 |
-| B7 | It's So Hard | 2:35 |
+| Position | Title |
+|----------|--------|
+| A1 | Just Like Honey |
+| A2 | The Living End |
+| A3 | Taste The Floor |
+| A4 | The Hardest Walk |
+| A5 | Cut Dead |
+| A6 | In A Hole |
+| A7 | Taste Of Cindy |
+| B1 | Never Understand |
+| B2 | Inside Me |
+| B3 | Sowing Seeds |
+| B4 | My Little Underground |
+| B5 | You Trip Me Up |
+| B6 | Something's Wrong |
+| B7 | It's So Hard |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 | Format         | Vinyl LP Album |
 | Label          | Blanco Y Negro |
 | Catalog Number | BYN 7 |
-| Notes | German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN<br>Label differences: three layers of rim text and flag.<br><br>Includes insert. |
+| Notes | German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN Label differences: three layers of rim text and flag.  Includes insert. |
 | Discogs URL    | [The Jesus And Mary Chain - Psychocandy](https://www.discogs.com/release/8084685-The-Jesus-And-Mary-Chain-Psychocandy) |

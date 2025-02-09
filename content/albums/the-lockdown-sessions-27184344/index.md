@@ -42,14 +42,14 @@ The Lockdown Sessions is the fifth studio album by British musician Roger Waters
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mother | 7:20 |
-| A2 | Two Suns In The Sunset | 6:01 |
-| A3 | Vera | 5:14 |
-| B1 | The Gunner's Dream | 5:32 |
-| B2 | The Bravery Of Being Out Of Range | 6:51 |
-| B3 | Comfortably Numb 2022 | 8:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Mother |
+| A2 | Two Suns In The Sunset |
+| A3 | Vera |
+| B1 | The Gunner's Dream |
+| B2 | The Bravery Of Being Out Of Range |
+| B3 | Comfortably Numb 2022 |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Lockdown Sessions is the fifth studio album by British musician Roger Waters
 | Format         | Vinyl LP Album Stereo |
 | Label          | Legacy |
 | Catalog Number | 19658788891 |
-| Notes | Gatefold sleeve<br>Made in the EU.<br><br>The Lockdown Sessions recorded at everyone's homes - 2020 & 2021<br><br>Comfortably Numb 2022 recorded at:<br><br>Bias Studios, Washington DC<br>Tree Sounds, Atlanta<br>Electric Lady, New York<br>Armoury Studios, Vancouver<br>Sargent Recorders, LA<br><br><br>Track A3 listed as 'Vera' on the sleeve and LP label, credited as 'Vera / Bring The Boys Back Home' on the insert.<br><br>Sticker:<br>Includes 5 Songs Recorded During Lockdown<br>Plus, a New Version of the Classic "Comfortably Numb"<br><br>Runouts are stamped, except catalog number and "ꟼR EM" etched.<br><br>Tracks duration derives from [r=26130449] CD edition. |
+| Notes | Gatefold sleeve Made in the EU.  The Lockdown Sessions recorded at everyone's homes - 2020 & 2021  Comfortably Numb 2022 recorded at:  Bias Studios, Washington DC Tree Sounds, Atlanta Electric Lady, New York Armoury Studios, Vancouver Sargent Recorders, LA   Track A3 listed as 'Vera' on the sleeve and LP label, credited as 'Vera / Bring The Boys Back Home' on the insert.  Sticker: Includes 5 Songs Recorded During Lockdown Plus, a New Version of the Classic "Comfortably Numb"  Runouts are stamped, except catalog number and "ꟼR EM" etched.  Tracks duration derives from [r=26130449] CD edition. |
 | Discogs URL    | [Roger Waters - The Lockdown Sessions](https://www.discogs.com/release/27184344-Roger-Waters-The-Lockdown-Sessions) |

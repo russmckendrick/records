@@ -31,20 +31,20 @@ The album was commercially successful and most critics viewed it positively. In 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All Your Love | 3:35 |
-| A2 | Hideaway | 3:14 |
-| A3 | Little Girl | 2:33 |
-| A4 | Another Man | 1:44 |
-| A5 | Double Crossing Time | 3:02 |
-| A6 | What'd I Say | 4:26 |
-| B1 | Key To Love | 2:06 |
-| B2 | Parchman Farm | 2:19 |
-| B3 | Have You Heard | 5:44 |
-| B4 | Ramblin' On My Mind | 3:07 |
-| B5 | Steppin' Out | 2:28 |
-| B6 | It Ain't Right | 2:41 |
+| Position | Title |
+|----------|--------|
+| A1 | All Your Love |
+| A2 | Hideaway |
+| A3 | Little Girl |
+| A4 | Another Man |
+| A5 | Double Crossing Time |
+| A6 | What'd I Say |
+| B1 | Key To Love |
+| B2 | Parchman Farm |
+| B3 | Have You Heard |
+| B4 | Ramblin' On My Mind |
+| B5 | Steppin' Out |
+| B6 | It Ain't Right |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was commercially successful and most critics viewed it positively. In 
 | Format         | Vinyl LP Album Reissue Repress Mono (180 Gram) |
 | Label          | Decca |
 | Catalog Number | 0042280008611 |
-| Notes | Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere<br><br>℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company<br><br>Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966.<br>180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series<br>The MP3 downloads include both the mono and stereo mixes.<br> |
+| Notes | Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere  ℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company  Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966. 180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series The MP3 downloads include both the mono and stereo mixes.  |
 | Discogs URL    | [John Mayall - Blues Breakers](https://www.discogs.com/release/8987135-John-Mayall-With-Eric-Clapton-Blues-Breakers) |

@@ -33,20 +33,20 @@ Every song in the collection is expertly built so the chronological track listin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Take Me I'm Yours | 2:48 |
-| A2 | Goodbye Girl | 3:05 |
-| A3 | Cool For Cats | 3:11 |
-| A4 | Up The Junction | 3:40 |
-| A5 | Slap And Tickle | 4:16 |
-| A6 | Another Nail In My Heart | 2:55 |
-| A7 | Pulling Mussels (From The Shell) | 3:57 |
-| B1 | Is That Love | 2:31 |
-| B2 | Tempted | 3:58 |
-| B3 | Labelled With Love | 4:33 |
-| B4 | Black Coffee In Bed | 6:11 |
-| B5 | Annie Get Your Gun | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Take Me I'm Yours |
+| A2 | Goodbye Girl |
+| A3 | Cool For Cats |
+| A4 | Up The Junction |
+| A5 | Slap And Tickle |
+| A6 | Another Nail In My Heart |
+| A7 | Pulling Mussels (From The Shell) |
+| B1 | Is That Love |
+| B2 | Tempted |
+| B3 | Labelled With Love |
+| B4 | Black Coffee In Bed |
+| B5 | Annie Get Your Gun |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Every song in the collection is expertly built so the chronological track listin
 | Format         | Vinyl LP Compilation |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68552 |
-| Notes | Made in England<br><br>Printed inner sleeve<br> |
+| Notes | Made in England    Printed inner sleeve   |
 | Discogs URL    | [Squeeze - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-2-Singles-45s-And-Under) |

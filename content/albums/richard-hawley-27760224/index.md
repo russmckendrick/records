@@ -28,20 +28,20 @@ Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, gu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Coming Home |  |
-| A2 | Bang To Rights |  |
-| 3A | Sunflower |  |
-| A4 | Caravan |  |
-| A5 | Naked In Pitsmoor |  |
-| A6 | Time Has Made A Change |  |
-| B1 | Happy Families |  |
-| B2 | Caned |  |
-| B3 | Cheap Spanish Whine |  |
-| B4 | Sick Pay |  |
-| B5 | Troublesome Waters |  |
-| B6 | Aran Loop |  |
+| Position | Title |
+|----------|--------|
+| A1 | Coming Home |
+| A2 | Bang To Rights |
+| 3A | Sunflower |
+| A4 | Caravan |
+| A5 | Naked In Pitsmoor |
+| A6 | Time Has Made A Change |
+| B1 | Happy Families |
+| B2 | Caned |
+| B3 | Cheap Spanish Whine |
+| B4 | Sick Pay |
+| B5 | Troublesome Waters |
+| B6 | Aran Loop |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, gu
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Setanta |
 | Catalog Number | SETLP153 |
-| Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl.<br>Catalog printed as SETLP153 - Distributor mail out stated SETLP153C<br><br> |
+| Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl. Catalog printed as SETLP153 - Distributor mail out stated SETLP153C   |
 | Discogs URL    | [Richard Hawley - Richard Hawley](https://www.discogs.com/release/27760224-Richard-Hawley-Richard-Hawley) |

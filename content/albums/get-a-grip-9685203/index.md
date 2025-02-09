@@ -41,22 +41,22 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro | 0:23 |
-| A2 | Eat The Rich | 4:10 |
-| A3 | Get A Grip | 3:58 |
-| A4 | Fever | 4:15 |
-| A5 | Livin' On The Edge | 6:07 |
-| B1 | Flesh | 5:57 |
-| B2 | Walk On Down | 3:39 |
-| B3 | Shut Up And Dance | 4:55 |
-| C1 | Cryin' | 5:08 |
-| C2 | Gotta Love It | 5:58 |
-| C3 | Crazy | 5:17 |
-| D1 | Line Up | 4:02 |
-| D2 | Amazing | 5:56 |
-| D3 | Boogie Man | 2:15 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro |
+| A2 | Eat The Rich |
+| A3 | Get A Grip |
+| A4 | Fever |
+| A5 | Livin' On The Edge |
+| B1 | Flesh |
+| B2 | Walk On Down |
+| B3 | Shut Up And Dance |
+| C1 | Cryin' |
+| C2 | Gotta Love It |
+| C3 | Crazy |
+| D1 | Line Up |
+| D2 | Amazing |
+| D3 | Boogie Man |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 | Format         | Vinyl 2× LP Album Reissue (180 grams) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954398 |
-| Notes | Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA.<br>Mixed at Can-Am Studios, Tarzana, CA.<br>Mastered at Masterdisk, NYC.<br><br>Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits. <br><br>℗ 1993 © 2016 Geffen Records<br><br>Sticker, includes a voucher to download MP3 version of the album. |
+| Notes | Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA. Mixed at Can-Am Studios, Tarzana, CA. Mastered at Masterdisk, NYC.  Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits.   ℗ 1993 © 2016 Geffen Records  Sticker, includes a voucher to download MP3 version of the album. |
 | Discogs URL    | [Aerosmith - Get A Grip](https://www.discogs.com/release/9685203-Aerosmith-Get-A-Grip) |

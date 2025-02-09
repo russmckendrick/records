@@ -36,18 +36,18 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mean To Me |  |
-| A2 | World Where You Live |  |
-| A3 | Now We're Getting Somewhere |  |
-| A4 | Don't Dream It's Over |  |
-| A5 | Love You 'Til The Day I Die |  |
-| B1 | Something So Strong |  |
-| B2 | Hole In The River |  |
-| B3 | Can't Carry On |  |
-| B4 | Tombstone |  |
-| B5 | That's What I Call Love |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mean To Me |
+| A2 | World Where You Live |
+| A3 | Now We're Getting Somewhere |
+| A4 | Don't Dream It's Over |
+| A5 | Love You 'Til The Day I Die |
+| B1 | Something So Strong |
+| B2 | Hole In The River |
+| B3 | Can't Carry On |
+| B4 | Tombstone |
+| B5 | That's What I Call Love |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Capitol Records |
 | Catalog Number | 4788026 |
-| Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Crowded-House/release/9318453]deluxe edition[/url] of this reissue. <br><br>Pressed By information is not listed. Information is derived from runouts.  |
+| Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Crowded-House/release/9318453]deluxe edition[/url] of this reissue.   Pressed By information is not listed. Information is derived from runouts.  |
 | Discogs URL    | [Crowded House - Crowded House](https://www.discogs.com/release/9322408-Crowded-House-Crowded-House) |

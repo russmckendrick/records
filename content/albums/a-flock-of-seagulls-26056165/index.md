@@ -37,19 +37,19 @@ In 2018, the members of the original lineup assembled to record the album Ascens
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Modern Love Is Automatic | 3:49 |
-| A2 | Messages | 2:51 |
-| A3 | I Ran | 4:58 |
-| A4 | Space  Age Love Song | 3:45 |
-| A5 | You Can Run | 4:28 |
-| B1 | Telecommunication | 2:31 |
-| B2 | Standing In The Doorway | 4:41 |
-| B3 | Don't Ask Me | 2:46 |
-| B4 | D.N.A. | 2:30 |
-| B5 | Tokyo | 2:48 |
-| B6 | Man Made | 5:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Modern Love Is Automatic |
+| A2 | Messages |
+| A3 | I Ran |
+| A4 | Space  Age Love Song |
+| A5 | You Can Run |
+| B1 | Telecommunication |
+| B2 | Standing In The Doorway |
+| B3 | Don't Ask Me |
+| B4 | D.N.A. |
+| B5 | Tokyo |
+| B6 | Man Made |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In 2018, the members of the original lineup assembled to record the album Ascens
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Orange) |
 | Label          | BMG |
 | Catalog Number | BMGCAT588CLP |
-| Notes | Manufactured in Ireland.<br>Hype sticker on shrink wrap.<br> |
+| Notes | Manufactured in Ireland. Hype sticker on shrink wrap.  |
 | Discogs URL    | [A Flock Of Seagulls - A Flock Of Seagulls](https://www.discogs.com/release/26056165-A-Flock-Of-Seagulls-A-Flock-Of-Seagulls) |

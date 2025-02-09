@@ -41,37 +41,37 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Knives |  |
-| A2 | Screamager |  |
-| A3 | Hellbelly |  |
-| A4 | Stop It You're Killing Me |  |
-| A5 | Nowhere |  |
-| A6 | Die Laughing |  |
-| A7 | Unbeliever |  |
-| B1 | Trigger Inside |  |
-| B2 | Lunacy Booth |  |
-| B3 | Isolation |  |
-| B4 | Turn |  |
-| B5 | Femtex |  |
-| B6 | Unrequited |  |
-| B7a | Brainsaw |  |
-| B7b | You Are My Sunshine |  |
-| C1 | Pantopon Rose |  |
-| C2 | Breaking The Law |  |
-| C3 | C C Rider |  |
-| C4 | Evil Elvis (The Lost Demo) |  |
-| C5 | Nice 'N' Sleazy |  |
-| C6 | Reuters |  |
-| C7 | Tatty Seaside Town |  |
-| D1 | Auto Surgery |  |
-| D2 | Totally Random Man |  |
-| D3 | Accelerator |  |
-| D4 | Speedball |  |
-| D5 | Bloody Blue |  |
-| D6 | Neck Freak (New Version) |  |
-| D7 | Opal Mantra |  |
+| Position | Title |
+|----------|--------|
+| A1 | Knives |
+| A2 | Screamager |
+| A3 | Hellbelly |
+| A4 | Stop It You're Killing Me |
+| A5 | Nowhere |
+| A6 | Die Laughing |
+| A7 | Unbeliever |
+| B1 | Trigger Inside |
+| B2 | Lunacy Booth |
+| B3 | Isolation |
+| B4 | Turn |
+| B5 | Femtex |
+| B6 | Unrequited |
+| B7a | Brainsaw |
+| B7b | You Are My Sunshine |
+| C1 | Pantopon Rose |
+| C2 | Breaking The Law |
+| C3 | C C Rider |
+| C4 | Evil Elvis (The Lost Demo) |
+| C5 | Nice 'N' Sleazy |
+| C6 | Reuters |
+| C7 | Tatty Seaside Town |
+| D1 | Auto Surgery |
+| D2 | Totally Random Man |
+| D3 | Accelerator |
+| D4 | Speedball |
+| D5 | Bloody Blue |
+| D6 | Neck Freak (New Version) |
+| D7 | Opal Mantra |
 
 
 ## Apple Music
@@ -89,5 +89,5 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 | Format         | Vinyl LP Album Reissue (Silver), Vinyl LP Compilation (Lavender), All Media Deluxe Edition Limited Edition (30th Anniversary) |
 | Label          | A&M Records |
 | Catalog Number | UMCLP099 |
-| Notes | The silver vinyl is opaque whilst the lavender vinyl is translucent.<br>Issued in a single pocket sleeve.<br>Picture inner sleeves, each with a die cut thumb section.<br>Package came shrink-wrapped, affixed to which is a circular hype sticker.<br><br>Copies were made available (300 in total) from [l1052727] which included a 12" art print which was autographed in silver and gold marker pen. These prints were not within the shrink-wrap, but separately in a resealable polybag which had a barcoded identification sticker.<br><br>Recorded at Chipping Norton Studios, Oxford, Rak Studios, London and The Church Studios, London. Mastered at Gateway Studios.<br><br>B7b is a hidden track (credits taken from back of sleeve).<br>Tracks on LP2 have been previously released on singles and EPs.<br><br>(P) 1992/1993/1994 A&M Records Ltd.<br>(C) 2024 A&M Records Ltd. |
+| Notes | The silver vinyl is opaque whilst the lavender vinyl is translucent. Issued in a single pocket sleeve. Picture inner sleeves, each with a die cut thumb section. Package came shrink-wrapped, affixed to which is a circular hype sticker.  Copies were made available (300 in total) from [l1052727] which included a 12" art print which was autographed in silver and gold marker pen. These prints were not within the shrink-wrap, but separately in a resealable polybag which had a barcoded identification sticker.  Recorded at Chipping Norton Studios, Oxford, Rak Studios, London and The Church Studios, London. Mastered at Gateway Studios.  B7b is a hidden track (credits taken from back of sleeve). Tracks on LP2 have been previously released on singles and EPs.  (P) 1992/1993/1994 A&M Records Ltd. (C) 2024 A&M Records Ltd. |
 | Discogs URL    | [Therapy - Troublegum](https://www.discogs.com/release/31822658-Therapy-Troublegum) |

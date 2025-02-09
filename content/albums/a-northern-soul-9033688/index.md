@@ -37,20 +37,20 @@ A Northern Soul received positive reviews from music critics, many of whom prais
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A New Decade |  |
-| A2 | This Is Music |  |
-| A3 | On Your Own |  |
-| A4 | So It Goes |  |
-| B1 | A Northern Soul |  |
-| B2 | Brainstorm Interlude |  |
-| B3 | Drive You Home |  |
-| C1 | History |  |
-| C2 | No Knock On My Door |  |
-| C3 | Life's An Ocean |  |
-| D1 | Stormy Clouds |  |
-| D2 | (Reprise) |  |
+| Position | Title |
+|----------|--------|
+| A1 | A New Decade |
+| A2 | This Is Music |
+| A3 | On Your Own |
+| A4 | So It Goes |
+| B1 | A Northern Soul |
+| B2 | Brainstorm Interlude |
+| B3 | Drive You Home |
+| C1 | History |
+| C2 | No Knock On My Door |
+| C3 | Life's An Ocean |
+| D1 | Stormy Clouds |
+| D2 | (Reprise) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ A Northern Soul received positive reviews from music critics, many of whom prais
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 4786539 |
-| Notes | Originally released 1995 as [url=https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054]HUTLP27[/url].<br>Includes printed innersleeves.<br><br>Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media. |
+| Notes | Originally released 1995 as [url=https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054]HUTLP27[/url]. Includes printed innersleeves.  Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media. |
 | Discogs URL    | [The Verve - A Northern Soul](https://www.discogs.com/release/9033688-The-Verve-A-Northern-Soul) |

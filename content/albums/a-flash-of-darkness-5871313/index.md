@@ -26,19 +26,19 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Flash Of Darkness | 3:15 |
-| A2 | Consuela | 4:05 |
-| A3 | Guilty Again | 3:34 |
-| A4 | It's Hard To Be Good All The Time | 4:07 |
-| A5 | Pink Bullets | 3:39 |
-| A6 | Low Company | 3:57 |
-| B1 | Life Without F(r)iction | 5:06 |
-| B2 | This Is The Lie (And That's The Truth) | 2:23 |
-| B3 | Space Cadet | 3:41 |
-| B4 | Nightcall | 5:00 |
-| B5 | Sleep Song | 5:16 |
+| Position | Title |
+|----------|--------|
+| A1 | A Flash Of Darkness |
+| A2 | Consuela |
+| A3 | Guilty Again |
+| A4 | It's Hard To Be Good All The Time |
+| A5 | Pink Bullets |
+| A6 | Low Company |
+| B1 | Life Without F(r)iction |
+| B2 | This Is The Lie (And That's The Truth) |
+| B3 | Space Cadet |
+| B4 | Nightcall |
+| B5 | Sleep Song |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP346 |
-| Notes | Black vinyl 12" LP.<br><br>Record in white paper sleeve + colour 12"x12" info insert.<br><br>Download card included to redeem all tracks as mp3's.<br> |
+| Notes | Black vinyl 12" LP.    Record in white paper sleeve + colour 12"x12" info insert.    Download card included to redeem all tracks as mp3's.   |
 | Discogs URL    | [Mark Morriss - A Flash Of Darkness](https://www.discogs.com/release/5871313-Mark-Morriss-A-Flash-Of-Darkness) |

@@ -30,20 +30,20 @@ Everything Is Changing is the debut studio album by the former The Gathering and
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Feel Alive |  |
-| A2 | You Want To Be Free |  |
-| A3 | Everything Is Changing |  |
-| A4 | Take Me Home |  |
-| A5 | I Wake Up |  |
-| A6 | Circles |  |
-| B1 | My Boy |  |
-| B2 | Stay |  |
-| B3 | Hope, Pray, Dance, Play |  |
-| B4 | Slow Me Down |  |
-| B5 | Too Late |  |
-| B6 | 1000 Miles Away From You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Feel Alive |
+| A2 | You Want To Be Free |
+| A3 | Everything Is Changing |
+| A4 | Take Me Home |
+| A5 | I Wake Up |
+| A6 | Circles |
+| B1 | My Boy |
+| B2 | Stay |
+| B3 | Hope, Pray, Dance, Play |
+| B4 | Slow Me Down |
+| B5 | Too Late |
+| B6 | 1000 Miles Away From You |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Everything Is Changing is the debut studio album by the former The Gathering and
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-064LPPIC |
-| Notes | For the first time on vinyl, presented in gatefold jacket and printed inner sleeve.<br>Limited to 500 copies on picture disc.<br>Under exclusive license from InsideOut Music |
+| Notes | For the first time on vinyl, presented in gatefold jacket and printed inner sleeve. Limited to 500 copies on picture disc. Under exclusive license from InsideOut Music |
 | Discogs URL    | [Anneke van Giersbergen - Everything Is Changing](https://www.discogs.com/release/8628494-Anneke-van-Giersbergen-Everything-Is-Changing) |

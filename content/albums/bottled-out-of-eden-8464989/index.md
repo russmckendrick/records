@@ -37,30 +37,30 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | High / Aflame |  |
-| A2 | The Germ Inside |  |
-| B1 | I Am Lost |  |
-| B2 | The Deathless |  |
-| B3 | Foul Temple |  |
-| C1 | Vision Of The Bent Path |  |
-| C2 | I Must Set Fire To Your Portrait |  |
-| C3 | Lowered Into Necromancy |  |
-| D1 | A Dream About A Dream |  |
-| D2 | Secret Words |  |
-| D3 | Feel The Sorcery |  |
-| 1 | High / Aflame | 6:31 |
-| 2 | The Germ Inside | 4:47 |
-| 3 | I Am Lost | 7:12 |
-| 4 | The Deathless | 5:26 |
-| 5 | Foul Temple | 2:41 |
-| 6 | Vision Of The Bent Path | 0:32 |
-| 7 | I Must Set Fire To Your Portrait | 5:37 |
-| 8 | Lowered Into Necromancy | 3:59 |
-| 9 | A Dream About A Dream | 5:43 |
-| 10 | Secret Words | 3:12 |
-| 11 | Feel The Sorcery | 3:50 |
+| Position | Title |
+|----------|--------|
+| A1 | High / Aflame |
+| A2 | The Germ Inside |
+| B1 | I Am Lost |
+| B2 | The Deathless |
+| B3 | Foul Temple |
+| C1 | Vision Of The Bent Path |
+| C2 | I Must Set Fire To Your Portrait |
+| C3 | Lowered Into Necromancy |
+| D1 | A Dream About A Dream |
+| D2 | Secret Words |
+| D3 | Feel The Sorcery |
+| 1 | High / Aflame |
+| 2 | The Germ Inside |
+| 3 | I Am Lost |
+| 4 | The Deathless |
+| 5 | Foul Temple |
+| 6 | Vision Of The Bent Path |
+| 7 | I Must Set Fire To Your Portrait |
+| 8 | Lowered Into Necromancy |
+| 9 | A Dream About A Dream |
+| 10 | Secret Words |
+| 11 | Feel The Sorcery |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 447 |
-| Notes | Black vinyl in gatefold with CD.<br><br>Recorded at [l292088].<br>Additional recording at [l999278].<br><br>With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.<br><br>Layout and artwork at [l877277].<br>Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].<br><br>Published by [l196068].<br><br>Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.<br><br>knifeworld.co.uk |
+| Notes | Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk |
 | Discogs URL    | [Knifeworld - Bottled Out Of Eden](https://www.discogs.com/release/8464989-Knifeworld-Bottled-Out-Of-Eden) |

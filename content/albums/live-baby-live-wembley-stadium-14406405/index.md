@@ -34,30 +34,30 @@ styles: ["Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Guns In The Sky |  |
-| A2 | New Sensation |  |
-| A3 | I Send A Message |  |
-| A4 | The Stairs |  |
-| B1 | Know The Difference |  |
-| B2 | Disappear |  |
-| B3 | By My Side |  |
-| B4 | Hear That Sound |  |
-| C1 | Original Sin |  |
-| C2 | Lately |  |
-| C3 | The Loved One |  |
-| C4 | Wild Life |  |
-| D1 | Mystify |  |
-| D2 | Bitter Tears |  |
-| D3 | Suicide Blond |  |
-| D4 | What You Need |  |
-| E1 | Kick |  |
-| E2 | Need You Tonight |  |
-| E3 | Mediate |  |
-| F1 | Never Tears Us Apart |  |
-| F2 | Who Pays The Price |  |
-| F3  | Devil Inside |  |
+| Position | Title |
+|----------|--------|
+| A1 | Guns In The Sky |
+| A2 | New Sensation |
+| A3 | I Send A Message |
+| A4 | The Stairs |
+| B1 | Know The Difference |
+| B2 | Disappear |
+| B3 | By My Side |
+| B4 | Hear That Sound |
+| C1 | Original Sin |
+| C2 | Lately |
+| C3 | The Loved One |
+| C4 | Wild Life |
+| D1 | Mystify |
+| D2 | Bitter Tears |
+| D3 | Suicide Blond |
+| D4 | What You Need |
+| E1 | Kick |
+| E2 | Need You Tonight |
+| E3 | Mediate |
+| F1 | Never Tears Us Apart |
+| F2 | Who Pays The Price |
+| F3  | Devil Inside |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 3× LP Album Deluxe Edition |
 | Label          | Universal Music |
 | Catalog Number | 0602508245091 |
-| Notes | Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.<br><br>This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.    <br><br>Includes a 12 page book of images and notes and a download card |
+| Notes | Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.  This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.      Includes a 12 page book of images and notes and a download card |
 | Discogs URL    | [INXS - Live Baby Live Wembley Stadium](https://www.discogs.com/release/14406405-INXS-Live-Baby-Live-Wembley-Stadium) |

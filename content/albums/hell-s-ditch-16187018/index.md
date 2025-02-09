@@ -30,21 +30,21 @@ Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Sunnyside Of The Street |  |
-| A2 | Sayonara |  |
-| A3 | The Ghost Of A Smile |  |
-| A4 | Hell's Ditch |  |
-| A5 | Lorca's Novena |  |
-| A6 | Summer In Siam |  |
-| B1 | Rain Street |  |
-| B2 | Rainbow Man |  |
-| B3 | The Wake Of The Medusa |  |
-| B4 | House Of The Gods |  |
-| B5 | 5 Green Queens And Jean |  |
-| B6 | Maidrín Rua |  |
-| B7 | Six To Go |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Sunnyside Of The Street |
+| A2 | Sayonara |
+| A3 | The Ghost Of A Smile |
+| A4 | Hell's Ditch |
+| A5 | Lorca's Novena |
+| A6 | Summer In Siam |
+| B1 | Rain Street |
+| B2 | Rainbow Man |
+| B3 | The Wake Of The Medusa |
+| B4 | House Of The Gods |
+| B5 | 5 Green Queens And Jean |
+| B6 | Maidrín Rua |
+| B7 | Six To Go |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Translucent, 180g) |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 825646255856 |
-| Notes | Limited to 5000 copies. Printed card inner sleeve.<br><br>℗ & © 1990 Warner Music UK Ltd. Made in the EU.<br><br>Presented as exclusive on both the European Dig! as well as the US Rhino sites.<br>Copies purchased through the US Rhino site might have an added barcode on the protective plastic. |
+| Notes | Limited to 5000 copies. Printed card inner sleeve.  ℗ & © 1990 Warner Music UK Ltd. Made in the EU.  Presented as exclusive on both the European Dig! as well as the US Rhino sites. Copies purchased through the US Rhino site might have an added barcode on the protective plastic. |
 | Discogs URL    | [The Pogues - Hell's Ditch](https://www.discogs.com/release/16187018-The-Pogues-Hells-Ditch) |

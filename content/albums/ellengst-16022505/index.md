@@ -25,16 +25,16 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | House Of Fools |  |
-| A2 | Lost |  |
-| B1 | In The Night |  |
-| B2 | Cry Of Love |  |
-| C1 | Everything I Say |  |
-| C2 | (-) |  |
-| D1 | The Invisible Past |  |
-| D2 | She's In Parties |  |
+| Position | Title |
+|----------|--------|
+| A1 | House Of Fools |
+| A2 | Lost |
+| B1 | In The Night |
+| B2 | Cry Of Love |
+| C1 | Everything I Say |
+| C2 | (-) |
+| D1 | The Invisible Past |
+| D2 | She's In Parties |
 
 
 ## Apple Music

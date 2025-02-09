@@ -29,19 +29,19 @@ Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wake Up |  |
-| A2 | All You Pretty Girls |  |
-| A3 | Shake You Donkey Up |  |
-| A4 | Seagulls Screaming Kiss Her Kiss Her |  |
-| A5 | This World Over |  |
-| B1 | The Everyday Story Of Smalltown |  |
-| B2 | I Bought Myself A Liarbird |  |
-| B3 | Reign Of Blows |  |
-| B4 | You're The Wish You Are I Had |  |
-| B5 | I Remember The Sun |  |
-| B6 | Train Running Low On Soul Coal |  |
+| Position | Title |
+|----------|--------|
+| A1 | Wake Up |
+| A2 | All You Pretty Girls |
+| A3 | Shake You Donkey Up |
+| A4 | Seagulls Screaming Kiss Her Kiss Her |
+| A5 | This World Over |
+| B1 | The Everyday Story Of Smalltown |
+| B2 | I Bought Myself A Liarbird |
+| B3 | Reign Of Blows |
+| B4 | You're The Wish You Are I Had |
+| B5 | I Remember The Sun |
+| B6 | Train Running Low On Soul Coal |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart a
 | Format         | Vinyl LP Album Reissue (Gatefold, 200g) |
 | Label          | Ape House |
 | Catalog Number | APELP107 |
-| Notes | Sticker in front:<br>"XTC I The Big Express<br>The 1984 classic album newly cut<br>from masters approved by<br>Andy Partridge. Pressed on 200G<br>super-heavyweight vinyl <br>in new gatefold sleeve.<br><br>APELP107 6 3367 60651 8"<br><br>Made in the UK (back cover) |
+| Notes | Sticker in front: "XTC I The Big Express The 1984 classic album newly cut from masters approved by Andy Partridge. Pressed on 200G super-heavyweight vinyl  in new gatefold sleeve.  APELP107 6 3367 60651 8"  Made in the UK (back cover) |
 | Discogs URL    | [XTC - The Big Express](https://www.discogs.com/release/25208314-XTC-The-Big-Express) |

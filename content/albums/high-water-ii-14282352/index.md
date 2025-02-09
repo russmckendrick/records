@@ -36,20 +36,20 @@ High Water II is the second studio album by American band The Magpie Salute. It 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sooner Or Later | 3:32 |
-| A2 | Gimme Something | 4:05 |
-| A3 | Leave It All Behind | 3:00 |
-| B1 | In Here | 3:22 |
-| B2 | You And I | 3:46 |
-| B3 | Mother Storm | 4:06 |
-| C1 | A Mirror | 4:12 |
-| C2 | Lost Boy | 4:21 |
-| C3 | Turn It Around | 3:54 |
-| D1 | Life Is A Landslide | 4:12 |
-| D2 | Doesn't Really Matter | 4:28 |
-| D3 | Where Is The Place | 4:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Sooner Or Later |
+| A2 | Gimme Something |
+| A3 | Leave It All Behind |
+| B1 | In Here |
+| B2 | You And I |
+| B3 | Mother Storm |
+| C1 | A Mirror |
+| C2 | Lost Boy |
+| C3 | Turn It Around |
+| D1 | Life Is A Landslide |
+| D2 | Doesn't Really Matter |
+| D3 | Where Is The Place |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ High Water II is the second studio album by American band The Magpie Salute. It 
 | Format         | Vinyl 2× LP Album |
 | Label          | Provogue |
 | Catalog Number | PRD 7580 1 |
-| Notes | First catalog# on sleeve, second on labels.<br><br>℗&© 2019 Mascot Music Productions And Publishing BV.<br>Made in the EU.<br><br>Download card included |
+| Notes | First catalog# on sleeve, second on labels.  ℗&© 2019 Mascot Music Productions And Publishing BV. Made in the EU.  Download card included |
 | Discogs URL    | [The Magpie Salute - High Water II](https://www.discogs.com/release/14282352-The-Magpie-Salute-High-Water-II) |

@@ -34,19 +34,19 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dead Hearts | 3:29 |
-| A2 | Wasted Daylight | 3:43 |
-| A3 | I Died So I Could Haunt You | 3:04 |
-| A4 | Fixed | 3:26 |
-| A5 | We Don't Want Your Body | 3:25 |
-| B6 | He Dreams He's Awake | 4:04 |
-| B7 | Changes | 4:13 |
-| B8 | The Passenger | 4:17 |
-| B9 | The Last Song Ever Written | 3:17 |
-| B10 | How Much More | 2:56 |
-| B11 | Winter Bones | 3:00 |
+| Position | Title |
+|----------|--------|
+| A1 | Dead Hearts |
+| A2 | Wasted Daylight |
+| A3 | I Died So I Could Haunt You |
+| A4 | Fixed |
+| A5 | We Don't Want Your Body |
+| B6 | He Dreams He's Awake |
+| B7 | Changes |
+| B8 | The Passenger |
+| B9 | The Last Song Ever Written |
+| B10 | How Much More |
+| B11 | Winter Bones |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress Stereo (PET, Transparent Black) |
 | Label          | Naked Record Club |
 | Catalog Number | NAKED 005 |
-| Notes | ℗ 2023 Naked under exclusive licence from Get Paid Inc.<br>© 2023 Naked Record Club<br>www.nakedrecordclub.com<br>Manufactured in the Netherlands<br><br>The uncredited pressing company is derived from nakedrecordclub.com release page, which says :<br>Premier disque vinyle de Naked à être pressé par Green Vinyl Records (GVR) aux Pays-Bas.<br><br>Rerelease by Naked Record Club on Eco-Friendly vinyl. Hand-numbered edition out of 700. 1-500 are NAKED Record Club hand-numbered copies whilst 501-700 were pressed especially for the bands European & North American Tours. |
+| Notes | ℗ 2023 Naked under exclusive licence from Get Paid Inc. © 2023 Naked Record Club www.nakedrecordclub.com Manufactured in the Netherlands  The uncredited pressing company is derived from nakedrecordclub.com release page, which says : Premier disque vinyle de Naked à être pressé par Green Vinyl Records (GVR) aux Pays-Bas.  Rerelease by Naked Record Club on Eco-Friendly vinyl. Hand-numbered edition out of 700. 1-500 are NAKED Record Club hand-numbered copies whilst 501-700 were pressed especially for the bands European & North American Tours. |
 | Discogs URL    | [Stars - The Five Ghosts](https://www.discogs.com/release/26126612-Stars-The-Five-Ghosts) |

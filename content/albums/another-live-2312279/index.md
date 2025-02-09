@@ -35,16 +35,16 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Another Life | 7:07 |
-| A2 | The Wheel | 6:59 |
-| A3 | The Seven Rays | 8:46 |
-| B1 | Intro / Mister Triscuits | 5:24 |
-| B2 | Something's Coming | 2:49 |
-| B3 | Heavy Metal Kids | 4:14 |
-| B4 | Do Ya | 4:09 |
-| B5 | Just One Victory | 5:17 |
+| Position | Title |
+|----------|--------|
+| A1 | Another Life |
+| A2 | The Wheel |
+| A3 | The Seven Rays |
+| B1 | Intro / Mister Triscuits |
+| B2 | Something's Coming |
+| B3 | Heavy Metal Kids |
+| B4 | Do Ya |
+| B5 | Just One Victory |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55508 |
-| Notes | Unique Artwork. Includes insert with lyrics and credits.<br><br>Recorded live: August 1975.<br><br>Very similar to [r20758009], but with different label text / publishers. |
+| Notes | Unique Artwork. Includes insert with lyrics and credits.  Recorded live: August 1975.  Very similar to [r20758009], but with different label text / publishers. |
 | Discogs URL    | [Utopia - Another Live](https://www.discogs.com/release/2312279-Todd-Rundgrens-Utopia-Another-Live) |

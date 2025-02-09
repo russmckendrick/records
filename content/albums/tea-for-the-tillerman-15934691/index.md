@@ -35,19 +35,19 @@ styles: ["Pop Rock", "Folk Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Where Do The Children Play? |  |
-| A2 | Hard Headed Woman  |  |
-| A3 | Wild World |  |
-| A4 | Sad Lisa |  |
-| A5 | Miles From Nowhere |  |
-| B1 | But I Might Die Tonight |  |
-| B2 | Longer Boats |  |
-| B3 | Into White |  |
-| B4 | On The Road To Find Out |  |
-| B5 | Father And Son |  |
-| B6 | Tea For The Tillerman |  |
+| Position | Title |
+|----------|--------|
+| A1 | Where Do The Children Play? |
+| A2 | Hard Headed Woman  |
+| A3 | Wild World |
+| A4 | Sad Lisa |
+| A5 | Miles From Nowhere |
+| B1 | But I Might Die Tonight |
+| B2 | Longer Boats |
+| B3 | Into White |
+| B4 | On The Road To Find Out |
+| B5 | Father And Son |
+| B6 | Tea For The Tillerman |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Pop Rock", "Folk Rock"]
 | Format         | Vinyl LP Album (Half-Speed) |
 | Label          | Island Records |
 | Catalog Number | 0888695 |
-| Notes | Re-recording of the 1970 album.<br>with 4 sides insert with lyrics and credits<br><br>Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG.<br>Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.<br><br>Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.<br><br>℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany. |
+| Notes | Re-recording of the 1970 album. with 4 sides insert with lyrics and credits  Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG. Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.  Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.  ℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany. |
 | Discogs URL    | [Yusuf Islam - Tea For The Tillerman²](https://www.discogs.com/release/15934691-Yusuf-Cat-Stevens-Tea-For-The-Tillerman²) |

@@ -30,16 +30,16 @@ styles: ["Dub"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Round One: Scientist Dubs |  |
-| A1 | Caress Me Down - Español Dub (Scientist Mix) |  |
-| A2 | Garden Grove Dub (Scientist Mix) |  |
-| A3 | Santeria Dub (Scientist Mix) |  |
-|  | Round Two: Mad Professor Dubs |  |
-| B1 | Hong Kong Phooey Subliminal Dub (Mad Professor Mix) |  |
-| B2 | April 29,1992 (Miami) Dub (Mad Professor Mix) |  |
-| B3 | Pawn Shop Dub (Mad Professor Mix) |  |
+| Position | Title |
+|----------|--------|
+|  | Round One: Scientist Dubs |
+| A1 | Caress Me Down - Español Dub (Scientist Mix) |
+| A2 | Garden Grove Dub (Scientist Mix) |
+| A3 | Santeria Dub (Scientist Mix) |
+|  | Round Two: Mad Professor Dubs |
+| B1 | Hong Kong Phooey Subliminal Dub (Mad Professor Mix) |
+| B2 | April 29,1992 (Miami) Dub (Mad Professor Mix) |
+| B3 | Pawn Shop Dub (Mad Professor Mix) |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Dub"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Yellow Opaque) |
 | Label          | Gasoline Alley |
 | Catalog Number | B0029669-01 |
-| Notes | 6400 copies.<br><br>Sitcker: "6 Brand New Dub Mixes of Iconic Sublime Songs by Dub Legend Scientist and Mad Professor On Opaque Yellow Vinyl Record Store Day 2021".<br><br>On back cover: A Gasoline Alley, J.V. release; ℗ © 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc.<br><br>Geffen UMe a Universal Music Company<br><br>On insert: "Garden Grove" contains elements from "Five Nights Of Bleeding" ([a20702]). Performed by [a20702]. Used courtesy of Virgin Records, Ltd. |
+| Notes | 6400 copies.  Sitcker: "6 Brand New Dub Mixes of Iconic Sublime Songs by Dub Legend Scientist and Mad Professor On Opaque Yellow Vinyl Record Store Day 2021".  On back cover: A Gasoline Alley, J.V. release; ℗ © 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc.  Geffen UMe a Universal Music Company  On insert: "Garden Grove" contains elements from "Five Nights Of Bleeding" ([a20702]). Performed by [a20702]. Used courtesy of Virgin Records, Ltd. |
 | Discogs URL    | [Sublime - Sublime Meets Scientist & Mad Professor Inna L.B.C.](https://www.discogs.com/release/19113523-Sublime-2-Meets-Scientist-Mad-Professor-Sublime-Meets-Scientist-Mad-Professor-Inna-LBC) |

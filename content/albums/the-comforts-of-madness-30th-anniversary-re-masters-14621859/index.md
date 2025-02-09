@@ -37,38 +37,38 @@ styles: ["Indie Rock", "Shoegaze"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Comforts Of Madness 30th Anniversary Re:Masters |  |
-| A1 | Way The World Is |  |
-| A2 | You Tear The World In Two |  |
-| A3 | Sea Of Sound |  |
-| A4 | True Coming Dream |  |
-| A5 | Little Hammer |  |
-| B6 | Insubstantial |  |
-| B7 | A Deep Sleep For Steven |  |
-| B8 | Language Of Flowers |  |
-| B9 | Fell From The Sun |  |
-| B10 | Sight Of You |  |
-| B11 | Time Thief |  |
-|  | Original Woodhouse Studio Version |  |
-| C1 | Sight Of You |  |
-|  | Woodhouse Studio LP Demos |  |
-| C2 | Way The World Is |  |
-| C3 | Language Of Flowers |  |
-| C4 | You Tear The World In Two |  |
-| C5 | Fell From The Sun |  |
-| C6 | A Deep Sleep For Steven |  |
-| C7 | Time Thief |  |
-| D8 | Sea Of Sound |  |
-| D9 | Insubstantial |  |
-| D10 | Little Hammer |  |
-| D11 | True Coming Dream |  |
-|  | John Peel Session |  |
-| D12 | She Rides The Waves |  |
-| D13 | You Tear The World In Two |  |
-| D14 | Way The World Is |  |
-| D15 | Time Thief |  |
+| Position | Title |
+|----------|--------|
+|  | The Comforts Of Madness 30th Anniversary Re:Masters |
+| A1 | Way The World Is |
+| A2 | You Tear The World In Two |
+| A3 | Sea Of Sound |
+| A4 | True Coming Dream |
+| A5 | Little Hammer |
+| B6 | Insubstantial |
+| B7 | A Deep Sleep For Steven |
+| B8 | Language Of Flowers |
+| B9 | Fell From The Sun |
+| B10 | Sight Of You |
+| B11 | Time Thief |
+|  | Original Woodhouse Studio Version |
+| C1 | Sight Of You |
+|  | Woodhouse Studio LP Demos |
+| C2 | Way The World Is |
+| C3 | Language Of Flowers |
+| C4 | You Tear The World In Two |
+| C5 | Fell From The Sun |
+| C6 | A Deep Sleep For Steven |
+| C7 | Time Thief |
+| D8 | Sea Of Sound |
+| D9 | Insubstantial |
+| D10 | Little Hammer |
+| D11 | True Coming Dream |
+|  | John Peel Session |
+| D12 | She Rides The Waves |
+| D13 | You Tear The World In Two |
+| D14 | Way The World Is |
+| D15 | Time Thief |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ styles: ["Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album, Vinyl LP Compilation, All Media Limited Edition Special Edition (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4AD 0159 LPX |
-| Notes | Limited Double LP Edition on Clear Vinyl<br>Numbering reflects how it's listed on disc labels<br>Typography on front cover art is different from all other vinyl issues in that the band name is cut off. On the right hand of the sleeve appears "Pale S" and part of an "A." On the left hand of the sleeve appears the other half of the "A," and "INTS."<br><br>Tracks A1 - B11 produced and engineered at Blackwing Studios<br>Tracks C1 - D11 recorded at Woodhouse Studios, Leeds<br>Tracks D12 - D15 recorded at BBD Studios, Maida Vale 23 July 1989 |
+| Notes | Limited Double LP Edition on Clear Vinyl Numbering reflects how it's listed on disc labels Typography on front cover art is different from all other vinyl issues in that the band name is cut off. On the right hand of the sleeve appears "Pale S" and part of an "A." On the left hand of the sleeve appears the other half of the "A," and "INTS."  Tracks A1 - B11 produced and engineered at Blackwing Studios Tracks C1 - D11 recorded at Woodhouse Studios, Leeds Tracks D12 - D15 recorded at BBD Studios, Maida Vale 23 July 1989 |
 | Discogs URL    | [Pale Saints - The Comforts Of Madness 30th Anniversary Re:Masters](https://www.discogs.com/release/14621859-Pale-Saints-The-Comforts-Of-Madness-30th-Anniversary-ReMasters) |

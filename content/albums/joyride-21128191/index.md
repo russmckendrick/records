@@ -37,20 +37,20 @@ The band toured extensively to support the record, performing to over 1.7 millio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Joyride |  |
-| A2 | Hotblooded |  |
-| A3 | Fading Like A Flower (Every Time You Leave) |  |
-| A4 | Knockin' On Every Door |  |
-| A5 | Spending My Time |  |
-| A6 | Watercolours In The Rain |  |
-| B1 | The Big L. |  |
-| B2 | (Do You Get) Excited? |  |
-| B3 | Small Talk |  |
-| B4 | Physical Fascination |  |
-| B5 | Things Will Never Be The Same |  |
-| B6 | Perfect Day |  |
+| Position | Title |
+|----------|--------|
+| A1 | Joyride |
+| A2 | Hotblooded |
+| A3 | Fading Like A Flower (Every Time You Leave) |
+| A4 | Knockin' On Every Door |
+| A5 | Spending My Time |
+| A6 | Watercolours In The Rain |
+| B1 | The Big L. |
+| B2 | (Do You Get) Excited? |
+| B3 | Small Talk |
+| B4 | Physical Fascination |
+| B5 | Things Will Never Be The Same |
+| B6 | Perfect Day |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The band toured extensively to support the record, performing to over 1.7 millio
 | Format         | Vinyl LP Album Reissue Stereo (Transparent Orange Marbled, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 5054197107177 |
-| Notes | Back cover: Made in Germany<br><br>Glossy gatefold cover<br> |
+| Notes | Back cover: Made in Germany  Glossy gatefold cover  |
 | Discogs URL    | [Roxette - Joyride](https://www.discogs.com/release/21128191-Roxette-Joyride) |

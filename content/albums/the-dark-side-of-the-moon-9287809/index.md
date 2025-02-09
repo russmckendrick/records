@@ -47,18 +47,18 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Speak To Me | 1:25 |
-| A2 | Breathe (In The Air) | 2:58 |
-| A3 | On The Run | 3:39 |
-| A4 | Time | 6:43 |
-| A5 | The Great Gig In The Sky | 4:38 |
-| B1 | Money | 6:25 |
-| B2 | Us And Them | 7:50 |
-| B3 | Any Colour You Like | 3:20 |
-| B4 | Brain Damage | 3:45 |
-| B5 | Eclipse | 1:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Speak To Me |
+| A2 | Breathe (In The Air) |
+| A3 | On The Run |
+| A4 | Time |
+| A5 | The Great Gig In The Sky |
+| B1 | Money |
+| B2 | Us And Them |
+| B3 | Any Colour You Like |
+| B4 | Brain Damage |
+| B5 | Eclipse |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP8 |
-| Notes | Track A4 "Time" includes an uncredited "Breathe (Reprise)" at the end of the song.<br><br>Comes with a rectangular sticker and a round hype sticker on the front of the shrink wrap.<br>Release contains two posters and two postcard-sized stickers like the original release.<br>Some copies have been sold with the rectangular hype sticker from [r=8961614] in place of the Dark Side of the Moon rectangular sticker. <br><br>[Rectangular sticker]:<br>The stereo remastered album on heavyweight 180g vinyl.<br>Remastered from the original analogue tapes by James Guthrie, Joel Plante and Bernie Grundmann.<br>Original UK release date: March 1973.<br><br>[Round hype sticker]:<br>Pink Floyd<br>The Dark Side Of The Moon<br>5099902987613<br><br>[Publishers]:<br>Tracks 1, 5 and 8 published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br>Tracks 2, 3, 4 and 7 published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd./Roger Waters Music Overseas Ltd., Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell Music Publishing Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br>Tracks 6, 9 and 10 published by Roger Waters Music Overseas Ltd., Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell/Music Publishing Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br><br>Recorded at Abbey Road Studios, London between June 1972 and January 1973.<br><br>℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd.,<br>a Warner Music Group Company. © 2016 Pink Floyd Music Ltd.  The copyright in this<br>sound recording and artwork is owned by Pink Floyd Music Ltd. Made in the E.U.<br>www.pinkfloyd.com<br><br>Made and Printed in the E.U.<br><br>File under POPULAR : Pop Groups<br><br>[Runouts]:<br>In all cases, '16690 [#]A' and '16690 [#]B' are stamped, with the remainder being etched.<br>Pressing plant and lacquer cut identified by runout area.<br><br>Durations do not appear on this release. |
+| Notes | Track A4 "Time" includes an uncredited "Breathe (Reprise)" at the end of the song.  Comes with a rectangular sticker and a round hype sticker on the front of the shrink wrap. Release contains two posters and two postcard-sized stickers like the original release. Some copies have been sold with the rectangular hype sticker from [r=8961614] in place of the Dark Side of the Moon rectangular sticker.   [Rectangular sticker]: The stereo remastered album on heavyweight 180g vinyl. Remastered from the original analogue tapes by James Guthrie, Joel Plante and Bernie Grundmann. Original UK release date: March 1973.  [Round hype sticker]: Pink Floyd The Dark Side Of The Moon 5099902987613  [Publishers]: Tracks 1, 5 and 8 published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp. Tracks 2, 3, 4 and 7 published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd./Roger Waters Music Overseas Ltd., Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell Music Publishing Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp. Tracks 6, 9 and 10 published by Roger Waters Music Overseas Ltd., Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell/Music Publishing Ltd. for the World excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.  Recorded at Abbey Road Studios, London between June 1972 and January 1973.  ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd.  The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. Made in the E.U. www.pinkfloyd.com  Made and Printed in the E.U.  File under POPULAR : Pop Groups  [Runouts]: In all cases, '16690 [#]A' and '16690 [#]B' are stamped, with the remainder being etched. Pressing plant and lacquer cut identified by runout area.  Durations do not appear on this release. |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon](https://www.discogs.com/release/9287809-Pink-Floyd-The-Dark-Side-Of-The-Moon) |

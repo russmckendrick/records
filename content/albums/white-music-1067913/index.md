@@ -30,20 +30,20 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radios In Motion | 2:52 |
-| A2 | Cross Wires | 2:03 |
-| A3 | This Is Pop | 2:38 |
-| A4 | Do What You Do | 1:14 |
-| A5 | Statue Of Liberty | 2:52 |
-| A6 | All Along The Watchtower | 5:40 |
-| B1 | Into The Atom Age | 2:32 |
-| B2 | I'll Set Myself On Fire | 3:00 |
-| B3 | I'm Bugged | 3:59 |
-| B4 | New Town Animal In A Furnished Cage | 1:51 |
-| B5 | Spinning Top | 2:38 |
-| B6 | Neon Shuffle | 4:25 |
+| Position | Title |
+|----------|--------|
+| A1 | Radios In Motion |
+| A2 | Cross Wires |
+| A3 | This Is Pop |
+| A4 | Do What You Do |
+| A5 | Statue Of Liberty |
+| A6 | All Along The Watchtower |
+| B1 | Into The Atom Age |
+| B2 | I'll Set Myself On Fire |
+| B3 | I'm Bugged |
+| B4 | New Town Animal In A Furnished Cage |
+| B5 | Spinning Top |
+| B6 | Neon Shuffle |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2095 |
-| Notes | Some tracks have alternate, shorter titles given on the back sleeve:<br>A2: X Wires<br>B1: Atom Age<br>B2: Set Myself On Fire<br>B4: New Town Animal<br><br>Virgin Records, Vernon Yard, Portobello Road, London W11.<br><br>Recorded at The Manor, Mixed at The Manor & Advision.<br><br>Made in England<br><br>Cat.# V2095 on the rear and spine of the sleeve.<br>Cat.# V 2095 on the labels.<br>© 1977 Virgin Music (Publishers) Ltd exc. A6, B. Feldman & Co Ltd<br><br>Runouts "V-2095-A-1  MASTERED BY NICK W." are etched, others stamped. |
+| Notes | Some tracks have alternate, shorter titles given on the back sleeve: A2: X Wires B1: Atom Age B2: Set Myself On Fire B4: New Town Animal  Virgin Records, Vernon Yard, Portobello Road, London W11.  Recorded at The Manor, Mixed at The Manor & Advision.  Made in England  Cat.# V2095 on the rear and spine of the sleeve. Cat.# V 2095 on the labels. © 1977 Virgin Music (Publishers) Ltd exc. A6, B. Feldman & Co Ltd  Runouts "V-2095-A-1  MASTERED BY NICK W." are etched, others stamped. |
 | Discogs URL    | [XTC - White Music](https://www.discogs.com/release/1067913-XTC-White-Music) |

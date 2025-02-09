@@ -35,15 +35,15 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Cow | 5:07 |
-| A2 | Aja | 7:56 |
-| A3 | Deacon Blues | 7:26 |
-| B1 | Peg | 3:58 |
-| B2 | Home At Last | 5:31 |
-| B3 | I Got The News | 5:03 |
-| B4 | Josie | 4:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Black Cow |
+| A2 | Aja |
+| A3 | Deacon Blues |
+| B1 | Peg |
+| B2 | Home At Last |
+| B3 | I Got The News |
+| B4 | Josie |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | ABC Records |
 | Catalog Number | 0076732168813 |
-| Notes | Issued with a printed inner sleeve and housed in a gatefold jacket.<br>Includes an MP3 download code card.<br><br>[Back To Black sticker on shrink wrap:]<br>[Back To Black logo] [Universal Music Group International logo]<br>Includes a voucher<br>to download MP3<br>version of the album<br>180 Gram Heavyweight Vinyl<br>www.backtoblackvinyl.com<br>[B2B code]<br><br>[Gatefold inside:]<br>Recorded at: Village Recorders, West L.A.; Producer's Workshop, Hollywood; Warner Bros. North Hollywood Recording Studios; ABC Recording Studios; Sound Labs, Hollywood; A&R Studios, N.Y.C.<br><br>[Rear sleeve:]<br>℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc.<br>Made in the EU.<br><br>[Inner sleeve:]<br>Steve Gadd and Michael McDonald appear through courtesy of [url=https://www.discogs.com/label/90718-Warner-Bros-Records-Inc]Warner Bros. Records, Inc.[/url]<br>Chuck Rainey appears through courtesy of [l74446]<br>Victor Feldman appears through courtesy of [l42541].<br>Lee Ritenour appears through courtesy of [l1213591].<br>Wayne Shorter appears through courtesy of [l269353]<br>Tom Scott appears through courtesy of [url=https://www.discogs.com/label/36012-Ode-Records-2]Ode Records[/url].<br>All selections © 1977 ABC/Dunhill Music, Inc. (BMI).<br>© 1977 ABC Records, Inc.<br><br>[Labels:]<br>Published by ABC/Dunhill Music, Inc. (BMI)<br>℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. [...] Made in the EU.<br><br>Runout details:<br>Everything is stamped except hand-etched 'GREG MOORE @ MASTERPIECE' on side B. |
+| Notes | Issued with a printed inner sleeve and housed in a gatefold jacket. Includes an MP3 download code card.  [Back To Black sticker on shrink wrap:] [Back To Black logo] [Universal Music Group International logo] Includes a voucher to download MP3 version of the album 180 Gram Heavyweight Vinyl www.backtoblackvinyl.com [B2B code]  [Gatefold inside:] Recorded at: Village Recorders, West L.A.; Producer's Workshop, Hollywood; Warner Bros. North Hollywood Recording Studios; ABC Recording Studios; Sound Labs, Hollywood; A&R Studios, N.Y.C.  [Rear sleeve:] ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. Made in the EU.  [Inner sleeve:] Steve Gadd and Michael McDonald appear through courtesy of [url=https://www.discogs.com/label/90718-Warner-Bros-Records-Inc]Warner Bros. Records, Inc.[/url] Chuck Rainey appears through courtesy of [l74446] Victor Feldman appears through courtesy of [l42541]. Lee Ritenour appears through courtesy of [l1213591]. Wayne Shorter appears through courtesy of [l269353] Tom Scott appears through courtesy of [url=https://www.discogs.com/label/36012-Ode-Records-2]Ode Records[/url]. All selections © 1977 ABC/Dunhill Music, Inc. (BMI). © 1977 ABC Records, Inc.  [Labels:] Published by ABC/Dunhill Music, Inc. (BMI) ℗ 1977 ABC Records, Inc. © 1977 ABC Records, Inc. [...] Made in the EU.  Runout details: Everything is stamped except hand-etched 'GREG MOORE @ MASTERPIECE' on side B. |
 | Discogs URL    | [Steely Dan - Aja](https://www.discogs.com/release/2884821-Steely-Dan-Aja) |

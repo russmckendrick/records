@@ -37,21 +37,21 @@ The front cover features a composite image of all the band members' faces. Pleas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Space | 4:49 |
-| A2 | Falling Down | 3:37 |
-| A3 | English Beefcake | 5:47 |
-| B1 | Junkie | 4:52 |
-| B2 | Pleased To Meet You | 5:37 |
-| B3 | The Shining | 4:27 |
-| C1 | Senorita | 3:11 |
-| C2 | Gaudi | 3:16 |
-| C3 | What Is It Good For | 4:12 |
-| D1 | Give It Away | 3:04 |
-| D2 | Fine | 3:41 |
-| D3 | Getting Away With It (All Messed Up) | 4:25 |
-| D4 | Alaskan Pipeline | 4:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Space |
+| A2 | Falling Down |
+| A3 | English Beefcake |
+| B1 | Junkie |
+| B2 | Pleased To Meet You |
+| B3 | The Shining |
+| C1 | Senorita |
+| C2 | Gaudi |
+| C3 | What Is It Good For |
+| D1 | Give It Away |
+| D2 | Fine |
+| D3 | Getting Away With It (All Messed Up) |
+| D4 | Alaskan Pipeline |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ The front cover features a composite image of all the band members' faces. Pleas
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 5712915 |
-| Notes | 2017 EU<br> |
+| Notes | 2017 EU  |
 | Discogs URL    | [James - Pleased To Meet You](https://www.discogs.com/release/11277673-James-Pleased-To-Meet-You) |

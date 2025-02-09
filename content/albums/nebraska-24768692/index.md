@@ -39,18 +39,18 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nebraska | 4:27 |
-| A2 | Atlantic City | 3:54 |
-| A3 | Mansion On The Hill | 4:03 |
-| A4 | Johnny 99 | 3:38 |
-| A5  | Highway Patrolman | 5:39 |
-| B1 | State Trooper | 3:15 |
-| B2 | Used Cars | 3:06 |
-| B3 | Open All Night | 2:53 |
-| B4 | My Father's House | 5:03 |
-| B5 | Reason to Believe | 4:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Nebraska |
+| A2 | Atlantic City |
+| A3 | Mansion On The Hill |
+| A4 | Johnny 99 |
+| A5  | Highway Patrolman |
+| B1 | State Trooper |
+| B2 | Used Cars |
+| B3 | Open All Night |
+| B4 | My Father's House |
+| B5 | Reason to Believe |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 | Format         | Vinyl LP Album Club Edition Reissue Remastered Stereo (Black Smoke, 180g, Gatefold) |
 | Label          | Columbia |
 | Catalog Number | 19658704921 |
-| Notes | Packaged in gatefold tip-on jacket with record housed in anti-static sleeve.<br>Comes with an obi strip, an art print, and a listening notes booklet.<br><br>Hype sticker:<br>• 40th Anniversary Edition of Springsteen's Haunting, Homespun Masterpiece<br>• Half-Speed Mastered by Barry Grint, Alchemy Mastering at AIR<br>• Pressed on Exclusive 180g Black Smoke Vinyl<br>• Listening Notes by Peter Ames Carlin; Art Print by Justin A. McHugh<br><br>© 1982, 2022 Bruce Springsteen. ℗ 1982 Bruce Springsteen. Manufactured for Vinyl Me, Please by Sony Music Entertainment, 25 Madison Avenue, New York, NY 10010-8601./"Columbia" and [logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada.<br><br>All words and music [...] © 1982 Bruce Springsteen (ASCAP)<br><br>Recorded in New Jersey [...] on a Teac Tascam Series 144 4-track cassette recorder<br>Mastered at Atlantic Studios [...] |
+| Notes | Packaged in gatefold tip-on jacket with record housed in anti-static sleeve. Comes with an obi strip, an art print, and a listening notes booklet.  Hype sticker: • 40th Anniversary Edition of Springsteen's Haunting, Homespun Masterpiece • Half-Speed Mastered by Barry Grint, Alchemy Mastering at AIR • Pressed on Exclusive 180g Black Smoke Vinyl • Listening Notes by Peter Ames Carlin; Art Print by Justin A. McHugh  © 1982, 2022 Bruce Springsteen. ℗ 1982 Bruce Springsteen. Manufactured for Vinyl Me, Please by Sony Music Entertainment, 25 Madison Avenue, New York, NY 10010-8601./"Columbia" and [logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada.  All words and music [...] © 1982 Bruce Springsteen (ASCAP)  Recorded in New Jersey [...] on a Teac Tascam Series 144 4-track cassette recorder Mastered at Atlantic Studios [...] |
 | Discogs URL    | [Bruce Springsteen - Nebraska](https://www.discogs.com/release/24768692-Bruce-Springsteen-Nebraska) |

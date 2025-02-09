@@ -27,23 +27,23 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue | 2:07 |
-| A2 | The Dark Sentencer | 7:44 |
-| A3 | Unheavenly Creatures | 4:13 |
-| B1 | Toys | 6:27 |
-| B2 | Black Sunday | 4:46 |
-| B3 | Queen Of The Dark | 5:51 |
-| C1 | True Ugly | 5:25 |
-| C2 | Love Protocol | 4:29 |
-| C3 | The Pavilion (A Long Way Back) | 5:11 |
-| D1 | Night-Time Walkers | 5:09 |
-| D2 | The Gutter | 5:49 |
-| D3 | All On Fire | 5:40 |
-| E1 | It Walks Among Us | 5:29 |
-| E2 | Old Flames | 5:50 |
-| E3 | Lucky Stars | 5:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue |
+| A2 | The Dark Sentencer |
+| A3 | Unheavenly Creatures |
+| B1 | Toys |
+| B2 | Black Sunday |
+| B3 | Queen Of The Dark |
+| C1 | True Ugly |
+| C2 | Love Protocol |
+| C3 | The Pavilion (A Long Way Back) |
+| D1 | Night-Time Walkers |
+| D2 | The Gutter |
+| D3 | All On Fire |
+| E1 | It Walks Among Us |
+| E2 | Old Flames |
+| E3 | Lucky Stars |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album (True Ugly Color Vinyl), Vinyl LP Single Sided Album Etched (True Ugly Color Vinyl) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7429-1 |
-| Notes | Tri-Fold Jacket<br>Includes Digital Download<br>1686-174291 & RR-7429-1 Printed On Hype Sticker.<br>Side VI withing etching<br>Made in the EU |
+| Notes | Tri-Fold Jacket Includes Digital Download 1686-174291 & RR-7429-1 Printed On Hype Sticker. Side VI withing etching Made in the EU |
 | Discogs URL    | [Coheed And Cambria - Vaxis – Act I: The Unheavenly Creatures](https://www.discogs.com/release/12677957-Coheed-And-Cambria-Vaxis-Act-I-The-Unheavenly-Creatures) |

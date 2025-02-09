@@ -25,20 +25,20 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ruined |  |
-| A2 | Sex With An X |  |
-| A3 | The Devil's Inside Me |  |
-| A4 | Such A Fool |  |
-| A5 | Turning It On |  |
-| A6 | Overweight But Over You |  |
-| B1 | Poison Pen |  |
-| B2 | I Hate The 80's |  |
-| B3 | Mouth To Mouth |  |
-| B4 | Whitechapel |  |
-| B5 | My God's Bigger Than Your God |  |
-| B6 | Exit The Vaselines |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ruined |
+| A2 | Sex With An X |
+| A3 | The Devil's Inside Me |
+| A4 | Such A Fool |
+| A5 | Turning It On |
+| A6 | Overweight But Over You |
+| B1 | Poison Pen |
+| B2 | I Hate The 80's |
+| B3 | Mouth To Mouth |
+| B4 | Whitechapel |
+| B5 | My God's Bigger Than Your God |
+| B6 | Exit The Vaselines |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 | Format         | Vinyl LP Album |
 | Label          | Sub Pop |
 | Catalog Number | SP 889 |
-| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.<br><br>©℗2010 Under exclusive license to Sub Pop.<br><br>First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].<br><br>Gatefold sleeve. <br><br>In the runouts, GOLDEN is stamped and the rest are etched. |
+| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.  ©℗2010 Under exclusive license to Sub Pop.  First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].  Gatefold sleeve.   In the runouts, GOLDEN is stamped and the rest are etched. |
 | Discogs URL    | [The Vaselines - Sex With An X](https://www.discogs.com/release/2449561-The-Vaselines-Sex-With-An-X) |

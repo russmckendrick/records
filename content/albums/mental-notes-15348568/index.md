@@ -37,18 +37,18 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Late Last Night |  |
-| A2 | Walking Down A Road |  |
-| A3 | Titus |  |
-| A4 | Lovey Dovey |  |
-| A5 | Sweet Dreams |  |
-| B1 | Stranger Than Fiction |  |
-| B2 | Time For A Change |  |
-| B3 | Matinee Idyll |  |
-| B4 | The Woman Who Loves You |  |
-| B5 | Mental Notes |  |
+| Position | Title |
+|----------|--------|
+| A1 | Late Last Night |
+| A2 | Walking Down A Road |
+| A3 | Titus |
+| A4 | Lovey Dovey |
+| A5 | Sweet Dreams |
+| B1 | Stranger Than Fiction |
+| B2 | Time For A Change |
+| B3 | Matinee Idyll |
+| B4 | The Woman Who Loves You |
+| B5 | Mental Notes |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 | Format         | Vinyl LP Album Reissue Remastered (White, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC540 |
-| Notes | Gatefold<br>Runouts are stamped |
+| Notes | Gatefold Runouts are stamped |
 | Discogs URL    | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568-Split-Enz-Mental-Notes) |

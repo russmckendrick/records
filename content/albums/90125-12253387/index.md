@@ -36,17 +36,17 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Owner Of A Lonely Heart | 4:27 |
-| A2 | Hold On | 5:15 |
-| A3 | It Can Happen | 5:39 |
-| A4 | Changes | 6:16 |
-| B1 | Cinema | 2:09 |
-| B2 | Leave It | 4:10 |
-| B3 | Our Song | 4:16 |
-| B4 | City Of Love | 4:48 |
-| B5 | Hearts | 7:34 |
+| Position | Title |
+|----------|--------|
+| A1 | Owner Of A Lonely Heart |
+| A2 | Hold On |
+| A3 | It Can Happen |
+| A4 | Changes |
+| B1 | Cinema |
+| B2 | Leave It |
+| B3 | Our Song |
+| B4 | City Of Love |
+| B5 | Hearts |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 | Format         | Vinyl LP Album Limited Edition Reissue (Tri-Color, 140g) |
 | Label          | ATCO Records |
 | Catalog Number | RCV1 90125 |
-| Notes | Pink colored front sticker states:<br><br>35th Anniversary<br>Tri-Color Vinyl Edition<br>Contains the hits<br>Leave It<br>Owner Of A Lonely Heart<br>If Can Happen<br>603497860685<br><br>140 gram Vinyl coloured in Blue, Yellow and Pink.<br><br>Rear cover and Record label states ‘Made in EU . LC02982 . 603497860685 |
+| Notes | Pink colored front sticker states:  35th Anniversary Tri-Color Vinyl Edition Contains the hits Leave It Owner Of A Lonely Heart If Can Happen 603497860685  140 gram Vinyl coloured in Blue, Yellow and Pink.  Rear cover and Record label states ‘Made in EU . LC02982 . 603497860685 |
 | Discogs URL    | [Yes - 90125](https://www.discogs.com/release/12253387-Yes-90125) |

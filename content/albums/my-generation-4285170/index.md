@@ -31,20 +31,20 @@ The album was made immediately after the Who got their first singles on the char
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Out In The Street |  |
-| A2 | I Don't Mind |  |
-| A3 | The Good's Gone |  |
-| A4 | La-La-La-Lies |  |
-| A5 | Much Too Much |  |
-| A6 | My Generation |  |
-| B1 | The Kids Are Alright |  |
-| B2 | Please, Please, Please |  |
-| B3 | It's Not True |  |
-| B4 | I'm A Man |  |
-| B5 | A Legal Matter |  |
-| B6 | The Ox |  |
+| Position | Title |
+|----------|--------|
+| A1 | Out In The Street |
+| A2 | I Don't Mind |
+| A3 | The Good's Gone |
+| A4 | La-La-La-Lies |
+| A5 | Much Too Much |
+| A6 | My Generation |
+| B1 | The Kids Are Alright |
+| B2 | Please, Please, Please |
+| B3 | It's Not True |
+| B4 | I'm A Man |
+| B5 | A Legal Matter |
+| B6 | The Ox |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album was made immediately after the Who got their first singles on the char
 | Format         | Vinyl LP Album Reissue Repress Mono |
 | Label          | Brunswick |
 | Catalog Number | 3715603 |
-| Notes | Standalone repress of the 2012 cut, originally used for [r=4043005] box.<br>Released on 180g vinyl (not mentioned on the release).<br>Cut at Metropolis ('M' logo in the runouts).  <br>No "ABBEY ROAD" in the runouts.<br><br>Similar editions:<br>[r=26857655]: "ABBEY ROAD" in the runouts (another 2015 edition).<br>[r=23421197]: "ABBEY ROAD" in the runouts but with longer runouts / different runout format.<br><br>Runouts are stamped except for the 'M' logo and "MILES", which are etched.<br><br>[On back cover:]<br> ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company.<br>[...]<br>Made in the EU.<br><br>[On labels:]<br>[...]<br>Long Playing<br>Microgroove Record<br>Made in England. Brunswick Ltd. London. |
+| Notes | Standalone repress of the 2012 cut, originally used for [r=4043005] box. Released on 180g vinyl (not mentioned on the release). Cut at Metropolis ('M' logo in the runouts).   No "ABBEY ROAD" in the runouts.  Similar editions: [r=26857655]: "ABBEY ROAD" in the runouts (another 2015 edition). [r=23421197]: "ABBEY ROAD" in the runouts but with longer runouts / different runout format.  Runouts are stamped except for the 'M' logo and "MILES", which are etched.  [On back cover:]  ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company. [...] Made in the EU.  [On labels:] [...] Long Playing Microgroove Record Made in England. Brunswick Ltd. London. |
 | Discogs URL    | [The Who - My Generation](https://www.discogs.com/release/4285170-The-Who-My-Generation) |

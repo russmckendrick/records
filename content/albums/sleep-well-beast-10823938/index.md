@@ -41,20 +41,20 @@ Nearly 20 years into the band's career, The National have reached a status attai
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nobody Else Will Be There |  |
-| A2 | Day I Die |  |
-| A3 | Walk It Back |  |
-| B1 | The System Only Dreams In Total Darkness |  |
-| B2 | Born To Beg |  |
-| B3 | Turtleneck |  |
-| C1 | Empire Line |  |
-| C2 | I'll Still Destroy You |  |
-| C3 | Guilty Party |  |
-| D1 | Carin at the Liquor Store |  |
-| D2 | Dark Side of the Gym |  |
-| D3 | Sleep Well Beast |  |
+| Position | Title |
+|----------|--------|
+| A1 | Nobody Else Will Be There |
+| A2 | Day I Die |
+| A3 | Walk It Back |
+| B1 | The System Only Dreams In Total Darkness |
+| B2 | Born To Beg |
+| B3 | Turtleneck |
+| C1 | Empire Line |
+| C2 | I'll Still Destroy You |
+| C3 | Guilty Party |
+| D1 | Carin at the Liquor Store |
+| D2 | Dark Side of the Gym |
+| D3 | Sleep Well Beast |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Nearly 20 years into the band's career, The National have reached a status attai
 | Format         | Vinyl 2× LP Album (White) |
 | Label          | 4AD |
 | Catalog Number | 4AD0020LP |
-| Notes | Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download. <br><br>Barcode sticker: 4AD0020LP MADE IN EU<br><br>℗ & © 2017 4AD<br><br>Produced [...] at Long Pond, Hudson Valley, NY.<br><br>"Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.<br><br>All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).<br><br>Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.<br><br>Mastered [...] at Sterling Sound, New York, NY. |
+| Notes | Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download.   Barcode sticker: 4AD0020LP MADE IN EU  ℗ & © 2017 4AD  Produced [...] at Long Pond, Hudson Valley, NY.  "Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.  All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).  Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.  Mastered [...] at Sterling Sound, New York, NY. |
 | Discogs URL    | [The National - Sleep Well Beast](https://www.discogs.com/release/10823938-The-National-Sleep-Well-Beast) |

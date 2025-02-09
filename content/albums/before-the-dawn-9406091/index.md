@@ -52,32 +52,32 @@ Before the Dawn is the second live album by the English singer-songwriter Kate B
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Act I |  |
-| A1 | Lily |  |
-| A2 | Hounds Of Love |  |
-| A3 | Joanni |  |
-| A4  | Top Of The City |  |
-| B1 | Never Be Mine |  |
-| B2 | Running Up That Hill |  |
-| B3 | King Of The Mountain |  |
-|  | Act II |  |
-|  | The Ninth Wave |  |
-|  | Act III (Part I) |  |
-| E1 | Prelude |  |
-| E2 | Prologue |  |
-| E3 | An Architect's Dream |  |
-| E4 | The Painter's Link |  |
-| F1 | Sunset |  |
-| F2 | Aerial Tal |  |
-| F3 | Somewhere In Between |  |
-| F4 | Tawny Moon |  |
-|  | Act III (Part II) |  |
-| G1 | Nocturn |  |
-| G2 | Aerial |  |
-| H1 | Among Angels |  |
-| H2 | Cloudbusting |  |
+| Position | Title |
+|----------|--------|
+|  | Act I |
+| A1 | Lily |
+| A2 | Hounds Of Love |
+| A3 | Joanni |
+| A4  | Top Of The City |
+| B1 | Never Be Mine |
+| B2 | Running Up That Hill |
+| B3 | King Of The Mountain |
+|  | Act II |
+|  | The Ninth Wave |
+|  | Act III (Part I) |
+| E1 | Prelude |
+| E2 | Prologue |
+| E3 | An Architect's Dream |
+| E4 | The Painter's Link |
+| F1 | Sunset |
+| F2 | Aerial Tal |
+| F3 | Somewhere In Between |
+| F4 | Tawny Moon |
+|  | Act III (Part II) |
+| G1 | Nocturn |
+| G2 | Aerial |
+| H1 | Among Angels |
+| H2 | Cloudbusting |
 
 
 ## Apple Music
@@ -95,5 +95,5 @@ Before the Dawn is the second live album by the English singer-songwriter Kate B
 | Format         | Vinyl 4× LP Album, Box Set |
 | Label          | Fish People |
 | Catalog Number | 0190295920166 |
-| Notes | 4 LP box set including a 12" square, 24-page glossy booklet of liner notes, photographs and credits.<br>Individual LP sleeves have spines with text. When laid out left to right, these sleeves configure to form one picture. <br>Discs held in die cut inner sleeves, which are printed with a colour design.<br>The sturdy outer box is within shrink-wrap. Applied to the shrink-wrap is a hype sticker.<br><br>[Back of the box and sleeve of each album:]<br>℗ 2016 The copyright in this sound recording is owned by Noble & Brite Ltd. © 2016 Noble & Brite Ltd. This label copy<br>information is the subject of copyright protection. © 2016 Noble & Brite Ltd. Made in the E.U.<br><br>[Booklet:]<br>Nothing at all has been re-recorded or overdubbed on this live album, just two or three sound FX added to help with the atmosphere. On the first disc the track, Never Be Mine, is the only take that exists, and was recorded when the show was being filmed without an audience. It was cut because the show was too long but is now back in its original position. Everything else runs as was, with only a few edits to help the flow of the music.<br><br>In loving memory of Ian Newton<br><br>Additional runout information:<br>- Runouts are etched<br>- The Optimal Media plating symbols ("geometric" marks) are mirrored<br><br>This version appears to have been sold and distributed in the United States under barcode 888072016583, which was done by placing a sticker over the original barcode. In turn, the United States version's hype sticker contains a Concord Records catalog number CRE00303. Copies purchased under that barcode in the United States do not appear to be a separate release, but simply contain different stickers on the outside of the shrink wrap. |
+| Notes | 4 LP box set including a 12" square, 24-page glossy booklet of liner notes, photographs and credits. Individual LP sleeves have spines with text. When laid out left to right, these sleeves configure to form one picture.  Discs held in die cut inner sleeves, which are printed with a colour design. The sturdy outer box is within shrink-wrap. Applied to the shrink-wrap is a hype sticker.  [Back of the box and sleeve of each album:] ℗ 2016 The copyright in this sound recording is owned by Noble & Brite Ltd. © 2016 Noble & Brite Ltd. This label copy information is the subject of copyright protection. © 2016 Noble & Brite Ltd. Made in the E.U.  [Booklet:] Nothing at all has been re-recorded or overdubbed on this live album, just two or three sound FX added to help with the atmosphere. On the first disc the track, Never Be Mine, is the only take that exists, and was recorded when the show was being filmed without an audience. It was cut because the show was too long but is now back in its original position. Everything else runs as was, with only a few edits to help the flow of the music.  In loving memory of Ian Newton  Additional runout information: - Runouts are etched - The Optimal Media plating symbols ("geometric" marks) are mirrored  This version appears to have been sold and distributed in the United States under barcode 888072016583, which was done by placing a sticker over the original barcode. In turn, the United States version's hype sticker contains a Concord Records catalog number CRE00303. Copies purchased under that barcode in the United States do not appear to be a separate release, but simply contain different stickers on the outside of the shrink wrap. |
 | Discogs URL    | [The KT Fellowship - Before The Dawn](https://www.discogs.com/release/9406091-The-KT-Fellowship-Kate-Bush-Before-The-Dawn) |

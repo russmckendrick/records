@@ -38,22 +38,22 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Acquiesce | 4:24 |
-| A2 | Underneath The Sky | 3:21 |
-| A3 | Talk Tonight | 4:21 |
-| A4 | Going Nowhere | 4:39 |
-| B1 | Fade Away | 4:13 |
-| B2 | The Swamp Song | 4:19 |
-| B3 | I Am The Walrus (Live) | 6:25 |
-| C1 | Listen Up | 6:21 |
-| C2 | Rockin' Chair | 4:35 |
-| C3 | Half The World Away | 4:21 |
-| D1 | (It's Good) To Be Free | 4:18 |
-| D2 | Stay Young | 5:05 |
-| D3 | Headshrinker | 4:38 |
-| D4 | The Masterplan | 5:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Acquiesce |
+| A2 | Underneath The Sky |
+| A3 | Talk Tonight |
+| A4 | Going Nowhere |
+| B1 | Fade Away |
+| B2 | The Swamp Song |
+| B3 | I Am The Walrus (Live) |
+| C1 | Listen Up |
+| C2 | Rockin' Chair |
+| C3 | Half The World Away |
+| D1 | (It's Good) To Be Free |
+| D2 | Stay Young |
+| D3 | Headshrinker |
+| D4 | The Masterplan |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 241 |
-| Notes | Gatefold sleeve.<br>Track durations not shown on release.<br>Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.<br>℗ & © 1998 Creation Records Ltd.  |
+| Notes | Gatefold sleeve.  Track durations not shown on release.  Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.  ℗ & © 1998 Creation Records Ltd.  |
 | Discogs URL    | [Oasis - The Masterplan](https://www.discogs.com/release/1826939-Oasis-2-The-Masterplan) |

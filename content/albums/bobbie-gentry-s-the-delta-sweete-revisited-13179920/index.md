@@ -30,20 +30,20 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Okolona River Bottom Band | 4:37 |
-| A2 | Big Boss Man | 3:25 |
-| A3 | Reunion | 2:22 |
-| A4 | Parchman Farm | 3:47 |
-| A5 | Mornin' Glory | 3:22 |
-| A6 | Sermon | 4:31 |
-| B1 | Tobacco Road | 2:51 |
-| B2 | Penduli Pendulum | 3:11 |
-| B3 | Jessye' Lisabeth | 3:04 |
-| B4 | Refractions | 2:28 |
-| B5 | Courtyard | 3:31 |
-| B6 | Ode To Billie Joe | 5:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Okolona River Bottom Band |
+| A2 | Big Boss Man |
+| A3 | Reunion |
+| A4 | Parchman Farm |
+| A5 | Mornin' Glory |
+| A6 | Sermon |
+| B1 | Tobacco Road |
+| B2 | Penduli Pendulum |
+| B3 | Jessye' Lisabeth |
+| B4 | Refractions |
+| B5 | Courtyard |
+| B6 | Ode To Billie Joe |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 | Format         | Vinyl LP Limited Edition (180g) |
 | Label          | Bella Union |
 | Catalog Number | BELLA852V |
-| Notes | Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe".<br>On sticker:<br>"Mercury Rev<br>"This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke.<br>Limited 180g Vinyl<br>Includes Download"<br> |
+| Notes | Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download"  |
 | Discogs URL    | [Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited](https://www.discogs.com/release/13179920-Mercury-Rev-Bobbie-Gentrys-The-Delta-Sweete-Revisited) |

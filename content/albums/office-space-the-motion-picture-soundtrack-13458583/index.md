@@ -27,20 +27,20 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shove This Jay-Oh-Bee |  |
-| A2 | Get Dis Money |  |
-| A3 | Get Off My Elevator |  |
-| A4 | Big Boss Man |  |
-| A5 | 9 To 5 |  |
-| A6 | Down For Whatever |  |
-| B1 | Damn It Feels Good To Be A Gangsta |  |
-| B2 | Home |  |
-| B3 | No Tears |  |
-| B4 | Still |  |
-| B5 | Mambo No. 8 |  |
-| B6 | Peanut Vendor |  |
+| Position | Title |
+|----------|--------|
+| A1 | Shove This Jay-Oh-Bee |
+| A2 | Get Dis Money |
+| A3 | Get Off My Elevator |
+| A4 | Big Boss Man |
+| A5 | 9 To 5 |
+| A6 | Down For Whatever |
+| B1 | Damn It Feels Good To Be A Gangsta |
+| B2 | Home |
+| B3 | No Tears |
+| B4 | Still |
+| B5 | Mambo No. 8 |
+| B6 | Peanut Vendor |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
 | Label          | Interscope Records |
 | Catalog Number | B0029333-01 |
-| Notes | Stapler red, Record Store Day release limited to 2,500.<br> |
+| Notes | Stapler red, Record Store Day release limited to 2,500.  |
 | Discogs URL    | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |

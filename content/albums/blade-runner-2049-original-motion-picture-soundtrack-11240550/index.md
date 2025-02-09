@@ -35,28 +35,28 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 2049 |  |
-| A2 | Sapper's Tree |  |
-| A3 | Flight to LAPD |  |
-| A4 | Rain |  |
-| A5 | Wallace |  |
-| A6 | Memory |  |
-| A7 | Mesa |  |
-| B1 | Orphanage |  |
-| B2 | Furnace |  |
-| B3 | Someone Lived This |  |
-| B4 | Joi |  |
-| B5 | Pilot |  |
-| B6 | Hijack |  |
-| C1 | That's Why We Believe |  |
-| C2 | Her Eyes Were Green |  |
-| C3 | Sea Wall |  |
-| D1 | All The Best Memories Are Hers |  |
-| D2 | Tears In The Rain |  |
-| D3 | Blade Runner |  |
-| D4 | Almost Human |  |
+| Position | Title |
+|----------|--------|
+| A1 | 2049 |
+| A2 | Sapper's Tree |
+| A3 | Flight to LAPD |
+| A4 | Rain |
+| A5 | Wallace |
+| A6 | Memory |
+| A7 | Mesa |
+| B1 | Orphanage |
+| B2 | Furnace |
+| B3 | Someone Lived This |
+| B4 | Joi |
+| B5 | Pilot |
+| B6 | Hijack |
+| C1 | That's Why We Believe |
+| C2 | Her Eyes Were Green |
+| C3 | Sea Wall |
+| D1 | All The Best Memories Are Hers |
+| D2 | Tears In The Rain |
+| D3 | Blade Runner |
+| D4 | Almost Human |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Epic |
 | Catalog Number | 19075803641 |
-| Notes | The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").<br><br>Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).<br><br>Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.<br><br>Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.<br><br>The catalogue number printed on the spine is 19075803641.<br>The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.<br><br>Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany.<br>Made in the EU. |
+| Notes | The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").  Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).  Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.  Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.  The catalogue number printed on the spine is 19075803641. The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.  Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany. Made in the EU. |
 | Discogs URL    | [Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)](https://www.discogs.com/release/11240550-Hans-Zimmer-Benjamin-Wallfisch-Blade-Runner-2049-Original-Motion-Picture-Soundtrack) |

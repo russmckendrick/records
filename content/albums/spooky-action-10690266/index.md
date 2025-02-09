@@ -26,19 +26,19 @@ Spooky Action is the debut solo album by English singer songwriter and ex-Mansun
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Don't Poke The Bear | 6:49 |
-| A2 | Grey House | 4:43 |
-| A3 | Things People Want | 3:58 |
-| B1 | Who's Wearing The Trousers | 4:45 |
-| B2 | Jealousy Is A Powerful Emotion | 5:38 |
-| B3 | Friends Make The Worst Enemies | 6:49 |
-| C1 | Feeling My Heart Run Slow | 4:26 |
-| C2 | You Don't Really Know Someone, Til You Fall Out With Them | 5:35 |
-| C3 | Can't Get Fairer Than That | 3:13 |
-| D1 | Feel Like I Wanna Stay | 2:45 |
-| D2 | The Inner Wheel | 5:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Don't Poke The Bear |
+| A2 | Grey House |
+| A3 | Things People Want |
+| B1 | Who's Wearing The Trousers |
+| B2 | Jealousy Is A Powerful Emotion |
+| B3 | Friends Make The Worst Enemies |
+| C1 | Feeling My Heart Run Slow |
+| C2 | You Don't Really Know Someone, Til You Fall Out With Them |
+| C3 | Can't Get Fairer Than That |
+| D1 | Feel Like I Wanna Stay |
+| D2 | The Inner Wheel |
 
 
 ## Apple Music

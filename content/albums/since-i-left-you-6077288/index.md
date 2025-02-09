@@ -33,26 +33,26 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Since I Left You | 4:18 |
-| A2 | Stay Another Season | 2:15 |
-| A3 | Radio | 4:52 |
-| A4 | Two Hearts In 3/4 Time | 3:22 |
-| B1 | Avalanche Rock | 0:23 |
-| B2 | Flight Tonight | 3:51 |
-| B3 | Close To You | 3:56 |
-| B4 | Diners Only | 1:43 |
-| B5 | A Different Feeling | 4:23 |
-| C1 | Electricity | 3:29 |
-| C2 | Tonight May Have To Last Me All My Life | 2:20 |
-| C3 | Pablo's Cruise | 0:53 |
-| C4 | Frontier Psychiatrist | 4:47 |
-| D1 | Etoh | 5:02 |
-| D2 | Summer Crane | 4:39 |
-| D3 | Little Journey | 1:53 |
-| D4 | Live At Dominoes | 5:38 |
-| D5 | Extra Kings | 3:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Since I Left You |
+| A2 | Stay Another Season |
+| A3 | Radio |
+| A4 | Two Hearts In 3/4 Time |
+| B1 | Avalanche Rock |
+| B2 | Flight Tonight |
+| B3 | Close To You |
+| B4 | Diners Only |
+| B5 | A Different Feeling |
+| C1 | Electricity |
+| C2 | Tonight May Have To Last Me All My Life |
+| C3 | Pablo's Cruise |
+| C4 | Frontier Psychiatrist |
+| D1 | Etoh |
+| D2 | Summer Crane |
+| D3 | Little Journey |
+| D4 | Live At Dominoes |
+| D5 | Extra Kings |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 | Format         | Vinyl 2× LP Reissue (Gatefold) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 138 |
-| Notes | This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.<br><br>-The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings"<br>-The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode<br>-The gatefold contains an extensive sample list on the right-hand panel<br>-Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label<br>-The gatefold spine is blue<br>-The inner sleeves are black<br>-The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels<br><br>Sample notes:<br>-Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist" <br><br><br>FOOTNOTE<br>The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing):<br>"Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein.<br>"Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture"<br>"Radio" does not contain the "Johnny!" dialogue at the beginning<br>"Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning |
+| Notes | This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.  -The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings" -The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode -The gatefold contains an extensive sample list on the right-hand panel -Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label -The gatefold spine is blue -The inner sleeves are black -The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels  Sample notes: -Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist"    FOOTNOTE The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing): "Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein. "Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture" "Radio" does not contain the "Johnny!" dialogue at the beginning "Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning |
 | Discogs URL    | [The Avalanches - Since I Left You](https://www.discogs.com/release/6077288-The-Avalanches-Since-I-Left-You) |

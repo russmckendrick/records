@@ -32,21 +32,21 @@ styles: ["Soul", "House"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daylight |  |
-| A2 | Sun Come Up |  |
-| A3 | Coalition |  |
-| A4 | You Are My |  |
-| A5 | Meantime |  |
-| A6 | Golden Hour |  |
-| B1 | Sad Banger |  |
-| B2 | USB - USC |  |
-| B3 | Summery |  |
-| B4 | Living Things |  |
-| B5 | Celebrate |  |
-| B6 | The Show |  |
-| C | Orange Sunshine |  |
+| Position | Title |
+|----------|--------|
+| A1 | Daylight |
+| A2 | Sun Come Up |
+| A3 | Coalition |
+| A4 | You Are My |
+| A5 | Meantime |
+| A6 | Golden Hour |
+| B1 | Sad Banger |
+| B2 | USB - USC |
+| B3 | Summery |
+| B4 | Living Things |
+| B5 | Celebrate |
+| B6 | The Show |
+| C | Orange Sunshine |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Soul", "House"]
 | Format         | Vinyl LP Album (Neon Orange), Flexi-disc 7" 45 RPM Shape (Orange), All Media Deluxe Edition Limited Edition |
 | Label          | Plastique Recordings |
 | Catalog Number | FAKE133X |
-| Notes | Edition includes a square flexi-disc.<br><br>Includes a signed art-print.<br><br>Downloadable lyric booklet.<br><br>Edition of 170 <br> |
+| Notes | Edition includes a square flexi-disc.  Includes a signed art-print.  Downloadable lyric booklet.  Edition of 170   |
 | Discogs URL    | [Hifi Sean - Daylight](https://www.discogs.com/release/31020934-Hifi-Sean-David-McAlmont-Daylight) |

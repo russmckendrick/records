@@ -35,20 +35,20 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Precious | 3:36 |
-| A2 | The Phone Call | 2:29 |
-| A3 | Up The Neck | 4:27 |
-| A4 | Tattooed Love Boys | 2:59 |
-| A5 | Space Invader | 3:26 |
-| A6 | The Wait | 3:35 |
-| A7 | Stop Your Sobbing | 3:26 |
-| B1 | Kid | 3:06 |
-| B2 | Private Life | 6:25 |
-| B3 | Brass In Pocket | 3:04 |
-| B4 | Lovers Of Today | 5:51 |
-| B5 | Mystery Achievement | 5:51 |
+| Position | Title |
+|----------|--------|
+| A1 | Precious |
+| A2 | The Phone Call |
+| A3 | Up The Neck |
+| A4 | Tattooed Love Boys |
+| A5 | Space Invader |
+| A6 | The Wait |
+| A7 | Stop Your Sobbing |
+| B1 | Kid |
+| B2 | Private Life |
+| B3 | Brass In Pocket |
+| B4 | Lovers Of Today |
+| B5 | Mystery Achievement |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Red) |
 | Label          | Real Records (2) |
 | Catalog Number | 0190295165093 |
-| Notes | Made in Germany. Limited edition red vinyl with 2018 remastered audio.<br><br>Originally ℗ 1980, Remaster ℗ 2018. © 2021 Warner Music UK Ltd. |
+| Notes | Made in Germany. Limited edition red vinyl with 2018 remastered audio.  Originally ℗ 1980, Remaster ℗ 2018. © 2021 Warner Music UK Ltd. |
 | Discogs URL    | [The Pretenders - Pretenders](https://www.discogs.com/release/20981953-Pretenders-Pretenders) |

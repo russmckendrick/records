@@ -30,19 +30,19 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | She Caught The Katy | 4:10 |
-| A2 | Peter Gunn Theme | 3:46 |
-| A3 | Gimme Some Lovin' | 3:06 |
-| A4 | Shake Your Tail Feather | 2:48 |
-| A5 | Everybody Needs Somebody To Love | 3:21 |
-| A6 | The Old Landmark | 2:56 |
-| B1 | Think | 3:13 |
-| B2 | Theme From Rawhide | 2:37 |
-| B3 | Minnie The Moocher | 3:23 |
-| B4 | Sweet Home Chicago | 7:48 |
-| B5 | Jailhouse Rock | 3:19 |
+| Position | Title |
+|----------|--------|
+| A1 | She Caught The Katy |
+| A2 | Peter Gunn Theme |
+| A3 | Gimme Some Lovin' |
+| A4 | Shake Your Tail Feather |
+| A5 | Everybody Needs Somebody To Love |
+| A6 | The Old Landmark |
+| B1 | Think |
+| B2 | Theme From Rawhide |
+| B3 | Minnie The Moocher |
+| B4 | Sweet Home Chicago |
+| B5 | Jailhouse Rock |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Blue Transparent) |
 | Label          | Atlantic |
 | Catalog Number | 603497845552 |
-| Notes | There are two versions of the info / hype sticker that may appear on the shrink-wrap. <br>Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers:<br>- "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe)<br>- "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)<br><br>In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]<br><br>℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws.<br>Made in the Netherlands. RCV1 16017 / 603497845552 |
+| Notes | There are two versions of the info / hype sticker that may appear on the shrink-wrap.  Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers: - "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe) - "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)  In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]  ℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands. RCV1 16017 / 603497845552 |
 | Discogs URL    | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/16032516-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |

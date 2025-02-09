@@ -28,19 +28,19 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Canterbury |  |
-| A2 | Leaving Hawksbill |  |
-| A3 | Toys Hill |  |
-| A4 | Automatic Foot |  |
-| A5 | Milkbone |  |
-| A6 | Two Sequences |  |
-| B1 | Bleak Strategy |  |
-| B2 | Soft Weed |  |
-| B3 | Red Shift |  |
-| B4 | Cecilia |  |
-| B5 | Velvet Black |  |
+| Position | Title |
+|----------|--------|
+| A1 | Canterbury |
+| A2 | Leaving Hawksbill |
+| A3 | Toys Hill |
+| A4 | Automatic Foot |
+| A5 | Milkbone |
+| A6 | Two Sequences |
+| B1 | Bleak Strategy |
+| B2 | Soft Weed |
+| B3 | Red Shift |
+| B4 | Cecilia |
+| B5 | Velvet Black |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Limited Edition (Red Vinyl) |
 | Label          | Milkbone |
 | Catalog Number | Milkbone001 |
-| Notes | Limited 140g red vinyl edition (featuring original artwork by Matt Berry). Limited to 200 copies.<br><br>Milkbone is a group comprising Phil Scragg (Robert Plant, Cobalt Chapel) on bass, guitar, and keyboards, Matt Berry on keyboards and acoustic guitar, and James Sedge on drums.<br><br>A true labour of love, the trio's magical 2021 debut offers an inspired evocation of the classic early 1970s Canterbury sound fused with elements of Electronic and Fusion music (with echoes of peak period Soft Machine, Weather Report, Jean-Michel Jarre, Terry Riley, Robert Wyatt and more).<br><br>Graham Mann (trombone/percussion) and Cecilia Fage (vocals) guest.<br><br>The runouts appear to be different to the labels with Side A's runout containing a "B" and vice versa. |
+| Notes | Limited 140g red vinyl edition (featuring original artwork by Matt Berry). Limited to 200 copies.  Milkbone is a group comprising Phil Scragg (Robert Plant, Cobalt Chapel) on bass, guitar, and keyboards, Matt Berry on keyboards and acoustic guitar, and James Sedge on drums.  A true labour of love, the trio's magical 2021 debut offers an inspired evocation of the classic early 1970s Canterbury sound fused with elements of Electronic and Fusion music (with echoes of peak period Soft Machine, Weather Report, Jean-Michel Jarre, Terry Riley, Robert Wyatt and more).  Graham Mann (trombone/percussion) and Cecilia Fage (vocals) guest.  The runouts appear to be different to the labels with Side A's runout containing a "B" and vice versa. |
 | Discogs URL    | [Milkbone - Milkbone](https://www.discogs.com/release/21433090-Milkbone-4-Milkbone) |

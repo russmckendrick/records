@@ -39,17 +39,17 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dum Dum Girl |  |
-| A2 | Such A Shame |  |
-| A3 | Renée |  |
-| A4 | It's My Life |  |
-| B1 | Tomorrow Started |  |
-| B2 | The Last Time |  |
-| B3 | Call In The Night Boy |  |
-| B4 | Does Caroline Know? |  |
-| B5 | It's You |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dum Dum Girl |
+| A2 | Such A Shame |
+| A3 | Renée |
+| A4 | It's My Life |
+| B1 | Tomorrow Started |
+| B2 | The Last Time |
+| B3 | Call In The Night Boy |
+| B4 | Does Caroline Know? |
+| B5 | It's You |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 | Format         | Vinyl LP Album Limited Edition Reissue Repress Stereo (Purple Translucent, 180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295792619 |
-| Notes | Repress of the 2017 [r=11009347] on purple vinyl.  Same [l313190] matrix number in runouts.<br><br>Hype sticker reads: LIMITED EDITION 180g PURPLE VINYL. 0190295195328<br>Barcode sticker on reverse of the shrink wrap obscures the barcode on the cover.<br><br>℗ 1984 Parlophone Records Ltd.<br>© 2017 Parlophone Records Ltd. A Warner Music Group Company<br>Manufactured in the EU<br><br>Released in the U.S. on 15 Jan 2021 as part of [url=https://www.discogs.com/label/33244-Rhino-Records-2]Rhino's[/url] 'Start Your Ear Off Right' reissue campaign for 2021.<br><br>Runouts are etched.  In the runouts, "1 |X" is mirrored. |
+| Notes | Repress of the 2017 [r=11009347] on purple vinyl.  Same [l313190] matrix number in runouts.  Hype sticker reads: LIMITED EDITION 180g PURPLE VINYL. 0190295195328 Barcode sticker on reverse of the shrink wrap obscures the barcode on the cover.  ℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company Manufactured in the EU  Released in the U.S. on 15 Jan 2021 as part of [url=https://www.discogs.com/label/33244-Rhino-Records-2]Rhino's[/url] 'Start Your Ear Off Right' reissue campaign for 2021.  Runouts are etched.  In the runouts, "1 |X" is mirrored. |
 | Discogs URL    | [Talk Talk - It's My Life](https://www.discogs.com/release/16032806-Talk-Talk-Its-My-Life) |

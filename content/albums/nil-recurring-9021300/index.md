@@ -34,12 +34,12 @@ Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nil Recurring | 6:15 |
-| A2 | Normal | 7:08 |
-| B1 | Cheating The Polygraph | 7:10 |
-| B2 | What Happens Now? | 8:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Nil Recurring |
+| A2 | Normal |
+| B1 | Cheating The Polygraph |
+| B2 | What Happens Now? |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
 | Format         | Vinyl 12" Mini-Album Reissue Remastered (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE936 |
-| Notes | Pressed By information is not listed. Information is derived from runouts. <br><br>[Liner Notes - Back Cover]<br>Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group<br>℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree<br>Made in Germany<br><br>[Liner Notes - Inner Sleeves]<br>Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006 <br>Normal and What Happens Now? recorded July 2007<br><br> |
+| Notes | Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleeves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007   |
 | Discogs URL    | [Porcupine Tree - Nil Recurring](https://www.discogs.com/release/9021300-Porcupine-Tree-Nil-Recurring) |

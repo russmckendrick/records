@@ -33,17 +33,17 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Doctor! Doctor! |  |
-| A2 | You Take Me Up |  |
-| A3 | Day After Day |  |
-| A4 | Sister Of Mercy |  |
-| A5 | No Peace For The Wicked |  |
-| B1 | The Gap |  |
-| B2 | Hold Me Now |  |
-| B3 | Storm On The Sea |  |
-| B4 | Who Can Stop The Rain |  |
+| Position | Title |
+|----------|--------|
+| A1 | Doctor! Doctor! |
+| A2 | You Take Me Up |
+| A3 | Day After Day |
+| A4 | Sister Of Mercy |
+| A5 | No Peace For The Wicked |
+| B1 | The Gap |
+| B2 | Hold Me Now |
+| B3 | Storm On The Sea |
+| B4 | Who Can Stop The Rain |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 | Format         | Vinyl LP Album Reissue Remastered (Blue Translucent, 180g) |
 | Label          | Vinyl 180 |
 | Catalog Number | VIN180LP103 |
-| Notes | Recorded at Compass Point Studios, Nassau.<br>Mixed at Rak Studios, London.<br>Mastered at Sterling Sound, New York.<br><br>℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management. <br>© 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.<br><br>Made in the EU. |
+| Notes | Recorded at Compass Point Studios, Nassau. Mixed at Rak Studios, London. Mastered at Sterling Sound, New York.  ℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management.  © 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.  Made in the EU. |
 | Discogs URL    | [Thompson Twins - Into The Gap](https://www.discogs.com/release/8603326-Thompson-Twins-Into-The-Gap) |

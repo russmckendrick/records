@@ -36,20 +36,20 @@ In Keeping Secrets of Silent Earth: 3 is the second studio album by American pro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Ring In Return |  |
-| A2 | In Keeping Secrets Of Silent Earth: 3 |  |
-| A3 | Cuts Marked In The March Of Men |  |
-| A4 | Three Evils (Embodied In Love And Shadow) |  |
-| B5 | The Crowing |  |
-| B6 | Blood Red Summer |  |
-| B7 | The Camper Velorium I: Faint Of Hearts |  |
-| B8 | The Camper Velorium II: Backend Of Forever |  |
-| C9 | The Camper Velorium III: Al The Killer |  |
-| C10 | A Favor House Atlantic |  |
-| C11 | The Light & The Glass |  |
-| D12 | 2113 |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Ring In Return |
+| A2 | In Keeping Secrets Of Silent Earth: 3 |
+| A3 | Cuts Marked In The March Of Men |
+| A4 | Three Evils (Embodied In Love And Shadow) |
+| B5 | The Crowing |
+| B6 | Blood Red Summer |
+| B7 | The Camper Velorium I: Faint Of Hearts |
+| B8 | The Camper Velorium II: Backend Of Forever |
+| C9 | The Camper Velorium III: Al The Killer |
+| C10 | A Favor House Atlantic |
+| C11 | The Light & The Glass |
+| D12 | 2113 |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In Keeping Secrets of Silent Earth: 3 is the second studio album by American pro
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | Columbia |
 | Catalog Number | 88843099221 |
-| Notes | Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"<br><br>Tracks are listed sequentially as they appear on the release |
+| Notes | Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"  Tracks are listed sequentially as they appear on the release |
 | Discogs URL    | [Coheed And Cambria - In Keeping Secrets Of Silent Earth: 3](https://www.discogs.com/release/6201565-Coheed-And-Cambria-In-Keeping-Secrets-Of-Silent-Earth-3) |

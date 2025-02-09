@@ -34,18 +34,18 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If These Are Good Times | 3:06 |
-| A2 | Think | 3:05 |
-| A3 | No Fronts | 4:35 |
-| A4 | Pull My Finger | 3:32 |
-| A5 | Who's The King? | 3:53 |
-| B6 | Strip Song | 2:43 |
-| B7 | Queen | 2:24 |
-| B8 | In The Doghouse | 5:43 |
-| B9 | Funnel King | 2:41 |
-| B10 | What Comes Around | 3:22 |
+| Position | Title |
+|----------|--------|
+| A1 | If These Are Good Times |
+| A2 | Think |
+| A3 | No Fronts |
+| A4 | Pull My Finger |
+| A5 | Who's The King? |
+| B6 | Strip Song |
+| B7 | Queen |
+| B8 | In The Doghouse |
+| B9 | Funnel King |
+| B10 | What Comes Around |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | MOVLP2821 |
-| Notes | Edition of 2000 machine numbered copies. <br>Includes 12x12" insert with lyrics and credits.<br>Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |
+| Notes | Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |
 | Discogs URL    | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |

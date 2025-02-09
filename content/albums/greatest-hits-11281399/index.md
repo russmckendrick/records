@@ -35,20 +35,20 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Want To Take You Higher | 5:22 |
-| A2 | Everybody Is A Star | 3:00 |
-| A3 | Stand! | 3:08 |
-| A4 | Life | 2:58 |
-| A5 | Fun | 2:20 |
-| A6 | You Can Make It If You Try | 3:39 |
-| B1 | Dance To The Music | 2:58 |
-| B2 | Everyday People | 2:20 |
-| B3 | Hot Fun In The Summertime | 2:37 |
-| B4 | M'Lady | 2:44 |
-| B5 | Sing A Simple Song | 4:47 |
-| B6 | Thank You Falettinme Be Mice Elf Agin | 3:55 |
+| Position | Title |
+|----------|--------|
+| A1 | I Want To Take You Higher |
+| A2 | Everybody Is A Star |
+| A3 | Stand! |
+| A4 | Life |
+| A5 | Fun |
+| A6 | You Can Make It If You Try |
+| B1 | Dance To The Music |
+| B2 | Everyday People |
+| B3 | Hot Fun In The Summertime |
+| B4 | M'Lady |
+| B5 | Sing A Simple Song |
+| B6 | Thank You Falettinme Be Mice Elf Agin |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Epic |
 | Catalog Number | 88985432351 |
-| Notes | Runouts are etched, '03' on Side A is mirrored.<br> |
+| Notes | Runouts are etched, '03' on Side A is mirrored.  |
 | Discogs URL    | [Sly  The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |

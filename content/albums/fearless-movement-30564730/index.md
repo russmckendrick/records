@@ -42,20 +42,20 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lesanu |  |
-| A2 | Asha The First |  |
-| A3 | The Visionary |  |
-| A4 | Get Lit |  |
-| B5 | Computer Love |  |
-| B6 | Dream State |  |
-| B7 | Interstellar Peace (The Last Stance) |  |
-| C8 | The Garden Path |  |
-| C9 | Road To Self |  |
-| D10 | Together |  |
-| D11 | Lines In The Sand |  |
-| D12 | Prologue |  |
+| Position | Title |
+|----------|--------|
+| A1 | Lesanu |
+| A2 | Asha The First |
+| A3 | The Visionary |
+| A4 | Get Lit |
+| B5 | Computer Love |
+| B6 | Dream State |
+| B7 | Interstellar Peace (The Last Stance) |
+| C8 | The Garden Path |
+| C9 | Road To Self |
+| D10 | Together |
+| D11 | Lines In The Sand |
+| D12 | Prologue |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition Stereo |
 | Label          | Young (5) |
 | Catalog Number | YO350LPE |
-| Notes | Back cover lists tracks in sequential order regardless of sides.<br><br>Runouts are etched.<br><br>[Back cover]:<br>℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young<br><br>[Gatefold]:<br>Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |
+| Notes | Back cover lists tracks in sequential order regardless of sides.  Runouts are etched.  [Back cover]: ℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young  [Gatefold]: Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |
 | Discogs URL    | [Kamasi Washington - Fearless Movement](https://www.discogs.com/release/30564730-Kamasi-Washington-Fearless-Movement) |

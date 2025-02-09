@@ -37,26 +37,26 @@ The Best of Roxy Music is a greatest hits album by English art rock band Roxy Mu
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Avalon | 4:16 |
-| A2 | More Than This | 4:17 |
-| A3 | Jealous Guy | 4:56 |
-| A4 | Over You | 3:26 |
-| B1 | Same Old Scene | 3:57 |
-| B2 | Oh Yeah | 4:51 |
-| B3 | Angel Eyes | 2:51 |
-| B4 | Dance Away | 3:46 |
-| B5 | Both Ends Burning | 5:14 |
-| C1 | Love Is The Drug | 4:08 |
-| C2 | Out Of The Blue | 4:44 |
-| C3 | All I Want Is You | 2:52 |
-| C4 | Mother Of Pearl | 6:34 |
-| D1 | Street Life | 3:28 |
-| D2 | Do The Strand | 4:01 |
-| D3 | Pyjamarama | 2:51 |
-| D4 | Virginia Plain | 2:56 |
-| D5 | Re-Make / Re-Model | 4:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Avalon |
+| A2 | More Than This |
+| A3 | Jealous Guy |
+| A4 | Over You |
+| B1 | Same Old Scene |
+| B2 | Oh Yeah |
+| B3 | Angel Eyes |
+| B4 | Dance Away |
+| B5 | Both Ends Burning |
+| C1 | Love Is The Drug |
+| C2 | Out Of The Blue |
+| C3 | All I Want Is You |
+| C4 | Mother Of Pearl |
+| D1 | Street Life |
+| D2 | Do The Strand |
+| D3 | Pyjamarama |
+| D4 | Virginia Plain |
+| D5 | Re-Make / Re-Model |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ The Best of Roxy Music is a greatest hits album by English art rock band Roxy Mu
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Half-Speed, 180g) |
 | Label          | Virgin |
 | Catalog Number | RMLPB1 |
-| Notes | Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.<br><br>Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.<br><br>Made in the EU. |
+| Notes | Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.  Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.  Made in the EU. |
 | Discogs URL    | [Roxy Music - The Best Of Roxy Music](https://www.discogs.com/release/24389216-Roxy-Music-The-Best-Of-Roxy-Music) |

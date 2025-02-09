@@ -34,31 +34,31 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Terror Bird |  |
-| A2 | Hole |  |
-| A3 | Holy Ghost |  |
-| A4 | Insides In |  |
-| A5 | These Hands |  |
-| B1 | Land Animal |  |
-| B2 | Time Deer |  |
-| B3 | Belly Side Up |  |
-| B4 | The Well |  |
-| B5 | Boxes |  |
-| CD-1 | Terror Bird | 4:09 |
-| CD-2 | Hole | 3:22 |
-| CD-3 | Holy Ghost | 5:33 |
-| CD-4 | Insides In | 6:30 |
-| CD-5 | These Hands | 5:37 |
-| CD-6 | Land Animal | 5:14 |
-| CD-7 | Time Deer | 4:19 |
-| CD-8 | Belly Side Up | 4:15 |
-| CD-9 | The Well | 5:31 |
-| CD-10 | Boxes | 12:44 |
-|  | Bonus Tracks |  |
-| CD-11 | Way Too Long (Sylvia Massy Treatment) | 5:20 |
-| CD-12 | Land Animal (Ben Levin Remix) | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Terror Bird |
+| A2 | Hole |
+| A3 | Holy Ghost |
+| A4 | Insides In |
+| A5 | These Hands |
+| B1 | Land Animal |
+| B2 | Time Deer |
+| B3 | Belly Side Up |
+| B4 | The Well |
+| B5 | Boxes |
+| CD-1 | Terror Bird |
+| CD-2 | Hole |
+| CD-3 | Holy Ghost |
+| CD-4 | Insides In |
+| CD-5 | These Hands |
+| CD-6 | Land Animal |
+| CD-7 | Time Deer |
+| CD-8 | Belly Side Up |
+| CD-9 | The Well |
+| CD-10 | Boxes |
+|  | Bonus Tracks |
+| CD-11 | Way Too Long (Sylvia Massy Treatment) |
+| CD-12 | Land Animal (Ben Levin Remix) |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 | Format         | Vinyl LP Album (White), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 479 |
-| Notes | White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve.<br>Limited edition of 300 copies.<br><br>Bonus tracks listed on front sticker |
+| Notes | White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker |
 | Discogs URL    | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927-Bent-Knee-Land-Animal) |

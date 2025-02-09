@@ -31,18 +31,18 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pill Shovel |  |
-| A2 | Medicine |  |
-| A3 | Nod Scene |  |
-| A4 | Black Mastermind |  |
-| A5 | Zodiac Lung |  |
-| B1 | Spine Of God |  |
-| B2 | Snake Dance |  |
-| B3 | Sin's A Good Man's Brother |  |
-| B4 | Ozium |  |
-| B5 | Ozium (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Pill Shovel |
+| A2 | Medicine |
+| A3 | Nod Scene |
+| A4 | Black Mastermind |
+| A5 | Zodiac Lung |
+| B1 | Spine Of God |
+| B2 | Snake Dance |
+| B3 | Sin's A Good Man's Brother |
+| B4 | Ozium |
+| B5 | Ozium (Demo) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
 | Label          | Napalm Records |
 | Catalog Number | NPR 744 VINYL |
-| Notes | Released on 180g vinyl in gatefold jacket.<br>Made in Germany<br><br>© + ℗ 2017 Napalm Records Handels GmbH<br>Strictly Limited Edition<br><br>There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].<br> |
+| Notes | Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].  |
 | Discogs URL    | [Monster Magnet - Spine Of God](https://www.discogs.com/release/10775588-Monster-Magnet-Spine-Of-God) |

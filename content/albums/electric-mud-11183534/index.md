@@ -31,16 +31,16 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Just Want To Make Love To You | 4:14 |
-| A2 | Hoochie Coochie Man | 4:41 |
-| A3 | Let's Spend The Night Together | 3:07 |
-| A4 | She's All Right | 6:44 |
-| B1 | I'm A Man (Mannish Boy) | 3:21 |
-| B2 | Herbert Harpers Free Press | 4:32 |
-| B3 | Tom Cat | 3:37 |
-| B4 | Same Thing | 5:37 |
+| Position | Title |
+|----------|--------|
+| A1 | I Just Want To Make Love To You |
+| A2 | Hoochie Coochie Man |
+| A3 | Let's Spend The Night Together |
+| A4 | She's All Right |
+| B1 | I'm A Man (Mannish Boy) |
+| B2 | Herbert Harpers Free Press |
+| B3 | Tom Cat |
+| B4 | Same Thing |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-485 |
-| Notes | Recorded at Ter Mar Studios, Chicago, May, 1968<br>Comes with a poster<br><br>For the 2019 reissue WITHOUT poster, see here : [r=16092165] |
+| Notes | Recorded at Ter Mar Studios, Chicago, May, 1968 Comes with a poster  For the 2019 reissue WITHOUT poster, see here : [r=16092165] |
 | Discogs URL    | [Muddy Waters - Electric Mud](https://www.discogs.com/release/11183534-Muddy-Waters-Electric-Mud) |

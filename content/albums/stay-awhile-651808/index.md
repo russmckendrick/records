@@ -30,18 +30,18 @@ styles: ["Soul-Jazz", "Soul"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Only Want To Be With You |  |
-| A2 | Stay Awhile |  |
-| A3 | Mama Said |  |
-| A4 | Anyone Who Had A Heart |  |
-| A5 | When The Lovelight Starts Shining Thru His Eyes |  |
-| B1 | Wishin' And Hopin' |  |
-| B2 | Mockingbird |  |
-| B3 | You Don't Own Me |  |
-| B4 | Something Special |  |
-| B5 | Every Day I Have To Cry |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Only Want To Be With You |
+| A2 | Stay Awhile |
+| A3 | Mama Said |
+| A4 | Anyone Who Had A Heart |
+| A5 | When The Lovelight Starts Shining Thru His Eyes |
+| B1 | Wishin' And Hopin' |
+| B2 | Mockingbird |
+| B3 | You Don't Own Me |
+| B4 | Something Special |
+| B5 | Every Day I Have To Cry |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Soul-Jazz", "Soul"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Wing Records |
 | Catalog Number | WL.1211, WL 1211 |
-| Notes | Release has a small Q + A with Dusty on the rear cover.<br><br>Month of release information from Record Collector Magazine Jan 1994 p.211<br> |
+| Notes | Release has a small Q + A with Dusty on the rear cover.  Month of release information from Record Collector Magazine Jan 1994 p.211  |
 | Discogs URL    | [Dusty Springfield - Stay Awhile](https://www.discogs.com/release/651808-Dusty-Springfield-Stay-Awhile) |

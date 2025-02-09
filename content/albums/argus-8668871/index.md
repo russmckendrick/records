@@ -36,15 +36,15 @@ Argus is the third album by the British rock band Wishbone Ash, released on 28 A
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Time Was | 9:39 |
-| A2 | Sometime World | 6:49 |
-| A3 | Blowin' Free | 5:18 |
-| B1 | The King Will Come | 7:10 |
-| B2 | Leaf And Stream | 3:51 |
-| B3 | Warrior  | 11:58 |
-| B4 | Throw Down The Sword |  |
+| Position | Title |
+|----------|--------|
+| A1 | Time Was |
+| A2 | Sometime World |
+| A3 | Blowin' Free |
+| B1 | The King Will Come |
+| B2 | Leaf And Stream |
+| B3 | Warrior  |
+| B4 | Throw Down The Sword |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Argus is the third album by the British rock band Wishbone Ash, released on 28 A
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | MCA Records |
 | Catalog Number | MCA 410 099 |
-| Notes | Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919<br>BA-213 on rear sleeve<br>(P) 1978 réédition<br>Printed in France Imp Glory 92602 Asnières<br>Made in France<br><br>cat# is given as MCA 410 009 on cover and 410009 on center labels |
+| Notes | Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels |
 | Discogs URL    | [Wishbone Ash - Argus](https://www.discogs.com/release/8668871-Wishbone-Ash-Argus) |

@@ -33,20 +33,20 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hush | 2:10 |
-| A2 | Joining A Fan Club | 4:03 |
-| A3 | Sebrina, Paste And Plato | 2:23 |
-| A4 | New Mistake | 4:03 |
-| A5 | The Glutton Of Sympathy | 3:49 |
-| A6 | The Ghost At Number One | 3:37 |
-| A7 | Bye Bye Bye | 4:02 |
-| B1 | All Is Forgiven | 4:10 |
-| B2 | Russian Hill | 4:45 |
-| B3 | He's My Best Friend | 3:44 |
-| B4 | Too Much, Too Little, Too Late | 3:15 |
-| B5 | Brighter Day | 6:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Hush |
+| A2 | Joining A Fan Club |
+| A3 | Sebrina, Paste And Plato |
+| A4 | New Mistake |
+| A5 | The Glutton Of Sympathy |
+| A6 | The Ghost At Number One |
+| A7 | Bye Bye Bye |
+| B1 | All Is Forgiven |
+| B2 | Russian Hill |
+| B3 | He's My Best Friend |
+| B4 | Too Much, Too Little, Too Late |
+| B5 | Brighter Day |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-6 |
-| Notes | Full title: Jellyfish Presents Spilt Milk<br><br><br>Cut from original analog masters. <br>First time on LP in the U.S. <br>Pressed on 180-Gram Vinyl!<br><br>Black vinyl edition<br><br>As confirmed by John Golden via email (and reported on the Steve Hoffman forum); <br>"The source was 1/2” 30 ips analog. <br>The tape legend says Ocean Way Recording, dated 4-7-1990.<br>The artist marked on the tape boxes as Beatnik Beatch and was changed to Jellyfish.<br>The first set of lacquers I cut were damaged at the pressing plant (RTI) before any pressing were made and were re-cut, that’s why it is scribed Re1." |
+| Notes | Full title: Jellyfish Presents Spilt Milk   Cut from original analog masters.  First time on LP in the U.S.  Pressed on 180-Gram Vinyl!  Black vinyl edition  As confirmed by John Golden via email (and reported on the Steve Hoffman forum);  "The source was 1/2” 30 ips analog.  The tape legend says Ocean Way Recording, dated 4-7-1990. The artist marked on the tape boxes as Beatnik Beatch and was changed to Jellyfish. The first set of lacquers I cut were damaged at the pressing plant (RTI) before any pressing were made and were re-cut, that’s why it is scribed Re1." |
 | Discogs URL    | [Jellyfish - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-2-Spilt-Milk) |

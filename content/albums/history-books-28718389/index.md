@@ -33,18 +33,18 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Spider Bites | 4:19 |
-| A2 | History Books | 3:53 |
-| A3 | Autumn | 4:01 |
-| A4 | Positive Charge | 4:06 |
-| A5 | Michigan, 1975 | 4:15 |
-| B1 | Little Fires | 3:25 |
-| B2 | The Weatherman | 4:27 |
-| B3 | Empires | 4:23 |
-| B4 | I Live In The Room Above Her | 4:17 |
-| B5 | A Lifetime Of Preludes | 3:18 |
+| Position | Title |
+|----------|--------|
+| A1 | Spider Bites |
+| A2 | History Books |
+| A3 | Autumn |
+| A4 | Positive Charge |
+| A5 | Michigan, 1975 |
+| B1 | Little Fires |
+| B2 | The Weatherman |
+| B3 | Empires |
+| B4 | I Live In The Room Above Her |
+| B5 | A Lifetime Of Preludes |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 | Format         | Vinyl LP Album Limited Edition (Yellow [Canary]) |
 | Label          | Thirty Tigers |
 | Catalog Number | 60124LP |
-| Notes | Hype Sticker:<br>The New Album<br><br>Includes “History Books (feat. Bruce Springsteen)”<br><br>Indie Exclusive<br>Canary Yellow Vinyl |
+| Notes | Hype Sticker: The New Album  Includes “History Books (feat. Bruce Springsteen)”  Indie Exclusive Canary Yellow Vinyl |
 | Discogs URL    | [The Gaslight Anthem - History Books](https://www.discogs.com/release/28718389-The-Gaslight-Anthem-History-Books) |

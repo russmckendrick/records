@@ -41,19 +41,19 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | ZERO | 5:42 |
-| A2 | All The Colours Of You | 5:26 |
-| A3 | Recover | 3:44 |
-| B1 | Beautiful Beaches | 5:14 |
-| B2 | Wherever It Takes Us | 5:05 |
-| B3 | Hush | 4:23 |
-| C1 | Getting Myself Into | 3:27 |
-| C2 | Magic Bus | 3:01 |
-| C3 | Miss America | 3:01 |
-| D1 | Isabella | 4:23 |
-| D2 | XYST | 4:23 |
+| Position | Title |
+|----------|--------|
+| A1 | ZERO |
+| A2 | All The Colours Of You |
+| A3 | Recover |
+| B1 | Beautiful Beaches |
+| B2 | Wherever It Takes Us |
+| B3 | Hush |
+| C1 | Getting Myself Into |
+| C2 | Magic Bus |
+| C3 | Miss America |
+| D1 | Isabella |
+| D2 | XYST |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 | Format         | Vinyl 2× LP Album Limited Edition (Red/Black Split) |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM001LPX |
-| Notes | ℗&© 2021 Nothing But Love Music.<br>Made in Poland.<br>300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
+| Notes | ℗&© 2021 Nothing But Love Music. Made in Poland. 300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
 | Discogs URL    | [James - All The Colours Of You](https://www.discogs.com/release/18997504-James-All-The-Colours-Of-You) |

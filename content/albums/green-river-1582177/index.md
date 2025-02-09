@@ -31,17 +31,17 @@ Green River is the third studio album by the American rock band Creedence Clearw
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Green River | 2:31 |
-| A2 | Commotion | 2:37 |
-| A3 | Tombstone | 3:36 |
-| A4 | Wrote A Song For Everyone | 4:55 |
-| B1 | Bad Moon Rising | 2:17 |
-| B2 | Lodi | 3:08 |
-| B3 | Cross-Tie Walker | 3:17 |
-| B4 | Sinister Purpose | 3:19 |
-| B5 | The Night Time Is The Right Time | 3:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Green River |
+| A2 | Commotion |
+| A3 | Tombstone |
+| A4 | Wrote A Song For Everyone |
+| B1 | Bad Moon Rising |
+| B2 | Lodi |
+| B3 | Cross-Tie Walker |
+| B4 | Sinister Purpose |
+| B5 | The Night Time Is The Right Time |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Green River is the third studio album by the American rock band Creedence Clearw
 | Format         | Vinyl LP Album Reissue |
 | Label          | Fantasy |
 | Catalog Number | FASLP 5004 |
-| Notes | Sleeve - NOT LICENSED FOR SALE IN THE USA AND CANADA<br>Label - RCA Ltd. are the exclusive licensees for the UK<br><br>Made in Germany · Fabriqué en Allemagne<br>Printed in W Germany · Imprimé en Allemagne |
+| Notes | Sleeve - NOT LICENSED FOR SALE IN THE USA AND CANADA Label - RCA Ltd. are the exclusive licensees for the UK  Made in Germany · Fabriqué en Allemagne Printed in W Germany · Imprimé en Allemagne |
 | Discogs URL    | [Creedence Clearwater Revival - Green River](https://www.discogs.com/release/1582177-Creedence-Clearwater-Revival-Green-River) |

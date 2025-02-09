@@ -35,18 +35,18 @@ Wilson has stated that she had been working on the album for several years with 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | People Are Asking |  |
-| A2 | Stand Back Time |  |
-| A3 | No One Can Tell You |  |
-| A4 | Change |  |
-| A5 | Mystic |  |
-| B6 | Things I’d Like To Say |  |
-| B7 | Sunrise |  |
-| B8 | On The Inside |  |
-| B9 | Brother |  |
-| B10 | Memory |  |
+| Position | Title |
+|----------|--------|
+| A1 | People Are Asking |
+| A2 | Stand Back Time |
+| A3 | No One Can Tell You |
+| A4 | Change |
+| A5 | Mystic |
+| B6 | Things I’d Like To Say |
+| B7 | Sunrise |
+| B8 | On The Inside |
+| B9 | Brother |
+| B10 | Memory |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Wilson has stated that she had been working on the album for several years with 
 | Format         | Vinyl LP Album |
 | Label          | Kill Rock Stars |
 | Catalog Number | KRS642 |
-| Notes | Issued with download card for digital files of [r=14069195].<br><br>Hype sticker on shrink: "The debut solo album from Cindy Wilson  legendary vocalist of [a242415]. Includes a free download".<br><br>Tracks listed consecutively on back cover from 1 to 10.<br><br>Produced [...] at The Space Station in Athens GA.<br><br>Mystic Ocean (ASCAP) / Mystic Ocean (BMI). © & ℗ 2017 Kill Rock Stars.<br><br>"Brother" written & originally performed by [a1266878] (Levy/Rizzo) & "Things I’d Like To Say" written & originally performed by [a304462] (Rice). |
+| Notes | Issued with download card for digital files of [r=14069195].  Hype sticker on shrink: "The debut solo album from Cindy Wilson  legendary vocalist of [a242415]. Includes a free download".  Tracks listed consecutively on back cover from 1 to 10.  Produced [...] at The Space Station in Athens GA.  Mystic Ocean (ASCAP) / Mystic Ocean (BMI). © & ℗ 2017 Kill Rock Stars.  "Brother" written & originally performed by [a1266878] (Levy/Rizzo) & "Things I’d Like To Say" written & originally performed by [a304462] (Rice). |
 | Discogs URL    | [Cindy Wilson - Change](https://www.discogs.com/release/11218880-Cindy-Wilson-Change) |

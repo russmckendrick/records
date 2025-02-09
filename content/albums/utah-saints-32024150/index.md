@@ -43,22 +43,22 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | New Gold Dream (81-82-83-84) |  |
-| A2 | What Can You Do For Me |  |
-| A3 | Soulution |  |
-| B1 | Believe In Me |  |
-| B2 | Too Much To Swallow (Part 1) |  |
-| B3 | Something Good |  |
-| B4 | I Want You |  |
-| C1 | States Of Mind |  |
-| C2 | Trance Atlantic Glide |  |
-| C3 | Kinetic Synthetic |  |
-| C4 | My Mind Must Be Free |  |
-| D1 | Highlander (CJ Bolland Mix) |  |
-| D2 | Ohio (DJ Misjah Mix) |  |
-| D3 | Star (Union Jack Mix) |  |
+| Position | Title |
+|----------|--------|
+| A1 | New Gold Dream (81-82-83-84) |
+| A2 | What Can You Do For Me |
+| A3 | Soulution |
+| B1 | Believe In Me |
+| B2 | Too Much To Swallow (Part 1) |
+| B3 | Something Good |
+| B4 | I Want You |
+| C1 | States Of Mind |
+| C2 | Trance Atlantic Glide |
+| C3 | Kinetic Synthetic |
+| C4 | My Mind Must Be Free |
+| D1 | Highlander (CJ Bolland Mix) |
+| D2 | Ohio (DJ Misjah Mix) |
+| D3 | Star (Union Jack Mix) |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | London Records |
 | Catalog Number | LMS5521987 |
-| Notes | U.K. National Album Day 2024 release<br>Saturday 19th October 2024<br>2024 theme: GREAT BRITISH GROUPS<br><br>2LP 30th Anniversary Edition<br>Remastered + Expanded with remixes & rarities<br><br>Wide spine standard sleeve made from foil card.<br><br>Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!<br><br>RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
+| Notes | U.K. National Album Day 2024 release Saturday 19th October 2024 2024 theme: GREAT BRITISH GROUPS  2LP 30th Anniversary Edition Remastered + Expanded with remixes & rarities  Wide spine standard sleeve made from foil card.  Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!  RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
 | Discogs URL    | [Utah Saints - Utah Saints](https://www.discogs.com/release/32024150-Utah-Saints-Utah-Saints) |

@@ -38,27 +38,27 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Svefn-g-englar |  |
-| A2 | Starálfur |  |
-| B1 | Flugufrelsarinn |  |
-| B2 | Ný Batterí |  |
-| C1 | Hjartað Hamast (Bamm Bamm Bamm) |  |
-| C2 | Viðrar Vel Til Loftárása |  |
-| D1 | Olsen Olsen |  |
-| D2 | Ágætis Byrjun |  |
-| D3 | Avalon |  |
-| CD-1 | Intro |  |
-| CD-2 | Svefn-g-englar |  |
-| CD-3 | Starálfur |  |
-| CD-4 | Flugufrelsarinn |  |
-| CD-5 | Ný Batterí |  |
-| CD-6 | Hjartað Hamast (Bamm Bamm Bamm) |  |
-| CD-7 | Viðrar Vel Til Loftárása |  |
-| CD-8 | Olsen Olsen |  |
-| CD-9 | Ágætis Byrjun |  |
-| CD-10 | Avalon |  |
+| Position | Title |
+|----------|--------|
+| A1 | Svefn-g-englar |
+| A2 | Starálfur |
+| B1 | Flugufrelsarinn |
+| B2 | Ný Batterí |
+| C1 | Hjartað Hamast (Bamm Bamm Bamm) |
+| C2 | Viðrar Vel Til Loftárása |
+| D1 | Olsen Olsen |
+| D2 | Ágætis Byrjun |
+| D3 | Avalon |
+| CD-1 | Intro |
+| CD-2 | Svefn-g-englar |
+| CD-3 | Starálfur |
+| CD-4 | Flugufrelsarinn |
+| CD-5 | Ný Batterí |
+| CD-6 | Hjartað Hamast (Bamm Bamm Bamm) |
+| CD-7 | Viðrar Vel Til Loftárása |
+| CD-8 | Olsen Olsen |
+| CD-9 | Ágætis Byrjun |
+| CD-10 | Avalon |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 | Format         | Vinyl 2× LP Album Reissue, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP610 |
-| Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.<br><br>Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD." <br>Sigur Ros clear sticker logo is pasted on outer shrink wrap.<br><br> |
+| Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.   |
 | Discogs URL    | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854-Sigur-Rós-Ágætis-Byrjun) |

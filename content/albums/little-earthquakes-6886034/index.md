@@ -34,20 +34,20 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crucify | 4:59 |
-| A2 | Girl | 4:08 |
-| A3 | Silent All These Years | 4:12 |
-| A4 | Precious Things | 4:27 |
-| A5 | Winter | 5:42 |
-| A6 | Happy Phantom | 3:17 |
-| B1 | China | 4:58 |
-| B2 | Leather | 3:12 |
-| B3 | Mother | 6:59 |
-| B4 | Tear In Your Hand | 4:39 |
-| B5 | Me And A Gun | 3:45 |
-| B6 | Little Earthquakes | 6:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Crucify |
+| A2 | Girl |
+| A3 | Silent All These Years |
+| A4 | Precious Things |
+| A5 | Winter |
+| A6 | Happy Phantom |
+| B1 | China |
+| B2 | Leather |
+| B3 | Mother |
+| B4 | Tear In Your Hand |
+| B5 | Me And A Gun |
+| B6 | Little Earthquakes |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Atlantic |
 | Catalog Number | 081227968304 |
-| Notes | Made in EU. Insert included.<br><br> |
+| Notes | Made in EU. Insert included.   |
 | Discogs URL    | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/6886034-Tori-Amos-Little-Earthquakes) |

@@ -39,19 +39,19 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Moebius | 7:01 |
-| A2 | Speed Freak | 7:17 |
-| A3 | Macro Head | 6:54 |
-| B1 | Oolaa | 6:15 |
-| B2 | Desert Storm | 12:06 |
-| C1 | Fahrenheit 303 | 8:26 |
-| C2 | Steel Cube Idolatry | 6:34 |
-| C3 | High Rise | 8:23 |
-| D1 | Chime (Live) | 5:56 |
-| D2 | Midnight (Live) | 6:53 |
-| D3 | Belfast | 8:06 |
+| Position | Title |
+|----------|--------|
+| A1 | The Moebius |
+| A2 | Speed Freak |
+| A3 | Macro Head |
+| B1 | Oolaa |
+| B2 | Desert Storm |
+| C1 | Fahrenheit 303 |
+| C2 | Steel Cube Idolatry |
+| C3 | High Rise |
+| D1 | Chime (Live) |
+| D2 | Midnight (Live) |
+| D3 | Belfast |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | London Records |
 | Catalog Number | LMS1725118 |
-| Notes | Brand new liner notes. Double black vinyl.<br><br>'Macro Head' Recorded at Gee St.<br>'Belfast' Recorded at Marcus Studio.<br>℗ & © 2024 London Records Ltd.<br><br>Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.<br><br>Made in Czechia.<br><br>Runouts are etched apart from GZ Media's identifiers, which are laser-etched. |
+| Notes | Brand new liner notes. Double black vinyl.  'Macro Head' Recorded at Gee St. 'Belfast' Recorded at Marcus Studio. ℗ & © 2024 London Records Ltd.  Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.  Made in Czechia.  Runouts are etched apart from GZ Media's identifiers, which are laser-etched. |
 | Discogs URL    | [Orbital - Orbital](https://www.discogs.com/release/30430805-Orbital-Orbital) |

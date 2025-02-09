@@ -35,15 +35,15 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let There Be More Light |  |
-| A2 | Remember A Day |  |
-| A3 | Set The Controls For The Heart Of The Sun |  |
-| A4 | Corporal Clegg |  |
-| B1 | A Saucerful Of Secrets |  |
-| B2 | See-Saw |  |
-| B3 | Jugband Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | Let There Be More Light |
+| A2 | Remember A Day |
+| A3 | Set The Controls For The Heart Of The Sun |
+| A4 | Corporal Clegg |
+| B1 | A Saucerful Of Secrets |
+| B2 | See-Saw |
+| B3 | Jugband Blues |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP2 |
-| Notes | Comes with hype sticker on shrink wrap and black poly-lined generic inner sleeve. Printed image of the original flip back rear sleeve.<br>Track durations are not listed on the release.<br><br>The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes<br>Original UK release date: June 1968<br>℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.<br>Made in the E.U. (on hype sticker and center labels)<br>Made and Printed in the E.U. (on cover rear)<br>www.pinkfloyd.com<br><br>Published for the World excluding USA & Canada: Tracks A1, A4, B1 Lupus Music Co. Ltd. Tracks A2, A3, B2, B3 Westminster Music Ltd.<br>USA & Canada: All tracks TRO-Hampshire House Publishing Corp. |
+| Notes | Comes with hype sticker on shrink wrap and black poly-lined generic inner sleeve. Printed image of the original flip back rear sleeve. Track durations are not listed on the release.  The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes Original UK release date: June 1968 ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made in the E.U. (on hype sticker and center labels) Made and Printed in the E.U. (on cover rear) www.pinkfloyd.com  Published for the World excluding USA & Canada: Tracks A1, A4, B1 Lupus Music Co. Ltd. Tracks A2, A3, B2, B3 Westminster Music Ltd. USA & Canada: All tracks TRO-Hampshire House Publishing Corp. |
 | Discogs URL    | [Pink Floyd - A Saucerful Of Secrets](https://www.discogs.com/release/8558911-Pink-Floyd-A-Saucerful-Of-Secrets) |

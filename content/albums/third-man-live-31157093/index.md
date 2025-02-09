@@ -43,44 +43,44 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Recorded Live At Third Man Records Blue Room Nashville, TN 4-19-2014 |  |
-| A1 | High Ball Stepper |  |
-| A2 | Lazaretto |  |
-| A3 | Power Of My Love |  |
-| A4 | Dead Leaves And The Dirty Ground |  |
-| A5 | Freedom At 21 |  |
-| B1 | Three Women |  |
-| B2 | Weep Themselves To Sleep |  |
-| B3 | Love Interruption |  |
-| B4 | Hello Operator |  |
-| B5 | Just One Drink |  |
-| B6 | Hotel Yorba |  |
-| B7 | Would You Fight For My Love? |  |
-|  | Recorded Live At Third Man Records Blue Stage Detroit, MI 10-5-2022 |  |
-| C1 | Introduction |  |
-| C2 | Toloka |  |
-| C3 | Waile |  |
-| C4 | Living In The Past |  |
-| D1 | Black Tears |  |
-| D2 | Mashed Potatoe |  |
-| D3 | Lazy Bones |  |
-| D4 | Evil Woman |  |
-|  | Recorded Live At Third Man Records Blue Basement London 10-17-2022 |  |
-| E1 | Little Fury Things |  |
-| E2 | Out There |  |
-| E3 | Does It Float |  |
-| E4 | Been There All The Time |  |
-| E5 | Feel The Pain |  |
-| F1 | Start Choppin |  |
-| F2 | Freak Scene |  |
-| F3 | Kracked |  |
-| F4 | No Bones |  |
-|  | Live At Third Man Records Blue Room, Nashville September 26th, 2013 |  |
-| G | The Money Will Roll Right In |  |
-| H1 | Hate The Police |  |
-| H2 | Fix Me |  |
+| Position | Title |
+|----------|--------|
+|  | Recorded Live At Third Man Records Blue Room Nashville, TN 4-19-2014 |
+| A1 | High Ball Stepper |
+| A2 | Lazaretto |
+| A3 | Power Of My Love |
+| A4 | Dead Leaves And The Dirty Ground |
+| A5 | Freedom At 21 |
+| B1 | Three Women |
+| B2 | Weep Themselves To Sleep |
+| B3 | Love Interruption |
+| B4 | Hello Operator |
+| B5 | Just One Drink |
+| B6 | Hotel Yorba |
+| B7 | Would You Fight For My Love? |
+|  | Recorded Live At Third Man Records Blue Stage Detroit, MI 10-5-2022 |
+| C1 | Introduction |
+| C2 | Toloka |
+| C3 | Waile |
+| C4 | Living In The Past |
+| D1 | Black Tears |
+| D2 | Mashed Potatoe |
+| D3 | Lazy Bones |
+| D4 | Evil Woman |
+|  | Recorded Live At Third Man Records Blue Basement London 10-17-2022 |
+| E1 | Little Fury Things |
+| E2 | Out There |
+| E3 | Does It Float |
+| E4 | Been There All The Time |
+| E5 | Feel The Pain |
+| F1 | Start Choppin |
+| F2 | Freak Scene |
+| F3 | Kracked |
+| F4 | No Bones |
+|  | Live At Third Man Records Blue Room, Nashville September 26th, 2013 |
+| G | The Money Will Roll Right In |
+| H1 | Hate The Police |
+| H2 | Fix Me |
 
 
 ## Apple Music
@@ -97,5 +97,5 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 | Format         | Vinyl 3× LP Stereo (Blue And White Marble [Skycloud]), Vinyl 7" Stereo (Blue And White Marble [Skycloud]), Box Set |
 | Label          | Third Man Records |
 | Catalog Number | TMR-978 |
-| Notes | Runouts are etched.<br><br>[A1 to B7]:<br>℗ & © 2024 Jack White under exclusive license to Third Man Records, LLC<br><br>[C1 to D4]:<br>℗ & © 2024 W.I.T.C.H. (We Intend To Cause Havoc) Limited under exclusive license to Third Man Records, LLC<br><br>[E1 to F4]:<br>All songs published by Spam As The Bread, BMG<br>℗ & © 2024 Dinosaur Jur. under exclusive license to Third Man Records, LLC<br><br>[G to H2]:<br>Published by Udderly Good Music, Maim That Tune and Cesstone Music<br>℗ & © 2024 Third Man Records |
+| Notes | Runouts are etched.  [A1 to B7]: ℗ & © 2024 Jack White under exclusive license to Third Man Records, LLC  [C1 to D4]: ℗ & © 2024 W.I.T.C.H. (We Intend To Cause Havoc) Limited under exclusive license to Third Man Records, LLC  [E1 to F4]: All songs published by Spam As The Bread, BMG ℗ & © 2024 Dinosaur Jur. under exclusive license to Third Man Records, LLC  [G to H2]: Published by Udderly Good Music, Maim That Tune and Cesstone Music ℗ & © 2024 Third Man Records |
 | Discogs URL    | [Jack White - Third Man Live](https://www.discogs.com/release/31157093-Jack-White-2-Witch-3-Dinosaur-Jr-Mudhoney-Third-Man-Live) |

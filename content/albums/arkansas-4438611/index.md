@@ -27,18 +27,18 @@ styles: ["Country"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Arkansas |  |
-| A2 | I Will Never Pass This Way Again |  |
-| A3 | Both Sides Now |  |
-| A4 | A Beautiful Love Song |  |
-| A5 | Sunny Day Girl |  |
-| B1 | Bridge Over Troubled Water |  |
-| B2 | If You Could Read My Mind |  |
-| B3 | It's Over |  |
-| B4 | You've Still Got A Place In My Heart |  |
-| B5 | You'll Never Walk Alone |  |
+| Position | Title |
+|----------|--------|
+| A1 | Arkansas |
+| A2 | I Will Never Pass This Way Again |
+| A3 | Both Sides Now |
+| A4 | A Beautiful Love Song |
+| A5 | Sunny Day Girl |
+| B1 | Bridge Over Troubled Water |
+| B2 | If You Could Read My Mind |
+| B3 | It's Over |
+| B4 | You've Still Got A Place In My Heart |
+| B5 | You'll Never Walk Alone |
 
 
 ## Apple Music
@@ -55,5 +55,5 @@ styles: ["Country"]
 | Format         | Vinyl Compilation LP |
 | Label          | Capitol Records |
 | Catalog Number | VMP 1001 |
-| Notes | Stereo<br>7510 T. M. Garrod & Lofthouse Ltd |
+| Notes | Stereo 7510 T. M. Garrod & Lofthouse Ltd |
 | Discogs URL    | [Glen Campbell - Arkansas](https://www.discogs.com/release/4438611-Glen-Campbell-Arkansas) |

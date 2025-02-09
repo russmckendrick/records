@@ -35,19 +35,19 @@ Black Sea was critically acclaimed and remains XTC's second-highest charting Bri
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Respectable Street |  |
-| A2 | Generals And Majors |  |
-| A3 | Living Through Another Cuba |  |
-| A4 | Love At First Sight |  |
-| A5 | Rocket From A Bottle |  |
-| A6 | No Language In Our Lungs |  |
-| B1 | Towers Of London |  |
-| B2 | Paper And Iron (Notes And Coins) |  |
-| B3 | Burning With Optimism's Flames |  |
-| B4 | Sgt. Rock (Is Going To Help Me) |  |
-| B5 | Travels In Nihilon |  |
+| Position | Title |
+|----------|--------|
+| A1 | Respectable Street |
+| A2 | Generals And Majors |
+| A3 | Living Through Another Cuba |
+| A4 | Love At First Sight |
+| A5 | Rocket From A Bottle |
+| A6 | No Language In Our Lungs |
+| B1 | Towers Of London |
+| B2 | Paper And Iron (Notes And Coins) |
+| B3 | Burning With Optimism's Flames |
+| B4 | Sgt. Rock (Is Going To Help Me) |
+| B5 | Travels In Nihilon |
 
 
 ## Apple Music

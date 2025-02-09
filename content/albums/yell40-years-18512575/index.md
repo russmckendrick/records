@@ -38,29 +38,29 @@ After a few years under the mighty wing of rapper Young Dolph, Key Glock is read
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Bimbo  | 3:35 |
-| A2 | Bostich (N’est-ce Pas?)  | 4:33 |
-| A3 | Vicious Games  | 4:18 |
-| A4 | Oh Yeah   | 3:06 |
-| A5 | Jungle Bill  | 3:38 |
-| B1 | Tremendous Pain  | 3:32 |
-| B2 | Mean Monday  | 3:28 |
-| B3 | The Expert  | 2:53 |
-| B4 | Waba Duba  | 3:06 |
-| B5 | The Race | 6:47 |
-| C1 | Desire  | 3:40 |
-| C2 | Drive / Driven  | 4:13 |
-| C3 | The Rhythm Divine  | 4:19 |
-| C4 | You Better Hide  | 4:00 |
-| C5 | Till Tomorrow | 4:16 |
-| D1 | 30'000 Days  | 4:03 |
-| D2 | Starlight Scene | 3:16 |
-| D3 | Spinning My Mind | 2:40 |
-| D4 | Liquid Lies | 3:37 |
-| D5 | Meet My Angel | 3:43 |
-| D6 | Way Down | 3:19 |
+| Position | Title |
+|----------|--------|
+| A1 | Bimbo  |
+| A2 | Bostich (N’est-ce Pas?)  |
+| A3 | Vicious Games  |
+| A4 | Oh Yeah   |
+| A5 | Jungle Bill  |
+| B1 | Tremendous Pain  |
+| B2 | Mean Monday  |
+| B3 | The Expert  |
+| B4 | Waba Duba  |
+| B5 | The Race |
+| C1 | Desire  |
+| C2 | Drive / Driven  |
+| C3 | The Rhythm Divine  |
+| C4 | You Better Hide  |
+| C5 | Till Tomorrow |
+| D1 | 30'000 Days  |
+| D2 | Starlight Scene |
+| D3 | Spinning My Mind |
+| D4 | Liquid Lies |
+| D5 | Meet My Angel |
+| D6 | Way Down |
 
 
 ## Apple Music
@@ -77,5 +77,5 @@ After a few years under the mighty wing of rapper Young Dolph, Key Glock is read
 | Format         | Vinyl 2× LP Compilation Limited Edition (180-gram) |
 | Label          | Polydor |
 | Catalog Number | 0602435602295 |
-| Notes | No barcode printed on the release. <br>Comes with stickered barcode 0602435 738314 (ordered on Universal), stickered barcode 0602435 602288 (ordered on Amazon or Udiscover Music)<br><br>Gatefold sleeve.<br><br>180g<br><br>This Release (GSA) ℗&© 2021 Yello distributed by Universal Music GmbH<br>This Release (ROW) ℗&© 2021 Yello under exclusive licence to Universal Music GmbH<br>Made in the EU<br><br>Track A1 from [m35165]<br>Track A2 from [m18478]<br>Tracks A3, A4, C1 from [m35464]<br>Tracks A5, C2 from [m38092]<br>Track B1 from [m35649]<br>Track B2 from [r5275723]<br>Tracks B3, C4, C5 from [m187821]<br>Tracks B4,D3, D6 from [m1795259]<br>Track D5 (Bonus Track) from [r15747053]<br>Track B5 from [m1273588]<br>Track C3 from [m37841]<br>Tracks D1, D2 from [m1065916]<br>Track D4 from [m336777] |
+| Notes | No barcode printed on the release.  Comes with stickered barcode 0602435 738314 (ordered on Universal), stickered barcode 0602435 602288 (ordered on Amazon or Udiscover Music)  Gatefold sleeve.  180g  This Release (GSA) ℗&© 2021 Yello distributed by Universal Music GmbH This Release (ROW) ℗&© 2021 Yello under exclusive licence to Universal Music GmbH Made in the EU  Track A1 from [m35165] Track A2 from [m18478] Tracks A3, A4, C1 from [m35464] Tracks A5, C2 from [m38092] Track B1 from [m35649] Track B2 from [r5275723] Tracks B3, C4, C5 from [m187821] Tracks B4,D3, D6 from [m1795259] Track D5 (Bonus Track) from [r15747053] Track B5 from [m1273588] Track C3 from [m37841] Tracks D1, D2 from [m1065916] Track D4 from [m336777] |
 | Discogs URL    | [Yello - Yell40 Years](https://www.discogs.com/release/18512575-Yello-Yell40-Years) |

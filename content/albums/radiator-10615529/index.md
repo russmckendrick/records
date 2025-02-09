@@ -35,22 +35,22 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Furryvision™ | 1:25 |
-| A2 | The Placid Casual | 2:49 |
-| A3 | The International Language Of Screaming | 2:14 |
-| A4 | Demons | 5:11 |
-| B1 | Short Painkiller | 0:38 |
-| B2 | She's Got Spies | 4:43 |
-| B3 | Play It Cool | 3:15 |
-| B4 | Hermann Loves Pauline | 4:43 |
-| C1 | Chupacabras | 1:26 |
-| C2 | Torra Fy Ngwallt Yn Hir | 1:54 |
-| C3 | Bass Tuned To D.E.A.D. | 3:20 |
-| C4 | Down A Different River | 5:37 |
-| D1 | Download | 3:19 |
-| D2 | Mountain People | 6:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Furryvision™ |
+| A2 | The Placid Casual |
+| A3 | The International Language Of Screaming |
+| A4 | Demons |
+| B1 | Short Painkiller |
+| B2 | She's Got Spies |
+| B3 | Play It Cool |
+| B4 | Hermann Loves Pauline |
+| C1 | Chupacabras |
+| C2 | Torra Fy Ngwallt Yn Hir |
+| C3 | Bass Tuned To D.E.A.D. |
+| C4 | Down A Different River |
+| D1 | Download |
+| D2 | Mountain People |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | BMG |
 | Catalog Number | BMGCAT2LP98 |
-| Notes | 20th Anniversary Re-Issue Remastered From The Original Analogue Tapes.<br><br>Recorded yn Stiwdio Ofn, llanfaelog / Recordiwyd yn Stiwdio Ofn Llanfaelog except 'Chupacubras' Parr Street Studios / Heblaw 'Chupacubras' Parr Street Studios. Mixed at Parr Street Studios, Liverpool / Cymyssgwyd yn Parr Street Studios, Lerpwl.<br><br>Thanks and respect to all our friends and mentors / Diolch a chariad i'n holl gwyfellion annwyl: Dyrchafwch eich llygaid i'r mynydd eddi. (which translates as 'Raise your eyes to the mountains today').<br><br>20 pre-order copies from Pledge Music were signed.<br><br>The original release peaked at Number 8 on the U.K. album charts in 1997 (5 weeks on the chart)<br>This reissue peaked at Number 96 on the U.K. album charts in 2017 (1 week on the chart) |
+| Notes | 20th Anniversary Re-Issue Remastered From The Original Analogue Tapes.  Recorded yn Stiwdio Ofn, llanfaelog / Recordiwyd yn Stiwdio Ofn Llanfaelog except 'Chupacubras' Parr Street Studios / Heblaw 'Chupacubras' Parr Street Studios. Mixed at Parr Street Studios, Liverpool / Cymyssgwyd yn Parr Street Studios, Lerpwl.  Thanks and respect to all our friends and mentors / Diolch a chariad i'n holl gwyfellion annwyl: Dyrchafwch eich llygaid i'r mynydd eddi. (which translates as 'Raise your eyes to the mountains today').  20 pre-order copies from Pledge Music were signed.  The original release peaked at Number 8 on the U.K. album charts in 1997 (5 weeks on the chart) This reissue peaked at Number 96 on the U.K. album charts in 2017 (1 week on the chart) |
 | Discogs URL    | [Super Furry Animals - Radiator](https://www.discogs.com/release/10615529-Super-Furry-Animals-Radiator) |

@@ -36,15 +36,15 @@ As with the group's previous work, it is jazz-inspired and features guests from 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | To Believe |  |
-| A2 | A Caged Bird / Imitations Of Life |  |
-| B1 | Lessons |  |
-| B2 | Wait for Now / Leave The World |  |
-| C1 | The Workers of Art |  |
-| C2 | Zero One / This Fantasy |  |
-| D1 | A Promise |  |
+| Position | Title |
+|----------|--------|
+| A1 | To Believe |
+| A2 | A Caged Bird / Imitations Of Life |
+| B1 | Lessons |
+| B2 | Wait for Now / Leave The World |
+| C1 | The Workers of Art |
+| C2 | Zero One / This Fantasy |
+| D1 | A Promise |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ As with the group's previous work, it is jazz-inspired and features guests from 
 | Format         | Vinyl LP (White, 180 Gram), Vinyl LP (Clear, 180 Gram), All Media Album Deluxe Edition |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN226X |
-| Notes | Includes download code.<br><br>Pre-orders from Bleep.com came with double-sided poster/print and sticker. |
+| Notes | Includes download code.  Pre-orders from Bleep.com came with double-sided poster/print and sticker. |
 | Discogs URL    | [The Cinematic Orchestra - To Believe](https://www.discogs.com/release/13344503-Cinematic-Orchestra-To-Believe) |

@@ -31,32 +31,32 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A New Beginning |  |
-| A2 | Church |  |
-| A3 | Campfire |  |
-| A4 | Funeral Pyre |  |
-| A5 | She Slit Her Wrists |  |
-| B1 | Memories |  |
-| B2 | Fireflies |  |
-| B3 | Home |  |
-| B4 | Fell |  |
-| B5 | Dream |  |
-| B6 | Near Death |  |
-| B7 | Water (I'm Right Here) |  |
-| B8 | School Bus |  |
-| C1 | Forrest |  |
-| C2 | Look Forward To |  |
-| C3 | Keepsakes |  |
-| C4 | Remembering |  |
-| D1 | Unsoundness |  |
-| D2 | Waving Goodbye |  |
-| D3 | Day Of Your Birth |  |
-| D4 | Water (Not Go Home) |  |
-| D5 | Goodbye... |  |
-| D6 | Disappear |  |
-| D7 | Fortress |  |
+| Position | Title |
+|----------|--------|
+| A1 | A New Beginning |
+| A2 | Church |
+| A3 | Campfire |
+| A4 | Funeral Pyre |
+| A5 | She Slit Her Wrists |
+| B1 | Memories |
+| B2 | Fireflies |
+| B3 | Home |
+| B4 | Fell |
+| B5 | Dream |
+| B6 | Near Death |
+| B7 | Water (I'm Right Here) |
+| B8 | School Bus |
+| C1 | Forrest |
+| C2 | Look Forward To |
+| C3 | Keepsakes |
+| C4 | Remembering |
+| D1 | Unsoundness |
+| D2 | Waving Goodbye |
+| D3 | Day Of Your Birth |
+| D4 | Water (Not Go Home) |
+| D5 | Goodbye... |
+| D6 | Disappear |
+| D7 | Fortress |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue [Duck Egg Blue Translucent]) |
 | Label          | Invada |
 | Catalog Number | INV164LP |
-| Notes | Limited edition of 1,150 copies pressed on heavy weight transparent "Duck Egg" blue.<br><br>— Description of contents:<br>Issued in a handmade, bespoke gatefold sleeve with rounded edges.<br>Includes digital download card.<br><br>— Hype sticker reads:<br>"[Invada logo]<br>Captain Fantastic<br>Original soundtrack by<br>Alex Somers<br>Transparent<br>"Duck egg" colored vinyl"<br> |
+| Notes | Limited edition of 1,150 copies pressed on heavy weight transparent "Duck Egg" blue.  — Description of contents: Issued in a handmade, bespoke gatefold sleeve with rounded edges. Includes digital download card.  — Hype sticker reads: "[Invada logo] Captain Fantastic Original soundtrack by Alex Somers Transparent "Duck egg" colored vinyl"  |
 | Discogs URL    | [Alex Somers - Music From The Film Captain Fantastic](https://www.discogs.com/release/8757071-Alex-Somers-Music-From-The-Film-Captain-Fantastic) |

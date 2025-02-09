@@ -35,16 +35,16 @@ Likewise, “You Sure Love to Ball” leaves no doubt that it’s all about hump
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Let's Get It On | 4:44 |
-| A2 | Please Don't Stay (Once You Go Away) | 3:32 |
-| A3 | If I Should Die Tonight | 3:57 |
-| A4 | Keep Gettin' It On | 3:12 |
-| B1 | Come Get To This | 2:40 |
-| B2 | Distant Lover | 4:15 |
-| B3 | You Sure Love To Ball | 4:43 |
-| B4 | Just To Keep You Satisfied | 3:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Let's Get It On |
+| A2 | Please Don't Stay (Once You Go Away) |
+| A3 | If I Should Die Tonight |
+| A4 | Keep Gettin' It On |
+| B1 | Come Get To This |
+| B2 | Distant Lover |
+| B3 | You Sure Love To Ball |
+| B4 | Just To Keep You Satisfied |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Likewise, “You Sure Love to Ball” leaves no doubt that it’s all about hump
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, Red) |
 | Label          | Tamla |
 | Catalog Number | 00600753801918 |
-| Notes | Record Store Day 2018 Release <br>Limited 'RSD First' pressing of 1000 copies<br><br>Back Cover:<br>℗ 1973 Motown Records, © 1973 Motown Records<br>Motown Records a Division of UMG Recordings Inc.<br>Made in EU.<br><br>Vinyl label:<br>℗ 1973 Motown Records Corps.<br>A product of Motown Records Corps.<br><br>Sticker:<br>45th Anniversary <br>Limited Edition <br>Red Vinyl <br>Cat# 0600753801918<br><br>Spine, back cover and vinyl label Cat# 00600753801918<br><br>Track:<br>A1 to A4 Published by Jobete Music Co., Inc. (ASCAP) & Cherritown Music Co., Inc. (BMI)<br>B1 to B4 Published by Jobete Music Co., Inc. (ASCAP)<br><br>[a60453] and [a60451] appears courtesy of The Crusaders and Chisa Records, Inc.<br>[a211633] appears courtesy of Ode Records, Inc.<br><br>Special treatment: [a252993], [a271384], [a569021]<br><br><br><br> |
+| Notes | Record Store Day 2018 Release  Limited 'RSD First' pressing of 1000 copies  Back Cover: ℗ 1973 Motown Records, © 1973 Motown Records Motown Records a Division of UMG Recordings Inc. Made in EU.  Vinyl label: ℗ 1973 Motown Records Corps. A product of Motown Records Corps.  Sticker: 45th Anniversary  Limited Edition  Red Vinyl  Cat# 0600753801918  Spine, back cover and vinyl label Cat# 00600753801918  Track: A1 to A4 Published by Jobete Music Co., Inc. (ASCAP) & Cherritown Music Co., Inc. (BMI) B1 to B4 Published by Jobete Music Co., Inc. (ASCAP)  [a60453] and [a60451] appears courtesy of The Crusaders and Chisa Records, Inc. [a211633] appears courtesy of Ode Records, Inc.  Special treatment: [a252993], [a271384], [a569021]     |
 | Discogs URL    | [Marvin Gaye - Let's Get It On](https://www.discogs.com/release/11895455-Marvin-Gaye-Lets-Get-It-On) |

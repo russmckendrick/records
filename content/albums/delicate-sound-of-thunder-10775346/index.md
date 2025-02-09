@@ -38,22 +38,22 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Shine On You Crazy Diamond Parts 1-5 | 11:45 |
-| A2 | Learning To Fly | 5:07 |
-| A3 | Yet Another Movie |  |
-| A4 | Round And Around |  |
-| B1 | Sorrow | 9:44 |
-| B2 | The Dogs Of War | 7:13 |
-| B3 | On The Turning Away | 7:35 |
-| C1 | One Of These Days | 6:17 |
-| C2 | Time / Breathe (In The Air) (Reprise) | 5:18 |
-| C3 | Money | 9:42 |
-| C4 | Another Brick In The Wall Part II | 5:17 |
-| D1 | Wish You Were Here | 4:50 |
-| D2 | Comfortably Numb | 8:42 |
-| D3 | Run Like Hell | 6:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Shine On You Crazy Diamond Parts 1-5 |
+| A2 | Learning To Fly |
+| A3 | Yet Another Movie |
+| A4 | Round And Around |
+| B1 | Sorrow |
+| B2 | The Dogs Of War |
+| B3 | On The Turning Away |
+| C1 | One Of These Days |
+| C2 | Time / Breathe (In The Air) (Reprise) |
+| C3 | Money |
+| C4 | Another Brick In The Wall Part II |
+| D1 | Wish You Were Here |
+| D2 | Comfortably Numb |
+| D3 | Run Like Hell |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP16 |
-| Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present.<br>Very similar release, but with correct printed setlist is here: [r=29067676] |
+| Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present. Very similar release, but with correct printed setlist is here: [r=29067676] |
 | Discogs URL    | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346-Pink-Floyd-Delicate-Sound-Of-Thunder) |

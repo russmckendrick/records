@@ -30,11 +30,11 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Slowdive |  |
-| A2 | Avalyn I |  |
-| B | Avalyn Il |  |
+| Position | Title |
+|----------|--------|
+| A1 | Slowdive |
+| A2 | Avalyn I |
+| B | Avalyn Il |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Numbered Reissue (Green [Translucent Green] With Black Marble ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12009 |
-| Notes | Exclusively available through Record Store Day 2020<br>180g audiophile vinyl<br>Jacket with special deluxe alubrush finish <br>Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl  |
+| Notes | Exclusively available through Record Store Day 2020 180g audiophile vinyl Jacket with special deluxe alubrush finish  Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl  |
 | Discogs URL    | [Slowdive - Slowdive EP](https://www.discogs.com/release/15825430-Slowdive-Slowdive-EP) |

@@ -39,26 +39,26 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Andromeda |  |
-| A2 | English Rose |  |
-| A3 | My Ever Changing Moods |  |
-| A4 | On Sunset |  |
-| B1 | Carnation |  |
-| B2 | Glad Times |  |
-| B3 | Broken Stones |  |
-| B4 | Gravity |  |
-| B5 | It's A Very Deep Sea |  |
-| C1 | Bowie |  |
-| C2 | Equanimity |  |
-| C3 | You're The Best Thing |  |
-| C4 | Still Glides The Stream |  |
-| C5 | Movin On |  |
-| D1 | Wild Wood |  |
-| D2 | Rockets |  |
-| D3 | You Do Something To Me |  |
-| D4 | White Horses |  |
+| Position | Title |
+|----------|--------|
+| A1 | Andromeda |
+| A2 | English Rose |
+| A3 | My Ever Changing Moods |
+| A4 | On Sunset |
+| B1 | Carnation |
+| B2 | Glad Times |
+| B3 | Broken Stones |
+| B4 | Gravity |
+| B5 | It's A Very Deep Sea |
+| C1 | Bowie |
+| C2 | Equanimity |
+| C3 | You're The Best Thing |
+| C4 | Still Glides The Stream |
+| C5 | Movin On |
+| D1 | Wild Wood |
+| D2 | Rockets |
+| D3 | You Do Something To Me |
+| D4 | White Horses |
 
 
 ## Apple Music
@@ -75,5 +75,5 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Polydor |
 | Catalog Number | 3845942 |
-| Notes | All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021.<br>Made in the EU<br>With attached booklet<br> |
+| Notes | All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021. Made in the EU With attached booklet  |
 | Discogs URL    | [Paul Weller - An Orchestrated Songbook](https://www.discogs.com/release/21286225-Paul-Weller-With-Jules-Buckley-The-BBC-Symphony-Orchestra-An-Orchestrated-Songbook) |

@@ -29,11 +29,11 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskimo Pussy Mix) | 7:54 |
-| B1 | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskipo Mussy Mix) | 8:56 |
-| B2 | Sniper (Fade) | 3:12 |
+| Position | Title |
+|----------|--------|
+| A | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskimo Pussy Mix) |
+| B1 | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskipo Mussy Mix) |
+| B2 | Sniper (Fade) |
 
 
 ## Apple Music
@@ -50,5 +50,5 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 | Format         | Vinyl 12" 45 RPM Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 920 787-0 |
-| Notes | [Labels]<br>Warner Bros. Music Ltd.<br>[A] Original version available on the album: "[url=https://www.discogs.com/master/54384]Full Metal Jacket O.S.T.[/url]" [url=https://www.discogs.com/release/1566099]925 613-1[/url].<br>[B] Original versions available on the album: "[url=https://www.discogs.com/master/54384]Full Metal Jacket O.S.T.[/url]" [url=https://www.discogs.com/release/1566099]925 613-1[/url].<br>℗ + © 1987 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.<br>Made in Germany by WEA Musik GmbH [Warner 'W' logo] A Warner Communications Company.<br><br>[Cover rear]<br>[Track A, B1] Original version from the LP '[url=https://www.discogs.com/master/54384]Full Metal Jacket[/url]' Original Motion Picture Soundtrack<br>[Track B2] Original Film Music<br>Original Motion Picture Soundtrack '[url=https://www.discogs.com/master/54384]Full Metal Jacket[/url]'<br>[url=https://www.discogs.com/release/1566099]LP[/url] · [url=https://www.discogs.com/release/2931224]Cassette[/url] · [url=https://www.discogs.com/release/8700383]CD[/url]<br>[LP logo] [url=https://www.discogs.com/release/1566099]925 613-1[/url] · [MC logo] [url=https://www.discogs.com/release/2931224]925 613-4[/url] · CD: [url=https://www.discogs.com/release/8700383]925 613-2[/url]<br>℗ 1987 WEA International Inc.<br>© 1987 WEA International Inc.<br>Distributed by WEA Records Ltd. [Warner 'W' logo] A Warner Communications Co.<br>Manufactured in Germany by Record Service GmbH, Alsdorf · Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner 'W' logo] a Warner Communications Company<br>[Embossed "Warner 'W' logo" on rear cover lower right corner.]<br><br>Runout information:<br>Starts at "R / S Alsdorf 920787-0-A[B]" is stamped, all other is etched. |
+| Notes | [Labels] Warner Bros. Music Ltd. [A] Original version available on the album: "[url=https://www.discogs.com/master/54384]Full Metal Jacket O.S.T.[/url]" [url=https://www.discogs.com/release/1566099]925 613-1[/url]. [B] Original versions available on the album: "[url=https://www.discogs.com/master/54384]Full Metal Jacket O.S.T.[/url]" [url=https://www.discogs.com/release/1566099]925 613-1[/url]. ℗ + © 1987 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH [Warner 'W' logo] A Warner Communications Company.  [Cover rear] [Track A, B1] Original version from the LP '[url=https://www.discogs.com/master/54384]Full Metal Jacket[/url]' Original Motion Picture Soundtrack [Track B2] Original Film Music Original Motion Picture Soundtrack '[url=https://www.discogs.com/master/54384]Full Metal Jacket[/url]' [url=https://www.discogs.com/release/1566099]LP[/url] · [url=https://www.discogs.com/release/2931224]Cassette[/url] · [url=https://www.discogs.com/release/8700383]CD[/url] [LP logo] [url=https://www.discogs.com/release/1566099]925 613-1[/url] · [MC logo] [url=https://www.discogs.com/release/2931224]925 613-4[/url] · CD: [url=https://www.discogs.com/release/8700383]925 613-2[/url] ℗ 1987 WEA International Inc. © 1987 WEA International Inc. Distributed by WEA Records Ltd. [Warner 'W' logo] A Warner Communications Co. Manufactured in Germany by Record Service GmbH, Alsdorf · Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner 'W' logo] a Warner Communications Company [Embossed "Warner 'W' logo" on rear cover lower right corner.]  Runout information: Starts at "R / S Alsdorf 920787-0-A[B]" is stamped, all other is etched. |
 | Discogs URL    | [Abigail Mead - Full Metal Jacket (I Wanna Be Your Drill Instructor)](https://www.discogs.com/release/466221-Abigail-Mead-And-Nigel-Goulding-Full-Metal-Jacket-I-Wanna-Be-Your-Drill-Instructor) |

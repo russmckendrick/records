@@ -32,18 +32,18 @@ The original album cover depicted two pictures by Jan Saudek, one of a woman wit
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Song For Whoever | 6:10 |
-| A2 | Have You Ever Been Away? | 5:40 |
-| A3 | From Under The Covers | 3:59 |
-| A4 | I'll Sail This Ship Alone | 4:47 |
-| A5 | Girlfriend | 2:55 |
-| B1 | You Keep It All In | 2:52 |
-| B2 | Woman In The Wall | 5:15 |
-| B3 | Oh Blackpool | 3:06 |
-| B4 | Love Is ... | 7:00 |
-| B5 | I Love You (But You're Boring) | 4:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Song For Whoever |
+| A2 | Have You Ever Been Away? |
+| A3 | From Under The Covers |
+| A4 | I'll Sail This Ship Alone |
+| A5 | Girlfriend |
+| B1 | You Keep It All In |
+| B2 | Woman In The Wall |
+| B3 | Oh Blackpool |
+| B4 | Love Is ... |
+| B5 | I Love You (But You're Boring) |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The original album cover depicted two pictures by Jan Saudek, one of a woman wit
 | Format         | Vinyl LP Album Reissue (Fluffy toys cover) |
 | Label          | Go! Discs |
 | Catalog Number | 5743901 |
-| Notes | Comes with a download card.<br>Matte sleeve.<br>Picture/lyric inner sleeve.<br>Package came shrink-wrapped.<br><br>Though labeled as ‚2017 Edition‘ it was released in January 2018.<br><br>Made in the EU<br>Universal International Music B.V. |
+| Notes | Comes with a download card. Matte sleeve. Picture/lyric inner sleeve. Package came shrink-wrapped.  Though labeled as ‚2017 Edition‘ it was released in January 2018.  Made in the EU Universal International Music B.V. |
 | Discogs URL    | [The Beautiful South - Welcome To The Beautiful South](https://www.discogs.com/release/11493625-The-Beautiful-South-Welcome-To-The-Beautiful-South) |

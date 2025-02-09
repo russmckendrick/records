@@ -34,22 +34,22 @@ In It for the Money is the second studio album by English alternative rock band 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In It For The Money |  |
-| A2 | Richard III |  |
-| A3 | Tonight |  |
-| A4 | Late In The Day |  |
-| A5 | G-Song |  |
-| A6 | Sun Hits The Sky |  |
-| B1 | Going Out |  |
-| B2 | It's Not Me |  |
-| B3 | Cheapskate |  |
-| B4 | You Can See Me |  |
-| B5 | Hollow Little Reign |  |
-| B6 | Sometimes I Make You Sad |  |
-| C | The Animal |  |
-| D | BRA Sun Hits The Sky mix |  |
+| Position | Title |
+|----------|--------|
+| A1 | In It For The Money |
+| A2 | Richard III |
+| A3 | Tonight |
+| A4 | Late In The Day |
+| A5 | G-Song |
+| A6 | Sun Hits The Sky |
+| B1 | Going Out |
+| B2 | It's Not Me |
+| B3 | Cheapskate |
+| B4 | You Can See Me |
+| B5 | Hollow Little Reign |
+| B6 | Sometimes I Make You Sad |
+| C | The Animal |
+| D | BRA Sun Hits The Sky mix |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ In It for the Money is the second studio album by English alternative rock band 
 | Format         | Vinyl LP Album Reissue Remastered (Turquoise), Vinyl 12" Single (White), All Media Limited Edition (Textured Sleeve) |
 | Label          | BMG |
 | Catalog Number | BMGCAT506CLP |
-| Notes | Remastered From Original Analogue Tapes<br>Limited Edition 140g Turquoise Vinyl <br>Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal'<br>Textured Sleeve<br>Manufactured in Poland<br><br>There are three catalog numbers on this release:<br>BMGCAT506CLP appears on the outer sleeve<br>4050538672909 appears on the LP<br>4050538685411 appears on the 12" single |
+| Notes | Remastered From Original Analogue Tapes Limited Edition 140g Turquoise Vinyl  Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal' Textured Sleeve Manufactured in Poland  There are three catalog numbers on this release: BMGCAT506CLP appears on the outer sleeve 4050538672909 appears on the LP 4050538685411 appears on the 12" single |
 | Discogs URL    | [Supergrass - In It For The Money](https://www.discogs.com/release/19975111-Supergrass-In-It-For-The-Money) |

@@ -30,19 +30,19 @@ As of July 2013, it was certified silver by British Phonographic Industry for 60
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | All That Glitters | 6:34 |
-| A2 | Opium Shuffle | 5:03 |
-| A3 | GBH | 5:09 |
-| B1 | Dirt | 5:52 |
-| B2 | Rocco | 6:34 |
-| B3 | Rekkit | 6:27 |
-| C1 | I Spy | 4:58 |
-| C2 | Amber | 8:07 |
-| D1 | Rematerialised | 8:21 |
-| D2 | 68 Balcony | 5:07 |
-| D3 | Sly | 3:34 |
+| Position | Title |
+|----------|--------|
+| A1 | All That Glitters |
+| A2 | Opium Shuffle |
+| A3 | GBH |
+| B1 | Dirt |
+| B2 | Rocco |
+| B3 | Rekkit |
+| C1 | I Spy |
+| C2 | Amber |
+| D1 | Rematerialised |
+| D2 | 68 Balcony |
+| D3 | Sly |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ As of July 2013, it was certified silver by British Phonographic Industry for 60
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Stereo (Yellow, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3398 |
-| Notes | Edition of 1500 machine numbered copies.<br>Runouts are machine stamped.<br>Comes with a 12x12" printed insert with credits.<br><br>Tracks A1, A2, B1 to B3, C1, C2 D1 engineered and mixed at [l271912] by Tim Holmes.<br>Track A3 engineered and mixed at [l279514] by Luke Gordon.<br>Tracks D2 and D3 mixed and engineered by Tim Holmes at [l405030]. |
+| Notes | Edition of 1500 machine numbered copies. Runouts are machine stamped. Comes with a 12x12" printed insert with credits.  Tracks A1, A2, B1 to B3, C1, C2 D1 engineered and mixed at [l271912] by Tim Holmes. Track A3 engineered and mixed at [l279514] by Luke Gordon. Tracks D2 and D3 mixed and engineered by Tim Holmes at [l405030]. |
 | Discogs URL    | [Death In Vegas - Dead Elvis](https://www.discogs.com/release/29816716-Death-In-Vegas-Dead-Elvis) |

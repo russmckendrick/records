@@ -30,19 +30,19 @@ It was reissued by lead singer Darren Hayman in 2008.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Hymn For The Cigarettes |  |
-| A2 | May God Protect Your Home |  |
-| A3 | The Hymn For The Alcohol |  |
-| A4 | I Took Her Love For Granted |  |
-| A5 | Every Little Gesture |  |
-| A6 | The Weight Of The Stars |  |
-| B1 | I Stole A Bride |  |
-| B2 | We Were Meant To Be |  |
-| B3 | Fat Kelly's Teeth |  |
-| B4 | Don't Flake Out On Me |  |
-| B5 | I Love Only You |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Hymn For The Cigarettes |
+| A2 | May God Protect Your Home |
+| A3 | The Hymn For The Alcohol |
+| A4 | I Took Her Love For Granted |
+| A5 | Every Little Gesture |
+| A6 | The Weight Of The Stars |
+| B1 | I Stole A Bride |
+| B2 | We Were Meant To Be |
+| B3 | Fat Kelly's Teeth |
+| B4 | Don't Flake Out On Me |
+| B5 | I Love Only You |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ It was reissued by lead singer Darren Hayman in 2008.
 | Format         | Vinyl LP Album Reissue |
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wialp081 |
-| Notes | Black vinyl 2019 reissue.<br><br>Comes with a download code. |
+| Notes | Black vinyl 2019 reissue.  Comes with a download code. |
 | Discogs URL    | [Hefner - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-2-The-Fidelity-Wars) |

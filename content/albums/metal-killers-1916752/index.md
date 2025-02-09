@@ -27,20 +27,20 @@ styles: ["Heavy Metal", "Hard Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sabbath Bloody Sabbath |  |
-| A2 | Destroyer |  |
-| A3 | Rocka Rolla |  |
-| A4 | Rendezvous |  |
-| A5 | Out Of Phase |  |
-| A6 | Hottest Woman In Town |  |
-| B1 | Fast As A Shark |  |
-| B2 | Hair Of The Dog |  |
-| B3 | Boogie |  |
-| B4 | Stoking Up The Fires Of Hell |  |
-| B5 | Under The Blade |  |
-| B6 | Lepers Queue |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sabbath Bloody Sabbath |
+| A2 | Destroyer |
+| A3 | Rocka Rolla |
+| A4 | Rendezvous |
+| A5 | Out Of Phase |
+| A6 | Hottest Woman In Town |
+| B1 | Fast As A Shark |
+| B2 | Hair Of The Dog |
+| B3 | Boogie |
+| B4 | Stoking Up The Fires Of Hell |
+| B5 | Under The Blade |
+| B6 | Lepers Queue |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Kastle Killers |
 | Catalog Number | KKLP 101 |
-| Notes | Courtesy of Heavy Metal Records (Track B1)<br> |
+| Notes | Courtesy of Heavy Metal Records (Track B1)  |
 | Discogs URL    | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |

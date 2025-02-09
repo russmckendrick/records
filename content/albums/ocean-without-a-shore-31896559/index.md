@@ -40,17 +40,17 @@ styles: ["Prog Rock", "Art Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Synaesthesia  | 9:11 |
-| A2 | Do Angels Sing Like Rain? | 5:06 |
-| B1 | Untouchable Part 3 | 5:55 |
-| B2 | Ghost In The Machine | 4:53 |
-| B3 | Are You There ? Part 2 | 5:59 |
-| C1 | Still Lake | 5:59 |
-| C2 | Take Me With You | 6:09 |
-| D1 | Ocean Without A Shore  | 7:18 |
-| D2 | The Space Between Us | 6:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Synaesthesia  |
+| A2 | Do Angels Sing Like Rain? |
+| B1 | Untouchable Part 3 |
+| B2 | Ghost In The Machine |
+| B3 | Are You There ? Part 2 |
+| C1 | Still Lake |
+| C2 | Take Me With You |
+| D1 | Ocean Without A Shore  |
+| D2 | The Space Between Us |
 
 
 ## Apple Music

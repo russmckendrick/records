@@ -36,16 +36,16 @@ Critics and the band members themselves have given mixed opinions of the album. 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dancing With The Moonlit Knight | 8:04 |
-| A2 | I Know What I Like (In Your Wardrobe) | 4:10 |
-| A3 | Firth Of Fifth | 9:40 |
-| A4 | More Fool Me  | 3:13 |
-| B1 | The Battle Of Epping Forest | 11:43 |
-| B2 | After The Ordeal | 4:15 |
-| B3 | The Cinema Show | 10:41 |
-| B4 | Aisle Of Plenty | 1:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Dancing With The Moonlit Knight |
+| A2 | I Know What I Like (In Your Wardrobe) |
+| A3 | Firth Of Fifth |
+| A4 | More Fool Me  |
+| B1 | The Battle Of Epping Forest |
+| B2 | After The Ordeal |
+| B3 | The Cinema Show |
+| B4 | Aisle Of Plenty |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Critics and the band members themselves have given mixed opinions of the album. 
 | Format         | Vinyl LP Album Reissue Remastered Repress Stereo (180 gr.) |
 | Label          | Charisma |
 | Catalog Number | 00602567490456 |
-| Notes | Album includes printed insert with all lyrics and download code.<br>℗ 1973 Notebest Ltd<br><br>℗ & © 2018<br>Made in the E.U. |
+| Notes | Album includes printed insert with all lyrics and download code. ℗ 1973 Notebest Ltd  ℗ & © 2018 Made in the E.U. |
 | Discogs URL    | [Genesis - Selling England By The Pound](https://www.discogs.com/release/12345619-Genesis-Selling-England-By-The-Pound) |

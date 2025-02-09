@@ -44,18 +44,18 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Sol Invictus |  |
-| A2 | Superhero |  |
-| A3 | Sunny Side Up |  |
-| A4 | Separation Anxiety |  |
-| A5 | Cone Of Shame |  |
-| B1 | Rise Of The Fall |  |
-| B2 | Black Friday |  |
-| B3 | Motherfucker |  |
-| B4 | Matador |  |
-| B5 | From The Dead |  |
+| Position | Title |
+|----------|--------|
+| A1 | Sol Invictus |
+| A2 | Superhero |
+| A3 | Sunny Side Up |
+| A4 | Separation Anxiety |
+| A5 | Cone Of Shame |
+| B1 | Rise Of The Fall |
+| B2 | Black Friday |
+| B3 | Motherfucker |
+| B4 | Matador |
+| B5 | From The Dead |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Reclamation! Recordings |
 | Catalog Number | RRIPC002LPX |
-| Notes | This edition was available as a pre-order only to countries outside the USA.<br>750 copies were sent to the UK and Ireland for sale at independent record stores.<br>The total number of pressings of this edition is 1,500 copies.<br><br>The release date in Australia was 15th May 2015. The release date for the rest of the world receiving this pressing was 18th May 2015.<br><br>The record comes in a gold-foil printed gatefold sleeve. The record is housed in a printed inner sleeve.<br><br>A sticker affixed to the shrinkwrap on the front cover reads:<br>"Limited edition. Gold vinyl. includes download. RRIPCOO2LPX"<br>A barcode sticker affixed to the shrinkwrap on the rear cover obscures the barcode printed directly on the artwork.<br><br>The download is obtained via a printed card featuring album themed artwork on both sides. It is redeemed via www.ipecacdownloads.com/solinvictus<br><br>The rear sleeve:<br>©&℗ 2015 Reclamation Recordings.<br>Licensed by Ipecac Recordings.<br>Manufactured & distributed by [PIAS].<br>WWW.IPECAC.COM | WWW.FNM.COM<br><br><br> |
+| Notes | This edition was available as a pre-order only to countries outside the USA.  750 copies were sent to the UK and Ireland for sale at independent record stores.  The total number of pressings of this edition is 1,500 copies.    The release date in Australia was 15th May 2015. The release date for the rest of the world receiving this pressing was 18th May 2015.    The record comes in a gold-foil printed gatefold sleeve. The record is housed in a printed inner sleeve.    A sticker affixed to the shrinkwrap on the front cover reads:  "Limited edition. Gold vinyl. includes download. RRIPCOO2LPX"  A barcode sticker affixed to the shrinkwrap on the rear cover obscures the barcode printed directly on the artwork.    The download is obtained via a printed card featuring album themed artwork on both sides. It is redeemed via www.ipecacdownloads.com/solinvictus    The rear sleeve:  ©&℗ 2015 Reclamation Recordings.  Licensed by Ipecac Recordings.  Manufactured & distributed by [PIAS].  WWW.IPECAC.COM | WWW.FNM.COM       |
 | Discogs URL    | [Faith No More - Sol Invictus](https://www.discogs.com/release/7002327-Faith-No-More-Sol-Invictus) |

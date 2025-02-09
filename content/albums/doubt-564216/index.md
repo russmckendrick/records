@@ -35,19 +35,19 @@ Doubt received generally positive reviews about the songwriting, though some cri
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Trust Me | 2:05 |
-| A2 | Who? Where? Why? | 3:34 |
-| A3 | International Bright Young Thing | 3:10 |
-| A4 | I'm Burning | 3:20 |
-| A5 | Right Here, Right Now | 3:08 |
-| A6 | Nothing To Hold Me | 3:19 |
-| B1 | Real, Real, Real | 3:06 |
-| B2 | Welcome Back Victoria | 3:34 |
-| B3 | Two And Two | 2:53 |
-| B4 | Stripped | 3:50 |
-| B5 | Blissed | 4:50 |
+| Position | Title |
+|----------|--------|
+| A1 | Trust Me |
+| A2 | Who? Where? Why? |
+| A3 | International Bright Young Thing |
+| A4 | I'm Burning |
+| A5 | Right Here, Right Now |
+| A6 | Nothing To Hold Me |
+| B1 | Real, Real, Real |
+| B2 | Welcome Back Victoria |
+| B3 | Two And Two |
+| B4 | Stripped |
+| B5 | Blissed |
 
 
 ## Apple Music

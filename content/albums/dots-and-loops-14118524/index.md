@@ -42,32 +42,32 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Brakhage |  |
-| A2 | Miss Modular |  |
-| A3 | The Flower Called Nowhere |  |
-| B1 | Diagonals |  |
-| B2 | Prisoner Of Mars |  |
-| B3 | Rainbo Conversation |  |
-| C1 | Refractions In The Plastic Pulse |  |
-| D1 | Parsec |  |
-| D2 | Ticker-Tape Of The Unconscious |  |
-| D3 | Contronatura |  |
-| E1 | Diagonals Bode Drums |  |
-| E2 | Contranatura (Pt 2 - Instrumental) |  |
-| E3 | Brakhage (Instrumental) |  |
-| E4 | The Flower Called Nowhere (Instrumental) |  |
-| E5 | Bonus Beats |  |
-| F1 | Diagonals (Instrumental) |  |
-| F2 | Contranatura (Demo) |  |
-| F3 | Allures (Demo) |  |
-| F4 | Refractions In The Plastic Pulse (Demo) |  |
-| F5 | I Feel The Air (Demo) |  |
-| F6 | Off On (Demo) |  |
-| F7 | Incredible He Woman (Demo) |  |
-| F8 | Miss Modular (Demo) |  |
-| F9 | Untitled In Dusseldorf (Demo) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Brakhage |
+| A2 | Miss Modular |
+| A3 | The Flower Called Nowhere |
+| B1 | Diagonals |
+| B2 | Prisoner Of Mars |
+| B3 | Rainbo Conversation |
+| C1 | Refractions In The Plastic Pulse |
+| D1 | Parsec |
+| D2 | Ticker-Tape Of The Unconscious |
+| D3 | Contronatura |
+| E1 | Diagonals Bode Drums |
+| E2 | Contranatura (Pt 2 - Instrumental) |
+| E3 | Brakhage (Instrumental) |
+| E4 | The Flower Called Nowhere (Instrumental) |
+| E5 | Bonus Beats |
+| F1 | Diagonals (Instrumental) |
+| F2 | Contranatura (Demo) |
+| F3 | Allures (Demo) |
+| F4 | Refractions In The Plastic Pulse (Demo) |
+| F5 | I Feel The Air (Demo) |
+| F6 | Off On (Demo) |
+| F7 | Incredible He Woman (Demo) |
+| F8 | Miss Modular (Demo) |
+| F9 | Untitled In Dusseldorf (Demo) |
 
 
 ## Apple Music
@@ -85,5 +85,5 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear, Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | none |
-| Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997. <br>Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk.<br>Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.<br><br>Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion. <br><br>Remastered album plus a bonus disc of demos and alternate versions<br><br>Fold out poster and DL card<br><br>Numbered on hype sticker<br><br>The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]  <br><br><br><br><br> |
+| Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997.  Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk. Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.  Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion.   Remastered album plus a bonus disc of demos and alternate versions  Fold out poster and DL card  Numbered on hype sticker  The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]        |
 | Discogs URL    | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524-Stereolab-Dots-And-Loops) |

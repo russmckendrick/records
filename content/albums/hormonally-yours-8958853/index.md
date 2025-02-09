@@ -28,20 +28,20 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Goodbye Cruel World |  |
-| A2 | I Don't Care |  |
-| A3 | My 16th Apology |  |
-| A4 | Are We In Love Yet |  |
-| A5 | Emotional Thing |  |
-| A6 | Stay |  |
-| B1 | Black Sky |  |
-| B2 | The Trouble With Andre |  |
-| B3 | Moonchild |  |
-| B4 | Catwoman |  |
-| B5 | Let Me Entertain You |  |
-| B6 | Hello (Turn Your Radio On) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Goodbye Cruel World |
+| A2 | I Don't Care |
+| A3 | My 16th Apology |
+| A4 | Are We In Love Yet |
+| A5 | Emotional Thing |
+| A6 | Stay |
+| B1 | Black Sky |
+| B2 | The Trouble With Andre |
+| B3 | Moonchild |
+| B4 | Catwoman |
+| B5 | Let Me Entertain You |
+| B6 | Hello (Turn Your Radio On) |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 266-1 |
-| Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.<br><br>Cat# 828 266-1 appears on jacket, 828266.1 on labels.<br><br>℗ 1992 London © 1992 London <br><br>Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |
+| Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  ℗ 1992 London © 1992 London   Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |
 | Discogs URL    | [Shakespears Sister - Hormonally Yours](https://www.discogs.com/release/8958853-Shakespears-Sister-Hormonally-Yours) |

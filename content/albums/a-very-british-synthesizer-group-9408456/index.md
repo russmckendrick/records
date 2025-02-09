@@ -26,38 +26,38 @@ styles: ["Synth-pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Being Boiled (Fast Version) | 3:50 |
-| A2 | The Dignity Of Labour (Part 3) | 3:51 |
-| A3 | Empire State Human | 3:13 |
-| A4 | Only After Dark (Single Edit) | 3:47 |
-| A5 | Nightclubbing | 2:57 |
-| A6 | Boys And Girls | 3:14 |
-| B1 | The Sound Of The Crowd (Instrumental Version) | 4:12 |
-| B2 | Hard Times | 4:55 |
-| B3 | Love Action (I Believe In Love) (7" Edit) | 3:51 |
-| B4 | Open Your Heart | 3:56 |
-| B5 | Don't You Want Me | 3:58 |
-| C1 | Mirror Man | 3:51 |
-| C2 | You Remind Me Of Gold | 3:37 |
-| C3 | (Keep Feeling) Fascination (Extended Version) | 4:58 |
-| C4 | The Lebanon (Single Version) | 3:43 |
-| C5 | Louise (DJ Edit)  | 4:07 |
-| D1 | Life On Your Own (Single Version) | 4:11 |
-| D2 | Human (Extended Version) | 5:06 |
-| D3 | I Need Your Loving (DJ Edit) | 2:52 |
-| D4 | Love Is All That Matters (DJ Edit) | 2:58 |
-| D5 | Heart Like A Wheel (William Orbit Remix) | 4:52 |
-| E1 | Soundtrack To A Generation (Edit) | 4:03 |
-| E2 | Tell Me When (Radio Edit) | 4:09 |
-| E3 | One Man In My Heart | 4:05 |
-| E4 | Filling Up With Heaven | 4:20 |
-| F1 | Stay With Me Tonight | 4:01 |
-| F2 | All I Ever Wanted (Radio Edit) | 3:31 |
-| F3 | Night People (Radio Edit) | 3:02 |
-| F4 | Never Let Me Go | 4:56 |
-| F5 | Sky (Radio Edit) | 3:12 |
+| Position | Title |
+|----------|--------|
+| A1 | Being Boiled (Fast Version) |
+| A2 | The Dignity Of Labour (Part 3) |
+| A3 | Empire State Human |
+| A4 | Only After Dark (Single Edit) |
+| A5 | Nightclubbing |
+| A6 | Boys And Girls |
+| B1 | The Sound Of The Crowd (Instrumental Version) |
+| B2 | Hard Times |
+| B3 | Love Action (I Believe In Love) (7" Edit) |
+| B4 | Open Your Heart |
+| B5 | Don't You Want Me |
+| C1 | Mirror Man |
+| C2 | You Remind Me Of Gold |
+| C3 | (Keep Feeling) Fascination (Extended Version) |
+| C4 | The Lebanon (Single Version) |
+| C5 | Louise (DJ Edit)  |
+| D1 | Life On Your Own (Single Version) |
+| D2 | Human (Extended Version) |
+| D3 | I Need Your Loving (DJ Edit) |
+| D4 | Love Is All That Matters (DJ Edit) |
+| D5 | Heart Like A Wheel (William Orbit Remix) |
+| E1 | Soundtrack To A Generation (Edit) |
+| E2 | Tell Me When (Radio Edit) |
+| E3 | One Man In My Heart |
+| E4 | Filling Up With Heaven |
+| F1 | Stay With Me Tonight |
+| F2 | All I Ever Wanted (Radio Edit) |
+| F3 | Night People (Radio Edit) |
+| F4 | Never Let Me Go |
+| F5 | Sky (Radio Edit) |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl 3× LP Compilation (180g) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 571 111-5 |
-| Notes | Triple LP half-speed mastered box set.<br><br>Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).<br><br>First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan.  |
+| Notes | Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan.  |
 | Discogs URL    | [The Human League - A Very British Synthesizer Group](https://www.discogs.com/release/9408456-The-Human-League-A-Very-British-Synthesizer-Group) |

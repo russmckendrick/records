@@ -30,20 +30,20 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Wild World | 3:19 |
-| A2 | Oh Very Young | 2:35 |
-| A3 | Can't Keep It In | 2:58 |
-| A4 | Hard Headed Woman | 3:48 |
-| A5 | Moonshadow | 2:48 |
-| A6 | Two Fine People | 3:32 |
-| B1 | Peace Train | 3:44 |
-| B2 | Ready | 3:14 |
-| B3 | Father & Son | 3:40 |
-| B4 | Sitting | 3:11 |
-| B5 | Morning Has Broken | 3:17 |
-| B6 | Another Saturday Night | 2:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Wild World |
+| A2 | Oh Very Young |
+| A3 | Can't Keep It In |
+| A4 | Hard Headed Woman |
+| A5 | Moonshadow |
+| A6 | Two Fine People |
+| B1 | Peace Train |
+| B2 | Ready |
+| B3 | Father & Son |
+| B4 | Sitting |
+| B5 | Morning Has Broken |
+| B6 | Another Saturday Night |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 | Format         | Vinyl LP Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPS 9310 |
-| Notes | The following versions with this cat# and similar design are known to exist:<br><br>Regular text in bottom line on sleeve back:<br>[r1389126] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo light coloured<br>[r12244856] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo deep orange<br>[r6813042] - filled Island logo on A label only, tiger pointing to the left<br>[r5376517] - filled Island logo on B label only, tiger pointing to the left<br>[r465317] - filled Island logo on both labels, tiger pointing to the left<br>[r8127853] - empty Island logo on labels, tiger pointing to the right<br><br>Bold text in bottom line on sleeve back:<br>[r4164015] - empty Island logo on labels, tiger pointing to the left (this one)<br>[r409889] - filled Island logo with rim on labels, tiger pointing to the left, cat# on back in white |
+| Notes | The following versions with this cat# and similar design are known to exist:  Regular text in bottom line on sleeve back: [r1389126] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo light coloured [r12244856] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo deep orange [r6813042] - filled Island logo on A label only, tiger pointing to the left [r5376517] - filled Island logo on B label only, tiger pointing to the left [r465317] - filled Island logo on both labels, tiger pointing to the left [r8127853] - empty Island logo on labels, tiger pointing to the right  Bold text in bottom line on sleeve back: [r4164015] - empty Island logo on labels, tiger pointing to the left (this one) [r409889] - filled Island logo with rim on labels, tiger pointing to the left, cat# on back in white |
 | Discogs URL    | [Cat Stevens - Greatest Hits](https://www.discogs.com/release/4164015-Cat-Stevens-Greatest-Hits) |

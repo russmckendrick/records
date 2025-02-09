@@ -35,17 +35,17 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Crestfallen | 3:08 |
-| A2 | Sleep In Sanity | 3:35 |
-| A3 | Kingdom | 4:24 |
-| A4 | They Die | 2:13 |
-| A5 | Everwake | 3:07 |
-| B1 | J'ai Fait Une Promesse | 4:23 |
-| B2 | Alone | 7:17 |
-| B3 | We The Gods | 3:05 |
-| B4 | Sunset Of Age | 7:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Crestfallen |
+| A2 | Sleep In Sanity |
+| A3 | Kingdom |
+| A4 | They Die |
+| A5 | Everwake |
+| B1 | J'ai Fait Une Promesse |
+| B2 | Alone |
+| B3 | We The Gods |
+| B4 | Sunset Of Age |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE820 |
-| Notes | Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves. <br><br>Crestfallen is dedicated with eternal love to Helen Cavanagh.<br>Kingdom is dedicated with love and gratitude to Stan White & Libby White.<br>Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket. <br>This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness. <br><br>Made in the E.U.<br><br>℗2011 Anathema<br>©2011 Anathema<br> |
+| Notes | Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves.     Crestfallen is dedicated with eternal love to Helen Cavanagh.  Kingdom is dedicated with love and gratitude to Stan White & Libby White.  Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket.   This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness.     Made in the E.U.    ℗2011 Anathema  ©2011 Anathema   |
 | Discogs URL    | [Anathema - Falling Deeper](https://www.discogs.com/release/3110214-Anathema-Falling-Deeper) |

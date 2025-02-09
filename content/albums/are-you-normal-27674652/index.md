@@ -33,21 +33,21 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Suave And Suffocated |  |
-| A2 | Walking Through Syrup |  |
-| A3 | Legoland |  |
-| A4 | Swallowing Air |  |
-| A5 | Who Goes First? |  |
-| A6 | Tantrum |  |
-| B1 | Not Sleeping Around |  |
-| B2 | You Don't Want To Do That |  |
-| B3 | Leg End In His Own Boots |  |
-| B4 | Two And Two Made Five |  |
-| B5 | Fracture |  |
-| B6 | Spring |  |
-| B7 | Intact |  |
+| Position | Title |
+|----------|--------|
+| A1 | Suave And Suffocated |
+| A2 | Walking Through Syrup |
+| A3 | Legoland |
+| A4 | Swallowing Air |
+| A5 | Who Goes First? |
+| A6 | Tantrum |
+| B1 | Not Sleeping Around |
+| B2 | You Don't Want To Do That |
+| B3 | Leg End In His Own Boots |
+| B4 | Two And Two Made Five |
+| B5 | Fracture |
+| B6 | Spring |
+| B7 | Intact |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Translucent, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3329 |
-| Notes | Edition of 1000 machine numbered copies.<br>Matte sleeve.<br>White, poly-lined innersleeve.<br>A 12x12" double sided printed insert with lyrics and credits which replicates original 1992 innersleeve is included.<br>Runouts are etched. |
+| Notes | Edition of 1000 machine numbered copies. Matte sleeve. White, poly-lined innersleeve. A 12x12" double sided printed insert with lyrics and credits which replicates original 1992 innersleeve is included. Runouts are etched. |
 | Discogs URL    | [Neds Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/27674652-Neds-Atomic-Dustbin-Are-You-Normal) |

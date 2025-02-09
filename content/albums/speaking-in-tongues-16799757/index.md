@@ -39,17 +39,17 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Burning Down The House | 4:00 |
-| A2 | Making Flippy Floppy | 4:36 |
-| A3 | Girlfriend Is Better | 4:25 |
-| A4 | Slippery People | 3:30 |
-| A5 | I Get Wild / Wild Gravity | 4:06 |
-| B1 | Swamp | 5:09 |
-| B2 | Moon Rocks | 5:04 |
-| B3 | Pull Up The Roots | 5:08 |
-| B4 | This Must Be The Place (Naive Melody) | 4:56 |
+| Position | Title |
+|----------|--------|
+| A1 | Burning Down The House |
+| A2 | Making Flippy Floppy |
+| A3 | Girlfriend Is Better |
+| A4 | Slippery People |
+| A5 | I Get Wild / Wild Gravity |
+| B1 | Swamp |
+| B2 | Moon Rocks |
+| B3 | Pull Up The Roots |
+| B4 | This Must Be The Place (Naive Melody) |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Blue) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1-23883 |
-| Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers. <br>Made in Germany. <br><br>Limited edition of 4,500 copies. |
+| Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies. |
 | Discogs URL    | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |

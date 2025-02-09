@@ -34,28 +34,28 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Peaches |  |
-| A2 | Golden Brown |  |
-| A3 | Walk On By |  |
-| A4 | No More Heroes |  |
-| A5 | Skin Deep |  |
-| B1 | Hanging Around |  |
-| B2 | All Day And All Of The Night |  |
-| B3 | Straighten Out |  |
-| B4 | Nice 'N' Sleazy |  |
-| B5 | Strange Little Girl |  |
-| B6 | Who Wants The World |  |
-| C1 | Something Better Change |  |
-| C2 | Always The Sun (Sunny Side Up Mix) |  |
-| C3 | European Female |  |
-| C4 | Grip '89 (Get A) Grip (On Yourself) |  |
-| C5 | Duchess |  |
-| D1 | 5 Minutes |  |
-| D2 | Don't Bring Harry |  |
-| D3 | La Folie |  |
-| D4 | 96 Tears |  |
+| Position | Title |
+|----------|--------|
+| A1 | Peaches |
+| A2 | Golden Brown |
+| A3 | Walk On By |
+| A4 | No More Heroes |
+| A5 | Skin Deep |
+| B1 | Hanging Around |
+| B2 | All Day And All Of The Night |
+| B3 | Straighten Out |
+| B4 | Nice 'N' Sleazy |
+| B5 | Strange Little Girl |
+| B6 | Who Wants The World |
+| C1 | Something Better Change |
+| C2 | Always The Sun (Sunny Side Up Mix) |
+| C3 | European Female |
+| C4 | Grip '89 (Get A) Grip (On Yourself) |
+| C5 | Duchess |
+| D1 | 5 Minutes |
+| D2 | Don't Bring Harry |
+| D3 | La Folie |
+| D4 | 96 Tears |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295187149 |
-| Notes | Hype Sticker on front:<br>THE VERY BEST OF <br>the stranglers<br>2 LP SET ON VINYL<br>FOR THE FIRST<br>TIME<br>0190295187149<br><br>In the US:<br>Limited 1,500 copies <br>RSD 2020 Black friday<br>RSD First Release<br><br>In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |
+| Notes | Hype Sticker on front: THE VERY BEST OF  the stranglers 2 LP SET ON VINYL FOR THE FIRST TIME 0190295187149  In the US: Limited 1,500 copies  RSD 2020 Black friday RSD First Release  In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |
 | Discogs URL    | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |

@@ -30,20 +30,20 @@ styles: ["Prog Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rose, Rubus, Smilax, Vulkan | 7:17 |
-| A2 | Revealed As A True Future Tyrant | 5:30 |
-| B1 | Pre-Columbian Worry Song | 5:25 |
-| B2 | Rose Parkington, They Would Not Let You Leave | 7:07 |
-|  | Under Den Svenska Vintern = During The Swedish Winter |  |
-| C1 | Jag Vet | 1:37 |
-|  | The Dreaded Lurg | 14:54 |
-| C3 | Crystallisation | 3:18 |
-| D1 | Rökstenen | 3:14 |
-| D2 | The Evil Eye Is Liquified | 5:06 |
-| D3 | Huge Machine, You Are So Heavy | 6:38 |
-| D4 | Butterfly | 0:52 |
+| Position | Title |
+|----------|--------|
+| A1 | Rose, Rubus, Smilax, Vulkan |
+| A2 | Revealed As A True Future Tyrant |
+| B1 | Pre-Columbian Worry Song |
+| B2 | Rose Parkington, They Would Not Let You Leave |
+|  | Under Den Svenska Vintern = During The Swedish Winter |
+| C1 | Jag Vet |
+|  | The Dreaded Lurg |
+| C3 | Crystallisation |
+| D1 | Rökstenen |
+| D2 | The Evil Eye Is Liquified |
+| D3 | Huge Machine, You Are So Heavy |
+| D4 | Butterfly |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album Stereo (180 Gram, Pink) |
 | Label          | Uranium Club |
 | Catalog Number | UCV92002 |
-| Notes | Packaged in a single jacket with color insert, sticker and download card. <br><br>D1 and D2 are bonus tracks exclusive to this release. |
+| Notes | Packaged in a single jacket with color insert, sticker and download card.   D1 and D2 are bonus tracks exclusive to this release. |
 | Discogs URL    | [Regal Worm - Pig Views](https://www.discogs.com/release/12281965-Regal-Worm-Pig-Views) |

@@ -27,26 +27,26 @@ Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Loaded |  |
-| A2 | Are You Gonna Go My Way |  |
-| A3 | Animal Nitrate |  |
-| A4 | The Devil You Know |  |
-| A5 | Connected |  |
-| A6 | I Feel You |  |
-| A7 | Mrs. Robinson |  |
-| A8 | The Only Living Boy In New Cross |  |
-| A9 | Totally Random Man |  |
-| B1 | She Sells Sanctuary |  |
-| B2 | Start Choppin' |  |
-| B3 | Feed The Tree |  |
-| B4 | After All |  |
-| B5 | If I Can't Change Your Mind |  |
-| B6 | Certain People I Know |  |
-| B7 | Showgirl |  |
-| B8 | Anyone Can Play Guitar |  |
-| B9 | I'm Easy |  |
+| Position | Title |
+|----------|--------|
+| A1 | Loaded |
+| A2 | Are You Gonna Go My Way |
+| A3 | Animal Nitrate |
+| A4 | The Devil You Know |
+| A5 | Connected |
+| A6 | I Feel You |
+| A7 | Mrs. Robinson |
+| A8 | The Only Living Boy In New Cross |
+| A9 | Totally Random Man |
+| B1 | She Sells Sanctuary |
+| B2 | Start Choppin' |
+| B3 | Feed The Tree |
+| B4 | After All |
+| B5 | If I Can't Change Your Mind |
+| B6 | Certain People I Know |
+| B7 | Showgirl |
+| B8 | Anyone Can Play Guitar |
+| B9 | I'm Easy |
 
 
 ## Apple Music

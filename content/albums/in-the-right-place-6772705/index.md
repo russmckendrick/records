@@ -31,19 +31,19 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Right Place Wrong Time | 2:50 |
-| A2 | Same Old Same Old | 2:39 |
-| A3 | Just The Same | 2:49 |
-| A4 | Qualified | 4:46 |
-| A5 | Traveling Mood | 3:03 |
-| A6 | Peace Brother Peace | 2:47 |
-| B1 | Life | 2:29 |
-| B2 | Such A Night | 2:55 |
-| B3 | Shoo Fly Marches On | 3:15 |
-| B4 | I Been Hoodood | 3:12 |
-| B5 | Cold Cold Cold | 2:37 |
+| Position | Title |
+|----------|--------|
+| A1 | Right Place Wrong Time |
+| A2 | Same Old Same Old |
+| A3 | Just The Same |
+| A4 | Qualified |
+| A5 | Traveling Mood |
+| A6 | Peace Brother Peace |
+| B1 | Life |
+| B2 | Such A Night |
+| B3 | Shoo Fly Marches On |
+| B4 | I Been Hoodood |
+| B5 | Cold Cold Cold |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | ATCO Records |
 | Catalog Number | 0349791111 |
-| Notes | Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,<br>like the original 1973 cover. |
+| Notes | Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,  like the original 1973 cover. |
 | Discogs URL    | [Dr John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |

@@ -44,17 +44,17 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Dexter & Sinister |  |
-| A2 | Seven Veils |  |
-| A3 | Empires |  |
-| A4 | The Delayed 3:15 |  |
-| B1 | White Noise White Heat |  |
-| B2 | Doldrums |  |
-| B3 | My Trouble |  |
-| B4 | On Deronda Road |  |
-| B5 | Weightless |  |
+| Position | Title |
+|----------|--------|
+| A1 | Dexter & Sinister |
+| A2 | Seven Veils |
+| A3 | Empires |
+| A4 | The Delayed 3:15 |
+| B1 | White Noise White Heat |
+| B2 | Doldrums |
+| B3 | My Trouble |
+| B4 | On Deronda Road |
+| B5 | Weightless |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 | Format         | Vinyl LP Album (180gm) |
 | Label          | Polydor |
 | Catalog Number | 7764402 |
-| Notes | Heavyweight Black Vinyl + Download Card<br><br>A Polydor Records Release.<br>℗ & © 2019 Polydor Limited. All rights reserved.<br>Made In Germany. BIEM/SDRM. LC 00309<br>7764402. 00602577644023.<br><br>elbow.co.uk<br>Worldwide management: TRC Management Ltd<br>mail@trcmanagement.com |
+| Notes | Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com |
 | Discogs URL    | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743-Elbow-Giants-Of-All-Sizes) |

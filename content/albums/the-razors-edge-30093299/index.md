@@ -41,20 +41,20 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Thunderstruck | 4:52 |
-| A2 | Fire Your Guns | 2:53 |
-| A3 | Moneytalks | 3:45 |
-| A4 | The Razors Edge | 4:22 |
-| A5 | Mistress For Christmas | 3:58 |
-| A6 | Rock Your Heart Out | 4:06 |
-| B1 | Are You Ready | 4:10 |
-| B2 | Got You By The Balls | 4:29 |
-| B3 | Shot Of Love | 3:57 |
-| B4 | Let's Make It | 3:32 |
-| B5 | Goodbye And Good Riddance To Bad Luck | 3:14 |
-| B6 | If You Dare | 3:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Thunderstruck |
+| A2 | Fire Your Guns |
+| A3 | Moneytalks |
+| A4 | The Razors Edge |
+| A5 | Mistress For Christmas |
+| A6 | Rock Your Heart Out |
+| B1 | Are You Ready |
+| B2 | Got You By The Balls |
+| B3 | Shot Of Love |
+| B4 | Let's Make It |
+| B5 | Goodbye And Good Riddance To Bad Luck |
+| B6 | If You Dare |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Special Edition Stereo (Gold, 50th Anniversary Edition) |
 | Label          | Columbia |
 | Catalog Number | 19658834611 |
-| Notes | Remastered from the original master tapes.<br><br>Hype sticker reads:<br>"50th Anniversary <br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels".<br><br>Presented in an unlaminated sleeve.<br>Picture inner sleeve of top opening thin card.<br>Includes a 12" square card insert, printed on both sides which references the album title and series.<br>Two hype stickers are applied to the shrink-wrap.<br><br>The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.<br><br>Runouts are very lightly stamped. |
+| Notes | Remastered from the original master tapes.  Hype sticker reads: "50th Anniversary  Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels".  Presented in an unlaminated sleeve. Picture inner sleeve of top opening thin card. Includes a 12" square card insert, printed on both sides which references the album title and series. Two hype stickers are applied to the shrink-wrap.  The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.  Runouts are very lightly stamped. |
 | Discogs URL    | [ACDC - The Razors Edge](https://www.discogs.com/release/30093299-ACDC-The-Razors-Edge) |

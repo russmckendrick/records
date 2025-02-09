@@ -36,23 +36,23 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Garden Of Earthly Delights |  |
-| A2 | The Mayor Of Simpleton |  |
-| A3 | King For A Day |  |
-| A4 | Here Comes President Kill Again |  |
-| B1 | The Loving |  |
-| B2 | Poor Skeleton Steps Out |  |
-| B3 | One Of The Millions |  |
-| B4 | Scarecrow People |  |
-| C1 | Merely A Man |  |
-| C2 | Cynical Days |  |
-| C3 | Across This Antheap |  |
-| D1 | Hold Me My Daddy |  |
-| D2 | Pink Thing |  |
-| D3 | Miniature Sun |  |
-| D4 | Chalkhills And Children |  |
+| Position | Title |
+|----------|--------|
+| A1 | Garden Of Earthly Delights |
+| A2 | The Mayor Of Simpleton |
+| A3 | King For A Day |
+| A4 | Here Comes President Kill Again |
+| B1 | The Loving |
+| B2 | Poor Skeleton Steps Out |
+| B3 | One Of The Millions |
+| B4 | Scarecrow People |
+| C1 | Merely A Man |
+| C2 | Cynical Days |
+| C3 | Across This Antheap |
+| D1 | Hold Me My Daddy |
+| D2 | Pink Thing |
+| D3 | Miniature Sun |
+| D4 | Chalkhills And Children |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 | Format         | Vinyl 2× LP Album Reissue Stereo (Gatefold, 200g) |
 | Label          | Ape House |
 | Catalog Number | APELPX109 |
-| Notes | Hype sticker with barcode affixed to shrink:<br>The 1989 classic album<br>Newly cut from masters<br>Approved by Andy Partridge<br>Pressed on 200g<br>Super-heavyweight vinyl<br>in new gatefold sleeve<br><br>Orders from Ape House/Burning Shed come with an Oranges & Lemons postcard.<br><br>Issued in gatefold jacket with notes and lyrics inside.<br><br>Issued with identical printed poly-lined inner sleeves with beveled corners, showing XTC back catalogue on one side and more company releases on the other side.<br><br>℗ 1989, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. <br>© 2020 Ape House Ltd. Made in the EU. |
+| Notes | Hype sticker with barcode affixed to shrink: The 1989 classic album Newly cut from masters Approved by Andy Partridge Pressed on 200g Super-heavyweight vinyl in new gatefold sleeve  Orders from Ape House/Burning Shed come with an Oranges & Lemons postcard.  Issued in gatefold jacket with notes and lyrics inside.  Issued with identical printed poly-lined inner sleeves with beveled corners, showing XTC back catalogue on one side and more company releases on the other side.  ℗ 1989, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.  © 2020 Ape House Ltd. Made in the EU. |
 | Discogs URL    | [XTC - Oranges & Lemons](https://www.discogs.com/release/15858717-XTC-Oranges-Lemons) |

@@ -25,27 +25,27 @@ styles: ["Downtempo"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue (At The Century's End) |  |
-| A2 | Alone |  |
-| A3 | Satellite Song |  |
-| A4 | Get The Message Through |  |
-| A5 | Metal From The Skies |  |
-| A6 | I Remember |  |
-| B1 | Rush |  |
-| B2 | The Pyramid |  |
-| B3 | Future Magic |  |
-| B4 | Come To Me |  |
-| B5 | You Never Knew |  |
-| C1 | Goodbye Father |  |
-| C2 | Bringing It Back To You |  |
-| C3 | Through The Veil |  |
-| C4 | The End Of The World |  |
-| D1 | Don't Give Up |  |
-| D2 | Just Our Best |  |
-| D3 | Time To Go |  |
-| D4 | Into The Darkness |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue (At The Century's End) |
+| A2 | Alone |
+| A3 | Satellite Song |
+| A4 | Get The Message Through |
+| A5 | Metal From The Skies |
+| A6 | I Remember |
+| B1 | Rush |
+| B2 | The Pyramid |
+| B3 | Future Magic |
+| B4 | Come To Me |
+| B5 | You Never Knew |
+| C1 | Goodbye Father |
+| C2 | Bringing It Back To You |
+| C3 | Through The Veil |
+| C4 | The End Of The World |
+| D1 | Don't Give Up |
+| D2 | Just Our Best |
+| D3 | Time To Go |
+| D4 | Into The Darkness |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ styles: ["Downtempo"]
 | Format         | Vinyl 2× LP Limited Edition Numbered (Deluxe Kickstarter Edition) |
 | Label          | Impotent Fury |
 | Catalog Number | IFLSTRS001 |
-| Notes | Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.<br><br>Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story" |
+| Notes | Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.  Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story" |
 | Discogs URL    | [Fred Deakin - Presents The Lasters](https://www.discogs.com/release/14253494-Fred-Deakin-Presents-The-Lasters) |

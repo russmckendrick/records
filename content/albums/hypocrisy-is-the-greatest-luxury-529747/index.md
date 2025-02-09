@@ -40,22 +40,22 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Satanic Reverses | 4:45 |
-| A2 | Famous And Dandy (Like Amos 'N' Andy) | 6:35 |
-| A3 | Television, The Drug Of The Nation | 6:36 |
-| A4 | Language Of Violence | 6:14 |
-| A5 | The Winter Of The Long Hot Summer | 7:58 |
-| B1 | Hypocrisy Is The Greatest Luxury | 3:47 |
-| B2 | Everyday Life Has Become A Health Risk | 4:53 |
-| B3 | Ins Greencard A-19 191 500 | 1:36 |
-| B4 | Socio-Genetic Experiment | 4:17 |
-| B5 | Music And Politics | 4:01 |
-| B6 | Financial Leprosy | 5:30 |
-| B7 | California Über Alles | 4:13 |
-| B8 | Water Pistol Man | 5:54 |
-| C | Rock The Vote (Exercise Your Right) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Satanic Reverses |
+| A2 | Famous And Dandy (Like Amos 'N' Andy) |
+| A3 | Television, The Drug Of The Nation |
+| A4 | Language Of Violence |
+| A5 | The Winter Of The Long Hot Summer |
+| B1 | Hypocrisy Is The Greatest Luxury |
+| B2 | Everyday Life Has Become A Health Risk |
+| B3 | Ins Greencard A-19 191 500 |
+| B4 | Socio-Genetic Experiment |
+| B5 | Music And Politics |
+| B6 | Financial Leprosy |
+| B7 | California Über Alles |
+| B8 | Water Pistol Man |
+| C | Rock The Vote (Exercise Your Right) |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 | Format         | Vinyl LP Album, Vinyl 12" Single Sided, All Media Limited Edition |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLPX 584 |
-| Notes | Fourth & Broadway is a division of Island Records<br>℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.<br><br>The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.<br><br>Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"<br><br>The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1.<br>This is reflected in the barcode which ends 2591<br>Runouts are machine-stamped except for the 'S.D/S.MON./THE EXCHANGE' markings which are hand-etched.<br>Bonus 12" issued in a generic white paper inner<br>LP issued in a printed inner with lyrics sheet/credits<br>Lyrics sheet contains several mistakes including "In the 1270s" which should be "In the 1970s" in Satanic Reverses.  |
+| Notes | Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591 Runouts are machine-stamped except for the 'S.D/S.MON./THE EXCHANGE' markings which are hand-etched. Bonus 12" issued in a generic white paper inner LP issued in a printed inner with lyrics sheet/credits Lyrics sheet contains several mistakes including "In the 1270s" which should be "In the 1970s" in Satanic Reverses.  |
 | Discogs URL    | [The Disposable Heroes Of Hiphoprisy - Hypocrisy Is The Greatest Luxury](https://www.discogs.com/release/529747-The-Disposable-Heroes-Of-Hiphoprisy-Hypocrisy-Is-The-Greatest-Luxury) |

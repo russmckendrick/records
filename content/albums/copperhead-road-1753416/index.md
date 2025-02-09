@@ -32,18 +32,18 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Copperhead Road | 4:28 |
-| A2 | Snake Oil | 3:29 |
-| A3 | Back To The Wall | 5:25 |
-| A4 | The Devil's Right Hand | 2:59 |
-| A5 | Johnny Come Lately | 4:06 |
-| B1 | Even When I'm Blue | 4:11 |
-| B2 | You Belong To Me | 4:21 |
-| B3 | Waiting On You | 5:07 |
-| B4 | Once You Love | 4:42 |
-| B5 | Nothing But A Child | 4:27 |
+| Position | Title |
+|----------|--------|
+| A1 | Copperhead Road |
+| A2 | Snake Oil |
+| A3 | Back To The Wall |
+| A4 | The Devil's Right Hand |
+| A5 | Johnny Come Lately |
+| B1 | Even When I'm Blue |
+| B2 | You Belong To Me |
+| B3 | Waiting On You |
+| B4 | Once You Love |
+| B5 | Nothing But A Child |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 | Format         | Vinyl LP Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3426 |
-| Notes | ℗ & © 1988 UNI Records, Inc.<br>Original sound recordings made by UNI Records, Inc. MCA Records Ltd. are the exclusive licensees for the U.K.<br>Made in England<br>All tracks Pub. BMG Music Pub. Ltd except B4 Chappell Music Ltd. |
+| Notes | ℗ & © 1988 UNI Records, Inc.  Original sound recordings made by UNI Records, Inc. MCA Records Ltd. are the exclusive licensees for the U.K.  Made in England  All tracks Pub. BMG Music Pub. Ltd except B4 Chappell Music Ltd. |
 | Discogs URL    | [Steve Earle - Copperhead Road](https://www.discogs.com/release/1753416-Steve-Earle-Copperhead-Road) |

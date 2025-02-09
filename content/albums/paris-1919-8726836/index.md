@@ -33,17 +33,17 @@ The album has received critical praise from several publications over the years,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Child's Christmas In Wales | 3:19 |
-| A2 | Hanky Panky Nohow | 2:43 |
-| A3 | The Endless Plain Of Fortune | 4:10 |
-| A4 | Andalucia | 3:51 |
-| A5 | Macbeth | 3:04 |
-| B6 | Paris 1919 | 4:03 |
-| B7 | Graham Greene | 2:59 |
-| B8 | Half Past France | 4:17 |
-| B9 | Antartica Starts Here | 2:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Child's Christmas In Wales |
+| A2 | Hanky Panky Nohow |
+| A3 | The Endless Plain Of Fortune |
+| A4 | Andalucia |
+| A5 | Macbeth |
+| B6 | Paris 1919 |
+| B7 | Graham Greene |
+| B8 | Half Past France |
+| B9 | Antartica Starts Here |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ The album has received critical praise from several publications over the years,
 | Format         | Vinyl LP Album Stereo |
 | Label          | Reprise Records |
 | Catalog Number | K44239 |
-| Notes | The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.<br><br>On back cover:<br>K44239<br>(MS 2131)<br>Stereo<br><br>A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 ©<br>Shorepak by Shorewood Packaging Co. Ltd., England<br><br>On label:<br>Made in UK<br>33⅓ RPM<br><br>K 44239<br>(MS 2131)<br>℗ 1973 |
+| Notes | The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.  On back cover: K44239 (MS 2131) Stereo  A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 © Shorepak by Shorewood Packaging Co. Ltd., England  On label: Made in UK 33⅓ RPM  K 44239 (MS 2131) ℗ 1973 |
 | Discogs URL    | [John Cale - Paris 1919](https://www.discogs.com/release/8726836-John-Cale-Paris-1919) |

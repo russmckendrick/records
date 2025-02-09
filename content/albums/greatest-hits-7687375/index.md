@@ -32,18 +32,18 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tired Of Being Alone  | 2:43 |
-| A2 | Call Me (Come Back Home) | 3:04 |
-| A3 | I'm Still In Love With You | 3:14 |
-| A4 | Here I Am (Come And Take Me) | 4:15 |
-| A5 | Love And Happiness | 5:04 |
-| B1 | Let's Stay Together  | 3:18 |
-| B2 | I Can't Get Next To You | 3:53 |
-| B3 | You Ought To Be With Me | 3:20 |
-| B4 | Look What You Done For Me | 3:06 |
-| B5 | Let's Get Married  | 3:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Tired Of Being Alone  |
+| A2 | Call Me (Come Back Home) |
+| A3 | I'm Still In Love With You |
+| A4 | Here I Am (Come And Take Me) |
+| A5 | Love And Happiness |
+| B1 | Let's Stay Together  |
+| B2 | I Can't Get Next To You |
+| B3 | You Ought To Be With Me |
+| B4 | Look What You Done For Me |
+| B5 | Let's Get Married  |
 
 
 ## Apple Music

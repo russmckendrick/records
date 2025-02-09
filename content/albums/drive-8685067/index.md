@@ -27,18 +27,18 @@ Drive is the second studio album by Anneke van Giersbergen, released in the Bene
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | We Live On | 3:41 |
-| A2 | Treat Me Like A Lady | 4:00 |
-| A3 | She | 3:08 |
-| A4 | Drive | 3:43 |
-| A5 | My Mother Said | 3:21 |
-| B1 | Forgive Me | 3:11 |
-| B2 | You Will Never Change | 4:03 |
-| B3 | Mental Jungle | 3:44 |
-| B4 | Shooting For The Stars | 4:33 |
-| B5 | The Best Is Yet To Come | 4:04 |
+| Position | Title |
+|----------|--------|
+| A1 | We Live On |
+| A2 | Treat Me Like A Lady |
+| A3 | She |
+| A4 | Drive |
+| A5 | My Mother Said |
+| B1 | Forgive Me |
+| B2 | You Will Never Change |
+| B3 | Mental Jungle |
+| B4 | Shooting For The Stars |
+| B5 | The Best Is Yet To Come |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Drive is the second studio album by Anneke van Giersbergen, released in the Bene
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-058LP |
-| Notes | For the first time on vinyl, under exclusive license from InsideOut Music.<br><br>Presented in gatefold jacket. Black vinyl limited to 300 copies.<br><br> |
+| Notes | For the first time on vinyl, under exclusive license from InsideOut Music.  Presented in gatefold jacket. Black vinyl limited to 300 copies.   |
 | Discogs URL    | [Anneke Van Giersbergen - Drive](https://www.discogs.com/release/8685067-Anneke-Van-Giersbergen-Drive) |

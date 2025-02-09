@@ -37,20 +37,20 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Mere Anarchy |  |
-| A2 | The Waste Of Suns |  |
-| A3 | Like A Motherless Child |  |
-| B1 | The Last Of Goodbyes |  |
-| B2 | The Ceremony Of Innocence |  |
-| B3 | The Tired & The Hurt |  |
-| C1 | Welcome To Hard Times |  |
-| C2 | The Sorrow Tree |  |
-| C3 | Falling Rain & Light |  |
-| D1 | The Middle Is Gone |  |
-| D2 | This Wild Darkness |  |
-| D3 | A Dark Cloud Is Coming |  |
+| Position | Title |
+|----------|--------|
+| A1 | Mere Anarchy |
+| A2 | The Waste Of Suns |
+| A3 | Like A Motherless Child |
+| B1 | The Last Of Goodbyes |
+| B2 | The Ceremony Of Innocence |
+| B3 | The Tired & The Hurt |
+| C1 | Welcome To Hard Times |
+| C2 | The Sorrow Tree |
+| C3 | Falling Rain & Light |
+| D1 | The Middle Is Gone |
+| D2 | This Wild Darkness |
+| D3 | A Dark Cloud Is Coming |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 | Format         | Vinyl 2× LP Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT060LP |
-| Notes | Gatefold sleeve.<br><br>Cellophane sticker reads 'New Album. Includes The Single [m=1338452]'. Each inner sleeve has lyrics for the respective songs printed on both sides.<br><br>All songs published by Songs Of Kobalt Music Publishing except A2 published by Songs Of Kobalt Music Publishing and Copyright Control. All songs mixed by Steve 'Dub' Jones for Pieces Of 8 Music except 'Welcome To Hard Times' mixed by Moby.<br><br>℗ 2018 Little Idiot © 2018 Little Idiot<br>Recorded in UK & USA. |
+| Notes | Gatefold sleeve.  Cellophane sticker reads 'New Album. Includes The Single [m=1338452]'. Each inner sleeve has lyrics for the respective songs printed on both sides.  All songs published by Songs Of Kobalt Music Publishing except A2 published by Songs Of Kobalt Music Publishing and Copyright Control. All songs mixed by Steve 'Dub' Jones for Pieces Of 8 Music except 'Welcome To Hard Times' mixed by Moby.  ℗ 2018 Little Idiot © 2018 Little Idiot Recorded in UK & USA. |
 | Discogs URL    | [Moby - Everything Was Beautiful, And Nothing Hurt](https://www.discogs.com/release/11627080-Moby-Everything-Was-Beautiful-And-Nothing-Hurt) |

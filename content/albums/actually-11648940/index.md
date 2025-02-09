@@ -38,18 +38,18 @@ Levity comes in the form of “What Have I Done to Deserve This?”, in which Te
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | One More Chance | 5:28 |
-| A2 | What Have I Done To Deserve This? | 4:21 |
-| A3 | Shopping | 3:37 |
-| A4 | Rent | 5:07 |
-| A5 | Hit Music | 4:44 |
-| B1 | It Couldn't Happen Here | 5:19 |
-| B2 | It's  A Sin | 4:59 |
-| B3 | I Want To Wake Up | 5:08 |
-| B4 | Heart | 3:57 |
-| B5 | King's Cross | 5:09 |
+| Position | Title |
+|----------|--------|
+| A1 | One More Chance |
+| A2 | What Have I Done To Deserve This? |
+| A3 | Shopping |
+| A4 | Rent |
+| A5 | Hit Music |
+| B1 | It Couldn't Happen Here |
+| B2 | It's  A Sin |
+| B3 | I Want To Wake Up |
+| B4 | Heart |
+| B5 | King's Cross |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ Levity comes in the form of “What Have I Done to Deserve This?”, in which Te
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190295832612 |
-| Notes | ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved.<br>Made in the EU.<br><br>Recorded in London at Sarm West and Advision Studios.<br>Designed by Mark Farrow at ③ and Pet Shop Boys.<br><br>Comes with printed inner sleeve and white rectangular sticker on shrinkwrap:<br>"Pet Shop Boys, actually.<br>Pressed onto 180g heavyweight<br>vinyl featuring brand new 2018<br>remaster of the original album<br>0190295832612" |
+| Notes | ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Recorded in London at Sarm West and Advision Studios. Designed by Mark Farrow at ③ and Pet Shop Boys.  Comes with printed inner sleeve and white rectangular sticker on shrinkwrap: "Pet Shop Boys, actually. Pressed onto 180g heavyweight vinyl featuring brand new 2018 remaster of the original album 0190295832612" |
 | Discogs URL    | [Pet Shop Boys - Actually](https://www.discogs.com/release/11648940-Pet-Shop-Boys-Actually) |

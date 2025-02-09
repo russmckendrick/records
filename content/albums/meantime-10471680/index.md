@@ -33,18 +33,18 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | In The Meantime | 3:11 |
-| A2 | Ironhead | 3:23 |
-| A3 | Give It | 4:17 |
-| A4 | Unsung | 3:59 |
-| A5 | Turned Out | 4:13 |
-| B1 | He Feels Bad | 4:02 |
-| B2 | Better | 3:09 |
-| B3 | You Borrowed | 3:49 |
-| B4 | FBLA II | 3:22 |
-| B5 | Role Model | 3:31 |
+| Position | Title |
+|----------|--------|
+| A1 | In The Meantime |
+| A2 | Ironhead |
+| A3 | Give It |
+| A4 | Unsung |
+| A5 | Turned Out |
+| B1 | He Feels Bad |
+| B2 | Better |
+| B3 | You Borrowed |
+| B4 | FBLA II |
+| B5 | Role Model |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 | Format         | Vinyl LP Limited Edition Reissue (Red And Blue 50 / 50 Split) |
 | Label          | Interscope Records |
 | Catalog Number | B0026776-01 |
-| Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.<br><br>The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker.<br>The catalog number B0026621-01 appears on the disc.<br><br>All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)<br><br>℗ 1992 © 2017 Interscope Records. |
+| Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.  The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker. The catalog number B0026621-01 appears on the disc.  All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)  ℗ 1992 © 2017 Interscope Records. |
 | Discogs URL    | [Helmet - Meantime](https://www.discogs.com/release/10471680-Helmet-2-Meantime) |

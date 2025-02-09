@@ -31,20 +31,20 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Because | 2:17 |
-| A2 | Friends | 2:53 |
-| A3 | Someone Somewhere | 4:49 |
-| A4 | Oh Yes (It's A Mess) | 4:21 |
-| A5 | Shorty | 3:30 |
-| A6 | Damn It I Said | 3:15 |
-| B1 | Silent People | 3:12 |
-| B2 | What You Want | 2:44 |
-| B3 | Hit | 2:22 |
-| B4 | Bumble Bee Boy | 2:57 |
-| B5 | Combat Honey | 2:26 |
-| B6 | That's All | 8:38 |
+| Position | Title |
+|----------|--------|
+| A1 | Because |
+| A2 | Friends |
+| A3 | Someone Somewhere |
+| A4 | Oh Yes (It's A Mess) |
+| A5 | Shorty |
+| A6 | Damn It I Said |
+| B1 | Silent People |
+| B2 | What You Want |
+| B3 | Hit |
+| B4 | Bumble Bee Boy |
+| B5 | Combat Honey |
+| B6 | That's All |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Turquoise) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2303 |
-| Notes | Limited edition of 1,000 machine numbered copies. <br>180 gram audiophile turquoise vinyl.<br>Includes 4 page booklet.<br>Made in the EU. |
+| Notes | Limited edition of 1,000 machine numbered copies.  180 gram audiophile turquoise vinyl. Includes 4 page booklet. Made in the EU. |
 | Discogs URL    | [The Wannadies - Bagsy Me](https://www.discogs.com/release/13578946-The-Wannadies-Bagsy-Me) |

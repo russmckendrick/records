@@ -27,14 +27,14 @@ styles: []
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Two Way Mirror | 5:32 |
-| A2 | Sweet Perfume | 6:22 |
-| A3 | Hologram | 6:51 |
-| B1 | Tundra | 3:52 |
-| B2 | Let Me Drive | 7:04 |
-| B3 | Gargantuan (Prt1) | 6:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Two Way Mirror |
+| A2 | Sweet Perfume |
+| A3 | Hologram |
+| B1 | Tundra |
+| B2 | Let Me Drive |
+| B3 | Gargantuan (Prt1) |
 
 
 ## Apple Music
@@ -51,5 +51,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Blue/Red) |
 | Label          | Rockosmos |
 | Catalog Number | ROK262 |
-| Notes | Limited to 500 copies.<br>Half and Half Blue/Red coloured vinyl.<br>Some copies Signed rear side on sleeve. |
+| Notes | Limited to 500 copies. Half and Half Blue/Red coloured vinyl. Some copies Signed rear side on sleeve. |
 | Discogs URL    | [Amplifier - Hologram](https://www.discogs.com/release/28259452-Amplifier-3-Hologram) |

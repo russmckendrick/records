@@ -35,20 +35,20 @@ The second part of the double CD release, entitled Official Bootleg 1990–2020,
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Teethgrinder |  |
-| A2 | Screamager |  |
-| A3 | Opal Mantra |  |
-| A4 | Turn |  |
-| A5 | Nowhere |  |
-| A6 | Trigger Inside |  |
-| B1 | Die Laughing |  |
-| B2 | Stories |  |
-| B3 | Loose |  |
-| B4 | Diane |  |
-| B5 | Church Of Noise |  |
-| B6 | Lonely, Cryin' Only |  |
+| Position | Title |
+|----------|--------|
+| A1 | Teethgrinder |
+| A2 | Screamager |
+| A3 | Opal Mantra |
+| A4 | Turn |
+| A5 | Nowhere |
+| A6 | Trigger Inside |
+| B1 | Die Laughing |
+| B2 | Stories |
+| B3 | Loose |
+| B4 | Diane |
+| B5 | Church Of Noise |
+| B6 | Lonely, Cryin' Only |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The second part of the double CD release, entitled Official Bootleg 1990–2020,
 | Format         | Vinyl LP Album |
 | Label          | Marshall Records (10) |
 | Catalog Number | R920.011 |
-| Notes | Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).<br><br>Catalog# and barcode differ from those on the coloured vinyl edition. |
+| Notes | Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).  Catalog# and barcode differ from those on the coloured vinyl edition. |
 | Discogs URL    | [Therapy - Greatest Hits (The Abbey Road Session)](https://www.discogs.com/release/14911724-Therapy-Greatest-Hits-The-Abbey-Road-Session) |

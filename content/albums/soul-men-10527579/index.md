@@ -34,19 +34,19 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Soul Man | 2:36 |
-| A2 | May I Baby | 2:38 |
-| A3 | Broke Down Piece Of Man | 2:46 |
-| A4 | Let It Be Me | 2:45 |
-| A5 | Hold It Baby | 2:35 |
-| A6 | I'm With You | 2:50 |
-| B1 | Don't Knock It | 2:28 |
-| B2 | Just Keep Holding On | 2:52 |
-| B3 | The Good Runs The Bad Way | 2:15 |
-| B4 | Rich Kind Of Poverty | 2:13 |
-| B5 | I've Seen What Loneliness Can Do | 2:58 |
+| Position | Title |
+|----------|--------|
+| A1 | Soul Man |
+| A2 | May I Baby |
+| A3 | Broke Down Piece Of Man |
+| A4 | Let It Be Me |
+| A5 | Hold It Baby |
+| A6 | I'm With You |
+| B1 | Don't Knock It |
+| B2 | Just Keep Holding On |
+| B3 | The Good Runs The Bad Way |
+| B4 | Rich Kind Of Poverty |
+| B5 | I've Seen What Loneliness Can Do |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 | Format         | Vinyl LP Album Reissue Mono (180g) |
 | Label          | Stax |
 | Catalog Number | 081227940577 |
-| Notes | Originally released on Stax in 1967.<br>Manufactured in E.U.<br>STAX 60 (60th Anniversary) sticker.<br><br>Runouts are etched except 19193 1A MASTERED BY CAPITOL 19193 1B are stamped. |
+| Notes | Originally released on Stax in 1967. Manufactured in E.U. STAX 60 (60th Anniversary) sticker.  Runouts are etched except 19193 1A MASTERED BY CAPITOL 19193 1B are stamped. |
 | Discogs URL    | [Sam  Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |

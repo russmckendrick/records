@@ -26,22 +26,22 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Girl Is Crying In Her Latte |  |
-| A2 | Veronica Lake |  |
-| A3 | Nothing Is As Good As They Say It Is |  |
-| A4 | Escalator |  |
-| A5 | The Mona Lisa's Packing, Leaving Late Tonight |  |
-| A6 | You Were Meant For Me |  |
-| A7 | Not That Well-Defined |  |
-| B1 | We Go Dancing |  |
-| B2 | When You Leave |  |
-| B3 | Take Me For A Ride |  |
-| B4 | It's Sunny Today |  |
-| B5 | A Love Story |  |
-| B6 | It Doesn't Have To Be That Way |  |
-| B7 | Gee, That Was Fun |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Girl Is Crying In Her Latte |
+| A2 | Veronica Lake |
+| A3 | Nothing Is As Good As They Say It Is |
+| A4 | Escalator |
+| A5 | The Mona Lisa's Packing, Leaving Late Tonight |
+| A6 | You Were Meant For Me |
+| A7 | Not That Well-Defined |
+| B1 | We Go Dancing |
+| B2 | When You Leave |
+| B3 | Take Me For A Ride |
+| B4 | It's Sunny Today |
+| B5 | A Love Story |
+| B6 | It Doesn't Have To Be That Way |
+| B7 | Gee, That Was Fun |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
 | Label          | Island Records |
 | Catalog Number | 5504002 |
-| Notes | Limited Edition Picture Disc. For a limited time signed prints were available to UK customers with the purchase of the LP from the Sparks webstore.<br>Sticker on front of clear PVC sleeve with dust flap<br><br>'Made in Germany' sticker on back of clear sleeve |
+| Notes | Limited Edition Picture Disc. For a limited time signed prints were available to UK customers with the purchase of the LP from the Sparks webstore. Sticker on front of clear PVC sleeve with dust flap  'Made in Germany' sticker on back of clear sleeve |
 | Discogs URL    | [Sparks - The Girl Is Crying In Her Latte](https://www.discogs.com/release/27196083-Sparks-The-Girl-Is-Crying-In-Her-Latte) |

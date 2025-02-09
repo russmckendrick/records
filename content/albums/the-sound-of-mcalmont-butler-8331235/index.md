@@ -24,19 +24,19 @@ styles: ["Indie Pop", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Yes |  |
-| A2 | What's The Excuse This Time? |  |
-| A3 | The Right Thing |  |
-| A4 | Although |  |
-| A5 | Don't Call It Soul |  |
-| A6 | Disappointment/Interval |  |
-| B1 | The Debitor |  |
-| B2 | How About You? |  |
-| B3 | Tonight |  |
-| B4 | You'll Lose A Good Thing |  |
-| B5 | You Do |  |
+| Position | Title |
+|----------|--------|
+| A1 | Yes |
+| A2 | What's The Excuse This Time? |
+| A3 | The Right Thing |
+| A4 | Although |
+| A5 | Don't Call It Soul |
+| A6 | Disappointment/Interval |
+| B1 | The Debitor |
+| B2 | How About You? |
+| B3 | Tonight |
+| B4 | You'll Lose A Good Thing |
+| B5 | You Do |
 
 
 ## Apple Music

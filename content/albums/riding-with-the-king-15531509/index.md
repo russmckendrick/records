@@ -38,22 +38,22 @@ The album was generally well received by reviewers, although some felt that it c
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Riding With The King | 4:23 |
-| A2 | Ten Long Years | 4:41 |
-| A3 | Key To The Highway | 3:40 |
-| A4 | Marry You | 4:59 |
-| B1 | Three O'Clock Blues | 8:37 |
-| B2 | Help The Poor | 5:05 |
-| B3 | I Wanna Be | 4:46 |
-| C1 | Worried Life Blues | 4:26 |
-| C2 | Days Of Old | 3:00 |
-| C3 | When My Heart Beats Like A Hammer | 7:08 |
-| C4 | Hold On I'm Coming | 6:20 |
-| D1 | Come Rain Or Come Shine | 4:10 |
-| D2 | Rollin' And Tumblin' | 4:30 |
-| D3 | Let Me Love You Baby | 5:07 |
+| Position | Title |
+|----------|--------|
+| A1 | Riding With The King |
+| A2 | Ten Long Years |
+| A3 | Key To The Highway |
+| A4 | Marry You |
+| B1 | Three O'Clock Blues |
+| B2 | Help The Poor |
+| B3 | I Wanna Be |
+| C1 | Worried Life Blues |
+| C2 | Days Of Old |
+| C3 | When My Heart Beats Like A Hammer |
+| C4 | Hold On I'm Coming |
+| D1 | Come Rain Or Come Shine |
+| D2 | Rollin' And Tumblin' |
+| D3 | Let Me Love You Baby |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ The album was generally well received by reviewers, although some felt that it c
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Blue, 180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |
-| Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.<br><br>“Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.<br><br>Made in the Netherlands |
+| Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.  “Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.  Made in the Netherlands |
 | Discogs URL    | [BB King - Riding With The King](https://www.discogs.com/release/15531509-BB-King-Eric-Clapton-Riding-With-The-King) |

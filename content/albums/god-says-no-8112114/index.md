@@ -43,25 +43,25 @@ Two different music videos were produced for the song "Heads Explode" and one fo
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Melt |  |
-| A2 | Heads Explode |  |
-| A3 | Doomsday |  |
-| A4 | God Says No |  |
-| A5 | Kiss Of The Scorpion |  |
-| B1 | All Shook Out |  |
-| B2 | Gravity Well |  |
-| B3 | My Little Friend |  |
-| B4 | Queen Of You |  |
-| C1 | Down In The Jungle |  |
-| C2 | Cry |  |
-| C3 | Take It |  |
-| C4 | Silver Future |  |
-| D1 | I Want More (B-Side) |  |
-| D2 | Leapin' Lizards (B-Side) |  |
-| D3 | Into The Void |  |
-| D4 | Black Celebration |  |
+| Position | Title |
+|----------|--------|
+| A1 | Melt |
+| A2 | Heads Explode |
+| A3 | Doomsday |
+| A4 | God Says No |
+| A5 | Kiss Of The Scorpion |
+| B1 | All Shook Out |
+| B2 | Gravity Well |
+| B3 | My Little Friend |
+| B4 | Queen Of You |
+| C1 | Down In The Jungle |
+| C2 | Cry |
+| C3 | Take It |
+| C4 | Silver Future |
+| D1 | I Want More (B-Side) |
+| D2 | Leapin' Lizards (B-Side) |
+| D3 | Into The Void |
+| D4 | Black Celebration |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ Two different music videos were produced for the song "Heads Explode" and one fo
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637845 |
-| Notes | Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.<br><br>Original sound recording made by A & M Records Ltd.<br>Tracks C4 and D1 to D4 are bonus tracks.<br><br>Recorded at The Warehouse, Vancouver, B.C. Canada<br>Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.<br><br>℗ & © 2015 Spinefarm Records. A Universal Music Group Company<br><br>Made in the EU. |
+| Notes | Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU. |
 | Discogs URL    | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114-Monster-Magnet-God-Says-No) |

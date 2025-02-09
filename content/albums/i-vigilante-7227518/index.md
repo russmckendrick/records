@@ -34,14 +34,14 @@ styles: ["Avantgarde"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Troublemaker | 8:32 |
-| A2  | We Forgotten Who We Are | 10:46 |
-| B1 | Fantastic Justice | 7:53 |
-|  B2 | Bastogne Blues | 11:59 |
-| C1 | Of A Lifetime | 6:44 |
-| C2 | Burning Bridges | 2:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Troublemaker |
+| A2  | We Forgotten Who We Are |
+| B1 | Fantastic Justice |
+|  B2 | Bastogne Blues |
+| C1 | Of A Lifetime |
+| C2 | Burning Bridges |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ styles: ["Avantgarde"]
 | Format         | Vinyl 12", Vinyl 12" Single Sided Etched, All Media Album EP Reissue Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE897 |
-| Notes | Release in gatefold jacket.<br>Etched on side D.<br><br>The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.<br><br>Made in Germany. |
+| Notes | Release in gatefold jacket. Etched on side D.  The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.  Made in Germany. |
 | Discogs URL    | [Crippled Black Phoenix - I, Vigilante](https://www.discogs.com/release/7227518-Crippled-Black-Phoenix-I-Vigilante) |

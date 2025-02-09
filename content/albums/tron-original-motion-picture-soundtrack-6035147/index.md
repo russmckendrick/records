@@ -33,26 +33,26 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Creation Of Tron | 0:49 |
-| A2 | Only Solutions  | 3:41 |
-| A3 | We've Got Company | 2:19 |
-| A4 | Wormhole | 2:29 |
-| A5 | Ring Game And Escape | 2:57 |
-| A6 | Water Music And Tronaction | 2:25 |
-| B1  | Tron Scherzo | 1:46 |
-| B2  | Miracle And Magician | 2:40 |
-| B3  | Magic Landings | 3:44 |
-| B4 | Theme From Tron | 1:37 |
-| B5 | 1990's Theme | 2:08 |
-| B6 | Love Theme | 2:07 |
-| C1 | Tower Music - Let Us Pray | 3:47 |
-| C2  | The Light Sailer | 2:37 |
-| C3 | Sea Of Simulation | 3:23 |
-| D1 | A New Tron And The Mcp | 5:10 |
-| D2 | Anthem | 1:40 |
-| D3 | Ending Titles | 5:16 |
+| Position | Title |
+|----------|--------|
+| A1 | Creation Of Tron |
+| A2 | Only Solutions  |
+| A3 | We've Got Company |
+| A4 | Wormhole |
+| A5 | Ring Game And Escape |
+| A6 | Water Music And Tronaction |
+| B1  | Tron Scherzo |
+| B2  | Miracle And Magician |
+| B3  | Magic Landings |
+| B4 | Theme From Tron |
+| B5 | 1990's Theme |
+| B6 | Love Theme |
+| C1 | Tower Music - Let Us Pray |
+| C2  | The Light Sailer |
+| C3 | Sea Of Simulation |
+| D1 | A New Tron And The Mcp |
+| D2 | Anthem |
+| D3 | Ending Titles |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Blue Translucent, 180 Gram, Gatefold) |
 | Label          | Audio Fidelity (3) |
 | Catalog Number | AFZLP2 177 |
-| Notes | Limited to 3000 copies, some copies have a number greater than 3000.<br><br>© Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music<br>Made in U.S.A. |
+| Notes | Limited to 3000 copies, some copies have a number greater than 3000.  © Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music Made in U.S.A. |
 | Discogs URL    | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147-Wendy-Carlos-Tron-Original-Motion-Picture-Soundtrack) |

@@ -33,15 +33,15 @@ The album is titled after a military slang term well known at the time of releas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Assassing | 6:59 |
-| A2 | Punch & Judy | 3:19 |
-| A3 | Jigsaw | 6:49 |
-| A4 | Emerald Lies | 5:13 |
-| B1 | She Chameleon | 6:49 |
-| B2 | Incubus | 8:30 |
-| B3 | Fugazi | 8:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Assassing |
+| A2 | Punch & Judy |
+| A3 | Jigsaw |
+| A4 | Emerald Lies |
+| B1 | She Chameleon |
+| B2 | Incubus |
+| B3 | Fugazi |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | EMC 2400851 |
-| Notes | Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.<br><br>The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has:<br>B1 - Incubus <br>B2 - She Chameleon<br><br>Gatefold full laminated sleeve with lyrics.<br>Original Inner sleeve is Black<br><br>This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.<br><br>Centre labels are black with silver text. There is no EMI logo. |
+| Notes | Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.    The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has:  B1 - Incubus   B2 - She Chameleon    Gatefold full laminated sleeve with lyrics.  Original Inner sleeve is Black    This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.    Centre labels are black with silver text. There is no EMI logo. |
 | Discogs URL    | [Marillion - Fugazi](https://www.discogs.com/release/4833055-Marillion-Fugazi) |

@@ -46,25 +46,25 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Lucinda / Ain' Goin' Down To The Wel No Mo' | 5:37 |
-| A2 | Singapore | 5:00 |
-| A3 | Get Behind The Mule | 6:26 |
-| B1 | Fannin Street | 4:16 |
-| B2 | Dirt In The Ground | 5:18 |
-| B3 | Such A Scream | 2:54 |
-| B4 | Live Circus | 5:04 |
-| C1 | Goin' Out West | 3:48 |
-| C2 | Falling Down | 4:21 |
-| C3 | The Part You Throw Away | 5:06 |
-| C4 | Trampled Rose | 5:06 |
-| D1 | Metropolitan Glide | 3:09 |
-| D2 | I'll Shoot The Moon | 4:25 |
-| D3 | Green Grass | 3:20 |
-| D4 | Make It Rain | 3:58 |
-| D5 | Story | 2:02 |
-| D6 | Lucky Day | 3:47 |
+| Position | Title |
+|----------|--------|
+| A1 | Lucinda / Ain' Goin' Down To The Wel No Mo' |
+| A2 | Singapore |
+| A3 | Get Behind The Mule |
+| B1 | Fannin Street |
+| B2 | Dirt In The Ground |
+| B3 | Such A Scream |
+| B4 | Live Circus |
+| C1 | Goin' Out West |
+| C2 | Falling Down |
+| C3 | The Part You Throw Away |
+| C4 | Trampled Rose |
+| D1 | Metropolitan Glide |
+| D2 | I'll Shoot The Moon |
+| D3 | Green Grass |
+| D4 | Make It Rain |
+| D5 | Story |
+| D6 | Lucky Day |
 
 
 ## Apple Music
@@ -82,5 +82,5 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Anti- |
 | Catalog Number | 7053-3 |
-| Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner).<br>Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram".<br>Gatefold sleeve<br> |
+| Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve  |
 | Discogs URL    | [Tom Waits - Glitter And Doom Live](https://www.discogs.com/release/11273241-Tom-Waits-Glitter-And-Doom-Live) |

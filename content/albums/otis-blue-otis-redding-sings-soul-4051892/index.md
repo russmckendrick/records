@@ -31,19 +31,19 @@ Otis Blue was a crossover success for Redding and proved one of his best-selling
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ole Man Trouble | 2:35 |
-| A2 | Respect | 2:03 |
-| A3 | Change Gonna Come | 4:13 |
-| A4 | Down In The Valley | 2:55 |
-| A5 | I've Been Loving You Too Long | 2:53 |
-| B1 | Shake | 2:38 |
-| B2 | My Girl | 2:53 |
-| B3 | Wonderful World | 3:09 |
-| B4 | Rock Me Baby | 3:22 |
-| B5 | Satisfaction | 2:43 |
-| B6 | You Don't Miss Your Water | 2:49 |
+| Position | Title |
+|----------|--------|
+| A1 | Ole Man Trouble |
+| A2 | Respect |
+| A3 | Change Gonna Come |
+| A4 | Down In The Valley |
+| A5 | I've Been Loving You Too Long |
+| B1 | Shake |
+| B2 | My Girl |
+| B3 | Wonderful World |
+| B4 | Rock Me Baby |
+| B5 | Satisfaction |
+| B6 | You Don't Miss Your Water |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ Otis Blue was a crossover success for Redding and proved one of his best-selling
 | Format         | Vinyl LP Album Reissue Special Edition Stereo (Blue, 180 Gram) |
 | Label          | ATCO Records |
 | Catalog Number | 8122797160 |
-| Notes | Sticker on front "...On Special Edition Blue Vinyl 180-Gram. Cut from the original analog master tapes packaging replicated to the finest detail pressed with more care than ever"<br><br>Manufactured in EU/Made in the EU<br><br>A1, A2 published by East-Time-Walco<br>A3, B1, B3 published by Kags<br>A4 published by Progressive<br>A5 published by East-Time-Curtom<br>B2 published by Jobete<br>B4 published by Modern<br>B5 published by Immediate<br>B6 published by East |
+| Notes | Sticker on front "...On Special Edition Blue Vinyl 180-Gram. Cut from the original analog master tapes packaging replicated to the finest detail pressed with more care than ever"  Manufactured in EU/Made in the EU  A1, A2 published by East-Time-Walco A3, B1, B3 published by Kags A4 published by Progressive A5 published by East-Time-Curtom B2 published by Jobete B4 published by Modern B5 published by Immediate B6 published by East |
 | Discogs URL    | [Otis Redding - Otis Blue / Otis Redding Sings Soul](https://www.discogs.com/release/4051892-Otis-Redding-Otis-Blue-Otis-Redding-Sings-Soul) |

@@ -31,31 +31,31 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | 2023 Remix |  |
-| A1 | The King Of Sunset Town |  |
-| A2 | Easter |  |
-| B1 | The Uninvited Guest |  |
-| B2 | Seasons End |  |
-| C1 | Holloway Girl |  |
-| C2 | Berlin |  |
-| D1 | After Me |  |
-| D2 | Hooks In You |  |
-| D3 | The Space... |  |
-|  | Live At The De Montfort Hall 29th May 2022 |  |
-| E1 | The King Of Sunset Town |  |
-| E2 | Easter |  |
-| F1 | The Uninvited Guest |  |
-| F2 | Seasons End |  |
-| G1 | Holloway Girl |  |
-| G2 | Berlin |  |
-| H1 | After Me |  |
-| H2 | The Release |  |
-| H3 | Hooks In You |  |
-| H4 | The Space... |  |
-| I | Gaza |  |
-| J | The Leavers |  |
+| Position | Title |
+|----------|--------|
+|  | 2023 Remix |
+| A1 | The King Of Sunset Town |
+| A2 | Easter |
+| B1 | The Uninvited Guest |
+| B2 | Seasons End |
+| C1 | Holloway Girl |
+| C2 | Berlin |
+| D1 | After Me |
+| D2 | Hooks In You |
+| D3 | The Space... |
+|  | Live At The De Montfort Hall 29th May 2022 |
+| E1 | The King Of Sunset Town |
+| E2 | Easter |
+| F1 | The Uninvited Guest |
+| F2 | Seasons End |
+| G1 | Holloway Girl |
+| G2 | Berlin |
+| H1 | After Me |
+| H2 | The Release |
+| H3 | Hooks In You |
+| H4 | The Space... |
+| I | Gaza |
+| J | The Leavers |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 | Format         | Vinyl 2× LP Album Reissue (2023 Remix), Vinyl 3× LP, All Media Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 5054197381768 |
-| Notes | First 4000 orders across all formats at Marillion's online store include a hand signed A4 artwork print.<br> |
+| Notes | First 4000 orders across all formats at Marillion's online store include a hand signed A4 artwork print.  |
 | Discogs URL    | [Marillion - Seasons End (Deluxe Edition)](https://www.discogs.com/release/26861306-Marillion-Seasons-End-Deluxe-Edition) |

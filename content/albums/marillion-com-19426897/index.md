@@ -25,17 +25,17 @@ marillion.com is the eleventh studio album by the British neo-prog band Marillio
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | A Legacy |  |
-| A2 | Deserve |  |
-| A3 | Go! |  |
-| B1 | Rich |  |
-| B2 | Enlightened |  |
-| B3 | Built-In Bastard Radar |  |
-| C1 | Tumble Down The Years |  |
-| C2 | House |  |
-| D1 | Interior Lulu |  |
+| Position | Title |
+|----------|--------|
+| A1 | A Legacy |
+| A2 | Deserve |
+| A3 | Go! |
+| B1 | Rich |
+| B2 | Enlightened |
+| B3 | Built-In Bastard Radar |
+| C1 | Tumble Down The Years |
+| C2 | House |
+| D1 | Interior Lulu |
 
 
 ## Apple Music

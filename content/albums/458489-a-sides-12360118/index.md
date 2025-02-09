@@ -32,25 +32,25 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh! Brother | 4:01 |
-| A2 | C.R.E.E.P. | 2:54 |
-| A3 | No Bulbs 3 | 4:28 |
-| A4 | Rollin' Dany | 2:24 |
-| A5 | Couldn't Get Ahead | 2:35 |
-| A6 | Cruisers Creek | 4:16 |
-| A7 | L.A | 4:09 |
-| A8 | Living Too Late | 4:29 |
-| B1 | Hit The North (Part 1) | 4:00 |
-| B2 | Mr. Pharmacist | 2:19 |
-| B3 | Hey! Luciani | 3:34 |
-| B4 | There's A Ghost In My House | 2:36 |
-| B5 | Victoria | 2:43 |
-| B6 | Big New Prinz | 3:23 |
-| B7 | Wrong Place, Right Time | 2:53 |
-| B8 | Jerusalem | 3:49 |
-| B9 | Dead Beat Descendant | 2:22 |
+| Position | Title |
+|----------|--------|
+| A1 | Oh! Brother |
+| A2 | C.R.E.E.P. |
+| A3 | No Bulbs 3 |
+| A4 | Rollin' Dany |
+| A5 | Couldn't Get Ahead |
+| A6 | Cruisers Creek |
+| A7 | L.A |
+| A8 | Living Too Late |
+| B1 | Hit The North (Part 1) |
+| B2 | Mr. Pharmacist |
+| B3 | Hey! Luciani |
+| B4 | There's A Ghost In My House |
+| B5 | Victoria |
+| B6 | Big New Prinz |
+| B7 | Wrong Place, Right Time |
+| B8 | Jerusalem |
+| B9 | Dead Beat Descendant |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 | Format         | Vinyl LP Compilation Reissue (White) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 111 |
-| Notes | From sticker:<br>First Ever US Pressing<br>White Vinyl<br>Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"<br><br> |
+| Notes | From sticker: First Ever US Pressing White Vinyl Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"   |
 | Discogs URL    | [The Fall - 458489 A Sides](https://www.discogs.com/release/12360118-The-Fall-458489-A-Sides) |

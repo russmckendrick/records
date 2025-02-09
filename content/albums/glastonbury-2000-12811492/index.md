@@ -57,30 +57,30 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Introduction (Greensleeves) | 1:48 |
-| A2 | Wild Is The Wind | 6:54 |
-| A3 | China Girl | 4:24 |
-| A4 | Changes | 3:40 |
-| B1 | Stay | 7:12 |
-| B2 | Life On Mars? | 4:42 |
-| B3 | Absolute Beginners | 7:50 |
-| C1 | Ashes To Ashes | 5:21 |
-| C2 | Rebel Rebel | 4:12 |
-| C3 | Little Wonder | 3:57 |
-| C4 | Golden Years | 4:07 |
-| D1 | Fame | 4:25 |
-| D2 | All The Young Dudes | 3:43 |
-| D3 | The Man Who Sold The World | 3:51 |
-| D4 | Station To Station | 9:49 |
-| E1 | Starman | 4:50 |
-| E2 | Hallo Spaceboy | 5:28 |
-| E3 | Under Pressure | 5:23 |
-| E4 | Ziggy Stardust | 3:54 |
-| F1 | "Heroes" | 5:57 |
-| F2 | Let's Dance | 7:06 |
-| F3 | I'm Afraid Of Americans | 5:43 |
+| Position | Title |
+|----------|--------|
+| A1 | Introduction (Greensleeves) |
+| A2 | Wild Is The Wind |
+| A3 | China Girl |
+| A4 | Changes |
+| B1 | Stay |
+| B2 | Life On Mars? |
+| B3 | Absolute Beginners |
+| C1 | Ashes To Ashes |
+| C2 | Rebel Rebel |
+| C3 | Little Wonder |
+| C4 | Golden Years |
+| D1 | Fame |
+| D2 | All The Young Dudes |
+| D3 | The Man Who Sold The World |
+| D4 | Station To Station |
+| E1 | Starman |
+| E2 | Hallo Spaceboy |
+| E3 | Under Pressure |
+| E4 | Ziggy Stardust |
+| F1 | "Heroes" |
+| F2 | Let's Dance |
+| F3 | I'm Afraid Of Americans |
 
 
 ## Apple Music
@@ -98,5 +98,5 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 | Format         | Vinyl 3× LP Misprint Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295570453 |
-| Notes | Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000.<br>Made in the EU.<br>Triple gatefold sleeve, with colour booklet.<br>Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [url=http://www.discogs.com/release/13345593]repress with corrected back sleeve[/url].<br><br>Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted.  |
+| Notes | Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000. Made in the EU. Triple gatefold sleeve, with colour booklet. Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [url=http://www.discogs.com/release/13345593]repress with corrected back sleeve[/url].  Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted.  |
 | Discogs URL    | [David Bowie - Glastonbury 2000](https://www.discogs.com/release/12811492-Bowie-Glastonbury-2000) |

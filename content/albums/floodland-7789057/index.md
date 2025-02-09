@@ -56,29 +56,29 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Floodland |  |
-| A1 | Dominion/Mother Russia | 7:00 |
-| A2 | Flood I | 6:23 |
-| A3 | Lucretia My Reflection | 4:57 |
-| A4 | 1959 | 4:14 |
-| B1 | This Corrosion | 9:31 |
-| B2 | Flood II | 6:14 |
-| B3 | Driven Like The Snow | 4:38 |
-| B4 | Never Land (A Fragment) | 3:00 |
-|  | This Corrosion |  |
-| C | This Corrosion | 8:37 |
-| D1 | Torch | 3:50 |
-| D2 | Colours | 7:13 |
-|  | Dominion |  |
-| E1 | Dominion | 5:08 |
-| E2 | Untitled | 3:36 |
-| F1 | Sandstorm | 1:49 |
-| F2 | Emma | 6:16 |
-|  | Lucretia My Reflection |  |
-| G | Lucretia My Reflection | 9:52 |
-| H | Long Train (1984) | 7:28 |
+| Position | Title |
+|----------|--------|
+|  | Floodland |
+| A1 | Dominion/Mother Russia |
+| A2 | Flood I |
+| A3 | Lucretia My Reflection |
+| A4 | 1959 |
+| B1 | This Corrosion |
+| B2 | Flood II |
+| B3 | Driven Like The Snow |
+| B4 | Never Land (A Fragment) |
+|  | This Corrosion |
+| C | This Corrosion |
+| D1 | Torch |
+| D2 | Colours |
+|  | Dominion |
+| E1 | Dominion |
+| E2 | Untitled |
+| F1 | Sandstorm |
+| F2 | Emma |
+|  | Lucretia My Reflection |
+| G | Lucretia My Reflection |
+| H | Long Train (1984) |
 
 
 ## Apple Music
@@ -96,5 +96,5 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 | Format         | Vinyl LP Album Reissue, Vinyl 3× 12" 45 RPM EP Reissue, Box Set |
 | Label          | Warner Music Group |
 | Catalog Number | 0825646077038 |
-| Notes | LP has lyric sheet / poster included, emulating original release.<br><br>All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.<br><br>There are anomalies with all but the Side G & H runouts:<br>The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM. |
+| Notes | LP has lyric sheet / poster included, emulating original release.  All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.  There are anomalies with all but the Side G & H runouts: The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM. |
 | Discogs URL    | [The Sisters Of Mercy - Floodland](https://www.discogs.com/release/7789057-The-Sisters-Of-Mercy-Floodland) |

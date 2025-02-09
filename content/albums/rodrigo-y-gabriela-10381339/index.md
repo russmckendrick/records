@@ -43,27 +43,27 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Tamacun |  |
-| A2 | Diablo Rojo |  |
-| A3 | Vikingman |  |
-| A4 | Satori |  |
-| A5 | Ixtapa |  |
-| B1 | Stairway To Heaven |  |
-| B2 | Orion |  |
-| B3 | Juan Loco |  |
-| B4 | PPA |  |
-|  | Live At The Olympia Theatre |  |
-| C1 | Tamacun |  |
-| C2 | Diem |  |
-| C3 | Satori |  |
-| C4 | Foc |  |
-| C5 | Ixtapa |  |
-| D1 | Orion |  |
-| D2 | Medley: One/Take 5 |  |
-| D3 | Mr. Tang |  |
-| D4 | Diablo Rojo |  |
+| Position | Title |
+|----------|--------|
+| A1 | Tamacun |
+| A2 | Diablo Rojo |
+| A3 | Vikingman |
+| A4 | Satori |
+| A5 | Ixtapa |
+| B1 | Stairway To Heaven |
+| B2 | Orion |
+| B3 | Juan Loco |
+| B4 | PPA |
+|  | Live At The Olympia Theatre |
+| C1 | Tamacun |
+| C2 | Diem |
+| C3 | Satori |
+| C4 | Foc |
+| C5 | Ixtapa |
+| D1 | Orion |
+| D2 | Medley: One/Take 5 |
+| D3 | Mr. Tang |
+| D4 | Diablo Rojo |
 
 
 ## Apple Music
@@ -81,5 +81,5 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
 | Label          | Rubyworks |
 | Catalog Number | RWXLP37R |
-| Notes | The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela. <br><br>"Limited Edition Double LP - pressed on heavyweight 180g vinyl.<br>Special Gold Foil logo cover (first pressing only)."<br><br>Limitation of this run/pressing unknown.<br><br>LP1 - Rodrigo y Gabriela (Remastered)<br>Recorded at Riverside Studios, Bath, UK, Oct. 2005.<br>2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.<br><br>LP2 - Rodrigo y Gabriela Live At The Olympia Theatre<br>Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland.<br>2016 Remaster by John Webber at Air Studios, London. |
+| Notes | The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela.   "Limited Edition Double LP - pressed on heavyweight 180g vinyl. Special Gold Foil logo cover (first pressing only)."  Limitation of this run/pressing unknown.  LP1 - Rodrigo y Gabriela (Remastered) Recorded at Riverside Studios, Bath, UK, Oct. 2005. 2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.  LP2 - Rodrigo y Gabriela Live At The Olympia Theatre Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland. 2016 Remaster by John Webber at Air Studios, London. |
 | Discogs URL    | [Rodrigo Y Gabriela - Rodrigo Y Gabriela](https://www.discogs.com/release/10381339-Rodrigo-Y-Gabriela-Rodrigo-Y-Gabriela) |

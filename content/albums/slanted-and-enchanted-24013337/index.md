@@ -37,22 +37,22 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Summer Babe (Winter Version) |  |
-| A2 | Trigger Cut / Wounded-Kite At :17 |  |
-| A3 | No Life Singed Her |  |
-| A4 | In The Mouth A Desert |  |
-| A5 | Conduit For Sale! |  |
-| A6 | Zurich Is Stained |  |
-| A7 | Chesley's Little Wrists |  |
-| B1 | Loretta's Scars |  |
-| B2 | Here |  |
-| B3 | Two States |  |
-| B4 | Perfume-V |  |
-| B5 | Fame Throwa |  |
-| B6 | Jackals, False Grails: The Lonesome Era |  |
-| B7 | Our Singer |  |
+| Position | Title |
+|----------|--------|
+| A1 | Summer Babe (Winter Version) |
+| A2 | Trigger Cut / Wounded-Kite At :17 |
+| A3 | No Life Singed Her |
+| A4 | In The Mouth A Desert |
+| A5 | Conduit For Sale! |
+| A6 | Zurich Is Stained |
+| A7 | Chesley's Little Wrists |
+| B1 | Loretta's Scars |
+| B2 | Here |
+| B3 | Two States |
+| B4 | Perfume-V |
+| B5 | Fame Throwa |
+| B6 | Jackals, False Grails: The Lonesome Era |
+| B7 | Our Singer |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red w/ White & Black Splatter) |
 | Label          | Matador |
 | Catalog Number | OLE038LP |
-| Notes | 30th Anniversary Red w/ White & Black Splatter Vinyl<br><br>Made in Czech Republic |
+| Notes | 30th Anniversary Red w/ White & Black Splatter Vinyl  Made in Czech Republic |
 | Discogs URL    | [Pavement - Slanted And Enchanted](https://www.discogs.com/release/24013337-Pavement-Slanted-And-Enchanted) |

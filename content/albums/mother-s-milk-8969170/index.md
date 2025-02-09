@@ -33,21 +33,21 @@ Of course, much of the Peppers 2.0 was as hedonistic as ever (“Stone Cold Bush
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Time Boys | 4:51 |
-| A2 | Higher Ground | 3:15 |
-| A3 | Subway To Venus | 4:17 |
-| A4 | Magic Johnson | 2:47 |
-| A5 | Nobody Weird Like Me | 3:45 |
-| A6 | Knock Me Down | 4:35 |
-| B1 | Taste The Pain | 4:20 |
-| B2 | Stone Cold Bush | 2:58 |
-| B3 | Fire | 2:20 |
-| B4 | Pretty Little Ditty | 3:08 |
-| B5 | Punk Rock Classic | 1:37 |
-| B6 | Sexy Mexican Maid | 3:40 |
-| B7 | Johnny Kick A Hole In The Sky | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Good Time Boys |
+| A2 | Higher Ground |
+| A3 | Subway To Venus |
+| A4 | Magic Johnson |
+| A5 | Nobody Weird Like Me |
+| A6 | Knock Me Down |
+| B1 | Taste The Pain |
+| B2 | Stone Cold Bush |
+| B3 | Fire |
+| B4 | Pretty Little Ditty |
+| B5 | Punk Rock Classic |
+| B6 | Sexy Mexican Maid |
+| B7 | Johnny Kick A Hole In The Sky |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ Of course, much of the Peppers 2.0 was as hedonistic as ever (“Stone Cold Bush
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | EMI |
 | Catalog Number | 509996 98172 12 |
-| Notes | Cat# 509996 98172 12 on back cover, spine and labels.<br><br>[On back cover]:<br>This album is dedicated to the memory of [a=Hillel Slovak]<br>℗ 1989. The copyright in this sound recording is owned by EMI America Records. © 1989 EMI America Records.<br>Printed in the EU.<br><br>[On labels]:<br>Made in the EU (outer rim text).<br>Publishers: <br>Screen Gems-EMI Music Inc. (tracks: A1, A3 to B2, B4 to B7)<br>Moebetoblame Music (BMI) (tracks: A1, A3 to B2, B4 to B7)<br>Jobete Music Co., Inc. (track: A2)<br>Black Bull Music / ASCAP (track: A2)<br>Unichappell Music  (track: B3)<br>Yameta Music (track: B3)<br><br>[On runouts]:<br>Everything is hand etched on each side.<br><br>Track durations on the sleeve are different compared to the ones given on the labels:<br><br>Good Time Boys: Sleeve 5:02, Label 4:51<br>Higher Ground: Sleeve 3:21, Label 3:15<br>Subway To Venus: Sleeve 4:24, Label 4:17<br>Magic Johnson: Sleeve 2:57, Label 2:47<br>Nobody Weird Like Me: Sleeve 3:47, Label 3:45<br>Knock Me Down: Sleeve 3:43, Label 4:35<br>Taste The Pain: Sleeve 4:34, Label 4:20<br>Stone Cold Bush: Sleeve 3:04, Label 2:58<br>Fire: Sleeve 2:01, Label 2:20<br>Pretty Little Ditty: Sleeve 1:34, Label 1:30<br>Punk Rock Classic: Sleeve 1:46, Label 1:37<br>Sexy Mexican Maid: Sleeve 3:20, Label 3:40<br>Johnny Kick A Hole In The Sky: Sleeve 5:10, Label 5:08<br><br>"Pretty Little Ditty" lasts 03:08 even though the label says it's 01:30 long<br><br>180 Gram (but weight does not appear anywhere) black vinyl housed in a glossy single jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).<br><br>Not to be confused with the previous [url=https://www.discogs.com/release/3697928-Red-Hot-Chili-Peppers-Mothers-Milk]2009 EU[/url] release (with slighty different center labels: different outer rim text and copyrights), nor with the [url=https://www.discogs.com/release/1828402-Red-Hot-Chili-Peppers-Mothers-Milk]2009 US [/url] "[l298394]" release. |
+| Notes | Cat# 509996 98172 12 on back cover, spine and labels.  [On back cover]: This album is dedicated to the memory of [a=Hillel Slovak] ℗ 1989. The copyright in this sound recording is owned by EMI America Records. © 1989 EMI America Records. Printed in the EU.  [On labels]: Made in the EU (outer rim text). Publishers:  Screen Gems-EMI Music Inc. (tracks: A1, A3 to B2, B4 to B7) Moebetoblame Music (BMI) (tracks: A1, A3 to B2, B4 to B7) Jobete Music Co., Inc. (track: A2) Black Bull Music / ASCAP (track: A2) Unichappell Music  (track: B3) Yameta Music (track: B3)  [On runouts]: Everything is hand etched on each side.  Track durations on the sleeve are different compared to the ones given on the labels:  Good Time Boys: Sleeve 5:02, Label 4:51 Higher Ground: Sleeve 3:21, Label 3:15 Subway To Venus: Sleeve 4:24, Label 4:17 Magic Johnson: Sleeve 2:57, Label 2:47 Nobody Weird Like Me: Sleeve 3:47, Label 3:45 Knock Me Down: Sleeve 3:43, Label 4:35 Taste The Pain: Sleeve 4:34, Label 4:20 Stone Cold Bush: Sleeve 3:04, Label 2:58 Fire: Sleeve 2:01, Label 2:20 Pretty Little Ditty: Sleeve 1:34, Label 1:30 Punk Rock Classic: Sleeve 1:46, Label 1:37 Sexy Mexican Maid: Sleeve 3:20, Label 3:40 Johnny Kick A Hole In The Sky: Sleeve 5:10, Label 5:08  "Pretty Little Ditty" lasts 03:08 even though the label says it's 01:30 long  180 Gram (but weight does not appear anywhere) black vinyl housed in a glossy single jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).  Not to be confused with the previous [url=https://www.discogs.com/release/3697928-Red-Hot-Chili-Peppers-Mothers-Milk]2009 EU[/url] release (with slighty different center labels: different outer rim text and copyrights), nor with the [url=https://www.discogs.com/release/1828402-Red-Hot-Chili-Peppers-Mothers-Milk]2009 US [/url] "[l298394]" release. |
 | Discogs URL    | [Red Hot Chili Peppers - Mother's Milk](https://www.discogs.com/release/8969170-Red-Hot-Chili-Peppers-Mothers-Milk) |

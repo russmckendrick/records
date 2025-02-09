@@ -38,20 +38,20 @@ An expanded and remastered edition was released in 2024 to mark its 20th anniver
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 1985 |  |
-| A2 | The Love Of Richard Nixon |  |
-| A3 | Empty Souls |  |
-| B1 | A Song For Departure |  |
-| B2 | I Live To Fall Asleep |  |
-| B3 | To Repel Ghosts |  |
-| C1 | Emily |  |
-| C2 | Glasnost |  |
-| C3 | Always/Never |  |
-| D1 | Solitude Sometimes Is |  |
-| D2 | Fragments |  |
-| D3 | Cardiff Afterlife |  |
+| Position | Title |
+|----------|--------|
+| A1 | 1985 |
+| A2 | The Love Of Richard Nixon |
+| A3 | Empty Souls |
+| B1 | A Song For Departure |
+| B2 | I Live To Fall Asleep |
+| B3 | To Repel Ghosts |
+| C1 | Emily |
+| C2 | Glasnost |
+| C3 | Always/Never |
+| D1 | Solitude Sometimes Is |
+| D2 | Fragments |
+| D3 | Cardiff Afterlife |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ An expanded and remastered edition was released in 2024 to mark its 20th anniver
 | Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue Remastered (Red [Blood]) |
 | Label          | Columbia |
 | Catalog Number | 19658843891 |
-| Notes | 20th anniversary edition.<br>Some copies came with an autographed 12" square print (exclusive to Manic Street Preachers webstore).<br><br>Gatefold sleeve with a light gloss finish. Artist and title to the front are in debossed silver foil block detail.<br>Picture inner sleeves of top opening paper.<br>Full sized twenty page staple bound booklet.<br>These components differ from those in the first edition where each had a high gloss finish and were of card.<br><br>Picture labels. Translucent vinyl.<br>Hype sticker applied to the shrink-wrap.<br><br>Cat# on sleeve (rear, spine), center labels, inner sleeves, booklet and hype sticker.<br><br>Runouts etched, except for stamped internal Pallas pressing plant # -61996- and -61997- (subsequent etched "I" is in fact "Ⅰ").<br><br>Made in the EU.<br><br>℗&© 2024 Sony Music Entertainment UK Limited |
+| Notes | 20th anniversary edition. Some copies came with an autographed 12" square print (exclusive to Manic Street Preachers webstore).  Gatefold sleeve with a light gloss finish. Artist and title to the front are in debossed silver foil block detail. Picture inner sleeves of top opening paper. Full sized twenty page staple bound booklet. These components differ from those in the first edition where each had a high gloss finish and were of card.  Picture labels. Translucent vinyl. Hype sticker applied to the shrink-wrap.  Cat# on sleeve (rear, spine), center labels, inner sleeves, booklet and hype sticker.  Runouts etched, except for stamped internal Pallas pressing plant # -61996- and -61997- (subsequent etched "I" is in fact "Ⅰ").  Made in the EU.  ℗&© 2024 Sony Music Entertainment UK Limited |
 | Discogs URL    | [Manic Street Preachers - Lifeblood](https://www.discogs.com/release/30365657-Manic-Street-Preachers-Lifeblood) |

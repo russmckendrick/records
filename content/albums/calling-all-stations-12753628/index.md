@@ -33,19 +33,19 @@ Calling All Stations was released to mostly negative reviews from music critics 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Calling All Stations | 5:46 |
-| A2 | Congo | 4:52 |
-| A3 | Shipwrecked | 4:24 |
-| A4 | Alien Afternoon | 7:52 |
-| B1 | Not About Us | 4:39 |
-| B2 | If That's What You Need | 5:13 |
-| B3 | The Dividing Line | 7:46 |
-| B4 | Uncertain Weather | 5:30 |
-| C1 | Small Talk | 5:03 |
-| C2 | There Must Be Some Other Way | 7:55 |
-| C3 | One Man's Fool | 8:46 |
+| Position | Title |
+|----------|--------|
+| A1 | Calling All Stations |
+| A2 | Congo |
+| A3 | Shipwrecked |
+| A4 | Alien Afternoon |
+| B1 | Not About Us |
+| B2 | If That's What You Need |
+| B3 | The Dividing Line |
+| B4 | Uncertain Weather |
+| C1 | Small Talk |
+| C2 | There Must Be Some Other Way |
+| C3 | One Man's Fool |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Calling All Stations was released to mostly negative reviews from music critics 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374588 |
-| Notes | Recorded at The Farm, Surrey, England<br><br> |
+| Notes | Recorded at The Farm, Surrey, England   |
 | Discogs URL    | [Genesis - ...Calling All Stations...](https://www.discogs.com/release/12753628-Genesis-Calling-All-Stations) |

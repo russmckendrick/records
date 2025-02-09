@@ -39,29 +39,29 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | 2 Million Years B.C. | 0:40 |
-| A2 | The Music That Nobody Likes | 4:27 |
-| A3 | Mid Day Crisis | 3:55 |
-| A4 | Cheer Up, It Might Never Happen | 4:05 |
-| A5 | Stuff The Jubilee! | 3:54 |
-| B1 | A Bachelor For Baden Powell | 3:55 |
-| B2 | Spoilsports Personality Of The Year | 5:03 |
-| B3 | Suicide Isn't Painless | 1:18 |
-| B4 | Being Here | 2:04 |
-| B5 | Evil | 2:50 |
-| C1 | Sing Fat Lady Sing | 3:34 |
-| C2 | Travis | 3:03 |
-| C3 | Lean On Me I Won't Fall Over | 3:40 |
-| C4 | Lenny And Terence | 3:56 |
-| C5 | Under The Thumb And Over The Moon | 3:43 |
-| D1 | Glam Rock Cops |  |
-| D2 | Hit |  |
-| D3 | Always The Bridesmaid Never The Bride |  |
-| D4 | Her Song |  |
-| D5 | Commercial Fucking Suicide (Part 1) |  |
-| D6 | Stuff The Jubilee |  |
+| Position | Title |
+|----------|--------|
+| A1 | 2 Million Years B.C. |
+| A2 | The Music That Nobody Likes |
+| A3 | Mid Day Crisis |
+| A4 | Cheer Up, It Might Never Happen |
+| A5 | Stuff The Jubilee! |
+| B1 | A Bachelor For Baden Powell |
+| B2 | Spoilsports Personality Of The Year |
+| B3 | Suicide Isn't Painless |
+| B4 | Being Here |
+| B5 | Evil |
+| C1 | Sing Fat Lady Sing |
+| C2 | Travis |
+| C3 | Lean On Me I Won't Fall Over |
+| C4 | Lenny And Terence |
+| C5 | Under The Thumb And Over The Moon |
+| D1 | Glam Rock Cops |
+| D2 | Hit |
+| D3 | Always The Bridesmaid Never The Bride |
+| D4 | Her Song |
+| D5 | Commercial Fucking Suicide (Part 1) |
+| D6 | Stuff The Jubilee |
 
 
 ## Apple Music
@@ -79,5 +79,5 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 | Format         | Vinyl 2× LP Album Compilation Limited Edition (Clear Vinyl, Red Vinyl) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1661 |
-| Notes | Carter The Unstoppable Sex Machine: Post Historic Monsters 2LP Expanded Edition<br>250 were signed by Jim Bob and Fruitbat on release, more were signed at the album release in London's Rough Trade East store on 23 Aug 2024.<br>Limited edition pressing of 1500 copies.<br>Housed in a gatefold sleeve with poly-lined inner bags. |
+| Notes | Carter The Unstoppable Sex Machine: Post Historic Monsters 2LP Expanded Edition 250 were signed by Jim Bob and Fruitbat on release, more were signed at the album release in London's Rough Trade East store on 23 Aug 2024. Limited edition pressing of 1500 copies. Housed in a gatefold sleeve with poly-lined inner bags. |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - Post Historic Monsters](https://www.discogs.com/release/31545799-Carter-The-Unstoppable-Sex-Machine-Post-Historic-Monsters) |

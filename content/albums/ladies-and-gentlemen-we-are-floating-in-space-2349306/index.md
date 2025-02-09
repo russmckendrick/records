@@ -42,20 +42,20 @@ He would get there in the end and the crowning achievement of his career would b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Ladies And Gentlemen We Are Floating In Space |  |
-| A2 | Come Together |  |
-| A3 | I Think I'm In Love |  |
-| B1 | All Of My Thoughts |  |
-| B2 | Stay With Me |  |
-| B3 | Electricity |  |
-| B4 | Home Of The Brave |  |
-| C1 | The Individual |  |
-| C2 | Broken Heart |  |
-| C3 | No God Only Religion |  |
-| C4 | Cool Waves |  |
-| D1 | Cop Shoot Cop... |  |
+| Position | Title |
+|----------|--------|
+| A1 | Ladies And Gentlemen We Are Floating In Space |
+| A2 | Come Together |
+| A3 | I Think I'm In Love |
+| B1 | All Of My Thoughts |
+| B2 | Stay With Me |
+| B3 | Electricity |
+| B4 | Home Of The Brave |
+| C1 | The Individual |
+| C2 | Broken Heart |
+| C3 | No God Only Religion |
+| C4 | Cool Waves |
+| D1 | Cop Shoot Cop... |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ He would get there in the end and the crowning achievement of his career would b
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Plain Recordings |
 | Catalog Number | Plain150 |
-| Notes | Includes "Patient Product Information" credit sheet.<br><br>Date of preparation March 1997.<br><br>© 2010 Sony Music Entertainment<br>℗ 1997 Dedicated<br><br>The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland. |
+| Notes | Includes "Patient Product Information" credit sheet.  Date of preparation March 1997.  © 2010 Sony Music Entertainment ℗ 1997 Dedicated  The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland. |
 | Discogs URL    | [Spiritualized - Ladies And Gentlemen We Are Floating In Space](https://www.discogs.com/release/2349306-Spiritualized-Ladies-And-Gentlemen-We-Are-Floating-In-Space) |

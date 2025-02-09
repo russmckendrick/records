@@ -26,71 +26,71 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | In The Aeroplane Over The Sea |  |
-| A1 | The King Of Carrot Flowers Pt. One |  |
-| A2 | The King Of Carrot Flowers Pts. Two & Three |  |
-| A3 | In The Aeroplane Over The Sea |  |
-| A4 | Two-Headed Boy |  |
-| A5 | The Fool |  |
-| A6 | Holland, 1945 |  |
-| A7 | Communist Daughter |  |
-| B1 | Oh Comely |  |
-| B2 | Ghost |  |
-| B3 | Untitled |  |
-| B4 | Two-Headed Boy Pt. Two |  |
-|  | On Avery Island |  |
-| C1 | Song Against Sex |  |
-| C2 | You've Passed |  |
-| C3 | Someone Is Waiting |  |
-| D1 | A Baby For Pree |  |
-| D2 | Marching Theme |  |
-| D3 | Where You'll Find Me Now |  |
-| E1 | Avery Island / April 1st |  |
-| E2 | Gardenhead / Leave Me Alone |  |
-| E3 | Three Peaches |  |
-| F1 | Naomi |  |
-| F2 | April 8th |  |
-| F3 | Pree-Sisters Swallowing A Donkey's Eye |  |
-|  | Live At Jittery Joe's |  |
-| G1 | A Baby For Pree |  |
-| G2 | Two-Headed Boy |  |
-| G3 | I Will Bury You In Time |  |
-| G4 | Garden Head / Leave Me Alone |  |
-| G5 | Two-Headed Boy Part Two |  |
-| G6 | I Love How You Love Me |  |
-| H1 | Engine |  |
-| H2 | Naomi |  |
-| H3 | King Of Carrot Flowers Part Two |  |
-| H4 | King Of Carrot Flowers Part Three |  |
-| H5 | Oh Comely |  |
-|  | Ferris Wheel On Fire |  |
-| I1 | Oh Sister |  |
-| I2 | Ferris Wheel On Fire |  |
-| I3 | Home |  |
-| I4 | April 8th |  |
-| J1 | I Will Bury You In Time |  |
-| J2 | Engine |  |
-| J3 | A Baby For Pree / Glow Into You |  |
-| J4 | My Dream Girl Don't Exist |  |
-|  | Everything Is |  |
-| K1 | Everything Is |  |
-| K2 | Here We Are (For W. Cullen Hart) |  |
-| K3 | Unborn |  |
-| L1 | Tuesday Moon |  |
-| L2 | Ruby Bulbs |  |
-| L3 | Snow Song |  |
-| L4 | Aunt Eggma Blow Torch |  |
-|  | Little Birds |  |
-| M | Little Birds (Live) |  |
-| N | Little Birds (Demo) |  |
-|  | Where You'll Find Me Now / You've Passed |  |
-| O | You've Passed |  |
-| P | Where You'll Find Me Now |  |
-|  | Holland / Engine |  |
-| Q | Holland, 1945 |  |
-| R | Engine |  |
+| Position | Title |
+|----------|--------|
+|  | In The Aeroplane Over The Sea |
+| A1 | The King Of Carrot Flowers Pt. One |
+| A2 | The King Of Carrot Flowers Pts. Two & Three |
+| A3 | In The Aeroplane Over The Sea |
+| A4 | Two-Headed Boy |
+| A5 | The Fool |
+| A6 | Holland, 1945 |
+| A7 | Communist Daughter |
+| B1 | Oh Comely |
+| B2 | Ghost |
+| B3 | Untitled |
+| B4 | Two-Headed Boy Pt. Two |
+|  | On Avery Island |
+| C1 | Song Against Sex |
+| C2 | You've Passed |
+| C3 | Someone Is Waiting |
+| D1 | A Baby For Pree |
+| D2 | Marching Theme |
+| D3 | Where You'll Find Me Now |
+| E1 | Avery Island / April 1st |
+| E2 | Gardenhead / Leave Me Alone |
+| E3 | Three Peaches |
+| F1 | Naomi |
+| F2 | April 8th |
+| F3 | Pree-Sisters Swallowing A Donkey's Eye |
+|  | Live At Jittery Joe's |
+| G1 | A Baby For Pree |
+| G2 | Two-Headed Boy |
+| G3 | I Will Bury You In Time |
+| G4 | Garden Head / Leave Me Alone |
+| G5 | Two-Headed Boy Part Two |
+| G6 | I Love How You Love Me |
+| H1 | Engine |
+| H2 | Naomi |
+| H3 | King Of Carrot Flowers Part Two |
+| H4 | King Of Carrot Flowers Part Three |
+| H5 | Oh Comely |
+|  | Ferris Wheel On Fire |
+| I1 | Oh Sister |
+| I2 | Ferris Wheel On Fire |
+| I3 | Home |
+| I4 | April 8th |
+| J1 | I Will Bury You In Time |
+| J2 | Engine |
+| J3 | A Baby For Pree / Glow Into You |
+| J4 | My Dream Girl Don't Exist |
+|  | Everything Is |
+| K1 | Everything Is |
+| K2 | Here We Are (For W. Cullen Hart) |
+| K3 | Unborn |
+| L1 | Tuesday Moon |
+| L2 | Ruby Bulbs |
+| L3 | Snow Song |
+| L4 | Aunt Eggma Blow Torch |
+|  | Little Birds |
+| M | Little Birds (Live) |
+| N | Little Birds (Demo) |
+|  | Where You'll Find Me Now / You've Passed |
+| O | You've Passed |
+| P | Where You'll Find Me Now |
+|  | Holland / Engine |
+| Q | Holland, 1945 |
+| R | Engine |
 
 
 ## Apple Music
@@ -107,5 +107,5 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Gatefold), Vinyl 2× LP 45 RPM Album Deluxe Edition Reissue (Gatefold), Vinyl LP Album Picture Disc, Vinyl 10" 45 RPM EP Reissue, Vinyl 10" 45 RPM Reissue, Vinyl 3× 7" 45 RPM Reissue, Box Set Compilation Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG776 |
-| Notes | On Avery Island sides A to C play at 45rpm, side D at 33rpm<br><br>--<br><br>Hype sticker on back of boxset reads:<br><br>✵ NMH Vinyl Box Set Includes ✵<br><br>In The Aeroplane Over The Sea, LP<br>With deluxe gatefold jacket.<br><br>On Avery Island, 2xLP<br>Expanded to include the full-length version of "Pree-Sisters Swallowing a Donkey's Eye," with deluxe gatefold jacket.<br><br>Live at Jittery Joe's, 12-inch picture disc<br>Recorded in Athens, 1997, with new artwork.<br><br>Ferris Wheel On Fire EP, 10-inch<br>Eight acoustic recordings unavailable elsewhere.<br><br>Everything Is, 10-inch<br>Featuring the four songs from the original EP plus two additional songs.<br><br>"Little Birds," 7-inch<br>One previously unreleased version of "Little Birds," recorded live in Prospect Park, Brooklyn, and one demo recording.<br><br>"Where You'll Find Me Now" / "You've Passed," 7-inch<br>Two 4-track recordings of these songs, in some ways superior to the On Avery Island versions.<br><br>"Holland" / "Engine," 7-inch<br>With an exclusive recording of "Engine" and new artwork.<br><br>24" x 24" poster, featuring box cover art.<br>24" x 24" poster, featuring flying gramophone art. |
+| Notes | On Avery Island sides A to C play at 45rpm, side D at 33rpm  --  Hype sticker on back of boxset reads:  ✵ NMH Vinyl Box Set Includes ✵  In The Aeroplane Over The Sea, LP With deluxe gatefold jacket.  On Avery Island, 2xLP Expanded to include the full-length version of "Pree-Sisters Swallowing a Donkey's Eye," with deluxe gatefold jacket.  Live at Jittery Joe's, 12-inch picture disc Recorded in Athens, 1997, with new artwork.  Ferris Wheel On Fire EP, 10-inch Eight acoustic recordings unavailable elsewhere.  Everything Is, 10-inch Featuring the four songs from the original EP plus two additional songs.  "Little Birds," 7-inch One previously unreleased version of "Little Birds," recorded live in Prospect Park, Brooklyn, and one demo recording.  "Where You'll Find Me Now" / "You've Passed," 7-inch Two 4-track recordings of these songs, in some ways superior to the On Avery Island versions.  "Holland" / "Engine," 7-inch With an exclusive recording of "Engine" and new artwork.  24" x 24" poster, featuring box cover art. 24" x 24" poster, featuring flying gramophone art. |
 | Discogs URL    | [Neutral Milk Hotel - The Collected Works Of Neutral Milk Hotel](https://www.discogs.com/release/26207714-Neutral-Milk-Hotel-The-Collected-Works-Of-Neutral-Milk-Hotel) |

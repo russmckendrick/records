@@ -56,71 +56,71 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Volume One |  |
-| A1 | Israelites |  |
-| A2 | Double Barrel |  |
-| A3 | Love Of The Common People |  |
-| A4 | Liquidator |  |
-| A5 | Monkey Man |  |
-| B1 | Red Red Wine |  |
-| B2 | Young, Gifted & Black |  |
-| B3 | Let Your Yeah Be Yeah |  |
-| B4 | Help Me Make It Through The Night |  |
-| B5 | Black Pearl |  |
-| C1 | Black And White |  |
-| C2 | Rain |  |
-| C3 | Suzanne Beware Of The Devil |  |
-| C4 | Sweet Sensation |  |
-| C5 | Return Of Django |  |
-| D1 | 007 (Shanty Town) |  |
-| D2 | Everything I Own |  |
-| D3 | Hurt So Good |  |
-| D4 | I Want To Wake Up With You |  |
-| D5 | Girlie Girlie |  |
-|  | Volume Two |  |
-| E1 | Uptown Top Ranking |  |
-| E2 | OK Fred |  |
-| E3 | Money In My Pocket |  |
-| E4 | You're Everything To Me |  |
-| E5 | It Mek |  |
-| F1 | Skinhead Moonstomp |  |
-| F2 | Long Shot Kick De Bucket |  |
-| F3 | 54-46 Was My Number |  |
-| F4 | Kingston Town |  |
-| F5 | Please Don't Make Me Cry |  |
-| G1 | Johnny Too Bad |  |
-| G2 | Montego Bay |  |
-| G3 | Pied Piper |  |
-| G4 | Moon River |  |
-| G5 | Crying Over You |  |
-| H1 | Ire Feelings (Skanga) |  |
-| H2 | Sing A Little Song |  |
-| H3 | Mad About You |  |
-| H4 | Snoopy Vs. The Red Baron |  |
-| H5 | Dat |  |
-|  | Volume Three |  |
-| I1 | You Can Get It If You Really Want |  |
-| I2 | The Tide Is High |  |
-| I3 | Rudy, A Message To You |  |
-| I4 | Monkey Spanner |  |
-| I5 | Rivers Of Babylon |  |
-| J1 | Elizabethan Reggae |  |
-| J2 | Train To Skaville |  |
-| J3 | John Jones |  |
-| J4 | Stop That Train |  |
-| J5 | Perfidia |  |
-| K1 | Carry Go Bring Home |  |
-| K2 | I'm In The Mood For Ska |  |
-| K3 | Ram Goat Liver |  |
-| K4 | This Monday Morning Feeling |  |
-| K5 | I Am What I Am |  |
-| L1 | Leggo Skanga |  |
-| L2 | Pickney Gal |  |
-| L3 | Dollar In The Teeth |  |
-| L4 | Moon Hop |  |
-| L5 | Reggae Merengue |  |
+| Position | Title |
+|----------|--------|
+|  | Volume One |
+| A1 | Israelites |
+| A2 | Double Barrel |
+| A3 | Love Of The Common People |
+| A4 | Liquidator |
+| A5 | Monkey Man |
+| B1 | Red Red Wine |
+| B2 | Young, Gifted & Black |
+| B3 | Let Your Yeah Be Yeah |
+| B4 | Help Me Make It Through The Night |
+| B5 | Black Pearl |
+| C1 | Black And White |
+| C2 | Rain |
+| C3 | Suzanne Beware Of The Devil |
+| C4 | Sweet Sensation |
+| C5 | Return Of Django |
+| D1 | 007 (Shanty Town) |
+| D2 | Everything I Own |
+| D3 | Hurt So Good |
+| D4 | I Want To Wake Up With You |
+| D5 | Girlie Girlie |
+|  | Volume Two |
+| E1 | Uptown Top Ranking |
+| E2 | OK Fred |
+| E3 | Money In My Pocket |
+| E4 | You're Everything To Me |
+| E5 | It Mek |
+| F1 | Skinhead Moonstomp |
+| F2 | Long Shot Kick De Bucket |
+| F3 | 54-46 Was My Number |
+| F4 | Kingston Town |
+| F5 | Please Don't Make Me Cry |
+| G1 | Johnny Too Bad |
+| G2 | Montego Bay |
+| G3 | Pied Piper |
+| G4 | Moon River |
+| G5 | Crying Over You |
+| H1 | Ire Feelings (Skanga) |
+| H2 | Sing A Little Song |
+| H3 | Mad About You |
+| H4 | Snoopy Vs. The Red Baron |
+| H5 | Dat |
+|  | Volume Three |
+| I1 | You Can Get It If You Really Want |
+| I2 | The Tide Is High |
+| I3 | Rudy, A Message To You |
+| I4 | Monkey Spanner |
+| I5 | Rivers Of Babylon |
+| J1 | Elizabethan Reggae |
+| J2 | Train To Skaville |
+| J3 | John Jones |
+| J4 | Stop That Train |
+| J5 | Perfidia |
+| K1 | Carry Go Bring Home |
+| K2 | I'm In The Mood For Ska |
+| K3 | Ram Goat Liver |
+| K4 | This Monday Morning Feeling |
+| K5 | I Am What I Am |
+| L1 | Leggo Skanga |
+| L2 | Pickney Gal |
+| L3 | Dollar In The Teeth |
+| L4 | Moon Hop |
+| L5 | Reggae Merengue |
 
 
 ## Apple Music
@@ -137,5 +137,5 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 | Format         | Box Set Compilation Deluxe Edition, Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram) |
 | Label          | Trojan Records |
 | Catalog Number | TROJANLP001X |
-| Notes | Sticker on cover.<br><br>Made in the EU |
+| Notes | Sticker on cover.  Made in the EU |
 | Discogs URL    | [Various - This Is Trojan](https://www.discogs.com/release/10620174-Various-This-Is-Trojan) |

@@ -32,21 +32,21 @@ styles: ["Ska"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | This Is Where | 0:30 |
-| A2 | Girl Why Don't You? | 3:05 |
-| A3 | Shame & Scandal | 2:53 |
-| A4 | I Chase The Devil AKA Ironshirt | 3:20 |
-| A5 | Taller Than You Are | 2:27 |
-| A6 | You Keep Me Hanging On | 3:10 |
-| A7 | Dangermen AKA High Wire | 2:42 |
-| B1 | Israelites | 3:03 |
-| B2 | John Jones | 3:28 |
-| B3 | Lola | 3:21 |
-| B4 | You'll Lose A Good Thing | 2:42 |
-| B5 | Rain | 2:55 |
-| B6 | So Much Trouble In The World | 3:44 |
+| Position | Title |
+|----------|--------|
+| A1 | This Is Where |
+| A2 | Girl Why Don't You? |
+| A3 | Shame & Scandal |
+| A4 | I Chase The Devil AKA Ironshirt |
+| A5 | Taller Than You Are |
+| A6 | You Keep Me Hanging On |
+| A7 | Dangermen AKA High Wire |
+| B1 | Israelites |
+| B2 | John Jones |
+| B3 | Lola |
+| B4 | You'll Lose A Good Thing |
+| B5 | Rain |
+| B6 | So Much Trouble In The World |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ styles: ["Ska"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP15 |
-| Notes | Made in Poland<br><br>Heavyweight 180 Gram Black Vinyl<br>In card sleeve with inner and insert<br><br>℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd.<br>This release © 2022 Union Square Music Ltd. |
+| Notes | Made in Poland  Heavyweight 180 Gram Black Vinyl In card sleeve with inner and insert  ℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd. This release © 2022 Union Square Music Ltd. |
 | Discogs URL    | [Madness - The Dangermen Sessions (Volume One)](https://www.discogs.com/release/24543611-Madness-The-Dangermen-Sessions-Volume-One) |

@@ -29,19 +29,19 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hard Act To Follow | 3:17 |
-| A2 | One Step Ahead | 2:52 |
-| A3 | I Don't Wanna Dance | 3:34 |
-| A4 | Iris | 2:50 |
-| A5 | Wail | 2:49 |
-| A6 | Clumsy | 3:29 |
-| B1 | History Never Repeats | 3:00 |
-| B2 | Walking Through The Ruins | 4:15 |
-| B3 | Ships | 3:01 |
-| B4 | Ghost Girl | 4:26 |
-| B5 | Albert Of India | 4:05 |
+| Position | Title |
+|----------|--------|
+| A1 | Hard Act To Follow |
+| A2 | One Step Ahead |
+| A3 | I Don't Wanna Dance |
+| A4 | Iris |
+| A5 | Wail |
+| A6 | Clumsy |
+| B1 | History Never Repeats |
+| B2 | Walking Through The Ruins |
+| B3 | Ships |
+| B4 | Ghost Girl |
+| B5 | Albert Of India |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64848 |
-| Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].<br><br>Recorded and mixed July to December 1980.<br>Made in England. |
+| Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England. |
 | Discogs URL    | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |

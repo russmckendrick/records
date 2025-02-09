@@ -34,21 +34,21 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Intro / The Next Life | 5:35 |
-| A2 | Moving | 2:57 |
-| A3 | Animal Nitrate | 3:16 |
-| A4 | My Insatiable One | 3:03 |
-| B1 | Metal Mickey | 3:04 |
-| B2 | Pantomime Horse | 5:39 |
-| B3 | He’s Dead | 5:36 |
-| C1 | The Drowners | 4:00 |
-| C2 | Painted People | 2:32 |
-| C3 | She’s Not Dead | 4:25 |
-| D1 | To The Birds | 5:19 |
-| D2 | Sleeping Pills | 3:38 |
-| D3 | So Young | 6:48 |
+| Position | Title |
+|----------|--------|
+| A1 | Intro / The Next Life |
+| A2 | Moving |
+| A3 | Animal Nitrate |
+| A4 | My Insatiable One |
+| B1 | Metal Mickey |
+| B2 | Pantomime Horse |
+| B3 | He’s Dead |
+| C1 | The Drowners |
+| C2 | Painted People |
+| C3 | She’s Not Dead |
+| D1 | To The Birds |
+| D2 | Sleeping Pills |
+| D3 | So Young |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC880 |
-| Notes | The soundtrack to the band’s first concert video, [m858959], recorded at Brixton Academy 16th May 1993. <br><br>Issued in a die-cut outer sleeve with printed inner sleeves. Pressed on 2 x 180g clear vinyl for Record Store Day 2021 (1st drop 12.06.21) in a total number of 3500 copies worldwide.<br><br>Released in U.S. as [r19169785].<br><br>℗ 1993 Suede Ltd. © 2021 Demon Music Group Ltd. <br><br>Manufactured in the EU. |
+| Notes | The soundtrack to the band’s first concert video, [m858959], recorded at Brixton Academy 16th May 1993.   Issued in a die-cut outer sleeve with printed inner sleeves. Pressed on 2 x 180g clear vinyl for Record Store Day 2021 (1st drop 12.06.21) in a total number of 3500 copies worldwide.  Released in U.S. as [r19169785].  ℗ 1993 Suede Ltd. © 2021 Demon Music Group Ltd.   Manufactured in the EU. |
 | Discogs URL    | [Suede - Love & Poison (Live At The Brixton Academy, 16th May 1993)](https://www.discogs.com/release/19107601-Suede-Love-Poison-Live-At-The-Brixton-Academy-16th-May-1993) |

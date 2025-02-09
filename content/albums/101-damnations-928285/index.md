@@ -30,19 +30,19 @@ styles: ["Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Road To Domestos |  |
-| A2 | Everytime A Churchbell Rings |  |
-| A3 | Twenty Four Minutes From Tulse Hill |  |
-| A4 | An All American National Sport |  |
-| A5 | Sheriff Fatman |  |
-| A6 | The Taking Of Peckham 123 |  |
-| B1 | Crimestoppers A' Go Go |  |
-| B2 | Good Grief Charlie Brown |  |
-| B3 | Midnight On The Murder Mile |  |
-| B4 | A Perfect Day To Drop The Bomb |  |
-| B5 | G.I. Blues |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Road To Domestos |
+| A2 | Everytime A Churchbell Rings |
+| A3 | Twenty Four Minutes From Tulse Hill |
+| A4 | An All American National Sport |
+| A5 | Sheriff Fatman |
+| A6 | The Taking Of Peckham 123 |
+| B1 | Crimestoppers A' Go Go |
+| B2 | Good Grief Charlie Brown |
+| B3 | Midnight On The Murder Mile |
+| B4 | A Perfect Day To Drop The Bomb |
+| B5 | G.I. Blues |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Big Cat |
 | Catalog Number | ABB 101 |
-| Notes | Issued with a printed inner sleeve with lyrics.<br>Some copies issued with a sticker on the front cover.<br><br>Artist presented as "Carter U.S.M." on spine and Side B label.<br><br>Catalogue # ABB 101 on the back cover, spine and inner sleeve.<br>Catalogue # ABB101 on the labels.<br><br>Recorded at Important Notice Studios, Mitcham, South London.<br><br>© Big Cat U.K. Records Ltd 1990. Published By Cat X Mouse Music 1990.<br><br>Made In England |
+| Notes | Issued with a printed inner sleeve with lyrics. Some copies issued with a sticker on the front cover.  Artist presented as "Carter U.S.M." on spine and Side B label.  Catalogue # ABB 101 on the back cover, spine and inner sleeve. Catalogue # ABB101 on the labels.  Recorded at Important Notice Studios, Mitcham, South London.  © Big Cat U.K. Records Ltd 1990. Published By Cat X Mouse Music 1990.  Made In England |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - 101 Damnations](https://www.discogs.com/release/928285-Carter-The-Unstoppable-Sex-Machine-101-Damnations) |

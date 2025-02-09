@@ -39,20 +39,20 @@ Between the album title and the cover art, you might expect that The Orb’s <i>
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Daze (Missing & Messed Up Mix) | 2:53 |
-| A2 | House Of Narcotics (Opium Wars Mix) | 6:10 |
-| A3 | Hawk Kings (Oseberg Buddhas Buttonhole) | 4:56 |
-| A4 | Honey Moonies (Brain Washed At Area 49 Mix) | 5:26 |
-| B1 | Pervitin (Empire Culling & The Hemlock Stone Version) | 4:13 |
-| B2 | Afros, Afghans And Angels (Helgö Treasure Chest) | 7:10 |
-| B3 | Shape Shifters (In Two Parts) (Coffee & Ghost Train Mix) | 10:30 |
-| C1 | Say Cheese (Siberian Tiger Cookie Mix) | 5:32 |
-| C2 | Ital Orb (Too Blessed To Be Stressed Mix) | 7:26 |
-| C3 | The Queen Of Hearts (Princess Of Clubs Mix) | 5:10 |
-| D1 | The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left The Tower)) | 12:37 |
-| D2 | Slave Till U Die, No Matter What U Buy (L'anse Aux Meadows Mix) | 7:26 |
+| Position | Title |
+|----------|--------|
+| A1 | Daze (Missing & Messed Up Mix) |
+| A2 | House Of Narcotics (Opium Wars Mix) |
+| A3 | Hawk Kings (Oseberg Buddhas Buttonhole) |
+| A4 | Honey Moonies (Brain Washed At Area 49 Mix) |
+| B1 | Pervitin (Empire Culling & The Hemlock Stone Version) |
+| B2 | Afros, Afghans And Angels (Helgö Treasure Chest) |
+| B3 | Shape Shifters (In Two Parts) (Coffee & Ghost Train Mix) |
+| C1 | Say Cheese (Siberian Tiger Cookie Mix) |
+| C2 | Ital Orb (Too Blessed To Be Stressed Mix) |
+| C3 | The Queen Of Hearts (Princess Of Clubs Mix) |
+| D1 | The Weekend It Rained Forever (Oseberg Buddha Mix (The Ravens Have Left The Tower)) |
+| D2 | Slave Till U Die, No Matter What U Buy (L'anse Aux Meadows Mix) |
 
 
 ## Apple Music
@@ -70,5 +70,5 @@ Between the album title and the cover art, you might expect that The Orb’s <i>
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP757XX |
-| Notes | Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.<br><br>On spine: COOKLP757<br>On sticker on back jacket: COOKLP757XX |
+| Notes | Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX |
 | Discogs URL    | [The Orb - Abolition Of The Royal Familia](https://www.discogs.com/release/14977767-Orb-Abolition-Of-The-Royal-Familia) |

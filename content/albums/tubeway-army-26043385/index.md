@@ -29,20 +29,20 @@ Tubeway Army is the debut studio album by the English new wave band Tubeway Army
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Listen To The Sirens |  |
-| A2 | My Shadow In Vain |  |
-| A3 | The Life Machine |  |
-| A4 | Friends |  |
-| A5 | Something's In The House |  |
-| A6 | Everyday I Die |  |
-| B1 | Steel And You |  |
-| B2 | My Love Is A Liquid |  |
-| B3 | Are You Real? |  |
-| B4 | The Dream Police |  |
-| B5 | Jo The Waiter |  |
-| B6 | Zero Bars (Mr. Smith) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Listen To The Sirens |
+| A2 | My Shadow In Vain |
+| A3 | The Life Machine |
+| A4 | Friends |
+| A5 | Something's In The House |
+| A6 | Everyday I Die |
+| B1 | Steel And You |
+| B2 | My Love Is A Liquid |
+| B3 | Are You Real? |
+| B4 | The Dream Police |
+| B5 | Jo The Waiter |
+| B6 | Zero Bars (Mr. Smith) |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Tubeway Army is the debut studio album by the English new wave band Tubeway Army
 | Format         | Vinyl LP Album Reissue Stereo (Blue Marbled) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2262 LP |
-| Notes | Re-issue of original 1978 release on blue marbled vinyl.<br><br>Comes with a monochrome printed inner sleeve that has lyrics, some credits and an image of Gary Numan. Hype sticker on shrink-wrap front for 'Marbled Blue' and a barcode sticker on the shrink-wrap back placed to obscure the barcode on the sleeve back.<br><br>[Sleeve back]<br>Special thanks to Mike Kemp.<br>Recorded at Spaceward<br><br>[Inner sleeve]<br>All lyrics by Gary Numan<br>Published by Universal Music Publishing Ltd.<br>© 1978 Beggars Banquet ℗ 1978 Beggars Banquet<br><br>[From labels]<br>All songs by Gary Numan<br>Universal Music Publishing Ltd.<br><br>[Hype sticker]<br>Pressed on marbled blue vinyl<br>The 1978 self-titled debur album from Gary Numan's Tubeway Army<br><br>Catalogue numbers:<br>BBQ 2262 LP on spine & labels.<br>bbq 2262 lp on sleeve back<br>bbq 2262 lp2 on barcode sticker.<br><br>Runouts are etched, with the MPO logo and the following stamper numbers in the format ## ##### being laser etched. |
+| Notes | Re-issue of original 1978 release on blue marbled vinyl.  Comes with a monochrome printed inner sleeve that has lyrics, some credits and an image of Gary Numan. Hype sticker on shrink-wrap front for 'Marbled Blue' and a barcode sticker on the shrink-wrap back placed to obscure the barcode on the sleeve back.  [Sleeve back] Special thanks to Mike Kemp. Recorded at Spaceward  [Inner sleeve] All lyrics by Gary Numan Published by Universal Music Publishing Ltd. © 1978 Beggars Banquet ℗ 1978 Beggars Banquet  [From labels] All songs by Gary Numan Universal Music Publishing Ltd.  [Hype sticker] Pressed on marbled blue vinyl The 1978 self-titled debur album from Gary Numan's Tubeway Army  Catalogue numbers: BBQ 2262 LP on spine & labels. bbq 2262 lp on sleeve back bbq 2262 lp2 on barcode sticker.  Runouts are etched, with the MPO logo and the following stamper numbers in the format ## ##### being laser etched. |
 | Discogs URL    | [Tubeway Army - Tubeway Army](https://www.discogs.com/release/26043385-Tubeway-Army-Tubeway-Army) |

@@ -35,20 +35,20 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | God! Show Me Magic | 1:50 |
-| A2 | Fuzzy Birds | 2:27 |
-| A3 | Something 4 The Weekend | 2:33 |
-| A4 | Frisbee | 2:21 |
-| A5 | Hometown Unicorn | 3:33 |
-| A6 | Gathering Moss | 3:22 |
-| A7 | If You Don't Want Me To Destroy You | 3:17 |
-| B1 | Bad Behaviour | 4:26 |
-| B2 | Mario Man | 4:07 |
-| B3 | Hangin' With Howard Marks | 4:20 |
-| B4 | Long Gone | 5:20 |
-| B5 | For Now And Ever | 3:32 |
+| Position | Title |
+|----------|--------|
+| A1 | God! Show Me Magic |
+| A2 | Fuzzy Birds |
+| A3 | Something 4 The Weekend |
+| A4 | Frisbee |
+| A5 | Hometown Unicorn |
+| A6 | Gathering Moss |
+| A7 | If You Don't Want Me To Destroy You |
+| B1 | Bad Behaviour |
+| B2 | Mario Man |
+| B3 | Hangin' With Howard Marks |
+| B4 | Long Gone |
+| B5 | For Now And Ever |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 | Format         | Vinyl LP Album Reissue Remastered (20th Anniversary,180g, Gatefold) |
 | Label          | BMG |
 | Catalog Number | BMGCATLP77 |
-| Notes | Recorded and mixed at Rockfield Studios, Wales, Earth.<br><br>2016 reissue of original 1996 release.<br><br>2016 new remaster from the original tapes.<br><br>*************************************************************************************************************************************************************<br><br>The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched |
+| Notes | Recorded and mixed at Rockfield Studios, Wales, Earth.  2016 reissue of original 1996 release.  2016 new remaster from the original tapes.  *************************************************************************************************************************************************************  The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched |
 | Discogs URL    | [Super Furry Animals - Fuzzy Logic](https://www.discogs.com/release/9302863-Super-Furry-Animals-Fuzzy-Logic) |

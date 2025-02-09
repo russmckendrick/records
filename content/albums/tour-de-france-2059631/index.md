@@ -37,20 +37,20 @@ The album received positive reviews from critics and was a commercial success. I
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue | 0:31 |
-| A2 | Tour De France Étape 1 | 4:27 |
-| A3 | Tour De France Étape 2 | 6:41 |
-| A4 | Tour De France Étape 3 | 3:57 |
-| A5 | Chrono | 3:20 |
-| B | Vitamin | 8:10 |
-| C1 | Aéro Dynamik | 5:04 |
-| C2 | Titanium | 3:21 |
-| C3 | Elektro Kardiogramm | 5:16 |
-| D1 | La Forme | 8:41 |
-| D2 | Régéneration | 1:17 |
-| D3 | Tour De France | 5:11 |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue |
+| A2 | Tour De France Étape 1 |
+| A3 | Tour De France Étape 2 |
+| A4 | Tour De France Étape 3 |
+| A5 | Chrono |
+| B | Vitamin |
+| C1 | Aéro Dynamik |
+| C2 | Titanium |
+| C3 | Elektro Kardiogramm |
+| D1 | La Forme |
+| D2 | Régéneration |
+| D3 | Tour De France |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ The album received positive reviews from critics and was a commercial success. I
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66109 1 6 |
-| Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.<br><br>Kling Klang Produkt 2003<br>Made in the EU<br>Printed in Germany |
+| Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.  Kling Klang Produkt 2003 Made in the EU Printed in Germany |
 | Discogs URL    | [Kraftwerk - Tour De France](https://www.discogs.com/release/2059631-Kraftwerk-Tour-De-France) |

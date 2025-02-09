@@ -34,17 +34,17 @@ Ocasek and singer and bassist Benjamin Orr were old pals, having been playing to
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Good Times Roll | 3:44 |
-| A2 | My Best Friend's Girl | 3:44 |
-| A3 | Just What I Needed | 3:44 |
-| A4 | I'm In Touch With Your World | 3:31 |
-| A5 | Don't Cha Stop | 3:01 |
-| B1 | You're All I've Got Tonight | 4:13 |
-| B2 | Bye Bye Love | 4:14 |
-| B3 | Moving In Stereo | 5:15 |
-| B4 | All Mixed Up | 4:14 |
+| Position | Title |
+|----------|--------|
+| A1 | Good Times Roll |
+| A2 | My Best Friend's Girl |
+| A3 | Just What I Needed |
+| A4 | I'm In Touch With Your World |
+| A5 | Don't Cha Stop |
+| B1 | You're All I've Got Tonight |
+| B2 | Bye Bye Love |
+| B3 | Moving In Stereo |
+| B4 | All Mixed Up |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Ocasek and singer and bassist Benjamin Orr were old pals, having been playing to
 | Format         | Vinyl LP Album |
 | Label          | Elektra |
 | Catalog Number | K 52088 |
-| Notes | ℗ 1978 Elektra Records<br>© 1978 An Elektra/Asylum Recording <br>All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978<br>Made in UK<br>A1 to B2, B4: Lido Music<br>B3: Lido Music / Oversnare Music<br><br>This version labels say SIDE 1 and SIDE 2<br>Version with SIDE ONE and SIDE TWO on labels is here [r14061338] |
+| Notes | ℗ 1978 Elektra Records © 1978 An Elektra/Asylum Recording  All songs written by ric ocasek copyright © 1978 except moving in stereo by ocasek and hawkes copyright © 1978 Made in UK A1 to B2, B4: Lido Music B3: Lido Music / Oversnare Music  This version labels say SIDE 1 and SIDE 2 Version with SIDE ONE and SIDE TWO on labels is here [r14061338] |
 | Discogs URL    | [The Cars - The Cars](https://www.discogs.com/release/1165287-The-Cars-The-Cars) |

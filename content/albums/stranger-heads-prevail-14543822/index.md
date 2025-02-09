@@ -28,19 +28,19 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Prologue: A Faint Applause |  |
-| A2 | The Somnambulist |  |
-| A3 | Caverns |  |
-| B1 | Mr. Invisible |  |
-| B2 | A Wolf In Cheap Clothing |  |
-| B3 | Blue Automatic |  |
-| C1 | Need More Input |  |
-| C2 | Rube Goldberg Variations |  |
-| D1 | Psychopomp |  |
-| D2 | The Amateur Arsonist’s Handbook |  |
-| D3 | Epilogue: …And the Clever Depart |  |
+| Position | Title |
+|----------|--------|
+| A1 | Prologue: A Faint Applause |
+| A2 | The Somnambulist |
+| A3 | Caverns |
+| B1 | Mr. Invisible |
+| B2 | A Wolf In Cheap Clothing |
+| B3 | Blue Automatic |
+| C1 | Need More Input |
+| C2 | Rube Goldberg Variations |
+| D1 | Psychopomp |
+| D2 | The Amateur Arsonist’s Handbook |
+| D3 | Epilogue: …And the Clever Depart |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 | Format         | Vinyl 2× LP Album Limited Edition Repress (Clear w/Blue Smoke) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI209V |
-| Notes | Gatefold cover.<br>Limited edition of 1000 pressed on clear vinyl mixed with blue smoke.<br>Second pressing. |
+| Notes | Gatefold cover. Limited edition of 1000 pressed on clear vinyl mixed with blue smoke. Second pressing. |
 | Discogs URL    | [Thank You Scientist - Stranger Heads Prevail](https://www.discogs.com/release/14543822-Thank-You-Scientist-Stranger-Heads-Prevail) |

@@ -39,22 +39,22 @@ Joey Ramone had written “Sheena is a Punk Rocker”—which had appeared on so
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Cretin Hop | 1:55 |
-| A2 | Rockaway Beach | 2:06 |
-| A3 | Here Today, Gone Tomorrow | 2:47 |
-| A4 | Locket Love | 2:09 |
-| A5 | I Don't Care | 1:38 |
-| A6 | Sheena Is A Punk Rocker | 2:49 |
-| A7 | We're A Happy Family | 2:47 |
-| B1 | Teenage Lobotomy | 2:00 |
-| B2 | Do You Wanna Dance? | 1:52 |
-| B3 | I Wanna Be Well | 2:28 |
-| B4 | I Can't Give You Anything | 1:57 |
-| B5 | Ramona | 2:35 |
-| B6 | Surfin' Bird | 2:37 |
-| B7 | Why Is It Always This Way? | 2:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Cretin Hop |
+| A2 | Rockaway Beach |
+| A3 | Here Today, Gone Tomorrow |
+| A4 | Locket Love |
+| A5 | I Don't Care |
+| A6 | Sheena Is A Punk Rocker |
+| A7 | We're A Happy Family |
+| B1 | Teenage Lobotomy |
+| B2 | Do You Wanna Dance? |
+| B3 | I Wanna Be Well |
+| B4 | I Can't Give You Anything |
+| B5 | Ramona |
+| B6 | Surfin' Bird |
+| B7 | Why Is It Always This Way? |
 
 
 ## Apple Music
@@ -72,5 +72,5 @@ Joey Ramone had written “Sheena is a Punk Rocker”—which had appeared on so
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Sire |
 | Catalog Number | RR1 6042 |
-| Notes | Hype sticker on shrink wrap has NO barcode/NO catalog number RR1 6042.<br>Another version exists with different hype sticker (WITH barcode & RR1 6042 on sticker) found here: [r=11534113]<br><br>This European issue can be differentiated from this [r11534113] US press by comparing the catalog number on the bottom right of inner sleeve.  This European issue has 081227932701<br><br>Superior 2017 Remastered Audio.<br><br>[Labels]<br>All selections published by Taco Tunes, Warner Chappell-ASCAP<br>Track B2: Bobby Freeman Music/Clockus Music Co.-BMI<br>Track B6: Atlantic Music Corp./Beechwood Music Corp.-BMI<br>Made in E.U.<br><br>[Inner sleeve]<br>Copyright © 1977 Taco Tunes/Bleu Disque Music Co., Inc. (ASCAP)<br>Copyright © 1977 Sire Records, Inc.<br><br>[Back cover]<br>Recorded at Media Sound, New York<br>Mixed at the Power Station, New York<br>℗ & © 2018, 1977 Sire Records Company.<br>Manufactured in E.U. |
+| Notes | Hype sticker on shrink wrap has NO barcode/NO catalog number RR1 6042. Another version exists with different hype sticker (WITH barcode & RR1 6042 on sticker) found here: [r=11534113]  This European issue can be differentiated from this [r11534113] US press by comparing the catalog number on the bottom right of inner sleeve.  This European issue has 081227932701  Superior 2017 Remastered Audio.  [Labels] All selections published by Taco Tunes, Warner Chappell-ASCAP Track B2: Bobby Freeman Music/Clockus Music Co.-BMI Track B6: Atlantic Music Corp./Beechwood Music Corp.-BMI Made in E.U.  [Inner sleeve] Copyright © 1977 Taco Tunes/Bleu Disque Music Co., Inc. (ASCAP) Copyright © 1977 Sire Records, Inc.  [Back cover] Recorded at Media Sound, New York Mixed at the Power Station, New York ℗ & © 2018, 1977 Sire Records Company. Manufactured in E.U. |
 | Discogs URL    | [Ramones - Rocket To Russia](https://www.discogs.com/release/11538026-Ramones-Rocket-To-Russia) |

@@ -52,24 +52,24 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Chelsea Girl |  |
-| A2 | Drive Blind |  |
-| A3 | All I Can See |  |
-| A4 | Close My Eyes |  |
-| B1 | Like A Daydream |  |
-| B2 | Silver |  |
-| B3 | Furthest Sense |  |
-| B4 | Perfect Time |  |
-| C1 | Dreams Burn Down |  |
-| C2 | Taste |  |
-| C3 | Here and Now |  |
-| C4 | Nowhere |  |
-| D1 | Unfamiliar |  |
-| D2 | Sennen |  |
-| D3 | Beneath |  |
-| D4 | Today |  |
+| Position | Title |
+|----------|--------|
+| A1 | Chelsea Girl |
+| A2 | Drive Blind |
+| A3 | All I Can See |
+| A4 | Close My Eyes |
+| B1 | Like A Daydream |
+| B2 | Silver |
+| B3 | Furthest Sense |
+| B4 | Perfect Time |
+| C1 | Dreams Burn Down |
+| C2 | Taste |
+| C3 | Here and Now |
+| C4 | Nowhere |
+| D1 | Unfamiliar |
+| D2 | Sennen |
+| D3 | Beneath |
+| D4 | Today |
 
 
 ## Apple Music
@@ -86,5 +86,5 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Format         | Vinyl 2× LP Compilation (White) |
 | Label          | Wichita |
 | Catalog Number | WEBB574LP |
-| Notes | 'Original audio reworked and refined'<br>Double white vinyl, standard weight<br>Gatefold sleeve, reverse board<br>Download included<br>Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp. |
+| Notes | 'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp. |
 | Discogs URL    | [Ride - 4 EPs](https://www.discogs.com/release/25002610-Ride-4-EPs) |

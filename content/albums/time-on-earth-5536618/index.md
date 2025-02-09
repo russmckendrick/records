@@ -27,24 +27,24 @@ As the first studio album from the group in fourteen years, Time on Earth has be
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Nobody Wants To | 4:10 |
-| A2 | Don't Stop Now | 3:54 |
-| A3 | She Called Up | 2:53 |
-| A4 | Say That Again | 5:20 |
-| B1 | Pour Le Monde | 5:09 |
-| B2 | Even A Child | 3:57 |
-| B3 | Heaven That I'm Making | 3:55 |
-| B4 | Stare Me Out | 4:17 |
-| C1 | A Sigh | 3:14 |
-| C2 | Silent House | 5:52 |
-| C3 | English Trees | 3:41 |
-| C4 | Lost Island | 3:17 |
-| D1 | Walked Her Way Down | 4:15 |
-| D2 | Transit Lounge | 4:22 |
-| D3 | You Are The Only One To Make Me Cry | 3:41 |
-| D4 | People Are Like Suns | 3:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Nobody Wants To |
+| A2 | Don't Stop Now |
+| A3 | She Called Up |
+| A4 | Say That Again |
+| B1 | Pour Le Monde |
+| B2 | Even A Child |
+| B3 | Heaven That I'm Making |
+| B4 | Stare Me Out |
+| C1 | A Sigh |
+| C2 | Silent House |
+| C3 | English Trees |
+| C4 | Lost Island |
+| D1 | Walked Her Way Down |
+| D2 | Transit Lounge |
+| D3 | You Are The Only One To Make Me Cry |
+| D4 | People Are Like Suns |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ As the first studio album from the group in fourteen years, Time on Earth has be
 | Format         | Vinyl 2× LP Album Limited Edition (180g) |
 | Label          | Parlophone |
 | Catalog Number | 00946-396027-1-1 |
-| Notes | Gatefold sleeve. The inner gatefold features "newspaper style" lyrics to every song with each LP held in individual printed sleeves. A dark red hype sticker reads: "Limited edition heavyweight vinyl includes the single Don't Stop Now plus 2 bonus tracks 396 0271".<br><br>Bonus tracks "Stare Me Out" and "Lost Island" do not feature on CD copies of the album and were B-sides to [r=1122661].<br><br>Recorded and produced at Roundhead Studios; except A2, A3, B2 and D2 produced at RAK Studios.<br><br>Tracks A4, C1, C2, C4, D1 and D3 mixed at Real World Studios; track D4 mixed at Henson Recording Studios; tracks A1, A3, B1, B3 and C3 mixed at Mongrel Studios; tracks A2, B2 and D2 mixed at RAK Studios.<br><br>All songs published by Chrysalis Music Ltd, except B2 published by Copyright Control/Chrysalis Music Ltd; and C2 published by Roundhead Music (Admin by Chrysalis Songs/Wooly Puddin' Music (BMI) & Scrapin' Toast Music (ASCAP) (Admin by Sony/ATV Music Publishing)<br><br>[a793529] appears courtesy of Blue Thumb Records, UCJ.<br><br>℗ 2007 The copyright in this sound recording is owned by EMI Records Ltd. © 2007 EMI Records Ltd.<br>Parlophone is a Capitol Music label.<br>Manufactured in the EU, Printed in EU, Made in EU<br><br>"In memory of [a257794]" |
+| Notes | Gatefold sleeve. The inner gatefold features "newspaper style" lyrics to every song with each LP held in individual printed sleeves. A dark red hype sticker reads: "Limited edition heavyweight vinyl includes the single Don't Stop Now plus 2 bonus tracks 396 0271".  Bonus tracks "Stare Me Out" and "Lost Island" do not feature on CD copies of the album and were B-sides to [r=1122661].  Recorded and produced at Roundhead Studios; except A2, A3, B2 and D2 produced at RAK Studios.  Tracks A4, C1, C2, C4, D1 and D3 mixed at Real World Studios; track D4 mixed at Henson Recording Studios; tracks A1, A3, B1, B3 and C3 mixed at Mongrel Studios; tracks A2, B2 and D2 mixed at RAK Studios.  All songs published by Chrysalis Music Ltd, except B2 published by Copyright Control/Chrysalis Music Ltd; and C2 published by Roundhead Music (Admin by Chrysalis Songs/Wooly Puddin' Music (BMI) & Scrapin' Toast Music (ASCAP) (Admin by Sony/ATV Music Publishing)  [a793529] appears courtesy of Blue Thumb Records, UCJ.  ℗ 2007 The copyright in this sound recording is owned by EMI Records Ltd. © 2007 EMI Records Ltd. Parlophone is a Capitol Music label. Manufactured in the EU, Printed in EU, Made in EU  "In memory of [a257794]" |
 | Discogs URL    | [Crowded House - Time On Earth](https://www.discogs.com/release/5536618-Crowded-House-Time-On-Earth) |

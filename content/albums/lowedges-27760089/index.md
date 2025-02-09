@@ -26,19 +26,19 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Run For Me | 4:07 |
-| A2 | Darlin' | 3:32 |
-| A3 | Oh My Love | 3:45 |
-| A4 | The Only Road | 5:41 |
-| A5 | On The Ledge | 3:20 |
-| B1 | You Don't Miss Your Water (Till Your River Runs Dry) | 4:56 |
-| B2 | The Motorcycle Song | 2:57 |
-| B3 | It's Over Love | 2:45 |
-| B4 | I'm On Nights | 3:25 |
-| B5 | Danny | 3:50 |
-| B6 | The Nights Are Made For Us | 2:42 |
+| Position | Title |
+|----------|--------|
+| A1 | Run For Me |
+| A2 | Darlin' |
+| A3 | Oh My Love |
+| A4 | The Only Road |
+| A5 | On The Ledge |
+| B1 | You Don't Miss Your Water (Till Your River Runs Dry) |
+| B2 | The Motorcycle Song |
+| B3 | It's Over Love |
+| B4 | I'm On Nights |
+| B5 | Danny |
+| B6 | The Nights Are Made For Us |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
 | Label          | Setanta |
 | Catalog Number | SETLP110 |
-| Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl.<br>Catalog printed as SETLP110 - Distributor mail out stated SETLP110C<br><br><br> |
+| Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl. Catalog printed as SETLP110 - Distributor mail out stated SETLP110C    |
 | Discogs URL    | [Richard Hawley - Lowedges](https://www.discogs.com/release/27760089-Richard-Hawley-Lowedges) |

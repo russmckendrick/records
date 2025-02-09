@@ -37,16 +37,16 @@ The Number of the Beast was met with critical and commercial success, and became
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Invaders | 3:20 |
-| A2 | Children Of The Damned | 4:34 |
-| A3 | The Prisoner | 5:34 |
-| A4 | 22 Acacia Avenue | 6:34 |
-| B1 | The Number Of The Beast | 4:25 |
-| B2 | Run To The Hills | 3:50 |
-| B3 | Gangland | 3:46 |
-| B4 | Hallowed Be Thy Name | 7:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Invaders |
+| A2 | Children Of The Damned |
+| A3 | The Prisoner |
+| A4 | 22 Acacia Avenue |
+| B1 | The Number Of The Beast |
+| B2 | Run To The Hills |
+| B3 | Gangland |
+| B4 | Hallowed Be Thy Name |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ The Number of the Beast was met with critical and commercial success, and became
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Parlophone |
 | Catalog Number | 2564625240 |
-| Notes | Printed in EU on backside cover.<br><br>Made in EU in rim text on label.<br><br>Glossy cover and printed inner sleeve with photos, lyrics & credits.<br><br>Iron Maiden wanna thank the following for their support: [a2089275], Vic "Crazy Innit" Vela, Tony "Wiggy" Wigens, Nigel Gibbons, Colin "know wot I mean John" Claydon, Doug "Professor" Hall, [a2089267], Pete Brotzman, Pete "Institute' Kirkman, Dave "Alright shirt" Evans, [a6784522]: Loopey: Ronan, Roger and Derek at [a4792921]: Charlie Kail and his Brilliant Constructions: Neal Peppé: Derek "Blood 'n' Guts everywhere" Riggs: Home Boy: John "We want more" Jackson: [a3438994]: Howard "Hawk-eye" Jones: Alex "Alectron" Alexandro: Mike Kenny: Bernie, NoNo, ViVi, Moro (Trust): Nico: Maurice, Thomas, Werner, Albert, Alain, Franco, Max, Leon, Andre, Mr. Udo, Tak, Ishi and Carlos - the promotors: Tama, Ibanez, Paiste, Picato, Marshall, Rotosound: R.S.D.: [a1456861]: [a4771539]: Auntie Tina: Paul Ratsworthy: Ken Jenkins: Paull Sears: [a4344760]: Phil Aquilina.<br>Special thanks to [a153073], Priest and [a153677].<br><br>This album is dedicated to Headbangers, Earthdogs, Rivet Heads, Hell Rats and Metal Maniacs everywhere! See you on tour!<br><br>This album was recorded on Ruddles, with a little help from Remy and Carlsberg. "Up The Irons". |
+| Notes | Printed in EU on backside cover.  Made in EU in rim text on label.  Glossy cover and printed inner sleeve with photos, lyrics & credits.  Iron Maiden wanna thank the following for their support: [a2089275], Vic "Crazy Innit" Vela, Tony "Wiggy" Wigens, Nigel Gibbons, Colin "know wot I mean John" Claydon, Doug "Professor" Hall, [a2089267], Pete Brotzman, Pete "Institute' Kirkman, Dave "Alright shirt" Evans, [a6784522]: Loopey: Ronan, Roger and Derek at [a4792921]: Charlie Kail and his Brilliant Constructions: Neal Peppé: Derek "Blood 'n' Guts everywhere" Riggs: Home Boy: John "We want more" Jackson: [a3438994]: Howard "Hawk-eye" Jones: Alex "Alectron" Alexandro: Mike Kenny: Bernie, NoNo, ViVi, Moro (Trust): Nico: Maurice, Thomas, Werner, Albert, Alain, Franco, Max, Leon, Andre, Mr. Udo, Tak, Ishi and Carlos - the promotors: Tama, Ibanez, Paiste, Picato, Marshall, Rotosound: R.S.D.: [a1456861]: [a4771539]: Auntie Tina: Paul Ratsworthy: Ken Jenkins: Paull Sears: [a4344760]: Phil Aquilina. Special thanks to [a153073], Priest and [a153677].  This album is dedicated to Headbangers, Earthdogs, Rivet Heads, Hell Rats and Metal Maniacs everywhere! See you on tour!  This album was recorded on Ruddles, with a little help from Remy and Carlsberg. "Up The Irons". |
 | Discogs URL    | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |

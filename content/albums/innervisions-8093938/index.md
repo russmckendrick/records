@@ -35,17 +35,17 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Too High | 4:37 |
-| A2 | Visions | 5:17 |
-| A3 | Living For The City | 7:26 |
-| A4 | Golden Lady | 5:00 |
-| B1 | Higher Ground | 3:54 |
-| B2 | Jesus Children Of America | 4:04 |
-| B3 | All In Love Is Fair | 3:45 |
-| B4 | Don't You Worry 'Bout A Thing | 4:55 |
-| B5 | He's Misstra Know-It-All | 6:06 |
+| Position | Title |
+|----------|--------|
+| A1 | Too High |
+| A2 | Visions |
+| A3 | Living For The City |
+| A4 | Golden Lady |
+| B1 | Higher Ground |
+| B2 | Jesus Children Of America |
+| B3 | All In Love Is Fair |
+| B4 | Don't You Worry 'Bout A Thing |
+| B5 | He's Misstra Know-It-All |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 | Format         | Vinyl LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
 | Label          | Tamla Motown |
 | Catalog Number | 0050109032617 |
-| Notes | Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]<br><br>℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company.<br>Made in the EU.<br><br>Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York<br><br>180 Gram Vinyl. Includes download code. |
+| Notes | Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]  ℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company. Made in the EU.  Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York  180 Gram Vinyl. Includes download code. |
 | Discogs URL    | [Stevie Wonder - Innervisions](https://www.discogs.com/release/8093938-Stevie-Wonder-Innervisions) |

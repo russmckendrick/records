@@ -27,18 +27,18 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Get A Wriggle On |  |
-| A2 | Self Repair Protocol |  |
-| A3 | Wanderlust |  |
-| A4 | Tardigrades |  |
-| A5 | DNA |  |
-| A6 | Altered State |  |
-| B1 | RA |  |
-| B2 | First Encounter |  |
-| B3 | Alpha Test 4 |  |
-| B4 | Asteroid |  |
+| Position | Title |
+|----------|--------|
+| A1 | Get A Wriggle On |
+| A2 | Self Repair Protocol |
+| A3 | Wanderlust |
+| A4 | Tardigrades |
+| A5 | DNA |
+| A6 | Altered State |
+| B1 | RA |
+| B2 | First Encounter |
+| B3 | Alpha Test 4 |
+| B4 | Asteroid |
 
 
 ## Apple Music

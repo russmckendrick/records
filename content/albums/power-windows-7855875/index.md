@@ -33,16 +33,16 @@ The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in th
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Big Money |  |
-| A2 | Grand Designs |  |
-| A3 | Manhattan Project |  |
-| A4 | Marathon |  |
-| B1 | Territories |  |
-| B2 | Middletown Dreams |  |
-| B3 | Emotion Detector |  |
-| B4 | Mystic Rhythms |  |
+| Position | Title |
+|----------|--------|
+| A1 | The Big Money |
+| A2 | Grand Designs |
+| A3 | Manhattan Project |
+| A4 | Marathon |
+| B1 | Territories |
+| B2 | Middletown Dreams |
+| B3 | Emotion Detector |
+| B4 | Mystic Rhythms |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in th
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118288 |
-| Notes | Including a voucher to download an MP4 version of the album. <br> |
+| Notes | Including a voucher to download an MP4 version of the album.   |
 | Discogs URL    | [Rush - Power Windows](https://www.discogs.com/release/7855875-Rush-Power-Windows) |

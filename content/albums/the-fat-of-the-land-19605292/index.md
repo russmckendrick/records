@@ -38,18 +38,18 @@ The Fat of the Land is the third studio album by English electronic music group 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Smack My Bitch Up |  |
-| A2 | Breathe |  |
-| B1 | Diesel Power |  |
-| B2 | Funky Shit |  |
-| C1 | Serial Thrilla |  |
-| C2 | Mindfields |  |
-| C3 | Narayan |  |
-| D1 | Firestarter |  |
-| D2 | Climbatize |  |
-| D3 | Fuel My Fire |  |
+| Position | Title |
+|----------|--------|
+| A1 | Smack My Bitch Up |
+| A2 | Breathe |
+| B1 | Diesel Power |
+| B2 | Funky Shit |
+| C1 | Serial Thrilla |
+| C2 | Mindfields |
+| C3 | Narayan |
+| D1 | Firestarter |
+| D2 | Climbatize |
+| D3 | Fuel My Fire |
 
 
 ## Apple Music
@@ -67,5 +67,5 @@ The Fat of the Land is the third studio album by English electronic music group 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress Stereo (Orange Neon) |
 | Label          | XL Recordings |
 | Catalog Number | XL121LPE2 |
-| Notes | Limited edition of 1000 copies.<br><br>℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997. |
+| Notes | Limited edition of 1000 copies.  ℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997. |
 | Discogs URL    | [The Prodigy - The Fat Of The Land](https://www.discogs.com/release/19605292-Prodigy-The-Fat-Of-The-Land) |

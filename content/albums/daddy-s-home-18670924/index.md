@@ -44,19 +44,19 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Pay Your Way In Pain | 3:03 |
-| A2 | Down And Out Downtown | 3:42 |
-| A3 | Daddy's Home | 3:19 |
-| A4 | Live In The Dream | 6:29 |
-| A5 | The Melting Of The Sun | 4:17 |
-| B1 | The Laughing Man | 3:25 |
-| B2 | Down | 3:26 |
-| B3 | Somebody Like Me | 3:53 |
-| B4 | My Baby Wants A Baby | 3:20 |
-| B5 | ...At The Holiday Party | 4:17 |
-| B6 | Candy Darling | 1:55 |
+| Position | Title |
+|----------|--------|
+| A1 | Pay Your Way In Pain |
+| A2 | Down And Out Downtown |
+| A3 | Daddy's Home |
+| A4 | Live In The Dream |
+| A5 | The Melting Of The Sun |
+| B1 | The Laughing Man |
+| B2 | Down |
+| B3 | Somebody Like Me |
+| B4 | My Baby Wants A Baby |
+| B5 | ...At The Holiday Party |
+| B6 | Candy Darling |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Loma Vista |
 | Catalog Number | LVR01797 |
-| Notes | Indie Exclusive.<br>Includes Poster<br>200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.<br>Made in the EU. |
+| Notes | Indie Exclusive. Includes Poster 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. Made in the EU. |
 | Discogs URL    | [St Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |

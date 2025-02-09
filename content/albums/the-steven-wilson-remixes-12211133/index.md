@@ -56,39 +56,39 @@ The Steven Wilson Remixes is a box set by the English progressive rock band Yes.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | The Yes Album (2014 Remix) |  |
-| A1 | Yours Is No Disgrace | 9:40 |
-| A2 | Clap | 3:16 |
-|  | Starship Trooper | 9:26 |
-|  | I've Seen All Good People | 6:57 |
-| B2 | A Venture | 3:16 |
-| B3 | Perpetual Change | 8:50 |
-|  | Fragile (2015 Remix) |  |
-| C1 | Roundabout | 8:35 |
-| C2 | Cans And Brahms | 1:35 |
-| C3 | We Have Heaven | 1:30 |
-| C4 | South Side Of The Sky | 8:04 |
-| D1 | Five Per Cent For Nothing | 0:35 |
-| D2 | Long Distance Runaround | 3:33 |
-| D3 | The Fish (Schindleria Praematurus) | 2:35 |
-| D4 | Mood For A Day | 2:57 |
-| D5 | Heart Of The Sunrise | 10:34 |
-|  | Close To The Edge (2013 Remix) |  |
-|  | Close To The Edge | 18:40 |
-| E1-IV | Seasons Of Man |  |
-|  | And You And I | 10:07 |
-| F2 | Siberian Khatru | 8:57 |
-|  | Tales From Topographic Oceans (2016 Remix) |  |
-| G1 | The Revealing Science Of God (Dance Of The Dawn) | 22:01 |
-| H1 | The Remembering (High The Memory) | 20:38 |
-| I1 | The Ancient (Giants Under The Sun) | 18:34 |
-| J1 | The Ritual (Nous Sommes Du Soleil) | 21:35 |
-|  | Relayer (2016 Remix) |  |
-| K1 | The Gates Of Delirium | 21:55 |
-| L1 | Sound Chaser | 9:25 |
-| L2 | To Be Over | 9:08 |
+| Position | Title |
+|----------|--------|
+|  | The Yes Album (2014 Remix) |
+| A1 | Yours Is No Disgrace |
+| A2 | Clap |
+|  | Starship Trooper |
+|  | I've Seen All Good People |
+| B2 | A Venture |
+| B3 | Perpetual Change |
+|  | Fragile (2015 Remix) |
+| C1 | Roundabout |
+| C2 | Cans And Brahms |
+| C3 | We Have Heaven |
+| C4 | South Side Of The Sky |
+| D1 | Five Per Cent For Nothing |
+| D2 | Long Distance Runaround |
+| D3 | The Fish (Schindleria Praematurus) |
+| D4 | Mood For A Day |
+| D5 | Heart Of The Sunrise |
+|  | Close To The Edge (2013 Remix) |
+|  | Close To The Edge |
+| E1-IV | Seasons Of Man |
+|  | And You And I |
+| F2 | Siberian Khatru |
+|  | Tales From Topographic Oceans (2016 Remix) |
+| G1 | The Revealing Science Of God (Dance Of The Dawn) |
+| H1 | The Remembering (High The Memory) |
+| I1 | The Ancient (Giants Under The Sun) |
+| J1 | The Ritual (Nous Sommes Du Soleil) |
+|  | Relayer (2016 Remix) |
+| K1 | The Gates Of Delirium |
+| L1 | Sound Chaser |
+| L2 | To Be Over |
 
 
 ## Apple Music
@@ -106,5 +106,5 @@ The Steven Wilson Remixes is a box set by the English progressive rock band Yes.
 | Format         | Box Set Compilation, Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl 2× LP Album (Gatefold), Vinyl LP Album (Gatefold), All Media Remastered Stereo (Remixed, 180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 562476 |
-| Notes | [Hype sticker]<br>Featuring new cover art by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url]<br>The [a227943] Remixes on vinyl for the first time<br>[m=34991]<br>[m=34934]<br>[m=35006]<br>[m=35036]<br>[m=35126]<br>R1 562476<br><br>Includes remixed versions of: [m=34991] (1971), [m=34934] (1971), [m=35006] (1972), the double album [m=35036] (1973), and [m=35126] (1974). Each album features remixed audio by renowned producer [a227943], released on vinyl for the first time.<br><br>The outer box features artwork created specifically for the set by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url], who also created new cover art for [m=35006] and [m=35036], and reworked cover art for [m=34991], [m=34934], and [m=35126].<br><br>Made in EU [printed on all disc labels]<br>Printed in U.S.A. [printed on The Yes Album rear cover]<br><br>This release differs from the [url=https://www.discogs.com/release/12231071]EU release[/url] based on the cat# printed on the box set spine and hype sticker - this release shows "R1 562476" whereas the EU release shows "081227934019".<br><br>The track durations on the rear cover of The Yes Album do not match the durations indicated on the disc labels. There is also a misprint on side L label (Relayer, side B): track L2 ("To Be Over") is numbered "1" rather than "2".<br><br>Runouts are etched.<br><br> |
+| Notes | [Hype sticker] Featuring new cover art by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url] The [a227943] Remixes on vinyl for the first time [m=34991] [m=34934] [m=35006] [m=35036] [m=35126] R1 562476  Includes remixed versions of: [m=34991] (1971), [m=34934] (1971), [m=35006] (1972), the double album [m=35036] (1973), and [m=35126] (1974). Each album features remixed audio by renowned producer [a227943], released on vinyl for the first time.  The outer box features artwork created specifically for the set by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url], who also created new cover art for [m=35006] and [m=35036], and reworked cover art for [m=34991], [m=34934], and [m=35126].  Made in EU [printed on all disc labels] Printed in U.S.A. [printed on The Yes Album rear cover]  This release differs from the [url=https://www.discogs.com/release/12231071]EU release[/url] based on the cat# printed on the box set spine and hype sticker - this release shows "R1 562476" whereas the EU release shows "081227934019".  The track durations on the rear cover of The Yes Album do not match the durations indicated on the disc labels. There is also a misprint on side L label (Relayer, side B): track L2 ("To Be Over") is numbered "1" rather than "2".  Runouts are etched.   |
 | Discogs URL    | [Yes - The Steven Wilson Remixes](https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes) |

@@ -28,19 +28,19 @@ Flibbidydibbidydob is an EP of cover versions, including commercial jingles and 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Rods & Mockers |  |
-| A2 | Do Nothing |  |
-| A3 | Shake 'N' Black |  |
-| A4 | Can't Explain |  |
-| A5 | Ecstacy |  |
-| B1 | Reach Out |  |
-| B2 | Hazy Shade Of Winter |  |
-| B3 | Do It Quick |  |
-| B4 | City Baby Attacked By Rats |  |
-| B5 | Bran Flakes |  |
-| B6 | In Sickness & In Health |  |
+| Position | Title |
+|----------|--------|
+| A1 | Rods & Mockers |
+| A2 | Do Nothing |
+| A3 | Shake 'N' Black |
+| A4 | Can't Explain |
+| A5 | Ecstacy |
+| B1 | Reach Out |
+| B2 | Hazy Shade Of Winter |
+| B3 | Do It Quick |
+| B4 | City Baby Attacked By Rats |
+| B5 | Bran Flakes |
+| B6 | In Sickness & In Health |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Flibbidydibbidydob is an EP of cover versions, including commercial jingles and 
 | Format         | Vinyl 12" 45 RPM Mini-Album |
 | Label          | Workers Playtime |
 | Catalog Number | Play 11T |
-| Notes | Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.<br><br>Cat# Play 11T appears on spine and back cover.<br>Cat# PLAY 11T appears on labels.<br><br>℗1989 Workers Playtime (On back cover)<br>℗ Workers Playtime 1990 (On labels)<br><br>On labels:<br>A1: Copyright Control<br>A2: Plangent Visions Ltd.<br>A3: Zomba Music Publ. Ltd.<br>A4: Fabulous Music Ltd.<br>A5: Copyright Control<br>B1: Jobette Music (London) Ltd.<br>B2: Pattern Music Ltd.<br>B3: Ronnie Bond Music Ltd.<br>B4: Complete Music Ltd.<br>B5: Ronnie Bond Music Ltd.<br>B6: Chas Dave Music Ltd. |
+| Notes | Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.  Cat# Play 11T appears on spine and back cover. Cat# PLAY 11T appears on labels.  ℗1989 Workers Playtime (On back cover) ℗ Workers Playtime 1990 (On labels)  On labels: A1: Copyright Control A2: Plangent Visions Ltd. A3: Zomba Music Publ. Ltd. A4: Fabulous Music Ltd. A5: Copyright Control B1: Jobette Music (London) Ltd. B2: Pattern Music Ltd. B3: Ronnie Bond Music Ltd. B4: Complete Music Ltd. B5: Ronnie Bond Music Ltd. B6: Chas Dave Music Ltd. |
 | Discogs URL    | [Snuff - Flibbiddydibbiddydob](https://www.discogs.com/release/1178217-Snuff-3-Flibbiddydibbiddydob) |

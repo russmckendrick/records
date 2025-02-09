@@ -39,25 +39,25 @@ styles: ["Bluegrass"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | To Scatter One's Own | 4:15 |
-| A2 | Hard Times | 3:11 |
-| A3 | Jubilee | 5:04 |
-| A4 | Fragile, The Spark | 2:42 |
-| B1 | Cotillions | 5:08 |
-| B2 | Faithless Darlin' | 3:01 |
-| B3 | Colosseum | 3:33 |
-| B4 | Martinets | 2:55 |
-| C1 | Buffalo Boys | 2:54 |
-| C2 | Dancehall | 4:30 |
-| C3 | Cri De Coeur | 3:56 |
-| C4 | Like Lambs | 3:38 |
-| D1 | Rider | 3:01 |
-| D2 | Apologia | 3:08 |
-| D3 | Neptulius | 4:09 |
-| D4 | 6+7 | 4:14 |
-| D5 | Anon | 2:07 |
+| Position | Title |
+|----------|--------|
+| A1 | To Scatter One's Own |
+| A2 | Hard Times |
+| A3 | Jubilee |
+| A4 | Fragile, The Spark |
+| B1 | Cotillions |
+| B2 | Faithless Darlin' |
+| B3 | Colosseum |
+| B4 | Martinets |
+| C1 | Buffalo Boys |
+| C2 | Dancehall |
+| C3 | Cri De Coeur |
+| C4 | Like Lambs |
+| D1 | Rider |
+| D2 | Apologia |
+| D3 | Neptulius |
+| D4 | 6+7 |
+| D5 | Anon |
 
 
 ## Apple Music
@@ -74,5 +74,5 @@ styles: ["Bluegrass"]
 | Format         | Vinyl 2× LP Album Stereo (Smoke Translucent Marble, Gatefold) |
 | Label          | Martha's Music |
 | Catalog Number | MM001WPC |
-| Notes | Track durations do not appear on the release.<br><br>Made in the EU. |
+| Notes | Track durations do not appear on the release.  Made in the EU. |
 | Discogs URL    | [WPC - Cotillions](https://www.discogs.com/release/14734860-William-Patrick-Corgan-Cotillions) |

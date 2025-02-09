@@ -44,18 +44,18 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Oh Baby |  |
-| A2 | Other Voices |  |
-| A3 | I Used To |  |
-| B1 | Change Yr Mind |  |
-| B2 | How Do You Sleep? |  |
-| C1 | Tonite |  |
-| C2 | Call The Police |  |
-| C3 | American Dream  |  |
-| D1 | Emotional Haircut |  |
-| D2 | Black Screen |  |
+| Position | Title |
+|----------|--------|
+| A1 | Oh Baby |
+| A2 | Other Voices |
+| A3 | I Used To |
+| B1 | Change Yr Mind |
+| B2 | How Do You Sleep? |
+| C1 | Tonite |
+| C2 | Call The Police |
+| C3 | American Dream  |
+| D1 | Emotional Haircut |
+| D2 | Black Screen |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | 88985456111 |
-| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.<br><br>© & ℗ 2017 Excelsior Equity Management of NY, LLC |
+| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.  © & ℗ 2017 Excelsior Equity Management of NY, LLC |
 | Discogs URL    | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167-LCD-Soundsystem-American-Dream) |

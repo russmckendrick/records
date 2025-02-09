@@ -28,19 +28,19 @@ Propaganda is the fourth studio album by American rock band Sparks, released on 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Propaganda |  |
-| A2 | At Home, At Work, At Play |  |
-| A3 | Reinforcements |  |
-| A4 | B.C. |  |
-| A5 | Thanks But No Thanks |  |
-| A6 | Don't Leave Me Alone With Her |  |
-| B1 | Never Turn Your Back On Mother Earth |  |
-| B2 | Something For The Girl With Everything |  |
-| B3 | Achoo |  |
-| B4 | Who Don't Like Kids |  |
-| B5 | Bon Voyage |  |
+| Position | Title |
+|----------|--------|
+| A1 | Propaganda |
+| A2 | At Home, At Work, At Play |
+| A3 | Reinforcements |
+| A4 | B.C. |
+| A5 | Thanks But No Thanks |
+| A6 | Don't Leave Me Alone With Her |
+| B1 | Never Turn Your Back On Mother Earth |
+| B2 | Something For The Girl With Everything |
+| B3 | Achoo |
+| B4 | Who Don't Like Kids |
+| B5 | Bon Voyage |
 
 
 ## Apple Music
@@ -58,5 +58,5 @@ Propaganda is the fourth studio album by American rock band Sparks, released on 
 | Format         | Vinyl LP Album Reissue Stereo (Maelstrom Blue) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1270 |
-| Notes | 50th Anniversary Edition<br>℗ 1974 Universal Music Operations Limited<br>© 1974, 2024 Universal Music Operations Limited<br>Manufactured in the E.U.<br>Printed inner sleeve with lyrics and credits.<br> |
+| Notes | 50th Anniversary Edition ℗ 1974 Universal Music Operations Limited © 1974, 2024 Universal Music Operations Limited Manufactured in the E.U. Printed inner sleeve with lyrics and credits.  |
 | Discogs URL    | [Sparks - Propaganda](https://www.discogs.com/release/32429202-Sparks-Propaganda) |

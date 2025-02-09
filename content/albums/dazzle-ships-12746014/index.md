@@ -37,20 +37,20 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Radio Prague | 1:18 |
-| A2 | Genetic Engineering | 3:42 |
-| A3 | ABC Auto-Industry | 2:06 |
-| A4 | Telegraph | 2:57 |
-| A5 | This Is Helena | 1:58 |
-| A6 | International | 4:26 |
-| B7 | Dazzle Ships (Parts II, III & VII) | 2:21 |
-| B8 | The Romance Of The Telescope | 3:26 |
-| B9 | Silent Running | 3:33 |
-| B10 | Radio Waves | 3:44 |
-| B11 | Time Zones | 1:49 |
-| B12 | Of All The Things We've Made | 3:23 |
+| Position | Title |
+|----------|--------|
+| A1 | Radio Prague |
+| A2 | Genetic Engineering |
+| A3 | ABC Auto-Industry |
+| A4 | Telegraph |
+| A5 | This Is Helena |
+| A6 | International |
+| B7 | Dazzle Ships (Parts II, III & VII) |
+| B8 | The Romance Of The Telescope |
+| B9 | Silent Running |
+| B10 | Radio Waves |
+| B11 | Time Zones |
+| B12 | Of All The Things We've Made |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 | Format         | Vinyl LP Album Reissue |
 | Label          | Telegraph (2) |
 | Catalog Number | 0602567731630 |
-| Notes | Die-cut, Gatefold sleeve with the right hand side holding the LP and the left hand side being a single page only without a 'pocket'.<br>Includes a colour printed inner sleeve and download code.<br><br>[Sticker on shrinkwrap]<br>A Virgin EMI Records release ℗ 1983 Virgin Records Limited<br>© 2018 Virgin Records Limited<br>Universal International Music B.V. Gerritt Van Der Veeniaan 4,<br>3743 Dn, Baarn, Netherlands.<br>[Inner sleeve]<br>A Virgin EMI Records release.<br>℗ 1983 Virgin Records Ltd.<br>*℗ 1981 Virgin Records Ltd. *"The Romance Of The Telescope" and "Of All The Things We've Made"<br>©2018 Virgin Records Ltd.<br><br>[Label side A]<br>A Virgin EMI Records release<br>℗ 1983 Virgin Records Limited.<br>© 2018 Virgin Records Limited.<br>[Label side B]<br>A Virgin EMI Records release<br>℗ 1983 Virgin Records Limited.<br>except 8 & 12 ℗ 1981 Virgin Records Limited.<br>© 2018 Virgin Records Ltd.<br><br>Made in the EU.<br><br>Recorded at The Gramophone Suite, Gallery Studio, Mayfair Studio.<br>Mixed at The Manor Studios.<br>Produced for Telegraph and on behalf of White Noise Limited.<br>Bugle on "This Is Helena" courtesy of BBC Records/RAD 126.<br>Original tapes for "Dazzle Ships" supplied by Sound Centre Radio.<br><br>Tracks are numbered sequentially on the labels, without being numbered elsewhere on the release.<br><br>"Dazzle Ships" title suggested by [url=https://www.discogs.com/artist/1069010-Peter-Saville-2]Peter Saville[/url] after a painting by Edward Wadsworth. |
+| Notes | Die-cut, Gatefold sleeve with the right hand side holding the LP and the left hand side being a single page only without a 'pocket'. Includes a colour printed inner sleeve and download code.  [Sticker on shrinkwrap] A Virgin EMI Records release ℗ 1983 Virgin Records Limited © 2018 Virgin Records Limited Universal International Music B.V. Gerritt Van Der Veeniaan 4, 3743 Dn, Baarn, Netherlands. [Inner sleeve] A Virgin EMI Records release. ℗ 1983 Virgin Records Ltd. *℗ 1981 Virgin Records Ltd. *"The Romance Of The Telescope" and "Of All The Things We've Made" ©2018 Virgin Records Ltd.  [Label side A] A Virgin EMI Records release ℗ 1983 Virgin Records Limited. © 2018 Virgin Records Limited. [Label side B] A Virgin EMI Records release ℗ 1983 Virgin Records Limited. except 8 & 12 ℗ 1981 Virgin Records Limited. © 2018 Virgin Records Ltd.  Made in the EU.  Recorded at The Gramophone Suite, Gallery Studio, Mayfair Studio. Mixed at The Manor Studios. Produced for Telegraph and on behalf of White Noise Limited. Bugle on "This Is Helena" courtesy of BBC Records/RAD 126. Original tapes for "Dazzle Ships" supplied by Sound Centre Radio.  Tracks are numbered sequentially on the labels, without being numbered elsewhere on the release.  "Dazzle Ships" title suggested by [url=https://www.discogs.com/artist/1069010-Peter-Saville-2]Peter Saville[/url] after a painting by Edward Wadsworth. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/12746014-OMD-Dazzle-Ships) |

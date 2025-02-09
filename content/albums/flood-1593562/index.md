@@ -40,27 +40,27 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Theme From Flood | 0:29 |
-| A2 | Birdhouse In Your Soul | 3:15 |
-| A3 | Lucky Ball & Chain | 2:49 |
-| A4 | Istanbul (Not Constantinople) | 2:34 |
-| A5 | Dead | 2:54 |
-| A6 | Your Racist Friend | 2:53 |
-| A7 | Particle Man | 1:56 |
-| A8 | Twisting | 1:54 |
-| A9 | We Want A Rock | 2:45 |
-| B1 | Someone Keeps Moving My Chair | 2:19 |
-| B2 | Hearing Aid | 3:28 |
-| B3 | Minimum Wage | 0:44 |
-| B4 | Letterbox | 1:21 |
-| B5 | Whistling In The Dark | 3:25 |
-| B6 | Hot Cha | 1:33 |
-| B7 | Women And Men | 1:45 |
-| B8 | Sapphire Bullets Of Pure Love | 1:32 |
-| B9 | They Might Be Giants | 2:39 |
-| B10 | Road Movie To Berlin | 2:24 |
+| Position | Title |
+|----------|--------|
+| A1 | Theme From Flood |
+| A2 | Birdhouse In Your Soul |
+| A3 | Lucky Ball & Chain |
+| A4 | Istanbul (Not Constantinople) |
+| A5 | Dead |
+| A6 | Your Racist Friend |
+| A7 | Particle Man |
+| A8 | Twisting |
+| A9 | We Want A Rock |
+| B1 | Someone Keeps Moving My Chair |
+| B2 | Hearing Aid |
+| B3 | Minimum Wage |
+| B4 | Letterbox |
+| B5 | Whistling In The Dark |
+| B6 | Hot Cha |
+| B7 | Women And Men |
+| B8 | Sapphire Bullets Of Pure Love |
+| B9 | They Might Be Giants |
+| B10 | Road Movie To Berlin |
 
 
 ## Apple Music
@@ -78,5 +78,5 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 | Format         | Vinyl LP Album Stereo (Gatefold Sleeve) |
 | Label          | Elektra |
 | Catalog Number | 960 907-1 |
-| Notes | Comes in a gatefold sleeve with the left panel being glued together and the right panel housing the insert and record.<br><br>Catalogue number:<br>960 907-1 as per spine<br>960 907-1 Ⓤ as per rear sleeve + additional cat# for the UK: EKT 68<br>960 907-1 and EKT 68 as per labels<br><br>[On rear sleeve:]<br>ELEKTRA ENTERTAINMENT<br>A Division of Warner Communications Inc., [Warner logo]<br>75 Rockefeller Plaza, New York, New York 10019<br>345 North Maple Drive, Suite 123, Beverly Hills, California 90210<br>℗ & © 1990 Elektra Entertainment for the United States<br>& WEA International Inc. for the world outside of the United States<br>All Rights Reserved<br><br>Made in Germany<br><br>[On inner gatefold:]<br>Recorded and mixed in New York City at Skyline Studios<br>Mastered at Masterdisk NYC<br>718.387.6962 gets TMBG's regular charge Dial-A-Song<br>All songs published by They Might Be Giants Music, ASCAP administered by WB Music Corp.<br>except "Istanbul" published by Chappell & Co..<br>All lyrics © 1990 They Might Be Giants, ASCAP admin. by WB Music Corp,<br>except "Istanbul" © 1953 Chappell & Co., ASCAP<br><br>[On labels:]<br>All Selections published by They Might Be Giants Music, ASCAP,<br>administered by WB Music Corp,<br>except "Istambul" published by Chappell & Co., ASCAP. [Label A only]<br><br>℗ 1990 Elektra Entertainment<br>A division of Warner Communications Inc. [Warner logo]<br><br>This issue contains an insert featuring a German translation of the lyrics.<br><br>Runout matrix R / S Alsdorf 755 960907-1-X are stamped all other is etched. |
+| Notes | Comes in a gatefold sleeve with the left panel being glued together and the right panel housing the insert and record.  Catalogue number: 960 907-1 as per spine 960 907-1 Ⓤ as per rear sleeve + additional cat# for the UK: EKT 68 960 907-1 and EKT 68 as per labels  [On rear sleeve:] ELEKTRA ENTERTAINMENT A Division of Warner Communications Inc., [Warner logo] 75 Rockefeller Plaza, New York, New York 10019 345 North Maple Drive, Suite 123, Beverly Hills, California 90210 ℗ & © 1990 Elektra Entertainment for the United States & WEA International Inc. for the world outside of the United States All Rights Reserved  Made in Germany  [On inner gatefold:] Recorded and mixed in New York City at Skyline Studios Mastered at Masterdisk NYC 718.387.6962 gets TMBG's regular charge Dial-A-Song All songs published by They Might Be Giants Music, ASCAP administered by WB Music Corp. except "Istanbul" published by Chappell & Co.. All lyrics © 1990 They Might Be Giants, ASCAP admin. by WB Music Corp, except "Istanbul" © 1953 Chappell & Co., ASCAP  [On labels:] All Selections published by They Might Be Giants Music, ASCAP, administered by WB Music Corp, except "Istambul" published by Chappell & Co., ASCAP. [Label A only]  ℗ 1990 Elektra Entertainment A division of Warner Communications Inc. [Warner logo]  This issue contains an insert featuring a German translation of the lyrics.  Runout matrix R / S Alsdorf 755 960907-1-X are stamped all other is etched. |
 | Discogs URL    | [They Might Be Giants - Flood](https://www.discogs.com/release/1593562-They-Might-Be-Giants-Flood) |

@@ -36,22 +36,22 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | About A Girl | 3:37 |
-| A2 | Come As You Are | 4:14 |
-| A3 | Jesus Doesn't Want Me For A Sunbeam | 4:37 |
-| A4 | The Man Who Sold The World | 4:20 |
-| A5 | Pennyroyal Tea | 3:40 |
-| A6 | Dumb | 2:52 |
-| A7 | Polly | 3:16 |
-| B1 | On A Plain | 3:44 |
-| B2 | Something In The Way | 4:01 |
-| B3 | Plateau | 3:38 |
-| B4 | Oh Me | 3:26 |
-| B5 | Lake Of Fire | 2:55 |
-| B6 | All Apologies | 4:23 |
-| B7 | Where Did You Sleep Last Night | 5:07 |
+| Position | Title |
+|----------|--------|
+| A1 | About A Girl |
+| A2 | Come As You Are |
+| A3 | Jesus Doesn't Want Me For A Sunbeam |
+| A4 | The Man Who Sold The World |
+| A5 | Pennyroyal Tea |
+| A6 | Dumb |
+| A7 | Polly |
+| B1 | On A Plain |
+| B2 | Something In The Way |
+| B3 | Plateau |
+| B4 | Oh Me |
+| B5 | Lake Of Fire |
+| B6 | All Apologies |
+| B7 | Where Did You Sleep Last Night |
 
 
 ## Apple Music
@@ -69,5 +69,5 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 0720642472712 |
-| Notes | Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.<br><br>All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI<br>Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.<br><br>℗ 1994 Geffen Records, Inc. an MCA Company<br>© 1994 Geffen Records, Inc. an MCA Company.<br>Made in the EU. <br><br>2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.<br><br>Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside<br><br>The runouts are stamped. |
+| Notes | Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.  All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.  ℗ 1994 Geffen Records, Inc. an MCA Company © 1994 Geffen Records, Inc. an MCA Company. Made in the EU.   2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.  Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside  The runouts are stamped. |
 | Discogs URL    | [Nirvana - MTV Unplugged In New York](https://www.discogs.com/release/1901246-Nirvana-MTV-Unplugged-In-New-York) |

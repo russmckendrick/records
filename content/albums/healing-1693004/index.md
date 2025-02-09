@@ -32,17 +32,17 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Healer | 3:40 |
-| A2 | Pulse | 3:07 |
-| A3 | Flesh | 3:58 |
-| A4 | Golden Goose | 3:16 |
-| A5 | Compassion | 4:43 |
-| A6 | Shine | 8:12 |
-| B1 | Healing Part I | 7:28 |
-| B2 | Healing Part II | 7:52 |
-| B3 | Healing Part III | 4:40 |
+| Position | Title |
+|----------|--------|
+| A1 | Healer |
+| A2 | Pulse |
+| A3 | Flesh |
+| A4 | Golden Goose |
+| A5 | Compassion |
+| A6 | Shine |
+| B1 | Healing Part I |
+| B2 | Healing Part II |
+| B3 | Healing Part III |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | BHS 3522 |
-| Notes | All songs copyright Humanoid Music, 1980. (BMI)<br>Marketed by AVATAR Records & Screenworks Ltd.<br>Distributed by Spartan |
+| Notes | All songs copyright Humanoid Music, 1980. (BMI) Marketed by AVATAR Records & Screenworks Ltd. Distributed by Spartan |
 | Discogs URL    | [Todd Rundgren - Healing](https://www.discogs.com/release/1693004-Todd-Rundgren-Healing) |

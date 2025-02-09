@@ -24,18 +24,18 @@ Five years between albums has given Nadia Reid plenty to reflect upon across <i>
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Emmanuelle | 3:33 |
-|  | Cry On Cue | 3:37 |
-|  | Baby Bright | 3:52 |
-|  | Hold It Up | 4:07 |
-|  | Changed Unchained | 3:44 |
-|  | Second Nature | 3:33 |
-|  | Even Now | 4:14 |
-|  | Hotel Santa Cruz | 3:26 |
-|  | Woman Apart | 5:07 |
-|  | Send It Down The Line | 5:08 |
+| Position | Title |
+|----------|--------|
+| A1 | Emmanuelle |
+| A2 | Cry On Cue |
+| A3 | Baby Bright |
+| A4 | Hold It Up |
+| A5 | Changed Unchained |
+| B1 | Second Nature |
+| B2 | Even Now |
+| B3 | Hotel Santa Cruz |
+| B4 | Woman Apart |
+| B5 | Send It Down The Line |
 
 
 ## Apple Music
@@ -52,5 +52,5 @@ Five years between albums has given Nadia Reid plenty to reflect upon across <i>
 | Format         | Vinyl LP Album |
 | Label          | Slow Time Records |
 | Catalog Number | ST006V |
-| Notes | Includes printed inner sleeve with lyrics & credits.<br><br>Recorded between 2021 and 2023 in Dunedin and Auckland, New Zealand.<br>Made in Aotearoa.<br><br>Runouts are etched except IM is stamped. |
+| Notes | Includes printed inner sleeve with lyrics & credits.  Recorded between 2021 and 2023 in Dunedin and Auckland, New Zealand. Made in Aotearoa.  Runouts are etched except IM is stamped. |
 | Discogs URL    | [Nadia Reid - Enter Now Brightness](https://www.discogs.com/release/33076050-Nadia-Reid-Enter-Now-Brightness) |

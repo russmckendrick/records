@@ -36,19 +36,19 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Flower | 3:26 |
-| A2 | Sunday | 5:03 |
-| A3 | Memory Gospel | 6:42 |
-| B1 | Whispering Wind | 6:02 |
-| B2 | Summer | 5:58 |
-| B3 | Spirit | 4:08 |
-| C1 | Flying Foxes | 6:16 |
-| C2 | Sunspot | 6:49 |
-| C3 | Flying Over The Dateline | 4:47 |
-| D1 | Running | 7:05 |
-| D2 | The Sun Never Stops Setting | 4:20 |
+| Position | Title |
+|----------|--------|
+| A1 | Flower |
+| A2 | Sunday |
+| A3 | Memory Gospel |
+| B1 | Whispering Wind |
+| B2 | Summer |
+| B3 | Spirit |
+| C1 | Flying Foxes |
+| C2 | Sunspot |
+| C3 | Flying Over The Dateline |
+| D1 | Running |
+| D2 | The Sun Never Stops Setting |
 
 
 ## Apple Music
@@ -66,5 +66,5 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red Translucent) |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT062LP2 |
-| Notes | Limited to 1000 copies.<br><br>Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.<br><br>℗ 2017 Little Idiot © 2017 Little Idiot<br><br>On labels:<br>℗ 2017 Little Idiot Music<br>© 2017 Little Idiot Music <br><br>Track durations not listed on the release. |
+| Notes | Limited to 1000 copies.  Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music   Track durations not listed on the release. |
 | Discogs URL    | [Moby - Play: The B Sides](https://www.discogs.com/release/11524019-Moby-Play-The-B-Sides) |

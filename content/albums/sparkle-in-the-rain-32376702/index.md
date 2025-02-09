@@ -33,18 +33,18 @@ A breakthrough commercial success for the band, the record peaked at number 1 in
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Up On The Catwalk | 4:46 |
-| A2 | Book Of Brilliant Things | 4:22 |
-| A3 | Speed Your Love To Me | 4:25 |
-| A4 | Waterfront | 4:49 |
-| A5 | East At Easter | 3:33 |
-| B6 | Street Hassle | 5:15 |
-| B7 | White Hot Day | 4:34 |
-| B8 | ''C''Moon Cry Like A Baby | 4:21 |
-| B9 | The Kick Inside Of Me | 4:49 |
-| B10 | Shake Off The Ghosts | 3:59 |
+| Position | Title |
+|----------|--------|
+| A1 | Up On The Catwalk |
+| A2 | Book Of Brilliant Things |
+| A3 | Speed Your Love To Me |
+| A4 | Waterfront |
+| A5 | East At Easter |
+| B6 | Street Hassle |
+| B7 | White Hot Day |
+| B8 | ''C''Moon Cry Like A Baby |
+| B9 | The Kick Inside Of Me |
+| B10 | Shake Off The Ghosts |
 
 
 ## Apple Music

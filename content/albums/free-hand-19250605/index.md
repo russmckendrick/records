@@ -38,24 +38,24 @@ International releases of the album include a slightly different position of the
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Transfer From The Original Master Tapes |  |
-| A1 | Just The Same | 5:34 |
-| A2 | On Reflection | 5:41 |
-| A3 | Free Hand | 6:14 |
-| B1 | Time To Kill | 5:08 |
-| B2 | His Last Voyage | 6:27 |
-| B3 | Talybont | 2:43 |
-| B4 | Mobile | 5:05 |
-|  | Steven Wilson 2021 Remixes |  |
-| C1 | Just The Same | 5:34 |
-| C2 | On Reflection | 5:41 |
-| C3 | Free Hand | 6:14 |
-| D1 | Time To Kill | 5:08 |
-| D2 | His Last Voyage | 6:27 |
-| D3 | Talybont | 2:43 |
-| D4 | Mobile | 5:05 |
+| Position | Title |
+|----------|--------|
+|  | Transfer From The Original Master Tapes |
+| A1 | Just The Same |
+| A2 | On Reflection |
+| A3 | Free Hand |
+| B1 | Time To Kill |
+| B2 | His Last Voyage |
+| B3 | Talybont |
+| B4 | Mobile |
+|  | Steven Wilson 2021 Remixes |
+| C1 | Just The Same |
+| C2 | On Reflection |
+| C3 | Free Hand |
+| D1 | Time To Kill |
+| D2 | His Last Voyage |
+| D3 | Talybont |
+| D4 | Mobile |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ International releases of the album include a slightly different position of the
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV066 |
-| Notes | Black vinyl release. Red vinyl pressing seen here [r19268482]<br>White vinyl pressing seen here [r22115038]<br><br>Catalogue # on spine and sticker: ALUGGV066<br>Catalogue # on labels: ALUGGV66 |
+| Notes | Black vinyl release. Red vinyl pressing seen here [r19268482] White vinyl pressing seen here [r22115038]  Catalogue # on spine and sticker: ALUGGV066 Catalogue # on labels: ALUGGV66 |
 | Discogs URL    | [Gentle Giant - Free Hand](https://www.discogs.com/release/19250605-Gentle-Giant-Free-Hand) |

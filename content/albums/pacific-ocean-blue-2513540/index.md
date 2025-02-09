@@ -34,20 +34,20 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | River Song | 3:44 |
-| A2 | What's Wrong | 2:22 |
-| A3 | Moonshine | 2:26 |
-| A4 | Friday Night | 3:09 |
-| A5 | Dreamer | 4:22 |
-| A6 | Thoughts Of You | 3:02 |
-| B1 | Time | 3:30 |
-| B2 | You And I | 3:25 |
-| B3 | Pacific Ocean Blues | 2:37 |
-| B4 | Farewell My Friend | 2:24 |
-| B5 | Rainbows | 2:51 |
-| B6 | End Of The Show | 2:56 |
+| Position | Title |
+|----------|--------|
+| A1 | River Song |
+| A2 | What's Wrong |
+| A3 | Moonshine |
+| A4 | Friday Night |
+| A5 | Dreamer |
+| A6 | Thoughts Of You |
+| B1 | Time |
+| B2 | You And I |
+| B3 | Pacific Ocean Blues |
+| B4 | Farewell My Friend |
+| B5 | Rainbows |
+| B6 | End Of The Show |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |
-| Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.<br><br>Hype sticker affixed to outer bag:<br>Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing<br><br>Recorded At: Brother Studios, Santa Monica, Calif.<br>Mastered At: L.R.S. In Burbank, Calif.<br><br>Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. <br>All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music<br><br>Runouts are etched. |
+| Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.  Hype sticker affixed to outer bag: Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing  Recorded At: Brother Studios, Santa Monica, Calif. Mastered At: L.R.S. In Burbank, Calif.  Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.  All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music  Runouts are etched. |
 | Discogs URL    | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-2-Pacific-Ocean-Blue) |

@@ -27,13 +27,13 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Momo | 3:14 |
-| A2 | Push / Pull | 4:49 |
-| A3 | Is That What You Wanted To Hear? | 4:32 |
-| B1 | Forget The Credits | 6:28 |
-| B2 | Shame | 5:28 |
+| Position | Title |
+|----------|--------|
+| A1 | Momo |
+| A2 | Push / Pull |
+| A3 | Is That What You Wanted To Hear? |
+| B1 | Forget The Credits |
+| B2 | Shame |
 
 
 ## Apple Music

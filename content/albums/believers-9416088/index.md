@@ -29,20 +29,20 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Believers | 3:35 |
-| A2 | This Is A Love Song | 4:00 |
-| A3 | I Will And I Won't | 3:42 |
-| A4 | Meteors | 3:00 |
-| A5 | Gone | 3:34 |
-| A6 | What I Left Out | 3:14 |
-| B1 | A Boy | 3:10 |
-| B2 | Birds | 5:52 |
-| B3 | You Can't Know Everything | 3:35 |
-| B4 | Delivery Man | 4:22 |
-| B5 | Come Awake | 3:28 |
-| B6 | B Boy | 1:40 |
+| Position | Title |
+|----------|--------|
+| A1 | The Believers |
+| A2 | This Is A Love Song |
+| A3 | I Will And I Won't |
+| A4 | Meteors |
+| A5 | Gone |
+| A6 | What I Left Out |
+| B1 | A Boy |
+| B2 | Birds |
+| B3 | You Can't Know Everything |
+| B4 | Delivery Man |
+| B5 | Come Awake |
+| B6 | B Boy |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 | Format         | Vinyl LP Album Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0211435EMU |
-| Notes | Hype sticker on shrink reads: <br>"DEACON BLUE <br>Their brilliant new album. <br>Featuring 'The Believers' and 'This is a Love Song'. <br>THIS IS CLASSIC DEACON BLUE" .<br><br>Durations do not appear on this release.<br><br>Made in Germany. |
+| Notes | Hype sticker on shrink reads:  "DEACON BLUE  Their brilliant new album.  Featuring 'The Believers' and 'This is a Love Song'.  THIS IS CLASSIC DEACON BLUE" .  Durations do not appear on this release.  Made in Germany. |
 | Discogs URL    | [Deacon Blue - Believers](https://www.discogs.com/release/9416088-Deacon-Blue-Believers) |

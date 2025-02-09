@@ -27,24 +27,24 @@ styles: ["Synth-pop", "Indie Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Urban Futuristic | 4:14 |
-| A2 | Get The Girl! Kill The Baddies! | 5:09 |
-| A3 | Wise Up! Sucker | 3:17 |
-| A4 | Inject Me | 4:31 |
-| A5 | Axe Of Men | 4:20 |
-| A6 | Can U Dig It? | 4:32 |
-| A7 | I've Always Been A Coward, Baby | 3:24 |
-| A8 | Karmadrome | 4:21 |
-| B1 | Dance Of The Mad... (7" Version) | 3:34 |
-| B2 | Another Mans Rhubarb | 4:11 |
-| B3 | X Y & Zee | 4:35 |
-| B4 | 92°F | 5:37 |
-| B5 | Cicciolina (7" Version) | 4:36 |
-| B6 | Bulletproof! | 3:14 |
-| B7 | Def Con One | 4:39 |
-| B8 | Wake Up! Time To Die... | 7:21 |
+| Position | Title |
+|----------|--------|
+| A1 | Urban Futuristic |
+| A2 | Get The Girl! Kill The Baddies! |
+| A3 | Wise Up! Sucker |
+| A4 | Inject Me |
+| A5 | Axe Of Men |
+| A6 | Can U Dig It? |
+| A7 | I've Always Been A Coward, Baby |
+| A8 | Karmadrome |
+| B1 | Dance Of The Mad... (7" Version) |
+| B2 | Another Mans Rhubarb |
+| B3 | X Y & Zee |
+| B4 | 92°F |
+| B5 | Cicciolina (7" Version) |
+| B6 | Bulletproof! |
+| B7 | Def Con One |
+| B8 | Wake Up! Time To Die... |
 
 
 ## Apple Music

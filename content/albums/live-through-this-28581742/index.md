@@ -32,20 +32,20 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Violet | 3:24 |
-| A2 | Miss World | 3:00 |
-| A3 | Plump | 2:34 |
-| A4 | Asking For It | 3:30 |
-| A5 | Jennifers Body | 3:41 |
-| A6 | Doll Parts | 3:32 |
-| B1 | Credit In The Straight World | 3:11 |
-| B2 | Softer, Softest | 3:27 |
-| B3 | She Walks On Me | 3:24 |
-| B4 | I Think That I Would Die | 3:36 |
-| B5 | Gutless | 2:16 |
-| B6 | Rock Star | 2:41 |
+| Position | Title |
+|----------|--------|
+| A1 | Violet |
+| A2 | Miss World |
+| A3 | Plump |
+| A4 | Asking For It |
+| A5 | Jennifers Body |
+| A6 | Doll Parts |
+| B1 | Credit In The Straight World |
+| B2 | Softer, Softest |
+| B3 | She Walks On Me |
+| B4 | I Think That I Would Die |
+| B5 | Gutless |
+| B6 | Rock Star |
 
 
 ## Apple Music

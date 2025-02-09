@@ -33,18 +33,18 @@ Leigh received the Contemporary Classics Award from the Songwriter's Hall of Fam
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hometown | 3:05 |
-| A2 | Your Mom Is Right | 3:30 |
-| A3 | Kismet Kill | 3:29 |
-| A4 | I Can Change | 3:13 |
-| A5 | Stupid Face | 3:31 |
-| B1 | Called You Queen | 3:20 |
-| B2 | Jealous Girls | 3:00 |
-| B3 | Skynz | 2:55 |
-| B4 | Better Than Me | 3:14 |
-| B5 | Blue Diamonds Fall | 2:32 |
+| Position | Title |
+|----------|--------|
+| A1 | Hometown |
+| A2 | Your Mom Is Right |
+| A3 | Kismet Kill |
+| A4 | I Can Change |
+| A5 | Stupid Face |
+| B1 | Called You Queen |
+| B2 | Jealous Girls |
+| B3 | Skynz |
+| B4 | Better Than Me |
+| B5 | Blue Diamonds Fall |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ Leigh received the Contemporary Classics Award from the Songwriter's Hall of Fam
 | Format         | Vinyl LP Album Limited Edition (Teal / 150g) |
 | Label          | Memphis Industries |
 | Catalog Number | MI0403LP |
-| Notes | Gatefold sleeve. Standard white die-cut paper inner.<br>Includes a download code on a sticker on the inner paper sleeve.<br><br>3 inch white circular sticker on shrink-wrap with Teal colour text reads:<br>HALEY BONAR<br>Impossible Dream<br>LIMITED EDITION COLOUR VINYL<br>INCLUDES DOWNLOAD CODE<br>mi [= Memphis Industries logo]<br><br>℗ & © 2016 Haley Bonar<br>Under exclusive license to Memphis Industries |
+| Notes | Gatefold sleeve. Standard white die-cut paper inner. Includes a download code on a sticker on the inner paper sleeve.  3 inch white circular sticker on shrink-wrap with Teal colour text reads: HALEY BONAR Impossible Dream LIMITED EDITION COLOUR VINYL INCLUDES DOWNLOAD CODE mi [= Memphis Industries logo]  ℗ & © 2016 Haley Bonar Under exclusive license to Memphis Industries |
 | Discogs URL    | [Haley Bonar - Impossible Dream](https://www.discogs.com/release/8882640-Haley-Bonar-Impossible-Dream) |

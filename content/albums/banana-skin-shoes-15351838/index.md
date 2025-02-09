@@ -32,22 +32,22 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Banana Skin Shoes |  |
-| A2 | Is This A Dream? |  |
-| A3 | I Just Wanna Wish You Happiness |  |
-| A4 | I'm Not Sure What It Is |  |
-| B1 | Tony Wilson Said |  |
-| B2 | You And Me Against The World |  |
-| B3 | I Need Someone To Trust |  |
-| C1 | Note To Self |  |
-| C2 | Colours |  |
-| C3 | Funny Time Of Year |  |
-| D1 | Fly On The Wall |  |
-| D2 | Never Change |  |
-| D3 | Appletree Boulevard |  |
-| D4 | I'll Do My Best |  |
+| Position | Title |
+|----------|--------|
+| A1 | Banana Skin Shoes |
+| A2 | Is This A Dream? |
+| A3 | I Just Wanna Wish You Happiness |
+| A4 | I'm Not Sure What It Is |
+| B1 | Tony Wilson Said |
+| B2 | You And Me Against The World |
+| B3 | I Need Someone To Trust |
+| C1 | Note To Self |
+| C2 | Colours |
+| C3 | Funny Time Of Year |
+| D1 | Fly On The Wall |
+| D2 | Never Change |
+| D3 | Appletree Boulevard |
+| D4 | I'll Do My Best |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Label          | One Last Fruit |
 | Catalog Number | OLF005LP |
-| Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.<br><br>Track titles taken from inside gatefold sleeve and lyrics poster.<br>On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".<br><br>800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800<br><br>Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |
+| Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |
 | Discogs URL    | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |

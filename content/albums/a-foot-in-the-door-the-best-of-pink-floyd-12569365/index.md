@@ -34,24 +34,24 @@ Pink Floyd’s remarkable, unparalleled career is given a single album overview.
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Hey You |  |
-| A2 | See Emily Play |  |
-| A3 | The Happiest Days Of Our Lives |  |
-| A4 | Another Brick In The Wall, Part 2 |  |
-| A5 | Have A Cigar |  |
-| B1 | Wish You Were Here |  |
-| B2 | Time / Breathe (In The Air) (Reprise) |  |
-| B3 | The Great Gig In The Sky |  |
-| B4 | Money |  |
-| C1 | Comfortably Numb |  |
-| C2 | High Hopes |  |
-| C3 | Learning To Fly |  |
-| D1 | The Fletcher Memorial Home |  |
-| D2 | Shine On You Crazy Diamond Parts 1-5 (Edit) |  |
-| D3 | Brain Damage |  |
-| D4 | Eclipse |  |
+| Position | Title |
+|----------|--------|
+| A1 | Hey You |
+| A2 | See Emily Play |
+| A3 | The Happiest Days Of Our Lives |
+| A4 | Another Brick In The Wall, Part 2 |
+| A5 | Have A Cigar |
+| B1 | Wish You Were Here |
+| B2 | Time / Breathe (In The Air) (Reprise) |
+| B3 | The Great Gig In The Sky |
+| B4 | Money |
+| C1 | Comfortably Numb |
+| C2 | High Hopes |
+| C3 | Learning To Fly |
+| D1 | The Fletcher Memorial Home |
+| D2 | Shine On You Crazy Diamond Parts 1-5 (Edit) |
+| D3 | Brain Damage |
+| D4 | Eclipse |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Pink Floyd’s remarkable, unparalleled career is given a single album overview.
 | Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP21 |
-| Notes | The album package comes in a gatefold outer sleeve, with two separate printed inner bags, and is pressed on heavyweight 180 gram vinyl.   <br>Made in the EU.<br><br>℗ 2016 The copyright in this compilation is owned by Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. Tracks 1-10 13-16 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd. Tracks 11 & 12<br>℗ 2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. marketed and distributed by Sony Music Entertainment/25 Madison Avenue, New York, NY 10010 |
+| Notes | The album package comes in a gatefold outer sleeve, with two separate printed inner bags, and is pressed on heavyweight 180 gram vinyl.    Made in the EU.  ℗ 2016 The copyright in this compilation is owned by Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. Tracks 1-10 13-16 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd. Tracks 11 & 12 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. marketed and distributed by Sony Music Entertainment/25 Madison Avenue, New York, NY 10010 |
 | Discogs URL    | [Pink Floyd - A Foot In The Door (The Best Of Pink Floyd)](https://www.discogs.com/release/12569365-Pink-Floyd-A-Foot-In-The-Door-The-Best-Of-Pink-Floyd) |

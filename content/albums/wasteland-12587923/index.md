@@ -34,26 +34,26 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Day After | 1:48 |
-|  | Acid Rain | 6:03 |
-| A3 | Vale of Tears | 4:49 |
-| A4 | Guardian Angel | 4:24 |
-| B1 | Lament | 6:09 |
-|  | The Struggle for Survival | 9:32 |
-| C1 | River Down Below | 5:41 |
-| C2 | Wasteland | 8:25 |
-| C3 | The Night Before | 3:59 |
-| CD-1 | The Day After | 1:48 |
-| CD-2 | Acid Rain | 6:03 |
-| CD-3 | Vale of Tears | 4:49 |
-| CD-4 | Guardian Angel | 4:24 |
-| CD-5 | Lament | 6:09 |
-| CD-6 | The Struggle for Survival | 9:32 |
-| CD-7 | River Down Below | 5:41 |
-| CD-8 | Wasteland | 8:25 |
-| CD-9 | The Night Before | 3:59 |
+| Position | Title |
+|----------|--------|
+| A1 | The Day After |
+|  | Acid Rain |
+| A3 | Vale of Tears |
+| A4 | Guardian Angel |
+| B1 | Lament |
+|  | The Struggle for Survival |
+| C1 | River Down Below |
+| C2 | Wasteland |
+| C3 | The Night Before |
+| CD-1 | The Day After |
+| CD-2 | Acid Rain |
+| CD-3 | Vale of Tears |
+| CD-4 | Guardian Angel |
+| CD-5 | Lament |
+| CD-6 | The Struggle for Survival |
+| CD-7 | River Down Below |
+| CD-8 | Wasteland |
+| CD-9 | The Night Before |
 
 
 ## Apple Music
@@ -71,5 +71,5 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 | Format         | Vinyl LP (Silver), Vinyl LP Single Sided Etched (Silver), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 514 |
-| Notes | Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap. <br>180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive. <br>IOMLP 514 on back, 19075871861 on back and lateral side. <br> |
+| Notes | Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap.  180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive.  IOMLP 514 on back, 19075871861 on back and lateral side.   |
 | Discogs URL    | [Riverside - Wasteland](https://www.discogs.com/release/12587923-Riverside-Wasteland) |

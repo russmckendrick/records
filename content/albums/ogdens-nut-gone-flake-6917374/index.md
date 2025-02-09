@@ -27,22 +27,22 @@ Ogdens' Nut Gone Flake is the third studio album, and only concept album by the 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-|  | Ogden's Nut Gone Flake |  |
-| A1 | Ogden's Nut Gone Flake |  |
-| A2 | Afterglow |  |
-| A3 | Long Agos And Worlds Apart |  |
-| A4 | Rene |  |
-| A5 | Song Of A Baker |  |
-| A6 | Lazy Sunday |  |
-|  | Happiness Stan |  |
-| B1 | Happiness Stan |  |
-| B2 | Rollin' Over |  |
-| B3 | The Hungry Intruder |  |
-| B4 | The Journey |  |
-| B5 | Mad John |  |
-| B6 | Happydaystoytown |  |
+| Position | Title |
+|----------|--------|
+|  | Ogden's Nut Gone Flake |
+| A1 | Ogden's Nut Gone Flake |
+| A2 | Afterglow |
+| A3 | Long Agos And Worlds Apart |
+| A4 | Rene |
+| A5 | Song Of A Baker |
+| A6 | Lazy Sunday |
+|  | Happiness Stan |
+| B1 | Happiness Stan |
+| B2 | Rollin' Over |
+| B3 | The Hungry Intruder |
+| B4 | The Journey |
+| B5 | Mad John |
+| B6 | Happydaystoytown |
 
 
 ## Apple Music
@@ -60,5 +60,5 @@ Ogdens' Nut Gone Flake is the third studio album, and only concept album by the 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Mono |
 | Label          | Charly Records |
 | Catalog Number | 101L |
-| Notes | This is the 2015 Record Store Day release.<br><br>Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.<br><br>Many of these LPs arrived at shops with split damaged PVC sleeves. |
+| Notes | This is the 2015 Record Store Day release.    Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.    Many of these LPs arrived at shops with split damaged PVC sleeves. |
 | Discogs URL    | [Small Faces - Ogdens' Nut Gone Flake](https://www.discogs.com/release/6917374-Small-Faces-Ogdens-Nut-Gone-Flake) |

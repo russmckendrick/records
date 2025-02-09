@@ -33,20 +33,20 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Gerri Marie | 2:45 |
-| A2 | The Place You'd Most Want To Live (Interlude) | 1:09 |
-| A3 | Lord Have Mercy | 4:01 |
-| A4 | Sadie | 2:57 |
-| A5 | I Want You | 4:04 |
-| A6 | Wait Til I Get Over | 3:02 |
-| A7 | That Feeling | 4:22 |
-| B1 | See It Through (Interlude) | 1:25 |
-| B2 | See It Through  | 3:24 |
-| B3 | Someday We'll All Be Free | 4:04 |
-| B4 | Letter to My 17 Year Old Self | 5:48 |
-| B5 | Secrets |  |
+| Position | Title |
+|----------|--------|
+| A1 | Gerri Marie |
+| A2 | The Place You'd Most Want To Live (Interlude) |
+| A3 | Lord Have Mercy |
+| A4 | Sadie |
+| A5 | I Want You |
+| A6 | Wait Til I Get Over |
+| A7 | That Feeling |
+| B1 | See It Through (Interlude) |
+| B2 | See It Through  |
+| B3 | Someday We'll All Be Free |
+| B4 | Letter to My 17 Year Old Self |
+| B5 | Secrets |
 
 
 ## Apple Music
@@ -64,5 +64,5 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 | Format         | Vinyl LP Album Limited Edition (Blue [Blue Jay]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC280 |
-| Notes | B5 is a hidden track, title and credits are in the booklet.<br><br>Blue Jay Limited Edition with 20 page booklet and digital download. <br>Some copies were released early for RSD at Landlocked Music in Bloomington, Indiana with signing by Durand Jones himself.  Official Release Date is May 5th, 2023. |
+| Notes | B5 is a hidden track, title and credits are in the booklet.  Blue Jay Limited Edition with 20 page booklet and digital download.  Some copies were released early for RSD at Landlocked Music in Bloomington, Indiana with signing by Durand Jones himself.  Official Release Date is May 5th, 2023. |
 | Discogs URL    | [Durand Jones - Wait Til I Get Over](https://www.discogs.com/release/26858723-Durand-Jones-Wait-Til-I-Get-Over) |

@@ -31,20 +31,20 @@ styles: ["Ska", "Punk"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Our Only Weapon | 3:02 |
-| A2 | Last Dead Mouse | 3:38 |
-| A3 | Don't Know How To Party | 3:11 |
-| A4 | Someday I Suppose | 3:26 |
-| A5 | A Man Without | 2:45 |
-| A6 | Holy Smoke | 2:51 |
-| A7 | Illegal Left | 3:10 |
-| B1 | Tin Soldiers | 3:21 |
-| B2 | Almost Anything Goes | 4:09 |
-| B3 | Issachar | 3:45 |
-| B4 | What Was Was Over | 2:58 |
-| B5 | Seven Thirty Seven / Shoe Glue | 4:30 |
+| Position | Title |
+|----------|--------|
+| A1 | Our Only Weapon |
+| A2 | Last Dead Mouse |
+| A3 | Don't Know How To Party |
+| A4 | Someday I Suppose |
+| A5 | A Man Without |
+| A6 | Holy Smoke |
+| A7 | Illegal Left |
+| B1 | Tin Soldiers |
+| B2 | Almost Anything Goes |
+| B3 | Issachar |
+| B4 | What Was Was Over |
+| B5 | Seven Thirty Seven / Shoe Glue |
 
 
 ## Apple Music
@@ -61,5 +61,5 @@ styles: ["Ska", "Punk"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2292 |
-| Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.<br><br>Produced and recorded for Platinum Tones.<br>Recorded at Dreamland Studios, Woodstock, NY.<br>Mixed at Battery Studios, NYC.<br><br>Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V.<br>Made in the EU. |
+| Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU. |
 | Discogs URL    | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |

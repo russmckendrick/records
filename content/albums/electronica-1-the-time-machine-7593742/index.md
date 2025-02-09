@@ -41,24 +41,24 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Time Machine | 3:54 |
-| A2 | Glory | 4:12 |
-| A3 | Close Your Eyes | 6:15 |
-| A4 | Automatic (Part 1) | 3:06 |
-| A5 | Automatic (Part 2) | 3:03 |
-| B1 | If..! | 3:13 |
-| B2 | Immortals | 4:24 |
-| B3 | Suns Have Gone | 5:55 |
-| B4 | Conquistador | 3:09 |
-| C1 | Travelator (Part 2) | 3:10 |
-| C2 | Zero Gravity | 7:12 |
-| C3 | Rely On Me | 2:54 |
-| C4 | Stardust | 4:37 |
-| D1 | Watching You | 4:09 |
-| D2 | A Question Of Blood | 2:58 |
-| D3 | The Train & The River | 7:13 |
+| Position | Title |
+|----------|--------|
+| A1 | The Time Machine |
+| A2 | Glory |
+| A3 | Close Your Eyes |
+| A4 | Automatic (Part 1) |
+| A5 | Automatic (Part 2) |
+| B1 | If..! |
+| B2 | Immortals |
+| B3 | Suns Have Gone |
+| B4 | Conquistador |
+| C1 | Travelator (Part 2) |
+| C2 | Zero Gravity |
+| C3 | Rely On Me |
+| C4 | Stardust |
+| D1 | Watching You |
+| D2 | A Question Of Blood |
+| D3 | The Train & The River |
 
 
 ## Apple Music
@@ -76,5 +76,5 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Aero Productions |
 | Catalog Number | 88843018981 |
-| Notes | ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH.<br>Made in the E.U.<br><br>Gatefold sleeve with printed innersleeves.<br>First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.<br><br>Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".<br><br>Other Photos: DR (Droits Réservés / Rights Reserved) |
+| Notes | ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Gatefold sleeve with printed innersleeves. First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.  Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".  Other Photos: DR (Droits Réservés / Rights Reserved) |
 | Discogs URL    | [Jean-Michel Jarre - Electronica 1: The Time Machine](https://www.discogs.com/release/7593742-Jean-Michel-Jarre-Electronica-1-The-Time-Machine) |

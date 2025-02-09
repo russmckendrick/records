@@ -28,18 +28,18 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Jack Shit George | 4:23 |
-| A2 | The Passing Show | 4:24 |
-| A3 | You're My Baby | 3:30 |
-| A4 | Honeysuckle Highway | 4:49 |
-| A5 | Itinerant Child | 4:46 |
-| B1 | Geraldine | 3:37 |
-| B2 | Cacka Boom | 4:49 |
-| B3 | Bed O' Roses No. 9 | 5:19 |
-| B4 | Heavy Living | 5:08 |
-| B5 | Mash It Up Harry | 5:53 |
+| Position | Title |
+|----------|--------|
+| A1 | Jack Shit George |
+| A2 | The Passing Show |
+| A3 | You're My Baby |
+| A4 | Honeysuckle Highway |
+| A5 | Itinerant Child |
+| B1 | Geraldine |
+| B2 | Cacka Boom |
+| B3 | Bed O' Roses No. 9 |
+| B4 | Heavy Living |
+| B5 | Mash It Up Harry |
 
 
 ## Apple Music
@@ -57,5 +57,5 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC62 |
-| Notes | Durations from playlist editor.<br>... & The vest is yet to come<br>Manufactured under licence from Templemill Music Ltd |
+| Notes | Durations from playlist editor.  ... & The vest is yet to come  Manufactured under licence from Templemill Music Ltd |
 | Discogs URL    | [Ian Dury And The Blockheads - Mr Love Pants](https://www.discogs.com/release/7235873-Ian-Dury-And-The-Blockheads-Mr-Love-Pants) |

@@ -29,17 +29,17 @@ styles: ["Jazz-Rock"]
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Aim |  |
-| A2 | On A Wave Of Positivity |  |
-| A3 | Dog Day |  |
-| A4 | A Place To Stay |  |
-| A5 | Sonata In H |  |
-| B1 | Witness (For Bobby) |  |
-| B2 | Dearest Blood |  |
-| B3 | Big News For A Small Day |  |
-| B4 | Iron Horse (Bonus Track) |  |
+| Position | Title |
+|----------|--------|
+| A1 | Aim |
+| A2 | On A Wave Of Positivity |
+| A3 | Dog Day |
+| A4 | A Place To Stay |
+| A5 | Sonata In H |
+| B1 | Witness (For Bobby) |
+| B2 | Dearest Blood |
+| B3 | Big News For A Small Day |
+| B4 | Iron Horse (Bonus Track) |
 
 
 ## Apple Music
@@ -56,5 +56,5 @@ styles: ["Jazz-Rock"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1133 |
-| Notes | -25th anniversary LP reissue of Gavin Harrison's debut album. <br>-Remastered with an exclusive bonus track and new original artwork.<br> |
+| Notes | -25th anniversary LP reissue of Gavin Harrison's debut album.  -Remastered with an exclusive bonus track and new original artwork.  |
 | Discogs URL    | [Gavin Harrison - Sanity & Gravity](https://www.discogs.com/release/21992293-Gavin-Harrison-Sanity-Gravity) |

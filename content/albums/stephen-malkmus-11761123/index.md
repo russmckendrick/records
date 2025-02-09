@@ -32,20 +32,20 @@ Stephen Joseph Malkmus ( MALK-miss; born May 30, 1966) is an American musician b
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Black Book |  |
-| A2 | Phantasies |  |
-| A3 | Jo Jo's Jacket |  |
-| A4 | Church On White |  |
-| A5 | The Hook |  |
-| A6 | Discretion Grove |  |
-| B1 | Troubbble |  |
-| B2 | Pink India |  |
-| B3 | Trojan Curfew |  |
-| B4 | Vague Space |  |
-| B5 | Jenny & The Ess-Dog |  |
-| B6 | Deado |  |
+| Position | Title |
+|----------|--------|
+| A1 | Black Book |
+| A2 | Phantasies |
+| A3 | Jo Jo's Jacket |
+| A4 | Church On White |
+| A5 | The Hook |
+| A6 | Discretion Grove |
+| B1 | Troubbble |
+| B2 | Pink India |
+| B3 | Trojan Curfew |
+| B4 | Vague Space |
+| B5 | Jenny & The Ess-Dog |
+| B6 | Deado |
 
 
 ## Apple Music
@@ -63,5 +63,5 @@ Stephen Joseph Malkmus ( MALK-miss; born May 30, 1966) is an American musician b
 | Format         | Vinyl LP Album Reissue (180 g) |
 | Label          | Domino |
 | Catalog Number | WIGLP90 |
-| Notes | Includes a download card and a custom inner sleeve.<br><br>Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake)<br>Master EQ: [...] at Sterling<br><br>Songs ©2001 Double Six/Universal Island Music<br>℗&©2001 Domino Recording Co Ltd<br>Made in the EU |
+| Notes | Includes a download card and a custom inner sleeve.  Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake) Master EQ: [...] at Sterling  Songs ©2001 Double Six/Universal Island Music ℗&©2001 Domino Recording Co Ltd Made in the EU |
 | Discogs URL    | [Stephen Malkmus - Stephen Malkmus](https://www.discogs.com/release/11761123-Stephen-Malkmus-Stephen-Malkmus) |

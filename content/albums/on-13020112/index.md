@@ -34,20 +34,20 @@ On is the second studio album by English alternative rock band Echobelly. Gainin
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Car Fiction |  |
-| A2 | King Of The Kerb |  |
-| A3 | Great Things |  |
-| A4 | Natural Animal |  |
-| A5 | Go Away |  |
-| A6 | Pantyhoses And Roses |  |
-| B1 | Something Hot In A Cold Country |  |
-| B2 | Four Letter Word |  |
-| B3 | Nobody Like You |  |
-| B4 | In The Year |  |
-| B5 | Dark Therapy |  |
-| B6 | Worms And Angels |  |
+| Position | Title |
+|----------|--------|
+| A1 | Car Fiction |
+| A2 | King Of The Kerb |
+| A3 | Great Things |
+| A4 | Natural Animal |
+| A5 | Go Away |
+| A6 | Pantyhoses And Roses |
+| B1 | Something Hot In A Cold Country |
+| B2 | Four Letter Word |
+| B3 | Nobody Like You |
+| B4 | In The Year |
+| B5 | Dark Therapy |
+| B6 | Worms And Angels |
 
 
 ## Apple Music
@@ -65,5 +65,5 @@ On is the second studio album by English alternative rock band Echobelly. Gainin
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Orange) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2250 |
-| Notes | ℗ 1995 Rhythm King Records. <br>© 1995, 2018 Distribution Sony Music Entertainment.<br>Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.<br><br>Cat#: MOVLP2250 appears on back cover, front sticker and spine. <br><br>Sticker on front:<br>Music On Vinyl<br>Echobelly<br>“On”<br>Limited Edition of 750 Numbered Copies on Orange Vinyl<br>Contains Insert<br><br>180 gram audiophile vinyl. |
+| Notes | ℗ 1995 Rhythm King Records.  © 1995, 2018 Distribution Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.  Cat#: MOVLP2250 appears on back cover, front sticker and spine.   Sticker on front: Music On Vinyl Echobelly “On” Limited Edition of 750 Numbered Copies on Orange Vinyl Contains Insert  180 gram audiophile vinyl. |
 | Discogs URL    | [Echobelly - On](https://www.discogs.com/release/13020112-Echobelly-On) |

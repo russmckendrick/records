@@ -46,16 +46,16 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | If I'm In Luck I Might Get Picked Up |  |
-| A2 | Walkin Up The Road |  |
-| A3 | Anti Love Song |  |
-| A4 | Your Man My Man |  |
-| B1 | Ooh Yea |  |
-| B2 | Steppin In Her I. Miller Shoes |  |
-| B3 | Game Is My Middle Name |  |
-| B4 | In The Meantime |  |
+| Position | Title |
+|----------|--------|
+| A1 | If I'm In Luck I Might Get Picked Up |
+| A2 | Walkin Up The Road |
+| A3 | Anti Love Song |
+| A4 | Your Man My Man |
+| B1 | Ooh Yea |
+| B2 | Steppin In Her I. Miller Shoes |
+| B3 | Game Is My Middle Name |
+| B4 | In The Meantime |
 
 
 ## Apple Music
@@ -73,5 +73,5 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 | Format         | Vinyl LP Album Club Edition Reissue Remastered Repress Stereo (Silver & Blue Splatter, 180g) |
 | Label          | Light In The Attic |
 | Catalog Number | LITA 026 |
-| Notes | Sticker:<br>- VMP exclusive reissue<br>- Gatefold, foil-stamped jacket<br>- Remastered from original tapes<br>- 180g silver & blue vinyl<br> - Liner notes booklet + coloring sheet<br><br>Originally released as Just Sunshine Records JSS-5, 1973<br><br>Sides referred as Side 1 and Side 2 on the sleeve.<br><br>© 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP).<br>Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC.<br>1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC. |
+| Notes | Sticker: - VMP exclusive reissue - Gatefold, foil-stamped jacket - Remastered from original tapes - 180g silver & blue vinyl  - Liner notes booklet + coloring sheet  Originally released as Just Sunshine Records JSS-5, 1973  Sides referred as Side 1 and Side 2 on the sleeve.  © 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP). Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC. 1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC. |
 | Discogs URL    | [Betty Davis - Betty Davis](https://www.discogs.com/release/10549758-Betty-Davis-Betty-Davis) |

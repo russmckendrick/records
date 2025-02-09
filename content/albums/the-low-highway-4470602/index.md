@@ -31,20 +31,20 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Low Highway | 4:01 |
-| A2 | Calico County | 3:01 |
-| A3 | Burnin' It Down | 2:57 |
-| A4 | That All You Got?  | 3:00 |
-| A5 | Love's Gonna Blow My Way | 2:49 |
-| A6 | After Mardi Gras | 4:06 |
-| B1 | Pocket Full Of Rain | 3:13 |
-| B2 | Invisible  | 4:21 |
-| B3 | Warren Hellman's Banjo | 1:46 |
-| B4 | Down The Road Part II | 2:36 |
-| B5 | 21st Century Blues | 3:38 |
-| B6 | Remember Me | 4:35 |
+| Position | Title |
+|----------|--------|
+| A1 | The Low Highway |
+| A2 | Calico County |
+| A3 | Burnin' It Down |
+| A4 | That All You Got?  |
+| A5 | Love's Gonna Blow My Way |
+| A6 | After Mardi Gras |
+| B1 | Pocket Full Of Rain |
+| B2 | Invisible  |
+| B3 | Warren Hellman's Banjo |
+| B4 | Down The Road Part II |
+| B5 | 21st Century Blues |
+| B6 | Remember Me |
 
 
 ## Apple Music
@@ -62,5 +62,5 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 | Format         | Vinyl LP Album |
 | Label          | New West Records |
 | Catalog Number | NW5073 |
-| Notes | 180 gram pressing.<br>Lyrics on inner sleeve <br><br>Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee<br>Additional mastering for vinyl at NRP - Nashville, Tennessee<br><br>© & ℗ 2013 New West Records, LLC<br>All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI) |
+| Notes | 180 gram pressing. Lyrics on inner sleeve   Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee Additional mastering for vinyl at NRP - Nashville, Tennessee  © & ℗ 2013 New West Records, LLC All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI) |
 | Discogs URL    | [Steve Earle  The Dukes And Duchesses - The Low Highway](https://www.discogs.com/release/4470602-Steve-Earle-The-Dukes-And-Duchesses-The-Low-Highway) |

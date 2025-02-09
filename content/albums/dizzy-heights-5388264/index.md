@@ -30,19 +30,19 @@ Dizzy Heights, released in February 2014, is the third solo album by New Zealand
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | Impressions |  |
-| A2 | Dizzy Heights |  |
-| A3 | Flying In The Face Of Love |  |
-| A4 | Divebomber |  |
-| A5 | Better Than TV |  |
-| A6 | Pony Ride |  |
-| B1 | White Lies And Alibis |  |
-| B2 | Recluse |  |
-| B3 | Strangest Friends |  |
-| B4 | In My Blood |  |
-| B5 | Lights Of New York |  |
+| Position | Title |
+|----------|--------|
+| A1 | Impressions |
+| A2 | Dizzy Heights |
+| A3 | Flying In The Face Of Love |
+| A4 | Divebomber |
+| A5 | Better Than TV |
+| A6 | Pony Ride |
+| B1 | White Lies And Alibis |
+| B2 | Recluse |
+| B3 | Strangest Friends |
+| B4 | In My Blood |
+| B5 | Lights Of New York |
 
 
 ## Apple Music

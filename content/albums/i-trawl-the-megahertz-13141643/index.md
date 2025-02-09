@@ -31,17 +31,17 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | I Trawl The Megahertz |  |
-| C2 | Esprit De Corps |  |
-| C3 | Fall From Grace |  |
-| C4 | We Were Poor.... |  |
-| C5 | Orchid 7 |  |
-| D6 | I'm 49 |  |
-| D7 | Sleeping Rough |  |
-| D8 | Ineffable |  |
-| D9 | ....But We Were Happy |  |
+| Position | Title |
+|----------|--------|
+| A1 | I Trawl The Megahertz |
+| C2 | Esprit De Corps |
+| C3 | Fall From Grace |
+| C4 | We Were Poor.... |
+| C5 | Orchid 7 |
+| D6 | I'm 49 |
+| D7 | Sleeping Rough |
+| D8 | Ineffable |
+| D9 | ....But We Were Happy |
 
 
 ## Apple Music
@@ -59,5 +59,5 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 | Format         | Vinyl LP Single Sided Etched (White, 180g), Vinyl LP (White, 180g), All Media Album Limited Edition Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88985411061 |
-| Notes | ℗ & © 2019 Paddy McAloon under exclusive license to Sony Music Entertainment UK Limited. Made in the EU.<br>Design studio credited as Hoof.net.au<br><br>Limited edition of 1000 copies pressed on 180g white vinyl, available exclusively from Rough Trade.<br>Includes download code. Sticker with barcode for this edition blocking barcode printed on back cover. Gatefold jacket, printed inner sleeves, with lyrics and credits on A/B inner sleeve. Release title listed as I Trawl The Megahertz Remastered on spine and labels. Tracks listed sequentially from 01. to 09. on back cover.<br><br>Hype sticker on front cover:<br>"2LP<br>Remastered from the original tapes, overseen by Paddy McAloon<br>Side B fully etched<br>180 gram heavy weight vinyl<br>+ download code<br>88985411061"<br><br>Originally issued in 2003 as [m53413], this reissue credited to Prefab Sprout.<br><br>From around 4th February 2019 Rough Trade's website reported that "The LPX2+ is currently off sale due to a manufacturing fault. Updates will follow".<br><br>In March 2019 a new press was released for sale and sent out as replacement for the faulty copies. The repress can be found here: <br>[r=13351529]. |
+| Notes | ℗ & © 2019 Paddy McAloon under exclusive license to Sony Music Entertainment UK Limited. Made in the EU. Design studio credited as Hoof.net.au  Limited edition of 1000 copies pressed on 180g white vinyl, available exclusively from Rough Trade. Includes download code. Sticker with barcode for this edition blocking barcode printed on back cover. Gatefold jacket, printed inner sleeves, with lyrics and credits on A/B inner sleeve. Release title listed as I Trawl The Megahertz Remastered on spine and labels. Tracks listed sequentially from 01. to 09. on back cover.  Hype sticker on front cover: "2LP Remastered from the original tapes, overseen by Paddy McAloon Side B fully etched 180 gram heavy weight vinyl + download code 88985411061"  Originally issued in 2003 as [m53413], this reissue credited to Prefab Sprout.  From around 4th February 2019 Rough Trade's website reported that "The LPX2+ is currently off sale due to a manufacturing fault. Updates will follow".  In March 2019 a new press was released for sale and sent out as replacement for the faulty copies. The repress can be found here:  [r=13351529]. |
 | Discogs URL    | [Prefab Sprout - I Trawl The Megahertz](https://www.discogs.com/release/13141643-Prefab-Sprout-I-Trawl-The-Megahertz) |

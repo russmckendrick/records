@@ -37,20 +37,20 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 
 
 ## Tracklisting
-| Position | Title | Duration |
-|----------|-------|----------|
-| A1 | The Hollow | 2:58 |
-| A2 | Magdalena | 4:04 |
-| A3 | Rose | 3:25 |
-| B1 | Judith | 4:05 |
-| B2 | Orestes | 4:47 |
-| B3 | 3 Libras | 3:37 |
-| C1 | Sleeping Beauty (Extended Intro) | 5:02 |
-| C2 | Thomas | 3:28 |
-| C3 | Renholdër | 2:23 |
-| D1 | Thinking Of You | 4:32 |
-| D2 | Breña | 4:04 |
-| D3 | Over (Alt.) | 2:43 |
+| Position | Title |
+|----------|--------|
+| A1 | The Hollow |
+| A2 | Magdalena |
+| A3 | Rose |
+| B1 | Judith |
+| B2 | Orestes |
+| B3 | 3 Libras |
+| C1 | Sleeping Beauty (Extended Intro) |
+| C2 | Thomas |
+| C3 | Renholdër |
+| D1 | Thinking Of You |
+| D2 | Breña |
+| D3 | Over (Alt.) |
 
 
 ## Apple Music
@@ -68,5 +68,5 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gatefold, 180g) |
 | Label          | Virgin |
 | Catalog Number | 7243 8 49253 1 4 |
-| Notes | Tracks A2, C1, D1 mixed at The Mix Room, Burbank, CA. Tracks A1, A3, B1, B2, B3, C2, C3, D2, D3 mixed at Extasy Studios, North Hollywood, CA. Engineered at Perfect Circle Studios, North Hollywood, CA except as noted: Drums on tracks A1, B2, B3, C3, D2 recorded at The Chop Shop, Hollywood, CA; Drums on tracks A2, A3, B1, C1, C2, D1, D2 recorded at Sound City, Van Nuys, CA; Drums on track C3 recorded at Extasy Studios, North Hollywood, CA. Mastered at Oasis Mastering.<br><br>Billy Howerdel credited in full as Producer on back cover, but as Billy in the booklet.<br><br>Published by Transfixed Music/ASCAP and Harry Merkin Music/ASCAP.<br>℗&© 2000 Virgin Records America, Inc. Manufactured by Virgin Records America, Inc. Printed in the USA.<br><br>Front sticker: <br>"From The Capitol Vaults <br>180 Gram Vinyl <br>Audiophile Quality <br>Faithfully Restored<br><br>Limited Edition" |
+| Notes | Tracks A2, C1, D1 mixed at The Mix Room, Burbank, CA. Tracks A1, A3, B1, B2, B3, C2, C3, D2, D3 mixed at Extasy Studios, North Hollywood, CA. Engineered at Perfect Circle Studios, North Hollywood, CA except as noted: Drums on tracks A1, B2, B3, C3, D2 recorded at The Chop Shop, Hollywood, CA; Drums on tracks A2, A3, B1, C1, C2, D1, D2 recorded at Sound City, Van Nuys, CA; Drums on track C3 recorded at Extasy Studios, North Hollywood, CA. Mastered at Oasis Mastering.  Billy Howerdel credited in full as Producer on back cover, but as Billy in the booklet.  Published by Transfixed Music/ASCAP and Harry Merkin Music/ASCAP. ℗&© 2000 Virgin Records America, Inc. Manufactured by Virgin Records America, Inc. Printed in the USA.  Front sticker:  "From The Capitol Vaults  180 Gram Vinyl  Audiophile Quality  Faithfully Restored  Limited Edition" |
 | Discogs URL    | [A Perfect Circle - Mer De Noms](https://www.discogs.com/release/1450554-A-Perfect-Circle-Mer-De-Noms) |
