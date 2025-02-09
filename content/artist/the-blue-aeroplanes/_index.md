@@ -1,0 +1,12 @@
+---
+title: "The Blue Aeroplanes"
+summary: |
+  English indie rock band founded in 1981 in Bristol by ex-members of short-lived punk band Art Objects by brothers Gerard and John, along with dancer Wojtek. The name Blue Aeroplanes comes from the Polish "Niebieske Samoloty" which was originally going to be the name of Wojtek's brother's band. The band feature an ever-changing lineup, which (as of 2016) includes 41 ex-members, a feat only beaten by The Fall. Gerard, John and Wojtek have been the only mainstays since the band's inception, although John left the band between 1990 and 2004 and went on to be drummer for Strangelove during this time. Ex (and current) members have gone on to be members of Primal Scream, Witness, Massive Attack and Strangelove. The band tend to end their live sets with "Breaking In My Heart", which has been known to feature multiple guest guitarists on stage playing the main riff, this included members of R.E.M. in the early 1990s when the Aeroplanes were tour support, where they also had a total of 15 guitarists playing simultaneously. REM's famous song "Losing My Religion" is also said to be written about Gerard.
+slug: "the-blue-aeroplanes"
+image: "the-blue-aeroplanes.jpg"
+apple_music_artist_url: ""
+wikipedia_url: ""
+discogs_url: "https://www.discogs.com/artist/94895-The-Blue-Aeroplanes"
+---
+
+English indie rock band founded in 1981 in Bristol by ex-members of short-lived punk band Art Objects by brothers Gerard and John, along with dancer Wojtek. The name Blue Aeroplanes comes from the Polish "Niebieske Samoloty" which was originally going to be the name of Wojtek's brother's band. The band feature an ever-changing lineup, which (as of 2016) includes 41 ex-members, a feat only beaten by The Fall. Gerard, John and Wojtek have been the only mainstays since the band's inception, although John left the band between 1990 and 2004 and went on to be drummer for Strangelove during this time. Ex (and current) members have gone on to be members of Primal Scream, Witness, Massive Attack and Strangelove. The band tend to end their live sets with "Breaking In My Heart", which has been known to feature multiple guest guitarists on stage playing the main riff, this included members of R.E.M. in the early 1990s when the Aeroplanes were tour support, where they also had a total of 15 guitarists playing simultaneously. REM's famous song "Losing My Religion" is also said to be written about Gerard.
