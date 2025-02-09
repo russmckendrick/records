@@ -83,7 +83,7 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dots_and_Loops |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear, Expanded Edition) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP | 1× All Media (Clear, Expanded Edition) Limited Edition, Numbered |
 | Label          | Warp Records |
 | Catalog Number | none |
 | Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997.  Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk. Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.  Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion.   Remastered album plus a bonus disc of demos and alternate versions  Fold out poster and DL card  Numbered on hype sticker  The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]        |

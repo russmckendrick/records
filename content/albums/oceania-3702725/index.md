@@ -65,7 +65,7 @@ The album was a critical and commercial success, debuting at number four on the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oceania_(The_Smashing_Pumpkins_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Martha's Music |
 | Catalog Number | MM 002 |
 | Notes | Gatefold packaging, with lyrics printed inside the sleeve. 180 grams pressing.  Issued with a hype sticker including barcode stating: "Oceania  First studio album from The Smashing Pumpkins in 5 years On Tour Fall 2012"  Nicole Fiorentino's name is misspelled "Florentino" in the credits.  Runouts are etched. |

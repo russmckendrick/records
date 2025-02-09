@@ -66,7 +66,7 @@ The band toured extensively to support the record, performing to over 1.7 millio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Joyride_(Roxette_album) |
-| Format         | Vinyl LP Album Reissue Stereo (Transparent Orange Marbled, Gatefold) |
+| Format         | 1× Vinyl (Transparent Orange Marbled, Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 5054197107177 |
 | Notes | Back cover: Made in Germany  Glossy gatefold cover  |

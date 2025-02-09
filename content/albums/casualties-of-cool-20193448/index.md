@@ -89,7 +89,7 @@ A number of guests performed on the album, including Morgen Ågren of Kaipa on d
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Casualties_of_Cool |
-| Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
+| Format         | 2× Vinyl (180g) LP, Album | 1× CD Album | 1× All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 493 |
 | Notes | © 2014 HevyDevy Records - Issued under license from HevyDevy Records to InsideOutMusic © 2021 HevyDevy Records - Issued under license to Century Media Records Ltd., under exclusive license from InsideOutMusic - LC 01414 - IOMLP 493 DIstributed by Sony Music Entertainment All trademarks and logos are protected Made in the EU - Sony Music Entertainment International Services GmBH - PO Box 510 - 33311 Gütersloh, Germany 19439883971  Gatefold sleeve Booklet |

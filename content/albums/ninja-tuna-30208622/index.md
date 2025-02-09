@@ -81,7 +81,7 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ninja_Tuna |
-| Format         | Vinyl 3× LP Album Deluxe Edition Reissue |
+| Format         | 3× Vinyl LP, Album, Deluxe Edition, Reissue |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN143 |
 | Notes | Gatefold release, first time on vinyl Cover includes peel-able tuna sticker |

@@ -78,7 +78,7 @@ Star Trek II: The Wrath of Khan is a 1982 science fiction film directed by Nicho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_of_Star_Trek_II:_The_Wrath_of_Khan |
-| Format         | Vinyl 2× LP Deluxe Edition Limited Edition (Blue/Purple Marble "Mutara Nebula") |
+| Format         | 2× Vinyl (Blue/Purple Marble "Mutara Nebula") LP, Deluxe Edition, Limited Edition |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-032 |
 | Notes | Deluxe expanded soundtrack.  |

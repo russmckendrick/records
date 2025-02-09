@@ -58,7 +58,7 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Who_(album) |
-| Format         | Vinyl LP Album Limited Edition Picture Disc |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Picture Disc |
 | Label          | Polydor |
 | Catalog Number | 0830402 |
 | Notes | The First Studio Album since 2006  Includes free digital download code of all songs of "Who"  ℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited  Made in the EU  |

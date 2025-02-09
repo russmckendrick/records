@@ -53,7 +53,7 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Green Splatter) |
+| Format         | 1× Vinyl (Green Splatter) LP, Album, Limited Edition |
 | Label          | Rise Above Records |
 | Catalog Number | RISELP124 |
 | Notes | Album is also known as "Opus Eponymous".     Recorded at Manfire Recordings.  Additional recordings done at White Light Studio.  Mixed and mastered at Orgone Mastering.    ℗ 2010 Rise Above.  © 2010 Rise Above.    Limited to 300 on green with black splatter .   |

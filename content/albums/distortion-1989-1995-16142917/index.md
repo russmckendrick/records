@@ -166,7 +166,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Limited Edition, Vinyl LP Album Reissue (Clear With Yellow & Brown Splatter, 140g), Vinyl LP Album Reissue (Clear With Orange & Grey Splatter, 140g), Vinyl LP Album Reissue (Clear With Yellow & Blue Splatter, 140g), Vinyl LP Album Reissue (Clear With Red & Green Splatter, 140g), Vinyl LP Album Reissue (Clear With Blue & White Splatter, 140g), Vinyl 2× LP Compilation Reissue (Clear With Red & Purple Splatter, 140g), Vinyl LP Compilation (Clear, 140g) |
+| Format         | 1× Box Set Limited Edition | 1× Vinyl (Clear With Yellow & Brown Splatter, 140g) LP, Album, Reissue | 1× Vinyl (Clear With Orange & Grey Splatter, 140g) LP, Album, Reissue | 1× Vinyl (Clear With Yellow & Blue Splatter, 140g) LP, Album, Reissue | 1× Vinyl (Clear With Red & Green Splatter, 140g) LP, Album, Reissue | 1× Vinyl (Clear With Blue & White Splatter, 140g) LP, Album, Reissue | 2× Vinyl (Clear With Red & Purple Splatter, 140g) LP, Compilation, Reissue | 1× Vinyl (Clear, 140g) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX48X |
 | Notes | ℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced. |

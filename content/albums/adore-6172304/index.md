@@ -63,7 +63,7 @@ The result was a much more subdued and electronica-tinged sound that Greg Kot of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Adore_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Virgin |
 | Catalog Number | 6 02537 89926 5 |
 | Notes | Comes with 2 types of innersleeve; 1 type is blanck, 2nd type is printed innersleeves (both are different, one with lyrics and one with  credits) |

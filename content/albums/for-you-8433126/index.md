@@ -66,7 +66,7 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/For_You_(Prince_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-9 |
 | Notes | Original 1978 vinyl mastering by Bernie Grundman at A&M (artwork) Reissue 2016 vinyl mastering by Kevin Gray at Cohearant Audio (matrix/runout) |

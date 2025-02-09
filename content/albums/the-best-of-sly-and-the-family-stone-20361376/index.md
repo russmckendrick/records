@@ -68,7 +68,7 @@ styles: ["Funk", "Psychedelic", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Stereo (Pink, Transparent) |
+| Format         | 2× Vinyl (Pink, Transparent) LP, Compilation, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Epic |
 | Catalog Number | MOVLP125 |
 | Notes | Limited Edition of 2000 Copies (numbered) |

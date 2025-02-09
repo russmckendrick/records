@@ -61,7 +61,7 @@ The Sophtware Slump is the second studio album by American indie rock band Grand
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Sophtware_Slump |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | The Control Group |
 | Catalog Number | CGO073 |
 | Notes | On inner sleeve : All tracks published by Genghis Music/Deadlineless Music (admin. in the USA by BMG Songs, Inc.) (ASCAP) The Sophtware Slump was recorded at Little Portugal in Modesto by Lytle with occasional on/off switch assistance by Fairchild.  The color of spring reverb and other shades were applied and mixed at Robo Crops in Modesto by Lytle.  Final gloss and glue by Calbi.  On back cover : ℗ & © 2010 The Control Group, LLC. Master recording exclusively licensed from Eone Music. All rights administered by eOne Music Entertainment U.S. All tracks written and produced by Jason Lytle. All songs published by Genghis Music/Deadlineless/Music of V2 America . All rights administered by Blue Mountain Music.  Sticker on the wrapping says:  "This is quite possibly the last great entry in the atmospheric pop canon" - Pitchfork  Remastered at Sterling Sound  Label cat# is "CGO073" on back cover and "CGO 073" on spine |

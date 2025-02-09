@@ -112,7 +112,7 @@ styles: ["Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 6× LP Compilation Limited Edition |
+| Format         | 6× Vinyl LP, Compilation, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX80 |
 | Notes | Limited edition of 1000 copies include exclusive print signed by Tony Visconti |

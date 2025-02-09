@@ -66,7 +66,7 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nina_Simone_Sings_the_Blues |
-| Format         | Vinyl LP Album Club Edition Reissue Stereo (Blue, Gatefold) |
+| Format         | 1× Vinyl (Blue, Gatefold) LP, Album, Club Edition, Reissue, Stereo |
 | Label          | RCA Victor |
 | Catalog Number | 88985317261 |
 | Notes | Gatefold sleeve. Comes with an art print and an extra liner with a cocktail recipe and album notes.  © 1967, 2016 RCA Records, a division of Sony Music Entertainment / Originally released 1967. Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded in RCA Victor's Studio B, New York City.  Library of Congress Card Numbers R67-2922 (Mono) and R67-2923 (Stereo) apply to this recording.  Mastered from the original analog tapes [...] @ Sterling Sound, NYC |

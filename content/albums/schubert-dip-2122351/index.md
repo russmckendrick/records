@@ -60,7 +60,7 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Schubert_Dip |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Parlophone |
 | Catalog Number | PCS 7353 |
 | Notes | Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.  Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".  Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"  [Record labels, rim text] Manufactured in England by EMI Records Limited  [Record label side A] ℗ 1991... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Record label side B] ℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Inner sleeve, back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd. Sleeve printed in England. Manufactured in England. SP9105GU  [Runouts] All runout data is stamped. |

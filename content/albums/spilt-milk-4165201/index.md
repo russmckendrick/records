@@ -62,7 +62,7 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spilt_Milk_(Jellyfish_album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-6 |
 | Notes | Full title: Jellyfish Presents Spilt Milk   Cut from original analog masters.  First time on LP in the U.S.  Pressed on 180-Gram Vinyl!  Black vinyl edition  As confirmed by John Golden via email (and reported on the Steve Hoffman forum);  "The source was 1/2” 30 ips analog.  The tape legend says Ocean Way Recording, dated 4-7-1990. The artist marked on the tape boxes as Beatnik Beatch and was changed to Jellyfish. The first set of lacquers I cut were damaged at the pressing plant (RTI) before any pressing were made and were re-cut, that’s why it is scribed Re1." |

@@ -62,7 +62,7 @@ While Shangri-La Dee Da was not as commercially successful as its predecessors, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shangri-La_Dee_Da |
-| Format         | Vinyl LP Album Limited Edition Reissue (Yellow/Orange Splatter) |
+| Format         | 1× Vinyl (Yellow/Orange Splatter) LP, Album, Limited Edition, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 83449 |
 | Notes | A Rocktober 2024 release. Neon yellow + neon orange splatter vinyl. Includes a double-sided, printed insert. The track durations on the labels differ from those on the lyrics sheet. The label timings have been used above.  Printed on the shrink wrap: Made in Canada  this Reissue ℗ & © 2024, 2001 Atlantic Recording Corporation, a Warner Music group Company. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Canada.  Recorded at The Malibu House, Malibu, CA Mixed at Southern Tracks, Atlanta, GA Mastered... at Gateway Mastering & DVD, Portland, ME  All songs © 2001 Milksongs/WB Music Corp., (ASCAP)/Foxy Dead Girl Music/EMI April Music, (ASCAP).  Lyric sheet timings: A1. (2:51) A2. (2:35) A3. (3:40) A4. (2:44) A5. (3:48) A6. (3:27) A7. (4:22) B1. (2:47) B2. (3:54) B3. (5:05) B4. (3:16) B5. (4:15) B6. (4:32) |

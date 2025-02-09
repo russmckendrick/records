@@ -74,7 +74,7 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Meliora_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE237751 |
 | Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped     |

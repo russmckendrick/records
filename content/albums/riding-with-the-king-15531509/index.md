@@ -69,7 +69,7 @@ The album was generally well received by reviewers, although some felt that it c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Riding_with_the_King_(B._B._King_and_Eric_Clapton_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Blue, 180 Gram, Gatefold) |
+| Format         | 2× Vinyl (Blue, 180 Gram, Gatefold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |
 | Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.  “Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.  Made in the Netherlands |

@@ -63,7 +63,7 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Purple_(Stone_Temple_Pilots_album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP816 |
 | Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94)   "Big Empty" recorded at the Record Plant on May 25th '93  "Loungefly" recorded at Paisley Park on July 12th '93  "Pretty Penny" recorded at Harptone Studios   180 gram audiophile vinyl with four page insert showing images of the masters   Originally released ℗ & © 1994 Atlantic Records  This release ℗ & © 2013 Warner Music   Made in the EU |

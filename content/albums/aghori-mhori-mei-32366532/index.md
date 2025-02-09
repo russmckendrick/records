@@ -63,7 +63,7 @@ Upon the albums release, critical and fan reception was generally positive. Many
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aghori_Mhori_Mei |
-| Format         | Vinyl LP Album (Independent Record Store Edition) |
+| Format         | 1× Vinyl (Independent Record Store Edition) LP, Album |
 | Label          | Martha's Music |
 | Catalog Number | 06537LP |
 | Notes | Hype sticker: "Independent Record Store Exclusive"  ℗ & © 2024 Martha's Music  The Independent Record Store Edition comes with a poster.  No country indicated on the sleeve   |

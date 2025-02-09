@@ -60,7 +60,7 @@ The second single to be released from the album was an edited version of "Accide
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_You_Can%27t_Stand_the_Heat... |
-| Format         | Vinyl LP Album Reissue (180gr) |
+| Format         | 1× Vinyl (180gr) LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723771 |
 | Notes | Die-cut gatefold sleeve Comes with a poster and an insert.  © 1978 Mercury Records Limited/Universal Music Catalogue ℗ 1978 Mercury Records Limited    |

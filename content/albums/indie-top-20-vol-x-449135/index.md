@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT010 |
 | Notes | Comes in a gatefold sleeve. |

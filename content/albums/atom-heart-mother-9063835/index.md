@@ -59,7 +59,7 @@ Although it was commercially successful on release, the band – particularly Ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Atom_Heart_Mother |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP5 |
 | Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1970 Made in the E.U. www.pinkfloyd.com  The US release can be found [url=http://www.discogs.com/release/9093776]here[/url]  Issued in gatefold sleeve with generic non-printed inner sleeve. Hype sticker contains extended information about production (see images). Matrix/Runout variant 3 version has also glossy inner pages like the outside, whereas matrix/runout variant 1 has the more matte inner pages. |

@@ -62,7 +62,7 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_England_Shake |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Island Records |
 | Catalog Number | 2758997 |
 | Notes | Made in Dorset, April - May 2010. Mixed at Assault & Battery.  Published by Hot Head Music Ltd./EMI Music Publishing Ltd. except: Track A1 Xylophone Melody adapted from the song 'Istanbul (Not Constantinople)'. Track A3 contains elements from 'The Bed's Too Big Without You' by The Police; also includes a sample of 'Regimental March' bugle call. Track A4 contains elements from 'Summertime Blues'. Track B1 contains a sample of 'Kassem Miro'. Track B5 contains a sample of 'Blood & Fire'. Tracks A5 & B6 inspired by the writings of L.A. Carlyon & the words of Vic Nicholson in 'Voices Of Gallipoli' by Maurice Shadbolt. Tracks A3 & B2 are inspired in part by extracts from 'Russian Folk Lyrics', edited and translated by Roberta Reeder, with an Introductory Essay by V. Ja. Propp.  ℗2010 Universal Island Records Ltd. ©2010 Universal Island Records Ltd. A Universal Music Company.  Made in the EU  Pressing plant and cutting facility/engineer derived from matrix.  Runouts are machine-etched, only "JONZ LOUDº¯" is hand-etched.  Comes with a printed inner sleeve. |

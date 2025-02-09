@@ -62,7 +62,7 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/90125 |
-| Format         | Vinyl LP Album Limited Edition Reissue (Tri-Color, 140g) |
+| Format         | 1× Vinyl (Tri-Color, 140g) LP, Album, Limited Edition, Reissue |
 | Label          | ATCO Records |
 | Catalog Number | RCV1 90125 |
 | Notes | Pink colored front sticker states:  35th Anniversary Tri-Color Vinyl Edition Contains the hits Leave It Owner Of A Lonely Heart If Can Happen 603497860685  140 gram Vinyl coloured in Blue, Yellow and Pink.  Rear cover and Record label states ‘Made in EU . LC02982 . 603497860685 |

@@ -60,7 +60,7 @@ The album was a number one hit in the Irish Album Charts upon release, and also 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_This_Is_Rock_and_Roll,_I_Want_My_Old_Job_Back |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Solid Records (4) |
 | Catalog Number | Rock 7 |
 | Notes | All songs recorded at loco studios in Wales and mixed at Windmill Lane Studios in Dublin.    Track 14 recorded and mixed at Windmill Lane  Track 7 recorded live at the Barrowlands, Glasgow, March 1989  |

@@ -69,7 +69,7 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Masterplan_(album) |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 241 |
 | Notes | Gatefold sleeve.  Track durations not shown on release.  Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.  ℗ & © 1998 Creation Records Ltd.  |

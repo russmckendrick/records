@@ -56,7 +56,7 @@ Street Songs is the fifth studio album by American musician Rick James, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Street_Songs |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Gordy |
 | Catalog Number | G 1002 |
 | Notes | Includes voucher to download MP3 version of the album.  On back cover : ℗ 1981 Motown Records Company L.P. A Universal Music Company © 1981 Motown Records Company L.P. A Universal Music Company Made in the EU. LC 01846. 0600753160107  On inner sleeve : Steve Price, courtesy of A&M Records Michael Narada Walden, courtesy of Atlantic Recording Corp. Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records. |

@@ -60,7 +60,7 @@ Bellybutton was released to critical acclaim and peaked at No. 124 on US charts.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bellybutton_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Charisma |
 | Catalog Number | CUSLP3 |
 | Notes | This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release. |

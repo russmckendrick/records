@@ -60,7 +60,7 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_Psychedelic_Therapy |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Domino |
 | Catalog Number | WIGLP458X |
 | Notes | WIGLP458X on hype sticker, WIGLP458 on spine.  Hype sticker: LIMITED EDITION DOUBLE CLEAR VINYL includes BONUS TRACK: SINGING BOWL (ASCENSION) plus DOWNLOAD CODE 8 87828 04583 9 WIGLP458X  ℗+© 2021/2022 Domino Recording Co. Ltd. Made in the EU.  Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.  'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation |

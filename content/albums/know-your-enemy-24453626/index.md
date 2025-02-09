@@ -82,7 +82,7 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Know_Your_Enemy_(Manic_Street_Preachers_album) |
-| Format         | Vinyl LP Album, Vinyl LP Album, All Media Remastered (180 g) |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× All Media (180 g) Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439988681 |
 | Notes | A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.  Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail. Top opening picture inner sleeves of thin card. Hype stickered shrink-wrap.  A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.  Tracks on each album are numbered sequentially. All runout characters are etched excepting the pressing numbers between "- -", which are stamped.  Made in the EU. |

@@ -109,7 +109,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Gold Translucent With Black Smoke [Golden Hair], 180g), Vinyl LP Album Reissue (Green Marble [Baby Lemonade], 180g ), Vinyl LP Album Reissue (Clear With Black Smoke [Milky Way Opel], 180g), Vinyl 7" 45 RPM Single |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl (Gold Translucent With Black Smoke [Golden Hair], 180g) LP, Album, Reissue | 1× Vinyl (Green Marble [Baby Lemonade], 180g ) LP, Album, Reissue | 1× Vinyl (Clear With Black Smoke [Milky Way Opel], 180g) LP, Album, Reissue | 1× Vinyl 7", 45 RPM, Single |
 | Label          | Third Man Records |
 | Catalog Number | TMR-944 |
 | Notes | The lyric of "Golden Hair" is from a poem by James Joyce. Permission for use granted by The Society of Authors, literary representatives of the estate of James Joyce.  The back cover of The Madcap Laughs reads "SIDE ONE" on the tracklisting for both sides.  Durations are only listed for The Madcap Laughs on the back cover.  Runouts are etched. |

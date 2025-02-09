@@ -57,7 +57,7 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/There_Is_No_Love_in_Fluorescent_Light |
-| Format         | Vinyl 2× LP Album Limited Edition (Bone) |
+| Format         | 2× Vinyl (Bone) LP, Album, Limited Edition |
 | Label          | Last Gang Records |
 | Catalog Number | Q101943 |
 | Notes | Limited to 500 copies. Pressed on 140g bone vinyl, double gatefold. Includes Digital Download. |

@@ -65,7 +65,7 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hellfire_(Black_Midi_album) |
-| Format         | Vinyl LP Album Limited Edition Special Edition (Transparent Red), Flexi-disc 7" Single Sided (Transparent Red) |
+| Format         | 1× Vinyl (Transparent Red) LP, Album, Limited Edition, Special Edition | 1× Flexi-disc (Transparent Red) 7", Single Sided |
 | Label          | Rough Trade |
 | Catalog Number | RT00321LPE |
 | Notes | Housed in a gatefold sleeve and includes a sticker  Side A ends on a locked groove  'Half Time' is only mentioned in credits/lyrics on gatefold.  Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade   'Limited Edition' and 'Special Edition' on hype sticker |

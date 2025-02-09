@@ -58,7 +58,7 @@ Dizzy Heights, released in February 2014, is the third solo album by New Zealand
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dizzy_Heights_(Neil_Finn_album) |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Lester Records |
 | Catalog Number | LRNF0011LP |
 | Discogs URL    | [Neil Finn - Dizzy Heights](https://www.discogs.com/release/5388264-Neil-Finn-Dizzy-Heights) |

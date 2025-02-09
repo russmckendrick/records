@@ -79,7 +79,7 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cobra_and_Phases_Group_Play_Voltage_in_the_Milky_Night |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP | 1× All Media (Clear) Limited Edition, Numbered |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D23RC |
 | Notes | Limited edition numbered clear vinyl edition (2500 copies)  With scratch card to win an exclusive Stereolab record at end of the year. Remastered from original tapes. Bonus disk of unreleased demos, outtakes and alternate mixes. Co-released by band’s own label Duophonic UHF Disks and Warp Records. Fold-out poster insert with lyrics and sleevenotes from Laetitia Sadier and Tim Gane. Vinyl comes in bespoke gatefold sleeve with download card, housed inside a heavyweight clear PVC wallet.  |

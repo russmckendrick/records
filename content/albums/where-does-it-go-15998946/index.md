@@ -50,7 +50,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Adassa |
 | Catalog Number | ADASSA003 |
 | Notes | Glossy black inner sleeve with track list, times, writers credits on each side Originally issued October 2nd, 2020 in UK, generell unchnaged repress issued January 29th, 2021 |

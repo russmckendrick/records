@@ -62,7 +62,7 @@ Internal Wrangler is the debut studio album by British indie rock band Clinic. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Internal_Wrangler |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Domino |
 | Catalog Number | WIGLP78 |
 | Notes | Printed inner sleeve. Made in the UK.  This edition featuring Domino UK division catalogue number WIGLP78 on artwork and labels also distributed in the US. Copies distributed in the US come with an additional sticker printed with: [barcode] DOMUS01 • Clinic • Internal Wrangler Distributed by Revolver USA • www.mindheaven.com |

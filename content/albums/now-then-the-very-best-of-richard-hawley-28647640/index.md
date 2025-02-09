@@ -76,7 +76,7 @@ styles: ["Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Blue / Black Split), Vinyl LP (White / Blue Split), All Media Compilation Stereo |
+| Format         | 1× Vinyl (Blue / Black Split) LP | 1× Vinyl (White / Blue Split) LP | 1× All Media Compilation, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT843DLP |
 | Notes | Gatefold sleeve  Hype sticker on the shrink wrapping may be either: 1) burgundy (approx. 6cm diameter) 2) blue (approx. 7cm diameter) [see photos]  A limited edition was available from Bear Tree Records that included a Plectrum Pack. |

@@ -64,7 +64,7 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Every_Open_Eye |
-| Format         | Vinyl LP Album (White, 180 Gram) |
+| Format         | 1× Vinyl (White, 180 Gram) LP, Album |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3139 |
 | Notes | Released in a gatefold sleeve with printed lyric inner sleeve. Contains coupon for download of digital album.  Pre-orders from Chvrches' webstore came with a signed postcard while stocks lasted.  On back sleeve & labels: ℗ & © 2015 Chvrches, under exclusive licence to Virgin Records Ltd. Made in the EU.  On inner sleeve: Recorded at Alucard Studios, Glasgow, January - July 2015. Mastered at Gateway Mastering, Portland, Maine. All songs published by Universal Music Publishing Ltd.  |

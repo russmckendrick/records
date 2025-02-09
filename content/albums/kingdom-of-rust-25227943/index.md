@@ -69,7 +69,7 @@ The album was born from a tumultuous time in Doves' history, and followed a four
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kingdom_of_Rust |
-| Format         | Vinyl 2× LP Limited Edition Reissue (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Limited Edition, Reissue |
 | Label          | Heavenly |
 | Catalog Number | 0888252 |
 | Notes | Exclusive to the Doves official store, Sound Of Vinyl & Recordstore (Universal Music stores) on heavyweight double gold vinyl, hand numbered. Limited edition of 2000. |

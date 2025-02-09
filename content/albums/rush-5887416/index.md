@@ -65,7 +65,7 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rush_(Rush_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (200 Gram), Box Set |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Limited Edition, Reissue, Remastered | 1× Box Set |
 | Label          | Moon Records (18) |
 | Catalog Number | MN 100 |
 | Notes | ReDISCovered - Limited edition 200g 40th anniversary reissue of 1974 Moon Records album - Jacket art features all original 1974 details - Exclusive poster, band photo prints and Rush family tree - Digital download card - 320 kbps - Vinyl ripped AAC MP4s - Direct Metal Mastering DMM  Published by Core Music, CAPAC Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios Tracks A3 and B1 to B4 recorded at Eastern Sound Remixed at Toronto Sound  DMM Mastering at Abbey Road Studios - December 2013  Moon Records is a subsidiary of SRO Productions Ltd.  ℗ © 2014 The Island Def Jam Music Group  On center labels: ℗ 1974 S.R.O. Productions All selections - MAPL  [url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release [url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |

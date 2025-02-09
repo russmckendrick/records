@@ -79,7 +79,7 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | 2657 014 |
 | Notes | Note:  A similar UK release with an A & B-side label variant, [url=http://www.discogs.com/release/7679401]is here.[/url] |

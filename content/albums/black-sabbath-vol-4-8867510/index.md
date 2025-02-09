@@ -66,7 +66,7 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Orange, Gatefold, 180g) |
+| Format         | 1× Vinyl (Orange, Gatefold, 180g) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2602 |
 | Notes | Comes with printed inner sleeve replicating the original 4 page photo booklet inside the gatefold sleeve. The record itself is supplied in a separate white polylined inner sleeve.  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS ORANGE VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "TOMORROW'S DREAM" & "SNOWBLIND" RRI 2602 |

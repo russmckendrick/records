@@ -56,7 +56,7 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soultrane |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Jazz Wax Records |
 | Catalog Number | JWR 4536 |
 | Notes | Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location) |

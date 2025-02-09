@@ -49,7 +49,7 @@ styles: ["Art Rock", "Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Etched Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) 12", 33 ⅓ RPM, Single Sided, EP, Etched, Stereo |
 | Label          | ISO Records |
 | Catalog Number | 88985419651 |
 | Notes | David Bowie's full name and cat# on spine On sleeve: Made in the EU. / LC00162 / 88985419651 On label: Made in the EU. / BIEM/GEMA / LC00162  The Bowie tracks previously only available on the Lazarus cast recording soundtrack are now available as an EP with digital download.  1st Vinyl release of earlier EP on CD [r9876483].  Note: Comes with a download code for a digital copy. From vinyl to digital  (offer valid to 31.12.2018). See: [r9627868].  Some copies of this vinyl were released with the incorrect sticker on the front that states "[url=https://www.discogs.com/David-Bowie-No-Plan-EP/release/10173317]Limited Edition Clear Vinyl[/url]" and the cat # 88985419621. |

@@ -47,7 +47,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 45 RPM Club Edition Limited Edition Numbered (Gold) |
+| Format         | 1× Vinyl (Gold) 10", 45 RPM, Club Edition, Limited Edition, Numbered |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-033 |
 | Notes | For the BMW X2 "Project Unfollow" Campaign. Gatefold cover, includes an insert. Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed |

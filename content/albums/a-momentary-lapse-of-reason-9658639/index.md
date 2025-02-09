@@ -65,7 +65,7 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Momentary_Lapse_of_Reason |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP13 |
 | Notes | ℗ 2016 Pink Floyd (1987) Ltd., marketed and distributed by Parlophone Records Ltd. © 2016 Pink Floyd (1987) Ltd. Made in the EU.  Original UK release date: September 1987  This album was recorded digitally, with the exception of the acoustic drums and bass guitar which were recorded analogue. Dolby SR noise reduction was used for mixing: mastered direct to metal.  Drums by Ludwig Drum Co. USA  Simmons Electronics UK and Paiste Cymbals  On sticker: "Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN" On cover (gatefold, bottom left): “Mastered by: James Guthrie, Joel Plante and Bernie Grundman. 2016”  |

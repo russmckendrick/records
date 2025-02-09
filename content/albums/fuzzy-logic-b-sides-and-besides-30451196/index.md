@@ -57,7 +57,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition Stereo (Green Bottle) |
+| Format         | 1× Vinyl (Green Bottle) LP, Record Store Day, Compilation, Limited Edition, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT870LP |
 | Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.  Manufactured in Germany  1500 copies. |

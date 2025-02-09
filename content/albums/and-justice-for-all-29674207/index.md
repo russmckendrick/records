@@ -58,7 +58,7 @@ styles: ["Thrash"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Dyers Green) |
+| Format         | 2× Vinyl (Dyers Green) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Blackened Recordings |
 | Catalog Number | BLCKND007R-1 |
 | Notes | Cover sticker reads "Metallica ... And Justice For All. Pressed on Limited Edition Dyers Green 2LP Vinyl BLCKND007R-1U" Made in Germany printed on back cover & on a sticker |

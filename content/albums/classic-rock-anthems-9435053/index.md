@@ -71,7 +71,7 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (180g, Gatefold) |
+| Format         | 2× Vinyl (180g, Gatefold) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP001 |
 | Notes | Vinyl exclusive.  2016 Demon Music Group Ltd. Marketed by Demon Music Group Ltd. London, W12 7FA The Demon Music Group is a BBC Worldwide Company  Thanks: Colin Auchterlonie, Adrian Sear, Ben Duke. |

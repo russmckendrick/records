@@ -97,7 +97,7 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 5× 10" 33 ⅓ RPM Compilation, Box Set |
+| Format         | 5× Vinyl 10", 33 ⅓ RPM, Compilation | 1× Box Set |
 | Label          | BMG |
 | Catalog Number | BMGCAT155EPX |
 | Notes | "The Blues. It's probably the most important thing that America has ever given to the World." - Keith Richards (on the back cover) "The Blues - The sound of a sinner on revival day." - W.C. Handy - the father of the blues (on the second page of the 40 pages inside book)  The box includes 5 x 10" vinyl, period inner sleeves, 6 x art cards, extended essay and iconic imagery of the blues legends.  On sticker on shrink: Original blues masterpieces hand picked and curated in collaboration with The Rolling Stones  Manufactured in the EU.  This compilation ℗ & © 2018 BMG Rights Management (UK) Limited / Universal Music Operations Ltd. |

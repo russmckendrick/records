@@ -55,7 +55,7 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Laughter_(Ian_Dury_%26_The_Blockheads_album) |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC57 |
 | Notes | Contains printed inner which shows Ian Horne and Wilco Johnson.  Some copies contain a sticker on the reverse stating "Ministry of Adults- WARNING!! SIDE 2 OF THIS RECORD MIGHT OR MIGHT NOT BE DISGUSTING". -------------------- Some other examples have the WARNING! sticker adhered to the left side of the front, and a small circular sticker top right 'INCLUDES THE SINGLE SUEPERMAN'S BIG SISTER'. ------------------  |

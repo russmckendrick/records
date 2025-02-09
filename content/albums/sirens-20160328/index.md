@@ -53,7 +53,7 @@ styles: ["Post Rock", "Stoner Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Tonzonen Records |
 | Catalog Number | TON109 |
 | Notes | Limited to 750 (red), Gatefold Cover, Download-Card, Poster  Recorded and mixed Tonstudio45, Lahnstein in 2020 Mastered by [...], Berlin in 2020-2021 Artwork : [...] : sulewski.net  Cat# 1 appears on rear cover Cat# 2 appears on spine |

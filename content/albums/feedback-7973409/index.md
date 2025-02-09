@@ -58,7 +58,7 @@ Feedback is an EP by Canadian rock band Rush, released in 2004. The record featu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Feedback_(EP) |
-| Format         | Vinyl 12" EP Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) 12", EP, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 83728 |
 | Notes | 30th anniversary album with Rush playing cover versions of songs from the 1966/1967 time, when they began to make music as thirteen and fourteen year old beginners. Comes in a gatefold sleeve without additional inserts.  Misprint on back: Produced by by David Leonard... |

@@ -53,7 +53,7 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Compilation, Reissue |
 | Label          | Madfish |
 | Catalog Number | SMALP1028 |
 | Notes | Solid Air: Classics Revisited is drawn from John Martyn's 1993 studio re-recordings of several of his back catalogue treasures (on which Martyn was joined by the likes of David Gilmour, Eric Clapton and Phil Collins).     Featuring 10 of Martyn's most essential songs, this Madfish re-release is now available on 180g vinyl.     Made in Germany |

@@ -59,7 +59,7 @@ styles: ["Ambient", "Field Recording"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Stereo (180g) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media (180g) Album, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439845051 |
 | Notes | Gatefold sleeve & wav 5.1 and wav Binaural download code  Made in the EU.  |

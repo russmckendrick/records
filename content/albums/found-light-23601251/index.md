@@ -63,7 +63,7 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Found_Light |
-| Format         | Vinyl LP Album Limited Edition (Pink Galaxy) |
+| Format         | 1× Vinyl (Pink Galaxy) LP, Album, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA1299V |
 | Notes | MADE IN CZECH REPUBLIC clear sticker on rear shrink wrap. BELLA 1299V on spine. Promo sticker on front shrink wrap. Includes insert with credits one side and art print on the other. Plain white paper inner sleeve with cutout. |

@@ -76,7 +76,7 @@ styles: ["New Wave", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Pink Translucent) |
+| Format         | 2× Vinyl (Pink Translucent) LP, Compilation |
 | Label          | Sony Music |
 | Catalog Number | LPNNNOW122 |
 | Discogs URL    | [Various - Now That's What I Call Punk & New Wave](https://www.discogs.com/release/21874351-Various-Now-Thats-What-I-Call-Punk-New-Wave) |

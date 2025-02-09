@@ -64,7 +64,7 @@ The Darkest Skies Are the Brightest is the third solo studio album by Anneke van
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Darkest_Skies_Are_the_Brightest |
-| Format         | Vinyl LP Album (180g), CD Album |
+| Format         | 1× Vinyl (180g) LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 577 |
 | Notes | Comes as 180 gram black vinyl in a gatefold sleeve. Contains a two page printed lyrics sheet and the album on a CD. Front cover is signed when sold through Anneke van Giersbergen's online merchstore.     Made in the EU. |

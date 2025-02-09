@@ -82,7 +82,7 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Surfing_with_the_Alien |
-| Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
+| Format         | 1× Vinyl (Red) LP, Album | 1× Vinyl (Yellow) LP, Album, Mixed | 1× All Media (Gatefold) Limited Edition, Reissue, Special Edition |
 | Label          | Epic |
 | Catalog Number | 19075978611 |
 | Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU. |

@@ -70,7 +70,7 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jagged_Little_Pill |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Maverick |
 | Catalog Number | 8122797168 |
 | Notes | Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference. |

@@ -63,7 +63,7 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Babelsberg_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0010LP |
 | Notes | Gatefold Jacket with Obi Strip Includes download card for 320k MP3s. |

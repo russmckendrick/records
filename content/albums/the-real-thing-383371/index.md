@@ -59,7 +59,7 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | London American Recordings |
 | Catalog Number | 828 154-1 |
 | Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.    This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.    Includes a printed inner sleeve with graphics, photographs and credits.    Recorded December 1988 at Studio D, Sausalito, CA.  Mixed January 1989 at Blue Canyon, Studio City, CA.  Mastered at K-Disc, Los Angeles, CA.    Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.    ℗ 1989 Slash Records  © 1989 Slash Records   |

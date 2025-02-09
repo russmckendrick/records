@@ -51,7 +51,7 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Stereo (Purple vinyl) |
+| Format         | 1× Vinyl (Purple vinyl) LP, Limited Edition, Stereo |
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103361 |
 | Notes | 1st Pressing. 300 copies pressed worldwide in limited edition purple vinyl Includes lyric insert printed both sides with second side as reverse/mirror image.  Four Stroke Baron are: Kirk Witt - Guitars, Vocals Proudly uses ESP Guitars, D'Addario, Line-6 , Port City, TC Helicon, TC Electronic, and Telefunken  Matt Vallarino - Drums Proudly uses Meinl Cymbals, DW Drums, Vic Firth, and Evans.  Keegan Ferrari - Bass Proudly uses Warwick, D'Addario, Darkglass Electronics, Black Market Custom, Rockboard, TC Electronic, TC Helicon, and Shure |

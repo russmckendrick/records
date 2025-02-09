@@ -55,7 +55,7 @@ Fold Your Hands Child, You Walk Like a Peasant is the fourth album from the Scot
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fold_Your_Hands_Child,_You_Walk_Like_a_Peasant |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Matador |
 | Catalog Number | OLE 429-8 |
 | Notes | Includes mp3 download coupon. |

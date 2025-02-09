@@ -69,7 +69,7 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album) |
-| Format         | Vinyl LP Album Limited Edition Picture Disc Reissue (30th Anniversary Edition) |
+| Format         | 1× Vinyl (30th Anniversary Edition) LP, Album, Limited Edition, Picture Disc, Reissue |
 | Label          | Idlewild Recordings |
 | Catalog Number | IDLE154 |
 | Notes | Picture disc contains 5 zoetrope animations on side B. |

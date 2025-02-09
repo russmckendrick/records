@@ -79,7 +79,7 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent), CD Compilation |
+| Format         | 1× Vinyl (Red Transparent) LP, Album, Limited Edition, Reissue | 1× CD Compilation |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP29LP |
 | Notes | Package includes 12 track "The It Girl B Sides & Demos" CD (not available separately) and a double-sided 12"x12" print slipped inside the sleeve.  Pre-orders via band’s store included an additional one-sided signed print  The CD tracks are listed in the incorrect order on the sleeve. The correct order (confirmed by the CD text titles) is as above. The order on the sleeve is: 1. Paint Me 2. Pokerface 3. Package Holiday 4. Spies 5. She's A Sweetheart 6. Room At The Top 7. Sale Of The Century 8. Nice Guy Eddie 9. Good Luck Mr Gorsky 10. Dress Like Your Mother 11. Lamp Light On 12. Mr Blue  Timings taken from the CD.  |

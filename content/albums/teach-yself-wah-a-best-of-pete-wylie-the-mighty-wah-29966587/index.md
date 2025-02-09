@@ -60,7 +60,7 @@ styles: ["Post-Punk", "Art Rock", "Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo |
+| Format         | 2× Vinyl LP, Compilation, Stereo |
 | Label          | Chrysalis Records |
 | Catalog Number | WV0001 |
 | Discogs URL    | [Pete Wylie - Teach Yself WAH! - A Best of Pete Wylie & The Mighty WAH!](https://www.discogs.com/release/29966587-Pete-Wylie-Teach-Yself-WAH-A-Best-of-Pete-Wylie-The-Mighty-WAH) |

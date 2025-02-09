@@ -64,7 +64,7 @@ Following the album's release, a falling out with the band's record label, EMI, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/154_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF13LP |
 | Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Printed inner sleeve with credits and lyrics. |

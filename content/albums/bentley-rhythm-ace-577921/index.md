@@ -54,7 +54,7 @@ In August 2016 Richard March provided a track-by-track insight into some of the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bentley_Rhythm_Ace_(album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | 7243 8 21049 1 9 |
 | Discogs URL    | [Bentley Rhythm Ace - Bentley Rhythm Ace](https://www.discogs.com/release/577921-Bentley-Rhythm-Ace-Bentley-Rhythm-Ace) |

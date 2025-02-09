@@ -155,7 +155,7 @@ styles: ["Techno", "Electro", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album (Headphone Surround 3D), Vinyl LP Album |
+| Format         | 1× Box Set | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 2× Vinyl (Headphone Surround 3D) LP, Album | 1× Vinyl LP, Album |
 | Label          | Parlophone |
 | Catalog Number | 0190295923518 |
 | Notes | Sticker on release reads: 8 Album Vinyl Box-Set - New Recordings 2012-2016 Album 7 / Headphone Surround 3D + download card |

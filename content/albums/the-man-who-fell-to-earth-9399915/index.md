@@ -94,7 +94,7 @@ The Man Who Fell to Earth retains a cult following for its use of surreal imager
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Man_Who_Fell_to_Earth |
-| Format         | Box Set, CD 2× Album, Vinyl 2× LP |
+| Format         | 1× Box Set | 2× CD Album | 2× Vinyl LP |
 | Label          | UMC |
 | Catalog Number | 479 921-7 |
 | Notes | Box set featuring the first ever release of the original soundtrack on 2 CDs and 2 vinyl LPs, a 48 page hardback book with essay and unseen photos from the film featuring David Bowie, and an A1 sized poster.  Made in Germany.  ℗ 2016 UMC, a division of Universal Music Operations Ltd. © 2016 UMC, a division of Universal Music Operations Ltd. |

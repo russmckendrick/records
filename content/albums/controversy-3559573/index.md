@@ -62,7 +62,7 @@ The carnal delight of tracks like “Private Joy” and the raunchy romp “Jack
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Controversy_(Prince_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-6 |
 | Notes | ℗&© 1981 Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  Like most Rhino reissues - Rhino pressed both an EU version and a US version [[r3139564]]. This is the EU pressing.  Record Technology Incorporated and Optimal Media Production were identified from runout/matrix.  • Limited 180 grams audiophile with large fold-out poster of Prince in shower photo. • Mastered at Bernie Grundman Mastering from the Original Tapes |

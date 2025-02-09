@@ -72,7 +72,7 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exorcising_Ghosts |
-| Format         | Vinyl 2× LP Compilation Reissue (Half Speed Mastered) |
+| Format         | 2× Vinyl (Half Speed Mastered) LP, Compilation, Reissue |
 | Label          | Virgin EMI Records |
 | Catalog Number | ARHSDLP009 |
 | Notes | A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.  |

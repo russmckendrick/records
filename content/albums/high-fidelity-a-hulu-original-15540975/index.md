@@ -48,7 +48,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Compilation, Stereo |
 | Label          | Hollywood Records |
 | Catalog Number | MOND-163 |
 | Notes |  180 gram black vinyl |

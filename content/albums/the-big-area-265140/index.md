@@ -56,7 +56,7 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Area |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | London Records |
 | Catalog Number | 828 122-1 |
 | Notes | "Big Area" is featured in the movie "Slipstream".  Includes a printed inner sleeve with lyrics to all songs and credits.  Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)  Written and recorded in 1988.  Made in England.  © 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.  Durations do not appear on this release. Timings via stopwatch. |

@@ -67,7 +67,7 @@ styles: ["Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Green Petrol Transparent), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Green Petrol Transparent) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 044 |
 | Notes | Limited to 1000 copies. |

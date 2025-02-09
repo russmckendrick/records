@@ -57,7 +57,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Spinefarm Records |
 | Catalog Number | 0602547711557 |
 | Notes | Album has a sticker on shrinkwrap. Gatefold cover. |

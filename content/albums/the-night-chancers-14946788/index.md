@@ -61,7 +61,7 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Night_Chancers |
-| Format         | Vinyl LP Album Limited Edition (Crystal Clear, Heavyweight) |
+| Format         | 1× Vinyl (Crystal Clear, Heavyweight) LP, Album, Limited Edition |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASLL141LPC |
 | Notes | Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.  ℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.  Recorded at Hoxa Strings recorded at The Church. |

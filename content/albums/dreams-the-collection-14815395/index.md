@@ -55,7 +55,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | UMC |
 | Catalog Number | 5389805 |
 | Notes | Comes with a download card |

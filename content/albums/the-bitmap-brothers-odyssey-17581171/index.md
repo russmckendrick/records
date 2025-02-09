@@ -56,7 +56,7 @@ styles: ["Video Game Music"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (Transparent) |
+| Format         | 1× Vinyl (Transparent) LP, Compilation |
 | Label          | Read-Only-Memory Ltd. |
 | Catalog Number | ROM17 |
 | Notes | Tracks A3, A6, and A7 adapted for the Commodore Amiga by Richard Joseph  A1 sourced from the Atari ST A2-B6 sourced from the Commodore Amiga B7 sourced from the Roland MT-32  stamped runout groove: 219014E2/B |

@@ -61,7 +61,7 @@ styles: ["Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow [Emoji Yellow]) |
+| Format         | 1× Vinyl (Yellow [Emoji Yellow]) LP, Album, Limited Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT157LPX |
 | Notes | Hype Sticker: Limited Edition Indie Exclusive Emoji Yellow Vinyl ROCKACT157LPX Catalogue number on spine, back cover, inner sleeve and vinyl labels: ROCKACT157LP  Some copies came with a two-sided 12"x12" signed art print.  Includes a printed inner sleeve.  Assai Records retailed 300 copies of this release with an approved hand-numbered Japanese style Obi signed by Arab Strap under Assai Obi editions. Some copies included an art card with UK tour dates on the reverse.  Published by BMG Rights Management (UK) Ltd.  Cover painting: "Spadające Gwiazda" by Witold Pruszkowski, 1884. |

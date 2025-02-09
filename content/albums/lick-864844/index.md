@@ -58,7 +58,7 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lick_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | World Service |
 | Catalog Number | SERV 007 |
 | Notes | © 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H.  |

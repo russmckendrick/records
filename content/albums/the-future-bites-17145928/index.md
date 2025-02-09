@@ -73,7 +73,7 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Future_Bites |
-| Format         | Vinyl LP Album Limited Edition (Red, 180 Gram) |
+| Format         | 1× Vinyl (Red, 180 Gram) LP, Album, Limited Edition |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPC |
 | Notes | ℗&© 2021 Steven Wilson Productions Ltd  180g red vinyl in gatefold sleeve with O-Card slipcase, including a 16-page booklet with lyrics, credits and photos.  Early copies came with poster of cover signed by Steven Wilson.  All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC  Recorded at Muttley Ranch, London. Additional recording at Snap Studios. Mastered at Gateway Mastering, Portland, Maine.  Published by Hands Off It's Mine Publishing administered by Universal Music Publishing Group.  [a57103] appears courtesy of Virgin / EMI Records. [a1941784] appears courtesy of Everything Everything (and Kyle). [a432252] courtesy of [a28972] (track A3). [a1167068] and [a2265938] courtesy of [a337145] (track A4).  Runouts: - Runouts are machine-stamped except for '0866569' and the "geometric" marks which are hand-etched - "Geometric" marks are mirrored |

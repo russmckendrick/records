@@ -59,7 +59,7 @@ Gold Mother received generally positive reviews from music critics, some of whom
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold_Mother |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Fontana |
 | Catalog Number | 571 290-9 |
 | Discogs URL    | [James - Gold Mother](https://www.discogs.com/release/11284851-James-Gold-Mother) |

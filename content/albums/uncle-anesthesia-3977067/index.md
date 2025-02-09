@@ -60,7 +60,7 @@ Uncle Anesthesia is the fifth studio album by the American band Screaming Trees.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Uncle_Anesthesia |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Epic |
 | Catalog Number | MOVLP587 |
 | Notes | Matrix runouts are etched. |

@@ -58,7 +58,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Compilation, Reissue |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-149 |
 | Notes | Black vinyl version. Gatefold sleeve and obi strip. |

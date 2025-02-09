@@ -59,7 +59,7 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation |
+| Format         | 1× Vinyl LP, Record Store Day, Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1201 |
 | Notes | Record Store Day 2023 A collection of Singes & B-Sides Made in Germany Track A1: 1995 Original Self-Released Version Track A5: 2018 Remaster |

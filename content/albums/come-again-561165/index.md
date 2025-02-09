@@ -62,7 +62,7 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Derek_and_Clive_Come_Again |
-| Format         | Vinyl LP Album Repress |
+| Format         | 1× Vinyl LP, Album, Repress |
 | Label          | Virgin |
 | Catalog Number | V 2094 |
 | Notes | ℗ 1977 Virgin Records Ltd  © 1977 Aspera A.G.  Side One: Ay, Bee, See, You, En, Tee.  Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |

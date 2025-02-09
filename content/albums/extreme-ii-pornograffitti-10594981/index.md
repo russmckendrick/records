@@ -66,7 +66,7 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_II:_Pornograffitti |
-| Format         | Vinyl LP Album Limited Edition Numbered (Orange, 180g) |
+| Format         | 1× Vinyl (Orange, 180g) LP, Album, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP793 |
 | Notes | 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.  Recorded and mixed at Scream Studios, Studio City, CA Additional recording at Courtlen Studios, Hanson, MA Mastered at Sterling Sound, NYC  Original release ℗ 1990 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Made in the EU  Repress of the [url=https://www.discogs.com/release/4902118]original Music on Vinyl reissue[/url] from 2013 |

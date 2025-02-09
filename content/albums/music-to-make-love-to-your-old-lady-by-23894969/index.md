@@ -67,7 +67,7 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_to_Make_Love_to_Your_Old_Lady_By |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Bulk Recordings |
 | Catalog Number | BULK020LP |
 | Notes | "Lovage is an herb that is said to be a benefit for relieving abdominal pains due to gastrointestinal gas. It's also been touted to reduce flatulence when consumed as a tea brewed from its roots or leaves" - American Herbal Society Of Quebec. Dr. Neusbomb  The cover is a remake of [m4375].   ℗ © 2022 Bulk Recordings |

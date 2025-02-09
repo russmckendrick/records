@@ -63,7 +63,7 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_the_Masses |
-| Format         | Vinyl LP Album Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP942 |
 | Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.  ℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V.   Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.   Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.  Design & Artwork Photography at T&CP Assoc.  |

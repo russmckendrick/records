@@ -50,7 +50,7 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Sudarshan Disc |
 | Catalog Number | BBT 111 |
 | Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.  Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.  On labels: ℗ © 1978, Sudarshan Disc On sleeve: © Golden Lotus Productions 1978 |

@@ -62,7 +62,7 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Placebo_(Placebo_album) |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Elevator Music (4) |
 | Catalog Number | 6711042 |
 | Notes | Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996. Made in the EU Riverman Management.  Gatefold sleeve. Opening inside. Printed glossy inner sleeve. A Blue Source Sleeve. |

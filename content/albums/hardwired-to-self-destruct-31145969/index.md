@@ -64,7 +64,7 @@ Hardwired... to Self-Destruct was Metallica's sixth consecutive studio album to 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hardwired..._to_Self-Destruct |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Orange Translucent (Flame Orange)) |
+| Format         | 2× Vinyl (Orange Translucent (Flame Orange)) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Blackened |
 | Catalog Number | BLCKND031-1U |
 | Notes | 2 LP VINYL, comes in a gatefold jacket with 2 printed lyric insert sheets and hyper sticker on a front, "Made in Germany" sticker on a back & digital download card. |

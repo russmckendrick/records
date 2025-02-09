@@ -56,7 +56,7 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frenzy_(Split_Enz_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | AMLK 63153 |
 | Notes | A Boomerang Production. ℗ 1979 Mushroom Records Pty., Ltd. Track A1 engineered and co-produced at Startling Studios, Ascot, England, august 1978. Track A2 to A7 produced and engineered at The Manor Studios, England, november/december 1978. Track B1 to B7 produced and engineered at Quest Studios, Luton, Beds., U.K., june 1978 (The Rootin', Tootin' Luton Tapes). Split Enz wish to thank The Queen Elizabeth Arts Council. © 1981 A&M Records. Distributed by CBS Records Printed in Holland. Orinally recorded by Mushroom Records, Australia Pty., ℗ 1978.   All tracks remixed february 1981. Previously recorded tunes 1978-79. The collection of songs embodied on this album represents the recordings of Split Enz in England prior to the "True Colours" and "Waiata" albums (circa 1978-1979). All tracks except "I See Red" were remixed february, 1981, at Armstrongs Recording Studios, Melbourne, Australia.  Catalog# "AMLK 63153" appears on label. Catalog# "AMLE 63153" appears on rear cover, spine and innersleeve.  Comes with a lyric-innersleeve.  |

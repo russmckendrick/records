@@ -66,7 +66,7 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Kick_Inside |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3223 |
 | Notes | Fully laminated sleeve. Tan labels with red EMI logo. First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.  Recorded at AIR London Studios: July/August 1977 A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]  All songs published by EMI/Kate Bush © 1978 ℗ 1978 EMI Records Ltd. Made in Gt. Britain  Durations do not appear on this release. (Taken per stop watch.)  Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |

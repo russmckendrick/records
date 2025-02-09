@@ -64,7 +64,7 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roseland_NYC_Live |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Go! Beat |
 | Catalog Number | 559 424-1 |
 | Notes | According to the "320" stamped in the runouts, which refers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.  Single pocket sleeve, includes a foldout poster but unlike the original issue this reissue has no printed inner sleeves.  Some of the pressings came with wrongly centered labels on both sides of the first record.  On the B-side the label comes over the last part of the last song.    [On back sleeve]: ℗ 1998 Go Beat © 1998 Go Beat The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)  Runouts are stamped. |

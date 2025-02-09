@@ -66,7 +66,7 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Left_of_the_Middle |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | RCA |
 | Catalog Number | 74321544411 |
 | Notes |  Includes four page booklet 25th anniversary release 180g  A  [url=https://www.discogs.com/release/25225081-Natalie-Imbruglia-Left-Of-The-Middle]version[/url] including a signed booklet and with a different barcode was exclusively available as a pre-order from the artist's online store. |

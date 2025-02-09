@@ -81,7 +81,7 @@ World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/World_Wide_Funk |
-| Format         | Vinyl 2× LP Album Limited Edition (Splatter) |
+| Format         | 2× Vinyl (Splatter) LP, Album, Limited Edition |
 | Label          | Mascot Records (2) |
 | Catalog Number | M 75141 |
 | Notes | Hype sticker on shrink: 140 gram splatter 2-LP Download card included  Gatefold cover, spine: [Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141  Gatefold cover, back: [Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo] Ⓟ © 2017 Mascot Music Productions and Publishing B.V.  Includes 12-pages LP size comic book  Spoken Intro by Iggy Pop |

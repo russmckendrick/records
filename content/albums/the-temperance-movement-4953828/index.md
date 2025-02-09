@@ -59,7 +59,7 @@ The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Temperance_Movement_(band) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Earache |
 | Catalog Number | MOSH502LP |
 | Notes | A double classic LP.  If the LP has been bought from the Earache Webstore, it came with a download card. This allows to have the album in MP3 format with the 2 bonus tracks. |

@@ -56,7 +56,7 @@ styles: ["Post Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Eco Vinyl) |
+| Format         | 1× Vinyl (Eco Vinyl) LP, Album |
 | Label          | Tweed Jacket Music Ltd |
 | Catalog Number | TJMLP01 |
 | Notes | The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release. |

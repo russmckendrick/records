@@ -54,7 +54,7 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Patty_Patty_Sound |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
+| Format         | 1× Vinyl (180 g) 12", 33 ⅓ RPM, EP, Repress |
 | Label          | Regal |
 | Catalog Number | REGS 18 |
 | Notes | 180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |

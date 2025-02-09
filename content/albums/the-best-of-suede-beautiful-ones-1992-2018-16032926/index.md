@@ -97,7 +97,7 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation, Vinyl 6× LP (White, 180 Gram) |
+| Format         | 1× Box Set Compilation | 6× Vinyl (White, 180 Gram) LP |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX012 |
 | Notes | Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk] |

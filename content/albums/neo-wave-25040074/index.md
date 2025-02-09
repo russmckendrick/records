@@ -62,7 +62,7 @@ The album reached No. 74 on the UK Albums Chart. Two singles reached the UK top 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Neo_Wave |
-| Format         | Vinyl LP Album Reissue Stereo (140g) |
+| Format         | 1× Vinyl (140g) LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC920 |
 | Notes | 140g Black Vinyl |

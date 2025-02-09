@@ -62,7 +62,7 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hotel_California_(album) |
-| Format         | Vinyl LP Album Reissue Stereo (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Asylum Records |
 | Catalog Number | RRM1-1084 |
 | Notes | ℗ & © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S.  All Rights Reserved. Marketed by Warner Strategic Marketing, a Warner Music Group Company. Made in EU. LC02982   LP is pressed on 180 gram vinyl and replicates the original album packaging - which means that includes a replica of the poster from the original issue with band photos by Norman Seeff in full colour. |

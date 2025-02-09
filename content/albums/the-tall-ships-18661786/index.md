@@ -70,7 +70,7 @@ The Tall Ships was released in 2008, nineteen years after the release of the ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Tall_Ships |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered, CD Album Remastered |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Reissue, Remastered | 1× CD Album, Remastered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 584 |
 | Notes | Gatefold 2LP + CD + LP-Booklet. The fourth studio album from It Bites available on vinyl for the very first time. Newly remastered and featuring expanded liner notes on the making of the album. Black vinyl.  *The CD features two bonus tracks.  |

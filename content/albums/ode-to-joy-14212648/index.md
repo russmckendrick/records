@@ -61,7 +61,7 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ode_to_Joy_(Wilco_album) |
-| Format         | Vinyl LP Album Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition |
 | Label          | dBpm Records |
 | Catalog Number | DBPM-010-20-LP |
 | Notes | Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management. |

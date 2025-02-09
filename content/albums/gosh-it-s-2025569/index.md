@@ -63,7 +63,7 @@ Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gosh_It%27s_..._Bad_Manners |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Magnet (2) |
 | Catalog Number | MAGL 5043 |
 | Notes | Track A3 is based on the classical operetta by [r13333558].  Issued in a textured single sleeve and with a printed lyric inner sleeve.  Some copies include a poster of the band. |

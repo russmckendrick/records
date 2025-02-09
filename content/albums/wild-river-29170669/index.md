@@ -65,7 +65,7 @@ The term "wild river" may also more generically describe or identify free-flowin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wild_river |
-| Format         | Vinyl 2× LP |
+| Format         | 2× Vinyl LP |
 | Label          | Plane Groovy |
 | Catalog Number | PLG119 |
 | Notes | First ever vinyl edition featuring four live songs form 2004 plus a bonus studio track not available on the 2004 edition of the album. |

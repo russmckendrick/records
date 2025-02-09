@@ -65,7 +65,7 @@ In Keeping Secrets of Silent Earth: 3 is the second studio album by American pro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Keeping_Secrets_of_Silent_Earth:_3 |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 88843099221 |
 | Notes | Hype Sticker: "The Landmark Album. Newly remastered from original analog master tapes. 180 gram audiophile LP pressing. 2 LPs in a gorgeous gatefold sleeve. 88843099221"  Tracks are listed sequentially as they appear on the release |

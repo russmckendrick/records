@@ -56,7 +56,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Record Store Day, Compilation, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1049 |
 | Notes | Record Store Day August 2020 released as part of the [r13372828] box set. Compiled most (but not all) of the B-sides from the Six-era EPs  A1 originally released on [r1701888] A2 originally released on [r54866] A3 and A7 originally released on [r669712] A4 and B1 originally released on [r1701881] A5 and B3 originally released on [r669709] A6 and B2 originally released on [r1701884] B4 originally released on [r1701879] B5 originally released on [r1063776] |

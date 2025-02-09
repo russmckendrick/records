@@ -68,7 +68,7 @@ Less Is More is an acoustic studio album by Marillion, released on the band's ow
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Less_Is_More_(Marillion_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (White, 180 gram) |
+| Format         | 2× Vinyl (White, 180 gram) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0214647EMU |
 | Notes | Gatefold sleeve. - Limited Edition (1000 only) - Printed inner sleeves containing lyrics and credits  Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.  ℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH. MADE IN GERMANY  All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched.  |

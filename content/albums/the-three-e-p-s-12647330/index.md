@@ -83,7 +83,7 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Three_E.P.%27s |
-| Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Orange) LP | 1× Vinyl (Yellow) LP | 1× CD | 1× All Media Compilation, Limited Edition, Reissue, Remastered |
 | Label          | Because Music |
 | Catalog Number | BE5543747 |
 | Notes | First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website  |

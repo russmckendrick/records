@@ -69,7 +69,7 @@ styles: ["Bluegrass"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (Smoke Translucent Marble, Gatefold) |
+| Format         | 2× Vinyl (Smoke Translucent Marble, Gatefold) LP, Album, Stereo |
 | Label          | Martha's Music |
 | Catalog Number | MM001WPC |
 | Notes | Track durations do not appear on the release.  Made in the EU. |

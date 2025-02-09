@@ -63,7 +63,7 @@ Efflorescences can occur in natural and built environments. On porous constructi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Efflorescence |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 235 |
 | Notes | Mastered at Abbey Road Studios.    "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.  |

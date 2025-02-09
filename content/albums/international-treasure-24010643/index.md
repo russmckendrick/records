@@ -55,7 +55,7 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow Citrine) |
+| Format         | 1× Vinyl (Yellow Citrine) LP, Album, Limited Edition |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH265S |
 | Notes | Indies Only Citrine Yellow Vinyl limited to 700 copies |

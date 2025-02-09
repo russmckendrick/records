@@ -66,7 +66,7 @@ Flood is the 1994 debut full-length album by the English rock band Headswim, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(Headswim_album) |
-| Format         | Vinyl LP Album Reissue, Vinyl LP (Yellow) |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl (Yellow) LP |
 | Label          | Epic |
 | Catalog Number | TAR055V |
 | Notes | 2022 reissue (black vinyl) with second vinyl (yellow) in gatefold sleeve with additional notes |

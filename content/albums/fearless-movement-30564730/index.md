@@ -71,7 +71,7 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fearless_Movement_(album) |
-| Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition Stereo |
+| Format         | 1× Vinyl (Red) LP | 1× Vinyl (Blue) LP | 1× All Media Album, Limited Edition, Stereo |
 | Label          | Young (5) |
 | Catalog Number | YO350LPE |
 | Notes | Back cover lists tracks in sequential order regardless of sides.  Runouts are etched.  [Back cover]: ℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young  [Gatefold]: Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |

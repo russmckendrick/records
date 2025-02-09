@@ -76,7 +76,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Die Cut Slipcase) |
+| Format         | 2× Vinyl (Die Cut Slipcase) LP, Album |
 | Label          | Legacy |
 | Catalog Number | 19075982711 |
 | Notes | Sticker: Nick Mason's Saucerful Of Secrets Perform Over Two Hours Of Early Pink Floyd Filmed Live At The Roundhouse In London 2LP Features Arnold Layne, See Emily Play & Set The Controls For The Heart Of The Sun  This Product Contains : --Die Cut Slipcase & Printed Inner Bags -- MP3 Download Card  Sleeve gatefold Made in the EU.  Runouts etched, except [MPO logo] 20...... , stamped |

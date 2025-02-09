@@ -59,7 +59,7 @@ In League With Dragons is the seventeenth studio album by the Mountain Goats, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_League_with_Dragons |
-| Format         | Vinyl 2× LP Album (Green), Vinyl 7" 45 RPM, All Media Limited Edition (Peak Vinyl Version) |
+| Format         | 2× Vinyl (Green) LP, Album | 1× Vinyl 7", 45 RPM | 1× All Media (Peak Vinyl Version) Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG679A |
 | Notes |  Peak Vinyl version version on green vinyl. Housed in a gatefold jacket with full lyrics. Includes an exclusive black vinyl 7" featuring two non-album tracks, a full download of the album and bonus tracks and a poster. |

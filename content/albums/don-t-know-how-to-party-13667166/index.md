@@ -59,7 +59,7 @@ styles: ["Ska", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2292 |
 | Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU. |

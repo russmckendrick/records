@@ -54,7 +54,7 @@ styles: ["Indie Pop", "Synth-pop", "Electro", "House", "Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVNLP1RX |
 | Notes | ℗ 2018 Saint Etienne Limited. © 2018 Saint Etienne Limited. Originally released in 2009.   Re-produced for blackmelody.com  Engineered and mixed for interfaceyourmusic.com  Original Foxbase Alpha engineered at Cat Music, Mitcham  Additional Augmentation: Luke's Recorder, Tottenham Court Road, Roland HS60, Casio MT40, advance Music Systems Of Burnley, Pounds Shillings and Pence, Small Stone, Hard And Soft Moogs, The Crystaliser, DW6000, The Mighty Wurlitzer, A Wing And A Prayer. Mastered at Electric Mastering, London  Published by Warner Chappell   Limited to 1,000 copies, available to preorder exclusively at the Saint Etienne online store on 21st November 2018 and sent out on 29th November. Some copies ("a couple of boxes" according to [a465952]) were put aside at the time of initial release and eventually retailed by [l438096] in late June 2019.  2018 sleeve notes by Richard X, printed inner sleeve, includes download card. No barcode. Download release [r12967147]. |

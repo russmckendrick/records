@@ -65,7 +65,7 @@ The album artwork is a still image from avant-garde cut-out animation film, Heav
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slowdive_(album) |
-| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Format         | 1× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Dead Oceans |
 | Catalog Number | DOC132 |
 | Notes | DOC132: The catalog number is printed on the spine.  DOC132LPC1: The catalog number is printed on the barcode sticker.   Housed in a gatefold cover, including a digital download for the entire album. Originally retailed sealed in shrinkwrap with an informational hype sticker adhered to front, noting the limited edition silver vinyl edition. An additional barcode sticker was adhered to back, covering the barcode printed on the back cover and featuring a custom catalog number. Both stickers are affixed to the outside of shrinkwrap.  Limited to 8000 copies worldwide.   1000 copies were hand-signed by the entire band in silver and gold ink, raffled exclusively from selected independent record stores in the United States.   From the back cover and the labels side A and B:  © & ℗ 2017 Dead Oceans, Inc.   From the gatefold inner:  Halstead published by Little Homestead Songs Goswell/Savill/Chaplin/Scott copyright control   recorded at The Courtyard Studio in Sutton Courtenay, Sound Gallery in Exeter,  The White House in Kewstoke, The Farm 2 in St Merryn and Zigzag Music Productions in Hilton   cover art by [...], film #12: Heaven and Earth Magic ca 1957-1962   |

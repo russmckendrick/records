@@ -57,7 +57,7 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition (Gold, Translucent) |
+| Format         | 1× Vinyl (Gold, Translucent) LP, Album, Record Store Day, Limited Edition |
 | Label          | Trojan Records |
 | Catalog Number | TBL 1037 |
 | Notes | Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.  Sticker: "Long lost album released for the first time!" Record Store Day 2019. Ltd edition of 500  Packaged with a printed inner sleeve with lyrics and archive pictures.  Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.  Timings not listed  Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers. |

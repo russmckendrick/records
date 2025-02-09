@@ -57,7 +57,7 @@ Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aft
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frozen_(1997_film) |
-| Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
+| Format         | 1× Vinyl (White marbled) 12", EP, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12031 |
 | Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. |

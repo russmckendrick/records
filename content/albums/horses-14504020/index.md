@@ -55,7 +55,7 @@ Even at her artiest, Smith doesn’t flinch or distance herself with irony, turn
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Horses_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Arista |
 | Catalog Number | 19075995581 |
 | Notes | Clear Vinyl Rough Trade Exclusive Limited to 1000 copies 2019 Rough Trade Exclusive Edition with 'Rough Trade Essentials' Obi Strip |

@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Yellow Vinyl) |
+| Format         | 1× Vinyl (Yellow Vinyl) LP, Album, Limited Edition, Reissue |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251X |
 | Notes | Limited Yellow Vinyl. |

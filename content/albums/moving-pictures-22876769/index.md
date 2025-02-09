@@ -111,7 +111,7 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moving_Pictures_(Rush_album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl 5× LP Stereo, All Media Deluxe Edition (40th Anniversary, Half-Speed Mastered, 180g), Box Set |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 5× Vinyl LP, Stereo | 1× All Media (40th Anniversary, Half-Speed Mastered, 180g) Deluxe Edition | 1× Box Set |
 | Label          | Anthem Entertainment |
 | Catalog Number | B0033537-01 |
 | Notes | Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.  Slipcase containing: Moving Pictures Album in single cover with one sheet insert Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6 Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10 24 page LP sized booklet  Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC  ℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan, ℗ 2021 Anthem Entertainment LP for Canada and Japan, © 2021 Anthem Entertainment LP/UMG Recordings, Inc.   |

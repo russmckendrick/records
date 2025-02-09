@@ -74,7 +74,7 @@ styles: ["Indie Pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Reissue (Blue Translucent), Vinyl LP Compilation (Yellow Translucent), All Media Album Reissue Remastered (Expanded Edition) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Reissue | 1× Vinyl (Yellow Translucent) LP, Compilation | 1× All Media (Expanded Edition) Album, Reissue, Remastered |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1946 |
 | Notes | Gatefold sleeve  Newly remastered by Phil Kinrade at AIR Mastering, the double LP version on translucent blue and yellow vinyl to reflect the signature colours used on the1992 The Love Album and will be a must have for all Carter and indie fans.  The vinyl features the complete album in its original running order on LP 1 – including the band’s biggest chart hit ‘The Only Living Boy In New Cross’ which reached No. 7 on the UK Singles Chart plus Top 40 singles ‘Do Re Me, So Far So Good’ and ‘The Impossible Dream’, (a cover of the Man of La Mancha standard).  LP 2 features ‘1992 – The Other Love Songs’, the complete collection of B-sides from the period plus the non-album Top 20 A-side ‘After The Watershed (Early Learning The Hard Way)’.  Limited edition 2LP expanded edition.   nb: Signed by both Jim Bob and Fruitbat only from Carter USM webshop as pre-order. |

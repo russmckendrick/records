@@ -68,7 +68,7 @@ Along with Bad Religion's Stranger than Fiction, Green Day's Dookie and The Offs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/...And_Out_Come_the_Wolves |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Gold, 180g) |
+| Format         | 1× Vinyl (Gold, 180g) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Epitaph |
 | Catalog Number | 7441-1 |
 | Notes | To celebrate the 20th anniversary of this very special release in our history, Epitaph Records is proud to present the deluxe 20th Anniversary edition of Rancid’s …and Out Come The Wolves. Released at the height of the 90’s wave of punk resurgence, …and Out Come The Wolves is arguably on the most important albums of that decade and features tracks that became punk standards. – Audiophile 180 gram gold vinyl – Remastered from the original master tapes – Includes giant poster and lyric sheet LP contains Download card.Comes with fold-out poster. Limited to 1500 copies  ©+℗ 1995 Epitaph Records All songs published by I Want To Go Where The Action Is Music (King Roy Music B.M.I.)  Intro to A1 from the movie "Gringo" by Lech Kowalski. Thanks to [a=Jim Carroll] for coming down & writing a poem to our song. |

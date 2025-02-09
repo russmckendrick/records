@@ -69,7 +69,7 @@ New Forms was promoted by the release of its four singles, "Share the Fall", "He
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Forms |
-| Format         | Vinyl 2× LP Album Deluxe Edition Remastered |
+| Format         | 2× Vinyl LP, Album, Deluxe Edition, Remastered |
 | Label          | UMC |
 | Catalog Number | 5773719 |
 | Notes | 20th anniversary deluxe edition.  Records housed in a gatefold jacket.  All tracks have been remastered.  Includes a download code for all tracks from the [url=https://www.discogs.com/Roni-Size-Reprazent-New-Forms/release/11152835]CD version[/url].  Track C1 samples: Flute from Luiz Arruda Paez - Upa Neguinho Vocal from Moloko - Boo Guitar from The Brand New Heavies - Brother Sister  Track C4 samples: Horns from Everything But The Girl - Each And Every One  ℗ 2017 Mercury Records Limited, a division of Universal Music Operations Limited. © 2017 Mercury Records Limited, a division of Universal Music Operations Limited. Made in the EU. - printed on cover and labels.  This differs from the one disc CD version in that 'Mad Cat' is not included, the running order is changed, and two tracks ('Trust Me' & 'Change My Life') have been included from CD 2 in the 2xCD edition. When compared to the original 4xLP version, this one has dropped 'Mat Cat' in favour of the two tracks mentioned above, as well as featuring 'Heroes' & 'Watching Windows'.  |

@@ -58,7 +58,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Unofficial Release (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Unofficial Release |
 | Label          | Coda Records Ltd |
 | Catalog Number | CLRVNY004 |
 | Notes | Produced, Mastered and Manufactured in the Czech Republic |

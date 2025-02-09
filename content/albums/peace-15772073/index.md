@@ -70,7 +70,7 @@ The album was produced by Sean Lakeman.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peace_(Levellers_album) |
-| Format         | Vinyl LP Deluxe Edition Stereo (Blue Splatter), Vinyl 7" |
+| Format         | 1× Vinyl (Blue Splatter) LP, Deluxe Edition, Stereo | 1× Vinyl 7" |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP031S |
 | Notes | Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7”  Signed print.   Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio) |

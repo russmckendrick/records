@@ -45,7 +45,7 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM Single |
+| Format         | 1× Vinyl 12", 45 RPM, Single |
 | Label          | RCA |
 | Catalog Number | PT44556 |
 | Notes | Contains exclusive PWEI stencil.  Originally Production by Flood courtesy of 140 dB  A, B2: BMG Music Publishing Ltd Produced for The Boilerhouse  B1: Warner Chappell Music Ltd Produced for PWEI Product Inc  92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription) Free The Designers Republic: "We're Alright Now" World-Wide Representation by Craig Jennings for Chapter 22 Management. ℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd. © 1991 BMG Records (UK) Ltd Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europa durch BMG-Ariola Printed in England       |

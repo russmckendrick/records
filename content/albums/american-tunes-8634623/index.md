@@ -69,7 +69,7 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Tunes |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Nonesuch |
 | Catalog Number | 554656-1 |
 | Notes | Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped.  |

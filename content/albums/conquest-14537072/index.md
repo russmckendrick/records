@@ -84,7 +84,7 @@ styles: ["Cut-up/DJ", "Turntablism"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red), CD Promo |
+| Format         | 1× Vinyl (Red) LP | 1× CD Promo |
 | Label          | Copeland Entertainment |
 | Catalog Number | MMMCONQUEST1 |
 | Notes | Limited to 1,000 copies worldwide.  Rough Trade album of the month December 2019.  Includes a full length bonus mix CD, mixing the whole album into one continuous mix (which also features an unreleased jam featuring MCA) packaged in it's own card sleeve.  Timings not listed. |

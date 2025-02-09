@@ -81,7 +81,7 @@ Time and Tide is the eighth album by the New Zealand new wave band Split Enz, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_and_Tide_(Split_Enz_album) |
-| Format         | Vinyl LP Album, Vinyl LP Album Repress |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl LP, Album, Repress |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64894 |
 | Notes | Label States "Made in England".  Released with a lyrics inner sleeve and a bonus album: ''Frenzy'' (AMLH 64894/F).  The latter is housed in a flimsy version of the original cover as seen on this submission: [r975918]  The back cover of that states: ''This album comes free with ''Time & Tide''.  There are no credits on that cover.  Tracks from ''Frenzy'' recorded in 1978 and 1979.  Some copies advertize ''Frenzy with a sticker on the front cover of ''Time And Tide''.   |

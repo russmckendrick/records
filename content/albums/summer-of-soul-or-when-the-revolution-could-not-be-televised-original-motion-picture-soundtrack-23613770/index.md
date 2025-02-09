@@ -72,7 +72,7 @@ styles: ["Soul", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Legacy |
 | Catalog Number | 19439953321 |
 | Notes | D3 is LP only track, not on CD. A Questlove Jawn.  Harlem Cultural Festival directed and produced by Hal Tulchin. Tony Lawrence host & MC. Recorded live at the Harlem Cultural Festival June, July and August, 1969 at Mount Morris Park, Harlem, New York City "Soulsville U.S.A."  Made in the EU. |

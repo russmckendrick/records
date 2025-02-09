@@ -62,7 +62,7 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Under_the_Pink |
-| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | 081227957841 |
 | Notes | 180 gram 2015 remastered reissue.  Half speed master. |

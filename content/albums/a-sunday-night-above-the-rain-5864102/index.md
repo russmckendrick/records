@@ -63,7 +63,7 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album (180 Gram) |
+| Format         | 3× Vinyl (180 Gram) LP, Album |
 | Label          | Ear Music |
 | Catalog Number | 0209657ERE |
 | Notes | Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover |

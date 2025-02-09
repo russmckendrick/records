@@ -64,7 +64,7 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/604_(album) |
-| Format         | Vinyl LP 45 RPM (Red [Blood Red]), Vinyl LP 45 RPM (Clear [Ultra Clear]), All Media Album Limited Edition Reissue |
+| Format         | 1× Vinyl (Red [Blood Red]) LP, 45 RPM | 1× Vinyl (Clear [Ultra Clear]) LP, 45 RPM | 1× All Media Album, Limited Edition, Reissue |
 | Label          | Nettwerk |
 | Catalog Number | 30912 1 |
 | Notes | 20th Anniversary Edition  Limited to 1000 copies 140g  |

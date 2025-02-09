@@ -59,7 +59,7 @@ styles: ["Experimental", "Synthwave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Ozit-Morpheus Records |
 | Catalog Number | OZITDAN LP 9991 |
 | Notes | Limited edition of 300 copies on 180g Orange Vinyl |

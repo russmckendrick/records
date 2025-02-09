@@ -105,7 +105,7 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Electric Blue, Transparent) |
+| Format         | 2× Vinyl (Electric Blue, Transparent) LP, Album |
 | Label          | Roadrunner Records |
 | Catalog Number | 075678640780 |
 | Notes | Indie Store Exclusive (Transparent Electric Blue Vinyl) |

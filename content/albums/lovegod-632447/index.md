@@ -61,7 +61,7 @@ The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Bil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lovegod |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Big Life |
 | Catalog Number | SOUP LP2R |
 | Notes | Reissue added "I'm Free" in place of "From Heaven And Back" & "Man".  "From sweeteness comes forth strength"  All tracks published by Big Life Music / Soup Music except A1 published by Westminster Music Ltd. All titles ℗ & © 1990 Big Life Records except A1 ℗ & © 1989 Big Life Records. Made in England. |

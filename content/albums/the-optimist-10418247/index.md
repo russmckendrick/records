@@ -67,7 +67,7 @@ The Liverpool group’s 11th album is a conceptual sequel to their sixth, 2001�
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Silver, 180gr) |
+| Format         | 2× Vinyl (Silver, 180gr) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | Kscope944 |
 | Notes | Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.  2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies |

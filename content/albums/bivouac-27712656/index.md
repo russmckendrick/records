@@ -58,7 +58,7 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bivouac_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (Translucent Green) |
+| Format         | 1× Vinyl (Translucent Green) LP, Album, Reissue, Remastered |
 | Label          | Blackball Records |
 | Catalog Number | BB-009-LP |
 | Notes | Does not include a download card. Lyrics are printed on the inner   |

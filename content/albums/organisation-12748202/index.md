@@ -54,7 +54,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Virgin |
 | Catalog Number | 0602557050837 |
 | Notes | Issued in right-opening cardboard sleeve with spine including digital download card (WAV files). May have sticker on shrink-wrap. Half speed mastered at Abbey Road Studios.  All tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite.  All tracks published by BMG VM Music Ltd. except track B2 published by Warner Chappell Music International Ltd.  A Virgin EMI Records Release ℗ 1980 Virgin Records Ltd. © 2018 Virgin Records Ltd. Made in the EU. |

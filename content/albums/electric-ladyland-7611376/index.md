@@ -75,7 +75,7 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Ladyland |
-| Format         | Vinyl 2× LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered, Repress |
 | Label          | Experience Hendrix |
 | Catalog Number | 88875134511 |
 | Notes | Issued in a gatefold sleeve including an 8-page LP-sized booklet with liner notes and pictures  All compositions written and arranged by Jimi Hendrix and published by Experience Hendrix L.L.C. with the exceptions of B1 by Noel Redding, Joint Music, D3 by Bob Dylan, Dwarf Music, and B3 by Earl King/EMI Unart Catalog Inc.  Recorded at the Record Plant, New York Remastered at Sterling Sound, N.Y.  ℗ 2010 Experience Hendrix L.L.C. © 2010, 2015 Experience Hendrix L.L.C. Made in the EU  Track D4 is listed on back cover, inner spread and labels as "Voodoo Child (Slight Return)"  Reissue of the 2010 [url=https://www.discogs.com/release/2416823-The-Jimi-Hendrix-Experience-Electric-Ladyland]Music on Vinyl[/url] release, with exactly the same runout numbers. |

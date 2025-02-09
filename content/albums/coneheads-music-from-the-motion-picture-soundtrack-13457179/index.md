@@ -54,7 +54,7 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day (Yellow, Translucent) |
+| Format         | 1× Vinyl (Yellow, Translucent) LP, Record Store Day |
 | Label          | Warner Bros. Records |
 | Catalog Number | 45345-1 |
 | Notes | RSD Exclusive 2019/Ltd. to 1500  'Printed in Canada' on rear sleeve. Similar release with 'Manufactured in the E.U.' is here, [r=14540630]. |

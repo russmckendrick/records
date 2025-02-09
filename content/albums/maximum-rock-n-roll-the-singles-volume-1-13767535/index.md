@@ -60,7 +60,7 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red ), Vinyl LP (White ), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Red ) LP | 1× Vinyl (White ) LP | 1× All Media Compilation, Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 88985486441 |
 | Notes | Limited 500 copies in a gatefold sleeve. |

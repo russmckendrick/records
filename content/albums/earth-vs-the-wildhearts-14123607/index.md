@@ -58,7 +58,7 @@ The album has been reissued twice: first in 1994 with the addition of the former
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earth_vs_the_Wildhearts |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | EastWest |
 | Catalog Number | 0190295451950 |
 | Notes | Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.  Mastered at Sterling Sounds, NYC.  ℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company. |

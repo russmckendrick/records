@@ -58,7 +58,7 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spine_of_God |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Limited Edition, Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR 744 VINYL |
 | Notes | Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].  |

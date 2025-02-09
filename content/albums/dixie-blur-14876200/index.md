@@ -57,7 +57,7 @@ Dixie Blur is the fourth studio album by American musician and producer Jonathan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dixie_Blur |
-| Format         | Vinyl 2× LP Album (Mint Green) |
+| Format         | 2× Vinyl (Mint Green) LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA995VX |
 | Notes | Mint green vinyl pressing. |

@@ -55,7 +55,7 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happiness_(The_Beloved_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | New State Music |
 | Catalog Number | NEW9239LP |
 | Notes | Signed copies were available via Recordstore.co.uk  ‘Happiness’ has been remastered from the original analogue studio masters (by John Davis at Metropolis Studios) and has a significantly louder and clearer audio than the original release. |

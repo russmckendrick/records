@@ -70,7 +70,7 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Very_Best_of_Crowded_House |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Compilation, Limited Edition, Reissue |
 | Label          | Universal Music |
 | Catalog Number | 5784759 |
 | Notes | [Sticker on front cover]: "Limited Edition Orange Vinyl" 180 gram vinyl |

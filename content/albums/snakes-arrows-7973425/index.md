@@ -67,7 +67,7 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (200 gram, Gatefold) |
+| Format         | 2× Vinyl (200 gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 177084 |
 | Notes | Remastered On 200 gram Audiophile vinyl. Includes high-res 24/96khz digital download card and 2 glossy lyric sheets. |

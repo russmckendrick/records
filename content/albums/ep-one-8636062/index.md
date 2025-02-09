@@ -44,7 +44,7 @@ styles: ["Electro", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (White, 180g) |
+| Format         | 1× Vinyl (White, 180g) 12", 45 RPM, EP, Limited Edition, Numbered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE927 |
 | Notes | With download card. |

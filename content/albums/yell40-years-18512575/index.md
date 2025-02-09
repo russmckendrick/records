@@ -75,7 +75,7 @@ After a few years under the mighty wing of rapper Young Dolph, Key Glock is read
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition (180-gram) |
+| Format         | 2× Vinyl (180-gram) LP, Compilation, Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 0602435602295 |
 | Notes | No barcode printed on the release.  Comes with stickered barcode 0602435 738314 (ordered on Universal), stickered barcode 0602435 602288 (ordered on Amazon or Udiscover Music)  Gatefold sleeve.  180g  This Release (GSA) ℗&© 2021 Yello distributed by Universal Music GmbH This Release (ROW) ℗&© 2021 Yello under exclusive licence to Universal Music GmbH Made in the EU  Track A1 from [m35165] Track A2 from [m18478] Tracks A3, A4, C1 from [m35464] Tracks A5, C2 from [m38092] Track B1 from [m35649] Track B2 from [r5275723] Tracks B3, C4, C5 from [m187821] Tracks B4,D3, D6 from [m1795259] Track D5 (Bonus Track) from [r15747053] Track B5 from [m1273588] Track C3 from [m37841] Tracks D1, D2 from [m1065916] Track D4 from [m336777] |

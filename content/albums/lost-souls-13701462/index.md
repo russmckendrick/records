@@ -65,7 +65,7 @@ Lost Souls was considered by many to be the best debut album by a British act si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Souls_(Doves_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
+| Format         | 2× Vinyl (Grey) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Heavenly |
 | Catalog Number | 7748262 |
 | Notes | This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url] ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon. |

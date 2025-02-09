@@ -66,7 +66,7 @@ styles: ["Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Compilation, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC421 |
 | Notes | Gatefold sleeve. 500 copies available on official web store include a 12x12" print signed by the band. This compilation Ⓟ 2002 [l125796] © 2019 [l204812]. |

@@ -65,7 +65,7 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_My_Life_(Talk_Talk_song) |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress Stereo (Purple Translucent, 180g) |
+| Format         | 1× Vinyl (Purple Translucent, 180g) LP, Album, Limited Edition, Reissue, Repress, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295792619 |
 | Notes | Repress of the 2017 [r=11009347] on purple vinyl.  Same [l313190] matrix number in runouts.  Hype sticker reads: LIMITED EDITION 180g PURPLE VINYL. 0190295195328 Barcode sticker on reverse of the shrink wrap obscures the barcode on the cover.  ℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company Manufactured in the EU  Released in the U.S. on 15 Jan 2021 as part of [url=https://www.discogs.com/label/33244-Rhino-Records-2]Rhino's[/url] 'Start Your Ear Off Right' reissue campaign for 2021.  Runouts are etched.  In the runouts, "1 |X" is mirrored. |

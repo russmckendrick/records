@@ -59,7 +59,7 @@ On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Race_for_Space_(album) |
-| Format         | Vinyl LP Album Limited Edition (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA02X |
 | Notes | Special edition clear vinyl featuring American and Russian reversible gatefold, printed inner-sleeve and full-sized, 8 page booklet.  Download card included. Outer shrink-wrap stickered with track names. Band name and album title only printed onto sleeve.    'This record has been mastered quieter than most modern albums to preserve its dynamics. PSB do not like the loudness wars. Listening to it may therefore require judicious use of the volume knob. Thanks!' |

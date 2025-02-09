@@ -59,7 +59,7 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/True_Colours_(Split_Enz_album) |
-| Format         | Vinyl LP Album Etched (Blue Cover) |
+| Format         | 1× Vinyl (Blue Cover) LP, Album, Etched |
 | Label          | A&M Records |
 | Catalog Number | SP-4822 |
 | Notes | Holographic etched vinyl. There also exists a Red cover, a Purple cover, and a Yellow cover.  Released with a printed inner photo-sleeve  Cat # on back cover & spine: SP-4822 Cat # on centre label: SP 4822  Printed on back cover: [Boomerang Productions logo] A Boomerang Production. Recorded at Armstrongs, Melbourne, Australia. [Champion Entertainment Organization Inc. logo] © 1980 A&M Records, Inc. ℗ 1979 Mushroom Records Pty. Ltd. Fabriqué et Distribué par/Manufactured and Distributed by A & M Records of Canada Limited  Printed on A-side label: [Boomerang Productions logo] A Boomerang Production All selections published by Enz Music ℗ 1979 Mushroom Records Pty. Ltd. Manufactured and Distributed by A&M Records, Inc. © 1980 A&M Records, Inc.  The runouts are etched. |

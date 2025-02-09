@@ -63,7 +63,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Masters |
 | Catalog Number | MA 11121183 |
 | Discogs URL    | [Willie Nelson - 20 Golden Hits](https://www.discogs.com/release/3441920-Willie-Nelson-20-Golden-Hits) |

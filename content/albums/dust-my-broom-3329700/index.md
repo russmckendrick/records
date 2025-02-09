@@ -61,7 +61,7 @@ In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the clas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dust_My_Broom |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Topline Records |
 | Catalog Number | TOP 120 |
 | Notes | Licensed from Charly Records International APS  ℗ 1984 Charly Holdings Inc.  © 1984 Topline Records Ltd. |

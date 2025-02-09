@@ -58,7 +58,7 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Invisible_Touch |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Virgin |
 | Catalog Number | GEN LP2 |
 | Notes | Written, recorded and mixed at The Farm, Surrey, 85/86.  Mastered at Masterdisc N.Y.C.  Sleeve produced at Assorted Images.  All tracks published by Anthony Banks Ltd / Philip Collins Ltd / Michael Rutherford Ltd / Hit and Run Music Publishing Ltd  Virgin Records.  ℗ 1986 Charisma Records Ltd. © 1986 Charisma Records Ltd.  Manufactured in the UK.  Glossy printed inner sleeve.  Not embossed or textured.  Single cat. no. followed by side indicator on label.  This version is almost identical to [r=10216464] but this has Masterdisk etched in the matrices.  Runouts are Etched, except "U-1-#" and "D" Stamped.  Direct Metal Mastering. |

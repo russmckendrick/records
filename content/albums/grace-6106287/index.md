@@ -57,7 +57,7 @@ Rolling Stone included Grace in three of its lists of the 500 greatest albums an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album) |
-| Format         | CD Album Reissue, Vinyl LP Album Reissue |
+| Format         | 1× CD Album, Reissue | 1× Vinyl LP, Album, Reissue |
 | Label          | Columbia |
 | Catalog Number | 88843094771 |
 | Notes | (C)1994, 2014 Sony Music Entertainment Inc.  (P)1994, 2014 Sony Music Entertainment Inc.  Manufactured by Columbia Records.    2014 180 gram Vinyl Reissue with CD included.   |

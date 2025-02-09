@@ -65,7 +65,7 @@ The Art of the Lie is the sixth studio album by American musician John Grant, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Art_of_the_Lie |
-| Format         | Vinyl 2× LP Album Limited Edition (Gatefold, Pale Pink) |
+| Format         | 2× Vinyl (Gatefold, Pale Pink) LP, Album, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA1594VX |
 | Notes | 2LP gatefold with full-colour inner sleeves. Pale Pink vinyl edition.  Album recorded at Moon Zero Two Studio, Reykjavik; Microcosm Mkii, London; Hoxa Hq, London; Memetune, Cornwall. Mastered at Metropolis London.  © & ℗ 2024 Bella Union Records. Under exclusive license to [PIAS]. Manufactured in EU  100 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions. 100 copies with a signed print available direct from Bella Union Bandcamp page. |

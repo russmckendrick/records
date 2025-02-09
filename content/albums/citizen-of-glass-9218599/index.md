@@ -57,7 +57,7 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | [PIAS] |
 | Catalog Number | PIASR905LP |
 | Notes | Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched.  |

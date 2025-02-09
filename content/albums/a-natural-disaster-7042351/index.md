@@ -67,7 +67,7 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Natural_Disaster |
-| Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
+| Format         | 1× Vinyl (180 Gram) LP, Album | 1× CD Album | 1× All Media Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058531 |
 | Notes | Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve. |

@@ -53,7 +53,7 @@ Flibbidydibbidydob is an EP of cover versions, including commercial jingles and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flibbiddydibbiddydob |
-| Format         | Vinyl 12" 45 RPM Mini-Album |
+| Format         | 1× Vinyl 12", 45 RPM, Mini-Album |
 | Label          | Workers Playtime |
 | Catalog Number | Play 11T |
 | Notes | Tracks A3, B3 and B5 do not appear on the record sleeve but are present on the record labels.  Cat# Play 11T appears on spine and back cover. Cat# PLAY 11T appears on labels.  ℗1989 Workers Playtime (On back cover) ℗ Workers Playtime 1990 (On labels)  On labels: A1: Copyright Control A2: Plangent Visions Ltd. A3: Zomba Music Publ. Ltd. A4: Fabulous Music Ltd. A5: Copyright Control B1: Jobette Music (London) Ltd. B2: Pattern Music Ltd. B3: Ronnie Bond Music Ltd. B4: Complete Music Ltd. B5: Ronnie Bond Music Ltd. B6: Chas Dave Music Ltd. |

@@ -64,7 +64,7 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_in_the_Dream |
-| Format         | Vinyl 2× LP Album Club Edition Limited Edition Reissue (Green) |
+| Format         | 2× Vinyl (Green) LP, Album, Club Edition, Limited Edition, Reissue |
 | Label          | Secretly Canadian |
 | Catalog Number | SC310 |
 | Notes | Limited to 2,100 copies. Gatefold tip-on sleeve with glossy, printed inner sleeves. Includes a download code.  ©&℗ 2014 Secretly Canadian  All songs © 2014 Sea Formation Music ASCAP  Mixed at Rare Book Room Studios, Brooklyn, August-September 2013. "An Ocean in Between the Waves," "Disappearing" and "The Haunting Idle" mixed at Uniform Recording, Philadelphia, September-November 2013.  All songs recorded between August 2012 and November 2013 at Uniform Recording (Philly), Echo Mountain (Asheville, NC), Fidelitorium (Kornersville, NC), Rare Book Room (Brooklyn), Miner St (Philly), Water Music (Hoboken), Public Hi-Fi (Austin), University of the Arts (Philly) and Adam's house in Philly.  Mastered at Sterling Sound, NYC. |

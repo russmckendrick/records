@@ -54,7 +54,7 @@ Cuckoo is the second studio album to be released by the British alternative rock
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cuckoo_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-53LP |
 | Notes | Comes with download card from 3 Loop Music.  Preorder copies come with a limited availability art card signed by Toni and Dean . |

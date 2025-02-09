@@ -74,7 +74,7 @@ The release of the physical formats was delayed because of the COVID-19 pandemic
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Steady_Drip,_Drip,_Drip |
-| Format         | Vinyl LP 45 RPM (Blue, 180g), Vinyl LP 45 RPM (Purple, 180g), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Blue, 180g) LP, 45 RPM | 1× Vinyl (Purple, 180g) LP, 45 RPM | 1× All Media Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538603240 |
 | Notes | Includes exclusive poster.  Gatefold sleeve |

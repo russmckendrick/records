@@ -94,7 +94,7 @@ styles: ["Classic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album (Tri-fold) |
+| Format         | 3× Vinyl (Tri-fold) LP, Album |
 | Label          | Columbia |
 | Catalog Number | 19439707691 |
 | Notes | Sleeve Trifolded + 8-page booklet. Made in the E.U.  Sticker: US+THEM  A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE Over two hours of live music including TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE TRIPLE LP SET Audio companion to the acclaimed film Includes digital download |

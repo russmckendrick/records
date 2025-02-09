@@ -65,7 +65,7 @@ styles: ["Blues Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP355 |
 | Notes | Comes in a gatefold sleeve  Recorded on March 27-18, 1970 at Fillmore East, New York  ℗ & © 2011 Universal Music B.V. A2 published by Gideon Music Inc. A4 published by Tangerine Music Inc. A5 published by Saunders Publications, Inc. A6 published by Stranger Music Inc. B1 published by Irving Music Inc. B2, C4 published by Skyhill Publishing Co., Inc./Delbon Publishing  B4 published by Baby Monica Music/Renleigh Music C1a published by Jay & Cee Music C1b published by East/Memphis Music Corp. C1c published by East Memphis Music-Time Music Corp. C3 published by M. Witmark & Sons D2 published by Maclen Music Inc. D3, D5 published by Skyhill Publishing Co., Inc. D4 published by Earl Barton Music Inc.  [a255183] appears with love from [l44717] [url=https://www.discogs.com/artist/791783-Don-Preston-2]Don Preston[/url] courtesy of [l59656]    |

@@ -59,7 +59,7 @@ Bedroom is the debut studio album by British shoegaze band Bdrmm, released on 3 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bedroom_(album) |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR160LP |
 | Discogs URL    | [bdrmm - Bedroom](https://www.discogs.com/release/15830094-bdrmm-Bedroom) |

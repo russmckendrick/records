@@ -62,7 +62,7 @@ The album features the band's second-highest charting single, "Black and White T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Cities |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Heavenly |
 | Catalog Number | 7748265 |
 | Notes | All songs published by EMI Music Publishing Ltd. except B2, published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs.  B2 contains elements from 'Snake Eyes Score' composed by Ryuichi Sakamoto. Published by Famous Music Corporation (ASCAP) / Touchstone Pictures Music and Songs. Used by permission. All rights reserved.  ℗ 2004 [l26760] © 2019 [l26760]  Non-gatefold (single) sleeve with insert. Comes with a [l1052727] download coupon. |

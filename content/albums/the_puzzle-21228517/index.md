@@ -70,7 +70,7 @@ The Puzzle and Snuggles are the nineteenth and the twentieth studio albums by Ca
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Puzzle_/_Snuggles |
-| Format         | Vinyl 2× LP Limited Edition (Red With Black Splatter, Gatefold, 180g) |
+| Format         | 2× Vinyl (Red With Black Splatter, Gatefold, 180g) LP, Limited Edition |
 | Label          | HevyDevy Records |
 | Catalog Number | HDR 0001007 |
 | Notes | Limited edition exclusive to devintownsendshop.com  ℗ 2021 HevyDevy Records © 2021 HevyDevy Records All songs published by [l1618032], administered by Kobalt Music Services Ltd.,  except "The Yugas," administered by Kobalt Music Services Ltd. / [l1617984] (BMI); "Maybe Over The Void," "FrogFlowers" and "Mother" administered by Kobalt Music Services Ltd. and [l48207].  Recorded all over the place, Earth, 2020-2021.  Issued with a 8-page 12" booklet in a UV gloss finish on the front cover.  Run-out information: [HDR 0001007 - (A, B, C, D)] is etched, the rest is stamped.  |

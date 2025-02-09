@@ -50,7 +50,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Silent X Records |
 | Catalog Number | SNTX002LP |
 | Notes | Studios, What Studios? UK & Australia Design & Artwork - Gower Preston - oicdesign.net Photography - John Halfhide Cover Image - Snyder & Cole - Courtesy of Chicago Tribune Published by Blue Mountain Music  Signed copies offered as a pre-order through PledgeMusic |

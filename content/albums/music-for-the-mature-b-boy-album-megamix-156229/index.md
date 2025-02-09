@@ -40,7 +40,7 @@ styles: ["Breakbeat"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Picture Disc Limited Edition |
+| Format         | 1× Vinyl 12", Picture Disc, Limited Edition |
 | Label          | Genuine |
 | Catalog Number | GEN 005 T |
 | Notes | DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.    Plays same both sides. Limited to 300 copies.  |

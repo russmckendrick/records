@@ -62,7 +62,7 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frames_(Oceansize_album) |
-| Format         | Vinyl 2× LP Album (Red Transparent), CD Album, All Media Deluxe Edition Limited Edition |
+| Format         | 2× Vinyl (Red Transparent) LP, Album | 1× CD Album | 1× All Media Deluxe Edition, Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 001 |
 | Notes | Released for the first time on 180g vinyl, comes in a deluxe gatefold sleeve.    Transparent red vinyl limited to 100 copies.  |

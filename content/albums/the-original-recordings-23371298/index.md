@@ -71,7 +71,7 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo (Green) |
+| Format         | 2× Vinyl (Green) LP, Compilation, Stereo |
 | Label          | UMC |
 | Catalog Number | 455 953-5 |
 | Notes | Exclusive version including a slipmat or a t-shirt only available at uDiscover online store. |

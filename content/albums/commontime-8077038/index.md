@@ -62,7 +62,7 @@ Recorded at Field Music's home studio in Sunderland, the music for Commontime wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Commontime_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition (180g Orange Colour) |
+| Format         | 2× Vinyl (180g Orange Colour) LP, Album, Limited Edition |
 | Label          | Memphis Industries |
 | Catalog Number | MI0387LP |
 | Notes | This LP comes with a download code. |

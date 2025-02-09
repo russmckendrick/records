@@ -65,7 +65,7 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Days_of_the_New |
-| Format         | Vinyl 2× LP Album Reissue (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3623 |
 | Notes | Includes insert with lyrics. Available on vinyl for the first time. Original release ℗ 1999 Outpost Recordings. This release ℗ & © 2024 Universal International Music B.V. |

@@ -62,7 +62,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (180g) |
+| Format         | 2× Vinyl (180g) LP, Compilation |
 | Label          | Alucard |
 | Catalog Number | ALUGGV058 |
 | Notes | This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954].   Made in EU |

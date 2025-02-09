@@ -61,7 +61,7 @@ Science fiction has come to influence not just literature but film, TV, and cult
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Science_fiction |
-| Format         | Vinyl LP Album Limited Edition (Clear/white blob) |
+| Format         | 1× Vinyl (Clear/white blob) LP, Album, Limited Edition |
 | Label          | Kozmik Artifactz |
 | Catalog Number | ARTIFACT 45 |
 | Notes | Comes in gatefold sleeve Limited to 300 copies, Clear/white blob, Mother's Milk Edition |

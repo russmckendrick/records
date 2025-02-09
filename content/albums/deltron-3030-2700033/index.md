@@ -69,7 +69,7 @@ It is a rap opera concept album set in a dystopian year 3030. The album's story 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Deltron_3030_(album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Deltron Partners |
 | Catalog Number | DEL 75033 |
 | Discogs URL    | [Deltron 3030 - Deltron 3030](https://www.discogs.com/release/2700033-Deltron-3030-Deltron-3030) |

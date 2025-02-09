@@ -61,7 +61,7 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Red_(King_Crimson_album) |
-| Format         | Vinyl LP Album Reissue Stereo (200-Gram) |
+| Format         | 1× Vinyl (200-Gram) LP, Album, Reissue, Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP7 |
 | Notes | Includes b/w postcard with MP3 download code, showing the band live on stage 1974.    All songs published by UMG Music Ltd.    Produced at Olympic Sound Studios, London, England in July and August 1974.    Sticker reads:   The original stereo mix of the 1974 classic   Newly cut from masters approved by Robert Fripp   Includes exclusive codes for 320kbps MP3 downloads of an original 1974 vinyl transfer  200-gram super-heavyweight vinyl    ℗ & © 2013 Robert Fripp.    Made in England.   |

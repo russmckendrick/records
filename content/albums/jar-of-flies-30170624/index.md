@@ -61,7 +61,7 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jar_of_Flies |
-| Format         | Vinyl LP EP Reissue Remastered |
+| Format         | 1× Vinyl LP, EP, Reissue, Remastered |
 | Label          | Velvet Hammer |
 | Catalog Number | 19658800371 |
 | Notes | Includes printed inner sleeve with credits and lyrics.  Release distributed globally except for the Americas. For the North American release without [l=sony music] logo, please refer to [r=30106898].  © 1994, 2024 Columbia Records, A Division of Sony Music Entertainment.  Made in the EU.  Runouts are etched, except -61933- is stamped. |

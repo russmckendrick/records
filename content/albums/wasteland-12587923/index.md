@@ -69,7 +69,7 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wasteland_(Riverside_album) |
-| Format         | Vinyl LP (Silver), Vinyl LP Single Sided Etched (Silver), All Media Album, CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Silver) LP | 1× Vinyl (Silver) LP, Single Sided, Etched | 1× All Media Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 514 |
 | Notes | Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker attached to the front of the shrink wrap.  180g silver 2LP + CD edition. Limited to 100 copies. Inside Out Music exclusive.  IOMLP 514 on back, 19075871861 on back and lateral side.   |

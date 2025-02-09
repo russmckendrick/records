@@ -62,7 +62,7 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radio_Active_(radio_series) |
-| Format         | Vinyl LP Compilation (Lyntone Pressing) |
+| Format         | 1× Vinyl (Lyntone Pressing) LP, Compilation |
 | Label          | Ronco |
 | Catalog Number | RTL 2049 |
 | Notes | Subtitled "20 Electric Hits"    Track B5 title shortened to 'Lies' on sleeve tracklist.   |

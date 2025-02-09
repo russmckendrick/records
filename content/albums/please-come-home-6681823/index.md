@@ -76,7 +76,7 @@ Upon release, the song did not find commercial success, but in later years it ha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Christmas_(Baby_Please_Come_Home) |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 415 |
 | Notes | Sticker on front reads: "New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...  "Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson  Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.  On tour in the spring 2015!  This sticker is removeable."  Orders through German retailer JPC come with an autographed promo card exclusively. |

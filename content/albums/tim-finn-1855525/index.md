@@ -62,7 +62,7 @@ Along with his brother, Finn was appointed Officer of the Order of British Empir
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tim_Finn |
-| Format         | Vinyl LP Album (Allied Pressing) |
+| Format         | 1× Vinyl (Allied Pressing) LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | C1-48735 |
 | Notes | [l211933] pressing as denoted by SPAR and B-##### in deadwax runouts.  (P) (C) 1989 Capitol Records, Inc.  Includes printed inner sleeve with lyrics.  Recorded at Sunset Sound Factory. |

@@ -56,7 +56,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album Limited Edition Stereo (140g) |
+| Format         | 3× Vinyl (140g) LP, Album, Limited Edition, Stereo |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 646LP |
 | Notes | Released with a matte triple gatefold sleeve and three printed inner sleeves.  Indicators from hype sticker on foil: Special vinyl mastering, 24/48 for more than 90 minutes of music [Hi-Res Audio logo] First pressing on black triple vinyl (1,500 copies worldwide)  Indicators on rear: ℗ & © 2022 Season Of Mist  Indicators on inner gatefold: Recorded at Chapel Studio, Lincolnshire, November 2020ad & April 2021ad. Additional vocal sessions recorded at: Kapsylen Studio, Stockholm Monolith Studio Churchstreet Studio, Bergen  ------------------------------------------------- Misspelled words on the inner sleeve of second vinyl: For track C1 'Rose of Jericho' credits for synthesizer is misspelled as 'Syths'. For track D2 'Down The Rabbit Hole' credits for [a=Justin Greaves] are misspelled as 'Jusitn'.  |

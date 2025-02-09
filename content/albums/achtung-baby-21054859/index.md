@@ -83,7 +83,7 @@ Less than two years after U2 vowed to “dream it all up again”, <i>Achtung Ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Achtung_Baby |
-| Format         | Vinyl LP Stereo (Red Translucent, 180 Gram), Vinyl LP Stereo (Blue Translucent, 180 Gram), All Media Album Deluxe Edition Limited Edition Numbered Reissue Special Edition (30th Anniversary) |
+| Format         | 1× Vinyl (Red Translucent, 180 Gram) LP, Stereo | 1× Vinyl (Blue Translucent, 180 Gram) LP, Stereo | 1× All Media (30th Anniversary) Album, Deluxe Edition, Limited Edition, Numbered, Reissue, Special Edition |
 | Label          | Island Records |
 | Catalog Number | U28AB30 |
 | Notes | Package includes:  • Slipcase with an individually numbered sticker on the reverse • Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits • A limited edition bespoke 60cm x 60cm folded poster  Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.  4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:  6 0243868634 6 Nude Adam [r21053176] 6 0243868635 3 Carnival (this release) 6 0243868636 0 Bono and Nassim [R21055915] 6 0243868638 4 Band in red [r21065644]  The 2-, XIV, and 1IΔ etchings in the runouts are mirrored. |

@@ -62,7 +62,7 @@ Fauna (pl.: faunae or faunas) is all of the animal life present in a particular 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fauna |
-| Format         | Vinyl 2× LP Album Limited Edition (Magenta [Transparent], 180g) |
+| Format         | 2× Vinyl (Magenta [Transparent], 180g) LP, Album, Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM667 |
 | Notes | Gatefold with LP-booklet. Limited to 500 copies worldwide. |

@@ -73,7 +73,7 @@ styles: ["Punk", "Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Purple Transparent), Vinyl LP (White), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Purple Transparent) LP | 1× Vinyl (White) LP | 1× All Media Compilation, Limited Edition |
 | Label          | BMG |
 | Catalog Number | SALVO426DLP |
 | Notes | Gatefold Sleeve. Includes 12 page insert with archive photos, notes and production credits.  50 copies signed by original members of the band still in the current line-up were available as a pre-order from band's website. |

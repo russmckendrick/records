@@ -90,7 +90,7 @@ Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Snap!_(album) |
-| Format         | Vinyl 2× LP Compilation, Vinyl 7" EP, All Media Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation | 1× Vinyl 7", EP | 1× All Media Compilation, Reissue |
 | Label          | Polydor |
 | Catalog Number | SNAP 1 |
 | Notes | Gatefold cover. Includes 7" 4 track EP recorded live at Wembley Arena 2 & 3 December 1982. |

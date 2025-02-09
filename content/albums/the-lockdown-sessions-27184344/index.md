@@ -65,7 +65,7 @@ The Lockdown Sessions is the fifth studio album by British musician Roger Waters
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Lockdown_Sessions_(Roger_Waters_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Legacy |
 | Catalog Number | 19658788891 |
 | Notes | Gatefold sleeve Made in the EU.  The Lockdown Sessions recorded at everyone's homes - 2020 & 2021  Comfortably Numb 2022 recorded at:  Bias Studios, Washington DC Tree Sounds, Atlanta Electric Lady, New York Armoury Studios, Vancouver Sargent Recorders, LA   Track A3 listed as 'Vera' on the sleeve and LP label, credited as 'Vera / Bring The Boys Back Home' on the insert.  Sticker: Includes 5 Songs Recorded During Lockdown Plus, a New Version of the Classic "Comfortably Numb"  Runouts are stamped, except catalog number and "ꟼR EM" etched.  Tracks duration derives from [r=26130449] CD edition. |

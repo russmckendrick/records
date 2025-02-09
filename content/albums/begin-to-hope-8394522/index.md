@@ -78,7 +78,7 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Begin_to_Hope |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
+| Format         | 2× Vinyl (10th Anniversary Edition, Gatefold) LP, Album, Record Store Day, Limited Edition |
 | Label          | Sire |
 | Catalog Number | 553891-1 |
 | Notes | 10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies. |

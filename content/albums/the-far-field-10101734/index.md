@@ -61,7 +61,7 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Far_Field_(album) |
-| Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
+| Format         | 1× Vinyl (White, 180 Gram) LP, Album, Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0001LPX |
 | Notes | Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name. |

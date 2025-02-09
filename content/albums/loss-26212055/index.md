@@ -55,7 +55,7 @@ Loss is the debut album of Scottish indie pop band Mull Historical Society. It i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Loss_(Mull_Historical_Society_album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 1028 |
 | Discogs URL    | [Mull Historical Society - Loss](https://www.discogs.com/release/26212055-Mull-Historical-Society-Loss) |

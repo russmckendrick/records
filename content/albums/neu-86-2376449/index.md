@@ -57,7 +57,7 @@ styles: ["Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Neon Yellow) |
+| Format         | 1× Vinyl (Neon Yellow) LP, Album |
 | Label          | Grönland Records |
 | Catalog Number | LPGRONIV |
 | Notes | NEU! '86 was produced, recorded, mixed, played, composed, programmed etc. from Okt. '85 until April '86 [...] in Grundfunk-Studio Düsseldorf, Dingerland-Lilienthal Studio Düsseldorf, Michael Rother's Sterntaler Studio Forst.  Basic recordings for tracks A3, 4, 5 and B1, 2 engineered [...] in Grundfunk Studio, Düsseldorf, in October and November 1985.  NEU! '86 was reworked [...] with original master and multi-track tapes from July until December 2009.  Mastering [...] Master & Servant. Hamburg. January 2010.  To Klaus, with respect and gratitude for the inspiration he gave me and for his unique artistic contributions to NEU! (Michael Rother).  Polaroid and Grundfund Studio view, 1985. Portraits from Video Stills, 1985 / courtesy of la-duesseldorf.de  All titles P+C 2010 Dinger / Rother for Grönland Records  Made in EU |

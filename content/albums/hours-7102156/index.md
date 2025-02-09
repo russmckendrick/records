@@ -62,7 +62,7 @@ Accompanied by multiple UK top 40 singles, Hours peaked at number five on the UK
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hours_(David_Bowie_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | ISO Records |
 | Catalog Number | MOVLP1400 |
 | Notes | Originally Released ℗ & © 1999 ISO Records. This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records. Made in the EU.  180 gram vinyl 20-page booklet Standard black vinyl. |

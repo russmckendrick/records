@@ -61,7 +61,7 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/See_You_in_the_Next_Life... |
-| Format         | Vinyl LP Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Reissue |
 | Label          | Demon Records |
 | Catalog Number | demrec871 |
 | Notes | A2 is an early version of the song "Another No-One", first released as one of the additional tracks on CD2 of the [r=875546] single, 29 July 1996.  A3 is a short live version of "The Power" sung in French. Audio originally released in 1995 as part of the "Cards, pliers and videotape: a short film about touring" section of [r1101072]. The original version of "The Power" was released on the album [m=10069], released 10 October 1994.  On inner sleeve: "Thanks to [a424270], [a420394], [a2139268] at [l265432]"  Reissue on black vinyl. Originally released as the limited edition, fan club only cd [r1339326], then reissued on red vinyl for RSD 2020 [r15835797]. |

@@ -60,7 +60,7 @@ But Jawbreaker frontman Blake Schwarzenbach’s mind was also preoccupied with t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/24_Hour_Revenge_Therapy |
-| Format         | Vinyl LP Album Reissue Repress |
+| Format         | 1× Vinyl LP, Album, Reissue, Repress |
 | Label          | Blackball Records |
 | Catalog Number | BB-010-LP |
 | Notes | Black vinyl repressing.  Recorded in Chicago three days in May, 1993. Tracks A1/A3/A6 recorded in San Francisco one day in August, 1993. Mastered at K-Disc.  Some copies included a hype sticker and download for six bonus tracks recorded by Steve Albini.  Presumably the Mastering credit on the inner sleeve for John Golden at Golden Mastering also only applies to these bonus tracks.  |

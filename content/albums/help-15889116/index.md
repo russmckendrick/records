@@ -70,7 +70,7 @@ Help  is a 2010 Indian Hindi-language supernatural horror film directed by Rajee
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Help_(2010_film) |
-| Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue |
+| Format         | 2× Vinyl LP, Album, Compilation, Limited Edition, Reissue |
 | Label          | The Vinyl Factory |
 | Catalog Number | 8286822 |
 | Notes | 25 Year re-issue. Limited to 2020 copies.  Put together by Tony Crean of Go!Discs for charity and inspired by John Lennon's 7-day schedule for the release of 'Instant Karma' (record on Monday, press up on Tuesday, sleeve on Wednesday, etc.). The same timescale was decided on for this album, the proceeds going to help starving Bosnian refugees. Named after the Beatles song, 'Help' seems a near impossible attempt at getting the biggest bands in the country to record exclusive songs and present them in a matter of days. Crean did it from idea to hitting the shops in 6 days.  12" x 12" Insert with War Child Statement and Photos |

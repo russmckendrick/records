@@ -64,7 +64,7 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/J.T._(album) |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | New West Records |
 | Catalog Number | NW5492 |
 | Notes | Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |

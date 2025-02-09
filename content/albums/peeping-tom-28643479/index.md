@@ -60,7 +60,7 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peeping_Tom_(Peeping_Tom_album) |
-| Format         | Vinyl LP Album Reissue (Tan) |
+| Format         | 1× Vinyl (Tan) LP, Album, Reissue |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC258LP2 |
 | Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Front  Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.  |

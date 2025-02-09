@@ -69,7 +69,7 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple, 180 Gram) |
+| Format         | 2× Vinyl (Purple, 180 Gram) LP, Compilation, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1961 |
 | Notes | Limited edition of 2.000 individually numbered copies on purple 180 gram audiophile vinyl. Released in a gatefold sleeve.  Made in the EU. |

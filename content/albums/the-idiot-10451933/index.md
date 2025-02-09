@@ -61,7 +61,7 @@ Pop supported The Idiot with a tour in March and April 1977, with Bowie as his k
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Idiot_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Silver, 180) |
+| Format         | 1× Vinyl (Silver, 180) LP, Album, Limited Edition, Reissue |
 | Label          | UMC |
 | Catalog Number | 00600753772461 |
 | Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Made in the E.U. |

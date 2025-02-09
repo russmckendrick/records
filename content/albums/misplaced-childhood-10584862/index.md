@@ -106,7 +106,7 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Misplaced_Childhood |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 3× Vinyl LP | 1× Box Set Deluxe Edition, Limited Edition, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295865511 |
 | Notes | On hype sticker: Limited edition 4LP deluxe format Includes: Original album remastered Previously unreleased live concert: 'Live At Utrecht 1985' Plus: 24 page booklet containing rare photos, memorabilia & an essay by Dave Everley  12'' x 12'' box. Initial copies ordered from Marillion's and Fish's online stores were autographed respectively.  All runouts are etched.   'Misplaced Childhood' 2017 Remaster Originally released June 16th, 1985 EMI - EJ 2403401, MRL 2  ℗ 2017 this compilation Parlophone Records Ltd. © 2017 Parlophone Records Ltd.  This label copy information is the subject of copyright protection. All rights reserved.  © 2017 Parlophone Records Ltd. A Warner Music Group Company. |

@@ -65,7 +65,7 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stain_(album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1346 |
 | Notes | Limited to 1000 copies.  Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment.   Made in EU. |

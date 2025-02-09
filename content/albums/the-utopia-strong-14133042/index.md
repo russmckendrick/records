@@ -52,7 +52,7 @@ The Utopia Strong are a British electronic band formed in Glastonbury, England i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Utopia_Strong |
-| Format         | Vinyl LP Album Limited Edition (Orange "Fireball Orange") |
+| Format         | 1× Vinyl (Orange "Fireball Orange") LP, Album, Limited Edition |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH172 |
 | Notes | Ltd edition, "indies only" Fireball Orange Vinyl.  Comes with printed inner sleeve and protective outer sleeve. |

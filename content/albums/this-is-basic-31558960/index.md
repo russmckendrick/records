@@ -48,7 +48,7 @@ styles: ["Art Rock", "Post Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | No Quarter |
 | Catalog Number | NOQ093LP |
 | Discogs URL    | [BASIC (40) - This Is BASIC](https://www.discogs.com/release/31558960-BASIC-40-This-Is-BASIC) |

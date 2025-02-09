@@ -70,7 +70,7 @@ I just love making music, so it’s not that difficult. I had a strange four day
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Merrie_Land |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Studio 13 (4) |
 | Catalog Number | STUDIO13LPX |
 | Notes | Sticker: "Limited Edition Heavyweight Green Vinyl LP" Indies only edition. Includes a custom inner sleeve. The Introduction track (A1) is not listed on the sleeve or labels, but is listed in he credits on the inner sleeve.  ℗ & © 2018 Studio 13  All tracks engineered [...] at Studio 13, Penrhyn Castle And Garden National Trust, Bangor Wales.  Introduction (0:13) Sample taken from 'A Canterbury Tale' by Michael Powell and Emeric Pressburger (ITV Archive)  Cover photograph of Michael Redgrave 'Dead Of Night'.  Courtesy of Ronald Grant Archive / Mary Evans Picture Library  c. Studio Canal Film Archive Front and back cover photograph of 'The Blitz' by Herbert Mason / Daily Mail / Solo Syndication  'The Piper' lithograph by Theodore Gericault c. The Trustees of The British Museum |

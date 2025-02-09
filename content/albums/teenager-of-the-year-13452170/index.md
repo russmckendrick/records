@@ -78,7 +78,7 @@ Although not originally well-received, the record is now widely praised by both 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Teenager_of_the_Year_(album) |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (White) |
+| Format         | 2× Vinyl (White) LP, Album, Record Store Day, Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD 4009 LPE |
 | Notes | A Record Store Day 2019 Exclusive release. Edition of 4500 according to recordstoreday.com (unclear whether or not this is for the EU and US versions combined). Includes two printed inner sleeves with identical text – one with white letters on a black background, and the other with black letters on a white background. The two records are housed in a single pocket jacket. Tracks are continuously numbered across sides.  [Inner sleeves:] Recorded at American, Calabasas, California / Mixed at Can-Am, Los Angeles, California / Additional recording at Castle Oaks, Calabasas, California; The Clubhouse, Burbank, California; The Chapel, Los Angeles, California; and Can-Am, Los Angeles, California / Mastered at Tower Mastering, Los Angeles, California  [Label sides A & C:] P & C 4.A.D. 1994 [...] All songs published by Spime songs BMI  [Label sides B & D:] Made in the EU |

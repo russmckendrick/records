@@ -55,7 +55,7 @@ The album was not as commercially successful as most of the band's releases of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hold_Your_Fire |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Mercury |
 | Catalog Number | 00602547118295 |
 | Notes | Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info. Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl.  |

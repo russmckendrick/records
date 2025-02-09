@@ -50,7 +50,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue (Translucent Blue ) |
+| Format         | 2× Vinyl (Translucent Blue ) LP, 45 RPM, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | SUEDEAMZREP1 |
 | Notes | Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU. |

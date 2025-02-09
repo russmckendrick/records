@@ -76,7 +76,7 @@ Upon its release, the band made their dissatisfaction with the album public, inf
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Beta_Band_(album) |
-| Format         | Vinyl 2× LP Album Reissue, Vinyl LP Album, CD 2× Album |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album | 2× CD Album |
 | Label          | Because Music |
 | Catalog Number | BEC5543698 |
 | Notes | Anniversary Edition Includes unreleased album 'The Hut / Happiness & Colour' + CDs  |

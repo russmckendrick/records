@@ -73,7 +73,7 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/St._Anger |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange (Some Kind of Orange)) |
+| Format         | 2× Vinyl (Orange (Some Kind of Orange)) LP, Album, Limited Edition, Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND016-1U |
 | Notes | Hype Sticker on front: "Pressed on Limited Edition Some Kind of Orange 2LP Vinyl. BLCKND016-1U"  "Made in Germany" Sticker on back.  Limited Edition. Comes in a gatefold jacket. |

@@ -66,7 +66,7 @@ But the band were branching out into new directions, too. The syncopated grooves
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vs._(Pearl_Jam_album) |
-| Format         | Vinyl LP Album Reissue Remastered Repress (Clear, 30th Anniversary) |
+| Format         | 1× Vinyl (Clear, 30th Anniversary) LP, Album, Reissue, Remastered, Repress |
 | Label          | Epic |
 | Catalog Number | 19658836871 |
 | Notes | Gatefold sleeve. Record housed in a white paper & plastic poly-lined inner sleeve. Comes with a double sided, 12x12" replica printed insert.  Runouts are etched. Pressed in The Netherlands by [l=Record Industry] using the same stampers of [r=8354355]  Black Hype sticker: VINYL EDITION 30TH ANNIVERSARY The explosive second album, Remastered for vinyl featuring "Go", "Daughter", "Animal", "Dissident" and more! 19658836871  White/Silver Hype Sticker: CLEAR COLOURED VINYL  © 1993, 2011 Sony Music Entertainment / ℗ 1993 Sony Music Entertainment / Distributed by Epic, A Division of Sony Music Entertainment. (on back cover) © 1993, 2011 Sony Music Entertainment. ℗ 1993 Sony Music Entertainment. (on labels)  Made in the EU.  This is the EU clear edition. For the US clear edition, see [url=https://www.discogs.com/release/28942606-Pearl-Jam-Vs]Vs.[/url]. |

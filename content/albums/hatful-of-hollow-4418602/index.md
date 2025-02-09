@@ -70,7 +70,7 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hatful_of_Hollow |
-| Format         | Vinyl LP Compilation (180 Gram, Gat) |
+| Format         | 1× Vinyl (180 Gram, Gat) LP, Compilation |
 | Label          | SIRE |
 | Catalog Number | R1 45205 |
 | Notes | 180 Gram Gatefold LP 1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles  |

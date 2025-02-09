@@ -51,7 +51,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | E.L.K. Records |
 | Catalog Number | ELKREC5LP |
 | Notes | Non-Limited Edition Black Vinyl |

@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 037 |
 | Notes | Sticker on front: "CRELP 037 'Doing It For The Kids' A 15 track compilation LP for the price of a 7" single. From Creation"  Top right corner of front sleeve has "CRELP 037 An L.P. for the price of a 7" single" printed in dark blue/grey.    This compilation ℗ and © 1988 Creation Records.  A1, A2, A4, A6, B2, B6, B8 published by Complete Music A3, A5, B1, B3 to B5, B7 unpublished A7 published by Rough Trade Music Ltd.  "This is a label of love.." - Alan McGee. August, '88.  An Alan McGee/Richard Green Extravaganza.  A Creation Records Product.  Manufactured and Distributed by the Cartel.  Made in England.    Distributed in Germany by Rough Trade Distribution (sticker on back cover)  |

@@ -64,7 +64,7 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spooky_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear, GZ Media Pressing ) |
+| Format         | 1× Vinyl (Clear, GZ Media Pressing ) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | 4AD |
 | Catalog Number | 4ad0451LP |
 | Notes | Remastered from the original analogue tapes, pressed on ultra-clear vinyl.  Catalogue number on the sticker on shrink wrap is 4ad0452lpe and the barcode is 191400045101. Manufactured in EU printed on rear of sleeve.  Catalog number and ''KEVIN@CURVEPUSHER'' in runouts are hand etched, GZ media strings are laser etched. |

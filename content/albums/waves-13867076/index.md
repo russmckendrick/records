@@ -55,7 +55,7 @@ styles: ["Indie Pop", "Neo-Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | One Little Indian Records |
 | Catalog Number | TPLP1493 |
 | Notes | Some copies were autographed on back cover by Anna Phoebe and Aisling Browuer.  |

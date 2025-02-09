@@ -75,7 +75,7 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nothing_but_the_Truth_(2008_American_film) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1136 |
 | Notes | Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord |

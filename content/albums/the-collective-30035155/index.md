@@ -62,7 +62,7 @@ The Collective is the second solo studio album by the American musician Kim Gord
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Collective_(Kim_Gordon_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Coke Bottle Green) |
+| Format         | 1× Vinyl (Coke Bottle Green) LP, Album, Limited Edition, Stereo |
 | Label          | Matador |
 | Catalog Number | OLE2029LP |
 | Notes | Packaged in a glossy sleeve. Includes a printed inner sleeve. Hype sticker: Limited edition coke bottle green vinyl Some copies came with a signed poster.  © & ℗ 2023 Matador Records. 134 Grand St New York NY 10013.  Recorded at Justin Raisen's Home STudio, Los Angeles, CA  Published by: Forgetful Songs (BMI), Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Anthony Paul Lopez Publishing, Van Cortlandt Music (SESAC) |

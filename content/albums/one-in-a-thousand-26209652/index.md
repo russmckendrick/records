@@ -53,7 +53,7 @@ styles: ["Alternative Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Splatter) |
+| Format         | 1× Vinyl (Splatter) LP, Album, Limited Edition |
 | Label          | My Big Sister Recordings |
 | Catalog Number | none |
 | Notes | Limited to 400 copies |

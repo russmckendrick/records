@@ -53,7 +53,7 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Magenta) |
+| Format         | 1× Vinyl (Magenta) LP, Album, Limited Edition |
 | Label          | Full Time Hobby |
 | Catalog Number | FTH390LPB |
 | Notes | - Supported using public funding by Arts Council England  DEAD CLUB is dedicated to anyone who is grieving Limited edition of 300.   Hype Sticker reads -   "tunng  Tunng Presents ... Dead Club  A contemplative and celebratory record on death and grief. Composed and produced by Tunng, Featuring Contributions from Max Porter.   Tunng Store Exclusive  2x Magenta LP. limited to 300 Includes download code. FTH390LPB"  |

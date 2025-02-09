@@ -67,7 +67,7 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amused_to_Death |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc (Remixed) |
+| Format         | 2× Vinyl (Remixed) LP, Album, Limited Edition, Numbered, Picture Disc |
 | Label          | Columbia |
 | Catalog Number | 88875065801 |
 | Notes | New 2015 remix completed by James Guthrie.  "The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.   |

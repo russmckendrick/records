@@ -61,7 +61,7 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Album Deluxe Edition, Box Set |
+| Format         | 4× Vinyl LP, Album, Deluxe Edition | 1× Box Set |
 | Label          | Laced Records |
 | Catalog Number | LMLP004X |
 | Notes | THE ULTIMATE COLLECTOR'S VINYL EDITION Deluxe X4 Vinyl Boxset Edition X4 180-gram Vinyl Discs Each disc will be packaged within a custom designed spined sleeve All 4 vinyls packaged within a deluxe custom designed thick cardboard boxset   Includes the full 10 track ‘No Man’s Sky: Music for an Infinite Universe’ and 6 soundscapes spread across 4 vinyl discs  Plus digital download of the 10 track album and 6 soundscapes in MP3 format |

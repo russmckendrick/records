@@ -61,7 +61,7 @@ The haunting songs of Nick Drake continue to fascinate fans worldwide over 30 ye
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Five_Leaves_Left |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Island Records |
 | Catalog Number | 0602537347568 |
 | Notes | Packaged in a gatefold sleeve. Includes a custom inner sleeve. Some copies include a digital download.  Remastered from a 24-bit digital file made from the original tape by the album's original engineer, John Wood at Abbey Road Studios.  All Songs [...] © 1969 Warlock Music Ltd.  Printed & Made by Ernest J. Day & Co. Ltd. |

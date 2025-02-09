@@ -77,7 +77,7 @@ The Singles is a compilation album of singles and B-sides by the German experime
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Singles_(Can_album) |
-| Format         | Vinyl 3× LP Compilation |
+| Format         | 3× Vinyl LP, Compilation |
 | Label          | Spoon Records |
 | Catalog Number | SPOON60 |
 | Notes | Issued in tri-fold sleeve with download code.  Made in the EU.  This Compilation 2017 Spoon Records und exclusive license to Mute Artists Limited for the world outside Germany |

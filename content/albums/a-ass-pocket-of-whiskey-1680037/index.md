@@ -59,7 +59,7 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Ass_Pocket_of_Whiskey |
-| Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Limited Edition, Reissue |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1026-1 |
 | Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   Released with different stickers on shrink and download code. Tracks are listed sequentially on release.  ©℗1996 Fat Possum Records, LLC.   Printed on labels: "All Rights Reserved All Wrongs Reversed"  "Made in the USA".  Runouts are etched. |

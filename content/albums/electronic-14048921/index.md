@@ -71,7 +71,7 @@ The album was a commercial and critical success, reaching number 2 in the United
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | UMC |
 | Catalog Number | 5388157 |
 | Notes | Includes 'The Sound of Vinyl' free digital download code.  This compilation: ℗ & © 2019 Spectrum Music, a division of Universal Music Operations Ltd. / Sony Music Entertainment UK Limited.  Made in the E.U. |

@@ -64,7 +64,7 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Sly_and_the_Family_Stone_album) |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Epic |
 | Catalog Number | 88985432351 |
 | Notes | Runouts are etched, '03' on Side A is mirrored.  |

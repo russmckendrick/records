@@ -59,7 +59,7 @@ Faithful is the seventh studio album by American musician Todd Rundgren, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Faithful_(Todd_Rundgren_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | K55510 |
 | Notes | Textured sleeve with embossed letters on front cover. Plain cardboard inner sleeve with BR 6963 printed on. ℗ & © 1976 on back cover  B4 is misspelled 'Cliches' on label. |

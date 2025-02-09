@@ -65,7 +65,7 @@ The album opened up space for a wave of female-centric indie-rock bands that han
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pod_(The_Breeders_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 0006 |
 | Notes | Includes a printed inner sleeve. Track positions are sequentially listed as 1 to 12 across sides.  Recorded at Palladium Studios, Edinburgh, Scotland. Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.  Made in the EU  Josephine Wiggs courtesy of [l2051].  EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.  ℗ & © 1990 4AD Ltd. |

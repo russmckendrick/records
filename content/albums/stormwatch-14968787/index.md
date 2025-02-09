@@ -75,7 +75,7 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stormwatch_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (white vinyl, 180gm) |
+| Format         | 1× Vinyl (white vinyl, 180gm) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Chrysalis |
 | Catalog Number | 0190295300234 |
 | Notes | The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies. Standalone release of the main album, following on from the 2019 book-format reissue.  Also available as a black vinyl release. |

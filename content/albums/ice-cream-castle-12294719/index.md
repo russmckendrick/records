@@ -55,7 +55,7 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ice_Cream_Castle |
-| Format         | Vinyl LP Album Limited Edition Reissue (Tri-coloured Vinyl) |
+| Format         | 1× Vinyl (Tri-coloured Vinyl) LP, Album, Limited Edition, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1-25109 |
 | Notes | Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown. |

@@ -75,7 +75,7 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 447 |
 | Notes | Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk |

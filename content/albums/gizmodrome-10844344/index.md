@@ -60,7 +60,7 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gizmodrome_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Ear Music |
 | Catalog Number | 0212264EMU |
 | Notes | Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany. |

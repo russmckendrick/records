@@ -67,7 +67,7 @@ The album initially received poor reviews despite its commercial success; the ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Core_(Stone_Temple_Pilots_album) |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (180 Gram) Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP833 |
 | Notes | Standard black 2xLP vinyl release, 180 gram audiophile vinyl with etched D-Side.  Recorded at Rumbo Recorders in Los Angeles, CA Mixed at Can Am Studion (sic) in Los Angeles, CA Mastered at Future Disc Systems  Originally released ℗ & © 1992 Warner Music. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music. Made in the EU. |

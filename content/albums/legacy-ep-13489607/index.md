@@ -45,7 +45,7 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Red Translucent ) |
+| Format         | 1× Vinyl (Red Translucent ) 12", 33 ⅓ RPM, EP, Record Store Day, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | 1032 |
 | Notes | Record Store Day UK 2019 Release; in stickered OBI wrap sleeve similar to the original 7" single package.  Features all the tracks originally released on the 1998 UK Legacy Single CD1 & CD2 |

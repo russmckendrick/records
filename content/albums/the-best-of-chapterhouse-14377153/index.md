@@ -62,7 +62,7 @@ The Best of Chapterhouse is a greatest hits compilation album by English shoegaz
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_Chapterhouse |
-| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple & Pink Marble) |
+| Format         | 2× Vinyl (Purple & Pink Marble) LP, Compilation, Limited Edition, Numbered, Reissue |
 | Label          | Sony Music |
 | Catalog Number | MOVLP2568 |
 | Notes | Limited edition of 1500 copies. Gatefold sleeve, inner sleeves are die cut, poly lined white paper. Runouts are etched. Made in the EU on labels and rear of sleeve. ℗ 2007 Sony Music Entertainment. © 2007, 2019 Sony Music Entertainment. |

@@ -59,7 +59,7 @@ styles: ["Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT705CLP |
 | Notes | Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  ℗ & © 2017 Union Square Music Limited, a BMG Company All tracks published by BMG Rights Management (UK) Ltd. except A3, A5 and A6 published by Rock Music Co. Ltd. All tracks published by BMG Rights Management (UK) Ltd. except B2, B3 published by Rock Music Co. Ltd., B6 published by Warner Chappell Music Ltd.  Manufactured in Norway. Runouts are etched. |

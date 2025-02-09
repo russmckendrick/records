@@ -59,7 +59,7 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Big_Canoe |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | V2369 |
 | Notes | This is an Australian release although no country of release displayed on Sleeve, insert or labels. However, the labels' publisher credits are the Australian publishers and the dead wax has Australian mastering and pressing details.  All runouts are etched  Printed inner sleeve with lyrics and credits  Outer sleeve: ℗ 1986 Virgin Records © 1986 Virgin Records  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. Virgin is a trade mark of Virgin Holdings Ltd. |

@@ -64,7 +64,7 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paul%27s_Boutique |
-| Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
+| Format         | 1× Vinyl (180g, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Capitol Records |
 | Catalog Number | 00602577057847 |
 | Notes | Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC |

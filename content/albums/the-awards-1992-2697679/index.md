@@ -76,7 +76,7 @@ styles: ["Dance-pop", "Indie Rock", "Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Polygram TV |
 | Catalog Number | 515 207-1 |
 | Notes | The Brits 1992 sponsored by Britannia Music Club. 32 classic tracks by the cream of the 1992 Brit Award nominees. Gatefold cover with pictures and synopsis of each track/artist. |

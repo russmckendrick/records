@@ -72,7 +72,7 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Desperate_Youth,_Blood_Thirsty_Babes |
-| Format         | Vinyl 2× LP Limited Edition Reissue (Red, 180g) |
+| Format         | 2× Vinyl (Red, 180g) LP, Limited Edition, Reissue |
 | Label          | Touch And Go |
 | Catalog Number | tg415 |
 | Notes | 20th anniversary edition. Limited edition of 2500. 180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.  Sides A-C mastered... at Sterling Sound  Recorded August/Sept at Hickory Lane Additional recording and mixing at Headgear Productions  ©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records  Modern Romance: © BMG Rights Management (BMI) |

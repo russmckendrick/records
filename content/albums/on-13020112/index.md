@@ -63,7 +63,7 @@ On is the second studio album by English alternative rock band Echobelly. Gainin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_(Echobelly_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2250 |
 | Notes | ℗ 1995 Rhythm King Records.  © 1995, 2018 Distribution Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V for Sony Music Entertainment.  Cat#: MOVLP2250 appears on back cover, front sticker and spine.   Sticker on front: Music On Vinyl Echobelly “On” Limited Edition of 750 Numbered Copies on Orange Vinyl Contains Insert  180 gram audiophile vinyl. |

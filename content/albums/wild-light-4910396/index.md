@@ -65,7 +65,7 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wild_Light_(album) |
-| Format         | Vinyl LP Album, CD Album |
+| Format         | 1× Vinyl LP, Album | 1× CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 028 |
 | Notes | Includes printed inner sleeve and CD version of the album. Pre-orders from the first week came signed by all band members.  Cover with sticker on front reading:  "180gr Vinyl Edition incl. album on CD  Wild Light is where the music leads. There is no order but chaos. All that matters is to listen.  "No-one knows what is happening. There is a lot of danger out there, ok?"  Co-produced by longtime conspirator Dave Sanderson, mixed at the Castle of Doom by Tony Doogan (Belle and Sebastien/Mogwai) in Glasgow, mastered at Abbey Road Studios  This sticker is removable" |

@@ -51,7 +51,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo ("Wonderful" colourway) |
+| Format         | 1× Vinyl ("Wonderful" colourway) LP, Album, Stereo |
 | Label          | Spencer Park Music |
 | Catalog Number | SPM003 |
 | Notes | Gatefold Vinyl 12". Special release day 'Wonderful' colourway. Limited to 250.  |

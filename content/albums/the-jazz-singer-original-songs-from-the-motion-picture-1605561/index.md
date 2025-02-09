@@ -64,7 +64,7 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | EA-ST 12120 |
 | Notes | Issued in glossy embossed gatefold sleeve with no barcode.  Black custom labels with Neil Diamond logo on side A, Capitol logo on side B. Track A2 with "Trad. arr." instead of "Trad. adapt." credit. Includes printed inner sleeve with die-cut corners.  The catalogue number is EA-ST 12120 on the sleeve, EAST 12120 on the labels.  No subtitle on labels. Tracks B6b and B7 not listed on back cover.  Recording Studios: Arch Angel Studios-Los Angeles, Record Plant Mobile 3, Cherokee Recording Studios, Sunset Sound, Dawnbreaker. Mastering: The Mastering Lab.  Publishing: A1 to A3, A5, B1, B2, B5 to B7: Chappell Music Ltd. Tracks A4, A6, A7, B3, B4: Chappell Music Ltd./Britico/MCPS  ℗1980 Original Sound Recordings made by Neil Diamond ©1980 Neil Diamond  Runouts are stamped, except mastering etched. |

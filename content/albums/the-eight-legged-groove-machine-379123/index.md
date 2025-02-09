@@ -66,7 +66,7 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Eight_Legged_Groove_Machine |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | The Far Out Recording Company |
 | Catalog Number | GONLP 1 |
 | Notes | Released with a printed inner sleeve of lyrics, credits and photograph. Track B8 is not listed on the release and is preceded by 17 seconds of silence.  [Labels]: ℗ 1988 Polydor Ltd (UK)  © Polydor Ltd (UK) 1988. Polygram Music 1988.  [Sleeve]: UK GONLP 1 INT 837 135-1 [Y] | POL 281 The Far Out Record Company 1986/1988. ℗ Polydor Ltd (UK) 1988 © Polydor Ltd (UK) 1988. Place of manufacture of record as stated on label. Marketed and distributed in the UK by Polydor Ltd.  [Inner sleeve]: Lyrics reproduced by kind permission of Polygram Music. |

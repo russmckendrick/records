@@ -51,7 +51,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Stereo (Sky Blue) |
+| Format         | 1× Vinyl (Sky Blue) LP, Stereo |
 | Label          | Burning Shed |
 | Catalog Number | BSHED2401V |
 | Notes | 180g Sky Blue vinyl edition -a  Burning Shed exclusive.   A1 to A5 recorded at Susurreal Studios, Sandford, Devon in Autumn 1989. B1 to B4 recorded at Nomansland, Hemel Hempstead between Summer 1989 and Summer 1990. A1 to A4 taken from '[r=2094234]', a self-released cassette, Autumn 1989.  Mastered by Steven Wilson, Autumn 2023.  ℗ & © 2023 no-man under exclusive license to Burning shed.   |

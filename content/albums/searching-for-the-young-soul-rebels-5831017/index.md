@@ -59,7 +59,7 @@ The album was preceded by and contains the hit-single "Geno", which topped the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Searching_for_the_Young_Soul_Rebels |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | PCSX 7213 |
 | Notes | Comes with printed inner sleeve with lyrics and liner notes.  Runouts are etched.  Back sleeve and labels: Digital remaster ℗2000 The copyright in this sound recording is owned by Parlophone Records Ltd. ©2014 Parlophone Records Ltd.   Inner sleeve: All lyrics ©1980, except *©1979, EMI Music Publishing Ltd.  |

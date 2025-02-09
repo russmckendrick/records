@@ -82,7 +82,7 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP, DVD DVD-Video, Box Set Compilation |
+| Format         | 4× Vinyl LP | 1× DVD DVD-Video | 1× Box Set Compilation |
 | Label          | XL Recordings |
 | Catalog Number | XLLP637 |
 | Notes | "XL Recordings is a collaborative endeavour, and many people have contributed to its evolution.  In the song “Out Of Space”, Liam Howlett of The Prodigy provided a blueprint when he sampled Kool Keith of Ultramagnetic MC’s rapping these words: “Pay Close Attention”.  And whilst XL has never had any outside ownership, Gil Scott-Heron advisedme not to even consider XL “independent”; because everything is connected.  This compilation is an attempt to illustrate some of these connections.  Part 1 is the roots of XL; underground music, made for DJ’s. These roots are still growing.  Part 2 features some of the singular talents who have taken the label further than we ever envisioned. There is no unifying genre, and I’ll happily confess to aesthetic opportunism; hopefully the thread of originality is evident though.  We’ve never compromised. The rave music XL first became known for was known as “hardcore”; that spirit continues.  To show our appreciation for your support: thank you DJ’s.  And thank you also to the retailers, writers and of course, ravers."  -- Richard Russell, London, 2014 |

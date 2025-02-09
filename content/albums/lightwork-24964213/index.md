@@ -126,7 +126,7 @@ Lightwork is the twenty-first studio album by Canadian musician Devin Townsend, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lightwork |
-| Format         | Vinyl 2× LP Album (Orange [Transparent Orange]), Vinyl LP Album (Orange [Transparent Orange]), CD Album, CD Album, Blu-ray Album, Box Set Deluxe Edition Limited Edition |
+| Format         | 2× Vinyl (Orange [Transparent Orange]) LP, Album | 1× Vinyl (Orange [Transparent Orange]) LP, Album | 1× CD Album | 1× CD Album | 1× Blu-ray Album | 1× Box Set Deluxe Edition, Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM624 |
 | Notes | Comes with 2 artcards and 36-page perfect bound booklet. |

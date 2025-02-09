@@ -76,7 +76,7 @@ styles: ["Rock & Roll", "Rhythm & Blues", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Yellow, 180 Gram, Gatefold) |
+| Format         | 2× Vinyl (Yellow, 180 Gram, Gatefold) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | London Records |
 | Catalog Number | 2PS 606/7 |
 | Notes | Record Store Day Pressing for Drop 2 on July 17th, but few copies slipped out in France and Mexico on Drop 1.  Limited to 7200 copies.  Includes two 8.5" x 11" lithographs printed on embossed archival paper  Labels: Made in the EU.  Sleeve: Made in Germany  with OBI  inner 1 with London Sunburst image  inner 2 with replica of  original London Records insert with Rolling Stones catalogue  Variant 4 runout: side B - "2" in "V2" is mirrored; side C - "1" in "+1" is mirrored. |

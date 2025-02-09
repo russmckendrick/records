@@ -59,7 +59,7 @@ Television Themes is the seventh studio album by English comedian and musician M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Television_Themes |
-| Format         | Vinyl LP Album (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |
 | Notes | "Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |

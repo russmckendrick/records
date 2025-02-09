@@ -68,7 +68,7 @@ So, what’s it all about? Through these broken people, and all their butchery a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Murder_Ballads |
-| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media (180g) Album, Reissue, Remastered, Stereo |
 | Label          | Mute |
 | Catalog Number | LPSEEDS9 |
 | Notes | Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company  Runouts are etched |

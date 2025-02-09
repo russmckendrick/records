@@ -54,7 +54,7 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Daptone Records |
 | Catalog Number | DAP-035 |
 | Notes | includes coupon with code for mp3 download |

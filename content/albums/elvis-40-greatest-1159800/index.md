@@ -89,7 +89,7 @@ It was originally pressed with a brown cover and doctored image of Elvis, with b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Elvis%27_40_Greatest |
-| Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation |
 | Label          | Arcade |
 | Catalog Number | ADEP 12 |
 | Notes | Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA  |

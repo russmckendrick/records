@@ -71,7 +71,7 @@ Popular and critical opinion about <i>Kid A</i> was initially mixed. Had Yorke f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kid_A |
-| Format         | Vinyl 2× 10" 33 ⅓ RPM Album |
+| Format         | 2× Vinyl 10", 33 ⅓ RPM, Album |
 | Label          | Parlophone |
 | Catalog Number | 7243 5 27753 1 6 |
 | Notes | The track 'Idioteque' contains two samples from the Oddyssey label title `First Recordings - [r=121406]`(1976). The two compositions samples are Paul Lansky's 'Mild Und Liese' [recte 'Mild Und Leise'] Published by Grim Tim Music and 'Short Piece' by Arthur Kreiger Published by The Subito Music Corporation. Both samples are used with the kind permission of the composers and The Sony Music Corporation.  Side Delta contains a short unmentioned outro after 'Motion Picture Soundtrack', separated by a locked groove.  Comes in a matte gatefold sleeve with printed inner sleeves.  Printed In The EU [jacket rear] Made In EU [labels] |

@@ -72,7 +72,7 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_a_Lost_World |
-| Format         | Vinyl 2× LP Album Bioplastic (Half Speed Master) |
+| Format         | 2× Vinyl (Half Speed Master) LP, Album, Bioplastic |
 | Label          | Polydor |
 | Catalog Number | 7503682 |
 | Notes | Gatefold sleeve with a matte finish. The interior section of each pocket is printed black. Two printed inner sleeves of top opening matte paper. Issued with a 24 x 24 inch (60 x 60cm) poster. This was sealed within the shrinkwrap.  'Bagatelle' sculpture by Janez Pirnat (1975)  A Polydor Records release. ℗ & © 2024 Lost Music Limited, under exclusive licence to Universal Music Operations Limited. Made in the EU. Universal International Music B.V.  'Made in the EU' printed on cover and centre labels, 'Made in Germany' stickered on shrinkwrap. Runouts are etched, except, "-64865-" and "-64923-" which are stamped.  The I and II after the Schallplattenfabrik job numbers are rendered as Ⅰ and Ⅱ.  Track durations are not printed on the release.  On the Cure official site, marketed as a "store exclusive" and "half speed master 2LP vinyl" release.  The gatefold printed inner includes the last six lines of poem "When I Have Fears That I May Cease To Be" by John Keats.  |

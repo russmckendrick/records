@@ -59,7 +59,7 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bizarro_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | RCA |
 | Catalog Number | 19439793371 |
 | Notes | One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green. Outer sleeve is a paler shade and has a different font, notably to the artist name. Band official website states that David Gedge was not consulted whilst this reissue was being put together. Download voucher included.  On both runouts, the geometric plating marks are mirrored. |

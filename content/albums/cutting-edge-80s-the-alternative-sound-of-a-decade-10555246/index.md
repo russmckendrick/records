@@ -62,7 +62,7 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Sony Music |
 | Catalog Number | 88985431271 |
 | Notes | UK & European 2 vinyl compilation, subtitled: 'The alternative sound of a decade'   This compilation ℗ & © 2017 Sony Music Entertainment. Distributed by Sony Music Entertainment.  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU.  In 2015, a CD compilation was issued with a similar cover & name  [url=/release/7566631]catalogue #:  88875140272[/url], however, with different tracklisting. |

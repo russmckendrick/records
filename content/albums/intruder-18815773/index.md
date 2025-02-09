@@ -68,7 +68,7 @@ Intruder is the nineteenth studio album by English musician Gary Numan, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Intruder_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver ) |
+| Format         | 2× Vinyl (Silver ) LP, Album, Limited Edition, Stereo |
 | Label          | BMG |
 | Catalog Number | 538658721 |
 | Notes | Gatefold sleeve. |

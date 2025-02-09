@@ -60,7 +60,7 @@ Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raw_Like_Sushi |
-| Format         | Vinyl LP Album Reissue Remastered (30th Anniversary) |
+| Format         | 1× Vinyl (30th Anniversary) LP, Album, Reissue, Remastered |
 | Label          | Virgin |
 | Catalog Number | 0813320 |
 | Notes | 30th Anniversary Remastered Edition. Includes download code. |

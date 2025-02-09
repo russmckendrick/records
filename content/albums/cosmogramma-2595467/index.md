@@ -71,7 +71,7 @@ Cosmogramma was promoted with a free "augmented reality" application called Cosm
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cosmogramma |
-| Format         | CD Album |
+| Format         | 1× CD Album |
 | Label          | Warp Records |
 | Catalog Number | WARPCD195 |
 | Notes | Released in jewel case.    Published by Just Isn't Music.    (P)(C) 2010 Warp Records Limited    Made in EU.   |

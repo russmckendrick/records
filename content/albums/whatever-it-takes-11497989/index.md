@@ -55,7 +55,7 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Mono (Gold Transparent) |
+| Format         | 1× Vinyl (Gold Transparent) LP, Album, Limited Edition, Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-051 |
 | Notes | Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card. |

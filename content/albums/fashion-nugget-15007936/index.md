@@ -69,7 +69,7 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fashion_Nugget |
-| Format         | Vinyl LP Album Limited Edition Unofficial Release (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Unofficial Release |
 | Label          | Not On Label (Cake) |
 | Catalog Number | 28671 |
 | Notes | Sticker on outer sleeve: COLOURED VINYL . LIMITED EDITION .  CAKE 2314 J STREET #117 SACRAMENTO, CA  95816 |

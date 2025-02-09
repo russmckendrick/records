@@ -59,7 +59,7 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nebraska |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | CBS |
 | Catalog Number | CBS 25100 |
 | Notes | Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder. Mastered at Atlantic Studios by Dennis King. Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).  Inner Sleeve has lyrics printed on it.  Made in England. |

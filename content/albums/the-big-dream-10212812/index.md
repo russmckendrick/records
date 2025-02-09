@@ -70,7 +70,7 @@ Two singles were released from The Big Dream; "I'm Waiting Here", a collaboratio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Dream |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 476 |
 | Notes | Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front of the shrink wrap. CD comes packaged inside in a clear envelope-style PVC sleeve. |

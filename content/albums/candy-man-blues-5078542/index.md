@@ -59,7 +59,7 @@ styles: ["Country Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Compilation |
 | Label          | Complete Blues |
 | Catalog Number | SBLUELP010 |
 | Notes | A1, A3 Recorded Memphis, Tenn. 14 Feb 1928  A2, A4, A6, B1 Recorded New York City 21 Dec 1928  A5, B2 to B7 Recorded New York City 28 Dec 1928 |

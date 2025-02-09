@@ -63,7 +63,7 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grave_Dancers_Union |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Columbia |
 | Catalog Number | MOVLP1368 |
 | Notes | 180 gram audiophile vinyl, including insert |

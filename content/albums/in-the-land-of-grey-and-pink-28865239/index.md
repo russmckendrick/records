@@ -72,7 +72,7 @@ The album was critically well received but was not a chart success, which led to
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Land_of_Grey_and_Pink |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Pink / Grey Marble, Expanded Edition) |
+| Format         | 2× Vinyl (Pink / Grey Marble, Expanded Edition) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Decca |
 | Catalog Number | 00602448775696 |
 | Notes | Hype Sticker Reads:  Expanded Edition 2LP Set Featuring The Original Classic Album plus Rare Bonus Tracks and BBC Sessions  WWW.DECCA.COM TOTAL TIMING: 1:23:47 MADE IN THE EU  Sticker: Made in Germany |

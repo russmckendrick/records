@@ -56,7 +56,7 @@ styles: ["Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | 2383 239 |
 | Notes | On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen" |

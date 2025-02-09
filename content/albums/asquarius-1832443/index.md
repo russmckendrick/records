@@ -61,7 +61,7 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Asquarius |
-| Format         | Vinyl LP Album Limited Edition Numbered Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Numbered, Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 390-1 |
 | Notes | A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England. |

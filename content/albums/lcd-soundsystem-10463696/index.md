@@ -59,7 +59,7 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/LCD_Soundsystem_(album) |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | DFA |
 | Catalog Number | dfaplg 2138lp |
 | Notes | Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover. |

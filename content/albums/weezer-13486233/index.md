@@ -64,7 +64,7 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weezer_(Blue_Album) |
-| Format         | Vinyl LP Album Record Store Day Limited Edition (Teal) |
+| Format         | 1× Vinyl (Teal) LP, Album, Record Store Day, Limited Edition |
 | Label          | Crush Music (2) |
 | Catalog Number | 7567-86533-1 |
 | Notes | The sixth self-titled album by Weezer, commonly known as 'The Teal Album'. This album contains ten cover versions.  Released for Record Store Day 2019 - Saturday 13th April.  Manufactured in the E.U.   |

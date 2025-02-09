@@ -65,7 +65,7 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Replicas_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 7 |
 | Notes | Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London. Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners. Initial copies included a poster.  There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording |

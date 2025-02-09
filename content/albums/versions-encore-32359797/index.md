@@ -46,7 +46,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP Limited Edition (eco-mix) |
+| Format         | 1× Vinyl (eco-mix) 12", EP, Limited Edition |
 | Label          | Hiraeth (2) |
 | Catalog Number | HIRAETH003 |
 | Notes | Limited edition of 500 copies via Bandcamp, signed  Official release date 6.12.2024 according to the a.m. Bandcamp account, in fact they were send out in the second half of November |

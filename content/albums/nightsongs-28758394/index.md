@@ -77,7 +77,7 @@ Nightsongs is the first album by Canadian indie rock band Stars, released in 200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nightsongs_(Stars_album) |
-| Format         | Vinyl LP Album (Light Blue Opaque), Vinyl LP Compilation (Royal Blue), All Media Limited Edition |
+| Format         | 1× Vinyl (Light Blue Opaque) LP, Album | 1× Vinyl (Royal Blue) LP, Compilation | 1× All Media Limited Edition |
 | Label          | Sweat Records Records |
 | Catalog Number | SRR 006 |
 | Notes | Side A & B: Nightsongs LP Side C: "Toxic Holiday" (Nightsongs bonus track) & A Lot of Little Lies for the Sake of One Big Truth EP Side D: The Comeback EP  Gatefold jacket with new essay by Louis Philippe! Limited edition of 500. 250 available exclusively for STARS Patreon members. The remaining 250 available through the Sweat Records Records Bandcamp store.  |

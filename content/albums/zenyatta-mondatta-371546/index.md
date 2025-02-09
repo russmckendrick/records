@@ -64,7 +64,7 @@ Nigel Gray, who had recorded and engineered the band’s first two albums, 1978�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Zenyatta_Mondatta |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64831 |
 | Notes | ℗ 1980 A&M Records Ltd. © 1980 A&M Records Ltd. Original sound recording made by A&M Records Ltd  Recorded at Wisseloord Studios, Hilversum, Netherlands.  Issued with an illustrated picture inner sleeve.  A1 to A5, B1, B3, B4: Virgin Music (Publishers) Ltd A6, B2, B5: Roxanne Music Overseas Ltd  Runouts are etched, except for STRAWBERRY |

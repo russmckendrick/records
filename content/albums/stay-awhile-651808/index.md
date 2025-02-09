@@ -57,7 +57,7 @@ styles: ["Soul-Jazz", "Soul"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stay_Awhile_(Dusty_Springfield_song) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Wing Records |
 | Catalog Number | WL.1211, WL 1211 |
 | Notes | Release has a small Q + A with Dusty on the rear cover.  Month of release information from Record Collector Magazine Jan 1994 p.211  |

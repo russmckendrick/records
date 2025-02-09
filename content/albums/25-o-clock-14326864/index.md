@@ -53,7 +53,7 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/25_O%27Clock |
-| Format         | Vinyl 12" 33 ⅓ RPM Mini-Album Reissue Repress Stereo (Gatefold, 200gr) |
+| Format         | 1× Vinyl (Gatefold, 200gr) 12", 33 ⅓ RPM, Mini-Album, Reissue, Repress, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELP023 |
 | Notes | 2019 reissue.  No track times on this issue. Made in England  Back cover: "All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"  Liner notes: Captured gently at Chapel Lane Studios, Hereford  Mastering credit to [a147827] per liner notes.  Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side. |

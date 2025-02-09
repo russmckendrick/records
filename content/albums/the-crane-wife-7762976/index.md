@@ -56,7 +56,7 @@ Known for sepia-toned songs about barrow boys and chimney sweeps, doomed lovers 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Crane_Wife |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | C1 0946 3 53984 1 0 |
 | Notes | Similar to [r=888785] but with different labels and runouts. Similar also to [r=17074038], which has [l68029] as the 2nd Label and different labels with track durations.  Gatefold sleeve.  [On back cover]: Recorded at Kung Fu Bakery in Portland, Oregon between April and June, 2006. [...] Mixed [...] at BJB. Mastered [...] at SAE Mastering in Phoenix, AZ. [a360660] appears courtesy of Nonesuch Records. [url=https://www.discogs.com/artist/226217-Chris-Walla]Christopher Walla[/url] appears courtesy of Atlantic Records.  Dedicated to Henry Ellis Meloy, Scout Fahey McKeel Funk, and the memory of Harriett Meloy and Louise Query  Capitol Records is a Capitol Music label. ℗© 2006 Capitol Records, Inc. [...] Made in U.S.A.  Track durations do not appear on the release. |

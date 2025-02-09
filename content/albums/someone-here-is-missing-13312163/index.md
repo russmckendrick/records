@@ -59,7 +59,7 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Someone_Here_Is_Missing |
-| Format         | Vinyl LP Album Remastered Repress |
+| Format         | 1× Vinyl LP, Album, Remastered, Repress |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1028 |
 | Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...]. Mixed by [...] and [...] @ [...], Yeovil. Remastered in 2018 by [...]. |

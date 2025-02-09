@@ -66,7 +66,7 @@ The Dead Cities are situated in an elevated area of limestone known as Limestone
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dead_Cities |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Virgin |
 | Catalog Number | 3537463 |
 | Notes | Comes with a [url=https://www.discogs.com/The-Future-Sound-Of-London-Dead-Cities/release/18473008]free digital download[/url] code redeemable at [l1052727].  Gatefold cover.  Exclusive Retailer version from [l1300462] comes with hand-numbered 1 to 100 lithograph print. |

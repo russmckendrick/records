@@ -66,7 +66,7 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singles_Going_Steady |
-| Format         | Vinyl LP Compilation Numbered Reissue Remastered Repress (Orange Translucent) |
+| Format         | 1× Vinyl (Orange Translucent) LP, Compilation, Numbered, Reissue, Remastered, Repress |
 | Label          | Domino |
 | Catalog Number | REWIGLP129 |
 | Notes | Numbered edition of 2000 copies Heavyweight vinyl including download code and 8-page booklet.  Half-speed mastering by Barry Grint at Alchemy, London. This compilation ℗ 1979 © 2019 Domino Recording Co. Ltd. Made in the EU |

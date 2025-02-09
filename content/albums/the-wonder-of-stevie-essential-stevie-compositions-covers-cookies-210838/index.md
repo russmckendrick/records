@@ -58,7 +58,7 @@ styles: ["Soul", "Funk", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" Compilation |
+| Format         | 2× Vinyl 12", Compilation |
 | Label          | Harmless |
 | Catalog Number | HURTLP051 |
 | Discogs URL    | [DJ Spinna - The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)](https://www.discogs.com/release/210838-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Essential-Stevie-Compositions-Covers-Cookies) |

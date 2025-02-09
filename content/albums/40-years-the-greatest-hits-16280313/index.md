@@ -62,7 +62,7 @@ Their 1990 recording of "The Boxer" made its debut here. Other tracks from their
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/40_Years:_The_Greatest_Hits |
-| Format         | Vinyl 2× LP Compilation (Red) |
+| Format         | 2× Vinyl (Red) LP, Compilation |
 | Label          | Parlophone |
 | Catalog Number | 0190295200046 |
 | Notes | Released to celebrate the 40th Anniversary of the group. |

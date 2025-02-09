@@ -59,7 +59,7 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Apollo_(Hall_%26_Oates_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | RCA |
 | Catalog Number | PL87035 |
 | Notes | ℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label   |

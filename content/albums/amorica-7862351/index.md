@@ -66,7 +66,7 @@ Other songs recorded during the Amorica sessions were "Feathers," "Tied Up and S
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amorica |
-| Format         | Vinyl 2× LP Album Reissue (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | American Recordings |
 | Catalog Number | 00602537494231 |
 | Notes | © ℗ 1994 American Recordings, LLC.  Made in the EU. Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  Comes with plain white inner sleeves and a double printed lyric sheet.  Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record. Contains added coupon with [url=https://www.discogs.com/release/9476948]MP3 download[/url] code.  Back To Black Sticker on front. |

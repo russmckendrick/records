@@ -71,7 +71,7 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Absentia |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
+| Format         | 2× Vinyl (White, 180g) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE981 |
 | Notes | [Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves.  |

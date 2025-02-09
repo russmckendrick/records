@@ -68,7 +68,7 @@ Brother Sister was lead singer N'Dea Davenport's last album with the Brand New H
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Brother_Sister |
-| Format         | Vinyl LP, Vinyl LP, All Media Album Limited Edition Reissue |
+| Format         | Vinyl LP | Vinyl LP | All Media Album, Limited Edition, Reissue |
 | Label          | [{'name': 'London Records', 'catno': ''}] |
 | Catalog Number | LMS1725113 |
 | Discogs URL    | [The Brand New Heavies - Brother Sister](https://www.discogs.com/release/31848254-The-Brand-New-Heavies-Brother-Sister) |

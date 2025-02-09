@@ -60,7 +60,7 @@ London is the fifth album by the British rock band Jesus Jones in 2001 through K
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/London_(Jesus_Jones_album) |
-| Format         | Vinyl LP Album Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC956 |
 | Discogs URL    | [Jesus Jones - London](https://www.discogs.com/release/25038310-Jesus-Jones-London) |

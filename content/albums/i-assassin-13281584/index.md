@@ -58,7 +58,7 @@ I, Assassin is the fourth solo studio album by the English new wave musician Gar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I,_Assassin |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 40 |
 | Notes | Pressed on dark green vinyl. Released through the Beggars Banquet "The Arkive" project Restored from the original analogue tapes. |

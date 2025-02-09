@@ -62,7 +62,7 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Machine_Still_Kills_Fascists |
-| Format         | Vinyl LP Album Limited Edition Stereo (Crystal) |
+| Format         | 1× Vinyl (Crystal) LP, Album, Limited Edition, Stereo |
 | Label          | Dummy Luck Music |
 | Catalog Number | DLM002LPXC |
 | Notes | Indie store exclusive pressed on crystal vinyl  Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.  Songs are listed on the sleeve in track order and are not divided into sides |

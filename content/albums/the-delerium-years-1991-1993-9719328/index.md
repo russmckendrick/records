@@ -148,7 +148,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl 2× LP Compilation |
+| Format         | 1× Box Set Compilation, Remastered | 2× Vinyl LP, Album | 2× Vinyl LP, Album | 3× Vinyl LP, Album | 2× Vinyl LP, Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE893 |
 | Discogs URL    | [Porcupine Tree - The Delerium Years 1991-1993](https://www.discogs.com/release/9719328-Porcupine-Tree-The-Delerium-Years-1991-1993) |

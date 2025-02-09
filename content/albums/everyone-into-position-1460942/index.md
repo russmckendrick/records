@@ -62,7 +62,7 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everyone_into_Position |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 |
 | Notes | Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport.  Mixed at Sarm West Studio, London.  Mastered at Abbey Road, London.   |

@@ -60,7 +60,7 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flight_of_the_Conchords |
-| Format         | Vinyl LP Album Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Reissue |
 | Label          | Sub Pop |
 | Catalog Number | SP 715 |
 | Notes | Credits Art Direction – Dusty Summers, Jeff Kleinsmith Design – Jeff Kleinsmith Drum Programming [Beat Programming] – Mickey Petralia Engineer – Matt Shane (2), Mickey Petralia Illustration – Tyler Stout Management [Music] – Martinovich & Sampson Mastered By – Greg Calbi, Ray Janos Mixed By – Mickey Petralia Performer – Bret McKenzie, Jemaine Clement Producer – Flight Of The Conchords, Mickey Petralia Written-By – Bret McKenzie, Jemaine Clement |

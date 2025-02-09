@@ -65,7 +65,7 @@ On the album, Catherine plays a variety of instruments, including piano, guitar,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Confessions_of_a_Romance_Novelist |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE920 |
 | Notes | Sticker in front says: 2LP Gatefold 180g VINYL with Download Code "A rich and complex debut. A blackly witty breakup album ... compelling." THE OBSERVER "Kate Bush's Hounds of Love ... updated for the 21st century." PROG "Karen Carpenter singing John Grant." UNCUT "Fascinating" SUNDAY TIMES **** MOJO includes 4 new bonus acoustic tracks. kscope920 kscopemusic.com/theanchoress  |

@@ -61,7 +61,7 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_Fortune_(film) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN 95 |
 | Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.  Printed in Canada.    Comes with an 12" photography (photocopy).   |

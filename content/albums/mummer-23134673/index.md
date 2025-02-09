@@ -61,7 +61,7 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mummer_(album) |
-| Format         | Vinyl LP Album Reissue (200g) |
+| Format         | 1× Vinyl (200g) LP, Album, Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP106 |
 | Notes | The album has been mastered with input from Andy Partridge.  Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'     |

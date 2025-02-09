@@ -68,7 +68,7 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Return_to_Cookie_Mountain |
-| Format         | Vinyl LP 45 RPM (Brown, Dark Translucent [Amber]), Vinyl LP 45 RPM (Brown, Light Translucent [Grain]), All Media Album Club Edition Deluxe Edition Reissue Remastered |
+| Format         | 1× Vinyl (Brown, Dark Translucent [Amber]) LP, 45 RPM | 1× Vinyl (Brown, Light Translucent [Grain]) LP, 45 RPM | 1× All Media Album, Club Edition, Deluxe Edition, Reissue, Remastered |
 | Label          | Interscope Records |
 | Catalog Number | B0028301-01 |
 | Notes | Vinyl Me Please Essentials, June 2018 Includes an obi strip and an art print. Tracks are continuously numbered across sides on the release.  Sticker: VMP Exclusive Vinyl Edition - Half-Speed Remastered at Alchemy UK - 2LP, 45RPM Multi-Color Vinyl - Heavyweight Gatefold, Tip On Jacket - 24pg Full Color Lyric Booklet  A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.             |

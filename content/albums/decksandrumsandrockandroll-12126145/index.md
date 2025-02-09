@@ -65,7 +65,7 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Decksandrumsandrockandroll |
-| Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
+| Format         | 2× Vinyl (20th Anniversary) LP, Album, Reissue |
 | Label          | Wall Of Sound |
 | Catalog Number | WALL LPN015 |
 | Notes | Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set. |

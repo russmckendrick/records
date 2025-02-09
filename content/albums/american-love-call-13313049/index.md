@@ -68,7 +68,7 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Purple Translucent), CD EP |
+| Format         | 1× Vinyl (Purple Translucent) LP, Album, Limited Edition | 1× CD EP |
 | Label          | Dead Oceans |
 | Catalog Number | DOC 177 |
 | Notes | Rough Trade exclusive pressing on transparent purple vinyl; includes a download code for digital copies of the LP and a bonus "Demo Tracks" CD. |

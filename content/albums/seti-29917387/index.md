@@ -52,7 +52,7 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Orbscure |
 | Catalog Number | ORBSLP005 |
 | Notes | p&c2023, (C) 2023 Orbscure under exclusive license to Cooking Vinyl Limited  Made in Poland |

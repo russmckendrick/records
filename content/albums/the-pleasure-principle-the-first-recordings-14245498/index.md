@@ -63,7 +63,7 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Compilation, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2158LP |
 | Notes | 40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.   |

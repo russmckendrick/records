@@ -68,7 +68,7 @@ Cover Version is a compilation album released in 2014 by British musician and re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cover_Version |
-| Format         | Vinyl 2× LP Compilation (180g) |
+| Format         | 2× Vinyl (180g) LP, Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE858 |
 | Notes | Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover. |

@@ -61,7 +61,7 @@ Shame is the debut studio album by the American rock band Brad. It was released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shame_(Brad_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Coke Bottle Clear) |
+| Format         | 1× Vinyl (Coke Bottle Clear) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Brad, LLC |
 | Catalog Number | 793227078821 |
 | Notes | 30the anniversary reissue. Limited to 750 Copies |

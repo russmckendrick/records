@@ -93,7 +93,7 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Envy_of_None |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1164 |
 | Notes | Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched. |

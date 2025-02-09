@@ -65,7 +65,7 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dubnobasswithmyheadman |
-| Format         | Vinyl 2× LP Album Reissue Remastered (20th Anniversary Edition, 180g) |
+| Format         | 2× Vinyl (20th Anniversary Edition, 180g) LP, Album, Reissue, Remastered |
 | Label          | Universal UMC |
 | Catalog Number | 3790795 |
 | Notes | Digital download code included. Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard. |

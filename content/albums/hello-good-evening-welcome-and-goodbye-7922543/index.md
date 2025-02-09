@@ -59,7 +59,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Red ) |
+| Format         | 1× Vinyl (Red ) LP, Album |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-50LP |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - Hello, Good Evening, Welcome and Goodbye](https://www.discogs.com/release/7922543-Carter-The-Unstoppable-Sex-Machine-Hello-Good-Evening-Welcome-and-Goodbye) |

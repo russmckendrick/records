@@ -63,7 +63,7 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Thing_(Faith_No_More_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Slash |
 | Catalog Number | RCV1 25878 |
 | Notes | 2500 pressed.   A sticker is affixed to the front of the shrink wrap which lists both catalogue numbers and reads: Features the singles Epic, From Out Of Nowhere & Falling To Pieces. Remaster at Abbey Road on yellow vinyl.  Rear sleeve and face labels: Ⓟ 2015,1989, © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company. Made in the EU.   Inner Sleeve: © 1989 Slash Records/Warner Music UK Ltd., a Warner Music Group company.   Face labels:  |

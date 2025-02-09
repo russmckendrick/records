@@ -65,7 +65,7 @@ Like all of Waits’ 1970s material, <i>Closing Time</i> was more of a cult obje
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closing_Time_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (White Label, 180 Gram) |
+| Format         | 1× Vinyl (White Label, 180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Asylum Records |
 | Catalog Number | 8122-79807-1 |
 | Notes | Please note there are 3 pressing variations that use the original "White Label" layout. This version and also these 2 releases. [r=16911276] [r=2667222]   On back cover: This production committed to Asylum by Herb Cohen  On sticker: LP's cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.  |

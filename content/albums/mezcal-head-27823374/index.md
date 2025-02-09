@@ -61,7 +61,7 @@ Mezcal Head is the second studio album by English alternative rock band Swervedr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mezcal_Head |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Marbled, 180g) |
+| Format         | 1× Vinyl (Blue Marbled, 180g) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1851 |
 | Notes | The sticker on the shrink wrap says:  "30th Anniversary Edition of 1.500 Individually                                                                                                                 Numbered Copies on Blue Marbled Vinyl  Includes 4 page Insert 180 gram audiophile vinyl"  Originally released ℗ & © 1993 Creation Records Ltd. This release ℗ & © 2017 Sony Music Entertainment. |

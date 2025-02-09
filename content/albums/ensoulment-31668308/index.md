@@ -101,7 +101,7 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ensoulment |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0219535EMU |
 | Notes | Limited edition issued on crystal clear, 180g vinyl in a gatefold sleeve with a 32-page 10" x 10" full colour booklet with photos and lyrics, with die-cut, black paper inner sleeves, in stickered shrink wrap. The barcode is covered with a barcode sticker.  The tracks are numbered sequentially on the release.  Recorded at Real World Studios, Corsham and Studio Cinoéola, London Mixed at Studio Cinoéola, London Additional editing / processing at The Command Centre, Toronto Additional Engineering at Studio Cinéola, London Assistant Engineering at Real World Studios, Corsham Technical support at Grizzly Media  Tracks 2, 3, 5, 6, 8, 9, 10, 12 Published by Lazarus / Kobalt Music Group Tracks 1, 11 Published by Lazarus / Kobalt Music Group - Bucks Music Group Tracks 4, 7 Published by Lazarus / Kobalt Music Group - Black Dream Music  On sleeve: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. MADE IN GERMANY  On labels and booklet: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. Made in Germany by Optimal Media GmbH |

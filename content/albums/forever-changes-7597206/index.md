@@ -57,7 +57,7 @@ Forever Changes had only moderate success on the album charts upon release, peak
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Forever_Changes |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (White, 180 Gram) |
+| Format         | 1× Vinyl (White, 180 Gram) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Elektra |
 | Catalog Number | 8122797115 |
 | Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.  Judging from the matrix nos, it looks as though plating was done at RTI and EU version pressed by Optimal.  Technically, this is a repress of [r4073447]  Ltd ed. of only 2000 |

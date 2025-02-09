@@ -52,7 +52,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Green [Transparent Petrol Green] BioVinyl) |
+| Format         | 1× Vinyl (Green [Transparent Petrol Green] BioVinyl) LP, Album, Limited Edition, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOM710 |
 | Notes | Tracks positions given sequentially on release, regardless of vinyl sides.  Hype sticker reads: THE SIXTH ALBUM FROM PRR, FEATURING GUEST APPEARANCES FROM GUY PRATT, AS WELL AS BRUCE SOORD & JON SYKES (THE PINEAPPLE THIEF). Limited Gatefold Transp. Petrol Green BioVinyl LP Limited to 300 units |

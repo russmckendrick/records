@@ -58,7 +58,7 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
-| Format         | Vinyl LP Album Limited Edition (Green Bottle) |
+| Format         | 1× Vinyl (Green Bottle) LP, Album, Limited Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP327G |
 | Notes | 2021 Reissue -   Hype sticker reads:  PRESSED ON BOTTLE GREEN VINYL Facsimile of rare first pressing with gatefold sleeve and printed inner |

@@ -65,7 +65,7 @@ Third Degree's first single and video, "More", was released as the band revealed
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Third_Degree_(Flying_Colors_album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Format         | 2× Vinyl (Blue Marble) LP, Album, Limited Edition |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR 7596 1-2 |
 | Notes | Flying Colors Third Degree New album by virtuoso PROG/POP/ROCK band with (former) members of Deep Purple, Dream Theater, The Winery Dogs, Dixie Dregs, Spock's Beard, Alpha Rev & Transatlantic  Limited to 500 copies  Includes: 1 coaster 1 11" x 17" poster  Runouts hand etched, except MPO logo and job number, which are laser etched. |

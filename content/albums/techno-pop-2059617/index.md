@@ -54,7 +54,7 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (English Version, 180 g) |
+| Format         | 1× Vinyl (English Version, 180 g) LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66050 1 1 |
 | Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU |

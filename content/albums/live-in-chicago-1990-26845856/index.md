@@ -66,7 +66,7 @@ styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day (White) |
+| Format         | 2× Vinyl (White) LP, Album, Record Store Day |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1093 |
 | Notes | Record Store Day 2023. 140g Vinyl. Inner sleeve features new annotation notes by keyboard player Iain Baker. |

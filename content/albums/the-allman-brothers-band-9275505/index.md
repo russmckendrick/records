@@ -66,7 +66,7 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Allman_Brothers_Band_discography |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
+| Format         | 2× Vinyl (Gatefold, 180g) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 00602547813190 |
 | Notes | 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.  180-Gram Audiophile vinyl, newly remastered from original analog tapes. DMM Direct Metal Mastering for Optimal Sound  Made in Holland |

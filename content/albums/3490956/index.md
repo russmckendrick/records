@@ -52,7 +52,7 @@ styles: ["Industrial Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Sire |
 | Catalog Number | 8122-79760-1 |
 | Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. ℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. Manufactured in the EU Made in the E.U.  Issued with a printed inner sleeve with credits.  Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |

@@ -69,7 +69,7 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Delicate_Sound_of_Thunder |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP16 |
 | Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present. Very similar release, but with correct printed setlist is here: [r=29067676] |

@@ -65,7 +65,7 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rather_Ripped |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 00602547491831 |
 | Notes | Includes a voucher to download MP3 version of the album. Later pressings does not include download voucher. Later pressings come in poly-lined inner sleeve, and a printed sheet of credits. Made in the EU. Later pressings have sticker on back of cover reading “MADE IN CZECH REPUBLIC”.    |

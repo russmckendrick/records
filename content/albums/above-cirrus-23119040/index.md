@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Green [Light], 180g), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Green [Light], 180g) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM628 |
 | Notes | Inside Out store exclusive release. Limited to 300 copies worldwide. Gatefold release. CD housed in a transparent sleeve and lyric sheet included. Some copies including a signed postcard.  LPs tracks positions given sequentially reardless of sides on back.  Track times taken from mediaplayer on PC.  Hype sticker: Gatefold 180g LP + CD Pure Reason Revolution return with seven songs of cinematic, psych-prog wonder. |

@@ -61,7 +61,7 @@ On its opening week, Pressure Chief sold about 46,000 copies, debuting and peaki
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pressure_Chief |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19658809321 |
 | Notes | All Runouts etched. |

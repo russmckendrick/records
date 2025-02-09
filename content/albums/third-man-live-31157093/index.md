@@ -95,7 +95,7 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Stereo (Blue And White Marble [Skycloud]), Vinyl 7" Stereo (Blue And White Marble [Skycloud]), Box Set |
+| Format         | 3× Vinyl (Blue And White Marble [Skycloud]) LP, Stereo | 1× Vinyl (Blue And White Marble [Skycloud]) 7", Stereo | 1× Box Set |
 | Label          | Third Man Records |
 | Catalog Number | TMR-978 |
 | Notes | Runouts are etched.  [A1 to B7]: ℗ & © 2024 Jack White under exclusive license to Third Man Records, LLC  [C1 to D4]: ℗ & © 2024 W.I.T.C.H. (We Intend To Cause Havoc) Limited under exclusive license to Third Man Records, LLC  [E1 to F4]: All songs published by Spam As The Bread, BMG ℗ & © 2024 Dinosaur Jur. under exclusive license to Third Man Records, LLC  [G to H2]: Published by Udderly Good Music, Maim That Tune and Cesstone Music ℗ & © 2024 Third Man Records |

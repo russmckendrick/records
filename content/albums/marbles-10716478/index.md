@@ -77,7 +77,7 @@ The album did not chart in the UK, due to it being packaged with a couple of sti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Marbles_(album) |
-| Format         | Vinyl 3× LP Reissue, Box Set Album |
+| Format         | 3× Vinyl LP, Reissue | 1× Box Set Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1086 |
 | Notes | 3 LP box set with book. It includes the tracks 'Genie', 'The Only Unforgivable Thing', 'Ocean Cloud' and 'The Damage' which have not previously been available on vinyl.  Mastered at Super Audio Mastering. Written, recorded and mixed at The Racket Club, Buckinghamshire, for the whole of 2002, 2003 and the beginning of 2004 Phew... Take the rest of the day off, Dave...  The copyright in this sound recording is owned by Intact Recordings.under exclusive license to Snapper Music Plc.  ℗ 2004 Intact Recordings under exclusive license to Snapper Music Plc.  © 2004 Intact Recordings under exclusive license to Snapper Music Plc.   Made in EU. www.marillion.com |

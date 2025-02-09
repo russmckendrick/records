@@ -58,7 +58,7 @@ Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slowhand |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | RSO |
 | Catalog Number | 2479 201 |
 | Notes | R.S.O. Deluxe 2479 201    Produced by Arrangement with The Robert Stigwood Organisation.  Design and Art Direction: El and Nell Ink.    A1: ATV Mus. Ltd.  A2 to A4, B4: Throat Mus. Ltd.  A5: Anchor Mus. Ltd.  B1: RSO Publg. Ltd. / Throat Mus. Ltd.  B2: Warlock Mus. Ltd.  B3: Leeds Mus. Ltd.    (P) 1977 Robert Stigwood Group Ltd.  Marketed by Polydor.  Made in England.  Printed and made by Howards Printers (Slough) Ltd., England.   |

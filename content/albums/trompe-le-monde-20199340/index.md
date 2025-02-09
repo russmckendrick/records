@@ -65,7 +65,7 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Trompe_le_Monde |
-| Format         | Vinyl LP Album Limited Edition Reissue (Green Marbled, GZ Media Pressing) |
+| Format         | 1× Vinyl (Green Marbled, GZ Media Pressing) LP, Album, Limited Edition, Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 1014 LP |
 | Notes | 30th Anniversary Edition Has "Made in Czech Republic" printed on the shrink wrap on the rear cover.  Includes a printed inner sleeve.  Recorded at Master Control, Burbank Pacifique, Burbank Studio Des Dames, Paris Blackwing, London Mixed at Master Rock, London  Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.  ℗&© 1991 4.A.D. |

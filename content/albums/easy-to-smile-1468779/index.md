@@ -47,7 +47,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Single 45 RPM |
+| Format         | 1× Vinyl 12", Single, 45 RPM |
 | Label          | Epic |
 | Catalog Number | 657695 6 |
 | Notes | Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.  Track B2 recorded at the Greenhouse April 1991.    Includes exclusive Jamie Hewlett print.   |

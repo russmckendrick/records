@@ -67,7 +67,7 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (30th Anniversary) |
+| Format         | 1× Vinyl (30th Anniversary) LP, Album, Reissue, Remastered |
 | Label          | American Recordings |
 | Catalog Number | B0031874-01 |
 | Notes | 30th Anniversary Pressing  Newly remastered from the original production tapes.  |

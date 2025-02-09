@@ -88,7 +88,7 @@ The Bad Fire is the eleventh studio album by Scottish post-rock band Mogwai, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Bad_Fire |
-| Format         | Box Set Album Deluxe Edition Limited Edition, CD Album, Vinyl LP Album (Green), Vinyl LP Single Sided Album Etched (Green), Vinyl 12" 33 ⅓ RPM |
+| Format         | 1× Box Set Album, Deluxe Edition, Limited Edition | 1× CD Album | 1× Vinyl (Green) LP, Album | 1× Vinyl (Green) LP, Single Sided, Album, Etched | 1× Vinyl 12", 33 ⅓ RPM |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT166 |
 | Notes | Deluxe limited edition box set containing the CD version of album, a 2 LP version of the album on green vinyl with etching on side D, an 8 track album demos 12", an 8-page 12" booklet with recording session photos and a download voucher.   (P) & (C) 2025 Rock Action Records. Made in Germany.  Runouts are etched |

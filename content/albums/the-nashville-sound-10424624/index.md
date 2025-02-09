@@ -61,7 +61,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Limited Edition |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99881 |
 | Notes | With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI). |

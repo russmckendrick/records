@@ -62,7 +62,7 @@ Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Perverse_(album) |
-| Format         | Vinyl LP Album Reissue (Transparent Blue) |
+| Format         | 1× Vinyl (Transparent Blue) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC954 |
 | Discogs URL    | [Jesus Jones - Perverse](https://www.discogs.com/release/25037878-Jesus-Jones-Perverse) |

@@ -59,7 +59,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Translucent Ochre + Gold Obi Strip) |
+| Format         | 2× Vinyl (Translucent Ochre + Gold Obi Strip) LP, Album, Limited Edition |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR200LP |
 | Notes | Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp. Includes download code. |

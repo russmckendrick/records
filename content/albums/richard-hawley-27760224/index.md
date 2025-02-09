@@ -57,7 +57,7 @@ Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, gu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Richard_Hawley |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Setanta |
 | Catalog Number | SETLP153 |
 | Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl. Catalog printed as SETLP153 - Distributor mail out stated SETLP153C   |

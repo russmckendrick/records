@@ -60,7 +60,7 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Woodface |
-| Format         | Vinyl LP Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Reissue |
 | Label          | Simply Vinyl |
 | Catalog Number | SVLP 240 |
 | Discogs URL    | [Crowded House - Woodface](https://www.discogs.com/release/632637-Crowded-House-Woodface) |

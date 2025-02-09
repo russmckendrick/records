@@ -67,7 +67,7 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Too_Much_Pressure |
-| Format         | Vinyl LP Album (Clear), Vinyl 7" 45 RPM Single (Clear), All Media Limited Edition Reissue Remastered (40th Anniversary) |
+| Format         | 1× Vinyl (Clear) LP, Album | 1× Vinyl (Clear) 7", 45 RPM, Single | 1× All Media (40th Anniversary) Limited Edition, Reissue, Remastered |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTH5002 |
 | Notes | Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002 |

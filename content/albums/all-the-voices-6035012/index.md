@@ -199,7 +199,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue |
 | Label          | Universal Music Group International |
 | Catalog Number | 0602537778867 |
 | Notes | Includes download voucher.  "Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels). |

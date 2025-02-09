@@ -62,7 +62,7 @@ But even in a post-Nirvana marketplace that was more receptive to aggressive sou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smash_(The_Offspring_album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Epitaph |
 | Catalog Number | 86868-1 |
 | Notes | Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026 |

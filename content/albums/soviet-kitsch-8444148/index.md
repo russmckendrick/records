@@ -67,7 +67,7 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soviet_Kitsch |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Red), Vinyl 7" 45 RPM Single Limited Edition (Large Center Hole) |
+| Format         | 1× Vinyl (Red) LP, Album, Record Store Day, Limited Edition, Reissue | 1× Vinyl (Large Center Hole) 7", 45 RPM, Single, Limited Edition |
 | Label          | Sire |
 | Catalog Number | 9362-49267-9 |
 | Notes | ℗ 2004, 2005 Sire Records for the US  and WEA International Inc. © 2005 Sire Records for the US  and WEA International Inc. Manufactured in E.U. Comes with double-printed lyric sheet.  LP: © 2005 Sire Records ℗ 2004, 2005 Sire Records. Manufactured in The Netherlands. 7": © ℗ 2016 Sire Records. Manufactured in The Netherlands. Has a large ("dinked") center hole  A Record Store Day 2016 release. Limited to 3,000 copies.  |

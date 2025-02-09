@@ -69,7 +69,7 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_the_Colours_of_You |
-| Format         | Vinyl 2× LP Album Limited Edition (Red/Black Split) |
+| Format         | 2× Vinyl (Red/Black Split) LP, Album, Limited Edition |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM001LPX |
 | Notes | ℗&© 2021 Nothing But Love Music. Made in Poland. 300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |

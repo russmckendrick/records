@@ -62,7 +62,7 @@ styles: ["Synth-pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Equinoxe_Infinity |
-| Format         | Vinyl LP Album (First Cover) |
+| Format         | 1× Vinyl (First Cover) LP, Album |
 | Label          | Columbia |
 | Catalog Number | 19075876451 |
 | Notes | Pre-mastered with the new FiDef algorithm.  Made in the EU |

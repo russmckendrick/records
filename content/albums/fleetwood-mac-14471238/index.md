@@ -64,7 +64,7 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fleetwood_Mac_(1975_album) |
-| Format         | Vinyl LP Album Reissue Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Reissue, Stereo |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 2281 |
 | Notes | Reissue on white vinyl. ℗ & © 1975 Warner Records Inc. Made in the E.U.  The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].    . |

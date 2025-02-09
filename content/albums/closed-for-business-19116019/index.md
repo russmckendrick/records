@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closed_for_Business |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Stereo (Clear, 180g) |
+| Format         | 1× Vinyl (Clear, 180g) 12", 33 ⅓ RPM, EP, Record Store Day, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1117 |
 | Notes | Record Store Day June 2021 release.  Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker.   The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.  Track B3 recorded on the Manor Mobile.  Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).   ℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd. © 1997 Snapper Music Ltd. Kscope is a Snapper Music label.  Made in the EU. |

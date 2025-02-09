@@ -77,7 +77,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Remastered, Vinyl LP Album Remastered, Vinyl LP Album Remastered, Box Set Compilation |
+| Format         | 1× Vinyl LP, Album, Remastered | 1× Vinyl LP, Album, Remastered | 1× Vinyl LP, Album, Remastered | 1× Box Set Compilation |
 | Label          | Warner Music Group |
 | Catalog Number | 0190295660222 |
 | Notes | New Compilation Remastered on 180g Heavyweight Vinyl, Fictitious Sports (1981), Profiles (1985), White of the Eye (1987). Made in EU. |

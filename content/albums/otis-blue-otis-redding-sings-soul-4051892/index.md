@@ -59,7 +59,7 @@ Otis Blue was a crossover success for Redding and proved one of his best-selling
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Otis_Blue/Otis_Redding_Sings_Soul |
-| Format         | Vinyl LP Album Reissue Special Edition Stereo (Blue, 180 Gram) |
+| Format         | 1× Vinyl (Blue, 180 Gram) LP, Album, Reissue, Special Edition, Stereo |
 | Label          | ATCO Records |
 | Catalog Number | 8122797160 |
 | Notes | Sticker on front "...On Special Edition Blue Vinyl 180-Gram. Cut from the original analog master tapes packaging replicated to the finest detail pressed with more care than ever"  Manufactured in EU/Made in the EU  A1, A2 published by East-Time-Walco A3, B1, B3 published by Kags A4 published by Progressive A5 published by East-Time-Curtom B2 published by Jobete B4 published by Modern B5 published by Immediate B6 published by East |

@@ -119,7 +119,7 @@ CSN's 1969 debut not only provided the template for the era's folk-rock renaissa
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered Stereo, CD 3× Stereo, Box Set Deluxe Edition (50th Anniversary) |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× CD Album, Reissue, Remastered, Stereo | 3× CD Stereo | 1× Box Set (50th Anniversary) Deluxe Edition |
 | Label          | Atlantic |
 | Catalog Number | 603497848027 |
 | Notes | Hype sticker: "The original album remastered for LP & CD plus 1 disc each of demos, session outtakes and alternatives, including 29 previously unreleased tracks."  Also includes 29cm x 29cm 20 page booklet that "features many unseen photos and the record's story written by Cameron Crowe with band archivist Joel Bernstein" on backcover: Made In Germany |

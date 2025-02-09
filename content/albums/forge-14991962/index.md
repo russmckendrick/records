@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Limited Edition |
 | Label          | Trapped Animal |
 | Catalog Number | TAR018VX |
 | Notes | Includes a download coupon. Catalogue number TAR018VX is on a barcode sticker on the shrink. |

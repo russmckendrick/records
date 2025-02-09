@@ -56,7 +56,7 @@ The song is popular on classic rock radio stations and remains a staple of Pink 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_song) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP9 |
 | Notes | Almost identical to [r=25885156] but this edition does NOT show the cat# number on the lower right side of the inner sleeve.  The stereo remastered album on Heavyweight 180 Vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: September 1975 Made in the E.U. www.pinkfloyd.com  Comes with printed inner sleeve, postcard and download code card. The album is concealed in black shrink-wrap (making the front cover art "absent"). On the front of the shrinkwrap is a George Hardie designed sticker depicting two mechanical hands engaged in a handshake.  ℗ & © 2016 Pink Floyd Music Ltd.  Runouts: - Runouts are etched. - The [l313190] plating symbols ("geometric" marks) are mirrored, e.g. '51' and '=4' (variant 1), '15=Λ' and '+I ̶L̶ ' (variant 3), '12=X' (variant 4), '17+T' and 'IhI' (variant 5), and '17=' & '11I' (variant 6). See 'Notes on Vinyl records' section on [l313190] page. |

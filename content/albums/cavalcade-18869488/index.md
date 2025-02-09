@@ -58,7 +58,7 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cavalcade_(Black_Midi_album) |
-| Format         | Vinyl LP Album Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Stereo |
 | Label          | Rough Trade |
 | Catalog Number | RT0212LP |
 | Notes | Track A1 is not listed on the rear cover but is named in the credits on the inner gatefold.  Includes extra shrink title sticker. Pre-orders from certain stores included a coloured flexi-disc (or CD in the case of Tower Records) of a cover of a song chosen from a poll voted on by fans of the band. The songs are:  Taylor Swift - Love Story (UK Indies. Green Flexi)  Prince - Nothing Compares 2U (US Indies. Blue Flexi) ([r=18963268])  King Crimson - 21st Century Schizoid Man (Rough Trade. White Flexi) ([r=18958246])  Talking Heads - Psycho Killer (Tower Records. CD)  Captain Beefheart - Moonlight On Vermont (Rough Trade Records/International. Red Flexi) ([r=18929623])  Variant 4: Side B: BL31801-01-A1 ST is stamped  |

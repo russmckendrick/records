@@ -68,7 +68,7 @@ Roots Rock Riot is the second album from Welsh rock band Skindred. It was releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roots_Rock_Riot |
-| Format         | Vinyl LP Album Reissue Stereo (Translucent Green), Vinyl 7" Single, All Media |
+| Format         | 1× Vinyl (Translucent Green) LP, Album, Reissue, Stereo | 1× Vinyl 7", Single | 1× All Media |
 | Label          | Hassle Records |
 | Catalog Number | HOFFSIDE004LP |
 | Notes | MADE IN POLAND |

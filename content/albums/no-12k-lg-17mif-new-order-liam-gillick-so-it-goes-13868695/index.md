@@ -75,7 +75,7 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Green), Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Green) LP | 1× Vinyl (Red) LP | 1× Vinyl (Blue) LP | 1× All Media Album, Limited Edition |
 | Label          | Mute |
 | Catalog Number | STUMM450 |
 | Notes | Limited Edition Triple Coloured Vinyl LP1 – Transparent Red / LP2 Transparent Light Green / LP3 Transparent Blue 24 Page Deluxe Booklet . Packed in a hardback slip case with spot gloss varnish Containing exclusive imagery and text relating to the legendary event plus high definition digital download of all 18 tracks. |

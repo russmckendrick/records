@@ -63,7 +63,7 @@ Although Ummagumma was well received at the time of release, and was a top-five 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ummagumma |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180 Gram) |
+| Format         | 2× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP4 |
 | Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: October 1969 Made and printed in the E.U. www.pinkfloyd.com  Live album Recorded at Mothers Birmingham & Manchester College of Commerce, June 1969.  ℗ & © 2016 Pink Floyd Music Ltd. |

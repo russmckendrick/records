@@ -66,7 +66,7 @@ Life Won't Wait is the fourth studio album by the American punk rock band Rancid
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Life_Won%27t_Wait |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (Orange ) |
+| Format         | 2× Vinyl (Orange ) LP, Album, Record Store Day, Reissue |
 | Label          | Epitaph |
 | Catalog Number | 86497-1 |
 | Discogs URL    | [Rancid - Life Won't Wait](https://www.discogs.com/release/5888309-Rancid-Life-Wont-Wait) |

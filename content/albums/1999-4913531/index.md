@@ -71,7 +71,7 @@ styles: ["Minneapolis Sound", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1999_(Prince_album) |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-5 |
 | Notes | Cover: Mastered [...] at A&M Records Manufactured in the E.U.  Labels: Made in the E.U.  Similar editions: 1999 (Manufactured in the E.U.) [this release] [r=3139530] (Printed in U.S.A.) |

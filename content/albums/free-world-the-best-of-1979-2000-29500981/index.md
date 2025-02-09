@@ -74,7 +74,7 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, Compilation, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1164 |
 | Notes | First ever Kirsty MacColl vinyl best of compilation 25 career-spanning tracks, from the highly acclaimed singer songwriter   Image of Titanic Days album cover is missing from the insert showing all of Kirsty's album and single covers. According to the designer this was just an oversight (the Titanic Days single cover was accidentally used instead of the album cover). |

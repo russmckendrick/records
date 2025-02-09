@@ -55,7 +55,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Purple) |
+| Format         | 1× Vinyl (Purple) LP |
 | Label          | Cherry Red |
 | Catalog Number | BRED880 |
 | Notes | Comes with a 2024 calendar featuring illustrations by Mark Reynolds |

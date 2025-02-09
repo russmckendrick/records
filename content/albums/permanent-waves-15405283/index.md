@@ -80,7 +80,7 @@ Permanent Waves received a mostly positive reception from critics and became the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Permanent_Waves |
-| Format         | Vinyl 3× LP Album Reissue Remastered, All Media Deluxe Edition |
+| Format         | 3× Vinyl LP, Album, Reissue, Remastered | 1× All Media Deluxe Edition |
 | Label          | Mercury |
 | Catalog Number | 00602508607257 |
 | Notes | Slipcase packing containing: - Permanent Waves Album  - Single cover with printed insert - Permanent Waves World Tour 1980 - Gatefold cover - LP sized softcover booklet  Sticker on shrink wrap: 40th Anniversary Edition 3LPS - 180-Gram AudioPhile Vinyl Original Album + Permanent Waves World Tour 1980 12 Unreleased Live Performances Designed By Hugh Syme With Unreleased Illustrations And Photos |

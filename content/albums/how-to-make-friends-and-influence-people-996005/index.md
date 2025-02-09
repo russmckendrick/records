@@ -61,7 +61,7 @@ How to Make Friends and Influence People is the second album by the rock band Te
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/How_to_Make_Friends_and_Influence_People |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | 7243 8 29406 1 6 |
 | Notes | Comes with lyric printed inner sleeve. |

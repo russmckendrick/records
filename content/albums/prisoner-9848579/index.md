@@ -59,7 +59,7 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prisoner_(Ryan_Adams_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 058 |
 | Notes | Includes a download card (MP3 and WAV). Comes with a full colour insert that has lyrics and credits.  All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note. ©2017 Paxamericana Recording Company under exclusive license to Blue Note.  All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)  1st Cat # - Labels, rear cover 2nd Cat # - labels 3rd Cat # - Rear cover, spine  Runouts are etched except for "P. USA" and "-42229-" which are stamped. |

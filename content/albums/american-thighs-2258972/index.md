@@ -61,7 +61,7 @@ American Thighs is the 1994 debut studio album by American alternative rock band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Thighs |
-| Format         | Vinyl Album LP |
+| Format         | 1× Vinyl Album, LP |
 | Label          | Hi-Rise Recordings |
 | Catalog Number | FLATLP 9 |
 | Notes | Made in England. |

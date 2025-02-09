@@ -79,7 +79,7 @@ The album has been widely regarded by writers and music critics as a significant
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Breaking_Atoms |
-| Format         | Vinyl LP Album Club Edition Misprint Reissue (Orange in Clear), Vinyl 7" 45 RPM (Violet) |
+| Format         | 1× Vinyl (Orange in Clear) LP, Album, Club Edition, Misprint, Reissue | 1× Vinyl (Violet) 7", 45 RPM |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-006 |
 | Notes | Back cover has a typo at the bottom, music is misspelled "Muisc"  Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI). Mastered at Hit Factory, DMS.  Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts. |

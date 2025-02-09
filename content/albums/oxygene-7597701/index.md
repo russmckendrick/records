@@ -51,7 +51,7 @@ styles: ["Synth-pop", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Les Disques Motors |
 | Catalog Number | 88843024681 |
 | Notes | Cover info: ℗ 1976 Disques Dreyfus - BMG © 2015 Disques Dreyfus - BMG  Made in the EU Special thanks to [a=Michel Geiss] New mastering from the original analog tapes 2014 Cover artwork Editions Marquet  Comes with white plain die-cut inner.  In December 2016, signed (golden) copies were available only in the Jean-Michel Jarre official online store.  Some copies come with the 'Original Masters By Sony Music' sticker |

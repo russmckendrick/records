@@ -57,7 +57,7 @@ styles: []
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red, 180) |
+| Format         | 1× Vinyl (Red, 180) LP, Album, Limited Edition, Reissue |
 | Label          | UMC |
 | Catalog Number | 00600753772454 |
 | Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU. |

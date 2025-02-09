@@ -49,7 +49,7 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered Stereo (Red/Black Marbled) |
+| Format         | 1× Vinyl (Red/Black Marbled) 12", 45 RPM, EP, Limited Edition, Numbered, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12030 |
 | Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. Runouts are stamped. Track timings not stated on release. |

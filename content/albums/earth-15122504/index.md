@@ -53,7 +53,7 @@ styles: ["Indie Rock", "Folk", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Capitol Records |
 | Catalog Number | 00602508363429 |
 | Notes | Indie Record Store Exclusive 180g Orange Vinyl, gatefold sleeve, includes 6 lithographs. |

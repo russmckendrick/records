@@ -59,7 +59,7 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Trailer_Park_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Plain Recordings |
 | Catalog Number | plain149 |
 | Notes | Ⓟ 1996 Deconstruction Ltd.  © 2010 Runt LLC    180 gram vinyl    Custom inner sleeve   |

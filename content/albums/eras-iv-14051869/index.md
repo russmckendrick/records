@@ -109,7 +109,7 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl LP Album Reissue (180g), Vinyl LP Single Sided Album Etched Reissue (180g), Vinyl 2× LP Album Reissue (180g), Vinyl LP Album (180g), Vinyl LP Single Sided Album Etched (180g), Vinyl 3× LP Album (180g) |
+| Format         | 1× Box Set Compilation, Deluxe Edition, Limited Edition | 1× Vinyl (180g) LP, Album, Reissue | 1× Vinyl (180g) LP, Single Sided, Album, Etched, Reissue | 2× Vinyl (180g) LP, Album, Reissue | 1× Vinyl (180g) LP, Album | 1× Vinyl (180g) LP, Single Sided, Album, Etched | 3× Vinyl (180g) LP, Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 512 |
 | Notes | Includes the albums Ziltoid The Omniscient (gatefold 2LP + etching on side 4), Z² - Dark Matters (gatefold 2LP), Ziltoid Live At The Royal Albert Hall (gatefold 2LP + etching on side 4) and The Retinal Circus (gatefold 3LP).   All four albums come on 180g vinyl and have been (re-)mastered for vinyl to guarantee the best possible sound and listening experience. The LPs come in a sturdy box, which also includes an extensive LP-booklet with complete lyrics, liner notes and comments from Devin Townsend.   Limited to 2000 copies worldwide. Ziltoid Live At The Royal Albert Hall and The Retinal Circus appear on vinyl for the first time.  Standard black vinyl version |

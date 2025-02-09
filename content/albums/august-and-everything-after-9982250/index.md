@@ -67,7 +67,7 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/August_and_Everything_After |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | DGC |
 | Catalog Number | B0025531-01 |
 | Notes | - Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM |

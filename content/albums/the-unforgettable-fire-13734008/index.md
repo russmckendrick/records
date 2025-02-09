@@ -73,7 +73,7 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Unforgettable_Fire |
-| Format         | Vinyl LP Album Limited Edition Reissue (Burgundy, 180g) |
+| Format         | 1× Vinyl (Burgundy, 180g) LP, Album, Limited Edition, Reissue |
 | Label          | Mercury |
 | Catalog Number | 1792416 |
 | Notes | 35th Anniversary Colour stated as "wine" on release. Includes 16 page booklet with lyrics and liner notes.  Exclusive retailers in multiple territories:  UK - HMV Australia - JB HiFi Canada - Sunrise Records France - FNAC US - [l1052727]  ℗ & © 2009 Universal-Island Records Limited under exclusive licence to Mercury Records Limited in the UK, Interscope Records in the US and Universal Music Group for the rest of the world. Made in the EU  All runouts stamped with '1792416-A5' and 'CB/SS' on side A and with '1792416-B5' and 'CB/SS' on side B etched. |

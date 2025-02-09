@@ -62,7 +62,7 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Collection_(Ultravox_album) |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Chrysalis |
 | Catalog Number | UTV1 |
 | Notes | Some copies include a printed inner sleeve that is same as the background on the outer sleeve.  Timings do not appear on the sleeve/label - Timings measured from a digitized copy of this release. |

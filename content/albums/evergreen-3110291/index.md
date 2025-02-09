@@ -64,7 +64,7 @@ styles: ["Easy Listening"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Warwick Records |
 | Catalog Number | PW 5045 |
 | Discogs URL    | [Acker Bilk His Clarinet And Strings - Evergreen](https://www.discogs.com/release/3110291-Acker-Bilk-His-Clarinet-And-Strings-Evergreen) |

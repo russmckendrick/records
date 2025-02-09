@@ -70,7 +70,7 @@ Strawberry Hotel is the eleventh studio album by British electronic group Underw
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Strawberry_Hotel |
-| Format         | Vinyl 2× LP Album Stereo (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Stereo |
 | Label          | Smith Hyde Productions |
 | Catalog Number | UWR00098 |
 | Notes | Underworld’s 11th studio album ‘Strawberry Hotel’ on double vinyl gatefold,  180grm black heavy-weight vinyl cut at half speed.  Track C10 "Ottavia": Text translated by Esme from Claudio Monteverdis Lincoronazionedi Poppea.  Rick Smith and Karl Hyde are published by Universal Music Publishing (PRS). ℗ & © 2024 Underworld t/a Smith Hyde Productions. Distributed by Virgin Music. |

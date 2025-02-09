@@ -84,7 +84,7 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Emperor_Tomato_Ketchup_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP | 1× All Media (Clear) Limited Edition, Numbered |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D11R |
 | Notes | Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket. |

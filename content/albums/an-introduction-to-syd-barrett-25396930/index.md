@@ -66,7 +66,7 @@ An Introduction to Syd Barrett is a 'best of' compilation featuring the work of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/An_Introduction_to_Syd_Barrett |
-| Format         | Vinyl 2× LP Compilation Repress |
+| Format         | 2× Vinyl LP, Compilation, Repress |
 | Label          | Syd Barrett Music Ltd. |
 | Catalog Number | SBM001LP |
 | Notes | Gatefold cover. Hype sticker on shrinkwrap. Colour inners with printed lyrics. |

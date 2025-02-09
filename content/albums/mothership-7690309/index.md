@@ -71,7 +71,7 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mothership_(Led_Zeppelin_album) |
-| Format         | Box Set, Vinyl 4× LP Compilation Enhanced Reissue Remastered (Embossed, 180 Gram) |
+| Format         | 1× Box Set | 4× Vinyl (Embossed, 180 Gram) LP, Compilation, Enhanced, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 344700 |
 | Notes | This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet  |

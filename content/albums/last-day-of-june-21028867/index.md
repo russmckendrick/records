@@ -69,7 +69,7 @@ Last Day of June is an adventure puzzle video game developed by Ovosonico and pu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Last_Day_of_June |
-| Format         | Vinyl LP Deluxe Edition Limited Edition Numbered Stereo (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Deluxe Edition, Limited Edition, Numbered, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM335 |
 | Notes | Original game soundtrack by Steven Wilson. Limited edition of 4000 numbered copies on Translucent Blue Vinyl  Based on music originally released between 2004-2016. Includes exclusive mixes and edits. Includes insert. 180 gram audiophile vinyl.  Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’.  Barcode sticker on back.   ℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd. Made in the EU. |

@@ -78,7 +78,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary Expanded Edition) |
+| Format         | 2× Vinyl (25th Anniversary Expanded Edition) LP, Album, Reissue, Remastered |
 | Label          | Craft Recordings |
 | Catalog Number | CR00239 |
 | Discogs URL    | [R.E.M. - Monster](https://www.discogs.com/release/14343392-REM-Monster) |

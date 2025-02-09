@@ -69,7 +69,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Telstar |
 | Catalog Number | STAR 2481 |
 | Notes | D3 misspelled "Closet mix" instead of "Closest mix"  |

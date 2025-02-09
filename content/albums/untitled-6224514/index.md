@@ -54,7 +54,7 @@ styles: ["Hard Rock", "Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180g) |
+| Format         | 1× Vinyl (Gatefold, 180g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Atlantic |
 | Catalog Number | 8122-79657-7 |
 | Notes | Release doesn't feature an explicit title, as with the original issues. It is, however, referred to as "Led Zeppelin IV" in online retailers and such.  180gr vinyl in gatefold sleeve with insert.  Printed on front cover sticker: "LED ZEPPELIN'S CLASSIC 4th ALBUM ON 180g VINYL Includes Stairway To Heaven, Black Dog & Rock And Roll Remastered & Produced by Jimmy Page [barcode image 0 81227 96577 8] 8122796577"  Cat# on labels 8122-79657-7 Cat# on sticker on front cover : 8122769577  Manufactured in Germany. (on label) Made in the EU (insert) |

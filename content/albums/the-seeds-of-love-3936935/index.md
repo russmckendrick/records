@@ -59,7 +59,7 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Seeds_of_Love |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Remastered Special Edition Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Limited Edition, Numbered, Reissue, Remastered, Special Edition, Stereo |
 | Label          | Mobile Fidelity Sound Lab |
 | Catalog Number | MOFI 1-034 |
 | Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.  Standard weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe  [Back cover and labels] ℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.  [Back cover] Special limited edition. Mastered on "The Gain 2 Ultra Analog System™"  Runouts are etched. |

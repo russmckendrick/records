@@ -55,7 +55,7 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mr._Love_Pants |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC62 |
 | Notes | Durations from playlist editor.  ... & The vest is yet to come  Manufactured under licence from Templemill Music Ltd |

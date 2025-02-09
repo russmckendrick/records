@@ -55,7 +55,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Pink Transparent) |
+| Format         | 1× Vinyl (Pink Transparent) LP, Album, Limited Edition |
 | Label          | Warner Music Central Europe |
 | Catalog Number | 0190295-1397-8-0 |
 | Notes | Comes with download code. |

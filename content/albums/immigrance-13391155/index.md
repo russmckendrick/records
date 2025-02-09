@@ -61,7 +61,7 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Immigrance |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album |
 | Label          | GroundUP Music (2) |
 | Catalog Number | GUM0319V |
 | Notes | Distributed in a gatefold sleeve. Includes an mp3 download card.  Engineered by Nic Hard at Sonic Ranch Studios in Tornillo, Texas Additional recording by Nic Hard at Atlantic Sound Studios in Brooklyn, New York Additional recording by Camilo Salazar at Morley College in London, England Mixed by Nic Hard and Michael League at Atlantic Sound Studios in Brooklyn, New York Mastered by Dave McNair in Winston-Salem, North Carolina  Tracks A1, A2, B2, C2: © GUMUK Limited (SESAC) Track A3: © Big Boy Big Girl (ASCAP) Track B1: © Ceebull Music (SESAC) Track B3: © Mazarito Music (SESAC) Track C1: © J Stant Music (SESAC)  ℗ & © 2019 GroundUp Music LLC |

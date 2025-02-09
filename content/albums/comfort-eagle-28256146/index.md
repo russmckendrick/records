@@ -61,7 +61,7 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Comfort_Eagle |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Coke Bottle Green, 150 Gram) |
+| Format         | 1× Vinyl (Coke Bottle Green, 150 Gram) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19658762461 |
 | Notes | ℗ 2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601. "Vinyl: Made In France"  Recorded at Paradise Studios in Sacramento, CA with additional recording at Hyde Street Studios in San Francisco, CA. Tracks A1, A4 and B8 to B11 mixed at Paradise Studios in Sacramento, CA. Tracks A2 and B6 mixed at Hyde Street Studios, San Francisco, CA. Tracks A1, A2, A3 and B7 mixed at Noise In The Attic, Seal Beach, CA. Mastered at Precision Mastering in Los Angeles, CA.  Catalog number is in the runouts and barcode.  On rear cover: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On record labels: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Made in France  Tracks listed sequentially to match release. Comes with printed inner sleeve. |

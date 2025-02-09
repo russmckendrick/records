@@ -87,7 +87,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo, Vinyl LP Album Reissue Stereo, Vinyl 2× LP Album Reissue Stereo, Box Set Compilation Deluxe Edition Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo | 1× Vinyl LP, Album, Reissue, Stereo | 2× Vinyl LP, Album, Reissue, Stereo | 1× Box Set Compilation, Deluxe Edition, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX60 |
 | Discogs URL    | [Dodgy - The A&M Albums](https://www.discogs.com/release/22286113-Dodgy-The-AM-Albums) |

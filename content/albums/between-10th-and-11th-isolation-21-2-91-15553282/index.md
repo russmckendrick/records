@@ -63,7 +63,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue | 1× Vinyl (Clear) LP, Reissue, Remastered | 1× All Media (Expanded Edition, Gatefold Sleeve) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2165LP |
 | Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited |

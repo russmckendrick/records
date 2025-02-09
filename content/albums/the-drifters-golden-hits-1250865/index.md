@@ -58,7 +58,7 @@ The album was included in Robert Christgau's "Basic Record Library" of 1950s and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Drifters%27_Golden_Hits |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 40018 |
 | Notes | An Atlantic Record, distributed by WEA Records Ltd. |

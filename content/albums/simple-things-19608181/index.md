@@ -70,7 +70,7 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Simple_Things_(Zero_7_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (180gr, Clear) |
+| Format         | 2× Vinyl (180gr, Clear) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | New State Music |
 | Catalog Number | NEW9253LPC |
 | Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies  Repress using same metal work as the [url=https://www.discogs.com/release/12388769-Zero-7-Simple-Things]2018 Reissue[/url] |

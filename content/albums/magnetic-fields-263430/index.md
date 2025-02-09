@@ -51,7 +51,7 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Polydor |
 | Catalog Number | POLS 1033 |
 | Notes | Released with inner picture sleeve  Cover: ℗ 1981 Disques Dreyfus © 1981 Disques Dreyfus Record printed and made in England by James Upton & Sons Ltd.  Inner sleeve: Gravure/Cutting : Dyam Music Thanks to [url=http://www.discogs.com/artist/230353]M. Geiss[/url], MCI, [l=Music Land], RSF, [url=http://www.discogs.com/label/145912]Fairlight[/url], [url=http://www.discogs.com/label/319372]Oberheim[/url] & [url=http://www.discogs.com/artist/288563]MDB[/url]  Labels: Made in England Original sound recording made by [l=Disques Dreyfus] ℗ 1981 Disques Dreyfus  Artist is credited as Jarre on front cover, but as Jean Michel Jarre on the spine and centre labels |

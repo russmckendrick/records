@@ -94,7 +94,7 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Requiem_for_a_Dream |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | Nonesuch |
 | Catalog Number | 553787-1 |
 | Notes | Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store. |

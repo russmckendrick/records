@@ -62,7 +62,7 @@ Wilson has stated that she had been working on the album for several years with 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Change_(Cindy_Wilson_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kill Rock Stars |
 | Catalog Number | KRS642 |
 | Notes | Issued with download card for digital files of [r=14069195].  Hype sticker on shrink: "The debut solo album from Cindy Wilson  legendary vocalist of [a242415]. Includes a free download".  Tracks listed consecutively on back cover from 1 to 10.  Produced [...] at The Space Station in Athens GA.  Mystic Ocean (ASCAP) / Mystic Ocean (BMI). © & ℗ 2017 Kill Rock Stars.  "Brother" written & originally performed by [a1266878] (Levy/Rizzo) & "Things I’d Like To Say" written & originally performed by [a304462] (Rice). |

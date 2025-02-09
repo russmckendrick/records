@@ -62,7 +62,7 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Five_Ghosts |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress Stereo (PET, Transparent Black) |
+| Format         | 1× Vinyl (PET, Transparent Black) LP, Album, Limited Edition, Numbered, Reissue, Repress, Stereo |
 | Label          | Naked Record Club |
 | Catalog Number | NAKED 005 |
 | Notes | ℗ 2023 Naked under exclusive licence from Get Paid Inc. © 2023 Naked Record Club www.nakedrecordclub.com Manufactured in the Netherlands  The uncredited pressing company is derived from nakedrecordclub.com release page, which says : Premier disque vinyle de Naked à être pressé par Green Vinyl Records (GVR) aux Pays-Bas.  Rerelease by Naked Record Club on Eco-Friendly vinyl. Hand-numbered edition out of 700. 1-500 are NAKED Record Club hand-numbered copies whilst 501-700 were pressed especially for the bands European & North American Tours. |

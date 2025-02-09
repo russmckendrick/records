@@ -58,7 +58,7 @@ The album became an instant success in the United States, being certified platin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_in_Town_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | EAST 11698 |
 | Notes | On the back of the sleeve with this release, under the catalogue numbers, is printed "Available on Cassette"    Printer code in lower right corner dates this reissue to 1982 (plain inner sleeve also dated 1982).    Lilac Capitol label. |

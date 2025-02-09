@@ -82,7 +82,7 @@ styles: ["Reggae", "Dub", "Dancehall"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 8× 7" 45 RPM Album, Box Set Limited Edition |
+| Format         | 8× Vinyl 7", 45 RPM, Album | 1× Box Set Limited Edition |
 | Label          | Ahead Of Our Time |
 | Catalog Number | AHEDBOX015 |
 | Notes | Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.  Includes download code.  Signed copies were available from Recordstore.co.uk |

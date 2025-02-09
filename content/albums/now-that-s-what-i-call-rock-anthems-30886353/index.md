@@ -82,7 +82,7 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Stereo (Purple Vinyl) |
+| Format         | 3× Vinyl (Purple Vinyl) LP, Compilation, Stereo |
 | Label          | Sony Music |
 | Catalog Number | LPNNNOW148 |
 | Discogs URL    | [Various - Now That's What I Call Rock Anthems](https://www.discogs.com/release/30886353-Various-Now-Thats-What-I-Call-Rock-Anthems) |

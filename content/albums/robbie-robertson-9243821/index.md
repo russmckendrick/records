@@ -60,7 +60,7 @@ Robertson collaborated on film and TV soundtracks, usually with director Martin 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Robbie_Robertson |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 924160-1 |
 | Notes | Similar to [r=1113594] but with different publishers on label  made in germany  Promotional sticker in top right corner to front cover "Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky" |

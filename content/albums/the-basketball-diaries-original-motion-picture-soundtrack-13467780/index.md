@@ -60,7 +60,7 @@ styles: ["Soundtrack", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Real Gone Music |
 | Catalog Number | 0000879 |
 | Notes | * Record Store Day 2019 Exclusive Release • Newly Created Gatefold Jacket • 2xLP Pressed on “Basketball Orange” Vinyl • First Vinyl Release of the Soundtrack • Record Store Day Exclusive • Limited to 2000 Copies! |

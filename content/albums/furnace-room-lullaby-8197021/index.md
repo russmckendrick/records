@@ -55,7 +55,7 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Furnace_Room_Lullaby |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear w/ Red, Gatefold) |
+| Format         | 1× Vinyl (Clear w/ Red, Gatefold) LP, Album, Limited Edition, Reissue |
 | Label          | Anti- |
 | Catalog Number | #86915-1 |
 | Notes | Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.   |

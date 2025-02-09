@@ -57,7 +57,7 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rage_in_Eden |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CDL 1338 |
 | Notes | This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.  "℗ © 1981 CHRYSALIS RECORDS LTD"  Durations not listed on this release. Timings via stopwatch. |

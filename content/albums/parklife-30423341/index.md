@@ -67,7 +67,7 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Parklife |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered (30th Anniversary Zoetrope Edition) |
+| Format         | 1× Vinyl (30th Anniversary Zoetrope Edition) LP, Album, Record Store Day, Limited Edition, Picture Disc, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 5054197880988 |
 | Notes | Record Store Day 2024 exclusive remastered reissue. Zoetrope 30th Anniversary pressing. Limited to 5000 copies. Made In Germany. |

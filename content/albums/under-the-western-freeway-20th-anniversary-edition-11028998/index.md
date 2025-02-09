@@ -77,7 +77,7 @@ styles: ["Lo-Fi", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP (Blue) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Reissue | 1× Vinyl (Blue) LP |
 | Label          | Friendship Fever |
 | Catalog Number | FVRLP012 |
 | Notes | Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings. |

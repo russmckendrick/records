@@ -59,7 +59,7 @@ Everything Is Changing is the debut studio album by the former The Gathering and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Changing |
-| Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Picture Disc, Reissue |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-064LPPIC |
 | Notes | For the first time on vinyl, presented in gatefold jacket and printed inner sleeve. Limited to 500 copies on picture disc. Under exclusive license from InsideOut Music |

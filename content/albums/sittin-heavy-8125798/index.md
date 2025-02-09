@@ -62,7 +62,7 @@ styles: ["Blues Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album |
+| Format         | 1× Vinyl (Red) LP | 1× Vinyl (Red) LP, Single Sided, Etched | 1× All Media Album |
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |
 | Notes | Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |

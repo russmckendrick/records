@@ -51,7 +51,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Saga label.) |
+| Format         | 1× Vinyl (Saga label.) LP |
 | Label          | Presto |
 | Catalog Number | PRE 629 |
 | Notes | Sleeve says PRESTO, but label on record is SAGA. Both own by manufacture. Manufactured by Allied Records Ltd. 127 Kensal Road / London W.10 |

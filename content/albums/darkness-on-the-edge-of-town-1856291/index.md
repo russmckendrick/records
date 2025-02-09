@@ -62,7 +62,7 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Darkness_on_the_Edge_of_Town |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | CBS |
 | Catalog Number | CBS 86061 |
 | Notes | 'Made in England'    With picture inner sleeve and lyric insert.   |

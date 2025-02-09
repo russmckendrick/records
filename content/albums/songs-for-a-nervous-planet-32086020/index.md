@@ -57,7 +57,7 @@ styles: ["Pop Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Limited Edition (Cocoa Cream) |
+| Format         | 2× Vinyl (Cocoa Cream) LP, Limited Edition |
 | Label          | Concord Records |
 | Catalog Number | 00888072651517 |
 | Notes | Gatefold sleeve. Back cover lists tracks and the following credits: tearsforfears.com | concordrecords.com ℗ & © 2024 TFFUK, LLC. Under exclusive license to Concord Records. Manufactured & Distributed by Concord. All Rights Reserved. Unauthorized copying, reoproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 15025. Universal International Music B.V. 's-Gravelandsweg 80, 1217 EW HGilversum, Netherlands. 00888072651517  Sticker on front exterior shrink reads:  “2-LP Featuring Live Performances Of “Shout,” “Head Over Heels,” “Everybody Wants To Rule The World,” & More Hits, Plus 4 New Songs! Limited Edition “Cocoa Cream” Vinyl 00888072651517"  Side A begins with 4 new songs and the remainder of A and the entirety of sides B C and D are live recordings.  Records are issued with black, die-cut anti-static sleeves. Tracks are sequentially numbered.  In the runouts, "CRE02697-Ⅹ (1) and "JN-H" are etched, the rest is stamped.  Some copies with "Made In Czech Republic" sticker on back cover shrink-wrap.  |

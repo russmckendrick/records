@@ -59,7 +59,7 @@ Flock is the eleventh album by the English musician Jane Weaver, released on 5 M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flock_(Jane_Weaver_album) |
-| Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
+| Format         | 1× Vinyl (Pink [Rose]) LP, Album, Limited Edition |
 | Label          | Fire Records |
 | Catalog Number | FIRELP544 |
 | Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown). |

@@ -64,7 +64,7 @@ Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lovesexy |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Legacy |
 | Catalog Number | 19439904001 |
 | Notes | Hype sticker on shrink-wrap: Lovesexy "Lovesexy was a mind trip, like a psychedelic movie" -PRINCE features "Alphabet St." and "Glam Slam"  Issued with printed glossy inner sleeve. Printed on labels and spine as "PRINCE LOVESEXY"  "Eye" in track title A1 and printed in all lyrics on the inner sleeve is represented by a stylized "👁" eye symbol.  Side A: Total Timing 21:29 Side B: Total Timing 23:32 Songs are in a continuous sequence  "Vinyl Made In France" on barcode sticker on shrink-wrap.  ℗ 1988 & © 1988, 2023 NPG Records, LLC, under exclusive license to  Sony Music Entertainment for the U.S.A.  and Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.  In runouts, "[MPO logo]® 23 303XXX" is stamped, rest is etched.  |

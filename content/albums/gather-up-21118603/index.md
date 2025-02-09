@@ -72,7 +72,7 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gather_Up_the_Chaps |
-| Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
+| Format         | 2× Vinyl (Red) LP, Compilation, Limited Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP605 |
 | Notes | Gatefold sleeve |

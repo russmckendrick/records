@@ -64,7 +64,7 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We%27re_Here_Because_We%27re_Here_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Numbered |
 | Label          | Kscope |
 | Catalog Number | kscope812 |
 | Notes | Recorded at The Bungalow, Yorkshire and Propagation House, Cornwall. String arrangements recorded at Angel Studios, London. All photographs taken at significant locations in Liverpool.  1st pressing. Limited edition of 2.000 numbered copies on 180g black vinyl. The numbering is on a sticker on the back of the sleeve. There is either KScope or Peaceville mentioned on the sticker. Made in Germany Gatefold sleeve Two printed inner sleeves  |

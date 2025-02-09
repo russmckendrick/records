@@ -61,7 +61,7 @@ It was Dire Straits' most commercially successful single, peaking at number 1 fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Money_for_Nothing |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Vertigo |
 | Catalog Number | VERH 64 |
 | Notes | Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).    Issued with a lyric inner sleeve. |

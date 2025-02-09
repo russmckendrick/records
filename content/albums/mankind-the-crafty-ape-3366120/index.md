@@ -70,7 +70,7 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7360 1 |
 | Notes | Recorded and Assembled at Chapel Studio, Lincolnshire, UK during August '11 All rights reserved. ℗ & © 2011 Mascot Music Production And Publishing BV.  Gatefold sleeve, comes with color inner sleeves and a poster. |

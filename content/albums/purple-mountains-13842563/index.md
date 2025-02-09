@@ -60,7 +60,7 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Purple_Mountains |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Drag City |
 | Catalog Number | DC680 |
 | Notes | Packaged in a tip-on sleeve. Includes a printed inner sleeve.  © & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647  Engineered [...] at Jamdek in Chicago and Thump in Brooklyn Mixed [...] at Electrical Audio in Chicago |

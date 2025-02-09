@@ -68,7 +68,7 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Final_Cut_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
+| Format         | 1× Vinyl (180g, Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP12 |
 | Notes | The French release is all the same with a sticker written in that language instead of English.  Subtitled as 'A Requiem For The Post War Dream By Roger Waters'. Original UK release date: March 1983.  Made in the E.U.  On back cover: Special thanks to Neal Wharton  During the original release, 'When The Tigers Broke Free ' did not appear on this album.  Tracktimes do not appear anywhere on this release. |

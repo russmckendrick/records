@@ -61,7 +61,7 @@ Calling All Stations was released to mostly negative reviews from music critics 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Calling_All_Stations |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374588 |
 | Notes | Recorded at The Farm, Surrey, England   |

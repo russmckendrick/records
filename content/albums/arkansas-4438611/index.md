@@ -53,7 +53,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl Compilation LP |
+| Format         | 1× Vinyl Compilation, LP |
 | Label          | Capitol Records |
 | Catalog Number | VMP 1001 |
 | Notes | Stereo 7510 T. M. Garrod & Lofthouse Ltd |

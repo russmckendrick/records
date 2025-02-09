@@ -67,7 +67,7 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Permanent_Vacation_(Aerosmith_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red/Black Marbled) |
+| Format         | 1× Vinyl (Red/Black Marbled) LP, Album, Limited Edition, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954374 |
 | Notes | Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve.  Runouts are stamped.  |

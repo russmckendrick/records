@@ -58,7 +58,7 @@ We Love Life is the seventh studio album by English rock band Pulp, released on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Love_Life |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785290 |
 | Notes | An initial run of copies of this release were exclusively sold in [l11249] and Fopp stores (HMV copies have an "HMV exclusive" sticker placed on shrink).   Recorded and mixed at Metropolis, London. Strings recorded at Air Studios. Choir recorded at Angel Studios.  Track A4 samples "Tell Her You Love Her" written by Stanley Myers & Hal Shaper, published by Screen Gems-EMI Music Ltd. Taken from the film "Otley".  Track A5 samples "Willow's Song" composed by Paul Giovanni, from the British Lion film "The Wicker Man".  Track B2: Virtual birdsong generated at the Institute of Sound & Vibration Research, University of Southampton under the supervision of Professor Phil Nelson.  ℗ 2001 Universal-Island Records Ltd.  © 2016 Universal-Island Records Ltd.  Made in the EU. |

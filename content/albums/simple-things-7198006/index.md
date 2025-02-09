@@ -70,7 +70,7 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Simple_Things_(Zero_7_album) |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Warner Music |
 | Catalog Number | 0825646132751 |
 | Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd. A Warner Music Group Company. Made in the EU.  Produced and Fleximixed at Shabang Studios.  Sticker on front. 180gm vinyl Includes download code for mp3 version of the album. |

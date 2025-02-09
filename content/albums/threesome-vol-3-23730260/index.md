@@ -50,7 +50,7 @@ styles: ["Power Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP |
+| Format         | 1× Vinyl 12", EP |
 | Label          | Lojinx |
 | Catalog Number | LJX129V12 |
 | Discogs URL    | [The Lickerish Quartet - Threesome Vol. 3](https://www.discogs.com/release/23730260-The-Lickerish-Quartet-Threesome-Vol-3) |

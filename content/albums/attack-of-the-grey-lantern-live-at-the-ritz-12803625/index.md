@@ -56,7 +56,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | kscope1007 |
 | Notes | Comes with download card allowing 1 download of album in MP3 format.  Signed copies sold on Pauls November 2018 Acoustic tour.  |

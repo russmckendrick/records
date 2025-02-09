@@ -60,7 +60,7 @@ Woodface is the third studio album by Crowded House. The album was produced by M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Woodface |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 788023 |
 | Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Woodface/release/9318517]deluxe edition[/url] of this reissue.   Engineered at Sunset Sound Factory. |

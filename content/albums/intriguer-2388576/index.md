@@ -57,7 +57,7 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Intriguer |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Universal Music Group International |
 | Catalog Number | 00602527415185 |
 | Notes | Recorded at Roundhead Studios, Auckland May-Aug 09 Mixed at PLYRZ Studios, LA Mastered @ Gateway Mastering & DVD Portland. Additional recording @ Exchequer Studios, Dublin. Additional recording & mixing @ PLYRZ Studios Aug 25-Sept 25 2009.  Preorder from Neil Finn site were signed by Neil, Nick, Mark and Matt on cover  |

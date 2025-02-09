@@ -66,7 +66,7 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mer_de_Noms |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Gatefold, 180g) |
+| Format         | 2× Vinyl (Gatefold, 180g) LP, Album, Limited Edition, Reissue |
 | Label          | Virgin |
 | Catalog Number | 7243 8 49253 1 4 |
 | Notes | Tracks A2, C1, D1 mixed at The Mix Room, Burbank, CA. Tracks A1, A3, B1, B2, B3, C2, C3, D2, D3 mixed at Extasy Studios, North Hollywood, CA. Engineered at Perfect Circle Studios, North Hollywood, CA except as noted: Drums on tracks A1, B2, B3, C3, D2 recorded at The Chop Shop, Hollywood, CA; Drums on tracks A2, A3, B1, C1, C2, D1, D2 recorded at Sound City, Van Nuys, CA; Drums on track C3 recorded at Extasy Studios, North Hollywood, CA. Mastered at Oasis Mastering.  Billy Howerdel credited in full as Producer on back cover, but as Billy in the booklet.  Published by Transfixed Music/ASCAP and Harry Merkin Music/ASCAP. ℗&© 2000 Virgin Records America, Inc. Manufactured by Virgin Records America, Inc. Printed in the USA.  Front sticker:  "From The Capitol Vaults  180 Gram Vinyl  Audiophile Quality  Faithfully Restored  Limited Edition" |

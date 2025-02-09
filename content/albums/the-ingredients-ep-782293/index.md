@@ -44,7 +44,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP |
+| Format         | 1× Vinyl 12", 45 RPM, EP |
 | Label          | Chapter 22 |
 | Catalog Number | 12 CHAP 47 |
 | Notes | Double B-sided release. Recorded at The Fridge in Stourbridge, 1990  Distribution: Nine Mile/Cartel  |

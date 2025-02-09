@@ -44,7 +44,7 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 33 ⅓ RPM EP Record Store Day Limited Edition Numbered |
+| Format         | 1× Vinyl 10", 33 ⅓ RPM, EP, Record Store Day, Limited Edition, Numbered |
 | Label          | fsoldigital.com |
 | Catalog Number | 10RSDAA1 |
 | Notes | RSD 2021 release. Limited to 1000 machine-numbered copies worldwide.  Taken from the album [url=https://www.discogs.com/The-Future-Sound-Of-London-Present-The-Amorphous-Androgynous-Alice-In-Ultraland/master/23561]Alice In Ultraland[/url] |

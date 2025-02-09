@@ -69,7 +69,7 @@ Regarding the album's title, lead vocalist and keyboardist Victoria Legrand refl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Devotion_(Beach_House_album) |
-| Format         | Vinyl 2× LP 45 RPM Album Club Edition Deluxe Edition Reissue Remastered (Clear w/ Gold Splatter [Gold Cloud Burst], 180g, Tip-On Sleeve) |
+| Format         | 2× Vinyl (Clear w/ Gold Splatter [Gold Cloud Burst], 180g, Tip-On Sleeve) LP, 45 RPM, Album, Club Edition, Deluxe Edition, Reissue, Remastered |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-027 |
 | Notes | 10th anniversary reissue.  Lyric poster is hand-written by Victoria Legrand.  Runouts: Etched. Characters after [Side letter]-1 are stamped For example - Side B - etched, 'VMP027-B1' stamped, '168079M2/A' |

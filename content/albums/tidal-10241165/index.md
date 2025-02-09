@@ -65,7 +65,7 @@ She’d grown up with classical piano and jazz standards—worlds where technica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tidal_(album) |
-| Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue Remastered (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, 45 RPM, Album, Club Edition, Reissue, Remastered |
 | Label          | Epic |
 | Catalog Number | 88985420001 |
 | Notes | Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet. www.vinylmeplease.com/products/fiona-full  © 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles Mixed at Brooklyn Recording Studio, Los Angeles [...] Production Coordinator: Valerie Pack for Harvest Moon Productions  All songs [...] © 1996 FHW Publishing (ASCAP) |

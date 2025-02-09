@@ -56,7 +56,7 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Temple_of_Low_Men |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2064 |
 | Notes | © 1988 Capitol Records, Inc.  Made in UK Mixed for Fast Forward Productions, Ltd. All songs published by Roundhead Music - BMI ℗ 1988 Capitol Records, Inc.  Printed inner sleeve |

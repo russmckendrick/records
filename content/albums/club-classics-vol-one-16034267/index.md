@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Gold & Black, 180g) |
+| Format         | 1× Vinyl (Gold & Black, 180g) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | 10 Records |
 | Catalog Number | 3507526 |
 | Notes | National Album Day 2020 Release Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.  Catalogue number on sticker is: 3507526 Catalogue number on sleeve & labels is: 00602435075266  ℗ 1989 10 Records Ltd. © 2020 10 Records Ltd. Manufactured in the EU. Made in Germany. |

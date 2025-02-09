@@ -62,7 +62,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 704 |
 | Notes | Text on label: All Rights of The Manufacturer and of The Owner of The Recorded Work Reserved. Unauthorised Public Performance Broadcasting and Copying of this Record Prohibited  Limited Collectors Edition.   |

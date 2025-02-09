@@ -72,7 +72,7 @@ Broken received positive reviews from critics and reached number seven on the US
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Broken_(Nine_Inch_Nails_EP) |
-| Format         | Vinyl 12" 33 ⅓ RPM Single Sided Mini-Album Etched (180g), Vinyl 7" 45 RPM, All Media Reissue Remastered Stereo (Definitive Edition) |
+| Format         | 1× Vinyl (180g) 12", 33 ⅓ RPM, Single Sided, Mini-Album, Etched | 1× Vinyl 7", 45 RPM | 1× All Media (Definitive Edition) Reissue, Remastered, Stereo |
 | Label          | Nothing Records |
 | Catalog Number | B0025684-01 |
 | Notes | 2017 Definitive Edition. Comes with digital download code. The 12" contains a spiral etching of random lyrics from the songs on the record.  Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).  12" Jacket has a matte "n" on the front and the inside is white. 7" Paper inner sleeve.  From the hype sticker:  The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about.   Halo five Original release date: September 22, 1992 |

@@ -56,7 +56,7 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tin_Drum_(album) |
-| Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue (Gatefold Sleeve) |
+| Format         | 2× Vinyl (Gatefold Sleeve) 12", 45 RPM, Album, Limited Edition, Reissue |
 | Label          | Virgin |
 | Catalog Number | 671 041-7 |
 | Notes | ℗ 1981 Virgin Records Ltd.  © 2018 Virgin Records Ltd. Made in the EU  Project Co-ordination For Universal at Hey Joe!  Mastered by Miles Showell at Abbey Road, each record was cut using a half-speed mastering technique; a specialist artisan process, which results in cuts that have a superior high frequency (treble) response and solid and stable stereo images. In short, this produces a very high-quality master, which in turn helps to create a very high-quality record.  Additionally, each album is being released as a double 45 RPM half-speed mastered edition, the ultimate high-quality reproduction as the faster the replay speed of the record, the higher the potential quality. The shorter side times also allow the level recorded to the master lacquer discs to be increased, thereby improving the signal to noise ratio.  Half Speed Mastering Certificate |

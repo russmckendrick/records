@@ -50,7 +50,7 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | MCA Records |
 | Catalog Number | 256 434-1 |
 | Discogs URL    | [Various - Ghostbusters II](https://www.discogs.com/release/672488-Various-Ghostbusters-II) |

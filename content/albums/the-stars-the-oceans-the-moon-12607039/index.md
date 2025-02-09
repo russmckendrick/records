@@ -69,7 +69,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Luminous) |
+| Format         | 2× Vinyl (Luminous) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538355220 |
 | Notes | Gatefold Sleeve. Includes Download Code. |

@@ -58,7 +58,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Turquoise, 25th Anniversary Edition) |
+| Format         | 1× Vinyl (Turquoise, 25th Anniversary Edition) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Food |
 | Catalog Number | FOODLPX6 |
 | Notes | Sourced from the 2012 remaster of [r=3787137]. Includes a download card.  Includes a printed inner sleeve.  Digital remasters ℗ 2012 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2012 Parlophone Records Ltd. A Warner Music Group Company.  'Bathing hat' photo from Hulton Picture Company with a little help from I.Q.  "Stephan Street" typo on inner sleeve, but not label.  Tracks A1, A2 & A6 published by Universal / MCA Music Ltd. Tracks A3-A5 published by Illegal Songs Inc. Tracks B1 & B3 published by Universal / MCA Music Ltd. Tracks B2, & B4-B6 published by Illegal Songs Inc. |

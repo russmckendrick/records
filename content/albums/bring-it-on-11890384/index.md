@@ -72,7 +72,7 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bring_It_On_(Gomez_album) |
-| Format         | Vinyl LP (Burgundy), Vinyl LP (Yellow), All Media Album Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Burgundy) LP | 1× Vinyl (Yellow) LP | 1× All Media Album, Limited Edition, Reissue, Remastered |
 | Label          | UMC |
 | Catalog Number | 6711417 |
 | Notes | 20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.   |

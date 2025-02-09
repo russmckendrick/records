@@ -63,7 +63,7 @@ The Last Broadcast is the second studio album by British indie rock band Doves. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Broadcast_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Heavenly |
 | Catalog Number | 7748263 |
 | Notes | 2019 reissue, 180gr coloured vinyl, lyric sheet but no gatefold sleeve.  "M62 Song" is an adaptation of "Moonchild" by King Crimson. |

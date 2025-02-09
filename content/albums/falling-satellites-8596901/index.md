@@ -73,7 +73,7 @@ In this instance – life. This is my midlife crisis album! The whole album is a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Falling_Satellites |
-| Format         | Vinyl 2× LP Album (180 g), CD Album |
+| Format         | 2× Vinyl (180 g) LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 450 |
 | Notes | Issued in a glossy gatefold sleeve. Includes printed inner sleeves with artwork and lyrics.  [On sticker on shrink (along with some hype text):] 180g Gatefold 2 LP Vinyl Edition (incl. bonus tracks and the album on CD) Frost* is the brainchild of Jem Godfrey, who is joined by John Mitchell ([a4256294] / [a323594]) on guitar and vocals, Nathan King ([a17640]) on bass and Craig Blundell ([a227943]) on drums.  © 2016 InsideOutMusic  ℗ 2016 Century Media Records Ltd. under exclusice license from InsideOutMusic Made in Germany  Recorded at The Cube, Mayfield, Strongroom, London and The Outhouse, Reading Strongroom recordings engineered by Lee Slater Mastered [...] at Metropolis  "Dedicated to Peter John Godfrey, 28/7/34 - 8/1/16."  [Cat# appearances:] "88985318931" on spine, labels and CD "IOMLP 450" on back cover "IOMCD 450" on CD  Tracks D1, D2, D3 (CD-12 to CD-14) are bonus tracks. |

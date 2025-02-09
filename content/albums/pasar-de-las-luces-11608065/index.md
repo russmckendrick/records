@@ -59,7 +59,7 @@ styles: ["Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) 12", Album |
 | Label          | Innovative Leisure |
 | Catalog Number | IL2054 |
 | Notes | Including downloadcode on a plastic card |

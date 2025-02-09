@@ -54,7 +54,7 @@ Boy from Michigan is the fifth studio album by American musician John Grant. It 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boy_from_Michigan |
-| Format         | Vinyl 2× LP Album Deluxe Edition (Velvet O-card, Signed Edition) |
+| Format         | 2× Vinyl (Velvet O-card, Signed Edition) LP, Album, Deluxe Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA1220V |
 | Notes | Deluxe velvet O-card with gatefold sleeve, 140g vinyl. Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet. MP3 download card included.  Signed edition available direct from the Bella Union Store.  Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik. Mixed at Sea Horse Sound Studios, LA, USA.  ℗ & © 2021 Bella Union Under license to [PIAS] |

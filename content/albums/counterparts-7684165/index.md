@@ -68,7 +68,7 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Counterparts_(Rush_album) |
-| Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
+| Format         | 1× Vinyl (200g) LP | 1× Vinyl (200g) LP, Single Sided, Etched | 1× All Media Album, Reissue, Remastered, Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 82528 |
 | Notes | Includes High Quality Download Code Etched D Side 2 LP in a single sleeve jacket  |

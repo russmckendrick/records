@@ -64,7 +64,7 @@ Off the Wall was a significant departure from Jackson's previous work for Motown
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Off_the_Wall |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 450086 1 |
 | Notes |  © 1979 CBS, Inc. / ℗ 1979 CBS Inc. Distribution: CBS Records / CBS Disques S.A. Shorepak by Shorewood Packaging Co. Ltd., England  This release has a slighty different cover to the other reissue.  Some releases came with insert containing all lyrics and credits. |

@@ -57,7 +57,7 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Boy_with_the_Arab_Strap |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP 003 |
 | Notes | Includes download of entire album.  Includes a PVC outer sleeve.    ℗ & © 1998 Jeepster Recordings Ltd.  Made in the E.U.  Distributed by Universal Music Operations Ltd.    Lyrics printed on the inside (left half) of the gatefold sleeve.       |

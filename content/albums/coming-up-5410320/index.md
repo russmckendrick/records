@@ -59,7 +59,7 @@ Coming Up is the third album by English alternative rock band Suede, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coming_Up_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 3 |
 | Notes | 180 gram vinyl. Demon Records Ltd release. Some copies have a MP3 download card. Pressing plant uncredited, identified by the matrix numbers. |

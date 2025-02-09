@@ -63,7 +63,7 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drums_and_Wires |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELP103(C) |
 | Notes | Rough Trade Essential edition on block yellow with Obi strip;  limited to 700 copies.  |

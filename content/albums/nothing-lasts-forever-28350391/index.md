@@ -56,7 +56,7 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nothing_Lasts_Forever_(Teenage_Fanclub_album) |
-| Format         | Vinyl LP Album Limited Edition (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Pema |
 | Catalog Number | PEMA20LPX |
 | Notes | Available via both Rough Trade and Monorail as an "exclusive" edition of 1000 copies on clear vinyl with signed art print. Housed in mirror board sleeve with printed inner.  Barcode printed in a hyper stick. Cat# PEMA20LP on the side. |

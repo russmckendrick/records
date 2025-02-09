@@ -62,7 +62,7 @@ Several songs on the album have appeared in television advertisements and on fil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scorpio_Rising_(Death_in_Vegas_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Red Translucent) |
+| Format         | 2× Vinyl (Red Translucent) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2251 |
 | Notes | ℗ & © 2018 Sony Music Entertainment.  180 gram audiophile vinyl. Gatefold sleeve. Printed innersleeves with per track credits. 2.500 individually numbered copies on red vinyl.  Runouts are hand etched on all four sides. |

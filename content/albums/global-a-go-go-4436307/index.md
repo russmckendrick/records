@@ -79,7 +79,7 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Global_a_Go-Go |
-| Format         | Vinyl 2× LP Album Reissue, CD Album Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× CD Album, Remastered |
 | Label          | Hellcat Records |
 | Catalog Number | 80440-1 |
 | Discogs URL    | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |

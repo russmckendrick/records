@@ -63,7 +63,7 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Arts & Crafts |
 | Catalog Number | A&C 129 |
 | Notes | Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only) |

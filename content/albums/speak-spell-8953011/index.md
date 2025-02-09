@@ -60,7 +60,7 @@ Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Mute |
 | Catalog Number | STUMM5 |
 | Notes | Contains 12"x12" inner sleeve replica insert (from 2007 remaster).   Recorded at Blackwing Studios, London in 1981. All tracks (...) published by Musical Moments Ltd. / Sony Music Publishing. Except Tora! Tora! Tora! and Big Muff (...) published by EMI Music Publishing Ltd., assigned by Grabbing Hands Music Ltd. Remastered (...) at Super Audio Mastering. Cut (...) at The Exchange. Management (...) for Baron Inc. Depeche Mode office (...), Venusnote Ltd.  ℗ 1981 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / © 1981, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment / (...) Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |

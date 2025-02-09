@@ -59,7 +59,7 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl Compilation LP |
+| Format         | 1× Vinyl Compilation, LP |
 | Label          | RCA |
 | Catalog Number | 74321 15317 1 |
 | Discogs URL    | [Pop Will Eat Itself - 16 Different Flavours Of Hell](https://www.discogs.com/release/1873913-Pop-Will-Eat-Itself-16-Different-Flavours-Of-Hell) |

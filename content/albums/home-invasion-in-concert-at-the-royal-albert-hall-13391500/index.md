@@ -107,7 +107,7 @@ styles: ["Prog Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 5× LP Stereo, Box Set Album |
+| Format         | 5× Vinyl LP, Stereo | 1× Box Set Album |
 | Label          | Caroline International |
 | Catalog Number | CAROL017LP |
 | Notes | The LP's include the full soundtrack of the concert across 4 discs, while the fifth LP in the vinyl set includes 3 rehearsal songs as well as 3 songs taken from the previous night’s performance (How is Your Life Today?, Blackfield, and Postcard). J1 to J3 are exclusive to the vinyl release.  This box set includes a 32 page 12" booklet with pictures and credits. Every LP is housed in a printed outer sleeve with plain polylined inner sleeves.  To The Bone tour created by Steven Wilson and Lasse Hoile  ℗ & © 2018 Steven Wilson Productions Ltd. Made in the EU. |

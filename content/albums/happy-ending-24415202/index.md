@@ -60,7 +60,7 @@ A happy ending is epitomized in the standard fairy tale ending phrase, "happily 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happy_ending |
-| Format         | Vinyl 2× LP Album (Clear vinyl) |
+| Format         | 2× Vinyl (Clear vinyl) LP, Album |
 | Label          | Last Night From Glasgow |
 | Catalog Number | LNFG57CC |
 | Discogs URL    | [Hifi Sean - Happy Ending](https://www.discogs.com/release/24415202-Hifi-Sean-David-McAlmont-Happy-Ending) |

@@ -64,7 +64,7 @@ The album was produced in 2015 and released on 15 January 2016.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Bear_(album) |
-| Format         | Vinyl LP Album Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Stereo |
 | Label          | Earache |
 | Catalog Number | MOSH556LP |
 | Notes | White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release.  |

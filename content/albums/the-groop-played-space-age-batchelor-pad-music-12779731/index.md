@@ -52,7 +52,7 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Mini-Album Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Mini-Album, Reissue |
 | Label          | Too Pure |
 | Catalog Number | PURE 19LP |
 | Notes | This re-issue comes with an insert with notes about each song.   GZ-pressed release without the 'X' appended on the cat number on the back and the spine, no remastering credit listed on the back. |

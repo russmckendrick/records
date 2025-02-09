@@ -58,7 +58,7 @@ It was reissued by lead singer Darren Hayman in 2008.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Fidelity_Wars |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wialp081 |
 | Notes | Black vinyl 2019 reissue.  Comes with a download code. |

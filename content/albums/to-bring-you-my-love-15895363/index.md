@@ -59,7 +59,7 @@ The opening title track sets the swampy, unsettling mood—a dark religious revi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_Bring_You_My_Love |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 0896473 |
 | Notes | Initial copies with hype sticker, and included download card from thesoundofvinyl.com, in 16bit / 44.1KHz WAV format.  ℗ 1995 Universal Music Operations Ltd. © 1995 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.  Universal International Music. B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Jacket is made from textured matte cardstock. Artist/title text is overprinted on the front cover to give a slightly embossed effect.  Issued with printed inner sleeve.  First catalog number (0896473) on jacket spine, back, labels, inner sleeve. Second catalog number (00602508964732) on jacket back, label rimtext.  Hype sticker (catalog number 0896473) affixed to shrink: Re-issue of the original 1995 album To Bring You My Love, featuring the singles Down By The Water, C'mon Billy and Send His Love To Me Pressed on 180GSM vinyl Includes download card  Recorded at Townhouse Three, Battersea - September/October 1994 Mixed at Windmill Lane, Dublin - October/November 1994  All titles © Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)  Runouts are etched, Optimal plating marks (e.g., =1, V1, etc.) are mirrored. |

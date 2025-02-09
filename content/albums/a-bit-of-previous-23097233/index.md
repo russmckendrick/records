@@ -114,7 +114,7 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Bit_of_Previous |
-| Format         | Vinyl LP Album Stereo (Gatefold), Vinyl 7" 45 RPM Stereo |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Stereo | 1× Vinyl 7", 45 RPM, Stereo |
 | Label          | Matador |
 | Catalog Number | OLE1845LPE |
 | Notes | Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet.  200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |

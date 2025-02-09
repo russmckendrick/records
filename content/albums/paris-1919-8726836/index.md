@@ -59,7 +59,7 @@ The album has received critical praise from several publications over the years,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paris_1919_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Reprise Records |
 | Catalog Number | K44239 |
 | Notes | The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.  On back cover: K44239 (MS 2131) Stereo  A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 © Shorepak by Shorewood Packaging Co. Ltd., England  On label: Made in UK 33⅓ RPM  K 44239 (MS 2131) ℗ 1973 |

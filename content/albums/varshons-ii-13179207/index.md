@@ -57,7 +57,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Fire Records |
 | Catalog Number | FIRELP532 |
 | Notes | Indie Store Only Green Vinyl Comes with Banana Scented Scratch & Sniff Sleeve |

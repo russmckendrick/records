@@ -59,7 +59,7 @@ The album is titled after a military slang term well known at the time of releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fugazi_(album) |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Reissue Remastered |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP, Reissue, Remastered |
 | Label          | Dischord Records |
 | Catalog Number | Dischord 30 |
 | Notes | Cat# appears as Dischord 30 on label, as DISCHORD 30 on spine.  Barcode is on a sticker on the plastic. No barcode on album sleeve.  Sticker on front cover (on the plastic): "Free album downloaded included with this LP - Vinyl Remastered From Original Source Tapes - Coupon & MP3 Download Details Enclosed"  Comes with 12-digit MP3 download code from Dischord records.  Made in USA (on back cover) Made in France (on labels)  No price on this version.  Dischord Records 3819 Beecher St NW Washington, DC 20007  © 1988 Dischord  All songs © Fugazi |

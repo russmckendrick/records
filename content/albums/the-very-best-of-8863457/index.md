@@ -70,7 +70,7 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_of_Daryl_Hall_%26_John_Oates |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Gray / Blue) |
+| Format         | 2× Vinyl (Gray / Blue) LP, Compilation, Limited Edition, Reissue, Remastered |
 | Label          | RCA |
 | Catalog Number | 88985330971 |
 | Notes | Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material.  |

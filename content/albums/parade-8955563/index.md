@@ -63,7 +63,7 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Parade_(Prince_album) |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Paisley Park |
 | Catalog Number | 1-25395 |
 | Notes | Hype sticker: Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"  Dust sleeve with photo collage and detailed credits.  Labels: Music from the motion picture [m=268031]    |

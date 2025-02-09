@@ -63,7 +63,7 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Late_Night_Final |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |
 | Notes | Some signed copies were available on the 2016 tour.  ℗ & © Setanta Records Ltd, Made In UK |

@@ -65,7 +65,7 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Autofiction_(album) |
-| Format         | Vinyl LP Album Stereo (Grey) |
+| Format         | 1× Vinyl (Grey) LP, Album, Stereo |
 | Label          | BMG |
 | Catalog Number | 538804791 |
 | Notes | 'Bricks and Mortar'* exclusive colour  *Independent and HMV retail and online shops  Gatefold sleeve  Manufactured In Czech Republic |

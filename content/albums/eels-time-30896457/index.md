@@ -57,7 +57,7 @@ Eels Time! is the 15th studio album by the American indie rock band Eels. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eels_Time! |
-| Format         | Vinyl LP Album (Pink Translucent) |
+| Format         | 1× Vinyl (Pink Translucent) LP, Album |
 | Label          | E Works Records |
 | Catalog Number | EWORKS126 |
 | Notes | Made in Germany  Glossy gatefold sleeve. Full color printed cardboard inner sleeve with lyrics. |

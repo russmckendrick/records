@@ -63,7 +63,7 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Compilation Stereo |
+| Format         | 2× Vinyl LP, Album, Compilation, Stereo |
 | Label          | Epic |
 | Catalog Number | KW 1 |
 | Notes | © 1980 CBS Records.   |

@@ -62,7 +62,7 @@ A Farewell to Kings received a generally positive reception from critics. "Close
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Farewell_to_Kings |
-| Format         | Vinyl LP Album Reissue Remastered (180  Gram, Gatefold) |
+| Format         | 1× Vinyl (180  Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 00602547117632 |
 | Notes | DMM-remastered 180 gram vinyl. Lyrics on inner spread  Also comes with a mp3 download coupon and a 2-page insert.     Recorded at Rockfield Studios, Wales, June 1977  Mixed at Advision Studios, London  DMM Mastering at Abbey Road Mastering Studios, London - December 2014.     © 2015 Anthem Entertainment / Mercury Records (on insert and center labels)  ℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.  Made in the EU |

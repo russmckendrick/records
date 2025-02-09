@@ -70,7 +70,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Black/White Swirl), Vinyl LP (Black/Red Swirl), All Media Album Record Store Day Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Black/White Swirl) LP | 1× Vinyl (Black/Red Swirl) LP | 1× All Media Album, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 88843045891 |
 | Notes | Record Store Day 2017 release of 2500 copies. Hype sticker states: Iconic third album now on vinyl for the first time Two LP set remastered from the original sources Limited edition splatter vinyl Includes digital download  150-gram LPs housed in printed inner sleeves with art and lyrics. Includes digital download code.  Release was originally promoted as being pressed on splattered color vinyl; the final product came to be pressed with a swirl/merge color scheme. |

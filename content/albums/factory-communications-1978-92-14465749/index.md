@@ -118,7 +118,7 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 8× LP Reissue (180g), Box Set Compilation |
+| Format         | 8× Vinyl (180g) LP, Reissue | 1× Box Set Compilation |
 | Label          | Warner Music |
 | Catalog Number | 0190295663841 |
 | Notes | Housed in a cardboard box with 40 page booklet. Cat. # printed on all labels.  Track A5: The version used here is the 12" version FACUS 2 released August 1980. Track A6: On the single Finney and Perrin are credited as writers. Track B3: Duration on the 12" 10:11, here is fading out.   Track F1: On the 12" Royal Family And The Poor (The Poor) are also credited as producers.  [a=John Davis (4)] cut is directly credited on booklet and his signature (JD) is etched on side A |

@@ -54,7 +54,7 @@ styles: ["Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition (Yellow Opaque) |
+| Format         | 1× Vinyl (Yellow Opaque) 12", 33 ⅓ RPM, EP, Record Store Day, Limited Edition |
 | Label          | Gasoline Alley |
 | Catalog Number | B0029669-01 |
 | Notes | 6400 copies.  Sitcker: "6 Brand New Dub Mixes of Iconic Sublime Songs by Dub Legend Scientist and Mad Professor On Opaque Yellow Vinyl Record Store Day 2021".  On back cover: A Gasoline Alley, J.V. release; ℗ © 2021 UMG Recordings, Inc. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc.  Geffen UMe a Universal Music Company  On insert: "Garden Grove" contains elements from "Five Nights Of Bleeding" ([a20702]). Performed by [a20702]. Used courtesy of Virgin Records, Ltd. |

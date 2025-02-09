@@ -59,7 +59,7 @@ Midnight at the Movies is the second studio album by Justin Townes Earle, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Midnight_at_the_Movies |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 160 LP |
 | Notes | "Limited Edition of 2000"  Released with mp3 download |

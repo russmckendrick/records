@@ -65,7 +65,7 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psychocandy |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Blanco Y Negro |
 | Catalog Number | BYN 7 |
 | Notes | German Pressing 1985. Addition to runout information. Side A has a crossed BYE in the runout groove just before BYN Label differences: three layers of rim text and flag.  Includes insert. |

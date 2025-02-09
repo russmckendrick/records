@@ -63,7 +63,7 @@ Although Jonny Cragg makes his singing debut in "Skylark" on the band's second L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Resident_Alien_(album) |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Pink & Cream Splatter) |
+| Format         | 2× Vinyl (Pink & Cream Splatter) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Sire |
 | Catalog Number | 61834-2 |
 | Notes | Limited to 2000 copies. The pink and cream splatter vinyl is meant to match the British passport colors.  Track D1 is listed with a duration of 13:10 - it ends with about 11 minutes of silence before the next track. D2 is not listed on the rear sleeve, but is listed on the label for side D.   |

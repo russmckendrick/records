@@ -66,7 +66,7 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Something_More_Than_Free |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99861 |
 | Notes | Recorded at Sound Emporium Studio, Nashville, TN Additional recording and mixing at Low Country Sound  © and ℗ 2015 Southeastern Records   Tracks are listed sequentially from Track 1 to Track 11 on back cover of album.  Including download voucher (256 kbps MP3). |

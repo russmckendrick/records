@@ -59,7 +59,7 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | K-Tel |
 | Catalog Number | NE 1090 |
 | Notes | Produced in association with PYE and Buddah Records.  This version differs to [r13604417]: the other release shows a black K-Tel logo in the bottom left of the front sleeve, and WEA in the runouts. |

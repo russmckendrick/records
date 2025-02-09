@@ -60,7 +60,7 @@ The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Funky_Nation |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLP 544 |
 | Notes | WS2, WS3, WS5, ES4 produced for Dust Bros. Music. WS4, ES1, ES5 produced for Chicken Feed Productions.  Fish appears courtesy of CBS Records.  Recorded at Image Recording, Hollywood. Mixed at Image Recording & The Record Plant, Hollywood. ES2 recorded at Paramount Studios, Hollywood. WS6, ES2 mixed at Studio 4, Philadelphia. Mastered at Masterdisk, NYC, NY.  Publishing: Island Music Ltd/Copyright Control except WS4, ES1 Island Music Ltd.  Back cover: ℗ 1990 owned by Island Records Inc except ES2 ℗ 1989. Island Records Ltd are the exclusive licensees in the UK. © 1990 Island Records Inc.  WS label: ℗ 1990 owned by Island Records Inc. Island Records Ltd are the exclusive licensees for the U.K.  ES label: ℗ 1990 except ES1. 1989 owned by Island Records, Inc. Island Records Ltd are the exclusive licensees for the United Kingdom. Made in Gt Britain. |

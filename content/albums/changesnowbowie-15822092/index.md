@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295332747 |
 | Notes | Recorded and mixed in November 96 at Looking Glass Studios, NYC. Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.  Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner. RSD DROPS 2020 - August 29  ℗ © 2020 [l281591]  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).   |

@@ -56,7 +56,7 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Screamadelica |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Creation Records |
 | Catalog Number | 88697811061 |
 | Notes | Re-mastered For The 20th Anniversary. Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews. 180 gram Audiophile Vinyl (Black). With a gold sticker on transparent outer shrink wrap. Matte gatefold sleeve. Generic anti-static die-cut poly-lined dust inner sleeves without corners.  Remastered at Metropolis.  |

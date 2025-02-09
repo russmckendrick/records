@@ -62,7 +62,7 @@ High Water I is the debut studio album by American rock band The Magpie Salute, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/High_Water_I |
-| Format         | Vinyl 2× LP Album (Clear Transparent, 180 Gram) |
+| Format         | 2× Vinyl (Clear Transparent, 180 Gram) LP, Album |
 | Label          | Provogue |
 | Catalog Number | PRD7558 1 |
 | Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster.   Made in the EU. |

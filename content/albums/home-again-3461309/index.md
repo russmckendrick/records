@@ -57,7 +57,7 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Home_Again_(Michael_Kiwanuka_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | 2797133 |
 | Notes | ℗ & © Polydor Ltd. The Copyright in this sound recording is owned by Polydor Ltd. A Universal Music Company  Mastered at Electric Mastering - London Except A5 Mastered at 24-96 Mastering Published by Warner Chappell Art Direction at Big Active  Runouts are laser-etched, except "Guy's - ELECTRIC", which is hand-etched. |

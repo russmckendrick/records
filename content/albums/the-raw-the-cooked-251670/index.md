@@ -55,7 +55,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | London Records |
 | Catalog Number | 828 069. 1 |
 | Notes | © 1988 FFRR Records Ltd. FFRR Records Limited trading as London Records Limited. A1, A3, A4 & B1 to B3 ℗ 1988 FFRR Records Ltd. A2, A5 & B4 ℗ 1987 Touchstone Pictures B5 ℗ 1987 FFRR Records Ltd.  Publishers: A1, A3, A4, B1 to B3 & B5 - Virgin Music (Pubs.) Ltd. A2, A5 & B4 - Campbell Connelly Issued in a single sleeve and with a printed inner sleeve.  All runout data is stamped. |

@@ -79,7 +79,7 @@ The album has received critical praise from several publications over the years,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paris_1919_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Stereo, All Media Deluxe Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl LP, Stereo | 1× All Media Deluxe Edition |
 | Label          | Domino |
 | Catalog Number | REWIGLP139 |
 | Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2). Includes liner notes written by Grayson Haver Currin. Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.  Includes digital download card. |

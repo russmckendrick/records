@@ -75,7 +75,7 @@ Hesitation Marks received positive reviews from critics, with the new sound attr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hesitation_Marks |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | The Null Corporation |
 | Catalog Number | halo 28v |
 | Notes | Reissue that came out June 25th 2021 |

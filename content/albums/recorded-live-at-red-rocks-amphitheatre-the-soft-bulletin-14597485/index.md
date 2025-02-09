@@ -49,7 +49,7 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA882V |
 | Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU. |

@@ -75,7 +75,7 @@ Lead single "The Disappointed" reached number 33 in the UK and was nominated for
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nonsuch_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (200g, Gatefold) |
+| Format         | 2× Vinyl (200g, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Ape House |
 | Catalog Number | APELPX110 |
 | Notes | Recorded at Chipping Norton Studios, Oxfordshire, England, July - October 1991. Mixed at Rockfield Studios, Monmouth, South Wales, November - December 1991. This edition remastered at Loud Mastering.  Published by BMG  Front cover image from John Speed's Map of Surrey 1611.  ℗ 1992, The copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2020 Ape House Ltd. Made in the EU. |

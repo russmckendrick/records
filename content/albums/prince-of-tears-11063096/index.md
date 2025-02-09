@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASL101LP |
 | Discogs URL    | [Baxter Dury - Prince Of Tears](https://www.discogs.com/release/11063096-Baxter-Dury-Prince-Of-Tears) |

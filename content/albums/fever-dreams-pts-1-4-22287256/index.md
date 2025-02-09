@@ -78,7 +78,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Turquoise) |
+| Format         | 2× Vinyl (Turquoise) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | NVLP005T |
 | Notes | Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  500 copies were retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Obi signed by Johnny Marr.  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr. |

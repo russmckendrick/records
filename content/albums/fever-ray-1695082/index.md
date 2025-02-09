@@ -58,7 +58,7 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fever_Ray_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Rabid Records |
 | Catalog Number | RABIDT039 |
 | Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially |

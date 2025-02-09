@@ -65,7 +65,7 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Emperor_of_Sand |
-| Format         | Vinyl 2× LP Album (180 g) |
+| Format         | 2× Vinyl (180 g) LP, Album |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49140-5 |
 | Notes | 180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.  1st catalog number on spine. 2nd catalog number on side A & C labels. 3rd catalog number on runout grooves.  All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.  Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA. Mixed at Henson Recording Studios, Hollywood, CA. Mastered at Casa de Amor, Atlanta, GA.  Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.  Printed on back cover: © ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.  Printed on side A & C labels: © ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1 |

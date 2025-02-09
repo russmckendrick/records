@@ -60,7 +60,7 @@ A New Morning is the fifth studio album by English alternative rock band Suede, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_New_Morning |
-| Format         | Vinyl LP Album Reissue Stereo (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 5 |
 | Notes | On vinyl for the first time.  Supplied with download card for the full album.  Though reissued in 2014, copyright notice states '(c) 2013'. Manufactured in the EU |

@@ -61,7 +61,7 @@ Although marketed as a 1980s pop album, The Big Lad in the Windmill features an 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Lad_in_the_Windmill |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Virgin |
 | Catalog Number | V2378 |
 | Notes | With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K.  Runouts are stamped except for etched "TOWNHOUSE" |

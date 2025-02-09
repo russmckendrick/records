@@ -57,7 +57,7 @@ styles: ["Acoustic", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow Highlighter ) |
+| Format         | 1× Vinyl (Yellow Highlighter ) LP |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-154 |
 | Notes | Recorded in Sydney on Monday, 18 March 2013   |

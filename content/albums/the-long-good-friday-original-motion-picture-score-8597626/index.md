@@ -49,7 +49,7 @@ styles: ["Score", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Silva Screen |
 | Catalog Number | SILLP1489 |
 | Notes | 180 gram Black vinyl 2016 First pressing of 500 |

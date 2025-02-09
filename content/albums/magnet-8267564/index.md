@@ -52,7 +52,7 @@ The strength of a magnetic field always decreases with distance from the magneti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Magnetism |
-| Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Limited Edition Stereo (Screenprint) |
+| Format         | 1× Vinyl (Screenprint) 12", 33 ⅓ RPM, Single Sided, EP, Limited Edition, Stereo |
 | Label          | Crate Digger Records |
 | Catalog Number | CDIGG001 |
 | Notes | Limited Edition of 500 Screen printed B side  Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios Tracks 5 recorded at the New Empowering Church |

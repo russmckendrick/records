@@ -61,7 +61,7 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crowded_House_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2016 |
 | Notes | ''Hayes, Middlesex, England'' in tiny print on the backcover.  Inner sleeve with lyrics.  |

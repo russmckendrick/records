@@ -66,7 +66,7 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Tipping_Point_(Tears_for_Fears_album) |
-| Format         | Vinyl LP Album Limited Edition (Green Grass) |
+| Format         | 1× Vinyl (Green Grass) LP, Album, Limited Edition |
 | Label          | Concord Records |
 | Catalog Number | CRE01856 |
 | Notes | US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC. |

@@ -63,7 +63,7 @@ The Scots’ mastery of warm-souled alt-rock continues on their 11th album. Afte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Here_(Teenage_Fanclub_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Pema |
 | Catalog Number | PEMA009LP |
 | Notes | Includes download code coupon and a printed inner sleeve.  ℗ & © 2016 PeMa  Recorded at Vega Studio, nr Carpentras, Provence and at Raymond's place in Pollokshields, Glasgow. Mixed at Clouds Hill Recordings in Hamburg. Assistant engineers: Bertrand Montandon and Quentin Tillie at Vega, and Linda Gerdes and Sebastian Muxfeldt at Clouds Hill. Mastered by Sean Magee at Abbey Road. |

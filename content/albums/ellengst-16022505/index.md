@@ -49,7 +49,7 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Purple) |
+| Format         | 2× Vinyl (Purple) LP, Album, Limited Edition, Stereo |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 574LP |
 | Notes | Plastic Head Distribution excl. edition on purple double vinyl strictly limited to 300 copies worldwide |

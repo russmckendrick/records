@@ -64,7 +64,7 @@ Inflammable Material is the debut album by the Northern Irish punk band Stiff Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Inflammable_Material |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295448271 |
 | Notes | ℗ 1979 Sedgenote Ltd under exclusive license to Parlophone Records Ltd © 2019 Parlophone Records Ltd, A Warner Music Group Company. Made In The E.U.  First published in the U.K. by Rough Trade Records, 1979 in association with Rigid Digits  Includes printed innersleeve containing lyrics, info and credits.  Writing credits in tracklisting field are taken from innersleeve, and writing credits in credits field are taken from labels.  Track B3: -Bob Marley Music admin by Rondor Music (London) Ltd [Innersleeve]. -Bob Marley Music Ltd Admin by Rondor Music (London) Ltd [Labels].  Side B ends in locked groove.  Some copies have either stickers on the shrinkwrap or white blocks on the rear outer sleeve stating both "Made in Germany" and "Made in Czech Republic". Both label sides read "Made In the E.U. ...". |

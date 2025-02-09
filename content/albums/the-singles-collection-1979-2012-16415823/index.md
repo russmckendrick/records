@@ -87,7 +87,7 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red Transparent), Vinyl LP (Yellow Transparent), Vinyl LP (Black), Vinyl LP (Clear), All Media Compilation Reissue |
+| Format         | 1× Vinyl (Red Transparent) LP | 1× Vinyl (Yellow Transparent) LP | 1× Vinyl (Black) LP | 1× Vinyl (Clear) LP | 1× All Media Compilation, Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE875352 |
 | Notes | Gatefold sleeve with a 12x12" insert with credits. Singles Collection 1979-2012.  |

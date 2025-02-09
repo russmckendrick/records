@@ -59,7 +59,7 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo (Purple Velvet, 30th Anniversary Edition) |
+| Format         | 1× Vinyl (Purple Velvet, 30th Anniversary Edition) LP, Album, Reissue, Stereo |
 | Label          | Warner Records |
 | Catalog Number | RCV1 26314 |
 | Notes | Made in the EU. 180 gram purple vinyl. |

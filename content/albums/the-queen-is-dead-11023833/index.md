@@ -121,7 +121,7 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Queen_Is_Dead |
-| Format         | Box Set Deluxe Edition, Vinyl LP Album Remastered, Vinyl 2× LP Compilation, Vinyl 2× LP Album |
+| Format         | 1× Box Set Deluxe Edition | 1× Vinyl LP, Album, Remastered | 2× Vinyl LP, Compilation | 2× Vinyl LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0190295785628 |
 | Notes | Round silver hype sticker on shrink: '5 LP BOX SET featuring the 2017 Master of the seminal album, additional recordings and an unreleased live album, all heavyweight vinyl 0190295785628'. All three issued with gatefold sleeve and printed inner sleeves. Made in the EU. |

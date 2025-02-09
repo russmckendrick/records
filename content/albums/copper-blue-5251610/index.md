@@ -59,7 +59,7 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Copper_Blue |
-| Format         | Vinyl LP Album Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Remastered, Stereo |
 | Label          | Edsel Records |
 | Catalog Number | EDLP1001 |
 | Notes | Vinyl in printed innersleeve with download card  Sticker shrink: 140g Audiophile Reissue All recordings have been remastered for vinyl from the original tapes by FU:EL engineer Jim Wilson.  Cover back: Original sound recordings made by Granary Music, under exclusive license to the Demon Music Group Ltd. ℗ 1992 Granary Music.This reissue ℗ & © 2012 Demon Music Group Ltd. Issues under license from Granary Music. Marketed by Edsel, a division of the Demon Music Group Ltd, London, W1W 7TL. The Demon Music Group is a BBC Worldwide company. Manufactured in the EU  Runouts stamped  |

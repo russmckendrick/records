@@ -72,7 +72,7 @@ Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Figure_8_(album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Special Edition (Coke Bottle Swirl, 180 Gram) |
+| Format         | 1× Vinyl (Coke Bottle Swirl, 180 Gram) LP, Album, Limited Edition, Numbered, Special Edition |
 | Label          | Bong Load Records |
 | Catalog Number | BL48 |
 | Notes | Bong Load Records 25th anniversary reissue.  Foil stamp numbered out of 2,016. Coke Bottle Swirl vinyl. Includes 11" X 11" insert and sticker. No barcode. Record housed in a black Bong Load round bottom inner sleeve.  The Roost and The Gondola Man are not numbered on the sleeve.  Recorded and mixed [...] at Abbey Road, Capitol, Sunset Sound, and Sonora Studios.  Assistant engineers: at Sunset Sound: Geoff Walcha, Monique Mizrahi at Sonora: Richard Baron at Capitol: Dann Thompson, Steve Genewick, Charlie Paakkari, Jimmy Hoyson at Abbey Road: Paul Hicks |

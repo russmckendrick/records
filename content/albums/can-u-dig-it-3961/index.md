@@ -47,7 +47,7 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM Stereo |
+| Format         | 1× Vinyl 12", 45 RPM, Stereo |
 | Label          | RCA |
 | Catalog Number | PT 42620 |
 | Notes | (P)+(C) BMG Records UK Ltd.  On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"  Printed in England |

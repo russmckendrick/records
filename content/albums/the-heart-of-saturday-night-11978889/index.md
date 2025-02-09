@@ -64,7 +64,7 @@ The Heart of Saturday Night is the second studio album by singer and songwriter 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Heart_of_Saturday_Night |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow Opaque) |
+| Format         | 1× Vinyl (Yellow Opaque) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Anti- |
 | Catalog Number | 87566-1 |
 | Discogs URL    | [Tom Waits - The Heart Of Saturday Night](https://www.discogs.com/release/11978889-Tom-Waits-The-Heart-Of-Saturday-Night) |

@@ -69,7 +69,7 @@ But Tony M. isn’t the only vocalist to share the mic with Prince on <i>Diamond
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diamonds_and_Pearls |
-| Format         | Vinyl 2× LP Album Limited Edition Remastered Stereo (Clear, 180g) |
+| Format         | 2× Vinyl (Clear, 180g) LP, Album, Limited Edition, Remastered, Stereo |
 | Label          | NPG Records |
 | Catalog Number | 603497843817 |
 | Notes | Hype sticker on shrink-wrap: Prince's Iconic 1991 Album Remastered For The First Time Includes "Gett Off" "Cream" and "Diamonds And Pearls" Limited-Edition 180g  2-LP Clear Vinyl  Housed in foil-wrap cover with spot varnish on front/back cover and spine. Issued with records in printed inner sleeves..  Record labels show artist as "Prince And The N.P.G." and add "Original Album Remastered" before tracklist.  On cover: ℗ & © 2023, 1991 NPG Records, LLC, under exclusive license to Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A. Made in Germany. R1 25379 / 603497843817   "Made in Germany" sticker affixed on rear shrink-wrap.  In runouts, "1X", "T1", "2V" are mirrored. All is etched.  |

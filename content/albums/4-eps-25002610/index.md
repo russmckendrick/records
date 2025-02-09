@@ -84,7 +84,7 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (White) |
+| Format         | 2× Vinyl (White) LP, Compilation |
 | Label          | Wichita |
 | Catalog Number | WEBB574LP |
 | Notes | 'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp. |

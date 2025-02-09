@@ -59,7 +59,7 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Deluxe Edition Reissue Remastered (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Deluxe Edition, Reissue, Remastered |
 | Label          | Arts & Crafts International |
 | Catalog Number | AC009LPX |
 | Notes | Deluxe 20th Anniversary Edition of Stars' legendary album Set Yourself On Fire. Lovingly reimagined on 140g opaque red vinyl housed in a special die cut jacket with printed inner sleeve, 12x24" pinup poster, and a temporary tattoo featuring the iconic flame design. New liner notes written by album producer Tom McFall. Digital download includes two bonus tracks not widely available on other releases.   Limited to 3000 copies.   SIGNED versions available via Stars Patreon. |

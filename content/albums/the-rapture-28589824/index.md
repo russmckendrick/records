@@ -71,7 +71,7 @@ A double translucent turquoise vinyl of The Rapture was released in October 2023
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Rapture_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue Transparent) |
+| Format         | 2× Vinyl (Blue Transparent) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Polydor |
 | Catalog Number | SATBLP14C |
 | Notes | National Album Day 2023 2 x LP reissue pressed on transparent blue vinyl.  Disc one is transparent turquoise, disc two is a dark transparent blue. Vinyl is housed in black paper poly-lined inners and also comes supplied with additional colour replica inner sleeves.  Text/barcode label on shrink wrap reads: "140g colour vinyl mastered and cut Half-Speed at Abbey Road Studios, London."  May also have a Made in Germany sticker on rear.  ℗ 1995 Polydor Records Ltd. © 2018 Polydor Records Ltd. Made in the EU  This version is a repress of the 2LP version from 2018, [r=12935901], which was the first vinyl edition widely distributed in Europe. The first edition vinyl from 1995 was on a single disc LP and released in the USA, [r=1868575]. |

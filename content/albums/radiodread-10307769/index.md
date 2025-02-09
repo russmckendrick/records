@@ -66,7 +66,7 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radiodread |
-| Format         | Vinyl 2× LP Album Repress (Transparent gold & solid army green ) |
+| Format         | 2× Vinyl (Transparent gold & solid army green ) LP, Album, Repress |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1055V |
 | Notes | "A complete reggae version of [url=http://www.discogs.com/artist/Radiohead]Radiohead's[/url] [url=http://www.discogs.com/release/83182]OK Computer[/url]."  No samples from "[r83182]" (or anywhere else) were used in the recording of this album.  Recorded at Capture Sound (Brooklyn, NY), Mellow Stone Studios (Queens, NY), Estudio El Rocha (Sao Paulo, Brazil), Ultraband Studios (NYC), Obstacle Course Studios (Brooklyn, NY), Studio JMage (NYC), Circle House Studios (Miami, FL) & Electric Lady Studios (NYC).  Mixed at Estudio El Rocha (Sao Paulo, Brazil) except Side 2B tracks 1 & 2 Obstacle Course Studios (Brooklyn, NY) and  Side 2B tracks 3 & 4 Ariwa Studios (London, England)  Mastered for vinyl at VP Record Mastering (Queens, NY).  All songs published by Wanner Chappell Ltd. Lyrics to "Fitter Happier" adapted with permission by Radiohead.  © 2006 Easy Star Records. Manufactured and distributed by Easy Star Records. Made in the U.S.A.  |

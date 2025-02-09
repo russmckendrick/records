@@ -76,7 +76,7 @@ Belinda is the debut studio album by American singer Belinda Carlisle. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Belinda_(Belinda_Carlisle_album) |
-| Format         | All Media Deluxe Edition Limited Edition (35th Anniversary Edition), Vinyl LP Album Stereo (Pink, 180 Gram), Vinyl LP Stereo (Pink, 180 Gram) |
+| Format         | 1× All Media (35th Anniversary Edition) Deluxe Edition, Limited Edition | 1× Vinyl (Pink, 180 Gram) LP, Album, Stereo | 1× Vinyl (Pink, 180 Gram) LP, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC900X |
 | Notes | Sticker on shrinkwrap states:  "Belinda DELUXE 2LP 35TH ANNIVERSARY EDITION From 1986, Belinda's debut solo album Features the hit singles "Mad About You" and "I Feel The Magic" Bonus LP includes mixes of  "Band Of Gold recorded with Freda Payne plus five live recordings Includes the lyrics and annotation Pressed on 180 gram pink vinyl First time on vinyl since 1986 DEMREC900X"    ℗ & © 2021 Capitol Records LLC Manufactured in the EU   |

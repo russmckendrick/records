@@ -55,7 +55,7 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | B0026799-01 |
 | Notes | Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl |

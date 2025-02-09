@@ -60,7 +60,7 @@ Yeah is an album by Swedish band The Wannadies, released in 1999 in Scandinavia 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yeah_(The_Wannadies_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2304 |
 | Notes | Limited to 1000 copies on numbered pink vinyl |

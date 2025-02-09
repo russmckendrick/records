@@ -67,7 +67,7 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives_(Steve_Harley_%26_Cockney_Rebel_album) |
-| Format         | Vinyl 2× LP Album Reissue (Orange & Blue / 2020 Reissue) |
+| Format         | 2× Vinyl (Orange & Blue / 2020 Reissue) LP, Album, Reissue |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRVX1383 |
 | Notes | ℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974] |

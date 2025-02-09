@@ -70,7 +70,7 @@ In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Cauda_Venenum |
-| Format         | Vinyl 2× LP Album Picture Disc |
+| Format         | 2× Vinyl LP, Album, Picture Disc |
 | Label          | Nuclear Blast |
 | Catalog Number | NB 4557-3 |
 | Discogs URL    | [Opeth - In Cauda Venenum](https://www.discogs.com/release/14182364-Opeth-In-Cauda-Venenum) |

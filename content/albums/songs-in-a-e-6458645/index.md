@@ -59,7 +59,7 @@ styles: ["Alternative Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition, Reissue |
 | Label          | Sanctuary |
 | Catalog Number | 1768732 |
 | Discogs URL    | [Spiritualized - Songs In A&E](https://www.discogs.com/release/6458645-Spiritualized-Songs-In-AE) |

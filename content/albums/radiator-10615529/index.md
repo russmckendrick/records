@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
+| Format         | 2× Vinyl (Gatefold, 180g) LP, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT2LP98 |
 | Notes | 20th Anniversary Re-Issue Remastered From The Original Analogue Tapes.  Recorded yn Stiwdio Ofn, llanfaelog / Recordiwyd yn Stiwdio Ofn Llanfaelog except 'Chupacubras' Parr Street Studios / Heblaw 'Chupacubras' Parr Street Studios. Mixed at Parr Street Studios, Liverpool / Cymyssgwyd yn Parr Street Studios, Lerpwl.  Thanks and respect to all our friends and mentors / Diolch a chariad i'n holl gwyfellion annwyl: Dyrchafwch eich llygaid i'r mynydd eddi. (which translates as 'Raise your eyes to the mountains today').  20 pre-order copies from Pledge Music were signed.  The original release peaked at Number 8 on the U.K. album charts in 1997 (5 weeks on the chart) This reissue peaked at Number 96 on the U.K. album charts in 2017 (1 week on the chart) |

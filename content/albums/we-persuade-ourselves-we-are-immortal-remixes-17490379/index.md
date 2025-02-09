@@ -54,7 +54,7 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Repress (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Repress |
 | Label          | fsoldigital.com |
 | Catalog Number | LPTOT78 |
 | Notes | Second pressing, 180g vinyl not numbered. Cat.# LPTOT78 (back cover, above the barcode). |

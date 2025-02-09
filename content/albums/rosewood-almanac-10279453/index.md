@@ -54,7 +54,7 @@ Rosewood Almanac is the sixth studio album by American singer-songwriter Will St
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rosewood_Almanac |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA616V |
 | Notes | Includes download card and printed inner sleeve with lyrics and credits. |

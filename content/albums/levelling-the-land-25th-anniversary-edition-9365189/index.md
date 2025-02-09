@@ -115,7 +115,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Album Limited Edition, Vinyl 2× 12" 33 ⅓ RPM Album Special Edition (Blue Vinyl), CD 2× Album, DVD Album, Vinyl 7" Limited Edition |
+| Format         | 1× Box Set Album, Limited Edition | 2× Vinyl (Blue Vinyl) 12", 33 ⅓ RPM, Album, Special Edition | 2× CD Album | 1× DVD Album | 1× Vinyl 7", Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP023XX |
 | Discogs URL    | [The Levellers - Levelling The Land 25th Anniversary Edition](https://www.discogs.com/release/9365189-Levellers-Levelling-The-Land-25th-Anniversary-Edition) |

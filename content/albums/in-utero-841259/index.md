@@ -64,7 +64,7 @@ In Utero was a major critical and commercial success upon release. Critics prais
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Utero |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 424 536-1 |
 | Notes | Comes with an insert. Matte cover. Generic die-cut inner sleeve.  Mastered at Gateway Mastering, Portland, Maine.  "Gallons Of Rubbing Alcohol Flow Through The Strip" is not included in the track list - only mentioned in the credits section of the insert.  This Universal UK/Geffen release was cut from a different set of master tapes and is the Steve Albini original, unaltered mix of the album. This is confirmed by the Deluxe box set edition released many years later having those mixes as bonus tracks. Some copies of this UK pressing included a hype sticker that states "Re-release von Original-Bändern" which translates to "Re-release from original tapes."  The same stampers from this reissue are used in 2015's [r=7545132] reissue.  ℗&© 1993 Geffen Records, Inc. Universal Music (UK) Ltd. are the exclusive licencees for the UK.  All songs published by The End Of The Music/EMI Virgin Music Ltd.  Made in the EU.  From liner notes Suggested Bass and Treble positions: B: 2. T: 5. |

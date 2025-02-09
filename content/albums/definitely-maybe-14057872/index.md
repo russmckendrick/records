@@ -73,7 +73,7 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Definitely_Maybe |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70C |
 | Notes | Limited 25th Anniversary Edition on heavyweight silver vinyl. Gatefold sleeve. |

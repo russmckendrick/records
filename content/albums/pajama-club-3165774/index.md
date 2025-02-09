@@ -62,7 +62,7 @@ The album is change in style from the material Finn performs with Crowded House,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pajama_Club_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Lester Records |
 | Catalog Number | LRPJCO11LP |
 | Notes | 180 Gram vinyl release. Includes download card for digital version of the album, redeemable until 19 Sep 2013. Available separate and as a bundle with the CD version. Limited number of 250 issues came with a 12x12 inch silk screened colour print signed by all band members.  Touch Typing on The Game We Love To Play - Jordan Stone.  All songs by Neil and Sharon Finn (Kobalt Music Publishing) except tracks 1, 6, 8 by Neil and Sharon Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music). Track 10 by Neil Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music) |

@@ -65,7 +65,7 @@ Following the album's release, none of its songs were included in the concert se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/4-Way_Diablo |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1067VINYL |
 | Notes | Black vinyl edition. Gatefold cover.  © + ℗ 2022 |

@@ -72,7 +72,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | ATO Records |
 | Catalog Number | ATO0366 |
 | Notes | Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card. Some preorders came with an autographed CD size insert.  ℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.  The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016 Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.  "Pa'Lante" Written by Alynda Segarra and Pedro Peitri "Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta," audio documentary footage courtesy of third World Newsreel  "Finale" written by Alynda Segarra and Yvarume Tapia Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI) |

@@ -51,7 +51,7 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Storm_Corrosion_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange & Purple) |
+| Format         | 2× Vinyl (Orange & Purple) LP, Album, Limited Edition, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1234 |
 | Notes | Written, produced & performed at No Man's Land at various times between March 2010 - September 2011.  Cover painting 1969 Design / Keefing by Carl Glover for Aleph  Special thanks to Ylva and Björn Arnold, Stefan Dimle, Aviv Geffen, T, Milly, and the Åkerfeldt family.  Drag Ropes (live) recorded at the Royal Albert Hall, London, 28th September 2015. |

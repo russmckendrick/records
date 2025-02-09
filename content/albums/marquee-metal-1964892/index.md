@@ -59,7 +59,7 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | PolyGram TV |
 | Catalog Number | 845 417-1 |
 | Notes | Compilation of popular Rock/Metal cuts.    Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!!  |

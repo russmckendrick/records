@@ -64,7 +64,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT07 |
 | Notes | ℗ + © Beechwood Music Made in England 1989 |

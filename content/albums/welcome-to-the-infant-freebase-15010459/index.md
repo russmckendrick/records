@@ -75,7 +75,7 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Infant_Freebase |
-| Format         | Vinyl 2× LP Album Reissue (Gold ) |
+| Format         | 2× Vinyl (Gold ) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2645 |
 | Notes | Music On Vinyl THE SOUNDTRACK OF OUR LIVES ”Welcome to The Infant Freebase” Limited Edition of 1500 Gold Coloured Copies” Individually numbered Includes Insert 180 gram audiophile vinyl  Gatefold sleeve. |

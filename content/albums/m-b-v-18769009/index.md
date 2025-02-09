@@ -68,7 +68,7 @@ Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shield
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/M_b_v |
-| Format         | Vinyl LP Album Deluxe Edition Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Deluxe Edition, Reissue |
 | Label          | Domino |
 | Catalog Number | REWIGLP160X |
 | Notes | Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"   |

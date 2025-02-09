@@ -62,7 +62,7 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Devil_Hopping |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mute |
 | Catalog Number | dung 25 |
 | Notes | Recorded and mixed at Parr Street Studios, Liverpool.  Inner sleeve with lyrics & credits.  Same release as [r638225] but with other barcode and without the bonus 10".  |

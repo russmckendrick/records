@@ -129,7 +129,7 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered (Blue), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), Vinyl LP Compilation, Cassette Album (Demo) |
+| Format         | 1× Box Set Compilation | 1× Vinyl (Blue) LP, Album, Reissue, Remastered | 1× Vinyl (Orange) LP, Album, Reissue, Remastered | 1× Vinyl (Green) LP, Album, Reissue, Remastered | 1× Vinyl LP, Compilation | 1× Cassette (Demo) Album |
 | Label          | Believe |
 | Catalog Number | EMF001BLV |
 | Notes | ℗ Believe 2020. © Believe 2020.  The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324]. |

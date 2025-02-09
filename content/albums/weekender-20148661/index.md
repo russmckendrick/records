@@ -51,7 +51,7 @@ styles: ["Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weekender_(Flowered_Up_song) |
-| Format         | Vinyl 12" 33 ⅓ RPM Limited Edition Reissue Repress (Pink) |
+| Format         | 1× Vinyl (Pink) 12", 33 ⅓ RPM, Limited Edition, Reissue, Repress |
 | Label          | Heavenly |
 | Catalog Number | HVN588 |
 | Notes | Love Record Stores pink vinyl repress.  ℗ 1992 Sony Music Entertainment UK Limited. Licenced courtesy of Sony Music Entertainment UK Limited.  nb: catalogue number incorrect on the Side A runout. Stamped HNV588-A1 instead of HVN588-A1. |

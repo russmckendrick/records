@@ -84,7 +84,7 @@ At this concert, Rush played to 40,000, their second-largest crowd on the Vapor 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rush_in_Rio |
-| Format         | Vinyl 4× LP Album Reissue (180g) |
+| Format         | 4× Vinyl (180g) LP, Album, Reissue |
 | Label          | Atlantic |
 | Catalog Number | R1 83672 |
 | Notes | ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.  Packaged in a four-panel gatefold.  Sticker on shrink foil:  "Rush in Rio  180g  Never-Before-Released on Vinyl 4LP + Download Card" |

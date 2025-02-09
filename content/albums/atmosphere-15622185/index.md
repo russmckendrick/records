@@ -52,7 +52,7 @@ The single was re-released in 1988 to coincide with the release of the compilati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Atmosphere_(Joy_Division_song) |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered, Stereo |
 | Label          | Factory |
 | Catalog Number | FACUS2 |
 | Notes | For unknown reasons, and unlike the other three 2020 remasters, design-wise this reproduces neither the first ever ([url=https://www.discogs.com/de/Joy-Division-Shes-Lost-Control-Atmosphere/release/387754]August 1980, US[/url]), nor the first European ([url=https://www.discogs.com/de/Joy-Division-Atmosphere/release/29007]October 1980 ,UK[/url]) but the third, ([url=https://www.discogs.com/de/Joy-Division-Atmosphere/release/1763122]November 1980, UK[/url]) pressing |

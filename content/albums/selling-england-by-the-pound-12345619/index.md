@@ -61,7 +61,7 @@ Critics and the band members themselves have given mixed opinions of the album. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Selling_England_by_the_Pound |
-| Format         | Vinyl LP Album Reissue Remastered Repress Stereo (180 gr.) |
+| Format         | 1× Vinyl (180 gr.) LP, Album, Reissue, Remastered, Repress, Stereo |
 | Label          | Charisma |
 | Catalog Number | 00602567490456 |
 | Notes | Album includes printed insert with all lyrics and download code. ℗ 1973 Notebest Ltd  ℗ & © 2018 Made in the E.U. |

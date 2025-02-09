@@ -60,7 +60,7 @@ South of Reality is the second studio album by The Claypool Lennon Delirium cons
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/South_of_Reality |
-| Format         | Vinyl 2× LP Album (Pink) |
+| Format         | 2× Vinyl (Pink) LP, Album |
 | Label          | Prawn Song |
 | Catalog Number | ATO 0445LP |
 | Notes | Gatefold sleeve with printed credits and lyrics on the inner pages. |

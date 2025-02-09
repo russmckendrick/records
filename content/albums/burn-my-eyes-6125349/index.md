@@ -57,7 +57,7 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Burn_My_Eyes |
-| Format         | Vinyl LP Album Reissue (Gold Transparent) |
+| Format         | 1× Vinyl (Gold Transparent) LP, Album, Reissue |
 | Label          | Metal Blade Records |
 | Catalog Number | 3984-15313-1 |
 | Notes | Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc. |

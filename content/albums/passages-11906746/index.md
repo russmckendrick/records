@@ -58,7 +58,7 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Passages_(Jesus_Jones_album) |
-| Format         | Vinyl LP Album Limited Edition Misprint (Yellow Translucent) |
+| Format         | 1× Vinyl (Yellow Translucent) LP, Album, Limited Edition, Misprint |
 | Label          | Absolute |
 | Catalog Number | JJR001LP |
 | Notes | ℗ 2018 Jesus Jones Recordings © 2018 Jesus Jones Recordings  All songs copyright Mike Edwards 2018 except "Stripped" written by Mike Edwards Published by Sony/ATV Brought to you by Absolute via Universal/Sony DADC  Limited to 250 copies in a gatefold sleeve with printed inner sleeve. Misprint. Band name printed as "Jesusus Jones" on spine.   Band signed copies were available via PledgeMusic campaign. |

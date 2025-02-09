@@ -67,7 +67,7 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Golden_Age_of_Apocalypse |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF023 |
 | Notes | Includes MP3 download code via Ninja Tune A1 contains an excerpt of "For Love I Come Your Friend" by [a=George Duke], from the album "[r=5231441]" (1975)  Comes with printed inner sleeve. |

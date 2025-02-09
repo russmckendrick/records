@@ -62,7 +62,7 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Red Translucent) |
+| Format         | 2× Vinyl (Red Translucent) LP, Compilation |
 | Label          | Tamla Motown |
 | Catalog Number | 537 552-0 |
 | Notes | Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company. |

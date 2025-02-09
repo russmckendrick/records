@@ -64,7 +64,7 @@ The first single from the album, "The Worst in Us", was released on March 13, 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lovers_Rock_(The_Dears_album) |
-| Format         | Vinyl LP Album Stereo (Silver Metallic) |
+| Format         | 1× Vinyl (Silver Metallic) LP, Album, Stereo |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB211-1 |
 | Notes | Includes download card.  Certain pre-orders included an autographed print. |

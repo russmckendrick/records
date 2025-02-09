@@ -54,7 +54,7 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68537 |
 | Notes | Official UK release  Month of release from Record Collector Magazine Oct 1994 p.127  |

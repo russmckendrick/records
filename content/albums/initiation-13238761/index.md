@@ -55,7 +55,7 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Initiation_(Todd_Rundgren_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | K 55504 |
 | Notes | Lyrics printed on white board inner sleeve   Label states “Produced, Arranged & Mixed by Todd Rundgren” And then underneath “ISLAND MUSIC”  The back cover text and labels are different from the other UK 1975 release. |

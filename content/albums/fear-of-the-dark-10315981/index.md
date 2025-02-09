@@ -67,7 +67,7 @@ It was also the first album to be produced by bassist and band founder Steve Har
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_of_the_Dark_(Iron_Maiden_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295852344 |
 | Notes | 180 Gram Black Vinyl Original Album Art And High Res Audio Remasters  The remasters are the 2015 digital remasters  Recorded and Mixed at Barnyard Studios, Essex, England  Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.  This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Discs are in black inner sleeves. |

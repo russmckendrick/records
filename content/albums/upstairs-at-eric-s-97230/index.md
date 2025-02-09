@@ -61,7 +61,7 @@ Against the group's wishes, "Situation", originally the B-side of "Only You" in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Upstairs_at_Eric%27s |
-| Format         | Vinyl LP Album (Musitech Plating) |
+| Format         | 1× Vinyl (Musitech Plating) LP, Album |
 | Label          | Mute |
 | Catalog Number | STUMM 7 |
 | Notes | Recorded at Blackwing 1 & 2 Studios, London Distributed by Rough Trade & Spartan ℗ Mute Records © Sonet Publishing  Comes with a printed inner sleeve with lyrics.  This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.  There are also two versions plated at [l304945]: one [url=https://www.discogs.com/release/9605338]with[/url] "© [l266398]" printed on inner sleeve and one [url=https://www.discogs.com/release/8179227]without[/url]. |

@@ -66,7 +66,7 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Soft_Bulletin |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 530199-1 |
 | Notes | Manufactured in Germany.  The Soft Bulletin was recorded in Cassadaga, New York April 1997-February 1999  2011 Vinyl remastered by Chris Bellman at Bernie Grundman Mastering, Hollywood, CA  [r5234762] has a different Cat # on the labels than this release. |

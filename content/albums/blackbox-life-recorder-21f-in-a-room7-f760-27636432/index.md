@@ -57,7 +57,7 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blackbox_Life_Recorder_21f_/_In_a_Room7_F760 |
-| Format         | Vinyl 12" 45 RPM EP |
+| Format         | 1× Vinyl 12", 45 RPM, EP |
 | Label          | Warp Records |
 | Catalog Number | WAP480 |
 | Notes | Black vinyl pressing. Printed inner sleeve packed inside 6-panel fold-out anamorphic diorama.  Resealable bag includes barcode sticker and sticker with track titles and credits.  Side breaks on sticker exhibited as Side A and Side AA.  Both sides of variant 2 has mirrored. Side A has 2= (mirrored) and Side AA has 1I (mirrored). |

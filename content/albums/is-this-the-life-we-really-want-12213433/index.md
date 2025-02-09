@@ -66,7 +66,7 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Green) |
+| Format         | 2× Vinyl (Green) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Columbia |
 | Catalog Number | C-192609 |
 | Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.  All variants show etched runouts except: A, B, C & D sides on variant 1: "MPO 18 30966", "MPO 18 30654", "MPO 18 28730" and "MPO 18 31545" are stamped; A, B, C & D sides on variant 2: "MPO 18 30964", "MPO 18 30574", "MPO 18 30664" and "MPO 18 28258" are stamped; A, B, C & D sides on variant 3: "MPO® 18 30363", "MPO® 18 28425", "MPO® 18 28670" and "MPO® 18 31634" are stamped. Variant 3 shows also C2=C² and D2=D². |

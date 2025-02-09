@@ -66,7 +66,7 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Was_Beautiful,_and_Nothing_Hurt_(Moby_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT060LP |
 | Notes | Gatefold sleeve.  Cellophane sticker reads 'New Album. Includes The Single [m=1338452]'. Each inner sleeve has lyrics for the respective songs printed on both sides.  All songs published by Songs Of Kobalt Music Publishing except A2 published by Songs Of Kobalt Music Publishing and Copyright Control. All songs mixed by Steve 'Dub' Jones for Pieces Of 8 Music except 'Welcome To Hard Times' mixed by Moby.  ℗ 2018 Little Idiot © 2018 Little Idiot Recorded in UK & USA. |

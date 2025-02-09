@@ -70,7 +70,7 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver with Red Splatter (This Must Be The Grey)) |
+| Format         | 2× Vinyl (Silver with Red Splatter (This Must Be The Grey)) LP, Album, Limited Edition, Stereo |
 | Label          | A24 Music |
 | Catalog Number | A24M026 |
 | Notes | A tribute to Talking Head's "Stop Making Sense"  Tracks are numbered sequentially across sides   Rough Trade Exclusive Limited to 700 copies  |

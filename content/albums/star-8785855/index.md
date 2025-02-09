@@ -87,7 +87,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Remastered (White Marbled), CD Album, All Media Limited Edition Reissue |
+| Format         | 2× Vinyl (White Marbled) LP, Album, Remastered | 1× CD Album | 1× All Media Limited Edition, Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD 3002 |
 | Notes | Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM." Each LP comes in a custom inner sleeve.  LP1: Blue marbling LP2: Pink/red marbling  Tracks numbered sequentially regardless of sides.  All songs [...] recorded at: Sound Emporium Studios, Nashville All songs [...] mixed at: Sixteenth Avenue Sound, Nashville except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool  P 2016 4AD Ltd, C 2016 4AD Ltd US- 134 Grand Street, New York, N.Y. 10013 UK- 17-19 Alma Road, London, SW18 1AA Manufactured in the E U  Labels: P & C 1993 4AD, manufactured in the E.U.  Track durations not listed on release. |

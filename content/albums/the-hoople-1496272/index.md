@@ -59,7 +59,7 @@ The album's cover features a stylised portrait of Kari-Ann Moller (with the band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Hoople |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | 69062 |
 | Notes | Original UK release in matte cover on orange CBS labels with light blue thick paper lyrics sheet. First cat.# on cover, 2nd on labels.  Some copies were issued with a round golden sticker reading: INCLUDING: ROLL AWAY THE STONE and GOLDEN AGE OF ROCK 'N' ROLL  [a=Ariel Bender] appears by courtesy of [l=Island Records Ltd.]  Recorded at Advision Studios, London W.1. January 1974. Re-mixed and dubbed at AIR (London) Studios 2 and 3 February 1974. B5 recorded at AIR (London) Studios No. 2 by Alan "Madswitcher" Harris, May/June 1973  Equipment by Ritchie, Phil, and Eddie. Model: Kari-Ann.  [a=Lynsey De Paul] appeared courtesy of [url=http://www.discogs.com/label/3342020]MAM Records[/url] and the Triumph Motor Co. Ltd. [url=http://www.discogs.com/artist/340639]Barry[/url], [url=http://www.discogs.com/artist/452258]Sue and Sunny[/url] appeared with [url=http://www.discogs.com/artist/285528]Howie[/url], Johnny and Alec [a412016] appeared to be in [url=http://www.discogs.com/artist/261941]Bad Company[/url]  A1 to B4 published by April Music / H & H Music. B5 Published by Island Music Shorepak by Shorewood Packaging Co. Ltd. England ℗ 1974 CBS Inc. B5 ℗ 1973. Made in England.  Runouts are stamped. |

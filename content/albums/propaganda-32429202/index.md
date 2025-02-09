@@ -56,7 +56,7 @@ Propaganda is the fourth studio album by American rock band Sparks, released on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Propaganda_(Sparks_album) |
-| Format         | Vinyl LP Album Reissue Stereo (Maelstrom Blue) |
+| Format         | 1× Vinyl (Maelstrom Blue) LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1270 |
 | Notes | 50th Anniversary Edition ℗ 1974 Universal Music Operations Limited © 1974, 2024 Universal Music Operations Limited Manufactured in the E.U. Printed inner sleeve with lyrics and credits.  |

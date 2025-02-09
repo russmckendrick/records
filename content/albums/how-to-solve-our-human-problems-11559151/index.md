@@ -87,7 +87,7 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/How_to_Solve_Our_Human_Problems |
-| Format         | Box Set Compilation Limited Edition, Vinyl 12" EP, Vinyl 12" EP, Vinyl 12" EP |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl 12", EP | 1× Vinyl 12", EP | 1× Vinyl 12", EP |
 | Label          | Matador |
 | Catalog Number | OLE-1123-1 |
 | Notes | The catalog number OLE-1123-1 only appears on the sticker on the shrink wrap. The catalog number OLE-xxxxxxxx appears on the rear of the box. The other 3 catalog numbers appear on the sleeves of the EPs; OLE-1194-1 on part 1, OLE-1195-1 on part 2 and OLE-1196-1 on part 3.  ℗ 2017 Matador Records. © 2017 Matador Records.  Copies sold by [l993033] in Glasgow, Scotland came with a signed postcard set. There are 100 copies of the postcards split between the vinyl boxed set and CD versions. The ratio in which they were divided up is not known.  Comes with an exclusive poster and 3 download codes; one for each EP. The centre labels of part 2 are on the wrong sides of the disc. |

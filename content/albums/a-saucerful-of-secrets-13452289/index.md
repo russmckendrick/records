@@ -57,7 +57,7 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Saucerful_of_Secrets |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Record Store Day, Limited Edition, Reissue, Remastered, Mono |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP29 |
 | Notes | Reproduction of original sleeve. Limited edition of 6500 copies.  Made and Printed in the EU for Record Store Day 2019.  Boxed on back sleeve: Registered Trade Mark of Sony Music Entertainment |

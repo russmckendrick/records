@@ -58,7 +58,7 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/90125 |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition, Picture Disc, Reissue, Remastered |
 | Label          | Atlantic Recording Corporation |
 | Catalog Number | R1 90125 |
 | Notes | Record Store Day 2017 Release  Sticker on front:  "LIMITED EDITION OF 5000 For the first time ever as a picture disc  featuring the hit "Owner Of a Lonely Heart"  Taken from the 2014 HD Remasters" |

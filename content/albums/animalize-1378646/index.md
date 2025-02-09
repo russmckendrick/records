@@ -58,7 +58,7 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Animalize |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Vertigo |
 | Catalog Number | VERL 18 |
 | Notes | VERL 18 appears on spine, back cover, inner sleeve and labels 822 415-1 appears on labels 822 495-1 appears on back cover  |

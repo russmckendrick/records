@@ -61,7 +61,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album, CD Album |
+| Format         | 2× Vinyl LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 423 |
 | Notes | 180g vinyl in gatefold sleeve. Printed Inner Sleeve w/lyrics  www.insideoutmusic.com FACTOR Canada  © 2015 HevyDevy Records and ℗ 2014 HevyDevy Records.  Made in Germany - Century Media Records Ltd. /85-87 Bayham Street / Camden / London NW1 0AG / England  We Acknowledge the financial support of the Government of Canada through the Department of Canadian Heritage (Canada Music Fund) and of Canada's Private Radio Broadcaster's |

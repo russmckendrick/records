@@ -56,7 +56,7 @@ The Georgia Satellites resurfaced in 1993 and have since continued to perform li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Georgia_Satellites |
-| Format         | Vinyl LP Album Stereo (Gray Labels) |
+| Format         | 1× Vinyl (Gray Labels) LP, Album, Stereo |
 | Label          | Elektra |
 | Catalog Number | 960 496-1 |
 | Notes | Gray labels with different label logo.  Runouts: 'R / S Alsdorf 960496-1-A' and 'R / S Alsdorf 960496-1-B' are stamped, the rest is etched. |

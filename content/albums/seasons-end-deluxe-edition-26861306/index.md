@@ -70,7 +70,7 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (2023 Remix), Vinyl 3× LP, All Media Deluxe Edition Limited Edition |
+| Format         | 2× Vinyl (2023 Remix) LP, Album, Reissue | 3× Vinyl LP | 1× All Media Deluxe Edition, Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 5054197381768 |
 | Notes | First 4000 orders across all formats at Marillion's online store include a hand signed A4 artwork print.  |

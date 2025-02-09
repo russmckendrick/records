@@ -57,7 +57,7 @@ The cover art work features the launch phase of a UGM-84 Harpoon submarine missi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Just_Supposin%27 |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723773 |
 | Discogs URL    | [Status Quo - Just Supposin'...](https://www.discogs.com/release/7581302-Status-Quo-Just-Supposin) |

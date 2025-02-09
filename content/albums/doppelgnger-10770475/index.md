@@ -50,7 +50,7 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |
 | Notes | 25th Anniversary Edition Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |

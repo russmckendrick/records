@@ -90,7 +90,7 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | All Media Compilation, Vinyl LP Album Compilation Reissue Stereo, Vinyl LP Album Compilation Reissue Stereo |
+| Format         | 1× All Media Compilation | 1× Vinyl LP, Album, Compilation, Reissue, Stereo | 1× Vinyl LP, Album, Compilation, Reissue, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 00602508802102 |
 | Notes | Made in the EU.  Gatefold sleeve including 4-page booklet  |

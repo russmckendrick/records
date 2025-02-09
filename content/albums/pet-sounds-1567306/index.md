@@ -63,7 +63,7 @@ Pet Sounds revolutionized music production and the role of professional record p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pet_Sounds |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ST 2458 |
 | Notes | 1st UK stereo press. Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock  Garrod & Lofthouse: Patents Pending ''flipback'' sleeve.  "Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo   Compared to this edition, the late 60's reissue [r12655444]  has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.   Also released in mono (# T 2458).  |

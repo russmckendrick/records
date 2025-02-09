@@ -58,7 +58,7 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kubrick_(album) |
-| Format         | Vinyl LP Album, CD Album |
+| Format         | 1× Vinyl LP, Album | 1× CD Album |
 | Label          | [PIAS] |
 | Catalog Number | COOP006LP |
 | Notes | ℗ 2015, © 2015 San Quentin. The copyright in this sound recording is owned by San Quentin, and is exclusively licensed to [PIAS]. Made in the E.U.  Track B2 / CD-6 'Hal' is a re-recorded version of [url=https://www.discogs.com/The-Soulsavers-Closer-EP/master/121758]Closer[/url]. |

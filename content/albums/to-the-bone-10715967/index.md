@@ -66,7 +66,7 @@ On his fifth solo record, the prolific Steven Wilson builds a monumentally lush 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_the_Bone_(Steven_Wilson_album) |
-| Format         | Vinyl 2× LP 45 RPM Album |
+| Format         | 2× Vinyl LP, 45 RPM, Album |
 | Label          | Caroline International |
 | Catalog Number | CAROL016LP |
 | Notes | Gatefold sleeve with plain white lined inner sleeves and additional printed inner sleeves with artwork, lyrics and credits.  Various retailers offered retailer-specific add-ons, such as limited artwork prints:  JPC.de exclusively offered a limited edition of 600 copies of a 12"x12" art print.  Burning Shed exclusively offered a numbered 11"x11" art print, limited to 1000 copies, exclusively sold on their online store.  Includes download code.  Recorded at Strangeways, London between December 2016 - February 2017. Some elements retained from demos recorded at No Man's Land between November 2015 - August 2016 Strings and choir produced at Angel Studio, London. Sophie's vocals recorded at Studio du Flon, Lausanne Mastered at Metropolis Management: [...] at Vector Management Booking: Neil Warnock at United Talent Agency, and Steve Martin at APA  ℗ & © 2017 Steven Wilson Productions Ltd. (on sleeve) ℗ + © 2017 Steven Wilson Productions (on labels)  Made in the EU. |

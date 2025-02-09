@@ -60,7 +60,7 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nixon_(album) |
-| Format         | Vinyl LP Album Reissue (180gram) |
+| Format         | 1× Vinyl (180gram) LP, Album, Reissue |
 | Label          | City Slang |
 | Catalog Number | SLANG50044LP |
 | Notes | Comes with lyrics insert and download card for a one-off mp3 download of the album.   |

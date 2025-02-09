@@ -67,7 +67,7 @@ An expanded and remastered edition was released in 2024 to mark its 20th anniver
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lifeblood_(album) |
-| Format         | Vinyl 2× 12" 45 RPM Album Limited Edition Reissue Remastered (Red [Blood]) |
+| Format         | 2× Vinyl (Red [Blood]) 12", 45 RPM, Album, Limited Edition, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19658843891 |
 | Notes | 20th anniversary edition. Some copies came with an autographed 12" square print (exclusive to Manic Street Preachers webstore).  Gatefold sleeve with a light gloss finish. Artist and title to the front are in debossed silver foil block detail. Picture inner sleeves of top opening paper. Full sized twenty page staple bound booklet. These components differ from those in the first edition where each had a high gloss finish and were of card.  Picture labels. Translucent vinyl. Hype sticker applied to the shrink-wrap.  Cat# on sleeve (rear, spine), center labels, inner sleeves, booklet and hype sticker.  Runouts etched, except for stamped internal Pallas pressing plant # -61996- and -61997- (subsequent etched "I" is in fact "Ⅰ").  Made in the EU.  ℗&© 2024 Sony Music Entertainment UK Limited |

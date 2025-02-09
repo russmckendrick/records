@@ -108,7 +108,7 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Album Reissue Remastered Mono (180 Gram ), Vinyl LP Compilation Reissue Remastered Mono (180 Gram ), Vinyl 7" 45 RPM Single Mono |
+| Format         | 1× Box Set Compilation | 1× Vinyl (180 Gram ) LP, Album, Reissue, Remastered, Mono | 1× Vinyl (180 Gram ) LP, Album, Reissue, Remastered, Mono | 1× Vinyl (180 Gram ) LP, Album, Reissue, Remastered, Mono | 1× Vinyl (180 Gram ) LP, Album, Reissue, Remastered, Mono | 1× Vinyl (180 Gram ) LP, Album, Reissue, Remastered, Mono | 1× Vinyl (180 Gram ) LP, Compilation, Reissue, Remastered, Mono | 1× Vinyl 7", 45 RPM, Single, Mono |
 | Label          | Atlantic |
 | Catalog Number | 0081227946401 |
 | Notes | Comes in a clothbound box.  Includes:  - Original studio albums in glossy tip-on LP sleeves, replicating the original artwork and labels.  - One LP of outtakes. - A replica of the original "My Favorite Things Part I & II" 7" single. - A 12" x 12" 32-page booklet with liner notes by Ashley Kahn. |

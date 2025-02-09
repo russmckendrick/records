@@ -70,7 +70,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Compilation |
 | Label          | Universal Music Group International |
 | Catalog Number | 0600753629734 |
 | Notes | Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |

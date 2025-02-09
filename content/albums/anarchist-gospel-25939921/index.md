@@ -71,7 +71,7 @@ Anarchist Gospel is a 2023 studio album by American folk punk musician Sunny War
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Anarchist_Gospel |
-| Format         | Vinyl LP Album (Red, Black & White) |
+| Format         | 1× Vinyl (Red, Black & White) LP, Album |
 | Label          | New West Records |
 | Catalog Number | NW5702 |
 | Notes | 150g vinyl Red, Black & White Hand-poured VINYL. This version is signed by the artist & exclusive to New West Records' mail-order store. |

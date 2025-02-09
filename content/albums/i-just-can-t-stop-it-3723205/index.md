@@ -65,7 +65,7 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Just_Can%27t_Stop_It |
-| Format         | Vinyl LP Album (Jacksonville Pressing) |
+| Format         | 1× Vinyl (Jacksonville Pressing) LP, Album |
 | Label          | Sire |
 | Catalog Number | SRK 6091 |
 | Notes | Pressing variation of the original US release. "0" stamped & "JW" etched in runouts denotes a  [l314605]  Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.  Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.      |

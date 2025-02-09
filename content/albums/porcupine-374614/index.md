@@ -62,7 +62,7 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Porcupine_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Korova |
 | Catalog Number | KODE 6 |
 | Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |

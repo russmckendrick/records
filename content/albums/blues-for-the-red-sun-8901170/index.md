@@ -60,7 +60,7 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blues_for_the_Red_Sun |
-| Format         | Vinyl LP Album Repress (Dark Red Marbled) |
+| Format         | 1× Vinyl (Dark Red Marbled) LP, Album, Repress |
 | Label          | Dali Records |
 | Catalog Number | 3705-61340-1 |
 | Notes | Repress on dark red marbled vinyl.  ℗&©1992 Dali Records. Exclusively distributed by Elektra Entertainment, a division of Warner Communications, INC. in the United States and WEA International for the world excluding the United States, Australia and New Zealand. All rights reserved. Dali Records, 1740 Broadway, New York, Ny 10019 |

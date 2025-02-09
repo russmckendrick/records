@@ -72,7 +72,7 @@ Dance features the single "She's Got Claws", which reached no. 6 on the singles 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dance_(Gary_Numan_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple, Gatefold) |
+| Format         | 2× Vinyl (Purple, Gatefold) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2146 |
 | Notes | Keyboards used include Polymoog, Prophet 5, Roland JP4, CP30 and Odyssey.  Published by Numan Music USA LLC / Kobalt Music Publishing Ltd.  ℗ 1981 Beggars Banquet Records Ltd. © 2017 Beggars Banquet Records Ltd. No credits listed on release for tracks D2-5. |

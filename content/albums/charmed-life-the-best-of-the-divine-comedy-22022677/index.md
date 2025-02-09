@@ -77,7 +77,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Gold), Vinyl LP (Silver), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Gold) LP | 1× Vinyl (Silver) LP | 1× All Media Compilation, Limited Edition |
 | Label          | Divine Comedy Records Limited |
 | Catalog Number | DCRL118LPX |
 | Notes | Signed "Charmed Life" lyric sheets were available with a CD and coloured vinyl bundle from the official artist store. |

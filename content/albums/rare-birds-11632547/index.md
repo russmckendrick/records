@@ -68,7 +68,7 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rare_Birds_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA730VX |
 | Notes | Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.  First cat# on sticker, second on spine.  German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP.  |

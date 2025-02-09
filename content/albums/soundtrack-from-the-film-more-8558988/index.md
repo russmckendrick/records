@@ -60,7 +60,7 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP3 |
 | Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels). Soundtrack From The Film “More” - Pink Floyd PFRLP3 (on spine). File under Popular : Films and Shows (on back cover) ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd (on back cover)  Runouts are etched with Optimal plating symbols mirrored Variant 3 and 5: 'BG' is underlined |

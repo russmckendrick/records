@@ -60,7 +60,7 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pygmalion_(album) |
-| Format         | Vinyl LP Album Numbered Reissue Repress (Clear & Green Marbled, 180 Gram) |
+| Format         | 1× Vinyl (Clear & Green Marbled, 180 Gram) LP, Album, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP604 |
 | Notes | 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.  Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.  Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU |

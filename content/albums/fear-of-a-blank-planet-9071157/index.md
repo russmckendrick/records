@@ -63,7 +63,7 @@ The album charted in almost all European countries and entered the U.S. Billboar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_of_a_Blank_Planet |
-| Format         | Vinyl 2× LP Album Reissue (Blue Translucent) |
+| Format         | 2× Vinyl (Blue Translucent) LP, Album, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE867 |
 | Notes | Published by Hands Off It's Mine Publishing, adminstered by Universal Music Publishing Group  Written in London and Tel Aviv between Jan-July 2006 Recorded between Oct-Dec 2006 Recorded at No Man's Land, Bourne Place, New Rising, The Artillery, Nightspace, Mark Angelo, Red Room Recorders, DGM. String arrangements recorded at Angel Studio.  Issued under license from Porcupine Tree Ltd. under exclusive license to Kscope. ℗ 2007 Porcupine Tree Ltd. under exclusive license to Kscope. © 2016 Porcupine Tree Ltd. under exclusive license to Kscope. Made in Germany  180 gram audiophile translucent blue vinyl gatefold with plain black inner sleeves 2016 Re-release of the 2012 Steven Wilson remastered edition |

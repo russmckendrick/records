@@ -93,7 +93,7 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_Surrender |
-| Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
+| Format         | 2× Vinyl (Orange Translucent, 180g) LP, Limited Edition |
 | Label          | Island Records |
 | Catalog Number | 5503448 |
 | Notes | 16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |

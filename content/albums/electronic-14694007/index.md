@@ -56,7 +56,7 @@ The album was a commercial and critical success, reaching number 2 in the United
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered |
+| Format         | Vinyl LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | Fact 290 |
 | Notes | The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.   |

@@ -60,7 +60,7 @@ A breakthrough commercial success for the band, the record peaked at number 1 in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sparkle_in_the_Rain |
-| Format         | Vinyl LP Album Limited Edition Repress (Translucent Blue) |
+| Format         | 1× Vinyl (Translucent Blue) LP, Album, Limited Edition, Repress |
 | Label          | Virgin Records Ltd. |
 | Catalog Number | 00602465253252 |
 | Notes | 40th Anniversary Of 'Sparkle In The Rain' |

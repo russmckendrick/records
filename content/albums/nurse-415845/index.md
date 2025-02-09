@@ -59,7 +59,7 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nurse_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | 540 044-1 |
 | Notes | The records has a printed inner and outer sleeve.  Rear sleeve: Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.  ℗ 1992 A&M Records Ltd, London.  Side B face label: The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.  |

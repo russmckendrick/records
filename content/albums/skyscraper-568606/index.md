@@ -60,7 +60,7 @@ Skyscraper is the second full-length studio album by David Lee Roth, released du
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Skyscraper_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 671-1 |
 | Notes | Recorded at Capitol Records Studio, Smoketree Studio, SNS Studios, Stucco Blue Studio & Sunset Sound. Mixed at Conway Studios, Ocean Way Studio, Smoketree Studio & Sound Castle. Manufactured in Germany. Record Service GmbH, Alsdorf. A Warner Communication Company   (C)(P) 1988 Warner Bros. Records Inc. for the U.S. & WEA International Inc. for the world outside of the U.S.  Printed inner sleeve (lyrics and credits) The cover photographs of David Lee Roth were taken on the Northwest Face of Half Dome. The route pictured is 2.000 plus feet of solid vertical rock.  |

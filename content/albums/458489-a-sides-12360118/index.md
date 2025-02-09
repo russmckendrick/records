@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Compilation, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 111 |
 | Notes | From sticker: First Ever US Pressing White Vinyl Contains Seventeen Classic Singles From 1984-1989 AKA "The Golden Era of Fall Releases"   |

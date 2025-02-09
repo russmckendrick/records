@@ -66,7 +66,7 @@ United by Fate is the debut album by American rock band Rival Schools. The album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/United_by_Fate |
-| Format         | Vinyl LP Album Reissue (Blue Inside White) |
+| Format         | 1× Vinyl (Blue Inside White) LP, Album, Reissue |
 | Label          | Run For Cover Records (2) |
 | Catalog Number | RFC:242 |
 | Notes | Blue in White / 300 (Rough Trade Exclusive). |

@@ -71,7 +71,7 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_for_Drowning |
-| Format         | Vinyl 2× LP Album Limited Edition |
+| Format         | 2× Vinyl LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE818 |
 | Notes | Written and recorded during the period of Jan 2010 - June 2011.  Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.  Additional recording made by the musicians on location in the UK, USA and Germany.   Management for Acme Music. Artwork and design for Aleph. Exclusively administered through Universal Music Publishing Group  ℗ 2011 Steven Wilson © Steven Wilson Made in EU.  Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits. |

@@ -63,7 +63,7 @@ The album was followed up by a companion compilation, Changestwobowie, in 1981.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Changesonebowie |
-| Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
+| Format         | 1× Vinyl (Clear, 180g) LP, Compilation, Reissue |
 | Label          | Parlophone |
 | Catalog Number | COBLP 2016 |
 | Notes | Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url]. No mention of the vinyl colour on the sleeve or the sticker.  |

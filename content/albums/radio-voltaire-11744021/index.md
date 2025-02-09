@@ -64,7 +64,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 501 |
 | Notes | Gatefold sleeve |

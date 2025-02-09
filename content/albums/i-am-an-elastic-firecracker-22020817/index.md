@@ -61,7 +61,7 @@ I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the sec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Am_an_Elastic_Firecracker |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3008 |
 | Notes | Original Release ℗ 1995 Island Records, Inc. This release ℗ & © 2022 Universal Music - a division of Universal International Music B.V. Manufactured & distributed by Music On Vinyl B.V. for Universal Music - a division of Universal International Music B.V. All rights reserved. Unauthorized copying, hiring, lending, public performance & broadcasting  prohibited. Made in the Netherlands. MOVLP3008 |

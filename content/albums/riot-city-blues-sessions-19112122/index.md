@@ -72,7 +72,7 @@ After various adventures in electronica, <i>Riot City Blues</i> is Primal Scream
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red Translucent), Vinyl LP (Green Translucent), All Media Album Record Store Day Limited Edition |
+| Format         | 1× Vinyl (Red Translucent) LP | 1× Vinyl (Green Translucent) LP | 1× All Media Album, Record Store Day, Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19439873831 |
 | Notes | RSD June 2021 release.  Gatefold sleeve with two inner sleeves with images, credits, lyrics, and new sleevenotes by Bobby Gillespie.  Includes code for digital download, in 320kbps MP3 format. On the downloaded files, the last note of 'Zeppelin Blues While Thinking Of Robert Parker' is mistakenly indexed as the first note of the following track, 'The 99th Floor'.  Matrix/Runout note: All sides - number/letter strings stamped, text strings etched. |

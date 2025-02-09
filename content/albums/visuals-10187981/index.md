@@ -58,7 +58,7 @@ First single "85 Videos" was released together with a music video on 16 February
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Visuals_(album) |
-| Format         | Vinyl LP Album Stereo (Gatefold, 180g) |
+| Format         | 1× Vinyl (Gatefold, 180g) LP, Album, Stereo |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR940LP |
 | Notes | There is no data of trackduration on this release |

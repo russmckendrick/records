@@ -55,7 +55,7 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Abacab |
-| Format         | Vinyl LP Album Reissue Remastered (180g Vinyl) |
+| Format         | 1× Vinyl (180g Vinyl) LP, Album, Reissue, Remastered |
 | Label          | Warner Music Group |
 | Catalog Number | R1 188156 |
 | Discogs URL    | [Genesis - Abacab](https://www.discogs.com/release/31545247-Genesis-Abacab) |

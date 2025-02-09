@@ -62,7 +62,7 @@ English Electric Part Two is the eighth studio album by the English progressive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/English_Electric_Part_Two |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | English Electric Recordings |
 | Catalog Number | 0700613252192 |
 | Notes | Big Big Train's classic English Electric Part Two remastered for wider dynamic range and repressed in a final limited edition of 500 copies on double 180g transparent orange vinyl. Including one sided credit sheet. Gatefold sleeve    Combines all the tracks from the English Electric Part Two CD and the Make Some Noise EP. |

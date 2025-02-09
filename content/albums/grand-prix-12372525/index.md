@@ -67,7 +67,7 @@ Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grand_Prix_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 gram), Vinyl 7" 45 RPM Limited Edition |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Remastered | 1× Vinyl 7", 45 RPM, Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837051 |
 | Notes | Limited 180gm vinyl LP + 7" single. Packaged in a reproduction of the original vinyl artwork. Remastered from the original tapes at Abbey Road Studios, London under the guidance of the band. The initial run of copies preordered from the official webstore was signed by band members. |

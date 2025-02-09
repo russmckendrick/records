@@ -69,7 +69,7 @@ Greatest Hits is a compilation album by the American rock band Steely Dan, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Steely_Dan_album) |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | ABC Records |
 | Catalog Number | ABCD 616 |
 | Notes | Since this version, mastered by Steve Angel (https://www.discogs.com/artist/368590-Steve-Angel) at Trident (https://www.discogs.com/label/218698) was the one that was kept after the ABC label had become part of MCA (leading to this 3d UK version: https://www.discogs.com/release/5294065-Steely-Dan-Greatest-Hits on MCA labels) THIS version by default is then a reissue of what was the actual 1st UK issue here: https://www.discogs.com/release/27400791-Steely-Dan-Greatest-Hits-, with lacquer cut by Jack Adams(2).  Runouts are hand-etched, except the stamper identification numbers appearing on certain sides of variants 3, 4 and 5: those are a combination of 2 stamped decimals, rotated sideways compared to the rest of the string. The etched mother indicator (looking like a sideways Λ (broken A) or ∴ (3 dots in a pyramid)) as described in [l553982] is transcribed as a "<" in variant 3 and as an "A" in variant 5.    |

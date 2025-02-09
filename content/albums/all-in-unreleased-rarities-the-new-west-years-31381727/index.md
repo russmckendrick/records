@@ -72,7 +72,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered (Gold Nugget) |
+| Format         | 2× Vinyl (Gold Nugget) LP, Album, Limited Edition, Numbered |
 | Label          | New West Records |
 | Catalog Number | NW5797 |
 | Notes | 140g gold nugget color vinyl  12", 2-LP, gatefold Rigid Slipcase 52-page photobook Numbered 0001-1000 (numbered copies exceed 1000) |

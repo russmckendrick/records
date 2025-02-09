@@ -103,7 +103,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue, CD 2× Compilation Promo Reissue, All Media (30th Anniversary Edition) |
+| Format         | 2× Vinyl LP, Compilation, Reissue | 2× CD Compilation, Promo, Reissue | 1× All Media (30th Anniversary Edition) |
 | Label          | Sony Music |
 | Catalog Number | 19658708791 |
 | Notes | Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions. Vinyl discs held in top opening gloss inner sleeves of thin card. CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale". Hype sticker applied to the shrink-wrap.  Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.  The two CDs have the same tracks as the vinyl. Runouts are hand etched excepting the GZ Media data which is laser etched. |

@@ -59,7 +59,7 @@ styles: ["Instrumental", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Black & Green Split Color) |
+| Format         | 1× Vinyl (Black & Green Split Color) LP, Album |
 | Label          | Mello Music Group |
 | Catalog Number | MMG-000132-1 |
 | Discogs URL    | [Georgia Anne Muldrow - Vweto II](https://www.discogs.com/release/13787787-Georgia-Anne-Muldrow-Vweto-II) |

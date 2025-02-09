@@ -52,7 +52,7 @@ styles: ["Alternative Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Limited Edition Numbered Reissue Remastered (200 Gram) |
+| Format         | 2× Vinyl (200 Gram) LP, 45 RPM, Limited Edition, Numbered, Reissue, Remastered |
 | Label          | One Little Indian |
 | Catalog Number | TPLP55DMM |
 | Notes | Huge round sticker on front that states the following:  One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.  All original artwork used, may not represent new side splits. |

@@ -64,7 +64,7 @@ The album was preceded by the EP, Future Weather, in 2010.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slave_Ambient |
-| Format         | Vinyl 2× 12" 45 RPM Album |
+| Format         | 2× Vinyl 12", 45 RPM, Album |
 | Label          | Secretly Canadian |
 | Catalog Number | SC190 |
 | Notes | Includes a download card for a free high-quality digital version. Each record is in a printed inner sleeve.  ©&℗ 2011 Secretly Canadian  Recorded 2008-2011 at Uniform Studio (Philly), Echo Mountain (Asheville, NC), AG's joint in Philly.  All words and music by Adam Granduciel/Seaformation Music (ASCAP) except Brothers (Granduciel/Hartley/Zanghi/Bennett), Come To The City (Granduciel/Hartley), It's Your Destiny (Granduciel/Bennett)  Photography: Cover - Zaragoza, Spain, Drugs Tour, July 2009 Inside - Livingston, MT. Violators Tour, October 2009 |

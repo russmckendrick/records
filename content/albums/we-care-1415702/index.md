@@ -60,7 +60,7 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Care |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | 7243 8 40560 1 8 |
 | Notes |  Foil cover with die-cut black inner sleeves.  Made in England (on labels) Printed in UK (sticker)   |

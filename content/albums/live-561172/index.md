@@ -56,7 +56,7 @@ styles: ["Comedy", "Spoken Word"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9434 |
 | Discogs URL    | [Peter Cook & Dudley Moore - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |

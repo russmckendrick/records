@@ -56,7 +56,7 @@ styles: ["Soul", "Contemporary R&B"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Format         | 1× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 5054197187698 |
 | Notes | The Debut Album Independent Retailers Exclusive Silver Vinyl Banquet records (UK) offered personally signed copies as a limited release Made in Germany. |

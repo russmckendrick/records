@@ -76,7 +76,7 @@ styles: ["Ambient", "Berlin-School", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Deluxe Edition Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Deluxe Edition, Limited Edition |
 | Label          | Fire Records |
 | Catalog Number | FROST001LP |
 | Notes | Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.  Catalogue number appears as FROST001LP on main sleeve spine. Catalogue number appears as FROST001LPX on outer slipcover spine.  Text from sleeve:  © 2016 Lakeshore Records LLC ℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records. Under license from Lakeshore Records. A Fire Soundtracks release. |

@@ -59,7 +59,7 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Saucerful_of_Secrets |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP2 |
 | Notes | Comes with hype sticker on shrink wrap and black poly-lined generic inner sleeve. Printed image of the original flip back rear sleeve. Track durations are not listed on the release.  The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes Original UK release date: June 1968 ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made in the E.U. (on hype sticker and center labels) Made and Printed in the E.U. (on cover rear) www.pinkfloyd.com  Published for the World excluding USA & Canada: Tracks A1, A4, B1 Lupus Music Co. Ltd. Tracks A2, A3, B2, B3 Westminster Music Ltd. USA & Canada: All tracks TRO-Hampshire House Publishing Corp. |

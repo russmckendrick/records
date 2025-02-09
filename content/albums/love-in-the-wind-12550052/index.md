@@ -54,7 +54,7 @@ styles: ["Doo Wop", "Soul", "Surf"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1006 |
 | Notes | Text on the Backside of the Record: All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) /  Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.) Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY. Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY.  Assistant Engineering by JENS JUNGKURTH, JOE HARRISON. Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT. String Arrangements by TNT. Mastered by J.J. Golden. Cover Photo by W.C. SCHALDA. Sleeve Design by HOMER STEINWEISS, DANNY MILLER. Executive Producers, SUGARMAN & ROTH. Copyright 2018, DAPTONE RECORDS      |

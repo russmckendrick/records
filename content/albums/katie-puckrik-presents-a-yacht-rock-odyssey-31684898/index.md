@@ -65,7 +65,7 @@ styles: ["AOR"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo |
+| Format         | 2× Vinyl LP, Compilation, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1247 |
 | Notes | 2LP/24 Tracks Featuring a Selection of Smooth & Soulful Soft Rock 70s & 80s West Coast sounds by Michael McDonald, Toto, Christopher Cross, Average White Band, Bobby Caldwell, Olivia Newton-John, Robbie Dupree, Stephen Bishop & many more lush vibes |

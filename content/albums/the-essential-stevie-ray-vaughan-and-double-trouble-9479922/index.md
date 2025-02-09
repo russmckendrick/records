@@ -66,7 +66,7 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Essential_Stevie_Ray_Vaughan_and_Double_Trouble |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Epic |
 | Catalog Number | 88985357751 |
 | Discogs URL    | [Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble](https://www.discogs.com/release/9479922-Stevie-Ray-Vaughan-And-Double-Trouble-The-Essential-Stevie-Ray-Vaughan-And-Double-Trouble) |

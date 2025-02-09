@@ -60,7 +60,7 @@ Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Special_(Jimmy_Cliff_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | CX 85878 |
 | Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording |

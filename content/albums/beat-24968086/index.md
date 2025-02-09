@@ -68,7 +68,7 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Beat_(King_Crimson_album) |
-| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP9 |
 | Notes | Sticker: KCLLP9 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by Steven Wilson and Robert Fripp. 6 33367 79461 1  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Comes with a blue single page lyric insert and with a branded inner sleeve. All runouts etched  The color of the inner side of the cover is pink. |

@@ -63,7 +63,7 @@ Lost Themes is the debut studio album by American film director and composer Joh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes |
-| Format         | Vinyl LP Album Limited Edition Reissue (Green & White Haze) |
+| Format         | 1× Vinyl (Green & White Haze) LP, Album, Limited Edition, Reissue |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR123 |
 | Notes | © 2014 Sacred Bones Records ℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music  "Obsidian Green" vinyl pressing  Limited to 500 copies worldwide  Comes in a gatefold sleeve with liner notes insert and download code.  NO catalog number on the cover |

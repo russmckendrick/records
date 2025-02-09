@@ -67,7 +67,7 @@ The front cover features a composite image of all the band members' faces. Pleas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pleased_to_Meet_You_(James_album) |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Mercury |
 | Catalog Number | 5712915 |
 | Notes | 2017 EU  |

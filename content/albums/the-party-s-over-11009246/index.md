@@ -58,7 +58,7 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Party%27s_Over_(Talk_Talk_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295792626 |
 | Notes | Textured outer sleeve.    |

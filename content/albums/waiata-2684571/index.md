@@ -57,7 +57,7 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Waiata_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64848 |
 | Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England. |

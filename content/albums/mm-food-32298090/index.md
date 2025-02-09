@@ -62,7 +62,7 @@ Metal Fingers flexes his producer skills, too, packing the album’s midsection 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mm..Food |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange Crush) |
+| Format         | 2× Vinyl (Orange Crush) LP, Album, Limited Edition, Reissue |
 | Label          | Rhymesayers Entertainment |
 | Catalog Number | RSE400LPC4 |
 | Notes | Rough Trade exclusive version on orange crush vinyl - limited to 3000 copies.  ℗© 2004/2024 Rhymesayers Entertainment, LLC  "Made in Czech Republic" sticker on foil backside  20th Anniversary Edition with new artwork Tip-on gatefold |

@@ -53,7 +53,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | RareNoise Records |
 | Catalog Number | RNR075LP |
 | Discogs URL    | [O.R.k. - Soul Of An Octopus](https://www.discogs.com/release/9935372-ORk-Soul-Of-An-Octopus) |

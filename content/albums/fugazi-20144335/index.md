@@ -91,7 +91,7 @@ The album is titled after a military slang term well known at the time of releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fugazi_(album) |
-| Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo (remixed), Vinyl 3× LP Stereo |
+| Format         | 1× Box Set Deluxe Edition, Limited Edition | 1× Vinyl (remixed) LP, Album, Reissue, Stereo | 3× Vinyl LP, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295016463 |
 | Notes | Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website. Signed by Fish when pre-ordered at Fish webshop  Ⓟ 2021 this compilation Parlophone Records Ltd.  Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany  |

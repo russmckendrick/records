@@ -53,7 +53,7 @@ The deluxe edition adds four live versions of tracks. The Target Exclusive versi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Windy_City_(album) |
-| Format         | Vinyl LP Album (180g) |
+| Format         | 1× Vinyl (180g) LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | 00602557037500 |
 | Notes | Gatefold.  Includes free album download card |

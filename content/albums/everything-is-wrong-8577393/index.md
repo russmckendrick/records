@@ -61,7 +61,7 @@ Everything Is Wrong is the third studio album by American electronica musician M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Wrong_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | STUMM130 |
 | Notes | If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included. |

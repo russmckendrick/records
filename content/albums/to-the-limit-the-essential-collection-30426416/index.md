@@ -123,7 +123,7 @@ styles: ["Country Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 6× LP Compilation (180g) |
+| Format         | 6× Vinyl (180g) LP, Compilation |
 | Label          | Warner |
 | Catalog Number | R1 725999 |
 | Discogs URL    | [Eagles - To The Limit - The Essential Collection](https://www.discogs.com/release/30426416-Eagles-To-The-Limit-The-Essential-Collection) |

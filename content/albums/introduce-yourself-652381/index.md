@@ -59,7 +59,7 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Introduce_Yourself |
-| Format         | Vinyl LP Album (Allied Record Pressing) |
+| Format         | 1× Vinyl (Allied Record Pressing) LP, Album |
 | Label          | Slash |
 | Catalog Number | 25559-1 |
 | Notes | This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area. Runout etched except "a kdisc" which is stamped. |

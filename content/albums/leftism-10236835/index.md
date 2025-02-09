@@ -68,7 +68,7 @@ On its release, the album was well received from the British press with positive
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Leftism_(album) |
-| Format         | Vinyl 3× LP Album Reissue Remastered Special Edition (180 g) |
+| Format         | 3× Vinyl (180 g) LP, Album, Reissue, Remastered, Special Edition |
 | Label          | Columbia |
 | Catalog Number | 88985388501 |
 | Notes | Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"  First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back.  |

@@ -63,7 +63,7 @@ Aretha's Greatest Hits is the third compilation album by American singer Aretha 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aretha%27s_Greatest_Hits |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Atlantic |
 | Catalog Number | 081227943516 |
 | Discogs URL    | [Aretha Franklin - Aretha's Greatest Hits](https://www.discogs.com/release/9007937-Aretha-Franklin-Arethas-Greatest-Hits) |

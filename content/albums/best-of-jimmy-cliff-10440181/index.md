@@ -53,7 +53,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Island Records |
 | Catalog Number | B0026395-01 |
 | Discogs URL    | [Jimmy Cliff - Best Of Jimmy Cliff](https://www.discogs.com/release/10440181-Jimmy-Cliff-Best-Of-Jimmy-Cliff) |

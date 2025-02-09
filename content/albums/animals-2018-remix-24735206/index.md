@@ -98,7 +98,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo, CD Album Reissue Stereo, Blu-ray Album Reissue Remastered Stereo Multichannel, DVD DVD-Video Multichannel Album Reissue Remastered Stereo |
+| Format         | 1× Box Set Deluxe Edition, Limited Edition | 1× Vinyl LP, Album, Reissue, Stereo | 1× CD Album, Reissue, Stereo | 1× Blu-ray Album, Reissue, Remastered, Stereo, Multichannel | 1× DVD DVD-Video, Multichannel, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR28D |
 | Notes | Original UK release date: January 1977.  Box set with 32-page book. Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front  Blu-Ray Audio Mixes: 2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA  DVD Audio Mixes: 2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM) 2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps. 1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)  Made in The Netherlands on back of box. CD made in Germany Blu-ray and DVD made in Japan  The [l2831498] logo in a matrix indicates Blu-ray production technology licensed through One-Blue.  |

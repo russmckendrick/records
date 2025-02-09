@@ -60,7 +60,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (White Vinyl) |
+| Format         | 1× Vinyl (White Vinyl) LP, Album, Limited Edition |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1706-1 |
 | Notes | Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.  Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.  Includes Download Card |

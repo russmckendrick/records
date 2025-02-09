@@ -57,7 +57,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | 100% Records (2) |
 | Catalog Number | 100LP66 |
 | Notes | Issued in a die-cut sleeve. |

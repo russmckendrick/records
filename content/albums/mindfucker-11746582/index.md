@@ -60,7 +60,7 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Yellow Opaque) LP | 1× Vinyl (Yellow Opaque) LP, Single Sided, Etched | 1× All Media Album, Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 757 VINYL |
 | Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies. |

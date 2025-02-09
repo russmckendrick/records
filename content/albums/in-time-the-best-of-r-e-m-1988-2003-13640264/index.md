@@ -70,7 +70,7 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue (Blue Translucent) |
+| Format         | 2× Vinyl (Blue Translucent) LP, Compilation, Reissue |
 | Label          | Craft Recordings |
 | Catalog Number | 00888072095274 |
 | Notes | 180g  Gatefold sleeve.  Made in the EU.  Exclusive retailers in Germany: Media Markt & Saturn Exclusive retailers in UK: HMV & Fopp Exclusive retailer in Italy La Feltrinelli Exclusive retailer in Australia: JB Hi-Fi |

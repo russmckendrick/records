@@ -53,7 +53,7 @@ The re-released version of the album contains different versions of "Rim Shak" a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aurora_Gory_Alice |
-| Format         | Vinyl LP Album Reissue (Purple Translucent) |
+| Format         | 1× Vinyl (Purple Translucent) LP, Album, Reissue |
 | Label          | Dot Rat Records |
 | Catalog Number | DRR-101 |
 | Notes | Limited to 1000 copies  Reissue Manager: Jay Coyle: Music Geek Services jay@musicgeekservices.com Booking: Larry Webman: lwebmn@paradigmagency.com  Reissues dedicated to Steve Baker RIP  Runouts etched except Bakery is stamped |

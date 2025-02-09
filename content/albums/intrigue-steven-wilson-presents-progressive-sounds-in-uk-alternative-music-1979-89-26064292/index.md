@@ -98,7 +98,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl 7× LP Compilation (140g) |
+| Format         | 1× Box Set Compilation, Limited Edition | 7× Vinyl (140g) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX78X |
 | Notes | UK limited edition box set 7 x 140g vinyl compilation.  An exclusive signed edition includes a limited edition print (1,000 copies worldwide) signed by Steven Wilson.  58 tracks exploring the creativity, experimentation, and progressive spirit of alternative British music from 1979 to 1989  Includes a 40-page booklet with extensive liner notes by James Nice and an introduction from Steven Wilson.  This compilation ℗ & © 2023 Demon Music Group.   Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA.   The Demon Music Group is a BBC Studios company.   Made in the EU.   DEMRECBOX78X www.demonmusicgroup.co.uk  Three other versions exist: *  [url=/release/26078881]DEMRECBOX78 / 5014797908376 - (7 x 140g Black Vinyl)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url] |

@@ -68,7 +68,7 @@ Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diving_Deep_Live |
-| Format         | Vinyl 2× LP Limited Edition (Turquoise) |
+| Format         | 2× Vinyl (Turquoise) LP, Limited Edition |
 | Label          | Decca |
 | Catalog Number | 7500639 |
 | Notes | Ltd Edition Coloured Vinyl with signed artwork insert In a Gatefold sleeve Vinyl Mastered by Miles Showell at Abbey Road Studios |

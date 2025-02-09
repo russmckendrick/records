@@ -69,7 +69,7 @@ Upon release, the album received widespread acclaim from critics, reached number
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Automatic_for_the_People |
-| Format         | Vinyl LP Album Reissue Repress |
+| Format         | 1× Vinyl LP, Album, Reissue, Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-45055-1 |
 | Notes | Repress of the [url=http://www.discogs.com/release/8037481]original 1992 european edition[/url]: while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.  Comes with printed inner sleeve.  On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE  Made in Germany by WARNER MUSIC MANUFACTURING EUROPE  ©  ℗ 1992 R.E.M./ATHENS. LTD.  9362-45055-1 UK: WX488   Some copies come with a yellow sticker on the sleeve saying  "includes Drive Man On The Moon The Sidewinder Sleep Tonite & Everybody Hurts WX488 9362-45055-1" |

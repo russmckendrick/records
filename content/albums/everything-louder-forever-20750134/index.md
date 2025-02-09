@@ -106,7 +106,7 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Compilation |
+| Format         | 4× Vinyl LP, Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT522QLP |
 | Notes | 4 LPs in a big three-folded cover in amplifier-style. The sleeve front and reverse has lightly embossed silver and gold foil block detail. Four printed inner-sleeves with pictures and credits.  ℗ & © 2021 BMG Rights Management (UK) Limited Manufactured in France.  Nuclear Blast mailorder provide an exclusive DIN-A1 poster |

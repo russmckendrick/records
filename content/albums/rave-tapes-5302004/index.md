@@ -85,7 +85,7 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rave_Tapes |
-| Format         | Box Set Limited Edition, Vinyl LP Album, Vinyl 12" 45 RPM (Pink), Vinyl 7" Single Sided 45 RPM Etched, CD Album, Cassette Album (Pink) |
+| Format         | 1× Box Set Limited Edition | 1× Vinyl LP, Album | 1× Vinyl (Pink) 12", 45 RPM | 1× Vinyl 7", Single Sided, 45 RPM, Etched | 1× CD Album | 1× Cassette (Pink) Album |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT80 |
 | Notes | All photographs taken during the 'Rave Tapes' sessions in Glasgow August - October 2013    The credits for Reverend Lee Cohen only appears on the inner sleeves of the CD and vinyl and while it does not appear on the cassette, it is still pertinent across the whole release.    The box set contains:  - Heavy pressed die cut LP  - Exclusive heavy pressed 12" coloured vinyl (pink)  - Single sided heavy pressed etched 7"  - CD version of album  - limited cassette version of album  - 40 page 300mm x 300mm hardback photograph book  - 3 x exclusive high quality 12"x12" art prints featuring artwork of album cover, 12" & 7" printed on XXXgsm art card  - Printed download card for [url=http://www.discogs.com/Mogwai-Rave-Tapes/release/5315891]high quality download[/url] of all tracks contained in box    Limited edition of 4000 |

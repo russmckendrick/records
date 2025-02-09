@@ -61,7 +61,7 @@ styles: ["Alternative Rock", "Grunge"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Virgin |
 | Catalog Number | 602465608175 |
 | Discogs URL    | [The Smashing Pumpkins - Rotten Apples: Greatest Hits](https://www.discogs.com/release/31416686-The-Smashing-Pumpkins-Rotten-Apples-Greatest-Hits) |

@@ -90,7 +90,7 @@ George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “W
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Blue Transparent ) |
+| Format         | 2× Vinyl (Blue Transparent ) LP, Album |
 | Label          | Warp Records |
 | Catalog Number | WARPLP321B |
 | Notes | Made in EU  A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds. C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK] D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]  Management assistant by Eram Butt at ENDLESSLOVESHOW  250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed. |

@@ -57,7 +57,7 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (200g) |
+| Format         | 2× Vinyl (200g) LP, Album |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLPX102 |
 | Notes | Gatefold sleeve     |

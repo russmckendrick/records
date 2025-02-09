@@ -68,7 +68,7 @@ All that newfound effort paid off: Singles “Krafty” and “Jetstream” both
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Waiting_for_the_Sirens%27_Call |
-| Format         | Vinyl 2× LP Album Remastered (Gatefold, 180g) |
+| Format         | 2× Vinyl (Gatefold, 180g) LP, Album, Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 0825646071968 |
 | Discogs URL    | [New Order - Waiting For The Sirens' Call](https://www.discogs.com/release/7628502-New-Order-Waiting-For-The-Sirens-Call) |

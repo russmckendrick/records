@@ -70,7 +70,7 @@ Nearly 20 years into the band's career, The National have reached a status attai
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sleep_Well_Beast |
-| Format         | Vinyl 2× LP Album (White) |
+| Format         | 2× Vinyl (White) LP, Album |
 | Label          | 4AD |
 | Catalog Number | 4AD0020LP |
 | Notes | Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download.   Barcode sticker: 4AD0020LP MADE IN EU  ℗ & © 2017 4AD  Produced [...] at Long Pond, Hudson Valley, NY.  "Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.  All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).  Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.  Mastered [...] at Sterling Sound, New York, NY. |

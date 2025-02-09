@@ -60,7 +60,7 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Words_and_Music_by_Saint_Etienne |
-| Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
+| Format         | 1× Vinyl (White w/ Black, Yellow and Green Splatter) LP, Album, Limited Edition, Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVNLP92C |
 | Notes | Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.  Includes Download.   |

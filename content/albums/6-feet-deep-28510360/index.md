@@ -65,7 +65,7 @@ styles: ["Horrorcore"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/6_Feet_Deep |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Limited Edition, Reissue |
 | Label          | HHC Records |
 | Catalog Number | HHC 2050-LP |
 | Notes | ℗&© 2023 MNRK RECORDS LP  Limited to 2000 copies. |

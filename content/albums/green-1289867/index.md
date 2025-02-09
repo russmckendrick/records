@@ -67,7 +67,7 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_(R.E.M._album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 795-1 |
 | Notes | Recorded at Ardent Studios, Memphis, Tennessee. Mixed at Bearsville Studios, Bearsville, New York. Mastered at Masterdisk N.Y.C.  Manufactured in Germany by Record Service GmbH, Alsdorf (on center labels). Manufactured in Germany. Pressé En Allemagne: Teldec Record Service GmbH. A Warner Communications Company (on the sleeve)  Sleeve notes include lyrics to "World Leader Pretend."  The front cover has the text '4' in spot varnish twice. Many copies of this release had two stickers on the back cover. One white sticker with a barcode, various catalog numbers, a French price code, and one gray sticker with the tracklisting.  "UK: WX 234” on spine, indicating WX 234 is the UK catalog number.  Tracks are numbered sequentially across both sides. Sides are labeled "Air" and "Metal."  © 1988 R.E.M./Athens Ltd. ℗ 1988 R.E.M./Athens Ltd.  Publisher: Night Garden Music BMI  Track B11 only noted on the label.  For a Direct Metal Mastered (DMM) version also pressed at Alsdorf, please see [r=15202613]. For a mixed Alsdorf pressing with DMM on one side and BN on the other, please see [r=15174885].  Runouts: "R/S Alsdorf 925795-1-A(B)" is stamped, the remainder is etched. |

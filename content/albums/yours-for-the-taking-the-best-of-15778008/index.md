@@ -68,7 +68,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo (Blue, 180g) |
+| Format         | 2× Vinyl (Blue, 180g) LP, Compilation, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC734 |
 | Notes | 22 tracks compiled by the band.  Manufactured in the EU. |

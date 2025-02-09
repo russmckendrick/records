@@ -58,7 +58,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Clear) LP | 1× Vinyl (Clear) LP, Single Sided, Etched | 1× All Media Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SMBLP 039 |
 | Notes | Additional Recording by Ash Gardner  Side D is etched with the TTT logo |

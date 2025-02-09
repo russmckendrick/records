@@ -62,7 +62,7 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ghosts_of_West_Virginia |
-| Format         | Vinyl LP Album Limited Edition Mono (Blue & Gold West Virginia) |
+| Format         | 1× Vinyl (Blue & Gold West Virginia) LP, Album, Limited Edition, Mono |
 | Label          | New West Records |
 | Catalog Number | NW5397 |
 | Notes | Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork.  |

@@ -62,7 +62,7 @@ styles: ["Ska", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Stereo |
 | Label          | BMG |
 | Catalog Number | 538955310 |
 | Notes | Copies of this release were released with a numbered obi strip and sold by Assai Records as part of the Assai Obi Editions, in a limited edition of 300 copies. |

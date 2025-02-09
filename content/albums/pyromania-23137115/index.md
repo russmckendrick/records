@@ -58,7 +58,7 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pyromania_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Vertigo |
 | Catalog Number | 5777362 |
 | Notes | 2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios. |

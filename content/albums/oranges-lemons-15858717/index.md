@@ -67,7 +67,7 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Stereo (Gatefold, 200g) |
+| Format         | 2× Vinyl (Gatefold, 200g) LP, Album, Reissue, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELPX109 |
 | Notes | Hype sticker with barcode affixed to shrink: The 1989 classic album Newly cut from masters Approved by Andy Partridge Pressed on 200g Super-heavyweight vinyl in new gatefold sleeve  Orders from Ape House/Burning Shed come with an Oranges & Lemons postcard.  Issued in gatefold jacket with notes and lyrics inside.  Issued with identical printed poly-lined inner sleeves with beveled corners, showing XTC back catalogue on one side and more company releases on the other side.  ℗ 1989, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.  © 2020 Ape House Ltd. Made in the EU. |

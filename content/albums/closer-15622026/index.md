@@ -64,7 +64,7 @@ Today, Closer is widely recognised as a seminal release of the post-punk era. Fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closer_(Joy_Division_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress Stereo (Clear [Crystal Clear], 180 Gram) |
+| Format         | 1× Vinyl (Clear [Crystal Clear], 180 Gram) LP, Album, Limited Edition, Reissue, Remastered, Repress, Stereo |
 | Label          | Factory |
 | Catalog Number | FACT∙XXV |
 | Notes | 40th anniversary edition.  Includes a plastic lined inner sleeve as well as a printed inner sleeve.  ℗ 1980, 2015 Warner Music UK Ltd. ©2020 Warner Music UK Ltd. |

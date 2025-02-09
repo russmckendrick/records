@@ -58,7 +58,7 @@ As of July 2013, it was certified silver by British Phonographic Industry for 60
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dead_Elvis |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Stereo (Yellow, 180g) |
+| Format         | 2× Vinyl (Yellow, 180g) LP, Album, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3398 |
 | Notes | Edition of 1500 machine numbered copies. Runouts are machine stamped. Comes with a 12x12" printed insert with credits.  Tracks A1, A2, B1 to B3, C1, C2 D1 engineered and mixed at [l271912] by Tim Holmes. Track A3 engineered and mixed at [l279514] by Luke Gordon. Tracks D2 and D3 mixed and engineered by Tim Holmes at [l405030]. |

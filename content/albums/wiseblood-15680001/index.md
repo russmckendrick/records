@@ -67,7 +67,7 @@ Wiseblood is the fifth studio album by American heavy metal band Corrosion of Co
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wiseblood_(Corrosion_of_Conformity_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Stereo (Blue & Red Marbled Translucent, 180 Gram) |
+| Format         | 2× Vinyl (Blue & Red Marbled Translucent, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP753 |
 | Notes | Originally released ℗ & © 1996 Sony Music Entertainment. This release ℗ & © 2013 Sony Music Entertainment. Comes with printed inner sleeves containing lyrics and credits. 1000 copies pressed. Track B2 "Drowning In A Daydream" mixed at [l276645]. |

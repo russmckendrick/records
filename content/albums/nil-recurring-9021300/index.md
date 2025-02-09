@@ -55,7 +55,7 @@ Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nil_Recurring |
-| Format         | Vinyl 12" Mini-Album Reissue Remastered (Clear, 180g) |
+| Format         | 1× Vinyl (Clear, 180g) 12", Mini-Album, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE936 |
 | Notes | Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleeves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007   |

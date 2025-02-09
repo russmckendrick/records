@@ -57,7 +57,7 @@ Green River is the third studio album by the American rock band Creedence Clearw
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_River_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Fantasy |
 | Catalog Number | FASLP 5004 |
 | Notes | Sleeve - NOT LICENSED FOR SALE IN THE USA AND CANADA Label - RCA Ltd. are the exclusive licensees for the UK  Made in Germany · Fabriqué en Allemagne Printed in W Germany · Imprimé en Allemagne |

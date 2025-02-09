@@ -55,7 +55,7 @@ Dubber Side of the Moon is the second dub reggae tribute to the Pink Floyd album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dubber_Side_of_the_Moon |
-| Format         | Vinyl LP Album (Light Blue) |
+| Format         | 1× Vinyl (Light Blue) LP, Album |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1023V |
 | Notes | Distributed By Broken Silence |

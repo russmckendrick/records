@@ -143,7 +143,7 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yoshimi_Battles_the_Pink_Robots |
-| Format         | Vinyl LP Reissue, Vinyl 4× LP Compilation, Box Set Album Deluxe Edition (20th Anniversary) |
+| Format         | 1× Vinyl LP, Reissue | 4× Vinyl LP, Compilation | 1× Box Set (20th Anniversary) Album, Deluxe Edition |
 | Label          | Warner Records |
 | Catalog Number | 093624 873051 |
 | Notes | Left hand side opening slip-case box Includes 22-page booklet and fold-out poster.   Records in individual sleeves with plain paper inners.   On each side, initial "093624873051-A CB" string of the runout is etched, and the following "1245947 244215E1" string is stamped. |

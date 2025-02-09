@@ -53,7 +53,7 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Copper, 180 g) |
+| Format         | 1× Vinyl (Copper, 180 g) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2975 |
 | Notes | Limited Edition of 2000 individually numbered copies on copper vinyl with an embossed (copper foil finish) gatefold sleeve. |

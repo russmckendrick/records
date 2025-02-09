@@ -71,7 +71,7 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 0602547311009 |
 | Notes | Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |

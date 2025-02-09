@@ -66,7 +66,7 @@ styles: ["Hard Rock", "Glam"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dr._Feelgood_(M%C3%B6tley_Cr%C3%BCe_song) |
-| Format         | Vinyl LP Album Limited Edition Reissue (35th Anniversary, Red & White Splatter, Lenticular Art Card Cover) |
+| Format         | 1× Vinyl (35th Anniversary, Red & White Splatter, Lenticular Art Card Cover) LP, Album, Limited Edition, Reissue |
 | Label          | BMG |
 | Catalog Number | 964054581 |
 | Notes | 1st cat# from spine, labels & hype sticker 2nd cat# from rear sleeve‘s under side  on inner:  © 1989 Printed in U.S.A.  on rear sleeve: ℗ & © 2024  Sticker on shrink foil: Made in Czech Republic This Comes with a Walmart Exclusive Sticker with Catalogue Number #964047701 It maybe worldwide as I purchased my copy in HMV in the UK with Walmart Sticker.   |

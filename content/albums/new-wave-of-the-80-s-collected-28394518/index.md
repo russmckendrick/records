@@ -68,7 +68,7 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Moss Green), Vinyl LP (Turquoise), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Moss Green) LP | 1× Vinyl (Turquoise) LP | 1× All Media Compilation, Limited Edition |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3459 |
 | Notes | 180 grams |

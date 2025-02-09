@@ -68,7 +68,7 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Deeper_Understanding |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Atlantic |
 | Catalog Number | 7567-86606-2 |
 | Notes | Sold exclusively at independent record stores. Gatefold sleeve. Printed inner sleeves, download code and lyrics insert included.  Called "Coke Bottle Clear" on the sticker, it looks more like frosted clear.  Catalogue numbers: 7567-86606-2 - On spine 561934-1 - On record labels  ℗ © 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the outside of the United States. Manufactured in the E.U.  Recorded 2015-2017 at Sonora Recorders, Boulevard Recording, East West, United Recorders, Shawn's Truckstop Studio, Electric Lady, Thump Recording  Additional Recording by Nicolas Vernhes at Rare Book Room, Daniel Schlett at Strange Weather, Nick Krill at Future Past and Kawari Sound, Jeff Zeigler at Uniform Recording, Gabe Wax at Vox Studios  All words And music [...] published by Sea Formation Music (ASCAP) except 'Holding On' [...] published by Sea Formation Music (ASCAP) and Son Of Saw Publishing (BMI) |

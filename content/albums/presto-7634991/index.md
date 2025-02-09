@@ -61,7 +61,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1-83736 |
 | Notes | Issued with a printed inner sleeve with lyrics and credits. 200 gram reissue. Includes high-res 24bit/48kHz digital download card.  Recorded June-August 1989. Mixed September 1989. Preproduction work at Chalet Studio.  "Side I is much longer than Side II, therefore is not as loud. So turn it up!"  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  On labels: ℗ 1989 Atlantic Recording Corporation © 1989 Atlantic Recording Corporation and Anthem Entertainment |

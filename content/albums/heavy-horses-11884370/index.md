@@ -77,7 +77,7 @@ The album is often considered the second in a trio of folk rock albums released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heavy_Horses |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Chrysalis |
 | Catalog Number | 0190295757311 |
 | Notes | 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.  Recorded July 1977 - January 1978  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd.  Runouts etched, Optimal markings (1=) are mirrored |

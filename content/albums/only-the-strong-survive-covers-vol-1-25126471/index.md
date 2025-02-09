@@ -78,7 +78,7 @@ In terms of selection, <I>Only the Strong</I> is an interesting mix. Plenty of M
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Orange [Orbit Orange]) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (Orange [Orbit Orange]) Album, Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19658753701 |
 | Notes | Etching on 4th side. Gatefold jacket with printed inner sleeves and a 12" x 24" poster.  © & ℗ 2022 Columbia Records Made in the EU  Comes with a sticker on the front cover: "INDIE RETAIL EXCLUSIVE THE NEW ALBUM FROM BRUCE SPRINGSTEEN LIMITED EDITION ORBIT ORANGE VINYL" |

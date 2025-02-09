@@ -71,7 +71,7 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Operation:_Mindcrime |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 7714039 |
 | Notes | Made in Germany on label. On inner sleeve: ℗ 2003 Capitol Records, LLC. On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC  No reissue credits. All technical credits refer to the original release.  LP Runouts are etched. |

@@ -56,7 +56,7 @@ In the Dark is the second international album release by the reggae singing grou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Dark_(Toots_and_the_Maytals_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2325 |
 | Notes |      |

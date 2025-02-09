@@ -57,7 +57,7 @@ The critical reception of the album was generally positive, with comments such a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amplifier_(Amplifier_album) |
-| Format         | Vinyl LP Album Remastered |
+| Format         | Vinyl LP, Album, Remastered |
 | Label          | [{'name': 'Not On Label (Amplifier (3) Self-released)', 'catno': ''}] |
 | Catalog Number | none |
 | Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies. Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].  Sequential tracklist as per the cover. |

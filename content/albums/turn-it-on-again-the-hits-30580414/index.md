@@ -65,7 +65,7 @@ styles: ["Soft Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Craft Recordings |
 | Catalog Number | 603497826544 |
 | Notes | Genesis - Turn It On Again - The Hits. 25th anniversary. On vinyl for the first time Track D5 recorded at Sarm West, Sarm Hookend, Sarm Workshops, Aquarius, Crown, Fisher Lane Farm and Real world Studios. Album compiled at Fisher Lane Farm Studios.. |

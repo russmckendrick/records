@@ -68,7 +68,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Eco-mix) |
+| Format         | 2× Vinyl (Eco-mix) LP, Album |
 | Label          | Strangetown Records |
 | Catalog Number | STR062V |
 | Notes | Signed print and download information postcard included with Bandcamp copies.  In the runouts, "2|", "1|" & "2=" are mirrored. |

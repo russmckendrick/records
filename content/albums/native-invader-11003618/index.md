@@ -65,7 +65,7 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Native_Invader |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Decca |
 | Catalog Number | 00028948155880 |
 | Notes | 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.  This European-made release is the sole version on vinyl, released and available in all major territories. |

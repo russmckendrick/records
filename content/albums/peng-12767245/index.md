@@ -63,7 +63,7 @@ The album's title (a German onomatopoeia for a loud pop or bang) and cover art a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peng! |
-| Format         | Vinyl LP Album Reissue Remastered (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue, Remastered |
 | Label          | Too Pure |
 | Catalog Number | PURE11LPX |
 | Notes | Recorded - London April 1992 Re-mastered [...] @ Calyx, Berlin Published by Complete Music / Domino Publ. Co. Ltd Original sound recording made by Too Pure, London  ℗ & © 1992 Too Pure  Includes a double-sided insert with lyrics and liner notes discussing the album. |

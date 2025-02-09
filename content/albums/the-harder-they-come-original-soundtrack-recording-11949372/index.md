@@ -56,7 +56,7 @@ styles: ["Soundtrack", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Compilation, Reissue |
 | Label          | Island Records |
 | Catalog Number | 00602567073949 |
 | Notes | 180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched. |

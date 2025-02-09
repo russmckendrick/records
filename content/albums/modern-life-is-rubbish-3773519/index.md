@@ -73,7 +73,7 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Modern_Life_Is_Rubbish |
-| Format         | Vinyl 2× LP Album Reissue Remastered Special Edition (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered, Special Edition |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |
 | Notes | Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap |

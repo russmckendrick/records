@@ -59,7 +59,7 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pollen_(album) |
-| Format         | Vinyl LP Album (Clear w/ Gold Smoke [Pollen]) |
+| Format         | 1× Vinyl (Clear w/ Gold Smoke [Pollen]) LP, Album |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD008LP |
 | Notes | Comes in sleeve with foil text and printed inner.  Hype-sticker on shrink with barcode.  Lossless lacquer cut by Sterling Sound Exclusive Pollen-Colored Vinyl |

@@ -62,7 +62,7 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cosmic_Thing |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Reprise Records |
 | Catalog Number | 925 854-1 |
 | Notes | All Nile Rodgers cuts recorded digitally and mixed analog. All Don Was tracks recorded and mixed analog.  All songs published by Man Woman Together Now! BMI Administered by Irving Music except B1 published by Man Woman Together Now! Administered by Irving Music BMI (copyright control) All songs are copyright © 1989 ℗ 1989 Reprise Records for the U.S. & WEA International Inc. for the world outside of the U.S.  ℗ 1989 Reprise Records © 1989 Reprise Records Manufactured in Germany · Pressé en Allemagne TELDEC Record Service GmbH [logo] A Warner Communications Company  Polylined printed inner sleeve with lyrics, credits and band photography.  Runouts are stamped except for the last numbers and letters, which are etched. |

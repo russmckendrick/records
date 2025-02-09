@@ -60,7 +60,7 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wasp_Star_(Apple_Venus_Volume_2) |
-| Format         | Vinyl LP Album Reissue (200 gram) |
+| Format         | 1× Vinyl (200 gram) LP, Album, Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP119 |
 | Notes | lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits  |

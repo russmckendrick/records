@@ -72,7 +72,7 @@ Several songs on the album have appeared in television advertisements and on fil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scorpio_Rising_(Death_in_Vegas_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Concrete |
 | Catalog Number | HARD5312 |
 | Notes | Gatefold picture sleeve.  Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.  ℗&© 2002 BMG UK & Ireland Ltd.  All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd.   Made in the EU. |

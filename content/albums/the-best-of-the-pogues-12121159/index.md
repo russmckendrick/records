@@ -63,7 +63,7 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_The_Pogues |
-| Format         | Vinyl LP Compilation Reissue Stereo |
+| Format         | 1× Vinyl LP, Compilation, Reissue, Stereo |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 0190295672560 |
 | Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.  Runouts are etched. |

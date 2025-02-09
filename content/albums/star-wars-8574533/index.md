@@ -74,7 +74,7 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story_(soundtrack) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition, Reissue |
 | Label          | 20th Century Records |
 | Catalog Number | FMW 37/8 |
 | Notes | First and third cat# from sleeve, second from label. Issued with insert with liner notes and list of London Symphony performers.  Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.  Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.  [On labels:] ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd. Published by Fox Fanfare Music, Inc. (BMI)  Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977. Remixed at The Burbank Studios, Burbank, California |

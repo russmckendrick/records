@@ -78,7 +78,7 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Light_for_Attracting_Attention |
-| Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, Album, Limited Edition |
 | Label          | XL Recordings |
 | Catalog Number | XL1196LPE |
 | Notes | Optimal pressing.  Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard. Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front. Includes matte finish printed inner sleeves. Undersized picture labels. Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.  Tracks are numbered sequentially across sides in the inner gatefold.  Front sticker: Debut album from new group The Smile Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner Limited edition yellow vinyl  Recorded at Wack Formula London Mastered [...] at Gateway Mastering, Portland, Maine Strings [...] recorded at Air Edel Studio  Woodblock lettering from a collection held by The Bodleian Library, Oxford Digital fonts by Andrew Leman at HPLHS.org  ℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. ©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. Published by Warner Chappell Music, Kobalt Music and Copyright Control. |

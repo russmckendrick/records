@@ -54,7 +54,7 @@ styles: ["Contemporary Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album, CD Album |
+| Format         | 1× Vinyl LP, Album | 1× CD Album |
 | Label          | Hubro |
 | Catalog Number | HUBROLP3587 |
 | Notes | Recorded at Hljoðriti, Hafnarfjörður, Iceland, January 2015 and at Kennel Collective, Oslo, January 2017. Mixed at Amper Tone, Oslo, March 2017. Mastered at Tinnitus Mastering, Oslo, October 2017. (p) & (c) Grappa Musikkforlag AS 2018 |

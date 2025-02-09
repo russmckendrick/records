@@ -66,7 +66,7 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Licensed_to_Ill |
-| Format         | Vinyl LP Album Reissue (180 Gram, Gatefold, 30th Anniversary Edition) |
+| Format         | 1× Vinyl (180 Gram, Gatefold, 30th Anniversary Edition) LP, Album, Reissue |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06025 478 207-5 (4) |
 | Notes | 30th anniversary reissue  Catalog numbers: 06025 478 207-5 (4) on the jacket spine, labels and inner sleeve  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped. |

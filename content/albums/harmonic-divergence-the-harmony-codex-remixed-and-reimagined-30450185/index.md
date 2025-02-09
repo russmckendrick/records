@@ -53,7 +53,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7RSD1 |
 | Notes | Originally produced and mixed by Steven Wilson. Additional production and performance by the artists.  Track B1 first released on [url=https://www.discogs.com/release/28425214-Steven-Wilson-The-Harmony-Codex]Harmonic Distortion[/url] (CD2 of the Harmony Codex Deluxe Edition).  Presented in a single sleeve with a printed inner sleeve. Limited to 2200 copies.  Some copies came with a "Made in Czech Republic" sticker on the back.  Made in the EU. |

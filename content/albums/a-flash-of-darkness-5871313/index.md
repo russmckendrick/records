@@ -53,7 +53,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP346 |
 | Notes | Black vinyl 12" LP.    Record in white paper sleeve + colour 12"x12" info insert.    Download card included to redeem all tracks as mp3's.   |

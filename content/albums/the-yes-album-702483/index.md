@@ -55,7 +55,7 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Yes_Album |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 40 106 |
 | Notes | First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.  Recorded at Advision Studios, London, Autumn 1970. Track A2 recorded live, Lyceum London ℗ 1971 Atlantic Records  |

@@ -72,7 +72,7 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Behind_Closed_Doors_(Thunder_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear), Vinyl LP Album Limited Edition Reissue (Red) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue | 1× Vinyl (Red) LP, Album, Limited Edition, Reissue |
 | Label          | BMG |
 | Catalog Number | BMGCAT717DLP |
 | Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital. Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.  Some copies came with a limited edition art card. |

@@ -69,7 +69,7 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 6× LP Compilation (140g, White), Box Set Limited Edition |
+| Format         | 6× Vinyl (140g, White) LP, Compilation | 1× Box Set Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX54 |
 | Notes | Contains the 4 original BBC Records LPs, plus two which are previously unissued. The original cover art is reproduced as the inner sleeve of each disc, with BBC Records branding. Also contains a large format, 4 page booklet describing the history of Fawlty Towers and its audio releases, plus a 12" signed photograph of John Cleese.  1500 copies pressed.  This set was officially deleted in August 2021.   Two piece, lift off lid box. Lilac hype sticker applied to shrink-wrap. Reproduction BBC labels. |

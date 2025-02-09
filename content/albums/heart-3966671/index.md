@@ -61,7 +61,7 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heart_(Heart_album) |
-| Format         | Vinyl LP Album Club Edition |
+| Format         | 1× Vinyl LP, Album, Club Edition |
 | Label          | Capitol Records |
 | Catalog Number | 43 600 6 |
 | Notes | 'Club Edition'  'These Dreams' is dedicated to Sharon Hess.  ℗ 1985 Capitol Records, Inc. © 1985 Capitol Records, Inc. Made in EEC. Printed in Holland ______________  Released with printed inner sleeve (taken from the regular edition with catalog number 24 0372 1). |

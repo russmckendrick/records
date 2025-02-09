@@ -64,7 +64,7 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thirteenth_Step |
-| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1114 |
 | Notes | Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V. |

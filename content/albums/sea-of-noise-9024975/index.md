@@ -55,7 +55,7 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sea_of_Noise |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | RECORDS Label, LLC |
 | Catalog Number | REC006 |
 | Notes | Pre-order included option for signed copy |

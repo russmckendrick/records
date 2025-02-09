@@ -51,7 +51,7 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
+| Format         | 1× Vinyl (Turquoise vinyl) LP, Compilation, Limited Edition |
 | Label          | Madfish |
 | Catalog Number | SMALP 1085 |
 | Notes | ℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.    |

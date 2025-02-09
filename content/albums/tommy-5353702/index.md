@@ -181,7 +181,7 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tommy_(The_Who_album) |
-| Format         | Box Set Limited Edition (Super Deluxe Edition), CD Album Reissue Remastered, CD, Blu-ray Album Stereo Multichannel, CD Album |
+| Format         | 1× Box Set (Super Deluxe Edition) Limited Edition | 1× CD Album, Reissue, Remastered | 1× CD | 1× Blu-ray Album, Stereo, Multichannel | 1× CD Album |
 | Label          | Polydor |
 | Catalog Number | 3747396 |
 | Notes | On disc four all tracks are from the Capitol Theatre, Ottawa, Ontario, Canada, 15 October 1969, except for "I'm Free", "Tommy's Holiday Camp", "We're Not Gonna Take It" and "See Me, Feel Me" which are from Swansea City Football Club, 12 June 1976. |

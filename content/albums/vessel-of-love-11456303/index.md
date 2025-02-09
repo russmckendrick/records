@@ -54,7 +54,7 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Pink Translucent) |
+| Format         | 1× Vinyl (Pink Translucent) LP, Album, Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG588 |
 | Notes | Peak Vinyl: Limited-edition translucent pink vinyl in the same packaging as the standard LP. Includes album download. |

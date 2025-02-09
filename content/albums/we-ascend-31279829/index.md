@@ -51,7 +51,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Stereo |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP, Stereo |
 | Label          | Kscope |
 | Catalog Number | 1058 |
 | Notes | Hype sticker says:  The Radicant We Ascend The Debut EP KSCOPE1058 kscopemusic.com/theradicant  Link is wrong though, URL should be https://kscopemusic.com/artists/the-radicant/  Orders placed in Artist Store were signed by Vincent Cavanagh.  |

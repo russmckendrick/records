@@ -64,7 +64,7 @@ Five different singles were released from God Fodder across different regions. U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/God_Fodder |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Furtive (2) |
 | Catalog Number | 468112 1 |
 | Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Comes with inner bag with lyrics, pictures and information.  Cat# 468112 1 appears on the spine, top left of the photo side of the insert and both labels. Cat# 468112-1 appears top right of back cover. 01-468112-20 appears bottom right of back cover. 01-468112.20 appears bottom right on the lyric side of the insert.  ℗1991 Sony Music Entertainment (UK) Ltd. ©1991 Sony Music Entertainment (UK) Ltd. |

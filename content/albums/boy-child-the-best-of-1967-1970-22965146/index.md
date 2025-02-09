@@ -64,7 +64,7 @@ styles: ["Pop Rock", "Baroque Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (White) |
+| Format         | 2× Vinyl (White) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Fontana |
 | Catalog Number | 389 083-9 |
 | Notes | RSD 2022. Gatefold cover. |

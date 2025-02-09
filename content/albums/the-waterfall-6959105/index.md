@@ -69,7 +69,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
+| Format         | 2× Vinyl LP, 45 RPM, Album | 1× CD Album |
 | Label          | ATO Records |
 | Catalog Number | ATO0276LP |
 | Notes | Gatefold jacket. Comes with a CD, and an eight-page 12"x12" book with lyrics and pictures.  ℗&© 2015 ATO Records, LLC under exclusive license to [PIAS] |

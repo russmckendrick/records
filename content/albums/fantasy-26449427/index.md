@@ -66,7 +66,7 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fantasy_(M83_album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue Marble) |
+| Format         | 2× Vinyl (Blue Marble) LP, Album, Limited Edition |
 | Label          | Other Suns |
 | Catalog Number | OS1 LP |
 | Notes | tracks listed 1-13 on sleeve  ℗ & © 2023 M83 Recording Inc. exclusively distributed by Virgin Records France excluding North America. All rights reserved. |

@@ -58,7 +58,7 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Believers_(Deacon_Blue_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0211435EMU |
 | Notes | Hype sticker on shrink reads:  "DEACON BLUE  Their brilliant new album.  Featuring 'The Believers' and 'This is a Love Song'.  THIS IS CLASSIC DEACON BLUE" .  Durations do not appear on this release.  Made in Germany. |

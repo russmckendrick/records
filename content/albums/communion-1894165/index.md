@@ -78,7 +78,7 @@ The album is the band's longest to date at twenty-four tracks. After the decisio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Communion_(The_Soundtrack_of_Our_Lives_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Haldern Pop Recordings |
 | Catalog Number | HPR-032 |
 | Notes | Two printed inner sleeves (photos) |

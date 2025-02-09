@@ -84,7 +84,7 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/3_Feet_High_and_Rising |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1-81019 |
 | Notes | Black Vinyl Track D6 Plug Tunin' (Original 12" Version) is missing even though it's listed on the inner sleeve, but not on the cover or label. |

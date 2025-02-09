@@ -58,7 +58,7 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Polydor |
 | Catalog Number | 843 469-1 |
 | Notes | With hype sticker on sleeve. Includes black and white printed inner sleeve.  ℗ 1989 Polydor Ltd. (UK) ℗ 1990 Polydor Ltd. (UK) © 1990 Polydor Ltd. (UK) |

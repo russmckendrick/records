@@ -52,7 +52,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (White) |
+| Format         | 1× Vinyl (White) LP, Album |
 | Label          | 100% Records (2) |
 | Catalog Number | 100LP138W |
 | Notes | Rough Trade exclusive, limited to 500 copies. |

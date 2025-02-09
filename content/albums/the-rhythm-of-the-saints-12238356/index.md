@@ -61,7 +61,7 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Rhythm_of_the_Saints |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26098-1 |
 | Notes | ℗ 1990 Paul Simon  Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM Runout PR-P suggests Mastered at P.R. Records Limited.   Catalogue No., Artist and Title all visible top of front cover and spine  |

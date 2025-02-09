@@ -73,7 +73,7 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gish |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Virgin |
 | Catalog Number | 5099990959615 |
 | Notes | Includes download code   [l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring.   Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.   ℗ 2011 Virgin Records America, Inc. © 2011 Virgin Records America, Inc.  |

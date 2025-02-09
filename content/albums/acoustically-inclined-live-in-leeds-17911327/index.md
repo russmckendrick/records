@@ -66,7 +66,7 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
+| Format         | 2× Vinyl (180g) LP, Album, Remastered, Stereo | 1× CD Album, Remastered | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 586 |
 | Notes | Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingdom. |

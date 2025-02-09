@@ -60,7 +60,7 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album, CD Album |
+| Format         | 1× Vinyl LP, Album | 1× CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 032 |
 | Notes | 180 gram black vinyl in gatefold cover with printed innersleeves  Comes with cd version of the album |

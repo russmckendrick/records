@@ -71,7 +71,7 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peaches:_The_Very_Best_of_The_Stranglers |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295187149 |
 | Notes | Hype Sticker on front: THE VERY BEST OF  the stranglers 2 LP SET ON VINYL FOR THE FIRST TIME 0190295187149  In the US: Limited 1,500 copies  RSD 2020 Black friday RSD First Release  In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |

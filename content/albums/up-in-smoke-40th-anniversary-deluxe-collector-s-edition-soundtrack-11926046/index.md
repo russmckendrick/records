@@ -104,7 +104,7 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album, Vinyl 7" 45 RPM Single Picture Disc Stereo Mono, CD Album, Blu-ray Multichannel, Box Set Deluxe Edition Numbered |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 7", 45 RPM, Single, Picture Disc, Stereo, Mono | 1× CD Album | 1× Blu-ray Multichannel | 1× Box Set Deluxe Edition, Numbered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 566654 |
 | Notes | Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #.  Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.  Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].  Side C is Stereo, Side D is Mono. |

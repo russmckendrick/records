@@ -54,7 +54,7 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Thirty Tigers |
 | Catalog Number | none |
 | Notes | Recorded at Echo Mountain Recording, March to October 2014.  Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).  B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.  Contains download code |

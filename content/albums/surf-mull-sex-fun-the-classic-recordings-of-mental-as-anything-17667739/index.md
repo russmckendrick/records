@@ -63,7 +63,7 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue (Red), Vinyl LP Album Compilation Reissue (White) |
+| Format         | 1× Vinyl (Red) LP, Compilation, Reissue | 1× Vinyl (White) LP, Album, Compilation, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC655 |
 | Notes | This double LP compilation is presented in a gatefold sleeve, with original artwork produced by the band. Pressed on 2x 140g and available on coloured vinyl for the first time (red and white). |

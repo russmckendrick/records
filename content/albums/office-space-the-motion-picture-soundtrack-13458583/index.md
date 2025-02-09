@@ -52,7 +52,7 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Record Store Day, Compilation, Limited Edition |
 | Label          | Interscope Records |
 | Catalog Number | B0029333-01 |
 | Notes | Stapler red, Record Store Day release limited to 2,500.  |

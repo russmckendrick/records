@@ -63,7 +63,7 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tubular_Bells |
-| Format         | Vinyl LP Album Reissue (180 Gram ), Vinyl LP Album Reissue (180 Gram), All Media Deluxe Edition Remastered Stereo (Gatefold) |
+| Format         | 1× Vinyl (180 Gram ) LP, Album, Reissue | 1× Vinyl (180 Gram) LP, Album, Reissue | 1× All Media (Gatefold) Deluxe Edition, Remastered, Stereo |
 | Label          | Virgin |
 | Catalog Number | 0600753695036 |
 | Notes | 2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.  Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi.  |

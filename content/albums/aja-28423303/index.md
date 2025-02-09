@@ -60,7 +60,7 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aja_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180gms) |
+| Format         | 1× Vinyl (Gatefold, 180gms) LP, Album, Reissue, Remastered |
 | Label          | Geffen Records |
 | Catalog Number | B0035028-01 |
 | Notes | A Geffen Records release ℗ 1977 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc. All rights reserved. umgcatalog.com B0035028-01.  The format of the runouts is as follows: Variant 1: '266344E1 1698750' and '266344E2 1688470' are stamped; everything else is etched Variant 2: '266344E1 1698750' and '266344E2 1707970' are stamped; everything else is etched Variant 3: '266344E1 1655685' and '266344E2 1684364' are stamped; everything else is etched |

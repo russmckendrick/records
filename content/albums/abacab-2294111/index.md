@@ -60,7 +60,7 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Abacab |
-| Format         | Vinyl LP Album (CORG - Cyan/Orange/Red/Green Cover) |
+| Format         | 1× Vinyl (CORG - Cyan/Orange/Red/Green Cover) LP, Album |
 | Label          | Charisma |
 | Catalog Number | CBR 102 |
 | Notes | Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release  Contains a special, picture inner sleeve  This version has a cyan, orange, red and green embossed cover  A version with a blue/grey cover is [r667424]  |

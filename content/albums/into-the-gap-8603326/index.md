@@ -59,7 +59,7 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Into_the_Gap |
-| Format         | Vinyl LP Album Reissue Remastered (Blue Translucent, 180g) |
+| Format         | 1× Vinyl (Blue Translucent, 180g) LP, Album, Reissue, Remastered |
 | Label          | Vinyl 180 |
 | Catalog Number | VIN180LP103 |
 | Notes | Recorded at Compass Point Studios, Nassau. Mixed at Rak Studios, London. Mastered at Sterling Sound, New York.  ℗ 1984 Sony Music Entertainment UK Limited under exclusive licence to BMG Rights Management.  © 2016 Vinyl 180 Issued under licence from Sony Music Entertainment UK Limited to Vinyl 180.  Made in the EU. |

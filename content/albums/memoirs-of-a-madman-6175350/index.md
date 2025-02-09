@@ -63,7 +63,7 @@ Memoirs of a Madman (French: Mémoires d'un fou) is an autobiographical text wri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Memoirs_of_a_Madman |
-| Format         | Vinyl 2× LP Compilation Remastered Stereo (Gatefold, 180 gram) |
+| Format         | 2× Vinyl (Gatefold, 180 gram) LP, Compilation, Remastered, Stereo |
 | Label          | Epic |
 | Catalog Number | 88875015611 |
 | Notes | 17 Remastered classic hits on double 180gr vinyl. Made in EU. |

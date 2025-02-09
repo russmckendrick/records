@@ -63,7 +63,7 @@ Except for when they are—like on the positively rollicking “The Eagles and t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glasgow_Eyes |
-| Format         | Vinyl LP Album Limited Edition (Black With Red, White And Blue Splatter) |
+| Format         | 1× Vinyl (Black With Red, White And Blue Splatter) LP, Album, Limited Edition |
 | Label          | Fuzz Club Records |
 | Catalog Number | FC226V12RT |
 | Notes | Rough Trade Exclusive. Limited to 500 copies |

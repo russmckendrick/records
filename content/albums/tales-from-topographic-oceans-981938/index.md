@@ -59,7 +59,7 @@ Tales from Topographic Oceans received mixed reviews upon release and became a s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tales_from_Topographic_Oceans |
-| Format         | Vinyl 2× LP Album Stereo (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | Atlantic |
 | Catalog Number | K 80001 |
 | Notes | Full colour gatefold sleeve with double page illustration, by [a1826912] across the front and rear faces of the outer sleeve.  Song titles and lyrics printed across the double page inner faces on a black background.  Recorded at Morgan Studio London during late summer and early autumn 1973.  Plates made by - Mansell Litho. Printed and made in England by Shorewood Packaging. An Atlantic Record distributed by WEA Records Ltd. © and ℗ 1973.   No Atlantic logo on labels - different from [r=6010444].  Plain polylined paper inner sleeves with text:  British Patent No. 800513 & 973939  MADE IN ENGLAND  4913 000 15801  3510 |

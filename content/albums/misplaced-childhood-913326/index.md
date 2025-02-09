@@ -61,7 +61,7 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Misplaced_Childhood |
-| Format         | Vinyl LP Album Stereo (Purple Labels) |
+| Format         | 1× Vinyl (Purple Labels) LP, Album, Stereo |
 | Label          | EMI |
 | Catalog Number | EJ 2403401 |
 | Notes | Recorded at Hansa Tonstudios, Berlin between March and May 1985.  This album is dedicated to John Mylett.  Gatefold Cover. Durations do not appear on this release.  Timings via stopwatch. |

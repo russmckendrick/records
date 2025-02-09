@@ -57,7 +57,7 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Purple) |
+| Format         | 1× Vinyl (Purple) LP, Album |
 | Label          | Invada |
 | Catalog Number | INV167LP |
 | Notes | Purple coloured vinyl in matte gatefold sleeve with glossy insert and download card. The first 100 copies ordered from the Invada website came with a 12"x12" lithograph art print signed and numbered by all members of the band. |

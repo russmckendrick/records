@@ -68,7 +68,7 @@ Lyrically, <i>Operation: Doomsday</i> is full of clever rhyme schemes and drunke
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Operation:_Doomsday |
-| Format         | Vinyl LP (Silver/Purple Swirl ), Vinyl LP (Silver/Green Swirl), All Media Album Record Store Day Reissue (Gatefold, 25th Anniversary) |
+| Format         | 1× Vinyl (Silver/Purple Swirl ) LP | 1× Vinyl (Silver/Green Swirl) LP | 1× All Media (Gatefold, 25th Anniversary) Album, Record Store Day, Reissue |
 | Label          | Metal Face Records |
 | Catalog Number | MF2503-LP |
 | Notes | Record Store Day Black Friday 2024 Exclusive.  This release is 10,000 total copies of 2 variants however it is not known how many of each were made. Reissued in Metallic Silver with Purple and Green Swirl, packaged in a gatefold jacket with the classic cover. It comes with an OBI Strip “Record Store Day Operation Doomsday 25th Anniversary”.  Other copies have been pressed in a Red and Gold Splatter variant [r32422851], packaged in a gatefold Jacket with the alternative cover from Jason Jagel, for a total of 10.000 copies.   |

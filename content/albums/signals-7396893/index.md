@@ -58,7 +58,7 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Signals_(Rush_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118264 |
 | Notes | Black label on Shrink Wrap    Back To Black    Includes a voucher to download an MP3 of the album    180g Heavyweight Vinyl      www.backtoblackvinyl.com    Rear Cover     Anthem  Mercury  UMG  DMM |

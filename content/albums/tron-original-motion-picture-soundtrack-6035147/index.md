@@ -67,7 +67,7 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Blue Translucent, 180 Gram, Gatefold) |
+| Format         | 2× Vinyl (Blue Translucent, 180 Gram, Gatefold) LP, Album, Limited Edition, Numbered, Reissue, Remastered |
 | Label          | Audio Fidelity (3) |
 | Catalog Number | AFZLP2 177 |
 | Notes | Limited to 3000 copies, some copies have a number greater than 3000.  © Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music Made in U.S.A. |

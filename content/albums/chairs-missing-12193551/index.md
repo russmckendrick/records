@@ -65,7 +65,7 @@ Although it features some of the minimalist punk rock of the band's debut Pink F
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chairs_Missing |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF12LP |
 | Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Not available on cassette  Printed inner sleeve with lyrics.  Labels read "Side One" on both sides, track listing is correct for each side however.  A similar version of [r=31405538] states "Available on cassette" and does not mention "Manufactured under licence from The state51 Conspiracy." |

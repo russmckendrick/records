@@ -62,7 +62,7 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Blue, 180g), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Blue, 180g) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 033 |
 | Notes | 180g blue vinyl + CD. Gatefold. |

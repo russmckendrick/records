@@ -48,7 +48,7 @@ S'well is a reusable water bottle and insulated products company headquartered i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/S%27well |
-| Format         | Vinyl LP Album Limited Edition (FX) |
+| Format         | 1× Vinyl (FX) LP, Album, Limited Edition |
 | Label          | Rockosmos |
 | Catalog Number | ROK151 |
 | Notes | Limited 180 FX Vinyl. Track timings not listed. |

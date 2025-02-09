@@ -59,7 +59,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Violet Translucent) |
+| Format         | 1× Vinyl (Violet Translucent) LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1160 |
 | Notes | First 150 signed by Paul Draper  Gatefold sleeve Lyric / credits inner sleeve. Kscope insert   |

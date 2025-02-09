@@ -53,7 +53,7 @@ styles: ["Soundtrack", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Stereo |
+| Format         | 1× Vinyl LP, Compilation, Stereo |
 | Label          | Atlantic |
 | Catalog Number | 781 767-1 |
 | Notes | Labels: ℗ + © 1987 Atlantic Recording Corporation for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by WEA Musik GmbH.  Sleeve: This compilation ℗ 1987 Atlantic Recording Cooperation for the United States and WEA International Inc. for the world outside the United States. © 1987 Warner Bros. Inc. Mastered at Atlantic Studios, NYC. Manufactured in Germany by Record Services GmbH, Alsdorf.  This Issue: no publishing notes on labels Another european issue: with publishing notes on labels [r18850189] |

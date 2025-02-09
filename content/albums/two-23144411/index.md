@@ -54,7 +54,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Northern Writes |
 | Catalog Number | NW009VW |
 | Notes | Hype sticker: Limited edition white vinyl.  Initial copies from Rough Trade East, London came with a signed print.  |

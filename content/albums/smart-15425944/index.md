@@ -93,7 +93,7 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smart_(Sleeper_album) |
-| Format         | Vinyl LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition (Clear) |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Compilation | 1× All Media (Clear) Limited Edition |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |
 | Notes | 25th Anniversary Edition. Includes 14 page colour booklet Made in the EU  |

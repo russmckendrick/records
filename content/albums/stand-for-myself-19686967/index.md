@@ -78,7 +78,7 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stand_for_Myself |
-| Format         | Vinyl LP Album Stereo (Purple Opaque) |
+| Format         | 1× Vinyl (Purple Opaque) LP, Album, Stereo |
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-0081 |
 | Notes | Contains a four page inlay folder with a large photo on one side and lyrics on the other side.  Publishing: [url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI) [a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing [a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI) [a5975372] – Olubukola Oladokun/Where Da Kasz (BMI) [a2976110] – Tasjan Music (ASCAP) [a347626] – Like Butta Baby Music (BMI) [a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights [a293222] – Janwood Music (SESAC) [a617010] – Doorway Music (ASCAP), administered by Kobalt [a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp. [url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights [a3223539] – Budde Publishing  |

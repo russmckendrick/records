@@ -63,7 +63,7 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Afflatus |
-| Format         | Vinyl LP Album Limited Edition (Neon Green) |
+| Format         | 1× Vinyl (Neon Green) LP, Album, Limited Edition |
 | Label          | Good Records Recordings |
 | Catalog Number | GRR104LP |
 | Notes | Limited to 1000 copies (Glow In The Dark Vinyl)  Recorded by David Wilson at The Triplex Dallas, TX March 2020 *except Mixed by Justin Cortelyou |

@@ -75,7 +75,7 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sublime_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (RTI, Gatefold) |
+| Format         | 2× Vinyl (RTI, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Gasoline Alley |
 | Catalog Number | B0024679-01 |
 | Notes | 2016 LP reissue variant  Runouts indicate that the metal parts used for this pressing were processed by Record Technology, Inc.  Records housed in thick cardstock color graphics inner's. Gatefold sleeve |

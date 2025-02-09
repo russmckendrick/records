@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (eco-mix) |
+| Format         | 1× Vinyl (eco-mix) LP, Album, Limited Edition |
 | Label          | Drowned In Sound |
 | Catalog Number | DIS2004 |
 | Notes | Cover versions.   Signed vinyl available through Bandcamp. Official release date 6th October but copies were shipped mid-September. Limited edition of 1.000 copies.  Hype sticker: 'Pressed on Eco-Mix vinyl using leftover wax - each record is completely unique'   |

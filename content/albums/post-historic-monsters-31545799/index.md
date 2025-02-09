@@ -77,7 +77,7 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Post_Historic_Monsters |
-| Format         | Vinyl 2× LP Album Compilation Limited Edition (Clear Vinyl, Red Vinyl) |
+| Format         | 2× Vinyl (Clear Vinyl, Red Vinyl) LP, Album, Compilation, Limited Edition |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1661 |
 | Notes | Carter The Unstoppable Sex Machine: Post Historic Monsters 2LP Expanded Edition 250 were signed by Jim Bob and Fruitbat on release, more were signed at the album release in London's Rough Trade East store on 23 Aug 2024. Limited edition pressing of 1500 copies. Housed in a gatefold sleeve with poly-lined inner bags. |

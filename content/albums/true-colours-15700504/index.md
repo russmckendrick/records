@@ -59,7 +59,7 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/True_Colours_(Split_Enz_album) |
-| Format         | Vinyl LP Album Reissue Stereo (40th Anniversary Remix Edition, Green, Red/Green Sleeve) |
+| Format         | 1× Vinyl (40th Anniversary Remix Edition, Green, Red/Green Sleeve) LP, Album, Reissue, Stereo |
 | Label          | Warner Music |
 | Catalog Number | 5419707418 |
 | Notes | 40th Anniversary, special issue of the LP pressed in four colors of vinyl (green, blue, yellow, orange) and housed in one of four various covers. The covers were released in the original first four sleeve color combinations (yellow/blue, red/green, purple/yellow, blue/orange). |

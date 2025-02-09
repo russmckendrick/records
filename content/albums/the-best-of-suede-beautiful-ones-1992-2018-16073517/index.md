@@ -73,7 +73,7 @@ styles: ["Indie Rock", "Britpop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE10 |
 | Discogs URL    | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16073517-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |

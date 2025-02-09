@@ -57,7 +57,7 @@ the Waterboys' best selling album, reaching a number 13 placing on the U.K. char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fisherman%27s_Blues |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Chrysalis |
 | Catalog Number | CHEN 5 |
 | Notes | www.mikescottwaterboys.com  Made in the E.U.  Track B5 not listed on rear sleeve. Listed on label and printed inner sleeve.  Track B6 contains a coda of “This Land Is Your Land” that is not credited on sleeve, but is partially acknowledged on the label and inner sleeve.  |

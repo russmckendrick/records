@@ -73,7 +73,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 528 |
 | Notes | Packaged in a gatefold jacket with black polylined inner sleeves and hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a clear envelope-style PVC sleeve. |

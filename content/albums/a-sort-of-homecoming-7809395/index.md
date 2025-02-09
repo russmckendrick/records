@@ -55,7 +55,7 @@ styles: ["Prog Rock", "Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP (Gatefold) |
+| Format         | 3× Vinyl (Gatefold) LP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE884 |
 | Discogs URL    | [Anathema - A Sort Of Homecoming](https://www.discogs.com/release/7809395-Anathema-A-Sort-Of-Homecoming) |

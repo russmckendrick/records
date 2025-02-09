@@ -69,7 +69,7 @@ Ciao! Best of Lush is a compilation album by the band Lush, released in March 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ciao!_Best_of_Lush |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red) |
+| Format         | 2× Vinyl (Red) LP, Compilation, Limited Edition, Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 2K22 |
 | Notes | Released on Record Store Day Black Friday 2015. Comes in a gatefold sleeve.  Dedicated to the memory of [url=https://www.discogs.com/artist/259782-Chris-Acland]Christopher Acland[/url].  A1 to A3 taken from the album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A4: single remix, original version on album [url=http://www.discogs.com/Lush-Lovelife/master/19763]'Lovelife'[/url]. ℗ 1996 4AD Ltd.  A5, B2 to C1: taken from the album [url=http://www.discogs.com/Lush-Split/master/19721]'Split'[/url]. ℗ 1994 4AD Ltd.  B1: taken from the single [url=http://www.discogs.com/Lush-Hypocrite/master/6363]'Hypocrite'[/url]. ℗ 1994 4AD Ltd.  C2 to D1: taken from the single album [url=http://www.discogs.com/Lush-Spooky/master/6277]'Spooky'[/url]. ℗ 1992 4AD Ltd.  D2: taken from the single [url=http://www.discogs.com/Lush-Mad-Love/master/19700]'Mad Love'[/url]. ℗ 1990 4AD Ltd.  D3: taken from the single [url=http://www.discogs.com/Lush-Sweetness-And-Light/master/6298]'Sweetness And Light'[/url]. ℗ 1990 4AD Ltd.  D4, D5: taken from the mini album [url=http://www.discogs.com/Lush-Scar/master/6226]'Scar'[/url]. ℗ 1989 4AD Ltd.  This compilation ℗ 2000 4AD Ltd. © 2015 4AD Ltd. |

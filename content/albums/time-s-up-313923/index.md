@@ -64,7 +64,7 @@ Time's Up is the second studio album by the band Living Colour, released on Augu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time%27s_Up_(Living_Colour_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Epic |
 | Catalog Number | 466920 1 |
 | Notes | Issued with printed inner sleeve with lyrics, picture of band members on one side and credits on the opposite. Runouts etched. Last A stamped as Λ. |

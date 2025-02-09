@@ -87,7 +87,7 @@ A coral island is a type of island formed from coral detritus and associated org
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coral_island |
-| Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
+| Format         | 2× Vinyl (Lime Green) LP, Album, Limited Edition |
 | Label          | Modern Sky UK |
 | Catalog Number | RO-001-LP |
 | Notes | Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members. |

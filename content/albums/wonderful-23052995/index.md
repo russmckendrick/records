@@ -60,7 +60,7 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wonderful_(Madness_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP14 |
 | Notes | Hype sticker reads:-  HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL Includes NEW LINER NOTES FROM LEE THOMPSON CHRIS FOREMAN MARK BEDFORD CATAHAL SMYTH & WOODY WOODGATE Featuring classic tracks Drip Fed Fred • Lovestruck Johnny The Horse SALVOLP14 |

@@ -69,7 +69,7 @@ Widely considered as among the greatest films of all time, in 1990, All About Ev
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_About_Eve |
-| Format         | Vinyl LP Album Stereo (JA Cut) |
+| Format         | 1× Vinyl (JA Cut) LP, Album, Stereo |
 | Label          | Mercury |
 | Catalog Number | MERH 119 |
 | Notes | This version contains JA in the runouts. Issued in an unlaminated single pocket sleeve. Picture inner sleeve with a light gloss finish, top opening paper with a die cut thumb section.  Some with hype sticker - Includes "In The Clouds" "Wild Hearted Woman" And "Every Angel" MERH 119  ℗ 1988 PHONOGRAM LTD (LONDON) except "In The Clouds" ℗ 1987 PHONOGRAM LTD (LONDON)  © 1988 PHONOGRAM LTD (LONDON). Original sound recordings made by Phonogram Ltd.  Runouts are stamped excepting "JA" which are etched. Some copies have a raised edge at the circumference of the labels (typical of PRS) whilst others do not. |

@@ -65,7 +65,7 @@ styles: ["Prog Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Blue [Marble]) |
+| Format         | 2× Vinyl (Blue [Marble]) LP, Album, Limited Edition, Stereo |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR77341 |
 | Discogs URL    | [Weather Systems - Ocean Without A Shore](https://www.discogs.com/release/31896559-Weather-Systems-Ocean-Without-A-Shore) |

@@ -65,7 +65,7 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Head_Music |
-| Format         | Vinyl 2× LP Album Reissue (180 g) |
+| Format         | 2× Vinyl (180 g) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 4 |
 | Notes | Mastered at The Townhouse. Pressed at Damont Audio Limited.  Designed at Commercial Art.  Supplied with download card for the full album.   Though reissued in 2014, copyright notice states '(c) 2013'.   |

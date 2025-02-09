@@ -63,7 +63,7 @@ A critical success, Two Against Nature won the group four Grammy Awards: Album o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Two_Against_Nature |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (180 Gram) Album, Record Store Day, Limited Edition, Reissue, Stereo |
 | Label          | Giant Records |
 | Catalog Number | R1 24719 |
 | Notes | Record Store Day 2021 exclusive release, part of the June 12th drops. Limited to 5,000 copies in the United States, 10,000 worldwide.  Album contains insert with lyrics and credits. LPs in generic black poly-lined inner sleeves.  The credits for track C2 Negative Girl are incorrectly listed on release (duplicated from track A3 Two Against Nature); correct track C2 credits are entered in tracklist.  Hype sticker affixed to shrink, with both catalog numbers: 4X Grammy® Award Winner including Album Of The Year First Time On Vinyl 2 LPs • 180-Gram  Sticker affixed directly to jacket: Made in Germany  ℗ & © 2000 Giant Records, a Warner Music Group Company. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company. Made in Germany.  Runouts are etched, mastering stamped. |

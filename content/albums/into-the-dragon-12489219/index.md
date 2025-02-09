@@ -62,7 +62,7 @@ Into the Dragon is the debut studio album by English musician Bomb the Bass, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Into_the_Dragon |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2172 |
 | Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU. |

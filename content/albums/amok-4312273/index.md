@@ -68,7 +68,7 @@ Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amok_(Atoms_for_Peace_album) |
-| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
+| Format         | 2× Vinyl LP, 45 RPM, Album | 1× CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP583 |
 | Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release. |

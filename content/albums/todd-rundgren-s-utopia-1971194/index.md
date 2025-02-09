@@ -52,7 +52,7 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Todd_Rundgren%27s_Utopia_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Bearsville |
 | Catalog Number | K55501 |
 | Notes | Stamped runouts Lyrics printed on back sleeve. A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974 All lyrics reproduced by kind permission of United Artists © 1974 |

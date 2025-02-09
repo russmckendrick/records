@@ -54,7 +54,7 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Trespass_(album) |
-| Format         | Vinyl LP Album Reissue (Half Speed Master 180 gr. ) |
+| Format         | 1× Vinyl (Half Speed Master 180 gr. ) LP, Album, Reissue |
 | Label          | Charisma |
 | Catalog Number | 4790213 |
 | Notes | Gatefold cover. Printed 12" x12" insert with lyrics.  A3 is mistitled "Visions Of Angles" inside the gatefold sleeve. |

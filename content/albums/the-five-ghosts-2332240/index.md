@@ -94,7 +94,7 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Five_Ghosts |
-| Format         | Vinyl 7" (Pink Translucent ), Vinyl 7" (Yellow Translucent ), Vinyl 7" (White Translucent ), Vinyl 7" (Pink Marbled Translucent ), Vinyl 7" (Clear Milky Translucent ), Vinyl 7" (Blue Light Translucent ), Box Set Album Limited Edition |
+| Format         | 1× Vinyl (Pink Translucent ) 7" | 1× Vinyl (Yellow Translucent ) 7" | 1× Vinyl (White Translucent ) 7" | 1× Vinyl (Pink Marbled Translucent ) 7" | 1× Vinyl (Clear Milky Translucent ) 7" | 1× Vinyl (Blue Light Translucent ) 7" | 1× Box Set Album, Limited Edition |
 | Label          | Soft Revolution Records |
 | Catalog Number | 003 Box Set |
 | Notes | Concept/design/assembly by The Cardboardbox Project in Montréal, QC.  Vinyl commissioned by Vagrant Records and pressed by Gotta Groove Records in Cleveland, OH.  Handcrafted wooden box set includes:  * 6 coloured 7" vinyl of all tracks on The Five Ghosts plus one bonus track, "Asleep" * 13 photo inserts (7" x 7") of album artwork and lyrics * 1 plastic download card for digital delivery of The Five Ghosts & The Séance E.P.  All digital tracks are High Quality MP3 files @ 320kbps  Box sets began shipping on July 13, 2010 from Montréal. |

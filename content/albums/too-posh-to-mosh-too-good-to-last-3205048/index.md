@@ -55,7 +55,7 @@ styles: ["Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Essential! Records |
 | Catalog Number | ESS LP 213 |
 | Notes | 'Classic Little Angels' Collectors Item 5000 Limited Edition  Runout is etched "Pressed by" is denoted in the runout |

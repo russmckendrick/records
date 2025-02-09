@@ -61,7 +61,7 @@ Images and Words is the second studio album by American progressive metal band D
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Images_and_Words |
-| Format         | Vinyl LP Album Reissue (180gram) |
+| Format         | 1× Vinyl (180gram) LP, Album, Reissue |
 | Label          | ATCO Records |
 | Catalog Number | MOVLP780 |
 | Notes | 180 gram audiophile vinyl pressing (on sticker). Printed insert with lyrics  Recorded & Mixed at Bear Tracks Studio, Suffern, NY, October-December 1991 Additional recording at The Hit Factory, NYC.  Originally released ℗ & © 1992 ATCO Records This release ℗ & © 2013 Warner Music Made in the EU  On insert:  All lyrics © 1992 Octa Music, Inc./Ytse Jams, Inc. adm. by WB Music Corp., ASCAP. © 1992 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. |

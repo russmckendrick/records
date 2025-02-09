@@ -50,7 +50,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Stereo |
+| Format         | 1× Vinyl LP, Stereo |
 | Label          | Not On Label |
 | Catalog Number | none |
 | Discogs URL    | [Charlie Barnes - Last Nights Glitter](https://www.discogs.com/release/15832271-Charlie-Barnes-Last-Nights-Glitter) |

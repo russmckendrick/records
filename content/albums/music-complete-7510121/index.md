@@ -61,7 +61,7 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_Complete |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Mute |
 | Catalog Number | STUMM390 |
 | Notes | This is the non-limited black vinyl edition which includes a 12 page booklet featuring variations of the 'lines' artwork in black & white and recording credits. A code to redeem a digital copy of the album in both 96khz/24-bit FLAC and 320kbps MP3 formats from the Mute web site is also included on a sticker on the inner vinyl bag. Issued in a Gatefold sleeve as all other versions. Additional notes from the booklet state:  · Managed by Rebecca Boulton and Andrew Robinson at Prime Management. · New Order published by Universal Music Publishing, · Tom Rowlands published by BMG Rights Management (UK) Ltd., · Brandon Flowers published by Universal-Polygram International Publishing Inc. (ASCAP). · Richard X appears courtesy of blackmelody.com · Pete Hofmann appears courtesy of gothamproducers.com · Iggy Pop appears courtesy of Thousand Mile Inc. · Strings recorded at 80 Hertz Studios, The Sharp Project, Manchester.  ℗&© 2015 New Order Ltd. under exclusive license to Mute Artists Ltd. Printed in the EU. |

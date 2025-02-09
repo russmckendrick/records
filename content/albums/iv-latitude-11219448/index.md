@@ -62,7 +62,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 054LP |
 | Notes | Ordered Directly by the Band to get a Signed edition. Includes a download card. |

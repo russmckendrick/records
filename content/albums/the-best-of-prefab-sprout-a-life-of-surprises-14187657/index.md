@@ -62,7 +62,7 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Compilation, Reissue, Remastered |
 | Label          | Kitchenware Records |
 | Catalog Number | 19075944651 |
 | Notes | Gatefold sleeve. Made in the EU.  Runouts: etched except for stamped [MPO Logo]® and 19 xxxxxx identifiers. |

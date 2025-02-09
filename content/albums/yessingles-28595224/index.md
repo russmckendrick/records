@@ -62,7 +62,7 @@ Yessingles is a compilation album by British progressive rock band Yes, released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yessingles |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Atlantic |
 | Catalog Number | 603497831692 |
 | Notes | Made in USA |

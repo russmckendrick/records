@@ -76,7 +76,7 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sing_to_God |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH DLP 022 |
 | Notes | Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.    Limited to 200 numbered copies.  Comes in a gatefold sleeve with picture inner sleeves and a download coupon.  Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].    ℗&© Alphabet 1995 |

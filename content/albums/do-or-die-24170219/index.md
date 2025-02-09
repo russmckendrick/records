@@ -62,7 +62,7 @@ Do or Die is the debut studio album by the Celtic punk band Dropkick Murphys. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Do_or_Die_(Dropkick_Murphys_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 0407-1 |
 | Notes | Released in 2022 on clear vinyl.  Note: identical barcode and matrix/runout as [r24169526]. |

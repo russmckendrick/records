@@ -56,7 +56,7 @@ West Coast vs. Wessex is a split album by the American punk rock band NOFX and t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/West_Coast_vs._Wessex |
-| Format         | Vinyl LP 45 RPM Album |
+| Format         | 1× Vinyl LP, 45 RPM, Album |
 | Label          | Fat Wreck Chords |
 | Catalog Number | FAT137-1 |
 | Notes | Regular black vinyl version.  Publishers: A1 to A5: Pure Groove Music Ltd / Universal B1 to B3, B5: NOFX Music / BMI B4: Four Hour Hell / EMI / Virgin Music  Runouts are etched. |

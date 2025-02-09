@@ -76,7 +76,7 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Dreams |
-| Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation |
 | Label          | Starblend Records Ltd. |
 | Catalog Number | SLTD 12 |
 | Notes | This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5 |

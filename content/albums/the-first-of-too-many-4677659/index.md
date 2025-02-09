@@ -58,7 +58,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Purple) |
+| Format         | 1× Vinyl (Purple) LP, Album, Limited Edition |
 | Label          | Epic |
 | Catalog Number | 469157 0 |
 | Notes | Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studios, Brixton - July 1991.  Runouts are etched. |

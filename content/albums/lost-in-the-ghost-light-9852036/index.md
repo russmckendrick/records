@@ -66,7 +66,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Gold), CD Album, All Media Limited Edition Numbered |
+| Format         | 1× Vinyl (Gold) LP, Album | 1× CD Album | 1× All Media Limited Edition, Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 473 |
 | Notes | Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back. |

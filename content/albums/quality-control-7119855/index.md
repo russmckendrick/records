@@ -64,7 +64,7 @@ Quality Control is the second studio album by American alternative hip hop group
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Quality_Control_(album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Get On Down |
 | Catalog Number | GET 56035-LP |
 | Discogs URL    | [Jurassic 5 - Quality Control](https://www.discogs.com/release/7119855-Jurassic-5-Quality-Control) |

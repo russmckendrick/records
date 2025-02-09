@@ -52,7 +52,7 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Parlophone |
 | Catalog Number | METROBOLIST 6 |
 | Notes | 2020 remix of The Man Who Sold The World by Tony Visconti, which utilises the main front cover and rear images from the 1970 US release [r=710468] but on that issue the speech bubble on the front is blank (censored by Mercury Records) whereas on this release the words are reinstated. Comes in gatefold sleeve with white thick paper inner sleeve featuring a quote of David Bowie from the year 2000 commenting on the cover.  Hand numbered copies 1 - 1970 are on [url=/release/16170762]white vinyl[/url], hand numbered copies 1971 - 2020 are on [url=/release/16186260]gold vinyl[/url]. The remaining unnumbered stock is on black vinyl (this). All three variants have been sent out randomly.  The catalog number "Metrobolist 6" appears on front cover. The catalog number "Metrobolist6" appears on label, spine and backcover. The catalog number "0190295198787" appears on spine, backcover and hype sticker.  [Information on Backcover] ℗ 2020 except 'After All' orignally ℗ 1970, remaster ℗2015  ℗ 2020 Jones/Tintoretto Entertainment Company LLC © 2020 Jones/Tintoretto Entertainment Company LLC Made in the EU.  Mixed by [...] at Human Studios, NYC, 2019/2020  [Information on Gold Hype Sticker on Left Corner on Shrinkwrap] David Bowie Metrobolist (aka The Man Who Sold The Word) ── 50th Anniversary Mix by Tony Visconti  0190295198787 |

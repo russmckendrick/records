@@ -56,7 +56,7 @@ styles: ["Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12", Vinyl 12" Single Sided Etched, All Media Album EP Reissue Remastered |
+| Format         | 1× Vinyl 12" | 1× Vinyl 12", Single Sided, Etched | 1× All Media Album, EP, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE897 |
 | Notes | Release in gatefold jacket. Etched on side D.  The band refers to this release as an EP, whereas the label and a lot of reviews call it an album.  Made in Germany. |

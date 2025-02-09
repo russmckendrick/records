@@ -67,7 +67,7 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Devil_Hopping |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent) |
+| Format         | 1× Vinyl (Red Transparent) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | ldung25 |
 | Notes | Hype sticker on sleeve. Inner sleeve with lyrics.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..."    |

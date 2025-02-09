@@ -69,7 +69,7 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A.M._(Wilco_album) |
-| Format         | Vinyl LP Album Club Edition Reissue (Red/Tangerine, 180-gram) |
+| Format         | 1× Vinyl (Red/Tangerine, 180-gram) LP, Album, Club Edition, Reissue |
 | Label          | Nonesuch |
 | Catalog Number | 518084-1 |
 | Notes | 20th anniversary edition issued with gatefold cover; full-colour, one-sided 12"x12" art print; and 4-page, full-size, black & white lyrics/credits/photos insert.  Recorded at Easley Recording, Memphis, TN Mixed by Richard Dodd at Masterphonics and Emerald Studios, Nashville, TN Mixed by Brian Paulson at Battery Studios, Nashville Radio courtesy of Robert G. Tweedy  Thanks to Tony Margherita, Bob Andrews, Bob & Jo Tweedy, Sue Miller, $ Bill and Helen Johnston, Stephanie Dominguez, Don & Sue Coomer, Ruth Nichols, Avery Stirratt, Jennifer Allen, Richard Dodd, Paul Heck at Red Hot, Doug Schoemer, Fork's Drum Closet in Nashville, Gravity Strings in St. Louis, Doug and Davis at Easley Recording, Michael Praytor, Daniel Herbst, Jenni George, Frank Riley, Josh Grier, Joe McEwen, Molly Reve-Morrison, Deb Bernardini, Bill Bentley and Peter Standish. Very special thanks to Jay Bennett.  Nonesuch Records, a Warner Music Group company.  ℗ 2009 & © 2015 Nonesuch Records for the United States and WEA International Inc. for the world outside of the United States.  Durations are not printed on the packaging. |

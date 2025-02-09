@@ -63,7 +63,7 @@ styles: ["Prog Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 491LP |
 | Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |

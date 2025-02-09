@@ -63,7 +63,7 @@ There are plenty of experiments into the disorienting possibilities of studio pr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fear_of_Music |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Sire |
 | Catalog Number | R1-6076 |
 | Notes | The birds on "Drugs" recorded at Lone Pine Koala Sanctuary, Brisbane, Australia.    All basic tracks recorded at Chris and Tina's Loft in Long Island City with The Record Plant Remote Truck on April 22 and May 6, 1979.    All songs ℗ 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)  except "I Zimbra" © 1979 Index Music/Bleu Disque Music Co. Inc. (ASCAP)/E.G. Music Ltd (BMI).     Robert Fripp appears courtesy of E.G. Records Ltd.    Thermograph (Heat Sensitive Photo), courtesy Dr. Philip Strax. Concept: David with Jerry's help.    ℗ 1979 Sire Records Company.  © 1979 Sire Records Company.    Made in EU.   |

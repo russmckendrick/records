@@ -67,7 +67,7 @@ Dookie received critical acclaim upon its release, although some early fans accu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dookie |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Blue [Baby Blue], 30th Anniversary) |
+| Format         | 1× Vinyl (Blue [Baby Blue], 30th Anniversary) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Reprise Records |
 | Catalog Number | 093624850434 |
 | Notes | Runouts are stamped apart from "093624911395-A CB" which is hand-etched.  © ℗ 1994 Reprise Records. Made in Czech Republic (All words by Billie Joe, except as indicated; all music by Green Day) WB Music Corp/Green Daze Music Music admin. by WB Music Corp (ASCAP)/Green Daze Music |

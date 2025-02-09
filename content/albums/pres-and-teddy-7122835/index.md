@@ -54,7 +54,7 @@ The album includes six standard swing jazz songs with one original composition, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pres_and_Teddy |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Verve Records |
 | Catalog Number | 0600753520390 |
 | Notes | ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc. Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it. Made in the EU |

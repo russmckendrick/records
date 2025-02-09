@@ -59,7 +59,7 @@ styles: ["Alternative Rock", "Neo-Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 gr.) |
+| Format         | 1× Vinyl (180 gr.) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE984 |
 | Notes | - Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text). |

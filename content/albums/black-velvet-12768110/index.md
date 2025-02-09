@@ -58,7 +58,7 @@ Black Velvet is the fourth and final studio album by American funk/soul artist C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Velvet_(Charles_Bradley_album) |
-| Format         | Vinyl LP Album Limited Edition (Purple With Black Splatter) |
+| Format         | 1× Vinyl (Purple With Black Splatter) LP, Album, Limited Edition |
 | Label          | Dunham |
 | Catalog Number | DUN 1007 |
 | Notes | Daptone authorized dealer exclusive limited color vinyl. Includes MP3 download Card. Barcode only present on front sticker. |

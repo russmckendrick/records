@@ -88,7 +88,7 @@ Script for a Jester's Tear is the only studio album by Marillion to feature the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Script_for_a_Jester%27s_Tear |
-| Format         | Vinyl LP Album, Vinyl 12" EP, Vinyl 2× LP, Box Set Limited Edition |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 12", EP | 2× Vinyl LP | 1× Box Set Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295316686 |
 | Notes | Limited edition, four disc box set.  Original 1983 Album Remixed Market Square Heroes EP Remixed (with the exception of 3-3: only remastered) Unreleased 1982 Live Show (on 2 LPs) 24 Page Booklet containing rare photos, new artwork and memorabilia Plus extended essay from Prog Magazine editor Jerry Ewing  Signed by Fish if pre-ordered from Fish's website. Signed Script for a Jester's Tear print (Steve Rothery, Pete Trewavas, Mark Kelly, Mick Pointer) if pre-ordered from Marillion's website.  Track H2 is listed on the label as Script For A Jester's Tear but it's actually Market Square Heroes as listed On the back cover and on the inner sleeve.  ℗ 2020 this compilation Parlophone Records Ltd.  © 2020 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2020 Parlophone Records Ltd. A Warner Music Group Company. Made in the EU. |

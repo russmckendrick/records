@@ -60,7 +60,7 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vivid_(Living_Colour_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Epic |
 | Catalog Number | 460758 1 |
 | Notes | Including an insert with lyrics and credits.  Recorded at Skyline, Sound On Sound and Right Track Studios. Mixed at Right Track. Mastered at Sterling Sound, New York.  ℗ 1988 CBS Records Inc. © 1988 CBS Records Inc. Shorepak™ by Shorewood Packaging Co. Ltd. England.  Made in England.  On the insert: "In Memory of: Marc DeShong, Stephen Crichlow, James Baldwin, Alphonia Tims, Mary Multrie, Mrs. Kippins "Go on Virginia, play it loud. Your neighbors will love it."  Runouts are etched except for 'Λ' and the stamper numbers which are stamped. |

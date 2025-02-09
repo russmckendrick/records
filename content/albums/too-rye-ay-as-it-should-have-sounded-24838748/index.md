@@ -57,7 +57,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (Green, 200g) |
+| Format         | 1× Vinyl (Green, 200g) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 388 570-2 |
 | Notes | 'Made in Poland' on a sticker on shrink. |

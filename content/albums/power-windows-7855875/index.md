@@ -58,7 +58,7 @@ The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Power_Windows_(album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Mercury |
 | Catalog Number | 00602547118288 |
 | Notes | Including a voucher to download an MP4 version of the album.   |

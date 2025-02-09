@@ -58,7 +58,7 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-008 |
 | Notes | Manufactured in the E.U. |

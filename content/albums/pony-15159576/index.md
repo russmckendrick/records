@@ -61,7 +61,7 @@ Orville Peck’s <i>Pony</i> arrived in 2019 with no shortage of drama: There wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pony_(Orville_Peck_album) |
-| Format         | Vinyl LP Album Limited Edition Repress (Orange Neon) |
+| Format         | 1× Vinyl (Orange Neon) LP, Album, Limited Edition, Repress |
 | Label          | Sub Pop |
 | Catalog Number | SP1293 |
 | Discogs URL    | [Orville Peck - Pony](https://www.discogs.com/release/15159576-Orville-Peck-Pony) |

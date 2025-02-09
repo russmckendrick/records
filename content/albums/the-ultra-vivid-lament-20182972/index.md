@@ -63,7 +63,7 @@ Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Ultra_Vivid_Lament |
-| Format         | Vinyl LP Album Limited Edition (Yellow, 180g) |
+| Format         | 1× Vinyl (Yellow, 180g) LP, Album, Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19439895431 |
 | Notes | Amazon exclusive coloured vinyl edition.  Made in the EU.   |

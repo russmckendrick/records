@@ -78,7 +78,7 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (Purple), CD Album Reissue |
+| Format         | 1× Vinyl (Purple) LP, Album, Reissue, Remastered | 1× CD Album, Reissue |
 | Label          | Music For Nations |
 | Catalog Number | 88875088291 |
 | Notes | 180 gram purple vinyl housed in single jacket. Printed inner sleeve with credits and liner notes by Michael Amott.  Comes with an additional CD in a cardboard sleeve. |

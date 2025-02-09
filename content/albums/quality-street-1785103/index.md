@@ -60,7 +60,7 @@ The original Broadway production opened in 1901 and ran for 64 performances. The
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Quality_Street_(play) |
-| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Format         | 1× Vinyl (Gatefold Sleeve) LP, Album |
 | Label          | Circa |
 | Catalog Number | CIRCA 17 |
 | Notes | Thanks to Martin Hannett. |

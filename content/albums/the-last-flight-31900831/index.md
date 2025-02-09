@@ -55,7 +55,7 @@ styles: ["Krautrock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album |
 | Label          | So Recordings |
 | Catalog Number | SOAKLPTC543 |
 | Notes | Features the standard version catalogue number on the sleeve and spine. An additional sticker reveals the "clear" catalogue number. includes a 12" 8 page booklet with lyrics and recording credits in scrapbook fashion.  [l1942119] sold a variation with their usual numbered obi-strip (300 copies) but the core LP is the same.  Initial copies from the band's official webstore come with a free signed 12x12 art print.  |

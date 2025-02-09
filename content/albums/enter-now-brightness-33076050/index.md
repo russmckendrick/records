@@ -50,7 +50,7 @@ Five years between albums has given Nadia Reid plenty to reflect upon across <i>
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Slow Time Records |
 | Catalog Number | ST006V |
 | Notes | Includes printed inner sleeve with lyrics & credits.  Recorded between 2021 and 2023 in Dunedin and Auckland, New Zealand. Made in Aotearoa.  Runouts are etched except IM is stamped. |

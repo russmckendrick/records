@@ -70,7 +70,7 @@ styles: ["Soul-Jazz"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Baby_Just_Cares_for_Me |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP156 |
 | Notes | The compilation was recorded between 1957 and 1961.   "Special 2LP Gatefold Edition 20 Original Recordings From The Legendary Jazz & Blues Great On 180g Vinyl".  ℗ & © 2012 Not Now Music Limited  Made in the E.U. |

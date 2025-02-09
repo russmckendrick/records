@@ -69,7 +69,7 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Badmotorfinger |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 374-1 |
 | Notes | ℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker. |

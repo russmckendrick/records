@@ -62,7 +62,7 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Blue Transparent), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Blue Transparent) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 558 |
 | Notes | Comes with signed art print and is limited to 600 copies. |

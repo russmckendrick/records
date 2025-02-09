@@ -69,7 +69,7 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_Is_Magic |
-| Format         | Vinyl 2× LP Album Deluxe Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Deluxe Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA825V |
 | Notes | Gatefold sleeve with 12"x12" 24-page photo book, 5 3/4"x8 1/4" 12-page lyric book and download card.  Photos have been spot glossed over a matte jacket; same on inner sleeves. Photo book contains photos shot by John Grant in Denton, Texas, USA and St. Breward, Cornwall, England 2017-2018. Photo book printed on 32lb paper. Lyric book cover printed on 32lb paper; lyric sheets printed on 20lb paper.  C2 is mis-titled 'You've Got Your Mothers Hips' in the download mp3's metadata.  Label Code and catalog number on spine.  Red or green sliver hype sticker denoting Deluxe Edition Clear vinyl, photo book and d/l card.  ℗ & © 2018 Bella Union |

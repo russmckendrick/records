@@ -58,7 +58,7 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ogilala |
-| Format         | Vinyl LP Album Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538321031 |
 | Notes | Issued in gatefold sleeve.  Indie exclusive, limited to 1,000 copies worldwide.  Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA  Includes download card.  On back cover : Made in USA. |

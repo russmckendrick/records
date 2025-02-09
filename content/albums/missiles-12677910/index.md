@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB033 |
 | Notes | ℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP  |

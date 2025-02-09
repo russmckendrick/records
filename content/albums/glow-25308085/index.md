@@ -58,7 +58,7 @@ Glow is the second studio album by English rock band Reef. Produced by the band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glow_(Reef_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Glow-in-the-dark) |
+| Format         | 1× Vinyl (Glow-in-the-dark) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Hassle Hindsight |
 | Catalog Number | HOFFSIDE009 |
 | Notes | 25th anniversary re-press, including brand new liner notes. Glow-in-the-dark vinyl, non-gatefold matt finish sleeve, supplied in transparent bag with hype sticker. Limited to 500 copies, hand numbered on rear of sleeve. |

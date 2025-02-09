@@ -65,7 +65,7 @@ Let It Come Down is the fourth studio album by the rock band Spiritualized, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Come_Down_(Spiritualized_album) |
-| Format         | Vinyl 2× LP Album Reissue Special Edition (Ivory, 180 Gram) |
+| Format         | 2× Vinyl (Ivory, 180 Gram) LP, Album, Reissue, Special Edition |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1754-3 |
 | Notes | Label for Side C erroneously lists Won't Get To Heaven (The State I'm In) as the fourth track, but it is actually the first track for Side D. |

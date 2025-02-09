@@ -56,7 +56,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Southpaw Recordings |
 | Catalog Number | PAWLP1 |
 | Notes | Reissue from early 2000s. Identical to the original release: [r368948], except that 'MOGWAI' on the spine is printed in white rather than black. Printed inner bag and a 4-fold poster inlay.  Some copies dating from 2012 have a '[PIAS] 30 YEARS' sticker in the top left corner.  ℗ PIAS RECORDINGS/SOUTHPAW RECORDINGS 2001 © PIAS RECORDINGS/SOUTHPAW RECORDINGS 2001  Made in the UK.  Recorded at Tarbox Rd Studios Cassadaga, NY Additional recording at Cava Studios Glasgow and Sorcerer Sound NY.  Courtesies: • David Pajo. Courtesy of Drag City • Gruff Rhys. Courtesy of Epic Record • Willie Campbell and Charlie Clark (Fantastic Plastic Records) • Gary Lightbody (Jeepster Recording)  Published by Chrysalis Music except track 4 [...] (Universal Music Publishing) |

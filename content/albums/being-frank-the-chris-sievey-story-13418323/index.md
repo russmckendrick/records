@@ -62,7 +62,7 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Picture Disc |
+| Format         | 1× Vinyl LP, Compilation, Picture Disc |
 | Label          | 7A Records |
 | Catalog Number | 7A020 |
 | Notes | This is a limited edition of only 500 copies. |

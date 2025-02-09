@@ -88,7 +88,7 @@ styles: ["Pop Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1_(Beatles_album) |
-| Format         | Vinyl 2× LP Compilation Reissue (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Compilation, Reissue |
 | Label          | Apple Records |
 | Catalog Number | 0602547567901 |
 | Notes | New 2015 stereo mixes. Comes with 1 large poster with 126 PS cover images, 4 individual artsy portraits of John, Paul, George & Ringo, and the original PS covers pictured on the inner sleeves.  Made in Germany. |

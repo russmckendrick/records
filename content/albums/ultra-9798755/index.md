@@ -63,7 +63,7 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ultra_(Depeche_Mode_album) |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985336911 |
 | Notes | © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to  Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336911.  |

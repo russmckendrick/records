@@ -59,7 +59,7 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | EMI America |
 | Catalog Number | 00602557354843 |
 | Notes | Limited to 1,500 copies worldwide in green. Nothing on exterior to denote this apart from barcode variant.  Made in Czech Republic. |

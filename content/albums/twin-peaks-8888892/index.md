@@ -63,7 +63,7 @@ In the years following the first two seasons, the show has gained a devoted cult
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Twin_Peaks |
-| Format         | Vinyl LP Album Reissue Remastered (Brown Marbled [Damn Fine Coffee], 180g) |
+| Format         | 1× Vinyl (Brown Marbled [Damn Fine Coffee], 180g) LP, Album, Reissue, Remastered |
 | Label          | Death Waltz Recording Company |
 | Catalog Number | DW50 |
 | Notes | Director approved artwork, on 180 gram damn fine coffee colour vinyl with a 425 gram gatefold sleeve housed inside a bespoke white die-cut outer jacket with white spot varnish finish, complete with obi.   The [url=https://www.discogs.com/release/15764513-Angelo-Badalamenti-Twin-Peaks]reissue[/url] is missing the obi and has an additional catalogue number.  Tracks listed sequentially on gatefold jacket and center labels.  Tracks A4, B7, B11 also available on the Warner Bros. album "[m=5103]". All songs © 1989. © & ℗ 1990 & 2016 Warner Bros. Records Inc. © Death Waltz Records. Recorded and mixed at Excalibur Sound. Except tracks A4, B7 & B11 mixed at The Hit Factory.  Originally mastered at Masterdisk.   All music published by Anlon Music Co. (ASCAP) / Bobkind Music (ASCAP). Anlon Music Co. and Bobkind Music are administered worldwide by Universal Music Corp. (ASCAP).  Available directly from Mondotees website beginning on August 10, 2016, and in retail stores worldwide on September 9, 2016.  A different Rainbo Records ID has been scratched out in runout of side B. The original numbers are unreadable, see picture. |

@@ -65,7 +65,7 @@ A slightly modified version of Life was released in North America. It dropped th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Life_(Inspiral_Carpets_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gold) |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | ldung8 |
 | Notes | "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]....." |

@@ -63,7 +63,7 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Stereo (Clear, 180g) |
+| Format         | 2× Vinyl (Clear, 180g) LP, Album, Record Store Day, Limited Edition, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC880 |
 | Notes | The soundtrack to the band’s first concert video, [m858959], recorded at Brixton Academy 16th May 1993.   Issued in a die-cut outer sleeve with printed inner sleeves. Pressed on 2 x 180g clear vinyl for Record Store Day 2021 (1st drop 12.06.21) in a total number of 3500 copies worldwide.  Released in U.S. as [r19169785].  ℗ 1993 Suede Ltd. © 2021 Demon Music Group Ltd.   Manufactured in the EU. |

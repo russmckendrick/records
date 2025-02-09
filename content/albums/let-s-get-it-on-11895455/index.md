@@ -60,7 +60,7 @@ Likewise, “You Sure Love to Ball” leaves no doubt that it’s all about hump
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let%27s_Get_It_On |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, Red) |
+| Format         | 1× Vinyl (Gatefold, Red) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Tamla |
 | Catalog Number | 00600753801918 |
 | Notes | Record Store Day 2018 Release  Limited 'RSD First' pressing of 1000 copies  Back Cover: ℗ 1973 Motown Records, © 1973 Motown Records Motown Records a Division of UMG Recordings Inc. Made in EU.  Vinyl label: ℗ 1973 Motown Records Corps. A product of Motown Records Corps.  Sticker: 45th Anniversary  Limited Edition  Red Vinyl  Cat# 0600753801918  Spine, back cover and vinyl label Cat# 00600753801918  Track: A1 to A4 Published by Jobete Music Co., Inc. (ASCAP) & Cherritown Music Co., Inc. (BMI) B1 to B4 Published by Jobete Music Co., Inc. (ASCAP)  [a60453] and [a60451] appears courtesy of The Crusaders and Chisa Records, Inc. [a211633] appears courtesy of Ode Records, Inc.  Special treatment: [a252993], [a271384], [a569021]     |

@@ -52,7 +52,7 @@ It is home to a large colony of white-capped albatrosses: about 65,000 pairs –
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Disappointment_Island |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Sargent House |
 | Catalog Number | sh157 |
 | Discogs URL    | [This Town Needs Guns - Disappointment Island](https://www.discogs.com/release/8745073-TTNG-Disappointment-Island) |

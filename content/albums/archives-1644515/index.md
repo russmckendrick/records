@@ -75,7 +75,7 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation |
+| Format         | 3× Vinyl LP, Compilation |
 | Label          | Mercury |
 | Catalog Number | 6641 799 |
 | Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve.  For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.  [r31108571] is a similar release without the etched 'JACKO' and extended rim text [r13968254] is a similar release with extended rim text  |

@@ -64,7 +64,7 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Milking_the_Stars:_A_Re-Imagining_of_Last_Patrol |
-| Format         | Vinyl 2× LP Album Limited Edition |
+| Format         | 2× Vinyl LP, Album, Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 563 LP |
 | Notes | Limited Edition. Gatefold 2-LP on black 180 g vinyl. It's not a new  album, it's a re-imagining of [url=http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229]Last Patrol[/url], with two new songs, six overworked songs and two live songs.  New vocal, guitar, bass and keyboard tracks recorded March 2014. Mixed at JHOC Studios  © + ℗ 2014 Napalm Records Handels GmbH Made in Germany  |

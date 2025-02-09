@@ -61,7 +61,7 @@ Felt Mountain was generally well received by music critics, and was described as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Felt_Mountain |
-| Format         | Vinyl LP Album Reissue (White, 180g) |
+| Format         | 1× Vinyl (White, 180g) LP, Album, Reissue |
 | Label          | Mute |
 | Catalog Number | STUMM188X |
 | Notes | Inner Sleeve: All tracks written, performed, & produced by Will Gregory and Alison Goldfrapp. Except *  All tracks recorded and mixed at home and at the bungalow except for: Human vocal recorded at Christchurch Studios. Deer Stop mixed at 'The Instrument'. Utopia mixed at 'Eden Studios'. Additional Mixing: Utopia - Dave Bascombe, Human - Nick Batt, Deer Stop & Paper Bag - Kevin Paul. Additional Engineering: Nick Batt, Luke Gordon, Kevin Paul, David Lord. *Human (Norfolk/Locke/Goldfrapp/Gregory) Bug Music Ltd/Copyright Control. Inside photo of Will Gregory & front cover by Joe Dillworth, inside photo of Alison Goldfrapp by Anna Fox, landscape photography by Ⓒ C.L.Schmidt & Gunter Graefenhain, / britstock IFA.  Our many thanks to Steve Claydon, Colin Wallace, Daniel Miller & everyone at Mute, John Parish, Adrian Utley, Carole Pearson, Nick Batt, Anna Fox, Joe Dillworth, and all the musicians who played on this album. Alison thanks Ma, Pa and Family, Sir Steve, all the old girls, Ennio, Hazel and all my mates xxxx. Will thanks Carole Pearson, Hazel Grian & Sergio Leone.  Outer Sleeve: Ⓟ 2000 Mute Records Ltd., a BMG Company Ⓒ 2015 Mute Records Ltd., a BMG Company Made in the EU.  Sticker states: "Heavyweight 180 Gram White Vinyl STUMM188X" |

@@ -66,7 +66,7 @@ Telekon is the second solo studio album by the English new wave musician Gary Nu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Telekon |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP19 |
 | Notes | 'We Are Glass' and 'I Die:You Die' were issued as singles but not included on the original vinyl release of the album (they did appear on the original UK cassette release). 'A Game Called Echo' was recorded at Rock City as part of the early album sessions and first relesed in 1985 on a retrospective 12''. 'Down In The Park (Piano Version)' was the B side of 'I Die:You Die'. 'Photograph' (B side of 'This Wreckage' single) and 'Trois Gymnopédies' (B side of 'We Are Glass') were tracks from 'Freerange' demo sessions for 'The Pleasure Principle' album and recorded between 9-12 April 1979. |

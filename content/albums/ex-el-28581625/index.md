@@ -63,7 +63,7 @@ In 2007, The Guardian included the album in their list of "1000 Albums to Hear B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ex:el |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition, Reissue |
 | Label          | ZTT |
 | Catalog Number | ZTDS35 |
 | Notes | National Album Day 2023.  LPs housed in black poly lined die-cut inner sleeves.  Published by Universal Music Publishing Ltd. / Wardlaw Music. A2: Published by Universal Music Publishing Ltd. / Wardlaw Music / Vitalturn Co Ltd. B1, C1: Published by Universal Music Publishing Ltd. / Wardlaw Music / Wellhart Ltd.  C3, D1, D4 engineered at Square One. Recorded at Revolution Studio, September to December 1990. Digital multitrack.  A Universal Music Recordings release. ℗ 2008 ZTT Records Ltd. © 1991 ZTT Records Ltd. A Universal Music Company.  Made in the EU. |

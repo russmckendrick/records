@@ -62,7 +62,7 @@ The Best of OMD was named by The Quietus and Classic Pop as one of the best comp
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_OMD |
-| Format         | Vinyl LP Album Compilation (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Compilation |
 | Label          | Virgin |
 | Catalog Number | OMD 1 |
 | Notes | Released in a gatefold sleeve with photos of the group members, plus images of the sleeves used for the release of the singles.  DRG Malago branded generic paper inner sleeve dated "2/88" |

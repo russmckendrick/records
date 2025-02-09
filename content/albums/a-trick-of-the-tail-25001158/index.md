@@ -64,7 +64,7 @@ Upon release, critics were impressed by the improved sound quality and the group
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Trick_of_the_Tail |
-| Format         | Vinyl LP Album Reissue Remastered Repress Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered, Repress, Stereo |
 | Label          | Atlantic |
 | Catalog Number | R1 187964 |
 | Notes | A repress of the [url=https://www.discogs.com/release/6949783]2015 Deluxe Edition[/url] reissue and physically nearly identical to that pressing, including a parchment-style gatefold sleeve, but with several notable differences including the cat# and labels. The hype sticker, while similar, does not indicate "Deluxe Edition", and gives Genesis joint credit with Nick Davis for the 2008 Mixes.  Hype sticker: [Genesis logo] The Classic Albums featuring Half-Speed Mastering 2008 Mixes by Nick Davis & Genesis 180g Audiophile Vinyl R1 187964 / 081227955151  ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation / Rhino Entertainment Company, Warner Music Group Companies.  Recorded at Trident Studios, London Oct/Nov 1975  Made in Germany.  Runouts are etched. |

@@ -50,7 +50,7 @@ It Leads to This is the fifteenth studio album by British progressive rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It_Leads_to_This |
-| Format         | Vinyl LP Album Limited Edition Stereo (Brick Red Vinyl) |
+| Format         | 1× Vinyl (Brick Red Vinyl) LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1219 |
 | Notes | Limited Edition: Brick Red Exclusive to The Pineapple Thief and Kscope stores |

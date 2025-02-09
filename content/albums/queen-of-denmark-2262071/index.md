@@ -67,7 +67,7 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Queen_of_Denmark_(album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Bella Union |
 | Catalog Number | Bellav235 |
 | Notes | Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)  ℗ & © Bella Union 2010 Made in the EU. |

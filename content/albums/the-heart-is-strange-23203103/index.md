@@ -55,7 +55,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | ZTT |
 | Catalog Number | ZTTnovis1 |
 | Notes | Sticker on front sleeve: "xPropaganda xTheHeartIsStrange /////////////////////////////////////////// xClaudiaBrücken xSusanneFreytag ////////////////////////////////////////// xProducedBy xStephenLipson ///////////////////////////////////////// >Don't(YouMessWithMe) >OnlyHuman >TheWolvesAreReturning >BeautyIsTruth  ZTTnovis1 3838272"  Runouts are etched except "-59257-" which is stamped. |

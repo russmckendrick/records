@@ -64,7 +64,7 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Lakeshore Records |
 | Catalog Number | FROST007LPX |
 | Notes | Record Store Day 2019 exclusive release  Gate-fold sleeve inside a die-cut comet outer sleeve |

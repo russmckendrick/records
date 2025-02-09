@@ -67,7 +67,7 @@ But, as usual with Springsteen, the details are more complex than that. The albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tunnel_of_Love_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | CBS 460270 1 |
 | Notes | Issued with a printed inner sleeve with lyrics, pic and credits  Back cover: ℗ 1987 Bruce Springsteen/ / © 1987 Bruce Springsteen Printed in Holland / Imprimé en Hollande  Labels: Made in Holland  Inner sleeve: Recorded in New Jersey ("One Step Up" [B4] recorded at A&M Studios, Los Angeles, California) Mixed at A&M Studios, Los Angeles, California ("Tunnel of Love" [B1] mixed at The Hit Factory, New York City).  Additional Recording: The Hit Factory, New York City Kren Studio, Los Angeles, California A&M Studios, Los Angeles, California.  All recording and mixing on Sony Digital.  Mastering at Masterdisk, New York (on Neve Digital Console).  All music performed by Bruce Springsteen except where noted.  All songs © 1987 Bruce Springsteen (ASCAP)  Runouts: Side A is etched Side B is stamped |

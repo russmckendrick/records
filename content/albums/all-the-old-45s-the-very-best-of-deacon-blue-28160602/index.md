@@ -71,7 +71,7 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow), Vinyl LP (Pink), All Media Compilation Stereo |
+| Format         | 1× Vinyl (Yellow) LP | 1× Vinyl (Pink) LP | 1× All Media Compilation, Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP868X |
 | Notes | On hype sticker and barcode sticker: COOKLP868X On sleeve: COOKLP868  100 copies of this release were sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |

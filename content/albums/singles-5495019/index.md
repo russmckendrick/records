@@ -61,7 +61,7 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singles_(Future_Islands_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | 4AD |
 | Catalog Number | CAD 3402 |
 | Notes | Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped. |

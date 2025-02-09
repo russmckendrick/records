@@ -53,7 +53,7 @@ Judas Priest had been steadily gaining ground as one of the leading practitioner
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_Judas_Priest |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Gull |
 | Catalog Number | GULP 1026 |
 | Notes | Track listing and lengths on back of sleeve are incorrect. Track listing and lengths on labels are correct except for "Rocka Rolla" (stated as 4:00 but actually 3:05). |

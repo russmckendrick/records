@@ -73,7 +73,7 @@ Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Anima_(Thom_Yorke_album) |
-| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Orange) |
+| Format         | 2× Vinyl (Orange) 12", 33 ⅓ RPM, Album, Limited Edition |
 | Label          | XL Recordings |
 | Catalog Number | XL987LPE |
 | Notes | Includes download code for tracks A1 to D2.  Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion.  |

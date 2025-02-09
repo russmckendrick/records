@@ -61,7 +61,7 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_on_Earth_(Belinda_Carlisle_album) |
-| Format         | Vinyl LP Album Reissue (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC306 |
 | Notes | Pressed on 180gm heavyweight translucent blue vinyl.  ℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd. Manufactured in the EU. |

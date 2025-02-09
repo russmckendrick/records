@@ -56,7 +56,7 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Mud |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Third Man Records |
 | Catalog Number | TMR-485 |
 | Notes | Recorded at Ter Mar Studios, Chicago, May, 1968 Comes with a poster  For the 2019 reissue WITHOUT poster, see here : [r=16092165] |

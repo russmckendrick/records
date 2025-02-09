@@ -65,7 +65,7 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tin_Machine_II |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Silver, 180g) |
+| Format         | 1× Vinyl (Silver, 180g) LP, Album, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2715 |
 | Notes | Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold. |

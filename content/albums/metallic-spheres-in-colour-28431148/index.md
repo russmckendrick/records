@@ -49,7 +49,7 @@ styles: ["Ambient", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Sony Music |
 | Catalog Number | DGORB001LP |
 | Notes | "The original ambient masterpiece 'Metallic Spheres' Remixed" On heavyweight 180 gram vinyl Includes Poster  © 2023 David Gilmour Music LTD. / Alex Paterson t/a The Orb. ℗ 2023 The copyright in this sound recording is owned by David Gilmour Music LTD. / Alex Paterson t/a The Orb. Under exclusive license to Sony Music Entertainment  Made in the EU.  Runouts stamped except etched 'STU 19439989361-A-1' and '19439989361 B-1' |

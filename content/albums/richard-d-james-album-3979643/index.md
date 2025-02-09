@@ -59,7 +59,7 @@ Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Richard_D._James_Album |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Warp Records |
 | Catalog Number | WARP LP 43 |
 | Notes | Official Warp repress Heavyweight 180g vinyl Includes download code  ℗ Warp 1996 © Warp 1996 (Richard D. James)  Written-By, Producer, Sleeve, Design are credited to "Me".  Made in England.  Top opening on cover. |

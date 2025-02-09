@@ -64,7 +64,7 @@ Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I'v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Origin_Vol._1 |
-| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
+| Format         | 2× Vinyl (Gold, Expanded) LP, Limited Edition, Numbered, Reissue, Remastered, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2646 |
 | Notes | Limited Edition of 1500 Gold Coloured Copies Individually Numbered Includes Insert Contains 5 Bonus Tracks 180 gram audiophile vinyl  Gatefold cover |

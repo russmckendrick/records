@@ -107,7 +107,7 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Delicate_Sound_of_Thunder |
-| Format         | Vinyl 3× LP Album Reissue (180g) |
+| Format         | 3× Vinyl (180g) LP, Album, Reissue |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP36 |
 | Notes | Die cut box cover with hype sticker: "LIVE 3-LP  PINK FLOYD Delicate Sound of Thunder Remixed from the original master tapes Heavyweight 180g Vinyl 24-page Booklet 23 songs Approx. 2 1/2 hours Features 9 songs not included on the  1988 2-LP Pink Floyd Records 0190295215965 Brand new remix."  Includes 12"x12" colour booklet and download card, with expiry date of 20/11/2025  Made in Germany.  Previously unreleased track on vinyl 1988: -Signs Of Life -A New Machine Part1 -Terminal Frost -A New Machine Part2 -On The Run -The Great Gig In The Sky -Welcome To The Machine -Us And Them -One Slip |

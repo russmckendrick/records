@@ -57,7 +57,7 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nonetheless |
-| Format         | Vinyl LP Album Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 5054197903571 |
 | Notes | Selected retailer "exclusive" clear vinyl.  Made in Germany. |

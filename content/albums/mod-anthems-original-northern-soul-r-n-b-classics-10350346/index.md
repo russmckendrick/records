@@ -71,7 +71,7 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0190295831783 |
 | Notes | Manufactured in the E.U. Mastered by Alchemy Design: Jaffa@The-Unknown.Co.Uk |

@@ -61,7 +61,7 @@ From the Beginning is the first compilation album by the English rock band Small
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/From_the_Beginning_(Small_Faces_album) |
-| Format         | Vinyl LP Compilation Reissue Mono (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Compilation, Reissue, Mono |
 | Label          | Decca |
 | Catalog Number | 471 537-3 |
 | Notes | Includes a voucher to download an MP3 version of the album. 180 gram heavyweight vinyl.  © 1967, The Decca Record Company Limited, London. ℗ 1967 Decca Music Group Ltd. © 1967 Decca Music Group Ltd. Made in the EU. |

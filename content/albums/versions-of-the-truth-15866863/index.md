@@ -63,7 +63,7 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Versions_of_the_Truth |
-| Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1062 |
 | Notes | On limited edition 180g heavyweight clear vinyl.  Comes with inner sleeve with lyrics, credits and artwork.  Inside of outer sleeve is coloured red.  Kscope flyer containing details of recent and future releases also included as an insert.  "Indies only" version.  KSCOPE1085 on Hype Sticker.  Recorded and mixed...between 1st October 2018 and 4th May 2020  Made in Germany  ℗2020 ©2020   |

@@ -56,7 +56,7 @@ Featuring an expansive cast of supporting players and session musicians—includ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_New_Sound |
-| Format         | Vinyl 2× LP Album (Regular Cover) |
+| Format         | 2× Vinyl (Regular Cover) LP, Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0499LP |
 | Notes | Original cover version Early orders came with a small sticker sheet |

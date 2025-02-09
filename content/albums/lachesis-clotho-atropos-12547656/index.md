@@ -45,7 +45,7 @@ styles: ["Post Rock", "Experimental", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Tompkins Square |
 | Catalog Number | TSQ 5555 |
 | Discogs URL    | [Harmony Rockets - Lachesis / Clotho / Atropos](https://www.discogs.com/release/12547656-Harmony-Rockets-With-Special-Guest-Peter-Walker-4-Lachesis-Clotho-Atropos) |

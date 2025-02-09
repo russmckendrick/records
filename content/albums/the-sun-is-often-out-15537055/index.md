@@ -66,7 +66,7 @@ Five singles were released from the album, initially to little success. The firs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Sun_Is_Often_Out |
-| Format         | Vinyl LP Album Reissue (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC707X |
 | Notes | Amazon.co.uk exclusive version with alternate barcode (on sticker) and unique blue 'hype' sticker. The sleeve is also hand signed by lead singer Crispin Hunt. Limited to 500 copies.  Exclusive catalogue number only features on the 'hype' sticker. Record and inner sleeve is identical to the standard blue vinyl reissue. Sleeve is the same except for an unique barcode sticker and being signed by Crispin Hunt.  Blue hype sticker reads: THE SUN iS OfTEN oUT The 1996 debut album by LONGPIGS Reissued on vinyl for the first time Includes the singles 'On ANd ON', 'SHE SAiD' & 'LOST MySELf' Pressed on heavyweight 180g blue vinyl Amazon exclusive Version Signed by CRiSPiN HUNT DEMREC707X [DEMON RECORDS (logo)]  A "DOO-WOP" record-design by ABRAHAMS PANTS & Orla Quirke  Manufactured in the EU  Press details: "Demon Records is proud to present the first ever vinyl reissue of this cult classic, pressed on 180g heavyweight Blue vinyl. This Amazon Exclusive version is signed by vocalist Crispin hunt and is strictly limited to 500 copies" |

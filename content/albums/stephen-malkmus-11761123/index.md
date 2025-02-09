@@ -61,7 +61,7 @@ Stephen Joseph Malkmus ( MALK-miss; born May 30, 1966) is an American musician b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stephen_Malkmus |
-| Format         | Vinyl LP Album Reissue (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue |
 | Label          | Domino |
 | Catalog Number | WIGLP90 |
 | Notes | Includes a download card and a custom inner sleeve.  Recorded and Mixed May-August 2000 in Portland, Oregon at Jackpot!, Supernatural, and FutureRhythm (San Jose, CA -- a huge mistake) Master EQ: [...] at Sterling  Songs ©2001 Double Six/Universal Island Music ℗&©2001 Domino Recording Co Ltd Made in the EU |

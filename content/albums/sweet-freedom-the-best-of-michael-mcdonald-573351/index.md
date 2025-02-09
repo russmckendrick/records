@@ -55,7 +55,7 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Remastered |
+| Format         | 1× Vinyl LP, Compilation, Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 241 049-1 |
 | Notes | Manufactured in Germany has raised  WB Logo on bottom rear right of sleeve bearing LC 0392 next to it  Same Cat#, rear sleeve - FRANCE: WE381 with 381 printed on white background here: [r4733144] |

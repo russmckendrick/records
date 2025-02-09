@@ -90,7 +90,7 @@ English Settlement was well-received critically and continues to be regarded by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/English_Settlement |
-| Format         | Vinyl 2× LP Album Reissue, CD Album Reissue, Box Set Deluxe Edition |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× CD Album, Reissue | 1× Box Set Deluxe Edition |
 | Label          | Ape House |
 | Catalog Number | APELPD105 |
 | Notes | A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition.  |

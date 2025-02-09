@@ -59,7 +59,7 @@ Open Up and Say Ahh was certified platinum in 1988 and 5× platinum in 1991 by t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Open_Up_and_Say..._Ahh! |
-| Format         | Vinyl LP Album Limited Edition Reissue (Green ) |
+| Format         | 1× Vinyl (Green ) LP, Album, Limited Edition, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | B0027945-01 |
 | Notes | Limited to 1000 copies |

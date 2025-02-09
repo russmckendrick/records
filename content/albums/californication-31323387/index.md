@@ -74,7 +74,7 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Californication_(album) |
-| Format         | Vinyl LP (Red Opaque), Vinyl LP (Blue Opaque [Ocean Blue]), All Media Album Limited Edition Reissue Repress (25th Anniversary Edition) |
+| Format         | 1× Vinyl (Red Opaque) LP | 1× Vinyl (Blue Opaque [Ocean Blue]) LP | 1× All Media (25th Anniversary Edition) Album, Limited Edition, Reissue, Repress |
 | Label          | Warner Records |
 | Catalog Number | 93624843276 |
 | Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl.   Comes with colored lyrics sheet and white die-cut inner sleeves.   "Manufactured in Germany" on labels and "Made in Germany" on insert.   Different runouts than [r31325104]. |

@@ -74,7 +74,7 @@ Following the screening of INXS: Never Tear Us Apart, an Australian miniseries a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_(INXS_album) |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Universal Music Group |
 | Catalog Number | 0602557887068 |
 | Notes | Black Vinyls |

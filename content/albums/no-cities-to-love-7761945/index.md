@@ -52,7 +52,7 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Cities_to_Love |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Sub Pop |
 | Catalog Number | SP1100 |
 | Notes | Black vinyl edition, comes in a triple gatefold cover.    Includes a four page sheet with lyrics and credits and a coupon with free download code.   Exclusive Barnes & Noble edition with art print signed by the band.     All songs written by Sleater Kinney.  Code Word Nemesis (ASCAP)    ©℗ 2015 Sub Pop Records.    Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"   |

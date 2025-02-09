@@ -52,7 +52,7 @@ At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Phase_(Mildlife_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Research Records |
 | Catalog Number | RESEARCH02 |
 | Notes | First pressing, edition of 1000. First 400 orders include one of four Mildlife trading cards.  This pressing has been re-cut on October 1, 2018.  Research Records 2018 |

@@ -71,7 +71,7 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fashion_Nugget |
-| Format         | Vinyl LP Album Limited Edition Misprint Reissue Remastered Stereo (Red Opaque, 140 gr.) |
+| Format         | 1× Vinyl (Red Opaque, 140 gr.) LP, Album, Limited Edition, Misprint, Reissue, Remastered, Stereo |
 | Label          | Upbeat Records (2) |
 | Catalog Number | 19439966461 |
 | Notes | Comes with printed inner sleeve. Track B1 "Stickshifts And Safetybelts" is misspelled on cover reverse as "Stickshifts And Saftybelts". |

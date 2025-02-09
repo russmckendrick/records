@@ -134,7 +134,7 @@ But it’s not just banger after banger: Tame Impala’s trippy intergalactic di
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Albums |
-| Format         | Box Set Compilation Limited Edition Special Edition, Vinyl LP Album Reissue (White, 180g), Vinyl 2× LP Compilation Reissue (Gold. 180g), Vinyl 2× LP Album Reissue (Maroon, Gatefold, 180g), Vinyl LP Album Reissue (Green, 180g), Vinyl 2× LP Album Reissue (Pink, 180g) |
+| Format         | 1× Box Set Compilation, Limited Edition, Special Edition | 1× Vinyl (White, 180g) LP, Album, Reissue | 2× Vinyl (Gold. 180g) LP, Compilation, Reissue | 2× Vinyl (Maroon, Gatefold, 180g) LP, Album, Reissue | 1× Vinyl (Green, 180g) LP, Album, Reissue | 2× Vinyl (Pink, 180g) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX49X |
 | Notes | Limited to 1,000 units  Includes an exclusive 12 x 12 print signed by the band  Includes a booklet with written notes by each member and a piece by journalist Keith Cameron  Track F6, "Untitled," is the song For The Dead (Demo Version), the same song that is listed by name in the 2014 Deluxe Edition CD reissue [r5433760].  |

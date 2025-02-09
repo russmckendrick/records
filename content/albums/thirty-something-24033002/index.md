@@ -83,7 +83,7 @@ Thirty Something (Chinese: 我的30定律; pinyin: wo de san shi ding lu; litera
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thirty_Something_(Taiwanese_TV_series) |
-| Format         | Vinyl 4× 12" Album (180g), Box Set |
+| Format         | 4× Vinyl (180g) 12", Album | 1× Box Set |
 | Label          | Orbital Recordings Ltd. |
 | Catalog Number | LMS5521698 |
 | Notes | Boxes ordered directly from Townsend Music came with an exclusive signed print. 12" x 12" fold out booklet with new sleeve notes by Andrew Harrison. Plus exclusive ’30 Something’ slip mat.  Runouts are etched, apart from MPO logo and subsequent digits on sides A to F, which are laser etched. |

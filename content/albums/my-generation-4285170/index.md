@@ -60,7 +60,7 @@ The album was made immediately after the Who got their first singles on the char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Generation_(album) |
-| Format         | Vinyl LP Album Reissue Repress Mono |
+| Format         | 1× Vinyl LP, Album, Reissue, Repress, Mono |
 | Label          | Brunswick |
 | Catalog Number | 3715603 |
 | Notes | Standalone repress of the 2012 cut, originally used for [r=4043005] box. Released on 180g vinyl (not mentioned on the release). Cut at Metropolis ('M' logo in the runouts).   No "ABBEY ROAD" in the runouts.  Similar editions: [r=26857655]: "ABBEY ROAD" in the runouts (another 2015 edition). [r=23421197]: "ABBEY ROAD" in the runouts but with longer runouts / different runout format.  Runouts are stamped except for the 'M' logo and "MILES", which are etched.  [On back cover:]  ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company. [...] Made in the EU.  [On labels:] [...] Long Playing Microgroove Record Made in England. Brunswick Ltd. London. |

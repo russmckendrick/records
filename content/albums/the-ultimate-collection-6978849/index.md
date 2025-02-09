@@ -68,7 +68,7 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Ultimate_Collection_(Paul_Simon_album) |
-| Format         | Vinyl 2× LP Compilation (180g) |
+| Format         | 2× Vinyl (180g) LP, Compilation |
 | Label          | Sony Music |
 | Catalog Number | 88875085521 |
 | Notes | ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved. Distributed by Sony Music Entertainment. Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU.  Gatefold cover. Includes an eight page lyric booklet. |

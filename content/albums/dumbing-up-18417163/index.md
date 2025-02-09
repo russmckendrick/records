@@ -74,7 +74,7 @@ Dumbing Up is the fifth and final studio album by World Party, released in 2000 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dumbing_Up |
-| Format         | Vinyl 2× LP Album Misprint Reissue Remastered Stereo (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Misprint, Reissue, Remastered, Stereo |
 | Label          | Seaview |
 | Catalog Number | Seaview 5LP |
 | Notes | 180 gram vinyl reissue. This 2 LP version is first time on vinyl.  This release combines the tracks from the original 2000 UK CD release, the 2006 US CD release and adds 'I Want to Be Free', 'Nothing Lasts Forever', 'Words' and 'Photograph'.  Spine erroneously reads "Private Revolution."  Lyrics for "Who Are You?" are actually those of "What Does It Mean Now?"  Rear cover & labels: Manufactured in the USA. |

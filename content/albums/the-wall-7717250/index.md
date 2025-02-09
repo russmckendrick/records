@@ -112,7 +112,7 @@ The audio is presented in 7.1.4-channel Dolby Atmos.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roger_Waters:_The_Wall |
-| Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
+| Format         | 3× Vinyl (Tri-Fold, 180 Gram) LP, Album |
 | Label          | Columbia |
 | Catalog Number | 88875155411 |
 | Notes | The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur |

@@ -58,7 +58,7 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Solitude_Standing |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | A&M Records |
 | Catalog Number | B0026079-01 |
 | Notes | 2017 reissue. Black vinyl. MASTERED BY CAPITOL stamped on Side A only. |

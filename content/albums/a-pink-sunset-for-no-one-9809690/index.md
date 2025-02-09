@@ -53,7 +53,7 @@ styles: ["Ambient", "Drone"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Fire Records |
 | Catalog Number | FIRELP401 |
 | Notes | Noveller is Sarah Lipstate.  Recorded in Brooklyn, NY and Lafayette, LA November 2015-April 2016.  Dedicated to Gene Lipstate.   Includes download code. |

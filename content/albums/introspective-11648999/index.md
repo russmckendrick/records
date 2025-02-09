@@ -56,7 +56,7 @@ Introspective is the third studio album by English synth-pop duo Pet Shop Boys, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Introspective |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295831950 |
 | Notes | [White sticker on shrinkwrap] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover] Domino Dancing produced for Pantera Productions. The Voice In Fashion courtesy of [l2922].  I'm Not Scared. Newsreel soundtrack (Paris, 1968) supplied by Independent Television News  "Introspective" is a digital recording, digitally mixed and mastered  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Issued with printed inner sleeve.  Runouts are etched except “Ⓜ”, which is stamped. Optimal Media special plates symbols are mirrored. |

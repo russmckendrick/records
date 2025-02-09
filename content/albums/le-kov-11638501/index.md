@@ -60,7 +60,7 @@ The songs on Le Kov are written and composed by Gwenno Saunders with help from R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Le_Kov |
-| Format         | Vinyl LP Album (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP145C |
 | Notes | Light blue coloured vinyl. Includes download code.  Lyrics and credits printed in both Cornish and English.  Mixed and additional programming ... for Solar Management Ltd  Copies pre-ordered directly from [l889] coming signed by the artist.  |

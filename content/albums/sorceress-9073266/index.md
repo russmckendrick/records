@@ -74,7 +74,7 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sorceress_(Opeth_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 3822-1 |
 | Notes | Recorded at Rockfield Studios, Monmouthshire, Wales during 12 days of May, 2016 Strings recorded at RAK Studios, London Additional recordings done at Junkmail Studios, Stockholm, Sweden and at Psalms Studios, Bath, UK  Engineered and mixed at Rockfield & Psalm Studios Mastered at Metropolis Studios  Published by Kobalt Music Services Ltd., except "Strange Brew" published by Kobalt Music Services Ltd. / Copyright Control  ℗ + © 2016 Moderbolaget Records  Gatefold sleeve with 2 inserts |

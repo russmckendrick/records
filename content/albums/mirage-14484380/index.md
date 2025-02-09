@@ -67,7 +67,7 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mirage_(Fleetwood_Mac_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Violet) |
+| Format         | 1× Vinyl (Violet) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Warner Records |
 | Catalog Number | RCV1 23607 |
 | Notes | Limited Edition Violet Coloured Vinyl.  |

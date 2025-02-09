@@ -63,7 +63,7 @@ styles: ["Vocal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue Mono |
+| Format         | 1× Vinyl LP, Compilation, Reissue, Mono |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50529 |
 | Notes | On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |

@@ -117,7 +117,7 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Am_Easy_to_Find_(album) |
-| Format         | Vinyl LP (Red), Vinyl LP (Yellow), Vinyl LP Single Sided Etched (Grey), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Red) LP | 1× Vinyl (Yellow) LP | 1× Vinyl (Grey) LP, Single Sided, Etched | 1× All Media Album, Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0154LPX |
 | Notes | Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors. 5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format. Etching on the 6th side.  Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.  Includes digital download card for tracks A1 to D4. |

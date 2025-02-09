@@ -55,7 +55,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Stereo (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition, Numbered, Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP770G |
 | Notes | This is the 500-only limited-edition, individually-numbered green vinyl version available exclusively from Acid Jazz.  Released in special collaboration with Acid Jazz, the album is presented in a beautiful graphic sleeve, with notes that allude to the original KPM releases, for something that is instantly hip and familiar, yet unmistakably new.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono"  Also note the runout for side B is the same as the runout for side A - Both have ".../A" |

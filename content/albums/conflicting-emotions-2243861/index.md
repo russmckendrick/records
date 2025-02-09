@@ -63,7 +63,7 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Conflicting_Emotions |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLX 64963 |
 | Notes | Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP |

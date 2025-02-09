@@ -63,7 +63,7 @@ Earthling charted better than its predecessor and reached the top ten in several
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earthling_(album) |
-| Format         | Vinyl LP Album Record Store Day Reissue (Green, 180g) |
+| Format         | 1× Vinyl (Green, 180g) LP, Album, Record Store Day, Reissue |
 | Label          | ISO Records |
 | Catalog Number | FRM-42627 |
 | Notes | Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.  Recorded at Looking Glass Studios Mixed at Right Track Originally mastered at Gateway Mastering Studios Inc. Portland, Maine (Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA  © 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment ℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment  Title is written as "EART HL I NG" on the cover.  Premium Vinyl Pressing HQ-180 RTI   ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine  |

@@ -89,7 +89,7 @@ An updated edition of Singles was released on 9 September 2016, which adds "I'll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singles_(New_Order_album) |
-| Format         | Vinyl 4× LP Compilation Remastered, Box Set |
+| Format         | 4× Vinyl LP, Compilation, Remastered | 1× Box Set |
 | Label          | Warner Music |
 | Catalog Number | 0825646069620 |
 | Notes | Additions in the new "Singles" 4xLP (Remastered 2016) / Omissions from the "Singles" 2xCD (2005):  B2 - Confusion (UK 7" Promo Edit) replaces "Confusion (''Singles'' Unique Edit) " C1 - The Perfect Kiss (7" Edit) replaces "The Perfect Kiss (Album Version)" D1 - Bizarre Love Triangle (7" Remix Edit) replaces "Bizarre Love Triangle (Album Version)" D2 - True Faith (7" Edit) replaces "True Faith (Album Version)" E3 - Run 2 (7" Remix Edit) replaces "Run (Album Version)" F5 - Nineteen63 (Arthur Baker Radio Remix) replaces "1963 (''Singles'' Unique Edit)" F4 - Spooky (Minimix) replaces "Spooky (Radio Edit)" .................................................................  H4 - I'll Stay With You (Lost Sirens LP Version) is an extra/bonus track in this remastered version. ..................................................................  Tracks first time on vinyl:  F4 - Spooky (Minimix) G1 - Crystal (Radio Edit) G2 - 60 Miles an Hour (Radio Edit) H3 - Turn (Stephen Street Edit)  Contains a [l873810] download coupon. |

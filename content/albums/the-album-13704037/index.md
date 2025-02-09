@@ -53,7 +53,7 @@ From contemporary reviews, American critics J. D. Considine and Ken Tucker predo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Album_(Mantronix_album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Demon Music Group |
 | Catalog Number | DEMREC 364 |
 | Discogs URL    | [Mantronix - The Album](https://www.discogs.com/release/13704037-Mantronix-The-Album) |

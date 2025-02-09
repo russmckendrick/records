@@ -57,7 +57,7 @@ Your Wilderness is the eleventh studio album by British rock band The Pineapple 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Your_Wilderness |
-| Format         | Vinyl LP Album (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE921 |
 | Notes | Made in Germany Download code and inner laminated booklet included. |

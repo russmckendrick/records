@@ -114,7 +114,7 @@ styles: ["Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 6× LP Compilation Remastered, Box Set |
+| Format         | 6× Vinyl LP, Compilation, Remastered | 1× Box Set |
 | Label          | Parlophone |
 | Catalog Number | 0190295021962 |
 | Discogs URL    | [Pet Shop Boys - Smash (The Singles 1985-2020)](https://www.discogs.com/release/27393912-Pet-Shop-Boys-Smash-The-Singles-1985-2020) |

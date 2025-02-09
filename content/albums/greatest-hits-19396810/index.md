@@ -73,7 +73,7 @@ Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Thin_Lizzy_album) |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | UMC |
 | Catalog Number | 3559306 |
 | Notes | Embossed gatefold sleeve. |

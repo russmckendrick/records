@@ -56,7 +56,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Caramel) |
+| Format         | 1× Vinyl (Caramel) LP, Album, Reissue |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251B |
 | Notes | 10th Anniversary Edition - Caramel colored vinyl  Made in EU. |

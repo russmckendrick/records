@@ -65,7 +65,7 @@ Some Old Bullshit, also known as Some Old B******t, is a compilation album by th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Old_Bullshit |
-| Format         | Vinyl LP Compilation Reissue (180gram) |
+| Format         | 1× Vinyl (180gram) LP, Compilation, Reissue |
 | Label          | Grand Royal |
 | Catalog Number | GR 003 |
 | Notes | ℗ 1994 © 2020 Capitol Records, LLC and Beastie Boys 2021 reissue on black 180g vinyl.  © and ℗ of the Beastie Boys, 1982  Made in the E.U.  Antistatic white innersleeve.  Hype Sticker : "Featuring Beastie Boys' Earliest Recordings Including EGG RAID ON MOJO and COOKY PUSS on 180gram VINYL 0062507458256"  Come with a 4 pages insert.  #'s 1 and 10 were recorded on 4 track cassette by Greg Cewdson and Eric Hoofert then taped from Tim Sommer's "Noise The Show" radio program.  #'s 2 through 9 were recorded at 171A studios, engineered by Scott Jarvis, and produced by Beastie Boys and Scott Jarvis in the winter of 1981.  #'s 11 trough 14 were recorded at Celebration recordings, engineered by Dug Pomeroy, and produced by Beastie Boys and Dug Pomeroy on March of 1983  Side A = [m20098] Side B = [m20205] |

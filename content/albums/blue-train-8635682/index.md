@@ -53,7 +53,7 @@ Coltrane wrote four of the record's five tracks. His playing exhibits early elem
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Train_(album) |
-| Format         | Vinyl LP Album Reissue Stereo (Blue, 180 Gram, Die-cut Sleeve) |
+| Format         | 1× Vinyl (Blue, 180 Gram, Die-cut Sleeve) LP, Album, Reissue, Stereo |
 | Label          | DOL |
 | Catalog Number | DOL709MB |
 | Discogs URL    | [John Coltrane - Blue Train ](https://www.discogs.com/release/8635682-John-Coltrane-Blue-Train-) |

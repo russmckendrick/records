@@ -61,7 +61,7 @@ The album was released by the RCA subsidiary Indolent Records in the UK in Augus
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Be_a_Girl |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Yellow Transparent) |
+| Format         | 1× Vinyl (Yellow Transparent) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2302 |
 | Notes | Limited edition of 1,000 machine numbered copies. Made in the EU. Includes black and white insert. |

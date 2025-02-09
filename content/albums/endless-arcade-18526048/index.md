@@ -65,7 +65,7 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Endless_Arcade |
-| Format         | Vinyl LP Album Limited Edition (Green Translucent, Die Cut Sleeve) |
+| Format         | 1× Vinyl (Green Translucent, Die Cut Sleeve) LP, Album, Limited Edition |
 | Label          | Pema |
 | Catalog Number | PEMA14LPC |
 | Notes | Recorded at Clouds Hill Recordings in Hamburg and at Raymond's place in Glasgow. Additional overdubs recorded at Rockfield Studios near Monmouth. Mixed in Glasgow. Some of Euros' backing vocals recorded in Cardiff. Mastered at Iterative Mastering.  Limited Edition Translucent Green vinyl LP in die-cut sleeve pressed in a total number of 1000 copies.  Some copies with a signed print.  PEMA14LPC on sticker. PEMA14LP on labels and spine. |

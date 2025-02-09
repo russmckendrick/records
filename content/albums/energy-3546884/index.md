@@ -68,7 +68,7 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Energy_(Operation_Ivy_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 86893-1 |
 | Notes | Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork. |

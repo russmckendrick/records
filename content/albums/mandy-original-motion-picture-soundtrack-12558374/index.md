@@ -66,7 +66,7 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album |
 | Label          | Lakeshore Records |
 | Catalog Number | LKSINV203LP |
 | Notes | Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC. |

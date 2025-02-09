@@ -61,7 +61,7 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange, 180g) |
+| Format         | 1× Vinyl (Orange, 180g) LP, Album, Limited Edition, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 654 |
 | Notes | Record Store Day 2020 DROP#3 release.  Runouts are stamped |

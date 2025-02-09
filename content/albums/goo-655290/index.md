@@ -99,7 +99,7 @@ Later, Lee Ranaldo said that part of the reason the band went to a major label w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Goo_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Remastered, Box Set |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP, Remastered | 1× Box Set |
 | Label          | Goofin' Records |
 | Catalog Number | GOO-07 |
 | Notes | "That's All I Know (Right Now)" originally recorded by Neon Boys. "I Know There's an Answer" originally recorded by The Beach Boys. A1 to D1 recorded at Sorcerer Sound and Greene Street, NYC, 1990. D2, H3 recorded at Wharton Tier's Studio, 1990. D3 recorded live at Crawford Hall, Irvine, CA - 3rd November 1990. D4 recorded at Sorcerer Sound, NYC, 1990 D5, H4 recorded during rehearsal at Hoboken, NJ - 27th October 1989. E1 to H1 recorded at Waterworks, NYC, Nov 1989.  Sides one through three consist of the remastered "Goo" reissue; the remaining sides contain compiled bonus material.  16-page printed color booklet, photographic inner sleeves. |

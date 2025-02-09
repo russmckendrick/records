@@ -65,7 +65,7 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Blue_Elephant |
-| Format         | Vinyl LP Album Limited Edition Stereo (Mustard) |
+| Format         | 1× Vinyl (Mustard) LP, Album, Limited Edition, Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP578M |
 | Notes | 'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020       |

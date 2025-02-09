@@ -61,7 +61,7 @@ It was the band's most successful album commercially, selling over 63,000 copies
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life_(album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Plain Recordings |
 | Catalog Number | Plain176 |
 | Notes | reissue comes with gatefold sleeve and download code.  |

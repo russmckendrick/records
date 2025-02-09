@@ -81,7 +81,7 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Distance_Over_Time |
-| Format         | Vinyl 2× LP Album Stereo (180 gram), CD Album Stereo |
+| Format         | 2× Vinyl (180 gram) LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 523 |
 | Notes | This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering |

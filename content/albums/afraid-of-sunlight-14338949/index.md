@@ -105,7 +105,7 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Afraid_of_Sunlight |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Remixed, 180 Gram), Vinyl 3× LP Album (180 Gram), Box Set Deluxe Edition Limited Edition |
+| Format         | 2× Vinyl (Remixed, 180 Gram) LP, Album, Reissue, Remastered | 3× Vinyl (180 Gram) LP, Album | 1× Box Set Deluxe Edition, Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295477226 |
 | Notes | Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd. Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd. Labels and booklet: Made in the EU. Comes with 20 page booklet. Hype sticker on front First 4000 copies ordered at the Marillion Store come with signed A4 print  All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url].  |

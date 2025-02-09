@@ -52,7 +52,7 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | WEA |
 | Catalog Number | 252 496-1 |
 | Notes | Recorded at Air Studios Montserrat, Air London and The Farm.  ⓟ&© 1985 WEA International Inc. |

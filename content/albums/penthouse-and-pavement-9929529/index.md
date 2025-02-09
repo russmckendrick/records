@@ -62,7 +62,7 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Penthouse_and_Pavement |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | 0602547941602 |
 | Notes | Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.    |

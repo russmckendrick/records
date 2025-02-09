@@ -62,7 +62,7 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kimono_My_House |
-| Format         | Vinyl LP Album Reissue (Green [Caramel Apple]) |
+| Format         | 1× Vinyl (Green [Caramel Apple]) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1269 |
 | Notes | Manufactured in the EU.  ℗ 1974 Universal Music Operations Limited © 1974, 2024 Universal Operations Limited Licensed courtesy of Universal Operations Limited  Runouts are machine-etched. |

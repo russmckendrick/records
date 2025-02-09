@@ -62,7 +62,7 @@ The Number of the Beast was met with critical and commercial success, and became
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Number_of_the_Beast_(album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 2564625240 |
 | Notes | Printed in EU on backside cover.  Made in EU in rim text on label.  Glossy cover and printed inner sleeve with photos, lyrics & credits.  Iron Maiden wanna thank the following for their support: [a2089275], Vic "Crazy Innit" Vela, Tony "Wiggy" Wigens, Nigel Gibbons, Colin "know wot I mean John" Claydon, Doug "Professor" Hall, [a2089267], Pete Brotzman, Pete "Institute' Kirkman, Dave "Alright shirt" Evans, [a6784522]: Loopey: Ronan, Roger and Derek at [a4792921]: Charlie Kail and his Brilliant Constructions: Neal Peppé: Derek "Blood 'n' Guts everywhere" Riggs: Home Boy: John "We want more" Jackson: [a3438994]: Howard "Hawk-eye" Jones: Alex "Alectron" Alexandro: Mike Kenny: Bernie, NoNo, ViVi, Moro (Trust): Nico: Maurice, Thomas, Werner, Albert, Alain, Franco, Max, Leon, Andre, Mr. Udo, Tak, Ishi and Carlos - the promotors: Tama, Ibanez, Paiste, Picato, Marshall, Rotosound: R.S.D.: [a1456861]: [a4771539]: Auntie Tina: Paul Ratsworthy: Ken Jenkins: Paull Sears: [a4344760]: Phil Aquilina. Special thanks to [a153073], Priest and [a153677].  This album is dedicated to Headbangers, Earthdogs, Rivet Heads, Hell Rats and Metal Maniacs everywhere! See you on tour!  This album was recorded on Ruddles, with a little help from Remy and Carlsberg. "Up The Irons". |

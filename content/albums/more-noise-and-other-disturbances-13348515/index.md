@@ -59,7 +59,7 @@ More Noise and Other Disturbances is the second studio album by the American ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/More_Noise_and_Other_Disturbances |
-| Format         | Vinyl LP Album Reissue Repress (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Reissue, Repress |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! 60 |
 | Discogs URL    | [The Mighty Mighty BossToneS - More Noise And Other Disturbances](https://www.discogs.com/release/13348515-The-Mighty-Mighty-BossToneS-More-Noise-And-Other-Disturbances) |

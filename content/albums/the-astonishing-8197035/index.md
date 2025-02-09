@@ -92,7 +92,7 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Astonishing |
-| Format         | Box Set, Vinyl 2× LP, Vinyl 2× LP, All Media Album (180g) |
+| Format         | 1× Box Set | 2× Vinyl LP | 2× Vinyl LP | 1× All Media (180g) Album |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7493-1 |
 | Notes | Story by John Petrucci  The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018. Made in the EU  Durations do not appear on this release. Timings via stopwatch. |

@@ -52,7 +52,7 @@ styles: ["Folk Rock", "Neofolk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I%27d_Love_You_All_Over_Again |
-| Format         | Vinyl LP Limited Edition Stereo (Lung Pink Vinyl) |
+| Format         | 1× Vinyl (Lung Pink Vinyl) LP, Limited Edition, Stereo |
 | Label          | Full Time Hobby |
 | Catalog Number | FTH542LPA |
 | Notes | Tunng's eighth studio album. Limited edition Lung Pink vinyl with art print |

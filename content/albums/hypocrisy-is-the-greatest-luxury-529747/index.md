@@ -71,7 +71,7 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hypocrisy_Is_the_Greatest_Luxury |
-| Format         | Vinyl LP Album, Vinyl 12" Single Sided, All Media Limited Edition |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 12", Single Sided | 1× All Media Limited Edition |
 | Label          | 4th & Broadway |
 | Catalog Number | BRLPX 584 |
 | Notes | Fourth & Broadway is a division of Island Records ℗ 1992 Island Records Inc Except Side A, tracks 3 to 5 ℗ 1991 Island Records Inc. © 1992 Island Records Inc. The Copyright In This Sound Recording And Of This Artwork Is Owned By Island Records Inc, And Is Exclusively Licensed to Island Records Ltd, In The UK.  The initial copies of this album included the single-sided 12" "Rock The Vote (Exercise Your Right)".  This was released prior to the 1992 elections as a measure to encourage voting.  Sticker on sleeve reads: "BUY EARLY & GET FREE 12"!!! initial copies of the good old-fashioned vinyl copies of this album will contain an extra 12" including: EXERCISE YOUR RIGHT 12" bootleg vote-a-go-go track"  The catalogue # on the cover spine and back cover is: BRLPX 594.512 259-1. This is reflected in the barcode which ends 2591 Runouts are machine-stamped except for the 'S.D/S.MON./THE EXCHANGE' markings which are hand-etched. Bonus 12" issued in a generic white paper inner LP issued in a printed inner with lyrics sheet/credits Lyrics sheet contains several mistakes including "In the 1270s" which should be "In the 1970s" in Satanic Reverses.  |

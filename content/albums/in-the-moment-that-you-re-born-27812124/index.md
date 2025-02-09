@@ -57,7 +57,7 @@ styles: ["Alternative Rock", "Grunge"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition |
 | Label          | Loosegroove Records |
 | Catalog Number | LGR0013 |
 | Notes | Indie exclusive on pink vinyl.  B4 titled "I'm Diggin U" on jacket and "I'm Diggin You" on label. |

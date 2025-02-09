@@ -67,7 +67,7 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dirt_(Alice_in_Chains_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Yellow Opaque, 30th Anniversary) |
+| Format         | 2× Vinyl (Yellow Opaque, 30th Anniversary) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439986771 |
 | Notes | Indie exclusive Limited edition Opaque yellow vinyl. Comes with a double-sided lyrics insert and a yellow hype sticker on the plastic shrink-wrap. Available for the first time on vinyl as a 2-LP set with remastered audio.  Track C4 is not listed on the track-listing. It was originally titled "Iron Man", featuring the opening line from the famous Black Sabbath track. On retrospective releases by the band it has been re-titled "Iron Gland".  Tracks A1, A2, B1, B3, D3: © 1992 Buttnugget Publishing (ASCAP) Track A3: © 1992 Buttnugget Publishing/Jack Lord Music/Lungclam Music/Phlembot Music (ASCAP) Tracks B2, C1, C2, C3: © 1992 Buttnugget Publishing/Jack Lord Music (ASCAP) Tracks D1, D2: Jack Lord Music (ASCAP) Lyrics reproduced by kind permission of the publishers.  Made in EU. |

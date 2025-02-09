@@ -56,7 +56,7 @@ For a full list of the band's songs, see List of songs by Status Quo.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Status_Quo_discography |
-| Format         | Vinyl LP Album Reissue (180gr) |
+| Format         | 1× Vinyl (180gr) LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723764 |
 | Notes | Comes as 180 gram Vinyl with a poster and a 4-page inlay  © 1974 Mercury Records Limited/Universal Music Catalogue ℗ 1974 Mercury Records Limited   |

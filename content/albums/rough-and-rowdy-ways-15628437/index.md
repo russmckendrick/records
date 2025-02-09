@@ -72,7 +72,7 @@ And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rough_and_Rowdy_Ways |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Olive ) |
+| Format         | 2× Vinyl (Olive ) LP, Album, Limited Edition, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439780991 |
 | Notes | Gatefold jacket with printed inner sleeves. Includes a download code card.  Hype sticker (all caps): 'Bob Dylan The new album Limited edition olive vinyl Exclusive Includes digital download 19439780991 S1'  © & ℗ 2020 Columbia Records, a division of Sony Music Entertainment Made in the EU.  Runouts:  'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched. Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'. |

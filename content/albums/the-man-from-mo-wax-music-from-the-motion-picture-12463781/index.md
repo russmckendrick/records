@@ -67,7 +67,7 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Red) LP | 1× Vinyl (Blue) LP | 1× All Media Compilation, Limited Edition |
 | Label          | UMC |
 | Catalog Number | 6727901 |
 | Notes | Gatefold sleeve.  Including download code and director's notes. |

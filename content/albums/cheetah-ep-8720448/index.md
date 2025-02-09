@@ -57,7 +57,7 @@ After the vibrant frenzy of <i>Syro</i>, Richard D. James slows down. The <i>Che
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP |
 | Label          | Warp Records |
 | Catalog Number | WAP391 |
 | Notes | Printed on back cover sticker: BMG / Chrysalis Written & produced @ the Dandelion Spaceship (pre-[m=734427]) ℗ 2016 Warp Records Ltd © 2016 Warp Records Ltd Warp.net / Records WARP logo / Aphex Twin logo / MITDR Logo™️ Aphex is a registered trademark of Aphex Systems Ltd and is used by permission Made in EU  Printed on label, Side A: Aphex Twin Function B1-B2. is on the other side  Printed on label, Side B: Please flip disc over to access WAP391 Aphex Twin Program A1-A4.  Printed on spine:  Aphex Twin Cheetah EP  Printed on download card: Aphex Twin Cheetah EP  Other notes: Glossy inner sleeve |

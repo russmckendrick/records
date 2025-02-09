@@ -62,7 +62,7 @@ The European part of the tour opened with a special one-off gig at the ancient R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Untouchable_(Anathema_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE843 |
 | Notes | Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.  Gatefold sleeve  Made in Germany. |

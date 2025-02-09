@@ -53,7 +53,7 @@ styles: ["Reggae", "Punk", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Limited Edition Reissue Stereo |
+| Format         | 1× Vinyl LP, Record Store Day, Limited Edition, Reissue, Stereo |
 | Label          | Skunk Records (2) |
 | Catalog Number | B0024479-01 |
 | Notes | 25th Anniversary Record Store Day Exclusive.  420 [url=https://www.discogs.com/Sublime-Jah-Wont-Pay-The-Bills/release/8397530]Green vinyl[/url] out of the lot were randomly distributed to indie shops. The remainder are on black vinyl (this). |

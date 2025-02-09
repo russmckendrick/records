@@ -68,7 +68,7 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Guns_N%27_Roses_album) |
-| Format         | Vinyl 2× LP Compilation Limited Edition (Gold With White & Red Splatter) |
+| Format         | 2× Vinyl (Gold With White & Red Splatter) LP, Compilation, Limited Edition |
 | Label          | Geffen Records |
 | Catalog Number | 00602435054032 |
 | Notes | Guns N' Roses Greatest Hits is being released on 2LP vinyl for the very first time. The band is in full support of the vinyl reissue and have approved the rework of the artwork for a new feel with different colours and new photos. The collection is also being updated with their latest hit "Shadow Of Your Love" from the 2018 Appetite For Destruction: Locked N' Loaded boxset.  Made in Germany. |

@@ -65,7 +65,7 @@ Drink Me is the first studio album by English Britpop band Salad, released in Ma
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drink_Me_(Salad_album) |
-| Format         | Vinyl LP Album (140g Vinyl) |
+| Format         | 1× Vinyl (140g Vinyl) LP, Album |
 | Label          | Island Red Label |
 | Catalog Number | IRLP 1002 |
 | Notes | Inner sleeve with lyrics & credits.  Includes print signed by Marijne van der Vlugt  "All lyrics reproduced by kind permission of the publisher."  |

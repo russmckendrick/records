@@ -65,7 +65,7 @@ On an Island is the third solo studio album by Pink Floyd member David Gilmour. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_an_Island |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | 0946 3 55695 1 3 |
 | Notes | Made in the EU.    It comes in heavy gatefold cover with poster   |

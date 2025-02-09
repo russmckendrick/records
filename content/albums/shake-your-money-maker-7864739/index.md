@@ -62,7 +62,7 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | American Recordings |
 | Catalog Number | B0018989-01 |
 | Notes | 2015 Reissue released by American Recordings |

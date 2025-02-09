@@ -72,7 +72,7 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Phantomime_(Ghost_EP) |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition (Silver) |
+| Format         | 1× Vinyl (Silver) 12", 33 ⅓ RPM, EP, Limited Edition |
 | Label          | Loma Vista |
 | Catalog Number | LVR03333 |
 | Notes | 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |

@@ -77,7 +77,7 @@ Stevie Wonder: The Definitive Collection is a compilation album, released in 200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Definitive_Collection_(Stevie_Wonder_album) |
-| Format         | Vinyl 2× LP Compilation Reissue Stereo (Gold Marbled Translucent) |
+| Format         | 2× Vinyl (Gold Marbled Translucent) LP, Compilation, Reissue, Stereo |
 | Label          | Motown |
 | Catalog Number | 00602475152798 |
 | Notes | Gatefold sleeve The artist and title are indicated in Braille on the front cover. "Made in Czech Republic" (on sticker) Printed inner sleeves with credits  ℗© 2024 UMG Recordings, Inc.  First Issued A1 - May 1963 - [m239987] A2 - November 1965 - [m272936] A3 - November 1966 - [m90313] A4 - May 1967 - [m112032] A5 - October 1968 - [m112037] A6 - January 1969 - [m283019] A7 - June 1970 - [m157082] B1, B2 - October 1972 - [m87446] B3 - July 1973 - [m157084] B4 - August 1973 - [m86466] C1, C2 - July 1974 - [m87463] C3, C4 - September 1976 - [m87440] C5 - September 1980 - [m102527] D1 - December 1981 - [m120690] D2 - May 1982 - [m163049] D3 - August 1984 - [m120669] D4 - September 1985 - [m87474] D5 - August 1985 - [m120686] |

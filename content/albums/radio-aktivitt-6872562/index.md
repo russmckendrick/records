@@ -64,7 +64,7 @@ styles: ["Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99587 1 7 |
 | Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider  ℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.  Printed In EU   Include a huge booklet in LP-size |

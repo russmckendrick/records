@@ -71,7 +71,7 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hounds_of_Love |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Coloured) |
+| Format         | 1× Vinyl (Coloured) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Fish People |
 | Catalog Number | 0190296729041 |
 | Notes | No. 4 in HMV's exclusive run of classic albums on coloured vinyl to celebrate their 100th anniversary. Released in a matte full picture sleeve with exclusive obi, lyrics inner sleeve (also matte).  Each album is unique in that they are pressed with recycled vinyl of various colours. 1500 copies pressed. Applied to the shrink-wrap may be one or more merchant retailing stickers. Additionally, there is a white circular hype sticker which has the text in the same font as the sleeve.  The new barcode and catalogue number are printed on the silver card Obi strip.  Made in the E.U. Labels: ℗ 1985 except The Big Sky 1986. © 1985 Noble & Brite Ltd. Sleeve: ℗ & © 2018 Noble & Brite Ltd. |

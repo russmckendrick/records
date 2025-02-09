@@ -128,7 +128,7 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool |
-| Format         | Vinyl 2× LP Album (180g), CD 2× Album, All Media Special Edition |
+| Format         | 2× Vinyl (180g) LP, Album | 2× CD Album | 1× All Media Special Edition |
 | Label          | XL Recordings |
 | Catalog Number | LLLPLLPLP01 |
 | Notes | Case bound album, inspired by the albums for 78rpm shellac records in the library of La Fabrique, France 32 pages of artwork The 11 track album on two heavyweight 12" vinyl records Two compact discs: one with the album and one with two extra tracks Recording tape belly band applied *  * This is a piece of a Radiohead ½ inch master tape from an actual recording session. The tape degrades over time and becomes unplayable. We thought rather than it ending up as landfill we would cut it up and make it useful as a part of the special edition. A new life for some obsolete technology... Each loop contains about ¾ of a second of audio - which could be from any era in the band's recording past going back to Kid A.  Assistant engineer at La Fabrique Studio: Maxime LeGuil  ℗ 2016 LLLP LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP LLP under exclusive license to XL Recordings Ltd. Published by Warner/Chappell Music Ltd  In memory of Vic Goodrich 1936-2015 and Scott Johnson 1979-2012 |

@@ -60,7 +60,7 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flowers_of_Evil_(Ulver_album) |
-| Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
+| Format         | 1× Vinyl (Crystal Clear) LP, Album, Limited Edition |
 | Label          | House of Mythology |
 | Catalog Number | HOM023LPC |
 | Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve. Includes a 12" matte paper four-page booklet.  Pressed in 1000 copies.  |

@@ -61,7 +61,7 @@ styles: ["Heavy Metal", "Groove Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Purple, 180 Gram) |
+| Format         | 1× Vinyl (Purple, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP534 |
 | Notes | Limited to 2000 machine-numbered copies. |

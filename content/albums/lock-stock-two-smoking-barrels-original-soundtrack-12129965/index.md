@@ -69,7 +69,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Island Records |
 | Catalog Number | 0602557733556 |
 | Notes | Contains dialogues taken from the movie: tracks A2, A5, B4, C1, C3, C5, C7, D4.  The Stone Roses are mistakenly called The Stones Roses on the hype sticker, on top of the back side of the sleeve and on the label of side 4. Only on the track listing below on the back of the sleeve it's spelled correctly. (See pictures) |

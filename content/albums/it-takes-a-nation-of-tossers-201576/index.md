@@ -54,7 +54,7 @@ styles: ["Pop Rap", "Parody"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Son Records |
 | Catalog Number | SON 026 |
 | Notes | Track B6 recorded live on the Steve Lamacq Show Radio One - 2002  Sleeve notes:  Pitman Sez - Welcome to my world.  You'll either love it or hate it. Either Way.  You're edging closer towards smelling the tea or smelling my nuts when you kiss ya mam.  Peace  Please note that if any of the general public feel the need to replicate Pitman's look either seriously or in a fancy dress style.  Pitman requests that you use British Coal in all circumstances.   |

@@ -63,7 +63,7 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Presence_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
+| Format         | 1× Vinyl (180g, Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Swan Song |
 | Catalog Number | 8122796579 |
 | Notes | Housed in a gatefold jacket and issued in a white poly lined inner sleeve. The jacket has the following embossed details: LED ZEPPELIN PRESENCE at the top right corner on the front, and the Swan Song angel at the bottom left corner on the rear. Includes a large format insert which is identical on both sides.  Runouts are etched. Runout side A, variant 2: string '2X' is inverted Runout side B, variant 2: string '41T' is inverted Runout side A, variant 3: string '21V' is inverted Runout side B, variant 3: string 'V9' is inverted  [Sticker on shrink wrap:] The classic 1976 album on 180G vinyl Includes Achilles Last Stand & Nobody's Fault But Mine Remastered & Produced by Jimmy Page  [Rear sleeve:] Swan Song Inc. ℗ & © 1976 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU. "The Object" © 1976 Swan Song Inc.  [Insert:] Recorded and mixed at Musicland Studios Munich West Germany |

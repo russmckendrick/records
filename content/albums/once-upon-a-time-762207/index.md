@@ -55,7 +55,7 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Once_Upon_a_Time_(Simple_Minds_album) |
-| Format         | Vinyl LP Album Picture Disc |
+| Format         | 1× Vinyl LP, Album, Picture Disc |
 | Label          | Virgin |
 | Catalog Number | VP 2364 |
 | Notes | Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.  Recorded at Townhouse Studios, London.   |

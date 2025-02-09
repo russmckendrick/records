@@ -51,7 +51,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Lojinx |
 | Catalog Number | LJX111LP |
 | Notes | Black vinyl. |

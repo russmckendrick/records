@@ -62,7 +62,7 @@ There are more straightforward moments here, especially the piano ache of “Cod
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_King_of_Limbs |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Ticker Tape Ltd. |
 | Catalog Number | TICK001LP |
 | Notes | Mastered at Gateway Mastering & DVD ℗ & © 2011 Ticker Tape Ltd. Published by Ticker Tape Ltd. Made in the EU  PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve  Includes a voucher for an MP3 download of the album and a printed inner sleeve.  Download link now redirects to a different page and codes are no longer accepted for download. |

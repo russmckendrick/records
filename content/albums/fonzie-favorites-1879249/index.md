@@ -67,7 +67,7 @@ styles: ["Rock & Roll", "Ballad", "Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation |
+| Format         | 1× Vinyl LP, Album, Compilation |
 | Label          | Warwick Records |
 | Catalog Number | WW5037 |
 | Notes | The last track on Side One is an "impressionist" track containing the expressions Aaaaay, Cool, Nerd, Sit on it! Listen and learn to use Fonzie's favorite phrases perfectly!  Cat. no WW5037 on sleeve, WW 5037 on labels.  Novelty cover: back is die cut to open up like a picture frame stand.  Front cover photo credit - TRI-ADS/Sid Brawer © 1976 Paramount Pictures © 1976 Tri-Ads |

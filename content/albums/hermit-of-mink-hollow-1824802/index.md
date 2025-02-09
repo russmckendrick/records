@@ -65,7 +65,7 @@ The album was well-received by critics and fans, who viewed the record as a "ret
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hermit_of_Mink_Hollow |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | K 55521 |
 | Notes | Includes a printed inner sleeve with lyrics.    On label: Ⓟ&Ⓒ 1978    Made in UK |

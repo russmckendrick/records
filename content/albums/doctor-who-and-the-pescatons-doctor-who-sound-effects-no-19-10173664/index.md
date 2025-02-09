@@ -82,7 +82,7 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Reissue Stereo (180g, Green), Vinyl LP Reissue Mono (180g, Orange), All Media Record Store Day Special Edition |
+| Format         | 1× Vinyl (180g, Green) LP, Reissue, Stereo | 1× Vinyl (180g, Orange) LP, Reissue, Mono | 1× All Media Record Store Day, Special Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC202 |
 | Notes | Released for Record Store Day 2017.  Voices recorded at Argo Studios, London. Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.  This recording released by arrangement with B.B.C. Records.  ℗ & © 2017 Demon Music Group.  Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO. |

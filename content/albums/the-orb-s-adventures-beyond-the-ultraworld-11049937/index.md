@@ -72,7 +72,7 @@ The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Orb%27s_Adventures_Beyond_the_Ultraworld |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Island Records |
 | Catalog Number | 0602557753264 |
 | Notes | ℗ 1991 Islands Records, a division of Universal Music Operations Limited © 1991 Islands Records, a division of Universal Music Operations Limited Made in the E.U. Includes a download voucher.  Cat# on sticker: 577 5326 Cat# on spine: 060255753264  A1: Recorded at Do Not Erase, London. Programmed at the Coach house, London.  A2: Recorded at Do Not Erase, London. Respect to Jasper.  The inner sleeve shows incorrect credits, these are corrected in the discogs credits. A3: Recorded at Marcus Studios, London.  B1: Recorded at Marcus Studios, London. Programmed 25 miles above the earth. B2: Recorded at Berwick Street Studio, London. Programmed in Barcelona, Spain.  C1, C2: Recorded at Berwick Street Studio, London. Programmed in Soho, London.  C3: Recorded at Berwick Street Studio, London. Programmed in Lab Studio, Berlin.  D1: Recorded at Berwick Street Studio, London. Programmed in Brixton, Southside.  D2: Recorded live at Trancentral, London. Programmed in inner space. |

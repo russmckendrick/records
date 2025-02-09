@@ -83,7 +83,7 @@ styles: ["Afrobeat", "Fusion"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_to_the_Future_(Sons_of_Kemet_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Impulse! |
 | Catalog Number | 00602435621661 |
 | Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts. |

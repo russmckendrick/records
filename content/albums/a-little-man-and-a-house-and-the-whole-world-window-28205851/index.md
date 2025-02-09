@@ -105,7 +105,7 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Little_Man_and_a_House_and_the_Whole_World_Window |
-| Format         | Vinyl LP Album Reissue Remastered Stereo, CD Album Reissue Remastered, CD 2× Remastered, CD, Box Set Special Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× CD Album, Reissue, Remastered | 2× CD Remastered | 1× CD | 1× Box Set Special Edition |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPHBOOK007 |
 | Notes | The first batch of preorders were available from the 10th of July 2023, with a second from the 25th of August, for £100 + shipping. Shipping of the first batch began on the 7th of September.  Housed in a 12" hardback cover that includes: -a card ribbon connected by Velcro surrounding the cover -a folder of documents including reproductions of posters (including one large fold-out six-panel poster), sheet music, promotional images and the Workhouse recording schedule -a 12" daisy slipmat -a 60-page book -a wide clearsleeve  On the back cover, the radio session tracks are addended by "{BBC Leeds Session}" (1-6) and "{Janice Long 'Evening Show' Session}" (7-11); the tracklist here reflects how they appear on the final page of the book.  ALPHBOOK007 on the book itself, ALPH BOOK007 on the CD faces. The vinyl has side cat#s of ALPH LP007A and ALPH LP007B. |

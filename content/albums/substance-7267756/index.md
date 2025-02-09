@@ -64,7 +64,7 @@ Substance is a singles compilation album by the English rock band Joy Division. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Substance_(Joy_Division_album) |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered |
+| Format         | 2× Vinyl LP, Compilation, Reissue, Remastered |
 | Label          | Factory |
 | Catalog Number | Fact250R |
 | Notes | Back cover: "A Factory Record ℗ & © 2015 Warner Records 90 Limited" ([r11569139] has "A Factory Record. This Reissue ℗ & © 2015 Warner Records 90 Limited. All Rights Reserved. R1 183937") |

@@ -60,7 +60,7 @@ The style on this album is a good demonstration of how they earned the nickname 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fulham_Fallout |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Gatefold, orange) |
+| Format         | 1× Vinyl (Gatefold, orange) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP2 |
 | Notes | RSD 2018 |

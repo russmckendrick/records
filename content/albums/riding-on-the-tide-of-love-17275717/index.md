@@ -57,7 +57,7 @@ Riding on the Tide of Love is the tenth studio album by Scottish band Deacon Blu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Riding_on_the_Tide_of_Love |
-| Format         | Vinyl LP Mini-Album Stereo |
+| Format         | 1× Vinyl LP, Mini-Album, Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0215401EMU |
 | Discogs URL    | [Deacon Blue - Riding On The Tide Of Love](https://www.discogs.com/release/17275717-Deacon-Blue-Riding-On-The-Tide-Of-Love) |

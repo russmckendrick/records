@@ -49,7 +49,7 @@ The album received a physical release exclusively on CD, in a limited edition of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Itself_of_Itself |
-| Format         | Vinyl 2× LP Deluxe Edition Limited Edition |
+| Format         | 2× Vinyl LP, Deluxe Edition, Limited Edition |
 | Label          | Lumberton Trading Company |
 | Catalog Number | LUMB2LP036 |
 | Notes | Limited edition of 1000 with obi strip and 24pp booklet.  First 150 arrive with postcard.  |

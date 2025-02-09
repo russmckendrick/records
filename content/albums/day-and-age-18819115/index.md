@@ -65,7 +65,7 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Gold, 180g), Vinyl LP Single Sided Etched (Gold, 180g), All Media Album, CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Gold, 180g) LP | 1× Vinyl (Gold, 180g) LP, Single Sided, Etched | 1× All Media Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 576 |
 | Notes | Limited edition of 200 copies. Burning Shed exclusive. Gatefold. Signed postcard included. |

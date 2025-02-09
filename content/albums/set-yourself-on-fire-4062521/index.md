@@ -65,7 +65,7 @@ The novelist Ibi Kaslik is quoted on the jacket of the album. The album features
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Set_Yourself_on_Fire |
-| Format         | Vinyl LP Album Repress (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Repress |
 | Label          | Arts & Crafts International |
 | Catalog Number | A&C009 |
 | Notes | 180g repress. Include a Digital Download Card. |

@@ -51,7 +51,7 @@ marillion.com is the eleventh studio album by the British neo-prog band Marillio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Marillion.com |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1103 |
 | Discogs URL    | [Marillion - Marillion.com](https://www.discogs.com/release/19426897-Marillion-Marillioncom) |

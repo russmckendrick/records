@@ -61,7 +61,7 @@ Tubular Bells II is the fifteenth studio album by English guitarist and songwrit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tubular_Bells_II |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Warner Music |
 | Catalog Number | 2564623323 |
 | Notes | Originally planned to be released in October 2014 but it was rescheduled to April 2015.  ℗ 1992 Warner Music UK Ltd. © 2014 Oldfield Music Limited for the United Kingdom and Oldfield Music Overseas Limited for the world outside the United Kingdom.  Made in the EU.  Comes with graphite grey plain (antistatic) die-cut inner. Etched matrices Sequential track positions on sleeve & labels |

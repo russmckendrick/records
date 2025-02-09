@@ -68,7 +68,7 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Compilation, Limited Edition |
 | Label          | Ace |
 | Catalog Number | XXQLP2068W |
 | Notes | The copyrights in these sound recordings are owned by the copyright owners listed inside and are licensed to Ace Records Ltd  This compilation P & C 2020 Ace Records Ltd  White Vinyl version exclusive to Rough Trade in the UK.   Side One label credits A3 to "Imple Minds"; Side Four Label credits D to "Revor Bastow"   |

@@ -61,7 +61,7 @@ Superfuzz Bigmuff is the debut album and first major release by the Seattle grun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Superfuzz_Bigmuff |
-| Format         | Vinyl 12" 33 ⅓ RPM EP |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP |
 | Label          | Glitterhouse Records |
 | Catalog Number | GR 0034 |
 | Notes | Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.  |

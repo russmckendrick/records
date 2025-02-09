@@ -59,7 +59,7 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Copperhead_Road |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3426 |
 | Notes | ℗ & © 1988 UNI Records, Inc.  Original sound recordings made by UNI Records, Inc. MCA Records Ltd. are the exclusive licensees for the U.K.  Made in England  All tracks Pub. BMG Music Pub. Ltd except B4 Chappell Music Ltd. |

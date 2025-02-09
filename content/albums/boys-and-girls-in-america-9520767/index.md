@@ -80,7 +80,7 @@ The entire record almost feels like a driven, powerful live show, one where you 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boys_and_Girls_in_America |
-| Format         | Vinyl 2× LP Deluxe Edition (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Deluxe Edition |
 | Label          | Vagrant Records |
 | Catalog Number | 538247700 |
 | Notes | Front Sticker:  Deluxe Edition 2xLP featuring 4 b-sides and 6 demos  Back Cover: 2006, 2016 BMG Rights Management (US) LLC D/B/A Vagrant Records.  All Rights Reserved. Unauthorized reproduction is a violation of applicable laws. Made in France.  4050538247701   |

@@ -73,7 +73,7 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ghosteen |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Ghosteen Ltd |
 | Catalog Number | BS016LP |
 | Notes | The version with "Made in The UK" instead can be found here:  [r32101671]  Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info. Album download code included. The BS016LP catalog number follows the [l501701] label format.  Runout information: "STERLING" is machine engraved, the rest is hand-etched. The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).  [Inner sleeve LP 2:] This record is dedicated to [a259149] Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed [...] at Conway, Los Angeles [...] Orchestra recorded [...] at Air, London [...] Published by Kobalt Music Group Ltd ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU |

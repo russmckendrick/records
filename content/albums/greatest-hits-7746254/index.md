@@ -62,7 +62,7 @@ The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Kinks_Greatest_Hits! |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | BR Music |
 | Catalog Number | BRLP 15 |
 | Notes | On Label: This compilation P 1984 BR Music Licenced from PRT Ltd. On Back Cover: This compilation ℗ 1985 BR Music / Licenced from PRT Ltd. Made In Belgium  This version has light blue labels (not flat) This version has the SACEM logo in red |

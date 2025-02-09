@@ -58,7 +58,7 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Business_as_Usual_(Men_at_Work_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 85669 |
 | Notes | Rear Sleeve: © 1982 CBS Inc.  Labels: ℗ 1981 CBS Records Australia Ltd.  Made in England.  Original sound recording made by CBS Records Australia Ltd.  CBS Records are the exclusive licensees for the UK.    Shorepak by Shorewood Packaging Co. Ltd., England. |

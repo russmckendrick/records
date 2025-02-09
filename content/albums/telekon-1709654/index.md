@@ -66,7 +66,7 @@ Telekon is the second solo studio album by the English new wave musician Gary Nu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Telekon |
-| Format         | Vinyl LP Album Stereo (WEA Pressing), Vinyl 7" 45 RPM Single Limited Edition |
+| Format         | 1× Vinyl (WEA Pressing) LP, Album, Stereo | 1× Vinyl 7", 45 RPM, Single, Limited Edition |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 19 |
 | Notes | Some early pressings have a glossy inner sleeve with 9 inch cut-out and rounded corners. Later pressings have a square inner sleeve in matt finish with no cut-out. Both versions included an A4 sized official merchandise insert. A version exists of [r47028] here without the free single. There are six UK LP versions of this classic album specifically released in 1980, all with the BEGA 19 Catalogue No. and which were mastered at [l266791] or where the LP's lacquer was cut at. (@ November 2024)  '[r=47028]': Inner Sleeve (glossy, square corners, no thumb cutout)  '[r=1709654]': Inner Sleeve (glossy, 9 inch cut-out, rounded corners) + free 7" single, ‘WEA’ pressing **THIS RELEASE!** '[r=9093929]': Inner Sleeve (matt, square corners, no thumb cutout) + free 7" single '[r=12447983]': 'White Label' release. '[r=16038831]': Inner Sleeve (matt, square corners, no thumb cutout) ‘West Drayton’ pressing '[r=19363369]’: Inner Sleeve (glossy, 9 inch cut-out, rounded corners) ‘Precision’ pressing   (P) 1980 Beggars Banquet |

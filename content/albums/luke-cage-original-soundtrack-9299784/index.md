@@ -89,7 +89,7 @@ The superhero’s score blends '90s hip-hop with cinematic drama.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Yellow, Gatefold. 180g) |
+| Format         | 2× Vinyl (Yellow, Gatefold. 180g) LP, Album |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-094 |
 | Discogs URL    | [Adrian Younge - Luke Cage - Original Soundtrack](https://www.discogs.com/release/9299784-Adrian-Younge-Ali-Shaheed-Muhammad-Luke-Cage-Original-Soundtrack) |

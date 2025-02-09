@@ -56,7 +56,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | GlassVille Records |
 | Catalog Number | GVR192755 |
 | Notes | Packaged in a single jacket with color printed LP sleeve.  Pre-orders via the band came autographed on the back of the jacket by all members.  All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.  Tracks are numbered continuously on the color LP sleeve. |

@@ -64,7 +64,7 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Play:_The_B_Sides |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red Translucent) |
+| Format         | 2× Vinyl (Red Translucent) LP, Compilation, Limited Edition, Reissue |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT062LP2 |
 | Notes | Limited to 1000 copies.  Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music   Track durations not listed on the release. |

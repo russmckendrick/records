@@ -68,7 +68,7 @@ styles: ["Synth-pop", "Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Free Range Product |
 | Catalog Number | FRP2LP001 |
 | Notes | "Includes songs from BBC TV's 500 Bus Stops"    "All songs written, performed and produced by Graham Fellows except 'The Christmas Orphan' written by G. Fellows and P. Ovcar"    Licensed From Chic Ken Productions  Contains 7 bonus tracks not featured on the CD version   |

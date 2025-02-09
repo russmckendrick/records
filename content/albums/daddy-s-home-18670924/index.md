@@ -72,7 +72,7 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Daddy%27s_Home_(St._Vincent_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Loma Vista |
 | Catalog Number | LVR01797 |
 | Notes | Indie Exclusive. Includes Poster 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. Made in the EU. |

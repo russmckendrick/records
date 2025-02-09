@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Fontana |
 | Catalog Number | 0602547096401 |
 | Notes | Sleeves with lyrics, photos, credits, art etc Contains voucher for MP3 download 180 Gram Heavyweight Vinyl Made in the EU |

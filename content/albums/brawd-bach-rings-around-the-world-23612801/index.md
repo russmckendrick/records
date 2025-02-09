@@ -52,7 +52,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition Remastered (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Record Store Day, Compilation, Limited Edition, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT606LP |
 | Notes | RSD 2022 Drop 2 release   Track B3 is a version unique to this release. It features an extended outro (found on the instrumental version of the song on [r=20489644]) which ends on a locked groove. It is necessary to manually lift the tonearm beyond this to hear track B4. Track B4 is an untitled track taken from the menu music on the original DVD release of the Rings Around The World album. It can also be found at 24m 05s on track 19 ('Menu Music Medley') of [r=20489644].  Manufactured In Sweden. |

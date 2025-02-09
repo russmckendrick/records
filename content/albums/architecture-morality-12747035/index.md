@@ -53,7 +53,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 0602557050820 |
 | Notes | Half Speed Mastered at Abbey Road Studios Includes Digital Download Card  Pre-recorded at The Gramophone Suite (Liverpool, England).  Choral tapes on "Souvenir" courtesy of David Hughes. Title suggested by M. Ladly from a book by David Watkin. Produced and created for White Noise Ltd. and on behalf of Architettura Industria.  © 2018 Virgin Records  Ltd. |

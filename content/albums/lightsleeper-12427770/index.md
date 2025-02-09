@@ -66,7 +66,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Lester Records |
 | Catalog Number | LRNFLF0017LP |
 | Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]  All matrix details are etched. Mastered at Takt = Plated at. |

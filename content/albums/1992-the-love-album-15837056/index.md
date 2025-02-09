@@ -51,7 +51,7 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition, Picture Disc |
 | Label          | Chrysalis |
 | Catalog Number | CHRP 1946 |
 | Notes |  RSD UK August 2020 release limited to 750 copies.  Track B4 - words from 'The Man From La Mancha', © Dale Wasserman.  Track B5 - published by Carlin Music Corp. |

@@ -51,7 +51,7 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_(Is_What_I_Wanted_to_Tell_You) |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | City Slang |
 | Catalog Number | SLANG50197LP |
 | Notes | Limited 180g White Vinyl. Comes in a die cut sleeve. Includes a fold out insert with lyrics and credits. An initial run of copies pre-ordered from the City Slang webstore included a photo signed by Kurt Wagner. |

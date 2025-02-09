@@ -66,7 +66,7 @@ styles: ["Alternative Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Record Store Day, Limited Edition |
 | Label          | Loma Vista |
 | Catalog Number | LVR02343 |
 | Notes | Record Store Day 2022 Exclusive Release Limited to 4000 copies |

@@ -97,7 +97,7 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kiwanuka_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Yellow, 180g) |
+| Format         | 2× Vinyl (Yellow, 180g) LP, Album, Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 7795288 |
 | Notes | Gatefold sleeve holds two full color printed cardboard inner sleeves.  Some copies include colour print signed by the artist.  On labels: Made in the Czech Republic |

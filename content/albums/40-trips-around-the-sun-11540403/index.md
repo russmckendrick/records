@@ -73,7 +73,7 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/40_Trips_Around_the_Sun |
-| Format         | Vinyl 2× LP Compilation Remastered |
+| Format         | 2× Vinyl LP, Compilation, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075808661 |
 | Notes | Made in the EU. This compilation ℗&© 2018 Sony Music Entertainment   ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records  Stickers, gatefold, celebrating their 40th anniversary. Three new songs: "Alone", "Spanish Sea" and "Struck By Lightning". |

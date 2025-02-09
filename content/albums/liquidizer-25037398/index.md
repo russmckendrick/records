@@ -61,7 +61,7 @@ Liquidizer is a techno and power pop album, borrowing influence from hip hop, th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Liquidizer_(album) |
-| Format         | Vinyl LP Album Reissue (Transparent Green) |
+| Format         | 1× Vinyl (Transparent Green) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC952 |
 | Notes |    |

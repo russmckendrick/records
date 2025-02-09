@@ -47,7 +47,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP Limited Edition Reissue |
+| Format         | 1× Vinyl 12", EP, Limited Edition, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE971 |
 | Notes | 12" Kscope Re-Release |

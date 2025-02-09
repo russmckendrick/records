@@ -63,7 +63,7 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soup_(Blind_Melon_album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1100 |
 | Notes | - 180 gram audiophile vinyl - Insert with printed lyrics.  © 1992 Heavy Melon Music ASCAP  |

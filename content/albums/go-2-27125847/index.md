@@ -74,7 +74,7 @@ It is the final album to feature keyboardist Barry Andrews, who went on to form 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Go_2 |
-| Format         | Vinyl LP Album Stereo, Vinyl 12" 45 RPM EP Stereo, All Media Limited Edition Reissue (200g) |
+| Format         | 1× Vinyl LP, Album, Stereo | 1× Vinyl 12", 45 RPM, EP, Stereo | 1× All Media (200g) Limited Edition, Reissue |
 | Label          | Ape House |
 | Catalog Number | APELPX102 |
 | Notes | Issued with poly-lined colour printed inner sleeves, and housed in a gatefold jacket. All runout details are hand etched.  [Sticker:] XTC . GO2 A ltd. 2 disc, gatefold reissue of the 1978 album complete with 5 track 12” Go+ unavailable on vinyl since original release. 200g super-heavyweight vinyl.  [Rear jacket:] [...] assistant engineers Haydn Bendall and Pete James at Abbey Road, also, Ande Llewelyn and Jess Sutcliffe at Matrix [...] [...] this is a product of Ape House Ltd. under license from Virgin Records Ltd. [...] This edition ℗2023 Ape House Ltd. This sleeve was written and photographed by Hipgnosis and printed in England by RAD Printing Ltd. The discs were manufactured by Vinyl Factory UK.  [Labels sides A & B:] [...] this edition is a product of Ape House Ltd. and is licensed from Virgin Records Ltd. ℗ 2023 Ape House Ltd. Made in the United Kingdom.  [Labels sides C & D:] ℗ 2023 Ape House Ltd. under license from Virgin Records Ltd. [...] Made in the UK. |

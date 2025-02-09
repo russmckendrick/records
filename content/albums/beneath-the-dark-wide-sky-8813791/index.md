@@ -71,7 +71,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Silver Marbled), CD Album |
+| Format         | 2× Vinyl (Silver Marbled) 12", 33 ⅓ RPM, Album, Limited Edition | 1× CD Album |
 | Label          | Mutiny Records (2) |
 | Catalog Number | OMN16155 |
 | Notes | ℗ and © 2016 Dream The Electric Sleep.  Packaged in a gatefold jacket with hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a PVC sleeve. |

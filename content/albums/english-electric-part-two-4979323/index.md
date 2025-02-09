@@ -55,7 +55,7 @@ English Electric Part Two is the eighth studio album by the English progressive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/English_Electric_Part_Two |
-| Format         | Vinyl 2× LP Limited Edition Numbered |
+| Format         | 2× Vinyl LP, Limited Edition, Numbered |
 | Label          | Plane Groovy |
 | Catalog Number | PLG017 |
 | Notes | Website: www.bigbigtrain.com    Join our forum at: www.facebook.com/groups/bigbigtrain    Double heavyweight vinyl in a gatefold cover, limited to 500 numbered copies. Running order different from CD release, also includes 4 songs from the "Make Some Noise" EP. |

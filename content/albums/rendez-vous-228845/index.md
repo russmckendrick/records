@@ -51,7 +51,7 @@ On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rendez-Vous_(Jean-Michel_Jarre_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Polydor |
 | Catalog Number | POLH 27 |
 | Notes | Ron McNair's part played by Pierre Gossez. The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.  Catalogue numbers: POLH 27 – on sleeve and label 829 125-1 – on label in parentheses  Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.  ℗ 1986 Disques Dreyfus, Paris  Runout A-side variant 3 has "420" under the X's. |

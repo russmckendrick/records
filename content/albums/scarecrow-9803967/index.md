@@ -61,7 +61,7 @@ A remastered version was released May 24, 2005, on Mercury/Island/UMe and includ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scarecrow_(John_Mellencamp_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Mercury |
 | Catalog Number | 824 865-1 |
 | Notes | Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.  Very similar to [r1113007], which has in comparison to this release here no label code.  On back sleeve: ℗ 1985 John Mellencamp / © 1985 John Mellencamp Printed in the Netherlands  On inner sleeve: "This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"  On labels: ℗ 1985 John Mellencamp MADE IN HOLLAND  Runout information: The runouts are etched, except "MASTERDISK", which is stamped. |

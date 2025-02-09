@@ -69,7 +69,7 @@ Map of the Past is the fifth studio album by progressive rock band It Bites. It 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Map_of_the_Past |
-| Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Remastered | 1× CD Album, Remastered | 1× All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |
 | Notes | Gatefold, black vinyl version..  Hype sticker: "Gatefold 2LP + CD + LP-Booklet The fifth studio album from  IT BITES available on vinyl once again. Newly remastered and  featuring expanded liner notes  on the making of the album."  ℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.  Tracks CD-12 and CD-13 are bonus tracks. |

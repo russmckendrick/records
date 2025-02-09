@@ -70,7 +70,7 @@ At the 1998 Brit Awards, the Verve won Best Album for Urban Hymns and Best Produ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Urban_Hymns |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Band Side Labels, RIM text, 180 gram) |
+| Format         | 2× Vinyl (Band Side Labels, RIM text, 180 gram) LP, Album, Reissue, Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 4787014 |
 | Notes | ℗ 2016 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Originally released 1997 as HUTLP45. Includes printed innersleeves.  All tracks published by Kobalt Music Publishing Limited, except track 1 published by Abkco Music Inc.  At least five different vinyl releases exist; this one replicates the version with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/8139920]the band pictured on each side label and RIM text[/url]  Other versions available are: - with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/4274293]the band pictured on each side label without RIM text[/url] - with [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/445878]black side labels[/url] - the [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/3416731]mailing sleeve[/url] edition (limited to 5000 copies) - the [url=https://www.discogs.com/The-Verve-Urban-Hymns/release/1548478]2008 US reissue[/url] by [L=Capitol Records]   Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media. |

@@ -56,7 +56,7 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ommadawn |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | V 2043 |
 | Notes | Recorded at The Beacon January - September 1975.  Printed cardboard inner sleeve.  Virgin Records, Vernon Yard, Portobello Road, London W11 Printed in England by Robor Limited  Different coloured labels.  Bagpipes player : Herbie credited on inner sleeve Paddy Moloney credited on center label side B only |

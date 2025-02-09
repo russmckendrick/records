@@ -68,7 +68,7 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lists_of_islands |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP4 |
 | Notes | Sticker: • The original stereo mix of the 1971 classic • Newly cut from masters approved by Robert Fripp • 200-gram super-heavyweight vinyl  Includes a 4-page insert. Some copies include an exclusive code for 320kbps MP3 downloads of an original 1971 vinyl transfer. The duration of track A3 differs between the booklet and the A-side label. (Booklet: 4:23; Label: 4:25)  Recorded at Command Studios, Piccadilly, London.  Outer cover illustration 'Trifid Nebula in Sagittarius' by courtesy of The Institute of Technology and Carnegie Institution of Washington  Made in England. Ⓟ & Ⓒ 2014 Robert Fripp. |

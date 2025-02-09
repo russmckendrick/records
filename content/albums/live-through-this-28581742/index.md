@@ -61,7 +61,7 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_Through_This |
-| Format         | Vinyl LP Limited Edition Reissue (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Limited Edition, Reissue |
 | Label          | DGC |
 | Catalog Number | 00602458206104 |
 | Notes | National Album Day 2023 |

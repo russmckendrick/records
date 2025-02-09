@@ -69,7 +69,7 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Sciences |
-| Format         | Vinyl 2× LP Album Limited Edition (Green Translucent) |
+| Format         | 2× Vinyl (Green Translucent) LP, Album, Limited Edition |
 | Label          | Third Man Records |
 | Catalog Number | TMR 547 |
 | Notes | ℗ © 2018 Sleep LLC under exclusive license to Third Man Records. LLC  Limited edition first pressing on translucent green vinyl  Issued in a gatefold jacket with insert.  Center labels include the following text around the outer edge: "Manufactured by Third Man Pressing in Detroit MI"  Morse Code Translations: Side A - PURPLE KUSH Side B - SKYWALKER OG Side C - CAT PISS ROMULAN Side D - SUPER LEMON HAZE  CMS logo [sideways Ⓨ] in runouts denotes lacquer was cut at [l265517]. |

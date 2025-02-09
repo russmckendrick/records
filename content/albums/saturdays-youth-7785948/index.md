@@ -51,7 +51,7 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Naïve |
 | Catalog Number | NV833361 |
 | Notes | ℗ 2008 M83 Recording Inc. © 2015 M83 Recording Inc. Made in France.  Ken Thomas is represented by Air Management Ewan Pearson is represented by Howie Martinez and Ian Clifford Artwork Design by Louise Downer at Blue Ink Creative  Tracks are listed sequentially as they show on the backside of the record's jacket and center labels. |

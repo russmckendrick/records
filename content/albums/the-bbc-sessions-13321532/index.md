@@ -66,7 +66,7 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_BBC_Sessions_(Belle_and_Sebastian_album) |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP018 |
 | Notes | Tracks A1 to B1 ℗ 1996 BBC Tracks B2 to C2 ℗ 1997 BBC Track C3 ℗ 1998 BBC Tracks D1 to D4 ℗ 2001 BBC  The copyright in these sound recordings is owned by the BBC This compilation: ℗ 2008, © 2008 Released by arrangement with BBC Music.  Includes OBI strip: All the Classics reissued on vinyl / It Could Have Been a Brilliant Career / Includes free download of entire album. |

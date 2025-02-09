@@ -94,7 +94,7 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Violent_Femmes |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Craft Recordings |
 | Catalog Number | CR00108 |
 | Notes | 180-Gram 35th Anniversary Reissue  Mastered at Capitol Mastering  Recorded at Castle Recording Company,  Lake Geneva, Wisconsin, July 1982.   Thanks to Robert Munger, Bryan King, 4TA and The Bone.  Special thanks to our friends who are no longer with us, James and Christina.  Originally released as [r=426356] (Jan 1982).  Track B4 has an altered title to previous releases.  |

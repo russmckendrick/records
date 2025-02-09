@@ -54,7 +54,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Blue W/ Dark Blue Splatter - Fractal) |
+| Format         | 1× Vinyl (Blue W/ Dark Blue Splatter - Fractal) LP, Album, Limited Edition |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |
 | Notes | 2nd Edition "Fractal" Vinyl. Limited to 200 Copies pressed on a light blue vinyl, w/ darker blue splatter Comes with large fold-out, 6 pane poster. Sold at the artist's web page only. |

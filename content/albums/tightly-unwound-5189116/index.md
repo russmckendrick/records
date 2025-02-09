@@ -61,7 +61,7 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tightly_Unwound |
-| Format         | Vinyl 2× LP Album (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE852 |
 | Notes | A double vinyl edition of the first ever album released on Kscope.     Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.     Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.  Remastered and Remixed  Made in Germany   |

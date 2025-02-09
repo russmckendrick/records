@@ -83,7 +83,7 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_Mind |
-| Format         | Vinyl LP Album Reissue (Green), Vinyl LP Compilation (Green), All Media Deluxe Edition Remastered |
+| Format         | 1× Vinyl (Green) LP, Album, Reissue | 1× Vinyl (Green) LP, Compilation | 1× All Media Deluxe Edition, Remastered |
 | Label          | Cherry Red |
 | Catalog Number | PBREDD756 |
 | Notes | Includes printer inner sleeves with a review and interviews with the band.  ℗ 2019 Cherry Red Records Ltd. This compilation © 2019 Cherry Red Records Ltd. Power Road Studios, 114 Power Road, London W4 5PY www.cherryred.co.uk Made in EU  Green mind: Drums recorded at Sorcerer Sound. Other stuff recorded at Fort Apache North Mixed at White Crow Audio  'Whatever's Cool With Me' EP recorded all over the place [...]  'Green Mind' released February 1991. Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991. Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991. Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.  All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.  Pre-order came with pin 4x4 cm (compare photos). |

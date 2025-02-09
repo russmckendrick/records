@@ -53,7 +53,7 @@ The cover of the EP references the design of King Tubby's The Roots of Dub LP, w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Champion_Versions |
-| Format         | Vinyl 12" EP Repress (180g) |
+| Format         | 1× Vinyl (180g) 12", EP, Repress |
 | Label          | Regal |
 | Catalog Number | REGS 16 |
 | Notes | 180 gram pressing, includes MP3 download voucher.    Printed on spine: The Pigeons    ℗1997 Parlophone Records Ltd.  ©2013 Parlophone Records Ltd.  Made in EU. |

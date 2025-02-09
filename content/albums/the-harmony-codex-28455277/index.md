@@ -63,7 +63,7 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Harmony_Codex |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Coke Bottle Clear) |
+| Format         | 2× Vinyl (Coke Bottle Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7V3 |
 | Notes | Described as Clear on hype sticker, record itself is Coke Bottle Clear.   This edition was exclusive to The Official Steven Wilson HQ web store.   Initial copies came with a very limited signed 30cm x 30cm art print.  Rear sleeve: "00044003353039 / SW7V3 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".  "Made in Germany" sticker adhered to the outer shrink wrap of the rear sleeve.  Includes printed inner sleeves containing lyrics and artwork.  Matrix Runouts are etched and stamped.  |

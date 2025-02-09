@@ -56,7 +56,7 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hometown_Cha-Cha-Cha |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Allegro Records |
 | Catalog Number | ALL734 |
 | Notes | Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964  |

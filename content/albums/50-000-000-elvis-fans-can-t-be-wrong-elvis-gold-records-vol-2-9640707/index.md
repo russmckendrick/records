@@ -54,7 +54,7 @@ Just how big a star was Elvis Presley in the ’50s? Consider that RCA released 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Compilation, Limited Edition, Reissue |
 | Label          | Vinyl Lovers (3) |
 | Catalog Number | 6785426 |
 | Notes | * BONUS TRACKS |

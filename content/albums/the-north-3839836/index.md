@@ -64,7 +64,7 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_North_(Stars_album) |
-| Format         | Vinyl LP Album (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Album |
 | Label          | ATO Records |
 | Catalog Number | 88088218161 |
 | Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album.   Gatefold sleeve.  Manufactured and distributed in the United States by RED Distribution, LLC. |

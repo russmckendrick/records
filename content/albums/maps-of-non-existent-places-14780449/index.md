@@ -55,7 +55,7 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maps_of_Non-Existent_Places |
-| Format         | Vinyl 2× LP Album Limited Edition Remastered Repress Stereo (Blood Red With Black Swirl) |
+| Format         | 2× Vinyl (Blood Red With Black Swirl) LP, Album, Limited Edition, Remastered, Repress, Stereo |
 | Label          | Evil Ink Records |
 | Catalog Number | EI200V |
 | Notes | Limited to 1,000 copies.  This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been repressed upon signing to Evil Ink Records.  |

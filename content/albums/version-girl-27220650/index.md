@@ -59,7 +59,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Purple Galaxy) |
+| Format         | 1× Vinyl (Purple Galaxy) LP, Album, Limited Edition |
 | Label          | Sunday Best Recordings |
 | Catalog Number | SBESTLP94 |
 | Discogs URL    | [Rhoda Dakar - Version Girl](https://www.discogs.com/release/27220650-Rhoda-Dakar-Version-Girl) |

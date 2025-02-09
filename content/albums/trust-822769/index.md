@@ -48,7 +48,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM |
+| Format         | 1× Vinyl 12", 45 RPM |
 | Label          | Sony Soho Square |
 | Catalog Number | 657462 6 |
 | Notes | Released with printed inner sleeve.    Recorded at Rockfield Studios, Gwent, in early July 1991.    Original sound recording made by Sony Music Entertainment (UK) Ltd.  ℗ © Sony Music Entertainment (UK) Ltd.  Distribution Sony Music.   |

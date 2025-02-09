@@ -54,7 +54,7 @@ Too-Rye-Ay is the second studio album by English pop band Dexys Midnight Runners
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Too-Rye-Ay |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Mercury |
 | Catalog Number | 3789427 |
 | Discogs URL    | [Kevin Rowland - Too-Rye-Ay](https://www.discogs.com/release/6093646-Kevin-Rowland-Dexys-Midnight-Runners-Too-Rye-Ay) |

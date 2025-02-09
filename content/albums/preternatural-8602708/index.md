@@ -62,7 +62,7 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Preternatural |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | C.R.A.F.T Pop Records |
 | Catalog Number | CRAFTPOP1 |
 | Notes | Contains 24" x 12" fold-out lyric and credit sheet.  Engineered & mixed at Berry Cottage. Mastered at Loud Mastering. Additional engineering on an iPhone & 4 track recorder; in a summerhouse, in the Green Wood, in the Boipuso Centre, in bed & in a staircase in Bangalore.  ℗ 2016 Sotones Music Publishing under exclusive licensing from Moulettes © 2016 Moulettes. The copyright in the sound recordings is owned by Moulettes under exclusive license to C.R.A.F.T Pop Ltd. Distributed and marketed by Republic of Music |

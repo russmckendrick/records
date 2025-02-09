@@ -109,7 +109,7 @@ This Strange Engine is the ninth studio album by the British neo-prog band Maril
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Strange_Engine |
-| Format         | Vinyl 2× LP Album Reissue, Vinyl 3× LP, Box Set Deluxe Edition Special Edition |
+| Format         | 2× Vinyl LP, Album, Reissue | 3× Vinyl LP | 1× Box Set Deluxe Edition, Special Edition |
 | Label          | Ear Music |
 | Catalog Number | 0219891EMU |
 | Notes | Initial copies sourced directly from the Band contain a signed picture of the cover with a blank area below with signatures. |

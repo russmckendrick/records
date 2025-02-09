@@ -60,7 +60,7 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album |
 | Label          | Century Media |
 | Catalog Number | 88875193851 |
 | Notes | Gatefold 2LP (with etching on side D). Tracks durations indicated on back of gatefold.  © & ℗ 2016 Century Media Records Ltd. Manufactured in Germany.  Tracked during the winter months of 2013-2014 in Spring, TX at Origin Sound. Additional tracking at Big Door Studio in Clear Lake, TX.  Track A3 "Nights In White Satin" is a cover of [a266422]. |

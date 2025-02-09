@@ -62,7 +62,7 @@ Wallinger is assisted on this album by several session musicians, including Anth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Private_Revolution |
-| Format         | Vinyl LP Album Stereo (Carrollton Press) |
+| Format         | 1× Vinyl (Carrollton Press) LP, Album, Stereo |
 | Label          | Chrysalis |
 | Catalog Number | BFV 41552 |
 | Notes | [l442751] pressing denoted by "G1" etch in runouts. Issued with lyric inner sleeve.  -- Conflicting Publishing Information -- Labels state: Published by the Welk Music Group Ltd. (PRS). All rights in the U.S. managed by Bibo Music Publishers (ASCAP) c/o The Welk Music Group except A5 same as above and Island Music Inc. (BMI), and except B3 published by Warner Bros. Inc (ASCAP).  Cover states: All songs published by Welk Music except A5 (Wickham / Wallinger) Blue Mountain Music / Welk Music and B3 (Bob Dylan) Warner Brothers Music.  ℗ & © Ensign Records Ltd. 1986.  Made in U.S.A. |

@@ -69,7 +69,7 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_My_Truth_Tell_Me_Yours |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 2× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19075895241 |
 | Notes | 20th Anniversary Collectors’ Edition  Gatefold sleeve Printed inner sleeves Double180 gram vinyl Includes mp3 download card and a poster.  Made in the EU.  |

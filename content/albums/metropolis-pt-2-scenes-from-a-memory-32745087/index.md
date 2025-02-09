@@ -67,7 +67,7 @@ On June 24, 2024, it was announced that the album would receive a novel adaptati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Metropolis_Pt._2:_Scenes_from_a_Memory |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 62448 |
 | Notes | The white noise at the end of Finally Free continues playing in a locked groove after the album ends. |

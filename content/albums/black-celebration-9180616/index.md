@@ -62,7 +62,7 @@ The album was promoted by the single "Stripped" released 10 February, and was fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Celebration |
-| Format         | Vinyl LP Album Remastered Reissue (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Remastered, Reissue |
 | Label          | Legacy |
 | Catalog Number | STUMM26 |
 | Notes | 180 Gram Superior Audio Quality  ℗ 1986 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.  © 1986, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Made in the EU. Sony Music Entertainment International Services GmbH.  Very similar release: [url=https://www.discogs.com/release/13132856]Black Celebration[/url] Differences: Legacy Logo right of Sony on label + Legacy Sticker on cover (this), Mute Logo left of STUMM26 on label (other) |

@@ -67,7 +67,7 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Splinter_(Songs_from_a_Broken_Mind) |
-| Format         | Vinyl 2× LP Album (180) |
+| Format         | 2× Vinyl (180) LP, Album |
 | Label          | Mortal Records |
 | Catalog Number | MORTALLP15 |
 | Notes | Gatefold sleeve.  ℗© 2013 Machine Music USA, INC.  Mastered at Alchemy Mastering, London.  Recorded in Waldon (East Sussex), Long Eaton (Nottinghamshire) and Los Angeles (California).  Photography by LaRoche Brothers (Woolhouse Studios).  Runouts are etched.   |

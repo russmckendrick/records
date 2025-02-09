@@ -61,7 +61,7 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Boro_Kings |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
+| Format         | 1× Vinyl (Gold, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Roadrunner Records |
 | Catalog Number | MOVLP2821 |
 | Notes | Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |

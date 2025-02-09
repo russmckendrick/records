@@ -77,7 +77,7 @@ Opener “Too Little, Too Late, Too Bad” is a soulful kiss-off worthy of the b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/You%27re_the_One_(Rhiannon_Giddens_album) |
-| Format         | Vinyl LP Album Limited Edition (Emerald [Translucent]) |
+| Format         | 1× Vinyl (Emerald [Translucent]) LP, Album, Limited Edition |
 | Label          | Nonesuch |
 | Catalog Number | 075597904093 |
 | Discogs URL    | [Rhiannon Giddens - You're The One](https://www.discogs.com/release/28041069-Rhiannon-Giddens-Youre-The-One) |

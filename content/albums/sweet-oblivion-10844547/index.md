@@ -61,7 +61,7 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sweet_Oblivion |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange Marbled) |
+| Format         | 1× Vinyl (Orange Marbled) LP, Album, Limited Edition, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP101 |
 | Notes | "25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits. |

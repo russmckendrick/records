@@ -85,7 +85,7 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/First_Two_Pages_of_Frankenstein |
-| Format         | Vinyl LP Album Limited Edition (Red, Optimal Pressing) |
+| Format         | 1× Vinyl (Red, Optimal Pressing) LP, Album, Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0566LPE |
 | Notes | Tracks numbered sequentially on back jacket.  This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |

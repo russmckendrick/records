@@ -58,7 +58,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Green, 180g) |
+| Format         | 1× Vinyl (Green, 180g) LP, Album, Limited Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP404 |
 | Notes | Pressed on 180g "opaque forest green" vinyl. Gatefold sleeve. Download code on a sticker on the inner die-cut white paper sleeve.  Limited edition of 500 copies. Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.  Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.  Track durations on the sleeve are incorrect. (Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch) |

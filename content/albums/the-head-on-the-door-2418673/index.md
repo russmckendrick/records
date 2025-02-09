@@ -63,7 +63,7 @@ The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Head_on_the_Door |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Fiction Records |
 | Catalog Number | 0042282723116 |
 | Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font: "Back To Black 60th Vinyl Anniversary Includes a voucher to download MP3 version of the album Made in EU www.backtoblackvinyl.com"  Originally released in 1985  Track times not given on release  |

@@ -68,7 +68,7 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (Red), Vinyl LP Compilation (Blue), All Media Limited Edition Reissue (Gatefold) |
+| Format         | 1× Vinyl (Red) LP, Compilation | 1× Vinyl (Blue) LP, Compilation | 1× All Media (Gatefold) Limited Edition, Reissue |
 | Label          | Music Brokers |
 | Catalog Number | VYN048 |
 | Notes | Hype sticker reads: Double LP Gatefold 180 GR Color Vinyl Limited Edition  Manufactured in France (p) 2020 Music Brokers  Runout VYN 048 A/B/C/D etched other stamped |

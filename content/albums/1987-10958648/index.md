@@ -70,7 +70,7 @@ styles: ["Classic Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Remastered (180 Gram), Vinyl LP, All Media Reissue (30th Anniversary Edition) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Remastered | 1× Vinyl LP | 1× All Media (30th Anniversary Edition) Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295785178 |
 | Notes | In the runouts, where [url=https://www.discogs.com/label/313190]Optimal Media GmbH's[/url] "geometric" marks appear, these are mirrored: "2|" "1|=" "1|+" |

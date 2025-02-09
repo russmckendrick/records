@@ -52,7 +52,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Gold Vinyl) |
+| Format         | 1× Vinyl (Gold Vinyl) LP, Album, Limited Edition, Stereo |
 | Label          | High Wire Records Inc. |
 | Catalog Number | 1622803 |
 | Notes | Gold vinyl limited to 250 copies. |

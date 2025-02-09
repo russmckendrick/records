@@ -127,7 +127,7 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Compilation, Box Set |
+| Format         | 4× Vinyl LP, Compilation | 1× Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX92 |
 | Notes | Compiled exhaustively from his DJ sets, 'Rusty Egan Presents The Blitz' brings together the sounds of a night at the club circa 1980 on either 66-track 4CD or 36-track 4LP sets.  Beautifully presented with contemporary photography from Sheila Rock, Peter Ashworth, and Terry Smith, the booklets contain sleeve notes from Alexis Petridis and Rusty himself.  [SLEEVE - front]: RUSTY EGAN BLITZED!  [SLEEVE - (STICKER) front]: RUSTY EGAN PRESENTS BLITZED! DEMRECBOX92  [SLEEVE - spine]: RUSTY EGAN PRESENTS BLITZED!     DEMRECBOX92  [SLEEVE - back]: DEMRECBOX92  This compilation ℗ & © 2024 Demon Music Group Limited Marketed by Demon Records, a division of the Demon Music Group Ltd, London, W12 7FA. The Demon Music Group is a BBC Studios company.  Manufactured in the EU. www.demonmusicgroup.co.uk  5 014 797 911208     DEMON RECORDS [logo]  [ERRATUM]: Track A4:  [r=391552], printed as New Girls/Neutrons Track E2  [m=110758], printed as Theme From 'The Warriors' |

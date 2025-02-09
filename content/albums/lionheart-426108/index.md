@@ -70,7 +70,7 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lionheart_(Kate_Bush_album) |
-| Format         | Vinyl LP Album Stereo (Embossed, Gatefold) |
+| Format         | 1× Vinyl (Embossed, Gatefold) LP, Album, Stereo |
 | Label          | EMI |
 | Catalog Number | EMA 787 |
 | Notes | Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.  "Kate Bush - Lionheart" text on front cover and rear cover are embossed. Gatefold sleeve with lyrics inside. Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side. 'HOPE YOU LIKE IT' etched in runouts, the rest stamped. Recorded at Superbear Studios. All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978. David Paton and Ian Bairnson courtesy of Arista Records. (P) 1978 EMI Records Ltd. Available on tape.  Made in Gt. Britain.  Durations do not appear on this release.  [r=10148817] is a later repress with different record labels [r=5536970] has "Made in Ireland" on the labels, otherwise identical |

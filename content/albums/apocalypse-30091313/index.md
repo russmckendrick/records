@@ -64,7 +64,7 @@ In February 2014, Thundercat released a double video on the MySpace website for 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Apocalypse_(Thundercat_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Ten Year Anniversary Edition (Memento Mori), Translucent Red) |
+| Format         | 1× Vinyl (Ten Year Anniversary Edition (Memento Mori), Translucent Red) LP, Album, Limited Edition, Reissue |
 | Label          | Brainfeeder |
 | Catalog Number | BF040X |
 | Discogs URL    | [Thundercat - Apocalypse](https://www.discogs.com/release/30091313-Thundercat-Apocalypse) |

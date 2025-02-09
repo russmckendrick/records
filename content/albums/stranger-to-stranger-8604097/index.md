@@ -64,7 +64,7 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_to_Stranger |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Concord Records |
 | Catalog Number | 0888072397811 |
 | Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert. |

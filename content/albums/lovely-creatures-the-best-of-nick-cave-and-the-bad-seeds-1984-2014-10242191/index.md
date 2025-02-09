@@ -72,7 +72,7 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Remastered (180 g) |
+| Format         | 3× Vinyl (180 g) LP, Compilation, Remastered |
 | Label          | Mute |
 | Catalog Number | LPSEEDS15 |
 | Notes | Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [url=https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250]Another version[/url] of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve.  |

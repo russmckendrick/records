@@ -59,7 +59,7 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | 4AD |
 | Catalog Number | 4ad0452lp |
 | Notes | Tracks listed sequentially (1 to 12) on sleeve and label.  Some copies lack sticker barcode.  |

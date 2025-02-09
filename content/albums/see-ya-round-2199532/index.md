@@ -59,7 +59,7 @@ After an appearance on Countdown and the release of "One Mouth Is Fed" as a foll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/See_Ya_%27Round |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mushroom |
 | Catalog Number | RML 52050 |
 | Notes | Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing |

@@ -61,7 +61,7 @@ Schmilco is the tenth studio album by the American rock band Wilco, released on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Schmilco |
-| Format         | Vinyl LP Album Limited Edition (Pink, 180 grams) |
+| Format         | 1× Vinyl (Pink, 180 grams) LP, Album, Limited Edition |
 | Label          | dBpm Records |
 | Catalog Number | 7259-1 |
 | Notes | Released in gatefold sleeve with download card. |

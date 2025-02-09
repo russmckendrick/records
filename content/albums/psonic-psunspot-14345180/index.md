@@ -57,7 +57,7 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psonic_Psunspot |
-| Format         | Vinyl LP Album Reissue Repress Stereo (Gatefold, 200 Gram) |
+| Format         | 1× Vinyl (Gatefold, 200 Gram) LP, Album, Reissue, Repress, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELP024 |
 | Notes | This reissue is a repress of the 2010 release [r=2770110], cut by [a=John Dent]. This release was originally marketed as a new cut from [a501967], but they found and used the previously used plates.  Back cover: All songs by Andy Partridge as SIR JOHN JOHNS except A1, B2, B4 by Colin Moulding as THE RED CURTAIN ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd. Made In England  On labels: ℗ 2019 Ape House Ltd. © 2019 Ape House Ltd.  No track times on this issue.  Some copies issued with a colour-printed polylined inner sleeve with bevelled corners, showing XTC back catalogue on one side and some more APE releases on the other side.  Recorded at Sawmill Studios, Cornwall. Mastered [...] at Loud Mastering. |

@@ -93,7 +93,7 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Little_Rope |
-| Format         | Vinyl LP Album Limited Edition Stereo (Metallic Gold) |
+| Format         | 1× Vinyl (Metallic Gold) LP, Album, Limited Edition, Stereo |
 | Label          | Loma Vista |
 | Catalog Number | LVR03681 |
 | Notes | Metallic Gold LP exclusive to Sleater-Kinney + Loma Vista Recordings Online. Packaged in a gatefold sleeve. Includes a printed inner sleeve.  LVR03681 is on the sleeve. LVR03742 is on the additional barcode sticker.  Matrix/Runout stamped except the first LVR03681, #2, #1, and BG are etched.  ℗ & © 2023 Sleater-Kinney, under exclusive license to Loma Vista Recordings. Manufactured and distributed by Concord, 10 Lea Avenue, Suite 300, Nashville, TN 37210. Made in U.S.A.  Recorded at Flora Recording And Playback, Portland, Oregon  Published by BMG Gold Songs / Code Word Nemesis (ASCAP), Administered by BMG Rights Management (US) LLC. |

@@ -123,7 +123,7 @@ styles: ["Alternative Rock", "Classic Rock", "Dance-pop", "Indie Pop", "Jangle P
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 6× LP Compilation (Translucent Red ), Box Set |
+| Format         | 6× Vinyl (Translucent Red ) LP, Compilation | 1× Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX71 |
 | Notes | Manufactured in the EU  6-LP, 140gm, translucent red vinyl box set  73 tracks featured in the following John Hughes films: National Lampoon's Vacation Sixteen Candles The Breakfast Club Weird Science Pretty In Pink Ferris Bueller's Day Off Some Kind of Wonderful Planes, Trains & Automobiles She's Having A Baby The Great Outdoors Uncle Buck  Includes 24-pg booklet with extensive liner notes and other commentary.  |

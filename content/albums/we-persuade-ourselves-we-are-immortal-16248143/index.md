@@ -48,7 +48,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | fsoldigital.com |
 | Catalog Number | LP TOT 79 |
 | Notes | There is a second pressing, [r=18310498], which was available on pre-order through Bandcamp, released on 17th of February 2021. It is identical to this first batch except for the more greenish sleeve artwork whereas this first edition is more blueish. |

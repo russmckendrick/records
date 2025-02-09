@@ -57,7 +57,7 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soul_Mining |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Some Bizzare |
 | Catalog Number | 19658720241 |
 | Notes | Made in the EU.  Reissued on vinyl for National Album Day. Used the 30th Anniversary boxset remaster.  Runouts are stamped, apart from ''Ⅰ'' on variant 2, which is etched. |

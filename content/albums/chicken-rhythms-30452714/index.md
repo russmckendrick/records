@@ -59,7 +59,7 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chicken_Rhythms |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Record Store Day, Limited Edition, Numbered, Reissue |
 | Label          | London Records Ltd. |
 | Catalog Number | FACT 310 |
 | Notes | Repress of the original Factory production master tapes. Restored artwork by Central Station Design. Numbered yellow vinyl edition.  |

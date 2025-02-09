@@ -51,7 +51,7 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ceremony_(New_Order_song) |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered |
 | Label          | Factory |
 | Catalog Number | FAC. 33 |
 | Notes | Recorded at Eastern Artists Recordings in East Orange, New Jersey, originally released in March 1981 (the 7” having been released in January) includes the original version of ‘Ceremony’ (i.e. version 1), remastered audio on heavyweight vinyl.  ℗ Original 1981, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Confirmed from copy in hand that this edition contains the original mix of In A Lonely Place (ie digital thunderclap at 3:20 and again at 5:15 and then none between 5:30 and 6:15) |

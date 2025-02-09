@@ -54,7 +54,7 @@ styles: ["Prog Rock", "Indie Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP |
+| Format         | 2× Vinyl LP |
 | Label          | Believers Roast |
 | Catalog Number | BRR3LP |
 | Discogs URL    | [Various - *** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songbook 1](https://www.discogs.com/release/3005353-Various--Leader-Of-The-Starry-Skies--A-Tribute-To-Tim-Smith-Songbook-1) |

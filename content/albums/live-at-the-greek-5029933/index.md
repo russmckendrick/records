@@ -79,7 +79,7 @@ Bassist Sven Pipien was fired between the two releases of the album and was airb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Greek |
-| Format         | Vinyl 3× LP Album Reissue (White) |
+| Format         | 3× Vinyl (White) LP, Album, Reissue |
 | Label          | The Orchard |
 | Catalog Number | TV-2140-1 |
 | Notes | ℗ & © 2000 The Orchard. © 1999 Classicberry Ltd. & © 1999 The Black Crowes Partnership. Manufactured & distributed by The Orchard.  Comes in a Tri-fold Sleeve with sticker attached to shrink-wrap. 180g vinyl. |

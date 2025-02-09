@@ -73,7 +73,7 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Very_Best_of_Crowded_House |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Universal Music |
 | Catalog Number | 00602557847581 |
 | Notes | 180 gram Black vinyl.  Comes with a hype sticker and a voucher with a download code |

@@ -66,7 +66,7 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Clear) LP | 1× Vinyl (Clear) LP, Single Sided, Etched | 1× All Media Album, Limited Edition |
 | Label          | Domino |
 | Catalog Number | WIGLP523X |
 | Notes | Comes with a 12"x12" insert with credits, and a download card.  ℗+©2024 Domino Recording Co. Ltd. |

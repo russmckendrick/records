@@ -58,7 +58,7 @@ The album featured collaborations with members of Kool and the Gang and included
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cliff_Hanger_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | CBS |
 | Catalog Number | CBS 26528 |
 | Discogs URL    | [Jimmy Cliff - Cliff Hanger](https://www.discogs.com/release/5515226-Jimmy-Cliff-Cliff-Hanger) |

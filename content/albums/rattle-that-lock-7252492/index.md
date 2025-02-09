@@ -80,7 +80,7 @@ The album received generally positive reviews from critics and was a commercial 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rattle_That_Lock |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Columbia |
 | Catalog Number | 88875123291 |
 | Notes | Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release. |

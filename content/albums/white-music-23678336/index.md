@@ -58,7 +58,7 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Music |
-| Format         | Vinyl LP Album Reissue Stereo (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELP101 |
 | Notes | Issued in a black poly lined inner sleeve. All runout details are hand etched.  [Sticker:] The 1978 classic debut album newly cut from masters approved by Andy Partridge Pressed on 200g super-heavyweight vinyl  [Rear jacket:] Mixed at The Manor & Advision ℗ 1978, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2022 Ape House Ltd. All rights reserved. Made in the UK. |

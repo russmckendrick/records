@@ -77,7 +77,7 @@ The album received generally favourable reviews from critics. It debuted at numb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hurry_Up,_We%27re_Dreaming |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange, 10th Anniversary) |
+| Format         | 2× Vinyl (Orange, 10th Anniversary) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | M7571 |
 | Notes | 10 year anniversary edition with alternate artwork.  724596951071 is the UPC of this release. The other is the generic UPC of the black pressing of the release. |

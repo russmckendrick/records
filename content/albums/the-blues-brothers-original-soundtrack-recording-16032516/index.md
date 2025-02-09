@@ -57,7 +57,7 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Blue Transparent) |
+| Format         | 1× Vinyl (Blue Transparent) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Atlantic |
 | Catalog Number | 603497845552 |
 | Notes | There are two versions of the info / hype sticker that may appear on the shrink-wrap.  Both stickers show the Warner (RCV1 16017) and Atlantic (603497845552) catalogue numbers: - "Limited-Edition Transparent Blue Vinyl - Celebrating 40 Years of the Legendary of the Legendary Film The Blues Brothers" (Europe) - "Limited Edition Exclusive Transparent Blue Vinyl - Only At Walmart" (U.S.A.)  In the U.K. this record was officially released on National Album Day 2020, which celebrated albums of the '80s [Saturday, 10-10-20]  ℗ & © 1980 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Unauthorized duplication is a violation of applicable laws. Made in the Netherlands. RCV1 16017 / 603497845552 |

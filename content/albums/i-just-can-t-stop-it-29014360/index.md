@@ -73,7 +73,7 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Just_Can%27t_Stop_It |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Record Store Day, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725637 |
 | Discogs URL    | [The Beat (2) - I Just Can't Stop It](https://www.discogs.com/release/29014360-The-Beat-2-I-Just-Cant-Stop-It) |

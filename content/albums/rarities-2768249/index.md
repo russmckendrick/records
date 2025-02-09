@@ -85,7 +85,7 @@ Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rarities_(Emil%C3%ADana_Torrini_album) |
-| Format         | Vinyl 4× LP Compilation |
+| Format         | 4× Vinyl LP, Compilation |
 | Label          | One Little Indian |
 | Catalog Number | TPLP1081 |
 | Notes | Issued in a slip case with 2 separate outer sleeves. Hype sticker on shrink wrap.  This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records.  The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited. CAT NO. TPLP1081 (LC 03275) 5 016958 134662.  |

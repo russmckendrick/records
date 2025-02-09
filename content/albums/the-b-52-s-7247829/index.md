@@ -59,7 +59,7 @@ The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_B-52%27s_(album) |
-| Format         | Vinyl LP Album Reissue (180 gram, Audiophile Pressing) |
+| Format         | 1× Vinyl (180 gram, Audiophile Pressing) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1420 |
 | Notes | Black vinyl. Insert with lyric included. |

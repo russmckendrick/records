@@ -76,7 +76,7 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold-Diggers_Sound |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Columbia |
 | Catalog Number | 19439886991 |
 | Notes | Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1.  |

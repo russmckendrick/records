@@ -81,7 +81,7 @@ Hammersmith Odeon, London '75 is a concert video and the fourth live album by Br
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hammersmith_Odeon,_London_%2775 |
-| Format         | Vinyl 4× LP Album Repress |
+| Format         | 4× Vinyl LP, Album, Repress |
 | Label          | Columbia |
 | Catalog Number | 88985441551 |
 | Notes | All songs ASCAP except: "The E Street Shuffle" contains a portion of "Having A Party" [ABKCO Music, Inc. (BMI)]; "Kitty's Back" contains a portion of "Moondance" [WB Music Corp. obo itself and Caledonia Soul Music]; "Rosalita (Come Out Tonight)" contains portions of "Come A Little Bit Closer" [Morris Music, Inc] and "Theme From Shaft" [Irving Music, Inc. (BMI)]; "Detroit Medley" contains "Jenny Take A Ride" [EMI Longitude Music (BMI)/Sony/ATV Songs LLC (BMI)], "Devil With A Blue Dress On" [Stone Agate Music (BMI)] and "Good Golly Miss Molly" [Robin Hood Music Co. (BMI)/Cedos Music (BMI)]; "Quarter to Three" [Wixen Music Publishing Inc. o/b/o Rockmasters International Network Inc. (BMI)].  Hype sticker attached reads: Four LP Set First Time Ever On Vinyl Includes Digital Download  © 2006, 2017 Bruce Springsteen/88985387091SV2 ℗ 2005 Bruce Springsteen  Both this US release and unnumbered European release [r11827114] were made in the EU and have the same barcode 889854415518, but text above barcode on rear cover differs between the US and European releases. |

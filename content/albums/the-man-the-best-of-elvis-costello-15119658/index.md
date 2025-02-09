@@ -59,7 +59,7 @@ styles: ["New Wave", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Misprint |
+| Format         | 1× Vinyl LP, Compilation, Misprint |
 | Label          | Demon Records |
 | Catalog Number | FIEND 52 |
 | Notes | ℗ 1985 Riviera Global Record Productions Ltd © 1986 Demon Records Ltd Misprint - No mention of track A9 New Lace Sleeves on Side A label. It is however on the rear of the sleeve and on the pressing of the vinyl. |

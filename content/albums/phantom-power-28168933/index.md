@@ -73,7 +73,7 @@ The album, like their previous record Rings Around the World, was simultaneously
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Phantom_Power_(Super_Furry_Animals_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Die Cut Cover) |
+| Format         | 2× Vinyl (Die Cut Cover) LP, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT799DLP |
 | Notes | Hype sticker Heavyweight black vinyl  Double LP in die-cut sleeve Reassembled from original mixdown tapes, mastered in high definition for maximum quality.  Colour printed inner sleeves and insert with foreword by album executive producer Kurt Stern.  All elements of the runouts are etched on each side. |

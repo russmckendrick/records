@@ -66,7 +66,7 @@ A Northern Soul received positive reviews from music critics, many of whom prais
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Northern_Soul |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Reissue, Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 4786539 |
 | Notes | Originally released 1995 as [url=https://www.discogs.com/The-Verve-A-Northern-Soul/release/589054]HUTLP27[/url]. Includes printed innersleeves.  Sourced from digital files prepared from the original half-inch tapes. Remastered by Chris Potter & Tony Cousins at Metropolis and Sabian at Fullsound. The vinyl lacquers were cut by Matt Colton at Alchemy and the records were pressed by Optimal Media. |

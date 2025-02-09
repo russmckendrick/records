@@ -134,7 +134,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo (Remixed), Vinyl 3× LP Album, Box Set Compilation Deluxe Edition Limited Edition (180 Gram) |
+| Format         | 1× Vinyl (Remixed) LP, Album, Reissue, Stereo | 3× Vinyl LP, Album | 1× Box Set (180 Gram) Compilation, Deluxe Edition, Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190296609190 |
 | Notes | When preordered on the band's website the release includes an A4 artwork print which is signed by the band.  4 LP deluxe edition with a 2022 Re-Mix of Holidays in Eden on 1 LP and 3 LP's with the concert from the Hammersmith Odeon on 30th September 1991.  Issued as heavy cardboard box with lid with white on blue hype sticker on bottom right corner of front of box, on shrink wrap:  " MARILLION Limited Edition 4LP Box Set Includes: Original 1981 Album Remixed Previously Unreleased Triple Live Album Recorded In Hammersmith On The 1991 Holidays In Eden Tour. 32 Page Booklet Containing Rare Photos, New Artwork, Memorabilia And New Essay 180 Gram Vinyl 0190296609190 "  ℗ 2022 this compilation Parlophone Records Ltd.  © 2022 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  © 2022 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany |

@@ -61,7 +61,7 @@ Camera Obscura perform a retro-twee pop that skirts between ‘60s girl-group ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Maudlin_Career |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | 4AD |
 | Catalog Number | CAD 2907 |
 | Notes | Gatefold Sleeve, lyrics and credits printed inside gatefold. Artwork print on inner sleeve. Track durations not on release.  (P) & (C) 2009 Camera Obscura released under exclusive license to 4AD. Recorded in Atlantis Studio, Konst & Ramar studio and Cosmos Studio - Stockholm, Sweden. Mixed in Atlantis Studio - Stockholm, Sweden. All songs published by Universal Music.  We'd like to dedicate this album to the memory of James Simpson Dunbar.  |

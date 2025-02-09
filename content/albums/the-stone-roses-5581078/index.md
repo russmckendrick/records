@@ -64,7 +64,7 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Stone_Roses |
-| Format         | Vinyl LP Album Reissue Repress |
+| Format         | 1× Vinyl LP, Album, Reissue, Repress |
 | Label          | Silvertone Records |
 | Catalog Number | 88843041991 |
 | Notes | This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU. |

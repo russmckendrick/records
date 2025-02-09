@@ -59,7 +59,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Transparent Blue) |
+| Format         | 1× Vinyl (Transparent Blue) LP, Album, Limited Edition |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP909 |
 | Notes | Limited edition transparent blue vinyl, 250 copies only.   Rough Trade Exclusive + Monorail Scottish Exclusive.  ℗ 2024 Isobel Campbell under exclusive licence to Cooking Vinyl Limited. Made in Poland. |

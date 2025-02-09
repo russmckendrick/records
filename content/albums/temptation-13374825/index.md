@@ -50,7 +50,7 @@ Commercially, the album chart entries were concentrated in Europe. Upon release,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bleed_Out_(Within_Temptation_album) |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered |
 | Label          | Factory |
 | Catalog Number | fac 63 |
 | Notes | ℗ Original 1982, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Embossed sleeve, printed inner sleeve. |

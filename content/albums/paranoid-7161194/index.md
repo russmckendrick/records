@@ -72,7 +72,7 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Paranoid_(Black_Sabbath_song) |
-| Format         | Vinyl LP Album Reissue, CD Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× CD Album, Reissue |
 | Label          | Sanctuary |
 | Catalog Number | BMGRM054LP |
 | Notes | Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve.  Sticker on shrink-wrap reads: Includes CD of Album    Vertigo swirl on top left of front cover.  Vertigo swirl on side A disc label.    Recorded at Regent Sound and Island Studios  Management/Jim Simpson, Big Bear, Birmingham    ℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  © 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group.  Made in EU     |

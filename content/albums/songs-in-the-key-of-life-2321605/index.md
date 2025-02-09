@@ -72,7 +72,7 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram), Vinyl 7" |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered | 1× Vinyl 7" |
 | Label          | Motown |
 | Catalog Number | 0600753164228 |
 | Notes | Includes 24-page lyric booklet. Unlike many earlier issues this version in not auto-coupled. |

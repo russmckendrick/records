@@ -57,7 +57,7 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Turning_the_Mind |
-| Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue Repress (Orange) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Etched | 1× All Media (Orange) Album, Limited Edition, Reissue, Repress |
 | Label          | Mute |
 | Catalog Number | STUMM298 |
 | Notes | Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.  Circular silver hype sticker on the cellophane reads:  First time on vinyl  Mute 4.0 Orange vinyl Limited edition of 500  Double album D side etching + Digital copy _  ℗ 2019 Mute Records Limited © 2009 Mute Records Limited Printed in the EU. |

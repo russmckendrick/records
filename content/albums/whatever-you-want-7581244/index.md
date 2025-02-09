@@ -52,7 +52,7 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whatever_You_Want_(Status_Quo_song) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723772 |
 | Discogs URL    | [Status Quo - Whatever You Want](https://www.discogs.com/release/7581244-Status-Quo-Whatever-You-Want) |

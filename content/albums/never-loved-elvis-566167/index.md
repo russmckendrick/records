@@ -67,7 +67,7 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Never_Loved_Elvis |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | The Far Out Recording Company |
 | Catalog Number | 847252-1 |
 | Notes | Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release. |

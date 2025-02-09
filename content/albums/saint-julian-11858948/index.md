@@ -52,7 +52,7 @@ Saint Julian is the third solo album by Julian Cope. It has a very strong pop so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Saint_Julian_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | ILPS 9861 |
 | Discogs URL    | [Julian Cope - Saint Julian](https://www.discogs.com/release/11858948-Julian-Cope-Saint-Julian) |

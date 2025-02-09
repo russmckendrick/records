@@ -70,7 +70,7 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Repress (Gatefold, 10th Anniversary Edition, Red Blood Splatter) |
+| Format         | 2× Vinyl (Gatefold, 10th Anniversary Edition, Red Blood Splatter) LP, Album, Limited Edition, Repress |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP327T |
 | Notes | "Recorded mostly at the Berry Drum in South London by the River Thames during Autumn/Winter 2012" All tracks composed and performed by Matt Berry. These tracks were released in very limited only forms in 2013, this expanded version of Kill The Wolf sees their first ever vinyl only release. |

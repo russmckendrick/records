@@ -56,7 +56,7 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Building_a_Beginning |
-| Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
+| Format         | 1× Vinyl (Red) LP, 45 RPM | 1× Vinyl (Yellow) LP, 45 RPM | 1× All Media Album |
 | Label          | Jajulin |
 | Catalog Number | JJL004 |
 | Notes | Gatefold sleeve. Includes digital download.  |

@@ -59,7 +59,7 @@ The album was also released in a limited edition, 300 copy, double LP 180 gram v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/How_Strange,_Innocence |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered Stereo (Blue Light & Dark Mix) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (Blue Light & Dark Mix) Album, Reissue, Remastered, Stereo |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR085 |
 | Notes | © 2000 Explosions In The Sky ℗ 2019 Temporary Residence Ltd.  Gatefold sleeve version, the tri-fold is [url=http://www.discogs.com/release/13995414]here[/url].  Limited edition (4.000) with light & dark blue mix vinyl. Includes MP3 download coupon inside package.  This record was pressed by RTI as per direct correspondence with Jeremy deVine, label manager of Temporary Residence Limited. |

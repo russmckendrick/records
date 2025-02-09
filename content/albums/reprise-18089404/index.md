@@ -69,7 +69,7 @@ Reprise is the 19th studio album by American musician Moby, released on May 28, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Reprise_(Moby_album) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Deutsche Grammophon |
 | Catalog Number | 483 9867 |
 | Notes | ℗ 2021 LITTLE IDIOT, UNDER EXCLUSIVE LICENSE TO DEUTSCHE GRAMMOPHON GMBH, BERLIN. 2 LPs in a gatefold sleeve including 2 printed innersleeves with photos and credits. |

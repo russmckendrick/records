@@ -52,7 +52,7 @@ styles: ["House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Stereo |
+| Format         | Vinyl LP, Stereo |
 | Label          | [{'name': 'Lex Records', 'catno': ''}] |
 | Catalog Number | LEX163LP |
 | Discogs URL    | [Belief (9) - Belief](https://www.discogs.com/release/24040121-Belief-9-Belief) |

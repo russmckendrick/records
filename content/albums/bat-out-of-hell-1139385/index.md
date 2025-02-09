@@ -61,7 +61,7 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bat_Out_of_Hell |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 82419 |
 | Notes | Epic 'Sky Blue' labels used from October 1979 until mid 1985.  Track B2 is seperated into three parts. Credit for arranging reads: "Arranged by Jim Steinman with Todd Rundgren".  Recorded at Bearsville Sound, Bearsville, N.Y., Utopia Sound, Lake Hill, N.Y., The Hit Factory, New York City, N.Y., House Of Music, West Orange, N.J. Mastered at The Cutting Room.  Dedicated to Wesley and Wilma Aday and Louis Steinman.  ⓟ 1977 CBS Inc / © 1977 CBS Inc. Issue with an insert containing lyrics.  Shorepack by Shorewood Packaging Co. Ltd. England  Recorded at: Bearsville Sound, Bearsville, N.Y. Utopia Sound, Lake Hill, N.Y. The Hit Factory, New York City, N.Y. House Of Music, West Orange, N.J.  [r=21945979] is almost the same as this release but does NOT include an inner sleeve with printed credits + lyrics, and also has "EPC 82419" on the labels [r=10022013] is almost the same as this release but has "S EPC 82419" not "EPC 82419" cat # printed on the labels |

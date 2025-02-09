@@ -69,7 +69,7 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Harmony_Codex |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Album, Limited Edition, Stereo |
 | Label          | Virgin Music Group |
 | Catalog Number | SW7V2 |
 | Notes | Rear sleeve: "00044003353008 / SW7V2 ℗ 2023 Steven Wilson Productions Ltd. Distributed by Virgin Music Group. © 2023 Steven Wilson Productions Ltd. Made in the EU. LC03261. BIEM/SDRM. stevenwilsonhq.com".  "Made in Germany" sticker on shrink wrap of the rear sleeve.  Initial copies sold via the Burning Shed website came with four exclusive postcards in an envelope, flap sealed with a Steven Wilson sticker.  Includes printed inner sleeve containing lyrics.  300 copies were sold by Assai Records as part of the Assai Records Obi Editions featuring a numbered Obi signed by Steven Wilson. |

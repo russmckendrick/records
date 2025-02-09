@@ -61,7 +61,7 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Replicas_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 7 |
 | Notes | Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Mixed at Marcus Music AB, London  Thanks So Far To: Tony Webb, Derek Cox, Cheryl McLachlan, Stephen Webbon, Karen, Mike Stone, John Peel, Pete Edwards, Hugh S., The Two Soos, Rosanna, Kelly Pike, Su ”Magus”.   The lacquer cut identifier appears as /L (AL for Alex Nimmermann) in runouts |

@@ -67,7 +67,7 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_People_Tree |
-| Format         | Vinyl 2× LP Album Reissue Special Edition |
+| Format         | 2× Vinyl LP, Album, Reissue, Special Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP384 |
 | Notes | 30th Anniversary 2LP Edition  Includes 3 previously unreleased tracks, 5 tracks previously unreleased on vinyl |

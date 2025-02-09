@@ -61,7 +61,7 @@ styles: ["Soul", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Neon Orange), Flexi-disc 7" 45 RPM Shape (Orange), All Media Deluxe Edition Limited Edition |
+| Format         | 1× Vinyl (Neon Orange) LP, Album | 1× Flexi-disc (Orange) 7", 45 RPM, Shape | 1× All Media Deluxe Edition, Limited Edition |
 | Label          | Plastique Recordings |
 | Catalog Number | FAKE133X |
 | Notes | Edition includes a square flexi-disc.  Includes a signed art-print.  Downloadable lyric booklet.  Edition of 170   |

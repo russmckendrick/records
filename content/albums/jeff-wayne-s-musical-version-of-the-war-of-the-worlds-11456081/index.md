@@ -73,7 +73,7 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jeff_Wayne%27s_Musical_Version_of_The_War_of_the_Worlds |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
+| Format         | 2× Vinyl (Gatefold, 180ɢ) LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985449431 |
 | Notes | Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU |

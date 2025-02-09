@@ -62,7 +62,7 @@ Death Magnetic made Metallica the first band to achieve five consecutive number-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Death_Magnetic |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Silver (Magnetic Silver)) |
+| Format         | 2× Vinyl (Silver (Magnetic Silver)) LP, Album, Limited Edition, Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND018-1 |
 | Discogs URL    | [Metallica - Death Magnetic](https://www.discogs.com/release/30895191-Metallica-Death-Magnetic) |

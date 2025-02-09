@@ -67,7 +67,7 @@ Two video documentaries on the recording, Things That Go Pump in the Night and T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pump_(album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954381 |
 | Notes | Issued with a printed black and white inner sleeve and has a "Back To Black" sticker on the front of the protective shrink-wrap. Includes a "Back To Black" coupon to download MP3 version of the album. Current pressings does not have a "Back To Black" sticker on the front shrink wrap and does not have a download card.  There's also the [url=https://www.discogs.com/release/9294317]US release[/url] issued a month earlier.  [Catalog numbers] 00602547954381: Back cover, spine, inner sleeve B0025183-01: Labels  [Back cover] Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Mastered by Greg Fulginiti at Artisan Sound Recorders, Los Angeles, CA ℗ 1989 © 2016 Geffen Records. Made in the E.U. Universal International B.V. Gerrit Van Der Veenlaan  [Inner sleeve] Pumping Gas Photo by Sol Libsohn, University of Louisville Photographic Archives Trucks photo © American Stock Photography  [Labels] ℗ 1989 © 2016 Geffen Records |

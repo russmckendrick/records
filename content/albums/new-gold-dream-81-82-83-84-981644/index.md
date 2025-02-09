@@ -55,7 +55,7 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Two Rights) |
+| Format         | 1× Vinyl (Two Rights) LP, Album |
 | Label          | Virgin |
 | Catalog Number | 204 965 |
 | Notes | This version has only the two Rights mentioned in the box on the labels.  Made in: Summer '82. Distributed by the Ariola Group of Companies. Printed in Western Germany by Mohndruck Graphische Betriebe GmbH, Gütersloh.  Sleeve: at Assorted iMaGes.  P & C: 1982 Virgin Records Ltd.  Printed inner sleeve with lyrics. All lyrics reproduced by kind permission of EMI Music Publishers Ltd. (P: 1982)  Labels: ℗ & © 1982 Virgin Records Ltd.  Runouts are stamped. |

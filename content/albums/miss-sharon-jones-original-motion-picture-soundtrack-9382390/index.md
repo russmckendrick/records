@@ -64,7 +64,7 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Daptone Records |
 | Catalog Number | DAP-043 |
 | Notes | Gatefold sleeve. Includes MP3 download code.  Includes a performance of "His Eye On The Sparrow" as heard in the film sung by Sharon Jones in her local church in Augusta, GA. |

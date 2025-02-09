@@ -61,7 +61,7 @@ The cover artwork is a reference to Happy Days, a play by Samuel Beckett, whose 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Semi-Detached_(album) |
-| Format         | Vinyl LP Album Reissue (Yellow And Black Marbled, 180 Gram, 25th Anniversary Edition) |
+| Format         | 1× Vinyl (Yellow And Black Marbled, 180 Gram, 25th Anniversary Edition) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3567 |
 | Notes | Premier vinyl LP version of this album. Upon original release in 1998, it was never released on LP, the only vinyl version being the multi-7" box set, see [r=970042].  25th anniversary edition on coloured heavyweight opaque vinyl. Matte sleeve. Disc held in a polylined die cut white paper inner sleeve. Includes a 12" square matte paper insert, printed on both sides. The packing did not come shrink-wrapped, rather in a resealable polypropylene cover. Affixed to this is a bronze/gold hype sticker.  Runouts are etched.  Track A3 is listed as "Black Eye Purple Sky" on cover and label but is printed "Black Eye, Purple Sky" on lyric sheet.  Made in the Netherlands. |

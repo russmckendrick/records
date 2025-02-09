@@ -62,7 +62,7 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_Horses |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Bella Union |
 | Catalog Number | BELLA1582V |
 | Notes | Gatefold sleeve and includes a 4 page 12" x 12" insert with lyrics and band member images.  Made in Germany. |

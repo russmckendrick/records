@@ -65,7 +65,7 @@ It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stacked_Up |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
+| Format         | 2× Vinyl (Yellow Fluorescent) LP, Album, Limited Edition, Numbered |
 | Label          | Ultimate |
 | Catalog Number | topp lp008s |
 | Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold sleeve with lyrics on inside. Some with merchandise insert. Runouts: all hand-etched.  |

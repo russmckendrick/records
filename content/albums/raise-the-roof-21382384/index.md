@@ -63,7 +63,7 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raise_the_Roof_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Red Translucent) |
+| Format         | 2× Vinyl (Red Translucent) LP, Album, Limited Edition, Stereo |
 | Label          | Warner Music |
 | Catalog Number | 0190296548857 |
 | Notes | Amazon Europe limited release.  Comes in a gatefold sleeve with alternate red artwork.  Issued with plain black inner sleeves (discobags), both with the catalog number.  ℗ & © 2021 Hokker, Inc and Trolcharm Limited. Under exclusive licence to Warner Music UK Limited for the World excluding USA and Canada  Made in The Netherlands.  T Bone Burnett appears courtesy of Verse Forecast Bill Frisell  appears courtesy of Blue Note Records Lucinda Williams  appears courtesy of Highway 20 Records  Runouts: 34476 1A, 34476 1B, 34476 1C and 34476 1D are stamped, everything else is etched. |

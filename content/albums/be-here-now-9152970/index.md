@@ -76,7 +76,7 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Be_Here_Now_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85 |
 | Notes | Double heavyweight vinyl. Includes download code for album, rare & unreleased tracks, & mustique demos.  Original release date was 7.10.2016 but it was postponed to 14.10.2016.   Back sleeve: ℗ & © 2016 Big Brother Recordings Ltd The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.  WWW.OASISINET.COM  All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Inside panel: Recorded at Abbey Road, Ridge Farm, Air, Master Rock and Orinoco Studios, England between Nov 96 - April 97 All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Labels: The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd. ℗ & © 2016 Big Brother Recordings Ltd All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd) |

@@ -57,7 +57,7 @@ styles: ["Doom Metal", "Stoner Rock", "Classic Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Yellow ) |
+| Format         | 1× Vinyl (Yellow ) LP, Album |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75411 |
 | Notes | Track numbering on the label is sequential 1 through to 10.  Custom packaging includes a die-cut front panel. Includes digital download.  Made in the EU.  First cat # is on the spine, second cat # is on inner sleeve. |

@@ -58,7 +58,7 @@ Just as 1989’s <i>Technique</i> revelled in the excitement of late-1980s acid 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Republic_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0825646072231 |
 | Notes | Recorded and mixed at Real World & RAK.  Designed at Pentagram.    180g Vinyl  Printed inner sleeve  incl. download code for mp3 version of this album    ℗ 2015 Warner Records 90 LTD  © 1993 CentreDate Co. Ltd |

@@ -65,7 +65,7 @@ styles: ["Heavy Metal", "Hard Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_More_Tears_(Ozzy_Osbourne_song) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Epic |
 | Catalog Number | 19439877271 |
 | Notes | Released in a gatefold cover, with hype sticker on seal: "DOUBLE VINYL SET; Includes NO MORE TEARS and MAMA, I'M COMING HOME; 19439877271" |

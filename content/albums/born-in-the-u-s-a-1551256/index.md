@@ -78,7 +78,7 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_in_the_U.S.A. |
-| Format         | Vinyl LP Album Stereo (Sunburst Label) |
+| Format         | 1× Vinyl (Sunburst Label) LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | CBS 86304 |
 | Notes | This album comes with printed inner sleeve with pics and credits, a lyrics sheet and an overview of Bruce Springsteen "All The Music".  Some copies come without the overview insert. Some copies have a sticker, there are at least 4 different possible stickers.  On back cover : © 1984 Bruce Springsteen / ℗ 1984 Bruce Springsteen Made in Holland. Distribution CBS Records / CBS Disques S.A.  On lyrics insert : All songs © 1984 Bruce Springsteen (ASCAP)  On inner sleeve (credits side) : © 1984 Bruce Springsteen 01-086304-20  On labels : ℗ 1984 Bruce Springsteen Made in Holland  Runouts description:  Everything is hand-etched except 'MASTERDISK' which is stamped On variant 7 (side A) 'C 01-86304-3A-1' is stamped |

@@ -58,7 +58,7 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In-A-Gadda-Da-Vida |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Smoked Clear with Green & Pink Splatter) |
+| Format         | 1× Vinyl (Smoked Clear with Green & Pink Splatter) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | ATCO Records |
 | Catalog Number | 081227941918 |
 | Notes | Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation |

@@ -64,7 +64,7 @@ The album was initially released for free as downloads on the internet. Later it
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Poet%27s_Life |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 0491-1 |
 | Notes | Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made. |

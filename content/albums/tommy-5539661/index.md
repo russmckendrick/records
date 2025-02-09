@@ -74,7 +74,7 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tommy_(The_Who_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | B0019527-01 |
 | Notes | Includes 12 page booklet containing lyrics and artwork.  Runouts are etched. |

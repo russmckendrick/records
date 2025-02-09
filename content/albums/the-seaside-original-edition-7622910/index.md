@@ -57,7 +57,7 @@ styles: ["Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Remastered |
+| Format         | 2× Vinyl LP, Album, Remastered |
 | Label          | Alphabet (3) |
 | Catalog Number | ALPH LP 001 |
 | Notes | 2015 remastered "Original Edition"  Remastered from the original tapes with all 13 original tracks restored and committed to heavy double vinyl. Lovingly recreated artwork with unseen photography in gatefold format. Download voucher includes three alternate version of 'Gena Lolla Brigida', 'Hope Day' and 'Jibber and Twitch' from the 1995 reissue.   Originally released in 1984 as [url=http://www.discogs.com/Cardiacs-The-Seaside/release/4391932]ALPH 001[/url] Record at Crow Studios, Surbition, Surrey, England. Transferred from the original analogue tapes at FX Copyroom. Remastered at Golden Digital No 1 Studio, Prague, July 2015.   © 1984 The Alphabet Business Concern.  |

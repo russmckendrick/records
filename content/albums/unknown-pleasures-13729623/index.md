@@ -66,7 +66,7 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Unknown_Pleasures |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red [Ruby Red], 180g) |
+| Format         | 1× Vinyl (Red [Ruby Red], 180g) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Factory |
 | Catalog Number | FACT 10 40 |
 | Notes | 30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.  [Labels] ℗ 2015 & ©  2019 Warner Records UK Ltd.   [Sticker (on shrink wrap)] Joy Division Unknown Pleasures 40th anniversary limited edition of the classic debut album Pressed on ruby red 180g heavyweight vinyl |

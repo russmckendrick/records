@@ -78,7 +78,7 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl 7" 45 RPM Single Sided, All Media Album Limited Edition Misprint Reissue Stereo |
+| Format         | 1× Vinyl LP | 1× Vinyl 7", 45 RPM, Single Sided | 1× All Media Album, Limited Edition, Misprint, Reissue, Stereo |
 | Label          | We Release Whatever The Fuck We Want Records |
 | Catalog Number | WRWTFWW017LTD |
 | Notes | Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet. |

@@ -57,7 +57,7 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/These_Systems_Are_Failing |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT049LP |
 | Notes | Printed inner sleeve and lenticular cover.  Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".  ℗ 2016 little idiot © 2016 little idiot  |

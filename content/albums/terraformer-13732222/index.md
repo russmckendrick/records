@@ -59,7 +59,7 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Red Mix/Blue Mix) |
+| Format         | 2× Vinyl (Red Mix/Blue Mix) LP, Album, Limited Edition |
 | Label          | Evil Ink Records |
 | Catalog Number | EI304 |
 | Notes | First Pressing out of 1500 copies Comes in a gatefold sleeve with standard white inner sleeves.  20 pages Booklet. And Hype sticker on the sealed sleeve.  750 Adult Bundles were released which included Full Band Autographed Score Songbook + Father and Son Trading Cards. |

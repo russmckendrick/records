@@ -60,7 +60,7 @@ Swirling together the techniques and textures of rock and blues greats—The All
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Anthem_of_the_Peaceful_Army |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Lava |
 | Catalog Number | 00602567949756 |
 | Notes | Similar to a [l1522969] repress [r=27436266], which has different runouts.  Includes a two-sided lyric/credit sheet insert.  Tracks listed sequentially on the back cover (e.g. "Side 2 track six").  Misspellings: - The title is misspelled on the back cover as "Anthem of the Peacful Army". - A line from the song 'When the curtain falls' has a spelling mistake in the lyric sheet: "Well I loved you in that move (movie) show". - A line from the song 'Anthem' has a word missing in the lyric sheet: "That the world is only what ('the' is missing) world is made of".  [On back cover]: ℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC. [...] Made in the EU. Universal International Music B.V.  [On the insert]: © | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing) All songs recorded at Blackbird Studio Nashville, TN All songs mixed [...] at Rustbelt Studios Royal Oak, MI All songs mastered [...] at Sterling Sound  Runouts are etched. Pressing plant identified by matrix code. |

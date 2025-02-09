@@ -60,7 +60,7 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_My_Life_(Talk_Talk_song) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | EMC 2400021 |
 | Notes | To distinguish from other similar releases:  This release does NOT have 'TALK 1' printed over the Barcode. The runout for side A and side B does NOT include extra etching, 'Rays' or a flower symbol, for lacquer cutting credit.  On sleeve: Logo: EMI (P) 1984 Original sound recordings made by EMI Records Ltd. (C) 1984 EMI Records Ltd. Emi Records Ltd., Hayes, Middlesex, England. Country of manufacture of record as stated on record label. Stereo. Available on cassette. SP8402GL  On labels: Tracks A1 & A4 (published by) Island Music Ltd. / Zomba Music Publishers Ltd. Tracks A2, A3, B1, B3, B4 & B5 (published by) Island Music Ltd. Track B2 (published by) Island Music Ltd. / Berlac Music. Side 1 total time: 19:57 Side 2 total time: 23:32 Manufactured in the Uk.  On inner sleeve: Cat# EMC 2400021 (1) Credits are printed on the inner sleeve. Inner sleeve with rounded corners.  Hype sticker reads: Includes Singles The It's My Life and Such A Shame. |

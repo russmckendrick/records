@@ -61,7 +61,7 @@ Though the band members were initially proud of their work on Caress of Steel, t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Caress_of_Steel |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 4711570 |
 | Notes | Issued in a gatefold cover with lyrics on inner spread. Includes a voucher for mp3 downloads. 180 gram heavyweight vinyl    Dedicated to the memory of Mr. Rod Serling    Recorded and mixed at Toronto Sound Studios, Toronto, Canada  DMM Mastering at Abbey Road Mastering Studios - October 2014  All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole.    ℗ © 2015 Mercury Records  Made in the EU |

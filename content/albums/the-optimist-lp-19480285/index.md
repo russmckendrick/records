@@ -78,7 +78,7 @@ In late 2011, Turin Brakes embarked on a national tour performing the whole of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Optimist_LP |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Amber Transparent) |
+| Format         | 2× Vinyl (Amber Transparent) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Two Piers Records |
 | Catalog Number | BN1LPX |
 | Notes | Back in print with refreshed artwork and bonus demos. 20th Anniversary Edition - Indie shops exclusive on "Transparent Amber Vinyl"  On sleeve: BN1LP On hype sticker: BN1LPX |

@@ -62,7 +62,7 @@ In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords labe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Queens_of_the_Stone_Age_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition, Reissue |
 | Label          | Matador |
 | Catalog Number | OLE1768LP |
 | Notes | Gatefold sleeve with [a1178021] art and original vinyl sequence. Featuring obi-strip designed by [a3311508]. Record comes with a plain black inner sleeve.  ℗ 1998 Queens of the Stone Age under exclusive license to Matador Records ℗ 2021 Queens of the Stone Age under exclusive license to Matador Records  Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.  Some orders from the Matador webstore came with a [a1178021] poster.  Tracks listed sequentially on release.  Cutting engineer and pressing plant derived from matrix.   |

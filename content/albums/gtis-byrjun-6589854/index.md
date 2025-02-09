@@ -73,7 +73,7 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue, CD Album |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP610 |
 | Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.   |

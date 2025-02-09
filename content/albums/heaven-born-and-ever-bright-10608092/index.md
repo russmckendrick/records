@@ -62,7 +62,7 @@ Heaven Born and Ever Bright is the third studio album by British rock band Cardi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heaven_Born_and_Ever_Bright |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP017 |
 | Notes | 2017 reissue on 180 gram vinyl in a gatefold sleeve. Sourced from the original master. |

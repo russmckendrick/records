@@ -61,7 +61,7 @@ Kill Bill Vol. 1 Original Soundtrack is the soundtrack to the first volume of th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_Bill_Vol._1_Original_Soundtrack |
-| Format         | Vinyl LP Compilation Reissue Repress |
+| Format         | 1× Vinyl LP, Compilation, Reissue, Repress |
 | Label          | Maverick |
 | Catalog Number | 9362-48570-1 |
 | Notes | Reissue/Repress of the 2003 original release [r441066].  If you look at the images of the centre labels, the 2003 release has a defined ridge about 2cm in from the edge.  This 2015 release does not.  Apart from this, it looks identical.  Includes a two-sided sheet with lyrics and infos.  |

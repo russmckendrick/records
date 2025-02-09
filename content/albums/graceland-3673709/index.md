@@ -62,7 +62,7 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Graceland_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Legacy |
 | Catalog Number | 88691914721 |
 | Notes | - Front Cover: Photo of Icon, courtesy of Langmuir Collection, Peabody Museum of Salem. - Back Cover: Liner notes (credited) + Track listing. - Originally Mastered by Greg Calbi at Sterling Sound, New York. - Comes with mp3 download and poster. - White inner sleeve with printed lyrics and notes.  |

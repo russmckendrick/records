@@ -80,7 +80,7 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Will_and_Testament |
-| Format         | Vinyl 2× 12" 45 RPM Album (Rough Seas) |
+| Format         | 2× Vinyl (Rough Seas) 12", 45 RPM, Album |
 | Label          | Reigning Phoenix Music |
 | Catalog Number | 1.0155 |
 | Notes | Indie exclusive variant. Gatefold sleeve.  Cat.number 1.0155 on spine, cat.number 1.0155.101.08 on top of barcode. |

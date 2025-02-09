@@ -56,7 +56,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE915 |
 | Notes | Digital download code inside |

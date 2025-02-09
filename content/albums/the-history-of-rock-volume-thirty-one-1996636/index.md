@@ -69,7 +69,7 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Orbis |
 | Catalog Number | HRL 031 |
 | Discogs URL    | [The Stranglers - The History Of Rock (Volume Thirty One)](https://www.discogs.com/release/1996636-The-Stranglers-Squeeze-2-Various-The-History-Of-Rock-Volume-Thirty-One) |

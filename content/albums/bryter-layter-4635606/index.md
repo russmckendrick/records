@@ -62,7 +62,7 @@ Bryter Layter is the second studio album by English folk singer-songwriter Nick 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bryter_Layter |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Textured Sleeve) |
+| Format         | 1× Vinyl (180 g, Textured Sleeve) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Island Records |
 | Catalog Number | 0602537347551 |
 | Notes | ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company. Made in the EU.  Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format: -24 bit / 96 kHz FLAC -24 bit / 96 kHz 320 Kbps MP3 -"Dubbed From Disc" 320 Kbps MP3  Adam Nunn's credit does not appear on release. Universal Music Group International appears on sticker and coupon only.  Cut from a tape-copy of original masters.  All the runout information on both sides is etched. The number "5" is inverted on variant 2's side B runout information. |

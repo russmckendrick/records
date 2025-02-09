@@ -63,7 +63,7 @@ Doubt received generally positive reviews about the songwriting, though some cri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Doubt_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Food |
 | Catalog Number | FOOD LP 5 |
 | Discogs URL    | [Jesus Jones - Doubt](https://www.discogs.com/release/564216-Jesus-Jones-Doubt) |

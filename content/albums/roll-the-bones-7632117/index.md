@@ -67,7 +67,7 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roll_the_Bones |
-| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 83737 |
 | Notes | Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto. Mixed at Nomis Studios, London. Pre-production work at Chalet Studio by Lerxst Sound. Mastered at Masterdisk, NYC.  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download. |

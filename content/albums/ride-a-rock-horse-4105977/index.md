@@ -57,7 +57,7 @@ Three singles were issued from Ride a Rock Horse: "Get Your Love", "Walking the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ride_a_Rock_Horse |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | ACB 199 |
 | Notes | Fully laminated sleeve printed by James Upton Ltd Made in England |

@@ -132,7 +132,7 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition, Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram) |
+| Format         | 1× Box Set Compilation, Deluxe Edition | 2× Vinyl (180 Gram) LP, Compilation, Repress | 2× Vinyl (180 Gram) LP, Compilation, Repress | 2× Vinyl (180 Gram) LP, Compilation, Repress |
 | Label          | Trojan Records |
 | Catalog Number | TROJANLP001X |
 | Notes | Sticker on cover.  Made in the EU |

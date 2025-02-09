@@ -70,7 +70,7 @@ Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Alice_(Tom_Waits_album) |
-| Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Single Sided, Etched |
 | Label          | Anti- |
 | Catalog Number | 6632-3 |
 | Notes | Sticker: Newly remastered with Waits/Brennan  6632-3 CAT. NO. on spine & labels |

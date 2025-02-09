@@ -65,7 +65,7 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Lines |
-| Format         | Vinyl LP Album Reissue Stereo (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Stereo |
 | Label          | Wild Bunch Records |
 | Catalog Number | 5700960 |
 | Notes | Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU |

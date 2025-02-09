@@ -44,7 +44,7 @@ styles: ["Avantgarde", "Experimental", "Indie Rock", "Psychedelic Rock", "Prog R
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" 45 RPM EP Limited Edition |
+| Format         | 1× Vinyl 7", 45 RPM, EP, Limited Edition |
 | Label          | Melodic Virtue |
 | Catalog Number | MVP008 |
 | Notes | 7" record housed in the inside rear cover of the limited edition coffee table book "Cardiacs: A Big Book and a Band and the Whole World Window"  From rear cover of record:  Cardiacs E.P.  Faster Than Snakes With A Ball And A Chain originally intended for inclusion on Guns (1999) Recorded and mixed at Apollo 8, Wiltshire  Aukamakic/Dead Mouse originally intended for inclusion on Cardiac Arrest E.P. (1979) Recorded and mixed at The Elephant Recording Studio, London  Mastered at Golden HIVE Studios, Prague  Distributed exclusively in Cardiacs: A Big Book and a Band and the Whole World Window.  ©℗ 2024 Alphabet  Printed in DE |

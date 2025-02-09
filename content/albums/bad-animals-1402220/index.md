@@ -62,7 +62,7 @@ The album's title refers to the band members themselves: they would call themsel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_Animals |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2032 |
 | Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom. |

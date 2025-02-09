@@ -58,7 +58,7 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition Reissue (Violet) |
+| Format         | 1× Vinyl (Violet) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Emperor Norton |
 | Catalog Number | 603497854400 |
 | Notes | Record Store Day 2019 exclusive pressed on translucent violet vinyl. Limited Edition of 8000 copies. Made in E.U.  Mastered At [l264302] is credited in liner notes. It refers to the original release from 2003 ([l264302] changed its name in 2010). Mastered At [l265641] is stamped in runout and refers to mastering for vinyl for this release. |

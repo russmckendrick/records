@@ -50,7 +50,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP (Green) |
+| Format         | 1× Vinyl (Green) 12", 45 RPM, EP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1230 |
 | Notes | ℗ 2024 Kscope. © 2024 Kscope.  Cover Image: O Interior de Fronteria, 2015 © Andreas Stöcklein (1957-2024) produced by © Ratton Cerâmicas Lda. Licensed courtesy of Galeria Ratton, Lisboa, in memory of the artist and friend. |

@@ -63,7 +63,7 @@ Black Sea was critically acclaimed and remains XTC's second-highest charting Bri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Sea_(XTC_album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (200g) |
+| Format         | 1× Vinyl (200g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Ape House |
 | Catalog Number | APELP104 |
 | Discogs URL    | [XTC - Black Sea](https://www.discogs.com/release/14153842-XTC-Black-Sea) |

@@ -50,7 +50,7 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Got_You_(Split_Enz_song) |
-| Format         | Vinyl 7" 45 RPM Single Stereo |
+| Format         | 1× Vinyl 7", 45 RPM, Single, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMS 7546 |
 | Notes | From the forthcoming A & M album [m=81214] AMLH 64822 A Boomerang production  Published by Modern Publishing Ltd./ATV Music Ltd. ℗ 1979 Mushroom Records Pty. Ltd. |

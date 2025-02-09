@@ -61,7 +61,7 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scott_2 |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Philips |
 | Catalog Number | SBL7840 |
 | Notes | Included 11" by 11" artist portrait insert.  SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.  A1. ℗ 1967 A2 to B6. ℗ 1968  A1, A5, B3. Carlin/BIEM A2. Lords Music A3. Robbins Music A4, A6, B1, B5. Miracle Songs B2. Blossom Music B4. Blue Seas/Jac B6. Frank Music |

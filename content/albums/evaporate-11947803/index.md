@@ -50,7 +50,7 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Monotreme Records |
 | Catalog Number | MONO-130VNL |
 | Notes | Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed Includes CD of the Album in Card Sleeve |

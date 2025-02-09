@@ -66,7 +66,7 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nebraska |
-| Format         | Vinyl LP Album Club Edition Reissue Remastered Stereo (Black Smoke, 180g, Gatefold) |
+| Format         | 1× Vinyl (Black Smoke, 180g, Gatefold) LP, Album, Club Edition, Reissue, Remastered, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19658704921 |
 | Notes | Packaged in gatefold tip-on jacket with record housed in anti-static sleeve. Comes with an obi strip, an art print, and a listening notes booklet.  Hype sticker: • 40th Anniversary Edition of Springsteen's Haunting, Homespun Masterpiece • Half-Speed Mastered by Barry Grint, Alchemy Mastering at AIR • Pressed on Exclusive 180g Black Smoke Vinyl • Listening Notes by Peter Ames Carlin; Art Print by Justin A. McHugh  © 1982, 2022 Bruce Springsteen. ℗ 1982 Bruce Springsteen. Manufactured for Vinyl Me, Please by Sony Music Entertainment, 25 Madison Avenue, New York, NY 10010-8601./"Columbia" and [logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada.  All words and music [...] © 1982 Bruce Springsteen (ASCAP)  Recorded in New Jersey [...] on a Teac Tascam Series 144 4-track cassette recorder Mastered at Atlantic Studios [...] |

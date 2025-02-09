@@ -53,7 +53,7 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Deluxe Edition Numbered (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Deluxe Edition, Numbered |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 6 |
 | Notes | Super Deluxe Stepping Aboard Edition, pink vinyl.  Side A ends in a lock-groove that repeats "nothing nothing nothing".  Vertical gatefold LP-style sleeve signed by all members with inner lyric sleeve. Limited to 500 copies. Comes with a certificate of authenticity authenticated by a band member when purchased directly from the band. |

@@ -54,7 +54,7 @@ Swing the Statue! is the second album by American singer/songwriter Victoria Wil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Swing_the_Statue! |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Rough Trade |
 | Catalog Number | Rough US 50 |
 | Notes | Issued with illustrated inner sleeve that includes credits and release information. |

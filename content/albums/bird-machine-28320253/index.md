@@ -65,7 +65,7 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bird_Machine |
-| Format         | Vinyl LP Album Limited Edition (Yellow & Black Opaque ) |
+| Format         | 1× Vinyl (Yellow & Black Opaque ) LP, Album, Limited Edition |
 | Label          | Anti- |
 | Catalog Number | 87081-1YAB |
 | Notes | Yellow and Black Opaque Vinyl Rough Trade Exclusive Limited to 500 copies US release 9th September 2023, UK release 29th September 2023. |

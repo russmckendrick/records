@@ -62,7 +62,7 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sounds_That_Can%27t_Be_Made |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Ear Music |
 | Catalog Number | 0209119ERE |
 | Notes | Comes in a gatefold cover with printed inner sleeves.   Written & Recorded at The Racket Club & Real World Studios during 2010, 2011 & 2012. Additional guitars recorded at UTB Studios  ℗ & © 2013 Intact Recordings under exclusive license to Edel Germany GmbH.  Made in Germany by optimal media GmbH  Manufacturing error: On some copies the labels of side C (green) and D (blue) have been swapped by mistake.  Durations are not noted anywhere on this release.   All runouts are etched.  |

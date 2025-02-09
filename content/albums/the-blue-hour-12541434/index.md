@@ -70,7 +70,7 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Blue_Hour_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Warner Music UK |
 | Catalog Number | WEA 503 |
 | Notes | Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.  No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].  The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860]. |

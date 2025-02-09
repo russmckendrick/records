@@ -71,7 +71,7 @@ A remastered and expanded edition of the album was released on November 5, 2021,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Beautiful_Garbage |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 140g) |
+| Format         | 2× Vinyl (White, 140g) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT528DCLP |
 | Notes | Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021 |

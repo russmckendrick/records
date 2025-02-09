@@ -57,7 +57,7 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Synchro_Anarchy |
-| Format         | Vinyl LP Album Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Stereo |
 | Label          | Century Media |
 | Catalog Number | 19439967881 |
 | Notes | Regular black vinyl version, includes A2 poster. 1 I mirrored in runouts (Variant 2)  Made in the EU. |

@@ -57,7 +57,7 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 10" Limited Edition (Blue Vinyl) |
+| Format         | 2× Vinyl (Blue Vinyl) LP, 10", Limited Edition |
 | Label          | Off Yer Rocka Recordings |
 | Catalog Number | OYR068 |
 | Notes | Fully re-recorded version of their first album released for the 30th anniversary. Blue vinyl limited to 750 copies |

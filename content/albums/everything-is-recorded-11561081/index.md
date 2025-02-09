@@ -65,7 +65,7 @@ styles: ["Trip Hop", "Beatdown"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow), CD Album |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition | 1× CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XL883LPE |
 | Notes | Limited edition yellow vinyl issue. Includes cd in a clear slip case, 2x A4 art prints and an A4 facsimile of an XL Recordings dj reaction report. |

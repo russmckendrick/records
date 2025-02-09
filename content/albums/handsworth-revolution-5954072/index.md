@@ -51,7 +51,7 @@ England’s Steel Pulse took no prisoners with their cerebral yet accessible bra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Handsworth_Revolution |
-| Format         | Vinyl LP Album Reissue (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 535 158-2 |
 | Notes | "Back To Black" series.   180 gram heavyweight vinyl.   Includes a voucher to download MP3 version of the album. |

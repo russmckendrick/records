@@ -94,7 +94,7 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Floodland_(album) |
-| Format         | Vinyl LP Album Reissue, Vinyl 3× 12" 45 RPM EP Reissue, Box Set |
+| Format         | 1× Vinyl LP, Album, Reissue | 3× Vinyl 12", 45 RPM, EP, Reissue | 1× Box Set |
 | Label          | Warner Music Group |
 | Catalog Number | 0825646077038 |
 | Notes | LP has lyric sheet / poster included, emulating original release.  All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.  There are anomalies with all but the Side G & H runouts: The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM. |

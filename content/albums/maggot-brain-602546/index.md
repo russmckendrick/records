@@ -54,7 +54,7 @@ The album charted in the R&B Top 20. It features a ten-minute title track, large
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maggot_Brain |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Westbound Records |
 | Catalog Number | SEW 002 |
 | Notes | Reissue of the original [url=http://www.discogs.com/release/773587]Westbound release[/url] from 1971.  Also available on CD (CDSEW 002)  [Rear Cover Notes] Taken from Process Number Five on Fear The Process-Church of the Final Judgement.  ® 1971 Nine Records Inc © 1971 Nine Records Inc Direct Metal Mastered from digital tapes Made in West Germany  All titles Bridgeport Music Inc. ℗ 1971 Nine Records Inc.  Runouts are stamped.  |

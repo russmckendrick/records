@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251 |
 | Notes | Recorded between 2009 and 2010 on Jacobs Island, Shad Thames, London.    Some copies printed on reverse board with matte varnish, others printed on regular board with matte varnish |

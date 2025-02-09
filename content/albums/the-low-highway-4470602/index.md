@@ -60,7 +60,7 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Low_Highway |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | New West Records |
 | Catalog Number | NW5073 |
 | Notes | 180 gram pressing. Lyrics on inner sleeve   Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee Additional mastering for vinyl at NRP - Nashville, Tennessee  © & ℗ 2013 New West Records, LLC All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI) |

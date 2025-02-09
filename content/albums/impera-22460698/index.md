@@ -111,7 +111,7 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Impera |
-| Format         | Vinyl LP Album Limited Edition (Magenta [Dark Magenta]) |
+| Format         | 1× Vinyl (Magenta [Dark Magenta]) LP, Album, Limited Edition |
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |
 | Notes | Issued with a 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.  Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations |

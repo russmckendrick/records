@@ -59,7 +59,7 @@ The original album cover depicted two pictures by Jan Saudek, one of a woman wit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Beautiful_South |
-| Format         | Vinyl LP Album Reissue (Fluffy toys cover) |
+| Format         | 1× Vinyl (Fluffy toys cover) LP, Album, Reissue |
 | Label          | Go! Discs |
 | Catalog Number | 5743901 |
 | Notes | Comes with a download card. Matte sleeve. Picture/lyric inner sleeve. Package came shrink-wrapped.  Though labeled as ‚2017 Edition‘ it was released in January 2018.  Made in the EU Universal International Music B.V. |

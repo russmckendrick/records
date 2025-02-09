@@ -63,7 +63,7 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_Not_a_Safe_Place |
-| Format         | Vinyl 2× LP Album Limited Edition (Green Translucent, Embossed) |
+| Format         | 2× Vinyl (Green Translucent, Embossed) LP, Album, Limited Edition |
 | Label          | Wichita |
 | Catalog Number | WEBB570LPC |
 | Notes | Gatefold sleeve. Embossed lettering on cover. Die cut poly lined inner sleeves and single sided square insert of lyrics and credits. Includes full Album download in mp3 and FLAC.  Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London. Mixed at Assault & Battery, London. Mastered at Metropolis Mastering, London.  [Publicity]: James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.  ℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd. Released under exclusive license to [PIAS] outside of North America.   |

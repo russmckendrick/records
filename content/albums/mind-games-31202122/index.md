@@ -101,7 +101,7 @@ The album was recorded while Lennon was having difficulties with US immigration 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mind_Games_(John_Lennon_album) |
-| Format         | Vinyl LP Album Reissue, Vinyl LP |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP |
 | Label          | Lenono Music |
 | Catalog Number | 0602458993288 |
 | Notes | The Ultimate Mixes & Out-Takes Completely Remixed From The Original Multitracks.  Gatefold sleeve including Poster, 2 Postcards, 8 Page Booklet and an individually numbered Citizen of Nutopia ID Card.  Track D5 is (incorrectly) listed with 10:54 minutes, but is edited down to 5:39 minutes here.  ℗ & © 2024 The copyright in this compilation is owned by Calderstone Productions Limited (a division of Universal Music Group)/Yoko Ono Lennon.  Printed in E.U.  All Selections Copyright © 1973 Lenono Music administered by Downtown Music Ltd. ℗ & © 2024 Calderstone Productions Limited ( a division of Universal Music Group)/Lenono Music.   |

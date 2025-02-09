@@ -63,7 +63,7 @@ styles: ["Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album |
 | Label          | Rockosmos |
 | Catalog Number | ROK 16 |
 | Notes | The labels state "666 RPM", which is obviously incorrect. |

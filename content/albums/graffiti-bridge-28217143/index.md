@@ -70,7 +70,7 @@ The album was much better received in sales than the film. It reached number 6 i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Graffiti_Bridge_(album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | NPG Records |
 | Catalog Number | R1 27493 |
 | Discogs URL    | [Prince - Graffiti Bridge](https://www.discogs.com/release/28217143-Prince-Graffiti-Bridge) |

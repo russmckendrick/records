@@ -59,7 +59,7 @@ At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Pie_(Don_McLean_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | United Artists Records |
 | Catalog Number | UAS 29285 |
 | Notes | Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker  |

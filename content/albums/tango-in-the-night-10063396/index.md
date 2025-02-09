@@ -149,7 +149,7 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tango_in_the_Night |
-| Format         | CD Album Reissue Remastered, CD Remastered, CD Compilation Remastered, DVD DVD-Video NTSC Compilation, Vinyl LP Album Reissue Remastered (180g), Box Set Deluxe Edition Limited Edition (30th Anniversary Edition) |
+| Format         | 1× CD Album, Reissue, Remastered | 1× CD Remastered | 1× CD Compilation, Remastered | 1× DVD DVD-Video, NTSC, Compilation | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Box Set (30th Anniversary Edition) Deluxe Edition, Limited Edition |
 | Label          | Warner Bros. Records |
 | Catalog Number | R2 554813 |
 | Notes | Deluxe edition of 'Tango In The Night', contains: Disc 1: CD - Original album, remastered, Disc 2: CD - Demo's, Alternates and B-Sides, Disc 3: CD - The 12'' mixes, Disc 4: DVD - Promotional music videos and Hi-Res-Audio edition of the Tango In The Night album, Disc 5: 180g Vinyl LP - original album, remastered. Soft-back 12"x12" book, containing pictures and notes on Tango In The Night, written by various members of the band, Peel-off 12"x12" backing paper containing track listing. All housed in a 12"x12", solid, card sleeve.  The Everywhere video on the DVD is the version that doesn't feature the band superimposed.  Sticker on front with format description + cat. no. R2 554813 |

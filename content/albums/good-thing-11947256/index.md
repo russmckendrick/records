@@ -55,7 +55,7 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_Thing_(Leon_Bridges_album) |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Columbia |
 | Catalog Number | C-206928 |
 | Notes | Signed copies feature a stickered barcode: 190758530611 Made in EU. Includes download code. |

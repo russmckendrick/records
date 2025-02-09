@@ -71,7 +71,7 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sol_Invictus_(album) |
-| Format         | Vinyl LP Album Limited Edition (Gold) |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition |
 | Label          | Reclamation! Recordings |
 | Catalog Number | RRIPC002LPX |
 | Notes | This edition was available as a pre-order only to countries outside the USA.  750 copies were sent to the UK and Ireland for sale at independent record stores.  The total number of pressings of this edition is 1,500 copies.    The release date in Australia was 15th May 2015. The release date for the rest of the world receiving this pressing was 18th May 2015.    The record comes in a gold-foil printed gatefold sleeve. The record is housed in a printed inner sleeve.    A sticker affixed to the shrinkwrap on the front cover reads:  "Limited edition. Gold vinyl. includes download. RRIPCOO2LPX"  A barcode sticker affixed to the shrinkwrap on the rear cover obscures the barcode printed directly on the artwork.    The download is obtained via a printed card featuring album themed artwork on both sides. It is redeemed via www.ipecacdownloads.com/solinvictus    The rear sleeve:  ©&℗ 2015 Reclamation Recordings.  Licensed by Ipecac Recordings.  Manufactured & distributed by [PIAS].  WWW.IPECAC.COM | WWW.FNM.COM       |

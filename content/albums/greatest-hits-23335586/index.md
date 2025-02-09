@@ -60,7 +60,7 @@ It is also common for greatest hits albums to include new recordings, remixes or
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_hits_album |
-| Format         | Vinyl 2× LP Compilation Limited Edition Stereo |
+| Format         | 2× Vinyl LP, Compilation, Limited Edition, Stereo |
 | Label          | Warner Music Group |
 | Catalog Number | 0190296457791 |
 | Discogs URL    | [Whitesnake - Greatest Hits](https://www.discogs.com/release/23335586-Whitesnake-Greatest-Hits) |

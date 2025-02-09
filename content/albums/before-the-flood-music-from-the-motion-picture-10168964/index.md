@@ -71,7 +71,7 @@ An urgent documentary inspires a soundtrack dream team. <i>Before the Flood</i> 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album (180 gm) |
+| Format         | 2× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media (180 gm) Album |
 | Label          | Lakeshore Records |
 | Catalog Number | LSINV178LP |
 | Notes | Released in a 3 panel gatefold sleeve.  Hype Sticker - A collaboration between Trent Reznor / Atticus Ross, Mogwai and Gustavo Santaolalla for Fisher Steven's acclaimed climate change documentary. 3xLP pressed on 180 gram vinyl. Includes the track "A Minute to Breathe".  Cover image taken from the Before The Flood key art, provided by National Geographic. Photography provided by NASA, from the images of Change collection.  Mastered at Baker Mastering. Vinyl mastering for Bernie Grundmann Mastering, L.A., CA.  Publishing and recording studio details - A2, B3, D1, D3 to E2: T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  A1, A3, B5, C3, C4: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP) T. Reznor ©2016 Form and Texture Inc. c/o Kobalt Songs Music Publishing (ASCAP) A. Ross ©2016 Songs in the Key of Mink, administered by Downtown Music (BMI)  B2, C1, D2: G. Santaolalia ©2016 Devasuva, administered by Universal Musica Inc. (ASCAP)  B1, B4, C2, E3: Recorded and mixed at Castle of Doom Studios, Glasgow, Scotland. Mogwai ©2016 Tomorrow's Hits (ASCAP) |

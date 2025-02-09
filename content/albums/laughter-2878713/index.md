@@ -59,7 +59,7 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Laughter_(Ian_Dury_%26_The_Blockheads_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 30 NP |
 | Notes | Issued with a printed inner sleeve. |

@@ -70,7 +70,7 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Razors_Edge_(AC/DC_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Special Edition Stereo (Gold, 50th Anniversary Edition) |
+| Format         | 1× Vinyl (Gold, 50th Anniversary Edition) LP, Album, Limited Edition, Reissue, Remastered, Special Edition, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19658834611 |
 | Notes | Remastered from the original master tapes.  Hype sticker reads: "50th Anniversary  Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels".  Presented in an unlaminated sleeve. Picture inner sleeve of top opening thin card. Includes a 12" square card insert, printed on both sides which references the album title and series. Two hype stickers are applied to the shrink-wrap.  The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.  Runouts are very lightly stamped. |

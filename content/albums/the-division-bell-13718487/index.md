@@ -78,7 +78,7 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Division_Bell |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Parlophone |
 | Catalog Number | 0190295477394 |
 | Notes | 25th Anniversary Blue Heavyweight Vinyl  Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes With a Special Appearance by Stephen Hawking in "Keep Talkin"   Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection. All rights reserved. Made in the E.U.  [Runouts] All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped  |

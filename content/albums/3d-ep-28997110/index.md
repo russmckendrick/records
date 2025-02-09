@@ -42,7 +42,7 @@ styles: ["Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | CD EP Reissue Stereo |
+| Format         | CD EP, Reissue, Stereo |
 | Label          | [{'name': 'Ape House', 'catno': ''}] |
 | Catalog Number | APEEP906CD |
 | Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2023 Ape House Ltd.  Mail order copies can include a bonus postcard |

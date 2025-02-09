@@ -55,7 +55,7 @@ styles: ["Soundtrack", "Alternative Rock", "Hardcore", "Gangsta", "Indie Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP232 |
 | Notes | A sticker affixed to the polythene outer sleeve reads:  "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Actual 2022/2023 versions have same runouts but different hype sticker in silver. Newer (2024?) represses have golden stickers.  Track B5 is listed as a bonus track.  Mastered at Masterdisk, New York.  Motion picture photography & artwork title © 1993 Largo Entertainment. Originally released ℗ & © 1993 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. |

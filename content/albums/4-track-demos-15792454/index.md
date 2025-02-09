@@ -63,7 +63,7 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/4-Track_Demos |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 0851113 |
 | Notes | Includes a custom inner sleeve and a download card. An unconfirmed but very small number of pre-orders came with a 12" x 12" glossy, thick card art print of the front cover signed by PJ Harvey.  An Island Records Release. ℗1993 Universal Music Operations Ltd. ©1993 Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 'S-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. BIEM/SDRM.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP) |

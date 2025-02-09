@@ -69,7 +69,7 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Polydor |
 | Catalog Number | PODV 6 |
 | Notes | Issued in gatefold sleeve.  |

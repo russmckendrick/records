@@ -86,7 +86,7 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red Transparent), Vinyl LP Single Sided Etched (Blue Transparent), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Red Transparent) LP | 1× Vinyl (Blue Transparent) LP, Single Sided, Etched | 1× All Media Album, Limited Edition |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN006-1 |
 | Notes | Independent Record Stores Release Includes download code, lyric booklet, and printed inner sleeves.  Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA. Strings recorded at Bird Cloud Recording in Edwardsville, IL. Mastered at Sterling Sound in Edgewater, NJ.  All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).  © & ℗ 2019 Abraxan Hymns, LLC. |

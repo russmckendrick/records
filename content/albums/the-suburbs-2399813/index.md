@@ -67,7 +67,7 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Suburbs |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | City Slang |
 | Catalog Number | 2743427 |
 | Notes | Printed notes:  Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin;   and various bedrooms, living rooms and basements in Montréal.  Mixed at: Studio Frisson, Montréal.  Copyright Arcade Fire Music Inc. (Canada).  All Titles Copyright Control.    A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER.  EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.      Other notes:  Album comes in a gatefold sleeve.   Inner sleeves with lyrics and credits.  Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16.  Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely.   |

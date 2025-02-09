@@ -65,7 +65,7 @@ The Saint of Lost Causes is the eighth and final studio album released by Americ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Saint_of_Lost_Causes |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album |
 | Label          | New West Records |
 | Catalog Number | NW5279 |
 | Notes | Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker.  |

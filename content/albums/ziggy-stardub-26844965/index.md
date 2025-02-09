@@ -57,7 +57,7 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Blue Translucent [Royal Blue]) |
+| Format         | 1× Vinyl (Blue Translucent [Royal Blue]) LP, Album |
 | Label          | Easy Star Records |
 | Catalog Number | ES-1100V |
 | Discogs URL    | [Easy Star All-Stars - Ziggy Stardub](https://www.discogs.com/release/26844965-Easy-Star-All-Stars-Ziggy-Stardub) |

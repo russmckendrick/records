@@ -63,7 +63,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Compilation, Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP421 |
 | Notes | The track are numbered sequentially, 1 to 13, on the sleeve. |

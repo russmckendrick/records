@@ -53,7 +53,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Basin Rock |
 | Catalog Number | BR002 |
 | Notes | Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand.   Made in the EU.   2-piece flip-back cover |

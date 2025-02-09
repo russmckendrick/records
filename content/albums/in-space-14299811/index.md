@@ -63,7 +63,7 @@ The album features original Big Star members Alex Chilton and Jody Stephens on g
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Space |
-| Format         | Vinyl LP Album Reissue (Blue, Translucent) |
+| Format         | 1× Vinyl (Blue, Translucent) LP, Album, Reissue |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-338 |
 | Notes | Pressed on Translucent Blue Vinyl. Includes Liner Notes From the Band & Other Contributors.  |

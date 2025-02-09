@@ -68,7 +68,7 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Neon_Bible |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched Special Cut, All Media Album (Gatefold) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched, Special Cut | 1× All Media (Gatefold) Album |
 | Label          | Sonovox Records |
 | Catalog Number | 1724447 |
 | Notes | LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.  Side three has a locked groove in the run out repeatedly playing the same, short piece of music.  Recorded and mixed during 2006 at "the church" in Quebec. Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.  The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.  Tracks listed sequentially on release.  Runouts are etched. |

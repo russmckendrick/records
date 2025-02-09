@@ -57,7 +57,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered (Crimson Nebula Edition) |
+| Format         | 1× Vinyl (Crimson Nebula Edition) LP, Album, Limited Edition, Numbered |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 5 |
 | Notes | Super Deluxe Crimson Nebula Edition. Limited Edition of 500. Gatefold sleeve with black poly-lined inner sleeve. All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young. All songs performed and produced by Bill Fisher. Recorded at The Rainbow Lodge, Nottingham, England. Mastered by Lira Wish at Film-Maker Studios. Art and design by Zorad. ©℗ 2021 Bill Fisher |

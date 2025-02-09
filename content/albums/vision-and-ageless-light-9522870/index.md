@@ -50,7 +50,7 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album |
 | Label          | The Laser's Edge |
 | Catalog Number | LE1077LP |
 | Notes | Side two was captured at Relay Recording. All other recording and mixing at Backroads Recording. Mastered at Lacquer Channel Mastering.  All compositions © 2016 EYE ℗ The Laser's Edge |

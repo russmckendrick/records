@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | AAF Records (2) |
 | Catalog Number | AAF003LP |
 | Discogs URL    | [DJ Format - Still Hungry](https://www.discogs.com/release/10119644-DJ-Format-Abdominal-Still-Hungry) |

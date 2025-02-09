@@ -118,7 +118,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl 12" EP Reissue Remastered, Vinyl 12" EP Remastered (First Vinyl Pressing), Box Set Compilation Limited Edition Numbered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl 12", EP, Reissue, Remastered | 1× Vinyl (First Vinyl Pressing) 12", EP, Remastered | 1× Box Set Compilation, Limited Edition, Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985460181 |
 | Notes | Certificate of authenticity with number inside the box. 60-page booklet with rare photos, memorabilia and newspaper clippings from the years 1987 - 1996. The Blood Brothers EP is 1st pressing on any vinyl format.   Previously available only as a promotional CD.  All other albums contained in the set are reissues.   |

@@ -57,7 +57,7 @@ styles: ["Leftfield", "Indie Rock", "Acid House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | London Records |
 | Catalog Number | LMS1725047 |
 | Notes | Some stores sold this before official release date. |

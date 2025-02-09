@@ -63,7 +63,7 @@ The album was preceded by what Rolling Stone called "its triptych of instantly c
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Suede_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 1 |
 | Notes | 2014 Demon Records reissue on 180g vinyl.   Supplied with download card for the full album.  Late issue doesn't have Demon sticker or download coupon. Though reissued in 2014, copyright notice states '(c) 2013.' |

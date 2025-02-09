@@ -68,7 +68,7 @@ The song "Nothing to Do with Me" features lyrics derived from English satirist C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sound-Dust |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP Single Sided Etched, All Media Limited Edition Numbered (Clear, Gatefold, Expanded Edition) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Single Sided, Etched | 1× All Media (Clear, Gatefold, Expanded Edition) Limited Edition, Numbered |
 | Label          | Warp Records |
 | Catalog Number | D-UHF-D27RC |
 | Notes | Ⓟ 2001 Duophonic Ultra High Frequency Disks © 2019 Warp Records  Cat#: D-UHF-D27RC stickered on PVC front and back D-UHF-D27R printed on cover |

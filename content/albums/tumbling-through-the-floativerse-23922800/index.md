@@ -52,7 +52,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1176 |
 | Notes | All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet. |

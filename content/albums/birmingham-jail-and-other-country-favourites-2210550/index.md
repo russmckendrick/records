@@ -53,7 +53,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Reissue Mono |
+| Format         | 1× Vinyl LP, Reissue, Mono |
 | Label          | RCA Camden |
 | Catalog Number | CDM 1018 |
 | Notes | Made in England |

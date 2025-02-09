@@ -61,7 +61,7 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Master_of_Reality |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green, 180g, Gatefold) |
+| Format         | 1× Vinyl (Green, 180g, Gatefold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2562 |
 | Notes | Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971  2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds Reissue Design:  Gilmour Design  Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward  Lyrics printed on back cover of album Warner logo, "Stereo" and "2562" printed on front cover in upper left corner Also includes extra black inner sleeve with bio of band and album on both sides  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS GREEN VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "INTO THE VOID" & "CHILDREN OF THE GRAVE" RRI 2562  |

@@ -49,7 +49,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Blue/Red) |
+| Format         | 1× Vinyl (Blue/Red) LP, Album, Limited Edition |
 | Label          | Rockosmos |
 | Catalog Number | ROK262 |
 | Notes | Limited to 500 copies. Half and Half Blue/Red coloured vinyl. Some copies Signed rear side on sleeve. |

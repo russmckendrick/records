@@ -79,7 +79,7 @@ A distinct character of the same name is also mentioned in the Gospel of Luke in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lazarus_of_Bethany |
-| Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album |
+| Format         | 2× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media Album |
 | Label          | Columbia |
 | Catalog Number | 88985 37455 1 |
 | Notes | 3LP 180gr in a tri fold cover with 8 page booklet.  LAZARUS The original cast recording to the musical by David Bowie and Enda Walsh  Sticker on shrinkwrap: LAZARUS The Musical from David Bowie & Enda Walsh 19 cast recordings of David Bowie's music From Michael C. Hall, Cristin Milioti, Sophia Anne Caruso and more Includes the Most Recent Studio Recordings from [a10263] 180 GRAM VINYL PLUS DIGITAL DOWNLOAD 88985374551 S1  © 2016 & ℗ Compilation 2016 Jones Tintoretto Entertainment Company LLC, in association with Lazarus Productions, LLC under exclusive license to Columbia Records, a Division of Sony Music Entertainment  Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU. |

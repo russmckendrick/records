@@ -66,7 +66,7 @@ IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/IBM_1401,_A_User%27s_Manual |
-| Format         | Vinyl 2× LP Album Reissue (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD 2609 |
 | Notes | Gatefold jacket is embossed.  The orchestra was recorded at Barrandov Studios, Smecky Soundstage in Prague in September 2005. Additional recordings were made in Reykjavik, Skálholt, Florence, Madrid, Zurich, Piran and Rennes during the period 2003-2006. Mixed in Syrland, Reykjavik in February 2006. Mastered in Abbey Road.  Side D recorded live in concert at the Rudolfinium in Prague with the City of Prague Philharmonic Orchestra, 2nd November 2010 and are exclusive bonus tracks to the LP version of this release.  This LP release comes with a digital download of the entire album, including the 2 bonus tracks.  Tracks two and three feature the voice of "an unknown instructor from an IBM 1401 Data Processing System maintenance instruction tape found in my father’s attic."  All electronic sounds were derived from the IBM 1401 Data Processing System and the Hammond B3 organ with Ring Modulator, Distortion and Filter pedals. The music and sounds of the IBM 1401 Data Processing System were recorded by Jóhann Gunnarsson, Örn Kaldalóns and Elías Davídsson in Reykjavik in 1971. The musical fragment played by the computer is from the hymn "Ísland Ögrum Skorid" by Sigvaldi Kaldalóns, used by kind permission.  (P) 2006 4AD Ltd (C) 2006 4AD Ltd Manufactured in the UK  |

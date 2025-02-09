@@ -63,7 +63,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 grams) |
+| Format         | 1× Vinyl (180 grams) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Real World Records |
 | Catalog Number | PGLPR4 |
 | Notes | ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |

@@ -66,7 +66,7 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dirt_(Alice_in_Chains_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | MOVLP037 |
 | Notes | Sticker on shrink wrap reads: "Music On Vinyl  Classic Album  180 gram audiophile vinyl pressing www.musiconvinyl.com"  Different tracklisting than the original release. On original release "Down In A Hole" was the second-to-last track, some later reprints move it to track 4 instead. This vinyl version moves it to track 4, which also means the Side B opener ("Dirt") is instead track B2 and the Side A closer ("Junkhead") is the new Side B opener.  B4 is not listed on the jacket or label.  Includes a printed inner sleeve with lyrics & credits.  [a=Tom Araya] appears courtesy of [l=Def American Records].  Produced at One on One and Eldorado, 1992.  Mixed at Eldorado.  Mastered at Future Disc, Hollywood, CA.  Originally released ℗ & © 1992 Sony Music Entertainment This release ℗ & © 2009, Sony Music Entertainment Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU  Lyrics reproduced by kind permission of the publishers. All rights reserved.  © 2001 Sony Music Entertainment Inc.  |

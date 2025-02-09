@@ -65,7 +65,7 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Speaking_in_Tongues_(Talking_Heads_album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Sire |
 | Catalog Number | 8122796665 |
 | Notes | Comes with a printed inner sleeve, containing lyrics.  Basic tracks recorded at Blank Tapes, NY. Final overdubbing and mixing at Compass Point Studios and Sigma Sound, NY. © 1983 Bleu Disque Music Co./ Index Music, Inc. ASCAP  ℗ 1983 Sire Records Company. © 1983 Sire Records Company & Talking Heads Tours Inc.  On inner sleeve: Made in U.S.A. On labels: Made in EU. On back cover: Manufactured In The E.U. |

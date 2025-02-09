@@ -60,7 +60,7 @@ The album was the group's first since reforming with a new lineup of previous me
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Machine_Gun_Etiquette |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Ace |
 | Catalog Number | WIKD 333 |
 | Notes | Comes with an illustrated printed inner sleeve.  |

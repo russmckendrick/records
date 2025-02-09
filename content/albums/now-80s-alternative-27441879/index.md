@@ -68,7 +68,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Downtempo", "Dub", "Experim
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Red) |
+| Format         | 2× Vinyl (Red) LP, Compilation |
 | Label          | Sony Music |
 | Catalog Number | LPNNNOW141 |
 | Notes | UK edition 2 red vinyl compilation.  ℗ 2023  The copyright in this sound recording is owned by Now That's What I Call Music LLP.  © 2023 Now That's What I Call Music LLP.   LC48653   BIEM/SDRM   Made In The EU.   LPNNNOW141 / 0196588008818  [ERRATUM]: Track B2: [m=109695], incorrectly printed as Atmospherics: Listen To The Radio Track D4: [r=1816827], incorrectly printed as So. Central Rain |

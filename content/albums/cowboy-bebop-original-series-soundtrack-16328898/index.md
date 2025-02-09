@@ -73,7 +73,7 @@ styles: ["Soundtrack", "Score", "Anison"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Purple Translucent Marbled), Vinyl LP (Red/Gold Translucent Marbled), All Media Limited Edition Stereo |
+| Format         | 1× Vinyl (Purple Translucent Marbled) LP | 1× Vinyl (Red/Gold Translucent Marbled) LP | 1× All Media Limited Edition, Stereo |
 | Label          | Milan |
 | Catalog Number | 19439787681 |
 | Notes | Made in EU  Issued in a gatefold sleeve with printed inners.  The US release has swapped vinyl colours in opposite, the first disc is red/gold, and the second is purple. |

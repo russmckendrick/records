@@ -93,7 +93,7 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Skylarking |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue Repress, CD Album Reissue, Box Set Deluxe Edition Remastered |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Reissue, Repress | 1× CD Album, Reissue | 1× Box Set Deluxe Edition, Remastered |
 | Label          | Ape House |
 | Catalog Number | APELPD108 |
 | Notes | "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd.  |

@@ -64,7 +64,7 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blackfield_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange Black Marble ) |
+| Format         | 1× Vinyl (Orange Black Marble ) LP, Album, Limited Edition, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1233 |
 | Notes | "Limited Edition 20th Anniversary Marble Vinyl" Includes printed inner sleeve containing lyrics.  ℗ 2011 Snapper Music © 2004 Snapper Music. Made in the EU  Runouts are etched. |

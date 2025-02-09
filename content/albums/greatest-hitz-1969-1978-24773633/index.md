@@ -80,7 +80,7 @@ styles: ["Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (Translucent Grape), Vinyl LP (Translucent Pink) |
+| Format         | 1× Vinyl (Translucent Grape) LP, Compilation | 1× Vinyl (Translucent Pink) LP |
 | Label          | BMG |
 | Catalog Number | BMGCAT587DLP |
 | Discogs URL    | [The Sweet - Greatest Hitz 1969-1978](https://www.discogs.com/release/24773633-Sweet-Greatest-Hitz-1969-1978) |

@@ -55,7 +55,7 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eternal_Return_(Sarah_Blasko_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Universal Music |
 | Catalog Number | 4755574 |
 | Notes | Single sleeve with printed inner sleeve containing lyrics and album credits. Includes a download code.  ℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd. Manufactured and distributed by Universal Music Australia Pty Ltd  All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).  Produced & engineered at The Grove Studios. |

@@ -53,7 +53,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 010 LP |
 | Notes | Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings |

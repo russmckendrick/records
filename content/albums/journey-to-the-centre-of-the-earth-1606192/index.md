@@ -63,7 +63,7 @@ Journey to the Centre of the Earth was overall well received by music critics. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Journey_to_the_Centre_of_the_Earth_(album) |
-| Format         | Vinyl LP Album Stereo (Gatefold Sleeve) |
+| Format         | 1× Vinyl (Gatefold Sleeve) LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 63621 |
 | Notes | Recorded in concert at The Royal Festival Hall London on Friday January 18th 1974.  Production narrated by David Hemmings.  Recorded by Ronnie Lane’s “Lyn Mobile Studio”. Mixed at Morgan Studios, London on 21st-29th January 1974.  Rondor Music (London) Ltd.  Garry Pickford-Hopkins appears by courtesy of Chrysalis Records Ltd.  Sleeve printed and made in England by Gothic Print Finshers Ltd., London, SE9. Released with a booklet fixed into the center of the GF sleeve. The sleeves inner panels effectively make up the first 2 pages of the booklet. Different label image on [r449230] |

@@ -57,7 +57,7 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Arts & Crafts International |
 | Catalog Number | ACS-024 |
 | Notes | "A collection of remixes, reinterpretations & reimaginings of Set Yourself on Fire".     © 2005, 2006, 2007 & ℗ 2007 Arts&Crafts International.   Printed in Canada.  |

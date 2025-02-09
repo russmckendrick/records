@@ -57,7 +57,7 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 032 |
 | Notes | Limited to 200 numbered, stickered copies.  Includes download card. |

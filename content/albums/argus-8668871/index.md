@@ -60,7 +60,7 @@ Argus is the third album by the British rock band Wishbone Ash, released on 28 A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Argus_(album) |
-| Format         | Vinyl LP Album Reissue (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | MCA Records |
 | Catalog Number | MCA 410 099 |
 | Notes | Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels |

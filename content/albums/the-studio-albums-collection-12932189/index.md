@@ -153,7 +153,7 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Numbered Special Edition, Vinyl 7× LP Album Reissue Remastered (Half-Speed Mastering) |
+| Format         | 1× Box Set Compilation, Numbered, Special Edition | 7× Vinyl (Half-Speed Mastering) LP, Album, Reissue, Remastered |
 | Label          | Craft Recordings |
 | Catalog Number | CR00131 |
 | Notes | Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands |

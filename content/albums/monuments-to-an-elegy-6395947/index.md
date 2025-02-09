@@ -59,7 +59,7 @@ The album received generally positive reviews from music critics, but sold poorl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Monuments_to_an_Elegy |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | BMG |
 | Catalog Number | 81012276-1 |
 | Notes | Released in gatefold sleeve with download code. 180 gram vinyl. |

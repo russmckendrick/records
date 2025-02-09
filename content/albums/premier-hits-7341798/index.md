@@ -66,7 +66,7 @@ The album was again reissued in August 2015 by Beggars Banquet as Premier Hits a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Premier_Hits |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2007 |
 | Discogs URL    | [Gary Numan - Premier Hits](https://www.discogs.com/release/7341798-Gary-Numan-Tubeway-Army-Premier-Hits) |

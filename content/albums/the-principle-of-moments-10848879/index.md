@@ -59,7 +59,7 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Principle_of_Moments |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Es Paranza Records |
 | Catalog Number | 79-0101-1 |
 | Notes | 'W' A Warner Communications Company. ℗ 1983 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. Publishers (For UK only): Talk Time Music / Bay Music Co. Ltd.  Embossed 'W' logo on bottom-right of back cover. |

@@ -55,7 +55,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Album Limited Edition Misprint Numbered Repress (Blue Transparent) |
+| Format         | 1× Vinyl (Blue Transparent) 12", Album, Limited Edition, Misprint, Numbered, Repress |
 | Label          | Mega Face Records |
 | Catalog Number | MFR03 |
 | Notes | 300 pressings on 12" transparent blue vinyl.  Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve. |

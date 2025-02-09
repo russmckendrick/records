@@ -59,7 +59,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (200 Gram ) |
+| Format         | 1× Vinyl (200 Gram ) LP, Album, Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP118 |
 | Discogs URL    | [XTC - Apple Venus Volume One](https://www.discogs.com/release/12595763-XTC-Apple-Venus-Volume-One) |

@@ -57,7 +57,7 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_from_the_Big_Chair |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Mercury |
 | Catalog Number | 3794995 |
 | Notes | Includes voucher to download MP3 version of the album.  ℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited. Made in EU.   All runouts are hand etched. Plating symbols are mirrored.  |

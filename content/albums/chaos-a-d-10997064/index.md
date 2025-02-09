@@ -78,7 +78,7 @@ styles: ["Thrash", "Death Metal"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chaos_A.D. |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold 180gr) |
+| Format         | 2× Vinyl (Gatefold 180gr) LP, Album, Reissue, Remastered |
 | Label          | Roadrunner Records |
 | Catalog Number | 081227934248 |
 | Notes | Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994) |

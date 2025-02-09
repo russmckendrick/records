@@ -61,7 +61,7 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Infernal_Love |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2806 |
 | Notes | Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc). |

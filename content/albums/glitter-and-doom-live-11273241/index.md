@@ -80,7 +80,7 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glitter_and_Doom_Live |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Anti- |
 | Catalog Number | 7053-3 |
 | Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve  |

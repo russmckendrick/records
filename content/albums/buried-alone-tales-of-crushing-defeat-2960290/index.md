@@ -53,7 +53,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Believers Roast |
 | Catalog Number | BRR002LP |
 | Notes | All music and lyrics by Kavus Torabi    Recorded at the Cop's Dream by Kavus Torabi.  Drums recorded at Map, London, and engineered by Colin Smith.  Tom Clues cast a stern ear and provided loving encouragement over Kavus' singing.  Believers Roast logo by David Barclay. Catering by Zahara Poe  Photography by Hayley Madden.  All artwork by Steve Mitchell, www.57design.co.uk    Kavus Torabi thanks and sends his warmest love to all the players, key or otherwise: James Larcombe and Jason Carty for computer based assistance and transferral patience, Andy Thompson for the use of his wonderful mellotron, Daniel O'Sullivan, Spuder Stacy and Dan Chudley for the loan of essential instruments, Mike Quayle for early facilitations, Ben Hardy for starting and finishing the thing, Dawn, Khyam Allami, David Barclay and Georgina Torabi for unceasing support.  Claire Lim and Julia Finley for PR, Pete at Genepool, John Fowers and Lol Drake.    Dedicated to Dan Chudley and Tim Smith, sorely missed.   |

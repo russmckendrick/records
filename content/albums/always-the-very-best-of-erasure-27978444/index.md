@@ -75,7 +75,7 @@ styles: ["Synth-pop", "Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue (180g, Gatefold) |
+| Format         | 2× Vinyl (180g, Gatefold) LP, Compilation, Reissue |
 | Label          | Mute |
 | Catalog Number | LPMUTEL26 |
 | Notes | Track durations taken from inner sleeves. Originally released on CD to commemorate the 30th anniversary of Erasure, 'Always - The Very Best Of Erasure' is available on vinyl for the very first time.  On cover and spine: Always ERASURE The Very Best Of On hype sticker: ALWAYS The Very Best Of Erasure  Manufactured in France |

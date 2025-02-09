@@ -79,7 +79,7 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Delta_Sweete |
-| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Stereo (180 Gram) |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP | 1× All Media (180 Gram) Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 00600753904770 |
 | Notes | Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print. |

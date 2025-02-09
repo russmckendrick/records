@@ -58,7 +58,7 @@ Tao of the Dead (pronounced ) is the seventh studio album by Texas rock band ...
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tao_of_the_Dead |
-| Format         | Vinyl 2× LP Limited Edition Reissue (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Limited Edition, Reissue |
 | Label          | Svart Records |
 | Catalog Number | SRE555LPB1 |
 | Notes | Features a replica of the original comic book insert. |

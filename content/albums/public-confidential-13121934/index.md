@@ -56,7 +56,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (White/Black) |
+| Format         | 1× Vinyl (White/Black) LP, Album |
 | Label          | DMF Records (3) |
 | Catalog Number | DMF 129LP |
 | Notes | Split Black/White vinyl release. |

@@ -61,7 +61,7 @@ All of a Sudden I Miss Everyone is the fifth studio album by American post-rock 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_of_a_Sudden_I_Miss_Everyone |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album |
 | Label          | Temporary Residence Limited |
 | Catalog Number | trr 99 |
 | Notes | Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical.  Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker and/or a small folded label catalog.   The label catalog includes releases up through [url=https://www.discogs.com/release/12899067-Fridge-The-Sun]TRR117[/url] which carries the note "Available May '07!" and [url=https://www.discogs.com/master/6075-Grails-Burning-Off-Impurities]TRR118[/url] which carries the note "NEW!"  Side D is an etched picture similar to the cover artwork.  Recorded in Minnesota, August 2006.  Runouts are etched, except for GOLDEN (which is stamped).   Lacquer cutting company derived from runouts.  |

@@ -59,7 +59,7 @@ styles: ["Bop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Record Store Day, Limited Edition |
 | Label          | Verve Records |
 | Catalog Number | B0029671-01 |
 | Notes | Record Store Day 2019, "RSD First" release, quantity 2,500.  Issued on reproduction Mercury "Trumpeter" Long Playing Microgroove labels.  Pressed on opaque blue vinyl.  Issued with hype sticker (catalog number B0029671-01): Record Store Day April 13, 2019 / Exclusive Color Vinyl.  Labels: Verve appears on jacket spine. Verve, UMe appear on jacket back. Mercury, Verve appear on labels.  First catalog number on jacket spine, back bottom, labels. Second catalog number (legacy from [m=614652]) on jacket back.  Title on back cover, spine, labels: Charlie Parker with Strings: Alternate Takes  A1 to A4: Recorded in New York, Nov. 30, 1949 A5 to A7: Recorded in New York, summer 1950 B1 to B5: Recorded in New York, late summer 1950 B6, B7: Recorded in New York, Jan. 22 or 23, 1952 |

@@ -71,7 +71,7 @@ A concept album about a love story set in the 17th century, The Diary consists o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Diary_(The_Gentle_Storm_album) |
-| Format         | Vinyl 3× LP Album Limited Edition Numbered Reissue (Flaming Coloured) |
+| Format         | 3× Vinyl (Flaming Coloured) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3074 |
 | Notes | 180 gram audiophile vinyl includes 12-page booklet with lyrics and background story Limited edition of 1000 numbered copies |

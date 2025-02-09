@@ -70,7 +70,7 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Us_(Peter_Gabriel_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR7 |
 | Notes | 180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.   |

@@ -63,7 +63,7 @@ The Underfall Yard is the sixth studio album by the English progressive rock ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Underfall_Yard |
-| Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180 Gram, Remixed) |
+| Format         | 3× Vinyl (180 Gram, Remixed) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG091 |
 | Notes | The 2009 album has been completely remixed and recorded with additional tracks E1 and F2. Tracks E2 and F1.1 are re-recorded versions of the originals.   Recording details: Aubitt Studios, Southampton, England except for E1, E2, F1.1, F2 recorded by Rob Aubrey at Real World Studios. The vocals for F1.1 were recorded at The Playpen.  Packaged in a trifold jacket with polylined LP sleeves. |

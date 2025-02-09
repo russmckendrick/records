@@ -95,7 +95,7 @@ Neil: “As soon as I heard this, I knew it was going to close the record. Even 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rivers_of_Heresy |
-| Format         | Vinyl LP Album Limited Edition (Poison Green ) |
+| Format         | 1× Vinyl (Poison Green ) LP, Album, Limited Edition |
 | Label          | Roadrunner Records |
 | Catalog Number | 5054197595707 |
 | Notes | 200 copies of this release were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |

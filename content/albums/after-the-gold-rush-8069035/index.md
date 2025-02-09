@@ -62,7 +62,7 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/After_the_Gold_Rush |
-| Format         | Vinyl LP Album Reissue Repress (140 Gram, Gatefold) |
+| Format         | 1× Vinyl (140 Gram, Gatefold) LP, Album, Reissue, Repress |
 | Label          | Reprise Records |
 | Catalog Number | 517936-1 |
 | Notes | Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany |

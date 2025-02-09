@@ -60,7 +60,7 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scott_4 |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 3728852 |
 | Notes | Includes download code. Remastered 2013 from original analogue tapes. |

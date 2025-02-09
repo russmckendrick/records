@@ -51,7 +51,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (140g, Clear) |
+| Format         | 1× Vinyl (140g, Clear) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1006 |
 | Discogs URL    | [Argent - Hold Your Head Up - The Best Of Argent](https://www.discogs.com/release/23925737-Argent-Hold-Your-Head-Up-The-Best-Of-Argent) |

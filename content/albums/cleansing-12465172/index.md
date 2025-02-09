@@ -62,7 +62,7 @@ The record was reissued by SPV/Steamhammer in 2008.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cleansing_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Reissue |
 | Label          | The Century Family Inc. |
 | Catalog Number | 19075828161 |
 | Notes | Sequentially numbered tracks |

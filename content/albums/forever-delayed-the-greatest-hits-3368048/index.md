@@ -69,7 +69,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue |
+| Format         | 2× Vinyl LP, Compilation, Reissue |
 | Label          | Epic |
 | Catalog Number | MOVLP221 |
 | Notes | 180-gram pressing with two full-colour printed inner sleeves and original artwork. |

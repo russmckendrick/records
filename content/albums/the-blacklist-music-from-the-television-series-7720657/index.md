@@ -61,7 +61,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition Numbered (Red) |
+| Format         | 1× Vinyl (Red) LP, Compilation, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM059 |
 | Notes | Limited Edition of 750 Copies  Individually numbered  Red vinyl  Includes 4 page booklet  180 gram audiophile vinyl |

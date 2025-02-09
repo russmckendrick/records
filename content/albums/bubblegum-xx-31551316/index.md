@@ -64,7 +64,7 @@ styles: ["Alternative Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP2633 |
 | Notes | Gatefold sleeve. |

@@ -51,7 +51,7 @@ styles: ["Contemporary Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) 12", Album |
 | Label          | Cadillac Records |
 | Catalog Number | SGCLP019 |
 | Notes | Gatefold double vinyl - strictly limited edition of 500   |

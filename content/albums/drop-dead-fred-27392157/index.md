@@ -55,7 +55,7 @@ Drop Dead Fred is a 1991 black comedy fantasy film directed by Ate de Jong, prod
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drop_Dead_Fred |
-| Format         | Vinyl LP (Green), Vinyl LP (Yellow) |
+| Format         | 1× Vinyl (Green) LP | 1× Vinyl (Yellow) LP |
 | Label          | Not On Label (How Did This Get Made? Self-released) |
 | Catalog Number | none |
 | Notes | Live recording of Episode #219 of How Did Get This Made, Live at the Wilshire Ebell Theatre, Los Angeles, CA on July 13, 2019  "This 12" Double Vinyl LP strikes a balance between Team Sanity (pukey green featuring Mitch Gerads art of Paul on one side of the record and Casey on the other) and Team Fred (pee-pee yellow with Mitch Gerads' Jason and June)."  Gatefold sleeve |

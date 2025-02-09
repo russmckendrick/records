@@ -69,7 +69,7 @@ Efflorescences can occur in natural and built environments. On porous constructi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Efflorescence |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Yellow/Red Swirl) |
+| Format         | 2× Vinyl (Yellow/Red Swirl) LP, Album, Reissue, Remastered |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 235X |
 | Notes | 2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.  |

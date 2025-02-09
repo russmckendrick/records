@@ -66,7 +66,7 @@ Three songs were taken from each of the first five studio albums and one song wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_R.E.M. |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |
 | Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc. |

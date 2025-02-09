@@ -67,7 +67,7 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation |
 | Label          | CBS |
 | Catalog Number | CBS 88666 |
 | Notes | This album consists of previously released material except for the tracks D4 and D5    Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"    Gatefold sleeve   |

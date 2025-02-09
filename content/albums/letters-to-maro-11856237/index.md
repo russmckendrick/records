@@ -57,7 +57,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 056LP |
 | Notes | Packaged in a gatefold jacket with lyrics printed inside, black LP sleeves, download coupon and hype sticker affixed to the shrink wrap on the front. |

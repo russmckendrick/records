@@ -72,7 +72,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Green) |
+| Format         | 2× Vinyl (Green) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1184X |
 | Notes | 500 copies came with a signed print, identified by the X added to the cat. no. on a sticker. 200 copies came with a signed and hand numbered Japanese style obi from Assai Records. |

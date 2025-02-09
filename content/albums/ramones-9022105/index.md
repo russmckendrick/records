@@ -151,7 +151,7 @@ One thing that distinguishes the Ramones from the punk bands that followed them 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ramones_(album) |
-| Format         | CD Album Reissue Remastered Stereo Mono, CD, CD, Vinyl LP Album Remastered Mono, All Media Deluxe Edition Limited Edition Numbered Reissue (40th Anniversary) |
+| Format         | 1× CD Album, Reissue, Remastered, Stereo, Mono | 1× CD | 1× CD | 1× Vinyl LP, Album, Remastered, Mono | 1× All Media (40th Anniversary) Deluxe Edition, Limited Edition, Numbered, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | 081227945176 |
 | Notes | 40th annivesary box set packaged in a 12" x 12" hardcover book on a limited edition of 19.760 individually numbered copies.  Disc one contains stereo (tracks 1-14) and 40th anniversary mono mix (tracks 15-28) Disc two contains Single Mixes, Outtakes and Demos. Disc three (tracks 1-16) contains [r=1165275]'s bonus material. Disc three tracks 17-32 are from a previously unreleased second set from The Roxy, LA, on 08/12/1976. Vinyl contains the original album 40th anniversary mono mix.  Pressing plants uncredited, identified by matrix run outs.  This reissue ℗ & © 2016 Rhino Entertainment Company |

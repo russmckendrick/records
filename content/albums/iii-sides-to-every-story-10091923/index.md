@@ -70,7 +70,7 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/III_Sides_to_Every_Story |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Green, 180 Gram) |
+| Format         | 2× Vinyl (Green, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1387 |
 | Notes | - 180 gram audiophile vinyl - Includes insert with song lyrics - 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl |

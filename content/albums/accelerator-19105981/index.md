@@ -60,7 +60,7 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Accelerator_(The_Future_Sound_of_London_album) |
-| Format         | Vinyl 2× 12" Album Record Store Day Limited Edition Numbered Reissue |
+| Format         | 2× Vinyl 12", Album, Record Store Day, Limited Edition, Numbered, Reissue |
 | Label          | Jumpin' & Pumpin' |
 | Catalog Number | DLPRSDTOT2 |
 | Notes | 30th Anniversary edition, limited to 1500 machine-numbered copies in a gatefold sleeve for RSD 2021, Drop 1.  |

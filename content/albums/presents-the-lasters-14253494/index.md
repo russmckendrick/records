@@ -60,7 +60,7 @@ styles: ["Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Limited Edition Numbered (Deluxe Kickstarter Edition) |
+| Format         | 2× Vinyl (Deluxe Kickstarter Edition) LP, Limited Edition, Numbered |
 | Label          | Impotent Fury |
 | Catalog Number | IFLSTRS001 |
 | Notes | Kickstarter edition. 500 copies only available to those who backed the project. One blue vinyl, one gold vinyl with a double gatefold sleeve, pop up artwork and tip on jacket with printed inner sleeves. Fred Deakin signed and numbered hype sticker.  Kickstarter description "The triple gatefold double vinyl album featuring metallic and florescent spot colour inks, a pop-up fold and augmented reality visuals. Both discs are pressed on heavyweight coloured vinyl. The sleeve artwork itself is a series of six "stained glass window" images constructed from laser cut perspex mounted onto light boxes which show scenes from the album's story" |

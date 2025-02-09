@@ -58,7 +58,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Ember Records |
 | Catalog Number | NRH 1001 |
 | Notes | Fold out front cover © 1975 ℗ 1968 track A1, A2, A4, B1, B3. B4 ℗ 1969 TRACK A3, A5 to A7, B2, B5 to B7  Made in England  |

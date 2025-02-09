@@ -67,7 +67,7 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1977_(Ash_album) |
-| Format         | Vinyl LP Album Reissue Remastered (White With Black Splatter) |
+| Format         | 1× Vinyl (White With Black Splatter) LP, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT711CLP |
 | Notes | Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic. |

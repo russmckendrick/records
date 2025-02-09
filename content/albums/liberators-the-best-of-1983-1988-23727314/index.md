@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Stereo (Red Vinyl) |
+| Format         | 1× Vinyl (Red Vinyl) LP, Compilation, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1015 5014797907355 |
 | Discogs URL    | [Spear Of Destiny - Liberators! The Best Of 1983-1988](https://www.discogs.com/release/23727314-Spear-Of-Destiny-Liberators-The-Best-Of-1983-1988) |

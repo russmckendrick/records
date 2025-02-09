@@ -78,7 +78,7 @@ All Is Dream is the fifth studio album by American rock band Mercury Rev. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Is_Dream |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow and Green Marble) |
+| Format         | 2× Vinyl (Yellow and Green Marble) LP, Album, Limited Edition, Reissue |
 | Label          | Cherry Red |
 | Catalog Number | BREDD816 |
 | Notes | Limited to 1000 copies Same version than the red and black marbled vinyl (2020) but in yellow and green  |

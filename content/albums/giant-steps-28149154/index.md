@@ -64,7 +64,7 @@ Giant Steps is the third studio album by the Boo Radleys, released in 1993. The 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Giant_Steps_(The_Boo_Radleys_album) |
-| Format         | Vinyl LP (Orange), Vinyl LP (Purple), Vinyl 10" 45 RPM (Exclusive), All Media Album Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Orange) LP | 1× Vinyl (Purple) LP | 1× Vinyl (Exclusive) 10", 45 RPM | 1× All Media Album, Limited Edition, Reissue, Remastered |
 | Label          | Two Piers |
 | Catalog Number | BN7LPX |
 | Notes | 30th Anniversary Reissue Recorded at First Protocol Studios, London, February & March 1993  Exclusive black vinyl 10" featuring two Saint Etienne remixes in this format  Copies ordered from the band's website came with a limited enamel pin.  Sleeve note: Originally released 1993 Creation Records Ltd.  |

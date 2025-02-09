@@ -58,7 +58,7 @@ Tom Tom Club is an American new wave band founded in 1981 by husband-and-wife te
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tom_Tom_Club |
-| Format         | Vinyl LP Album Limited Edition Reissue (Yellow (Tropical) & Red) |
+| Format         | 1× Vinyl (Yellow (Tropical) & Red) LP, Album, Limited Edition, Reissue |
 | Label          | Sire |
 | Catalog Number | RGM-1070 |
 | Notes | Recorded and mixed [...] at Compass Point Studios, New Providence, Bahamas. Mastered at Sterling Sound, New York.  All songs [...] © 1981  ℗ & © 1981 & 2016 Warner Records Inc. Produced under license from Warner Records Inc.  Manufactured by Rhino Entertainment Company, a Warner Music Gorup Company. Made in the U.S.A.  Runouts are etched. |

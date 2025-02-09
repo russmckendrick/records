@@ -60,7 +60,7 @@ His 'n' Hers is the fourth studio album by English rock band Pulp, released on 1
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/His_%27n%27_Hers |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785292 |
 | Notes | An initial run of copies of this release were exclusively sold on [l11249] stores (those copies have an "HMV exclusive" sticker placed on shrink).   Released with lyrics / credits printed on a glossy liner.  ℗ 1994 except track 2 ℗ 1993 & track 5 ℗ 1992 Island Records Ltd. © 2016 Universal-Island Records Ltd  |

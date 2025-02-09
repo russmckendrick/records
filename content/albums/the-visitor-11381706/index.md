@@ -59,7 +59,7 @@ Like many of Neil Young's protest albums before it, <i>The Visitor</i> is anothe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Visitor_(Neil_Young_and_Promise_of_the_Real_album) |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album |
 | Label          | Reprise Records |
 | Catalog Number | 564840-1 |
 | Notes | Housed in a gatefold jacket. Includes a large format 8-page booklet with lyrics, photos and credits.  [Rear sleeve:] Reprise Records, a Warner Music Group company. ©℗ 2018 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  [Booklet:] Recorded and mixed at Shangri-La Studios, Malibu [C1] recorded and mixed at Capitol Studios, Hollywood, California All songs [...] Storytone Publishing (ASCAP). Art direction & design [...] for [url=https://www.discogs.com/label/387535-R-Twerk-Co]R Twerk & Co[/url] ©2018 Reprise Records. Printed in U.S.A. 564840-1  [Labels:] Source Mastered from 192/24 digital © ℗ 2018 Reprise Records. Manufactured in the Netherlands.  Runout details: Everything is hand-etched except stamped "21254 1A" (side A), "21254 1B" (side B) and "21254 1C" (side C). |

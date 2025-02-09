@@ -59,7 +59,7 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Waking_Hours |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | AMA 9006 |
 | Notes | ℗ 1989 A&M Records Ltd Reproduction prohibited © 1989 A&M Records Ltd, all rights reserved First pressing of album circa 1989. Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse). |

@@ -68,7 +68,7 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Liam_Gallagher_John_Squire |
-| Format         | Vinyl LP Album Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Stereo |
 | Label          | Warner Records |
 | Catalog Number | 5054197893957 |
 | Notes | EXCLUSIVE WHITE VINYL  Official artist and title is 'Liam Gallagher & John Squire' On sleeve: Liam Gallagher John Squire  Engineered at No Expectations Studios, Hollywood, CA, USA.  Made in Germany  White vinyl catalogue number: 5054197893957 Standard sleeve catalogue number: 5054197893940 Runouts are hand etched.  300 copies of this release were retailed by Assai Records with an approved hand numbered Obi under Assai Obi Editions.  Ships with poster. |

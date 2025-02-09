@@ -63,7 +63,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Deluxe Edition (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Deluxe Edition |
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |
 | Notes | Deluxe gold double vinyl. Gatefold jacket. Includes download code & 4-panel lyric insert. |

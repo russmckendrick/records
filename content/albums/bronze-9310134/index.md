@@ -60,7 +60,7 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bronze |
-| Format         | Vinyl 2× LP Album Limited Edition (Green) |
+| Format         | 2× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 399LP |
 | Notes | Limited edition of 200 copies worldwide.  Released in gatefold sleeve with printed insert.  First cat.# on spine, second cat.# on sticker.  On label print: A=B B=R C=O D=N |

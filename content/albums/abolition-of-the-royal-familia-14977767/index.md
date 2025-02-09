@@ -68,7 +68,7 @@ Between the album title and the cover art, you might expect that The Orb’s <i>
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Abolition_of_the_Royal_Familia |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP757XX |
 | Notes | Indie exclusive blue vinyl housed in a gatefold sleeve and comes with a download code.  On spine: COOKLP757 On sticker on back jacket: COOKLP757XX |

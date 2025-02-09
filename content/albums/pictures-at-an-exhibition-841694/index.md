@@ -59,7 +59,7 @@ Pictures at an Exhibition went to number 3 on the UK Albums Chart and number 10 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pictures_at_an_Exhibition_(Emerson,_Lake_%26_Palmer_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Manticore |
 | Catalog Number | K 33501 |
 | Notes | Recorded Live, Newcastle City Hall, March 26, 1971.  Original release date 1971.   |

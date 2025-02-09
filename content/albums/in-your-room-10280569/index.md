@@ -55,7 +55,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1876 |
 | Notes | Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver. |

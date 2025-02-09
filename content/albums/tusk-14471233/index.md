@@ -80,7 +80,7 @@ Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tusk_(album) |
-| Format         | Vinyl 2× LP Album Reissue (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Reissue |
 | Label          | Warner Records |
 | Catalog Number | RCV1 3350 |
 | Notes | Reissue on silver coloured vinyl. Photo on front sleeve is embossed. Single pocket outer jacket with a pair of numbered inner sleeves for each disc. ℗ & © 1979 Warner Records Inc. Made in the E.U.  Some tracks recorded by Lindsey Buckingham at home. Mastered at Capitol Records.  Digital mix-down equipment furnished by Soundstream Inc.  The U.S.C. Trojan Marching Band appears on the song "Tusk" Recorded live at Dodger Stadium.  This album is dedicated to Wing Commander Fleetwood and to Morris Buckingham |

@@ -77,7 +77,7 @@ This article is a discography of American rock musician Todd Rundgren.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Todd_Rundgren_discography |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | 2 BR 6952 |
 | Notes | First pressings came with a fold-out black and white poster with lyrics, credits, and names of buyers returning postcards enclosed in [m93839]. Original 1973 double LP album. The runouts are etched; STERLING is stamped. Cat# 2 BR 6952 on the cover and spine. Cat# 2BR 6952 on the labels. Tracks A1 to A5, B1 to D3: [l360084]/[l276311] Track A6: [l264963] Recorded at Secret Sound Studio. Sons of 1984: Recorded at Wollman Rink, Central Park by Bearsville Sound Remote Recording. |

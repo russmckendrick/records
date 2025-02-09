@@ -72,7 +72,7 @@ styles: ["Rock & Roll", "Southern Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album, Vinyl 7" 45 RPM, All Media Stereo (Green Translucent) |
+| Format         | 2× Vinyl LP, Album | 1× Vinyl 7", 45 RPM | 1× All Media (Green Translucent) Stereo |
 | Label          | Silver Arrow |
 | Catalog Number | SAR27LP |
 | Notes | On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.  The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate. "MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.  Released with 2 b/w printed inner sleeves showing tracks, credits and crow traces.  The runout strings are stamped except the first part up to CM etched. |

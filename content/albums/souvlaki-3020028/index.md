@@ -60,7 +60,7 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Souvlaki_(album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP202 |
 | Notes | Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [sleeve]  tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London. tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay. tracks b2 & b4 recorded at The White House Studio, Weston Super Mare. All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music Originally released ℗ & © 1993 Creation Records. This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [insert]  Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment Made in the EU Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. [labels]  Music On Vinyl [logo] Classic Album 180 gram audiophile pressing www.musiconvinyl.com [sticker]  - 30cm square insert - esealable PVC protective sleeve with sticker on front - etched matrices - similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |

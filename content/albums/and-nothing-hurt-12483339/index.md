@@ -59,7 +59,7 @@ In the flush ’90s, labels could let a band like Spiritualized splurge on ample
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_Nothing_Hurt |
-| Format         | Vinyl LP Album (White) |
+| Format         | 1× Vinyl (White) LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLAVI800HZ |
 | Notes | White Vinyl release exclusive to independent record stores |

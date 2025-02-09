@@ -57,7 +57,7 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mental_Notes_(Split_Enz_album) |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1131 |
 | Notes | Released in a gatefold cover.    On the label the cat.nr. appears as ''CHR-1131''.  Recorded at Basing St. Studios, London April/May 1976.    This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.    |

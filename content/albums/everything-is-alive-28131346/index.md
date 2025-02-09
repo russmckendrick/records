@@ -84,7 +84,7 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Is_Alive_(album) |
-| Format         | Vinyl LP Album (Pink [Pale Pink]) |
+| Format         | 1× Vinyl (Pink [Pale Pink]) LP, Album |
 | Label          | Dead Oceans |
 | Catalog Number | DOC232 |
 | Notes | Released in a gatefold sleeve. Includes a download code.  The second cat # only visible on sticker from shrinkwrap. |

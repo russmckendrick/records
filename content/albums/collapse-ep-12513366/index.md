@@ -52,7 +52,7 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Collapse_EP |
-| Format         | Vinyl 12" 33 ⅓ RPM EP |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP |
 | Label          | Warp Records |
 | Catalog Number | WAP423 |
 | Notes | Regular version. Includes a download card for the EP plus bonus track 'Pthex'. Orders through Bleep include two additional Collapse EP artwork related stickers.  Two circular black stickers on cover, on front glued to shrinkwrap: "[Aphex Twin logo] Aphex Twin / Collapse Ep" plus download hint. On bigger sticker of rear: title, tracklist and credits. Generic black die-cut inner sleeve.  Side A label features a smaller Aphex Twin logo compared to side B.   Runouts are etched. XIV, 1T & 1T (⊥) in runouts are mirrored.  ℗ 2018 Warp Records Ltd © 2018 Warp Records Ltd  Made in EU.  |

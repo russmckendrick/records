@@ -61,7 +61,7 @@ Upon release, Bad as Me became Waits' first top 10 album in the US, peaking at n
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_as_Me |
-| Format         | Vinyl LP Album Remastered (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Remastered |
 | Label          | Anti- |
 | Catalog Number | 7151-1 |
 | Notes | Information on shrinkwrap:   "Newly Remastered with Waits/Brennan 7151-1"  "Download Card Included 180 Gram"  Information on the back:  "LC02576 | BIEM/STEMRA (C)&(P) 2011 ANTI, Inc. Manufactured and distributed by Epitaph Europe. P.O. Box 10574, 1001 EN Amsterdam. The Netherlands. All rights reserved. Unauthorized duplication is a violation of applicable laws. |

@@ -63,7 +63,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Compilation |
+| Format         | 2× Vinyl LP, Album, Record Store Day, Compilation |
 | Label          | Craft Recordings |
 | Catalog Number | CR00173 |
 | Notes | Compilation featuring Beatles hits as recorded by various Stax artists, never before available on vinyl. 2 LP Standard black, gatefold sleeve. Approved for Black Friday 2018, but moved to RSD 2019. 2500 copies released. |

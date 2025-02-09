@@ -121,7 +121,7 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Virgin_Suicides_(score) |
-| Format         | Box Set Deluxe Edition Limited Edition (15th Anniversary), Vinyl LP Album Reissue Remastered (Red), Vinyl LP Album Picture Disc, Vinyl 12" 45 RPM EP Reissue (Red), CD Album Reissue Remastered, CD Album |
+| Format         | 1× Box Set (15th Anniversary) Deluxe Edition, Limited Edition | 1× Vinyl (Red) LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Picture Disc | 1× Vinyl (Red) 12", 45 RPM, EP, Reissue | 1× CD Album, Reissue, Remastered | 1× CD Album |
 | Label          | Aircheology |
 | Catalog Number | 0825646152339 |
 | Notes | 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.    This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English |

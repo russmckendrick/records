@@ -59,7 +59,7 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_II:_Pornograffitti |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | 395 313-1 |
 | Discogs URL    | [Extreme (2) - Extreme II: Pornograffitti](https://www.discogs.com/release/4582716-Extreme-2-Extreme-II-Pornograffitti) |

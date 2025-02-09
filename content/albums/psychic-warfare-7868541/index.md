@@ -60,7 +60,7 @@ Psychic Warfare is the eleventh studio album by the band Clutch, It was released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Psychic_Warfare |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Weathermaker Music |
 | Catalog Number | WM042 |
 | Notes | Packaged in a gatefold sleeve.  Tracks are listed sequentially on the rear and inner sleeves, plus on one of the vinyl labels (01 to 12). On the vinyl label and rear sleeve 'Side A' is indicated before Track 01 (The Affidavit), and 'Side B' is before Track 07 ('Doom Saloon').   Track times do not appear on the release.  Basic tracks recorded at The Machine Shop, Austin, TX.  Vocals and overdubs recorded at The Doom Saloon, Frederick, MD. Mastered for PLX Mastering.  Publishing -  © 2015 Sea Gator Music (ASCAP), ascap.com.  All Rights Administered by BMG Rights Management (US) LLC. Worldwide Administration - BMG Chrysalis, bmgchrysalis.com  Distribution: USA / Canada - RED, redmusic.com UK - Republic of Music, republicofmusic.com Europe - Rough Trade, rough-trade.net Australia - MGM Distribution, thegroovemerchants.com  Runouts are etched.  |

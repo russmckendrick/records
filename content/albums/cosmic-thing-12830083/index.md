@@ -64,7 +64,7 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cosmic_Thing |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Rainbow) |
+| Format         | 1× Vinyl (Rainbow) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 25854 |
 | Notes | Sticker: Exclusive Rainbow Vinyl Features: "Love Shack", "Roam" & "Channel Z" Limited to 4500 copies.  Includes printed inner sleeve containing lyrics, credits, and photograph. |

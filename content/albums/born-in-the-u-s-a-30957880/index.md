@@ -64,7 +64,7 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Born_in_the_U.S.A. |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent, Gatefold) |
+| Format         | 1× Vinyl (Red Translucent, Gatefold) LP, Album, Limited Edition, Reissue |
 | Label          | Columbia |
 | Catalog Number | 19658875161 |
 | Notes | 40th Anniversary Limited Edition on Translucent Red Vinyl. Includes exclusive Lithograph plus a Booklet with archival Photos and a new Essay.  Made In The EU. |

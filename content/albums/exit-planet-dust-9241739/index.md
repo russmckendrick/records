@@ -66,7 +66,7 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exit_Planet_Dust |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Freestyle Dust |
 | Catalog Number | XDUSTLP1 |
 | Notes | Color printed glossy inner sleeves. Printed in UK.  On the back of the sleeve: Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands   |

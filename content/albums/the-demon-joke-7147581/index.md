@@ -60,7 +60,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180g, gatefold), CD Album |
+| Format         | 1× Vinyl (180g, gatefold) LP, Album | 1× CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 037 |
 | Notes | Comes with a gatefold sleeve & 12x12" lyric and credit sheet.    "This record is dedicated to the memory of John Vennart, Marjorie Moorhouse and Rik Mayall." |

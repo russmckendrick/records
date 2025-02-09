@@ -68,7 +68,7 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Remastered (Red Translucent) |
+| Format         | 2× Vinyl (Red Translucent) LP, Record Store Day, Compilation, Limited Edition, Remastered |
 | Label          | Island Records |
 | Catalog Number | 6702244 |
 | Notes | Limited edition Record Store Day 2018 release in gatefold sleeve. Remastered from the original tapes  Includes download code card. |

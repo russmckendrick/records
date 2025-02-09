@@ -61,7 +61,7 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Earth_Rocker |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Weathermaker Music |
 | Catalog Number | WM028 |
 | Notes | Gatefold sleeve.    Recorded and mixed at The Machine Shop, Belleville, NJ. MachineShopProductions.com  Mastered at Taloowa Mastering, Yonkers, New York.    Additional information at:  earthrocker.com / pro-rock.com / fb: facebook.com.clutchband / twitter:@clutchofficial    Merchandise: www.clutchmerch.com    Design & artwork: Nick Lakiotes / Twitter:@micklak    Artist management: At Isschar Entertainment, NYC / issacherentertainment.com  Legal representation: At Lommen-Abdo / Iommen.com    Weathermaker Music Management: www.weathermakermusic.com    Publishing: Jack Flanagan / Sea Gator Music (ASCAP) / ascap.com  Worldwide administrator: Jon Grant / BMG Chrysalis / bmgchrysalis.com    All songs published by Sea Gator Music (ASCAP).  All rights administered by BMG Rights Management (US) LLC.    Vinyl mastering credits obtained from information in the vinyl runout. |

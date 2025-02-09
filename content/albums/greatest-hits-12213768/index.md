@@ -79,7 +79,7 @@ The compilation was commercially successful, hitting number one on the Billboard
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Bruce_Springsteen_album) |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gr.) |
+| Format         | 2× Vinyl (180 gr.) LP, Compilation, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075820661 |
 | Notes | Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code. |

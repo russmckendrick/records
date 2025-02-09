@@ -66,7 +66,7 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Treasury |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Island Records |
 | Catalog Number | 4700056 |
 | Notes | Includes inner sleeve with lyrics and revised liner notes from Peter Paphides. Some copies are issued with a 'Back To Black' hype sticker attached to the shrink wrap.  Center labels: ℗ © 2004 Universal Island Records Ltd. Made in the EU |

@@ -71,7 +71,7 @@ Disintegration became the band's highest charting album to that point, reaching 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180g, Gatefold Sleeve) |
+| Format         | 2× Vinyl (180g, Gatefold Sleeve) LP, Album, Reissue, Remastered |
 | Label          | Fiction Records |
 | Catalog Number | 532 456-3 |
 | Notes | [front sticker] The Cure * Disintegration 180grm heavy weight double vinyl Digitally remastered from the original master tapes by Robert Smith Complete 12 song album on double vinyl for the first time including lyric bags 532 456-3  [sleeve & labels] ℗ 2010 Fiction Records Ltd. © Fiction Records Ltd. The copyright in this sound recording is owned by Fiction Records Ltd. and licensed exclusively to Polydor Ltd (UK).  A Universal Music Company.  Made in the EU.  "Homesick" & "Last Dance" featured here for the first time on LP, 1989 LP releases of this album contained 10 tracks only. Catalog number 060075324563 (7) appears on spine only. It is crossed-out on backsleeve (left upper corner) and not printed on labels. Also released in [url=http://www.discogs.com/Cure-Disintegration/release/2323894]the US[/url].  [runout groove information] 'www.gzvinyl.com - 5324563-# 86821E#/#' stamped, remainder are etched.  |

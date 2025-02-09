@@ -55,7 +55,7 @@ During the Pleistocene, megafauna were diverse across the globe, with most conti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Megafauna |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Pelagic Records |
 | Catalog Number | PEL 275-V |
 | Notes | Black vinyl edition. |

@@ -54,7 +54,7 @@ With <i>The Wild, the Innocent & the E Street Shuffle</i>, Springsteen—who’d
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | CBS |
 | Catalog Number | S 65780 |
 | Notes | Second UK issue on CBS Sunburst label.  (First issue on CBS walking man label,  release [r=1987682] has A2 4/B2 Matrix).  Wide title, first line in record title on label is 70 mm long. |

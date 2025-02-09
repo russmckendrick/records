@@ -101,7 +101,7 @@ styles: ["Progressive Metal", "Prog Rock", "Industrial", "Heavy Metal", "Symphon
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl 2× LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Orange), Vinyl 2× LP Album Reissue Remastered (Orange), Vinyl LP (Orange), Vinyl LP Single Sided Etched (Orange), All Media Album Reissue Remastered |
+| Format         | 1× Box Set Compilation, Deluxe Edition, Limited Edition | 2× Vinyl (Orange) LP, Album, Reissue, Remastered | 1× Vinyl (Orange) LP, Album, Reissue, Remastered | 1× Vinyl (Orange) LP, Album, Reissue, Remastered | 2× Vinyl (Orange) LP, Album, Reissue, Remastered | 1× Vinyl (Orange) LP | 1× Vinyl (Orange) LP, Single Sided, Etched | 1× All Media Album, Reissue, Remastered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 510 |
 | Notes | Orange 180g vinyl variant limited to 100 copies, sold exclusively on insideoutshop.de. Includes the albums “Ocean Machine”, “Infinity”, “Physicist”, “Terria” and “Synchestra”. All albums come in gatefold sleeves on 180 g vinyl, specifically remastered for vinyl. Includes a 36 page booklet with photos, credits, lyrics & new liner notes for each album by Devin Townsend. Side D of Synchestra is Etched |

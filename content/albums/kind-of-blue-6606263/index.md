@@ -54,7 +54,7 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kind_of_Blue |
-| Format         | Vinyl LP Album Reissue Repress (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Repress |
 | Label          | DOL |
 | Catalog Number | DOL725H |
 | Notes | Despite the labels, track B1 is actually 'All Blues' and B2 is 'Flamenco Sketches'. |

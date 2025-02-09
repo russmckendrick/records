@@ -61,7 +61,7 @@ Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bite_It |
-| Format         | Vinyl 2× LP Limited Edition |
+| Format         | 2× Vinyl LP, Limited Edition |
 | Label          | Silvertone Records |
 | Catalog Number | OREZLP536 |
 | Discogs URL    | [Whiteout (2) - Bite It](https://www.discogs.com/release/3113946-Whiteout-2-Bite-It) |

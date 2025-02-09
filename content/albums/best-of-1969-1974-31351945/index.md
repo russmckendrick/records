@@ -62,7 +62,7 @@ styles: ["AOR", "Blues Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 726624 |
 | Discogs URL    | [Fleetwood Mac - Best Of 1969-1974](https://www.discogs.com/release/31351945-Fleetwood-Mac-Best-Of-1969-1974) |

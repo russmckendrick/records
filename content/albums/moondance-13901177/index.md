@@ -67,7 +67,7 @@ Moondance was an immediate critical and commercial success. It helped establish 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moondance |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Orange Translucent) |
+| Format         | 1× Vinyl (Orange Translucent) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1 1835 |
 | Notes | Track A1 appears on sleeve as Stoned Me and on Label as And It Stoned Me - Previous versions show title as And It Stoned Me. Sleeve states Printed In USA. Label states Manufactured in EU. Sticker on shrink-wrap states Van  Morrison's Masterpiece, Limited Edition Orange Vinyl Featuring "Moondance," "Crazy Love" and "Into The Mystic" Second sticker states Summer of '69 Peace, Love and Music Rhino |

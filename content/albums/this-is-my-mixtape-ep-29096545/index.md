@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 45 RPM EP Limited Edition (Yellow, Transparent) |
+| Format         | 1× Vinyl (Yellow, Transparent) 10", 45 RPM, EP, Limited Edition |
 | Label          | Cherry Red |
 | Catalog Number | 5013929153585 |
 | Discogs URL    | [Jim Bob (2) - This Is My Mixtape EP](https://www.discogs.com/release/29096545-Jim-Bob-2-This-Is-My-Mixtape-EP) |

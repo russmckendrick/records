@@ -59,7 +59,7 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Master_of_Puppets |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND005-1 |
 | Notes | [On back cover:] ℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.  [On printed inner sheet:] All songs published by Creeping Death Music (ASCAP). |

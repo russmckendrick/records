@@ -56,7 +56,7 @@ The album earned engineer Clint Murphy the runner up position for Best Engineer 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/You_Are_Here_(Opshop_album) |
-| Format         | Vinyl LP Album Compilation Reissue |
+| Format         | 1× Vinyl LP, Album, Compilation, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1037 |
 | Notes | Previously only available exclusively in Japan, this ten-track album contains all the songs from their “Sun” EP, and the "Lava" and "Last Day" singles.  Pressed on 140g black vinyl with printed inner sleeves |

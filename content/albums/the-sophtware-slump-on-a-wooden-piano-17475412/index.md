@@ -59,7 +59,7 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Cloudy Clear) |
+| Format         | 1× Vinyl (Cloudy Clear) LP, Album, Limited Edition |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB217-1 |
 | Notes | Limited Edition. Independent Record Stores Exclusive.  On back cover : grandaddymusic.com • dangerbirdrecords.com   |

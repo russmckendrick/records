@@ -260,7 +260,7 @@ This expansive overview focuses on David Bowie's fertile breakthrough, kicking o
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition Remastered, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation Stereo Mono |
+| Format         | 1× Box Set Compilation, Limited Edition, Remastered | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Compilation, Stereo, Mono |
 | Label          | Parlophone |
 | Catalog Number | 0825646284092 |
 | Notes | Buyers who preordered boxset through David Bowie's website had option of getting exclusive promo single-sided 10" EP [url=https://www.discogs.com/Bowie-Pinups-Radio-Show/release/9424599]Pinups Radio Show[/url] by adding it to shopping basket for free while preordering boxset.  Track A2b is not listed on the release. |

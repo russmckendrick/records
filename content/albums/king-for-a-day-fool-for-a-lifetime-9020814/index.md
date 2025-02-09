@@ -82,7 +82,7 @@ Critical reception to the album has been mixed, with its varied genres being cit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/King_for_a_Day..._Fool_for_a_Lifetime |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold Sleeve, 180 gram) |
+| Format         | 2× Vinyl (Gatefold Sleeve, 180 gram) LP, Album, Reissue, Remastered |
 | Label          | Slash |
 | Catalog Number | 0190295973292 |
 | Notes | A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker. |

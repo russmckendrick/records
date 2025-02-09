@@ -78,7 +78,7 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Around_the_Well |
-| Format         | Vinyl 2× LP Compilation (Gatefold), Vinyl 12" 33 ⅓ RPM Single Sided Etched |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation | 1× Vinyl 12", 33 ⅓ RPM, Single Sided, Etched |
 | Label          | Sub Pop |
 | Catalog Number | SP 808 |
 | Notes | Includes an MP3 download coupon for the entire album + insert with lyrics. 'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.  All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]  F-side is an etched album/artist artwork.  © ℗ 2009 Sub Pop Records |

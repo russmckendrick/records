@@ -62,7 +62,7 @@ Bandwagonesque is the third album by Scottish alternative rock band Teenage Fanc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bandwagonesque |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Pink, 180-gram, Gatefold) |
+| Format         | 1× Vinyl (Pink, 180-gram, Gatefold) LP, Album, Limited Edition, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP336 |
 | Notes | Limited to 500 numbered copies |

@@ -59,7 +59,7 @@ Hup is the second album by English alternative rock band the Wonder Stuff, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hup_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | 841187-1 |
 | Notes | 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. |

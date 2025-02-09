@@ -145,7 +145,7 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl 2× LP, Vinyl 2× LP, Vinyl 2× LP, Box Set Limited Edition Compilation (180 Gram) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP | 1× Vinyl LP | 2× Vinyl LP | 2× Vinyl LP | 2× Vinyl LP | 1× Box Set (180 Gram) Limited Edition, Compilation |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06007 534 087-8 (0) |
 | Discogs URL    | [Public Enemy - 25th Anniversary Vinyl Collection ](https://www.discogs.com/release/4593269-Public-Enemy-25th-Anniversary-Vinyl-Collection-) |

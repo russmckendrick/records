@@ -50,7 +50,7 @@ styles: ["New Wave", "Post-Punk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Transmission_(song) |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered, Stereo |
 | Label          | Factory |
 | Catalog Number | FAC13.12 |
 | Notes | Embossed sleeve.  On front: FACTORY RECORDS—DEC.80—JD—FAC.13.12—A  On spine: JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.  On rear: FACTORY RECORDS—DEC.80—JD—FAC.13.12—B  On black inner sleeve (both sides): White [l264765] logo on bottom |

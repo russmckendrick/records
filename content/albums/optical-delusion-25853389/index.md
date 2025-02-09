@@ -61,7 +61,7 @@ The opening track of Orbital’s 10th album, <i>Optical Delusion</i>, borrows it
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Optical_Delusion |
-| Format         | Vinyl 2× LP Album Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition |
 | Label          | London Records |
 | Catalog Number | LMS5521861 |
 | Discogs URL    | [Orbital - Optical Delusion](https://www.discogs.com/release/25853389-Orbital-Optical-Delusion) |

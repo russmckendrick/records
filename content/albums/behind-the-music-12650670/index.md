@@ -73,7 +73,7 @@ The front cover features alginate masks of the faces of the six band members, ca
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Behind_the_Music_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2242 |
 | Notes | 180 gram audiophile vinyl Gatefold sleeve Including insert Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl |

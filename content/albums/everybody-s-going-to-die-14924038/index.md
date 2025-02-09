@@ -59,7 +59,7 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered (Cosmic Rainbow Edition) |
+| Format         | 1× Vinyl (Cosmic Rainbow Edition) LP, Album, Limited Edition, Numbered |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 1 |
 | Notes | Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.  Comes with signed poster and certificate of authentication on name of customer Serial number: 5 070000 12808 |

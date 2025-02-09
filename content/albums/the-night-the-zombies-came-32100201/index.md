@@ -63,7 +63,7 @@ Druids. Headless chickens. Drinking. These are just some of the topics fearless 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red [Crystal & Red Smoky]) |
+| Format         | 1× Vinyl (Red [Crystal & Red Smoky]) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 964051361 |
 | Notes | Issued in one-sided die-cut sleeve with one-sided die-cut printed inner.  Recorded at Guilford Sound, Vermont, Rockfield Studios, Wales, UK and Psalm Studios, Wiltshire, UK. Mastered [...] at 24-96 Mastering, Karlsruhe, Germany.  ℗ & © 2024 Pixies Recording Inc., under exclusive license to BMG Rights Management (UK) Limited  Manufactured in Germany.  Runouts are hand-etched, the #s following side identifiers are lightly etched suggesting they are plating marks. Tracks are numbered sequentially across sides.   500 additional copies were retailed by Assai Records with a hand numbered Japanese inspired OBI strip signed by the band. |

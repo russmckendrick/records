@@ -52,7 +52,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | 1965 Records |
 | Catalog Number | 9223701 |
 | Discogs URL    | [Karen Elson - Double Roses](https://www.discogs.com/release/10098506-Karen-Elson-Double-Roses) |

@@ -60,7 +60,7 @@ The songs, arranged by musical director Paul Englishby, are performed by the cas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sunshine_on_Leith_(film) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Parlophone Records Ltd. |
 | Catalog Number | 0190295784416 |
 | Notes | ℗ 1988 The copyright in this sound recording is owned by Parlophone Records Ltd  © 2017 Parlophone Records Ltd, A Warner Music Group Company.    Printed In us  |

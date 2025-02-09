@@ -63,7 +63,7 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Masseduction |
-| Format         | Vinyl LP Album Deluxe Edition Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Deluxe Edition, Limited Edition |
 | Label          | Loma Vista |
 | Catalog Number | LVR00225 |
 | Notes | ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped. |

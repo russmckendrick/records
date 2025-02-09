@@ -62,7 +62,7 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Look_to_the_East,_Look_to_the_West |
-| Format         | Vinyl LP Album Limited Edition Stereo (Opaque Violet), CD EP Limited Edition |
+| Format         | 1× Vinyl (Opaque Violet) LP, Album, Limited Edition, Stereo | 1× CD EP, Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG839 |
 | Notes | Limited to 1500 copies  Sticker says:  ROUGH TRADE EXCLUSIVE LIMITED EDITION OPAQUE VIOLET VINYL INCLUDES LOOK TO THE DEMOS 5-TRACK CD MERGE RECORDS |

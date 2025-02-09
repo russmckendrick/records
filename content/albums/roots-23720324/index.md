@@ -59,7 +59,7 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Purple Transparent) |
+| Format         | 1× Vinyl (Purple Transparent) LP, Album, Limited Edition |
 | Label          | The Sign Records |
 | Catalog Number | CRC020 |
 | Notes | Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched.  |

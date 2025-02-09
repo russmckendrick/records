@@ -95,7 +95,7 @@ The Next Day was praised by critics as Bowie's best work in decades; it was rank
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Next_Day |
-| Format         | Vinyl 2× LP Album Stereo (180g), CD Album Promo Stereo |
+| Format         | 2× Vinyl (180g) LP, Album, Stereo | 1× CD Album, Promo, Stereo |
 | Label          | ISO Records |
 | Catalog Number | 88765461861 |
 | Notes | Gatefold cover with printed inner sleeves with lyrics and credits.  Sticker on shrinkwrap:  David Bowie's First Album in 10 Years. Featuring 17 New Songs Including 'Where Are We Now?' and 'The Stars (Are Out Tonight)'. 180 Gram Vinyl. Also Contains a CD of the Complete Album. 88765461861  On back cover: © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment.  On CD:  © & ℗ 2013 ISO Records, under exclusive license to Columbia Records, a division of Sony Music Entertainment. All rights reserved. BIEM/GEMA. LC 00162. Made in the EU. 88765 49048 2-Promo CD  Some marks from the plating like "3, 1, 1V┴, 1TX, 3||, 1+-" appear mirrored in the runouts. |

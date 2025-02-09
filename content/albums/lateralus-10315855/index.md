@@ -69,7 +69,7 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lateralus |
-| Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Picture Disc, Reissue |
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |
 | Notes | "2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers |

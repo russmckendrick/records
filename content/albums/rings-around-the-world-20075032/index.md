@@ -63,7 +63,7 @@ Musically Rings Around the World is an eclectic record incorporating pop, prog, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rings_Around_the_World |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT510DLP |
 | Notes | 20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic.  |

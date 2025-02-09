@@ -57,7 +57,7 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Soft_Bulletin |
-| Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue (25th Anniversary Zoetrope Edition) |
+| Format         | 2× Vinyl (25th Anniversary Zoetrope Edition) LP, Album, Limited Edition, Picture Disc, Reissue |
 | Label          | Warner Records |
 | Catalog Number | 093624844440 |
 | Notes | 25th Anniversary Edition Limited Edition 2-LP Zoetrope Disc with Exclusive Artwork  Made in Czech Republic. |

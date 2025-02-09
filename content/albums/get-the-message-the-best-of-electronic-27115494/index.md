@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Stereo |
+| Format         | 2× Vinyl LP, Compilation, Reissue, Stereo |
 | Label          | Warner Music |
 | Catalog Number | 0190296453823 |
 | Notes | This Compilation ℗ & © 2022, 2006 Warner Records Inc. for the World excluding Europe and X Limited and New Voodoo Limited under exclusive license to Parlophone Records Limited for Europe. A Warner Music Group Company.  Made in Germany  Special Thanks: Joe Moss, Rebecca Boulton; Andrew Booth & Andy Robinson |

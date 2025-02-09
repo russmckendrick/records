@@ -57,7 +57,7 @@ An attempt by the band to experiment and explore other musical territory, Techni
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Technical_Ecstasy |
-| Format         | Cassette Album |
+| Format         | 1× Cassette Album |
 | Label          | Vertigo |
 | Catalog Number | 7231 400 |
 | Notes | Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada  "It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct. |

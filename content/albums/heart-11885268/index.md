@@ -63,7 +63,7 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heart_(Stars_album) |
-| Format         | Vinyl LP Album Limited Edition (Blue Translucent, 140g) |
+| Format         | 1× Vinyl (Blue Translucent, 140g) LP, Album, Limited Edition |
 | Label          | Last Gang Records |
 | Catalog Number | LGE-LP-1940 |
 | Notes | Limited edition of 500 copies on 140 gram Translucent Light Blue vinyl. |

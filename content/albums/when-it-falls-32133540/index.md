@@ -56,7 +56,7 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/When_It_Falls |
-| Format         | Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), All Media Album Reissue Remastered |
+| Format         | 1× Vinyl (Orange) LP, Album, Reissue, Remastered | 1× Vinyl (Green) LP, Album, Reissue, Remastered | 1× All Media Album, Reissue, Remastered |
 | Label          | New State Music |
 | Catalog Number | NEW9271LPC |
 | Notes | 20th Anniversary Edition.  Ⓟ 2004 New State Entertainment Ltd. © 2024 New State Entertainment Ltd.  Issued with printed inner sleeves. |

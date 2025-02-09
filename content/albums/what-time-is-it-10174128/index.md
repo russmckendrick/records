@@ -54,7 +54,7 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Stereo (Green vinyl) |
+| Format         | 1× Vinyl (Green vinyl) LP, Album, Record Store Day, Limited Edition, Reissue, Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | R1 23701 |
 | Notes | Record Store Day 2017 Release. Limited Edition of 5500.   Printed inner sleeve in black and white, featuring lyrics on one side and band pictures on the other.  Green sticker on front:  "The Time's Classic Second Album on Green vinyl Limited Edition of 5500  Contains the hit singles "777-9311", "The Walk", and "Gigolos Get Lonely Too"  Co-Produced by Jamie Starr (aka Prince)  081227940836"  Printed in E.U.  ℗ and © 2017, 1982 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. © 1982 Tionna Music ASCAP  Runouts are etched. |

@@ -68,7 +68,7 @@ Dookie received critical acclaim upon its release, although some early fans accu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dookie |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49869-5 |
 | Notes | Includes printed insert.  Track B2 titled "Sassafras" on label. Tracks B7.2 and B7.3 are unlisted.  Green sticker on front: The 1994 breakthrough album. For the first time on vinyl in over a decade. BECAUSE SOUND MATTERS 1-468284 (K1)  Inlay: 1994 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP except "Welcome To Paradise" © 1991 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP. Lyrics Reprinted by Permission. © 2008, 1994 Reprise Records.  Back cover: Reprise Records, a Warner Music Group Company. © ℗ 2008, 1994 Reprise Records for the U.S. and WEA International Inc. for the world outside of the U.S. Made in the E.U.  Labels: WB Music Corp./Green Daze Music admin. by WB Music Corp. (ASCAP) © ℗ 2008, 1994 Reprise Records Made in the E.U.  Runouts are etched Some copies have Made in Germany sticker on back right corner.   |

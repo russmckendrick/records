@@ -70,7 +70,7 @@ The album was released on April 20, 2018, after four singles were released in ad
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eat_the_Elephant |
-| Format         | Vinyl 2× LP Album Limited Edition Special Cut (White ) |
+| Format         | 2× Vinyl (White ) LP, Album, Limited Edition, Special Cut |
 | Label          | BMG |
 | Catalog Number | 538374370 |
 | Notes | Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.   Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".  Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”. |

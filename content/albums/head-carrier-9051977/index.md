@@ -65,7 +65,7 @@ The album's title references a cephalophore, a saint carrying his own head, more
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Head_Carrier |
-| Format         | Vinyl LP Album (180g, Slipmat) |
+| Format         | 1× Vinyl (180g, Slipmat) LP, Album |
 | Label          | Pixies Music |
 | Catalog Number | PM018LP |
 | Notes | The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release.   Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album.  Indie records store exclusive release.    From the back cover:  Exclusively licensed worldwide to play it aǵain     sam   ℗ & © Pixies Music 2016  From the inner sleeve:  Recorded at RAK Studios  Mixed at Psalm Studios  Assistant at RAK: [...]  Pressing plant uncredited, derived from runout etchings. |

@@ -60,7 +60,7 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bridge_of_Spies_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Siren (3) |
 | Catalog Number | SRN LP8 |
 | Notes | This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve.  |

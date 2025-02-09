@@ -63,7 +63,7 @@ I Learned the Hard Way is the fourth studio album by American soul and funk band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Learned_the_Hard_Way |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Daptone Records |
 | Catalog Number | DAP-019 |
 | Notes | Jacket: Another BOSCO MANN Production. Labels: A BOSCO MANN Production.  Includes code for digital download (Digital download includes an additional song, "When I Come Home") Stereo compatible  Hype sticker affixed to shrink: The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download! [Daptone Records logo] "...gritty, credible, emotion-laden..." - Rolling Stone "...simply one of the most scorching outfits on the planet..." - MOJO  Barcode is a sticker affixed to shrink  Recorded to 8-Tracks at Daptone Records' House Of Soul.  Track A1: ASCAP, BMI Tracks A2 to A6, B2 to B6: BMI Track B1: ASCAP, SESAC |

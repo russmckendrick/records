@@ -72,7 +72,7 @@ Like <I>Paul’s Boutique</I>, <I>Check Your Head</I> flowed like a mixtape, but
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Check_Your_Head |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Grand Royal |
 | Catalog Number | C1-94225 |
 | Notes | Recorded and mixed at G-Son Studios, Atwater Village, CA Sequenced at PCP Labs Remastered at Sterling Sound, NYC  ℗ and © 1992 Capitol Records, LLC and Beastie Boys  Printed in the EU.  Made in the EU.  This album goes out to David Scilken  |

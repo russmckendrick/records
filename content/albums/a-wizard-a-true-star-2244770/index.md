@@ -80,7 +80,7 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Wizard,_a_True_Star |
-| Format         | Vinyl LP Album Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | Bearsville |
 | Catalog Number | BEA 45 513 |
 | Notes | (P) 1973  Seperate lyric sheet, credits and a photo collage     |

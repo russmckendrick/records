@@ -67,7 +67,7 @@ At the film's Sundance premiere, Silva said that his film, which is based on a r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crystal_Fairy_%26_the_Magical_Cactus |
-| Format         | Vinyl LP Album Limited Edition (Lavender) |
+| Format         | 1× Vinyl (Lavender) LP, Album, Limited Edition |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC180 |
 | Notes | Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |

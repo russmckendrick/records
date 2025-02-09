@@ -62,7 +62,7 @@ But the band were branching out into new directions, too. The syncopated grooves
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vs._(Pearl_Jam_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold ) |
+| Format         | 1× Vinyl (180 Gram, Gatefold ) LP, Album, Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88697843131 |
 | Notes | Issued in a gatefold sleeve, includes an insert with lyrics & credits.   |

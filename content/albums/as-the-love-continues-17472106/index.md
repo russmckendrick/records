@@ -91,7 +91,7 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/As_the_Love_Continues |
-| Format         | Box Set, Vinyl 2× LP Album (Red ), Vinyl 12" (Demos), CD |
+| Format         | 1× Box Set | 2× Vinyl (Red ) LP, Album | 1× Vinyl (Demos) 12" | 1× CD |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT140 |
 | Notes | This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies  |

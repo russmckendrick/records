@@ -59,7 +59,7 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Meddle |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Gatefold) |
+| Format         | 1× Vinyl (180 g, Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP6 |
 | Notes | ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.  Hype sticker: The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1971 Made and printed in the E.U. www.pinkfloyd.com  Fully textured sleeve. "Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II). Track durations are not given on this release.  The US release can be found [url=http://www.discogs.com/release/9092521]here[/url]  Runouts are etched: "16909 1A" and "16909 1B" are stamped. |

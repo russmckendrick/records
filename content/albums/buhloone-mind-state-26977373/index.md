@@ -60,7 +60,7 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Buhloone_Mindstate |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 053-1 |
 | Notes | ℗ & © A.O.I., LLC under exclusive license to Chrysalis Records Limited.  Sticker on back-cover can come with "Made in Czech Republic" or "Made in Canada". |

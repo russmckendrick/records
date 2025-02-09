@@ -64,7 +64,7 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Come_Ahead |
-| Format         | Vinyl 2× LP Album Limited Edition (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 4099964059243 |
 | Notes | Gatefold sleeve  Dedicated to Robert Pollock Gillespie 1937-2023, Martin Duffy 1967-2022 & Mark Stewart 1960-2023  ℗ & © 2024 BMG Rights Management (UK) Limited.  All rights of the producer and the owner of the recorded work reserved.  Unauthorized copying, hiring, renting, public performance and broadcasting of this record is prohibited.   Manufactured in Germany.  4099964059243. 964059241.  LC19813  Assai Records of Glasgow, Edinburgh & Dundee released a limited volume of 300 records with OBI signed by Primal Scream's vocalist Bobby Gillespie.  The OBI is hand numbered. |

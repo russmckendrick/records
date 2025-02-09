@@ -58,7 +58,7 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_from_the_Big_Chair |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mercury |
 | Catalog Number | MERH 58 |
 | Notes | Released with known two different types of hype sticker. See images.  Labels: A1 to A4 & B5 Virgin Music (Publishers) Ltd./10 Music Ltd. B1 to B4 Virgin Music (Publishers) Ltd.  Original sound recording made by Phonogram Ltd. (London) A1 & A4 ℗ 1984 Phonogram Ltd. (London) A2, A3 & B1 to B5 ℗ 1985 Phonogram Ltd. (London)  Made In England  Sleeve: © Phonogram Ltd. (London) 1985 ℗ 1985 Phonogram Ltd. (London)  Track B4 Broken (Live) is only mentioned on the label. Comes with Credits / Picture inner sleeve. |

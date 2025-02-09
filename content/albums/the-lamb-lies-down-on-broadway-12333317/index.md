@@ -75,7 +75,7 @@ The album received mixed reviews at first, and was the first Genesis album which
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Lamb_Lies_Down_on_Broadway |
-| Format         | Vinyl 2× LP Album Mispress Reissue Stereo Mono (Gatefold, 180 Gram) |
+| Format         | 2× Vinyl (Gatefold, 180 Gram) LP, Album, Mispress, Reissue, Stereo, Mono |
 | Label          | Charisma |
 | Catalog Number | 602567489856 |
 | Notes | Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu |

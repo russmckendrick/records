@@ -87,7 +87,7 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Troublegum |
-| Format         | Vinyl LP Album Reissue (Silver), Vinyl LP Compilation (Lavender), All Media Deluxe Edition Limited Edition (30th Anniversary) |
+| Format         | 1× Vinyl (Silver) LP, Album, Reissue | 1× Vinyl (Lavender) LP, Compilation | 1× All Media (30th Anniversary) Deluxe Edition, Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | UMCLP099 |
 | Notes | The silver vinyl is opaque whilst the lavender vinyl is translucent. Issued in a single pocket sleeve. Picture inner sleeves, each with a die cut thumb section. Package came shrink-wrapped, affixed to which is a circular hype sticker.  Copies were made available (300 in total) from [l1052727] which included a 12" art print which was autographed in silver and gold marker pen. These prints were not within the shrink-wrap, but separately in a resealable polybag which had a barcoded identification sticker.  Recorded at Chipping Norton Studios, Oxford, Rak Studios, London and The Church Studios, London. Mastered at Gateway Studios.  B7b is a hidden track (credits taken from back of sleeve). Tracks on LP2 have been previously released on singles and EPs.  (P) 1992/1993/1994 A&M Records Ltd. (C) 2024 A&M Records Ltd. |

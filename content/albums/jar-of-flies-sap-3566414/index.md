@@ -76,7 +76,7 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP, Vinyl 12" 33 ⅓ RPM Single Sided EP Etched, All Media Mini-Album Compilation Reissue Stereo (180 Gram Audiophile, Gatefold) |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP | 1× Vinyl 12", 33 ⅓ RPM, Single Sided, EP, Etched | 1× All Media (180 Gram Audiophile, Gatefold) Mini-Album, Compilation, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP086 |
 | Notes | "Jar Of Flies" written & recorded at London Bridge Studio, Seattle, 7-14 September 1993. Mixed at Scream Studio, 17-22 September 1993. MADE IN THE EU.  "Sap" recorded at London Bridge Studios, Seattle, WA. Mastered at Future Disc Systems, Hollywood, CA. MADE IN THE EU.  © 1992, 1993, 1994 Sony Music Entertainment Inc. ℗ 1994 Sony Music Entertainment Inc. © 1992, 1993, 1994 Sony Music Entertainment. ℗ 1994 Sony Music Entertainment. ℗ & © 2010 Sony Music Entertainment  Released in gatefold sleeve including printed inner sleeves containing lyrics and credits. Tribal sun/ logo laser etched on side D. Track C5 is not listed on the release, title taken from the label's website.  All runouts are etched. |

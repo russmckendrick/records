@@ -72,7 +72,7 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Under_the_Pink |
-| Format         | Vinyl 2× LP Limited Edition Reissue Remastered Stereo (Pink Translucent) |
+| Format         | 2× Vinyl (Pink Translucent) LP, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Atlantic |
 | Catalog Number | RCV1 82567 |
 | Notes | Half-speed master cut at Abbey Road Studios, London, by Miles Stowell  Hype sticker text:  LIMITED-EDITION 2-LP PINK VINYL "In just under fifty minutes, Amos exposes a world of paradoxes, where the profound rubs up against the profane, the divine shacks up next door to the dollar store, and the vulnerable exists without victimhood" - Noah Michelson THE TIMELESS ALBUM FULLY REMASTERED RCV1 82567 / 603497845378  Copies sold by Barnes & Noble may also read “BARNES&NOBLE EXCLUSIVE” at the top of the sticker in addition to the aforementioned text.  All songs published by Sword and Stone (ASCAP). All rights administered by Downtown Music Publishing.  Made in Germany.  Runout info: - Runouts are etched - The Optimal Media "geometric" marks are mirrored |

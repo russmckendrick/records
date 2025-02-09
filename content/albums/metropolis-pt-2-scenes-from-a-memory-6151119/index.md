@@ -67,7 +67,7 @@ On June 24, 2024, it was announced that the album would receive a novel adaptati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Metropolis_Pt._2:_Scenes_from_a_Memory |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1001 |
 | Notes | Issued in a gatefold cover with black inner sleeves and an insert with credits.    Patiently and expertly engineered at Bear Tracks Studios, Suffern, NY  Additional overdubs at Little Bear Studios, Suffern, NY  February-June 1999  Additional overdubs (vocals) at Metal Works Studios, Toronto, Ontario  June-July 1999  Mixed at Avatar Studios, NYC and at Electric Lady Studios, NYC  July-August 1999  Mastered at Sterling Sound, NYC  August 1999    Originally released ℗ & © 1999 Elektra Entertainment Group Inc.  Made in the EU    Release dates:  03 Oct 2014 in Netherlands  06 Oct 2014 in Europe |

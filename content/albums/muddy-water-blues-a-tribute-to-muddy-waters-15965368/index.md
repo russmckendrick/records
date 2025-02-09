@@ -64,7 +64,7 @@ styles: ["Blues Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Orange, 180 Gram) |
+| Format         | 2× Vinyl (Orange, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2716 |
 | Notes | Released in a gatefold cover  [On back cover]: Originally released ℗ & © 1993 Victor Entertainment, Japan  Made in the EU  [Sticker on front]: Music On Vinyl Paul Rodgers 'Muddy Water Blues' A Tribute to Muddy Waters Limited Edition of 2000 Orange Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com   MOVLP2716  The runout strings are etched |

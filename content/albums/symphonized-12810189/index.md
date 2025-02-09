@@ -63,7 +63,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 520 |
 | Notes | Recorded May 18, 2018 at 013 Tilburg and May 19, 2018 at Paard The Hague.  180 gr. vinyl in gatefold sleeve with insert. |

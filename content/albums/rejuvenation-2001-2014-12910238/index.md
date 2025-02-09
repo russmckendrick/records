@@ -100,7 +100,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition, Vinyl LP Album Reissue (Clear), Vinyl LP Album Reissue (Gold), Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Disc 1 Blue, Disc 2 Grey) |
+| Format         | 1× Box Set Compilation, Deluxe Edition | 1× Vinyl (Clear) LP, Album, Reissue | 1× Vinyl (Gold) LP, Album, Reissue | 1× Vinyl (White) LP, Album, Reissue | 1× Vinyl (Red) LP, Album, Reissue | 2× Vinyl (Disc 1 Blue, Disc 2 Grey) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX30 |
 | Notes | 6 LP Coloured Vinyl Box Set.  Includes “Neon Lights”, “Cry”, Black and White 050505”, “Graffiti Soul”  and “Big Music” [2 LP]  “Neon Lights”, “Cry”, Black and White 050505” make their first appearances on vinyl in this box set, with specially-created outer and inner sleeves, and include some exclusive bonus tracks from the CD releases.   All the albums are pressed on different coloured 180 gram vinyl, and the rigid slipcase features a brand new note by Jim. |

@@ -75,7 +75,7 @@ The album effectively supersedes the now deleted Divine Madness collection. Tota
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Total_Madness |
-| Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
+| Format         | 2× Vinyl (Red, 180 Gram) LP, Compilation, Limited Edition, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP629 |
 | Notes | Limited edition of 2.000 numbered copies on red vinyl Gatefold Sleeve. Repressed from [r=4071815] master.  MOV 00[XXXX] [silver print on back sleeve]  This compilation ℗ and © 2012 Union Square Music Ltd. Made in the EU.  All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.  Hype stickers on cellophane bag:  "Britain's Favourite Band! Featuring Our House One Step Beyond Baggy Trousers It Must Be Love House Of Fun MOVLP629"  "Music On Vinyl Madness 'Total Madness' All Their Greatest Hits Limited Edition of 2000 Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com MOVLP629"  |

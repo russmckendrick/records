@@ -50,7 +50,7 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | K-Tel |
 | Catalog Number | NE 1029 |
 | Notes | Produced & Co-ordinated by John Schroeder. A Smug Production.  Runouts are entirely hand etched except for the standalone numeral on each side which is stamped sideways. |

@@ -63,7 +63,7 @@ Harlem River Blues is Justin Townes Earle's third studio album, released on Janu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Harlem_River_Blues |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 178 LP |
 | Notes | © ℗ 2010 Bloodshot Ltd.  All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except  "Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug    [a929782] appears courtesy of [l166451]  [a732399] appears courtesy of [l126609]      |

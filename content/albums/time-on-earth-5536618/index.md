@@ -60,7 +60,7 @@ As the first studio album from the group in fourteen years, Time on Earth has be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_on_Earth |
-| Format         | Vinyl 2× LP Album Limited Edition (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 00946-396027-1-1 |
 | Notes | Gatefold sleeve. The inner gatefold features "newspaper style" lyrics to every song with each LP held in individual printed sleeves. A dark red hype sticker reads: "Limited edition heavyweight vinyl includes the single Don't Stop Now plus 2 bonus tracks 396 0271".  Bonus tracks "Stare Me Out" and "Lost Island" do not feature on CD copies of the album and were B-sides to [r=1122661].  Recorded and produced at Roundhead Studios; except A2, A3, B2 and D2 produced at RAK Studios.  Tracks A4, C1, C2, C4, D1 and D3 mixed at Real World Studios; track D4 mixed at Henson Recording Studios; tracks A1, A3, B1, B3 and C3 mixed at Mongrel Studios; tracks A2, B2 and D2 mixed at RAK Studios.  All songs published by Chrysalis Music Ltd, except B2 published by Copyright Control/Chrysalis Music Ltd; and C2 published by Roundhead Music (Admin by Chrysalis Songs/Wooly Puddin' Music (BMI) & Scrapin' Toast Music (ASCAP) (Admin by Sony/ATV Music Publishing)  [a793529] appears courtesy of Blue Thumb Records, UCJ.  ℗ 2007 The copyright in this sound recording is owned by EMI Records Ltd. © 2007 EMI Records Ltd. Parlophone is a Capitol Music label. Manufactured in the EU, Printed in EU, Made in EU  "In memory of [a257794]" |

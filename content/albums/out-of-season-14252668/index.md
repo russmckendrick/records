@@ -60,7 +60,7 @@ Out of Season is a studio album by vocalist Beth Gibbons (of Portishead)  and ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Season_(Beth_Gibbons_and_Rustin_Man_album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Go! Beat |
 | Catalog Number | 0602567891543 |
 | Notes | Heavyweight vinyl. Printed inner sleeve with pictures, lyrics and extensive credits.  Some copies include: Includes download card. Hype sticker on shrink wrap.  Catalogue numbers: 0602567891543 is listed on the record spine, rear sleeve, inner sleeve, and the labels. 678 915-4 is listed on the hype sticker.  Mastered [...] at The Townwnhouse  Beth Gibbons is published by Chrysalis Music, Paul Webb Copyright Control.  An Island Records release; ℗ 2019 Universal Music Operations Limited © 2019 Universal Music Operations Limited. Universal International Music B.V. Gerriti Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in EU.  Mysteries: Recorded at The Barn, Devon & Sanctuary Westside. Tom The Model: Recorded at Sanctuary Westside & Konk Studios. Show: Recorded at Sanctuary Westside & Konk Studios. Romance: Recorded at Sanctuary Westside & Konk Studios. Sand River: Recorded at Sanctuary Westside & Konk Studios. Spider Monkey: Recorded at The Barn, Devon & Sanctuary Westside. Resolve: Mix recorded at Sanctuary Westside. Drake: Recorded at Sanctuary Westside & Konk Studios. Funny Time Of Year: Recorded at Sanctuary Westside. Rustin Man: Mix recorded at Sanctuary Westside. |

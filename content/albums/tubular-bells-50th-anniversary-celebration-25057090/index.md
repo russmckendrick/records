@@ -46,7 +46,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Blue), Vinyl LP Limited Edition (Purple) |
+| Format         | 1× Vinyl (Blue) LP, Limited Edition | 1× Vinyl (Purple) LP, Limited Edition |
 | Label          | Cleopatra |
 | Catalog Number | CLO3402 |
 | Notes | Shrink wrap has hype sticker on front which includes Barcode. Made in Canada sticker on rear of shrinkwrap.  |

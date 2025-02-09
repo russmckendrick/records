@@ -42,7 +42,7 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP |
+| Format         | 1× Vinyl 12", EP |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFS023X |
 | Discogs URL    | [The Levellers - We The Extras](https://www.discogs.com/release/11647743-Levellers-We-The-Extras) |

@@ -59,7 +59,7 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Attack_of_the_Grey_Lantern |
-| Format         | Vinyl LP Record Store Day Limited Edition Picture Disc |
+| Format         | 1× Vinyl LP, Record Store Day, Limited Edition, Picture Disc |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1142 |
 | Notes | RSD2022 Release |

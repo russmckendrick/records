@@ -66,7 +66,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram), CD |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue | 1× CD |
 | Label          | XL Recordings |
 | Catalog Number | XLLP611 |
 | Notes | ℗ and © 2002 Sigur Rós under exclusive license to XL Recordings Ltd.  Album has been referred to by members of Sigur Ros as "Svigaplatan", which translates to "The Bracket Album". Below are are the titles the band has for the otherwise officially untitled songs themselves:   Untitled 1 - Vaka (the name of Orri's daughter)  Untitled 2 - Fyrsta (the first song)  Untitled 3 - Samskeyti (attachment)  Untitled 4 - Njósnavélin (the spy machine)  Untitled 5 - Álafoss (the location of the band's studio)  Untitled 6 - E-bow [georg uses an e-bow on his bass in this song]  Untitled 7 - Dauðalagið (the death song)  Untitled 8 - Popplagið (the pop song)  Sticker on front:  "Pressed on audiophile quality 180 gram vinyl. Contains CD." Vinyl pressed at Optimal Media GmbH per runout. CD manufactured at Arvato per matrix.  |

@@ -58,7 +58,7 @@ Diesel and Dust has been critically lauded since its release. Rolling Stone edit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diesel_and_Dust |
-| Format         | Vinyl LP Album Stereo (Red Label) |
+| Format         | 1× Vinyl (Red Label) LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | 460005 1 |
 | Notes | Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England. |

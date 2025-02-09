@@ -66,7 +66,7 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Boots_and_Panties!! |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC56 |
 | Notes | Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU.  |

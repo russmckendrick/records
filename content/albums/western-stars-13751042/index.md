@@ -70,7 +70,7 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Western_Stars |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19075937511 |
 | Notes | © & ℗ 2019 Bruce Springsteen  Gatefold sleeve. Includes printed inner sleeves and Free Digital Download.  Some copies sold in Spain were repackaged to include a promotional slipmat.  Runouts are hand etched except for [MPO logo]® and the following stamper number which are laser etched.  |

@@ -59,7 +59,7 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Return_of_Bruno_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Motown |
 | Catalog Number | ZL 72571 |
 | Notes | Motown Record Corp, An Overboard Production. Inner sleeve with lyrics and photo. ℗ + © 1987 Motown Record Corporation Made from masters of Motown Record Corporation Label: "MANUFACTURED IN W. GERMANY" Sleeve: "Printed in Germany"  Runouts are stamped. |

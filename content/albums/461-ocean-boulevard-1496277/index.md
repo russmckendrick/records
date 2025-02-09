@@ -59,7 +59,7 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/461_Ocean_Boulevard |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | RSO |
 | Catalog Number | SPELP 24 |
 | Notes | Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.  All matrix details are stamped. |

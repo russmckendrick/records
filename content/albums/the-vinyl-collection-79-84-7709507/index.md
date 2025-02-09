@@ -121,7 +121,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Remastered (180g), Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
+| Format         | 1× Box Set (180g) Compilation, Deluxe Edition, Remastered | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue |
 | Label          | Universal Music |
 | Catalog Number | 4733760 |
 | Discogs URL    | [Simple Minds - The Vinyl Collection 79-84 ](https://www.discogs.com/release/7709507-Simple-Minds-The-Vinyl-Collection-79-84-) |

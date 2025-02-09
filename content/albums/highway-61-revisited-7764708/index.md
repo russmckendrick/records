@@ -60,7 +60,7 @@ As controversial as it may have been to some, Dylan’s electric pivot on all of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Highway_61_Revisited |
-| Format         | Vinyl LP Album Reissue Mono (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Mono |
 | Label          | Columbia |
 | Catalog Number | CL 2389 |
 | Notes | [Cover] Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment. © 1965, 2015 Columbia Records, a division of Sony Music Entertainment. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 00162 / 88875146301  ® "COLUMBIA", [Columbia logo] MARCAS REG.  [Label] Originally released 1965. All rights reserved by Columbia Records, a division of Sony Music Entertainment. © 1965, 2015 Columbia Records, a division of Sony Music Entertainment. / All rights reserved. / Made in the EU. / BIEM/GEMA / LC 00162 / 88875146301  Runout details: Everything is hand-etched except stamped "88019 1A MOVLP244 STERLING" on side A, and "88019 1B MOVLP244 STERLING" on side B. |

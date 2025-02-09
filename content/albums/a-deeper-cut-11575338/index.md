@@ -62,7 +62,7 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Deeper_Cut |
-| Format         | Vinyl LP Album Limited Edition (Orange, Gatefold) |
+| Format         | 1× Vinyl (Orange, Gatefold) LP, Album, Limited Edition |
 | Label          | Earache |
 | Catalog Number | MOSH606LP |
 | Notes | Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover. |

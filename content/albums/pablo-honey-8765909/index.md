@@ -68,7 +68,7 @@ There are, however, whiffs of what Radiohead would soon become. A surprise world
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pablo_Honey |
-| Format         | Vinyl LP Album Misprint Reissue |
+| Format         | 1× Vinyl LP, Album, Misprint, Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP779 |
 | Notes | Includes download coupon. Heavy pressed vinyl, but not marketed as 180g or suchlike. Slight misprint in inner sleeve where apostrophes in "I Can't" and "Ed O'Brien" have small vertical lines underneath. The [url=https://www.discogs.com/release/14120723] repress[/url] does not have these misprints on the inner sleeve Tracks A1, A2, A5, B3 & B5 ℗ 1992 - Tracks A3, A4, A6, B1, B2, B4 & B6 ℗  1993     |

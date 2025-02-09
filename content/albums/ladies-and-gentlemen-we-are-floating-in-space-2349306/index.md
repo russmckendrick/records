@@ -71,7 +71,7 @@ He would get there in the end and the crowning achievement of his career would b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Plain Recordings |
 | Catalog Number | Plain150 |
 | Notes | Includes "Patient Product Information" credit sheet.  Date of preparation March 1997.  © 2010 Sony Music Entertainment ℗ 1997 Dedicated  The runouts are all etched on each side for each variant. The United Record Pressing logo is a Ⓤ symbol and WG represents the lacquer was cut by Wes Garland. |

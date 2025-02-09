@@ -140,7 +140,7 @@ styles: ["Indie Rock", "Folk Rock", "Acoustic", "Alternative Rock", "Rock & Roll
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Compilation, Box Set Compilation Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Compilation | 1× Box Set Compilation, Remastered |
 | Label          | Dark Horse Records |
 | Catalog Number | DH0009 |
 | Discogs URL    | [Joe Strummer & The Mescaleros - Joe Strummer 002: The Mescaleros Years](https://www.discogs.com/release/24532220-Joe-Strummer-The-Mescaleros-Joe-Strummer-002-The-Mescaleros-Years) |

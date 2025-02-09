@@ -67,7 +67,7 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frank_Black_(album) |
-| Format         | Vinyl LP Album Record Store Day Reissue (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Record Store Day, Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 3004 LPE |
 | Notes | A Record Store Day 2019 release. Exclusive, quantity of 4,500. Includes a custom inner sleeve.  On back of jacket: Made in E.U. U.S. • 134 Grand Street, New York, N.Y. 10013 U.K. • 17-19 Alma Road, London SW18 1AA  Made in E.U on labels.  Recorded at The Clubhouse, Burbank, California. Mixed at The Plant Studios, Sausalito, Ca. Additional recording at Master Control Studio, Burbank, Ca. Mastered at Capitol Tower Mastering [...]  All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.  ℗ & © 1993 4AD Ltd.  On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched. |

@@ -67,7 +67,7 @@ Despite <i>Person Pitch</i>’s seismic impact on indie, its seven songs—five 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Person_Pitch |
-| Format         | Vinyl 12" 45 RPM (White), Vinyl 12" 45 RPM (Blue), All Media Album Club Edition Reissue Remastered (Gatefold) |
+| Format         | 1× Vinyl (White) 12", 45 RPM | 1× Vinyl (Blue) 12", 45 RPM | 1× All Media (Gatefold) Album, Club Edition, Reissue, Remastered |
 | Label          | My Animal Home |
 | Catalog Number | MAH08 |
 | Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for January 2017: 10-year Anniversary Reissue 2xLP, White + Blue Vinyl Half Speed Remastered, 45 RPM Gatefold direct-to-board style jacket 12" x 12" Original Art Print by Mi Ju  P & C 2007 MY ANIMAL HOME |

@@ -73,7 +73,7 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT425DLP |
 | Notes | 2LP set  Manufactured in the E.U.  Initial copies available via recordstore.co.uk were signed by the band. |

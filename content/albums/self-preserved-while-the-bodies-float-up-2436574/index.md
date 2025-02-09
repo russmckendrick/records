@@ -68,7 +68,7 @@ Self Preserved While the Bodies Float Up is the fourth and final full-length stu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Self_Preserved_While_the_Bodies_Float_Up |
-| Format         | Vinyl LP Album (White Marble), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (White Marble) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 014 |
 | Notes | Black and limited white vinyl edition exists under the same catalogue #. |

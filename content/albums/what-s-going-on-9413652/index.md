@@ -111,7 +111,7 @@ The album was an immediate commercial and critical success, and came to be viewe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/What%27s_Going_On_(album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Remastered Stereo Mono, All Media Deluxe Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 2× Vinyl LP, Remastered, Stereo, Mono | 1× All Media Deluxe Edition |
 | Label          | Tamla |
 | Catalog Number | 0600753703069 |
 | Notes | Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered. |

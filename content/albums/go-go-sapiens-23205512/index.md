@@ -53,7 +53,7 @@ styles: ["Dance-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (White ) |
+| Format         | 1× Vinyl (White ) LP, Album |
 | Label          | Not On Label (EMF Self-released) |
 | Catalog Number | EMF04 |
 | Notes | Catalogue number found on spine and inner sleeve   |

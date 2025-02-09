@@ -54,7 +54,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Alternative Artwork, Clear) |
+| Format         | 1× Vinyl (Alternative Artwork, Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Bilocation Records |
 | Catalog Number | BILOCATION 44 |
 | Notes | Second pressing with different cover artwork.  Limited to 500 copies on 180gr. clear vinyl. |

@@ -57,7 +57,7 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hormonally_Yours |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | London Records |
 | Catalog Number | 828 266-1 |
 | Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  ℗ 1992 London © 1992 London   Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |

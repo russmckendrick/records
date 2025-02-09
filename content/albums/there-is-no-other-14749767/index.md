@@ -67,7 +67,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow Heavyweight Vinyl), CD |
+| Format         | 1× Vinyl (Yellow Heavyweight Vinyl) LP, Album, Limited Edition | 1× CD |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP720Y |
 | Notes | Limited to 1,000 copies.  Rough Trade album of the month February 2020.  LP packaged in a gatefold sleeve, includes a printed inner sleeve.  Includes a download code.  Includes a bonus 5-track CD in its own card sleeve.  Cat. number COOKLP720Y on sticker Cat. number COOKLP720 on LP spine and labels Cat. number FRYCD1194 on CD sleeve and CD label. |

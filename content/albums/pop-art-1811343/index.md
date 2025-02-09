@@ -55,7 +55,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | MCA Records |
 | Catalog Number | MCF 3421 |
 | Notes | Recorded and mixed at Garden, Eastcote and Swanyard.  Comes with lyrics inner.   |

@@ -54,7 +54,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow & Red Splatter [Accelerator Version]) |
+| Format         | 1× Vinyl (Yellow & Red Splatter [Accelerator Version]) LP, Album, Limited Edition |
 | Label          | The Reverberation Appreciation Society |
 | Catalog Number | RVRB-049 |
 | Notes | Made in Canada. |

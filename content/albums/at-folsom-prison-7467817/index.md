@@ -77,7 +77,7 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/At_Folsom_Prison |
-| Format         | Vinyl 2× LP Album (180g, Gatefold) |
+| Format         | 2× Vinyl (180g, Gatefold) LP, Album |
 | Label          | Columbia |
 | Catalog Number | 88875111971 |
 | Notes | Expanded Vinyl Edition Includes a download-voucher and a 16 page booklet.  Full, unedited and uncensored concert at Folsom Prison.  All tracks recorded live January 13, 1968 at Folsom Prison.  Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./ Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |

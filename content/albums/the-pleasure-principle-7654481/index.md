@@ -58,7 +58,7 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Pleasure_Principle_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 10 |
 | Notes | This one pressed by MPO, also there is another version of this reissue pressed by GZ Media - [r17011476]  Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London |

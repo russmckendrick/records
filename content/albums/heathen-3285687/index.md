@@ -65,7 +65,7 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heathen_(David_Bowie_album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP470 |
 | Notes | Comes in plain white poly-lined paper inner sleeve. Includes printed insert.  From 16 track analog tape converted on 24bit.  Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing www.musiconvinyl.com  Runouts are etched, except side A '5082221000 1A1' stamped.  |

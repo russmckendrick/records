@@ -101,7 +101,7 @@ styles: ["Blues Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP Album Reissue (180 Gram), Vinyl LP (180 Gram), Box Set Compilation Limited Edition Remastered |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue | 1× Vinyl (180 Gram) LP, Album, Reissue | 1× Vinyl (180 Gram) LP, Album, Reissue | 1× Vinyl (180 Gram) LP | 1× Box Set Compilation, Limited Edition, Remastered |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 541728 |
 | Notes | Sticker On The Plastic Wrap:  "Limited Edition, 180g 4-LP Box Set  Features The Studio Albums 'Lick My Decals Off, Baby', 'The Spotlight Kid', 'Clear Spot'  Cut From The Original Analog Masters  Plus An LP Of Previously Unreleased Outtakes & Rarities, Liner Notes By Rip Rense & Artwork By Don Van Vliet"    Here Are Some More Details:  LP 1: Lick My Decals Off, Baby (Captain Beefheart & The Magic Band), Comes With Black Inner Sleeve, Orange Label, Reprise Records R1 6420 / 8122786846  LP 2: The Spotlight Kid (Captain Beefheart), Comes With White Inner Sleeve & Lyric Sheet, Orange Label, Reprise Records R1-2050 / 0348781110  LP 3: Clear Spot (Captain Beefheart & The Magic Band), Comes With White Inner Sleeve & Cover Sheet, Housed In A Plastic Cover (no regular cover), Backside Of Cover Sheet Has Tracklist And Credits Written On It, Orange Label, Reprise Records R1-2115 / 8122786845  LP 4: Out-Takes "Art Is Rearranging And Grouping Mistakes" (Captain Beefheart), Comes With Black Inner Sleeve, Black Label, White Letters, R1 541728 / 8122795862 |

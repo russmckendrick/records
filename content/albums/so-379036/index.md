@@ -62,7 +62,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/So_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Charisma |
 | Catalog Number | PG 5 |
 | Notes | 'Townhouse' etched in runouts, the rest stamped.  Direct Metal Mastering denoted by 'D' in runouts.  ℗ 1986 Charisma Records Limited  © 1986 Peter Gabriel Limited  All tracks recorded and mixed at Real World Studios, England except for "Mercy Street"; Percussion recorded in Polygram Studios, Rio de Janeiro, engineered by Ary Carvalhaes and Jairo Gualberto, studio organization by Luigi Hoffer, session supervised by Renato Costa and Graciela Silberberg  New York overdubs recorded at the Power Station, engineered by Bruce Lampcov, assisted by Steve Boyer, session supervision by Charlene Colon. Included lyric inner sleeve, made of card on early pressings, paper on later pressings.  P P Arnold courtesy 10 Records Ltd.  Michael Been courtesy Elektra/Asylum Records Inc.  Kate Bush courtesy EMI America Records, a division of Capitol Records INc.  Stewart Copeland courtesy A&M Records Inc.  Jim Kerr courtesy Virgin Records Ltd.  Youssou N'dour courtesy Albert Koski Productions.  L. Shankar courtesy ECM Records.  Richard Tee courtesy King Records Co Ltd.   |

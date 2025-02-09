@@ -70,7 +70,7 @@ No Cross No Crown is the tenth studio album by American heavy metal band Corrosi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Cross_No_Crown_(album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Nuclear Blast Entertainment |
 | Catalog Number | NE 4243-1 |
 | Discogs URL    | [Corrosion Of Conformity - No Cross No Crown](https://www.discogs.com/release/11474479-Corrosion-Of-Conformity-No-Cross-No-Crown) |

@@ -58,7 +58,7 @@ Still, no line captures the innate ferocity of <i>The Argument</i>—and of Fuga
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Argument_(Fugazi_album) |
-| Format         | Vinyl LP Album Reissue (Blue Marbled [Thor]) |
+| Format         | 1× Vinyl (Blue Marbled [Thor]) LP, Album, Reissue |
 | Label          | Dischord Records |
 | Catalog Number | dis130v |
 | Discogs URL    | [Fugazi - The Argument ](https://www.discogs.com/release/31394765-Fugazi-The-Argument-) |

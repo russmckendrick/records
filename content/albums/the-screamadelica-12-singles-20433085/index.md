@@ -78,7 +78,7 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM Single Reissue (180g), Vinyl 12" 45 RPM EP Reissue (180g), Vinyl 12" 45 RPM Single (180g), Box Set Compilation |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, EP, Reissue | 1× Vinyl (180g) 12", 45 RPM, EP, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue | 1× Vinyl (180g) 12", 45 RPM, EP, Reissue | 1× Vinyl (180g) 12", 45 RPM, Single | 1× Box Set Compilation |
 | Label          | Sony Music |
 | Catalog Number | 19439904541 |
 | Notes | Includes download code and 3 Paul Carnell art prints.  A manufacturing error resulted in the centre labels on the Loaded (Andy Weatherall) EP being attached to the Loaded (Terry Farley) EP, and vice versa, in some box sets.  Some others are packaged upside down and the back cover is attached to the front side of the box. |

@@ -67,7 +67,7 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roseland_NYC_Live |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (25th Anniversary Edition, Gatefold, Red) |
+| Format         | 2× Vinyl (25th Anniversary Edition, Gatefold, Red) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Universal Music Recordings |
 | Catalog Number | 556 893 1 |
 | Notes | Hype sticker on front cover: "PORTISHEAD roseland nyc live • 25th anniversary edition expanded to 14 tracks • Remastered 2xLP red vinyl • Includes double-sided poster and NYC venue VIP pass"  All tracks recorded live at the Roseland Ballroom, New York City 24th July 1997.  Newly remastered, the track list has been expanded for the 25th anniversary edition to include "Undenied" and "Numb" from the concert film, as well as the full length performance of ‘Western Eyes’, which played in part over the credits of the film.  "Sour Times" and "Roads" are also now the original Roseland versions (previously substituted on the album release with recordings from other performances). All 5 of these tracks are on vinyl for the first time.  Sticker on back cover "Made in Germany".  A Systemtactic release ℗ 2023 Universal Music Operations Limited © 2023 Universal Music Operations Limited.  Runouts are etched. |

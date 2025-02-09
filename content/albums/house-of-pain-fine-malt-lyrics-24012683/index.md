@@ -67,7 +67,7 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Orange), Vinyl LP (White), All Media Album Deluxe Edition Limited Edition Numbered Reissue Remastered |
+| Format         | 1× Vinyl (Orange) LP | 1× Vinyl (White) LP | 1× All Media Album, Deluxe Edition, Limited Edition, Numbered, Reissue, Remastered |
 | Label          | Tommy Boy |
 | Catalog Number | TB-5184-1 |
 | Notes | Remastered, 30th Year Anniversary, 180 Gram Orange and White Vinyl. Numbered edition of 6500. Comes with a jump rope. |

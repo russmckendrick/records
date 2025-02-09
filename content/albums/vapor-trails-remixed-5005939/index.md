@@ -64,7 +64,7 @@ styles: ["Prog Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Atlantic |
 | Catalog Number | 8122796441 |
 | Notes | Recorded at Reaction Studios, Toronto, January to November, 2001 © 2002 Core Music Publishing (SOCAN) ℗ & © 2013 Atlantic Recording Corporation & Anthem Entertainment.  Single sleeve with two-sided insert.  EU version of this release pressed at Optimal Media GmbH in Germany.  Matrix runouts include matrix numbers for RTI ([l66254]), which suggests that plating was done there.  Printed in E.U. (on labels and sleeve).  Some copies have Made In Germany sticker directly on the rear sleeve.  Runouts are etched except for "MASTERDISK", which is stamped. |

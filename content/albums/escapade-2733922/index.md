@@ -58,7 +58,7 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Escapade_(Tim_Finn_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mushroom |
 | Catalog Number | RML 53104 |
 | Notes | All runouts are etched  Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.  |

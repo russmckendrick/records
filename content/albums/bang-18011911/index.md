@@ -60,7 +60,7 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bang!_(World_Party_album) |
-| Format         | Vinyl LP Album Misprint Reissue |
+| Format         | 1× Vinyl LP, Album, Misprint, Reissue |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 3LP |
 | Notes | With printed inner sleeve.  "Sooner or Later" erroneously listed as last song on A side on both jacket and label. "Give It All Away (Reprise)" is included in the extended “Give It All Away” on side A and not on the b-side as separate song as stated on both jacket and label.  Tracks for additional engineering credit by Joe Blaney are not specified on this release, but other versions (including [r8181374] and [r3184051]) identify this credit only for "Radio Days," "Sunshine" and "All I Gave".   Rear cover & labels: Manufactured in the USA |

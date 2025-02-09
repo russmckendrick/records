@@ -60,7 +60,7 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition Numbered Stereo (Orange / Black Merge) |
+| Format         | 1× Vinyl (Orange / Black Merge) LP, Compilation, Limited Edition, Numbered, Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP862 |
 | Notes | Hand numbered on the rear out of /1000  Printed inner sleeve  |

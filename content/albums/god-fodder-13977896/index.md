@@ -64,7 +64,7 @@ Five different singles were released from God Fodder across different regions. U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/God_Fodder |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
+| Format         | 1× Vinyl (Silver & Black Marbled) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Furtive (2) |
 | Catalog Number | MOVLP2455 |
 | Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.  180 gram.    Tracks listed sequentially on release.  |

@@ -58,7 +58,7 @@ Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prince_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-8 |
 | Notes | Cover: Manufactured in the E.U.  Dust sleeve: © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8  Labels: 553365-1 © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. Manufactured in the Netherlands  Vinyl, matrix/runout: 14944 2A and 14944 2B are stamped the rest is etched |

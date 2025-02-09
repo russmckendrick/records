@@ -58,7 +58,7 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Stereo (Yellow Vinyl) |
+| Format         | 1× Vinyl (Yellow Vinyl) LP, Limited Edition, Stereo |
 | Label          | KSCOPE |
 | Catalog Number | KSCOPE1236 |
 | Notes | The sticker on the shrink wrap reads: kscope1242  Issued with a full colour inner sleeve with lyrics and credits. The kscope insert portraits new releases and highlights various bands.  all songs recorded wiltshire, england at middle rank between november 2022 and february 2024. mixed in london, england at no man's land between march 2023 and march 2024. published by real world works ltd/sony/atv music. all songs written by tim bowness  Rough Trade shops in the UK sold an 'Exclusive' release of this version of the album with a signed 'art print'. In reality, this was the same signed print given with initial copies available from Burning Shed, Tim's own store. |

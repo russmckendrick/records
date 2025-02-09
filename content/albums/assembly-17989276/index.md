@@ -79,7 +79,7 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Remastered (Red, 180 Gr) |
+| Format         | 2× Vinyl (Red, 180 Gr) LP, Compilation, Limited Edition, Remastered |
 | Label          | Dark Horse Records |
 | Catalog Number | DH0002 |
 | Notes | Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release. |

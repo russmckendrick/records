@@ -67,7 +67,7 @@ The album was produced by John Leckie.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_the_Collective |
-| Format         | Vinyl LP Album (Green), Vinyl 12" (Green, Bonus), All Media Deluxe Edition Limited Edition |
+| Format         | 1× Vinyl (Green) LP, Album | 1× Vinyl (Green, Bonus) 12" | 1× All Media Deluxe Edition, Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP029F |
 | Notes | LP+12” limited edition green vinyl . Limited to 1000 copies worldwide.  First 500 copies Signed by Band. |

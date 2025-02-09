@@ -73,7 +73,7 @@ A documentary film, titled A Skin, A Night, was released the following year. Foc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boxer_(The_National_album) |
-| Format         | Vinyl LP Album Club Edition Reissue Special Edition (Gray), Vinyl 7" 45 RPM (Clear) |
+| Format         | 1× Vinyl (Gray) LP, Album, Club Edition, Reissue, Special Edition | 1× Vinyl (Clear) 7", 45 RPM |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 252 |
 | Notes | 10th Anniversary Reissue.  Sticker says : "The National Boxer Special Edition Gray Vinyl Includes lyric sheet and an exclusive clear 7" with 2 songs from the forthcoming album Sleep Well Beast out Sept. 8th."  Package also includes 12x12 art print by Philip Johnson, and another 12x12 insert featuring “words” by Tyler Barstow and a cocktail recipe. |

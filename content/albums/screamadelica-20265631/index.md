@@ -60,7 +60,7 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Screamadelica |
-| Format         | Vinyl 2× LP Album Picture Disc Reissue Stereo |
+| Format         | 2× Vinyl LP, Album, Picture Disc, Reissue, Stereo |
 | Label          | Sony Music |
 | Catalog Number | 19439906211 |
 | Notes | Double vinyl Picture disc |

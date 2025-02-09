@@ -49,7 +49,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Numbered |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP415 |
 | Notes | Pre-orders from label website were signed. |

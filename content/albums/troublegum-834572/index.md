@@ -66,7 +66,7 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Troublegum |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | 540 196-1 |
 | Notes | Also available on [url=http://www.discogs.com/Therapy-Troublegum/release/1632751]black vinyl[/url]. |

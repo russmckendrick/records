@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Columbia |
 | Catalog Number | 88875136551 |
 | Notes | Includes digital download code, valid until 10/24/16. Printed inner sleeve with lyrics.  © & ℗ 2015 Venusnote Ltd. under exclusive license to Columbia Records, a Division of Sony Music Entertainment / COLUMBIA is the exclusive trademark of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH.  Made in the EU.  All songs © 2015 EMI Blackwood Music Inc. o/b/o JJSR Productions Inc. (BMI) / Mute Song (BMI).  Mixed at The Strongroom. Mastered at Abbey Road. All lead vocals recorded at Blanco Studio (New York, NY). Recorded at Sunset Sound - Electric Lady - Real World - Famous Times - The Mouse House - Blanco - Black Lodge - Casa G - Talk Back |

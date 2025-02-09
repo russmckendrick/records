@@ -70,7 +70,7 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Giants_of_All_Sizes |
-| Format         | Vinyl LP Album (180gm) |
+| Format         | 1× Vinyl (180gm) LP, Album |
 | Label          | Polydor |
 | Catalog Number | 7764402 |
 | Notes | Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com |

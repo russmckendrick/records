@@ -59,7 +59,7 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Al_Green%27s_Greatest_Hits |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Fat Possum Records |
 | Catalog Number | FPH1135-1 |
 | Notes | Comes with a download code, redeemable via Memphis Vinyl's website. |

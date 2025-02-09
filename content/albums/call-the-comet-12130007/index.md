@@ -61,7 +61,7 @@ Call the Comet is the third studio album by musician Johnny Marr. It was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Call_the_Comet |
-| Format         | Vinyl LP Album (Purple) |
+| Format         | 1× Vinyl (Purple) LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | NVLPH004 |
 | Notes | Gatefold sleeve including digital download card. Vinyl held in a separate slim black sleeve in the right-hand compartment. The gatefold sleeve - once opened - features album artwork, credits and lyrics.  Shrink wrapped copies feature a black circular "JOHNNY MARR" sticker in upper right corner and a white barcode sticker on back cover to hide the barcode from the regular version [r12143164].  ℗ & © 2018 New Voodoo. All Rights reserved. The copyright in this sound recording is owned by Warner Music UK. Made in The EU.  |

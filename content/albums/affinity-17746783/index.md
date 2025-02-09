@@ -61,7 +61,7 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
+| Format         | 2× Vinyl (180g) LP, Album | 1× CD Album | 1× All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |
 | Notes | Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back. |

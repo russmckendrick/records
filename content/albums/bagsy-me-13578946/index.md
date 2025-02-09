@@ -60,7 +60,7 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bagsy_Me |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Turquoise) |
+| Format         | 1× Vinyl (Turquoise) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2303 |
 | Notes | Limited edition of 1,000 machine numbered copies.  180 gram audiophile turquoise vinyl. Includes 4 page booklet. Made in the EU. |

@@ -85,7 +85,7 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue [Aquamarine] With White And Black Splatter) |
+| Format         | 2× Vinyl (Blue [Aquamarine] With White And Black Splatter) LP, Album, Limited Edition |
 | Label          | Invada |
 | Catalog Number | INV176LP |
 | Notes | Mastered at Audiosiege Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |

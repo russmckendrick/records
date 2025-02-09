@@ -58,7 +58,7 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (Blue With Black Splatter) |
+| Format         | 1× Vinyl (Blue With Black Splatter) LP, Album, Record Store Day, Limited Edition, Stereo |
 | Label          | Daptone Records |
 | Catalog Number | DAP-066 |
 | Notes | Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.  Hype sticker affixed to shrink, with barcode: Limited blue vinyl with black splatter! These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land. "Sharon Jones is the 21st century's Godmother of Soul" - NPR Includes MP3 download card  Title on jacket back, labels: Just Dropped In (To See What Condition My Rendition Was In) Title on jacket front: "Just Dropped In To See What Condition My RENDITION Was In!" Title on jacket spine: Just Dropped In ...  Labels include "Support Your Local Record Store" text.  Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016. |

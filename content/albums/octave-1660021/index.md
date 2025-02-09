@@ -59,7 +59,7 @@ Octave is the ninth album by the Moody Blues (the eighth by this particular line
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Octave_(album) |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Decca |
 | Catalog Number | TXS 129 |
 | Notes | Gatefold sleeve.   Track lengths only printed on sleeve  |

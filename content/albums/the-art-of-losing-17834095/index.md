@@ -64,7 +64,7 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Art_of_Losing_(The_Anchoress_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1111 |
 | Notes | Double Gold Vinyl Limited to 500 copies |

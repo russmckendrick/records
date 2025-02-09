@@ -55,7 +55,7 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Bee |
-| Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue |
 | Label          | London Records |
 | Catalog Number | LMS5521766 |
 | Notes | Limited edition honey yellow vinyl in gatefold sleeve with expanded artwork & liner notes.  Copies ordered from the artist's online store (via Townsend Music) come with a signed print.  Manufactured in France. |

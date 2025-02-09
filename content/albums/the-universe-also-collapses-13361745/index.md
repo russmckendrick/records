@@ -56,7 +56,7 @@ The Universe Also Collapses is a studio album by the psychedelic rock band Gong,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Universe_Also_Collapses |
-| Format         | Vinyl LP Album Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1039 |
 | Notes | Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10" |

@@ -54,7 +54,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (180 Gram, Orange) |
+| Format         | 1× Vinyl (180 Gram, Orange) LP, Album, Stereo |
 | Label          | Abel Records (3) |
 | Catalog Number | ARAG001LP |
 | Notes | Packaged in a gold-embossed matte single jacket with 4-page color printed insert, polylined inner LP sleeve and color printed inner LP sleeve in a resealable clear plastic sleeve. Some copies came with the insert autographed. |

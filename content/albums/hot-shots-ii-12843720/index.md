@@ -76,7 +76,7 @@ Mason later said the album was, "us doing what we promised to do and making some
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hot_Shots_II |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver), CD Reissue |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition, Reissue | 1× Vinyl (Silver) LP, Album, Limited Edition, Reissue | 1× CD Reissue |
 | Label          | Because Music |
 | Catalog Number | BEC5543810 |
 | Notes | Limited edition of 1000 copies. Includes CD of album.  Recorded and mixed for SRM.  Printed in EU.  Catalogue number BEC5543810 appears on a UPC sticker on outer wrap, covering the original UPC. Spine still has catalogue number BEC5543701, as per the black vinyl version.  With full-colour printed inner sleeves.  |

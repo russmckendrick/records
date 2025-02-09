@@ -59,7 +59,7 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, 45 RPM, Album, Limited Edition |
 | Label          | Not On Label (British Theatre Self-released) |
 | Catalog Number | none |
 | Notes | Signed copies were available via a Pledgemusic campaign. Comes in a gatefold sleeve with printed inners. Contains no barcode or catalogue number. |

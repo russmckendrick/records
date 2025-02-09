@@ -64,7 +64,7 @@ styles: ["Prog Rock", "Emo", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2793 |
 | Notes | 180 gram audiophile vinyl Gatefold sleeve Etched artwork on d-side 2 printed innersleeves with lyrics and artwork by Ken Kelly Made in The EU.  |

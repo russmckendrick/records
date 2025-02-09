@@ -59,7 +59,7 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cherry_Pie_(album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3112 |
 | Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112 |

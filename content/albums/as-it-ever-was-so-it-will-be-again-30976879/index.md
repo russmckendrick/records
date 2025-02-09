@@ -63,7 +63,7 @@ At first glance, Colin Meloy and co. are doing a lot across the ample framework 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/As_It_Ever_Was,_So_It_Will_Be_Again |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Orange W/Black [Tiger's Eye]) |
+| Format         | 2× Vinyl (Orange W/Black [Tiger's Eye]) LP, Album, Limited Edition, Stereo |
 | Label          | Y.A.B.B. Records |
 | Catalog Number | YABB-004 |
 | Notes | Rough Trade exclusive on "Tiger's Eye" (orange and black swirl) vinyl, limited to 300 copies. Deluxe Packaging, Tip-on Gatefold Sleeve with Clear UV Foil Art in an Embossed Frame, Matte Foil Script, Limited Edition 'St Joan' illimat Card and 8 page Lyric Book. |

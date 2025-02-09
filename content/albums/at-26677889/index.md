@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (Purple) |
+| Format         | 1× Vinyl (Purple) LP, Album, Stereo |
 | Label          | Floating World |
 | Catalog Number | FWLP052 |
 | Notes | Recorded in Melbourne and Auckland Mixed in Oxfordshire  ℗ 2023 Andy White & Tim Finn © 2023 Floating World Ltd. |

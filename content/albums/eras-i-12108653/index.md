@@ -85,7 +85,7 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Limited Edition, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Vinyl 2× LP Album |
+| Format         | 1× Box Set Compilation, Deluxe Edition, Limited Edition | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album | 2× Vinyl LP, Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 503 |
 | Notes | Black 180g vinyl limited to 2500 copies. Includes the albums Ki, Addicted, Deconstruction & Ghost. For the latter two this is the first vinyl pressing.  Includes a 34 page booklet with photos, credits, lyrics & new liner notes for each album by Devin Townsend.  "On booklet page 8: Legal & Management Jeff Cohen and Mike Mohery www.outerloopmanagement.com" "On booklet page 16: Management: Mike Mohery for Outerloop Management (mike@outerloopmanagement.com); Legal: Jeff Cohen (cohen@mwzb.com)"  The track list on the back of the box and booklet has typo in the title of Addicted, it is misspelled as "Addictced". |

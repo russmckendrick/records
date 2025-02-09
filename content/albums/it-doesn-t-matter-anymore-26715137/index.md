@@ -59,7 +59,7 @@ The song has been covered many times by artists like Linda Ronstadt in 1974, and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It_Doesn%27t_Matter_Anymore |
-| Format         | Vinyl LP Album (Green) |
+| Format         | 1× Vinyl (Green) LP, Album |
 | Label          | Past Night From Glasgow |
 | Catalog Number | PNFG30 |
 | Discogs URL    | [The Supernaturals - It Doesn't Matter Anymore](https://www.discogs.com/release/26715137-The-Supernaturals-It-Doesnt-Matter-Anymore) |

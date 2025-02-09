@@ -62,7 +62,7 @@ The album was remastered and re-released on 20 November 2015 with deluxe and sup
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Toughest_in_the_Infants |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Universal Music Catalogue |
 | Catalog Number | uwr00054 |
 | Notes | ℗ + © 2015 Smith Hyde Productions, under exclusive license to Universal Music Operations, Ltd.   Rick Smith & Karl Hyde are published by Mute Song Ltd. for the world excluding the USA, Canada and Mexico and by Music Of Big Deal (BMI) for USA, Canada and Mexico; Darren Emerson is published by Mute Song Ltd for the world excluding USA & Canada and Kobalt for USA & Canada.   Made in the EU.  Remastered at Abbey Road Studios by Miles Showell cut at half speed. 180 gram vinyl.  Includes printed inner sleeves.  Steven Hall for Junior Boys Own |

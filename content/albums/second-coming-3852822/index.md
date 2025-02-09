@@ -63,7 +63,7 @@ Unbowed by the burden of expectation, the Mancunians forge new ways to groove. D
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Coming_(The_Stone_Roses_album) |
-| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 0600753385166 |
 | Notes | Initial copies are stickered as part of [l197898] series, including a voucher to download an MP3 version of the entire album.  ℗ 1994 Geffen Records, Inc. © 1994 Geffen Records, Inc. Made in the EU.  Durations not on release. Runouts are stamped.  |

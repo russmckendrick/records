@@ -61,7 +61,7 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Listen_Without_Prejudice_Vol._1 |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Epic |
 | Catalog Number | 88875145271 |
 | Notes | Hype Sticker Reads: George Michael Listen Without Prejudice Features Praying For Time Freedom '90 Waiting For That Day Cowboys And Angels  The release has been delayed from being officially released a number of times, with release dates given as follows: 11 November 2016 3 March 2017 (Following George Michael's sudden death on Christmas Day 2016) May 2017  20th October 2017 (current and actual official release date)  A number of copies are known to have been mistakenly available despite the cancelling of release dates.  Including MP3 download code. |

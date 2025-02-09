@@ -61,7 +61,7 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yay!_(Motorpsycho_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Milky Clear/Red Smoke, 180g) |
+| Format         | 1× Vinyl (Milky Clear/Red Smoke, 180g) LP, Album, Limited Edition, Stereo |
 | Label          | Det Nordenfjeldske Grammofonselskab |
 | Catalog Number | NFGS0123LP |
 | Notes | Limited edition of 1000 copies, with 700 copies distributed in Norway and 300 across the rest of Europe, issued on 180g milky clear / red smoke vinyl, with a 12" double-sided insert, a black die-cut poly-lined inner sleeve and a sticker, in stickered shrink wrap.  This record was written in Trondheim in the first year or so of the plague, record at home at the Cheese Factory/ Lamoen early in the second year.  Track A4 titled "Dank State (Jan '21)" on the side A label.  Labels: ℗ & © 2023 Det Nordenfjeldske Grammofonselskab  Insert: © 2023 Det Nordenfjeldske Grammofonselskab  Back cover: ℗ 2023 Det Nordenfjeldske Grammofonselskab |

@@ -51,7 +51,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Rockosmos |
 | Catalog Number | none |
 | Notes | Pearl Blue Vinyl (180g) limited to 250 copies Pre-orders ONLY were signed by the band (on the colored inner sleeve) Download code included with the Vinyl |

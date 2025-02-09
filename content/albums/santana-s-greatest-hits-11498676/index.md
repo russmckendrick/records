@@ -57,7 +57,7 @@ Three of the tracks are the edited single versions, as annotated below.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Santana%27s_Greatest_Hits |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Columbia |
 | Catalog Number | 88985446151 |
 | Discogs URL    | [Santana - Santana's Greatest Hits](https://www.discogs.com/release/11498676-Santana-Santanas-Greatest-Hits) |

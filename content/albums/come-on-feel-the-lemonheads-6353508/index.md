@@ -57,7 +57,7 @@ Come on Feel the Lemonheads is the sixth studio album by the American alternativ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Come_on_Feel_the_Lemonheads |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1240 |
 | Discogs URL    | [The Lemonheads - Come On Feel The Lemonheads](https://www.discogs.com/release/6353508-The-Lemonheads-Come-On-Feel-The-Lemonheads) |

@@ -58,7 +58,7 @@ The track was originally issued on the Volt label (a subsidiary of Stax Records)
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Green_Onions |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | DOL |
 | Catalog Number | DOL1517H |
 | Discogs URL    | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |

@@ -63,7 +63,7 @@ Musically, Sting’s nimble basslines meshed well with Copeland’s fluid groove
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Outlandos_d%27Amour |
-| Format         | Vinyl LP Album Misprint Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Misprint, Reissue, Stereo |
 | Label          | A&M Records |
 | Catalog Number | 0082839475310 |
 | Notes | Re-release from the [l138199] [l197898] series.   Includes voucher to download MP3 version of the album.  Made in the EU.  Spine reads "OUTLANDOS D'ARMOUR".   Original sound recording made by A & M Records Ltd. ℗ 1978 A & M Records Ltd. © 1978 A & M Records Ltd.  A1 to A4, B1 to B3 and B5 published by Virgin Music (Publishers) Ltd. A5 published by Virgin Music (Publishers)/Island Music Limited B5 (Be My Girl) published by Virgin Music (Publishers) Ltd./ B5 (Sally) published by Rondor Music (London) Ltd. |

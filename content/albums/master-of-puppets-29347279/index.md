@@ -61,7 +61,7 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Master_of_Puppets |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Red (Battery Brick)) |
+| Format         | 1× Vinyl (Red (Battery Brick)) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Blackened |
 | Catalog Number | BLCKND005R-1 |
 | Notes | Made in Germany Pressed on Limited Edition Battery Brick Vinyl  |

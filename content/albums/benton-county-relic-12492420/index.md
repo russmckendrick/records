@@ -60,7 +60,7 @@ styles: ["Country Blues", "Hill Country Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Single Lock Records |
 | Catalog Number | SL024 |
 | Notes | Signed versions were available as pre-order. "Ain't Gonna Take No Mess" recorded at Ardent Studios in Memphis, TN Includes printed inner sleeve.  |

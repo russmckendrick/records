@@ -59,7 +59,7 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Life%27s_Too_Good |
-| Format         | Vinyl LP Album Limited Edition Reissue (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition, Reissue |
 | Label          | One Little Independent Records |
 | Catalog Number | tplp5 |
 | Notes | Limited edition of 500 copies.  Comes with a Rough Trade Essential Edition obi and a barcode sticker on the plastic seal on the back.  The labels still show the track numbers of the original release (side A as 1-5 and side B as 6-10), with track B6 not mentioned on release, as with all previous releases.  From back sleeve: warmest thanks to frikki por his input. welcome to melax. recorded at: studio syrland, reykjavik. berry st. studios, london. orinocco studios, london.  Made in England. |

@@ -64,7 +64,7 @@ Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Last_Place_(album) |
-| Format         | Vinyl LP Album Limited Edition (Translucent Blue) |
+| Format         | 1× Vinyl (Translucent Blue) LP, Album, Limited Edition |
 | Label          | 30th Century Records |
 | Catalog Number | 88985 39875 1 |
 | Notes | 2000 copies available exclusively through Rough Trade. |

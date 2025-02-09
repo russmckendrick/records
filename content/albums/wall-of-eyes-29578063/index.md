@@ -66,7 +66,7 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wall_of_Eyes |
-| Format         | Vinyl LP Album Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | XL Recordings |
 | Catalog Number | XL1394LPE |
 | Notes | XL1394LPE is printed on the barcode sticker.  Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL". The French distribution may have another "France Inter" sticker. Includes a printed inner sleeve with lyrics.  Early orders from various indie sellers across the world received a free 12x12 Art Print.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  ℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd ©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music & Warp Publishing |

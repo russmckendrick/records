@@ -54,7 +54,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition (Red) |
+| Format         | 2× Vinyl (Red) LP, Compilation, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1009 |
 | Notes | The label catalogue number KSCOPE1009 and barcode can be found on the sticker on the wrapping. 2LP gatefold 180 gram heavyweight red vinyl. |

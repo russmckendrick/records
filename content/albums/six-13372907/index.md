@@ -61,7 +61,7 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Six_(Mansun_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1066 |
 | Notes | Indies exclusive edition.  KSCOPE1011 - generic catalogue number on the record sleeve. KSCOPE1066 - clear vinyl 'hype' sticker & barcode sticker catalogue number.  21st-anniversary edition.  Hype sticker: MANSUN SIX 2019 REMASTER LIMITED EDITION CLEAR 180g VINYL 2LP SET - 21ST ANNIVERSARY EDITION Mansun's audacious and infectious Top 10 album. Includes the singles 'Six', 'Being A Girl', 'Legacy' and 'Negative'. "A twisting maze of prog, glam and early-'80s guitar pop... No-one has done northern angst on LSD quite like this." NME kscope 1066 kscopemusic.com/mansun   Made in the EU |

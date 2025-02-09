@@ -65,7 +65,7 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Band_on_the_Run |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (50th Anniversary, Half-Speed Mastering) |
+| Format         | 1× Vinyl (50th Anniversary, Half-Speed Mastering) LP, Album, Reissue, Remastered, Stereo |
 | Label          | MPL (2) |
 | Catalog Number | 00602455435620 |
 | Notes | 50th Anniversary Edition Half-Speed mastered at Abbey Road Studios "Cut by Miles Showell...19 February 2023."  North American track list including 'Helen Wheels' as track B3  Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.   Made in Germany.   |

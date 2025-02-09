@@ -73,7 +73,7 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool |
-| Format         | Vinyl 2× LP Album (Optimal Pressing, 180 Gram) |
+| Format         | 2× Vinyl (Optimal Pressing, 180 Gram) LP, Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP790 |
 | Notes | Gatefold sleeve. Cover sleeve inside print: Interior of jacket is entirely designed and printed with artwork.  ℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.  In memory of Vic Godrich 1936-2015  Comes with a voucher for a digital download of the album.  All Runouts are etched. |

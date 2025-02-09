@@ -89,7 +89,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Album |
+| Format         | 4× Vinyl LP, Album |
 | Label          | Thirty Tigers |
 | Catalog Number | 04471LP |
 | Notes | Double gatefold book format. ℗ & © 2023 Martha's Music.  The track positions are numbered sequentially on the rear sleeve. |

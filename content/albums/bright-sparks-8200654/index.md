@@ -52,7 +52,7 @@ styles: ["Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Format         | 1× Vinyl (Gatefold Sleeve) LP, Album |
 | Label          | Twins Of Evil |
 | Catalog Number | BIGTOELP2 |
 | Discogs URL    | [I Monster - Bright Sparks](https://www.discogs.com/release/8200654-I-Monster-Bright-Sparks) |

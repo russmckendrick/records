@@ -93,7 +93,7 @@ Radiohead promoted OKNOTOK with a teaser campaign of posters and videos. Music v
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OK_Computer_OKNOTOK_1997_2017 |
-| Format         | Vinyl 2× LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition Remastered Stereo (Blue Opaque, 180 Gram) |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Compilation | 1× All Media (Blue Opaque, 180 Gram) Limited Edition, Remastered, Stereo |
 | Label          | XL Recordings |
 | Catalog Number | XLLP868X |
 | Notes | Originally advertised as being "Limited to 7,000 copies". Unconfirmed 10,000 copies pressed due to pre-order demand. Indie record stores exclusive.  Triple-sleeve gatefold jacket with colour printed inner sleeves. Three 180 gram blue coloured 12" vinyl records containing the original twelve track album,  three unreleased tracks and eight B-sides, all newly remastered from the original analogue tapes.  Includes a download code card (for MP3 or WAV formats).  Different barcodes on the cover and shrink.  XLLP868  appears on the back of the gatefold. XLLP868X appears on a sticker on the shrink wrap on the back of the gatefold.  ℗ 1997-2017 The copyright in this sound recording is owned by XL Recordings Limited. © 1997-2017 XL Recordings Limited.  Printed in E.U. Made in the E.U.  Runouts are etched |

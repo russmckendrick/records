@@ -54,7 +54,7 @@ An “alternative rock” band that actually does provide an alternative by util
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Transmissions_from_the_Satellite_Heart |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Grey [Ash Grey]) |
+| Format         | 1× Vinyl (Grey [Ash Grey]) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Warner Records |
 | Catalog Number | 093624952206 |
 | Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped. |

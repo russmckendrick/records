@@ -69,7 +69,7 @@ The album's lead single, "Ooh La La", reached number four on the UK Singles Char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Supernature_(Goldfrapp_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Green Translucent, Gatefold) |
+| Format         | 1× Vinyl (Green Translucent, Gatefold) LP, Album, Limited Edition, Reissue, Special Edition |
 | Label          | Mute |
 | Catalog Number | GSTUMM250 |
 | Notes | On hype sticker: "SUPERNATURE GATEFOLD SPECIAL EDITION TRANSLUCENT GREEN VINYL WITH EXCLUSIVE ART PRINT INCLUDES THE SINGLES: OOH LA LA NUMBER1 RIDE A WHITE HORSE AND FLY ME AWAY GSTUMM250"  ℗ 2020 Mute Records Limited, a BMG Company © 2005 Mute Records Limited, a BMG Company  Made in the EU  Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.  Includes exclusive art print of the original artwork.  Nb: 'Limited Edition' according to the Mute website only. |

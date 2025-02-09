@@ -61,7 +61,7 @@ The resulting album gave Franklin the crossover success she wanted. The delightf
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Arista |
 | Catalog Number | 207 202 |
 | Notes | Printed inner sleeve The runouts are stamped, the Roman numerals after S II are hand-etched  ℗ & © 1985 Arista Records  [On labels]: Orig. Sound Rec. made by Arista Rec. Inc. ℗ © 1985 Arista Records Inc.  [On runout groove]:  Mastering/processing method: Direct Mastering [DM].  Some copies were released with a sticker. |

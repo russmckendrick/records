@@ -73,7 +73,7 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Metallica_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (180g, Clear with Black Marble (Some Blacker Marbled)) |
+| Format         | 2× Vinyl (180g, Clear with Black Marble (Some Blacker Marbled)) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Blackened |
 | Catalog Number | BLCKND008R-1U |
 | Notes | Pressed on LIMITED EDITION 2LP Some Blacker  Marbled Vinyl"  Made In Germany sticker on shrink & it's also printed on the back cover |

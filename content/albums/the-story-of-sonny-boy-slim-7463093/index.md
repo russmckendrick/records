@@ -70,7 +70,7 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Story_of_Sonny_Boy_Slim |
-| Format         | Vinyl LP Stereo, Vinyl LP Single Sided Etched Stereo, All Media Album |
+| Format         | 1× Vinyl LP, Stereo | 1× Vinyl LP, Single Sided, Etched, Stereo | 1× All Media Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
 | Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |

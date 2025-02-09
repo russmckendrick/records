@@ -59,7 +59,7 @@ Wallinger is assisted on this album by several session musicians, including Anth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Private_Revolution |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Seaview |
 | Catalog Number | 1LP |
 | Discogs URL    | [World Party - Private Revolution](https://www.discogs.com/release/17493697-World-Party-Private-Revolution) |

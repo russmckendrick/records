@@ -73,7 +73,7 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (140 gram) |
+| Format         | 2× Vinyl (140 gram) LP, Album, Reissue |
 | Label          | Paisley Park |
 | Catalog Number | 7599-25577-1 |
 | Notes | Heart-shaped hype sticker: Manufactured in the E.U.  Labels: Manufactured in the Netherlands.  The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.  Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.  [a32411] appears courtesy of [l63404]  Runout strings are etched except for Record Industry identifiers which are stamped.  |

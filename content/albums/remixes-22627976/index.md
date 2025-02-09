@@ -78,7 +78,7 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Stereo (180g) |
+| Format         | 3× Vinyl (180g) LP, Compilation, Stereo |
 | Label          | Kling Klang |
 | Catalog Number | 0190296504761 |
 | Notes | Kling Klang Produkt Ralf Hütter 2022 This Compilation ℗ + © 2022 Ralf Hütter/Kraftwerk® under exclusive licence to Parlophone Records Limited. Made in Germany.  Issued in wide-spine sleeve with matte-finish inners.  1V, 1||, 1|Λ and 1|V in runouts are mirrored.  Track F1 was previously issued as Tour De France 2003 (Étape 2), whereas this is an edit. None of the remixer credits are included.  Some copies issued with "Made In Germany" sticker on rear album cover. |

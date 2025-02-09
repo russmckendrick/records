@@ -54,7 +54,7 @@ After the Rain is the debut album of the American rock group Nelson, released by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/After_the_Rain_(Nelson_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | DGC |
 | Catalog Number | 7599-24290-1 |
 | Discogs URL    | [Nelson (4) - After The Rain](https://www.discogs.com/release/1841300-Nelson-4-After-The-Rain) |

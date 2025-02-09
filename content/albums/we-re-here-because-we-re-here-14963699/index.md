@@ -58,7 +58,7 @@ We're Here Because We're Here is the eighth album by the British rock band Anath
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We%27re_Here_Because_We%27re_Here_(album) |
-| Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Reissue, Stereo |
 | Label          | Kscope |
 | Catalog Number | Kscope1068 |
 | Notes | 10th anniversary edition on clear vinyl. |

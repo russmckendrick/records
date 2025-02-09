@@ -62,7 +62,7 @@ Changing their name from Sun, under which their debut EP had been released, thei
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Silver_Sun_(Silver_Sun_album) |
-| Format         | Vinyl LP Album Reissue Stereo (140g) |
+| Format         | 1× Vinyl (140g) LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC919 |
 | Discogs URL    | [Silver Sun - Silver Sun](https://www.discogs.com/release/24926828-Silver-Sun-Silver-Sun) |

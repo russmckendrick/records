@@ -51,7 +51,7 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ceremony_(New_Order_song) |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered |
 | Label          | Factory |
 | Catalog Number | FAC. 33 |
 | Notes | The alternative, re-recorded version of ‘Ceremony’ (i.e Version 2) featuring Gillian Gilbert  (originally released later in 1981) and features the later alternative ‘cream’ sleeve rather than the original green and copper. Remastered audio on heavyweight vinyl.  ℗ Original 1981, Remaster 2019 Warner Music UK Limited. © 2019 Warner Music UK Limited  Although this repress is supposed to reproduce the original 12", the artwork is far from accurate. The centre box is just white (rather than pale grey/cream) The blue stripe is considerably wider and the black square is much nearer the edge of the sleeve.  They also omitted the red "League" diamond from the bottom corner of the back cover  Confirmed from copy in hand that this edition contains the original mix of In A Lonely Place (ie digital thunderclap at 3:20 and again at 5:15 and then none between 5:30 and 6:15) |

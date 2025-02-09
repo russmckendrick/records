@@ -62,7 +62,7 @@ The album reached number eight on the UK Albums Chart and was promoted by the si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Broken_Frame |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Mute |
 | Catalog Number | STUMM9 |
 | Notes | Made in the EU |

@@ -57,7 +57,7 @@ Good Grief received a limited theatrical release in the United States on Decembe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_Grief_(film) |
-| Format         | Vinyl LP Album (Silver Vinyl, Signed Print) |
+| Format         | 1× Vinyl (Silver Vinyl, Signed Print) LP, Album |
 | Label          | 355 Recordings |
 | Catalog Number | 355REC001LPX |
 | Notes | Sticker on the front : Limited first edition of 700 copies pressed on silver vinyl (includes signed print). Some copies are sold with the artist's signature on the front of the cover. |

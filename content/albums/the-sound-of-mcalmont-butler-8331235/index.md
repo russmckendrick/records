@@ -51,7 +51,7 @@ styles: ["Indie Pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (Gold Translucent, 180 gram) |
+| Format         | 1× Vinyl (Gold Translucent, 180 gram) LP, Album, Reissue, Remastered |
 | Label          | Edsel Records |
 | Catalog Number | DEMREC114 |
 | Discogs URL    | [McAlmont & Butler - The Sound Of... McAlmont & Butler](https://www.discogs.com/release/8331235-McAlmont-Butler-The-Sound-Of-McAlmont-Butler) |

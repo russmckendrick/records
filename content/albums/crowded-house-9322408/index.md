@@ -63,7 +63,7 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crowded_House_(album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 4788026 |
 | Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Crowded-House/release/9318453]deluxe edition[/url] of this reissue.   Pressed By information is not listed. Information is derived from runouts.  |

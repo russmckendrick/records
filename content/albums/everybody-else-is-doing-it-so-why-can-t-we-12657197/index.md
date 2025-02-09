@@ -61,7 +61,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (25th. Anniversary, Gatefold) |
+| Format         | 1× Vinyl (25th. Anniversary, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Island Records |
 | Catalog Number | 6750577 |
 | Notes | Sticker: The Cranberries Everybody Else Is Doing It, So Why Can't We 25th. Anniversary Edition. Remastered at Abbey Road Studios. UMC  Island (logo) 6750577  Download Code in the Variant 3 edition  Back cover has "Made in EU" unlike [r24120869]  Runouts are stamped except "Miles. Abbey Road 1/2 speed. Room 30." etched  Tracks duration are not on this release |

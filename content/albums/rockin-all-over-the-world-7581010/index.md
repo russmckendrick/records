@@ -62,7 +62,7 @@ The album was reissued by Mercury in 2005 with a bonus track: a cover of the Bea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rockin%27_All_Over_the_World_(album) |
-| Format         | Vinyl LP Album Reissue (180gr) |
+| Format         | 1× Vinyl (180gr) LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723767 |
 | Notes | Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1977 Mercury Records Limited/Universal Music Catalogue ℗ 1977 Mercury Records Limited |

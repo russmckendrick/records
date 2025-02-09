@@ -59,7 +59,7 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mark_Hollis_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Polydor |
 | Catalog Number | 080 288-0 |
 | Notes | Hype sticker on front reads:  » Only solo album by Talk Talk frontman A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road Original artwork – printed inner sleeve, lyrics and credits "A sound whose ambience is as natural as breathing" Includes download card  080 288-0«  Later presses of this release do not include the hype sticker and no download code (discovered on a copy that was ordered 03/2024).  Download are 1411kbps WAV files.  On rear sleeve: © 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved. Made in the EU  The tracks are numbered sequentially, 1 to 8, on the release. The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.  In the runouts of variant 7, "21" and "1X" are mirrored. |

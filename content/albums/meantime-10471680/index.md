@@ -60,7 +60,7 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Meantime_(album) |
-| Format         | Vinyl LP Limited Edition Reissue (Red And Blue 50 / 50 Split) |
+| Format         | 1× Vinyl (Red And Blue 50 / 50 Split) LP, Limited Edition, Reissue |
 | Label          | Interscope Records |
 | Catalog Number | B0026776-01 |
 | Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.  The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker. The catalog number B0026621-01 appears on the disc.  All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)  ℗ 1992 © 2017 Interscope Records. |

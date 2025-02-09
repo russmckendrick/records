@@ -64,7 +64,7 @@ The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Brothers_in_Arms_(album) |
-| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Vertigo |
 | Catalog Number | 3752907 |
 | Notes | This version contains the full-length songs of the album, total playing time of 55:07. The original single album LP length is 47:21. Songs "So Far Away", "Money For Nothing", "Your Latest Trick" and "Why Worry" were edited on that release.  The timings in parenthesis are the original vinyl lengths:  "So Far Away" - 5:12 (3:59) "Money for Nothing" - 8:26 (7:04) "Your Latest Trick" - 6:33 (4:46) "Why Worry" - 8:31 (5:22)  Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig.  Includes A Voucher To Download MP3 Version Of The Album.  Made in the EU. |

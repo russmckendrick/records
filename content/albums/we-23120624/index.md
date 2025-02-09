@@ -63,7 +63,7 @@ Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_(Arcade_Fire_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Brown Marbled) |
+| Format         | 1× Vinyl (Brown Marbled) LP, Album, Limited Edition, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439971281 |
 | Notes | Limited pressing sold exclusively on Amazon and in Indie Stores. Packaged in an embossed gatefold sleeve with a gold foil hype sticker. Includes a printed inner sleeve, sticker and poster. |

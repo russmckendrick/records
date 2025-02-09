@@ -69,7 +69,7 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lives_Outgrown |
-| Format         | Vinyl LP Album Deluxe Edition Limited Edition Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Deluxe Edition, Limited Edition, Stereo |
 | Label          | Domino |
 | Catalog Number | WIGLP287X |
 | Notes | Limited deluxe heavy gatefold indie vinyl. Made in EU.  Including: - tip-on gatefold sleeve  - 180 gram heavyweight vinyl - 12-page "Scrapbook" booklet  - 4-page insert with lyrics, credits and photos - download code card - black antistatic inner sleeve - 12"x12" album art print in XI/XX editions  Catalogue number on rear jacket and spine: WIGLP287X Catalogue number on sticker: WIGLP287XX or WIGLP287XI  200 additional copies of this release were retailed by Assai Records with a hand numbered Japanese style Obi under their Assai Obi Editions.  All runout details are hand etched. The faintly inscribed Optimal marks (e.g. 'TV' and '1IV') are mirrored.  [Rear jacket:] ℗ & © 2024 Domino Recording Co. Ltd. PO Box 47029 London SW18 1WD / 20 Jay Street #626 Brooklyn NY 11201 dominomusic.com Made in the EU  [Insert:] Recorded at Devon Barn, Bristol State of Art, Studio 53 London and Snap Studios London Orchestration recorded at Konk Studios [...] Mixed [...] at Studio 53 London Mastered [...] Metropolis, London |

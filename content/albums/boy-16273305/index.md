@@ -70,7 +70,7 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boy_(album) |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
+| Format         | 1× Vinyl (White, 40th Anniversary Edition) LP, Album, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | Island Records |
 | Catalog Number | 0749627 |
 | Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."  Made In Germany. |

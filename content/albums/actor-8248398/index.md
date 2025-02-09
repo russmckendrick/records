@@ -58,7 +58,7 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 4AD |
 | Catalog Number | none |
 | Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.  Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas Mastered at Sterlingsound, NYC  Runout information is stamped.  Shrink wrap has hype sticker on rear: 'Made in Czech Republic'   For thank yous & additional credits - ILOVESTVINCENT.COM  MP3 album download included with purchase. |

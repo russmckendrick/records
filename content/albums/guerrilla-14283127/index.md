@@ -72,7 +72,7 @@ Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, ty
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Guerrilla_warfare |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue Remastered (20th Anniversary Edition) |
+| Format         | 2× Vinyl (20th Anniversary Edition) LP, 45 RPM, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT392DLP |
 | Notes | 20th Anniversary Edition. Pop-up Gatefold Double LP. Remastered From The Original Master Tapes.   A5 plays from the inside out after the main tracks on side A and ends in a locked groove that separates A1-A4 from it.  It is not listed on the sleeve, which follows the tradition of the Easter egg concept as it was a hidden track on the original CD release found by rewinding the first track.    B2 and C1 are longer than the original and deluxe CD, vinyl and digital releases as the segue was broken with the vinyl being split into four parts.    Side B ends in a locked groove just before the run-out. The run-out has no groove in it.  There is also a reprise version of D3 after D4, which wasn't on the original vinyl release and is also not listed on this release.    Durations not printed on release.    There is no side A matrix / runout; it's absence here is not by error. |

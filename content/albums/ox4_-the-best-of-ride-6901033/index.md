@@ -69,7 +69,7 @@ OX4_ The Best of Ride is a compilation album by the British band Ride, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OX4_The_Best_of_Ride |
-| Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
+| Format         | 2× Vinyl (Red) LP, Record Store Day, Compilation, Reissue |
 | Label          | Sire |
 | Catalog Number | 081227955137 |
 | Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |

@@ -65,7 +65,7 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_the_Blue_(Electric_Light_Orchestra_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue Stereo |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Picture Disc, Reissue, Stereo |
 | Label          | Sony Music |
 | Catalog Number | 88985456161 |
 | Notes | 40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records  |

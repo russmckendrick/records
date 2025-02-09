@@ -46,7 +46,7 @@ styles: ["Jazz-Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" 45 RPM Single Stereo |
+| Format         | 1× Vinyl 7", 45 RPM, Single, Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX822S |
 | Notes | The stunning duet between Matt Berry & Kitty Liv ‘I Gotta Limit’ was the first music shared from Matt Berry’s new album ‘Heard Noises’, out 24 January 2025.  The reaction to the track has been so overwhelming, Matt wanted to give you the opportunity to own it at an earlier date and asked if we could release it on a 7-inch single. We were only too happy to oblige, and Matt prepared some unique artwork for the record’s picture sleeve.  While looking for a new B-side, we remembered that Bond composer David Arnold had prepared a mix of ’Summer Sun’, that for all sorts of reasons to do with timing was languishing in the vaults. A dramatic experience, this mix sees the track given a full orchestral backing, creating a filmic reworking of the original.  Available for pre-order now, this will be released on the 15 November. |

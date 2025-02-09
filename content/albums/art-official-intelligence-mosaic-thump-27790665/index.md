@@ -62,7 +62,7 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Art_Official_Intelligence:_Mosaic_Thump |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 055-1 |
 | Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide. "MADE IN CZECH REPUBLIC" sticker on back shrink  RMM-055-1 on 'hype' sticker |

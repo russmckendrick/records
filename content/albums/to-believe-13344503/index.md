@@ -60,7 +60,7 @@ As with the group's previous work, it is jazz-inspired and features guests from 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/To_Believe |
-| Format         | Vinyl LP (White, 180 Gram), Vinyl LP (Clear, 180 Gram), All Media Album Deluxe Edition |
+| Format         | 1× Vinyl (White, 180 Gram) LP | 1× Vinyl (Clear, 180 Gram) LP | 1× All Media Album, Deluxe Edition |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN226X |
 | Notes | Includes download code.  Pre-orders from Bleep.com came with double-sided poster/print and sticker. |

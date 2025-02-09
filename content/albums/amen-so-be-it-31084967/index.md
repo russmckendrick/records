@@ -62,7 +62,7 @@ Amen (So Be It) is the debut album by Irish musician Paddy Casey. It was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amen_(So_Be_It) |
-| Format         | Vinyl LP Album Reissue (180g Clear Purple) |
+| Format         | 1× Vinyl (180g Clear Purple) LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 19802813241 |
 | Notes | First time on vinyl (180g) 25th anniversary reissue of Amen (So Be It), the classic debut album by Irish musician Paddy Casey. It was originally released on this day ago on 28 June 1999. |

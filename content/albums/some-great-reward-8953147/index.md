@@ -64,7 +64,7 @@ This was the first album where they achieved chart success in the US with the si
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Some_Great_Reward |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Legacy |
 | Catalog Number | STUMM19 |
 | Notes | Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd. Recorded at Music Works, London and Hansa Mischraum, Berlin. Mixed at Hansa Mischraum, Berlin.  Remastered at Super Audio Mastering. Cut at The Exchange.  ℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH |

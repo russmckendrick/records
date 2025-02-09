@@ -53,7 +53,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Limited Edition, Stereo |
 | Label          | Makin' Hay Records |
 | Catalog Number | none |
 | Notes | Reissue, available in white vinyl only, at tellemstevedave.com |

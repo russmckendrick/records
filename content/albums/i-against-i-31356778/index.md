@@ -61,7 +61,7 @@ charge.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Against_I |
-| Format         | Vinyl LP Reissue Remastered (Yellow W/ Red Marble) |
+| Format         | 1× Vinyl (Yellow W/ Red Marble) LP, Reissue, Remastered |
 | Label          | Bad Brains Records |
 | Catalog Number | ORGM-2187 |
 | Notes | Rough Trade Exclusive Limited to 500 copies |

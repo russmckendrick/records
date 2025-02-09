@@ -94,7 +94,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Blue), Vinyl LP Album Reissue (Orange), Vinyl LP Album Reissue (Clear) |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl (White) LP, Album, Reissue | 1× Vinyl (Yellow) LP, Album, Reissue | 1× Vinyl (Blue) LP, Album, Reissue | 1× Vinyl (Orange) LP, Album, Reissue | 1× Vinyl (Clear) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX31 |
 | Notes |    |

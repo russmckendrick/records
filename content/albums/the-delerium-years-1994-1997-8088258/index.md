@@ -135,7 +135,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Remastered, Vinyl 2× LP Album, Vinyl 2× LP Album, Vinyl 3× LP Album, Vinyl LP Compilation |
+| Format         | 1× Box Set Compilation, Remastered | 2× Vinyl LP, Album | 2× Vinyl LP, Album | 3× Vinyl LP, Album | 1× Vinyl LP, Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE894 |
 | Notes | Pressed on 180g heavyweight vinyl, remastered by Steven Wilson over the last three years. Packaged in a deluxe box with 40 page book containing extensive liner notes and a detailed band history by US journalist, Stephen Humphries. Disc 8, Side O is pressed as a concentric cut. |

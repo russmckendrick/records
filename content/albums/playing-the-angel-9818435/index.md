@@ -67,7 +67,7 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Playing_the_Angel |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985336991 |
 | Notes | ℗ 2005 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2005, 2016 Venusnote Ltd. under exclusive  license to Sony Music Entertainment International  Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made  in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336991.  Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.  The runout strings are etched. |

@@ -54,7 +54,7 @@ Initial reception to Autobahn was mixed; receiving negative reviews, from Rollin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Autobahn_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99586 1 8 |
 | Notes | Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974  [on booklet]    Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801]  Printed in Germany  [on rear cover]    Made in the EU  [on labels]    Printed inner sleeve and 12" square 12-page booklet inserted. |

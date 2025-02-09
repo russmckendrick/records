@@ -76,7 +76,7 @@ A UK version entitled Ring of Fire: The Legend of Johnny Cash has a different tr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Legend_of_Johnny_Cash |
-| Format         | Vinyl 2× LP Compilation (180 Gram, GZ Media Pressing) |
+| Format         | 2× Vinyl (180 Gram, GZ Media Pressing) LP, Compilation |
 | Label          | Island Records |
 | Catalog Number | 00602537952168 |
 | Notes | Includes voucher to download an MP3 version of the album. Gatefold cover.  Not to be confused with the [url=https://www.discogs.com/release/30977797-Johnny-Cash-The-Legend-Of-Johnny-Cash]MPO Pressing[/url].  ℗ 2005 © 2014 Universal Music Enterprises, a Division of UMG Recordings, Inc / Sony Music Entertainment. Made in the EU  |

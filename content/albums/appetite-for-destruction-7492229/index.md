@@ -63,7 +63,7 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Appetite_for_Destruction |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1Ã— Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 00720642414811 |
 | Notes | Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |

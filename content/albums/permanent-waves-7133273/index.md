@@ -61,7 +61,7 @@ Permanent Waves received a mostly positive reception from critics and became the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Permanent_Waves |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 00602547118073 |
 | Notes | Issued with an insert with pictures, lyrics and credits. Includes a voucher to download an MP3 version of the album.    Recorded at Le Studio, Morin-Heights, Quebec, during September and October 1979  Mixed at Trident Studios, Soho, London, in November 1979  Remastered at Abbey Road Mastering Studios, London    DMM Mastering at Abbey Road Mastering Studios - January 2015    ℗ 2015 Mercury Records. © 2015 Mercury Records  Made in the EU   |

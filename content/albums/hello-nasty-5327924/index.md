@@ -81,7 +81,7 @@ So here they were, mostly back in New York now, jamming in lower Manhattan sub-b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hello_Nasty |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Reissue, Remastered |
 | Label          | Capitol Records |
 | Catalog Number | 509996 94239 18 |
 | Notes | Gatefold packaging sleeve design, pressed on 180 gram vinyl. |

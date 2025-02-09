@@ -61,7 +61,7 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nothing%27s_Shocking |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |
 | Notes | Engineered [...] at Eldorado Studios in Los Angeles  Mixed [...] at Post Logic Studios in Hollywood  Mastered by Steve Hall at Future Disc  All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI  ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.  Made in E.U.    Includes a printed inner sleeve |

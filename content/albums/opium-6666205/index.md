@@ -58,7 +58,7 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Opium |
-| Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition, Numbered, Repress |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |
 | Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only. |

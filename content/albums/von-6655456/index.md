@@ -76,7 +76,7 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (180g), CD Album Reissue |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue | 1× CD Album, Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP609 |
 | Notes | Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.  Violet PVC outer sleeve & printed inner sleeves. Track D2 ends in a locked groove. |

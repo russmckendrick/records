@@ -54,7 +54,7 @@ Drive is the second studio album by Anneke van Giersbergen, released in the Bene
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drive_(Anneke_van_Giersbergen_album) |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Alone Records (2) |
 | Catalog Number | AR-058LP |
 | Notes | For the first time on vinyl, under exclusive license from InsideOut Music.  Presented in gatefold jacket. Black vinyl limited to 300 copies.   |

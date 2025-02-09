@@ -57,7 +57,7 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seven_Psalms |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Owl Records (24) |
 | Catalog Number | 19658784901 |
 | Notes | Made in the EU.  Includes 4 page inlay folder with lyrics and credits.  ℗ and © 2023 Owl Records, under exclusive license to Sony Music Entertainment |

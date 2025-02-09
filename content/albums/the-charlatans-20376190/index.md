@@ -68,7 +68,7 @@ This is a discography by the indie British rock band The Charlatans.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Charlatans_discography |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Yellow Marbled) |
+| Format         | 2× Vinyl (Yellow Marbled) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Beggars Arkive |
 | Catalog Number | BBL 174 LP2 |
 | Notes | Gatefold sleeve.    nb: Secondary barcode sticker not on most copies.  For mispressing featuring Gary Numan see "[r=20732044]". |

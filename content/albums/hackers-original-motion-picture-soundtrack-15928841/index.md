@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (25th Anniversary Edition) |
+| Format         | 2× Vinyl (25th Anniversary Edition) LP, Record Store Day, Compilation, Limited Edition |
 | Label          | Varèse Sarabande |
 | Catalog Number | VSD00206 |
 | Notes | Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU. |

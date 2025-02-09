@@ -59,7 +59,7 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Spotlight_Kid |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 0349791110 |
 | Notes | Hype sticker includes barcode and Don Van Vliet quote: "The stars are matter We're matter But it doesn't matter."  Includes a single-sided insert with lyrics and a download code for MP3 version of the album.  Says "Made in EU." on the labels. Says "Manufactured in EU." on the back cover. |

@@ -81,7 +81,7 @@ The Octopus is the third studio album of the Manchester space rock band Amplifie
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Octopus_(album) |
-| Format         | Vinyl LP (Clear With Black Splatter), Vinyl LP (Blue Transparent With Black Splatter), Vinyl LP (Orange Transparent With Black Splatter), Vinyl LP (Red Transparent With Black Splatter), All Media Album Reissue Remastered |
+| Format         | 1× Vinyl (Clear With Black Splatter) LP | 1× Vinyl (Blue Transparent With Black Splatter) LP | 1× Vinyl (Orange Transparent With Black Splatter) LP | 1× Vinyl (Red Transparent With Black Splatter) LP | 1× All Media Album, Reissue, Remastered |
 | Label          | Rockosmos |
 | Catalog Number | ROK 70 |
 | Notes | Reissue on vinyl for the first time, only available through preorder and prepayment on the band´s website.  500 Copies only  Including Bonus Track "The Eternal"  From Amplifier's bandcamp page.  "The moment is here. Getting this together has been a monumental effort. It was never going to be done in half measures and by golly it hasn't been. This is EIGHT SIDES of premium FX Splatter Vinyl in a beautiful Hardcase gold foiled book. There's no doubt that it is expensive - but we guarantee that you will be blown away by this. One pressing only - you will never sell it and handle it only with white gloves (not included) Remastered for vinyl by Greg Norman. We can only afford 500 - so it will be strictly first come first served." |

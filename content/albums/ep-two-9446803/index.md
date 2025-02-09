@@ -49,7 +49,7 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ep_Two |
-| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Clear) |
+| Format         | 1× Vinyl (Clear) 12", 45 RPM, EP, Limited Edition, Numbered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE935 |
 | Notes | Limited edition, numbered clear vinyl. Includes download card.  Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo]. 'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting' LOUDER THAN WAR  |

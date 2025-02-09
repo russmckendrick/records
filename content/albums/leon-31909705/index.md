@@ -68,7 +68,7 @@ Leon is the fourth studio album by American singer Leon Bridges. It was released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Leon_(Leon_Bridges_album) |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP, Album |
 | Label          | [{'name': 'Columbia', 'catno': ''}] |
 | Catalog Number | 19802829311 |
 | Notes | Black vinyl w/Gatefold cover.  |

@@ -59,7 +59,7 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Care_a_Lot |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mordam Records |
 | Catalog Number | MDR 1 |
 | Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.    Recorded at: Prairie Sun Studios Cotati, CA  Mastered at K Disc Mastering (Kdisc stamped into the runout area)    European license-pressing & distribution by: De Konkurrent  ©&℗1985 Mordam Records    Includes an insert with additional artwork and lyrics.    K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.   |

@@ -78,7 +78,7 @@ Welcome Oblivion is the debut studio album by American post-industrial group How
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_Oblivion |
-| Format         | Vinyl 2× LP Album, CD Album |
+| Format         | 2× Vinyl LP, Album | 1× CD Album |
 | Label          | Columbia |
 | Catalog Number | 88765475461 |
 | Notes | Released in gatefold sleeve with two 180g vinyls, printed inner sleeves and 12"x12" insert with credits. Includes CD of the vinyl edition of the album.    Published by Cloudcover, Inc. (ASCAP), M'aidez (ASCAP) and Songs In The Key Of Mink, administered by Songs Of Universal, Inc. (BMI)    ℗ 2013 & © 2012, 2013 HDTA, LLC |

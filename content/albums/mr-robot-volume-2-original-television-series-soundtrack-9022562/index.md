@@ -76,7 +76,7 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (White) |
+| Format         | 2× Vinyl (White) LP, Album |
 | Label          | Invada |
 | Catalog Number | INV161LP |
 | Notes | Music Executive: Alicen Schneider Studio Executives: Stacy Fung, Steve Dolcemaschio  Gatefold sleeve. Release comes with: Double Sided Printed Insert fsociety stencil art on cardstock Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.1, included a 12x12 print. |

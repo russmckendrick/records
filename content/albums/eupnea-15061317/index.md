@@ -58,7 +58,7 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eupnea |
-| Format         | Vinyl LP (Yellow Neon, 180 Gram), Vinyl LP Single Sided Etched (Yellow Neon, 180 Gram), All Media Album, CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Yellow Neon, 180 Gram) LP | 1× Vinyl (Yellow Neon, 180 Gram) LP, Single Sided, Etched | 1× All Media Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 545 |
 | Notes | Gatefold release and limited to 100 copies from the Burning Shed online store.  CD housed in a transparent sleeve. Included a 12" lyric sheet.  Made in the EU.  |

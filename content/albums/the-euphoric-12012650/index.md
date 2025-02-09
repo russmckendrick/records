@@ -49,7 +49,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bad Elephant Music |
 | Catalog Number | BEM058 |
 | Notes | The track list on the back cover does not indicate sides. Parts 7 & 8 are listed as individual tracks but they are actually one track. Times and the title for the index track are taken from the Bandcamp listing.   'The Euphoric' on 12" vinyl LP in a gatefold sleeve, plus a limited edition bonus CD featuring unreleased live tracks and demos, and an print of the album artwork.  The bonus CD and print are both signed and numbered, and in limited editions of 500.  |

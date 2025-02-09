@@ -63,7 +63,7 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue, Stereo |
 | Label          | Ode Records (2) |
 | Catalog Number | 88875170161 |
 | Notes | Gatefold sleeve. Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM |

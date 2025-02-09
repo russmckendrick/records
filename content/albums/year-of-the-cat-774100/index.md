@@ -61,7 +61,7 @@ Stewart had all of the music and orchestration written and completely recorded b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Year_of_the_Cat_(album) |
-| Format         | Vinyl LP Album Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | RCA |
 | Catalog Number | RS 1082 |
 | Notes |   Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]    |

@@ -57,7 +57,7 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Copper_Blue |
-| Format         | Vinyl LP Album Reissue Remastered (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue, Remastered |
 | Label          | Granary Music |
 | Catalog Number | DEMREC644 |
 | Notes | Originally issued as CRELP129 on Creation Records, 4th September 1992  Printed inner sleeves with lyrics |

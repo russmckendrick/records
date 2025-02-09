@@ -59,7 +59,7 @@ During their first seven years, the band released three studio records, a compil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ben_Folds_Five |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Turquoise) |
+| Format         | 1× Vinyl (Turquoise) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Plain Recordings |
 | Catalog Number | plain169 |
 | Notes | Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.    |

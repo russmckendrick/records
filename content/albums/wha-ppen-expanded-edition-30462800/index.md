@@ -68,7 +68,7 @@ For the expanded edition, Breezy dips further into his emotions for a posthumous
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP Compilation (Green), All Media Record Store Day Limited Edition |
+| Format         | 1× Vinyl (Yellow) LP, Album, Reissue | 1× Vinyl (Green) LP, Compilation | 1× All Media Record Store Day, Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 726082 |
 | Notes | RSD 2024 edition for the world outside North America. |

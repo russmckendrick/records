@@ -72,7 +72,7 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (180g), CD Album |
+| Format         | 2× Vinyl (180g) LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 588 |
 | Notes | Standard version on black vinyl Gatefold sleeve  © 2021 HevyDevy Records · Issued under license from HevyDevy Records to InsideOutMusic · ℗ 2021 HevyDevy Records · Issued under license to Century Media Music Ltd., under exclusive license from InsideOutMusic. IOMLP 588. 19439882261. Made in EU.  Recorded between July and September 2020 in various places around the world. Originally aired on September 5th 2020 on StageIt.com |

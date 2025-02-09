@@ -59,7 +59,7 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bat_Out_of_Hell |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Epic |
 | Catalog Number | 88985375141 |
 | Notes | Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.   Made in the EU.  |

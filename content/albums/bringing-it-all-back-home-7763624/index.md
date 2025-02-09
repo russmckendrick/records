@@ -63,7 +63,7 @@ There’s a common conception that Dylan left political songwriting behind on <i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bringing_It_All_Back_Home |
-| Format         | Vinyl LP Album Reissue Mono (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Mono |
 | Label          | Columbia |
 | Catalog Number | CL 2328 |
 | Notes | Re-issue with Legacy Vinyl 180 Gram sticker on the front.  Originally released 1965. © 1965, 2015 Columbia Records. Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  © 1965 by Bob Dylan.  Runouts are stamped and etched. On both sides, the script from 88016 to STERLING is stamped and from RKS to 5-A/B is etched,  |

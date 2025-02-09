@@ -66,7 +66,7 @@ The album received positive reviews from critics and was a commercial success. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tour_de_France_Soundtracks |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
+| Format         | 2× Vinyl (180 g) LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66109 1 6 |
 | Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.  Kling Klang Produkt 2003 Made in the EU Printed in Germany |

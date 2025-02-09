@@ -62,7 +62,7 @@ styles: ["Pop Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Half-Speed) |
+| Format         | 1× Vinyl (Half-Speed) LP, Album |
 | Label          | Island Records |
 | Catalog Number | 0888695 |
 | Notes | Re-recording of the 1970 album. with 4 sides insert with lyrics and credits  Tracks A1, B1, and B3 to B6 published by Cat Music, administered by BMG. Tracks A2 to A5, B2 published by Firecat Music, administered by BMG.  Recorded in JI Studios, Dubai, Studio La Fabrique, Saint-Remy de Provence, RMV Studio, Stockholm.  ℗ & © 2020 Cat-O-Log Records under exclusive license to UMC, A Universal Music Company. Made in Germany. |

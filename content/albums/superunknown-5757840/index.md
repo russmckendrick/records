@@ -85,7 +85,7 @@ In the months leading up to the release of <i>Superunknown</i>, Seattle peers su
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Superunknown |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | A&M Records |
 | Catalog Number | 0602537789818 |
 | Notes | 20th Anniversary Edition. 180-gram double vinyl, newly remastered from original analog tapes. Issued in a gatefold sleeve with 12 page book with new photos and art and a digital download card.  Engineered and mixed at Bad Animals Studio, Seattle, WA  Track D2 mixed at Electric Lady, NY Track D5 recorded at Bear Creek Studios, Wooninville, WA, mixed at A&M Studios, Hollywood, CA. Originally released as International Album and U.S. Vinyl Album bonus track  This reissue mastered by: Stephen Marcussen, Marcussen Mastering  ℗  © 2014 A&M Records  Made in the EU  Hype sticker on shink: Superunknown 180-Gram audiophile Double vinyl Newly remastered from Original analog tapes Gatefold Jacket 12 page book With new photos and art Digital download card 320kbps vinyl ripped AAC MP4's  |

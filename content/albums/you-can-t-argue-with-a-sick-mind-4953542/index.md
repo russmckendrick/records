@@ -48,7 +48,7 @@ You Can't Argue with a Sick Mind is a live solo album by the American singer-son
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/You_Can%27t_Argue_with_a_Sick_Mind |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | MCA Records |
 | Catalog Number | MCL-1613 |
 | Notes | Originally released 1976 |

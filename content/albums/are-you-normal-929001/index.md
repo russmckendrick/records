@@ -59,7 +59,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Sony Soho Square |
 | Catalog Number | 472633 1 |
 | Notes | printed inner sleeve with lyrics/credits |

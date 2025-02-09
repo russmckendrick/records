@@ -76,7 +76,7 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Wizard,_a_True_Star |
-| Format         | Vinyl LP Album Reissue (Teal Green, 180g, Gatefold) |
+| Format         | 1× Vinyl (Teal Green, 180g, Gatefold) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC22 |
 | Notes | 180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography.    |

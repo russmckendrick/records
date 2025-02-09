@@ -74,7 +74,7 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Play_(Moby_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | Stumm172 |
 | Notes | Printed inner sleeves.  If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.  "Honey" features samples from the Bessie Jones recording "Sometimes". "Find My Baby" features samples from the Boy Blue recording "Joe Lee's Rock". "Bodyrock" contains a sample of "Love Rap" as performed by Spoony G & the Treacherous 3 and written by Bobby Robinson. "Natural Blues" features samples from the Vera Hall recording "Trouble So Hard". "Run On" features samples from "Run On for a Long Time" by Bill Landford & The Landfordaires.  ℗ 1999 Mute Records Limited © 1999 Mute Records Limited, a BMG company Manufactured and distributed by [PIAS] Manufactured / Made in EU  1IΔ, 1IX, 1=X and 1Δ are mirrored in runouts. |

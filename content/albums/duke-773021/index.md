@@ -64,7 +64,7 @@ Duke was positively received by music critics, who praised the album for bridgin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Duke_(album) |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Charisma |
 | Catalog Number | CBR 101 |
 | Notes | Sleeve: Engineered by David Hentschel of Dukeslodge Enterprises Ltd. Recorded at Polar Studios Sweden Mixed at Maison Rouge London Mastered at Trident All songs: Hit & Run Music Ltd.  "Albert" also appears in L'Alphabet D'Albert by Lionel Koechlin (Éditions Jannink) ®  Illustrations: © 1979 Editions Jannink, 3 Rue St George, Paris 75009 and © 1980 Lionel Koechlin. Marketed by Charisma Records Ltd. Manufactured and distributed by Phonogram Ltd. © 1980 Charisma Records Ltd.  Labels: Original sound recording made by Charisma Records Ltd. ℗ 1980 Charisma Records Ltd. Hit and Run Music Publishing Ltd. Marketed and distributed by Phonogram Ltd _ Gatefold sleeve. Initial copies with 'Special Price - Limited Period' sticker (see images). Track durations are not printed on the release. |

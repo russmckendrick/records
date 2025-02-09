@@ -65,7 +65,7 @@ Levity comes in the form of “What Have I Done to Deserve This?”, in which Te
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Actually |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295832612 |
 | Notes | ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Recorded in London at Sarm West and Advision Studios. Designed by Mark Farrow at ③ and Pet Shop Boys.  Comes with printed inner sleeve and white rectangular sticker on shrinkwrap: "Pet Shop Boys, actually. Pressed onto 180g heavyweight vinyl featuring brand new 2018 remaster of the original album 0190295832612" |

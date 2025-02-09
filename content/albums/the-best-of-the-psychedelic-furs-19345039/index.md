@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC906 |
 | Notes | Pressed on indies exclusive 180g heavyweight vinyl, housed in a printed inner sleeve with new liner notes by Classic Pop and Long Live Vinyl editor Ian Peel. |

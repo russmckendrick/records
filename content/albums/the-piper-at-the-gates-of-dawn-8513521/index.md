@@ -66,7 +66,7 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP1 |
 | Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve. |

@@ -62,7 +62,7 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Please_(Pet_Shop_Boys_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 190295832759 |
 | Notes | Engineered by David Jacob at Advision Studios, London. Andy Mackay courtesy of Virgin Records Ltd. Helena Springs courtesy of Arista Records Ltd. 2018 Remastering: Tim Young/Metropolis.  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Comes with printed inner sleeve and sticker on shrinkwrap: "pet shop boys please Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album 0190295832759"  |

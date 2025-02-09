@@ -76,7 +76,7 @@ The title refers to the Russian olive trees that stand along the I-25 highway ne
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pale_Green_Ghosts |
-| Format         | Vinyl 2× LP Album (Mint Green), CD Album |
+| Format         | 2× Vinyl (Mint Green) LP, Album | 1× CD Album |
 | Label          | Bella Union |
 | Catalog Number | BELLAV377 |
 | Notes | Gatefold cover with 180g mint green vinyl, printed inner sleeves.    Recorded and mixed at Oroom Reykjavík.   Additional recording at Orgelsmiðjan Studio and Syrland Studio, Reykjavik; Elmwood Studio, Dallas; and Strongroom, London.  Mastered at 3345 Mastering.    Pale Green Ghosts contains a string arrangement based on the second movement of Sergei Rachmaninoff's Prelude in C# Minor.    No track durations mentioned on this release.    ℗ & © 2013 Bella Union. Made in the EU. |

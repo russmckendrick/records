@@ -58,7 +58,7 @@ Wretch is the first full-length album by American rock band Kyuss, released in S
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wretch_(album) |
-| Format         | Vinyl 2× LP Album Reissue Repress (White / Grey Marbled, 180 Gram) |
+| Format         | 2× Vinyl (White / Grey Marbled, 180 Gram) LP, Album, Reissue, Repress |
 | Label          | Dali Records |
 | Catalog Number | 3704-61256-1 |
 | Notes | Sticker on front sleeve stating "180g Coloured Vinyl".  Recorded and mixed at Headway Studios and Master Control. Mastered at K-Disk.  Originally released as a [url=http://www.discogs.com/Kyuss-Wretch/release/2885461] single LP[/url] on black vinyl in 1991 by Dali Records.  ℗ & © 1991 Dali Records, a division of Chamelion Music Group. Made in Germany  Pressing plant uncredited, identified by the matrix numbers.   |

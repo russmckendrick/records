@@ -78,7 +78,7 @@ The Greatest Songs Ever Written (By Us) is a greatest hits compilation album rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Songs_Ever_Written_(By_Us) |
-| Format         | Vinyl 2× LP Compilation Reissue (Green Translucent) |
+| Format         | 2× Vinyl (Green Translucent) LP, Compilation, Reissue |
 | Label          | Epitaph |
 | Catalog Number | 6727-1 |
 | Notes | Gatefold Jacket D6 is previously unreleased. Indie exclusive, limited to 300 copies.  The title as it appears on the front cover is "The Greatest Songs Ever Written." The title as it appears on the labels is "The Greatest Songs Ever Written By Us." |

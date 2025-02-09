@@ -68,7 +68,7 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Can%27t_Dance |
-| Format         | Vinyl 2× LP Album Reissue Stereo |
+| Format         | 2× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374780 |
 | Notes | Hype sticker: genesis The Classic Albums featuring: Half-Speed Mastering 2008 Mixes by Nick Davis & Genesis 180G Audiophile Vinyl  Packaged in a wide spine sleeve. Each LP has a printed inner sleeve.  Sticker: Made in Germany  ℗ & © 2018, 1991 Anthony Banks Ltd. Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies. Manufactured for & marketed by Rhino Entertainment Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Farm, Surrey, England, March-Sept 1991. |

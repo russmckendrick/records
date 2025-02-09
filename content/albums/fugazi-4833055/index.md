@@ -57,7 +57,7 @@ The album is titled after a military slang term well known at the time of releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fugazi_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | EMC 2400851 |
 | Notes | Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.    The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has:  B1 - Incubus   B2 - She Chameleon    Gatefold full laminated sleeve with lyrics.  Original Inner sleeve is Black    This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.    Centre labels are black with silver text. There is no EMI logo. |

@@ -64,7 +64,7 @@ Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 602557050806 |
 | Notes | Half speed mastered at Abbey Road Studios. Includes digital download card. |

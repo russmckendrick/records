@@ -68,7 +68,7 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo |
+| Format         | 2× Vinyl LP, Compilation, Reissue, Remastered, Stereo |
 | Label          | ABKCO |
 | Catalog Number | 882 334-1 |
 | Notes | Made in EU. Printed in EU.  Originally released in 1972. Digitally remastered from original master recordings. Comes in gatefold sleeve. |

@@ -64,7 +64,7 @@ Recording the album and the subsequent tour exacerbated growing tensions and dif
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_of_Faith_and_Devotion |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 gram) |
+| Format         | 1× Vinyl (Gatefold, 180 gram) LP, Album, Reissue, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP943 |
 | Notes | ℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.  Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd.   Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.  Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker. |

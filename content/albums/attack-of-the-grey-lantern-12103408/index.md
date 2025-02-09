@@ -58,7 +58,7 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Attack_of_the_Grey_Lantern |
-| Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
+| Format         | 2× Vinyl (Purple) LP, Limited Edition, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE992 |
 | Notes | Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |

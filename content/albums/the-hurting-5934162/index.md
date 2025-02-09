@@ -63,7 +63,7 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Hurting |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Mercury |
 | Catalog Number | 378 944-0 |
 | Notes | Issued with a printed inner sleeve, containing credits and lyrics. Including digital download code.   Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd. All lyrics Copyright Control.  "Pale Shelter" on this release, is the second single version.  Track durations are not printed on the release.  Runouts are machine stamped.  ℗ & © 1983 Mercury Records Ltd.  Made in the EU. |

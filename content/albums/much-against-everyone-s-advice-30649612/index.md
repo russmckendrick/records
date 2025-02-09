@@ -63,7 +63,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIACS1035LP |
 | Notes | Sticker Text:  SOULWAX MUCHAGAINSTEVERYONE'SADVICE LIMITED EDITION EXPANDED 2LP VINYL  ℗ + © 2023 [PIAS] Recordings |

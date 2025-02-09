@@ -71,7 +71,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation (Honey) |
+| Format         | 2× Vinyl (Honey) LP, Record Store Day, Compilation |
 | Label          | 4AD |
 | Catalog Number | 4AD0342LPE |
 | Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve. Compilation of B-sides, covers and oddities.  Barcode sticker on reverse with 4AD address, address, Belly web address.  Runouts are hand etched except MPO codes which are laser etched. |

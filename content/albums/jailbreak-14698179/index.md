@@ -59,7 +59,7 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jailbreak_(Thin_Lizzy_song) |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Vertigo |
 | Catalog Number | 0802631 |
 | Notes | 2020 reissue.  180g vinyl.  Die cut sleeve. Some copies include "The Sound Of Vinyl" download code.  ℗ 2014 © 2014 Made in Germany.  Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |

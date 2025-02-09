@@ -56,7 +56,7 @@ styles: ["Acoustic", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Old Omens |
 | Catalog Number | OO01 |
 | Notes | Pressed on 180 gram vinyl housed in anti-static sleeve with printed insert and download card.  Recorded July - October 2014 in Bixby, OK & Norman, OK.  Runouts are etched, except for WELL MADE MUSIC on side B, which is stamped. |

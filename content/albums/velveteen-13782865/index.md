@@ -55,7 +55,7 @@ Historically, the velveteen trade varied with the fashions that controlled the p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Velveteen |
-| Format         | Vinyl LP Album Reissue (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC325 |
 | Discogs URL    | [Transvision Vamp - Velveteen](https://www.discogs.com/release/13782865-Transvision-Vamp-Velveteen) |

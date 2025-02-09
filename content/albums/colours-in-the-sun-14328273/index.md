@@ -60,7 +60,7 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Turquoise Transparent) |
+| Format         | 1× Vinyl (Turquoise Transparent) LP, Album, Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 533LP |
 | Notes | First pressing. Transparent Turquoise version limited to 100.  |

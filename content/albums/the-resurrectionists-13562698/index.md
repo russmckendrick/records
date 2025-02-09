@@ -57,7 +57,7 @@ styles: ["Post Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE916 |
 | Notes | Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label.  |

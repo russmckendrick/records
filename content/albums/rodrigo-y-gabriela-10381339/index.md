@@ -79,7 +79,7 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela |
-| Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
+| Format         | 2× Vinyl LP, Album, Deluxe Edition, Limited Edition, Remastered |
 | Label          | Rubyworks |
 | Catalog Number | RWXLP37R |
 | Notes | The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela.   "Limited Edition Double LP - pressed on heavyweight 180g vinyl. Special Gold Foil logo cover (first pressing only)."  Limitation of this run/pressing unknown.  LP1 - Rodrigo y Gabriela (Remastered) Recorded at Riverside Studios, Bath, UK, Oct. 2005. 2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.  LP2 - Rodrigo y Gabriela Live At The Olympia Theatre Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland. 2016 Remaster by John Webber at Air Studios, London. |

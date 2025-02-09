@@ -49,7 +49,7 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Long Branch Records |
 | Catalog Number | SPV 289221 LP |
 | Notes | (p) & (c) 2020 Long Branch Records, a division of SPV GmbH. Distributed by SPV GmbH, Boulevard der EU 8, 30539 Hannover, Germany. Made in the EU. Supported by Initiative Musik gGmbH with project funds from the Federal Government Commissioner for Culture and Media. |

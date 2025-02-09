@@ -60,7 +60,7 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_You%27re_Feeling_Sinister |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001 |
 | Notes | Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi. |

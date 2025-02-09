@@ -53,7 +53,7 @@ styles: ["Soul", "Funk", "Gospel", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | BBE |
 | Catalog Number | BBE358CLP |
 | Discogs URL    | [DJ Spinna - The Wonder Of Stevie (Volume 3)](https://www.discogs.com/release/8755651-DJ-Spinna-The-Wonder-Of-Stevie-Volume-3) |

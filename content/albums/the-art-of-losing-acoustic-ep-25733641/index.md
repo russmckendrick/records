@@ -43,7 +43,7 @@ styles: ["Acoustic", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Limited Edition Stereo |
+| Format         | 1× Vinyl 12", 45 RPM, EP, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1124 |
 | Notes | Limited edition of 500, each copy ordered from bandcamp is personally hand-signed by Catherine.  |

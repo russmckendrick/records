@@ -57,7 +57,7 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Ardent Records (2) |
 | Catalog Number | CR00211 |
 | Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched Variant 6 -- Both sides are etched Variant 7 -- Both sides are etched Variant 8 -- Both sides are etched. |

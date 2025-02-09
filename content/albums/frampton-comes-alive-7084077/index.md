@@ -69,7 +69,7 @@ In 2020, Frampton Comes Alive! was inducted into the Grammy Hall of Fame.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Frampton_Comes_Alive! |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | A&M Records |
 | Catalog Number | AMLM 63703 |
 | Notes | Side C may have metalwork sent from the USA via [l264380].  Runouts are stamped except SP 37xx numbers and "MB M5-EX ∴ (MR) Δ20308 England" which are etched.  ℗ 1976 A&M Records Inc. Differs From: [r456090]: Different label layout, different rear cover [r5870498]: Different label layout, printed by Robor Ltd. [r6361031]: Different label layout Recorded at Winterland, San Francisco; Marin Civic Center, San Rafael, California; Island Music Center, Commack, Long Island, New York; State University of New York, Plattsburgh, Wally Heider's Mobile Recording Truck, California and the Fedco Recording Truck, New York. Remixed at Electric Lady Studios, New York. Mastered at the Mastering Lab, Los Angeles. Auto-coupled release.  Released in gatefold sleeve.  |

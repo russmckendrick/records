@@ -72,7 +72,7 @@ Though a decent commercial and critical success upon release, The Name of This B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Name_of_This_Band_Is_Talking_Heads |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
+| Format         | 2× Vinyl (Red Opaque ) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Sire |
 | Catalog Number | RCV5 3590 |
 | Notes | Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap |

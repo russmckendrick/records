@@ -51,7 +51,7 @@ styles: ["Pop Rap", "New Jack Swing", "Contemporary R&B", "Gangsta", "Soundtrack
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation Limited Edition Reissue (Silver) |
+| Format         | 1× Vinyl (Silver) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Giant Records |
 | Catalog Number | 24409-1 |
 | Notes | Record Store Day 2019  Music from the motion picture soundtrack "New Jack City" |

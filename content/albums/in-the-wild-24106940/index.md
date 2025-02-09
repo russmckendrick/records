@@ -69,7 +69,7 @@ With a hand-on style, the show could be seen as a predecessor to the Steve Irwin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Wild |
-| Format         | Vinyl LP Album Limited Edition Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Stereo |
 | Label          | Hellcat Records |
 | Catalog Number | 0543-1 |
 | Notes | White (EU/UK indie store exclusive) |

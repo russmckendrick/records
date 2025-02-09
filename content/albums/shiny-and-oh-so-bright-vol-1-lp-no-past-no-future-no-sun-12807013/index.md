@@ -71,7 +71,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Limited Edition, Vinyl LP Album (Violet), Vinyl 3× 7" Single Sided Etched (Violet) |
+| Format         | 1× Box Set Limited Edition | 1× Vinyl (Violet) LP, Album | 3× Vinyl (Violet) 7", Single Sided, Etched |
 | Label          | Napalm Records |
 | Catalog Number | NPR807DB |
 | Notes | Deluxe Box Set limited to 2000 copies incl. 180g violet vinyl in Gatefold Cover + Downloadcode + 3 x 7" EP Single in violet vinyl. Side B of each 7" single is etched. |

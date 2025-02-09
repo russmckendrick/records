@@ -68,7 +68,7 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eye_of_the_Soundscape |
-| Format         | Vinyl 2× LP (180 Gram), Vinyl LP Single Sided Etched (180 Gram), CD 2× Album Compilation, All Media Album Compilation |
+| Format         | 2× Vinyl (180 Gram) LP | 1× Vinyl (180 Gram) LP, Single Sided, Etched | 2× CD Album, Compilation | 1× All Media Album, Compilation |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 465 |
 | Notes | Black vinyl in a gatefold sleeve with printed inner sleeves with artwork, credits, and liner notes. Includes the full album on 2 CDs in 1 clear plastic sleeve with 2 separate bags.  [Sticker on shrink:] Complementary Instrumental And Ambient Electronic Release By Poland's Progressive Rock Institution Riverside. "Eye Of The Soundscape" compiles all the Special experimental Riverside tracks previously used as Bonus material for the "Shrine Of New Generation Slaves" and "Love, Fear and the Time Machine" albums, alongside rare cuts as well as 4 new songs. 13 highly atmospheric compositions in a playing time of +100 minutes. 3x LP on 180gr. vinyl with etching on side F. and with album on 2 CDs as bonus.   Recorded, mixed and mastered at Serakos Studio, Warszawa, Poland [...] (2007-2016)  © 2016 InsideOut Music • ℗ 2016Century Media Records Ltd., under exclusive license from InsideOut Music Made in the EU.    Tracks durations as given on release. |

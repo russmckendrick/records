@@ -60,7 +60,7 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boston_(album) |
-| Format         | Vinyl LP Album Repress (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Repress |
 | Label          | Epic |
 | Catalog Number | 88985438101 |
 | Notes | ℗ 1976 and © 1976, 2017 Epic Records. Made in the EU. |

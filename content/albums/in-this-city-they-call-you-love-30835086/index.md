@@ -64,7 +64,7 @@ In This City They Call You Love is the tenth studio album by English singer-song
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_This_City_They_Call_You_Love |
-| Format         | Vinyl LP Album Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 964028791 |
 | Notes | Photos shot at Moore Street Electricity Substation, Sheffield  ℗&© 2024 BMG Rights Management (UK) Limited. Manufactured in Germany.  300 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.  Runouts are etched.  |

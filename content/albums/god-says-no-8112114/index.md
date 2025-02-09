@@ -77,7 +77,7 @@ Two different music videos were produced for the song "Heads Explode" and one fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/God_Says_No |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637845 |
 | Notes | Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU. |

@@ -64,7 +64,7 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pretenders_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Real Records (2) |
 | Catalog Number | 0190295165093 |
 | Notes | Made in Germany. Limited edition red vinyl with 2018 remastered audio.  Originally ℗ 1980, Remaster ℗ 2018. © 2021 Warner Music UK Ltd. |

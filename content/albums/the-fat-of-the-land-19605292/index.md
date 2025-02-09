@@ -65,7 +65,7 @@ The Fat of the Land is the third studio album by English electronic music group 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Fat_of_the_Land |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress Stereo (Orange Neon) |
+| Format         | 2× Vinyl (Orange Neon) LP, Album, Limited Edition, Reissue, Repress, Stereo |
 | Label          | XL Recordings |
 | Catalog Number | XL121LPE2 |
 | Notes | Limited edition of 1000 copies.  ℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997. |

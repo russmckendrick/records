@@ -61,7 +61,7 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Deep Translucent Blue, Gatefold) |
+| Format         | 1× Vinyl (Deep Translucent Blue, Gatefold) LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJX397X |
 | Notes | Pressed on 180G, deep translucent blue vinyl. Also contained is a download card. |

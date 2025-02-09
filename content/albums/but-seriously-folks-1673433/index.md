@@ -57,7 +57,7 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | Asylum Records |
 | Catalog Number | K 53081 |
 | Notes | Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording. |

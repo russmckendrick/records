@@ -67,7 +67,7 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wet_Dream_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Remixed, Blue Marbled) |
+| Format         | 1× Vinyl (Remixed, Blue Marbled) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 5054197662348 |
 | Notes | First pressing since 1978 Limited edition on blue marble vinyl Gatefold & soft touch sleeve + two panel double sided poster.  Made In Germany. |

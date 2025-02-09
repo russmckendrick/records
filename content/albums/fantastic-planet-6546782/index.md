@@ -54,7 +54,7 @@ A working title while in development was Sur la planète Ygam (On the Planet Yga
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fantastic_Planet |
-| Format         | Vinyl LP Album (Mint Green) |
+| Format         | 1× Vinyl (Mint Green) LP, Album |
 | Label          | Fire Records |
 | Catalog Number | FIRELP398 |
 | Discogs URL    | [Noveller - Fantastic Planet](https://www.discogs.com/release/6546782-Noveller-Fantastic-Planet) |

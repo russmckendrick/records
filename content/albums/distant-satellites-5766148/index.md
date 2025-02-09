@@ -78,7 +78,7 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Distant_Satellites |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE866 |
 | Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet.   Runouts are etched. |

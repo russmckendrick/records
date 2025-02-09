@@ -55,7 +55,7 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drift_Code |
-| Format         | Vinyl LP Album Deluxe Edition (Signed Photographic Print, 180g) |
+| Format         | 1× Vinyl (Signed Photographic Print, 180g) LP, Album, Deluxe Edition |
 | Label          | Domino |
 | Catalog Number | WIGLP414 |
 | Notes | [Hype sticker on front]: "Deluxe mart edition 180 gram heavyweight vinyl Includes exclusive signed photographic print plus download code. WIGLP414XM 887828041459"  This version which includes the signed print was available only direct from Domino.  Recorded at Barnlight Studios, North West essex. Mastered at Electric Mastering, London. Cover photograph  - Archives Kunkels Organ Foundation. Booklet photograph still taken from the short film directed by Edwin Burdis.  All songs published by Domino Publishing Co. Ltd except "Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.  Made in the EU ℗&© 2019 Domino Recording Co. Ltd. |

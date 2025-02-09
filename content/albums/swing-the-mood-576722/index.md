@@ -51,7 +51,7 @@ Copyright problems caused a re-recorded version to be released; despite this ver
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Swing_the_Mood |
-| Format         | Vinyl 12" 45 RPM Single (Sonopress Pressing) |
+| Format         | 1× Vinyl (Sonopress Pressing) 12", 45 RPM, Single |
 | Label          | Music Factory |
 | Catalog Number | MFDT 001 |
 | Notes | Tracks licensed from: Barnaby Records Inc. Bulldog Records, Kilo Music Ltd. Modern Records.  ℗&© Music Factory 1989  Distributed in the U.K. by B.M.G.  The Musical Clef symbol is embossed on side B with just the one following dot.  Same Cat#, CBS Clinton Pressing, runouts MFDT 001, with no embossed B Side label, with the text GLENN MILLER MEDLEY (THE J.B. EDIT) 3.55 a smaller font and no red outer circle in both labels here: [r12269776] |

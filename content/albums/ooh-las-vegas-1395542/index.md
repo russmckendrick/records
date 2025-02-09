@@ -78,7 +78,7 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ooh_Las_Vegas |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | CBS |
 | Catalog Number | 467242 1 |
 | Notes | Very similar to [r=1867062] but with a different set of codes and layout in the upper right back cover - above and below the barcode. [r=1867062] also has BIEM/STEMRA and "Made in Holland" on the B & D labels and is a [l371454] pressing |

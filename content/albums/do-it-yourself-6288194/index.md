@@ -52,7 +52,7 @@ Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Do_It_Yourself_(Ian_Dury_%26_the_Blockheads_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC02 |
 | Notes | Includes download code and photo sheet |

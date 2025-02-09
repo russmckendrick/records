@@ -63,7 +63,7 @@ On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/AOI:_Bionix |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM-056-1 |
 | Notes | The release date is August 11, 2023, in the U.S. and September 15, 2023, worldwide.  The "MADE IN CZECH REPUBLIC" sticker is on the back shrinkwrap. |

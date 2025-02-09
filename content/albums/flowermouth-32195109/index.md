@@ -55,7 +55,7 @@ Flowermouth is the second studio album by British duo No-Man, released in 1994 o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flowermouth |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Stereo (Red) |
+| Format         | 2× Vinyl (Red) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | One Little Independent Records |
 | Catalog Number | TPLP67 |
 | Notes | Comes with poster. 500 copies globally.  Barcode featured on sticker to sleeve which also carries alternative catalogue number TPLP67LTD. |

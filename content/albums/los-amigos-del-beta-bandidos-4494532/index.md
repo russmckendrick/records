@@ -46,7 +46,7 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Los_Amigos_del_Beta_Bandidos |
-| Format         | Vinyl 12" EP Record Store Day Limited Edition Reissue |
+| Format         | 1× Vinyl 12", EP, Record Store Day, Limited Edition, Reissue |
 | Label          | EMI |
 | Catalog Number | REGS 20 |
 | Notes | Record Store Day 2013 limited edition reissue.    ℗ 1998  © 2013    Made in EU. |

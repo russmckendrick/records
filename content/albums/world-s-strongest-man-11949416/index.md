@@ -54,7 +54,7 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/World%27s_Strongest_Man_(album) |
-| Format         | Vinyl LP Album Limited Edition (Pink) |
+| Format         | 1× Vinyl (Pink) LP, Album, Limited Edition |
 | Label          | Hot Fruit Recordings |
 | Catalog Number | HF012LP1 |
 | Notes | Gatefold Jacket Exclusive Pink Vinyl   Recorded at home and at Courtyard Studio, Oxford. |

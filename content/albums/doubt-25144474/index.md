@@ -59,7 +59,7 @@ Doubt received generally positive reviews about the songwriting, though some cri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Doubt_(album) |
-| Format         | Vinyl LP Album (Transparent Orange) |
+| Format         | 1× Vinyl (Transparent Orange) LP, Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC953 |
 | Discogs URL    | [Jesus Jones - Doubt](https://www.discogs.com/release/25144474-Jesus-Jones-Doubt) |

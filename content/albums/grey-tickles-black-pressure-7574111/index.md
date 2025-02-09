@@ -98,7 +98,7 @@ As epitomised by a title track referencing his haemorrhoids, the former Czars fr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grey_Tickles,_Black_Pressure |
-| Format         | Vinyl LP Album (Lavender), Vinyl LP Album (Orange), CD Album, CD EP, All Media Limited Edition |
+| Format         | 1× Vinyl (Lavender) LP, Album | 1× Vinyl (Orange) LP, Album | 1× CD Album | 1× CD EP | 1× All Media Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA505V |
 | Notes | Released in a gatefold sleeve. Also includes a 16 page 11 1/2" square booklet. LP 1 is lavender vinyl, LP 2 is Orange vinyl.    Limited to 500 copies. Rough Trade European exclusive. |

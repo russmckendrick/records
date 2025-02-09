@@ -58,7 +58,7 @@ Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Varmints_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Moshi Moshi Records |
 | Catalog Number | MOSHILP67 |
 | Discogs URL    | [Anna Meredith - Varmints](https://www.discogs.com/release/8231450-Anna-Meredith-Varmints) |

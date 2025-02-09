@@ -60,7 +60,7 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Insider_(album) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Rockosmos |
 | Catalog Number | ROK141 |
 | Notes | Gatefold cover double-sided color inlay Bandcamp download-code  Made in CZ |

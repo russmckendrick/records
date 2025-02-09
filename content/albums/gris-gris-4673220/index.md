@@ -54,7 +54,7 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gris-Gris |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | ATCO Records |
 | Catalog Number | SD 33-234 |
 | Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored   |

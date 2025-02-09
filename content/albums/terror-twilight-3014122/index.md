@@ -59,7 +59,7 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Terror_Twilight |
-| Format         | Vinyl LP Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Reissue |
 | Label          | Domino |
 | Catalog Number | WIGLP 66 |
 | Notes | Sticker says :180gm heavyweight vinyl comes with mp3s!    Comes with printed inner sleeve and free download code.   |

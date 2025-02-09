@@ -65,7 +65,7 @@ VH1 Storytellers is a live album by the English singer-songwriter David Bowie. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/VH1_Storytellers_(David_Bowie_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Parlophone |
 | Catalog Number | DBVH1 9919 |
 | Notes | Gatefold sleeve. First release on vinyl format: for initial 2009 release see ‘[m=258816]’.  Recorded at Manhattan Center, New York, NY 23rd August, 1999.  ℗ 2009 © 2019  Runouts are hand-etched. In runouts, all Optimal plating symbol may be inverted (“⊥” vs “T”) and/or mirrored (“1△” vs “△↾”). Specific to this release, the following are mirrored: variant 1, side A: "2+"; side C: "X1"; side D: "T1"; variant 2, side A: "2+"; side B: "1 T"; side C: "1 1"; side D: "1 V"   |

@@ -63,7 +63,7 @@ The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_the_Day...This_Is_the_Hour...This_Is_This! |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | RCA |
 | Catalog Number | PL 74141 |
 | Notes | On the release, [a578564] is credited as - The Buzzard from "Yeah God"  ℗ 1989 BMG Records UK) Ltd. © 1989 BMG Records (UK) Ltd. Original Sound Recording Made By BMG Records (UK) Ltd.  Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europe durch BMG-Ariola  |

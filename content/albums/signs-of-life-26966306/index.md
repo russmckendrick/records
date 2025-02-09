@@ -68,7 +68,7 @@ styles: ["Spoken Word"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Stereo (Silver Fox) |
+| Format         | 1× Vinyl (Silver Fox) LP, Limited Edition, Stereo |
 | Label          | Instrumental Records |
 | Catalog Number | INST009 |
 | Notes | Limited edition "silver fox" colored vinyl variant.  Gatefold sleeve.  Includes a downoad code. |

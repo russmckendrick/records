@@ -57,7 +57,7 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Loma Vista |
 | Catalog Number | LVR00448 |
 | Notes | Comes in a white paper poly-lined inner sleeve with a replica hand written letter as insert.  Transparent front cover hype sticker placed on the shrink wrap.  Title on front cover is golden foil embossed.  Made in the EU. |

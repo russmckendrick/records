@@ -57,7 +57,7 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Pleasure_Principle_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 10 |
 | Notes | Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd. |

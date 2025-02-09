@@ -67,7 +67,7 @@ styles: ["Breakbeat", "Soundtrack", "Techno", "Drum n Bass", "Nu Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Compilation Reissue (Red Smoke) |
+| Format         | 2× Vinyl (Red Smoke) LP, Album, Record Store Day, Compilation, Reissue |
 | Label          | Immortal Records (3) |
 | Catalog Number | 19658833411 |
 | Notes | Record Store Day 2024 release, limited to 2,700 copies.  On labels and back cover: Made in the EU.  ℗ 1997 New Line Productions, Inc. ℗ 1997, 2024 Epic Records, A Division of Sony Music Entertainment Motion Picture Photography and Artwork Title © 1997 New Line Productions, Inc.  There are two different versions of the Spawn soundtrack RSD release: - This one was pressed by Record Industry, has the same runouts than the MOV release from 2017, has 19658833411 on hype sticker, has "Made in the EU" on back cover and labels as well as label code and rights societies on labels. - [r30522379] was pressed by Memphis Record Pressing/GZ Media, has completely different runouts, has 19658833411S1 on hype sticker, no "Made in the EU", no label codes and no rights societies on the release.   |

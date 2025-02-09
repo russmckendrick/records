@@ -61,7 +61,7 @@ At the end of 1987, the NME ranked the album at number 49 in their list of the t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Box_Frenzy |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 18 |
 | Notes | Produced at Fon Studios, Sheffield.  Includes printed inner sleeve with lyrics and credits on one side. The other side features an adaptation of an advert (taken from a comic) titled 'The Insult That Made A Man Out Of 'Mac''. A-side identified as Front Side, B-side as Back Side (sleeve and labels).  ℗ 1987 Chapter 22 Records © 1987 Chapter 22 Records  Made in England  Mastered at The Townhouse. Pressed at MPO Averton.  Distributed in the UK by Nine Mile/Cartel  |

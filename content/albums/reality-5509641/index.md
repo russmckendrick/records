@@ -73,7 +73,7 @@ Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Reality_(David_Bowie_album) |
-| Format         | Vinyl LP Album Reissue (180gr) |
+| Format         | 1× Vinyl (180gr) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP875 |
 | Notes | Black vinyl edition. 180 gram audiophile vinyl. Includes a 12-page booklet.  Originally released ℗ & © 2003 ISO Records. This release ℗ & © 2014 Sony Music Entertainment made under license from ISO Records. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. "Columbia and (Logo) reg. U.S. Pat. & TM off Marca Registrada. Warning all rights reserved. Unauthorized duplication is a violation of applicable laws.  Acoustic Piano on The Loneliest Guy recorded at The Hitching Post Studio. Recorded at The Looking Glass Studios, New York. Mastered at The Lodge, New York, NY.  All songs published by Nipple Music (BMI) administered by RZO Music, Inc. except Pablo Picasso published by Modern Love Songs (ASCAP), Try Some, Buy Some © 1971 Harrisongs Ltd (PRS/ASCAP) published by Harrisongs Ltd (PRS), and Bring Me The Disco King published by Tintoretto Music (BMI) administred by RZO Music, Inc.  Runouts are laser-etched. The "B" side B is etched over an "A". |

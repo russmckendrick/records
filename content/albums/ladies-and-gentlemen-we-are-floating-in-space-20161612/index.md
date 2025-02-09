@@ -77,7 +77,7 @@ He would get there in the end and the crowning achievement of his career would b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ladies_and_Gentlemen_We_Are_Floating_in_Space |
-| Format         | Vinyl 2× LP Album Reissue Remastered Repress Special Edition Stereo (Blue [Neptune Blue], 180g) |
+| Format         | 2× Vinyl (Blue [Neptune Blue], 180g) LP, Album, Reissue, Remastered, Repress, Special Edition, Stereo |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1753-4 |
 | Notes | Packaged in a gatefold, tip-on sleeve.  ℗ & © 1997 Sony Music Entertainment UK. Under exclusive license to Fat Possum Records, LLC. P.O. Box 1923, Oxford, MS 38655. USA. The tablets are made by [url=https://www.discogs.com/artist/1014517-Farrow-Design]MFD Limited[/url] for the licence/authorisation holder Fat Possum Records.  Recorded and mixed at Moles Studio - Bath, The Church, Rooster and The Strongroom Studios - London, House of Blues - Memphis, The Hit Factory - New York and A&M - Los Angeles.   |

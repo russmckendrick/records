@@ -53,7 +53,7 @@ styles: ["Acid Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow), Vinyl 7" Single Limited Edition White Label |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition | 1× Vinyl 7", Single, Limited Edition, White Label |
 | Label          | EMF Records (9) |
 | Catalog Number | EMF06 |
 | Notes | Vinyl exclusive to EMF webstore or on tour and includes 7" white label single |

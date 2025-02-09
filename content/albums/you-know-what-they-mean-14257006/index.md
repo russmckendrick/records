@@ -68,7 +68,7 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (180 Gram), CD Album Stereo |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Stereo | 1× CD Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 535 |
 | Notes | Packaged in a gatefold jacket with black polylined LP sleeve and hype sticker affixed to shrink wrap on the front. CD is packaged inside in an envelope-style PVC sleeve. |

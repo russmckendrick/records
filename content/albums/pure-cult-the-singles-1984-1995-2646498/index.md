@@ -62,7 +62,7 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Remastered Reissue Compilation (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Remastered, Reissue, Compilation |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2026 |
 | Notes | © 2010 Beggars Banquet |

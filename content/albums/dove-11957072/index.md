@@ -54,7 +54,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow/Orange Splatter, Translucent) |
+| Format         | 1× Vinyl (Yellow/Orange Splatter, Translucent) LP, Album, Limited Edition |
 | Label          | Not On Label (Belly Self-released) |
 | Catalog Number | 83774-031-I |
 | Notes | Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides. |

@@ -49,7 +49,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE828 |
 | Notes | First 500 preorders received a 7" with this LP. Last track "Theory Of Tides" is not included on the LP version. Includes download code.  |

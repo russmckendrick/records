@@ -68,7 +68,7 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mule_Variations |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 gram, Gatefold) |
+| Format         | 2× Vinyl (180 gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Anti- |
 | Catalog Number | 6547-3 |
 | Notes | Hype sticker on front shrink: "Newly Remastered with Waits/Brennan"  Small white circular sticker: "Download Card Included 180 Gram"  Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler. Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.  All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.  Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records  John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.  Marc Ribot appears courtesy of Atlantic Recording Corporation  © 1999 Jalma Music (ASCAP) |

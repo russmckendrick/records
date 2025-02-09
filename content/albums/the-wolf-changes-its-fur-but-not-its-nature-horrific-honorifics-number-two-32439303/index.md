@@ -62,7 +62,7 @@ styles: ["Prog Rock", "Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Limited Edition Stereo (Silver) |
+| Format         | 3× Vinyl (Silver) LP, Limited Edition, Stereo |
 | Label          | Season Of Mist |
 | Catalog Number | SOM818LPD |
 | Notes | Sticker reads:  20 Years Of CRIPPED BLACK PHOENIX  After two decades of challenging the silence, this double album redefines echoes of the past and honors the rebels who lit the path.  Silver vinyl strictly limited to 500 copies worldwide! |

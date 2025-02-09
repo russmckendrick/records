@@ -59,7 +59,7 @@ This album earned the group the most press they have had since the release of 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Quantum_Gate_(album) |
-| Format         | Vinyl 2× LP Album (180g) |
+| Format         | 2× Vinyl (180g) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE967 |
 | Notes | Double LP edition on 180g heavyweight vinyl in gatefold packaging. |

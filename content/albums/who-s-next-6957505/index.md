@@ -60,7 +60,7 @@ The album was an immediate critical and commercial success and has since been vi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Who%27s_Next |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Polydor |
 | Catalog Number | 3715614 |
 | Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU. |

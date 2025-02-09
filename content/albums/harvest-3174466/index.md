@@ -65,7 +65,7 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Harvest_(Neil_Young_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49786-5 |
 | Notes | Sticker the sleeve:  A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)  On the back: Neil Young Archives, Official Release Series, Disc 04  Comes in a textured, gatefold sleeve and with gatefold lyric sheet.  Matrices in runouts are etched, "-18662-" are stamped. |

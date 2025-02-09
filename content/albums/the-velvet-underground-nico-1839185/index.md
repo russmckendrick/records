@@ -63,7 +63,7 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Peeling Banana, 180g, Gatefold) |
+| Format         | 1× Vinyl (Peeling Banana, 180g, Gatefold) LP, Album, Reissue |
 | Label          | Vinyl Lovers |
 | Catalog Number | 900051 |
 | Notes | Barcode sticker on plastic protection with the text: "180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!" Gatefold sleeve with original real peelable banana design. Banana is made from window sticker material, and is re-peelable. Track B5 is a bonus track.  © 1967 Verve. This compilation ℗ & © 2008 Lilith Records Ltd. Manufactured in EU - Under license from ℗ ООО "Universal Music", Russia. Photos by kind permission of Universal Music PLC.  |

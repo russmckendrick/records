@@ -61,7 +61,7 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Silence_(Neil_Finn_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Lester Records |
 | Catalog Number | LRNF0016LP |
 | Notes | ℗ & © Lester Records Ltd under exclusive license to Universal Music Australia Pty Ltd  All songs published by Kobalt Music Publishing, except A5 which is published by Kobalt Music Publishing / Mushroom Music Publishing / Copyright Control  Printed on side A/B labels: Marketed and distributed in Australiasia by Universal Music Australia. Manufactured in the EU.  Initial online pre-orders included a 7” x 5” photo signed by Neil Finn. |

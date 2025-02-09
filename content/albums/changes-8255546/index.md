@@ -59,7 +59,7 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Changes_(Charles_Bradley_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1005 |
 | Notes | Includes [url=http://www.discogs.com/release/9023062]download card[/url].   Some with hype sticker on shrink wrap of new copies. |

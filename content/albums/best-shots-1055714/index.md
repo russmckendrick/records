@@ -59,7 +59,7 @@ Best Shots is a Platinum-certified greatest hits album released by the American 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Best_Shots |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Chrysalis |
 | Catalog Number | PATV1 |
 | Discogs URL    | [Pat Benatar - Best Shots](https://www.discogs.com/release/1055714-Pat-Benatar-Best-Shots) |

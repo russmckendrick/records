@@ -56,7 +56,7 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stranger_Heads_Prevail |
-| Format         | Vinyl 2× LP Album Limited Edition Repress (Clear w/Blue Smoke) |
+| Format         | 2× Vinyl (Clear w/Blue Smoke) LP, Album, Limited Edition, Repress |
 | Label          | Evil Ink Records |
 | Catalog Number | EI209V |
 | Notes | Gatefold cover. Limited edition of 1000 pressed on clear vinyl mixed with blue smoke. Second pressing. |

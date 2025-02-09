@@ -53,7 +53,7 @@ Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whirlpool_(Chapterhouse_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & Silver Marbled) |
+| Format         | 1× Vinyl (Blue & Silver Marbled) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2567 |
 | Notes | Limited Edition Of 1500 Copies on Blue & Silver Marbled Vinyl Includes Insert 180 gram audiophile vinyl |

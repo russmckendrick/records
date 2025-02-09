@@ -59,7 +59,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Manphibian Music |
 | Catalog Number | MANP 001LP |
 | Notes | Includes printed sleeve/liner, 8-page comic & digital download. |

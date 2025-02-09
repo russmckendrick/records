@@ -54,7 +54,7 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Green/Black Marble) |
+| Format         | 1× Vinyl (Green/Black Marble) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1217 |
 | Notes | Limited marble (black & transparent turquoise) LP edition with an exclusive die-cut sleeve. |

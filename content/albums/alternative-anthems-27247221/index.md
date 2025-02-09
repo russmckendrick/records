@@ -64,7 +64,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP033 |
 | Notes | 140g black vinyl housed in printed inner sleeves. |

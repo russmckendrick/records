@@ -53,7 +53,7 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered (Infinite Void Edition) |
+| Format         | 1× Vinyl (Infinite Void Edition) LP, Album, Limited Edition, Numbered |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 4 |
 | Notes | Super-Deluxe Blue & White Marble Effect Heavyweight 180g 12″ Vinyl Ultra Matte Reverse Board Textured Gatefold Sleeve Handnumbered Limited Edition Holographic Sticker Second Pressing |

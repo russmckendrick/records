@@ -73,7 +73,7 @@ A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilat
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Substance_1987 |
-| Format         | Vinyl LP (Red Translucent), Vinyl LP (Blue Translucent), All Media Compilation Reissue Remastered (180g) |
+| Format         | 1× Vinyl (Red Translucent) LP | 1× Vinyl (Blue Translucent) LP | 1× All Media (180g) Compilation, Reissue, Remastered |
 | Label          | Factory |
 | Catalog Number | Fact 200 |
 | Notes | Indie exclusive pressing, distributed in an embossed sleeve. Barcode as a sticker on sleeve rather than printed on the sleeve.  Hype sticker on shrink-wrap: "New Order - Substance  Remastered double LP red and blue vinyl  Fact 200"   Inner sleeves: 1987 Factory Communications Limited  A Factory Record ℗ 1987, 2023 Warner Music UK Ltd. © 2023 Warner Music UK Ltd.  In variant 2 runouts, "21", "1|", and "1△" are mirrored. All is etched.  |

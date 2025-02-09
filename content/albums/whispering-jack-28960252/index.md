@@ -59,7 +59,7 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whispering_Jack |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (White & Black marbled) |
+| Format         | 1× Vinyl (White & Black marbled) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3275 |
 | Notes | - 180 gram audiophile vinyl - Gatefold sleeve with spot varnish - The 24x Platinum-certified hit album that sold over 2 million copies worldwide - Featuring the massive hit single “You're The Voice” - Peaked at #1 on the Australian Albums Chart and in the top 10 of several European countries - Limited edition of 1500 individually numbered copies on white & black marbled vinyl |

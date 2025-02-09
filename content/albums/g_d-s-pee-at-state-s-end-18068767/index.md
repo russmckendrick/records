@@ -64,7 +64,7 @@ Godspeed's seventh album adheres to a similar structure as their post-reunion re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/G_d%27s_Pee_at_State%27s_End! |
-| Format         | Vinyl LP (180 gram), Vinyl 10" 33 ⅓ RPM EP, All Media Album |
+| Format         | 1× Vinyl (180 gram) LP | 1× Vinyl 10", 33 ⅓ RPM, EP | 1× All Media Album |
 | Label          | Constellation |
 | Catalog Number | CST156 |
 | Notes | Tracked live at the almighty hotel2tango, 6-11 octobre 2020. Edits and overdubs 12-18 octobre 2020. Mastered at Greymarket.  Released in a gatefold cover with b/w printed inner sleeves. Comes with label insert.  This release is auto-coupled: the LP contains sides A and 3, while the 10" contains sides B and 4. The record labels name the sides 12A, 12B, 10A & b (the b side of the 10 inch is labeled simply 'b').  The cover refers to the order of the tracks as sides A (12" A side), B (10" A side), 3 (12" B side) & 4 (10" b side)  For additional clarity: the 12" contains what is referred to as sides A and 3 (where Side 3 contains a locked groove) and the 10" has sides B & 4.  Side 3 (12" side labeled 12B) ends with a locked groove.  The writing on the label of the 10" side b (AKA "Side 4) is in Yiddish; "מיך וועלן זיי איבערלעבן". The correct spelling for the word is "מיך וועלן זיי איבערלעבד" (Translation: We will outlive them).  Housed in an embossed gatefold sleeve and includes a DL card.  Some pre-orders at independent record stores included a promo poster.  The back cover features logos of [l1285790] and [l56231]. |

@@ -80,7 +80,7 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Be_Here_Now_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Silver Metallic, 25th Anniversary) |
+| Format         | 2× Vinyl (Silver Metallic, 25th Anniversary) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85C |
 | Notes | Gatefold sleeve on matte cardboard finish. |

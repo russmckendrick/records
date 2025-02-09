@@ -66,7 +66,7 @@ The critical reception of the album was generally positive, with comments such a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amplifier_(Amplifier_album) |
-| Format         | Vinyl LP (Black/Grey Marbled), Vinyl LP (Red/Yellow Marbled), All Media Album Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Black/Grey Marbled) LP | 1× Vinyl (Red/Yellow Marbled) LP | 1× All Media Album, Limited Edition, Reissue, Remastered |
 | Label          | Rockosmos |
 | Catalog Number | none |
 | Discogs URL    | [Amplifier (3) - Amplifier](https://www.discogs.com/release/22878905-Amplifier-3-Amplifier) |

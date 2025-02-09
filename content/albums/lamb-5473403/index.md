@@ -57,7 +57,7 @@ The band's cumulative sales equal almost two million in the United States, inclu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lamb_of_God_(band) |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP854 |
 | Notes | Standard Black Vinyl release.    180 gram audiophile vinyl.  Insert with exclusive liner notes written by Lou Rhodes.  Includes 3 bonus tracks. |

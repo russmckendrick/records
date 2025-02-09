@@ -73,7 +73,7 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_(Ian_Brown_album) |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Polydor |
 | Catalog Number | 987 289-0 |
 | Notes | Made in the EU. Runouts are etched. |

@@ -95,7 +95,7 @@ The Force is as strong as ever in John Williams’ writing for orchestra. His mi
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Etched |
+| Format         | 2× Vinyl LP, Album, Etched |
 | Label          | Walt Disney Records |
 | Catalog Number | D002364401 |
 | Notes | ℗ 2015 © 2016 & ™ Lucasfilm Ltd. Burbank, CA 91521.  Holograms hand-etched by Tristan Duke of Infinity Light Science.  Disc 1 side B (Millennium Falcon) Disc 2 side D (TIE Fighter).  Packaged in an embossed gatefold sleeve, featuring a 'hologramatic' effect on 'Star Wars' and the stars. Includes a 16-page booklet.  Sticker on shrinkwrap: "Includes a one-of-a-kind 3D holographic experience featuring the Millennium Falcon on disc 1 & TIE Fighter on disc 2 DMM Direct Metal Mastering 180 gram vinyl D002364401 ST01" |

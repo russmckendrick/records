@@ -57,7 +57,7 @@ styles: ["Power Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Compilation |
+| Format         | 2× Vinyl LP, 45 RPM, Compilation |
 | Label          | Stax |
 | Catalog Number | 0888072022133 |
 | Notes | Jacket incorrectly lists as Andy Hummel as the writer of "O, My Soul", which was in fact written by Alex Chilton. |

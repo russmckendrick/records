@@ -66,7 +66,7 @@ These songs may sound like timeless tunes of the golden oldies era, but Deal als
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nobody_Loves_You_More |
-| Format         | Vinyl LP Album Limited Edition (Orange [Florida Orange]) |
+| Format         | 1× Vinyl (Orange [Florida Orange]) LP, Album, Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0733LP |
 | Notes | Includes printed inner sleeve with lyrics & credits.  There are 100 copies signed by Kim for Assai obi edition. |

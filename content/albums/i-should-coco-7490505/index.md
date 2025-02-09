@@ -67,7 +67,7 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Should_Coco |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Single, All Media Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl 7", 45 RPM, Single | 1× All Media Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0825646130573 |
 | Notes | 20th anniversary edition. Album is dedicated to David Norland 1974-2014. Supergrass and I Should Coco are embossed.  Recorded at Sawmills Studio, Golant, Fowey, Cornwall. Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.  B side label of 7" is plain red. Embossed letters on front sleeve. Comes with a [l873810] download code. |

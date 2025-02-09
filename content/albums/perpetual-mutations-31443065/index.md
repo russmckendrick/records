@@ -57,7 +57,7 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Harmonic Heresy |
 | Catalog Number | HH20241B |
 | Notes | Black vinyl, gatefold cover.  Jean-Pierre Zanella recorded at Migrason (Montreal, Canada). |

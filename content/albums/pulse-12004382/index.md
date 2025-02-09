@@ -94,7 +94,7 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Album Reissue Remastered (180 gram), Box Set |
+| Format         | 4× Vinyl (180 gram) LP, Album, Reissue, Remastered | 1× Box Set |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP17 |
 | Notes | Book: Recorded live in Europe and the UK with Le Voyageur II Mobile. Mixed at Astoria in Q Sound. Mastered at The Mastering Lab. This is an analogue recording.  With Thanks to: Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.  Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd. Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.  Labels: Made in the EU.  Includes one more track than the CD releases (D3 One Of These Days).  Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.  Hype sticker on front cover (on shrink).  On side A, in runout variant 2, after the "18899" part, there is a crossed out "2". It's probably the same for runout variant 1.  Runouts are etched. Pressing plant and laquer cut identified based on the runout areas. |

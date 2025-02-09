@@ -68,7 +68,7 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Little_Earthquakes |
-| Format         | Vinyl 2× LP Album Reissue Remastered Special Edition Stereo (Green Translucent [Cola-Bottle Clear]) |
+| Format         | 2× Vinyl (Green Translucent [Cola-Bottle Clear]) LP, Album, Reissue, Remastered, Special Edition, Stereo |
 | Label          | Atlantic |
 | Catalog Number | R1 82358 |
 | Notes | Double Vinyl  Barnes & Noble Exclusive Cola-Bottle Clear Vinyl Debut solo album.   Release produced by Tori Amos Audio Supervision Mark Hawley Remastered in 2022 by Jon Astley for Close to the Edge Half-Speed master cut at Abbey Road Studio, London by Miles Showell  1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker. |

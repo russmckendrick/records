@@ -60,7 +60,7 @@ The Great Eastern was their first album not to be named after a cycling theme â€
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Great_Eastern_(album) |
-| Format         | Vinyl LP Album Reissue (180 g) |
+| Format         | 1Ã— Vinyl (180 g) LP, Album, Reissue |
 | Label          | Chemikal Underground |
 | Catalog Number | CHEM226 |
 | Notes | On 180 gram vinyl. Includes a printed inner sleev (lyrics incl.) and with a download code for 320kbps MP3s. Limited to 500 copies according to online retailers. Runouts are stamped.  P 2000 + C 2015 Chemikal Underground Ltd.  Recorded at Cava Sound Workshops with additional recording at Chem19 Studios, Jaya Pura and Tarbox Road Studios. Mixed at Tarbox Road Studios. |

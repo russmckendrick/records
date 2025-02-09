@@ -59,7 +59,7 @@ The album peaked at No. 3 on the U.S. Billboard 200 album chart in July 1969. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Best_of_Cream |
-| Format         | Vinyl LP Compilation Stereo (Laminated) |
+| Format         | 1× Vinyl (Laminated) LP, Compilation, Stereo |
 | Label          | Polydor |
 | Catalog Number | 583 060 |
 | Notes | Laminated sleeve with plain inner sleeve  "Crossroads" was recorded live at the Fillmore Auditorium in San Francisco.  "I Feel Free" is a Robert Stigwood Organization (London) Production.  All other selections were produced by Felix Pappalardi. By arrangement with Robert Stigwood.  Publishers: A1, A4, A5, B3 to B5 by Dratleaf A2 by Dratleaf/Apple  A3 by Immediate B1 by Tee Pee B2 by Jewel  Manufactured by Polydor Records Ltd., London  Made in England  ℗ 1966 - B5 ℗ 1967 - A1, A5, B3, B4 ℗ 1968 - A3, A4, B1, B2 ℗ 1969 - A2 |

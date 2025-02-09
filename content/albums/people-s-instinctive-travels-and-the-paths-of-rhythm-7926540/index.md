@@ -69,7 +69,7 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People%27s_Instinctive_Travels_and_the_Paths_of_Rhythm |
-| Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
+| Format         | 2× Vinyl (25th Anniversary, Gatefold, 180 gram) LP, Album, Reissue, Remastered |
 | Label          | Jive |
 | Catalog Number | 88875172371 |
 | Notes | 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.  Runouts are etched, except for -37846- which is stamped |

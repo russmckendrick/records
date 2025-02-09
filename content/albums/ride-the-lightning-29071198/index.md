@@ -64,7 +64,7 @@ Ride the Lightning received a highly positive response from music critics, who s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ride_the_Lightning |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Blue [Electric Blue]) |
+| Format         | 1× Vinyl (Blue [Electric Blue]) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Blackened |
 | Catalog Number | BLCKND004R-1U |
 | Notes | Includes two-sided full color insert with lyrics and a digital download card. No mention of enclosed download on hype-sticker. Sticker on back cover : Made in Germany & it's also printed at the bottom of the back cover. |

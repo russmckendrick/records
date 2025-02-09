@@ -63,7 +63,7 @@ Pink Moon, like Drake's previous studio albums, did not sell well during his lif
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Moon |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Island Records |
 | Catalog Number | 006025 17456976 |
 | Notes | Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques |

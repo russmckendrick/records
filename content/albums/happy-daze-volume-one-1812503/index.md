@@ -55,7 +55,7 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPTV 1 |
 | Notes | ℗ 1990 Island Records Ltd.  © 1990 Island Records Ltd.   |

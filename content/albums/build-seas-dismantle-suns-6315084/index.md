@@ -53,7 +53,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE869 |
 | Notes | Made in Germany    The 2013 Self Released EPs on 180g Clear Vinyl    www.nordicgiants.co.uk |

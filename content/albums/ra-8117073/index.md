@@ -57,7 +57,7 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ra_(Utopia_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Bearsville |
 | Catalog Number | K 55514 |
 | Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  This version has publishers mentioned with (1) and (2 - 5) on side A label Made in UK  |

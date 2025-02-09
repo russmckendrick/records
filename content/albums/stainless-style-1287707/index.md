@@ -62,7 +62,7 @@ Stainless Style is a loose concept album based on the tumultuous life of DeLorea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stainless_Style |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Lex Records |
 | Catalog Number | LEX067LP |
 | Notes | With printed inner sleeve and lyrics insert |

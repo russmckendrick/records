@@ -72,7 +72,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Blue Marble) |
+| Format         | 1× Vinyl (Blue Marble) LP, Album, Limited Edition |
 | Label          | Chemikal Underground Records |
 | Catalog Number | CHEM255 |
 | Discogs URL    | [Citizen Bravo, Raymond MacDonald And Friends - Return To Y'Hup The World Of Ivor Cutler](https://www.discogs.com/release/14702777-Citizen-Bravo-Raymond-MacDonald-And-Friends-Return-To-YHup-The-World-Of-Ivor-Cutler) |

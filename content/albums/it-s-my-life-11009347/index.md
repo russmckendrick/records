@@ -62,7 +62,7 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_My_Life_(Talk_Talk_song) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295792619 |
 | Notes | Inner sleeve in glossy paper.  On spine: ● 0190295792619 Talk Talk ● It's My Life ● Parlophone Records Ltd.  On back cover: 0190295792619 ★ Stereo ℗ 1984 Parlophone Records Ltd © 2017 Parlophone Records Ltd. A Warner Music Group Company.  Country of manufacture of record as stated on record label.  On labels: Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd. ℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Manufactured in the EU. LC30419.  Runouts are etched with Optimal plating symbols mirrored |

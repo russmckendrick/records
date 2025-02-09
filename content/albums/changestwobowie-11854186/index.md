@@ -64,7 +64,7 @@ Changestwobowie was reissued in its original form by Rhino, on vinyl, CD, and di
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Changestwobowie |
-| Format         | Vinyl LP Compilation Limited Edition Reissue Remastered Stereo (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Compilation, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295740542 |
 | Notes | 180 gram vinyl edition was available randomly on its initial limited run in black and blue vinyl before reverting solely to black vinyl. |

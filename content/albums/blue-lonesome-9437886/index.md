@@ -65,7 +65,7 @@ styles: ["Electric Blues", "Chicago Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Rolling Stones Records |
 | Catalog Number | 571 494-4 |
 | Notes | - gatefold sleeve - printed inner sleeves  - download card included (Download album is 16bit/44.1kHz WAV file)  Recording: British Grove Studios, London. Mixed at Henson Studios, Los Angeles. Mastered at Capitol Studios, Hollywood  "Just Your Fool", "Commit A Crime", "Blue And Lonesome", "I Gotta Go", "Hate To See You Go" Published by Arc Music.  "All Of Your Love" Published by Conrad Music / Lerie Music Inc.  "Everybody Knows About My Good Thing" Published by Respect Music Co.  "Ride 'Em On Down" Published by Conrad Music.  "Hoo Doo Blues" Published by Embassy Music Corporation.  "Little Rain" Published by Conrad Music / Seeds Of Reed Music.  "Just Like I Treat You", "I Can't Quit You Baby" Published by Hoochie Coochie Music.  ℗ 2016 Promotone B.V. © 2016 Promotone B.V. The copyright in this sound recording is owned by Promotone B.V. and is under exclusive licence to Polydor Records, a division of Universal Music Operations Ltd. Made in France. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Records and sleeve are made in France.  Runout strings are etched. |

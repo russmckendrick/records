@@ -64,7 +64,7 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rejoice!_I%27m_Dead! |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1049 |
 | Notes | Gatefold, incl. download card  Contains 4 page booklet of lyrics and credits  ℗ 2016 Gong under licence to Snapper Music. © 2016 Gong. Made in the UK. Madfish is a Snapper Music label  Recorded at Brixton Hill Studios and beyond, Spring 2016 'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia |

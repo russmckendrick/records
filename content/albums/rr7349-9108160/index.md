@@ -60,7 +60,7 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/RR7349 |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Relapse Records |
 | Catalog Number | RR7349 |
 | Notes | Made in EU  Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp). |

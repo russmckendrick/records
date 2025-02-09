@@ -66,7 +66,7 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Funeral_(Arcade_Fire_album) |
-| Format         | Vinyl LP Album Repress (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Repress |
 | Label          | Merge Records |
 | Catalog Number | MRG255 |
 | Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: •Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist. •Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert. •Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.  Tracklisting ascends numerically regardless of disc side.  Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |

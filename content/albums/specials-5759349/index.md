@@ -65,7 +65,7 @@ The group re-formed in 1993, and continued to perform and record with varying li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Specials |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTX 5001 |
 | Notes | Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company  |

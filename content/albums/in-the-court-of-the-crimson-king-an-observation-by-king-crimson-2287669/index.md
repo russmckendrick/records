@@ -47,7 +47,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Island Records |
 | Catalog Number | ILPS 9111 |
 | Notes | Pink "i" label. Released in a gatefold cover.  [r12249899] is similar edition but has no printer credit on the cover.  A product of Island Records Ltd. Produced for E.G. Productions, 'David & John'. Recorded at Wessex Sound Studios, London.  Printed and made by E. J. Day, London. Variant 1 (A▽2 B//2) came in polylined inner bag with blue text ‘U.K. Patent No. 1,072,844 & Foreign Patents Pending’.  The tracklisting is taken from the cover. On the label tracks A1, A3, B1 and B2 are divided into separate subtracks which on the cover appear as part of the "normal" track titles. |

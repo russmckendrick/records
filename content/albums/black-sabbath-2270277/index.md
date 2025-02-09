@@ -58,7 +58,7 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Forbidden_(Black_Sabbath_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 1871 |
 | Notes | 180 gram black vinyl Rhino reissue, cut from the original analog masters.  This release is very similar to the 1970 Warner Bros. Records release [r=2011391]. "Rhino Vinyl" is only mentioned in a small font on the vinyl labels. The reissue year 2010 is not visible anywhere; only 1970. Record housed in plain poly-lined inner sleeve. Barcode appears only on hype sticker.  Jacket is Tip-On.  Made in U.S.A. on labels. Printed in U.S.A. on spine.  This release is not to be confused with the nearly identical [r=7286544] which has different center labels. |

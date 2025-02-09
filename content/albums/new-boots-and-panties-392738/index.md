@@ -63,7 +63,7 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Boots_and_Panties!! |
-| Format         | Vinyl LP Album (Island Manufacturing Pressing) |
+| Format         | 1× Vinyl (Island Manufacturing Pressing) LP, Album |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 4 |
 | Notes | This record was not produced and recorded at The Workhouse in the Old Kent Road!! P and C 1977 Stiff Records Ltd.  Printed inner sleeve with diagonal cut corners.   |

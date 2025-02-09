@@ -93,7 +93,7 @@ BBC Broadcasts is a box set by the English rock band Genesis. It was released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/BBC_Broadcasts |
-| Format         | Vinyl 3× LP Compilation Stereo |
+| Format         | 3× Vinyl LP, Compilation, Stereo |
 | Label          | EMI |
 | Catalog Number | 00602435686370 |
 | Notes | Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. On labels: Made in the EU. Sticker on back shrink: "Made in Czech Republic"  Runouts are engraved except "MILES.ABBEYROAD.ROOM30" which is etched.  Photography By Knebworth, BBC & Getty Images.  Hype sticker on front shrink saying: "23 TRACK 3LP SET FEATURING THE GROUP`S WORK RECORDED BY THE BBC BETWEEN 1970 & 1998 NEW NOTES WRITTEN BY MICHAEL HANN CONTAINS FAVOURITES SUCH AS ´THE CARPET CRAWLERS, ´NO SON OF MINE´& ´TURN IT ON AGAIN´ MANY PREVIOUSLY TRACKS SELECTIONS FROM JOHN PEEL´S SHOW, BOTH OF THE GROUP´S KNEBWORTH PERFORMANCES (78 AND 92) AS WELL AS THEIR MUCH-LOVED 1980 SHOW AT LONDON´S LYCEUM, &THEIR TRIUMPHANT SELL-OUT RUN OF SHOWS AT WEMBLEY IN 1987. 006024355686370"   |

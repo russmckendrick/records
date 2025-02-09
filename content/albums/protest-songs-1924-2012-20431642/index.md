@@ -68,7 +68,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180g) |
+| Format         | 1× Vinyl (180g) LP, Album |
 | Label          | Island Records |
 | Catalog Number | 3840701 |
 | Notes | 180 grams heavyweight black vinyl.  Includes 12 page booklet with lyrics, credits and download card. |

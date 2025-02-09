@@ -63,7 +63,7 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oops!_Wrong_Planet |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | K 55517 |
 | Notes | Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970  |

@@ -59,7 +59,7 @@ For a band so strongly identified with a particular time and place, The Strokes 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Is_This_It |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRADELP030 |
 | Notes | Mastered at Sterling Sound. |

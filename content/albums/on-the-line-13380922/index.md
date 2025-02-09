@@ -85,7 +85,7 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_the_Line_(Jenny_Lewis_album) |
-| Format         | Vinyl LP Album Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Warner Bros. Records |
 | Catalog Number | 585764-1 |
 | Notes | Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany. |

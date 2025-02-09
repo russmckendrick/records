@@ -60,7 +60,7 @@ Leigh received the Contemporary Classics Award from the Songwriter's Hall of Fam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Impossible_Dream_(The_Quest) |
-| Format         | Vinyl LP Album Limited Edition (Teal / 150g) |
+| Format         | 1× Vinyl (Teal / 150g) LP, Album, Limited Edition |
 | Label          | Memphis Industries |
 | Catalog Number | MI0403LP |
 | Notes | Gatefold sleeve. Standard white die-cut paper inner. Includes a download code on a sticker on the inner paper sleeve.  3 inch white circular sticker on shrink-wrap with Teal colour text reads: HALEY BONAR Impossible Dream LIMITED EDITION COLOUR VINYL INCLUDES DOWNLOAD CODE mi [= Memphis Industries logo]  ℗ & © 2016 Haley Bonar Under exclusive license to Memphis Industries |

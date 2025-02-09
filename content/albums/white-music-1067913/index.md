@@ -59,7 +59,7 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Music |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | V 2095 |
 | Notes | Some tracks have alternate, shorter titles given on the back sleeve: A2: X Wires B1: Atom Age B2: Set Myself On Fire B4: New Town Animal  Virgin Records, Vernon Yard, Portobello Road, London W11.  Recorded at The Manor, Mixed at The Manor & Advision.  Made in England  Cat.# V2095 on the rear and spine of the sleeve. Cat.# V 2095 on the labels. © 1977 Virgin Music (Publishers) Ltd exc. A6, B. Feldman & Co Ltd  Runouts "V-2095-A-1  MASTERED BY NICK W." are etched, others stamped. |

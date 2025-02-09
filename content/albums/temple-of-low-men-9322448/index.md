@@ -64,7 +64,7 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Temple_of_Low_Men |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 4788024 |
 | Notes | Includes a voucher for MP3 download of the tracks included in the [url=https://www.discogs.com/Crowded-House-Temple-Of-Low-Men/release/9318485]deluxe edition[/url] of this reissue. Made in the Czech Republic |

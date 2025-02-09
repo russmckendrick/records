@@ -83,7 +83,7 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Roots_(Sepultura_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Roadrunner Records |
 | Catalog Number | R562035 |
 | Notes | Newly remastered on 180G Vinyl. Bonus LP with rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with plain white lined inner sleeves.  LP1; C1,C2: Roots. (2017 remaster) C3-D8: Bonus tracks  |

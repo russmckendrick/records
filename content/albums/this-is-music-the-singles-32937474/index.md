@@ -70,7 +70,7 @@ This is Music: The Singles 92–98 is a singles compilation album by the English
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_Music:_The_Singles_92%E2%80%9398 |
-| Format         | Vinyl 2× LP Compilation Stereo (Coke Bottle Clear, Transparent Red) |
+| Format         | 2× Vinyl (Coke Bottle Clear, Transparent Red) LP, Compilation, Stereo |
 | Label          | Universal Music Recordings |
 | Catalog Number | 6580364 |
 | Notes | An EMI Release ℗ 2024 Virgin Records Limited © Virgin Records Limited  Sleeve: Made in the EU Sticker: Made in Germany |

@@ -68,7 +68,7 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Parklife |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Yellow Translucent) |
+| Format         | 2× Vinyl (Yellow Translucent) LP, Album, Limited Edition, Reissue, Remastered, Repress |
 | Label          | Food |
 | Catalog Number | FOODLPX10 |
 | Notes | Gatefold sleeve. Limited to 3000 copies on 180 gram yellow vinyl.  Same release, on black vinyl is here, [r8640693]. |

@@ -61,7 +61,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP15 |
 | Notes | Made in Poland  Heavyweight 180 Gram Black Vinyl In card sleeve with inner and insert  ℗ & © 2005 Stirling Holdings Ltd., under licence to Union Square Music Ltd. This release © 2022 Union Square Music Ltd. |

@@ -70,7 +70,7 @@ Seven received mixed reviews from music critics, some of whom noted the album's 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seven_(James_album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Fontana |
 | Catalog Number | 5712912 |
 | Discogs URL    | [James - Seven](https://www.discogs.com/release/11285126-James-Seven) |

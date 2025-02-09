@@ -53,7 +53,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Stereo (180 gram, White) |
+| Format         | 1× Vinyl (180 gram, White) LP, Album, Record Store Day, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | Kscope974 |
 | Notes | Limited edition Record Store Day 2018 release.   "1V" is mirrored in side A runout. |

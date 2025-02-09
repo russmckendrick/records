@@ -88,7 +88,7 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Reissue (50th Anniversary) |
+| Format         | 3× Vinyl (50th Anniversary) LP, Compilation, Reissue |
 | Label          | Trojan Records |
 | Catalog Number | TJBOX009 |
 | Notes | 3LPs + 50 page booklet in a hardbacked book packaging. The records are housed in the book, no seperate covers.  Alternate track listing to the original 1971 compilation.  50 years following its original release, this hugely influential album has been revisited by Bell, along with reggae musician, Rusty Zinn, who have succeeded in improving what was already an almost perfect collection.  Presented in the original eye-catching artwork, the set is further enhanced by a highly illustrated 50-page booklet in which Bell relates the stories behind the release and the 50 tracks featured on the compilation.  Original 1971 sleeve note:  "The master tapes for many of the tracks have either deteriorated or been lost, resulting in several dubs from disc. We have endeavoured to clean up the surface noise wherever possible, but please excuse any slight noise remaining". |

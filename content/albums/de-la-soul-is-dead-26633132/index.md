@@ -79,7 +79,7 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/De_La_Soul_Is_Dead |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Chrysalis Records |
 | Catalog Number | RMM-052-1 |
 | Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   All boring tracks recorded at Calliope Productions Mixed at Battery Studios and Island Media Made In Czech Republic on back of sleeve. |

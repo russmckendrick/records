@@ -59,7 +59,7 @@ Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Herbie:_Fully_Loaded |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Virgin |
 | Catalog Number | EVP 5 |
 | Discogs URL    | [Various - Loaded](https://www.discogs.com/release/1420886-Various-Loaded) |

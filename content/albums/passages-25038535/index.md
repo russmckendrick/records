@@ -56,7 +56,7 @@ Passages is the sixth album by the British alternative rock band Jesus Jones, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Passages_(Jesus_Jones_album) |
-| Format         | Vinyl LP Album Reissue (Transparent Yellow) |
+| Format         | 1× Vinyl (Transparent Yellow) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC957 |
 | Discogs URL    | [Jesus Jones - Passages](https://www.discogs.com/release/25038535-Jesus-Jones-Passages) |

@@ -73,7 +73,7 @@ Laughing on Judgement Day was promoted on the Laughing All Over the World Tour b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Laughing_on_Judgement_Day |
-| Format         | Vinyl LP Album Limited Edition Reissue (Blue), Vinyl LP Album Limited Edition Reissue (White) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition, Reissue | 1× Vinyl (White) LP, Album, Limited Edition, Reissue |
 | Label          | BMG |
 | Catalog Number | BMGCAT709DLP |
 | Notes | Hype sticker on front shrink saying: "THUNDER LAUGHING ON JUDGEMENT DAY LIMITED EDITION BLUE & WHITE DOUBLE VINYL INCLUDES THE TRACKS LOW LIFE IN HIGH PLACES EVERYBODY WANTS HER AND A BETTER MAN PLUS UNRELEASED BONUS TRACKS  BMG BMGCAT709DLP"  Gatefold sleeve  Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2012 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on the Half A Dozen Of The Other EP in 2008. Long deleted, never available on vinyl.  A Better Man (Live) recorded on 10th March 2005 at Shepherds Bush Empire The Moment Of Truth (Live) recorded on 21st December 2011 at Nottingham Rock City Like A Satellite (Live) recorded on 3rd December 2007 at Sheffield City Hall  Some copies came with a limited edition art card.  On back cover:  ℗ & © 2022 BMG Rights Management (UK) Ltd. Manufactured in Germany.  On inner sleeve:  All tracks ℗ 2009 Parlophone Records Ltd. a Warner Music Group Company, except tracks D2, D3 and D4 ℗ 2005 STC Recordings. |

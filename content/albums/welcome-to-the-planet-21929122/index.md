@@ -56,7 +56,7 @@ Welcome to the Planet is the fourteenth studio album by English progressive rock
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Welcome_to_the_Planet |
-| Format         | Vinyl LP Album Limited Edition Special Edition Stereo (180 Gram, Transparent Red) |
+| Format         | 1× Vinyl (180 Gram, Transparent Red) LP, Album, Limited Edition, Special Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG105 |
 | Notes | Packaged in a single jacket with 2-page color lyric insert, black LP sleeve and hype sticker affixed to the shrink wrap on the front. |

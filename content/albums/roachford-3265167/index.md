@@ -56,7 +56,7 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | 460630 1 |
 | Notes | ℗ 1988 CBS Records (labels, inside sleeve) © 1988 CBS Records (back cover)  Textured sleeve with printed inner sleeve. |

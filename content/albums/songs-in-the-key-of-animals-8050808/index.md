@@ -54,7 +54,7 @@ Songs in the Key of Animals is the second studio album by American musician Benj
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Animals |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Merge Records |
 | Catalog Number | MRG551 |
 | Notes | LP includes a coupon for a full download. |

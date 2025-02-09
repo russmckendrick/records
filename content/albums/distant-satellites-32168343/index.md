@@ -60,7 +60,7 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Distant_Satellites |
-| Format         | Vinyl 2× LP Album Stereo (Sparkle) |
+| Format         | 2× Vinyl (Sparkle) LP, Album, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1247 |
 | Notes | Sticker reads:  ANATHEMA distant satellites 10TH ANNIVERSARY 2LP SPARKLE VINYL EDITION "Yet another sublime masterclass in supercharged emotional songwriting and fearless sonic curiosity." DOM LAWSON, THE GUARDIAN KSCOPE1247 kscopemusic.com |

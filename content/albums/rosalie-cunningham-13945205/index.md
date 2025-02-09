@@ -55,7 +55,7 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rosalie_Cunningham |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Esoteric Antenna |
 | Catalog Number | EANTLP1075 |
 | Notes | Standard black vinyl 200 copies was signed by the band Made in the EU |

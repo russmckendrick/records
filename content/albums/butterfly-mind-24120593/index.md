@@ -72,7 +72,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (Green [Transparent], 180g), CD Album Stereo, All Media Limited Edition Numbered |
+| Format         | 1× Vinyl (Green [Transparent], 180g) LP, Album, Stereo | 1× CD Album, Stereo | 1× All Media Limited Edition, Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOM633 |
 | Notes | Limited to 600 copies. Hand numbered on back of vinyl sleeve. This version exclusive to burningshed.com Pre-Orders from Burning Shed came with a signed postcard and fridge magnet.  Presented in a Die-cut sleeve. Track durations CD taken from dBpoweramp. The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol. |

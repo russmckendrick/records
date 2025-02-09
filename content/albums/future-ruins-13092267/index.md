@@ -58,7 +58,7 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Future_Ruins |
-| Format         | Vinyl LP Album (Red) |
+| Format         | 1× Vinyl (Red) LP, Album |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT121LP |
 | Notes | Indies exclusive heavyweight red vinyl. Includes MP3 Download Code.  |

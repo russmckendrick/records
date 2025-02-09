@@ -78,7 +78,7 @@ Exile on Main St. was originally met with mixed reviews before receiving strong 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exile_on_Main_St. |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold ) |
+| Format         | 2× Vinyl (Gatefold ) LP, Album, Reissue |
 | Label          | Rolling Stones Records |
 | Catalog Number | 271 428-6 |
 | Notes | Packaged in a gatefold sleeve and printed inner sleeves.  ℗ 2010 Promotone B.V. under exclusive license to Universal Music International B.V. © 2010 Promotone B.V. under exclusive license to Universal Music International B.V.  A1, A2, A4, A5, B2, B3, C1, C2, C3, C4, C5, D4 published by EMI Music Publishing Ltd. A3 published by Campbell Connelly & Co. Ltd. B1, B4, D1 published by ABKCO Music, Inc. C3 published by Belfern Music Ltd. D2 published by Kobalt Music Publishing / MPCA King Of Spades D3 published by Westminster Music Ltd.  Made in the EU.  |

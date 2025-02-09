@@ -72,7 +72,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Splatter [Green Transparent with Dark Green & White Splatter]), CD Promo |
+| Format         | 1× Vinyl (Splatter [Green Transparent with Dark Green & White Splatter]) LP, Album, Limited Edition, Reissue, Repress | 1× CD Promo |
 | Label          | Heavenly |
 | Catalog Number | HVNLP71C |
 | Notes | Good Humor '25th Anniversary Edition' orders from the Saint Etienne store with the CD "Los Angeles '99" a live recording issued in a card sleeve on Foreign Office (FO 021)   LP : Special splatter vinyl reissue edition of the eleven-track collection. This features the original artwork and inner sleeve with the LP pressed on transparent green with dark green and white splatter effect. Made in Germany ℗ & © 2023 Saint Etienne Limited under exclusive license to [PIAS] All tracks produced [...] at Tambourine Studios, Malmo Phonographic copyright ℗, copyright ©, licensed to & produced, publishing, design, lacquer cut by , liner notes & management credits are from the LP Includes digital download card for Good Humor.  CD : ℗ 2023 Saint Etienne Limited © 1999 Saint Etienne Limited Promotional - Not for resale |

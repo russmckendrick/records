@@ -59,7 +59,7 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Short_Stories_(Jon_and_Vangelis_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5030 |
 | Notes | Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped |

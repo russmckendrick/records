@@ -54,7 +54,7 @@ Love in Constant Spectacle is the twelfth solo studio album by English musician 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_in_Constant_Spectacle |
-| Format         | Vinyl LP Album (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album |
 | Label          | Fire Records |
 | Catalog Number | FIRELP682 |
 | Notes | Hype Sticker:  Jane Weaver  Love In Constant Spectacle "An Artist at the top of her game" NPR Rough Trade Exclusive Clear Vinyl  Download code included. |

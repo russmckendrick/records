@@ -56,7 +56,7 @@ In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Gold Nugget) |
+| Format         | 1× Vinyl (Gold Nugget) LP, Album, Limited Edition |
 | Label          | Dead Oceans |
 | Catalog Number | DOC316 |
 | Notes | Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code. Rear sticker: Made In Canada  A small amount of autographed copies were made available through Newbury Comics.  © & ℗ 2022 Dead Oceans, Inc.  Engineering [...] at Slow Fawn in Accord, NY Additional Recording [...] at Sam Phillips Recording in Memphis, TN Additional Engineering [...] in New York, NY Mixed and Mastered [...] at Isokon in Kingston, NY |

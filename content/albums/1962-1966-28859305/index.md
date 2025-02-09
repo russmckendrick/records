@@ -98,7 +98,7 @@ The 1973 collection known to fans as “The Red Album” (released simultaneousl
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Limited Edition Mixed Reissue Remastered Stereo (Half-Speed Master, Red) |
+| Format         | 3× Vinyl (Half-Speed Master, Red) LP, Compilation, Limited Edition, Mixed, Reissue, Remastered, Stereo |
 | Label          | Apple Records |
 | Catalog Number | 0602455920539 |
 | Notes | Gatefold sleeve + insert.  Half-speed master on limited edition red vinyl. Sticker on shrinkwrap Made in Germany.  Matrix numbers are hand etched in the runout area. Plating marks like '1I+', '1Iᛚ', '1=X','1=⊥', ' 1=-' and '⋀+⋁' are mirrored. |

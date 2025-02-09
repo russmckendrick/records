@@ -57,7 +57,7 @@ Pigeon Hole is a Canadian hip hop group from Vancouver. They were previously kno
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pigeon_Hole_(band) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Play It Again Sam Records |
 | Catalog Number | BIAS 185 |
 | Notes | Regular release without 7" bonus single    Released in conjunction with Playtime  Recorded at Studio House August / September 1990    Track A4 is named "Part 4" because it is actually part 4 of the song "Music Is Shit" off the group's debut EP, "Music Is Shit EP".    A1 to A3, B2 to B5 published by Copyright Control  A4 published by Playtime Songs/Sands Enterprises Ltd.  B1 published by Playtime Songs/Copyright Control   |

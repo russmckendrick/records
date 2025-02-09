@@ -53,7 +53,7 @@ Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Sta
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Anti- |
 | Catalog Number | 27678-3 |
 | Notes | 180 Gram |

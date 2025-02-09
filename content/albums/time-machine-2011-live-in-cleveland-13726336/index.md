@@ -77,7 +77,7 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Time_Machine_2011:_Live_in_Cleveland |
-| Format         | Vinyl 4× LP Album Reissue (180g) |
+| Format         | 4× Vinyl (180g) LP, Album, Reissue |
 | Label          | Anthem (5) |
 | Catalog Number | R1 176655 |
 | Notes | Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021 |

@@ -63,7 +63,7 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pacific_Ocean_Blue |
-| Format         | Vinyl LP Album Reissue Remastered (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |
 | Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.  Hype sticker affixed to outer bag: Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing  Recorded At: Brother Studios, Santa Monica, Calif. Mastered At: L.R.S. In Burbank, Calif.  Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.  All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music  Runouts are etched. |

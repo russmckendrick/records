@@ -53,7 +53,7 @@ styles: ["Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
+| Format         | 2× Vinyl (Gatefold, Purple Translucent ) LP, Compilation, Limited Edition, Reissue |
 | Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |
 | Notes | Made in Czech Republic.  Runouts are Etched and stamped; e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |

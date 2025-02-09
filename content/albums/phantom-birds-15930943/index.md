@@ -59,7 +59,7 @@ Phantom Birds is the eighth studio album by English comedian and musician Matt B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Phantom_Birds |
-| Format         | Vinyl LP Album Limited Edition (Bone) |
+| Format         | 1× Vinyl (Bone) LP, Album, Limited Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP536B |
 | Notes | Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself. |

@@ -58,7 +58,7 @@ The Greatest Hits, So Far is a greatest hits album by English post-punk band Pub
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Hits,_So_Far |
-| Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Compilation, Reissue |
 | Label          | Virgin |
 | Catalog Number | 535109-2 |
 | Notes | Includes a voucher to download MP3 version of the album. |

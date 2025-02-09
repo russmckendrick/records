@@ -54,7 +54,7 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_View_from_Halfway_Down |
-| Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
+| Format         | 1× Vinyl (Blue ) LP, Album, Limited Edition, Stereo |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR170LP |
 | Notes | Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.) |

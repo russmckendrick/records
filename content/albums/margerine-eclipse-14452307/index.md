@@ -67,7 +67,7 @@ By June 2004, Margerine Eclipse had sold over 40,000 copies in the USA. A remast
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Margerine_Eclipse |
-| Format         | Vinyl 2× LP Album Reissue, Vinyl LP, All Media Limited Edition Numbered Remastered (Clear, Expanded Edition) |
+| Format         | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP | 1× All Media (Clear, Expanded Edition) Limited Edition, Numbered, Remastered |
 | Label          | Warp Records |
 | Catalog Number | D-UHF-D29R |
 | Discogs URL    | [Stereolab - Margerine Eclipse](https://www.discogs.com/release/14452307-Stereolab-Margerine-Eclipse) |

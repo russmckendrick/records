@@ -49,7 +49,7 @@ styles: ["Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Red, Reworked) |
+| Format         | 1× Vinyl (Red, Reworked) LP, Limited Edition |
 | Label          | The Point Of Departure Recording Company |
 | Catalog Number | PODR010LP |
 | Notes | Tough Guys Don't Dance, 20th Anniversary, Reworked, Remixed, Remastered Limited Edition Red Vinyl |

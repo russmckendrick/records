@@ -79,7 +79,7 @@ Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Monolithic_Baby! |
-| Format         | Vinyl 2× LP 45 RPM Album Reissue |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1066VINYL |
 | Notes | Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.) |

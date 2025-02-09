@@ -59,7 +59,7 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bobbie_Gentry%27s_The_Delta_Sweete_Revisited |
-| Format         | Vinyl LP Limited Edition (180g) |
+| Format         | 1× Vinyl (180g) LP, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA852V |
 | Notes | Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download"  |

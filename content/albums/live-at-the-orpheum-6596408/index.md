@@ -63,7 +63,7 @@ All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_the_Orpheum |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLV1 |
 | Notes | Gatefold Sleeve. 200 Gram Super Heavyweight Vinyl. The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1. ℗ & © 2015 Robert Fripp on behalf of King Crimson Made in England.  Releases made available to the trade by Record Company DGM at a later date than the release date in 2015 may contain colour-printed inner sleeves: DGM's catalogue of King Crimson releases (see pictures, here up to 2021). All other features including the matrices / runouts are identical. |

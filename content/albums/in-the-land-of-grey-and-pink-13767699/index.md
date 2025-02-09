@@ -51,7 +51,7 @@ The album was critically well received but was not a chart success, which led to
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Land_of_Grey_and_Pink |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gatefold, Transparent) |
+| Format         | 1× Vinyl (Gatefold, Transparent) LP, Album, Limited Edition, Reissue |
 | Label          | Deram |
 | Catalog Number | 7763089 |
 | Notes | HMV limited edition of 750 copies on transparent vinyl.  English liner notes uncredited. |

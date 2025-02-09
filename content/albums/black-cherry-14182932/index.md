@@ -63,7 +63,7 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Cherry_(Goldfrapp_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Purple) |
+| Format         | 1× Vinyl (Purple) LP, Album, Limited Edition, Reissue, Special Edition |
 | Label          | Mute |
 | Catalog Number | Stumm196 |
 | Notes | Includes exclusive art print.  Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.  ℗ & © 2003 Mute Records Ltd., a BMG company. Manufactured in the EU. |

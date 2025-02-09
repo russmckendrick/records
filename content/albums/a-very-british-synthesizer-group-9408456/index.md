@@ -72,7 +72,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation (180g) |
+| Format         | 3× Vinyl (180g) LP, Compilation |
 | Label          | Virgin EMI Records |
 | Catalog Number | 571 111-5 |
 | Notes | Triple LP half-speed mastered box set.  Includes 20 page booklet & digital download code (files featured on this vinyl edition in .WAV format).  First 100 pre-orders (between all formats of the release) from the official Human League store received a free A2 poster signed by Philip, Joanne and Susan.  |

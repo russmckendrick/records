@@ -60,7 +60,7 @@ Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Front_by_Front |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Red Rhino Europe |
 | Catalog Number | RRE LP 7 |
 | Notes | 140 gram vinyl.  |

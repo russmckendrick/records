@@ -56,7 +56,7 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP007 |
 | Notes | Includes free download of entire album.  Includes PVC protective outer sleeve.  Lyrics on back cover. |

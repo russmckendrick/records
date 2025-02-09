@@ -52,7 +52,7 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sleep%27s_Holy_Mountain |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Earache |
 | Catalog Number | MOSH079FDR |
 | Notes | New edition on black vinyl with different matrix. Same layout as the [url=https://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/6869007]2015[/url] press.  Comes with printed inner sleeve.  There is also [url=http://www.discogs.com/Sleep-Sleeps-Holy-Mountain/release/7379920]mispress[/url] version on black vinyl, the copies were not issued for general sale. |

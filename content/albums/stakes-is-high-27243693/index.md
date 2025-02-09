@@ -69,7 +69,7 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stakes_Is_High |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Chrysalis |
 | Catalog Number | RMM-054-1 |
 | Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   Records housed in black poly lined inner sleeves.  Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |

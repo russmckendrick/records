@@ -42,7 +42,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" Single (Gammon coloured vinyl) |
+| Format         | 1× Vinyl (Gammon coloured vinyl) 7", Single |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |
 | Discogs URL    | [Vennart - Dick Privilege](https://www.discogs.com/release/14729801-Vennart-Dick-Privilege) |

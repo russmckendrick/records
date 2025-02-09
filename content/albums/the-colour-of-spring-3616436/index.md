@@ -69,7 +69,7 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Colour_of_Spring |
-| Format         | Vinyl LP Album Reissue Stereo (180g), DVD DVD-Video NTSC Album Reissue Stereo |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo | 1× DVD DVD-Video, NTSC, Album, Reissue, Stereo |
 | Label          | EMI |
 | Catalog Number | EMCX 3506 |
 | Notes | This reissue set includes: - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".  Made in the E.U.  A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels. |

@@ -68,7 +68,7 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White/Black Swirl, 180 Gram) |
+| Format         | 2× Vinyl (White/Black Swirl, 180 Gram) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Friday Music |
 | Catalog Number | FRM-40711 |
 | Notes |  Audiophile Translucent White & Black Swirl Limited Edition on 180 Gram Vinyl with Tri-Fold Cover  Identical to 2015 Reissue, [r7810564], but on different colored vinyl. |

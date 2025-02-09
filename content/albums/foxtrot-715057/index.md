@@ -60,7 +60,7 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Foxtrot_(album) |
-| Format         | Vinyl LP Album (Textured Gatefold, Red Spine Text) |
+| Format         | 1× Vinyl (Textured Gatefold, Red Spine Text) LP, Album |
 | Label          | Charisma |
 | Catalog Number | CAS 1058 |
 | Notes | Original UK-release with outside textured gatefold sleeve, red spine text & large mad hatter labels. Stamped A1-U Porky/B1-U Pecko runouts. First catalogue number CAS 1058 on cover, 2nd CAS .1058 on labels. Red Charisma paper inner sleeve.**  Track durations are not given on this release.  Labels: • ℗ 1972 • Manufactured and distributed by B&C Records Ltd.  Sleeve: • Recorded at Island Studios, London. • Marketed by B&C Records Ltd., 37 Soho Square, London, W1. • Printed & made by the E. J. Day Group, London & Bedford • Michael Rutherford is listed as Micheal Rutherford.  **Direct quote from ‘The B&C Discography 1968 to 1975’:- “Original issue (“A-1U” and “B-1U” matrix copies) in textured sleeve included either a plain white inner sleeve or the “Charisma puts a little colour in your cheeks” advertising inner (the advertising inner sleeve was most likely not included with the very first batch)”  Runouts are stamped, except for the PORKY/PECKO etchings. Matrix number on labels is in parentheses. |

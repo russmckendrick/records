@@ -56,7 +56,7 @@ styles: ["Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Nude Records |
 | Catalog Number | NUDE 23 LP |
 | Discogs URL    | [Louise Rhodes - Theyesandeye](https://www.discogs.com/release/8812487-Lou-Rhodes-Theyesandeye) |

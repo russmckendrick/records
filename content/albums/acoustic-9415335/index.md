@@ -67,7 +67,7 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Acoustic_(Simple_Minds_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Caroline International |
 | Catalog Number | SMAC02 |
 | Notes | From sticker: "180gram Double Heavyweihgt Vinyl - 12 Classics Tracks Reworked Acoustically Including Promised You A Miracle - Alive And Kicking - Don't You (Forget About Me) Plus 3 exclusive Bonus Tracks"  Includes voucher to redeem Wav files for all 15 tracks.  Made in the EU |

@@ -68,7 +68,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR319 |
 | Notes | 1st pressing on black vinyl /1,000 Includes twelve-page booklet with pictures, lyrics, credits, and thanks.  [booklet:] 1. (Relaxo Music, BMI) 2. (Relaxo Music, BMI) 3. (Relaxo Music, BMI) 4. (Relaxo Music, BMI) 5. (Relaxo Music, BMI) 6. (Relaxo Music, BMI) 7. (Relaxo Music, BMI) 8. (Relaxo Music, BMI) 9. (Relaxo Music BMI) 10. (Slacker Music, SESAC) 11. (Relaxo Music, BMI) 12. (Relaxo Music, BMI)  1,2, 3, 4, 5, 6, 8, 11, 12 basic tracks recorded […] at Shillelagh Studios, Cranford, NJ  Additional tracks on 5 recorded […] at Deep Dive, Brooklyn  9 recorded […] at Ernestos, Sittard  7 basic tracks recorded […] at Curlys Studio, Brooklyn Additional tracks recorded […] at Shillelagh Studios, Cranford, NJ  10 basic tracks recorded […] at Curlys Studio, Brooklyn Additional tracks […] at Stabby Road, Brooklyn  1,2,3,8,9,10,11 mixed […] at Stabby Road Studio  4,5,7 initial mixes […] at Stabby Road Additional mixing […] at Deep Dive, Brooklyn 6 mixed […] at Dont Trip Studios, Brooklyn 12 mixed […] at Deep Dive, Brooklyn Mastering […] at Deep Dive, Brooklyn  [back cover:] Made in CZ Pirates Press |

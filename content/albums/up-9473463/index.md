@@ -80,7 +80,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Up_(Peter_Gabriel_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR11 |
 | Notes | 33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped. |

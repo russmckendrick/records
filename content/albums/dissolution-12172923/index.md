@@ -56,7 +56,7 @@ Dissolution  (stylised as di§olution) is the twelfth studio album by British pr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dissolution_(The_Pineapple_Thief_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Crystal Clear) |
+| Format         | 1× Vinyl (Crystal Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE997 |
 | Notes | The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist. |

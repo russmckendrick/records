@@ -61,7 +61,7 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yummy_(James_album) |
-| Format         | Vinyl LP Album Special Edition (Gatefold, Red [Marble], 180g) |
+| Format         | 1× Vinyl (Gatefold, Red [Marble], 180g) LP, Album, Special Edition |
 | Label          | Virgin Music |
 | Catalog Number | NBLM003LPX |
 | Notes | ℗ & © 2024 Nothing But Love Music.  Indie exclusive. 500 copies from [l1942119] came with an obi-strip signed by the band. Available from other retailers minus the signed obi.  Catalogue number on sleeve: NBLM003LPX Catalogue number on Assai obi-strip: NBLM3LPX |

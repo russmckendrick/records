@@ -60,7 +60,7 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kimono_My_House |
-| Format         | Vinyl LP Album (EMI Press) |
+| Format         | 1× Vinyl (EMI Press) LP, Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9272 |
 | Notes | Original issue with Island pink rim palm tree labels. Fully laminated sleeve with pinched spine ends, without text on the front. Includes a cardboard photo / lyric inner sleeve.  Printed in England by Robor Limited.  ℗ 1974 Island Records Ltd  This is an EMI Records contract pressing as identified by the matrix printed in the runout area of the record. |

@@ -72,7 +72,7 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pure_Comedy |
-| Format         | Vinyl 2× LP Album Deluxe Edition (Aluminium/Copper), Vinyl 7", All Media Limited Edition |
+| Format         | 2× Vinyl (Aluminium/Copper) LP, Album, Deluxe Edition | 1× Vinyl 7" | 1× All Media Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA628VX |
 | Notes | Released in a die-cut customizable gatefold sleeve with 4 interactive “background” sleeves, with clear slipcase over. Includes a fold-out poster and an exclusive holographic tarot card by Ed Steed, and download code. Tracklisting, barcode and copyrights are printed on a large sticker affixed to the shrinkwrap. LP1 is aluminium, LP2 is copper.  Pre-orders and initial copies sold in stores came with this limited edition bonus 7".  Very special thanks to Gavin Bryars and Ed Steed.  Published by Cripple Creek Fairies (ASCAP) / Kobalt Music Publishing.  ℗ & © Bella Union & 2017 Under exclusive license to [PIAS] |

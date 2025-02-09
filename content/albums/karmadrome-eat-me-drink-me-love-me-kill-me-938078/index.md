@@ -42,7 +42,7 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" 45 RPM Single |
+| Format         | 1× Vinyl 7", 45 RPM, Single |
 | Label          | RCA |
 | Catalog Number | PB45467 |
 | Notes | The labels state 33⅓, but the record plays at 45 RPM. |

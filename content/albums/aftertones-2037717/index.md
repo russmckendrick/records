@@ -59,7 +59,7 @@ Aftertones is the eighth album by American singer/songwriter Janis Ian, recorded
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Aftertones |
-| Format         | Vinyl LP Album (Terre Haute Pressing) |
+| Format         | 1× Vinyl (Terre Haute Pressing) LP, Album |
 | Label          | Columbia |
 | Catalog Number | PC 33919 |
 | Notes | "T" in runouts denotes a [l403953] pressing. |

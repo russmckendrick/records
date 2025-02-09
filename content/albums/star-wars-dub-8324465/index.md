@@ -54,7 +54,7 @@ styles: ["Dub"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Limited Edition, Reissue |
 | Label          | Burning Sounds |
 | Catalog Number | BSRLP988 |
 | Discogs URL    | [Phil Pratt - Star Wars Dub](https://www.discogs.com/release/8324465-Phill-Pratt-Star-Wars-Dub) |

@@ -60,7 +60,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & White Swirled, 180g) |
+| Format         | 1× Vinyl (Blue & White Swirled, 180g) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2598 |
 | Notes | Limited edition of 1500 numbered copies on blue & white swirled vinyl Available on vinyl for the first time Includes insert 180 gram audiophile vinyl [sticker on protective sleeve front]  Recorded at Stanbridge Farm, Sussex, May-June 1996. (except # 6 recorded at Piercing Sound, Burbank, CA 1995.) Mixed at First Protocol, [...]. Mastered at Tape to Tape [...]. © 1997, 2020 sony music entertainment. [insert]  originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment. manufactured & distributed by music on vinyl b.v. for sony music entertainment. made in the eu. [sleeve & labels]  Hype sticker on resealable protective sleeve front Stamp-numbering on rear sleeve 12" square insert & poly-lined inner sleeve |

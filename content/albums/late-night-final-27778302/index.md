@@ -61,7 +61,7 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Late_Night_Final |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |
 | Notes | Independent record shops exclusive, limited to 400 copies.  Rear of sleeve: Made in UK |

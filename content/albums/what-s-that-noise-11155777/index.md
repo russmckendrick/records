@@ -55,7 +55,7 @@ styles: ["House", "Breaks", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985459671 |
 | Notes | Includes download code |

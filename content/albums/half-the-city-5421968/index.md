@@ -56,7 +56,7 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Stereo |
 | Label          | Single Lock Records |
 | Catalog Number | SL 003 |
 | Notes | Includes printed inner sleeve and download coupon for entire album in MP3 format.    Recorded at The Nutthouse except "Sugar Dyed" was recorded at Ol' Elegante Studios. Additional overdubs recorded at Up and In Studio.  Mixed at FAME Studio A    © and ℗ 2014 Single Lock Records |

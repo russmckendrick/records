@@ -61,7 +61,7 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wild_Planet |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Island Records |
 | Catalog Number | 538798 0 |
 | Notes | 180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980 |

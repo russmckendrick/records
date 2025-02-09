@@ -62,7 +62,7 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Meddle |
-| Format         | Vinyl LP Album Stereo (A-1U/B-1U Runouts) |
+| Format         | 1× Vinyl (A-1U/B-1U Runouts) LP, Album, Stereo |
 | Label          | Harvest |
 | Catalog Number | SHVL 795 |
 | Notes | This is the original UK release with A1U/B1U runouts, fully textured (outside & inside) gatefold sleeve & 'The Gramophone Co.' rimtext on green/yellow Harvest labels. EMI/Harvest polylined paper inner sleeve, advertising other Harvest releases.  First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back in parentheses.  Labels:  • The Gramophone Co, Ltd. (rimtext) • Boxed EMI logo (above Harvest logo) • Made in Gt. Britain (at 6 o'clock) • ℗ 1971   Sleeve: • Recorded at Air Studios, EMI Studios Abbey Road and at Morgan Studios London 1971 • ℗ 1971. • E.M.I Records (The Gramophone Company Ltd) • Hayes • Middlesex • England  • Harvest - Trade Mark of The Gramophone Co. Ltd. • A Company of The [url=https://www.discogs.com/label/293204]EMI[/url] Group • Made and Printed in Great Britain • File under POPULAR : Pop Groups • 7110 • TPS • Printed and made by Garrod & Lofthouse Ltd. • SHVL 795 • Patent No. 1224339  All songs published by World Copyrights Ltd. except "You'll Never Walk Alone": Williamson Music Ltd. Chappell.    |

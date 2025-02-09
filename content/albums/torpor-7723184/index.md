@@ -48,7 +48,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Svart Records |
 | Catalog Number | SVR338 |
 | Notes | 500 copies made. including booklet insert with visionary-sleeve note-narrative by [a3049875] |

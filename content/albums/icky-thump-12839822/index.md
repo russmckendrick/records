@@ -68,7 +68,7 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Icky_Thump |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Record Store Day, Reissue |
 | Label          | Third Man Records |
 | Catalog Number | TMR-500 |
 | Notes | Black Friday release by third man records.  Direct-to-board double pocket gatefold LP jacket. 180 gram weight vinyl with 4-page insert.  The new TMR version has a printed inner sleeve with a black and white image. Audio sourced from the original master tapes. 100% all-analog mastering by NRP with even more superior sound than previous pressings.  © & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC. |

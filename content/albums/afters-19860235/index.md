@@ -58,7 +58,7 @@ The Afters is an American Christian rock band founded by Josh Havens and Matt Fu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Afters |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1120 |
 | Discogs URL    | [The Helicopter Of The Holy Ghost - Afters](https://www.discogs.com/release/19860235-The-Helicopter-Of-The-Holy-Ghost-Afters) |

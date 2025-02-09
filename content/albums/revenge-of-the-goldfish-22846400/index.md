@@ -59,7 +59,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange Transparent, 30th Anniversary) |
+| Format         | 1× Vinyl (Orange Transparent, 30th Anniversary) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | ldung19 |
 | Notes | Hype sticker on sleeve. Inner sleeve with lyrics reports "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |

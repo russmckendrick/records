@@ -65,7 +65,7 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maxinquaye |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP507 |
 | Notes | Gatefold sleeve with insert.  Original release ℗ 1995 Island Records. This release ℗ & © 2012 Universal Music B.V. Manufactured and distributed by Music On Vinyl B.V. for Universal Music B.V.  Made in the EU.  Sampled material - A1: 'Moonchild' by [a30318] courtesy of Island Music Ltd. / EMI Music Publishing Ltd. / London Records Ltd. A4: 'Ike's Rap II' by [a48432] courtesy of East Memphis Music / Fantasy Records Inc. A5: 'Suffer' by [url=https://www.discogs.com/artist/28970-The-Smashing-Pumpkins]Smashing Pumpkins[/url] courtesy of UNI Records Inc. / Hut Records Ltd B3: 'Look In My Eyes' by [a383376] courtesy of Rhino Records / EMI Records Ltd.  Hype sticker - [Music On Vinyl logo] Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com |

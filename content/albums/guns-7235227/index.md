@@ -57,7 +57,7 @@ Guns is the fifth studio album by English rock band Cardiacs. It was recorded an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Guns_(Cardiacs_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Numbered |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP027 |
 | Notes |  "The first 200 pressings will have a special sticker to make them even more special." (They are numbered) Pressings without the shrink wrap sticker are found here: [r=12334086]  Comes in a gatefold sleeve with a picture inner sleeve and a download coupon.   Recorded and mixed at Apollo 8 London England.  Made in England.  ©&℗ Alphabet 1999 |

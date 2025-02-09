@@ -53,7 +53,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Arista |
 | Catalog Number | 206 559 |
 | Discogs URL    | [Various - Ghostbusters - Original Soundtrack Album](https://www.discogs.com/release/7318608-Various-Ghostbusters-Original-Soundtrack-Album) |

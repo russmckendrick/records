@@ -63,7 +63,7 @@ Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Very_(Pet_Shop_Boys_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295823085 |
 | Notes | [Sticker on shrinkwrap:] Pressed onto 180g heavyweight  vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company.  All rights reserved. Made in the EU  [From inner sleeve:] Recorded at Sarm West, London. Orchestra recorded at Angel Studios, London. Choir on Go West recorded at The Power Station, New York. Mixed at Rak Studios, London. Mastered at Gateway Mastering, Maine, USA.  Optimal credit extrapolated from runout data. |

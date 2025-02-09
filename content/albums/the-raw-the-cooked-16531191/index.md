@@ -52,7 +52,7 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (White, Gatefold) |
+| Format         | 1× Vinyl (White, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | London Records |
 | Catalog Number | LMS5521363 |
 | Notes | Anniversary Edition Reissue on White Vinyl within Gatefold Sleeve. Includes download featuring rare & unreleased tracks. 32 tracks total in MP3 - 320 Kbits/s quality.  Initial copies from the artist's store came with a signed print |

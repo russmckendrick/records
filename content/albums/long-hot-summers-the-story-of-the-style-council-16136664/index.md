@@ -73,7 +73,7 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Limited Edition Remastered |
+| Format         | 3× Vinyl LP, Compilation, Limited Edition, Remastered |
 | Label          | Polydor |
 | Catalog Number | 089 411-9 |
 | Notes | Tracks C5 and F5 marked as previously unreleased. |

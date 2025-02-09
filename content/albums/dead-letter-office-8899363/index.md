@@ -64,7 +64,7 @@ The album was initially issued as a 15-song collection on vinyl and cassette, bu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dead_Letter_Office_(album) |
-| Format         | Vinyl LP Compilation Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Compilation, Reissue |
 | Label          | I.R.S. Records |
 | Catalog Number | 00602547899835 |
 | Notes | Includes voucher to download MP3 version of the album.   ℗ 1987 © 2016 International Record Syndicate, Inc., a division of UMG Recordings, Inc. Made in the EU. |

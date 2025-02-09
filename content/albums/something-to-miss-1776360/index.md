@@ -47,7 +47,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Single |
+| Format         | 1× Vinyl 12", Single |
 | Label          | Epic |
 | Catalog Number | 661116 6 |
 | Discogs URL    | [Senseless Things - Something To Miss](https://www.discogs.com/release/1776360-Senseless-Things-Something-To-Miss) |

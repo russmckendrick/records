@@ -66,7 +66,7 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Time_(The_Time_album) |
-| Format         | Vinyl LP Album Reissue Remastered (Red), Vinyl LP Compilation Remastered (White) |
+| Format         | 1× Vinyl (Red) LP, Album, Reissue, Remastered | 1× Vinyl (White) LP, Compilation, Remastered |
 | Label          | Warner Records |
 | Catalog Number | 603497843954 |
 | Notes | Hype sticker: The Time's classic first album includes the original record plus all 3 album singles - A-sides and b-sides Limited edition red and white vinyl  Optional: Copies sold in Italy have a holographic SIAE sticker from 'Warner music'  Cover: This reissue ℗ & © 2021, 1981 Warner Records Inc., a Warner Music Group Company [...] Manufactured for & Marketed by Rhino Entertainment Company, a Warner Music Group Company, [...] Made in Czech Republic.  LP1: Red vinyl in plain white poly-lined inner-sleeve LP2: White vinyl in plain black poly-lined inner-sleeve |

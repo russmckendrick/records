@@ -56,7 +56,7 @@ A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Beginner%27s_Guide |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | London Records |
 | Catalog Number | LMS1725246 |
 | Notes | Manufactured in France.  On hype sticker:  11 classic tracks including Chime, Belfast, Halcyon, Beached, Dirty Rat & more. |

@@ -63,7 +63,7 @@ Protection is the second studio album by English electronic music group Massive 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Protection_(Massive_Attack_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Circa |
 | Catalog Number | 5700962 |
 | Notes | Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK. All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK. Mastered at The Exchange.  "Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.  "Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.  "Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.  ℗ & © 1994 Circa Records Ltd. ℗ & © 2016 Virgin Records Ltd.  Universal International Music B.V. Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands  Made in the EU.  Includes a download code for a digital copy of the album in CD quality WAV files. Some copies may not include the download code. |

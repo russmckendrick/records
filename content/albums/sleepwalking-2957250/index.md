@@ -56,7 +56,7 @@ Sleepwalking occurs during slow-wave sleep (N3) of non-rapid eye movement sleep 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sleepwalking |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 6014 |
 | Notes | ℗ © 1993 Chrysalis Records Ltd., track 2 ℗ 1992 Chrysalis Records Ltd.  Release features Chrysalis and Scorch Records logos.   |

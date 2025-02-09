@@ -71,7 +71,7 @@ Pink Flag is the debut album by the British post-punk band Wire. It was released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Flag |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Pinkflag |
 | Catalog Number | PF11LP |
 | Notes | Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag   |

@@ -65,7 +65,7 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Party%27s_Over_(Talk_Talk_album) |
-| Format         | Vinyl LP Album Reissue Repress (White, 40th Anniversary Edition) |
+| Format         | 1× Vinyl (White, 40th Anniversary Edition) LP, Album, Reissue, Repress |
 | Label          | Parlophone |
 | Catalog Number | 0190296419638 |
 | Notes | Textured outer sleeve. Printed inner sleeve. Circular sticker on shrink front: 40th Anniversary White Vinyl Edition 0190296419638 On spine: Talk Talk - The Party's Over - 0190295792626 On back cover : 0190295792626 Stereo ℗ 1982 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Stickered barcode on shrink rear over printed barcode (without numbering) in right hand lower corner Repress of the 2017 issue: [r=11009246]  |

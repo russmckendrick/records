@@ -61,7 +61,7 @@ Women in Technology is the second studio album by British recording artist White
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Women_in_Technology_(album) |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
+| Format         | 1× Vinyl (White, 180g) LP, Album, Record Store Day, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3224 |
 | Notes | 180 gram audiophile vinyl Includes insert RSD 2023 sticker Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."  Available on vinyl for the first time Limited numbered edition of 1000 individually copies on white coloured vinyl |

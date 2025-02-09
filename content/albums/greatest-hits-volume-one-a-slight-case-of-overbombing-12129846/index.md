@@ -58,7 +58,7 @@ styles: ["Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Stereo (Gatefold Sleeve) |
+| Format         | 2× Vinyl (Gatefold Sleeve) LP, Compilation, Reissue, Stereo |
 | Label          | Merciful Release |
 | Catalog Number | 0190295695071 |
 | Notes | This compilation ℗ 1993 & © 2018 Warner Music UK Ltd.  Track A1: ℗ 1993 Warner Music UK Ltd. Track A2: ℗ 1992 Warner Music UK Ltd. Track A3: ℗ 1991 Warner Music UK Ltd. Track B1 to B3: ℗ 1990 Warner Music UK Ltd. Track C1: ℗ 1993 Warner Music UK Ltd. Track C2: ℗ 1987 Warner Music UK Ltd. Track D1: ℗ 1993 Warner Music UK Ltd. Tracks D2, D3: ℗ 1985 Warner Music UK Ltd. Tracks D4: ℗ 1984 Warner Music UK Ltd.  On labels: Made in the EU.   |

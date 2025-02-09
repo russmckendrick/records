@@ -54,7 +54,7 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dance_on_the_Blacktop |
-| Format         | Vinyl LP Album Limited Edition (White Chrysanthemum (White)) |
+| Format         | 1× Vinyl (White Chrysanthemum (White)) LP, Album, Limited Edition |
 | Label          | Relapse Records |
 | Catalog Number | RR7394 |
 | Notes | UK indie retailer exclusive.  From sticker on plastic cover sleeve: LP3927R - White Chrysanthemum (White) Version - Limited to 500 copies.  Comes in a gatefold cover with a lyric/credit sheet and a digital download code.  Recorded at Dreamland Recording, West Hurley, NY. Overdubs at Russell Street Recording, Greenpoint, Brooklyn, NY. Mixed at Strange Weather, Greenpoint, Brooklyn, NY. Additional mixing at Water Music Recorders, Hoboken, NJ. Mastered at Sterling Sound, NY.  ℗&© 2018 Relapse Record Inc. Made in EU. |

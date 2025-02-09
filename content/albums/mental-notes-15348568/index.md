@@ -64,7 +64,7 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mental_Notes_(Split_Enz_album) |
-| Format         | Vinyl LP Album Reissue Remastered (White, 180g) |
+| Format         | 1× Vinyl (White, 180g) LP, Album, Reissue, Remastered |
 | Label          | Demon Records |
 | Catalog Number | DEMREC540 |
 | Notes | Gatefold Runouts are stamped |

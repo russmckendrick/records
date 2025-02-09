@@ -59,7 +59,7 @@ styles: ["Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66022 1 8 |
 | Notes | Comes with full-size (12") 16 page colour booklet.  Picture inner sleeve.   |

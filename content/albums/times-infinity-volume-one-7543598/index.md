@@ -53,7 +53,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB121-1 |
 | Notes | (c) (p) 2015 The Dears under exclusive license to Pheromone Recording & Dangerbird Records LLC 3801 sunset boulevard los angeles ca 90026  Pressed By information is not listed. Information derived from runouts.  |

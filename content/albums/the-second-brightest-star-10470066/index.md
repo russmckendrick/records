@@ -54,7 +54,7 @@ The Second Brightest Star is the eleventh studio album by the English progressiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Second_Brightest_Star |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
+| Format         | 2× Vinyl (180 Gram, Transparent Sea Foam Green) LP, Album, Limited Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG056 |
 | Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |

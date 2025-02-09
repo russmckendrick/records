@@ -65,7 +65,7 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Speaking_in_Tongues_(Talking_Heads_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1-23883 |
 | Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies. |

@@ -63,7 +63,7 @@ It was voted number 319 in the third edition of Colin Larkin's All Time Top 1000
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radio_City_(album) |
-| Format         | Vinyl LP Album Reissue Stereo Mono (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo, Mono |
 | Label          | Ardent Records (2) |
 | Catalog Number | ADS-1501 |
 | Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Tip-on Sleeve A1 is mono.  All other tracks are stereo  From back cover: Photographs by Bill Eggleston/Cenotaph January 1974 ℗ 2019 & © 1973 Craft Recordings Made in U.S.A.  On label: All tracks published by Koala/Birdees (ASCAP)  Runout details: Variant 1 -- Both sides are etched. Variant 2 -- Stamped vs etched state not specified Variant 3 -- Both sides are etched. On side A '10#' has been scratched out Variant 4 -- Both sides are etched.  Track A1 is listed as "O My Soul" on the back cover, and "O, My Soul" on the label. |

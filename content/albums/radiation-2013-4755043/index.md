@@ -59,7 +59,7 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered (180 gram, Blue Translucent) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (180 gram, Blue Translucent) Album, Reissue, Remastered |
 | Label          | Madfish |
 | Catalog Number | SMALP996 |
 | Notes | This record features the 2013 remaster/remix by Michael Hunter, on translucent blue heavyweight vinyl. Comes in a gatefold sleeve.  Written and Recorded at The Racket Club, Buckinghamshire, between November '97 and June '98. Mixed at The Forge, Oswestry.  Published by Hornall Brothers Publishing.  Side D features an etching by cover artist, Carl Glover.  ℗ 2013 Intact Recordings under exclusive licence to Snapper Music Plc. © 2013 Intact Recordings. Madfish is a Snapper Music Label.  [Back cover reads]: Made in Poland  [Labels reads]: Made in Germany.  Red sticker reads: Marillion Radiation 2013 Deluxe Gatefold 2LP Edition on blue vinyl with etching  Newly remixed and remastered by Michael Hunter with new artwork  Madfish www.madfishmusic.com/marillion“ SMALP996  |

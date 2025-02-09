@@ -60,7 +60,7 @@ X, or x, is the twenty-fourth letter of the Latin alphabet, used in the modern E
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/X |
-| Format         | Vinyl LP Album Limited Edition Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Reissue |
 | Label          | Interscope Records |
 | Catalog Number | 490 864-1 |
 | Notes | A reissue of the [url=http://www.discogs.com/Queens-Of-The-Stone-Age-X/release/487593]original UK and European LP[/url]. Considered by many to be hugely inferior to the original version both aurally and physically with blurred artwork and printing. Unlike the original version this release has the title information printed on the cover (not a sticker), doesn't have the message "Don't make me beg, just fuck me" on the back cover and doesn't include any printed inner sleeve or insert, only a simple paper record sleeve. The sound and print quality of this version is so low that some have felt it is a counterfeit.  "Ode To Clarissa" is the bonus track.  ℗ 2000 Interscope Records. © 2000 Interscope Records. The copyright in this sound recording is owned by Interscope Records an licenced exclusively to Polydor Ltd (UK), a Universal Music Company.  Made in the E.U. |

@@ -78,7 +78,7 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Munki |
-| Format         | Vinyl LP Stereo (Blue 180g), Vinyl LP Stereo (Red 180g), All Media Album Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl (Blue 180g) LP, Stereo | 1× Vinyl (Red 180g) LP, Stereo | 1× All Media Album, Limited Edition, Reissue, Remastered |
 | Label          | Fuzz Club Records |
 | Catalog Number | FC200 |
 | Notes | Gatefold sleeve. Full colour inner sleeves.  Hype sticker: "Limited Edition 2x 180g Blue And Red Vinyl Remastered For Vinyl"  Catalog no. FC200 appears on spine and labels. Catalog no. FC200V12IND appears on hype sticker only.  (p) & (c) 2023 Sony Music Entertainment for the world excluding USA and Canada. (p) & (c) 2023 Sub Pop Records for USA and Canada. Made in the EU. |

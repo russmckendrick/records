@@ -66,7 +66,7 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Street_Fighting_Years |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Virgin |
 | Catalog Number | MINDS1 |
 | Notes | [a11879] appears courtesy of [l27031] / [l38030].  All digitally recorded and mixed analogue i.e. "DAD"   "Street Fighting Years" song written in memory of Victor Jara.  Made In Scotland March '88 - March '89. Studio Drums provided by Tama. Source of graphic: The Beauty of Fractals.  Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.  ℗&© 1989 Virgin Records Ltd.  Manufactured in the UK. *Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X"   Durations do not appear on this release. Timings via stopwatch. |

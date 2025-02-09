@@ -55,7 +55,7 @@ The band's music has been compared to Long Island emo, pop punk and melodic hard
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Koyo_(band) |
-| Format         | Vinyl 2× LP Album (Red & Blue) |
+| Format         | 2× Vinyl (Red & Blue) LP, Album |
 | Label          | 88 Watt |
 | Catalog Number | 88WLPR004X |
 | Notes | Gatefold sleeve |

@@ -70,7 +70,7 @@ Spartacus received generally positive reviews from music critics. Although some 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spartacus_(The_Farm_album) |
-| Format         | Vinyl LP Album, Vinyl 12" 33 ⅓ RPM EP Limited Edition |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 12", 33 ⅓ RPM, EP, Limited Edition |
 | Label          | Produce Records |
 | Catalog Number | MILK LP1 |
 | Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP, info taken from full retail copy.  |

@@ -71,7 +71,7 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Epic |
 | Catalog Number | 19075803641 |
 | Notes | The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").  Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).  Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.  Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.  The catalogue number printed on the spine is 19075803641. The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.  Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany. Made in the EU. |

@@ -59,7 +59,7 @@ Now for a Feast! is a compilation album by English rock band Pop Will Eat Itself
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Now_for_a_Feast! |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Chapter 22 |
 | Catalog Number | CHAP LP 33 |
 | Notes | All songs © BMG Music Ltd. except 'Like An Angel' © Warner Bros. Music Ltd. and 'Orgone Accumulator' © United Artists Publishing ℗ Chapter 22 Records 1988 © Chapter 22 Records 1988 Made in England |

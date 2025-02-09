@@ -63,7 +63,7 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Little_Earthquakes |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | 081227968304 |
 | Notes | Made in EU. Insert included.   |

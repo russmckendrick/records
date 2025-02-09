@@ -62,7 +62,7 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Brainbloodvolume |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
+| Format         | 1× Vinyl (Silver & Black Marbled) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3330C |
 | Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl  Includes insert  180 gram vinyl |

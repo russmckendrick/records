@@ -76,7 +76,7 @@ styles: ["Progressive Metal", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album (Green Olive, 180g), CD 2× Album, All Media Limited Edition |
+| Format         | 3× Vinyl (Green Olive, 180g) LP, Album | 2× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 563 |
 | Notes | Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.  Issued with a postcard, a coaster and a sticker.  Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one. CDs housed in a protective plastic sleeve. |

@@ -58,7 +58,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Format         | 1× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR807VINYL |
 | Notes | Gatefold sleeve Includes booklet 16 pages & download card. |

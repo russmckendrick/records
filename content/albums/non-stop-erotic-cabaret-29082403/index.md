@@ -80,7 +80,7 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Non-Stop_Erotic_Cabaret |
-| Format         | Vinyl LP Reissue, Vinyl LP Compilation, All Media Album Remastered Special Edition Stereo (Gatefold) |
+| Format         | 1× Vinyl LP, Reissue | 1× Vinyl LP, Compilation | 1× All Media (Gatefold) Album, Remastered, Special Edition, Stereo |
 | Label          | Mercury |
 | Catalog Number | 5543833 |
 | Notes | Full colour inner sleeves with lyrics, credits and essay.  Hype sticker:  'Special 2LP Vinyl Edition  Includes remastered original album and bonus disc of singles and B-sides  Plus complete lyrics and a new essay by Adrian Thrills'  On rear and labels sleeve: 'Made in EU'.  Sticker on back: 'Made in Germany'.   Tracks A1, A3 to B5 recorded in Camden Cell Studios, London. A2 recorded at Advision Studios, London.  Track A2 published by Burlington Music Co. Ltd. Track C4 published by EMI Music Publishing Ltd. Track D5 published by Warner Chappell Music Inc. All other tracks published by Warner Chappell Music Ltd.  Runouts are etched except for the stamped Pallas numbers.   |

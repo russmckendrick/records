@@ -57,7 +57,7 @@ The album received a 2-CD deluxe edition release commemorating its 35th annivers
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Don%27t_Be_Cruel_(album) |
-| Format         | Vinyl LP Album Misprint |
+| Format         | 1× Vinyl LP, Album, Misprint |
 | Label          | MCA Records |
 | Catalog Number | MCF 3425 |
 | Notes | Misprint version with MCF 3245 on back cover. |

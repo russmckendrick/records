@@ -60,7 +60,7 @@ Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “L
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Black_Sunday_(Cypress_Hill_album) |
-| Format         | Vinyl 2× LP Album Record Store Day Numbered Reissue (180Gram) |
+| Format         | 2× Vinyl (180Gram) LP, Album, Record Store Day, Numbered, Reissue |
 | Label          | Ruffhouse Records |
 | Catalog Number | 88765493481 |
 | Notes | Record Store Day 2013 20th Anniversary Edition with numbered, gatefold cover and printed b/w inner sleeves.    Produced, arranged and mixed for The Soul Assassins.  "I Ain't Goin' Out Like That" produced for Beat Down Productions.  Recorded at 38 Fresh and Image Recording, Hollywood, CA, USA, Soundtrack, Baby Monster, Green Street and Chung King Studios, New York City, USA, and Studio 4 Recording, Philadelphia, PA, USA.  Mixed at Studio 4 Recording, Philadelphia, PA, USA. |

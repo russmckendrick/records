@@ -48,7 +48,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Rockosmos |
 | Catalog Number | none |
 | Notes | Runouts are etched. |

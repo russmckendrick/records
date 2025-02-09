@@ -64,7 +64,7 @@ Three Snakes and One Charm is the fourth studio album by American rock band the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_Snakes_and_One_Charm |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | American Recordings |
 | Catalog Number | 00602537494262 |
 | Notes | Widespine sleeve. Made in the EU. Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes) |

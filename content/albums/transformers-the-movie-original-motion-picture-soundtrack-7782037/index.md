@@ -61,7 +61,7 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Transformers:_The_Movie_(Original_Motion_Picture_Soundtrack) |
-| Format         | All Media Record Store Day Limited Edition (30th Anniversary Edition), Vinyl LP Single Sided Etched Stereo (Red (Autobot)), Vinyl LP Single Sided Etched Stereo (Purple (Decepticon)) |
+| Format         | 1× All Media (30th Anniversary Edition) Record Store Day, Limited Edition | 1× Vinyl (Red (Autobot)) LP, Single Sided, Etched, Stereo | 1× Vinyl (Purple (Decepticon)) LP, Single Sided, Etched, Stereo |
 | Label          | Volcano (2) |
 | Catalog Number | 88875144321 |
 | Notes | Record Store Day Black Friday 2015 Exclusive. Collectors Edition. Limited to 5000.  "Transforming" cover from Autobot themed jacket to Decepticon themed. |

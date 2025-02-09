@@ -60,7 +60,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |
 | Notes | Gatefold sleeve.  2021 Jim Bob Calendar included |

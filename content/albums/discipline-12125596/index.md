@@ -57,7 +57,7 @@ This album was King Crimson's first following a seven-year hiatus. Only band co-
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Discipline_(King_Crimson_album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP8 |
 | Notes | Sticker, embossed "Inner Knot" logo on front cover. Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label). Includes a branded inner sleeve.  Sticker: • The 1981 King Crimson classic • Newly cut from masters approved by Robert Fripp • Includes bonus track (Matte Kudasai alt. mix) • 200-gram super-heavyweight vinyl  Back: ℗ & © 2018 Robert Fripp  Labels: Made in England. ℗ & © 2018 Robert Fripp. |

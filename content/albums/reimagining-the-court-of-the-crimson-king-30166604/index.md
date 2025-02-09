@@ -51,7 +51,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Violet) |
+| Format         | 1× Vinyl (Violet) LP, Limited Edition |
 | Label          | Purple Pyramid |
 | Catalog Number | CLO5255 |
 | Notes | ©℗ 2024 PURPLE PYRAMID RECORDS A DIVISION OF CLEOPATRA RECORDS, INC. |

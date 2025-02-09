@@ -60,7 +60,7 @@ styles: ["Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | MOVLP1386 |
 | Notes | 180g black vinyl  |

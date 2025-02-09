@@ -51,7 +51,7 @@ Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Unending_Ascending |
-| Format         | Vinyl LP Album Limited Edition (Green Vinyl) |
+| Format         | 1× Vinyl (Green Vinyl) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1293 |
 | Notes | Comes with an advertising sheet of K-scope releases. Pre-orders from the band's Bandcamp page and PlanetGong website came with an exclusive A5 limited edition art print, hand-numbered (xxxx/1000), and signed by the artist, Kavus Torabi. |

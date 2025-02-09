@@ -71,7 +71,7 @@ For the past 25 years, singer-songwriter Michael Franti has been wrapping his ar
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Thirty Tigers |
 | Catalog Number | 65916LP |
 | Notes | Vinyl Release of Michael Franti & Spearhead's sequel to their 2001 "Stay Human" record. |

@@ -69,7 +69,7 @@ Free All Angels received generally positive reviews from music critics, some of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Free_All_Angels |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (Clear With Yellow Splatter) |
+| Format         | 1× Vinyl (Clear With Yellow Splatter) LP, Album, Reissue, Remastered, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT710CLP |
 | Notes | Housed in a replica gatefold sleeve of original [r=1126204] edition. Tracks are numbered sequentially on sleeve. Sticker reports  Pressed On Clear & Yellow Splatter Vinyl (Gatefold) *Each Copy Unique And Individual*  |

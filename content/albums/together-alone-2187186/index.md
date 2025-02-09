@@ -62,7 +62,7 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Together_Alone |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2215 |
 | Notes | Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London  Printed in U.K.  Published by Roundhead Music (BMI), except: A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI) B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP  |

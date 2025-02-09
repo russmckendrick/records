@@ -70,7 +70,7 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exciter_(Depeche_Mode_album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985336931 |
 | Notes | ℗ 2001 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2001, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 88985336931  Gatefold sleeve. 180 gram. |

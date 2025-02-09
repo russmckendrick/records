@@ -74,7 +74,7 @@ styles: ["Indie Pop", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl LP Compilation Remastered, All Media Special Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Compilation, Remastered | 1× All Media Special Edition |
 | Label          | Goodbye Records (2) |
 | Catalog Number | 5560889 |
 | Notes | Sticker "Made in Germany" on back.  Sticker on front reads "The Bones Of What You Believe CHVRCHES 10TH ANNIVERSARY REMASTERED 2LP EDITION feat. PREVIOUSLY UNRELEASED TRACKS + EXCLUSIVE LIVE RECORDINGS. MMXIII MMXXIII 5560889"  Issued in gatefold sleeve - front sleeve has 4 cut outs in each corner giving sight on the inner sleeve.  ℗ & © Chvrches under exclusive license to Virgin Records Limited, UK for its controlled territories and to Vertigo/Capitol, a division of Universal Music GmbH, Germany for its controlled territories. A Universal Music Company. Universal international Music B.V. 'S-Gravelandseweg 80, 1217 Ew Hilversum, Netherlands. Made in the EU.  Recorded at Alucard Studios, Glasgow. Live tracks recorded at Ancienne Belgique with thanks to AB & VRT/Studio Brussels. The Bones of What You Believe mixed... at Eldorado Recording Studios, Los Angeles except Tether and By The Throat mixed... at Wall 2 Wall Studios, Chicago. Manhattan, White Summer, Talking In My Sleep & City On Fire mixed... at Alucard Studios, Glasgow. Mastered... at Lurssen Mastering, Burbank. |

@@ -54,7 +54,7 @@ styles: ["Classic Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Atlantic |
 | Catalog Number | K 50 757 |
 | Notes | Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.    Printed inner sleeve.  No Atlantic logo on front of sleeve.  Cat. Nos. + STEREO (50 757 & SD 19 283) back top right.  50 757 on back, spine and inner sleeve.  K 50 757 on label.  No barcode.      |

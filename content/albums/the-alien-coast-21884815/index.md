@@ -56,7 +56,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Deluxe Edition Stereo (Ghostly) |
+| Format         | 1× Vinyl (Ghostly) LP, Album, Deluxe Edition, Stereo |
 | Label          | ATO Records |
 | Catalog Number | ATO0590 |
 | Notes | Ghost vinyl with foil cover limited to 2,000 copies.   First 300 pre-orders receive a signed postcard  Vinyl pressed in Czech Republic    |

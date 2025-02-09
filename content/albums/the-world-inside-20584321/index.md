@@ -53,7 +53,7 @@ On March 2, 2010, Orb Books published this title as a trade paperback edition.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_World_Inside |
-| Format         | Vinyl LP Album Limited Edition (Red Transparent With Black Splatter) |
+| Format         | 1× Vinyl (Red Transparent With Black Splatter) LP, Album, Limited Edition |
 | Label          | Not On Label (Tacoma Narrows Bridge Disaster Self-released) |
 | Catalog Number | none |
 | Notes | Includes Download-Code |

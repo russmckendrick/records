@@ -55,7 +55,7 @@ Strangeitude is the third studio album by British band Ozric Tentacles. It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Strangeitude |
-| Format         | Vinyl LP Album Reissue Remastered (Green Transparent) |
+| Format         | 1× Vinyl (Green Transparent) LP, Album, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1067 |
 | Notes | Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020 |

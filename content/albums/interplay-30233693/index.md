@@ -73,7 +73,7 @@ Interplay is the seventh studio album by English rock band Ride, released on 29 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Interplay_(Ride_album) |
-| Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Blue) |
+| Format         | 2× Vinyl (Blue) LP, 45 RPM, Album, Limited Edition |
 | Label          | Wichita |
 | Catalog Number | WEBB630LP |
 | Notes | 100 copies were sold by Assai Records with a hand numbered Obi strip and signed art card. Rough Trade produced 250 copies with a Band Signed Print.   |

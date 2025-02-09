@@ -78,7 +78,7 @@ Supported by six singles, the most since their debut, the album was received wit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Resistance_Is_Futile_(album) |
-| Format         | Vinyl LP Album Limited Edition (White, 180g), CD Album |
+| Format         | 1× Vinyl (White, 180g) LP, Album, Limited Edition | 1× CD Album |
 | Label          | Columbia |
 | Catalog Number | 19075809911 |
 | Notes | Includes the album on CD.    Issued in a gatefold sleeve. The gatefold image is different for each vinyl colour variant. Side opening inner sleeve with a portrait, lyrics, credits. Hype sticker applied to the shrink-wrap.  Tracks are numbered sequentially across each disc, 1 to 12. Made In The E.U. |

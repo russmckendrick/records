@@ -63,7 +63,7 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Life_Aquatic_Studio_Sessions |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Unofficial Release Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Unofficial Release, Stereo |
 | Label          | Hollywood Records (5) |
 | Catalog Number | SEUJORGE001 |
 | Notes | Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies! All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005 Printed on labels: "Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263] |

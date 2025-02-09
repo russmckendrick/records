@@ -56,7 +56,7 @@ Fireworks City is the second album by the rock/reggae influenced UK band Audiowe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fireworks_City |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Red, 180g) |
+| Format         | 1× Vinyl (Red, 180g) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC918 |
 | Notes | "On vinyl for the first time" |

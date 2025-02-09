@@ -66,7 +66,7 @@ Second Nature is the second studio album by the American supergroup Flying Color
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Nature_(Flying_Colors_album) |
-| Format         | Vinyl 2× LP Album (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR 7443 1 |
 | Notes | Includes a download card. Each pre-order will include a free bonus DVD, [r6141400] with behind the scenes footage, interviews and more, a poster and we will send you MP3s of 2 bonus songs that are not available on the album.     Made in the EU |

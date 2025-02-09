@@ -65,7 +65,7 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seeking_New_Gods |
-| Format         | Vinyl LP Album (Green) |
+| Format         | 1× Vinyl (Green) LP, Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0127LP2 |
 | Notes | Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release. |

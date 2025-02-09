@@ -68,7 +68,7 @@ Five Edwards lyrics would make it onto the record, the deal being that the song 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Must_Go_(Manic_Street_Preachers_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88985317831 |
 | Notes | Initial copies were exclusive to HMV. The whole release run was limited to 1000 copies.  Powder blue heavyweight opaque vinyl. Copies might display a subtle marbled / fleck appearance. Printed inner sleeve of top opening card, featuring full lyrics and credits. There is a 6cm square hype sticker applied to the shrink-wrap. Also applied to the shrink-wrap may be one or more merchant retailing stickers.  Cut by Chris Blair - Abbey Road, London. All songs recorded Autumn 95 - Winter 96.  All tracks mixed at Chateau De La Rouge Motte except  A2, B7, B11 mixed at Abbey Road, London, B9 Battery Studios, London  and B12 Swanyard Recording Studios, London. All tracks recorded at Chateau De La Rouge Motte, France except  B12 recorded at The Big Noise Recorders, Cardiff and House In The Woods  and B7 recorded at Real World Studios, Wiltshire.  Love to Philip and Richey. Thanks to Martin and Rob.  ℗ & © 2016 Sony Music Entertainment UK Limited. "Made in the EU". |

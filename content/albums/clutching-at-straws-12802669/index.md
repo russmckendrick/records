@@ -105,7 +105,7 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Clutching_at_Straws |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo (180 Gram) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 3× Vinyl LP | 1× Box Set (180 Gram) Deluxe Edition, Limited Edition, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295605179 |
 | Notes | ALBUM INFORMATION: This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.  LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh. LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.  Presented in a two piece, lift-off lid type box. Both the lid and base section are textured and have a matte finish. Printed black inside. The lid has text to two edges. Each LP is in a top opening picture inner sleeve of matte card. There is a twenty-four page full sized booklet. An 8cm square hype sticker is applied to the shrink-wrap.  ℗ 2018 this compilation Parlophone Records Ltd.  © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.  All runouts are etched.  |

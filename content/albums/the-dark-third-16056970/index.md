@@ -81,7 +81,7 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Dark_Third |
-| Format         | Vinyl 2× LP Album (Yellow), CD 2× Album, All Media Limited Edition Reissue |
+| Format         | 2× Vinyl (Yellow) LP, Album | 2× CD Album | 1× All Media Limited Edition, Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | 19439793441 |
 | Notes | Gatefold, strictly limited to 200 copies. |

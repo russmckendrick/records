@@ -59,7 +59,7 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_You%27re_Feeling_Sinister |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent, 25th Anniversary Edition) |
+| Format         | 1× Vinyl (Red Transparent, 25th Anniversary Edition) LP, Album, Limited Edition, Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001RED |
 | Notes | (P) & (C) 1996 Jeepster Recordings Ltd. Made in the EU.  Some copies bought from the B&S official store came signed by Sarah, Stuart, Stevie, Richard and Chris. |

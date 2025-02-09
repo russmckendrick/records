@@ -55,7 +55,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album, Record Store Day, Reissue |
 | Label          | Epic |
 | Catalog Number | 19075921541 |
 | Notes | Single wide spine sleeve includes an insert and a download-card  Side D etched with Sly & The Family Stone logo  Label rim text: "© 2009, 2019 Epic Records, a division of Sony Music Entertainment / Compilation ℗ Epic Records, a division of Sony Music Entertainment / EPIC is the exclusive trademark of Sony Music Entertainment / All trademarks and logos are protected. / All Rights Reserved. / Made in the EU. / BIEM/GEMA / LC00199  Runouts are hand-etched up to the MPO logo, which together with the subsequent numbers is laser etched. |

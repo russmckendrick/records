@@ -61,7 +61,7 @@ The Magpie Salute was an American rock band formed in 2016 by the Black Crowes g
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Magpie_Salute |
-| Format         | Vinyl 2× LP Album Limited Edition (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition |
 | Label          | Cargo Records |
 | Catalog Number | CARLP207 |
 | Notes | Issued 2017 by Cargo Records Germany GmbH under license from Eagle Rock Entertainment Limited. Eagle Rock Entertainment is a Universal Music Group company. P 2017 Circle Sound LLC. under exclusive license to Woodstock Sessions LLC. Manufactured and distributed by Cargo Records Germany GmbH. |

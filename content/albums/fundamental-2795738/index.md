@@ -61,7 +61,7 @@ Fundamental or Fundamental As Anything is the fifth studio album released by Aus
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fundamental_(Mental_As_Anything_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Epic |
 | Catalog Number | EPC 26836 |
 | Discogs URL    | [Mental As Anything - Fundamental](https://www.discogs.com/release/2795738-Mental-As-Anything-Fundamental) |

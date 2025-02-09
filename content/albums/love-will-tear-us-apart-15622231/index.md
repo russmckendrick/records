@@ -50,7 +50,7 @@ The song was certified double platinum in the UK, selling and streaming over 1,2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_Will_Tear_Us_Apart |
-| Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Single, Reissue, Remastered, Stereo |
 | Label          | Factory |
 | Catalog Number | FAC·XXIII·XII |
 | Notes | ℗ 1980, 2020 Warner Music UK Ltd. © 2020 Warner Music UK Ltd. |

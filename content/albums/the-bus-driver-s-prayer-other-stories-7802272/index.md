@@ -58,7 +58,7 @@ styles: ["Power Pop", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC61 |
 | Notes | Manufactured in the EU  180-Gram Heavyweight Vinyl job |

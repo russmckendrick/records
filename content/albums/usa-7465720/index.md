@@ -65,7 +65,7 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/USA_(King_Crimson_album) |
-| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP12 |
 | Notes | Newly cut from masters approved by Robert Fripp  Recorded live by the Record Plant, N.Y.C. June 1974  Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974.  |

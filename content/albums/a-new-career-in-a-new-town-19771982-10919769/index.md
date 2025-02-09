@@ -221,7 +221,7 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 12" 45 RPM EP Compilation Remastered Stereo, Vinyl 2× LP Album Reissue Remastered Stereo (Yellow), Vinyl 3× LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Compilation Remastered Stereo Mono |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl 12", 45 RPM, EP, Compilation, Remastered, Stereo | 2× Vinyl (Yellow) LP, Album, Reissue, Remastered, Stereo | 3× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 1× Vinyl LP, Album, Stereo | 1× Vinyl LP, Album, Reissue, Remastered, Stereo | 2× Vinyl LP, Compilation, Remastered, Stereo, Mono |
 | Label          | Parlophone |
 | Catalog Number | DBXL 3 |
 | Notes | Deluxe box set includes 84-page hardback book. |

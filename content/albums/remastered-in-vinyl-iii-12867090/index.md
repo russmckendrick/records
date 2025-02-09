@@ -136,7 +136,7 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP, Album, Reissue, Remastered | 1× Box Set Compilation |
 | Label          | Fish People |
 | Catalog Number | 0190295593933 |
 | Discogs URL    | [Kate Bush - Remastered In Vinyl III](https://www.discogs.com/release/12867090-Kate-Bush-Remastered-In-Vinyl-III) |

@@ -60,7 +60,7 @@ The album was reissued in the United States in 1979, with the song "The Butterfl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Mod_Cons |
-| Format         | Vinyl LP Album (Strawberry mastering) |
+| Format         | 1× Vinyl (Strawberry mastering) LP, Album |
 | Label          | Polydor |
 | Catalog Number | POLD 5008 |
 | Notes | First edition with custom colour labels and picture inner sleeve with cat # front upper right (a similar edition of [r=398719] exists without cat # on the inner).  Runouts are stamped except "STRAWBERRY", which is etched.  Track A5 is not listed on the cover.  Recorded at RAK (Upper London) and Eden Studios. Thanks to Nick, Alan, Dave and Roadies and Southend Kids for conversation  POLYDOR DELUXE POLD 5008 (2442 155) A1 to B3, B5, B6 And Son Mus. Ltd. B4 Davray Mus. Ltd. (Carlin)  This sound recording was made by Polydor Ltd. First published in the United Kingdom in 1978. Record manufactured and distributed by Polydor Ltd. ℗ 1978 Polydor Ltd © 1978 Polydor Ltd |

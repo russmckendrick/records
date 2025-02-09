@@ -59,7 +59,7 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red Nebula) |
+| Format         | 1× Vinyl (Red Nebula) LP, Album, Limited Edition |
 | Label          | Dead Oceans |
 | Catalog Number | DOC227LP-C1 |
 | Notes | Hype sticker : "Limited Edition Red Nebula Vinyl Includes digital download" |

@@ -63,7 +63,7 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Peter_Gabriel |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR1 |
 | Notes | Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.  '14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched. |

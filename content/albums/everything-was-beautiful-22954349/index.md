@@ -59,7 +59,7 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Was_Beautiful |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA1270V |
 | Notes | Includes printed inner sleeve and download card for the MP3 version ([r=27971124]) Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER  Runouts are etched except : -56500- which is stamped. |

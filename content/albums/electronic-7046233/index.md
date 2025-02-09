@@ -58,7 +58,7 @@ The album was a commercial and critical success, reaching number 2 in the United
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronic_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | Vinyl LP, Album, Reissue, Remastered |
 | Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | 0825646144747 |
 | Notes | Includes download card for a 320 kbps MP3 version of the album that can be redeemed via Rhino UK's 'Vinyl Collector' web site.  All songs published by Warner Chappell Music Ltd. except A4 & A5 published by Warner Chappell Music Ltd/Cage Music Ltd/Sony/ATV Music Publishing (UK) Ltd.  Digital remasters ℗ 2013 The copyright in these sound recordings is owned by Clear Productions Ltd under exclusive license to Parlophone Records Ltd. © 2015 Clear Productions Ltd. © 2015 Parlophone Records Ltd. A Warner Music Group Company. Printed in the EU. |

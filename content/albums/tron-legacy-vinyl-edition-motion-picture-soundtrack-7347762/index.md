@@ -80,7 +80,7 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Repress |
+| Format         | 2× Vinyl LP, Album, Reissue, Repress |
 | Label          | Walt Disney Records |
 | Catalog Number | D001356101 |
 | Notes | 180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark. Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert. Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]") Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.  Back and insert: This compilation ℗ 2011 Walt Disney Records Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD. |

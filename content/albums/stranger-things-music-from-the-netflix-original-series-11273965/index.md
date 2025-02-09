@@ -76,7 +76,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Compilation |
+| Format         | 2× Vinyl LP, Album, Compilation |
 | Label          | Legacy |
 | Catalog Number | 88985480901 |
 | Notes | Comes in a gatefold sleeve.  Dialogue taken from the Netflix Original Series "Stranger Things". Courtesy Of Netflix.  The runouts are etched. |

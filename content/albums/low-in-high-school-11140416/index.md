@@ -69,7 +69,7 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Low_in_High_School |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Étienne |
 | Catalog Number | 538337938 |
 | Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.  Includes a green printed cardboard inner sleeve with a die-cut hole to reveal the label on the disc. Credits and thank yous on one side and a photo of Morrissey on the other.  Includes a credit card sized download voucher, printed on both sides. Hype sticker on the shrink wrap.  Runouts are etched. |

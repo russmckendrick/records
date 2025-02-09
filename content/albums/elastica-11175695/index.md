@@ -67,7 +67,7 @@ The song was the subject of controversy due to its overt similarity to another b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Connection_(Elastica_song) |
-| Format         | Vinyl LP Album Reissue, Flexi-disc 7" 45 RPM Single Sided, All Media Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Flexi-disc 7", 45 RPM, Single Sided | 1× All Media Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP914 |
 | Notes | Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records |

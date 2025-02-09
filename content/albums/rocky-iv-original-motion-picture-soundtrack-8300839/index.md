@@ -48,7 +48,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Numbered Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM062 |
 | Notes | Limited to 1000 individually-numbered copies.  PVC protective sleeve included 180 Gram Audiophile Vinyl |

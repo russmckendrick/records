@@ -70,7 +70,7 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tomorrow_Is_My_Turn_(album) |
-| Format         | Vinyl LP Album (140 gram), CD Album |
+| Format         | 1× Vinyl (140 gram) LP, Album | 1× CD Album |
 | Label          | Nonesuch |
 | Catalog Number | 541708-1 |
 | Notes | Includes inlay sheet with lyrics, notes and credits |

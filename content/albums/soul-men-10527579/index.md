@@ -62,7 +62,7 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Soul_Men |
-| Format         | Vinyl LP Album Reissue Mono (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Mono |
 | Label          | Stax |
 | Catalog Number | 081227940577 |
 | Notes | Originally released on Stax in 1967. Manufactured in E.U. STAX 60 (60th Anniversary) sticker.  Runouts are etched except 19193 1A MASTERED BY CAPITOL 19193 1B are stamped. |

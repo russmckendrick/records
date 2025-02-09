@@ -74,7 +74,7 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electronica_1:_The_Time_Machine |
-| Format         | Vinyl 2× LP Album (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album |
 | Label          | Aero Productions |
 | Catalog Number | 88843018981 |
 | Notes | ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Gatefold sleeve with printed innersleeves. First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.  Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".  Other Photos: DR (Droits Réservés / Rights Reserved) |

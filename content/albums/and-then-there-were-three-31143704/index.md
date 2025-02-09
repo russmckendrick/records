@@ -57,7 +57,7 @@ The album received mixed reviews from critics, but reached No. 3 on the UK Alb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/...And_Then_There_Were_Three... |
-| Format         | Vinyl LP Album Limited Edition Reissue (Sea-Blue) |
+| Format         | 1× Vinyl (Sea-Blue) LP, Album, Limited Edition, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 188284 |
 | Notes | Rhino Sounds Of The Summer The 1978 Album Featuring: Follow You Follow Me Many Too Many Deep In The Motherlode On Sea-Blue Vinyl |

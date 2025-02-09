@@ -58,7 +58,7 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Compilation, Reissue |
 | Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |
 | Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple |

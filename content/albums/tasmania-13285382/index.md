@@ -61,7 +61,7 @@ styles: ["Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Marathon Artists |
 | Catalog Number | MA0145LPX |
 | Notes | Rough Trade exclusive, limited to 1000 copies on white vinyl. Comes with OBI strip and 'Exclusive White Double Vinyl' hype sticker. |

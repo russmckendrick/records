@@ -57,7 +57,7 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_Vibrations |
-| Format         | Vinyl 12" 33 ⅓ RPM EP (Red / Orange Swirled) |
+| Format         | 1× Vinyl (Red / Orange Swirled) 12", 33 ⅓ RPM, EP |
 | Label          | Capitol Records |
 | Catalog Number | 00602557041781 |
 | Notes | Universal International Music B.V.  Netherlands incl. Insert Sheet + MP3 Download Voucher   |

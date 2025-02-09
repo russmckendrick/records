@@ -62,7 +62,7 @@ Duke was positively received by music critics, who praised the album for bridgin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Duke_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Charisma |
 | Catalog Number | 6748978 |
 | Notes | Gatefold sleeve. Comes with a download card. |

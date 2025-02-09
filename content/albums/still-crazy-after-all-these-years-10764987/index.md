@@ -58,7 +58,7 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Still_Crazy_After_All_These_Years |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Legacy |
 | Catalog Number | 88985422371 |
 | Notes | Includes insert with credits & download code  Made in the EU |

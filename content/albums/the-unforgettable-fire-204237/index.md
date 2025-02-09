@@ -65,7 +65,7 @@ Still, no song highlights U2’s baptism by <i>Fire</i> like “Bad”, a six-mi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Unforgettable_Fire |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Island Records |
 | Catalog Number | U25 |
 | Notes | Printed inner sleeve showing credits and picture. Side opening with a die cut thumb section. Outer sleeve is textured dense matte.  All tracks recorded in Ireland at Slane Castle, Co, Meath and Windmill Lane Studios, Dublin.  Thanks to Mrs. Christine Kerr.  Drums: Yamaha. Strings: James Howe Industries.  ℗ 1984 Island Records Ltd. |

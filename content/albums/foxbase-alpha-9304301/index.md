@@ -65,7 +65,7 @@ Foxbase Alpha was on the short list of nominees for the 1992 Mercury Prize. It w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Foxbase_Alpha |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 1 |
 | Notes | 2016 Reissue - 25th Anniversary Includes printed inner sleeve. |

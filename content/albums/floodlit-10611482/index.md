@@ -45,7 +45,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP 45 RPM EP Limited Edition Repress (Cream) |
+| Format         | 1× Vinyl (Cream) LP, 45 RPM, EP, Limited Edition, Repress |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR166 |
 | Notes | Repress, Edition of 250.  Durations taken from digital files.  |

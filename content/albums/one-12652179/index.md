@@ -53,7 +53,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition, Numbered |
 | Label          | Northern Writes |
 | Catalog Number | none |
 | Notes | Limited to 500 copies.  Comes with Mp3 download code card. |

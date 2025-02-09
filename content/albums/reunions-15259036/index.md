@@ -83,7 +83,7 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange Dreamsicle) |
+| Format         | 1× Vinyl (Orange Dreamsicle) LP, Album, Limited Edition |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99921 |
 | Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.  In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |

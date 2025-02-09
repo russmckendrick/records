@@ -73,7 +73,7 @@ Shifting well over 20 million copies, it went on to become one of the best-selli
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP73 |
 | Notes | In multifold cover and plain, black, heavy gloss inner sleeves.  Sticker: "Remastered double heavyweight vinyl - includes download code for album, bonus unreleased tracks & rarities" Remastered from original tapes by Ian Cooper at London’s Metropolis Studios. Supervised by the album producer Owen Morris.  All songs written by Noel Gallagher (Dead Leg/Sony/ATV Music Publishing Ltd) except 'Hello' excerpt taken from 'Hello, Hello I'm Back Again' written by Gary Glitter and Mike Leander (Universal/MCA Music Ltd)  Cast No Shadow is dedicated to the genius of Richard Ashcroft Paul Weller appears courtesy of Go! Discs  Track B2 titled "Hey Now" on label.  ℗ & © 2014 Big Brother Recordings Ltd. |

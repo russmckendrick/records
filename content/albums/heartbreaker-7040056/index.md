@@ -69,7 +69,7 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heartbreaker_(Ryan_Adams_album) |
-| Format         | Vinyl 2× LP Album Reissue (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 052 |
 | Notes | Includes a voucher to download 96/24 WAV version of the album.    MADE IN GERMANY sticker on shrink wrap on back cover.    PAX-AM 052 located in lower right corner of back cover.  00600753583609 located on spine, and labels. |

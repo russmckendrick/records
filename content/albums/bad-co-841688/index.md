@@ -58,7 +58,7 @@ Among the songs recorded during the album sessions were two covers of tracks ori
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_Company_(album) |
-| Format         | Vinyl LP Album (Gatefold, Copyright Control) |
+| Format         | 1× Vinyl (Gatefold, Copyright Control) LP, Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9279 |
 | Notes | Original UK release in matte gatefold sleeve and custom red label design. Island Music Ltd/Copyright Control publishing in contrast to this [r6201489] with Island Music Ltd/Bad Company Music Inc. and even later [r26598674] with Island Music Ltd only. Early copies came with a red sticker on top left front cover, featuring the name of the band and its members.  [Back cover:] Recorded at Headley Grange, Hampshire November 1973 Recording facilities ▪ Ronnie Lane's Mobile Studio Mixed at Olympic Studios London and The Temple Goring Cut at The Mastering Lab Los Angeles Printed in England by Robor Limited  [Spine and labels:] ℗ 1974 Island Records Ltd  Publishing: • A1, A3, B3: Island Music Ltd. • A2, A4 to B2, B4: Copyright Control.  Similar gatefold versions UK: - [r=6201489] Different publishing/-layout on labels. - [r=24083015] Reissue. Etched runouts (diff. pressing). - [r=15509303] Reissue. Different publishing/-layout on labels & smaller text, diff. pressing. - [r=15444584] has "STEREO" on front sleeve/labels & diff. cat.# (most probably not even for the UK market).  Similar non-gatefold reissues UK: - [r=6548764] - [r=2130994] |

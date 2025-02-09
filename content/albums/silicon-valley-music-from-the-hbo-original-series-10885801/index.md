@@ -61,7 +61,7 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album, Compilation |
 | Label          | HBO |
 | Catalog Number | MSAP 0043LP |
 | Notes | Red Vinyl Pressing of Original Soundtrack  Poster insert and digital download card included. |

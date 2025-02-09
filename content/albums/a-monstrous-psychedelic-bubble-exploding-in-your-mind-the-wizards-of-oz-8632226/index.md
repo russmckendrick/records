@@ -54,7 +54,7 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Repress (Gatefold Sleeve, Clear) |
+| Format         | 2× Vinyl (Gatefold Sleeve, Clear) LP, Compilation, Repress |
 | Label          | Festival Records |
 | Catalog Number | FEST601025LX |
 | Notes | 200 gram hazy clear vinyl, gatefold sleeve. |

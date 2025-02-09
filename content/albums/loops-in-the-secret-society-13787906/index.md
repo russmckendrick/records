@@ -64,7 +64,7 @@ styles: ["Leftfield", "Electro", "Synth-pop", "Indie Pop", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Deluxe Edition |
+| Format         | 2× Vinyl LP, Album, Deluxe Edition |
 | Label          | Fire Records |
 | Catalog Number | FIRELP538 |
 | Notes | Deluxe Double Gatefold Vinyl Plus High Quality Download |

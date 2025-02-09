@@ -71,7 +71,7 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album, CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Red) LP | 1× Vinyl (Red) LP, Single Sided, Etched | 1× All Media Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 491 |
 | Notes | Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke. |

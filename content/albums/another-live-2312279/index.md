@@ -60,7 +60,7 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Another_Live |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | K 55508 |
 | Notes | Unique Artwork. Includes insert with lyrics and credits.  Recorded live: August 1975.  Very similar to [r20758009], but with different label text / publishers. |

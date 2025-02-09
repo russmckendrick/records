@@ -48,7 +48,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition (Dusk) |
+| Format         | 1× Vinyl (Dusk) LP, Compilation, Limited Edition |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |
 | Notes | Limited to 300 copies Dedicated to Grampy |

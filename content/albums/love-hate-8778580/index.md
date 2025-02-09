@@ -56,7 +56,7 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | 4783458 |
 | Notes | Some copies were sold via Amazon.co.uk with sleeve signed in silver pen by Michael Kiwanuka and a unique barcode 0 602547 948663 stickered over the standard barcode Gatefold. Includes a card to download [r=9073982]  On back cover and label: 2016 Polydor Ltd. (UK) P&C 2106 Polydor Records, a division of Universal Music Operations Limited. Made in the EU. Gerrit van der Veenlaan 4, 3743 DN, Baarn, Netherlands  Runouts mostly consist of machine etched (first and second group of characters) and hand etched portions (if any, everything after the second group of characters). |

@@ -48,7 +48,7 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation |
+| Format         | 1× Vinyl LP, Album, Compilation |
 | Label          | Believers Roast |
 | Catalog Number | BR017LP |
 | Notes | Happy Half-life, Dear Friend was released in 2009 as the B-side to the 'Pissed Up On Brake Fluid' 7" single (BR001V).  Pilot Her, Dear Lord, No Deal and HMS Washout were released in 2011 as the limited, hand-numbered CDr EP, 'Dear Lord, No Deal' (BR004).  Clairvoyant Fortnight, In A Foreign Way and The Prime of Our Decline were released in 2012 as the limited edition CD EP, 'Clairvoyant Fortnight' (BR008). |

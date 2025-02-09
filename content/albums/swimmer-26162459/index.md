@@ -79,7 +79,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Swimmer_(Tennis_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Stereo |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD007LP |
 | Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.  Tracks are sequentially listed on release.  Embossed cover.  Includes digital download coupon. |

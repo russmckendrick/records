@@ -73,7 +73,7 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dazzle_Ships_(album) |
-| Format         | Vinyl LP Reissue Repress (Silver), Vinyl LP (Blue), All Media Album Limited Edition Stereo (40th Anniversary Edition) |
+| Format         | 1× Vinyl (Silver) LP, Reissue, Repress | 1× Vinyl (Blue) LP | 1× All Media (40th Anniversary Edition) Album, Limited Edition, Stereo |
 | Label          | Virgin |
 | Catalog Number | 0602448814920 |
 | Notes | An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.  In addition to the text on the front "Made in the EU" (Hypesticker) there is also an additional sticker at the back "Made in Germany". |

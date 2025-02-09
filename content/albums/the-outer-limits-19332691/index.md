@@ -60,7 +60,7 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Outer_Limits_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red/Black Smoke) |
+| Format         | 1× Vinyl (Red/Black Smoke) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1320 |
 | Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing. Issued with a double-sided printed innersleeve with lyrics.   CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |

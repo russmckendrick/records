@@ -71,7 +71,7 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Any_Minute_Now_(Soulwax_album) |
-| Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Reissue, Stereo |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 060 DLP |
 | Notes | Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS]  Runouts are etched  |

@@ -78,7 +78,7 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (White) |
+| Format         | 2× Vinyl (White) LP, Album |
 | Label          | Invada |
 | Catalog Number | INV160LP |
 | Notes | Gatefold sleeve, printed with false pricing sticker from the "Mr Robot" store for $7.99 and code "683  898".  Release comes with: Double Sided Printed Insert 11" x 22" Poster Download Card for digital version (choice of formats, via bandcamp)  If purchased direct from Invada with Vol.2, included an additional extremely limited 12"x12" lithograph art print. |

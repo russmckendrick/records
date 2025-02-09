@@ -63,7 +63,7 @@ Lost Themes III: Alive After Death is the third studio album by American film di
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes_III:_Alive_After_Death |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR-265 |
 | Notes | Includes a digital download card and a 24" x 36" fold-out poster. |

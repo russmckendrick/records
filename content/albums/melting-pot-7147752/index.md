@@ -65,7 +65,7 @@ The album was re-released on 20 May 2002 with a slipcase to match the artwork of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Melting_Pot_(The_Charlatans_album) |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue |
+| Format         | 2× Vinyl LP, Compilation, Limited Edition, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 198 |
 | Notes | HMV UK exclusive limited to 500 copies. |

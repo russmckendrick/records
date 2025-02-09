@@ -118,7 +118,7 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Album Limited Edition, Vinyl LP Album Remastered (180 Gram), CD Album Remastered, CD Album Remastered, CD 2× |
+| Format         | 1× Box Set Album, Limited Edition | 1× Vinyl (180 Gram) LP, Album, Remastered | 1× CD Album, Remastered | 1× CD Album, Remastered | 2× CD |
 | Label          | Columbia |
 | Catalog Number | 88875036002 |
 | Notes | The first 1000 copies of The Holy Bible 20 box set bought from the Manics’ online store include a copy of the book signed by the band.  The [url=http://www.discogs.com/Manic-Street-Preachers-The-Holy-Bible-20/release/6396839]first run[/url] lists 4st 7lb as the last track on side A on the centre labels but is pressed at position B7 as here.    ℗ & © 1994 / 2014 Sony Music Entertainment. Made in the EU. |

@@ -64,7 +64,7 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ege_Bamyasi |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Spoon Records |
 | Catalog Number | XSPOON8 |
 | Notes | ℗ & © 2013 Spoon Records Limited  Printed in the EU XSPOON8  mute.com  spoonrecords.com  Limited reissue on green vinyl. Includes download code. Cat. No. on Hypesticker: XLSPOON8.   Released with three different barcode stickers: 5 400863 016517 in two different styles and 4 015887 000834. |

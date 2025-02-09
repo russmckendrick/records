@@ -58,7 +58,7 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Stereo |
+| Format         | 1× Vinyl LP, Stereo |
 | Label          | Silver Arrow |
 | Catalog Number | SAR26LP |
 | Notes | Recorded at Sunset Sound, Hollywood, California  Inner sleeve contains credits and a photograph of the band.  ℗&© 2022 Silver Arrow Records  Publishers: A1: BMG A2: Spirit Music Group A3: Warner Chappell (Martin Quittenton) and Sony Music Publishing (Rod Stewart) B1: Naked Snake Music B2: Warner Chappell B3: Sony Music Publishing  Made in the Czech Republic  U.K. release date: 22nd October 2022  The runout strings are stamped. |

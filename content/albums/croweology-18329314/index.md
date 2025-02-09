@@ -81,7 +81,7 @@ Croweology is an acoustic-based album by American rock band The Black Crowes, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Croweology |
-| Format         | Vinyl 3× LP Album Limited Edition Reissue Stereo (10th Anniversary, Gold + Black) |
+| Format         | 3× Vinyl (10th Anniversary, Gold + Black) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Silver Arrow |
 | Catalog Number | SAR 03 LP |
 | Notes | Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release) |

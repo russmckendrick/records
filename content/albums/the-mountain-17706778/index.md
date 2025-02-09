@@ -81,7 +81,7 @@ Following their coup, the Mountain, led by Hérault de Séchelles, quickly began
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Mountain |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo, All Media Reissue Stereo |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo | 1× CD Album, Stereo | 1× All Media Reissue, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 578 |
 | Notes | Tracks D2, D3, CD-10 and CD-11 are bonus tracks.  Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve. |

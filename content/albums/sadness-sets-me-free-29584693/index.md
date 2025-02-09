@@ -56,7 +56,7 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sadness_Sets_Me_Free |
-| Format         | Vinyl LP Album Limited Edition (Brown [Chocolate Neo-Neapolitan]) |
+| Format         | 1× Vinyl (Brown [Chocolate Neo-Neapolitan]) LP, Album, Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RT0420LPE2 |
 | Notes | Limited to 500 copies sold at Rough Trade and Welsh shops Packaged in a split-door sleeve |

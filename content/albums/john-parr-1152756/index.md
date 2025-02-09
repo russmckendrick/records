@@ -60,7 +60,7 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/John_Parr_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | London Records |
 | Catalog Number | LONLP 12 |
 | Notes | (p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738].  |

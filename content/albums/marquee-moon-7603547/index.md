@@ -61,7 +61,7 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Marquee_Moon |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (White, 180 Gram) |
+| Format         | 1× Vinyl (White, 180 Gram) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Elektra |
 | Catalog Number | 8122797158 |
 | Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies |

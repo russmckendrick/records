@@ -69,7 +69,7 @@ The song received acclaim from music critics upon release. "Please Please Please
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Please_Please_Please_(Sabrina_Carpenter_song) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red, 180 Gram) |
+| Format         | 1× Vinyl (Red, 180 Gram) LP, Album, Limited Edition, Reissue |
 | Label          | WaxTime In Color |
 | Catalog Number | 950662 |
 | Discogs URL    | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |

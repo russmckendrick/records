@@ -89,7 +89,7 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Compilation Limited Edition (180 gram) |
+| Format         | 4× Vinyl (180 gram) LP, Compilation, Limited Edition |
 | Label          | Virgin |
 | Catalog Number | 3542867 |
 | Notes | This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code. |

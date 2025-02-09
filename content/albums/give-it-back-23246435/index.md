@@ -61,7 +61,7 @@ Give It Back! is the sixth studio album by the American psychedelic rock band Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Give_It_Back! |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1172 |
 | Notes | The time stamp in the back cover of the record doesn't match the real time stamp. Song times were updated according the recording results. |

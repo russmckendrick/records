@@ -73,7 +73,7 @@ Title of Record was a critical and commercial success upon its release, peaking 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Title_of_Record |
-| Format         | Vinyl 2× LP Album Reissue (20th Anniversary Edition) |
+| Format         | 2× Vinyl (20th Anniversary Edition) LP, Album, Reissue |
 | Label          | Craft Recordings |
 | Catalog Number | CR00176 |
 | Notes | Gatefold sleeve with  printed inner sleeves containing credits, photograph and liner notes. |

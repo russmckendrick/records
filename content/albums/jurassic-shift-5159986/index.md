@@ -65,7 +65,7 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jurassic_Shift |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram, Transparent Pink), Vinyl 12" Stereo (180 Gram), All Media (Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Transparent Pink) LP, Album, Reissue, Stereo | 1× Vinyl (180 Gram) 12", Stereo | 1× All Media (Gatefold) |
 | Label          | Madfish |
 | Catalog Number | SMALP955 |
 | Notes | Recorded in 1992-1993 at The Mill, Somerset.  Made in Germany.  ℗ 1993 Snapper Music © 2013 Snapper Music.  Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |

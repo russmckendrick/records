@@ -66,7 +66,7 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dog_Man_Star |
-| Format         | Vinyl 2× LP Album Reissue (180 g) |
+| Format         | 2× Vinyl (180 g) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 2 |
 | Notes | Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'. |

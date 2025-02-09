@@ -51,7 +51,7 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Reissue |
+| Format         | 1× Vinyl LP, Reissue |
 | Label          | Paramount Records |
 | Catalog Number | SPFL 256 |
 | Notes | 2014 reissue in flipback sleeve. |

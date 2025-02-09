@@ -68,7 +68,7 @@ The album peaked at No. 181 on the Billboard 200.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_Hearts_(album) |
-| Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
+| Format         | 1× Vinyl (Blue/Black/White Tri-color) LP, Album, Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG730 |
 | Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.  Runouts are etched. |

@@ -68,7 +68,7 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Bush_Hall |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN289 |
 | Notes | 140g black vinyl. Includes a booklet and a download code.  Recorded at Bush Hall, London Mastered... at Abbey Road  ℗ & © Ninja Tune 2023 Made in EU |

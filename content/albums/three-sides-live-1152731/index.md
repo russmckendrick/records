@@ -65,7 +65,7 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_Sides_Live |
-| Format         | Vinyl 2× LP Album Stereo (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Stereo |
 | Label          | Charisma |
 | Catalog Number | GE 2002 |
 | Notes | Recorded live in Europe and America during 1981 except B4, D1 and D2 1980 and D3 1976.  ⓟ & © 1982 Charisma Records Ltd.  This version has no mention of "Virgin" on it. Sold in Germany as "Four Sides Live" with an orange sticker saying "Four vier Seiten live" or with sticker "Four  Vier Seiten live  Limitierte Auflage"  Sold in USA with white info sticker stating "SPECIAL U.K. EDITION  includes live versions of "Watcher In The Skies" "One For The Vine" "Fountain Of Salmacis" "It" not available elsewhere Distributed by Jem Records Inc."  Runouts: - Runouts are stamped - Variant 7: '2 8' overlaid on 'TOWN HOUSE' on side D |

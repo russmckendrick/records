@@ -70,7 +70,7 @@ Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Herbie:_Fully_Loaded |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Spectrum Music (2) |
 | Catalog Number | 00600753910719 |
 | Discogs URL    | [Various - Loaded](https://www.discogs.com/release/15400556-Various-Loaded) |

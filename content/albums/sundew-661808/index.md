@@ -61,7 +61,7 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sundew_(album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | V 2667 |
 | Notes | Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK |

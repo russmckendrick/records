@@ -66,7 +66,7 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/3_Years,_5_Months_and_2_Days_in_the_Life_Of... |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Cooltempo |
 | Catalog Number | MOVLP890 |
 | Notes | 180 gram audiophile vinyl  Insert  |

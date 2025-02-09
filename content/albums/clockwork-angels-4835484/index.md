@@ -70,7 +70,7 @@ The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Clockwork_Angels |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Roadrunner Records |
 | Catalog Number | RRCAR 7656-1 |
 | Notes | Gatefold sleeve. Printed inner sleeves with lyrics.    "Caravan" and "BU2B" recorded at Blackbird Studios, Nashville TN, April 2010  All other songs recorded at Revolution Recording, Toronto ON, October-December 2011  Mixed at Henson Studios, Los Angeles CA, January-March 2012  Strings recorded at Ocean Way Studios, Los Angeles CA, January 18, 2012  "BU2B" new intro recorded on Lerxst Mobile, West Hollywood CA    All songs published by Core Music Publishing (SESAC) for the U.S.A. and Core Music Publishing (SOCAN) for the World excluding the U.S.A.    Licensed to Cargo Records For Vinyl Distribution. © & ℗ 2012 T.Y.S., Inc. for the world excluding Canada. Made in Germany (as stated on back cover and labels)    Also released on [url=http://www.discogs.com/release/4514510]red vinyl[/url] |

@@ -55,7 +55,7 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pearlies_(album) |
-| Format         | Vinyl LP Album Limited Edition (Blue Pearl) |
+| Format         | 1× Vinyl (Blue Pearl) LP, Album, Limited Edition |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR250LPB |
 | Notes | Rough Trade exlusive, limited to 500 copies. Including signed postcard.  ℗ & © 2023 Emma Anderson under exclusive licence to Sonic Catherdral Manufactured in CZ  |

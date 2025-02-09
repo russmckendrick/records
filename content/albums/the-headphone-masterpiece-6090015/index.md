@@ -79,7 +79,7 @@ After unsuccessfully shopping the album to record companies, Chesnutt distribute
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Headphone_Masterpiece |
-| Format         | Vinyl 3× LP Album Limited Edition Numbered Repress |
+| Format         | 3× Vinyl LP, Album, Limited Edition, Numbered, Repress |
 | Label          | One Little Indian |
 | Catalog Number | TPLP345DMM |
 | Notes | third pressing - Limited Edition numbered on the front side     |

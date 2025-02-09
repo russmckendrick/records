@@ -63,7 +63,7 @@ Although commercial success elsewhere was initially modest, the album was the du
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Look_Sharp!_(Roxette_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | EMC 3557 |
 | Discogs URL    | [Roxette - Look Sharp!](https://www.discogs.com/release/1937220-Roxette-Look-Sharp) |

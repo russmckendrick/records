@@ -45,7 +45,7 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 33 ⅓ RPM EP Limited Edition Stereo (White with Black Splatter) |
+| Format         | 1× Vinyl (White with Black Splatter) 10", 33 ⅓ RPM, EP, Limited Edition, Stereo |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR192 |
 | Notes | Housed in a single sleeve jacket. Limited to 400 copies. |

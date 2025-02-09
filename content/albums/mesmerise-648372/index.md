@@ -44,7 +44,7 @@ styles: ["Shoegaze", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM Single |
+| Format         | 1× Vinyl 12", 45 RPM, Single |
 | Label          | Dedicated |
 | Catalog Number | HOUSE 001T |
 | Notes | Made in England.  ℗ & © 1991 Dedicated.  All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios. |

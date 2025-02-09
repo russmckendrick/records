@@ -66,7 +66,7 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Dark_Third |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |
 | Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.  © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records  Distributed by Plastic Head Music Distribution Ltd  Recorded at Fairhazel, Eden, The Gables & RAK Studios.   Mixed at RAK Studios.   |

@@ -63,7 +63,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Four Color Demons Records |
 | Catalog Number | none |
 | Notes | First pressing as denoted by the matrix runouts. The first 350 orders came with a limited edition swatch of felt "taken from the poker table where over 300+ Tell 'Em Steve-Dave podcasts were recorded." The first pieces of felt were mistakenly mailed without a written number. |

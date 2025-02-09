@@ -63,7 +63,7 @@ Tiny Music... initially received mixed reviews, similar to the band's earlier wo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tiny_Music..._Songs_from_the_Vatican_Gift_Shop |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP935 |
 | Notes | 180 gram audiophile vinyl. Includes a printed insert.                   First track is extended on this release. Originally 1.22, this version is 4.22.  Originally released ℗ & © 1996 Atlantic Records. This release ℗ & © 2013 Warner Music. Manufactured & distributed by Music On Vinyl B.V. for Warner Music.  Recorded at Westerly Ranch, Santa Ynez, CA Mixed at Southern Tracks, Atlanta, GA B9 Mixed at Bad Animals, Seattle, WA B10, B12 Vocals recorded at Hollywood Sound, Los Angeles, CA  All songs ©1996 EMI Virgin Music, Inc./Floated Music, ASCAP  Art Direction & Design: Stone Temple Pilots and John Heiden for S.M.O.G. Los Angeles, CA  Made in the EU. BIEM/STEMRA  Pressed By information is not listed. Information derived from runouts.  |

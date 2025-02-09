@@ -65,7 +65,7 @@ In It for the Money is the second studio album by English alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_It_for_the_Money |
-| Format         | Vinyl LP Album Reissue Remastered (Turquoise), Vinyl 12" Single (White), All Media Limited Edition (Textured Sleeve) |
+| Format         | 1× Vinyl (Turquoise) LP, Album, Reissue, Remastered | 1× Vinyl (White) 12", Single | 1× All Media (Textured Sleeve) Limited Edition |
 | Label          | BMG |
 | Catalog Number | BMGCAT506CLP |
 | Notes | Remastered From Original Analogue Tapes Limited Edition 140g Turquoise Vinyl  Includes 12" single 'Sun Hits The Sky (Bentley Rythm Ace Remix)' & 'The Animal' Textured Sleeve Manufactured in Poland  There are three catalog numbers on this release: BMGCAT506CLP appears on the outer sleeve 4050538672909 appears on the LP 4050538685411 appears on the 12" single |

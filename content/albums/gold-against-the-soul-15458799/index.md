@@ -62,7 +62,7 @@ Gold Against the Soul takes to an extreme the hard rock sound of its predecessor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold_Against_the_Soul |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439733611 |
 | Notes | 2020 remastered reissue on 180gm vinyl.  Includes a printed inner sleeve with lyrics & credits - Initial copies purchased from the band website came signed by the remaining band members.  Includes a [l=we are vinyl] download code for album plus b sides.  Made in the EU. |

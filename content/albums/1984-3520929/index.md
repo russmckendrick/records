@@ -60,7 +60,7 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1984_(Van_Halen_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79792-3 |
 | Notes | Released through Rhino Records. Like most Rhino reissues - Rhino pressed both an EU version and a US version [r2631093]. This is the EU pressing.    Judging from the matrix nos, plating was done at Record Technology Incorporated(19512) and EU version pressed by Optimal.    Sticker On Front   180-Gram   Cut From The Original Analog Master Tapes   Packaging Replicated To The Finest Detail   Pressed With More Care Than Ever   |

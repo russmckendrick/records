@@ -62,7 +62,7 @@ The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_In_Sound_from_Way_Out!_(Beastie_Boys_album) |
-| Format         | Vinyl LP Compilation Reissue (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Compilation, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 602557727920 |
 | Notes | A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands.  (at the bottom right of the back cover) |

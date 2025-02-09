@@ -60,7 +60,7 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weather_Diaries |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Wichita |
 | Catalog Number | WEBB510LP |
 | Notes | Limited Edition Double Clear Vinyl with Embossed Gatefold Sleeve exclusive to independent record stores only.   Download card included. A few signed copies sold in selected record stores.  Pressing plant uncredited, derived from matrix info. |

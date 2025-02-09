@@ -53,7 +53,7 @@ Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pungent_Effulgent |
-| Format         | Vinyl LP Album Reissue (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1059 |
 | Notes | Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020 |

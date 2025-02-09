@@ -59,7 +59,7 @@ Released in 1973, a time of national ennui, Steely Dan’s sophomore album riffs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Countdown_to_Ecstasy |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | B0034988-01 |
 | Notes | Issued with a printed inner sleeve with lyrics and song notes. Runouts are machine engraved except hand etched 'B0034988-01-A', 'B0034988-01-B' and 'Kr SST'.  [Shrinkwrap sticker on rear:] Made in Czech Republic  [Rear jacket:] Rick Derringer recorded at Carabou Ranch, Nederland, Colorado (Courtesy of Columbia Records) [Geffen logo] [UMᵉ logo] A Universal Music Company A Geffen Records release; ℗ 1973 © 2022 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 – U.S.A. Distributed by Universal Music Enterprises, a division of UMG Recordings, Inc.  [Inner sleeve:] A Geffen Records release; ℗ 1973 UMG Recordings, Inc. |

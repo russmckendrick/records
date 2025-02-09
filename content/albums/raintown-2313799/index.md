@@ -55,7 +55,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | CBS |
 | Catalog Number | CBS 450549 1 |
 | Notes | ℗ © 1987 CBS Records |

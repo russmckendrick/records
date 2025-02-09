@@ -62,7 +62,7 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gleb_Kolyadin |
-| Format         | Vinyl LP Album Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE973 |
 | Notes | Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.  Ⓟ 2018 Kscope Ⓒ 2018 Kscope  Made in the EU. |

@@ -56,7 +56,7 @@ While some critics derided Fawlty Towers upon release, the series soon received 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fawlty_Towers |
-| Format         | Vinyl LP Mono |
+| Format         | 1× Vinyl LP, Mono |
 | Label          | BBC Records |
 | Catalog Number | REB 377 |
 | Notes | Soundtracks from the BBC television series.  Side 1 first broadcast on BBC TV, 1979. Side 2 first broadcast on BBC TV, 1975. Reproduction by Pinepoint Ltd.  Label variant with Pye Records (Sales) Ltd. distribution credit. Translucent pressing appears dark red when held to light. |

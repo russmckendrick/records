@@ -78,7 +78,7 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vitalogy |
-| Format         | Vinyl 2× LP Album Remastered Reissue (180 Gram, Gold Foil Stamp) |
+| Format         | 2× Vinyl (180 Gram, Gold Foil Stamp) LP, Album, Remastered, Reissue |
 | Label          | Epic |
 | Catalog Number | 88697843111 |
 | Notes | Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU |

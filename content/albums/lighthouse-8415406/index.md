@@ -63,7 +63,7 @@ Lighthouses mark dangerous coastlines, hazardous shoals, reefs, rocks, and safe 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lighthouse |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | kscope919 |
 | Notes | On 180g heavyweight vinyl. Inner sleeve with painting and lyrics. Includes digital download code.   Vocals recorded by Gianluca Capacchione at Murder Mile Music Studios, London, England Grand piano recorded by Nickita Valamin at Mosfilm Studios, Moscow, Russia Guest vocals on Lighthouse recorded at Serakos Studio, Warszawa, Poland Bodhran and percussion recorded at Murder Mile Music Studios Harp recorded at Galernaya 20 studios, St. Petersburg, Russia Trumpet, clarinet and flute recorded at Galernaya 20 studios All strings recorded at Red Wave Studios, St. Petersburg, Russia Choir recorded at Red Wave Studios Mixed at Murder Mile Music Studios Mastered at Reveal Sound Studios  ℗ 2016 Kscope © 2016 Kscope. Kscope is a Snapper Music label. Made in Germany  (on the backcover, the phonographic copyright symbol ℗ appears twice, instead of the copyright symbol ©; this typo is not present on the disc)  There is no text for barcode (Scan only). |

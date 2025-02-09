@@ -56,7 +56,7 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Mono |
+| Format         | 1× Vinyl LP, Album, Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-040 |
 | Notes | Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap |

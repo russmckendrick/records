@@ -76,7 +76,7 @@ The music on the album featured an experimental sound, evident on songs that use
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Binaural_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Epic |
 | Catalog Number | 88985409121 |
 | Notes | On back cover : © 2000, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 2000 Epic Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33310 Gütersloh, Germany. / All trademarks and logos are protected. / EPIC is a registered trademark of Sony Music Entertainment. / All Rights Reserved. /Made in the EU. / This package consists of previously released material. / LC00199  On sticker :  "Newly Remastered from the Original Sources by [a271098] 88985409121S1"  Released in a 3-panel gatefold jacket, with two special cardboard photo inner sleeves, and a replica of the original [r=1092382]'s booklet incl. song lyrics, credits & photos.  Unlike the [url=https://www.discogs.com/release/11112572]US version[/url], the EU version contains the Sony Music logo. |

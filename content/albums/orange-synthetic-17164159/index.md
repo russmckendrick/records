@@ -54,7 +54,7 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Klove |
 | Catalog Number | KLOVE 2VA |
 | Notes | Some copies signed by artists. Includes insert. |

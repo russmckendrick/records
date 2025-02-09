@@ -83,7 +83,7 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mars_Audiac_Quintet |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media (Expanded Edition) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP | 1× All Media (Expanded Edition) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D05R |
 | Notes | Black vinyl re-issue.  Expanded issue, includes a bonus disk of demos and alternate versions.  Packaged in a gatefold sleeve; all LPs slot into a single panel. Packaged with an outer clear plastic sleeve with hype and bar-code stickers.  Comes with a 4-panel fold out poster with liner notes on the reverse.  A download code is also included.   40 copies were made with obi by Martin Pike and sold through Rough Trade UK. 20 copies were made with a piece of master tape numbered and stamped by Martin Pike and offered to customers whose orders for the clear vinyl edition could not be fulfilled through Rough Trade NYC.  |

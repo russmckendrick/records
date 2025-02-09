@@ -59,7 +59,7 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kill_the_Wolf_(Matt_Berry_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP334 |
 | Discogs URL    | [Matt Berry (3) - Kill The Wolf](https://www.discogs.com/release/4708269-Matt-Berry-3-Kill-The-Wolf) |

@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | E Works Records |
 | Catalog Number | EWORKS116LP |
 | Notes | Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.  Tracks A1, A2, B5: Satan's Cock-A-Doodle Do/Almo Music ASCAP/Koool G Murder Music ASCAP Tracks B3, B6: Satan's Cock-A- Doodle Do/Almo Music ASCAP Tracks A4, A5, B2: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI Tracks A3, A6, B4: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Questionable Notability Music ASCAP Track B1: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI/Koool G Murder Music ASCAP |

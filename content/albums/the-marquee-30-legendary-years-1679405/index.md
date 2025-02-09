@@ -75,7 +75,7 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo |
+| Format         | 2× Vinyl LP, Compilation, Stereo |
 | Label          | Polydor |
 | Catalog Number | MQTV 1 |
 | Notes | Issued in gatefold sleeve.  Also available on: Cassette (MQTVC 1) CD (840 010-2)  The company name used on this release "PolyGram Records Inc. (New York)" refers to [l129352]. |

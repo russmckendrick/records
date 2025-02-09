@@ -62,7 +62,7 @@ PowerNerd is the twenty-second studio album by Canadian metal musician Devin Tow
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/PowerNerd |
-| Format         | Vinyl LP Album Limited Edition Stereo (White, 180g) |
+| Format         | 1× Vinyl (White, 180g) LP, Album, Limited Edition, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOM726 |
 | Notes | Gatefold with LP-size booklet. ℗ & © HevyDevy Records, Inc., issued under exclusive license to InsideOutMusic Published by HevyDevy Records Inc, administred by Kobalt Music Services Ltd.  Made in the EU.  Drums recorded at Armoury Studios, Vancouver BC Bass recorded at Demi-Tone Studios, Vancouver BC Guitars and vocals recorded at Lighthouse Studio, Vancouver BC Guitar Reamp recorded at Mythgraven Studio (KSR Orion Amplifier) Acoustic Guitars recorded at Lip Service Studio |

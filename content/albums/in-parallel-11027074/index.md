@@ -51,7 +51,7 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538317510 |
 | Notes | Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.  Runouts are etched. |

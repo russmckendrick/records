@@ -59,7 +59,7 @@ On their second studio album, the British power trio subdues blues grooves to cr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Disraeli_Gears |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Polydor |
 | Catalog Number | 535 484-3 |
 | Notes | This version has hand-etched "MPO" in the runouts. The release with a laser-etched MPO logo "MPO®" in the runouts is here: [r13712296]   Made in France sticker applied to rear jacket shrink wrap. Some copies have a [l197898] hype sticker applied to the front shrink wrap and a voucher to download an MP3 version of the album.   [On back cover] ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  [On labels] ℗ 1967 ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  Publishers: A1: Careers-BMG Music Publishing, Inc./Dratleaf Music Ltd./Eric Patrick Clapton/Windfall Music Ent. Inc. A2: Warner Chappell Music Ltd. A3: Careers-BMG Music Publishing, Inc./Warner-Tamerlane Publishing Corp. A4, A5: Dratleaf Music Ltd. B1: Dratleaf Music Ltd./ Unichappell Music, Inc. B2, B3, B5, B6: Dratleaf Music Ltd. B4: Apple Music Publ. Co. Inc.  Runouts are etched in all variants. The 2 digits after "MPO" in variants 2 and 3 are mirrored on dead wax (unmirrored in BaOI). |

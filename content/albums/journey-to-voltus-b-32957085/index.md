@@ -51,7 +51,7 @@ styles: ["Prog Rock", "Techno", "Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Ecomix Vinyl) |
+| Format         | 1× Vinyl (Ecomix Vinyl) LP |
 | Label          | Cosmic Dross Records |
 | Catalog Number | none |
 | Notes | Die B-Seite des limitierten Ecomix-Vinyls lässt sich auf zwei unterschiedlichen Rillen abspielen, die die beiden unterschiedlichen Enden enthalten.  The record is pressed on Ecomix vinyl which uses the leftovers and reground offcuts from previous manufacturing runs. As well as reducing waste it also means that each record has a unique look with different effects, colours and marbles throughout the run. |

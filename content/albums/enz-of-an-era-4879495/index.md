@@ -58,7 +58,7 @@ Enz of an Era was a compilation by New Zealand rock band Split Enz. Released to 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Enz_of_an_Era |
-| Format         | Vinyl Mispress Compilation LP |
+| Format         | 1× Vinyl Mispress, Compilation, LP |
 | Label          | Mushroom |
 | Catalog Number | RML 52027 |
 | Notes | Label on Side 1 features track listing etc for "So Lucky" by Renee Geyer     A2, A4, A7, B3, B4, B5, B7: Aust. Comps. / Mushroom.  A1, A3, A5, A6, B1, B2, B6: Aust. Recordings.    This Compilation (P) 1982 Mushroom Records Pty. Ltd., Australia.  Manufactured under license by Festival Manufacturing Pty. Limited and distributed by Festival Records Retail Marketing Division.  Trademark owned by Mushroom Records Pty. Ltd., Australia and used by Festival Records Pty. Limited, under authorization.  (C) 1982 Mushroom Records Pty. Ltd., Australia.    Tracks A1, B2 Recorded A.A.V. late 1980.  Track A2 Recorded Air Studios, June/July 1977.  Tracks A3, A5 Produced and engineered A.A.V. 1979.  Track A4 Recorded at A.A.V. Studios, Melbourne November 1975.  Track B3 Recorded at Basing Street Studios, London, April/May 1976.  Track B4 Recorded at Air Studios, London, 1976.  Track B5 Recorded Air Studios, June/July, 1977.  Track B6 Recorded at A.A.V. 1979  Track B7 Recorded at The Manor Studios, England.  |

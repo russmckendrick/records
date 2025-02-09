@@ -70,7 +70,7 @@ The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_the_Anonymous_Nobody... |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | AOI Records |
 | Catalog Number | AOI001VLK |
 | Notes | *Kickstarter campaign edition  *Includes Kickstarter only bonus track "Unfold" which is not included on retail versions. *Unsigned (some LP covers were signed as a different Kickstarter reward level) *Clear vinyl (some LPs were listed as colored vinyl at a different Kickstarter reward level) *Comes with drop card for digital download of album (MP3) |

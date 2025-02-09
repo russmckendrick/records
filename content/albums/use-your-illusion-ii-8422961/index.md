@@ -70,7 +70,7 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Use_Your_Illusion_II |
-| Format         | Vinyl 2× LP Album Reissue Remastered Repress Stereo |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered, Repress, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 0720642442012 |
 | Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |

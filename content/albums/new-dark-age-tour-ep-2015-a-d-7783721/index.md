@@ -46,7 +46,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Single Sided Etched (Clear), Vinyl 12" (Clear), All Media EP Limited Edition |
+| Format         | 1× Vinyl (Clear) 12", Single Sided, Etched | 1× Vinyl (Clear) 12" | 1× All Media EP, Limited Edition |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 375LP |
 | Notes | Sticker:  "Ltd to 500 copies worldwide With etched design on side B!"  "© & ℗ 2015 Season of Mist"  "This tour EP was recorded in 30 hours at Chapel Studio, Lincolnshire. With parts done at Cavesounds Studio, Stenungsund, Sweden & Wacka Playground (Also in Sweden)."  "[...] Mastered by Karl Daniel Lidén at Tri-Lamb Studio, Stockholm."  "Thanks to the following partisans for making this release possible -  Mattew Dunn, Fran, Tom and Andy at Chapel Studio, Karl Daniel Lidén, Sergio da Silva, Roger Johannessen, Richie Chappell, Michael Berberian, Todd Greene."  "(Additional "Bonus" Track Info) [url=http://www.discogs.com/Crippled-Black-Phoenix-Se-Delan-OhEch-oes/master/884112]Echoes[/url] was previously recorded with Se Delan and released on [l40772] (In very limited numbers) Originally written and recorded by Pink Floyd."  The first catalog number is taken from the spine and from the labels, the second catalog number is taken from the sticker on the wrap. |

@@ -65,7 +65,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_Move_On |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear, 180 Gram) |
+| Format         | 2× Vinyl (Clear, 180 Gram) LP, Album, Record Store Day, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC879 |
 | Notes | Record Store Day 2021 Release  With printed inner sleeves.  Made in EU  |

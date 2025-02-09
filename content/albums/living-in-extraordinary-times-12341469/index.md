@@ -69,7 +69,7 @@ Living in Extraordinary Times received generally positive reviews from music cri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Living_in_Extraordinary_Times |
-| Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
+| Format         | 2× Vinyl (Magenta ) LP, Album, Limited Edition |
 | Label          | Infectious Music |
 | Catalog Number | INFECT438ELP1 |
 | Notes | Indie Stores Exclusive Magenta Coloured Vinyl Gatefold Jacket 180 Gram Vinyl Includes Download Code  |

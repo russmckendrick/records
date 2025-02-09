@@ -60,7 +60,7 @@ The album received generally positive reviews from critics and peaked at No. 73 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Goodbye_Jumbo |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Seaview Records |
 | Catalog Number | seaview 2LP |
 | Notes | Recorded At Seaview Studios,  The Old Rectory, Bedfordshire, England And Seaview Studios, London, England  Printed Inner Sleeve Digitally edited, mastered and remastered by Tim Young |

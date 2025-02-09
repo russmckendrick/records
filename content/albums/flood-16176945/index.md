@@ -74,7 +74,7 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flood_(They_Might_Be_Giants_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Turquoise / White Marbled [Icy Mint], 180 gram) |
+| Format         | 1× Vinyl (Turquoise / White Marbled [Icy Mint], 180 gram) LP, Album, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1239 |
 | Notes | Hype sticker: Limited numbered edition of 2,500 copies on icy mint coloured vinyl 180 gram audiophile vinyl  Gatefold sleeve. Poly-lined die-cut white paper inner sleeve.  Made in the EU.  Some copies have a quite different colour than the advertised icy mint and are translucent moss green with brown and white marble. |

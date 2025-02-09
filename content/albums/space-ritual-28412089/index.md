@@ -67,7 +67,7 @@ Space Ritual (officially known as The Space Ritual Alive in Liverpool and London
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Space_Ritual |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered Stereo (Sky Blue With Yellow And Red Splatter) |
+| Format         | 2× Vinyl (Sky Blue With Yellow And Red Splatter) LP, Album, Limited Edition, Numbered, Reissue, Remastered, Stereo |
 | Label          | Atomhenge |
 | Catalog Number | QATOMLP21052 |
 | Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online Includes a foldout poster insert    [Labels] The original album remastered ℗ 2023 Parlophone Records Ltd.  © 2023 Cherry Red Records Ltd. Made in the EU  Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |

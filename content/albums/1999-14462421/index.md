@@ -75,7 +75,7 @@ styles: ["Minneapolis Sound", "Funk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/1999_(Prince_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Purple, 180 gram) |
+| Format         | 2× Vinyl (Purple, 180 gram) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Warner Records |
 | Catalog Number | RR1 23720 |
 | Notes | Red sticker on shrink: The iconic album remastered for the very first time Limited edition, 180g 2LP set pressed on Prince purple vinyl Includes download code RR1 23720  Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.  Album title stylized as **1999** on labels.  Cover, back Made in the E.U. PRINCE.COM |603497849987  Labels: RR1 23720 Made in the E.U. GEMA/BIEM • 603497849987  ℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U.  |

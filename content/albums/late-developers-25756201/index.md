@@ -74,7 +74,7 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Late_Developers |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |
 | Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |

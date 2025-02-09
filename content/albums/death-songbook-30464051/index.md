@@ -59,7 +59,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | BMG Rights Management |
 | Catalog Number | WCV112 |
 | Notes | Recorded at Wales Millenium Centre, Cardiff, Wales on 14th January 2021 and 29th October 2022 |

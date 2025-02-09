@@ -76,7 +76,7 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Back_to_the_Bars |
-| Format         | Vinyl 2× LP |
+| Format         | 2× Vinyl LP |
 | Label          | Bearsville |
 | Catalog Number | K 65511 |
 | Notes | Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland    Manufactured in the UK.    Gatefold sleeve. Comes with picture inner sleeve.    Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves.   |

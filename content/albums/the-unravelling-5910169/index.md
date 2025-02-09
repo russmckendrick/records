@@ -56,7 +56,7 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 Gram), CD Album |
+| Format         | 1× Vinyl (180 Gram) LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 402 |
 | Notes | From removable sticker on front: 180g vinyl edition incl. the entire album on CD  Includes a printed inner card sleeve with photos of the band members, lyrics, and credits.  © 2014 InsideOut Music ℗ 2014 Century Media Records Ltd. Made in Germany  Drums recorded at One Cat Piano on [A1, 1] recorded at Securisound  Piano on [A3, 3 & B4, 8] recorded at Westminster Kingsway College Mixed and mastered at Studio Midi Pyrenees Layout and artwork at 57design.co.uk |

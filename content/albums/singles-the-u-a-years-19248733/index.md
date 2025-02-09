@@ -69,7 +69,7 @@ styles: ["Rhythm & Blues", "Pub Rock", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Stereo Mono (Multi-Coloured [Recycled]) |
+| Format         | 2× Vinyl (Multi-Coloured [Recycled]) LP, Compilation, Reissue, Stereo, Mono |
 | Label          | Parlophone |
 | Catalog Number | EM 1332 |
 | Notes | Pressed using recycled coloured vinyl pellets, making each record unique.  This edition was exclusive to Dig! Records (thisisdig.com) and was issued unsealed, in a Dig! branded brown paper bag.  A1 & A2: Mono A3 to D7: Stereo |

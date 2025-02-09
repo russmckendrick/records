@@ -53,7 +53,7 @@ styles: ["Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Contour |
 | Catalog Number | 2870 380 |
 | Notes | Made in Austria |

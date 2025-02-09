@@ -47,7 +47,7 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" 45 RPM Repress |
+| Format         | 1× Vinyl 7", 45 RPM, Repress |
 | Label          | Acid Jazz |
 | Catalog Number | AJX337S |
 | Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album.   "All instruments played by Matt Berry (except whistle & recorder)" |

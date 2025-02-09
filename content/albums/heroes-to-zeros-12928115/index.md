@@ -65,7 +65,7 @@ Mason later said, "We shouldn't have produced it ourselves, and if you think we 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Heroes_to_Zeros |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Because Music |
 | Catalog Number | BEC5543703 |
 | Discogs URL    | [The Beta Band - Heroes To Zeros](https://www.discogs.com/release/12928115-The-Beta-Band-Heroes-To-Zeros) |

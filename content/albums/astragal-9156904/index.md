@@ -50,7 +50,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | God Unknown Records |
 | Catalog Number | GOD025 |
 | Notes | Limited edition of 300 |

@@ -74,7 +74,7 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Straight_Songs_of_Sorrow |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear Crystal, 180 gram) |
+| Format         | 2× Vinyl (Clear Crystal, 180 gram) LP, Album, Limited Edition, Stereo |
 | Label          | Heavenly |
 | Catalog Number | HVNLP178C |
 | Notes | Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU. |

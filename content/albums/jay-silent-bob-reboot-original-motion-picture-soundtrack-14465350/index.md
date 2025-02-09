@@ -71,7 +71,7 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day (Green [Weed Green], 180g) |
+| Format         | 1× Vinyl (Green [Weed Green], 180g) LP, Album, Record Store Day |
 | Label          | eOne |
 | Catalog Number | EOM-LP-46214 |
 | Notes | The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD" |

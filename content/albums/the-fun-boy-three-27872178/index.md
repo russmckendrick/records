@@ -55,7 +55,7 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (Red, Translucent, 180g) |
+| Format         | 1× Vinyl (Red, Translucent, 180g) LP, Album, Reissue, Remastered |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1426 |
 | Notes | With hype sticker: FUN BOY THREE - 180gm TRANSLUCENT RED  Features the hits: THE LUNATICS (Have Taken Over The Asylum), THE TELEPHONE ALWAYS RINGS and T'AINT WHAT YOU DO (It's The Way That You Do It) |

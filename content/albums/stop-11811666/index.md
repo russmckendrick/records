@@ -64,7 +64,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | A&M Records |
 | Catalog Number | Ama 5195 |
 | Notes | Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different.  |

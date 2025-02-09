@@ -63,7 +63,7 @@ Temple of the Dog is the only studio album by the American rock band Temple of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Temple_of_the_Dog_(album) |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (180 Gram) Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP956 |
 | Notes | A golden sticker is affixed to the resealable outer sleeve, reading:   "Music On Vinyl®. TEMPLE OF THE DOG. "TEMPLE OF THE DOG". The legendary album. Including an insert with lyrics and etched D-side. 180 gram audiophile vinyl. www.musiconvinyl.com. MOVLP956.".    Recorded weekends at London Bridge Studios, Seattle, WA Nov-Dec 1990.  Mastered at A&M Mastering Studios.    Original release ℗ 1991 A&M Records Inc.  This release ℗ & © 2013 Universal Music B.V.  Manufactured & distributed by Music On Vinyl B.V. for Universal Music B.V.  Made in the EU.  _____________________________________________________________    Track durations printed on side three are incorrect: they mimic those found on side two. |

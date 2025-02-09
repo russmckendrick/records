@@ -55,7 +55,7 @@ styles: ["Indie Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Orange/Black [Marbled]) |
+| Format         | 1× Vinyl (Orange/Black [Marbled]) LP, Album, Limited Edition, Stereo |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR1230LPX |
 | Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU. |

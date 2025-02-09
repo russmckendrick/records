@@ -65,7 +65,7 @@ High Water II is the second studio album by American band The Magpie Salute. It 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/High_Water_II |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Provogue |
 | Catalog Number | PRD 7580 1 |
 | Notes | First catalog# on sleeve, second on labels.  ℗&© 2019 Mascot Music Productions And Publishing BV. Made in the EU.  Download card included |

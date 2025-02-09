@@ -99,7 +99,7 @@ styles: ["Folk Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Album Record Store Day Deluxe Edition Limited Edition Numbered |
+| Format         | 4× Vinyl LP, Album, Record Store Day, Deluxe Edition, Limited Edition, Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985494801 |
 | Notes | Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU. |

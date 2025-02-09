@@ -65,7 +65,7 @@ Although Roxy Music is an obvious influence—and the atmospheric art-school of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rio_(Duran_Duran_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3411 |
 | Notes | Original UK pressing in a textured outer sleeve with a glossy die cut inner picture/lyric sleeve and rounded corners.  [Back cover] ℗ 1982 Original sound recording made by Tritec Music Limited ... country of manufacture of record as stated on record labels SP 8205 GL  [Record labels]  All songs composed and arranged by Duran Duran All songs published by Tritec/Peterman/Carlin  ℗ 1982 Original sound recordings made by Tritec Music Limited. Manufactured in the UK by EMI Records Ltd.  [Inner sleeve credits side] All songs written and arranged by Duran Duran ℗ 1982 Tritec Music Limiited © 1982 (except * © 1981) lyrics used....and published by Tritec Music/Carlin Music/Peterman Music Recorded Air, (London) Spring 1982.  Note:  * is printed on the lyrics side of the inner sleeve against "My Own Way") and that the credits on the inner sleeve give credit as "All songs written and arranged by" while the record labels give credit as "All songs composed and arranged by"  [Inner sleeve lyrics side] EMI Records EMC 3411 (1) (top right of inner sleeve lyric side)  Runouts are stamped but NICKZ which is etched. |

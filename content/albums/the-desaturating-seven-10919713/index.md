@@ -61,7 +61,7 @@ Reuniting the classic Primus lineup to record original music for the first time 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Desaturating_Seven |
-| Format         | Vinyl LP Album (Rainbow Splattered) |
+| Format         | 1× Vinyl (Rainbow Splattered) LP, Album |
 | Label          | ATO Records |
 | Catalog Number | ATO0404LP |
 | Notes | Issued with a printed inner sleeve with credits and lyrics. Including download card.  Hype-sticker on shrink-wrap: "Includes Digital Download NEW 2017 RELEASE Rainbow Splattered Colored Vinyl"  "The Desaturating Seven" was inspired by Uli De Rico's "The Rainbow Goblins".  ℗ & © 2017 ATO Records www.primusville.com |

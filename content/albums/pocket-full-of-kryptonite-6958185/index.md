@@ -61,7 +61,7 @@ The album's title is a quote from the opening track, "Jimmy Olsen's Blues", a hu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pocket_Full_of_Kryptonite |
-| Format         | Vinyl LP Album Repress |
+| Format         | 1× Vinyl LP, Album, Repress |
 | Label          | Epic |
 | Catalog Number | 88875013561 |
 | Discogs URL    | [Spin Doctors - Pocket Full of Kryptonite ](https://www.discogs.com/release/6958185-Spin-Doctors-Pocket-Full-of-Kryptonite-) |

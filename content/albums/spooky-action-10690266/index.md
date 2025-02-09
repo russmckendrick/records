@@ -54,7 +54,7 @@ Spooky Action is the debut solo album by English singer songwriter and ex-Mansun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spooky_Action |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE913C |
 | Discogs URL    | [Paul Draper - Spooky Action](https://www.discogs.com/release/10690266-Paul-Draper-Spooky-Action) |

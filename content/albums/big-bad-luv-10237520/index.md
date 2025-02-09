@@ -61,7 +61,7 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | 4AD |
 | Catalog Number | 4AD0007LP |
 | Notes | Housed in matte gatefold sleeve with color printed inner sleeve and separate printed insert featuring lyrics and credits.  Includes download card. includes a tattoo sticker.  Runouts are etched. |

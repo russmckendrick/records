@@ -42,7 +42,7 @@ styles: ["Techno"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition Remastered |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, Single, Limited Edition, Remastered |
 | Label          | London Music Stream |
 | Catalog Number | LMS1725104 |
 | Notes | (P) & (C) London Records Ltd.  Was available to purchase on 23/02/2024.  Limited to 1,000 copies. |

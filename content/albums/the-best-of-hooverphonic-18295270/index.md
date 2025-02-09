@@ -85,7 +85,7 @@ styles: ["Europop", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Reissue Stereo |
+| Format         | 3× Vinyl LP, Compilation, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2638 |
 | Notes | 180gr audiophile vinyl  |

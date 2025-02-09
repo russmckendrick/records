@@ -61,7 +61,7 @@ The album made the Top 10 in the United Kingdom.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Beast_Inside |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
+| Format         | 2× Vinyl (Purple Transparent) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Mute |
 | Catalog Number | Ldung14 |
 | Notes | Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |

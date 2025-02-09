@@ -53,7 +53,7 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Untitled_Unmastered |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 00602547866813 |
 | Notes | [Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU. |

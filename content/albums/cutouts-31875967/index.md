@@ -65,7 +65,7 @@ It remains to be seen whether anything can be read into the trio clearing the de
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cutouts |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | XL Recordings |
 | Catalog Number | XL1445LPE |
 | Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title. Includes a printed inner sleeve.  Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music and Warp Publishing |

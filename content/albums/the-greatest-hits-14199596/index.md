@@ -86,7 +86,7 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Greatest_Hits_(film) |
-| Format         | Vinyl LP Compilation Limited Edition Stereo |
+| Format         | Vinyl LP, Compilation, Limited Edition, Stereo |
 | Label          | [{'name': 'BMG', 'catno': ''}] |
 | Catalog Number | BMGCAT386TLP |
 | Notes | ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music. |

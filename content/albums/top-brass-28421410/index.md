@@ -49,7 +49,7 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Top_Brass |
-| Format         | Vinyl 7" 45 RPM Single Limited Edition Stereo |
+| Format         | 1× Vinyl 7", 45 RPM, Single, Limited Edition, Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX767S |
 | Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels. Limited to 1000 copies.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono" |

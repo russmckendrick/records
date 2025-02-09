@@ -57,7 +57,7 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Girl_Is_Crying_in_Her_Latte |
-| Format         | Vinyl LP Album Limited Edition Picture Disc |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Picture Disc |
 | Label          | Island Records |
 | Catalog Number | 5504002 |
 | Notes | Limited Edition Picture Disc. For a limited time signed prints were available to UK customers with the purchase of the LP from the Sparks webstore. Sticker on front of clear PVC sleeve with dust flap  'Made in Germany' sticker on back of clear sleeve |

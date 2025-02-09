@@ -59,7 +59,7 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Asia_(Asia_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Geffen Records |
 | Catalog Number | GEF 85577 |
 | Notes | Included insert printed with the cat no.    'Home Taping Is Killing Music' logo on rear sleeve.    'Made in England' on labels. |

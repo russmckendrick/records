@@ -59,7 +59,7 @@ Cracked Rear View is the debut studio album by Hootie & the Blowfish, released o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cracked_Rear_View |
-| Format         | Vinyl LP Album Limited Edition Reissue (Crystal Clear) |
+| Format         | 1× Vinyl (Crystal Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Atlantic |
 | Catalog Number | RCD1 82613 |
 | Notes | All songs published by Monica's Reluctance to Lob/EMI April Music Inc. ASCAP |

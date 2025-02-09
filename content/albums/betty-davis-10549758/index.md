@@ -71,7 +71,7 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Betty_Davis |
-| Format         | Vinyl LP Album Club Edition Reissue Remastered Repress Stereo (Silver & Blue Splatter, 180g) |
+| Format         | 1× Vinyl (Silver & Blue Splatter, 180g) LP, Album, Club Edition, Reissue, Remastered, Repress, Stereo |
 | Label          | Light In The Attic |
 | Catalog Number | LITA 026 |
 | Notes | Sticker: - VMP exclusive reissue - Gatefold, foil-stamped jacket - Remastered from original tapes - 180g silver & blue vinyl  - Liner notes booklet + coloring sheet  Originally released as Just Sunshine Records JSS-5, 1973  Sides referred as Side 1 and Side 2 on the sleeve.  © 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP). Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC. 1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC. |

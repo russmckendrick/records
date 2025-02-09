@@ -119,7 +119,7 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Shake_Your_Money_Maker_(album) |
-| Format         | Vinyl LP, Vinyl LP, Vinyl 2× LP, Box Set Album Deluxe Edition Remastered (30th Anniversary) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP | 2× Vinyl LP | 1× Box Set (30th Anniversary) Album, Deluxe Edition, Remastered |
 | Label          | American Recordings |
 | Catalog Number | 00602508802539 |
 | Notes | Features the original studio album remastered by George Drakoulias, 3 previously unheard studio recordings, 2 unreleased demos from Mr. Crowe’s Garden, a 14 track full unreleased concert from Atlanta, GA, in 1990, reproductions of an early Mr. Crowe’s Garden show flyer, set list, tour laminate, patch, and a 20 page book with unseen photos from the band’s personal archives.   |

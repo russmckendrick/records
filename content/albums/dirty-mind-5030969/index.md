@@ -60,7 +60,7 @@ After the punk-spiked indecency of “When You Were Mine”—one of the very be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dirty_Mind |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-7 |
 | Notes | Recorded somewhere in Uptown. Re-mixed at Hollywood Sound Recorders, Hollywood, Calif.  Mastered at Bernie Grundman Mastering from the Original Tapes  Mastered at A&M Records. Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  The runouts read the release was plated at RTI and pressed by Optimal. A similar [url=https://www.discogs.com/Prince-Dirty-Mind/release/2908664]US version[/url] exists. |

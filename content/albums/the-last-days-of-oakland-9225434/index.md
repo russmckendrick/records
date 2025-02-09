@@ -62,7 +62,7 @@ The Last Days of Oakland is the second album by American singer-songwriter Fanta
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Last_Days_of_Oakland |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Blackball Universe Records |
 | Catalog Number | none |
 | Notes | Released in a gatefold sleeve and includes download card P C 2016 Blackball Universe, under exclusive license to Believe Global Label Services  Made in France  The lacquer cut identifier appears as Λ_ (AL for Alex Nimmermann) in runouts.  |

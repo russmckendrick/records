@@ -91,7 +91,7 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation (Transparent Green Vinyl), Vinyl 7" 45 RPM (Black Vinyl), CD Compilation Promo |
+| Format         | 3× Vinyl (Transparent Green Vinyl) LP, Compilation | 1× Vinyl (Black Vinyl) 7", 45 RPM | 1× CD Compilation, Promo |
 | Label          | Rough Trade |
 | Catalog Number | rtbtc1lpx |
 | Notes | This version has CD  of 10 unmixed tracks with an unedited "Rockets Fall On Rocket Falls" by "Godspeed You! Black Emperor". The 7" with a black cover has 3 extra Max Richter songs, these are not on the CD, LP or Download version. There is a download code for 2 mixes [total time 120:22] The LP has 27 tracks The "Download Mix" has 33 tracks  3 panel sleeve.   |

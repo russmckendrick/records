@@ -67,7 +67,7 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dreamers_Are_Waiting |
-| Format         | Vinyl LP Album Limited Edition (Cyan Blue / Black Split) |
+| Format         | 1× Vinyl (Cyan Blue / Black Split) LP, Album, Limited Edition |
 | Label          | EMI |
 | Catalog Number | 3543054 |
 | Notes | Gatefold sleeve. Photo innersleeve. 8 pages lyrics insert.  An EMI Recorded Music Australia production. ℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company. Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the E.U.  Round Hype sticker: 180 gram Heavyweight Multi-Coloured Vinyl 3543054  Rectangular Hype sticker: Crowded House Dreamers Are Waiting 3543054  |

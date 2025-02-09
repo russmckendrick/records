@@ -69,7 +69,7 @@ Not only does the compilation contain six songs from their 1989 debut but the al
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Very_Best_of_the_Stone_Roses |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered (Gatefold Sleeve) |
+| Format         | 2× Vinyl (Gatefold Sleeve) LP, Compilation, Reissue, Remastered |
 | Label          | Silvertone Records |
 | Catalog Number | 88725406221 |
 | Notes | Remastered from the original master tapes by John Davis @ Metropolis Studios. Remastering was overseen by John Leckie. Both vinyl housed in picture sleeves. A 12x12" insert with liner notes, lyrics and credits is also included.  2012 is stated beside ℗&© on side two and side four labels respectively. 2016 is stated on insert. |

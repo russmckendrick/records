@@ -49,7 +49,7 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Parallel Records |
 | Catalog Number | ALLP2 |
 | Discogs URL    | [Back To The Planet - Mind + Soul Collaborators](https://www.discogs.com/release/1838415-Back-To-The-Planet-Mind-Soul-Collaborators) |

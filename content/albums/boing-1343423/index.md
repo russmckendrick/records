@@ -54,7 +54,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Korova |
 | Catalog Number | 9031 76273 1 |
 | Notes | Made in Germany |

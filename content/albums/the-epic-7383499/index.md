@@ -83,7 +83,7 @@ The Epic is the third studio album by American jazz saxophonist Kamasi Washingto
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Epic_(album) |
-| Format         | Vinyl 3× LP (180g), Box Set Album |
+| Format         | 3× Vinyl (180g) LP | 1× Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF050 |
 | Notes | - 3 x black 180g 12" in artworked 3mm spined sleeves all housed in a rigid board outer slipcase. - Half speed cut by Matt Colton at Alchemy Mastering. - Includes 2 x 12" poster inserts featuring exclusive artwork by KC Woolf Haxton and story adaptation and calligraphy by Kenturah Davis - Download MP3 Code sticker on sleeve of Volume 1 - The Plan - Black sticker on shrink wrap (front) - White BC sticker on shrink wrap (rear)  On rear box: P & C Brainfeeder 2015 Made in the EU |

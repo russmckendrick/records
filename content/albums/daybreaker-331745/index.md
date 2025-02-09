@@ -63,7 +63,7 @@ As of 2003 it has sold 169,000 copies in the United States.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Daybreaker_(Beth_Orton_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 37 |
 | Notes | All songs written by Beth Orton, except:  Tracks 1 & 9 which were written by Beth and Ted Barnes  Track 2 which was written by Beth and Johnny Marr  Track 8 which was written for Beth by Ryan Adams  Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read    All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10   |

@@ -55,7 +55,7 @@ This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for are
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hi_Infidelity |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | CBS/Sony |
 | Catalog Number | LP-1511-E |
 | Notes | ℗© 1980 CBS Inc.    Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan) |

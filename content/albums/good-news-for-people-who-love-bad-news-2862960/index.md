@@ -72,7 +72,7 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_News_for_People_Who_Love_Bad_News |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Epic |
 | Catalog Number | E2 87125 |
 | Notes | 180 gram reissue.  Includes vinyl-only bonus track "I've Got it All (Most)."  Includes printed inner-sleeves containing lyrics, credits and artwork.  EPIC E2-87125-1 © 2004 Sony Music Entertainment /℗ 2004 Sony Music Entertainment  Pressing and lacquer cutting credits are identified in runout etchings. |

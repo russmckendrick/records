@@ -60,7 +60,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE824 |
 | Notes | 180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.  Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo. Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo. Strings recorded by Steve Price at Angel Studios, London. Band photo by Rod Maurice for Le-HibOO. Photos reproduced courtesy of the National Oceanic & Atmospheric Administration. Management Andy Leff & Alx Leeks for Acme Music.  "Internal Landscapes" is dedicated to William Cavanagh.  Kscope is a Snapper Music label. ℗ 2012 Anathema © 2012 Anathema Made in Germany.  |

@@ -69,7 +69,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album Deluxe Edition |
+| Format         | 3× Vinyl LP, Album, Deluxe Edition |
 | Label          | Universal Music |
 | Catalog Number | 0602508245091 |
 | Notes | Unlike the original [m69821], which took its audio from various shows from that tour, this new release is the soundtrack to this one performance at Wembley, with the audio newly remixed by Giles Martin & Sam Okell at Abbey Road Studios.  This reissue removes the 'Shining Star' studio track and restores the lost 'Lately' track to complete the show.      Includes a 12 page book of images and notes and a download card |

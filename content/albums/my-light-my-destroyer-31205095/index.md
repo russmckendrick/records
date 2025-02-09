@@ -59,7 +59,7 @@ My Light, My Destroyer is the third studio album by American pop musician Cassan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Light,_My_Destroyer |
-| Format         | Vinyl LP (Pink Clear Wave) |
+| Format         | 1× Vinyl (Pink Clear Wave) LP |
 | Label          | Dead Oceans |
 | Catalog Number | DOC346LP-C1 |
 | Notes | Initial copies included a SIGNED 'Liner Notes' booklet |

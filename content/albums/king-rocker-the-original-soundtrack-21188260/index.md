@@ -62,7 +62,7 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Fire Records |
 | Catalog Number | KROCK001LP |
 | Notes | Comes in a plain black paper inner sleeve Sleeve notes by Stewart Lee Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham Also contains download card |

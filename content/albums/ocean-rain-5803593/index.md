@@ -54,7 +54,7 @@ The band wrote the songs for the new album in 1983. In early 1984 they recorded 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ocean_Rain |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Korova |
 | Catalog Number | VIN180LP075 |
 | Notes | 2014 Repressing in Black Vinyl |

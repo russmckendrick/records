@@ -60,7 +60,7 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sheet_One |
-| Format         | Vinyl 2× LP Album Bioplastic Reissue (30th Anniversary Edition) |
+| Format         | 2× Vinyl (30th Anniversary Edition) LP, Album, Bioplastic, Reissue |
 | Label          | NovaMute |
 | Catalog Number | NOMU22LP |
 | Notes | 30th Anniversary edition Pressed using the original masters 100% BioVinyl with reduced petroleum content and significant CO2 emission savings mastered by manmade berlin |

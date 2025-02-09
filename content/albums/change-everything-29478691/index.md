@@ -63,7 +63,7 @@ Change Everything is the third studio album by Del Amitri, released on 1 June 19
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Change_Everything |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | A&M Records |
 | Catalog Number | UMCLP070 |
 | Notes | 2024 reissue on black 180g vinyl |

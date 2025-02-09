@@ -66,7 +66,7 @@ The Fragile Army is the Polyphonic Spree's only record on which lead guitarist A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Fragile_Army |
-| Format         | Vinyl 2× LP (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP |
 | Label          | Gut Records |
 | Catalog Number | INSREC05V |
 | Notes | This is advertised as a "2 LP 180 gram vinyl", however the actual weight of the records are significantly lower. |

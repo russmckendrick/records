@@ -102,7 +102,7 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Definitely_Maybe |
-| Format         | Vinyl 4× LP Album Deluxe Edition Reissue Remastered (30th Anniversary) |
+| Format         | 4× Vinyl (30th Anniversary) LP, Album, Deluxe Edition, Reissue, Remastered |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP125X |
 | Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song.  In the runouts, "1⋀", "1+", "1T", "1X", "1=" & "1V" are mirrored. |

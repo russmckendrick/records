@@ -58,7 +58,7 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/2112_(album) |
-| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Format         | 1× Vinyl (Gatefold Sleeve) LP, Album |
 | Label          | Mercury |
 | Catalog Number | 9100 039 |
 | Notes | ℗ 1976 Phonogram Inc.  Runouts are stamped except for the 'PR' on side A which is etched. |

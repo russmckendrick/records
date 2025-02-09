@@ -63,7 +63,7 @@ And because Bon Jovi is, at heart, a pop band, the group pulls it all together w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slippery_When_Wet |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Mercury |
 | Catalog Number | 06025 470 292-1 (8) |
 | Notes | Comes with a lyric inner sleeve and includes a download coupon. The sticker on the front of the shrink-wrap may vary.  The inner sleeve has different durations to the labels for all tracks except B4: - A1: 5:27 - A2: 3:42 - A3: 4:09 - A4: 4:18 - A5: 5:08 - B1 4:16 - B2: 3:30 - B3: 4:30 - B5: 3:54  [Back cover and labels] ℗© 2016 Mercury Records, a division of UMG Recordings, Inc. Made in the EU.  [Inner sleeve] Recorded at Little Mountain, Vancouver, B.C. Mastered by: Ryan Smith at Sterling Sound, New York © 2016 Mercury Records, a division of UMG Recordings, Inc. |

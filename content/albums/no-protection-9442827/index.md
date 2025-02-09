@@ -55,7 +55,7 @@ No Protection is a 1995 dub remix of Massive Attack's second album Protection by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Protection_(Massive_Attack_album) |
-| Format         | Vinyl LP Album Reissue (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album, Reissue |
 | Label          | Virgin |
 | Catalog Number | 5700963 |
 | Notes | A Mad Professor dub version of Massive Attack's [url=http://www.discogs.com/Massive-Attack-Protection/master/32634] "Protection"[/url] album.   ℗ 1995 Virgin Records Ltd.  (B1)℗ 1994 Virgin Records Ltd. © 2016 Virgin Records Ltd.  Track duration not mentioned on record/sleeve.  Includes a download card for the album on l[url=https://www.discogs.com/release/9665728]ossless digital WAV/PCM files[/url].  |

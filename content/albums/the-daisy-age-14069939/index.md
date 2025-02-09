@@ -62,7 +62,7 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Marbled) |
+| Format         | 2× Vinyl (Yellow Marbled) LP, Compilation, Limited Edition |
 | Label          | Ace |
 | Catalog Number | XXQLP2062C |
 | Notes | Limited to 1,000 copies. |

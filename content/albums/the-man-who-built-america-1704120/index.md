@@ -56,7 +56,7 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | DJM Records (2) |
 | Catalog Number | DJF 20546 |
 | Notes | Recorded and mixed at Advision, October 1978.  Laminated sleeve. Included printed inner sleeve.  Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y" |

@@ -65,7 +65,7 @@ Beneath the Eyrie is the seventh studio album by American alternative rock band 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Beneath_the_Eyrie |
-| Format         | Vinyl LP Album (White) |
+| Format         | 1× Vinyl (White) LP, Album |
 | Label          | Infectious Music |
 | Catalog Number | INFECT526LPC |
 | Notes | Indies Edition in gatefold sleeve with lyric inner sleeve plus download code.   Tracks numbered sequentially regardless of sides. |

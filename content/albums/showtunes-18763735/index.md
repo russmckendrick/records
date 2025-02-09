@@ -59,7 +59,7 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Showtunes_(Lambchop_album) |
-| Format         | Vinyl LP 45 RPM Album Limited Edition Stereo (White) |
+| Format         | 1× Vinyl (White) LP, 45 RPM, Album, Limited Edition, Stereo |
 | Label          | City Slang |
 | Catalog Number | SLANG50362LP |
 | Notes | ℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)   |

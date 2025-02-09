@@ -62,7 +62,7 @@ The Interrupters are an American ska punk band formed in Los Angeles, California
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Interrupters_(band) |
-| Format         | Vinyl LP Album Repress |
+| Format         | 1× Vinyl LP, Album, Repress |
 | Label          | Hellcat Records |
 | Catalog Number | 0530-1 |
 | Notes | Track A7 & B6 are bonus tracks. Printed innersleeve with lyrics |

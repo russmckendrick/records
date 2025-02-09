@@ -64,7 +64,7 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fuzzy_Logic_(Super_Furry_Animals_album) |
-| Format         | Vinyl LP Album Reissue Remastered (20th Anniversary,180g, Gatefold) |
+| Format         | 1× Vinyl (20th Anniversary,180g, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCATLP77 |
 | Notes | Recorded and mixed at Rockfield Studios, Wales, Earth.  2016 reissue of original 1996 release.  2016 new remaster from the original tapes.  *************************************************************************************************************************************************************  The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched |

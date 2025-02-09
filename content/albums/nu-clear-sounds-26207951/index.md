@@ -60,7 +60,7 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nu-Clear_Sounds |
-| Format         | Vinyl LP Album Reissue Remastered (Clear With Green Nuclear Splatter) |
+| Format         | 1× Vinyl (Clear With Green Nuclear Splatter) LP, Album, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT759CLP |
 | Notes | Gatefold sleeve containing band photos, tracklist and credits. Record is housed in a matte full-colour innersleeve with songtexts on one side.  Tracks are numbered as exactly as on [r=649223]  Recorded at Rockfield, Wales and Astoria, London - Spring & Summer 1998.  Strings recorded at Metropolis.   Management by Tav and Pat  Manufactured in Czech Republic |

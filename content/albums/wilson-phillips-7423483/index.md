@@ -61,7 +61,7 @@ styles: ["Soft Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hold_On_(Wilson_Phillips_song) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | SBK Records |
 | Catalog Number | SBKLP 5 |
 | Notes | Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854] |

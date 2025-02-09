@@ -57,7 +57,7 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Real_Folk_Blues_(Howlin%27_Wolf_album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Dolchess |
 | Catalog Number | DOL1502H |
 | Notes | 180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched. |

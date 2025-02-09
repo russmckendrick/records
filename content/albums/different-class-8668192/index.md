@@ -61,7 +61,7 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Different_Class |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785288 |
 | Notes | Includes a custom inner sleeve. There are two print errors on the inner sleeve which lists;  Track 6 as LIVE BED SHOW DOYLE. Track 7 as Somethings Changed  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |

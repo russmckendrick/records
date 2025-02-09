@@ -68,7 +68,7 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Slanted_and_Enchanted |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red w/ White & Black Splatter) |
+| Format         | 1× Vinyl (Red w/ White & Black Splatter) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Matador |
 | Catalog Number | OLE038LP |
 | Notes | 30th Anniversary Red w/ White & Black Splatter Vinyl  Made in Czech Republic |

@@ -54,7 +54,7 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear & Black) |
+| Format         | 1× Vinyl (Clear & Black) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | HoloDeck |
 | Catalog Number | HD015LP |
 | Notes | 150g vinyl with yellow/black alternate sleeve artwork.    Includes download code (choice of formats, via Bandcamp). |

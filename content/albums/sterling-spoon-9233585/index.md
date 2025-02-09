@@ -91,7 +91,7 @@ styles: ["Alternative Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album (Gatefold), Box Set Compilation Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl (Gatefold) LP, Album | 1× Box Set Compilation, Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 556516 |
 | Notes | Anniversary edition, limited to 5000 copies worldwide. Contains a [l873810] download coupon for a digital version of the release.  All albums are unsealed inside the outer packaging, with each disc is housed in a poly-lined white sleeve. "Nothing's Shocking" has an additional colour inner sleeve and "Ritual De Lo Habitual" has a colour insert. |

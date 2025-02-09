@@ -58,7 +58,7 @@ styles: ["Prog Rock", "Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Ear Music |
 | Catalog Number | 0211265EMU |
 | Notes | Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.  Recorded at The Racket Club, Bucks and Real World, Box.  ℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH. Made in Germany |

@@ -108,7 +108,7 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mellon_Collie_and_the_Infinite_Sadness |
-| Format         | Vinyl 4× LP Album Reissue Remastered, Box Set |
+| Format         | 4× Vinyl LP, Album, Reissue, Remastered | 1× Box Set |
 | Label          | Virgin |
 | Catalog Number | 5099997855316 |
 | Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.  Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |

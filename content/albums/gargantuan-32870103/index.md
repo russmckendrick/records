@@ -52,7 +52,7 @@ styles: ["Space Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (Gold vinyl) |
+| Format         | 2× Vinyl (Gold vinyl) LP, Album, Stereo |
 | Label          | Rockosmos |
 | Catalog Number | ROK301 |
 | Notes | No barcode on the release. |

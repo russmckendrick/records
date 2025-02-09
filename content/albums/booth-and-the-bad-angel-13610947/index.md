@@ -56,7 +56,7 @@ Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collabor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Booth_and_the_Bad_Angel_(album) |
-| Format         | Vinyl LP Album (Red) |
+| Format         | 1× Vinyl (Red) LP, Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC419 |
 | Notes | The classic collaboration between Tim Booth of James & Angelo Badalamenti. Available for the first time on vinyl. Pressed on red translucent 180g heavyweight LP.  No pressing plant ID in the deadwax.  No download code included. |

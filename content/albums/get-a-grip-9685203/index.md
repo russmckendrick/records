@@ -72,7 +72,7 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Get_a_Grip |
-| Format         | Vinyl 2× LP Album Reissue (180 grams) |
+| Format         | 2× Vinyl (180 grams) LP, Album, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954398 |
 | Notes | Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA. Mixed at Can-Am Studios, Tarzana, CA. Mastered at Masterdisk, NYC.  Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits.   ℗ 1993 © 2016 Geffen Records  Sticker, includes a voucher to download MP3 version of the album. |

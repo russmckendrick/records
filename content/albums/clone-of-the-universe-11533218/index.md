@@ -53,7 +53,7 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Clone_of_the_Universe |
-| Format         | Vinyl LP Album (Black / Blue Swirl) |
+| Format         | 1× Vinyl (Black / Blue Swirl) LP, Album |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD014 |
 | Notes | Includes a printed 12" x 12" sheet with photos and credits.  LP's from band store came with lyric sheets for each of the 7 songs just as Scott Hill wrote them down to sing from in the studio and die cut prism stickers.  ℗ © Fu Manchu Under License To At The Dojo Records  Recorded, Engineered And Mixed [...] At The Racket Room In Santa Ana, CA July 2017 Drums / Bass On [B, A1, A5] Were Recorded [...] At Susstudio In Simi Valley, CA July 2017 All Songs Written By [...] (ASCAP) And Published By Fu Manchu (ASCAP) Alex Lifeson Appears Courtesy Of Lersxt Music |

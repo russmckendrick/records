@@ -62,7 +62,7 @@ Casual Sex in the Cineplex is the debut album by the Sultans of Ping FC, recorde
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Casual_Sex_in_the_Cineplex |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Translucent Yellow) |
+| Format         | 1× Vinyl (Translucent Yellow) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3367C |
 | Notes | 30th Anniversary Edition  Limited edition of 1500 individually numbered copies on translucent yellow coloured vinyl  Includes printed inner sleeve with credits and lyrics.  All tracks recorded at Marcus Studios, except tracks A5 and A6, produced and recorded at Greenhouse Studios. All tracks published by Dreamsong Prods. Ltd / EMI Music Publishing Ltd. Original sound recording made by Rhythm King Records exclusively licensed to Sony Music Entertainment (UK) Ltd.   |

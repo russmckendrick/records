@@ -53,7 +53,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP375 |
 | Discogs URL    | [Mark Morriss - The Taste Of Mark Morriss](https://www.discogs.com/release/7449821-Mark-Morriss-The-Taste-Of-Mark-Morriss) |

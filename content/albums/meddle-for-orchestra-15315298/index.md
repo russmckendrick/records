@@ -47,7 +47,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Unofficial Release (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition, Unofficial Release |
 | Label          | Coda Records Ltd |
 | Catalog Number | CRLVNY026 |
 | Discogs URL    | [Pink Floyd - Meddle For Orchestra](https://www.discogs.com/release/15315298-Pink-Floyd-London-Symphonia-Meddle-For-Orchestra) |

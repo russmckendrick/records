@@ -46,7 +46,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition Picture Disc |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, EP, Limited Edition, Picture Disc |
 | Label          | Panegyric |
 | Catalog Number | DGMP121 |
 | Notes | Track A: recorded live at the Warfield Theatre, San Francisco, October 4th, 2014. Track B1: recorded live at the Moore Theatre, Seattle, October 6th, 2014. Track B2: recorded live at the Orpheum Theatre, Los Angeles, September 30th, 2014. |

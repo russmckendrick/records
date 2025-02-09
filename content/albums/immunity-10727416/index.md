@@ -58,7 +58,7 @@ Immunity is the fourth studio album by English electronic musician and producer 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Immunity_(Jon_Hopkins_album) |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Domino |
 | Catalog Number | WIGLP298 |
 | Notes | • 180-gram heavyweight virgin vinyl • Gatefold sleeve • Includes glossy insert with printed artwork/details/credits • Includes a card for MP3 album download |

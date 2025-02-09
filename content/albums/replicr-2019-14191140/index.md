@@ -78,7 +78,7 @@ replicr, 2019 is the sixth studio album by 65daysofstatic, which was released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Replicr,_2019 |
-| Format         | Vinyl LP Album, CD Album |
+| Format         | 1× Vinyl LP, Album | 1× CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 046 |
 | Discogs URL    | [65daysofstatic - replicr, 2019](https://www.discogs.com/release/14191140-65daysofstatic-replicr-2019) |

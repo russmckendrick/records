@@ -59,7 +59,7 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Boy_with_the_Arab_Strap |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Repress (Green Transparent) |
+| Format         | 1× Vinyl (Green Transparent) LP, Album, Record Store Day, Limited Edition, Reissue, Repress |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP003RSD |
 | Notes | Record Store Day 2021 Exclusive Gatefold sleeve with die cut, poly lined paper inner sleeve. Lyrics are printed inside the gatefold.  (P) & (C) 1998 Jeepster Recordings Made in EU.  Distributed by Universal Music Operations Ltd.       The title of this record in no way refers to the cover star, by the way.   |

@@ -62,7 +62,7 @@ The title track became one of her most successful singles, peaking at number 21 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Me_Myself_I |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64809 |
 | Notes | Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"  |

@@ -63,7 +63,7 @@ Still, even in the midst of <i>Debut</i>’s constant tonal shifts and switchbac
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Debut_(Bj%C3%B6rk_album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Polydor |
 | Catalog Number | 4751686 |
 | Notes | Reissue on black 180 gram vinyl, with black hype sticker. Includes card with download voucher. Appears identical to the 2015 edition, although this one features new artwork reproductions. Made in Germany. 4751686 is printed on the back cover above the barcode, 0602547516862 is printed on the bottom spine. Runouts are etched. The parts "1I△" and "3+" are mirrored. |

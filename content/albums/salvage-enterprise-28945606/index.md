@@ -63,7 +63,7 @@ styles: ["Indie Rock", "Folk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Yellow [Morning Sun]) |
+| Format         | 1× Vinyl (Yellow [Morning Sun]) LP, Album, Limited Edition |
 | Label          | Good Records |
 | Catalog Number | GRR106LP |
 | Notes | Back cover lists tracks in Polyphonic Spree sequential order (e.g. Section 44: Galloping Seas). Side A label only lists the track names (e.g. Galloping Seas). |

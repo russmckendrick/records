@@ -47,7 +47,7 @@ styles: ["Soul", "Funk", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Harmless |
 | Catalog Number | HURTLP055 |
 | Discogs URL    | [DJ Spinna - The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)](https://www.discogs.com/release/736967-DJ-Spinna-Bobbito-The-Wonder-Of-Stevie-Melody-Man-Further-Forays-Into-The-Stevie-Songbook) |

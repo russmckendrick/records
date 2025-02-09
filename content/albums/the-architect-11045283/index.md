@@ -45,7 +45,7 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP |
+| Format         | 1× Vinyl 12", 45 RPM, EP |
 | Label          | Fire Records |
 | Catalog Number | FIRE485EP |
 | Notes | Includes a postcard with a download code. |

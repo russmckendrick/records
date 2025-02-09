@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE876 |
 | Notes | The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).  180g heavyweight vinyl, gatefold cover.  All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison. |

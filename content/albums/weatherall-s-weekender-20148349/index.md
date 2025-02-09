@@ -46,7 +46,7 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM Limited Edition Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) 12", 33 ⅓ RPM, Limited Edition, Reissue |
 | Label          | Heavenly |
 | Catalog Number | HVN589 |
 | Notes | Love Record Stores yellow vinyl repress.  Issued in a die-cut Heavenly house sleeve with an updated design using the Flowered Up logo instead of the Heavenly bird logo, housed inside an outer polythene sleeve. A barcode sticker is affixed to the outer polythene sleeve.   ℗ 1992 Sony Music Entertainment UK Limited. Licensed courtesy of Sony Music Entertainment UK Limited. Made in the EU |

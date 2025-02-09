@@ -67,7 +67,7 @@ As part of a re-release of their first two studio albums, Hunting High and Low w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hunting_High_and_Low |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1 25300 |
 | Notes | 140-gram clear vinyl - Limited edition of 8,000 copies. |

@@ -79,7 +79,7 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pills_%27n%27_Thrills_and_Bellyaches |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 60986 |
 | Notes | 25th Anniversary edition, released on Record Store Day 2015. Mastered from the original tapes on limited edition 180 gram yellow vinyl.  Published by London Music Ltd. except B3 published by Tapestry Music Ltd. © 1970 |

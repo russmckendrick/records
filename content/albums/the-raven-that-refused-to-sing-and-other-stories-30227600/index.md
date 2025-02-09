@@ -55,7 +55,7 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Raven_That_Refused_to_Sing_(And_Other_Stories) |
-| Format         | Vinyl 2× LP Album Limited Edition (glow in the dark) |
+| Format         | 2× Vinyl (glow in the dark) LP, Album, Limited Edition |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM363LPL |
 | Notes | 10th Anniversary 2LP glow in the dark vinyl edition. Gatefold sleeve. Includes an 8-page booklet. |

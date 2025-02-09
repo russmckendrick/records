@@ -67,7 +67,7 @@ Foreign Affair is the seventh solo studio album by Tina Turner, released on Sept
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Foreign_Affair |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, Gatefold) |
+| Format         | 2× Vinyl (White, Gatefold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295176532 |
 | Notes | Originally ℗ 1989, remaster ℗ 2021 ... Parlophone Records Ltd. © 2021 Parlophone Records Ltd. ... A Warner Music Group company.  Made in Germany. |

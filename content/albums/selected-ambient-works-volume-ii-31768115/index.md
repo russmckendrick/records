@@ -91,7 +91,7 @@ Not everyone was happy with <i>Volume II</i>, though. James’ illustrious caree
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Selected_Ambient_Works_Volume_II |
-| Format         | Vinyl 4× LP Album Bioplastic Reissue Remastered Stereo (Expanded Edition) |
+| Format         | 4× Vinyl (Expanded Edition) LP, Album, Bioplastic, Reissue, Remastered, Stereo |
 | Label          | Warp Records |
 | Catalog Number | WARPLP21R |
 | Notes | Black 4LP vinyl in polylined innersleeves in foil blocked wide spine jacket. Includes a fold-out insert with liner notes and a sticker sheet. Pressed on BioVinyl.  On label: ℗ and © Warp Records 2024  On insert: ℗ 2024 Warp Records Limited © 2024 Warp Records Limited  Blue Calx taken from Rephlex/[url=https://www.discogs.com/release/51236-Various-The-Philosophy-Of-Sound-And-Machine]Art2cd[/url]  Made in EU  Track names taken from Warp's website.  Plating stamper " V1, +1, 1+, -l2, T1 and x1" in runouts are mirrored. |

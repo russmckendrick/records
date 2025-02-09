@@ -57,7 +57,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Setanta |
 | Catalog Number | INT 828-369-1 |
 | Notes | Issued in a gatefold cover with a printed inner sleeve.  A1, B1, B2 [*] ℗ 1991 Go! Discs Ltd. ℗ 1992 Go! Discs Ltd. © 1992 Go! Discs Ltd. |

@@ -60,7 +60,7 @@ The Band, also known as The Brown Album, is the second studio album by the Canad
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Band_(album) |
-| Format         | Vinyl LP Album Reissue Stereo (180gm Gatefold) |
+| Format         | 1× Vinyl (180gm Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 00602547206701 |
 | Discogs URL    | [The Band - The Band](https://www.discogs.com/release/7797025-The-Band-The-Band) |

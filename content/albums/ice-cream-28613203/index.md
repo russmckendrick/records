@@ -58,7 +58,7 @@ styles: ["Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1130 |
 | Notes | 140g Black Vinyl Includes print signed by [a506138] |

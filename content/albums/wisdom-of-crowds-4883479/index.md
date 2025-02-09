@@ -63,7 +63,7 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds |
-| Format         | Vinyl 2× LP Album Limited Edition ( Red Transparent) |
+| Format         | 2× Vinyl ( Red Transparent) LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE844 |
 | Notes | Mastered at 360 Mastering, London.    ℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.    Made in Germany.    Limited edition red vinyl in special mirrored foil gatefold covers. |

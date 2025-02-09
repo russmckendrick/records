@@ -56,7 +56,7 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, Album, Reissue |
 | Label          | Skint |
 | Catalog Number | BRASSIC2LPS |
 | Notes | 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.  "Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968." "Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints" |

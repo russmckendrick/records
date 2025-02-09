@@ -47,7 +47,7 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7" 45 RPM Single Reissue (Half Speed Remastered) |
+| Format         | 1× Vinyl (Half Speed Remastered) 7", 45 RPM, Single, Reissue |
 | Label          | Two-Tone Records |
 | Catalog Number | CHS TTH 17 |
 | Notes | 40th Anniversary Edition Double 'A' Side Single Half-Speed Mastered at Abbey Road Studios |

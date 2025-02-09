@@ -80,7 +80,7 @@ Discography: The Complete Singles Collection is the first greatest hits album by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Discography:_The_Complete_Singles_Collection |
-| Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
+| Format         | 2× Vinyl LP, Compilation, Limited Edition, Remastered, Stereo |
 | Label          | Mute |
 | Catalog Number | dung36lpx |
 | Notes | "Midnight Licorice" colour double vinyl [i.e., black!]  Manufactured in Poland |

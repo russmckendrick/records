@@ -61,7 +61,7 @@ The success of this album was a pleasant surprise for the band. After the commer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Deserter%27s_Songs |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Excelsior Melodies |
 | Catalog Number | EXM-309 |
 | Discogs URL    | [Mercury Rev - Deserter's Songs](https://www.discogs.com/release/12865243-Mercury-Rev-Deserters-Songs) |

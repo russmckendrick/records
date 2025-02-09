@@ -57,7 +57,7 @@ styles: ["Soundtrack", "Gangsta", "Contemporary R&B"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Blue Translucent, 180g) |
+| Format         | 2× Vinyl (Blue Translucent, 180g) LP, Compilation, Limited Edition, Reissue |
 | Label          | Universal |
 | Catalog Number | B0030621-01 |
 | Discogs URL    | [Various - Boyz N The Hood (Music From The Motion Picture)](https://www.discogs.com/release/14303949-Various-Boyz-N-The-Hood-Music-From-The-Motion-Picture) |

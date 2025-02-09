@@ -74,7 +74,7 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Boys_for_Pele |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | 081227947774 |
 | Notes | "Newly remastered" release in stickered sleeve.  "Includes download code for MP3 version of the album". with printed lyricsheet.  Runouts are etched, Optimal plating symbols are mirrored. |

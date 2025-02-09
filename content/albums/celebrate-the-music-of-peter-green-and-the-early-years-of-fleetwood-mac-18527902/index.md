@@ -86,7 +86,7 @@ The album reached the album charts in several countries upon its release, includ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Celebrate_the_Music_of_Peter_Green_and_the_Early_Years_of_Fleetwood_Mac |
-| Format         | Vinyl 4× LP Album |
+| Format         | 4× Vinyl LP, Album |
 | Label          | BMG |
 | Catalog Number | BMGCAT454QLP |
 | Notes | Widespine gatefold   |

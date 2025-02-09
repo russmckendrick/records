@@ -53,7 +53,7 @@ styles: ["Country", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Repress (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Repress |
 | Label          | Columbia |
 | Catalog Number | 88875111981 |
 | Notes | Sticker on cover can vary with 2 versions: We are vinyl sticker or Legacy sticker.  The labels state that the record is mono. The audio is actually stereo.  Contains download card. |

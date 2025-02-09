@@ -71,7 +71,7 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cure_for_Pain |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Blue Marbled, 180 Gram) |
+| Format         | 1× Vinyl (Blue Marbled, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |
 | Notes |  Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |

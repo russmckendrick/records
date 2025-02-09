@@ -65,7 +65,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue (180gm) |
+| Format         | 2× Vinyl (180gm) LP, Compilation, Reissue |
 | Label          | Warner Music Group |
 | Catalog Number | 0190295669249 |
 | Discogs URL    | [The Jesus And Mary Chain - 21 Singles 1984-1998](https://www.discogs.com/release/12212376-The-Jesus-And-Mary-Chain-21-Singles-1984-1998) |

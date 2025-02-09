@@ -63,7 +63,7 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Red / Blue 'Inkspot'), Vinyl LP (White), All Media Compilation Deluxe Edition Limited Edition Stereo |
+| Format         | 1× Vinyl (Red / Blue 'Inkspot') LP | 1× Vinyl (White) LP | 1× All Media Compilation, Deluxe Edition, Limited Edition, Stereo |
 | Label          | Two Piers |
 | Catalog Number | BN5LPXX |
 | Notes | Limited Edition print of 500. |

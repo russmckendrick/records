@@ -52,7 +52,7 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Limited Edition |
+| Format         | 1× Vinyl LP, Record Store Day, Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 6730886 |
 | Notes | RSD Exclusive Release limited to 3500 copies.  Comes with a download card for the album & bonus track "Cold Little Heart - Live From Royal Albert Hall, London 2017".  ℗ © 2018 Polydor Limited  Made in the Czech Republic. [back sleeve, labels]  Publisher BMG Chrysalis Music as BMG Chrysalis  |

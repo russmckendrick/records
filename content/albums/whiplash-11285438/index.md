@@ -59,7 +59,7 @@ Whiplash received generally positive reviews from music critics, some of whom no
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whiplash_(album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Fontana |
 | Catalog Number | 5712913 |
 | Discogs URL    | [James - Whiplash](https://www.discogs.com/release/11285438-James-Whiplash) |

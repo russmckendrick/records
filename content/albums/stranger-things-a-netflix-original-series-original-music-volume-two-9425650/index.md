@@ -80,7 +80,7 @@ styles: ["Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (Clear [Frosted Clear] With White Blue And Red Splatter) |
+| Format         | 2× Vinyl (Clear [Frosted Clear] With White Blue And Red Splatter) LP, Album, Stereo |
 | Label          | Invada |
 | Catalog Number | INV177LP |
 | Notes | Special Thanks Lynn Hobensack and Don Smith  Music Published by Maisie Anthems (ASCAP)  This Compilation ℗ 2016 Netflix Studios, LLC. All Artwork and Photographs © 2016 Netflix, Inc. Manufactured and Distributed by Invada/Lakeshore Records, LLC.  Mailorder exclusive only available through the Invada webstore. Housed in an extra thick 425g heavyweight gatefold sleeve. A printed insert is included which features additional artwork and credits. |

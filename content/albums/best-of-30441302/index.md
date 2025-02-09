@@ -79,7 +79,7 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Best_of_Bruce_Springsteen |
-| Format         | Vinyl 2× LP Album Compilation Stereo (Blue [Atlantic Blue]) |
+| Format         | 2× Vinyl (Blue [Atlantic Blue]) LP, Album, Compilation, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19658869901 |
 | Notes | Atlantic Blue vinyl release  On back cover: THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM. COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.  On sticker: A CARRER-SPANNING HITS COLLECTION  Features 18 Classic Tracks Including  Dancing In The Dark, Thunder Road + More  2LPs on ATLANTIC BLUE Vinyl  The matrix runouts are etched up to RKS and stamped for the rest but the Roman numbers on the end are also etched. |

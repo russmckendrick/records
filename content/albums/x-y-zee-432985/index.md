@@ -45,7 +45,7 @@ styles: ["Breakbeat", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" (Yellow) |
+| Format         | 1× Vinyl (Yellow) 12" |
 | Label          | RCA |
 | Catalog Number | PT 44244 |
 | Discogs URL    | [Pop Will Eat Itself - X Y & Zee](https://www.discogs.com/release/432985-Pop-Will-Eat-Itself-X-Y-Zee) |

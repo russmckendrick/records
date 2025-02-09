@@ -58,7 +58,7 @@ The title track, written by the team of Dan Penn and Carson Whitsett with Hoy Li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Don%27t_Give_Up_on_Me_(album) |
-| Format         | Vinyl 2× LP 45 RPM Album Limited Edition Reissue Repress (Gatefold - Transparent) |
+| Format         | 2× Vinyl (Gatefold - Transparent) LP, 45 RPM, Album, Limited Edition, Reissue, Repress |
 | Label          | Anti- |
 | Catalog Number | 0358-3 |
 | Notes | very similar to [r25358653], except this is a 2022 Limited edition of 2000 copies on transparent vinyl |

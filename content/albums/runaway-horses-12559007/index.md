@@ -61,7 +61,7 @@ The album peaked at number 37 on the US Billboard 200, a considerable fall in sa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Runaway_Horses_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
+| Format         | 1× Vinyl (Green Translucent) LP, Album, Limited Edition, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC307 |
 | Notes | Sticker: 'Pressed on 180gm heavyweight translucent green vinyl'. Printed inner sleeve.  |

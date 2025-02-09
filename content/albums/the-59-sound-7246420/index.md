@@ -65,7 +65,7 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_%2759_Sound |
-| Format         | Vinyl LP Limited Edition Reissue Stereo (Blue Transparent) |
+| Format         | 1× Vinyl (Blue Transparent) LP, Limited Edition, Reissue, Stereo |
 | Label          | SideOneDummy Records |
 | Catalog Number | SD1358-1 |
 | Notes | Made in USA.  Cat# SD1358-1 appears on spine, Cat# SD-1358-2 appears on front cover  First barcode is on a sticker placed on the shrink-wrap, obscuring the barcode printed on the sleeve.  Gatefold sleeve.  Two hype stickers on shrink-wrap: "SideOneDummy Records Celebrating 20 Years" "Limited Edition Colored Vinyl"  Tracks listed sequentially on rear sleeve.  Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".  In memory of Zach Finch, John Soyack an Travis Connor. |

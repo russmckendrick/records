@@ -61,7 +61,7 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Vivid_(Living_Colour_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink, 180g) |
+| Format         | 1× Vinyl (Pink, 180g) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP596 |
 | Notes | Music on Vinyl hypesticker: "Limited edition of 1000 copies on Pink Vinyl featuring the grammy award wining song "Cult Of Personality"  180 gram audiophile vinyl"  Originally released ℗&© 1988 Sony Music Entertainment. This release ℗&©  2012 Sony Music Entertainment  |

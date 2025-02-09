@@ -58,7 +58,7 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Healing_(Todd_Rundgren_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bearsville |
 | Catalog Number | BHS 3522 |
 | Notes | All songs copyright Humanoid Music, 1980. (BMI) Marketed by AVATAR Records & Screenworks Ltd. Distributed by Spartan |

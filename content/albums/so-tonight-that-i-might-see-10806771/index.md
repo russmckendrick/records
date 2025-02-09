@@ -55,7 +55,7 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/So_Tonight_That_I_Might_See |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 00602557537574 |
 | Notes | A Capitol Records release; ℗ 2016 © 2017 Capitol Records, LLC. All rights reserved. Unauthorised copying, reproducing, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 06406. 006062557537574. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands.  MP3 download coupon included.  Initial run has "Back to Black" sticker on front shrink.  Later runs do not have the sticker or download code and instead have a "Made in Germany" sticker on the back of a shrink wrap.  Part of matrix sequence in runouts - 5753757 - is etched, the rest is stamped. |

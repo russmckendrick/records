@@ -76,7 +76,7 @@ The selections were remastered by Jon Astley, and the cover art by Richard Evans
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Who_Hits_50!_(album) |
-| Format         | Vinyl 2× LP Compilation Remastered |
+| Format         | 2× Vinyl LP, Compilation, Remastered |
 | Label          | Polydor |
 | Catalog Number | 3794051 |
 | Notes | This compilation ℗ © 2014 Polydor Records Ltd. (UK). 3794051.  Catalog Number Disc 1: 3794052 Catalog Number Disc 1: 3794053  Track D5 recorded at British Grove Studios and Yellow Fish Studios. All royalties from this Track are going to Teen Cancer America.  Dedicated to the memory of Keith Moon (1946-1978) and John Entwistle (1944-2002).  Differs from [r11234307]: runout information LP1.  Runouts are laser etched except 'ABBEY ROAD 1/2 SPEED. MILES.' is hand etched. |

@@ -55,7 +55,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT 115LPX |
 | Notes | Comes on heavyweight vinyl and includes a digital music download.  Kin © Kin Pictures USA, LLC. Artwork & supplementary materials © 2018 Summit Entertainment, LLC. Score © 2018 A Lion Music (ASCAP). All recordings ℗ 2018 Summit Entertainment, LLC. This compilation ℗&© 2018 Summit Entertainment, LLC. Under exclusive license to Rock Action Records. Made in the EU.  The catalog number 'ROCKACT115LPX' only appears on the red sticker on the front of the shrink wrap. The catalog number 'ROCKACT115LP' appears on the spine and the rear of the sleeve.  Some copies purchased from Monorail Music in Glasgow came with a signed poster. |

@@ -75,7 +75,7 @@ A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Recor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jesus_Hits_Like_the_Atom_Bomb |
-| Format         | Vinyl 2× LP 45 RPM Album Limited Edition Numbered (Pepto Bismol Pink) |
+| Format         | 2× Vinyl (Pepto Bismol Pink) LP, 45 RPM, Album, Limited Edition, Numbered |
 | Label          | Good Records |
 | Catalog Number | GRR100 |
 | Notes | Released on Vinyl in 2020 for the first time in the following quantities:  1-300 DELUXE CLEAR WITH SLIPMAT 301-500 IVORY WHITE 501-700 FACE MASK BLUE 701-900 PEPTO BISMOL PINK 901-1000 180-GRAM AUDIOPHILE BLACK  All copies come with two full colour printed inner sleeves & 24"x36" poster in foil-stamped, numbered gatefold sleeve with obi-strip.   |

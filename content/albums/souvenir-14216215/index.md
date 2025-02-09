@@ -102,7 +102,7 @@ A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Souvenir |
-| Format         | Vinyl 3× LP Compilation (180 Gram) |
+| Format         | 3× Vinyl (180 Gram) LP, Compilation |
 | Label          | Virgin EMI Records |
 | Catalog Number | 7743914 |
 | Notes | Tri-fold sleeve.  Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.  "A Virgin EMI Records Release" A Universal Music Company  Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.  Made in the EU. |

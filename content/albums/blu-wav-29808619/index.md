@@ -63,7 +63,7 @@ Blu Wav is the sixth studio album by American indie rock band Grandaddy. Release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blu_Wav |
-| Format         | Vinyl LP Album Limited Edition (Nebula ) |
+| Format         | 1× Vinyl (Nebula ) LP, Album, Limited Edition |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB272 |
 | Notes | Nebula burst colour   Includes download code |

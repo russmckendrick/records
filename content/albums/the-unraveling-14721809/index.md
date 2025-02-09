@@ -55,7 +55,7 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Unraveling_(Drive-By_Truckers_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | ATO Records |
 | Catalog Number | ATO0518LP |
 | Notes | Black Vinyl Version.   ℗ & © 2020 ATO Records, LLC  16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information  |

@@ -70,7 +70,7 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Compilation Stereo (Sage Green) |
+| Format         | 2× Vinyl (Sage Green) LP, Album, Compilation, Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2159LP |
 | Notes | 40th Anniversary Edition  Signed copies available at gigs two weeks prior to official release   ℗ & © 2019 Beggars Banquet, The Arkive  Side One / Two / Three Recorded at Gooseberry Sound Studios London except Down In The Park [Outtake Mix] Recorded at Marcus Music AB London. Side Four Recorded at BBC Maida Vale Studios London. |

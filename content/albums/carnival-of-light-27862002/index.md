@@ -67,7 +67,7 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Carnival_of_Light_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Translucent) |
+| Format         | 2× Vinyl (Green Translucent) LP, Album, Limited Edition, Reissue |
 | Label          | Wichita |
 | Catalog Number | WEBB576LP |
 | Notes | Limited Edition of ? copies press on Translucent Green vinyl.  Released in a gatefold sleeve. Includes full LP download with three bonus tracks.  |

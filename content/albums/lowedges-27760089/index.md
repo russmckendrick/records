@@ -54,7 +54,7 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lowedges |
-| Format         | Vinyl LP Album Limited Edition Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue |
 | Label          | Setanta |
 | Catalog Number | SETLP110 |
 | Notes | 2023 reissue - Limited release, limited to 400 copies on clear vinyl. Catalog printed as SETLP110 - Distributor mail out stated SETLP110C    |

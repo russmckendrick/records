@@ -60,7 +60,7 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Modern_Age_(album) |
-| Format         | Vinyl LP Album Limited Edition (Cream) |
+| Format         | 1× Vinyl (Cream) LP, Album, Limited Edition |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |
 | Notes | "Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU. |

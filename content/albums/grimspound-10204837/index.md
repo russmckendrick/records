@@ -56,7 +56,7 @@ The site was designate as a scheduled monument in 1928.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grimspound |
-| Format         | Vinyl 2× LP Album Limited Edition (Opaque Vinyl) |
+| Format         | 2× Vinyl (Opaque Vinyl) LP, Album, Limited Edition |
 | Label          | Plane Groovy |
 | Catalog Number | PLG050 |
 | Notes | Limited edition Opaque Vinyl version which also came with a signed postcard |

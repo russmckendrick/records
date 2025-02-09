@@ -59,7 +59,7 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Home_Record |
-| Format         | Vinyl LP Album Limited Edition Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Stereo |
 | Label          | Matador |
 | Catalog Number | OLE-1379LPE |
 | Notes | Includes a custom inner sleeve and a download coupon.  Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.  ℗ & © 2019 Matador Records 134 Grand Street NYC 10013  Recorded at Sphere Ranch at Paulie's Kro East Studios  Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC |

@@ -58,7 +58,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Mint Green) |
+| Format         | 1× Vinyl (Mint Green) LP, Album, Limited Edition, Reissue |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ2179LP |
 | Notes | Hype Sticker: 30th Anniversary Limited Edition Featuring mint green colored vinyl  Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  Runouts are laser-etched. |

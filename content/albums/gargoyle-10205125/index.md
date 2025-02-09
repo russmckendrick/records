@@ -61,7 +61,7 @@ In architecture, and specifically Gothic architecture, a gargoyle () is a carved
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gargoyle |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP137 |
 | Notes | Housed in a gatefold cover, contains a download coupon for the entire album.   From the back cover:  ℗ & © 2017 Heavenly Recordings under exclusive license to [PIAS]   Pressing plant is uncredited, derived from runout the etchings.  |

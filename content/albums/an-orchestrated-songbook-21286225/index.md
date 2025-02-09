@@ -73,7 +73,7 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Polydor |
 | Catalog Number | 3845942 |
 | Notes | All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021. Made in the EU With attached booklet  |

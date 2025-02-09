@@ -59,7 +59,7 @@ The album followed a working hiatus by the band following the disappointing comm
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Already_(Jesus_Jones_album) |
-| Format         | Vinyl LP Album Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC955 |
 | Discogs URL    | [Jesus Jones - Already](https://www.discogs.com/release/25038097-Jesus-Jones-Already) |

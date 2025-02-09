@@ -78,7 +78,7 @@ styles: ["Britpop", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Blue, 140g), Vinyl 2× LP Album Reissue (Orange, 140g), Vinyl 2× LP Album Reissue (Red, 140g), Box Set Compilation |
+| Format         | 1× Vinyl (Blue, 140g) LP, Album, Reissue | 2× Vinyl (Orange, 140g) LP, Album, Reissue | 2× Vinyl (Red, 140g) LP, Album, Reissue | 1× Box Set Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX75 |
 | Notes | • Slipcase box • All three albums in replica sleeves • All three albums individually listed on the rear of the box as A/B, A/B/C/D, A/B/C/D  Hype sticker on shrink wrap: Ocean Colour Scene Yesterday Today 1992-1997 • 5 LP box set celebrating one of Britain's finest bands • Includes the band's classic first three studio albums – Ocean Colour Scene, Moseley Shoals [2LP] & Marchin' Already [2LP] • Each album on 140g coloured vinyl • Debut album Ocean Colour Scene reissued for the first time on vinyl since 1992. [DEMON logo] DEMRECBOX75  Box notes: Art direction and design by Mike Storey at Storey London Design Mastering by Phil Kinrade at Alchemy Mastering, Air Studios Manufactured in the EU |

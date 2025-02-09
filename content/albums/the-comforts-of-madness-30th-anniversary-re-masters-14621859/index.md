@@ -83,7 +83,7 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album, Vinyl LP Compilation, All Media Limited Edition Special Edition (Clear) |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl LP, Compilation | 1× All Media (Clear) Limited Edition, Special Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD 0159 LPX |
 | Notes | Limited Double LP Edition on Clear Vinyl Numbering reflects how it's listed on disc labels Typography on front cover art is different from all other vinyl issues in that the band name is cut off. On the right hand of the sleeve appears "Pale S" and part of an "A." On the left hand of the sleeve appears the other half of the "A," and "INTS."  Tracks A1 - B11 produced and engineered at Blackwing Studios Tracks C1 - D11 recorded at Woodhouse Studios, Leeds Tracks D12 - D15 recorded at BBD Studios, Maida Vale 23 July 1989 |

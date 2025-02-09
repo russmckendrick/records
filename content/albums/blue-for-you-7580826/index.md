@@ -63,7 +63,7 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blue_for_You |
-| Format         | Vinyl LP Album Reissue (180gr) |
+| Format         | 1× Vinyl (180gr) LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723766 |
 | Notes | Gatefold sleeve.  Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1976 Mercury Records Limited/Universal Music Catalogue ℗ 1976 Mercury Records Limited |

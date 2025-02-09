@@ -60,7 +60,7 @@ Made in America  was the band's last album in its original incarnation. Followin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Made_in_America_(The_Blues_Brothers_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 50 768 |
 | Notes | German reissue with 3 rows of copyright rim text in German, French and English. No barcode.  ℗ © 1980 Atlantic Recording Corporation Made in Germany by WEA Musik GmbH  Track B1 misspelt "Green Onion" on center label B. |

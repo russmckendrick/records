@@ -62,7 +62,7 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Myopia_(Agnes_Obel_album) |
-| Format         | Vinyl LP Album Limited Edition Misprint (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Album, Limited Edition, Misprint |
 | Label          | Blue Note |
 | Catalog Number | 483 7178 |
 | Notes | Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.   |

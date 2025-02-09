@@ -63,7 +63,7 @@ In 2000, the album was rereleased with additional outtakes from the recording se
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_from_Big_Pink |
-| Format         | Vinyl 2× LP 45 RPM Album Remastered Stereo |
+| Format         | 2× Vinyl LP, 45 RPM, Album, Remastered, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 0602567480600 |
 | Discogs URL    | [The Band - Music From Big Pink](https://www.discogs.com/release/12477287-The-Band-Music-From-Big-Pink) |

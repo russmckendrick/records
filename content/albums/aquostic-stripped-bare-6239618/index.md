@@ -69,7 +69,7 @@ styles: ["Acoustic"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Ear Music |
 | Catalog Number | 0209848ERE |
 | Notes | Gatefold sleeve. Black die cut paper inners. Contains a credit card sized download voucher, printed on one side only.  The purple circle on sleeve front is not a hype sticker but part of the print. |

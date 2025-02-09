@@ -45,7 +45,7 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK32LP |
 | Notes | Released on Record Store Day 2019.  "Spined sleeve printed with special inks."  "Music from throughout Sigur Rós's career, twisted, bent, broken and finally added to in the band's Reykjavik studio, to create a new perspective for a dance piece of the same title initiated and created by Taiwanese choreographer Cheng Tsung-Lung." |

@@ -50,7 +50,7 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, 45 RPM, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE942 |
 | Notes | Release comes with a free download card, as well as a small, circular Burning Shed logo sticker.  www.kscopemusic.com/artists/richard-barbieri/ www.facebook.com/richardbarbieriofficial  Kscope is a Snapper Music label. Made in Germany.   |

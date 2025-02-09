@@ -56,7 +56,7 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Invisible_Touch |
-| Format         | Vinyl LP Album Deluxe Edition Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Deluxe Edition, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 37416-1 |
 | Notes | Genesis The Classic Masters Deluxe Edition Half Speed Mastering 2008 Mixes by Nick Davis  180 Gram Audiophile Vinyl  |

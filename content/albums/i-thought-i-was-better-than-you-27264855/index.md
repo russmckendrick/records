@@ -62,7 +62,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Blue [Transparent] Blue Sleeve), CD Limited Edition Mixtape |
+| Format         | 1× Vinyl (Blue [Transparent] Blue Sleeve) LP, Album, Limited Edition | 1× CD Limited Edition, Mixtape |
 | Label          | Heavenly |
 | Catalog Number | HVNLP214RT |
 | Notes | Rough Trade Exclusive Blue Sleeve & Transparent Blue Vinyl - limited to 1500 copies. Includes a printed inner sleeve with lyrics and credits, download code (sticker on inner sleeve), and CD "Maximum Security For Baxter Dury I Thought I Was Better Than You Mixtape" (HVN725)  In the runouts, the plating marks "1+" and "1⋀" are mirrored.   |

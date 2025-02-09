@@ -57,7 +57,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Big Cat |
 | Catalog Number | ABB 101 |
 | Notes | Issued with a printed inner sleeve with lyrics. Some copies issued with a sticker on the front cover.  Artist presented as "Carter U.S.M." on spine and Side B label.  Catalogue # ABB 101 on the back cover, spine and inner sleeve. Catalogue # ABB101 on the labels.  Recorded at Important Notice Studios, Mitcham, South London.  © Big Cat U.K. Records Ltd 1990. Published By Cat X Mouse Music 1990.  Made In England |

@@ -60,7 +60,7 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hello,_I_Must_Be_Going!_(album) |
-| Format         | Vinyl LP Album (Gatefold Sleeve) |
+| Format         | 1× Vinyl (Gatefold Sleeve) LP, Album |
 | Label          | Virgin |
 | Catalog Number | V2252 |
 | Notes | Released in a gatefold sleeve, with printed inner sleeve showing credits. ℗ & © 1982 Virgin Records Ltd  Recorded at Old Croft on 1" 8 track, overdubbed at 'The Farm' and 'Townhouse' May - June 82 Strings recorded at CBS  All titles published Phil Collins Ltd / Hit & Run Music (Publishing) Ltd., except A5 1965 Jobete Music Ltd. (U.K.)  Die-cut on Insert is small and round, opposite to straight and longer one on 2nd UK pressing.  Matrix runouts are stamped except catalogue numbers that are etched. |

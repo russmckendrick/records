@@ -81,7 +81,7 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Egyptology_(album) |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 4VC |
 | Notes | Side D recorded live in New York City, 1997  Released in a gatefold sleeve with 2 lyric inners  Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])  Made in Czech Republic  Mixed in a bucket with a big stick.  Recorded at Seaview Studios, London, England, between 1993 and 1997.  Runouts etched except GZ Media numbers and Ⓜ are stamped. |

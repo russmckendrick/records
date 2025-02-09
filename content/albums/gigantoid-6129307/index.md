@@ -60,7 +60,7 @@ Initially released as a 2013 split seven-inch single with psych-metal trio Moab,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gigantoid |
-| Format         | Vinyl LP Album Repress (Blue Translucent With White Splatter) |
+| Format         | 1× Vinyl (Blue Translucent With White Splatter) LP, Album, Repress |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD008 |
 | Notes | Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet. Pressing plant uncredited, identified by the matrix numbers.  [Back cover] ℗&© Fu Manchu under license to At The Dojo Records  [Inner sheet] Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014 Additional recording […] at The Racket Room in Santa Ana, CA Mastered […] at Oasis Mastering, Burbank, CA  Published by: Fu Music (ASCAP)  The "Management" credit is printed as "Brian Frank for BFrank Management" on the release. The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release. The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release. The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.  [Labels]  ℗ & © Fu Manchu under license to At The Dojo Records |

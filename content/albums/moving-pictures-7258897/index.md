@@ -62,7 +62,7 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moving_Pictures_(Rush_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 00602547118080 |
 | Notes | Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.    Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980  Remastered at Abbey Road Mastering Studios    DMM Mastering at Abbey Road Mastering Studios - January 2015    ℗ &  © 2015 Mercury Records. Made in the EU |

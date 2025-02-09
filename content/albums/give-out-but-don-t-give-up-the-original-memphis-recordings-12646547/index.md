@@ -68,7 +68,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" 45 RPM Album Misprint (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) 12", 45 RPM, Album, Misprint |
 | Label          | Sony Music |
 | Catalog Number | 19075815741 |
 | Notes | Gatefold sleeve includes booklet and download code for full 2-CD (24 track) edition plus an additional track: Big Jet Plane (Sitar Version) 4:47.  Made in the EU.  33 R.P.M was incorrectly ticked on the first 1000 units pressed. All subsequent unit pressings are correctly ticked 45 R.P.M. |

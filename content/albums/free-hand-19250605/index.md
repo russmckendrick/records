@@ -71,7 +71,7 @@ International releases of the album include a slightly different position of the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Free_Hand |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Alucard |
 | Catalog Number | ALUGGV066 |
 | Notes | Black vinyl release. Red vinyl pressing seen here [r19268482] White vinyl pressing seen here [r22115038]  Catalogue # on spine and sticker: ALUGGV066 Catalogue # on labels: ALUGGV66 |

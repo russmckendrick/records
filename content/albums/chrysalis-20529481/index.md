@@ -51,7 +51,7 @@ styles: ["Contemporary"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | One Little Independent Records |
 | Catalog Number | TPLP1597 |
 | Discogs URL    | [AVAWAVES - Chrysalis](https://www.discogs.com/release/20529481-AVAWAVES-Chrysalis) |

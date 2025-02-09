@@ -55,7 +55,7 @@ styles: ["Blues Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP339 |
 | Notes | Plain white poly-lined paper inner sleeve.  A Blue Horizon Production  Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment.  Made in the EU.  There's also a 2018 Music On Vinyl reissue on [url=https://www.discogs.com/release/12732203]blue vinyl[/url]. |

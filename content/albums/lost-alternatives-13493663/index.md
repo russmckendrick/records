@@ -65,7 +65,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Record Store Day, Compilation, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC406 |
 | Notes | Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019" 27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl,  INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai  DEMREC406  Made in the EU |

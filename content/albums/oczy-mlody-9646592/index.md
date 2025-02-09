@@ -59,7 +59,7 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oczy_Mlody |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA584V |
 | Notes | ℗ & © 2017 Bella Union under exclusive license to [PIAS]. © 2016 Lovely Sorts Of Death Music (BMI).  Recorded June 2012 - June 2016 at Pink Floor Studios in Oklahoma City, Oklahoma Tarbox Road Studios in Cassadaga, New York  [A=Miley Cyrus] appears courtesy of [L=RCA Records] [A=Reggie Watts] appears courtesy of [L=Secretly Canadian]  Lyrics and credits on inner sleeve. Includes download coupon.  Runouts are etched. |

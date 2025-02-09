@@ -60,7 +60,7 @@ The album was commercially successful and most critics viewed it positively. In 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blues_Breakers_with_Eric_Clapton |
-| Format         | Vinyl LP Album Reissue Repress Mono (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Repress, Mono |
 | Label          | Decca |
 | Catalog Number | 0042280008611 |
 | Notes | Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere  ℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company  Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966. 180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series The MP3 downloads include both the mono and stereo mixes.  |

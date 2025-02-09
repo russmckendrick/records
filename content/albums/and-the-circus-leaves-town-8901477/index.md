@@ -57,7 +57,7 @@ styles: ["Stoner Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/...And_the_Circus_Leaves_Town |
-| Format         | Vinyl LP Album Repress (Blue Marbled, 180 Gram) |
+| Format         | 1× Vinyl (Blue Marbled, 180 Gram) LP, Album, Repress |
 | Label          | Elektra |
 | Catalog Number | 7559-61811-1 |
 | Notes | Recorded 3/1/95 - 3/20/95. "Catamaran" previously recorded by Yawning Man.  This repress is largely identical to the 1999 German Repress. There's a "180g COLOURED VINYL" sticker on shrinkwrap. This version is solid blue, whereas the 1999 version ([r=1768971]) is clear blue. ---------------------------------------------------------------------------------------------------- The two tracks appearing after "Spaceship Landing" on other versions (M'deea & Day One) are not included here.  |

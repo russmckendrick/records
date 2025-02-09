@@ -59,7 +59,7 @@ Scratch My Back was initially released on compact disc and as music download; a 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Scratch_My_Back |
-| Format         | Vinyl LP Album (200g) |
+| Format         | 1× Vinyl (200g) LP, Album |
 | Label          | Real World Records |
 | Catalog Number | PGLP12 |
 | Notes | Issued on 200 gram vinyl in a deluxe gatefold jacket.  Classic Records reissue on 200 gram QUIEX SV-P. |

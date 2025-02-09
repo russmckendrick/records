@@ -56,7 +56,7 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sports_(Huey_Lewis_and_the_News_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1412 |
 | Notes | Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.  A2 credits Chinnichap/RAK Music. Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd. |

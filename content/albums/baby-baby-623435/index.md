@@ -49,7 +49,7 @@ styles: ["Pop Rock", "Synth-pop"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Baby_Baby_(Amy_Grant_song) |
-| Format         | Vinyl 12" 45 RPM Single |
+| Format         | 1× Vinyl 12", 45 RPM, Single |
 | Label          | A&M Records |
 | Catalog Number | AMY 727 |
 | Notes | Track B2 (P) 1988 |

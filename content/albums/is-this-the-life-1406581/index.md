@@ -46,7 +46,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Is_This_the_Life |
-| Format         | Vinyl 7" 45 RPM Single |
+| Format         | 1× Vinyl 7", 45 RPM, Single |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | alph 008Sp |
 | Notes | 'Is This The Life' is taken from the Cardiacs L.P. '[m=36059]'. (The Alphabet Business Concern CAT No: ALPH LP007 distributed by pinnacle).  Is This The Life has been edited down to approx 3:10 mins.  © 1988  Runouts: all hand-etched. |

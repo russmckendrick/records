@@ -59,7 +59,7 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blaze_of_Glory_(Jon_Bon_Jovi_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Vertigo |
 | Catalog Number | 846 473-1 |
 | Notes | Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California.  Publishing Info:- A1 to B5: Polygram Music Publishing Ltd. B6: MCA Music Ltd. |

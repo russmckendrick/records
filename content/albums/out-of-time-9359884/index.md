@@ -63,7 +63,7 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Out_of_Time_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g, 25th Anniversary Edition) |
+| Format         | 1× Vinyl (180g, 25th Anniversary Edition) LP, Album, Reissue, Remastered |
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072004405 |
 | Notes | 25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.  In the runouts, [l313190] geometrical symbols like "2=△" are mirrored. |

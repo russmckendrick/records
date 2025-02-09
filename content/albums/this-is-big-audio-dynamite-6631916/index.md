@@ -54,7 +54,7 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (No Barcode) |
+| Format         | 1× Vinyl (No Barcode) LP, Album, Stereo |
 | Label          | CBS |
 | Catalog Number | CBS 26714 |
 | Notes | Very similar to [r=180852]; however, this version does not have a barcode on the right top-hand corner of the rear sleeve.  Issued with printed inner sleeve with lyrics and credits.  Runouts are etched, "A" stamped.  Catalogue number CBS 26714 on labels, spine; 26714 on back cover, inner sleeve.  Some copies may be gold-stamped as promotional.  Made entirely on location in West London Engineered at Sarm West and at Redan Rec. Shorepak by Shorewood Packaging Co. Ltd. England.  All songs Bad Songs Publishing |

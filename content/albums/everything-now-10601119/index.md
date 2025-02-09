@@ -72,7 +72,7 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything_Now |
-| Format         | Vinyl LP Album Limited Edition (Blue Translucent) |
+| Format         | 1× Vinyl (Blue Translucent) LP, Album, Limited Edition |
 | Label          | Sonovox Records |
 | Catalog Number | 88985447861 |
 | Notes | Referred to as the 'Night Version.'  Gatefold sleeve that comes in a clear plastic slipcase. Includes a printed insert and a printed inner sleeve.  ℗&© 2017 Arcade Fire Music  "Everything Now" contains elements from "The Coffee Cola Song" written by [a181285].  Recorded at Boombox Studios, New Orleans; Sonovox Studios, Montréal; Gang Recording Studio, Paris Mixed at Parlor Studios & Boombox Studios, New Orleans; Toast, London Mastered at Sterling Sound, NYC  [Artwork] shot in Death Valley  Published by EMI Music Publishing Limited |

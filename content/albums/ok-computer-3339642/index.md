@@ -78,7 +78,7 @@ For all of its dread, <i>OK Computer</i> is ultimately an act of hope, the expre
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/OK_Computer |
-| Format         | Vinyl 2× LP Album Reissue Repress (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Repress |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 55229 1 8 |
 | Notes | Audio fixing and dubbing done at Mayfair, Abbey Road, Air Lyndhurst, Courtyard and The Curch. Mastered at Abbey Road.  Matrix# on labels "7243 8 55229 1 8" Manufactured and distributed by EMI  Disc I : (eeny/meeny) - 7243 8 55229 1 8                                    (7243 8 57331 1 6)  Disc II : (miney/moo) - 7243 8 55229 1 8                                    (7243 8 57331 1 5)  Manufactured and distributed by EMI Made and Printed in the U.K. lc 0299 NODATA 02  Comes in a gatefold sleeve with printed inner sleeves.  The labels of this release differ from the original release ([r=4950798] & [r=216593]). Specifically, this release features: "A Warner Music Group Company", whereas the others have "EMI Records Ltd.". Please see the provided image.  Pressed by Record Industry using original DMM parts by EMI Records. |

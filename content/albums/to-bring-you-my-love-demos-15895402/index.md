@@ -58,7 +58,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180g) |
+| Format         | 1× Vinyl (180g) LP, Album |
 | Label          | Island Records |
 | Catalog Number | 0896476 |
 | Notes | Includes download card, in 16bit / 44.1KHz WAV format. Includes a custom inner sleeve and a hype sticker. Cover photographer back and front are printed textured onto the sleeve. Sleeve is made of white matt card stock An Island Records Release. ℗2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. ©2020 PJ Harvey under exclusive license to Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  All songs [...] Published by Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)  250 Copies have been signed by PJ Harvey on the sleeve and have been sold at her official store.  |

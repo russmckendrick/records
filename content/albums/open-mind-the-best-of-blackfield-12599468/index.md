@@ -60,7 +60,7 @@ styles: ["Krautrock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow [Sun Yellow]), Vinyl LP Single Sided Etched (Yellow [Sun Yellow]), All Media Compilation Limited Edition |
+| Format         | 1× Vinyl (Yellow [Sun Yellow]) LP | 1× Vinyl (Yellow [Sun Yellow]) LP, Single Sided, Etched | 1× All Media Compilation, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | kscope 1016 |
 | Notes | ℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in. |

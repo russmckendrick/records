@@ -60,7 +60,7 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/History_Books |
-| Format         | Vinyl LP Album Limited Edition (Yellow [Canary]) |
+| Format         | 1× Vinyl (Yellow [Canary]) LP, Album, Limited Edition |
 | Label          | Thirty Tigers |
 | Catalog Number | 60124LP |
 | Notes | Hype Sticker: The New Album  Includes “History Books (feat. Bruce Springsteen)”  Indie Exclusive Canary Yellow Vinyl |

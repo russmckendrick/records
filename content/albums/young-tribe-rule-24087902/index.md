@@ -57,7 +57,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Mini-Album Compilation |
+| Format         | 1× Vinyl LP, Mini-Album, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1054 |
 | Notes | Japanese exclusive mini album featuring B-sides and rarities, issued on vinyl for the first time. 140g vinyl. With printed inner lyric sheet. |

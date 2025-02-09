@@ -58,7 +58,7 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Matador |
 | Catalog Number | ole 105-1 |
 | Notes | This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached.  Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.    Recorded and mixed at Waterworks, NYC, 1993-94.  All songs c 1994 Spencer / Explosion  c p 1994 Matador Records Inc  Made in the USA by WEA Mfg  Inner sleeve: Printed in Canada |

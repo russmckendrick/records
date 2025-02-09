@@ -62,7 +62,7 @@ Exile on Coldharbour Lane is the debut album by Alabama 3, released on 11 Novemb
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Exile_on_Coldharbour_Lane |
-| Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Limited Edition, Numbered, Reissue, Remastered |
 | Label          | Elemental Records |
 | Catalog Number | ELM40DMM |
 | Notes | One Little Indian 20th Anniversary Reissue pressed on heavy weight 180 gram vinyl and housed in a gatefold sleeve. Includes download coupon. Some copies sold via Alabama 3 website were signed by Larry Love. Same catalogue number and barcode as the [r=4445223], which was released in 2008 and pressed on 200 gram vinyl instead. |

@@ -68,7 +68,7 @@ After leaving Soulwax (the band) dormant for well over a decade, it feels fittin
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (White), Vinyl 12" 33 ⅓ RPM 45 RPM, All Media Album Limited Edition |
+| Format         | 1× Vinyl (White) LP | 1× Vinyl 12", 33 ⅓ RPM, 45 RPM | 1× All Media Album, Limited Edition |
 | Label          | [pias] |
 | Catalog Number | PIASR950DLPX |
 | Notes | This is the Indie Store exclusive release.  The release comes in a glossy gatefold sleeve, brushed matt inner sleeves featuring the tracklist, artwork, and credits, the rear outer sleeve has a barcode sticker applied to the bottom right hand corner. A sticker affixed to the front sleeve shrink wrap reads: "Ltd 180g 2LP White Vinyl / Black Vinyl + Download code"  The download code is printed on a small card featuring album themed artwork. The first record (sides A and B) is pressed on white vinyl, the second record (sides C and D) is pressed on standard black vinyl. Side D is mastered and pressed at 45rpm. The other three sides are all 33 1/3 rpm. All sides play into in a locked groove of repeating sounds.  Insert: (Track A2) Published by Farrell Sanders Music Inc admin by BMG Rights Management/Copyright control. All rights reserved. (All tracks) Recorded, mixed and produced by Soulwax at Deewee - published by Strictly Confidential / Deewee - Mastering by Mike Marsh at The Exchange. Management Marc & Karey at West. |

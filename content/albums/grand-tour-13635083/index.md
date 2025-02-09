@@ -60,7 +60,7 @@ Grand Tour is the twelfth studio album by the English progressive rock band Big 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grand_Tour_(Big_Big_Train_album) |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Cream) |
+| Format         | 2× Vinyl (180 Gram, Cream) LP, Album, Limited Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG074 |
 | Notes | Limited edition vinyl release that includes a 24-page booklet with full color graphics, lyrics, credits, and band explanations for the inspiration and/or story behind each song. Some copies ordered through Burning Shed were sent a BBT concert flyer for upcoming performances and a Burning Shed postcard.  |

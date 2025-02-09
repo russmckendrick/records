@@ -49,7 +49,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Panegyric |
 | Catalog Number | KCLP1 |
 | Notes | Rough Trade Essential Edition, limited to 1000 copies on 180gr clear vinyl. Gatefold sleeve, with OBI.  ℗ & © 2010 Robert Fripp. Made in England |

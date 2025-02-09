@@ -63,7 +63,7 @@ The album was originally released on cassette in 1989 exclusively available to t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Archive_Cardiacs |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 000 |
 | Notes | A collection of recordings from the period 1977-79.  Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve. |

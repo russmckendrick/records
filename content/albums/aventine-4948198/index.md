@@ -80,7 +80,7 @@ Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album, CD Album, CD, Box Set Limited Edition |
+| Format         | 1× Vinyl LP, Album | 1× CD Album | 1× CD | 1× Box Set Limited Edition |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR615BOX |
 | Notes | Limited Edition Deluxe Box Set    180g Heavyweight Vinyl & CD Album  plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print. |

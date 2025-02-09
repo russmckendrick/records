@@ -57,7 +57,7 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Foxtrot_(album) |
-| Format         | Vinyl LP Album Reissue Stereo (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Charisma |
 | Catalog Number | 00602567489795 |
 | Notes | Comes with download code  ℗ 1972 Charisma Records Ltd Quartet Music Ltd and Carlin Music Corp  ℗ & © 2018 Made in the E.U. |

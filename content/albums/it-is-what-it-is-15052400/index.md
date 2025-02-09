@@ -93,7 +93,7 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It_Is_What_It_Is_(Thundercat_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
+| Format         | 1× Vinyl (Pink, 140g) LP, Album, Limited Edition, Stereo |
 | Label          | Brainfeeder |
 | Catalog Number | BF100RT |
 | Notes | Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |

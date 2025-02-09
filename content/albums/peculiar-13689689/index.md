@@ -62,7 +62,7 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Royal_peculiar |
-| Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
+| Format         | 1× Vinyl (Blue Electric & White Galaxy) LP, Album, Reissue | 1× Vinyl 7", 45 RPM |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR231-1 |
 | Notes | Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".  Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios. Additional overdubs recorded in Los Angeles. |

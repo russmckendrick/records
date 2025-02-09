@@ -83,7 +83,7 @@ Beyond its role in consolidating the mainstream success of grunge rock in the ea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram), Vinyl LP Album (180 Gram), All Media (Gatefold) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered | 1× Vinyl (180 Gram) LP, Album | 1× All Media (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 88697413021 |
 | Notes | This version had the lacquer cut at Nashville Record Productions Inc, cut by Wes Garland "WG/NRP" and pressed by [l=United Record Pressing] as differentiated by matrix/runout.  Comes with LP-sized round cardboard inlet printed on both sides (see pics)   Front sleeve hype sticker attached to shrinkwrap reads;- pearl jam - ten Vinyl Edition 180-Gram Audiophile Pressing.  LP1 - Ten: The groundbreaking debut album. Newly Remastered for vinyl - featuring "Alive". LP2 - Ten Redux: Brand New Remixes by Brendan O'Brien!  88697413021-S1  Rear sleeve has track listings & barcode printed on a laminated sticker attached to shrinkwrap. All songs ©1991 Write Treatage Music/Innocent Bystander/Jumpin' Cat Music/Scribing C-Ment Songs/3 Kick Heads (ASCAP). © 1991, 2009 Sony Music Entertainment.  "Ten" -  Mixed for Worlds End (America) Inc. Recorded at London Bridge Studios, Seattle - March/April 1991. Mixed at Ridge Farm Studios, Dorking, England - June 1991. Remastered 2008 at Gateway Mastering, Portland, ME.  "Ten Redux" - Remixed at Southern Tracks, Atlanta, GA. Mastered at Gateway Mastering , Portland, ME. |

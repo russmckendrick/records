@@ -60,7 +60,7 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Red And Yellow Swirl) |
+| Format         | 1× Vinyl (Red And Yellow Swirl) LP, Album, Limited Edition, Stereo |
 | Label          | Merge Records |
 | Catalog Number | MRG650 |
 | Discogs URL    | [Bob Mould - Sunshine Rock](https://www.discogs.com/release/13162648-Bob-Mould-Sunshine-Rock) |

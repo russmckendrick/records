@@ -70,7 +70,7 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (50th Anniversary, 180 Gram) |
+| Format         | 1× Vinyl (50th Anniversary, 180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50LP1 |
 | Notes | Gatefold cover issued with two posters and two stickers.  Different UPC and [l267164] code than [r=28614196].  Hype Sticker: "Pink Floyd 50 The Dark Side Of The Moon  Remastered For The 50th Anniversary On Heavyweight 180g Vinyl"  Made in The Netherlands  Runouts description: all runouts are etched, except "37307 3A" and "37307 4B (or variants of)" that are stamped. The variant 2 B side contains "400172 1" which has been crossed out. Variant 8, side B, the first 18 is actually a 1 with an 8 stamped directly on top of it.  Also the etched LI on both sides is in an etched box. Variant 11, side B, the 8 is crossed out. LI is also boxed on both sides. |

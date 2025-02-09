@@ -76,7 +76,7 @@ Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Clear w/ Red & White Splatter) |
+| Format         | 2× Vinyl (Clear w/ Red & White Splatter) LP, Album |
 | Label          | Invada |
 | Catalog Number | LSINV189LP |
 | Notes | Sticker on release reads: "2 x Crystal clear with red & white splatter effect vinyl.  Deluxe gatefold sleeve includes full colour insert  + 11"× 22" fold-out poster."  Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing. |

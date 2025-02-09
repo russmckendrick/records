@@ -60,7 +60,7 @@ This mid-'90s collection lays out New Order's catalogue in all its brilliance (a
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Remastered |
+| Format         | 2× Vinyl LP, Compilation, Remastered |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 60 |
 | Notes | New Order Presents Be Music A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016. ℗ + © 2017 Factory Benelux. Printed & manufactured in Belgium. |

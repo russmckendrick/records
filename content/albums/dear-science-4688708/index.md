@@ -62,7 +62,7 @@ As of 2012, sales in the United States have exceeded 203,000 copies, according t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dear_Science |
-| Format         | Vinyl 2× LP Reissue (White, Gatefold, 180g) |
+| Format         | 2× Vinyl (White, Gatefold, 180g) LP, Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD2821 |
 | Notes | "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release. |

@@ -89,7 +89,7 @@ On the back of significant media attention and a "disproportionately high press 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Generation_Terrorists |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 20th Anniversary Legacy Edition) |
+| Format         | 2× Vinyl (Gatefold, 20th Anniversary Legacy Edition) LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 88725471251 |
 | Notes | 20th Anniversary Legacy Edition   Comes with a 16 page 29x29 cm booklet.  Made in the EU.   * This is the only vinyl version that has "Theme From M*A*S*H (Suicide Is Painless)". |

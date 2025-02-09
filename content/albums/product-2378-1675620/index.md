@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (Damont Pressing) |
+| Format         | 1× Vinyl (Damont Pressing) LP, Compilation |
 | Label          | Telstar |
 | Catalog Number | STAR 2378 |
 | Notes | This album compiled in association with 4.A.D., Mute, Factory, WEA, EMI, BMG & Polygram  Distributed in the UK by BMG Records Ltd. Distributed in Eire by WEA Records (IRL) Ltd.  Also available on cassette >> [url=http://www.discogs.com/Various-Product-2378/release/749901]STAC 2378[/url] and CD >> [url=http://www.discogs.com/Various-Product-2378/release/722967]TCD 2378[/url]. - This version pressed by Damont. [r=11770103] is pressed by [l=MPO]. |

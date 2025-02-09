@@ -60,7 +60,7 @@ English Electric Part One is the seventh studio album by the English progressive
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/English_Electric_Part_One |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | English Electric Recordings |
 | Catalog Number | 7426822210565 |
 | Notes | 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live). Including one sided credit sheet.  Gatefold sleeve |

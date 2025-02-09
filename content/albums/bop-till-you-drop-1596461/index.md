@@ -57,7 +57,7 @@ The album consists almost entirely of covers of earlier rhythm and blues and roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bop_Till_You_Drop |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | K56691 |
 | Notes | Cat.# K 56691 on rear cover and spine, K 56691 on the labels; additional US cat.# BSK 3358 on rear sleeve and on labels in parentheses. |

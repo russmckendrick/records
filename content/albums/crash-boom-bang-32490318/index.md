@@ -81,7 +81,7 @@ Five singles were released from the album: lead single "Sleeping in My Car" beca
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Crash!_Boom!_Bang! |
-| Format         | Vinyl LP, Vinyl LP (White), All Media Album Reissue Stereo (30th Anniversary Edition) |
+| Format         | 1× Vinyl LP | 1× Vinyl (White) LP | 1× All Media (30th Anniversary Edition) Album, Reissue, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 5021732477194 |
 | Notes | Hype sticker: “30th ANNIVERSARY EDITION 18 TRACKS + 2LP’s (BLACK & WHITE) 8 PAGE BOOKLET“  Runouts are etched. Optimal Media special plate symbols are mirrored. |

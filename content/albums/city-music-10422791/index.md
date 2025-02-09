@@ -73,7 +73,7 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Maverick_City_Music |
-| Format         | Vinyl LP Album Club Edition (White & Orange Tie-Dye) |
+| Format         | 1× Vinyl (White & Orange Tie-Dye) LP, Album, Club Edition |
 | Label          | Dead Oceans |
 | Catalog Number | DOC131 |
 | Notes | "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."  Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.  All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.  ["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI). ["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).  ℗ & © 2017 Dead Oceans, Inc.  Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016. |

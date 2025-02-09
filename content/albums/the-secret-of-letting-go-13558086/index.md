@@ -57,7 +57,7 @@ styles: ["Leftfield", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Limited Edition |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP728 |
 | Notes | Sticker on front shrink: "Ltd edition 180g heavyweight vinyl in gatefold sleeve Features the singles 'Armageddon Waits' and 'Moonshine' Includes download card of the album"  Label has cat number as COOKCD728 on both sides |

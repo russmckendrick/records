@@ -54,7 +54,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Virgin |
 | Catalog Number | V 2350 |
 | Notes | Initial copies of this vinyl release had the title Cupid & Psyche embossed in gold print. The 85 is embossed in various colors (gold, white, red, turquoise, blue). The catalogue number V 2350 is the same.  ℗ 1985 Virgin Records Ltd. © 1985 Jouissance Ltd.  Manufactured in the U.K. |

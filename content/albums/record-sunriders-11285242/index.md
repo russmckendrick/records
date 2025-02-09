@@ -50,7 +50,7 @@ styles: ["Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Rockosmos |
 | Catalog Number | ROK 31 |
 | Notes | This is a split 180g Black Vinyl with Record on Side A and Sunriders on Side B. Edition of 500.  Sunriders EP - Recorded January 2013 Recorded At Loudhailer Manchester by Mladen Pavlovic All songs by Balamir, except Spaceman by Evans / Balamir  |

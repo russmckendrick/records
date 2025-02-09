@@ -52,7 +52,7 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Avco |
 | Catalog Number | 9109 006 |
 | Discogs URL    | [The Stylistics - You Are Beautiful](https://www.discogs.com/release/2400372-The-Stylistics-You-Are-Beautiful) |

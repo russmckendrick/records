@@ -69,7 +69,7 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Mix_(Kraftwerk_album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
+| Format         | 2× Vinyl (180 g) LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6605219 |
 | Notes | Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider  Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.  ℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd.  © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company. Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover.  |

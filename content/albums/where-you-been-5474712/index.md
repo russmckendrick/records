@@ -60,7 +60,7 @@ The album peaked with 263,000 units sold in the US.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Where_You_Been |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Vinyl 180 |
 | Catalog Number | VIN180LP069 |
 | Notes | Made in England. |

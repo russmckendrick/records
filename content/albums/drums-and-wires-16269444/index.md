@@ -71,7 +71,7 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Drums_and_Wires |
-| Format         | Vinyl LP Album (200g), Vinyl 7" 45 RPM Single Limited Edition, All Media Reissue |
+| Format         | 1× Vinyl (200g) LP, Album | 1× Vinyl 7", 45 RPM, Single, Limited Edition | 1× All Media Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP103 |
 | Notes | Hype Sticker on Front of Shrink Wrap Reads:  XTC drums and wires The 1979 Classic Album Newly Cut From Masters Approved by Andy Partridge.  Pressed on 200G Super-Heavyweight Vinyl LIMITED EDITION BONUS 7" LIMELIGHT / CHAIN OF COMMAND  Includes bonus 7" replicating original U.K. release, [r=585255]   Tracks not numbered on rear of sleeve - tracks listed under side one and side two   |

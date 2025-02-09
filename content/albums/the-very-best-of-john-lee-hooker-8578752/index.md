@@ -60,7 +60,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Not Now Music |
 | Catalog Number | CATLP126 |
 | Notes | This Compilation ℗ & © 2016 Not Now Music Limited. Distributed By Not Now Music Limited. Made In The E.U. (on back cover).  Glossy jacket with white paper inner sleeve. Artwork similar to [r6536180] but with five different tracks. |

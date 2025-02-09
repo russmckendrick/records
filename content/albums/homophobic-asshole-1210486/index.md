@@ -46,7 +46,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Single |
+| Format         | 1× Vinyl 12", Single |
 | Label          | Epic |
 | Catalog Number | 658833 6 |
 | Discogs URL    | [Senseless Things - Homophobic Asshole](https://www.discogs.com/release/1210486-Senseless-Things-Homophobic-Asshole) |

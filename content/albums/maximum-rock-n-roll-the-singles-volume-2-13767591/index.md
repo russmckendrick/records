@@ -57,7 +57,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Green), Vinyl LP (White), All Media Compilation Limited Edition Remastered |
+| Format         | 1× Vinyl (Green) LP | 1× Vinyl (White) LP | 1× All Media Compilation, Limited Edition, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19075933811 |
 | Notes | Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels). |

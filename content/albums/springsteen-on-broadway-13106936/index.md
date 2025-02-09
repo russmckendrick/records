@@ -93,7 +93,7 @@ That Springsteen is a masterful storyteller with superhuman command of a small t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Springsteen_on_Broadway |
-| Format         | Vinyl 4× LP Album |
+| Format         | 4× Vinyl LP, Album |
 | Label          | Columbia |
 | Catalog Number | 19075904371 |
 | Notes | Single wide spine sleeve in transparent plastic O-card. Printed inner sleeves.  Recordings from the Springsteen On Broadway show at the Walter Kerr Theatre, New York, NY (which ran from October 12, 2017 to December 15, 2018). Includes free digital download.  Note on runouts: The first part of the runouts is hand-etched. The second part, starting with "MPO" is machine-etched. |

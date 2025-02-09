@@ -59,7 +59,7 @@ Greatest Hits is a 1975 compilation album by British singer-songwriter Cat Steve
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Cat_Stevens_album) |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Island Records |
 | Catalog Number | ILPS 9310 |
 | Notes | The following versions with this cat# and similar design are known to exist:  Regular text in bottom line on sleeve back: [r1389126] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo light coloured [r12244856] - empty Island logo on labels, tiger pointing to the left, sleeve tracklist/logo deep orange [r6813042] - filled Island logo on A label only, tiger pointing to the left [r5376517] - filled Island logo on B label only, tiger pointing to the left [r465317] - filled Island logo on both labels, tiger pointing to the left [r8127853] - empty Island logo on labels, tiger pointing to the right  Bold text in bottom line on sleeve back: [r4164015] - empty Island logo on labels, tiger pointing to the left (this one) [r409889] - filled Island logo with rim on labels, tiger pointing to the left, cat# on back in white |

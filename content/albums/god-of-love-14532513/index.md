@@ -65,7 +65,7 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/God_of_Love_(album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Green/Yellow Mixed, 180 Gram) |
+| Format         | 1× Vinyl (Green/Yellow Mixed, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2531 |
 | Notes | 180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl |

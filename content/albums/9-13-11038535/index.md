@@ -54,7 +54,7 @@ styles: ["Sludge Metal", "Doom Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (White Inside Clear With Black Splatter) |
+| Format         | 1× Vinyl (White Inside Clear With Black Splatter) LP, Album, Limited Edition |
 | Label          | Relapse Records |
 | Catalog Number | RR7379 |
 | Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU. |

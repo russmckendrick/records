@@ -54,7 +54,7 @@ styles: ["New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | A&M Records |
 | Catalog Number | SP-3289 |
 | Notes | "B" on labels and "EMW" in runouts denotes an [l285745] pressing. |

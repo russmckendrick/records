@@ -93,7 +93,7 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Layla_and_Other_Assorted_Love_Songs |
-| Format         | Box Set (50th Anniversary Edition), Vinyl 2× LP Album Reissue Remastered Stereo (Half-Speed Mastered), Vinyl 2× LP Stereo |
+| Format         | 1× Box Set (50th Anniversary Edition) | 2× Vinyl (Half-Speed Mastered) LP, Album, Reissue, Remastered, Stereo | 2× Vinyl LP, Stereo |
 | Label          | Polydor |
 | Catalog Number | 0602507274900 |
 | Notes | This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set). |

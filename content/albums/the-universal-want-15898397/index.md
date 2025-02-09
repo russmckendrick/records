@@ -79,7 +79,7 @@ Fizzing with that chemistry, <i>The Universal Want</i> sounds like a Doves album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Universal_Want |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Virgin |
 | Catalog Number | VY 3248 |
 | Notes | Includes download code. Some copies signed by the band in gold marker.  Made in the Czech Republic. |

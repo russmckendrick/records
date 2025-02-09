@@ -79,7 +79,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (180gr.) |
+| Format         | 2× Vinyl (180gr.) LP, Album, Stereo |
 | Label          | Blue Note |
 | Catalog Number | 602508383793 |
 | Notes | Made in the EU. Back To Black hype sticker on shrink wrap. Comes with 'Back To Black' download code.  Matrices stamped, with exception of B0031355-01-A IS, B0031355-01-B IS, B0031355-01-C IS and B0031355-01-D IS which are etched. The IS symbol in the deadwax represents the initials of mastering and cutting engineer [a527017]. |

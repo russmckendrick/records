@@ -62,7 +62,7 @@ Pretenders II is the second studio album by British-American rock band the Prete
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pretenders_II |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Real Records (2) |
 | Catalog Number | 0190296766138 |
 | Notes | Made in Germany. Limited edition white vinyl with 2018 remastered audio.  Originally ℗ 1981, Remaster ℗ 2018. © 2021 Warner Music UK Ltd.  |

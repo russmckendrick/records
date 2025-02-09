@@ -98,7 +98,7 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Turqouise), Vinyl LP Mini-Album Reissue (Green Transparent [Lime]), Vinyl LP Album Reissue (Yellow), Vinyl LP Album Reissue (Red Transparent), Vinyl LP Album Reissue (Clear [Crystal]) |
+| Format         | 1× Box Set Compilation, Limited Edition | 1× Vinyl (Turqouise) LP, Album, Reissue | 1× Vinyl (Green Transparent [Lime]) LP, Mini-Album, Reissue | 1× Vinyl (Yellow) LP, Album, Reissue | 1× Vinyl (Red Transparent) LP, Album, Reissue | 1× Vinyl (Clear [Crystal]) LP, Album, Reissue |
 | Label          | Virgin |
 | Catalog Number | 358694 |
 | Notes | Coloured vinyl box set of all the albums released on Virgin Records by The Human League (MK II) [1981 - 1990]: Dare - Turquoise  Fascination! - Lime Hysteria - Yellow Crash - Red Romantic? - Crystal  'Dare', 'Hysteria' and 'Romantic?' records have printed inner sleeves 'Fascination!' and 'Crash' records have polylined die-cut white paper inner sleeves |

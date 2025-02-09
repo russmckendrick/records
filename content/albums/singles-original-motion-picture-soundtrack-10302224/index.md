@@ -83,7 +83,7 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Reissue (Gatefold Sleeve), CD, All Media Compilation Deluxe Edition (25th Anniversary Edition) |
+| Format         | 2× Vinyl (Gatefold Sleeve) LP, Reissue | 1× CD | 1× All Media (25th Anniversary Edition) Compilation, Deluxe Edition |
 | Label          | Epic Soundtrax |
 | Catalog Number | 88985315511 |
 | Notes | Gatefold sleeve. Includes mp3 download card. CD issued in cardboard sleeve.  Made in the EU. (on labels and back sleeve)  Sony Music logo on back of gatefold sleeve.  Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)" |

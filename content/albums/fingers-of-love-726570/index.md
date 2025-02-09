@@ -53,7 +53,7 @@ styles: ["Pop Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fingers_of_Love |
-| Format         | Vinyl 10" 45 RPM Single Limited Edition Numbered Stereo |
+| Format         | 1× Vinyl 10", 45 RPM, Single, Limited Edition, Numbered, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 10CL 715 |
 | Notes | Issued in a gatefold sleeve.  [Back cover:] All tracks published by Roundhead Music (BMI) except Side 2 track 2 published by Roundhead Music/Rebel Larynx Music/BMI. Side 1 track 1 & Side 2 track 1 recorded at The Boathouse, Norfolk. Side 1 track 2 & Side 2 track 2 recorded at The Arlington Theater, Santa Barbara. Recorded live to dat. ℗ 1994 the copyright in this sound recording is owned by Capitol Records Inc. © 1994 Capitol Records Inc.  original version appears on the CD, LP and cassette "[m=157732]"  [Labels:] A Capitol Records, Inc., U.S.A. recording Manufactured in the UK by EMI Records Limited |

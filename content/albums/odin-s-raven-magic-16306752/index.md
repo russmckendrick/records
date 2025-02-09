@@ -70,7 +70,7 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Odin%27s_Raven_Magic |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Krúnk |
 | Catalog Number | KRUNK41LP |
 | Notes | Standard double gatefold black-vinyl edition. Some issues with round black sticker on front of shrink wrap. Sticker with barcode, label logo & reference on back of shrink wrap.  See images section. |

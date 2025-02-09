@@ -45,7 +45,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM Record Store Day Single Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) 12", 45 RPM, Record Store Day, Single, Limited Edition |
 | Label          | Caroline International |
 | Catalog Number | CAROL016RSD |
 | Notes | Sticker "Record Store Day 2018 blue coloured vinyl carol016rsd" on foil.  Catalog numbers:  "carol016rsd" appears on hype sticker and the back cover (in all capitals "CAROL016RSD") "carol016lp" appears on the spine  "00602567311669" appears on the back cover before "CAROL016RSD"  Lyrics to How Big The Space on back cover  2500 pressed.   |

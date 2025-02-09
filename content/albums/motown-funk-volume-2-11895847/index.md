@@ -61,7 +61,7 @@ styles: ["Funk", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation (Yellow Translucent) |
+| Format         | 2× Vinyl (Yellow Translucent) LP, Record Store Day, Compilation |
 | Label          | UMC |
 | Catalog Number | 5381363 |
 | Notes | Gatefold sleeve. Some copies have a hype sticker on shrink wrap.  60s/70s U.K. Tamla Motown logo on each of the four record labels 70s/80s "M" Motown logo on the front of the gatefold sleeve |

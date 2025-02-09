@@ -51,7 +51,7 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Disques Dreyfus |
 | Catalog Number | 88843024691 |
 | Notes | Cover & labels: ℗ 1978 Disques Dreyfus-BMG © 2015 Disques Dreyfus-BMG  Made in the EU.  Cover: Recorded on MCI-STUDIO EQUIPMENT New mastering from the original analog tapes 2014 Special thanks to [a=Michel Geiss]  |

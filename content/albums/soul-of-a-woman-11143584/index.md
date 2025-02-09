@@ -55,7 +55,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Daptone Records |
 | Catalog Number | DAP-050 |
 | Notes | Red vinyl variant only available in independent record shops.  Includes mp3 download card. |

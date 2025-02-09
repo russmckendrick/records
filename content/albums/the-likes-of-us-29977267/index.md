@@ -54,7 +54,7 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Likes_of_Us_(Big_Big_Train_album) |
-| Format         | Vinyl 2× LP Album Stereo (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOM700 |
 | Notes | Black vinyl edition.  Gatefold sleeve including printed insert. |

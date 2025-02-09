@@ -63,7 +63,7 @@ Although commercial success elsewhere was initially modest, the album was the du
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Look_Sharp!_(Roxette_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 5054197026607 |
 | Notes | 2018 reissue limited edition red vinyl. |

@@ -59,7 +59,7 @@ The Holy Pictures is the fifth studio album by David Holmes released in Septembe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Holy_Pictures |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE54LP |
 | Notes | Tracks A1, A3, A4, B1, B2, B5: Recorded at Drama Recording, Belfast.  Tracks A2, A5, B3: Recorded at Drama Recording, Belfast and Echo Rec, Los Angeles. Track B4: Recorded at Echo Rec, Los Angeles.  Tracks A1, A2, A4, B1, B2, B5: Mixed at Mayfair Studios, London. Tracks A3, A5, B3: Mixed at Air Studios, London. Track B4: Mixed at Echo Rec, Los Angeles.  The recording credit on track B5 is missing. It says "Recorded By At Drama ...".  ℗ 2008 and © 2008, 2019 Mercury Records Limited. Made in the EU.  Publishers: Track A1: Universal Music Publishing Ltd. / Peacefrog Music Ltd. / Revega Publishing Company. Tracks A2, A5 to B4: Universal Music Publishing Ltd. Track A3: Universal Music Publishing Ltd. / Copyright Control. Track A4: Universal Music Publishing Ltd. / Peacefrog Music Ltd. Track B5: Universal Music Publishing Ltd. / Just Publishing. |

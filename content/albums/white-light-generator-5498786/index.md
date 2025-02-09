@@ -72,7 +72,7 @@ styles: ["Prog Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP, Vinyl LP (White), Vinyl 7" 45 RPM, All Media Album |
+| Format         | 1× Vinyl LP | 1× Vinyl (White) LP | 1× Vinyl 7", 45 RPM | 1× All Media Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7430 1 |
 | Notes | Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.  ℗ © Mascot Music Production and Publishing B.V. All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU. |

@@ -68,7 +68,7 @@ Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nothing%27s_Gonna_Change_the_Way_You_Feel_About_Me_Now |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 193 LP |
 | Notes | LP includes code for mp3 [url=http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325]download card[/url] for the album + bonus track.    The catalog number found on spine and vinyl labels is "BS 193 LP".  The catalog number found on Bloodshot website is "BS 193V".   |

@@ -79,7 +79,7 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Unblackened |
-| Format         | Vinyl 3× LP Album Limited Edition (Clear) |
+| Format         | 3× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Vinyl Vault |
 | Catalog Number | VV3LP011 |
 | Notes | Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’.   This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers.   |

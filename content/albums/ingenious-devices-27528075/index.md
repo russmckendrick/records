@@ -56,7 +56,7 @@ Ingenious Devices is a compilation album by English progressive rock band Big Bi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ingenious_Devices |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | English Electric Recordings |
 | Catalog Number | PLG118 |
 | Notes | Comes in gatefold jacket with black poly inner sleeves. 2-sided lyric sheet included. Limited to 300 copies. All music and words by Gregory Spawton (except for the closing section of East Coast Racer where the music was written by Danny Manners and Gregory Spawton).     Atlantic Cable recorded live at the Waterside Theatre, Aylesbury, in September 2022.  All runouts are etched. |

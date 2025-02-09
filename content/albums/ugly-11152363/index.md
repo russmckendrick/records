@@ -71,7 +71,7 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ugly_(Life_of_Agony_album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 gram) |
+| Format         | 1× Vinyl (Gold, 180 gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2003 |
 | Notes | Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU. |

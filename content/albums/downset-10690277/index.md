@@ -66,7 +66,7 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Downset._(album) |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue, 180 gram) |
+| Format         | 1× Vinyl (Blue, 180 gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1883 |
 | Notes | - 180 gram audiophile vinyl - Includes 4 page 12X12" insert with song lyrics & credits - Limited edition of 1.000 numbered copies on blue vinyl |

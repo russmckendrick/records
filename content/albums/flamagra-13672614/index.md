@@ -102,7 +102,7 @@ In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the e
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flamagra |
-| Format         | Vinyl 2× LP Album Limited Edition (Red) |
+| Format         | 2× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Warp Records |
 | Catalog Number | WARPLP291 |
 | Notes | Rough Trade Shops exclusive edition pressed on red vinyl and issued in a gatefold sleeve with printed die-cut inner sleeves. All sleeves bear a glossy finish. Accompanied by an MP3 download card redeemable through the Bleep website. Limited to 1,000 copies.  "Black Balloons Reprise" contains a sample of "Ten Et Tiwa" by Alain Goraguer - © and ℗ Sugarmusic France S.a.r.l., courtesy of Creazioni Artistiche Musicali C.A.M. S.r.l.  Artwork collage contains elements of: Göran Nilsson, Hole Observatory - "Iris Nebula"; Harel Boren - "Chaotic Carina Nebula"; Chuck Ayoub - "Orion Nebula"; Rawastrodata - "The Horsehead Nebula"; Ken Crawford - "Cygnus Wall"; Dylan O'Donnell - "Carina The Keyhole Nebula"; NASA, ESA, and The Hubble Heritage Team - "NGC 3324 Hubble"; N. Smith (University of California, Berkeley) and NOAO/AURA/NSF - "Carina Nebula Detail" |

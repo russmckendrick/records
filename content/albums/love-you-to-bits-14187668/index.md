@@ -54,7 +54,7 @@ Produced, written and performed by No-Man and mixed by Bruno Ellingham, former M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Love_You_to_Bits |
-| Format         | Vinyl LP Album Limited Edition (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Caroline International |
 | Catalog Number | CAROL020LP |
 | Notes | Burning Shed exclusive 180g blue vinyl edition. Limited to 1000 copies. Comes with an art print signed by Tim Bowness and Steven Wilson.  [Liner notes] Mixed by Bruno Ellingham at Riverside Studios, Batheaston, August 2019 Mastered by Matt Colton at Metropolis  ℗&© 2019 no-man, under exclusive license to Caroline International |

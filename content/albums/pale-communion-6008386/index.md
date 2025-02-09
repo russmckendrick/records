@@ -68,7 +68,7 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pale_Communion |
-| Format         | Vinyl 2× LP Album Limited Edition (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7573-1 |
 | Notes | 180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies. Inclusive download card with bonus content (available on 08/25/14)  Some releases contained a silver coloured Opeth hanger, art.nr. 285947St  Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver. |

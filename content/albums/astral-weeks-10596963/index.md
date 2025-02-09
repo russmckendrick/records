@@ -62,7 +62,7 @@ Forty years after the album's release, Morrison performed all eight of its songs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Astral_Weeks |
-| Format         | Vinyl LP Album Reissue (Clear, 180 g) |
+| Format         | 1× Vinyl (Clear, 180 g) LP, Album, Reissue |
 | Label          | Warner Bros. - Seven Arts Records |
 | Catalog Number | 081227937850 |
 | Notes | Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl |

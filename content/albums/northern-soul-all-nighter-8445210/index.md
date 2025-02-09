@@ -80,7 +80,7 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation |
 | Label          | Not Now Music |
 | Catalog Number | NOT2LP226 |
 | Notes | 2LP Gatefold Edition on 180g Vinyl - 36 Original Soul Grooves.  An updated version of [r5708950] including  a lot of changes to tracks and running order with only record 1 side 2 having the same listing and running order. |

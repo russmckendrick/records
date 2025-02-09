@@ -51,7 +51,7 @@ styles: ["Power Pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation Reissue |
+| Format         | 1× Vinyl LP, Album, Compilation, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1038 |
 | Notes | All the tracks were taken from the two-part U.K. singles for "Golden Skin," "Julia" and one from the re-released "Lava”. Previously only available exclusively in Japan. Now pressed on vinyl for the very first time.  Pressed on 140g black vinyl with printed inner sleeves. |

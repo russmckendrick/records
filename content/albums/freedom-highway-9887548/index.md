@@ -60,7 +60,7 @@ Freedom Highway is the second solo studio album of Folk/Americana musician and C
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Freedom_Highway_(Rhiannon_Giddens_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Nonesuch |
 | Catalog Number | 558805-1 |
 | Notes | ℗ & © 2017 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States. Slavery sale notice courtesy Hudson River Valley Heritage/Historic Huguenot Street.  Includes MP3 Download card. Copies purchased through Rhiannon Giddens' website came with a signed photo by Rhiannon Giddens, 9.5" x 10.5". |

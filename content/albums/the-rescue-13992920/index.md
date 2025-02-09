@@ -53,7 +53,7 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Rescue_(Explosions_in_the_Sky_album) |
-| Format         | Vinyl LP EP Limited Edition Reissue Remastered (Orange Dusty Opaque) |
+| Format         | 1× Vinyl (Orange Dusty Opaque) LP, EP, Limited Edition, Reissue, Remastered |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR326 |
 | Notes | Limited edition colored vinyl: Opaque dusty orange (Edition of 4.000) Vinyl format includes MP3 download coupon inside package. |

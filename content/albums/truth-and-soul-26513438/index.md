@@ -63,7 +63,7 @@ Though Fishbone would find greater mainstream success with 1991’s <i>The Reali
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Truth_and_Soul |
-| Format         | Vinyl LP Album Numbered Reissue (Red Translucent, 35th Anniversary) |
+| Format         | 1× Vinyl (Red Translucent, 35th Anniversary) LP, Album, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP606 |
 | Notes | 1000 copies pressed on 180 gram vinyl. |

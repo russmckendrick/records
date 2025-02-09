@@ -63,7 +63,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Red [Transparent], 140g) |
+| Format         | 2× Vinyl (Red [Transparent], 140g) LP, Album, Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM713 |
 | Notes | Gatefold cardboard jacket with plastic-lined black inner sleeves, inlay with lyrics, and two hype stickers (one black with white font and another triangle white with black font) on the shrinkwrap. Some pre-orders came with a Jem Godfrey signed postcard.  Hype sticker text: FROST* Life In The Wires Gatefold 140G 2LP The New Concept Album - Over 80 Min. Of New Music.  Tracks positions given sequentially on release, regardless of vinyl sides. All grooves etched.  ℗ & © 2024 InsideOutMusic under exclusive licence from Frost*. |

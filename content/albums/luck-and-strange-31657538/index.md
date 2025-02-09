@@ -80,7 +80,7 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Luck_and_Strange |
-| Format         | Vinyl LP Album Stereo (Sea Blue Translucent ) |
+| Format         | 1× Vinyl (Sea Blue Translucent ) LP, Album, Stereo |
 | Label          | Sony Music |
 | Catalog Number | 19802812421 |
 | Notes | Hype sticker: The new album from  DAVID GILMOUR Featuring The Piper's Call Between Two Points Dark and Velvet Nights Exclusive translucent sea blue vinyl 19802812412S1  Gatefold sleeve and 16 page black and white booklet.  Runout strings are stamped except for 'MILES ABBEY ROAD 1/2 SPEED ROOM 30' which are etched. |

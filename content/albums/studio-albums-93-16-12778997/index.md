@@ -140,7 +140,7 @@ styles: ["Alternative Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Brown), Vinyl 2× LP Album Reissue (Green Translucent), Vinyl LP Album Reissue (Yellow, Pale), Vinyl 2× LP Album Reissue (Lilac), Vinyl LP Album Reissue (Red), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Mispress Reissue (Blue Translucent), Box Set Compilation Limited Edition Numbered |
+| Format         | 1× Vinyl (Brown) LP, Album, Reissue | 2× Vinyl (Green Translucent) LP, Album, Reissue | 1× Vinyl (Yellow, Pale) LP, Album, Reissue | 2× Vinyl (Lilac) LP, Album, Reissue | 1× Vinyl (Red) LP, Album, Reissue | 1× Vinyl (Red) LP, Album, Reissue | 2× Vinyl (Blue Translucent) LP, Album, Mispress, Reissue | 1× Box Set Compilation, Limited Edition, Numbered |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX009X |
 | Notes | Numbered and Limited (1000 copies) LP boxset including the 7 studio albums, on heavyweight coloured vinyl exclusive to Amazon.  There was an error made with the use of the incorrect masters for Night Thoughts within the box set and replacement discs using the correct mastering were issued by Demon. Replacement issue for blue vinyl edition listed here: [r13083066]  |

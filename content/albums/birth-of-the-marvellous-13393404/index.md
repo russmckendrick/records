@@ -51,7 +51,7 @@ styles: ["Progressive Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Prosthetic Records |
 | Catalog Number | PROS103551 |
 | Notes | 1st pressing, limited to 300 classic black LPs in heavy, reverse board sleeve with gold ink and insert. |

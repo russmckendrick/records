@@ -68,7 +68,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP Reissue Remastered, Vinyl 2× LP Album Reissue Remastered, Box Set Compilation |
+| Format         | 1× Vinyl 12", EP, Reissue, Remastered | 2× Vinyl LP, Album, Reissue, Remastered | 1× Box Set Compilation |
 | Label          | Monkeywrench Records |
 | Catalog Number | B0025317-01 |
 | Notes | Set Includes:   Shine EP - remastered vinyl   Apple LP - remastered vinyl   24 page booklet - lyrics, credits, and rare photos. 12" x 12" Envelope containing photo prints, 24 page zine, fold out poster, stencil and more!   Vinyl set is packaged in a slipcase replicating a Mother Love Bone wall mural painted by Jeff Ament  A limited number of sets received also an "Happy Holidays greeting card" signed by each member of Mother Love Bone. "These cards were uncovered from the Mother Love Bone / Love Co. deep archives."  Please note that the signed cards were loose in the shipping box from Pearl Jam Ten Club in 2016, not sealed within the vinyl packaging. |

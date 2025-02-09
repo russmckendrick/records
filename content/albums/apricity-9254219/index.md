@@ -52,7 +52,7 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | Harvest |
 | Catalog Number | 4776485 |
 | Notes | Includes an insert with artwork on one and lyrics and liner notes on the other side, as well as a card with a download code for WAV and MP3 files.  All tracks © 2016 Sony ATV Music // Syd Arthur Music BMI. All Rights Reserved. Used By Permission.  ℗ © 2016 Harvest Records, Under Exclusive License To Communion Group Ltd. BIEM /SDRM. Made In The EU. COMM159 / 4776485 |

@@ -63,7 +63,7 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Led_Zeppelin_III |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
+| Format         | 1× Vinyl (180g, Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Atlantic |
 | Catalog Number | 8122796576 |
 | Notes | ℗ & © 1970. Labels: Manufactured in Germany. Sleeve: Made in EU. Sticker:  "The Classic Album on 180g Vinyl. Includes Immigrant Song, & Gallows Pole Remastered by Jimmy Page Replica of Original Sleeve."  Gatefold with working wheel.  Catalog number "8122796576" appears on the sticker, spine and inner gatefold while "R1 535341" appears on the label.  Runouts are etched with Optimal plating symbols mirrored. Runout side A, variant 3: "4 +V" is mirrored and upside down Runout side B, variant 3: "5 VI" is mirrored and upside down |

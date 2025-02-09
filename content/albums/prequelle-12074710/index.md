@@ -62,7 +62,7 @@ The album was released with five different versions of the cover art, each with 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prequelle |
-| Format         | Vinyl LP Album Limited Edition (Red/Clear Swirl) |
+| Format         | 1× Vinyl (Red/Clear Swirl) LP, Album, Limited Edition |
 | Label          | Loma Vista |
 | Catalog Number | LVR00392 |
 | Notes | Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings |

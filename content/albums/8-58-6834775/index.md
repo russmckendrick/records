@@ -64,7 +64,7 @@ The song "Please" is a reworking of the track of the same name from Paul Hartnol
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/8:58 |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1503 |
 | Notes | Gatefold sleeve.    Copies signed by Paul Hartnoll were available from Recordstore.co.uk.    Track A2 is an extended version of “Please (Remember 1992?) (Paul Hartnoll Remix)”, originally 5:45 long, commercially released on [url=http://www.discogs.com/Paul-Hartnoll-feat-Robert-Smith-Please/release/3592544]7”[/url] & [url=http://www.discogs.com/Paul-Hartnoll-Feat-Robert-Smith-Please-The-Remixes/release/964545]12”[/url] in 2007, and credited to “Paul Hartnoll Feat. Robert Smith”. |

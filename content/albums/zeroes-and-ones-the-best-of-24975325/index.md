@@ -69,7 +69,7 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation (Gold Vinyl) |
+| Format         | 2× Vinyl (Gold Vinyl) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 958 |
 | Notes | 2LP set featuring all the hits and more, with track-by-track annotation by the band's keyboard player Iain Baker Pressed on 140g Gold Vinyl |

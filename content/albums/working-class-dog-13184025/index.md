@@ -57,7 +57,7 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Working_Class_Dog |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Black & White Swirled) |
+| Format         | 1× Vinyl (Black & White Swirled) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | RCA Victor |
 | Catalog Number | MOVLP1655 |
 | Notes | 180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl |

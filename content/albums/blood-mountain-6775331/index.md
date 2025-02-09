@@ -65,7 +65,7 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Mountain_(album) |
-| Format         | Vinyl LP Album Reissue Repress (Green Marbled) |
+| Format         | 1× Vinyl (Green Marbled) LP, Album, Reissue, Repress |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49293-8 |
 | Notes | Reprise Records, A Warner Music Group Company. 3300 Warner Blvd., Burbank,  CA 91505-4694; 75 Rockefeller Plaza, New York, NY 10019-6908 © 2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. ℗ 2006 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Printed in the E.U. Manufactured in the Netherlands.  Tracks are listed sequentially on the release.  Sticker reads : The Grammy nominated album featuring: Colony Of Birchmen, Crystal Skull and Sleeping Giant.  Vinyl housed in a plane white innersleeve, comes with a 12" printed lyric sheet.  1st cat # = Spine, rear cover, inner 2nd cat # = labels  • Run-out information: 1-44364-A and 1-44364-B are etched 86117 1A and 86117 1B are stamped  |

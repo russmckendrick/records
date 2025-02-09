@@ -61,7 +61,7 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dead_Cross |
-| Format         | Vinyl LP 45 RPM Album Limited Edition (Gold) |
+| Format         | 1× Vinyl (Gold) LP, 45 RPM, Album, Limited Edition |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC193LP |
 | Notes | Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix.  |

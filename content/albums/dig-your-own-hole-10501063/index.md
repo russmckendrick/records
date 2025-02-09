@@ -65,7 +65,7 @@ But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dig_Your_Own_Hole |
-| Format         | Vinyl 2× LP Album Reissue Repress (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Reissue, Repress |
 | Label          | Virgin |
 | Catalog Number | 5761964 |
 | Notes | 20th Anniversary Silver vinyl edition. Gatefold cover. Printed in the UK.  ℗ 1997 Virgin Records Limited. © 1997 Virgin Records Limited.  Includes a download code for the album in 16 bit WAV format, [r=11516477].  The colour is rather gray than the stated silver. |

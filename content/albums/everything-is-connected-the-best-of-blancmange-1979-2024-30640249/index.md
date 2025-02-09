@@ -62,7 +62,7 @@ styles: ["Synth-pop", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Compilation Limited Edition (Coke Bottle Green Transparent) |
+| Format         | 1× Vinyl (Coke Bottle Green Transparent) LP, Album, Compilation, Limited Edition |
 | Label          | London Records |
 | Catalog Number | LMS1725115 |
 | Notes | Truncated 10 track vinyl version of the companion 2XCD which contains 38 tracks [r30631420].  ℗ & © 2024 London Records Ltd. Manufactured in France.  Title of A1 is printed upside down on cover. Initial copies ordered from the band's official website included a 12"x12" colour print signed by Neil Arthur. |

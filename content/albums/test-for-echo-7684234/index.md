@@ -68,7 +68,7 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Test_for_Echo |
-| Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
+| Format         | 1× Vinyl (200g) LP | 1× Vinyl (200g) LP, Single Sided, Etched | 1× All Media Album, Reissue, Remastered, Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 83739 |
 | Notes | Includes High Quality Download Code  Etched D Side |

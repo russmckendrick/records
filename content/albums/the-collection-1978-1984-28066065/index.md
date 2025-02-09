@@ -107,7 +107,7 @@ styles: ["Hard Rock", "Arena Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered (180g), Vinyl LP Album Reissue Remastered (180g), Vinyl LP Album Reissue Remastered (180g), Vinyl LP Album Reissue Remastered (180g), Vinyl LP Album Reissue Remastered (180g), Vinyl LP Album Reissue Remastered (180g), Box Set Compilation |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Vinyl (180g) LP, Album, Reissue, Remastered | 1× Box Set Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 671179 |
 | Discogs URL    | [Van Halen - The Collection 1978-1984](https://www.discogs.com/release/28066065-Van-Halen-The-Collection-1978-1984) |

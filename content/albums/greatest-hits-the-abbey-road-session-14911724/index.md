@@ -61,7 +61,7 @@ The second part of the double CD release, entitled Official Bootleg 1990–2020,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(The_Abbey_Road_Session) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Marshall Records (10) |
 | Catalog Number | R920.011 |
 | Notes | Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).  Catalog# and barcode differ from those on the coloured vinyl edition. |

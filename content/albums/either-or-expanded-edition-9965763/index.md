@@ -105,7 +105,7 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Kill Rock Stars |
 | Catalog Number | KRS620 |
 | Notes | Includes a download card and OBI strip  Standard black vinyl version |

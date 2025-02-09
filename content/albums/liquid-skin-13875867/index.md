@@ -65,7 +65,7 @@ Liquid Skin received generally favourable reviews from critics, many of whom fou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Liquid_Skin |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Transparent, 180 Gram) |
+| Format         | 2× Vinyl (Transparent, 180 Gram) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | UMC |
 | Catalog Number | 00602577534225 |
 | Notes | 20th Anniversary release including free download |

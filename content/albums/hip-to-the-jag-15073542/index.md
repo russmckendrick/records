@@ -60,7 +60,7 @@ Hip to the Jag is the debut solo studio album by Iranian-born musician Kavus Tor
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hip_to_the_Jag |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Believers Roast |
 | Catalog Number | BR23 |
 | Notes | BR23   - on spine BR23v - on back  Limited edition of 500 - Black vinyl edition of Kavus' life enhancing debut solo album  180gsm vinyl housed in a 300gsm natural brown card finished in matt varnish and a printed inner sleeve on uncoated art paper.  Orders via bandcamp came with a signed A5 print of the album cover Pre-orders through the Burning Shed are signed on the front cover in the lower left.  Hip To The Jag, Kavus Torabi's debut solo album, is a blissfully skewed swan dive into the swirling cosmic kaleidoscope of the poet's soul. From spectral, intricate and fragile compositions to psychedelic, joyous and open drone-scapes, it is brave, beautiful and beguiling throughout. |

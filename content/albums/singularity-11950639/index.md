@@ -59,7 +59,7 @@ Building on his background as a classical pianist and composer, Surrey producer 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Singularity_(Jon_Hopkins_album) |
-| Format         | Vinyl 2× LP Album (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album |
 | Label          | Domino |
 | Catalog Number | WIGLP352 |
 | Notes | Standard black-vinyl version.  Written, produced and engineered at Café Music Studios, London Mixed at Café Music Studios, London Piano on Emerald Rush recorded at Shoreditch Treehouse, London London Voices recorded at Angel Studios, London |

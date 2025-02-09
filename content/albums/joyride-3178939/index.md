@@ -63,7 +63,7 @@ The band toured extensively to support the record, performing to over 1.7 millio
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Joyride_(Roxette_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | EMI |
 | Catalog Number | EMD 1019 |
 | Notes | Printed inner sleeve with photo, lyrics and credits.  Some with sticker "includes the hit singles joyride fading like a flower & spending my time EMD 1019" (written as is)  The runouts are stamped.  |

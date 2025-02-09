@@ -63,7 +63,7 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_Through_This |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | DGC |
 | Catalog Number | 602547849670 |
 | Notes | Made in Holland printed on sleeve. Made in the Netherlands sticker on shrink. Some copies came with a [l=Back To Black] voucher to download the mp3 version of this album ([r=15697268]). Track numbering is listed sequentially on side labels. Track durations are not printed on the release.  Tracks A1, A2, A4, A5 and B8 mixed at Record One, Los Angeles and Bad Animals, Seattle.  Track B11 mixed at Sear Sound, NYC. Recorded at Triclops Studios, Atlanta, CA.  All songs published by Mother May I Music BMI except "Credit In The Straight World" [...] Published by Rough Trade Music  ℗ 1994 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in Holland. BIEM/SDRM. |

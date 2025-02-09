@@ -67,7 +67,7 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo |
+| Format         | 2× Vinyl LP, Compilation, Stereo |
 | Label          | Riva (2) |
 | Catalog Number | RVLP 3 |
 | Notes | Released in a matt gatefold sleeve.  1st cat# on labels , 2nd cat# on sleeve.  Side 1 Warner Brother Music (1 - 5). Side 2 Northern Songs (1), Warner Brothers Music (2,3,5), Jewel Music (4). Side 3 Warner Brothers Music (1 - 5). Side 4 By arrangement with Phonogram Ltd (5), Warner Brothers Music (1,3), Jobette Music (uk) Ltd (2), Warner Brothers Music / Island Music (4), Kags Music (5).   ℗1970, 1971, 1972,1973, 1974, 1975 and ©1977 Riva Records Ltd 2 New Kings Road London SW6.  Sleeve printed and made in England by Gothic Print Finishers Ltd., London SE9 2EQ  Etched runouts (A = Λ) |

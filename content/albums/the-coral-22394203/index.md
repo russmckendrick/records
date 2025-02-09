@@ -92,7 +92,7 @@ Rock revivalism is only half the story on this eponymous debut from psychedelic 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Coral_Sea_(album) |
-| Format         | Vinyl LP Album Repress Stereo (White), Vinyl LP Compilation Stereo (White), All Media Limited Edition Remastered |
+| Format         | 1× Vinyl (White) LP, Album, Repress, Stereo | 1× Vinyl (White) LP, Compilation, Stereo | 1× All Media Limited Edition, Remastered |
 | Label          | Run on Records |
 | Catalog Number | RO-002-LP |
 | Notes | 20th Anniversary Edition. Sticker on sleeve. Included printed colour inner sleeves and artwork booklet with original album lyrics. Pressed on  opaque white double heavyweight vinyl. Some copies were sold with a signed print.  Remastered from the original mixes. This reissue includes two, unreleased, never-before-heard-tracks, She’s The Girl For Me and Tumble Graves, produced by Ian Broudie, but shelved after the 2001 album sessions.  The rarities appear on a complete singles B-sides collection and the band’s pre-album EP The Oldest Path.  ℗ 2022 Deltasonic Records © 2022 Run On Records/ Modern Sky  www.thecoral.co.uk |

@@ -54,7 +54,7 @@ styles: ["Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1133 |
 | Notes | -25th anniversary LP reissue of Gavin Harrison's debut album.  -Remastered with an exclusive bonus track and new original artwork.  |

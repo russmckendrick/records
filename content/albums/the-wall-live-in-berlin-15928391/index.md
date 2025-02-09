@@ -85,7 +85,7 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Clear, 180 gram, 30th Anniversary Edition) |
+| Format         | 2× Vinyl (Clear, 180 gram, 30th Anniversary Edition) LP, Album, Record Store Day, Limited Edition, Reissue, Stereo |
 | Label          | UMC |
 | Catalog Number | 0602508538506 |
 | Notes | Record Store Day - RSD Drops Sep 26th 2020 Quantity: 8.000 copies Gatefold cover with records housed in printed inner sleeves. Includes a download card.  Global, worldwide release.  Some copies do not have a hype sticker. Some copies did not include a download card.  Title on the spine: The Wall - Live In Berlin 1990  Back cover: Roger Waters : The Wall Saturday 21st July 1990  Made in the EU.  Label rim text: Made In The EU.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△". |

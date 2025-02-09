@@ -49,7 +49,7 @@ styles: ["Prog Rock", "Alternative Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Beetroot |
 | Catalog Number | BR 001 |
 | Notes | All music & lyrics written by Jouis |

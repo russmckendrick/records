@@ -56,7 +56,7 @@ A Collection of Great Dance Songs is a compilation album by the English rock ban
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Collection_of_Great_Dance_Songs |
-| Format         | Vinyl LP Compilation Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Compilation, Reissue, Remastered |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP19 |
 | Notes |  A1 from Meddle 1971 A2 from Dark Side Of The Moon 1981, Re-recorded at New Roydonia Studios 1981 A3 from Animals 1977 B1 from Wish You Were Here 1975 B2 from Wish You Were Here 1975 B3 from The Wall 1979  Comes with printed cardboard- inner sleeve with rounded corners.  This compilation ℗1981 by EMI Records Ltd/Pink Floyd Music Ltd |

@@ -59,7 +59,7 @@ This hefty anthology charts the sinister evolution of heavy metal’s dark princ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blizzard_of_Ozz |
-| Format         | Vinyl LP Album Reissue Stereo (Silver With Red Swirls) |
+| Format         | 1× Vinyl (Silver With Red Swirls) LP, Album, Reissue, Stereo |
 | Label          | Epic |
 | Catalog Number | 19439812511 |
 | Notes | Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. Track A4 is an instrumental.  Rear sleeve & labels: ℗ 1981 © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Rear sleeve: Recorded March 22 - April 19, 1980 Mixed May 5 - 20, 1980 Mastered by [...] at Sterling Sound, New York Made in the EU.  Inner sleeve: A1, A2, B1, B3 - © 1980 Blizzard Music Ltd. / Kord Music. Used by permission. A3 - TRO-© Copyright 1981 & 1984 Essex Music International, Inc., New York / Kord Music. Used by permission. A4 - TRO-© Copyright 1981 & 1985 Essex Music International, Inc., New York. Used by permission. A5 - TRO-© Copyright 1981 Essex Music International, Inc., New York / Kord Music. Used by permission. B2, B4 - TRO-© Copyright 1981 & 1986 Essex Music International, Inc., New York / Kord Music. Used by permission. © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Runout information: "19075877321-A/B RE1 RKS" is etched, "184143E1/2/A2 STERLING" is stamped. |

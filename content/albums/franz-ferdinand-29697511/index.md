@@ -64,7 +64,7 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Franz_Ferdinand_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange & Black Swirl) |
+| Format         | 1× Vinyl (Orange & Black Swirl) LP, Album, Limited Edition, Reissue |
 | Label          | Domino |
 | Catalog Number | WIGLP136 |
 | Notes | Hype sticker: Franz Ferdinand The Debut Album 20th Anniversary Limited Edition Black & Orange Swirl Vinyl |

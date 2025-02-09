@@ -55,7 +55,7 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/About_the_Light |
-| Format         | Vinyl LP Album Limited Edition (Silver) |
+| Format         | 1× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |
 | Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |

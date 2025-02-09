@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Remastered |
+| Format         | 2× Vinyl LP, Album, Limited Edition, Remastered |
 | Label          | Ultimate |
 | Catalog Number | SBR 208LP |
 | Notes | Stacked Up XX Limited Edition Double Vinyl Album includes a remastered version of the original record with new artwork and a digital download copy of all Stacked Up XX CD tracks.   Includes insert with pictures. Some signed copies were available from Senser website.  The Bacon Empire Publishing Ltd 2014. All Songs Published by London Music  |

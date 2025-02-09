@@ -63,7 +63,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album, CD Album |
+| Format         | 2× Vinyl LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 424 |
 | Notes | 180g vinyl in a gatefold sleeve. |

@@ -62,7 +62,7 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Universal_(Orchestral_Manoeuvres_in_the_Dark_album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422589 |
 | Notes | An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files). |

@@ -55,7 +55,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Baby Blue) |
+| Format         | 1× Vinyl (Baby Blue) LP, Album, Limited Edition, Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP007CLR |
 | Notes | Limited reissue (700 copies) on “baby blue” vinyl, for Love Record Stores. Appears to be subtly marbled when held up to the light. Release date was supposed to 20th June but was delayed to the 26th June.  For Lawerence Bradby Made by Electric Honey Records (P) 1996 Jeepster Recordings Ltd. (C) 1999 Jeepster Recordings Ltd. Distributed by Universal Music Operations Ltd. Made in the EU. |

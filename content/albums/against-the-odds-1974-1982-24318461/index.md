@@ -181,7 +181,7 @@ styles: ["Power Pop", "Punk", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Limited Edition (Super Deluxe Edition), Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album Reissue Remastered, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 10" Album, Vinyl 7" 45 RPM |
+| Format         | 1× Box Set (Super Deluxe Edition) Compilation, Deluxe Edition, Limited Edition | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl LP, Album | 1× Vinyl 10", Album | 1× Vinyl 7", 45 RPM |
 | Label          | UMC |
 | Catalog Number | 00602508760693 |
 | Notes | Includes the first 6 studio albums plus 4 LPs, a 10" and a 7" with unreleased and rare material, a 144 page hardcover book and a 120 page photographic discography book.  Comes in a carton box which can be unfolded as a standup (Debbie Harry with Andy Warhol shirt) |

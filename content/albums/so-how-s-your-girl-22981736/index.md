@@ -66,7 +66,7 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue |
+| Format         | 2× Vinyl LP, Album, Record Store Day, Reissue |
 | Label          | Tommy Boy |
 | Catalog Number | TB-1258-1 |
 | Notes | Record Store Day "RSD First" release, part of the April 23rd drop.  Tracks numbered sequentially on release.  Made In Canada |

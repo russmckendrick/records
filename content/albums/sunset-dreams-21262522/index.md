@@ -52,7 +52,7 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP (White) |
+| Format         | 1× Vinyl (White) 12", EP |
 | Label          | Fire Records |
 | Catalog Number | FIRE643W |
 | Notes | Limited to 450 copies Includes download code |

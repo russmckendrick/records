@@ -53,7 +53,7 @@ Following their first studio album in ten years, 2019's Renaissance Men, the Wil
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/21st_Century_Love_Songs |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Graphite Records (3) |
 | Catalog Number | GRAPHFAR36LP |
 | Notes | Standard black vinyl edition. Gatefold sleeve with lyric sheet insert housed in a poly sleeve (never sealed). First 500 copies pre-ordered from www.omerch.eu/shop/thewildhearts came with a fully-autographed A4 print (drawing of band members) and a band logo sticker. Copies sold on merchandise stand on September 2021 UK tour came with a fully-autographed A4 print (front cover artwork design).  |

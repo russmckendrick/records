@@ -52,7 +52,7 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Pink & Purple Marbled, 180 Gram) |
+| Format         | 1× Vinyl (Pink & Purple Marbled, 180 Gram) 12", 45 RPM, EP, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12032 |
 | Notes | Part of the Curve EP reissue series. 180 gram audiophile vinyl. Limited edition of 1000 on Pink & Purple Marbled vinyl. Individual number stamped in silver metallic on rear of outer sleeve. Plastic outer sleeve with Music On Vinyl sticker. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track durations not listed on the release. |

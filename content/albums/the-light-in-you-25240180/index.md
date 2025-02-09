@@ -54,7 +54,7 @@ The Light in You is the eighth studio album by American rock band Mercury Rev, r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Light_in_You |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Bella Union |
 | Catalog Number | BELLA504V |
 | Notes | Black Vinyl Edition - Gatefold Sleeve includes download code.     |

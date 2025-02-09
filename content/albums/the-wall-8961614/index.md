@@ -91,7 +91,7 @@ In addition to elevating them to implausibly greater levels of fame, <i>The Wall
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold, 180g) |
+| Format         | 2× Vinyl (Gatefold, 180g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP11 |
 | Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1979 Made in the E.U. www.pinkfloyd.com  Cat#s: 'PFRLP11-1' on LP1 inner sleeve 'PFRLP11-2' on LP2 inner sleeve  Transparent "Pink Floyd The Wall" sticker stuck directly on the front cover plus a hype sticker on shrink-wrap. Printed inner sleeves in original UK-Style.  ℗ & © 2016 Pink Floyd Music Ltd.   Runtimes measured by digitalizing the vinyl and having timed each track on computer.  Runouts: '16736 #A / #B / #C / #D' is stamped, remainder is etched. |

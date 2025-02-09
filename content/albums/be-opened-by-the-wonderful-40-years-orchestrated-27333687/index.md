@@ -58,7 +58,7 @@ styles: ["Indie Rock", "Contemporary"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM002LPY |
 | Notes | Gatefold including hand PVC sleeve.  ℗&© 2023 Nothing But Love Music.  300 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions.  Obi-strip label & cat. no: Virgin Music Label & Artist Services NBLM002LPY |

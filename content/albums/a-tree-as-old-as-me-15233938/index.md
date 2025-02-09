@@ -42,7 +42,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 45 RPM EP Limited Edition Reissue |
+| Format         | 1× Vinyl 10", 45 RPM, EP, Limited Edition, Reissue |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |
 | Notes | Originally released on CD in 2010. |

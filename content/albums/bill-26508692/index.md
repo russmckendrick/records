@@ -61,7 +61,7 @@ The album had sold around 15,000 copies before it was picked up by Island.  "My 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bill_(Tripping_Daisy_album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3369 |
 | Notes | MOV Hype Sticker: Available On Vinyl For The First Time Includes Insert 180 Gram Audiophile Vinyl |

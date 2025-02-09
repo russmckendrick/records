@@ -51,7 +51,7 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG063 |
 | Notes | Limited edition of 300 copies. |

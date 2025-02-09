@@ -51,7 +51,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP EP Record Store Day (Orange [Translucent]) |
+| Format         | 1× Vinyl (Orange [Translucent]) LP, EP, Record Store Day |
 | Label          | Kscope |
 | Catalog Number | 1231 |
 | Notes | Exclusive for Record Store Day  Sticker text: [Oceansize logo] Home & Minor 32 minute 2009 EP First time on vinyl 140g Orange vinyl EXCLUSIVE FOR RECORD STORE DAY UK KSCOPE1231  Mastered at Abbey Road  Thanks to Airtight for the use of their piano.  www.oceansize.co.uk  ©&℗ 2009 Oceansize under license to Superball Music/Century Media Records Ltd. Made in Germany |

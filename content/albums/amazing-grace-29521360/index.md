@@ -62,7 +62,7 @@ The closing track on the album, "Lay It Down Slow", was used in the Series Final
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amazing_Grace_(Spiritualized_album) |
-| Format         | Vinyl LP Album Reissue Remastered (Dove Grey) |
+| Format         | 1× Vinyl (Dove Grey) LP, Album, Reissue, Remastered |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1827-3 |
 | Notes | Reissue on Fat Possum on Dove Grey vinyl. |

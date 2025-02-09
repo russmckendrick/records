@@ -70,7 +70,7 @@ Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gold_(Ryan_Adams_album) |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Lost Highway |
 | Catalog Number | 008817023519 |
 | Discogs URL    | [Ryan Adams - Gold](https://www.discogs.com/release/3814418-Ryan-Adams-Gold) |

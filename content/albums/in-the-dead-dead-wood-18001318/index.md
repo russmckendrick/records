@@ -59,7 +59,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Clear w/ Black Blob [Silhouette]) |
+| Format         | 1× Vinyl (Clear w/ Black Blob [Silhouette]) LP, Album, Limited Edition |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |
 | Notes | Limited to 300 copies. The sleeve features spot varnish artwork and the release comes with 8 Tarot cards. The cards have lyrics and credits on them and come in a white envelope that has a hand written excerpt from the lyrics on the front. No credits appear on the sleeve. |

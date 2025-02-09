@@ -62,7 +62,7 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Warrior |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | A&M Records |
 | Catalog Number | 535 407-6 |
 | Notes | Plus download code. |

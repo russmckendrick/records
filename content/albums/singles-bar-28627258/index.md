@@ -58,7 +58,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation (140g) |
+| Format         | 1× Vinyl (140g) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1129 |
 | Notes | Hype sticker says: "On vinyl for the first time. Featuring 'Diminished Clothes', 'Kent' and 'On A Leash'. 140g black vinyl. Includes art print signed by Marijne van der Vlugt and Paul Kennedy   Rear sleeve states "The First Three Singles."  Tracks 1-5 ℗1993 Waldorf Records.  Tracks 6-11 ℗1994 Island Records Ltd.  ©1994 Island Records Ltd. Marketed by Demon Records  |

@@ -58,7 +58,7 @@ Lost Themes II is the second studio album by American film director and composer
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lost_Themes_II |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR-150 |
 | Notes | Release in die-cut jacket with glued plastic window on the die-cuts, a printed inner sleeve, a download code card/voucher and barcode/hype sticker on front shrink. |

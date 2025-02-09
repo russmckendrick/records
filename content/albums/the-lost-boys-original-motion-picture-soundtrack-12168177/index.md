@@ -55,7 +55,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Reissue |
 | Label          | Atlantic |
 | Catalog Number | 603497860630 |
 | Notes | Hype sticker: "Original Classic Soundtrack - Exclusive White Vinyl Edition"  |

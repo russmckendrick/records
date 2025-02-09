@@ -52,7 +52,7 @@ styles: ["Ethereal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Sound Canyon |
 | Catalog Number | SC0001LP |
 | Notes | Label saying 'Made in Canada' |

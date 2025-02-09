@@ -71,7 +71,7 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Backstreet_Symphony |
-| Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver) |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition, Reissue | 1× Vinyl (Silver) LP, Album, Limited Edition, Reissue |
 | Label          | BMG |
 | Catalog Number | BMGCAT708DLP |
 | Notes | Tracks D1 and D2 Previously available on the 2003 DVD, 'Live & Uncut' on STC Records. Long since deleted and have never been available on CD, vinyl or digital Track D3 Previously only available on The Xmas Show Live 2008 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.  Some copies came with a limited edition art card. |

@@ -60,7 +60,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Limited Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG018 |
 | Notes | Packaged in a gatefold cover with color printed inner LP sleeves.  Limited edition of 500 copies. |

@@ -70,7 +70,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media (Gatefold) |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP | 1× All Media (Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2145 |
 | Notes | Let Me Come Over: Mixed at Soundtracks. Additional mixing at Carriage House. Recorded at Dreamland and Fort Apache.  Includes bonus LP "Live From London ULU 1992" Mixed at Q Division Studios. Special thanks to Ed Valauskas.  Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).  Includes a coupon to download the album and the full live show as [url=https://www.discogs.com/release/13211362]320 kbps MP3s[/url]. |

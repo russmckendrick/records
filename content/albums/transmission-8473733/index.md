@@ -63,7 +63,7 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× 12" 33 ⅓ RPM Album |
+| Format         | 3× Vinyl 12", 33 ⅓ RPM, Album |
 | Label          | Drone |
 | Catalog Number | DRONE 007LP |
 | Notes | Tri-fold gatefold sleeve.  Includes digital download code.   |

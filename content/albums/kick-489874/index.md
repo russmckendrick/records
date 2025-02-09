@@ -68,7 +68,7 @@ The band's most successful studio album, Kick has been certified six times plati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Kick_(INXS_album) |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Mercury |
 | Catalog Number | MERH 114 |
 | Notes | Gatefold sleeve. Includes a die cut paper inner sleeve with lyrics.  Track durations stated on the centre labels.  A similar version exists, [r12383457], which has both sides mastered by [a=Denis Blackham]  As printed on rear sleeve: (P) 1987 Polygram INT. Music B.V. The Netherlands (C) 1987 INXS As printed on centre labels: (P) 1987 Polygram International Music BV (Baam) (C) 1987 Polygram International Music BV (Baam) |

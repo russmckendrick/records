@@ -66,7 +66,7 @@ No Sounds Are Out of Bounds is the fifteenth studio album by English ambient hou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Sounds_Are_Out_of_Bounds |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Limited Edition |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP711 |
 | Notes | Indie Exclusive  Limited to 500  Includes a download code.  A: 22:25 / B: 17:22 / C: 15:23 / D:15:09 Total Length: 70:09   |

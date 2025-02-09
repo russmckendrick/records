@@ -64,7 +64,7 @@ The band's music is largely based on sampling and sound manipulation; the tracks
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Young_Gods |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Polydor |
 | Catalog Number | 847 846-1 |
 | Discogs URL    | [Little Angels - Young Gods](https://www.discogs.com/release/1433332-Little-Angels-Young-Gods) |

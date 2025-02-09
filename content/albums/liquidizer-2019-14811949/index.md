@@ -50,7 +50,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 7" 45 RPM Single Limited Edition Mispress (Silver/Grey (mispress variant) / Multicolour Grey) |
+| Format         | 2× Vinyl (Silver/Grey (mispress variant) / Multicolour Grey) 7", 45 RPM, Single, Limited Edition, Mispress |
 | Label          | Speedowax Records |
 | Catalog Number | ATOMO183 |
 | Notes | 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store. Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.  Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve. |

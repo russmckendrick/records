@@ -67,7 +67,7 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Stone_Roses |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Silvertone Records |
 | Catalog Number | 19439894221 |
 | Notes | HMV exclusive with obi strip. Limited to 2000 copies.  ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited  A4 is credited as as Another Schroeder/Garage Flower Production |

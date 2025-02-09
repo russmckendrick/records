@@ -53,7 +53,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Communion Records (2) |
 | Catalog Number | COMM602 |
 | Notes | Standard black version  ℗ & © 2024 The Staves Under Exclusive License to Communion Music Group Ltd. COMM602 |

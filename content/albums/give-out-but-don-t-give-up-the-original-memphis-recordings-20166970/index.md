@@ -67,7 +67,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album Reissue, All Media Deluxe Edition Limited Edition Numbered |
+| Format         | 3× Vinyl LP, Album, Reissue | 1× All Media Deluxe Edition, Limited Edition, Numbered |
 | Label          | Run Out Groove |
 | Catalog Number | ROGV-114 |
 | Notes | Tri-fold sleeve machine-numbered on the rear. Includes booklet.  140g |

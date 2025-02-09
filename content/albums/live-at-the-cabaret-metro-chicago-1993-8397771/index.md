@@ -49,7 +49,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Unofficial Release (180g) |
+| Format         | 2× Vinyl (180g) LP, Unofficial Release |
 | Label          | DOL |
 | Catalog Number | DOR2073H |
 | Notes | Live At The Cabaret Metro, Chicago, August 14, 1993. |

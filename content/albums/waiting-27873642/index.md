@@ -62,7 +62,7 @@ The album's lead track, "Murder She Said," is a cover of the theme from the four
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Waiting_(Fun_Boy_Three_album) |
-| Format         | Vinyl LP Album Reissue Remastered (Blue Translucent, 180gm) |
+| Format         | 1× Vinyl (Blue Translucent, 180gm) LP, Album, Reissue, Remastered |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CHV1427 |
 | Notes | Hype Sticker: WAITING 180gm TRANSLUCENT BLUE VINYL Features the hits: OUR LIPS ARE SEALED, THE TUNNEL OF LOVE and THE MORE I SEE (The Less I Believe) ★★★★★★★★★★★★★★★★★★★★★★★★★★ CRV1427  The runouts are etched. |

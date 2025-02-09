@@ -61,7 +61,7 @@ Weather Alive is the eighth studio album by English singer-songwriter Beth Orton
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weather_Alive |
-| Format         | Vinyl LP Album Limited Edition (Transparent [Clear]) |
+| Format         | 1× Vinyl (Transparent [Clear]) LP, Album, Limited Edition |
 | Label          | Partisan Records |
 | Catalog Number | PTKF3023-3 |
 | Notes | hype sticker with Catalog No. PTKF3023-3 Inner sleeve printed with Lyrics Made in Germany a limited number of copies were available with a signed print |

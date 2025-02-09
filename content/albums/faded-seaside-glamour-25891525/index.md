@@ -67,7 +67,7 @@ Music critics gave Faded Seaside Glamour generally favourable reviews; some crit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Faded_Seaside_Glamour |
-| Format         | Vinyl LP Album Deluxe Edition Limited Edition Reissue (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Deluxe Edition, Limited Edition, Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRAD114LPX |
 | Notes | Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.  Catalogue number on slipcase is RTRAD114LPX Catalogue number on sleeve is RTRAD114LP ℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd. © 2022 Rough Trade Records Ltd.  Runouts are hand etched, 1I (looks like VI) is mirrored. |

@@ -51,7 +51,7 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/History_Never_Repeats_%E2%80%93_The_Best_of_Split_Enz |
-| Format         | Vinyl 7" 45 RPM Single Etched |
+| Format         | 1× Vinyl 7", 45 RPM, Single, Etched |
 | Label          | A&M Records |
 | Catalog Number | AMS 8128 |
 | Notes | A-side has a laser etched pattern on the vinyl.    B1 and B2 recorded live at the Hammersmith Odeon.    ℗ 1981 Mushroom Records Pty. Ltd.    A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.   |

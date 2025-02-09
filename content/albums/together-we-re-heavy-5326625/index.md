@@ -69,7 +69,7 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Together_We%27re_Heavy |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Hollywood Records |
 | Catalog Number | 2061-62423-1 |
 | Notes | Cover has Disneyland Records logo on back, but no catalog number.    Release comes with 2-page booklet of liner notes and lyrics. |

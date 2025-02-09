@@ -66,7 +66,7 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nevermind |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | DGC |
 | Catalog Number | 0720642442517 |
 | Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU. |

@@ -68,7 +68,7 @@ When God Was Great is the eleventh and final studio album by the Boston ska punk
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/When_God_Was_Great |
-| Format         | Vinyl 2× LP Album Limited Edition (Red With Yellow Splatter) |
+| Format         | 2× Vinyl (Red With Yellow Splatter) LP, Album, Limited Edition |
 | Label          | Hellcat Records |
 | Catalog Number | 0539-1 |
 | Notes | Issued in a Gatefoldcover including printed inner sleeves.  |

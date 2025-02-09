@@ -55,7 +55,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Grey [Dark]) |
+| Format         | 1× Vinyl (Grey [Dark]) LP, Album, Limited Edition, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | B0038247-01 |
 | Notes | Originally released in 1990 on [l821]. Mastered from the original analog tapes. Runouts are stamped. |

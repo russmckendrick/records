@@ -77,7 +77,7 @@ styles: ["Comedy"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Limited Edition (Black / White, Gatefold, Pop-up sleeve ) |
+| Format         | 2× Vinyl (Black / White, Gatefold, Pop-up sleeve ) LP, Record Store Day, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC410 |
 | Notes | Black & White mixed 'Papa Lazarou' vinyl. Gatefold sleeve with cardboard pop-up interior. Record Store Day 2019 Recorded London, 27 September 2018 |

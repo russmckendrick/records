@@ -70,7 +70,7 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_the_Right_Noises_(album) |
-| Format         | Vinyl 2× LP Album Deluxe Edition Stereo (Blue & Orange Galaxy) |
+| Format         | 2× Vinyl (Blue & Orange Galaxy) LP, Album, Deluxe Edition, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT465CDLP |
 | Notes | This version is the Deluxe Blue & Orange Galaxy Vinyl with Pop-Up Gatefold. Comes complete with printed inner sleeves with lyrics, credits and photographs. The first 500 pre-orders from Thunders on-line store also included and album artwork print hand signed by the band.   Manufactured in Czech Republic.  Durations do not appear on this release.  Timings via stopwatch. |

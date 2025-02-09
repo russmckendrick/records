@@ -54,7 +54,7 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Future_Bites |
-| Format         | Vinyl LP Album Repress (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Repress |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPTUK |
 | Notes | Replacement for the UK tour edition of the future bites. |

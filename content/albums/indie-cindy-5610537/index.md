@@ -83,7 +83,7 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Indie_Cindy |
-| Format         | Vinyl 2× 12" 45 RPM Album (Orange, 180 gram), CD Album, All Media Limited Edition |
+| Format         | 2× Vinyl (Orange, 180 gram) 12", 45 RPM, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Pixies Music |
 | Catalog Number | PM006DLP |
 | Notes | [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.    Recorded at Rockfield Studios, Wales. Mixed for 140dB.  Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.    ℗ & © Pixies Music 2013    Made in the EU    Catalog# on rear cover and spine: PM006DLP  Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release. |

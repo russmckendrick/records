@@ -59,7 +59,7 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pretty_Hate_Machine |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | UMe |
 | Catalog Number | B0015767-01 |
 | Notes | Thank you: Bart Koster (The Right Track), Mike Shea, Michael S. Toorock, Roz Earls, Seb Shelton, Bryan Grant, Larry Bole, Alison Fryer, Michelle de Frasia, Gerry Gerrard, Martin Horne, Sioux Zimmerman, Paul Conelly, Ron Musarra, Steve Woolard, Mark Jowett and all at Nettwerk, Howie Klein, Preston Sullivan/Carlysle, Kevin Donoghue/Native, Frederic Walheer/Sub Rosa.  Kicking ass way beyond the call of duty. Ideas and sounds with all due respect. Clive Barker, Jane's Addiction, Prince, Public Enemy, This Mortal Coil, Success (Screaming Trees U.K.) Various Unknown Others.   ℗© 1989, 2011 AF Circle Fund, LLC, Under exclusive license to Universal Music Enterprises, A Division of UMG Recordings, Inc., 220 Colorado Ave., Santa Monica, CA 90404.  Distributed by Universal Music Distribution.  All rights reserved.  Release includes insert with lyrics. |

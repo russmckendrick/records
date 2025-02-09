@@ -64,7 +64,7 @@ The album was a critical success, with reviewers praising its production, lyrics
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/0898_Beautiful_South |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Go! Discs |
 | Catalog Number | 5743902 |
 | Notes | "2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched. |

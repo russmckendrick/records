@@ -58,7 +58,7 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Mono |
+| Format         | 1× Vinyl LP, Album, Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-061 |
 | Notes | In memory of Jim Cotte, 1936-2019  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  Another Bosco Mann Production  © 2020, Daptone Records Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  All songs [...] Stoketone Publishing, PRS  Includes MP3 download card |

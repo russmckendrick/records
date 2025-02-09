@@ -60,7 +60,7 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hemispheres_(Rush_album) |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
+| Format         | 1× Vinyl (Gatefold, 180g) LP, Album, Reissue, Remastered |
 | Label          | Mercury |
 | Catalog Number | 00602547118066 |
 | Notes | Issued in a gatefold sleeve. Includes a voucher to download mp3 version of the album and a poster    Recorded at Rockfield Studios, Wales, during June and July 1978  Vocals recorded at Advision Studios, London  Mixed at Trident Studios, Soho, London, August 1978  Direct Metal Mastering at Abbey Road Mastering Studios - December 2014    ℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.  Made in the EU    Similar entry is the [url=http://www.discogs.com/release/7025925]USA & Canada[/url] release |

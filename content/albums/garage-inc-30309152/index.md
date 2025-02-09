@@ -95,7 +95,7 @@ Garage Inc. is a compilation album of cover songs by American heavy metal band M
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Garage_Inc. |
-| Format         | Vinyl 3× LP Album Compilation Limited Edition Reissue (Blue (Fade To Blue)) |
+| Format         | 3× Vinyl (Blue (Fade To Blue)) LP, Album, Compilation, Limited Edition, Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND013-1 |
 | Notes | Hype Sticker on front:  "Pressed on Limited Edition Fade to Blue 3LP Vinyl. BLCKND013-1U"  "Made in Germany" Sticker on back. Comes in a gatefold jacket. |

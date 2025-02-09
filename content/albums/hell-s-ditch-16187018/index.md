@@ -60,7 +60,7 @@ Hell's Ditch is the fifth studio album by the Pogues, released on 1 October 1990
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hell%27s_Ditch |
-| Format         | Vinyl LP Album Limited Edition Reissue (Orange Translucent, 180g) |
+| Format         | 1× Vinyl (Orange Translucent, 180g) LP, Album, Limited Edition, Reissue |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 825646255856 |
 | Notes | Limited to 5000 copies. Printed card inner sleeve.  ℗ & © 1990 Warner Music UK Ltd. Made in the EU.  Presented as exclusive on both the European Dig! as well as the US Rhino sites. Copies purchased through the US Rhino site might have an added barcode on the protective plastic. |

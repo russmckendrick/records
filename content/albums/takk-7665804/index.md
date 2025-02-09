@@ -69,7 +69,7 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Takk... |
-| Format         | Vinyl 2× LP (180 g), Vinyl 10" 33 ⅓ RPM Single Sided Etched, All Media Album Deluxe Edition Limited Edition Reissue |
+| Format         | 2× Vinyl (180 g) LP | 1× Vinyl 10", 33 ⅓ RPM, Single Sided, Etched | 1× All Media Album, Deluxe Edition, Limited Edition, Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK9LP |
 | Notes | 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A. |

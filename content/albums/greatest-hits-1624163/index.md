@@ -55,7 +55,7 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Al_Green%27s_Greatest_Hits |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Hi Records |
 | Catalog Number | HIUKLP 425 |
 | Notes | Recorded at Royal Recording Studios 1320 So. Lauderdale, Memphis, Tenn.  (P) 1972, 1973, 1975 Cream / Hi Records Inc. (C) 1987 Cream / Hi Records Inc. HI UK LP 425 = sleeve and spine cat# HIUKLP 425 = label cat# Runout matrices etched, except for TY1 that are stamped.  |

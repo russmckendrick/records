@@ -79,7 +79,7 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chocolate_and_Cheese |
-| Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Album Deluxe Edition (30th Anniversary) |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl LP | 1× All Media (30th Anniversary) Album, Deluxe Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 726363 |
 | Notes | Made in the Netherlands. 30th anniversary release of Chocolate and Cheese on black vinyl.  Bonus tracks curated by Dean and Gene Ween.  Comes in tri-fold with 15 page, 12" booklet.  Runouts are etched, except for "403594 1#" which are stamped. Lacquer cut by Chris Bellman at Bernie Grundman Mastering |

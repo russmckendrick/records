@@ -60,7 +60,7 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Relics_(album) |
-| Format         | Vinyl LP Compilation Reissue Remastered Stereo Mono (180g) |
+| Format         | 1× Vinyl (180g) LP, Compilation, Reissue, Remastered, Stereo, Mono |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP18 |
 | Notes | Sticker: The remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: May 1971 Made in the E.U. www.pinkfloyd.com  Back Sleeve: ℗ 2018 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2018 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd. This label copy is the subject  of copyright protection. All rights reserved.  |

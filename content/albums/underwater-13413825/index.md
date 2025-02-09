@@ -66,7 +66,7 @@ A number of human activities are conducted in the more accessible parts of the u
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Underwater_environment |
-| Format         | Vinyl LP Limited Edition (Dark Blue In Mint) |
+| Format         | 1× Vinyl (Dark Blue In Mint) LP, Limited Edition |
 | Label          | Topshelf Records (2) |
 | Catalog Number | Eg-0017/TSR-201 |
 | Notes | Record housed in a single jacket with paper inner sleeve.  Limited to 350 copies. Includes a foldout lyric sheet insert. |

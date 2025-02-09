@@ -66,7 +66,7 @@ The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prolonging_the_Magic |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Baby Blue, 140 Gr.) |
+| Format         | 1× Vinyl (Baby Blue, 140 Gr.) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19658714061 |
 | Notes | Cake Webstore Exclusive Tracks listed sequentially.  No Catalog number on spine, jacket, or inner sleeve. Catalog number on label is 19658714061 and number on hype sticker is 19658714061S1.  [Weight not mentioned, denoted as on Cake Website] |

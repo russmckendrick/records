@@ -96,7 +96,7 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Singles_(Phil_Collins_album) |
-| Format         | Vinyl 4× LP Compilation Remastered, Box Set |
+| Format         | 4× Vinyl LP, Compilation, Remastered | 1× Box Set |
 | Label          | Atlantic |
 | Catalog Number | 081227945909 |
 | Notes | Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout. |

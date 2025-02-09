@@ -66,7 +66,7 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weezer_(Blue_Album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Geffen Records |
 | Catalog Number | 00602547945396 |
 | Notes | 180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU. |

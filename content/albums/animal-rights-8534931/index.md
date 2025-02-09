@@ -58,7 +58,7 @@ Animal Rights is the fourth studio album by American musician Moby, released on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Animal_Rights_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | STUMM 150 |
 | Notes | If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included. |

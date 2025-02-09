@@ -59,7 +59,7 @@ Critical reviews of the album were generally positive, with some considering it 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Return_of_the_Space_Cowboy |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Moon Grey Marbled, 30th Anniversary ) |
+| Format         | 2× Vinyl (Moon Grey Marbled, 30th Anniversary ) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Sony Music |
 | Catalog Number | 19802807141 |
 | Notes | Gatefold sleeve  Hype sticker: jamiroquai The Return Of The Space Cowboy LIMITED EDITION 30th ANNIVERSARY EDITION Moon Grey Coloured Vinyl INCLUDES Space Cowboy (Michael Gray's Good Vibe Zone Edit) 19802807141  |

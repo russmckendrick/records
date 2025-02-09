@@ -59,7 +59,7 @@ styles: ["Soul"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sentimental_Fool |
-| Format         | Vinyl LP Album Mono (Orange [Sentimental Orange], Indie Exclusive) |
+| Format         | 1× Vinyl (Orange [Sentimental Orange], Indie Exclusive) LP, Album, Mono |
 | Label          | Daptone Recording Co. |
 | Catalog Number | DAP-075 |
 | Notes | "Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA. |

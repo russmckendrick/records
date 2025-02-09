@@ -55,7 +55,7 @@ Extreme is the first studio album by the American glam metal band Extreme, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Extreme_(Extreme_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album, Limited Edition, Reissue |
 | Label          | Lmlr |
 | Catalog Number | 783 266 |
 | Notes | Limited edition of 1,000 copies. |

@@ -59,7 +59,7 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whispering_Jack |
-| Format         | Vinyl LP Album Stereo (boxed BIEM GEMA) |
+| Format         | 1× Vinyl (boxed BIEM GEMA) LP, Album, Stereo |
 | Label          | RCA |
 | Catalog Number | PL71224 |
 | Notes | This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Printed inner sleeve with lyrics and credits. |

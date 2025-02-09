@@ -75,7 +75,7 @@ The album received widespread critical acclaim from critics for its vivid depict
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am,_That%27s_What_I%27m_Not |
-| Format         | Vinyl LP Album Club Edition Reissue (Gray Translucent w/ Black Smoke, 180 g) |
+| Format         | 1× Vinyl (Gray Translucent w/ Black Smoke, 180 g) LP, Album, Club Edition, Reissue |
 | Label          | Domino |
 | Catalog Number | WIGLP162VMP |
 | Notes | Sticker: VMP Exclusive Vinyl Edition 1LP 180g Multi-color "Smoke" vinyl 16pg Full-color Lyric & Photo Booklet  Includes a obi strip with a cocktail recipe, and an art print.  ℗ 2006 © 2018 Domino Recording Co. Ltd. PO Box 47029 London, SW18 1WD 20 Jay Street, Suite 626, Brooklyn NY 11201  Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield. 'Mardy Bum' recorded at Telstar Studios, Munich Mixed [...] at Olympic Studios, London [...] |

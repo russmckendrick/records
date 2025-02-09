@@ -110,7 +110,7 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ants_from_Up_There |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue Marbled) |
+| Format         | 2× Vinyl (Blue Marbled) LP, Album, Limited Edition |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN278X |
 | Notes | Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road. |

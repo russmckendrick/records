@@ -65,7 +65,7 @@ styles: ["Pop Rock", "Soft Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Green) |
+| Format         | 2× Vinyl (Green) LP, Album, Record Store Day, Limited Edition, Reissue, Stereo |
 | Label          | Caribou Records |
 | Catalog Number | 88985403631 |
 | Notes | RSD 2017 release. Quantity: 3000  Sticker: Highlights from the planned follow-up to Pacific Ocean Blue.        _______ Newly Designed 2LP set on green vinyl        _______ Liner notes by Ken Sharp, author of Dreamer: The Making of Dennis Wilson's Pacific Ocean Blue        _______ Includes Digital Download |

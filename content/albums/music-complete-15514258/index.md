@@ -65,7 +65,7 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_Complete |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Mute |
 | Catalog Number | RSTUMM390 |
 | Notes | Music Complete: New Order  Limited Edition Double Orange Vinyl With 12 Page Booklet  Includes Digital Copy #loverecordstores  Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores Includes insert and download code. |

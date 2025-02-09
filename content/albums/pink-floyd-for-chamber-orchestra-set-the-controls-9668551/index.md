@@ -41,7 +41,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Unofficial Release (Gold) |
+| Format         | 1× Vinyl (Gold) LP, Limited Edition, Unofficial Release |
 | Label          | Coda Publishing |
 | Catalog Number | CPLVNYG224 |
 | Notes | Limited to 500 copies. |

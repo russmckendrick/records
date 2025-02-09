@@ -57,7 +57,7 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Viscerals |
-| Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
+| Format         | 1× Vinyl (Blood And Guts) LP, Album, Limited Edition |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH184 |
 | Notes | Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code. |

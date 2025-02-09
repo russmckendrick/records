@@ -59,7 +59,7 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Fillmore_West |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1143 |
 | Notes | Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU. |

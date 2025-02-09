@@ -58,7 +58,7 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Coming_Home_(Leon_Bridges_album) |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Columbia |
 | Catalog Number | 88875 08914 1 |
 | Notes | 180 gram vinyl with MP3 download.    All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP). |

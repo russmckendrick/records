@@ -53,7 +53,7 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red translucent) |
+| Format         | 1× Vinyl (Red translucent) LP, Album, Limited Edition, Reissue |
 | Label          | Dead Oceans |
 | Catalog Number | DOC157 |
 | Discogs URL    | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |

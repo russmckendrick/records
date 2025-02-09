@@ -52,7 +52,7 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP EP |
+| Format         | 1× Vinyl LP, EP |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7397 1 |
 | Notes | ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.  B1's title on the label is "One Armed Robber". |

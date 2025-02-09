@@ -60,7 +60,7 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Infestissumam |
-| Format         | Vinyl LP Album Stereo (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album, Stereo |
 | Label          | Loma Vista |
 | Catalog Number | 602537343737 |
 | Notes | Gatefold cover.  Made in EU. |

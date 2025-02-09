@@ -57,7 +57,7 @@ Also a protest song against the Vietnam War, "Happy Xmas (War Is Over)" has sinc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happy_Xmas_(War_Is_Over) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Music Theories Recordings |
 | Catalog Number | MTR75371 |
 | Notes | Includes download code. |

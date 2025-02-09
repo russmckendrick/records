@@ -72,7 +72,7 @@ The Best of Roxy Music is a greatest hits album by English art rock band Roxy Mu
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Best_of_Roxy_Music |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered (Half-Speed, 180g) |
+| Format         | 2× Vinyl (Half-Speed, 180g) LP, Compilation, Reissue, Remastered |
 | Label          | Virgin |
 | Catalog Number | RMLPB1 |
 | Notes | Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.  Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.  Made in the EU. |

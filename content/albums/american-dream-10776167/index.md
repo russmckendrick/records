@@ -71,7 +71,7 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Dream_(LCD_Soundsystem_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | DFA |
 | Catalog Number | 88985456111 |
 | Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.  © & ℗ 2017 Excelsior Equity Management of NY, LLC |

@@ -63,7 +63,7 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Running_in_the_Family |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Polydor |
 | Catalog Number | POLH 42 |
 | Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.  There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.  Some with stickered front sleeve |

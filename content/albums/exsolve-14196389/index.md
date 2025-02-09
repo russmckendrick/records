@@ -49,7 +49,7 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Clear With Black And Gold Splatter) |
+| Format         | 2× Vinyl (Clear With Black And Gold Splatter) LP, Album, Limited Edition |
 | Label          | Adderstone Records |
 | Catalog Number | ASR001 |
 | Notes | © & ℗ Jo Quail, 2019.  Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.  |

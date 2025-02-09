@@ -70,7 +70,7 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Repress (180) |
+| Format         | 2× Vinyl (180) LP, Album, Reissue, Repress |
 | Label          | Fiction Records |
 | Catalog Number | 572 634-0 |
 | Notes | Black vinyl repress of the [url=https://www.discogs.com/The-Cure-Acoustic-Hits/release/10171635]picture disc[/url] (reissue) released in April 2017 as Record Store Day exclusive. Originally released in 2001 as the second disc of "[m=32194]" 2xCD edition.  As on front sticker: "The Cure Acoustic Hits 180gram Vinyl Contains download voucher 572 634-0"  Released in gatefold sleeve.  Download Voucher: [r16766940]  The runouts are stamped. |

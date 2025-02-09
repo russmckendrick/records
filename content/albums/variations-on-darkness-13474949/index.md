@@ -45,7 +45,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Record Store Day Limited Edition |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK31LP |
 | Notes | Released on Record Store Day 2019.  Note on the front cover :  A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue. Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company. Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir. |

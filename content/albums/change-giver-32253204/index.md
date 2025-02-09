@@ -61,7 +61,7 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Change_Giver |
-| Format         | Vinyl LP Album Reissue Stereo |
+| Format         | 1× Vinyl LP, Album, Reissue, Stereo |
 | Label          | Universal Music Recordings |
 | Catalog Number | UMCLP100 |
 | Notes | Advertised online as a '30th Anniversary' edition. No reference to this is listed on the sleeve. Shrink wrapped with no hype stickers.  Made in the E.U.  Pre-orders from the soundofvinyl webshop included an exclusive 12"x12" cover print signed by Rick, Paul and Tom from the original line-up. The print was sealed in an additional external glass-clear cellophane wrapper (not sealed inside the sleeve of the LP). |

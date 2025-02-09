@@ -95,7 +95,7 @@ TC: “Writing it in North Hadley with Chris, that’s where I started to feel v
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Gold) |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition |
 | Label          | Last Gang Records |
 | Catalog Number | LGE-LP-49041 |
 | Discogs URL    | [Stars - From Capelton Hill](https://www.discogs.com/release/23383391-Stars-From-Capelton-Hill) |

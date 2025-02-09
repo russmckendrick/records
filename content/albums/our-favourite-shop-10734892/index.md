@@ -64,7 +64,7 @@ The multigenre album incorporates diverse stylistic influences, including soul, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Our_Favourite_Shop |
-| Format         | Vinyl LP Album Limited Edition Reissue (Lilac) |
+| Format         | 1× Vinyl (Lilac) LP, Album, Limited Edition, Reissue |
 | Label          | Polydor |
 | Catalog Number | TSCLP 2 |
 | Notes | Reissue on lilac-coloured vinyl |

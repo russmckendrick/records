@@ -55,7 +55,7 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Clear Transparent ) |
+| Format         | 1× Vinyl (Clear Transparent ) LP, Album, Limited Edition |
 | Label          | ATO Records |
 | Catalog Number | ATO0599LP |
 | Notes | Tracks listed as 01 - 12 on rear of sleeve  Comes with a 12-page booklet.  Runouts are stamped. |

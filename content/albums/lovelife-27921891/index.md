@@ -59,7 +59,7 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | 4AD |
 | Catalog Number | 4AD0453LP |
 | Notes | Recorded at Protocol Studios, London, May to August 1995. Mixed at Fort Apache, Cambridge, MA, September 1995, except for track B10: mixed at BJG Studios, London. Mastered at Gateway Mastering, Portland, ME.  Track durations not stated on this release. Tracks are numbered sequentially across sides.  Some copies lack sticker barcode.  |

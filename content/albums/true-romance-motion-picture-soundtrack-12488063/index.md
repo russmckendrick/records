@@ -59,7 +59,7 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Clear w/ White Splatter) |
+| Format         | 1× Vinyl (Clear w/ White Splatter) LP, Limited Edition |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-0759 |
 | Notes | 25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700. |

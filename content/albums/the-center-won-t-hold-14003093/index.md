@@ -82,7 +82,7 @@ Tucker: “This song is really about realising that there's some social justice 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Center_Won%27t_Hold |
-| Format         | Vinyl LP Album, Vinyl 7" Single |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 7", Single |
 | Label          | Caroline International |
 | Catalog Number | 7790840 |
 | Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC. |

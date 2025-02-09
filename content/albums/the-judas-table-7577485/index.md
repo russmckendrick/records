@@ -61,7 +61,7 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Judas_Table |
-| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Limited Edition |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media Album, Limited Edition |
 | Label          | Prophecy Productions |
 | Catalog Number | PRO 184LP |
 | Notes | Gatefold 2LP (180g vinyl) incl. poster and PVC protection sleeve (500 copies available) |

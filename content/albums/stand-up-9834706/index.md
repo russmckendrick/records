@@ -88,7 +88,7 @@ The album was released 25 July, and was No. 1 on the UK albums chart the followi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stand_Up_(Jethro_Tull_album) |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180Gm) |
+| Format         | 1× Vinyl (Gatefold, 180Gm) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Chrysalis |
 | Catalog Number | 0190295932855 |
 | Notes | Housed in a gatefold jacket containing the LP in a white poly lined inner sleeve, a 24-page large format booklet and a download voucher for an MP3 version of the album. When the gatefold jacket is opened, a cut-out of the band pops up, similar to the old pop-up books.  [Sticker:] The Steven Wilson 2016 stereo remix on 180gm vinyl 0190295932855 [Vinyl Collector logo] Includes download code for MP3 version of the album www.facebook.com/vinylcollector  [Booklet p. 3:] Recorded on 8 track at Morgan Studios, London, 1969 except [A3 recorded at Olympic Sound Studio 1] Artwork [...] at Waldo's Design & Dream Emporium Photography by [...] and from the Chrysalis Archive.  [Rear sleeve:] ℗ & © 2016 Parlophone Records Ltd, a Warner Music Group Company. [...] Made in the E.U.  [Labels:] Published by BMG Chrysalis under licence from the Ian Anderson Group Of Companies. Made in EU.  Runouts etched. Symbols added during plating will appear mirrored, e.g. 1I+ and 2+ in runout variant 3. |

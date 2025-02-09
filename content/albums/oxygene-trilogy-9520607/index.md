@@ -94,7 +94,7 @@ styles: ["Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Compilation Deluxe Edition Limited Edition (40th Anniversary Edition), CD Album Reissue, CD Album Reissue, CD Album, Vinyl LP Album Reissue (Transparent), Vinyl LP Album Reissue (Transparent), Vinyl LP Album (Transparent) |
+| Format         | 1× Box Set (40th Anniversary Edition) Compilation, Deluxe Edition, Limited Edition | 1× CD Album, Reissue | 1× CD Album, Reissue | 1× CD Album | 1× Vinyl (Transparent) LP, Album, Reissue | 1× Vinyl (Transparent) LP, Album, Reissue | 1× Vinyl (Transparent) LP, Album |
 | Label          | Sony Music |
 | Catalog Number | 88985361872 |
 | Notes | Limited edition including a 12"x12" lithograph signed by Jean-Michel Jarre – available for a limited period of time exclusively on his web shop.  Made in the EU. Includes coffee table book. Track times not listed for any media.  Those for the CDs taken from a CD player. |

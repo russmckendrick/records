@@ -57,7 +57,7 @@ Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Big_Express |
-| Format         | Vinyl LP Album Reissue (Gatefold, 200g) |
+| Format         | 1× Vinyl (Gatefold, 200g) LP, Album, Reissue |
 | Label          | Ape House |
 | Catalog Number | APELP107 |
 | Notes | Sticker in front: "XTC I The Big Express The 1984 classic album newly cut from masters approved by Andy Partridge. Pressed on 200G super-heavyweight vinyl  in new gatefold sleeve.  APELP107 6 3367 60651 8"  Made in the UK (back cover) |

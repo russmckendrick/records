@@ -62,7 +62,7 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Come_with_Us |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Astralwerks |
 | Catalog Number | ASW 11682 |
 | Notes | Gatefold sleeve    Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel.  It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram.  Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman)  Hoops features samples from The Association recording 'Round Again'.  Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy).  Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler).  The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'.   |

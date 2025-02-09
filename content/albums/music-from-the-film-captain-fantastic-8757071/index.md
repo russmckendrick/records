@@ -71,7 +71,7 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue [Duck Egg Blue Translucent]) |
+| Format         | 2× Vinyl (Blue [Duck Egg Blue Translucent]) LP, Album, Limited Edition |
 | Label          | Invada |
 | Catalog Number | INV164LP |
 | Notes | Limited edition of 1,150 copies pressed on heavy weight transparent "Duck Egg" blue.  — Description of contents: Issued in a handmade, bespoke gatefold sleeve with rounded edges. Includes digital download card.  — Hype sticker reads: "[Invada logo] Captain Fantastic Original soundtrack by Alex Somers Transparent "Duck egg" colored vinyl"  |

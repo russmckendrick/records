@@ -96,7 +96,7 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Glastonbury_2000 |
-| Format         | Vinyl 3× LP Misprint Reissue |
+| Format         | 3× Vinyl LP, Misprint, Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295570453 |
 | Notes | Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000. Made in the EU. Triple gatefold sleeve, with colour booklet. Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [url=http://www.discogs.com/release/13345593]repress with corrected back sleeve[/url].  Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted.  |

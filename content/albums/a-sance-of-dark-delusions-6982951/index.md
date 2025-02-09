@@ -63,7 +63,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 g) |
+| Format         | 1× Vinyl (180 g) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE879 |
 | Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.  Gatefold 1LP + 4 page booklet + download code.   |

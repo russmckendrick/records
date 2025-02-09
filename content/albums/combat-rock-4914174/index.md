@@ -64,7 +64,7 @@ Combat Rock is the last Clash album featuring the band's classic lineup. Topper 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Combat_Rock |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Columbia |
 | Catalog Number | 88725446971 |
 | Notes | Printed inner sleeves with lyrics. Includes 30x21cm photo of the band on thick card. |

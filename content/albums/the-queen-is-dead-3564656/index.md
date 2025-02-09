@@ -65,7 +65,7 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Queen_Is_Dead |
-| Format         | Vinyl LP Album Reissue Stereo (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Warner Music UK Ltd. |
 | Catalog Number | 2564665887 |
 | Notes | Comes in a single pocket, unlaminated gatefold sleeve with a replica of the original inner sleeve. This replica inner sleeve is of matte paper whereas in the original copies, they were gloss card. There may be a 'Made in Germany' sticker on the back cover. Some copies have a circular pink sticker on the shrink-wrap.  [Gatefold inside] Warner Bros UK Ltd.  [Inner sleeve] recorded in England, Winter 1985 Cicely Courtneidge recording courtesy of Thorn EMI Elstree Studios Ltd Cover star Alain Delon photos © 1965 Metro-Goldwyn-Mayer Inc "take me back to dear old Blighty"  [Labels] ℗ & © 1986 Warner Music UK Ltd. Made in the E.U.  [Runouts] '✺' appears to be an error, possible '0', that has been scratched over. Variant 10: '31T' is inverted and '21T' is mirrored. |

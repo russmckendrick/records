@@ -79,7 +79,7 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life |
-| Format         | Vinyl 2× LP, Vinyl 7" 33 ⅓ RPM EP, All Media Album Stereo (Gatefold) |
+| Format         | 2× Vinyl LP | 1× Vinyl 7", 33 ⅓ RPM, EP | 1× All Media (Gatefold) Album, Stereo |
 | Label          | Tamla |
 | Catalog Number | T13-340C2 |
 | Notes | Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott   Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.  Gatefold sleeve has cat. number T13-340C2, labels have T13-00340.  |

@@ -54,7 +54,7 @@ Second Thoughts ended on 14 October 1994, but has since been repeated on Forces 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Second_Thoughts_(TV_series) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Mushroom |
 | Catalog Number | L 35981 |
 | Notes | Labels: Made in Australia by Festival Records Pty Ltd.    Sleeve: Manufactured and distributed under licence by Festival Records Pty. Limited, Australia |

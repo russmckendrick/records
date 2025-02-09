@@ -63,7 +63,7 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow Flame), Vinyl LP Single Sided Etched (Yellow Flame), All Media Compilation Limited Edition Numbered Reissue |
+| Format         | 1× Vinyl (Yellow Flame) LP | 1× Vinyl (Yellow Flame) LP, Single Sided, Etched | 1× All Media Compilation, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3331 |
 | Notes | 180 gram audiophile vinyl Includes insert Contains a band logo etch on side D Compiled with the assistance of the band Limited edition of 1500 individually numbered copies on yellow coloured vinyl |

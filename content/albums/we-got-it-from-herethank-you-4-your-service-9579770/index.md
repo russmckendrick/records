@@ -67,7 +67,7 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Epic |
 | Catalog Number | 88985377871 |
 | Notes | B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU.  |

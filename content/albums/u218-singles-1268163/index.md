@@ -89,7 +89,7 @@ Narrowing down a career this vast and expansive is asking for trouble — or at 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/U218_Singles |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Island Records |
 | Catalog Number | U218 - 0602517135505 |
 | Notes | Comes with a 16-page album-size booklet, containing information about singles including lyrics, credits, recording data, release dates and chart positions.  Matte gatefold sleeve. Printed inner sleeves.  Audio Post Production at Partial Productions Inc. Mastered at Bernie Grundman Mastering, Hollywood.  Green Day appear courtesy of Reprise Records.  All titles published by Universal Music Publishing B.V. except Blue Mountain Music Ltd (UK), Mother Music (Irl.), except "The Saints Are Coming" published by EMI Virgin Music Ltd.  This compilation ℗ 2006 Universal Island Records Limited under exclusive licence to Mercury Records Limited in the UK. © 2006 Universal Island Records Limited under exclusive licence to  Mercury Records Limited in the UK. A Universal Music Company. Made in the EU.  |

@@ -78,7 +78,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Limited Edition Compilation, Vinyl 7" 45 RPM |
+| Format         | 2× Vinyl LP, Limited Edition, Compilation | 1× Vinyl 7", 45 RPM |
 | Label          | Mute |
 | Catalog Number | MOOTEL 3 |
 | Notes | Live Tracks: Recorded Live At Oldham Queen Elizabeth Hall And Glasgow Barrowlands By Dave Porter On The Manor Mobile. Mixed By Keith Hartley At Amazon Studios, Liverpool.  Some came with round green hype sticker on front that states: "Limited Edition Double Album Includes Free Live 7" Weakness/Caravan LMOOTEL3".  Some came with rectangular sticker on back that states: "[Barcode] LMOOTEL 3 Limited edition double album with free 7"".  |

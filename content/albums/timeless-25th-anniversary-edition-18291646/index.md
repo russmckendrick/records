@@ -69,7 +69,7 @@ Goldie's <i>Timeless</i> set the standard for what a drum 'n' bass LP might achi
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album Limited Edition Reissue (Gold) |
+| Format         | 3× Vinyl (Gold) LP, Album, Limited Edition, Reissue |
 | Label          | Metalheadz |
 | Catalog Number | LMS551367 |
 | Notes | Released in tri-fold sleeve. |

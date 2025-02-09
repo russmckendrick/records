@@ -83,7 +83,7 @@ Released several months after <i>Hot Rocks</i>, this is that conservative collec
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Glow In The Dark) |
+| Format         | 2× Vinyl (Glow In The Dark) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | ABKCO |
 | Catalog Number | 2058-1 |
 | Notes | OBI strip Exclusive Limited Edition 2 x 180 Gram Glow in the Dark Vinyl Litographs on Archivial Paper Original Gatefold Art  Limited to 7200 copies  Record Store Day 2022 Release  ℗ 2016-2020 © 1987 [l282302]  Runouts are stamped, except for "#2058-1" on sides A, B,C and "7120601-D-RE1SELECTION #2058-1 RECORD # 2PS - 62617" on side D which are all etched. |

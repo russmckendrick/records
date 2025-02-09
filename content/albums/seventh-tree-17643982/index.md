@@ -69,7 +69,7 @@ Four singles were released from the album. "A&E" was released as the lead single
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Seventh_Tree |
-| Format         | Vinyl LP Album Reissue Special Edition (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Reissue, Special Edition |
 | Label          | Mute |
 | Catalog Number | YSTUMM280 |
 | Notes | Gatefold sleeve. With Exclusive Art Print. Printed card inner sleeve. Copies purchased from Mute Bank webstore include A1-sized fold-out poster.  ℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.  Made in The Netherlands |

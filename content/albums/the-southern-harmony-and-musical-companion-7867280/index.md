@@ -61,7 +61,7 @@ The Southern Harmony and Musical Companion is the second studio album by America
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Southern_Harmony_and_Musical_Companion |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | American Recordings |
 | Catalog Number | 00602537494255 |
 | Notes | Includes a voucher to download MP3 version of the album  Recorded in recording studios in the United States. ℗ © 1992   Back To Black www.backtoblackvinyl.com |

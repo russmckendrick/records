@@ -60,7 +60,7 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Green translucent, 180g), Vinyl LP (Yellow translucent, 180g), All Media Compilation Limited Edition Reissue Stereo |
+| Format         | 1× Vinyl (Green translucent, 180g) LP | 1× Vinyl (Yellow translucent, 180g) LP | 1× All Media Compilation, Limited Edition, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC907X |
 | Notes | First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U. |

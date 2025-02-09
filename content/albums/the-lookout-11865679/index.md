@@ -60,7 +60,7 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Gold) |
+| Format         | 1× Vinyl (Gold) LP, Album, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA744V |
 | Notes | First pressing on Gold coloured vinyl.  100 copies bought from the Bella Union store came with a signed postcard.  © 2018 Freak Off The Leash Music (BMI), Adm. by BMG  Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017  |

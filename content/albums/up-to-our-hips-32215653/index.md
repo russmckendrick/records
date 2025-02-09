@@ -78,7 +78,7 @@ Up to Our Hips received mixed reviews from music critics, some complaining about
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Up_to_Our_Hips |
-| Format         | Vinyl LP Album Bioplastic Reissue Stereo (Blue Petrol), Vinyl LP Compilation Bioplastic (Blue Petrol), All Media (30th Anniversary Expanded Edition) |
+| Format         | 1× Vinyl (Blue Petrol) LP, Album, Bioplastic, Reissue, Stereo | 1× Vinyl (Blue Petrol) LP, Compilation, Bioplastic | 1× All Media (30th Anniversary Expanded Edition) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2647LPX |
 | Discogs URL    | [The Charlatans - Up To Our Hips](https://www.discogs.com/release/32215653-The-Charlatans-Up-To-Our-Hips) |

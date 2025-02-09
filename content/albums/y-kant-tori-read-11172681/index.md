@@ -65,7 +65,7 @@ A music video for their song "The Big Picture" was made, but the only member of 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Y_Kant_Tori_Read |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | 081227942410 |
 | Notes | Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine. |

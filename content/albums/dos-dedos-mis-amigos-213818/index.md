@@ -63,7 +63,7 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dos_Dedos_Mis_Amigos |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Infectious Records |
 | Catalog Number | INFECT 10LPX |
 | Notes | distributed by: rtm / pinnacle  all tracks (b.m.g. music ltd.), engineered for 140dB.   an infectious records release fax 071 371 7663.   worldwide representation by craig jennings/chapter 22 music fax 021 604 8888. uk agent: paul boswell for the agency 071 278 3331 fax 071 837 4672.   us agent: steve ferguson for icm 212 556 5649 fax 212556 6847.   pwei info: chapter 22 unit 114 the custard factory gibb street birmingham b9 4aa england.   the designers republic say grrr…! a pretty face, a shapely figure - she used them to get what they want!!  ℗ 1994 the copyright in this sound recording is owned by infectious records ltd. © 1994 infectious records ltd.   sissy™ love the poppies!     (lyrics reproduced by kind permission)   craig jennings + pwei would like to thank korda marshall, trent reznor + john a. malm jr. fuzz uses paiste cymbals. pwei crew are […]     Made in England. i luv my dr™ cos labels can be fun!!    |

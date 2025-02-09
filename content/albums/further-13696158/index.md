@@ -65,7 +65,7 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Further_(Richard_Hawley_album) |
-| Format         | Vinyl LP Album Limited Edition (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538478641 |
 | Notes | Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.  ℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.    Record shops only release.  |

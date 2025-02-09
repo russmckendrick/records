@@ -61,7 +61,7 @@ It is also common for greatest hits albums to include new recordings, remixes or
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_hits_album |
-| Format         | Vinyl LP Compilation (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC280 |
 | Notes | Released on translucent yellow heavyweight vinyl .  Sticker on the wrapper states: IAN DURY AND THE BLOCKHEADS GREATEST HITS INCLUDES THE HIT SONGS 'HIT ME WITH YOUR RYTHM STICK' 'REASON'S TO BE CHEERFUL (PART 3)' 'WHAT A WASTE' ON 180g COLOURED VINYL DEMREC280 |

@@ -54,7 +54,7 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Atlantic |
 | Catalog Number | K 50715 |
 | Notes | A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England   |

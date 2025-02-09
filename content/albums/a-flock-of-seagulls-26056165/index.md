@@ -65,7 +65,7 @@ In 2018, the members of the original lineup assembled to record the album Ascens
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Flock_of_Seagulls |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Orange) |
+| Format         | 1× Vinyl (Orange) LP, Album, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT588CLP |
 | Notes | Manufactured in Ireland. Hype sticker on shrink wrap.  |

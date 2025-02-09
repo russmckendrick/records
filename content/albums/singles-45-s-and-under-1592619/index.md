@@ -61,7 +61,7 @@ Every song in the collection is expertly built so the chronological track listin
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68552 |
 | Notes | Made in England    Printed inner sleeve   |

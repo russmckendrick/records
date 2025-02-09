@@ -61,7 +61,7 @@ On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall i
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
+| Format         | 2× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP432 |
 | Notes | Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles).  Published by Interior Music, Corp. (BMI)    Gatefold cover with printed company inner sleeves.   |

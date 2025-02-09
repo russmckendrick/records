@@ -53,7 +53,7 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Wichita |
 | Catalog Number | WEBB584LP |
 | Notes | With one-sided card stock insert. Download code on sticker attached to inner sleeve.  On hype sticker:  Limited edition clear vinyl With full album download 'Wichita recordings would like to thank you for buying vinyl' |

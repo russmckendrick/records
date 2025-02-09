@@ -63,7 +63,7 @@ No One Is Lost is the seventh studio album by Canadian indie pop band Stars, rel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_One_Is_Lost |
-| Format         | Vinyl 2× LP Album Limited Edition (Pink/Black Split) |
+| Format         | 2× Vinyl (Pink/Black Split) LP, Album, Limited Edition |
 | Label          | ATO Records |
 | Catalog Number | ATO0251 |
 | Notes | Pre-Order edition. The first 300 LP pre-orders (including bundles) from the official Stars web store include a band signed album flat! Gatefold sleeve. Includes insert with lyrics and a download code. |

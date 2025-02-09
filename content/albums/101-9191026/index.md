@@ -80,7 +80,7 @@ Band member Alan Wilder is credited with coming up with the album's title; the p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/101_(album) |
-| Format         | Vinyl 2× LP Album Reissue (180 Gram, Gatefold Sleeve) |
+| Format         | 2× Vinyl (180 Gram, Gatefold Sleeve) LP, Album, Reissue |
 | Label          | Mute |
 | Catalog Number | Stumm101 |
 | Notes | Recorded Live at the Pasadena Rose Bowl, June 18th 1988 (P) 1989 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. (C) 1989, 2016 Venusnote Ltd. under exclusive licence to Sony Music Entertainment International Ltd. All trademarks and logos are protected. Made in the EU. Sony Music Entertainment International Service GmbH, PO Box 510, 33311 Gütersloh, Germany. sonymusic.com depechemode.com Includes a 16-page booklet of photos.  The runout strings are stamped  |

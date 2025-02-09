@@ -52,7 +52,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Yellow Transparent ) |
+| Format         | 1× Vinyl (Yellow Transparent ) LP, Album |
 | Label          | Demon Records |
 | Catalog Number | DEACONLP001 |
 | Notes | ℗ & © 2012 Demon Music Group Ltd.    Includes code for free MP3 download of the album. |

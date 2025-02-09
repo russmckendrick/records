@@ -65,7 +65,7 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_What_We_Do |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (White [Opaque]) |
+| Format         | 2× Vinyl (White [Opaque]) LP, Album, Limited Edition, Stereo |
 | Label          | Virgin Music |
 | Catalog Number | LF004LPY |
 | Notes | On sticker: Leftfield The new album Limited white colored vinyl LF004LPY  Copies ordered via Recordstore included an exclusive signed print. 100 copies sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  ℗ & © 2022 Neil Barnes T/ As Leftfield under exclusive licence to Virgin Music. Made in the EU.  Recorded in London Mastered at Metropolis, London  Track A1, B2 to C1, C3 to D3: Warner Chappell Music Track A2: Warner Chappell Music / Domino Publishing Co. Track B1: Warner Chappell Music / Copyright Control Track C2: Warner Chappell Music / CTM Publishing  Album Cover Image: © [a2263621] / [a2238394]. 'USA. Grand Canyon, Arizona. 2020'  This Is What We Do: Contains a sample of [r11793892] by [a3006]. Percussion by [a5402692], courtesy of [a3006] Rapture 16: Sample taken from an ancient [a9052] dub plate Heart And Soul: Abdelatif Lahlou audio (playing raita and speaking) courtesy of TravlesWithMusic.com, produced by Listen For Life Productions (ListenForLife.org) copyright 2006; used with permission  This Is What We Do is dedicated to the memory of [a2657] who we all owe an enormous dept.  Some copies has a sticker: Made in Germany |

@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Numbered Reissue (Green [Translucent Green] With Black Marble ) |
+| Format         | 1× Vinyl (Green [Translucent Green] With Black Marble ) 12", 45 RPM, EP, Record Store Day, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12009 |
 | Notes | Exclusively available through Record Store Day 2020 180g audiophile vinyl Jacket with special deluxe alubrush finish  Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl  |

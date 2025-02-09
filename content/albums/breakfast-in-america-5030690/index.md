@@ -59,7 +59,7 @@ At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards fo
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Breakfast_in_America |
-| Format         | Vinyl LP Album Picture Disc Reissue |
+| Format         | 1× Vinyl LP, Album, Picture Disc, Reissue |
 | Label          | A&M Records |
 | Catalog Number | 00600753454589 |
 | Notes | On cover sticker: ℗ & © 2013 A&M Records On picture disc: ℗ & © 2013 A&M Record  Made in the EU |

@@ -68,7 +68,7 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Jersey_(album) |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Mercury |
 | Catalog Number | B0021969-01 |
 | Notes | Gatefold sleeve.  Runouts etched except for STERLING which is stamped |

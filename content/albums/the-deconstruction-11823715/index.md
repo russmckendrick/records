@@ -89,7 +89,7 @@ Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Deconstruction |
-| Format         | Vinyl 2× 12" 45 RPM (Pink), CD Album, Box Set Deluxe Edition |
+| Format         | 2× Vinyl (Pink) 12", 45 RPM | 1× CD Album | 1× Box Set Deluxe Edition |
 | Label          | E Works Records |
 | Catalog Number | EWORKS1150LPX |
 | Notes | Deluxe box set contains: - 2 x 12" pink vinyl in printed sleeves - digipack cd - 28 page lyric booklet with exclusive photos - 12" artwork print - A4 copy of handwritten "Rusty Pipes" lyrics - E "tip & strip" pen - digital download code |

@@ -80,7 +80,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (180 grams), CD Album |
+| Format         | 2× Vinyl (180 grams) LP, Album | 1× CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 474 |
 | Notes | Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP |

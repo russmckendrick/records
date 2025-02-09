@@ -66,7 +66,7 @@ Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Smash_Hits_(The_Jimi_Hendrix_Experience_album) |
-| Format         | Vinyl LP Record Store Day Compilation Reissue Remastered |
+| Format         | 1× Vinyl LP, Record Store Day, Compilation, Reissue, Remastered |
 | Label          | Experience Hendrix |
 | Catalog Number | 88985303081 |
 | Notes | Remastered reissue features alternate original cover artwork   Inner sleeve plain white Includes a recreation of the poster included in the original LP release with Jimi, Mitch, and Noel dressed as cowboys from the Warner Brothers’ film studios in early 1969.  Record Store Day 2016 release, exclusively available from independent record stores.  Some have a sticker on shrink wrap that reads: "The Authorized Hendrix Family Edition. Remastered from the original 2-track master tapes. The classic original album & poster. Alternate original cover artwork. All analogue mastering by Bernie Grundman. Pressed on audiophile vinyl."  Made in the E.U.  Also marketed in Canada |

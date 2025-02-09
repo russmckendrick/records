@@ -74,7 +74,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× LP Limited Edition Stereo (Clear) |
+| Format         | 4× Vinyl (Clear) LP, Limited Edition, Stereo |
 | Label          | Music For Nations |
 | Catalog Number | 19658830371 |
 | Notes | ℗ & © 2023 Sony Music Entertainment UK Limited.  Limited clear vinyl edition, featuring four records housed in individual sleeves, all housed in a slipcase.  Made in the EU.  All runouts are stamped, except "JASPER" is etched.  Some copies pre-ordered via Burning Shed came with a art print signed by the 3 core band members (see picture).  Track H2 'Halo' has an incorrect writing credit for [a510445] on the release. |

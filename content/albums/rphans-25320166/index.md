@@ -49,7 +49,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Purple Opaque With Black, White & Yellow Splatter) |
+| Format         | 1× Vinyl (Purple Opaque With Black, White & Yellow Splatter) LP, Album |
 | Label          | Rockosmos |
 | Catalog Number | ROK251 |
 | Notes | 180g vinyl. Includes a printed inner sleeve with lyrics.  Funded via Bandcamp's vinyl pressing service. |

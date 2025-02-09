@@ -55,7 +55,7 @@ The Grateful Dead is the debut studio album by the American rock band the Gratef
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Grateful_Dead_(album) |
-| Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Picture Disc, Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 557478 |
 | Notes | Limited Edition Of 10,000 50th Anniversary Edition |

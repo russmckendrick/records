@@ -60,7 +60,7 @@ Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Diva_(Annie_Lennox_album) |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | RCA |
 | Catalog Number | 88985419511 |
 | Notes | ℗ 1992 & © 2017 SONY MUSIC ENTERTAINMENT UK LIMITED. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. MADE IN THE EU. LC12723 BIEM/GEMA  Made in the EU  When purchasing Diva and Medusa together from HMV stores in the UK, you received two free exclusive prints.  A & B runouts are etched. |

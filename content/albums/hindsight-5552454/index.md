@@ -59,7 +59,7 @@ This album also features cello playing of Dave Wesling from the Royal Liverpool 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hindsight_(Anathema_album) |
-| Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided | 1× All Media Album, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE859 |
 | Notes | Produced and performed by Anathema as winter became spring in the year 2008.  Recorded and mixed in the small hours of the night by Les Smith assisted by Jamie Cavanagh.  Mournful cello played with passion by David Westling.  Irish mandolin played with champagne and orange juice by Duncan Patterson.  Jamie took the photos and Vincent put it together, with inspiration from Sarah Derat.    All songs written by Daniel Cavanagh except track 2 by Vincent Cavanagh and track 6 lyrics by Duncan Patterson.  Tracks 1, 3 & 6 published by Vile Music (a division of Imagem Music Ltd.) - All other tracks published by Sony / BMG.    Please note - side D is a screen printed only side, do not attempt to play this side.    Deepest gratitude goes to all those who feel a deeper connection to our music and to their own true nature.  This recording of Are You There? is dedicated with love and respect to Johan Trybou and to Fien - 'The important thing is that we are together'. |

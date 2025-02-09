@@ -118,7 +118,7 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Empire_Central |
-| Format         | Vinyl 3× LP |
+| Format         | 3× Vinyl LP |
 | Label          | GroundUP Music (2) |
 | Catalog Number | none |
 | Notes | Recorded and filmed March 3-10, 2022, at Deep Ellum Art Company in Dallas, Texas, USA. Mixed March 15 - April 7, 2022, at Estudi Vint in Els Prats de Rei, Catalonia, Spain.  GUMUK Limited and GroundUP Music Publishing are administered under worldwide license through Reservoir Music Publishing.  Tracks A1, A3, C2, E1: © GUMUK Limited (SESAC) Track A2: © Ceebull Music (SESAC) Track B1: © YAYennings Publishing (ASCAP) Track B2: © BOBBY SPARKS MUSIC (BMI) Track B3: © Marcelo Woloski Music (ASCAP), GUMUK Limited (SESAC), and Shunwun Music (ASCAP) Tracks C1, D3: © J Stant Music (SESAC) Track D1: © Nate Werth Music (SESAC) Track D2: © Bill Laurance Music (SESAC) Track E2: © Mazarito Music (SESAC) and GUMUK Limited (SESAC) Track F1: © Secret Fort Publishing (BMI), GUMUK Limited (SESAC), and Mazarito Music (SESAC) Track F2: © Bobbylanz Music (SESAC) Track F3: © Markus Justinius Music (SESAC)  ℗ © 2022 Snarky Puppy under exclusive license to GroundUP Music LLC.  Title is mis-spelled as 'Centarl' on spine. |

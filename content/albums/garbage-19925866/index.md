@@ -65,7 +65,7 @@ In October 2015, the album was reissued to mark its 20th anniversary, featuring 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Garbage_(album) |
-| Format         | Vinyl 2× LP 45 RPM Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 2× Vinyl (Gatefold, 180 Gram) LP, 45 RPM, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT514DLP |
 | Notes | The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.  Runouts are etched. |

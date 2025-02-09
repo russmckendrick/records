@@ -64,7 +64,7 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Graceland_(album) |
-| Format         | Vinyl LP Album (Embossed) |
+| Format         | 1× Vinyl (Embossed) LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 52 |
 | Notes | All Rights in the U.K. & Eire controlled by Pattern M. Ltd. Embossed horseman picture on front cover (very slightly raised). |

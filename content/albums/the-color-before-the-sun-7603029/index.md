@@ -72,7 +72,7 @@ The Color Before the Sun is the eighth studio album by American progressive rock
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Color_Before_the_Sun |
-| Format         | Vinyl LP Album, CD Album Promo |
+| Format         | 1× Vinyl LP, Album | 1× CD Album, Promo |
 | Label          | 300 Entertainment |
 | Catalog Number | 551277-1 |
 | Notes | Standard release on black vinyl. Includes album on CD in a paper sleeve. Parental Advisory sticker on outer shrink wrap |

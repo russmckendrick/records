@@ -60,7 +60,7 @@ New Miserable Experience is the second studio album by alternative rock band Gin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Miserable_Experience |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | A&M Records |
 | Catalog Number | B-0026126-01 |
 | Notes | From insert: Produced by John Hampton & Gin Blossoms  Engineered & Mixed by John Hampton  Recorded February - March 1992 @ Ardent Studios - Memphis, TN except "Mrs. Rita" and "Allison Road" - Produced by Gin Blossoms. Engineered by Andy Barrett  Recorded May - July 1991 @ AB Recorders - Phoenix, AZ  Mixed July 1991 by John Hampton @ Ardent Studios - Memphis, TN |

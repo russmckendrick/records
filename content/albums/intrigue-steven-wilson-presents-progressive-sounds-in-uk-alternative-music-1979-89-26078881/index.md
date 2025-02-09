@@ -97,7 +97,7 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set, Vinyl 7× LP Compilation (140g) |
+| Format         | 1× Box Set | 7× Vinyl (140g) LP, Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX78 |
 | Notes | UK box set edition 7 x 140g vinyl compilation.  Three other versions exist: *  [url=/release/26064292]DEMRECBOX78X / 5014797908383 - (7 x 140g Signed Edition)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife |

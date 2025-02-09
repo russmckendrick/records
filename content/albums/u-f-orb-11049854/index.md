@@ -57,7 +57,7 @@ U.F.Orb is the second studio album by English electronic music group the Orb. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/U.F.Orb |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 00602557797831 |
 | Notes | ℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music |

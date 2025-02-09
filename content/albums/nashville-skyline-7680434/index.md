@@ -61,7 +61,7 @@ By the the end of the 1960s, Dylan was one of music’s biggest stars, independe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Nashville_Skyline |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Columbia |
 | Catalog Number | KCS 9825 |
 | Notes | Looks to be the same pressing as the Music On Vinyl version from 2012. (The runout groove even features the MOV catalog number MOVLP 660). But both the backside and the labels feature Legacy logo together with Sony and Columbia. On some copies, the shrink wrap has a black sticker in the upper right corner "Legacy Vinyl" or "We are vinyl". |

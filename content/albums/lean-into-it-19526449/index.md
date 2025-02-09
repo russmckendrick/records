@@ -63,7 +63,7 @@ The album includes the song "Green-Tinted Sixties Mind".
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lean_into_It |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Evoxs |
 | Catalog Number | EVLP036 |
 | Notes | Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url] May have been released in other regions (unconfirmed official sources) |

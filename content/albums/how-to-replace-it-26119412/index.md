@@ -65,7 +65,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (Crystal Clear) |
+| Format         | 2× Vinyl (Crystal Clear) LP, Album, Limited Edition, Stereo |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB820LP |
 | Notes | [Info:] Issued in a gatefold sleeve with printed inner sleeves.  A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.  [On barcode sticker:] PIASB820LPC  [On cover back:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [On labels, side B and D:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [Matrixes / Runouts:] Sides A to D: etched PIASB820LP-LPC, rest stamped Side C and D: etched -> 1V  |

@@ -61,7 +61,7 @@ A remastered and expanded version was released in 2004. A complete box set of st
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/This_Is_the_Sea |
-| Format         | Vinyl LP Album Limited Edition (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Limited Edition |
 | Label          | Chrysalis |
 | Catalog Number | ENCLX 5 |
 | Notes | Limited Edition 180gm Clear Vinyl  Made in the Czech Republic |

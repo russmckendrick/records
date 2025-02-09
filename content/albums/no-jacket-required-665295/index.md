@@ -64,7 +64,7 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/No_Jacket_Required |
-| Format         | Vinyl LP Album Stereo (Black Labels) |
+| Format         | 1× Vinyl (Black Labels) LP, Album, Stereo |
 | Label          | Virgin |
 | Catalog Number | V 2345 |
 | Notes | Recorded at the Townhouse, London and Old Croft, Surrey except strings, recorded at Air Studios, engineered by John Jacobs Mixed at the Townhouse Digitally  Manufactured in the U.K  ℗ & © 1985 Virgin Records Ltd. - Different to: [r=3727910] - has black labels, cut at [l=The Town House]. [r=6165566] - has black labels with white print. [r=4673198] - has orange labels with black print. [r=6601740] - has a barcode.   |

@@ -53,7 +53,7 @@ styles: ["Hardcore", "Heavy Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Glass Coffin Vinyl) |
+| Format         | 1× Vinyl (Glass Coffin Vinyl) LP, Album |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC248LP |
 | Notes | Includes a digital download card with a code to download [r=25089988] from www.copycatsmedia.com/redeem  First catalog number on the spine, second on the sticker on shrink wrap |

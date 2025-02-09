@@ -56,7 +56,7 @@ The making of the album was plagued by a number of creative, personal, and profe
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Gaucho_(album) |
-| Format         | Vinyl LP Album Reissue Remastered |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Geffen Records |
 | Catalog Number | B0034896-01 |
 | Notes | Distributed in the U.S.A. by Universal Music Enterprises  Runout's etched up to and including AA. The rest stamped. |

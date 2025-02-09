@@ -61,7 +61,7 @@ Music for People is the second album by the band VAST, released in September 12,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Music_for_People_(album) |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Green/Yellow Splatter [Serpentine]) |
+| Format         | 1× Vinyl (Green/Yellow Splatter [Serpentine]) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1217 |
 | Notes | Limited to 2000 Copies, Exclusive to Record Store Day 2021 |

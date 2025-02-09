@@ -74,7 +74,7 @@ Once lockdowns had loosened, she took to Nashville, where she recorded with accl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Joy%27All |
-| Format         | Vinyl LP Album Limited Edition (Green) |
+| Format         | 1× Vinyl (Green) LP, Album, Limited Edition |
 | Label          | Blue Note |
 | Catalog Number | B003753001 |
 | Notes | Indie exclusive transparent green vinyl. |

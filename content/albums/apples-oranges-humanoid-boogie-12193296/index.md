@@ -46,7 +46,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 10" 33 ⅓ RPM EP Stereo Mono |
+| Format         | 1× Vinyl 10", 33 ⅓ RPM, EP, Stereo, Mono |
 | Label          | Ape House |
 | Catalog Number | APEEP 901 |
 | Notes | Released as a limited edition of 1,396 copies on 10" vinyl All initial limited edition copies come with a postcard signed by Andy Partridge Included download card for [r=13346086] |

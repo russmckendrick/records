@@ -71,7 +71,7 @@ styles: ["Folk Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Die-Cut Sleeve), CD Album, All Media Deluxe Edition |
+| Format         | 1× Vinyl (Die-Cut Sleeve) LP, Album | 1× CD Album | 1× All Media Deluxe Edition |
 | Label          | Rough Trade |
 | Catalog Number | 883870081610 |
 | Notes | Issued with 3 clear/colored plastic inserts for a gimmick die-cut effect. A printed inner sleeve is also included.  Matrix / Runout Side A: RTRADLP 816 is hand etched, BG52393-01 A1 HL is machine etched Matrix / Runout Side B: RTRADLP 815 is hand etched, BG52393-01 B1 HL is machine etched  |

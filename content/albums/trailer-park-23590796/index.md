@@ -64,7 +64,7 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Trailer_Park_(album) |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
+| Format         | 2× Vinyl (Blue) LP, Album, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19439956801 |
 | Notes | On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |

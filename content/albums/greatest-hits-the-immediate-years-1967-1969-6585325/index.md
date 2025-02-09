@@ -62,7 +62,7 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Remastered Mono |
+| Format         | 1× Vinyl LP, Compilation, Remastered, Mono |
 | Label          | Charly Records |
 | Catalog Number | CHARLY L 126 |
 | Notes | 'Small Faces Greatest Hits - The Immediate Years 1967 - 1969' vinyl edition was cut by Matt Colton on a Neumann VMS 80 mastering lathe modified by Crispin Murray, with nothing else in the signal path between the source material and the lacquer. The cutting session on 6 November 2013 was conducted under the supervision of Kenney Jones & Small Faces reissue series producer Rob Caiger.  2014 Black Vinyl Issue |

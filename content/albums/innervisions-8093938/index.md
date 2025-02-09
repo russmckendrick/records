@@ -61,7 +61,7 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Innervisions |
-| Format         | Vinyl LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
+| Format         | 1× Vinyl (180 Gram, Gatefold) LP, Album, Reissue, Remastered, Repress |
 | Label          | Tamla Motown |
 | Catalog Number | 0050109032617 |
 | Notes | Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]  ℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company. Made in the EU.  Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York  180 Gram Vinyl. Includes download code. |

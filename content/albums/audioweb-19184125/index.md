@@ -55,7 +55,7 @@ The album was produced by Kevin Bacon and Jonathan Quarmby with additional produ
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Audioweb_(album) |
-| Format         | Vinyl LP Album Reissue (White) |
+| Format         | 1× Vinyl (White) LP, Album, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC897 |
 | Notes | About this release This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.  This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.   |

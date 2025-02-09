@@ -65,7 +65,7 @@ The album describes terrorism and danger (and on the last song, “The Overload�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Remain_in_Light |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Sire |
 | Catalog Number | SIR K 56 867 |
 | Notes | ℗ 1980 Sire Records Company.  Distributed by WEA Records Ltd.  Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf.  Label: Made in Germany by WEA Musik GMBH    Cat# on labels: SRK. 6095  Cat# on sleeve: SIR K 56 867  Cat# on inner sleeve: WB 56 867  UK: SRK 6095    Printed polylined inner sleeve.    The back cover and labels have different tracklistings, of which the label shows the correct order. |

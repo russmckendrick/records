@@ -63,7 +63,7 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Banana_Skin_Shoes |
-| Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, Album, Limited Edition |
 | Label          | One Last Fruit |
 | Catalog Number | OLF005LP |
 | Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |

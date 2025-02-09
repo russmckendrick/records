@@ -61,7 +61,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Box Set Limited Edition, Vinyl 2× LP Album Remastered (Gatefold Sleeve), Blu-ray Album Remastered Stereo Multichannel, Vinyl 7" 45 RPM Single (Red Color), Vinyl 7" 45 RPM Single (Transparent), Vinyl 12" Single (Blue Color), CD Album Reissue Remastered |
+| Format         | 1× Box Set Limited Edition | 2× Vinyl (Gatefold Sleeve) LP, Album, Remastered | 1× Blu-ray Album, Remastered, Stereo, Multichannel | 1× Vinyl (Red Color) 7", 45 RPM, Single | 1× Vinyl (Transparent) 7", 45 RPM, Single | 1× Vinyl (Blue Color) 12", Single | 1× CD Album, Reissue, Remastered |
 | Label          | Warner Music |
 | Catalog Number | WPZR-30576/83 |
 | Notes | Set Box Include:   - 2   LP Editions Of The Album  - 2     7" Vinyl Replica  - 1   12" Vinyl Replica  - 1   CD The 2011 ‘Discovery’ remaster of "The Division Bell"  - 1   Blu-ray  The Division Bell Album in HD Audio and Audio-Visual Material  - 1   Download Card  -  Additional  Art Prints and Booklet    The Set box is Japan Import (Made in EU)    On gatefold 2-vinyl release all full length tracks first time on vinyl because on originally vinyl-edition release all tracks was edited to fit on a single LP.  - Tracks 1-11 are CD track-numbers and same on Blu-ray stereo / multichannel versions.  - Vinyl 1 A side : A1, A2, A3 as tracks 1 to 3  - Vinyl 1 B side : B1, B2, B3 as tracks 4 to 6  - Vinyl 2 A side : A1, A2, A3 as tracks 7 to 9  - Vinyl 2 B side : B1, B2 as tracks 10 and 11 |

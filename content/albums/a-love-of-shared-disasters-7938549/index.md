@@ -60,7 +60,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE901 |
 | Notes | Sticker on a shrinkwrap: "Crippled Black Phoenix A Love of Shared Disasters GATEFOLD 2LP on 180g VINYL 2006 debut album from the musical collective led by Justin Greaves (Electric Wizard, Iron Monkey, Se Delan) & Dominic Aitchison (Mogwai) with alternative cover artwork. kscope901 kscopemusic.com/cbp"  2 x 180g black vinyl in gatefold cover. Made in Germany. |

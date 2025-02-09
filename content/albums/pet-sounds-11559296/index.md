@@ -63,7 +63,7 @@ Pet Sounds revolutionized music production and the role of professional record p
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pet_Sounds |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow / Green, 130 g) |
+| Format         | 1× Vinyl (Yellow / Green, 130 g) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Capitol Records |
 | Catalog Number | B0024729-01 |
 | Notes | Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.  Rear cover, bottom:  This stereo record should be played only with a stereo cartridge and needle to avoid damage.  Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson. ℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM  Black Capitol Records label with rainbow ring. |

@@ -55,7 +55,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | ATA Records (3) |
 | Catalog Number | ATA006 |
 | Discogs URL    | [Abstract Orchestra - Dilla](https://www.discogs.com/release/10521806-Abstract-Orchestra-Dilla) |

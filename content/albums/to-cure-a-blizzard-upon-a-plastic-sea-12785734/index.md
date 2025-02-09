@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album |
+| Format         | 2× Vinyl LP, 45 RPM, Album |
 | Label          | Medium Format |
 | Catalog Number | MF010V |
 | Discogs URL    | [Vennart - To Cure A Blizzard Upon A Plastic Sea](https://www.discogs.com/release/12785734-Vennart-To-Cure-A-Blizzard-Upon-A-Plastic-Sea) |

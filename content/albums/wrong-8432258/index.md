@@ -53,7 +53,7 @@ In rhetoric and ethics, "two wrongs don't make a right" and "two wrongs make a r
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Two_wrongs_don%27t_make_a_right |
-| Format         | Vinyl LP Album Stereo (Blue Splatter) |
+| Format         | 1× Vinyl (Blue Splatter) LP, Album, Stereo |
 | Label          | Mega Face Records |
 | Catalog Number | MFR06 |
 | Notes | Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.  Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand. |

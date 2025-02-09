@@ -70,7 +70,7 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/If_Tomorrow_Never_Comes |
-| Format         | Vinyl LP 45 RPM Album Limited Edition (Eco-Mix) |
+| Format         | 1× Vinyl (Eco-Mix) LP, 45 RPM, Album, Limited Edition |
 | Label          | Hellcat Records |
 | Catalog Number | 87773-1 |
 | Notes | Limited Edition Eco-Mix. A limited edition unique and random vinyl color.  Comes with printed inner sleeve and huge poster.  |

@@ -54,7 +54,7 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sex_with_an_X |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Sub Pop |
 | Catalog Number | SP 889 |
 | Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.  ©℗2010 Under exclusive license to Sub Pop.  First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].  Gatefold sleeve.   In the runouts, GOLDEN is stamped and the rest are etched. |

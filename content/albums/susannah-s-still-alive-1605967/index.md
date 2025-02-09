@@ -45,7 +45,7 @@ Although all original UK singles used the spelling 'Suzanah', in many other coun
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Susannah%27s_Still_Alive |
-| Format         | Vinyl 7" 45 RPM Single Stereo |
+| Format         | 1× Vinyl 7", 45 RPM, Single, Stereo |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH 009 |
 | Notes | Track A Darbe Music/Carlin Music Ltd  Track B Copyright Control    © 1988  ℗ The Alphabet Business Concern 1988 |

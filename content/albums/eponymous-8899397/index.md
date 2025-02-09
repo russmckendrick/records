@@ -66,7 +66,7 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Eponymous_(album) |
-| Format         | Vinyl LP Compilation Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Compilation, Reissue |
 | Label          | I.R.S. Records |
 | Catalog Number | 00602547899828 |
 | Notes | Includes voucher to download MP3 version of the album.   |

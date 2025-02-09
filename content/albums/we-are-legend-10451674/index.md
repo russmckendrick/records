@@ -43,7 +43,7 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG057 |
 | Discogs URL    | [Magenta (10) - We Are Legend](https://www.discogs.com/release/10451674-Magenta-10-We-Are-Legend) |

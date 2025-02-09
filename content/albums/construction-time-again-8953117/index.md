@@ -58,7 +58,7 @@ The album was preceded by the single "Everything Counts", released on 11 July an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Construction_Time_Again |
-| Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Mute |
 | Catalog Number | STUMM13 |
 | Notes | Sticker on shrink wrap reads: "Legacy Vinyl 180 Gram Superior Audio Quality"  Published by EMI Music Publishing Ltd, assigned Grabbing Hands Music Ltd. Except "Two Minute Warning" and "The Landscape Is Changing", published by BMG Music Publishing Ltd.  Recorded at The Garden, London. Mixed at Hansa Mischraum, Berlin.  ℗ 1983 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1983, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH  |

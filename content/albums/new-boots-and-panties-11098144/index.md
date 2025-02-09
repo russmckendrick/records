@@ -78,7 +78,7 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Boots_and_Panties!! |
-| Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Numbered Reissue (Green/Orange Splatter) |
+| Format         | 2× Vinyl (Green/Orange Splatter) LP, Album, Deluxe Edition, Limited Edition, Numbered, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMRECDLX005 |
 | Notes | Limited to 1000 copies - numbered on the lower left of the back cover. Deluxe Edition Includes the classic album and Live AT The Paris Theatre, London. 2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.  Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.  |

@@ -66,7 +66,7 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flying_Colors_(band) |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP, Album |
 | Label          | [{'name': 'Music Theories Recordings', 'catno': ''}] |
 | Catalog Number | MTR 7363 1 |
 | Notes | Barcodes:  '8 712725 736318' is printed on the cover. some copies - likely those marketed in the US - has '0 20286 19859 8' stickered on top of the printed barcode.  [On back cover:]  ℗ & © 2011 Mascot Music Production and Publishing BV. [On inner sleeve:]  © 2011 LaRue, McPherson, Morse, Morse, Portnoy ℗ & © 2012 Mascot Music Production and Publishing BV. [On labels:] ℗ & © 2012 Mascot Music Production and Publishing BV. Made in France by MPO   Drums, percussion, keyboards and vocals: Recorded in Nashville, TN, USA. www.radiantrecords.com/Radiantstudios Guitars, Bass and additional keyboards: Recorded in Ocala, FL, USA. Additional vocals and guitars: Recorded in Austin, TX, USA. Viola recorded in Glasgow, Scotland, UK.  Runouts are etched. |

@@ -52,7 +52,7 @@ styles: ["Post Rock", "Post-Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Blue/Frosted Clear/Purple Starburst) |
+| Format         | 2× Vinyl (Blue/Frosted Clear/Purple Starburst) LP, Album, Limited Edition |
 | Label          | Holy Roar Records |
 | Catalog Number | HRR262V |
 | Notes | Limited edition of: 250 x Blue/frosted clear/purple starburst (Holy Roar subscribers only) (this) 250 x Blue/frosted clear half and half ([r12713869]) 500 x Blue suede shoes ([r12713919]) |

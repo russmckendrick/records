@@ -62,7 +62,7 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM EP Remastered Stereo (Random Color) |
+| Format         | 1× Vinyl (Random Color) 12", 33 ⅓ RPM, EP, Remastered, Stereo |
 | Label          | Label Logic |
 | Catalog Number | none |
 | Notes | "Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.  According to album release website, "The color of vinyl you receive will be randomly chosen".  B-side instrumental versions unique to the vinyl edition. No catalog number, no text on spine. Includes printed inner sleeve. |

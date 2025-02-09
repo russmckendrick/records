@@ -54,7 +54,7 @@ Fish Heads and Tails is a 1989 compilation album from the Scottish group Goodbye
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fish_Heads_and_Tails |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Capitol Records UK |
 | Catalog Number | CAPS 2001 |
 | Notes | [Label]: All tracks published by Virgin Music (Publishers) Ltd. except A1 Carlin Music Corp / MCPS A2 Cubic Music / MCPS. B1 Bug Music / Warner Chappell Music ltd B4 Warner Chappell Music Ltd. B5 Dying Art Ltd. "Knockin' On Joe (Live)" recorded at the Town & Country Club, London on 20th June 1989 by Fleetwood Mobile.  [Label rim text]: Manufactured in England by EMI Records Limited.  [Rear sleeve]: ℗ The copyright in this compilation is owned by Capitol Records Inc. © 1989 EMI Records Ltd. Sleeve printed in England Manufactured in England SP8911CMCS |

@@ -77,7 +77,7 @@ Purple is the fourth studio album by American heavy metal band Baroness. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Purple_(Baroness_album) |
-| Format         | Vinyl LP Album (180 gram) |
+| Format         | 1× Vinyl (180 gram) LP, Album |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN-001 |
 | Notes | 180 gram black vinyl in a plain white poly-lined paper sleeve inside a gatefold jacket.  Includes an 8-page 11" x 11" full color booklet with artwork, lyrics and credits,  an additional printed inner sleeve, and a download code card ([url=https://www.discogs.com/release/9675229]digital release[/url]).  The gatefold sleeve is printed plain purple on the inner surface.  Some copies have a big sticker with golden letters on the shrink wrap (see picture).  These also have a different barcode sticker attached to the shrink on the back, right under the original barcode on the sleeve.  Track timings were taken from playing the record at constant 33⅓ RPM. They are not listed on the release.  Side A has a locked runout groove, so the duration of A5 could be infinitly.   Tracks are listed sequentially in the booklet.  Produced at Tarbox Road Studios, Cassadega, NY, Winter 2015. Supplementary tracking done at IQL Studios, Philadelphia, PA. Mastered at Sterling Sound, New York, NY.  [Printed on back cover:] © & ℗ 2015 Abraxan Hymns, LLC. East Coast, USA.  [Printed on label side B:] ©AHORKEY  Runout matrix is etched, except "STERLING -37184- P. USA" which is stamped. |

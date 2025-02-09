@@ -62,7 +62,7 @@ Hotel Last Resort is the tenth studio album by American rock band Violent Femmes
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hotel_Last_Resort |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Add It Up Productions |
 | Catalog Number | PIASR1100LP |
 | Notes | Includes printed insert containing credits. Comes with a download card. Downloads by 45RPM - Powered by dropscards.  Runouts are etched. |

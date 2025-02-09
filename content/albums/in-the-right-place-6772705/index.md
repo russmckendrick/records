@@ -59,7 +59,7 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_the_Right_Place |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | ATCO Records |
 | Catalog Number | 0349791111 |
 | Notes | Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,  like the original 1973 cover. |

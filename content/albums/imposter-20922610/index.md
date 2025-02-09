@@ -73,7 +73,7 @@ Imposter is the third collaborative studio album by English singer-songwriter Da
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Imposter_(album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Columbia |
 | Catalog Number | 19439925601 |
 | Notes | Mixed at Studio Zona (London) Mastered at Abbey Road Studios (London) Recorded at Shangri-La Studios (Malibu, CA) Additional Recording at Wolf Cabin (Oxfordshire) Pre-Production at Famous Times Studio (London)  © & ℗ 2021 JJSR Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment. Made in the EU.  A1 published by Screen Gems-EMI Music Inc. (BMI) A2 published by Heavenly Songs / Ripplestick Music (BMI) A3 published by Chappell & Co. Inc. c/o Warner/Chappell Music Inc. (ASCAP) A4 published by Universal Music - Careers (BMI) / EMI Longitude Music (BMI) A5 published by Hipgnosis Side A o/b/o Broken Fiddle Music (ASCAP) A6 published by Mattitude Music LLC c/o Hipgnosis International a div. of Big Deal Music LLC B1 published by Mute Song Limited (PRS)  B2 published by Irving Music, Inc. (BMI) B3 published by Bourne Co. (ASCAP) B4 published by Hot Head Music Ltd., admin. by Kobalt Music Publishing (ASCAP)  B5 published by Special Rider Music (SESAC) B6 published by Screen Gems-EMI Music Inc. (BMI)   All runouts stamped  Booklet 12 pages black and white. |

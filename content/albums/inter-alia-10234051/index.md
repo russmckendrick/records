@@ -54,7 +54,7 @@ styles: ["Indie Rock", "Post-Hardcore"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Grimace Purple / Deep Purple With Grimace Purple Splatter Split) |
+| Format         | 1× Vinyl (Grimace Purple / Deep Purple With Grimace Purple Splatter Split) LP, Album, Limited Edition |
 | Label          | Rise Records (3) |
 | Catalog Number | RISE 369-1 |
 | Notes | 2,250 units on Half Grimace Purple & Half Deep Purple with Grimace Purple Splatter vinyl  Recorded at Sunset Sound Factory |

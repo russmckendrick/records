@@ -61,7 +61,7 @@ styles: ["Krautrock", "Classical"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA05 |
 | Notes | Hype Sticker with Barcode: Limited white vinyl double LP  Indies only limited edition 3000 copies  ℗ 2023 BBC © 2023 Test Card Recordings All runout data is etched |

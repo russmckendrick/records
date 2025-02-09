@@ -94,7 +94,7 @@ The mix definitively dynamites the idea that different styles should be kept apa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/As_Heard_on_Radio_Soulwax_Pt._2 |
-| Format         | Vinyl 2× LP Mixed Reissue Repress (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Mixed, Reissue, Repress |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR565DLPR |
 | Notes | ­­℗ & © 2022 - 2manydjs under exclusive license to Play It Again Sam. Made in the EU.  Gatefold sleeve. Front Hyper Sticker  "40.PIAS.COM"  First released for Record Store Day 2012, later available as a part of "[PIAS] 30 Years" re-release campaign and now reissue for PIAS 40 Edition.  |

@@ -84,7 +84,7 @@ But <I>Donuts</I> was Yancey’s final missive, notwithstanding a flood of posth
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Donuts_(album) |
-| Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition Reissue (Red-in-Clear, "Jelly" Edition) |
+| Format         | 2× Vinyl (Red-in-Clear, "Jelly" Edition) 12", 33 ⅓ RPM, Album, Limited Edition, Reissue |
 | Label          | Stones Throw Records |
 | Catalog Number | STH2126-8 |
 | Notes | 2 x 12" (referred to as LP) Red-in-clear 'Jelly Edition' of Donuts, a limited run created for Stones Throw and Rough Trade (NYC & London). Limited to 1000 copies. |

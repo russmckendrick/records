@@ -92,7 +92,7 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Endless_River |
-| Format         | Vinyl 2× LP Album Stereo (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album, Stereo |
 | Label          | Parlophone |
 | Catalog Number | 825646215478 |
 | Notes | Issued in a gatefold sleeve.  Matrix cat# is etched, except part beginning with TML which is stamped  Made in the EU  Pressing plant uncredited, identified by the matrix numbers.   Printed on front cover sticker: "PINK FLOYD ENDLESS RIVER 2-LP SET includes • Heavyweight 180 gram vinyl • Gatefold sleeve, full colour inner bags • 16-page 275mm x 275mm booklet with unseen photographs from 1993 sessions • Download card 825646215478"  ℗ 2014 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd. © 2014 Pink Floyd (1987) Ltd. under exclusive licence to Parlophone Records Ltd., a Warner Music Group company.  Track durations are not printed on the release |

@@ -65,7 +65,7 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_La%27s |
-| Format         | Vinyl LP Album Reissue Remastered (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album, Reissue, Remastered |
 | Label          | Go! Discs |
 | Catalog Number | 478 974-6 |
 | Notes | Contains Download Voucher |

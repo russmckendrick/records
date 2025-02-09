@@ -57,7 +57,7 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thrashing_Thru_the_Passion |
-| Format         | Vinyl LP Limited Edition (Brown) |
+| Format         | 1× Vinyl (Brown) LP, Limited Edition |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR103-1 |
 | Notes | Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC) |

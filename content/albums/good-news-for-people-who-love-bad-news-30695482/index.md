@@ -86,7 +86,7 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Good_News_for_People_Who_Love_Bad_News |
-| Format         | Vinyl LP (Green [Opaque Spring Green]), Vinyl LP (Pink [Opaque Baby Pink]), All Media Album Deluxe Edition Reissue Remastered Stereo (Alternate Cover, 20th Anniversary Edition) |
+| Format         | 1× Vinyl (Green [Opaque Spring Green]) LP | 1× Vinyl (Pink [Opaque Baby Pink]) LP | 1× All Media (Alternate Cover, 20th Anniversary Edition) Album, Deluxe Edition, Reissue, Remastered, Stereo |
 | Label          | Epic |
 | Catalog Number | 19658830281 |
 | Notes | 2024 reissue on coloured vinyl. |

@@ -61,7 +61,7 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stampede_(Orville_Peck_album) |
-| Format         | Vinyl 2× LP Album (White [Bone]) |
+| Format         | 2× Vinyl (White [Bone]) LP, Album |
 | Label          | Warner Records |
 | Catalog Number | 1726596 |
 | Notes | Issued in gatefold sleeve.  Tracks are listed sequentially regardless of side. |

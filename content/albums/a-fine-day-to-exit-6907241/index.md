@@ -69,7 +69,7 @@ It is the last album with bassist Dave Pybus, and the first with keyboardist Les
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Fine_Day_to_Exit |
-| Format         | Vinyl LP Album (180 Gram), CD Album, All Media Reissue Remastered |
+| Format         | 1× Vinyl (180 Gram) LP, Album | 1× CD Album | 1× All Media Reissue, Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88875058501 |
 | Notes | Produced for SJP  ℗ 2001 © 2015 Music For Nations. Made in the EU   Vinyl comes in a printed inner sleeve, compact disc comes in a white paper sleeve.  On the compact disc, "Temporary Peace" (CD-10.1) lasts until 5:50, followed by the sound of waves, spoken word, and an unlisted hidden song called "In The Dog's House" (CD-10.2) at 12:15.  |

@@ -58,7 +58,7 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_(Hothouse_Flowers_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | London Records |
 | Catalog Number | LON LP 58 |
 | Notes | Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images. |

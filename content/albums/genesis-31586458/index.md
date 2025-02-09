@@ -54,7 +54,7 @@ Genesis was the group's greatest commercial success at the time of release, beco
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Genesis_(Genesis_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Atlantic |
 | Catalog Number | R1 374652 |
 | Discogs URL    | [Genesis - Genesis](https://www.discogs.com/release/31586458-Genesis-Genesis) |

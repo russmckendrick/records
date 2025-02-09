@@ -58,7 +58,7 @@ styles: ["Alternative Rock", "Space Rock", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Green) |
+| Format         | 2× Vinyl (Green) LP, Album, Reissue, Remastered |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1828-3 |
 | Notes | The Spaceman Reissue Program Volume 2  The artwork for this special edition features images from the original photo shot that were unused at the time.   There is no re-mastering credit in the sleeve, but the product description at the label website states: The reissue has been remastered for vinyl by Matt Colton at Metropolis Studios and features revamped artwork, including a new album cover. |

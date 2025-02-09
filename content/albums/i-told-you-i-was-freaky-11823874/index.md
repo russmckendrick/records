@@ -64,7 +64,7 @@ Behold one of the majestically silly couplets on this second serving of Kiwi com
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Told_You_I_Was_Freaky |
-| Format         | Vinyl LP Album Limited Edition Reissue (Green Translucent) |
+| Format         | 1× Vinyl (Green Translucent) LP, Album, Limited Edition, Reissue |
 | Label          | Sub Pop |
 | Catalog Number | SP 800 |
 | Discogs URL    | [Flight Of The Conchords - I Told You I Was Freaky](https://www.discogs.com/release/11823874-Flight-Of-The-Conchords-I-Told-You-I-Was-Freaky) |

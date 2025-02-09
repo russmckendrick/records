@@ -67,7 +67,7 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Savage_(Songs_from_a_Broken_World) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | BMG |
 | Catalog Number | 538307451 |
 | Notes | Gatefold Sleeve.  Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.  ℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited. |

@@ -53,7 +53,7 @@ styles: ["Ska", "Rocksteady"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Numbered Reissue Mono (Smokey) |
+| Format         | 1× Vinyl (Smokey) LP, Album, Numbered, Reissue, Mono |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2529 |
 | Notes | 1000 copies only. |

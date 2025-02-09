@@ -61,7 +61,7 @@ Among its tributaries are the Lizonne and the Côle.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dronne |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | The Household Mark |
 | Catalog Number | THM004LP |
 | Notes | Limited indies only 180g vinyl LP. Vinyl edition limited to 300 copies |

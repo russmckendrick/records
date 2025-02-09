@@ -62,7 +62,7 @@ The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Redlight_(The_Slackers_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear w/ Oxblood, Cyan, & White Splatter) |
+| Format         | 1× Vinyl (Clear w/ Oxblood, Cyan, & White Splatter) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR167 |
 | Notes | Pirates Press Mailorder Edition 250 copies on clear w/ oxblood, cyan and white splatter 180 gram vinyl.  Cover is two-color foil stamped cover and comes with an exclusive art-print insert.  Comes with a card for digital download which includes 3 bonus tracks: 1. When I Find A Place Where I Belong 2. Calypso Jazz (Iron Bar) 3. Come Back Baby (Glen Adams Mix)   |

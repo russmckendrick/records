@@ -64,7 +64,7 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Separation_Sunday |
-| Format         | Vinyl LP Reissue Remastered (White) |
+| Format         | 1× Vinyl (White) LP, Reissue, Remastered |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR087-1 |
 | Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records.  |

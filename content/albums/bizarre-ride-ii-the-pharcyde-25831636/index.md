@@ -73,7 +73,7 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bizarre_Ride_II_the_Pharcyde |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue Stereo (Clear w/Yellow & Purple Splatter) |
+| Format         | 2× Vinyl (Clear w/Yellow & Purple Splatter) LP, Album, Record Store Day, Reissue, Stereo |
 | Label          | Craft Recordings |
 | Catalog Number | CR00018 |
 | Notes | On back cover, label side A & C and insert: ℗ & © 1992 Craft Recordings, A Division Of Concord Music Group, Inc. Made In The U.S.A.  Similar version: [r=11190558] is a 2017 reissue with yellow & blue translucent vinyl records. |

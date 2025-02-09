@@ -58,7 +58,7 @@ styles: ["Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1014 |
 | Notes | Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels. |

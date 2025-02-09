@@ -64,7 +64,7 @@ Rancid’s ninth studio album arrives 24 years after their debut, but time hasn�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Trouble_Maker_(duo) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Hellcat Records |
 | Catalog Number | 7465-1 |
 | Notes | It contains a double sided insert.  Runout stamped |

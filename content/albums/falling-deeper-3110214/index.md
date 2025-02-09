@@ -61,7 +61,7 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Falling_Deeper |
-| Format         | Vinyl LP Album Limited Edition |
+| Format         | 1× Vinyl LP, Album, Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE820 |
 | Notes | Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves.     Crestfallen is dedicated with eternal love to Helen Cavanagh.  Kingdom is dedicated with love and gratitude to Stan White & Libby White.  Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket.   This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness.     Made in the E.U.    ℗2011 Anathema  ©2011 Anathema   |

@@ -61,7 +61,7 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Small_Changes_(album) |
-| Format         | Vinyl LP Limited Edition (White and Black Marbled) |
+| Format         | 1× Vinyl (White and Black Marbled) LP, Limited Edition |
 | Label          | Polydor |
 | Catalog Number | 6590614 |
 | Notes | Rough Trade Exclusive White and Black Marbled Limited to 1500 copies 180 Gram Vinyl Housed in Gatefold Sleeve with Full Size 12 Page Booklet. |

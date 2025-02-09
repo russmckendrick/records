@@ -52,7 +52,7 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Reissue |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP297Y |
 | Notes | ℗ 1992 Acid Jazz Records © 1992 Acid Jazz Records |

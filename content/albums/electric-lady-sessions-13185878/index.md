@@ -64,7 +64,7 @@ Electric Lady Sessions is a live in-studio album by American rock band LCD Sound
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Electric_Lady_Sessions |
-| Format         | Vinyl 2× LP Album (180-gram) |
+| Format         | 2× Vinyl (180-gram) LP, Album |
 | Label          | DFA |
 | Catalog Number | C-216887 |
 | Notes | New recordings of songs from the band's catalog (plus three covers), recorded January 19, 20 & 21, 2018 at Electric Lady Studios, NYC. |

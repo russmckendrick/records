@@ -55,7 +55,7 @@ styles: ["Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition (Clear w/Orange Splatter) |
+| Format         | 1× Vinyl (Clear w/Orange Splatter) LP, Compilation, Limited Edition |
 | Label          | Warner |
 | Catalog Number | RCV1 726712 |
 | Notes | Rhino’s Rocktober 2024 Limited Edition of 5,700 copies pressed on Clear with Orange Splatter Vinyl  Alternative Luminaries Porno For Pyros’ First-Ever Greatest Hits Collection.  Reflecting on one of the wildest creative journeys in music history, alternative rock luminaries Porno For Pyros excitedly present their first-ever greatest hits collection, Pyrotechnics: Porno For Pyros’ Latest & Greatest, out exclusively on vinyl, October 25. Limited to only 5,700 copies, the record will be pressed on special 1-LP clear vinyl with orange splatter and new artwork. Speaking to every era of the band, Pyrotechnics notably collates classic songs alongside new material.  The iconic collective—Perry Farrell [vocals] and Stephen Perkins [drums] of Jane’s Addiction alongside Peter DiStefano [guitar], Martyn Lenoble [bass], and additional bassist Mike Watt—have outfitted this body of work with signature staple anthems a la “Pets” and “Tahitian Moon.” They expanded the set with three recent reunion recordings: “Fingernail,” “Little Me,” and “Agua.” The latter suite of songs notably marked the group’s first music since 1997. Plus, Pyrotechnics also features a brand new Remix of the hit “Pets” by Daniel Avery and a cover of the Lou Reed classic “Satellite of Love." |

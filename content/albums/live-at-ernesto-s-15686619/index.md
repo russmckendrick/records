@@ -65,7 +65,7 @@ styles: ["Ska"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue (Clear w/ Glow In The Dark Splatter) |
+| Format         | 2× Vinyl (Clear w/ Glow In The Dark Splatter) LP, Album, Reissue |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR 268 |
 | Notes | PRESSING INFO: 1000pcs. - 2x12" Black Vinyl 700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl 300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]  © & ℗ 2000 Hellcat Records. Manufactured and distributed by Epitaph Europe.  Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands. Mixed at Coyote Studios, Brookling, New York, USA. Mastered at West West Side Music, Tenafly, New Jersey, USA.  |

@@ -56,7 +56,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Kingston Sounds |
 | Catalog Number | KSLP025 |
 | Notes | Track B7 Listed on jacket as 'We Will Be Free', but listed on label as 'We Will Be Fre'. |

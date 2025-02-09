@@ -64,7 +64,7 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Amnesiac_(album) |
-| Format         | Vinyl 2× 10" 33 ⅓ RPM Album Reissue |
+| Format         | 2× Vinyl 10", 33 ⅓ RPM, Album, Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP783 |
 | Notes | From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.  Including voucher with download code |

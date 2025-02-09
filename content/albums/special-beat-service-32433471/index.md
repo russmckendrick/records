@@ -65,7 +65,7 @@ Special Beat Service is the third studio album by the British ska band the Beat,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Special_Beat_Service |
-| Format         | Vinyl LP (Red Translucent), Vinyl LP (Blue Translucent), All Media Record Store Day Limited Edition |
+| Format         | 1× Vinyl (Red Translucent) LP | 1× Vinyl (Blue Translucent) LP | 1× All Media Record Store Day, Limited Edition |
 | Label          | Rhino Records (2) |
 | Catalog Number | 603497822300 |
 | Notes | Black Friday 2024 |

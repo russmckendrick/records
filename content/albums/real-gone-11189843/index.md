@@ -72,7 +72,7 @@ A remixed, remastered version of the album was released by ANTI- on November 22,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Real_Gone_(album) |
-| Format         | Vinyl 2× LP Album Remastered (Remixed, 180 gram) |
+| Format         | 2× Vinyl (Remixed, 180 gram) LP, Album, Remastered |
 | Label          | Anti- |
 | Catalog Number | 7548-1 |
 | Notes | Track D5 (known as "Chick A Boom") is not named or referenced on outer or inner sleeves, nor labels.  |

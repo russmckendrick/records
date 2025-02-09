@@ -62,7 +62,7 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Get_Out_of_My_Room |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | MCA Records |
 | Catalog Number | MCA 5640 |
 | Notes | Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu.  Mixed At Ocean Way.  Mastered At Bernie Grundman Mastering.  |

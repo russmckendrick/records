@@ -72,7 +72,7 @@ There’s no Radiohead record more vitriolic, nor more emotionally persuasive, t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hail_to_the_Thief |
-| Format         | Vinyl 2× 12" 45 RPM Album Reissue |
+| Format         | 2× Vinyl 12", 45 RPM, Album, Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP785 |
 | Notes | Pressed at Independent Record Pressing in Bordentown, New Jersey, as explicitly indicated by Stephen Burhans, Warehouse Manager at Matador Records, the U.S. distributor of affiliate XL Recordings, the current owner of Radiohead's back catalog, as of April 2016.    Runouts are etched, except 5845431 which is stamped and scratched out.  Labels on this release show 2.75" outer pressing ring with 1.375" inner pressing ring (characteristic of the Tracy-Val Hamilton presses formerly owned by [url=https://www.discogs.com/label/264205-Hub-Servall-Record-Mfg-Corp]Hub Servall[/url] and acquired by [url=https://www.discogs.com/label/1026890-Independent-Record-Pressing?page=1&genre=All&limit=500]Independent Record Pressing[/url] in 2015, as noted in Hub-Servall profile). [r=8755897] has similar runouts with stamped and scratched out 5845431 and the same [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media[/url] plating number but the labels of that release have only a single pressing ring.  Printed in NA. |

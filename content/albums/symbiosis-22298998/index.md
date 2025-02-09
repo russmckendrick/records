@@ -59,7 +59,7 @@ Symbiosis is also classified by physical attachment. Symbionts forming a single 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Symbiosis |
-| Format         | Vinyl LP Album (Sky Blue/Teal Marbled) |
+| Format         | 1× Vinyl (Sky Blue/Teal Marbled) LP, Album |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |
 | Discogs URL    | [Nordic Giants - Symbiosis](https://www.discogs.com/release/22298998-Nordic-Giants-Symbiosis) |

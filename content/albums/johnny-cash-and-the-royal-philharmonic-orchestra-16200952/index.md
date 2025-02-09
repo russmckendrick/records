@@ -64,7 +64,7 @@ The album debuted at number 10 on the UK Albums Chart, selling 7,861 units in it
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Johnny_Cash_and_the_Royal_Philharmonic_Orchestra |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Columbia |
 | Catalog Number | 19075996061 |
 | Discogs URL    | [Johnny Cash - Johnny Cash And The Royal Philharmonic Orchestra](https://www.discogs.com/release/16200952-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra-Johnny-Cash-And-The-Royal-Philharmonic-Orchestra) |

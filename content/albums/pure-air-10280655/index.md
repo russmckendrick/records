@@ -60,7 +60,7 @@ Pure Air is a compilation album by Agua de Annique, a band formed by the former 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pure_Air |
-| Format         | Vinyl LP Album Limited Edition Numbered (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1875 |
 | Notes | Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold. |

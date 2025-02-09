@@ -70,7 +70,7 @@ Joey Ramone had written “Sheena is a Punk Rocker”—which had appeared on so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rocket_to_Russia |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Sire |
 | Catalog Number | RR1 6042 |
 | Notes | Hype sticker on shrink wrap has NO barcode/NO catalog number RR1 6042. Another version exists with different hype sticker (WITH barcode & RR1 6042 on sticker) found here: [r=11534113]  This European issue can be differentiated from this [r11534113] US press by comparing the catalog number on the bottom right of inner sleeve.  This European issue has 081227932701  Superior 2017 Remastered Audio.  [Labels] All selections published by Taco Tunes, Warner Chappell-ASCAP Track B2: Bobby Freeman Music/Clockus Music Co.-BMI Track B6: Atlantic Music Corp./Beechwood Music Corp.-BMI Made in E.U.  [Inner sleeve] Copyright © 1977 Taco Tunes/Bleu Disque Music Co., Inc. (ASCAP) Copyright © 1977 Sire Records, Inc.  [Back cover] Recorded at Media Sound, New York Mixed at the Power Station, New York ℗ & © 2018, 1977 Sire Records Company. Manufactured in E.U. |

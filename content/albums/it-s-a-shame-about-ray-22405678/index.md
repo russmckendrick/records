@@ -81,7 +81,7 @@ It's a Shame About Ray is the fifth album by American alternative rock band the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_a_Shame_About_Ray |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Fire Records |
 | Catalog Number | FIRELP624 |
 | Notes | Limited to 1000 copies.   Gold vinyl double album in a gatefold sleeve, with printed inner sleeves. Also includes high quality download. |

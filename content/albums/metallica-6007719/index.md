@@ -67,7 +67,7 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Metallica_(album) |
-| Format         | Vinyl 2× LP Album Reissue Repress |
+| Format         | 2× Vinyl LP, Album, Reissue, Repress |
 | Label          | Blackened |
 | Catalog Number | BLCKND008-1 |
 | Notes | Insert contains lyrics.  Recorded at One On One Recording, Los Angeles, October '90 - June '91.  "© 1991 Blackened Recordings. Made in the U.S.A. All Rights Reserved" on insert. "© ℗ 1991 Blackened Recordings. Manufactured by Warner Music Group, 3400W Olive Ave. Burbank, CA 91505-4614. Printed in U.S.A. All Rights Reserved." on back cover.  "© ℗ 1991 Blackened Recordings." on labels.  Matrix/runout etched, except "18250" & "18251" stamped. |

@@ -56,7 +56,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Gold) |
+| Format         | 1× Vinyl (Gold) LP |
 | Label          | RSO |
 | Catalog Number | 28MW 0031 |
 | Notes | Barnes & Noble "Vinyl Day" Exclusive pressed on gold colored vinyl.  Gatefold sleeve.       |

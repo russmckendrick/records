@@ -89,7 +89,7 @@ styles: ["Prog Rock", "Progressive Metal"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/City_Burials |
-| Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
+| Format         | 1× Vinyl (Clear) LP | 1× Vinyl (Clear) LP, Single Sided, Etched | 1× All Media Album |
 | Label          | Peaceville |
 | Catalog Number | VILELP860 |
 | Notes | Gatefold with lyrics and printed inner sleeves with photos and credits. Limited edition of 1500 copies.  Closing Of The Sky is a bonus track for this release.  Runouts are etched.  Made in the EU. |

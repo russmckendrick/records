@@ -46,7 +46,7 @@ For their second album, Chicago shortened their name (from Chicago Transit Autho
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 33 ⅓ RPM Single Limited Edition |
+| Format         | 1× Vinyl 12", 33 ⅓ RPM, Single, Limited Edition |
 | Label          | Caroline International |
 | Catalog Number | CAROL021S2LP |
 | Notes | 180g vinyl. |

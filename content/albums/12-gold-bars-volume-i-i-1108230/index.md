@@ -75,7 +75,7 @@ styles: ["Blues Rock", "Rock & Roll", "Pop Rock", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Compilation, Stereo |
 | Label          | Vertigo |
 | Catalog Number | QUOTV 2 |
 | Notes | Gatefold sleeve, 'Home Taping Is Killing Music'- inner sleeves.  This compilation consists of the previously released compilations [r=512955] and [r=3298835].  Album title appears on spine as '12 Gold Bars Volume Two (And One)'.  Disc 1 mastered at CTS Studios, Disc 2 mastered at Strawberry Mastering.  Runoutsa re stamped.  Titles on center labels: 'Twelve Gold Bars' (Disc 1) '12 Gold Bars - Volume 2' (Disc 2)  Center labels also show catalog numbers 'QUO TV 1' (Disc 1) and 'QUOTV 2 (824 041-1)' (Disc 2).  (Approximate) track durations stated only on Disc 1.   Barcode also includes 824 041-1 catalog number, QUOTV 2 is printed on the sleeve rear, VERTIGO QUOTV 2 on the spine.    A4 ℗ 1972 A3, B2 ℗ 1973  A2, A5 ℗ 1974 B1, B3, B4 ℗ 1976 A1 ℗ 1977 A6 ℗ 1978 B5, B6 ℗ 1979  C1, C2, C4, C6 ℗ 1980 C3 ℗ 1981 C5, D6 ℗ 1982 D1 to D3 ℗ 1983 D4, D5 ℗ 1984  Disc 1: ℗ 1980 Phonogram Ltd. Disc 2: ℗ 1984 Phonogram Ltd. (London)  Made in England |

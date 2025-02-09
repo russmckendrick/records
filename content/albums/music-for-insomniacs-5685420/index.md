@@ -46,7 +46,7 @@ styles: ["Experimental", "Ambient", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Blue) |
+| Format         | 1× Vinyl (Blue) LP, Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP321 |
 | Notes | 'Music For Insomniacs' was recorded in Matt Berry's studio between March and May 2012.    Dedicated to insomnia sufferers everywhere. Sleep well.    Limited number of copies were available signed. |

@@ -129,7 +129,7 @@ The Complete DreamWorks Albums is a 2015 box set of seven albums from American i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Complete_DreamWorks_Albums |
-| Format         | Vinyl LP Album Reissue, Vinyl 2× LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl 2× LP Album, Box Set Compilation Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Album, Reissue | 2× Vinyl LP, Album | 1× Box Set Compilation, Limited Edition |
 | Label          | Universal Music Group |
 | Catalog Number | 602547306623 |
 | Notes | "Daisies Of The Galaxy" and "Souljacker" have consecutively listed track positions. Track H15 is not listed on the release.  M1-O3 Recorded somewhere in England, December 1998 P1. Gronigen, Holland, Sept. 30 1998 P2. Stockholm, Sweden, Oct. 5 1998 P3 & P4. Paris, France, Sept. 21 1998 P5. Indianapolis, Indiana, U.S.A., Oct. 29 1998  First 100 copies came with 6 art prints. |

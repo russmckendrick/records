@@ -52,7 +52,7 @@ styles: ["Electro"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" Compilation |
+| Format         | 2× Vinyl 12", Compilation |
 | Label          | Z Records |
 | Catalog Number | ZEDDLP040 |
 | Notes | Gatefold sleeve. |

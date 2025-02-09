@@ -67,7 +67,7 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pulsing_Signals |
-| Format         | Vinyl 2× LP |
+| Format         | 2× Vinyl LP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1143 |
 | Notes | Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com  |

@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weekender_(Flowered_Up_song) |
-| Format         | Vinyl 12" 45 RPM Single Sided |
+| Format         | 1× Vinyl 12", 45 RPM, Single Sided |
 | Label          | Heavenly |
 | Catalog Number | HVN 16 |
 | Notes | Recorded at Westside Studios, London.    © 1992 Sony Music Entertainment (UK) Ltd.  ℗ 1992 Sony Music Entertainment (UK) Ltd. |

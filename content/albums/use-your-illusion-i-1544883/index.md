@@ -72,7 +72,7 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Use_Your_Illusion_I |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Geffen Records |
 | Catalog Number | 0720642441510 |
 | Notes | Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered  |

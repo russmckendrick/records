@@ -62,7 +62,7 @@ The album has influenced many bands and musicians, and the industry in general. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here%27s_the_Sex_Pistols |
-| Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Universal Music Group International |
 | Catalog Number | SexPisLP77 |
 | Notes | Part of the 'Back To Black' series of releases of classic albums. Some copies have a square sticker on the shrinkwrap.  Unknown quantity of copies on heavyweight 180g black vinyl.  Track B3 not presented on Cover artwork Track B6 presented as 'EMI Unlimited Edition' on cover artwork  Includes voucher to download an mp3 copy of LP.  ℗ & © 2014 Made in the EU.  Similar release without 'www.gzvinyl.com' is here, [r=13043632] |

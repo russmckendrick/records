@@ -117,7 +117,7 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Misprint Reissue Remastered, Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered, Box Set Compilation (180 Gram) |
+| Format         | 1× Vinyl LP, Album, Misprint, Reissue, Remastered | 1× Vinyl (Gatefold) LP, Album, Reissue, Remastered | 1× Vinyl (Gatefold) LP, Album, Reissue, Remastered | 1× Vinyl LP, Album, Reissue, Remastered | 1× Box Set (180 Gram) Compilation |
 | Label          | Fish People |
 | Catalog Number | 0190295593964 |
 | Notes | 4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'. |

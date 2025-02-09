@@ -59,7 +59,7 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Scream |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5009 |
 | Notes | Includes a printed inner sleeve with lyrics.  Mixed August 1978.  Centre label: © 1978 side 1 tracks 1-4 Pure Noise / Chappell & Co. Track 5 Northern Songs Ltd. Side 2 tracks 1-5 Pure Noise / Chappell & Co. ℗ 1978 Polydor Ltd. U.K.  Inner sleeve: ℗ 1978 Polydor Ltd. © 1978 Polydor Ltd.  Durations do not appear on this release. Timings via stopwatch.  On all variants runout data is stamped, except etched Ʊ [Lyre symbol] and variant 7 which has 'CW' as etched on both sides. |

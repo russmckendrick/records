@@ -78,7 +78,7 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Waterfall_II |
-| Format         | Vinyl LP Album (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album |
 | Label          | ATO Records |
 | Catalog Number | ATO0530LP |
 | Notes | Standard clear version  Brittany Howard appears courtesy of ATO Records  |

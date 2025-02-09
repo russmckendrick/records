@@ -57,7 +57,7 @@ A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (150g) |
+| Format         | 1× Vinyl (150g) LP, Album |
 | Label          | New West Records |
 | Catalog Number | NW5189 |
 | Discogs URL    | [Justin Townes Earle - Kids In The Street](https://www.discogs.com/release/10366653-Justin-Townes-Earle-Kids-In-The-Street) |

@@ -77,7 +77,7 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Altitude_(ALT_album) |
-| Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered Stereo |
+| Format         | 2× Vinyl LP, Album, Deluxe Edition, Reissue, Remastered, Stereo |
 | Label          | Needle Mythology |
 | Catalog Number | NEMYLP010 |
 | Discogs URL    | [ALT (6) - Altitude ](https://www.discogs.com/release/23202755-ALT-6-Altitude-) |

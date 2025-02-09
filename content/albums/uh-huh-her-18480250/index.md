@@ -68,7 +68,7 @@ The album received largely positive reviews upon its release, although there was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Uh_Huh_Her_(album) |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Island Records |
 | Catalog Number | 0725318 |
 | Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right). 0725318-A and 0725318-B on labels.  On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rim text: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  Runouts are hand etched and Optimal symbols are mirrored. |

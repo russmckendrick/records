@@ -67,7 +67,7 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Orbital_(band) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue, Remastered |
 | Label          | London Records |
 | Catalog Number | LMS1725118 |
 | Notes | Brand new liner notes. Double black vinyl.  'Macro Head' Recorded at Gee St. 'Belfast' Recorded at Marcus Studio. ℗ & © 2024 London Records Ltd.  Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.  Made in Czechia.  Runouts are etched apart from GZ Media's identifiers, which are laser-etched. |

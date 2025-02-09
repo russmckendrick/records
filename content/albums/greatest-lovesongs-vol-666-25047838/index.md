@@ -67,7 +67,7 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Lovesongs_Vol._666 |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | RCA |
 | Catalog Number | 19439982221 |
 | Notes | 25th anniversary re-Issue, released on standard black vinyl in a gatefold cover.  Lyrics and credits are printed to the inside of the gatefold. |

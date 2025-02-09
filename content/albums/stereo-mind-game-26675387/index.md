@@ -104,7 +104,7 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stereo_Mind_Game |
-| Format         | Vinyl LP Album Limited Edition (Coloured Eco-Vinyl) |
+| Format         | 1× Vinyl (Coloured Eco-Vinyl) LP, Album, Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0512LPE |
 | Notes | The tracks are numbered sequentially, 1 to 12, on the release. |

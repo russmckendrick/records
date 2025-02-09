@@ -54,7 +54,7 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Blood_Music_(Chapterhouse_album) |
-| Format         | Vinyl 2× LP Limited Edition Numbered Reissue Stereo (Red [Transparent]) |
+| Format         | 2× Vinyl (Red [Transparent]) LP, Limited Edition, Numbered, Reissue, Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2700 |
 | Notes | Limited edition of 2000 numbered copies on transparent red vinyl. 180 gram audiophile vinyl |

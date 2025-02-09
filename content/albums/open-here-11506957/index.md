@@ -64,7 +64,7 @@ Despite occasionally serious or cynical topics, Field Music attempted to infuse 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Open_Here |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Memphis Industries |
 | Catalog Number | MI0476LP |
 | Notes | 180 gram black vinyl housed in die cut sleeve with download card and lyric inner. |

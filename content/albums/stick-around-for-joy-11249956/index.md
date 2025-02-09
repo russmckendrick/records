@@ -56,7 +56,7 @@ The album peaked at number 95 on the Billboard 200 and reached number 16 on the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stick_Around_for_Joy |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | One Little Indian |
 | Catalog Number | tplp30dmm |
 | Notes | 180g vinyl.  Tracks on side two printed as 6 to 10 on the rear sleeve but 1 to 5 on the label.  Made in the E.U. |

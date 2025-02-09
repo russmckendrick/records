@@ -49,7 +49,7 @@ styles: ["Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE968 |
 | Notes | The soundtrack for the Nordic Giants’ 2017 documentary film, Amplify Human Vibration.   Known for its breath-taking apocalyptic music and extravagant live performances, Nordic Giants place one foot outside of the shadows for on Amplify Human Vibration. In a world undergoing turbulent changes and with the mainstream media concentrating on the negative side of these shifts, the Nordic Giants’ remarkable documentary and soundtrack brings light to the positive changes people are making, and explores the kindness and drive of humanity.   The band has stated: "For those that have seen the live show before fear not, this is not a light affair, but a thought provoking exploration into the human spirit." The filming for the documentary incorporates 2017 summer festival performances from the band, including ArcTanGent &  Green Man.   LP pressed on 180g vinyl.   “The perfect union between ambient post-rock and film.” - Time Out |

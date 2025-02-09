@@ -62,7 +62,7 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/ID.Entity |
-| Format         | Vinyl 2× LP Album Limited Edition Stereo (White, 180g) |
+| Format         | 2× Vinyl (White, 180g) LP, Album, Limited Edition, Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOM658 |
 | Notes | Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC. Some copies came with signed art card.  ℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic Made in the EU |

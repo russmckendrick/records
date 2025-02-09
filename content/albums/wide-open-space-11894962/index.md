@@ -58,7 +58,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wide_Open_Space |
-| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Remastered (White) |
+| Format         | 1× Vinyl (White) 12", 45 RPM, EP, Record Store Day, Limited Edition, Remastered |
 | Label          | Kscope |
 | Catalog Number | Kscope989 |
 | Notes | Record Store Day 2018 release.  First time on 12" vinyl. Features all the tracks originally released on the two UK CD E.P.s ([r=1451452] and [r=1451510]). |

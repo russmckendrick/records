@@ -63,7 +63,7 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/My_Aim_Is_True |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | UMe |
 | Catalog Number | 0602547331144 |
 | Notes | Includes a voucher to download MP3 version of the album. Made in the Czech Republic.   |

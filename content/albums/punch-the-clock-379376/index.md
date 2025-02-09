@@ -61,7 +61,7 @@ The album received mixed-to-positive reviews from music critics on release and i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Punch_the_Clock |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | F-Beat |
 | Catalog Number | XXLP 19 |
 | Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |

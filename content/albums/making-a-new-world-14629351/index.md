@@ -64,7 +64,7 @@ Making a New World features a diverse mix of styles, genres, and instruments, as
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Making_a_New_World |
-| Format         | Vinyl LP Album Limited Edition (Red Transparent) |
+| Format         | 1× Vinyl (Red Transparent) LP, Album, Limited Edition |
 | Label          | Memphis Industries |
 | Catalog Number | MI0569LPX |
 | Notes | Limited Edition Translucent Red 180g Vinyl. Gatefold Sleeve. Includes Download Coupon.   |

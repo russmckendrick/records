@@ -69,7 +69,7 @@ Critical reviews of the album were generally positive and noted its 1970s stylin
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Emergency_on_Planet_Earth |
-| Format         | Vinyl 2× LP Album Reissue Special Edition (Clear, 180g, 30th Anniversary) |
+| Format         | 2× Vinyl (Clear, 180g, 30th Anniversary) LP, Album, Reissue, Special Edition |
 | Label          | Sony Music |
 | Catalog Number | 19658702311 |
 | Notes | Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.  Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:07 is printed on the record’s center label.  Made in the EU.  Runouts are etched, apart from "-60329-" which is stamped |

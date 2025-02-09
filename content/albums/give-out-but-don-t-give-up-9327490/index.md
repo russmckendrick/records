@@ -69,7 +69,7 @@ A second version of the album, featuring previously lost recordings, was release
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Give_Out_but_Don%27t_Give_Up |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | 1972 |
 | Catalog Number | if33 |
 | Notes | Includes print of sleeve cover on glossy paper.  Printed inner sleeves  House in a gatefold sleeve. |

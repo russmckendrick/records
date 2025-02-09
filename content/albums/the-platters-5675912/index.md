@@ -56,7 +56,7 @@ The Platters are an American vocal group formed in 1952. They are one of the mos
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Platters |
-| Format         | Vinyl LP |
+| Format         | 1× Vinyl LP |
 | Label          | Mercury |
 | Catalog Number | MPL 6504 |
 | Notes |  Turquoise Blue Label printed on rear of sleeve. Distributed by Pye Records Ltd. |

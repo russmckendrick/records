@@ -52,7 +52,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Transparent) |
+| Format         | 1× Vinyl (Transparent) LP, Album, Limited Edition |
 | Label          | Memphis Industries |
 | Catalog Number | MI0657LP |
 | Discogs URL    | [Field Music - Flat White Moon](https://www.discogs.com/release/18420103-Field-Music-Flat-White-Moon) |

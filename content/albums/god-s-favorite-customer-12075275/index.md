@@ -55,7 +55,7 @@ God's Favorite Customer (or Mr Tillman's Wild Ride) is the fourth studio album b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/God%27s_Favorite_Customer |
-| Format         | Vinyl LP Album Limited Edition (Orange Neon) |
+| Format         | 1× Vinyl (Orange Neon) LP, Album, Limited Edition |
 | Label          | Bella Union |
 | Catalog Number | BELLA770RT |
 | Notes | Rough Trade Exclusive: Neon Orange. Limited to 1000 copies.   Test pressing labels with track numbering on sequential to 1 through 10.  Sticker with download information stuck on inner sleeve.  BELLA770RT on barcode sticker. BELLA770V on spine |

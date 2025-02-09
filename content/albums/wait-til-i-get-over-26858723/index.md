@@ -62,7 +62,7 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wait_Til_I_Get_Over |
-| Format         | Vinyl LP Album Limited Edition (Blue [Blue Jay]) |
+| Format         | 1× Vinyl (Blue [Blue Jay]) LP, Album, Limited Edition |
 | Label          | Dead Oceans |
 | Catalog Number | DOC280 |
 | Notes | B5 is a hidden track, title and credits are in the booklet.  Blue Jay Limited Edition with 20 page booklet and digital download.  Some copies were released early for RSD at Landlocked Music in Bloomington, Indiana with signing by Durand Jones himself.  Official Release Date is May 5th, 2023. |

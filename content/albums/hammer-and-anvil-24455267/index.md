@@ -64,7 +64,7 @@ The "hammer and anvil" tactic is fundamentally a single envelopment, and is to b
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hammer_and_anvil |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, Album, Limited Edition, Reissue |
 | Label          | Superball Music |
 | Catalog Number | MOVLP3078 |
 | Notes | Limited Edition of 1000 copies on yellow coloured vinyl Available on vinyl for the first time Includes band logo etch on D-side 180 gram audiophile vinyl  Made in the EU. |

@@ -71,7 +71,7 @@ The album was a nominee for the 2008 Polaris Music Prize.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Our_Bedroom_After_the_War |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | City Slang |
 | Catalog Number | SLANG1048681 |
 | Notes | Recorded for FLAM at Warehouse Studios, Vancouver. Mixed at Phase One, Toronto. Mastered at The Lodge. Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal. Additional engineering on "The Night Starts Here" at Phase One, Toronto.  Gatefold with printed inner sleeves. Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.   Direct Metal Mastering. |

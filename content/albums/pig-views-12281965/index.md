@@ -58,7 +58,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram, Pink) |
+| Format         | 2× Vinyl (180 Gram, Pink) LP, Album, Stereo |
 | Label          | Uranium Club |
 | Catalog Number | UCV92002 |
 | Notes | Packaged in a single jacket with color insert, sticker and download card.   D1 and D2 are bonus tracks exclusive to this release. |

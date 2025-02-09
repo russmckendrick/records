@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | Vinyl LP, Album |
 | Label          | [{'name': 'Epic', 'catno': ''}] |
 | Catalog Number | EPC 84829 |
 | Notes | All Live Recordings |

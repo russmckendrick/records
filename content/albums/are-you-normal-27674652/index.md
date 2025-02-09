@@ -62,7 +62,7 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Translucent, 180 Gram) |
+| Format         | 1× Vinyl (Blue Translucent, 180 Gram) LP, Album, Limited Edition, Numbered, Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3329 |
 | Notes | Edition of 1000 machine numbered copies. Matte sleeve. White, poly-lined innersleeve. A 12x12" double sided printed insert with lyrics and credits which replicates original 1992 innersleeve is included. Runouts are etched. |

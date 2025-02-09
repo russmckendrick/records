@@ -60,7 +60,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE975 |
 | Notes | 2 LP Retail Version |

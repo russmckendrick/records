@@ -69,7 +69,7 @@ Dopes to Infinity is the third album by American rock band Monster Magnet, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dopes_to_Infinity |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642337 |
 | Notes | Black vinyl. Includes sleeve-notes & bonus material.    Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |

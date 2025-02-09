@@ -78,7 +78,7 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl 2× LP, All Media (Slipcase) |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 2× Vinyl LP | 1× All Media (Slipcase) |
 | Label          | Anthem (5) |
 | Catalog Number | B0029021-01 |
 | Notes | Slipcase cover containing: - Hemispheres (LP) - gatefold cover - Bonus Live Tracks (2x LP) - gatefold cover - 24 page book (LP size) with photos and new artwork by Hugh Syme and 5700 word essay by Rob Bowman - Download Voucher for 320kbps AAC MP4s files - offer expires 31.12.2020   Recorded at Rockfield Studios, Wales, during June and July 1978; vocals recorded at Advision Studios, London. Mixed at Trident Studios, Soho, London Remastered at Abbey Road Studios   Live in Arizona: "2112 (Parts I-IV, VI-VII)" (recorded live May 28, 1979 at Stadthalle Offenbach, West Germany; incorrectly credited as Live in Arizona: November 20, 1978)	 |

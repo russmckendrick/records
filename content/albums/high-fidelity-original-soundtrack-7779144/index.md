@@ -62,7 +62,7 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Numbered Reissue (Orange) |
+| Format         | 2× Vinyl (Orange) LP, Record Store Day, Compilation, Numbered, Reissue |
 | Label          | Hollywood Records |
 | Catalog Number | D002176001 |
 | Notes | "Exclusive orange double vinyl 15th Anniversary release" Record Store Day Black Friday 2015  Motion Picture Artwork & Artwork Title © 2000 Touchstone Pictures ℗ 2000 Hollywood Records, Inc.    |

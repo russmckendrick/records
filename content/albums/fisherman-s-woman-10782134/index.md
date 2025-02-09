@@ -61,7 +61,7 @@ Fisherman's Woman is an album by Emilíana Torrini, released on 31 January 2005 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Fisherman%27s_Woman |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP185 |
 | Notes | Issued in a gatefold sleeve with barcode sticker on shrink wrap. |

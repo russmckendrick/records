@@ -73,7 +73,7 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (White), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (White) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 479 |
 | Notes | White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker |

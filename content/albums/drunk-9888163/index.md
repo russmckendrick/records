@@ -87,7 +87,7 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 4× 10" 45 RPM (Red), Box Set Album |
+| Format         | 4× Vinyl (Red) 10", 45 RPM | 1× Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF064 |
 | Notes | Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched. |

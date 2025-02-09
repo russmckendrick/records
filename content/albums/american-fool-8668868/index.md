@@ -53,7 +53,7 @@ American Fool is the fifth studio album by American singer-songwriter John Couga
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/American_Fool |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Riva (2) |
 | Catalog Number | RVL 7501 |
 | Discogs URL    | [John Cougar Mellencamp - American Fool](https://www.discogs.com/release/8668868-John-Cougar-American-Fool) |

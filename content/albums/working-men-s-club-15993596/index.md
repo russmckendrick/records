@@ -80,7 +80,7 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Working_Men%27s_Club_(album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Neon Yellow ) |
+| Format         | 1× Vinyl (Neon Yellow ) LP, Album, Limited Edition, Stereo |
 | Label          | Heavenly |
 | Catalog Number | HVNLP179C |
 | Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209] |

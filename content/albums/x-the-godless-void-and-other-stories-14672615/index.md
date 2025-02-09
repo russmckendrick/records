@@ -73,7 +73,7 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/X:_The_Godless_Void_and_Other_Stories |
-| Format         | Vinyl LP Album (Clear), CD Album, All Media Limited Edition |
+| Format         | 1× Vinyl (Clear) LP, Album | 1× CD Album | 1× All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 533 |
 | Notes | Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU. |

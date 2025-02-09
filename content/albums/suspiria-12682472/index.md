@@ -84,7 +84,7 @@ Suspiria was Yorke's first feature film score, and incorporates instrumental tra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Suspiria_(2018_soundtrack) |
-| Format         | Vinyl 2× LP Album (Pink) |
+| Format         | 2× Vinyl (Pink) LP, Album |
 | Label          | XL Recordings |
 | Catalog Number | XL936LP |
 | Notes | Matte pink heavy card gatefold sleeve with wide spine. Pink can be seen on inside sleeves. Blue style screen print design forming cover image. Additional information on back sleeve in White lettering. Each LP comes in a custom inner sleeve.  1st sales in some independent record shops were given with a promotional tote-bag, or a flipbook with the animations from the "Suspirium" music video. |

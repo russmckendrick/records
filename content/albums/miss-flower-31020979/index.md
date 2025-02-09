@@ -59,7 +59,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition |
 | Label          | Grönland Records |
 | Catalog Number | LPGRON291 |
 | Notes | ℗ & © 2024 Groenland Records  Lyrics and credits printed on the inner sleeve.  Signed version from JPC shop Germany, sticker code: 5 061010 501890  |

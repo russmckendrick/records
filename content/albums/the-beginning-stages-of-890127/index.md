@@ -66,7 +66,7 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Beginning_Stages_of... |
-| Format         | Vinyl 2× LP Album Numbered |
+| Format         | 2× Vinyl LP, Album, Numbered |
 | Label          | 679 |
 | Catalog Number | 679L011TLP |
 | Notes | Additional voices on this recording include the members of the band as well as friends.  Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).  Gatefold sleeve with printed inner sleeves. |

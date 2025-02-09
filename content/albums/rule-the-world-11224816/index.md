@@ -71,7 +71,7 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World |
-| Format         | Vinyl 2× LP Compilation (Gatefold Sleeve) |
+| Format         | 2× Vinyl (Gatefold Sleeve) LP, Compilation |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3197 |
 | Notes | A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd. Made in the E.U.  Tracks version: -Shout is 7" Edit -Change is Radio Edit -Pale Shelter is 2nd Version Single -Mothers Talk is U.S. Remix  Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.  US release date: 1/12/2018 |

@@ -55,7 +55,7 @@ styles: ["Art Rock", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Yellow Transparent), Vinyl LP Single Sided Etched (Yellow Transparent), All Media Album Limited Edition |
+| Format         | 1× Vinyl (Yellow Transparent) LP | 1× Vinyl (Yellow Transparent) LP, Single Sided, Etched | 1× All Media Album, Limited Edition |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASX062DLP |
 | Notes | Special release for Love Record Store Day 2020. Limited to 700 copies. |

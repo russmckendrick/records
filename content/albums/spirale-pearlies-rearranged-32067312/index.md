@@ -50,7 +50,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Summer Wine) |
+| Format         | 1× Vinyl (Summer Wine) LP, Album |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR290LP |
 | Discogs URL    | [Emma Anderson - Spiralée:  Pearlies Rearranged](https://www.discogs.com/release/32067312-Emma-Anderson-Spiralée-Pearlies-Rearranged) |

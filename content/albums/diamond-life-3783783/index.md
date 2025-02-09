@@ -57,7 +57,7 @@ Recorded over the course of six weeks in London’s legendary Power Plant Studio
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album (Gatefold) |
+| Format         | 1× Vinyl (Gatefold) LP, Album |
 | Label          | Epic |
 | Catalog Number | EPC 26044 |
 | Notes | Issued in a gatefold sleeve. Has light blue labels (with fading effect not solid) with yellow Epic logo.  ℗ 1984 CBS Records © 1984 CBS Records  (A1 to B3) MCPS (B4) Southern Music Pub. Co. Ltd.  Original sound recording made by CBS Records  May have one of various hype stickers on the cover (or not)  Made in England |

@@ -63,7 +63,7 @@ styles: ["Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Sub Pop |
 | Catalog Number | SP1265 |
 | Notes | Black Vinyl Two single-pocket LP jackets housed together in a custom die-cut slipcase. Full color, printed inner sleeves with credits and thank yous. Includes digital download code.  Track list and title are stickers affixed to the shrink wrap. |

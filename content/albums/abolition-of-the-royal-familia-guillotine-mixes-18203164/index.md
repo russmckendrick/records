@@ -61,7 +61,7 @@ styles: ["Ambient", "House"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP784 |
 | Notes | The release came sealed in a polythene shrink-wrap, with a circular hype sticker on the front. A download card was included.  Made In The EU |

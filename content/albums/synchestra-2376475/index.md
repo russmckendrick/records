@@ -65,7 +65,7 @@ Synchestra ( sing-KES-trə) is the eighth solo album by Canadian musician Devin 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Synchestra |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Brown, Gatefold, 180-Gram) |
+| Format         | 2× Vinyl (Brown, Gatefold, 180-Gram) LP, Album, Limited Edition, Reissue |
 | Label          | Back On Black |
 | Catalog Number | BOBV246LP |
 | Notes | Drums recorded at the Armoury.  Bass recorded at Hipposonic.  Grand piano and tuba recorded at 'Dave and Mike's Mom's House Studio'.  Deborah's vocals recorded at Tyz studios  Heather's vocals recorded at 'Rusty Trombone Studios'.  Mixed at The Devlab, then Hipposonic A Studios.  Mastered at GreenJacket.  Photos taken at The Bloedel Conservatory, Vancouver.    Manufactured and Distributed by Plastic Head.  Under license from Century Media.  ℗ Century Media 2006. © Back On Black 2010.    "℗&©" doesn't appear on the release itself but is corrected here.    Limited to 1000 Copies.   |

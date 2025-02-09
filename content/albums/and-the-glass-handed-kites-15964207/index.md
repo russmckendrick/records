@@ -77,7 +77,7 @@ The Japanese bonus track, "Shiroi Kuchibiruno Izanai" is an alternate version of
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/And_the_Glass_Handed_Kites |
-| Format         | Vinyl 2× LP Record Store Day Limited Edition Numbered (Black & White Marbled, 180g) |
+| Format         | 2× Vinyl (Black & White Marbled, 180g) LP, Record Store Day, Limited Edition, Numbered |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2561 |
 | Notes | 15th anniversary expanded edition of 2500 copies  Gatefold sleeve with 12-page booklet with unseen pictures and liner notes by Michael Beinhorn  RSD 2020 drop 2 release |

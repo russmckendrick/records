@@ -68,7 +68,7 @@ The album included Del Amitri's most successful single, "Roll to Me", which reac
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Twisted_(Del_Amitri_album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | A&M Records |
 | Catalog Number | UMCLP069 |
 | Notes | Made in The E.U. |

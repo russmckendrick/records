@@ -70,7 +70,7 @@ The album was released by Virgin Records and Capitol Records in the United State
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sounds_of_the_Universe |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985337031 |
 | Notes | ℗ 2009 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2009, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh , Germany.  / LC 05834 88985337031  Gatefold sleeve. 180 gram. |

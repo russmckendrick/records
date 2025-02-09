@@ -77,7 +77,7 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Lemon_of_Pink |
-| Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
+| Format         | 1× Vinyl (Yellow w/ Pink Splatter) LP, Album, Club Edition, Limited Edition, Reissue, Remastered |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR181-VMP |
 | Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.  Record pressed on lemon-colored vinyl with hot pink splatter.  Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.  All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |

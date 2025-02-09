@@ -55,7 +55,7 @@ styles: ["Heavy Metal", "Hard Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Stereo |
+| Format         | 1× Vinyl LP, Compilation, Stereo |
 | Label          | Kastle Killers |
 | Catalog Number | KKLP 101 |
 | Notes | Courtesy of Heavy Metal Records (Track B1)  |

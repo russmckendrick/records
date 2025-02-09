@@ -66,7 +66,7 @@ The album was released in multiple formats: standard and High Res downloads, as 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Folklore_(Big_Big_Train_album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Plane Groovy |
 | Catalog Number | PLG044 |
 | Notes | Gatefold edition with two additional tracks to CD, Mudlark and Rivers of London, which both appear on the Wassail EP (2015). A limited number of copies sold through Burning Shed were autographed by the band on the inner booklet. |

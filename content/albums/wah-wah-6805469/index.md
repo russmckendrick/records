@@ -73,7 +73,7 @@ Critics were often divided in their reviews for Wah Wah, but were mostly positiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Wah_Wah_(album) |
-| Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Fontana |
 | Catalog Number | 0602547096432 |
 | Notes | Including voucher to download MP3 version of the album. |

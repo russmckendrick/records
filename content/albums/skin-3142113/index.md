@@ -57,7 +57,7 @@ styles: ["Hard Rock"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Celebrity_Skin |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 28869 1 4 |
 | Notes | Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |

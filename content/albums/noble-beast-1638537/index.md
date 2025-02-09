@@ -67,7 +67,7 @@ The track "Tenuousness" appears in the closing credits for the 2011 movie Crazy,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Noble_Beast |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Fat Possum Records |
 | Catalog Number | 1124-1 |
 | Notes | Lightweight paper disc sleeves have artwork on one side and track list and lyrics on the other. |

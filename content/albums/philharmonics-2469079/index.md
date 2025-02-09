@@ -55,7 +55,7 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASR 195 LP |
 | Notes | Runout parts "BA11341-01 A1 MK" and "BA11341-01 B2 MK" are stamped; the rest is etched. The track numbers are given sequentially on the release, 1 to 12. Recorded in Berlin 2004 - 2010.  ℗ & © 2010 Agnes Obel released under exclusive license by [PIAS] Recordings. [PIAS] Recordings is a label of the [PIAS] Entertainment Group. |

@@ -78,7 +78,7 @@ The album received generally positive reviews from critics, who praised the sing
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Insomniac_(Green_Day_album) |
-| Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched, All Media Deluxe Edition Limited Edition (25th Anniversary Edition) |
+| Format         | 1× Vinyl LP, Album, Reissue | 1× Vinyl LP, Single Sided, Etched | 1× All Media (25th Anniversary Edition) Deluxe Edition, Limited Edition |
 | Label          | Reprise Records |
 | Catalog Number | 093624884576 |
 | Notes | This release has center labels which indicate "Made in Czech Republic."  For the release with center labels which indicate "Made in Canada" instead, please refer to [r=21660517].  Packaged in rainbow foil cover Side C is a live recording from Prague in 1996. Etching of album cover on side D.  Reprise Records, A Warner Music Group Company.  777 S. Santa Fe Ave. Los Angeles, CA 90021; 1633 Broadway, New York, NY 10019-6708. © 2021 Reprise Records. ℗ 2016, 2020 Reprise Records. Made in Czech Republic.  Runouts are etched and stamped. |

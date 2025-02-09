@@ -55,7 +55,7 @@ styles: ["Pop Rock", "Goth Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation |
+| Format         | 1× Vinyl LP, Compilation |
 | Label          | Epic |
 | Catalog Number | 450872 1 |
 | Notes | Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.  Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover. |

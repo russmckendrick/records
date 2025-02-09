@@ -58,7 +58,7 @@ In 1997, Ivo van Hove directed a new production of the play at the New York Thea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/More_Stately_Mansions |
-| Format         | Vinyl LP Album (180), CD Album |
+| Format         | 1× Vinyl (180) LP, Album | 1× CD Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 035 |
 | Notes | including the entire album on CD |

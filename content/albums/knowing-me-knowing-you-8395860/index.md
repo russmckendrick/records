@@ -43,7 +43,7 @@ Alan went on to appear in two series of the sitcom I'm Alan Partridge, following
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series) |
-| Format         | Vinyl LP Limited Edition Picture Disc |
+| Format         | 1× Vinyl LP, Limited Edition, Picture Disc |
 | Label          | Demon Records |
 | Catalog Number | DEMREC138 |
 | Notes | RSD April 2016 release. |

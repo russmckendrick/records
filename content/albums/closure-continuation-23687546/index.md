@@ -53,7 +53,7 @@ The album debuted at number two on the UK Albums Chart and reached number one in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Closure/Continuation |
-| Format         | Vinyl 2× LP Album Limited Edition (Silver) |
+| Format         | 2× Vinyl (Silver) LP, Album, Limited Edition |
 | Label          | Music For Nations |
 | Catalog Number | 19439966391 |
 | Notes | Silver 180 gram, limited edition double 12-inch vinyl in wide spine sleeve — available exclusively in the U.K.  ℗ & © 2022 Sony Music Entertainment UK Ltd under exclusive licence from Porcupine 3 Ltd. Distributed by Sony Music Entertainment. Closure / Continuation Produced & performed by Porcupine Tree. Made in EU. BIEM / GEMA (LC)13989.  Hype sticker reads: "Porcupine Tree Closure / Continuation. Silver Vinyl. Cat #. 19439966391".  The catalogue number '19439966391' is printed on the hype sticker, while the cat# variation '19439956901' is printed on the vinyl labels. |

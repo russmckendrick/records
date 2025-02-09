@@ -55,7 +55,7 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Once_Upon_a_Time_(Simple_Minds_album) |
-| Format         | Vinyl LP Album Reissue (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue |
 | Label          | Virgin |
 | Catalog Number | 4722194 |
 | Notes | 180 Gram according to labels site: https://store.udiscovermusic.com/*/*/Once-Upon-A-Time/4VHL0000000  Made in EU. |

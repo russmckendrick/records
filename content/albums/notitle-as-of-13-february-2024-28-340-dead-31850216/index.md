@@ -61,7 +61,7 @@ styles: ["Post Rock", "Drone"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Stereo (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Stereo |
 | Label          | Constellation |
 | Catalog Number | CST183 |
 | Notes | In full-color printed gatefold sleeve. Discs come in full-color printed custom inner sleeves.   Comes with a download code for the tracks in mp3 format.   Recorded at Thee Mighty Hotel2Tango Winter of Bombs 2024.  Side D not titled on packaging but is a continuation of Grey Rubble - Green Shoots not present on the compact disc edition.  Tracks are listed sequentially regardless of side on inner panels of gatefold.   Track durations do not appear on the release.   Runouts are etched.   Lacquer cutting company/engineer, vinyl pressing company derived from runouts.  |

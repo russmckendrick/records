@@ -76,7 +76,7 @@ Two years earlier, on the group’s debut album, <i>Tweez</i>, the members of Sl
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Spiderland |
-| Format         | Vinyl LP Album Remastered Reissue (Gatefold, 180 Gram), DVD DVD-Video NTSC |
+| Format         | 1× Vinyl (Gatefold, 180 Gram) LP, Album, Remastered, Reissue | 1× DVD DVD-Video, NTSC |
 | Label          | Touch And Go |
 | Catalog Number | TG364lp |
 | Notes | Comes in a heavy weight “tip-on” gatefold LP jacket with a glued-in, large format 12 page booklet of photos and a foreword by Will Oldham.  Includes a MP3 download coupon for the remastered album itself, as well as 14 bonus outtakes and demos as originally featured in the [r5584658] Box Set.   © 1991-2014 slint music (bmi) © ℗ 1991-2014 touch and go records  Melody Maker reprint © IPC+ Syndication  "Spiderland" recorded Aug-Oct. '90.   |

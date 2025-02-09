@@ -55,7 +55,7 @@ Tones of Town is the second studio album by indie rock band Field Music. It was 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tones_of_Town |
-| Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
+| Format         | 1× Vinyl (Yellow) LP, Album, Limited Edition, Reissue |
 | Label          | Memphis Industries |
 | Catalog Number | MI074LPX |
 | Notes | Released for Record Store Day 2017.  Back on LP for the first time since its original pressing in 2007, on limited edition of 650 on  180g yellow vinyl.  Includes download code.  Recorded at Eight Music Studio / Sunderland. Mastered at Alchemy.  Published by Chrysalis Music. ℗ + © Memphis Industries Ltd 2006. |

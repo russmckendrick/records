@@ -74,7 +74,7 @@ This album was certified Gold by the RIAA on June 11, 2009. As of February 2015,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Were_Dead_Before_the_Ship_Even_Sank |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Epic |
 | Catalog Number | 82876 86139 1 |
 | Notes | 180 Gram Vinyl    Labels:  © ℗ 2006 Sony BMG Music Entertainment  Made in the EU  Sleeve:  © ℗ 2007 Sony BMG Music Entertainment    Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:    1 UNUM  2 DUO  3 TRIA  4 QUATTOR   |

@@ -67,7 +67,7 @@ It is also the band's first album to feature longtime touring partner and collab
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/IV_(BadBadNotGood_album) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Innovative Leisure Records |
 | Catalog Number | IL 2034 |
 | Notes | Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.  |

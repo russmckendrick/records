@@ -62,7 +62,7 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dream_into_Action |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | WEA |
 | Catalog Number | WX 15 |
 | Notes | Inner sleeve: lyrics, credits, artwork Some copies may have a sticker about contents on the sleeve front (see images).  LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.  ℗ & © 1985 WEA Records Ltd Manufactured in Germany by Record Service GmbH, Alsdorf.  UK only issue with no rights society credits on the labels.   |

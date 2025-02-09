@@ -52,7 +52,7 @@ It was the first Status Quo album on which drummer John Coghlan was credited wit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Hello!_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723763 |
 | Discogs URL    | [Status Quo - Hello!](https://www.discogs.com/release/7578510-Status-Quo-Hello) |

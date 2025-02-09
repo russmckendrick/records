@@ -58,7 +58,7 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Stone_(Baroness_album) |
-| Format         | Vinyl LP Album Limited Edition Stereo (Transparent Yellow) |
+| Format         | 1× Vinyl (Transparent Yellow) LP, Album, Limited Edition, Stereo |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN008-1 |
 | Notes | Limited edition of 500 copies, exclusive to Rough Trade.  Heavyweight printed inner sleeve inside of a gatefold sleeve with black flood and four panel lyric booklet.  Additional information found on barcode sticker: v15. YELLOWTRANS  Side B ends with a locked groove.  |

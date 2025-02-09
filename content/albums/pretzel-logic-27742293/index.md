@@ -60,7 +60,7 @@ And, boy—does the knife gleam on <i>Pretzel Logic</i>. Even the album’s comf
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pretzel_Logic |
-| Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Stereo |
 | Label          | Geffen Records |
 | Catalog Number | B0034986-01 |
 | Notes | Gatefold sleeve  Runouts: B0034986-01-A A 4/11/23 and B0034986-01-B B 4/10/23 etched. All else stamped. Runouts show a narrowed double A typical for a Arnie Acosta cut |

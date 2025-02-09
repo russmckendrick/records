@@ -60,7 +60,7 @@ Mobile Home is the second and final album by Longpigs, released in 1999 on U2's 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mobile_Home_(album) |
-| Format         | Vinyl LP Album Limited Edition Reissue Stereo (Signed Edition, Clear 180g) |
+| Format         | 1× Vinyl (Signed Edition, Clear 180g) LP, Album, Limited Edition, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC950X |
 | Notes | Clear vinyl. Limited to 1000 copies with print insert signed by Crispin Hunt  Hype sticker on the front of the signed print version is different to the standard, non-signed print version.   Hype sticker states: "Indies Exclusive Version Includes Print Signed By Crispin Hunt"  Rear sleeve includes a different barcode on a sticker stuck on the original shrink-wrap obscuring the sleeve printed barcode to distinguish it from the standard issue.  Hype sticker: DEMREC950X Sleeve/labels: DEMREC950 |

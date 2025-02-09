@@ -57,7 +57,7 @@ styles: ["Space Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1004 |
 | Notes | 180gm Heavy Weight Vinyl  Gatefold sleeve  Some copies come with Kscope promotional flyer. |

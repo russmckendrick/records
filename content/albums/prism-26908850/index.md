@@ -62,7 +62,7 @@ Prism is the seventeenth studio album by English ambient house duo the Orb. The 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Prism_(The_Orb_album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Citrus) |
+| Format         | 2× Vinyl (Citrus) LP, Album, Limited Edition |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP865X |
 | Notes | Limited edition citrus coloured vinyl  Cat# on hype sticker: COOKLP865X Cat# on sleeve and labels: COOKLP865  Additional credits: Sauces: King Michael (Johnson) Psychic Adviser: Youth Orb Concert Agent: Ian @ X Ray  The runouts are etched |

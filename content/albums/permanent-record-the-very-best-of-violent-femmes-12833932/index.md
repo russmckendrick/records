@@ -59,7 +59,7 @@ Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the s
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Reissue Remastered (Coke Bottle Clear) |
+| Format         | 2× Vinyl (Coke Bottle Clear) LP, Record Store Day, Compilation, Reissue, Remastered |
 | Label          | Craft Recordings |
 | Catalog Number | CR00140 |
 | Notes |  RSD Black Friday limited to 2500 copies, indie-retail exclusive. Gatefold sleeve. Printed inner sleeves.  Good Feeling (Live at Rhino) recorded live at Rhino, Los Angeles, CA, June 14, 2002.     ℗ & © 2005 Craft Recordings Made in U.S.A. |

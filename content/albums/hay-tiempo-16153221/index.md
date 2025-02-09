@@ -56,7 +56,7 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC729 |
 | Notes | In die cut sleeve, with die cut inner  From hype sticker: ¡Hay Tiempo! Britpop's Lost Album on vinyl for the very first time. 10 tracks pressed on 180g clear Vinyl  |

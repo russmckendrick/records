@@ -70,7 +70,7 @@ Powertrip is the fourth studio album by American rock band Monster Magnet, relea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Powertrip |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637661 |
 | Notes | Black vinyl. Printed inner sleeves.  Hype sticker on the shrink-wrap: MONSTER MAGNET OFFICIAL RE-ISSUE 2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN! "Swing's like God's Own Dick!" Includes sleeve-notes & bonus studio + remixed material Includes Free Album Download Code 00600753637661  Recorded at North Vine Studios and NRG Recording Services. Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA. Mastered at Precision Sound Studios, Los Angeles, CA.  All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)  Original Sound Recording Made by A&M Records Ltd.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company. Made in the EU. |

@@ -62,7 +62,7 @@ Going for the One received a mostly positive response from music critics who wel
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Going_for_the_One |
-| Format         | Vinyl LP Album Stereo (Specialty Records Pressing) |
+| Format         | 1× Vinyl (Specialty Records Pressing) LP, Album, Stereo |
 | Label          | Atlantic |
 | Catalog Number | SD 19106 |
 | Notes | Similar to [url=https://www.discogs.com/Yes-Going-For-The-One/release/7921043]this Specialty Records version[/url] by different lacquer cutting credits in runout.   Recorded at Mountain Studios, Montreux, Switzerland. Track B2 recorded at Eglise des Planches, Montreux, Switzerland. Church Organ recorded at St. Martin's Church, Vevey, Switzerland.   ℗ 1977 Atlantic Recording Company and Star/Right Co. All song published by Topographic Music ASCAP administered by WB Music Corp. Mfg. by Atlantic Recording Corp.  Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.  Runouts are etched, except for the SRC logo which is stamped. |

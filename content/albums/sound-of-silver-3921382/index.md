@@ -62,7 +62,7 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sound_of_Silver |
-| Format         | Vinyl 2× LP Album Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue |
 | Label          | DFA |
 | Catalog Number | dfaemi 2164lp |
 | Notes | 2012 Reissue. 180g vinyl.  Printed in UK    Packaging:    Gatefold cover double album. Includes a large poster.  Printed inner sleeves with pictures and lyrics.  Metalic silver embossed writing on the front cover.  Electrospective sticker on the shrink wrap. |

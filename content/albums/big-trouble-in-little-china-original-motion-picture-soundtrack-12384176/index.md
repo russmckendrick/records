@@ -68,7 +68,7 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Red With Light Yellow Splatter) |
+| Format         | 2× Vinyl (Red With Light Yellow Splatter) LP, Album, Reissue, Remastered |
 | Label          | Mondo (3) |
 | Catalog Number | MOND-124 |
 | Discogs URL    | [John Carpenter - Big Trouble In Little China (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12384176-John-Carpenter-In-Association-With-Alan-Howarth-Big-Trouble-In-Little-China-Original-Motion-Picture-) |

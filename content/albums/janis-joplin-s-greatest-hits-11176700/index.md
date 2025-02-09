@@ -57,7 +57,7 @@ Few white women knew the blues as well as Joplin, and this collection showcases 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Janis_Joplin%27s_Greatest_Hits |
-| Format         | Vinyl LP Compilation Reissue (Pink & Blue Splattered Clear) |
+| Format         | 1× Vinyl (Pink & Blue Splattered Clear) LP, Compilation, Reissue |
 | Label          | Columbia |
 | Catalog Number | 88985479731 |
 | Notes | THE CLASSIC GREATEST HITS SERIES FIRST TIME AVAILABLE ON VINYL IN 27 YEARS PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL  For Record Store Day's Black Friday 2017  Inc MP3 download |

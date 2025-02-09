@@ -56,7 +56,7 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grace_Under_Pressure_(Rush_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Remastered |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118271 |
 | Notes | Including a voucher to download an MP3 version of the album  Comes with 10x10 glossy lyric & credits insert  DMM (Direct Metal Mastering)  Made in the EU |

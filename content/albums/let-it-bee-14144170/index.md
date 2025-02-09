@@ -59,7 +59,7 @@ The group had their first top 40 hit single in the UK with "Don't Call Me Baby" 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Let_It_Bee |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | London Records |
 | Catalog Number | LONLP 57 |
 | Notes | Issued with a custom printed inner sleeve containing lyrics and credits. Some copies with hype sticker on front cover, reads,  Including  Don't Call Me Baby  I Say Nothing  I Walk The Earth  Beat Of Love  LONLP 57 |

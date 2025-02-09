@@ -57,7 +57,7 @@ Music critics gave People Move On generally favourable reviews, though some of t
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_Move_On |
-| Format         | Vinyl 2× LP Album Limited Edition (White 180g, Signed Print) |
+| Format         | 2× Vinyl (White 180g, Signed Print) LP, Album, Limited Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC943 |
 | Notes | This version has re-recorded vocals and new guitar overdubs recorded in 2021.   Independent shops edition includes a print signed by Bernard Butler (Catalogue Number DEMREC943X). |

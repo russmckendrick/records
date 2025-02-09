@@ -62,7 +62,7 @@ A 2 CD Expanded Edition of the album was released on 9 March 2009.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Expecting_to_Fly_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-51LP |
 | Notes | Includes download card |

@@ -87,7 +87,7 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Octane_Twisted |
-| Format         | Box Set Album Reissue, Vinyl 3× LP Stereo, Vinyl LP Single Sided Etched |
+| Format         | 1× Box Set Album, Reissue | 3× Vinyl LP, Stereo | 1× Vinyl LP, Single Sided, Etched |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM132LBX |
 | Notes | 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane  Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010   ℗ 2012 Porcupine Tree © 2012 Porcupine Tree Made in the EU |

@@ -59,7 +59,7 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Concord Records |
 | Catalog Number | CRE00209 |
 | Notes | Norah Jones appears courtesy of [l=Blue Note Records].  Includes a download code on a card. |

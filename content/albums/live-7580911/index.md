@@ -63,7 +63,7 @@ The album includes a typically extended version of "Forty Five Hundred Times". "
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live!_(Status_Quo_album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723768 |
 | Notes | Gatefold sleeve |

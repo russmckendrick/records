@@ -66,7 +66,7 @@ The only person who gets a guest verse on the effort is AZ (“Life’s a Bitch�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Illmatic |
-| Format         | Vinyl LP Album Limited Edition Reissue Repress (Red Transparent) |
+| Format         | 1× Vinyl (Red Transparent) LP, Album, Limited Edition, Reissue, Repress |
 | Label          | Columbia |
 | Catalog Number | 19658723181 |
 | Notes | National album day 2022 |

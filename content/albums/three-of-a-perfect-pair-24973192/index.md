@@ -62,7 +62,7 @@ Three of a Perfect Pair is the tenth studio album by English progressive rock ba
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Three_of_a_Perfect_Pair |
-| Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP10 |
 | Notes | Sticker on wrap reads as follows: KCLLP10 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale. All runouts etched |

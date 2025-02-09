@@ -61,7 +61,7 @@ The album was a critical success upon release, with several critics noting the a
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album) |
-| Format         | Vinyl LP Album Reissue Repress (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP043 |
 | Notes | Released with a blank inner sleeve with no lyrics. Pressed from the same masters as the original [url=http://www.discogs.com/release/396798]1992 European release[/url]. RL etched in the run-out side A.  Cat# on spine: MOVLP043 Cat#s on back cover: 472224 1 & MOVLP043  Cat# on labels: MOVLP043  [Sticker] Music On Vinyl Classic Album 180 gram audiophile vinyl pressing  [Back cover] Originally released ℗ & © 1992 Sony Music Entertainment […] This release 2009: manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment Made in the EU  [Labels] All tracks published by Retribution Music (BMI) except track 5 published by Sony/ATV Music Publishing Ltd.  Original Sound Recording Made By Sony Music Entertainment Inc. The Copyright In This Sound Recording Is Owned By Sony Music Entertainment Inc. |

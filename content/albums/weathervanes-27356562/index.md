@@ -98,7 +98,7 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Weathervanes_(Jason_Isbell_and_the_400_Unit_album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Light Blue Translucent ) |
+| Format         | 2× Vinyl (Light Blue Translucent ) LP, Album, Limited Edition |
 | Label          | Thirty Tigers |
 | Catalog Number | SER99961HMV |
 | Notes | Catalog Number SER99961HMV found on the sticker next to the barcode |

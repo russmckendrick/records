@@ -63,7 +63,7 @@ It was elected by PopMatters as the ninth best progressive rock/metal album of 2
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Common_Ground_(Big_Big_Train_album) |
-| Format         | Vinyl 2× LP Album Stereo (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Album, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG096 |
 | Notes | Packaged in a gatefold jacket with 2-page color printed insert and polylined LP sleeves. |

@@ -62,7 +62,7 @@ Space for the Earth is the fifteenth studio album by English progressive and psy
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Space_for_the_Earth |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1078 |
 | Notes | Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020. Comes with printed inner sleeve. Some copies come with ''Kscope'' marketing leaflet.  Sticker says: „Ozric Tentacles Space for the Earth 180g HEAVYWEIGT VINYL The new studio album featuring guest appearances from former members Joie Hinton, Nick van Gelder, Champignon and Paul Hankin. „This is space music for people from Earth to enjoy“ ED WYNNE ⓚscope 1078  kscopemusic.com“   ℗ 2020 Kscope © 2020 Kscope Made in the EU.  All runouts etched |

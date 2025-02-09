@@ -74,7 +74,7 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Modern_Life_Is_Rubbish |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Transparent, 180 Gram, Gatefold) |
+| Format         | 2× Vinyl (Orange Transparent, 180 Gram, Gatefold) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |
 | Notes | Hype sticker on shrinkwrap reports limited edition 30th anniversary orange vinyl. Limited to 5000 copies. Each LP comes in a printed inner sleeve with lyrics. Tracks are numbered sequentially on release. Runouts are etched. Released for National Album Day 2023 in the UK. |

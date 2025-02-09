@@ -61,7 +61,7 @@ Moon Safari was acclaimed by critics. It is credited with setting the stage for 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Moon_Safari |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Source |
 | Catalog Number | 7243 8 44978 1 1 |
 | Notes | Includes printed inner sleeve Besides being a different mastering, this issue has slightly different label and back cover design compared to the other [url=http://www.discogs.com/release/412038]European edition[/url]  Enregistré par Jean-Benoît Dunckel et Nicolas Godin au studio "Around the Golf" at par Stéphane "Alf" Briat au studio Gang (Paris, assisté de Jérôme Kerner) [Recorded by Jean-Benoît Dunckel and Nicolas Godin at "Around the Golf" and by Stéphane "Alf" Briat at Studio Gang (Paris, assisted by Jérôme Kerner.)]  Cordes enregistrées á Abbey Road Studios (Londres) [...]. [Strings recorded at Abbey Road Studios (London).]  Mixé [...] aux studios Plus XXX  (Paris [...]). [Mixed at Plus XXX Studios (Paris).] Masterisé [...] à The Exchange (Londres). [Mastering at The Exchange (London)]  Revolvair [Logo] MCA [Logo] Delabel Editions [Logo] Source [Logo] Virgin [Logo]  Editions pour la France & la Belgique : Revolvair / Delabel Editions sauf A3 & B3 Revolvair / Delabel Editions / Polygram Editions  Editions pour le reste du monde : Revolvair / MCA Publishing sauf A3 & B3 Revolvair / MCA Publishing / Polygram Editions  © 1998 Virgin France S.A.  (P) & (C) Source 1998  Printed in the EU.  Made in the EU. |

@@ -58,7 +58,7 @@ Ogdens' Nut Gone Flake is the third studio album, and only concept album by the 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ogdens%27_Nut_Gone_Flake |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Mono |
+| Format         | 1× Vinyl LP, Album, Record Store Day, Limited Edition, Reissue, Mono |
 | Label          | Charly Records |
 | Catalog Number | 101L |
 | Notes | This is the 2015 Record Store Day release.    Circular insert + Circular booklet housed in a barcode stickered flapped PVC sleeve with a black card backing insert.    Many of these LPs arrived at shops with split damaged PVC sleeves. |

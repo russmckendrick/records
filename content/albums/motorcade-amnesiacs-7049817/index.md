@@ -64,7 +64,7 @@ styles: ["Art Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE886 |
 | Notes | Side D is etched.  Comes with 4 page booklet with lyrics.  Black poly-lined inner sleeves. |

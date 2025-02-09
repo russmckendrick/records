@@ -65,7 +65,7 @@ In 2011, a two-disc version of the album was issued by Cherry Red Records, conta
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cure_for_Sanity |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | RCA |
 | Catalog Number | PL 74828 |
 | Notes | As per many of the original issues of this album, A7 is mislabelled '(Edited Highlights)' instead of '(Extra Time Mix)'.  Label: Flood courtesy of 140 dB ℗ 1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd Made in West Germany Fabrique en Allemagne   Cover: ℗1990 BMG Records (UK) Ltd The Copyright in this Sound Recording is Owned by BMG Records (UK) Ltd  ©1990 BMG Records (UK) Ltd  All Trade Marks and Logos are Protected RCA is a Registered Trademark of the Recording Corporation of America Distributed in the UK by BMG Records. Distribué en Europe par BMG-Ariola. Vertrieb in Europa durch BMG-Ariola. A Bertelsmann Music Group Company. Printed in West Germany. Imprime en Allemagne.  Matrix / Runout note: Side A - Stamped, except 020 and last 1 (which looks like an inverted V) - are etched Side B - Stamped, except 020 - is etched |

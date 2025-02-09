@@ -111,7 +111,7 @@ In 2020, the film was selected for preservation in the United States National Fi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(film) |
-| Format         | All Media Deluxe Edition (Bookpack, 25th Anniversary), Vinyl 2× LP Album Reissue Remastered (180g), CD Album Reissue Remastered, CD |
+| Format         | 1× All Media (Bookpack, 25th Anniversary) Deluxe Edition | 2× Vinyl (180g) LP, Album, Reissue, Remastered | 1× CD Album, Reissue, Remastered | 1× CD |
 | Label          | World Circuit |
 | Catalog Number | WCV050BOX |
 | Notes | From hype sticker: 25th Anniversary Edition 2CD + 2LP Bookpack Includes: The original album remastered by [...] on CD & 2LP CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2). 40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club 2x 12x12" Art Prints  Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks.   Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.  A World Circuit Production  ℗ & © 2021 World Circuit Limited, a BMG company.  Made in Czech Republic.   BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS |

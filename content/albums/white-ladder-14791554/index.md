@@ -68,7 +68,7 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/White_Ladder |
-| Format         | Vinyl 2× LP Album Reissue Remastered (White) |
+| Format         | 2× Vinyl (White) LP, Album, Reissue, Remastered |
 | Label          | IHT Records |
 | Catalog Number | IHTLP1910 |
 | Notes | To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release. |

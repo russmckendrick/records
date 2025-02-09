@@ -67,7 +67,7 @@ The album includes the song "Green-Tinted Sixties Mind".
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Lean_into_It |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Atlantic |
 | Catalog Number | 7567-82209-1 |
 | Notes | Released with a b/w printed inner sleeve, showing band photos, credits at one, lyrics and more credits on the other side.  Some releases are showing a red circled hype sticker on front.  Labels: Made in Germany by Warner Music Manufacturing Europe |

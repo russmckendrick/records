@@ -75,7 +75,7 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Definitely_Maybe |
-| Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g, Gatefold) |
+| Format         | 2× Vinyl (180g, Gatefold) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70 |
 | Notes | - 20th anniversary reissue - mat cover surface  On black round sticker on shrinkwrap (front cover): REMASTERED DOUBLE HEAVYWEIGHT VINYL INCLUDEs DOWNLOAD CODE FOR ALBUM, BONUS UNRELEASED TRACKS & RARITIES"  On rear cover: ℗ & © 2014 Big Brother Recordings Ltd.  Inside gatefold: Remastered in 2014 by Ian Cooper at Metropolis Mastering, London. |

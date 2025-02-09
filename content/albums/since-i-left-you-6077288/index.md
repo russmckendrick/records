@@ -68,7 +68,7 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Since_I_Left_You |
-| Format         | Vinyl 2× LP Reissue (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 138 |
 | Notes | This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.  -The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings" -The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode -The gatefold contains an extensive sample list on the right-hand panel -Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label -The gatefold spine is blue -The inner sleeves are black -The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels  Sample notes: -Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist"    FOOTNOTE The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing): "Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein. "Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture" "Radio" does not contain the "Johnny!" dialogue at the beginning "Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning |

@@ -61,7 +61,7 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Limited Edition, Stereo |
 | Label          | Plane Groovy |
 | Catalog Number | PLG081 |
 | Notes | Packaged in a single jacket with 2-page color insert and polylined LP sleeve.  Limited edition of 300 copies of which the first 60 were signed by the band. |

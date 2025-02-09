@@ -70,7 +70,7 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Legacy |
 | Catalog Number | 19075960431 |
 | Notes | Superb soundtrack to accompany the documentary being aired on BBC4 in November, chronicling the history of Country music |

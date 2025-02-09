@@ -65,7 +65,7 @@ In 2022, Greatest Hits was reissued for its 30th anniversary in a remastered dou
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(The_Police_album) |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Compilation, Reissue, Remastered |
 | Label          | Polydor |
 | Catalog Number | 455 692-5 |
 | Notes | "Made in Germany" sticker on rear shrink wrap.  Remastered at Abbey Road Studios.   On back cover:  [...] 2023 Vinyl Edition   Mastered And Cut [...] At Abbey Road Studios, London  Art Direction And Design [...] At Storey London Design  Photographs Courtesy Of [a1907359] And [a640446] [...]  Sting Is Managed By Cherrytree Management (Martin Kierszenbaum, Nicole Vangiesen And Meghan Johansson) Sting PR By Forge Ahead Media, Inc. (Tracy Bufferd), Dawbell (Stuart Bell)  Stewart Copeland And Andy Summers Are Managed By Tarquin Gotch At Very Serious Comedy LTD   All Songs Published By Songs Of Universal, Inc. (BMI)   Disc One  Side A Tracks 1, 2 & 3 ℗ 1978 Polydor Records, Track 4 ℗ 1979 Polydor Records Side B Tracks 1 & 2 ℗ 1979 Polydor Records, Tracks 3 & 4 1980 Polydor Records  Disc Two  Side A Tracks 1, 2 & 3 ℗ 1981 Polydor Records, Track 4 ℗ 1983 Polydor Records Side B Tracks 1, 2, 3 & 4 ℗ 1983 Polydor Records   This Compilation ℗ 2023 Polydor Ltd, (UK) © 2023 Polydor Ltd, (UK) [...] Made in The EU. Universal International Music B.V. 'S-Gravelandseweg 80, 1217 Hilversum, Netherlands. BIEM/SDRM [...]  |

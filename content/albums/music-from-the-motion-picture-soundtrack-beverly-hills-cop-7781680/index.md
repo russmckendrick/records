@@ -50,7 +50,7 @@ styles: ["Soundtrack", "Soft Rock", "Synth-pop", "Contemporary R&B"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue |
+| Format         | 1× Vinyl LP, Compilation, Reissue |
 | Label          | Geffen Records |
 | Catalog Number | B0023070-01 |
 | Notes | On back cover:  Shalamar - Don't Get Stopped In Beverly Hills [...] Courtesy of Solar Records; [...] Junior - Do You Really (Want My Love?) [...] Courtesy of London Records [...] Pointer Sisters - Neutron Dance [...] Courtesy of Planet Records] [...] The System - Rock 'N Roll Me Again [...] Courtesy of Mirage Records.  © 1984 Paramount Pictures Corporation ℗ 1984 © 2015 Geffen Records  Contains additional songs that were not in the film  Copyright © MCMLXXXIV By Paramount Pictures Corporation.   On labels:  ℗ 1984 © 2015 Geffen Records  Geffen [logo] UMe [logo] - A Universal Music Company   |

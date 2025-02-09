@@ -125,7 +125,7 @@ styles: ["Rhythm & Blues"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 7× LP Compilation Reissue Remastered Mono, Box Set |
+| Format         | 7× Vinyl LP, Compilation, Reissue, Remastered, Mono | 1× Box Set |
 | Label          | Rhino Records (2) |
 | Catalog Number | 008122794568 |
 | Discogs URL    | [Ray Charles - The Atlantic Years - In Mono](https://www.discogs.com/release/9092544-Ray-Charles-The-Atlantic-Years-In-Mono) |

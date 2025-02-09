@@ -78,7 +78,7 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/New_Adventures_in_Hi-Fi |
-| Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary ) |
+| Format         | 2× Vinyl (25th Anniversary ) LP, Album, Reissue, Remastered |
 | Label          | Craft Recordings |
 | Catalog Number | 888072245457 |
 | Notes | 25th Anniversary Edition.  ℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.  Made in the EU.  Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |

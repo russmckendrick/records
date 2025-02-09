@@ -56,7 +56,7 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Grievous_Angel |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Reprise Records |
 | Catalog Number | R1-2171 |
 | Notes | ℗ & © 1974 Warner Bros. Records Inc   Manufactured in the EU.  |

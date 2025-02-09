@@ -67,7 +67,7 @@ styles: ["New Wave", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Compilation Special Edition Stereo |
+| Format         | 1× Vinyl (Blue) LP | 1× Vinyl (Red) LP | 1× All Media Compilation, Special Edition, Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725327 |
 | Notes | 50 Years of De-Evolution in 25 Tracks  Special Edition blue and red vinyl edition.  Only available at retail stores.  |

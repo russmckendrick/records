@@ -56,7 +56,7 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× 12" EP Compilation Limited Edition Numbered Reissue |
+| Format         | 2× Vinyl 12", EP, Compilation, Limited Edition, Numbered, Reissue |
 | Label          | Not On Label (Amplifier (3) Self-released) |
 | Catalog Number | none |
 | Notes | Limited to 500 hand-numbered copies. Comes with a full size 6-page booklet and some are signed by the band. |

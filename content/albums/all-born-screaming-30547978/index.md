@@ -76,7 +76,7 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/All_Born_Screaming |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Total Pleasure Records |
 | Catalog Number | 00196922801839 |
 | Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list.   Made in Germany. |

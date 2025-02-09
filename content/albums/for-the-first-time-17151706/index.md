@@ -71,7 +71,7 @@ The album received widespread acclaim from music critics for its experimental so
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/For_the_First_Time_(Black_Country,_New_Road_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN269 |
 | Notes | 140 gram single LP w/ white paper inner sleeve and 12 inch lyric booklet. Also comes with download code stickered on inner sleeve. |

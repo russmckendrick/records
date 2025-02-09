@@ -66,7 +66,7 @@ Pink Floyd’s remarkable, unparalleled career is given a single album overview.
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Reissue Remastered Stereo (180g) |
+| Format         | 2× Vinyl (180g) LP, Compilation, Reissue, Remastered, Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP21 |
 | Notes | The album package comes in a gatefold outer sleeve, with two separate printed inner bags, and is pressed on heavyweight 180 gram vinyl.    Made in the EU.  ℗ 2016 The copyright in this compilation is owned by Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. © 2016 Pink Floyd Music Ltd. / Pink Floyd (1987) Ltd., marketed and distributed by Sony Music Entertainment. Tracks 1-10 13-16 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd. Tracks 11 & 12 ℗ 2016 The copyright in this sound recording is owned by Pink Floyd (1987) Ltd. marketed and distributed by Sony Music Entertainment/25 Madison Avenue, New York, NY 10010 |

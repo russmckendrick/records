@@ -60,7 +60,7 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/GP_(album) |
-| Format         | Vinyl LP Album Reissue (180g, Gatefold) |
+| Format         | 1× Vinyl (180g, Gatefold) LP, Album, Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 8122795953 |
 | Notes | ℗ & © 1973 Warner Bros. Records Inc. Manufactured in the EU.   First cat.# on spine & label rimtext; second cat.# on labels. Rick Grech is misspelled as Rik Grech on cover, but not on label.  Runouts are etched, except '99509 1A/B' that are stamped. |

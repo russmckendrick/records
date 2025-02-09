@@ -75,7 +75,7 @@ The album features the band's biggest hit, "Womankind", which peaked at no. 12 d
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Jam_(album) |
-| Format         | Vinyl LP Album, Vinyl 10" 33 ⅓ RPM |
+| Format         | 1× Vinyl LP, Album | 1× Vinyl 10", 33 ⅓ RPM |
 | Label          | Polydor |
 | Catalog Number | 517 676-1 |
 | Notes | Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK) |

@@ -66,7 +66,7 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue (Gold) |
+| Format         | 2× Vinyl (Gold) LP, Album, Compilation, Limited Edition, Reissue |
 | Label          | Slash |
 | Catalog Number | 190295233174 |
 | Notes | Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany. |

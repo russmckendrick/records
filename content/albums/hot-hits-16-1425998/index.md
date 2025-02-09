@@ -52,7 +52,7 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Stereo |
+| Format         | 1× Vinyl LP, Stereo |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50056 |
 | Notes | Album consists of various unaccredited session artists recreating the hits of the day.  ℗ 1973  BWD Productions  A BWD Production  Made in England.      |

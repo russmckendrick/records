@@ -58,7 +58,7 @@ styles: ["Downtempo"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Don%27t_Know_(Fiestar_song) |
-| Format         | Vinyl LP Album Limited Edition (White Marble) |
+| Format         | 1× Vinyl (White Marble) LP, Album, Limited Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT156LPX |
 | Notes | Gatefold sleeve  Includes MP3 download  Hype sticker: ROCKACT156LPX Sleeve: ROCKACT156LP  nb: 200 hand signed copies on the sleeve were available from band online webshop |

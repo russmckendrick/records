@@ -64,7 +64,7 @@ This is also the only Ride album on which Andy Bell's vocal duties outweigh thos
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tarantula_(Ride_album) |
-| Format         | Vinyl LP Album Limited Edition Reissue |
+| Format         | 1× Vinyl LP, Album, Limited Edition, Reissue |
 | Label          | Wichita |
 | Catalog Number | WEBB577LP |
 | Notes | Hype sticker states orange vinyl. Due to an error at the pressing plant, all preorders were pressed on black vinyl.   Tracks numbered sequentailly across both sides.  Includes full album download with three bonus tracks. |

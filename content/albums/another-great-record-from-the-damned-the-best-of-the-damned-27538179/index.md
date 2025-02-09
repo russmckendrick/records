@@ -54,7 +54,7 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Reissue Stereo |
+| Format         | 1× Vinyl LP, Compilation, Reissue, Stereo |
 | Label          | Ace |
 | Catalog Number | DAM 1 |
 | Notes | Issued in an unlaminated sleeve. Top opening picture inner sleeve with a light gloss finish. Package came shrink-wrapped.  ℗&© 2023 Ace Records Ltd.  Runouts are laser etched. |

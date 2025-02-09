@@ -59,7 +59,7 @@ Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Devil%27s_Night_Out |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! #44 |
 | Notes | Engineered at the Fort Apache Boston  Issued with a lyric sheet |

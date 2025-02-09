@@ -54,7 +54,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Blue Note |
 | Catalog Number | B002872101 |
 | Notes | Single pocket sleeve with double-sided insert with photo and album credits. |

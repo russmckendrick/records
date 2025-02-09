@@ -58,7 +58,7 @@ Tubeway Army is the debut studio album by the English new wave band Tubeway Army
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tubeway_Army_(album) |
-| Format         | Vinyl LP Album Reissue Stereo (Blue Marbled) |
+| Format         | 1× Vinyl (Blue Marbled) LP, Album, Reissue, Stereo |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2262 LP |
 | Notes | Re-issue of original 1978 release on blue marbled vinyl.  Comes with a monochrome printed inner sleeve that has lyrics, some credits and an image of Gary Numan. Hype sticker on shrink-wrap front for 'Marbled Blue' and a barcode sticker on the shrink-wrap back placed to obscure the barcode on the sleeve back.  [Sleeve back] Special thanks to Mike Kemp. Recorded at Spaceward  [Inner sleeve] All lyrics by Gary Numan Published by Universal Music Publishing Ltd. © 1978 Beggars Banquet ℗ 1978 Beggars Banquet  [From labels] All songs by Gary Numan Universal Music Publishing Ltd.  [Hype sticker] Pressed on marbled blue vinyl The 1978 self-titled debur album from Gary Numan's Tubeway Army  Catalogue numbers: BBQ 2262 LP on spine & labels. bbq 2262 lp on sleeve back bbq 2262 lp2 on barcode sticker.  Runouts are etched, with the MPO logo and the following stamper numbers in the format ## ##### being laser etched. |

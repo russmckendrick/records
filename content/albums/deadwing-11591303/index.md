@@ -74,7 +74,7 @@ In 2017, Kscope Records purchased the album as well as the previous album In Abs
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Deadwing |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
+| Format         | 2× Vinyl (Clear) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Kscope |
 | Catalog Number | KSCOPE982 |
 | Notes | Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves.  |

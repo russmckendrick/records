@@ -61,7 +61,7 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Central_Reservation_(album) |
-| Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Red [Pillar Box]) |
+| Format         | 2× Vinyl (Red [Pillar Box]) LP, Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Sony Music |
 | Catalog Number | 19439 95678 1 |
 | Notes | Released for Record Store Day 2022 on Pillar Box Red Vinyl   |

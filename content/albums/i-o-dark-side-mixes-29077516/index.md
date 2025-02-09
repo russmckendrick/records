@@ -81,7 +81,7 @@ styles: ["Art Rock", "Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album |
 | Label          | Real World Records |
 | Catalog Number | PGLPX21 |
 | Notes | Comes with a blue OBI strip, a 12'' booklet and a card with a download code.   Runouts are all etched besides the hyphens and the Pallas cat# which are stamped.  Cover sleeves have blue coloring on inside.  Inner record sleeves are poly-lined black white paper  Made In Germany sticker affixed to shrink wrap on back cover.  |

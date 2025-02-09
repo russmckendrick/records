@@ -53,7 +53,7 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Not On Label (Henge (3) Self-released) |
 | Catalog Number | Henge03LP |
 | Discogs URL    | [Henge (3) - Alpha Test 4](https://www.discogs.com/release/26842730-Henge-3-Alpha-Test-4) |

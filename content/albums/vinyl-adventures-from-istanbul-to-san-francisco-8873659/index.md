@@ -67,7 +67,7 @@ Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Tim_Book_Two:_Vinyl_Adventures_from_Istanbul_to_San_Francisco |
-| Format         | Vinyl 2× LP Compilation Limited Edition (White) |
+| Format         | 2× Vinyl (White) LP, Compilation, Limited Edition |
 | Label          | O Genesis |
 | Catalog Number | OGEN62LP |
 | Notes | Signed copies were available from recordstore.co.uk  Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’.  |

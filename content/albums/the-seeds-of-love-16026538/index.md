@@ -60,7 +60,7 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Seeds_of_Love |
-| Format         | Vinyl LP Album Reissue (Gatefold, 180G) |
+| Format         | 1× Vinyl (Gatefold, 180G) LP, Album, Reissue |
 | Label          | Fontana |
 | Catalog Number | 4770716 |
 | Notes | 2020 Reissue in a high gloss gatefold sleeve with lyrics printed on the inside and a plain sky blue inner sleeve. Some copies include a "The Sound of Vinyl" download code card.  National Album Day (NAD) 2020 Release in UK.  This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited. Made in Germany. 0602547707161  This compilation ℗ 2020 Mercury Records Limited. © 2020 Mercury records Limited. Universal International Music B.V. Gerrit Van Der  Veenlaan 4, 3743 DN, Baran, Netherlands Made in EU. 0602547707161 (Variant 6)  On inner sleeve “ Lead Guiatr ” for tracks B3  “Vocal” credits for Curt Smith and Roland Orzabal are not specified on this release  Small 4770716 on the bottom of the one side of the inner sleeve  Mixed in SuperBascombeVision.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”), and the entire Optimal character string is mirrored (e.g., “1△” vs “△↾”). |

@@ -65,7 +65,7 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everyone_into_Position |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Splatter Yellow) |
+| Format         | 2× Vinyl (Splatter Yellow) LP, Album, Limited Edition, Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 LP2 |
 | Notes | Hype sticker says Limited Edition Vinyl Pressing Splatter Yellow but it is acutally Translucent Yellow with Green, Red and White Splatter.   Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.  ℗ 2005 Beggars Banquet Records Ltd © 2005 Beggars Banquet Records Ltd |

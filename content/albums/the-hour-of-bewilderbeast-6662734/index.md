@@ -67,7 +67,7 @@ The Hour of Bewilderbeast is the debut studio album by British musician Badly Dr
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Hour_of_Bewilderbeast |
-| Format         | Vinyl LP Reissue |
+| Format         | 1× Vinyl LP, Reissue |
 | Label          | Twisted Nerve |
 | Catalog Number | TNXLLP133 |
 | Notes | ℗ & © 2000 XL Recordings Ltd. The copyright in this recording is owned by XL Recordings Ltd. "Made In the EU" below barcode on reverse side. All tracks written and produced by Damon Gough A.K.A. Badly Drawn Boy Other original photography by Dom Thomas, Hayley Slater-King and the Gough Family Ian Smith, Matt McGeever, Sam Morris and Sean Kelly from the band [a16376] and Joe Robinson and Ian Rainford from [a41656] appear courtesy of Twisted Nerve Records. Jez Williams, Jimmy Goodwin and Andy Williams from the band [a3855] appear courtesy of Heavenly Records.  Initial copies of this had Woody Allen in the top left circle of the album sleeve, but were removed in later editions.  Taja Sevelle complained that the lyrics of Magic In The Air were too similar to her single, Love Is Contagious and sections of the vocal were removed on later editions.    |

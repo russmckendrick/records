@@ -70,7 +70,7 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP (Blue), Vinyl LP (Transparent), All Media Compilation Limited Edition Reissue |
+| Format         | 1× Vinyl (Blue) LP | 1× Vinyl (Transparent) LP | 1× All Media Compilation, Limited Edition, Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 00602435639901 |
 | Notes | Limited Edition - Exclusive Transparent Blue & Clear Vinyl  First Time on Vinyl  Manufactured in the E.U. |

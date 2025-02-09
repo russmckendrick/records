@@ -68,7 +68,7 @@ styles: ["Synth-pop", "Indie Pop", "Alternative Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Blue & Yellow Marbled) |
+| Format         | 2× Vinyl (Blue & Yellow Marbled) LP, Record Store Day, Compilation, Limited Edition, Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC985 |
 | Notes | 180g   Japanese compilation album originally released in 1993 on cd only, includes a collection of rarities and remixes that are not found on any of the bands studio albums.  Exclusives to the Record Store Day release includes the previously unreleased "Right Here Right Now (CJM Mix)".   ℗ & © 2022 RT Industries, under license to Demon Music Group Ltd. Except track D3 ℗ & © Jesus Jones Recordings.  |

@@ -55,7 +55,7 @@ styles: ["Pop Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Warner Music New Zealand |
 | Catalog Number | CAT 5419711037 |
 | Notes | "Changes Are" contains a shade of "Spellbound" ([m=81206] 1975) "Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976) "Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978) "Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975) "Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)  Runouts are etched. 1| is mirrored. |

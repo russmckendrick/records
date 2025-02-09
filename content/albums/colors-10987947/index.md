@@ -61,7 +61,7 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Colors_(Beck_album) |
-| Format         | Vinyl LP Album (Red) |
+| Format         | 1× Vinyl (Red) LP, Album |
 | Label          | Fonograf Records |
 | Catalog Number | 00602557176803 |
 | Notes | Inc Download card with Exp date 10/13/19 12" x 12" Folded Lyric Insert |

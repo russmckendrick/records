@@ -55,7 +55,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition (Red Vinyl) |
+| Format         | 1× Vinyl (Red Vinyl) LP, Limited Edition |
 | Label          | Milkbone |
 | Catalog Number | Milkbone001 |
 | Notes | Limited 140g red vinyl edition (featuring original artwork by Matt Berry). Limited to 200 copies.  Milkbone is a group comprising Phil Scragg (Robert Plant, Cobalt Chapel) on bass, guitar, and keyboards, Matt Berry on keyboards and acoustic guitar, and James Sedge on drums.  A true labour of love, the trio's magical 2021 debut offers an inspired evocation of the classic early 1970s Canterbury sound fused with elements of Electronic and Fusion music (with echoes of peak period Soft Machine, Weather Report, Jean-Michel Jarre, Terry Riley, Robert Wyatt and more).  Graham Mann (trombone/percussion) and Cecilia Fage (vocals) guest.  The runouts appear to be different to the labels with Side A's runout containing a "B" and vice versa. |

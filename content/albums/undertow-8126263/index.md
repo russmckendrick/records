@@ -60,7 +60,7 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Undertow_(Tool_album) |
-| Format         | Vinyl 2× LP Album Reissue |
+| Format         | 2× Vinyl LP, Album, Reissue |
 | Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |
 | Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment.  |

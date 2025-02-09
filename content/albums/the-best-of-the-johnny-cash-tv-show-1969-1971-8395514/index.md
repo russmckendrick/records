@@ -59,7 +59,7 @@ styles: ["Country"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Record Store Day Compilation |
+| Format         | 1× Vinyl LP, Record Store Day, Compilation |
 | Label          | Columbia |
 | Catalog Number | 88875195531 |
 | Notes | Record Store Day Sticker on front:               'A' STUNNING MUSICAL       MOMENTS - Entertainment Weekly  TO CASH IT WAS ALL JUST GREAT AMERICAN MUSIC,    AND HE BROUGHT IT      ALL BACK HOME.        - Rolling Stone  Johnny with many special Guests!    (See back for guest details)  Available for the first time on VINYL!              88875195531S1  Limited to 5000 units. |

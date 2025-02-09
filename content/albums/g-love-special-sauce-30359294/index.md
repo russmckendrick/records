@@ -62,7 +62,7 @@ styles: ["Indie Pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Record Store Day Reissue (Light Blue) |
+| Format         | 2× Vinyl (Light Blue) LP, Album, Record Store Day, Reissue |
 | Label          | Epic-Legacy |
 | Catalog Number | 19658848991 |
 | Notes | ℗ 1994 & ©1994, 2024 Epic Records  RSD 2024 release   Made in the EU. |

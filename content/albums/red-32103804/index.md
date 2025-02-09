@@ -62,7 +62,7 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Red_(King_Crimson_album) |
-| Format         | Vinyl LP Reissue Stereo (200 Gram), Vinyl LP Stereo (200 Gram), All Media Album (50th Anniversary Edition) |
+| Format         | 1× Vinyl (200 Gram) LP, Reissue, Stereo | 1× Vinyl (200 Gram) LP, Stereo | 1× All Media (50th Anniversary Edition) Album |
 | Label          | Panegyric |
 | Catalog Number | KCLPX2024 |
 | Notes | Hype sticker: KCLPX2024 (2 LP set) 50th anniversary edition of the 1974 classic, featuring a new 2024 mix by Steven Wilson and an album of Elemental mixes by David Singleton - all mixes approved by Robert Fripp. 200-gram super-heavyweight vinyl.  ℗ & © 2023 Robert Fripp. Made in England.  Runouts are etched. |

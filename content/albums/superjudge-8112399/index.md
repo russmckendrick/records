@@ -72,7 +72,7 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Superjudge |
-| Format         | Vinyl 2× LP Album Reissue Remastered |
+| Format         | 2× Vinyl LP, Album, Reissue, Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642450 |
 | Notes |  Black vinyl. Includes sleeve-notes & bonus tracks + cover material.     Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |

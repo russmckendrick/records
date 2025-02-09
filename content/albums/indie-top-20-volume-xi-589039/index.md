@@ -66,7 +66,7 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation |
+| Format         | 2× Vinyl LP, Compilation |
 | Label          | Beechwood Music |
 | Catalog Number | TT011 |
 | Notes | C5 is listed as "Oxygen Restriction" but it is actually "Oxygen Reprise V2.0". |

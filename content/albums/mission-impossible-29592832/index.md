@@ -47,7 +47,7 @@ styles: ["Acid Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" Mini-Album (Red Coloured) |
+| Format         | 1× Vinyl (Red Coloured) 12", Mini-Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP292R |
 | Notes | Limited Edition Red Vinyl LP reissued as part of the Acid Jazz label’s 35th Anniversary celebrations   |

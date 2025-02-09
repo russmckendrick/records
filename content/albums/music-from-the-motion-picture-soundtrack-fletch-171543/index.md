@@ -51,7 +51,7 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | MCA Records |
 | Catalog Number | 252 332-1 |
 | Notes | Manufactured in Germany by Record Service GmbH, Alsdorf.  ℗ 1985 MCA Records, Inc., except * [tracks A4 + B2] ℗ 1984 MCA Records, Inc.  There is a Warner "Big W" logo embossed on the bottom right of the back cover. |

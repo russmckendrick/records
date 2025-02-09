@@ -74,7 +74,7 @@ A decade after releasing his first solo album, Frank Turner gathers his favourit
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Great_American_Songbook |
-| Format         | Vinyl 3× LP Compilation |
+| Format         | 3× Vinyl LP, Compilation |
 | Label          | Xtra Mile Recordings |
 | Catalog Number | 6700056 |
 | Notes |   |

@@ -61,7 +61,7 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Blue/Black Split) |
+| Format         | 1× Vinyl (Blue/Black Split) LP, Album, Limited Edition, Reissue |
 | Label          | Fire Records |
 | Catalog Number | FROST003LP |
 | Notes | De Laurentiis Music-ASCAP except: - B1.a: Vogue Music c/o The Welk Music Group (BMI) ℗ 1951 Vogue Music Corp. - B4: W & K Publishing Corp. & Islip Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B5: Acuff Rose & Opryland Music (BMI). Courtesy of Monument Record Corporation ℗ 1963 Monument Record Corp. - B6: Famous Music Corp. (ASCAP). Courtesy of Dominion Entertainment, Inc. ℗ 1986 Dominion Entertainment, Inc.  Manufactured by Varèse Sarabande Records, Inc. at KM Records. ℗ © 1986 Dino De Laurentiis Corporation. |

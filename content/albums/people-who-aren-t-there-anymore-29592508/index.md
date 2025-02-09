@@ -65,7 +65,7 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/People_Who_Aren%27t_There_Anymore |
-| Format         | Vinyl LP Album (Transparent) |
+| Format         | 1× Vinyl (Transparent) LP, Album |
 | Label          | 4AD |
 | Catalog Number | 4AD0621LPE |
 | Notes | Indie store exclusive transparent coloured vinyl  Tracks are listed sequentially on the back cover |

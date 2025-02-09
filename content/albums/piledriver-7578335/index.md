@@ -50,7 +50,7 @@ Piledriver is the fifth studio album by the English rock band Status Quo, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Piledriver_(album) |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723762 |
 | Notes | Gatefold sleeve  |

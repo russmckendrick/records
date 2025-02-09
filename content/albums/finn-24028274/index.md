@@ -76,7 +76,7 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Finn_Brothers |
-| Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Compilation Deluxe Edition Stereo |
+| Format         | Vinyl LP, Album, Reissue | Vinyl LP | All Media Compilation, Deluxe Edition, Stereo |
 | Label          | [{'name': 'Needle Mythology', 'catno': ''}] |
 | Catalog Number | NEMYLP006 |
 | Notes | Recorded & mixed at York St. Studios, Auckland, New Zealand, November '94 & March '95.  This compilation ℗ and © 2022 Lester Records Limited | Periscope Live Ltd. under exclusive license to Needle Mythology Ltd.  Initial quantity from artist website included a cover print signed by Neil and Tim Finn.  Track D6 is unlisted. Title for track taken from [r18754873]. |

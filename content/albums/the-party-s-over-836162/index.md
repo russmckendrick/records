@@ -58,7 +58,7 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Party%27s_Over_(Talk_Talk_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3413 |
 | Notes | First issue, with textured outer sleeve. Includes a heavy paper printed inner sleeve with lyrics. Durations do not appear on release.  Labels: ℗1982 Original sound recordings made by EMI Records Ltd. Island Music Ltd. Manufactured in the UK by EMI Records Limited.  Insert: Lyrics reproduced by kind permission Island Music Publishing Ltd. © 1982  Sleeve: EMC 3413 OC 062-07 646 Available on cassette ✽  ℗ 1982 Original sound recordings made by EMI Records Ltd.  EMI Records Ltd. Hayes - Middlesex - England. SP 8207 RS |

@@ -71,7 +71,7 @@ The Question is an album by the Slackers. It was released on November 20, 1998 (
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Question_(The_Slackers_album) |
-| Format         | Vinyl 2× LP Album Reissue Stereo (25th Anniversary Edition) |
+| Format         | 2× Vinyl (25th Anniversary Edition) LP, Album, Reissue, Stereo |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR345 |
 | Discogs URL    | [The Slackers - The Question](https://www.discogs.com/release/26790146-The-Slackers-The-Question) |

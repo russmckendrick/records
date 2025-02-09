@@ -65,7 +65,7 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation Stereo |
+| Format         | 2× Vinyl LP, Compilation, Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMRECOMP004 |
 | Notes | Demon Records presents Indie Anthems – 20 Alternative Classics across 2 LPs featuring essential tracks from The Stone Roses, Radiohead, Primal Scream, Kasabian & many more.  Presented in a slick gatefold sleeve with original artwork and 2 x 180g heavyweight vinyl, this is the definitive indie compilation packed with generation defining anthems. Indie Anthems is available exclusively on vinyl.  Altough it's not credited, "Fools Gold" included here is a shorter 7'' edit. |

@@ -54,7 +54,7 @@ The album entered the UK Albums Chart at number one. All tracks were written or 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/On_the_Level |
-| Format         | Vinyl LP Album Reissue |
+| Format         | 1× Vinyl LP, Album, Reissue |
 | Label          | Vertigo |
 | Catalog Number | 4723765 |
 | Notes | Gatefold sleeve |

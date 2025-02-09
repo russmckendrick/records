@@ -74,7 +74,7 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Album Limited Edition (Clear, 180g) |
+| Format         | 3× Vinyl (Clear, 180g) LP, Album, Limited Edition |
 | Label          | Live Here Now |
 | Catalog Number | LHN018LP |
 | Notes | Released in a three panel gatefold sleeve with printed inner sleeves, triple clear heavy vinyl (180g).  According to the release website, recorded at the band's second gig at Brixton Academy in November 2015 (17/11/2015). NOMC15 is captured by live show recording experts Live Here Now.  The original 2017 pressing was exclusively sold by [l327325] where fans could "pledge" an amount to make the album happen. A limited repress of 450 copies was issued August 2020 to support the New Order crew and sold through the [l64260] online shop. There are no discernable differences between the two pressings.  ℗ & © 2017 New Order Limited under exclusive license to Live Here Now Limited. |

@@ -62,7 +62,7 @@ Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 202
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Raum_(album) |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1019 |
 | Notes | Release issued in gatefold sleeve with printed inner sleeves.   Notes from black-orange hype sticker: "THE NEW STUDIO ALBUM - 2LP SET The band's second studio album since the passing of Edgar Froese in 2015.  With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream. KSCOPE1019"  ℗ 2022 eastgate music & arts © 2022 eastgate music & arts  All Runouts are etched. |

@@ -49,7 +49,7 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
+| Format         | 1× Vinyl 12", 45 RPM, EP, Record Store Day, Limited Edition, Reissue, Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT491EP |
 | Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock |

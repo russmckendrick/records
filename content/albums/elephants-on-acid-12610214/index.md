@@ -99,7 +99,7 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Elephants_on_Acid |
-| Format         | Vinyl 2× LP 45 RPM Album, CD Album |
+| Format         | 2× Vinyl LP, 45 RPM, Album | 1× CD Album |
 | Label          | BMG |
 | Catalog Number | 538415541 |
 | Notes | Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve |

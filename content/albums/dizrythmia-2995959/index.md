@@ -63,7 +63,7 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dizrythmia |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1145 |
 | Notes | Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1.  |

@@ -57,7 +57,7 @@ Two years after their triumphant comeback album, <i>Evergreen</i>, Echo & The Bu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Reissue (Rust) |
+| Format         | 1× Vinyl (Rust) LP, Album, Limited Edition, Reissue |
 | Label          | London Records |
 | Catalog Number | LMS1725285 |
 | Notes | 25th Anniversary Edition on Rust colour Vinyl limited to 1000 copies worldwide. Rust Orange Vinyl.  Barcode label on shrink wrap covers barcode printed on album cover.  Printed disk labels specify LMS1725111 as do matrix runouts |

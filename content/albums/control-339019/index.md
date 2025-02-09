@@ -62,7 +62,7 @@ Control went on to receive several accolades, including a nomination for the Gra
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMA 5106 |
 | Notes | ℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve) © 1986 A & M Records Inc. (back cover, inner sleeve)  Issued with a custom printed inner sleeve containing credits.  'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)  'Made in England' (labels)  'Printed in England' (spine)  Runouts are stamped except "JA" which is etched. |

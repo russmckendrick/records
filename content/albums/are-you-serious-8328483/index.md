@@ -69,7 +69,7 @@ Are You Serious is the tenth solo studio album by Andrew Bird, released on April
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Are_You_Serious_(Andrew_Bird_album) |
-| Format         | Vinyl LP Album Deluxe Edition (Blue, 180g), Vinyl 7" Single (Red) |
+| Format         | 1× Vinyl (Blue, 180g) LP, Album, Deluxe Edition | 1× Vinyl (Red) 7", Single |
 | Label          | Loma Vista |
 | Catalog Number | LVR-39052-01 |
 | Notes | Deluxe edition. Includes bonus red colored 7" single, insert with lyrics and download card. |

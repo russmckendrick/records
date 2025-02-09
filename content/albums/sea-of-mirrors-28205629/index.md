@@ -63,7 +63,7 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sea_of_Mirrors |
-| Format         | Vinyl LP Album Limited Edition (Tricolour Marble, Gatefold), Flexi-disc 7" 33 ⅓ RPM Single Sided (Blue) |
+| Format         | 1× Vinyl (Tricolour Marble, Gatefold) LP, Album, Limited Edition | 1× Flexi-disc (Blue) 7", 33 ⅓ RPM, Single Sided |
 | Label          | Modern Sky UK |
 | Catalog Number | M9497UKRT |
 | Notes | 500 copies.  Flexi disc translates from Italian as 'Sea Of Mirrors' but it is not the same song as A7. Includes a narration read by Johnny Echols. No catalog number or runout on flexi. |

@@ -70,7 +70,7 @@ In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the U
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Deep_Purple_in_Rock |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Marbled) |
+| Format         | 1× Vinyl (Marbled) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Harvest |
 | Catalog Number | SHVL 777 |
 | Notes | 180gr HMV exclusive limited edition on white with smokey grey and black vinyl (Marbled) Nb: Vinyl colour based on the 'rock' painting on the sleeve. Limited edition of 1000 copies. Gatefold sleeve.  Two stickers on cover shrink wrapping: Circular white sticker:  LIMITED EDITION MARBLED VINYL Rectangular black sticker: Deep Purple's First Studio Album with the Mark II line-up includes 'Speed King' & 'Child In Time' 180gm Vinyl 0825646035083 VINYL COLLECTOR [logo] INCLUDES DOWNLOAD CODE FOR  MP3 VERSION OF THE ALBUM WWW.THISISVINYLCOLLECTOR.COM  Made in the EU / Printed in the EU |

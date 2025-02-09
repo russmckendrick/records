@@ -49,7 +49,7 @@ styles: ["Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" EP |
+| Format         | 1× Vinyl 12", EP |
 | Label          | Hiraeth (2) |
 | Catalog Number | HIR002 |
 | Discogs URL    | [The Anchoress - One For Sorrow EP](https://www.discogs.com/release/6347922-The-Anchoress-One-For-Sorrow-EP) |

@@ -76,7 +76,7 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Compilation, Vinyl 7" 45 RPM |
+| Format         | 2× Vinyl LP, Compilation | 1× Vinyl 7", 45 RPM |
 | Label          | Chrysalis |
 | Catalog Number | CRV1713 |
 | Notes | Double 140g vinyl plus a bonus 7". Lyric sheet insert & new sleeve notes by Gerard Langley.  ℗ & © 2025 Chrysalis Records Limited. Made In Scotland. |

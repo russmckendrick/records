@@ -63,7 +63,7 @@ styles: []
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition Stereo (Catch Your Dream (Red, White, and Blue Stripe)) |
+| Format         | 1× Vinyl (Catch Your Dream (Red, White, and Blue Stripe)) LP, Album, Limited Edition, Stereo |
 | Label          | Dualtone |
 | Catalog Number | x |
 | Notes | Mouse Rat, formerly known as Scarecrow Boat, Everything Rhymes With Orange, Fleetwood Mac Sexpants, Threeskin, Just The Tip, Tackleshaft, or Teddy Bear Suicide, is fronted by Parks and Recreation shoe shine employee Andy Dwyer.  They have released a prolific string of hits including 5000 Candles In The Wind (Bye Bye Li'l Sebastian), Catch Your Dream (featuring Duke Silver), Two Birds Holding Hands, and The Pit.  "Catch Your Dream" red, white, and blue vinyl variant exclusive to the Dualtone Store. |

@@ -52,7 +52,7 @@ styles: ["Acid Jazz", "Funk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Reissue |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP300C |
 | Notes | 35th anniversary issue. |

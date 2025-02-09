@@ -45,7 +45,7 @@ styles: ["Soul", "Disco"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 12" 45 RPM Single |
+| Format         | 1× Vinyl 12", 45 RPM, Single |
 | Label          | 20th Century Fox Records |
 | Catalog Number | TCD 2420 |
 | Discogs URL    | [Edwin Starr - It's Called The Rock](https://www.discogs.com/release/680407-Edwin-Starr-Its-Called-The-Rock) |

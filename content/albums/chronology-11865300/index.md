@@ -56,7 +56,7 @@ Chronology is a part of periodization. It is also a part of the discipline of hi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Chronology |
-| Format         | Vinyl LP Album Reissue Remastered (140 Gram) |
+| Format         | 1× Vinyl (140 Gram) LP, Album, Reissue, Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075828261 |
 | Notes | ℗ 1993 Jean-Michel Jarre  © 2018 Jean-Michel Jarre under exclusive licence to Sony Music Entertainment Germany GmbH. Made in the EU.  Instruments Digisequencer, Kurzweil K2000, Mini Moog, ARP 2600, Akai MPC-60, Akai S 1000, AKS, JD 800, Korg 01,  TR 909, DR 660, Synthex, Eminent, JP 8, DJ 70, Vocalist, Fairlight.  Special thanks to [a=Arnaud de La Villesbrunne], Emmanuel Bourgeois, [a=Jean-Pierre Janiaud], Christophe Couderc, [l=Studio Gang], [a=Renaud Letang], Young Chang Europe Kurzweil / Martin Dietz, JDC / Jean-Claude Dubois, Akai / Bernard Ribet, Christian Braut, Jamie Lowry, Musikengro / Roland Delacroix, Colin Davie, Illel, [a=Barnaby Southcombe], Sigrid Daniel and [a=Stephen Hawking] for his "Brief History of Time.  Thanks to Louisa Chelouti, [a=Edith Napias], Pierrette Jacquard, Gerald Ano, Sandrine Napoli, SVC Audio / Richard Garrido, Korg France Sound Processing Laboratory / Mr Gier.  New mastering from the original analog master tapes [...] in 2014  Issued with printed inner sleeve |

@@ -61,7 +61,7 @@ A Weapon Called the Word has achieved gold status, despite never having appeared
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/A_Weapon_Called_the_Word |
-| Format         | Vinyl LP Album Limited Edition Reissue Remastered (Red) |
+| Format         | 1× Vinyl (Red) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP008 |
 | Discogs URL    | [The Levellers - A Weapon Called The Word](https://www.discogs.com/release/8310584-The-Levellers-A-Weapon-Called-The-Word) |

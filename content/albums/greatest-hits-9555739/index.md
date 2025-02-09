@@ -71,7 +71,7 @@ The original European version of the album contains 18 tracks, while the version
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Greatest_Hits_(Eurythmics_album) |
-| Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
+| Format         | 2× Vinyl (180 Gram) LP, Compilation, Reissue |
 | Label          | Legacy |
 | Catalog Number | 88985370421 |
 | Notes | Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU. |

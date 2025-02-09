@@ -61,7 +61,7 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Millionaires_(album) |
-| Format         | Vinyl 2× LP Album Reissue (180g) |
+| Format         | 2× Vinyl (180g) LP, Album, Reissue |
 | Label          | Fontana |
 | Catalog Number | 5712914 |
 | Notes | Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.  The hype sticker reads:  James Millionaires Never before on Vinyl 'Millionaires' over 2 x 180G Heavyweight Vinyl LPs Includes the single '[m=3524]'  [a42895] appears courtesy of Atlantic Recording Corporation.  Outer sleeve: ℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company. Made in the E.U.  Inner sleeve: ℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company. |

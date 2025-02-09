@@ -57,7 +57,7 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Walk_Between_Worlds |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Deluxe Edition (Fuchsia) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media (Fuchsia) Album, Deluxe Edition |
 | Label          | BMG |
 | Catalog Number | 538349730 |
 | Notes | Made in the EU. Gatefold sleeve.  Sticker: DELUXE EDITION Double Album Etched Fuschia (Fuchsia) Vinyl Includes 3 x bonus tracks + Free download 538349730  Artist name on cover is in caps, and the letter N is mirrored.  Catalog number on back cover and on the hype sticker on the protective plastic is 538349730. Catalog number on spine is 4050538349733, which also coincides with the barcode.  |

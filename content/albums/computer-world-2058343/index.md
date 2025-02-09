@@ -66,7 +66,7 @@ The album is themed around computer technology and its rise within society. In k
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Computer_World |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6602317 |
 | Notes | Comes with a 30x30 cm 16 page booklet, and a picture inner sleeve. "Kling Klang Digital Master" is printed on the sleeve's spine. |

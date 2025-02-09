@@ -56,7 +56,7 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Digital_Garbage |
-| Format         | Vinyl LP Album (Blue Opaque) |
+| Format         | 1× Vinyl (Blue Opaque) LP, Album |
 | Label          | Sub Pop |
 | Catalog Number | SP1225 |
 | Notes | Loser Edition, sold through independent stores only. Die-cut foldout sleeve with die-cut printed inner & download card. |

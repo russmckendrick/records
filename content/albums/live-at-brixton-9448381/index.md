@@ -90,7 +90,7 @@ styles: ["Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition (Gatefold, Blue), DVD ( ) |
+| Format         | 2× Vinyl (Gatefold, Blue) LP, Album, Limited Edition | 1× DVD ( ) |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVAL04X |
 | Notes | Released in a gatefold sleeve with printed inner sleeves. A download voucher of the album is included. Audio and video content recorded by Living Indie at O2 Brixton Academy, London on 29 November 2015. DVD contains bonus features and band commentary track and comes in a matte picture cardboard sleeve. |

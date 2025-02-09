@@ -98,7 +98,7 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Live_at_Pompeii |
-| Format         | Vinyl 4× LP Album (180 gram), Box Set |
+| Format         | 4× Vinyl (180 gram) LP, Album | 1× Box Set |
 | Label          | Columbia |
 | Catalog Number | 88985464971 |
 | Notes | Sticker - 88985464971 S1  David Gilmour The Voice & Guitar of Pink Floyd  Sticker - 88985464971 S2  4 LP Set 180 Gram Heavyweight Vinyl 2 Gatefold Jackets Polyliner inner bags 24-page photo booklet Heavyweight Slipcase  Made in the EU |

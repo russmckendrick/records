@@ -101,7 +101,7 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl 4× 7" Single, CD Album Reissue Remastered, Blu-ray Blu-ray Audio Album Stereo Multichannel, Box Set Deluxe Edition Limited Edition (40th Anniversary) |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 4× Vinyl 7", Single | 1× CD Album, Reissue, Remastered | 1× Blu-ray Blu-ray Audio, Album, Stereo, Multichannel | 1× Box Set (40th Anniversary) Deluxe Edition, Limited Edition |
 | Label          | Mercury |
 | Catalog Number | B0036560-00 |
 | Notes | Box contains: - Signals - Half-Speed DMM Vinyl - Signals - CD 2015 Remaster - Four 7 inches -  Featuring Brand-New Hugh Syme Art - Signals - BluRay Audio / Dolby Atmos / Dolby TrueHD 5.1 / PCM Stereo - 40 Page Hardcover Book With Brand-New Hugh Syme Artwork And Unreleased Photos - Geddy Lee, Alex Lifeson, Neil Peart - Digital Man Lenticulars - Double-Sided 24"x24" Poster - Hugh Syme Album Cover Sketch Litho - 4 Band Photo Prints  Box front side (on shrink): Hype sticker, 'FSK' sticker  Box back side (on shrink): 'MADE IN CZECH REPUBLIC' sticker  On the record labels of the four singles the sides are denoted by using the letters of the Semaphore alphabet.  |

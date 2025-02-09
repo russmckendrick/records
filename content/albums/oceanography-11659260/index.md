@@ -75,7 +75,7 @@ Oceanographers draw upon a wide range of disciplines to deepen their understandi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Oceanography |
-| Format         | Vinyl LP, CD, All Media Album |
+| Format         | 1× Vinyl LP | 1× CD | 1× All Media Album |
 | Label          | Superball Music |
 | Catalog Number | SBMLP 045 |
 | Notes | 180 gram vinyl. Includes insert and the album on CD, in a transparent plastic sleeve.  Copies purchased in Charlie Burns official store includes a signed postcard.  Recorded in fits and starts between October 2014 and October 2017. |

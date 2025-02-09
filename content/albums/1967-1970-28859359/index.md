@@ -96,7 +96,7 @@ Released just three years after the band’s official break-up, “The Blue Albu
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation Limited Edition Reissue Remastered Stereo (Half-Speed Master, Blue) |
+| Format         | 3× Vinyl (Half-Speed Master, Blue) LP, Compilation, Limited Edition, Reissue, Remastered, Stereo |
 | Label          | Apple Records |
 | Catalog Number | 0602455920805 |
 | Notes | Gatefold sleeve + insert.  Hype sticker: The classic compilation now expanded with 9 extra tracks including the single Now And Then 3LP's featuring 37 tracks Half-speed master on limited edition blue vinyl. [Universal Music Group International logo] [Apple logo] [Barcode: 0 602455 92080 5] 0602455920805   Made in the E.U.  Sticker: Made in Germany ' Matrix numbers are hand etched in the runout area. Plating marks like '1+X', '1=⊥', '1IX', '1=+','⊥∧' and '1⋀' are mirrored. |

@@ -55,7 +55,7 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Limited Edition (Aqua Blue Vinyl) |
+| Format         | 1× Vinyl (Aqua Blue Vinyl) LP, Compilation, Limited Edition |
 | Label          | Real Gone Music |
 | Catalog Number | RGM 0679 |
 | Notes | Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies |

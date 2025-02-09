@@ -55,7 +55,7 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Radio_K.A.O.S. |
-| Format         | Vinyl LP Album Promo |
+| Format         | 1× Vinyl LP, Album, Promo |
 | Label          | EMI |
 | Catalog Number | 074 24 0783 1 |
 | Notes | Disco destinado a promoción prohibida su venta. ℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987  © 1987 Roger Waters Music Ltd. bajo licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.  Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)  Made in Spain. |

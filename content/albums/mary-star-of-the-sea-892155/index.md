@@ -63,7 +63,7 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Mary_Star_of_the_Sea_(album) |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | Martha's Music |
 | Catalog Number | 9362-48436-1 |
 | Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket. Pressing plant uncredited, identified by the matrix numbers.   A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI A2: Faust's Haus Music BMI and Pazitronix Music ASCAP B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI  [Rear sleeve:] Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL. Management by Elliot Roberts for Lookout Management © ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.  |

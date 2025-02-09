@@ -63,7 +63,7 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Van_Weezer |
-| Format         | Vinyl LP Album Limited Edition (Pink [Neon]) |
+| Format         | 1× Vinyl (Pink [Neon]) LP, Album, Limited Edition |
 | Label          | Crush Music (2) |
 | Catalog Number | 075678650925 |
 | Notes | Indies exclusive.  On label rim text: Made in Czech Republic  Hype sticker on shrink: Van Weezer Neon Pink. ℗ & © 2021 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA  International Inc. for the world excluding the United States. A Warner Music Company. All rights reserved.  Unauthorized duplication is a violation of applicable laws. Made in Czech Republic. GEMA/BIEM. 075678650963  Track B6 is hidden and is not mentioned in the tracklist.  ℗ (on Label) + © (on Innersleeve) 2021 Weezer under license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company. |

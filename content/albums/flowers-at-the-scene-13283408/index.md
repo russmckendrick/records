@@ -78,7 +78,7 @@ Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressiv
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Flowers_at_the_Scene |
-| Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
+| Format         | 1× Vinyl (Red Transparent) LP, Album | 1× CD Album | 1× All Media Limited Edition, Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 524 |
 | Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card. |

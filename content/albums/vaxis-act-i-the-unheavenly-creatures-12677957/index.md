@@ -55,7 +55,7 @@ styles: ["Prog Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album (True Ugly Color Vinyl), Vinyl LP Single Sided Album Etched (True Ugly Color Vinyl) |
+| Format         | 2× Vinyl (True Ugly Color Vinyl) LP, Album | 1× Vinyl (True Ugly Color Vinyl) LP, Single Sided, Album, Etched |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7429-1 |
 | Notes | Tri-Fold Jacket Includes Digital Download 1686-174291 & RR-7429-1 Printed On Hype Sticker. Side VI withing etching Made in the EU |

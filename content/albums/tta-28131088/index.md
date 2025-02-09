@@ -66,7 +66,7 @@ styles: ["Ambient", "Post Rock"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP 45 RPM Album Limited Edition Stereo (Yellow) |
+| Format         | 2× Vinyl (Yellow) LP, 45 RPM, Album, Limited Edition, Stereo |
 | Label          | Krúnk |
 | Catalog Number | 5389109040 |
 | Notes | Gatefold cover with hype sticker. Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic  Manufactured in Germany  The final three characters in runout etching on each side are mirrored.  • 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |

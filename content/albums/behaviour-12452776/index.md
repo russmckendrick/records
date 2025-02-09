@@ -58,7 +58,7 @@ Behaviour (released as Behavior in the United States) is the fourth studio album
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Behaviour_(Pet_Shop_Boys_album) |
-| Format         | Vinyl LP Album Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue, Remastered |
 | Label          | Parlophone |
 | Catalog Number | 0190295821746 |
 | Notes | [Sticker on shrinkwrap:] Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  [From inner sleeve:] Recorded at Red Deer, München, and Sarm West, London. Orchestra and strings recorded at Abbey Road.  Tracks listed sequentially on back cover and labels. Optimal credit extrapolated from runout data. |

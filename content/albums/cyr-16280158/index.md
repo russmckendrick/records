@@ -69,7 +69,7 @@ The release of Cyr was accompanied by a five-part animated series, In Ashes, wri
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Cyr_(album) |
-| Format         | Vinyl 2× LP Album Limited Edition (Pink [Baby]) |
+| Format         | 2× Vinyl (Pink [Baby]) LP, Album, Limited Edition |
 | Label          | Sumerian Records |
 | Catalog Number | SUM1397 |
 | Notes | Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book. Housed in a gatefold sleeve.  Limited to 1000 copies.  The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.  ©&℗ 2020 Martha's Music, LLC. |

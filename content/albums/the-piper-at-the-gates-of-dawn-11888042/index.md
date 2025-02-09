@@ -66,7 +66,7 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn |
-| Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Record Store Day, Limited Edition, Reissue, Remastered, Mono |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP26 |
 | Notes | RSD 2018 release, limited edition package with poster. Quantity: 15.000 copies worldwide.  Original UK release date: August 1967. © 2018 Pink Floyd Music Ltd. |

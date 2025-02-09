@@ -62,7 +62,7 @@ It is a regular song at live shows by the band and is featured on the Live from 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Keep_the_Faith_(Bon_Jovi_song) |
-| Format         | Vinyl 2× LP Album (180 gram) |
+| Format         | 2× Vinyl (180 gram) LP, Album |
 | Label          | Mercury |
 | Catalog Number | B0021970-01 |
 | Notes | 180 gram vinyl released in a gatefold sleeve.     |

@@ -59,7 +59,7 @@ The album was a huge commercial success; it went to No. 1 on the Billboard 200
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/In_Through_the_Out_Door |
-| Format         | Vinyl LP Album Reissue Remastered Stereo ("A" Sleeve Variant ,180 Gram) |
+| Format         | 1× Vinyl ("A" Sleeve Variant ,180 Gram) LP, Album, Reissue, Remastered, Stereo |
 | Label          | Swan Song |
 | Catalog Number | 8122796574 |
 | Notes | Like the original version this LP is released in an outer sleeve which has been made to look like a plain brown paper bag with stamped details. Each cover shows an alternate angle of a man in a bar. The scenario was photographed from 6 different viewpoints within the bar and then 6 different sleeve variations were created (with the letters A–F at the top of the spine denoting each variation). The large format insert features a 'magic' ink in different colours which appear on the design when gently wetting.   Runouts are etched. Runout side B, variant 1: string '214' is inverted Runout side A, variant 3: string '1=' is inverted Runout side B, variant 3: string '2T' is inverted  [Sticker on shrink wrap:] The classic album on 180g vinyl Includes In The Evening & Fool In The Rain Remastered & produced by Jimmy Page  [Insert:] Recorded and mixed at Polar Music Studios · Stockholm  [Paper bag rear:] Swan Song Inc. ℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. [...] Printed in the EU.  [Labels:] ℗ & © 1979 Atlantic Recording Corporation. Manufactured in Germany. |

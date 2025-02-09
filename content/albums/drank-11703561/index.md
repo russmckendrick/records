@@ -65,7 +65,7 @@ styles: ["Screw", "Space-Age", "Jazz-Funk", "Soul-Jazz", "Cut-up/DJ", "Crunk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Mixtape (Purple) |
+| Format         | 2× Vinyl (Purple) LP, Mixtape |
 | Label          | Brainfeeder |
 | Catalog Number | BF067 |
 | Notes | Chopped Not Slopped by DJ Candlestick & OG Ron C for The Chopstars  Download code sticker affixed to inner sleeve of record 1. |

@@ -66,7 +66,7 @@ In the more than five years separating the release of <i>Modern Guilt</i> and <i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Morning_Phase |
-| Format         | Vinyl LP Album (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album |
 | Label          | Capitol Records |
 | Catalog Number | 0602537649747 |
 | Notes | 180 gram  Includes: Printed insert with lyrics and credits Download card for entire album in MP3 format (later copies don't have it)  Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA) Mixed at Electric Lady Studios, New York  ℗© 2014 Fonograf Records under exclusive license to Capitol Records Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records Made in EU  Runouts are etched except for the stamped '-31098- P.USA'. |

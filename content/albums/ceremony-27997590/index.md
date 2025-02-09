@@ -68,7 +68,7 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Ceremony_(The_Cult_album) |
-| Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Album Limited Edition Reissue |
+| Format         | 1× Vinyl (Blue) LP | 1× Vinyl (Red) LP | 1× All Media Album, Limited Edition, Reissue |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2297 LP |
 | Notes | Issued in an unlaminated single pocket sleeve with a wide spine. Picture/lyric/credits top opening inner sleeves of card. The red vinyl is translucent to strong light. There is a hype sticker to the front, below the band name and a barcode/catalogue number over-sticker on the reverse, both applied to the shrink-wrap.  "Indie stores exclusive" in the UK and was also available from the official webstore of the label.  This version is similar to [r27909384] except for disc one as blue vinyl, disc two as red vinyl. This colour scheme is reversed on the similar version with disc one being red and disc two being blue, differing runouts, showing no characters typical of GZ Media. An external visual identification is that they have a different layout on the barcode over-sticker, although the numbers are the same.  Runouts are etched.  "1|", "1T", "1=" are Optimal Media GmbH mirrored geometric plating marks.  Tracks are numbered sequentially across the release, 1 to 11. |

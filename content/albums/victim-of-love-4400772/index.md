@@ -58,7 +58,7 @@ Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, hi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Victim_of_Love_(Charles_Bradley_album) |
-| Format         | Vinyl LP Album Stereo |
+| Format         | 1× Vinyl LP, Album, Stereo |
 | Label          | Dunham |
 | Catalog Number | DUN-1004 |
 | Notes | Includes coupon for MP3 download.  CAT# on sleeve spine : DUN-1004 / DAP-031 CAT# on sleeve (back) : DUN 1004 / DAP 031 Barcode on the plastic shrink wrap only. |

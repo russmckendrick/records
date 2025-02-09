@@ -68,7 +68,7 @@ The connection to <i>Harvest</i> is explicit, but the album also fits in a set o
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Harvest_Moon_(Neil_Young_song) |
-| Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× All Media Album, Record Store Day, Limited Edition, Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49107-8 |
 | Notes | Source| Mastered from 44/16 Digital ℗ 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. © 1992, 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Track durations is different on insert from the labels. Time from the labels were used on tracklist above.  Runout details: the sequence "1-563181-X CB" is hand etched, the sequence "20793 1X" is stamped, on each side.  Record Store Day Black Friday exclusive release with printed lyrics insert. Three sided limited edition, side D has an etching of the album cover artwork. Issued in gatefold jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).  Manufactured in the E.U. (on back cover). Made in the E.U. (on labels). |

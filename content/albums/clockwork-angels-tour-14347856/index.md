@@ -78,7 +78,7 @@ Clockwork Angels Tour is a live album and film of Canadian progressive rock band
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Clockwork_Angels_Tour_(album) |
-| Format         | Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP, Vinyl LP Single Sided Etched, Box Set Album Reissue |
+| Format         | 1× Vinyl LP | 1× Vinyl LP | 1× Vinyl LP | 1× Vinyl LP | 1× Vinyl LP, Single Sided, Etched | 1× Box Set Album, Reissue |
 | Label          | Anthem (5) |
 | Catalog Number | R1 175982 |
 | Notes | 'Made in E.U. LC02982' printed on the side of box lid. Compared to the US edition of [r=14245830], where the Label Code is missing and 'Manufactured in E.U. Printed in U.S.A.' is printed in its place.   The label layout & RIM text is identical on both editions.   Boxset includes Download Coupon which expires December 31, 2022 |

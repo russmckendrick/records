@@ -61,7 +61,7 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Translucent Haze, 180g, 20th Anniversary Edition) |
+| Format         | 2× Vinyl (Translucent Haze, 180g, 20th Anniversary Edition) LP, Album, Limited Edition, Reissue, Remastered |
 | Label          | Krúnk |
 | Catalog Number | KRUNK79CLP |
 | Notes | Double heavyweight clear black "haze" vinyl with a outer die-cut sleeve.  ℗ 2002 The copyright in this sound recording is owned by Sigur Rós under exclusive license to Krunk. © 2022 Krunk |

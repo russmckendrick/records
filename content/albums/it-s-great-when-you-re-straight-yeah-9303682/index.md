@@ -56,7 +56,7 @@ It's Great When You're Straight...Yeah received generally positive reviews from 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/It%27s_Great_When_You%27re_Straight...Yeah |
-| Format         | Vinyl LP Album Reissue (180g) |
+| Format         | 1× Vinyl (180g) LP, Album, Reissue |
 | Label          | Radioactive |
 | Catalog Number | 5373030 |
 | Notes | Recorded At Rockfield Studios, Monmouth, Wales, Chapel Studios, Atford, Lincolnshire and Boundary Row, London. A limited run of pre-orderd copies came with an insert signed by [a194562] and [a42069]. Contains a [l1052727] download coupon. Side B is labeled X on release. |

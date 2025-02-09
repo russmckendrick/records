@@ -68,7 +68,7 @@ The Secret Migration is the sixth album by the alternative rock band Mercury Rev
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/The_Secret_Migration |
-| Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
+| Format         | 2× Vinyl (Gatefold) LP, Album, Reissue, Remastered |
 | Label          | Cherry Red |
 | Catalog Number | BRED2LP 910 |
 | Discogs URL    | [Mercury Rev - The Secret Migration](https://www.discogs.com/release/32996064-Mercury-Rev-The-Secret-Migration) |

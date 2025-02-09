@@ -60,7 +60,7 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Have_You_in_My_Wilderness |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Domino |
 | Catalog Number | WIGLP341 |
 | Notes | Generic hype sticker on shrink wrap reads: "Comes With MP3s! Details enclosed. 180gm heavyweight virgin vinyl"   Includes download code card and printed lyric inner sleeve.  On sleeve, inner and labels, track A5 is incorrectly listed as Sea Calls Me Home, and track B1 as Night Song.  Some copies ordered from Piccadilly Records contain bonus 8-track promo CD titled "Julia Holter. Selected Tracks 2011-2014".  Thank you: Mom, Dad, Robin, Yelena, Dicky, Tashi and Ramona  In memory of my grandparents Nick and Jeanette, who gave me my first piano   Domino Recording Co. Ltd. P.O. Box 47029 London SW18 1WD / 20 Jay Street, Suite 626, Brooklyn NY 11201 Made in the E.U. |

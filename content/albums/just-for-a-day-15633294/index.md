@@ -57,7 +57,7 @@ A signature song for the dreamiest original shoegaze acts, “Catch the Breeze�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Just_for_a_Day |
-| Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange [Flaming], 180 Gram) |
+| Format         | 1× Vinyl (Orange [Flaming], 180 Gram) LP, Album, Limited Edition, Numbered, Reissue, Repress |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP354 |
 | Notes | 180 gram audiophile vinyl Including insert Sleeve with special alubrush finish Limited edition of 4000 individually numbered copies on flaming coloured vinyl |

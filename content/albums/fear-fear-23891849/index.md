@@ -59,7 +59,7 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album Limited Edition (White) |
+| Format         | 1× Vinyl (White) LP, Album, Limited Edition |
 | Label          | Heavenly |
 | Catalog Number | HVNLP203C |
 | Notes | Indie Only pressing  Comes with poster and obi  200 copies were also retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Stickered plastic outer sleeve  Copies with a band signed lyric sheet were available from recordstore.co.uk  |

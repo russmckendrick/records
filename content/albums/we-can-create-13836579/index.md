@@ -63,7 +63,7 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/We_Can_Create |
-| Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue (Green Glass) |
+| Format         | 1× Vinyl LP | 1× Vinyl LP, Etched | 1× All Media (Green Glass) Album, Limited Edition, Reissue |
 | Label          | Mute |
 | Catalog Number | lstumm281 |
 | Notes | Limited to 1000 copies.  Classified as both a reissue and repress on the Mute Bank website.  General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.  Circular hype sticker on the cellophane reads: 1st time on 12" vinyl limited edition seventies style green glass coloured vinyl double album d side etching + digital copy  (p)2019 (c)2007 mute records limited printed in the eu |

@@ -63,7 +63,7 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Encore_(The_Specials_album) |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Island Records |
 | Catalog Number | 7721103 |
 | Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover |

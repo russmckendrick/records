@@ -63,7 +63,7 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bossa_nova |
-| Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
+| Format         | 1× Vinyl (Red Translucent) LP, Album, Limited Edition, Reissue |
 | Label          | 4AD |
 | Catalog Number | 4AD 0265 LPX |
 | Notes | 30th Anniversary Limited Red Vinyl Edition includes Original Booklet.  The booklet previously only available in the UK release. |

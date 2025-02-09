@@ -51,7 +51,7 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Limited Edition Numbered Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Limited Edition, Numbered, Stereo |
 | Label          | Universal Music Group |
 | Catalog Number | 486 4880 |
 | Notes | Crystal clear limited edition 180g heavyweight vinyl pressing #### of 3.000 |

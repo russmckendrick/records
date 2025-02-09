@@ -59,7 +59,7 @@ styles: ["Classic Rock", "Punk"]
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Bad_Reputation_(Joan_Jett_song) |
-| Format         | Vinyl LP Compilation Numbered (Yellow, Transparent) |
+| Format         | 1× Vinyl (Yellow, Transparent) LP, Compilation, Numbered |
 | Label          | Legacy |
 | Catalog Number | 19075895461 |
 | Discogs URL    | [Joan Jett - Bad Reputation](https://www.discogs.com/release/12840105-Joan-Jett-Bad-Reputation) |

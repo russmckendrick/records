@@ -91,7 +91,7 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Sky_Void_of_Stars |
-| Format         | Vinyl 2× 12" 45 RPM Album |
+| Format         | 2× Vinyl 12", 45 RPM, Album |
 | Label          | Napalm Records |
 | Catalog Number | NPR1208VINYL |
 | Notes | Black double vinyl in gatefold sleeve. Includes a foldout lyrics sheet poster. |

@@ -65,7 +65,7 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Thirteen_(Teenage_Fanclub_album) |
-| Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Limited Edition |
+| Format         | 1× Vinyl LP, Album, Reissue, Remastered | 1× Vinyl 7", 45 RPM, Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837061 |
 | Notes | Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire. Mixed at Revolution Studios. Mastered at the Hit Factory. Remastered at Abbey Road Studio Joe MacAlinden appears courtesy of [l944]/[l144867]. John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [url=https://www.discogs.com/label/120387-Temple-Records-2]Temple Records[/url]. An initial run of copies preordered from official webstore was signed by band members'.  Includes a colour inner sleeve printed with credits and photographs. Includes mp3 download card. Limited edition 7" included with initial pressing. Track times are not printed on the release itself, 7" excepted. |

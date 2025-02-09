@@ -68,7 +68,7 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Happiness_Bastards |
-| Format         | Vinyl LP Album Stereo (Clear) |
+| Format         | 1× Vinyl (Clear) LP, Album, Stereo |
 | Label          | Silver Arrow Records |
 | Catalog Number | SAR66 |
 | Notes | Clear LP. Limited edition for independent record stores. The inside of the gatefold sleeve is printed yellow and partially laminated.  On sticker: Made in CZ  The runout strings are laser etched.  |

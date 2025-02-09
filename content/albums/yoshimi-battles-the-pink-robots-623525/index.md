@@ -61,7 +61,7 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yoshimi_Battles_the_Pink_Robots |
-| Format         | Vinyl LP Album (Red Translucent, Gatefold) |
+| Format         | 1× Vinyl (Red Translucent, Gatefold) LP, Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-48141-1 |
 | Notes | Comes in a gatefold sleeve.  Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.  © ℗ 2002 Warner Bros. Records Inc. ©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.  Some copies come affixed with a Cargo Distribution sticker.  Made in Germany. |

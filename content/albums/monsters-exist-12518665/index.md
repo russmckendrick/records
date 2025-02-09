@@ -59,7 +59,7 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Monsters_Exist |
-| Format         | Vinyl 2× LP Album |
+| Format         | 2× Vinyl LP, Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1806 |
 | Notes | Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music |

@@ -58,7 +58,7 @@ Dry is the debut studio album by the English singer-songwriter PJ Harvey, releas
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Dry_(album) |
-| Format         | Vinyl LP Album Reissue Remastered (Metropolis Studios Cut) |
+| Format         | 1× Vinyl (Metropolis Studios Cut) LP, Album, Reissue, Remastered |
 | Label          | Too Pure |
 | Catalog Number | PURE 10 LP |
 | Notes | On spine, printed: PURE 10 LP   P J HARVEY   DRY. With inner sleeve black with white lettering.  Includes download card.  Mastering consultant: Head Thank you Richard and Paul  The etching 'HLH' was made by Mike Hillier during cutting. It is his new-born daughter's initials.  Alternative version cut by Lex van Coeverden (runouts with etching "-LvC-") is here: [r17089623] |

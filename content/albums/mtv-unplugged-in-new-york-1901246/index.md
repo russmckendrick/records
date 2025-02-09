@@ -67,7 +67,7 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/MTV_Unplugged_in_New_York |
-| Format         | Vinyl LP Album Reissue Repress (180 Gram) |
+| Format         | 1× Vinyl (180 Gram) LP, Album, Reissue, Repress |
 | Label          | Geffen Records |
 | Catalog Number | 0720642472712 |
 | Notes | Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.  All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.  ℗ 1994 Geffen Records, Inc. an MCA Company © 1994 Geffen Records, Inc. an MCA Company. Made in the EU.   2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.  Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside  The runouts are stamped. |

@@ -85,7 +85,7 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/3_Feet_High_and_Rising |
-| Format         | Vinyl 2× LP Album Limited Edition Reissue (Green Opaque, 180g) |
+| Format         | 2× Vinyl (Green Opaque, 180g) LP, Album, Limited Edition, Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM-047-1 |
 | Notes | Limited to 3000 copies on 180 gram opaque green vinyl, with green comic insert, exclusive to Rough Trade.  Issued in glossy, wide-pocket cover with matching color inner sleeves, and with the record labels and cover inner-lining also in matching green.  Record label for track D3 contains a typo: "This is a Recording Living in a Fulltime Era (L.I.F.E.)"  ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited.  "Made In Czech Republic" sticker on back cover shrink-wrap.  Runouts are stamped except "RMM - 045 - 1 #" which is etched. |

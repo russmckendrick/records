@@ -59,7 +59,7 @@ styles: ["Modern Classical", "Breakbeat", "Downtempo"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl 3× LP Compilation |
+| Format         | 3× Vinyl LP, Compilation |
 | Label          | Label Rob |
 | Catalog Number | none |
 | Discogs URL    | [Rob Dougan - Films: Past And Future](https://www.discogs.com/release/13623720-Rob-Dougan-Films-Past-And-Future) |

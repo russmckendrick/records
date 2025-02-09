@@ -58,7 +58,7 @@ styles: ["Funk", "Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Big Crown Records |
 | Catalog Number | BC017-LP B |
 | Notes | 2nd of 4 different covers of this release.  Included a digital download code of the album. |

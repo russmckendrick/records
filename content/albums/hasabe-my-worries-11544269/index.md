@@ -69,7 +69,7 @@ styles: ["African"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Compilation Club Edition (Maroon, 180 gram) |
+| Format         | 1× Vinyl (Maroon, 180 gram) LP, Compilation, Club Edition |
 | Label          | Now-Again Records |
 | Catalog Number | NA 5164 |
 | Notes | Sticker: Ayalew Mesfin and the Black Lion Band Unheard Ethio-Groove From Addis Ababa First Time Issued On LP Extensive Booklet Details The Rise Of Modern Ethiopian Music and Ayalew Mesfin's Story Never Before Published Photos  Includes artwork and cocktail inserts.  (P)(C) 2018 Now-Again Records.  Remastered [...] at Elysian Masters, Los Angeles. Licensed courtesy Ayalew Mesfin. Special thanks to Helen Asfaw Dubale and Danny Mekonnen. |

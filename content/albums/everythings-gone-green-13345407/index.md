@@ -51,7 +51,7 @@ As usual per New Order and Joy Division's releases, the recording date and locat
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Everything%27s_Gone_Green |
-| Format         | Vinyl 12" 45 RPM Reissue Remastered (180g) |
+| Format         | 1× Vinyl (180g) 12", 45 RPM, Reissue, Remastered |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 8 |
 | Discogs URL    | [New Order - Everythings Gone Green](https://www.discogs.com/release/13345407-New-Order-Everythings-Gone-Green) |

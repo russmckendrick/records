@@ -53,7 +53,7 @@ Larks' Tongues in Aspic is the fifth studio album by the English progressive roc
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Larks%27_Tongues_in_Aspic |
-| Format         | Vinyl LP Album Reissue Remastered Repress Stereo (200 Gram) |
+| Format         | 1× Vinyl (200 Gram) LP, Album, Reissue, Remastered, Repress, Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP 5 |
 | Notes | This pressing does NOT include a color postcard with download code, and also differs in the text on the sticker on the shrink wrap: KCLP5 • The original stereo mix of the 1973 classic • Newly cut from masters approved by Robert Fripp (NO line with wording about inclusion of download code) • 200-gram super-heavyweight vinyl  Barcode on sticker only. Includes a branded inner sleeve and a single-sided printed insert.  All songs published by EMI Music Publishing Ltd./UMG Music Ltd.  Recorded at Command Studios, London - Jan & Feb 1973.  Lyrics © 1973 Richard W. Palmer-James.  ℗ & © 2013 Robert Fripp.  A King Crimson Production Made in England. |

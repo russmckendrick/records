@@ -59,7 +59,7 @@ Yes, It's True is the fourth studio album by American pop band The Polyphonic Sp
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Yes,_It%27s_True |
-| Format         | Vinyl LP (180 gr, Pastel Green) |
+| Format         | 1× Vinyl (180 gr, Pastel Green) LP |
 | Label          | Good Records Recordings |
 | Catalog Number | GRR 27 |
 | Notes | "As part of the Kickstarter "label", what you hold in your hand is a direct reflection of your specific contribution to our musical dance. When this is played on your turntable, CD player or computer, the same applies. Forever know that, what you have done, is now doing exactly what we all wanted. Thank You!" - Tim |

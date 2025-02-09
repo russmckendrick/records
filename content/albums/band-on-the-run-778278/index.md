@@ -59,7 +59,7 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Band_on_the_Run |
-| Format         | Vinyl LP Album Stereo (1st Press) |
+| Format         | 1× Vinyl (1st Press) LP, Album, Stereo |
 | Label          | Apple Records |
 | Catalog Number | PAS 10007 |
 | Notes | Original UK release with: • Apple logo, 'An Apple Record'; • ℗ 1973 EMI Records Ltd.; • McCartney Music Ltd./ATV Music Ltd. on labels.  This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.  Includes large fold-out poster depicting many small Polaroid photographs. Inner thick paper sleeve has a photograph on one side and lyrics on the other. Also available on cassette and cartridge.  ℗ 1973 EMI Records Ltd.   An Apple Record   Runouts are stamped. Matrix # on labels in parentheses. |

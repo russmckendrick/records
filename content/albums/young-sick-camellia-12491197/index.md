@@ -61,7 +61,7 @@ styles: ["Soul"]
 ## Release Information
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
-| Format         | Vinyl LP Album |
+| Format         | 1× Vinyl LP, Album |
 | Label          | Records (11) |
 | Catalog Number | 19075878101 |
 | Notes | Standard cover, vinyl being housed in a printed innersleeve.  On labels and back cover: ℗ & © 2018 Records, LLC / Red Music Distributed by Sony Music Entertainment Made in the EU  Runouts are etched, except MPO(R) inclusive numbers are stamped. |

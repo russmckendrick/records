@@ -66,7 +66,7 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Pandemonium_(Killing_Joke_album) |
-| Format         | Vinyl LP (Blue Translucent), Vinyl LP (Clear), All Media Album Reissue |
+| Format         | 1× Vinyl (Blue Translucent) LP | 1× Vinyl (Clear) LP | 1× All Media Album, Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE511303 |
 | Notes | Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.   |

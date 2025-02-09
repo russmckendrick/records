@@ -108,7 +108,7 @@ Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai.
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/Every_Country%27s_Sun |
-| Format         | Vinyl 2× LP Album (White), Vinyl 12" 33 ⅓ RPM, CD Album, Box Set Album Deluxe Edition |
+| Format         | 2× Vinyl (White) LP, Album | 1× Vinyl 12", 33 ⅓ RPM | 1× CD Album | 1× Box Set Album, Deluxe Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT108 |
 | Notes | Boxset includes: - white vinyl double LP in a gatefold sleeve - 12" with demos in own sleeve - seven 12"x12" photo prints - a copy of the UK/Europe CD ([r=10788412]) - a download coupon  Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.  CD-Track durations are taken from the cd-ripper programm. |

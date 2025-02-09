@@ -86,7 +86,7 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 |  Key           | Value                                                |
 | ---------------| ---------------------------------------------------- |
 | Wikipedia URL | https://en.wikipedia.org/wiki/I_Don%27t_Live_Here_Anymore |
-| Format         | Vinyl 2× LP Album Stereo |
+| Format         | 2× Vinyl LP, Album, Stereo |
 | Label          | Atlantic |
 | Catalog Number | SEL 1-659043 - 075678643477 |
 | Notes | ℗ & © 2021 Atlantic Recording Corporation.  Manufactured in France.  Double LP, black vinyl Catalog Number 075678641299 on spine Catalog Numbers SEL 1-659043 - 075678643477 on label |
