@@ -31,17 +31,18 @@ styles: ["Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Money |
+| A2 | Shine Your Light |
+| A3 | House Of Love |
+| A4 | Colourblind |
+| A5 | Which Are The Tears |
+| A6 | Look But Don't Touch |
+| B1 | Nightsong |
+| B2 | Tower Of Strength |
+| B3 | Revolution |
+| B4 | Raised On Radio |
+| B5 | Wings Of An Angel |
+
 
 
 ## Apple Music

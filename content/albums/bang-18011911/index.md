@@ -34,17 +34,18 @@ Bang! is the third studio album by Welsh-British group World Party, released by 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kingdom Come |
+| A2 | Is It Like Today? |
+| A3 | What Is Love All About? |
+| A4 | And God Said…. |
+| A5 | Give It All Away |
+| B1 | Sooner Or Later |
+| B2 | Hollywood |
+| B3 | Radio Days |
+| B4 | Rescue Me |
+| B5 | Sunshine |
+| B6 | All I Gave |
+
 
 
 ## Apple Music

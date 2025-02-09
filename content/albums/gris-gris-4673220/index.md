@@ -32,13 +32,14 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gris-Gris Gumbo Ya Ya |
+| A2 | Danse Kalinda Ba Doom |
+| A3 | Mama Roux |
+| A4 | Danse Fambeaux |
+| B1 | Croker Courtbullion |
+| B2 | Jump Sturdy |
+| B3 | I Walk On Guilded Splinters |
+
 
 
 ## Apple Music

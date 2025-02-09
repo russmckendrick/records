@@ -29,17 +29,18 @@ styles: ["Indie Rock", "Post-Hardcore"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | No Wolf Like The Present |
+| A2 | Continuum |
+| A3 | Tilting At The Univendor |
+| A4 | Governed By Contagions |
+| A5 | Pendulum In A Peasant Dress |
+| A6 | Incurably Innocent |
+| B1 | Call Broken Arrow |
+| B2 | Holtzclaw |
+| B3 | Torrentially Cutshaw |
+| B4 | Ghost-Tape No. 9 |
+| B5 | Hostage Stamps |
+
 
 
 ## Apple Music

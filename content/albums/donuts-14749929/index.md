@@ -38,37 +38,38 @@ But <I>Donuts</I> was Yancey’s final missive, notwithstanding a flood of posth
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Donuts (Outro) |
+| A2 | Workinonit |
+| A3 | Waves |
+| A4 | Light My Fire |
+| A5 | The New |
+| A6 | Stop |
+| A7 | People |
+| A8 | The Difference |
+| B1 | Mash |
+| B2 | Time: The Donut Of The Heart |
+| B3 | Glazed |
+| B4 | Airworks |
+| B5 | Lightworks |
+| B6 | Stepson Of The Clapper |
+| B7 | The Twister (Huh, What) |
+| C1 | One Eleven |
+| C2 | Two Can Win |
+| C3 | Don't Cry |
+| C4 | Anti-American Graffiti |
+| C5 | Geek Down |
+| C6 | Thunder |
+| C7 | Gobstopper |
+| D1 | One For Ghost |
+| D2 | Dilla Says Go |
+| D3 | Walkinonit |
+| D4 | The Factory |
+| D5 | U-Love |
+| D6 | Hi. |
+| D7 | Bye. |
+| D8 | Last Donut Of The Night |
+| D9 | Welcome To The Show |
+
 
 
 ## Apple Music

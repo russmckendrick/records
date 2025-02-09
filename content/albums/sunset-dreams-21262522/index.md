@@ -32,12 +32,13 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sunset Dreams |
+| A2 | Solarised (Extended Mix) |
+| A3 | The Lexical Distance |
+| B1 | The Revolution Of Super Visions (See Thru Hands Remix) |
+| B2 | Solarised (W. H. Lung Remix) |
+| B3 | Don't Tell Me I'm Wrong |
+
 
 
 ## Apple Music

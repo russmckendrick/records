@@ -58,57 +58,58 @@ styles: ["Country Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Take It Easy |
+| A2 | Peaceful Easy Feeling |
+| A3 | Witchy Women |
+| A4 | Train Leaves Here This Morning |
+| A5 | Nightingale |
+| B1 | Desperado |
+| B2 | Doolin - Dalton |
+| B3 | Tequila Sunrise |
+| B4 | Outlaw Man |
+| B5 | Saturday Night |
+| C1 | Good Day In Hell |
+| C2 | The Best Of My Love |
+| C3 | James Dean |
+| C4 | Already Gone |
+| C5 | Ol'55 |
+| D1 | On The Border |
+| D2 | Midnight Flyer |
+| D3 | After The Thrill Is Gone |
+| D4 | Lyin' Eyes |
+| E1 | One Of These Nights |
+| E2 | Take It To The Limit |
+| E3 | Hotel California |
+| E4 | Life In The Fast Lane |
+| F1 | New Kid In Town |
+| F2 | Victim Of Love |
+| F3 | The Last Resort |
+| G1 | I Can't Tell You Why |
+| G2 | Heartache Tonight |
+| G3 | In The City |
+| G4 | The Long Run |
+| H1 | Get Over It |
+| H2 | Love Will Keep Us Alive |
+| H3 | Hole In The World |
+| H4 | How Long |
+| H5 | Busy Being Fabulous |
+| I1 | Severn Bridges - Live |
+| I2 | Take It Easy - Live |
+| I3 | Take It To The Limit - Live |
+| I4 | New Kid In Town - Live |
+| J1 | Hotel California - Live |
+| J2 | Already Gone - Live |
+| J3 | Desperado - Live |
+| J4 | Heartache Tonight - Live |
+| K1 | I Can't Tell You Why - Live |
+| K2 | Life In The Fast Lane - Live |
+| K3 | Tequila Sunrise - Live |
+| K4 | In The City - Live |
+| L1 | Peaceful Easy Feeling - Live |
+| L2 | The Best Of My Love - Live |
+| L3 | One Of These Nights - Live |
+| L4 | The Long Run - Live |
+
 
 
 ## Apple Music

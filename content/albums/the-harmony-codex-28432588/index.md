@@ -44,16 +44,17 @@ The Harmony Codex is the seventh studio album by British musician Steven Wilson,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Inclination |
+| A2 | What Life Brings |
+| A3 | Economies of Scale |
+| B1 | Impossible Tightrope |
+| B2 | Rock Bottom |
+| C1 | Beautiful Scarecrow |
+| C2 | The Harmony Codex |
+| D1 | Time Is Running Out |
+| D2 | Actual Brutal Facts |
+| D3 | Staircase |
+
 
 
 ## Apple Music

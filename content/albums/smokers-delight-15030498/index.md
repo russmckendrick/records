@@ -37,23 +37,24 @@ Smokers Delight is the second studio album by English DJ and record producer Nig
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nights Introlude |
+| A2 | Dreddoverboard |
+| A3 | Pipes Honour |
+| B1 | Me + You |
+| B2 | Stars |
+| B3 | Wait A Minute |
+| B4 | Praying For A Jeepbeat |
+| B5 | Groove St. |
+| C1 | Time (To Listen) |
+| C2 | (Man) Tha Journey |
+| C3 | Bless My Soul |
+| C4 | Cruise (Don't Stop) |
+| D1 | Mission Venice |
+| D2 | What I'm Feelin (Good) |
+| D3 | Rise |
+| D4 | Rise (Reprise) |
+| D5 | Gambia Via Vagatorbeach |
+
 
 
 ## Apple Music

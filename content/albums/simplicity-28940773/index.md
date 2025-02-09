@@ -30,17 +30,18 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Top Brass |
+| A2 | Driving Seat |
+| A3 | Rising Bass |
+| A4 | Get The Scene |
+| A5 | Good Sport |
+| A6 | Transition To... |
+| B1 | Simple Basics |
+| B2 | Widescreen Features |
+| B3 | Too Many Hats |
+| B4 | Telescopic |
+| B5 | Top Brass 2 |
+
 
 
 ## Apple Music

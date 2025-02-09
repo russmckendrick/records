@@ -49,20 +49,21 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | How The West Was Won And Where It Got Us |
+| A2 | The Wake-up Bomb |
+| A3 | New Test Leper |
+| B1 | Undertow |
+| B2 | E-bow The Letter |
+| B3 | Leave |
+| C1 | Departure |
+| C2 | Bittersweet Me |
+| C3 | Be Mine |
+| C4 | Binky The Doormat |
+| D1 | Zither |
+| D2 | So Fast, So Numb |
+| D3 | Low Desert |
+| D4 | Electrolite |
+
 
 
 ## Apple Music

@@ -36,14 +36,15 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Chef's Kiss |
+| A2 | Drop C |
+| A3 | Papa Was A Rolling Stone Journalist |
+| A4 | Fuku |
+| B1 | Unknown Man |
+| B2 | Blue Leo |
+| B3 | Impossible Meatballs |
+| B4 | The Last Benedict |
+
 
 
 ## Apple Music

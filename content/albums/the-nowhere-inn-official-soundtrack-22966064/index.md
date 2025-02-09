@@ -33,25 +33,26 @@ styles: ["Alternative Rock", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Nowhere Inn |
+| A2 | Carrie Voicemail |
+| A3 | Palm Desert |
+| A4 | Carrie Wave |
+| A5 | Waiting On A Wave |
+| A6 | Opening Limo Scene  |
+| A7 | Hallway Scene |
+| B1 | Rooftop |
+| B2 | Come To Jesus  |
+| B3 | Downtempo Montage  |
+| B4 | Sex Scene  |
+| B5 | Board Room  |
+| B6 | Spa Scene  |
+| B7 | Tour Bus |
+| B8 | Carrie Off Bus |
+| B9 | Texas Intro  |
+| B10 | Texas Choir |
+| B11 | Bacchanal  |
+| B12 | Ending |
+
 
 
 ## Apple Music

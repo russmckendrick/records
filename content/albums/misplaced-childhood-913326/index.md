@@ -36,16 +36,17 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pseudo Silk Kimono |
+| A2 | Kayleigh |
+| A3 | Lavender |
+| A4 | Bitter Suite |
+| A5 | Heart Of Lothian |
+| B1 | Waterhole (Expresso Bongo) |
+| B2 | Lords Of The Backstage |
+| B3 | Blind Curve |
+| B4 | Childhoods End? |
+| B5 | White Feather |
+
 
 
 ## Apple Music

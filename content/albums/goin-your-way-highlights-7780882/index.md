@@ -33,16 +33,17 @@ styles: ["Acoustic", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Will Have Her Way |
+| A2 | Careless |
+| A3 | Distant Sun |
+| A4 | Before Too Long |
+| A5 | Won't Give In |
+| B1 | Don't Stand So Close To The Window |
+| B2 | Four Seasons In One Day |
+| B3 | Into Temptation |
+| B4 | To Her Door |
+| B5 | Don't Dream It's Over |
+
 
 
 ## Apple Music

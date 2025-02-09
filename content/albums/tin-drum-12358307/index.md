@@ -33,14 +33,15 @@ Tin Drum is the fifth and final studio album by English band Japan, released in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Art Of Parties |
+| A2 | Talking Drum |
+| B1 | Ghosts |
+| B2 | Canton |
+| C1 | Still Life In Mobile Homes |
+| C2 | Visions Of China |
+| D1 | Sons Of Pioneers |
+| D2 | Cantonese Boy |
+
 
 
 ## Apple Music

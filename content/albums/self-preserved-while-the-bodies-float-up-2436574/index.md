@@ -35,31 +35,29 @@ Self Preserved While the Bodies Float Up is the fourth and final full-length stu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Part Cardiac |
+| A2 | Superimposer |
+| A3 | Build Us A Rocket Then… |
+| A4 | Oscar Acceptance Speech |
+| A5 | Ransoms |
+| B1 | A Penny's Weight |
+| B2 | Silent/Transparent |
+| B3 | It's My Tail And I'll Chase It If I Want To |
+| B4 | Pine |
+| B5 | SuperImposter |
+|  | CD: |
+| CD-1 | Part Cardiac |
+| CD-2 | Superimposer |
+| CD-3 | Build Us A Rocket Then… |
+| CD-4 | Oscar Acceptance Speech |
+| CD-5 | Ransoms |
+| CD-6 | A Penny's Weight |
+| CD-7 | Silent/Transparent |
+| CD-8 | It's My Tail And I'll Chase It If I Want To |
+| CD-9 | Pine |
+| CD-10 | SuperImposter |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

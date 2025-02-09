@@ -52,18 +52,19 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | M01 謡I - Making Of Cyborg |
+| A2 | M02 Ghosthack (本編未使用) |
+| A3 | EXM Puppetmaster |
+| A4 | M04 Virtual Crime |
+| A5 | M05 謠 II - Ghost City |
+| B1 | M06 Access |
+| B2 | M07 Nightstalker |
+| B3 | M08 Floating Museum |
+| B4 | M09 Ghostdive |
+| B5 | M10 謠 III - Reincarnation |
+|  | Bonus 7" |
+| C | 挿入歌 毎天見一見! (See You Everyday)  |
+
 
 
 ## Apple Music

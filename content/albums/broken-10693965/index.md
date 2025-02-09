@@ -49,14 +49,15 @@ Broken received positive reviews from critics and reached number seven on the US
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pinion |
+| A2 | Wish |
+| A3 | Last |
+| A4 | Help Me I Am In Hell |
+| A5 | Happiness In Slavery |
+| A6 | Gave Up |
+| B | Physical |
+| C | Suck |
+
 
 
 ## Apple Music

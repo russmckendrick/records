@@ -36,15 +36,16 @@ Robertson collaborated on film and TV soundtracks, usually with director Martin 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fallen Angel |
+| A2 | Showdown At Big Sky |
+| A3 | Broken Arrow |
+| A4 | Sweet Fire Of Love |
+| B1 | American Roulette |
+| B2 | Somewhere Down The Crazy River |
+| B3 | Hell's Half Acre |
+| B4 | Sonny Got Caught In The Moonlight |
+| B5 | Testimony |
+
 
 
 ## Apple Music

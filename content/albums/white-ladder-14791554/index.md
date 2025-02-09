@@ -43,16 +43,17 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Please Forgive Me |
+| A2 | Babylon |
+| B3 | My Oh My |
+| B4 | We're Not Right |
+| B5 | Nightblindness |
+| C6 | Silver Lining |
+| C7 | White Ladder |
+| C8 | This Year's Love |
+| D9 | Sail Away |
+| D10 | Say Hello, Wave Goodbye |
+
 
 
 ## Apple Music

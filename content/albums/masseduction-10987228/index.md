@@ -35,19 +35,20 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hang On Me |
+| A2 | Pills |
+| A3 | Masseduction |
+| A4 | Sugarboy |
+| A5 | Los Ageless |
+| A6 | Happy Birthday, Johnny |
+| B1 | Savior |
+| B2 | New York |
+| B3 | Fear The Future |
+| B4 | Young Lover |
+| B5 | Dancing With A Ghost |
+| B6 | Slow Disco |
+| B7 | Smoking Section |
+
 
 
 ## Apple Music

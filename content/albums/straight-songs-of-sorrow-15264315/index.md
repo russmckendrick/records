@@ -44,21 +44,22 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Wouldn't Want To Say |
+| A2 | Apples From A Tree |
+| A3 | This Game Of Love |
+| A4 | Ketamine |
+| B1 | Bleed All Over |
+| B2 | Churchbells Ghosts |
+| B3 | Internal Hourglass Discussion |
+| B4 | Stockholm City Blues |
+| C1 | Skeleton Key |
+| C2 | Daylight In The Nocturnal House |
+| C3 | Ballad Of A Dying Rover |
+| D1 | Hanging On (For DRC) |
+| D2 | Burying Ground |
+| D3 | At Zero Below |
+| D4 | Eden Lost And Found |
+
 
 
 ## Apple Music

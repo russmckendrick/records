@@ -40,19 +40,20 @@ This is a discography by the indie British rock band The Charlatans.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nine Acre Court |
+| A2 | Feeling Holy |
+| A3 | Just Lookin' |
+| B1 | Crashin' In |
+| B2 | Bullet Comes |
+| B3 | Chemical Risk (Toothache Remix) |
+| C1 | Here Comes A Soul Saver |
+| C2 | Just When You're Thinkin' Things Over |
+| C3 | Tell Everyone |
+| D1 | Toothache |
+| D2 | No Fiction |
+| D3 | See It Through |
+| D4 | Thank You |
+
 
 
 ## Apple Music

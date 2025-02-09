@@ -33,16 +33,17 @@ styles: ["Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In The Morning |
+| A2 | I'll See You Around |
+| A3 | Better Than You |
+| A4 | Fsus |
+| A5 | Caroline |
+| B1 | Answers In Your Soul |
+| B2 | People Should Be Friendly |
+| B3 | Off To Work |
+| B4 | Time & Death |
+| B5 | Evil In Your Eye |
+
 
 
 ## Apple Music

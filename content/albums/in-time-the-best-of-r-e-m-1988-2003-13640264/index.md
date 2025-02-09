@@ -38,24 +38,25 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Man On The Moon |
+| A2 | The Great Beyond |
+| A3 | Bad Day |
+| A4 | What's The Frequency, Kenneth? |
+| B1 | All The Way To Reno |
+| B2 | Losing My Religion |
+| B3 | E-Bow The Letter |
+| B4 | Orange Crush |
+| B5 | Imitation Of Life |
+| C1 | Daysleeper |
+| C2 | Animal |
+| C3 | The Sidewinder Sleeps Tonite |
+| C4 | Stand |
+| C5 | Electrolite |
+| D1 | All The Right Friends |
+| D2 | Everybody Hurts |
+| D3 | At My Most Beautiful |
+| D4 | Nightswimming |
+
 
 
 ## Apple Music

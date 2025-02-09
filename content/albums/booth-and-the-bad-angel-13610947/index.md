@@ -30,17 +30,18 @@ Booth and the Bad Angel is a studio album by Booth and the Bad Angel, a collabor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Believe |
+| A2 | Dance Of The Bad Angels |
+| A3 | Hit Parade |
+| A4 | Fall In Love With Me |
+| A5 | Old Ways |
+| B6 | Life Gets Better |
+| B7 | Heart |
+| B8 | Rising |
+| B9 | Butterfly's Dream |
+| B10 | Stranger |
+| B11 | Hands In The Rain |
+
 
 
 ## Apple Music

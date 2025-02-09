@@ -29,25 +29,23 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Prologue |
+| A2 | The Dark Sentencer |
+| A3 | Unheavenly Creatures |
+| B1 | Toys |
+| B2 | Black Sunday |
+| B3 | Queen Of The Dark |
+| C1 | True Ugly |
+| C2 | Love Protocol |
+| C3 | The Pavilion (A Long Way Back) |
+| D1 | Night-Time Walkers |
+| D2 | The Gutter |
+| D3 | All On Fire |
+| E1 | It Walks Among Us |
+| E2 | Old Flames |
+| E3 | Lucky Stars |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

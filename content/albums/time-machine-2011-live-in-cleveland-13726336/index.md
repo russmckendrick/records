@@ -36,32 +36,33 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Spirit Of Radio |
+| A2 | Time Stand Still |
+| A3 | Presto |
+| A4 | Stick It Out |
+| B1 | Workin' Them Angels |
+| B2 | Leave That Thing Alone |
+| B3 | Faithless |
+| B4 | BU2B |
+| C1 | Free Will |
+| C2 | Marathon |
+| C3 | Subdivisions |
+| D1 | Tom Sawyer |
+| D2 | Red Barchetta |
+| D3 | YYZ |
+| D4 | Limelight |
+| E1 | The Camera Eye |
+| E2 | Witch Hunt |
+| E3 | Vital Signs |
+| F1 | Caravan |
+| F2 | Moto Perpetuo (Featuring Love For Sale) |
+| G1 | O'Malley's Break |
+| G2 | Closer To The Heart |
+| G3 | 2112 Overture / The Temples Of Syrinx |
+| G4 | Far Cry |
+| H1 | La Villa Strangiato |
+| H2 | Working Man |
+
 
 
 ## Apple Music

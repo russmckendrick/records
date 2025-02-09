@@ -29,18 +29,19 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pearly |
+| A2 | Hey Okay! |
+| A3 | I Want |
+| A4 | Wonder |
+| A5 | The World |
+| A6 | Sunny Side Up |
+| B1 | Physical |
+| B2 | Home Again |
+| B3 | Wide Open |
+| B4 | Longest Day |
+| B5 | Just Fine |
+| B6 | Adore |
+
 
 
 ## Apple Music

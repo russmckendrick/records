@@ -38,18 +38,19 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Great Expectations |
+| A2 | The '59 Sound |
+| A3 | Old White Lincoln |
+| A4 | High Lonesome |
+| A5 | Film Noir |
+| A6 | Miles Davis & The Cool |
+| B7 | The Patient Ferris Wheel |
+| B8 | Casanova, Baby! |
+| B9 | Even Cowgirls Get The Blues |
+| B10 | Meet Me By The River's Edge |
+| B11 | Here's Looking At You Kid |
+| B12 | The Backseat |
+
 
 
 ## Apple Music

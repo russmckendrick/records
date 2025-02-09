@@ -36,19 +36,20 @@ Transience is a compilation album released in 2015 by British musician and recor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Transience - Single Version |
+| A2 | Harmony Korine |
+| A3 | Postcard |
+| A4 | Significant Other |
+| A5 | Insurgentes |
+| B1 | The Pin Drop |
+| B2 | Happy Returns - Edit |
+| B3 | Deform To Form A Star - Edit |
+| B4 | Thank You |
+| C1 | Index |
+| C2 | Hand Cannot Erase |
+| C3 | Lazarus - 2015 Recording |
+| C4 | Drive Home |
+
 
 
 ## Apple Music

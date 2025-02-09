@@ -35,17 +35,18 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fight Test |
+| A2 | One More Robot / Sympathy 3000-21 |
+| A3 | Yoshimi Battles The Pink Robots Pt. 1 |
+| A4 | Yoshimi Battles The Pink Robots Pt. 2 |
+| A5 | In The Morning Of The Magicians |
+| B1 | Ego Tripping At The Gates Of Hell |
+| B2 | Are You A Hypnotist?? |
+| B3 | It's Summertime |
+| B4 | Do You Realize?? |
+| B5 | All We Have Is Now |
+| B6 | Approaching Pavanis Mons By Balloon (Utopia Planitia) |
+
 
 
 ## Apple Music

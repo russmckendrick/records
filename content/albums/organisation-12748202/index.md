@@ -31,15 +31,16 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Enola Gay |
+| A2 | 2nd Thought |
+| A3 | VCL XI |
+| A4 | Motion And Heart |
+| A5 | Statues |
+| B1 | The Misunderstanding |
+| B2 | The More I See You |
+| B3 | Promise |
+| B4 | Stanlow |
+
 
 
 ## Apple Music

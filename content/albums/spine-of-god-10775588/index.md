@@ -33,16 +33,17 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pill Shovel |
+| A2 | Medicine |
+| A3 | Nod Scene |
+| A4 | Black Mastermind |
+| A5 | Zodiac Lung |
+| B1 | Spine Of God |
+| B2 | Snake Dance |
+| B3 | Sin's A Good Man's Brother |
+| B4 | Ozium |
+| B5 | Ozium (Demo) |
+
 
 
 ## Apple Music

@@ -27,17 +27,18 @@ styles: ["House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Want to Be |
+| A2 | Anx |
+| A3 | Bayo |
+| A4 | Luther |
+| A5 | Dreams |
+| B1 | Nebo |
+| B2 | WOT |
+| B3 | Ulu |
+| B4 | Jung |
+| B5 | Art of Love |
+| B6 | Charch |
+
 
 
 ## Apple Music

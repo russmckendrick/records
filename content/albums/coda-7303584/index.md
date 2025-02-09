@@ -42,14 +42,15 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | We're Gonna Groove |
+| A2 | Poor Tom |
+| A3 | I Can't Quit You Baby |
+| A4 | Walter's Walk |
+| B1 | Ozone Baby |
+| B2 | Darlene |
+| B3 | Bonzo's Montreux |
+| B4 | Wearing And Tearing |
+
 
 
 ## Apple Music

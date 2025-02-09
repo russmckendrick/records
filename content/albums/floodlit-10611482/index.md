@@ -27,10 +27,11 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dumbstruck & Floodlit |
+| A2 | Hazel |
+| B1 | Cassandra |
+| B2 | Lacquer |
+
 
 
 ## Apple Music

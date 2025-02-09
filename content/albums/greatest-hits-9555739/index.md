@@ -38,24 +38,25 @@ The original European version of the album contains 18 tracks, while the version
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Is A Stranger |
+| A2 | Sweet Dreams (Are Made Of This) |
+| A3 | Who's That Girl? |
+| A4 | Right By Your Side |
+| A5 | Here Comes The Rain Again |
+| B1 | There Must Be An Angel (Playing With My Heart) |
+| B2 | Sisters Are Doin' It For Themselves |
+| B3 | It's Alright (Baby's Coming Back) |
+| B4 | When Tomorrow Comes |
+| C1 | You Have Placed A Chill In My Heart |
+| C2 | Miracle Of Love |
+| C3 | Sex Crime (1984) |
+| C4 | Thorn In My Side |
+| C5 | Don't Ask Me Why |
+| D1 | Angel |
+| D2 | Would I Lie To You? |
+| D3 | Missionary Man |
+| D4 | I Need A Man |
+
 
 
 ## Apple Music

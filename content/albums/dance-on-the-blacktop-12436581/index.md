@@ -30,15 +30,16 @@ Dance on the Blacktop is the third studio album by American shoegaze band Nothin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Zero Day |
+| A2 | Blue Line Baby |
+| A3 | You Wind Me Up |
+| A4 | Plastic Migraine |
+| A5 | Us/We/Are |
+| B1 | Hail On Palace Pier |
+| B2 | I Hate The Flowers |
+| B3 | The Carpenter's Son |
+| B4 | (Hope) Is Just Another Word With A Hole In It |
+
 
 
 ## Apple Music

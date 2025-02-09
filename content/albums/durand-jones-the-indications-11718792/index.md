@@ -31,14 +31,15 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Make A Change |
+| A2 | Smile |
+| A3  | Can't Keep My Cool |
+| A4 | Groovy Babe |
+| B1 | Giving Up |
+| B2 | Is It Any Wonder? |
+| B3 | Now I'm Gone  |
+| B4 | Tuck 'N' Roll |
+
 
 
 ## Apple Music

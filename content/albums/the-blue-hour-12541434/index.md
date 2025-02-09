@@ -41,20 +41,21 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | As One |
+| A2 | Wastelands |
+| A3 | Mistress |
+| B1 | Beyond The Outskirts |
+| B2 | Chalk Circles |
+| B3 | Cold Hands |
+| B4 | Life Is Golden |
+| C1 | Roadkill |
+| C2 | Tides |
+| C3 | Don't Be Afraid If Nobody Loves You |
+| D1 | Dead Bird |
+| D2 | All The Wild Places |
+| D3 | The Invisibles |
+| D4 | Flytipping |
+
 
 
 ## Apple Music

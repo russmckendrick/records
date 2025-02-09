@@ -57,16 +57,17 @@ The album, recorded in Paris, was the third and final AC/DC collaboration with p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | For Those About To Rock (We Salute You) |
+| A2 | I Put The Finger On You |
+| A3 | Let's Get It Up |
+| A4 | Inject The Venom |
+| A5 | Snowballed |
+| B1 | Evil Walks |
+| B2 | C.O.D. |
+| B3 | Breaking The Rules |
+| B4 | Night Of The Long Knives |
+| B5 | Spellbound |
+
 
 
 ## Apple Music

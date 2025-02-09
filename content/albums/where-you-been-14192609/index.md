@@ -45,27 +45,28 @@ The album peaked with 263,000 units sold in the US.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Where You Been |
+| A1 | Out There |
+| A2 | Start Choppin |
+| A3 | What Else Is New |
+| A4 | On The Way |
+| A5 | Not The Same |
+| B1 | Get Me |
+| B2 | Drawerings |
+| B3 | Hide |
+| B4 | Goin Home |
+| B5 | I Ain't Sayin |
+|  | Bonus Tracks And Peel Sessions |
+| C1 | Hot Burrito #2 |
+| C2 | Quest (Acoustic) |
+| C3 | Turnip Farm |
+| C4 | Forget It |
+| C5 | Keeblin' |
+| D1 | Get Me (Peel Session) |
+| D2 | Keeblin' (Peel Session) |
+| D3 | Hide (Peel Session) |
+| D4 | Missing Link |
+
 
 
 ## Apple Music

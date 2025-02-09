@@ -35,21 +35,22 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Aboard |
+| A2 | Summer Sun |
+| A3 | Safe Passage |
+| A4 | Now Disappear |
+| A5 | Alone |
+| A6 | Invisible |
+| A7 | Blues Inside Me |
+| A8 | I Cannot Speak |
+| B1 | The Blue Elephant |
+| B2 | Life Unknown |
+| B3 | Safer Passage |
+| B4 | Like Stone |
+| B5 | Story Told |
+| B6 | Forget Me |
+| B7 | Now Disappear (Again) |
+
 
 
 ## Apple Music

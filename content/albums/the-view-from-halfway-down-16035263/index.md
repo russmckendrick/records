@@ -31,14 +31,15 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Comes In Waves |
+| A2 | Indica |
+| A3 | Ghost Tones |
+| A4 | Skywalker |
+| B1 | Aubrey Drylands Gladwell |
+| B2 | Cherry Cola |
+| B3 | I Was Alone |
+| B4 | Heat Haze On Weyland Road |
+
 
 
 ## Apple Music

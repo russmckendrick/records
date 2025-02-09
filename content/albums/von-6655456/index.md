@@ -38,30 +38,31 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sigur Rós |
+| A2 | Dögun |
+| A3 | Hún Jörð ... |
+| B1 | Leit Að Lífi |
+| B2 | Myrkur |
+| B3 | 18 Sekúndur Fyrir Sólarupprás |
+| B4 | Hafssól |
+| C1 | Veröld Ný Og Óð |
+| C2 | Von |
+| C3 | Mistur |
+| D1 | Syndir Guðs (Opinberun Frelsarans) |
+| D2 | Rukrym |
+| CD-1 | Sigur Rós |
+| CD-2 | Dögun |
+| CD-3 | Hún Jörð |
+| CD-4 | Leit Að Lífi |
+| CD-5 | Myrkur |
+| CD-6 | 18 Sekúndur Fyrir Sólarupprás |
+| CD-7 | Hafssól |
+| CD-8 | Veröld Ný Og óð |
+| CD-9 | Von |
+| CD-10 | Mistur |
+| CD-11 | Syndir Guðs (Opinberun Frelsarans) |
+| CD-12 | Rukrym |
+
 
 
 ## Apple Music

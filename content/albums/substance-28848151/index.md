@@ -46,18 +46,19 @@ A solution arrived in the form of 1987’s <i>Substance</i>, a two-disc compilat
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ceremony |
+| A2 | Everything's Gone Green |
+| A3 | Temptation |
+| B1 | Blue Monday |
+| B2 | Confusion |
+| B3 | Thieves Like Us |
+| C1 | Perfect Kiss |
+| C2 | Subculture |
+| C3 | Shellshock |
+| D1 | State Of The Nation |
+| D2 | Bizarre Love Triangle |
+| D3 | True Faith |
+
 
 
 ## Apple Music

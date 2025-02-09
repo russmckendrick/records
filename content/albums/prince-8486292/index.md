@@ -34,15 +34,16 @@ Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B C
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Wanna Be Your Lover |
+| A2 | Why You Wanna Treat Me So Bad? |
+| A3 | Sexy Dancer |
+| A4 | When We're Dancing Close And Slow |
+| B1 | With You |
+| B2 | Bambi |
+| B3 | Still Waiting |
+| B4 | I Feel For You |
+| B5 | It's Gonna Be Lonely |
+
 
 
 ## Apple Music

@@ -46,26 +46,27 @@ Croweology is an acoustic-based album by American rock band The Black Crowes, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jealous Again |
+| A2 | Share The Ride |
+| A3 | Remedy |
+| B1 | Non-Fiction |
+| B2 | Hotel Illness |
+| B3 | Soul Singing |
+| C1 | Ballad In Urgency |
+| C2 | Wiser Time |
+| C3 | Cold Boy Smile |
+| D1 | Under A Mountain |
+| D2 | She Talks To Angels |
+| D3 | Morning Song |
+| D4 | Downtown Money Waster |
+| E1 | Good Friday |
+| E2 | Thorn In My Pride |
+| E3 | Welcome To The Good Times |
+| F1 | Girl From A Pawnshop |
+| F2 | Sister Luck |
+| F3 | She |
+| F4 | Bad Luck Blue Eyes Goodbye |
+
 
 
 ## Apple Music

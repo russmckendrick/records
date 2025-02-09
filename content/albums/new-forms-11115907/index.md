@@ -40,20 +40,21 @@ New Forms was promoted by the release of its four singles, "Share the Fall", "He
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Railing |
+| A2 | Brown Paper Bag |
+| A3 | Heroes |
+| A4 | Matter Of Fact |
+| B1 | New Forms |
+| B2 | Digital |
+| B3 | Watching Windows |
+| C1 | Share The Fall (Full Vocal Mix) |
+| C2 | Beatbox |
+| C3 | Trust Me |
+| C4 | Destination |
+| D1 | Morse Code |
+| D2 | Lets Get It On |
+| D3 | Change My Life |
+
 
 
 ## Apple Music

@@ -30,17 +30,18 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Born In A Storm |
+| A2 | Raintown |
+| A3 | Ragman |
+| A4 | He Looks Like Spencer Tracey Now |
+| A5 | Loaded |
+| A6 | When Will You (Make My Telephone Ring) |
+| B1 | Chocolate Girl |
+| B2 | Dignity |
+| B3 | The Very Thing |
+| B4 | Love's Great Fears |
+| B5 | Town To Be Blamed |
+
 
 
 ## Apple Music

@@ -39,39 +39,40 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bellbottoms |
+| A2 | Harlem Shuffle |
+| A3 | Egyptian Reggae |
+| A4 | Smokey Joe's La La |
+| A5 | Let's Go Away For Awhile |
+| A6 | B-A-B-Y |
+| A7 | Kashmere |
+| A8 | Unsquare Dance |
+| B1 | Neat Neat Neat |
+| B2 | Easy |
+| B3 | Debora |
+| B4 | Debra |
+| B5 | Bongolia |
+| B6 | Baby Let Me Take You (In My Arms) |
+| B7 | Early In The Morning |
+| C1 | The Edge |
+| C2 | Nowhere To Run |
+| C3 | Tequila |
+| C4 | When Something Is Wrong With My Baby |
+| C5 | Every Little Bit Hurts |
+| C6 | Intermission |
+| C7 | Hocus Pocus |
+| C8 | Radar Love |
+| D1 | Never, Never Gonna Give Ya Up |
+| D2 | Know How |
+| D3 | Brighton Rock |
+| D4 | Easy |
+| D5 | Baby Driver |
+| D6 | "Was He Slow?" |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1rKtp8dt8DDLzcLOpyncWA" width="100%" height="500" >}}<br>
 
 
 

@@ -37,28 +37,29 @@ Dumbing Up is the fifth and final studio album by World Party, released in 2000 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Side One |
+| A1 | Here Comes The Future |
+| A2 | What Does It Mean Now? |
+| A3 | Another 1000 Years |
+| A4 | I Thought You Were A Spy |
+| A5 | All The Love That's Wasted |
+|  | Side Two |
+| B1 | Best Place I've Ever Been |
+| B2 | Santa Barbara |
+| B3 | Nothing Lasts Forever |
+| B4 | High Love |
+| B5 | I Want To Be Free |
+|  | Side Three |
+| C1 | Words |
+| C2 | Who Are You? |
+| C3 | You're A Hurricane, I'm  A Caravan  |
+| C4 | See The Light |
+|  | Side Four |
+| D1 | Photograph  |
+| D2 | Little Bit Of Perfection  |
+| D3 | 'Til I Got You |
+| D4 | Always On My Mind |
+
 
 
 ## Apple Music

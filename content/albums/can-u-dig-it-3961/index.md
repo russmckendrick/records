@@ -29,10 +29,11 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | Can U Dig It? (Twelve) |
+| B1 | Poison To The Mind |
+| B2 | Radio P.W.E.I. (Acapella) |
+| B3 | The Fuses Have Been Lit (Instrumental) |
+
 
 
 ## Apple Music

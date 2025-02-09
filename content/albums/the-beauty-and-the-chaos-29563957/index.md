@@ -27,18 +27,19 @@ styles: ["Acid Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hello People |
+| A2 | Reach For The Lasers  |
+| A3 | 21st Century |
+| A4 | Read The Room |
+| A5 | I've Been Down |
+| B1 | The Day The Music Died |
+| B2 | Stardust |
+| B3 | Lookout Mountain |
+| B4 | Red Flags |
+| B5 | Do It Again |
+| C1 | Hello People |
+| C2 | I'm A Believer 2003 |
+
 
 
 ## Apple Music

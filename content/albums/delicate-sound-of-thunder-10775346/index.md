@@ -40,20 +40,21 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shine On You Crazy Diamond Parts 1-5 |
+| A2 | Learning To Fly |
+| A3 | Yet Another Movie |
+| A4 | Round And Around |
+| B1 | Sorrow |
+| B2 | The Dogs Of War |
+| B3 | On The Turning Away |
+| C1 | One Of These Days |
+| C2 | Time / Breathe (In The Air) (Reprise) |
+| C3 | Money |
+| C4 | Another Brick In The Wall Part II |
+| D1 | Wish You Were Here |
+| D2 | Comfortably Numb |
+| D3 | Run Like Hell |
+
 
 
 ## Apple Music

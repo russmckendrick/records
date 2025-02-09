@@ -42,19 +42,20 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Healing |
+| A2 | Grinder |
+| A3 | Star |
+| A4 | Our Love |
+| B1 | Church |
+| B2 | Hold On |
+| B3 | Cold Blooded |
+| B4 | Wings |
+| C1 | BYOB |
+| C2 | Can't Sleep |
+| C3 | Stay |
+| C4 | Shake |
+| C5 | Down To Ride |
+
 
 
 ## Apple Music

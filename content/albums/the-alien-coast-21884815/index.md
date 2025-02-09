@@ -31,17 +31,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 3000AD Mass |
+| A2 | Bermejo And The Devil |
+| A3 | Minotaur |
+| A4 | Atlas |
+| A5 | The Last Dance |
+| A6 | Ghost In Smoke |
+| B1 | Alien Coast |
+| B2 | Hunter And His Hounds |
+| B3 | Tin Man Love |
+| B4 | Popcorn Ceiling |
+| B5 | Love Letter From A Red Roof Inn |
+
 
 
 ## Apple Music

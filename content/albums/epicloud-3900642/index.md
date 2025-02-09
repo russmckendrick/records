@@ -87,33 +87,34 @@ Epicloud is the fifteenth studio album by Canadian musician Devin Townsend, and 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Effervescent! |
+| A2 | True North |
+| A3 | Lucky Animals (The New Beige) |
+| A4 | Liberation |
+| B1 | Where We Belong |
+| B2 | Save Our Now |
+| B3 | Kingdom |
+| C1 | Divine |
+| C2 | Grace |
+| C3 | More! |
+| C4 | Lessons |
+| D1 | Hold On |
+| D2 | Angel |
+| D3 | Epicloud |
+| CD-1 | Effervescent! |
+| CD-2 | True North |
+| CD-3 | Lucky Animals (The New Beige) |
+| CD-4 | Liberation |
+| CD-5 | Where We Belong |
+| CD-6 | Save Our Now |
+| CD-7 | Kingdom |
+| CD-8 | Divine |
+| CD-9 | Grace |
+| CD-10 | More! |
+| CD-11 | Lessons |
+| CD-12 | Hold On |
+| CD-13 | Angel |
+
 
 
 ## Apple Music

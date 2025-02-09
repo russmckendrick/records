@@ -36,12 +36,13 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Good Vibrations (Original 45 RPM Single Version) |
+| A2 | Good Vibrations (Various Sessions) |
+| A3 | Good Vibrations (Alternate Take) |
+| B1 | Good Vibrations (Instrumental) |
+| B2 | Good Vibrations (Live Concert Rehearsal 8/25/67) |
+| B3 | Let's Go Away For Awhile (Original B-Side) |
+
 
 
 ## Apple Music

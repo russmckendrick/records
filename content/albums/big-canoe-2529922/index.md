@@ -34,16 +34,17 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spiritual Hunger |
+| A2 | Don't Bury My Heart |
+| A3 | Timmy |
+| A4 | So Deep |
+| A5 | No Thunder, No Fire, No Rain |
+| B1 | Carve You In Marble |
+| B2 | Water Into Wine |
+| B3 | Hyacinth |
+| B4 | Big Canoe |
+| B5 | Are We One Or Are We Two |
+
 
 
 ## Apple Music

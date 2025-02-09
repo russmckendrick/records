@@ -29,17 +29,18 @@ styles: ["Doo Wop", "Soul", "Surf"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Open My Eyes |
+| A2 | Just For A Minute |
+| A3 | Summer Breeze |
+| A4 | Okay My Love |
+| A5 | Sha La Da La La |
+| B1 | Those Years Are Over |
+| B2 | Do What |
+| B3 | Carnival |
+| B4 | You Never Know Whether |
+| B5 | It's You |
+| B6 | Love In The Wind |
+
 
 
 ## Apple Music

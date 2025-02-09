@@ -29,317 +29,318 @@ styles: ["Indie Rock", "Pop Punk", "Interview", "Comedy", "Britpop", "Alternativ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Rarities, Remixes & B-Sides |
+| CD1-1 | Caught By The Fuzz (Backbeat Version) |
+| CD1-2 | Strange Ones (Backbeat Version) |
+| CD1-3 | Caught By The Fuzz (Acoustic) |
+| CD1-4 | Odd? |
+| CD1-5 | Wait For The Sun |
+| CD1-6 | Sex! |
+| CD1-7 | Condition |
+| CD1-8 | Je Suis Votre Papa Sucre |
+| CD1-9 | Melanie Davis |
+| CD1-10 | Sometimes We're Very Sad |
+| CD1-11 | Nothing More's Gonna Get In My Way |
+| CD1-12 | 20ft Halo |
+| CD1-13 | Sun Hits The Sky (Bently Rhythm Ace Remix) |
+| CD1-14 | Some Girls Are Bigger Than Others |
+| CD1-15 | Don't Be Cruel |
+| CD1-16 | The Animal |
+| CD1-17 | We Still Need More (Than Anyone Can Give) |
+| CD2-1 | We Still Need More (Than Anyone Can Give) (Dust Brothers Recording) |
+| CD2-2 | Sick |
+| CD2-3 | What A Shame |
+| CD2-4 | Lucky (No Fear) |
+| CD2-5 | You'll Never Walk Again |
+| CD2-6 | You Too Can Play Alright |
+| CD2-7 | Believer |
+| CD2-8 | Faraway (Acoustic) |
+| CD2-9 | Oracle |
+| CD2-10 | Velvetine |
+| CD2-11 | Electric Cowboy |
+| CD2-12 | Tishing In Windows (Kicking In Doors) |
+| CD2-13 | That Old Song |
+| CD2-14 | The Loner |
+| CD2-15 | I Told The Truth |
+| CD2-16 | Everytime |
+| CD2-17 | Kiss Of Life (Tom Tom Club Mix) |
+| CD2-18 | We Dream Of This |
+| CD2-19 | Fin (Dave Eringa Alternative Mix) |
+| CD2-20 | Car Crash |
+| CD2-21 | I Believe In Love |
+|  | Live |
+|  | Mark Radcliffe BBC Radio Session 24th October 1994 |
+| CD3-1 | Mark Radcliffe Introduction |
+| CD3-2 | Strange Ones |
+| CD3-3 | Time |
+| CD3-4 | Interview |
+| CD3-5 | Sitting Up Straight |
+| CD3-6 | Lenny |
+|  | RDS Arena Dublin, 22nd June 1996 |
+| CD3-7 | Shane O'Donoghue Introduction |
+| CD3-8 | Lenny |
+| CD3-9 | Caught By The Fuzz |
+| CD3-10 | Sitting Up Straight |
+| CD3-11 | I'd Like To Know |
+| CD3-12 | Odd? |
+| CD3-13 | Lose It  |
+| CD3-14 | Richard III |
+| CD3-15 | Strange Ones |
+| CD3-16 | Time |
+| CD3-17 | Alright |
+| CD3-18 | We're Not Supposed To |
+| CD3-19 | She's So Alone |
+| CD3-20 | Melanie Davis |
+| CD3-21 | Going Out |
+|  | Glastonbury Festival, 26th June 1997 |
+| CD4-1 | I'd Like To Know |
+| CD4-2 | Richard III |
+| CD4-3 | Sitting Up Straight |
+| CD4-4 | Cheapskate |
+| CD4-5 | Time  |
+| CD4-6 | Alright |
+| CD4-7 | Odd? |
+| CD4-8 | In It For The Money |
+| CD4-9 | Tonight |
+| CD4-10 | You Can See Me |
+| CD4-11 | Caught By The Fuzz |
+| CD4-12 | Going Out |
+| CD4-13 | It's Not Me |
+| CD4-14 | Sun Hits The Sky |
+| CD4-15 | Strange Ones |
+| CD4-16 | Lenny |
+|  | Reading Festival, 29th August 1998 |
+| CD4-17 | Out Of The Blue |
+| CD4-18 | Alright |
+| CD4-19 | In It For The Money |
+| CD4-20 | Richard III |
+| CD4-21 | Sun Hits The Sky |
+| CD4-22 | Going Out |
+|  | T In The Park, 9th July 2000 |
+| CD5-1 | Mary  |
+| CD5-2 | Alright |
+| CD5-3 | Time |
+| CD5-4 | Jesus Came From Outta Space |
+| CD5-5 | Sick |
+| CD5-6 | Faraway |
+| CD5-7 | Sun Hits The Sky |
+| CD5-8 | Going Out |
+| CD5-9 | Caught By The Fuzz |
+|  | Reading Festival, 25th August 2001 |
+| CD5-10 | Steve Lamacq Introduction |
+| CD5-11 | Pumping On Your Stereo |
+| CD5-12 | Caught By The Fuzz |
+| CD5-13 | Moving |
+| CD5-14 | Can't Get Up |
+| CD5-15 | Beautiful Prople |
+| CD5-16 | Late In The Day |
+| CD5-17 | Lose It |
+| CD5-18 | Funniest Thing |
+| CD5-19 | Richard III |
+| CD5-20 | Going Out |
+| CD5-21 | Sun Hits The Sky |
+| CD5-22 | Lenny |
+|  | Radio Kerrang! Session, 10th August 2005 |
+| CD6-1 | St. Petersburg |
+| CD6-2 | Late In The Day |
+| CD6-3 | Seen The Light |
+| CD6-4 | Sitting Up Straight |
+|  | Ronnie Scott's Jazz Club, London, 18th August 2005 |
+| CD6-5 | Kiss Of Life |
+| CD6-6 | Tales Of Endurance (Parts 4, 5 & 6) |
+| CD6-7 | Roxy |
+| CD6-8 | Moving |
+| CD6-9 | Low C |
+| CD6-10 | Road To Rouen |
+| CD6-11 | Bullet |
+| CD6-12 | Sun Hits The Sky |
+| CD6-13 | Fin |
+| CD6-14 | Mary |
+|  | Later With Jools Holland, 29th February 2008 |
+| CD6-15 | Diamond Hoo Ha Man |
+| CD6-16 | Bad Blood |
+| CD6-17 | Rebel In You |
+|  | Shepherd's Bush Empire, London, 10th December 2008 |
+| CD6-18 | The Return Of... |
+| CD6-19 | Ghost Of A Friend |
+| CD6-20 | Outside |
+|  | Roots & Vines (Demos, Out-Takes & Oddities) |
+| CD7-1 | Sitting Up Straight (4 Track Demo) |
+| CD7-2 | Caught By The Fuzz (4 Track Demo) |
+| CD7-3 | Lose It (4 Track Demo) |
+| CD7-4 | Richard III (4 Track Demo) |
+| CD7-5 | Out Of The Blue (Studio Recording Monitor Mix) |
+| CD7-6 | Moving (8 Track Demo) |
+| CD7-7 | Sun Hits The Sky (Acoustic Radio Session, Studio Brussel, 2002) |
+| CD7-8 | Stinkfinger (Studio Recording Monitor Mix) |
+| CD7-9 | Dark Star (Studio Recording) |
+| CD7-10 | Brecon Beacons (Rehearsal Room Demo) |
+| CD7-11 | Can't Get Up (Mini-Disc) |
+| CD7-12 | Funniest Thing (4 Track Demo) |
+| CD7-13 | Orbiting Around The World (Mini-Disc) |
+| CD7-14 | Sad Girl (Radio Kerrang! 105.2, Birmingham, 2005) |
+| CD7-15 | Road To Rouen (Studio Outtake) |
+| CD7-16 | Fin (Live At UEA, Norwich, 2005) |
+| CD7-17 | Car Crash (Rehearsal Room Demo) |
+| CD7-18 | Next To You (Studio Recording Monitor Mix) |
+| CD7-19 | Bury My Heart (Demo) |
+| CD7-20 | 345 (Demo) |
+| CD7-21 | Tronic (Demo) |
+|  | The Studio Albums |
+|  | I Should Coco |
+| CD8-1 | I'd Like To Know |
+| CD8-2 | Caught By The Fuzz |
+| CD8-3 | Mansize Rooster |
+| CD8-4 | Alright |
+| CD8-5 | Lose It |
+| CD8-6 | Lenny |
+| CD8-7 | Strange Ones |
+| CD8-8 | Sitting Up Straight |
+| CD8-9 | She's So Loose |
+| CD8-10 | We're Not Supposed To |
+| CD8-11 | Time |
+| CD8-12 | Sofa (Of My Lethargy) |
+| CD8-13 | Time To Go |
+|  | In It For The Money |
+| CD9-1 | In It For The Money  |
+| CD9-2 | Richard III  |
+| CD9-3 | Tonight  |
+| CD9-4 | Late In The Day  |
+| CD9-5 | G-Song  |
+| CD9-6 | Sun Hits The Sky  |
+| CD9-7 | Going Out  |
+| CD9-8 | It's Not Me  |
+| CD9-9 | Cheapskate  |
+| CD9-10 | You Can See Me  |
+| CD9-11 | Hollow Little Reign |
+| CD9-12 | Sometimes I Make You Sad |
+|  | Supergrass |
+| CD10-1 | Moving |
+| CD10-2 | Your Love |
+| CD10-3 | What Went Wrong (In Your Head) |
+| CD10-4 | Beautiful People |
+| CD10-5 | Shotover Hill |
+| CD10-6 | Eon |
+| CD10-7 | Mary |
+| CD10-8 | Jesus Came From Outta Space |
+| CD10-9 | Pumping On Your Stereo |
+| CD10-10 | Born Again |
+| CD10-11 | Faraway |
+| CD10-12 | Mama And Papa |
+|  | Life On Other Planets |
+| CD11-1 | Za |
+| CD11-2 | Rush Hour Soul |
+| CD11-3 | Seen The Light |
+| CD11-4 | Brecon Beacons |
+| CD11-5 | Can't Get Up |
+| CD11-6 | Evening Of The Day |
+| CD11-7 | Never Done Nothing Like That Before |
+| CD11-8 | Funniest Thing |
+| CD11-9 | Grace |
+| CD11-10 | LA Song |
+| CD11-11 | Prophet 15 |
+| CD11-12 | Run |
+|  | Road To Rouen |
+| CD12-1 | Tales Of Endurance (Parts 4, 5 & 6) |
+| CD12-2 | St. Petersburg |
+| CD12-3 | Sad Girl |
+| CD12-4 | Roxy |
+| CD12-5 | Coffee In The Pot |
+| CD12-6 | Road To Rouen |
+| CD12-7 | Kick In The Teeth |
+| CD12-8 | Low C |
+| CD12-9 | Fin |
+|  | Diamond Hoo Ha |
+| CD13-1 | Diamond Hoo Ha Man |
+| CD13-2 | Bad Blood |
+| CD13-3 | Rebel In You |
+| CD13-4 | When I Needed You |
+| CD13-5 | 345 |
+| CD13-6 | The Return Of... |
+| CD13-7 | Rough Knuckles |
+| CD13-8 | Ghost Of A Friend |
+| CD13-9 | Whiskey And Green Tea |
+| CD13-10 | Outside  |
+| CD13-11 | Butterfly |
+|  | I Should Coco |
+| A1 | I'd Like To Know |
+| A2 | Caught By The Fuzz |
+| A3 | Mansize Rooster |
+| A4 | Alright |
+| A5 | Lose It |
+| A6 | Lenny |
+| B1 | Strange Ones |
+| B2 | Sitting Up Straight |
+| B3 | She's So Loose |
+| B4 | We're Not Supposed To |
+| B5 | Time |
+| B6 | Sofa (Of My Lethargy) |
+| B7 | Time To Go |
+|  | In It For The Money |
+| C1 | In It For The Money |
+| C2 | Richard III |
+| C3 | Tonight |
+| C4 | Late In The Day |
+| C5 | G-Song |
+| C6 | Sun Hits The Sky |
+| D1 | Going Out |
+| D2 | It's Not Me |
+| D3 | Cheapskate |
+| D4 | You Can See Me |
+| D5 | Hollow Little Reign |
+| D6 | Sometimes I Make You Sad |
+|  | Supergrass |
+| E1 | Moving |
+| E2 | Your Love |
+| E3 | What Went Wrong (In Your Head) |
+| E4 | Beautiful People |
+| E5 | Shotover Hill |
+| E6 | Eon |
+| F1 | Mary |
+| F2 | Jesus Came From Outta Space |
+| F3 | Pumping On Your Stereo |
+| F4 | Born Again |
+| F5 | Faraway |
+| F6 | Mama And Papa |
+|  | Life On Other Planets  |
+| G1 | Za |
+| G2 | Rush Hour Soul |
+| G3 | Seen The Light |
+| G4 | Brecon Beacons |
+| G5 | Can't Get Up |
+| G6 | Evening Of The Day |
+| H1 | Never Done Nothing Like That Before |
+| H2 | Funniest Thing |
+| H3 | Grace |
+| H4 | LA Song |
+| H5 | Prophet 15 |
+| H8 | Run |
+|  | Road To Rouen  |
+| I1 | Tales Of Endurance (Parts 4, 5 & 6) |
+| I2 | St. Petersburg |
+| I3 | Sad Girl |
+| I4 | Roxy |
+| J1 | Coffee In The Pot |
+| J2 | Road To Rouen |
+| J3 | Kick In The Teeth |
+| J4 | Low C |
+| J5 | Fin |
+|  | Diamond Hoo Ha  |
+| K1 | Diamond Hoo Ha Man |
+| K2 | Bad Blood |
+| K3 | Rebel In You |
+| K4 | When I Needed You |
+| K5 | 345 |
+| K6 | The Return Of... |
+| L1 | Rough Knuckles |
+| L2 | Ghost Of A Friend |
+| L3 | Whiskey And Green Tea |
+| L4 | Outside |
+| L5 | Butterfly |
+|  | 2020 Remixes Single |
+| M1 | Caught By The Fuzz (Danny Goffey 2020 Remix) |
+| N1 | Richard III (Cousn 2020 Remix) |
+
 
 
 ## Apple Music

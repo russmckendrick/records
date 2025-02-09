@@ -44,28 +44,29 @@ So here they were, mostly back in New York now, jamming in lower Manhattan sub-b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Super Disco Breakin' |
+| A2 | The Move |
+| A3 | Remote Control |
+| A4 | Song For The Man |
+| A5 | Just A Test |
+| A6 | Body Movin' |
+| B1 | Intergalactic |
+| B2 | Sneakin' Out The Hospital |
+| B3 | Putting Shame In Your Game |
+| B4 | Flowin' Prose |
+| B5 | And Me |
+| B6 | Three MC's And One DJ |
+| C1 | The Grasshopper Unit (Keep Movin') |
+| C2 | Song For Junior |
+| C3 | I Don't Know |
+| C4 | The Negotiation Limerick File |
+| C5 | Electrify |
+| D1 | Picture This |
+| D2 | Unite |
+| D3 | Dedication |
+| D4 | Dr. Lee, PhD |
+| D5 | Instant Death |
+
 
 
 ## Apple Music

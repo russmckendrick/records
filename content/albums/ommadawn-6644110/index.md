@@ -39,8 +39,9 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Ommadawn Part 1 |
+| B | Ommadawn Part 2 |
+
 
 
 ## Apple Music

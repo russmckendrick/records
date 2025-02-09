@@ -31,24 +31,22 @@ styles: ["Leftfield", "Soundtrack", "Techno", "Ambient", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lust For Life |
+| A2 | Deep Blue Day |
+| A3 | Trainspotting |
+| B1 | Atomic |
+| B2 | Temptation |
+| B3 | Nightclubbing |
+| C1 | Sing |
+| C2 | Perfect Day |
+| C3 | Mile End |
+| C4 | For What You Dream Of (Full On Renaissance Mix) |
+| D1 | 2:1 |
+| D2 | A Final Hit |
+| D3 | Born Slippy (NUXX) |
+| D4 | Closet Romantic |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

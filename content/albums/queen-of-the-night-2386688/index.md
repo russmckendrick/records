@@ -31,17 +31,18 @@ styles: ["Blues Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Caddo Queen |
+| A2 | A Woman Left Lonely |
+| A3 | Souvenirs |
+| A4 | After Midnight |
+| A5 | Queen Of The Night |
+| B1 | Oh My My |
+| B2 | As The Years Go Passing By |
+| B3 | Yesterday's Music |
+| B4 | We Had It All |
+| B5 | The Other Side |
+| B6 | Trade Winds |
+
 
 
 ## Apple Music

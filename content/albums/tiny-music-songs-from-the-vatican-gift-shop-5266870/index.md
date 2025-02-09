@@ -36,18 +36,19 @@ Tiny Music... initially received mixed reviews, similar to the band's earlier wo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Press Play |
+| A2 | Pop's Love Suicide |
+| A3 | Tumble In The Rough |
+| A4 | Big Bang Baby |
+| A5 | Lady Picture Show |
+| A6 | And So I Know |
+| B7 | Trippin' On A Hole In A Paper Heart |
+| B8 | Art School Girl |
+| B9 | Adhesive |
+| B10 | Ride The Cliché |
+| B11 | Daisy |
+| B12 | Seven Caged Tigers |
+
 
 
 ## Apple Music

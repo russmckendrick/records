@@ -34,23 +34,24 @@ styles: ["Alternative Rock", "Art Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Oh! Brother |
+| A2 | C.R.E.E.P. |
+| A3 | No Bulbs 3 |
+| A4 | Rollin' Dany |
+| A5 | Couldn't Get Ahead |
+| A6 | Cruisers Creek |
+| A7 | L.A |
+| A8 | Living Too Late |
+| B1 | Hit The North (Part 1) |
+| B2 | Mr. Pharmacist |
+| B3 | Hey! Luciani |
+| B4 | There's A Ghost In My House |
+| B5 | Victoria |
+| B6 | Big New Prinz |
+| B7 | Wrong Place, Right Time |
+| B8 | Jerusalem |
+| B9 | Dead Beat Descendant |
+
 
 
 ## Apple Music

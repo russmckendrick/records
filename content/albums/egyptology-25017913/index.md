@@ -46,26 +46,27 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It Is Time |
+| A2 | Beautiful Dream |
+| A3 | Call Me Up |
+| A4 | Vanity Fair |
+| A5 | She's The One |
+| B1 | (Vocal Interlude) |
+| B2 | Curse Of The Mummy's Tomb |
+| B3 | Hercules |
+| B4 | Love Is Best |
+| B5 | Rolling Off A Log |
+| C1 | Strange Groove |
+| C2 | The Whole Of The Night |
+| C3 | Piece Of Mind |
+| C4 | This World |
+| C5 | Always |
+| D1 | It Is Time (Live) |
+| D2 | Beautiful Dream (Live) |
+| D3 | Rolling Off A Log (Live) |
+| D4 | Hercules (Live) |
+| D5 | Vanity Fair (Live) |
+
 
 
 ## Apple Music

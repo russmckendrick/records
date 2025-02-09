@@ -55,54 +55,55 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Kick Inside |
+| A1 | Moving |
+| A2 | The Saxophone Song |
+| A3 | Strange Phenomena |
+| A4 | Kite |
+| A5 | The Man With The Child In His Eyes |
+| A6 | Wuthering Heights |
+| B1 | James And The Cold Gun |
+| B2 | Feel It |
+| B3 | Oh To Be In Love |
+| B4 | L'Amour Looks Something Like You |
+| B5 | Them Heavy People |
+| B6 | Room For The Life |
+| B7 | The Kick Inside |
+|  | Lionheart |
+| C1 | Symphony In Blue |
+| C2 | In Search Of Peter Pan |
+| C3 | Wow |
+| C4 | Don't Push Your Foot On The Heartbrake |
+| C5 | Oh England My Lionheart |
+| D1 | Full House |
+| D2 | In The Warm Room |
+| D3 | Kashka From Baghdad |
+| D4 | Coffee Homeground |
+| D5 | Hammer Horror |
+|  | Never For Ever |
+| E1 | Babooshka |
+| E2 | Delius |
+| E3 | Blow Away |
+| E4 | All We Ever Look For |
+| E5 | Egypt |
+| F1 | The Wedding List |
+| F2 | Violin |
+| F3 | The Infant Kiss |
+| F4 | Night Scented Stock |
+| F5 | Army Dreamers |
+| F6 | Breathing |
+|  | The Dreaming |
+| G1 | Sat In Your Lap |
+| G2 | There Goes A Tenner |
+| G3 | Pull Out The Pin |
+| G4 | Suspended In Gaffa |
+| G5 | Leave It Open |
+| H1 | The Dreaming |
+| H2 | Night Of The Swallow |
+| H3 | All The Love |
+| H4 | Houdini |
+| H5 | Get Out Of My House |
+
 
 
 ## Apple Music

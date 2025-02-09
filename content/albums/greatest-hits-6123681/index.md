@@ -35,19 +35,20 @@ Greatest Hits is a compilation album by the British blues rock band Fleetwood Ma
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rhiannon |
+| A2 | Don't Stop |
+| A3 | Go Your Own Way |
+| A4 | Hold Me |
+| A5 | Everywhere |
+| A6 | Gypsy |
+| A7 | As Long As You Follow |
+| B1 | Say You Love Me |
+| B2 | Dreams |
+| B3 | Little Lies |
+| B4 | Sara |
+| B5 | Tusk |
+| B6 | No Questions Asked |
+
 
 
 ## Apple Music

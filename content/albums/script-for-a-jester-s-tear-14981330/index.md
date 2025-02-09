@@ -49,30 +49,31 @@ Script for a Jester's Tear is the only studio album by Marillion to feature the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Record 1 - Script For A Jesters's Tear (2020 Remix) |
+| A1 | Script For A Jester's Tear |
+| A2 | He Knows You Know |
+| A3 | The Web |
+| B1 | Garden Party |
+| B2 | Chelsea Monday |
+| B3 | Forgotten Sons |
+|  | Record 2 - Market Square Heroes EP (2020 Remix) |
+| C1 | Market Square Heroes |
+| C2 | Three Boats Down From The Candy |
+| C3 | Charting The Single |
+| D4 | Grendel |
+|  | Record 3 - Live At The Marquee Club Part 1  29th December 1982 (Previously Unreleased) |
+| E1 | Garden Party |
+| E2 | Three Boats Down From The Candy |
+| E3 | Chelsea Monday |
+| F1 | Grendel |
+| F2 | He Knows You Know |
+|  | Record 4 - Live At The Marquee Club Part 2  29th December 1982 (Previously Unreleased) |
+| G1 | The Web |
+| G2 | Script For A Jester's Tear |
+| H1 | Forgotten Sons |
+| H2 | Market Square Heroes |
+| H3 | Margaret |
+
 
 
 ## Apple Music

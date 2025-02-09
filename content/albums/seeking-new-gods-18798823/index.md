@@ -41,15 +41,16 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mausoleum Of My Former Self |
+| A2 | Can’t Carry On |
+| A3 | Loan Your Loneliness |
+| A4 | Seeking New Gods |
+| A5 | Hiking In Lightning |
+| B1 | Holiest Of The Holy Men |
+| B2 | The Keep |
+| B3 | Everlasting Joy |
+| B4 | Distant Snowy Peaks |
+
 
 
 ## Apple Music

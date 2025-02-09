@@ -36,21 +36,22 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introduction |
+| A2 | Hazey Jane II |
+| A3 | River Man |
+| A4 | Cello Song |
+| A5 | Hazey Jane I |
+| A6 | Pink Moon |
+| A7 | Poor Boy |
+| B1 | Magic |
+| B2 | Place To Be |
+| B3 | Northern Sky |
+| B4 | Road |
+| B5 | Fruit Tree |
+| B6 | Black Eyed Dog |
+| B7 | Way To Blue |
+| B8 | From The Morning |
+
 
 
 ## Apple Music

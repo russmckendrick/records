@@ -31,18 +31,19 @@ Animal Rights is the fourth studio album by American musician Moby, released on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Now I Let Go |
+| A2 | Come On Baby |
+| A3 | Someone To Love |
+| A4 | Heavy Flow |
+| A5 | You |
+| A6 | My Love Will Never Die |
+| A7 | Soft |
+| B1 | Say It's All Mine |
+| B2 | That's When I Reach For My Revolver |
+| B3 | Face It |
+| B4 | Living |
+| B5 | Love Song For My Mum |
+
 
 
 ## Apple Music

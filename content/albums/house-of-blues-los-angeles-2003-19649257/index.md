@@ -37,22 +37,20 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blackest Eyes |
+| A2 | Shesmovedon |
+| A3 | Gravity Eyelids |
+| B4 | Futile |
+| B5 | Even Less |
+| B6 | Slave Called Shiver |
+| B7 | Waiting |
+| C8 | Hatesong |
+| C9 | Russia On Ice |
+| D10 | Moon Touches Your Shoulder |
+| D11 | Strip The Soul |
+| D12 | Wedding Nails |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -35,19 +35,20 @@ Of course, much of the Peppers 2.0 was as hedonistic as ever (“Stone Cold Bush
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Good Time Boys |
+| A2 | Higher Ground |
+| A3 | Subway To Venus |
+| A4 | Magic Johnson |
+| A5 | Nobody Weird Like Me |
+| A6 | Knock Me Down |
+| B1 | Taste The Pain |
+| B2 | Stone Cold Bush |
+| B3 | Fire |
+| B4 | Pretty Little Ditty |
+| B5 | Punk Rock Classic |
+| B6 | Sexy Mexican Maid |
+| B7 | Johnny Kick A Hole In The Sky |
+
 
 
 ## Apple Music

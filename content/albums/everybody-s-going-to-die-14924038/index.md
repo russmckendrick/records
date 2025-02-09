@@ -35,16 +35,17 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fantasy |
+| A2 | Don't You Believe In Magic? |
+| A3 | Everybody's Going To Die |
+| A4 | Do What You Want (With Love In Your Heart) |
+| A5 | Into The Skull |
+| B1 | Seven |
+| B2 | The Hunt |
+| B3 | The Great Black Hole |
+| B4 | Sorcery & Sabotage |
+| B5 | Living In A Bubble |
+
 
 
 ## Apple Music

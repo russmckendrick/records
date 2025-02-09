@@ -30,16 +30,17 @@ styles: ["Acid Jazz", "Jazz-Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rest Of Me |
+| A2 | Put Yourself In My Shoes |
+| A3 | Reality |
+| A4 | Country Funkin' |
+| A5 | Got To Give |
+| B1 | Mother's Tongue |
+| B2 | Dream Come True |
+| B3 | Never Stop |
+| B4 | Headhunters |
+| B5 | A Day At The Seaside |
+
 
 
 ## Apple Music

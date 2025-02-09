@@ -33,12 +33,13 @@ styles: ["Post Rock", "Stoner Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Orion |
+| A2 | Magik |
+| A3 | Underskin |
+| B1 | Sirens |
+| B2 | Day 366 |
+| B3 | One Must Fall |
+
 
 
 ## Apple Music

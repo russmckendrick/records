@@ -27,39 +27,40 @@ styles: ["Soundtrack", "Country", "Rock & Roll"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Can The Circle Be Unbroken |
+| A2 | Blue Yodel No. 8 (Mule Skinner Blues) |
+| A3 | Fox Chase |
+| A4 | New San Antonio Rose |
+| A5 | Wabash Cannonball |
+| A6 | It's Mighty Dark To Travel |
+| A7 | Foggy Mountain Breakdown |
+| A8 | It Wasn't God Who Made Honky Tonk Angels |
+| B1 | I'm So Lonesome I Could Cry |
+| B2 | Crazy Arms |
+| B3 | Ring of Fire |
+| B4 | Crazy |
+| B5 | Coal Miner's Daughter |
+| B6 | Kiss An Angel Good Mornin' |
+| B7 | Hungry Eyes |
+| B8 | Stand By Your Man  |
+| C1 | You Ain't Goin' Nowhere |
+| C2 | Me And Bobby McGee |
+| C3 | Girl From The North Country |
+| C4 | Are You Sure Hank Done It This Way |
+| C5 | Jolene |
+| C6 | Boulder To Birmingham |
+| C7 | Whiskey River |
+| D1 | Pancho and Lefty |
+| D2 | He Stopped Loving Her Today |
+| D3 | Streets of Bakersfield |
+| D4 | Where've You Been |
+| D5 | Go Rest High On That Mountain |
+| D6 | I Still Miss Someone |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="3ZAFnRYQRAiBplISQFj7nC" width="100%" height="500" >}}<br>
 
 
 

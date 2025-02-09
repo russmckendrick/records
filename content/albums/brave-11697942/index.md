@@ -52,46 +52,47 @@ Brave is the seventh studio album by Marillion, released in 1994. It charted at 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Brave (2018 Steven Wilson Remix) |
+| A1 | Bridge |
+| A2 | Living With The Big Lie |
+| A3 | Runaway |
+| B1 | Goodbye To All That / Wave / Mad / The Opium Den / The Slide / Standing In The Swing |
+| B2 | Hard As Love |
+| C1 | The Hollow Man |
+| C2 | Alone Again In The Lap Of Luxury |
+| C3 | Paper Lies |
+| D1 | Brave |
+| D2 | The Great Escape |
+| D3 | Made Again |
+|  | Live At La Cigale (29/4/1994) (2018 Michael Hunter Remix) |
+| E1 | River |
+| E2 | Bridge |
+| E3 | Living With The Big Lie |
+| E4 | Runaway |
+| E5 | Goodbye To All That |
+| F1 | Wave |
+| F2 | Mad |
+| F3 | The Opium Den |
+| F4 | The Slide |
+| F5 | Standing In The Swing |
+| F6 | Hard As Love |
+| G1 | The Hollow Man |
+| G2 | Alone Again In The Lap Of Luxury |
+| G3 | Now Wash Your Hands |
+| G4 | Paper Lies |
+| H1 | Brave |
+| H2 | The Great Escape / The Last Of You / Fallin' From The Moon |
+| H3 | Made Again |
+| I1 | Cover My Eyes (Pain And Heaven) |
+| I2 | Sláinte Mhath |
+| I3 | No One Can |
+| I4 | Sympathy |
+| I5 | Easter |
+| J1 | Garden Party |
+| J2 | Waiting To Happen |
+| J3 | Hooks In You |
+| J4 | The Space... |
+
 
 
 ## Apple Music

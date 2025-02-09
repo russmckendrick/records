@@ -28,18 +28,19 @@ Loss is the debut album of Scottish indie pop band Mull Historical Society. It i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Public Service Announcer |
+| A2 | Watching Xanadu |
+| A3 | Instead |
+| B1 | I Tried |
+| B2 | This Is Not Who We Were |
+| B3 | Barcode Bypass |
+| C1 | Only I |
+| C2 | Animal Cannabus |
+| C3 | Strangeways Inside |
+| D1 | Mull Historical Society |
+| D2 | Paper Houses |
+| D3 | Loss |
+
 
 
 ## Apple Music

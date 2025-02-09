@@ -30,18 +30,19 @@ Guns is the fifth studio album by English rock band Cardiacs. It was recorded an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spell With A Shell |
+| A2 | There's Good Cud |
+| A3 | Wind And Rains Is Cold |
+| A4 | Cry Wet Smile Dry |
+| A5 | Jitterbug (Junior Is A) |
+| B1 | Sleep All Eyes Open |
+| B2 | Come Back Clammy Lammy |
+| B3 | Clean That Evil Mud Out Your Soul |
+| B4 | Ain't He Messy Though |
+| B5 | Signs |
+| B6 | Song Of A Dead Pest |
+| B7 | Will Bleed Amen |
+
 
 
 ## Apple Music

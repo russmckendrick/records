@@ -33,18 +33,19 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Light From A Dead Star |
+| A2 | Kiss Chase |
+| A3 | Blackout |
+| A4 | Hypocrite |
+| A5 | Lovelife |
+| A6 | Desire Lines |
+| A7 | The Invisible Man |
+| B8 | Undertow |
+| B9 | Never-Never |
+| B10 | Lit Up |
+| B11 | Starlust |
+| B12 | When I Die |
+
 
 
 ## Apple Music

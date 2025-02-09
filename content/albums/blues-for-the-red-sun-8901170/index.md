@@ -31,20 +31,21 @@ With Josh Homme feeding his guitar through a bass cabinet, Nick Oliveri digging 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thumb |
+| A2 | Green Machine |
+| A3 | Molten Universe |
+| A4 | 50 Million Year Trip  (Downside Up) |
+| A5 | Thong Song |
+| A6 | Apothecaries' Weight |
+| B1 | Caterpillar March |
+| B2 | Freedom Run |
+| B3 | 800 |
+| B4 | Writhe |
+| B5 | Capsized |
+| B6 | Allen's Wrench |
+| B7 | Mondo Generator |
+| B8 | Yeah |
+
 
 
 ## Apple Music

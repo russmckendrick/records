@@ -41,13 +41,14 @@ All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Walk On: Monk Morph Chamber Music |
+| A2 | One More Red Nightmare |
+| A3 | Banshee Legs Bell Hassle |
+| A4 | The ConstruKction Of Light |
+| A5 | The Letters |
+| B1 | Sailor's Tale |
+| B2 | Starless |
+
 
 
 ## Apple Music

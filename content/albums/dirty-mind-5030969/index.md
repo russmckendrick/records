@@ -37,14 +37,15 @@ After the punk-spiked indecency of “When You Were Mine”—one of the very be
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dirty Mind |
+| A2 | When You Were Mine |
+| A3 | Do It All Night |
+| A4 | Gotta Broken Heart Again |
+| B1 | Uptown |
+| B2 | Head |
+| B3 | Sister |
+| B4 | Partyup |
+
 
 
 ## Apple Music

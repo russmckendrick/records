@@ -38,19 +38,20 @@ In an interview about his 2023 album of melancholy synth-pop, <i>Fantasy</i>, An
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Water Deep |
+| A2 | Oceans Niagara |
+| A3 | Amnesia |
+| A4 | Us And The Rest |
+| B1 | Earth To Sea |
+| B2 | Radar, Far, Gone |
+| B3 | Deceiver |
+| C1 | Fantasy |
+| C2 | Laura |
+| C3 | Sunny Boy |
+| D1 | Kool Nuit |
+| D2 | Sunny Boy Part 2 |
+| D3 | Dismemberment Bureau |
+
 
 
 ## Apple Music

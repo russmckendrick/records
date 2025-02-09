@@ -26,17 +26,18 @@ styles: ["Power Pop", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tokyo E Ikitai |
+| A2 | 17 Times |
+| A3 | In Nature |
+| A4 | High Times |
+| A5 | It Couldn’t Be You |
+| A6 | She’ll Do |
+| B1 | Angel Eyes |
+| B2 | Made For You |
+| B3 | Reasons To Live |
+| B4 | American Metal |
+| B5 | Tokyo E Ikitai (Instrumental) |
+
 
 
 ## Apple Music

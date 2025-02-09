@@ -32,12 +32,13 @@ styles: ["Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A: Paradise |
+| A2 | B: Purgatory |
+|  | Seti - A Three Piece Suite |
+| B1 | Seti Pt 1 |
+| B2 | Seti Pt 2 |
+| B3 | Seti Pt 3 |
+
 
 
 ## Apple Music

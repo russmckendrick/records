@@ -31,13 +31,14 @@ Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dissolution (The Clouds Disperse) |
+| A2 | O-I |
+| A3 | Phalarn Dawn |
+| A4 | The Domes Of G'Bal |
+| B1 | Ayurvedic |
+| B2 | Kick Muck |
+| B3 | Agog In The Ether |
+
 
 
 ## Apple Music

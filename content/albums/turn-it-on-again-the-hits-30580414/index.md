@@ -33,24 +33,25 @@ styles: ["Soft Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Turn It On Again |
+| A2 | Invisible Touch |
+| A3 | Mama |
+| A4 | Land Of Confusion |
+| A5 | I Can't Dance |
+| B1 | Follow You, Follow Me |
+| B2 | Hold On My Heart |
+| B3 | Abacab |
+| B4 | I Know What I Like (In Your Wardrobe) |
+| C1 | No Son Of Mine |
+| C2 | Tonight Tonight Tonight |
+| C3 | In Too Deep |
+| C4 | Congo |
+| D1 | Jesus He Knows Me |
+| D2 | That's All |
+| D3 | Misunderstanding |
+| D4 | Throwing It All Away |
+| D5 | The Carpet Crawlers 1999 |
+
 
 
 ## Apple Music

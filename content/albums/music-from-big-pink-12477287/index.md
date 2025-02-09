@@ -37,17 +37,18 @@ In 2000, the album was rereleased with additional outtakes from the recording se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tears Of Rage |
+| A2 | To Kingdom Come |
+| B1 | In A Station |
+| B2 | Caledonia Mission |
+| B3 | The Weight |
+| C1 | We Can Talk |
+| C2 | Long Black Veil |
+| C3 | Chest Fever |
+| D1 | Lonesome Suzie |
+| D2 | This Wheel's On Fire |
+| D3 | I Shall Be Released |
+
 
 
 ## Apple Music

@@ -36,14 +36,15 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Woman In Chains |
+| A2 | Badman's Song |
+| A3 | Sowing The Seeds Of Love |
+| A4 | Advice For The Young At Heart |
+| B1 | Standing On The Corner Of The Third World |
+| B2 | Swords And Knives |
+| B3 | Year Of The Knife |
+| B4 | Famous Last Words |
+
 
 
 ## Apple Music

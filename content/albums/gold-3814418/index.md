@@ -34,27 +34,28 @@ Stephen King's 2006 book Lisey's Story includes part of the lyrics to "When the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New York, New York |
+| A2 | Firecracker |
+| A3 | Answering Bell |
+| A4 | La Cienega Just Smiled |
+| A5 | The Rescue Blues |
+| A6 | Somehow, Someday |
+| B1 | When The Stars Go Blue |
+| B2 | Nobody Girl |
+| B3 | Sylvia Plath |
+| B4 | Enemy Fire |
+| B5 | Gonna Make You Love Me |
+| C1 | Wild Flowers |
+| C2 | Harder Now That It's Over |
+| C3 | Touch, Feel & Lose |
+| C4 | Tina Toledo's Street Walkin' Blues |
+| C5 | Goodnight, Hollywood Blvd |
+| D1 | Rosalie Come And Go |
+| D2 | The Fools We Are As Men |
+| D3 | Sweet Black Magic |
+| D4 | The Bar Is A Beautiful Place |
+| D5 | Cannonball Days |
+
 
 
 ## Apple Music

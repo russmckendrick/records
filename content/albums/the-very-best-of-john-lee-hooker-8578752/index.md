@@ -30,22 +30,23 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Boom Boom |
+| A2 | Crawlin' King Snake |
+| A3 | Shake It Baby |
+| A4 | I'm In The Mood |
+| A5  | No Shoes |
+| A6 | Little Wheel |
+| A7 | Solid Sender |
+| A8 | Boogie Chillun |
+| B1 | Dimples |
+| B2 | Hobo Blues |
+| B3 | I Love You Honey |
+| B4 | I'm So Excited |
+| B5 | Leave My Wife Alone |
+| B6 | Every Night |
+| B7 | I'm Prison Bound |
+| B8  | Sugar Mama |
+
 
 
 ## Apple Music

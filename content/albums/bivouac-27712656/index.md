@@ -34,15 +34,16 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shield Your Eyes |
+| A2 | Big |
+| A3 | Sleep |
+| A4 | Donatello |
+| A5 | P.S. New York Is Burning |
+| B1 | Like A Secret |
+| B2 | Chesterfield King |
+| B3 | Parabola |
+| B4 | Bivouac |
+
 
 
 ## Apple Music

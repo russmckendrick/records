@@ -43,20 +43,21 @@ Avant-garde folktronica and 12-piece Icelandic flute sections don’t exactly le
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Arisen My Senses |
+| A2 | Blissing Me |
+| A3 | The Gate |
+| B1 | Body Memory |
+| B2 | Losss |
+| C1 | Utopia |
+| C2 | Saint |
+| C3 | Courtship |
+| C4 | Sue Me |
+| D1 | Tabula Rasa |
+| D2 | Claimstaker |
+| D3 | Paradisia |
+| D4 | Features Creatures |
+| D5 | Future Forever |
+
 
 
 ## Apple Music

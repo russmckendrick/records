@@ -30,16 +30,17 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Token |
+| A2 | I Can See You Outside |
+| A3 | Tectonic Plates |
+| A4 | Lighthouse |
+| A5 | Tears |
+| B1 | Hygiene Strip |
+| B2 | Blood |
+| B3 | Social Proof |
+| B4 | Kissing To Be Unkind |
+| B5 | Perfect Circle |
+
 
 
 ## Apple Music

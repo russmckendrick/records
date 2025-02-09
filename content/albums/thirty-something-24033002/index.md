@@ -51,23 +51,24 @@ Thirty Something (Chinese: 我的30定律; pinyin: wo de san shi ding lu; litera
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Smiley |
+| A2 | Satan (30-Something Years Later Mix) |
+| B1 | Where Is It Going (Feat. Stephen Hawking) |
+| B2 | Impact (30 Years Later And The Earth Is Still Burning Mix) |
+| C1 | Chime (30-Something Years Later Mix) |
+| C2 | Halcyon (30-Something Years Later Mix) |
+| D1 | The Box (30-Something Years Later Mix) |
+| D2 | Belfast (30-Something Years Later Mix) |
+| E1 | The Girl With The Sun In Her Head (Floex Remix) |
+| E2 | Belfast (David Holmes Remix) |
+| F1 | Halcyon & On (Jon Hopkins Remix) |
+| F2 | Chime (Eli Brown Remix) |
+| G1 | Impact (John Tejada Remix) |
+| G2 | Are We Here? (Dusky Remix) |
+| H1 | Belfast (ANNA Techno Remix) |
+| H2 | The Box (Joris Voorn Remix) |
+| H3 | Are We Here? (Shanti Celeste Remix) |
+
 
 
 ## Apple Music

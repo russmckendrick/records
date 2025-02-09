@@ -34,18 +34,19 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lament Of The Nithered Mercenary |
+| A2 | Really, How 'd It Get This Way? |
+| A3 | The Whistler |
+| B1 | Suppose I Told The Truth (Why I Had To Go) |
+| B2 | When You're Gone |
+| B3 | Long Cold Summer |
+| C1 | Goodnight, Europe |
+| C2 | You Take The Devil Out Of Me |
+| C3 | The Northern Cobbler |
+| D1 | My Enemies I Fear Not, But Protect Me From My Friends |
+| D2 | I'm Almost Home |
+| D3 | Sharks & Storms / Blizzard Of Horned Cats |
+
 
 
 ## Apple Music

@@ -26,58 +26,56 @@ styles: ["Blues Rock", "Hard Rock", "Prog Rock", "Ambient", "Alternative Rock", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | KI |
+| A1 | A Monday |
+| A2 | Coast |
+| A3 | Disruptr |
+| B1 | Gato |
+| B2 | Terminal |
+| B3 | Heaven Send |
+| C1 | Ain't Never Gonna Win... |
+| C2 | Winter |
+| C3 | Trainfire |
+| D1 | Lady Helen |
+| D2 | Ki |
+| D3 | Quiet Riot |
+| D4 | Demon League |
+|  | Addicted |
+| E1 | Addicted! |
+| E2 | Universe In A Ball! |
+| E3 | Bend It Like Bender! |
+| E4 | Supercrush! |
+| E5 | Hyperdrive! |
+| F1 | Resolve! |
+| F2 | Ih-Ah! |
+| F3 | The Way Home! |
+| F4 | Numbered! |
+| F5 | Awake!! |
+|  | Deconstruction |
+| G1 | Praise The Lowered |
+| G2 | Stand |
+| G3 | Juular |
+| H1 | Planet Of The Apes |
+| H2 | Sumeria |
+| I | The Mighty Masturbator |
+| J1 | Pandemic |
+| J2 | Deconstruction |
+| J3 | Poltergeist |
+|  | Ghost |
+| K1 | Fly |
+| K2 | Heart Baby |
+| K3 | Feather |
+| L1 | Kawaii |
+| L2 | Ghost |
+| L3 | Blackberry |
+| L4 | Monsoon |
+| M1 | Dark Matters |
+| M2 | Texada |
+| M3 | Seams |
+| N1 | Infinite Ocean |
+| N2 | As You Were |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

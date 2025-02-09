@@ -36,18 +36,19 @@ The Scots’ mastery of warm-souled alt-rock continues on their 11th album. Afte
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm In Love |
+| A2 | Thin Air |
+| A3 | Hold On |
+| A4 | The Darkest Part Of The Night |
+| A5 | I Have Nothing More To Say |
+| A6 | I Was Beautiful When I Was Alive |
+| B1 | The First Sight |
+| B2 | Live In The Moment |
+| B3 | Steady State |
+| B4 | It's A Sign |
+| B5 | With You |
+| B6 | Connected To Life |
+
 
 
 ## Apple Music

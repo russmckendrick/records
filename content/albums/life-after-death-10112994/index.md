@@ -39,30 +39,31 @@ Life After Death sold 690,000 copies in its first week, peaking at No. 1 on the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Life After Death Intro |
+| A2 | Somebody's Gotta Die |
+| A3 | Hypnotize |
+| A4 | Kick In The Door |
+| B1 | #!*@ You Tonight |
+| B2 | Last Day |
+| B3 | I Love The Dough |
+| B4 | What's Beef? |
+| C1 | B.I.G. Interlude |
+| C2 | Mo Money Mo Problems |
+| C3 | Niggas Bleed |
+| C4 | I Gotta Story To Tell |
+| D1 | Notorious Thugs |
+| D2 | Miss U |
+| D3 | Another |
+| D4 | Going Back To Cali |
+| E1 | Ten Crack Commandments |
+| E2 | Playa Hater |
+| E3 | Nasty Boy |
+| E4 | Sky's The Limit |
+| F1 | The World Is Filled... |
+| F2 | My Downfall |
+| F3 | Long Kiss Goodnight |
+| F4 | You're Nobody (Til Somebody Kills You) |
+
 
 
 ## Apple Music

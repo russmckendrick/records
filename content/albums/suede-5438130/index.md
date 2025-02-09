@@ -37,17 +37,18 @@ The album was preceded by what Rolling Stone called "its triptych of instantly c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | So Young |
+| A2 | Animal Nitrate |
+| A3 | She's Not Dead |
+| A4 | Moving |
+| A5 | Pantomime Horse |
+| B1 | The Drowners |
+| B2 | Sleeping Pills |
+| B3 | Breakdown  |
+| B4 | Metal Mickey |
+| B5 | Animal Lover |
+| B6 | The Next Life |
+
 
 
 ## Apple Music

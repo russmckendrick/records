@@ -33,17 +33,18 @@ Otis Blue was a crossover success for Redding and proved one of his best-selling
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ole Man Trouble |
+| A2 | Respect |
+| A3 | Change Gonna Come |
+| A4 | Down In The Valley |
+| A5 | I've Been Loving You Too Long |
+| B1 | Shake |
+| B2 | My Girl |
+| B3 | Wonderful World |
+| B4 | Rock Me Baby |
+| B5 | Satisfaction |
+| B6 | You Don't Miss Your Water |
+
 
 
 ## Apple Music

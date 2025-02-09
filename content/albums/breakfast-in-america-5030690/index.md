@@ -34,16 +34,17 @@ At the 22nd Annual Grammy Awards in 1980, Breakfast in America won two awards fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gone Hollywood |
+| A2 | The Logical Song |
+| A3 | Goodbye Stranger |
+| A4 | Breakfast In America |
+| A5 | Oh Darling |
+| B1 | Take The Long Way Home |
+| B2 | Lord Is It Mine |
+| B3 | Just Another Nervous Wreck |
+| B4 | Casual Conversations |
+| B5 | Child Of Vision |
+
 
 
 ## Apple Music

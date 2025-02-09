@@ -37,28 +37,29 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Terminal Earth |
+| LP-A2 | Ancient Ascendant |
+| LP-A3 | Icarus |
+| LP-B1 | Under Stars |
+| LP-B2 | Authorship Of Our Lives |
+| LP-C1 | The Signal |
+| LP-C2 | The Only Time I Don't Belong Is Now |
+| LP-C3 | When Gravity Fails |
+| LP-D1 | How Bright Is The Sun? |
+| LP-D2 | Inside This Machine |
+| LP-D3 | An Ending |
+| CD-1 | Terminal Earth |
+| CD-2 | Ancient Ascendant |
+| CD-3 | Icarus |
+| CD-4 | Under Stars |
+| CD-5 | Authorship Of Our Lives |
+| CD-6 | The Signal |
+| CD-7 | The Only Time I Don't Belong Is Now |
+| CD-8 | When Gravity Fails |
+| CD-9 | How Bright Is The Sun? |
+| CD-10 | Inside This Machine |
+| CD-11 | An Ending |
+
 
 
 ## Apple Music

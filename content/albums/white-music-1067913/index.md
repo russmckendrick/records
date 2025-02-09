@@ -32,18 +32,19 @@ Originally titled Black Music, referring to black comedy, the title was changed 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Radios In Motion |
+| A2 | Cross Wires |
+| A3 | This Is Pop |
+| A4 | Do What You Do |
+| A5 | Statue Of Liberty |
+| A6 | All Along The Watchtower |
+| B1 | Into The Atom Age |
+| B2 | I'll Set Myself On Fire |
+| B3 | I'm Bugged |
+| B4 | New Town Animal In A Furnished Cage |
+| B5 | Spinning Top |
+| B6 | Neon Shuffle |
+
 
 
 ## Apple Music

@@ -36,16 +36,17 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Colors |
+| A2 | Seventh Heaven |
+| A3 | I'm So Free |
+| A4 | Dear Life |
+| A5 | No Distraction |
+| B1 | Dreams |
+| B2 | Wow |
+| B3 | Up All Night |
+| B4 | Square One |
+| B5 | Fix Me |
+
 
 
 ## Apple Music

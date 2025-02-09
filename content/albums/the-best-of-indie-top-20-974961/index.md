@@ -33,32 +33,30 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 24 Hour Party People |
+| A2 | Stepping Stone |
+| A3 | Indian Rope |
+| A4 | Joe |
+| A5 | Mother Universe |
+| A6 | Forever Dancing |
+| B1 | Round & Round (Club Mix) |
+| B2 | Pro>gen |
+| B3 | All On You (Perfume) |
+| B4 | It's On |
+| B5 | Headhunter (VI) |
+| C1 | Personal Jesus |
+| C2 | Bloodsport For All |
+| C3 | Monkey Gone To Heaven |
+| C4 | Freak Scene |
+| C5 | Revolution |
+| D1 | Why Are You Being So Reasonable Now ? |
+| D2 | Sleep With Me |
+| D3 | Arc-lite |
+| D4 | Regina |
+| D5 | Joy |
+| D6 | Dreamtime |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

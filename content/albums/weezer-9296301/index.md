@@ -41,16 +41,17 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | My Name Is Jonas |
+| A2 | No One Else |
+| A3 | The World Has Turned And Left Me Here |
+| A4 | Buddy Holly |
+| A5 | Undone - The Sweater Song |
+| A6 | Surf Wax America |
+| B1 | Say It Ain't So |
+| B2 | In The Garage |
+| B3 | Holiday |
+| B4 | Only In Dreams |
+
 
 
 ## Apple Music

@@ -28,15 +28,16 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hurricane Esmeralda |
+| A2 | Helium I |
+| A3 | Helium II |
+| A4 | Winter Mountain |
+| A5 | White Light |
+| B1 | Michelangelo Don't Stop |
+| B2 | The Strength Of A Thousand Year Rose |
+| B3 | Reverend Mum |
+| B4 | Leon's Experiment |
+
 
 
 ## Apple Music

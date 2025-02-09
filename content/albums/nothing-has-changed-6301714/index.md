@@ -43,26 +43,27 @@ A revised version of the two-disc Nothing Has Changed, re-titled Legacy, was rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let's Dance (Single Version) |
+| A2 | Ashes To Ashes (Single Version) |
+| A3 | "Heroes" (Single Version) |
+| A4 | Changes |
+| A5 | Life On Mars? |
+| B1 | Space Oddity |
+| B2 | Starman (Original Single Mix) |
+| B3 | Ziggy Stardust |
+| B4 | The Jean Genie (Original Single Mix) |
+| B5 | Rebel Rebel |
+| C1 | Golden Years (Single Version) |
+| C2 | Fame |
+| C3 | Sound And Vision |
+| C4 | Under Pressure |
+| C5 | Sue (Or In A Season Of Crime) |
+| D1 | Hallo Spaceboy (PSB Remix) |
+| D2 | China Girl (Single Version) |
+| D3 | Modern Love (Single Version) |
+| D4 | Absolute Beginners (Single Version) |
+| D5 | Where Are We Now? |
+
 
 
 ## Apple Music

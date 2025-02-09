@@ -32,15 +32,16 @@ styles: ["Pop Rock", "Synth-pop", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Someone Somewhere In Summertime |
+| A2 | Colours Fly And Catherine Wheel |
+| A3 | Promised You A Miracle |
+| A4 | Big Sleep |
+| A5 | Somebody Up There Likes You |
+| B1 | New Gold Dream (81-82-83-84) |
+| B2 | Glittering Prize |
+| B3 | Hunter And The Hunted |
+| B4 | King Is White And In The Crowd |
+
 
 
 ## Apple Music

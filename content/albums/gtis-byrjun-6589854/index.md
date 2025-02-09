@@ -40,25 +40,26 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Svefn-g-englar |
+| A2 | Starálfur |
+| B1 | Flugufrelsarinn |
+| B2 | Ný Batterí |
+| C1 | Hjartað Hamast (Bamm Bamm Bamm) |
+| C2 | Viðrar Vel Til Loftárása |
+| D1 | Olsen Olsen |
+| D2 | Ágætis Byrjun |
+| D3 | Avalon |
+| CD-1 | Intro |
+| CD-2 | Svefn-g-englar |
+| CD-3 | Starálfur |
+| CD-4 | Flugufrelsarinn |
+| CD-5 | Ný Batterí |
+| CD-6 | Hjartað Hamast (Bamm Bamm Bamm) |
+| CD-7 | Viðrar Vel Til Loftárása |
+| CD-8 | Olsen Olsen |
+| CD-9 | Ágætis Byrjun |
+| CD-10 | Avalon |
+
 
 
 ## Apple Music

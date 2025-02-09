@@ -34,25 +34,23 @@ styles: ["Soundtrack", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Catholic Boy |
+| A2 | Devil's Toe |
+| A3 | Down By The Water |
+| A4 | What A Life |
+| A5 | I Am Alone |
+| B1 | People Who Died |
+| B2 | Riders On The Storm |
+| B3 | Dizzy |
+| C1 | It's Been Hard |
+| C2 | Coming Right Along |
+| C3 | Strawberry Wine |
+| D1 | Star |
+| D2 | Dream Massacre |
+| D3 | I've Been Down |
+| D4 | Blind Dogs |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

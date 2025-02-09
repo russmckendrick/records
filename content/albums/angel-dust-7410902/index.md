@@ -42,30 +42,31 @@ Angel Dust is Faith No More's best-selling album to date, having sold over 2.5 m
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Land Of Sunshine |
+| A2 | Caffeine |
+| A3 | Midlife Crisis |
+| A4 | RV |
+| A5 | Everything's Ruined |
+| A6 | Malpractice |
+| B1 | Kindergarten |
+| B2 | Be Aggressive |
+| B3 | A Small Victory |
+| B4 | Jizzlobber |
+| B5 | Smaller And Smaller |
+|  | Non-LP Tracks |
+| C1 | Easy |
+| C2  | Midnight Cowboy |
+| C3 | Crack Hitler |
+| C4 | Midlife Crisis (The Scream Mix) |
+| C5 | The World Is Yours (Outtake) |
+|  | Bonus Tracks |
+| D1 | As The Worm Turns (Mike Patton Vocal) |
+| D2 | Das Schutzenfest |
+| D3 | Let's Lynch The Landlord |
+| D4 | Be Aggressive (Live 1992) |
+| D5 | Kindergarten (Live 1992) |
+| D6 | We Care A Lot (Live 1992) |
+
 
 
 ## Apple Music

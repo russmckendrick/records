@@ -28,23 +28,24 @@ Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gimme The Car |
+| A2 | Blister In The Sun |
+| A3 | Gone Daddy Gone / I Just Want To Make Love To You |
+| A4 | Kiss Off |
+| A5 | Add It Up |
+| B1 | Black Girls |
+| B2 | Jesus Walking On The Water |
+| B3 | Children Of The Revolution |
+| B4 | I Held Her In My Arms |
+| C1 | Nightmares |
+| C2 | American Music |
+| C3 | Breakin' Up |
+| C4 | Color Me Once |
+| D1 | I Danced |
+| D2 | Country Death Song (Live, 1998) |
+| D3 | Freak Magnet |
+| D4 | Good Feeling (Live At Rhino) |
+
 
 
 ## Apple Music

@@ -31,21 +31,22 @@ styles: ["Krautrock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blackfield |
+| A2 | Family Man |
+| A3 | Open Mind |
+| A4 | 1,000 People |
+| A5 | Oxygen |
+| B1 | Hello |
+| B2 | Once |
+| B3 | How Was Your Ride? |
+| B4 | Waving |
+| B5 | From 44 To 48 |
+| C1 | Pain |
+| C2 | October |
+| C3 | Faking |
+| C4 | Dissolving With The Night |
+| C5 | End Of The World |
+
 
 
 ## Apple Music

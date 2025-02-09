@@ -33,18 +33,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tradewinds |
+| A2 | The Roman Road |
+| A3 | Edam Anchorman |
+| A4 | All The Shit U Do |
+| B1 | Gypsy Space Muffin |
+| B2 | Patience |
+| B3 | Happiness Is A Worn Pun |
+| B4 | - |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

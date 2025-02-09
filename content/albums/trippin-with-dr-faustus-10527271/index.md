@@ -39,16 +39,17 @@ styles: ["Space Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rainbow Machine |
+| A2 | Freakzone |
+| B1 | Kosmos (Grooves Of Triumph) |
+| B2 | The Commotion (Big Time Party Maker) |
+| C1 | Big Daddy |
+| C2 | Horse |
+| C3 | Anubis |
+| D1 | Supernova |
+| D2 | Silvio |
+| D3 | Old Blue Eyes |
+
 
 
 ## Apple Music

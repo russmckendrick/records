@@ -41,22 +41,23 @@ The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Orbits Record One |
+|  | Earth Orbits |
+| A1 | Little Fluffy Clouds |
+| A2 | Earth (Gaia) |
+| A3 | Supernova At The End Of The Universe |
+|  | Lunar Orbits |
+| B1 | Back Side Of The Moon |
+| B2 | Spanish Castles In Space |
+|  | Ultraworld Records |
+|  | Ultraworld Probes |
+| C1 | Perpetual Dawn |
+| C2 | Into The Fourth Dimension |
+| C3 | Outlands |
+|  | Ultraworlds |
+| D1 | Star 6 & 7 8 9 |
+| D2 | A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld: Live Mix MK 10 |
+
 
 
 ## Apple Music

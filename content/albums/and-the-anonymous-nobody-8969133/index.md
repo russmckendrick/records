@@ -37,24 +37,25 @@ The album has guest features from 2 Chainz, Damon Albarn, David Byrne, Estelle, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Genesis |
+| A2 | Royalty Capes |
+| A3 | Pain |
+| A4 | Property Of Spitkicker.com |
+| B1 | Memory Of...(Us) |
+| B2 | CBGB'S |
+| B3 | Lord Intended |
+| B4 | Snoopies |
+| C1 | Greyhounds |
+| C2 | Sexy Bitch |
+| C3 | Trainwreck |
+| C4 | Drawn |
+| C5 | Whoodeeni |
+| D1 | Nosed Up |
+| D2 | You Go Dave (A Goldblatt Presentation) |
+| D3 | Unfold |
+| D4 | Here In After |
+| D5 | Exodus |
+
 
 
 ## Apple Music

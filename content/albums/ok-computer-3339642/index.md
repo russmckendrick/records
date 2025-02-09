@@ -47,22 +47,23 @@ For all of its dread, <i>OK Computer</i> is ultimately an act of hope, the expre
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | eeny |
+| A1 | Airbag |
+| A2 | Paranoid Android |
+| A3 | Subterranean Homesick Alien |
+|  | meeny |
+| B1 | Exit Music (For A Film) |
+| B2 | Let Down |
+| B3 | Karma Police |
+|  | miney |
+| C1 | Fitter Happier |
+| C2 | Electioneering |
+| C3 | Climbing Up The Walls |
+| C4 | No Surprises |
+|  | mo |
+| D1 | Lucky |
+| D2 | The Tourist |
+
 
 
 ## Apple Music

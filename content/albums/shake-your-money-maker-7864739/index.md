@@ -37,16 +37,17 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Twice As Hard |
+| A2 | Jealous Again |
+| A3 | Sister Luck |
+| A4 | Could I've Been So Blind |
+| A5 | Seeing Things |
+| B1 | Hard To Handle |
+| B2 | Thick N' Thin |
+| B3 | She Talks To Angels |
+| B4 | Struttin' Blues |
+| B5 | Stare It Cold |
+
 
 
 ## Apple Music

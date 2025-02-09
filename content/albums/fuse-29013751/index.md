@@ -31,16 +31,17 @@ Fuse is the eleventh studio album by British duo Everything but the Girl, releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nothing Left To Lose |
+| A2 | Run A Red Light |
+| A3 | Caution To The Wind |
+| A4 | When You Mess Up |
+| A5 | Time And Time Again |
+| B1 | No One Knows We’re Dancing |
+| B2 | Lost |
+| B3 | Forever |
+| B4 | Interior Space |
+| B5 | Karaoke |
+
 
 
 ## Apple Music

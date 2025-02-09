@@ -42,15 +42,16 @@ Second Nature is the second studio album by the American supergroup Flying Color
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Open Up Your Eyes |
+| A2 | Mask Machine |
+| B1 | Bombs Away |
+| B2 | The Fury Of My Love |
+| B3 | A Place In Your World |
+| C1 | Lost Without You |
+| C2 | One Love Forever |
+| C3 | Peaceful Harbor |
+|  | Cosmic Symphony |
+
 
 
 ## Apple Music

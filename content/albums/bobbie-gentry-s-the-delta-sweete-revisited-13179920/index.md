@@ -32,18 +32,19 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Okolona River Bottom Band |
+| A2 | Big Boss Man |
+| A3 | Reunion |
+| A4 | Parchman Farm |
+| A5 | Mornin' Glory |
+| A6 | Sermon |
+| B1 | Tobacco Road |
+| B2 | Penduli Pendulum |
+| B3 | Jessye' Lisabeth |
+| B4 | Refractions |
+| B5 | Courtyard |
+| B6 | Ode To Billie Joe |
+
 
 
 ## Apple Music

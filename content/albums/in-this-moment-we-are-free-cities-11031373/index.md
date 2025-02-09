@@ -35,28 +35,29 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | My Champion - Berlin |
+| A2 | Time - Rotterdam |
+| A3 | The Martyr And The Saint - Beirut |
+| B1 | The Fire - San Francisco |
+| B2 | Freedom - Rio |
+| B3 | Days Go By - London |
+| B4 | Sail Away - Santiago |
+| C1 | Valley Of Diamonds - Mexico City |
+| C2 | Your Glorious Light Will Shine - Helsinki |
+| C3 | Save Me - Istanbul |
+| C4 | Reunite! - Paris |
+| CD1 | My Champion - Berlin |
+| CD2 | Time - Rotterdam |
+| CD3 | The Martyr And The Saint - Beirut |
+| CD4 | The Fire - San Francisco |
+| CD5 | Freedom - Rio |
+| CD6 | Days Go By - London |
+| CD7 | Sail Away - Santiago |
+| CD8 | Valley Of Diamonds - Mexico City |
+| CD9 | Your Glorious Light Will Shine - Helsinki |
+| CD10 | Save Me - Istanbul |
+| CD11 | Reunite! - Paris |
+
 
 
 ## Apple Music

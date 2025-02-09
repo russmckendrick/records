@@ -61,21 +61,22 @@ George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “W
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shout Out! (Intro) |
+| A2 | Imagineering |
+| A3 | Creator SOS |
+| A4 | 3D Warrior |
+| B1 | Miami 80 |
+| B2 | GTP Call |
+| B3 | Wikid Satellites |
+| B4 | Breathe In |
+| C1 | To Freedom (Interlude) |
+| C2 | Wonder |
+| C3 | Own Me |
+| C4 | Widyabad |
+| D1 | Isolated |
+| D2 | Trillion |
+| D3 | Up To Us |
+
 
 
 ## Apple Music

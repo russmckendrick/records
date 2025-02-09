@@ -36,17 +36,18 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Break On Through (To The Other Side) |
+| A2 | Soul Kitchen |
+| A3 | The Crystal Ship |
+| A4 | Twentieth Century Fox |
+| A5 | Alabama Song (Whisky Bar) |
+| A6 | Light My Fire |
+| B1 | Back Door Man |
+| B2 | I Looked At You |
+| B3 | End Of The Night |
+| B4 | Take It As It Comes |
+| B5 | The End |
+
 
 
 ## Apple Music

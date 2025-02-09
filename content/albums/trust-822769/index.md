@@ -31,9 +31,10 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| A | Trust |
+| B1 | Faceless |
+| B2 | Titch |
+
 
 
 ## Apple Music

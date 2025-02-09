@@ -37,13 +37,14 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Always Together With You |
+| A2 | Best Thing You Never Had (The D Song) |
+| A3 | Let It Bleed (For Iggy) |
+| A4 | Crazy |
+| B1 | The Mainline Song |
+| B2 | The A Song (Laid In Your Arms) |
+| B3 | I'm Coming Home Again |
+
 
 
 ## Apple Music

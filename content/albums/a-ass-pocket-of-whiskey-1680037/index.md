@@ -34,16 +34,17 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Goin' Down South |
+| A2 | Boogie Chillen |
+| A3 | Poor Boy |
+| A4 | 2 Brothers |
+| A5 | Snake Drive |
+| A6 | Shake 'Em On Down |
+| B7 | The Criminal Inside Me |
+| B8 | Walkin' Blues |
+| B9 | Tojo Told Hitler |
+| B10 | Have You Ever Been Lonely? |
+
 
 
 ## Apple Music

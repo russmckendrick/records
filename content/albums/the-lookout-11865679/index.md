@@ -34,18 +34,19 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Margaret Sands |
+| A2 | Everybody Needs You |
+| A3 | Seven Falls |
+| A4 | Mountains Of The Moon |
+| A5 | Watch Fire |
+| A6 | Heavy Petals |
+| B7 | The Lookout |
+| B8 | The Meadow |
+| B9 | The Canyon |
+| B10 | Lightning Rod |
+| B11 | When It Grows Darkest |
+| B12 | Zozobra |
+
 
 
 ## Apple Music

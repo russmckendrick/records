@@ -37,18 +37,19 @@ The album debuted at number 10 on the UK Albums Chart, selling 7,861 units in it
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Man In Black |
+| A2 | Galway Bay |
+| A3 | Girl From The North Country |
+| A4 | I Came To Believe |
+| A5 | A Thing Called Love |
+| A6 | The Loving Gift |
+| B1 | I Walk The Line |
+| B2 | Farther Along |
+| B3 | Flesh And Blood |
+| B4 | The Gambler |
+| B5 | Ring Of Fire |
+| B6 | Highwayman |
+
 
 
 ## Apple Music

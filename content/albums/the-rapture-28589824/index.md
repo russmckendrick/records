@@ -44,18 +44,19 @@ A double translucent turquoise vinyl of The Rapture was released in October 2023
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | O Baby |
+| A2 | Tearing Apart |
+| A3 | Stargazer |
+| A4 | Fall From Grace |
+| B1 | Not Forgotten |
+| B2 | Sick Child |
+| B3 | The Lonely One |
+| B4 | Falling Down |
+| C | The Rapture |
+| D1 | Forever |
+| D2 | The Double Life |
+| D3 | Love Out Me |
+
 
 
 ## Apple Music

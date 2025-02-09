@@ -39,17 +39,18 @@ But it wasn’t until the duo’s sophomore album, 1997’s <i>Dig Your Own Hole
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Block Rockin' Beats |
+| A2 | Dig Your Own Hole |
+| B1 | Elektrobank |
+| B2 | Piku |
+| B3 | Setting Sun |
+| C1 | It Doesn't Matter |
+| C2 | Don't Stop The Rock |
+| C3 | Get Up On It Like This |
+| D1 | Lost In The K-Hole |
+| D2 | Where Do I Begin |
+| D3 | The Private Psychedelic Reel |
+
 
 
 ## Apple Music

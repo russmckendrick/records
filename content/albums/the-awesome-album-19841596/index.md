@@ -34,21 +34,22 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 5,000 Candles in the Wind (Bye, Bye Lil Sebastian) |
+| A2 | The Pit |
+| A3 | Sex Hair |
+| A4 | Catch Your Dream |
+| A5 | Two Birds Holding Hands |
+| A6 | Ann Song |
+| A7 | The Way You Look Tonight |
+| A8 | Menace Ball |
+| B1 | Remember I Get A Kick Out Of You |
+| B2 | Let's Call The Whole Thing Off |
+| B3 | Lovely Tonight |
+| B4 | I've Got You Under My Skin |
+| B5 | I Only Have Eyes For You |
+| B6 | Pickled Ginger |
+| B7 | Cold Water |
+
 
 
 ## Apple Music

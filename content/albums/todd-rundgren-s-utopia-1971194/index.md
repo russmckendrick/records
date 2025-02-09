@@ -33,10 +33,11 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Utopia |
+| A2 | Freak Parade |
+| A3 | Freedom Fighters |
+| B | The Ikon |
+
 
 
 ## Apple Music

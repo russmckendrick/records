@@ -33,18 +33,19 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Opening Titles Including Underground |
+| A2 | Into The Labyrinth |
+| A3 | Magic Dance |
+| A4 | Sarah |
+| A5 | Chilly Down |
+| A6 | Hallucination |
+| B1 | As The World Falls Down |
+| B2 | The Goblin Battle |
+| B3 | Within You |
+| B4 | Thirteen O'Clock |
+| B5 | Home At Last |
+| B6 | Underground |
+
 
 
 ## Apple Music

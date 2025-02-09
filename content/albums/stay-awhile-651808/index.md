@@ -32,16 +32,17 @@ styles: ["Soul-Jazz", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Only Want To Be With You |
+| A2 | Stay Awhile |
+| A3 | Mama Said |
+| A4 | Anyone Who Had A Heart |
+| A5 | When The Lovelight Starts Shining Thru His Eyes |
+| B1 | Wishin' And Hopin' |
+| B2 | Mockingbird |
+| B3 | You Don't Own Me |
+| B4 | Something Special |
+| B5 | Every Day I Have To Cry |
+
 
 
 ## Apple Music

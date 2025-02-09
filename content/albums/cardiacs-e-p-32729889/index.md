@@ -31,12 +31,10 @@ styles: ["Avantgarde", "Experimental", "Indie Rock", "Psychedelic Rock", "Prog R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Faster Than Snakes With A Ball And A Chain |
+| B | Aukamakic / Dead Mouse |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

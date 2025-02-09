@@ -55,23 +55,24 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Front Toward Enemy |
+| A2 | I’m Already Gone |
+| A3 | Seasons |
+| A4 | Sevens |
+| A5 | Tourniquet |
+| A6 | Anchor’s Lament |
+| B1 | Throw Me An Anchor |
+| B2 | I’d Do Anything |
+| B3 | Blankets Of Ash |
+| B4 | Emmett-Radiating Light |
+| B5 | Cold-Blooded Angels |
+| C1 | Crooked Mile |
+| C2 | Broken Halo |
+| C3 | Can Oscura |
+| C4 | Borderlines |
+| C5 | Assault On East Falls |
+| C6 | Pale Sun |
+
 
 
 ## Apple Music

@@ -44,17 +44,18 @@ I just love making music, so it’s not that difficult. I had a strange four day
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introduction |
+| A2 | Merrie Land |
+| A3 | Gun To The Head |
+| A4 | Nineteen Seventeen |
+| A5 | The Great Fire |
+| A6 | Lady Boston |
+| B1 | Drifters & Trawlers |
+| B2 | The Truce Of Twilight |
+| B3 | Ribbons |
+| B4 | The Last Man To Leave |
+| B5 | The Poison Tree |
+
 
 
 ## Apple Music

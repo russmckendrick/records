@@ -42,48 +42,49 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tusko |
+| A2 | Band Of Gypsies |
+| A3 | Put Em In The Ground |
+| A4 | Satao |
+| A5 | Jesus Was A Stoner |
+| A6 | Pass The Knife |
+| B1 | LSD |
+| B2 | Oh Na Na  |
+| B3 | Holy Mountain |
+| B4 | Locos |
+| B5 | Falling Down |
+| C1 | Elephant Acid |
+| C2 | Insane OG |
+| C3 | The 5th Angel |
+| C4 | Warlord |
+| C5 | Reefer Man |
+| D1 | Thru The Rabbit Hole |
+| D2 | Crazy |
+| D3 | Muggs Is Dead |
+| D4 | Blood On My Hands Again |
+| D5 | Stairway To Heaven |
+| CD1 | Tusko |
+| CD2 | Band Of Gypsies |
+| CD3 | Put Em In The Ground |
+| CD4 | Satao |
+| CD5 | Jesus Was A Stoner |
+| CD6 | Pass The Knife |
+| CD7 | LSD |
+| CD8 | Oh Na Na |
+| CD9 | Holy Mountain |
+| CD10 | Locos |
+| CD11 | Falling Down |
+| CD12 | Elephant Acid |
+| CD13 | Insane OG |
+| CD14 | The 5th Angel |
+| CD15 | Warlord |
+| CD16 | Reefer Man |
+| CD17 | Thru The Rabbit Hole |
+| CD18 | Crazy |
+| CD19 | Muggs Is Dead |
+| CD20 | Blood On My Hands Again |
+| CD21 | Stairway To Heaven |
+
 
 
 ## Apple Music

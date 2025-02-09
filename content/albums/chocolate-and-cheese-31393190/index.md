@@ -31,39 +31,40 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Original Album Remastered |
+| A1 | Take Me Away |
+| A2 | Spinal Meningitis (Got Me Down) |
+| A3 | Freedom Of '76 |
+| A4 | I Can't Put My Finger On It |
+| B1 | A Tear For Eddie |
+| B2 | Roses Are Free |
+| B3 | Baby Bitch |
+| B4 | Mister, Would You Please Help My Pony? |
+| C1 | Drifter In The Dark |
+| C2 | Voodoo Lady |
+| C3 | Joppa Road |
+| C4 | Candi |
+| D1 | Buenas Tardes Amigo |
+| D2 | The HIV Song |
+| D3 | What Deaner Was Talkin' About |
+| D4 | Don't Shit Where You Eat |
+|  | Bonus Tracks |
+| E1 | Crappy Anniversary Jimmy |
+| E2 | Warm Socks |
+| E3 | Stop, Look, Listen (And Learn) |
+| E4 | Dirty Money |
+| E5 | I Got It |
+| E6 | Belgian Stew |
+| E7 | Voodoo Lady (Demo) |
+| F1 | Junkie Boy |
+| F2 | Smooth Mover |
+| F3 | Church Fire |
+| F4 | Take Me Away (Demo) |
+| F5 | Sasha |
+| F6 | Roses Are Free (Demo) |
+| F7 | Candi (Demo) |
+| F8 | I Really Miss You (And I'm All Alone) |
+
 
 
 ## Apple Music

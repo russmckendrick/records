@@ -48,38 +48,39 @@ Garage Inc. is a compilation album of cover songs by American heavy metal band M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | New Recordings '98 |
+| A1 | Free Speech For The Dumb |
+| A2 | It's Electric |
+| A3 | Sabbra Cadabra |
+| A4 | Turn The Page |
+| B1 | Die, Die My Darling |
+| B2 | Loverman |
+| B3 | Mercyful Fate |
+| C1 | Astronomy |
+| C2 | Whiskey In The Jar |
+| C3 | Tuesday's Gone |
+| C4 | The More I See |
+|  | Garage Days Re-Revisited '87 |
+| D1 | Helpless |
+| D2 | The Small Hours |
+| D3 | The Wait |
+| D4 | Crash Course In Brain Surgery |
+| D5 | Last Caress/Green Hell |
+|  | Garage Days Revisited '84 |
+| E1 | Am I Evil? |
+| E2 | Blitzkrieg |
+|  | B-Sides & One-Offs '88-'91 |
+| E3 | Breadfan |
+| E4 | The Prince |
+| E5 | Stone Cold Crazy |
+| F1 | So What |
+| F2 | Killing Time |
+|  | Motorheadache '95 |
+| F3 | Overkill |
+| F4 | Damage Case |
+| F5 | Stone Dead Forever |
+| F6 | Too Late Too Late |
+
 
 
 ## Apple Music

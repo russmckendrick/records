@@ -30,20 +30,21 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Is This Love |
+| A2 | No Woman No Cry |
+| A3 | Could You Be Loved |
+| A4 | Three Little Birds |
+| A5 | Buffalo Soldier |
+| A6 | Get Up Stand Up |
+| A7 | Stir It Up |
+| B1 | One Love / People Get Ready |
+| B2 | I Shot The Sheriff |
+| B3 | Waiting In Vain |
+| B4 | Redemption Song |
+| B5 | Satisfy My Soul |
+| B6 | Exodus |
+| B7 | Jamming |
+
 
 
 ## Apple Music

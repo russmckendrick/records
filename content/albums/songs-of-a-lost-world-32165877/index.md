@@ -49,14 +49,15 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Alone |
+| A2 | And Nothing Is Forever |
+| B1 | A Fragile Thing |
+| B2 | Warsong |
+| B3 | Drone: Nodrone |
+| C1 | I Can Never Say Goodbye |
+| C2 | All I Ever Am |
+| D | Endsong |
+
 
 
 ## Apple Music

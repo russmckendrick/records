@@ -32,17 +32,18 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Upside Down |
+| A2 | Thoughts |
+| A3 | Song For Eric |
+| A4 | The Pool |
+| A5 | Humpty Dumpty |
+| A6 | Flying Dutchman |
+| B1 | Take To The Sky |
+| B2 | Sweet Dreams |
+| B3 | Mary |
+| B4 | Sugar |
+| B5 | Ode To The Banana King (Part One) |
+
 
 
 ## Apple Music

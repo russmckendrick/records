@@ -38,17 +38,18 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hornets! Hornets! |
+| A2 | Cattle And The Creeping Things  |
+| A3 | Your Little Hoodrat Friend |
+| A4 | Banging Camp  |
+| A5 | Charlemagne In Sweatpants |
+| B1 | Stevie Nix |
+| B2 | Multitude Of Casualties |
+| B3 | Don't Let Me Explode |
+| B4 | Chicago Seemed Tired Last Night |
+| B5 | Crucifixion Cruise |
+| B6 | How A Resurrection Really Feels |
+
 
 
 ## Apple Music

@@ -40,29 +40,30 @@ The album received generally positive reviews from critics, who praised the sing
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Armatage Shanks |
+| A2 | Brat |
+| A3 | Stuck With Me |
+| A4 | Geek Stink Breath |
+| A5 | No Pride |
+| A6 | Bab's Uvula Who? |
+| A7 | 86 |
+| B1 | Panic Song |
+| B2 | Stuart And The Ave. |
+| B3 | Brain Stew |
+| B4 | Jaded |
+| B5 | Westbound Sign |
+| B6 | Tight Wad Hill |
+| B7 | Walking Contradiction |
+|  | Live In Prague |
+| C1 | Armatage Shanks |
+| C2 | Brat |
+| C3 | Geek Stink Breath |
+| C4 | Stuck With Me |
+| C5 | Brain Stew |
+| C6 | Jaded |
+| C7 | Walking Contradiction |
+| C8 | 86 |
+
 
 
 ## Apple Music

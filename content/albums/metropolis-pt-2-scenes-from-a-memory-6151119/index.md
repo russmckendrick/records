@@ -41,17 +41,18 @@ On June 24, 2024, it was announced that the album would receive a novel adaptati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | ACT I |
+|  | Scene One |
+|  | Scene Two |
+|  | Scene Three |
+|  | Scene Four |
+|  | Scene Five |
+|  | ACT II |
+|  | Scene Six |
+|  | Scene Seven |
+|  | Scene Eight |
+|  | Scene Nine |
+
 
 
 ## Apple Music

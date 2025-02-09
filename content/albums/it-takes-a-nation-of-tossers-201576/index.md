@@ -26,20 +26,21 @@ styles: ["Pop Rap", "Parody"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Spade Side |
+| A1 | Countdown To Pitworld |
+| A2 | What I Am |
+| A3 | Waiting |
+| A4 | When Miners Attack |
+| A5 | Latin Bingo |
+| A6 | Words |
+|  | Biscuit Side |
+| B1 | Sugar In Ya Peas |
+| B2 | The Pitman And Her |
+| B3 | Mr. Pitiful |
+| B4 | Soot FM |
+| B5 | Mam Sed |
+| B6 | What's The Point? |
+
 
 
 ## Apple Music

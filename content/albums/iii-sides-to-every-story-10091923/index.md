@@ -37,24 +37,25 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Yours |
+| A1 | Warheads |
+| A2 | Rest In Peace |
+| A3 | Politicalamity |
+| A4 | Color Me Blind |
+| B1 | Cupid's Dead |
+| B2 | Peacemaker Die |
+|  | Mine |
+| B3 | Seven Sundays |
+| B4 | Tragic Comic |
+| C1 | Our Father |
+| C2 | Stop The World |
+| C3 | God Isn't Dead? |
+| C4 | Don't Leave Me Alone |
+|  | & The Truth |
+| D1 | Everything Under The Sun I: Rise 'N Shine |
+| D2 | Everything Under The Sun II: Am I Ever Gonna Change |
+| D3 | Everything Under The Sun III: Who Cares? |
+
 
 
 ## Apple Music

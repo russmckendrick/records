@@ -35,15 +35,16 @@ The album's cover features a stylised portrait of Kari-Ann Moller (with the band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Golden Age Of Rock 'N' Roll |
+| A2 | Marionette |
+| A3 | Alice |
+| A4 | Crash Street Kidds |
+| B1 | Born Late 58 |
+| B2 | Trudi's Song |
+| B3 | Pearl 'N' Roy (England) |
+| B4 | Through The Looking Glass |
+| B5 | Roll Away The Stone |
+
 
 
 ## Apple Music

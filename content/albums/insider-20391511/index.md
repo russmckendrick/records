@@ -33,18 +33,19 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gustav’s Arrival |
+| A2 | O Fortuna |
+| A3 | Insider |
+| B1 | Mongrel’s Anthem |
+| B2 | R.I.P |
+| B3 | Strange Seas Of Thought |
+| C1 | Procedures  |
+| C2 | Elysian Gold |
+| C3 | Oort |
+| C4 | What Is Music? |
+| D1 | Hymn Of The Aten |
+| D2 | Map Of An Imaginary Place |
+
 
 
 ## Apple Music

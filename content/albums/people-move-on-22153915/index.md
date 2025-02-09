@@ -30,18 +30,19 @@ Music critics gave People Move On generally favourable reviews, though some of t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Woman I Know |
+| A2 | You Just Know |
+| A3 | People Move On |
+| B1 | A Change Of Heart |
+| B2 | Autograph |
+| B3 | You Light The Fire |
+| C1 | Not Alone |
+| C2 | When You Grow |
+| C3 | You've Got What It Takes |
+| D1 | Stay |
+| D2 | In Vain |
+| D3 | I'm Tired |
+
 
 
 ## Apple Music

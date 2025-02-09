@@ -26,15 +26,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1-1 | Truck |
+| 1-2 | 1991 |
+| 1-3 | The Euphoric |
+| 1-4 | Dancing Robots |
+| 1-5 | Dug Town |
+| 2-1 | Cadet Opal |
+| 2-2 | Verbose |
+| 2-3 | 48K |
+|  | Parts 7 & 8 |
+
 
 
 ## Apple Music

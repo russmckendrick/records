@@ -29,17 +29,18 @@ styles: ["Alternative Rock", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love My Way |
+| A2 | Pretty In Pink |
+| A3 | The Ghost In You |
+| A4 | Sister Europe |
+| A5 | Heaven |
+| A6 | Heartbeat |
+| B1 | India |
+| B2 | President Gas |
+| B3 | House |
+| B4 | All That Money Wants |
+| B5 | Don't Believe |
+
 
 
 ## Apple Music

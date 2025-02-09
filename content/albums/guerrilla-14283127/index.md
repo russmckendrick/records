@@ -42,21 +42,22 @@ Guerrilla tactics focus on avoiding head-on confrontations with enemy armies, ty
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Check It Out |
+| A2 | Do Or Die |
+| A3 | The Turning Tide |
+| A4 | Northern Lites |
+| A5 | Citizen's Band |
+| B1 | Nightvision |
+| B2 | Wherever I Lay My Phone (That's My Home) |
+| C1 | A Specific Ocean |
+| C2 | Some Things Come From Nothing |
+| C3 | The Door To This House Remains Open |
+| C4 | The Teacher |
+| D1 | Fire In My Heart |
+| D2 | The Sound Of Life Today |
+| D3 | Chewing Chewing Gum |
+| D4 | Keep The Cosmic Trigger Happy |
+
 
 
 ## Apple Music

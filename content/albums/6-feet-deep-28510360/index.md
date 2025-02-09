@@ -34,22 +34,23 @@ styles: ["Horrorcore"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Just  When You Thought It Was Over (Intro) |
+| A2 | Constant Elevation |
+| A3 | Nowhere To Run, Nowhere To Hide |
+| A4 | Defective Trip (Trippin) |
+| A5 | 2 Cups Of Blood |
+| B1 | Blood Brothers |
+| B2 | 360 Questions |
+| B3 | 1-800 Suicide |
+| B4 | Diary Of A Madman |
+| C1 | Mommy, Whats A Gravedigga |
+| C2 | Bang Your Head |
+| C3 | Here Comes The Gravediggaz |
+| C4 | Graveyard Chamber |
+| D1 | Deathtrap |
+| D2 | 6 Feet Deep |
+| D3 | Rest In Peace (Outro) |
+
 
 
 ## Apple Music

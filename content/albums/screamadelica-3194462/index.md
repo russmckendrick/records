@@ -30,17 +30,18 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Movin' On Up |
+| A2 | Slip Inside This House |
+| A3 | Don't Fight It, Feel It |
+| B1 | Higher Than The Sun |
+| B2 | Inner Flight |
+| B3 | Come Together |
+| C1 | Loaded |
+| C2 | Damaged |
+| C3 | I'm Comin' Down |
+| D1 | Higher Than The Sun (A Dub Symphony In Two Parts) |
+| D2 | Shine Like Stars |
+
 
 
 ## Apple Music

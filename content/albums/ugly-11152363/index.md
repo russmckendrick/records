@@ -44,18 +44,19 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Seasons |
+| A2 | I Regret |
+| A3 | Lost At 22 |
+| A4 | Other Side Of The River |
+| A5 | Let's Pretend |
+| A6 | Ugly |
+| B1 | Drained |
+| B2 | How It Would Be |
+| B3 | Unstable |
+| B4 | Damned If I Do |
+| B5 | Fears |
+| B6 | Don't You (Forget About Me) |
+
 
 
 ## Apple Music

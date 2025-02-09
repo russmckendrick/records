@@ -39,16 +39,17 @@ In 2001, No Jacket Required was certified Diamond by the Recording Industry Asso
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sussudio |
+| A2 | Only You Know And I Know |
+| A3 | Long Long Way To Go |
+| A4 | I Don't Wanna Know |
+| A5 | One More Night |
+| B1 | Don't Lose My Number |
+| B2 | Who Said I Would |
+| B3 | Doesn't Anybody Stay Together Anymore |
+| B4 | Inside Out |
+| B5 | Take Me Home |
+
 
 
 ## Apple Music

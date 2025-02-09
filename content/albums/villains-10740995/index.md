@@ -48,15 +48,16 @@ The album received widely positive reviews and performed well commercially, topp
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Feet Don't Fail Me |
+| A2 | The Way You Used To Do |
+| A3 | Domesticated Animals |
+| B4 | Fortress |
+| B5 | Head Like A Haunted House |
+| B6 | Un-Reborn Again |
+| C7 | Hideaway |
+| C8 | The Evil Has Landed |
+| C9 | Villains Of Circumstance |
+
 
 
 ## Apple Music

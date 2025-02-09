@@ -26,16 +26,17 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Memory Is A Weapon |
+| A2 | This Might Be Love |
+| A3 | BURMA |
+| A4 | The Innermost Light |
+| A5 | Maybe You |
+| B6 | Portobello Serenade |
+| B7 | Thin Red Lines |
+| B8 | Shelter |
+| B9 | Seasons Of You |
+| B10 | F**king In Joy And Sorrow |
+
 
 
 ## Apple Music

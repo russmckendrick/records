@@ -37,30 +37,31 @@ styles: ["Blues Rock", "Rock & Roll", "Pop Rock", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rockin' All Over The World |
+| A2 | Down Down |
+| A3 | Caroline |
+| A4 | Paper Plane |
+| A5 | Break The Rules |
+| A6 | Again & Again |
+| B1 | Mystery Song |
+| B2 | Roll Over Lay Down |
+| B3 | Rain |
+| B4 | Wild Side Of Life |
+| B5 | Whatever You Want |
+| B6 | Living On An Island |
+| C1 | What You're Proposin' |
+| C2 | Lies |
+| C3 | Something About You Baby I Like |
+| C4 | Don't Drive My Car |
+| C5 | Dear John |
+| C6 | Rock 'n' Roll |
+| D1 | Ol' Rag Blues |
+| D2 | Mess Of Blues |
+| D3 | Marguerita Time |
+| D4 | Going Down Town Tonight |
+| D5 | The Wanderer |
+| D6 | Caroline (Live At The N.E.C.) |
+
 
 
 ## Apple Music

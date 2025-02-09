@@ -34,26 +34,27 @@ styles: ["Soundtrack", "Electro", "Score", "Synth-pop", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Prologue |
+| A2 | Pork Chop Express (Main Title) |
+| A3 | Abduction At Airport |
+| A4 | The Alley (Procession) |
+| A5 | The Alley (War) |
+| A6 | The Storms |
+| A7 | Tenement / White Tiger |
+| B1 | Here Comes The Storm |
+| B2 | Wing Kong Exchange |
+| B3 | Lo Pan's Domain / Looking For A Girl |
+| B4 | Friends Of Yours? / Escape Iron Basis |
+| B5 | Escape From Wing Kong |
+| C1 | Hide! |
+| C2 | Call The Police |
+| C3 | Dragon Eyes |
+| C4 | Into The Spirit Path |
+| D1 | The Great Arcade (Mini Rock Opera) |
+| D2 | The Final Escape (Lo Pan's Demise / Getaway) |
+| D3 | Goodbye Jack |
+| D4 | Big Trouble In Little China (End Credits - Album Version) |
+
 
 
 ## Apple Music

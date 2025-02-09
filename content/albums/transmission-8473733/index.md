@@ -39,16 +39,17 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | Metal Box |
+| B1 | Consequences of Love |
+| B2 | Transmission |
+| C1 | Mind Control |
+| C2 | Flak |
+| D1 | Sequential Analog Memory |
+| D2 | Arise |
+| E | You Disco I Freak |
+| F1 | Strom |
+| F2 | Transwave |
+
 
 
 ## Apple Music

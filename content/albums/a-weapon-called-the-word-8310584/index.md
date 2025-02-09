@@ -34,18 +34,19 @@ A Weapon Called the Word has achieved gold status, despite never having appeared
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | World Freakshow |
+| A2 | Carry Me |
+| A3 | Outside \ Inside |
+| A4 | Together All The Way |
+| A5 | Barrel Of The Gun |
+| A6 | Three Friends |
+| B1 | I Have No Answers |
+| B2 | No Change |
+| B3 | Blind Faith |
+| B4 | The Ballad Of Robbie Jones |
+| B5 | England My Home |
+| B6 | What You Know |
+
 
 
 ## Apple Music

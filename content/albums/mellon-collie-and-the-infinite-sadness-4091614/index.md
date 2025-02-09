@@ -63,36 +63,37 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Dawn To Dusk |
+| A1 | Mellon Collie And The Infinite Sadness |
+| A2 | Tonight, Tonight |
+| A3 | Jellybelly |
+| A4 | Zero |
+| B1 | Here Is No Why |
+| B2 | Bullet With Butterfly Wings |
+| B3 | To Forgive |
+| C1 | Fuck You (An Ode To No One) |
+| C2 | Love |
+| C3 | Cupid De Locke |
+| C4 | Galapogos |
+| D1 | Muzzle |
+| D2 | Porcelina Of The Vast Oceans |
+| D3 | Take Me Down |
+|  | Twilight To Starlight |
+| E1 | Where Boys Fear To Tread |
+| E2 | Bodies |
+| E3 | Thirty-Three |
+| E4 | In The Arms Of Sleep |
+| F1 | 1979 |
+| F2 | Tales Of A Scorched Earth |
+| F3 | Thru The Eyes Of Ruby |
+| G1 | Stumbleine |
+| G2 | X.Y.U. |
+| G3 | We Only Come Out At Night |
+| G4 | Beautiful |
+| H1 | Lily (My One And Only) |
+| H2 | By Starlight |
+| H3 | Farewell And Goodnight |
+
 
 
 ## Apple Music

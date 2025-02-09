@@ -30,38 +30,39 @@ styles: ["Progressive Metal", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Borderlands |
+| A2 | Evermore |
+| A3 | War |
+| B1 | Sprite |
+| B2 | Gigpig Jam |
+| B3 | Coast |
+| C1 | Gato |
+| C2 | Heavens End |
+| C3 | Ain't Never Gonna Win |
+| D1 | Deadhead |
+| D2 | Why |
+| D3 | Lucky Animals |
+| E1 | Castaway / Genesis |
+| E2 | Spirits Will Collide |
+| F1 | Disco Inferno |
+| F2 | Kingdom |
+| CD1-1 | Borderlands |
+| CD1-2 | Evermore |
+| CD1-3 | War |
+| CD1-4 | Sprite |
+| CD1-5 | Gigpig Jam |
+| CD1-6 | Coast |
+| CD1-7 | Gato |
+| CD1-8 | Heavens End |
+| CD1-9 | Ain't Never Gonna Win |
+| CD2-1 | Deadhead |
+| CD2-2 | Why? |
+| CD2-3 | Lucky Animals |
+| CD2-4 | Castaway / Genesis |
+| CD2-5 | Spirits Will Collide |
+| CD2-6 | Disco Inferno |
+| CD2-7 | Kingdom |
+
 
 
 ## Apple Music

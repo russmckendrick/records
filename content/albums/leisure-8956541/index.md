@@ -32,18 +32,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She's So High |
+| A2 | Bang |
+| A3 | Slow Down |
+| A4 | Repetition |
+| A5 | Bad Day |
+| A6 | Sing |
+| B1 | There's No Other Way |
+| B2 | Fool |
+| B3 | Come Together |
+| B4 | High Cool |
+| B5 | Birthday |
+| B6 | Wear Me Down |
+
 
 
 ## Apple Music

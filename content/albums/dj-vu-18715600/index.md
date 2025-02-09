@@ -43,68 +43,69 @@ CSN's 1969 debut not only provided the template for the era's folk-rock renaissa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Carry On |
+| A2 | Teach Your Children |
+| A3 | Almost Cut My Hair |
+| A4 | Helpless |
+| A5 | Woodstock |
+| B1 | Déjà Vu |
+| B2 | Our House |
+| B3 | 4 + 20 |
+|  | Country Girl |
+| B5 | Everybody I Love You |
+|  | Original Album |
+| CD1-1 | Carry On |
+| CD1-2 | Teach Your Children |
+| CD1-3 | Almost Cut My Hair |
+| CD1-4 | Helpless |
+| CD1-5 | Woodstock |
+| CD1-6 | Déjà Vu |
+| CD1-7 | Our House |
+| CD1-8 | 4 + 20 |
+|  | Country Girl |
+| CD1-10 | Everybody I Love You |
+|  | Demos |
+| CD2-1 | Our House |
+| CD2-2 | 4 + 20 |
+| CD2-3 | Song With No Words (Tree With No Leaves) |
+| CD2-4 | Birds |
+| CD2-5 | So Begins The Task / Hold On Tight |
+| CD2-6 | Right Between The Eyes |
+| CD2-7 | Almost Cut My Hair |
+| CD2-8 | Teach Your Children |
+| CD2-9 | How Have You Been |
+| CD2-10 | Triad |
+| CD2-11 | Horses Through A Rainstorm |
+| CD2-12 | Know You Got To Run |
+| CD2-13 | Question Why |
+| CD2-14 | Laughing |
+| CD2-15 | She Can't Handle It |
+| CD2-16 | Sleep Song |
+| CD2-17 | Déjà Vu |
+| CD2-18 | Our House |
+|  | Outtakes |
+| CD3-1 | Everyday We Live |
+| CD3-2 | The Lee Shore (1969 Vocal) |
+| CD3-3 | I'll Be There |
+| CD3-4 | Bluebird Revisited |
+| CD3-5 | Horses Through A Rainstorm |
+| CD3-6 | 30 Dollar Fine |
+| CD3-7 | Ivory Tower |
+| CD3-8 | Same Old Song |
+| CD3-9 | Hold On Tight / Change Partners |
+| CD3-10 | Laughing |
+| CD3-11 | Right On Rock 'N' Roll |
+|  | Alternates |
+| CD4-1 | Carry On (Early Alternate Mix) |
+| CD4-2 | Teach Your Children (Early Version) |
+| CD4-3 | Almost Cut My Hair (Early Version) |
+| CD4-4 | Helpless (Harmonica Version) |
+| CD4-5 | Woodstock (Alternate Vocals) |
+| CD4-6 | Déjà Vu (Early Alternate Mix) |
+| CD4-7 | Our House (Early Version) |
+| CD4-8 | 4 + 20 (Alternate Take 2) |
+| CD4-9 | Know You Got To Run |
+
 
 
 ## Apple Music

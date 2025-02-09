@@ -44,20 +44,21 @@ The album, like their previous record Rings Around the World, was simultaneously
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hello Sunshine |
+| A2 | Liberty Belle |
+| A3 | Golden Retriever |
+| B1 | Sex, War & Robots |
+| B2 | The Piccolo Snare |
+| B3 | Venus & Serena |
+| C1 | Father Father #1 |
+| C2 | Bleed Forever |
+| C3 | Out Of Control |
+| C4 | Cityscape Skybaby |
+| D1 | Father Father #2 |
+| D2 | Valet Parking |
+| D3 | The Undefeated |
+| D4 | Slow Life |
+
 
 
 ## Apple Music

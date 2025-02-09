@@ -40,15 +40,16 @@ This was the first album where they achieved chart success in the US with the si
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Something To Do |
+| A2 | Lie To Me |
+| A3 | People Are People |
+| A4 | It Doesn't Matter |
+| A5 | Stories Of Old |
+| B1 | Somebody |
+| B2 | Master And Servant |
+| B3 | If You Want |
+| B4 | Blasphemous Rumours |
+
 
 
 ## Apple Music

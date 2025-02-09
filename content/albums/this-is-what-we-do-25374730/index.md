@@ -39,17 +39,18 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | This Is What We Do |
+| A2 | Full Way Round |
+| B1 | Making A Difference |
+| B2 | City Of Synths |
+| B3 | Pulse |
+| C1 | Machines Like Me |
+| C2 | Rapture 16 |
+| C3 | Heart And Soul |
+| D1 | Accumulator |
+| D2 | Come On |
+| D3 | Power Of Listening |
+
 
 
 ## Apple Music

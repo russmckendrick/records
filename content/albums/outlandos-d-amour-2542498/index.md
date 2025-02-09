@@ -38,16 +38,17 @@ Musically, Sting’s nimble basslines meshed well with Copeland’s fluid groove
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Next To You |
+| A2 | So Lonely |
+| A3 | Roxanne |
+| A4 | Hole In My Life |
+| A5 | Peanuts |
+| B1 | Can't Stand Losing You |
+| B2 | Truth Hits Everybody |
+| B3 | Born In The 50's |
+| B4 | Be My Girl - Sally |
+| B5 | Masoko Tanga |
+
 
 
 ## Apple Music

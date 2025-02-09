@@ -38,18 +38,19 @@ Beneath the Eyrie is the seventh studio album by American alternative rock band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In The Arms Of Mrs. Mark Of Cain |
+| A2 | Graveyard Hill |
+| A3 | Catfish Kate |
+| A4 | This Is My Fate |
+| A5 | Ready For Love |
+| A6 | Silver Bullet |
+| B7 | Long Rider |
+| B8 | Los Surfers Muertos |
+| B9 | St. Nazaire |
+| B10 | Bird Of Prey |
+| B11 | Daniel Boone |
+| B12 | Death Horizon |
+
 
 
 ## Apple Music

@@ -30,17 +30,18 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chances Are |
+| A2 | Rules |
+| A3 | Unlikely Friend |
+| A4 | Abandoned |
+| A5 | Premiere Fois |
+| A6 | Shut The Door |
+| B1 | Walking |
+| B2 | Europe Speaks |
+| B3 | Empty Nest |
+| B4 | System Overload |
+| B5 | Strange Stars |
+
 
 
 ## Apple Music

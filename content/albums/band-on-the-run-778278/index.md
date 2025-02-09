@@ -35,15 +35,16 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Band On The Run |
+| A2 | Jet |
+| A3 | Bluebird |
+| A4 | Mrs. Vandebilt |
+| A5 | Let Me Roll It |
+| B1 | Mamunia |
+| B2 | No Words |
+| B3 | Picasso's Last Words (Drink To Me) |
+| B4 | Nineteen Hundred And Eighty Five |
+
 
 
 ## Apple Music

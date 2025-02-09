@@ -30,22 +30,23 @@ styles: ["Chicago Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Smokestack Lightnin' |
+| A2 | Spoonful |
+| A3 | Moanin' At Midnight |
+| A4 | Evil |
+| A5 | I Asked For Water (She Gave Me Gasoline) |
+| A6 | Sittin' On Top Of The World |
+| A7 | Back Door Man |
+| A8 | All Night Long |
+| B1 | The Red Rooster |
+| B2 | You Can't Be Beat |
+| B3 | Shake For Me |
+| B4 | How Many More Years? |
+| B5 | Forty Four |
+| B6 | I've Been Abused |
+| B7 | The Natchez Burnin' |
+| B8 | Goin' Down Slow |
+
 
 
 ## Apple Music

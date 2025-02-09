@@ -36,22 +36,23 @@ styles: ["Cut-up/DJ", "Downtempo", "Indie Rock", "Conscious"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rock N' Roll (Could Never Hip Hop Like This) |
+| A2 | Magnetizing |
+| A3 | Metaphysical |
+| B4 | Look At This Face (Oh My God They're Gorgeous) |
+| B5 | Waterworld |
+| B6 | Once Again (Here To Kick One For You) |
+| B7 | The Truth |
+| C8 | Holy Calamity (Bear Witness II) |
+| C9 | Calling The Biz |
+| C10 | The Projects (P Jays) |
+| C11 | Sunshine |
+| D12 | Modeling Sucks |
+| D13 | Torch Song Trilogy |
+| D14 | The Runway Song |
+| D15 | Megaton B-Boy 2000 |
+| D16 | Father Speaks |
+
 
 
 ## Apple Music

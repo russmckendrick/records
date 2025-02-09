@@ -27,24 +27,25 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Sky Without You |
+| A2 | It Gets Easier |
+| A3 | World Of Echo |
+| A4 | Something Like Love |
+| A5 | Jenny Holzer B. Goode |
+| B1 | Way Of The World |
+| B2 | Riverside |
+| B3 | We All Fall Down |
+| B4 | No Getting Out Alive |
+| C1 | The Looking Glass |
+| C2 | Love Is The Frequency |
+| C3 | Gyre And Gimble |
+| C4 | Lifeline |
+| C5 | She Calls The Tune |
+| D1 | Sidewinder |
+| D2 | When The Lights Go Down |
+| D3 | This Is Our Year |
+| D4 | Holiday In The Sun |
+
 
 
 ## Apple Music

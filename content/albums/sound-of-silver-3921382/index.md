@@ -38,15 +38,16 @@ Murphy’s Nike project would play a major role in LCD Soundsystem’s 2007 brea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Get Innocuous! |
+| A2 | Time To Get Away |
+| B1 | North American Scum |
+| B2 | Someone Great |
+| C1 | All My Friends |
+| C2 | Us V Them |
+| D1 | Watch The Tapes |
+| D2 | Sound Of Silver |
+| D3 | New York, I Love You But You're Bringing Me Down |
+
 
 
 ## Apple Music

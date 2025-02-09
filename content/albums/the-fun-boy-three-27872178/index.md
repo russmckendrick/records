@@ -30,17 +30,18 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sanctuary |
+| A2 | Way On Down |
+| A3 | The Lunatics (Have Taken Over The Asylum) |
+| A4 | Life In General (Lewe In Algemeen) |
+| A5 | Faith, Hope And Charity |
+| A6 | Funrama 2 |
+| B1 | Best of Luck Mate |
+| B2 | T'Aint What You Do (It's The Way That You Do It) |
+| B3 | The Telephone Always Rings |
+| B4 | I Don't Believe It |
+| B5 | Alone |
+
 
 
 ## Apple Music

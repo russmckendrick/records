@@ -38,24 +38,25 @@ styles: ["Acoustic", "Alternative Rock", "Pop Rock", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Boys Don't Cry |
+| A2 | A Forest |
+| A3 | Let's Go To Bed |
+| A4 | The Walk |
+| A5 | The Lovecats |
+| B1 | Inbetween Days |
+| B2 | Close To Me |
+| B3 | Why Can't I Be You? |
+| B4 | Just Like Heaven |
+| B5 | Lullaby |
+| C1 | Lovesong |
+| C2 | Never Enough |
+| C3 | High |
+| C4 | Friday I'm In Love |
+| D1 | Mint Car |
+| D2 | Wrong Number |
+| D3 | Cut Here |
+| D4 | Just Say Yes |
+
 
 
 ## Apple Music

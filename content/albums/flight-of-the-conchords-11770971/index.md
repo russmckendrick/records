@@ -30,21 +30,22 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Foux Du Fafa |
+| A2 | Inner City Pressure |
+| A3 | Hiphopopotamus Vs. Rhymenoceros |
+| A4 | Think About It |
+| A5 | Ladies Of The World |
+| A6 | Mutha'uckas |
+| A7 | The Prince Of Parties |
+| A8 | Leggy Blonde |
+| B1 | Robots |
+| B2 | Boom |
+| B3 | A Kiss Is Not A Contract |
+| B4 | The Most Beautiful Girl (In The Room) |
+| B5 | Business Time |
+| B6 | Bowie |
+| B7 | Au Revoir |
+
 
 
 ## Apple Music

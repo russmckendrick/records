@@ -42,13 +42,14 @@ Tago Mago features long-form experimental tracks blending rock and jazz improvis
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Paperhouse |
+| A2 | Mushroom |
+| A3 | Oh Yeah |
+| B | Halleluwah |
+| C | Aumgn |
+| D1 | Peking O. |
+| D2 | Bring Me Coffee Or Tea |
+
 
 
 ## Apple Music

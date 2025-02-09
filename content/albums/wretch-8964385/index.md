@@ -31,18 +31,19 @@ Wretch is the first full-length album by American rock band Kyuss, released in S
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Beginning Of What's About To Happen |
+| A2 | Hwy 74 |
+| A3 | Love Has Passed Me By |
+| A4 | Son Of A Bitch |
+| A5 | Black Widow |
+| B1 | Katzenjammer |
+| B2 | Deadly Kiss |
+| B3 | The Law |
+| C1 | Isolation |
+| C2 | I'm Not |
+| C3 | Big Bikes |
+| D | Stage III |
+
 
 
 ## Apple Music

@@ -54,24 +54,25 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Part One |
+| A1 | Sweet Dew Lee |
+| A2 | We Were Beautiful |
+| B1 | Fickle Season |
+| B2 | The Girl Doesn't Get It |
+| B3 | Everything Is Now |
+|  | Part Two |
+| C1 | Show Me The Sun |
+| C2 | The Same Star |
+| C3 | I'll Be Your Pilot |
+| D1 | Cornflakes |
+| D2 | A Plague On Other Boys |
+|  | Part Three |
+| E1 | Poor Boy |
+| E2 | Everything Is Now (Part Two) |
+| F1 | Too Many Tears |
+| F2 | There Is An Everlasting Song |
+| F3 | Best Friend |
+
 
 
 ## Apple Music

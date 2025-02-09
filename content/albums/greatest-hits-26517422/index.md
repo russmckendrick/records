@@ -34,22 +34,23 @@ In 2022, Greatest Hits was reissued for its 30th anniversary in a remastered dou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Roxanne |
+| A2 | Can't Stand Losing You |
+| A3 | So Lonely |
+| A4 | Message In A Bottle |
+| B1 | Walking On The Moon |
+| B2 | The Bed's Too Big Without You |
+| B3 | Don't Stand So Close To Me |
+| B4 | De Do Do Do, De Da Da Da |
+| C1 | Every Little Thing She Does Is Magic |
+| C2 | Invisible Sun |
+| C3 | Spirits In The Material World |
+| C4 | Synchronicity II |
+| D1 | Every Breath You Take |
+| D2 | King Of Pain |
+| D3 | Wrapped Around Your Finger |
+| D4 | Tea In The Sahara |
+
 
 
 ## Apple Music

@@ -82,52 +82,50 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Sky Moves Sideways |
+| A1 | The Sky Moves Sideways - Phase 1 |
+| B1 | Stars Die |
+| B2 | Dislocated Day |
+| B3 | The Moon Touches Your Shoulder |
+| B4 | Prepare Yourself |
+| C1 | The Sky Moves Sideways - Phase 2 |
+| D1 | Moonloop |
+|  | Signify |
+| E1 | Bornlivedie |
+| E2 | Signify |
+| E3 | Sleep Of No Dreaming |
+| E4 | Pagan |
+| E5 | Waiting (Phase One) |
+| F1 | Waiting (Phase Two) |
+| F2 | Sever |
+| F3 | Idiot Prayer |
+| G1 | Every Home Is Wired |
+| G2 | Intermediate Jesus |
+| H1 | "Light Mass Prayers" |
+| H2 | Dark Matter |
+|  | Coma Divine Live In Rome |
+| I1 | Bornlivedieintro |
+| I2 | Signify |
+| I3 | Waiting (Phase One) |
+| I4 | Waiting (Phase Two) |
+| J1 | The Sky Moves Sideways |
+| J2 | Dislocated Day |
+| K1 | Sleep Of No Dreaming |
+| K2 | Moonloop |
+| L1 | Up The Downstair |
+| L2 | The Moon Touches Your Shoulder |
+| L3 | Always Never |
+| M1 | Is Not |
+| M2 | Radioactive Toy |
+| N1 | Not Beautiful Anymore |
+|  | Additional Material 1994 - 1997 |
+| O1a | Signify II (Secular Mix) |
+| O1b | Signify II (Religious Mix) |
+| P1 | Sound Of No-One Listening |
+| P2 | Colourflow In Mind |
+| P3 | Fuse The Sky |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

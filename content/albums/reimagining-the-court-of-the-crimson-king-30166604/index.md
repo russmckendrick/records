@@ -35,15 +35,13 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 21st Century Schizoid Man |
+| A2 | I Talk To The Wind |
+| A3 | Epitaph |
+| B1 | Moonchild |
+| B2 | The Court Of The Crimson King |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

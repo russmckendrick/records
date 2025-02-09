@@ -36,20 +36,21 @@ In It for the Money is the second studio album by English alternative rock band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In It For The Money |
+| A2 | Richard III |
+| A3 | Tonight |
+| A4 | Late In The Day |
+| A5 | G-Song |
+| A6 | Sun Hits The Sky |
+| B1 | Going Out |
+| B2 | It's Not Me |
+| B3 | Cheapskate |
+| B4 | You Can See Me |
+| B5 | Hollow Little Reign |
+| B6 | Sometimes I Make You Sad |
+| C | The Animal |
+| D | BRA Sun Hits The Sky mix |
+
 
 
 ## Apple Music

@@ -34,12 +34,13 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Luminol |
+| B1 | Drive Home |
+| B2 | Holy Drinker |
+| C1 | The Pin Drop  |
+| C2 |  The Watchmaker |
+| D1 | The Raven Who Refused To Sing |
+
 
 
 ## Apple Music

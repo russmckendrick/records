@@ -46,15 +46,16 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dexter & Sinister |
+| A2 | Seven Veils |
+| A3 | Empires |
+| A4 | The Delayed 3:15 |
+| B1 | White Noise White Heat |
+| B2 | Doldrums |
+| B3 | My Trouble |
+| B4 | On Deronda Road |
+| B5 | Weightless |
+
 
 
 ## Apple Music

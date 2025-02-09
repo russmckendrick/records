@@ -32,25 +32,26 @@ styles: ["Blues Rock", "Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introduction |
+| A2 | Honky Tonk Woman |
+| A3 | Introduction |
+| A4 | Sticks And Stones |
+| A5 | Cry Me A River |
+| A6 | Bird On The Wire |
+| B1 | Feelin´ Alright |
+| B2 | Superstar |
+| B3 | Introduction |
+| B4 | Let´s Get Stoned |
+|  | Blue Medley |
+| C2 | Introduction |
+| C3 | Girl From The North Country |
+| C4 | Give Peace A Chance |
+| D1 | Introduction |
+| D2 | She Came In Thru The Bathroom Window |
+| D3 | Space Captain |
+| D4 | The Letter |
+| D5 | Delta Lady |
+
 
 
 ## Apple Music

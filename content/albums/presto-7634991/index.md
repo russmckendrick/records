@@ -36,17 +36,18 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Show Don't Tell |
+| A2 | Chain Lightning |
+| A3 | The Pass |
+| A4 | War Paint |
+| A5 | Scars |
+| A6 | Presto |
+| B1 | Superconductor |
+| B2 | Anagram (For Mongo) |
+| B3 | Red Tide |
+| B4 | Hand Over Fist |
+| B5 | Available Light |
+
 
 
 ## Apple Music

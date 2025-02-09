@@ -33,30 +33,31 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dignity |
+| A2 | When Will You (Make My Telephone Ring) |
+| A3 | Chocolate Girl |
+| A4 | Real Gone Kid |
+| A5 | Wages Day |
+| A6 | Fergus Sings The Blues |
+| B1 | Queen Of The New Year |
+| B2 | Love And Regret |
+| B3 | I'll Never Fall In Love Again |
+| B4 | Your Swaying Arms |
+| B5 | Twist And Shout |
+| B6 | Closing Time |
+| C1 | Cover From The Sky |
+| C2 | Your Town |
+| C3 | Will We Be Lovers |
+| C4 | Only Tender Love |
+| C5 | Hang Your Head |
+| C6 | I Was Right And You Were Wrong |
+| D1 | Everytime You Sleep |
+| D2 | Bigger Than Dynamite |
+| D3 | The Hipsters |
+| D4 | A New House |
+| D5 | The Believers |
+| D6 | City Of Love |
+
 
 
 ## Apple Music

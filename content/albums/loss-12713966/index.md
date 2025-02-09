@@ -30,14 +30,15 @@ styles: ["Post Rock", "Post-Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Denial |
+| A2 | Detach |
+| B1 | Distress |
+| B2 | Blanch |
+| C1 | Blush |
+| C2 | Unspoken |
+| D1 | Squalor |
+| D2 | Squander |
+
 
 
 ## Apple Music

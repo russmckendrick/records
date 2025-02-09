@@ -31,16 +31,17 @@ Based in Bristol, Portishead followed in the footsteps of Massive Attack, the lo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mysterons |
+| A2 | Sour Times |
+| A3 | Strangers |
+| A4 | It Could Be Sweet |
+| A5 | Wandering Star |
+| B1 | Numb |
+| B2 | Roads |
+| B3 | Pedestal |
+| B4 | Biscuit |
+| B5 | Glory Box |
+
 
 
 ## Apple Music

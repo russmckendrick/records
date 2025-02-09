@@ -36,18 +36,19 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | River Song |
+| A2 | What's Wrong |
+| A3 | Moonshine |
+| A4 | Friday Night |
+| A5 | Dreamer |
+| A6 | Thoughts Of You |
+| B1 | Time |
+| B2 | You And I |
+| B3 | Pacific Ocean Blues |
+| B4 | Farewell My Friend |
+| B5 | Rainbows |
+| B6 | End Of The Show |
+
 
 
 ## Apple Music

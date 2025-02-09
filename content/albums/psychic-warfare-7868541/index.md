@@ -33,18 +33,19 @@ Psychic Warfare is the eleventh studio album by the band Clutch, It was released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Affidavit |
+| A2 | X-Ray Visions |
+| A3 | Firebirds! |
+| A4 | A Quick Death In Texas |
+| A5 | Sucker For The Witch |
+| A6 | Your Love Is Incarceration |
+| B7 | Doom Saloon |
+| B8 | Our Lady Of Electric Light |
+| B9 | Noble Savage |
+| B10 | Behold The Colossus |
+| B11 | Decapitation Blues |
+| B12 | Son Of Virginia |
+
 
 
 ## Apple Music

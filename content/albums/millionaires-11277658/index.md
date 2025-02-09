@@ -34,18 +34,19 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crash |
+| A2 | Just Like Fred Astaire |
+| A3 | I Know What I'm Here For |
+| B1 | Shooting My Mouth Off |
+| B2 | We're Going To Miss You |
+| B3 | Strangers |
+| C1 | Hello |
+| C2 | Afro Lover |
+| C3 | Surprise |
+| D1 | Dumb Jam |
+| D2 | Someone's Got It In For Me |
+| D3 | Vervaceous |
+
 
 
 ## Apple Music

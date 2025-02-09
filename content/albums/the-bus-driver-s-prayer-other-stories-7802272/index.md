@@ -30,20 +30,21 @@ styles: ["Power Pop", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | That's Enough Of That |
+| A2 | Bill Haley's Last Words |
+| A3 | Poor Joey |
+| A4 | Quick Quick Slow |
+| A5 | Fly InTthe Ointment |
+| A6 | O' Donegal |
+| A7 | Poo-Poo In The Prawn |
+| B1 | London Talking |
+| B2 | Have A Word |
+| B3 | D'Orine The Cow |
+| B4 | Your Horoscope |
+| B5 | No Such Thing As Love |
+| B6 | Two Old Dogs Without A Name |
+| B7 | The Bus Driver's Prayer |
+
 
 
 ## Apple Music

@@ -35,28 +35,29 @@ styles: ["Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Caterpillar |
+| A2 | Blood Red |
+| A3 | Serenade |
+| A4 | When We Dance |
+| A5 | Speed Of Dark |
+| A6 | Nightfall |
+| B1 | Today Has Been OK |
+| B2 | Jungle Drum |
+| B3 | Thinking Out Loud |
+| B4 | Gun |
+| B5 | Bleeder |
+| CD-1 | Caterpillar |
+| CD-2 | Blood Red |
+| CD-3 | Serenade |
+| CD-4 | When We Dance |
+| CD-5 | Speed Of Dark |
+| CD-6 | Nightfall |
+| CD-7 | Today Has Been OK |
+| CD-8 | Jungle Drum |
+| CD-9 | Thinking Out Loud |
+| CD-10 | Gun |
+| CD-11 | Bleeder |
+
 
 
 ## Apple Music

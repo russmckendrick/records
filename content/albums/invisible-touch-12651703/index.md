@@ -33,14 +33,15 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Invisible Touch |
+| A2 | Tonight, Tonight, Tonight |
+| A3 | Land Of Confusion |
+| A4 | In Too Deep |
+| B1 | Anything She Does |
+| B2 | Domino |
+| B3 | Throwing It All Away |
+| B4 | The Brazilian |
+
 
 
 ## Apple Music

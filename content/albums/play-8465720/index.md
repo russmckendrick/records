@@ -41,24 +41,25 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Honey |
+| A2 | Find My Baby |
+| A3 | Porcelain |
+| A4 | Why Does My Heart Feel So Bad? |
+| B1 | South Side |
+| B2 | Rushing |
+| B3 | Bodyrock |
+| B4 | Natural Blues |
+| C1 | Machete |
+| C2 | 7 |
+| C3 | Run On |
+| C4 | Down Slow |
+| C5 | If Things Were Perfect |
+| C6 | Everloving |
+| D1 | Inside |
+| D2 | Guitar Flute & String |
+| D3 | The Sky Is Broken |
+| D4 | My Weakness |
+
 
 
 ## Apple Music

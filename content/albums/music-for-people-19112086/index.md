@@ -34,18 +34,19 @@ Music for People is the second album by the band VAST, released in September 12,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Last One Alive |
+| A2 | Free |
+| A3 | I Don’t Have Anything |
+| A4 | The Gates Of Rock ‘n’ Roll |
+| A5 | What Else Do I Need |
+| A6 | Blue |
+| B1 | Land Of Shame |
+| B2 | A Better Place |
+| B3 | Song Without A Name |
+| B4 | We Will Meet Again |
+| B5 | My TV And You |
+| B6 | Lady Of Dreams |
+
 
 
 ## Apple Music

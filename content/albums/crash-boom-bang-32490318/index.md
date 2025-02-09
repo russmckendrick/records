@@ -48,28 +48,29 @@ Five singles were released from the album: lead single "Sleeping in My Car" beca
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Harleys & Indians (Riders In The Sky) |
+| A2 | Crash! Boom! Bang! |
+| A3 | Fireworks |
+| A4 | Run To You |
+| B1 | Sleeping In My Car |
+| B2 | Vulnerable |
+| B3 | The First Girl On The Moon |
+| B4 | Place Your Love |
+| B5 | I Love The Sound Of Crashing Guitars |
+| C1 | What's She Like |
+| C2 | Do You Wanna Go The Whole Way |
+| C3 | Lies |
+| C4 | I'm Sorry |
+| C5 | Love Is All (Shine Your Light On Me) |
+| D1 | Go To Sleep |
+| D2 | Almost Unreal |
+| D3 | Crazy About You |
+| D4 | See Me |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="3sGBp414FalqdDGwfDC1Me" width="100%" height="500" >}}<br>
 
 
 

@@ -41,26 +41,27 @@ styles: ["Synth-pop", "Electro"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Who Needs Love Like That |
+| A2 | Oh L'Amour |
+| A3 | Sometimes |
+| A4 | Victim Of Love |
+| A5 | The Circus |
+| B1 | Ship Of Fools |
+| B2 | Chains Of Love |
+| B3 | A Little Respect |
+| B4 | Stop! |
+| B5 | Drama! |
+| C1 | Blue Savannah |
+| C2 | Chorus |
+| C3 | Love To Hate You |
+| C4 | Take A Chance On Me |
+| C5 | Always |
+| D1 | Fingers & Thumbs (Cold Summer's Day) |
+| D2 | Breathe |
+| D3 | Elevation |
+| D4 | Love You To The Sky |
+| D5 | Hey Now (Think I Got A Feeling) |
+
 
 
 ## Apple Music

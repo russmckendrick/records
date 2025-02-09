@@ -46,44 +46,45 @@ The 1973 collection known to fans as “The Red Album” (released simultaneousl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Me Do |
+| A2 | Please Please Me |
+| A3 | From Me To You |
+| A4 | She Loves You |
+| A5 | I Want To Hold Your Hand |
+| A6 | All My Loving |
+| A7 | Can't Buy Me Love |
+| B1 | A Hard Day's Night |
+| B2 | And I Love Her |
+| B3 | Eight Days A Week |
+| B4 | I Feel Fine |
+| B5 | Ticket To Ride |
+| B6 | Yesterday |
+| C1 | Help! |
+| C2 | You've Got To Hide Your Love Away |
+| C3 | We Can Work It Out |
+| C4 | Day Tripper |
+| C5 | Drive My Car |
+| C6 | Norwegian Wood (This Bird Has Flown) |
+| D1 | Nowhere Man |
+| D2 | Michelle |
+| D3 | In My Life |
+| D4 | Girl |
+| D5 | Paperback Writer |
+| D6 | Eleanor Rigby |
+| D7 | Yellow Submarine |
+| E1 | I Saw Her Standing There |
+| E2 | Twist And Shout |
+| E3 | This Boy |
+| E4 | Roll Over Beethoven |
+| E5 | You Really Got A Hold On Me |
+| E6 | You Can't Do That |
+| F1 | If I Needed Someone |
+| F2 | Got To Get You Into My Life |
+| F3 | I'm Only Sleeping |
+| F4 | Taxman |
+| F5 | Here, There And Everywhere |
+| F6 | Tomorrow Never Knows |
+
 
 
 ## Apple Music

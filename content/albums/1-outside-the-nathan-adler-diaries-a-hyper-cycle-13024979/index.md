@@ -35,25 +35,26 @@ styles: ["Leftfield", "Industrial", "Experimental", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Leon Takes Us Outside |
+| A2 | Outside |
+| A3 | The Hearts Filthy Lesson |
+| A4 | A Small Plot Of Land |
+| B1 | Segue - Baby Grace (A Horrid Cassette) |
+| B2 | Hallo Spaceboy |
+| B3 | The Motel |
+| B4 | I Have Not Been To Oxford Town |
+| C1 | No Control |
+| C2 | Segue - Algeria Touchshriek |
+| C3 | The Voyeur Of Utter Destruction (As Beauty) |
+| C4 | Segue - Ramona A. Stone / I Am With Name |
+| C5 | Wishful Beginnings |
+| D1 | We Prick You |
+| D2 | Segue - Nathan Adler |
+| D3 | I'm Deranged |
+| D4 | Thru' These Architects Eyes |
+| D5 | Segue - Nathan Adler (Version #2) |
+| D6 | Strangers When We Meet |
+
 
 
 ## Apple Music

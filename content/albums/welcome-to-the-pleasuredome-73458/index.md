@@ -42,27 +42,28 @@ To celebrate the album's 30th anniversary, in October 2014, ZTT through Union Sq
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | F - Pray Frankie Pray |
+| A1 | Well... |
+| A2 | The World Is My Oyster |
+| A3 | Snatch Of Fury (Stay) |
+| A4 | Welcome To The Pleasure Dome |
+|  | G - Say Frankie Say |
+| B1 | Relax (Come Fighting) |
+| B2 | War (...And Hide) |
+| B3 | Two Tribes (For The Victims Of Ravishment) |
+|  | T - Stay Frankie Stay |
+| C1 | Ferry (Go) |
+| C2 | Born To Run |
+| C3 | San Jose (The Way) |
+| C4 | Wish (The Lads Were Here) |
+| C5 | Including The Ballad Of 32 |
+|  | H - Play Frankie Play |
+| D1 | Krisco Kisses |
+| D2 | Black Night White Light |
+| D3 | The Only Star In Heaven |
+| D4 | The Power Of Love |
+| D5 | Bang... |
+
 
 
 ## Apple Music

@@ -42,12 +42,13 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The 2009 Stereo Mixes By Mike Oldfield |
+| A | Tubular Bells (Part One) |
+| B | Tubular Bells (Part Two) |
+|  | The Original 1973 Stereo Album Mix |
+| C | Tubular Bells (Part One) |
+| D | Tubular Bells (Part Two) |
+
 
 
 ## Apple Music

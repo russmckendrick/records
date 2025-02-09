@@ -31,18 +31,19 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Punishment Of Luxury |
+| A2 | Isotype |
+| A3 | Robot Man |
+| A4 | What Have We Done |
+| A5 | Precision & Decay |
+| A6 | As We Open, So We Close |
+| B1 | Art Eats Art |
+| B2 | Kiss Kiss Kiss Bang Bang Bang |
+| B3 | One More Time |
+| B4 | La Mitrailleuse |
+| B5 | Ghost Star |
+| B6 | The View From Here |
+
 
 
 ## Apple Music

@@ -37,21 +37,22 @@ Soviet Kitsch is the major label debut and third album by American singer/songwr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ode To Divorce |
+| A2 | Poor Little Rich Boy |
+| A3 | Carbon Monoxide |
+| A4 | The Flowers |
+| A5 | Us |
+| B1 | Sailor Song |
+| B2 | * * * |
+| B3 | Your Honor |
+| B4 | Ghost Of Corporate Future |
+| B5 | Chemo Limo |
+| B6 | Somedays |
+|  | Bonus 7" |
+| C1 | Us (Video Edit) |
+| D1 | Scarecrow & Fungus |
+| D2 | December |
+
 
 
 ## Apple Music

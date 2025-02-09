@@ -36,19 +36,20 @@ The band's music is largely based on sampling and sound manipulation; the tracks
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Back Door Man |
+| A2 | Boneyard |
+| A3 | Young Gods (Stand Up, Stand Up) |
+| A4 | I Aint't Gonna Cry |
+| A5 | The Wildside Of Life |
+| A6 | Product Of The Working Class |
+| B1 | That's My Kinda Life |
+| B2 | Juvenile Offender |
+| B3 | Love Is A Gun |
+| B4 | Sweet Love Sedation |
+| B5 | Smoke In My Eyes |
+| B6 | Natural Born Fighter |
+| B7 | Feels Like The World Has Come Undone |
+
 
 
 ## Apple Music

@@ -27,16 +27,17 @@ Saint Julian is the third solo album by Julian Cope. It has a very strong pop so
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trampolene |
+| A2 | Shot Down |
+| A3 | Eve's Volcano (Covered In Sin) |
+| A4 | Spacehopper |
+| A5 | Planet Ride |
+| B1 | World Shut Your Mouth |
+| B2 | Saint Julian |
+| B3 | Pulsar |
+| B4 | Screaming Secrets |
+| B5 | A Crack In The Clouds |
+
 
 
 ## Apple Music

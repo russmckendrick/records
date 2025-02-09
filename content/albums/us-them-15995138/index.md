@@ -57,29 +57,30 @@ styles: ["Classic Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Speak To Me |
+| A3 | Breathe |
+| A4 | One Of These Days |
+| A5 | Time |
+| A6 | Breathe (Reprise) |
+| A7 | The Great Gig In The Sky |
+| B1 | Welcome To The Machine |
+| B2 | Déjà Vu |
+| B3 | The Last Refugee |
+| C1 | Picture That |
+| C2 | Wish You Were Here |
+| C3 | The Happiest Days Of Our Lives |
+| C4 | Another Brick In The Wall Part 2 |
+| C5 | Another Brick In The Wall Part 3 |
+| D | Dogs |
+| E1 | Pigs (Three Different Ones) |
+| E2 | Money |
+| F1 | Us & Them |
+| F2 | Brain Damage |
+| F3 | Eclipse |
+| F4 | The Last Refugee (Reprise) |
+| F5 | Déjà Vu (Reprise) |
+
 
 
 ## Apple Music

@@ -31,16 +31,17 @@ styles: ["Art Rock", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Auto Rock |
+| A2 | Glasgow Mega-Snake |
+| A3 | Acid Food |
+| A4 | Travel Is Dangerous |
+| B1 | Team Handed |
+| B2 | Friend Of The Night |
+| B3 | Emergency Trap |
+| C1 | Folk Death 95 |
+| C2 | I Chose Horses |
+| C3 | We're No Here |
+
 
 
 ## Apple Music

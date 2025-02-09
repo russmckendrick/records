@@ -35,19 +35,20 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Suave And Suffocated |
+| A2 | Walking Through Syrup |
+| A3 | Legoland |
+| A4 | Swallowing Air |
+| A5 | Who Goes First? |
+| A6 | Tantrum |
+| B1 | Not Sleeping Around |
+| B2 | You Don't Want To Do That |
+| B3 | Leg End In His Own Boots |
+| B4 | Two And Two Made Five |
+| B5 | Fracture |
+| B6 | Spring |
+| B7 | Intact |
+
 
 
 ## Apple Music

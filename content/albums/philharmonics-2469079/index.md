@@ -29,18 +29,19 @@ Those who fell in love with Agnes Obel’s wistful voice and the somber songs th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Falling, Catching |
+| A2 | Riverside |
+| A3 | Brother Sparrow |
+| A4 | Just So |
+| A5 | Beast |
+| A6 | Louretta |
+| B7 | Avenue |
+| B8 | Philharmonics |
+| B9 | Close Watch |
+| B10 | Wallflower |
+| B11 | Over The Hill |
+| B12 | On Powdered Ground |
+
 
 
 ## Apple Music

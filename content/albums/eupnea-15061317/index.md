@@ -31,18 +31,19 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Obsession |
+| A2 | Silent Genesis |
+| A3 | Maelstrom |
+| B1 | Ghosts & Typhoons |
+| B2 | Beyond Our Bodies |
+| C1 | Eupnea |
+| CD-1 | New Obsession |
+| CD-2 | Silent Genesis |
+| CD-3 | Maelstrom |
+| CD-4 | Ghosts & Typhoons |
+| CD-5 | Beyond Our Bodies |
+| CD-6 | Eupnea |
+
 
 
 ## Apple Music

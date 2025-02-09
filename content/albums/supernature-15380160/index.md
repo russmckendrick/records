@@ -43,17 +43,18 @@ The album's lead single, "Ooh La La", reached number four on the UK Singles Char
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ooh La La |
+| A2 | Lovely 2 C U |
+| A3 | Ride A White Horse |
+| A4 | You Never Know |
+| A5 | Let It Take You |
+| B1 | Fly Me Away |
+| B2 | Slide In |
+| B3 | Koko |
+| B4 | Satin Chic |
+| B5 | Time Out From The World |
+| B6 | Number 1 |
+
 
 
 ## Apple Music

@@ -31,15 +31,16 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ain't It Sweet |
+| A2 | 1922 |
+| A3 | Great Tide |
+| A4 | Belong |
+| B1 | Sitting on a Fence |
+| B2 | Lowly Road |
+| B3 | Time to Wake Up |
+| B4 | Anybody Else |
+| B5 | Gone |
+
 
 
 ## Apple Music

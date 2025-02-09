@@ -37,16 +37,17 @@ Accompanied by multiple UK top 40 singles, Hours peaked at number five on the UK
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thursday's Child |
+| A2 | Something In The Air |
+| A3 | Survive |
+| A4 | If I'm Dreaming My Life |
+| B1 | Seven |
+| B2 | What's Really Happening? |
+| B3 | The Pretty Things Are Going To Hell |
+| B4 | New Angels Of Promise |
+| B5 | Brilliant Adventure |
+| B6 | The Dreamers |
+
 
 
 ## Apple Music

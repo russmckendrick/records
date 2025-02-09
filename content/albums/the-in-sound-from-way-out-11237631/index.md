@@ -33,20 +33,21 @@ The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Devant |
+| A1 | Ricky's Theme |
+| A2 | Groove Holmes |
+| A3 | Pow |
+| A4 | Son Of Neckbone |
+| A5 | Bobo On The Corner |
+| A6 | In 3's |
+| A7 | Eugene's Lament |
+|  | Derrièr |
+| B1 | Futterman's Rule |
+| B2 | Shambala |
+| B3 | Transitions |
+| B4 | Sabrosa |
+| B5 | Drinkin' Wine |
+
 
 
 ## Apple Music

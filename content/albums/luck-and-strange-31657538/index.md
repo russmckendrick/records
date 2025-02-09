@@ -56,15 +56,16 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Cat |
+| A2 | Luck And Strange |
+| A3 | The Piper's Call |
+| A4 | A Single Spark |
+| A5 | Vita Brevis |
+| A6 | Between Two Points |
+| B1 | Dark And Velvet Nights |
+| B2 | Sings |
+| B3 | Scattered |
+
 
 
 ## Apple Music

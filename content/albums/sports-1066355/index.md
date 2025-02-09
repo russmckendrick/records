@@ -32,15 +32,16 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Heart Of Rock & Roll |
+| A2 | Heart And Soul |
+| A3 | Bad Is Bad |
+| A4 | I Want A New Drug |
+| B1 | Walking On A Thin Line |
+| B2 | Finally Found A Home |
+| B3 | If This Is It |
+| B4 | You Crack Me Up |
+| B5 | Honky Tonk Blues |
+
 
 
 ## Apple Music

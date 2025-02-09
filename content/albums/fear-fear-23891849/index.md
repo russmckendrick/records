@@ -35,16 +35,17 @@ styles: ["Acid House", "New Wave", "Post-Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 19 |
+| A2 | Fear Fear |
+| A3 | Widow |
+| A4 | Ploys |
+| A5 | Cut |
+| B1 | Rapture |
+| B2 | Circumference |
+| B3 | Heart Attack |
+| B4 | Money Is Mine |
+| B5 | The Last One |
+
 
 
 ## Apple Music

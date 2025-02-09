@@ -36,16 +36,17 @@ Moon Safari was acclaimed by critics. It is credited with setting the stage for 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | La Femme D'Argent |
+| A2 | Sexy Boy |
+| A3 | All I Need |
+| A4 | Kelly Watch The Stars |
+| B1 | Talisman |
+| B2 | Remember |
+| B3 | You Make It Easy |
+| B4 | Ce Matin La |
+| B5 | New Star In The Sky |
+| B6 | Le Voyage De Penelope |
+
 
 
 ## Apple Music

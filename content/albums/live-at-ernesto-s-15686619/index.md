@@ -35,22 +35,23 @@ styles: ["Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Sooner Or Later |
+| A3 | Married Girl |
+| A4 | Do You Know |
+| A5 | Sarah |
+| B1 | Mush One |
+| B2 | I Still Love You |
+| B3 | Soldier |
+| B4 | Keep Him Away |
+| B5 | Work Song |
+| C1 | Feed My Girl |
+| C2 | Face In My Crowd |
+| C3 | You Don't Know I |
+| D1 | Pedophilia |
+| D2 | Runaway |
+| D3 | The Fried Chicken Song/Mary Mary |
+
 
 
 ## Apple Music

@@ -44,28 +44,29 @@ Following their coup, the Mountain, led by Hérault de Séchelles, quickly began
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Path |
+| A2 | Atlas Stone |
+| A3 | Cockroach King |
+| B1 | In Memorian |
+| B2 | Because It's There |
+| B3 | Falling Back To Earth |
+| C1 | As Death Embraces |
+| C2 | Pareidolia |
+| D1 | Somebody |
+| D2 | The Path Unbeaten |
+| D3 | Nobody |
+| CD-1 | The Path |
+| CD-2 | Atlas Stone |
+| CD-3 | Cockroach King |
+| CD-4 | In Memorian |
+| CD-5 | Because It's There |
+| CD-6 | Falling Back To Earth |
+| CD-7 | As Death Embraces |
+| CD-8 | Pareidolia |
+| CD-9 | Somebody |
+| CD-10 | The Path Unbeaten |
+| CD-11 | Nobody |
+
 
 
 ## Apple Music

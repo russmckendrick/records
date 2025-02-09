@@ -29,20 +29,21 @@ Ogdens' Nut Gone Flake is the third studio album, and only concept album by the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Ogden's Nut Gone Flake |
+| A1 | Ogden's Nut Gone Flake |
+| A2 | Afterglow |
+| A3 | Long Agos And Worlds Apart |
+| A4 | Rene |
+| A5 | Song Of A Baker |
+| A6 | Lazy Sunday |
+|  | Happiness Stan |
+| B1 | Happiness Stan |
+| B2 | Rollin' Over |
+| B3 | The Hungry Intruder |
+| B4 | The Journey |
+| B5 | Mad John |
+| B6 | Happydaystoytown |
+
 
 
 ## Apple Music

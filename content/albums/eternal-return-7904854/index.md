@@ -30,16 +30,17 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Am Ready |
+| A2 | I Wanna Be Your Man |
+| A3 | Better With You |
+| A4 | I'd Be Lost |
+| A5 | Maybe This Time |
+| B1 | Beyond |
+| B2 | Luxurious |
+| B3 | Only One |
+| B4 | Say What You Want |
+| B5 | Without |
+
 
 
 ## Apple Music

@@ -29,19 +29,20 @@ styles: ["Soul", "Contemporary R&B"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Offering |
+| A2 | The Blind |
+| A3 | Angels & Queens |
+| A4 | Taboo |
+| A5 | To The Moon And Back |
+| A6 | Professional |
+| A7 | We Will Remember |
+| B1 | Remember Me |
+| B2 | If You Only Knew |
+| B3 | Love And Hate In A Different Time |
+| B4 | Glory |
+| B5 | Great Wind |
+| B6 | Mama |
+
 
 
 ## Apple Music

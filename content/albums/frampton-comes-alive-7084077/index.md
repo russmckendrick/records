@@ -40,20 +40,21 @@ In 2020, Frampton Comes Alive! was inducted into the Grammy Hall of Fame.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | (Baby) Something's Happening |
+| A2 | Doobie Wah |
+| A3 | Show Me The Way |
+| A4 | It's A Plain Shame |
+| B1 | All I Want To Be (Is By Your Side) |
+| B2 | Wind Of Change |
+| B3 | Baby, I Love Your Way |
+| B4 | I Wanna Go To The Sun |
+| C1 | Penny For Your Thoughts |
+| C2 | (I'll Give You) Money |
+| C3 | Shine On |
+| C4 | Jumping Jack Flash |
+| D1 | Lines On My Face |
+| D2 | Do You Feel Like We Do |
+
 
 
 ## Apple Music

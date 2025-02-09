@@ -39,18 +39,19 @@ A deep bench of co-writers ensures that continuing sense of variety: “Big Mist
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Torn |
+| A2 | One More Addiction |
+| A3 | Big Mistake |
+| A4 | Leave Me Alone |
+| A5 | Intuition |
+| A6 | Smoke |
+| B1 | Pigeons And Crumbs |
+| B2 | Don't You Think? |
+| B3 | Impressed |
+| B4 | Wishing I Was There |
+| B5 | City |
+| B6 | Left Of The Middle |
+
 
 
 ## Apple Music

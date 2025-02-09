@@ -35,13 +35,14 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I've Been Waitin' For Tomorrow (All Of My Life) |
+| A2 | This Is The Day |
+| A3 | The Sinking Feeling  |
+| A4 | Uncertain Smile |
+| B1 | The Twilight Hour |
+| B2 | Soul Mining  |
+| B3 | Giant |
+
 
 
 ## Apple Music

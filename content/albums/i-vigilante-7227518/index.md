@@ -36,12 +36,13 @@ styles: ["Avantgarde"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Troublemaker |
+| A2  | We Forgotten Who We Are |
+| B1 | Fantastic Justice |
+|  B2 | Bastogne Blues |
+| C1 | Of A Lifetime |
+| C2 | Burning Bridges |
+
 
 
 ## Apple Music

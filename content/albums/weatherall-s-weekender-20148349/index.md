@@ -30,8 +30,9 @@ styles: ["Leftfield", "House", "Dub", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Weatherall's Weekender (Audrey Is A Little Bit Partial Mix) |
+| B | Weatherall's Weekender (Audrey Is A Little Bit More Partial Mix) |
+
 
 
 ## Apple Music

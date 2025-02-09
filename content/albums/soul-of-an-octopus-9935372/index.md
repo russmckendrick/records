@@ -30,15 +30,16 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Too Numb |
+| A2 | Collapsing Hopes |
+| A3 | Searching For The Code |
+| A4 | Dirty Rain |
+| B1 | Scarlet Water |
+| B2 | Heaven Proof House |
+| B3 | Just Another Bad Day |
+| B4 | Capture Or Reveal |
+| B5 | Till The Sunrise Comes |
+
 
 
 ## Apple Music

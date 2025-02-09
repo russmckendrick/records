@@ -27,21 +27,19 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rocket |
+| A2 | Quiet |
+| A3 | Today |
+| A4 | Rhinoceros |
+| B1 | Geek USA |
+| B2 | I Am One |
+| B3 | Disarm |
+| C1 | Cherub Rock |
+| C2 | Hummer |
+| D1 | Silverfuck |
+| D2 | Mayonaise |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -48,23 +48,24 @@ Delta Machine is the thirteenth studio album by English electronic music band De
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Welcome To My World |
+| A2 | Angel |
+| A3 | Heaven |
+| A4 | Secret To The End |
+| B1 | My Little Universe |
+| B2 | Slow |
+| B3 | Broken |
+| B4 | The Child Inside |
+| B5 | Soft Touch / Raw Nerve |
+| C1 | Should Be Higher |
+| C2 | Alone |
+| C3 | Soothe My Soul |
+| C4 | Goodbye |
+| D1 | Long Time Lie |
+| D2 | Happens All The Time |
+| D3 | Always |
+| D4 | All That's Mine |
+
 
 
 ## Apple Music

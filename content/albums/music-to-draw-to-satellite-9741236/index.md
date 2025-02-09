@@ -31,24 +31,25 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Observable Universe |
+| A2 | Adrift |
+| A3 | Transmission 1 |
+| B1 | Fallaway |
+| B2 | Perihelion |
+| B3 | Photons |
+| B4 | Beneath The Heat |
+| B5 | Novachord |
+| C1 | Transmission 2 |
+| C2 | Collapser |
+| C3 | Transmission 3 |
+| C4 | The Hubble Constant |
+| C5 | Satellite |
+| C6 | Apoapsis |
+| D1 | Nightfall |
+| D2 | The Darkest Day |
+| D3 | Epilogue |
+| D4 | Nightfall: Pale Blue |
+
 
 
 ## Apple Music

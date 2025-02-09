@@ -33,8 +33,9 @@ styles: ["New Wave", "Post-Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Transmission |
+| B | Novelty |
+
 
 
 ## Apple Music

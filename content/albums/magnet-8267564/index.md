@@ -32,11 +32,12 @@ The strength of a magnetic field always decreases with distance from the magneti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Magnet In Your Face |
+| 2 | Palm Trees |
+| 3 | Flint |
+| 4 | Part 6 (The 8th Circuit) |
+| 5 | Chief (Rehearsal Recording) |
+
 
 
 ## Apple Music

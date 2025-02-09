@@ -33,19 +33,20 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jim's Bed of Unease (Intro) |
+| A2 | The Earth Bleeds Out |
+| A3 | Shona Is Dating A Drunk, Woman Hating Neanderthal Man |
+| A4 | #prayfortony |
+| A5 | Where's The Backdoor, Steve? |
+| A6 | Karen (Is Thinking Of Changing Her Name) |
+| A7 | A Random Act |
+| B1 | The Summer Of No Touching |
+| B2 | Song For The Unsung (You're So Modest You'll Never Think This Song Is About you) |
+| B3 | Men |
+| B4 | Evan Knows The Sirens |
+| B5 | The Loneliest Elephant In The World |
+| B6 | Who Do We Hate Today? |
+
 
 
 ## Apple Music

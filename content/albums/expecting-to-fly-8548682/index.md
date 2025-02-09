@@ -36,17 +36,18 @@ A 2 CD Expanded Edition of the album was released on 9 March 2009.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Talking To Clary |
+| A2 | Bluetonic |
+| A3 | Cut Some Rug |
+| A4 | Things Change |
+| A5 | The Fountainhead |
+| B1 | Carnt Be Trusted |
+| B2 | Slight Return |
+| B3 | Putting Out Fires |
+| B4 | Vampire |
+| B5 | A Parting Gesture |
+| B6 | Time & Again |
+
 
 
 ## Apple Music

@@ -38,19 +38,20 @@ The Dead Cities are situated in an elevated area of limestone known as Limestone
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Herd Killing |
+| A2 | Dead Cities |
+| A3 | Her Face Forms In Summertime |
+| A4 | We Have Explosive |
+| B1 | Everyone In The World Is Doing Something Without Me |
+| B2 | My Kingdom |
+| B3 | Max |
+| B4 | Antique Toy |
+| C1 | Quagmire / In A State Of Permanent Abyss |
+| C2 | Glass |
+| D1 | Yage |
+| D2 | Vit Drowning / Through Your Gills I Breathe |
+| D3 | First Death In The Family |
+
 
 
 ## Apple Music

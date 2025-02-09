@@ -36,18 +36,19 @@ Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the U
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Making Plans For Nigel |
+| A2 | Helicopter  |
+| A3 | Day In Day Out |
+| A4 | When You’re Near Me I Have Difficulty  |
+| A5 | Ten Feet Tall |
+| A6 | Roads Girdle The Globe |
+| B1 | Real By Reel |
+| B2  | Millions |
+| B3 | That Is The Way |
+| B4 | Outside World  |
+| B5 | Scissor Man |
+| B6 | Complicated Game |
+
 
 
 ## Apple Music

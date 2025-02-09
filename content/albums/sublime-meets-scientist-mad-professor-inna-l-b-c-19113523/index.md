@@ -32,14 +32,15 @@ styles: ["Dub"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Round One: Scientist Dubs |
+| A1 | Caress Me Down - Español Dub (Scientist Mix) |
+| A2 | Garden Grove Dub (Scientist Mix) |
+| A3 | Santeria Dub (Scientist Mix) |
+|  | Round Two: Mad Professor Dubs |
+| B1 | Hong Kong Phooey Subliminal Dub (Mad Professor Mix) |
+| B2 | April 29,1992 (Miami) Dub (Mad Professor Mix) |
+| B3 | Pawn Shop Dub (Mad Professor Mix) |
+
 
 
 ## Apple Music

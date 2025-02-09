@@ -37,26 +37,27 @@ styles: ["Pop Rock", "Rock & Roll", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mr. Blue Sky |
+| A2 | Evil Woman |
+| A3 | Don't Bring Me Down |
+| A4 | Sweet Talkin' Woman |
+| A5 | Shine A Little Love |
+| B1 | Turn To Stone |
+| B2 | The Diary Of Horace Wimp |
+| B3 | Confusion |
+| B4 | Hold On Tight |
+| B5 | Livin' Thing |
+| C1 | Telephone Line |
+| C2 | All Over The World |
+| C3 | Wild West Hero |
+| C4 | Showdown |
+| C5 | Ma-Ma-Ma Belle |
+| D1 | Xanadu |
+| D2 | Rockaria! |
+| D3 | Strange Magic |
+| D4 | Alright |
+| D5 | Rock 'N' Roll Is King |
+
 
 
 ## Apple Music

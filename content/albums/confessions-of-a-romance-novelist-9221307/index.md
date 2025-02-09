@@ -34,22 +34,23 @@ On the album, Catherine plays a variety of instruments, including piano, guitar,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Long Year |
+| A2 | What Goes Around |
+| A3 | Doesn't Kill You |
+| A4 | You And Only You |
+| B1 | One For Sorrow |
+| B2 | P.S. Fuck You |
+| B3 | Popular |
+| B4 | Bury Me |
+| C1 | Intermission (Notes To The Editor) |
+| C2 | Waiting To Breathe |
+| C3 | Chip On Your Shoulder |
+| C4 | Confessions Of A Romance Novelist |
+| D1 | You And Only You (Acoustic Version) |
+| D2 | Bury Me ( Acoustic Version ) |
+| D3 | Long Year (Acoustic Version) |
+| D4 | Popular (Acoustic Version) |
+
 
 
 ## Apple Music

@@ -37,44 +37,45 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Act I |
+| A1 | Atum |
+| A2 | Butterfly Suite |
+| A3 | The Good In Goodbye |
+| A4 | Embracer |
+| A5 | With Ado I Do |
+| A6 | Hooligan |
+| B7 | Steps In Time |
+| B8 | Where Rain Must Fall |
+| B9 | Beyond The Vale |
+| B10 | Hooray! |
+| B11 | The Gold Mask |
+|  | Act II |
+| C12 | Avalanche |
+| C13 | Empires |
+| C14 | Neophyte |
+| C15 | Moss |
+| C16 | Night Waves |
+| C17 | Space Age |
+| D18 | Every Morning |
+| D19 | To The Grays |
+| D20 | Beguiled |
+| D21 | The Culling |
+| D22 | Springtimes |
+|  | Act III |
+| E23 | Sojourner |
+| E24 | That Which Animates The Spirit |
+| E25 | The Canary Trainer |
+| F26 | Pacer |
+| F27 | In Lieu Of Failure |
+| F28 | Cenotaph |
+| F29 | Harmageddon |
+| G30 | Fireflies |
+| G31 | Intergalactic |
+| G32 | Spellbinding |
+| G33 | Of Wings |
+|  | Audio Story |
+| H34 | Act 1 Of Atum |
+
 
 
 ## Apple Music

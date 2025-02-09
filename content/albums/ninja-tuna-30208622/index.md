@@ -48,24 +48,25 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Test The Sound |
+| A2 | Music Takes Me Up |
+| A3 | Donkey Ride |
+| B1 | Hairy Bumpercress |
+| B2 | Whiplash |
+| B3 | Nice Up The Function |
+| C1 | Bang The Floor |
+| C2 | Get On Down |
+| C3 | Hold On |
+| D1 | Give Up To Get |
+| D2 | Kalimba |
+| D3 | Zen |
+| E1 | This Way |
+| E2 | Stockport Carnival |
+| E3 | Fix That Speaker |
+| F1 | Bunch Of Keys (LP Edit) |
+| F2 | Rocking Chair |
+| F3 | Nice Up The Function (Remix Instrumental) |
+
 
 
 ## Apple Music

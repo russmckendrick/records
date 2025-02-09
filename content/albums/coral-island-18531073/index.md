@@ -48,30 +48,31 @@ A coral island is a type of island formed from coral detritus and associated org
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Part 1 - Welcome To Coral Island |
+| A2 | Lover Undiscovered |
+| A3 | Change Your Mind |
+| A4 | Mist On The River |
+| A5 | Pavillions Of The Mind |
+| A6 | Vacancy |
+| B1 | My Best Friend |
+| B2 | Arcade Hallucinations |
+| B3 | The Game She Plays |
+| B4 | Autumn Has Come |
+| B5 | End Of The Pier |
+| C1 | The Ghost Of Coral Island |
+| C2 | Golden Age |
+| C3 | Faceless Angel |
+| C4 | The Great Lafayette |
+| C5 | Strange Illusions |
+| C6 | Take Me Back To The Summertime |
+| D1 | Telepathic Waltz |
+| D2 | Old Photographs |
+| D3 | Watch You Disappear |
+| D4 | Late Night At The Borders |
+| D5 | Land Of The Lost |
+| D6 | The Calico Girl |
+| D7 | The Last Entertainer |
+
 
 
 ## Apple Music

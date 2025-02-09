@@ -32,17 +32,18 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introduction |
+| A2 | Reach For The Ground |
+| A3 | Love Is A Fool |
+| A4 | Lay Your Love On Me |
+| A5 | White Hood |
+| B1 | Opium |
+| B2 | The Hangman |
+| B3 | Hot Dog |
+| B4 | Jet Setter |
+| B5 | Love Is A Fool (Again) |
+| B6 | One More Hit |
+
 
 
 ## Apple Music

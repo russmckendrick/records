@@ -34,16 +34,17 @@ Coming Up is the third album by English alternative rock band Suede, released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trash |
+| A2 | Filmstar |
+| A3 | Lazy |
+| A4 | By The Sea |
+| A5 | She |
+| B1 | Beautiful Ones |
+| B2 | Starcrazy |
+| B3 | Picnic By The Motorway |
+| B4 | The Chemistry Between Us |
+| B5 | Saturday Night |
+
 
 
 ## Apple Music

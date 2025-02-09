@@ -35,16 +35,17 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spider Bites |
+| A2 | History Books |
+| A3 | Autumn |
+| A4 | Positive Charge |
+| A5 | Michigan, 1975 |
+| B1 | Little Fires |
+| B2 | The Weatherman |
+| B3 | Empires |
+| B4 | I Live In The Room Above Her |
+| B5 | A Lifetime Of Preludes |
+
 
 
 ## Apple Music

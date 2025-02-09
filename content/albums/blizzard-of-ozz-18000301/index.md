@@ -35,15 +35,16 @@ This hefty anthology charts the sinister evolution of heavy metal’s dark princ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Don't Know |
+| A2 | Crazy Train |
+| A3 | Goodbye To Romance |
+| A4 | Dee |
+| A5 | Suicide Solution |
+| B1 | Mr. Crowley |
+| B2 | No Bone Movies |
+| B3 | Revelation (Mother Earth) |
+| B4 | Steal Away (The Night) |
+
 
 
 ## Apple Music

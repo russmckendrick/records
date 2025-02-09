@@ -39,14 +39,15 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mood Swings |
+| A2 | Ancient Love |
+| A3 | Your Hammer, My Heart |
+| A4 | Patterns |
+| B1 | A Bird Of No Address |
+| B2 | Born Horses |
+| B3 | Everything I Thought I Had Lost |
+| B4 | There's Always Been A Bird In Me |
+
 
 
 ## Apple Music

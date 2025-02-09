@@ -35,14 +35,15 @@ Among the songs recorded during the album sessions were two covers of tracks ori
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Can't Get Enough |
+| A2 | Rock Steady |
+| A3 | Ready For Love |
+| A4 | Don't Let Me Down |
+| B1 | Bad Company |
+| B2 | The Way I Choose |
+| B3 | Movin' On |
+| B4 | Seagull |
+
 
 
 ## Apple Music

@@ -44,15 +44,16 @@ Creatively too, there was some agitation. Keyboardist Alan Wilder had grown fed 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | World In My Eyes |
+| A2 | Sweetest Perfection |
+| A3 | Personal Jesus |
+| A4 | Halo |
+| A5 | Waiting For The Night |
+| B1 | Enjoy The Silence |
+| B2 | Policy Of Truth |
+| B3 | Blue Dress |
+| B4 | Clean |
+
 
 
 ## Apple Music

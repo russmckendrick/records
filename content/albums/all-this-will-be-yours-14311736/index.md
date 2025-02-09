@@ -30,15 +30,16 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Secrets I Know |
+| A2 |  Our Gravest Threat Apart |
+| A3 | The Solitary Path Of A Convicted Man |
+| A4 | All This Will Be Yours |
+| A5 | Time Does Not Exist |
+| B1 | One Misstep |
+| B2 | You Hear The Voices |
+| B3 | Cut The Flowers |
+| B4 | One Day I Will Leave You |
+
 
 
 ## Apple Music

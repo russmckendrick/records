@@ -33,16 +33,17 @@ The album has been reissued twice: first in 1994 with the addition of the former
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Greetings From Shitsville |
+| A2 | TV Tan |
+| A3 | Everlone |
+| A4 | Shame On Me |
+| A5 | Loveshit |
+| B1 | The Miles Away Girl |
+| B2 | My Baby Is A Headfuck / |
+| B3 | Suckerpunch |
+| B4 | News Of The World |
+| B5 | Love U Til I Don't |
+
 
 
 ## Apple Music

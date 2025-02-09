@@ -29,22 +29,20 @@ styles: ["Rock & Roll", "Pop Rock", "Soul", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blockbuster |
+| A2 | You're So Vain |
+| A3 | Always On My Mind |
+| A4 | Relay |
+| A5 | Dreidel |
+| A6 | The Jean Genie |
+| B1 | Me And Mrs. Jones |
+| B2 | C. Moon |
+| B3 | Papa Was A Rollin' Stone |
+| B4 | Ball Park Incident |
+| B5 | Roll Over Beethoven |
+| B6 | Wishing Well |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -37,18 +37,19 @@ styles: ["New Wave", "Alternative Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Open |
+| A2 | High |
+| A3 | Apart |
+| B1 | From The Edge Of The Deep Green Sea |
+| B2 | Wendy Time |
+| B3 | Doing The Unstuck |
+| C1 | Friday I'm In Love |
+| C2 | Trust |
+| C3 | A Letter To Elise |
+| D1 | Cut |
+| D2 | To Wish Impossible Things |
+| D3 | End |
+
 
 
 ## Apple Music

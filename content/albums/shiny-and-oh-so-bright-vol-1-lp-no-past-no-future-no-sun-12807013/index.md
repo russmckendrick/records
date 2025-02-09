@@ -46,17 +46,18 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Knights Of Malta |
+| A2 | Silvery Sometimes (Ghosts) |
+| A3 | Travels |
+| A4 | Solara |
+| B1 | Alienation |
+| B2 | Marchin' On |
+| B3 | With Sympathy |
+| B4 | Seek And You Shall Destroy |
+| C | Solara |
+| D | Silvery Sometimes (Ghosts) |
+| E | Knights Of Malta |
+
 
 
 ## Apple Music

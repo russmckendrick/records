@@ -26,13 +26,14 @@ styles: ["Acid Jazz"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blow Up |
+| A2 | Mission Impossible |
+| A3 | Goldfinger |
+| B1 | Joyhouse |
+| B2 | Mrs. Robinson |
+| B3 | Alfie |
+| B4 | The Stooge |
+
 
 
 ## Apple Music

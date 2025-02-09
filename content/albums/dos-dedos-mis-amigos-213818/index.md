@@ -37,17 +37,18 @@ It was followed by an album of remixes, Two Fingers My Friends!, which is the En
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ich Bin Ein Auslander |
+| A2 | Kick To Kill |
+| A3 | Familus Horribilus |
+| B1 | Underbelly |
+| B2 | Fatman |
+| B3 | Home |
+| C1 | Cape Connection |
+| C2 | Menofearthereaper |
+| D1 | Everything's Cool |
+| D2 | R.S.V.P. |
+| D3 | Babylon |
+
 
 
 ## Apple Music

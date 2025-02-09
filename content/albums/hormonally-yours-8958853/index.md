@@ -30,18 +30,19 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Goodbye Cruel World |
+| A2 | I Don't Care |
+| A3 | My 16th Apology |
+| A4 | Are We In Love Yet |
+| A5 | Emotional Thing |
+| A6 | Stay |
+| B1 | Black Sky |
+| B2 | The Trouble With Andre |
+| B3 | Moonchild |
+| B4 | Catwoman |
+| B5 | Let Me Entertain You |
+| B6 | Hello (Turn Your Radio On) |
+
 
 
 ## Apple Music

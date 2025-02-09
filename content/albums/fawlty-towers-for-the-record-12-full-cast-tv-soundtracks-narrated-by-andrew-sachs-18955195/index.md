@@ -40,28 +40,26 @@ styles: ["Comedy", "Radioplay", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Fawlty Towers |
+| A | Communications Problems |
+| B | The Hotel Inspectors |
+|  | Second Sitting |
+| C | Basil The Rat |
+| D | The Builders |
+|  | At Your Service |
+| E | The Kipper And The Corpse |
+| F | The Germans |
+|  | A La Carte |
+| G | Waldorf Salad |
+| H | Gourmet Night |
+|  | Plat Du Jour |
+| I | A Touch Of Class |
+| J | The Wedding Party |
+|  | Enjoy Your Stay |
+| K | The Psychiatrist |
+| L | The Anniversary |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

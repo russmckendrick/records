@@ -43,22 +43,23 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Time Machine |
+| A2 | Glory |
+| A3 | Close Your Eyes |
+| A4 | Automatic (Part 1) |
+| A5 | Automatic (Part 2) |
+| B1 | If..! |
+| B2 | Immortals |
+| B3 | Suns Have Gone |
+| B4 | Conquistador |
+| C1 | Travelator (Part 2) |
+| C2 | Zero Gravity |
+| C3 | Rely On Me |
+| C4 | Stardust |
+| D1 | Watching You |
+| D2 | A Question Of Blood |
+| D3 | The Train & The River |
+
 
 
 ## Apple Music

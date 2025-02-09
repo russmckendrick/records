@@ -30,17 +30,18 @@ styles: ["Indie Rock", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Der Sumpf (Sinfonie Der Großstadt)  |
+| A2 | Im Licht |
+| A3 | Der Rhythmus Der Maschinen |
+| A4 | People, Let's Dance |
+| A5 | Blue Heaven |
+| A6 | Gib Mir Das Licht |
+| B1 | The Visitor |
+| B2 | Lichtspiel I: Opus |
+| B3 | Lichtspiel II: Schwarz Weiss Grau |
+| B4 | Lichtspiel III: Symphonie Diagonale |
+| B5 | Ich Und Die Stadt |
+
 
 
 ## Apple Music

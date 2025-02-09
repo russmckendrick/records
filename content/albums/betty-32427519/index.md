@@ -36,25 +36,26 @@ Prior to Betty's release in June 1994, the album's biggest hit, "Milquetoast", a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wilma's Rainbow |
+| A2 | I Know |
+| A3 | Biscuits For Smut |
+| A4 | Milquetoast |
+| A5 | Tic |
+| A6 | Rollo |
+| A7 | Street Crab |
+| B1 | Clean |
+| B2 | Vaccination |
+| B3 | Beautiful Love |
+| B4 | Speechless |
+| B5 | The Silver Hawaiian |
+| B6 | Overrated |
+| B7 | Sam Hell |
+| C1 | Flushings |
+| C2 | Thick |
+| C3 | Pariah |
+| C4 | Biscuits For Smut - Mutt Mix |
+| C5 | Biscuits For Smut - Pooch Mix |
+
 
 
 ## Apple Music

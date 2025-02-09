@@ -27,18 +27,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All Now |
+| A2 | I Don't Say It, But I Feel It |
+| A3 | Fundamental Memory |
+| A4 | Make A Decision |
+| A5 | The Echo |
+| A6 | I'll Never Leave You Alone |
+| B1 | After School |
+| B2 | Great Wave |
+| B3 | Recognise |
+| B4 | So Gracefully |
+| B5 | The Important One |
+| B6 | You Held It All |
+
 
 
 ## Apple Music

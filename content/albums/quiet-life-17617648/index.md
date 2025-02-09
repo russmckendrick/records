@@ -30,14 +30,15 @@ The album was a transition from the glam rock-influenced style of previous album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Quiet Life |
+| A2 | Fall In Love With Me |
+| A3 | Despair |
+| A4 | In-Vogue |
+| B1 | Halloween |
+| B2 | All Tomorrow's Parties |
+| B3 | Alien |
+| B4 | The Other Side Of Life |
+
 
 
 ## Apple Music

@@ -48,36 +48,37 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Summer's Cauldron |
+| A2 | Grass |
+| A3 | The Meeting Place |
+| A4 | That's Really Super Supergirl |
+| B1 | Ballet For A Rainy Day |
+| B2 | 1000 Umbrellas |
+| B3 | Season Cycle |
+| C1 | Earn Enough For Us |
+| C2 | Big Day |
+| C3 | Another Satellite |
+| C4 | Mermaid Smiled |
+| D1 | The Man Who Sailed Around His Soul |
+| D2 | Dear God |
+| D3 | Dying |
+| D4 | Sacrificial Bonfire |
+| CD-1 | Summer's Cauldron |
+| CD-2 | Grass |
+| CD-3 | The Meeting Place |
+| CD-4 | That's Really Super Supergirl |
+| CD-5 | Ballet For A Rainy Day |
+| CD-6 | 1000 Umbrellas |
+| CD-7 | Season Cycle |
+| CD-8 | Earn Enough For Us |
+| CD-9 | Big Day |
+| CD-10 | Another Satellite |
+| CD-11 | Mermaid Smiled |
+| CD-12 | The Man Who Sailed Around His Soul |
+| CD-13 | Dear God |
+| CD-14 | Dying |
+| CD-15 | Sacrificial Bonfire |
+
 
 
 ## Apple Music

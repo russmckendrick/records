@@ -45,61 +45,62 @@ styles: ["Dance-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | West End Girls |
+| A2 | Love Comes Quickly |
+| A3 | Opportunities (Let's Make Lots Of Money) |
+| A4 | Suburbia |
+| B1 | It's A Sin |
+| B2 | What Have I Done To Deserve This? |
+| B3 | Rent |
+| B4 | Always On My Mind |
+| B5 | Heart |
+| C1 | Domino Dancing |
+| C2 | Left To My Own Devices |
+| C3 | It's Alright |
+| C4 | So Hard |
+| D1 | Being Boring |
+| D2 | Where The Streets Have No Name / I Can't Take My Eyes Off You |
+| D3 | Jealousy |
+| D4 | DJ Culture |
+| D5 | Was It Worth It? |
+| E1 | Can You Forgive Her? |
+| E2 | Go West |
+| E3 | I Wouldn't Normally Do This Kind Of Thing |
+| E4 | Liberation |
+| F1 | Yesterday, When I Was Mad |
+| F2 | Paninaro 95 |
+| F3 | Before |
+| F4 | Se A Vida É (That's The Way Life Is) |
+| F5 | Single-Bilingual |
+| G1 | A Red Letter Day |
+| G2 | Somewhere |
+| G3 | I Don't Know What You Want But I Can't Give It Any More |
+| G4 | New York City Boy (USA Radio Edit) |
+| H1 | You Only Tell Me You Love Me When You're Drunk |
+| H2 | Home And Dry |
+| H3 | I Get Along |
+| H4 | Miracles |
+| H5 | Flamboyant |
+| I1 | I'm With Stupid |
+| I2 | Minimal |
+| I3 | Numb |
+| I4 | Love Etc |
+| I5 | Did You See Me Coming? |
+| J1 | It Doesn't Often Snow At Christmas |
+| J2 | Together |
+| J3 | Winner |
+| J4 | Leaving |
+| J5 | Memory Of The Future |
+| K1 | Vocal |
+| K2 | Love Is A Bourgeois Construct |
+| K3 | Thursday |
+| K4 | The Pop Kids |
+| L1 | Twenty-Something |
+| L2 | Say It To Me |
+| L3 | Dreamland |
+| L4 | Monkey Business |
+| L5 | I Don't Wanna |
+
 
 
 ## Apple Music

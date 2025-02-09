@@ -33,8 +33,9 @@ Although not quite matching the sales figures for Phaedra, Rubycon reached numbe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Rubycon (Part I) |
+| B | Rubycon (Part II) |
+
 
 
 ## Apple Music

@@ -41,22 +41,23 @@ A remixed, remastered version of the album was released by ANTI- on November 22,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Top Of The Hill |
+| A2 | Hoist That Rag |
+| A3 | Sins Of The Father |
+| B1 | Shake It |
+| B2 | Don't Go Into That Barn |
+| B3 | How's It Gonna End |
+| B4 | Metropolitan Glide |
+| C1 | Dead And Lovely |
+| C2 | Circus |
+| C3 | Trampled Rose |
+| C4 | Green Grass |
+| D1 | Baby Gonna Leave Me |
+| D2 | Clang Boom Steam |
+| D3 | Make It Rain |
+| D4 | Day After Tomorrow |
+| D5 | Untitled |
+
 
 
 ## Apple Music

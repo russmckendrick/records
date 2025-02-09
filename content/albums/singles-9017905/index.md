@@ -42,38 +42,39 @@ An updated edition of Singles was released on 9 September 2016, which adds "I'll
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ceremony  |
+| A2 | Procession  |
+| A3 | Everything's Gone Green (7" Version) |
+| A4 | Temptation (Original 7" Version) |
+| B1 | Blue Monday  |
+| B2 | Confusion (UK 7" Promo Edit) |
+| B3 | Thieves Like Us (7" Promo Edit) |
+| C1 | The Perfect Kiss (7" Edit) |
+| C2 | Sub-Culture (7" Edit) |
+| C3 | Shellshock (7" Edit) |
+| C4 | State Of The Nation (7" Edit) |
+| D1 | Bizarre Love Triangle (7" Remix Edit) |
+| D2 | True Faith (7" Edit) |
+| D3 | Touched By The Hand Of God (7" Edit) |
+| D4 | Blue Monday '88 (7" Version) |
+| E1 | Fine Time (7" Version) |
+| E2 | Round And Round (7" Version) |
+| E3 | Run 2 (7" Remix Edit) |
+| E4 | World In Motion |
+| F1 | Regret |
+| F2 | Ruined In A Day (Radio Edit) |
+| F3 | World (The Price Of Love) (Radio Edit) |
+| F4 | Spooky (Minimix) |
+| F5 | Nineteen63 (Arthur Baker Radio Remix) |
+| G1 | Crystal (Radio Edit) |
+| G2 | 60 Miles An Hour (Radio Edit) |
+| G3 | Here To Stay (Radio Edit) |
+| G4 | Krafty (Single Edit) |
+| H1 | Jetstream (Radio Edit) |
+| H2 | Waiting For The Sirens' Call (Rich Costey Radio Version) |
+| H3 | Turn (Stephen Street Edit) |
+| H4 | I'll Stay With You ('Lost Sirens' LP Version) |
+
 
 
 ## Apple Music

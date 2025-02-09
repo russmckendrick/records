@@ -36,17 +36,18 @@ The album was promoted by the single "Stripped" released 10 February, and was fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Celebration |
+| A2 | Fly On The Windscreen - Final |
+| A3 | A Question Of Lust |
+| A4 | Sometimes |
+| A5 | It Doesn't Matter Two |
+| B1 | A Question Of Time |
+| B2 | Stripped |
+| B3 | Here Is The House |
+| B4 | World Full Of Nothing |
+| B5 | Dressed In Black |
+| B6 | New Dress |
+
 
 
 ## Apple Music

@@ -32,8 +32,9 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Top Brass |
+| B | Top Brass (Bare Essentials Mix) |
+
 
 
 ## Apple Music

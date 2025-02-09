@@ -44,19 +44,20 @@ The album was preceded by the singles "Loading Zones" and "Bassackwards".
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Loading Zones |
+| A2 | Hysteria |
+| A3 | Yeah Bones |
+| A4 | Bassackwards |
+| B5 | One Trick Ponies |
+| B6 | Rollin With The Flow |
+| B7 | Check Baby |
+| C8 | Bottle It In |
+| C9 | Mutinies |
+| C10 | Come Again |
+| D11 | Cold Was The Wind |
+| D12 | Skinny Mini |
+| D13 | (Bottle Back) |
+
 
 
 ## Apple Music

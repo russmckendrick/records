@@ -32,19 +32,20 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Everything Falls Apart |
+| A2 | Do Or Die |
+| A3 | Spider To The Fly |
+| A4 | Second Guessing |
+| A5 | Bow To Love |
+| A6 | 4316 |
+| A7 | Dopamine |
+| B1 | Keep Calm, Carry On |
+| B2 | Saturday's Son |
+| B3 | Take This Poison |
+| B4 | Om Shanti Om |
+| B5 | You |
+| B6 | Why Worry |
+
 
 
 ## Apple Music

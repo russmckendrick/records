@@ -32,18 +32,19 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rose, Rubus, Smilax, Vulkan |
+| A2 | Revealed As A True Future Tyrant |
+| B1 | Pre-Columbian Worry Song |
+| B2 | Rose Parkington, They Would Not Let You Leave |
+|  | Under Den Svenska Vintern = During The Swedish Winter |
+| C1 | Jag Vet |
+|  | The Dreaded Lurg |
+| C3 | Crystallisation |
+| D1 | Rökstenen |
+| D2 | The Evil Eye Is Liquified |
+| D3 | Huge Machine, You Are So Heavy |
+| D4 | Butterfly |
+
 
 
 ## Apple Music

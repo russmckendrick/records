@@ -38,17 +38,18 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Cries Your Name |
+| A2 | Tangent |
+| A3 | Don't Need A Reason |
+| B1 | Live As You Dream |
+| B2 | Sugar Boy |
+| B3 | Touch Me With Your Love |
+| C1 | Whenever |
+| C2 | How Far |
+| C3 | Someone's Daughter |
+| C4 | I Wish I Never Saw The Sunshine |
+| D | Galaxy Of Emptiness |
+
 
 
 ## Apple Music

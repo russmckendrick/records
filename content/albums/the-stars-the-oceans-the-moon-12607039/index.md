@@ -40,21 +40,22 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bring On The Dancing Horses |
+| A2 | Lips Like Sugar |
+| A3 | Nothing Lasts Forever |
+| A4 | The Somnambulist |
+| B1 | Rescue |
+| B2 | Rust |
+| B3 | Angels & Devils |
+| B4 | Bedbugs & Ballyhoo |
+| C1 | Zimbo |
+| C2 | Stars Are Stars |
+| C3 | Seven Seas |
+| C4 | Ocean Rain |
+| D1 | The Cutter |
+| D2 | How Far? |
+| D3 | The Killing Moon |
+
 
 
 ## Apple Music

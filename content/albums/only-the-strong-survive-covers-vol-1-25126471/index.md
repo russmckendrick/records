@@ -49,21 +49,22 @@ In terms of selection, <I>Only the Strong</I> is an interesting mix. Plenty of M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Only The Strong Survive |
+| A2 | Soul Days |
+| A3 | Night Shift |
+| A4 | Do I Love You (Indeed I Do) |
+| A5 | The Sun Ain't Gonna Shine Anymore |
+| B1 | Turn Back The Hands Of Time |
+| B2 | When She Was My Girl |
+| B3 | Hey, Western Union Man |
+| B4 | I Wish It Would Rain |
+| B5 | Don't Play That Song |
+| C1 | Any Other Way |
+| C2 | I Forgot To Be Your Lover |
+| C3 | 7 Rooms Of Gloom |
+| C4 | What Becomes Of The Brokenhearted |
+| C5 | Someday We'll Be Together |
+
 
 
 ## Apple Music

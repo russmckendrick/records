@@ -33,20 +33,21 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Born In East L.A. |
+| A2 | Dorm Radio I |
+| A3 | I'm Not Home Right Now |
+| A4 | Sushi Bar |
+| A5 | Dorm Radio II |
+| A6 | Love Is Strange |
+| A7 | Dorm Radio III |
+| B1 | I'm A (Modern) Man |
+| B2 | The Music Lesson |
+| B3 | The Stupid Early Show |
+| B4 | Warren Beatty |
+| B5 | Juan Coyote |
+| B6 | Radio News |
+| B7 | Get Out Of My Room |
+
 
 
 ## Apple Music

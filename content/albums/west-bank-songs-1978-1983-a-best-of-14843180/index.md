@@ -29,36 +29,37 @@ styles: ["Punk", "Power Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | You've Got My Number (Why Don't You Use It!) |
+| A2 | Male Model |
+| A3 | Hypnotised |
+| A4 | Billy's Third |
+| A5 | The Way Girls Talk |
+| A6 | True Confessions |
+| A7 | Wednesday Week |
+| A8 | (She's A) Runaround |
+| A9 | There Goes Norman |
+| B1 | Teenage Kicks  |
+| B2 | Tearproof |
+| B3 | Jump Boys |
+| B4 | The Love Parade |
+| B5 | Soul Seven |
+| B6 | Girls Don't Like It |
+| B7 | You're Welcome |
+| B8 | Listening In |
+| C1 | Jimmy Jimmy |
+| C2 | When Saturday Comes |
+| C3 | Julie Ocean |
+| C4 | My Perfect Cousin |
+| C5 | Family Entertainment |
+| C6 | Beautiful Friend |
+| C7 | I Know A Girl |
+| D1 | Get Over You (Kevin Shields Remix 2016) |
+| D2 | Girls That Don't Talk |
+| D3 | Forever Paradise |
+| D4 | Here Comes The Summer |
+| D5 | It's Going To Happen |
+| D6 | Bittersweet |
+
 
 
 ## Apple Music

@@ -42,18 +42,19 @@ A second version of the album, featuring previously lost recordings, was release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jailbird |
+| A2 | Rocks |
+| A3 | (I'm Gonna) Cry Myself Blind |
+| B1 | Funky Jam |
+| B2 | Big Jet Plane |
+| B3 | Free |
+| C1 | Call On Me |
+| C2 | Struttin' |
+| C3 | Sad And Blue |
+| D1 | Give Out But Don't Give Up |
+| D2 | I'll Be There For You |
+| D3 | Everybody Needs Somebody |
+
 
 
 ## Apple Music

@@ -37,30 +37,31 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | More Than A Feeling |
+| A2 | Eye Of The Tiger |
+| A3 | Rosanna |
+| A4 | Carry On Wayward Son |
+| A5 | Don't Stop Believin' |
+| B1 | Bat Out Of Hell |
+| B2 | Broken Wings |
+| B3 | Jessie's Girl |
+| B4 | I Want You To Want Me (Live In Tokyo) |
+| B5 | Keep On Loving You |
+| C1 | The Final Countdown |
+| C2 | Black Betty |
+| C3 | Lido Shuffle |
+| C4 | Leave A Light On |
+| C5 | Total Eclipse Of The Heart |
+| D1 | We Built This City |
+| D2 | Poison |
+| D3 | Barracuda |
+| D4 | Because The Night |
+| D5 | (Don't Fear) The Reaper |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1DSkPB9NNVCGt5WSiwN2PP" width="100%" height="500" >}}<br>
 
 
 

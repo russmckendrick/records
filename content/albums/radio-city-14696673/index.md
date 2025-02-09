@@ -36,18 +36,19 @@ It was voted number 319 in the third edition of Colin Larkin's All Time Top 1000
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | O My Soul |
+| A2 | Life Is White |
+| A3 | Way Out West |
+| A4 | What's Goin Ahn |
+| A5 | You Get What You Deserve |
+| B1 | Mod Lang |
+| B2 | Back Of A Car |
+| B3 | Daisy Glaze |
+| B4 | She's A Mover |
+| B5 | September Gurls |
+| B6 | Morpha Too |
+| B7 | I'm In Love With A Girl |
+
 
 
 ## Apple Music

@@ -31,22 +31,20 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Set Out Running |
+| A2 | Guided By Wire |
+| A3 | Porchlight |
+| A4 | Mood To Burn Bridges |
+| A5 | No Need To Cry |
+| A6 | Twist The Knife |
+| B1 | Thrice All American |
+| B2 | We've Never Met |
+| B3 | Whip The Blankets |
+| B4 | South Tacoma Way |
+| B5 | Bought And Sold |
+| B6 | Furnace Room Lullaby |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -36,16 +36,17 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Seasons (Waiting On You) |
+| A2 | Spirit |
+| A3 | Sun In The Morning |
+| A4 | Doves |
+| A5 | Back In The Tall Grass |
+| B1 | A Song For Our Grandfathers |
+| B2 | Light House |
+| B3 | Like The Moon |
+| B4 | Fall From Grace |
+| B5 | A Dream Of You & Me |
+
 
 
 ## Apple Music

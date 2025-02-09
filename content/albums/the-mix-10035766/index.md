@@ -43,17 +43,18 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Robots |
+| A2 | Computer Love |
+| B1 | Pocket Calculator |
+| B2 | Dentaku |
+| B3 | Autobahn |
+| C1 | Radioactivity |
+| C2 | Trans Europe Express |
+| C3 | Abzug |
+| C4 | Metal On Metal |
+| D1 | Home Computer |
+| D2 | Music Non Stop |
+
 
 
 ## Apple Music

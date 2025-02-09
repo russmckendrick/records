@@ -31,16 +31,17 @@ The Georgia Satellites resurfaced in 1993 and have since continued to perform li
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Keep Your Hands To Yourself |
+| A2 | Railroad Steel |
+| A3 | Battleship Chains |
+| A4 | Red Light |
+| A5 | The Myth Of Love |
+| B1 | Can't Stand The Pain |
+| B2 | Golden Light |
+| B3 | Over And Over |
+| B4 | Nights Of Mystery |
+| B5 | Every Picture Tells A Story |
+
 
 
 ## Apple Music

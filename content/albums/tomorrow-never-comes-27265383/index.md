@@ -39,22 +39,23 @@ Having explored musical eclecticism as far as any traditional punk band can, Eas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Bloody & Violent History |
+| A2 | Mud, Blood, & Gold |
+| A3 | Devil In Disguise |
+| A4 | New American |
+| A5 | Tomorrow Never Comes |
+| A6 | Don't Make Me Do It |
+| A7 | It's A Road To Righteousness |
+| A8 | Live Forever |
+| B1 | Drop Dead Inn |
+| B2 | Prisoners Song |
+| B3 | Magnificent Rogue |
+| B4 | One Way Ticket |
+| B5 | Hellbound Train |
+| B6 | Eddie The Butcher |
+| B7 | Hear Us Out |
+| B8 | When The Smoke Clears |
+
 
 
 ## Apple Music

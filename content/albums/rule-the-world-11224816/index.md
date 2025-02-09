@@ -40,22 +40,23 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Everybody Wants To Rule The World |
+| A2 | Shout |
+| A3 | I Love You But I’m Lost |
+| A4 | Mad World |
+| B1 | Sowing The Seeds Of Love |
+| B2 | Advice For The Young At Heart |
+| B3 | Head Over Heels |
+| B4 | Woman In Chains |
+| C1 | Change |
+| C2 | Stay |
+| C3 | Pale Shelter |
+| C4 | Mothers Talk |
+| D1 | Break It Down Again |
+| D2 | I Believe |
+| D3 | Raoul And The Kings Of Spain |
+| D4 | Closest Thing To Heaven |
+
 
 
 ## Apple Music

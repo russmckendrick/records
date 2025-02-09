@@ -27,22 +27,20 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | When You Are Young |
+| A2 | Outsiders |
+| A3 | No Tomorrow |
+| B1 | Pale Snow |
+| B2 | I Don't Know How To Reach You |
+| B3 | What I'm Trying To Tell You |
+| C1 | Tightrope |
+| C2 | Learning To Be |
+| C3 | Like Kids |
+| D1 | I Can't Give Her What She Wants |
+| D2 | When You Were Young |
+| D3 | The Fur And The Feathers |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

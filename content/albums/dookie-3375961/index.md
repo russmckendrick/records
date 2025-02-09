@@ -37,22 +37,23 @@ Dookie received critical acclaim upon its release, although some early fans accu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Burnout |
+| A2 | Having A Blast |
+| A3 | Chump |
+| A4 | Longview |
+| A5 | Welcome To Paradise |
+| A6 | Pulling Teeth |
+| A7 | Basket Case |
+| B1 | She |
+| B2 | Sassafras Roots |
+| B3 | When I Come Around |
+| B4 | Coming Clean |
+| B5 | Emenius Sleepus |
+| B6 | In The End |
+| B7.1 | F.O.D. |
+| B7.2 | (silence) |
+| B7.3 | All By Myself |
+
 
 
 ## Apple Music

@@ -32,12 +32,13 @@ Larks' Tongues in Aspic is the fifth studio album by the English progressive roc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Larks' Tongues In Aspic, Part One |
+| A2 | Book Of Saturday |
+| A3 | Exiles |
+| B1 | Easy Money |
+| B2 | The Talking Drum |
+| B3 | Larks' Tongues In Aspic, Part Two |
+
 
 
 ## Apple Music

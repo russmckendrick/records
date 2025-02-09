@@ -37,17 +37,18 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | So Low, So High |
+| A2 | You Don't Know Her Name |
+| A3 | Elouise |
+| A4 | It Will Find You |
+| B1 | Glory Verse |
+| B2 | Liquid Sugar |
+| B3 | To The Sky |
+| B4 | Back + Forth |
+| C1 | Lost My Soul |
+| C2 | Don't Fear |
+| C3 | When You Leave |
+
 
 
 ## Apple Music

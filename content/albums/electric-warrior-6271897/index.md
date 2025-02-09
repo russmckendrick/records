@@ -36,17 +36,18 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mambo Sun |
+| A2 | Cosmic Dancer |
+| A3 | Jeepster |
+| A4 | Monolith |
+| A5 | Lean Woman Blues |
+| B1 | Get It On |
+| B2 | Planet Queen |
+| B3 | Girl |
+| B4 | The Motivator |
+| B5 | Life's A Gas |
+| B6 | Rip Off |
+
 
 
 ## Apple Music

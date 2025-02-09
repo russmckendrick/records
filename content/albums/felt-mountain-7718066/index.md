@@ -37,15 +37,16 @@ Felt Mountain was generally well received by music critics, and was described as
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lovely Head |
+| A2 | Paper Bag |
+| A3 | Human |
+| A4 | Pilots |
+| A5 | Deer Stop |
+| B1 | Felt Mountain |
+| B2 | Oompa Radar |
+| B3 | Utopia |
+| B4 | Horse Tears |
+
 
 
 ## Apple Music

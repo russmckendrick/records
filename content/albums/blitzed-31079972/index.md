@@ -77,42 +77,43 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Being Boiled (Fast Product Version) |
+| A2 | Down In The Park |
+| A3 | Back To Nature |
+| A4 | New Girls/Neutrons |
+| A5 | Hot On The Heels Of Love |
+| B1 | Warm Leatherette |
+| B2 | Nag Nag Nag |
+| B3 | Burning Car |
+| B4 | Electricity (1980 Dindisc Version) |
+| B5 | R.E.R.B. |
+| C1 | Hiroshima Mon Amour |
+| C2 | Permafrost |
+| C3 | Put Your Love In Me |
+| C4 | Moon Over Moscow |
+| D1 | The Number One Song In Heaven (Long Version |
+| D2 | Makes You Blind |
+| D3 | 7 Teen |
+| D4 | Angel Eyes (Extended Remix) |
+| E1 | I Don't Depend On You |
+| E2 | Theme From 'The Warriors' |
+| E3 | Willie And The Hand Jive (12" Version) |
+| E4 | La Vie En Rose |
+| F1 | Schaufensterpuppen |
+| F2 | Passing Strangers |
+| F3 | Nightclubbing |
+| F4 | No G.D.M. |
+| G1 | Only After Dark |
+| G2 | Changeling |
+| G3 | Animation (Edit) |
+| G4 | Life In Tokyo (1979 Single Version) |
+| G5 | Follow Me |
+| G6 | To Cut A Long Story Short |
+| H1 | Bostich |
+| H2 | Chase (From 'Midnight Express' Soundtrack) |
+| H3 | Fade To Grey (1980 Dance Mix) |
+| H4 | Perfect Day |
+
 
 
 ## Apple Music

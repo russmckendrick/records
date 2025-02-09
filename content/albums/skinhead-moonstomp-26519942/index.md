@@ -27,18 +27,19 @@ styles: ["Ska", "Rocksteady"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Skinhead Moonstomp |
+| A2 | Phoenix Reggae |
+| A3 | Skinhead Girl |
+| A4 | Try Me Best |
+| A5 | Skinhead Jamboree |
+| A6 | Chicken Merry |
+| B1 | These Boots Are Made For Walking |
+| B2 | Must Catch A Train |
+| B3 | Skin Flint |
+| B4 | Stay With Him |
+| B5 | Fung Shu |
+| B6 | You're Mine |
+
 
 
 ## Apple Music

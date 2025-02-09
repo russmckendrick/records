@@ -42,18 +42,19 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rusty Cage |
+| A2 | Outshined |
+| A3 | Slaves & Bulldozers |
+| A4 | Jesus Christ Pose |
+| A5 | Face Pollution |
+| A6 | Somewhere |
+| B1 | Searching With My Good Eye Closed |
+| B2 | Room A Thousand Years Wide |
+| B3 | Mind Riot |
+| B4 | Drawing Flies |
+| B5 | Holy Water |
+| B6 | New Damage |
+
 
 
 ## Apple Music

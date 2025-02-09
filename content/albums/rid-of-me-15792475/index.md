@@ -37,20 +37,21 @@ The songs on Rid of Me were performed by Harvey's eponymous trio, consisting of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rid Of Me |
+| A2 | Missed |
+| A3 | Legs |
+| A4 | Rub 'Til It Bleeds |
+| A5 | Hook |
+| A6 | Man-Size Sextet |
+| B1 | Highway '61 Revisited |
+| B2 | 50Ft Queenie |
+| B3 | Yuri-G |
+| B4 | Man-Size |
+| B5 | Dry |
+| B6 | Me-Jane |
+| B7 | Snake |
+| B8 | Ecstasy |
+
 
 
 ## Apple Music

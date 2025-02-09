@@ -27,21 +27,22 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Astronaut Dismantles HAL |
+| A1 | Continuum |
+| A2 | Into The Space Age |
+| A3 | For Marcia |
+| B1 | The Brain Room |
+| B2 | Everyday Combat |
+| B3 | Live Human |
+| B4 | Scarecrows |
+|  | Eternity |
+| A1 | Amplified 99 |
+| A2 | Area 51 |
+| A3 | The Ways Of Amplifier |
+| B1 | My Corrosion |
+| B2 | Departure Lounge |
+| B3 | Number One Son |
+
 
 
 ## Apple Music

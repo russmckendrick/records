@@ -39,20 +39,21 @@ The album is named after the Avenida de los Insurgentes, the longest avenue in M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Harmony Korine |
+| A2 | Abandoner |
+| A3 | Salvaging |
+| B1 | Veneno Para Las Hadas |
+| B2 | No Twilight Within The Courts Of The Sun |
+| B3 | Significant Other |
+| C1 | Only Child |
+| C2 | Twilight Coda |
+| C3 | Get All You Deserve |
+| C4 | Insurgentes |
+| D1 | Port Rubicon |
+| D2 | Puncture Wound |
+| D3 | Collecting Space |
+| D4 | Insurgentes (Mexico) |
+
 
 
 ## Apple Music

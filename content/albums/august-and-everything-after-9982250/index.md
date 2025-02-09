@@ -41,17 +41,18 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Round Here |
+| A2 | Omaha |
+| A3 | Mr. Jones |
+| B1 | Perfect Blue Buildings |
+| B2 | Anna Begins |
+| B3 | Time And Time Again |
+| C1 | Rain King |
+| C2 | Sullivan Street |
+| C3 | Ghost Train |
+| D1 | Raining In Baltimore |
+| D2 | A Murder Of One |
+
 
 
 ## Apple Music

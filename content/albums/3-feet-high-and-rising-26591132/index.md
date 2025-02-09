@@ -47,29 +47,30 @@ Proudly eccentric and preaching their message of self-expression while dressed i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | The Magic Number |
+| A3 | Change In Speak |
+| A4 | Cool Breeze On The Rocks (The Melted Version) |
+| A5 | Can U Keep A Secret |
+| A6 | Jenifa Taught Me (Derwin's Revenge) |
+| A7 | Ghetto Thang |
+| B1 | Transmitting Live From Mars |
+| B2 | Eye Know |
+| B3 | Take It Off |
+| B4 | A Little Bit Of Soap |
+| B5 | Tread Water |
+| B6 | Potholes In My Lawn |
+| C1 | Say No Go |
+| C2 | Do As De La Does |
+| C3 | Plug Tunin' (Last Chance To Comprehend) |
+| C4 | De La Orgee |
+| C5 | Buddy |
+| D1 | Description |
+| D2 | Me Myself And I |
+| D3 | This Is A Recording 4 Living In A Full Time Era (L.I.F.E.) |
+| D4 | I Can Do Anything (Delacratic) |
+| D5 | D.A.I.S.Y. Age |
+
 
 
 ## Apple Music

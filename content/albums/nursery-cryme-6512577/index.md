@@ -34,13 +34,14 @@ The band toured the UK and Europe for one year to promote the album, which raise
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Musical Box |
+| A2 | For Absent Friends |
+| A3 | The Return Of The Giant Hogweed |
+| B1 | Seven Stones |
+| B2 | Harold The Barrel |
+| B3 | Harlequin |
+| B4 | The Fountain Of Salmacis |
+
 
 
 ## Apple Music

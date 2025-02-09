@@ -32,22 +32,23 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The King Of Rock 'N' Roll |
+| A2 | When Love Breaks Down |
+| A3 | The Sound Of Crying |
+| A4 | Faron Young |
+| B1 | Carnival 2000 |
+| B2 | Goodbye Lucille #1 (Johnny Johnny) |
+| B3 | I Remember That |
+| B4 | Cruel |
+| C1 | Cars And Girls |
+| C2 | We Let The Stars Go |
+| C3 | Life Of Surprises |
+| C4 | Appetite |
+| D1 | If You Don't Love Me |
+| D2 | Wild Horses |
+| D3 | Hey Manhattan! |
+| D4 | All The World Loves Lovers |
+
 
 
 ## Apple Music

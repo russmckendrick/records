@@ -37,17 +37,18 @@ In the years following the first two seasons, the show has gained a devoted cult
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Twin Peaks Theme |
+| A2 | Laura Palmer's Theme |
+| A3 | Audrey's Dance |
+| A4 | The Nightingale |
+| A5 | Freshly Squeezed |
+| B6 | The Bookhouse Boys |
+| B7 | Into The Night |
+| B8 | Night Life In Twin Peaks |
+| B9 | Dance Of The Dream Man |
+| B10 | Love Theme From Twin Peaks |
+| B11 | Falling |
+
 
 
 ## Apple Music

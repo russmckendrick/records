@@ -31,17 +31,18 @@ The album received a 2-CD deluxe edition release commemorating its 35th annivers
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cruel Prelude |
+| A2 | Don't Be Cruel |
+| A3 | My Prerogative |
+| A4 | Roni |
+| A5 | Rock Wit'cha |
+| B1 | Every Little Step |
+| B2 | I'll Be Good To You |
+| B3 | Take It Slow |
+| B4 | All Day All Night |
+| B5 | I Really Love You Girl |
+| B6 | Cruel Reprise |
+
 
 
 ## Apple Music

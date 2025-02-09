@@ -44,14 +44,15 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Part I - Altar |
+| A2 | Part II - Palace / Illusion |
+| A3 | Part III - Transcend / Lament |
+| B1 | Part IV - The Veil |
+| B2 | Part V - Evocation |
+| B3 | Part VI - Solar Goddess Return |
+| C1 | Part VII - Dissolution |
+| C2 | Part VIII - Nothing Is Lost |
+
 
 
 ## Apple Music

@@ -32,17 +32,18 @@ Just as 1989’s <i>Technique</i> revelled in the excitement of late-1980s acid 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Regret |
+| A2 | World |
+| A3 | Ruined In A Day |
+| A4 | Spooky |
+| A5 | Everyone Everywhere |
+| B1 | Young Offender |
+| B2 | Liar |
+| B3 | Chemical |
+| B4 | Times Change |
+| B5 | Special |
+| B6 | Avalanche |
+
 
 
 ## Apple Music

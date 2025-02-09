@@ -32,38 +32,39 @@ Cobra and Phases Group Play Voltage in the Milky Night is the sixth studio album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fuses |
+| A2 | People Do It All The Time |
+| A3 | The Free Design |
+| A4 | Blips Drips And Strips |
+| A5 | Italian Shoes Continuum |
+| B1 | Infinity Girl |
+| B2 | The Spiracles |
+| B3 | Op Hop Detonation |
+| B4 | Puncture In The Radax Permutation |
+| B5 | Velvet Water |
+| C1 | Blue Milk |
+| D1 | Caleidoscopic Gaze |
+| D2 | Strobo Acceleration |
+| D3 | The Emergency Kisses |
+| D4 | Come And Play In The Milky Night |
+| E1 | Galaxidion |
+| E2 | With Friends Like These Pt. 2 |
+| E3 | Backwards Shug |
+| E4 | Continuum (Unreleased Original Version) |
+| E5 | Continuum Vocodered (Unreleased) |
+| E6 | People Do It All The Time (Demo) |
+| E7 | Op Hop Detonation (Demo) |
+| E8 | The Spiracles (Demo) |
+| E9 | Latin Cobra Coda (Demo) |
+| F1 | Infinity Girl (Demo) |
+| F2 | Blips, Drips & Strips (Demo) |
+| F3 | Blue Milk (Demo) |
+| F4 | Italian Shoes Continuum (Demo) |
+| F5 | Come And Play In The Milky Night (Demo) |
+| F6 | Strobo Acceleration (Demo) |
+| F7 | Caleidoscopic Gaze (Demo) |
+| F8 | Galaxidion (Demo) |
+
 
 
 ## Apple Music

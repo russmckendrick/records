@@ -38,14 +38,15 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Battery |
+| A2 | Master Of Puppets |
+| A3 | The Thing That Should Not Be |
+| A4 | Welcome Home (Sanitarium) |
+| B1 | Disposable Heroes |
+| B2 | Leper Messiah |
+| B3 | Orion |
+| B4 | Damage, Inc. |
+
 
 
 ## Apple Music

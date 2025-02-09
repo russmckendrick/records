@@ -30,17 +30,18 @@ Every Valley was recorded in situ in the former steelworks town of Ebbw Vale, in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Every Valley |
+| A2 | The Pit |
+| A3 | People Will Always Need Coal |
+| A4 | Progress |
+| A5 | Go To The Road |
+| A6 | All Out |
+| B1 | Turn No More |
+| B2 | They Gave Me A Lamp |
+| B3 | You + Me |
+| B4 | Mother Of The Village |
+| B5 | Take Me Home |
+
 
 
 ## Apple Music

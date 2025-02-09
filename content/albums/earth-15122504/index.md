@@ -30,15 +30,16 @@ styles: ["Indie Rock", "Folk", "House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shangri-La |
+| A2 | Brasil |
+| A3 | Deep Days |
+| A4 | Long Time Coming |
+| B1 | Mass |
+| B2 | Banksters |
+| B3 | Sail On |
+| B4 | Olympik |
+| B5 | Cloak Of The Night |
+
 
 
 ## Apple Music

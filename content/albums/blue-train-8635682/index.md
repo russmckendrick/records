@@ -33,11 +33,12 @@ Coltrane wrote four of the record's five tracks. His playing exhibits early elem
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blue Train |
+| A2 | Moment's Notice |
+| B1 | Locomotion |
+| B2 | I'm Old Fashioned |
+| B3 | Lazy Bird |
+
 
 
 ## Apple Music

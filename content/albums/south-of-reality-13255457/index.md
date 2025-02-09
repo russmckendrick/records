@@ -36,15 +36,16 @@ South of Reality is the second studio album by The Claypool Lennon Delirium cons
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Little Fishes |
+|  | Blood And Rockets |
+| B1 | South Of Reality |
+| B2 | Boriska |
+| C1 | Easily Charmed By Fools |
+| C2 | Amethyst Realm |
+| D1 | Toady Man's Hour |
+|  | Cricket Chronicles Revisited |
+| D3 | Like Fleas |
+
 
 
 ## Apple Music

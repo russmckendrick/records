@@ -39,17 +39,18 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sultan's Curse |
+| A2 | Show Yourself |
+| A3 | Precious Stones |
+| A4 | Steambreather |
+| B1 | Eons |
+| B2 | Word To The Wise |
+| C1 | Ancient Kingdom  |
+| C2 | Clandestiny |
+| C3 | Andromeda |
+| D1 | Scorpion Breath  |
+| D2 | Jaguar God |
+
 
 
 ## Apple Music

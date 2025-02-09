@@ -34,19 +34,20 @@ styles: ["Soul", "House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Daylight |
+| A2 | Sun Come Up |
+| A3 | Coalition |
+| A4 | You Are My |
+| A5 | Meantime |
+| A6 | Golden Hour |
+| B1 | Sad Banger |
+| B2 | USB - USC |
+| B3 | Summery |
+| B4 | Living Things |
+| B5 | Celebrate |
+| B6 | The Show |
+| C | Orange Sunshine |
+
 
 
 ## Apple Music

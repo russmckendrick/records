@@ -35,28 +35,29 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Love's In Need Of Love Today |
+| LP-A2 | Have A Talk With God |
+| LP-A3 | Village Ghetto Land |
+| LP-A4 | Contusion |
+| LP-A5 | Sir Duke |
+| LP-B1 | I Wish |
+| LP-B2 | Knocks Me Off My Feet |
+| LP-B3 | Pastime Paradise |
+| LP-B4 | Summer Soft |
+| LP-B5 | Ordinary Pain |
+| LP-C1 | Isn't She Lovely |
+| LP-C2 | Joy Inside My Tears |
+| LP-C3 | Black Man |
+| LP-D1 | Ngiculela - Es Una Historia - I Am Singing |
+| LP-D2 | If It's Magic |
+| LP-D3 | As |
+| LP-D4 | Another Star |
+|  | A Something Extra For "Songs In The Key Of Life |
+| 7"-E1 | Saturn |
+| 7"-E2 | Ebony Eyes |
+| 7"-F1 | All Day Sucker |
+| 7"-F2 | Easy Goin' Evening (My Mama's Call) |
+
 
 
 ## Apple Music

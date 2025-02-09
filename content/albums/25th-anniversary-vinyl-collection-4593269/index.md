@@ -33,104 +33,105 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Yo! Bum Rush The Show (1987) |
+| A1 | You're Gonna Get Yours |
+| A2 | Sophisticated Bitch |
+| A3 | Miuzi Weighs A Ton |
+| A4 | Timebomb |
+| A5 | Too Much Posse |
+| A6 | Rightstarter (Message To A Black Man) |
+| B1 | Public Enemy No.1 |
+| B2 | M.P.E. |
+| B3 | Yo! Bum Rush The Show |
+| B4 | Raise The Roof |
+| B5 | Megablast |
+| B6 | Terminator X Speaks With His Hands |
+|  | It Takes A Nation Of Millions To Hold Us Back (1988) |
+| C1 | Countdown To Armageddon |
+| C2 | Bring The Noise |
+| C3 | Don't Believe The Hype |
+| C4 | Cold Lampin' With Flavor |
+| C5 | Terminator X To The Edge Of Panic |
+| C6 | Mind Terrorist |
+| C7 | Louder Than A Bomb |
+| C8 | Caught, Can We Get A Witness |
+| D1 | Show Em Whatcha Got |
+| D2 | She Watch Channel Zero?! |
+| D3 | Night Of The Living Baseheads |
+| D4 | Black Steel In The Hour Of Chaos |
+| D5 | Security Of The First World |
+| D6 | Rebel Without A Pause |
+| D7 | Prophets Of Rage |
+| D8 | Party For Your Right To Fight |
+|  | Fear Of A Black Planet (1990) |
+| E1 | Contract On The World Love Jam |
+| E2 | Brothers Gonna Work It Out |
+| E3 | 911 Is A Joke |
+| E4 | Incident At 66.6 Fm |
+| E5 | Welcome To The Terrordome |
+| E6 | Meet The G That Killed Me |
+| E7 | Pollywanacraka |
+| E8 | Anti-Nigger Machine |
+| E9 | Burn Hollywood Burn |
+| E10 | Power To The People |
+| F1 | Who Stole The Soul? |
+| F2 | Fear Of A Black Planet |
+| F3 | Revolutionary Generation |
+| F4 | Can't Do Nuttin' For Ya Man |
+| F5 | Reggie Jax |
+| F6 | Leave This Off Your Fu'kin Charts |
+| F7 | B Side Wins Again |
+| F8 | War At 33 1/3 |
+| F9 | Final Count Of The Collision Between Us And The Damned |
+| F10 | Fight The Power |
+|  | Apocalypse 91... The Enemy Strikes Black (1991) |
+| G1 | Lost At Birth |
+| G2 | Rebirth |
+| G3 | Nighttrain |
+| G4 | Can't Truss It |
+| H1 | I Don't Wanna Be Called Yo Niga |
+| H2 | How To Kill A Radio Consultant |
+| H3 | By The Time I Get To Arizona |
+| I1 | Move! |
+| I2 | 1 Million Bottlebags |
+| I3 | More News At 11 |
+| J1 | Shut Em Down |
+| J2 | A Letter To The New York Post |
+| J3 | Get The F--- Outta Dodge |
+| J4 | Bring Tha Noize |
+|  | Muse Sick-N-Hour Mess Age (1994) |
+| K1 | Whole Lotta Love Goin On In The Middle Of Hell |
+| K2 | Give It Up |
+| K3 | What Side You On? |
+| K4 | Bedlam 13:13 |
+| L1 | Stop In The Name... |
+| L2 | What Kind Of Power We Got? |
+| L3 | So Whatcha Gone Do Now? |
+| L4 | White Heaven/Black Hell |
+| L5 | Race Against Time |
+| M1 | Aintnuttin Buttersong |
+| M2 | Live And Undrugged (Pt. 1 & 2) |
+| M3 | Thin Line Between Law & Rape |
+| M4 | I Ain't Mad At All |
+| N1 | Death Of A Carjacka |
+| N2 | I Stand Accused |
+| N3 | Godd Complexx |
+| N4 | Hitler Day |
+|  | He Got Game (1998) |
+| O1 | Resurrection |
+| O2 | He Got Game |
+| P1 | Unstoppable |
+| P2 | Shake Your Booty |
+| P3 | Is Your God A Dog |
+| P4 | House Of The Rising Son |
+| Q1 | Revelation 33 1/3 Revolutions |
+| Q2 | Game Face |
+| Q3 | Politics Of The Sneaker Pimps |
+| R1 | What You Need Is Jesus |
+| R2 | Super Agent |
+| R3 | Go Cat Go |
+| R4 | Sudden Death |
+
 
 
 ## Apple Music

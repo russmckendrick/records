@@ -79,31 +79,32 @@ Upon release, critics applauded the album's ambition and composition, although s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Somewhat Damaged |
+| A2 | The Day The World Went Away |
+| A3 | The Frail |
+| A4 | The Wretched |
+| B1 | We're In This Together |
+| B2 | The Fragile |
+| B3 | Just Like You Imagined |
+| B4 | Even Deeper |
+| C1 | Pilgrimage |
+| C2 | No, You Don't |
+| C3 | La Mer |
+| C4 | The Great Below |
+| D1 | The Way Out Is Through |
+| D2 | Into The Void |
+| D3 | Where Is Everybody? |
+| D4 | The Mark Has Been Made |
+| E1 | 10 Miles High |
+| E2 | Please |
+| E3 | Starfuckers, Inc. |
+| E4 | Complication |
+| E5 | The New Flesh |
+| F1 | I'm Looking Forward To Joining You, Finally |
+| F2 | The Big Come Down |
+| F3 | Underneath It All |
+| F4 | Ripe |
+
 
 
 ## Apple Music

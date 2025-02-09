@@ -36,22 +36,23 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Suburbs |
+| A2 | Ready To Start |
+| A3 | Modern Man |
+| A4 | Rococo |
+| B5 | Empty Room |
+| B6 | City With No Children |
+| B7 | Half Light I |
+| B8 | Half Light II (No Celebration) |
+| C9 | Month Of May |
+| C10 | Wasted Hours |
+| C11 | Deep Blue |
+| C12 | We Used To Wait |
+| D13 | Sprawl I (Flatland) |
+| D14 | Sprawl II (Mountains Beyond Mountains) |
+| D15 | Suburban War |
+| D16 | The Suburbs (Continued) |
+
 
 
 ## Apple Music

@@ -37,14 +37,15 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Brain In A Bottle |
+| A2 | Guess Again! |
+| A3 | Interference |
+| A4 | The Mother Lode |
+| B1 | Truth Ray |
+| B2 | There Is No Ice (For My Drink) |
+| B3 | Pink Section |
+| B4 | Nose Grows Some |
+
 
 
 ## Apple Music

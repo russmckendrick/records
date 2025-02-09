@@ -40,18 +40,19 @@ But, as usual with Springsteen, the details are more complex than that. The albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ain't Got You |
+| A2 | Tougher Than The Rest |
+| A3 | All That Heaven Will Allow |
+| A4 | Spare Parts |
+| A5 | Cautious Man |
+| A6 | Walk Like A Man |
+| B1 | Tunnel Of Love |
+| B2 | Two Faces |
+| B3 | Brilliant Disguise |
+| B4 | One Step Up |
+| B5 | When You're Alone |
+| B6 | Valentine's Day |
+
 
 
 ## Apple Music

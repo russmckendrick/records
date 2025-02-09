@@ -71,17 +71,18 @@ styles: ["Techno"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Agora |
+| A2 | Oxymore |
+| A3 | Neon Lips |
+| B1 | Sonic Land |
+| B2 | Animal Genesis |
+| C1 | Synthy Sisters |
+| C2 | Sex In The Machine |
+| C3 | Zeitgeist |
+| D1 | Crystal Garden |
+| D2 | Brutalism |
+| D3 | Epica |
+
 
 
 ## Apple Music

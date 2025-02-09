@@ -40,34 +40,35 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Champion Versions |
+| A1 | Dry The Rain |
+| A2 | I Know |
+| A3 | B + A |
+| B1 | Dogs Got A Bone |
+|  | The Patty Patty Sound |
+| B2 | Inner Meet Me |
+| B3 | The House Song |
+| C1 | Monolith |
+| C2 | She's The One |
+|  | Los Amigos Del Beta Bandidos |
+| D1 | Push It Out |
+| D2 | It's Over |
+| D3 | Dr. Baker |
+| D4 | Needles In My Eyes |
+|  | CD |
+| CD1 | Dry The Rain |
+| CD2 | I Know |
+| CD3 | B + A |
+| CD4 | Dogs Got A Bone |
+| CD5 | Inner Meet Me |
+| CD6 | The House Song |
+|  CD7 | Monolith |
+| CD8 | She's The One |
+| CD9 | Push It Out |
+| CD10 | It's Over |
+| CD11 | Dr. Baker |
+|  CD12 | Needles In My Eyes |
+
 
 
 ## Apple Music

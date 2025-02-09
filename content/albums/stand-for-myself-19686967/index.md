@@ -51,18 +51,19 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Barely Alive |
+| A2 | Dancing Away In Tears |
+| A3 | Diamond Studded Shoes |
+| A4 | Be My Friend |
+| A5 | Great Divide |
+| A6 | Starlight |
+| B1 | If I Had To Do It All Again |
+| B2 | Now You're Here |
+| B3 | Whatever You Want |
+| B4 | Break The Bough |
+| B5 | Like A Photograph |
+| B6 | Stand For Myself |
+
 
 
 ## Apple Music

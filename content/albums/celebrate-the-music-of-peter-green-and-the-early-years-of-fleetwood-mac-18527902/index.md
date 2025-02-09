@@ -48,29 +48,30 @@ The album reached the album charts in several countries upon its release, includ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rolling Man |
+| A2 | Homework |
+| A3 | Doctor Brown |
+| B1 | All Your Love |
+| B2 | Rattlesnake Shake |
+| B3 | Stop Messin' Round |
+| C1 | Looking For Somebody |
+| C2 | Sandy Mary |
+| C3 | Love That Burns |
+| D1 | The World Keep On Turning |
+| D2 | Like Crying |
+| D3 | No Place To Go |
+| D4 | Station Man |
+| E1 | Man Of The World |
+| E2 | Oh Well (Pt.1) |
+| E3 | Oh Well (Pt.2) |
+| F1 | Need Your Love So Bad |
+| F2 | Black Magic Woman |
+| G1 | The Sky Is Crying |
+| G2 | I Can't Hold Out |
+| H1 | The Green Manalishi (With The Two Prong Crown) |
+| H2 | Albatross |
+| H3 | Shake Your Money Maker |
+
 
 
 ## Apple Music

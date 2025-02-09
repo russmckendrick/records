@@ -35,16 +35,17 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Paradise Waiting |
+| A2 | Look At You Now |
+| A3 | The Sun Also Rises |
+| A4 | Dig |
+| A5 | The Modern Age |
+| B1 | Cellophane |
+| B2 | Car Into The Sea |
+| B3 | Blue Like You |
+| B4 | More Than I Do |
+| B5 | Big Black Sun |
+
 
 
 ## Apple Music

@@ -35,21 +35,22 @@ styles: ["Pop Rock", "Soft Rock", "Soundtrack", "Vocal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | America |
+| A2 | Adon Olom |
+| A3 | You Baby |
+| A4 | Love On The Rocks |
+| A5 | Amazed And Confused |
+| A6 | On The Robert E. Lee |
+| A7 | Summerlove |
+| B1 | Hello Again |
+| B2 | Acapulco |
+| B3 | Hey Louise |
+| B4 | Songs Of Life |
+| B5 | Jerusalem |
+| B6a | Kol Nidre |
+| B6b | My Name Is Yussel (Theme) |
+| B7 | America (Reprise) |
+
 
 
 ## Apple Music

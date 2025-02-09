@@ -58,61 +58,62 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Take My Hand |
+| A2 | Something In My Eye |
+| A3 | Medicine |
+| A4 | Badger's Wake |
+| A5 | World In Action |
+| A6 | One By One |
+| B1 | Take A Bow |
+| B2 | October Sun |
+| B3 | So Low |
+| B4 | Summer Sun |
+| B5 | Gather Up |
+| C1 | Snuff Box Theme |
+| C2 | Middle Of The East |
+| C3 | Like Stone |
+| C4 | Phantom Birds |
+| C5 | Music For Insomniacs Pt IV |
+| C6 | Say It Again |
+| D1 | The Innkeepers Song (Live) |
+| D2 | Obsessed & So Obscure |
+| D3 | Woman |
+| D4 | Solstice |
+| E1 | Bigger Than A Dog (Original Witchazel Intro) |
+| E2 | Take My Hand (Live On Absolute Radio 2011) |
+| E3 | Autumn (Witchazel Outake) |
+| E4 | The Dawn (From The Myspace EP "Summer Sun" 2010)  |
+| E5 | Snuff Box Live Loop (Used Live Between 2005-2012) |
+| E6 | Catch Me In Time |
+| E7 | Dark Beach  (From The Myspace EP "Summer Sun" 2010)  |
+| E8 | The Hangman (Acoustic Version 2007) |
+| F1 | Wonder Theme (Became Something In My Eye) |
+| F2 | Music For Insomniacs (Alternative Intro) |
+| F3 | Theme From Sorry (Live From Charlie Brooker's Screenwipe 2007) |
+| F4 | Music For Insomniacs (Rejected Theme) |
+| F5 | Walk With Samuel ("Devil Inside Me") |
+| F6 | Blankety Blank (Vocal Intro) |
+| F7 | The Blue Elephant (Trip Two) |
+| F8 | Sweet Velvet (Became "Seasons on Fire") |
+| F9 | The Blue Elephant (Alternative Intro) |
+| G1 | Covered In Clowns |
+| G2 | Get Her Out Of My Mind |
+| G3 | I'm Going |
+| G4 | Make It Go Away |
+| G5 | Peter Cleopatra And The Windmill |
+| G6 | Play On |
+| H1 | Take A Bow |
+| H2 | The Preacher's House |
+| H3 | A Shot Rang Out In The Forest |
+| H4 | The Wrong House |
+| H5 | Where's My Love? |
+| H6 | You Danced All Night |
+| I1 | Medicine / So Low |
+| I2 | Silver Sun |
+| I3 | Theme From Snuffbox |
+| J1 | Solstice |
+| J2 | The Pheasant |
+
 
 
 ## Apple Music

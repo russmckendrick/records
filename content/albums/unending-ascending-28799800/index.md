@@ -28,14 +28,15 @@ Unending Ascending (subtitled A Pan-Galactic Suite by Gong) is a studio album by
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tiny Galaxies |
+| A2 | My Guitar Is A Spaceship |
+| A3 | Ship Of Ishtar |
+| A4 | O, Arcturus |
+| B1 | All Clocks Reset |
+| B2 | Choose Your Goddess |
+| B3 | Lunar Invocation |
+| B4 | Asleep Do We Lay |
+
 
 
 ## Apple Music

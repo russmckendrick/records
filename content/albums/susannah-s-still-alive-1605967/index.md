@@ -31,12 +31,10 @@ Although all original UK singles used the spelling 'Suzanah', in many other coun
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Susannah's Still Alive |
+| B | Blind In Safety And Leafy In Love |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

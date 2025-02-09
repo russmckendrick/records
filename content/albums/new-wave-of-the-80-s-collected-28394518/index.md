@@ -31,36 +31,34 @@ styles: ["New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 11 O'Clock Tick Tock |
+| A2 | Senses Working Overtime |
+| A3 | Duel |
+| A4 | Pale Shelter |
+| A5 | Wishful Thinking |
+| A6 | Planet Earth |
+| B1 | Caterpillar |
+| B2 | Dum Dum Girl |
+| B3 | All Of My Heart |
+| B4 | Since Yesterday |
+| B5 | Under The Milky Way |
+| B6 | Enola Gay |
+| C1 | Someone Somewhere (In Summertime) |
+| C2 | Seven Seas |
+| C3 | The Walls Came Down |
+| C4 | Spellbound |
+| C5 | Stay With Me |
+| C6 | To Cut A Long Story Short |
+| C7 | Rescue Me |
+| D1 | Mirror Man |
+| D2 | Rattlesnakes |
+| D3 | The Man Mountain |
+| D4 | Kiss Me |
+| D5 | Assassing |
+| D6 | Doctor! Doctor! |
+| D7 | Love My Way |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

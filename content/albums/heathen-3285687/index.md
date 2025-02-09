@@ -38,18 +38,19 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sunday |
+| A2 | Cactus |
+| A3 | Slip Away |
+| A4 | Slow Burn |
+| A5 | Afraid |
+| A6 | I've Been Waiting For You |
+| B1 | I Would Be Your Slave |
+| B2 | I Took A Trip On A Gemini Spaceship |
+| B3 | 5.15 The Angels Have Gone |
+| B4 | Everyone Says 'Hi' |
+| B5 | A Better Future |
+| B6 | Heathen (The Rays) |
+
 
 
 ## Apple Music

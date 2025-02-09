@@ -38,17 +38,18 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Don't Care |
+| A2 | Ain't Glad I'm Leaving  |
+| A3 | Maria  |
+| A4 | Far Away In Another Town  |
+| A5 | They Killed John Henry  |
+| A6 | Turn Out My Lights  |
+| B1 | Lone Pine Hill |
+| B2 | Champagne Corolla  |
+| B3 | The Saint Of Lost Causes  |
+| B4 | Harlem River Blues  |
+| B5 | Last Words  |
+
 
 
 ## Apple Music

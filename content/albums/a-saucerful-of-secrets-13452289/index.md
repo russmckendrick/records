@@ -35,13 +35,14 @@ A Saucerful of Secrets reached number nine in the UK charts, but did not chart i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let There Be More Light |
+| A2 | Remember A Day |
+| A3 | Set The Controls For The Heart Of The Sun |
+| A4 | Corporal Clegg |
+| B1 | A Saucerful Of Secrets |
+| B2 | See-Saw |
+| B3 | Jugband Blues |
+
 
 
 ## Apple Music

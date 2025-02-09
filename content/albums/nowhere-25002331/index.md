@@ -37,14 +37,15 @@ Nowhere is the debut album by British shoegaze band Ride, released 15 October 19
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Seagull |
+| A2 | Kaleidoscope |
+| A3 | In A Different Place |
+| A4 | Polar Bear |
+| B1 | Dreams Burn Down |
+| B2 | Decay |
+| B3 | Paralysed |
+| B4 | Vapour Trail |
+
 
 
 ## Apple Music

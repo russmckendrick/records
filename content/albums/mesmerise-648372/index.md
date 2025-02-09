@@ -29,14 +29,12 @@ styles: ["Shoegaze", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mesmerise |
+| A2 | Precious One |
+| AA1 | Summer Chill |
+| AA2 | Then We'll Rise |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

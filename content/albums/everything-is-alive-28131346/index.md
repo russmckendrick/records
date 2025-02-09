@@ -61,14 +61,15 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shanty |
+| A2 | Prayer Remembered |
+| A3 | Alife |
+| A4 | Andalucia Plays |
+| B1 | Kisses |
+| B2 | Skin In The Game |
+| B3 | Chained To A Cloud |
+| B4 | The Slab |
+
 
 
 ## Apple Music

@@ -39,13 +39,14 @@ Reuniting the classic Primus lineup to record original music for the first time 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Valley |
+| A2 | The Seven |
+| A3 | The Trek |
+| B1 | The Scheme |
+| B2 | The Dream |
+| B3 | The Storm |
+| B4 | The Ends? |
+
 
 
 ## Apple Music

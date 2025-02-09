@@ -34,20 +34,21 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Intro |
+| A1 | Christopher Tracy's Parade |
+| A2 | New Position |
+| A3 | I Wonder U |
+| A4 | Under The Cherry Moon |
+| A5 | Girls & Boys |
+| A6 | Life Can Be So Nice |
+| A7 | Venus De Milo |
+|  | End |
+| B1 | Mountains |
+| B2 | Do U Lie? |
+| B3 | Kiss |
+| B4 | Anotherloverholenyohead |
+| B5 | Sometimes It Snows In April |
+
 
 
 ## Apple Music

@@ -43,17 +43,18 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | ZERO |
+| A2 | All The Colours Of You |
+| A3 | Recover |
+| B1 | Beautiful Beaches |
+| B2 | Wherever It Takes Us |
+| B3 | Hush |
+| C1 | Getting Myself Into |
+| C2 | Magic Bus |
+| C3 | Miss America |
+| D1 | Isabella |
+| D2 | XYST |
+
 
 
 ## Apple Music

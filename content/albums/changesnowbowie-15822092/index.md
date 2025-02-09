@@ -31,15 +31,16 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Man Who Sold The World |
+| A2 | Aladdin Sane |
+| A3 | White Light/White Heat |
+| A4 | Shopping For Girls |
+| B1 | Lady Stardust |
+| B2 | The Supermen |
+| B3 | Repetition |
+| B4 | Andy Warhol |
+| B5 | Quicksand |
+
 
 
 ## Apple Music

@@ -39,21 +39,22 @@ Dopes to Infinity is the third album by American rock band Monster Magnet, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dopes To Infinity |
+| A2 | Negasonic Teenage Warhead |
+| A3 | Look To Your Orb For The Warning |
+| A4 | All Friends And Kingdom Come |
+| B1 | Ego, The Living Planet |
+| B2 | Blow 'Em Off |
+| B3 | Third Alternative |
+| B4 | I Control, I Fly |
+| C1 | King Of Mars |
+| C2 | Dead Christmas |
+| C3 | Theme From "Masterburner" |
+| C4 | Vertigo |
+| D1 | Forbidden Planet (Bonus Track) |
+| D2 | Eclipse This (B-Side) |
+| D3 | I'm Five Years Ahead Of My Time (B-Side) |
+
 
 
 ## Apple Music

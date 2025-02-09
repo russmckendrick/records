@@ -32,13 +32,14 @@ styles: ["Avant-garde Jazz", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hortz Fur Dëhn Stëkëhn Ẁest |
+| A2 | Ïma Sürï Dondaï |
+| A3 | Kobaïa Is Dë Hündïn |
+| B1 | Da Zeuhl Ẁortz Mëkanïk |
+| B2 | Nëbëhr Gudahtt |
+| B3 | Mëkanïk Kömmandöh |
+| B4 | Kreühn Köhrmahn Ïss Dë Hündïn |
+
 
 
 ## Apple Music

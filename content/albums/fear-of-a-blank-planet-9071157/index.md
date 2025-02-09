@@ -42,12 +42,13 @@ The album charted in almost all European countries and entered the U.S. Billboar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fear Of A Blank Planet |
+| A2 | My Ashes |
+| B | Anesthetize |
+| C1 | Sentimental |
+| C2 | Way Out Of Here |
+| D | Sleep Together |
+
 
 
 ## Apple Music

@@ -35,18 +35,19 @@ styles: ["Downtempo", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Allatonceness |
+| A2 | Bliss |
+| A3 | Sociometer Blues |
+| A4 | Hide Your Fires |
+| A5 | Summer Season |
+| A6 | Molehills |
+| B1 | Strawberry Moon |
+| B2 | You're Not There |
+| B3 | Haven’t You Heard |
+| B4 | Safe & Well |
+| B5 | Dreg Queen |
+| B6 | Turn Off The Light |
+
 
 
 ## Apple Music

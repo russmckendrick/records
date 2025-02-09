@@ -33,21 +33,19 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Commemorative 9/11 T-Shirt |
+| A2 | Unfamiliar |
+| B1 | Trail of Fire |
+| B2 | Savant |
+| C1 | Only Twin |
+| C2 | An Old Friend Of The Christy's |
+| D1 | Sleeping Dogs And Dead Lions |
+| D2 | The Frame |
+| E1 | Voorhees |
+| F1 | Red Rag To A Bear |
+| F2 | Siberian Bullshit |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

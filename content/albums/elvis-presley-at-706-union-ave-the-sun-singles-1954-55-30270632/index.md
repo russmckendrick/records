@@ -54,24 +54,22 @@ styles: ["Rock & Roll", "Rockabilly"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | That's All Right |
+| B | Blue Moon Of Kentucky |
+| C | I Don't Care If The Sun Don't Shine |
+| D | Good Rockin' Tonight |
+| E | Milkcow Blues Boogie |
+| F | You're A Heartbreaker |
+| G | I'm Left, You're Right, She's Gone |
+| H | Baby Let's Play House |
+| I | Mystery Train |
+| J | I Forgot To Remember To Forget |
+| K1 | Blue Moon |
+| K2 | Just Because |
+| L1 | Trying To Get To You |
+| L2 | When It Rains, It Really Pours |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

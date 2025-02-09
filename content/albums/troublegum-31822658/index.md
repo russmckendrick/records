@@ -43,35 +43,36 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Knives |
+| A2 | Screamager |
+| A3 | Hellbelly |
+| A4 | Stop It You're Killing Me |
+| A5 | Nowhere |
+| A6 | Die Laughing |
+| A7 | Unbeliever |
+| B1 | Trigger Inside |
+| B2 | Lunacy Booth |
+| B3 | Isolation |
+| B4 | Turn |
+| B5 | Femtex |
+| B6 | Unrequited |
+| B7a | Brainsaw |
+| B7b | You Are My Sunshine |
+| C1 | Pantopon Rose |
+| C2 | Breaking The Law |
+| C3 | C C Rider |
+| C4 | Evil Elvis (The Lost Demo) |
+| C5 | Nice 'N' Sleazy |
+| C6 | Reuters |
+| C7 | Tatty Seaside Town |
+| D1 | Auto Surgery |
+| D2 | Totally Random Man |
+| D3 | Accelerator |
+| D4 | Speedball |
+| D5 | Bloody Blue |
+| D6 | Neck Freak (New Version) |
+| D7 | Opal Mantra |
+
 
 
 ## Apple Music

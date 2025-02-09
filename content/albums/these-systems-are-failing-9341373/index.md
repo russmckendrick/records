@@ -33,15 +33,16 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hey! Hey! |
+| A2 | Break.Doubt |
+| A3 | I Wait For You |
+| A4 | Don't Leave Me |
+| A5 | Erupt & Matter |
+| B1 | Are You Lost In The World Like Me? |
+| B2 | A Simple Love |
+| B3 | The Light Is Clear In My Eyes |
+| B4 | And It Hurts |
+
 
 
 ## Apple Music

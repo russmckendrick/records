@@ -37,16 +37,17 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Watchers (Movement 1)  |
+| A2 | Flying Totems (Movement 2)  |
+| A3 | Robots Don't Cry (Movement 3)  |
+| A4 | All That You Leave Behind (Movement 4)  |
+| A5 | If The Wind Could Speak (Movement 5)  |
+| B1 | Infinity (Movement 6)  |
+| B2 | Machines Are Learning (Movement 7)  |
+| B3 | The Opening (Movement 8) |
+| B4 | Don’t Look Back (Movement 9)  |
+| B5 | Equinoxe Infinity (Movement 10)  |
+
 
 
 ## Apple Music

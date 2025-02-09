@@ -43,22 +43,23 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Main Title |
+| A2 | Imperial Attack |
+| A3 | Princess Leia's Theme |
+| A4 | The Desert And The Robot Auction |
+| B1 | Ben's Death And TIE Fighter Attack |
+| B2 | The Little People Work |
+| B3 | Rescue Of The Princess |
+| B4 | Inner City |
+| B5 | Cantina Band |
+| C1 | The Land Of The Sandpeople |
+| C2 | Mouse Robot And Blasting Off |
+| C3 | The Return Home |
+| C4 | The Walls Converge |
+| C5 | The Princess Appears |
+| D1 | The Last Battle |
+| D2 | The Throne Room And End Title |
+
 
 
 ## Apple Music

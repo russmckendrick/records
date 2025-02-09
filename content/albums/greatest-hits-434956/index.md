@@ -36,24 +36,25 @@ Greatest Hits is a compilation album by the American rock band Steely Dan, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Do It Again |
+| A2 | Reeling In The Years |
+| A3 | My Old School |
+| A4 | Bodhisattva |
+| B1 | Show Biz Kids |
+| B2 | East St. Louis Toodle-Oo |
+| B3 | Rikki Don't Lose That Number |
+| B4 | Pretzel Logic |
+| B5 | Any Major Dude |
+| C1 | Here At The Western World |
+| C2 | Black Friday |
+| C3 | Bad Sneakers |
+| C4 | Doctor Wu |
+| C5 | Haitian Divorce |
+| D1 | Kid Charlemagne |
+| D2 | The Fez |
+| D3 | Peg |
+| D4 | Josie |
+
 
 
 ## Apple Music

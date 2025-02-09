@@ -30,13 +30,14 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | SIDE A |
+| 1 | We Ascend |
+| 2 | Zero Blue (NSS mix) |
+| 3 | Anchor |
+|  | SIDE B |
+| 4 | Wide Steppe |
+| 5 | Stowaway |
+
 
 
 ## Apple Music

@@ -37,14 +37,12 @@ The cover of the EP references the design of King Tubby's The Roots of Dub LP, w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dry The Rain |
+| A2 | I Know |
+| B1 | B+A |
+| B2 | Dogs Got A Bone |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

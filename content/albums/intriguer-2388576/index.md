@@ -32,16 +32,17 @@ Intriguer is the sixth studio album by rock group Crowded House, released on 11 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Saturday Sun |
+| A2 | Archer's Arrows |
+| A3 | Amsterdam |
+| A4 | Either Side Of The World |
+| A5 | Falling Dove |
+| B1 | Isolation |
+| B2 | Twice If You're Lucky |
+| B3 | Inside Out |
+| B4 | Even If |
+| B5 | Elephants |
+
 
 
 ## Apple Music

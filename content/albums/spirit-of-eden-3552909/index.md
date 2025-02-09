@@ -35,22 +35,23 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Spirit Of Eden |
+| LP-A1 | The Rainbow |
+| LP-A2 | Eden |
+| LP-A3 | Desire |
+| LP-B1 | Inheritance |
+| LP-B2 | I Believe In You |
+| LP-B3 | Wealth |
+|  | Spirit Of Eden |
+| DVD-1 | The Rainbow |
+| DVD-2 | Eden |
+| DVD-3 | Desire |
+| DVD-4 | Inheritance |
+| DVD-5 | I Believe In You |
+| DVD-6 | Wealth |
+|  | - |
+| DVD-7 | John Cope |
+
 
 
 ## Apple Music

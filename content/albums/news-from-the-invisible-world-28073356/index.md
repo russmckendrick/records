@@ -29,14 +29,15 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A-1 | The Start |
+| A-2 | Shame The Jar |
+| A-3 | Golden Thread |
+| A-4 | Photogenic Love |
+| B-1 | Wonderful |
+| B-2 | Non-Player |
+| B-3 | What A Time To Be Alive |
+| B-4 | Nostalgia Now |
+
 
 
 ## Apple Music

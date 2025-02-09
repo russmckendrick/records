@@ -43,16 +43,17 @@ So, what’s it all about? Through these broken people, and all their butchery a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Song Of Joy |
+| A2 | Henry Lee |
+| A3 | Lovely Creature |
+| A4 | Stagger Lee |
+| B5 | Where The Wild Roses Grow |
+| B6 | The Curse Of Millhaven |
+| B7 | The Kindness Of Strangers |
+| B8 | Crow Jane |
+| C9 | O' Malley's Bar |
+| C10 | Death Is Not The End |
+
 
 
 ## Apple Music

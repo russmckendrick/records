@@ -33,19 +33,20 @@ styles: ["Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A New England |
+| A2 | Between The Wars |
+| A3 | Levi Stubbs' Tears |
+| A4 | Greetings To The New Brunette  |
+| A5 | Waiting For The Great Leap Forwards |
+| A6 | Sexuality  |
+| A7 | Accident Waiting To Happen (Red Star Version) |
+| B1 | Upfield  |
+| B2 | The Boy Done Good |
+| B3 | California Stars (Live October / November 1998) |
+| B4 | I Keep Faith |
+| B5 | The L&N Don't Stop Here Anymore |
+| B6 | I Will Be Your Shield |
+
 
 
 ## Apple Music

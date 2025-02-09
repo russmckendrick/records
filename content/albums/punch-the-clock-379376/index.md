@@ -33,19 +33,20 @@ The album received mixed-to-positive reviews from music critics on release and i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let Them All Talk |
+| A2 | Everyday I Write The Book |
+| A3 | The Greatest Thing |
+| A4 | The Element Within Her |
+| A5 | Love Went Mad |
+| A6 | Shipbuilding |
+| B1 | TKO (Boxing Day) |
+| B2 | Charm School |
+| B3 | The Invisible Man |
+| B4 | Mouth Almighty |
+| B5 | King Of Thieves |
+| B6 | Pills And Soap |
+| B7 | The World And His Wife |
+
 
 
 ## Apple Music

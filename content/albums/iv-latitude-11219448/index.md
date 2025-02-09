@@ -38,23 +38,21 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A-I | Modern Goddess |
+| A-II | In The Game |
+| A-III | Icon |
+| B-IV | In Their Eyes |
+| B-V | Gone And Forgotten |
+| B-VI | Eden's Garden |
+| C-VII | Zeroes And Ones |
+| C-VIII | Kissed By Sunlight |
+| C-IX | Cheap Trade |
+| D-X | Comforting Rain |
+| D-XI | Latitude |
+| D-XII | Faith Is |
+| D-XIII | Cradle Song |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

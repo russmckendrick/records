@@ -41,28 +41,29 @@ Although not originally well-received, the record is now widely praised by both 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Whatever Happened To Pong? |
+| A2 | Thalassocracy |
+| A3 | (I Want To Live On An) Abstract Plain |
+| A4 | Calistan |
+| A5 | The Vanishing Spies |
+| A6 | Speedy Marie |
+| B7 | Headache |
+| B8 | Sir Rockaby |
+| B9 | Freedom Rock |
+| B10 | Two Reelers |
+| B11 | Fiddle Riddle |
+| C12 | Olé Mulholland |
+| C13 | Fazer Eyes |
+| C14 | I Could Stay Here Forever |
+| C15 | The Hostess With The Mostest |
+| C16 | Superabound |
+| D17 | Big Red |
+| D18 | Space Is Gonna Do Me Good |
+| D19 | White Noise Maker |
+| D20 | Pure Denizen Of The Citizens Band |
+| D21 | Bad, Wicked World |
+| D22 | Pie In The Sky |
+
 
 
 ## Apple Music

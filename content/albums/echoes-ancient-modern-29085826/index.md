@@ -26,17 +26,18 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Swimming Pools (Drank) |
+| A2 | Steppin' Out |
+| A3 | Owner Of A Lonely Heart |
+| A4 | Slave To The Rhythm |
+| A5 | Love Is A Battlefield |
+| A6 | Personal Jesus |
+| B1 | Drive |
+| B2 | Relax |
+| B3 | White Wedding |
+| B4 | Smells Like Teen Spirit |
+| B5 | Avalon |
+
 
 
 ## Apple Music

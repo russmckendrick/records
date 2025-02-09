@@ -44,22 +44,23 @@ Electric Ladyland includes a cover of Bob Dylan's "All Along the Watchtower", wh
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | ...And The Gods Made Love |
+| A2 | Have You Ever Been (To Electric Ladyland) |
+| A3 | Cross Town Traffic |
+| A4 | Voodoo Chile |
+| B1 | Little Miss Strange |
+| B2 | Long Hot Summer Night |
+| B3 | Come On |
+| B4 | Gypsy Eyes |
+| B5 | The Burning Of The Midnight Lamp |
+| C1 | Rainy Day, Dream Away |
+| C2 | 1983... (A Merman I Should Turn To Be) |
+| C3 | Moon, Turn The Tides... Gently, Gently Away |
+| D1 | Still Raining, Still Dreaming |
+| D2 | House Burning Down |
+| D3 | All Along The Watchtower |
+| D4 | Voodoo Child (Slight Return) |
+
 
 
 ## Apple Music

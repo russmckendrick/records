@@ -43,19 +43,20 @@ The album was a nominee for the 2008 Polaris Music Prize.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Beginning After The End |
+| A2 | The Night Starts Here |
+| A3 | Take Me To The Riot |
+| A4 | My Favourite Book |
+| B1 | Midnight Coward |
+| B2 | The Ghost Of Genova Heights |
+| B3 | Personal |
+| C1 | Barricade |
+| C2 | Window Bird |
+| C3 | Bitches In Tokyo |
+| C4 | Life 2: The Unhappy Ending |
+| D1 | Today Will Be Better, I Swear! |
+| D2 | In Our Bedroom After The War |
+
 
 
 ## Apple Music

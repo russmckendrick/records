@@ -38,33 +38,31 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Good Humor |
+| A1 | Woodcabin |
+| A2 | Sylvie |
+| A3 | Split Screen |
+| A4 | Mr Donut |
+| A5 | Goodnight Jack |
+| B1 | Lose That Girl |
+| B2 | The Bad Photographer |
+| B3 | Been So Long |
+| B4 | Postman |
+| B5 | Erica America |
+| B6 | Dutch TV |
+|  | Los Angeles '99 |
+| CD-1 | Introduction  |
+| CD-2 | Nothing Can Stop Us	 |
+| CD-3 | Lose That Girl	 |
+| CD-4 | Hug My Soul	 |
+| CD-5 | Goodnight Jack	 |
+| CD-6 | Erica America	 |
+| CD-7 | Been So Long |
+| CD-8 | The Bad Photographer |
+| CD-9 | Sylvie |
+| CD-10 | He's On The Phone	 |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

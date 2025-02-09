@@ -33,12 +33,13 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Looking For Someone |
+| A2 | White Mountain |
+| A3 | Visions Of Angels |
+| B1 | Stagnation |
+| B2 | Dusk |
+| B3 | The Knife |
+
 
 
 ## Apple Music

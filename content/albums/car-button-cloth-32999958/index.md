@@ -31,32 +31,33 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It's All True |
+| A2 | If I Could Talk I'd Tell You |
+| A3 | Break Me |
+| A4 | Hospital |
+| A5 | The Outdoor Type |
+| A6 | Losing Your Mind |
+| B1 | Something's Missing |
+| B2 | Knoxville Girl |
+| B3 | 6ix |
+| B4 | C'Mon Daddy |
+| B5 | One More Time |
+| B6 | Tenderfoot |
+| B7 | Secular Rockulidge |
+| C1 | If I Could Talk I'd Tell You (Single Version) |
+| C2 | The Outdoor Type (Remix) |
+| C3 | Pin Yr Heart |
+| C4 | Balancing Act |
+| C5 | Galveston |
+| C6 | Arise |
+| D1 | Keep On Loving You |
+| D2 | It's All True (No Drums) |
+| D3 | Losing Your Mind (Live Acoustic Version) |
+| D4 | How Will I Know? (Acoustic) |
+| D5 | I Don't Want To Go Home |
+| D6 | Fade To Black |
+| D7 | Live Forever |
+
 
 
 ## Apple Music

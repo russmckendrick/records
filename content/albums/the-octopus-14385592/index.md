@@ -47,25 +47,26 @@ The Octopus is the third studio album of the Manchester space rock band Amplifie
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Part One |
+| A1 | The Runner |
+| A2 | Minion's Song |
+| A3 | Interglacial Spell |
+| B1 | The Wave |
+| B2 | The Octopus |
+| C1 | Planet Of Insects |
+| C2 | White Horses At Sea // Utopian Daydream |
+| D1 | Trading Dark Matter On The Stock Exchange |
+|  | Part Two |
+| E1 | The Sick Rose |
+| E2 | Interstellar |
+| F1 | The Emperor |
+| F2 | Golden Ratio |
+| F3 | Fall Of The Empire |
+| G1 | Bloodtest |
+| G2 | Oscar Night // Embryo |
+| H1 | The Eternal |
+| H2 | Forever And More |
+
 
 
 ## Apple Music

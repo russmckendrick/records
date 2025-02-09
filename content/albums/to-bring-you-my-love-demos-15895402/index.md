@@ -34,16 +34,17 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | To Bring You My Love |
+| A2 | Meet Ze Monsta |
+| A3 | Working For The Man |
+| A4 | C'mon Billy |
+| A5 | Teclo |
+| B1 | Long Snake Moan |
+| B2 | Down By The Water |
+| B3 | I Think I'm A Mother |
+| B4 | Send His Love To Me |
+| B5 | The Dancer |
+
 
 
 ## Apple Music

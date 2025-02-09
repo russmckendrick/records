@@ -34,16 +34,14 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Legal Teens |
+| A2 | Getting Where Water Cannot |
+| A3 | Monodrones |
+| B1 | Home & Minor |
+| B2 | Didnaeland |
+| B3 | The Strand |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

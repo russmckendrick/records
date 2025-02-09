@@ -43,15 +43,16 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let's Go Crazy |
+| A2 | Take Me With U |
+| A3 | The Beautiful Ones |
+| A4 | Computer Blue |
+| A5 | Darling Nikki |
+| B1 | When Doves Cry |
+| B2 | I Would Die 4 U |
+| B3 | Baby I'm A Star |
+| B4 | Purple Rain |
+
 
 
 ## Apple Music

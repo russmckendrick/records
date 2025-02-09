@@ -34,18 +34,19 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jackie |
+| A2 | Best Of Both Worlds |
+| A3 | Black Sheep Boy |
+| A4 | The Amorous Humphrey Plugg |
+| A5 | Next |
+| A6 | The Girls From The Streets |
+| B1 | Plastic Palace People |
+| B2 | Wait Until Dark |
+| B3 | The Girls And The Dogs |
+| B4 | Windows Of The World |
+| B5 | The Bridge |
+| B6 | Come Next Spring |
+
 
 
 ## Apple Music

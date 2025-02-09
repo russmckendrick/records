@@ -35,17 +35,18 @@ A remastered version was released May 24, 2005, on Mercury/Island/UMe and includ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rain On The Scarecrow |
+| A2 | Grandma's Theme |
+| A3 | Small Town |
+| A4 | Minutes To Memories |
+| A5 | Lonely Ol' Night |
+| A6 | The Face Of The Nation |
+| B1 | Justice And Independence '85 |
+| B2 | Between A Laugh And A Tear |
+| B3 | Rumbleseat |
+| B4 | You've Got To Stand For Something' |
+| B5 | R.O.C.K. In The U.S.A. (A Salute To 60's Rock) |
+
 
 
 ## Apple Music

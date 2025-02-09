@@ -35,16 +35,17 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Will Work It Out |
+| A2 | Witchoo |
+| A3 | Private Space |
+| A4 | More Than Ever |
+| A5 | Ride Or Die |
+| B1 | The Way That I Do |
+| B2 | Reach Out |
+| B3 | Sexy Thang |
+| B4 | Sea Of Love |
+| B5 | I Can See |
+
 
 
 ## Apple Music

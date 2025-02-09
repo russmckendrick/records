@@ -37,14 +37,15 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Another Life |
+| A2 | The Wheel |
+| A3 | The Seven Rays |
+| B1 | Intro / Mister Triscuits |
+| B2 | Something's Coming |
+| B3 | Heavy Metal Kids |
+| B4 | Do Ya |
+| B5 | Just One Victory |
+
 
 
 ## Apple Music

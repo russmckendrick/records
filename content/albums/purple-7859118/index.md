@@ -52,16 +52,17 @@ Purple is the fourth studio album by American heavy metal band Baroness. It was 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Morningstar |
+| A2 | Shock Me |
+| A3 | Try To Disappear |
+| A4 | Kerosene  |
+| A5 | Fugue  |
+| B6 | Chlorine & Wine |
+| B7 | The Iron Bell |
+| B8 | Desperation Burns |
+| B9 | If I Have To Wake Up (Would You Stop The Rain?) |
+| B10 | Crossroads Of Infinity |
+
 
 
 ## Apple Music

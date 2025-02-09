@@ -48,48 +48,49 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Finkelstien Shit Kid |
+| A2 | Up In Smoke |
+| A3 | Low Rider |
+| A4 | 1st Gear, 2nd Gear |
+| A5 | Framed |
+| A6 | Searchin' |
+| A7 | The Ajax Lady |
+| A8 | Strawberry's |
+| B1 | Here Come The Mounties to the Rescue |
+| B2 | Sometimes When You Gotta Go You Can't |
+| B3 | Lost Due To Incompetence (Theme For A Big Green Van) |
+| B4 | Lard Ass |
+| B5 | Rock Fight |
+| B6 | I Didn't Know Your Name Was Alex |
+| B7 | Earache My Eye |
+| B8 | Up In Smoke Reprise |
+|  | 7" Picture Disc |
+| C1 | Earache My Eye |
+| D1 | Lost Due To Incompetence (Theme For A Big Green Van) |
+| CD1 | The Finklestien Shit Kid |
+| CD2 | Up In Smoke |
+| CD3 | Low Rider |
+| CD4 | 1st Gear, 2nd Gear |
+| CD5 | Framed |
+| CD6 | Searchin' |
+| CD7 | The Ajax Lady |
+| CD8 | Strawberry's |
+| CD9 | Here Come The Mounties To The Rescue |
+| CD10 | Sometimes When You Gotta Go You Can't |
+| CD11 | Lost Due To Incompetence (Theme For A Big Green Van)  |
+| CD12 | Lard Ass |
+| CD13 | Rock Fight |
+| CD14 | I Didn't Know Your Name Was Alex |
+| CD15 | Earache My Eye |
+| CD16 | Up In Smoke Reprise |
+|  | Bonus Tracks |
+| CD17 | Up In Smoke (Spanish Verse) |
+| CD18 | Up In Smoke 2018 |
+| BR1 | Main Feature |
+|  | Bonus Content |
+|  | Roach Clips (Deleted Scenes) With Optional Commentary |
+|  | Vintage Radio Spots |
+
 
 
 ## Apple Music

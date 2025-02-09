@@ -26,21 +26,22 @@ styles: ["Pop Rap", "New Jack Swing", "Contemporary R&B", "Gangsta", "Soundtrack
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Jack Hustler (Nino's Theme) |
+| A2 | I'm Dreamin' |
+| A3 | New Jack City |
+| A4 | I'm Still Waiting |
+| A5 | (There You Go) Tellin' Me No Again |
+| B1 | Facts Of Life |
+| B2 | For The Love Of Money / Living For The City (Medley) |
+| B3 | I Wanna Sex You Up |
+| B4 | Lyrics To The Rhythm |
+| B5 | Get It Together (Black Is A Force) |
+| B6 | In The Dust |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="3N1GCkG6Z5Rs4Qy1iwnIEB" width="100%" height="500" >}}<br>
 
 
 

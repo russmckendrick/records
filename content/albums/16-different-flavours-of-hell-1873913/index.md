@@ -29,22 +29,23 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Urban Futuristic |
+| A2 | Get The Girl! Kill The Baddies! |
+| A3 | Wise Up! Sucker |
+| A4 | Inject Me |
+| A5 | Axe Of Men |
+| A6 | Can U Dig It? |
+| A7 | I've Always Been A Coward, Baby |
+| A8 | Karmadrome |
+| B1 | Dance Of The Mad... (7" Version) |
+| B2 | Another Mans Rhubarb |
+| B3 | X Y & Zee |
+| B4 | 92°F |
+| B5 | Cicciolina (7" Version) |
+| B6 | Bulletproof! |
+| B7 | Def Con One |
+| B8 | Wake Up! Time To Die... |
+
 
 
 ## Apple Music

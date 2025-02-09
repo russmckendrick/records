@@ -31,16 +31,17 @@ styles: ["Indie Pop", "Neo-Classical"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Waves |
+| A2 | In Motion |
+| A3 | To Be Alone |
+| A4 | Ocean |
+| A5 | Voyager |
+| B1 | Resistance |
+| B2 | Into The Deep |
+| B3 | Deep Blue |
+| B4 | Mulholland |
+| B5 | Underwater |
+
 
 
 ## Apple Music

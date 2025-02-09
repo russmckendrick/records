@@ -32,18 +32,19 @@ During their first seven years, the band released three studio records, a compil
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jackson Cannery |
+| A2 | Philosophy |
+| A3 | Julianne |
+| A4 | Wheres Summer B.? |
+| A5 | Alice Childress |
+| A6 | Underground |
+| B1 | Sports & Wine |
+| B2 | Uncle Walter |
+| B3 | Best Imitation Of Myself |
+| B4 | Video |
+| B5 | The Last Polka |
+| B6 | Boxing |
+
 
 
 ## Apple Music

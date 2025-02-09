@@ -37,21 +37,22 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introducing "The Best Years" |
+| A2 | The Mad, Mad Moonlight |
+| A3 | Mr Raffles (Man,It Was Mean) |
+| A4 | It Wasn't Me |
+| A5 | Panorama |
+| B1 | Make Me Smile (Come Up And See Me) |
+| B2 | Back To The Farm |
+| B3 | 49th Parallel |
+| B4 | The Best Years Of Our Lives |
+| C1 | Make Me Smile (Come Up And See Me) [Rough Mix] |
+| C2 | Another Journey |
+| C3 | The Best Years Of Our Lives (Acoustic) |
+| C4 | Mr Raffles (Man,It Was Mean) [Single Version] |
+| D1 | The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75) |
+| D2 | Sebastian (Live At Hammersmith Odeon 14/4/75) |
+
 
 
 ## Apple Music

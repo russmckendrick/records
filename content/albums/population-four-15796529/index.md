@@ -35,17 +35,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tangled Up |
+| A2 | Fourteen |
+| A3 | Breeze |
+| A4 | Can't Get Free |
+| A5 | Stalk |
+| A6 | Sweet Unknown |
+| B1 | Angel Bell |
+| B2 | On Top Of The World |
+| B3 | Brazil |
+| B4 | Let Go |
+| B5 | To Be |
+
 
 
 ## Apple Music

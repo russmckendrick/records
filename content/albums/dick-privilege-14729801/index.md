@@ -29,12 +29,10 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Dick Privilege |
+| B | Rat Catch |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

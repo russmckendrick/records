@@ -27,20 +27,21 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Building A Beginning |
+| A2 | Julian |
+| A3 | I Live To Make You Smile |
+| A4 | Find It Hard To Say |
+| B1 | Me And You |
+| B2 | How Did I Live Before Your Love |
+| B3 | Walk Right Back |
+| C1 | Nothing's Gonna Change |
+| C2 | In Love And Alone |
+| C3 | Motionless |
+| C4 | Believe In Me |
+| D1 | I Stay Inside |
+| D2 | Precious Years |
+| D3 | Don't Let Me Let You Go |
+
 
 
 ## Apple Music

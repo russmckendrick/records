@@ -43,22 +43,23 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sign "O" The Times |
+| A2 | Play In The Sunshine |
+| A3 | Housequake |
+| A4 | The Ballad Of Dorothy Parker |
+| B1 | It |
+| B2 | Starfish And Coffee |
+| B3 | Slow Love |
+| B4 | Hot Thing |
+| B5 | Forever In My Life |
+| C1 | U Got The Look |
+| C2 | If I Was Your Girlfriend |
+| C3 | Strange Relationship |
+| C4 | I Could Never Take The Place Of Your Man |
+| D1 | The Cross |
+| D2 | It's Gonna Be A Beautiful Night |
+| D3 | Adore |
+
 
 
 ## Apple Music

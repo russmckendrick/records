@@ -34,14 +34,15 @@ An attempt by the band to experiment and explore other musical territory, Techni
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Back Street Kids |
+| A2 | You Won't Change Me |
+| A3 | She's Gone |
+| A4 | Gypsy |
+| B1 | All Moving Parts (Stand Still) |
+| B2 | Rock 'N' Roll Doctor |
+| B3 | It's Alright |
+| B4 | Dirty Women |
+
 
 
 ## Apple Music

@@ -41,16 +41,17 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | No Small Thing |
+| A2 | The Tipping Point |
+| A3 | Long, Long, Long Time |
+| A4 | Break The Man |
+| A5 | My Demons |
+| B1 | Rivers Of Mercy |
+| B2 | Please Be Happy |
+| B3 | Master Plan |
+| B4 | End Of Night |
+| B5 | Stay |
+
 
 
 ## Apple Music

@@ -33,30 +33,28 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Monkey Gone To Heaven |
+| A2 | Made Of Stone |
+| A3 | Ana Ng |
+| A4 | Eardrum Buzz |
+| A5 | Dizzy |
+| B1 | Polish Plain |
+| B2 | Rain, Steam, Speed |
+| B3 | My Love Is Like A Gift You Can't Return |
+| B4 | Joe |
+| B5 | Happy Shopper |
+| C1 | Freak Scene |
+| C2 | Kansas |
+| C3 | You, Me & Everything |
+| C4 | Mercy Seat |
+| C5 | Time To Kill |
+| D1 | Baby You're Just You |
+| D2 | Sugar Luv |
+| D3 | Preachin' & Ramblin' |
+| D4 | White Knuckle Ride |
+| D5 | Deanna |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

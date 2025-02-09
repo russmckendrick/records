@@ -42,16 +42,17 @@ Moondance was an immediate critical and commercial success. It helped establish 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | And It Stoned Me |
+| A2 | Moondance |
+| A3 | Crazy Love |
+| A4 | Caravan |
+| A5 | Into The Mystic |
+| B1 | Come Running |
+| B2 | These Dreams Of You |
+| B3 | Brand New Day |
+| B4 | Everyone |
+| B5 | Glad Tidings |
+
 
 
 ## Apple Music

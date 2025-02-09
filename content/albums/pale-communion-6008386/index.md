@@ -45,14 +45,15 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Eternal Rains Will Come |
+| A2 | Cusp Of Eternity |
+| B1 | Moon Above, Sun Below |
+| B2 | Elysian Woes |
+| C1 | Goblin |
+| C2 | River |
+| D1 | Voice Of Treason |
+| D2 | Faith In Others |
+
 
 
 ## Apple Music

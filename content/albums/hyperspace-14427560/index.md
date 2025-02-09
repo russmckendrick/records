@@ -39,17 +39,18 @@ Hyperspace received generally positive reviews from critics, though some comment
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hyperlife |
+| A2 | Uneventful Days |
+| A3 | Saw Lightning |
+| A4 | Die Waiting |
+| A5 | Chemical |
+| A6 | See Through |
+| B1 | Hyperspace |
+| B2 | Stratosphere |
+| B3 | Dark Places |
+| B4 | Star |
+| B5 | Everlasting Nothing |
+
 
 
 ## Apple Music

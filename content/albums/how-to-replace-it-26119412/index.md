@@ -39,18 +39,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | How To Replace It |
+| A2 | Must Have Been New |
+| A3 | Man Of The House |
+| B1 | 1989 |
+| B2 | Faux Bamboo |
+| B3 | Dream Is A Giver |
+| C1 | Pirates |
+| C2 | Simple Pleasures |
+| C3 | Never Gonna Get You High |
+| D1 | Why Think It Over (Cadillac) |
+| D2 | Love Breaks Down |
+| D3 | Le Blues Polaire |
+
 
 
 ## Apple Music

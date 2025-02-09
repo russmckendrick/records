@@ -32,26 +32,24 @@ styles: ["Country"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Walk The Line (The Johnny Cash Show Open) |
+| A2 | Flesh And Blood |
+| A3 | Stand By Your Man |
+| A4 | Medley: She Thinks I Still Care/Love Bug/The Race Is On |
+| A5 | I've Been Everywhere |
+| A6 | Detroit City |
+| A7 | Ring Of Fire |
+| A8 | It's Too Late |
+| B1 | Loving Her Was Easier (Than Anything I'll Ever Do Again) |
+| B2 | Medley: Only The Lonely/Oh, Pretty Woman |
+| B3 | Belshazzar |
+| B4 | Brown Eyed Handsome Man |
+| B5 | Girl From The North Country |
+| B6 | Fire And Rain |
+| B7 | Daddy Sang Bass |
+| B8 | Closing Monologue/I Walk The Line (Reprise) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

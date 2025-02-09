@@ -41,29 +41,30 @@ And while they dove considerably deeper into kitsch as their career went on, you
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tone Burst |
+| A2 | Our Trinitone Blast |
+| A3 | Pack Yr Romantic Mind |
+| B4 | I'm Going Out Of My Way |
+| B5 | Golden Ball |
+| B6 | Pause |
+| C7 | Jenny Ondioline |
+| D8 | Analogue Rock |
+| D9 | Crest |
+| D10 | Lock-Groove Lullaby |
+| E1 | Fragments |
+| E2 | Jenny Ondioline (7" / EP Version - Alternative Mix) |
+| E3 | Drum - Backwards Bass - Organ (Jenny Ondioline Breakdown Full Version) |
+| E4 | Analogue Rock (Original Mix) |
+| E5 | Pause (Original Mix) |
+| E6 | French Disco (Early Version Mix) |
+| F7 | Jenny Ondioline Part 2 (Breakdown Mix) |
+| F8 | Fruition - Demo |
+| F9 | I'm Going Out Of My Way - Demo |
+| F10 | French Disco - Demo |
+| F11 | Lock Groove Lullaby - Demo |
+| F12 | Jenny Ondioline - Demo |
+| F13 | Pause - Demo |
+
 
 
 ## Apple Music

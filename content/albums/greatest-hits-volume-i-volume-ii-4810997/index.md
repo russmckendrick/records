@@ -32,27 +32,28 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Piano Man |
+| A2 | Say Goodbye To Hollywood |
+| A3 | New York State Of Mind |
+| A4 | The Stranger |
+| A5 | Just The Way You Are |
+| B1 | Movin' Out (Anthony's Song) |
+| B2 | Only The Good Die Young |
+| B3 | She's Always A Woman |
+| B4 | My Life |
+| B5 | Big Shot |
+| B6 | Honesty |
+| C1 | You May Be Right |
+| C2 | It's Still Rock And Roll To Me |
+| C3 | Pressure |
+| C4 | Allentown |
+| C5 | Goodnight Saigon |
+| D1 | Tell Her About It |
+| D2 | Uptown Girl |
+| D3 | The Longest Time |
+| D4 | You're Only Human (Second Wind) |
+| D5 | The Night Is Still Young |
+
 
 
 ## Apple Music

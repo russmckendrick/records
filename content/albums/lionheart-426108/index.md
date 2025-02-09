@@ -45,16 +45,17 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Symphony In Blue |
+| A2 | In Search Of Peter Pan |
+| A3 | Wow |
+| A4 | Don't Push Your Foot On The Heartbrake |
+| A5 | Oh England My Lionheart |
+| B1 | Fullhouse |
+| B2 | In The Warm Room |
+| B3 | Kashka From Baghdad |
+| B4 | Coffee Homeground |
+| B5 | Hammer Horror |
+
 
 
 ## Apple Music

@@ -39,21 +39,22 @@ Above is the only studio album by the American rock band Mad Season, released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wake Up |
+| A2 | X-Ray Mind |
+| A3 | River Of Deceit |
+| B1 | I'm Above |
+| B2 | Artificial Red |
+| B3 | Lifeless Dead |
+| B4 | I Don't Know Anything |
+| C1 | Long Gone Day |
+| C2 | November Hotel |
+| C3 | All Alone |
+| C4 | Interlude |
+| C5 | Locomotive |
+| D1 | Black Book Of Fear |
+| D2 | Slip Away |
+| D3 | I Don't Wanna Be A Soldier (Remix) |
+
 
 
 ## Apple Music

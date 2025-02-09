@@ -41,19 +41,20 @@ Although A.M. was released before Son Volt's Trace, critical reviews were modest
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Must Be High |
+| A2 | Casino Queen |
+| A3 | Box Full Of Letters |
+| A4 | Shouldn't Be Ashamed |
+| A5 | Pick Up The Change |
+| A6 | I Thought I Held You |
+| A7 | That's Not The Issue |
+| B1 | It's Just That Simple |
+| B2 | Should've Been In Love |
+| B3 | Passenger Side |
+| B4 | Dash 7 |
+| B5 | Blue Eyed Soul |
+| B6 | Too Far Apart |
+
 
 
 ## Apple Music

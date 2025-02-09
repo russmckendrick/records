@@ -28,25 +28,26 @@ Their 1990 recording of "The Boxer" made its debut here. Other tracks from their
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | To Cut A Long Story Short |
+| A2 | The Freeze |
+| A3 | Musclebound |
+| A4 | Chant No. 1 |
+| A5 | Instinction |
+| A6 | Lifeline |
+| B1 | Gold |
+| B2 | True |
+| B3 | Only When You Leave |
+| B4 | I'll Fly for You |
+| C1 | Communication |
+| C2 | Highly Strung |
+| C3 | Round & Round |
+| C4 | Fight For Ourselves |
+| C5 | How Many Lies? |
+| D1 | Be Free With Your Love |
+| D2 | The Boxer |
+| D3 | This Is The Love |
+| D4 | Through the Barricades |
+
 
 
 ## Apple Music

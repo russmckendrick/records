@@ -29,24 +29,25 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spitkicker.com / Say R. |
+| A2 | U Can Do (Life) |
+| A3 | My Writes |
+| A4 | Oooh / Ghost Weed Skit 01 |
+| A5 | Thru Ya City |
+| B1 | I.C. Y'All |
+| B2 | View |
+| B3 | Interluden |
+| B4 | Set The Mood / Ghost Weed Skit 02  |
+| B5 | All Good? |
+| C1 | Declaration |
+| C2 | Squat! |
+| C3 | Words From The Chief Rocker |
+| C4 | With Me / Ghost Weed Skit 03 |
+| D1 | Copa (Cabanga) |
+| D2 | Foolin' |
+| D3 | The Art Of Getting Jumped |
+| D4 | U Don't Wanna B.D.S |
+
 
 
 ## Apple Music

@@ -32,32 +32,33 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Here's A Health For Simon |
+| A2 | Latitude And Longitude |
+| A3 | Size Nine And A Half |
+| A4 | Mary's A Cow |
+| A5 | Instance The Yam |
+| A6 | Pickle Your Knees |
+| A7 | Gravity Begins At Home |
+| A8 | A Cowpuncher And A Bird |
+| A9 | Boo Boo Bird |
+| A10 | Vitamin P |
+| A11 | Green Rain |
+| A12 | A Tooth Song |
+| A13 | Sh Chi |
+| B1 | Women Of The World |
+| B2 | A Real Man |
+| B3 | Yellow Fly |
+| B4 | Shoplifters |
+| B5 | The Path |
+| B6 | Muscular Tree |
+| B7 | Who Tore Your Trousers James? |
+| B8 | I Got No Common Sense |
+| B9 | When I Stand Out In An Open Cart |
+| B10 | I Believe In Bugs |
+| B11 | Good Morning! How Are You? Shut Up! |
+| B12 | Out Of Decency |
+| B13 | Beautiful Cosmos |
+
 
 
 ## Apple Music

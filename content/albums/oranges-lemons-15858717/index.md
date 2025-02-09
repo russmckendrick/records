@@ -38,21 +38,22 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Garden Of Earthly Delights |
+| A2 | The Mayor Of Simpleton |
+| A3 | King For A Day |
+| A4 | Here Comes President Kill Again |
+| B1 | The Loving |
+| B2 | Poor Skeleton Steps Out |
+| B3 | One Of The Millions |
+| B4 | Scarecrow People |
+| C1 | Merely A Man |
+| C2 | Cynical Days |
+| C3 | Across This Antheap |
+| D1 | Hold Me My Daddy |
+| D2 | Pink Thing |
+| D3 | Miniature Sun |
+| D4 | Chalkhills And Children |
+
 
 
 ## Apple Music

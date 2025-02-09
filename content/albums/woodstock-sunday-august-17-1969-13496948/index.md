@@ -32,15 +32,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | M'Lady |
+| A2 | Sing A Simple Song |
+| A3 | You Can Make It If You Try |
+| B1 | Everyday People |
+| B2 | Dance To The Music |
+| B3 | Medley: Music Lover/Higher |
+| C1 |  I Want To Take You Higher |
+| C2 | Love City |
+| C3 | Stand! |
+
 
 
 ## Apple Music

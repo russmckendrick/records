@@ -37,18 +37,19 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let The Circus Burn |
+| A2 | Mindless Ones '68 |
+| A3 | No Paradise For Me |
+| B1 | End Of Time (B-3) |
+| B2 | Milking The Stars |
+| B3 | Hallelujah (Fuzz And Swamp) |
+| C1 | I Live Behind The Clouds (Roughed Up And Slightly Spaced) |
+| C2 | Goliath Returns |
+| C3 | Stay Tuned (Even Sadder) |
+| C4 | The Duke (Full On Drums 'n Wah) |
+| D1 | Last Patrol (Live) |
+| D2 | Three Kingfishers (Live) |
+
 
 
 ## Apple Music

@@ -29,16 +29,17 @@ styles: ["Country"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Birmingham Jail |
+| A2 | Wabash Waltz |
+| A3 | (Please) Paint A Rose On The Garden Wall |
+| A4 | I'll Do As Much For You Someday |
+| A5 | Let's Go To Church (Next Sunday Morning) |
+| B1 | I'm Casting My Lasso Towards The Sky |
+| B2 | There's A Rainbow In Ev'ry Teardrop |
+| B3 | Tears Can Never Drown The Flame ( That's In My Heart) |
+| B4 | I'm Crying For You |
+| B5 | I'll Never Pass This Way Again |
+
 
 
 ## Apple Music

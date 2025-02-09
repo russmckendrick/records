@@ -36,20 +36,21 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mirror In The Bathroom |
+| A2 | Hands Off...She's Mine |
+| A3 | Two Swords |
+| A4 | Twist & Crawl |
+| A5 | Tears Of A Clown |
+| A6 | Rough Rider |
+| A7 | Click Click |
+| B1 | Ranking Full Stop |
+| B2 | Big Shot |
+| B3 | Whine & Grine / Stand Down Margaret |
+| B4 | Noise In This World |
+| B5 | Can't Get Used To Losing You |
+| B6 | Best Friend |
+| B7 | Jackpot |
+
 
 
 ## Apple Music

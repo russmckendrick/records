@@ -64,83 +64,84 @@ styles: ["Techno", "Electro", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | 1 Autobahn |
+| A1 | Autobahn |
+| B1 | Kometenmelodie 1 |
+| B2 | Kometenmelodie 2 |
+| B3 | Mitternacht |
+| B4 | Morgenspaziergang |
+|  | 2 Radioactivity |
+| C1 | Geiger Counter |
+| C2 | Radioactivity |
+| C3 | Radioland |
+| C4 | Intermission |
+| C5 | News |
+| D1 | Airwaves |
+| D2 | The Voice Of Energy |
+| D3 | Antenna |
+| D4 | Radio Stars |
+| D5 | Uranium |
+| D6 | Transistor |
+| D7 | Ohm Sweet Ohm |
+|  | 3 Trans Europe Express |
+| E1 | Trans Europe Express |
+| E2 | Metal On Metal |
+| E3 | Abzug |
+| E4 | Showroom Dummies |
+| F1 | Franz Schubert |
+| F2 | Europe Endless |
+| F3 | The Hall Of Mirrors |
+|  | 4 The Man-Machine |
+| G1 | The Man-Machine |
+| G2 | Spacelab |
+| G3 | Metropolis |
+| H1 | The Model |
+| H2 | Neon Lights |
+| H3 | The Robots |
+|  | 5 Computer World |
+| I1 | Numbers |
+| I2 | Computer World |
+| I3 | It's More Fun To Compute |
+| I4 | Home Computer |
+| J1 | Computer Love |
+| J2 | Pocket Calculator |
+| J3 | Dentaku |
+|  | 6 Techno Pop |
+| K1 | Boing Boom Tschak |
+| K2 | Techno Pop |
+| K3 | Music Non Stop |
+| L1 | Electric Cafe |
+| L2 | The Telephone Call |
+| L3 | House Phone |
+| L4 | Sex Object |
+|  | 7 The Mix |
+| M1 | The Robots |
+| M2 | Computer Love |
+| M3 | Pocket Calculator |
+| M4 | Dentaku |
+| N1 | Autobahn |
+| O1 | Geiger Counter |
+| O2 | Radioactivity |
+| O3 | Trans Europe Express |
+| O4 | Metal On Metal |
+| O5 | Abzug |
+| O6 | Home Computer |
+| P1 | Boing Boom Tschak |
+| P2 | Techno Pop |
+| P3 | Music Non Stop |
+| P4 | Planet Of Visions |
+|  | 8 Tour De France |
+| Q1 | Tour De France |
+| Q2 | Prologue |
+| Q3 | Etape 1 |
+| Q4 | Chrono |
+| Q5 | Etape 2 |
+| Q6 | Elektro Kardiogramm |
+| R1 | Aéro Dynamik |
+| R2 | Vitamin |
+| R3 | La Forme |
+| R4 | Regeneration |
+
 
 
 ## Apple Music

@@ -40,16 +40,17 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Charm Offensive |
+| A2 | Heaven Alive |
+| A3 | A Homage To A Shame |
+| B1 | Meredith |
+| B2 | Music For A Nurse |
+| C1 | New Pin |
+| C2 | No Tomorrow |
+| C3 | Mine Host |
+| D1 | You Can't Keep A Bad Man Down |
+| D2 | Ornament / The Last Wrongs |
+
 
 
 ## Apple Music

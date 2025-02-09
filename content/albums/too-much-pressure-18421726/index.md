@@ -37,21 +37,22 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Three Minute Hero |
+| A2 | Everyday |
+| A3 | They Make Me Mad |
+| A4 | Missing Words |
+| A5 | Danger |
+| A6 | Street Feeling |
+| A7 | My Collie (Not A Dog) |
+| B1 | Too Much Pressure |
+| B2 | Murder |
+| B3 | Out On The Streets |
+| B4 | Carry Go Bring Come |
+| B5 | Black And Blue |
+| B6 | James Bond |
+| C | On My Radio |
+| D | Too Much Pressure |
+
 
 
 ## Apple Music

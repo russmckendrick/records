@@ -43,23 +43,24 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Versions Of The Truth |
+| A2 | In Exile |
+| A3 | Warm Seas |
+| A4 | Our Mire |
+| B1 | Build A World |
+| B2 | Demons |
+| B3 | Driving Like Maniacs |
+| B4 | Someone Pull Me Out |
+| B5 | Uncovering Your Tracks |
+| C1 | Break It All |
+| C2 | White Mist |
+| C3 | Out Of Line |
+| C4 | Wretched Soul |
+| D1 | Far Below |
+| D2 | Threatening War |
+| D3 | The Swell |
+| D4 | The Final Thing On My Mind  |
+
 
 
 ## Apple Music

@@ -39,18 +39,19 @@ styles: ["Electric Blues", "Chicago Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Just Your Fool |
+| A2 | Commit A Crime |
+| A3 | Blue And Lonesome |
+| B1 | All Of Your Love |
+| B2 | I Gotta Go |
+| B3 | Everybody Knows About My Good Thing |
+| C1 | Ride 'Em On Down |
+| C2 | Hate To See You Go |
+| C3 | Hoo Doo Blues |
+| D1 | Little Rain |
+| D2 | Just Like I Treat You |
+| D3 | I Can't Quit You Baby |
+
 
 
 ## Apple Music

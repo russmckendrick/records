@@ -39,17 +39,18 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Restless |
+| A2 | Singularity |
+| A3 | Plastic |
+| B1 | Tutti Frutti |
+| B2 | People On The High Line |
+| B3 | Stray Dog |
+| C1 | Academic |
+| C2 | Nothing But A Fool |
+| D1 | Unlearn This Hatred |
+| D2 | The Game |
+| D3 | Superheated |
+
 
 
 ## Apple Music

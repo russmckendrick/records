@@ -31,15 +31,16 @@ styles: ["Sludge Metal", "Doom Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crown Of Electrodes |
+| A2 | OmegaMangler |
+| A3 | 9-13 |
+| A4 | Toadcrucifier / R.I.P.PER |
+| A5 | Destroyer 	 |
+| B1 | Mortarhex 	 |
+| B2 | The Rope  |
+| B3 | Doomsday Impulse Multiplier |
+| B4 | Moreland St. Hammervortex  |
+
 
 
 ## Apple Music

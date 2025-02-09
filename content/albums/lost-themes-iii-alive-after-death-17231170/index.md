@@ -38,16 +38,17 @@ Lost Themes III: Alive After Death is the third studio album by American film di
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Alive After Death |
+| A2 | Weeping Ghost |
+| A3 | Dripping Blood |
+| A4 | Dead Eyes |
+| A5 | Vampire's Touch |
+| B1 | Cemetery |
+| B2 | Skeleton |
+| B3 | Turning The Bones |
+| B4 | The Dead Walk |
+| B5 | Carpathian Darkness |
+
 
 
 ## Apple Music

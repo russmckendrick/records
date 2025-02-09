@@ -37,14 +37,15 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | More Than A Feeling |
+| A2 | Peace Of Mind |
+| A3 | Foreplay/Long Time |
+| B1 | Rock & Roll Band |
+| B2 | Smokin' |
+| B3 | Hitch A Ride |
+| B4 | Something About You |
+| B5 | Let Me Take You Home Tonight |
+
 
 
 ## Apple Music

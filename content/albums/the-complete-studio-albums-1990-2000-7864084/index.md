@@ -62,73 +62,71 @@ styles: ["Heavy Metal", "Thrash", "Groove Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Cowboys From Hell |
+| A1 | Cowboys From Hell |
+| A2 | Primal Concrete Sledge |
+| A3 | Psycho Holiday |
+| A4 | Heresy |
+| A5 | Cemetery Gates |
+| A6 | Domination |
+| B1 | Shattered |
+| B2 | Clash With Reality |
+| B3 | Medicine Man |
+| B4 | Message In Blood |
+| B5 | The Sleep |
+| B6 | The Art Of Shredding |
+|  | Vulgar Display Of Power |
+| C1 | Mouth For War |
+| C2 | A New Level |
+| C3 | Walk |
+| C4 | Fucking Hostile |
+| C5 | This Love |
+| C6 | Rise |
+| D1 | No Good (Attack The Radical) |
+| D2 | Live In A Hole |
+| D3 | Regular People (Conceit) |
+| D4 | By Demons Be Driven |
+| D5 | Hollow |
+|  | Far Beyond Driven |
+| E1 | Strength Beyond Strength |
+| E2 | Becoming |
+| E3 | 5 Minutes Alone |
+| E4 | I'm Broken |
+| E5 | Good Friends And A Bottle Of Pills |
+| E6 | Hard Lines, Sunken Cheeks |
+| F1 | Slaughtered |
+| F2 | 25 Years |
+| F3 | Shedding Skin |
+| F4 | Use My Third Arm |
+| F5 | Throes Of Rejection |
+| F6 | Planet Caravan |
+|  | The Great Southern Trendkill |
+| G1 | The Great Southern Trendkill |
+| G2 | War Nerve |
+| G3 | Drag The Waters |
+| G4 | 10's |
+| G5 | 13 Steps To Nowhere |
+| H1 | Suicide Note Pt. II |
+| H2 | Living Through Me (Hell's Wrath) |
+| H3 | Floods |
+| H4 | The Underground In America |
+| H5 | (Reprise) Sandblasted Skin |
+|  | Reinventing The Steel |
+| I1 | Hellbound |
+| I2 | Goddamn Electric |
+| I3 | Yesterday Don't Mean Shit |
+| I4 | You've Got To Belong To It |
+| I5 | Revolution Is My Name |
+| J1 | Death Rattle |
+| J2 | We'll Grind That Axe For A Long Time |
+| J3 | Uplift |
+| J4 | It Makes Them Disappear |
+| J5 | I'll Cast A Shadow |
+|  | Bonus 7" Single |
+| K | Piss |
+| L | Avoid The Light |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

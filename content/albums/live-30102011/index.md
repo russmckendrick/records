@@ -61,26 +61,27 @@ Captured live onstage at a variety of dates between 1990 and 1991, <I>AC/DC Live
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thunderstruck |
+| A2 | Shoot To Thrill |
+| A3 | Back In Black |
+| A4 | Sin City |
+| A5 | Who Made Who |
+| A6 | Fire Your Guns |
+| B1 | Jailbreak |
+| B2 | The Jack |
+| B3 | The Razor‘s Edge |
+| B4 | Dirty Deeds Done Dirt Cheap |
+| C1 | Hells Bells |
+| C2 | Heatseeker |
+| C3 | That‘s The Way I Wanna Rock‘n‘Roll |
+| C4 | High Voltage |
+| C5 | You Shook Me All Night Long |
+| D1 | Whole Lotta Rosie |
+| D2 | Let There Be Rock |
+| D3 | Highway To Hell |
+| D4 | T.N.T. |
+| D5 | For Those About To Rock (We Salute You) |
+
 
 
 ## Apple Music

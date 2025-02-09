@@ -29,68 +29,66 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Should Have Known Better |
+| A2 | A Better Home In The Phantom Zone |
+| A3 | Back To Nature |
+| A4 | Complicated Game (Steven Wilson 2014 Stereo Mix) |
+| B1 | Careering |
+| B2 | The Raven |
+| B3 | Puppet Life |
+| B4 | Astradyne (Steven Wilson Stereo Mix) |
+| B5 | Contract |
+| C1 | I Travel (Extended Version) |
+| C2 | Sketch For Summer |
+| C3 | Cognitive Dissonance (Steven Wilson 2022 Mix) |
+| C4 | The Fatal Day |
+| D1 | Health And Efficiency |
+| D2 | Burning Car |
+| D3 | I Can't Escape Myself |
+| D4 | The Eternal |
+| E1 | Big Empty Field |
+| E2 | Enemies |
+| E3 | The Joy Circuit |
+| E4 | The Gospel Comes To New Guinea |
+| F1 | All My Colours |
+| F2 | Ghost Town (Extended Version) |
+| F3 | They All Run After The Carving Knife |
+| F4 | The Him |
+| G1 | White Car In Germany (Single Edit) |
+| G2 | Sealand |
+| G3 | Talking Drum |
+| G4 | Faith |
+| H1 | Hit |
+| H2 | Three Dancers (Steven Wilson 2021 Mix) |
+| H3 | Airwaves |
+| H4 | Are You Ready? |
+| H5 | The Outsider |
+| I1 | Knife Slits Water |
+| I2 | Memories Fade |
+| I3 | Patient |
+| I4 | In A Waiting Room |
+| J1 | Donimo |
+| J2 | Close (To The Edit) |
+| J3 | Rawhide |
+| J4 | Brilliant Trees |
+| K1 | Dalis Car |
+| K2 | Dream Within A Dream |
+| K3 | Waking The Witch |
+| K4 | Ivy And Neet |
+| L1 | Beehead (7" Version) |
+| L2 | This Corrosion |
+| L3 | Ascension |
+| L4 | Gutter Busting |
+| M1 | No Motion |
+| M2 | Murderers, The Hope Of Women |
+| M3 | The Host Of Seraphim |
+| M4 | R.E.S. |
+| N1 | Good Morning Beautiful |
+| N2 | Omega Amigo |
+| N3 | Night Sky, Sweet Earth |
+| N4 | The 3rd Time We Opened The Capsule |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

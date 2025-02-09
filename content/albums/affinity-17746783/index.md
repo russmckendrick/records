@@ -29,24 +29,25 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A01 | Affinity.exe |
+| A02 | Initiate |
+| A03 | 1985 |
+| A04 | Lapse |
+| B01 | The Architect |
+| C01 | Earthrise |
+| C02 | Red Giant |
+| D01 | The Endless Knot |
+| D02 | Bound By Gravity |
+| CD-1 | Affinity.exe |
+| CD-2 | Initiate |
+| CD-3 | 1985 |
+| CD-4 | Lapse |
+| CD-5 | The Architect |
+| CD-6 | Earthrise |
+| CD-7 | Red Giant |
+| CD-8 | The Endless Knot |
+| CD-9 | Bound By Gravity |
+
 
 
 ## Apple Music

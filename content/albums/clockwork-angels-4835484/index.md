@@ -43,18 +43,19 @@ The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. Th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Caravan |
+| A2 | BU2B |
+| A3 | Clockwork Angels |
+| B1 | The Anarchist |
+| B2 | Carnies |
+| B3 | Halo Effect |
+| C1 | Seven Cities Of Gold |
+| C2 | The Wreckers |
+| C3 | Headlong Flight |
+| D1 | BU2B2 |
+| D2 | Wish Them Well |
+| D3 | The Garden |
+
 
 
 ## Apple Music

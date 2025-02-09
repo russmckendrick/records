@@ -39,14 +39,15 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gaza |
+| B1 | Sounds That Can't Be Made |
+| B2 | Pour My Love |
+| B3 | Power |
+| C1 | Montréal |
+| C2 | Invisible Ink |
+| D1 | Lucky Man |
+| D2 | The Sky Above The Rain |
+
 
 
 ## Apple Music

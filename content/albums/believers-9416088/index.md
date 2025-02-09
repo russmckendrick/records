@@ -31,18 +31,19 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Believers |
+| A2 | This Is A Love Song |
+| A3 | I Will And I Won't |
+| A4 | Meteors |
+| A5 | Gone |
+| A6 | What I Left Out |
+| B1 | A Boy |
+| B2 | Birds |
+| B3 | You Can't Know Everything |
+| B4 | Delivery Man |
+| B5 | Come Awake |
+| B6 | B Boy |
+
 
 
 ## Apple Music

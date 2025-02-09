@@ -35,34 +35,35 @@ styles: ["Thrash", "Death Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Chaos A.D. (2017 Remaster) |
+| A1 | Refuse/Resist |
+| A2 | Territory |
+| A3 | Slave New World |
+| A4 | Amen |
+| A5 | Kaiowas |
+| A6 | Propaganda |
+| B1 | Biotech Is Godzilla |
+| B2 | Nomad |
+| B3 | We Who Are Not As Others |
+| B4 | Manifest |
+| B5 | The Hunt |
+| B6 | Clenched Fist |
+|  | Bonus Tracks |
+| C1 | Chaos B.C. |
+| C2 | Symptom Of The Universe (Black Sabbath Cover) |
+| C3 | Inhuman Nature |
+| C4 | Policia |
+| C5 | Crucificados Pelo Sistema |
+| C6 | Propaganda (Instrumental Writing Session) |
+| C7 | Clenched Fist (Instrumental Writing Session Ver. 2) |
+| D1 | Refuse/Resist (Live) |
+| D2 | Slave New World (Live) |
+| D3 | Propaganda (Live) |
+| D4 | Kaiowas (Live) |
+| D5 | Clenched Fist (Live) |
+| D6 | Biotech Is Godzilla (Live) |
+| D7 | Territory (Live) |
+
 
 
 ## Apple Music

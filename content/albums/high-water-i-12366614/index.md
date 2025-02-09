@@ -35,18 +35,19 @@ High Water I is the debut studio album by American rock band The Magpie Salute, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mary The Gypsy |
+| A2 | High Water |
+| A3 | Send Me An Omen |
+| B1 | For The Wind |
+| B2 | Sister Moon |
+| B3 | Color Blind |
+| C1 | Take It All |
+| C2 | Walk On Water |
+| C3 | Hand In Hand |
+| D1 | You Found Me |
+| D2 | Can You See |
+| D3 | Open Up |
+
 
 
 ## Apple Music

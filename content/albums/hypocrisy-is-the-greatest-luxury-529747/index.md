@@ -42,20 +42,21 @@ Hypocrisy Is the Greatest Luxury is the debut album by alternative hip hop crew 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Satanic Reverses |
+| A2 | Famous And Dandy (Like Amos 'N' Andy) |
+| A3 | Television, The Drug Of The Nation |
+| A4 | Language Of Violence |
+| A5 | The Winter Of The Long Hot Summer |
+| B1 | Hypocrisy Is The Greatest Luxury |
+| B2 | Everyday Life Has Become A Health Risk |
+| B3 | Ins Greencard A-19 191 500 |
+| B4 | Socio-Genetic Experiment |
+| B5 | Music And Politics |
+| B6 | Financial Leprosy |
+| B7 | California Über Alles |
+| B8 | Water Pistol Man |
+| C | Rock The Vote (Exercise Your Right) |
+
 
 
 ## Apple Music

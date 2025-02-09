@@ -28,13 +28,11 @@ styles: ["Pop Rock", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| 1 | Science Friction |
+| 2 | She's So Square |
+| 3 | Dance Band |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

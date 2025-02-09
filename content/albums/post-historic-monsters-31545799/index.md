@@ -41,27 +41,28 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 2 Million Years B.C. |
+| A2 | The Music That Nobody Likes |
+| A3 | Mid Day Crisis |
+| A4 | Cheer Up, It Might Never Happen |
+| A5 | Stuff The Jubilee! |
+| B1 | A Bachelor For Baden Powell |
+| B2 | Spoilsports Personality Of The Year |
+| B3 | Suicide Isn't Painless |
+| B4 | Being Here |
+| B5 | Evil |
+| C1 | Sing Fat Lady Sing |
+| C2 | Travis |
+| C3 | Lean On Me I Won't Fall Over |
+| C4 | Lenny And Terence |
+| C5 | Under The Thumb And Over The Moon |
+| D1 | Glam Rock Cops |
+| D2 | Hit |
+| D3 | Always The Bridesmaid Never The Bride |
+| D4 | Her Song |
+| D5 | Commercial Fucking Suicide (Part 1) |
+| D6 | Stuff The Jubilee |
+
 
 
 ## Apple Music

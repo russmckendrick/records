@@ -27,17 +27,18 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Here I Am In London Town |
+| A2 | The Hipsters |
+| A3 | Stars |
+| A4 | Turn |
+| A5 | The Rest |
+| A6 | The Outsiders |
+| B1 | That's What We Can Do |
+| B2 | She'll Understand |
+| B3 | Laura From Memory |
+| B4 | It Will End In Tears |
+| B5 | Is There No Way Back To You |
+
 
 
 ## Apple Music

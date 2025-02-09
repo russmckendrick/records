@@ -39,17 +39,18 @@ Let It Come Down is the fourth studio album by the rock band Spiritualized, rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | On Fire |
+| A2 | Do It All Over Again |
+| A3 | Don't Just Do Something |
+| B1 | Out Of Sight |
+| B2 | The Twelve Steps |
+| B3 | The Straight And The Narrow |
+| C1 | I Didn't Mean To Hurt You |
+| C2 | Stop Your Crying |
+| C3 | Anything More |
+| D1 | Won't Get To Heaven (The State I'm In) |
+| D2 | Lord Can You Hear Me |
+
 
 
 ## Apple Music

@@ -32,17 +32,18 @@ Lost Themes II is the second studio album by American film director and composer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Distant Dream |
+| A2 | White Pulse |
+| A3 | Persia Rising |
+| A4 | Angel's Asylum |
+| A5 | Hofner Dawn |
+| A6 | Windy Death |
+| B1 | Dark Blues |
+| B2 | Virtual Survivor |
+| B3 | Bela Lugosi |
+| B4 | Last Sunrise |
+| B5 | Utopian Facade |
+
 
 
 ## Apple Music

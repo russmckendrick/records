@@ -34,20 +34,21 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Banana Skin Shoes |
+| A2 | Is This A Dream? |
+| A3 | I Just Wanna Wish You Happiness |
+| A4 | I'm Not Sure What It Is |
+| B1 | Tony Wilson Said |
+| B2 | You And Me Against The World |
+| B3 | I Need Someone To Trust |
+| C1 | Note To Self |
+| C2 | Colours |
+| C3 | Funny Time Of Year |
+| D1 | Fly On The Wall |
+| D2 | Never Change |
+| D3 | Appletree Boulevard |
+| D4 | I'll Do My Best |
+
 
 
 ## Apple Music

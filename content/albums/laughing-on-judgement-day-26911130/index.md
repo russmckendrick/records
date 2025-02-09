@@ -41,23 +41,24 @@ Laughing on Judgement Day was promoted on the Laughing All Over the World Tour b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Does It Feel Like Love ? |
+| A2 | Everybody Wants Her |
+| A3 | Low Life In High Places |
+| A4 | Laughing On Judgement Day |
+| B1 | Empty City |
+| B2 | Today The World Stopped Turning |
+| B3 | Long Way From Home |
+| B4 | Fire To Ice |
+| C1 | Feeding The Flame |
+| C2 | A Better Man |
+| C3 | The Moment Of Truth |
+| C4 | Flawed To Perfection |
+| C5 | Like A Satellite |
+| D1 | Baby I`ll Be Gone |
+| D2 | A Better Man (Live) |
+| D3 | The Moment Of Truth (Live) |
+| D4 | Like A Satellite (Live) |
+
 
 
 ## Apple Music

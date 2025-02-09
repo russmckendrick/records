@@ -42,16 +42,17 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dreamline |
+| A2 | Bravado |
+| A3 | Roll The Bones |
+| A4 | Face Up |
+| A5 | Where's My Thing? (Part IV, "Gangster Of Boats" Trilogy) |
+| B1 | The Big Wheel |
+| B2 | Heresy |
+| B3 | Ghost Of A Chance |
+| B4 | Neurotica |
+| B5 | You Bet Your Life |
+
 
 
 ## Apple Music

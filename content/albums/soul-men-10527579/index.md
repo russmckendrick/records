@@ -36,17 +36,18 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Soul Man |
+| A2 | May I Baby |
+| A3 | Broke Down Piece Of Man |
+| A4 | Let It Be Me |
+| A5 | Hold It Baby |
+| A6 | I'm With You |
+| B1 | Don't Knock It |
+| B2 | Just Keep Holding On |
+| B3 | The Good Runs The Bad Way |
+| B4 | Rich Kind Of Poverty |
+| B5 | I've Seen What Loneliness Can Do |
+
 
 
 ## Apple Music

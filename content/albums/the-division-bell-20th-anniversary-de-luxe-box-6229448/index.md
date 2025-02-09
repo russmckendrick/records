@@ -30,30 +30,28 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Cluster One |
+| 2 | What Do You Want From Me |
+| 3 | Poles Apart |
+| 4 | Marroned |
+| 5 | A Great Day For Freedom |
+| 6 | Wearing The Inside Out |
+| 7 | Take It Back |
+| 8 | Coming Back To Life |
+| 9 | Keep Talking |
+| 10 | Lost For Words |
+| 11 | High Hopes |
+| Vinyl 3-A | Take It Back (Edit) |
+| Vinyl 3-B | Astronomy Domine (Live) |
+| Vinyl 4-A | High Hopes (Edit) |
+| Vinyl 4-B | Keep Talking (Edit) |
+| Vinyl 5-A1 | The Fate Of The Bell (High Hopes - Radio Edit) |
+| Vinyl 5-A2 | Keep Talking (Radio Edit) |
+| Vinyl 5-B | One Of These Days (Live) |
+| CD | CD  Tsui (The Division Bell) |
+| BR | Blu-ray Disc (All PCM Stereo and Unreleased 5.1 Mix Audio And Video)  |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

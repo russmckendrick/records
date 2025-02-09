@@ -40,26 +40,27 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mantra Slider |
+| A2 | Firmament Vacation (A Soundtrack Of Our Lives) |
+| A3 | Underground Indian |
+| A4 | Chromosome Layer |
+| B1 | Instant Repeater '99 |
+| B2 | Embryonic Rendezvous |
+| B3 | Four Ages (Part II) |
+| B4 | Grand Canaria |
+| B5 | Endless Song |
+| C1 | Confrontation Camp |
+| C2 | Blow My Cool |
+| C3 | Senior Breakdown |
+| C4 | Bendover Babies |
+| C5 | The Homo Habilis Blues |
+| C6 | For Good |
+| D1 | Magic Muslims |
+| D2 | Rest In Piece |
+| D3 | Retro Man |
+| D4 | Theme From Hållö |
+| D5 | Legend In His Own Mind |
+
 
 
 ## Apple Music

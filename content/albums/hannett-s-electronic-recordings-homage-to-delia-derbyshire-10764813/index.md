@@ -27,24 +27,25 @@ styles: ["Experimental", "Synthwave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Martin On Synths, Keyboards Etc - Track A |
+| A2 | Homage To Delia Derbyshire, Pt. 2 |
+| A3 | Homage To Delia Derbyshire, Pt, 3 |
+| A4 | Martin Plays Bass |
+| A5 | Homage To Delia Derbyshire, Pt. 5 |
+| A6 | Homage To Delia Derbyshire, Pt. 6 |
+| A7 | Martin On Synths, Keyboards Etc - Track C |
+| A8 | Homage To Delia Derbyshire, Pt. 8 |
+| B1 | Martin On Syndrums |
+| B2 | Homage To Delia Derbyshire, Pt. 10 |
+| B3 | Homage To Delia Derbyshire, Pt. 11 |
+| B4 | Homage To Delia Derbyshire, Pt. 12 |
+| B5 | Homage To Delia Derbyshire, Pt. 13 |
+| B6 | Homage To Delia Derbyshire, Pt. 14 |
+| B7 | Homage To Delia Derbyshire, Pt. 15 |
+| B8 | Martin On Synths, Metronome Etc |
+| B9 | Homage To Delia Derbyshire, Pt. 17 |
+| B10 | Homage To Delia Derbyshire, Pt. 18 |
+
 
 
 ## Apple Music

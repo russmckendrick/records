@@ -30,18 +30,19 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Killing Floor |
+| A2 | Louise |
+| A3 | Poor Boy |
+| A4 | Sittin' On Top Of The World |
+| A5 | Nature |
+| A6 | My Country Sugar Mama (Aka Sugar Mama) |
+| B1 | Tail Dragger |
+| B2 | Three Hundred Pounds Of Joy |
+| B3 | Natchez Burning |
+| B4 | Built For Comfort |
+| B5 | Ooh Baby, Hold Me |
+| B6 | Tell Me What I've Done |
+
 
 
 ## Apple Music

@@ -32,16 +32,17 @@ Three singles were issued from Ride a Rock Horse: "Get Your Love", "Walking the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Get Your Love |
+| A2 | Hearts Right |
+| A3 | Oceans Away |
+| A4 | Proud |
+| A5 | World Over |
+| B1 | Near To Surrender |
+| B2 | Feeling |
+| B3 | Walking The Dog |
+| B4 | Milk Train |
+| B5 | Born To Sing Your Song |
+
 
 
 ## Apple Music

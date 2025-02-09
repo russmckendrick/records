@@ -33,8 +33,9 @@ Riley's record deal with CBS was part of "Music of Our Time," a short-lived albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | A Rainbow In Curved Air |
+| B | Poppy Nogood And The Phantom Band |
+
 
 
 ## Apple Music

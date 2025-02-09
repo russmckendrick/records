@@ -41,19 +41,20 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Grudge |
+| A2 | Eon Blue Apocalypse |
+| A3 | The Patient |
+| A4 | Mantra |
+| B1 | Schism |
+| B2 | Parabol |
+| B3 | Parabola |
+| B4 | Disposition |
+| C1 | Ticks & Leeches |
+| C2 | Lateralus |
+| D1 | Reflection |
+| D2 | Triad |
+| D3 | Faaip De Oiad |
+
 
 
 ## Apple Music

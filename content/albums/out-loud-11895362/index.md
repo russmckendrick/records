@@ -33,11 +33,12 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Man In A White World (Live From The Royal Albert Hall) |
+| A2 | One More Night (Live From The London Palladium) |
+| A3 | Tell Me A Tale (Live From The Birmingham Symphony Hall) |
+| B1 | Father's Child (Live From The Royal Albert Hall) |
+| B2 | Love And Hate (Live From The Royal Albert Hall) |
+
 
 
 ## Apple Music

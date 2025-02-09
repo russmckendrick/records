@@ -31,18 +31,19 @@ styles: ["Acoustic"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Slow Disco |
+| A2 | Savior |
+| A3 | Masseduction |
+| A4 | Sugarboy |
+| A5 | Fear The Future |
+| A6 | Smoking Section |
+| B1 | Los Ageless |
+| B2 | New York |
+| B3 | Young Lover |
+| B4 | Happy Birthday, Johnny |
+| B5 | Pills |
+| B6 | Hang On Me |
+
 
 
 ## Apple Music

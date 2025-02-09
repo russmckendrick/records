@@ -34,18 +34,19 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | We Love The City |
+| A2 | The Greedy Ugly People |
+| A3 | Good Fruit |
+| A4 | Painting And Kissing |
+| A5 | Hold Me Closer |
+| A6 | Don't Go |
+| B1 | The Greater London Radio |
+| B2 | As Soon As You're Ready |
+| B3 | She Can't Sleep No More |
+| B4 | The Cure For Evil |
+| B5 | The Day That Thatcher Dies |
+| B6 | Your Head To Your Toes |
+
 
 
 ## Apple Music

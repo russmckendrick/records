@@ -29,18 +29,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Welcome To Detroit / The Diary |
+| A2 | Workinonit |
+| A3 | Stop |
+| A4 | Dilla Mix 1 |
+| A5 | Dilla Mix 2 |
+| A6 | Raw Shit |
+| B1 | Official / Fall In Love |
+| B2 | Love |
+| B3 | So Far To Go |
+| B4 | A.N.G.E.L. |
+| B5 | King |
+| B6 | Two Can Win |
+
 
 
 ## Apple Music

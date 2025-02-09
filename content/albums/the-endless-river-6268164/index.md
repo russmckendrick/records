@@ -59,24 +59,25 @@ The Endless River was promoted with the "Louder than Words" single and artwork i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Things Left Unsaid |
+| A2 | It's What We Do |
+| A3 | Ebb And Flow |
+| B1 | Sum |
+| B2 | Skins |
+| B3 | Unsung |
+| B4 | Anisina |
+| C1 |  The Lost Art Of Conversation |
+| C2 | On Noodle Street |
+| C3 | Night Light |
+| C4 |  Allons-y (1) |
+| C5 | Autumn '68 |
+| C6 | Allons-y (2) |
+| C7 | Talkin' Hawkin' |
+| D1 | Calling |
+| D2 | Eyes To Pearls |
+| D3 | Surfacing |
+| D4 | Louder Than Words |
+
 
 
 ## Apple Music

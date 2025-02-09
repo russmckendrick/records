@@ -30,16 +30,17 @@ Recorded with producers Paul Staveley O'Duffy and Martyn Phillips, Happiness exe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hello |
+| A2 | Your Love Takes Me Higher |
+| A3 | Time After Time |
+| B1 | Don't You Worry |
+| B2 | Scarlet Beautiful |
+| B3 | I Love You More |
+| C1 | The Sun Rising |
+| C2 | Wake Up Soon |
+| D1 | Up, Up And Away |
+| D2 | Found |
+
 
 
 ## Apple Music

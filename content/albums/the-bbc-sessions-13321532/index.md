@@ -37,20 +37,21 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The State I Am In |
+| A2 | Like Dylan In The Movies |
+| A3 | Judy And The Dream Of Horses |
+| A4 | The Stars Of Track And Field |
+| B1 | I Could Be Dreaming |
+| B2 | Seymour Stein |
+| B3 | Lazy Jane |
+| C1 | Sleep The Clock Around |
+| C2 | Slow Graffiti |
+| C3 | Wrong Love |
+| D1 | Shoot The Sexual Athlete |
+| D2 | The Magic Of A Kind Word |
+| D3 | Nothing In The Silence |
+| D4 | (My Girl's Got) Miraculous Technique |
+
 
 
 ## Apple Music

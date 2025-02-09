@@ -30,16 +30,17 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jack Shit George |
+| A2 | The Passing Show |
+| A3 | You're My Baby |
+| A4 | Honeysuckle Highway |
+| A5 | Itinerant Child |
+| B1 | Geraldine |
+| B2 | Cacka Boom |
+| B3 | Bed O' Roses No. 9 |
+| B4 | Heavy Living |
+| B5 | Mash It Up Harry |
+
 
 
 ## Apple Music

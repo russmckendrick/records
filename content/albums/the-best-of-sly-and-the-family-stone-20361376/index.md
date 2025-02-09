@@ -34,26 +34,27 @@ styles: ["Funk", "Psychedelic", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dance To The Music |
+| A2 | I Want To Take You Higher |
+| A3 | Family Affair |
+| A4 | Thank You (Falettinme Be Mice Elf Again) |
+| A5 | I Get High On You |
+| B1 | Stand |
+| B2 | M' Lady |
+| B3 | Skin I'm In |
+| B4 | Everyday People |
+| B5 | Sing A Simple Song |
+| C1 | Hot Fun In The Summertime |
+| C2 | Don't Call Me Nigger, Whitey |
+| C3 | Brave & Strong |
+| C4 | Life |
+| C5 | Everybody Is A Star |
+| D1 | If You Want Me To Stay |
+| D2 | (You Caught Me) Smilin' |
+| D3 | Que Sera Sera (Whatever Will Be Will Be) |
+| D4 | Runnin' Away |
+| D5 | Family Affair (Remix) |
+
 
 
 ## Apple Music

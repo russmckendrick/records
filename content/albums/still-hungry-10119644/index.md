@@ -30,16 +30,17 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Still Hungry |
+| A2 | We're Back |
+| A3 | Dirt |
+| A4 | Behind The Scenes |
+| A5 | Reflective Meditation Rhymes |
+| B1 | Diamond Hammer |
+| B2 | No Time |
+| B3 | Forged From Hardship |
+| B4 | White Rapper |
+| B5 | We Say |
+
 
 
 ## Apple Music

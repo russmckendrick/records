@@ -28,32 +28,33 @@ styles: ["Art Rock", "Avantgarde", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lansing |
+| A2 | Bone Rage |
+| A3 | Give Us The Gold |
+| A4 | Hold Me In |
+| A5 | Egg Replacer |
+| A6 | Cradle Of Rocks |
+| A7 | Lovell |
+| B1 | Lovemenot |
+| B2 | Bird Song |
+| B3 | Catch Light |
+| B4 | Garbage Shark |
+| B5 | Golden Hour |
+| B6 | It Happens |
+| CD-1 | Lansing |
+| CD-2 | Bone Rage |
+| CD-3 | Give Us The Gold |
+| CD-4 | Hold Me In |
+| CD-5 | Egg Replacer |
+| CD-6 | Cradle Of Rocks |
+| CD-7 | Lovell |
+| CD-8 | Lovemenot |
+| CD-9 | Bird Song |
+| CD-10 | Catch Light |
+| CD-11 | Garbage Shark |
+| CD-12 | Golden Hour |
+| CD-13 | It Happens |
+
 
 
 ## Apple Music

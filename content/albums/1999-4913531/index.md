@@ -45,17 +45,18 @@ styles: ["Minneapolis Sound", "Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 1999 |
+| A2 | Little Red Corvette |
+| A3 | Delirious |
+| B1 | Let's Pretend We're Married |
+| B2 | D.M.S.R. |
+| C1 | Automatic |
+| C2 | Something In The Water (Does Not Compute) |
+| C3 | Free |
+| D1 | Lady Cab Driver |
+| D2 | All The Critics Love U In New York |
+| D3 | International Lover |
+
 
 
 ## Apple Music

@@ -28,36 +28,37 @@ styles: ["Progressive Metal", "Heavy Metal", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Velvet Kevorkian |
+| A2 | All Hail The New Flesh |
+| A3 | By Your Command |
+| A4 | Almost Again |
+| B1 | Juular |
+| B2 | March Of The Poozers |
+| B3 | Supercrush! |
+| B4 | Hyperdrive |
+| C1 | Stormbending |
+| C2 | Deadhead |
+| C3 | Aftermath |
+| D1 | Love? |
+| D2 | Spirits Will Collide |
+| D3 | Kingdom |
+| D4 | Detox |
+| CD-1 | Velvet Kevorkian |
+| CD-2 | All Hail The New Flesh |
+| CD-3 | By Your Command |
+| CD-4 | Almost Again |
+| CD-5 | Juular |
+| CD-6 | March Of The Poozers |
+| CD-7 | Supercrush! |
+| CD-8 | Hyperdrive |
+| CD-9 | Stormbending |
+| CD-10 | Deadhead |
+| CD-11 | Aftermath |
+| CD-12 | Love? |
+| CD-13 | Spirits Will Collide |
+| CD-14 | Kingdom |
+| CD-15 | Detox |
+
 
 
 ## Apple Music

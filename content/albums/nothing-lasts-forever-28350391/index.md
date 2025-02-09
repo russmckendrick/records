@@ -31,16 +31,17 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Foreign Land |
+| A2 | Tired Of Being Alone  |
+| A3 | I Left A Light On |
+| A4 | See The Light |
+| A5 | It’s Alright  |
+| B1 | Falling Into The Sun |
+| B2 | Self-Sedation  |
+| B3 | Middle Of My Mind |
+| B4 | Back To The Light |
+| B5 | I Will Love You |
+
 
 
 ## Apple Music

@@ -35,21 +35,22 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trompe Le Monde |
+| A2 | Planet Of Sound |
+| A3 | Alec Eiffel |
+| A4 | The Sad Punk |
+| A5 | Head On |
+| A6 | U-Mass |
+| A7 | Palace Of The Brine |
+| A8 | Letter To Memphis |
+| B1 | Bird Dream Of The Olympus Mons |
+| B2 | Space (I Believe In) |
+| B3 | Subbacultcha |
+| B4 | Distance Equals Rate Times Time |
+| B5 | Lovely Day |
+| B6 | Motorway To Roswell |
+| B7 | The Navajo Know |
+
 
 
 ## Apple Music

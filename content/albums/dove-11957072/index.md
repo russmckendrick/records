@@ -30,16 +30,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Stars Align |
+| A2 | Shiny One |
+| A3 | Girl |
+| A4 | Faceless |
+| A5 | Suffer The Fools |
+| B6 | Mine |
+| B7 | Human Child |
+| B8 | Army Of Clay |
+| B9 | Artifact |
+| B10 | Heartstrings |
+
 
 
 ## Apple Music

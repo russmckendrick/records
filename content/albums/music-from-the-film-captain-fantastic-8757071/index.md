@@ -33,30 +33,31 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A New Beginning |
+| A2 | Church |
+| A3 | Campfire |
+| A4 | Funeral Pyre |
+| A5 | She Slit Her Wrists |
+| B1 | Memories |
+| B2 | Fireflies |
+| B3 | Home |
+| B4 | Fell |
+| B5 | Dream |
+| B6 | Near Death |
+| B7 | Water (I'm Right Here) |
+| B8 | School Bus |
+| C1 | Forrest |
+| C2 | Look Forward To |
+| C3 | Keepsakes |
+| C4 | Remembering |
+| D1 | Unsoundness |
+| D2 | Waving Goodbye |
+| D3 | Day Of Your Birth |
+| D4 | Water (Not Go Home) |
+| D5 | Goodbye... |
+| D6 | Disappear |
+| D7 | Fortress |
+
 
 
 ## Apple Music

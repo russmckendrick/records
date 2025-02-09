@@ -30,13 +30,14 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Descend |
+| A2 | Festival |
+| A3 | The Drift |
+| A4 | Contrition |
+| B1 | Chasm |
+| B2 | The Preacher |
+| B3 | The Rise Of Desiderata |
+
 
 
 ## Apple Music

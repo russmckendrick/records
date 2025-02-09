@@ -36,16 +36,17 @@ The album had sold around 15,000 copies before it was picked up by Island.  "My 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | My Umbrella |
+| A2 | One Through Four |
+| A3 | Lost And Found |
+| A4 | Change Of Mind |
+| A5 | On The Ground |
+| A6 | The Morning |
+| B1 | Blown Away |
+| B2 | Brown-Eyed Pickle Boy |
+| B3 | Miles And Miles Of Pain |
+| B4 | Triangle |
+
 
 
 ## Apple Music

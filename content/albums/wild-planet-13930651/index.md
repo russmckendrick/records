@@ -37,15 +37,16 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Party Out Of Bounds |
+| A2 | Dirty Back Road |
+| A3 | Runnin' Around |
+| A4 | Give Me Back My Man |
+| A5 | Private Idaho |
+| B1 | Devil In My Car |
+| B2 | Quiche Lorraine |
+| B3 | Strobe Light |
+| B4 | 53 Miles West Of Venus |
+
 
 
 ## Apple Music

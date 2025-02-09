@@ -37,19 +37,20 @@ The album was a critical and commercial success, debuting at number four on the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Quasar |
+| A2 | Panopticon |
+| A3 | The Celestials |
+| A4 | Violet Rays |
+| B1 | My Love Is Winter |
+| B2 | One Diamond, One Heart |
+| B3 | Pinwheels |
+| C1 | Oceania |
+| C2 | Pale Horse |
+| C3 | The Chimera |
+| D1 | Glissandra |
+| D2 | Inkless |
+| D3 | Wildflower |
+
 
 
 ## Apple Music

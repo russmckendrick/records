@@ -32,16 +32,17 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Denver Haircut |
+| A2 | Epaulets |
+| A3 | You Did Good Kid |
+| A4 | Traditional Village |
+| A5 | Blackout Sam |
+| B1 | Entitlement Crew |
+| B2 | T-Shirt Tux |
+| B3 | Star 18 |
+| B4 | The Stove & The Toaster |
+| B5 | Confusion In The Marketplace |
+
 
 
 ## Apple Music

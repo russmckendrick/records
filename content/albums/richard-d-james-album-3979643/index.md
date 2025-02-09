@@ -34,16 +34,17 @@ Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 4 |
+| A2 | Cornish Acid |
+| A3 | Peek 824545201 |
+| A4 | Fingerbib |
+| A5 | Carn Marth |
+| B1 | To Cure A Weakling Child |
+| B2 | Goon Gumpas |
+| B3 | Yellow Calx |
+| B4 | Girl/Boy Song |
+| B5 | Logan-Rock Witch |
+
 
 
 ## Apple Music

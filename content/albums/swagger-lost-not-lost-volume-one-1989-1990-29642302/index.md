@@ -31,19 +31,17 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Flowermouth |
+| A2 | Bleed  |
+| A3 | Life Is Elsewhere |
+| A4 | Mouth Was Blue |
+| A5 | Curtain Dream  |
+| B1 | Learn To Fear |
+| B2 | See No Angels |
+| B3 | Sit Silent |
+| B4 | Swirl |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

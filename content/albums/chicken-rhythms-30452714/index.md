@@ -34,16 +34,17 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Take 5 |
+| A2 | Weight Of Air |
+| A3 | Funky Munky |
+| A4 | A Change Is On Its Way |
+| A5 | Yeah Man |
+| B1 | Tour De World |
+| B2 | Wishful Thinking |
+| B3 | Shall We Take A Trip |
+| B4 | Who's To Blame |
+| B5 | Practise Makes Perfect |
+
 
 
 ## Apple Music

@@ -28,28 +28,29 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Radio Voltaire |
+| A2 | The Dead Club |
+| A3 | Idlewild |
+| B1 | I Don't Know Why |
+| B2 | I Won't Break So Easily Any More |
+| B3 | Temple Tudor |
+| C1 | Out Of Time |
+| C2 | Warmth Of The Sun |
+| C3 | Grey Shapes On Concrete Fields |
+| D1 | Keep The Faith |
+| D2 | The Silent Fighter Pilot |
+| CD1 | Radio Voltaire |
+| CD2 | The Dead Club |
+| CD3 | Idlewild |
+| CD4 | I Don't Know Why |
+| CD5 | I Won't Break So Easily Any More |
+| CD6 | Temple Tudor |
+| CD7 | Out Of Time |
+| CD8 | Warmth Of The Sun |
+| CD9 | Grey Shapes On Concrete Fields |
+| CD10 | Keep The Faith |
+| CD11 | The Silent Fighter Pilot |
+
 
 
 ## Apple Music

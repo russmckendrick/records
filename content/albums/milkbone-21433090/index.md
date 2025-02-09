@@ -30,17 +30,18 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Canterbury |
+| A2 | Leaving Hawksbill |
+| A3 | Toys Hill |
+| A4 | Automatic Foot |
+| A5 | Milkbone |
+| A6 | Two Sequences |
+| B1 | Bleak Strategy |
+| B2 | Soft Weed |
+| B3 | Red Shift |
+| B4 | Cecilia |
+| B5 | Velvet Black |
+
 
 
 ## Apple Music

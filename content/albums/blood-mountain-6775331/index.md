@@ -38,18 +38,19 @@ The album includes guest appearances by Scott Kelly of Neurosis on "Crystal Skul
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Wolf Is Loose |
+| A2 | Crystal Skull |
+| A3 | Sleeping Giant |
+| A4 | Capillarian Crest |
+| A5 | Circle Of Cysquatch |
+| A6 | Bladecatcher |
+| B7 | Colony Of Birchmen |
+| B8 | Hunters Of The Sky |
+| B9 | Hand Of The Stone |
+| B10 | This Mortal Soil |
+| B11 | Siberian Divide |
+| B12 | Pendulous Skin |
+
 
 
 ## Apple Music

@@ -46,16 +46,17 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Oh Baby |
+| A2 | Other Voices |
+| A3 | I Used To |
+| B1 | Change Yr Mind |
+| B2 | How Do You Sleep? |
+| C1 | Tonite |
+| C2 | Call The Police |
+| C3 | American Dream  |
+| D1 | Emotional Haircut |
+| D2 | Black Screen |
+
 
 
 ## Apple Music

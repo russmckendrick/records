@@ -30,16 +30,17 @@ This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for are
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Don't Let Him Go |
+| A2 | Keep On Loving You |
+| A3 | Follow My Heart |
+| A4 | In Your Letter |
+| A5 | Take It On The Run |
+| B1 | Tough Guys |
+| B2 | Out Of Season |
+| B3 | Shakin' It Loose |
+| B4 | Someone Tonight |
+| B5 | I Wish You Were There |
+
 
 
 ## Apple Music

@@ -50,48 +50,49 @@ styles: ["Glam", "Synth-pop", "Art Rock", "Leftfield", "Pop Rock", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sparks Documentary Film Fanfare |
+| A2 | This Town Ain’t Big Enough For Both Of Us |
+| A3 | Fa La Fa Lee |
+| A4 | Slowboat |
+| A5 | Wonder Girl |
+| A6 | Girl From Germany |
+| A7 | Talent Is An Asset |
+| B8 | This Town Ain’t Big Enough For Both Of Us |
+| B9 | Amateur Hour |
+| B10  | Never Turn Your Back On Mother Earth |
+| B11 | Something For The Girl With Everything |
+| B12 | Get In The Swing |
+| B13 | Under The Table With Her |
+| B14 | Everybody's Stupid |
+| C15 | Those Mysteries |
+| C16 | La Dolce Vita |
+| C17 | Beat The Clock |
+| C18 | The Number One Song In Heaven (7" Version) |
+| D19 | When I'm With You |
+| D20 | Tips For Teens |
+| D21 | Angst In My Pants |
+| D22 | I Predict |
+| D23 | Cool Places |
+| D24 | I Wish I Looked A Little Better |
+| E25 | Change |
+| E26 | Music That You Can Dance To |
+| E27 | The Race For President |
+| E28 | When Do I Get To Sing ‘My Way’ |
+| E29 | Balls |
+| F30 | The Rhythm Thief |
+| F31 | My Baby’s Taking Me Home (Live In London 2018) |
+| F32 | Dick Around |
+| F33 | I Can’t Believe That You Would Fall For All The Crap In This Song |
+| G34 | Johnny Delusional |
+| G35 | Edith Piaf (Said It Better Than Me) |
+| G36 | All That |
+| G37 | The Number One Song In Heaven (Live 2012) |
+| H38 | Computer Girl |
+| H39 | Hospitality On Parade (Live At Fairfield Halls 1975) |
+| H40 | What The Hell Is It This Time? (Live In London 2018) |
+|  | ‘My Way’ / When Do I Get To Sing ‘My Way’ (Live In London 2018) |
+| H42 | Amateur Hour |
+
 
 
 ## Apple Music

@@ -38,16 +38,17 @@ And because Bon Jovi is, at heart, a pop band, the group pulls it all together w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let It Rock |
+| A2 | You Give Love A Bad Name |
+| A3 | Livin' On A Prayer |
+| A4 | Social Disease |
+| A5 | Wanted Dead Or Alive |
+| B1 | Raise Your Hands |
+| B2 | Without Love |
+| B3 | I'd Die For You |
+| B4 | Never Say Goodbye |
+| B5 | Wild In The Streets |
+
 
 
 ## Apple Music

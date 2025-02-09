@@ -32,18 +32,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | One By One |
+| A3 | The Peach And The Melon |
+| A4 | Say It Again |
+| A5 | Gone For Good |
+| A6 | Beam Me Up |
+| A7 | Seasons On Fire |
+| B1 | Night Terrors |
+| B2 | Lord Above |
+| B3 | Obsessed And So Obscure |
+| B4 | Wounded Heart |
+| B5 | Small Hours |
+
 
 
 ## Apple Music

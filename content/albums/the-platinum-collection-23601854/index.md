@@ -79,57 +79,58 @@ In 2018, the album reached a peak of number 9 on the US Billboard 200 following 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bohemian Rhapsody |
+| A2 | Another One Bites The Dust |
+| A3 | Killer Queen |
+| A4 | Fat Bottomed Girls |
+| B1 | Bicycle Race |
+| B2 | You're My Best Friend |
+| B3 | Don't Stop Me Now |
+| B4 | Save Me |
+| C1 | Crazy Little Thing Called Love |
+| C2 | Somebody To Love |
+| C3 | Now I'm Here |
+| C4 | Good Old-Fashioned Lover Boy |
+| D1 | Play The Game |
+| D2 | Flash |
+| D3 | Seven Seas Of Rhye |
+| D4 | We Will Rock You |
+| D5 | We Are The Champions |
+| E1 | A Kind Of Magic |
+| E2 | Under Pressure |
+| E3 | Radio Ga Ga |
+| E4 | I Want It All |
+| E5 | I Want To Break Free |
+| F1 | Innuendo |
+| F2 | It's A Hard Life |
+| F3 | Breakthru |
+| F4 | Who Wants To Live Forever |
+| G1 | Headlong |
+| G2 | The Miracle |
+| G3 | I'm Going Slightly Mad |
+| G4 | The Invisible Man |
+| H1 | Hammer To Fall |
+| H2 | Friends Will Be Friends |
+| H3 | The Show Must Go On |
+| H4 | One Vision |
+| I1 | The Show Must Go On |
+| I2 | Under Pressure (Rah Mix) |
+| I3 | Barcelona |
+| I4 | Too Much Love Will Kill You |
+| J1 | Somebody To Love |
+| J2 | You Don't Fool Me |
+| J3 | Heaven For Everyone |
+| J4 | Las Palabras De Amor |
+| K1 | Driven By You |
+| K2 | Living On My Own |
+| K3 | Let Me Live |
+| K4 | The Great Pretender |
+| K5 | Princes Of The Universe |
+| L1 | Another One Bites The Dust |
+| L2 | No-One But You (Only The Good Die Young) |
+| L3 | These Are The Days Of Our Lives |
+| L4 | Thank God It's Christmas |
+
 
 
 ## Apple Music

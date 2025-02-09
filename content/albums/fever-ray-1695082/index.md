@@ -33,16 +33,17 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | If I Had A Heart |
+| A2 | When I Grow Up |
+| A3 | Dry And Dusty |
+| A4 | Seven |
+| A5 | Triangle Walks |
+| B6 | Concrete Walls |
+| B7 | Now's The Only Time I Know |
+| B8 | I'm Not Done |
+| B9 | Keep The Streets Empty For Me |
+| B10 | Coconut |
+
 
 
 ## Apple Music

@@ -36,19 +36,20 @@ Five different singles were released from God Fodder across different regions. U
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kill Your Television |
+| A2 | Less Than Useful |
+| A3 | Selfish |
+| A4 | Grey Cell Green |
+| A5 | Cut Up |
+| A6 | Throwing Things |
+| B7 | Capital Letters |
+| B8 | Happy |
+| B9 | Your Complex |
+| B10 | Nothing Like |
+| B11 | Until You Find Out |
+| B12 | You |
+| B13 | What Gives My Son? |
+
 
 
 ## Apple Music

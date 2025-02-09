@@ -26,26 +26,27 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Magic Carpet |
+| A2 | Black Rainbow |
+| A3 | Named After Rocky |
+| A4 | Cat's Cradle |
+| A5 | Bride |
+| B1 | Open Up |
+| B2 | OMG |
+| B3 | The Meaning Of If |
+| B4 | Crystal Mountain |
+| B5 | Crystal Anthem |
+| CD-1 | Magic Carpet |
+| CD-2 | Black Rainbow |
+| CD-3 | Named After Rocky |
+| CD-4 | Cat's Cradle |
+| CD-5 | Bride |
+| CD-6 | Open Up |
+| CD-7 | OMG |
+| CD-8 | The Meaning Of If |
+| CD-9 | Crystal Mountain |
+| CD-10 | Crystal Anthem |
+
 
 
 ## Apple Music

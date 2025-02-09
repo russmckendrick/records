@@ -33,23 +33,24 @@ In 2011, a two-disc version of the album was issued by Cherry Red Records, conta
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Incredible P.W.E.I Vs. The Moral Majority |
+| A2 | Dance Of The Mad Bastards |
+| A3 | 88 Seconds...& Still Counting |
+| A4 | X  Y & Zee |
+| A5 | City Zen Radio 1990/2000 FM |
+| A6 | Dr. Nightmare's Medication Time |
+| A7 | Touched By The Hand Of Cicciolina (Extra Time Mix) |
+| A8 | 1000x No! |
+| B1 | Psychosexual |
+| B2 | Axe Of Men |
+| B3 | Another Man's Rhubarb |
+| B4 | Medicine Man Speak With Forked Tongue |
+| B5 | Nightmare At 20,000 FT |
+| B6 | Very Metal Noise Pollution |
+| B7 | 92°F (The 3rd Degree) |
+| B8 | Lived In Splendour:  Died In Chaos |
+| B9 | The Beat That Refused To Die |
+
 
 
 ## Apple Music

@@ -38,20 +38,21 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Prosthetic |
+| A2 | Invasion |
+| B1 | Carousel |
+| C1 | The Strain |
+| C2 | Canary Yellow |
+| D1 | Messiah Complex |
+| D2 | Only Stars |
+| CD-1 | Prosthetic |
+| CD-2 | Invasion |
+| CD-3 | Carousel |
+| CD-4 | The Strain |
+| CD-5 | Canary Yellow |
+|  | Messiah Complex |
+| CD-11 | Only Stars |
+
 
 
 ## Apple Music

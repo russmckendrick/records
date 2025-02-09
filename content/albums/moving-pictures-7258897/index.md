@@ -40,13 +40,14 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tom Sawyer |
+| A2 | Red Barchetta |
+| A3 | YYZ |
+| A4 | Limelight |
+|  | The Camera Eye |
+| B2 | Witch Hunt |
+| B3 | Vital Signs |
+
 
 
 ## Apple Music

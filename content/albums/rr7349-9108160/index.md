@@ -36,15 +36,16 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A.H.B |
+| A2 | Other |
+| A3 | Dirt |
+| A4 | High Rise |
+| A5 | Wardenclyffe |
+| B1 | Sorceror |
+| B2 | Low Fog |
+| B3 | Copter |
+| B4 | Cutthroat |
+
 
 
 ## Apple Music

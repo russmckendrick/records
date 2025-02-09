@@ -59,17 +59,18 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Once Upon A Poolside |
+| A2 | Eucalyptus |
+| A3 | New Order T-Shirt |
+| A4 | This Isn't Helping |
+| A5 | Tropic Morning News |
+| A6 | Alien |
+| B7 | The Alcott |
+| B8 | Grease In Your Hair |
+| B9 | Ice Machines |
+| B10 | Your Mind Is Not Your Friend |
+| B11 | Send For Me |
+
 
 
 ## Apple Music

@@ -40,28 +40,29 @@ styles: ["Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Open Up Your Door |
+| A2  | Midnight Train  |
+| A3 | Tonight The Streets Are Ours |
+| A4 | Coles Corner  |
+| A5 | Ballad Of A Thin Man |
+| A6 | Baby, You’re My Light |
+| B1 | Not The Only Road |
+| B2 | My Little Treasures |
+| B3 | Standing At The Sky’s Edge |
+| B4 | Heart Of Oak |
+| B5 | The Ocean |
+| C1 | Seek It |
+| C2 | Off My Mind |
+| C3 | Coming Home |
+| C4 | I Still Want You |
+| C5 | Just Like The Rain |
+| C6 | Run For Me |
+| D1 | Alone  |
+| D2 | For Your Lover Give Some Time |
+| D3 | Serious |
+| D4 | Don’t Stare At The Sun |
+| D5 | There’s A Storm A’Comin’ |
+
 
 
 ## Apple Music

@@ -31,17 +31,18 @@ Lead single "All You Pretty Girls" peaked at number 55 on the UK Singles Chart a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wake Up |
+| A2 | All You Pretty Girls |
+| A3 | Shake You Donkey Up |
+| A4 | Seagulls Screaming Kiss Her Kiss Her |
+| A5 | This World Over |
+| B1 | The Everyday Story Of Smalltown |
+| B2 | I Bought Myself A Liarbird |
+| B3 | Reign Of Blows |
+| B4 | You're The Wish You Are I Had |
+| B5 | I Remember The Sun |
+| B6 | Train Running Low On Soul Coal |
+
 
 
 ## Apple Music

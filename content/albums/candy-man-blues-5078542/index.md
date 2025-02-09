@@ -32,19 +32,20 @@ styles: ["Country Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Frankie |
+| A2 | Louis Collins |
+| A3 | Nobody's Dirty Business |
+| A4 | Ain't No Tellin' |
+| A5 | Stack O' Lee |
+| A6 | Avalon Blues |
+| B7 | Big Leg Blues |
+| B8 | Praying On The Old Camp Ground |
+| B9 | Candy Man Blues |
+| B10 | Blessed Be Thy Name |
+| B11 | Blue Harvest Blues |
+| B12 | Spike Driver Blues |
+| B13 | Got The Blues (Can't Be Satisfied) |
+
 
 
 ## Apple Music

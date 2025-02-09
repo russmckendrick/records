@@ -34,23 +34,24 @@ While Shangri-La Dee Da was not as commercially successful as its predecessors, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dumb Love |
+| A2 | Days Of The Week |
+| A3 | Coma |
+| A4 | Hollywood Bitch |
+| A5 | Wonderful |
+| A6 | Black Again |
+| A7 | Hello It's Late |
+| B1 | Too Cool Queenie |
+| B2 | Regeneration |
+| B3 | Bi-Polar Bear |
+| B4 | Transmissions From A Lonely Room |
+| B5 | A Song For Sleeping |
+| B6 | Long Way Home |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="3mSUlhyG7X3ZCekkIi0TiI" width="100%" height="500" >}}<br>
 
 
 

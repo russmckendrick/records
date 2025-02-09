@@ -58,29 +58,30 @@ The Force is as strong as ever in John Williams’ writing for orchestra. His mi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Main Title And The Attack On The Jakku Village |
+| A2 | The Scavenger |
+| A3 | I Can Fly Anything |
+| A4 | Rey Meets BB-8 |
+| A5 | Follow Me |
+| A6 | Rey’s Theme |
+| A7 | The Falcon |
+| A8 | That Girl With The Staff |
+| B1 | The Rathtars! |
+| B2 | Finn’s Confession |
+| B3 | Maz’s Counsel |
+| B4 | The Starkiller |
+| B5 | Kylo Ren Arrives At The Battle |
+| C1 | The Abduction |
+| C2 | Han And Leia |
+| C3 | March Of The Resistance |
+| C4 | Snoke |
+| C5 | On The Inside |
+| C6 | Torn Apart |
+| C7 | The Ways Of The Force |
+| C8 | Scherzo For X-Wings |
+| D1 | Farewell And The Trip |
+| D2 | The Jedi Steps And Finale |
+
 
 
 ## Apple Music

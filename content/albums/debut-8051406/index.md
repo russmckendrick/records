@@ -37,17 +37,18 @@ Still, even in the midst of <i>Debut</i>’s constant tonal shifts and switchbac
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Human Behaviour |
+| A2 | Crying |
+| A3 | Venus As A Boy |
+| A4 | There's More To Life Than This (Recorded Live At The Milk Bar Toilets) |
+| A5 | Like Someone In Love |
+| A6 | Big Time Sensuality |
+| B1 | One Day |
+| B2 | Aeroplane |
+| B3 | Come To Me |
+| B4 | Violently Happy |
+| B5 | The Anchor Song |
+
 
 
 ## Apple Music

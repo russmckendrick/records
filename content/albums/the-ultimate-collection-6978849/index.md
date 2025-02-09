@@ -34,25 +34,26 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | You Can Call Me Al |
+| A2 | Graceland |
+| A3 | Mrs. Robinson |
+| A4 | The Boxer |
+| B1 | Diamonds On The Soles Of Her Shoes |
+| B2 | 50 Ways To Leave Your Lover |
+| B3 | Cecilia |
+| B4 | Me And Julio Down By The Schoolyard |
+| B5 | The Boy In The Bubble |
+| C1 | The Only Living Boy In New York |
+| C2 | Mother And Child Reunion |
+| C3 | Late In The Evening |
+| C4 | Father And Daughter |
+| C5 | The Obvious Child |
+| D1 | Slip Slidin' Away |
+| D2 | America |
+| D3 | The Sound Of Silence |
+| D4 | Still Crazy After All These Years |
+| D5 | Bridge Over Troubled Water |
+
 
 
 ## Apple Music

@@ -43,15 +43,16 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | For You (Intro) |
+| A2 | Your Sweet Six Six Six |
+| A3 | Wicked Game |
+| A4 | The Heartless |
+| A5 | Our Diabolikal Rapture |
+| B1 | It's All Tears (Drown in This Love) |
+| B2 | When Love And Death Embrace |
+| B3 | The Beginning Of The End |
+| B4 | (Don't Fear) The Reaper |
+
 
 
 ## Apple Music

@@ -31,19 +31,20 @@ My Light, My Destroyer is the third studio album by American pop musician Cassan
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Devotion |
+| A2 | Clams Casino |
+| A3 | Delphinium Blue |
+| A4 | Shatner’s Theme |
+| A5 | Aurora, IL  |
+| A6 | Betelgeuse |
+| B1 | Omakase |
+| B2 | Music?? |
+| B3 | Petco |
+| B4 | Attente Téléphonique |
+| B5 | Tape and Tissue |
+| B6 | Only One |
+| B7 | Hayley |
+
 
 
 ## Apple Music

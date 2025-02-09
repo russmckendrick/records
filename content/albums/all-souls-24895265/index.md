@@ -36,16 +36,17 @@ styles: ["Post-Punk", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fireworks |
+| A2 | Halloween |
+| A3 | Supernatural Thing |
+| A4 | El Dia De Los Muertos |
+| A5 | The Sweetest Chill |
+| B1 | Spellbound |
+| B2 | Something Wicked (This Way Comes) |
+| B3 | Rawhead And Bloodybones |
+| B4 | We Hunger |
+| B5 | Peek-A-Boo |
+
 
 
 ## Apple Music

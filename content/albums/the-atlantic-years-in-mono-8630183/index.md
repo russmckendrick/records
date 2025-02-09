@@ -53,47 +53,48 @@ styles: ["Hard Bop", "Modal", "Post Bop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Giant Steps |
+| A1 | Giant Steps  |
+| A2 | Cousin Mary |
+| A3 | Countdown |
+| A4 | Spiral |
+| B1 | Syeeda's Song Flute |
+| B2 | Naima |
+| B3 | Mr P.C. |
+|  | Bags & Trane |
+| C1 | Bags & Trane |
+| C2 | Three Little Words |
+| C3 | The Night We Called It A Day |
+| D1 | Be-Bop |
+| D2 | The Late Late Blues |
+|  | Olé Coltrane |
+| E | Olé |
+| F1 | Dahomey Dance  |
+| F2 | Aisha |
+|  | Coltrane Plays The Blues |
+| G1 | Blues To Elvin |
+| G2 | Blues To Bechet |
+| G3 | Blues To You |
+| H1 | Mr. Day |
+| H2 | Mr. Syms |
+| H3 | Mr. Knight |
+|  | The Avant-Garde |
+| I1 | Cherryco |
+| I2 | Focus On Sanity |
+| J1 | The Blessing |
+| J2 | The Invisible |
+| J3 | Bemsha Swing |
+|  | The Coltrane Legacy |
+| K1 | 26-2 |
+| K2 | Original Untitled Ballad |
+| K3 | Untitled Original |
+| L1 | Centerpiece |
+| L2 | Stairway To The Stars |
+| L3 | Blues Legacy |
+|  | My Favorite Things Part I & II |
+| M | My Favorite Things (Part I) |
+| N | My Favorite Things (Part II) |
+
 
 
 ## Apple Music

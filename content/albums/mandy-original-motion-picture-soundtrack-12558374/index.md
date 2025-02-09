@@ -37,21 +37,22 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Seeker Of The Serpent's Eye  |
+| A2 | Starling |
+| A3 | Mandy Love Theme |
+| A4 | Horns Of Abraxas |
+| A5 | Black Skulls |
+| A6 | Death And Ashes |
+| A7 | Sand |
+| A8 | Red |
+| B1 | Forging The Beast |
+| B2 | Dive-Bomb Blues |
+| B3 | Waste |
+| B4 | Temple |
+| B5 | Burning Church |
+| B6 | Memories |
+| B7 | Children Of The New Dawn |
+
 
 
 ## Apple Music

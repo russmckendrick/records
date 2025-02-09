@@ -27,16 +27,17 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Whatever You Want |
+| A2 | Shady Lady |
+| A3 | Who Asked You |
+| A4 | Your Smiling Face |
+| A5 | Living On An Island |
+| B1 | Come Rock With Me |
+| B2 | Rockin' On |
+| B3 | Runaway |
+| B4 | High Flyer |
+| B5 | Breaking Away |
+
 
 
 ## Apple Music

@@ -45,16 +45,17 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Come Talk To Me |
+| A2 | Love To Be Loved |
+| A3 | Blood Of Eden |
+| B1 | Steam |
+| B2 | Only Us |
+| C1 | Washing Of The Water |
+| C2 | Digging In The Dirt |
+| C3 | Fourteen Black Paintings |
+| D1 | Kiss That Frog |
+| D2 | Secret World |
+
 
 
 ## Apple Music

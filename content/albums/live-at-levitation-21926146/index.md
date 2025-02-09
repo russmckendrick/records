@@ -31,15 +31,16 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jailbird |
+| A2 | Accelerator |
+| A3 | Kill All Hippies |
+| A4 | Burning Wheel |
+| A5 | Shoot Speed / Kill Light |
+| B1 | Higher Than The Sun |
+| B2 | Country Girl |
+| B3 | Loaded |
+| B4 | Movin' On Up |
+
 
 
 ## Apple Music

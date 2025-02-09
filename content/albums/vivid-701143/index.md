@@ -34,17 +34,18 @@ Vivid is the debut studio album by American rock band Living Colour, released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cult Of Personality |
+| A2 | I Want To Know |
+| A3 | Middle Man |
+| A4 | Desperate People |
+| A5 | Open Letter (To A Landlord) |
+| B1 | Funny Vibe |
+| B2 | Memories Can't Wait |
+| B3 | Broken Hearts |
+| B4 | Glamour Boys |
+| B5 | What's Your Favorite Color? (Theme Song) |
+| B6 | Which Way To America? |
+
 
 
 ## Apple Music

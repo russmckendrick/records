@@ -31,14 +31,12 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spider Island |
+| A2 | New Dark Age |
+| C1 | Echoes Pt.1 |
+| D1 | Echoes Pt.2 |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

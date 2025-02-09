@@ -38,44 +38,45 @@ styles: ["Psychedelic Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Sunflower - Original Album |
+| A1 | Slip On Through |
+| A2 | This Whole World |
+| A3 | Add Some Music To Your Day |
+| A4 | Got To Know The Woman |
+| A5 | Deirdre |
+| A6 | It's About Time |
+|  | Bonus Tracks (Previously Unreleased) |
+| A7 | Cotton Fields (2020 Stereo Mix) |
+| A8 | San Miguel (Backing Vocals) |
+| A9 | It's About Time (Backing Vocals) |
+|  | Sunflower - Original Album |
+| B1 | Tears In The Morning |
+| B2 | All I Wanna Do |
+| B3 | Forever |
+| B4 | Our Sweet Love |
+| B5 | At My Window |
+| B6 | Cool, Cool Water |
+|  | Bonus Track (Previously Unreleased) |
+| B7  | This Whole World (Live 1988) |
+|  | Surf's Up - Original Album |
+| C1 | Don't Go Near The Water |
+| C2 | Long Promised Road |
+| C3 | Take A Load Off Your Feet |
+| C4 | Disney Girls |
+| C5 | Student Demonstration Time |
+|  | Bonus Tracks (Previously Unreleased) |
+| C6 | Disney Girls (Live) |
+| C7 | Feel Flows (Backing Vocals) |
+|  | Surf's Up - Original Album |
+| D1 | Feel Flows |
+| D2 | Lookin' At Tomorrow (A Welfare Song) |
+| D3 | A Day In The Life Of A Tree |
+| D4 | 'Til I Die |
+| D5 | Surf's Up |
+|  | Bonus Tracks (Previously Unreleased) |
+| D6 | A Day In The Life Of A Tree (Track- & Backing Vocals) |
+| D7 | 'Til I Die (A Capella) |
+
 
 
 ## Apple Music

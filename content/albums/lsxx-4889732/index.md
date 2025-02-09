@@ -72,78 +72,76 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Last Splash |
+| A1 | New Year |
+| A2 | Cannonball |
+| A3 | Invisible Man |
+| A4 | No Aloha |
+| A5 | Roi |
+| A6 | Do You Love Me Now? |
+| A7 | Flipside |
+| B1 | I Just Wanna Get Along |
+| B2 | Mad Lucas |
+| B3 | Divine Hammer |
+| B4 | S.O.S. |
+| B5 | Hag |
+| B6 | Saints |
+| B7 | Drivin' On 9 |
+| B8 | Roi (Reprise) |
+|  | Stockholm Syndrome |
+| C1 | Shocker In Gloomtown |
+| C2 | New Year |
+| C3 | Hellbound |
+| C4 | Saints |
+| C5 | Hag |
+| C6 | I Just Wanna Get Along |
+| C7 | S.O.S. |
+| C8 | Roi |
+| C9 | Head To Toe |
+| D1 | Happiness Is A Warm Gun |
+| D2 | Cannonball |
+| D3 | Invisible Man |
+| D4 | Doe |
+| D5 | Drivin' On 9 |
+| D6 | Don't Call Home |
+| D7 | Limehouse |
+|  | Rarities And Demos |
+| E1 | No Aloha (BBC Session) |
+| E2 | Flipside (BBC Session) |
+| E3 | Divine Hammer (BBC Session) |
+| E4 | Hag (BBC Session) |
+| E5 | New Year (Demo) |
+| E6 | Grunggae(Demo) |
+| E6 | Invisible Man (Demo) |
+| F1 | No Aloha (Demo) |
+| F2 | I Just Wanna Get Along (Demo) |
+| F3 | Mad Lucas (Demo) |
+| F4 | S.O.S. (Demo) |
+| F5 | Saints (Demo) |
+| F6 | 900 (Demo) |
+| F7 | Iris |
+|  | Safari |
+| G1 | Do You Love Me Now? |
+| G2 | Don't Call Home |
+| H1 | Safari |
+| H2 | So Sad About Us |
+|  | Cannonball |
+| I1 | Cannonball |
+| I2 | Cro-Aloha |
+| J1 | Lord Of The Thighs |
+| J2 | 900 |
+|  | Divine Hammer |
+| K1 | Divine Hammer (Single Version) |
+| K2 | Hoverin' |
+| L1 | I Can't Help It (If I'm Still In Love With You) |
+| L2 | Do You Love Me Now Jr? |
+|  | Head To Toe |
+| M1 | Head To Toe |
+| M2 | Shocker In Gloomtown |
+| N1 | Freed Pig |
+| N2 | Saints |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

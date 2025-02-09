@@ -55,63 +55,64 @@ styles: ["Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Dire Straits |
+| A1 | Down To The Waterline |
+| A2 | Water Of Love |
+| A3 | Setting Me Up |
+| A4 | Six Blade Knife |
+| A5 | Southbound Again |
+| B1 | Sultans Of Swing |
+| B2 | In The Gallery |
+| B3 | Wild West End |
+| B4 | Lions |
+|  | Communiqué |
+| C1 | Once Upon A Time In The West |
+| C2 | News |
+| C3 | Where Do You Think You're Going? |
+| C4 | Communiqué |
+| D1 | Lady Writer |
+| D2 | Angel Of Mercy |
+| D3 | Portobello Belle |
+| D4 | Single-Handed Sailor |
+| D5 | Follow Me Home |
+|  | Making Movies |
+| E1 | Tunnel Of Love |
+| E2 | Romeo And Juliet |
+| E3 | Skateaway |
+| F1 | Expresso Love |
+| F2 | Hand In Hand |
+| F3 | Solid Rock |
+| F4 | Les Boys |
+|  | Love Over Gold |
+| G1 | Telegraph Road |
+| G2 | Private Investigations |
+| H1 | Industrial Disease |
+| H2 | Love Over Gold |
+| H3 | It Never Rains |
+|  | Brothers In Arms |
+| I1 | So Far Away |
+| I2 | Money For Nothing |
+| J1 | Walk Of Life |
+| J2 | Your Latest Trick |
+| K1 | Why Worry |
+| K2 | Ride Across The River |
+| L1 | The Man's Too Strong |
+| L2 | One World |
+| L3 | Brothers In Arms |
+|  | On Every Street |
+| M1 | Calling Elvis |
+| M2 | On Every Street |
+| M3 | When It Comes To You |
+| N1 | Fade To Black |
+| N2 | The Bug |
+| N3 | You And Your Friend |
+| O1 | Heavy Fuel |
+| O2 | Iron Hand |
+| O3 | Ticket To Heaven |
+| P1 | My Parties |
+| P2 | Planet Of New Orleans |
+| P3 | How Long |
+
 
 
 ## Apple Music

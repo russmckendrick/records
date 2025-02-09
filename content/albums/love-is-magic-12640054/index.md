@@ -44,16 +44,17 @@ Love Is Magic is the fourth studio album by American musician John Grant. It was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Metamorphosis |
+| A2 | Love Is Magic |
+| B1 | Tempest |
+| B2 | Preppy Boy |
+| C1 | Smug Cunt |
+| C2 | He's Got His Mother's Hips |
+| C3 | Diet Gum |
+| D1 | Is He Strange |
+| D2 | The Common Snipe |
+| D3 | Touch And Go |
+
 
 
 ## Apple Music

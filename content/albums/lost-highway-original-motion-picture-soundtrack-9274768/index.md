@@ -40,33 +40,31 @@ styles: ["Alternative Rock", "Leftfield", "Industrial", "Illbient", "Contemporar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm Deranged (Edit) |
+| A2 | Videodrones; Questions |
+| A3 | The Perfect Drug |
+| A4 | Red Bats With Teeth |
+| A5 | Haunting & Heartbreaking |
+| A6 | Eye |
+| B1 | Dub Driving |
+| B2 | Mr. Eddy's Theme 1 |
+| B3 | This Magic Moment |
+| B4 | Mr. Eddy's Theme 2 |
+| B5 | Fred & Renee Make Love |
+| B6 | Apple Of Sodom |
+| C1 | Insensatez |
+| C2 | Something Wicked This Way Comes (Edit) |
+| C3 | I Put A Spell On You |
+| C4 | Fats Revisited |
+| C5 | Fred's World |
+| C6 | Rammstein (Edit) |
+| D1 | Hollywood Sunset |
+| D2 | Heirate Mich (Edit) |
+| D3 | Police |
+| D4 | Driver Down |
+| D5 | I'm Deranged (Reprise) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -29,22 +29,23 @@ styles: ["Heavy Metal", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sabbath Bloody Sabbath |
+| A2 | Destroyer |
+| A3 | Rocka Rolla |
+| A4 | Rendezvous |
+| A5 | Out Of Phase |
+| A6 | Hottest Woman In Town |
+| B1 | Fast As A Shark |
+| B2 | Hair Of The Dog |
+| B3 | Boogie |
+| B4 | Stoking Up The Fires Of Hell |
+| B5 | Under The Blade |
+| B6 | Lepers Queue |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}<br>
 
 
 

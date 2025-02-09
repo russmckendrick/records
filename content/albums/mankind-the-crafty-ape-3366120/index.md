@@ -38,28 +38,29 @@ styles: ["Post Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Chapter I (A Thread) |
+| A1 | Nothing (We Are) |
+| A2 | The Heart Of Every Country |
+| A3 | Get Down And Live With It |
+| A4 | (In The Yonder Marsh) |
+| B1 | A Letter Concerning Dogheads |
+| B2 | The Brain / Poznan |
+|  | Chapter II (The Trap) |
+| B3 | Laying Traps |
+| B4 | Born In A Hurricane |
+| C1 | Release The Clowns |
+| C2 | (What?) |
+|  | Chapter III (The Blues Of Man) |
+| C3 | A Suggestion (Not A Very Nice One) |
+| C4 | (Dig, Bury, Deny) |
+| C5 | Operation Mincemeat |
+| D1 | We'll Never Get Out Of This World Alive |
+| D2 | Faced With Complete Failure, Utter Defiance Is The Only Response |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1IyNGhDF2FtTiLzQj9FNjT" width="100%" height="500" >}}<br>
 
 
 

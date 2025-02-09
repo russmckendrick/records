@@ -46,40 +46,41 @@ The Next Day was praised by critics as Bowie's best work in decades; it was rank
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Next Day |
+| A2 | Dirty Boys |
+| A3 | The Stars (Are Out Tonight) |
+| A4 | Love Is Lost |
+| B1 | Where Are We Now? |
+| B2 | Valentine’s Day |
+| B3 | If You Can See Me |
+| B4 | I’d Rather Be High |
+| C1 | Boss Of Me |
+| C2 | Dancing Out In Space |
+| C3 | How Does The Grass Grow? |
+| C4 | (You Will) Set The World On Fire |
+| D1 | You Feel So Lonely You Could Die |
+| D2 | Heat |
+| D3 | So She |
+| D4 | Plan |
+| D5 | I'll Take You There |
+| CD-1 | The Next Day |
+| CD-2 | Dirty Boys |
+| CD-3 | The Stars (Are Out Tonight) |
+| CD-4 | Love Is Lost |
+| CD-5 | Where Are We Now? |
+| CD-6 | Valentine's Day |
+| CD-7 | If You Can See Me |
+| CD-8 | I'd Rather Be High |
+| CD-9 | Boss Of Me |
+| CD-10 | Dancing Out In Space |
+| CD-11 | How Does The Grass Grow? |
+| CD-12 | (You Will) Set The World On Fire |
+| CD-13 | You Feel So Lonely You Could Die |
+| CD-14 | Heat |
+| CD-15 | So She |
+| CD-16 | Plan |
+| CD-17 | I'll Take You There |
+
 
 
 ## Apple Music

@@ -27,16 +27,17 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 1993 |
+| A2 | Is Wrestling Fixed? |
+| A3 | The Only Living Boy In New Cross |
+| A4 | Suppose You Gave A Funeral And Nobody Came |
+| A5 | England |
+| B1 | Do Re Me, So Far So Good |
+| B2 | Look Mum, No Hands! |
+| B3 | While You Were Out |
+| B4 | Skywest And Crooked |
+| B5 | The Impossible Dream |
+
 
 
 ## Apple Music

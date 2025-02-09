@@ -36,18 +36,19 @@ Although commercial success elsewhere was initially modest, the album was the du
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Look |
+| A2 | Dressed For Success |
+| A3 | Sleeping Single |
+| A4 | Paint |
+| A5 | Dance Away |
+| A6 | Cry |
+| B1 | Chances |
+| B2 | Dangerous |
+| B3 | Half A Woman, Half A Shadow |
+| B4 | View From A Hill |
+| B5 | Shadow Of A Doubt |
+| B6 | Listen To Your Heart |
+
 
 
 ## Apple Music

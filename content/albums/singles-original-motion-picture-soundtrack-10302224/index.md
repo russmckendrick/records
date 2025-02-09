@@ -38,41 +38,42 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Would? |
+| A2 | Breath |
+| A3 | Seasons |
+| B1 | Dyslexic Heart |
+| B2 | Battle Of Evermore |
+| B3 | Chloe Dancer / Crown Of Thorns |
+| C1 | Birth Ritual |
+| C2 | State Of Love And Trust |
+| C3 | Overblown |
+| C4 | Waiting For Somebody |
+| D1 | May This Be Love |
+| D2 | Nearly Lost You |
+| D3 | Drown |
+| CD-1 | Touch Me, I'm Dick |
+| CD-2 | Nowhere But You |
+| CD-3 | Spoon Man |
+| CD-4 | Flutter Girl |
+| CD-5 | Missing |
+| CD-6 | Would? (Live) |
+| CD-7 | It Ain't Like That (Live) |
+| CD-8 | Birth Ritual (Live) |
+| CD-9 | Dislexic Heart (Acoustic) |
+| CD-10 | Waiting For Somebody (Score Acoustic) |
+| CD-11 | Overblown (Demo) |
+| CD-12 | Heart And Lungs |
+| CD-13 | Six Foot Under |
+| CD-14 | Singles Blues 1 |
+| CD-15 | Blue Heart |
+| CD-16 | Lost In Emily's Woods |
+| CD-17 | Ferry Boat #3 |
+| CD-18 | Score Piece #4 |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}<br>
 
 
 

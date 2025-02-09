@@ -33,16 +33,17 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Desire's Magic Theatre |
+| A2 | Electric Landlady |
+| A3 | Dead Dodo Down |
+| A4 | Pedigree Chums |
+| A5 | The Sky Parade |
+| B1 | The Window Cleaner |
+| B2 | The Way It Is |
+| B3 | Mr. Howard |
+| B4 | I Know |
+| B5 | The Bitter Suite |
+
 
 
 ## Apple Music

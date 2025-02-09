@@ -33,26 +33,27 @@ styles: ["Blues Rock", "Hard Rock", "Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Flying |
+| A2 | Around The Plynth |
+| A3 | Nobody Knows |
+| A4 | Three Button Hand Me Down |
+| A5 | Sweet Lady Mary |
+| B1 | Maybe I'm Amazed |
+| B2 | Had Me A Real Good Time |
+| B3 | Miss Judy's Farm |
+| B4 | Memphis |
+| B5 | Too Bad |
+| C1 | Stay With Me |
+| C2 | That's All You Need |
+| C3 | Cindy Incidentally |
+| C4 | Ooh La La |
+| C5 | Flags And Banners |
+| D1 | Borstal Boys |
+| D2 | I Wish It Would Rain |
+| D3 | Pool Hall Richard |
+| D4 | You Can Make Me Dance, Sing Or Anything |
+| D5 | It's All Over Now |
+
 
 
 ## Apple Music

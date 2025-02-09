@@ -39,18 +39,19 @@ The Fragile Army is the Polyphonic Spree's only record on which lead guitarist A
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Section 21 (Together We're Heavy) |
+| A2 | Section 22 (Running Away) |
+| A3 | Section 23 (Get Up And Go) |
+| B1 | Section 24 (The Fragile Army) |
+| B2 | Section 25 (Younger Yesterday) |
+| B3 | Section 26 (We Crawl) |
+| C1 | Section 27 (Mental Cabaret) |
+| C2 | Section 28 (Guaranteed Nightlife) |
+| C3 | Section 29 (Light To Follow) |
+| D1 | Section 30 (Watch Us Explode (Justify)) |
+| D2 | Section 31 (Overblow Your Nest) |
+| D3 | Section 32 (The Championship) |
+
 
 
 ## Apple Music

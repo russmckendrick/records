@@ -38,17 +38,18 @@ Nigel Gray, who had recorded and engineered the bandâ€™s first two albums, 1978â
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Don't Stand So Close To Me |
+| A2 | Driven To Tears |
+| A3 | When The World Is Running Down, You Make The Best Of What's Still Around |
+| A4 | Canary In A Coalmine |
+| A5 | Voices Inside My Head |
+| A6 | Bombs Away |
+| B1 | De Do Do Do, De Da Da Da |
+| B2 | Behind My Camel |
+| B3 | Man In A Suitcase |
+| B4 | Shadows In The Rain |
+| B5 | The Other Way Of Stopping |
+
 
 
 ## Apple Music

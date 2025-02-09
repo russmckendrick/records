@@ -31,15 +31,16 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rosemary With A Bible And A Gun |
+| A2 | Armageddon's Back In Town |
+| A3 | Slow Ride Argument |
+| A4 | Thoughts And Prayers |
+| A5 | 21st Century USA |
+| B1 | Heroin Again |
+| B2 | Babies In Cages |
+| B3 | Grievance Merchants |
+| B4 | Awaiting Resurrection |
+
 
 
 ## Apple Music

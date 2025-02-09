@@ -124,145 +124,146 @@ styles: ["Alternative Rock", "Industrial", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Black Tie White Noise |
+| A1 | The Wedding |
+| A2 | You've Been Around |
+| A3 | I Feel Free |
+| B1 | Black Tie White Noise |
+| B2 | Jump They Say |
+| B3 | Nite Flights |
+| C1 | Pallas Athena |
+| C2 | Miracle Goodnight |
+| C3 | Don't Let Me Down & Down |
+| D1 | Looking For Lester |
+| D2 | I Know It's Gonna Happen Someday |
+| D3 | The Wedding Song |
+|  | The Buddha Of Suburbia |
+| E1 | Buddha Of Suburbia |
+| E2 | Sex And The Church |
+| E3 | South Horizon |
+| F1 | The Mysteries |
+| F2 | Bleed Like A Craze, Dad |
+| G1 | Strangers When We Meet |
+| G2 | Dead Against It |
+| G3 | Untitled No. 1 |
+| H1 | Ian Fish, U.K. Heir |
+| H2 | Buddha Of Suburbia |
+|  | 1. Outside |
+| I1 | Leon Takes Us Outside |
+| I2 | Outside |
+| I3 | The Hearts Filthy Lesson |
+| I4 | A Small Plot Of Land |
+| J1 | Baby Grace (A Horrid Cassette) (Segue) |
+| J2 | Hallo Spaceboy |
+| J3 | The Motel |
+| J4 | I Have Not Been To Oxford Town |
+| K1 | No Control |
+| K2 | Algeria Touchshriek (Segue) |
+| K3 | The Voyeur Of Utter Destruction (As Beauty) |
+| K4 | Ramona A. Stone / I Am With Name (Segue) |
+| K5 | Wishful Beginnings |
+| L1 | We Prick You |
+| L2 | Segue - Nathan Adler Pt.1 |
+| L3 | I'm Deranged |
+| L4 | Thru' These Architect's Eyes |
+| L5 | Segue - Nathan Adler Pt.2 |
+| L6 | Strangers When We Meet |
+|  | Earthling |
+| M1 | Little Wonder |
+| M2 | Looking For Satellites |
+| M3 | Battle For Britain (The Letter) |
+| N1 | Seven Years In Tibet |
+| N2 | Dead Man Walking |
+| N3 | Telling Lies |
+| O1 | The Last Thing You Should Do |
+| O2 | I'm Afraid Of Americans |
+| O3 | Law (Earthlings On Fire) |
+|  | 'Hours...'  |
+| P1 | Thursday's Child |
+| P2 | Something In The Air |
+| P3 | Survive |
+| P4 | If I'm Dreaming My Life |
+| Q1 | Seven |
+| Q2 | What's Really Happening? |
+| Q3 | The Pretty Things Are Going To Hell |
+| Q4 | New Angels Of Promise |
+| Q5 | Brilliant Adventure |
+| Q6 | The Dreamers |
+|  | BBC Radio Theatre, London, June 27, 2000 |
+| R1 | Wild Is The Wind |
+| R2 | Ashes To Ashes |
+| R3 | Seven |
+| S1 | This Is Not America |
+| S2 | Absolute Beginners |
+| S3 | Always Crashing In The Same Car |
+| T1 | Survive |
+| T2 | The London Boys |
+| T3 | I Dig Everything |
+| T4 | Little Wonder |
+| U1 | The Man Who Sold The World |
+| U2 | Fame |
+| U3 | Stay |
+| V1 | Hallo Spaceboy |
+| V2 | Cracked Actor |
+| V3 | I'm Afraid Of Americans |
+| V4 | All The Young Dudes |
+| W1 | Starman |
+| W2 | "Heroes" |
+| W3 | Let's Dance |
+|  | Toy |
+| X1 | I Dig Everything |
+| X2 | You've Got A Habit Of Leaving |
+| X3 | The London Boys |
+| X4 | Karma Man |
+| Y1 | Conversation Piece |
+| Y2 | Shadow Man |
+| Y3 | Let Me Sleep Beside You |
+| Y4 | Hole In The Ground |
+| Z1 | Baby Loves That Way |
+| Z2 | Can't Help Thinking About Me |
+| Z3 | Silly Boy Blue |
+| Z4 | Toy (Your Turn To Drive) |
+|  | Re:Call 5 |
+| AA1 | Real Cool World (Sounds From The Cool World Soundtrack Version) |
+| AA2 | Jump They Say (7" Version) |
+| AA3 | Lucy Can't Dance |
+| AA4 | Black Tie White Noise (Radio Edit) |
+| AB1 | Don't Let Me Down & Down (Indonesian Vocal Version) |
+| AB2 | Buddha Of Suburbia (Single Version) |
+| AB3 | The Hearts Filthy Lesson (Radio Edit) |
+| AB4 | Nothing To Be Desired |
+| AB5 | Strangers When We Meet (Edit) |
+| AB6 | Get Real |
+| AC1 | The Man Who Sold The World (Live Eno Mix) |
+| AC2 | I'm Afraid Of Americans (Showgirls Soundtrack Version) |
+| AC3 | Hallo Spaceboy (Remix) |
+| AC4 | I Am With Name (Alternative Version) |
+| AC5 | A Small Plot Of Land (Long Basquiat Soundtrack Version) |
+| AD1 | Little Wonder (Edit) |
+| AD2 | A Fleeting Moment (AKA Seven Years In Tibet - Mandarin Version) |
+| AD3 | Dead Man Walking (Edit) |
+| AD4 | Seven Years In Tibet (Edit) |
+| AD5 | Planet Of Dreams |
+| AE1 | I'm Afraid Of Americans (V1 Edit) |
+| AE2 | I Can't Read (The Ice Storm Long Version) |
+| AE3 | A Foggy Day In London Town |
+| AE4 | Fun (BowieNet Mix) |
+| AE5 | The Pretty Things Are Going To Hell (Stigmata Soundtrack Version) |
+| AF1 | Thursday's Child (Radio Edit) |
+| AF2 | We All Go Through |
+| AF3 | No One Calls |
+| AF4 | We Shall Go To Town |
+| AF5 | 1917 |
+| AG1 | The Pretty Things Are Going To Hell (Edit) |
+| AG2 | Thursday's Child (Omikron: The Nomad Soul Version) |
+| AG3 | New Angels Of Promise (Omikron: The Nomad Soul Version) |
+| AG4 | The Dreamers (Omikron: The Nomad Soul Version) |
+| AG5 | Seven (Demo) |
+| AH1 | Survive (Marius De Vries Mix) |
+| AH2 | Something In The Air (American Psycho Remix) |
+| AH3 | Seven (Marius De Vries Mix) |
+| AH4 | Pictures Of Lily |
+
 
 
 ## Apple Music

@@ -42,18 +42,19 @@ Living in Extraordinary Times received generally positive reviews from music cri
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hank |
+| A2 | Coming Home (Pt.2) |
+| A3 | Leviathan |
+| B1 | Heads |
+| B2 | Many Faces |
+| B3 | How Hard The Day |
+| C1 | Extraordinary Times |
+| C2 | Picture Of This Place |
+| C3 | Hope To Sleep |
+| D1 | Better Than That |
+| D2 | Mask |
+| D3 | What's It All About |
+
 
 
 ## Apple Music

@@ -36,16 +36,17 @@ styles: ["Soft Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hold On |
+| A2 | Release Me |
+| A3 | Impulsive |
+| A4 | Next To You (Someday I'll Be) |
+| A5 | You're In Love |
+| B1 | Over And Over |
+| B2 | A Reason To Believe |
+| B3 | Ooh You're Gold |
+| B4 | Eyes Like Twins |
+| B5 | The Dream Is Still Alive |
+
 
 
 ## Apple Music

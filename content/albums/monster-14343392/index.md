@@ -38,32 +38,33 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Monster |
+| A1 | What's The Frequency, Kenneth? |
+| A2 | Crush With Eyeliner |
+| A3 | King Of Comedy |
+| A4 | I Don't Sleep, I Dream |
+| A5 | Star 69 |
+| A6 | Strange Currencies |
+| B1 | Tongue |
+| B2 | Bang And Blame |
+| B3 | I Took Your Name |
+| B4 | Let Me In |
+| B5 | Circus Envy |
+| B6 | You |
+|  | Monster Remixed |
+| C1 | What's The Frequency, Kenneth? (Remix) |
+| C2 | Crush With Eyeliner (Remix) |
+| C3 | King Of Comedy (Remix) |
+| C4 | I Don't Sleep, I Dream (Remix) |
+| C5 | Star 69 (Remix) |
+| C6 | Strange Currencies (Remix) |
+| D1 | Tongue (Remix) |
+| D2 | Bang And Blame (Remix) |
+| D3 | I Took Your Name (Remix) |
+| D4 | Let Me In (Remix) |
+| D5 | Circus Envy (Remix) |
+| D6 | You (Remix) |
+
 
 
 ## Apple Music

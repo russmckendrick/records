@@ -32,17 +32,18 @@ It was reissued by lead singer Darren Hayman in 2008.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Hymn For The Cigarettes |
+| A2 | May God Protect Your Home |
+| A3 | The Hymn For The Alcohol |
+| A4 | I Took Her Love For Granted |
+| A5 | Every Little Gesture |
+| A6 | The Weight Of The Stars |
+| B1 | I Stole A Bride |
+| B2 | We Were Meant To Be |
+| B3 | Fat Kelly's Teeth |
+| B4 | Don't Flake Out On Me |
+| B5 | I Love Only You |
+
 
 
 ## Apple Music

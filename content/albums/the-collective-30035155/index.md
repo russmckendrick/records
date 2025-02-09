@@ -36,17 +36,18 @@ The Collective is the second solo studio album by the American musician Kim Gord
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bye Bye |
+| A2 | The Candy House |
+| A3 | I Don't Miss My Mind |
+| A4 | I'm A Man |
+| A5 | Trophies |
+| A6 | It's Dark Inside |
+| B1 | Psychedelic Orgasm |
+| B2 | Tree House |
+| B3 | Shelf Warmer |
+| B4 | The Believers |
+| B5 | Dream Dollar |
+
 
 
 ## Apple Music

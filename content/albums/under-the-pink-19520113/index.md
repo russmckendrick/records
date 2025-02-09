@@ -45,18 +45,19 @@ Under the Pink was included in Blender magazine's list of 500 CDs You Must Own, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pretty Good Year |
+| A2 | God |
+| A3 | Bells For Her |
+| B1 | Past The Mission |
+| B2 | Baker Baker |
+| B3 | The Wrong Band |
+| B4 | The Waitress |
+| C1 | Cornflake Girl |
+| C2 | Icicle |
+| C3 | Cloud On My Tongue |
+| D1 | Space Dog |
+| D2 | Yes, Anastasia  |
+
 
 
 ## Apple Music

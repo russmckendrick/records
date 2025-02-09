@@ -45,24 +45,25 @@ Exile on Main St. was originally met with mixed reviews before receiving strong 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rocks Off |
+| A2 | Rip This Joint |
+| A3 | Shake Your Hips |
+| A4 | Casino Boogie |
+| A5 | Tumbling Dice |
+| B1 | Sweet Virginia |
+| B2 | Torn And Frayed |
+| B3 | Sweet Black Angel |
+| B4 | Loving Cup |
+| C1 | Happy |
+| C2 | Turd On The Run |
+| C3 | Ventilator Blues |
+| C4 | I Just Want To See His Face |
+| C5 | Let It Loose |
+| D1 | All Down The Line |
+| D2 | Stop Breaking Down |
+| D3 | Shine A Light |
+| D4 | Soul Survivor |
+
 
 
 ## Apple Music

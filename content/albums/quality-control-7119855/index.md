@@ -34,21 +34,22 @@ Quality Control is the second studio album by American alternative hip hop group
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | How We Get Along |
+| A2 | The Influence |
+| A3 | Great Expectations |
+| A4 | Quality (Intro) |
+| A5 | Quality Control |
+| B1 | Contact |
+| B2 | Lausd |
+| B3 | World Of Entertainment (Woe Is Me) |
+| B4 | Monkey Bars |
+| C1 | Jurass Finish First |
+| C2 | Contribution |
+| C3 | Twelve |
+| D1 | The Game |
+| D2 | Improvise |
+| D3 | Swing Set |
+
 
 
 ## Apple Music

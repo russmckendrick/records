@@ -55,16 +55,17 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Valleys |
+| A2 | A. A. A. A.  |
+| A3 | John Cooper Clarke |
+| A4 | White Rooms & People |
+| A5 | Outside |
+| B1 | Be My Guest |
+| B2 | Tomorrow |
+| B3 | Cook A Coffee |
+| B4 | Teeth |
+| B5 | Angel |
+
 
 
 ## Apple Music

@@ -31,19 +31,17 @@ styles: ["Prog Rock", "Techno", "Space Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ascending |
+| A2 | Slingshot |
+| A3 | Hypersleep |
+| A4 | Descending |
+| A5 | Welcome To Voltus |
+| B1a | The Powert Of The Atom (Winter Version) |
+| B2a | Nuclear Winter |
+| B1b | The Powert Of The Atom (Fusion Version) |
+| B2b | Nuclear Fusion |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

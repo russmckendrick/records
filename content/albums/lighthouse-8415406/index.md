@@ -36,18 +36,19 @@ Lighthouses mark dangerous coastlines, hazardous shoals, reefs, rocks, and safe 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Came Before The Water (Part I) |
+| A2 | Too Many Years |
+| A3 | Clear Clearer |
+| A4 | Sleeping Pills |
+| A5 | Libretto Horror |
+| A6 | Lighthouse |
+| B7 | Harmony |
+| B8 | Matches |
+| B9 | Belighted |
+| B10 | Chalk And Coal |
+| B11 | I Came Before The Water (Part II) |
+| B12 | Post Scriptum |
+
 
 
 ## Apple Music

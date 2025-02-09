@@ -39,20 +39,21 @@ The album was re-released by EMI as a deluxe edition CD and LP on July 17, 2012.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Soothe |
+| A2 | Frail And Bedazzled |
+| A3 | Plume |
+| A4 | Whir |
+| B1 | Blew Away |
+| B2 | Pissant |
+| B3 | Hello Kitty Kat |
+| B4 | Obscured |
+| C1 | Landslide |
+| C2 | Starla |
+| D1 | Blue |
+| D2 | Girl Named Sandoz |
+| D3 | La Dolly Vita |
+| D4 | Spaced |
+
 
 
 ## Apple Music

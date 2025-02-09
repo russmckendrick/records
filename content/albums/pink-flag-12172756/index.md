@@ -35,27 +35,28 @@ Pink Flag is the debut album by the British post-punk band Wire. It was released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Reuters |
+| A2 | Field Day For The Sundays |
+| A3 | Three Girl Rhumba |
+| A4 | Ex Lion Tamer |
+| A5 | Lowdown |
+| A6 | Start To Move |
+| A7 | Brazil |
+| A8 | It's So Obvious |
+| A9 | Surgeon's Girl |
+| A10 | Pink Flag |
+| B1 | The Commercial |
+| B2 | Straight Line |
+| B3 | 106 Beats That |
+| B4 | Mr. Suit |
+| B5 | Strange |
+| B6 | Fragile |
+| B7 | Mannequin |
+| B8 | Different To Me |
+| B9 | Champs |
+| B10 | Feeling Called Love |
+| B11 | 1 2 X U |
+
 
 
 ## Apple Music

@@ -44,19 +44,20 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Everything_Now (Continued) |
+| A2 | Everything Now |
+| A3 | Signs Of Life |
+| A4 | Creature Comfort |
+| A5 | Peter Pan |
+| A6 | Chemistry |
+| A7 | Infinite Content |
+| A8 | Infinite_Content |
+| B1 | Electric Blue |
+| B2 | Good God Damn |
+| B3 | Put Your Money On Me |
+| B4 | We Don't Deserve Love |
+| B5 | Everything Now (Continued) |
+
 
 
 ## Apple Music

@@ -30,17 +30,18 @@ styles: ["Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All Roads Lead To You |
+| A2 | Forbidden Fruit |
+| A3 | I Want Love - Featuring Doris |
+| A4 | Reach For Me ('94 Remix) |
+| A5 | Bad Or Just No Good ('94 Remix) |
+| A6 | Burning Me ('94 Remix) |
+| B1 | No More Whiskey |
+| B2 | Down In The Night |
+| B3 | Better Than The Rest |
+| B4 | Too Posh To Mosh |
+| B5 | Some Kind Of Alien |
+
 
 
 ## Apple Music

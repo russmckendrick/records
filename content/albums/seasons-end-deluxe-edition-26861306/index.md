@@ -33,29 +33,30 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | 2023 Remix |
+| A1 | The King Of Sunset Town |
+| A2 | Easter |
+| B1 | The Uninvited Guest |
+| B2 | Seasons End |
+| C1 | Holloway Girl |
+| C2 | Berlin |
+| D1 | After Me |
+| D2 | Hooks In You |
+| D3 | The Space... |
+|  | Live At The De Montfort Hall 29th May 2022 |
+| E1 | The King Of Sunset Town |
+| E2 | Easter |
+| F1 | The Uninvited Guest |
+| F2 | Seasons End |
+| G1 | Holloway Girl |
+| G2 | Berlin |
+| H1 | After Me |
+| H2 | The Release |
+| H3 | Hooks In You |
+| H4 | The Space... |
+| I | Gaza |
+| J | The Leavers |
+
 
 
 ## Apple Music

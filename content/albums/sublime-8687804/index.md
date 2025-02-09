@@ -43,23 +43,24 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Garden Grove |
+| A2 | What I Got |
+| A3 | Wrong Way |
+| A4 | Same In The End |
+| B1 | April 29, 1992 (Miami) |
+| B2 | Santeria |
+| B3 | Seed |
+| B4 | Jailhouse |
+| C1 | Pawn Shop |
+| C2 | Paddle Out |
+| C3 | The Ballad Of Johnny Butt |
+| C4 | Burritos |
+| C5 | Under My Voodoo |
+| D1 | Get Ready |
+| D2 | Caress Me Down |
+| D3 | What I Got (Reprise) |
+| D4 | Doin' Time |
+
 
 
 ## Apple Music

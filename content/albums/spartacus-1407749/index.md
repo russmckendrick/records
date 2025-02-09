@@ -37,24 +37,25 @@ Spartacus received generally positive reviews from music critics. Although some 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Spartacus |
+| A1 | Hearts & Minds |
+| A2 | How Long |
+| A3 | Sweet Inspiration |
+| A4 | Groovy Train |
+| A5 | Higher & Higher |
+| B1 | Don't Let Me Down |
+| B2 | Family Of Man |
+| B3 | Tell The Story |
+| B4 | Very Emotional |
+| B5 | All Together Now |
+|  | Spartacus (Terry Farley Remix EP) |
+| C1 | Don't Let Me Down (Terry Farley Mix) |
+| C2 | Sweet Inspiration (Terry Farley Mix) |
+| C3 | Higher & Higher (Terry Farley Mix) |
+| D1 | Hearts & Minds (Terry Farley Mix) |
+| D2 | Very Emotional (Terry Farley Mix) |
+| D3 | Groovy Train (Terry Farley Mix) |
+
 
 
 ## Apple Music

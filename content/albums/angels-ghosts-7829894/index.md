@@ -34,15 +34,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Shine |
+| A2 | You Owe Me |
+| A3 | Tempted |
+| A4 | All Of This And Nothing |
+| B1 | One Thing |
+| B2 | Don't Cry |
+| B3 | Lately |
+| B4 | The Last Time |
+| B5 | My Sun |
+
 
 
 ## Apple Music

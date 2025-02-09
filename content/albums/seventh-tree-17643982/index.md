@@ -44,16 +44,17 @@ Four singles were released from the album. "A&E" was released as the lead single
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Clowns |
+| A2 | Little Bird |
+| A3 | Happiness |
+| A4 | Road To Somewhere |
+| A5 | Eat Yourself |
+| B1 | Some People |
+| B2 | A&E |
+| B3 | Cologne Cerrone Houdini |
+| B4 | Caravan Girl |
+| B5 | Monster Love |
+
 
 
 ## Apple Music

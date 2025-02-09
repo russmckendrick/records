@@ -34,10 +34,11 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Clipped |
+| A2 | Die Like A Dog |
+| B1 | Galaxy |
+| B2 | Cherry |
+
 
 
 ## Apple Music

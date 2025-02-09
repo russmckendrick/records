@@ -41,10 +41,11 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Cygnus X-1 Book II: Hemispheres |
+| B1 | Circumstances |
+| B2 | The Trees |
+|  | La Villa Strangiato |
+
 
 
 ## Apple Music

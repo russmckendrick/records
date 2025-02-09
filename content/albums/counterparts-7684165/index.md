@@ -42,17 +42,18 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Animate |
+| A2 | Stick It Out |
+| A3 | Cut To The Chase |
+| A4 | Nobody's Hero |
+| B1 | Between Sun & Moon |
+| B2 | Alien Shore |
+| B3 | The Speed Of Love |
+| C1 | Double Agent |
+| C2 | Leave That Thing Alone |
+| C3 | Cold Fire |
+| C4 | Everyday Glory |
+
 
 
 ## Apple Music

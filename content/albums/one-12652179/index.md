@@ -29,16 +29,17 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Comes Late |
+| A2 | Love Gathers |
+| A3 | Torched |
+| A4 | Please Stop Leaving Me Alone |
+| A5 | I Hold Your Heart |
+| B1 | Waltz No. 9 |
+| B2 | You Were Never In Love |
+| B3 | Locked Inside |
+| B4 | Why Don't You Kiss Me |
+| B5 | Mantra |
+
 
 
 ## Apple Music

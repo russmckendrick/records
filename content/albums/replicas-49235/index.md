@@ -40,16 +40,17 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Me! I Disconnect From You |
+| A2 | Are 'Friends' Electric? |
+| A3 | The Machman |
+| A4 | Praying To The Aliens |
+| A5 | Down In The Park |
+| B1 | You Are In My Vision |
+| B2 | Replicas |
+| B3 | It Must Have Been Years |
+| B4 | When The Machines Rock |
+| B5 | I Nearly Married A Human |
+
 
 
 ## Apple Music

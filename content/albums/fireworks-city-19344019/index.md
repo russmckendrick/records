@@ -30,17 +30,18 @@ Fireworks City is the second album by the rock/reggae influenced UK band Audiowe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Policeman Skank... (The Story Of My Life) |
+| A2 | Test The Theory |
+| A3 | Personal Feeling |
+| A4 | Try |
+| A5 | Sentiments For A Reason |
+| B1 | Soul On Fire |
+| B2 | Freefall |
+| B3 | Out Of Many |
+| B4 | Control |
+| B5 | Out Of My Mind |
+| B6 | Get Out Of Here |
+
 
 
 ## Apple Music

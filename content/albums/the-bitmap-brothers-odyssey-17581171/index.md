@@ -31,24 +31,22 @@ styles: ["Video Game Music"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Xenon, Theme |
+| A2 | Speedball, Theme |
+| A3 | Xenon 2: Megablast, Megablast (Hip Hop On Precinct 13) |
+| A4 | Speedball 2: Brutal Deluxe, Theme |
+| A5 | Cadaver, Theme |
+| A6 | Magic Pockets, Doin' the Do |
+| A7 | Gods, Into the Wonderful |
+| B1 | The Chaos Engine, Theme |
+| B2 | The Chaos Engine, World One |
+| B3 | The Chaos Engine, World Two |
+| B4 | The Chaos Engine, World Three |
+| B5 | The Chaos Engine 2, Theme |
+| B6 | The Chaos Engine 2, Future World |
+| B7 | Z (Demo), Volcanic |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

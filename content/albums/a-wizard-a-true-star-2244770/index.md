@@ -42,29 +42,30 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | International Feel |
+| A2 | Never Never Land |
+| A3 | Tic Tic Tic It Wears Off |
+| A4 | You Need Your Head |
+| A5 | Rock And Roll Pussy |
+| A6 | Dogfight Giggle |
+| A7 | You Don't Have To Camp Around |
+| A8 | Flamingo |
+| A9 | Zen Archer |
+| A10 | Just Another Onion Head; Da Da Dali |
+| A11 | When The Shit Hits The Fan; Sunset Blvd |
+| A12 | Le Feel Internacionale |
+| B1 | Sometimes I Don't Know What To Feel |
+| B2 | Does Anybody Love You? |
+|  | Medley |
+| B3.1 | I'm So Proud |
+| B3.2 | Ooh Baby Baby |
+| B3.3 | La La Means I Love You |
+| B3.4 | Cool Jerk |
+| B4 | Hungry For Love |
+| B5 | I Don't Want To Tie You Down |
+| B6 | Is It My Name? |
+| B7 | Just One Victory |
+
 
 
 ## Apple Music

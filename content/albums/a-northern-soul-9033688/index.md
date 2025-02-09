@@ -39,18 +39,19 @@ A Northern Soul received positive reviews from music critics, many of whom prais
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A New Decade |
+| A2 | This Is Music |
+| A3 | On Your Own |
+| A4 | So It Goes |
+| B1 | A Northern Soul |
+| B2 | Brainstorm Interlude |
+| B3 | Drive You Home |
+| C1 | History |
+| C2 | No Knock On My Door |
+| C3 | Life's An Ocean |
+| D1 | Stormy Clouds |
+| D2 | (Reprise) |
+
 
 
 ## Apple Music

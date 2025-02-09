@@ -26,15 +26,16 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Forge |
+| A2 | Limbs |
+| A3 | Magpie |
+| A4 | Perfectly Planned |
+| B1 | Migraine |
+| B2 | Everyone Is Guilty To Me |
+| B3 | Max |
+| B4 | Bloom |
+| B5 | Hellsto (The Sweetness Came For Us) |
+
 
 
 ## Apple Music

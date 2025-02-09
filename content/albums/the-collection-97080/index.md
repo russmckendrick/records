@@ -33,20 +33,21 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dancing With Tears In My Eyes |
+| A2 | Hymn (The Power And The Glory) |
+| A3 | The Thin Wall |
+| A4 | The Voice |
+| A5 | Vienna |
+| A6 | Passing Strangers |
+| A7 | Sleepwalk |
+| B1 | Reap The Wild Wind |
+| B2 | All Stood Still |
+| B3 | Visions In Blue |
+| B4 | We Came To Dance |
+| B5 | One Small Day |
+| B6 | Love's Great Adventure |
+| B7 | Lament |
+
 
 
 ## Apple Music

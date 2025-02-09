@@ -43,16 +43,17 @@ The world’s recording studios are littered with the ghosts and abandoned recor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Raise Your Hands |
+| A2 | Mars To Liverpool |
+| A3 | One Day At A Time |
+| A4 | I'm A Wheel |
+| A5 | Just Another Rainbow |
+| B6 | Love You Forever |
+| B7 | Make It Up As You Go Along |
+| B8 | You're Not The Only One |
+| B9 | I'm So Bored |
+| B10 | Mother Nature's Song |
+
 
 
 ## Apple Music

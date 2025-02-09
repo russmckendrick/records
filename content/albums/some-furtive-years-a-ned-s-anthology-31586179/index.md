@@ -33,22 +33,23 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Grey Cell Green |
+| A2 | Kill Your Television |
+| A3 | Until You Find Out |
+| A4 | Happy |
+| A5 | Trust |
+| A6 | Not Sleeping Around |
+| B1 | Intact |
+| B2 | All I Ask Of Myself Is That I Hold Together |
+| B3 | Stuck |
+| B4 | Cut Up |
+| B5 | Selfish |
+| C1 | Scrawl |
+| C2 | Leg End In His Own Boots |
+| C3 | Who Goes First? |
+| C4 | Traffic |
+| C5 | Song 11 Could Take Forever |
+
 
 
 ## Apple Music

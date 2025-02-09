@@ -34,17 +34,18 @@ But Jawbreaker frontman Blake Schwarzenbach’s mind was also preoccupied with t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Boat Dreams From The Hill |
+| A2 | Indictment |
+| A3 | Boxcar |
+| A4 | Outpatient |
+| A5 | Ashtray Monument |
+| A6 | Condition Oakland |
+| B1 | Ache |
+| B2 | Do You Still Hate Me? |
+| B3 | West Bay Invitational |
+| B4 | Jinx Removing |
+| B5 | In Sadding Around |
+
 
 
 ## Apple Music

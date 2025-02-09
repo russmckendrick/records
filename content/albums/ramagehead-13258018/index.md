@@ -35,15 +35,16 @@ styles: ["Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kneel To Nothing |
+| A2 | Signals Erased |
+| A3 | Beyond Sight |
+| A4 | Black Blooms |
+| A5 | Some Other Rainbow Part 1 |
+| B6 | Time Corroded |
+| B7 | Down The Road |
+| B8 | Strangled Words |
+| B9 | Some Other Rainbow Part 2 |
+
 
 
 ## Apple Music

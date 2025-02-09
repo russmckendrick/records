@@ -36,18 +36,19 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Somebody To Shove |
+| A2 | Black Gold |
+| A3 | Runaway Train |
+| A4 | Keep It Up |
+| A5 | Homesick |
+| A6 | Get On Out |
+| B1 | New World |
+| B2 | April Fool |
+| B3 | Without A Trace |
+| B4 | Growing Into You |
+| B5 | 99% |
+| B6 | The Sun Maid |
+
 
 
 ## Apple Music

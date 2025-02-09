@@ -34,51 +34,52 @@ The mix definitively dynamites the idea that different styles should be kept apa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1.1 | Peter Gunn (Live) |
+| A1.2 | Where's Your Head At (Head-A-Pella) |
+| A2 | Fuck The Pain Away |
+| A3 | I'm Waiting For The Man |
+| A4.1 | J'Aime Regarder Les Mecs |
+| A4.2 | Dance To The Music |
+| A4.3 | Oh Sheila (A Capella) |
+| A5 | I Wanna Be Your Dog |
+| A6 | Disko Kings |
+| A7.1 | The "O" Medley |
+| A7.2 | Silverscreen-Shower Scene |
+| B1.1 | No Fun |
+| B1.2 | Push It |
+| B2.1 | Joe Le Taxi |
+| B2.2 | Crush On You (A Capella) |
+| B3.1 | Funkacise |
+| B3.2 | Motocross Madness |
+| B3.3 | French Kiss |
+| B4 | Serious Trouble |
+| B5 | Androgyny 'Thee Glitz Mix' By Felix Da Housecat |
+| B6.1 | Disc Jockey's Delight Vol. 2 |
+| B6.2 | Kaw-Liga (Prairie Mix) |
+| B7 | Shake Your Body |
+| B8 | Into The Stars (Firebirds Remix) |
+| B9.1 | Concepts |
+| B9.2 | 99 Luftballons |
+| C1.1 | Independent Women Part 1 (A Capella) |
+| C1.2 | Dreadlock Holiday |
+| C2.1 | 9 To 5 |
+| C2.2 | Eple |
+| C3 | Death Disco |
+| C4 | Keine Melodien |
+| C5.1 | I Wish (A Cappella) |
+| C5.2 | My Gigolo |
+| C5.3 | Cannonball |
+| D1 | Human Fly |
+| D2 | Danger! High Voltage |
+| D3 | Don't Bring Me Down |
+| D4 | Hand To Phone |
+| D5 | La Rock 01 |
+| D6 | I Was Made For Loving You |
+| D7.1 | The Beach |
+| D7.2 | Sandwiches (A Capella) |
+| D8 | I Sit On Acid (Soulwax Remix) |
+| D9 | Start Button |
+
 
 
 ## Apple Music

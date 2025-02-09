@@ -37,19 +37,20 @@ Following the album's release, none of its songs were included in the concert se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 4-Way Diablo |
+| A2 | Wall Of Fire |
+| A3 | You're Alive |
+| A4 | Blow Your Mind |
+| B1 | Cyclone |
+| B2 | 2000 Light Years From Home |
+| B3 | No Vacation |
+| C1 | I'm Calling You |
+| C2 | Solid Gold |
+| C3 | Freeze And Pixillate |
+| D1 | A Thousand Stars |
+| D2 | Slap In The Face |
+| D3 | Little Bag Of Gloom |
+
 
 
 ## Apple Music

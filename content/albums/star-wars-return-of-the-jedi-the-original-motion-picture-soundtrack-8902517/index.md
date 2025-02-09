@@ -31,17 +31,18 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Main Title (The Story Continues) |
+| A2 | Into The Trap |
+| A3 | Luke And Leia |
+| A4 | Parade Of The Ewoks |
+| A5 | Han Solo Returns (At The Court Of Jabba The Hutt) |
+| A6 | Lapti Nek (Jabba's Palace Band) |
+| B1 | The Forest Battle |
+| B2 | Rebel Briefing |
+| B3 | The Emperor |
+| B4 | The Return Of The Jedi |
+| B5 | Ewok Celebration And Finale |
+
 
 
 ## Apple Music

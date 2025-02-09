@@ -39,16 +39,17 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Open Mind |
+| A2 | Blackfield |
+| A3 | Glow |
+| A4 | Scars |
+| A5 | Lullaby |
+| B1 | Pain |
+| B2 | Summer |
+| B3 | Cloudy Now |
+| B4 | The Hole In Me |
+| B5 | Hello |
+
 
 
 ## Apple Music

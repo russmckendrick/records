@@ -39,28 +39,29 @@ The title refers to the Russian olive trees that stand along the I-25 highway ne
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pale Green Ghosts |
+| A2 | Black Belt |
+| A3 | GMF |
+| B1 | Vietnam |
+| B2 | It Doesn't Matter To Him |
+| B3 | Why Don't You Love Me Anymore |
+| C1 | You Don't Have To |
+| C2 | Sensitive New Age Guy |
+| C3 | Ernest Borgnine |
+| D1 | I Hate This Town |
+| D2 | Glacier |
+| CD-1 | Pale Green Ghosts |
+| CD-2 | Black Belt |
+| CD-3 | GMF |
+| CD-4 | Vietnam |
+| CD-5 | It Doesn't Matter To Him |
+| CD-6 | Why Don't You Love Me Anymore |
+| CD-7 | You Don't Have To |
+| CD-8 | Sensitive New Age Guy |
+| CD-9 | Ernest Borgnine |
+| CD-10 | I Hate This Town |
+| CD-11 | Glacier |
+
 
 
 ## Apple Music

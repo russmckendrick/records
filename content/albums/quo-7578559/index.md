@@ -33,14 +33,15 @@ For a full list of the band's songs, see List of songs by Status Quo.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Backwater |
+| A2 | Just Take Me |
+| A3 | Break The Rules |
+| A4 | Drifting Away |
+| B1 | Don't Think It Matters |
+| B2 | Fine Fine Fine |
+| B3 | Lonely Man |
+| B4 | Slow Train |
+
 
 
 ## Apple Music

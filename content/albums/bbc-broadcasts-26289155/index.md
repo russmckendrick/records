@@ -50,41 +50,39 @@ BBC Broadcasts is a box set by the English rock band Genesis. It was released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Paris (1972) |
+| A1 | The Musical Box |
+|  | Sound Of The 70's (1971) |
+| A2 | Stagnation |
+|  | Sound Of The 70's (1972) |
+| A3 | Harlequin |
+| A4 | Harold The Barrel |
+|  | Top Gear (1972) |
+| B1 | Get' Em Out By Friday |
+|  | Wembley Arena (1975) |
+| B2 | Watcher Of The Skies |
+|  | Lyceum (1980) |
+| B3 | Dancing With The Moonlit Knight |
+| B4 | The Carpet Crawlers |
+| C1 | Behind The Lines |
+| C2 | Duchess |
+| C3 | Guide Vocal |
+| C4 | Duke‘s Travels |
+| C5 | Duke's End |
+| D1 | Say It's Alright Joe |
+| D2 | The Lady Lies |
+| D3 | I Know What I Like (In Your Wardrobe) |
+|  | Wembley (1987) |
+| E1 | Mama |
+| E2 | That's All |
+| E3 | Home By The Sea |
+| E4 | Second Home By The Sea |
+| F1 | Throwing It All Away |
+|  | Knebworth (1992) |
+| F2 | No Son Of Mine |
+| F3 | Driving The Last Spike |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

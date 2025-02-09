@@ -26,10 +26,11 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| B1 | Aim |
+| B2 | Plug Me In |
+| BB1 | Grey Cell Green |
+| BB2 | Terminally Groovie |
+
 
 
 ## Apple Music

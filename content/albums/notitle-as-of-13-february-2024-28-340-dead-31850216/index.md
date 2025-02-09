@@ -40,13 +40,14 @@ styles: ["Post Rock", "Drone"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sun Is A Hole Sun Is Vapors |
+| A2 | Babys In A Thundercloud |
+| B3 | Raindrops Cast In Lead |
+| C4 | Broken Spires At Dead Kapital |
+| C5 | Pale Spectator Takes Photographs |
+| C6 | Grey Rubble — Green Shoots |
+| D7 | Untitled |
+
 
 
 ## Apple Music

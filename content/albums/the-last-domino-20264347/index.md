@@ -48,33 +48,34 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dukes End |
+| A2 | Turn It On Again |
+| A3 | Mama |
+| A4 | Land Of Confusion |
+| B1 | Home By The Sea |
+| B2 | Second Home By The Sea |
+| B3 | Fading Lights |
+| C1 | The Cinema Show |
+| C2 | Afterglow |
+| C3 | Hold On My Heart |
+| D1 | Jesus He Knows Me |
+| D2 | That's All |
+| D3 | The Lamb Lies Down On Broadway |
+| D4 | In Too Deep |
+| D5 | Follow You Follow Me |
+| E1 | Duchess |
+| E2 | No Son Of Mine |
+| E3 | Firth Of Fifth |
+| F1 | I Know What I Like |
+| F2 | Domino |
+| F3 | Throwing It All Away |
+| G1 | Tonight, Tonight, Tonight |
+| G2 | Invisible Touch |
+| G3 | I Can't Dance |
+| H1 | Dancing With The Moonlit Knight |
+| H2 | Carpet Crawlers |
+| H3 | Abacab |
+
 
 
 ## Apple Music

@@ -45,20 +45,21 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Gold Dream (81-82-83-84) |
+| A2 | What Can You Do For Me |
+| A3 | Soulution |
+| B1 | Believe In Me |
+| B2 | Too Much To Swallow (Part 1) |
+| B3 | Something Good |
+| B4 | I Want You |
+| C1 | States Of Mind |
+| C2 | Trance Atlantic Glide |
+| C3 | Kinetic Synthetic |
+| C4 | My Mind Must Be Free |
+| D1 | Highlander (CJ Bolland Mix) |
+| D2 | Ohio (DJ Misjah Mix) |
+| D3 | Star (Union Jack Mix) |
+
 
 
 ## Apple Music

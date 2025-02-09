@@ -36,28 +36,29 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Say Your Goodbyes Part 1 |
+| A2 | Always The Stranger |
+| A3 | It's Easier To Love |
+| A4 | We Feel |
+| A5 | Lost Player |
+| A6 | Only A Fool |
+| B1 | After The Stranger |
+| B2 | Glitter Fades |
+| B3 | About The Light That Hits The Forest Floor |
+| B4 | Dark Nevada Dream |
+| B5 | Say Your Goodbyes Part 2 |
+| CD-1 | Say Your Goodbyes Part 1 |
+| CD-2 | Always The Stranger |
+| CD-3 | It's Easier To Love |
+| CD-4 | We Feel |
+| CD-5 | Lost Player |
+| CD-6 | Only A Fool |
+| CD-7 | After The Stranger |
+| CD-8 | Glitter Fades |
+| CD-9 | About The Light That Hits The Forest Floor |
+| CD-10 | Dark Nevada Dream |
+| CD-11 | Say Your Goodbyes Part 2 |
+
 
 
 ## Apple Music

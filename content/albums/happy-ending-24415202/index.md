@@ -32,19 +32,20 @@ A happy ending is epitomized in the standard fairy tale ending phrase, "happily 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Happy Ending |
+| A2 | The Fever |
+| A3 | Beautiful |
+| B1 | Hurricanes |
+| B2 | All In The World |
+| B3 | Diamond Dust |
+| C1 | The Skin I'm In |
+| C2 | Maybe |
+| C3 | Bunker To Bunker |
+| C4 | Transatlantic |
+| D1 | Real Thoughts In Real Time |
+| D2 | Otherwise |
+| D3 | Aurora (Parts 1 & 2) |
+
 
 
 ## Apple Music

@@ -40,18 +40,19 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | When We Were Young |
+| A2 | Déjà Vu |
+| A3 | The Last Refugee |
+| B4 | Picture That |
+| B5 | Broken Bones |
+| C6 | Is This The Life We Really Want? |
+| C7 | Bird In A Gale |
+| C8 | The Most Beautiful Girl |
+| D9 | Smell The Roses |
+| D10 | Wait For Her |
+| D11 | Oceans Apart |
+| D12 | Part Of Me Died |
+
 
 
 ## Apple Music

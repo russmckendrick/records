@@ -38,26 +38,24 @@ styles: ["Pop Rock", "Soft Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Under The Moonlight |
+| A2 | It's Not Too Late |
+| A3 | School Girl |
+| A4 | Love Remember Me |
+| B1 | Love Surrounds Me |
+| B2 | Wild Situation |
+| B3 | Common |
+| B4 | Are You Real |
+| C1 | He's A Bum |
+| C2 | Cocktails |
+| C3 | I Love You |
+| C4 | Constant Companion |
+| D1 | Time For Bed |
+| D2 | Album Tag Song |
+| D3 | All Alone |
+| D4 | Piano Variations On Thoughts Of You |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

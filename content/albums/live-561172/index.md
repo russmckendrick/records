@@ -29,19 +29,20 @@ styles: ["Comedy", "Spoken Word"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Worst Job I Ever Had |
+| A2 | This Bloke Came Up To Me |
+| A3 | The Worst Job He Ever Had |
+| A4 | Squatter And The Ant |
+| A5 | In The Lav |
+| A6 | Little Flo |
+| A7 | Just One Of Those Songs |
+| B1 | Winkie Wanky Woo |
+| B2 | Bo Duddley |
+| B3 | Blind |
+| B4 | Top Rank |
+| B5 | Cancer |
+| B6 | Jump |
+
 
 
 ## Apple Music

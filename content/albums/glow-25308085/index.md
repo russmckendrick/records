@@ -31,18 +31,19 @@ Glow is the second studio album by English rock band Reef. Produced by the band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Place Your Hands |
+| A2 | I Would Have Left You |
+| A3 | Summer's In Bloom |
+| A4 | Lately Stomping |
+| A5 | Consideration |
+| A6 | Don't You Like It? |
+| B1 | Come Back Brighter |
+| B2 | Higher Vibration |
+| B3 | I'm Not Scared |
+| B4 | Robot Riff |
+| B5 | Yer Old |
+| B6 | Lullaby |
+
 
 
 ## Apple Music

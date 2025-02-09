@@ -29,16 +29,14 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Will Tear Us Apart |
+| A2 | Wicked Game |
+| A3 | The Living Dead |
+| B1 | Asleep |
+| B2 | Elderly Woman Behind The Counter In A Small Town |
+| B3 | Tender |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

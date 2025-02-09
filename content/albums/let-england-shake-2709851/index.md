@@ -35,18 +35,19 @@ Upon release, the album received numerous accolades. It was placed 2011 "Album o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Let England Shake |
+| A2 | The Last Living Rose |
+| A3 | The Glorious Land |
+| A4 | The Words That Maketh Murder |
+| A5 | All And Everyone |
+| A6 | On Battleship Hill |
+| B1 | England |
+| B2 | In The Dark Places |
+| B3 | Bitter Branches |
+| B4 | Hanging In The Wire |
+| B5 | Written On The Forehead |
+| B6 | The Colour Of The Earth |
+
 
 
 ## Apple Music

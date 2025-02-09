@@ -37,17 +37,18 @@ Although Ummagumma was well received at the time of release, and was a top-five 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Live Album |
+| A1 | Astronomy Domine |
+| A2 | Careful With That Axe Eugene |
+| B1 | Set The Controls For The Heart Of The Sun |
+| B2 | A Saucerful Of Secrets |
+|  | Studio Album |
+|  | Sysyphus |
+| C2 | Grantchester Meadows |
+| C3 | Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict |
+|  | The Narrow Way |
+|  | The Grand Vizier's Garden Party |
+
 
 
 ## Apple Music

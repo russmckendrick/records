@@ -45,15 +45,16 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bold As Brass |
+| A2 | My Mistake |
+| A3 | Parrot Fashion Love |
+| A4 | Sugar And Spice |
+| A5 | Without A Doubt |
+| B1 | Crosswords |
+| B2 | Charley |
+| B3 | Nice To Know |
+| B4 | Jamboree |
+
 
 
 ## Apple Music

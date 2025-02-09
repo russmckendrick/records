@@ -29,23 +29,24 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Velocity Girl |
+| A2 | Gentle Tuesday |
+| A3 | Imperial |
+| A4 | Ivy Ivy Ivy |
+| A5 | Loaded |
+| B1 | Come Together |
+| B2 | Higher Than The Sun |
+| B3 | Don't Fight It, Feel It |
+|  B4 | Movin' On Up |
+| C1 | Rocks |
+| C2 | Jailbird |
+| C3 | (I'm Gonna) Cry Myself Blind |
+| C4 | Kowalski |
+| D1 | Star |
+| D2 | Burning Wheel |
+| D3 | Swastika Eyes |
+| D4 | Kill All Hippies |
+
 
 
 ## Apple Music

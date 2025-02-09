@@ -34,17 +34,18 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heart And Soul |
+| A2 | I Will Be With You |
+| A3 | China In Your Hand |
+| A4 | Friends Like These |
+| A5 | Sex Talk |
+| B1 | Bridge Of Spies |
+| B2 | Monkey House |
+| B3 | Valentine |
+| B4 | Thank You For Goodbye |
+| B5 | You Give Up |
+| B6 | China In Your Hand (Reprise) |
+
 
 
 ## Apple Music

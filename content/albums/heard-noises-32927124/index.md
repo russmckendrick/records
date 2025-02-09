@@ -33,24 +33,22 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Why On Fire? |
+| A2 | Silver Rings |
+| A3 | Interlude |
+| A4 | Be Alarmed |
+| A5 | I Gotta Limit |
+| A6 | Wedding Photo Stranger |
+| A7 | Stay On The Ground |
+| B1 | I Entered As I Came |
+| B2 | There Are Monsters |
+| B3 | To Live For What Once Was |
+| B4 | Canada Dry |
+| B5 | The Snakes Will Slide |
+| B6 | Interlude 2 |
+| B7 | Sky High |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -39,18 +39,19 @@ Neither the UK or US edition of Smash Hits contain any songs from Axis: Bold as 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Purple Haze |
+| A2 | Fire |
+| A3 | The Wind Cries Mary |
+| A4 | Can You See Me |
+| A5 | Hey Joe |
+| A6 | All Along The Watchtower |
+| B1 | Stone Free |
+| B2 | Crosstown Traffic |
+| B3 | Manic Depression |
+| B4 | Remember |
+| B5 | Red House |
+| B6 | Foxey Lady |
+
 
 
 ## Apple Music

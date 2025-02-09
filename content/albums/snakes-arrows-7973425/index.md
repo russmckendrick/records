@@ -40,19 +40,20 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Far Cry |
+| A2 | Armor And Sword |
+| A3 | Working Them Angels |
+| B1 | Larger Bowl |
+| B2 | Spindrift |
+| B3 | Monkey Business |
+| C1 | The Way The Wind Blows |
+| C2 | Hope |
+| C3 | Faithless |
+| D1 | Bravest Face |
+| D2 | Good News First |
+| D3 | Malignant Narcissism |
+| D4 | Hold On |
+
 
 
 ## Apple Music

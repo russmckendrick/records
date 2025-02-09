@@ -39,19 +39,20 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | X1 |
+| A1 | Gimme All Your Lovin |
+| A2 | Got Me Under Pressure |
+| A3 | Sharp Dressed Man |
+| A4 | I Need You Tonight |
+| A5 | I Got The Six |
+|  | X2 |
+| B1 | Legs |
+| B2 | Thug |
+| B3 | TV Dinners |
+| B4 | Dirty Dog |
+| B5 | If I Could Only Flag Her Down |
+| B6 | Bad Girl |
+
 
 
 ## Apple Music

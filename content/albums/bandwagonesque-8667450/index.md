@@ -35,18 +35,19 @@ Bandwagonesque is the third album by Scottish alternative rock band Teenage Fanc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Concept |
+| A2 | Satan |
+| A3 | December |
+| A4 | What You Do To Me |
+| A5 | I Don't Know |
+| A6 | Star Sign |
+| B1 | Metal Baby |
+| B2 | Pet Rock |
+| B3 | Sidewinder |
+| B4 | Alcoholiday |
+| B5 | Guiding Star |
+| B6 | Is This Music? |
+
 
 
 ## Apple Music

@@ -54,22 +54,23 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chelsea Girl |
+| A2 | Drive Blind |
+| A3 | All I Can See |
+| A4 | Close My Eyes |
+| B1 | Like A Daydream |
+| B2 | Silver |
+| B3 | Furthest Sense |
+| B4 | Perfect Time |
+| C1 | Dreams Burn Down |
+| C2 | Taste |
+| C3 | Here and Now |
+| C4 | Nowhere |
+| D1 | Unfamiliar |
+| D2 | Sennen |
+| D3 | Beneath |
+| D4 | Today |
+
 
 
 ## Apple Music

@@ -28,29 +28,27 @@ styles: ["Indie Rock", "Contemporary"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sometimes |
+| A2 | Love Make A Fool |
+| A3 | We're Gonna Miss You |
+| A4 | Tomorrow |
+| B1 | The Lake |
+| B2 | She's A Star |
+| B3 | Lookaway |
+| B4 | Sit Down |
+| B5 | Alaskan Pipeline |
+| C1 | Someone's Got It In For Me |
+| C2 | Hey Ma |
+| C3 | Hello |
+| C4 | Beautiful Beaches |
+| C5 | Why So Close |
+| D1 | Medieval |
+| D2 | Say Something |
+| D3 | Top Of The World |
+| D4 | Moving On |
+| D5 | Laid |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

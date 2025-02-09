@@ -31,17 +31,18 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Davidian |
+| A2 | Old |
+| A3 | A Thousand Lies |
+| A4 | None But My Own |
+| A5 | The Rage To Overcome |
+| B1 | Death Church |
+| B2 | A Nation On Fire |
+| B3 | Blood For Blood |
+| B4 | I'm Your God Now |
+| B5 | Real Eyes, Realize, Real Lies |
+| B6 | Block |
+
 
 
 ## Apple Music

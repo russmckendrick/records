@@ -37,19 +37,20 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Reindeer King |
+| A2 | Wings |
+| A3 | Broken Arrow |
+| B1 | Cloud Riders |
+| B2 | Up The Creek |
+| B3 | Breakaway |
+| C1 | Wildwood |
+| C2 | Chocolate Song |
+| C3 | Bang |
+| D1 | Climb |
+| D2 | Bats |
+| D3 | Benjamin |
+| D4 | Mary's Eyes |
+
 
 
 ## Apple Music

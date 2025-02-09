@@ -33,9 +33,10 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| A | History Never Repeats |
+| B1 | Shark Attack |
+| B2 | What's The Matter With You |
+
 
 
 ## Apple Music

@@ -32,16 +32,17 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The State I Am In |
+| A2 | Expectations |
+| A3 | She's Losing It |
+| A4 | You're Just A Baby |
+| A5 | Electronic Renaissance |
+| B1 | I Could Be Dreaming |
+| B2 | We Rule The School |
+| B3 | My Wandering Days Are Over |
+| B4 | I Don't Love Anyone |
+| B5 | Mary Jo |
+
 
 
 ## Apple Music

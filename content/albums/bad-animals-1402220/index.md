@@ -37,16 +37,17 @@ The album's title refers to the band members themselves: they would call themsel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Who Will You Run To |
+| A2 | Alone |
+| A3 | There's The Girl |
+| A4 | I Want You So Bad |
+| A5 | Wait For An Answer |
+| B1 | Bad Animals |
+| B2 | You Ain't So Tough |
+| B3 | Strangers Of The Heart |
+| B4 | Easy Target |
+| B5 | RSVP |
+
 
 
 ## Apple Music

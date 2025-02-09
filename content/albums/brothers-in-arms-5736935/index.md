@@ -40,15 +40,16 @@ The album won a Grammy Award in 1986 for Best Engineered Album, Non-Classical an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | So Far Away |
+| A2 | Money For Nothing |
+| B1 | Walk Of Life |
+| B2 | Your Latest Trick |
+| C1 | Why Worry |
+| C2 | Ride Across The River |
+| D1 | The Man's Too Strong |
+| D2 | One World |
+| D3 | Brothers In Arms |
+
 
 
 ## Apple Music

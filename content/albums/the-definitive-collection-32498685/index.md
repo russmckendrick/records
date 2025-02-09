@@ -41,27 +41,28 @@ Stevie Wonder: The Definitive Collection is a compilation album, released in 200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fingertips - Pt. 2 |
+| A2 | Uptight (Everything's Alright) |
+| A3 | Hey Love |
+| A4 | I Was Made To Love Her |
+| A5 | For Once In My Life |
+| A6 | My Cherie Amour |
+| A7 | Signed, Sealed, Delivered I'm Yours |
+| B1 | You Are The Sunshine Of My Life |
+| B2 | Superstition |
+| B3 | Higher Ground |
+| B4 | Living For The City |
+| C1 | You Haven't Done Nothin' |
+| C2 | Boogie On Reggae Woman |
+| C3 | I Wish |
+| C4 | Sir Duke |
+| C5 | Master Blaster (Jammin') |
+| D1 | That Girl |
+| D2 | Do I Do |
+| D3 | I Just Called To Say I Love You |
+| D4 | Overjoyed |
+| D5 | Part Time Lover |
+
 
 
 ## Apple Music

@@ -78,19 +78,20 @@ With the second instalment of their <i>Vaxis</i> story arc, emo-prog wizards Coh
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Embers of Fire |
+| A2 | Beautiful Losers |
+| A3 | Comatose |
+| A4 | Shoulders |
+| A5 | A Disappearing Act |
+| B1 | Love Murder One |
+| B2 | Blood |
+| B3 | The Liars Club |
+| B4 | Bad Man |
+| C1 | Our Love |
+| C2 | Ladders of Supremacy |
+| C3 | Rise, Naianasha (Cut the Cord) |
+| D1 | Window of the Waking Mind |
+
 
 
 ## Apple Music

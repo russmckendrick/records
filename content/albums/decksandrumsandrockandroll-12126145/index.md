@@ -37,19 +37,20 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Take California |
+| A2 | Echo And Bounce |
+| A3 | Velvet Pants |
+| B1 | Better? |
+| B2 | Oh Yeah! |
+| B3 | History Repeating |
+| B4 | Winning Style |
+| C1 | Bang On! |
+| C2 | A Number Of Microphones |
+| C3 | On Her Majesty’s Secret Service |
+| D1 | Bigger? |
+| D2 | Cominagetcha |
+| D3 | Spybreak! |
+
 
 
 ## Apple Music

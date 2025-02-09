@@ -38,15 +38,16 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Friend Or Foe? |
+| A2 | Landmine Blast |
+| A3 | Big Tech Brother |
+| B1 | Post-Truth |
+| B2 | The Place Where I Belong |
+| C1 | I'm Done With You |
+| C2 | Self-Aware |
+| D1 | Age Of Anger |
+| D2 | Together Again |
+
 
 
 ## Apple Music

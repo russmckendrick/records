@@ -33,18 +33,19 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Stand Above Me |
+| A2 | Everyday |
+| A3 | King Of Stone |
+| A4 | Dollar Girl |
+| A5 | Dream Of Me (Based On Love's Theme) |
+| A6 | Sunday Morning |
+| B1 | Agnus Dei |
+| B2 | Love And Hate You |
+| B3 | Heaven Is |
+| B4 | Best Years Of Our Lives |
+| B5 | Christine |
+| B6 | Only Tears |
+
 
 
 ## Apple Music

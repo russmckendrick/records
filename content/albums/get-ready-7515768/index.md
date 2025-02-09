@@ -53,16 +53,17 @@ For the follow-up to her harrowing 2019 album <i>Caligula</i>, Kristin Hayter (a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crystal |
+| A2 | 60 Miles An Hour |
+| A3 | Turn My Way |
+| A4 | Vicious Streak |
+| A5 | Primitive Notion |
+| B6 | Slow Jam |
+| B7 | Rock The Shack |
+| B8 | Someone Like You |
+| B9 | Close Range |
+| B10 | Run Wild |
+
 
 
 ## Apple Music

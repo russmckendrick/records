@@ -85,16 +85,17 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Chaos Space Marine |
+| A3 | Concorde |
+| A4 | Bread Song |
+| B1 | Good Will Hunting |
+| B2 | Haldern |
+| B3 | Mark's Theme |
+| C1 | The Place Where He Inserted The Blade |
+| C2 | Snow Globes |
+| D1 | Basketball Shoes |
+
 
 
 ## Apple Music

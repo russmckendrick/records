@@ -35,20 +35,21 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Skywaving |
+| A2 | Life In The Wires (Part 1) |
+| A3 | This House Of Winter |
+| A4 | The Solid State Orchestra |
+| B5 | Evaporator |
+| B6 | Strange World |
+| B7 | Idiot Box |
+| B8 | Absent Friends |
+| C9 | School (Introducing The All Seeing Eye) |
+| C10 | Propergander |
+| C11 | Sign Of Life |
+| C12 | Moral And Consequence |
+| D13 | Life In The Wires (Part 2) |
+| D14 | Starting Fires |
+
 
 
 ## Apple Music

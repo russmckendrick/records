@@ -38,17 +38,18 @@ Despite occasionally serious or cynical topics, Field Music attempted to infuse 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Time In Joy |
+| A2 | Count It Up |
+| A3 | Front Of House |
+| A4 | Share A Pillow |
+| A5 | Open Here |
+| A6 | Goodbye To The Country |
+| B1 | Checking On A Message |
+| B2 | No King No Princess |
+| B3 | Cameraman |
+| B4 | Daylight Saving |
+| B5 | Find A Way To Keep Me |
+
 
 
 ## Apple Music

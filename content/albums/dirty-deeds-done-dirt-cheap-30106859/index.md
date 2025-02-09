@@ -53,15 +53,16 @@ Dirty Deeds Done Dirt Cheap is the third studio album by Australian hard rock ba
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dirty Deeds Done Dirt Cheap |
+| A2 | Love At First Feel |
+| A3 | Big Balls |
+| A4 | Rocker |
+| A5 | Problem Child |
+| B1 | There's Gonna Be Some Rockin' |
+| B2 | Ain't No Fun (Waiting Round To Be A Millionaire) |
+| B3 | Ride On |
+| B4 | Squealer |
+
 
 
 ## Apple Music

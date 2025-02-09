@@ -34,17 +34,18 @@ Weather Diaries is the fifth studio album by English rock band Ride. The album w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lannoy Point |
+| A2 | Charm Assault |
+| B1 | All I Want |
+| B2 | Home Is A Feeling |
+| B3 | Weather Diaries |
+| C1 | Rocket Silver Symphony |
+| C2 | Lateral Alice |
+| C3 | Cali |
+| D1 | Integration Tape |
+| D2 | Impermanence |
+| D3 | White Sands |
+
 
 
 ## Apple Music

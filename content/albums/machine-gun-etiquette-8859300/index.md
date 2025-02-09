@@ -33,18 +33,19 @@ The album was the group's first since reforming with a new lineup of previous me
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Song |
+| A2 | Machine Gun Etiquette |
+| A3 | I Just Can't Be Happy Today |
+| A4 | Melody Lee |
+| A5 | Antipope |
+| A6 | These Hands |
+| B1 | Plan 9 Channel 7 |
+| B2 | Noise Noise Noise |
+| B3 | Looking At You |
+| B4 | Liar |
+| B5 | Smash It Up (Part 1) |
+| B6 | Smash It Up (Part 2) |
+
 
 
 ## Apple Music

@@ -34,17 +34,18 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cult Leader Tactics |
+| A2 | Internationalle |
+| A3 | Dirty Trix |
+| A4 | Cult Leader Tactics In E-Flat Minor |
+| A5 | You've Got No Life Skills, Baby! |
+| A6 | U Killed My Fish |
+| B1 | Everyone Becomes A Problem Eventually |
+| B2 | Annie |
+| B3 | Talkin Behind My Back |
+| B4 | Omega Man |
+| B5 | Lyin Bout Who You Sleep With |
+
 
 
 ## Apple Music

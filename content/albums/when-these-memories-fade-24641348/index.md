@@ -36,33 +36,31 @@ styles: ["Power Pop", "Pop Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The King Is Half-Undressed |
+| A | The King Is Half-Undressed |
+| B | Calling Sarah |
+|  | Baby's Coming Back |
+| C | Baby's Coming Back |
+| D | All I Want Is Everything |
+|  | The Scary-Go-Round E.P. Featuring Now She Knows She's Wrong |
+| E1 | Now She Knows She's Wrong |
+| E2 | Bedspring Kiss |
+| F1 | She Still Loves Him (Live) |
+| F2 | Baby's Coming Back (Live) |
+|  | I Wanna Stay Home |
+| G | I Wanna Stay Home |
+| H | Jet (Live) |
+|  | The Ghost At Number One |
+| I | The Ghost At Number One |
+| J | All Is Forgiven |
+|  | New Mistake |
+| K | New Mistake |
+| L | He's My Best Friend |
+|  | Covers |
+| M | No Matter What (Live) |
+| N | Think About Your Troubles |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

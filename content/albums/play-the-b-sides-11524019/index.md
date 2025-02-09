@@ -38,17 +38,18 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Flower |
+| A2 | Sunday |
+| A3 | Memory Gospel |
+| B1 | Whispering Wind |
+| B2 | Summer |
+| B3 | Spirit |
+| C1 | Flying Foxes |
+| C2 | Sunspot |
+| C3 | Flying Over The Dateline |
+| D1 | Running |
+| D2 | The Sun Never Stops Setting |
+
 
 
 ## Apple Music

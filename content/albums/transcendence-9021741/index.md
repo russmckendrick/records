@@ -38,30 +38,31 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Truth |
+| LP-A2 | Stormbending |
+| LP-A3 | Failure |
+| LP-A4 | Secret Sciences |
+| LP-B1 | Higher |
+| LP-B2 | Stars |
+| LP-B3 | Transcendence |
+| LP-C1 | Offer Your Light |
+| LP-C2 | From The Heart |
+| LP-C3 | Transdermal Celebration |
+| LP-D1 | Gump |
+| LP-D2 | Loud |
+| CD-1 | Truth |
+| CD-2 | Stormbending |
+| CD-3 | Failure |
+| CD-4 | Secret Sciences |
+| CD-5 | Higher |
+| CD-6 | Stars |
+| CD-7 | Transcendence |
+| CD-8 | Offer Your Light |
+| CD-9 | From The Heart |
+| CD-10 | Transdermal Celebration |
+| CD-11 | Gump |
+| CD-12 | Loud |
+
 
 
 ## Apple Music

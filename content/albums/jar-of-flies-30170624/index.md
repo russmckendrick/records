@@ -39,13 +39,14 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rotten Apple |
+| A2 | Nutshell |
+| A3 | I Stay Away |
+| A4 | No Excuses |
+| B1 | Whale & Wasp |
+| B2 | Don't Follow |
+| B3 | Swing On This |
+
 
 
 ## Apple Music

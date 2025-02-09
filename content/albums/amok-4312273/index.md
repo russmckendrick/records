@@ -35,24 +35,25 @@ Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Before Your Very Eyes... |
+| A2 | Default |
+| B1 | Ingenue |
+| B2 | Dropped |
+| C1 | Unless |
+| C2 | Stuck Together Pieces |
+| D1 | Judge Jury And Executioner |
+| D2 | Reverse Running |
+| D3 | Amok |
+| CD-1 | Before Your Very Eyes... |
+| CD-2 | Default |
+| CD-3 | Ingenue |
+| CD-4 | Dropped |
+| CD-5 | Unless |
+| CD-6 | Stuck Together Pieces |
+| CD-7 | Judge Jury And Executioner |
+| CD-8 | Reverse Running |
+| CD-9 | Amok |
+
 
 
 ## Apple Music

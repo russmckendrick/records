@@ -35,16 +35,17 @@ The songs on Le Kov are written and composed by Gwenno Saunders with help from R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hi A Skoellyas Liv A Dhagrow |
+| A2 | Tir Ha Mor |
+| A3 | Herdhya |
+| A4 | Eus Keus? |
+| A5 | Jynn-amontya |
+| B1 | Den Heb Taves |
+| B2 | Daromres Y'n Howl |
+| B3 | Aremorika |
+| B4 | Hunros |
+| B5 | Koweth Ker |
+
 
 
 ## Apple Music

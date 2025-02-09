@@ -44,26 +44,27 @@ Bassist Sven Pipien was fired between the two releases of the album and was airb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Celebration Day |
+| A2 | Custard Pie |
+| A3 | Sick Again |
+| A4 | What Is And What Should Never Be |
+| B1 | Woke Up This Morning |
+| B2 | Shape Of Things To Come |
+| B3 | Sloppy Drunk |
+| B4 | Ten Years Gone |
+| C1 | In My Time Of Dying |
+| C2 | Your Time Is Gonna Come |
+| D1 | The Lemon Song |
+| D2 | Nobody's Fault But Mine |
+| D3 | Heartbreaker |
+| E1 | Hey Hey What Can I Do |
+| E2 | Mellow Down Easy |
+| E3 | Oh Well |
+| E4 | Shake Your Money Maker |
+| F1 | You Shook Me |
+| F2 | Out On The Tiles |
+| F3 | Whole Lotta Love |
+
 
 
 ## Apple Music

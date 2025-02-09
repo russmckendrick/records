@@ -37,17 +37,18 @@ Preceded by two supporting singles, "Orwellian" and "The Secret He Had Missed", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Still Snowing In Sapporo |
+| A2 | Orwellian |
+| A3 | The Secret He Had Missed |
+| A4 | Quest For Ancient Colour |
+| A5 | Don't Let The Night Divide Us |
+| B6 | Diapause |
+| B7 | Complicated Illusions |
+| B8 | Into The Waves Of Love |
+| B9 | Blank Diary Entry |
+| B10 | Happy Bored Alone |
+| B11 | Afterending |
+
 
 
 ## Apple Music

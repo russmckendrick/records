@@ -43,15 +43,16 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | What We Was (Intro) |
+| A2 | You Can't Kill Me |
+| A3 | Rejoice! |
+| B1 | If Never I'm And Ever You |
+| B2 | Kapital |
+| B3 | Master Builder |
+| C1 | Forever Reoccurring |
+| D1 | My Sawtooth Wake |
+| D2 | Insert Yr Own Prophecy |
+
 
 
 ## Apple Music

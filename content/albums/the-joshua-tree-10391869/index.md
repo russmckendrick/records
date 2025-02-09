@@ -81,58 +81,59 @@ Frequently listed among the greatest albums of all time, The Joshua Tree is one 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Joshua Tree Remastered |
+| A1 | Where The Streets Have No Name |
+| A2 | I Still Haven't Found What I'm Looking For |
+| A3 | With Or Without You |
+| B1 | Bullet The Blue Sky |
+| B2 | Running To Stand Still |
+| C1 | Red Hill Mining Town |
+| C2 | In God's Country |
+| C3 | Trip Through Your Wires |
+| D1 | One Tree Hill |
+| D2 | Exit |
+| D3 | Mothers Of The Disappeared |
+|  | U2 Live At Madison Square Garden 28th September 1987 |
+| E1 | Where The Streets Have No Name |
+| E2 | I Will Follow |
+| E3 | Trip Through Your Wires |
+| E4 | I Still Haven't Found What I'm Looking For |
+| F1 | MLK |
+| F2 | Bullet The Blue Sky |
+| F3 | Running To Stand Still |
+| F4 | In God’s Country |
+| F5 | Sunday Bloody Sunday |
+| G1 | Exit |
+| G2 | October |
+| G3 | New Year’s Day |
+| G4 | Pride (In The Name Of Love) |
+| H1 | With Or Without You |
+| H2 | Party Girl |
+| H3 | I Still Haven’t Found What I’m Looking For |
+| H4 | “40” |
+|  | The Joshua Tree Remixes, Outtakes & B-Sides |
+| I1 | One Tree Hill (St Francis Hotel Remix) |
+| I2 | Bullet The Blue Sky (Jacknife Lee Remix) |
+| I3 | Running To Stand Still (Daniel Lanois Remix) |
+| J1 | Red Hill Mining Town (Steve Lillywhite 2017 Mix) |
+| J2 | With Or Without You (Daniel Lanois Remix) |
+| J3 | Where The Streets Have No Name (Flood Remix) |
+| K1 | I Still Haven’t Found What I’m Looking For (Lillywhite Alternative Mix ’87) |
+| K2 | One Tree Hill Reprise (Brian Eno 2017 Mix) |
+| K3 | Silver And Gold (Sun City) |
+| K4 | Beautiful Ghost/Introduction To Songs Of Experience |
+| L1 | Wave Of Sorrow (Birdland) |
+| L2 | Desert Of Our Love |
+| L3 | Rise Up |
+| L4 | Drunk Chicken/America |
+| M1 | Luminous Times (Hold On To Love) |
+| M2 | Walk To The Water |
+| M3 | Spanish Eyes |
+| N1 | Deep In The Heart |
+| N2 | Silver And Gold |
+| N3 | Sweetest Thing |
+| N4 | Race Against Time |
+
 
 
 ## Apple Music

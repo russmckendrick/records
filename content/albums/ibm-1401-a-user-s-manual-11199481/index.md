@@ -43,14 +43,15 @@ IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic mu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Part 1 / IBM 1401 Processing Unit |
+| A2 | Part 2 / IBM 1403 Printer |
+| B1 | Part 3 / IBM 1402 Card Read-Punch |
+| B2 | Part 4 / IBM 729 II Magnetic Tape Unit |
+| C | Part 5 / The Sun's Gone Dim And The Sky's Turned Black |
+|  | Live |
+| D1 | Part 1 / IBM 1401 Processing Unit |
+| D2 | Part 5 / The Sun's Gone Dim And The Sky's Turned Black |
+
 
 
 ## Apple Music

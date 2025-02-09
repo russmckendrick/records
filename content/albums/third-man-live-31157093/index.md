@@ -45,42 +45,43 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Recorded Live At Third Man Records Blue Room Nashville, TN 4-19-2014 |
+| A1 | High Ball Stepper |
+| A2 | Lazaretto |
+| A3 | Power Of My Love |
+| A4 | Dead Leaves And The Dirty Ground |
+| A5 | Freedom At 21 |
+| B1 | Three Women |
+| B2 | Weep Themselves To Sleep |
+| B3 | Love Interruption |
+| B4 | Hello Operator |
+| B5 | Just One Drink |
+| B6 | Hotel Yorba |
+| B7 | Would You Fight For My Love? |
+|  | Recorded Live At Third Man Records Blue Stage Detroit, MI 10-5-2022 |
+| C1 | Introduction |
+| C2 | Toloka |
+| C3 | Waile |
+| C4 | Living In The Past |
+| D1 | Black Tears |
+| D2 | Mashed Potatoe |
+| D3 | Lazy Bones |
+| D4 | Evil Woman |
+|  | Recorded Live At Third Man Records Blue Basement London 10-17-2022 |
+| E1 | Little Fury Things |
+| E2 | Out There |
+| E3 | Does It Float |
+| E4 | Been There All The Time |
+| E5 | Feel The Pain |
+| F1 | Start Choppin |
+| F2 | Freak Scene |
+| F3 | Kracked |
+| F4 | No Bones |
+|  | Live At Third Man Records Blue Room, Nashville September 26th, 2013 |
+| G | The Money Will Roll Right In |
+| H1 | Hate The Police |
+| H2 | Fix Me |
+
 
 
 ## Apple Music

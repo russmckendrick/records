@@ -39,27 +39,28 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blackest Eyes |
+| A2 | Harridan |
+| A3 | Of The New Day |
+| B1 | Rats Return |
+| B2 | Even Less |
+| B3 | Drown With Me |
+| C1 | Dignity |
+| C2 | The Sound Of Muzak |
+| C3 | Last Chance To Evacuate Planet Earth Before It Is Recycled |
+| D1 | Chimera's Wreck |
+| D2 | Fear Of A Blank Planet |
+| E1 | Buying New Soul |
+| E2 | Walk The Plank |
+| E3 | Sentimental |
+| F | Anesthetize |
+| G1 | Herd Culling |
+| G2 | I Drive The Hearse |
+| G3 | Sleep Together |
+| H1 | Collapse The Light Into Earth |
+| H2 | Halo |
+| H3 | Trains |
+
 
 
 ## Apple Music

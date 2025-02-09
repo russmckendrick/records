@@ -28,14 +28,15 @@ This (Is What I Wanted to Tell You) is the thirteenth studio album by American b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The New Isn't So You Anymore |
+| A2 | Crosswords, Or What This Says About You |
+| A3 | Everything For You |
+| A4 | The Lasting Last Of You |
+| B1 | The Air Is Heavy and I Should Be Listening to You |
+| B2 | The December-ish You |
+| B3 | This Is What I Wanted To Tell You |
+| B4 | Flower |
+
 
 
 ## Apple Music

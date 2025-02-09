@@ -41,22 +41,23 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Moth To The Flame |
+| A2 | Fly On The Wall |
+| A3 | I'll Be Waiting |
+| A4 | River Of Pain |
+| B1 | Future Train |
+| B2 | 'Til The River Runs Dry |
+| B3 | Stand Up |
+| B4 | Preaching From A Chair |
+| C1 | Castles In The Sand |
+| C2 | Too Scared To Live |
+| C3 | Ball And Chain |
+| C4 | It Happened In This Town |
+| D1 | In A Broken Dream (Live At Club Citta Japan, 2000) |
+| D2 | Stand Up (Live At Shepherd's Bush Empire London, 2005) |
+| D3 | Til The River Runs Dry (Live At Nottingham Rock City, 2005) |
+| D4 | Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019) |
+
 
 
 ## Apple Music

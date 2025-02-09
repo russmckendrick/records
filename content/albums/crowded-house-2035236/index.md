@@ -36,16 +36,17 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | World Where You Live |
+| A2 | Now We're Getting Somewhere |
+| A3 | Don't Dream It's Over |
+| A4 | Mean To Me |
+| A5 | Love You 'Til Day I Die |
+| B1 | Something So Strong |
+| B2 | Hole In The River |
+| B3 | I Walk Away |
+| B4 | Tombstone |
+| B5 | That's What I Call Love |
+
 
 
 ## Apple Music

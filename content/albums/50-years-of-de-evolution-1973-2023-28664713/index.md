@@ -31,35 +31,33 @@ styles: ["New Wave", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mongoloid (Warner Version) |
+| A2 | Jocko Homo (Warner Version) |
+| A3 | (I Can't Get No) Satisfaction |
+| A4 | Come Back Jonee |
+| A5 | Secret Agent Man |
+| A6 | The Day My Baby Gave Me A Surprize |
+| B1 | Smart Patrol |
+| B2 | Girl U Want |
+| B3 | Whip It |
+| B4 | Freedom Of Choice |
+| B5 | Gates Of Steel |
+| B6 | Working In The Coal Mine |
+| C1 | Beautiful World |
+| C2 | Jerkin' Back 'N' Forth |
+| C3 | Through Being Cool |
+| C4 | Love Without Anger |
+| C5 | Time Out For Fun |
+| C6 | Peek A Boo! |
+| C7 | That's Good |
+| D1 | Big Mess |
+| D2 | Here To Go (Go Mix Version) |
+| D3 | Are You Experienced? |
+| D4 | Disco Dancer (7-Inch Version) |
+| D5 | Post Post-Modern Man |
+| D6 | Fresh |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

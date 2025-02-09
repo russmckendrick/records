@@ -40,18 +40,19 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love In Store |
+| A2 | Can't Go Back |
+| A3 | That's Alright |
+| A4 | Book Of Love |
+| A5 | Gypsy |
+| A6 | Only Over You |
+| B1 | Empire State |
+| B2 | Straight Back |
+| B3 | Hold Me |
+| B4 | Oh Diane |
+| B5 | Eyes Of The World |
+| B6 | Wish You Were Here |
+
 
 
 ## Apple Music

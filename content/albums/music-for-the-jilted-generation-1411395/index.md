@@ -37,17 +37,18 @@ A remastered and expanded edition of the album, titled More Music for the Jilted
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Break & Enter |
+| A3 | Their Law |
+| A4 | Full Throttle |
+| B5 | Voodoo People |
+| B6 | Speedway (Theme From 'Fastlane') |
+| B7 | The Heat (The Energy) |
+| C8 | Poison |
+| C9 | No Good (Start The Dance) |
+| C10 | One Love (Edit) |
+|  | The Narcotic Suite |
+
 
 
 ## Apple Music

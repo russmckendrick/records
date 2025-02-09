@@ -45,15 +45,16 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jailbird |
+| A2 | Rocks |
+| A3 | Call On Me |
+| B1 | Everybody Needs Somebody |
+| B2 | Sad And Blue |
+| C1 | Big Jet Plane |
+| C2 | Free |
+| D1 | Jesus |
+| D2 | Cry Myself Blind |
+
 
 
 ## Apple Music

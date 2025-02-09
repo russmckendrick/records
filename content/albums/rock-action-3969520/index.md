@@ -34,14 +34,15 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sine Wave |
+| A2 | Take Me Somewhere Nice |
+| A3 | O I Sleep |
+| A4 | Dial: Revenge |
+| B1 | You Don't Know Jesus |
+| B2 | Robot Chant |
+| B3 | 2 Rights Make 1 Wrong |
+| B4 | Secret Pint |
+
 
 
 ## Apple Music

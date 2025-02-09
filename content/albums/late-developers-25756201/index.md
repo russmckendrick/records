@@ -48,17 +48,18 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Juliet Naked |
+| A2 | Give A Little Time |
+| A3 | When We Were Very Young |
+| A4 | Will I Tell You A Secret? |
+| A5 | So In The Moment |
+| A6 | The Evening Star |
+| B1 | When You're Not With Me |
+| B2 | I Don't Know What You See In Me |
+| B3 | Do You Follow? |
+| B4 | When The Cynics Stare Back From The Wall |
+| B5 | Late Developers |
+
 
 
 ## Apple Music

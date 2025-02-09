@@ -32,17 +32,18 @@ We Love Life is the seventh studio album by English rock band Pulp, released on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Weeds |
+| A2 | Weeds II (The Origin Of The Species) |
+| A3 | The Night That Minnie Timperley Died |
+| A4 | The Trees |
+| A5 | Wickerman |
+| B1 | I Love Life |
+| B2 | The Birds In Your Garden |
+| B3 | Bob Lind (The Only Way Is Down) |
+| B4 | Bad Cover Version |
+| B5 | Roadkill |
+| B6 | Sunrise |
+
 
 
 ## Apple Music

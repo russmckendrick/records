@@ -29,17 +29,18 @@ Tones of Town is the second studio album by indie rock band Field Music. It was 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Give It Lose It Take It |
+| A2 | Sit Tight |
+| A3 | Tones Of Town |
+| A4 | A House Is Not A Home |
+| A5 | Kingston |
+| B1 | Working To Work |
+| B2 | In Context |
+| B3 | A Gap Has Appeared |
+| B4 | Closer At Hand |
+| B5 | Place Yourself |
+| B6 | She Can Do What She Wants |
+
 
 
 ## Apple Music

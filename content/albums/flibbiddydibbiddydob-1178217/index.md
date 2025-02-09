@@ -30,21 +30,19 @@ Flibbidydibbidydob is an EP of cover versions, including commercial jingles and 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rods & Mockers |
+| A2 | Do Nothing |
+| A3 | Shake 'N' Black |
+| A4 | Can't Explain |
+| A5 | Ecstacy |
+| B1 | Reach Out |
+| B2 | Hazy Shade Of Winter |
+| B3 | Do It Quick |
+| B4 | City Baby Attacked By Rats |
+| B5 | Bran Flakes |
+| B6 | In Sickness & In Health |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -33,16 +33,17 @@ styles: ["Alternative Rock", "Grunge"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In The Moment That You're Born |
+| A2 | Pieces Of Sky In My Hand |
+| A3 | Straight To The Hoop |
+| A4 | Stars N You |
+| A5 | Meadow In Autumn |
+| B1 | Take Me Back Home |
+| B2 | Without Guns |
+| B3 | Hey Now What's The Problem? |
+| B4 | I'm Diggin You |
+| B5 | Simple Subtraction |
+
 
 
 ## Apple Music

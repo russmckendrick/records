@@ -30,15 +30,16 @@ styles: ["Hardcore", "Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Without Love |
+| A2 | Animal Espionage |
+| A3 | Heart Reformer |
+| A4 | Strong And Wrong |
+| A5 | Ants And Dragons |
+| B1 | Nightclub Canary |
+| B2 | Christian Missile Crisis |
+| B3 | Reign Of Error |
+| B4 | Imposter Syndrome |
+
 
 
 ## Apple Music

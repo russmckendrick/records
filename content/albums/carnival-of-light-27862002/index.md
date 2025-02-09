@@ -40,18 +40,19 @@ Carnival of Light is the third studio album by British rock band Ride, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Moonlight Medicine |
+| A2 | 1000 Miles |
+| B1 | From Time To Time |
+| B2 | Natural Grace |
+| B3 | Only Now |
+| C1 | Birdman |
+| C2 | Crown Of Creation |
+| C3 | How Does It Feel To Feel? |
+| D1 | Endless Road |
+| D2 | Magical Spring |
+| D3 | Rolling Thunder |
+| D4 | I Don't Know Where It Comes From |
+
 
 
 ## Apple Music

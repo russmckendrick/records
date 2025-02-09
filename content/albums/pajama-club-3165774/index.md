@@ -36,17 +36,18 @@ The album is change in style from the material Finn performs with Crowded House,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tell Me What You Want |
+| A2 | Can't Put It Down Until It Ends |
+| A3 | These Are Conditions |
+| A4 | From A Friend To A Friend |
+| A5 | Golden Child |
+| A6 | Daylight |
+| B1 | Go Kart |
+| B2 | Dead Leg |
+| B3 | TNT For 2 |
+| B4 | The Game We Love To Play |
+| B5 | Diamonds In Her Eyes |
+
 
 
 ## Apple Music

@@ -36,16 +36,17 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Up The Beach |
+| A2 | Ocean Size |
+| A3 | Had A Dad |
+| A4 | Ted, Just Admit It... |
+| A5 | Standing In The Shower... Thinking |
+| B1 | Summertime Rolls |
+| B2 | Mountain Song |
+| B3 | Idiots Rule |
+| B4 | Jane Says |
+| B5 | Thank You Boys |
+
 
 
 ## Apple Music

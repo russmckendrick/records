@@ -36,10 +36,11 @@ Drop Dead Fred is a 1991 black comedy fantasy film directed by Ate de Jong, prod
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hello People Of Earth! |
+| A2 | This Might Be The Last Episode... |
+| B1 | What! Is! Happening?! |
+| B2 | Where Do We Go From Here? |
+
 
 
 ## Apple Music

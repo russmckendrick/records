@@ -51,15 +51,16 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Who Made Who |
+| A2 | You Shook Me All Night Long |
+| A3 | D.T. |
+| A4 | Sink The Pink |
+| A5 | Ride On |
+| B1 | Hells Bells |
+| B2 | Shake Your Foundations |
+| B3 | Chase The Ace |
+| B4 | For Those About To Rock (We Salute You) |
+
 
 
 ## Apple Music

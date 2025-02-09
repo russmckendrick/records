@@ -83,22 +83,23 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | A Bit Of Previous LP |
+| A1 | Young And Stupid |
+| A2 | If They're Shooting At You |
+| A3 | Talk To Me Talk To Me |
+| A4 | Reclaim The Night |
+| A5 | Do It For Your Country |
+| A6 | Prophets On Hold |
+| B1 | Unnecessary Drama |
+| B2 | Come On Home |
+| B3 | A World Without You |
+| B4 | Deathbed Of My Dreams |
+| B5 | Sea Of Sorrow |
+| B6 | Working Boy In New York City |
+|  | A Bit Of Previous 7" |
+| C | A Bit Of Previous |
+| D | Sometimes |
+
 
 
 ## Apple Music

@@ -39,32 +39,33 @@ styles: ["Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lie Detector  |
+| A2 | Sale of the Century |
+| A3 | What Do I Do Now? |
+| A4 | Good Luck Mr Gorsky |
+| A5 | Feeling Peaky |
+| A6 | Shrinkwrapped  |
+| B1 | Dress Like Your Mother |
+| B2 | Statuesque |
+| B3 | Glue Ears |
+| B4 | Nice Guy Eddie |
+| B5 | Stop Your Crying |
+| B6 | Factor 41 |
+| B7 | Click…Off…Gone |
+|  | The It Girl B Sides & Demos CD |
+| 1 | Spies |
+| 2 | Pokerface |
+| 3 | She's A Sweetheart |
+| 4 | Package Holiday |
+| 5 | Paint Me |
+| 6 | Room At The Top |
+| 7 | Sale Of The Century (Louise Home Demo) |
+| 8 | Lamp Light On (Louise Home Demo) |
+| 9 | Mr Blue (Louise Home Demo) |
+| 10 | Nice Guy Eddie (Louise Home Demo) |
+| 11 | Dress Like Your Mother (Louise Home Demo) |
+| 12 | Good Luck Mr Gorsky (Louise Home Demo) |
+
 
 
 ## Apple Music

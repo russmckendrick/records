@@ -34,18 +34,19 @@ Orville Peck’s <i>Pony</i> arrived in 2019 with no shortage of drama: There wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dead Of Night |
+| A2 | Winds Change |
+| A3 | Turn To Hate |
+| A4 | Buffalo Run |
+| A5 | Queen Of The Rodeo |
+| A6 | Kansas (Remembers Me Now) |
+| B1 | Old River |
+| B2 | Big Sky |
+| B3 | Roses Are Falling |
+| B4 | Take You Back (The Iron Hoof Cattle Call) |
+| B5 | Hope To Die |
+| B6 | Nothing Fades Like The Light |
+
 
 
 ## Apple Music

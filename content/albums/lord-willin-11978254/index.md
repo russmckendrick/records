@@ -53,22 +53,23 @@ Not long after the release of <i>Lord Willin’</i>, the Clipse turned up on the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Young Boy |
+| A3 | Virginia |
+| A4 | Grindin' |
+| B1 | Cot Damn |
+| B2 | Ma, I Don't Love Her |
+| B3 | FamLay Freestyle |
+| B4 | When The Last Time |
+| C1 | Ego |
+| C2 | Comedy Central |
+| C3 | Let's Talk About It |
+| C4 | Gangsta Lean |
+| D1 | I'm Not You |
+|  | Bonus Tracks |
+| D2 | Grindin' (Remix) |
+| D3 | Grindin' (Selector Remix) |
+
 
 
 ## Apple Music

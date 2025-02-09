@@ -27,19 +27,20 @@ While St. Paul & The Broken Bones' second album keeps one foot in the dynamic, '
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crumbling Light Posts Pt. 1 |
+| A2 | Flow With It (You Got Me Feeling Like) |
+| A3 | Midnight On The Earth |
+| A4 | I'll Be Your Woman |
+| A5 | All I Ever Wonder |
+| A6 | Sanctify |
+| B1 | Crumbling Light Posts Pt. 2 |
+| B2 | Waves |
+| B3 | Brain Matter |
+| B4 | Burning Rome |
+| B5 | Tears In The Diamond |
+| B6 | Is It Me |
+| B7 | Crumbling Light Posts Pt. 3 |
+
 
 
 ## Apple Music

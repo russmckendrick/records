@@ -37,30 +37,31 @@ After working on a few songs with Neil, Tim joined Crowded House for the Woodfac
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Finn |
+| A1 | Only Talking Sense |
+| A2 | Eyes Of The World |
+| A3 | Mood Swinging Man |
+| A4 | Last Day Of June |
+| A5 | Suffer Never |
+| A6 | Angel's Heap |
+| B1 | Niwhai |
+| B2 | Where Is My Soul |
+| B3 | Bullets In My Hairdo |
+| B4 | Paradise (Wherever You Are) |
+| B5 | Kiss The Road Of Rarotonga |
+|  | Finn Demos |
+| C1 | Catherine Wheels (Demo) |
+| C2 | Prodigal Son (Demo) |
+| C3 | Four-Stepping In 3/4 Time (Demo) |
+| C4 | There Goes God (Demo) |
+| C5 | It's Only Natural (Demo) |
+| D1 | Weather With You (Demo) |
+| D2 | Strangeness And Charm (Demo) |
+| D3 | Four Seasons In One Day (Demo) |
+| D4 | In Love With It All (Demo) |
+| D5 | How Will You Go (Demo) |
+| D6 | Weather With You (End Piece) |
+
 
 
 ## Apple Music

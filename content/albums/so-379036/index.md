@@ -39,14 +39,15 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Red Rain |
+| A2 | Sledgehammer |
+| A3 | Don't Give Up |
+| A4 | That Voice Again |
+| B1 | In Your Eyes |
+| B2 | Mercy Street |
+| B3 | Big Time |
+| B4 | We Do What We're Told (Milgram's 37) |
+
 
 
 ## Apple Music

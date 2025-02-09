@@ -28,36 +28,37 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Being Boiled (Fast Version) |
+| A2 | The Dignity Of Labour (Part 3) |
+| A3 | Empire State Human |
+| A4 | Only After Dark (Single Edit) |
+| A5 | Nightclubbing |
+| A6 | Boys And Girls |
+| B1 | The Sound Of The Crowd (Instrumental Version) |
+| B2 | Hard Times |
+| B3 | Love Action (I Believe In Love) (7" Edit) |
+| B4 | Open Your Heart |
+| B5 | Don't You Want Me |
+| C1 | Mirror Man |
+| C2 | You Remind Me Of Gold |
+| C3 | (Keep Feeling) Fascination (Extended Version) |
+| C4 | The Lebanon (Single Version) |
+| C5 | Louise (DJ Edit)  |
+| D1 | Life On Your Own (Single Version) |
+| D2 | Human (Extended Version) |
+| D3 | I Need Your Loving (DJ Edit) |
+| D4 | Love Is All That Matters (DJ Edit) |
+| D5 | Heart Like A Wheel (William Orbit Remix) |
+| E1 | Soundtrack To A Generation (Edit) |
+| E2 | Tell Me When (Radio Edit) |
+| E3 | One Man In My Heart |
+| E4 | Filling Up With Heaven |
+| F1 | Stay With Me Tonight |
+| F2 | All I Ever Wanted (Radio Edit) |
+| F3 | Night People (Radio Edit) |
+| F4 | Never Let Me Go |
+| F5 | Sky (Radio Edit) |
+
 
 
 ## Apple Music

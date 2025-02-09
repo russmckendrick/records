@@ -34,15 +34,16 @@ The Afters is an American Christian rock band founded by Josh Havens and Matt Fu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Slow Down |
+| A2 | Difficult Song |
+| A3 | Tony Got A Car |
+| A4 | A Little Longer |
+| B1 | Hangar Lane Gyratory System, 4.44am |
+| B2 | I Will Never Hurt |
+| B3 | End Of Loneliness |
+| B4 | You Too |
+| B5 | I Didn't |
+
 
 
 ## Apple Music

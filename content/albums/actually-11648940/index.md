@@ -40,16 +40,17 @@ Levity comes in the form of “What Have I Done to Deserve This?”, in which Te
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | One More Chance |
+| A2 | What Have I Done To Deserve This? |
+| A3 | Shopping |
+| A4 | Rent |
+| A5 | Hit Music |
+| B1 | It Couldn't Happen Here |
+| B2 | It's  A Sin |
+| B3 | I Want To Wake Up |
+| B4 | Heart |
+| B5 | King's Cross |
+
 
 
 ## Apple Music

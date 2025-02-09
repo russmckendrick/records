@@ -32,30 +32,31 @@ A concept album about a love story set in the 17th century, The Diary consists o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Gentle  |
+| A1 | Endless Sea (Gentle Version) |
+| A2 | Heart Of Amsterdam (Gentle Version) |
+| A3 | The Greatest Love (Gentle Version) |
+| B1 | Shores Of India (Gentle Version) |
+| B2 | Cape Of Storms (Gentle Version) |
+| B3 | The Moment (Gentle Version) |
+| C1 | The Storm (Gentle Version) |
+| C2 | Eyes Of Michiel (Gentle Version) |
+| C3 | Brightest Light (Gentle Version) |
+| C4 | New Horizons (Gentle Version) |
+| C5 | Epilogue: The Final Entry (Gentle Version) |
+|  | Storm |
+| D1 | Endless Sea (Storm Version) |
+| D2 | Heart Of Amsterdam (Storm Version) |
+| D3 | The Greatest Love (Storm Version) |
+| E1 | Shores Of India (Storm Version) |
+| E2 | Cape Of Storms (Storm Version) |
+| E3 | The Moment (Storm Version) |
+| F1 | The Storm (Storm Version) |
+| F2 | Eyes Of Michiel (Storm Version) |
+| F3 | Brightest Light (Storm Version) |
+| F4 | New Horizons (Storm Version) |
+| F5 | Epilogue: The Final Entry (Storm Version) |
+
 
 
 ## Apple Music

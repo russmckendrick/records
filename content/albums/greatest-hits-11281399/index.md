@@ -37,18 +37,19 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Want To Take You Higher |
+| A2 | Everybody Is A Star |
+| A3 | Stand! |
+| A4 | Life |
+| A5 | Fun |
+| A6 | You Can Make It If You Try |
+| B1 | Dance To The Music |
+| B2 | Everyday People |
+| B3 | Hot Fun In The Summertime |
+| B4 | M'Lady |
+| B5 | Sing A Simple Song |
+| B6 | Thank You Falettinme Be Mice Elf Agin |
+
 
 
 ## Apple Music

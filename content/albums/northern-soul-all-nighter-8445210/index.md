@@ -33,46 +33,44 @@ styles: ["Soul", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Snake |
+| A2 | Sugar Dumpling |
+| A3 | Disillusioned |
+| A4 | What's A Matter Baby |
+| A5 | Let Me Be Your Boy |
+| A6 | Catch That Teardrop |
+| A7 | I Just Want To Know |
+| A8 | Everybody's Got A Dance But Me |
+| A9 | Getting Ready For The Heartbreak |
+| B1 | Jamie |
+| B2 | Way Over There |
+| B3 | Check Yourself |
+| B4 | If Your Mother Only Knew |
+| B5 | The Chaperone |
+| B6 | Any Way You Wanta |
+| B7 | Today's The Day |
+| B8 | My Heart Belongs To You |
+| B9 | I Wonder (If Your Love Will Ever Belong To Me) |
+| C1 | Dance With Me |
+| C2 | It's Your Voodoo Working |
+| C3 | Somebody Told You |
+| C4 | Have Love Will Travel |
+| C5 | Seven Day Fool |
+| C6 | What Kind Of Girl |
+| C7 | I Sold My Heart To The Junkman |
+| C8 | It's Mine |
+| C9 | The Night |
+| D1 | Miracles |
+| D2 | The Wrong Girl |
+| D3 | Am I Falling In Love |
+| D4 | (There Goes) The Forgotten Man |
+| D5 | Find Another Girl |
+| D6 | I Don't Want To Cry |
+| D7 | Chills & Fever |
+| D8 | If You Don't Come (You Better Call) |
+| D9 | Show And Tell |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

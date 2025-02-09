@@ -31,16 +31,17 @@ The album peaked at number 95 on the Billboard 200 and reached number 16 on the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gold |
+| A2 | Hit |
+| A3 | Leash Called Love |
+| A4 | Lucky Night |
+| A5 | Happy Nurse |
+| B1 | I'm Hungry |
+| B2 | Walkabout |
+| B3 | Hetero Scum |
+| B4 | Vitamin |
+| B5 | Chihuahua |
+
 
 
 ## Apple Music

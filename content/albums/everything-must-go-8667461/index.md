@@ -41,18 +41,19 @@ Five Edwards lyrics would make it onto the record, the deal being that the song 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Elvis Impersonator: Blackpool Pier |
+| A2 | A Design For Life |
+| A3 | Kevin Carter |
+| A4 | Enola/Alone |
+| A5 | Everything Must Go |
+| A6 | Small Black Flowers That Grow In The Sky |
+| B7 | The Girl Who Wanted To Be God |
+| B8 | Removables |
+| B9 | Australia |
+| B10 | Interiors (Song For Willem De Kooning) |
+| B11 | Further Away |
+| B12 | No Surface All Feeling |
+
 
 
 ## Apple Music

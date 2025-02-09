@@ -35,22 +35,23 @@ Three songs were taken from each of the first five studio albums and one song wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Us |
+| A1 | Carnival Of Sorts (Boxcars) |
+| A2 | Radio Free Europe |
+| A3 | Perfect Circle |
+| A4 | Talk About The Passion |
+| A5 | So. Central Rain |
+| A6 | Pretty Persuasion |
+| A7 | Green Grow The Rushes |
+|  | Them |
+| B1 | Can't Get There From Here |
+| B2 | Fall On Me |
+| B3 | I Believe |
+| B4 | Cuyahoga |
+| B5 | The One I Love |
+| B6 | Finest Worksong |
+| B7 | It's The End Of The World As We Know It (And I Feel Fine) |
+
 
 
 ## Apple Music

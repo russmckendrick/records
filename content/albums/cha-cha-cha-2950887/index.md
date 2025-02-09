@@ -31,16 +31,17 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Torrid Cha Cha |
+| A2 | Chat Cha Cha |
+| A3 | Simple Cha Cha |
+| A4 | Chanticleer Cha Cha |
+| A5 | Yes Please Cha Cha |
+| B1 | Continental Cha Cha |
+| B2 | Let's Go Cha Cha |
+| B3 | Pass Cha Cha |
+| B4 | Vacation Cha Cha |
+| B5 | Piccadilly Cha Cha |
+
 
 
 ## Apple Music

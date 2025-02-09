@@ -27,28 +27,29 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Feel Alive |
+| A2 | Amity |
+| A3 | Your Glorious Light Will Shine - Helsinki |
+| B1 | Two Souls |
+| B2 | When I Am Laid In Earth |
+| B3 | Travel |
+| C1 | Zo Lief |
+| C2 | You Will Never Change |
+| C3 | Freedom - Rio |
+| D1 | Forgotten |
+| D2 | Shores Of India |
+| CD-1 | Feel Alive |
+| CD-2 | Amity |
+| CD-3 | Your Glorious Light Will Shine - Helsinki |
+| CD-4 | Two Souls |
+| CD-5 | When I Am Laid In Earth |
+| CD-6 | Travel |
+| CD-7 | Zo Lief |
+| CD-8 | You Will Never Change |
+| CD-9 | Freedom - Rio |
+| CD-10 | Forgotten |
+| CD-11 | Shores Of India |
+
 
 
 ## Apple Music

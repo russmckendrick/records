@@ -37,15 +37,16 @@ A remastered and expanded version was released in 2004. A complete box set of st
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Don't Bang The Drum |
+| A2 | The Whole Of The Moon  |
+| A3 | Spirit |
+| A4 | The Pan Within |
+| B1 | Medicine Bow |
+| B2 | Old England |
+| B3 | Be My Enemy |
+| B4 | Trumpets |
+| B5 | This Is The Sea |
+
 
 
 ## Apple Music

@@ -44,27 +44,28 @@ The entire record almost feels like a driven, powerful live show, one where you 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Stuck Between Stations |
+| A2 | Chips Ahoy! |
+| A3 | Hot Soft Light |
+| A4 | Same Kooks |
+| A5 | First Night |
+| B1 | Party Pit |
+| B2 | You Can Make Him Like You |
+| B3 | Massive Nights |
+| B4 | Citrus |
+| B5 | Chillout Tent |
+| B6 | Southtown Girls |
+| C1 | Girls Like Status |
+| C2 | Arms & Hearts |
+| C3 | For Boston |
+| C4 | Teenage Liberation |
+| C5 | Citrus (Demo) |
+| D1 | Stuck Between Stations (Demo) |
+| D2 | Chips Ahoy! (Demo) |
+| D3 | Massive Nights (Demo) |
+| D4 | Chill out Tent (Demo) |
+| D5 | First Night (Demo) |
+
 
 
 ## Apple Music

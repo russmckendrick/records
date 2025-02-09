@@ -39,21 +39,22 @@ Not only does the compilation contain six songs from their 1989 debut but the al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Wanna Be Adored |
+| A2 | She Bangs The Drums |
+| A3 | Ten Storey Love Song |
+| A4 | Waterfall |
+| B1 | Made Of Stone |
+| B2 | Love Spreads |
+| B3 | What The World Is Waiting For |
+| B4 | Sally Cinnamon |
+| C1 | Fools Gold |
+| C2 | Begging You |
+| C3 | Elephant Stone |
+| D1 | Breaking Into Heaven |
+| D2 | One Love |
+| D3 | This Is The One |
+| D4 | I Am The Resurrection |
+
 
 
 ## Apple Music

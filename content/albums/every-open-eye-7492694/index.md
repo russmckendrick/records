@@ -38,17 +38,18 @@ Building on the hooky pop electronica that had internet oracles everywhere falli
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Never Ending Circles |
+| A2 | Leave A Trace |
+| A3 | Keep You On My Side |
+| A4 | Make Them Gold |
+| A5 | Clearest Blue |
+| B6 | High Enough To Carry You Over |
+| B7 | Empty Threat |
+| B8 | Down Side Of Me |
+| B9 | Playing Dead |
+| B10 | Bury It |
+| B11 | Afterglow |
+
 
 
 ## Apple Music

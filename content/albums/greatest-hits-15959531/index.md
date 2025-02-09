@@ -38,21 +38,22 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| G1 | Welcome To The Jungle |
+| G2 | Sweet Child O'  Mine |
+| G3 | Shadow Of Your Love |
+| G4 | Patience |
+| N1 | Paradise City |
+| N2 | Knockin' On Heaven's Door |
+| N3 | Civil War |
+| F'N1 | You Could Be Mine |
+| F'N2 | Don't Cry (Original) |
+| F'N3 | November Rain |
+| F'N4 | Live And Let Die |
+| R1 | Yesterdays |
+| R2 | Ain't It Fun |
+| R3 | Since I Don't Have You |
+| R4 | Sympathy For The Devil |
+
 
 
 ## Apple Music

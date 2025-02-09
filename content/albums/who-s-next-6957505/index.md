@@ -36,15 +36,16 @@ The album was an immediate critical and commercial success and has since been vi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Baba O' Riley |
+| A2 | Bargain |
+| A3 | Love Ain't For Keeping |
+| A4 | My Wife |
+| A5 | Song Is Over |
+| B1 | Getting In Tune |
+| B2 | Going Mobile |
+| B3 | Behind Blue Eyes |
+| B4 | Won't Get Fooled Again |
+
 
 
 ## Apple Music

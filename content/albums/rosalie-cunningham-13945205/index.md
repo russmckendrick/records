@@ -32,14 +32,15 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ride On My Bike |
+| A2 | Fuck Love |
+| A3 | House Of The Glass Red |
+| A4 | Dethroning Of The Party Queen |
+| A5 | Nobody Hears |
+| B1 | Riddles And Games |
+| B2 | Butterflies  |
+| B3 | A Yarn From The Wheel |
+
 
 
 ## Apple Music

@@ -87,22 +87,23 @@ On their 16th album, virtuoso ensemble Snarky Puppy return to their roots. Found
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Keep It On Your Mind |
+| A2 | East Bay |
+| A3 | Bet |
+| B1 | Cliroy |
+| B2 | Take It! |
+| B3 | Portal |
+| C1 | Broken Arrow |
+| C2 | RL's |
+| D1 | Mean Green |
+| D2 | Fuel City |
+| D3 | Free Fall |
+| E1 | Belmont |
+| E2 | Pineapple |
+| F1 | Honiara |
+| F2 | Coney Bear |
+| F3 | Trinity |
+
 
 
 ## Apple Music

@@ -40,18 +40,19 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | TC And Honeybear |
+| A2 | Marz |
+| A3 | Where Dreams Go To Die |
+| B1 | Sigourney Weaver |
+| B2 | Chicken Bones |
+| B3 | Silver Platter Club |
+| C1 | It's Easier |
+| C2 | Outer Space |
+| C3 | Jesus Hates Faggots |
+| D1 | Caramel |
+| D2 | Leopard & Lamb |
+| D3 | Queen Of Denmark |
+
 
 
 ## Apple Music

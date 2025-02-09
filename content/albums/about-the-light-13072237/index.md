@@ -30,16 +30,17 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | America Is Your Boyfriend |
+| A2 | Rocket |
+| A3 | No Clue |
+| A4 | About The Light |
+| A5 | Fox On The Rooftop |
+| B1 | Stars Around My Heart |
+| B2 | Spanish Brigade |
+| B3 | Don't Know Where |
+| B4 | Walking Away From Love |
+| B5 | The End |
+
 
 
 ## Apple Music

@@ -34,19 +34,20 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kare Kare |
+| A2 | In My Command |
+| A3 | Nails In My Feet |
+| A4 | Black & White Boy |
+| A5 | Fingers Of Love |
+| A6 | Pineapple Head |
+| B1 | Locked Out |
+| B2 | Private Universe |
+| B3 | Walking On The Spot |
+| B4 | Distant Sun |
+| B5 | Catherine Wheels |
+| B6 | Skin Feeling |
+| B7 | Together Alone |
+
 
 
 ## Apple Music

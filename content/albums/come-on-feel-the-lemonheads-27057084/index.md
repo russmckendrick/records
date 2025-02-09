@@ -45,37 +45,38 @@ Come on Feel the Lemonheads is the sixth studio album by the American alternativ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Great Big No |
+| A2 | Into Your Arms |
+| A3 | It's About Time |
+| A4 | Down About It |
+| A5 | Paid To Smile |
+| A6 | Big Gay Heart |
+| A7 | Style |
+| A8 | Rest Assured |
+| B1 | Dawn Can't Decide |
+| B2 | I'll Do It Anyway |
+| B3 | Rick James Style |
+| B4 | Being Around |
+| B5 | Favorite T |
+| B6 | You Can Take It With You |
+| B7 | The Jello Fund |
+|  | Alternative & Acoustic |
+| C1 | Big Gay Heart (Demo) |
+| C2 | Being Around (Alternative) |
+| C3 | Into Your Arms (Acoustic) |
+| C4 | Down About It (Acoustic) |
+| C5 | Deep Bottom Cove |
+| C6 | Acoustic Rick James Style |
+| C7 | It's About Time (Acoustic) |
+|  | Covers & Curiosities |
+| D1 | Miss Otis Regrets |
+| D2 | Learning The Game |
+| D3 | Little Black Egg |
+| D4 | Streets Of Baltimore |
+| D5 | Frying Pan |
+| D6 | He's On The Beach |
+| D7 | Favorite T (Live In Session) |
+
 
 
 ## Apple Music

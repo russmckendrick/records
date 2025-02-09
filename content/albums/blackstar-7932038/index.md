@@ -39,13 +39,14 @@ styles: ["Art Rock", "Experimental", "Jazz-Rock", "Prog Rock", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | ★ (Blackstar) |
+| A2 | 'Tis A Pity She Was A Whore |
+| A3 | Lazarus |
+| B1 | Sue (Or In A Season Of Crime) |
+| B2 | Girl Loves Me |
+| B3 | Dollar Days |
+| B4 | I Can't Give Everything Away |
+
 
 
 ## Apple Music

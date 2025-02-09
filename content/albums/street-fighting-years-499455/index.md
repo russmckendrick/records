@@ -41,16 +41,17 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Street Fighting Years |
+| A2 | Soul Crying Out |
+| A3 | Wall Of Love |
+| A4 | This Is Your Land |
+| A5 | Take A Step Back |
+| B1 | Kick It In |
+| B2 | Let It All Come Down |
+| B3 | Mandela Day |
+| B4 | Belfast Child |
+| B5 | Biko |
+
 
 
 ## Apple Music

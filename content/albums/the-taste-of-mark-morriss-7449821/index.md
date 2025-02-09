@@ -27,18 +27,19 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | This Pullover |
+| A2 | Rock And Roll Woman |
+| A3 | Souvenir |
+| A4 | Self Control |
+| A5 | Duchess |
+| A6 | You Are My Friend |
+| B1 | Lucretia (My Reflection) |
+| B2 | Angel |
+| B3 | Almost Gold |
+| B4 | Don't Let Go |
+| B5 | Love Comes Quickly |
+| B6 | Good Advices |
+
 
 
 ## Apple Music

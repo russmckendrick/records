@@ -35,16 +35,17 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intolerance |
+| A2 | Prison Sex |
+| A3 | Sober |
+| B1 | Bottom |
+| B2 | Crawl Away |
+| B3 | Swamp Song |
+| C1 | Undertow |
+| C2 | 4° |
+| C3 | Flood |
+| D | Disgustipated |
+
 
 
 ## Apple Music

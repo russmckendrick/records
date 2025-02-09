@@ -84,18 +84,19 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Imperium |
+| A2 | Kaisarion |
+| A3 | Spillways |
+| A4 | Call Me Little Sunshine  |
+| A5 | Hunter's Moon  |
+| A6 | Watcher In The Sky |
+| B1 | Dominion |
+| B2 | Twenties |
+| B3 | Darkness At The Heart Of My Love |
+| B4 | Griftwood |
+| B5 | Bite Of Passage  |
+| B6 | Respite On The Spitalfields |
+
 
 
 ## Apple Music

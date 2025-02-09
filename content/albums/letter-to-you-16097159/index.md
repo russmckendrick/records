@@ -61,18 +61,19 @@ That combination of wistfulness and joy—propelled by the full force of an E St
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | One Minute You're Here |
+| A2 | Letter To You |
+| A3 | Burnin' Train |
+| A4 | Janey Needs A Shooter |
+| B1 | Last Man Standing |
+| B2 | The Power Of Prayer |
+| B3 | House Of A Thousand Guitars |
+| B4 | Rainmaker |
+| C1 | If I Was The Priest |
+| C2 | Ghosts |
+| C3 | Song For Orphans |
+| C4 | I'll See You In My Dreams |
+
 
 
 ## Apple Music

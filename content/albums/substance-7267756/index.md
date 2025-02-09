@@ -30,25 +30,26 @@ Substance is a singles compilation album by the English rock band Joy Division. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Warsaw |
+| A2 | Leaders Of Men |
+| A3 | Digital |
+| A4 | Autosuggestion |
+| A5 | Transmission |
+| B1 | She's Lost Control |
+| B2 | Incubation |
+| B3 | Dead Souls |
+| B4 | Atmosphere |
+| B5 | Love Will Tear Us Apart |
+| C1 | No Love Lost |
+| C2 | Failures |
+| C3 | Glass |
+| C4 | From Safety To Where |
+| D1 | Novelty |
+| D2 | Komakino |
+| D4 | As You Said |
+| D3 | These Days |
+| D5 | Love Will Tear Us Apart (Pennine Version) |
+
 
 
 ## Apple Music

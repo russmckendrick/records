@@ -58,16 +58,17 @@ Back in Black was an unprecedented commercial and critical success. It has sold 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hells Bells |
+| A2 | Shoot To Thrill |
+| A3 | What Do You Do For Money Honey |
+| A4 | Givin The Dog A Bone |
+| A5 | Let Me Put My Love Into You |
+| B1 | Back In Black |
+| B2 | You Shook Me All Night Long |
+| B3 | Have A Drink On Me |
+| B4 | Shake A Leg |
+| B5 | Rock And Roll Ain't Noise Pollution |
+
 
 
 ## Apple Music

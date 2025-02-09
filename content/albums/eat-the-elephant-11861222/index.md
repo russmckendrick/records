@@ -42,19 +42,20 @@ The album was released on April 20, 2018, after four singles were released in ad
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Eat The Elephant |
+| A2 | Disillusioned |
+| A3 | The Contrarian |
+| B1 | The Doomed |
+| B2 | So Long, And Thanks For All The Fish |
+| B3 | Talktalk |
+| C1 | By And Down The River |
+| C2 | Delicious |
+| C3 | DLB |
+| D1 | DLB |
+| D2 | Hourglass |
+| D3 | Feathers |
+| D4 | Get The Lead Out |
+
 
 
 ## Apple Music

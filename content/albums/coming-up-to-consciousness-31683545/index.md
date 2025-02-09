@@ -30,14 +30,15 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dig Till You Die |
+| A2 | Betrayal |
+| A3 | The Gallows |
+| A4 | Useless Animal |
+| B5 | Worship |
+| B6 | Bend The Earth |
+| B7 | Lifeless Creature |
+| B8 | As We Disappear |
+
 
 
 ## Apple Music

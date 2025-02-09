@@ -35,18 +35,19 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Things Can Only Get Better |
+| A2 | Life In One Day |
+| A3 | Dream Into Action |
+| A4 | No One Is To Blame |
+| A5 | Look Mama |
+| A6 | Assault And Battery |
+| B1 | Automaton |
+| B2 | Is There A Difference? |
+| B3 | Elegy |
+| B4 | Specialty |
+| B5 | Why Look For The Key? |
+| B6 | Hunger For The Flesh |
+
 
 
 ## Apple Music

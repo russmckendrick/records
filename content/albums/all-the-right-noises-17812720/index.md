@@ -44,17 +44,18 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Last One Out Turn Off The Lights |
+| A2 | Destruction |
+| A3 | The Smoking Gun |
+| B1 | Going To Sin City |
+| B2 | Don't Forget To Live Before You Die |
+| B3 | I'll Be The One |
+| C1 | Young Man |
+| C2 | You're Gonna Be My Girl |
+| D1 | St. George's Day |
+| D2 | Force Of Nature |
+| D3 | She's A Millionairess |
+
 
 
 ## Apple Music

@@ -45,10 +45,11 @@ Godspeed's seventh album adheres to a similar structure as their post-reunion re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | A Military Alphabet (Five Eyes All Blind) (4521.0kHz 6730.0kHz 4109.09kHz) / Job's Lament / First Of The Last Glaciers / Where We Break How We Shine (Rockets For Mary) |
+| B | Fire At Static Valley |
+| 3 | "Government Came" (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / Cliffs' Gaze At Empty Waters' Rise / Ashes To Sea Or Nearer To Thee |
+| 4 | Our Side Has To Win (For D.H.) |
+
 
 
 ## Apple Music

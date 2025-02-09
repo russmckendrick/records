@@ -40,27 +40,28 @@ A UK version entitled Ring of Fire: The Legend of Johnny Cash has a different tr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ring Of Fire |
+| A2 | I Walk The Line |
+| A3 | Jackson |
+| A4 | Folsom Prison Blues |
+| A5 | A Boy Named Sue (Live) |
+| A6 | Big River |
+| B1 | Get Rhythm |
+| B2 | Cry! Cry! Cry! |
+| B3 | Hey Porter |
+| B4 | A Thing Called Love |
+| B5 | Guess Things Happen That Way |
+| B6 | San Quentin (Live) |
+| B7 | Man In Black |
+| C1 | Highwayman |
+| C2 | The Wanderer |
+| C3 | I've Been Everywhere |
+| C4 | Rusty Cage |
+| D1 | Personal Jesus |
+| D2 | Give My Love To Rose |
+| D3 | One |
+| D4 | Hurt |
+
 
 
 ## Apple Music

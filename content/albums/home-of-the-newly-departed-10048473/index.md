@@ -27,13 +27,14 @@ styles: ["Prog Rock", "Math Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pilot Her |
+| A2 | Dear Lord, No Deal |
+| A3 | Clairvoyant Fortnight |
+| A4 | In A Foreign Way |
+| A5 | Happy Half-Life, Dear Friend |
+| B1 | The Prime Of Our Decline |
+| B2 | HMS Washout |
+
 
 
 ## Apple Music

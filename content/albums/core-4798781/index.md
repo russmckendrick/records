@@ -40,18 +40,19 @@ The album initially received poor reviews despite its commercial success; the ba
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dead & Bloated |
+| A2 | Sex Type Thing |
+| A3 | Wicked Garden |
+| A4 | No Memory |
+| A5 | Sin |
+| B1 | Naked Sunday |
+| B2 | Creep |
+| B3 | Piece Of Pie |
+| C1 | Plush |
+| C2 | Wet My Bed |
+| C3 | Crackerman |
+| C4 | Where The River Goes |
+
 
 
 ## Apple Music

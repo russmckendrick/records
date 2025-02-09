@@ -48,14 +48,15 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | If I'm In Luck I Might Get Picked Up |
+| A2 | Walkin Up The Road |
+| A3 | Anti Love Song |
+| A4 | Your Man My Man |
+| B1 | Ooh Yea |
+| B2 | Steppin In Her I. Miller Shoes |
+| B3 | Game Is My Middle Name |
+| B4 | In The Meantime |
+
 
 
 ## Apple Music

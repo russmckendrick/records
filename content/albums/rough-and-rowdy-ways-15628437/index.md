@@ -47,16 +47,17 @@ And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Contain Multitudes |
+| A2 | False Prophet |
+| A3 | My Own Version Of You |
+| B1 | I've Made Up My Mind To Give Myself To You |
+| B2 | Black Rider |
+| B3 | Goodbye Jimmy Reed |
+| C1 | Mother Of Muses |
+| C2 | Crossing The Rubicon |
+| C3 | Key West (Philosopher Pirate) |
+| D | Murder Most Foul |
+
 
 
 ## Apple Music

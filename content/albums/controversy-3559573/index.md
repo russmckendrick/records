@@ -39,14 +39,15 @@ The carnal delight of tracks like “Private Joy” and the raunchy romp “Jack
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Controversy |
+| A2 | Sexuality |
+| A3 | Do Me, Baby |
+| B1 | Private Joy |
+| B2 | Ronnie, Talk To Russia |
+| B3 | Let's Work |
+| B4 | Annie Christian |
+| B5 | Jack U Off |
+
 
 
 ## Apple Music

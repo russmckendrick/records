@@ -29,18 +29,19 @@ styles: ["Blues Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | My Heart Beat Like A Hammer |
+| A2 | Merry Go Round |
+| A3 | Long Grey Mare |
+| A4 | Hellhound On My Trail |
+| A5 | Shake Your Moneymaker |
+| A6 | Looking For Somebody |
+| B1 | No Place To Go |
+| B2 | My Baby's Good To Me |
+| B3 | I Loved Another Woman |
+| B4 | Cold Black Night |
+| B5 | The World Keep On Turning |
+| B6 | Got To Move |
+
 
 
 ## Apple Music

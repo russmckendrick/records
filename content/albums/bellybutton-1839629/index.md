@@ -35,16 +35,17 @@ Bellybutton was released to critical acclaim and peaked at No. 124 on US charts.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Man I Used To Be |
+| A2 | That Is Why |
+| A3 | The King Is Half-Undressed |
+| A4 | I Wanna Stay Home |
+| A5 | She Still Loves Him |
+| B1 | All I Want Is Everything |
+| B2 | Now She Knows She's Wrong |
+| B3 | Bedspring Kiss |
+| B4 | Baby's Coming Back |
+| B5 | Calling Sarah |
+
 
 
 ## Apple Music

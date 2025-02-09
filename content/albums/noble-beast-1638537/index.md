@@ -38,20 +38,21 @@ The track "Tenuousness" appears in the closing credits for the 2011 movie Crazy,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Oh No |
+| A2 | Master Swarm |
+| A3 | Fitz And The Dizzyspells |
+| B1 | Effigy |
+| B2 | Tenuousness |
+| B3 | Nomenclature |
+| C1 | Ouo |
+| C2 | Not A Robot, But A Ghost |
+| C3 | Unfolding Fans |
+| C4 | Anonanimal |
+| D1 | Natural Disaster |
+| D2 | The Privateers |
+| D3 | Souverian |
+| D4 | On Ho! |
+
 
 
 ## Apple Music

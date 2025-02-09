@@ -35,18 +35,19 @@ Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Zeroes And Ones |
+| A2 | The Devil You Know |
+| A3 | Get A Good Thing |
+| A4 | From Love To War |
+| A5 | Yellow Brown |
+| A6 | Magazine |
+| B1 | The Right Decision |
+| B2 | Your Crusade |
+| B3 | Dont Believe It |
+| B4 | Tongue Tied |
+| B5 | Spiral |
+| B6 | Idiot Stare |
+
 
 
 ## Apple Music

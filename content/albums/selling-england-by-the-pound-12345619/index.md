@@ -38,14 +38,15 @@ Critics and the band members themselves have given mixed opinions of the album. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dancing With The Moonlit Knight |
+| A2 | I Know What I Like (In Your Wardrobe) |
+| A3 | Firth Of Fifth |
+| A4 | More Fool Me  |
+| B1 | The Battle Of Epping Forest |
+| B2 | After The Ordeal |
+| B3 | The Cinema Show |
+| B4 | Aisle Of Plenty |
+
 
 
 ## Apple Music

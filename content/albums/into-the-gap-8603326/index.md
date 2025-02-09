@@ -35,15 +35,16 @@ In March 2008, Into the Gap was reissued as an expanded 2-disc set by Edsel Reco
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Doctor! Doctor! |
+| A2 | You Take Me Up |
+| A3 | Day After Day |
+| A4 | Sister Of Mercy |
+| A5 | No Peace For The Wicked |
+| B1 | The Gap |
+| B2 | Hold Me Now |
+| B3 | Storm On The Sea |
+| B4 | Who Can Stop The Rain |
+
 
 
 ## Apple Music

@@ -32,17 +32,18 @@ Where Charles Bradley’s 2011 debut LP sounded like it was recorded in 1971, hi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Strictly Reserved For You |
+| A2 | You Put The Flame On It |
+| A3 | Let Love Stand A Chance |
+| A4 | Victim Of Love |
+| A5 | Love Bug Blues |
+| A6 | Dusty Blue |
+| B1 | Confusion |
+| B2 | Where Do We Go From Here? |
+| B3 | Crying In The Chapel |
+| B4 | Hurricane |
+| B5 | Through The Storm |
+
 
 
 ## Apple Music

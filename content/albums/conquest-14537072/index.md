@@ -32,51 +32,49 @@ styles: ["Cut-up/DJ", "Turntablism"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Conquest |
+| A1 | Emag Revo |
+| A2 | Drumz of Deth |
+| A3 | Rude Killer |
+| A4 | Conquest |
+| A5 | Rodan Wingspan |
+| A6 | Channel Zektar |
+| B1 | Flying Saucer |
+| B2 | War Island Ave. |
+| B3 | Voltronik |
+| B4 | Channel Zektar (Reptoid Terrormental) |
+| B5 | Rude Killer (Knife Bonus) |
+| B6 | Gold Whisk (Joe Rogan Podcast) |
+| B7 | MMM Soundmag |
+|  | Conquest Mix |
+| CD-1 | Conquest Mix |
+| 1a | Trillenium (Conquest Mix) |
+| 1b | Emag Revo (Conquest Mix) |
+| 1c | Fear At 25 (Conquest Mix) |
+| 1d | Rude Killer (Conquest Mix) |
+| 1e | Drumz Of Deth (Conquest Mix) |
+| 1f | Channel Zektar (Conquest Mix) |
+| 1g | 50 Cal Get Down (Conquest Mix) |
+| 1h | Rodan Wingspan (Conquest Mix) |
+| 1i | Conquest  (Conquest Mix) |
+| 1j | Flying Saucer (Conquest Mix) |
+| 1k | Voltron (Stand By) (Conquest Mix) |
+| 1l | Extra Volt (Conquest Mix) |
+| 1m | Gyokuru (Conquest Mix) |
+| 1n | War Island Ave (Conquest Mix) |
+| 1o | Gold Whisk (Conquest Mix) |
+| 1p | Beta Capsule (Conquest Mix) |
+| 1q | Gamera Lenz (Conquest Mix) |
+| 1r | Zethra (Conquest Mix) |
+| 1s | Channel Zektar (Reptoid Terrormental) (Conquest Mix) |
+| 1t | Rude Killer (Switchblade Bonus) (Conquest Mix) |
+| 1u | Danger Zone (Conquest Mix) |
+| 1v | Enilorac (Conquest Mix) |
+| 1w | V-D (Conquest Mix) |
+| 1x | Outro (Conquest Mix) |
+| 1y | MMM Sound Mag (Conquest Mix) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

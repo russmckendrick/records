@@ -47,27 +47,28 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Wagon |
+| A2 | Puke + Cry |
+| A3 | Blowing It |
+| A4 | I Live For That Look |
+| A5 | Flying Cloud |
+| A6 | How'd You Pin That One On Me |
+| B1 | Water |
+| B2 | Muck |
+| B3 | Thumb |
+| B4 | Green Mind |
+| C1 | Pebbles + Weeds |
+| C2 | The Little Baby |
+| C3 | Not You Again |
+| C4 | Quicksand (Wagon Reprise) |
+| C5 | Throw Down |
+| C6 | Whatever's Cool With Me |
+| D1 | Sideways |
+| D2 | Thumb (Live) |
+| D3 | Keep The Glove (Live) |
+| D4 | The Lung (Live) |
+| D5 | The Post (Live) |
+
 
 
 ## Apple Music

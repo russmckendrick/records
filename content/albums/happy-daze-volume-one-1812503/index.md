@@ -29,25 +29,23 @@ styles: ["Alternative Rock", "New Wave", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Loaded |
+| A2 | Real, Real, Real |
+| A3 | Come Home |
+| A4 | Big |
+| A5 | Hippy Chick |
+| A6 | Velouria |
+| A7 | Taste |
+| A8 | She Comes In The Fall |
+| B1 | Groovy Train |
+| B2 | The Only One I Know |
+| B3 | Circle Square |
+| B4 | Sheriff Fatman |
+| B5 | ProGen |
+| B6 | Wrote For Luck |
+| B7 | I'm Free |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

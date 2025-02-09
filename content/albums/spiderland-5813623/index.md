@@ -52,15 +52,16 @@ Two years earlier, on the group’s debut album, <i>Tweez</i>, the members of Sl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Spiderland |
+| A1 | Breadcrumb Trail |
+| A2 | Nosferatu Man |
+| A3 | Don, Aman |
+| B1 | Washer |
+| B2 | For Dinner... |
+| B3 | Good Morning, Captain |
+|  | - |
+| DVD | Breadcrumb Trail |
+
 
 
 ## Apple Music

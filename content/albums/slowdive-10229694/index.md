@@ -42,14 +42,15 @@ The album artwork is a still image from avant-garde cut-out animation film, Heav
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Slomo |
+| A2 | Star Roving |
+| A3 | Don't Know Why |
+| A4 | Sugar For The Pill |
+| B1 | Everyone Knows |
+| B2 | No Longer Making Time |
+| B3 | Go Get It |
+| B4 | Falling Ashes |
+
 
 
 ## Apple Music

@@ -33,17 +33,18 @@ This album also features cello playing of Dave Wesling from the Royal Liverpool 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fragile Dreams |
+| A2 | Leave No Trace |
+| A3 | Inner Silence |
+| A4 | One Last Goodbye |
+| B1 | Are You There? |
+| B2 | Angelica |
+| B3 | Anathema |
+| B4 | A Natural Disaster |
+| C1 | Temporary Peace |
+| C2 | Flying |
+| C3 | Unchained (Tales Of The Unexpected) |
+
 
 
 ## Apple Music

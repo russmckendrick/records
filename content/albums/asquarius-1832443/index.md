@@ -34,18 +34,19 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rich And Strange |
+| A2 | Easy |
+| A3 | Sometimes Rightly, Sometimes Wrongly |
+| A4 | Spanish Love Song |
+| A5 | Magic Alex |
+| A6 | Beyond Hair |
+| B1 | Pink Flamingo |
+| B2 | Possession |
+| B3 | Through The Roof |
+| B4 | Soul Food |
+| B5 | Once Again |
+| B6 | No Smoking |
+
 
 
 ## Apple Music

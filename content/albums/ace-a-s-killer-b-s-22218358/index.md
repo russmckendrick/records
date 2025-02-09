@@ -29,23 +29,24 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Every Single Day |
+| A2 | Staying Out For The Summer (Summer '95) |
+| A3 | Water Under The Bridge |
+| A4 | Good Enough  |
+| A5 | Melodies Haunt You |
+| B1 | Big Brown Moon |
+| B2 | Found You  |
+| B3 | Self Doubt |
+| B4 | In A Room (Full Version) |
+| C1 | Making The Most Of.. |
+| C2 | If You're Thinking Of Me  |
+| C3 | Lovebirds |
+| C4 | (Get Off Your) High Horse |
+| D1 | So Let Me Go Far |
+| D2 | Grassman |
+| D3 | Ain't No Longer Asking |
+| D4 | The Elephant |
+
 
 
 ## Apple Music

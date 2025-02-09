@@ -34,16 +34,17 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Curious Electric |
+| A2 | Each And Everyday |
+| A3 | Bird Song |
+| A4 | I Hear You Now |
+| A5 | The Road |
+| B1 | Far Away In Baagad |
+| B2 | Love Is |
+| B3 | One More Time |
+| B4 | Thunder |
+| B5 | A Play Within A Play |
+
 
 
 ## Apple Music

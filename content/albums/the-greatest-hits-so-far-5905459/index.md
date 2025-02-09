@@ -29,20 +29,21 @@ The Greatest Hits, So Far is a greatest hits album by English post-punk band Pub
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Public Image |
+| A2 | Death Disco |
+| A3 | Memories |
+| A4 | Careering |
+| B1 | Flowers Of Romance |
+| B2 | This Is Not A Love Song |
+| B3 | Rise |
+| B4 | Home |
+| C1 | Seattle |
+| C2 | The Body |
+| C3 | Rules And Regulations |
+| D1 | Disappointed |
+| D2 | Warrior |
+| D3 | Don't Ask Me |
+
 
 
 ## Apple Music

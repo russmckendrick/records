@@ -37,19 +37,20 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Electricity |
+| A2 | Savoir Faire |
+| A3 | Can't Get Enough |
+| B1 | Everything Will Flow |
+| B2 | Down |
+| B3 | She's In Fashion |
+| C1 | Asbestos |
+| C2 | Head Music |
+| C3 | Elephant Man |
+| D1 | Hi-Fi |
+| D2 | Indian Strings |
+| D3 | He's Gone |
+| D4 | Crack In The Union Jack |
+
 
 
 ## Apple Music

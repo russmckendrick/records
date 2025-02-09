@@ -36,20 +36,21 @@ And while <i>Psychocandy</i> would influence the next several decades’ worth o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Just Like Honey |
+| A2 | The Living End |
+| A3 | Taste The Floor |
+| A4 | The Hardest Walk |
+| A5 | Cut Dead |
+| A6 | In A Hole |
+| A7 | Taste Of Cindy |
+| B1 | Never Understand |
+| B2 | Inside Me |
+| B3 | Sowing Seeds |
+| B4 | My Little Underground |
+| B5 | You Trip Me Up |
+| B6 | Something's Wrong |
+| B7 | It's So Hard |
+
 
 
 ## Apple Music

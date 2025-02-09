@@ -41,12 +41,13 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | One Of These Days |
+| A2 | A Pillow Of Winds |
+|  | Fearless Including "You'll Never Walk Alone" |
+| A4 | San Tropez |
+| A5 | Seamus |
+| B1 | Echoes |
+
 
 
 ## Apple Music

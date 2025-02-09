@@ -26,14 +26,12 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 1st Movement - Invention |
+| A2 | 2nd Movement - Harmony |
+| B1 | 3rd Movement - Division |
+| B2 | 4th Movement - Reconstruction |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

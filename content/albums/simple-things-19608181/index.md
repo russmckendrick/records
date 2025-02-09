@@ -44,17 +44,18 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Have Seen |
+| A2 | Polaris |
+| A3 | Destiny |
+| B1 | Give It Away |
+| B2 | Simple Things |
+| B3 | Red Dust |
+| C1 | Distractions |
+| C2 | In The Waiting Line |
+| C3 | Out Of Town |
+| D1 | This World |
+| D2 | Likufanele |
+
 
 
 ## Apple Music

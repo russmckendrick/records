@@ -37,15 +37,16 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crestfallen |
+| A2 | Sleep In Sanity |
+| A3 | Kingdom |
+| A4 | They Die |
+| A5 | Everwake |
+| B1 | J'ai Fait Une Promesse |
+| B2 | Alone |
+| B3 | We The Gods |
+| B4 | Sunset Of Age |
+
 
 
 ## Apple Music

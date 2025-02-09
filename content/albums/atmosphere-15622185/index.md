@@ -35,8 +35,9 @@ The single was re-released in 1988 to coincide with the release of the compilati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Atmosphere |
+| B | She's Lost Control |
+
 
 
 ## Apple Music

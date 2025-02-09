@@ -44,30 +44,31 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Brakhage |
+| A2 | Miss Modular |
+| A3 | The Flower Called Nowhere |
+| B1 | Diagonals |
+| B2 | Prisoner Of Mars |
+| B3 | Rainbo Conversation |
+| C1 | Refractions In The Plastic Pulse |
+| D1 | Parsec |
+| D2 | Ticker-Tape Of The Unconscious |
+| D3 | Contronatura |
+| E1 | Diagonals Bode Drums |
+| E2 | Contranatura (Pt 2 - Instrumental) |
+| E3 | Brakhage (Instrumental) |
+| E4 | The Flower Called Nowhere (Instrumental) |
+| E5 | Bonus Beats |
+| F1 | Diagonals (Instrumental) |
+| F2 | Contranatura (Demo) |
+| F3 | Allures (Demo) |
+| F4 | Refractions In The Plastic Pulse (Demo) |
+| F5 | I Feel The Air (Demo) |
+| F6 | Off On (Demo) |
+| F7 | Incredible He Woman (Demo) |
+| F8 | Miss Modular (Demo) |
+| F9 | Untitled In Dusseldorf (Demo) |
+
 
 
 ## Apple Music

@@ -36,18 +36,19 @@ styles: ["Blues Rock", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Why Are You Not Rocking? |
+| A2 | Don't Tell Me How To Live |
+| A3 | She's A Witch |
+| A4 | For The People (feat. Ian Thornley) |
+| B1 | Black Forest |
+| B2 | Another Man's Shoes |
+| B3 | Things Get Better |
+| B4 | The Enforcer |
+| C1 | To The Flame |
+| C2 | Midnight (Bonus) |
+| C3 | New Soul |
+| C4 | Enjoy The Time |
+
 
 
 ## Apple Music

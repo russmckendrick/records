@@ -36,19 +36,20 @@ Behold one of the majestically silly couplets on this second serving of Kiwi com
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hurt Feelings |
+| A2 | Sugalumps |
+| A3 | We're Both In Love With A Sexy Lady |
+| A4 | I Told You I Was Freaky |
+| A5 | Demon Woman |
+| A6 | Rambling Through The Avenues Of Time |
+| B1 | Fashion Is Danger |
+| B2 | Petrov, Yelyena, And Me |
+| B3 | Too Many Dicks (On The Dance Floor) |
+| B4 | You Don't Have To Be A Prostitute |
+| B5 | Friends |
+| B6 | Carol Brown |
+| B7 | Angels |
+
 
 
 ## Apple Music

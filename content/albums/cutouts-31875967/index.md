@@ -40,16 +40,17 @@ It remains to be seen whether anything can be read into the trio clearing the de
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Foreign Spies |
+| A2 | Instant Psalm |
+| A3 | Zero Sum |
+| A4 | Colours Fly |
+| A5 | Eyes And Mouth |
+| B1 | Don't Get Me Started |
+| B2 | Tiptoe |
+| B3 | The Slip |
+| B4 | No Words |
+| B5 | Bodies Laughing |
+
 
 
 ## Apple Music

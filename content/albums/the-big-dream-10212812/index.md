@@ -33,28 +33,29 @@ Two singles were released from The Big Dream; "I'm Waiting Here", a collaboratio
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Prologue - Deep Sleep |
+| LP-A2 | Awakenings |
+| LP-A3 | Sigma |
+| LP-B1 | In Floral Green |
+| LP-B2 | Everglow |
+| LP-B3 | False Light |
+| LP-C1 | Symbolic |
+| LP-C2 | The Divine Art Of Being |
+| LP-D1 | The Big Dream |
+| LP-D2 | Hello World, Goodbye |
+| LP-D3 | Epilogue - Sea Beams |
+| CD-1 | Prologue - Deep Sleep |
+| CD-2 | Awakenings |
+| CD-3 | Sigma |
+| CD-4 | In Floral Green |
+| CD-5 | Everglow |
+| CD-6 | False Lights |
+| CD-7 | Symbolic |
+| CD-8 | The Divine Art Of Being |
+| CD-9 | The Big Dream |
+| CD-10 | Hello World, Goodbye |
+| CD-11 | Epilogue - Sea Beams |
+
 
 
 ## Apple Music

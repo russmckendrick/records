@@ -31,24 +31,25 @@ Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I'v
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Believe I've Found |
+| A2 | Transcendental Suicide |
+| A3 | Bigtime |
+| A4 | Heading For A Breakdown |
+| B1 | Mother One Track Mind |
+| B2 | Midnight Children |
+| B3 | Lone Summer |
+| B4 | Royal Explosion (Part II) |
+| C1 | Wheels Of Boredom |
+| C2 | Borderline |
+| C3 | Song For The Others |
+| C4 | Age Of No Reply |
+|  | Bonus Side |
+| D1 | To Somewhere Else |
+| D2 | World Bank |
+| D3 | Sister Surround |
+| D4 | Love Song #3105 |
+| D5 | A Room Without A View |
+
 
 
 ## Apple Music

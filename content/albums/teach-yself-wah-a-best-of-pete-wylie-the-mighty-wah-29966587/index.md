@@ -26,26 +26,27 @@ styles: ["Post-Punk", "Art Rock", "Power Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Remember |
+| A2 | The Story Of the Blues (Part One) |
+| A3 | You Can't Put Your Arms Around A Memory |
+| A4 | Hope (I Wish You'd Believe Me) |
+| A5 | Sleep (A Lullaby For Josie) |
+| A6 | Talking Blues (The Story Of The Blues: Part Two |
+| B1 | Come Back |
+| B2 | Diamond Girl |
+| B3 | Fourelevenfortyfour |
+| B4 | Sinful - Song of The Sinful Angel |
+| C1 | The Day That Margaret Thatcher Dies - A Party Song |
+| C2 | Loverboy |
+| C3 | Is That What Love Is All About? |
+| C4 | Free; Falling (In Love With You) |
+| C5 | Heart As Big As Liverpool |
+| D1 | Better Scream 2024 |
+| D2 | Seven Minutes To Midnight 2024 |
+| D3 | Somesay |
+| D4 | The Seven Thousand Names of WAH! |
+| D5 | Big Hard Excellent Fish - Imperfect List (Original Version) |
+
 
 
 ## Apple Music

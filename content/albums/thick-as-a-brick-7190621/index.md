@@ -48,8 +48,9 @@ The album was recorded in late 1971, featuring music composed by Anderson and ar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Thick As A Brick |
+| B | Thick As A Brick |
+
 
 
 ## Apple Music

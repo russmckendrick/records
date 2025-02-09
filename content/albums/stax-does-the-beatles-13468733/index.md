@@ -34,25 +34,26 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Day Tripper (Alternate Take) |
+| A2 | Help! |
+| A3 | Got to Get You Into My Life |
+| A4 | With a Little Help From My Friends |
+| A5 | Yesterday (Live) |
+| B1 | Eleanor Rigby |
+| B2 | Let it Be |
+| B3 | Something |
+| C1 | Yesterday |
+| C2 | Michelle |
+| C3 | And I Love Her |
+| C4 | With a Little Help From My Friends |
+| D1 | Lady Madonna |
+| D2 | My Sweet Lord |
+| D3 | Hey Jude |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}<br>
 
 
 

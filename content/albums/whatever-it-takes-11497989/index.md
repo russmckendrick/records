@@ -31,16 +31,17 @@ styles: ["Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Don't Wanna Be Without You |
+| A2 | Whatever It Takes |
+| A3 | I Got Eyes |
+| A4 | Mm-Hmm |
+| A5 | Blisters |
+| B1 | I Should've Spoke Up |
+| B2 | Show Her |
+| B3 | Don't Let Pride Take You For A Ride |
+| B4 | How Long |
+| B5 | It Was Gonna Be You |
+
 
 
 ## Apple Music

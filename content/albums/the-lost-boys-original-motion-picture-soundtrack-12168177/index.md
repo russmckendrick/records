@@ -31,20 +31,21 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Good Times |
+| A2 | Lost In The Shadows (The Lost Boys) |
+| A3 | Don't Let The Sun Go Down On Me |
+| A4 | Laying Down The Law |
+| B1 | People Are Strange |
+| B2 | Cry Little Sister (Theme From The Lost Boys) |
+| B3 | Power Play |
+| B4 | I Still Believe |
+| B5 | Beauty Has Her Way |
+| B6 | To The Shock Of Miss Louise |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="4KFyuG1e7yTOknV9Pm893S" width="100%" height="500" >}}<br>
 
 
 

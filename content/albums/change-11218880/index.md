@@ -37,16 +37,17 @@ Wilson has stated that she had been working on the album for several years with 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | People Are Asking |
+| A2 | Stand Back Time |
+| A3 | No One Can Tell You |
+| A4 | Change |
+| A5 | Mystic |
+| B6 | Things I’d Like To Say |
+| B7 | Sunrise |
+| B8 | On The Inside |
+| B9 | Brother |
+| B10 | Memory |
+
 
 
 ## Apple Music

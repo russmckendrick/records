@@ -34,20 +34,18 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Play With Me |
+| A2 | The Boys And Girls Are Doing It |
+| A3 | Not So Far Away |
+| A4 | Dancing With A Gypsy |
+| A5 | Father Time |
+| B1 | I Can't Break Away |
+| B2 | Dangerous |
+| B3 | Walk Away |
+| B4 | In Time |
+| B5 | Two Heads Are Better Than One |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

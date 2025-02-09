@@ -30,18 +30,19 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm Torn Up |
+| A2 | Don't Mean A Thing |
+| A3 | Call Me |
+| A4 | Like A Mighty River |
+| A5 | That Glow |
+| A6 | Broken Bones & Pocket Change |
+| B1 | Sugar Dyed |
+| B2 | Half The City |
+| B3 | Grass Is Greener |
+| B4 | Let It Be So |
+| B5 | Dixie Rothko |
+| B6 | It's Midnight |
+
 
 
 ## Apple Music

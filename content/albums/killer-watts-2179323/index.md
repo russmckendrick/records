@@ -35,27 +35,25 @@ styles: ["Hard Rock", "Classic Rock", "Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The World Anthem |
+| A2 | Rock 'N' Roll Hall Of Fame |
+| A3 | U.S.A. |
+| A4 | Flesh And Blood |
+| A5 | Knock 'Em Dead Kid |
+| B1 | Rapid Fire |
+| B2 | Godzilla |
+| B3 | Need A Little Girl (Just Like You) |
+| B4 | Back On The Road Again |
+| C1 | Line Of Fire |
+| C2 | Solid As A Rock |
+| C3 | L'Elite |
+| C4 | Too Wild To Tame |
+| D1 | Let The Music Do The Talking |
+| D2 | No Surprise |
+| D3 | Checkin' It Out (Baby Don't You Cry) |
+| D4 | Boogie No More |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

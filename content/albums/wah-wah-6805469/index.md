@@ -35,29 +35,30 @@ Critics were often divided in their reviews for Wah Wah, but were mostly positiv
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hammer Strings |
+| A2 | Pressure's On |
+| A3 | Jam J |
+| A4 | Frequency Dip |
+| A5 | Lay The Law Down |
+| B1 | Burn The Cat |
+| B2 | Maria |
+| B3 | Low Clouds |
+| B4 | Building A Fire |
+| B5 | Gospel Oak |
+| B6 | DVV |
+| C1 | Say Say Something |
+| C2 | Rhythmic Dreams |
+| C3 | Dead Man |
+| C4 | Rain Whistling |
+| C5 | Basic Brian |
+| C6 | Low Clouds |
+| D1 | Bottom Of The Well |
+| D2 | Honest Joe |
+| D3 | Arabic Agony |
+| D4 | Tomorrow |
+| D5 | Laughter |
+| D6 | Sayonara |
+
 
 
 ## Apple Music

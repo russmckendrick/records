@@ -38,25 +38,26 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dancing Gold |
+| A2 | Star (Full Band) |
+| A3 | Dream On Me |
+| A4 | Sweet Ride |
+| A5 | Trust In Me |
+| B1 | Diamond Rib Cage |
+| B2 | Sexy S |
+| B3 | Baby's Arm |
+| B4 | Broken |
+| B5 | It's Not Unusual (Ivo's Version) |
+| C1 | Are You Experienced? |
+| C2 | Spaceman |
+| C3 | Hot Burrito #1 |
+| C4 | Think About Your Troubles |
+| C5 | Hushabye Mountain |
+| D1 | Lilith |
+| D2 | John Dark |
+| D3 | Judas Mon Coeur (French Version) |
+| D4 | Thief |
+
 
 
 ## Apple Music

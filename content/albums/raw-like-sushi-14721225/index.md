@@ -35,16 +35,17 @@ Raw Like Sushi is the debut studio album by Swedish musician Neneh Cherry, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Buffalo Stance |
+| A2 | Manchild |
+| A3 | Kisses On The Wind |
+| A4 | Inna City Mama |
+| A5 | The Next Generation |
+| B1 | Love Ghetto |
+| B2 | Heart |
+| B3 | Phoney Ladies |
+| B4 | Outré Risqué Locomotive |
+| B5 | So Here I Come |
+
 
 
 ## Apple Music

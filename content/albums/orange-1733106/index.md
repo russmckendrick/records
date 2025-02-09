@@ -31,19 +31,20 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bellbottoms |
+| A2 | Ditch |
+| A3 | Dang |
+| A4 | Very Rare |
+| A5 | Sweat |
+| A6 | Cowboy |
+| A7 | Orange |
+| B1 | Brenda |
+| B2 | Dissect |
+| B3 | Blues X Man |
+| B4 | Full Grown |
+| B5 | Flavor |
+| B6 | Greyhound |
+
 
 
 ## Apple Music

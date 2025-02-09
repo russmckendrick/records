@@ -37,28 +37,29 @@ styles: ["Alternative Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Life Less Ordinary |
+| A2 | Arcadia |
+| A3 | Darkest Hour Of The Night |
+| A4 | Kung Fu |
+| A5 | Cocoon |
+| A6 | You Can't Have It All |
+| B1 | Girl From Mars |
+| B2 | Wildsurf |
+| B3 | Shining Light |
+| B4 | Starcrossed |
+| B5 | Buzzkill |
+| B6 | Goldfinger |
+| C1 | Burn Baby Burn |
+| C2 | Dare To Dream |
+| C3 | Annabel |
+| C4 | Machinery |
+| C5 | Sometimes |
+| D1 | Oh Yeah |
+| D2 | Angel Interceptor |
+| D3 | Jesus Says |
+| D4 | Orpheus |
+| D5 | Jack Names The Planets |
+
 
 
 ## Apple Music

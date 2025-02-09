@@ -28,20 +28,21 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Smile Like An Angel |
+| A2 | Poor Side Of Town |
+| A3 | Money In My Pocket (Original Jamaican Version) |
+| A4 | This World Is Troubled |
+| A5 | Silver Words |
+| A6 | Play Girl |
+| A7 | Tribulation |
+| B1 | Westbound Train |
+| B2 | Let Me Live |
+| B3 | Don't Expect Me To Be Your Friend |
+| B4 | Summertime |
+| B5 | My Kind |
+| B6 | Golden Streets |
+| B7 | We Will Be Free |
+
 
 
 ## Apple Music

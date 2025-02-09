@@ -39,16 +39,17 @@ The "hammer and anvil" tactic is fundamentally a single envelopment, and is to b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fight Fire |
+| A2 | Black Mourning |
+| A3 | Patriarch |
+| B1 | Last Man, Last Round |
+| B2 | Valour |
+| B3 | Over The Top |
+| B4 | Never Divide |
+| C1 | Blitzkrieg |
+| C2 | Open Insurrection |
+| C3 | Armistice |
+
 
 
 ## Apple Music

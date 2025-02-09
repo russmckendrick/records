@@ -28,26 +28,27 @@ styles: ["Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Late Night Laments |
+| A1 | Northern Rain |
+| A2 | I'm Better Now |
+| A3 | Darkline |
+| A4 | We Caught The Light |
+| A5 | The Hitman Who Missed |
+| B1 | Never A Place |
+| B2 | The Last Getaway |
+| B3 | Hidden Life |
+| B4 | One Last Call |
+|  | Late Night Laments |
+| CD-1 | Northern Rain |
+| CD-2 | I'm Better Now |
+| CD-3 | Darkline |
+| CD-4 | We Caught The Light |
+| CD-5 | The Hitman Who Missed |
+| CD-6 | Never A Place |
+| CD-7 | The Last Getaway |
+| CD-8 | Hidden Life |
+| CD-9 | One Last Call |
+
 
 
 ## Apple Music

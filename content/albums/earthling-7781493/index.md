@@ -39,15 +39,16 @@ Earthling charted better than its predecessor and reached the top ten in several
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Little Wonder |
+| A2 | Looking For Satellites |
+| A3 | Battle For Britain (The Letter) |
+| A4 | Seven Years In Tibet |
+| B1 | Dead Man Walking |
+| B2 | Telling Lies |
+| B3 | The Last Thing You Should Do |
+| B4 | I'm Afraid Of Americans |
+| B5 | Law (Earthlings On Fire) |
+
 
 
 ## Apple Music

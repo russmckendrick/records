@@ -33,17 +33,18 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Right Place Wrong Time |
+| A2 | Same Old Same Old |
+| A3 | Just The Same |
+| A4 | Qualified |
+| A5 | Traveling Mood |
+| A6 | Peace Brother Peace |
+| B1 | Life |
+| B2 | Such A Night |
+| B3 | Shoo Fly Marches On |
+| B4 | I Been Hoodood |
+| B5 | Cold Cold Cold |
+
 
 
 ## Apple Music

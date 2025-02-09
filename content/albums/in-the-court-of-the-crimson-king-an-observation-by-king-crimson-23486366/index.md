@@ -33,15 +33,13 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 	21st Century Schizoid Man (Including "Mirrors") |
+| A2 | 	I Talk To The Wind |
+| A3 | Epitaph (Including "March For No Reason" And "Tomorrow And Tomorrow") |
+| B1 | Moonchild (Including "The Dream" And "The Illusion") |
+| B2 | The Court Of The Crimson King (Including "The Return Of The Fire Witch" And "The Dance Of The Puppets") |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

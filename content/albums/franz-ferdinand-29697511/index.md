@@ -38,17 +38,18 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jacqueline |
+| A2 | Tell Her Tonight |
+| A3 | Take Me Out |
+| A4 | The Dark Of The Matinée |
+| A5 | Auf Achse |
+| B1 | Cheating On You |
+| B2 | This Fire |
+| B3 | Darts Of Pleasure |
+| B4 | Michael |
+| B5 | Come On Home |
+| B6 | 40' |
+
 
 
 ## Apple Music

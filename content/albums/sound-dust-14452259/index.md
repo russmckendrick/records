@@ -33,26 +33,27 @@ The song "Nothing to Do with Me" features lyrics derived from English satirist C
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Ants In Sound Dust |
+| A2 | Space Moth |
+| A3 | Captain Easychord |
+| B1 | Baby Lulu |
+| B2 | The Black Arts |
+| B3 | Hallucinex |
+| C1 | Double Rocker |
+| C2 | Gus The Mynah Bird |
+| C3 | Naught More Terrific Than Man |
+| D1 | Nothing To Do With Me |
+| D2 | Suggestion Diabolique |
+| D3 | Les Bons Bons Des Raisons |
+| E1 | Black Ants Demo |
+| E2 | Spacemoth Intro Demo |
+| E3 | Spacemoth Demo |
+| E4 | Baby Lulu Demo |
+| E5 | Hallucinex Pt 1 Demo |
+| E6 | Hallucinex Pt 2 Demo |
+| E7 | Long Live Love Demo |
+| E8 | Les Bon Bons Des Raisons Demo |
+
 
 
 ## Apple Music

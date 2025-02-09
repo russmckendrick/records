@@ -45,14 +45,15 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Neal And Jack And Me |
+| A2 | Heartbeat |
+| A3 | Sartori In Tangier |
+| A4 | Waiting Man |
+| B1 | Neurotica |
+| B2 | Two Hands |
+| B3 | The Howler |
+| B4 | Requiem |
+
 
 
 ## Apple Music

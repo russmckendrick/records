@@ -49,21 +49,22 @@ Much like its predecessors, Run the Jewels 3 received widespread acclaim from cr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Down |
+| A2 | Talk To Me |
+| A3 | Legend Has It |
+| A4 | Call Ticketron |
+| B5 | Hey Kids (Bumaye) |
+| B6 | Stay Gold |
+| B7 | Don't Get Captured |
+| B8 | Thieves! (Screamed The Ghost) |
+| C9 | 2100 |
+| C10 | Panther Like A Panther (Miracle Mix) |
+| C11 | Everybody Stay Calm |
+| D12 | Oh Mama |
+| D13 | Thursday In The Danger Room |
+| D14a | A Report To The Shareholders |
+| D14b | Kill Your Masters |
+
 
 
 ## Apple Music

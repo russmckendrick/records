@@ -34,17 +34,18 @@ styles: ["Pop Rock", "Downtempo", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Crying In The Rain |
+| A2 | Early Morning |
+| A3 | I Call Your Name |
+| A4 | Slender Frame |
+| A5 | East Of The Sun |
+| B1 | Sycamore Leaves |
+| B2 | Waiting For Her |
+| B3 | Cold River |
+| B4 | The Way We Talk |
+| B5 | Rolling Thunder |
+| B6 | (Seemingly) Nonstop July |
+
 
 
 ## Apple Music

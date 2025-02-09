@@ -37,16 +37,17 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Come With Us |
+| A2 | It Began In Afrika |
+| A3 | Galaxy Bounce |
+| B1 | Star Guitar |
+| B2 | Hoops |
+| C1 | My Elastic Eye |
+| C2 | The State We're In |
+| C3 | Denmark |
+| D1 | Pioneer Skies |
+| D2 | The Test |
+
 
 
 ## Apple Music

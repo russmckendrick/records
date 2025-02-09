@@ -33,18 +33,19 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Killing Moon |
+| A2 | Unsung |
+| A3 | Holes (Feat. Nadine Shah) |
+| B1 | Nightporter |
+| B2 | She Still Leads Me On |
+| B3 | Wonderful Life |
+| C1 | The Next Life |
+| C2 | He's Dead |
+| C3 | Enjoy The Silence (Feat. Gwenno) |
+| D1 | The End Of The World (Feat. Nadine Shah) |
+| D2 | My Death |
+| D3 | Brutal Lover |
+
 
 
 ## Apple Music

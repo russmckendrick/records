@@ -39,17 +39,18 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hellfire |
+| A2 | Sugar/Tzu |
+| A3 | Eat Men Eat |
+| A4 | Welcome To Hell |
+| A5 | Still |
+| B1 | Half Time |
+| B2 | The Race Is About To Begin |
+| B3 | Dangerous Liaisons |
+| B4 | The Defence |
+| B5 | 27 Questions |
+| C1 | Chondromalacia Patella |
+
 
 
 ## Apple Music

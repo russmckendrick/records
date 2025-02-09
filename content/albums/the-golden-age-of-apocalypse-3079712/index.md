@@ -39,19 +39,20 @@ The Golden Age of Apocalypse is the debut studio album by Thundercat, released o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | HooooooO |
+| A2 | Daylight |
+| A3 | Fleer Ultra |
+| A4 | Is It Love? |
+| A5 | For Love I Come |
+| B1 | It Really Doesn't Matter To You |
+| B2 | Jamboree |
+| B3 | Boat Cruise |
+| B4 | Seasons |
+| B5 | Golden Boy |
+| B6 | Walkin' |
+| B7 | Mystery Machine (The Golden Age Of Apocalypse) |
+| B8 | Return To The Journey |
+
 
 
 ## Apple Music

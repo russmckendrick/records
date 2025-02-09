@@ -26,16 +26,17 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Willow And Mallow • Daniel Hunt Mix |
+| A2 | The Presence • Concretism Mix |
+| A3 | Clusters • Lonelady Lost Minds Mix |
+| A4 | For A Moment • Deary Dub Mix |
+| A5 | Xanthe • Witching Time Version |
+| B1 | Inter Light • Memorials Mix |
+| B2 | Taste The Air • Julia Holter Mix |
+| B3 | Tonight Is Mine • Lorelle Meets The Obsolete 84-86 Mix |
+| B4 | Bend The Round • The Orielles Blend The Round Mix |
+| 10 | I Was Miles Away • Masal Spectral Mix |
+
 
 
 ## Apple Music

@@ -32,17 +32,18 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm Sorry |
+| A2 | Don't Go |
+| A3 | Forgiven |
+| A4 | It'll Be Easier In The Morning |
+| A5 | Hallelujah Jordan |
+| A6 | If You Go |
+| B1 | The Older We Get |
+| B2 | Yes I Was |
+| B3 | Love Don't Work This Way |
+| B4 | Ballad Of Katie |
+| B5 | Feet On The Ground |
+
 
 
 ## Apple Music

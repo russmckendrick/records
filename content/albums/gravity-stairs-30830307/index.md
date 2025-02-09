@@ -46,17 +46,18 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Magic Piano |
+| A2 | Life's Imitation |
+| A3 | The Howl |
+| A4 | All That I Can Ever Own |
+| A5 | Oh Hi |
+| A6 | Some Greater Plan (For Claire) |
+| B1 | Black Water, White Circle |
+| B2 | Blurry Grass |
+| B3 | I Can't Keep Up With You |
+| B4 | Thirsty |
+| B5 | Night Song |
+
 
 
 ## Apple Music

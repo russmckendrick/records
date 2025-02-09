@@ -28,9 +28,10 @@ styles: ["Post Rock", "Experimental", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| A | Lachesis |
+| B1 | Clotho |
+| B2 | Atropos |
+
 
 
 ## Apple Music

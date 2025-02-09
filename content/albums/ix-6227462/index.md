@@ -26,28 +26,29 @@ styles: ["Alternative Rock", "Post-Hardcore"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Doomsday Book |
+| A2 | Jaded Apostles |
+| A3 | A Million Random Digits |
+| A4 | Lie Without A Liar |
+| A5 | The Ghost Within |
+| A6 | The Dragonfly Queen |
+| A7 | How To Avoid Huge Ships |
+| B1 | Bus Lines |
+| B2 | Lost In The Grand Scheme |
+| B3 | Like Summer Tempests Came His Tears |
+| B4 | Sound Of The Silk |
+| CD-1 | The Doomsday Book |
+| CD-2 | Jaded Apostles |
+| CD-3 | A Million Random Digits |
+| CD-4 | Lie Without A Liar |
+| CD-5 | The Ghost Within |
+| CD-6 | The Dragonfly Queen |
+| CD-7 | How To Avoid Huge Ships |
+| CD-8 | Bus Lines |
+| CD-9 | Lost In The Grand Scheme |
+| CD-10 | Like Summer Tempests Came His Tears |
+| CD-11 | Sound Of The Silk |
+
 
 
 ## Apple Music

@@ -35,21 +35,22 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hang On |
+| A2 | The Cabbage |
+| A3 | Radio |
+| A4 | Norman 3 |
+| A5 | Song To The Cynic |
+| A6 | 120 Mins |
+| B1 | Escher |
+| B2 | Commercial Alternative |
+| B3 | Fear Of Flying |
+| B4 | Tears Are Cool |
+| B5 | Ret Liv Dead |
+| B6 | Get Funky |
+| B7 | Gene Clark |
+| C | Country Song |
+| D | Eyes Wide Open |
+
 
 
 ## Apple Music

@@ -37,16 +37,17 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Badlands |
+| A2 | Adam Raised A Cain |
+| A3 | Something In The Night |
+| A4 | Candy's Room |
+| A5 | Racing In The Street |
+| B1 | The Promised Land |
+| B2 | Factory |
+| B3 | Streets Of Fire |
+| B4 | Prove It All Night |
+| B5 | Darkness On The Edge Of Town |
+
 
 
 ## Apple Music

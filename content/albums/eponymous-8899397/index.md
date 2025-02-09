@@ -37,20 +37,21 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Early |
+| A1 | Radio Free Europe (Original Hib-Tone Single) |
+| A2 | Gardening At Night (Different Vocal Mix) |
+| A3 | Talk About The Passion |
+| A4 | So. Central Rain |
+| A5 | (Don't Go Back To) Rockville |
+| A6 | Can't Get There From Here |
+|  | Late |
+| B1 | Driver 8 |
+| B2 | Romance |
+| B3 | Fall On Me |
+| B4 | The One I Love |
+| B5 | Finest Worksong (Mutual Drum Horn Mix) |
+| B6 | It's The End Of The World As We Know It (And I Feel Fine) |
+
 
 
 ## Apple Music

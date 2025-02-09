@@ -40,17 +40,18 @@ Other songs recorded during the Amorica sessions were "Feathers," "Tied Up and S
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gone |
+| A2 | A Conspiracy |
+| A3 | High Head Blues |
+| B4 | Cursed Diamond |
+| B5 | Nonfiction |
+| B6 | She Gave Good Sunflower |
+| C7 | P. 25 London |
+| C8 | Ballad In Urgency |
+| C9 | Wiser Time |
+| D10 | Downtown Money Waster |
+| D11 | Descending |
+
 
 
 ## Apple Music

@@ -31,15 +31,16 @@ styles: ["Classic Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hoedown |
+| A2 | Lucky Man |
+| A3 | Karn Evil 9 (1st Impression, Part 2) |
+| A4 | Jerusalem |
+| A5 | Peter Gunn |
+| B1 | Fanfare For The Common Man |
+| B2 | Still....You Turn Me On |
+| B3 | Tiger In A Spotlight |
+| B4 | Trilogy |
+
 
 
 ## Apple Music

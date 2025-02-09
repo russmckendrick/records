@@ -30,34 +30,35 @@ In this instance – life. This is my midlife crisis album! The whole album is a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | First Day |
+| LP-A2 | Numbers |
+| LP-A3 | Towerblock |
+| LP-A4 | Signs |
+| LP-B1 | Lights Out |
+| LP-B2 | Heartstrings |
+| LP-B3 | Closer To The Sun |
+| LP-C1 | The Raging Against The Dying Of The Light Blues In 7/8 |
+| LP-C2 | Nice Day For It... |
+| LP-C3 | Hypoventilate |
+| LP-C4 | Last Day |
+| LP-D1 | Lantern |
+| LP-D2 | British Wintertime |
+| LP-D3 | Untitled [Instrumental] |
+| CD-1 | First Day |
+| CD-2 | Numbers |
+| CD-3 | Towerblock |
+| CD-4 | Signs |
+| CD-5 | Lights Out |
+| CD-6 | Heartstrings |
+| CD-7 | Closer To The Sun |
+| CD-8 | The Raging Against The Dying Of The Light Blues In 7/8 |
+| CD-9 | Nice Day For It... |
+| CD-10 | Hypoventilate |
+| CD-11 | Last Day |
+| CD-12 | Latern |
+| CD-13 | British Wintertime |
+| CD-14 | Untitled [Instrumental] |
+
 
 
 ## Apple Music

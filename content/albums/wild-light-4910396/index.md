@@ -34,22 +34,23 @@ Wild Light is the fifth studio album by 65daysofstatic, released on 16 September
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heat Death Infinity Splitter  |
+| A2 | Prisms |
+| A3 | The Undertow  |
+| A4 | Blackspots |
+| B1 | Sleepwalk City  |
+| B2 | Taipei  |
+| B3 | Unmake The Wild Light  |
+| B4 | Safe Passage  |
+| CD-1 | Heat Death Infinity Splitter |
+| CD-2 | Prisms |
+| CD-3 | The Undertow |
+| CD-4 | Blackspots |
+| CD-5 | Sleepwalk City |
+| CD-6 | Taipei |
+| CD-7 | Unmake The Wild Light |
+| CD-8 | Safe Passage |
+
 
 
 ## Apple Music

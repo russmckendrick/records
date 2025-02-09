@@ -32,22 +32,20 @@ While some critics derided Fawlty Towers upon release, the series soon received 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | Mrs Richards |
+| A1 | Scene 1 - Reception, Morning |
+| A2 | Scene 2 - Mrs. Richard's Room |
+| A3 | Scene 3 - Reception, That Afternoon |
+| A4 | Scene 4 - Kitchen And Reception Area, Later |
+| A5 | Scene 5 - Reception, The Next Morning |
+| B | Hotel Inspectors |
+| B1 | Scene 1 - Reception, Morning |
+| B2 | Scene 2 - Dining Room At Lunchtime |
+| B3 | Scene 3 - The Office In Reception |
+| B4 | Scene 4 - Dining Room A Few Minutes Later |
+| B5 | Scene 5 - Reception Area That Afternoon |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

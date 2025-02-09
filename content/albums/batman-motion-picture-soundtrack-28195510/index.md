@@ -31,15 +31,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Future |
+| A2 | Electric Chair |
+| A3 | The Arms Of Orion |
+| A4 | Partyman |
+| A5 | Vicki Waiting |
+| B1 | Trust |
+| B2 | Lemon Crush |
+| B3 | Scandalous |
+| B4 | Batdance |
+
 
 
 ## Apple Music

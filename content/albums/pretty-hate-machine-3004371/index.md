@@ -34,16 +34,17 @@ Although the record was successful, reaching No. 75 in the US and receiving high
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Head Like A Hole |
+| A2 | Terrible Lie |
+| A3 | Down In It |
+| A4 | Sanctified |
+| A5 | Something I Can Never Have |
+| B1 | Kinda I Want To |
+| B2 | Sin |
+| B3 | That's What I Get |
+| B4 | The Only Time |
+| B5 | Ringfinger |
+
 
 
 ## Apple Music

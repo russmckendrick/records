@@ -27,16 +27,17 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Price Tag |
+| A2 | Fangless |
+| A3 | Surface Envy |
+| A4 | No Cities To Love |
+| A5 | A New Wave |
+| B1 | No Anthems |
+| B2 | Gimme Love |
+| B3 | Bury Our Friends |
+| B4 | Hey Darling |
+| B5 | Fade |
+
 
 
 ## Apple Music

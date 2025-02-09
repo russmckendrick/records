@@ -43,28 +43,29 @@ The album experienced success in some foreign countries, including Australia, Ne
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Record One: Album Of The Year |
+| A1 | Collision |
+| A2 | Stripsearch |
+| A3 | Last Cup Of Sorrow |
+| A4 | Naked In Front Of The Computer |
+| A5 | Helpless |
+| A6 | Mouth To Mouth |
+| B1 | Ashes To Ashes |
+| B2 | She Loves Me Not |
+| B3 | Got That Feeling |
+| B4 | Paths Of Glory |
+| B5 | Home Sick Home |
+| B6 | Pristina |
+|  | Record Two: Bonus Tracks |
+| C1 | Pristina (Billy Gould Mix) |
+| C2 | Last Cup Of Sorrow (Roli Mosimann Mix) |
+| C3 | She Loves Me Not (Spinna Main Mix) |
+| C4 | Ashes To Ashes (DJ Icey & Maestro Mix) |
+| D1 | Light Up And Let Go |
+| D2 | The Big Kahuna |
+| D3 | This Guy’s In Love With You (Live) |
+| D4 | Collision (Live) |
+
 
 
 ## Apple Music

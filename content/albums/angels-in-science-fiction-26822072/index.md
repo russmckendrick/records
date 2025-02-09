@@ -29,18 +29,19 @@ styles: ["Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chelsea |
+| A2 | City Federal Building |
+| A3 | Magnolia Trees |
+| A4 | Sea Star |
+| A5 | Heat Lightning |
+| A6 | Angels In Science Fiction |
+| B1 | Wolf In Rabbit Clothes |
+| B2 | South Dakota |
+| B3 | Oporto-Madrid Blvd |
+| B4 | Lonely Love Song |
+| B5 | Easter Bunny |
+| B6 | Marigold |
+
 
 
 ## Apple Music

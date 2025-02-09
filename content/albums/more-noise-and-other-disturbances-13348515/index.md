@@ -33,17 +33,18 @@ More Noise and Other Disturbances is the second studio album by the American ban
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Awfully Quiet |
+| A2 | Where'd You Go |
+| A3 | Dr. D |
+| A4 | It Can't Hurt |
+| A5 | What's At Stake |
+| A6 | Cowboy Coffee |
+| B1 | I'll Drink To That |
+| B2 | Guns And The Young |
+| B3 | He's Back |
+| B4 | Bad In Plaid |
+| B5 | They Came To Boston |
+
 
 
 ## Apple Music

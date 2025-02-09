@@ -32,19 +32,20 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Over The Border |
+| A2 | I've Got Your Music |
+| A3 | Heading For The Fair |
+| A4 | Last Days Of Disco |
+| A5 | Tonight |
+| A6 | Answer Song |
+| B1 | Record Doctor |
+| B2 | Popular |
+| B3 | Twenty Five Years |
+| B4 | DJ |
+| B5 | When I Was Seventeen |
+| B6 | I Threw It All Away |
+| B7 | Haunted Jukebox |
+
 
 
 ## Apple Music

@@ -32,18 +32,19 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Faraway Look |
+| A2 | Shady Grove |
+| A3 | Ride Out In The Country |
+| A4 | It Ain't Easier |
+| A5 | Walk Through Fire |
+| A6 | Rock Me Gently |
+| B1 | Love All Night (Work All Day) |
+| B2 | Deep Blue Dream |
+| B3 | Lonely The Night |
+| B4 | Still Gone |
+| B5 | Keep Me Here |
+| B6 | Love Is Light |
+
 
 
 ## Apple Music

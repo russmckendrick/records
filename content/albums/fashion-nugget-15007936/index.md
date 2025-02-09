@@ -40,20 +40,21 @@ On December 9, 1996, the album was certified gold by the RIAA, and the next year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Frank Sinatra |
+| A2 | The Distance |
+| A3 | Friend Is A Four Letter Word |
+| A4 | Open Book |
+| A5 | Daria |
+| A6 | Race Car Ya-Yas |
+| A7 | I Will Survive |
+| B1 | Stickshifts And Safetybelts |
+| B2 | Perhaps, Perhaps, Perhaps |
+| B3 | It's Coming Down |
+| B4 | Nugget |
+| B5 | She'll Come Back To Me |
+| B6 | Italian Leather Sofa |
+| B7 | Sad Songs And Waltzes |
+
 
 
 ## Apple Music

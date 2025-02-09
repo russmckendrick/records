@@ -37,29 +37,30 @@ The album received mixed reviews at first, and was the first Genesis album which
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Lamb Lies Down On Broadway |
+| A2 | Fly On A Windshield |
+| A3 | Broadway Melody Of 1974 |
+| A4 | Cuckoo Cocoon |
+| A5 | In The Cage |
+| A6 | The Grand Parade Of Lifeless Packaging |
+| B1 | Back In N.Y.C. |
+| B2 | Hairless Heart |
+| B3 | Counting Out Time |
+| B4 | Carpet Crawlers |
+| B5 | The Chamber Of 32 Doors |
+| C1 | Lilywhite Lilith |
+| C2 | The Waiting Room |
+| C3 | Anyway |
+| C4 | Here Comes The Supernatural Anaesthetist |
+| C5 | The Lamia |
+| C6 | Silent Sorrow In Empty Boats |
+|  | The Colony Of Slipperman |
+| D2 | Ravine |
+| D3 | The Light Dies Down On Broadway |
+| D4 | Riding The Scree |
+| D5 | In The Rapids |
+| D6 | It |
+
 
 
 ## Apple Music

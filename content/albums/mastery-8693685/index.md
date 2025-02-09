@@ -37,21 +37,19 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blue Horror |
+| A2 | The Cull  |
+| A3 | Dinosaur |
+| B1 | The Coldest Of Shoulders |
+| B2 | Capra |
+| C1 | Newman |
+| C2 | Cross The Swords |
+| C3 | Gold Bruise |
+| D1 | Thunderlips |
+| D2 | Favour The Brave |
+| D3 | Mastery |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

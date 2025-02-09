@@ -37,21 +37,22 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'd Like To Know |
+| A2 | Caught By The Fuzz |
+| A3 | Mansize Rooster |
+| A4 | Alright |
+| A5 | Lose It |
+| A6 | Lenny |
+| B7 | Strange Ones |
+| B8 | Sitting Up Straight |
+| B9 | She's So Loose |
+| B10 | We're Not Supposed To |
+| B11 | Time |
+| B12 | Sofa (Of My Lethargy) |
+| B13 | Time To Go |
+| C | Stone Free |
+| D | Odd |
+
 
 
 ## Apple Music

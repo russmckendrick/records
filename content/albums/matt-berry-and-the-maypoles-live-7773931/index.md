@@ -36,17 +36,18 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Innkeeper's Song |
+| A2 | So Low |
+| A3 | October Sun |
+| A4 | Take My Hand |
+| A5 | Sorry (Theme From) |
+| A6 | Solstice |
+| B1 | Snuff Box |
+| B2 | Song For Rosie |
+| B3 | Medicine |
+| B4 | Devil Inside Me |
+| B5 | The Pheasant |
+
 
 
 ## Apple Music

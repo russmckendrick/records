@@ -40,27 +40,28 @@ The selections were remastered by Jon Astley, and the cover art by Richard Evans
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Zoot Suit |
+| A2 | I Can't Explain |
+| A3 | Anyway, Anyhow, Anywhere |
+| A4 | My Generation |
+| A5 | Substitute |
+| A6 | I'm A Boy |
+| B1 | Happy Jack |
+| B2 | Pictures Of Lily |
+| B3 | I Can See For Miles |
+| B4 | Magic Bus |
+| B5 | Pinball Wizard |
+| C1 | The Seeker |
+| C2 | Won't Get Fooled Again (Single Edit) |
+| C3 | Baba O'Riley |
+| C4 | Bargain |
+| C5 | Join Together |
+| D1 | 5:15 |
+| D2 | Squeeze Box |
+| D3 | Who Are You |
+| D4 | Real Good-Looking Boy |
+| D5 | Be Lucky |
+
 
 
 ## Apple Music

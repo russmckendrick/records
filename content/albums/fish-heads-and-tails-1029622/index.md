@@ -32,20 +32,18 @@ Fish Heads and Tails is a 1989 compilation album from the Scottish group Goodbye
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Amsterdam |
+| A2 | Somewhere In China |
+| A3 | Carton Hill |
+| A4 | Secrets |
+| A5 | Face To Face |
+| B1 | Sick Of You |
+| B2 | Green Turn Red |
+| B3 | Pleasure Search |
+| B4 | Mystery Train |
+| B5 | Knockin' On Joe (Live) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

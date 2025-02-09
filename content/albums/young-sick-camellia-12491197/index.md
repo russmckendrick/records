@@ -34,19 +34,20 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cumulus Pt.1 |
+| A2 | Convex |
+| A3 | GotItBad |
+| A4 | NASA |
+| A5 | Mature Pt.2 |
+| A6 | Apollo |
+| B1 | Mr. Invisible |
+| B2 | Hurricanes |
+| B3 | Dissipating Pt.3 |
+| B4 | LivWithOutU |
+| B5 | Concave |
+| B6 | CaveFlora Pt.1 |
+| B7 | Bruised Fruit |
+
 
 
 ## Apple Music

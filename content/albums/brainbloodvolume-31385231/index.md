@@ -36,17 +36,18 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All I Ask Of Myself Is That I Hold Together |
+| A2 | Floote |
+| A3 | Premonition |
+| A4 | Talk Me Down |
+| A5 | Borehole |
+| B1 | Your Only Joke |
+| B2 | Stuck |
+| B3 | ...To Be Right |
+| B4 | I Want It Over |
+| B5 | Traffic |
+| B6 | Song Eleven Could Take Forever |
+
 
 
 ## Apple Music

@@ -26,19 +26,20 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Side One |
+| A1 | Singled Out For Battery |
+| A2 | The Wretched Fathoms |
+| A3 | Corpses Feuding Underground |
+| A4 | Severed Of Horsehoof |
+| A5 | No More Dying |
+| A6 | An Arrival |
+|  | Side Two |
+| B1 | Unwreckaged |
+| B2 | Pissed Up On Brake Fluid |
+| B3 | The Money Shot |
+| B4 | Torch |
+| B5 | Me To The Future Of You |
+
 
 
 ## Apple Music

@@ -34,12 +34,13 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ice Cream Castles |
+| A2 | My Drawers |
+| A3 | Chilli Sauce |
+| B1 | Jungle Love |
+| B2 | If The Kid Can't Make You Come |
+| B3 | The Bird |
+
 
 
 ## Apple Music

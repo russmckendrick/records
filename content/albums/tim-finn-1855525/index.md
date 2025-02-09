@@ -37,16 +37,17 @@ Along with his brother, Finn was appointed Officer of the Order of British Empir
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Young Mountain |
+| A2 | Not Even Close |
+| A3 | How'm I Gonna Sleep |
+| A4 | Parihaka |
+| A5 | Tears Inside |
+| B1 | Birds Swim Fish Fly |
+| B2 | Suicide On Downing St. |
+| B3 | Show A Little Mercy |
+| B4 | Crescendo |
+| B5 | Been There Done That |
+
 
 
 ## Apple Music

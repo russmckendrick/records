@@ -59,17 +59,18 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heads Gonna Roll |
+| A2 | Wasted Youth |
+| A3 | Red Bull & Hennessy |
+| A4 | Hollywood Lawn |
+| A5 | Do Si Do |
+| B1 | Dogwood |
+| B2 | Party Clown |
+| B3 | Little White Dove |
+| B4 | Taffy |
+| B5 | On The Line |
+| B6 | Rabbit Hole |
+
 
 
 ## Apple Music

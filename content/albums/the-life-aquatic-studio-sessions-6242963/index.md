@@ -34,20 +34,21 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rebel Rebel |
+| A2 | Life On Mars? |
+| A3 | Starman |
+| A4 | Ziggy Stardust |
+| B1 | Lady Stardust |
+| B2 | Changes |
+| B3 | Oh! You Pretty Things |
+| B4 | Rock N' Roll Suicide |
+| C1 | Suffragette City |
+| C2 | Five Years |
+| C3 | Queen Bitch |
+| D1 | When I Live My Dream |
+| D2 | Quicksand |
+| D3 | Team Zissou |
+
 
 
 ## Apple Music

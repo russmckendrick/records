@@ -34,16 +34,17 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Act We Act |
+| A2 | A Good Idea |
+| A3 | Changes |
+| A4 | Helpless |
+| A5 | Hoover Dam |
+| B1 | The Slim |
+| B2 | If I Can't Change Your Mind |
+| B3 | Fortune Teller |
+| B4 | Slick |
+| B5 | Man On The Moon |
+
 
 
 ## Apple Music

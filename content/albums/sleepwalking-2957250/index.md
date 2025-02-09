@@ -29,18 +29,19 @@ Sleepwalking occurs during slow-wave sleep (N3) of non-rapid eye movement sleep 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Playground Brutality |
+| A2 | Armchair Anarchist |
+| A3 | Queen Jane |
+| A4 | Sad To See You Go |
+| A5 | Help Yourself |
+| A6 | Tomorrow's World |
+| B1 | Ten Years Asleep |
+| B2 | Honesty Kills |
+| B3 | Sequinned Thug |
+| B4 | Sleepwalking In The Five O'Clock Shadow |
+| B5 | Stay Free |
+| B6 | Pyromaniacs Anonymous |
+
 
 
 ## Apple Music

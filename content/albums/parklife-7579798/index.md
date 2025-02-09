@@ -37,22 +37,23 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Girls & Boys |
+| A2 | Tracy Jacks |
+| A3 | End Of A Century |
+| B1 | Parklife |
+| B2 | Bank Holiday |
+| B3 | Badhead |
+| B4 | The Debt Collector |
+| B5 | Far Out |
+| C1 | To The End |
+| C2 | London Loves |
+| C3 | Trouble In The Message Centre |
+| C4 | Clover Over Dover |
+| D1 | Magic America |
+| D2 | Jubilee |
+| D3 | This Is A Low |
+| D4 | Lot 105 |
+
 
 
 ## Apple Music

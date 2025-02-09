@@ -32,19 +32,20 @@ The album spawned three singles: "R.A.I.D.", "Psyko Funk" and "Walk the Line".
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | West Side 1 |
+| WS1 | Six Bad Brothers |
+| WS2 | Rated R |
+| WS3 | Don't Mess |
+| WS4 | New Funky Nation |
+| WS5 | Once Upon A Drive By |
+| WS6 | T.R.I.B.E. |
+|  | East Side 2 |
+| ES1 | Walk The Line |
+| ES2 | R.A.I.D. |
+| ES3 | Psyko Funk |
+| ES4 | Riot Pump |
+| ES5 | Pickin' Up Metal |
+
 
 
 ## Apple Music

@@ -40,16 +40,17 @@ The Queen Is Dead spent 22 weeks on the UK Albums Chart, reaching the number two
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Queen Is Dead (Take Me Back To Dear Old Blighty) (Medley) |
+| A2 | Frankly, Mr. Shankly |
+| A3 | I Know It's Over |
+| A4 | Never Had No One Ever |
+| A5 | Cemetry Gates |
+| B1 | Bigmouth Strikes Again |
+| B2 | The Boy With The Thorn In His Side |
+| B3 | Vicar In A Tutu |
+| B4 | There Is A Light That Never Goes Out |
+| B5 | Some Girls Are Bigger Than Others |
+
 
 
 ## Apple Music

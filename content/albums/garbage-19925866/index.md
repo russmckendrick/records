@@ -38,18 +38,19 @@ In October 2015, the album was reissued to mark its 20th anniversary, featuring 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Supervixen |
+| A2 | Queer |
+| A3 | Only Happy When It Rains |
+| B4 | As Heaven Is Wide |
+| B5 | Not My Idea |
+| B6 | A Stroke Of Luck |
+| C7 | Vow |
+| C8 | Stupid Girl |
+| C9 | Dog New Tricks |
+| D10 | My Lover's Box |
+| D11 | Fix Me Now |
+| D12 | Milk |
+
 
 
 ## Apple Music

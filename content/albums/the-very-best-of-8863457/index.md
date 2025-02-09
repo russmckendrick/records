@@ -37,24 +37,25 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sara Smile |
+| A2 | Rich Girl |
+| A3 | It's A Laugh (Single Version) |
+| A4 | Wait For Me |
+| A5 | You've Lost That Lovin' Feeling |
+| B1 | Kiss On My List |
+| B2 | You Make My Dreams |
+| B3 | Private Eyes |
+| B4 | I Can't Go For That (No Can Do) |
+| B5 | Did It In A Minute |
+| C1 | Maneater |
+| C2 | One On One |
+| C3 | Family Man |
+| C4 | Say It Isn't So |
+| D1 | Adult Education (Promotional 12") |
+| D2 | Out Of Touch (Single Version) |
+| D3 | Method Of Modern Love |
+| D4 | Some Things Are Better Left Unsaid |
+
 
 
 ## Apple Music

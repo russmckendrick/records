@@ -62,22 +62,23 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | One |
+| A2 | Where The Streets Have No Name |
+| A3 | Stories For Boys |
+| A4 | Walk On (Ukraine) |
+| B1 | Pride (In The Name Of Love) |
+| B2 | City Of Blinding Lights |
+| B3 | Ordinary Love |
+| B4 | Invisible |
+| C1 | Vertigo |
+| C2 | I Still Haven't Found What I'm Looking For |
+| C3 | The Fly |
+| C4 | If God Will Send His Angels |
+| D1 | Stay (Faraway, So Close) |
+| D2 | Sunday Bloody Sunday |
+| D3 | I Will Follow |
+| D4 | "40" |
+
 
 
 ## Apple Music

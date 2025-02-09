@@ -39,15 +39,16 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pleasure |
+| A2 | Wisdom Of Crowds |
+| A3 | Radio Star |
+| B1 | Frozen North |
+| B2 | The Light |
+| C1 | Stacked Naked |
+| C2 | Pretend |
+| D1 | The Centre Of Gravity |
+| D2 | Flows Through You |
+
 
 
 ## Apple Music

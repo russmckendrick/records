@@ -32,14 +32,15 @@ Octopus is the fourth studio album by British progressive rock band Gentle Giant
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Advent Of Panurge |
+| A2 | Raconteur, Troubadour |
+| A3 | A Cry For Everyone |
+| A4 | Knots |
+| B1 | The Boys In The Band |
+| B2 | Dog's Life |
+| B3 | Think Of Me With Kindness |
+| B4 | River |
+
 
 
 ## Apple Music

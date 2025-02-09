@@ -32,16 +32,17 @@ styles: ["Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Maniac |
+| A2 | Public Confidential |
+| A3 | Who's Dat Looking |
+| A4 | On The Road |
+| A5 | Dangerous |
+| B1 | Long Call Short Talk |
+| B2 | Giving It Up |
+| B3 | A Good Day For Sunshine |
+| B4 | Skank Away |
+| B5 | Civilisation |
+
 
 
 ## Apple Music

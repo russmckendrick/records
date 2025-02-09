@@ -31,18 +31,16 @@ styles: ["Space Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kaleidoscope |
+| A2 | Repeater |
+| A3 | Crystal Ball |
+| A4 | Chase Away |
+| B1 | Spaceman |
+| B2 | Sunriders |
+| B3 | Never and Always |
+| B4 | Close |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

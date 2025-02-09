@@ -30,10 +30,11 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Friends Make The Worst Enemies |
+| A2 | Some Things Are Better Left Unsaid |
+| B1 | Don't You Wait, It Might Never Come |
+| B2 | Friends Make The Worst Enemies (Acoustic) |
+
 
 
 ## Apple Music

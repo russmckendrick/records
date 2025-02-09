@@ -33,18 +33,19 @@ The album was reissued in the United States in 1979, with the song "The Butterfl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All Mod Cons |
+| A2 | To Be Someone (Didn't We Have A Nice Time) |
+| A3 | Mr. Clean |
+| A4 | David Watts |
+| A5 | English Rose |
+| A6 | In The Crowd |
+| B1 | Billy Hunt |
+| B2 | It's Too Bad |
+| B3 | Fly |
+| B4 | The Place I Love |
+| B5 | 'A' Bomb In Wardour Street |
+| B6 | Down In The Tube Station At Midnight |
+
 
 
 ## Apple Music

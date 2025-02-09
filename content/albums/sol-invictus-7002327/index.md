@@ -46,16 +46,17 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sol Invictus |
+| A2 | Superhero |
+| A3 | Sunny Side Up |
+| A4 | Separation Anxiety |
+| A5 | Cone Of Shame |
+| B1 | Rise Of The Fall |
+| B2 | Black Friday |
+| B3 | Motherfucker |
+| B4 | Matador |
+| B5 | From The Dead |
+
 
 
 ## Apple Music

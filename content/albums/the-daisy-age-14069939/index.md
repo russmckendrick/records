@@ -31,30 +31,28 @@ styles: ["Conscious", "Jazzy Hip-Hop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Roller Skating Jam Named "Saturdays" |
+| A2 | Bonita Applebum |
+| A3 | Sunshine Men |
+| A4 | Mistadobalina |
+| A5 | Whats Up Doc? (Can We Rock?) (K-Cut's Fat Trac Remix) |
+| B1 | Doowutchyalike |
+| B2 | Peachfuzz |
+| B3 | Doin' Our Own Dang |
+| B4 | Mama Gave Birth To The Soul Children |
+| B5 | O.P.P |
+| C1 | Where I'm From |
+| C2 | It's A Shame (My Sister) |
+| C3 | K Sera Sera |
+| C4 | All For One |
+| C5 | Case Of The P.T.A |
+| D1 | My Definition Of A Boombastic Jazz Style |
+| D2 | The Choice Is Yours |
+| D3 | Age Ain't Nothin' But A # |
+| D4 | We Run Things (It's Like Dat) |
+| D5 | You're Not Coming Home (Mase's Funkay Recall Mix) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

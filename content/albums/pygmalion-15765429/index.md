@@ -36,15 +36,16 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rutti |
+| A2 | Crazy For You |
+| A3 | Miranda |
+| A4 | Trellisaze |
+| B1 | Cello |
+| B2 | J's Heaven |
+| B3 | Visions Of La |
+| B4 | Blue Skied An' Clear |
+| B5 | All Of Us |
+
 
 
 ## Apple Music

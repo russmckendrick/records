@@ -34,16 +34,17 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pure |
+| A2 | Jigsaw Feeling |
+| A3 | Overground |
+| A4 | Carcass |
+| A5 | Helter Skelter |
+| B1 | Mirage |
+| B2 | Metal Postcard (Mittageissen) |
+| B3 | Nicotine Stain |
+| B4 | Suburban Relapse |
+| B5 | Switch |
+
 
 
 ## Apple Music

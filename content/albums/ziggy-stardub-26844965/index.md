@@ -32,17 +32,18 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Five Years |
+| A2 | Soul Love |
+| A3 | Moonage Daydream |
+| A4 | Starman |
+| A5 | It Ain't Easy |
+| B1 | Lady Stardust |
+| B2 | Star |
+| B3 | Hang On To Yourself |
+| B4 | Ziggy Stardust |
+| B5 | Suffragette City |
+| B6 | Rock 'N' Roll Suicide |
+
 
 
 ## Apple Music

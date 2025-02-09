@@ -43,19 +43,20 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | E Talking |
+| A2 | Any Minute Now |
+| A3 | Please...Don't Be Yourself |
+| B1 | Compute |
+| B2 | Krack |
+| B3 | Slowdance |
+| C1 | A Ballad To Forget |
+| C2 | Accidents And Compliments |
+| C3 | NY Excuse |
+| D1 | Miserable Girl |
+| D2 | YYY/NNN |
+| D3 | The Truth Is So Boring |
+| D4 | Dance 2 Slow |
+
 
 
 ## Apple Music

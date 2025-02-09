@@ -45,36 +45,37 @@ English Settlement was well-received critically and continues to be regarded by 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Runaways |
+| A2 | Ball And Chain |
+| A3 | Senses Working Overtime |
+| A4 | Jason And The Argonauts |
+| B1 | No Thugs In Our House |
+| B2 | Yacht Dance |
+| B3 | All Of A Sudden (It's Too Late) |
+| C1 | Melt The Guns |
+| C2 | Leisure |
+| C3 | It's Nearly Africa |
+| C4 | Knuckle Down |
+| D1 | Fly On The Wall |
+| D2 | Down In The Cockpit |
+| D3 | English Roundabout |
+| D4 | Snowman |
+| CD-1 | Runaways |
+| CD-2 | Ball And Chain |
+| CD-3 | Senses Working Overtime |
+| CD-4 | Jason And The Argonauts |
+| CD-5 | No Thugs In Our House |
+| CD-6 | Yacht Dance |
+| CD-7 | All Of A Sudden (It's Too Late) |
+| CD-8 | Melt The Guns |
+| CD-9 | Leisure |
+| CD-10 | It's Nearly Africa |
+| CD-11 | Knuckle Down |
+| CD-12 | Fly On The Wall |
+| CD-13 | Down In The Cockpit |
+| CD-14 | English Roundabout |
+| CD-15 | Snowman |
+
 
 
 ## Apple Music

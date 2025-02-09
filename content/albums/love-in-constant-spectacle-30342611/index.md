@@ -29,16 +29,17 @@ Love in Constant Spectacle is the twelfth solo studio album by English musician 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Perfect Storm |
+| A2 | Emotional Components |
+| A3 | Love In Constant Spectacle  |
+| A4 | Motif |
+| A5 | The Axis & The Seed |
+| B1 | Is Metal  |
+| B2 | Happiness In Proximity |
+| B3 | Romantic Worlds |
+| B4 | Univers |
+| B5 | Family Of The Sun |
+
 
 
 ## Apple Music

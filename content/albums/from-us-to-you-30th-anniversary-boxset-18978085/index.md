@@ -56,72 +56,70 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Schubert Dip, 1991 |
+| LP-A1 | Children |
+| LP-A2 | Long Summer Days |
+| LP-A3 | When You're Mine |
+| LP-A4 | Travelling Not Running |
+| LP-A5 | I Believe |
+| LP-B1 | Unbelievable |
+| LP-B2 | Girl Of An Age |
+| LP-B3 | Admit It |
+| LP-B4 | Lies |
+| LP-B5 | Longtime |
+| LP-B6 | EMF |
+|  | Stigma, 1992 |
+| LP-C1 | They're Here |
+| LP-C2 | Arizona |
+| LP-C3 | It's You That Leaves Me Dry |
+| LP-C4 | Never Know |
+| LP-C5 | Blue Highs |
+| LP-D1 | Inside |
+| LP-D2 | Getting Through |
+| LP-D3 | She Bleeds |
+| LP-D4 | Dog |
+| LP-D5 | The Light That Burns Twice As Bright |
+|  | Cha Cha Cha - The Vinyl Cut, 1995 |
+| LP-E1 | Perfect Day |
+| LP-E2 | La Plage |
+| LP-E3 | Skin |
+| LP-E4 | Secrets |
+| LP-E5 | Shining |
+| LP-F1 | Bleeding You Dry |
+| LP-F2 | The Day I Was Born |
+| LP-F3 | West Of The Cox |
+| LP-F4 | Ballad O' The Bishop |
+| LP-F5 | Glass Smash Jack |
+|  | Flipsides And Bonafides, 2020 |
+| LP-G1 | Angel |
+| LP-G2 | Kill For You (Lo-Fi Mix) |
+| LP-G3 | Elephant (Boxset Edit) |
+| LP-G4  | Elevator |
+| LP-G5 | Hum Drum |
+| LP-G6 | Hypnotronic |
+| LP-H1 | Starman |
+| LP-H2 | Space |
+| LP-H3 | Trash (Boxset Edit) |
+| LP-H4 | Easy |
+| LP-H5 | This Kid |
+| LP-H6 | Make It Happen (Boxset Edit) |
+|  | Schubert Dip: The Demos, – 1989/1990 |
+| CS-A1 | Unbelievable |
+| CS-A2 | I Believe |
+| CS-A3 | Girl Of An Age |
+| CS-A4 | Travelling Not Running |
+| CS-A5 | Lies |
+| CS-A6 | Children |
+| CS-A7 | Longtime |
+| CS-B1 | Long Summer Days |
+| CS-B2 | You're Not What's Going On |
+| CS-B3 | Count Me In |
+| CS-B4 | Admit It |
+| CS-B5 | EMF |
+| CS-B6 | When You're Mine |
+| CS-B7 | Big Drop |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

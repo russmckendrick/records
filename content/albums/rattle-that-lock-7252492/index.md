@@ -55,16 +55,17 @@ The album received generally positive reviews from critics and was a commercial 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 5 A.M. |
+| A2 | Rattle That Lock |
+| A3 | Faces Of Stone |
+| A4 | A Boat Lies Waiting |
+| A5 | Dancing Right In Front Of Me |
+| B1 | In Any Tongue |
+| B2 | Beauty |
+| B3 | The Girl In The Yellow Dress |
+| B4 | Today |
+| B5 | And Then... |
+
 
 
 ## Apple Music

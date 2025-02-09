@@ -33,18 +33,19 @@ The album was commercially successful and most critics viewed it positively. In 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All Your Love |
+| A2 | Hideaway |
+| A3 | Little Girl |
+| A4 | Another Man |
+| A5 | Double Crossing Time |
+| A6 | What'd I Say |
+| B1 | Key To Love |
+| B2 | Parchman Farm |
+| B3 | Have You Heard |
+| B4 | Ramblin' On My Mind |
+| B5 | Steppin' Out |
+| B6 | It Ain't Right |
+
 
 
 ## Apple Music

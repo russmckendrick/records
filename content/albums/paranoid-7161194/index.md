@@ -41,22 +41,23 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | War Pigs |
+| A2 | Paranoid |
+| A3 | Planet Caravan |
+| A4 | Iron Man |
+| B1 | Electric Funeral |
+| B2 | Hand Of Doom |
+| B3 | Rat Salad |
+| B4 | Fairies Wear Boots |
+| CD-1 | War Pigs |
+| CD-2 | Paranoid |
+| CD-3 | Planet Caravan |
+| CD-4 | Iron Man |
+| CD-5 | Electric Funeral |
+| CD-6 | Hand Of Doom |
+| CD-7 | Rat Salad |
+| CD-8 | Fairies Wear Boots |
+
 
 
 ## Apple Music

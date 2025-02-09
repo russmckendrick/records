@@ -35,14 +35,15 @@ Tom Tom Club is an American new wave band founded in 1981 by husband-and-wife te
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wordy Rappinghood |
+| A2 | Genius Of Love |
+| A3 | Tom Tom Theme |
+| A4 | L'Éléphant |
+| B1 | As Above, So Below |
+| B2 | Lorelei |
+| B3 | On, On, On, On... |
+| B4 | Booming And Zooming |
+
 
 
 ## Apple Music

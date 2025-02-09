@@ -33,16 +33,17 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Living In A Box |
+| A2 | Love Is The Art |
+| A3 | So The Story Goes |
+| A4 | From Beginning To The End |
+| A5 | Generate The Wave |
+| B1 | Scales Of Justice |
+| B2 | Going For The Big One |
+| B3 | Human Story |
+| B4 | Can't Stop The Wheel |
+| B5 | Living In A Box (Reprise: Full 12" Version) |
+
 
 
 ## Apple Music

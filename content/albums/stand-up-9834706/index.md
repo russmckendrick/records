@@ -63,16 +63,17 @@ The album was released 25 July, and was No. 1 on the UK albums chart the followi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A New Day Yesterday |
+| A2 | Jeffrey Goes To Leicester Square |
+| A3 | Bourée |
+| A4 | Back To The Family |
+| A5 | Look Into The Sun |
+| B1 | Nothing Is Easy |
+| B2 | Fat Man |
+| B3 | We Used To Know |
+| B4 | Reasons For Waiting |
+| B5 | For A Thousand Mothers |
+
 
 
 ## Apple Music

@@ -33,18 +33,19 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Long Lonely Road |
+| A2 | Love You Once Made |
+| A3 | Shakedown |
+| A4 | If And |
+| A5 | Man Done Wrong |
+| A6 | The Front Door |
+| B1 | Astral Plane |
+| B2 | Just In Time |
+| B3 | With You |
+| B4 | Slip Slide On By |
+| B5 | Two Hearts |
+| B6 | Got Soul |
+
 
 
 ## Apple Music

@@ -30,18 +30,19 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Privilege |
+| A2 | Fluorescent Light |
+| A3 | Losing To You |
+| B1 | Hope Avenue |
+| B2 | Alone |
+| B3 | We Called It Love |
+| C1 | Real Thing |
+| C2 | The Gift Of Love |
+| C3 | On The Hills |
+| D1 | The Maze |
+| D2 | California, I Love That Name |
+| D3 | Wanderers |
+
 
 
 ## Apple Music

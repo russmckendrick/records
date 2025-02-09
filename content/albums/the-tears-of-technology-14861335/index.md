@@ -33,27 +33,28 @@ styles: ["New Wave", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Jean Walks In Fresh Fields |
+| A2 | Grey Skies |
+| A3 | Real To Real |
+| A4 | Tidal Flow |
+| A5 | An Evening In The Ray |
+| A6 | The Winds |
+| B1 | Youth |
+| B2 | Europe After The Rain |
+| B3 | Personal Loss |
+| B4 | Lights Of April |
+| B5 | Sealand |
+| C1 | Private Plane |
+| C2 | Direct Lines |
+| C3 | Unless |
+| C4 | October (Love Song) |
+| C5 | A Map Of You |
+| D1 | WXJL Tonight |
+| D2 | Christiana |
+| D3 | Tiny Children |
+| D4 | Behind The Shades |
+| D5 | Feather Bed |
+
 
 
 ## Apple Music

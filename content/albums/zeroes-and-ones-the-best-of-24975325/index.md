@@ -28,33 +28,34 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Right Here, Right Now |
+| A2 | The Devil You Know |
+| A3 | All The Answers |
+| A4 | Caricature |
+| A5 | The Next Big Thing |
+| A6 | Trust Me |
+| A7 | Chemistry |
+| B1 | Info Freako |
+| B2 | International Bright Young Thing |
+| B3 | Get A Good Thing |
+| B4 | Who? Where? Why? |
+| B5 | Never Enough |
+| B6 | Culture Vulture |
+| B7 | Idiot Stare |
+| C1 | Real, Real, Real |
+| C2 | The Right Decision |
+| C3 | Move Mountains |
+| C4 | Suck It Up |
+| C5 | Blissed |
+| C6 | Motion |
+| D1 | Zeroes & Ones |
+| D2 | Bring It On Down |
+| D3 | Where Are All The Dreams |
+| D4 | Chemical #1 |
+| D5 | Song 13 |
+| D6 | Welcome Back Victoria |
+| D7 | Run On Empty |
+
 
 
 ## Apple Music

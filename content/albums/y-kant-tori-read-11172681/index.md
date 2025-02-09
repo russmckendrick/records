@@ -38,18 +38,19 @@ A music video for their song "The Big Picture" was made, but the only member of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Left Side |
+| A1 | The Big Picture |
+| A2 | Cool On Your Island |
+| A3 | Fayth |
+| A4 | Fire On The Side |
+| A5 | Pirates |
+|  | Right Side |
+| B1 | Floating City |
+| B2 | Heart Attack At 23 |
+| B3 | On The Boundary |
+| B4 | You Go To My Head |
+|  | Etienne Trilogy |
+
 
 
 ## Apple Music

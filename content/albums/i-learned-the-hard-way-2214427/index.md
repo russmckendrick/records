@@ -36,18 +36,19 @@ I Learned the Hard Way is the fourth studio album by American soul and funk band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Game Gets Old |
+| A2 | I Learned The Hard Way |
+| A3 | Better Things |
+| A4 | Give It Back |
+| A5 | Money |
+| A6 | The Reason |
+| B1 | Window Shopping |
+| B2 | She Ain't A Child No More |
+| B3 | I'll Still Be True |
+| B4 | Without A Heart |
+| B5 | If You Call |
+| B6 | Mama Don't Like My Man |
+
 
 
 ## Apple Music

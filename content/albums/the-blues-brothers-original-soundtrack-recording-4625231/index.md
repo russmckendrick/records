@@ -29,17 +29,18 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Caught The Katy |
+| A2 | Peter Gunn Theme |
+| A3 | Gimme Some Lovin' |
+| A4 | Shake Your Tailfeather |
+| A5 | Everybody Needs Somebody To Love |
+| A6 | The Old Landmark |
+| B1 | Think |
+| B2 | Theme From Rawhide |
+| B3 | Minnie The Moocher |
+| B4 | Sweet Home Chicago |
+| B5 | Jailhouse Rock |
+
 
 
 ## Apple Music

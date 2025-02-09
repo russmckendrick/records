@@ -50,18 +50,19 @@ He would get there in the end and the crowning achievement of his career would b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ladies And Gentlemen We Are Floating In Space |
+| A2 | Come Together |
+| A3 | I Think I'm In Love |
+| B1 | All Of My Thoughts |
+| B2 | Stay With Me |
+| B3 | Electricity |
+| B4 | Home Of The Brave |
+| C1 | The Individual |
+| C2 | Broken Heart |
+| C3 | No God Only Religion |
+| C4 | Cool Waves |
+| D1 | Cop Shoot Cop… |
+
 
 
 ## Apple Music

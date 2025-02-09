@@ -35,12 +35,13 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Good Bait |
+| A2 | I Want To Talk About You |
+| B1 | You Say You Care |
+| B2 | Theme For Ernie |
+| B3 | Russian Lullaby |
+| B4 | Soft Lights And Sweet Music |
+
 
 
 ## Apple Music

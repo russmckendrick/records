@@ -40,18 +40,19 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Enter Sandman |
+| A2 | Sad But True |
+| A3 | Holier Than Thou |
+| B1 | The Unforgiven |
+| B2 | Wherever I May Roam |
+| B3 | Don't Tread On Me |
+| C1 | Through The Never |
+| C2 | Nothing Else Matters |
+| C3 | Of Wolf And Man |
+| D1 | The God That Failed |
+| D2 | My Friend Of Misery |
+| D3 | The Struggle Within |
+
 
 
 ## Apple Music

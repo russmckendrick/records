@@ -34,24 +34,22 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Side Clarence |
+| A1 | You're So Cool |
+| A2 | Graceland |
+| A3 | In Dreams |
+| A4 | Wounded Bird |
+| A5 | I Want Your Body |
+| A6 | Stars At Dawn |
+|  | Side Alabama |
+| B1 | I Need A Heart To Come Home To |
+| B2 | Viens Mallika Sous Le Dome Edais |
+| B3 | (Love Is) The Tender Trap |
+| B4 | Outshined |
+| B5 | Amid The Chaos Of Day |
+| B6 | Two Hearts |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

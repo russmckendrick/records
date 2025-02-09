@@ -42,20 +42,21 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She's So Fine |
+| A2 | Dirty Love |
+| A3 | Don't Wait For Me |
+| A4 | Higher Ground |
+| B1 | Until My Dying Day |
+| B2 | Back Street Symphony |
+| B3 | Love Walked In |
+| B4 | An Englishman On Holiday |
+| C1 | Girl's Going Out Of Her Head |
+| C2 | Gimme Some Lovin' |
+| C3 | Distant Thunder |
+| D1 | She's So Fine (Live At Marquee London, 2002) |
+| D2 | Until My Dying Day (Live At Marquee London, 2002) |
+| D3 | Gimme Some Lovin' (Live At Nottingham Rock City, 2008) |
+
 
 
 ## Apple Music

@@ -41,22 +41,23 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Methods Of Dance |
+| A2 | Swing |
+| A3 | Gentlemen Take Polaroids |
+| A4 | Quiet Life |
+| B1 | A Foreign Place |
+| B2 | Nightporter |
+| B3 | My New Career |
+| B4 | The Other Side Of Life |
+| C1 | Visions Of China |
+| C2 | Taking Islands In Africa |
+| C3 | Ghosts |
+| C4 | Sons Of Pioneers |
+| D1 | Voices Raised In Welcome, Hands Held In Prayer |
+| D2 | Life Without Buildings |
+| D3 | Talking Drum |
+| D4 | The Art Of Parties |
+
 
 
 ## Apple Music

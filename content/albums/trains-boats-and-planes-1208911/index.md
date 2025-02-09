@@ -32,17 +32,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | This Is Not A Song |
+| A2 | Walter's Trip |
+| A3 | Trainspotters |
+| A4 | After All |
+| A5 | Happy Busman |
+| B1 | Fashion Crisis Hits New York |
+| B2 | Daisy Chain |
+| B3 | John And Sue |
+| B4 | Bake Us A Song |
+| B5 | Time |
+| B6 | High Is Low |
+
 
 
 ## Apple Music

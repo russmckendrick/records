@@ -33,17 +33,18 @@ The difference between Charles Bradley and a so-called soul revivalist is that, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | God Bless America |
+| A2 | Good To Be Back Home |
+| A3 | Nobody But You |
+| A4 | Ain't Gonna Give Up |
+| A5 | Changes |
+| A6 | Ain't It A Sin |
+| B1 | Things We Do For Love |
+| B2 | Crazy For Your Love |
+| B3 | You Think I Don't Know (But I Know) |
+| B4 | Change For The World |
+| B5 | Slow Love |
+
 
 
 ## Apple Music

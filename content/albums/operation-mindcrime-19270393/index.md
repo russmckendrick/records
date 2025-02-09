@@ -41,21 +41,22 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Remember Now |
+| A2 | Anarchy-X |
+| A3 | Revolution Calling |
+| A4 | Operation: Mindcrime |
+| A5 | Speak |
+| B1 | Spreading The Disease |
+| B2 | The Mission |
+| B3 | Suite Sister Mary |
+| C1 | The Needle Lies |
+| C2 | Electric Requiem |
+| C3 | Breaking The Silence |
+| D1 | I Don't Believe In Love |
+| D2 | Waiting For 22 |
+| D3 | My Empty Room |
+| D4 | Eyes Of A Stranger |
+
 
 
 ## Apple Music

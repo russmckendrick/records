@@ -36,36 +36,37 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Overture |
+| A2 | The Grid |
+| A3 | The Son Of Flynn |
+| A4 | Recognizer |
+| A5 | Armory |
+| A6 | Arena |
+| A7 | Rinzler |
+| A8 | The Game Has Changed |
+| A9 | Outlands |
+| B1 | Adagio For TRON |
+| B2 | Nocturne |
+| B3 | End Of Line |
+| B4 | Derezzed |
+| B5 | Fall |
+| B6 | Solar Sailer |
+| B7 | Rectifier |
+| B8 | Disc Wars |
+| C1 | C.L.U. |
+| C2 | Arrival |
+| C3 | Flynn Lives |
+| C4 | TRON Legacy (End Titles) |
+| C5 | Finale |
+|  | Bonus Content |
+| D1 | Sea Of Simulation |
+| D2 | Encom Part 2 |
+| D3 | Encom Part 1 |
+| D4 | Round One |
+| D5 | Castor |
+| D6 | Reflections |
+| D7 | Sunrise Prelude |
+
 
 
 ## Apple Music

@@ -33,17 +33,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kent |
+| A2 | The King Of Love |
+| A3 | Heaven Can Wait |
+| A4 | Mistress |
+| A5 | Diminished Clothes |
+| B1 | Clear My Name |
+| B2 | Come Back Tomorrow |
+| B3 | On A Leash |
+| B4 | What Do You Say About That? |
+| B5 | Planet In The Ocean |
+| B6 | Problématique |
+
 
 
 ## Apple Music

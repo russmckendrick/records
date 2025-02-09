@@ -28,12 +28,13 @@ styles: ["Art Rock", "Post Rock", "Avantgarde"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | For Stars Of The Air |
+| A2 | Nerve Time |
+| A3 | Positive Halfway |
+| B1 | Last Resort Of The Gambling Man |
+| B2 | Versatile Switch |
+| B3 | New Auspicious |
+
 
 
 ## Apple Music

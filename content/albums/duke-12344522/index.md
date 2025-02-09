@@ -35,18 +35,19 @@ Duke was positively received by music critics, who praised the album for bridgin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Behind The Lines |
+| A2 | Duchess |
+| A3 | Guide Vocal |
+| A4 | Man Of Our Times |
+| A5 | Misunderstanding |
+| A6 | Heathaze |
+| B1 | Turn It On Again |
+| B2 | Alone Tonight |
+| B3 | Cul-De-Sac |
+| B4 | Please Don't Ask |
+| B5 | Duke's Travels |
+| B6 | Duke's End |
+
 
 
 ## Apple Music

@@ -40,11 +40,12 @@ Pink Floyd released no singles from Animals but promoted it through the In the F
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pigs On The Wing (Part One) |
+| A2 | Dogs |
+| B1 | Pigs (Three Different Ones) |
+| B2 | Sheep |
+| B3 | Pigs On The Wing (Part Two) |
+
 
 
 ## Apple Music

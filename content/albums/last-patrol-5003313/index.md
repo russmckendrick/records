@@ -38,17 +38,18 @@ Last Patrol is the ninth studio album by American rock band Monster Magnet, rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Live Behind The Clouds |
+| A2 | Last Patrol |
+| B1 | Three Kingfishers |
+| B2 | Paradise |
+| B3 | Hallelujah |
+| C1 | Mindless Ones |
+| C2 | The Duke Of Supernature |
+| C3 | End Of Time |
+| D1 | Stay Tuned |
+| D2 | Strobe Light Beatdown |
+| D3 | One Dead Moon |
+
 
 
 ## Apple Music

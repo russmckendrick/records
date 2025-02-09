@@ -33,16 +33,17 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Coming Home |
+| A2 | Better Man |
+| A3 | Brown Skin Girl |
+| A4 | Smooth Sailin' |
+| A5 | Shine |
+| B1 | Lisa Sawyer |
+| B2 | Flowers |
+| B3 | Pull Away |
+| B4 | Twistin' & Groovin' |
+| B5 | River |
+
 
 
 ## Apple Music

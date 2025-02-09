@@ -55,15 +55,16 @@ The aptly-titled “Live Wire” served as the band’s set opener for many year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It's A Long Way To The Top (If You Wanna Rock 'N' Roll) |
+| A2 | Rock 'N' Roll Singer |
+| A3 | The Jack |
+| A4 | Live Wire |
+| B1 | T.N.T. |
+| B2 | Can I Sit Next To You Girl |
+| B3 | Little Lover |
+| B4 | She's Got Balls |
+| B5 | High Voltage |
+
 
 
 ## Apple Music

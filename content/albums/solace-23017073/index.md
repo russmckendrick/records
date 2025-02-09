@@ -34,14 +34,15 @@ styles: ["Post Rock", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Next To Silence |
+| A2 | In The Trees |
+| A3 | Rain After Sun |
+| A4 | Wave Upon Wave |
+| B5 | An Approach |
+| B6 | The Tree Of Life |
+| B7 | Mysterium |
+| B8 | The New Earth |
+
 
 
 ## Apple Music

@@ -41,18 +41,19 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lay Your Hands On Me |
+| A2 | Bad Medicine |
+| B1 | Born To Be My Baby |
+| B2 | Living In Sin |
+| B3 | Blood On Blood |
+| C1 | Homebound Train |
+| C2 | Wild Is The Wind |
+| C3 | Ride Cowboy Ride |
+| C4 | Stick To Your Guns |
+| D1 | I'll Be There For You |
+| D2 | 99 In The Shade |
+| D3 | Love For Sale |
+
 
 
 ## Apple Music

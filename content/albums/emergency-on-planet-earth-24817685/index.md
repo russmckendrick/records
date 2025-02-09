@@ -44,16 +44,17 @@ Critical reviews of the album were generally positive and noted its 1970s stylin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | When You Gonna Learn |
+| A2 | Too Young To Die |
+| B1 | Hooked Up |
+| B2 | If I Like It, I Do It |
+| B3 | Music Of The Mind |
+| C1 | Emergency On Planet Earth |
+| C2 | Whatever It Is, I Just Can't Stop |
+| C3 | Blow Your Mind |
+| D1 | Revolution 1993 |
+| D2 | Didgin' Out |
+
 
 
 ## Apple Music

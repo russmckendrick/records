@@ -38,19 +38,20 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Moving |
+| A2 | The Saxophone Song |
+| A3 | Strange Phenomena |
+| A4 | Kite |
+| A5 | The Man With The Child In His Eyes |
+| A6 | Wuthering Heights |
+| B1 | James And The Cold Gun |
+| B2 | Feel It |
+| B3 | Oh To Be In Love |
+| B4 | L'Amour Looks Something Like You |
+| B5 | Them Heavy People |
+| B6 | Room For The Life |
+| B7 | The Kick Inside |
+
 
 
 ## Apple Music

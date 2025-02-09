@@ -37,31 +37,32 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Opening Announcements From Hugh Cherry |
+| A2 | Blue Suede Shoes |
+| A3 | This Ole House |
+| A4 | Announcements And Johnny Cash Intro From Hugh Cherry |
+| A5 | Folsom Prison Blues |
+| A6 | Busted |
+| A7 | Dark As A Dungeon |
+| A8 | I Still Miss Someone |
+| B1 | Cocaine Blues |
+| B2 | 25 Minutes To Go |
+| B3 | I'm Here To Get My Baby Out Of Jail |
+| B4 | Orange Blossom Special |
+| B5 | The Long Black Veil |
+| C1 | Send A Picture Of Mother |
+| C2 | The Wall |
+| C3 | Dirty Old Egg-Sucking Dog |
+| C4 | Flushed From The Bathroom Of Your Heart |
+| C5 | Joe Bean |
+| C6 | Jackson |
+| C7 | I Got A Woman |
+| D1 | The Legend Of John Henry's Hammer |
+| D2 | June's Poem |
+| D3 | Green, Green Grass Of Home |
+| D4 | Greystone Chapel |
+| D5 | Closing Announcements |
+
 
 
 ## Apple Music

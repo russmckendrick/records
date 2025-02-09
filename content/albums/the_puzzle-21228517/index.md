@@ -35,26 +35,27 @@ The Puzzle and Snuggles are the nineteenth and the twentieth studio albums by Ca
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chromatic Ridge |
+| A2 | Life Is But A Dream |
+| A3 | Yucky Lung |
+| A4 | Kittenhead |
+| A5 | Shark In The Ice |
+| A6 | Devil In The Details |
+| A7 | Hammerhead Sugarplum |
+| B1 | Me And The Moon |
+| B2 | Anxiety In Pyjamas |
+| B3 | The Yugas |
+| B4 | Albert Hall |
+| C1 | Starchasm |
+| C2 | Perfect Owl |
+| C3 | Maybe Over The Void |
+| C4 | Light Year Whale |
+| C5 | FrogFlowers |
+| D1 | Mother |
+| D2 | Southern Sky Geometry |
+| D3 | The Puzzle |
+| D4 | Monuments Of Glitch |
+
 
 
 ## Apple Music

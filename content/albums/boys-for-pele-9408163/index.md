@@ -41,24 +41,25 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Beauty Queen / Horses |
+| A2 | Blood Roses |
+| A3 | Father Lucifer |
+| A4 | Professional Widow |
+| B1 | Mr. Zebra |
+| B2 | Marianne |
+| B3 | Caught A Lite Sneeze |
+| B4 | Muhammad My Friend |
+| B5 | Hey Jupiter |
+| C1 | Way Down |
+| C2 | Little Amsterdam |
+| C3 | Talula |
+| C4 | Not The Red Baron |
+| D1 | Agent Orange |
+| D2 | Doughnut Song |
+| D3 | In The Springtime Of His Voodoo |
+| D4 | Putting The Damage On |
+| D5 | Twinkle |
+
 
 
 ## Apple Music

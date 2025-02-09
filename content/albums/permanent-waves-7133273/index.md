@@ -40,12 +40,13 @@ Permanent Waves received a mostly positive reception from critics and became the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Spirit Of Radio |
+| A2 | Freewill |
+| A3 | Jacob's Ladder |
+| B1 | Entre Nous |
+| B2 | Different Strings |
+|  | Natural Science |
+
 
 
 ## Apple Music

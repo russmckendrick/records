@@ -34,14 +34,15 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1a | Overture (Instrumental) |
+| A1b | Communion With The Sun |
+| A2 | Magic Dragon Theatre |
+| A3 | Jealousy |
+| A4 | Eternal Love |
+| A5 | Sunburst Finish |
+| B1 | Hiroshima |
+| B2 | Singring And The Glass Guitar (An Electrified Fairytale) |
+
 
 
 ## Apple Music

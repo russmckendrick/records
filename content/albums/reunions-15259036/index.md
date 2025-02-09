@@ -59,16 +59,17 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | What've I Done To Help |
+| A2 | Dreamsicle |
+| A3 | Only Children |
+| A4 | Overseas |
+| B1 | Running With Our Eyes Closed |
+| B2 | River |
+| B3 | Be Afraid |
+| B4 | St. Peter's Autograph |
+| B5 | It Gets Easier |
+| B6 | Letting You Go |
+
 
 
 ## Apple Music

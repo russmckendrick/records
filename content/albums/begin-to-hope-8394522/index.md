@@ -41,28 +41,29 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fidelity |
+| A2 | Better |
+| A3 | Samson |
+| A4 | On The Radio |
+| A5 | Field Below |
+| A6 | Hotel Song |
+| B1 | Après Moi |
+| B2 | 20 Years of Snow |
+| B3 | That Time |
+| B4 | Edit |
+| B5 | Lady |
+| B6 | Summer In The City |
+| C1 | Another Town |
+| C2 | Uh-Merica |
+| C3 | Baobabs |
+| C4 | Düsseldorf  |
+| C5 | Music Box |
+| D1 | Better (Piano And Voice) |
+| D2 | Hero |
+| D3 | Bartender |
+| D4 | Baby Jesus |
+| D5 | Better (Radio Recut) |
+
 
 
 ## Apple Music

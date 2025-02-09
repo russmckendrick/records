@@ -31,16 +31,17 @@ styles: ["Pop Rock", "Goth Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Wheel |
+| A2 | Rainmaker |
+| A3 | Prisoner Of Love |
+| A4 | Playground Of The Rich |
+| A5 | Young Men |
+| B1 | Up All Night |
+| B2 | Come Back |
+| B3 | All My Love (Ask Nothing) |
+| B4 | Mickey |
+| B5 | Liberator |
+
 
 
 ## Apple Music

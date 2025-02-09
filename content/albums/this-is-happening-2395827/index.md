@@ -52,15 +52,16 @@ Hits or not, LCD Soundsystem was now big enough to be billed just below Jay-Z fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dance Yrself Clean |
+| A2 | Drunk Girls |
+| B1 | One Touch |
+| B2 | All I Want |
+| B3 | I Can Change |
+| C1 | You Wanted A Hit |
+| C2 | Pow Pow |
+| D1 | Somebody's Calling Me |
+| D2 | Home |
+
 
 
 ## Apple Music

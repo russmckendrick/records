@@ -41,49 +41,47 @@ styles: ["Contemporary", "Ambient", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP1-A1 | The Unanswered Question |
+| LP1-A2 | BWV 659 Arr. Busoni Nun Komm Den Heiden Heiland |
+| LP1-A3 | Partita III. Courante |
+| LP1-A4 | 3 Pieces For Cello And Piano: No. 1. Modere |
+| LP1-B1 | Ether |
+| LP1-B2 | Arcadiana, Op.12 (1994): VI. O Albion |
+| LP1-B3 | Hoquetus David  |
+| LP1-B4 | Zoetrope |
+| LP1-B5 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  |
+| LP2-C1 | Qui Habitat (Psalm 90) |
+| LP2-C2 | Of Late |
+| LP2-C3 | Bobbing Beams of Light |
+| LP2-C4 | Dixit Dominus, HWV 232: IX. Die Torrente In Via Bibet  |
+| LP2-C5 | Mercy |
+| LP2-D1 | Rejoice O Virgin  |
+| LP2-D2 | Last Things Last  |
+| LP2-D3 | Canticles Of The Sky: Sky With Four Suns |
+| LP2-D4 | Wasserklavier  |
+| LP2-D5 | Satyagraha: Evening Song  |
+| LP2-D6 | Deep Six Textbook  |
+| LP3-E1 | Fantasia 7 |
+| LP3-E2 | Preludes, Opus 11: XXI Andante - In B Flat Major |
+| LP3-E3 | What Part of Me |
+| LP3-E4 | Tenebrae II |
+| LP3-E5 | DISKPREPT1 |
+| LP3-E6 | Immortal Bach  |
+| LP3-F1 | Rockets Fall On Rocket Falls  |
+| 7"-A | The Young Mariner |
+| 7"-B | Whale Window Hotel / Farewell Threshold Laudanum |
+| CD-1 | Ether |
+| CD-2 | Zoetrope |
+| CD-3 | Starry Sky Cycle (1980-87): Ursa Minor [Peace]  |
+| CD-4 | Bobbing Beams Of Light |
+| CD-5 | Mercy |
+| CD-6 | Deep Six Textbook |
+| CD-7 | What Part Of Me |
+| CD-8 | Tenebrae II |
+| CD-9 | Diskprept1 |
+| CD-10 | Rockets Fall On Rocket Falls  |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

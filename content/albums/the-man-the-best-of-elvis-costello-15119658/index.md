@@ -30,28 +30,26 @@ styles: ["New Wave", "Rock & Roll"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Watching The Detectives |
+| A2 | Oliver's Army |
+| A3 | Alison |
+| A4 | Accidents Will Happen |
+| A5 | Pump It Up |
+| A6 | High Fidelity |
+| A7 | Pills And Soap |
+| A8 | (I Don't Want To Go To) Chelsea |
+| A9 | New Lace Sleeves |
+| B1 | Good Year For The Roses |
+| B2 | I Can't Stand Up (For Falling Down) |
+| B3 | Clubland |
+| B4 | Beyond Belief |
+| B5 | New Amsterdam |
+| B6 | Green Shirt |
+| B7 | Everyday I Write The Book |
+| B8 | I Wanna Be Loved |
+| B9 | Shipbuilding |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

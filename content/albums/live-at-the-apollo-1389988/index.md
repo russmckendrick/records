@@ -35,15 +35,16 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Side 1 |
+|  | Apollo Medley |
+| A2 | When Something Is Wrong With My Baby |
+| A3 | Everytime You Go Away |
+|  | Side A |
+| B1 | I Can't Go For That (No Can Do) |
+| B2 | One On One |
+| B3 | Possession Obsession |
+| B4 | Adult Education |
+
 
 
 ## Apple Music

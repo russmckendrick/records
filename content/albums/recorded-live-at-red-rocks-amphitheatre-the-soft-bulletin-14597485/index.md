@@ -26,22 +26,20 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Race For The Prize |
+| A2 | A Spoonful Weighs A Ton |
+| A3 | The Spark That Bled |
+| B1 | The Spiderbite Song |
+| B2 | Buggin' |
+| C1 | What Is The Light? |
+| C2 | The Observer |
+| C3 | Waitin' For A Superman |
+| C4 | Suddenly Everything Has Changed |
+| D1 | The Gash |
+| D2 | Feeling Yourself Disintegrate |
+| D3 | Sleeping On The Roof |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

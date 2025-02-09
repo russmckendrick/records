@@ -37,16 +37,17 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Cutter |
+| A2 | Back Of Love |
+| A3 | My White Devil |
+| A4 | Clay |
+| A5 | Porcupine |
+| B1 | Heads Will Roll |
+| B2 | Ripeness |
+| B3 | Higher Hell |
+| B4 | Gods Will Be Gods |
+| B5 | In Bluer Skies |
+
 
 
 ## Apple Music

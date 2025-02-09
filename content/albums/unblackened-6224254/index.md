@@ -41,29 +41,30 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Losin' Your Mind |
+| A2 | The Blessed Hellride |
+| A3 | Sold My Soul |
+| A4 | Road Back Home |
+| B1 | Spoke In The Wheel |
+| B2 | House Of Doom |
+| B3 | Queen Of Sorrow |
+| B4 | Machine Gun Man |
+| B5 | Sweet Jesus |
+| C1 | In This River |
+| C2 | Throwin' It All Away |
+| C3 | Takillya (Estyabon) |
+| D1 | Won't Find It Here |
+| D2 | Rust |
+| D3 | Speedball |
+| D4 | I Thank You Child |
+| E1 | Stillborn |
+| E2 | Ain't No Sunshine When She's Gone |
+| E3 | Lovin' Woman |
+| E4 | Queen Of Sorrow (Unplugged) |
+| F1 | Song For You |
+| F2 | Won't Find It Here (Unplugged) |
+| F3 | Yesterday, Today, Tomorrow |
+
 
 
 ## Apple Music

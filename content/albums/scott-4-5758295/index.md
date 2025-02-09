@@ -35,16 +35,17 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Seventh Seal |
+| A2 | On Your Own Again |
+| A3 | The World's Strongest Man |
+| A4 | Angels Of Ashes |
+| A5 | Boy Child |
+| B1 | Hero Of The War |
+| B2 | The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime) |
+| B3 | Duchess |
+| B4 | Get Behind Me |
+| B5 | Rhymes Of Goodbye |
+
 
 
 ## Apple Music

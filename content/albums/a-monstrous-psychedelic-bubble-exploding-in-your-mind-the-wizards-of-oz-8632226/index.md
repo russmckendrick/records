@@ -27,26 +27,24 @@ styles: ["Psychedelic Rock", "Folk Rock", "Experimental", "Krautrock", "Abstract
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It Is Not Meant To Be |
+| A2 | Gods of Norse |
+| A3 | House Of The Sun |
+| A4 | The Real Thing |
+| B1 | Salem Abdullah |
+| B2 | Midnight Sun |
+| B3 | Moulding Of Red Earth |
+| B4 | This Early Broadminded's Emptiness |
+| C1 | Mercy Killing |
+| C2 | Entrance To Warraambool (Part 2) |
+| C3 | The Sea |
+| C4 | Waves of Aquarius |
+| D1 | Raga In Asia Minor |
+| D2 | Walking |
+| D3 | Flight Of Yaraan |
+| D4 | Eyes Of The Witness |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

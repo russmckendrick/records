@@ -26,26 +26,27 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Two Five Five |
+| A2 | Doubt |
+| A3 | Infatuate |
+| A4 | Rebirthmark |
+| A5 | Duke Fame |
+| B1 | Don't Forget The Joker |
+| B2 | Retaliate |
+| B3 | A Weight In The Hollow |
+| B4 | Operate |
+| B5 | Amends |
+| CD-1 | Two Five Five |
+| CD-2 | Doubt |
+| CD-3 | Infatuate |
+| CD-4 | Rebirthmark |
+| CD-5 | Duke Fame |
+| CD-6 | Don't Forget The Joker |
+| CD-7 | Retaliate |
+| CD-8 | A Weight In The Hollow |
+| CD-9 | Operate |
+| CD-10 | Amends |
+
 
 
 ## Apple Music

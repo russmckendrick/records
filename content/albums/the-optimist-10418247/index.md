@@ -42,17 +42,18 @@ The Liverpool groupâ€™s 11th album is a conceptual sequel to their sixth, 2001â€
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 32.63N 117.14W |
+| A2 | Leaving It Behind |
+| A3 | Endless Ways |
+| A4 | The Optimist |
+| B1 | San Francisco |
+| B2 | Springfield |
+| C1 | Ghosts |
+| C2 | Can't Let Go |
+| D1 | Close Your Eyes |
+| D2 | Wildfires |
+| D3 | Back To The Start |
+
 
 
 ## Apple Music

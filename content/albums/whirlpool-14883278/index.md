@@ -29,15 +29,16 @@ Whirlpool is the debut studio album by English shoegaze band Chapterhouse. It wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Breather |
+| A2 | Pearl |
+| A3 | Autosleeper |
+| A4 | Treasure |
+| B1 | Falling Down |
+| B2 | April |
+| B3 | Guilt |
+| B4 | If You Want Me |
+| B5 | Something More |
+
 
 
 ## Apple Music

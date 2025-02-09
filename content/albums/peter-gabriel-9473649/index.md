@@ -40,16 +40,17 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intruder |
+| A2 | No Self Control |
+| A3 | Start |
+| A4 | I Don't Remember |
+| A5 | Family Snapshot |
+| A6 | And Through The Wire |
+| B1 | Games Without Frontiers |
+| B2 | Not One Of Us |
+| B3 | Lead A Normal Life |
+| B4 | Biko |
+
 
 
 ## Apple Music

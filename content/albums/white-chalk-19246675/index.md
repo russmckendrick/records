@@ -34,17 +34,18 @@ styles: ["Indie Rock", "Ethereal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Devil |
+| A2 | Dear Darkness |
+| A3 | Grow Grow Grow |
+| A4 | When Under Ether |
+| A5 | White Chalk |
+| B1 | Broken Harp |
+| B2 | Silence |
+| B3 | To Talk To You |
+| B4 | The Piano |
+| B5 | Before Departure |
+| B6 | The Mountain |
+
 
 
 ## Apple Music

@@ -42,29 +42,30 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Original Album |
+| A1 | Frustration |
+| A2 | Tainted Love |
+| A3 | Seedy Films |
+| A4 | Youth |
+| A5 | Sex Dwarf |
+| B1 | Entertain Me |
+| B2 | Chips On My Shoulder |
+| B3 | Bedsitter |
+| B4 | Secret Life |
+| B5 | Say Hello, Wave Goodbye |
+|  | Bonus Disc Of Singles And B-Sides |
+| C1 | Memorabilia |
+| C2 | A Man Could Get Lost |
+| C3 | Persuasion (Edit) |
+| C4 | Where Did Our Love Go? |
+| C5 | Facility Girls |
+| C6 | Say Hello, Wave Goodbye (Instrumental) |
+| D1 | Fun City (Edit) |
+| D2 | Torch |
+| D3 | Insecure Me |
+| D4 | What! |
+| D5 | ... So |
+
 
 
 ## Apple Music

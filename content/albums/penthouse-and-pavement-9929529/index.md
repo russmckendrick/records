@@ -36,17 +36,18 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Pavement Side |
+| A1 | (We Don't Need This) Fascist Groove Thang |
+| A2 | Penthouse And Pavement |
+| A3 | Play To Win |
+| A4 | Soul Warfare |
+|  | Penthouse Side |
+| B1 | Geisha Boys And Temple Girls |
+| B2 | Let's All Make A Bomb |
+| B3 | The Height Of The Fighting |
+| B4 | Song With No Name |
+| B5 | We're Going To Live For A Very Long Time |
+
 
 
 ## Apple Music

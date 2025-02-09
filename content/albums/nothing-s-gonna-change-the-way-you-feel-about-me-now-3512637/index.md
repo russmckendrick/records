@@ -43,16 +43,17 @@ Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Am I That Lonely Tonight |
+| A2 | Look The Other Way |
+| A3 | Nothing's Gonna Change The Way You Feel About Me Now |
+| A4 | Baby's Got A Bad Idea |
+| A5 | Maria |
+| B1 | Lower East Side |
+| B2 | Won't Be The Last Time |
+| B3 | Memphis In The Rain |
+| B4 | Unfortunately Anna |
+| B5 | Movin' On |
+
 
 
 ## Apple Music

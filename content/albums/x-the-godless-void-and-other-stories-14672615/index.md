@@ -34,30 +34,31 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Opening Crescendo |
+| A2 | All Who Wander |
+| A3 | Something Like This |
+| A4 | Into The Godless Void |
+| A5 | Don't Look Down |
+| A6 | Gone |
+| B1 | Children Of The Sky |
+| B2 | Who Haunts The Haunter |
+| B3 | Eyes Of The Overworld |
+| B4 | Gravity |
+| B5 | Blade Of Wind |
+| B6 | Through The Sunlit Door |
+| CD-1 | The Opening Crescendo |
+| CD-2 | All Who Wander |
+| CD-3 | Something Like This |
+| CD-4 | Into The Godless Void |
+| CD-5 | Don't Look Down |
+| CD-6 | Gone |
+| CD-7 | Children Of The Sky |
+| CD-8 | Who Haunts The Haunter |
+| CD-9 | Eyes Of The Overworld |
+| CD-10 | Gravity |
+| CD-11 | Blade Of Wind |
+| CD-12 | Through The Sunlit Door |
+
 
 
 ## Apple Music

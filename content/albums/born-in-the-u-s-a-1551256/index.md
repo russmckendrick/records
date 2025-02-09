@@ -51,18 +51,19 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Born In The U.S.A. |
+| A2 | Cover Me |
+| A3 | Darlington County |
+| A4 | Working On The Highway |
+| A5 | Downbound Train |
+| A6 | I'm On Fire |
+| B1 | No Surrender |
+| B2 | Bobby Jean |
+| B3 | I'm Goin' Down |
+| B4 | Glory Days |
+| B5 | Dancing In The Dark |
+| B6 | My Hometown |
+
 
 
 ## Apple Music

@@ -41,17 +41,18 @@ The album includes the song "Green-Tinted Sixties Mind".
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) |
+| A2 | Alive And Kickin' |
+| A3 | Green-Tinted Sixties Mind |
+| A4 | CDFF-Lucky This Time |
+| A5 | Voodoo Kiss |
+| B1 | Never Say Never |
+| B2 | Just Take My Heart |
+| B3 | My Kinda Woman |
+| B4 | A Little Too Loose |
+| B5 | Road To Ruin |
+| B6 | To Be With You |
+
 
 
 ## Apple Music

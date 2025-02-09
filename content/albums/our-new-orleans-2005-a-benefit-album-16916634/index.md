@@ -32,31 +32,29 @@ styles: ["Louisiana Blues", "Cajun", "Bayou Funk", "Ragtime"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Yes We Can Can |
+| A2 | World I Never Made |
+| A3 | Back Water Blues |
+| A4 | Gather By The River |
+| A5 | Cryin' In The Streets |
+| B1 | Canal Street Blues |
+| B2 | Brother John Is Gone / Herc-Jolly- John |
+| B3 | When The Saints Go Marching In |
+| B4 | My Feet Can't Fail Me Now |
+| B5 | Tou' Les Jours C'est Pas La Même |
+| C1 | L'Ouragon |
+| C2 | Do You Know What It Means To Miss New Orleans |
+| C3 | Prayer For New Orleans |
+| C4 | What A Wonderful World |
+| C5 | Tipitina And Me |
+| C6 | Louisiana 1927 |
+| D1 | Do You Know What It Means |
+| D2 | Let's Work Together |
+| D3 | Crescent City Serenade |
+| D4 | Walking By The River |
+| D5 | Do You Know What It Means |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

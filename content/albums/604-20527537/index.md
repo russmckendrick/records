@@ -33,22 +33,23 @@ In a 2002 interview with online magazine Chaos Control, Daniel Hunt stated that 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mu-Tron |
+| A2 | Discotraxx |
+| A3 | Another Breakfast With You |
+| A4 | CSKA Sofia |
+| B1 | The Way That I Found You |
+| B2 | Paco! |
+| B3 | Commodore Rock |
+| B4 | Zmeyka |
+| C1 | Playgirl |
+| C2 | I'm With The Pilots |
+| C3 | This Is Our Sound |
+| C4 | He Took Her To A Movie |
+| D1 | Laughing Cavalier |
+| D2 | Ladybird |
+| D3 | Jet Age |
+| D4 | Skools Out... |
+
 
 
 ## Apple Music

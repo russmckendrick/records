@@ -26,15 +26,16 @@ styles: ["New Wave", "Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Stars |
+| 2 | Home |
+| 3 | Pamela |
+| 4 | Jenny |
+| 5 | Human Love |
+| 6 | Thunder |
+| 7 | Unscarred |
+| 8 | Scarlett |
+| 9 | Outro |
+
 
 
 ## Apple Music

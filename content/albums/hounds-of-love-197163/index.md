@@ -38,20 +38,21 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Hounds Of Love |
+| A1 | Running Up That Hill (A Deal With God) |
+| A2 | Hounds Of Love |
+| A3 | The Big Sky |
+| A4 | Mother Stands For Comfort |
+| A5 | Cloudbusting |
+|  | The Ninth Wave |
+| B1 | And Dream Of Sheep |
+| B2 | Under Ice |
+| B3 | Waking The Witch |
+| B4 | Watching You Without Me |
+| B5 | Jig Of Life |
+| B6 | Hello Earth |
+| B7 | The Morning Fog |
+
 
 
 ## Apple Music

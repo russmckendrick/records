@@ -33,10 +33,11 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | T69 Collapse |
+| A2 | 1st 44 |
+| B1 | MT1 t29r2 |
+| B2 | Abundance10edit [2 R8's, FZ20m & A 909] |
+
 
 
 ## Apple Music

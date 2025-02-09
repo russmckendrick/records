@@ -57,36 +57,37 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rock 'n' Roll Star |
+| A2 | Shakermaker |
+| A3 | Live Forever |
+| B1 | Up In The Sky |
+| B2 | Columbia |
+| B3 | Sad Song |
+| C1 | Supersonic |
+| C2 | Bring It On Down |
+| C3 | Cigarettes & Alcohol |
+| D1 | Digsy's Dinner |
+| D2 | Slide Away |
+| D3 | Married With Children |
+|  | Monnow Valley Versions |
+| E1 | Rock 'n' Roll Star |
+| E2 | Shakermaker |
+| E3 |  Live Forever |
+| E4 | Up In The Sky |
+| F1 | Columbia |
+| F2 | Bring It On Down |
+| F3 | Cigarettes & Alcohol |
+| F4 | Digsy's Dinner |
+|  | Sawmills Outtakes (No Overdubs) |
+| G1 | Rock 'n' Roll Star |
+| G2 | Up In The Sky |
+| G3 | Columbia |
+| G4 | Bring It On Down |
+| H1 | Cigarettes & Alcohol |
+| H2 | Digsy's Dinner |
+| H3 | Slide Away |
+| H4 | Sad Song (Mauldeth Road West Demo, Nov '92) |
+
 
 
 ## Apple Music

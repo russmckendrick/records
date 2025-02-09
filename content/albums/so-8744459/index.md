@@ -43,15 +43,16 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Red Rain |
+| A2 | Sledgehammer |
+| B1 | Don't Give Up |
+| B2 | That Voice Again |
+| C1 | Mercy Street |
+| C2 | Big Time |
+| D1 | We Do What We're Told (Milgram's 37) |
+| D2 | This Is The Picture (Excellent Birds) |
+| D3 | In Your Eyes |
+
 
 
 ## Apple Music

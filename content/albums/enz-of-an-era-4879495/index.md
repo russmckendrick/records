@@ -29,20 +29,21 @@ Enz of an Era was a compilation by New Zealand rock band Split Enz. Released to 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | History Never Repeats |
+| A2 | My Mistake |
+| A3 | I Got You |
+| A4 | Late Last Night |
+| A5 | Poor Boy |
+| A6 | Dirty Creature |
+| A7 | I See Red |
+| B1 | Six Months In A Leaky Boat |
+| B2 | One Step Ahead |
+| B3 | Matinee Idyll |
+| B4 | Another Great Divide |
+| B5 | Bold As Brass |
+| B6 | I Hope I Never |
+| B7 | Give It A Whirl |
+
 
 
 ## Apple Music

@@ -26,14 +26,15 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dragonfly |
+| A2 | Mark Maker |
+| A3 | Wild Cry |
+| A4 | Dark Down |
+| B1 | Stry |
+| B2 | Sleepless |
+| B3 | Deeper Align |
+| B4 | Albedo Dei |
+
 
 
 ## Apple Music

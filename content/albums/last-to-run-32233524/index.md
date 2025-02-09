@@ -31,15 +31,16 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | All Because Of Me |
+| 2 | Last To Run |
+| 3 | Election Day |
+| 4 | The World To Me |
+| 5 | No Friend Of Mine |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="7wa7TrHHHyDaQYOxB7Xfg4" width="100%" height="500" >}}<br>
 
 
 

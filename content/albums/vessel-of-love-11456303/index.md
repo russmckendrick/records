@@ -30,16 +30,17 @@ styles: ["Reggae-Pop", "Soul", "Dub"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Angel Fire |
+| A2 | Stay Alive |
+| A3 | Survive |
+| A4 | Ghostly Fading |
+| A5 | Freefalling |
+| B1 | Lunar Addiction |
+| B2 | Turn It Around |
+| B3 | Vessel of Love |
+| B4 | Together |
+| B5 | Far From Me |
+
 
 
 ## Apple Music

@@ -39,17 +39,18 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Still Leads Me On |
+| A2 | Personality Disorder |
+| A3 | 15 Again |
+| A4 | The Only Way I Can Love You |
+| A5 | That Boy On The Stage |
+| A6 | Drive Myself Home |
+| B1 | Black Ice |
+| B2 | Shadow Self |
+| B3 | It's Always The Quiet Ones |
+| B4 | What Am I Without You? |
+| B5 | Turn Off Your Brain And Yell |
+
 
 
 ## Apple Music

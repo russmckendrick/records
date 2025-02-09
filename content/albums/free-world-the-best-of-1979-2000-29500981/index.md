@@ -38,35 +38,33 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A New England |
+| A2 | Innocence |
+| A3 | They Don't Know |
+| A4 | There's A Guy Works Down The Chip Shop Swears He's Elvis |
+| A5 | Don't Come The Cowboy With Me, Sonny Jim!  |
+| A6 | Can't Stop Killing You |
+| B1 | England 2 Colombia 0 |
+| B2 | Walking Down Madison (7" Mix)  |
+| B3 | Free World (Radio Edit)  |
+| B4 | Terry |
+| B5 | You Just Haven't Earned It Yet, Baby (From "She's Having A Baby")  |
+| B6 | Mother's Ruin |
+| C1 | Mambo Del La Luna (Single Edit)  |
+| C2 | Angel (Single Edition)  |
+| C3 | In These Shoes?  |
+| C4 | My Affair (Single Edition)  |
+| C5 | Treachery |
+| C6 | Caroline  |
+| C7 | Days |
+| D1 | He's On The Beach (Single Version)  |
+| D2 | Soho Square |
+| D3 | Darling, Let's Have Another Baby |
+| D4 | All I Ever Wanted (Single Version)  |
+| D5 | Perfect Day |
+| D6 | Fairytale Of New York  |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -55,29 +55,30 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Inbetweener |
+| A2 | Swallow |
+| A3 | Delicious |
+| A4 | Hunch |
+| A5 | Amuse |
+| A6 | Bedhead |
+| A7 | Lady Love Your Countryside |
+| B8 | Vegas |
+| B9 | Poor Flying Man |
+| B10 | Alice In Vain |
+| B11 | Twisted |
+| B12 | Pyrotechnician |
+|  | Bonus Tracks |
+| C1 | Bedside Manners |
+| C2 | Tatty |
+| C3 | Little Annie |
+| C4 | It's Wrong Of You To Breed |
+| C5 | One Girl Dreaming |
+| D6 | Alice In Vain (Single Version) |
+| D7 | Hymn To Her |
+| D8 | Big Nurse |
+| D9 | Ha Ha You're Dead |
+| D10 | Bank |
+
 
 
 ## Apple Music

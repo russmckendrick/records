@@ -34,26 +34,27 @@ The release of Cyr was accompanied by a five-part animated series, In Ashes, wri
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Colour Of Love |
+| A2 | Confessions Of A Dopamine Addict |
+| A3 | Cyr |
+| A4 | Dulcet In E |
+| A5 | Wrath |
+| B1 | Ramona |
+| B2 | Anno Satana |
+| B3 | Birch Grove |
+| B4 | Wyttch |
+| B5 | Starrcraft |
+| C1 | Purple Blood |
+| C2 | Save Your Tears |
+| C3 | Telegenix |
+| C4 | Black Forest, Black Hills |
+| C5 | Adrennalynne |
+| D1 | Haunted |
+| D2 | The Hidden Sun |
+| D3 | Schaudenfreud |
+| D4 | Tyger, Tyger |
+| D5 | Minerva |
+
 
 
 ## Apple Music

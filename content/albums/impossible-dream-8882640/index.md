@@ -35,16 +35,17 @@ Leigh received the Contemporary Classics Award from the Songwriter's Hall of Fam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hometown |
+| A2 | Your Mom Is Right |
+| A3 | Kismet Kill |
+| A4 | I Can Change |
+| A5 | Stupid Face |
+| B1 | Called You Queen |
+| B2 | Jealous Girls |
+| B3 | Skynz |
+| B4 | Better Than Me |
+| B5 | Blue Diamonds Fall |
+
 
 
 ## Apple Music

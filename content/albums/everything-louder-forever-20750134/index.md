@@ -50,48 +50,49 @@ styles: ["Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Overkill |
+| A2 | We Are Motörhead |
+| A3 | Snaggletooth |
+| A4 | Rock It |
+| A5 | Orgasmatron |
+| B1 | Brotherhood Of Man |
+| B2 | In The Name Of Tragedy |
+| B3 | Bomber |
+| B4 | Sacrifice |
+| B5 | The Thousand Names Of God |
+| C1 | Love For Sale |
+| C2 | Killed By Death |
+| C3 | I'm So Bad (Baby I Don't Care) |
+| C4 | Smiling Like A Killer |
+| C5 | Sharpshooter |
+| D1 | Queen Of The Damned |
+| D2 | Keys To The Kingdom |
+| D3 | Cradle To The Grave |
+| D4 | Lost Johnny |
+| D5 | The Game |
+| E1 | Ace Of Spades |
+| E2 | Burner |
+| E3 | Stone Dead Forever |
+| E4 | Bad Woman |
+| E5 | Just 'Cos You Got The Power |
+| F1 | Stay Out Of Jail |
+| F2 | No Class |
+| F3 | I Am The Sword |
+| F4 | The Chase Is Better Than The Catch |
+| G1 | God Save The Queen |
+| G2 | R.A.M.O.N.E.S. |
+| G3 | Iron Fist |
+| G4 | Rock Out |
+| G5 | Dirty Love |
+| G6 | Shine |
+| G7 | Overnight Sensation |
+| H1 | On Your Feet Or On Your Knees |
+| H2 | I Ain't No Nice Guy |
+| H3 | Sucker |
+| H4 | 1916 |
+| H5 | Choking On Your Screams |
+| H6 | Motörhead  |
+
 
 
 ## Apple Music

@@ -35,17 +35,18 @@ Fundamental or Fundamental As Anything is the fifth studio album released by Aus
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | You're So Strong |
+| A2 | Big Wheel |
+| A3 | Live It Up |
+| A4 | Surf & Mull & Sex & Fun |
+| A5 | Good Friday |
+| B1 | Date With Destiny |
+| B2 | Hold On |
+| B3 | Stones Of The Heart |
+| B4 | I Just Wanna Be Happy |
+| B5 | Splashing |
+| B6 | Bus Ride |
+
 
 
 ## Apple Music

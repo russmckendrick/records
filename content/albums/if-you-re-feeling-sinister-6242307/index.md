@@ -35,16 +35,17 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Stars Of Track And Field |
+| A2 | Seeing Other People |
+| A3 | Me And The Major |
+| A4 | Like Dylan In The Movies |
+| A5 | The Fox In The Snow |
+| B1 | Get Me Away From Here, I'm Dying |
+| B2 | If You're Feeling Sinister |
+| B3 | Mayfly |
+| B4 | The Boy Done Wrong Again |
+| B5 | Judy And The Dream Of Horses |
+
 
 
 ## Apple Music

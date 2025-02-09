@@ -29,8 +29,9 @@ styles: ["Jazz-Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | Beatmaker |
+| B | Beatmaker (Instrumental) |
+
 
 
 ## Apple Music

@@ -35,18 +35,19 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Insight |
+| A2 | Astral Architecture |
+| A3 | Kaleidoscope |
+| A4 | Eidolon |
+| A5 | Into The Void |
+| A6 | The Room |
+| B1 | Confluence |
+| B2 | Constellation |
+| B3 | Echo / Sigh / Strand  |
+| B4 | Penrose Stairs |
+| B5 | Storyteller  |
+| B6 | The Best Of Days |
+
 
 
 ## Apple Music

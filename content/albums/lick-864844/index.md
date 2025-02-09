@@ -32,17 +32,18 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mallo Cup |
+| A2 | Glad I Don't Know |
+| A3 | 7 Powers |
+| A4 | A Circle Of One |
+| A5 | Cazzo Di Ferro |
+| B1 | Anyway |
+| B2 | Luka |
+| B3 | Come Back D.A. |
+| B4 | I Am A Rabbit |
+| B5 | Sad Girl |
+| B6 | Ever |
+
 
 
 ## Apple Music

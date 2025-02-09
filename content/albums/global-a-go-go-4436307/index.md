@@ -41,29 +41,30 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Johnny Appleseed |
+| A2 | Cool'n'Out |
+| A3 | Global A Go-Go |
+| A4 | Bhindi Bhagee |
+| B1 | Gamma Ray |
+| B2 | Mega Bottle Ride |
+| B3 | Shaktar Donetsk |
+| C1 | Mondo Bongo |
+| C2 | Bummed Out City |
+| C3 | At The Border, Guy |
+| D | Minstrel Boy (Full Length Version) |
+| 1 | Johnny Appleseed |
+| 2 | Cool'n'Out |
+| 3 | Global A Go-Go |
+| 4 | Bhindi Bhagee |
+| 5 | Gamma Ray |
+| 6 | Mega Bottle Ride |
+| 7 | Shaktar Donetsk |
+| 8 | Mondo Bongo |
+| 9 | Bummed Out City |
+| 10 | At The Border, Guy |
+| 11 | Minstrel Boy |
+| 12 | Bhindi Bhagee (Live From The Action Concert) |
+
 
 
 ## Apple Music

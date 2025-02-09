@@ -43,16 +43,14 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Lizard King |
+| B1 | Ladyland Blues |
+| B2 | Pearl |
+| C1 | Stoned |
+| C2 | The Gift |
+| D1 | The Devil At The Crossroads |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

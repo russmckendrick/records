@@ -35,17 +35,18 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | If You All Get To Heaven |
+| A2 | If You Let Me Stay |
+| A3 | Wishing Well |
+| A4 | I’ll Never Turn My Back On You (Father’s Words) |
+| A5 | Dance Little Sister |
+| A6 | Seven More Days |
+| B1 | Let’s Go Forward |
+| B2 | Rain |
+| B3 | Sign Your Name |
+| B4 | As Yet Untitled |
+| B5 | Who’s Loving You |
+
 
 
 ## Apple Music

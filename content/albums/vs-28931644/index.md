@@ -39,18 +39,19 @@ But the band were branching out into new directions, too. The syncopated grooves
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Go |
+| A2 | Animal |
+| A3 | Daughter |
+| A4 | Glorified G |
+| A5 | Dissident |
+| A6 | W.M.A. |
+| B1 | Blood |
+| B2 | Rearviewmirror |
+| B3 | Rats |
+| B4 | Elderly Woman Behind The Counter In A Small Town |
+| B5 | Leash |
+| B6 | Indifference |
+
 
 
 ## Apple Music

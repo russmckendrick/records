@@ -38,17 +38,18 @@ Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Way We Won't |
+| A2 | Brush With The Wild |
+| A3 | Evermore |
+| A4 | The Boat Is In The Barn |
+| A5 | Chek Injin  |
+| A6 | I Don't Wanna Live Here Anymore |
+| B1 | That's What You Get For Gettin' Outta  Bed |
+| B2 | This Is The Part |
+| B3 | Jed The 4th |
+| B4 | A Lost Machine |
+| B5 | Songbird Son |
+
 
 
 ## Apple Music

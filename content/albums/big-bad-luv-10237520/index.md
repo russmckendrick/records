@@ -36,17 +36,18 @@ styles: ["Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sallisaw Blue |
+| A2 | Old Wounds |
+| A3 | Every Kind Of Wrong |
+| A4 | Love Is Not An Answer |
+| A5 | Lies I Chose To Believe |
+| B1 | Amen, So Be It |
+| B2 | No Glory In Regret |
+| B3 | Ain't We Gold |
+| B4 | Slow Down Easy |
+| B5 | It Don't Suit Me (Like Before) |
+| B6 | Latchkey Kid |
+
 
 
 ## Apple Music

@@ -41,17 +41,18 @@ It is also the band's first album to feature longtime touring partner and collab
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | And That, Too. |
+| A2 | Speaking Gently  |
+| A3 | Time Moves Slow |
+| B1 | Confessions Pt. II |
+| B2 | Lavender |
+| B3 | Chompy's Paradise |
+| C1 | IV |
+| C2 | Hyssop of Love |
+| C3 | Structure No. 3 |
+| D1 | In Your Eyes |
+| D2 | Cashmere |
+
 
 
 ## Apple Music

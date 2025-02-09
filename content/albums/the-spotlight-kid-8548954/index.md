@@ -34,16 +34,17 @@ The Spotlight Kid is the sixth studio album by Captain Beefheart. Released in 19
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm Gonna Booglarize You Baby |
+| A2 | White Jam |
+| A3 | Blabber 'N Smoke |
+| A4 | When It Blows Its Stacks |
+| A5 | Alice In Blunderland |
+| B1 | The Spotlight Kid |
+| B2 | Click Clack |
+| B3 | Grow Fins |
+| B4 | There Ain't No Santa Claus On The Evenin' Stage |
+| B5 | Glider |
+
 
 
 ## Apple Music

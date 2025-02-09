@@ -31,16 +31,17 @@ West Coast vs. Wessex is a split album by the American punk rock band NOFX and t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Substitute |
+| A2 | Worse Things Happen At Sea |
+| A3 | Thatcher Fucked The Kids |
+| A4 | Ballad Of Me And My Friends |
+| A5 | Glory Hallelujah |
+| B1 | Scavenger Type |
+| B2 | Bob |
+| B3 | Eat The Meek |
+| B4 | Perfect Government |
+| B5 | Falling In Love |
+
 
 
 ## Apple Music

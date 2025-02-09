@@ -28,14 +28,15 @@ styles: ["Power Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fortunately  |
+| A2 | New Days |
+| A3 | You All Alone |
+| A4 | In The Meantime  |
+| B1 | Fortunately (Instrumental Mix) |
+| B2 | New Days (Instrumental Mix) |
+| B3 | You All Alone (Instrumental Mix) |
+| B4 | In The Meantime (Instrumental Mix) |
+
 
 
 ## Apple Music

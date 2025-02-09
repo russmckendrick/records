@@ -39,29 +39,30 @@ styles: ["Soundtrack", "Score"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | 1.5_1-Askingthe1mpossible.M4p |
+| A2 | 1.5_2-Hackthepolice.Mp3 |
+| A3 | 1.5_3-Trustyourself.Bwf |
+| A4 | 1.5_4-Issacsbestmove.Bwf |
+| A5 | 1.5_5-Mybestmove.Ra |
+| B1 | 1.5_6-Veraliber4ted.Aiff |
+| B2 | 1.6_1-V1ew-S0urce.Ogg |
+| B3 | 1.6_2-A-Way-Out.Wav |
+| B4 | 1.7_1-Consumatesurvivor.Caf |
+| B5 | 1.7_2-Darlenesgun.Aac |
+| B6 | 1.7_3-In0urgrasps.Ogg |
+| C1 | 1.7_4-Wh1ter0se.Flac |
+| C2 | 1.7_5-Mrrobot&Tyrell.Wma |
+| C3 | 1.8_1-Imcrazy.Aiff |
+| C4 | 1.8_2-Mostdangerouscar.M4p |
+| C5 | 1.8_3-Ch4ngefromwith1n.Au |
+| D1 | 1.8_4-Oneconstant.Caf |
+| D2 | 1.9_1-Waltznumber2.Bwf |
+| D3 | 1.9_2-Wearefinallyaw4ke.Ra |
+| D4 | 1.9_3-Johannaphishes.Wav |
+| D5 | 1.9_4-Forcerobotshand.Sd2 |
+| D6 | 1.9_5-Urmygod.Ogg |
+| D7 | 1.9_6-Nothingisreal.Ra |
+
 
 
 ## Apple Music

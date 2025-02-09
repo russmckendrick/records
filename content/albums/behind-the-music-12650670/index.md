@@ -38,26 +38,27 @@ The front cover features alginate masks of the faces of the six band members, ca
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Infra Riot |
+| A2 | Sister Surround |
+| A3 | In Someone Else's Mind |
+| A4 | Mind The Gap |
+| B1 | Broken Imaginary Time |
+| B2 | 21st Century Rip Off |
+| B3 | Tonight |
+| B4 | Keep The Line Movin' |
+| B5 | Nevermore |
+| C1 | Independent Luxury |
+| C2 | Ten Years Ahead |
+| C3 | Still Aging |
+| C4 | In Your Veins |
+| C5 | The Flood |
+| C6 | Into The Next Sun |
+| D1 | We're Gonna Get It Right |
+| D2 | Can't Control Myself |
+| D3 | Slow Drift Away |
+| D4 | Hang Ten |
+| D5 | We'll Get By |
+
 
 
 ## Apple Music

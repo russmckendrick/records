@@ -30,46 +30,44 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Fictitious Sports |
+| A1 | Can't Get My Motor To Start |
+| A2 | I Was Wrong |
+| A3 | Siam |
+| A4 | Hot River |
+| B1 | Boo To You Too |
+| B2 | Do Ya? |
+| B3 | Wervin |
+| B4 | I'm A Mineralist |
+|  | Profiles |
+| C1 | Malta |
+| C2 | Lie for A Lie |
+| C3 | Rhoda |
+| C4 | Profiles Part 1 / Profiles Part 2 |
+| D1 | Israel |
+| D2 | And The Address |
+| D3 | Mumbo Jumbo |
+| D4 | Zip Code |
+| D5 | Black Ice |
+| D6 | At The End Of The Day |
+| D7 | Profiles Part 3 |
+|  | White Of The Eye |
+| E1 | Goldwaters |
+| E2 | Remember Mike |
+| E3 | Where Are You Joany |
+| E4 | Dry Junk |
+| E5 | Present |
+| E6 | The Thrift Store |
+| E7 | Prelude And Ritual |
+| F1 | Globe |
+| F2 | Discovery & Recoil |
+| F3 | Anne Mason |
+| F4 | Mendoza |
+| F5 | World Of Appearances |
+| F6 | Sacrifice Dance |
+| F7 | White Of The Eye |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

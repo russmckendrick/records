@@ -38,17 +38,18 @@ The Heart of Saturday Night is the second studio album by singer and songwriter 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Coat Of Paint |
+| A2 | San Diego Serenade |
+| A3 | Semi Suite |
+| A4 | Shiver Me Timbers |
+| A5 | Diamonds On My Windshield |
+| A6 | (Looking For) The Heart Of Saturday Night |
+| B1 | Fumblin' With The Blues |
+| B2 | Please Call Me, Baby |
+| B3 | Depot, Depot |
+| B4 | Drunk On The Moon |
+| B5 | The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) |
+
 
 
 ## Apple Music

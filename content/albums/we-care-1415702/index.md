@@ -32,19 +32,20 @@ We Care is the debut album by Swedish alternative rock group Whale. The album wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kickin' |
+| A2 | That's Where It's At |
+| A3 | Pay For Me |
+| B1 | Eurodog |
+| B2 | I'll Do Ya |
+| B3 | Electricity |
+| C1 | Hobo Humpin' Slobo Babe |
+| C2 | Tryzasnice |
+| C3 | Happy In You |
+| D1 | I Miss Me |
+| D2 | Young Dumb N' Full Of Cum |
+| D3 | I'm Cold |
+| D4 | Born To Raise Hell |
+
 
 
 ## Apple Music

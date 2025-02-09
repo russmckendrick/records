@@ -33,16 +33,17 @@ Diesel and Dust has been critically lauded since its release. Rolling Stone edit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Beds Are Burning |
+| A2 | Put Down That Weapon |
+| A3 | Dreamworld |
+| A4 | Arctic World |
+| A5 | Warakurna |
+| B1 | The Dead Heart |
+| B2 | Whoah |
+| B3 | Bullroarer |
+| B4 | Sell My Soul |
+| B5 | Sometimes |
+
 
 
 ## Apple Music

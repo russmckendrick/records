@@ -48,18 +48,19 @@ By 1995, the album had sold 10,000 copies in the United States.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | You Know It's True |
+| A2 | If I Were With Her Now |
+| A3 | I Want You |
+| B1 | Run |
+| B2 | Smiles |
+| B3 | Step Into The Breeze |
+| B4 | Symphony Space |
+| C1 | Take Your Time |
+| C2 | Shine A Light |
+| D1 | Angel Sigh |
+| D2 | Sway |
+| D3 | 200 Bars |
+
 
 
 ## Apple Music

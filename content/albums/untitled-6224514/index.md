@@ -35,18 +35,16 @@ styles: ["Hard Rock", "Blues Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Dog |
+| A2 | Rock And Roll |
+| A3 | The Battle Of Evermore |
+| A4 | Stairway To Heaven |
+| B1 | Misty Mountain Hop |
+| B2 | Four Sticks |
+| B3 | Going To California |
+| B4 | When The Levee Breaks |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

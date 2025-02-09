@@ -36,43 +36,44 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 |  Water Under The Bridge |
+| A2 | I Need Another |
+| A3 | Lovebirds |
+| A4 | Satisfied |
+| A5 | Grand Old English Oak Tree |
+| B1 | Stand By Yourself |
+| B2 | As My Time Goes By |
+| B3 | Never Again |
+| B4 | Cold Tea |
+| B5 | We're Not Going To Take This Anymore |
+| C1 | Staying Out For The Summer |
+| C2 | Melodies Haunt You |
+| C3 | So Let Me Go Far |
+| C4 | Crossroads |
+| C5 | One Day |
+| D1 | We Are Together |
+| D2 | Whole Lot Easier |
+| D3 | Making The Most Of |
+| D4 | Waiting For The Day |
+| D5 | What Have I Done Wrong? |
+| D6 | Grassman |
+| E1a | Intro |
+| E1b | In A Room |
+| E2 | Trust In Time |
+| E3 | You've Gotta Look Up |
+| E4 | If You're Thinking Of Me |
+| F1 | Ain't No Longer Asking |
+| F2 | Good Enough |
+| F3 | Grateful Moon |
+| F4 | Found You |
+| G1 | Prey For Drinking |
+| G2 | Jack The Lad |
+| G3 | Long Life |
+| H1 | One Of Those Rivers |
+| H2 | U.K.R.I.P. |
+| H3 | Homegrown |
+| H4 | Is It Me |
+
 
 
 ## Apple Music

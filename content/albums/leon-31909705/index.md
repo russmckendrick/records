@@ -40,19 +40,20 @@ Leon is the fourth studio album by American singer Leon Bridges. It was released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | When a Man Cries |
+| A2 | That’s What I Love |
+| A3 | Laredo |
+| A4 | Panther City |
+| A5 | Ain’t Got Nothing On You |
+| A6 | Simplify |
+| A7 | Teddy’s Tune |
+| B1 | Never Satisfied |
+| B2 | Peaceful Place |
+| B3 | Can’t Have It All |
+| B4 | Ivy |
+| B5 | Ghetto Honeybee |
+| B6 | God Loves Everyone |
+
 
 
 ## Apple Music

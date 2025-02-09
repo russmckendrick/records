@@ -47,19 +47,20 @@ The album received widespread critical acclaim from critics for its vivid depict
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The View From The Afternoon |
+| A2 | I Bet You Look Good On The Dancefloor |
+| A3 | Fake Tales Of San Francisco |
+| A4 | Dancing Shoes |
+| A5 | You Probably Couldn't See For The Lights But You Were Staring Straight At Me |
+| A6 | Still Take You Home |
+| B1 | Riot Van |
+| B2 | Red Light Indicates Doors Are Secured |
+| B3 | Mardy Bum |
+| B4 | Perhaps Vampires Is A Bit Strong But.. |
+| B5 | When The Sun Goes Down |
+| B6 | From The Ritz To The Rubble |
+| B7 | A Certain Romance |
+
 
 
 ## Apple Music

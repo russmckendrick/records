@@ -36,15 +36,16 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Costa Del Slough |
+| A2 | Under The Sun |
+| A3 | The Answering Machine |
+| A4 | Three Minute Boy |
+| B1 | Now She'll Never Know |
+| B2 | These Chains |
+| B3 | Born To Run |
+| C1 | Cathedral Wall |
+| C2 | A Few Words For The Dead |
+
 
 
 ## Apple Music

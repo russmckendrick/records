@@ -36,18 +36,19 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Steven Wilson Remixes |
+| A1 | Giant |
+| A2 | Nothing At All	 |
+| B1 | Why Not?	 |
+| B2 | Pantagruel's Nativity	 |
+| B3 | The House, The Street, The Room	 |
+| C1 | Schooldays	 |
+| C2 | Peel The Paint	 |
+| D1 | Mister Class And Quality? |
+| D2 | Three Friends	 |
+| D3 | Freedom's Child	 |
+| D4 | Nothing At All (Steven Wilson 7" Edit) |
+
 
 
 ## Apple Music

@@ -40,28 +40,29 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Interstellar Overdrive |
+| A2 | Astronomy Domine |
+| A3 | Lucifer Sam |
+| A4 | Fearless |
+| A5 | Obscured By Clouds |
+| A6 | When You're In |
+| B1 | Remember A Day |
+| B2 | Arnold Layne |
+| B3 | Vegetable Man |
+| B4 | If |
+| B5 | Atom Heart Mother |
+| B6 | If (Reprise) |
+| B7 | The Nile Song |
+| C1 | Green Is The Colour |
+| C2 | Let There Be More Light |
+| C3 | Childhood's End |
+| C4 | Set The Controls For The Heart Of The Sun |
+| D1 | See Emily Play |
+| D2 | Bike |
+| D3 | One Of These Days |
+| D4 | A Saucerful Of Secrets |
+| D5 | Point Me At The Sky |
+
 
 
 ## Apple Music

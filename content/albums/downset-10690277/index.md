@@ -41,16 +41,17 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Anger! |
+| A2 | Ritual |
+| A3 | Take 'em Out |
+| A4 | Prostitutionalized |
+| A5 | Downset |
+| B1 | My American Prayer |
+| B2 | Holding Hands |
+| B3 | About To Blast |
+| B4 | Breed The Killer |
+| B5 | Dying Of Thirst |
+
 
 
 ## Apple Music

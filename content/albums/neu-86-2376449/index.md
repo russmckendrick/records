@@ -30,23 +30,24 @@ styles: ["Krautrock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro (Haydn Slo-Mo) |
+| A2 | Dänzing |
+| A3 | Crazy |
+| A4 | Drive (Grundfunken) |
+| A5 | La Bomba (Stop Apartheid World-Wide!) |
+| A6 | Elanoizan |
+| B1 | Wave Mother |
+| B2 | Paradise Walk |
+| B3 | Euphoria |
+| B4 | Vier 1/2 |
+| B5 | Good Life |
+| B6 | November |
+| B7 | KD |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="1LdFz3rQocadBp0npoIRWt" width="100%" height="500" >}}<br>
 
 
 

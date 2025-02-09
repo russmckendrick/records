@@ -54,16 +54,17 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Kinky Afro |
+| A2 | God's Cop |
+| A3 | Donovan |
+| A4 | Grandbag's Funeral |
+| A5 | Loose Fit |
+| B1 | Dennis And Lois |
+| B2 | Bob's Yer Uncle |
+| B3 | Step On |
+| B4 | Holiday |
+| B5 | Harmony |
+
 
 
 ## Apple Music

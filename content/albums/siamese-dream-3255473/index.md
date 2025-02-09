@@ -38,19 +38,20 @@ None of the band’s Lollapalooza-era peers were attempting the sort of multi-tr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cherub Rock |
+| A2 | Quiet |
+| A3 | Today |
+| A4 | Hummer |
+| B1 | Rocket |
+| B2 | Disarm |
+| B3 | Soma |
+| C1 | Geek U.S.A. |
+| C2 | Mayonaise |
+| C3 | Spaceboy |
+| D1 | Silverfuck |
+| D2 | Sweet Sweet |
+| D3 | Luna |
+
 
 
 ## Apple Music

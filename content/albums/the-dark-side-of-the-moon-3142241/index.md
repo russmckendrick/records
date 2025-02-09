@@ -131,208 +131,209 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Original Album, Remastered In 2011 |
+| CD1-1 | Speak To Me |
+| CD1-2 | Breathe (In The Air) |
+| CD1-3 | On The Run |
+| CD1-4 | Time |
+| CD1-5 | The Great Gig In The Sky |
+| CD1-6 | Money |
+| CD1-7 | Us And Them |
+| CD1-8 | Any Colour You Like |
+| CD1-9 | Brain Damage |
+| CD1-10 | Eclipse |
+|  | The Dark Side Of The Moon Live At Wembley 1974 |
+| CD2-1 | Speak To Me |
+| CD2-2 | Breathe (In The Air) |
+| CD2-3 | On The Run |
+| CD2-4 | Time |
+| CD2-5 | The Great Gig In The Sky |
+| CD2-6 | Money |
+| CD2-7 | Us And Them |
+| CD2-8 | Any Colour You Like |
+| CD2-9 | Brain Damage |
+| CD2-10 | Eclipse |
+|  | (Audio Only): The Dark Side Of The Moon Multi-Channel Audio Mixes |
+|  | 5.1 Surround Mix (2003) 448kbps |
+| DVD1-1-1 | Speak To Me |
+| DVD1-1-2 | Breathe (In The Air) |
+| DVD1-1-3 | On The Run |
+| DVD1-1-4 | Time |
+| DVD1-1-5 | The Great Gig In The Sky |
+| DVD1-1-6 | Money |
+| DVD1-1-7 | Us And Them |
+| DVD1-1-8 | Any Colour You Like |
+| DVD1-1-9 | Brain Damage |
+| DVD1-1-10 | Eclipse |
+|  | 4.0 Quad Mix (1973) 448kbps |
+| DVD1-2-1 | Speak To Me |
+| DVD1-2-2 | Breathe (In The Air) |
+| DVD1-2-3 | On The Run |
+| DVD1-2-4 | Time |
+| DVD1-2-5 | The Great Gig In The Sky |
+| DVD1-2-6 | Money |
+| DVD1-2-7 | Us And Them |
+| DVD1-2-8 | Any Colour You Like |
+| DVD1-2-9 | Brain Damage |
+| DVD1-2-10 | Eclipse |
+|  | LPCM Stereo Mix (1973) Remastered In 2011 |
+| DVD1-3-1 | Speak To Me |
+| DVD1-3-2 | Breathe (In The Air) |
+| DVD1-3-3 | On The Run |
+| DVD1-3-4 | Time |
+| DVD1-3-5 | The Great Gig In The Sky |
+| DVD1-3-6 | Money |
+| DVD1-3-7 | Us And Them |
+| DVD1-3-8 | Any Colour You Like |
+| DVD1-3-9 | Brain Damage |
+| DVD1-3-10 | Eclipse |
+|  | 5.1 Surround Mix (2003) 640kbps |
+| DVD1-4-1 | Speak To Me |
+| DVD1-4-2 | Breathe (In The Air) |
+| DVD1-4-3 | On The Run |
+| DVD1-4-4 | Time |
+| DVD1-4-5 | The Great Gig In The Sky |
+| DVD1-4-6 | Money |
+| DVD1-4-7 | Us And Them |
+| DVD1-4-8 | Any Colour You Like |
+| DVD1-4-9 | Brain Damage |
+| DVD1-4-10 | Eclipse |
+|  | 4.0 Quad Mix (1973) 640kbps |
+| DVD1-5-1 | Speak To Me |
+| DVD1-5-2 | Breathe (In The Air) |
+| DVD1-5-3 | On The Run |
+| DVD1-5-4 | Time |
+| DVD1-5-5 | The Great Gig In The Sky |
+| DVD1-5-6 | Money |
+| DVD1-5-7 | Us And Them |
+| DVD1-5-8 | Any Colour You Like |
+| DVD1-5-9 | Brain Damage |
+| DVD1-5-10 | Eclipse |
+|  | Audio-Visual Material |
+|  | Live In Brighton 1972 |
+| DVD2-1-1 | Careful With That Axe, Eugene |
+| DVD2-1-2 | Set The Controls For The Heart Of The Sun |
+|  | The Dark Side Of The Moon 2003 Documentary |
+| DVD2-2-1 | Chapter One |
+| DVD2-2-2 | Chapter Two |
+| DVD2-2-3 | Chapter Three |
+| DVD2-2-4 | Chapter Four |
+| DVD2-2-5 | Chapter Five |
+|  | Concert Screen Films In LPCM Stereo And 5.1 Surround Mixes |
+|  | British Tour 1974 |
+| DVD2-3-1 | Speak To Me |
+| DVD2-3-2 | On The Run |
+| DVD2-3-3 | Time |
+| DVD2-3-4 | Money |
+| DVD2-3-5 | Brain Damage |
+| DVD2-3-6 | Eclipse |
+|  | French Tour 1974 |
+| DVD2-4-1 | Speak To Me |
+| DVD2-4-2 | On The Run |
+| DVD2-4-3 | Time |
+| DVD2-4-5 | The Great Gig In The Sky |
+| DVD2-4-5 | Money |
+| DVD2-4-6 | Assorted Lunatics |
+| DVD2-4-7 | Brain Damage |
+| DVD2-4-8 | Eclipse |
+|  | North American Tour 1975 |
+| DVD2-5-1 | Speak To Me |
+| DVD2-5-2 | On The Run |
+| DVD2-5-3 | Time |
+| DVD2-5-4 | The Great Gig In The Sky |
+| DVD2-5-5 | Money |
+| DVD2-5-6 | Us And Them |
+| DVD2-5-7 | Eclipse |
+|  | High Resolution Audio And Audio-Visual Material |
+|  | Audio |
+|  | 5.1 Surround Mix (2003) 24bit/96kHz Uncompressed |
+| BD-1-1 | Speak To Me |
+| BD-1-2 | Breathe (In The Air) |
+| BD-1-3 | On The Run |
+| BD-1-4 | Time |
+| BD-1-5 | The Great Gig In The Sky |
+| BD-1-6 | Money |
+| BD-1-7 | Us And Them |
+| BD-1-8 | Any Colour You Like |
+| BD-1-9 | Brain Damage |
+| BD-1-10 | Eclipse |
+|  | Original Stereo Mix (1973) 24bit/96kHz Uncompressed |
+| BD-2-1 | Speak To Me |
+| BD-2-2 | Breathe (In The Air) |
+| BD-2-3 | On The Run |
+| BD-2-4 | Time |
+| BD-2-5 | The Great Gig In The Sky |
+| BD-2-6 | Money |
+| BD-2-7 | Us And Them |
+| BD-2-8 | Any Colour You Like |
+| BD-2-9 | Brain Damage |
+| BD-2-10 | Eclipse |
+|  | 4.0 Quad Mix (1974) 24bit/96kHz Uncompressed |
+| BD-3-1 | Speak To Me |
+| BD-3-2 | Breathe (In The Air) |
+| BD-3-3 | On The Run |
+| BD-3-4 | Time |
+| BD-3-5 | The Great Gig In The Sky |
+| BD-3-6 | Money |
+| BD-3-7 | Us And Them |
+| BD-3-8 | Any Colour You Like |
+| BD-3-9 | Brain Damage |
+| BD-3-10 | Eclipse |
+|  | Visual |
+|  | Live In Brighton 1972 |
+| BD-4-1 | Careful With That Axe, Eugene |
+| BD-4-2 | Set The Controls For The Heart Of The Sun |
+|  | The Dark Side Of The Moon 2003 Documentary |
+| BD-5-1 | Chapter One |
+| BD-5-2 | Chapter Two |
+| BD-5-3 | Chapter Three |
+| BD-5-4 | Chapter Four |
+| BD-5-5 | Chapter Five |
+|  | Concert Screen Films (LPCM Stereo & 5.1 Surround Mix 24bit/48kHz Uncompressed) |
+|  | British Tour 1974 - Concert Screen Reels 1 & 2 |
+| BD-6-1 | Speak To Me |
+| BD-6-2 | On The Run |
+| BD-6-3 | Time |
+| BD-6-4 | Money |
+| BD-6-5 | Brain Damage |
+| BD-6-6 | Eclipse |
+|  | French Tour 1974 - Concert Screen Reels 1 & 2 |
+| BD-7-1 | Speak To Me |
+| BD-7-2 | On The Run |
+| BD-7-3 | Time |
+| BD-7-4 | The Great Gig In The Sky |
+| BD-7-5 | Money |
+| BD-7-6 | Assorted Lunatics |
+| BD-7-7 | Brain Damage |
+| BD-7-8 | Eclipse |
+|  | North American Tour 1975 - Concert Screen Reels 1 & 2 |
+| BD-8-1 | Speak To Me |
+| BD-8-2 | On The Run |
+| BD-8-3 | Time |
+| BD-8-4 | The Great Gig In The Sky |
+| BD-8-5 | Money |
+| BD-8-6 | Us And Them |
+| BD-8-7 | Eclipse |
+|  | Previously Unreleased Tracks |
+|  | The Dark Side Of The Moon Early Mix (1972) |
+| CD3-1 | Breathe (In The Air) |
+| CD3-2 | On The Run |
+| CD3-3 | Time |
+| CD3-4 | The Great Gig In The Sky |
+| CD3-5 | Money |
+| CD3-6 | Us And Them |
+| CD3-7 | Any Colour You Like |
+| CD3-8 | Brain Damage |
+| CD3-9 | Eclipse |
+|  | Extra Audio Tracks |
+| CD3-10 | The Hard Way (From 'Household Objects') |
+| CD3-11 | Us And Them (Richard Wright Demo) |
+| CD3-12 | The Travel Sequence (Live In Brighton June 1972) |
+| CD3-13 | The Mortality Sequence (Live In Brighton June 1972) |
+| CD3-14 | Any Colour You Like (Live In Brighton June 1972) |
+| CD3-15 | The Travel Sequence (Previously Unreleased Studio Recording) |
+| CD3-16 | Money (Roger Waters Demo) |
+
 
 
 ## Apple Music

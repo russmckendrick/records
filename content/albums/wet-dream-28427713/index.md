@@ -42,16 +42,17 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mediterranean C |
+| A2 | Against The Odds |
+| A3 | Cat Cruise |
+| A4 | Summer Elegy |
+| A5 | Waves |
+| B1 | Holiday |
+| B2 | Mad Yannis Dance |
+| B3 | Drop In From The Top |
+| B4 | Pink's Song |
+| B5 | Funky Deux |
+
 
 
 ## Apple Music

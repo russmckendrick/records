@@ -32,29 +32,30 @@ styles: ["Blues Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hey Joe |
+| A2 | Stone Free |
+| A3 | Purple Haze |
+| A4 | 51st. Anniversary |
+| A5 | The Wind Cries Mary |
+| A6 | Highway Chile |
+| B1 | Burning Of The Midnight Lamp |
+| B2 | The Stars That Play With Laughing Sam's Dice |
+| B3 | All Along The Watchtower |
+| B4 | Long Hot Summer Night |
+| B5 | Cross-Town Traffic |
+| B6 | Let Me Light Your Fire |
+| C1 | Voodoo Chile (Slight Return) |
+| C2 | Angel |
+| C3 | Night Bird Flying |
+| C4 | Gypsy Eyes |
+| C5 | Remember |
+| C6 | Johnny B. Goode |
+| C7 | Little Wing |
+| D1 | Foxy Lady |
+| D2 | Manic Depression |
+| D3 | 3rd. Stone From The Sun |
+| D4 | Gloria |
+
 
 
 ## Apple Music

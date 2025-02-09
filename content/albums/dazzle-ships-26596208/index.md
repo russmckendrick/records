@@ -39,25 +39,26 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Radio Prague |
+| A2 | Genetic Engineering |
+| A3 | ABC Auto-Industry |
+| A4 | Telegraph |
+| A5 | This Is Helena |
+| A6 | International |
+| B1 | Dazzle Ships (Parts II, III & VII) |
+| B2 | The Romance Of The Telescope |
+| B3 | Silent Running |
+| B4 | Radio Waves |
+| B5 | Time Zones |
+| B6 | Of All The Things We've Made |
+| C1 | Telegraph 82 (Very Early Demo) |
+| C2 | Silent Running (Demo) |
+| C3 | Sold Our Souls (The Avenue Demo) |
+| C4 | Shakespeare 82 |
+| D1 | Untitled Instrumental 82 |
+| D2 | In Heaven Above (4-NEU Demo) |
+| D3 | Telegraph (Live 1984) |
+
 
 
 ## Apple Music

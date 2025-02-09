@@ -32,20 +32,18 @@ Give Thankx is an album by the Jamaican musician Jimmy Cliff, released in 1978. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bongo Man |
+| A2 | Stand Up And Fight Back |
+| A3 | She Is A Woman |
+| A4 | You Left Me Standing By The Door |
+| A5 | Footprints |
+| B1 | Meeting In Afrika |
+| B2 | Wanted Man |
+| B3 | Lonely Streets |
+| B4 | Love I Need |
+| B5 | Universal Love (Beyond The Boundaries) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

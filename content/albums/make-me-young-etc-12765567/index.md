@@ -27,13 +27,14 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Veldt |
+| 2 | Cranefly  |
+| 3 | Figstorm  |
+| 4 | Buttersun  |
+| 5 | Deckchair For Your Ghost  |
+| 6 | Make Me Young, Etc.  |
+| 7 | Tempe Terra |
+
 
 
 ## Apple Music

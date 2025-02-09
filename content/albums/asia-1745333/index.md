@@ -35,15 +35,16 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heat Of The Moment |
+| A2 | Only Time Will Tell |
+| A3 | Sole Survivor |
+| A4 | One Step Closer |
+| A5 | Time Again |
+| B1 | Wildest Dreams |
+| B2 | Without You |
+| B3 | Cutting It Fine |
+| B4 | Here Comes The Feeling |
+
 
 
 ## Apple Music

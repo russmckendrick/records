@@ -30,24 +30,25 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Things That I Used to Do |
+| A2 | Blues Music |
+| A3 | Garbage Man |
+| A4 | Eyes Have Miles |
+| B1 | Baby's Got Sauce |
+| B2 | Rhyme for the Summertime |
+| B3 | Cold Beverage |
+| B4 | Fatman |
+| B5 | This Ain't Living |
+| C1 | Walk to Slide |
+| C2 | Shooting Hoops |
+| C3 | Some Peoples Like That |
+| C4 | Town to Town |
+| C5 | I Love You |
+| D1 | The Things That I Used to Do (Live) |
+| D2 | Blues Music (Fast Version) |
+| D3 | Lila (Original Version) |
+| D4 | Just Like Trains (Live) |
+
 
 
 ## Apple Music

@@ -47,15 +47,16 @@ The album was an immediate commercial and critical success, and came to be viewe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | What's Going On |
+| A2 | What's Happening Brother |
+| A3 | Flyin' High (In The Friendly Sky) |
+| A4 | Save The Children |
+| A5 | God Is Love |
+| A6 | Mercy Mercy (The Ecology) |
+| B1 | Right On |
+| B2 | Wholy Holy |
+| B3 | Inner City Blues (Make Me Wanna Holler) |
+
 
 
 ## Apple Music

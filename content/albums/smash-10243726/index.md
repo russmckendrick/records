@@ -33,20 +33,21 @@ But even in a post-Nirvana marketplace that was more receptive to aggressive sou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Time To Relax |
+| A2 | Nitro [Youth Energy] |
+| A3 | Bad Habit |
+| A4 | Gotta Get Away |
+| A5 | Genocide |
+| A6 | Something To Believe In |
+| A7 | Come Out And Play (Keep 'Em Separated) |
+| B8 | Self Esteem |
+| B9 | It'll Be A Long Time |
+| B10 | Killboy Powerhead |
+| B11 | What Happened To You? |
+| B12 | So Alone |
+| B13 | Not The One |
+| B14 | Smash |
+
 
 
 ## Apple Music

@@ -34,18 +34,19 @@ Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Life |
+| A2 | I Sometimes Wish I Was Dead |
+| A3 | Puppets |
+| A4 | Boys Say Go! |
+| A5 | Nodisco |
+| A6 | What's Your Name? |
+| B1 | Photographic |
+| B2 | Tora! Tora! Tora! |
+| B3 | Big Muff |
+| B4 | Any Second Now (Voices) |
+| B5 | Just Can't Get Enough |
+| B6 | Dreaming Of Me |
+
 
 
 ## Apple Music

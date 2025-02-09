@@ -40,14 +40,15 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lessons In Love |
+| A2 | Children Say |
+| A3 | Running In The Family |
+| A4 | It's Over |
+| B1 | To Be With You Again |
+| B2 | Two Solitudes |
+| B3 | Fashion Fever |
+| B4 | The Sleepwalkers |
+
 
 
 ## Apple Music

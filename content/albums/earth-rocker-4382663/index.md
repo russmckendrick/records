@@ -35,17 +35,18 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Earth Rocker |
+| A2 | Crucial Velocity |
+| A3 | Mr. Freedom |
+| A4 | D.C. Sound Attack! |
+| A5 | Unto The Breach |
+| A6 | Gone Cold |
+| B7 | The Face |
+| B8 | Book, Saddle, & Go |
+| B9 | Cyborg Bette |
+| B10 | Oh, Isabella |
+| B11 | The Wolf Man Kindly Requests... |
+
 
 
 ## Apple Music

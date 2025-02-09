@@ -33,13 +33,14 @@ styles: ["Electro", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Boing Boom Tschak |
+| A2 | Techno Pop |
+| A3 | Musique Non Stop |
+| B1 | The Telephone Call |
+| B2 | House Phone |
+| B3 | Sex Object |
+| B4 | Electric Cafe |
+
 
 
 ## Apple Music

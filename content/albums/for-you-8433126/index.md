@@ -40,17 +40,18 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Side One |
+| A1 | For You |
+| A2 | In Love |
+| A3 | Soft And Wet |
+| A4 | Crazy You |
+| A5 | Just As Long As We're Together |
+|  | The Other Side |
+| B1 | Baby |
+| B2 | My Love Is Forever |
+| B3 | So Blue |
+| B4 | I'm Yours |
+
 
 
 ## Apple Music

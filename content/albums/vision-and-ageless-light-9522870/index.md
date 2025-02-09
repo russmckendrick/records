@@ -30,12 +30,13 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Book Of The Dead |
+| A2 | Kill The Slavemaster |
+| A3 | Searching |
+| A4 | Dweller Of The Twilight Void |
+| A5 | As Sure As The Sun |
+| B | As Sure As The Sun (Continued) |
+
 
 
 ## Apple Music

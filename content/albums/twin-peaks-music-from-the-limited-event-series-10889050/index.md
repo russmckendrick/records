@@ -38,30 +38,28 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Twin Peaks Main Theme (Edit) |
+| A2 | Shadow |
+| A3 | Mississippi |
+| A4 | Lark |
+| A5 | I Am |
+| A6 | I Love How You Love Me |
+| B1 | Snake Eyes |
+| B2 | Tarifa (Roadhouse Mix) |
+| B3 | She's Gone Away |
+| B4 | My Prayer |
+| C1 | No Stars |
+| C2 | Viva Las Vegas |
+| C3 | Just You |
+| C4 | Green Onions |
+| C5 | Wild West (Roadhouse Mix) |
+| D1 | Sharp Dressed Man |
+| D2 | Axolotl (Roadhouse Mix) |
+| D3 | Out Of Sand |
+| D4 | I've Been Loving You Too Long (Live From Monterey Pop) |
+| D5 | The World Spins |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

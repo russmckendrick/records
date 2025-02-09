@@ -32,36 +32,34 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Matthew & Son |
+| A2 | I Love My Dog |
+| A3 | I'm Gonna Get Me A Gun |
+| A4 | The First Cut Is The Deepest |
+| A5 | A Bad Night |
+| A6 | Peace Train |
+| A7 | Where Do The Children Play? |
+| B1 | Hard Headed Woman |
+| B2 | Wild World |
+| B3 | Lady D'Arbanville |
+| B4 | Father And Son |
+| B5 | Katmandu |
+| B6 | I Want To Live In A Wigwam |
+| B7 | Tuesday's Dead |
+| C1 | Morning Has Broken |
+| C2 | Moonshadow |
+| C3 | Sitting |
+| C4 | Can't Keep It In |
+| C5 | The Hurt |
+| C6 | Oh Very Young |
+| D1 | Banapple Gas |
+| D2 | Two Fine People |
+| D3 | Another Saturday Night |
+| D4 | (Remember The Days Of The) Old Schoolyard |
+| D5 | Child For A Day |
+| D6 | Midday (Avoid City After Dark) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

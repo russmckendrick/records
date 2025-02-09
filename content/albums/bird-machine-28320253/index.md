@@ -36,20 +36,21 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It Will Never Stop |
+| A2 | Kind Ghosts |
+| A3 | Evening Star Super Charger |
+| A4 | O Child |
+| A5 | Falling Down |
+| A6 | I Fucked It Up |
+| A7 | Hello Lord |
+| B1 | Daddy's Gone |
+| B2 | Chaos Of The Universe |
+| B3 | Listening To The Higsons |
+| B4 | Everybody's Gone To Sleep |
+| B5 | The Scull Of Lucia |
+| B6 | Blue |
+| B7 | Stay |
+
 
 
 ## Apple Music

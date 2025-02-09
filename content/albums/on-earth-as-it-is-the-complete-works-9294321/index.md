@@ -33,27 +33,28 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thru Fade Away |
+| A2 | Mindshaker Meltdown |
+| A3 | Half Ass Monkey Boy |
+| A4 | Chloe Dancer/Crown Of Thorns |
+| B1 | Thru Fade Away |
+| B2 | Mindshaker Meltdown |
+| B3 | Half Ass Monkey Boy |
+| B4 | Chloe Dancer/Crown Of Thorns |
+| C1 | This Is Shangrila |
+| C2 | Stardog Champion |
+| C3 | Holy Roller |
+| C4 | Bone China |
+| D1 | Come Bite The Apple |
+| D2 | Stargazer |
+| D3 | Heartshine |
+| E1 | Captain Hi Top |
+| E2 | Man of Golden Words |
+| E3 | Capricorn Sister |
+| F1 | Gentle Groove |
+| F2 | Mr. Danny Boy |
+| F3 | Crown of Thorns |
+
 
 
 ## Apple Music

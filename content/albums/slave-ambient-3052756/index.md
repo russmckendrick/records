@@ -37,18 +37,19 @@ The album was preceded by the EP, Future Weather, in 2010.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Best Night |
+| A2 | Brothers |
+| A3 | I Was There |
+| B1 | Your Love Is Calling My Name |
+| B2 | The Animator |
+| B3 | Come To The City |
+| C1 | Come For It |
+| C2 | It's Your Destiny |
+| C3 | City Reprise #12 |
+| D1 | Baby Missiles |
+| D2 | Original Slave |
+| D3 | Black Water Falls |
+
 
 
 ## Apple Music

@@ -36,22 +36,23 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Worlds Of Yesterday |
+| LP-A2 | Moonshot Manchild |
+| LP-A3 | Kill The Pain That's Killing You |
+| LP-A4 | Nowhere Good To Go |
+| LP-B1 | You'll Be The Silence |
+| LP-B2 | Lost In The Ghost Light |
+| LP-B3 | You Wanted To Be Seen |
+| LP-B4 | Distant Summers |
+| CD-1 | Worlds Of Yesterday |
+| CD-2 | Moonshot Manchild |
+| CD-3 | Kill The Pain That's Killing You |
+| CD-4 | Nowhere Good To Go |
+| CD-5 | You'll Be The Silence |
+| CD-6 | Lost In The Ghost Light |
+| CD-7 | You Wanted To Be Seen |
+| CD-8 | Distant Summers |
+
 
 
 ## Apple Music

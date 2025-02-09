@@ -35,15 +35,16 @@ Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Brennisteinn |
+| A2 | Hrafntinna |
+| B1 | Ísjaki |
+| B2 | Yfirborð |
+| C1 | Stormur |
+| C2 | Kveikur |
+| D1 | Rafstraumur |
+| D2 | Bláþráður |
+| D3 | Var |
+
 
 
 ## Apple Music

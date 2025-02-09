@@ -35,17 +35,18 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Opera Singer |
+| A2 | Meanwhile, Rick James... |
+| A3 | Shadow Stabbing |
+| A4 | Short Skirt / Long Jacket |
+| A5 | Commissioning A Symphony In C |
+| B6 | Arco Arena |
+| B7 | Comfort Eagle |
+| B8 | Long Line Of Cars |
+| B9 | Love You Madly |
+| B10 | Pretty Pink Ribbon |
+| B11 | World Of Two |
+
 
 
 ## Apple Music

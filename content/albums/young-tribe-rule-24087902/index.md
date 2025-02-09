@@ -34,15 +34,16 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Get Me Through (Outta Here) |
+| A2 | Sleep Talking |
+| A3 | Bright Shining Lie |
+| A4 | Cousin Jane |
+| B1 | So Confused |
+| B2 | Get Me Through (Acoustic) |
+| B3 | Rocks Off |
+| B4 | Shine On You (Acoustic) |
+| B5 | The Days Of The Week |
+
 
 
 ## Apple Music

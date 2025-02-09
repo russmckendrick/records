@@ -32,18 +32,19 @@ Laughter is the third studio album by Ian Dury and the Blockheads; released in 1
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sueperman's Big Sister |
+| A2 | Pardon |
+| A3 | Delusions Of Grandeur |
+| A4 | Yes & No (Paula) |
+| A5 | Dance Of The Crackpots |
+| A6 | Over The Points |
+| B1 | (Take Your Elbow Out Of The Soup You're Sitting On The Chicken) |
+| B2 | Uncoolohol |
+| B3 | Hey, Hey, Take Me Away |
+| B4 | Manic Depression (Jimi) |
+| B5 | Oh Mr Peanut |
+| B6 | Fucking Ada |
+
 
 
 ## Apple Music

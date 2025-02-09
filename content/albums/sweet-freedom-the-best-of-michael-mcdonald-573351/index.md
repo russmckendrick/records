@@ -29,18 +29,19 @@ styles: ["Pop Rock", "Soul", "Ballad", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sweet Freedom |
+| A2 | (I'll Be Your) Angel |
+| A3 | Yah Mo B There |
+| A4 | I Gotta Try |
+| A5 | I Keep Forgettin' |
+| A6 | Our Love (Remix) |
+| B1 | On My Own |
+| B2 | No Lookin' Back |
+| B3 | Any Foolish Thing |
+| B4 | That's Why |
+| B5 | What A Fool Believes |
+| B6 | I Can Let Go Now |
+
 
 
 ## Apple Music

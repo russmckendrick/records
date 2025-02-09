@@ -31,21 +31,22 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cowboys Are Frequently, Secretly Fond of Each Other |
+| A2 | The Hurtin' Kind |
+| A3 | Saturday Night's Alright (For Fighting) |
+| B4 | Back At Your Door  |
+| B5 | Chemical Sunset |
+| B6 | Death Valley High |
+| B7 | How Far Will We Take It? |
+| C8 | Miénteme |
+| C9 | Papa Was a Rodeo  |
+| C10 | Midnight Ride  |
+| C11 | Ever You're Gone |
+| D12 | You're An Asshole, I Can't Stand You (And I Want A Divorce) |
+| D13 | Where Are We Now? |
+| D14 | Conquer The Heart |
+| D15 | Rhinestone Cowboy |
+
 
 
 ## Apple Music

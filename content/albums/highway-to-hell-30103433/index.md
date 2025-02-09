@@ -50,16 +50,17 @@ AC/DC had been creating album after album of pulverizing rock 'n' roll for much 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Highway To Hell |
+| A2 | Girls Got Rhythm |
+| A3 | Walk All Over You |
+| A4 | Touch Too Much |
+| A5 | Beating Around The Bush |
+| B1 | Shot Down In Flames |
+| B2 | Get It Hot |
+| B3 | If You Want Blood (You've Got It) |
+| B4 | Love Hungry Man |
+| B5 | Night Prowler |
+
 
 
 ## Apple Music

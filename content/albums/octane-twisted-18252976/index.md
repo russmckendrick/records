@@ -47,31 +47,32 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Incident (Part 1) |
+| A1 | Occam's Razor |
+| A2 | The Blind House |
+| A3 | Great Expectations |
+| A4 | Kneel And Disconnect |
+| A5 | Drawing The Line |
+| A6 | The Incident |
+| A7 | Your Unpleasant Family |
+|  | The Incident (Part 2) |
+| B1 | The Yellow Windows Of The Evening Train |
+| B2 | Time Flies |
+|  | The Incident (Part 3) |
+| C1 | Degree Zero Of Liberty |
+| C2 | Octane Twisted |
+| C3 | The Séance |
+| C4 | Circle Of Manias |
+| C5 | I Drive The Hearse |
+|  | - |
+| D1 | Hatesong |
+| D2 | Stars Die |
+| E3 | Russia On Ice / The Pills I'm Taking |
+| E4 | Bonnie The Cat |
+| F1 | Even Less |
+| G1 | Dislocated Day |
+| G2 | Arriving Somewhere But Not Here |
+
 
 
 ## Apple Music

@@ -30,17 +30,18 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nerve Attack |
+| A2 | Paranoid Core |
+| A3 | Please Mr. Gunman |
+| A4 | Kill Yourself Live |
+| A5 | Night And Fog |
+| B1 | 21st Century Pharisees |
+| B2 | Hey Neanderfuck |
+| B3 | Prosperity Gospel |
+| B4 | Messiah's Lament |
+| B5 | Next Mass Extinction |
+| B6 | Oh Yeah |
+
 
 
 ## Apple Music

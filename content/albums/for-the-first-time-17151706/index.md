@@ -50,12 +50,13 @@ The album received widespread acclaim from music critics for its experimental so
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Instrumental |
+| A2 | Athens, France |
+| A3 | Science Fair |
+| B1 | Sunglasses |
+| B2 | Track X |
+| B3 | Opus |
+
 
 
 ## Apple Music

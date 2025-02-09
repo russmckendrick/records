@@ -32,16 +32,17 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Is Alright Tonite |
+| A2 | Jessie's Girl |
+| A3 | Hole In My Heart |
+| A4 | Carry Me Away |
+| A5 | I've Done Everything For You |
+| B1 | The Light Of Love |
+| B2 | Everybody's Girl |
+| B3 | Daddy's Pearl |
+| B4 | Red Hot & Blue Love |
+| B5 | Inside Silvia |
+
 
 
 ## Apple Music

@@ -30,18 +30,19 @@ Also a protest song against the Vietnam War, "Happy Xmas (War Is Over)" has sinc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | War Is Over |
+| A2 | To The End Of The World |
+| A3 | The Arsonist |
+| B1 | Jerusalem |
+| B2 | Frozen Butterflies |
+| B3 | Who Are You? |
+| C1 | Blindsight |
+| C2 | Long Lost Sailor |
+| C3 | Wanderlust |
+| D1 | Beyond The Storm |
+| D2 | I'll Make It Up To You (Bonus Track) |
+| D3 | New Terrain (Bonus Track) |
+
 
 
 ## Apple Music

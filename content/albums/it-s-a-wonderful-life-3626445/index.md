@@ -34,18 +34,19 @@ It was the band's most successful album commercially, selling over 63,000 copies
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It's A Wonderful Life |
+| A2 | Gold Day |
+| A3 | Piano Fire |
+| A4 | Sea Of Teeth |
+| A5 | Apple Bed |
+| A6 | King Of Nails |
+| B1 | Eyepennies |
+| B2 | Dog Door |
+| B3 | More Yellow Birds |
+| B4 | Little Fat Baby |
+| B5 | Devil's New |
+| B6 | Comfort Me |
+
 
 
 ## Apple Music

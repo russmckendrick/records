@@ -34,16 +34,17 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Motherless Children |
+| A2 | Give Me Strength |
+| A3 | Willie And The Hand Jive |
+| A4 | Get Ready |
+| A5 | I Shot The Sheriff |
+| B1 | I Can't Hold Out Much Longer |
+| B2 | Please Be With Me |
+| B3 | Let It Grow |
+| B4 | Steady Rollin' Man |
+| B5 | Mainline Florida |
+
 
 
 ## Apple Music

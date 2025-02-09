@@ -33,18 +33,19 @@ New Miserable Experience is the second studio album by alternative rock band Gin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lost Horizon |
+| A2 | Hey Jealousy |
+| A3 | Mrs. Rita |
+| A4 | Until I Fall Away |
+| A5 | Hold Me Down |
+| A6 | Cajun Song |
+| B1 | Hands Are Tied |
+| B2 | Found Out About You |
+| B3 | Allison Road |
+| B4 | 29 |
+| B5 | Pieces Of The Night |
+| B5 | Cheatin' |
+
 
 
 ## Apple Music

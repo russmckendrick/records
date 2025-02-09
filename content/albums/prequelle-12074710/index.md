@@ -37,16 +37,17 @@ The album was released with five different versions of the cover art, each with 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ashes |
+| A2 | Rats |
+| A3 | Faith |
+| A4 | See The Light |
+| A5 | Miasma |
+| B1 | Dance Macabre |
+| B2 | Pro Memoria |
+| B3 | Witch Image |
+| B4 | Helvetesfönster |
+| B5 | Life Eternal |
+
 
 
 ## Apple Music

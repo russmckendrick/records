@@ -33,27 +33,28 @@ It is the last album with bassist Dave Pybus, and the first with keyboardist Les
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Fine Day |
+| A2 | Release |
+| A3 | Leave No Trace |
+| A4 | Underworld |
+| A5 | Pressure |
+| B1 | Panic |
+| B2 | Breaking Down The Barriers |
+| B3 | Looking Outside Inside |
+| B4 | A Fine Day To Exit |
+| B5 | Temporary Peace |
+| CD-1 | A Fine Day |
+| CD-2 | Release |
+| CD-3 | Leave No Trace |
+| CD-4 | Underworld |
+| CD-5 | Pressure |
+| CD-6 | Panic |
+| CD-7 | Breaking Down The Barriers |
+| CD-8 | Looking Outside Inside |
+| CD-9 | A Fine Day To Exit |
+| CD-10.1 | Temporary Peace |
+| CD-10.2 | In The Dog's House |
+
 
 
 ## Apple Music

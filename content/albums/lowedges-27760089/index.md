@@ -28,17 +28,18 @@ Slowly but steadily, Richard Hawley has been making his presence known beyond a 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Run For Me |
+| A2 | Darlin' |
+| A3 | Oh My Love |
+| A4 | The Only Road |
+| A5 | On The Ledge |
+| B1 | You Don't Miss Your Water (Till Your River Runs Dry) |
+| B2 | The Motorcycle Song |
+| B3 | It's Over Love |
+| B4 | I'm On Nights |
+| B5 | Danny |
+| B6 | The Nights Are Made For Us |
+
 
 
 ## Apple Music

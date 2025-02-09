@@ -33,17 +33,18 @@ The album was preceded by and contains the hit-single "Geno", which topped the U
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Burn It Down |
+| A2 | Tell Me When My Light Turns Green |
+| A3 | The Teams That Meet In Caffs |
+| A4 | I'm Just Looking |
+| A5 | Geno |
+| B1 | Seven Days Too Long |
+| B2 | I Couldn't Help If I Tried |
+| B3 | Thankfully Not Living In Yorkshire It Doesn't Apply |
+| B4 | Keep It |
+| B5 | Love Part One |
+| B6 | There, There, My Dear |
+
 
 
 ## Apple Music

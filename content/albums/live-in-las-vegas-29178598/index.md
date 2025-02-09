@@ -55,41 +55,42 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Live In Las Vegas At The Joint - The Hard Rock Hotel - IX.XX.MMIII (TMR-953) |
+| A1 | Dead Leaves And The Dirty Ground |
+| A2 | When I Hear My Name |
+| A3 | Not Fade Away |
+| A4 | St. James Infirmary |
+| A5 | Black Math |
+| A6 | The Big Three Killed My Baby |
+| B1 | I Want To Be The Boy To Warm Your Mother's Heart |
+| B2 | Death Letter |
+| B3 | Take A Whiff On Me |
+| B4 | In The Cold, Cold Night |
+| C1 | Wasting My Time |
+| C2 | I Just Don't Know What To Do With Myself |
+| C3 | Offend In Every Way (Aborted) |
+| C4 | The Union Forever |
+| C5 | Seven Nation Army |
+| D1 | You've Got Her In Your Pocket |
+| D2 | I Think I Smell A Rat |
+| D3 | Look Me Over Closely |
+| D4 | Cannon |
+| D5 | Mary Had A Little Lamb |
+| D6 | Cannon (Reprise) |
+| D7 | Ball And Biscuit |
+| D8 | The Hardest Button To Button |
+| E1 | You're Pretty Good Looking |
+| E2 | Hello Operator |
+| E3 | We're Going To Be Friends |
+| E4 | Hotel Yorba |
+| E5 | Fell In Love With A Girl |
+| E6 | Your Southern Can Is Mine |
+| E7 | Screwdriver |
+| E8 | De Ballit Of De Boll Weevil |
+|  | Ball And Biscuit (TMR-954) |
+| G | Ball And Biscuit (Live March 17, 2004) |
+| H | Ball And Biscuit (Live May 2, 2002) |
+
 
 
 ## Apple Music

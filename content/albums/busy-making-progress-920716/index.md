@@ -29,20 +29,18 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Vision |
+| A2 | There Is A Light |
+| A3 | Payday |
+| A4 | Busy Making Progress |
+| A5 | When You Go |
+| B1 | Protoplasmic Crud |
+| B2 | Stop And Think |
+| B3 | Is It Worth The Price |
+| B4 | A Long Long Way To Go ..... |
+| B5 | Changing The Face Of The Earth |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

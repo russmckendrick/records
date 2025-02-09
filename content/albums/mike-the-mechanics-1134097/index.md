@@ -29,15 +29,16 @@ styles: ["Pop Rock", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Silent Running (On Dangerous Ground) |
+| A2 | All I Need Is A Miracle |
+| A3 | Par Avion |
+| A4 | Hanging By A Thread |
+| B1 | I Get The Feeling |
+| B2 | Take The Reins |
+| B3 | You Are The One |
+| B4 | A Call To Arms |
+| B5 | Taken In |
+
 
 
 ## Apple Music

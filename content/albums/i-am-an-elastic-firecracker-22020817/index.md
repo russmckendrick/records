@@ -34,18 +34,19 @@ I Am an Elastic Firecracker (stylized as i am an ELASTIC FIRECRACKER) is the sec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rocketpop |
+| A2 | Bang |
+| A3 | I Got A Girl |
+| A4 | Piranha |
+| A5 | Motivation |
+| A6 | Same Dress New Day |
+| A7 | Trip Along |
+| B1 | Raindrop |
+| B2 | Step Behind |
+| B3 | Noose |
+| B4 | Prick |
+| B5 | High |
+
 
 
 ## Apple Music

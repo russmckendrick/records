@@ -37,19 +37,20 @@ Odelay is the fifth studio album by American musician Beck, released on June 18,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Devils Haircut |
+| A2 | Hotwax |
+| A3 | Lord Only Knows |
+| A4 | The New Pollution |
+| A5 | Derelict |
+| A6 | Novacane |
+| A7 | Jack-Ass |
+| B1 | Where It's At |
+| B2 | Minus |
+| B3 | Sissyneck |
+| B4 | Readymade |
+| B5 | High 5 (Rock The Catskills) |
+| B6 | Ramshackle |
+
 
 
 ## Apple Music

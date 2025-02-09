@@ -35,17 +35,18 @@ styles: ["Country"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | All I Need |
+| A2 | Rex's Blues |
+| A3 | The Hills Of Roane  |
+| A4 | Sky Blue |
+| A5 | Forever, For Always, For Certain |
+| A6 | Blue Ridge Mtns. (Smokey Version) |
+| B1 | Pancho & Lefty |
+| B2 | Snake Song |
+| B3 | Silver Ship of Andilar |
+| B4 | Dream Spider |
+| B5 | Last Thing On My Mind |
+
 
 
 ## Apple Music

@@ -41,20 +41,21 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Civil War |
+| A2 | 14 Years |
+| A3 | Yesterdays |
+| A4 | Knockin' On Heaven's Door |
+| B1 | Get In The Ring |
+| B2 | Shotgun Blues |
+| B3 | Breakdown |
+| C1 | Pretty Tied Up |
+| C2 | Locomotive |
+| C3 | So Fine |
+| D1 | Estranged |
+| D2 | You Could Be Mine |
+| D3 | Don't Cry (Alt. Lyrics) |
+| D4 | My World |
+
 
 
 ## Apple Music

@@ -32,64 +32,65 @@ The album was loosely conceptualised as a performance by a band of clowns under 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Original Album {2020 Remaster} |
+| A1 | A Little Man And A House |
+| A2 | In A City Lining |
+| A3 | Is This The Life |
+| A4 | Interlude |
+| A5 | Dive |
+| B1 | The Icing On The World |
+| B2 | The Breakfast Line |
+| B3 | Victory Egg |
+| B4 | R.E.S. |
+| B5 | The Whole World Window |
+|  | Original Album {2020 Remaster} |
+|  | A Little Man And A House And The Whole World Window |
+| CD1-1 | A Little Man And A House |
+| CD1-2 | In A City Lining |
+| CD1-3 | I'm Eating In Bed |
+| CD1-4 | Is This The Life |
+| CD1-5 | Interlude |
+| CD1-6 | Dive |
+| CD1-7 | The Icing On The World |
+| CD1-8 | The Breakfast Line |
+| CD1-9 | Victory Egg |
+| CD1-10 | R.E.S. |
+| CD1-11 | The Whole World Window |
+|  | The Workhouse Sessions |
+|  | There's Too Many Irons In The Fire |
+| CD2-1 | There's Too Many Irons In The Fire {2021 Remaster} |
+| CD2-2 | All Spectacular {2021 Remaster} |
+| CD2-3 | Loosefish Scapegrace {2021 Remaster} |
+|  | Is This The Life |
+| CD2-4 | Goosegash {2021 Remaster} |
+|  | - |
+| CD2-5 | Gina Lollabrigida {Unreleased 2021 Remaster} |
+|  | The Radio Sessions |
+|  | Radio Leeds Session |
+| CD3-1 | Intro / The Icing On The World {2021 Remaster} |
+| CD3-2 | I'm Eating In Bed {2021 Remaster} |
+| CD3-3 | Goosegash {2021 Remaster} |
+| CD3-4 | Loosefish Scapegrace {2021 Remaster} |
+| CD3-5 | There's Too Many Irons In The Fire {2021 Remaster} |
+| CD3-6 | Is This The Life {2021 Remaster} |
+|  | BBC Radio 1 Janice Long Session |
+| CD3-7 | R.E.S. {2021 Remaster} |
+| CD3-8 | Buds And Spawn {2021 Remaster} |
+| CD3-9 | In A City Lining {2021 Remaster} |
+| CD3-10 | Cameras {2021 Remaster} |
+| CD3-11 | Is This The Life {2021 Remaster} |
+|  | The 1987 Concert {Recorded At The Town & Country Club, Kentish Town, London. Sunday 7th June 1987} |
+| CD4-1 | To Go Off And Things |
+| CD4-2 | In A City Lining |
+| CD4-3 | Gina Lollabrigida |
+| CD4-4 | There's Too Many Irons In The Fire |
+| CD4-5 | Goosegash |
+| CD4-6 | Loosefish Scapegrace |
+| CD4-7 | Big Ship |
+| CD4-8 | Cameras |
+| CD4-9 | Is This The Life |
+| CD4-10 | The Whole World Window |
+
 
 
 ## Apple Music

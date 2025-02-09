@@ -44,26 +44,27 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Part 1 |
+| A1 | Spirit Power & Soul |
+| A2 | Receiver |
+| A3 | All These Days |
+| A4 | Ariel |
+|  | Part 2 |
+| B1 | Lightning People |
+| B2 | Hideaway Girl |
+| B3 | Sensory Street |
+| B4 | Tenement Time |
+|  | Part 3 |
+| C1 | The Speed Of Love |
+| C2 | Night And Day |
+| C3 | Counter-clock World |
+| C4 | Rubicon |
+|  | Part 4 |
+| D1 | God's Gift |
+| D2 | Ghoster |
+| D3 | The Whirl |
+| D4 | Human |
+
 
 
 ## Apple Music

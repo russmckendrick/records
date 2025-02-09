@@ -30,20 +30,21 @@ Now for a Feast! is a compilation album by English rock band Pop Will Eat Itself
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Black Country Chainstore Massacreee |
+| A2 | Monogamy |
+| A3 | Oh Grebo I Think I Love You |
+| A4 | Titanic Clown |
+| A5 | B-B-B-Breakdown |
+| A6 | Sweet Sweet Pie |
+| A7 | Like An Angel |
+| B1 | I'm Sniffin With You Hoo |
+| B2 | Sick Little Girl |
+| B3 | Mesmerized |
+| B4 | There's A Psychopath In My Soup |
+| B5 | Candydiosis |
+| B6 | The Devil Inside |
+| B7 | Orgone Accumulator |
+
 
 
 ## Apple Music

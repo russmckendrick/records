@@ -32,11 +32,12 @@ styles: ["Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A | Magnetic Fields Part 1 |
+| B1 | Magnetic Fields Part 2 |
+| B2 | Magnetic Fields Part 3 |
+| B3 | Magnetic Fields Part 4 |
+| B4 | Magnetic Fields Part 5 (The Last Rumba) |
+
 
 
 ## Apple Music

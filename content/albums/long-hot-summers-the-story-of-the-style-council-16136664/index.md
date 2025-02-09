@@ -27,38 +27,39 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Headstart For Happiness |
+| A2 | Long Hot Summer |
+| A3 | My Ever Changing Moods |
+| A4 | Walls Come Tumbling Down! |
+| A5 | Party Chambers |
+| B1 | Wanted (Or Waiter, There's Some Soup In My Flies) |
+| B2 | Shout To The Top! |
+| B3 | It Just Came To Pieces In My Hands |
+| B4 | Come To Milton Keynes |
+| B5 | Why I Went Missing |
+| B6 | Waiting |
+| C1 | Ghosts Of Dachau |
+| C2 | Down In The Seine |
+| C3 | The Paris Match |
+| C4 | Life At The Top People's Health Farm (Remix) |
+| C5 | Dropping Bombs On The White House |
+| D1 | Speak Like A Child |
+| D2 | The Lodgers (Or She Was Only A Shopkeeper's Daughter) |
+| D3 | Money-Go-Round (Single Edit) |
+| D4 | You're The Best Thing |
+| D5 | How She Threw It All Away |
+| E1 | A Man Of Great Promise |
+| E2 | The Piccadilly Trail |
+| E3 | A Solid Bond In Your Heart |
+| E4 | Sweet Loving Ways |
+| E5 | Promised Land (Single Edit) |
+| E6 | It Didn't Matter |
+| F1 | Have You Ever Had It Blue (Uncut Version) |
+| F2 | Spin Drifting |
+| F3 | Here's One That Got Away |
+| F4 | Changing Of The Guard |
+| F5 | My Ever-Changing Moods (Demo) |
+
 
 
 ## Apple Music

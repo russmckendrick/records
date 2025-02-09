@@ -30,16 +30,17 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In Company |
+| A2 | The Sequel |
+| A3 | Message To |
+| A4 | A Father's Lament |
+| A5 | Our Angel Polygon |
+| B1 | Cry A Spiral |
+| B2 | It's The End, The End |
+| B3 | Pretty Mire, Be My Friend |
+| B4 | E.B. |
+| B5 | Orange Synthetic |
+
 
 
 ## Apple Music

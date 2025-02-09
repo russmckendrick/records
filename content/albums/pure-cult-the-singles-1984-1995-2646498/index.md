@@ -32,29 +32,27 @@ styles: ["Alternative Rock", "Hard Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Sells Sanctuary |
+| A2 | Fire Woman |
+| A3 | Lil' Devil |
+| A4 | Spiritwalker |
+| A5 | The Witch |
+| B1 | Revolution |
+| B2 | Love Removal Machine |
+| B3 | Rain |
+| B4 | In The Clouds |
+| B5 | Coming Down (Drug Tongue) |
+| C1 | Edie (Ciao Baby) |
+| C2 | Heart Of Soul |
+| C3 | Wild Flower |
+| C4 | Star |
+| D1 | Resurrection Joe |
+| D2 | Go West |
+| D3 | Sun King |
+| D4 | Wild Hearted Son |
+| D5 | Sweet Soul Sister |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

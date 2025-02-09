@@ -50,15 +50,16 @@ Bon Scott, Angus Young and Malcolm Young hit on a new level of songwriting matur
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rock'N'Roll Damnation |
+| A2 | Down Payment Blues |
+| A3 | Gimme A Bullet |
+| A4 | Riff Raff |
+| B1 | Sin City |
+| B2 | What's Next To The Moon |
+| B3 | Gone Shootin' |
+| B4 | Up To My Neck In You |
+| B5 | Kicked In The Teeth |
+
 
 
 ## Apple Music

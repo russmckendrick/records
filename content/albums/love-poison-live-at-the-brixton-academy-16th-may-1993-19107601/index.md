@@ -36,19 +36,20 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro / The Next Life |
+| A2 | Moving |
+| A3 | Animal Nitrate |
+| A4 | My Insatiable One |
+| B1 | Metal Mickey |
+| B2 | Pantomime Horse |
+| B3 | He’s Dead |
+| C1 | The Drowners |
+| C2 | Painted People |
+| C3 | She’s Not Dead |
+| D1 | To The Birds |
+| D2 | Sleeping Pills |
+| D3 | So Young |
+
 
 
 ## Apple Music

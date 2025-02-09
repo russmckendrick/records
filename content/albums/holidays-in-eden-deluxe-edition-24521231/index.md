@@ -82,44 +82,45 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Holidays In Eden (2022 Re-Mix) |
+| A1 | Splintering Heart |
+| A2 | Cover My Eyes (Pain & Heaven) |
+| A3 | The Party |
+| A4 | No One Can |
+| B1 | Holidays In Eden |
+| B2 | Dry Land |
+| B3 | Waiting To Happen |
+| B4 | This Town |
+| B5 | The Rake's Progress |
+| B6 | 100 Nights |
+|  | Live In Hammersmith 30th September 1991 (Pt.1) |
+| C1 | Splintering Heart |
+| C2 | Dry Land |
+| C3 | The King Of Sunset Town |
+| D1 | Garden Party |
+| D2 | The Party |
+| D3 | Easter |
+|  | Live In Hammersmith 30th September 1991 (Pt.2) |
+| E1 | The Space ... |
+| E2 | Holloway Girl |
+| E3 | A Collection |
+| E4 | Waiting To Happen |
+| F1 | Cover My Eyes (Pain & Heaven) |
+| F2 | Lords Of The Backstage |
+| F3 | Blind Curve |
+| F4 | The Uninvited Guest |
+| F5 | No One Can |
+|  | Live In Hammersmith 30th September 1991 (Pt.3) |
+| G1 | This Town |
+| G2 | The Rake's Progress |
+| G3 | 100 Nights |
+| G4 | Slàinthe Mhath |
+| G5 | Holidays In Eden |
+| H1 | Hooks In You |
+| H2 | Berlin |
+| H3 | Kayleigh |
+| H4 | Incommunicado |
+
 
 
 ## Apple Music

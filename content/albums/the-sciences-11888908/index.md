@@ -48,12 +48,13 @@ Sleep’s <i>The Sciences</i> begins with a three-minute warm-up of the same nam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Sciences |
+| A2 | Marijuanaut's Theme |
+| B | Sonic Titan |
+| C | Antarcticans Thawed |
+| D1 | Giza Butler |
+| D2 | The Botanist |
+
 
 
 ## Apple Music

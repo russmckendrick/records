@@ -36,34 +36,35 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | LP |
+| A1 | Left Brain Ambassadors |
+| A2 | Wonderful World |
+| A3 | Sedated |
+| A4 | Angel Of Betrayal |
+| A5 | Blessed |
+| A6 | Per Aspera Ad Astra |
+| A7 | Save Your Soul |
+| B1 | Until The Morning |
+| B2 | Escaping The Fools |
+| B3 | On Dark Rivers |
+| B4 | The Goddess |
+| B5 | Mantra |
+|  | CD |
+| 1 | Left Brain Ambassadors |
+| 2 | Wonderful World |
+| 3 | Sedated |
+| 4 | Angel Of Betrayal |
+| 5 | Blessed |
+| 6 | Per Aspera Ad Astra |
+| 7 | Save Your Soul |
+| 8 | Until The Morning |
+| 9 | Escaping The Fools |
+| 10 | On Dark Rivers |
+| 11 | The Goddess |
+| 12 | Mantra |
+|  | CD - Bonus Track |
+| 13 | Let The Magic Talk |
+
 
 
 ## Apple Music

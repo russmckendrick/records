@@ -32,13 +32,14 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Closed For Business |
+| A2 | K.I.DOUBLE.S.I.N.G. |
+| A3 | Everyone Must Win |
+| B1 | The World's Still Open |
+| B2 | Dark Mavis (Acoustic) |
+| B3 | Stripper Vicar (Live) |
+| B4 | Egg Shaped Fred (Acoustic) |
+
 
 
 ## Apple Music

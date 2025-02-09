@@ -37,16 +37,17 @@ Gold Against the Soul takes to an extreme the hard rock sound of its predecessor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sleepflower |
+| A2 | From Despair To Where |
+| A3 | La Tristesse Durera (Scream To A Sigh) |
+| A4 | Yourself |
+| A5 | Life Becoming A Landslide |
+| B1 | Drug Drug Druggy |
+| B2 | Roses In The Hospital |
+| B3 | Nostalgic Pushead |
+| B4 | Symphony Of Tourette |
+| B5 | Gold Against The Soul |
+
 
 
 ## Apple Music

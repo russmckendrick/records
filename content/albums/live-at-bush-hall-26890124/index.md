@@ -44,15 +44,16 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Up Song |
+| A2 | The Boy |
+| A3 | I Won’t Always Love You |
+| A4 | Across The Pond Friend |
+| A5 | Laughing Song |
+| B1 | The Wrong Trousers |
+| B2 | Turbines/Pigs |
+| B3 | Dancers |
+| B4 | Up Song (Reprise) |
+
 
 
 ## Apple Music

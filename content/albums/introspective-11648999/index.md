@@ -35,12 +35,13 @@ Introspective is the third studio album by English synth-pop duo Pet Shop Boys, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Left To My Own Devices |
+| A2 | I Want A Dog |
+| A3 | Domino Dancing |
+| B1 | I'm Not Scared |
+| B2 | Always On My Mind / In My House |
+| B3 | It's Alright |
+
 
 
 ## Apple Music

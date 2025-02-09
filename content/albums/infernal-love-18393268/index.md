@@ -35,17 +35,18 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Epilepsy |
+| A2 | Stories |
+| A3 | A Moment Of Clarity |
+| A4 | Jude The Obscene |
+| A5 | Bowels Of Love |
+| A6 | Misery |
+| B1 | Bad Mother |
+| B2 | Me Vs You |
+| B3 | Loose |
+| B4 | Diane |
+| B5 | 30 Seconds |
+
 
 
 ## Apple Music

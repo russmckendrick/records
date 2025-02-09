@@ -35,16 +35,17 @@ Hello, I Must Be Going! received a more reserved commercial reaction than Face V
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Don't Care Anymore |
+| A2 | I Cannot Believe It's True |
+| A3 | Like China |
+| A4 | Do You Know, Do You Care? |
+| A5 | You Can't Hurry Love |
+| B1 | It Don't Matter To Me |
+| B2 | Thru These Walls |
+| B3 | Don't Let Him Steal Your Heart Away |
+| B4 | The West Side |
+| B5 | Why Can't It Wait 'til Morning |
+
 
 
 ## Apple Music

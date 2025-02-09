@@ -32,17 +32,18 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dear Maro |
+| A2 | Underground |
+| A3 | Electricity |
+| A4 | Deprivation |
+| B1 | Neon |
+| B2 | Izanami |
+| B3 | Nine |
+| C1 | Escalator |
+| C2 | Sleep Paralysis |
+| D1 | Who's Master? |
+| D2 | Ghosts When It Rains |
+
 
 
 ## Apple Music

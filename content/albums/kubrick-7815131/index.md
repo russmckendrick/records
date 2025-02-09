@@ -30,26 +30,24 @@ Kubrick is the sixth full-length studio album by electronica production duo Soul
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | DeLarge |
+| A2 | Clay |
+| A3 | Torrance |
+| A4 | Dax |
+| B1 | Joker |
+| B2 | Hal |
+| B3 | Mandrake |
+| B4 | Ziegler |
+| CD-1 | DeLarge |
+| CD-2 | Clay |
+| CD-3 | Torrance |
+| CD-4 | Dax |
+| CD-5 | Joker |
+| CD-6 | Hal |
+| CD-7 | Mandrake |
+| CD-8 | Ziegler |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

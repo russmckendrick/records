@@ -43,16 +43,17 @@ After his breakthrough <i>Lost in The Dream</i>, Adam Granduciel takes things a 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Up All Night |
+| A2 | Pain |
+| A3 | Holding On |
+| B1 | Strangest Thing |
+| B2 | Knocked Down |
+| B3 | Nothing To Find |
+| C1 | Thinking Of A Place |
+| C2 | In Chains |
+| D1 | Clean Living |
+| D2 | You Don't Have To Go |
+
 
 
 ## Apple Music

@@ -37,18 +37,19 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sunday Morning |
+| A2 | I'm Waiting For My Man |
+| A3 | Femme Fatale |
+| A4 | Venus In Furs |
+| A5 | Run Run Run |
+| A6 | All Tomorrow's Parties |
+| A7 | I'll Be Your Mirror |
+| B1 | Heroin |
+| B2 | There She Goes Again |
+| B3 | The Black Angel's Death Song |
+| B4 | European Son |
+| B5 | Chelsea Girls |
+
 
 
 ## Apple Music

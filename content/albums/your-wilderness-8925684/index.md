@@ -34,14 +34,15 @@ Your Wilderness is the eleventh studio album by British rock band The Pineapple 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | In Exile |
+| A2 | No Man's Land |
+| A3 | Tear You Up |
+| A4 | That Shore |
+| B1 | Take Your Shot |
+| B2 | Fend For Yourself |
+| B3 | The Final Thing On My Mind |
+| B4 | Where We Stood |
+
 
 
 ## Apple Music

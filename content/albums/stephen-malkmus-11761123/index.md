@@ -34,18 +34,19 @@ Stephen Joseph Malkmus ( MALK-miss; born May 30, 1966) is an American musician b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Book |
+| A2 | Phantasies |
+| A3 | Jo Jo's Jacket |
+| A4 | Church On White |
+| A5 | The Hook |
+| A6 | Discretion Grove |
+| B1 | Troubbble |
+| B2 | Pink India |
+| B3 | Trojan Curfew |
+| B4 | Vague Space |
+| B5 | Jenny & The Ess-Dog |
+| B6 | Deado |
+
 
 
 ## Apple Music

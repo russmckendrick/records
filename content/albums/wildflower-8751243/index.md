@@ -45,48 +45,49 @@ Teasing of the album began in April 2016, and it was formally announced in June 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Leaves Were Falling |
+| A2 | Because I'm Me |
+| A3 | Frankie Sinatra |
+| A4 | Subways |
+| A5 | Going Home |
+| A6 | If I Was A Folkstar |
+| B7 | Colours |
+| B8 | Zap! |
+| B9 | The Noisy Eater |
+| B10 | Wildflower |
+| B11 | Harmony |
+| B12 | Live A Lifetime Love |
+| C13 | Park Music |
+| C14 | Livin' Underwater (Is Somethin' Wild) |
+| C15 | The Wozard Of Iz |
+| C16 | Over The Turnstiles |
+| C17 | Sunshine |
+| D18 | Light Up |
+| D19 | Kaleidoscopic Lovers |
+| D20 | Stepkids |
+| D21 | Saturday Night Inside Out |
+| CD1-1 | The Leaves Were Falling |
+| CD1-2 | Because I'm Me |
+| CD1-3 | Frankie Sinatra |
+| CD1-4 | Subways |
+| CD1-5 | Going Home |
+| CD1-6 | If I Was A Folkstar |
+| CD1-7 | Colours |
+| CD1-8 | Zap! |
+| CD1-9 | The Noisy Eater |
+| CD1-10 | Wildflower |
+| CD1-11 | Harmony |
+| CD1-12 | Live A Lifetime Love |
+| CD1-13 | Park Music |
+| CD1-14 | Livin' Underwater (Is Somethin' Wild) |
+| CD1-15 | The Wozard Of Iz |
+| CD1-16 | Over The Turnstiles |
+| CD1-17 | Sunshine |
+| CD1-18 | Light Up |
+| CD1-19 | Kaleidoscopic Lovers |
+| CD1-20 | Stepkids |
+| CD1-21 | Saturday Night Inside Out |
+
 
 
 ## Apple Music

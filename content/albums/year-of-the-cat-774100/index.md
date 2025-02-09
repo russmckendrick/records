@@ -37,15 +37,16 @@ Stewart had all of the music and orchestration written and completely recorded b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lord Grenville |
+| A2 | On The Border |
+| A3 | Midas Shadow |
+| A4 | Sand In Your Shoes |
+| A5 | If It Doesn't Come Naturally, Leave It |
+| B1 | Flying Sorcery |
+| B2 | Broadway Hotel |
+| B3 | One Stage Before |
+| B4 | Year Of The Cat |
+
 
 
 ## Apple Music

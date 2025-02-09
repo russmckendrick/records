@@ -31,13 +31,11 @@ styles: ["Soundtrack", "Soft Rock", "Breaks", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| A | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskimo Pussy Mix) |
+| B1 | Full Metal Jacket (I Wanna Be Your Drill Instructor) (Eskipo Mussy Mix) |
+| B2 | Sniper (Fade) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -46,17 +46,18 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pay Your Way In Pain |
+| A2 | Down And Out Downtown |
+| A3 | Daddy's Home |
+| A4 | Live In The Dream |
+| A5 | The Melting Of The Sun |
+| B1 | The Laughing Man |
+| B2 | Down |
+| B3 | Somebody Like Me |
+| B4 | My Baby Wants A Baby |
+| B5 | ...At The Holiday Party |
+| B6 | Candy Darling |
+
 
 
 ## Apple Music

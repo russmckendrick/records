@@ -35,18 +35,19 @@ Casual Sex in the Cineplex is the debut album by the Sultans of Ping FC, recorde
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Back In A Tracksuit |
+| A2 | Indeed You Are |
+| A3 | Veronica |
+| A4 | 2 Pints Of Rasa |
+| A5 | Stupid Kid |
+| A6 | You Talk Too Much |
+| B1 | Give Him A Ball (And A Yard Of Grass) |
+| B2 | Karaoke Queen |
+| B3 | Let's Go Shopping |
+| B4 | Kick Me With Your Leather Boots |
+| B5 | Clitus Clarke |
+| B6 | Where's Me Jumper? |
+
 
 
 ## Apple Music

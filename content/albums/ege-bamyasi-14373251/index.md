@@ -42,13 +42,14 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pinch |
+| A2 | Sing Swan Song |
+| A3 | One More Night |
+| B1 | Vitamin C |
+| B2 | Soup |
+| B3 | I'm So Green |
+| B4 | Spoon |
+
 
 
 ## Apple Music

@@ -34,18 +34,19 @@ American Thighs is the 1994 debut studio album by American alternative rock band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Get Back |
+| A2 | All Hail Me |
+| A3 | Seether |
+| A4 | Spiderman '79 |
+| A5 | Forsythia |
+| A6 | Wolf |
+| B1 | Celebrate You |
+| B2 | Fly |
+| B3 | Number One Blind |
+| B4 | Victrola |
+| B5 | Twinstar |
+| B6 | 25 |
+
 
 
 ## Apple Music

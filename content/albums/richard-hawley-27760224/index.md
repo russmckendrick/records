@@ -30,18 +30,19 @@ Richard Willis Hawley (born 17 January 1967) is an English singer-songwriter, gu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Coming Home |
+| A2 | Bang To Rights |
+| 3A | Sunflower |
+| A4 | Caravan |
+| A5 | Naked In Pitsmoor |
+| A6 | Time Has Made A Change |
+| B1 | Happy Families |
+| B2 | Caned |
+| B3 | Cheap Spanish Whine |
+| B4 | Sick Pay |
+| B5 | Troublesome Waters |
+| B6 | Aran Loop |
+
 
 
 ## Apple Music

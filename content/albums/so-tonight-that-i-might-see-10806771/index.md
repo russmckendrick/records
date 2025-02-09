@@ -30,16 +30,17 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fade Into You |
+| A2 | Bells Ring |
+| A3 | Mary Of Silence |
+| A4 | Five String Serenade |
+| A5 | Blue Light |
+| B1 | She's My Baby |
+| B2 | Unreflected |
+| B3 | Wasted |
+| B4 | Into Dust |
+| B5 | So Tonight That I Might See |
+
 
 
 ## Apple Music

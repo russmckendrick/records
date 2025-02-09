@@ -34,17 +34,18 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Five Seconds |
+| A2 | Mojo |
+| A3 | Don't Even Trip |
+| A4 | Getaway |
+| A5 | Your Neighborhood Spaceman |
+| B1 | Kill The DJ |
+| B2 | Caipirinha |
+| B3 | Celebrity Death Match |
+| B4 | How U Feelin? |
+| B5 | Sucker |
+| B6 | We're Not Alone (Remix) |
+
 
 
 ## Apple Music

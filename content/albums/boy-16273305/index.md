@@ -43,18 +43,19 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Will Follow |
+| A2 | Twilight |
+| A3 | An Cat Dubh |
+| A4 | Into The Heart |
+| A5 | Out Of Control |
+| B1 | Stories For Boys |
+| B2 | The Ocean |
+| B3 | A Day Without Me |
+| B4 | Another Time, Another Place |
+| B5 | The Electric Co. |
+| B6 | Shadows And Tall Trees |
+| B7 | Saturday Night (snipped) |
+
 
 
 ## Apple Music

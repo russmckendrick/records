@@ -33,42 +33,43 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Apollo Greeter |
+| A2 | Opening, The Apollo Theater |
+| A3 | Take The 'A' Train |
+| A4 | Memphis Blues |
+| A5 | Interview Excerpt |
+| A6 | How High Is The Moon |
+| A7 | Old Man Blues |
+| A8 | She's Something Spanish |
+| A9 | Jive At Five |
+| B1 | Interview Excerpt |
+| B2 | Strange Fruit |
+| B3 | Interview Excerpt |
+| B4 | What's Going On |
+| B5 | Interview Excerpt |
+| B6 | Say It Loud-I'm Black And I'm Proud |
+| B7 | Interview Excerpt |
+| B9 | Apollo As Home |
+| B9 | Home Is Where The Heart Is |
+| C1 | Mission Statement |
+| C2 | Come Sunday |
+| C3 | Lost Someone (Live At The Apollo) |
+| C4 | Schiffman Cards |
+| C5 | T'aint No Use |
+| C6 | Obama Returns To The Apollo |
+| C7 | Rock Steady |
+| D1 | Asphalt Canyon Blues |
+| D2 | Something's Got A Hold On Me |
+| D3 | Harlem Riots |
+| D4 | Duke's Last Soliloquy |
+| D5 | Ta-Nehisi Coates And T. Griffin |
+| D6 | Don't Turn Back Now |
+| D7 | At The Apollo Theater, January 19, 2012 |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="6pjGpesm1IXSEQ0VEdebo2" width="100%" height="500" >}}<br>
 
 
 

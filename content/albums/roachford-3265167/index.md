@@ -32,16 +32,17 @@ styles: ["Pop Rock", "Contemporary R&B", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Give It Up |
+| A2 | Family Man |
+| A3 | Cuddly Toy |
+| A4 | Find Me Another Love |
+| A5 | No Way |
+| B1 | Kathleen |
+| B2 | Beautiful Morning |
+| B3 | Lying Again |
+| B4 | Since |
+| B5 | Nobody But You |
+
 
 
 ## Apple Music

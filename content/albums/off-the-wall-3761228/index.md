@@ -39,16 +39,17 @@ Off the Wall was a significant departure from Jackson's previous work for Motown
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Don't Stop 'Til You Get Enough |
+| A2 | Rock With You |
+| A3 | Working Day And Night |
+| A4 | Get On The Floor |
+| B1 | Off The Wall |
+| B2 | Girlfriend |
+| B3 | She's Out Of My Life |
+| B4 | I Can't Help It |
+| B5 | It's The Falling In Love |
+| B6 | Burn This Disco Out |
+
 
 
 ## Apple Music

@@ -38,17 +38,18 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Monday Morning |
+| A2 | Warm Ways |
+| A3 | Blue Letter |
+| A4 | Rhiannon |
+| A5 | Over My Head |
+| A6 | Crystal |
+| B1 | Say You Love Me |
+| B2 | Landslide |
+| B3 | World Turning |
+| B4 | Sugar Daddy |
+| B5 | I'm So Afraid |
+
 
 
 ## Apple Music

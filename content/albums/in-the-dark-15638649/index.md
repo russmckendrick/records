@@ -29,18 +29,19 @@ In the Dark is the second international album release by the reggae singing grou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Got To Be There |
+| A2 | In The Dark |
+| A3 | Having A Party |
+| A4 | Time Tough |
+| A5 | I See You |
+| A6 | Take A Look In The Mirror |
+| B1 | Take Me Home Country Roads |
+| B2 | Fever |
+| B3 | Love Gonna Walk Out On Me |
+| B4 | Revolution |
+| B5 | 54-36 |
+| B6 | Sailing On |
+
 
 
 ## Apple Music

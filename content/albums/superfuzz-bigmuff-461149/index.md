@@ -38,14 +38,15 @@ Superfuzz Bigmuff is the debut album and first major release by the Seattle grun
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Here |
+| A1 | Touch Me I'm Sick |
+| A2 | Chain That Door |
+| A3 | Mudride |
+|  | There |
+| B1 | No One Has |
+| B2 | If I Think |
+| B3 | In 'N' Out Of Grace |
+
 
 
 ## Apple Music

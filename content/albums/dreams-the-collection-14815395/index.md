@@ -30,17 +30,18 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Linger |
+| A2 | Dreams |
+| A3 | When You're Gone |
+| A4 | Dreaming My Dreams |
+| A5 | Ridiculous Thoughts |
+| B1 | Zombie |
+| B2 | Just My Imagination |
+| B3 | Analyse |
+| B4 | Promises |
+| B5 | I Can't Be With You |
+| B6 | Salvation |
+
 
 
 ## Apple Music

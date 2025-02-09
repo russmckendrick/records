@@ -33,17 +33,18 @@ On their second studio album, the British power trio subdues blues grooves to cr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Strange Brew |
+| A2 | Sunshine Of Your Love |
+| A3 | World Of Pain |
+| A4 | Dance The Night Away |
+| A5 | Blue Condition |
+| B1 | Tales Of Brave Ulysses |
+| B2 | Swlabr |
+| B3 | We're Going Wrong |
+| B4 | Outside Woman Blues |
+| B5 | Take It Back |
+| B6 | Mother's Lament |
+
 
 
 ## Apple Music

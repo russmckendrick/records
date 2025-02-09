@@ -27,20 +27,18 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Burning Heart |
+| A2 | Heart's On Fire |
+| A3 | Double Or Nothing |
+| A4 | Eye Of The Tiger |
+| A5 | War / Fanfare From Rocky |
+| B1 | Living In America |
+| B2 | No Easy Way Out |
+| B3 | One Way Street |
+| B4 | The Sweetest Victory |
+| B5 | Training Montage |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

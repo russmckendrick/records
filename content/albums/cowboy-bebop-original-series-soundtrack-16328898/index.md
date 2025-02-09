@@ -37,28 +37,29 @@ styles: ["Soundtrack", "Score", "Anison"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tank! |
+| A2 | Rush |
+| A3 | Spokey Dokey |
+| A4 | Bad Dog No Biscuits |
+| A5 | Cat Blues |
+| B1 | Cosmos |
+| B2 | Space Lion |
+| B3 | Waltz For Zizi |
+| B4 | Piano Black |
+| B5 | Pot City |
+| C1 | Too Good Too Bad |
+| C2 | Car 24 |
+| C3 | The Egg And I |
+| C4 | Felt Tip Pen |
+| C5 | Rain |
+| C6 | Digging My Potato |
+| C7 | Memory |
+| D1 | What Planet Is This? |
+| D2 | Diamonds |
+| D3 | Mushroom Hunting |
+| D4 | Einstein Groovin’ |
+| D5 | Pearls |
+
 
 
 ## Apple Music

@@ -29,20 +29,21 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ghostbusters |
+| A2 | Cleanin' Up The Town |
+| A3 | Savin' The Day |
+| A4 | In The Name Of Love |
+| A5 | I Can Wait Forever |
+| B1 | Hot Night |
+| B2 | Magic |
+| B3 | Main Title Theme (Ghostbusters) |
+| B4 | Dana's Theme |
+| B5 | Ghostbusters (Instrumental Version) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="0epcJ1L57tp3SF30aKyeWa" width="100%" height="500" >}}<br>
 
 
 

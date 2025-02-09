@@ -44,18 +44,19 @@ Disintegration became the band's highest charting album to that point, reaching 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Plainsong |
+| A2 | Pictures Of You |
+| A3 | Closedown |
+| B1 | Lovesong |
+| B2 | Last Dance |
+| B3 | Lullaby |
+| B4 | Fascination Street |
+| C1 | Prayers For Rain |
+| C2 | The Same Deep Water As You |
+| D1 | Disintegration |
+| D2 | Homesick |
+| D3 | Untitled |
+
 
 
 ## Apple Music

@@ -31,15 +31,16 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Deserted Skies |
+| A2 | Floating Cube |
+| A3 | To Light Alone I Bow |
+| A4 | Hourglass |
+| A5 | Omniverse |
+| B1 | Black Mollies |
+| B2 | Scalar Wave |
+| B3 | Shunting Yard |
+| B4 | Dirge |
+
 
 
 ## Apple Music

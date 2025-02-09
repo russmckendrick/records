@@ -33,23 +33,24 @@ The album was re-released on 20 May 2002 with a slipcase to match the artwork of
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Only One I Know |
+| A2 | Then |
+| A3 | Opportunity Three |
+| A4 | Over Rising |
+| B1 | Sproston Green (US Version) |
+| B2 | Weirdo |
+| B3 | Theme From The Wish |
+| B4 | Patrol (The Chemical Brothers Mix) |
+| C1 | Can't Get Out Of Bed |
+| C2 | I Never Want An Easy Life If Me & He Were Ever To Get There |
+| C3 | Jesus Hairdo |
+| C4 | Crashin' In |
+| C5 | Just Lookin' |
+| D1 | Here Comes A Soul Saver |
+| D2 | Just When You're Thinkin' Things Over |
+| D3 | One To Another |
+| D4 | North Country Boy |
+
 
 
 ## Apple Music

@@ -32,21 +32,19 @@ styles: ["New Wave", "Alternative Rock", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Magic Carpet Ride |
+| A2 | Tainted Love |
+| A3 | No More Tears (Enough Is Enough) |
+| A4 | Kodachrome |
+| A5 | Can't Take My Eyes Off You |
+| A6 | It's A Free World Baby |
+| B1 | Soul To Squeeze |
+| B2 | Fight The Power |
+| B3 | Little Renee |
+| B4 | Chale Jao |
+| B5 | Conehead Love |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -32,28 +32,29 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | For The Dead |
+| A2 | Be My Light, Be My Guide |
+| A3 | I Can't Help Myself |
+| A4 | This Is Not My Crime |
+| A5 | Sleep Well Tonight |
+| A6 | Haunted By You |
+| B1 | London, Can You Wait? |
+| B2 | Olympian |
+| B3 | Fighting Fit |
+| B4 | We Could Be Kings |
+| B5 | Where Are They Now? |
+| B6 | Long Sleeves For The Summer |
+| C1 | Speak To Me Someone |
+| C2 | As Good As It Gets |
+| C3 | Fill Her Up |
+| C4 | You'll Never Walk Again |
+| C5 | Stop |
+| D1 | Is It Over? |
+| D2 | Yours For The Taking |
+| D3 | O Lover |
+| D4 | Somewhere In The World |
+| D5 | Let Me Move On (Long Version) |
+
 
 
 ## Apple Music

@@ -32,25 +32,23 @@ styles: ["Soundtrack", "Downtempo", "Post Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro / Tokyo |
+| A2 | City Girl |
+| A3 | Shibuya |
+| A4 | Fantino |
+| A5 | Goodbye |
+| A6 | Girls |
+| A7 | Tommib |
+| A8 | Too Young |
+| B1 | Kaze Wo Atsumete |
+| B2 | On The Subway |
+| B3 | Ikebana |
+| B4 | Sometimes |
+| B5 | Alone In Kyoto |
+| B6 | Are You Awake? |
+| B7 | Just Like Honey |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

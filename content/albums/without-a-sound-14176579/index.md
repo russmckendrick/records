@@ -44,24 +44,25 @@ Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr.,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Feel The Pain |
+| A2 | I Don't Think So |
+| A3 | Yeah Right |
+| A4 | Outta Hand |
+| A5 | Grab It |
+| A6 | Even You |
+| B1 | Mind Glow |
+| B2 | Get Out Of This |
+| B3 | On The Brink |
+| B4 | Seemed Like The Thing To Do |
+| B5 | Over Your Shoulder |
+| C1 | Get Out Of This (No Words Just Solo) |
+| C2 | Blah |
+| C3 | Feel The Pain (Live) |
+| C4 | Get Me (Live) |
+| D1 | Grab It (Live) |
+| D2 | What Else Is New (Live) |
+| D3 | Sludge (Live) |
+
 
 
 ## Apple Music

@@ -31,25 +31,26 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Tell Me |
+| A2 | Retreat! |
+| A3 | New Shoes |
+| A4 | Longer And Stronger |
+| A5 | If You Call |
+| B1 | 100 Days, 100 Nights |
+| B2 | People Don't Get What They Deserve |
+| B3 | Humble Me |
+| B4 | I'll Still Be True |
+| B5 | When I Come Home |
+| C1 | Let Them Knock |
+| C2 | Stranger To My Happiness |
+| C3 | Keep On Looking |
+| C4 | Mama Don't Like My Man |
+| C5 | I Learned The Hard Way |
+| D1 | Slow Down Love |
+| D2 | Genuine Pts. 1 & 2 |
+| D3 | I'm Still Here |
+| D4 | His Eye Is On The Sparrow |
+
 
 
 ## Apple Music

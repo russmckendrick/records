@@ -38,20 +38,21 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Ballad Of Bill Hubbard |
+| A2 | What God Wants, Part I |
+| A3 | Perfect Sense, Part I |
+| A4 | Perfect Sense, Part II |
+| B1 | The Bravery Of Being Out Of Range |
+| B2 | Late Home Tonight, Part I |
+| B3 | Late Home Tonight, Part II |
+| B4 | Too Much Rope |
+| B5 | What God Wants, Part II |
+| C1 | What God Wants, Part III |
+| C2 | Watching TV |
+| C3 | Three Wishes |
+| D1 | It's A Miracle |
+| D2 | Amused To Death |
+
 
 
 ## Apple Music

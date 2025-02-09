@@ -50,16 +50,17 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | North Sea Oil |
+| A2 | Orion |
+| A3 | Home |
+| A4 | Dark Ages |
+| A5 | Warm Sporran |
+| B1 | Something's On The Move |
+| B2 | Old Ghosts |
+| B3 | Dun Ringill |
+| B4 | Flying Dutchman |
+| B5 | Elegy |
+
 
 
 ## Apple Music

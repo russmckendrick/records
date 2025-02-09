@@ -31,18 +31,19 @@ styles: ["Ska", "Rocksteady"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pretty Africa |
+| A2 | Treat Me Cruel |
+| A3 | Love Is The Key |
+| A4 | The Sweet Sound Of Music |
+| A5 | Behold |
+| A6 | Please Don't Bend |
+| B1 | Sweet Music |
+| B2 | Was A Sunny Day |
+| B3 | We Got To Be Free |
+| B4 | Walk Don't Run |
+| B5 | Trample |
+| B6 | Jah Jah Children |
+
 
 
 ## Apple Music

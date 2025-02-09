@@ -44,21 +44,22 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Around The World |
+| A2 | Parallel Universe |
+| A3 | Scar Tissue |
+| A4 | Otherside |
+| B1 | Get On Top |
+| B2 | Californication |
+| B3 | Easily |
+| C1 | Porcelain |
+| C2 | Emit Remmus |
+| C3 | I Like Dirt |
+| C4 | This Velvet Glove |
+| D1 | Savior |
+| D2 | Purple Stain |
+| D3 | Right On Time |
+| D4 | Road Trippin' |
+
 
 
 ## Apple Music

@@ -31,14 +31,15 @@ styles: ["Acoustic"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Appetite |
+| A2 | Bonny |
+| A3 | Desire As |
+| A4 | When Love Breaks Down |
+| B1 | Goodbye Lucille #1 |
+| B2 | Moving The River |
+| B3 | Faron Young |
+| B4 | When The Angels |
+
 
 
 ## Apple Music

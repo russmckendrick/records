@@ -39,16 +39,17 @@ The album was produced in 2015 and released on 15 January 2016.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Three Bulleits |
+| A2 | Get Yourself Free |
+| A3 | A Pleasant Peace I Feel |
+| A4 | Modern Massacre |
+| A5 | Battle Lines |
+| B1 | White Bear |
+| B2 | Oh Lorraine |
+| B3 | Magnify |
+| B4 | The Sun And Moon Roll Around Too Soon |
+| B5 | I Hope I’m Not Losing My Mind |
+
 
 
 ## Apple Music

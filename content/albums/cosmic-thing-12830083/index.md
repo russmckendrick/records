@@ -39,16 +39,17 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cosmic Thing |
+| A2 | Dry County |
+| A3 | Deadbeat Club |
+| A4 | Love Shack |
+| A5 | Junebug |
+| B1 | Roam |
+| B2 | Bushfire |
+| B3 | Channel Z |
+| B4 | Topaz |
+| B5 | Follow Your Bliss |
+
 
 
 ## Apple Music

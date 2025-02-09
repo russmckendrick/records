@@ -48,39 +48,40 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Easy Lover |
+| A2 | Two Hearts |
+| A3 | Sussudio |
+| A4 | I Missed Again |
+| A5 | Wear My Hat |
+| B1 | Don't Lose My Number |
+| B2 | You Can't Hurry Love |
+| B3 | Something Happened On The Way To Heaven |
+| B4 | We Wait And We Wonder |
+| C1 | Can't Stop Loving You |
+| C2 | Dance Into The Light |
+| C3 | It's In Your Eyes |
+| C4 | Hang In Long Enough |
+| D1 | Thru These Walls |
+| D2 | I Wish It Would Rain Down |
+| D3 | Both Sides Of The Story |
+| D4 | (Love Is Like A) Heatwave |
+| E1 | Going Back |
+| E2 | In The Air Tonight |
+| E3 | Against All Odds |
+| E4 | If Leaving Me Is Easy |
+| F1 | One More Night |
+| F2 | Separate Lives |
+| F3 | A Groovy Kind Of Love |
+| F4 | That's Just The Way It Is |
+| G1 | Do You Remember? |
+| G2 | Everyday |
+| G3 | True Colors |
+| G4 | You'll Be In My Heart |
+| H1 | The Least You Can Do |
+| H2 | Look Through My Eyes |
+| H3 | Another Day In Paradise |
+| H4 | Take Me Home |
+
 
 
 ## Apple Music

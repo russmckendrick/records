@@ -43,18 +43,19 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thunderstruck |
+| A2 | Fire Your Guns |
+| A3 | Moneytalks |
+| A4 | The Razors Edge |
+| A5 | Mistress For Christmas |
+| A6 | Rock Your Heart Out |
+| B1 | Are You Ready |
+| B2 | Got You By The Balls |
+| B3 | Shot Of Love |
+| B4 | Let's Make It |
+| B5 | Goodbye And Good Riddance To Bad Luck |
+| B6 | If You Dare |
+
 
 
 ## Apple Music

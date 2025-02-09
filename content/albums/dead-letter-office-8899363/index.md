@@ -32,23 +32,24 @@ The album was initially issued as a 15-song collection on vinyl and cassette, bu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Post Side |
+| A1 | Crazy |
+| A2 | There She Goes Again |
+| A3 | Burning Down |
+| A4 | Voice Of Harold |
+| A5 | Burning Hell |
+| A6 | White Tornado |
+| A7 | Toys In The Attic |
+|  | Script Side |
+| B1 | Windout |
+| B2 | Ages Of You |
+| B3 | Pale Blue Eyes |
+| B4 | Rotary Ten |
+| B5 | Bandwagon |
+| B6 | Femme Fatale |
+| B7 | Walters Theme |
+| B8 | King Of The Road |
+
 
 
 ## Apple Music

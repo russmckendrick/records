@@ -38,14 +38,15 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thunder Road |
+| A2 | Tenth Avenue Freeze-Out |
+| A3 | Night |
+| A4 | Backstreets |
+| B1 | Born To Run |
+| B2 | She's The One |
+| B3 | Meeting Across The River |
+| B4 | Jungleland |
+
 
 
 ## Apple Music

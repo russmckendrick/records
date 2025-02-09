@@ -36,18 +36,19 @@ Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Can You Forgive Her? |
+| A2 | I Wouldn't Normally Do This Kind Of Thing |
+| A3 | Liberation |
+| A4 | A Different Point Of View |
+| A5 | Dreaming Of The Queen |
+| A6 | Yesterday, When I Was Mad |
+| B1 | The Theatre |
+| B2 | One And One Make Five |
+| B3 | To Speak Is A Sin |
+| B4 | Young Offender |
+| B5 | One In A Million |
+| B6 | Go West |
+
 
 
 ## Apple Music

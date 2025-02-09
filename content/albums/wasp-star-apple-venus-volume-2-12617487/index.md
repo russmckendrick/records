@@ -36,22 +36,20 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Playground |
+| A2 | Stupidly Happy |
+| A3 | In Another Life |
+| A4 | My Brown Guitar |
+| A5 | Boarded Up |
+| A6 | I'm The Man Who Murdered Love |
+| B1 | We're All Light |
+| B2 | Standing In For Joe |
+| B3 | Wounded Horse |
+| B4 | You And The Clouds Will Still Be Beautiful |
+| B5 | Church Of Women |
+| B6 | The Wheel And The Maypole |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

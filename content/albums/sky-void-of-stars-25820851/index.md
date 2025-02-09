@@ -66,16 +66,17 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Austerity |
+| A2 | Colossal Shade |
+| A3 | Opaline |
+| B1 | Birds |
+| B2 | Drab Moon |
+| B3 | Author |
+| C1 | Impermanence |
+| C2 | Sclera |
+| D1 | Atrium |
+| D2 | No Beacon To Illuminate Our Fall |
+
 
 
 ## Apple Music

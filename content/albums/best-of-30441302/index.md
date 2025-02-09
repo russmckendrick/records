@@ -46,24 +46,25 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Growing Up |
+| A2 | Rosalita (Come Out Tonight) |
+| A3 | Born To Run |
+| A4 | Thunder Road |
+| B5 | Badlands |
+| B6 | Hungry Heart |
+| B7 | Atlantic City |
+| B8 | Dancing In The Dark |
+| B9 | Born In The U.S.A |
+| C10 | Brilliant Disguise |
+| C11 | Human Touch |
+| C12 | Streets Of Philadelphia |
+| C13 | Ghost Of Tom Joad |
+| D14 | Secret Garden |
+| D15 | The Rising |
+| D16 | Girls In Their Summer Clothes |
+| D17 | Hello Sunshine |
+| D18 | Letter To You |
+
 
 
 ## Apple Music

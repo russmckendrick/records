@@ -36,16 +36,17 @@ The album was a critical success upon release, with several critics noting the a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bombtrack |
+| A2 | Killing In The Name |
+| A3 | Take The Power Back |
+| A4 | Settle For Nothing |
+| A5 | Bullet In The Head |
+| B1 | Know Your Enemy |
+| B2 | Wake Up |
+| B3 | Fistful Of Steel |
+| B4 | Township Rebellion |
+| B5 | Freedom |
+
 
 
 ## Apple Music

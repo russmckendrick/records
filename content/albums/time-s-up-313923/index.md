@@ -34,21 +34,22 @@ Time's Up is the second studio album by the band Living Colour, released on Augu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Time's Up |
+| A2 | History Lesson |
+| A3 | Pride |
+| A4 | Love Rears Its Ugly Head |
+| A5 | New Jack Theme |
+| A6 | Someone Like You |
+| A7 | Elvis Is Dead |
+| A8 | Type |
+| B1 | Information Overload |
+| B2 | Under Cover Of Darkness |
+| B3 | Ology1 |
+| B4 | Fight The Fight |
+| B5 | Tag Team Partners |
+| B6 | Solace Of You |
+| B7 | This Is The Life |
+
 
 
 ## Apple Music

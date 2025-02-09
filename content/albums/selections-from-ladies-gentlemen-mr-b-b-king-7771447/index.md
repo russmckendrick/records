@@ -39,23 +39,24 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | How Blue Can You Get? |
+| A2 | I Wonder Why |
+| A3 | Think It Over |
+| A4 | The Thrill Is Gone |
+| A5 | Chains And Things |
+| B1 | Worry, Worry |
+| B2 | Sweet Sixteen |
+| B3 | Ghetto Woman |
+| C1 | There Must Be A Better World Somewhere |
+| C2 | When Love Comes To Town |
+| C3 | Stormy Monday Blues |
+| C4 | Blues Man |
+| D1 | Caldonia |
+| D2 | You Have A Way |
+| D3 | Key To The Highway (Live)  |
+| D4 | Get These Blues Off Me  |
+| D5 | See That My Grave Is Kept Clean |
+
 
 
 ## Apple Music

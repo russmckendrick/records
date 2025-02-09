@@ -30,15 +30,16 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Deus Culpa |
+| A2 | Con Clavi Con Dio |
+| A3 | Ritual |
+| A4 | Elizabeth |
+| A5 | Stand By Him |
+| B1 | Satan Prayer |
+| B2 | Death Knell |
+| B3 | Prime Mover |
+| B4 | Genesis |
+
 
 
 ## Apple Music

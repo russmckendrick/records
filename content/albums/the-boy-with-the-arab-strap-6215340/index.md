@@ -30,18 +30,19 @@ The Boy with the Arab Strap is the third studio album by Scottish indie pop band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | It Could Have Been A Brilliant Career |
+| A2 | Sleep The Clock Around |
+| A3 | Is It Wicked Not To Care? |
+| A4 | Ease Your Feet In The Sea |
+| A5 | A Summer Wasting |
+| A6 | Seymour Stein |
+| B1 | A Space Boy Dream |
+| B2 | Dirty Dream Number Two |
+| B3 | The Boy With The Arab Strap |
+| B4 | Chickfactor |
+| B5 | Simple Things |
+| B6 | The Rollercoaster Ride |
+
 
 
 ## Apple Music

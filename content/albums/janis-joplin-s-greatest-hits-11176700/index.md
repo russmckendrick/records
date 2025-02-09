@@ -32,16 +32,17 @@ Few white women knew the blues as well as Joplin, and this collection showcases 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Piece Of My Heart |
+| A2 | Summertime |
+| A3 | Try (Just A Little Bit Harder) |
+| A4 | Cry Baby |
+| A5 | Me And Bobby McGee |
+| B1 | Down On Me |
+| B2 | Get It While You Can |
+| B3 | Bye, Bye Baby |
+| B4 | Move Over |
+| B5 | Ball And Chain |
+
 
 
 ## Apple Music

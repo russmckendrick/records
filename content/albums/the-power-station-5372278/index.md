@@ -29,14 +29,15 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Some Like It Hot |
+| A2 | Murderess |
+| A3 | Lonely Tonight |
+| A4 | Communication |
+| B1 | Get It On (Bang A Gong) |
+| B2 | Go To Zero |
+| B3 | Harvest For The World |
+| B4 | Still In Your Heart |
+
 
 
 ## Apple Music

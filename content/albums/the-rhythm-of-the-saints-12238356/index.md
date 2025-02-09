@@ -36,16 +36,17 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Obvious Child |
+| A2 | Can't Run But |
+| A3 | The Coast |
+| A4 | Proof |
+| A5 | Further To Fly |
+| B1 | She Moves On |
+| B2 | Born At The Right Time |
+| B3 | The Cool, Cool River |
+| B4 | Spirit Voices |
+| B5 | The Rhythm Of The Saints |
+
 
 
 ## Apple Music

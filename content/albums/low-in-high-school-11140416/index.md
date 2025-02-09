@@ -42,18 +42,19 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | My Love, I’d Do Anything For You |
+| A2 | I Wish You Lonely |
+| A3 | Jacky’s Only Happy When She’s Up On The Stage |
+| A4 | Home Is A Question Mark |
+| A5 | Spent The Day In Bed |
+| A6 | I Bury The Living |
+| B1 | In Your Lap |
+| B2 | The Girl From Tel-Aviv Who Wouldn’t Kneel |
+| B3 | All The Young People Must Fall In Love |
+| B4 | When You Open Your Legs |
+| B5 | Who Will Protect Us From The Police? |
+| B6 | Israel |
+
 
 
 ## Apple Music

@@ -85,23 +85,24 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | You Had Your Soul With You |
+| A2 | Quiet Light |
+| A3 | Roman Holiday |
+| A4 | Oblivions |
+| B1 | The Pull Of You |
+| B2 | Hey Rosey |
+| B3 | I Am Easy To Find |
+| B4 | Her Father In The Pool |
+| C1 | Where Is Her Head |
+| C2 | Not In Kansas |
+| C3 | So Far So Fast |
+| C4 | Dust Swirls In Strange Light |
+| D1 | Hairpin Turns |
+| D2 | Rylan |
+| D3 | Underwater |
+| D4 | Light Years |
+| E1 | I Am Easy To Find (Original Film Score) |
+
 
 
 ## Apple Music

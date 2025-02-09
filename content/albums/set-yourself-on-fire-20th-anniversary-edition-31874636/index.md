@@ -32,19 +32,20 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Your Ex-Lover Is Dead |
+| A2 | Set Yourself On Fire |
+| A3 | Ageless Beauty |
+| A4 | Reunion |
+| A5 | The Big Fight |
+| A6 | What I'm Trying To Say |
+| B1 | One More Night (Your Ex-Lover Remains Dead) |
+| B2 | Sleep Tonight |
+| B3 | The First Five Times |
+| B4 | He Lied About Death |
+| B5 | Celebration Guns |
+| B6 | Soft Revolution |
+| B7 | Calendar Girl |
+
 
 
 ## Apple Music

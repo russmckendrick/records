@@ -35,16 +35,17 @@ The second single to be released from the album was an edited version of "Accide
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Again And Again |
+| A2 | I'm Giving Up My Worryin' |
+| A3 | Gonna Teach You To Love Me |
+| A4 | Someone Show Me Home |
+| A5 | Long Legged Linda |
+| B1 | Oh! What A Night |
+| B2 | Accident Prone |
+| B3 | Stones |
+| B4 | Let Me Fly |
+| B5 | Like A Good Girl |
+
 
 
 ## Apple Music

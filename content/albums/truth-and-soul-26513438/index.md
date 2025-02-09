@@ -36,18 +36,19 @@ Though Fishbone would find greater mainstream success with 1991’s <i>The Reali
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Freddie's Dead |
+| A2 | Ma And Pa |
+| A3 | Questions Of Life |
+| A4 | Pouring Rain |
+| A5 | Deep Inside |
+| A6 | Mighty Long Way |
+| B1 | Bonin' In The Boneyard |
+| B2 | One Day |
+| B3 | Subliminal Fascism |
+| B4 | Slow Bus Movin' (Howard Beach Party) |
+| B5 | Ghetto Soundwave |
+| B6 | Change |
+
 
 
 ## Apple Music

@@ -28,73 +28,71 @@ styles: ["Folk Rock", "Psychedelic Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | In The Aeroplane Over The Sea |
+| A1 | The King Of Carrot Flowers Pt. One |
+| A2 | The King Of Carrot Flowers Pts. Two & Three |
+| A3 | In The Aeroplane Over The Sea |
+| A4 | Two-Headed Boy |
+| A5 | The Fool |
+| A6 | Holland, 1945 |
+| A7 | Communist Daughter |
+| B1 | Oh Comely |
+| B2 | Ghost |
+| B3 | Untitled |
+| B4 | Two-Headed Boy Pt. Two |
+|  | On Avery Island |
+| C1 | Song Against Sex |
+| C2 | You've Passed |
+| C3 | Someone Is Waiting |
+| D1 | A Baby For Pree |
+| D2 | Marching Theme |
+| D3 | Where You'll Find Me Now |
+| E1 | Avery Island / April 1st |
+| E2 | Gardenhead / Leave Me Alone |
+| E3 | Three Peaches |
+| F1 | Naomi |
+| F2 | April 8th |
+| F3 | Pree-Sisters Swallowing A Donkey's Eye |
+|  | Live At Jittery Joe's |
+| G1 | A Baby For Pree |
+| G2 | Two-Headed Boy |
+| G3 | I Will Bury You In Time |
+| G4 | Garden Head / Leave Me Alone |
+| G5 | Two-Headed Boy Part Two |
+| G6 | I Love How You Love Me |
+| H1 | Engine |
+| H2 | Naomi |
+| H3 | King Of Carrot Flowers Part Two |
+| H4 | King Of Carrot Flowers Part Three |
+| H5 | Oh Comely |
+|  | Ferris Wheel On Fire |
+| I1 | Oh Sister |
+| I2 | Ferris Wheel On Fire |
+| I3 | Home |
+| I4 | April 8th |
+| J1 | I Will Bury You In Time |
+| J2 | Engine |
+| J3 | A Baby For Pree / Glow Into You |
+| J4 | My Dream Girl Don't Exist |
+|  | Everything Is |
+| K1 | Everything Is |
+| K2 | Here We Are (For W. Cullen Hart) |
+| K3 | Unborn |
+| L1 | Tuesday Moon |
+| L2 | Ruby Bulbs |
+| L3 | Snow Song |
+| L4 | Aunt Eggma Blow Torch |
+|  | Little Birds |
+| M | Little Birds (Live) |
+| N | Little Birds (Demo) |
+|  | Where You'll Find Me Now / You've Passed |
+| O | You've Passed |
+| P | Where You'll Find Me Now |
+|  | Holland / Engine |
+| Q | Holland, 1945 |
+| R | Engine |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -42,25 +42,26 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Theme From Flood |
+| A2 | Birdhouse In Your Soul |
+| A3 | Lucky Ball & Chain |
+| A4 | Istanbul (Not Constantinople) |
+| A5 | Dead |
+| A6 | Your Racist Friend |
+| A7 | Particle Man |
+| A8 | Twisting |
+| A9 | We Want A Rock |
+| B1 | Someone Keeps Moving My Chair |
+| B2 | Hearing Aid |
+| B3 | Minimum Wage |
+| B4 | Letterbox |
+| B5 | Whistling In The Dark |
+| B6 | Hot Cha |
+| B7 | Women And Men |
+| B8 | Sapphire Bullets Of Pure Love |
+| B9 | They Might Be Giants |
+| B10 | Road Movie To Berlin |
+
 
 
 ## Apple Music

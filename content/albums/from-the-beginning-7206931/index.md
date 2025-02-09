@@ -32,20 +32,21 @@ From the Beginning is the first compilation album by the English rock band Small
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Runaway |
+| A2 | My Mind's Eye |
+| A3 | Yesterday, Today And Tomorrow |
+| A4 | That Man |
+| A5 | My Way Of Giving |
+| A6 | Hey Girl |
+| A7 | Tell Me Have You Ever Seen Me |
+| B1 | Come Back And Take This Hurt Off Me |
+| B2 | All Or Nothing |
+| B3 | Baby Don't Do It |
+| B4 | Plum Nellie |
+| B5 | Sha La La La Lee |
+| B6 | You Really Got A Hold On Me |
+| B7 | What'cha Gonna Do About It |
+
 
 
 ## Apple Music

@@ -36,18 +36,19 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Big Love |
+| A2 | Seven Wonders |
+| A3 | Everywhere |
+| A4 | Caroline |
+| A5 | Tango In The Night |
+| A6 | Mystified |
+| B1 | Little Lies |
+| B2 | Family Man |
+| B3 | Welcome To The Room...Sara |
+| B4 | Isn't It Midnight |
+| B5 | When I See You Again |
+| B6 | You And I, Part II |
+
 
 
 ## Apple Music

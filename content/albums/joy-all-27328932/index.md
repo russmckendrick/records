@@ -49,16 +49,17 @@ Once lockdowns had loosened, she took to Nashville, where she recorded with accl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Psychos |
+| A2 | Joy'All |
+| A3 | Puppy And A Truck |
+| A4 | Apples And Oranges |
+| A5 | Essence Of Life |
+| B1 | Giddy Up |
+| B2 | Cherry Baby |
+| B3 | Love Feel |
+| B4 | Balcony |
+| B5 | Chain Of Tears |
+
 
 
 ## Apple Music

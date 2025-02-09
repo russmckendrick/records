@@ -75,141 +75,142 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Kinks |
+| A1 | Beautiful Delilah |
+| A2 | So Mystifying |
+| A3 | Just Can't Go To Sleep |
+| A4 | Long Tall Shorty |
+| A5 | I Took My Baby Home |
+| A6 | I'm A Lover Not A Fighter |
+| A7 | You Really Got Me |
+| B1 | Cadillac |
+| B2 | Bald Headed Woman |
+| B3 | Revenge |
+| B4 | Too Much Monkey Business |
+| B5 | I've Been Driving On Bald Mountain |
+| B6 | Stop Your Sobbing |
+| B7 | Got Love If You Want It |
+|  | Kinda Kinks |
+| C1 | Look For Me Baby |
+| C2 | Got My Feet On The Ground |
+| C3 | Nothin' In The World Can Stop Me Worryin' 'Bout That Girl |
+| C4 | Naggin' Woman |
+| C5 | Wonder Where My Baby Is Tonight |
+| C6 | Tired Of Waiting For You |
+| D1 | Dancing In The Street |
+| D2 | Don't Ever Change |
+| D3 | Come On Now |
+| D4 | So Long |
+| D5 | You Shouldn't Be Sad |
+| D6 | Something Better Beginning |
+|  | The Kink Kontroversy |
+| E1 | Milk Cow Blues |
+| E2 | Ring The Bells |
+| E3 | Gotta Get The First Plane Home |
+| E4 | When I See That Girl Of Mine |
+| E5 | I Am Free |
+| E6 | Till The End Of The Day |
+| F1 | The World Keeps Going Round |
+| F2 | I'm On An Island |
+| F3 | Where Have All The Good Times Gone |
+| F4 | It's Too Late |
+| F5 | What's In Store For Me |
+| F6 | You Can't Win |
+|  | Face To Face |
+| G1 | Party Line |
+| G2 | Rosy Won't You Please Come Home |
+| G3 | Dandy |
+| G4 | Too Much On My Mind |
+| G5 | Session Man |
+| G6 | Rainy Day In June |
+| G7 | House In The Country |
+| H1 | Holiday In Waikiki |
+| H2 | Most Exclusive Residence For Sale |
+| H3 | Fancy |
+| H4 | Little Miss Queen Of Darkness |
+| H5 | You're Looking Fine |
+| H6 | Sunny Afternoon |
+| H7 | I'll Remember |
+|  | Something Else By The Kinks |
+| I1 | David Watts |
+| I2 | Death Of A Clown |
+| I3 | Two Sisters |
+| I4 | No Return |
+| I5 | Harry Rag |
+| I6 | Tin Soldier Man |
+| I7 | Situation Vacant |
+| J1 | Love Me Till The Sun Shines |
+| J2 | Lazy Old Sun |
+| J3 | Afternoon Tea |
+| J4 | Funny Face |
+| J5 | End Of The Season |
+| J6 | Waterloo Sunset |
+|  | Live At Kelvin Hall |
+| K1 | Till The End Of The Day |
+| K2 | A Well Respected Man |
+| K3 | You're Looking Fine |
+| K4 | Sunny Afternoon |
+| K5 | Dandy |
+| L1 | I'm On An Island |
+| L2 | Come On Now |
+| L3 | You Really Got Me |
+| L4 | Medley: Milk Cow Blues / Batman Theme / Tired Of Waiting For You / Milk Cow Blues |
+|  | The Kinks Are The Village Green Preservation Society |
+| M1 | The Village Green Preservation Society |
+| M2 | Do You Remember Walter? |
+| M3 | Picture Book |
+| M4 | Johnny Thunder |
+| M5 | Last Of The Steam-Powered Trains |
+| M6 | Big Sky |
+| M7 | Sitting By The Riverside |
+| N1 | Animal Farm |
+| N2 | Village Green |
+| N3 | Starstruck |
+| N4 | Phenomenal Cat |
+| N5 | All Of My Friends Were There |
+| N6 | Wicked Annabella |
+| N7 | Monica |
+| N8 | People Take Pictures Of Each Other |
+|  | Arthur (Or The Decline And Fall Of The British Empire) |
+| O1 | Victoria |
+| O2 | Yes Sir, No Sir |
+| O3 | Some Mother's Son |
+| O4 | Drivin' |
+| O5 | Brainwashed |
+| O6 | Australia |
+| P1 | Shangri-La |
+| P2 | Mr. Churchill Says |
+| P3 | She's Bought A Hat Like Princess Marina |
+| P4 | Young And Innocent Days |
+| P5 | Nothing To Say |
+| P6 | Arthur |
+|  | The Kinks |
+| Q1 | You Really Got Me |
+| Q2 | Long Tall Shorty |
+| Q3 | All Day And All Of The Night |
+| Q4 | Beautiful Delilah |
+| Q5 | Tired Of Waiting For You |
+| Q6 | I'm A Lover Not A Fighter |
+| R1 | A Well Respected Man |
+| R2 | Till The End Of The Day |
+| R3 | See My Friends |
+| R4 | Don't You Fret |
+| R5 | Dedicated Follower Of Fashion |
+| R6 | Sunny Afternoon |
+| S1 | Dead End Street |
+| S2 | Death Of A Clown |
+| S3 | Two Sisters |
+| S4 | Big Black Smoke |
+| S5 | Susannah's Still Alive |
+| S6 | Autumn Almanac |
+| T1 | Waterloo Sunset |
+| T2 | Last Of The Steam-Powered Trains |
+| T3 | Wonderboy |
+| T4 | Do You Remember Walter? |
+| T5 | Dandy |
+| T6 | Animal Farm |
+| T7 | Days |
+
 
 
 ## Apple Music

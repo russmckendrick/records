@@ -27,18 +27,19 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ruined |
+| A2 | Sex With An X |
+| A3 | The Devil's Inside Me |
+| A4 | Such A Fool |
+| A5 | Turning It On |
+| A6 | Overweight But Over You |
+| B1 | Poison Pen |
+| B2 | I Hate The 80's |
+| B3 | Mouth To Mouth |
+| B4 | Whitechapel |
+| B5 | My God's Bigger Than Your God |
+| B6 | Exit The Vaselines |
+
 
 
 ## Apple Music

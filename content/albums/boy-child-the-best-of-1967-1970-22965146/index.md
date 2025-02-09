@@ -26,30 +26,31 @@ styles: ["Pop Rock", "Baroque Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Montague Terrace (In Blue) |
+| A2 | Such A Small Love |
+| A3 | The Plague |
+| A4 | Always Coming Back To You  |
+| A5 | The Amorous Humphrey Plugg  |
+| A6 | The Girls From The Streets  |
+| B1 | Plastic Palace People  |
+| B2 | The Bridge |
+| B3 | It's Raining Today  |
+| B4 | Copenhagen  |
+| B5 | Big Louise  |
+| B6 | 30 Century Man  |
+| C1 | We Came Through  |
+| C2 | The Seventh Seal  |
+| C3 | On Your Own Again  |
+| C4 | Angels Of Ashes  |
+| C5 | Boy Child  |
+| C6 | The Old Man's Back Again (Dedicated To The Neo-Stalinst Regime)  |
+| D1 | Prologue  |
+| D2 | Little Things (That Keep Us Together)  |
+| D3 | Time Operator  |
+| D4 | Thanks For Chicago, Mr. James  |
+| D5 | The Rope And The Colt |
+| D6 | Epilogue: The War Is Over  |
+
 
 
 ## Apple Music

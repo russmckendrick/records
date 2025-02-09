@@ -29,12 +29,13 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Two Way Mirror |
+| A2 | Sweet Perfume |
+| A3 | Hologram |
+| B1 | Tundra |
+| B2 | Let Me Drive |
+| B3 | Gargantuan (Prt1) |
+
 
 
 ## Apple Music

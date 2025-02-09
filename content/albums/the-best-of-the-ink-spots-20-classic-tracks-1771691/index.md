@@ -29,26 +29,27 @@ styles: ["Vocal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | If I Didn't Care |
+| A2 | Bless You For Being An Angel |
+| A3 | When The Swallows Come Back To Capistrano |
+| A4 | Whispering Grass (Don't Tell The Trees) |
+| A5 | Maybe |
+| A6 | Java Jive |
+| A7 | Do I Worry |
+| A8 | I Don't Want To Set The World On Fire |
+| A9 | Ev'ry Night About This Time |
+| A10 | Don't Get Around Much Anymore |
+| B1 | To Each His Own |
+| B2 | Ring Telephone Ring |
+| B3 | I'd Climb The Highest Mountain |
+| B4 | Puttin' And Takin' |
+| B5 | Cow-Cow-Boogie |
+| B6 | Into Each Life Some Rain Must Fall |
+| B7 | Your Feet's Too Big |
+| B8 | I'll Never Smile Again |
+| B9 | It's A Sin To Tell A Lie |
+| B10 | Someone's Rocking My Dreamboat |
+
 
 
 ## Apple Music

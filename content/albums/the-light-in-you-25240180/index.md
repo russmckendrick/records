@@ -28,17 +28,18 @@ The Light in You is the eighth studio album by American rock band Mercury Rev, r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Queen Of Swans |
+| A2 | Amelie  |
+| A3 | You've Gone With So Little For So Long |
+| A4 | Central Park East |
+| A5 | Emotional Free Fall |
+| B1 | Coming Up For Air |
+| B2 | Autumn's In The Air |
+| B3 | Are You Ready? |
+| B4 | Sunflower |
+| B5 | Moth Light |
+| B6 | Rainy Day Record |
+
 
 
 ## Apple Music

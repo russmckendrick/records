@@ -41,27 +41,25 @@ styles: ["Bluegrass"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | To Scatter One's Own |
+| A2 | Hard Times |
+| A3 | Jubilee |
+| A4 | Fragile, The Spark |
+| B1 | Cotillions |
+| B2 | Faithless Darlin' |
+| B3 | Colosseum |
+| B4 | Martinets |
+| C1 | Buffalo Boys |
+| C2 | Dancehall |
+| C3 | Cri De Coeur |
+| C4 | Like Lambs |
+| D1 | Rider |
+| D2 | Apologia |
+| D3 | Neptulius |
+| D4 | 6+7 |
+| D5 | Anon |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

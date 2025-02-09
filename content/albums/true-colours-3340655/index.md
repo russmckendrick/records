@@ -33,17 +33,18 @@ True Colours is the sixth studio album released by New Zealand band Split Enz, a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Got You |
+| A2 | Shark Attack |
+| A3 | What's The Matter With You |
+| A4 | Double Happy |
+| A5 | I Wouldn't Dream Of It |
+| A6 | I Hope I Never |
+| B1 | Nobody Takes Me Seriously |
+| B2 | Missing Person |
+| B3 | Poor Boy |
+| B4 | How Can I Resist Her |
+| B5 | The Choral Sea |
+
 
 
 ## Apple Music

@@ -29,20 +29,18 @@ styles: ["New Wave", "Pop Rap", "Pop Rock", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | On Our Own |
+| A2 | Supernatural |
+| A3 | The Promised Land |
+| A4 | We're Back |
+| A5 | Spirit |
+| B1 | Ghostbusters |
+| B2 | Flesh N' Blood |
+| B3 | Love Is A Cannibal |
+| B4 | Flip City |
+| B5 | Higher And Higher |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

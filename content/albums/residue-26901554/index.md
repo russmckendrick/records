@@ -33,22 +33,23 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Teen Vogue |
+| A2 | Outsider |
+| A3 | Flame |
+| A4 | Strange Seas Of Thought (Wistful Version) |
+| B1 | Fluttering Bird |
+| B2 | Red Feather |
+| B3 | Insider (Undersea Lounge Version) |
+| B4 | Mosaic |
+| C1 | Time Travel |
+| C2 | Crush |
+| C3 | Sleepers |
+| C4 | Beyond The Valley |
+| D1 | Fake Fur Coat |
+| D2 | O Fortuna (Space Lounge Version) |
+| D3 | Jets For Brazil |
+| D4 | Gustav's Departure (Spirit & Mind Version) |
+
 
 
 ## Apple Music

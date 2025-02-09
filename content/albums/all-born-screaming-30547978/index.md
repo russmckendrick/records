@@ -51,16 +51,17 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hell Is Near |
+| A2 | Reckless |
+| A3 | Broken Man |
+| A4 | Flea |
+| A5 | Big Time Nothing |
+| B1 | Violent Times |
+| B2 | The Power's Out |
+| B3 | Sweetest Fruit |
+| B4 | So Many Planets |
+| B5 | All Born Screaming |
+
 
 
 ## Apple Music

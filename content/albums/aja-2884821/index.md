@@ -37,13 +37,14 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Cow |
+| A2 | Aja |
+| A3 | Deacon Blues |
+| B1 | Peg |
+| B2 | Home At Last |
+| B3 | I Got The News |
+| B4 | Josie |
+
 
 
 ## Apple Music

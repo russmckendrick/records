@@ -54,19 +54,20 @@ Tucker: “This song is really about realising that there's some social justice 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Center Won't Hold |
+| A2 | Hurry On Home |
+| A3 | Reach Out |
+| A4 | Can I Go On |
+| A5 | Restless |
+| A6 | Ruins |
+| B1 | Love |
+| B2 | Bad Dance |
+| B3 | The Future Is Here |
+| B4 | The Dog/The Body |
+| B5 | Broken |
+| C | Hurry On Home |
+| D | The Dog/The Body |
+
 
 
 ## Apple Music

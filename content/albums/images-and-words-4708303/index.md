@@ -38,14 +38,15 @@ Images and Words is the second studio album by American progressive metal band D
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pull Me Under |
+| A2 | Another Day |
+| A3 | Take The Time |
+| A4 | Surrounded |
+| B1 | Metropolis Part I (The Miracle And The Sleeper) |
+| B2 | Under A Glass Moon |
+| B3 | Wait For Sleep |
+| B4 | Learning To Live |
+
 
 
 ## Apple Music

@@ -36,16 +36,17 @@ charge.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | I Against I |
+| A3 | House Of Suffering |
+| A4 | Re-Ignition |
+| A5 | Secret 77 |
+| B1 | Let Me Help |
+| B2 | She's Calling You |
+| B3 | Sacred Love |
+| B4 | Hired Gun |
+| B5 | Return To Heaven |
+
 
 
 ## Apple Music

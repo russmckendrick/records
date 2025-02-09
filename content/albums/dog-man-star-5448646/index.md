@@ -39,18 +39,19 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introducing The Band |
+| A2 | We Are The Pigs |
+| A3 | Heroine |
+| A4 | The Wild Ones |
+| B1 | Daddy's Speeding |
+| B2 | The Power |
+| B3 | New Generation |
+| C1 | This Hollywood Life |
+| C2 | The 2 Of Us |
+| C3 | Black Or Blue |
+| D1 | The Asphalt World |
+| D2 | Still Life |
+
 
 
 ## Apple Music

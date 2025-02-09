@@ -44,13 +44,14 @@ The album is themed around computer technology and its rise within society. In k
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Computer World |
+| A2 | Pocket Calculator |
+| A3 | Numbers |
+| A4 | Computer World 2 |
+| B1 | Computer Love |
+| B2 | Homecomputer |
+| B3 | It's More Fun To Compute |
+
 
 
 ## Apple Music

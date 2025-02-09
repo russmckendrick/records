@@ -37,21 +37,22 @@ Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | About You |
+| A2 | Sparky's Dream |
+| A3 | Mellow Doubt |
+| A4 | Don't Look Back |
+| A5 | Verisimilitude |
+| A6 | Neil Jung |
+| A7 | Tears |
+| B1 | Discolite |
+| B2 | Say No |
+| B3 | Going Places |
+| B4 | I'll Make It Clear |
+| B5 | I Gotta Know |
+| B6 | Hardcore / Ballad |
+| C | Every Step Is A Way Through |
+| D | Some People Try To Fuck With You |
+
 
 
 ## Apple Music

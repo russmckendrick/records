@@ -35,18 +35,19 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hush |
+| A2 | Joining A Fan Club |
+| A3 | Sebrina, Paste And Plato |
+| A4 | New Mistake |
+| A5 | The Glutton Of Sympathy |
+| A6 | The Ghost At Number One |
+| A7 | Bye Bye Bye |
+| B1 | All Is Forgiven |
+| B2 | Russian Hill |
+| B3 | He's My Best Friend |
+| B4 | Too Much, Too Little, Too Late |
+| B5 | Brighter Day |
+
 
 
 ## Apple Music

@@ -28,16 +28,17 @@ styles: ["Psychedelic Rock", "Art Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Coal Mine |
+| A2 | Plane Crash In Kansas |
+| A3 | No Peace |
+| A4 | Sun Rays |
+| A5 | Into Eternity |
+| B1 | Rebel Lands |
+| B2 | Seraphim |
+| B3 | Portal |
+| B4 | Evolution |
+| B5 | Apricity |
+
 
 
 ## Apple Music

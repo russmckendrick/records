@@ -38,19 +38,20 @@ The song "Hem of Your Garment" was featured in the film Me, Myself & Irene.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Satan Is My Motor |
+| A2 | Mexico |
+| A3 | Never There |
+| A4 | Guitar |
+| A5 | You Turn The Screws |
+| A6 | Walk On By |
+| A7 | Sheep Go To Heaven |
+| B8 | When You Sleep |
+| B9 | Hem Of Your Garment |
+| B10 | Alpha Beta Parking Lot |
+| B11 | Let Me Go |
+| B12 | Cool Blue Reason |
+| B13 | Where Would I Be? |
+
 
 
 ## Apple Music

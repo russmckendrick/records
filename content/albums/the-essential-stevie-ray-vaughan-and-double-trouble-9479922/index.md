@@ -34,23 +34,24 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love Struck Baby |
+| A2 | Pride And Joy |
+| A3 | Texas Flood |
+| A4 | Lenny |
+| A5 | Cold Shot |
+| B1 | Couldn't Stand The Weather |
+| B2 | The Things (That) I Used To Do |
+| B3 | Tin Pan Alley (The Roughest Place In Town) |
+| C1 | Say What! |
+| C2 | Look At Little Sister |
+| C3 | Change It |
+| C4 | Little Wing |
+| D1 | The House Is Rockin' |
+| D2 | Crossfire |
+| D3 | Tightrope |
+| D4 | Long Way From Home (The Vaughan Brothers) |
+| D5 | Life By The Drop |
+
 
 
 ## Apple Music

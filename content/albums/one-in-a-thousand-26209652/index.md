@@ -29,16 +29,17 @@ styles: ["Alternative Rock", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Not The Quiet Type |
+| A2 | One Of These Days |
+| A3 | Elephant |
+| A4 | Next Summer |
+| A5 | Glitter To Dust |
+| B1 | Porcupine |
+| B2 | Old Kindnesses |
+| B3 | Super Connected |
+| B4 | Let It Snow |
+| B5 | One In A Thousand |
+
 
 
 ## Apple Music

@@ -29,16 +29,17 @@ styles: ["Reggae", "Punk", "Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | D.J.s |
+| A2 | Badfish |
+| A3 | Lets Go Get Stoned |
+| A4 | Newsong |
+| A5 | Had a Dat |
+| B1 | Don't Push |
+| B2 | Ball and Chain |
+| B3 | Slowride |
+| B4 | Date Rape |
+| B5 | Live at E's |
+
 
 
 ## Apple Music

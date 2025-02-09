@@ -50,19 +50,20 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Same |
+| A2 | The Opposite |
+| A3 | You Will Never Work In Television Again |
+| B1 | Pana-Vision |
+| B2 | The Smoke |
+| B3 | Speech Bubbles |
+| C1 | Thin Thing |
+| C2 | Open The Floodgates |
+| C3 | Free In The Knowledge |
+| D1 | A Hairdryer |
+| D2 | Waving A White Flag |
+| D3 | We Don't Know What Tomorrow Brings |
+| D4 | Skrting On The Surface |
+
 
 
 ## Apple Music

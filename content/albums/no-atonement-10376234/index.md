@@ -33,26 +33,27 @@ styles: ["Industrial"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fight Song |
+| A2 | Bastion |
+| A3 | Hold Together |
+| A4 | Wild Words |
+| A5 | Intravenous |
+| B1 | Cadence |
+| B2 | No Atonement |
+| B3 | Break Our Hearts Down |
+| B4 | Fever |
+| B5 | Up To The Neck |
+| CD-1 | Fight Song |
+| CD-2 | Bastion |
+| CD-3 | Hold Together |
+| CD-4 | Wild Words |
+| CD-5 | Intravenous |
+| CD-6 | Cadence |
+| CD-7 | No Atonement |
+| CD-8 | Break Our Hearts Down |
+| CD-9 | Fever |
+| CD-10 | Up To The Neck |
+
 
 
 ## Apple Music

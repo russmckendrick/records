@@ -45,24 +45,25 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Division One |
+| A1 | Last Exit |
+| A2 | Spin The Black Circle |
+| A3 | Not For You |
+| A4 | Tremor Christ |
+|  | Division Two |
+| B1 | Nothingman |
+| B2 | Whipping |
+| B3 | Pry, To |
+| B4 | Corduroy |
+|  | Division Three |
+| C1 | Bugs |
+| C2 | Satan's Bed |
+| C3 | Better Man |
+| C4 | Aye Davanita |
+|  | Division Four |
+| D1 | Immortality |
+| D2 | Hey Foxymophandlemama, That's Me |
+
 
 
 ## Apple Music

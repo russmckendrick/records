@@ -36,18 +36,19 @@ The album features original Big Star members Alex Chilton and Jody Stephens on g
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Dony |
+| A2 | Lady Sweet |
+| A3 | Best Chance |
+| A4 | Turn My Back On The Sun |
+| A5 | Love Revolution |
+| B1 | February's Quiet |
+| B2 | Mine Exclusively |
+| B3 | Whole New Thing |
+| B4 | Aria, Largo |
+| B5 | Hung Up With Summer |
+| B6 | Do You Wanna Make It |
+| B7 | Makeover |
+
 
 
 ## Apple Music

@@ -55,16 +55,17 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Darkness |
+| A2 | Growing Up |
+| A3 | Sky Blue |
+| B1 | No Way Out |
+| B2 | I Grieve |
+| C1 | The Barry Williams Show |
+| C2 | My Head Sounds Like That |
+| C3 | More Than This |
+| D1 | Signal To Noise |
+| D2 | The Drop |
+
 
 
 ## Apple Music

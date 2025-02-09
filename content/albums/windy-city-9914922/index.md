@@ -28,16 +28,17 @@ The deluxe edition adds four live versions of tracks. The Target Exclusive versi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Losing You |
+| A2 | It's Goodbye And So Long To You |
+| A3 | Windy City |
+| A4 | I Never Cared For You |
+| A5 | River In The Rain |
+| B1 | Dream Of Me |
+| B2 | Gentle On My Mind |
+| B3 | All Alone Am I |
+| B4 | Poison Love |
+| B5 | You Don't Know Me |
+
 
 
 ## Apple Music

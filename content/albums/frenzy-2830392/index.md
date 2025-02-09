@@ -30,24 +30,22 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I See Red |
+| A2 | Give It A Whirl |
+| A3 | Master Plan |
+| A4 | Betty |
+| A5 | Frenzy |
+| A6 | Stuff And Nonsense |
+| A7 | Marooned |
+| B1 | Hermit McDermitt |
+| B2 | Holy Smoke |
+| B3 | Semi Detached |
+| B4 | Carried Away |
+| B5 | She Got Body |
+| B6 | Mind Over Matter |
+| B7 | Livin' It Up |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

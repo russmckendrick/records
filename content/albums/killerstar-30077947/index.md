@@ -30,18 +30,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Should’ve Known Better |
+| A2 | Everybody Loves A Hero |
+| A3 | Got Me All Wrong |
+| A4 | Go (Hold On Tight) |
+| B1 | Feel It |
+| B2 | You’re A Chameleon |
+| B3 | Too Late |
+| B4 | Falling Through |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="4IHg4kymqqqlqePfbFId5x" width="100%" height="500" >}}<br>
 
 
 

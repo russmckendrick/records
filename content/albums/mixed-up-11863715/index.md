@@ -47,18 +47,19 @@ The Cure also released some other new mixes as the B-sides of the singles from M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Lullaby (Extended-Mix) |
+| A2 | Close To Me (Closer Mix) |
+| A3 | Fascination Street (Extended Mix) |
+| B1 | The Walk (Everything Mix) |
+| B2 | Lovesong (Extended Mix) |
+| B3 | A Forest (Tree Mix) |
+| C1 | Pictures Of You (Extended Dub Mix) |
+| C2 | Hot Hot Hot!!! (Extended Mix) |
+| C3 | Why Can't I Be You? (Extended Mix) |
+| D1 | The Caterpillar (Flicker Mix) |
+| D2 | Inbetween Days (Shiver Mix) |
+| D3 | Never Enough (Big Mix) |
+
 
 
 ## Apple Music

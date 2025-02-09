@@ -36,24 +36,25 @@ Ciao! Best of Lush is a compilation album by the band Lush, released in March 20
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ladykillers |
+| A2 | Single Girl |
+| A3 | Ciao! |
+| A4 | 500 (Shake Baby Shake) |
+| A5 | Light From A Dead Star |
+| B1 | Love At First Sight |
+| B2 | Hypocrite |
+| B3 | Desire Lines |
+| B4 | Lovelife |
+| C1 | When I Die |
+| C2 | Nothing Natural |
+| C3 | Untogether |
+| C4 | For Love |
+| D1 | Monochrome |
+| D2 | De-Luxe |
+| D3 | Sweetness And Light |
+| D4 | Thoughtforms |
+| D5 | Etheriel |
+
 
 
 ## Apple Music

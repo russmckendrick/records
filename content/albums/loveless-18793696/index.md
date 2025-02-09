@@ -41,17 +41,18 @@ Since its release, Loveless has been widely cited by critics as one of the great
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Only Shallow |
+| A2 | Loomer |
+| A3 | Touched |
+| A4 | To Here Knows When |
+| A5 | When You Sleep |
+| A6 | I Only Said |
+| B1 | Come In Alone |
+| B2 | Sometimes |
+| B3 | Blown A Wish |
+| B4 | What You Want |
+| B5 | Soon |
+
 
 
 ## Apple Music

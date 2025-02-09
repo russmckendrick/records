@@ -36,18 +36,19 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | So Much Money |
+| A2 | Aylesbury Boy |
+| A3 | Celebrate Me |
+| A4 | Leon |
+| A5 | Crashes |
+| B1 | Sincere |
+| B2 | Pale White Nissan |
+| B3 | Shadow |
+| B4 | Crowded Rooms |
+| B5 | Glows |
+|  | Maximum Security For Baxter Dury |
+| CD1 | I Thought I Was Better Than You Mixtape |
+
 
 
 ## Apple Music

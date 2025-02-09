@@ -26,16 +26,17 @@ styles: ["Hard Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | She Digs That Hole |
+| A2 | Watch Me Fade |
+| A3 | Mastermind ´69 |
+| B1 | Cobras And Fire (Hallucination Bomb) |
+| B2 | Gods, And Punks And The Everlasting Twilight |
+| C1 | The Titan |
+| C2 | When The Planes Fall From The Sky (Sitar And Psych Version) |
+| C3 | Ball Of Confusion |
+| D1 | Time Machine (Instrumental) |
+| D2 | I Live Behind The Paradise Machine: Evil Joe Barresi's Magnet Mash Vol.1 |
+
 
 
 ## Apple Music

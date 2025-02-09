@@ -38,16 +38,17 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Never Let Me Down Again |
+| A2 | The Things You Said |
+| A3 | Strangelove |
+| A4 | Sacred |
+| A5 | Little 15 |
+| B1 | Behind The Wheel |
+| B2 | I Want You Now |
+| B3 | To Have And To Hold |
+| B4 | Nothing |
+| B5 | Pimpf |
+
 
 
 ## Apple Music

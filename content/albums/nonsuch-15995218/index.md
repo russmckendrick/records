@@ -43,23 +43,24 @@ Lead single "The Disappointed" reached number 33 in the UK and was nominated for
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Ballad Of Peter Pumpkinhead |
+| A2 | My Bird Performs |
+| A3 | Dear Madam Barnum |
+| A4 | Humble Daisy |
+| A5 | The Smartest Monkeys |
+| B1 | The Disappointed |
+| B2 | Holly Up On Poppy |
+| B3 | Crocodile |
+| B4 | Rook |
+| C1 | Omnibus |
+| C2 | That Wave |
+| C3 | Then She Appeared |
+| C4 | War Dance |
+| D1 | Wrapped In Grey |
+| D2 | The Ugly Underneath |
+| D3 | Bungalow |
+| D4 | Books Are Burning |
+
 
 
 ## Apple Music

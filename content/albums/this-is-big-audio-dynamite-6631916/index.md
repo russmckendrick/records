@@ -32,14 +32,15 @@ styles: ["Leftfield", "Electro", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Medicine Show |
+| A2 | Sony |
+| A3 | E=MC² |
+| A4 | The Bottom Line |
+| B1 | A Party |
+| B2 | Sudden Impact! |
+| B3 | Stone Thames |
+| B4 | BAD |
+
 
 
 ## Apple Music

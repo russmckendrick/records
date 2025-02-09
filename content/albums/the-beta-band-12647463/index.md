@@ -33,34 +33,35 @@ Upon its release, the band made their dissatisfaction with the album public, inf
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Beta Band |
+| A1 | The Beta Band Rap |
+| A2 | It's Not Too Beautiful |
+| A3 | Simple Boy |
+| B1 | Round The Bend |
+| B2 | Dance-o'er-the-border |
+| B3 | Brokenupadingdong |
+| C1 | Number 15 |
+| C2 | Smiling |
+| D1 | The Hard One |
+| D2 | The Cow's Wrong |
+|  | Happiness And Colour / The Hut |
+| A1 | Happiness And Colour |
+| B1 | The Hut |
+|  | CD1 |
+| CD1 | The Beta Band Rap |
+| CD2 | It's Not Too Beautiful |
+| CD3 | Simple Boy |
+| CD4 | Round The Bend |
+| CD5 | Dance-o'er-the-border |
+| CD6 | Brokenupadingdong |
+| CD7 | Number 15 |
+| CD8 | Smiling |
+| CD9 | The Hard One |
+| CD10 | The Cow's Wrong |
+|  | CD2 |
+| CD1 | Happiness And Colour |
+| CD2 | The Hut |
+
 
 
 ## Apple Music

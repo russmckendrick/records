@@ -35,17 +35,18 @@ The album peaked at No. 7 on the UK Albums Chart. It peaked at No. 88 on the Bil
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I'm Free |
+| A2 | Mother Universe |
+| A3 | Backwards Dog |
+| A4 | Softly |
+| A5 | Drive The Pain |
+| B1 | Lovegod |
+| B2 | Dream-E-Forever |
+| B3 | Sweetmeat |
+| B4 | Kiss The Gun |
+| B5 | Love You To Death |
+| B6 | Beauty Freak |
+
 
 
 ## Apple Music

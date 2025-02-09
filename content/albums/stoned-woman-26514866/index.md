@@ -29,15 +29,16 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Riot On 103rd Street |
+| A2 | Look To The Light |
+| A3 | Stoned Woman |
+| A4 | The 5th Quadrant |
+| B1 | Jonathan E |
+| B2 | Bad Ass Weed |
+| B3 | Knowledge (Rap) |
+| B4 | Knowledge (Instrumental) |
+| B5 | Look To The Light (Alternate) |
+
 
 
 ## Apple Music

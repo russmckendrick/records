@@ -28,20 +28,21 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Act I |
+| A1 | Incantation For The Different |
+| A2 | Wyches And Basterdz |
+| A3 | Ghostland |
+| B1 | The Reckoning |
+| B2 | Bonefire |
+| C1 | Rose Of Jericho |
+|  | Act II |
+| D1 | Blackout '77 |
+| D2 | Down The Rabbit Hole |
+| E1 | Everything Is Beautiful But Us |
+| E2 | The Pilgrim |
+| E3 | I'm Ok, Just Not Alright |
+| F1 | The Scene Is A False Prophet |
+
 
 
 ## Apple Music

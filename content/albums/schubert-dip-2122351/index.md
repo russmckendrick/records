@@ -34,17 +34,18 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Children |
+| A2 | Long Summer Days |
+| A3 | When You're Mine |
+| A4 | Travelling Not Running |
+| A5 | I Believe |
+| B1 | Unbelievable |
+| B2 | Girl Of An Age |
+| B3 | Admit It |
+| B4 | Lies |
+| B5 | Longtime |
+| B6 | Untitled |
+
 
 
 ## Apple Music

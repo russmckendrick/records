@@ -41,20 +41,21 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nebraska |
+| A2 | Atlantic City |
+| A3 | Mansion On The Hill |
+| A4 | Johnny 99 |
+| A5  | Highway Patrolman |
+| B1 | State Trooper |
+| B2 | Used Cars |
+| B3 | Open All Night |
+| B4 | My Father's House |
+| B5 | Reason to Believe |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
+
+## Spotify
+{{< spotify type="album" id="6yskFQZNlLYhkchAxELHi6" width="100%" height="500" >}}<br>
 
 
 

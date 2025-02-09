@@ -35,16 +35,17 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Infestissumam |
+| A2 | Per Aspera Ad Inferi |
+| A3 | Secular Haze |
+| A4 | Jigolo Har Megiddo |
+| A5 | Ghuleh / Zombie Queen |
+| B1 | Year Zero |
+| B2 | Body And Blood |
+| B3 | Idolatrine |
+| B4 | Depth Of Satan's Eyes |
+| B5 | Monstrance Clock |
+
 
 
 ## Apple Music

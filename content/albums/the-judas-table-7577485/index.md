@@ -36,16 +36,17 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Black Eyed Man |
+| A2 | Killer |
+| A3 | Comrades |
+| B1 | Stillborn Empires |
+| B2 | Little Piggy |
+| B3 | Hole |
+| C1 | Can of Worms |
+| C2 | Integrity |
+| C3 | The Judas Table |
+| C4 | Goodbye |
+
 
 
 ## Apple Music

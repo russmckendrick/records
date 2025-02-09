@@ -34,16 +34,17 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pressure Down |
+| A2 | You're The Voice |
+| A3 | One Step Away |
+| A4 | Reasons |
+| A5 | Going, Going, Gone |
+| B1 | No One Comes Close |
+| B2 | Love To Shine |
+| B3 | Trouble |
+| B4 | A Touch Of Paradise |
+| B5 | Let Me Out |
+
 
 
 ## Apple Music

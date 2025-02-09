@@ -27,37 +27,35 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chelsea Girl |
+| A2 | Indian Rope |
+| A3 | Shall We Take A Trip? |
+| A4 | Is It Too Late? |
+| A5 | Big Bad Baby Pig Squeal |
+| A6 | Catch The Breeze |
+| B1 | Supermodel Superficial |
+| B2 | Waterlogged |
+| B3 | Real Surreal |
+| B4 | Speed King |
+| B5 | Rat |
+| B6 | Stutter |
+| B7 | Wuthering Heights |
+| C1 | Uncle Pat |
+| C2 | Happy Shopper |
+| C3 | Race |
+| C4 | Lover |
+| C5 | Morning Morning 5:19 |
+| C6 | Take It Easy Chicken |
+| C7 | Alkaline |
+| D1 | School Disco |
+| D2 | The First Big Weekend |
+| D3 | New Paths To Helicon Part 1 |
+| D4 | I.P.C. Subeditors Dictate Our Youth |
+| D5 | Freeze The Atlantic |
+| D6 | This Is My Hollywood |
+| D7 | Strachan |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

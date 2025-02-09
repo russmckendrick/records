@@ -37,16 +37,17 @@ Bryter Layter is the second studio album by English folk singer-songwriter Nick 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Introduction |
+| A2 | Hazey Jane II |
+| A3 | At The Chime Of A City Clock |
+| A4 | One Of These Things First |
+| A5 | Hazey Jane I |
+| B1 | Bryter Layter |
+| B2 | Fly |
+| B3 | Poor Boy |
+| B4 | Northern Sky |
+| B5 | Sunday |
+
 
 
 ## Apple Music

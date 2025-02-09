@@ -43,21 +43,22 @@ Title of Record was a critical and commercial success upon its release, peaking 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sand |
+| A2 | Welcome To The Fold |
+| A3 | Captain Bligh |
+| A4 | It's Gonna Kill Me |
+| B1 | The Best Things |
+| B2 | Take A Picture |
+| B3 | Skinny |
+| B4 | I Will Lead You |
+| C1 | Cancer |
+| C2 | I'm Not The Only One |
+| C3 | Miss Blue |
+| D1 | Jurassitol (2009 Remaster Version) |
+| D2 | (Can't You) Trip Like I Do (2009 Remaster Version) |
+| D3 | Take A Picture (H & H Remix) |
+| D4 | The Best Things (Humble Brothers Remix) |
+
 
 
 ## Apple Music

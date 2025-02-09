@@ -30,18 +30,19 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Turning The Mind |
+| A2 | I Dream Of Crystal |
+| A3 | Let Go Of The Fear |
+| A4 | Valium In The Sunshine |
+| B1 | Papercuts |
+| B2 | Love Will Come |
+| B3 | Everything Is Shattering |
+| B4 | Nothing |
+| C1 | The Note (These Voices) |
+| C2 | Chemeleon |
+| C3 | Die Happy, Die Smiling |
+| C4 | Without You |
+
 
 
 ## Apple Music

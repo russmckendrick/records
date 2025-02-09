@@ -40,23 +40,24 @@ Though a decent commercial and critical success upon release, The Name of This B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | New Feeling |
+| A2 | A Clean Break |
+| A3 | Don't Worry About The Government |
+| A4 | Pulled Up |
+| A5 | Psycho Killer |
+| B1 | Artists Only |
+| B2 | Stay Hungry |
+| B3 | Air |
+| B4 | Building On Fire |
+| B5 | Memories (Can't Wait) |
+| C1 | I Zimbra |
+| C2 | Drugs |
+| C3 | Houses In Motion |
+| C4 | Life During Wartime |
+| D1 | The Great Curve |
+| D2 | Crosseyed And Painless |
+| D3 | Take Me To The River |
+
 
 
 ## Apple Music

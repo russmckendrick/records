@@ -34,16 +34,17 @@ Open Up and Say Ahh was certified platinum in 1988 and 5× platinum in 1991 by t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Love On The Rocks |
+| A2 | Nothin' But A Good Time |
+| A3 | Back To The Rocking Horse |
+| A4 | Good Love |
+| A5 | Tearin' Down The Walls |
+| B1 | Look But You Can't Touch |
+| B2 | Fallen Angel |
+| B3 | Every Rose Has Its Thorn |
+| B4 | Your Mama Don't Dance |
+| B5 | Bad To Be Good |
+
 
 
 ## Apple Music

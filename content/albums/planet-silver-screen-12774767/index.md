@@ -28,15 +28,16 @@ styles: ["Progressive Metal", "Alternative Rock", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Cut |
+| 2 | Planet Silver Screen |
+| 3 | Neon Person |
+| 4 | Machine and Joy |
+| 5 | A Matter of Seconds |
+| 6 | 7th of July |
+| 7 | Cyborg Pt.2: The City |
+| 8 | Duplex |
+| 9 | Video Maniacs |
+
 
 
 ## Apple Music

@@ -45,19 +45,20 @@ Robert Plant didn't actually have a romance with bluegrass diva Alison Krauss, b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rich Woman |
+| A2 | Killing The Blues |
+| A3 | Sister Rosetta Goes Before Us |
+| A4 | Polly Come Home |
+| B1 | Gone Gone Gone (Done Moved On) |
+| B2 | Through The Morning, Through The Night |
+| B3 | Please Read The Letter |
+| C1 | Trampled Rose |
+| C2 | Fortune Teller |
+| C3 | Stick With Me Baby |
+| D1 | Nothin’ |
+| D2 | Let Your Loss Be Your Lesson |
+| D3 | Your Long Journey |
+
 
 
 ## Apple Music

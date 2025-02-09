@@ -34,17 +34,18 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | River Of Orchids |
+| A2 | I'd Like That |
+| A3 | Easter Theatre |
+| A4 | Knights In Shining Karma |
+| A5 | Frivolous Tonight |
+| B1 | Greenman |
+| B2 | Your Dictionary |
+| B3 | Fruit Nut |
+| B4 | I Can't Own Her |
+| B5 | Harvest Festival |
+| B6 | The Last Balloon |
+
 
 
 ## Apple Music

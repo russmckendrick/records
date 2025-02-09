@@ -43,19 +43,20 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1  | Dawna |
+| A2 | Buena |
+| A3 | I’m Free Now |
+| A4 | All Wrong |
+| A5 | Candy |
+| A6 | A Head With Wings |
+| A7 | In Spite Of Me |
+| B1 | Thursday  |
+| B2 | Cure For Pain |
+| B3 | Mary Won’t You Call My Name? |
+| B4 | Let’s Take A Trip Together |
+| B5 | Sheila |
+| B6 | Miles Davis’ Funeral |
+
 
 
 ## Apple Music

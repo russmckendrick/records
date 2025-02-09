@@ -44,18 +44,19 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Blackest Eyes |
+| A2 | Trains |
+| A3 | Lips Of Ashes |
+| B1 | The Sound Of Muzak |
+| B2 | Gravity Eyelids |
+| B3 | Wedding Nails |
+| C1 | Prodigal |
+| C2 | .3 |
+| C3 | The Creator Has A Mastertape |
+| D1 | Heartattack In A Layby |
+| D2 | Strip The Soul |
+| D3 | Collapse The Light Into Earth |
+
 
 
 ## Apple Music

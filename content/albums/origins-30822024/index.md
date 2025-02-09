@@ -29,18 +29,16 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Together |
+| A2 | Speed The Crows Nest |
+| A3 | Glass Skinned Girl |
+| A4 | Through A Lens Darkly |
+| B1 | Shine |
+| B2 | The Seed |
+| B3 | B.O.A.T.S |
+| B4 | Dark Clouds Mean War (Rework) |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -33,16 +33,17 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rock! Rock! (Till You Drop) |
+| A2 | Photograph |
+| A3 | Stagefright  |
+| A4 | Too Late For Love |
+| A5 | Die Hard The Hunter |
+| B1 | Foolin’ |
+| B2 | Rock Of Ages |
+| B3 | Comin’ Under Fire |
+| B4 | Action! Not Words |
+| B5 | Billy’s Got A Gun |
+
 
 
 ## Apple Music

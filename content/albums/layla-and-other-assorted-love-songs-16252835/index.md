@@ -47,37 +47,38 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Original Album - Half-Speed Mastered Edition - 50th Anniversary |
+| A1 | I Looked Away |
+| A2 | Bell Bottom Blues |
+| A3 | Keep On Growing |
+| A4 | Nobody Knows You When You're Down And Out |
+| B1 | I Am Yours |
+| B2 | Anyday |
+| B3 | Key To The Highway |
+| C1 | Tell The Truth |
+| C2 | Why Does Love Got To Be So Sad? |
+| C3 | Have You Ever Loved A Woman |
+| D1 | Little Wing |
+| D2 | It's Too Late |
+| D3 | Layla |
+| D4 | Thorn Tree In The Garden |
+|  | LP3: Bonus Material |
+| E1 | Mean Old World (Layla Session Out-Take) |
+| E2 | Roll It Over (Phil Spector Produced Single B-Side) |
+| E3 | Tell The Truth (Phil Spector Produced Single A-Side) |
+| F1 | It's Too Late (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F2 | Got To Get Better In A Little While (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F3 | Matchbox (Live On The Johnny Cash TV Show, 5 November, 1970) |
+| F4 | Blues Power (Live On The Johnny Cash TV Show, 5 November, 1970) |
+|  | LP4: Bonus Material |
+| G1 | Snake Lake Blues (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G2 | Evil (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G3 | Mean Old Frisco (From April / May 1971 Sessions For The Dominos' Second Album) |
+| G4 | One More Chance (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H1 | High (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H2 | Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) |
+| H3 | Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) |
+
 
 
 ## Apple Music

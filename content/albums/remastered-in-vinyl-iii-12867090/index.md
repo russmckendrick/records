@@ -99,29 +99,30 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Aerial |
+|  | "A Sea Of Honey" |
+|  | "A Sky Of Honey" |
+|  | Director's Cut  |
+| E1 | Flower Of The Mountain |
+| E2 | Song Of Solomon |
+| E3 | Lily |
+| F1 | Deeper Understanding |
+| F2 | The Red Shoes |
+| F3 | This Woman's Work |
+| G1 | Moments Of Pleasure |
+| G2 | Never Be Mine |
+| H1 | Top Of The City |
+| H2 | And So Is Love |
+| H3 | Rubberband Girl |
+|  | 50 Words For Snow |
+| I1 | Snowflake |
+| I2 | Lake Tahoe |
+| J1 | Misty |
+| K1 | Wild Man |
+| K2 | Snowed In At Wheeler Street |
+| L1 | 50 Words For Snow |
+| L2 | Among Angels |
+
 
 
 ## Apple Music

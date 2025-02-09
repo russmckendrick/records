@@ -40,16 +40,17 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sun Hair |
+| A2 | Stretchy |
+| A3 | Feng Shui |
+| B1 | Jurassic Shift |
+| B2 | Pteranodon |
+| B3 | Train Oasis |
+| B4 | Vita Voom |
+| C1 | Half Light In Thillai |
+| C2 | Sun Hair (System 7 Stargate Mix) |
+| D1 | Pteranodon (Hallucinogen Mix) |
+
 
 
 ## Apple Music

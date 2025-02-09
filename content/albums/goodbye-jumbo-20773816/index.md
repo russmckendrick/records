@@ -33,18 +33,19 @@ The album received generally positive reviews from critics and peaked at No. 73 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Is It Too Late? |
+| A2 | Way Down Now |
+| A3 | When The Rainbow Comes |
+| A4 | Put The Message In The Box |
+| A5 | Ain't Gonna Come Till I'm Ready |
+| A6 | And I Fell Back Alone |
+| B1 | Take It Up |
+| B2 | God On My Side |
+| B3 | Show Me To The Top |
+| B4 | Love Street |
+| B5 | Sweet Soul Dream |
+| B6 | Thank You World |
+
 
 
 ## Apple Music

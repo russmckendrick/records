@@ -35,20 +35,21 @@ Three Snakes and One Charm is the fourth studio album by American rock band the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Under A Mountain |
+| A2 | Good Friday |
+| A3 | Nebakanezer |
+| B1 | One Mirror Too Many |
+| B2 | Blackberry |
+| B3 | Girl From A Pawnshop |
+| C1 | (Only) Halfway To Everywhere |
+| C2 | Bring On, Bring On |
+| C3 | How Much For Your Wings? |
+| C4 | Let Me Share The Ride |
+| D1 | Better When You're Not Alone |
+| D2 | Evil Eye |
+| D3 | Just Say You're Sorry |
+| D4 | Pimper's Paradise |
+
 
 
 ## Apple Music

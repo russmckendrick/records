@@ -27,24 +27,25 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sylvia's Mother |
+| A2 | The Cover Of “Rolling Stone” |
+| A3 | Carry Me, Carrie |
+| A4 | Only Sixteen |
+| A5 | I Got Stoned And I Missed It |
+| A6 | The Millionaire |
+| A7 | Everybody's Makin' It Big But Me |
+| A8 | More Like The Movies |
+| A9 | A Little Bit More |
+| B1 | If Not You |
+| B2 | Walk Right In |
+| B3 | Sharing The Night Together |
+| B4 | Storms Never Last |
+| B5 | When You're In Love With A Beautiful Woman |
+| B6 | You Make My Pants Want To Get Up And Dance |
+| B7 | Sexy Eyes |
+| B8 | Better Love Next Time |
+| B9 | Baby Makes Her Blue Jeans Talk |
+
 
 
 ## Apple Music

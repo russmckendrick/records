@@ -42,21 +42,22 @@ Josh Tillman’s third album as Father John Misty is a wry and passionate compla
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pure Comedy |
+| A2 | Total Entertainment Forever |
+| A3 | Things It Would Be Helpful To Know Before The Revolution |
+| A4 | Ballad Of The Dying Man |
+| B1 | Birdie |
+| B2 | Leaving LA |
+| C1 | A Bigger Paper Bag |
+| C2 | When The God Of Love Returns There'll Be Hell To Pay |
+| C3 | Smoochie |
+| C4 | Two Wildly Different Perspectives |
+| C5 | The Memo |
+| D1 | So I’m Growing Old On Magic Mountain |
+| D2 | In Twenty Years Or So |
+| E | Real Love Baby |
+| F | Rejected Generic Pop Song March '15 #3 |
+
 
 
 ## Apple Music

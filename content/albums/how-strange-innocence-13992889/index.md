@@ -37,13 +37,14 @@ The album was also released in a limited edition, 300 copy, double LP 180 gram v
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Song For Our Fathers |
+| A2 | Snow And Lights |
+| B1 | Magic Hours |
+| B2 | Look Into The Air |
+| C1 | Glittering Blackness |
+| C2 | Time Stops |
+| C3 | Remember Me As A Time Of Day |
+
 
 
 ## Apple Music

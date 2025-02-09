@@ -36,17 +36,18 @@ In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords labe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Regular John |
+| A2 | Avon |
+| A3 | If Only |
+| A4 | Walkin' On The Sidewalks |
+| A5 | You Would Know |
+| A6 | How To Handle A Rope (A Lesson In The Lariat) |
+| B7 | Mexicola |
+| B8 | Hispanic Impressions |
+| B9 | You Can't Quit Me Baby |
+| B10 | Give The Mule What He Wants |
+| B11 | I Was A Teenage Hand Model |
+
 
 
 ## Apple Music

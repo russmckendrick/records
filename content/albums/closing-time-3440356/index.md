@@ -38,18 +38,19 @@ Like all of Waits’ 1970s material, <i>Closing Time</i> was more of a cult obje
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ol' '55 |
+| A2 | I Hope That I Don't Fall In Love With You |
+| A3 | Virginia Avenue |
+| A4 | Old Shoes (& Picture Postcards) |
+| A5 | Midnight Lullaby |
+| A6 | Martha |
+| B1 | Rosie |
+| B2 | Lonely |
+| B3 | Ice Cream Man |
+| B4 | Little Trip To Heaven (On The Wings Of Your Love) |
+| B5 | Grapefruit Moon |
+| B6 | Closing Time |
+
 
 
 ## Apple Music

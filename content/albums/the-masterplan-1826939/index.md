@@ -40,20 +40,21 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Acquiesce |
+| A2 | Underneath The Sky |
+| A3 | Talk Tonight |
+| A4 | Going Nowhere |
+| B1 | Fade Away |
+| B2 | The Swamp Song |
+| B3 | I Am The Walrus (Live) |
+| C1 | Listen Up |
+| C2 | Rockin' Chair |
+| C3 | Half The World Away |
+| D1 | (It's Good) To Be Free |
+| D2 | Stay Young |
+| D3 | Headshrinker |
+| D4 | The Masterplan |
+
 
 
 ## Apple Music

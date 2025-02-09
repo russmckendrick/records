@@ -44,12 +44,13 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Larks' Tongues In Aspic Part II |
+| A2 | Lament |
+| A3 | Exiles |
+| B1 | Asbury Park |
+| B2 | Easy Money |
+| B3 | 21st Century Schizoid Man |
+
 
 
 ## Apple Music

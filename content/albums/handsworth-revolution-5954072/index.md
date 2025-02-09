@@ -28,14 +28,15 @@ England’s Steel Pulse took no prisoners with their cerebral yet accessible bra
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Handsworth Revolution |
+| A2 | Bad Man |
+| A3 | Soldiers |
+| A4 | Sound Check |
+| B1 | Prodigal Son |
+| B2 | Ku Klux Klan |
+| B3 | Prediction |
+| B4 | Macka Splaff |
+
 
 
 ## Apple Music

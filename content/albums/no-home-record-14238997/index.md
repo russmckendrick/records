@@ -35,15 +35,16 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sketch Artist |
+| A2 | Air BnB |
+| A3 | Paprika Pony |
+| A4 | Murdered Out |
+| A5 | Don't Play It |
+| B1 | Cookie Butter |
+| B2 | Hungry Baby |
+| B3 | Earthquake |
+| B4 | Get Yr Life Back |
+
 
 
 ## Apple Music

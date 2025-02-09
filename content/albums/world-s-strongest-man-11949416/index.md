@@ -28,17 +28,18 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | World's Strongest Man |
+| A2 | Deep Pockets |
+| A3 | Walk The Walk |
+| A4 | Shit (I've Done It Again) |
+| A5 | Slow Motion Life |
+| A6 | Wounded Egos |
+| B1 | Oxygen Mask |
+| B2 | In Waves |
+| B3 | The Oaks |
+| B4 | Vanishing Act |
+| B5 | Weird Dreams |
+
 
 
 ## Apple Music

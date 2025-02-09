@@ -38,32 +38,33 @@ styles: ["Modern", "Contemporary", "Vocal", "Ballad", "Avantgarde", "Acoustic", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Scratch My Back |
+| A1 | Heroes |
+| A2 | The Boy In The Bubble |
+| A3 | Mirrorball |
+| A4 | Flume |
+| A5 | Listening Wind |
+| A6 | The Power Of The Heart |
+| B7 | My Body Is A Cage |
+| B8 | The Book Of Love |
+| B9 | I Think It's Going To Rain Today |
+| B10 | Après Moi |
+| B11 | Philadelphia |
+| B12 | Street Spirit (Fade Out) |
+|  | And I'll Scratch Yours |
+| C1 | I Don't Remember |
+| C2 | Come Talk To Me |
+| C3 | Blood Of Eden |
+| C4 | Not One Of Us |
+| C5 | Shock The Monkey |
+| C6 | Big Time |
+| D7 | Games Without Frontiers |
+| D8 | Mercy Street |
+| D9 | Mother Of Violence |
+| D10 | Don't Give Up |
+| D11 | Solsbury Hill |
+| D12 | Biko |
+
 
 
 ## Apple Music

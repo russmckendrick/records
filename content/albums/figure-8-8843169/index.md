@@ -39,24 +39,25 @@ Smith talked about <i>Figure 8</i> as a dream diary, or a sequence of “little 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Son Of Sam |
+| A2 | Somebody That I Used To Know |
+| A3 | Junk Bond Trader |
+| A4 | Everything Reminds Me Of Her |
+| A5 | Everything Means Nothing To Me |
+| A6 | LA |
+| A7 | In The Lost And Found (Honky Bach) |
+| A8 | The Roost |
+| A9 | Stupidity Tries |
+| B10 | Easy Way Out |
+| B11 | Wouldn't Mama Be Proud? |
+| B12 | Color Bars |
+| B13 | Happiness |
+| B14 | The Gondola Man |
+| B15 | Pretty Mary K |
+| B16 | I Better Be Quiet Now |
+| B17 | Can't Make A Sound |
+| B18 | Bye |
+
 
 
 ## Apple Music

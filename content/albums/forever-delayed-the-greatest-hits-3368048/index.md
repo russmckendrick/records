@@ -35,26 +35,27 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Design For Life |
+| A2 | Motorcycle Emptiness |
+| A3 | If You Tolerate This Your Children Will Be Next |
+| A4 | La Tristesse Durera (Scream To A Sigh) |
+| B1 | There By The Grace Of God |
+| B2 | You Love Us |
+| B3 | Australia |
+| B4 | You Stole The Sun From My Heart |
+| B5 | Kevin Carter |
+| B6 | Tsunami |
+| C1 | The Masses Against The Classes |
+| C2 | From Despair To Where |
+| C3 | Door To The River |
+| C4 | Everything Must Go |
+| C5 | Faster |
+| D1 | Little Baby Nothing |
+| D2 | Suicide Is Painless (Theme From Mash) |
+| D3 | So Why So Sad |
+| D4 | The Everlasting |
+| D5 | Motown Junk |
+
 
 
 ## Apple Music

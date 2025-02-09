@@ -30,18 +30,19 @@ Eels Time! is the 15th studio album by the American indie rock band Eels. It was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Time |
+| A2 | We Won't See Her Like Again |
+| A3 | Goldy |
+| A4 | Sweet Smile |
+| A5 | Haunted Hero |
+| A6 | If I'm Gonna Go Anywhere |
+| B1 | And You Run |
+| B2 | Lay With The Lambs |
+| B3 | Song For You Know Who |
+| B4 | I Can't Believe It's True |
+| B5 | On The Bridge |
+| B6 | Let's Be Lucky |
+
 
 
 ## Apple Music

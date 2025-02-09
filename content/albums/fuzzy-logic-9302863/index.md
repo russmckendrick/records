@@ -37,18 +37,19 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | God! Show Me Magic |
+| A2 | Fuzzy Birds |
+| A3 | Something 4 The Weekend |
+| A4 | Frisbee |
+| A5 | Hometown Unicorn |
+| A6 | Gathering Moss |
+| A7 | If You Don't Want Me To Destroy You |
+| B1 | Bad Behaviour |
+| B2 | Mario Man |
+| B3 | Hangin' With Howard Marks |
+| B4 | Long Gone |
+| B5 | For Now And Ever |
+
 
 
 ## Apple Music

@@ -39,17 +39,18 @@ styles: ["Heavy Metal", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mr. Tinkertrain |
+| A2 | I Don't Want To Change The World |
+| A3 | Mama, I'm Coming Home |
+| B1 | Desire |
+| B2 | No More Tears |
+| C1 | S.I.N. |
+| C2 | Hellraiser |
+| C3 | Time After Time |
+| D1 | Zombie Stomp |
+| D2 | A.V.H. |
+| D3 | Road To Nowhere |
+
 
 
 ## Apple Music

@@ -68,16 +68,17 @@ CT: “This one’s meant to be a very personal story about feeling trapped in a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Hell |
+| A2 | Needlessly Wild |
+| A3 | Say It Like You Mean It |
+| A4 | Hunt You Down |
+| A5 | Small Finds |
+| B1 | Don’t Feel Right |
+| B2 | Six Mistakes |
+| B3 | Crusader |
+| B4 | Dress Yourself |
+| B5 | Untidy Creature |
+
 
 
 ## Apple Music

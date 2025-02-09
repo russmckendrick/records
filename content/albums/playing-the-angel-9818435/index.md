@@ -40,18 +40,19 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | A Pain That I'm Used To |
+| A2 | John The Revelator |
+| A3 | Suffer Well |
+| B1 | The Sinner In Me |
+| B2 | Precious |
+| B3 | Macro |
+| C1 | I Want It All |
+| C2 | Nothing's Impossible |
+| C3 | Introspectre |
+| C4 | Damaged People |
+| D1 | Lilian |
+| D2 | The Darkest Star |
+
 
 
 ## Apple Music

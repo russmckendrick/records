@@ -36,22 +36,23 @@ Nathaniel Merriweather Presents... Lovage: Music to Make Love to Your Old Lady B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ladies Love Chest Rockwell |
+| A2 | Pit Stop (Take Me Home) |
+| A3 | Anger Management |
+| B1 | Everyone Has A Summer |
+| B2 | To Catch A Thief |
+| B3 | Lies And Alibis |
+| B4 | Herbs, Good Hygiene & Socks |
+| C1 | Book Of The Month |
+| C2 | Lifeboat |
+| C3 | Strangers On A Train |
+| C4 | Lovage (Love That Lovage, Baby) |
+| D1 | Sex (I'm A) |
+| D2 | Koala's Lament |
+| D3 | Tea Time With Maseo |
+| D4 | Stroker Ace |
+| D5 | Archie & Veronica |
+
 
 
 ## Apple Music

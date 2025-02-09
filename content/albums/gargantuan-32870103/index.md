@@ -29,22 +29,20 @@ styles: ["Space Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Evolution |
+| 2 | Gateway |
+| 3 | Invader |
+| 4 | Blackhole |
+| 5 | Pyramid |
+| 6 | Entity |
+| 7 | Guilty Pleasure |
+| 8 | King Kong |
+| 9 | Cross Dissolve |
+| 10 | Long Road |
+| 11 | Spock's Harp |
+| 12 | Gargantuan [Prt.2] |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

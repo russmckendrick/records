@@ -38,18 +38,19 @@ Mason later said, "We shouldn't have produced it ourselves, and if you think we 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Assessment |
+| A2 | Space |
+| A3 | Lion Thief |
+| A4 | Easy |
+| A5 | Wonderful |
+| A6 | Troubles |
+| B1 | Out-Side |
+| B2 | Space Beatle |
+| B3 | Rhododendron |
+| B4 | Liquid Bird |
+| B5 | Simple |
+| B6 | Pure For |
+
 
 
 ## Apple Music

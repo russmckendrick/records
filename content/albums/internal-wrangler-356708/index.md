@@ -34,19 +34,20 @@ Internal Wrangler is the debut studio album by British indie rock band Clinic. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Voodoo Wop |
+| A2 | The Return Of Evil Bill |
+| A3 | Internal Wrangler |
+| A4 | DJ Shangri-La |
+| A5 | The Second Line |
+| A6 | C.Q. |
+| A7 | Earth Angel |
+| B1 | T.K. |
+| B2 | Distortions |
+| B3 | Hippy Death Suite |
+| B4 | 2nd Foot Stomp |
+| B5 | 2/4 |
+| B6 | Goodnight Georgie |
+
 
 
 ## Apple Music

@@ -49,18 +49,19 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | D'You Know What I Mean? |
+| A2 | My Big Mouth |
+| A3 | Magic Pie |
+| B1 | Stand By Me |
+| B2 | I Hope, I Think, I Know |
+| B3 | The Girl In The Dirty Shirt |
+| C1 | Fade In-Out |
+| C2 | Don't Go Away |
+| C3 | Be Here Now |
+| D1 | All Around The World |
+| D2 | It's Gettin' Better (Man!!) |
+| D3 | All Around The World (Reprise) |
+
 
 
 ## Apple Music

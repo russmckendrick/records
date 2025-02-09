@@ -71,15 +71,16 @@ So, what’s <i>Fear Inoculum</i> actually about? Keenan deliberately evades exp
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Fear Inoculum |
+| A2 | Pneuma |
+| C1 | Invincible |
+| E1 | Legion Inoculant |
+| E2 | Descending |
+| G1 | Culling Voices |
+| G2 | Chocolate Chip Trip |
+| I1 | 7empest |
+| I2 | Mockingbeat |
+
 
 
 ## Apple Music

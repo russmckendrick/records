@@ -39,29 +39,30 @@ The Singles is a compilation album of singles and B-sides by the German experime
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Soul Desert |
+| A2 | She Brings The Rain |
+| A3 | Spoon |
+| A4 | Shikako Maru Ten |
+| B1 | Turtles Have Short Legs |
+| B2 | Halleluwah (Edit) |
+| B3 | Vitamin C |
+| B4 | I'm So Green |
+| C1 | Mushroom |
+| C2 | Moonshake |
+| C3 | Future Days (Edit) |
+| C4 | Dizzy Dizzy (Edit) |
+| D1 | Splash (Edit) |
+| D2 | Hunters And Collectors (Edit) |
+| D3 | Vernal Equinox (Edit) |
+| D4 | I Want More |
+| E1 | ...And More |
+| E2 | Silent Night |
+| E3 | Cascade Waltz |
+| F1 | Don't Say No (Edit) |
+| F2 | Return |
+| F3 | Can Can |
+| F4 | Hoolah Hoolah (Edit) |
+
 
 
 ## Apple Music

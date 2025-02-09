@@ -37,39 +37,40 @@ Rave Tapes is the eighth studio album by Scottish post-rock band Mogwai, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Heard About You Last Night |
+| LP-A2 | Simon Ferocious |
+| LP-A3 | Remurdered |
+| LP-A4 | Hexon Bogon |
+| LP-A5 | Repelish |
+| LP-B1 | Master Card |
+| LP-B2 | Deesh |
+| LP-B3 | Blues Hour |
+| LP-B4 | No Medicine For Regret |
+| LP-B5 | The Lord Is Out Of Control |
+| 12"-A | Bad Magician 3 |
+| 12"-B | Die 1 Dislike! |
+| 7"-A | Tell Everybody That I Love Them |
+| CD-1 | Heard About You Last Night |
+| CD-2 | Simon Ferocious |
+| CD-3 | Remurdered |
+| CD-4 | Hexon Bogon |
+| CD-5 | Repelish |
+| CD-6 | Master Card |
+| CD-7 | Deesh |
+| CD-8 | Blues Hour |
+| CD-9 | No Medicine For Regret |
+| CD-10 | The Lord Is Out Of Control |
+| MC-A1 | Heard About You Last Night |
+| MC-A2 | Simon Ferocious |
+| MC-A3 | Remurdered |
+| MC-A4 | Hexon Bogon |
+| MC-A5 | Repelish |
+| MC-B1 | Master Card |
+| MC-B2 | Deesh |
+| MC-B3 | Blues Hour |
+| MC-B4 | No Medicine For Regret |
+| MC-B5 | The Lord Is Out Of Control |
+
 
 
 ## Apple Music

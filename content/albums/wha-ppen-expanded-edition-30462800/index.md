@@ -33,27 +33,28 @@ For the expanded edition, Breezy dips further into his emotions for a posthumous
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Doors Of Your Heart |
+| A2 | All Out To Get You |
+| A3 | Monkey Murders |
+| A4 | I Am Your Flag |
+| A5 | French Toast (Soleil Trop Chaud) |
+| A6 | Drowning |
+| B1 | Dream Home In NZ |
+| B2 | Walk Away |
+| B3 | Over And Over |
+| B4 | Cheated |
+| B5 | Get-A-Job |
+| B6 | The Limits We Set |
+| C1 | Too Nice To Talk To |
+| C2 | Psychedelic Rockers |
+| C3 | Hit It |
+| C4 | Which Side Of The Bed? |
+| C5 | Drowning (Dub) |
+| D1 | Too Nice To Talk To (Dubweiser) |
+| D2 | Psychedelic Rockers (Dubweiser) |
+| D3 | Doors Of Your Heart (Extended) |
+| D4 | Hit It (Extended) |
+
 
 
 ## Apple Music

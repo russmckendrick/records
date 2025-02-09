@@ -30,30 +30,31 @@ Map of the Past is the fifth studio album by progressive rock band It Bites. It 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Man In The Photograph |
+| A2 | Wallflower |
+| A3 | Map Of The Past |
+| B1 | Clocks |
+| B2 | Flag |
+| B3 | The Big Machine |
+| C1 | Cartoon Graveyard |
+| C2 | Send No Flowers |
+| D1 | Meadow And The Stream |
+| D2 | The Last Escape |
+| D3 | Exit Song |
+| CD-1 | Man In The Photograph |
+| CD-2 | Wallflower |
+| CD-3 | Map Of The Past |
+| CD-4 | Clocks |
+| CD-5 | Flag |
+| CD-6 | The Big Machine |
+| CD-7 | Cartoon Graveyard |
+| CD-8 | Send No Flowers |
+| CD-9 | Meadow And The Stream |
+| CD-10 | The Last Escape |
+| CD-11 | Exit Song |
+| CD-12 | Lighthouse |
+| CD-13 | Come On |
+
 
 
 ## Apple Music

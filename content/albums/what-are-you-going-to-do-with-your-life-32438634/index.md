@@ -34,15 +34,16 @@ Two years after their triumphant comeback album, <i>Evergreen</i>, Echo & The Bu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | What Are You Going To Do With Your Life? |
+| A2 | Rust |
+| A3 | Get In The Car |
+| A4 | Baby Rain |
+| B1 | History Chimes |
+| B2 | Lost On You |
+| B3 | Morning Sun |
+| B4 | When It All Blows Over |
+| B5 | Fools Like Us |
+
 
 
 ## Apple Music

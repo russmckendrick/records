@@ -29,13 +29,11 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trojan |
+| B1 | Colours |
+| B2 | Legend |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -45,16 +45,17 @@ In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Garden Of Earthly Delights |
+| A2 | Dignity |
+| A3 | Heart In Hand |
+| B1 | Next Of Kin |
+| B2 | Lovelorn Crime |
+| C1 | Charlatan |
+| C2 | Universal Truth |
+| C3 | The Garroter |
+| D1 | Continuum |
+| D2 | All Things Will Pass |
+
 
 
 ## Apple Music

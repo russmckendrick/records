@@ -35,18 +35,19 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Caught In The Middle |
+| A2 | Built-In Forgetter |
+| A3 | Love And Devotion |
+| A4 | A Deeper Cut |
+| A6 | Backwater Zoo |
+| A7 | Another Spiral |
+| B1 | Beast Nation |
+| B2 | The Way It Was And The Way It Is Now |
+| B3 | Higher Than The Sun |
+| B4 | Children |
+| B5 | There's Still Time |
+| B6 | The Wonders We've Seen |
+
 
 
 ## Apple Music

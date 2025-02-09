@@ -47,46 +47,47 @@ A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Electricity |
+| A2 | Red Frame/White Light |
+| A3 | Messages |
+| A4 | Enola Gay |
+| A5 | Souvenir |
+| A6 | Joan Of Arc |
+| A7 | Maid Of Orleans |
+| B1 | Genetic Engineering |
+| B2 | Telegraph |
+| B3 | Locomotion |
+| B4 | Talking Loud & Clear |
+| B5 | Tesla Girls |
+| B6 | Never Turn Away |
+| B7 | So In Love |
+| C1 | Secret |
+| C2 | La Femme Accident |
+| C3 | If You Leave |
+| C4 | (Forever) Live & Die |
+| C5 | We Love You |
+| C6 | Shame |
+| C7 | Dreaming |
+| D1 | Sailing On The Seven Seas |
+| D2 | Pandora's Box (It's A Long, Long Way) |
+| D3 | Then You Turn Away |
+| D4 | Call My Name |
+| D5 | Stand Above Me |
+| D6 | Dream Of Me |
+| E1 | Everyday |
+| E2 | Walking On The Milky Way |
+| E3 | Universal |
+| E4 | If You Want It |
+| E5 | Sister Marie Says |
+| E6 | History Of Modern (Part 1) |
+| F1 | Metroland |
+| F2 | Dresden |
+| F3 | Night Cafe |
+| F4 | Isotype |
+| F5 | The Punishment Of Luxury |
+| F6 | What Have We Done |
+| F7 | Don't Go |
+
 
 
 ## Apple Music

@@ -36,22 +36,23 @@ The song was the subject of controversy due to its overt similarity to another b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Line Up |
+| A2 | Annie |
+| A3 | Connection |
+| A4 | Car Song |
+| A5 | Smile |
+| A6 | Hold Me Now |
+| A7 | S.O.F.T. |
+| A8 | Indian Song |
+| B1 | Blue |
+| B2 | All-Nighter |
+| B3 | Waking Up |
+| B4 | 2:1 |
+| B5 | Vaseline |
+| B6 | Never Here |
+| B7 | Stutter |
+| C | In The City |
+
 
 
 ## Apple Music

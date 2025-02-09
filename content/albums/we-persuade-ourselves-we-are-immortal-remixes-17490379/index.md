@@ -29,24 +29,22 @@ styles: ["Downtempo", "Experimental", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Lutine Bell |
+| A2 | Günter & His Evil Soul Sacrifice Orchestra Play Black Mass A Gogo |
+| A3 | Hymortality Part 1 |
+| A4 | Physically I'm Here, Mentally Far, Far Away (Excerpt) |
+| A5 | In Madness Reigns |
+| A6 | Hymortality Part 2  |
+| A7 | Somos Inmortales Nos Persuadimosi |
+| B1 | Everything Is Easy With A Little Persuasion |
+| B2 | Gravity Bong |
+| B3 |  Our Dominion |
+| B4 | The Persuader |
+| B5 | Synthony On A Theme Of Mortality (Part 2) |
+| B6 |  Counting Down The Time (Part 2) |
+| B7 | Tomorrow, Time & Immortality |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

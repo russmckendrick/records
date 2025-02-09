@@ -34,20 +34,21 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | G |
+| G1 | Welcome To The Jungle |
+| G2 | It's So Easy |
+| G3 | Nightrain |
+| G4 | Out Ta Get Me |
+| G5 | Mr. Brownstone |
+| G6 | Paradise City |
+|  | R |
+| R1 | My Michelle |
+| R2 | Think About You |
+| R3 | Sweet Child O' Mine |
+| R4 | You're Crazy |
+| R5 | Anything Goes |
+| R6 | Rocket Queen |
+
 
 
 ## Apple Music

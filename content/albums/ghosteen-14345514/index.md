@@ -45,19 +45,20 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Part 1 |
+| A1 | Spinning Song |
+| A2 | Bright Horses |
+| A3 | Waiting For You |
+| A4 | Night Raid |
+| B1 | Sun Forest |
+| B2 | Galleon Ship |
+| B3 | Ghosteen Speaks |
+| B4 | Leviathan |
+|  | Part 2 |
+| C1 | Ghosteen |
+| C2 | Fireflies |
+| D1 | Hollywood |
+
 
 
 ## Apple Music

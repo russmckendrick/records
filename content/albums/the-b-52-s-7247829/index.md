@@ -35,15 +35,16 @@ The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Planet Claire |
+| A2 | 52 Girls |
+| A3 | Dance This Mess Around |
+| A4 | Rock Lobster |
+| B1 | Lava |
+| B2 | There's A Moon In The Sky (Called The Moon) |
+| B3 | Hero Worship |
+| B4 | 6060-842 |
+| B5 | Downtown |
+
 
 
 ## Apple Music

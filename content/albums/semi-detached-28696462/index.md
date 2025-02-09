@@ -37,22 +37,20 @@ The cover artwork is a reference to Happy Days, a play by Samuel Beckett, whose 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Church Of Noise |
+| A2 | Tightrope Walker |
+| A3 | Black Eye Purple Sky |
+| A4 | Lonely, Cryin', Only. |
+| A5 | Born Too Soon |
+| A6 | Stay Happy. |
+| B1 | Safe |
+| B2 | Straight Life |
+| B3 | Heaven's Gate. |
+| B4 | Don't Expect Roses. |
+| B5 | Tramline |
+| B6 | The Boy's Asleep |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

@@ -41,22 +41,23 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Right Next Door To Hell |
+| A2 | Dust N' Bones |
+| A3 | Live And Let Die |
+| A4 | Don't Cry (Original) |
+| A5 | Perfect Crime |
+| B1 | You Ain't The First |
+| B2 | Bad Obsession |
+| B3 | Back Off Bitch |
+| B4 | Double Talkin' Jive |
+| C1 | November Rain |
+| C2 | The Garden |
+| C3 | Garden Of Eden |
+| C4 | Don't Damn Me |
+| D1 | Bad Apples |
+| D2 | Dead Horse |
+| D3 | Coma |
+
 
 
 ## Apple Music

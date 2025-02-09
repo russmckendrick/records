@@ -31,20 +31,21 @@ Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “L
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Wanna Get High |
+| A2 | I Ain't Goin' Out Like That |
+| A3 | Insane In The Brain |
+| B1 | When The Sh-- Goes Down |
+| B2 | Lick A Shot |
+| B3 | Cock The Hammer |
+| B4 | Interlude |
+| C1 | Lil' Putos |
+| C2 | Legalize It |
+| C3 | Hits From The Bong |
+| D1 | What Go Around Come Around, Kid |
+| D2 | A To The K |
+| D3 | Hand On The Glock |
+| D4 | Break 'Em Off Some |
+
 
 
 ## Apple Music

@@ -36,29 +36,30 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Bone Machine |
+| A2 | Nimrod's Son |
+| A3 | The Holiday Song |
+| A4 | Caribou |
+| A5 | Broken Face |
+| A6 | Gigantic |
+| B1 | Vamos |
+| B2 | Hey |
+| B3 | Monkey Gone To Heaven |
+| B4 | Debaser |
+| B5 | Gouge Away |
+| B6 | Wave Of Mutilation |
+| C1 | Here Comes Your Man |
+| C2 | Tame |
+| C3 | Where Is My Mind? |
+| C4 | Into The White |
+| C5 | Velouria |
+| D1 | Allison |
+| D2 | Dig For Fire |
+| D3 | U-Mass |
+| D4 | Alec Eiffel |
+| D5 | Planet Of Sound |
+| D6 | Winterlong |
+
 
 
 ## Apple Music

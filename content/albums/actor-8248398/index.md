@@ -33,17 +33,18 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Strangers |
+| A2 | Save Me From What I Want |
+| A3 | The Neighbors |
+| A4 | Actor Out Of Work |
+| A5 | Black Rainbow |
+| A6 | The Sequel |
+| B1 | Laughing With A Mouth Of Blood |
+| B2 | Marrow |
+| B3 | The Bed |
+| B4 | The Party |
+| B5 | Just The Same But Brand New |
+
 
 
 ## Apple Music

@@ -32,26 +32,27 @@ A Natural Disaster is the seventh album by the British rock band Anathema. It wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Harmonium |
+| A2 | Balance |
+| A3 | Closer |
+| A4 | Are You There? |
+| A5 | Childhood Dream |
+| A6 | Pulled Under At 2000 Metres A Second |
+| B1 | A Natural Disaster |
+| B2 | Flying |
+| B3 | Electricity |
+| B4 | Violence |
+| CD1 | Harmonium |
+| CD2 | Balance |
+| CD3 | Closer |
+| CD4 | Are You There? |
+| CD5 | Childhood Dream |
+| CD6 | Pulled Under At 2000 Metres A Second |
+| CD7 | A Natural Disaster |
+| CD8 | Flying |
+| CD9 | Electricity |
+| CD10 | Violence |
+
 
 
 ## Apple Music

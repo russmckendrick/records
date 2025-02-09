@@ -28,40 +28,38 @@ Herbie: Fully Loaded had its premiere at the Las Vegas Motor Speedway on May 10,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Don't Look Back In Anger |
+| A2 | The Bartender And The Thief |
+| A3 | Wake Up Boo! |
+| A4 | The Changingman |
+| A5 | The Day We Caught The Train |
+| A6 | All You Good Good People |
+| A7 | Slight Return |
+| B1 | Loaded |
+| B2 | Fool's Gold |
+| B3 | Step On |
+| B4 | Only Love Can Break Your Heart |
+| B5 | Born Slippy (Nuxx) |
+| B6 | Hey Boy Hey Girl |
+| B7 | Insomnia |
+| C1 | A Design For Life |
+| C2 | Disco 2000 |
+| C3 | Bohemian Like You |
+| C4 | Nancy Boy |
+| C5 | Celebrity Skin |
+| C6 | Buddy Holly |
+| C7 | Inbetweener |
+| C8 | Going For Gold |
+| D1 | There She Goes |
+| D2 | Friday I'm In Love |
+| D3 | Lovefool |
+| D4 | You & Me Song |
+| D5 | Sit Down |
+| D6 | Good Enough |
+| D7 | Lucky You |
+| D8 | Why Does It Always Rain On Me? |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

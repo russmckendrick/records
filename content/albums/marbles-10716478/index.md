@@ -47,21 +47,22 @@ The album did not chart in the UK, due to it being packaged with a couple of sti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Invisible Man |
+| A2 | Marbles I |
+| A3 | Genie |
+| B1 | Fantastic Place |
+| B2 | The Only Unforgivable Thing |
+| B3 | Marbles II |
+| C1 | Ocean Cloud |
+| C2 | Marbles III |
+| D1 | The Damage |
+| D2 | Don't Hurt Yourself |
+| D3 | You're Gone |
+| E1 | Angelina |
+| E2 | Drilling Holes |
+| F1 | Marbles IV |
+| F2 | Neverland |
+
 
 
 ## Apple Music

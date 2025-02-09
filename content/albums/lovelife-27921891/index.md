@@ -33,18 +33,19 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Ladykillers |
+| A2 | Heavenly Nobodies |
+| A3 | 500 |
+| A4 | I've Been Here Before |
+| A5 | Papasan |
+| A6 | Single Girl |
+| A7 | Ciao! |
+| B8 | Tralala |
+| B9 | Last Night |
+| B10 | Runaway |
+| B11 | The Childcatcher |
+| B12 | Olympia |
+
 
 
 ## Apple Music

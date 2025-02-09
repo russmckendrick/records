@@ -37,18 +37,19 @@ The album was a critical success, with reviewers praising its production, lyrics
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Old Red Eyes Is Back |
+| A2 | We Are Each Other |
+| A3 | The Rocking Chair |
+| A4 | We'll Deal With You Later |
+| A5 | Domino Man |
+| A6 | 36D |
+| B1 | Here It Is Again |
+| B2 | Something That You Said |
+| B3 | I'm Your No. 1 Fan |
+| B4 | Bell-Bottomed Tear |
+| B5 | You Play Glockenspiel, I'll Play Drums |
+| B6 | When I'm 84 |
+
 
 
 ## Apple Music

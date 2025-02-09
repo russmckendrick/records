@@ -37,21 +37,22 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Los Angeles |
+| A2 | I Heard Ramona Sing |
+| A3 | Hang On To Your Ego |
+| A4 | Fu Manchu |
+| A5 | Places Named After Numbers |
+| A6 | Czar |
+| A7 | Old Black Dawning |
+| A8 | Ten Percenter |
+| B9 | Brackish Boy |
+| B10 | Two Spaces |
+| B11 | Tossed (Instrumental Version) |
+| B12 | Parry The Wind High, Low |
+| B13 | Adda Lee |
+| B14 | Every Time I Go Around Here |
+| B15 | Don't Ya Rile 'Em |
+
 
 
 ## Apple Music

@@ -37,16 +37,17 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heaven Ain't Goin' Nowhere |
+| A2 | Union, God And Country |
+| A3 | Devil Put The Coal In The Ground |
+| A4 | John Henry Was A Steel Drivin' Man |
+| A5 | Time Is Never On Our Side |
+| B1 | It's About Blood |
+| B2 | If I Could See Your Face Again |
+| B3 | Black Lung |
+| B4 | Fastest Man Alive |
+| B5 | The Mine |
+
 
 
 ## Apple Music

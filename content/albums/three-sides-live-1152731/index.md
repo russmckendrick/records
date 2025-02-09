@@ -37,19 +37,20 @@ Three Sides Live received a mostly positive critical reception and was a commerc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Turn It On Again |
+| A2 | Dodo |
+| A3 | Abacab |
+| B1 | Behind The Lines |
+| B2 | Duchess |
+| B3 | Me & Sarah Jane |
+| B4 | Follow You, Follow Me |
+| C1 | Misunderstanding |
+| C2 | In The Cage (Medley - Cinema Show - Slippermen) |
+| C3 | Afterglow |
+| D1 | One For The Vine |
+| D2 | Fountain Of Salmacis |
+| D3 | It / Watcher Of The Skies |
+
 
 
 ## Apple Music

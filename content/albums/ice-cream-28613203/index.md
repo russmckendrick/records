@@ -32,18 +32,19 @@ styles: ["Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | U.V. |
+| A2 | Yeah Yeah |
+| A3 | Written By A Man |
+| A4 | Broken Bird |
+| A5 | Wanna Be Free |
+| A6 | A Size More Woman Than Her |
+| B1 | Cardboy King |
+| B2 | Namedrops |
+| B3 | Foreign Cow |
+| B4 | Terrible Day |
+| B5 | Wolves Over Washington |
+| B6 | The Sky's Our Terminal |
+
 
 
 ## Apple Music

@@ -60,33 +60,34 @@ In the middle of writing his sixth album <I>Flamagra</I>, Steven Ellison—the e
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heroes |
+| A2 | Post Requisite |
+| A3 | Heroes In A Half Shell |
+| A4 | More |
+| A5 | Capillaries |
+| A6 | Burning Down The House |
+| A7 | Spontaneous |
+| B1 | Takashi |
+| B2 | Pilgrim Side Eye |
+| B3 | All Spies |
+| B4 | Yellow Belly |
+| B5 | Black Balloons Reprise |
+| C1 | Fire Is Coming |
+| C2 | Inside Your Home |
+| C3 | Actually Virtual |
+| C4 | Andromeda |
+| C5 | Remind U |
+| C6 | Say Something |
+| C7 | Debbie Is Depressed |
+| C8 | Find Your Own Way Home |
+| D1 | The Climb |
+| D2 | Pygmy |
+| D3 | 9 Carrots |
+| D4 | FF4 |
+| D5 | Land Of Honey |
+| D6 | Thank U Malcolm |
+| D7 | Hot Oct. |
+
 
 
 ## Apple Music

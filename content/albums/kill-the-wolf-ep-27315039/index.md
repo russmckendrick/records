@@ -29,10 +29,11 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Medicine |
+| A2 | An Electric Hero |
+| AA1 | On A High |
+| AA2 | Ukenwhistle |
+
 
 
 ## Apple Music

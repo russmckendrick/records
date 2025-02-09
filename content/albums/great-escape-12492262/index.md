@@ -38,17 +38,18 @@ styles: ["Prog Rock", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A-I | You Brought It Upon Yourselves |
+| A-II | To You I Give |
+| A-III | Uncivil War (Pt I) |
+| B-I | Madman |
+| B-II | Times They Are A'Raging |
+| C-I | Rain Black, Reign Heavy |
+| C-II | Slow Motion Breakdown |
+| C-III | Nebulas |
+| C-IV | Las Diabolicas |
+| D-I | Great Escape (Pt I) |
+| D-II | Great Escape (Pt II) |
+
 
 
 ## Apple Music

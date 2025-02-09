@@ -39,28 +39,29 @@ Upon release, the song did not find commercial success, but in later years it ha
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Airlock |
+| LP-A2 | God Vs Man |
+| LP-A3 | The Boy In The Radio |
+| LP-B1 | Why Do We Stay? |
+| LP-B2 | Lonely Robot |
+| LP-C1 | A Godless Sea |
+| LP-C2 | Oubliette |
+| LP-C3 | Construct/Obstruct |
+| LP-D1 | Are We Copies? |
+| LP-D2 | Humans Being |
+| LP-D3 | The Red Balloon |
+| CD-1 | Airlock |
+| CD-2 | God Vs Man |
+| CD-3 | The Boy In The Radio |
+| CD-4 | Why Do We Stay? |
+| CD-5 | Lonely Robot |
+| CD-6 | A Godless Sea |
+| CD-7 | Oubliette |
+| CD-8 | Construct/Obstruct |
+| CD-9 | Are We Copies? |
+| CD-10 | Human Being |
+| CD-11 | The Red Balloon |
+
 
 
 ## Apple Music

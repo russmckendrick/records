@@ -31,16 +31,17 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trash City |
+| A2 | I Want Your Love |
+| A3 | Sister Moon |
+| A4 | Psychosonic Cindy |
+| A5 | Revolution Baby |
+| B1 | Tell That Girl To Shut Up |
+| B2 | Wild Star |
+| B3 | Hanging Out With Halo Jones |
+| B4 | Andy Warhol's Dead |
+| B5 | Sex Kick |
+
 
 
 ## Apple Music

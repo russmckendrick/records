@@ -32,14 +32,15 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Once Upon A Time |
+| A2 | All The Things She Said |
+| A3 | Ghost Dancing |
+| A4 | Alive And Kicking |
+| B1 | Oh Jungleland |
+| B2 | I Wish You Were Here |
+| B3 | Sanctify Yourself |
+| B4 | Come A Long Way |
+
 
 
 ## Apple Music

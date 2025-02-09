@@ -45,23 +45,24 @@ styles: ["Soundtrack", "Score", "Neo-Romantic"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Star Wars (Main Theme) |
+| A2 | Yoda's Theme |
+| A3 | The Training Of A Jedi Knight |
+| A4 | The Heroics Of Luke And Han |
+| B1 | The Imperial March (Darth Vader's Theme) |
+| B2 | Departure Of Boba Fett |
+| B3 | Han Solo And The Princess |
+| B4 | Hyperspace |
+| B5 | The Battle In The Snow |
+| C1 | The Asteroid Field |
+| C2 | The City In The Clouds |
+| C3 | Rebels At Bay |
+| C4 | Yoda And The Force |
+| D1 | The Duel |
+| D2 | The Magic Tree |
+| D3 | Lando's Palace |
+| D4 | Finale |
+
 
 
 ## Apple Music

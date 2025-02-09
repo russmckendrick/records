@@ -30,19 +30,20 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock", "Lounge", "Power Pop", "D
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Your Ex-Lover Is Dead (Final Fantasy) |
+| A2 | Set Yourself On Fire (Montag) |
+| A3 | Ageless Beauty (The Most Serene Republic) |
+| A4 | Reunion (Jason Collett) |
+| B1 | The Big Fight (Minotaur Shock) |
+| B2 | What I'm Trying To Say (Parts I & II) (The Dears) |
+| B3 | One More Night (Apostle Of Hustle) |
+| C1 | Sleep Tonight (Junior Boys) |
+| C2 | The First Five Times (The Russian Futurists) |
+| C3 | He Lied About Death (Metric) |
+| D1 | Celebration Guns (Camouflage Nights With Kevin Drew) |
+| D2 | Soft Revolution (The Stills) |
+| D3 | Calendar Girl (Young Galaxy) |
+
 
 
 ## Apple Music

@@ -44,27 +44,28 @@ To promote the project, Sia appeared on a number of TV shows, including The Elle
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chandelier |
+| A2 | Big Girls Cry |
+| A3 | Burn The Pages |
+| A4 | Eye Of The Needle |
+| A5 | Hostage |
+| A6 | Straight For The Knife |
+| B7 | Fair Game |
+| B8 | Elastic Heart |
+| B9 | Free The Animal |
+| B10 | Fire Meet Gasoline |
+| B11 | Cellophane |
+| C12 | Dressed In Black |
+| C13 | Elastic Heart |
+| C14 | Chandelier (Piano Version) |
+| C15 | Elastic Heart (Piano Version) |
+| C16 | Chandelier (Four Tet Remix) |
+| D17 | Chandelier (Plastic Plates Remix) |
+| D18 | Elastic Heart (Clams Casino Remix) |
+| D19 | Elastic Heart (Blood Diamonds Remix) |
+| D20 | Big Girls Cry (ODESZA Remix) |
+| D21 | Big Girls Cry (Bleachers Remix) |
+
 
 
 ## Apple Music

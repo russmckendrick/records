@@ -39,18 +39,19 @@ The album received positive reviews from critics and was a commercial success. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Prologue |
+| A2 | Tour De France Étape 1 |
+| A3 | Tour De France Étape 2 |
+| A4 | Tour De France Étape 3 |
+| A5 | Chrono |
+| B | Vitamin |
+| C1 | Aéro Dynamik |
+| C2 | Titanium |
+| C3 | Elektro Kardiogramm |
+| D1 | La Forme |
+| D2 | Régéneration |
+| D3 | Tour De France |
+
 
 
 ## Apple Music

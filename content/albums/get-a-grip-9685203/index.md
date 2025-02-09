@@ -43,20 +43,21 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Eat The Rich |
+| A3 | Get A Grip |
+| A4 | Fever |
+| A5 | Livin' On The Edge |
+| B1 | Flesh |
+| B2 | Walk On Down |
+| B3 | Shut Up And Dance |
+| C1 | Cryin' |
+| C2 | Gotta Love It |
+| C3 | Crazy |
+| D1 | Line Up |
+| D2 | Amazing |
+| D3 | Boogie Man |
+
 
 
 ## Apple Music

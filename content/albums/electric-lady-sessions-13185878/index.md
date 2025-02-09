@@ -37,18 +37,19 @@ Electric Lady Sessions is a live in-studio album by American rock band LCD Sound
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Seconds |
+| A2 | American Dream |
+| A3 | You Wanted A Hit |
+| B1 | Get Innocuous! |
+| B2 | Call The Police |
+| B3 | I Used To |
+| C1 | Tonite |
+| C2 | Home |
+| C3 | I Want Your Love |
+| D1 | Emotional Haircut |
+| D2 | Oh Baby |
+| D3 | (We Don't Need This) Fascist Groove Thang |
+
 
 
 ## Apple Music

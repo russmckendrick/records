@@ -38,12 +38,13 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Rocks Off |
+| A2 | The Slider |
+| A3 | You Wear It Well |
+| B1 | Easy To Slip |
+| B2 | Moonage Daydream |
+| B3 | Papa Was A Rollin’ Stone |
+
 
 
 ## Apple Music

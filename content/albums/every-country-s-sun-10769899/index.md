@@ -65,34 +65,35 @@ Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| LP-A1 | Coolverine |
+| LP-A2 | Party In The Dark |
+| LP-A3 | Brain Sweeties |
+| LP-B1 | Crossing The Road Material |
+| LP-B2 | aka 47 |
+| LP-B3 | 20 Size |
+| LP-C1 | 1000 Foot Face |
+| LP-C2 | Don't Believe The Fife |
+| LP-D1 | Battered At A Scramble |
+| LP-D2 | Old Poisons |
+| LP-D3 | Every Country's Sun |
+| 12"-A1 | 20 Size |
+| 12"-A2 | 1000 Foot Face |
+| 12"-A3 | Don't Believe The Fife |
+| 12"-B1 | Battered At A Scramble |
+| 12"-B2 | Old Poisons |
+| 12"-B3 | Every Country's Sun |
+| CD-1 | Coolverine |
+| CD-2 | Party In The Dark |
+| CD-3 | Brain Sweeties |
+| CD-4 | Crossing The Road Material |
+| CD-5 | aka 47 |
+| CD-6 | 20 Size |
+| CD-7 | 1000 Foot Face |
+| CD-8 | Don't Believe The Fife |
+| CD-9 | Battered At A Scramble |
+| CD-10 | Old Poisons |
+| CD-11 | Every Country's Sun |
+
 
 
 ## Apple Music

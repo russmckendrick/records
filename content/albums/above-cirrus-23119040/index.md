@@ -37,20 +37,21 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Our Prism |
+| A2 | New Kind Of Evil |
+| A3 | Phantoms |
+| A4 | Cruel Deliverance |
+| B5 | Scream Sideways |
+| B6 | Dead Butterfly |
+| B7 | Lucid |
+| CD-1 | Our Prism |
+| CD-2 | New Kind Of Evil |
+| CD-3 | Phantoms |
+| CD-4 | Cruel Deliverance |
+| CD-5 | Scream Sideways |
+| CD-6 | Dead Butterfly |
+| CD-7 | Lucid |
+
 
 
 ## Apple Music

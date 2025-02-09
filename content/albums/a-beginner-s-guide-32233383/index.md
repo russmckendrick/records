@@ -30,17 +30,18 @@ A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Chime (Edit) |
+| A2 | Halcyon (Edit) |
+| A3 | Belfast (Edit) |
+| A4 | Satan (Spawn) |
+| A5 | The Box (Edit) |
+| B1 | Lush 3.1 (Edit) |
+| B2 | Beached (Edit) |
+| B3 | Are We Here? (Edit) |
+| B4 | Are You Alive? (Edit) |
+| B5 | Style (Edit) |
+| B6 | Dirty Rat (Edit) |
+
 
 
 ## Apple Music

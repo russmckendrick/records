@@ -34,16 +34,17 @@ The Holy Pictures is the fifth studio album by David Holmes released in Septembe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Heard Wonders |
+| A2 | The Story Of The Ink |
+| A3 | Love Reign Over Me |
+| A4 | Theme / I.M.C. |
+| A5 | Holy Pictures |
+| B1 | Kill Her With Kindness |
+| B2 | Melanie |
+| B3 | Hey Maggy |
+| B4 | Birth |
+| B5 | The Ballad Of Sarah & Jack |
+
 
 
 ## Apple Music

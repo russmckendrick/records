@@ -36,18 +36,19 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Trapped |
+| A2 | Windows |
+| A3 | Love In Action |
+| A4 | Crazy Lady Blue |
+| A5 | Back On The Street |
+| A6 | The Marriage Of Heaven And Hell |
+| B1 | The Martyr |
+| B2 | Abandon City |
+| B3 | Gangrene |
+| B4 | My Angel |
+| B5 | Rape Of The Young |
+| B6 | Love Is The Answer |
+
 
 
 ## Apple Music

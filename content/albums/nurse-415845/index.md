@@ -34,16 +34,17 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Nausea |
+| A2 | Teethgrinder |
+| A3 | Disgracelands |
+| A4 | Accelerator |
+| A5 | Neck Freak |
+| B1 | Perversonality |
+| B2 | Gone |
+| B3 | Zipless |
+| B4 | Deep Sleep |
+| B5 | Hypermania |
+
 
 
 ## Apple Music

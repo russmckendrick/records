@@ -44,10 +44,11 @@ Journey to the Centre of the Earth was overall well received by music critics. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Journey |
+| A2 | Recollection |
+| B1 | The Battle |
+| B2 | The Forest |
+
 
 
 ## Apple Music

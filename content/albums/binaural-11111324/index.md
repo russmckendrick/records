@@ -47,20 +47,21 @@ The music on the album featured an experimental sound, evident on songs that use
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Breakerfall |
+| A2 | Gods' Dice |
+| A3 | Evacuation |
+| A4 | Light Years |
+| B1 | Nothing As It Seems |
+| B2 | Thin Air |
+| B3 | Insignificance |
+| C1 | Of The Girl |
+| C2 | Grievance |
+| C3 | Rival |
+| D1 | Sleight Of Hand |
+| D2 | Soon Forget |
+| D3.1 | Parting Ways |
+| D3.2 | Writers Block |
+
 
 
 ## Apple Music

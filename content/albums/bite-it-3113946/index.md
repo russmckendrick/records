@@ -34,18 +34,19 @@ Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Thirty Eight |
+| A2 | No Time |
+| A3 | We Should Stick Together |
+| B1 | Jackie's Racing |
+| B2 | Shine On You |
+| B3 | No More Tears |
+| C1 | Altogether |
+| C2 | U Drag Me |
+| C3 | Baby Don't Give Up On Me Yet |
+| D1 | You Left Me Seeing Stars |
+| D2 | Everyday |
+| D3 | Untitled |
+
 
 
 ## Apple Music

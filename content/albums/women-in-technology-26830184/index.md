@@ -34,18 +34,19 @@ Women in Technology is the second studio album by British recording artist White
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Undressed |
+| A2 | Thursday At The Blue Note |
+| A3 | A Week Next June |
+| A4 | Your Woman |
+| A5 | White Town |
+| A6 | The Shape Of Love |
+| B1 | Wanted |
+| B2 | The Function Of The Orgasm |
+| B3 | Going Nowhere Somehow |
+| B4 | Theme For An Early Evening American Sitcom |
+| B5 | The Death Of My Desire |
+| B6 | Once I Flew |
+
 
 
 ## Apple Music

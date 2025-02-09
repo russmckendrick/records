@@ -50,17 +50,18 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Born Again |
+| A2 | Motorbike |
+| A3 | Steam |
+| A4 | Why Don't You Touch Me |
+| A5 | Magnolias |
+| B1 | Gold-Diggers (Junior's Fanfare) |
+| B2 | Details |
+| B3 | Sho Nuff |
+| B4 | Sweeter |
+| B5 | Don't Worry |
+| B6 | Blue Mesas |
+
 
 
 ## Apple Music

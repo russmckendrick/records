@@ -31,8 +31,9 @@ On release, the single was a cult hit and reached number 55 on the Billboard R&B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
+| A | The Adventures Of Grandmaster Flash On The Wheels Of Steel |
+| B | The Birthday Party (Instrumental) |
+
 
 
 ## Apple Music

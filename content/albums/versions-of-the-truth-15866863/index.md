@@ -38,16 +38,17 @@ Versions of the Truth is the thirteenth studio album by British progressive rock
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Versions Of The Truth |
+| A2 | Break It All |
+| A3 | Demons |
+| A4 | Driving Like Maniacs |
+| A5 | Leave Me Be |
+| B1 | Too Many Voices |
+| B2 | Our Mire |
+| B3 | Out Of Line |
+| B4 | Stop Making Sense |
+| B5 | The Game |
+
 
 
 ## Apple Music

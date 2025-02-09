@@ -36,17 +36,18 @@ styles: ["Ambient", "House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Daze (David Harrow Remix) (BLM Remix23) |
+| A2 | Queen Of Hearts (Moody Boys Remix) (Duck Or Drown) |
+| A3 | Ital Orb (Gaudi Remix) (Iron Chair) |
+| B1 | Narcotics (David Harrow Remix 2) (Head Crusher) |
+| B2 | Hawk Kings (Lost Stoned Pandas Remix) (Pear Of Anguish) |
+| B3 | Honey Moonies (Paul Metamono Remix) (Burnt At The Stake) |
+| C1 | Slave Til U Die (Andy Falconer Remix) (Water Boarding) |
+| C2 | Weekend (Dom Beken & Kris Needs Remix) (The Judas Triangle) |
+| C3 | Pervitin (Violeta Vicci Remix) (The Saw Torture) |
+| D1 | AAA (Violeta Vicci Remix) (Hung, Drawn And Quartered) |
+| D2 | Shape Shifting Pt. 1 (Youth Bring In The Clown Remix) |
+
 
 
 ## Apple Music

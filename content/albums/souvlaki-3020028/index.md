@@ -35,16 +35,17 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Alison |
+| A2 | Machine Gun |
+| A3 | 40 Days |
+| A4 | Sing |
+| A5 | Here She Comes |
+| B1 | Souvlaki Space Station |
+| B2 | When The Sun Hits |
+| B3 | Altogether |
+| B4 | Melon Yellow |
+| B5 | Dagger |
+
 
 
 ## Apple Music

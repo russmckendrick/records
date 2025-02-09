@@ -30,17 +30,18 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Warm Sound |
+| A2 | Home |
+| A3 | Somersault |
+| B1 | Passing By |
+| B2 | Over Our Heads |
+| B3 | When It Falls |
+| C1 | The Space Between |
+| C2 | Speed Dial No. 2 |
+| C3 | Look Up |
+| D1 | In Time |
+| D2 | Morning Song |
+
 
 
 ## Apple Music

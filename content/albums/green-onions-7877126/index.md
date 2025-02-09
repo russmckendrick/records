@@ -31,18 +31,19 @@ The track was originally issued on the Volt label (a subsidiary of Stax Records)
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Green Onions |
+| A2 | Rinky-Dink |
+| A3 | I Got A Woman |
+| A4 | Mo' Onions |
+| A5 | Twist And Shout |
+| A6 | Behave Yourself |
+| B1 | Stranger On The Shore |
+| B2 | Lonely Avenue |
+| B3 | One Who Really Loves You |
+| B4 | I Can't Sit Down |
+| B5 | A Woman, A Lover, A Friend |
+| B6 | Comin' Home Baby |
+
 
 
 ## Apple Music

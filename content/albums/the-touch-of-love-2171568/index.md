@@ -29,22 +29,23 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Look Of Love |
+| A2 | Best Thing That Ever Happened To Me |
+| A3 | Perfect Love |
+| A4 | Midnight Train To Georgia |
+| A5 | The One And Only |
+| A6 | Sorry Doesn't Always Make It Right |
+| A7 | So Sad The Song |
+| A8 | Home Is Where The Heart Is |
+| B1 | Help Me Make It Through The Night |
+| B2 | Baby Don't Change Your Mind |
+| B3 | I Feel A Song In My Heart |
+| B4 | Where Peaceful Waters Flow |
+| B5 | We Don't Make Each Other Laugh Any More |
+| B6 | Nobody But You |
+| B7 | Come Back And Finish What You Started |
+| B8 | Try To Remember / The Way We Were |
+
 
 
 ## Apple Music

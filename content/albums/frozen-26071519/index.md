@@ -38,10 +38,11 @@ Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aft
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Coast Is Clear |
+| A2 | The Colour Hurts |
+| B1 | Frozen |
+| B2 | Zoo |
+
 
 
 ## Apple Music

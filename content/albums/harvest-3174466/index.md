@@ -40,16 +40,17 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Out On The Weekend |
+| A2 | Harvest |
+| A3 | A Man Needs A Maid |
+| A4 | Heart Of Gold |
+| A5 | Are You Ready For The Country? |
+| B1 | Old Man |
+| B2 | There's A World |
+| B3 | Alabama |
+| B4 | The Needle And The Damage Done |
+| B5 | Words (Between The Lines Of Age) |
+
 
 
 ## Apple Music

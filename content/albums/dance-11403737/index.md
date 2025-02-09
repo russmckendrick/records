@@ -41,22 +41,23 @@ Dance features the single "She's Got Claws", which reached no. 6 on the singles 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Slowcar To China |
+| A2 | Night Talk |
+| A3 | A Subway Called 'You' |
+| B1 | Cry The Clock Said |
+| B2 | She's Got Claws |
+| B3 | Crash |
+| C1 | Boys Like Me |
+| C2 | Stories |
+| C3 | My Brother's Time |
+| C4 | You Are, You Are |
+| C5 | Moral (Extended Version) |
+| D1 | Stormtrooper In Drag |
+| D2 | Face To Face |
+| D3 | Dance |
+| D4 | Exhibition |
+| D5 | I Sing Rain |
+
 
 
 ## Apple Music

@@ -36,21 +36,22 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Man's Final Frontier |
+| A2 | Mama's Always On Stage |
+| A3 | People Everyday |
+| A4 | Blues Happy |
+| A5 | Mr. Wendal |
+| A6 | Children Play With Earth |
+| A7 | Raining Revolution |
+| A8 | Fishin' 4 Religion |
+| A9 | Give A Man A Fish |
+| B1 | U |
+| B2 | Eve Of Reality |
+| B3 | Natural |
+| B4 | Dawn Of The Dreads |
+| B5 | Tennessee |
+| B6 | Washed Away |
+
 
 
 ## Apple Music

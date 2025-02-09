@@ -36,61 +36,59 @@ styles: ["Dance-pop", "New Wave", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Dare |
+| A1 | The Things That Dreams Are Made Of |
+| A2 | Open Your Heart |
+| A3 | The Sound Of The Crowd |
+| A4 | Darkness |
+| A5 | Do Or Die |
+| B1 | Get Carter |
+| B2 | I Am The Law |
+| B3 | Seconds |
+| B4 | Love Action (I Believe In Love) |
+| B5 | Don't You Want Me |
+|  | Fascination! |
+| C1 | (Keep Feeling) Fascination (Extended Version) |
+| C2 | Mirror Man |
+| C3 | Hard Times |
+| D1 | I Love You Too Much |
+| D2 | You Remind Me Of Gold |
+| D3 | (Keep Feeling) Fascination (Improvisation) |
+|  | Hysteria |
+| E1 | I'm Coming Back |
+| E2 | I Love You Too Much |
+| E3 | Rock Me Again And Again And Again And Again And Again (Six Times) |
+| E4 | Louise |
+| E5 | The Lebanon |
+| F1 | Betrayed |
+| F2 | The Sign |
+| F3 | So Hurt |
+| F4 | Life On Your Own |
+| F5 | Don't You Know I Want You |
+|  | Crash |
+| G1 | Money |
+| G2 | Swang |
+| G3 | Human |
+| G4 | Jam |
+| G5 | Are You Ever Coming Back? |
+| H1 | I Need Your Loving |
+| H2 | Party |
+| H3 | Love On The Run |
+| H4 | The Real Thing |
+| H5 | Love Is All That Matters |
+|  | Romantic? |
+| I1 | Kiss The Future |
+| I2 | A Doorway? |
+| I3 | Heart Like A Wheel |
+| I4 | Men Are Dreamers |
+| I5 | Mister Moon And Mister Sun |
+| J1 | Soundtrack To A Generation |
+| J2 | Rebound |
+| J3 | The Stars Are Going Out |
+| J4 | Let's Get Together Again |
+| J5 | Get It Right This Time |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

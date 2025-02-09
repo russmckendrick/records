@@ -33,17 +33,18 @@ Consisting of veterans of Reykjavík's early 1980s rock culture, the band took e
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Traitor |
+| A2 | Motorcrash |
+| A3 | Birthday |
+| A4 | Delicious Demon |
+| A5 | Mama |
+| B1 | Coldsweat |
+| B2 | Blue Eyed Pop |
+| B3 | Deus |
+| B4 | Sick For Toys |
+| B5 | F***ing In Rhythm & Sorrow |
+| B6 | Take Some Petrol Darling |
+
 
 
 ## Apple Music

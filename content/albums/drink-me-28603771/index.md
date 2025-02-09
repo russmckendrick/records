@@ -36,20 +36,21 @@ Drink Me is the first studio album by English Britpop band Salad, released in Ma
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Motorbike To Heaven |
+| A2 | Drink The Elixir |
+| A3 | Granite Statue |
+| A4 | Machine Of Menace |
+| A5 | Overhear Me |
+| A6 | Sheperds' Isle |
+| A7 | Muscleman |
+| B1 | Your Ma |
+| B2 | Warmth Of The Hearth |
+| B3 | Gertrude Campbell |
+| B4 | Nothing Happens |
+| B5 | No.1's Cooking |
+| B6 | A Man With A Box |
+| B7 | Insomnia |
+
 
 
 ## Apple Music

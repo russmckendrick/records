@@ -67,43 +67,44 @@ In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Kid A |
+| A1 | Everything In Its Right Place |
+| A2 | Kid A |
+| A3 | The National Anthem |
+| A4 | How To Disappear Completely |
+| A5 | Treefingers |
+| B1 | Optimistic |
+| B2 | In Limbo |
+| B3 | Idioteque |
+| B4 | Morning Bell |
+| B5 | Motion Picture Soundtrack |
+| B6 | Untitled |
+|  | Amnesiac |
+| C1 | Packt Like Sardines In A Crushd Tin Box |
+| C2 | Pyramid Song |
+| C3 | Pulk/Pull Revolving Doors |
+| C4 | You And Whose Army? |
+| C5 | I Might Be Wrong |
+| D1 | Knives Out |
+| D2 | Morning Bell/Amnesiac |
+| D3 | Dollars And Cents |
+| D4 | Hunting Bears |
+| D5 | Like Spinning Plates |
+| D6 | Life In A Glasshouse |
+|  | Kid Amnesiae |
+| E1 | Like Spinning Plates ('Why Us?' Version) |
+| E2 | Untitled V1 |
+| E3 | Fog (Again Again Version) |
+| E4 | If You Say The Word |
+| E5 | Follow Me Around |
+| F1 | Pulk/Pull (True Love Waits Version) |
+| F2 | Untitled V2 |
+| F3 | The Morning Bell (In The Dark Version) |
+| F4 | Pyramid Strings |
+| F5 | Alt. Fast Track |
+| F6 | Untitled V3 |
+| F7 | How To Disappear Into Strings |
+
 
 
 ## Apple Music

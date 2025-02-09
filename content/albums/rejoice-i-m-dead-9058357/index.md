@@ -40,15 +40,16 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Thing That Should Be |
+| A2 | Rejoice! |
+| A3 | Kapital |
+| B1 | Model Village |
+| B2 | Beatrix |
+| B3 | Visions |
+| C | The Unspeakable Stands Revealed |
+| D1 | Through Restless Seas I Come |
+| D2 | Insert Yr Own Prophecy |
+
 
 
 ## Apple Music

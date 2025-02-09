@@ -34,16 +34,17 @@ Bedroom is the debut studio album by British shoegaze band Bdrmm, released on 3 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Momo |
+| A2 | Push/Pull |
+| A3 | A Reason To Celebrate |
+| A4 | Gush |
+| A5 | Happy |
+| A6 | (The Silence) |
+| B1 | (Un)Happy |
+| B2 | If.... |
+| B3 | Is That What You Wanted To Hear? |
+| B4 | Forget The Credits |
+
 
 
 ## Apple Music

@@ -33,28 +33,29 @@ Tomorrow Is My Turn is the first studio album by Rhiannon Giddens. Nonesuch Reco
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Last Kind Words |
+| A2 | Don't Let It Trouble Your Mind |
+| A3 | Waterboy |
+| A4 | She's Got You |
+| A5 | Up Above My Head |
+| A6 | Tomorrow Is My Turn |
+| B1 | Black Is The Color |
+| B2 | Round About The Mountain |
+| B3 | Shake Sugaree |
+| B4 | O Love Is Teasin' |
+| B5 | Angel City |
+| CD-1 | Last Kind Words |
+| CD-2 | Don't Let It Trouble Your Mind |
+| CD-3 | Waterboy |
+| CD-4 | She's Got You |
+| CD-5 | Up Above My Head |
+| CD-6 | Tomorrow Is My Turn |
+| CD-7 | Black Is The Color |
+| CD-8 | Round About The Mountain |
+| CD-9 | Shake Sugaree |
+| CD-10 | O Love Is Teasin' |
+| CD-11 | Angel City |
+
 
 
 ## Apple Music

@@ -35,16 +35,17 @@ Diva won the Brit Award for British Album of the Year at the 1993 Brit Awards. T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Why |
+| A2 | Walking On Broken Glass |
+| A3 | Precious |
+| A4 | Legend In My Living Room |
+| A5 | Cold |
+| B1 | Money Can't Buy It |
+| B2 | Little Bird |
+| B3 | Primitive |
+| B4 | Stay By Me |
+| B5 | The Gift |
+
 
 
 ## Apple Music

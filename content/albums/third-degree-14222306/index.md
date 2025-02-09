@@ -41,15 +41,16 @@ Third Degree's first single and video, "More", was released as the band revealed
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | The Loss Inside |
+| A2 | More |
+| A3 | Cadence |
+| B1 | Guardian |
+| B2 | Last Train Home |
+| C1 | Geronimo |
+| C2 | You Are Not Alone |
+| C3 | Love Letter |
+| D1 | Crawl |
+
 
 
 ## Apple Music

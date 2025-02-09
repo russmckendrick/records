@@ -36,30 +36,31 @@ Oceanographers draw upon a wide range of disciplines to deepen their understandi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Intro |
+| A2 | Oceanography |
+| A3 | Will & Testament |
+| A4 | Bruising |
+| A5 | Ruins |
+| A6 | One Word Answers |
+| B1 | The Departure |
+| B2 | Legacy |
+| B3 | Former Glories |
+| B4 | Maria |
+| B5 | All I Have |
+| B6 | The Weather |
+| CD01 | Intro |
+| CD02 | Oceanography |
+| CD03 | Will & Testament |
+| CD04 | Bruising |
+| CD05 | Ruins |
+| CD06 | One Word Answers |
+| CD07 | The Departure |
+| CD08 | Legacy |
+| CD09 | Former Glories |
+| CD10 | Maria |
+| CD11 | All I Have |
+| CD12 | The Weather |
+
 
 
 ## Apple Music

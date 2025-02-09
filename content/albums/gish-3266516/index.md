@@ -47,17 +47,18 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Am One |
+| A2 | Siva |
+| A3 | Rhinoceros |
+| A4 | Bury Me |
+| A5 | Crush |
+| B1 | Suffer |
+| B2 | Snail |
+| B3 | Tristessa |
+| B4 | Window Paine |
+| B5 | Daydream |
+| B6 | I'm Going Crazy |
+
 
 
 ## Apple Music

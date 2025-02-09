@@ -36,20 +36,21 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Flight Response |
+| A2 | The Real |
+| A3 | Enemy |
+| B1 | Weapon & The Wound |
+| B2 | Skeleton Key |
+| B3 | Take Me Back Then |
+| B4 | Bring Yourself |
+| C1 | I Think |
+| C2 | Longfellow |
+| C3 | Intro |
+| C4 | Phobics Of Tragedy |
+| D1 | Not The Same |
+| D2 | Provider |
+| D3 | Last One |
+
 
 
 ## Apple Music

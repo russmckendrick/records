@@ -33,17 +33,18 @@ Described by frontman Wayne Coyne as “Syd Barrett meets A$AP Rocky and they ge
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Oczy Mlody |
+| A2 | How?? |
+| A3 | There Should Be Unicorns |
+| A4 | Sunrise (Eyes Of The Young) |
+| A5 | Nigdy Nie (Never No) |
+| A6 | Galaxy I Sink |
+| B1 | One Night While Hunting For Faeries And Witches And Wizards To Kill |
+| B2 | Do Glowy |
+| B3 | The Castle |
+| B4 | Almost Home (Blisko Domu) |
+| B5 | We A Famly |
+
 
 
 ## Apple Music

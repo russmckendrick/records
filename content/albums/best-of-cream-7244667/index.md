@@ -34,16 +34,17 @@ The album peaked at No. 3 on the U.S. Billboard 200 album chart in July 1969. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sunshine Of Your Love |
+| A2 | Badge |
+| A3 | Crossroads |
+| A4 | White Room |
+| A5 | Swlabr |
+| B1 | Born Under A Bad Sign |
+| B2 | Spoonful |
+| B3 | Tales Of Brave Ulysses |
+| B4 | Strange Brew |
+| B5 | I Feel Free |
+
 
 
 ## Apple Music

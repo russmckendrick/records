@@ -36,20 +36,21 @@ The album was well-received by critics and fans, who viewed the record as a "ret
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | The Easy Side |
+| A1 | All The Children Sing |
+| A2 | Can We Still Be Friends |
+| A3 | Hurting For You |
+| A4 | Too Far Gone |
+| A5 | Onomatopoeia |
+| A6 | Determination |
+|  | The Difficult Side |
+| B1 | Bread |
+| B2 | Bag Lady |
+| B3 | You Cried Wolf |
+| B4 | Lucky Guy |
+| B5 | Out Of Control |
+| B6 | Fade Away |
+
 
 
 ## Apple Music

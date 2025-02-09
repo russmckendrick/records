@@ -33,15 +33,16 @@ The cover art work features the launch phase of a UGM-84 Harpoon submarine missi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | What You're Proposing |
+| A2 | Run To Mummy |
+| A3 | Don't Drive My Car |
+| A4 | Lies |
+| A5 | Over The Edge |
+| B1 | The Wild Ones |
+| B2 | Name Of The Game |
+| B3 | Coming And Going |
+| B4 | Rock 'N' Roll |
+
 
 
 ## Apple Music

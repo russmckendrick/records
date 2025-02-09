@@ -43,14 +43,15 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wall Of Eyes |
+| A2 | Teleharmonic |
+| A3 | Read The Room |
+| A4 | Under Our Pillows |
+| B1 | Friend Of A Friend |
+| B2 | I Quit |
+| B3 | Bending Hectic |
+| B4 | You Know Me! |
+
 
 
 ## Apple Music

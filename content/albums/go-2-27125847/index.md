@@ -41,24 +41,25 @@ It is the final album to feature keyboardist Barry Andrews, who went on to form 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Meccanik Dancing (Oh We Go!) |
+| A2 | Battery Brides (Andy Paints Brian) |
+| A3 | Buzzcity Talking |
+| A4 | Crowded Room |
+| A5 | The Rhythm |
+| A6 | Red |
+| B1 | Beatown |
+| B2 | Life Is Good In The Greenhouse |
+| B3 | Jumping In Gomorrah |
+| B4 | My Weapon |
+| B5 | Super-Tuff |
+| B6 | I Am The Audience |
+|  | Go+ |
+| C1 | Dance With Me, Germany |
+| C2 | Beat The Bible |
+| D1 | A Dictionary Of Modern Marriage |
+| D2 | Clap Clap Clap |
+| D3 | We Kill The Beast |
+
 
 
 ## Apple Music

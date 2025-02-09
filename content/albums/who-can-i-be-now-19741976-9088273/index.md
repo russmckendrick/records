@@ -97,119 +97,120 @@ styles: ["Pop Rock", "Glam", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Diamond Dogs (2016 Remaster) |
+| A1 | Future Legend |
+| A2 | Diamond Dogs |
+| A3 | Sweet Thing |
+| A4 | Candidate |
+| A5 | Sweet Thing (Reprise) |
+| A6 | Rebel Rebel |
+| B1 | Rock 'N' Roll With Me |
+| B2 | We Are The Dead |
+| B3 | 1984 |
+| B4 | Big Brother |
+| B5 | Chant Of The Ever Circling Skeletal Family |
+|  | David Live (Original Mix) (2016 Remaster) |
+| C1 | 1984  |
+| C2 | Rebel Rebel  |
+| C3 | Moonage Daydream  |
+| C4 | Sweet Thing / Candidate / Sweet Thing (Reprise)  |
+| D1 | Changes  |
+| D2 | Suffragette City  |
+| D3 | Aladdin Sane  |
+| D4 | All The Young Dudes  |
+| D5 | Cracked Actor  |
+| E1 | Rock 'N' Roll With Me  |
+| E2 | Watch That Man  |
+| E3 | Knock On Wood  |
+| E4 | Diamond Dogs  |
+| F1 | Big Brother  |
+| F2 | The Width Of A Circle  |
+| F3 | The Jean Genie  |
+| F4 | Rock 'N' Roll Suicide |
+|  | David Live (2005 Mix) |
+| G1 | 1984  |
+| G2 | Rebel Rebel  |
+| G3 | Moonage Daydream |
+| G4 | Sweet Thing / Candidate / Sweet Thing (Reprise) |
+| H1 | Changes  |
+| H2 | Suffragette City  |
+| H3 | Aladdin Sane  |
+| H4 | All The Young Dudes  |
+| I1 | Cracked Actor  |
+| I2 | Rock 'N' Roll With Me  |
+| I3 | Watch That Man  |
+| I4 | Knock On Wood |
+| J1 | Here Today, Gone Tomorrow |
+| J2 | Space Oddity  |
+| J3 | Diamond Dogs  |
+| K1 | Panic In Detroit |
+| K2 | Big Brother  |
+| K3 | Time  |
+| L1 | The Width Of A Circle  |
+| L2 | The Jean Genie |
+| L3 | Rock 'N' Roll Suicide |
+|  | The Gouster |
+| M1 | John, I'm Only Dancing (Again) |
+| M2 | Somebody Up There Likes Me  |
+| M3 | It's Gonna Be Me  |
+| N1 | Who Can I Be Now? |
+| N2 | Can You Hear Me |
+| N3 | Young Americans |
+| N4 | Right  |
+|  | Young Americans (2016 Remaster) |
+| O1 | Young Americans |
+| O2 | Win |
+| O3 | Fascination |
+| O4 | Right |
+| P1 | Somebody Up There Likes Me |
+| P2 | Across The Universe |
+| P3 | Can You Hear Me |
+| P4 | Fame |
+|  | Station To Station (2016 Remaster) |
+| Q1 | Station To Station |
+| Q2 | Golden Years |
+| Q3 | Word On A Wing |
+| R1 | TVC15 |
+| R2 | Stay |
+| R3 | Wild Is The Wind |
+|  | Station To Station (2010 Harry Maslin Mix) |
+| S1 | Station To Station |
+| S2 | Golden Years |
+| S3 | Word On A Wing |
+| T1 | TVC15 |
+| T2 | Stay |
+| T3 | Wild Is The Wind |
+|  | Live Nassau Coliseum '76 |
+| U1 | Station To Station  |
+| U2 | Suffragette City  |
+| U3 | Fame  |
+| V1 | Word On A Wing  |
+| V2 | Stay  |
+| V3 | Waiting For The Man |
+| V4 | Queen Bitch  |
+| W1 | Life On Mars?  |
+| W2 | Five Years  |
+| W3 | Panic In Detroit  |
+| W4 | Changes  |
+| W5 | TVC15  |
+| X1 | Diamond Dogs  |
+| X2 | Rebel Rebel  |
+| X3 | The Jean Genie  |
+|  | Re:Call 2 |
+| Y1 | Rebel Rebel (Original Single Mix) |
+| Y2 | Diamond Dogs (Australian Single Edit) |
+| Y3 | Rebel Rebel (US Single Version) |
+| Y4 | Rock 'N' Roll With Me (Live - Promotional Single Edit) |
+| Y5 | Panic In Detroit (Live) |
+| Y6 | Young Americans (Original Single Edit) |
+| Z1 | Fame (Single Edit) |
+| Z2 | Golden Years (Single Version) |
+| Z3 | Station To Station (Original Single Edit) |
+| Z4 | TVC15 (Original Single Edit) |
+| Z5 | Stay (Original Single Edit) |
+| Z6 | Word On A Wing (Original Single Edit) |
+| Z7 | John, I'm Only Dancing (Again) (1975) (Single Version) |
+
 
 
 ## Apple Music

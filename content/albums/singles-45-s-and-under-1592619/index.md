@@ -35,18 +35,19 @@ Every song in the collection is expertly built so the chronological track listin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Take Me I'm Yours |
+| A2 | Goodbye Girl |
+| A3 | Cool For Cats |
+| A4 | Up The Junction |
+| A5 | Slap And Tickle |
+| A6 | Another Nail In My Heart |
+| A7 | Pulling Mussels (From The Shell) |
+| B1 | Is That Love |
+| B2 | Tempted |
+| B3 | Labelled With Love |
+| B4 | Black Coffee In Bed |
+| B5 | Annie Get Your Gun |
+
 
 
 ## Apple Music

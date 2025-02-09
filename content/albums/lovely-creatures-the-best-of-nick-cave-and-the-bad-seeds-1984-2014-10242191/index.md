@@ -37,27 +37,28 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Loverman (Single Version) |
+| A2 | Tupelo (Single Version) |
+| A3 | Deanna |
+| A4 | From Her To Eternity |
+| B1 | The Weeping Song |
+| B2 | Dig, Lazarus, Dig!!! (Single Version) |
+| B3 | People Ain’t No Good |
+| C1 | Higgs Boson Blues |
+| C2 | Straight To You |
+| C3 | Where The Wild Roses Grow |
+| D1 | Into My Arms |
+| D2 | Love Letter |
+| D3 | Red Right Hand (Single Version) |
+| D4 | The Mercy Seat |
+| E1 | O Children |
+| E2 | The Ship Song (Single Version) |
+| E3 | Stranger Than Kindness |
+| F1 | Jubilee Street (Alternative Video Version) |
+| F2 | Nature Boy (Single Version) |
+| F3 | We No Who U R |
+| F4 | Stagger Lee |
+
 
 
 ## Apple Music

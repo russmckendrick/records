@@ -30,25 +30,26 @@ Making a New World features a diverse mix of styles, genres, and instruments, as
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Sound Ranging |
+| A2 | Silence / After The Fact |
+| A3 | Coffee Or Wine |
+| A4 | Best Kept Garden |
+| A5 | I Thought You Were Something Else |
+| A6 | Between Nations |
+| A7 | Change Of Heir |
+| A8 | Do You Read Me? |
+| A9 | From A Dream, Into My Arms |
+| B1 | Beyond That Of Courtesy |
+| B2 | A Shot To The Arm |
+| B3 | A Common Language Pt. 1 |
+| B4 | A Common Language Pt. 2 |
+| B5 | Nikon Pt. 1 |
+| B6 | Nikon Pt. 2 |
+| B7 | If The Wind Blows Towards The Hospital |
+| B8 | Only In A Man's World |
+| B9 | Money Is A Memory |
+| B10 | An Independent State |
+
 
 
 ## Apple Music

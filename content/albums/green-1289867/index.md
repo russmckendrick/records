@@ -39,19 +39,20 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Air |
+| A1 | Pop Song 89 |
+| A2 | Get Up |
+| A3 | You Are The Everything |
+| A4 | Stand |
+| A5 | World Leader Pretend |
+| A6 | The Wrong Child |
+|  | Metal |
+| B7 | Orange Crush |
+| B8 | Turn You Inside Out |
+| B9 | Hairshirt |
+| B10 | I Remember California |
+| B11 | Untitled |
+
 
 
 ## Apple Music

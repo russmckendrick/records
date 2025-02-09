@@ -33,14 +33,15 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | I Just Want To Make Love To You |
+| A2 | Hoochie Coochie Man |
+| A3 | Let's Spend The Night Together |
+| A4 | She's All Right |
+| B1 | I'm A Man (Mannish Boy) |
+| B2 | Herbert Harpers Free Press |
+| B3 | Tom Cat |
+| B4 | Same Thing |
+
 
 
 ## Apple Music

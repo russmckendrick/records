@@ -37,16 +37,17 @@ Several songs on the album have appeared in television advertisements and on fil
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Leather |
+| A2 | Girls |
+| A3 | Hands Around My Throat |
+| B1 | 23 Lies |
+| B2 | Scorpio Rising |
+| B3 | Killing Smile |
+| C1 | Natja |
+| C2 | So You Say You Lost Your Baby |
+| C3 | Diving Horses |
+| D | Help Yourself |
+
 
 
 ## Apple Music

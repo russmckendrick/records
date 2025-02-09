@@ -32,37 +32,38 @@ Clockwork Angels Tour is a live album and film of Canadian progressive rock band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Subdivisions |
+| A2 | The Big Money |
+| A3 | Force Ten |
+| A4 | Grand Designs |
+| B1 | The Body Electric |
+| B2 | Territories |
+| B3 | The Analog Kid |
+| B4 | Bravado |
+| C1 | Where's My Thing / Here It Is! (Drum Solo) |
+| C2 | Far Cry |
+| C3 | Caravan |
+| D1 | Clockwork Angels |
+| D2 | The Anarchist |
+| D3 | Carnies |
+| E1 | The Wreckers |
+| E2 | Headlong Flight / Drumbastica (Drum Solo) |
+| E3 | Peke's Repose (Guitar Solo) / Halo Effect |
+| F1 | Seven Cities Of Gold |
+| F2 | Wish Them Well |
+| F3 | The Garden |
+| G1 | Dreamline |
+| G2 | The Percussor (I) Binary Love Theme (II) Steambanger's Ball (Drum Solo) |
+| G3 | Red Sector A |
+| G4 | YYZ |
+| H1 | The Spirit Of Radio |
+| H2 | Tom Sawyer |
+| H3 | 2112 |
+| I1 | Limelight (Soundcheck Recording) |
+| I2 | Middletown Dreams |
+| I3 | The Pass |
+| I4 | Manhattan Project |
+
 
 
 ## Apple Music

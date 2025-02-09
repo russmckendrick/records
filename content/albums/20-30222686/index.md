@@ -26,15 +26,16 @@ styles: ["Downtempo", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Cabin Fever |
+| A2 | Rumblefish |
+| A3 | San Quentin Blues |
+| A4 | Down So Low |
+| B1 | Closer |
+| B2 | Love |
+| B3 | Down For The Count |
+| B4 | Precious Time |
+| B5 | Untitled 9 |
+
 
 
 ## Apple Music

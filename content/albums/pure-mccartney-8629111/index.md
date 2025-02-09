@@ -69,47 +69,48 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Maybe I'm Amazed |
+| A2 | Heart Of The Country |
+| A3 | Jet |
+| A4 | Warm And Beautiful |
+| A5 | Listen To What The Man Said |
+| A6 | Dear Boy |
+| B1 | Silly Love Songs |
+| B2 | The Song We Were Singing |
+| B3 | Uncle Albert / Admiral Halsey |
+| B4 | Another Day |
+| B5 | New |
+| C1 | Mull Of Kintyre |
+| C2 | Sing The Changes |
+| C3 | Jenny Wren |
+| C4 | Mrs Vanderbilt |
+| C5 | Save Us |
+| D1 | Let 'Em In |
+| D2 | Let Me Roll It |
+| D3 | Ebony And Ivory (Remixed 2015) |
+| D4 | Nineteen Hundred And Eighty Five |
+| E1 | Band On The Run |
+| E2 | Arrow Through Me |
+| E3 | My Love |
+| E4 | Live And Let Die |
+| E5 | Too Much Rain |
+| F1 | Say Say Say (2015 Remix)[Radio Edit] |
+| F2 | My Valentine |
+| F3 | Goodnight Tonight |
+| F4 | The World Tonight |
+| F5 | Pipes Of Peace |
+| G1 | Dance Tonight |
+| G2 | Here Today ( Remixed 2015) |
+| G3 | Wanderlust (Remixed 2015) |
+| G4 | Great Day |
+| G5 | Coming Up |
+| G6 | No More Lonely Nights |
+| H1 | Too Many People |
+| H2 | Only Mama Knows |
+| H3 | With A Little Luck (DJ Edit) |
+| H4 | Hope For The Future |
+| H5 | Junk |
+
 
 
 ## Apple Music

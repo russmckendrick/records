@@ -41,12 +41,13 @@ You are forgiven if you feel a little uncomfortable listening to these recording
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Medley |
+| B1 | Cold Coffee & Cocaine |
+| B2 | Why The Butterflies |
+|  | Medley |
+| CD-8 | Cold Coffee & Cocaine |
+| CD-9 | Why The Butterflies |
+
 
 
 ## Apple Music

@@ -39,30 +39,31 @@ styles: ["Comedy"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Opening Announcement  |
+| A2 | Perveswerve |
+| A3 | Go Johnny Go, Go, Go, Go! |
+| A4 | Attachments Dating Agency |
+| A5 | Mick McNamara  |
+| A6 | Pam Doove |
+| A7 | Fun Night With Mike King |
+| A8 | Pop & Al |
+| B1 | Mr Foot |
+| B2 | Charlie & Stella |
+| B3 | Ollie Plimsolls |
+| B4 | Tubbs & Edward |
+| B5 | Toddy's Bingo |
+| B6 | Geoff, Mike & Brian |
+| C1 | Dear Bernice... |
+| C2 | Herr Lipp |
+| C3 | 'Surgery In Action' Live |
+| C4 | Dear Bernice... |
+| C5 | Pauline RIP |
+| D1 | Auntie Val's Wedding |
+| D2 | Les McQueen |
+| D3 | Benjamin's Flashback  |
+| D4 | Dear Bernice... |
+| D5 | Local Shop/Wife Mine |
+
 
 
 ## Apple Music

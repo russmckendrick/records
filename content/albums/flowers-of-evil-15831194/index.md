@@ -37,14 +37,15 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | One Last Dance |
+| A2 | Russian Doll |
+| A3 | Machine Guns And Peacock Feathers |
+| A4 | Hour Of The Wolf |
+| B1 | Apocalypse 1993 |
+| B2 | Little Boy |
+| B3 | Nostalgia |
+| B4 | A Thousand Cuts |
+
 
 
 ## Apple Music

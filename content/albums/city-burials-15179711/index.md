@@ -62,18 +62,19 @@ styles: ["Prog Rock", "Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Heart Set To Divide |
+| A2 | Behind The Blood |
+| A3 | Lacquer |
+| A4 | Rein |
+| B1 | The Winter Of Our Passing |
+| B2 | Vanishers |
+| B3 | City Glaciers |
+| B4 | Flicker |
+| C1 | Lachesis |
+| C2 | Neon Epitaph |
+| C3 | Untrodden |
+| C4 | Closing Of The Sky |
+
 
 
 ## Apple Music

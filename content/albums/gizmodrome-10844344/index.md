@@ -33,18 +33,19 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Zombies In The Mall |
+| A2 | Stay Ready |
+| A3 | Man In The Mountain |
+| A4 | Summer's Coming |
+| A5 | Sweet Angels (Rule The World) |
+| A6 | Amaka Pipa |
+| A7 | Strange Things Happen |
+| B1 | Ride Your Life |
+| B2 | Zubatta Cheve |
+| B3 | Spin This |
+| B4 | I Know Too Much |
+| B5 | Stark Naked |
+
 
 
 ## Apple Music

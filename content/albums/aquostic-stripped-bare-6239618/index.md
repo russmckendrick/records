@@ -33,28 +33,29 @@ styles: ["Acoustic"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Pictures Of Matchstick Men |
+| A2 | Down The Dustpipe |
+| A3 | Na Na Na |
+| A4 | Paper Plane |
+| A5 | All The Reasons |
+| A6 | Reasons For Living |
+| B1 | And It's Better Now |
+| B2 | Caroline |
+| B3 | Softer Ride |
+| B4 | Claudie |
+| B5 | Break The Rules |
+| C1 | Down Down |
+| C2 | Rain |
+| C3 | Rockin'All Over The World |
+| C4 | Again And Again |
+| C5 | Whatever You Want |
+| C6 | What You're Proposing |
+| D1 | Rock `n'Roll |
+| D2 | Don't Drive My Car |
+| D3 | Marguerita Time |
+| D4 | Burning Bridges |
+| D5 | Rock 'Till You Drop |
+
 
 
 ## Apple Music

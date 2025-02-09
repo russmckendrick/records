@@ -38,16 +38,17 @@ Temple of the Dog is the only studio album by the American rock band Temple of t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Say Hello 2 Heaven |
+| A2 | Reach Down |
+| B1 | Hunger Strike |
+| B2 | Pushin Forward Back |
+| B3 | Call Me A Dog |
+| B4 | Times Of Trouble |
+| C1 | Wooden Jesus |
+| C2 | Your Saviour |
+| C3 | Four Walled World |
+| C4 | All Night Thing |
+
 
 
 ## Apple Music

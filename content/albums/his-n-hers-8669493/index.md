@@ -35,16 +35,17 @@ His 'n' Hers is the fourth studio album by English rock band Pulp, released on 1
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Joyriders |
+| A2 | Lipgloss |
+| A3 | Acrylic Afternoons |
+| A4 | Have You Seen Her Lately? |
+| A5 | She's A Lady |
+| B1 | Happy Endings |
+| B2 | Do You Remember The First Time? |
+| B3 | Pink Glove |
+| B4 | Someone Like The Moon |
+| B5 | David's Last Summer |
+
 
 
 ## Apple Music

@@ -38,14 +38,15 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | See No Evil |
+| A2 | Venus |
+| A3 | Friction |
+| A4 | Marquee Moon |
+| B1 | Elevation |
+| B2 | Guiding Light |
+| B3 | Prove It |
+| B4 | Torn Curtain |
+
 
 
 ## Apple Music

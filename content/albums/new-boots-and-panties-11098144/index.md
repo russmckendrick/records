@@ -42,27 +42,28 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wake Up And Make Love With Me |
+| A2 | Sweet Gene Vincent |
+| A3 | I'm Partial To Your Abracadabra |
+| A4 | My Old Man |
+| A5 | Billericay Dickie |
+| B1 | Clevor Trever |
+| B2 | If I Was With A Woman |
+| B3 | Blockheads |
+| B4 | Plaistow Patricia |
+| B5 | Blackmail Man |
+| C1 | Sex & Drugs & Rock & Roll [Live] |
+| C2 | Wake Up And Make Love With Me [Live] |
+| C3 | Clevor Trever [Live] |
+| C4 | Plaistow Patricia [Live] |
+| C5 | I Made Mary Cry [Live] |
+| D1 | What A Waste [Live] |
+| D2 | Blockheads [Live] |
+| D3 | If I Was With A Woman [Live] |
+| D4 | Upminster Kid [Live] |
+| D5 | Sweet Gene Vincent [Live] |
+| D6 | Sex & Drugs & Rock & Roll (Reprise) [Live] |
+
 
 
 ## Apple Music

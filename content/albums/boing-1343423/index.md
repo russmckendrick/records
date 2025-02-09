@@ -29,17 +29,18 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Scrap Happy |
+| A2 | I Might Fall |
+| A3 | Right Now |
+| A4 | Funny How |
+| A5 | Easy |
+| B1 | Counting Sheep |
+| B2 | I Don't Mind |
+| B3 | Congratulations |
+| B4 | Wish You Were Here |
+| B5 | Isn't It Rich |
+| B6 | Everybody Needs |
+
 
 
 ## Apple Music

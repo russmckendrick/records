@@ -38,15 +38,16 @@ Fauna (pl.: faunae or faunas) is all of the animal life present in a particular 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Taurus |
+| A2 | Nightingale |
+| B1 | The Alphabet Of Me |
+| B2 | Sempiternal Beings |
+| C1 | Beneath The White Rainbow |
+| C2 | Island In The Clouds |
+| C3 | Lovebite |
+| D1 | Elephants Never Forget |
+| D2 | Eyes Of Ebony |
+
 
 
 ## Apple Music

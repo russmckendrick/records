@@ -29,16 +29,17 @@ After the Rain is the debut album of the American rock group Nelson, released by
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | (Can't Live Without Your) Love And Affection |
+| A2 | I Can Hardly Wait |
+| A3 | After The Rain |
+| A4 | Tracy's Song/Only Time Will Tell |
+| A5 | More Than Ever |
+| B1 | (It's Just) Desire |
+| B2 | Fill You Up |
+| B3 | Interlude/Everywhere I Go |
+| B4 | Bits And Pieces |
+| B5 | Will You Love Me? |
+
 
 
 ## Apple Music

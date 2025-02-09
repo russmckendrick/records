@@ -35,15 +35,16 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Memphis Soul Stew |
+| A2 | A Whiter Shade Of Pale |
+| A3 | Whole Lotta Love |
+| A4 | I Stand Accused |
+| B1 | Changes |
+| B2 | Ode To Billie Joe |
+| B3 | Mr. Bojangles |
+| B4 | Signed Sealed Delivered, I'm Yours |
+| B5 | Soul Serenade |
+
 
 
 ## Apple Music

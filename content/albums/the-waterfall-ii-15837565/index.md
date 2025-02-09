@@ -53,16 +53,17 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| E1 | Spinning My Wheels |
+| E2 | Still Thinkin' |
+| E3 | Climbing The Ladder |
+| E4 | Feel You |
+| E5 | Beautiful Love (Wasn't Enough) |
+| F1 | Magic Bullet |
+| F2 | Run It |
+| F3 | Wasted |
+| F4 | Welcome Home |
+| F5 | The First Time |
+
 
 
 ## Apple Music

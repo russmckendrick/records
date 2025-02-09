@@ -28,33 +28,34 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Gather Up |
+| A2 | Devil Inside Me |
+| A3 | Fallen Angel |
+| A4 | Medicine |
+| A5 | Wolf Quartet |
+| A6 | Solstice |
+| B1 | October Sun |
+| B2 | The Signs |
+| B3 | Knock Knock |
+| B4 | Bonfire |
+| B5 | Village Dance |
+| B6 | Farewell Summer Sun |
+| C1 | The Dawn |
+| C2 | Devil Inside Me (Walk With Samuel) |
+| C3 | Fire Chant (Alternate Version) |
+| C4 | You That I See (Early Demo) |
+| C5 | Early Knock |
+| C6 | To The Floor (Demo) |
+| C7 | Wolf Quartet |
+| D1 | Ukenwhistle |
+| D2 | Vension Sketch |
+| D3 | On A High |
+| D4 | October Outtake |
+| D5 | Honky Knock |
+| D6 | An Electric Hero |
+| D7 | Food Chain Blues |
+| D8 | Sea Chant |
+
 
 
 ## Apple Music

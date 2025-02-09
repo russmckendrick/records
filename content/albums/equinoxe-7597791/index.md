@@ -29,14 +29,15 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Equinoxe Part 1 |
+| A2 | Equinoxe Part 2 |
+| A3 | Equinoxe Part 3 |
+| A4 | Equinoxe Part 4 |
+| B1 | Equinoxe Part 5 |
+| B2 | Equinoxe Part 6 |
+| B3 | Equinoxe Part 7 |
+| B4 | Equinoxe Part 8 |
+
 
 
 ## Apple Music

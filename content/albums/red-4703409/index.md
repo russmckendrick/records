@@ -41,11 +41,12 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Red |
+| A2 | Fallen Angel |
+| A3 | One More Red Nightmare |
+| B1 | Providence |
+| B2 | Starless |
+
 
 
 ## Apple Music

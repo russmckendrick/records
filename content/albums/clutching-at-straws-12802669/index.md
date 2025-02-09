@@ -59,37 +59,38 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix) |
+| A1 | Hotel Hobbies |
+| A2 | Warm Wet Circles |
+| A3 | That Time Of The Night (The Short Straw) |
+| B1 | Going Under (Alternate Version) |
+| B2 | Just For The Record |
+| B3 | White Russian |
+| C1 | Incommunicado |
+| C2 | Torch Song |
+| C3 | Slàinte Mhath |
+| D1 | Sugar Mice |
+| D2 | The Last Straw / Happy Ending |
+|  | Live At The Edinburgh Playhouse 19th December 1987 (2018 Michael Hunter Mix) |
+| E1 | La Gazza Ladra |
+| E2 | Slàinte Mhath |
+| E3 | Assassing |
+| F1 | White Russian |
+| F2 | Incubus |
+| F3 | Sugar Mice |
+| G1 | Fugazi |
+| H1 | Hotel Hobbies |
+| H2 | Warm Wet Circles |
+| H3 | That Time Of The Night (The Short Straw) |
+| I1 | Pseudo Silk Kimono (Intro) |
+| I2 | Kayleigh |
+| I3 | Lavender |
+| I4 | Bitter Suite |
+| I5 | Heart Of Lothian |
+| J1 | The Last Straw |
+| J2 | Incommunicado |
+| J3 | Garden Party |
+
 
 
 ## Apple Music

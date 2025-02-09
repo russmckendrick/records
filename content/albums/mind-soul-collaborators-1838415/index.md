@@ -28,20 +28,18 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Please Don't Fight |
+| A2 | Crossed Lines |
+| A3 | Daydream |
+| A4 | Mother |
+| A5 | Misunderstood |
+| B1 | Starved By Ignorance |
+| B2 | London City |
+| B3 | Teenage Turtles |
+| B4 | Hard Edged Few |
+| B5 | Sleepless Nights |
 
 
-## Apple Music
-{{< applemusic url="" >}}<br>
 
 
 

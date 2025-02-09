@@ -51,31 +51,32 @@ The album is titled after a military slang term well known at the time of releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  | Record 1 - Fugazi (2021 Remix) |
+| A1 | Assassing |
+| A2 | Punch And Judy |
+| A3 | Jigsaw |
+| A4 | Emerald Lies |
+| B1 | She Chameleon |
+| B2 | Incubus |
+| B3 | Fugazi |
+|  | Record 2 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 1) |
+| C1 | Assassing |
+| C2 | Punch And Judy |
+| C3 | Jigsaw |
+| D1 | Script For A Jester's Tear |
+| D2 | Chelsea Monday |
+|  | Record 3 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 2) |
+| E1 | Emerald Lies |
+| E2 | Cinderella Search |
+| E3 | Incubus |
+| F1 | Charting The Single |
+| F2 | He Knows, You Know |
+|  | Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3) |
+| G1 | Fugazi |
+| G2 | Forgotten Sons |
+| H1 | Garden Party |
+| H2 | Market Square Heroes |
+
 
 
 ## Apple Music

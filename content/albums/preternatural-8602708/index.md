@@ -36,17 +36,18 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Behemooth |
+| A2 | Underwaterpainter |
+| A3 | Coral |
+| A4 | Hidden World (Halicephalobus Mephisto) |
+| A5 | Pufferfish Love |
+| B6 | Patterns |
+| B7 | Rite Of Passage |
+| B8 | Medusa |
+| B9 | Parasite |
+| B10 | Bird Of Paradise (Part II) |
+| B11 | Silk |
+
 
 
 ## Apple Music

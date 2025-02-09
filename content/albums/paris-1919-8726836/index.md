@@ -35,15 +35,16 @@ The album has received critical praise from several publications over the years,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Child's Christmas In Wales |
+| A2 | Hanky Panky Nohow |
+| A3 | The Endless Plain Of Fortune |
+| A4 | Andalucia |
+| A5 | Macbeth |
+| B6 | Paris 1919 |
+| B7 | Graham Greene |
+| B8 | Half Past France |
+| B9 | Antartica Starts Here |
+
 
 
 ## Apple Music

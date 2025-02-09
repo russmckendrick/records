@@ -32,12 +32,13 @@ styles: ["Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Oilyvoice |
+| A2 | Seen The Sun |
+| A3 | Magnetophoria |
+| B1 | Floating Plates |
+| B2 | Infinity Curtains |
+| B3 | Starseeds |
+
 
 
 ## Apple Music

@@ -44,36 +44,37 @@ A number of guests performed on the album, including Morgen Ågren of Kaipa on d
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Daddy |
+| A2 | Mountaintop |
+| A3 | Flight |
+| A4 | The Code |
+| B1 | Moon |
+| B2 | Pier |
+| B3 | Ether |
+| B4 | Hejda |
+| C1 | Forgive Me |
+| C2 | Broken |
+| C3 | Bones |
+| C4 | Deathscope |
+| D1 | The Field |
+| D2 | The Bridge |
+| D3 | Pure |
+| CD-1 | Daddy |
+| CD-2 | Mountaintop |
+| CD-3 | Flight |
+| CD-4 | The Code |
+| CD-5 | Moon |
+| CD-6 | Pier |
+| CD-7 | Ether |
+| CD-8 | Hejda |
+| CD-9 | Forgive Me |
+| CD-10 | Broken |
+| CD-11 | Bones |
+| CD-12 | Deathscope |
+| CD-13 | The Field |
+| CD-14 | The Bridge |
+| CD-15 | Pure |
+
 
 
 ## Apple Music

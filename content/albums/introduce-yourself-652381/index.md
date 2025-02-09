@@ -34,16 +34,17 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Faster Disco |
+| A2 | Anne's Song |
+| A3 | Introduce Yourself |
+| A4 | Chinese Arithmetic |
+| A5 | Death March |
+| B1 | We Care A Lot |
+| B2 | R n' R |
+| B3 | The Crab Song |
+| B4 | Blood |
+| B5 | Spirit |
+
 
 
 ## Apple Music

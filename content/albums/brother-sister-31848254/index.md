@@ -35,24 +35,25 @@ Brother Sister was lead singer N'Dea Davenport's last album with the Brand New H
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Have A Good Time |
+| A2 | Brother Sister |
+| A3 | Dream On Dreamer |
+| A4 | Midnight At The Oasis  |
+| B1 | Back To Love |
+| B2 | Ten Ton Take |
+| B3 | Mind Trips |
+| B4 | Spend Some Time |
+| C1 | Keep Together |
+| C2 | Snake Hips |
+| C3 | Fake |
+| C4 | People Giving Love |
+| C5 | World Keeps Spinning |
+| D1 | Forever |
+| D2 | Day Break |
+| D3 | Los Burritos  |
+| D4 | Baby Don’t Use Me |
+| D5 | Touch Of Your Love |
+
 
 
 ## Apple Music

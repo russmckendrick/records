@@ -34,15 +34,16 @@ Recorded over the course of six weeks in London’s legendary Power Plant Studio
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Smooth Operator |
+| A2 | Your Love Is King |
+| A3 | Hang On To Your Love |
+| A4 | Frankie's First Affair |
+| A5 | When Am I Going To Make A Living |
+| B1 | Cherry Pie |
+| B2 | Sally |
+| B3 | I Will Be Your Friend |
+| B4 | Why Can't We Live Together |
+
 
 
 ## Apple Music

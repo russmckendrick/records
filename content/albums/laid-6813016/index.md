@@ -38,19 +38,20 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Out To Get You |
+| A2 | Sometimes (Lester Piggott) |
+| A3 | Dream Thrum |
+| B1 | One Of The Three |
+| B2 | Say Something |
+| B3 | Five-O |
+| C1 | P.S. |
+| C2 | Everybody Knows |
+| C3 | Knuckle Too Far |
+| D1 | Low Low Low |
+| D2 | Laid |
+| D3 | Lullaby |
+| D4 | Skindiving |
+
 
 
 ## Apple Music

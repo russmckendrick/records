@@ -40,22 +40,23 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Wesley's Theory |
+| A2 | For Free? (Interlude) |
+| A3 | King Kunta |
+| A4 | Institutionalized |
+| A5 | These Walls |
+| B1 | U |
+| B2 | Alright |
+| B3 | For Sale? (Interlude) |
+| B4 | Momma |
+| C1 | Hood Politics |
+| C2 | How Much A Dollar Cost |
+| C3 | Complexion (A Zulu Love) |
+| C4 | The Blacker The Berry |
+| D1 | You Aint Gotta Lie (Momma Said) |
+| D2 | I |
+| D3 | Mortal Man |
+
 
 
 ## Apple Music

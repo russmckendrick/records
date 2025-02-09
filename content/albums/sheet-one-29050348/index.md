@@ -34,17 +34,18 @@ Sheet One is the second studio album by Canadian electronic music producer Richi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Drp |
+| A2 | Plasticity |
+| A3 | Gak |
+| B1 | Okx |
+| B2 | Helikopter |
+| B3 | Glob |
+| C1 | Plasticine |
+| C2 | Koma |
+| D1 | Vokx |
+| D2 | Smak |
+| D3 | Ovokx |
+
 
 
 ## Apple Music

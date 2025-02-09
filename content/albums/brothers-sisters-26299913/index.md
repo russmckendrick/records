@@ -38,17 +38,18 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Mars Man |
+| A2 | I'm On My Way |
+| A3 | No More |
+| B1 | All Over Again |
+| B2 | The People Say |
+| B3 | Let It Go |
+| C1 | Pieces Of Me |
+| C2 | Travelling Hard |
+| C3 | Brixton Fish Fry |
+| D1 | Upon My Soul |
+| D2 | Brothers & Sisters |
+
 
 
 ## Apple Music

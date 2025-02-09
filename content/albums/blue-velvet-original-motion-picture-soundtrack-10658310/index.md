@@ -31,22 +31,23 @@ styles: ["Soundtrack", "Rhythm & Blues", "Smooth Jazz"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Main Title |
+| A2 | Night Streets / Sandy And Jeffrey |
+| A3 | Frank |
+| A4 | Jeffrey's Dark Side |
+| A5 | Mysteries Of Love (French Horn Solo) |
+| A6 | Frank Returns |
+| A7 | Mysteries Of Love (Instrumental) |
+| B1a | Blue Velvet |
+| B1b | Blue Star |
+| B2a | Lumberton U.S.A. |
+| B2b | Going Down To Lincoln |
+| B3 | Akron Meets The Blues |
+| B4 | Honky Tonk Part I |
+| B5 | In Dreams |
+| B6 | Love Letters |
+| B7 | Mysteries Of Love |
+
 
 
 ## Apple Music

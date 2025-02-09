@@ -49,16 +49,17 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Spirit |
+| A2 | From The Pinnacle To The Pit |
+| A3 | Cirice |
+| A4 | Spöksonat |
+| A5 | He Is |
+| B1 | Mummy Dust |
+| B2 | Majesty |
+| B3 | Devil Church |
+| B4 | Absolution |
+| B5 | Deus In Absentia |
+
 
 
 ## Apple Music

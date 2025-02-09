@@ -32,18 +32,19 @@ styles: ["Goth Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| A1 | Under The Gun |
+| A2 | Temple Of Love (1992) |
+| A3 | Vision Thing |
+| B1 | Detonation Boulevard |
+| B2 | Doctor Jeep |
+| B3 | More |
+| C1 | Lucretia My Reflection |
+| C2 | Dominion / Mother Russia |
+| D1 | This Corrosion |
+| D2 | No Time To Cry |
+| D3 | Walk Away |
+| D4 | Body And Soul |
+
 
 
 ## Apple Music
