@@ -44,7 +44,7 @@ styles: ["Synth-pop", "Experimental", "Electro"]
 
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/planet-jarre/1399045398" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/zoolook-40th-anniversary-new-mastering/1775930283" >}}<br>
 
 
 
