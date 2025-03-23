@@ -83,7 +83,7 @@ styles: ["Hard Rock", "Prog Rock"]
 
 
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/50-foot-rush-single/1375322458" >}}<br>
+{{< applemusic url="https://music.apple.com/us/album/rush-50-anniversary-super-deluxe/1771541600" >}}<br>
 
 
 
