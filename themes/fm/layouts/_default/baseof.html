@@ -13,7 +13,7 @@
     {{ .Scratch.Add "class" " list" -}}
 {{ end -}}
 <body class="{{ .Scratch.Get `class` }} d-flex flex-column min-vh-100">
-    {{partial "partials/svgs.html" . }}
+    {{partial "svgs.html" . }}
     {{- partial "header/header.html" . -}}
     <div id="content">
         {{ if and (.Site.Params.options.breadCrumb) (ne .Kind "home") -}}
