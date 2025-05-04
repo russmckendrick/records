@@ -6,6 +6,7 @@ album_name: "Pyrotechnics: Porno For Pyros' Latest & Greatest"
 date: 2024-12-14T02:30:32.000000Z
 release_date: "2024-11-15"
 release_id: "32096055"
+apple_music_url: "https://music.apple.com/gb/album/pyrotechnics-porno-for-pyros-latest-greatest/1778275719"
 slug: "pyrotechnics-porno-for-pyros-latest-greatest-32096055"
 hideSummary: true
 cover:

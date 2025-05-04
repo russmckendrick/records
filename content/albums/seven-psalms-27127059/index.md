@@ -6,6 +6,7 @@ album_name: "Seven Psalms"
 date: 2023-05-19T09:53:50.000000Z
 release_date: "2023-05-19"
 release_id: "27127059"
+apple_music_url: "https://music.apple.com/gb/album/seven-psalms/1679077462"
 slug: "seven-psalms-27127059"
 hideSummary: true
 cover:

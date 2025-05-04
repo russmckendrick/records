@@ -6,6 +6,7 @@ album_name: "Run The Jewels 2"
 date: 2015-08-09T08:37:30.000000Z
 release_date: "2014-10-27"
 release_id: "6653718"
+apple_music_url: "https://music.apple.com/gb/album/run-the-jewels-2/1774265646"
 slug: "run-the-jewels-2-6653718"
 hideSummary: true
 cover:

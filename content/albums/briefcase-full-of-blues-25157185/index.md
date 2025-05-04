@@ -6,6 +6,7 @@ album_name: "Briefcase Full Of Blues"
 date: 2025-03-29T02:19:32.000000Z
 release_date: "1978-11-01"
 release_id: "25157185"
+apple_music_url: "https://music.apple.com/gb/album/briefcase-full-of-blues/40459605"
 slug: "briefcase-full-of-blues-25157185"
 hideSummary: true
 cover:

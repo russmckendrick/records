@@ -6,6 +6,7 @@ album_name: "Yummy"
 date: 2024-04-16T11:30:11.000000Z
 release_date: "2024-04-12"
 release_id: "30375872"
+apple_music_url: "https://music.apple.com/gb/album/yummy/1727526273"
 slug: "yummy-30375872"
 hideSummary: true
 cover:

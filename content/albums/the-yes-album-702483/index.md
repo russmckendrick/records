@@ -6,6 +6,7 @@ album_name: "The Yes Album"
 date: 2016-04-15T18:22:14.000000Z
 release_date: "1971-02-19"
 release_id: "702483"
+apple_music_url: "https://music.apple.com/gb/album/the-yes-album/1049017157"
 slug: "the-yes-album-702483"
 hideSummary: true
 cover:

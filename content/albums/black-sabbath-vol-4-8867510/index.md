@@ -6,6 +6,7 @@ album_name: "Black Sabbath Vol 4"
 date: 2016-08-11T15:57:34.000000Z
 release_date: "1973-12-01"
 release_id: "8867510"
+apple_music_url: "https://music.apple.com/gb/album/sabbath-bloody-sabbath/1440228485"
 slug: "black-sabbath-vol-4-8867510"
 hideSummary: true
 cover:

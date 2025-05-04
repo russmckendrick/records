@@ -6,6 +6,7 @@ album_name: "Lachesis / Clotho / Atropos"
 date: 2018-09-28T11:59:04.000000Z
 release_date: "2018-09-14"
 release_id: "12547656"
+apple_music_url: "https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563"
 slug: "lachesis-clotho-atropos-12547656"
 hideSummary: true
 cover:

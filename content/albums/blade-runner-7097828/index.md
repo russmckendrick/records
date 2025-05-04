@@ -6,6 +6,7 @@ album_name: "Blade Runner"
 date: 2015-08-09T08:33:25.000000Z
 release_date: "2003-01-01"
 release_id: "7097828"
+apple_music_url: "https://music.apple.com/gb/album/vangelis-club-cafe/364602079"
 slug: "blade-runner-7097828"
 hideSummary: true
 cover:

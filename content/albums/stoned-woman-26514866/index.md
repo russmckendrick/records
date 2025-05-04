@@ -6,6 +6,7 @@ album_name: "Stoned Woman"
 date: 2023-12-14T11:21:40.000000Z
 release_date: "1992-01-01"
 release_id: "26514866"
+apple_music_url: "https://music.apple.com/gb/album/stoned-woman/1152592674"
 slug: "stoned-woman-26514866"
 hideSummary: true
 cover:

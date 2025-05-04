@@ -6,6 +6,7 @@ album_name: "Stranger In Town"
 date: 2016-02-29T18:16:24.000000Z
 release_date: "1978-05-05"
 release_id: "5173884"
+apple_music_url: "https://music.apple.com/gb/album/stranger-in-town/1440888092"
 slug: "stranger-in-town-5173884"
 hideSummary: true
 cover:

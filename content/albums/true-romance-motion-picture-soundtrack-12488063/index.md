@@ -6,6 +6,7 @@ album_name: "True Romance (Motion Picture Soundtrack)"
 date: 2018-09-13T18:16:45.000000Z
 release_date: ""
 release_id: "12488063"
+apple_music_url: ""
 slug: "true-romance-motion-picture-soundtrack-12488063"
 hideSummary: true
 cover:

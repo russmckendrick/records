@@ -6,6 +6,7 @@ album_name: "Miss Flower"
 date: 2024-07-16T05:09:07.000000Z
 release_date: "2024-06-21"
 release_id: "31020979"
+apple_music_url: "https://music.apple.com/gb/album/miss-flower/1742129465"
 slug: "miss-flower-31020979"
 hideSummary: true
 cover:

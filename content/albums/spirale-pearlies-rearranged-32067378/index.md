@@ -5,6 +5,7 @@ artist: "emma-anderson"
 album_name: "Spiralée:  Pearlies Rearranged"
 date: 2024-10-25T08:19:40.000000Z
 release_id: "32067378"
+apple_music_url: "https://music.apple.com/gb/album/spiral%C3%A9e-pearlies-rearranged/1755420399"
 slug: "spirale-pearlies-rearranged-32067378"
 hideSummary: true
 cover:

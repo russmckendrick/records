@@ -6,6 +6,7 @@ album_name: "Do Or Die"
 date: 2022-08-16T03:16:10.000000Z
 release_date: "1998-01-27"
 release_id: "24170219"
+apple_music_url: "https://music.apple.com/gb/album/do-or-die/1485047507"
 slug: "do-or-die-24170219"
 hideSummary: true
 cover:

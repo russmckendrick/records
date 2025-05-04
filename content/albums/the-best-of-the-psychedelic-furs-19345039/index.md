@@ -6,6 +6,7 @@ album_name: "The Best Of The Psychedelic Furs"
 date: 2021-07-03T06:10:01.000000Z
 release_date: "2011-04-25"
 release_id: "19345039"
+apple_music_url: "https://music.apple.com/gb/album/heaven-the-best-of-the-psychedelic-furs/433444062"
 slug: "the-best-of-the-psychedelic-furs-19345039"
 hideSummary: true
 cover:

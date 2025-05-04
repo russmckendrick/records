@@ -6,6 +6,7 @@ album_name: "Tumbling Through The Floativerse"
 date: 2022-08-08T10:05:50.000000Z
 release_date: "2022-07-15"
 release_id: "23922800"
+apple_music_url: "https://music.apple.com/gb/album/tumbling-through-the-floativerse/1620580648"
 slug: "tumbling-through-the-floativerse-23922800"
 hideSummary: true
 cover:

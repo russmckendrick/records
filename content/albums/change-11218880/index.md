@@ -6,6 +6,7 @@ album_name: "Change"
 date: 2017-12-11T19:45:25.000000Z
 release_date: "2017-11-17"
 release_id: "11218880"
+apple_music_url: "https://music.apple.com/gb/album/change/1262024890"
 slug: "change-11218880"
 hideSummary: true
 cover:

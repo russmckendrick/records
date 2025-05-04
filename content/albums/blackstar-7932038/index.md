@@ -6,6 +6,7 @@ album_name: "★ (Blackstar)"
 date: 2016-01-08T19:08:48.000000Z
 release_date: "2016-01-08"
 release_id: "7932038"
+apple_music_url: "https://music.apple.com/gb/album/blackstar/1676286487"
 slug: "blackstar-7932038"
 hideSummary: true
 cover:

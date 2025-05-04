@@ -6,6 +6,7 @@ album_name: "Songs In The Key Of Life"
 date: 2017-03-26T10:55:59.000000Z
 release_date: "1976-09-28"
 release_id: "2321605"
+apple_music_url: "https://music.apple.com/gb/album/songs-in-the-key-of-life/1440788438"
 slug: "songs-in-the-key-of-life-2321605"
 hideSummary: true
 cover:

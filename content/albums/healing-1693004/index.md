@@ -6,6 +6,7 @@ album_name: "Healing"
 date: 2022-03-06T05:00:04.000000Z
 release_date: "1981-01-28"
 release_id: "1693004"
+apple_music_url: "https://music.apple.com/gb/album/healing/1084030825"
 slug: "healing-1693004"
 hideSummary: true
 cover:

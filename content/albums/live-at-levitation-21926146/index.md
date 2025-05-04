@@ -6,6 +6,7 @@ album_name: "Live At Levitation"
 date: 2022-07-31T06:15:56.000000Z
 release_date: "2021-11-19"
 release_id: "21926146"
+apple_music_url: "https://music.apple.com/gb/album/live-at-levitation/1578313533"
 slug: "live-at-levitation-21926146"
 hideSummary: true
 cover:

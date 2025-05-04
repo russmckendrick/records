@@ -6,6 +6,7 @@ album_name: "Loaded"
 date: 2015-12-07T11:50:16.000000Z
 release_date: ""
 release_id: "1420886"
+apple_music_url: ""
 slug: "loaded-1420886"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Milkbone"
 date: 2021-12-23T04:37:40.000000Z
 release_date: "2024-09-13"
 release_id: "21433090"
+apple_music_url: "https://music.apple.com/gb/album/milkbone-single/1763666285"
 slug: "milkbone-21433090"
 hideSummary: true
 cover:

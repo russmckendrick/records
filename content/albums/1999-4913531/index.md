@@ -6,6 +6,7 @@ album_name: "1999"
 date: 2016-07-01T16:52:02.000000Z
 release_date: "1982-10-27"
 release_id: "4913531"
+apple_music_url: "https://music.apple.com/gb/album/1999/214145240"
 slug: "1999-4913531"
 hideSummary: true
 cover:

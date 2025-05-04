@@ -6,6 +6,7 @@ album_name: "Betty Davis"
 date: 2017-07-15T11:32:29.000000Z
 release_date: "2011-07-26"
 release_id: "10549758"
+apple_music_url: "https://music.apple.com/gb/album/betty-davis-eyes-single/453243572"
 slug: "betty-davis-10549758"
 hideSummary: true
 cover:

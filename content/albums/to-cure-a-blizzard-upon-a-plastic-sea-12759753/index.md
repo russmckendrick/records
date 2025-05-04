@@ -6,6 +6,7 @@ album_name: "To Cure A Blizzard Upon A Plastic Sea"
 date: 2018-11-05T20:09:54.000000Z
 release_date: "2018-09-14"
 release_id: "12759753"
+apple_music_url: "https://music.apple.com/gb/album/to-cure-a-blizzard-upon-a-plastic-sea/1722675238"
 slug: "to-cure-a-blizzard-upon-a-plastic-sea-12759753"
 hideSummary: true
 cover:

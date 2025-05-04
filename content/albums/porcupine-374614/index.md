@@ -6,6 +6,7 @@ album_name: "Porcupine"
 date: 2017-07-21T18:28:47.000000Z
 release_date: "1983-02-04"
 release_id: "374614"
+apple_music_url: "https://music.apple.com/gb/album/porcupine/1611166017"
 slug: "porcupine-374614"
 hideSummary: true
 cover:

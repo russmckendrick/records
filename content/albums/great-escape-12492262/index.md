@@ -6,6 +6,7 @@ album_name: "Great Escape"
 date: 2018-09-19T17:58:20.000000Z
 release_date: "2018-09-14"
 release_id: "12492262"
+apple_music_url: "https://music.apple.com/gb/album/great-escape/1407034902"
 slug: "great-escape-12492262"
 hideSummary: true
 cover:

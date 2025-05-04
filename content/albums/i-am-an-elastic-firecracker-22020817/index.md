@@ -6,6 +6,7 @@ album_name: "I Am An Elastic Firecracker"
 date: 2022-02-11T09:26:43.000000Z
 release_date: "1995-01-01"
 release_id: "22020817"
+apple_music_url: "https://music.apple.com/gb/album/i-am-an-elastic-firecracker/1443726891"
 slug: "i-am-an-elastic-firecracker-22020817"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Threesome Vol. 3"
 date: 2022-07-02T07:38:55.000000Z
 release_date: "2022-05-20"
 release_id: "23730260"
+apple_music_url: "https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620"
 slug: "threesome-vol-3-23730260"
 hideSummary: true
 cover:

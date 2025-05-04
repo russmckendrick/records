@@ -6,6 +6,7 @@ album_name: "Zenyatta Mondatta"
 date: 2016-04-08T19:08:40.000000Z
 release_date: "1980-10-03"
 release_id: "371546"
+apple_music_url: "https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146"
 slug: "zenyatta-mondatta-371546"
 hideSummary: true
 cover:

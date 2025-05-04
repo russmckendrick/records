@@ -6,6 +6,7 @@ album_name: "Play To Win (The • Virgin • Albums)"
 date: 2019-03-31T10:17:21.000000Z
 release_date: "2002-10-01"
 release_id: "13428374"
+apple_music_url: "https://music.apple.com/gb/album/hail-queen-of-heaven-music-in-honour-of-the-virgin-mary/444801681"
 slug: "play-to-win-the-virgin-albums-13428374"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Red"
 date: 2024-12-22T03:17:59.000000Z
 release_date: "1969-10-10"
 release_id: "32103804"
+apple_music_url: "https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711"
 slug: "red-32103804"
 hideSummary: true
 cover:

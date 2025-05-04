@@ -6,6 +6,7 @@ album_name: "The Question"
 date: 2023-10-01T03:55:40.000000Z
 release_date: "1998-10-20"
 release_id: "26790146"
+apple_music_url: "https://music.apple.com/gb/album/the-question/1485050796"
 slug: "the-question-26790146"
 hideSummary: true
 cover:

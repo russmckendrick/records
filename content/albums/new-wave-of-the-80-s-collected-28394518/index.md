@@ -6,6 +6,7 @@ album_name: "New Wave Of The 80's Collected"
 date: 2023-09-26T22:32:10.000000Z
 release_date: ""
 release_id: "28394518"
+apple_music_url: ""
 slug: "new-wave-of-the-80-s-collected-28394518"
 hideSummary: true
 cover:

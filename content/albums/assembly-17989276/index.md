@@ -6,6 +6,7 @@ album_name: "Assembly"
 date: 2021-03-30T03:55:54.000000Z
 release_date: "2021-03-26"
 release_id: "17989276"
+apple_music_url: "https://music.apple.com/gb/album/assembly/1558886326"
 slug: "assembly-17989276"
 hideSummary: true
 cover:

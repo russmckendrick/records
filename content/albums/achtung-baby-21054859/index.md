@@ -6,6 +6,7 @@ album_name: "Achtung Baby"
 date: 2021-11-21T03:10:58.000000Z
 release_date: "1991-11-18"
 release_id: "21054859"
+apple_music_url: "https://music.apple.com/gb/album/achtung-baby/1443063058"
 slug: "achtung-baby-21054859"
 hideSummary: true
 cover:

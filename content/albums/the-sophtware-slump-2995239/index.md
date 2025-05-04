@@ -6,6 +6,7 @@ album_name: "The Sophtware Slump"
 date: 2017-01-30T18:24:13.000000Z
 release_date: "2000-01-01"
 release_id: "2995239"
+apple_music_url: "https://music.apple.com/gb/album/the-sophtware-slump/1440937568"
 slug: "the-sophtware-slump-2995239"
 hideSummary: true
 cover:

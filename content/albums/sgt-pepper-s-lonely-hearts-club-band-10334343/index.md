@@ -6,6 +6,7 @@ album_name: "Sgt. Pepper's Lonely Hearts Club Band"
 date: 2017-05-27T08:24:00.000000Z
 release_date: "1967-06-01"
 release_id: "10334343"
+apple_music_url: "https://music.apple.com/gb/album/sgt-peppers-lonely-hearts-club-band/1441164604"
 slug: "sgt-pepper-s-lonely-hearts-club-band-10334343"
 hideSummary: true
 cover:

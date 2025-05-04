@@ -6,6 +6,7 @@ album_name: "Aloha"
 date: 2020-02-07T18:46:04.000000Z
 release_date: "2020-01-31"
 release_id: "14719879"
+apple_music_url: "https://music.apple.com/gb/album/aloha/1484054682"
 slug: "aloha-14719879"
 hideSummary: true
 cover:

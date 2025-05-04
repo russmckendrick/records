@@ -6,6 +6,7 @@ album_name: "Letters To Maro"
 date: 2018-11-10T14:07:34.000000Z
 release_date: "2018-04-13"
 release_id: "11856237"
+apple_music_url: "https://music.apple.com/gb/album/letters-to-maro/1348707186"
 slug: "letters-to-maro-11856237"
 hideSummary: true
 cover:

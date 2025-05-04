@@ -6,6 +6,7 @@ album_name: "Fish Heads And Tails"
 date: 2020-08-01T12:49:41.000000Z
 release_date: ""
 release_id: "1029622"
+apple_music_url: ""
 slug: "fish-heads-and-tails-1029622"
 hideSummary: true
 cover:

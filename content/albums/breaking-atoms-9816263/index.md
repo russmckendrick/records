@@ -6,6 +6,7 @@ album_name: "Breaking Atoms"
 date: 2017-02-15T18:30:30.000000Z
 release_date: "2022-01-14"
 release_id: "9816263"
+apple_music_url: "https://music.apple.com/gb/album/breaking-atoms-single/1601221353"
 slug: "breaking-atoms-9816263"
 hideSummary: true
 cover:

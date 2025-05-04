@@ -6,6 +6,7 @@ album_name: "Television Themes"
 date: 2018-10-01T17:55:52.000000Z
 release_date: "2018-10-05"
 release_id: "12601366"
+apple_music_url: "https://music.apple.com/gb/album/television-themes/1414662713"
 slug: "television-themes-12601366"
 hideSummary: true
 cover:

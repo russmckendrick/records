@@ -6,6 +6,7 @@ album_name: "The Endless River"
 date: 2016-05-31T17:52:12.000000Z
 release_date: "2014-11-07"
 release_id: "6268164"
+apple_music_url: "https://music.apple.com/gb/album/the-endless-river/919664303"
 slug: "the-endless-river-6268164"
 hideSummary: true
 cover:

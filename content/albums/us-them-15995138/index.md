@@ -6,6 +6,7 @@ album_name: "Us + Them"
 date: 2020-10-03T16:11:55.000000Z
 release_date: "2020-10-02"
 release_id: "15995138"
+apple_music_url: "https://music.apple.com/gb/album/us-them/1517099398"
 slug: "us-them-15995138"
 hideSummary: true
 cover:

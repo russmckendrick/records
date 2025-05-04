@@ -6,6 +6,7 @@ album_name: "Ceremony"
 date: 2023-12-29T04:34:27.000000Z
 release_date: "1991-09-24"
 release_id: "27997590"
+apple_music_url: "https://music.apple.com/gb/album/ceremony/1136817045"
 slug: "ceremony-27997590"
 hideSummary: true
 cover:

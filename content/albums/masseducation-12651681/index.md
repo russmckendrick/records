@@ -6,6 +6,7 @@ album_name: "MassEducation"
 date: 2018-10-14T15:20:58.000000Z
 release_date: "2018-10-12"
 release_id: "12651681"
+apple_music_url: "https://music.apple.com/gb/album/masseducation/1437029839"
 slug: "masseducation-12651681"
 hideSummary: true
 cover:

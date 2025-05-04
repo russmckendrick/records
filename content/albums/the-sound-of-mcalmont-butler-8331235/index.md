@@ -6,6 +6,7 @@ album_name: "The Sound Of... McAlmont & Butler"
 date: 2016-07-10T09:49:42.000000Z
 release_date: "1995-01-01"
 release_id: "8331235"
+apple_music_url: "https://music.apple.com/gb/album/the-sound-of-mcalmont-and-butler/723687997"
 slug: "the-sound-of-mcalmont-butler-8331235"
 hideSummary: true
 cover:

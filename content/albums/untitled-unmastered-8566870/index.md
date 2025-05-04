@@ -6,6 +6,7 @@ album_name: "Untitled Unmastered."
 date: 2017-01-23T17:31:10.000000Z
 release_date: "2016-03-04"
 release_id: "8566870"
+apple_music_url: "https://music.apple.com/gb/album/untitled-unmastered/1440844834"
 slug: "untitled-unmastered-8566870"
 hideSummary: true
 cover:

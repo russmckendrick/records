@@ -6,6 +6,7 @@ album_name: "Empire"
 date: 2025-04-21T03:01:10.000000Z
 release_date: "2011-12-05"
 release_id: "9840430"
+apple_music_url: "https://music.apple.com/us/album/empire-20th-anniversary-edition/721274536"
 slug: "empire-9840430"
 hideSummary: true
 cover:

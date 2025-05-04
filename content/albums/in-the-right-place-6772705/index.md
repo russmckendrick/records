@@ -6,6 +6,7 @@ album_name: "In The Right Place"
 date: 2015-10-05T18:22:12.000000Z
 release_date: "1973-02-25"
 release_id: "6772705"
+apple_music_url: "https://music.apple.com/gb/album/in-the-right-place/145077581"
 slug: "in-the-right-place-6772705"
 hideSummary: true
 cover:

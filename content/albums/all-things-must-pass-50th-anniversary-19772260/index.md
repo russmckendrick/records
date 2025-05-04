@@ -6,6 +6,7 @@ album_name: "All Things Must Pass (50th Anniversary)"
 date: 2023-06-20T07:40:06.000000Z
 release_date: "1970-11-27"
 release_id: "19772260"
+apple_music_url: "https://music.apple.com/gb/album/all-things-must-pass-50th-anniversary/1666662415"
 slug: "all-things-must-pass-50th-anniversary-19772260"
 hideSummary: true
 cover:

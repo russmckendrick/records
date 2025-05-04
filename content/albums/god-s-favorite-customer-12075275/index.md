@@ -6,6 +6,7 @@ album_name: "God's Favorite Customer"
 date: 2018-06-09T09:14:48.000000Z
 release_date: "2018-06-01"
 release_id: "12075275"
+apple_music_url: "https://music.apple.com/gb/album/gods-favorite-customer/1359220140"
 slug: "god-s-favorite-customer-12075275"
 hideSummary: true
 cover:

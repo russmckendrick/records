@@ -6,6 +6,7 @@ album_name: "Modern Classics (The Greatest Hits)"
 date: 2023-01-28T04:51:45.000000Z
 release_date: "1998-01-01"
 release_id: "24798500"
+apple_music_url: "https://music.apple.com/gb/album/modern-classics-the-greatest-hits/1440925454"
 slug: "modern-classics-the-greatest-hits-24798500"
 hideSummary: true
 cover:

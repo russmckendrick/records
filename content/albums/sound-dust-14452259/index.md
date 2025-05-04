@@ -6,6 +6,7 @@ album_name: "Sound-Dust"
 date: 2019-11-29T12:18:12.000000Z
 release_date: "2001-08-22"
 release_id: "14452259"
+apple_music_url: "https://music.apple.com/gb/album/sound-dust/1231424728"
 slug: "sound-dust-14452259"
 hideSummary: true
 cover:

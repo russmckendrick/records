@@ -6,6 +6,7 @@ album_name: "Monolithic Baby!"
 date: 2022-10-01T04:05:35.000000Z
 release_date: "2004-05-25"
 release_id: "24530108"
+apple_music_url: "https://music.apple.com/gb/album/monolithic-baby/1635598919"
 slug: "monolithic-baby-24530108"
 hideSummary: true
 cover:

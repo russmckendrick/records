@@ -6,6 +6,7 @@ album_name: "The Long Good Friday (Original Motion Picture Score)"
 date: 2016-10-20T16:29:01.000000Z
 release_date: ""
 release_id: "8597626"
+apple_music_url: ""
 slug: "the-long-good-friday-original-motion-picture-score-8597626"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Seer"
 date: 2017-05-27T15:34:19.000000Z
 release_date: "1986-07"
 release_id: "369478"
+apple_music_url: "https://music.apple.com/gb/album/the-seer/1443745359"
 slug: "the-seer-369478"
 hideSummary: true
 cover:

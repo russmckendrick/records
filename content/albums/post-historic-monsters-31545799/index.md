@@ -6,6 +6,7 @@ album_name: "Post Historic Monsters"
 date: 2024-08-27T10:58:45.000000Z
 release_date: "1993-09-06"
 release_id: "31545799"
+apple_music_url: "https://music.apple.com/gb/album/post-historic-monsters/1629184761"
 slug: "post-historic-monsters-31545799"
 hideSummary: true
 cover:

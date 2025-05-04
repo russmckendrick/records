@@ -6,6 +6,7 @@ album_name: "The World Inside"
 date: 2021-10-18T05:16:39.000000Z
 release_date: "2021-08-19"
 release_id: "20584321"
+apple_music_url: "https://music.apple.com/gb/album/the-world-inside/1578306223"
 slug: "the-world-inside-20584321"
 hideSummary: true
 cover:

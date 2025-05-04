@@ -6,6 +6,7 @@ album_name: "Ocean Sounds"
 date: 2018-10-20T16:36:22.000000Z
 release_date: "2018-10-19"
 release_id: "12686247"
+apple_music_url: "https://music.apple.com/gb/album/ocean-sounds/1424578057"
 slug: "ocean-sounds-12686247"
 hideSummary: true
 cover:

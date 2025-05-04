@@ -6,6 +6,7 @@ album_name: "Cover Version"
 date: 2016-12-20T18:37:54.000000Z
 release_date: "2005"
 release_id: "5441637"
+apple_music_url: "https://music.apple.com/gb/album/cover-version/883692149"
 slug: "cover-version-5441637"
 hideSummary: true
 cover:

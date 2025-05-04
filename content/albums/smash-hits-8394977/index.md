@@ -6,6 +6,7 @@ album_name: "Smash Hits"
 date: 2016-05-03T16:17:07.000000Z
 release_date: "1969-04-16"
 release_id: "8394977"
+apple_music_url: "https://music.apple.com/gb/album/the-jimi-hendrix-experience-smash-hits/344477479"
 slug: "smash-hits-8394977"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Tango In The Night"
 date: 2016-01-20T19:29:13.000000Z
 release_date: "1987-04-14"
 release_id: "5935981"
+apple_music_url: "https://music.apple.com/gb/album/tango-in-the-night-remastered/1217901688"
 slug: "tango-in-the-night-5935981"
 hideSummary: true
 cover:

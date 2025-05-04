@@ -6,6 +6,7 @@ album_name: "Opium"
 date: 2015-10-20T17:19:18.000000Z
 release_date: "2021-11-26"
 release_id: "6666205"
+apple_music_url: "https://music.apple.com/gb/album/gather-up/1583801242"
 slug: "opium-6666205"
 hideSummary: true
 cover:

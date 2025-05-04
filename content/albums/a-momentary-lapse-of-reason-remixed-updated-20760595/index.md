@@ -6,6 +6,7 @@ album_name: "A Momentary Lapse Of Reason (Remixed & Updated)"
 date: 2021-10-29T05:57:28.000000Z
 release_date: "2019-12-13"
 release_id: "20760595"
+apple_music_url: "https://music.apple.com/gb/album/a-momentary-lapse-of-reason-2019-remix/1582614225"
 slug: "a-momentary-lapse-of-reason-remixed-updated-20760595"
 hideSummary: true
 cover:

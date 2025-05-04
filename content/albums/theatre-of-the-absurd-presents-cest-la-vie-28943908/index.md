@@ -6,6 +6,7 @@ album_name: "Theatre Of The Absurd Presents C’est La Vie"
 date: 2023-11-21T10:25:26.000000Z
 release_date: "2023-11-17"
 release_id: "28943908"
+apple_music_url: "https://music.apple.com/gb/album/theatre-of-the-absurd-presents-cest-la-vie/1705669890"
 slug: "theatre-of-the-absurd-presents-cest-la-vie-28943908"
 hideSummary: true
 cover:

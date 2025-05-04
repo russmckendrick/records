@@ -6,6 +6,7 @@ album_name: "Relics"
 date: 2018-05-17T14:51:12.000000Z
 release_date: "1971-05-14"
 release_id: "12008228"
+apple_music_url: "https://music.apple.com/gb/album/relics/734655586"
 slug: "relics-12008228"
 hideSummary: true
 cover:

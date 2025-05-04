@@ -6,6 +6,7 @@ album_name: "King Rocker (The Original Soundtrack)"
 date: 2022-03-19T06:45:12.000000Z
 release_date: "2022-03-18"
 release_id: "21188260"
+apple_music_url: "https://music.apple.com/gb/album/king-rocker-soundtrack/1667376145"
 slug: "king-rocker-the-original-soundtrack-21188260"
 hideSummary: true
 cover:

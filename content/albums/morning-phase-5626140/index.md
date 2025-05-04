@@ -6,6 +6,7 @@ album_name: "Morning Phase"
 date: 2017-08-11T18:27:02.000000Z
 release_date: "2014-01-01"
 release_id: "5626140"
+apple_music_url: "https://music.apple.com/gb/album/morning-phase/1440857105"
 slug: "morning-phase-5626140"
 hideSummary: true
 cover:

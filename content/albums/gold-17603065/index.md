@@ -6,6 +6,7 @@ album_name: "Gold"
 date: 2022-10-21T09:00:43.000000Z
 release_date: "1996-01-01"
 release_id: "17603065"
+apple_music_url: "https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920"
 slug: "gold-17603065"
 hideSummary: true
 cover:

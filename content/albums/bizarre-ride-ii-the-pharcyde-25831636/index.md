@@ -6,6 +6,7 @@ album_name: "Bizarre Ride II The Pharcyde"
 date: 2023-02-13T11:32:12.000000Z
 release_date: "1992-11-24"
 release_id: "25831636"
+apple_music_url: "https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414"
 slug: "bizarre-ride-ii-the-pharcyde-25831636"
 hideSummary: true
 cover:

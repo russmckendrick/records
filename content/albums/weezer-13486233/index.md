@@ -6,6 +6,7 @@ album_name: "Weezer"
 date: 2019-04-13T11:18:32.000000Z
 release_date: "1994-05-10"
 release_id: "13486233"
+apple_music_url: "https://music.apple.com/gb/album/weezer/1440878798"
 slug: "weezer-13486233"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "604"
 date: 2022-01-11T04:52:14.000000Z
 release_date: "2001"
 release_id: "20527537"
+apple_music_url: "https://music.apple.com/gb/album/604/1619141992"
 slug: "604-20527537"
 hideSummary: true
 cover:

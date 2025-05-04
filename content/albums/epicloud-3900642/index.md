@@ -6,6 +6,7 @@ album_name: "Epicloud"
 date: 2017-01-10T17:43:48.000000Z
 release_date: "2012-09-18"
 release_id: "3900642"
+apple_music_url: "https://music.apple.com/gb/album/epicloud/1045671472"
 slug: "epicloud-3900642"
 hideSummary: true
 cover:

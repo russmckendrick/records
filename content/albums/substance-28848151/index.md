@@ -6,6 +6,7 @@ album_name: "Substance"
 date: 2023-11-10T11:18:26.000000Z
 release_date: "1987-08-17"
 release_id: "28848151"
+apple_music_url: "https://music.apple.com/gb/album/substance/1530256325"
 slug: "substance-28848151"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sounds Of The Universe"
 date: 2017-02-23T11:23:07.000000Z
 release_date: "2009-04-17"
 release_id: "9815681"
+apple_music_url: "https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075"
 slug: "sounds-of-the-universe-9815681"
 hideSummary: true
 cover:

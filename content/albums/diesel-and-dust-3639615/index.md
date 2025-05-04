@@ -6,6 +6,7 @@ album_name: "Diesel And Dust"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1988-03-01"
 release_id: "3639615"
+apple_music_url: "https://music.apple.com/gb/album/diesel-and-dust/533502810"
 slug: "diesel-and-dust-3639615"
 hideSummary: true
 cover:

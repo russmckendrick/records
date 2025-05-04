@@ -6,6 +6,7 @@ album_name: "Eat The Elephant"
 date: 2018-04-20T17:55:36.000000Z
 release_date: "2018-04-20"
 release_id: "11861222"
+apple_music_url: "https://music.apple.com/gb/album/eat-the-elephant/1471554984"
 slug: "eat-the-elephant-11861222"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Expecting To Fly"
 date: 2016-10-04T16:38:04.000000Z
 release_date: "1996-01-01"
 release_id: "8548682"
+apple_music_url: "https://music.apple.com/gb/album/expecting-to-fly/1443718863"
 slug: "expecting-to-fly-8548682"
 hideSummary: true
 cover:

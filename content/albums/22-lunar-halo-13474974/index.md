@@ -6,6 +6,7 @@ album_name: "22° Lunar Halo"
 date: 2019-04-13T11:16:58.000000Z
 release_date: "2019-04-13"
 release_id: "13474974"
+apple_music_url: "https://music.apple.com/gb/album/22-lunar-halo/1458756440"
 slug: "22-lunar-halo-13474974"
 hideSummary: true
 cover:

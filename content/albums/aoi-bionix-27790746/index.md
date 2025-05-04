@@ -6,6 +6,7 @@ album_name: "AOI: Bionix"
 date: 2023-09-16T00:47:02.000000Z
 release_date: "2001-12-04"
 release_id: "27790746"
+apple_music_url: "https://music.apple.com/gb/album/aoi-bionix/1664589445"
 slug: "aoi-bionix-27790746"
 hideSummary: true
 cover:

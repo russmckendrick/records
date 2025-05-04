@@ -6,6 +6,7 @@ album_name: "Sparkle In The Rain"
 date: 2024-11-23T07:59:01.000000Z
 release_date: "1984-02-06"
 release_id: "32376702"
+apple_music_url: "https://music.apple.com/gb/album/sparkle-in-the-rain/1444024281"
 slug: "sparkle-in-the-rain-32376702"
 hideSummary: true
 cover:

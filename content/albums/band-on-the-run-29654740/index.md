@@ -6,6 +6,7 @@ album_name: "Band On The Run"
 date: 2024-02-09T05:46:07.000000Z
 release_date: "2017-11-14"
 release_id: "29654740"
+apple_music_url: "https://music.apple.com/gb/album/band-on-the-run-single/1317621157"
 slug: "band-on-the-run-29654740"
 hideSummary: true
 cover:

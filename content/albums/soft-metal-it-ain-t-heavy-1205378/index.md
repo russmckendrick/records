@@ -6,6 +6,7 @@ album_name: "Soft Metal - It Ain't Heavy . . . "
 date: 2019-03-24T13:15:48.000000Z
 release_date: ""
 release_id: "1205378"
+apple_music_url: ""
 slug: "soft-metal-it-ain-t-heavy-1205378"
 hideSummary: true
 cover:

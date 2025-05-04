@@ -6,6 +6,7 @@ album_name: "Going For The One"
 date: 2016-03-16T18:38:08.000000Z
 release_date: "1977-07-15"
 release_id: "476246"
+apple_music_url: "https://music.apple.com/gb/album/going-for-the-one/1048475557"
 slug: "going-for-the-one-476246"
 hideSummary: true
 cover:

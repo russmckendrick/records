@@ -6,6 +6,7 @@ album_name: "Wisdom Of Crowds"
 date: 2016-12-13T17:51:53.000000Z
 release_date: "2013-06-03"
 release_id: "4883479"
+apple_music_url: "https://music.apple.com/gb/album/wisdom-of-crowds/682955123"
 slug: "wisdom-of-crowds-4883479"
 hideSummary: true
 cover:

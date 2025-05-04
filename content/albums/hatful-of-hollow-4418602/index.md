@@ -6,6 +6,7 @@ album_name: "Hatful Of Hollow"
 date: 2016-10-03T14:27:49.000000Z
 release_date: "2011-05-01"
 release_id: "4418602"
+apple_music_url: "https://music.apple.com/gb/album/the-smiths-project-box-set-hatful-of-hollow/1298339436"
 slug: "hatful-of-hollow-4418602"
 hideSummary: true
 cover:

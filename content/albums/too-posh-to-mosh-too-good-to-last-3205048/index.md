@@ -6,6 +6,7 @@ album_name: "Too Posh To Mosh, Too Good To Last!"
 date: 2016-04-15T18:22:40.000000Z
 release_date: "1957-11-01"
 release_id: "3205048"
+apple_music_url: "https://music.apple.com/gb/album/too-posh-to-mosh/1601288637"
 slug: "too-posh-to-mosh-too-good-to-last-3205048"
 hideSummary: true
 cover:

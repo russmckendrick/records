@@ -6,6 +6,7 @@ album_name: "in•ter a•li•a"
 date: 2017-05-05T17:27:45.000000Z
 release_date: "2017-05-05"
 release_id: "10234051"
+apple_music_url: "https://music.apple.com/gb/album/in-ter-a-li-a/1207471331"
 slug: "inter-alia-10234051"
 hideSummary: true
 cover:

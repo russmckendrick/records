@@ -5,6 +5,7 @@ artist: "the-flaming-lips"
 album_name: "Yoshimi Battles The Pink Robots (20th Anniversary Deluxe Edition)"
 date: 2023-04-16T10:15:54.000000Z
 release_id: "26754977"
+apple_music_url: "https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots-20th-anniversary/1650861915"
 slug: "yoshimi-battles-the-pink-robots-20th-anniversary-deluxe-edition-26754977"
 hideSummary: true
 cover:

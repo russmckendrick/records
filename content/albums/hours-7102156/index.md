@@ -6,6 +6,7 @@ album_name: "Hours..."
 date: 2016-01-22T19:34:03.000000Z
 release_date: "1999-09-21"
 release_id: "7102156"
+apple_music_url: "https://music.apple.com/gb/album/hours/1053991355"
 slug: "hours-7102156"
 hideSummary: true
 cover:

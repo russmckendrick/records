@@ -6,6 +6,7 @@ album_name: "Strawberry Hotel"
 date: 2024-11-11T00:49:15.000000Z
 release_date: "2024-10-25"
 release_id: "32093847"
+apple_music_url: "https://music.apple.com/gb/album/strawberry-hotel/1761865594"
 slug: "strawberry-hotel-32093847"
 hideSummary: true
 cover:

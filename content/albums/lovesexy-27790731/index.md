@@ -6,6 +6,7 @@ album_name: "Lovesexy"
 date: 2023-09-10T02:27:27.000000Z
 release_date: "1988-05-10"
 release_id: "27790731"
+apple_music_url: "https://music.apple.com/gb/album/lovesexy/1608900425"
 slug: "lovesexy-27790731"
 hideSummary: true
 cover:

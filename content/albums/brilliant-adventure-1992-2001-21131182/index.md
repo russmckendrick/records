@@ -6,6 +6,7 @@ album_name: "Brilliant Adventure [1992-2001]"
 date: 2021-11-27T01:10:55.000000Z
 release_date: "2021-11-26"
 release_id: "21131182"
+apple_music_url: "https://music.apple.com/gb/album/brilliant-adventure-1992-2001/1589252338"
 slug: "brilliant-adventure-1992-2001-21131182"
 hideSummary: true
 cover:

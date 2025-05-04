@@ -6,6 +6,7 @@ album_name: "Ocean Without A Shore"
 date: 2024-10-05T08:33:03.000000Z
 release_date: "2024-09-27"
 release_id: "31896559"
+apple_music_url: "https://music.apple.com/gb/album/ocean-without-a-shore/1751753784"
 slug: "ocean-without-a-shore-31896559"
 hideSummary: true
 cover:

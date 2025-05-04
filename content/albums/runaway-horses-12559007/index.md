@@ -6,6 +6,7 @@ album_name: "Runaway Horses"
 date: 2018-09-22T13:11:54.000000Z
 release_date: "1989-10-03"
 release_id: "12559007"
+apple_music_url: "https://music.apple.com/gb/album/runaway-horses/685170199"
 slug: "runaway-horses-12559007"
 hideSummary: true
 cover:

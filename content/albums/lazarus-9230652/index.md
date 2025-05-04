@@ -6,6 +6,7 @@ album_name: "Lazarus"
 date: 2016-11-06T10:55:40.000000Z
 release_date: "2016-10-21"
 release_id: "9230652"
+apple_music_url: "https://music.apple.com/gb/album/lazarus-single/1742980993"
 slug: "lazarus-9230652"
 hideSummary: true
 cover:

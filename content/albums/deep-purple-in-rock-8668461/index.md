@@ -6,6 +6,7 @@ album_name: "Deep Purple In Rock"
 date: 2016-06-21T18:26:00.000000Z
 release_date: "1970-06-01"
 release_id: "8668461"
+apple_music_url: "https://music.apple.com/gb/album/deep-purple-in-rock/1105612887"
 slug: "deep-purple-in-rock-8668461"
 hideSummary: true
 cover:

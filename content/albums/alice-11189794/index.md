@@ -6,6 +6,7 @@ album_name: "Alice"
 date: 2017-11-24T18:41:02.000000Z
 release_date: "1988-09-01"
 release_id: "11189794"
+apple_music_url: "https://music.apple.com/gb/album/big-time-live/1443540897"
 slug: "alice-11189794"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Phantom Birds"
 date: 2020-09-18T11:11:39.000000Z
 release_date: "2020-09-18"
 release_id: "15930943"
+apple_music_url: "https://music.apple.com/gb/album/phantom-birds/1520178813"
 slug: "phantom-birds-15930943"
 hideSummary: true
 cover:

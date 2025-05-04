@@ -6,6 +6,7 @@ album_name: "Batman™ (Motion Picture Soundtrack)"
 date: 2023-09-10T02:23:34.000000Z
 release_date: "2022-02-24"
 release_id: "28195510"
+apple_music_url: "https://music.apple.com/gb/album/the-batman-original-motion-picture-soundtrack/1612891580"
 slug: "batman-motion-picture-soundtrack-28195510"
 hideSummary: true
 cover:

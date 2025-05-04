@@ -6,6 +6,7 @@ album_name: "The Sparks Brothers (Original Motion Picture Soundtrack)"
 date: 2022-04-05T04:26:56.000000Z
 release_date: "2021-06-18"
 release_id: "22546391"
+apple_music_url: "https://music.apple.com/gb/album/the-sparks-brothers-music-from-the-motion-picture-ep/1571796534"
 slug: "the-sparks-brothers-original-motion-picture-soundtrack-22546391"
 hideSummary: true
 cover:

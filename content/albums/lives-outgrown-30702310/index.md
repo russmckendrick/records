@@ -6,6 +6,7 @@ album_name: "Lives Outgrown"
 date: 2024-05-18T05:26:57.000000Z
 release_date: "2024-05-17"
 release_id: "30702310"
+apple_music_url: "https://music.apple.com/gb/album/lives-outgrown/1728144209"
 slug: "lives-outgrown-30702310"
 hideSummary: true
 cover:

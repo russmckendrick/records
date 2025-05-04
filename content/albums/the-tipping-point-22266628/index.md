@@ -6,6 +6,7 @@ album_name: "The Tipping Point"
 date: 2022-02-24T04:23:44.000000Z
 release_date: "2022-02-25"
 release_id: "22266628"
+apple_music_url: "https://music.apple.com/gb/album/the-tipping-point/1586912660"
 slug: "the-tipping-point-22266628"
 hideSummary: true
 cover:

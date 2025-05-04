@@ -6,6 +6,7 @@ album_name: "[Five Years 1969 - 1973]"
 date: 2016-01-20T19:04:07.000000Z
 release_date: "2015-09-25"
 release_id: "7521520"
+apple_music_url: "https://music.apple.com/gb/album/five-years-1969-1973/1016484169"
 slug: "five-years-1969-1973-7521520"
 hideSummary: true
 cover:

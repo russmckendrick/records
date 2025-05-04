@@ -6,6 +6,7 @@ album_name: "I Don't Know"
 date: 2023-07-07T11:23:07.000000Z
 release_date: "2023-06-30"
 release_id: "27538611"
+apple_music_url: "https://music.apple.com/gb/album/i-dont-know/1666711040"
 slug: "i-don-t-know-27538611"
 hideSummary: true
 cover:

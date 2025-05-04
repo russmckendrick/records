@@ -6,6 +6,7 @@ album_name: "Layla And Other Assorted Love Songs"
 date: 2021-04-05T06:12:09.000000Z
 release_date: "1970-11-09"
 release_id: "16252835"
+apple_music_url: "https://music.apple.com/gb/album/layla-and-other-assorted-love-songs-40th-anniversary/1440663263"
 slug: "layla-and-other-assorted-love-songs-16252835"
 hideSummary: true
 cover:

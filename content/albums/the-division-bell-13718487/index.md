@@ -6,6 +6,7 @@ album_name: "The Division Bell"
 date: 2019-06-07T16:48:45.000000Z
 release_date: "1994-03-28"
 release_id: "13718487"
+apple_music_url: "https://music.apple.com/gb/album/the-division-bell/704316542"
 slug: "the-division-bell-13718487"
 hideSummary: true
 cover:

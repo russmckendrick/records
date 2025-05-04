@@ -6,6 +6,7 @@ album_name: "Stop Making Sense (Music From A Film By Jonathan Demme And Talking 
 date: 2023-08-18T10:06:43.000000Z
 release_date: ""
 release_id: "27799152"
+apple_music_url: ""
 slug: "stop-making-sense-music-from-a-film-by-jonathan-demme-and-talking-heads-27799152"
 hideSummary: true
 cover:

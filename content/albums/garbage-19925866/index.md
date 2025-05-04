@@ -6,6 +6,7 @@ album_name: "Garbage"
 date: 2021-08-20T09:05:27.000000Z
 release_date: "2018-07-27"
 release_id: "19925866"
+apple_music_url: "https://music.apple.com/gb/album/garbage-ep/1417170498"
 slug: "garbage-19925866"
 hideSummary: true
 cover:

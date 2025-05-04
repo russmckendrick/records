@@ -6,6 +6,7 @@ album_name: "Give It Back"
 date: 2022-05-16T06:35:45.000000Z
 release_date: "2022-05-13"
 release_id: "23246435"
+apple_music_url: "https://music.apple.com/gb/album/give-it-back-rewired/1610584399"
 slug: "give-it-back-23246435"
 hideSummary: true
 cover:

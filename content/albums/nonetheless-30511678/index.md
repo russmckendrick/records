@@ -6,6 +6,7 @@ album_name: "Nonetheless"
 date: 2024-04-27T05:26:43.000000Z
 release_date: "2024-04-26"
 release_id: "30511678"
+apple_music_url: "https://music.apple.com/gb/album/nonetheless/1726963941"
 slug: "nonetheless-30511678"
 hideSummary: true
 cover:

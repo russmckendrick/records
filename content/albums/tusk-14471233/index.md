@@ -6,6 +6,7 @@ album_name: "Tusk"
 date: 2019-12-02T09:34:15.000000Z
 release_date: "1988-11-21"
 release_id: "14471233"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/202271826"
 slug: "tusk-14471233"
 hideSummary: true
 cover:

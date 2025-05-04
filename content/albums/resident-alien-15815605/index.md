@@ -6,6 +6,7 @@ album_name: "Resident Alien"
 date: 2020-09-07T09:05:14.000000Z
 release_date: "1995-10-24"
 release_id: "15815605"
+apple_music_url: "https://music.apple.com/gb/album/resident-alien/40454930"
 slug: "resident-alien-15815605"
 hideSummary: true
 cover:

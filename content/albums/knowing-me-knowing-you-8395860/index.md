@@ -6,6 +6,7 @@ album_name: "Knowing Me Knowing You"
 date: 2017-04-25T08:35:16.000000Z
 release_date: ""
 release_id: "8395860"
+apple_music_url: ""
 slug: "knowing-me-knowing-you-8395860"
 hideSummary: true
 cover:

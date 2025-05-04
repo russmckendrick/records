@@ -6,6 +6,7 @@ album_name: "Thirteen"
 date: 2018-08-29T18:39:26.000000Z
 release_date: "1993-10-04"
 release_id: "12373131"
+apple_music_url: "https://music.apple.com/gb/album/thirteen/1417070105"
 slug: "thirteen-12373131"
 hideSummary: true
 cover:

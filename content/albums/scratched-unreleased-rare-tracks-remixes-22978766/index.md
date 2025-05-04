@@ -6,6 +6,7 @@ album_name: "Scratched (Unreleased Rare Tracks & Remixes)"
 date: 2022-04-24T04:22:06.000000Z
 release_date: "1993"
 release_id: "22978766"
+apple_music_url: "https://music.apple.com/gb/album/scratched-unreleased-rare-tracks-remixes/1344026834"
 slug: "scratched-unreleased-rare-tracks-remixes-22978766"
 hideSummary: true
 cover:

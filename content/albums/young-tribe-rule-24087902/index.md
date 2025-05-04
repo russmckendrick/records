@@ -6,6 +6,7 @@ album_name: "Young Tribe Rule"
 date: 2022-08-06T02:00:44.000000Z
 release_date: "2022-08-05"
 release_id: "24087902"
+apple_music_url: "https://music.apple.com/gb/album/young-tribe-rule/1635555869"
 slug: "young-tribe-rule-24087902"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Open Mind (The Best Of Blackfield)"
 date: 2021-02-07T02:15:54.000000Z
 release_date: "2004"
 release_id: "12599468"
+apple_music_url: "https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959"
 slug: "open-mind-the-best-of-blackfield-12599468"
 hideSummary: true
 cover:

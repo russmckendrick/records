@@ -6,6 +6,7 @@ album_name: "Heartbreaker"
 date: 2016-04-27T16:45:46.000000Z
 release_date: "2000-09-05"
 release_id: "7040056"
+apple_music_url: "https://music.apple.com/gb/album/heartbreaker/593627968"
 slug: "heartbreaker-7040056"
 hideSummary: true
 cover:

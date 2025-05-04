@@ -6,6 +6,7 @@ album_name: "Terraformer"
 date: 2019-08-16T17:12:45.000000Z
 release_date: "2019-06-14"
 release_id: "13732222"
+apple_music_url: "https://music.apple.com/gb/album/terraformer/1618539649"
 slug: "terraformer-13732222"
 hideSummary: true
 cover:

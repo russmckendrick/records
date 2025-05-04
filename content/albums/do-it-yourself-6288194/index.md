@@ -6,6 +6,7 @@ album_name: "Do It Yourself"
 date: 2016-09-21T18:14:46.000000Z
 release_date: "1979-05-18"
 release_id: "6288194"
+apple_music_url: "https://music.apple.com/gb/album/do-it-yourself/1488477346"
 slug: "do-it-yourself-6288194"
 hideSummary: true
 cover:

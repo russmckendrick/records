@@ -6,6 +6,7 @@ album_name: "The Fidelity Wars"
 date: 2019-11-22T18:27:44.000000Z
 release_date: "1999-09-21"
 release_id: "14430353"
+apple_music_url: "https://music.apple.com/gb/album/the-fidelity-wars/1057821453"
 slug: "the-fidelity-wars-14430353"
 hideSummary: true
 cover:

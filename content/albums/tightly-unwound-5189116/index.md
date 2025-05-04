@@ -6,6 +6,7 @@ album_name: "Tightly Unwound"
 date: 2016-02-21T12:07:56.000000Z
 release_date: "2008"
 release_id: "5189116"
+apple_music_url: "https://music.apple.com/gb/album/tightly-unwound/731043162"
 slug: "tightly-unwound-5189116"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Love & Hate"
 date: 2017-01-06T19:25:04.000000Z
 release_date: "2016-07-15"
 release_id: "8778580"
+apple_music_url: "https://music.apple.com/gb/album/love-hate/1440832200"
 slug: "love-hate-8778580"
 hideSummary: true
 cover:

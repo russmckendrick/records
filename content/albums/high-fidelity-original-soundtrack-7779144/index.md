@@ -6,6 +6,7 @@ album_name: "High Fidelity (Original Soundtrack)"
 date: 2016-02-29T19:02:03.000000Z
 release_date: ""
 release_id: "7779144"
+apple_music_url: ""
 slug: "high-fidelity-original-soundtrack-7779144"
 hideSummary: true
 cover:

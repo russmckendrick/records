@@ -6,6 +6,7 @@ album_name: "Pretzel Logic"
 date: 2023-07-28T05:35:29.000000Z
 release_date: "1974-02-20"
 release_id: "27742293"
+apple_music_url: "https://music.apple.com/gb/album/pretzel-logic/1696215205"
 slug: "pretzel-logic-27742293"
 hideSummary: true
 cover:

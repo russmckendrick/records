@@ -6,6 +6,7 @@ album_name: "Zoolook"
 date: 2025-02-22T06:11:31.000000Z
 release_date: "2018-09-14"
 release_id: "33209973"
+apple_music_url: "https://music.apple.com/us/album/zoolook-40th-anniversary-new-mastering/1775930283"
 slug: "zoolook-33209973"
 hideSummary: true
 cover:

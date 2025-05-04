@@ -6,6 +6,7 @@ album_name: "Riding On The Tide Of Love"
 date: 2022-02-15T06:06:04.000000Z
 release_date: "2021-02-05"
 release_id: "17275717"
+apple_music_url: "https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945"
 slug: "riding-on-the-tide-of-love-17275717"
 hideSummary: true
 cover:

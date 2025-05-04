@@ -6,6 +6,7 @@ album_name: "Damned Damned Damned"
 date: 2022-10-14T05:15:31.000000Z
 release_date: "1977-04-16"
 release_id: "24589202"
+apple_music_url: "https://music.apple.com/gb/album/damned-damned-damned/1439808377"
 slug: "damned-damned-damned-24589202"
 hideSummary: true
 cover:

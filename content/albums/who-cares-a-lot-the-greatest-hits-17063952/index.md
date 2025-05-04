@@ -6,6 +6,7 @@ album_name: "Who Cares A Lot? The Greatest Hits"
 date: 2021-03-29T05:07:09.000000Z
 release_date: "2000-09-04"
 release_id: "17063952"
+apple_music_url: "https://music.apple.com/gb/album/the-faith-no-more-collection/734506512"
 slug: "who-cares-a-lot-the-greatest-hits-17063952"
 hideSummary: true
 cover:

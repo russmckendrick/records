@@ -6,6 +6,7 @@ album_name: "You Can't Argue With A Sick Mind"
 date: 2020-08-02T13:33:44.000000Z
 release_date: "1976-02-03"
 release_id: "4953542"
+apple_music_url: "https://music.apple.com/gb/album/you-cant-argue-with-a-sick-mind/1422950082"
 slug: "you-can-t-argue-with-a-sick-mind-4953542"
 hideSummary: true
 cover:

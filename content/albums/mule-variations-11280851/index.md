@@ -6,6 +6,7 @@ album_name: "Mule Variations"
 date: 2017-12-15T15:21:35.000000Z
 release_date: "2009-10-05"
 release_id: "11280851"
+apple_music_url: "https://music.apple.com/gb/album/tom-waits-mini-biography/335710864"
 slug: "mule-variations-11280851"
 hideSummary: true
 cover:

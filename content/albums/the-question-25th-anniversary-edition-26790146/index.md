@@ -5,6 +5,7 @@ artist: "the-slackers"
 album_name: "The Question 25th Anniversary Edition"
 date: 2023-10-01T03:55:40.000000Z
 release_id: "26790146"
+apple_music_url: ""
 slug: "the-question-25th-anniversary-edition-26790146"
 hideSummary: true
 cover:

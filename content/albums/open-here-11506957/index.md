@@ -6,6 +6,7 @@ album_name: "Open Here"
 date: 2018-02-03T10:31:46.000000Z
 release_date: "2018-02-02"
 release_id: "11506957"
+apple_music_url: "https://music.apple.com/gb/album/open-here/1302724440"
 slug: "open-here-11506957"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Requiem For A Dream"
 date: 2016-07-25T16:20:45.000000Z
 release_date: "2018-05-26"
 release_id: "8384112"
+apple_music_url: "https://music.apple.com/gb/album/requiem-for-a-dream-single/1383377592"
 slug: "requiem-for-a-dream-8384112"
 hideSummary: true
 cover:

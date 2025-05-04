@@ -6,6 +6,7 @@ album_name: "Muddy Water Blues - A Tribute to Muddy Waters"
 date: 2020-09-26T05:27:29.000000Z
 release_date: "1957-04-02"
 release_id: "15965368"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-muddy-waters/1445668056"
 slug: "muddy-water-blues-a-tribute-to-muddy-waters-15965368"
 hideSummary: true
 cover:

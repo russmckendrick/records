@@ -6,6 +6,7 @@ album_name: "Best Of 1969-1974"
 date: 2024-07-30T04:36:53.000000Z
 release_date: "2024-07-26"
 release_id: "31351945"
+apple_music_url: "https://music.apple.com/gb/album/best-of-1969-1974/1758792628"
 slug: "best-of-1969-1974-31351945"
 hideSummary: true
 cover:

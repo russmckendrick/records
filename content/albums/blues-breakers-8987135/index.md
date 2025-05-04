@@ -6,6 +6,7 @@ album_name: "Blues Breakers"
 date: 2021-05-21T07:27:09.000000Z
 release_date: "1990-01-01"
 release_id: "8987135"
+apple_music_url: "https://music.apple.com/gb/album/silver-tones-the-best-of-john-mayall-the-bluesbreakers/254559678"
 slug: "blues-breakers-8987135"
 hideSummary: true
 cover:

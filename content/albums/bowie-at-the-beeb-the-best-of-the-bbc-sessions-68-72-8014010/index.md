@@ -6,6 +6,7 @@ album_name: "Bowie At The Beeb (The Best Of The BBC Sessions 68-72)"
 date: 2016-10-18T17:17:29.000000Z
 release_date: "2000-09-26"
 release_id: "8014010"
+apple_music_url: "https://music.apple.com/gb/album/bowie-at-the-beeb-the-best-of-the-bbc-radio-sessions-68-72/1164160964"
 slug: "bowie-at-the-beeb-the-best-of-the-bbc-sessions-68-72-8014010"
 hideSummary: true
 cover:

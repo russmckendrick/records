@@ -6,6 +6,7 @@ album_name: "Electro (A Personal Selection Of Electro Classics)"
 date: 2017-02-22T18:01:26.000000Z
 release_date: ""
 release_id: "9836222"
+apple_music_url: ""
 slug: "electro-a-personal-selection-of-electro-classics-9836222"
 hideSummary: true
 cover:

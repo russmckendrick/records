@@ -6,6 +6,7 @@ album_name: "*** Leader Of The Starry Skies *** (A Tribute To Tim Smith) Songboo
 date: 2016-05-31T17:51:27.000000Z
 release_date: ""
 release_id: "3005353"
+apple_music_url: ""
 slug: "leader-of-the-starry-skies-a-tribute-to-tim-smith-songbook-1-3005353"
 hideSummary: true
 cover:

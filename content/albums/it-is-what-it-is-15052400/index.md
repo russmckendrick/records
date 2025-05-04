@@ -6,6 +6,7 @@ album_name: "It Is What It Is"
 date: 2020-04-09T17:07:29.000000Z
 release_date: "2020-04-03"
 release_id: "15052400"
+apple_music_url: "https://music.apple.com/gb/album/it-is-what-it-is/1494467036"
 slug: "it-is-what-it-is-15052400"
 hideSummary: true
 cover:

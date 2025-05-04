@@ -6,6 +6,7 @@ album_name: "Bronze"
 date: 2016-11-11T17:35:10.000000Z
 release_date: "2016-11-04"
 release_id: "9310134"
+apple_music_url: "https://music.apple.com/gb/album/bronze/1155996061"
 slug: "bronze-9310134"
 hideSummary: true
 cover:

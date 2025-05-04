@@ -6,6 +6,7 @@ album_name: "Black Velvet"
 date: 2018-11-09T19:15:48.000000Z
 release_date: "2019-11-22"
 release_id: "12768110"
+apple_music_url: "https://music.apple.com/gb/album/black-velvet-the-instrumentals/1485646436"
 slug: "black-velvet-12768110"
 hideSummary: true
 cover:

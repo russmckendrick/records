@@ -6,6 +6,7 @@ album_name: "25th Anniversary Vinyl Collection "
 date: 2016-04-28T16:40:39.000000Z
 release_date: "1994-11-01"
 release_id: "4593269"
+apple_music_url: "https://music.apple.com/gb/album/mtv-unplugged-in-new-york-live-acoustic-25th-anniversary/1545866762"
 slug: "25th-anniversary-vinyl-collection-4593269"
 hideSummary: true
 cover:

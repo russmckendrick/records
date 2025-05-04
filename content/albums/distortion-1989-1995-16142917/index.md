@@ -6,6 +6,7 @@ album_name: "Distortion: 1989 - 1995"
 date: 2020-11-05T18:48:49.000000Z
 release_date: "2021-04-16"
 release_id: "16142917"
+apple_music_url: "https://music.apple.com/gb/album/bob-mould-presents-distortion-the-best-of-1989-2019/1563236784"
 slug: "distortion-1989-1995-16142917"
 hideSummary: true
 cover:

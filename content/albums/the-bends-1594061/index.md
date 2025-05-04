@@ -6,6 +6,7 @@ album_name: "The Bends"
 date: 2016-01-31T14:12:42.000000Z
 release_date: "1995-03-08"
 release_id: "1594061"
+apple_music_url: "https://music.apple.com/gb/album/the-bends/1097862703"
 slug: "the-bends-1594061"
 hideSummary: true
 cover:

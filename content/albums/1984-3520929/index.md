@@ -6,6 +6,7 @@ album_name: "1984"
 date: 2016-12-27T12:07:56.000000Z
 release_date: "1978-02-10"
 release_id: "3520929"
+apple_music_url: "https://music.apple.com/gb/album/van-halen/976820530"
 slug: "1984-3520929"
 hideSummary: true
 cover:

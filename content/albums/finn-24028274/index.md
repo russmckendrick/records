@@ -6,6 +6,7 @@ album_name: "Finn"
 date: 2022-07-29T05:10:46.000000Z
 release_date: "2024-08-09"
 release_id: "24028274"
+apple_music_url: "https://music.apple.com/us/album/finn/1598871283"
 slug: "finn-24028274"
 hideSummary: true
 cover:

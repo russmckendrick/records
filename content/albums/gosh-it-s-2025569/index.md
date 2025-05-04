@@ -6,6 +6,7 @@ album_name: "Gosh It's..."
 date: 2019-01-19T10:35:59.000000Z
 release_date: "1980"
 release_id: "2025569"
+apple_music_url: "https://music.apple.com/gb/album/gosh-its/461069899"
 slug: "gosh-it-s-2025569"
 hideSummary: true
 cover:

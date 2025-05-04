@@ -6,6 +6,7 @@ album_name: "Us"
 date: 2016-12-08T18:44:07.000000Z
 release_date: "1980-05-22"
 release_id: "9471068"
+apple_music_url: "https://music.apple.com/gb/album/peter-gabriel-3-melt-remastered/986713177"
 slug: "us-9471068"
 hideSummary: true
 cover:

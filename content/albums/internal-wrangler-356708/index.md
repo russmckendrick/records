@@ -6,6 +6,7 @@ album_name: "Internal Wrangler"
 date: 2017-06-16T18:29:27.000000Z
 release_date: "2000-05-01"
 release_id: "356708"
+apple_music_url: "https://music.apple.com/gb/album/internal-wrangler/306614126"
 slug: "internal-wrangler-356708"
 hideSummary: true
 cover:

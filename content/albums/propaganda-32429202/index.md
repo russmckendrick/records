@@ -6,6 +6,7 @@ album_name: "Propaganda"
 date: 2025-01-26T04:34:45.000000Z
 release_date: ""
 release_id: "32429202"
+apple_music_url: ""
 slug: "propaganda-32429202"
 hideSummary: true
 cover:

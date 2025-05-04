@@ -6,6 +6,7 @@ album_name: "Katy Lied"
 date: 2025-03-03T06:34:33.000000Z
 release_date: "1975-03-01"
 release_id: "33132297"
+apple_music_url: "https://music.apple.com/gb/album/katy-lied/1440504355"
 slug: "katy-lied-33132297"
 hideSummary: true
 cover:

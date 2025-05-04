@@ -6,6 +6,7 @@ album_name: "Pacific Ocean Blue"
 date: 2016-11-21T12:10:28.000000Z
 release_date: "2021-06-15"
 release_id: "2513540"
+apple_music_url: "https://music.apple.com/gb/album/dennis-wilson-single/1573020493"
 slug: "pacific-ocean-blue-2513540"
 hideSummary: true
 cover:

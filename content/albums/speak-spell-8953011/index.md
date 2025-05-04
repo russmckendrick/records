@@ -6,6 +6,7 @@ album_name: "Speak & Spell"
 date: 2017-02-15T18:28:58.000000Z
 release_date: "1981-10-05"
 release_id: "8953011"
+apple_music_url: "https://music.apple.com/gb/album/speak-spell/665396776"
 slug: "speak-spell-8953011"
 hideSummary: true
 cover:

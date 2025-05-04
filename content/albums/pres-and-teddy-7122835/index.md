@@ -6,6 +6,7 @@ album_name: "Pres And Teddy"
 date: 2017-02-19T10:40:58.000000Z
 release_date: "1959-04-01"
 release_id: "7122835"
+apple_music_url: "https://music.apple.com/gb/album/pres-and-teddy/1425259073"
 slug: "pres-and-teddy-7122835"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fauna"
 date: 2023-03-20T05:43:38.000000Z
 release_date: "2023-03-03"
 release_id: "26288243"
+apple_music_url: "https://music.apple.com/gb/album/fauna/1650860109"
 slug: "fauna-26288243"
 hideSummary: true
 cover:

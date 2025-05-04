@@ -6,6 +6,7 @@ album_name: "Out Loud!"
 date: 2018-07-28T20:49:17.000000Z
 release_date: "2018-04-21"
 release_id: "11895362"
+apple_music_url: "https://music.apple.com/gb/album/out-loud-live/1371582575"
 slug: "out-loud-11895362"
 hideSummary: true
 cover:

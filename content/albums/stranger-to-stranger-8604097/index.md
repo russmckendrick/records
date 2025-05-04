@@ -6,6 +6,7 @@ album_name: "Stranger To Stranger"
 date: 2016-06-03T18:24:32.000000Z
 release_date: "2016-06-03"
 release_id: "8604097"
+apple_music_url: "https://music.apple.com/gb/album/stranger-to-stranger/1715332946"
 slug: "stranger-to-stranger-8604097"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Different Light"
 date: 2022-09-16T09:28:23.000000Z
 release_date: "1986-01-02"
 release_id: "24530885"
+apple_music_url: "https://music.apple.com/gb/album/different-light/285529680"
 slug: "different-light-24530885"
 hideSummary: true
 cover:

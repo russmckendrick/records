@@ -6,6 +6,7 @@ album_name: "The Singles"
 date: 2019-08-03T09:35:37.000000Z
 release_date: "2002-04-08"
 release_id: "13954056"
+apple_music_url: "https://music.apple.com/gb/album/the-singles/1596119963"
 slug: "the-singles-13954056"
 hideSummary: true
 cover:

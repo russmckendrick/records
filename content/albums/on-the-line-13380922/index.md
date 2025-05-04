@@ -6,6 +6,7 @@ album_name: "On The Line"
 date: 2019-03-23T13:39:23.000000Z
 release_date: "2019-03-22"
 release_id: "13380922"
+apple_music_url: "https://music.apple.com/gb/album/on-the-line/1449905465"
 slug: "on-the-line-13380922"
 hideSummary: true
 cover:

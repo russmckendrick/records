@@ -6,6 +6,7 @@ album_name: "Tomorrow Is My Turn"
 date: 2015-08-09T08:41:42.000000Z
 release_date: "2015-02-06"
 release_id: "6703052"
+apple_music_url: "https://music.apple.com/gb/album/tomorrow-is-my-turn/940289735"
 slug: "tomorrow-is-my-turn-6703052"
 hideSummary: true
 cover:

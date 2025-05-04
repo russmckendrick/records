@@ -6,6 +6,7 @@ album_name: "In Time: The Best Of R.E.M. 1988-2003"
 date: 2019-06-15T14:33:49.000000Z
 release_date: "2003-01-01"
 release_id: "13640264"
+apple_music_url: "https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791"
 slug: "in-time-the-best-of-r-e-m-1988-2003-13640264"
 hideSummary: true
 cover:

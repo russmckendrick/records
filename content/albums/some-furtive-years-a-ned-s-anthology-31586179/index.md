@@ -6,6 +6,7 @@ album_name: "Some Furtive Years: A Ned's Anthology"
 date: 2024-08-30T04:16:04.000000Z
 release_date: "2007-05-01"
 release_id: "31586179"
+apple_music_url: "https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462"
 slug: "some-furtive-years-a-ned-s-anthology-31586179"
 hideSummary: true
 cover:

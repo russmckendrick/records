@@ -6,6 +6,7 @@ album_name: "Nothing But The Best"
 date: 2021-06-23T06:30:29.000000Z
 release_date: "2008-05-13"
 release_id: "18726205"
+apple_music_url: "https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119"
 slug: "nothing-but-the-best-18726205"
 hideSummary: true
 cover:

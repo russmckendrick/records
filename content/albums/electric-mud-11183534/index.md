@@ -6,6 +6,7 @@ album_name: "Electric Mud"
 date: 2017-12-08T13:15:20.000000Z
 release_date: "1968-10-05"
 release_id: "11183534"
+apple_music_url: "https://music.apple.com/gb/album/electric-mud/1440803762"
 slug: "electric-mud-11183534"
 hideSummary: true
 cover:

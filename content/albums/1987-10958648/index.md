@@ -6,6 +6,7 @@ album_name: "1987"
 date: 2017-10-08T09:55:50.000000Z
 release_date: "1987-04-07"
 release_id: "10958648"
+apple_music_url: "https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105"
 slug: "1987-10958648"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Stampede"
 date: 2024-08-03T11:03:52.000000Z
 release_date: "2024-08-02"
 release_id: "31383548"
+apple_music_url: "https://music.apple.com/gb/album/stampede/1749379116"
 slug: "stampede-31383548"
 hideSummary: true
 cover:

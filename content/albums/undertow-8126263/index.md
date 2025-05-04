@@ -6,6 +6,7 @@ album_name: "Undertow"
 date: 2017-06-04T10:36:25.000000Z
 release_date: "1993-04-06"
 release_id: "8126263"
+apple_music_url: "https://music.apple.com/gb/album/undertow/1474185287"
 slug: "undertow-8126263"
 hideSummary: true
 cover:

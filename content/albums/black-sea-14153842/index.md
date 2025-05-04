@@ -6,6 +6,7 @@ album_name: "Black Sea"
 date: 2019-10-05T15:32:02.000000Z
 release_date: "1980-09-12"
 release_id: "14153842"
+apple_music_url: "https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591"
 slug: "black-sea-14153842"
 hideSummary: true
 cover:

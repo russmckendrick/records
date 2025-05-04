@@ -6,6 +6,7 @@ album_name: "Drift Code"
 date: 2019-02-03T08:50:31.000000Z
 release_date: "2019-02-01"
 release_id: "13151178"
+apple_music_url: "https://music.apple.com/gb/album/drift-code/1441129695"
 slug: "drift-code-13151178"
 hideSummary: true
 cover:

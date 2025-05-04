@@ -6,6 +6,7 @@ album_name: "Letter To You"
 date: 2020-10-23T09:30:37.000000Z
 release_date: "2020-10-23"
 release_id: "16097159"
+apple_music_url: "https://music.apple.com/gb/album/letter-to-you/1529959055"
 slug: "letter-to-you-16097159"
 hideSummary: true
 cover:

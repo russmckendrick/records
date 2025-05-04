@@ -6,6 +6,7 @@ album_name: "Space Ritual"
 date: 2023-09-29T06:41:39.000000Z
 release_date: "2015-03-20"
 release_id: "28412089"
+apple_music_url: "https://music.apple.com/gb/album/the-space-ritual-alive/966245556"
 slug: "space-ritual-28412089"
 hideSummary: true
 cover:

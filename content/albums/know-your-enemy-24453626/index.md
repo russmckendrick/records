@@ -6,6 +6,7 @@ album_name: "Know Your Enemy"
 date: 2022-09-10T09:46:24.000000Z
 release_date: "2001-03-14"
 release_id: "24453626"
+apple_music_url: "https://music.apple.com/gb/album/know-your-enemy/319494170"
 slug: "know-your-enemy-24453626"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Techno Pop"
 date: 2017-04-23T12:08:20.000000Z
 release_date: "1986-11-01"
 release_id: "2059617"
+apple_music_url: "https://music.apple.com/gb/album/techno-pop-remastered/699768286"
 slug: "techno-pop-2059617"
 hideSummary: true
 cover:

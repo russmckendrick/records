@@ -6,6 +6,7 @@ album_name: "Snap!"
 date: 2019-10-25T19:04:17.000000Z
 release_date: "1983-10-14"
 release_id: "14312912"
+apple_music_url: "https://music.apple.com/gb/album/snap/1452863068"
 slug: "snap-14312912"
 hideSummary: true
 cover:

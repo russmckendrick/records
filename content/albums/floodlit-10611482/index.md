@@ -6,6 +6,7 @@ album_name: "Floodlit"
 date: 2019-01-11T11:12:27.000000Z
 release_date: "2017-01-27"
 release_id: "10611482"
+apple_music_url: "https://music.apple.com/gb/album/floodlit-ep/1540744493"
 slug: "floodlit-10611482"
 hideSummary: true
 cover:

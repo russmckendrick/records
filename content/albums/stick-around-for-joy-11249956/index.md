@@ -6,6 +6,7 @@ album_name: "Stick Around For Joy"
 date: 2021-08-05T03:15:20.000000Z
 release_date: "1991-02-18"
 release_id: "11249956"
+apple_music_url: "https://music.apple.com/gb/album/stick-around-for-joy/1726659678"
 slug: "stick-around-for-joy-11249956"
 hideSummary: true
 cover:

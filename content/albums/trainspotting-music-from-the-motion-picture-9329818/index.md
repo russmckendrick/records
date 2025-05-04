@@ -6,6 +6,7 @@ album_name: "Trainspotting (Music From The Motion Picture)"
 date: 2016-11-11T17:35:29.000000Z
 release_date: ""
 release_id: "9329818"
+apple_music_url: ""
 slug: "trainspotting-music-from-the-motion-picture-9329818"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Wild River"
 date: 2023-12-17T05:03:28.000000Z
 release_date: "2023-11-03"
 release_id: "29170669"
+apple_music_url: "https://music.apple.com/gb/album/wild-river/1696982337"
 slug: "wild-river-29170669"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
 release_date: "2024-03-29"
 release_id: "3142113"
+apple_music_url: "https://music.apple.com/us/album/skin/692260041"
 slug: "skin-3142113"
 hideSummary: true
 cover:

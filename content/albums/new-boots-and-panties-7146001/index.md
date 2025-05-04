@@ -6,6 +6,7 @@ album_name: "New Boots And Panties!!"
 date: 2016-09-21T18:15:01.000000Z
 release_date: "1977-09-30"
 release_id: "7146001"
+apple_music_url: "https://music.apple.com/gb/album/new-boots-and-panties/1488495874"
 slug: "new-boots-and-panties-7146001"
 hideSummary: true
 cover:

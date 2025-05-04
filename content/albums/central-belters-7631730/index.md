@@ -6,6 +6,7 @@ album_name: "Central Belters"
 date: 2015-10-29T17:26:12.000000Z
 release_date: "2015-10-23"
 release_id: "7631730"
+apple_music_url: "https://music.apple.com/gb/album/central-belters/1039971176"
 slug: "central-belters-7631730"
 hideSummary: true
 cover:

@@ -5,6 +5,7 @@ artist: "marillion"
 album_name: "Seasons End"
 date: 2023-05-19T11:05:57.000000Z
 release_id: "26861306"
+apple_music_url: "https://music.apple.com/gb/album/seasons-end/691367783"
 slug: "seasons-end-26861306"
 hideSummary: true
 cover:

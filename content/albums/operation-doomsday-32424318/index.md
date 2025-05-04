@@ -6,6 +6,7 @@ album_name: "Operation: Doomsday"
 date: 2024-11-30T06:51:59.000000Z
 release_date: "1999-10-19"
 release_id: "32424318"
+apple_music_url: "https://music.apple.com/gb/album/operation-doomsday-complete/1654811465"
 slug: "operation-doomsday-32424318"
 hideSummary: true
 cover:

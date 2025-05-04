@@ -6,6 +6,7 @@ album_name: "Pure Cult (The Singles 1984 - 1995)"
 date: 2017-02-02T17:47:04.000000Z
 release_date: ""
 release_id: "2646498"
+apple_music_url: ""
 slug: "pure-cult-the-singles-1984-1995-2646498"
 hideSummary: true
 cover:

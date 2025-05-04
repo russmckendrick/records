@@ -6,6 +6,7 @@ album_name: "Ooh Las Vegas"
 date: 2019-04-26T12:44:54.000000Z
 release_date: "1990-09-11"
 release_id: "1395542"
+apple_music_url: "https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724"
 slug: "ooh-las-vegas-1395542"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie So
 date: 2016-08-09T05:32:12.000000Z
 release_date: ""
 release_id: "736967"
+apple_music_url: ""
 slug: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967"
 hideSummary: true
 cover:

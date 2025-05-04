@@ -6,6 +6,7 @@ album_name: "Bill"
 date: 2023-04-03T04:22:38.000000Z
 release_date: "1992-01-01"
 release_id: "26508692"
+apple_music_url: "https://music.apple.com/gb/album/bill/1443484197"
 slug: "bill-26508692"
 hideSummary: true
 cover:

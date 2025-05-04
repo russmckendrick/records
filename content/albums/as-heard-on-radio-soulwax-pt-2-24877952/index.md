@@ -6,6 +6,7 @@ album_name: "As Heard On Radio Soulwax Pt.2"
 date: 2022-12-05T10:50:15.000000Z
 release_date: "2002-06-18"
 release_id: "24877952"
+apple_music_url: "https://music.apple.com/gb/album/radio-soulwax-presents-as-heard-on-radio-soulwax-pt-2-dj-mix/1666746776"
 slug: "as-heard-on-radio-soulwax-pt-2-24877952"
 hideSummary: true
 cover:

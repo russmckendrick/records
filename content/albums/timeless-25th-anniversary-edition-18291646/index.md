@@ -6,6 +6,7 @@ album_name: "Timeless (25th Anniversary Edition)"
 date: 2021-04-17T05:04:21.000000Z
 release_date: "1995-07-31"
 release_id: "18291646"
+apple_music_url: "https://music.apple.com/gb/album/timeless-25-year-anniversary/1561942518"
 slug: "timeless-25th-anniversary-edition-18291646"
 hideSummary: true
 cover:

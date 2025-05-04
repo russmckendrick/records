@@ -6,6 +6,7 @@ album_name: "My Light, My Destroyer"
 date: 2024-07-30T03:45:06.000000Z
 release_date: "2024-07-12"
 release_id: "31205095"
+apple_music_url: "https://music.apple.com/gb/album/my-light-my-destroyer/1738308923"
 slug: "my-light-my-destroyer-31205095"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Durand Jones & The Indications "
 date: 2018-03-20T12:54:29.000000Z
 release_date: "2016-03-16"
 release_id: "11718792"
+apple_music_url: "https://music.apple.com/gb/album/durand-jones-the-indications/1730817055"
 slug: "durand-jones-the-indications-11718792"
 hideSummary: true
 cover:

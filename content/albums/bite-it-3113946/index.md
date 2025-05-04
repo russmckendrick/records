@@ -6,6 +6,7 @@ album_name: "Bite It"
 date: 2021-02-10T04:35:09.000000Z
 release_date: "1995"
 release_id: "3113946"
+apple_music_url: "https://music.apple.com/gb/album/bite-it/1635562008"
 slug: "bite-it-3113946"
 hideSummary: true
 cover:

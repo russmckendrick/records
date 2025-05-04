@@ -6,6 +6,7 @@ album_name: "Temple Of The Dog"
 date: 2015-10-02T09:37:22.000000Z
 release_date: "1991-04-16"
 release_id: "5098793"
+apple_music_url: "https://music.apple.com/gb/album/temple-of-the-dog-deluxe-edition/1440864963"
 slug: "temple-of-the-dog-5098793"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Best Of Emerson Lake & Palmer"
 date: 2016-03-16T18:38:08.000000Z
 release_date: "2016-01-15"
 release_id: "7394100"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-emerson-lake-palmer/1528509528"
 slug: "the-best-of-emerson-lake-palmer-7394100"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "IV"
 date: 2017-06-25T14:04:53.000000Z
 release_date: "2017-07-14"
 release_id: "8716935"
+apple_music_url: "https://music.apple.com/gb/album/late-night-tales-badbadnotgood/1236718852"
 slug: "iv-8716935"
 hideSummary: true
 cover:

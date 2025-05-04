@@ -6,6 +6,7 @@ album_name: "Very"
 date: 2020-07-03T12:51:05.000000Z
 release_date: "2020-01-01"
 release_id: "12452813"
+apple_music_url: "https://music.apple.com/gb/album/hotspot/1722520981"
 slug: "very-12452813"
 hideSummary: true
 cover:

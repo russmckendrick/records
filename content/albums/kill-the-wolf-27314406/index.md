@@ -6,6 +6,7 @@ album_name: "Kill The Wolf"
 date: 2023-06-07T10:39:17.000000Z
 release_date: "2013-06-17"
 release_id: "27314406"
+apple_music_url: "https://music.apple.com/gb/album/kill-the-wolf/1152559578"
 slug: "kill-the-wolf-27314406"
 hideSummary: true
 cover:

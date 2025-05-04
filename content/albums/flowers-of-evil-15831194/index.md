@@ -6,6 +6,7 @@ album_name: " Flowers Of Evil"
 date: 2020-08-30T09:28:27.000000Z
 release_date: "2020-08-28"
 release_id: "15831194"
+apple_music_url: "https://music.apple.com/gb/album/flowers-of-evil/1526294296"
 slug: "flowers-of-evil-15831194"
 hideSummary: true
 cover:

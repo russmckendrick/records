@@ -6,6 +6,7 @@ album_name: "What's Going On"
 date: 2016-11-26T10:41:11.000000Z
 release_date: "1971-05-21"
 release_id: "9413652"
+apple_music_url: "https://music.apple.com/gb/album/whats-going-on/1538081586"
 slug: "what-s-going-on-9413652"
 hideSummary: true
 cover:

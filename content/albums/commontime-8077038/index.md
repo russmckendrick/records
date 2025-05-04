@@ -6,6 +6,7 @@ album_name: "Commontime"
 date: 2016-02-08T12:51:45.000000Z
 release_date: "2016-02-05"
 release_id: "8077038"
+apple_music_url: "https://music.apple.com/gb/album/commontime/1048481537"
 slug: "commontime-8077038"
 hideSummary: true
 cover:

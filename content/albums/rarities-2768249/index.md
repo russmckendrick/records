@@ -6,6 +6,7 @@ album_name: "Rarities"
 date: 2016-11-21T12:14:42.000000Z
 release_date: "2001-01-01"
 release_id: "2768249"
+apple_music_url: "https://music.apple.com/gb/album/rarities/1726652232"
 slug: "rarities-2768249"
 hideSummary: true
 cover:

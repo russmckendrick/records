@@ -6,6 +6,7 @@ album_name: "There Is No Other..."
 date: 2020-02-07T18:45:55.000000Z
 release_date: "2020-02-07"
 release_id: "14749767"
+apple_music_url: "https://music.apple.com/gb/album/there-is-no-other/1474138431"
 slug: "there-is-no-other-14749767"
 hideSummary: true
 cover:

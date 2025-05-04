@@ -6,6 +6,7 @@ album_name: "Gargoyle"
 date: 2017-05-16T18:14:01.000000Z
 release_date: "2017-04-28"
 release_id: "10205125"
+apple_music_url: "https://music.apple.com/gb/album/gargoyle/1195027557"
 slug: "gargoyle-10205125"
 hideSummary: true
 cover:

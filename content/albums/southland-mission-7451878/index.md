@@ -6,6 +6,7 @@ album_name: "Southland Mission"
 date: 2016-01-24T14:09:17.000000Z
 release_date: "2015-09-11"
 release_id: "7451878"
+apple_music_url: "https://music.apple.com/gb/album/southland-mission/1024130093"
 slug: "southland-mission-7451878"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "August And Everything After"
 date: 2017-06-10T11:12:30.000000Z
 release_date: "1993-09-14"
 release_id: "9982250"
+apple_music_url: "https://music.apple.com/gb/album/august-and-everything-after/1442449109"
 slug: "august-and-everything-after-9982250"
 hideSummary: true
 cover:

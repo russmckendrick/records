@@ -6,6 +6,7 @@ album_name: "The Platters"
 date: 2020-08-02T13:49:33.000000Z
 release_date: "1991-01-01"
 release_id: "5675912"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-the-platters/1443838707"
 slug: "the-platters-5675912"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Bright Sparks"
 date: 2016-03-14T17:38:13.000000Z
 release_date: "2016-02-26"
 release_id: "8200654"
+apple_music_url: "https://music.apple.com/gb/album/bright-sparks/1087348675"
 slug: "bright-sparks-8200654"
 hideSummary: true
 cover:

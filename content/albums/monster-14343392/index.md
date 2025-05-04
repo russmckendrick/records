@@ -6,6 +6,7 @@ album_name: "Monster"
 date: 2019-11-01T19:24:32.000000Z
 release_date: "2024-10-04"
 release_id: "14343392"
+apple_music_url: "https://music.apple.com/gb/album/r-e-m-single/1771353713"
 slug: "monster-14343392"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Bad Co"
 date: 2020-08-02T13:38:18.000000Z
 release_date: "1974-06-15"
 release_id: "841688"
+apple_music_url: "https://music.apple.com/gb/album/bad-company/978942690"
 slug: "bad-co-841688"
 hideSummary: true
 cover:

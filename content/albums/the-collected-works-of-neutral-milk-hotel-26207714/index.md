@@ -6,6 +6,7 @@ album_name: "The Collected Works Of Neutral Milk Hotel"
 date: 2023-03-01T00:20:05.000000Z
 release_date: ""
 release_id: "26207714"
+apple_music_url: ""
 slug: "the-collected-works-of-neutral-milk-hotel-26207714"
 hideSummary: true
 cover:

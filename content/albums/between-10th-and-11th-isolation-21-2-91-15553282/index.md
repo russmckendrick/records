@@ -6,6 +6,7 @@ album_name: "Between 10th And 11th / Isolation 21.2.91"
 date: 2020-07-03T12:50:52.000000Z
 release_date: ""
 release_id: "15553282"
+apple_music_url: ""
 slug: "between-10th-and-11th-isolation-21-2-91-15553282"
 hideSummary: true
 cover:

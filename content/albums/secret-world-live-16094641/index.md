@@ -6,6 +6,7 @@ album_name: "Secret World Live"
 date: 2022-08-11T01:53:37.000000Z
 release_date: "1994-09-13"
 release_id: "16094641"
+apple_music_url: "https://music.apple.com/gb/album/secret-world-live/1445901797"
 slug: "secret-world-live-16094641"
 hideSummary: true
 cover:

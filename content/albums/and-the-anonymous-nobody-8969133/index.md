@@ -6,6 +6,7 @@ album_name: "And The Anonymous Nobody"
 date: 2016-09-30T16:34:07.000000Z
 release_date: "2016-08-26"
 release_id: "8969133"
+apple_music_url: "https://music.apple.com/gb/album/and-the-anonymous-nobody/1667383327"
 slug: "and-the-anonymous-nobody-8969133"
 hideSummary: true
 cover:

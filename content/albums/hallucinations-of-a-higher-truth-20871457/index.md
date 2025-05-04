@@ -6,6 +6,7 @@ album_name: "Hallucinations Of A Higher Truth"
 date: 2021-11-06T05:57:40.000000Z
 release_date: "2021-07-30"
 release_id: "20871457"
+apple_music_url: "https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546"
 slug: "hallucinations-of-a-higher-truth-20871457"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Better Living Through Chemistry (20th Anniversary Edition) "
 date: 2017-01-15T10:54:45.000000Z
 release_date: "1996-09-23"
 release_id: "9081379"
+apple_music_url: "https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1446578875"
 slug: "better-living-through-chemistry-20th-anniversary-edition-9081379"
 hideSummary: true
 cover:

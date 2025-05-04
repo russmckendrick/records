@@ -6,6 +6,7 @@ album_name: "We Care A Lot"
 date: 2015-08-09T08:47:17.000000Z
 release_date: "2000-09-04"
 release_id: "625311"
+apple_music_url: "https://music.apple.com/gb/album/the-faith-no-more-collection/734506512"
 slug: "we-care-a-lot-625311"
 hideSummary: true
 cover:

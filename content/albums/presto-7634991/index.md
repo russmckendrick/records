@@ -6,6 +6,7 @@ album_name: "Presto"
 date: 2017-02-26T10:56:12.000000Z
 release_date: "2025-02-28"
 release_id: "7634991"
+apple_music_url: "https://music.apple.com/gb/album/rush/1781050759"
 slug: "presto-7634991"
 hideSummary: true
 cover:

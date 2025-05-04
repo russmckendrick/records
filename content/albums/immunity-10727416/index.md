@@ -6,6 +6,7 @@ album_name: "Immunity"
 date: 2020-04-10T12:40:54.000000Z
 release_date: "2023-06-02"
 release_id: "10727416"
+apple_music_url: "https://music.apple.com/gb/album/immunity/1688995695"
 slug: "immunity-10727416"
 hideSummary: true
 cover:

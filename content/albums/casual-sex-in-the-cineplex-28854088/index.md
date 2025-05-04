@@ -6,6 +6,7 @@ album_name: "Casual Sex In The Cineplex"
 date: 2023-11-11T02:26:35.000000Z
 release_date: "1993-12-31"
 release_id: "28854088"
+apple_music_url: "https://music.apple.com/gb/album/casual-sex-in-the-cineplex/259700485"
 slug: "casual-sex-in-the-cineplex-28854088"
 hideSummary: true
 cover:

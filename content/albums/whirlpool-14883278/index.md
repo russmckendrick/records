@@ -6,6 +6,7 @@ album_name: "Whirlpool"
 date: 2020-04-10T12:40:03.000000Z
 release_date: "1991"
 release_id: "14883278"
+apple_music_url: "https://music.apple.com/gb/album/whirlpool/400359123"
 slug: "whirlpool-14883278"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Build Seas, Dismantle Suns"
 date: 2015-09-01T17:52:38.000000Z
 release_date: "2014-11-17"
 release_id: "6315084"
+apple_music_url: "https://music.apple.com/gb/album/build-seas-dismantle-suns-eps/930867694"
 slug: "build-seas-dismantle-suns-6315084"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Orb's Adventures Beyond The Ultraworld"
 date: 2020-04-25T15:15:59.000000Z
 release_date: "1991-03-01"
 release_id: "11049937"
+apple_music_url: "https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519"
 slug: "the-orb-s-adventures-beyond-the-ultraworld-11049937"
 hideSummary: true
 cover:

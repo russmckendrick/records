@@ -6,6 +6,7 @@ album_name: "God Says No"
 date: 2016-07-10T09:49:54.000000Z
 release_date: "2001-01-01"
 release_id: "8112114"
+apple_music_url: "https://music.apple.com/gb/album/god-says-no/1713553752"
 slug: "god-says-no-8112114"
 hideSummary: true
 cover:

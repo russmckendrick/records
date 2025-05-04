@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2022-05-31T04:18:22.000000Z
 release_date: "1995-02-27"
 release_id: "12213768"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/1435854353"
 slug: "greatest-hits-12213768"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rivers Of Heresy"
 date: 2023-09-08T04:41:51.000000Z
 release_date: "2023-09-01"
 release_id: "28139413"
+apple_music_url: "https://music.apple.com/gb/album/rivers-of-heresy/1686591552"
 slug: "rivers-of-heresy-28139413"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Afraid Of Sunlight"
 date: 2022-09-23T04:44:02.000000Z
 release_date: "1995-06-26"
 release_id: "14338949"
+apple_music_url: "https://music.apple.com/gb/album/afraid-of-sunlight/692119730"
 slug: "afraid-of-sunlight-14338949"
 hideSummary: true
 cover:

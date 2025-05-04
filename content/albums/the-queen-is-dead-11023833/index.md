@@ -6,6 +6,7 @@ album_name: "The Queen Is Dead"
 date: 2018-01-20T19:11:07.000000Z
 release_date: "1986-06-16"
 release_id: "11023833"
+apple_music_url: "https://music.apple.com/gb/album/the-queen-is-dead/800092985"
 slug: "the-queen-is-dead-11023833"
 hideSummary: true
 cover:

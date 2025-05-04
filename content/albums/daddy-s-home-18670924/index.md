@@ -6,6 +6,7 @@ album_name: "Daddy's Home"
 date: 2021-05-15T06:31:58.000000Z
 release_date: "2021-05-14"
 release_id: "18670924"
+apple_music_url: "https://music.apple.com/gb/album/daddys-home/1552955481"
 slug: "daddy-s-home-18670924"
 hideSummary: true
 cover:

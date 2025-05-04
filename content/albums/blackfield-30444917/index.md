@@ -6,6 +6,7 @@ album_name: "Blackfield"
 date: 2024-06-01T06:08:09.000000Z
 release_date: "2017-02-10"
 release_id: "30444917"
+apple_music_url: "https://music.apple.com/gb/album/blackfield-v/1151959662"
 slug: "blackfield-30444917"
 hideSummary: true
 cover:

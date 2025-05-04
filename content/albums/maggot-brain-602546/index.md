@@ -6,6 +6,7 @@ album_name: "Maggot Brain"
 date: 2017-07-16T08:42:05.000000Z
 release_date: "1971-07-12"
 release_id: "602546"
+apple_music_url: "https://music.apple.com/gb/album/maggot-brain/1595227414"
 slug: "maggot-brain-602546"
 hideSummary: true
 cover:

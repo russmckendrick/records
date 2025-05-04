@@ -6,6 +6,7 @@ album_name: "The Big Dream"
 date: 2017-04-30T19:59:13.000000Z
 release_date: "2017-04-28"
 release_id: "10212812"
+apple_music_url: "https://music.apple.com/gb/album/the-big-dream/1213517622"
 slug: "the-big-dream-10212812"
 hideSummary: true
 cover:

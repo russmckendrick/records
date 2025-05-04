@@ -6,6 +6,7 @@ album_name: "The Three E.P.'s"
 date: 2018-10-12T19:58:57.000000Z
 release_date: "1998-09-28"
 release_id: "12647330"
+apple_music_url: "https://music.apple.com/gb/album/the-three-e-p-s/1339273695"
 slug: "the-three-e-p-s-12647330"
 hideSummary: true
 cover:

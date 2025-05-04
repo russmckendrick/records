@@ -6,6 +6,7 @@ album_name: "The Beast Inside"
 date: 2021-11-22T01:21:57.000000Z
 release_date: "1991-04-22"
 release_id: "21038797"
+apple_music_url: "https://music.apple.com/gb/album/the-beast-inside/1435624385"
 slug: "the-beast-inside-21038797"
 hideSummary: true
 cover:

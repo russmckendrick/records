@@ -6,6 +6,7 @@ album_name: "Bosh!"
 date: 2015-09-22T17:41:46.000000Z
 release_date: "2014-02-10"
 release_id: "7385545"
+apple_music_url: "https://music.apple.com/gb/album/bosh/780505469"
 slug: "bosh-7385545"
 hideSummary: true
 cover:

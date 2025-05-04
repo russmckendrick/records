@@ -6,6 +6,7 @@ album_name: "Stranger Heads Prevail"
 date: 2020-01-10T18:23:44.000000Z
 release_date: "2016-07-29"
 release_id: "14543822"
+apple_music_url: "https://music.apple.com/gb/album/stranger-heads-prevail/1617477129"
 slug: "stranger-heads-prevail-14543822"
 hideSummary: true
 cover:

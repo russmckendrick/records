@@ -6,6 +6,7 @@ album_name: "Wiseblood"
 date: 2020-08-07T19:27:34.000000Z
 release_date: "1996-10-15"
 release_id: "15680001"
+apple_music_url: "https://music.apple.com/gb/album/wiseblood/170614446"
 slug: "wiseblood-15680001"
 hideSummary: true
 cover:

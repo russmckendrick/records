@@ -6,6 +6,7 @@ album_name: "Glow"
 date: 2022-11-28T07:24:08.000000Z
 release_date: "1997"
 release_id: "25308085"
+apple_music_url: "https://music.apple.com/gb/album/glow/424193244"
 slug: "glow-25308085"
 hideSummary: true
 cover:

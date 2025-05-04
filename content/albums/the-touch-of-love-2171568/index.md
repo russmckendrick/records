@@ -6,6 +6,7 @@ album_name: "The Touch Of Love"
 date: 2020-08-02T13:45:46.000000Z
 release_date: "2015-03-06"
 release_id: "2171568"
+apple_music_url: "https://music.apple.com/gb/album/the-essential-gladys-knight-the-pips-the/971924685"
 slug: "the-touch-of-love-2171568"
 hideSummary: true
 cover:

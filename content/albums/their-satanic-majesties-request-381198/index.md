@@ -6,6 +6,7 @@ album_name: "Their Satanic Majesties Request"
 date: 2016-12-02T12:53:18.000000Z
 release_date: "1967-12-08"
 release_id: "381198"
+apple_music_url: "https://music.apple.com/gb/album/their-satanic-majesties-request/1440773836"
 slug: "their-satanic-majesties-request-381198"
 hideSummary: true
 cover:

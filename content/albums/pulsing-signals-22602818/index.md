@@ -6,6 +6,7 @@ album_name: "Pulsing Signals"
 date: 2022-03-25T13:25:44.000000Z
 release_date: "2022-02-18"
 release_id: "22602818"
+apple_music_url: "https://music.apple.com/gb/album/pulsing-signals-live/1599773680"
 slug: "pulsing-signals-22602818"
 hideSummary: true
 cover:

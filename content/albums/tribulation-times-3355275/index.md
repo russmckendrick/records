@@ -6,6 +6,7 @@ album_name: "Tribulation Times"
 date: 2020-01-06T18:20:18.000000Z
 release_date: "1999-01-12"
 release_id: "3355275"
+apple_music_url: "https://music.apple.com/gb/album/tribulation/2762612"
 slug: "tribulation-times-3355275"
 hideSummary: true
 cover:

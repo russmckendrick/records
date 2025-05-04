@@ -6,6 +6,7 @@ album_name: "Tubular Bells 50th Anniversary Celebration"
 date: 2022-11-11T01:36:41.000000Z
 release_date: "2022-10-28"
 release_id: "25057090"
+apple_music_url: "https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679"
 slug: "tubular-bells-50th-anniversary-celebration-25057090"
 hideSummary: true
 cover:

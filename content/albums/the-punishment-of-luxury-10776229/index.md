@@ -6,6 +6,7 @@ album_name: "The Punishment Of Luxury"
 date: 2017-09-01T18:43:33.000000Z
 release_date: "1980-02-22"
 release_id: "10776229"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "the-punishment-of-luxury-10776229"
 hideSummary: true
 cover:

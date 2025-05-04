@@ -6,6 +6,7 @@ album_name: "Hi Infidelity"
 date: 2020-08-02T13:49:18.000000Z
 release_date: "1980-11-21"
 release_id: "3374002"
+apple_music_url: "https://music.apple.com/gb/album/hi-infidelity-30th-anniversary-edition/447759207"
 slug: "hi-infidelity-3374002"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "One Step Beyond..."
 date: 2016-02-02T19:46:54.000000Z
 release_date: "1979-10-19"
 release_id: "395329"
+apple_music_url: "https://music.apple.com/gb/album/one-step-beyond/1776999026"
 slug: "one-step-beyond-395329"
 hideSummary: true
 cover:

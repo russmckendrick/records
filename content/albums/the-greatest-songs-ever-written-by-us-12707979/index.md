@@ -6,6 +6,7 @@ album_name: "The Greatest Songs Ever Written (By Us)"
 date: 2018-11-26T19:24:14.000000Z
 release_date: "2004-11-09"
 release_id: "12707979"
+apple_music_url: "https://music.apple.com/gb/album/the-greatest-songs-ever-written-by-us/1485042726"
 slug: "the-greatest-songs-ever-written-by-us-12707979"
 hideSummary: true
 cover:

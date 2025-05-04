@@ -6,6 +6,7 @@ album_name: "If This Is Rock And Roll, I Want My Old Job Back"
 date: 2017-03-23T08:14:46.000000Z
 release_date: "1991-05-01"
 release_id: "2736659"
+apple_music_url: "https://music.apple.com/gb/album/if-this-is-rock-and-roll-i-want-my-old-job-back/374785828"
 slug: "if-this-is-rock-and-roll-i-want-my-old-job-back-2736659"
 hideSummary: true
 cover:

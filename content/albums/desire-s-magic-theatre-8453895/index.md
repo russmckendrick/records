@@ -6,6 +6,7 @@ album_name: "Desire's Magic Theatre"
 date: 2016-04-29T18:01:49.000000Z
 release_date: "2016-04-29"
 release_id: "8453895"
+apple_music_url: "https://music.apple.com/gb/album/desires-magic-theatre/1660353966"
 slug: "desire-s-magic-theatre-8453895"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Bedroom"
 date: 2020-08-28T10:18:05.000000Z
 release_date: "2020-07-03"
 release_id: "15830094"
+apple_music_url: "https://music.apple.com/gb/album/bedroom/1701098303"
 slug: "bedroom-15830094"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "World's Strongest Man"
 date: 2018-05-04T19:02:20.000000Z
 release_date: "2018-05-04"
 release_id: "11949416"
+apple_music_url: "https://music.apple.com/gb/album/worlds-strongest-man/1440875853"
 slug: "world-s-strongest-man-11949416"
 hideSummary: true
 cover:

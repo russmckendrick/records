@@ -6,6 +6,7 @@ album_name: "Guerrilla"
 date: 2019-10-25T19:04:01.000000Z
 release_date: "1999-05-06"
 release_id: "14283127"
+apple_music_url: "https://music.apple.com/gb/album/guerrilla/1626519136"
 slug: "guerrilla-14283127"
 hideSummary: true
 cover:

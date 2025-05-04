@@ -6,6 +6,7 @@ album_name: "Peculiar"
 date: 2019-06-11T17:48:00.000000Z
 release_date: "2006-02-21"
 release_id: "13689689"
+apple_music_url: "https://music.apple.com/gb/album/peculiar/1485051101"
 slug: "peculiar-13689689"
 hideSummary: true
 cover:

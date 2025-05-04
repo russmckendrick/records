@@ -6,6 +6,7 @@ album_name: "New Forms"
 date: 2017-11-10T19:27:48.000000Z
 release_date: "2008-01-01"
 release_id: "11115907"
+apple_music_url: "https://music.apple.com/gb/album/roni-size-reprazent-new-forms2/1669435573"
 slug: "new-forms-11115907"
 hideSummary: true
 cover:

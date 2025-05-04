@@ -6,6 +6,7 @@ album_name: "Five Leaves Left"
 date: 2016-08-05T14:56:00.000000Z
 release_date: "1969-07-03"
 release_id: "4968730"
+apple_music_url: "https://music.apple.com/gb/album/five-leaves-left-remastered/1440656068"
 slug: "five-leaves-left-4968730"
 hideSummary: true
 cover:

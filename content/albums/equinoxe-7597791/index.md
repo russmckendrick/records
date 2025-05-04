@@ -6,6 +6,7 @@ album_name: "Equinoxe"
 date: 2016-12-08T18:38:48.000000Z
 release_date: "1978-11-13"
 release_id: "7597791"
+apple_music_url: "https://music.apple.com/gb/album/%C3%A9quinoxe/1719812711"
 slug: "equinoxe-7597791"
 hideSummary: true
 cover:

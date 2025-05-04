@@ -6,6 +6,7 @@ album_name: "Ogilala"
 date: 2017-10-14T10:09:07.000000Z
 release_date: ""
 release_id: "10993416"
+apple_music_url: ""
 slug: "ogilala-10993416"
 hideSummary: true
 cover:

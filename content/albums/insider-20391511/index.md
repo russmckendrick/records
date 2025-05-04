@@ -6,6 +6,7 @@ album_name: "Insider"
 date: 2021-09-29T00:17:46.000000Z
 release_date: "2006-10-02"
 release_id: "20391511"
+apple_music_url: "https://music.apple.com/gb/album/insider/1189715758"
 slug: "insider-20391511"
 hideSummary: true
 cover:

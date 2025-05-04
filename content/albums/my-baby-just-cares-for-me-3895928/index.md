@@ -6,6 +6,7 @@ album_name: "My Baby Just Cares For Me"
 date: 2016-09-19T15:13:43.000000Z
 release_date: "2013-01-21"
 release_id: "3895928"
+apple_music_url: "https://music.apple.com/gb/album/the-voice-of-nina-simone-my-baby-just-cares-for-me/590241536"
 slug: "my-baby-just-cares-for-me-3895928"
 hideSummary: true
 cover:

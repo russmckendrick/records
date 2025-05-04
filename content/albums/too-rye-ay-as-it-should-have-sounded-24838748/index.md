@@ -6,6 +6,7 @@ album_name: "Too-Rye-Ay (As It Should Have Sounded)"
 date: 2022-10-16T01:57:33.000000Z
 release_date: "1982-07-22"
 release_id: "24838748"
+apple_music_url: "https://music.apple.com/gb/album/too-rye-ay-as-it-should-have-sounded-2022/1631813034"
 slug: "too-rye-ay-as-it-should-have-sounded-24838748"
 hideSummary: true
 cover:

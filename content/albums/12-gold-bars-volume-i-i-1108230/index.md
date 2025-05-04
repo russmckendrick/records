@@ -6,6 +6,7 @@ album_name: "12 Gold Bars Volume I+I"
 date: 2015-10-14T18:38:58.000000Z
 release_date: "1980-01-01"
 release_id: "1108230"
+apple_music_url: "https://music.apple.com/gb/album/12-gold-bars-remastered/1440651224"
 slug: "12-gold-bars-volume-i-i-1108230"
 hideSummary: true
 cover:

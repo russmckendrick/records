@@ -6,6 +6,7 @@ album_name: "The Best Of (Volume 1)"
 date: 2025-02-19T01:13:21.000000Z
 release_date: "2006-11-08"
 release_id: "14907239"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1/665414290"
 slug: "the-best-of-volume-1-14907239"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Now Then: The Very Best Of Richard Hawley"
 date: 2023-11-13T06:33:46.000000Z
 release_date: "2001-07-03"
 release_id: "28647640"
+apple_music_url: "https://music.apple.com/gb/album/now-then-the-very-best-of-richard-hawley/1711610312"
 slug: "now-then-the-very-best-of-richard-hawley-28647640"
 hideSummary: true
 cover:

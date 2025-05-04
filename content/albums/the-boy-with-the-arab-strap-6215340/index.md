@@ -6,6 +6,7 @@ album_name: "The Boy With The Arab Strap"
 date: 2017-04-25T08:36:19.000000Z
 release_date: "1998-09-07"
 release_id: "6215340"
+apple_music_url: "https://music.apple.com/gb/album/the-boy-with-the-arab-strap/516530719"
 slug: "the-boy-with-the-arab-strap-6215340"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Order Of Time"
 date: 2017-03-18T12:17:28.000000Z
 release_date: "2017-03-10"
 release_id: "9969829"
+apple_music_url: "https://music.apple.com/gb/album/the-order-of-time/1440948460"
 slug: "the-order-of-time-9969829"
 hideSummary: true
 cover:

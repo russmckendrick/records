@@ -6,6 +6,7 @@ album_name: "At Folsom Prison"
 date: 2016-11-30T18:50:30.000000Z
 release_date: "1968-05-06"
 release_id: "7467817"
+apple_music_url: "https://music.apple.com/gb/album/at-folsom-prison-live/825516828"
 slug: "at-folsom-prison-7467817"
 hideSummary: true
 cover:

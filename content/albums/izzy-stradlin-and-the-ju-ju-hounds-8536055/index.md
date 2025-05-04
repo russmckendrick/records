@@ -6,6 +6,7 @@ album_name: "Izzy Stradlin And The Ju Ju Hounds "
 date: 2020-05-13T10:52:36.000000Z
 release_date: "1992-01-01"
 release_id: "8536055"
+apple_music_url: "https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882"
 slug: "izzy-stradlin-and-the-ju-ju-hounds-8536055"
 hideSummary: true
 cover:

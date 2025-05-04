@@ -6,6 +6,7 @@ album_name: "St. Anger"
 date: 2024-05-03T06:45:21.000000Z
 release_date: "2003-06-05"
 release_id: "30566206"
+apple_music_url: "https://music.apple.com/gb/album/st-anger/1440844088"
 slug: "st-anger-30566206"
 hideSummary: true
 cover:

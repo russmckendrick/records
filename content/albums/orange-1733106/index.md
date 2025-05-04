@@ -6,6 +6,7 @@ album_name: "Orange"
 date: 2017-07-06T20:47:20.000000Z
 release_date: "2002-04-09"
 release_id: "1733106"
+apple_music_url: "https://music.apple.com/gb/album/plastic-fang/1273347125"
 slug: "orange-1733106"
 hideSummary: true
 cover:

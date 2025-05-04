@@ -6,6 +6,7 @@ album_name: "Milking The Stars: A Re-Imagining Of Last Patrol"
 date: 2016-01-29T18:23:29.000000Z
 release_date: "2014-11-10"
 release_id: "6299294"
+apple_music_url: "https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514"
 slug: "milking-the-stars-a-re-imagining-of-last-patrol-6299294"
 hideSummary: true
 cover:

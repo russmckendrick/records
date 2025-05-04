@@ -6,6 +6,7 @@ album_name: "Generation Terrorists"
 date: 2018-11-05T19:07:55.000000Z
 release_date: "1992-02-10"
 release_id: "3994045"
+apple_music_url: "https://music.apple.com/gb/album/generation-terrorists/1609887384"
 slug: "generation-terrorists-3994045"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Holidays In Eden (Deluxe Edition)"
 date: 2022-09-20T02:08:56.000000Z
 release_date: "1991-06-24"
 release_id: "24521231"
+apple_music_url: "https://music.apple.com/gb/album/holidays-in-eden-deluxe-edition/1645122919"
 slug: "holidays-in-eden-deluxe-edition-24521231"
 hideSummary: true
 cover:

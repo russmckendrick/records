@@ -6,6 +6,7 @@ album_name: "Gold-Diggers Sound"
 date: 2021-07-23T09:16:24.000000Z
 release_date: "2021-07-23"
 release_id: "19585627"
+apple_music_url: "https://music.apple.com/gb/album/gold-diggers-sound/1565612362"
 slug: "gold-diggers-sound-19585627"
 hideSummary: true
 cover:

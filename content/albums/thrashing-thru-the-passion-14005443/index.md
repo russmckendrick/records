@@ -6,6 +6,7 @@ album_name: "Thrashing Thru The Passion"
 date: 2019-08-16T17:13:10.000000Z
 release_date: "2019-08-16"
 release_id: "14005443"
+apple_music_url: "https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035"
 slug: "thrashing-thru-the-passion-14005443"
 hideSummary: true
 cover:

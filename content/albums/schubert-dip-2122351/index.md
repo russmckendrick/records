@@ -6,6 +6,7 @@ album_name: "Schubert Dip"
 date: 2015-10-14T18:37:05.000000Z
 release_date: "1991-05-07"
 release_id: "2122351"
+apple_music_url: "https://music.apple.com/gb/album/schubert-dip/1242337425"
 slug: "schubert-dip-2122351"
 hideSummary: true
 cover:

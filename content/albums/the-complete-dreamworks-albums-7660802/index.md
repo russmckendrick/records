@@ -6,6 +6,7 @@ album_name: "The Complete Dreamworks Albums"
 date: 2016-01-19T19:38:03.000000Z
 release_date: ""
 release_id: "7660802"
+apple_music_url: ""
 slug: "the-complete-dreamworks-albums-7660802"
 hideSummary: true
 cover:

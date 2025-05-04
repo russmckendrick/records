@@ -6,6 +6,7 @@ album_name: "Replicas (The First Recordings)"
 date: 2019-10-12T16:05:13.000000Z
 release_date: "1979-04-04"
 release_id: "14258114"
+apple_music_url: "https://music.apple.com/gb/album/replicas-the-first-recordings-feat-tubeway-army/1481784868"
 slug: "replicas-the-first-recordings-14258114"
 hideSummary: true
 cover:

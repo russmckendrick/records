@@ -6,6 +6,7 @@ album_name: "Urban Hymns"
 date: 2017-07-13T16:05:50.000000Z
 release_date: "1997-09-29"
 release_id: "9057753"
+apple_music_url: "https://music.apple.com/gb/album/urban-hymns-remastered-2016/1440885112"
 slug: "urban-hymns-9057753"
 hideSummary: true
 cover:

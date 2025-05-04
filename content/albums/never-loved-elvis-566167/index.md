@@ -6,6 +6,7 @@ album_name: "Never Loved Elvis"
 date: 2019-01-12T11:06:30.000000Z
 release_date: "1991"
 release_id: "566167"
+apple_music_url: "https://music.apple.com/gb/album/never-loved-elvis-live/1342325822"
 slug: "never-loved-elvis-566167"
 hideSummary: true
 cover:

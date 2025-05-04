@@ -6,6 +6,7 @@ album_name: "∑(No,12k,Lg,17Mif) New Order + Liam Gillick: So It Goes.."
 date: 2019-07-12T15:33:50.000000Z
 release_date: "2019-07-12"
 release_id: "13868695"
+apple_music_url: "https://music.apple.com/gb/album/no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-live-at-mif/1462511115"
 slug: "no-12k-lg-17mif-new-order-liam-gillick-so-it-goes-13868695"
 hideSummary: true
 cover:

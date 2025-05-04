@@ -6,6 +6,7 @@ album_name: "The '59 Sound"
 date: 2015-08-09T08:40:16.000000Z
 release_date: "2008-08-19"
 release_id: "7246420"
+apple_music_url: "https://music.apple.com/gb/album/the-59-sound/1631014742"
 slug: "the-59-sound-7246420"
 hideSummary: true
 cover:

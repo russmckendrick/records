@@ -6,6 +6,7 @@ album_name: "Flood"
 date: 2020-02-17T17:54:15.000000Z
 release_date: "1990-01-15"
 release_id: "14639400"
+apple_music_url: "https://music.apple.com/gb/album/flood/298111036"
 slug: "flood-14639400"
 hideSummary: true
 cover:

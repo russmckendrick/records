@@ -6,6 +6,7 @@ album_name: "Whispering Jack"
 date: 2023-11-19T05:34:40.000000Z
 release_date: "1986-10-20"
 release_id: "28960252"
+apple_music_url: "https://music.apple.com/gb/album/whispering-jack/270340388"
 slug: "whispering-jack-28960252"
 hideSummary: true
 cover:

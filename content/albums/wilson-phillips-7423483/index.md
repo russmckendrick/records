@@ -6,6 +6,7 @@ album_name: "Wilson Phillips"
 date: 2018-11-01T07:46:55.000000Z
 release_date: "1990-03-24"
 release_id: "7423483"
+apple_music_url: "https://music.apple.com/gb/album/wilson-phillips/723895185"
 slug: "wilson-phillips-7423483"
 hideSummary: true
 cover:

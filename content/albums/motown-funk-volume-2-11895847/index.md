@@ -6,6 +6,7 @@ album_name: "Motown Funk Volume 2"
 date: 2018-04-21T13:35:16.000000Z
 release_date: ""
 release_id: "11895847"
+apple_music_url: ""
 slug: "motown-funk-volume-2-11895847"
 hideSummary: true
 cover:

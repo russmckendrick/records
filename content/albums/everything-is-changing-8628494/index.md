@@ -6,6 +6,7 @@ album_name: "Everything Is Changing"
 date: 2017-05-27T08:22:45.000000Z
 release_date: "2012-01-20"
 release_id: "8628494"
+apple_music_url: "https://music.apple.com/gb/album/everything-is-changing/479864565"
 slug: "everything-is-changing-8628494"
 hideSummary: true
 cover:

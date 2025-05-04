@@ -6,6 +6,7 @@ album_name: "Telekon"
 date: 2016-12-15T19:37:07.000000Z
 release_date: "1980-09-05"
 release_id: "7788320"
+apple_music_url: "https://music.apple.com/gb/album/telekon/251679821"
 slug: "telekon-7788320"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Happy Daze (Volume One)"
 date: 2017-12-07T20:58:26.000000Z
 release_date: ""
 release_id: "1812503"
+apple_music_url: ""
 slug: "happy-daze-volume-one-1812503"
 hideSummary: true
 cover:

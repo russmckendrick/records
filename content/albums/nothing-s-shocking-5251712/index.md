@@ -6,6 +6,7 @@ album_name: "Nothing's Shocking"
 date: 2015-08-09T08:36:12.000000Z
 release_date: "1988-08-23"
 release_id: "5251712"
+apple_music_url: "https://music.apple.com/gb/album/nothings-shocking/1018518208"
 slug: "nothing-s-shocking-5251712"
 hideSummary: true
 cover:

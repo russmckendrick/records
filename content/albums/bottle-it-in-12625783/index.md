@@ -6,6 +6,7 @@ album_name: "Bottle It In"
 date: 2018-10-12T20:00:07.000000Z
 release_date: "2018-10-12"
 release_id: "12625783"
+apple_music_url: "https://music.apple.com/gb/album/bottle-it-in/1586491648"
 slug: "bottle-it-in-12625783"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Waterfall II"
 date: 2020-09-15T17:31:36.000000Z
 release_date: "2020-07-17"
 release_id: "15837565"
+apple_music_url: "https://music.apple.com/gb/album/the-waterfall-ii/1516505813"
 slug: "the-waterfall-ii-15837565"
 hideSummary: true
 cover:

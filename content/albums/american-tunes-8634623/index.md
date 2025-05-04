@@ -6,6 +6,7 @@ album_name: "American Tunes"
 date: 2016-07-01T18:30:13.000000Z
 release_date: "2016-06-10"
 release_id: "8634623"
+apple_music_url: "https://music.apple.com/gb/album/american-tunes/1100493803"
 slug: "american-tunes-8634623"
 hideSummary: true
 cover:

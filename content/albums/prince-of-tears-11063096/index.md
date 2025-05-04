@@ -6,6 +6,7 @@ album_name: "Prince Of Tears"
 date: 2017-10-28T15:46:15.000000Z
 release_date: "2017-10-27"
 release_id: "11063096"
+apple_music_url: "https://music.apple.com/gb/album/prince-of-tears/1268762151"
 slug: "prince-of-tears-11063096"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2017-01-20T17:08:25.000000Z
 release_date: "1991-05"
 release_id: "9555739"
+apple_music_url: "https://music.apple.com/gb/album/eurythmics-greatest-hits/404385428"
 slug: "greatest-hits-9555739"
 hideSummary: true
 cover:

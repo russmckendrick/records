@@ -6,6 +6,7 @@ album_name: "Lust For Life"
 date: 2017-07-05T14:34:19.000000Z
 release_date: "1977-08-29"
 release_id: "10451767"
+apple_music_url: "https://music.apple.com/gb/album/lust-for-life/1440882892"
 slug: "lust-for-life-10451767"
 hideSummary: true
 cover:

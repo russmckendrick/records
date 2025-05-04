@@ -6,6 +6,7 @@ album_name: "The Euphoric"
 date: 2018-05-17T11:35:19.000000Z
 release_date: "2018-05-18"
 release_id: "12012650"
+apple_music_url: "https://music.apple.com/gb/album/the-euphoric/1370930459"
 slug: "the-euphoric-12012650"
 hideSummary: true
 cover:

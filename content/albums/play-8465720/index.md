@@ -6,6 +6,7 @@ album_name: "Play"
 date: 2018-01-06T10:52:07.000000Z
 release_date: "1999-06-01"
 release_id: "8465720"
+apple_music_url: "https://music.apple.com/gb/album/play/1436695379"
 slug: "play-8465720"
 hideSummary: true
 cover:

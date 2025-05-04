@@ -6,6 +6,7 @@ album_name: "The View From Halfway Down"
 date: 2020-10-10T10:40:42.000000Z
 release_date: "2020-10-09"
 release_id: "16035263"
+apple_music_url: "https://music.apple.com/gb/album/the-view-from-halfway-down/1700700851"
 slug: "the-view-from-halfway-down-16035263"
 hideSummary: true
 cover:

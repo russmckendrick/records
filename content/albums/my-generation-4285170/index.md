@@ -6,6 +6,7 @@ album_name: "My Generation"
 date: 2016-04-15T17:26:52.000000Z
 release_date: "1965-04-25"
 release_id: "4285170"
+apple_music_url: "https://music.apple.com/gb/album/the-who-sings-my-generation/1443807171"
 slug: "my-generation-4285170"
 hideSummary: true
 cover:

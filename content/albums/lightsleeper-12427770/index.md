@@ -6,6 +6,7 @@ album_name: "Lightsleeper"
 date: 2018-08-25T08:50:37.000000Z
 release_date: "2018-08-24"
 release_id: "12427770"
+apple_music_url: "https://music.apple.com/gb/album/lightsleeper/1389944005"
 slug: "lightsleeper-12427770"
 hideSummary: true
 cover:

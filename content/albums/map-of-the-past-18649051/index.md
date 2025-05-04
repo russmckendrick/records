@@ -6,6 +6,7 @@ album_name: "Map Of The Past"
 date: 2021-05-09T05:00:28.000000Z
 release_date: "2012-03-23"
 release_id: "18649051"
+apple_music_url: "https://music.apple.com/gb/album/map-of-the-past/1056415449"
 slug: "map-of-the-past-18649051"
 hideSummary: true
 cover:

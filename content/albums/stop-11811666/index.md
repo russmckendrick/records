@@ -6,6 +6,7 @@ album_name: "Stop!"
 date: 2019-01-19T10:33:32.000000Z
 release_date: "1988-01-01"
 release_id: "11811666"
+apple_music_url: "https://music.apple.com/gb/album/stop/1443915889"
 slug: "stop-11811666"
 hideSummary: true
 cover:

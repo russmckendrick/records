@@ -6,6 +6,7 @@ album_name: "All This Will Be Yours"
 date: 2019-10-25T19:07:02.000000Z
 release_date: "2019-10-25"
 release_id: "14311736"
+apple_music_url: "https://music.apple.com/gb/album/all-this-will-be-yours/1474856040"
 slug: "all-this-will-be-yours-14311736"
 hideSummary: true
 cover:

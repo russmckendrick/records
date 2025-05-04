@@ -6,6 +6,7 @@ album_name: "K-Tel Present The Sounds Of Sammy Davis Jr."
 date: 2020-08-02T13:34:30.000000Z
 release_date: "2000-03-23"
 release_id: "3725281"
+apple_music_url: "https://music.apple.com/gb/album/the-rat-pack-live-at-the-sands/1440860308"
 slug: "k-tel-present-the-sounds-of-sammy-davis-jr-3725281"
 hideSummary: true
 cover:

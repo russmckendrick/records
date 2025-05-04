@@ -6,6 +6,7 @@ album_name: "Life's Too Good"
 date: 2022-03-08T11:38:49.000000Z
 release_date: "1988-01-01"
 release_id: "22346299"
+apple_music_url: "https://music.apple.com/gb/album/lifes-too-good/1726662462"
 slug: "life-s-too-good-22346299"
 hideSummary: true
 cover:

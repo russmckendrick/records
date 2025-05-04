@@ -6,6 +6,7 @@ album_name: "Cure For Pain"
 date: 2019-06-12T17:58:02.000000Z
 release_date: "1993-09-14"
 release_id: "13678278"
+apple_music_url: "https://music.apple.com/gb/album/cure-for-pain/162448483"
 slug: "cure-for-pain-13678278"
 hideSummary: true
 cover:

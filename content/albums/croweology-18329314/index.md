@@ -6,6 +6,7 @@ album_name: "Croweology"
 date: 2021-04-30T07:38:41.000000Z
 release_date: "1991-01-01"
 release_id: "18329314"
+apple_music_url: "https://music.apple.com/gb/album/she-talks-to-angels-single/1626386964"
 slug: "croweology-18329314"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Too Much Pressure"
 date: 2021-04-24T04:26:23.000000Z
 release_date: "1980-02-23"
 release_id: "18421726"
+apple_music_url: "https://music.apple.com/gb/album/too-much-pressure/1629178476"
 slug: "too-much-pressure-18421726"
 hideSummary: true
 cover:

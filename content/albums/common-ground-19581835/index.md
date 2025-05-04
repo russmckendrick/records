@@ -6,6 +6,7 @@ album_name: "Common Ground"
 date: 2021-07-30T07:19:02.000000Z
 release_date: "2021-07-30"
 release_id: "19581835"
+apple_music_url: "https://music.apple.com/gb/album/common-ground/1564398164"
 slug: "common-ground-19581835"
 hideSummary: true
 cover:

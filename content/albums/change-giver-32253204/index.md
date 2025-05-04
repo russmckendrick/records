@@ -6,6 +6,7 @@ album_name: "Change Giver"
 date: 2024-11-10T22:10:39.000000Z
 release_date: "1995"
 release_id: "32253204"
+apple_music_url: "https://music.apple.com/gb/album/change-giver/1442965827"
 slug: "change-giver-32253204"
 hideSummary: true
 cover:

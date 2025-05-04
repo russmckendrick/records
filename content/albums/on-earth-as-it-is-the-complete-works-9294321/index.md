@@ -6,6 +6,7 @@ album_name: "On Earth As It Is: The Complete Works"
 date: 2016-11-14T17:49:15.000000Z
 release_date: "2016-11-04"
 release_id: "9294321"
+apple_music_url: "https://music.apple.com/gb/album/on-earth-as-it-is-the-complete-works/1440887833"
 slug: "on-earth-as-it-is-the-complete-works-9294321"
 hideSummary: true
 cover:

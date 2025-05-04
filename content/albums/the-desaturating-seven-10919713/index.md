@@ -6,6 +6,7 @@ album_name: "The Desaturating Seven"
 date: 2017-09-29T17:23:38.000000Z
 release_date: "2017-09-29"
 release_id: "10919713"
+apple_music_url: "https://music.apple.com/gb/album/the-desaturating-seven/1262680542"
 slug: "the-desaturating-seven-10919713"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Indigo"
 date: 2018-09-28T11:59:37.000000Z
 release_date: "2018-09-07"
 release_id: "12500626"
+apple_music_url: "https://music.apple.com/gb/album/indigo/1414681591"
 slug: "indigo-12500626"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rough And Rowdy Ways"
 date: 2020-07-17T12:55:21.000000Z
 release_date: "2020-06-19"
 release_id: "15628437"
+apple_music_url: "https://music.apple.com/gb/album/rough-and-rowdy-ways/1512248541"
 slug: "rough-and-rowdy-ways-15628437"
 hideSummary: true
 cover:

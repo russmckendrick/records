@@ -6,6 +6,7 @@ album_name: "Protest Songs 1924-2012"
 date: 2021-10-06T12:14:30.000000Z
 release_date: "2021-10-01"
 release_id: "20431642"
+apple_music_url: "https://music.apple.com/gb/album/protest-songs-1924-2012-bonus-track-version/1575774360"
 slug: "protest-songs-1924-2012-20431642"
 hideSummary: true
 cover:

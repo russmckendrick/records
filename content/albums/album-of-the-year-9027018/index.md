@@ -6,6 +6,7 @@ album_name: "Album Of The Year"
 date: 2016-09-12T16:37:31.000000Z
 release_date: "1997-06-03"
 release_id: "9027018"
+apple_music_url: "https://music.apple.com/gb/album/album-of-the-year/365629446"
 slug: "album-of-the-year-9027018"
 hideSummary: true
 cover:

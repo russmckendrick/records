@@ -6,6 +6,7 @@ album_name: "9-13"
 date: 2017-10-26T17:57:03.000000Z
 release_date: "2017-10-20"
 release_id: "11038535"
+apple_music_url: "https://music.apple.com/gb/album/9-13/1260737417"
 slug: "9-13-11038535"
 hideSummary: true
 cover:

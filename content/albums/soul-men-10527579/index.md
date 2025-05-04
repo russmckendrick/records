@@ -6,6 +6,7 @@ album_name: "Soul Men"
 date: 2018-01-26T20:02:15.000000Z
 release_date: "1967"
 release_id: "10527579"
+apple_music_url: "https://music.apple.com/gb/album/soul-men/265640765"
 slug: "soul-men-10527579"
 hideSummary: true
 cover:

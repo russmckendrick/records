@@ -6,6 +6,7 @@ album_name: "Broken"
 date: 2017-11-18T09:02:20.000000Z
 release_date: "1992-09-22"
 release_id: "10693965"
+apple_music_url: "https://music.apple.com/gb/album/broken-ep/1440743805"
 slug: "broken-10693965"
 hideSummary: true
 cover:

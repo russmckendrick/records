@@ -6,6 +6,7 @@ album_name: "The Last Domino?"
 date: 2021-09-17T06:09:19.000000Z
 release_date: "2021-11-19"
 release_id: "20264347"
+apple_music_url: "https://music.apple.com/gb/album/the-last-domino/1580766705"
 slug: "the-last-domino-20264347"
 hideSummary: true
 cover:

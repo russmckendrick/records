@@ -6,6 +6,7 @@ album_name: "Wonderful"
 date: 2022-09-04T03:40:41.000000Z
 release_date: "1999-11-01"
 release_id: "23052995"
+apple_music_url: "https://music.apple.com/gb/album/wonderful/1780327241"
 slug: "wonderful-23052995"
 hideSummary: true
 cover:

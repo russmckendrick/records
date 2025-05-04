@@ -6,6 +6,7 @@ album_name: "The Rolling Stones In Mono"
 date: 2017-01-13T20:12:41.000000Z
 release_date: "2016-09-30"
 release_id: "9147559"
+apple_music_url: "https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096"
 slug: "the-rolling-stones-in-mono-9147559"
 hideSummary: true
 cover:

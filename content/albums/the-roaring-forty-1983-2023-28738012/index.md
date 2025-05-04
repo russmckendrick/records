@@ -6,6 +6,7 @@ album_name: "The Roaring Forty | 1983-2023"
 date: 2023-10-31T11:17:33.000000Z
 release_date: "2023-10-27"
 release_id: "28738012"
+apple_music_url: "https://music.apple.com/gb/album/the-roaring-forty-1983-2023/1712674823"
 slug: "the-roaring-forty-1983-2023-28738012"
 hideSummary: true
 cover:

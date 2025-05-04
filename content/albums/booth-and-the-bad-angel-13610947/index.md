@@ -6,6 +6,7 @@ album_name: "Booth And The Bad Angel"
 date: 2023-12-10T05:39:17.000000Z
 release_date: "1996-01-01"
 release_id: "13610947"
+apple_music_url: "https://music.apple.com/gb/album/booth-and-the-bad-angel/1444128767"
 slug: "booth-and-the-bad-angel-13610947"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "No Man's Sky: Music For An Infinite Universe"
 date: 2016-09-29T17:47:08.000000Z
 release_date: "2016-08-05"
 release_id: "9122927"
+apple_music_url: "https://music.apple.com/gb/album/no-mans-sky-music-for-an-infinite-universe-original/1745068019"
 slug: "no-man-s-sky-music-for-an-infinite-universe-9122927"
 hideSummary: true
 cover:

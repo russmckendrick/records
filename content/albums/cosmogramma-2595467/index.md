@@ -6,6 +6,7 @@ album_name: "Cosmogramma"
 date: 2020-08-01T12:53:14.000000Z
 release_date: "2010-05-03"
 release_id: "2595467"
+apple_music_url: "https://music.apple.com/gb/album/cosmogramma/367788829"
 slug: "cosmogramma-2595467"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Live"
 date: 2016-05-23T18:25:41.000000Z
 release_date: "2013-01-01"
 release_id: "7580911"
+apple_music_url: "https://music.apple.com/gb/album/status-quo-live/1443229508"
 slug: "live-7580911"
 hideSummary: true
 cover:

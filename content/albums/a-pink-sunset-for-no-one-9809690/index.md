@@ -6,6 +6,7 @@ album_name: "A Pink Sunset For No One"
 date: 2017-02-10T20:03:26.000000Z
 release_date: "2017-02-10"
 release_id: "9809690"
+apple_music_url: "https://music.apple.com/gb/album/a-pink-sunset-for-no-one/1668273418"
 slug: "a-pink-sunset-for-no-one-9809690"
 hideSummary: true
 cover:

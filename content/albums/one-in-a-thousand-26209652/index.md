@@ -6,6 +6,7 @@ album_name: "One In A Thousand"
 date: 2023-03-01T04:35:54.000000Z
 release_date: "2023-02-24"
 release_id: "26209652"
+apple_music_url: "https://music.apple.com/gb/album/one-in-a-thousand/1671552108"
 slug: "one-in-a-thousand-26209652"
 hideSummary: true
 cover:

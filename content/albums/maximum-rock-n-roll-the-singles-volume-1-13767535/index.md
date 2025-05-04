@@ -6,6 +6,7 @@ album_name: "Maximum Rock 'N' Roll The Singles Volume 1 "
 date: 2019-06-16T21:51:10.000000Z
 release_date: "2019-05-24"
 release_id: "13767535"
+apple_music_url: "https://music.apple.com/gb/album/maximum-rock-n-roll-the-singles-remastered/1459271784"
 slug: "maximum-rock-n-roll-the-singles-volume-1-13767535"
 hideSummary: true
 cover:

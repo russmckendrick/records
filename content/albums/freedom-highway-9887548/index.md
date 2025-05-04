@@ -6,6 +6,7 @@ album_name: "Freedom Highway"
 date: 2017-02-25T09:16:56.000000Z
 release_date: "2017-02-13"
 release_id: "9887548"
+apple_music_url: "https://music.apple.com/gb/album/freedom-highway/1179556528"
 slug: "freedom-highway-9887548"
 hideSummary: true
 cover:

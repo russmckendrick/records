@@ -6,6 +6,7 @@ album_name: "Population Four"
 date: 2020-08-21T05:57:24.000000Z
 release_date: "1996"
 release_id: "15796529"
+apple_music_url: "https://music.apple.com/gb/album/population-four/1676102669"
 slug: "population-four-15796529"
 hideSummary: true
 cover:

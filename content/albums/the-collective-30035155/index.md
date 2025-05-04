@@ -6,6 +6,7 @@ album_name: "The Collective"
 date: 2024-03-12T12:44:10.000000Z
 release_date: "2024-03-08"
 release_id: "30035155"
+apple_music_url: "https://music.apple.com/gb/album/the-collective/1719712035"
 slug: "the-collective-30035155"
 hideSummary: true
 cover:

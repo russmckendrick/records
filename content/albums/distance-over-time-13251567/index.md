@@ -6,6 +6,7 @@ album_name: "Distance Over Time"
 date: 2019-02-22T18:15:05.000000Z
 release_date: "2013-09-18"
 release_id: "13251567"
+apple_music_url: "https://music.apple.com/gb/album/dream-theater/676891642"
 slug: "distance-over-time-13251567"
 hideSummary: true
 cover:

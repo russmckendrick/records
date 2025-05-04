@@ -6,6 +6,7 @@ album_name: "Pure Air"
 date: 2017-05-25T18:36:52.000000Z
 release_date: "2009-01-30"
 release_id: "10280655"
+apple_music_url: "https://music.apple.com/gb/album/pure-air/1769677781"
 slug: "pure-air-10280655"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Extreme"
 date: 2021-03-11T10:22:48.000000Z
 release_date: "2013-04-01"
 release_id: "16250003"
+apple_music_url: "https://music.apple.com/gb/album/extreme/1443480877"
 slug: "extreme-16250003"
 hideSummary: true
 cover:

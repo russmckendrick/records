@@ -6,6 +6,7 @@ album_name: "Ellengæst"
 date: 2020-10-08T20:31:44.000000Z
 release_date: "2020-10-09"
 release_id: "16022505"
+apple_music_url: "https://music.apple.com/gb/album/elleng%C3%A6st/1524581300"
 slug: "ellengst-16022505"
 hideSummary: true
 cover:

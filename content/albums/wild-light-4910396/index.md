@@ -6,6 +6,7 @@ album_name: "Wild Light"
 date: 2015-09-25T17:24:57.000000Z
 release_date: "2013-10-29"
 release_id: "4910396"
+apple_music_url: "https://music.apple.com/gb/album/wild-light/1045712161"
 slug: "wild-light-4910396"
 hideSummary: true
 cover:

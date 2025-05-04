@@ -6,6 +6,7 @@ album_name: "Swell"
 date: 2022-04-01T04:47:24.000000Z
 release_date: "2021-09-06"
 release_id: "22720439"
+apple_music_url: "https://music.apple.com/gb/album/swell-digital/1571562583"
 slug: "swell-22720439"
 hideSummary: true
 cover:

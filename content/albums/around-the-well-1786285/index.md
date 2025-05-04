@@ -6,6 +6,7 @@ album_name: "Around The Well"
 date: 2021-08-13T05:36:11.000000Z
 release_date: "2009-05-19"
 release_id: "1786285"
+apple_music_url: "https://music.apple.com/gb/album/around-the-well-bonus-track-version/314988639"
 slug: "around-the-well-1786285"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Waiting"
 date: 2023-08-09T01:30:13.000000Z
 release_date: "1983-02-19"
 release_id: "27873642"
+apple_music_url: "https://music.apple.com/gb/album/waiting/1629177004"
 slug: "waiting-27873642"
 hideSummary: true
 cover:

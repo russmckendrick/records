@@ -6,6 +6,7 @@ album_name: "The Who Hits 50!"
 date: 2015-09-27T10:49:53.000000Z
 release_date: "2014-10-27"
 release_id: "6689853"
+apple_music_url: "https://music.apple.com/gb/album/the-who-hits-50/1454395225"
 slug: "the-who-hits-50-6689853"
 hideSummary: true
 cover:

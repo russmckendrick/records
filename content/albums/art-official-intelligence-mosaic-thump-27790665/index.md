@@ -6,6 +6,7 @@ album_name: "Art Official Intelligence: Mosaic Thump"
 date: 2023-09-16T00:47:42.000000Z
 release_date: "2000-08-08"
 release_id: "27790665"
+apple_music_url: "https://music.apple.com/gb/album/art-official-intelligence-mosaic-thump/1673761955"
 slug: "art-official-intelligence-mosaic-thump-27790665"
 hideSummary: true
 cover:

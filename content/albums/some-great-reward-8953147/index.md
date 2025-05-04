@@ -6,6 +6,7 @@ album_name: "Some Great Reward"
 date: 2017-02-15T18:28:47.000000Z
 release_date: "1984-09-24"
 release_id: "8953147"
+apple_music_url: "https://music.apple.com/gb/album/some-great-reward/665403327"
 slug: "some-great-reward-8953147"
 hideSummary: true
 cover:

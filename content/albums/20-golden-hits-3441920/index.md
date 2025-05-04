@@ -6,6 +6,7 @@ album_name: "20 Golden Hits"
 date: 2015-12-17T08:50:29.000000Z
 release_date: "2004-03-29"
 release_id: "3441920"
+apple_music_url: "https://music.apple.com/gb/album/willie-nelson-the-collection/762172426"
 slug: "20-golden-hits-3441920"
 hideSummary: true
 cover:

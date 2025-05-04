@@ -6,6 +6,7 @@ album_name: "There Is No Love In Fluorescent Light"
 date: 2017-11-07T18:42:01.000000Z
 release_date: "2017-10-13"
 release_id: "10994086"
+apple_music_url: "https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221"
 slug: "there-is-no-love-in-fluorescent-light-10994086"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ice Cream"
 date: 2023-10-16T13:34:51.000000Z
 release_date: "1997-01-01"
 release_id: "28613203"
+apple_music_url: "https://music.apple.com/gb/album/ice-cream/1649930900"
 slug: "ice-cream-28613203"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Banefyre"
 date: 2022-09-04T06:10:56.000000Z
 release_date: "2022-09-09"
 release_id: "24411629"
+apple_music_url: "https://music.apple.com/gb/album/banefyre/1616007627"
 slug: "banefyre-24411629"
 hideSummary: true
 cover:

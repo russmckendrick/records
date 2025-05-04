@@ -6,6 +6,7 @@ album_name: "Songbook"
 date: 2017-12-27T13:37:44.000000Z
 release_date: "2017-11-24"
 release_id: "11275632"
+apple_music_url: "https://music.apple.com/gb/album/songbook/1440909143"
 slug: "songbook-11275632"
 hideSummary: true
 cover:

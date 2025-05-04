@@ -6,6 +6,7 @@ album_name: "Highway 61 Revisited"
 date: 2016-10-26T16:18:35.000000Z
 release_date: "1965-08-30"
 release_id: "7764708"
+apple_music_url: "https://music.apple.com/gb/album/highway-61-revisited/201281514"
 slug: "highway-61-revisited-7764708"
 hideSummary: true
 cover:

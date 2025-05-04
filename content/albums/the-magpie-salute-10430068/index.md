@@ -6,6 +6,7 @@ album_name: "The Magpie Salute"
 date: 2017-07-02T11:14:23.000000Z
 release_date: "2017-06-09"
 release_id: "10430068"
+apple_music_url: "https://music.apple.com/gb/album/the-magpie-salute-live/1440905281"
 slug: "the-magpie-salute-10430068"
 hideSummary: true
 cover:

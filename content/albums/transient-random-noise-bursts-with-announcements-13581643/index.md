@@ -6,6 +6,7 @@ album_name: "Transient Random-Noise Bursts With Announcements"
 date: 2019-09-17T18:16:31.000000Z
 release_date: "1993-08-10"
 release_id: "13581643"
+apple_music_url: "https://music.apple.com/gb/album/transient-random-noise-bursts-with-announcements/1231426759"
 slug: "transient-random-noise-bursts-with-announcements-13581643"
 hideSummary: true
 cover:

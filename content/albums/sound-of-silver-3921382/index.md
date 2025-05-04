@@ -6,6 +6,7 @@ album_name: "Sound Of Silver"
 date: 2016-10-31T17:50:59.000000Z
 release_date: "2007-03-12"
 release_id: "3921382"
+apple_music_url: "https://music.apple.com/gb/album/sound-of-silver/742432549"
 slug: "sound-of-silver-3921382"
 hideSummary: true
 cover:

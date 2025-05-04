@@ -6,6 +6,7 @@ album_name: "Everything Is Wrong"
 date: 2018-01-26T20:03:24.000000Z
 release_date: "1995-03-14"
 release_id: "8577393"
+apple_music_url: "https://music.apple.com/gb/album/everything-is-wrong/1757584529"
 slug: "everything-is-wrong-8577393"
 hideSummary: true
 cover:

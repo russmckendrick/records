@@ -6,6 +6,7 @@ album_name: "Karmadrome / Eat Me! Drink Me! Love Me! Kill Me!"
 date: 2018-02-15T19:24:32.000000Z
 release_date: ""
 release_id: "938078"
+apple_music_url: ""
 slug: "karmadrome-eat-me-drink-me-love-me-kill-me-938078"
 hideSummary: true
 cover:

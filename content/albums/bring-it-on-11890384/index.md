@@ -6,6 +6,7 @@ album_name: "Bring It On"
 date: 2018-04-20T17:56:02.000000Z
 release_date: "1998-04-13"
 release_id: "11890384"
+apple_music_url: "https://music.apple.com/gb/album/bring-it-on-20th-anniversary-deluxe/1383478428"
 slug: "bring-it-on-11890384"
 hideSummary: true
 cover:

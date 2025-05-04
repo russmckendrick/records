@@ -6,6 +6,7 @@ album_name: "Quadrophenia"
 date: 2017-02-26T13:05:48.000000Z
 release_date: "1973"
 release_id: "3353094"
+apple_music_url: "https://music.apple.com/gb/album/quadrophenia-remastered/1442456941"
 slug: "quadrophenia-3353094"
 hideSummary: true
 cover:

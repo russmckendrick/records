@@ -6,6 +6,7 @@ album_name: "Frenzy"
 date: 2016-01-29T18:22:10.000000Z
 release_date: ""
 release_id: "2830392"
+apple_music_url: ""
 slug: "frenzy-2830392"
 hideSummary: true
 cover:

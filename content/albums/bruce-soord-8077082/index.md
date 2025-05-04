@@ -6,6 +6,7 @@ album_name: "Bruce Soord"
 date: 2016-02-17T18:14:48.000000Z
 release_date: "2015-11-27"
 release_id: "8077082"
+apple_music_url: "https://music.apple.com/gb/album/bruce-soord/1049319243"
 slug: "bruce-soord-8077082"
 hideSummary: true
 cover:

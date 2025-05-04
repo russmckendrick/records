@@ -6,6 +6,7 @@ album_name: "Colours Revisited"
 date: 2025-02-26T14:12:35.000000Z
 release_date: "2025-02-21"
 release_id: "33245673"
+apple_music_url: "https://music.apple.com/gb/album/colours-revisited/1770095951"
 slug: "colours-revisited-33245673"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Roots"
 date: 2022-06-28T12:34:23.000000Z
 release_date: "2024-09-26"
 release_id: "23720324"
+apple_music_url: "https://music.apple.com/gb/album/children-of-the-sun-single/1770009398"
 slug: "roots-23720324"
 hideSummary: true
 cover:

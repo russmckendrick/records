@@ -6,6 +6,7 @@ album_name: "Ride The Lightning"
 date: 2023-12-05T10:35:17.000000Z
 release_date: "2021-11-12"
 release_id: "29071198"
+apple_music_url: "https://music.apple.com/gb/album/ride-the-lightning-single/1592736234"
 slug: "ride-the-lightning-29071198"
 hideSummary: true
 cover:

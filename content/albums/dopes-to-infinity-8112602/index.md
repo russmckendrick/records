@@ -6,6 +6,7 @@ album_name: "Dopes To Infinity"
 date: 2016-02-17T18:14:14.000000Z
 release_date: "1995-01-01"
 release_id: "8112602"
+apple_music_url: "https://music.apple.com/gb/album/dopes-to-infinity/1713553022"
 slug: "dopes-to-infinity-8112602"
 hideSummary: true
 cover:

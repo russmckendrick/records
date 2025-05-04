@@ -6,6 +6,7 @@ album_name: "Born To Run"
 date: 2015-09-21T17:34:23.000000Z
 release_date: "1975-08-25"
 release_id: "1663765"
+apple_music_url: "https://music.apple.com/gb/album/born-to-run/310730204"
 slug: "born-to-run-1663765"
 hideSummary: true
 cover:

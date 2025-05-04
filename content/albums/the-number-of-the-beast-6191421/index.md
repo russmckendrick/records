@@ -6,6 +6,7 @@ album_name: "The Number Of The Beast"
 date: 2016-06-27T17:45:32.000000Z
 release_date: "1982-03-22"
 release_id: "6191421"
+apple_music_url: "https://music.apple.com/gb/album/the-number-of-the-beast/979953728"
 slug: "the-number-of-the-beast-6191421"
 hideSummary: true
 cover:

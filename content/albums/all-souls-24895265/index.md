@@ -6,6 +6,7 @@ album_name: "All Souls"
 date: 2022-10-22T00:36:35.000000Z
 release_date: "2022-10-21"
 release_id: "24895265"
+apple_music_url: "https://music.apple.com/gb/album/all-souls/1650831654"
 slug: "all-souls-24895265"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Second Brightest Star"
 date: 2017-06-24T15:07:53.000000Z
 release_date: "2017-07-14"
 release_id: "10470066"
+apple_music_url: "https://music.apple.com/gb/album/the-second-brightest-star/1252927599"
 slug: "the-second-brightest-star-10470066"
 hideSummary: true
 cover:

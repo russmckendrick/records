@@ -6,6 +6,7 @@ album_name: "Dry"
 date: 2020-07-31T11:26:12.000000Z
 release_date: "1992-03-02"
 release_id: "15641824"
+apple_music_url: "https://music.apple.com/gb/album/dry/1450131752"
 slug: "dry-15641824"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rock Action"
 date: 2022-05-17T07:06:08.000000Z
 release_date: "2001-04-30"
 release_id: "3969520"
+apple_music_url: "https://music.apple.com/gb/album/rock-action/273164911"
 slug: "rock-action-3969520"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Fragile"
 date: 2024-12-14T02:39:14.000000Z
 release_date: "1999-09-21"
 release_id: "26206514"
+apple_music_url: "https://music.apple.com/gb/album/the-fragile/1440836334"
 slug: "the-fragile-26206514"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ghost Town / Why? / Friday Night, Saturday Morning"
 date: 2022-03-21T06:19:54.000000Z
 release_date: "1981-12-06"
 release_id: "19008790"
+apple_music_url: "https://music.apple.com/gb/album/ghost-town-2021-remaster-ep/1629522569"
 slug: "ghost-town-why-friday-night-saturday-morning-19008790"
 hideSummary: true
 cover:

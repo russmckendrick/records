@@ -6,6 +6,7 @@ album_name: "Rendez-Vous"
 date: 2017-06-14T07:25:40.000000Z
 release_date: "2015-10-16"
 release_id: "228845"
+apple_music_url: "https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745"
 slug: "rendez-vous-228845"
 hideSummary: true
 cover:

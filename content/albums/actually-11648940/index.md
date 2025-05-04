@@ -6,6 +6,7 @@ album_name: "Actually"
 date: 2018-03-03T10:30:55.000000Z
 release_date: "1987-09-07"
 release_id: "11648940"
+apple_music_url: "https://music.apple.com/gb/album/actually-2018-remaster/1645128416"
 slug: "actually-11648940"
 hideSummary: true
 cover:

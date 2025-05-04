@@ -6,6 +6,7 @@ album_name: "Jar Of Flies"
 date: 2024-03-29T07:19:51.000000Z
 release_date: "1995-11-07"
 release_id: "30170624"
+apple_music_url: "https://music.apple.com/gb/album/alice-in-chains/158711724"
 slug: "jar-of-flies-30170624"
 hideSummary: true
 cover:

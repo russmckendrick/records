@@ -6,6 +6,7 @@ album_name: "All About Eve"
 date: 2018-10-24T11:38:47.000000Z
 release_date: "1988"
 release_id: "7972344"
+apple_music_url: "https://music.apple.com/gb/album/all-about-eve/1442969916"
 slug: "all-about-eve-7972344"
 hideSummary: true
 cover:

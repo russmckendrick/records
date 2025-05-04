@@ -6,6 +6,7 @@ album_name: "Another Great Record From The Damned: The Best Of The Damned"
 date: 2023-07-15T02:29:42.000000Z
 release_date: ""
 release_id: "27538179"
+apple_music_url: ""
 slug: "another-great-record-from-the-damned-the-best-of-the-damned-27538179"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sleepwalking"
 date: 2016-07-26T17:57:59.000000Z
 release_date: "1993-05-17"
 release_id: "2957250"
+apple_music_url: "https://music.apple.com/gb/album/sleepwalking/1629179702"
 slug: "sleepwalking-2957250"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Play: The B Sides"
 date: 2018-02-06T20:52:52.000000Z
 release_date: "1999-05-17"
 release_id: "11524019"
+apple_music_url: "https://music.apple.com/gb/album/play-the-b-sides/1445707052"
 slug: "play-the-b-sides-11524019"
 hideSummary: true
 cover:

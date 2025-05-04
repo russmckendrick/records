@@ -6,6 +6,7 @@ album_name: "Drop Dead Fred"
 date: 2023-06-16T03:55:39.000000Z
 release_date: "2023-04-25"
 release_id: "27392157"
+apple_music_url: "https://music.apple.com/gb/album/drop-dead-fred-single/1684517990"
 slug: "drop-dead-fred-27392157"
 hideSummary: true
 cover:

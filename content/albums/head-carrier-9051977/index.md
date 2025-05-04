@@ -6,6 +6,7 @@ album_name: "Head Carrier"
 date: 2016-10-03T14:28:07.000000Z
 release_date: "2016-09-30"
 release_id: "9051977"
+apple_music_url: "https://music.apple.com/gb/album/head-carrier/1589760454"
 slug: "head-carrier-9051977"
 hideSummary: true
 cover:

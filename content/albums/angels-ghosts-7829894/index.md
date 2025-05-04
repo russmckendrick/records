@@ -6,6 +6,7 @@ album_name: "Angels & Ghosts"
 date: 2015-12-19T11:36:54.000000Z
 release_date: "2015-10-23"
 release_id: "7829894"
+apple_music_url: "https://music.apple.com/gb/album/angels-ghosts/1037278178"
 slug: "angels-ghosts-7829894"
 hideSummary: true
 cover:

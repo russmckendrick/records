@@ -6,6 +6,7 @@ album_name: "Wildflower"
 date: 2016-07-25T16:20:24.000000Z
 release_date: "2016-07-08"
 release_id: "8751243"
+apple_music_url: "https://music.apple.com/gb/album/wildflower/1129264752"
 slug: "wildflower-8751243"
 hideSummary: true
 cover:

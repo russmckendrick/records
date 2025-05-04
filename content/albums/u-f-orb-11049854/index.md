@@ -6,6 +6,7 @@ album_name: "U.F.Orb"
 date: 2020-04-25T15:16:35.000000Z
 release_date: "1992-01-01"
 release_id: "11049854"
+apple_music_url: "https://music.apple.com/gb/album/u-f-orb/1443195868"
 slug: "u-f-orb-11049854"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Janis Joplin's Greatest Hits"
 date: 2017-11-24T18:41:18.000000Z
 release_date: "1973-06-22"
 release_id: "11176700"
+apple_music_url: "https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000"
 slug: "janis-joplin-s-greatest-hits-11176700"
 hideSummary: true
 cover:

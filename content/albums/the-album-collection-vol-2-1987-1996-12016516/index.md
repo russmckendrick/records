@@ -6,6 +6,7 @@ album_name: "The Album Collection Vol. 2, 1987-1996"
 date: 2018-05-18T14:13:45.000000Z
 release_date: ""
 release_id: "12016516"
+apple_music_url: ""
 slug: "the-album-collection-vol-2-1987-1996-12016516"
 hideSummary: true
 cover:

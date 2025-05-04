@@ -6,6 +6,7 @@ album_name: "ChangesOneBowie"
 date: 2016-05-20T19:02:02.000000Z
 release_date: "1976-05-20"
 release_id: "8518115"
+apple_music_url: "https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635"
 slug: "changesonebowie-8518115"
 hideSummary: true
 cover:

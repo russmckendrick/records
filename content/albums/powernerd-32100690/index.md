@@ -6,6 +6,7 @@ album_name: "PowerNerd"
 date: 2024-10-29T04:31:25.000000Z
 release_date: "2024-10-25"
 release_id: "32100690"
+apple_music_url: "https://music.apple.com/gb/album/powernerd/1761880363"
 slug: "powernerd-32100690"
 hideSummary: true
 cover:

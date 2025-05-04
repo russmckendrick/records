@@ -6,6 +6,7 @@ album_name: "Egyptology"
 date: 2022-11-02T03:25:00.000000Z
 release_date: "1997-06-17"
 release_id: "25017913"
+apple_music_url: "https://music.apple.com/gb/album/egyptology/710934487"
 slug: "egyptology-25017913"
 hideSummary: true
 cover:

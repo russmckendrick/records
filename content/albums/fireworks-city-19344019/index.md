@@ -6,6 +6,7 @@ album_name: "Fireworks City"
 date: 2022-09-18T04:24:47.000000Z
 release_date: "1998-01-01"
 release_id: "19344019"
+apple_music_url: "https://music.apple.com/gb/album/fireworks-city/1469551559"
 slug: "fireworks-city-19344019"
 hideSummary: true
 cover:

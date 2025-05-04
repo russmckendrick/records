@@ -6,6 +6,7 @@ album_name: "Mark Hollis"
 date: 2019-11-08T19:39:07.000000Z
 release_date: "1998-01-01"
 release_id: "14282355"
+apple_music_url: "https://music.apple.com/gb/album/mark-hollis/1444101871"
 slug: "mark-hollis-14282355"
 hideSummary: true
 cover:

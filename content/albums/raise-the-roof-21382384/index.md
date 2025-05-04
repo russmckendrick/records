@@ -6,6 +6,7 @@ album_name: "Raise The Roof"
 date: 2021-12-17T11:50:13.000000Z
 release_date: "2021-11-19"
 release_id: "21382384"
+apple_music_url: "https://music.apple.com/gb/album/raise-the-roof-deluxe-edition/1580054664"
 slug: "raise-the-roof-21382384"
 hideSummary: true
 cover:

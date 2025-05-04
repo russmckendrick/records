@@ -6,6 +6,7 @@ album_name: "The Studio Albums Collection"
 date: 2019-11-16T11:42:05.000000Z
 release_date: "1968-07-05"
 release_id: "12932189"
+apple_music_url: "https://music.apple.com/gb/album/creedence-clearwater-revival/1440944801"
 slug: "the-studio-albums-collection-12932189"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Make Me Young, Etc. "
 date: 2018-11-06T18:27:04.000000Z
 release_date: "2018-01-01"
 release_id: "12765567"
+apple_music_url: "https://music.apple.com/gb/album/make-me-young-etc/1575655883"
 slug: "make-me-young-etc-12765567"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Hannett's Electronic Recordings - Homage To Delia Derbyshire"
 date: 2017-09-01T18:42:21.000000Z
 release_date: "2017-08-11"
 release_id: "10764813"
+apple_music_url: "https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954"
 slug: "hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813"
 hideSummary: true
 cover:

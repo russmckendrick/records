@@ -6,6 +6,7 @@ album_name: "Skyscraper"
 date: 2016-02-29T18:16:24.000000Z
 release_date: "1988-01-26"
 release_id: "568606"
+apple_music_url: "https://music.apple.com/gb/album/skyscraper/302138810"
 slug: "skyscraper-568606"
 hideSummary: true
 cover:

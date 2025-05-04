@@ -6,6 +6,7 @@ album_name: "Pink Moon"
 date: 2016-08-09T16:31:12.000000Z
 release_date: "1972-02-25"
 release_id: "1890448"
+apple_music_url: "https://music.apple.com/gb/album/pink-moon/1567147188"
 slug: "pink-moon-1890448"
 hideSummary: true
 cover:

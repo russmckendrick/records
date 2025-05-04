@@ -6,6 +6,7 @@ album_name: "Live At Sin-é"
 date: 2018-04-21T11:03:08.000000Z
 release_date: "2007-05-22"
 release_id: "11893791"
+apple_music_url: "https://music.apple.com/gb/album/so-real-songs-from-jeff-buckley-expanded-edition/1476893546"
 slug: "live-at-sin-11893791"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Discipline"
 date: 2023-02-03T11:49:37.000000Z
 release_date: "1981-09-22"
 release_id: "12125596"
+apple_music_url: "https://music.apple.com/gb/album/discipline-expanded-edition/1090440045"
 slug: "discipline-12125596"
 hideSummary: true
 cover:

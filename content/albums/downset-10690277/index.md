@@ -6,6 +6,7 @@ album_name: "Downset."
 date: 2017-08-23T17:34:58.000000Z
 release_date: "1994-01-01"
 release_id: "10690277"
+apple_music_url: "https://music.apple.com/gb/album/downset/1443754337"
 slug: "downset-10690277"
 hideSummary: true
 cover:

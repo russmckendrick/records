@@ -6,6 +6,7 @@ album_name: "Tao Of The Dead"
 date: 2023-09-01T05:07:53.000000Z
 release_date: "2012-09-21"
 release_id: "28008831"
+apple_music_url: "https://music.apple.com/gb/album/tao-of-the-dead/1045211507"
 slug: "tao-of-the-dead-28008831"
 hideSummary: true
 cover:

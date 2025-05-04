@@ -6,6 +6,7 @@ album_name: "The Color Before The Sun"
 date: 2015-10-24T08:06:03.000000Z
 release_date: "2015-10-16"
 release_id: "7603029"
+apple_music_url: "https://music.apple.com/gb/album/the-color-before-the-sun/1030919924"
 slug: "the-color-before-the-sun-7603029"
 hideSummary: true
 cover:

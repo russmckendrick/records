@@ -6,6 +6,7 @@ album_name: "Cavalcade"
 date: 2021-05-29T07:43:10.000000Z
 release_date: "2021-05-28"
 release_id: "18869488"
+apple_music_url: "https://music.apple.com/gb/album/cavalcade/1556010645"
 slug: "cavalcade-18869488"
 hideSummary: true
 cover:

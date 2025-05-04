@@ -6,6 +6,7 @@ album_name: "Déjà Vu"
 date: 2021-05-14T09:52:07.000000Z
 release_date: "1969-05-29"
 release_id: "18715600"
+apple_music_url: "https://music.apple.com/gb/album/crosby-stills-nash/908303090"
 slug: "dj-vu-18715600"
 hideSummary: true
 cover:

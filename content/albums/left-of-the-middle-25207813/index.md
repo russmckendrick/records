@@ -6,6 +6,7 @@ album_name: "Left Of The Middle"
 date: 2023-04-09T09:12:06.000000Z
 release_date: "1997-11-24"
 release_id: "25207813"
+apple_music_url: "https://music.apple.com/gb/album/left-of-the-middle/263570526"
 slug: "left-of-the-middle-25207813"
 hideSummary: true
 cover:

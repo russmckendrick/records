@@ -6,6 +6,7 @@ album_name: "House Of Pain (Fine Malt Lyrics)"
 date: 2022-09-02T02:17:51.000000Z
 release_date: "1992-07-21"
 release_id: "24012683"
+apple_music_url: "https://music.apple.com/gb/album/house-of-pain-fine-malt-lyrics/1604628159"
 slug: "house-of-pain-fine-malt-lyrics-24012683"
 hideSummary: true
 cover:

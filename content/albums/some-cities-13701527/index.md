@@ -6,6 +6,7 @@ album_name: "Some Cities"
 date: 2019-06-03T17:51:04.000000Z
 release_date: "2005-01-01"
 release_id: "13701527"
+apple_music_url: "https://music.apple.com/gb/album/some-cities/724424013"
 slug: "some-cities-13701527"
 hideSummary: true
 cover:

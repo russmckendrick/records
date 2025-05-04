@@ -6,6 +6,7 @@ album_name: "Searching For The Young Soul Rebels"
 date: 2020-08-07T19:26:54.000000Z
 release_date: "1980-07"
 release_id: "5831017"
+apple_music_url: "https://music.apple.com/gb/album/searching-for-the-young-soul-rebels/742535835"
 slug: "searching-for-the-young-soul-rebels-5831017"
 hideSummary: true
 cover:

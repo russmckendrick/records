@@ -6,6 +6,7 @@ album_name: "Woodstock Sunday August 17, 1969"
 date: 2019-07-26T17:47:03.000000Z
 release_date: "2019-04-13"
 release_id: "13496948"
+apple_music_url: "https://music.apple.com/gb/album/woodstock-sunday-august-17-1969-live/1478440844"
 slug: "woodstock-sunday-august-17-1969-13496948"
 hideSummary: true
 cover:

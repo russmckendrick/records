@@ -6,6 +6,7 @@ album_name: "458489 A Sides"
 date: 2018-08-11T07:55:12.000000Z
 release_date: "1990"
 release_id: "12360118"
+apple_music_url: "https://music.apple.com/gb/album/45-84-89-a-sides/1025315700"
 slug: "458489-a-sides-12360118"
 hideSummary: true
 cover:

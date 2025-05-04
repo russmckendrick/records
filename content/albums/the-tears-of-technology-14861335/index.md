@@ -6,6 +6,7 @@ album_name: "The Tears Of Technology"
 date: 2020-03-05T19:43:25.000000Z
 release_date: "2013-12-02"
 release_id: "14861335"
+apple_music_url: "https://music.apple.com/gb/album/music-for-ballet-class-dance-with-margot-vol-8/787502368"
 slug: "the-tears-of-technology-14861335"
 hideSummary: true
 cover:

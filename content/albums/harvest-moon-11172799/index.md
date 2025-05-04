@@ -6,6 +6,7 @@ album_name: "Harvest Moon"
 date: 2017-12-02T15:18:15.000000Z
 release_date: "1992-11-02"
 release_id: "11172799"
+apple_music_url: "https://music.apple.com/gb/album/harvest-moon/72796976"
 slug: "harvest-moon-11172799"
 hideSummary: true
 cover:

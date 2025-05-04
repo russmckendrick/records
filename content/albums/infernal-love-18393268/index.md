@@ -6,6 +6,7 @@ album_name: "Infernal Love"
 date: 2022-01-07T10:25:31.000000Z
 release_date: "1995-01-01"
 release_id: "18393268"
+apple_music_url: "https://music.apple.com/gb/album/infernal-love/1443902937"
 slug: "infernal-love-18393268"
 hideSummary: true
 cover:

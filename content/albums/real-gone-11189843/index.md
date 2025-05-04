@@ -6,6 +6,7 @@ album_name: "Real Gone"
 date: 2018-01-22T19:17:14.000000Z
 release_date: "2004-10-05"
 release_id: "11189843"
+apple_music_url: "https://music.apple.com/gb/album/real-gone/1772300120"
 slug: "real-gone-11189843"
 hideSummary: true
 cover:

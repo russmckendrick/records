@@ -6,6 +6,7 @@ album_name: "Apricity"
 date: 2016-10-27T05:43:01.000000Z
 release_date: "2016-10-21"
 release_id: "9254219"
+apple_music_url: "https://music.apple.com/gb/album/apricity/1442241018"
 slug: "apricity-9254219"
 hideSummary: true
 cover:

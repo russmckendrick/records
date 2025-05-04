@@ -6,6 +6,7 @@ album_name: "Pony"
 date: 2020-04-23T11:52:07.000000Z
 release_date: "2020-08-14"
 release_id: "15159576"
+apple_music_url: "https://music.apple.com/gb/album/show-pony-ep/1514674249"
 slug: "pony-15159576"
 hideSummary: true
 cover:

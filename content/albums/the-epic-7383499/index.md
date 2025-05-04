@@ -6,6 +6,7 @@ album_name: "The Epic"
 date: 2016-03-26T15:16:51.000000Z
 release_date: "2017-01-06"
 release_id: "7383499"
+apple_music_url: "https://music.apple.com/gb/album/retrorespective-feat-kamasi-washington/1136327783"
 slug: "the-epic-7383499"
 hideSummary: true
 cover:

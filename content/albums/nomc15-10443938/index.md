@@ -6,6 +6,7 @@ album_name: "NOMC15"
 date: 2017-09-09T10:33:57.000000Z
 release_date: "2017-12-01"
 release_id: "10443938"
+apple_music_url: "https://music.apple.com/gb/album/nomc15-live/1296071973"
 slug: "nomc15-10443938"
 hideSummary: true
 cover:

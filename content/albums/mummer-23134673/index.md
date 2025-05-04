@@ -6,6 +6,7 @@ album_name: "Mummer"
 date: 2022-05-06T10:51:34.000000Z
 release_date: "1983-08-30"
 release_id: "23134673"
+apple_music_url: "https://music.apple.com/gb/album/mummer-bonus-track-version/723988748"
 slug: "mummer-23134673"
 hideSummary: true
 cover:

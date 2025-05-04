@@ -6,6 +6,7 @@ album_name: "Use Your Illusion I"
 date: 2016-06-21T16:39:10.000000Z
 release_date: "1991-09-17"
 release_id: "1544883"
+apple_music_url: "https://music.apple.com/gb/album/use-your-illusion-i/1440896026"
 slug: "use-your-illusion-i-1544883"
 hideSummary: true
 cover:

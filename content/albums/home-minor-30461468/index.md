@@ -6,6 +6,7 @@ album_name: "Home & Minor"
 date: 2024-04-21T03:10:49.000000Z
 release_date: ""
 release_id: "30461468"
+apple_music_url: ""
 slug: "home-minor-30461468"
 hideSummary: true
 cover:

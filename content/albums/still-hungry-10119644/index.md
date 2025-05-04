@@ -6,6 +6,7 @@ album_name: "Still Hungry"
 date: 2017-04-28T14:34:14.000000Z
 release_date: "2017-04-28"
 release_id: "10119644"
+apple_music_url: "https://music.apple.com/gb/album/still-hungry/1252039374"
 slug: "still-hungry-10119644"
 hideSummary: true
 cover:

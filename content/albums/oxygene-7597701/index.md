@@ -6,6 +6,7 @@ album_name: "Oxygene"
 date: 2015-12-28T14:08:01.000000Z
 release_date: "2002-01-01"
 release_id: "7597701"
+apple_music_url: "https://music.apple.com/gb/album/jean-michel-jarre-the-best/1484842714"
 slug: "oxygene-7597701"
 hideSummary: true
 cover:

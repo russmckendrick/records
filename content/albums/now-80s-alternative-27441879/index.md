@@ -6,6 +6,7 @@ album_name: "Now 80s Alternative"
 date: 2023-06-21T11:47:00.000000Z
 release_date: ""
 release_id: "27441879"
+apple_music_url: ""
 slug: "now-80s-alternative-27441879"
 hideSummary: true
 cover:

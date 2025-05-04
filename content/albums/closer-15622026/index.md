@@ -6,6 +6,7 @@ album_name: "Closer"
 date: 2020-07-17T12:19:11.000000Z
 release_date: "2008-03-24"
 release_id: "15622026"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-joy-division/275971005"
 slug: "closer-15622026"
 hideSummary: true
 cover:

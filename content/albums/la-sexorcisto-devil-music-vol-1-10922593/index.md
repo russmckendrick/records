@@ -6,6 +6,7 @@ album_name: "La Sexorcisto: Devil Music Vol. 1"
 date: 2017-10-13T18:11:28.000000Z
 release_date: "1992-03-17"
 release_id: "10922593"
+apple_music_url: "https://music.apple.com/gb/album/la-sexorcisto-devil-music-vol-1/1440905956"
 slug: "la-sexorcisto-devil-music-vol-1-10922593"
 hideSummary: true
 cover:

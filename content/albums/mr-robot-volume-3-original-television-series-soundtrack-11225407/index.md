@@ -6,6 +6,7 @@ album_name: "Mr. Robot: Volume 3 (Original Television Series Soundtrack)"
 date: 2017-12-02T20:16:29.000000Z
 release_date: "2017-06-09"
 release_id: "11225407"
+apple_music_url: "https://music.apple.com/gb/album/mr-robot-vol-3-original-television-series-soundtrack/1240417353"
 slug: "mr-robot-volume-3-original-television-series-soundtrack-11225407"
 hideSummary: true
 cover:

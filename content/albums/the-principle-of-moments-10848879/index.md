@@ -6,6 +6,7 @@ album_name: "The Principle Of Moments"
 date: 2020-08-01T12:51:24.000000Z
 release_date: "1983-07-11"
 release_id: "10848879"
+apple_music_url: "https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739"
 slug: "the-principle-of-moments-10848879"
 hideSummary: true
 cover:

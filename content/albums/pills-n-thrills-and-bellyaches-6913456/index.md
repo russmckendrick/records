@@ -6,6 +6,7 @@ album_name: "Pills 'N' Thrills And Bellyaches"
 date: 2016-04-30T15:22:27.000000Z
 release_date: "1990-10-05"
 release_id: "6913456"
+apple_music_url: "https://music.apple.com/gb/album/pills-n-thrills-and-bellyaches-remastered/1760421622"
 slug: "pills-n-thrills-and-bellyaches-6913456"
 hideSummary: true
 cover:

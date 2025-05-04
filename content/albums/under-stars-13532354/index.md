@@ -6,6 +6,7 @@ album_name: "Under Stars"
 date: 2019-04-26T12:43:07.000000Z
 release_date: "2023-08-20"
 release_id: "13532354"
+apple_music_url: "https://music.apple.com/gb/album/music-for-lonely-robots-and-fallen-stars-single/1704395851"
 slug: "under-stars-13532354"
 hideSummary: true
 cover:

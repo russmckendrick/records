@@ -6,6 +6,7 @@ album_name: "Dr. Feelgood"
 date: 2024-11-22T12:49:35.000000Z
 release_date: "1989-08-28"
 release_id: "32368842"
+apple_music_url: "https://music.apple.com/gb/album/dr-feelgood/1764395673"
 slug: "dr-feelgood-32368842"
 hideSummary: true
 cover:

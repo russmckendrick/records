@@ -6,6 +6,7 @@ album_name: "Modern Life Is Rubbish"
 date: 2016-04-30T15:20:51.000000Z
 release_date: "1993-05-10"
 release_id: "3773519"
+apple_music_url: "https://music.apple.com/gb/album/modern-life-is-rubbish/726407617"
 slug: "modern-life-is-rubbish-3773519"
 hideSummary: true
 cover:

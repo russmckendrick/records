@@ -6,6 +6,7 @@ album_name: "Pop Up Jim Bob"
 date: 2020-08-15T10:10:13.000000Z
 release_date: "2020-08-14"
 release_id: "15766080"
+apple_music_url: "https://music.apple.com/gb/album/pop-up-jim-bob/1511931898"
 slug: "pop-up-jim-bob-15766080"
 hideSummary: true
 cover:

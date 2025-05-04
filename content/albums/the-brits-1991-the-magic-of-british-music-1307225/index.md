@@ -6,6 +6,7 @@ album_name: "The Brits 1991 (The Magic Of British Music) "
 date: 2019-01-05T11:38:49.000000Z
 release_date: ""
 release_id: "1307225"
+apple_music_url: ""
 slug: "the-brits-1991-the-magic-of-british-music-1307225"
 hideSummary: true
 cover:

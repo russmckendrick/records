@@ -6,6 +6,7 @@ album_name: "The Real Folk Blues"
 date: 2016-04-30T15:22:06.000000Z
 release_date: "1967-01-01"
 release_id: "6663919"
+apple_music_url: "https://music.apple.com/gb/album/more-real-folk-blues/1444213729"
 slug: "the-real-folk-blues-6663919"
 hideSummary: true
 cover:

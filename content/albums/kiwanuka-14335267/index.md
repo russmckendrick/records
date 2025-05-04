@@ -6,6 +6,7 @@ album_name: "Kiwanuka"
 date: 2019-11-01T19:24:45.000000Z
 release_date: "2019-11-01"
 release_id: "14335267"
+apple_music_url: "https://music.apple.com/gb/album/kiwanuka/1474357932"
 slug: "kiwanuka-14335267"
 hideSummary: true
 cover:

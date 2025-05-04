@@ -6,6 +6,7 @@ album_name: "Bellybutton"
 date: 2016-02-11T19:06:02.000000Z
 release_date: "1990-07-27"
 release_id: "1839629"
+apple_music_url: "https://music.apple.com/gb/album/bellybutton/723693536"
 slug: "bellybutton-1839629"
 hideSummary: true
 cover:

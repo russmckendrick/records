@@ -6,6 +6,7 @@ album_name: "Octane Twisted"
 date: 2021-04-16T02:37:47.000000Z
 release_date: "2012-11-19"
 release_id: "18252976"
+apple_music_url: "https://music.apple.com/gb/album/octane-twisted-live/684102949"
 slug: "octane-twisted-18252976"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Charlatans"
 date: 2021-10-08T09:54:16.000000Z
 release_date: "1995-08-28"
 release_id: "20376190"
+apple_music_url: "https://music.apple.com/gb/album/the-charlatans/1136815128"
 slug: "the-charlatans-20376190"
 hideSummary: true
 cover:

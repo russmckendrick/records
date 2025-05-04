@@ -6,6 +6,7 @@ album_name: "1000 Forms Of Fear"
 date: 2024-09-30T07:05:12.000000Z
 release_date: "2014-07-04"
 release_id: "31105532"
+apple_music_url: "https://music.apple.com/gb/album/1000-forms-of-fear/883285498"
 slug: "1000-forms-of-fear-31105532"
 hideSummary: true
 cover:

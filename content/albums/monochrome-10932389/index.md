@@ -6,6 +6,7 @@ album_name: "Monochrome"
 date: 2017-10-14T10:09:24.000000Z
 release_date: "2017-10-13"
 release_id: "10932389"
+apple_music_url: "https://music.apple.com/gb/album/monochrome/1273863411"
 slug: "monochrome-10932389"
 hideSummary: true
 cover:

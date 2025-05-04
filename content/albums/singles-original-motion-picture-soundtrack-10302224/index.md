@@ -6,6 +6,7 @@ album_name: "Singles (Original Motion Picture Soundtrack)"
 date: 2017-05-19T08:39:36.000000Z
 release_date: ""
 release_id: "10302224"
+apple_music_url: ""
 slug: "singles-original-motion-picture-soundtrack-10302224"
 hideSummary: true
 cover:

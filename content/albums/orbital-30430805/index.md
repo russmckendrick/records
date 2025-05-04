@@ -6,6 +6,7 @@ album_name: "Orbital"
 date: 2024-04-20T07:59:40.000000Z
 release_date: "1993-01-01"
 release_id: "30430805"
+apple_music_url: "https://music.apple.com/gb/album/orbital-2/1320062319"
 slug: "orbital-30430805"
 hideSummary: true
 cover:

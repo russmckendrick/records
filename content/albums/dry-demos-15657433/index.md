@@ -6,6 +6,7 @@ album_name: "Dry - Demos"
 date: 2020-07-24T15:42:42.000000Z
 release_date: "1993-10-19"
 release_id: "15657433"
+apple_music_url: "https://music.apple.com/gb/album/dry-demos/1515280509"
 slug: "dry-demos-15657433"
 hideSummary: true
 cover:

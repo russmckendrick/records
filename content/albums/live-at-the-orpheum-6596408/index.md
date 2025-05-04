@@ -6,6 +6,7 @@ album_name: "Live At The Orpheum"
 date: 2015-08-09T08:49:54.000000Z
 release_date: "2015-01-13"
 release_id: "6596408"
+apple_music_url: "https://music.apple.com/gb/album/live-at-the-orpheum/950800441"
 slug: "live-at-the-orpheum-6596408"
 hideSummary: true
 cover:

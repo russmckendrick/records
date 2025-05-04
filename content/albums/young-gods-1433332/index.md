@@ -6,6 +6,7 @@ album_name: "Young Gods"
 date: 2016-04-04T21:20:19.000000Z
 release_date: "1991-01-01"
 release_id: "1433332"
+apple_music_url: "https://music.apple.com/gb/album/young-gods/1443369213"
 slug: "young-gods-1433332"
 hideSummary: true
 cover:

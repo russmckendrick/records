@@ -6,6 +6,7 @@ album_name: "Paranoid & Sunburnt"
 date: 2018-08-29T18:40:03.000000Z
 release_date: "1995"
 release_id: "3270870"
+apple_music_url: "https://music.apple.com/gb/album/paranoid-sunburnt/1726649156"
 slug: "paranoid-sunburnt-3270870"
 hideSummary: true
 cover:

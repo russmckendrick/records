@@ -6,6 +6,7 @@ album_name: "Boy Child - The Best Of 1967 - 1970"
 date: 2022-04-24T04:25:19.000000Z
 release_date: "1998-11-02"
 release_id: "22965146"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-1980-1990/1440894594"
 slug: "boy-child-the-best-of-1967-1970-22965146"
 hideSummary: true
 cover:

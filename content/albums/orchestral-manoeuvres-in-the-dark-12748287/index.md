@@ -6,6 +6,7 @@ album_name: "Orchestral Manoeuvres In The Dark"
 date: 2018-11-03T09:51:32.000000Z
 release_date: "1988-01-01"
 release_id: "12748287"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637"
 slug: "orchestral-manoeuvres-in-the-dark-12748287"
 hideSummary: true
 cover:

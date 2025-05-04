@@ -6,6 +6,7 @@ album_name: "The Rescue "
 date: 2019-08-16T17:14:07.000000Z
 release_date: "2023-03-03"
 release_id: "13992920"
+apple_music_url: "https://music.apple.com/gb/album/explosions-in-the-sky/1668189318"
 slug: "the-rescue-13992920"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "GP"
 date: 2015-08-10T18:29:09.000000Z
 release_date: "1974-01-01"
 release_id: "5886669"
+apple_music_url: "https://music.apple.com/gb/album/grievous-angel/304907551"
 slug: "gp-5886669"
 hideSummary: true
 cover:

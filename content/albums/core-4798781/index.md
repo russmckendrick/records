@@ -6,6 +6,7 @@ album_name: "Core"
 date: 2016-12-18T09:51:03.000000Z
 release_date: "2010-05-24"
 release_id: "4798781"
+apple_music_url: "https://music.apple.com/gb/album/stone-temple-pilots/365147150"
 slug: "core-4798781"
 hideSummary: true
 cover:

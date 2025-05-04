@@ -6,6 +6,7 @@ album_name: "Breakfast In America"
 date: 2017-06-08T17:53:12.000000Z
 release_date: "2012-09-18"
 release_id: "5030690"
+apple_music_url: "https://music.apple.com/gb/album/breakfast-in-america-single/588764133"
 slug: "breakfast-in-america-5030690"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Listen Without Prejudice Vol. 1"
 date: 2017-10-21T10:05:06.000000Z
 release_date: "1994-06-15"
 release_id: "9939004"
+apple_music_url: "https://music.apple.com/gb/album/listen-without-prejudice/1660745091"
 slug: "listen-without-prejudice-vol-1-9939004"
 hideSummary: true
 cover:

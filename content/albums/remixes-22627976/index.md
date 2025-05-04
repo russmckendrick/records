@@ -6,6 +6,7 @@ album_name: "Remixes"
 date: 2022-04-01T01:06:31.000000Z
 release_date: "2016-05-09"
 release_id: "22627976"
+apple_music_url: "https://music.apple.com/gb/album/for-the-kraftwerk-the-remixes-ep/1103311486"
 slug: "remixes-22627976"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Oceania"
 date: 2015-09-27T10:50:55.000000Z
 release_date: "2012-06-19"
 release_id: "3702725"
+apple_music_url: "https://music.apple.com/gb/album/oceania/720100109"
 slug: "oceania-3702725"
 hideSummary: true
 cover:

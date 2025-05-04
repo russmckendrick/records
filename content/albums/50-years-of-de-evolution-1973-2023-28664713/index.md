@@ -6,6 +6,7 @@ album_name: "50 Years Of De-Evolution (1973-2023)"
 date: 2023-10-21T23:55:46.000000Z
 release_date: ""
 release_id: "28664713"
+apple_music_url: ""
 slug: "50-years-of-de-evolution-1973-2023-28664713"
 hideSummary: true
 cover:

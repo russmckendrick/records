@@ -6,6 +6,7 @@ album_name: "Underwater"
 date: 2019-08-15T17:59:55.000000Z
 release_date: "2018-10-05"
 release_id: "13413825"
+apple_music_url: "https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805"
 slug: "underwater-13413825"
 hideSummary: true
 cover:

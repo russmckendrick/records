@@ -6,6 +6,7 @@ album_name: "Critical Thinking"
 date: 2025-02-15T00:59:33.000000Z
 release_date: "2025-02-14"
 release_id: "33138516"
+apple_music_url: "https://music.apple.com/gb/album/critical-thinking/1772744880"
 slug: "critical-thinking-33138516"
 hideSummary: true
 cover:

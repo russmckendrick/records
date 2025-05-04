@@ -6,6 +6,7 @@ album_name: "The Optimist"
 date: 2017-06-10T11:11:02.000000Z
 release_date: "2017-06-09"
 release_id: "10418247"
+apple_music_url: "https://music.apple.com/gb/album/the-optimist/1218795282"
 slug: "the-optimist-10418247"
 hideSummary: true
 cover:

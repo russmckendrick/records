@@ -6,6 +6,7 @@ album_name: "All Born Screaming"
 date: 2024-04-30T11:45:09.000000Z
 release_date: "2024-04-26"
 release_id: "30547978"
+apple_music_url: "https://music.apple.com/gb/album/all-born-screaming/1729549170"
 slug: "all-born-screaming-30547978"
 hideSummary: true
 cover:

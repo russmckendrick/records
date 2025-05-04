@@ -6,6 +6,7 @@ album_name: "Return To Ommadawn"
 date: 2017-02-05T12:26:24.000000Z
 release_date: "2017-01-20"
 release_id: "9679634"
+apple_music_url: "https://music.apple.com/gb/album/return-to-ommadawn/1440893253"
 slug: "return-to-ommadawn-9679634"
 hideSummary: true
 cover:

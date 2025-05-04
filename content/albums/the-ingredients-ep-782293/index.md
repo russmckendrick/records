@@ -6,6 +6,7 @@ album_name: "The Ingredients EP"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2008-09-03"
 release_id: "782293"
+apple_music_url: "https://music.apple.com/gb/album/shoot-the-neds/290408882"
 slug: "the-ingredients-ep-782293"
 hideSummary: true
 cover:

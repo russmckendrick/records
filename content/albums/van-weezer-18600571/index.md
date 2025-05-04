@@ -6,6 +6,7 @@ album_name: "Van Weezer"
 date: 2021-05-07T05:04:03.000000Z
 release_date: "2021-05-07"
 release_id: "18600571"
+apple_music_url: "https://music.apple.com/gb/album/van-weezer/1479227321"
 slug: "van-weezer-18600571"
 hideSummary: true
 cover:

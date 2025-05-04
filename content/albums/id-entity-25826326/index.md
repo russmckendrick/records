@@ -6,6 +6,7 @@ album_name: "ID.Entity"
 date: 2023-01-20T10:50:40.000000Z
 release_date: "2023-01-20"
 release_id: "25826326"
+apple_music_url: "https://music.apple.com/gb/album/id-entity/1647619910"
 slug: "id-entity-25826326"
 hideSummary: true
 cover:

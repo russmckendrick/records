@@ -6,6 +6,7 @@ album_name: "Oxymore"
 date: 2022-10-21T09:01:58.000000Z
 release_date: "2022-10-21"
 release_id: "24896663"
+apple_music_url: "https://music.apple.com/gb/album/oxymore/1631819443"
 slug: "oxymore-24896663"
 hideSummary: true
 cover:

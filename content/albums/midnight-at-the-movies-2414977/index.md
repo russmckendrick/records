@@ -6,6 +6,7 @@ album_name: "Midnight At The Movies"
 date: 2015-12-30T18:49:29.000000Z
 release_date: "2009-03-03"
 release_id: "2414977"
+apple_music_url: "https://music.apple.com/gb/album/midnight-at-the-movies/1700575415"
 slug: "midnight-at-the-movies-2414977"
 hideSummary: true
 cover:

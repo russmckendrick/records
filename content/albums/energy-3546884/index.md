@@ -6,6 +6,7 @@ album_name: "Energy"
 date: 2019-06-17T17:32:16.000000Z
 release_date: "2007-05-01"
 release_id: "3546884"
+apple_music_url: "https://music.apple.com/gb/album/operation-ivy-2007-remaster/1485043761"
 slug: "energy-3546884"
 hideSummary: true
 cover:

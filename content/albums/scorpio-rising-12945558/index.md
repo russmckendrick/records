@@ -6,6 +6,7 @@ album_name: "Scorpio Rising"
 date: 2018-12-19T19:50:11.000000Z
 release_date: "2003-06-17"
 release_id: "12945558"
+apple_music_url: "https://music.apple.com/gb/album/scorpio-rising/1187871169"
 slug: "scorpio-rising-12945558"
 hideSummary: true
 cover:

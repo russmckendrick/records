@@ -6,6 +6,7 @@ album_name: "Reality"
 date: 2016-02-17T18:14:35.000000Z
 release_date: "2003-09-15"
 release_id: "5509641"
+apple_music_url: "https://music.apple.com/gb/album/reality/1676545706"
 slug: "reality-5509641"
 hideSummary: true
 cover:

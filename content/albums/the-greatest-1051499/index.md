@@ -6,6 +6,7 @@ album_name: "The Greatest"
 date: 2017-02-02T17:47:22.000000Z
 release_date: "2005-01-01"
 release_id: "1051499"
+apple_music_url: "https://music.apple.com/gb/album/ian-brown-the-greatest/1445740062"
 slug: "the-greatest-1051499"
 hideSummary: true
 cover:

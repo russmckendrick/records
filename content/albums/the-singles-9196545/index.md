@@ -6,6 +6,7 @@ album_name: "The Singles"
 date: 2017-01-06T19:25:23.000000Z
 release_date: "2004-09-25"
 release_id: "9196545"
+apple_music_url: "https://music.apple.com/gb/album/love-songs/110687880"
 slug: "the-singles-9196545"
 hideSummary: true
 cover:

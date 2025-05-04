@@ -6,6 +6,7 @@ album_name: "Lumpy Gravy"
 date: 2017-04-02T13:02:12.000000Z
 release_date: "1968-05-13"
 release_id: "9489610"
+apple_music_url: "https://music.apple.com/gb/album/lumpy-gravy/1443184225"
 slug: "lumpy-gravy-9489610"
 hideSummary: true
 cover:

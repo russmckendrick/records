@@ -6,6 +6,7 @@ album_name: "The Universal Want"
 date: 2020-09-15T17:31:06.000000Z
 release_date: "2020-09-21"
 release_id: "15898397"
+apple_music_url: "https://music.apple.com/gb/album/the-universal-want/1519035396"
 slug: "the-universal-want-15898397"
 hideSummary: true
 cover:

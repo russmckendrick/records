@@ -6,6 +6,7 @@ album_name: "Who Do We Hate Today"
 date: 2021-08-23T05:10:06.000000Z
 release_date: "2021-08-20"
 release_id: "19932178"
+apple_music_url: "https://music.apple.com/gb/album/who-do-we-hate-today/1566592596"
 slug: "who-do-we-hate-today-19932178"
 hideSummary: true
 cover:

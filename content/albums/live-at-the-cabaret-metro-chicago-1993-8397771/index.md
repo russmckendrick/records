@@ -6,6 +6,7 @@ album_name: "Live At The Cabaret Metro - Chicago 1993"
 date: 2017-06-01T18:06:52.000000Z
 release_date: ""
 release_id: "8397771"
+apple_music_url: ""
 slug: "live-at-the-cabaret-metro-chicago-1993-8397771"
 hideSummary: true
 cover:

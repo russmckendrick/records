@@ -6,6 +6,7 @@ album_name: "Lowedges"
 date: 2023-07-28T05:34:58.000000Z
 release_date: "2003-01-01"
 release_id: "27760089"
+apple_music_url: "https://music.apple.com/gb/album/lowedges/290810534"
 slug: "lowedges-27760089"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Faithful"
 date: 2022-03-06T04:57:04.000000Z
 release_date: "1976-04"
 release_id: "1692998"
+apple_music_url: "https://music.apple.com/gb/album/faithful/1084189642"
 slug: "faithful-1692998"
 hideSummary: true
 cover:

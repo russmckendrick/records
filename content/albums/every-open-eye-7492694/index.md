@@ -6,6 +6,7 @@ album_name: "Every Open Eye"
 date: 2017-01-05T19:23:45.000000Z
 release_date: "2015-09-25"
 release_id: "7492694"
+apple_music_url: "https://music.apple.com/gb/album/every-open-eye/1440834051"
 slug: "every-open-eye-7492694"
 hideSummary: true
 cover:

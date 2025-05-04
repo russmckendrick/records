@@ -6,6 +6,7 @@ album_name: "Aftertones"
 date: 2019-01-19T10:36:24.000000Z
 release_date: "1975"
 release_id: "2037717"
+apple_music_url: "https://music.apple.com/gb/album/aftertones/1546946678"
 slug: "aftertones-2037717"
 hideSummary: true
 cover:

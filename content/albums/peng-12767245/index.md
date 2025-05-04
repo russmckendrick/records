@@ -6,6 +6,7 @@ album_name: "Peng!"
 date: 2018-11-09T19:15:17.000000Z
 release_date: "1992-05-26"
 release_id: "12767245"
+apple_music_url: "https://music.apple.com/gb/album/peng/311000701"
 slug: "peng-12767245"
 hideSummary: true
 cover:

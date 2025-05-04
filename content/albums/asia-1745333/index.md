@@ -6,6 +6,7 @@ album_name: "Asia"
 date: 2018-10-24T11:42:55.000000Z
 release_date: "2017-08-14"
 release_id: "1745333"
+apple_music_url: "https://music.apple.com/gb/album/asia-single/1257624979"
 slug: "asia-1745333"
 hideSummary: true
 cover:

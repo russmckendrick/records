@@ -6,6 +6,7 @@ album_name: "Leftism"
 date: 2017-05-05T17:25:36.000000Z
 release_date: "1995"
 release_id: "10236835"
+apple_music_url: "https://music.apple.com/gb/album/leftism/207071761"
 slug: "leftism-10236835"
 hideSummary: true
 cover:

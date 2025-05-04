@@ -6,6 +6,7 @@ album_name: "Welcome To The Beautiful South"
 date: 2018-02-02T07:57:58.000000Z
 release_date: "1989-01-01"
 release_id: "11493625"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-the-beautiful-south/1444032567"
 slug: "welcome-to-the-beautiful-south-11493625"
 hideSummary: true
 cover:

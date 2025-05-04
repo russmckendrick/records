@@ -6,6 +6,7 @@ album_name: "Psyence Fiction"
 date: 2019-02-03T19:27:49.000000Z
 release_date: "1998-08-24"
 release_id: "13111040"
+apple_music_url: "https://music.apple.com/gb/album/psyence-fiction/1667639546"
 slug: "psyence-fiction-13111040"
 hideSummary: true
 cover:

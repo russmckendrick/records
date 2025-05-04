@@ -6,6 +6,7 @@ album_name: "Night Raider"
 date: 2019-05-01T17:55:06.000000Z
 release_date: "2009"
 release_id: "13562794"
+apple_music_url: "https://music.apple.com/gb/album/night-raider-remastered/1458792311"
 slug: "night-raider-13562794"
 hideSummary: true
 cover:

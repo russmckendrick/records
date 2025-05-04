@@ -6,6 +6,7 @@ album_name: "De La Soul Is Dead"
 date: 2023-05-16T10:59:28.000000Z
 release_date: "1991-05-14"
 release_id: "26633132"
+apple_music_url: "https://music.apple.com/gb/album/de-la-soul-is-dead/1664602251"
 slug: "de-la-soul-is-dead-26633132"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Skinhead Moonstomp"
 date: 2023-04-03T04:19:31.000000Z
 release_date: "1969"
 release_id: "26519942"
+apple_music_url: "https://music.apple.com/gb/album/skinhead-moonstomp-deluxe-edition/1439468349"
 slug: "skinhead-moonstomp-26519942"
 hideSummary: true
 cover:

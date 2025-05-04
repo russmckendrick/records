@@ -6,6 +6,7 @@ album_name: "Killer Watts"
 date: 2020-08-02T13:31:24.000000Z
 release_date: ""
 release_id: "2179323"
+apple_music_url: ""
 slug: "killer-watts-2179323"
 hideSummary: true
 cover:

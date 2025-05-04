@@ -6,6 +6,7 @@ album_name: "Oczy Mlody"
 date: 2022-03-21T06:20:07.000000Z
 release_date: "2017-01-13"
 release_id: "9646592"
+apple_music_url: "https://music.apple.com/gb/album/oczy-mlody/1161698600"
 slug: "oczy-mlody-9646592"
 hideSummary: true
 cover:

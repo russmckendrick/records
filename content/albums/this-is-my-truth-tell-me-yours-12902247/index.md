@@ -6,6 +6,7 @@ album_name: "This Is My Truth Tell Me Yours"
 date: 2018-12-07T20:17:49.000000Z
 release_date: "1998-11-30"
 release_id: "12902247"
+apple_music_url: "https://music.apple.com/gb/album/this-is-my-truth-tell-me-yours/275147386"
 slug: "this-is-my-truth-tell-me-yours-12902247"
 hideSummary: true
 cover:

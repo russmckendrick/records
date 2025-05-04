@@ -6,6 +6,7 @@ album_name: "Skylarking"
 date: 2018-01-19T20:40:17.000000Z
 release_date: "1986-10-27"
 release_id: "8779259"
+apple_music_url: "https://music.apple.com/gb/album/skylarking-remastered/1440889477"
 slug: "skylarking-8779259"
 hideSummary: true
 cover:

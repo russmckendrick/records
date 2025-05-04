@@ -6,6 +6,7 @@ album_name: "Together We're Heavy"
 date: 2017-07-29T08:44:29.000000Z
 release_date: "2004-07-13"
 release_id: "5326625"
+apple_music_url: "https://music.apple.com/gb/album/together-were-heavy/903318414"
 slug: "together-we-re-heavy-5326625"
 hideSummary: true
 cover:

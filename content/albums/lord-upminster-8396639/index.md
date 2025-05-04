@@ -6,6 +6,7 @@ album_name: "Lord Upminster"
 date: 
 release_date: ""
 release_id: "8396639"
+apple_music_url: ""
 slug: "lord-upminster-8396639"
 hideSummary: true
 cover:

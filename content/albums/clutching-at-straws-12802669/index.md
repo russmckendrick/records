@@ -6,6 +6,7 @@ album_name: "Clutching At Straws"
 date: 2018-12-01T18:09:11.000000Z
 release_date: "1987-06-12"
 release_id: "12802669"
+apple_music_url: "https://music.apple.com/gb/album/clutching-at-straws/693411248"
 slug: "clutching-at-straws-12802669"
 hideSummary: true
 cover:

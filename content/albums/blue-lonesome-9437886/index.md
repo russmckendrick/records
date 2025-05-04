@@ -6,6 +6,7 @@ album_name: "Blue & Lonesome"
 date: 2017-02-11T14:53:32.000000Z
 release_date: "2020-12-04"
 release_id: "9437886"
+apple_music_url: "https://music.apple.com/gb/album/turning-blue-lonesome-ep/1541388163"
 slug: "blue-lonesome-9437886"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Lionheart"
 date: 2018-02-20T19:29:28.000000Z
 release_date: "1978-11-12"
 release_id: "426108"
+apple_music_url: "https://music.apple.com/gb/album/lionheart/697237542"
 slug: "lionheart-426108"
 hideSummary: true
 cover:

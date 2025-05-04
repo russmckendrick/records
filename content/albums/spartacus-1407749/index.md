@@ -6,6 +6,7 @@ album_name: "Spartacus"
 date: 2019-04-26T12:44:40.000000Z
 release_date: "1991-03-04"
 release_id: "1407749"
+apple_music_url: "https://music.apple.com/gb/album/spartacus/1446872921"
 slug: "spartacus-1407749"
 hideSummary: true
 cover:

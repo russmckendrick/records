@@ -6,6 +6,7 @@ album_name: "Two Against Nature"
 date: 2021-06-12T06:00:56.000000Z
 release_date: "2000-02-29"
 release_id: "18935413"
+apple_music_url: "https://music.apple.com/gb/album/two-against-nature/297597608"
 slug: "two-against-nature-18935413"
 hideSummary: true
 cover:

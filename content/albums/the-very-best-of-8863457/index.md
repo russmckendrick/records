@@ -6,6 +6,7 @@ album_name: "The Very Best Of"
 date: 2016-08-13T09:39:29.000000Z
 release_date: "1975-09-15"
 release_id: "8863457"
+apple_music_url: "https://music.apple.com/gb/album/daryl-hall-john-oates/217709553"
 slug: "the-very-best-of-8863457"
 hideSummary: true
 cover:

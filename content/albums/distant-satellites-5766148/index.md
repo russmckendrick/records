@@ -6,6 +6,7 @@ album_name: "Distant Satellites"
 date: 2015-09-21T18:54:18.000000Z
 release_date: "2014-06-04"
 release_id: "5766148"
+apple_music_url: "https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699"
 slug: "distant-satellites-5766148"
 hideSummary: true
 cover:

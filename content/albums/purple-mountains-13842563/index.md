@@ -6,6 +6,7 @@ album_name: "Purple Mountains"
 date: 2019-07-12T15:33:26.000000Z
 release_date: "2021-01-01"
 release_id: "13842563"
+apple_music_url: "https://music.apple.com/gb/album/purple-mountains-single/1642458507"
 slug: "purple-mountains-13842563"
 hideSummary: true
 cover:

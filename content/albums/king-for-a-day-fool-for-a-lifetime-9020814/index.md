@@ -6,6 +6,7 @@ album_name: "King For A Day Fool For A Lifetime"
 date: 2016-09-12T16:37:18.000000Z
 release_date: "1995-04-25"
 release_id: "9020814"
+apple_music_url: "https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815"
 slug: "king-for-a-day-fool-for-a-lifetime-9020814"
 hideSummary: true
 cover:

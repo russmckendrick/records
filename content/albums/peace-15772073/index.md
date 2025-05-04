@@ -6,6 +6,7 @@ album_name: "Peace"
 date: 2020-08-21T10:00:03.000000Z
 release_date: "1994"
 release_id: "15772073"
+apple_music_url: "https://music.apple.com/gb/album/levellers-remastered/259322257"
 slug: "peace-15772073"
 hideSummary: true
 cover:

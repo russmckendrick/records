@@ -6,6 +6,7 @@ album_name: "The Ultra Vivid Lament"
 date: 2021-09-17T06:09:39.000000Z
 release_date: "2021-09-10"
 release_id: "20182972"
+apple_music_url: "https://music.apple.com/gb/album/the-ultra-vivid-lament-deluxe-edition/1566880553"
 slug: "the-ultra-vivid-lament-20182972"
 hideSummary: true
 cover:

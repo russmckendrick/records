@@ -6,6 +6,7 @@ album_name: "The Atlantic Years – In Mono"
 date: 2017-07-12T18:58:35.000000Z
 release_date: "2016-06-10"
 release_id: "8630183"
+apple_music_url: "https://music.apple.com/gb/album/the-atlantic-years-in-mono/1114657651"
 slug: "the-atlantic-years-in-mono-8630183"
 hideSummary: true
 cover:

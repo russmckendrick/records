@@ -6,6 +6,7 @@ album_name: "OK Computer OKNOTOK 1997 2017"
 date: 2017-06-27T18:06:32.000000Z
 release_date: "1997-06-16"
 release_id: "10229846"
+apple_music_url: "https://music.apple.com/gb/album/ok-computer-oknotok-1997-2017/1239489060"
 slug: "ok-computer-oknotok-1997-2017-10229846"
 hideSummary: true
 cover:

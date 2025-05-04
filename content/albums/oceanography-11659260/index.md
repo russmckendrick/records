@@ -6,6 +6,7 @@ album_name: "Oceanography"
 date: 2018-03-16T10:37:04.000000Z
 release_date: "2018-03-09"
 release_id: "11659260"
+apple_music_url: "https://music.apple.com/gb/album/oceanography/1327538873"
 slug: "oceanography-11659260"
 hideSummary: true
 cover:

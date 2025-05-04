@@ -6,6 +6,7 @@ album_name: "Buena Vista Social Club"
 date: 2022-10-19T07:22:38.000000Z
 release_date: "2014-10-06"
 release_id: "20165404"
+apple_music_url: "https://music.apple.com/gb/album/buena-vista-social-club-presents/1474826904"
 slug: "buena-vista-social-club-20165404"
 hideSummary: true
 cover:

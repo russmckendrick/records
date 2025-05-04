@@ -6,6 +6,7 @@ album_name: "Octopus"
 date: 2021-07-03T06:35:05.000000Z
 release_date: "1972-01-01"
 release_id: "15056299"
+apple_music_url: "https://music.apple.com/gb/album/octopus/1443562139"
 slug: "octopus-15056299"
 hideSummary: true
 cover:

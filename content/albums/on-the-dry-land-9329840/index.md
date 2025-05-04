@@ -6,6 +6,7 @@ album_name: "On The Dry Land"
 date: 2016-11-09T20:12:25.000000Z
 release_date: "2016-04-11"
 release_id: "9329840"
+apple_music_url: "https://music.apple.com/gb/album/on-the-dry-land/1177144029"
 slug: "on-the-dry-land-9329840"
 hideSummary: true
 cover:

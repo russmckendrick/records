@@ -6,6 +6,7 @@ album_name: "Utah Saints"
 date: 2024-10-22T10:20:04.000000Z
 release_date: "1992-01-01"
 release_id: "32024150"
+apple_music_url: "https://music.apple.com/gb/album/utah-saints/1320068334"
 slug: "utah-saints-32024150"
 hideSummary: true
 cover:

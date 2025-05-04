@@ -6,6 +6,7 @@ album_name: "Octave"
 date: 2017-05-27T15:32:26.000000Z
 release_date: "1974-10-08"
 release_id: "1660021"
+apple_music_url: "https://music.apple.com/gb/album/this-is-the-moody-blues/1440652559"
 slug: "octave-1660021"
 hideSummary: true
 cover:

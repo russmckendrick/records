@@ -6,6 +6,7 @@ album_name: "Bagsy Me"
 date: 2019-05-21T17:16:02.000000Z
 release_date: "1997"
 release_id: "13578946"
+apple_music_url: "https://music.apple.com/gb/album/bagsy-me/705302046"
 slug: "bagsy-me-13578946"
 hideSummary: true
 cover:

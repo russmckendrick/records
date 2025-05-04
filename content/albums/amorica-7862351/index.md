@@ -6,6 +6,7 @@ album_name: "Amorica"
 date: 2015-12-21T22:34:04.000000Z
 release_date: "1994-11-01"
 release_id: "7862351"
+apple_music_url: "https://music.apple.com/gb/album/amorica/1443919777"
 slug: "amorica-7862351"
 hideSummary: true
 cover:

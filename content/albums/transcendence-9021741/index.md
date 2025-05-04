@@ -6,6 +6,7 @@ album_name: "Transcendence"
 date: 2016-09-10T11:22:07.000000Z
 release_date: "2016-09-09"
 release_id: "9021741"
+apple_music_url: "https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195"
 slug: "transcendence-9021741"
 hideSummary: true
 cover:

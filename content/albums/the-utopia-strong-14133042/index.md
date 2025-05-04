@@ -6,6 +6,7 @@ album_name: "The Utopia Strong"
 date: 2019-09-15T11:57:37.000000Z
 release_date: "2019-09-13"
 release_id: "14133042"
+apple_music_url: "https://music.apple.com/gb/album/the-utopia-strong/1466902269"
 slug: "the-utopia-strong-14133042"
 hideSummary: true
 cover:

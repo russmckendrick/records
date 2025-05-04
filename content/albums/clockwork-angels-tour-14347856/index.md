@@ -6,6 +6,7 @@ album_name: "Clockwork Angels Tour"
 date: 2020-07-11T13:37:45.000000Z
 release_date: "2013-11-18"
 release_id: "14347856"
+apple_music_url: "https://music.apple.com/gb/album/clockwork-angels-tour-live/721246255"
 slug: "clockwork-angels-tour-14347856"
 hideSummary: true
 cover:

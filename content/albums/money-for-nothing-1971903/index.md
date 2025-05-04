@@ -6,6 +6,7 @@ album_name: "Money For Nothing"
 date: 2015-10-14T18:37:05.000000Z
 release_date: "2013-02-19"
 release_id: "1971903"
+apple_music_url: "https://music.apple.com/gb/album/money-for-nothing-ep/594723087"
 slug: "money-for-nothing-1971903"
 hideSummary: true
 cover:

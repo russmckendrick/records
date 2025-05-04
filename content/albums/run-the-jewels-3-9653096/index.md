@@ -6,6 +6,7 @@ album_name: "Run The Jewels 3"
 date: 2017-01-23T17:32:10.000000Z
 release_date: "2016-12-24"
 release_id: "9653096"
+apple_music_url: "https://music.apple.com/gb/album/run-the-jewels-3/1598920855"
 slug: "run-the-jewels-3-9653096"
 hideSummary: true
 cover:

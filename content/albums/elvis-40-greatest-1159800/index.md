@@ -6,6 +6,7 @@ album_name: "Elvis' 40 Greatest"
 date: 2016-01-08T19:12:12.000000Z
 release_date: "2000"
 release_id: "1159800"
+apple_music_url: "https://music.apple.com/gb/album/the-50-greatest-hits/1506073839"
 slug: "elvis-40-greatest-1159800"
 hideSummary: true
 cover:

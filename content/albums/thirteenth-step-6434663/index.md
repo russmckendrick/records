@@ -6,6 +6,7 @@ album_name: "Thirteenth Step"
 date: 2018-02-07T20:35:40.000000Z
 release_date: "2003-01-01"
 release_id: "6434663"
+apple_music_url: "https://music.apple.com/gb/album/thirteenth-step/723637755"
 slug: "thirteenth-step-6434663"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Piper At The Gates Of Dawn"
 date: 2018-04-21T11:16:54.000000Z
 release_date: "1967-08-05"
 release_id: "11888042"
+apple_music_url: "https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401"
 slug: "the-piper-at-the-gates-of-dawn-11888042"
 hideSummary: true
 cover:

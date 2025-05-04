@@ -6,6 +6,7 @@ album_name: "Odin's Raven Magic"
 date: 2020-12-05T04:48:27.000000Z
 release_date: "2020-12-04"
 release_id: "16306752"
+apple_music_url: "https://music.apple.com/gb/album/odins-raven-magic-with-steind%C3%B3r-andersen-hilmar-%C3%B6rn/1536156586"
 slug: "odin-s-raven-magic-16306752"
 hideSummary: true
 cover:

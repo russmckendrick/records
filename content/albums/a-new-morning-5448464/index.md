@@ -6,6 +6,7 @@ album_name: "A New Morning"
 date: 2016-10-01T10:34:25.000000Z
 release_date: "2011-06-27"
 release_id: "5448464"
+apple_music_url: "https://music.apple.com/gb/album/a-new-morning-remastered/435028329"
 slug: "a-new-morning-5448464"
 hideSummary: true
 cover:

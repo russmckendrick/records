@@ -6,6 +6,7 @@ album_name: "More Noise And Other Disturbances"
 date: 2020-08-14T20:57:18.000000Z
 release_date: "1992"
 release_id: "13348515"
+apple_music_url: "https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085"
 slug: "more-noise-and-other-disturbances-13348515"
 hideSummary: true
 cover:

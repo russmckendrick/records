@@ -6,6 +6,7 @@ album_name: "Fonzie Favorites"
 date: 2020-08-02T13:44:33.000000Z
 release_date: ""
 release_id: "1879249"
+apple_music_url: ""
 slug: "fonzie-favorites-1879249"
 hideSummary: true
 cover:

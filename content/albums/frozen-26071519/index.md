@@ -6,6 +6,7 @@ album_name: "Frozen"
 date: 2023-02-13T11:30:59.000000Z
 release_date: "2008-01-01"
 release_id: "26071519"
+apple_music_url: "https://music.apple.com/gb/album/chen-yi-karen-tanaka-invisible-curve/400843029"
 slug: "frozen-26071519"
 hideSummary: true
 cover:

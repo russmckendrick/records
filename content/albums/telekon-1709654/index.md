@@ -6,6 +6,7 @@ album_name: "Telekon"
 date: 2015-12-30T09:11:50.000000Z
 release_date: "1980-09-05"
 release_id: "1709654"
+apple_music_url: "https://music.apple.com/gb/album/telekon/251679821"
 slug: "telekon-1709654"
 hideSummary: true
 cover:

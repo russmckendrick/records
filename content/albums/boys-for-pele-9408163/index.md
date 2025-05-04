@@ -6,6 +6,7 @@ album_name: "Boys For Pele"
 date: 2017-05-19T08:38:18.000000Z
 release_date: "1996-01-22"
 release_id: "9408163"
+apple_music_url: "https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196"
 slug: "boys-for-pele-9408163"
 hideSummary: true
 cover:

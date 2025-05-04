@@ -6,6 +6,7 @@ album_name: "In The Land Of Grey And Pink"
 date: 2019-06-16T21:51:59.000000Z
 release_date: "1971-01-01"
 release_id: "13767699"
+apple_music_url: "https://music.apple.com/gb/album/in-the-land-of-grey-and-pink/1443216681"
 slug: "in-the-land-of-grey-and-pink-13767699"
 hideSummary: true
 cover:

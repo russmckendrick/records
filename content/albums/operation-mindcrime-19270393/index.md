@@ -6,6 +6,7 @@ album_name: "Operation: Mindcrime"
 date: 2021-06-25T08:52:27.000000Z
 release_date: "2006-04-03"
 release_id: "19270393"
+apple_music_url: "https://music.apple.com/gb/album/operation-mindcrime-ii/135141613"
 slug: "operation-mindcrime-19270393"
 hideSummary: true
 cover:

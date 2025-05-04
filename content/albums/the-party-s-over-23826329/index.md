@@ -6,6 +6,7 @@ album_name: "The Party's Over"
 date: 2022-07-15T10:58:15.000000Z
 release_date: "1982"
 release_id: "23826329"
+apple_music_url: "https://music.apple.com/gb/album/the-partys-over/697202581"
 slug: "the-party-s-over-23826329"
 hideSummary: true
 cover:

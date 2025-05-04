@@ -6,6 +6,7 @@ album_name: "The Platinum Collection"
 date: 2022-06-17T04:00:54.000000Z
 release_date: "2000-11-13"
 release_id: "23601854"
+apple_music_url: "https://music.apple.com/gb/album/the-platinum-collection/1440821736"
 slug: "the-platinum-collection-23601854"
 hideSummary: true
 cover:

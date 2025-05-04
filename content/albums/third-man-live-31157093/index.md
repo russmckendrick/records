@@ -6,6 +6,7 @@ album_name: "Third Man Live"
 date: 2024-07-08T04:08:41.000000Z
 release_date: "2016-09-09"
 release_id: "31157093"
+apple_music_url: "https://music.apple.com/gb/album/jack-white-acoustic-recordings-1998-2016/1141529624"
 slug: "third-man-live-31157093"
 hideSummary: true
 cover:

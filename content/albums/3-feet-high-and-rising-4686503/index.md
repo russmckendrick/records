@@ -6,6 +6,7 @@ album_name: "3 Feet High And Rising"
 date: 2015-08-09T08:37:44.000000Z
 release_date: "1989-03-03"
 release_id: "4686503"
+apple_music_url: "https://music.apple.com/gb/album/3-feet-high-and-rising/1673853423"
 slug: "3-feet-high-and-rising-4686503"
 hideSummary: true
 cover:

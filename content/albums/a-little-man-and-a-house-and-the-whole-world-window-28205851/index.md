@@ -6,6 +6,7 @@ album_name: "A Little Man And A House And The Whole World Window"
 date: 2023-11-02T11:11:26.000000Z
 release_date: "1988-01-01"
 release_id: "28205851"
+apple_music_url: "https://music.apple.com/gb/album/a-little-man-and-a-house-and-the-whole-world-window/336762275"
 slug: "a-little-man-and-a-house-and-the-whole-world-window-28205851"
 hideSummary: true
 cover:

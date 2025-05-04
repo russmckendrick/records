@@ -6,6 +6,7 @@ album_name: "Off The Wall"
 date: 2016-04-08T19:08:40.000000Z
 release_date: "1979-08-10"
 release_id: "3761228"
+apple_music_url: "https://music.apple.com/gb/album/off-the-wall/186166282"
 slug: "off-the-wall-3761228"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "A Love Of Shared Disasters"
 date: 2016-02-21T12:08:15.000000Z
 release_date: "2007-04-02"
 release_id: "7938549"
+apple_music_url: "https://music.apple.com/gb/album/a-love-of-shared-disasters/1183915604"
 slug: "a-love-of-shared-disasters-7938549"
 hideSummary: true
 cover:

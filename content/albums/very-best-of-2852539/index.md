@@ -6,6 +6,7 @@ album_name: "Very Best Of"
 date: 2017-05-04T21:09:51.000000Z
 release_date: "1998-01-01"
 release_id: "2852539"
+apple_music_url: "https://music.apple.com/gb/album/louise-morrissey-the-very-best-of/302314237"
 slug: "very-best-of-2852539"
 hideSummary: true
 cover:

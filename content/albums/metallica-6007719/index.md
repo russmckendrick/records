@@ -6,6 +6,7 @@ album_name: "Metallica"
 date: 2016-07-18T17:36:42.000000Z
 release_date: "1991-08-25"
 release_id: "6007719"
+apple_music_url: "https://music.apple.com/gb/album/metallica/1440833237"
 slug: "metallica-6007719"
 hideSummary: true
 cover:

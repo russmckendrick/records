@@ -6,6 +6,7 @@ album_name: "Genesis"
 date: 2024-08-27T10:58:31.000000Z
 release_date: "2021-02-15"
 release_id: "31586458"
+apple_music_url: "https://music.apple.com/gb/album/genesis-remastered/267976201"
 slug: "genesis-31586458"
 hideSummary: true
 cover:

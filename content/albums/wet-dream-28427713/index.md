@@ -6,6 +6,7 @@ album_name: "Wet Dream"
 date: 2023-09-29T06:39:45.000000Z
 release_date: "1978-05"
 release_id: "28427713"
+apple_music_url: "https://music.apple.com/gb/album/wet-dream-2023-remix/1693925254"
 slug: "wet-dream-28427713"
 hideSummary: true
 cover:

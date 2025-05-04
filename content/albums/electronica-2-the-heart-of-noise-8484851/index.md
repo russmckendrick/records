@@ -6,6 +6,7 @@ album_name: "Electronica 2 - The Heart Of Noise"
 date: 2018-01-26T20:02:54.000000Z
 release_date: "2016-05-06"
 release_id: "8484851"
+apple_music_url: "https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725"
 slug: "electronica-2-the-heart-of-noise-8484851"
 hideSummary: true
 cover:

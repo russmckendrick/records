@@ -6,6 +6,7 @@ album_name: "Drive"
 date: 2017-03-20T11:23:19.000000Z
 release_date: "2013-10-15"
 release_id: "8685067"
+apple_music_url: "https://music.apple.com/gb/album/drive/1045638252"
 slug: "drive-8685067"
 hideSummary: true
 cover:

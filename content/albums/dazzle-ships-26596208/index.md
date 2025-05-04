@@ -6,6 +6,7 @@ album_name: "Dazzle Ships"
 date: 2023-04-03T04:19:48.000000Z
 release_date: "1980-02-22"
 release_id: "26596208"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "dazzle-ships-26596208"
 hideSummary: true
 cover:

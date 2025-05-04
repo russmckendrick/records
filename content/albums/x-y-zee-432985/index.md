@@ -6,6 +6,7 @@ album_name: "X Y & Zee"
 date: 2018-02-15T19:24:32.000000Z
 release_date: ""
 release_id: "432985"
+apple_music_url: ""
 slug: "x-y-zee-432985"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Amnesiac"
 date: 2016-10-01T10:33:37.000000Z
 release_date: "2021-11-05"
 release_id: "8992372"
+apple_music_url: "https://music.apple.com/gb/album/kid-a-mnesia/1581785974"
 slug: "amnesiac-8992372"
 hideSummary: true
 cover:

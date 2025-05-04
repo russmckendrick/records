@@ -6,6 +6,7 @@ album_name: "Exciter"
 date: 2017-02-10T17:47:25.000000Z
 release_date: "2006-11-08"
 release_id: "9798727"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796"
 slug: "exciter-9798727"
 hideSummary: true
 cover:

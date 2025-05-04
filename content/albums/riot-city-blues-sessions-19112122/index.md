@@ -6,6 +6,7 @@ album_name: "Riot City Blues Sessions"
 date: 2021-06-18T04:51:13.000000Z
 release_date: "2006"
 release_id: "19112122"
+apple_music_url: "https://music.apple.com/gb/album/riot-city-blues-expanded-edition/482123564"
 slug: "riot-city-blues-sessions-19112122"
 hideSummary: true
 cover:

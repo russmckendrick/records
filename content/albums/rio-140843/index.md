@@ -6,6 +6,7 @@ album_name: "Rio"
 date: 2020-08-02T13:40:07.000000Z
 release_date: "1981-06-15"
 release_id: "140843"
+apple_music_url: "https://music.apple.com/gb/album/duran-duran-deluxe-edition/693607127"
 slug: "rio-140843"
 hideSummary: true
 cover:

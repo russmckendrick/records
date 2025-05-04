@@ -6,6 +6,7 @@ album_name: "A Flash Of Darkness"
 date: 2022-03-02T05:09:53.000000Z
 release_date: "2014-02-24"
 release_id: "5871313"
+apple_music_url: "https://music.apple.com/gb/album/a-flash-of-darkness/1152562936"
 slug: "a-flash-of-darkness-5871313"
 hideSummary: true
 cover:

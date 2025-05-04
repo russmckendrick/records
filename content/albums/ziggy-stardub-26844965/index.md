@@ -6,6 +6,7 @@ album_name: "Ziggy Stardub"
 date: 2023-04-23T04:38:33.000000Z
 release_date: "2023-04-21"
 release_id: "26844965"
+apple_music_url: "https://music.apple.com/gb/album/ziggy-stardub/1660346908"
 slug: "ziggy-stardub-26844965"
 hideSummary: true
 cover:

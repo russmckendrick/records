@@ -6,6 +6,7 @@ album_name: "The Best Years Of Our Lives"
 date: 2021-04-17T01:25:05.000000Z
 release_date: "1999-01-01"
 release_id: "18332692"
+apple_music_url: "https://music.apple.com/gb/album/the-cream-of-steve-harley-cockney-rebel/1629179059"
 slug: "the-best-years-of-our-lives-18332692"
 hideSummary: true
 cover:

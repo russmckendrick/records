@@ -6,6 +6,7 @@ album_name: "The Man Who Built America"
 date: 2020-08-02T13:30:43.000000Z
 release_date: "2009-08-21"
 release_id: "1704120"
+apple_music_url: "https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329"
 slug: "the-man-who-built-america-1704120"
 hideSummary: true
 cover:

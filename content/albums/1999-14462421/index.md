@@ -6,6 +6,7 @@ album_name: "1999"
 date: 2019-12-05T18:05:40.000000Z
 release_date: "1982-10-27"
 release_id: "14462421"
+apple_music_url: "https://music.apple.com/gb/album/1999/214145240"
 slug: "1999-14462421"
 hideSummary: true
 cover:

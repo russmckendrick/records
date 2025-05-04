@@ -6,6 +6,7 @@ album_name: "The Sophtware Slump .​.​.​.​. On A Wooden Piano"
 date: 2021-02-20T02:44:49.000000Z
 release_date: "2020-11-20"
 release_id: "17475412"
+apple_music_url: "https://music.apple.com/gb/album/the-sophtware-slump-on-a-wooden-piano/1527310709"
 slug: "the-sophtware-slump-on-a-wooden-piano-17475412"
 hideSummary: true
 cover:

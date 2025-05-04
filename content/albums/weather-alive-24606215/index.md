@@ -6,6 +6,7 @@ album_name: "Weather Alive"
 date: 2022-09-27T11:04:40.000000Z
 release_date: "2022-09-23"
 release_id: "24606215"
+apple_music_url: "https://music.apple.com/gb/album/weather-alive/1624041691"
 slug: "weather-alive-24606215"
 hideSummary: true
 cover:

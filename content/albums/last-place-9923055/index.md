@@ -6,6 +6,7 @@ album_name: "Last Place"
 date: 2017-03-04T17:55:14.000000Z
 release_date: "2017-03-03"
 release_id: "9923055"
+apple_music_url: "https://music.apple.com/gb/album/last-place/1719830818"
 slug: "last-place-9923055"
 hideSummary: true
 cover:

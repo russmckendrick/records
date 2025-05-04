@@ -6,6 +6,7 @@ album_name: "Magical Realism: The Best Of The Blue Aeroplanes 1985-2025"
 date: 2025-01-25T06:50:25.000000Z
 release_date: ""
 release_id: "32945502"
+apple_music_url: ""
 slug: "magical-realism-the-best-of-the-blue-aeroplanes-1985-2025-32945502"
 hideSummary: true
 cover:

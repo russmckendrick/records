@@ -6,6 +6,7 @@ album_name: "Leon"
 date: 2024-10-05T07:07:57.000000Z
 release_date: "2021-07-23"
 release_id: "31909705"
+apple_music_url: "https://music.apple.com/gb/album/leon/1760811064"
 slug: "leon-31909705"
 hideSummary: true
 cover:

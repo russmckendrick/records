@@ -6,6 +6,7 @@ album_name: "Bill Withers Live At Carnegie Hall"
 date: 2016-10-01T10:34:58.000000Z
 release_date: "1973-01-01"
 release_id: "3748571"
+apple_music_url: "https://music.apple.com/gb/album/live-at-carnegie-hall/203795472"
 slug: "bill-withers-live-at-carnegie-hall-3748571"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Singles (The U.A. Years+)"
 date: 2024-03-28T05:16:18.000000Z
 release_date: ""
 release_id: "19248733"
+apple_music_url: ""
 slug: "singles-the-u-a-years-19248733"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Murder Ballads"
 date: 2016-10-01T10:34:00.000000Z
 release_date: "2011-05-16"
 release_id: "6620802"
+apple_music_url: "https://music.apple.com/gb/album/murder-ballads-2011-remaster/1435815170"
 slug: "murder-ballads-6620802"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Music From The Film Captain Fantastic"
 date: 2016-11-17T17:25:52.000000Z
 release_date: "2016-07-08"
 release_id: "8757071"
+apple_music_url: "https://music.apple.com/gb/album/captain-fantastic-music-from-the-film/1116842051"
 slug: "music-from-the-film-captain-fantastic-8757071"
 hideSummary: true
 cover:

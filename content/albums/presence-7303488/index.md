@@ -6,6 +6,7 @@ album_name: "Presence"
 date: 2017-02-26T10:58:33.000000Z
 release_date: "1969-01-12"
 release_id: "7303488"
+apple_music_url: "https://music.apple.com/gb/album/led-zeppelin-remastered/580708520"
 slug: "presence-7303488"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Seven"
 date: 2017-12-16T14:59:41.000000Z
 release_date: "2011-05-07"
 release_id: "11285126"
+apple_music_url: "https://music.apple.com/gb/album/seven/1682618434"
 slug: "seven-11285126"
 hideSummary: true
 cover:

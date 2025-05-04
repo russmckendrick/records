@@ -6,6 +6,7 @@ album_name: "Here"
 date: 2016-09-12T16:36:50.000000Z
 release_date: "2016-09-09"
 release_id: "9023353"
+apple_music_url: "https://music.apple.com/gb/album/here/1125410429"
 slug: "here-9023353"
 hideSummary: true
 cover:

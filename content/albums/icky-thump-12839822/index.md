@@ -6,6 +6,7 @@ album_name: "Icky Thump"
 date: 2018-11-23T22:53:02.000000Z
 release_date: "1999-06-15"
 release_id: "12839822"
+apple_music_url: "https://music.apple.com/gb/album/the-white-stripes/1533513447"
 slug: "icky-thump-12839822"
 hideSummary: true
 cover:

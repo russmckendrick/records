@@ -6,6 +6,7 @@ album_name: "Sundew"
 date: 2016-04-04T21:20:19.000000Z
 release_date: "1991-01-01"
 release_id: "661808"
+apple_music_url: "https://music.apple.com/gb/album/sundew/714532688"
 slug: "sundew-661808"
 hideSummary: true
 cover:

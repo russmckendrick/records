@@ -6,6 +6,7 @@ album_name: "Animalize"
 date: 2017-05-27T15:33:10.000000Z
 release_date: "1984-09-17"
 release_id: "1378646"
+apple_music_url: "https://music.apple.com/gb/album/animalize/1442844700"
 slug: "animalize-1378646"
 hideSummary: true
 cover:

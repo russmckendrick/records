@@ -6,6 +6,7 @@ album_name: "You Are Here"
 date: 2023-11-07T05:58:29.000000Z
 release_date: "1997"
 release_id: "27539931"
+apple_music_url: "https://music.apple.com/gb/album/you-are-here/1518621700"
 slug: "you-are-here-27539931"
 hideSummary: true
 cover:

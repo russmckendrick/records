@@ -6,6 +6,7 @@ album_name: "Bivouac"
 date: 2023-10-01T03:57:00.000000Z
 release_date: "1991"
 release_id: "27712656"
+apple_music_url: "https://music.apple.com/gb/album/bivouac/1699663282"
 slug: "bivouac-27712656"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Elastica"
 date: 2017-11-22T20:15:07.000000Z
 release_date: "2009-10-15"
 release_id: "11175695"
+apple_music_url: "https://music.apple.com/gb/album/elastica-ep/335629816"
 slug: "elastica-11175695"
 hideSummary: true
 cover:

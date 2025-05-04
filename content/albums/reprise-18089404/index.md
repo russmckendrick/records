@@ -6,6 +6,7 @@ album_name: "Reprise"
 date: 2023-07-17T06:30:54.000000Z
 release_date: "2021-05-28"
 release_id: "18089404"
+apple_music_url: "https://music.apple.com/gb/album/reprise/1557914502"
 slug: "reprise-18089404"
 hideSummary: true
 cover:

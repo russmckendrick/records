@@ -6,6 +6,7 @@ album_name: "Silver Sun"
 date: 2022-12-10T03:33:33.000000Z
 release_date: "1997-10-14"
 release_id: "24926828"
+apple_music_url: "https://music.apple.com/gb/album/b-is-for-silver-sun/1518621330"
 slug: "silver-sun-24926828"
 hideSummary: true
 cover:

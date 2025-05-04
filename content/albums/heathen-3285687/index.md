@@ -6,6 +6,7 @@ album_name: "Heathen"
 date: 2015-10-28T18:50:59.000000Z
 release_date: "2002-06-10"
 release_id: "3285687"
+apple_music_url: "https://music.apple.com/gb/album/heathen/1677228660"
 slug: "heathen-3285687"
 hideSummary: true
 cover:

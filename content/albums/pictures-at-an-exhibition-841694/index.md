@@ -6,6 +6,7 @@ album_name: "Pictures At An Exhibition"
 date: 2017-01-25T18:25:24.000000Z
 release_date: "1970-10-01"
 release_id: "841694"
+apple_music_url: "https://music.apple.com/gb/album/emerson-lake-palmer/1528524799"
 slug: "pictures-at-an-exhibition-841694"
 hideSummary: true
 cover:

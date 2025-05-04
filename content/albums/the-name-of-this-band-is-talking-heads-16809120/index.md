@@ -6,6 +6,7 @@ album_name: "The Name Of This Band Is Talking Heads"
 date: 2021-01-23T07:52:11.000000Z
 release_date: "1982-03-24"
 release_id: "16809120"
+apple_music_url: "https://music.apple.com/gb/album/the-name-of-this-band-is-talking-heads-live-expanded-version/20917648"
 slug: "the-name-of-this-band-is-talking-heads-16809120"
 hideSummary: true
 cover:

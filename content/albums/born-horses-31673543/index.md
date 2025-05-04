@@ -6,6 +6,7 @@ album_name: "Born Horses"
 date: 2024-09-07T06:18:03.000000Z
 release_date: "2024-09-06"
 release_id: "31673543"
+apple_music_url: "https://music.apple.com/gb/album/born-horses/1745738049"
 slug: "born-horses-31673543"
 hideSummary: true
 cover:

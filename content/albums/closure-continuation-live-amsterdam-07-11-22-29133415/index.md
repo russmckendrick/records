@@ -6,6 +6,7 @@ album_name: "Closure / Continuation.Live. Amsterdam 07/11/22"
 date: 2023-12-14T10:31:25.000000Z
 release_date: "2023-12-08"
 release_id: "29133415"
+apple_music_url: "https://music.apple.com/gb/album/closure-continuation-live-amsterdam-07-11-22/1714270546"
 slug: "closure-continuation-live-amsterdam-07-11-22-29133415"
 hideSummary: true
 cover:

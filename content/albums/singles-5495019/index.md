@@ -6,6 +6,7 @@ album_name: "Singles"
 date: 2017-04-14T09:26:08.000000Z
 release_date: "2020-07-08"
 release_id: "5495019"
+apple_music_url: "https://music.apple.com/gb/album/for-sure-single/1519566622"
 slug: "singles-5495019"
 hideSummary: true
 cover:

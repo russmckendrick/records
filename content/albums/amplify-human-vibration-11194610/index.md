@@ -6,6 +6,7 @@ album_name: "Amplify Human Vibration"
 date: 2017-11-25T18:37:56.000000Z
 release_date: "2017-10-20"
 release_id: "11194610"
+apple_music_url: "https://music.apple.com/gb/album/amplify-human-vibration/1293775068"
 slug: "amplify-human-vibration-11194610"
 hideSummary: true
 cover:

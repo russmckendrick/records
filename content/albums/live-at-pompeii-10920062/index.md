@@ -6,6 +6,7 @@ album_name: "Live At Pompeii"
 date: 2017-09-29T17:27:50.000000Z
 release_date: "2017-09-29"
 release_id: "10920062"
+apple_music_url: "https://music.apple.com/gb/album/live-at-pompeii/1260000840"
 slug: "live-at-pompeii-10920062"
 hideSummary: true
 cover:

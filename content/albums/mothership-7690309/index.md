@@ -6,6 +6,7 @@ album_name: "Mothership"
 date: 2016-01-03T13:46:17.000000Z
 release_date: "1969-01-12"
 release_id: "7690309"
+apple_music_url: "https://music.apple.com/gb/album/led-zeppelin-remastered/580708520"
 slug: "mothership-7690309"
 hideSummary: true
 cover:

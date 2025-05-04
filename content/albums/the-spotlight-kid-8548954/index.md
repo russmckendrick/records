@@ -6,6 +6,7 @@ album_name: "The Spotlight Kid"
 date: 2016-09-05T12:30:40.000000Z
 release_date: "1971-11-05"
 release_id: "8548954"
+apple_music_url: "https://music.apple.com/gb/album/the-spotlight-kid/415006591"
 slug: "the-spotlight-kid-8548954"
 hideSummary: true
 cover:

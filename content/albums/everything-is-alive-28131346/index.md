@@ -6,6 +6,7 @@ album_name: "Everything Is Alive"
 date: 2023-09-01T09:21:34.000000Z
 release_date: "2023-09-01"
 release_id: "28131346"
+apple_music_url: "https://music.apple.com/gb/album/everything-is-alive/1688456129"
 slug: "everything-is-alive-28131346"
 hideSummary: true
 cover:

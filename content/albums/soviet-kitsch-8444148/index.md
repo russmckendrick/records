@@ -6,6 +6,7 @@ album_name: "Soviet Kitsch"
 date: 2017-06-08T17:52:10.000000Z
 release_date: "2004-08-17"
 release_id: "8444148"
+apple_music_url: "https://music.apple.com/gb/album/soviet-kitsch/20006406"
 slug: "soviet-kitsch-8444148"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dubber Side Of The Moon"
 date: 2017-12-17T12:21:19.000000Z
 release_date: "2010-10-26"
 release_id: "6664281"
+apple_music_url: "https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042"
 slug: "dubber-side-of-the-moon-6664281"
 hideSummary: true
 cover:

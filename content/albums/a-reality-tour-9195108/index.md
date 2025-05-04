@@ -6,6 +6,7 @@ album_name: "A Reality Tour"
 date: 2016-10-14T19:19:48.000000Z
 release_date: "2010-01-25"
 release_id: "9195108"
+apple_music_url: "https://music.apple.com/gb/album/a-reality-tour-live/1676509044"
 slug: "a-reality-tour-9195108"
 hideSummary: true
 cover:

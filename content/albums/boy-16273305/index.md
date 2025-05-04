@@ -6,6 +6,7 @@ album_name: "Boy"
 date: 2020-12-03T05:42:16.000000Z
 release_date: "1980-10-20"
 release_id: "16273305"
+apple_music_url: "https://music.apple.com/gb/album/boy/1443189101"
 slug: "boy-16273305"
 hideSummary: true
 cover:

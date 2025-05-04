@@ -6,6 +6,7 @@ album_name: "Queen Of Denmark"
 date: 2015-09-30T17:20:34.000000Z
 release_date: "2010-04-19"
 release_id: "2262071"
+apple_music_url: "https://music.apple.com/gb/album/queen-of-denmark/671954335"
 slug: "queen-of-denmark-2262071"
 hideSummary: true
 cover:

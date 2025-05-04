@@ -6,6 +6,7 @@ album_name: "The Rick And Morty Soundtrack"
 date: 2018-11-04T14:48:53.000000Z
 release_date: ""
 release_id: "12575433"
+apple_music_url: ""
 slug: "the-rick-and-morty-soundtrack-12575433"
 hideSummary: true
 cover:

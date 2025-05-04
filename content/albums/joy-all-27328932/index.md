@@ -6,6 +6,7 @@ album_name: "Joy'All"
 date: 2023-06-09T10:12:51.000000Z
 release_date: "2023-06-09"
 release_id: "27328932"
+apple_music_url: "https://music.apple.com/gb/album/joyall/1677437609"
 slug: "joy-all-27328932"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Countdown To Ecstasy"
 date: 2023-06-10T09:14:28.000000Z
 release_date: "1973-07-01"
 release_id: "27181434"
+apple_music_url: "https://music.apple.com/gb/album/countdown-to-ecstasy/1687587548"
 slug: "countdown-to-ecstasy-27181434"
 hideSummary: true
 cover:

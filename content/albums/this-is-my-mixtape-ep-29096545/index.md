@@ -6,6 +6,7 @@ album_name: "This Is My Mixtape EP"
 date: 2023-12-04T00:17:37.000000Z
 release_date: "2021-01-21"
 release_id: "29096545"
+apple_music_url: "https://music.apple.com/gb/album/covid-killa-mixtape-ep/1550326893"
 slug: "this-is-my-mixtape-ep-29096545"
 hideSummary: true
 cover:

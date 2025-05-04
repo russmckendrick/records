@@ -6,6 +6,7 @@ album_name: "American Pie"
 date: 2020-08-02T13:34:50.000000Z
 release_date: "1971-10-24"
 release_id: "1600806"
+apple_music_url: "https://music.apple.com/gb/album/american-pie/1440834532"
 slug: "american-pie-1600806"
 hideSummary: true
 cover:

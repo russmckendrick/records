@@ -6,6 +6,7 @@ album_name: "Life Won't Wait"
 date: 2018-08-25T12:50:23.000000Z
 release_date: "1998-06-30"
 release_id: "5888309"
+apple_music_url: "https://music.apple.com/gb/album/life-wont-wait/1485036889"
 slug: "life-won-t-wait-5888309"
 hideSummary: true
 cover:

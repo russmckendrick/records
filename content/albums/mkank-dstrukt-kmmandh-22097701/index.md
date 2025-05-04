@@ -6,6 +6,7 @@ album_name: "Mëkanïk Dëstruktïẁ Kömmandöh"
 date: 2022-03-14T09:03:55.000000Z
 release_date: "1973-01-01"
 release_id: "22097701"
+apple_music_url: "https://music.apple.com/gb/album/mekanik-destruktiw-kommandoh-2017-remastered-version/1534549783"
 slug: "mkank-dstrukt-kmmandh-22097701"
 hideSummary: true
 cover:

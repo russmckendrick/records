@@ -6,6 +6,7 @@ album_name: "Let It Bee"
 date: 2020-07-08T13:15:29.000000Z
 release_date: "1997-01-01"
 release_id: "14144170"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-voice-of-the-beehive/1320964157"
 slug: "let-it-bee-14144170"
 hideSummary: true
 cover:

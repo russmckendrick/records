@@ -6,6 +6,7 @@ album_name: "Come On Pilgrim... It's Surfer Rosa"
 date: 2018-09-28T11:59:21.000000Z
 release_date: ""
 release_id: "12571941"
+apple_music_url: ""
 slug: "come-on-pilgrim-it-s-surfer-rosa-12571941"
 hideSummary: true
 cover:

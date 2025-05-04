@@ -6,6 +6,7 @@ album_name: "Trailer Park"
 date: 2022-06-18T05:46:48.000000Z
 release_date: "1996-12-11"
 release_id: "23590796"
+apple_music_url: "https://music.apple.com/gb/album/trailer-park/281788574"
 slug: "trailer-park-23590796"
 hideSummary: true
 cover:

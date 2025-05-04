@@ -6,6 +6,7 @@ album_name: "Bat Out Of Hell"
 date: 2015-09-22T17:46:06.000000Z
 release_date: "1984"
 release_id: "1139385"
+apple_music_url: "https://music.apple.com/gb/album/hits-out-of-hell/950557238"
 slug: "bat-out-of-hell-1139385"
 hideSummary: true
 cover:

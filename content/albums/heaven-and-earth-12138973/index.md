@@ -6,6 +6,7 @@ album_name: "Heaven And Earth"
 date: 2018-06-23T08:48:59.000000Z
 release_date: "2018-06-22"
 release_id: "12138973"
+apple_music_url: "https://music.apple.com/gb/album/heaven-and-earth/1363033047"
 slug: "heaven-and-earth-12138973"
 hideSummary: true
 cover:

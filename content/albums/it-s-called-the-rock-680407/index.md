@@ -6,6 +6,7 @@ album_name: "It's Called The Rock"
 date: 2019-01-19T10:37:09.000000Z
 release_date: "1992-08-11"
 release_id: "680407"
+apple_music_url: "https://music.apple.com/gb/album/the-hits-of-edwin-starr/1434906447"
 slug: "it-s-called-the-rock-680407"
 hideSummary: true
 cover:

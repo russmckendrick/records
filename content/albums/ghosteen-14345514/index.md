@@ -6,6 +6,7 @@ album_name: "Ghosteen"
 date: 2019-12-25T11:28:59.000000Z
 release_date: "2019-10-03"
 release_id: "14345514"
+apple_music_url: "https://music.apple.com/gb/album/ghosteen/1479214340"
 slug: "ghosteen-14345514"
 hideSummary: true
 cover:

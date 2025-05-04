@@ -6,6 +6,7 @@ album_name: "Archives"
 date: 2016-03-09T18:39:33.000000Z
 release_date: "2024-02-19"
 release_id: "1644515"
+apple_music_url: "https://music.apple.com/gb/album/rush-single/1731911500"
 slug: "archives-1644515"
 hideSummary: true
 cover:

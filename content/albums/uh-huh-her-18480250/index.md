@@ -6,6 +6,7 @@ album_name: "Uh Huh Her"
 date: 2021-04-30T07:39:17.000000Z
 release_date: "2004-01-01"
 release_id: "18480250"
+apple_music_url: "https://music.apple.com/gb/album/uh-huh-her/1442242670"
 slug: "uh-huh-her-18480250"
 hideSummary: true
 cover:

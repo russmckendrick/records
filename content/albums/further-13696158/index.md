@@ -6,6 +6,7 @@ album_name: "Further"
 date: 2019-06-03T17:49:54.000000Z
 release_date: "2019-05-31"
 release_id: "13696158"
+apple_music_url: "https://music.apple.com/gb/album/further/1453685870"
 slug: "further-13696158"
 hideSummary: true
 cover:

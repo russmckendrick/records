@@ -6,6 +6,7 @@ album_name: "Shake Your Money Maker "
 date: 2021-03-05T12:00:44.000000Z
 release_date: "1990-02-13"
 release_id: "17580556"
+apple_music_url: "https://music.apple.com/gb/album/shake-your-money-maker/1440810644"
 slug: "shake-your-money-maker-17580556"
 hideSummary: true
 cover:

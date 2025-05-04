@@ -6,6 +6,7 @@ album_name: "The Hipsters"
 date: 2021-06-12T09:02:06.000000Z
 release_date: "2012-09-24"
 release_id: "5167648"
+apple_music_url: "https://music.apple.com/gb/album/the-hipsters/1598913322"
 slug: "the-hipsters-5167648"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Mass Hypnosis And The Dark Triad"
 date: 2021-07-27T03:06:16.000000Z
 release_date: "2020-08-21"
 release_id: "16863852"
+apple_music_url: "https://music.apple.com/gb/album/mass-hypnosis-and-the-dark-triad/1523722475"
 slug: "mass-hypnosis-and-the-dark-triad-16863852"
 hideSummary: true
 cover:

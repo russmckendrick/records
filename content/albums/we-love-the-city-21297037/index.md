@@ -6,6 +6,7 @@ album_name: "We Love The City"
 date: 2024-03-16T12:57:59.000000Z
 release_date: "2000-11-21"
 release_id: "21297037"
+apple_music_url: "https://music.apple.com/gb/album/we-love-the-city/1059196182"
 slug: "we-love-the-city-21297037"
 hideSummary: true
 cover:

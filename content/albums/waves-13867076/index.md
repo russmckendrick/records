@@ -6,6 +6,7 @@ album_name: "Waves"
 date: 2019-07-20T15:40:42.000000Z
 release_date: "2019-07-12"
 release_id: "13867076"
+apple_music_url: "https://music.apple.com/gb/album/waves/1726630973"
 slug: "waves-13867076"
 hideSummary: true
 cover:

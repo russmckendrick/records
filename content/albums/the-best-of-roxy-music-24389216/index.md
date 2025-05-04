@@ -6,6 +6,7 @@ album_name: "The Best Of Roxy Music"
 date: 2022-09-04T03:40:23.000000Z
 release_date: "2001-06-19"
 release_id: "24389216"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-roxy-music/724413368"
 slug: "the-best-of-roxy-music-24389216"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The New Abnormal"
 date: 2020-05-09T09:34:55.000000Z
 release_date: "2020-04-10"
 release_id: "15249054"
+apple_music_url: "https://music.apple.com/gb/album/the-new-abnormal/1498121188"
 slug: "the-new-abnormal-15249054"
 hideSummary: true
 cover:

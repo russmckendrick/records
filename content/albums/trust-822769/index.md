@@ -6,6 +6,7 @@ album_name: "Trust"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2007-05-01"
 release_id: "822769"
+apple_music_url: "https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462"
 slug: "trust-822769"
 hideSummary: true
 cover:

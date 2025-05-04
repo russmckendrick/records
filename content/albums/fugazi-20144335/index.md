@@ -6,6 +6,7 @@ album_name: "Fugazi"
 date: 2021-09-10T13:45:58.000000Z
 release_date: "2021-09-10"
 release_id: "20144335"
+apple_music_url: "https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656"
 slug: "fugazi-20144335"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "All The Old 45s - The Very Best Of Deacon Blue"
 date: 2023-09-03T09:28:35.000000Z
 release_date: "2009-03-02"
 release_id: "28160602"
+apple_music_url: "https://music.apple.com/gb/album/dignity-the-best-of-deacon-blue/306194825"
 slug: "all-the-old-45s-the-very-best-of-deacon-blue-28160602"
 hideSummary: true
 cover:

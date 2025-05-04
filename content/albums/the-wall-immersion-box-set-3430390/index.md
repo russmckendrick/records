@@ -6,6 +6,7 @@ album_name: "The Wall - Immersion Box Set"
 date: 2015-08-09T13:06:23.000000Z
 release_date: "2012-12-03"
 release_id: "3430390"
+apple_music_url: "https://music.apple.com/gb/album/the-wall-for-babies-the-complete-pink-floyd-the/590014388"
 slug: "the-wall-immersion-box-set-3430390"
 hideSummary: true
 cover:

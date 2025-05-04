@@ -6,6 +6,7 @@ album_name: "Unblackened"
 date: 2016-04-09T08:07:10.000000Z
 release_date: "2013-09-24"
 release_id: "6224254"
+apple_music_url: "https://music.apple.com/gb/album/unblackened-live/1504797619"
 slug: "unblackened-6224254"
 hideSummary: true
 cover:

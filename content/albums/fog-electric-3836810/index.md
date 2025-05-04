@@ -6,6 +6,7 @@ album_name: "Fog Electric"
 date: 2018-09-23T12:51:19.000000Z
 release_date: "2012-04-30"
 release_id: "3836810"
+apple_music_url: "https://music.apple.com/gb/album/fog-electric/674071038"
 slug: "fog-electric-3836810"
 hideSummary: true
 cover:

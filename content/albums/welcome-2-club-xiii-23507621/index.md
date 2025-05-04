@@ -6,6 +6,7 @@ album_name: "Welcome 2 Club XIII"
 date: 2022-06-14T07:41:21.000000Z
 release_date: "2022-06-03"
 release_id: "23507621"
+apple_music_url: "https://music.apple.com/gb/album/welcome-2-club-xiii/1617848474"
 slug: "welcome-2-club-xiii-23507621"
 hideSummary: true
 cover:

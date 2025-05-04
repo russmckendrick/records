@@ -6,6 +6,7 @@ album_name: "Comfort Eagle"
 date: 2023-09-28T10:18:12.000000Z
 release_date: "2001-07-24"
 release_id: "28256146"
+apple_music_url: "https://music.apple.com/gb/album/comfort-eagle/181630530"
 slug: "comfort-eagle-28256146"
 hideSummary: true
 cover:

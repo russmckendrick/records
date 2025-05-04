@@ -6,6 +6,7 @@ album_name: "6 Feet Deep"
 date: 2023-11-11T02:06:29.000000Z
 release_date: "2004-03-09"
 release_id: "28510360"
+apple_music_url: "https://music.apple.com/gb/album/6-feet-under/417897292"
 slug: "6-feet-deep-28510360"
 hideSummary: true
 cover:

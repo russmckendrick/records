@@ -6,6 +6,7 @@ album_name: "Mr Beast"
 date: 2020-06-24T11:44:05.000000Z
 release_date: "2006-03-05"
 release_id: "15504582"
+apple_music_url: "https://music.apple.com/gb/album/mr-beast/122960260"
 slug: "mr-beast-15504582"
 hideSummary: true
 cover:

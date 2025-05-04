@@ -6,6 +6,7 @@ album_name: "Live At The Apollo"
 date: 2020-08-01T12:45:09.000000Z
 release_date: "1975-09-15"
 release_id: "1389988"
+apple_music_url: "https://music.apple.com/gb/album/daryl-hall-john-oates/217709553"
 slug: "live-at-the-apollo-1389988"
 hideSummary: true
 cover:

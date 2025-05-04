@@ -6,6 +6,7 @@ album_name: "Memoirs Of A Madman"
 date: 2016-05-09T16:30:08.000000Z
 release_date: "2014-10-14"
 release_id: "6175350"
+apple_music_url: "https://music.apple.com/gb/album/memoirs-of-a-madman/911604105"
 slug: "memoirs-of-a-madman-6175350"
 hideSummary: true
 cover:

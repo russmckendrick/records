@@ -6,6 +6,7 @@ album_name: "Introduce Yourself"
 date: 2015-08-09T08:42:25.000000Z
 release_date: "1987-04"
 release_id: "652381"
+apple_music_url: "https://music.apple.com/gb/album/introduce-yourself/63819537"
 slug: "introduce-yourself-652381"
 hideSummary: true
 cover:

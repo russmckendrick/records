@@ -6,6 +6,7 @@ album_name: "Liquid Skin"
 date: 2019-07-15T18:01:30.000000Z
 release_date: "1999-01-01"
 release_id: "13875867"
+apple_music_url: "https://music.apple.com/gb/album/liquid-skin/724465168"
 slug: "liquid-skin-13875867"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Being Frank: The Chris Sievey Story"
 date: 2019-03-30T11:12:54.000000Z
 release_date: ""
 release_id: "13418323"
+apple_music_url: ""
 slug: "being-frank-the-chris-sievey-story-13418323"
 hideSummary: true
 cover:

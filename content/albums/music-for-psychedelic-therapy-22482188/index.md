@@ -6,6 +6,7 @@ album_name: "Music For Psychedelic Therapy"
 date: 2022-03-28T02:43:39.000000Z
 release_date: "2021-11-12"
 release_id: "22482188"
+apple_music_url: "https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605"
 slug: "music-for-psychedelic-therapy-22482188"
 hideSummary: true
 cover:

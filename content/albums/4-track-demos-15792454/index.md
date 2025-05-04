@@ -6,6 +6,7 @@ album_name: "4-Track Demos"
 date: 2020-08-22T07:50:11.000000Z
 release_date: "1993-01-01"
 release_id: "15792454"
+apple_music_url: "https://music.apple.com/gb/album/4-track-demos/1443834026"
 slug: "4-track-demos-15792454"
 hideSummary: true
 cover:

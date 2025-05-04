@@ -6,6 +6,7 @@ album_name: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
 date: 2020-01-26T14:56:22.000000Z
 release_date: ""
 release_id: "14465350"
+apple_music_url: ""
 slug: "jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350"
 hideSummary: true
 cover:

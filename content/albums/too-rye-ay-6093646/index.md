@@ -6,6 +6,7 @@ album_name: "Too-Rye-Ay"
 date: 2018-04-24T05:53:52.000000Z
 release_date: "1982-08-01"
 release_id: "6093646"
+apple_music_url: "https://music.apple.com/gb/album/too-rye-ay/1442968287"
 slug: "too-rye-ay-6093646"
 hideSummary: true
 cover:

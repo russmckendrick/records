@@ -6,6 +6,7 @@ album_name: "As The Love Continues"
 date: 2021-02-19T00:46:47.000000Z
 release_date: "2021-02-19"
 release_id: "17472106"
+apple_music_url: "https://music.apple.com/gb/album/as-the-love-continues/1535337264"
 slug: "as-the-love-continues-17472106"
 hideSummary: true
 cover:

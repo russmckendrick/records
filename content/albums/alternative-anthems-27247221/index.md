@@ -6,6 +6,7 @@ album_name: "Alternative Anthems"
 date: 2023-06-03T02:08:47.000000Z
 release_date: ""
 release_id: "27247221"
+apple_music_url: ""
 slug: "alternative-anthems-27247221"
 hideSummary: true
 cover:

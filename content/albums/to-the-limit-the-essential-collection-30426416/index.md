@@ -6,6 +6,7 @@ album_name: "To The Limit - The Essential Collection"
 date: 2024-04-25T05:48:36.000000Z
 release_date: "2024-04-12"
 release_id: "30426416"
+apple_music_url: "https://music.apple.com/gb/album/to-the-limit-the-essential-collection/1729268430"
 slug: "to-the-limit-the-essential-collection-30426416"
 hideSummary: true
 cover:

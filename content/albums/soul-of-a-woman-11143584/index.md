@@ -6,6 +6,7 @@ album_name: "Soul Of A Woman"
 date: 2017-11-18T09:00:48.000000Z
 release_date: "2002-05-14"
 release_id: "11143584"
+apple_music_url: "https://music.apple.com/gb/album/dap-dippin-with-sharon-jones-and-the-dap-kings/1485030029"
 slug: "soul-of-a-woman-11143584"
 hideSummary: true
 cover:

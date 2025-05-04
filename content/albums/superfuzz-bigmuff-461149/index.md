@@ -6,6 +6,7 @@ album_name: "Superfuzz Bigmuff"
 date: 2019-08-23T14:14:24.000000Z
 release_date: "1988-10-20"
 release_id: "461149"
+apple_music_url: "https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941"
 slug: "superfuzz-bigmuff-461149"
 hideSummary: true
 cover:

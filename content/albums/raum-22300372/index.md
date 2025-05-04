@@ -6,6 +6,7 @@ album_name: "Raum"
 date: 2022-02-28T12:27:43.000000Z
 release_date: "2022-02-25"
 release_id: "22300372"
+apple_music_url: "https://music.apple.com/gb/album/raum/1599337918"
 slug: "raum-22300372"
 hideSummary: true
 cover:

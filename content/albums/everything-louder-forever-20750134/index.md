@@ -6,6 +6,7 @@ album_name: "Everything Louder Forever"
 date: 2022-05-05T10:19:59.000000Z
 release_date: "2021-10-29"
 release_id: "20750134"
+apple_music_url: "https://music.apple.com/gb/album/everything-louder-forever-the-very-best-of/1591621148"
 slug: "everything-louder-forever-20750134"
 hideSummary: true
 cover:

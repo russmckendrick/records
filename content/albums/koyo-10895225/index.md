@@ -6,6 +6,7 @@ album_name: "Koyo"
 date: 2017-09-23T11:29:08.000000Z
 release_date: "2023-08-04"
 release_id: "10895225"
+apple_music_url: "https://music.apple.com/gb/album/koyo-koyo/1699850474"
 slug: "koyo-10895225"
 hideSummary: true
 cover:

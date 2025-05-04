@@ -6,6 +6,7 @@ album_name: "In Our Bedroom After The War"
 date: 2015-09-30T18:06:25.000000Z
 release_date: "2007-09-25"
 release_id: "2095142"
+apple_music_url: "https://music.apple.com/gb/album/in-our-bedroom-after-the-war/1599768437"
 slug: "in-our-bedroom-after-the-war-2095142"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Parade"
 date: 2016-09-12T16:37:06.000000Z
 release_date: "1987-03-30"
 release_id: "8955563"
+apple_music_url: "https://music.apple.com/gb/album/sign-o-the-times/212852926"
 slug: "parade-8955563"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Angels In Science Fiction"
 date: 2023-04-23T04:35:34.000000Z
 release_date: "2023-04-21"
 release_id: "26822072"
+apple_music_url: "https://music.apple.com/gb/album/angels-in-science-fiction/1664598318"
 slug: "angels-in-science-fiction-26822072"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Very Best Of John Lee Hooker"
 date: 2021-12-23T04:32:39.000000Z
 release_date: "1994-01-01"
 release_id: "8578752"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-john-lee-hooker/1442785585"
 slug: "the-very-best-of-john-lee-hooker-8578752"
 hideSummary: true
 cover:

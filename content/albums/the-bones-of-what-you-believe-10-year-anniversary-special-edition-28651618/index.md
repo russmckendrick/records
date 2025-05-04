@@ -6,6 +6,7 @@ album_name: "The Bones Of What You Believe (10 Year Anniversary Special Edition)
 date: 2023-10-25T11:50:11.000000Z
 release_date: "2023-10-20"
 release_id: "28651618"
+apple_music_url: "https://music.apple.com/gb/album/the-bones-of-what-you-believe-10-year/1699050247"
 slug: "the-bones-of-what-you-believe-10-year-anniversary-special-edition-28651618"
 hideSummary: true
 cover:

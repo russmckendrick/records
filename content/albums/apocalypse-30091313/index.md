@@ -6,6 +6,7 @@ album_name: "Apocalypse"
 date: 2024-03-19T12:33:10.000000Z
 release_date: "2011-08-29"
 release_id: "30091313"
+apple_music_url: "https://music.apple.com/gb/album/the-golden-age-of-apocalypse/453767128"
 slug: "apocalypse-30091313"
 hideSummary: true
 cover:

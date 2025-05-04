@@ -6,6 +6,7 @@ album_name: "Hello, Good Evening, Welcome and Goodbye"
 date: 2017-12-02T15:18:15.000000Z
 release_date: "2015-12-11"
 release_id: "7922543"
+apple_music_url: "https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663"
 slug: "hello-good-evening-welcome-and-goodbye-7922543"
 hideSummary: true
 cover:

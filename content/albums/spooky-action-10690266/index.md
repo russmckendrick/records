@@ -6,6 +6,7 @@ album_name: "Spooky Action"
 date: 2017-08-13T18:21:55.000000Z
 release_date: "2017-08-11"
 release_id: "10690266"
+apple_music_url: "https://music.apple.com/gb/album/spooky-action/1244714904"
 slug: "spooky-action-10690266"
 hideSummary: true
 cover:

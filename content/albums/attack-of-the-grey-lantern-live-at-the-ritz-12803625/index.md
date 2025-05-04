@@ -6,6 +6,7 @@ album_name: "Attack Of The Grey Lantern Live At The Ritz"
 date: 2018-11-23T18:39:40.000000Z
 release_date: "2018"
 release_id: "12803625"
+apple_music_url: "https://music.apple.com/gb/album/attack-of-the-grey-lantern-live-at-the-ritz/1633688317"
 slug: "attack-of-the-grey-lantern-live-at-the-ritz-12803625"
 hideSummary: true
 cover:

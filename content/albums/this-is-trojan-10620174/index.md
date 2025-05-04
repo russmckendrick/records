@@ -6,6 +6,7 @@ album_name: "This Is Trojan"
 date: 2017-07-29T18:47:00.000000Z
 release_date: ""
 release_id: "10620174"
+apple_music_url: ""
 slug: "this-is-trojan-10620174"
 hideSummary: true
 cover:

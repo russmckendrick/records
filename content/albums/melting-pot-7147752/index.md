@@ -6,6 +6,7 @@ album_name: "Melting Pot"
 date: 2017-04-22T10:02:26.000000Z
 release_date: "1997-09-29"
 release_id: "7147752"
+apple_music_url: "https://music.apple.com/gb/album/melting-pot/1450132766"
 slug: "melting-pot-7147752"
 hideSummary: true
 cover:

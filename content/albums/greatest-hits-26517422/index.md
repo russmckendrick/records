@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2023-06-05T05:59:14.000000Z
 release_date: "2010-06-21"
 release_id: "26517422"
+apple_music_url: "https://music.apple.com/gb/album/the-police-greatest-hits/381193062"
 slug: "greatest-hits-26517422"
 hideSummary: true
 cover:

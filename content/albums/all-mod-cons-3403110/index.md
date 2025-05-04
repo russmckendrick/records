@@ -6,6 +6,7 @@ album_name: "All Mod Cons"
 date: 2015-09-16T18:52:14.000000Z
 release_date: "1978-01-01"
 release_id: "3403110"
+apple_music_url: "https://music.apple.com/gb/album/all-mod-cons-1997-remaster/1440910355"
 slug: "all-mod-cons-3403110"
 hideSummary: true
 cover:

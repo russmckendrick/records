@@ -6,6 +6,7 @@ album_name: "My Aim Is True"
 date: 2017-08-11T18:28:48.000000Z
 release_date: "1977-07-22"
 release_id: "7682142"
+apple_music_url: "https://music.apple.com/gb/album/my-aim-is-true/1440840988"
 slug: "my-aim-is-true-7682142"
 hideSummary: true
 cover:

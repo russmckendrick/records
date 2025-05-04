@@ -6,6 +6,7 @@ album_name: "( )"
 date: 2022-12-19T11:27:13.000000Z
 release_date: "2019-08-09"
 release_id: "25472284"
+apple_music_url: "https://music.apple.com/gb/album/sigur-r%C3%B3s-presents-liminal-sleep/1475167321"
 slug: "25472284"
 hideSummary: true
 cover:

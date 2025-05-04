@@ -6,6 +6,7 @@ album_name: "Ghostbusters II"
 date: 2020-08-01T12:41:40.000000Z
 release_date: ""
 release_id: "672488"
+apple_music_url: ""
 slug: "ghostbusters-ii-672488"
 hideSummary: true
 cover:

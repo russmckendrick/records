@@ -6,6 +6,7 @@ album_name: "Jagged Little Pill"
 date: 2017-04-17T13:21:29.000000Z
 release_date: "2005-06-21"
 release_id: "4064194"
+apple_music_url: "https://music.apple.com/gb/album/vsq-performs-alanis-morissettes-jagged-little-pill/1021694197"
 slug: "jagged-little-pill-4064194"
 hideSummary: true
 cover:

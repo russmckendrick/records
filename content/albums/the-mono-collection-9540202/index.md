@@ -6,6 +6,7 @@ album_name: "The Mono Collection"
 date: 2017-03-20T11:23:48.000000Z
 release_date: "1989"
 release_id: "9540202"
+apple_music_url: "https://music.apple.com/gb/album/the-ultimate-collection/1440526036"
 slug: "the-mono-collection-9540202"
 hideSummary: true
 cover:

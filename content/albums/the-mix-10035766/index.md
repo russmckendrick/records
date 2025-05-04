@@ -6,6 +6,7 @@ album_name: "The Mix"
 date: 2017-04-23T12:08:38.000000Z
 release_date: "2018-03-20"
 release_id: "10035766"
+apple_music_url: "https://music.apple.com/gb/album/kraftwerk/1361778060"
 slug: "the-mix-10035766"
 hideSummary: true
 cover:

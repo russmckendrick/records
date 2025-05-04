@@ -6,6 +6,7 @@ album_name: "Eliminator"
 date: 2020-08-01T12:48:59.000000Z
 release_date: "1983-03-23"
 release_id: "2760061"
+apple_music_url: "https://music.apple.com/gb/album/eliminator/1728071480"
 slug: "eliminator-2760061"
 hideSummary: true
 cover:

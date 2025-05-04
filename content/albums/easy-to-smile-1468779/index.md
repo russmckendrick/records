@@ -6,6 +6,7 @@ album_name: "Easy To Smile"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2007-07-05"
 release_id: "1468779"
+apple_music_url: "https://music.apple.com/gb/album/easy-to-smile/259486680"
 slug: "easy-to-smile-1468779"
 hideSummary: true
 cover:

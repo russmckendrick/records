@@ -6,6 +6,7 @@ album_name: "Peaches: The Very Best Of The Stranglers"
 date: 2020-11-27T17:46:06.000000Z
 release_date: "2002-06-10"
 release_id: "16274027"
+apple_music_url: "https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566"
 slug: "peaches-the-very-best-of-the-stranglers-16274027"
 hideSummary: true
 cover:

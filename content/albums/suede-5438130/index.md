@@ -6,6 +6,7 @@ album_name: "Suede"
 date: 2016-07-18T17:37:13.000000Z
 release_date: "1993-03-29"
 release_id: "5438130"
+apple_music_url: "https://music.apple.com/gb/album/suede/1689619989"
 slug: "suede-5438130"
 hideSummary: true
 cover:

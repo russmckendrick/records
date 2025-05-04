@@ -6,6 +6,7 @@ album_name: "Dear Science"
 date: 2016-02-24T13:04:00.000000Z
 release_date: "2008-09-21"
 release_id: "4688708"
+apple_music_url: "https://music.apple.com/gb/album/dear-science/1437099341"
 slug: "dear-science-4688708"
 hideSummary: true
 cover:

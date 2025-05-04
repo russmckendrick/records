@@ -6,6 +6,7 @@ album_name: "Moondance"
 date: 2019-08-03T05:18:24.000000Z
 release_date: "1970-01-27"
 release_id: "13901177"
+apple_music_url: "https://music.apple.com/gb/album/moondance/712727450"
 slug: "moondance-13901177"
 hideSummary: true
 cover:

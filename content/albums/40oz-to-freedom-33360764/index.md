@@ -6,6 +6,7 @@ album_name: "40oz. To Freedom"
 date: 2025-03-14T02:33:08.000000Z
 release_date: ""
 release_id: "33360764"
+apple_music_url: ""
 slug: "40oz-to-freedom-33360764"
 hideSummary: true
 cover:

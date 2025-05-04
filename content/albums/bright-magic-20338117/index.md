@@ -6,6 +6,7 @@ album_name: "Bright Magic"
 date: 2021-09-24T02:16:08.000000Z
 release_date: "2021-09-24"
 release_id: "20338117"
+apple_music_url: "https://music.apple.com/gb/album/bright-magic/1566582480"
 slug: "bright-magic-20338117"
 hideSummary: true
 cover:

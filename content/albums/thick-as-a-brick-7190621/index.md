@@ -6,6 +6,7 @@ album_name: "Thick As A Brick"
 date: 2016-05-11T17:08:30.000000Z
 release_date: "2012-04-02"
 release_id: "7190621"
+apple_music_url: "https://music.apple.com/gb/album/thick-as-a-brick-2/693545308"
 slug: "thick-as-a-brick-7190621"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "This (Is What I Wanted To Tell You)"
 date: 2019-03-23T13:39:43.000000Z
 release_date: "2019-03-22"
 release_id: "13383347"
+apple_music_url: "https://music.apple.com/gb/album/this-is-what-i-wanted-to-tell-you/1721042317"
 slug: "this-is-what-i-wanted-to-tell-you-13383347"
 hideSummary: true
 cover:

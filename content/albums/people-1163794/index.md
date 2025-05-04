@@ -6,6 +6,7 @@ album_name: "People"
 date: 2015-12-09T10:18:46.000000Z
 release_date: "1988-05-01"
 release_id: "1163794"
+apple_music_url: "https://music.apple.com/gb/album/people/1317287289"
 slug: "people-1163794"
 hideSummary: true
 cover:

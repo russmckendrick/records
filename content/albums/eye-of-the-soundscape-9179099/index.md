@@ -6,6 +6,7 @@ album_name: "Eye Of The Soundscape"
 date: 2016-10-24T07:16:30.000000Z
 release_date: "2016-10-21"
 release_id: "9179099"
+apple_music_url: "https://music.apple.com/gb/album/eye-of-the-soundscape/1152468690"
 slug: "eye-of-the-soundscape-9179099"
 hideSummary: true
 cover:

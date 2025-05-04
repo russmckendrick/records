@@ -6,6 +6,7 @@ album_name: "Wasteland"
 date: 2018-09-30T12:30:44.000000Z
 release_date: "2018-09-28"
 release_id: "12587923"
+apple_music_url: "https://music.apple.com/gb/album/wasteland/1416948034"
 slug: "wasteland-12587923"
 hideSummary: true
 cover:

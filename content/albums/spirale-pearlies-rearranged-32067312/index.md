@@ -6,6 +6,7 @@ album_name: "Spiralée:  Pearlies Rearranged"
 date: 2024-10-25T08:19:40.000000Z
 release_date: "2024-10-18"
 release_id: "32067312"
+apple_music_url: "https://music.apple.com/gb/album/spiral%C3%A9e-pearlies-rearranged/1755420399"
 slug: "spirale-pearlies-rearranged-32067312"
 hideSummary: true
 cover:

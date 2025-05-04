@@ -6,6 +6,7 @@ album_name: "Without A Sound"
 date: 2019-09-27T06:44:30.000000Z
 release_date: "1994-08-23"
 release_id: "14176579"
+apple_music_url: "https://music.apple.com/gb/album/without-a-sound/1765550448"
 slug: "without-a-sound-14176579"
 hideSummary: true
 cover:

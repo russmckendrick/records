@@ -6,6 +6,7 @@ album_name: "Rave Tapes"
 date: 2016-11-26T12:42:28.000000Z
 release_date: "2014-01-20"
 release_id: "5302004"
+apple_music_url: "https://music.apple.com/gb/album/rave-tapes/761276074"
 slug: "rave-tapes-5302004"
 hideSummary: true
 cover:

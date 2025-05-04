@@ -6,6 +6,7 @@ album_name: "Indie Anthems"
 date: 2017-05-27T08:23:37.000000Z
 release_date: ""
 release_id: "10351934"
+apple_music_url: ""
 slug: "indie-anthems-10351934"
 hideSummary: true
 cover:

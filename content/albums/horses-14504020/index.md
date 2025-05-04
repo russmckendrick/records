@@ -6,6 +6,7 @@ album_name: "Horses"
 date: 2020-01-08T18:57:39.000000Z
 release_date: "1975-11-10"
 release_id: "14504020"
+apple_music_url: "https://music.apple.com/gb/album/horses/1038568061"
 slug: "horses-14504020"
 hideSummary: true
 cover:

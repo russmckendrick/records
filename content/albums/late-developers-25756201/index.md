@@ -6,6 +6,7 @@ album_name: "Late Developers"
 date: 2023-02-06T11:31:58.000000Z
 release_date: "2023-01-13"
 release_id: "25756201"
+apple_music_url: "https://music.apple.com/gb/album/late-developers/1652979276"
 slug: "late-developers-25756201"
 hideSummary: true
 cover:

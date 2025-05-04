@@ -6,6 +6,7 @@ album_name: "Stormwatch"
 date: 2020-04-23T11:51:21.000000Z
 release_date: "1979-09-14"
 release_id: "14968787"
+apple_music_url: "https://music.apple.com/gb/album/stormwatch-2004-bonus-tracks-edition/726158739"
 slug: "stormwatch-14968787"
 hideSummary: true
 cover:

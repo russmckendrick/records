@@ -6,6 +6,7 @@ album_name: "I/O (Bright-Side Mixes)"
 date: 2023-12-05T11:03:32.000000Z
 release_date: "2023-04-06"
 release_id: "29079523"
+apple_music_url: "https://music.apple.com/gb/album/i-o-bright-side-mix-single/1679367113"
 slug: "i-o-bright-side-mixes-29079523"
 hideSummary: true
 cover:

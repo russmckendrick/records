@@ -6,6 +6,7 @@ album_name: "The Velvet Underground & Nico"
 date: 2016-01-10T12:53:11.000000Z
 release_date: "2021-09-24"
 release_id: "1839185"
+apple_music_url: "https://music.apple.com/gb/album/ill-be-your-mirror-a-tribute-to-the-velvet-underground-nico/1565884195"
 slug: "the-velvet-underground-nico-1839185"
 hideSummary: true
 cover:

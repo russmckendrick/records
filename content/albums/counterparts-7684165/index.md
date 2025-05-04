@@ -6,6 +6,7 @@ album_name: "Counterparts"
 date: 2017-02-28T18:43:59.000000Z
 release_date: "1993-10-19"
 release_id: "7684165"
+apple_music_url: "https://music.apple.com/gb/album/counterparts-remastered/642211626"
 slug: "counterparts-7684165"
 hideSummary: true
 cover:

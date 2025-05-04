@@ -6,6 +6,7 @@ album_name: "The Singles"
 date: 2018-11-29T12:43:00.000000Z
 release_date: "1995-09-18"
 release_id: "798318"
+apple_music_url: "https://music.apple.com/gb/album/the-complete-singles/1672583898"
 slug: "the-singles-798318"
 hideSummary: true
 cover:

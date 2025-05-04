@@ -6,6 +6,7 @@ album_name: "Substance"
 date: 2015-08-09T08:43:10.000000Z
 release_date: "2014-07-18"
 release_id: "7267756"
+apple_music_url: "https://music.apple.com/gb/album/joy-division-tribute/1635438418"
 slug: "substance-7267756"
 hideSummary: true
 cover:

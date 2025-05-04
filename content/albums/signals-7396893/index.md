@@ -6,6 +6,7 @@ album_name: "Signals"
 date: 2017-02-22T18:03:13.000000Z
 release_date: "2024-04-16"
 release_id: "7396893"
+apple_music_url: "https://music.apple.com/gb/album/rush-single/1742090679"
 slug: "signals-7396893"
 hideSummary: true
 cover:

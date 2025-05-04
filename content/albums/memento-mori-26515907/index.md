@@ -6,6 +6,7 @@ album_name: "Memento Mori"
 date: 2023-04-03T04:25:46.000000Z
 release_date: "2023-03-24"
 release_id: "26515907"
+apple_music_url: "https://music.apple.com/gb/album/memento-mori/1670265523"
 slug: "memento-mori-26515907"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Threesome Vol. 1"
 date: 2020-08-23T21:16:06.000000Z
 release_date: "2020-05-15"
 release_id: "15551347"
+apple_music_url: "https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920"
 slug: "threesome-vol-1-15551347"
 hideSummary: true
 cover:

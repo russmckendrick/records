@@ -6,6 +6,7 @@ album_name: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 â€
 date: 2017-05-05T17:26:00.000000Z
 release_date: "2018-11-01"
 release_id: "10242191"
+apple_music_url: "https://music.apple.com/gb/album/lovely-creatures-the-best-of-nick-cave-and-the/1439673197"
 slug: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191"
 hideSummary: true
 cover:

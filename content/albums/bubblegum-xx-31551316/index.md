@@ -6,6 +6,7 @@ album_name: "Bubblegum XX"
 date: 2024-08-30T04:24:25.000000Z
 release_date: "2024-08-23"
 release_id: "31551316"
+apple_music_url: "https://music.apple.com/gb/album/bubblegum-xx/1754982166"
 slug: "bubblegum-xx-31551316"
 hideSummary: true
 cover:

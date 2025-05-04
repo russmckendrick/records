@@ -6,6 +6,7 @@ album_name: "Do You Trust Your Friends?"
 date: 2019-01-10T18:01:44.000000Z
 release_date: "2007-05-22"
 release_id: "1870709"
+apple_music_url: "https://music.apple.com/gb/album/do-you-trust-your-friends/1443067827"
 slug: "do-you-trust-your-friends-1870709"
 hideSummary: true
 cover:

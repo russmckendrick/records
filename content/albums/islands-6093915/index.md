@@ -6,6 +6,7 @@ album_name: "Islands"
 date: 2017-08-11T18:29:19.000000Z
 release_date: "1969-10-10"
 release_id: "6093915"
+apple_music_url: "https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711"
 slug: "islands-6093915"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Architect"
 date: 2017-12-11T19:45:45.000000Z
 release_date: "2017-10-27"
 release_id: "11045283"
+apple_music_url: "https://music.apple.com/gb/album/the-architect-ep/1667322669"
 slug: "the-architect-11045283"
 hideSummary: true
 cover:

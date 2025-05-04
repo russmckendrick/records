@@ -6,6 +6,7 @@ album_name: "Foreign Affair"
 date: 2024-03-28T05:15:42.000000Z
 release_date: "1989-09-13"
 release_id: "19907068"
+apple_music_url: "https://music.apple.com/gb/album/foreign-affair/696427993"
 slug: "foreign-affair-19907068"
 hideSummary: true
 cover:

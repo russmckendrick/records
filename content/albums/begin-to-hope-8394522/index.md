@@ -6,6 +6,7 @@ album_name: "Begin To Hope"
 date: 2016-05-10T16:18:30.000000Z
 release_date: "2006-06-13"
 release_id: "8394522"
+apple_music_url: "https://music.apple.com/gb/album/begin-to-hope/157819402"
 slug: "begin-to-hope-8394522"
 hideSummary: true
 cover:

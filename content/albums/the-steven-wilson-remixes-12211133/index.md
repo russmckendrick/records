@@ -6,6 +6,7 @@ album_name: "The Steven Wilson Remixes"
 date: 2018-07-04T17:36:46.000000Z
 release_date: "2018-06-29"
 release_id: "12211133"
+apple_music_url: "https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939"
 slug: "the-steven-wilson-remixes-12211133"
 hideSummary: true
 cover:

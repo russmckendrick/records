@@ -6,6 +6,7 @@ album_name: "I Thought I Was Better Than You"
 date: 2023-06-02T09:37:46.000000Z
 release_date: "2023-06-02"
 release_id: "27264855"
+apple_music_url: "https://music.apple.com/gb/album/i-thought-i-was-better-than-you/1671639496"
 slug: "i-thought-i-was-better-than-you-27264855"
 hideSummary: true
 cover:

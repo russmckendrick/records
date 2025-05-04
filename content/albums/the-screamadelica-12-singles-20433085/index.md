@@ -6,6 +6,7 @@ album_name: "The Screamadelica 12 Singles"
 date: 2021-11-07T08:11:40.000000Z
 release_date: "2021-09-17"
 release_id: "20433085"
+apple_music_url: "https://music.apple.com/gb/album/the-screamadelica-12-singles/1581970344"
 slug: "the-screamadelica-12-singles-20433085"
 hideSummary: true
 cover:

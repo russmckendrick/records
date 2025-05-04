@@ -6,6 +6,7 @@ album_name: "Behaviour."
 date: 2020-05-01T11:33:24.000000Z
 release_date: "1990-10-22"
 release_id: "12452776"
+apple_music_url: "https://music.apple.com/gb/album/behaviour-2018-remaster/1645126133"
 slug: "behaviour-12452776"
 hideSummary: true
 cover:

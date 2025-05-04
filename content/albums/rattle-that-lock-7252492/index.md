@@ -6,6 +6,7 @@ album_name: "Rattle That Lock"
 date: 2015-09-18T17:27:13.000000Z
 release_date: "2015-09-18"
 release_id: "7252492"
+apple_music_url: "https://music.apple.com/gb/album/rattle-that-lock-deluxe/1018308980"
 slug: "rattle-that-lock-7252492"
 hideSummary: true
 cover:

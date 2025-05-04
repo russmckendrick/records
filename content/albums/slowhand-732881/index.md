@@ -6,6 +6,7 @@ album_name: "Slowhand"
 date: 2020-08-02T13:41:14.000000Z
 release_date: "1994-01-01"
 release_id: "732881"
+apple_music_url: "https://music.apple.com/gb/album/the-cream-of-clapton/1440912834"
 slug: "slowhand-732881"
 hideSummary: true
 cover:

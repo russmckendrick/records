@@ -6,6 +6,7 @@ album_name: "Arkansas"
 date: 2020-08-02T13:41:48.000000Z
 release_date: "1975-01-01"
 release_id: "4438611"
+apple_music_url: "https://music.apple.com/gb/album/arkansas/714727780"
 slug: "arkansas-4438611"
 hideSummary: true
 cover:

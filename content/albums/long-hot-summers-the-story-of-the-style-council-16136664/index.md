@@ -6,6 +6,7 @@ album_name: "Long Hot Summers / The Story Of The Style Council"
 date: 2020-10-31T09:52:50.000000Z
 release_date: "2020-09-04"
 release_id: "16136664"
+apple_music_url: "https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288"
 slug: "long-hot-summers-the-story-of-the-style-council-16136664"
 hideSummary: true
 cover:

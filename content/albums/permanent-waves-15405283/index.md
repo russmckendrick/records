@@ -6,6 +6,7 @@ album_name: "Permanent Waves"
 date: 2020-06-01T13:33:53.000000Z
 release_date: "1980-01-14"
 release_id: "15405283"
+apple_music_url: "https://music.apple.com/gb/album/permanent-waves-remastered/1440782947"
 slug: "permanent-waves-15405283"
 hideSummary: true
 cover:

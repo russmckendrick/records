@@ -6,6 +6,7 @@ album_name: "The Future Bites"
 date: 2021-01-29T07:02:41.000000Z
 release_date: "2021-01-29"
 release_id: "17162293"
+apple_music_url: "https://music.apple.com/gb/album/the-future-bites/1530202084"
 slug: "the-future-bites-17162293"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "In Cauda Venenum"
 date: 2019-09-28T07:50:27.000000Z
 release_date: "2019-09-27"
 release_id: "14182364"
+apple_music_url: "https://music.apple.com/gb/album/in-cauda-venenum/1776756303"
 slug: "in-cauda-venenum-14182364"
 hideSummary: true
 cover:

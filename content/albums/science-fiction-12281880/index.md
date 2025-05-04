@@ -6,6 +6,7 @@ album_name: "Science Fiction"
 date: 2018-07-21T12:56:21.000000Z
 release_date: "2018-05-17"
 release_id: "12281880"
+apple_music_url: "https://music.apple.com/gb/album/science-fiction/1362743489"
 slug: "science-fiction-12281880"
 hideSummary: true
 cover:

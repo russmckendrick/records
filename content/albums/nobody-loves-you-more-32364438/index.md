@@ -6,6 +6,7 @@ album_name: "Nobody Loves You More"
 date: 2024-11-23T06:45:05.000000Z
 release_date: "2024-11-22"
 release_id: "32364438"
+apple_music_url: "https://music.apple.com/gb/album/nobody-loves-you-more/1761322322"
 slug: "nobody-loves-you-more-32364438"
 hideSummary: true
 cover:

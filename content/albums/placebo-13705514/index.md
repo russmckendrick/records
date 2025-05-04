@@ -6,6 +6,7 @@ album_name: "Placebo"
 date: 2019-06-17T17:31:39.000000Z
 release_date: "2021-07-09"
 release_id: "13705514"
+apple_music_url: "https://music.apple.com/gb/album/placebo-single/1572802845"
 slug: "placebo-13705514"
 hideSummary: true
 cover:

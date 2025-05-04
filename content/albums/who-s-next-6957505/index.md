@@ -6,6 +6,7 @@ album_name: "Who's Next"
 date: 2015-08-09T08:39:37.000000Z
 release_date: "2018-08-10"
 release_id: "6957505"
+apple_music_url: "https://music.apple.com/gb/album/whos-next-single/1676629460"
 slug: "who-s-next-6957505"
 hideSummary: true
 cover:

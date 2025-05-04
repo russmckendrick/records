@@ -6,6 +6,7 @@ album_name: "Technical Ecstasy"
 date: 2017-05-27T15:34:42.000000Z
 release_date: "1976-09-25"
 release_id: "4672294"
+apple_music_url: "https://music.apple.com/gb/album/technical-ecstasy/1439822515"
 slug: "technical-ecstasy-4672294"
 hideSummary: true
 cover:

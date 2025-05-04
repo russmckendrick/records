@@ -6,6 +6,7 @@ album_name: "Residue"
 date: 2023-04-29T11:49:38.000000Z
 release_date: "2017-01-13"
 release_id: "26901554"
+apple_music_url: "https://music.apple.com/gb/album/residue/1191817521"
 slug: "residue-26901554"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The In Sound From Way Out!"
 date: 2018-01-06T10:51:53.000000Z
 release_date: "1966"
 release_id: "11237631"
+apple_music_url: "https://music.apple.com/gb/album/the-in-sound-from-way-out/712013935"
 slug: "the-in-sound-from-way-out-11237631"
 hideSummary: true
 cover:

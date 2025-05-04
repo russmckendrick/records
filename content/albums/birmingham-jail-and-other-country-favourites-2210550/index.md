@@ -6,6 +6,7 @@ album_name: "Birmingham Jail And Other Country Favourites"
 date: 2020-08-02T13:31:47.000000Z
 release_date: "2005-03-29"
 release_id: "2210550"
+apple_music_url: "https://music.apple.com/gb/album/absolutely-the-best-of-slim-whitman/450190866"
 slug: "birmingham-jail-and-other-country-favourites-2210550"
 hideSummary: true
 cover:

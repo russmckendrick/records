@@ -6,6 +6,7 @@ album_name: "Thanks For Reaching Out"
 date: 2023-07-01T06:24:14.000000Z
 release_date: "2023-06-30"
 release_id: "27546843"
+apple_music_url: "https://music.apple.com/gb/album/thanks-for-reaching-out/1678181317"
 slug: "thanks-for-reaching-out-27546843"
 hideSummary: true
 cover:

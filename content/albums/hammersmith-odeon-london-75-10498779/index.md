@@ -6,6 +6,7 @@ album_name: "Hammersmith Odeon, London '75"
 date: 2017-06-30T17:50:31.000000Z
 release_date: "2006-02-28"
 release_id: "10498779"
+apple_music_url: "https://music.apple.com/gb/album/hammersmith-odeon-london-75/400848471"
 slug: "hammersmith-odeon-london-75-10498779"
 hideSummary: true
 cover:

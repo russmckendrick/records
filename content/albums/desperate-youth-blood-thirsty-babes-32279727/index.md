@@ -6,6 +6,7 @@ album_name: "Desperate Youth, Blood Thirsty Babes"
 date: 2024-11-16T05:37:04.000000Z
 release_date: "2004-03-09"
 release_id: "32279727"
+apple_music_url: "https://music.apple.com/gb/album/desperate-youth-blood-thirsty-babes/1117724434"
 slug: "desperate-youth-blood-thirsty-babes-32279727"
 hideSummary: true
 cover:

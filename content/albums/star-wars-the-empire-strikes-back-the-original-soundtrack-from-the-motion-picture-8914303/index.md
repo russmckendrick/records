@@ -6,6 +6,7 @@ album_name: "Star Wars / The Empire Strikes Back / The Original Soundtrack From 
 date: 2016-08-17T16:43:44.000000Z
 release_date: "1980-01-01"
 release_id: "8914303"
+apple_music_url: "https://music.apple.com/gb/album/star-wars-the-empire-strikes-back-original-motion/1375815586"
 slug: "star-wars-the-empire-strikes-back-the-original-soundtrack-from-the-motion-picture-8914303"
 hideSummary: true
 cover:

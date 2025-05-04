@@ -6,6 +6,7 @@ album_name: "3-D (The Catalogue)"
 date: 2017-06-24T15:07:18.000000Z
 release_date: "2017-05-26"
 release_id: "10349797"
+apple_music_url: "https://music.apple.com/gb/album/3-d-the-catalogue-live/1572506374"
 slug: "3-d-the-catalogue-10349797"
 hideSummary: true
 cover:

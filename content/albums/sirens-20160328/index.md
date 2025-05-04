@@ -6,6 +6,7 @@ album_name: "Sirens"
 date: 2022-04-22T08:20:33.000000Z
 release_date: "2021-09-17"
 release_id: "20160328"
+apple_music_url: "https://music.apple.com/gb/album/sirens/1772889401"
 slug: "sirens-20160328"
 hideSummary: true
 cover:

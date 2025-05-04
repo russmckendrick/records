@@ -6,6 +6,7 @@ album_name: "The Next Day"
 date: 2016-01-12T17:42:44.000000Z
 release_date: "2013-03-08"
 release_id: "4370757"
+apple_music_url: "https://music.apple.com/gb/album/the-next-day/1676277418"
 slug: "the-next-day-4370757"
 hideSummary: true
 cover:

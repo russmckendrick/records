@@ -6,6 +6,7 @@ album_name: "Temptation"
 date: 2019-03-23T13:40:16.000000Z
 release_date: "1978-04-14"
 release_id: "13374825"
+apple_music_url: "https://music.apple.com/gb/album/grease-the-original-soundtrack-from-the-motion-picture/1440844625"
 slug: "temptation-13374825"
 hideSummary: true
 cover:

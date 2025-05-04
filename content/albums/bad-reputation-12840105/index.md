@@ -6,6 +6,7 @@ album_name: "Bad Reputation"
 date: 2021-12-28T07:13:23.000000Z
 release_date: "2022-03-21"
 release_id: "12840105"
+apple_music_url: "https://music.apple.com/gb/album/bad-reputation/1614110676"
 slug: "bad-reputation-12840105"
 hideSummary: true
 cover:

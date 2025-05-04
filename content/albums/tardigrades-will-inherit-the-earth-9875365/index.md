@@ -6,6 +6,7 @@ album_name: "Tardigrades Will Inherit The Earth"
 date: 2017-03-26T10:56:25.000000Z
 release_date: "2017-02-24"
 release_id: "9875365"
+apple_music_url: "https://music.apple.com/gb/album/tardigrades-will-inherit-the-earth/1187309663"
 slug: "tardigrades-will-inherit-the-earth-9875365"
 hideSummary: true
 cover:

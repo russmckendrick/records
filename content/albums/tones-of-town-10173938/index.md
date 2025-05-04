@@ -6,6 +6,7 @@ album_name: "Tones Of Town"
 date: 2017-05-20T15:12:05.000000Z
 release_date: "2007-01-22"
 release_id: "10173938"
+apple_music_url: "https://music.apple.com/gb/album/tones-of-town/210355490"
 slug: "tones-of-town-10173938"
 hideSummary: true
 cover:

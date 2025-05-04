@@ -6,6 +6,7 @@ album_name: "The Diary"
 date: 2023-02-11T08:07:00.000000Z
 release_date: "2015-03-24"
 release_id: "26059753"
+apple_music_url: "https://music.apple.com/gb/album/the-diary/1047144724"
 slug: "the-diary-26059753"
 hideSummary: true
 cover:

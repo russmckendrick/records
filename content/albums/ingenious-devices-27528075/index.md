@@ -6,6 +6,7 @@ album_name: "Ingenious Devices"
 date: 2023-06-30T07:13:39.000000Z
 release_date: "2023-07-28"
 release_id: "27528075"
+apple_music_url: "https://music.apple.com/gb/album/ingenious-devices/1686290979"
 slug: "ingenious-devices-27528075"
 hideSummary: true
 cover:

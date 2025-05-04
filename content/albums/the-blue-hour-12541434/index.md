@@ -6,6 +6,7 @@ album_name: "The Blue Hour"
 date: 2018-09-25T19:13:30.000000Z
 release_date: "2018-09-21"
 release_id: "12541434"
+apple_music_url: "https://music.apple.com/gb/album/the-blue-hour/1372130297"
 slug: "the-blue-hour-12541434"
 hideSummary: true
 cover:

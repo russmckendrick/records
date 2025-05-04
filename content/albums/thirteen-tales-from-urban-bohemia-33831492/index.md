@@ -6,6 +6,7 @@ album_name: "Thirteen Tales From Urban Bohemia"
 date: 2025-05-04T07:21:48.000000Z
 release_date: "2000-01-01"
 release_id: "33831492"
+apple_music_url: "https://music.apple.com/gb/album/thirteen-tales-from-urban-bohemia/1668264309"
 slug: "thirteen-tales-from-urban-bohemia-33831492"
 hideSummary: true
 cover:

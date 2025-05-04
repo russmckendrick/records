@@ -6,6 +6,7 @@ album_name: "Smokers Delight"
 date: 2020-04-09T16:45:27.000000Z
 release_date: "1995-09-25"
 release_id: "15030498"
+apple_music_url: "https://music.apple.com/gb/album/smokers-delight/281088001"
 slug: "smokers-delight-15030498"
 hideSummary: true
 cover:

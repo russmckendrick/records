@@ -6,6 +6,7 @@ album_name: "Semi-Detached"
 date: 2023-11-03T06:36:38.000000Z
 release_date: ""
 release_id: "28696462"
+apple_music_url: ""
 slug: "semi-detached-28696462"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dots And Loops"
 date: 2019-09-15T12:02:49.000000Z
 release_date: "1997-09-23"
 release_id: "14118524"
+apple_music_url: "https://music.apple.com/gb/album/dots-and-loops/1230517312"
 slug: "dots-and-loops-14118524"
 hideSummary: true
 cover:

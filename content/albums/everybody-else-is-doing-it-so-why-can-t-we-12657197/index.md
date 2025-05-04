@@ -6,6 +6,7 @@ album_name: "Everybody Else Is Doing It, So Why Can't We?"
 date: 2018-10-19T19:21:22.000000Z
 release_date: "1993-03-01"
 release_id: "12657197"
+apple_music_url: "https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we/1440911650"
 slug: "everybody-else-is-doing-it-so-why-can-t-we-12657197"
 hideSummary: true
 cover:

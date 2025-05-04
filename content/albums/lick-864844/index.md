@@ -6,6 +6,7 @@ album_name: "Lick"
 date: 2020-08-02T13:47:51.000000Z
 release_date: "1988"
 release_id: "864844"
+apple_music_url: "https://music.apple.com/gb/album/lick/595928526"
 slug: "lick-864844"
 hideSummary: true
 cover:

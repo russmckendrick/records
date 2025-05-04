@@ -6,6 +6,7 @@ album_name: "Free Hand"
 date: 2021-06-27T01:57:33.000000Z
 release_date: "1975-07-01"
 release_id: "19250605"
+apple_music_url: "https://music.apple.com/gb/album/free-hand/1629182869"
 slug: "free-hand-19250605"
 hideSummary: true
 cover:

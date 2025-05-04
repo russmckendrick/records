@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2020-05-26T12:11:25.000000Z
 release_date: "2020-10-16"
 release_id: "12167804"
+apple_music_url: "https://music.apple.com/gb/album/hit-me-the-best-of/1534568853"
 slug: "greatest-hits-12167804"
 hideSummary: true
 cover:

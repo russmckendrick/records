@@ -6,6 +6,7 @@ album_name: "Acoustic Hits"
 date: 2017-06-30T17:50:08.000000Z
 release_date: "2001-01-01"
 release_id: "10505690"
+apple_music_url: "https://music.apple.com/gb/album/the-cure-greatest-hits/1440932660"
 slug: "acoustic-hits-10505690"
 hideSummary: true
 cover:

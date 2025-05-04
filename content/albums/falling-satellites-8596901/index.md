@@ -6,6 +6,7 @@ album_name: "Falling Satellites"
 date: 2021-05-13T10:29:31.000000Z
 release_date: "2016-05-27"
 release_id: "8596901"
+apple_music_url: "https://music.apple.com/gb/album/falling-satellites/1102992919"
 slug: "falling-satellites-8596901"
 hideSummary: true
 cover:

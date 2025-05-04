@@ -6,6 +6,7 @@ album_name: "Banana Skin Shoes"
 date: 2020-05-26T12:12:37.000000Z
 release_date: "2020-05-22"
 release_id: "15351838"
+apple_music_url: "https://music.apple.com/gb/album/banana-skin-shoes/1500598594"
 slug: "banana-skin-shoes-15351838"
 hideSummary: true
 cover:

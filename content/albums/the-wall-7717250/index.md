@@ -6,6 +6,7 @@ album_name: "The Wall"
 date: 2015-11-20T18:49:46.000000Z
 release_date: "2015-11-20"
 release_id: "7717250"
+apple_music_url: "https://music.apple.com/gb/album/roger-waters-the-wall/1042853859"
 slug: "the-wall-7717250"
 hideSummary: true
 cover:

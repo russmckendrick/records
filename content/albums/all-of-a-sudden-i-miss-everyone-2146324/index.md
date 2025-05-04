@@ -6,6 +6,7 @@ album_name: "All Of A Sudden I Miss Everyone"
 date: 2016-08-18T17:24:06.000000Z
 release_date: "2007-01-01"
 release_id: "2146324"
+apple_music_url: "https://music.apple.com/gb/album/all-of-a-sudden-i-miss-everyone/923356909"
 slug: "all-of-a-sudden-i-miss-everyone-2146324"
 hideSummary: true
 cover:

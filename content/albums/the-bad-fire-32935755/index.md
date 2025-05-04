@@ -6,6 +6,7 @@ album_name: "The Bad Fire"
 date: 2025-01-25T05:51:50.000000Z
 release_date: ""
 release_id: "32935755"
+apple_music_url: ""
 slug: "the-bad-fire-32935755"
 hideSummary: true
 cover:

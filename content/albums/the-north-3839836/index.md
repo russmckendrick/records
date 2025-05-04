@@ -6,6 +6,7 @@ album_name: "The North"
 date: 2017-06-27T18:05:30.000000Z
 release_date: "1998-09-15"
 release_id: "3839836"
+apple_music_url: "https://music.apple.com/gb/album/the-north-star/1671065285"
 slug: "the-north-3839836"
 hideSummary: true
 cover:

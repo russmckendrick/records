@@ -6,6 +6,7 @@ album_name: "IV Latitude"
 date: 2019-03-27T19:31:25.000000Z
 release_date: ""
 release_id: "11219448"
+apple_music_url: ""
 slug: "iv-latitude-11219448"
 hideSummary: true
 cover:

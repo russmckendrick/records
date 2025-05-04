@@ -6,6 +6,7 @@ album_name: "Invisible Touch"
 date: 2024-09-27T10:31:49.000000Z
 release_date: "1986-06-06"
 release_id: "12651703"
+apple_music_url: "https://music.apple.com/gb/album/invisible-touch-2007-remaster/396483774"
 slug: "invisible-touch-12651703"
 hideSummary: true
 cover:

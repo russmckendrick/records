@@ -6,6 +6,7 @@ album_name: "Everything Must Go"
 date: 2016-07-18T17:36:27.000000Z
 release_date: "2016-05-20"
 release_id: "8667461"
+apple_music_url: "https://music.apple.com/gb/album/everything-must-go-20-remastered/1090077721"
 slug: "everything-must-go-8667461"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "American Fool"
 date: 2017-04-09T14:18:06.000000Z
 release_date: "2004-10-19"
 release_id: "8668868"
+apple_music_url: "https://music.apple.com/gb/album/words-music-john-mellencamps-greatest-hits/1418215963"
 slug: "american-fool-8668868"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "People's Instinctive Travels And The Paths Of Rhythm"
 date: 2017-04-14T09:25:48.000000Z
 release_date: "1990-04-10"
 release_id: "7926540"
+apple_music_url: "https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573"
 slug: "people-s-instinctive-travels-and-the-paths-of-rhythm-7926540"
 hideSummary: true
 cover:

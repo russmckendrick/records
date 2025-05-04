@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2016-01-09T07:44:46.000000Z
 release_date: "1975-06-20"
 release_id: "4164015"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/1444172593"
 slug: "greatest-hits-4164015"
 hideSummary: true
 cover:

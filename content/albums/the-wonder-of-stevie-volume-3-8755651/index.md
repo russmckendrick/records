@@ -6,6 +6,7 @@ album_name: "The Wonder Of Stevie (Volume 3)"
 date: 2016-07-30T12:23:04.000000Z
 release_date: ""
 release_id: "8755651"
+apple_music_url: ""
 slug: "the-wonder-of-stevie-volume-3-8755651"
 hideSummary: true
 cover:

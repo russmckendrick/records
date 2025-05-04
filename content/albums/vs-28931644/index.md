@@ -6,6 +6,7 @@ album_name: "Vs."
 date: 2023-11-25T04:04:19.000000Z
 release_date: "1993-10-19"
 release_id: "28931644"
+apple_music_url: "https://music.apple.com/gb/album/vs/426656353"
 slug: "vs-28931644"
 hideSummary: true
 cover:

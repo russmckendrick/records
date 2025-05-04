@@ -6,6 +6,7 @@ album_name: "Moving Pictures"
 date: 2022-05-04T11:49:16.000000Z
 release_date: "2015-05-18"
 release_id: "22876769"
+apple_music_url: "https://music.apple.com/gb/album/moving-pictures/994934441"
 slug: "moving-pictures-22876769"
 hideSummary: true
 cover:

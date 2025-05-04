@@ -6,6 +6,7 @@ album_name: "Belief"
 date: 2022-08-04T08:28:18.000000Z
 release_date: "1990-10-29"
 release_id: "24040121"
+apple_music_url: "https://music.apple.com/us/album/belief/1626720244"
 slug: "belief-24040121"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "No Atonement"
 date: 2017-06-08T17:51:46.000000Z
 release_date: "2017-05-19"
 release_id: "10376234"
+apple_music_url: "https://music.apple.com/gb/album/no-atonement/1219447555"
 slug: "no-atonement-10376234"
 hideSummary: true
 cover:

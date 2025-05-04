@@ -6,6 +6,7 @@ album_name: "Yeah"
 date: 2019-04-27T12:01:43.000000Z
 release_date: "1999-03-22"
 release_id: "13511395"
+apple_music_url: "https://music.apple.com/gb/album/yeah/270581696"
 slug: "yeah-13511395"
 hideSummary: true
 cover:

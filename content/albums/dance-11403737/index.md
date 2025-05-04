@@ -6,6 +6,7 @@ album_name: "Dance"
 date: 2018-01-19T20:41:02.000000Z
 release_date: "2020-05-31"
 release_id: "11403737"
+apple_music_url: "https://music.apple.com/gb/album/gary-numan-single/1506501913"
 slug: "dance-11403737"
 hideSummary: true
 cover:

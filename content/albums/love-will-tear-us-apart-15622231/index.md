@@ -6,6 +6,7 @@ album_name: "Love Will Tear Us Apart"
 date: 2020-07-17T12:24:17.000000Z
 release_date: "1995"
 release_id: "15622231"
+apple_music_url: "https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858"
 slug: "love-will-tear-us-apart-15622231"
 hideSummary: true
 cover:

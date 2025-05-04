@@ -6,6 +6,7 @@ album_name: "Laughing On Judgement Day"
 date: 2023-04-29T11:43:38.000000Z
 release_date: "1991"
 release_id: "26911130"
+apple_music_url: "https://music.apple.com/gb/album/laughing-on-judgement-day/690849956"
 slug: "laughing-on-judgement-day-26911130"
 hideSummary: true
 cover:

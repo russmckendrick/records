@@ -6,6 +6,7 @@ album_name: "Permanent Vacation"
 date: 2019-05-21T18:14:15.000000Z
 release_date: "1987-08-25"
 release_id: "13639079"
+apple_music_url: "https://music.apple.com/gb/album/permanent-vacation/1440823323"
 slug: "permanent-vacation-13639079"
 hideSummary: true
 cover:

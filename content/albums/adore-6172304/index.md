@@ -6,6 +6,7 @@ album_name: "Adore"
 date: 2016-03-06T09:21:22.000000Z
 release_date: "2000-02-29"
 release_id: "6172304"
+apple_music_url: "https://music.apple.com/gb/album/machina-the-machines-of-god/712756036"
 slug: "adore-6172304"
 hideSummary: true
 cover:

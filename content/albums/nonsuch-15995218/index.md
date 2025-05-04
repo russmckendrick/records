@@ -6,6 +6,7 @@ album_name: "Nonsuch"
 date: 2020-10-08T11:08:50.000000Z
 release_date: "1992-04-27"
 release_id: "15995218"
+apple_music_url: "https://music.apple.com/gb/album/nonsuch/724439635"
 slug: "nonsuch-15995218"
 hideSummary: true
 cover:

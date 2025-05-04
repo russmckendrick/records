@@ -6,6 +6,7 @@ album_name: "Funeral"
 date: 2016-02-14T11:10:06.000000Z
 release_date: "2007-04-03"
 release_id: "2093841"
+apple_music_url: "https://music.apple.com/gb/album/vsq-performs-arcade-fires-funeral/988548178"
 slug: "funeral-2093841"
 hideSummary: true
 cover:

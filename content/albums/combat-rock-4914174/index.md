@@ -6,6 +6,7 @@ album_name: "Combat Rock"
 date: 2016-11-18T18:44:08.000000Z
 release_date: "1982-05-14"
 release_id: "4914174"
+apple_music_url: "https://music.apple.com/gb/album/combat-rock/685585931"
 slug: "combat-rock-4914174"
 hideSummary: true
 cover:

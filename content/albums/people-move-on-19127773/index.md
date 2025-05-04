@@ -6,6 +6,7 @@ album_name: "People Move On"
 date: 2021-06-29T02:29:07.000000Z
 release_date: "1998-02-06"
 release_id: "19127773"
+apple_music_url: "https://music.apple.com/gb/album/people-move-on/192956535"
 slug: "people-move-on-19127773"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ogdens' Nut Gone Flake"
 date: 2017-11-25T18:37:31.000000Z
 release_date: "1968-05-24"
 release_id: "6917374"
+apple_music_url: "https://music.apple.com/gb/album/ogdens-nut-gone-flake/1757584407"
 slug: "ogdens-nut-gone-flake-6917374"
 hideSummary: true
 cover:

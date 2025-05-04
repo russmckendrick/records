@@ -6,6 +6,7 @@ album_name: "Sky Void Of Stars"
 date: 2023-01-21T02:12:50.000000Z
 release_date: "2023-01-20"
 release_id: "25820851"
+apple_music_url: "https://music.apple.com/gb/album/sky-void-of-stars/1647368479"
 slug: "sky-void-of-stars-25820851"
 hideSummary: true
 cover:

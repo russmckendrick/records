@@ -6,6 +6,7 @@ album_name: "Selected Ambient Works Volume II"
 date: 2024-10-04T04:49:07.000000Z
 release_date: "1994-03-07"
 release_id: "31768115"
+apple_music_url: "https://music.apple.com/gb/album/selected-ambient-works-vol-ii/280649372"
 slug: "selected-ambient-works-volume-ii-31768115"
 hideSummary: true
 cover:

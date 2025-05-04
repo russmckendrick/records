@@ -5,6 +5,7 @@ artist: "alex-somers"
 album_name: "Captain Fantastic (Original Soundtrack)"
 date: 2016-11-17T17:25:52.000000Z
 release_id: "8757071"
+apple_music_url: ""
 slug: "captain-fantastic-original-soundtrack-8757071"
 hideSummary: true
 cover:

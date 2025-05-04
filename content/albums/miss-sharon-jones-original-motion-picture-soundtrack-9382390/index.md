@@ -6,6 +6,7 @@ album_name: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
 date: 2016-12-29T10:13:00.000000Z
 release_date: "2016-08-19"
 release_id: "9382390"
+apple_music_url: "https://music.apple.com/gb/album/miss-sharon-jones-original-motion-picture-soundtrack/1488038920"
 slug: "miss-sharon-jones-original-motion-picture-soundtrack-9382390"
 hideSummary: true
 cover:

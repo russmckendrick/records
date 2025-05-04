@@ -6,6 +6,7 @@ album_name: "S.O.D. The Epic Years"
 date: 2015-12-04T18:21:09.000000Z
 release_date: "2023-02-02"
 release_id: "492090"
+apple_music_url: "https://music.apple.com/gb/album/best-of-spear-of-destiny-live-at-the-forum/1671997414"
 slug: "s-o-d-the-epic-years-492090"
 hideSummary: true
 cover:

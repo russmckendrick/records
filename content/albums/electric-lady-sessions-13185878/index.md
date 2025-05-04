@@ -6,6 +6,7 @@ album_name: "Electric Lady Sessions"
 date: 2019-02-08T14:21:18.000000Z
 release_date: "2019-02-08"
 release_id: "13185878"
+apple_music_url: "https://music.apple.com/gb/album/electric-lady-sessions/1447409378"
 slug: "electric-lady-sessions-13185878"
 hideSummary: true
 cover:

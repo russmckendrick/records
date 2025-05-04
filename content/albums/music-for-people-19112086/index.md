@@ -6,6 +6,7 @@ album_name: "Music For People"
 date: 2021-06-12T05:56:04.000000Z
 release_date: "2000-09-12"
 release_id: "19112086"
+apple_music_url: "https://music.apple.com/gb/album/music-for-people/149597"
 slug: "music-for-people-19112086"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Star Trek II: The Wrath Of Khan"
 date: 2016-02-04T20:21:09.000000Z
 release_date: "1982-06-04"
 release_id: "7972559"
+apple_music_url: "https://music.apple.com/gb/album/star-trek-ii-the-wrath-of-khan-original-motion/726982589"
 slug: "star-trek-ii-the-wrath-of-khan-7972559"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Albums"
 date: 2021-05-22T05:19:26.000000Z
 release_date: "2023-07-21"
 release_id: "15800345"
+apple_music_url: "https://music.apple.com/gb/album/barbie-the-album/1689238301"
 slug: "the-albums-15800345"
 hideSummary: true
 cover:

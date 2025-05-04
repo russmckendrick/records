@@ -6,6 +6,7 @@ album_name: "Roots Rock Riot"
 date: 2021-06-04T09:18:15.000000Z
 release_date: "2007-10-22"
 release_id: "18443227"
+apple_music_url: "https://music.apple.com/gb/album/roots-rock-riot/1451028729"
 slug: "roots-rock-riot-18443227"
 hideSummary: true
 cover:

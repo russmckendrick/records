@@ -6,6 +6,7 @@ album_name: "Lean Into It"
 date: 2019-05-16T17:40:00.000000Z
 release_date: "1991-03-26"
 release_id: "2701491"
+apple_music_url: "https://music.apple.com/gb/album/lean-into-it-expanded-edition/1270103288"
 slug: "lean-into-it-2701491"
 hideSummary: true
 cover:

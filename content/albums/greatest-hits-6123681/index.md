@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2015-10-04T11:27:10.000000Z
 release_date: "1975-07"
 release_id: "6123681"
+apple_music_url: "https://music.apple.com/gb/album/fleetwood-macs-greatest-hits/456942321"
 slug: "greatest-hits-6123681"
 hideSummary: true
 cover:

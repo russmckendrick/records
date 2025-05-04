@@ -6,6 +6,7 @@ album_name: "Check Your Head"
 date: 2016-09-05T12:29:43.000000Z
 release_date: "1992-04-21"
 release_id: "1729629"
+apple_music_url: "https://music.apple.com/gb/album/check-your-head-deluxe-version-remastered/715727996"
 slug: "check-your-head-1729629"
 hideSummary: true
 cover:

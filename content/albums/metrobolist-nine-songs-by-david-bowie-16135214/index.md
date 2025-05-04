@@ -6,6 +6,7 @@ album_name: "Metrobolist (Nine Songs By David Bowie)"
 date: 2020-11-18T14:58:51.000000Z
 release_date: ""
 release_id: "16135214"
+apple_music_url: ""
 slug: "metrobolist-nine-songs-by-david-bowie-16135214"
 hideSummary: true
 cover:

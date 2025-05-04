@@ -6,6 +6,7 @@ album_name: "It's My Life"
 date: 2016-10-14T12:58:46.000000Z
 release_date: "2011-11-18"
 release_id: "151789"
+apple_music_url: "https://music.apple.com/gb/album/talk-that-talk-deluxe/1443061797"
 slug: "it-s-my-life-151789"
 hideSummary: true
 cover:

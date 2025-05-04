@@ -6,6 +6,7 @@ album_name: "Clone Of The Universe"
 date: 2018-02-10T10:54:28.000000Z
 release_date: "2018-02-09"
 release_id: "11533218"
+apple_music_url: "https://music.apple.com/gb/album/clone-of-the-universe/1325141667"
 slug: "clone-of-the-universe-11533218"
 hideSummary: true
 cover:

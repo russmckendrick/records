@@ -6,6 +6,7 @@ album_name: "Stay Awhile"
 date: 2020-08-02T13:48:45.000000Z
 release_date: "2015-03-09"
 release_id: "651808"
+apple_music_url: "https://music.apple.com/gb/album/the-karaoke-channel-sing-stay-awhile-like-dusty/973324944"
 slug: "stay-awhile-651808"
 hideSummary: true
 cover:

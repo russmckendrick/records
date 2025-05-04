@@ -6,6 +6,7 @@ album_name: "Twin Peaks: Fire Walk With Me"
 date: 2017-02-28T18:44:20.000000Z
 release_date: "1992-08-07"
 release_id: "9724741"
+apple_music_url: "https://music.apple.com/gb/album/twin-peaks-fire-walk-with-me-soundtrack-from-the/46734067"
 slug: "twin-peaks-fire-walk-with-me-9724741"
 hideSummary: true
 cover:

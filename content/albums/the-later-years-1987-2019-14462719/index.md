@@ -6,6 +6,7 @@ album_name: "The Later Years 1987-2019"
 date: 2019-11-29T20:14:49.000000Z
 release_date: "2019-11-29"
 release_id: "14462719"
+apple_music_url: "https://music.apple.com/gb/album/the-later-years-1987-2019/1477509316"
 slug: "the-later-years-1987-2019-14462719"
 hideSummary: true
 cover:

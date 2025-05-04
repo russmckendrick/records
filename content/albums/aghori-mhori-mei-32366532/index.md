@@ -6,6 +6,7 @@ album_name: "Aghori Mhori Mei"
 date: 2024-11-23T06:42:30.000000Z
 release_date: "2024-08-02"
 release_id: "32366532"
+apple_music_url: "https://music.apple.com/gb/album/aghori-mhori-mei/1756159811"
 slug: "aghori-mhori-mei-32366532"
 hideSummary: true
 cover:

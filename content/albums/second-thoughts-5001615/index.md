@@ -6,6 +6,7 @@ album_name: "Second Thoughts"
 date: 2016-12-08T22:48:19.000000Z
 release_date: ""
 release_id: "5001615"
+apple_music_url: ""
 slug: "second-thoughts-5001615"
 hideSummary: true
 cover:

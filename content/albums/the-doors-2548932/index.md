@@ -6,6 +6,7 @@ album_name: "The Doors"
 date: 2016-12-27T12:06:54.000000Z
 release_date: "2008-01-29"
 release_id: "2548932"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463"
 slug: "the-doors-2548932"
 hideSummary: true
 cover:

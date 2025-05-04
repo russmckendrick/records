@@ -6,6 +6,7 @@ album_name: "Mad Dogs & Englishmen"
 date: 2017-04-27T10:33:05.000000Z
 release_date: "2014-06-01"
 release_id: "3339945"
+apple_music_url: "https://music.apple.com/gb/album/mad-dogs-englishmen/886524874"
 slug: "mad-dogs-englishmen-3339945"
 hideSummary: true
 cover:

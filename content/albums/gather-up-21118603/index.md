@@ -6,6 +6,7 @@ album_name: "Gather Up"
 date: 2021-11-26T09:12:23.000000Z
 release_date: "2021-11-26"
 release_id: "21118603"
+apple_music_url: "https://music.apple.com/gb/album/gather-up/1583801242"
 slug: "gather-up-21118603"
 hideSummary: true
 cover:

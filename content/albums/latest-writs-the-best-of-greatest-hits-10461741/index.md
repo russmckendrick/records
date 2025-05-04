@@ -6,6 +6,7 @@ album_name: "Latest Writs The Best Of... Greatest Hits"
 date: 2018-12-22T10:29:49.000000Z
 release_date: ""
 release_id: "10461741"
+apple_music_url: ""
 slug: "latest-writs-the-best-of-greatest-hits-10461741"
 hideSummary: true
 cover:

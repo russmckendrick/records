@@ -6,6 +6,7 @@ album_name: "In League With Dragons"
 date: 2019-04-27T12:02:19.000000Z
 release_date: "2019-04-26"
 release_id: "13531986"
+apple_music_url: "https://music.apple.com/gb/album/in-league-with-dragons/1449160212"
 slug: "in-league-with-dragons-13531986"
 hideSummary: true
 cover:

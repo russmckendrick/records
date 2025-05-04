@@ -6,6 +6,7 @@ album_name: "Piano & A Microphone 1983"
 date: 2019-05-10T18:53:32.000000Z
 release_date: "2018-09-21"
 release_id: "12564159"
+apple_music_url: "https://music.apple.com/gb/album/piano-a-microphone-1983/1393183394"
 slug: "piano-a-microphone-1983-12564159"
 hideSummary: true
 cover:

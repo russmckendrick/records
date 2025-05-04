@@ -6,6 +6,7 @@ album_name: "Someone Here Is Missing"
 date: 2019-09-13T17:46:08.000000Z
 release_date: "2010-05-24"
 release_id: "13312163"
+apple_music_url: "https://music.apple.com/gb/album/someone-here-is-missing/369027963"
 slug: "someone-here-is-missing-13312163"
 hideSummary: true
 cover:

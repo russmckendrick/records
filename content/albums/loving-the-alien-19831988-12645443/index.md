@@ -6,6 +6,7 @@ album_name: "Loving The Alien [ 1983–1988 ]"
 date: 2018-10-14T15:26:05.000000Z
 release_date: "2018-10-12"
 release_id: "12645443"
+apple_music_url: "https://music.apple.com/gb/album/loving-the-alien-1983-1988-remastered/1416872602"
 slug: "loving-the-alien-19831988-12645443"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Colours In The Sun"
 date: 2019-11-04T18:58:39.000000Z
 release_date: "2019-11-01"
 release_id: "14328273"
+apple_music_url: "https://music.apple.com/gb/album/colours-in-the-sun/1473359674"
 slug: "colours-in-the-sun-14328273"
 hideSummary: true
 cover:

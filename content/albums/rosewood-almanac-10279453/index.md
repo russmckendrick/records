@@ -6,6 +6,7 @@ album_name: "Rosewood Almanac"
 date: 2017-05-16T18:15:40.000000Z
 release_date: "2017-05-12"
 release_id: "10279453"
+apple_music_url: "https://music.apple.com/gb/album/rosewood-almanac/1199406397"
 slug: "rosewood-almanac-10279453"
 hideSummary: true
 cover:

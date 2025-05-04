@@ -6,6 +6,7 @@ album_name: "The Big Area"
 date: 2016-07-05T18:10:33.000000Z
 release_date: "1989-01-01"
 release_id: "265140"
+apple_music_url: "https://music.apple.com/gb/album/the-big-area/1320027819"
 slug: "the-big-area-265140"
 hideSummary: true
 cover:

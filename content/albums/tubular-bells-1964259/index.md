@@ -6,6 +6,7 @@ album_name: "Tubular Bells"
 date: 2015-09-21T17:34:23.000000Z
 release_date: "2007"
 release_id: "1964259"
+apple_music_url: "https://music.apple.com/gb/album/oldfield-tubular-bells-pt-1/720161872"
 slug: "tubular-bells-1964259"
 hideSummary: true
 cover:

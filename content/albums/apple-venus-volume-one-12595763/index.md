@@ -6,6 +6,7 @@ album_name: "Apple Venus Volume One"
 date: 2018-10-27T09:36:06.000000Z
 release_date: "1999-02-17"
 release_id: "12595763"
+apple_music_url: "https://music.apple.com/gb/album/apple-venus-volume-one/1786881419"
 slug: "apple-venus-volume-one-12595763"
 hideSummary: true
 cover:

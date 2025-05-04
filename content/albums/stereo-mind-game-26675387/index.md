@@ -6,6 +6,7 @@ album_name: "Stereo Mind Game"
 date: 2023-04-23T04:35:10.000000Z
 release_date: "2023-04-07"
 release_id: "26675387"
+apple_music_url: "https://music.apple.com/gb/album/stereo-mind-game/1654233350"
 slug: "stereo-mind-game-26675387"
 hideSummary: true
 cover:

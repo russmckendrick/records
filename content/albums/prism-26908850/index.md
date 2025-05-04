@@ -6,6 +6,7 @@ album_name: "Prism"
 date: 2023-05-02T10:23:09.000000Z
 release_date: "2023-04-28"
 release_id: "26908850"
+apple_music_url: "https://music.apple.com/gb/album/prism-deluxe/1710610022"
 slug: "prism-26908850"
 hideSummary: true
 cover:

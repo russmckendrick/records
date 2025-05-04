@@ -6,6 +6,7 @@ album_name: "Utopia"
 date: 2018-01-06T10:51:41.000000Z
 release_date: "2017-04-17"
 release_id: "11154874"
+apple_music_url: "https://music.apple.com/gb/album/utopia/1726643348"
 slug: "utopia-11154874"
 hideSummary: true
 cover:

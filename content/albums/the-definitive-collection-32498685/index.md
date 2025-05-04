@@ -6,6 +6,7 @@ album_name: "The Definitive Collection"
 date: 2024-12-13T03:28:59.000000Z
 release_date: "2002-10-21"
 release_id: "32498685"
+apple_music_url: "https://music.apple.com/gb/album/the-definitive-collection/1446742602"
 slug: "the-definitive-collection-32498685"
 hideSummary: true
 cover:

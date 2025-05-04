@@ -6,6 +6,7 @@ album_name: "Teenager Of The Year"
 date: 2019-04-16T16:23:57.000000Z
 release_date: "1994-05-24"
 release_id: "13452170"
+apple_music_url: "https://music.apple.com/gb/album/teenager-of-the-year/126286447"
 slug: "teenager-of-the-year-13452170"
 hideSummary: true
 cover:

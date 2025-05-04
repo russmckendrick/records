@@ -6,6 +6,7 @@ album_name: "A Monstrous Psychedelic Bubble (Exploding In Your Mind) The Wizards
 date: 2017-04-22T10:00:59.000000Z
 release_date: ""
 release_id: "8632226"
+apple_music_url: ""
 slug: "a-monstrous-psychedelic-bubble-exploding-in-your-mind-the-wizards-of-oz-8632226"
 hideSummary: true
 cover:

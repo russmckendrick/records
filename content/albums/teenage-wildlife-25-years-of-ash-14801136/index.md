@@ -6,6 +6,7 @@ album_name: "Teenage Wildlife: 25 Years Of Ash"
 date: 2020-02-16T15:23:32.000000Z
 release_date: "2020-02-14"
 release_id: "14801136"
+apple_music_url: "https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1494053455"
 slug: "teenage-wildlife-25-years-of-ash-14801136"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Whatever You Want"
 date: 2016-05-23T18:28:27.000000Z
 release_date: "1979-10-20"
 release_id: "7581244"
+apple_music_url: "https://music.apple.com/gb/album/whatever-you-want/1443409213"
 slug: "whatever-you-want-7581244"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "...And Then There Were Three..."
 date: 2024-11-22T03:22:01.000000Z
 release_date: "1978-03-31"
 release_id: "31143704"
+apple_music_url: "https://music.apple.com/gb/album/and-then-there-were-three-remastered/1472172127"
 slug: "and-then-there-were-three-31143704"
 hideSummary: true
 cover:

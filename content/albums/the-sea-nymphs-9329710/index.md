@@ -6,6 +6,7 @@ album_name: "The Sea Nymphs"
 date: 2016-11-09T20:12:29.000000Z
 release_date: "1991-01-01"
 release_id: "9329710"
+apple_music_url: "https://music.apple.com/gb/album/the-sea-nymphs/1178220150"
 slug: "the-sea-nymphs-9329710"
 hideSummary: true
 cover:

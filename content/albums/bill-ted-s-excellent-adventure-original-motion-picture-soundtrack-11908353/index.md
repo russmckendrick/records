@@ -6,6 +6,7 @@ album_name: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtra
 date: 2018-11-30T15:23:32.000000Z
 release_date: ""
 release_id: "11908353"
+apple_music_url: ""
 slug: "bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353"
 hideSummary: true
 cover:

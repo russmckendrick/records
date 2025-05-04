@@ -6,6 +6,7 @@ album_name: "Tea For The Tillerman²"
 date: 2020-09-19T09:36:07.000000Z
 release_date: "2020-09-18"
 release_id: "15934691"
+apple_music_url: "https://music.apple.com/gb/album/tea-for-the-tillerman/1513608539"
 slug: "tea-for-the-tillerman-15934691"
 hideSummary: true
 cover:

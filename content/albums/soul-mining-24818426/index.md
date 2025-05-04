@@ -6,6 +6,7 @@ album_name: "Soul Mining"
 date: 2022-10-14T05:54:29.000000Z
 release_date: "1983"
 release_id: "24818426"
+apple_music_url: "https://music.apple.com/gb/album/soul-mining/457379243"
 slug: "soul-mining-24818426"
 hideSummary: true
 cover:

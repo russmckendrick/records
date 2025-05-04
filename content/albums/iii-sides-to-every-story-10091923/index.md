@@ -6,6 +6,7 @@ album_name: "III Sides To Every Story"
 date: 2017-05-03T19:19:51.000000Z
 release_date: "1992-01-01"
 release_id: "10091923"
+apple_music_url: "https://music.apple.com/gb/album/iii-sides-to-every-story/1440724126"
 slug: "iii-sides-to-every-story-10091923"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Neo Wave"
 date: 2023-11-07T05:58:15.000000Z
 release_date: "1998-10-05"
 release_id: "25040074"
+apple_music_url: "https://music.apple.com/gb/album/neo-wave/1740871831"
 slug: "neo-wave-25040074"
 hideSummary: true
 cover:

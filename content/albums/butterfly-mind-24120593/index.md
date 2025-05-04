@@ -6,6 +6,7 @@ album_name: "Butterfly Mind"
 date: 2022-08-07T08:03:33.000000Z
 release_date: "2022-06-17"
 release_id: "24120593"
+apple_music_url: "https://music.apple.com/gb/album/butterfly-mind/1613781394"
 slug: "butterfly-mind-24120593"
 hideSummary: true
 cover:

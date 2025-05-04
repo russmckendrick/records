@@ -6,6 +6,7 @@ album_name: "Sublime Meets Scientist & Mad Professor Inna L.B.C."
 date: 2022-01-06T04:39:26.000000Z
 release_date: "2021-10-22"
 release_id: "19113523"
+apple_music_url: "https://music.apple.com/gb/album/sublime-meets-scientist-mad-professor-inna-l-b-c/1585841109"
 slug: "sublime-meets-scientist-mad-professor-inna-l-b-c-19113523"
 hideSummary: true
 cover:

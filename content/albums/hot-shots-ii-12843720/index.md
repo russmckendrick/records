@@ -6,6 +6,7 @@ album_name: "Hot Shots II"
 date: 2018-11-28T09:50:11.000000Z
 release_date: "2001-06-26"
 release_id: "12843720"
+apple_music_url: "https://music.apple.com/gb/album/hot-shots-ii/1339241338"
 slug: "hot-shots-ii-12843720"
 hideSummary: true
 cover:

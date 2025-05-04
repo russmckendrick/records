@@ -6,6 +6,7 @@ album_name: "The Seeds Of Love"
 date: 2016-03-20T10:57:46.000000Z
 release_date: "1989-09-25"
 release_id: "3936935"
+apple_music_url: "https://music.apple.com/gb/album/the-seeds-of-love/1527554451"
 slug: "the-seeds-of-love-3936935"
 hideSummary: true
 cover:

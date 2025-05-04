@@ -6,6 +6,7 @@ album_name: "Late Night Final"
 date: 2019-05-17T18:27:28.000000Z
 release_date: "2002-01-01"
 release_id: "6196121"
+apple_music_url: "https://music.apple.com/gb/album/late-night-final/290851062"
 slug: "late-night-final-6196121"
 hideSummary: true
 cover:

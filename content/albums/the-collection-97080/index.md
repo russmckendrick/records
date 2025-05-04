@@ -6,6 +6,7 @@ album_name: "The Collection"
 date: 2019-11-08T19:52:05.000000Z
 release_date: "1984-11-02"
 release_id: "97080"
+apple_music_url: "https://music.apple.com/gb/album/the-collection/1629178655"
 slug: "the-collection-97080"
 hideSummary: true
 cover:

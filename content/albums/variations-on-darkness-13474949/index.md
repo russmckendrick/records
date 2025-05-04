@@ -6,6 +6,7 @@ album_name: "Variations On Darkness"
 date: 2019-04-13T11:16:44.000000Z
 release_date: "2019-04-13"
 release_id: "13474949"
+apple_music_url: "https://music.apple.com/gb/album/variations-on-darkness/1458756921"
 slug: "variations-on-darkness-13474949"
 hideSummary: true
 cover:

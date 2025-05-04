@@ -6,6 +6,7 @@ album_name: "The Atlantic Years - In Mono"
 date: 2016-09-24T14:19:56.000000Z
 release_date: "2016-09-23"
 release_id: "9092544"
+apple_music_url: "https://music.apple.com/gb/album/the-atlantic-years-in-mono-remastered/1154934405"
 slug: "the-atlantic-years-in-mono-9092544"
 hideSummary: true
 cover:

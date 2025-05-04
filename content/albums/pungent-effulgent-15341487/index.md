@@ -6,6 +6,7 @@ album_name: "Pungent Effulgent"
 date: 2020-06-01T13:34:25.000000Z
 release_date: "1989-01-01"
 release_id: "15341487"
+apple_music_url: "https://music.apple.com/gb/album/pungent-effulgent/1189443799"
 slug: "pungent-effulgent-15341487"
 hideSummary: true
 cover:

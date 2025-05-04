@@ -6,6 +6,7 @@ album_name: "The Twenty Seven Club"
 date: 2017-08-06T11:02:43.000000Z
 release_date: ""
 release_id: "6321416"
+apple_music_url: ""
 slug: "the-twenty-seven-club-6321416"
 hideSummary: true
 cover:

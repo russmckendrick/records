@@ -6,6 +6,7 @@ album_name: "The Greatest Hits"
 date: 2019-12-24T13:17:21.000000Z
 release_date: "1993-11-16"
 release_id: "14199596"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-thunder/693200360"
 slug: "the-greatest-hits-14199596"
 hideSummary: true
 cover:

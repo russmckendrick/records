@@ -6,6 +6,7 @@ album_name: "American Thighs"
 date: 2020-01-03T18:30:41.000000Z
 release_date: "1994-09-27"
 release_id: "2258972"
+apple_music_url: "https://music.apple.com/gb/album/american-thighs/265134156"
 slug: "american-thighs-2258972"
 hideSummary: true
 cover:

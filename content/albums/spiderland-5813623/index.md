@@ -6,6 +6,7 @@ album_name: "Spiderland"
 date: 2015-08-21T17:41:10.000000Z
 release_date: "1991-03-15"
 release_id: "5813623"
+apple_music_url: "https://music.apple.com/gb/album/spiderland/1117723921"
 slug: "spiderland-5813623"
 hideSummary: true
 cover:

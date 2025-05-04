@@ -6,6 +6,7 @@ album_name: "Siamese Dream"
 date: 2025-04-25T00:58:05.000000Z
 release_date: "1993-07-27"
 release_id: "33678246"
+apple_music_url: "https://music.apple.com/gb/album/siamese-dream/721207206"
 slug: "siamese-dream-33678246"
 hideSummary: true
 cover:

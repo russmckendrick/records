@@ -6,6 +6,7 @@ album_name: "Mike + The Mechanics"
 date: 2016-01-20T19:29:12.000000Z
 release_date: "1985"
 release_id: "1134097"
+apple_music_url: "https://music.apple.com/gb/album/mike-the-mechanics/1721958796"
 slug: "mike-the-mechanics-1134097"
 hideSummary: true
 cover:

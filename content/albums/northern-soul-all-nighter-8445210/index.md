@@ -6,6 +6,7 @@ album_name: "Northern Soul All Nighter"
 date: 2017-03-02T17:33:01.000000Z
 release_date: ""
 release_id: "8445210"
+apple_music_url: ""
 slug: "northern-soul-all-nighter-8445210"
 hideSummary: true
 cover:

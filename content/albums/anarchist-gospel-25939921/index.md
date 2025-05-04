@@ -6,6 +6,7 @@ album_name: "Anarchist Gospel"
 date: 2023-02-06T11:34:03.000000Z
 release_date: "2023-02-03"
 release_id: "25939921"
+apple_music_url: "https://music.apple.com/gb/album/anarchist-gospel/1645020451"
 slug: "anarchist-gospel-25939921"
 hideSummary: true
 cover:

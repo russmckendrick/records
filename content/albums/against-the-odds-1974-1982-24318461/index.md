@@ -6,6 +6,7 @@ album_name: "Against The Odds 1974-1982"
 date: 2022-12-04T04:16:01.000000Z
 release_date: "2022-08-26"
 release_id: "24318461"
+apple_music_url: "https://music.apple.com/gb/album/against-the-odds-1974-1982/1625686357"
 slug: "against-the-odds-1974-1982-24318461"
 hideSummary: true
 cover:

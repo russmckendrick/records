@@ -6,6 +6,7 @@ album_name: "Hup"
 date: 2016-11-16T13:03:18.000000Z
 release_date: "2000-01-01"
 release_id: "3580276"
+apple_music_url: "https://music.apple.com/gb/album/love-bites-bruises-a-wonder-stuff-compilation/1452860148"
 slug: "hup-3580276"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Music For Insomniacs"
 date: 2015-12-28T14:08:37.000000Z
 release_date: "2014-05-19"
 release_id: "5685420"
+apple_music_url: "https://music.apple.com/gb/album/music-for-insomniacs/1152563129"
 slug: "music-for-insomniacs-5685420"
 hideSummary: true
 cover:

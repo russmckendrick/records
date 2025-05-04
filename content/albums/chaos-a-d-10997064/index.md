@@ -6,6 +6,7 @@ album_name: "Chaos A.D."
 date: 2018-01-20T19:09:20.000000Z
 release_date: "1993-09-02"
 release_id: "10997064"
+apple_music_url: "https://music.apple.com/gb/album/chaos-a-d/214479827"
 slug: "chaos-a-d-10997064"
 hideSummary: true
 cover:

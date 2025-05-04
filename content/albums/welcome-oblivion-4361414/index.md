@@ -6,6 +6,7 @@ album_name: "Welcome Oblivion"
 date: 2017-04-14T09:26:29.000000Z
 release_date: "2013-03-01"
 release_id: "4361414"
+apple_music_url: "https://music.apple.com/gb/album/welcome-oblivion/604859646"
 slug: "welcome-oblivion-4361414"
 hideSummary: true
 cover:

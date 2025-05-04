@@ -6,6 +6,7 @@ album_name: "Kin (Original Motion Picture Soundtrack)"
 date: 2018-09-03T17:51:16.000000Z
 release_date: "2018-06-21"
 release_id: "12452058"
+apple_music_url: "https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092"
 slug: "kin-original-motion-picture-soundtrack-12452058"
 hideSummary: true
 cover:

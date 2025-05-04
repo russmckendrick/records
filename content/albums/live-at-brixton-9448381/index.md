@@ -6,6 +6,7 @@ album_name: "Live At Brixton "
 date: 2016-12-08T18:37:14.000000Z
 release_date: "2016-12-02"
 release_id: "9448381"
+apple_music_url: "https://music.apple.com/gb/album/live-at-brixton-live/1738410939"
 slug: "live-at-brixton-9448381"
 hideSummary: true
 cover:

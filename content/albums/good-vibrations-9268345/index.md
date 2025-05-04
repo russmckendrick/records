@@ -6,6 +6,7 @@ album_name: "Good Vibrations"
 date: 2016-10-28T18:30:24.000000Z
 release_date: "2018-06-08"
 release_id: "9268345"
+apple_music_url: "https://music.apple.com/gb/album/the-beach-boys-with-the-royal-philharmonic-orchestra/1377348586"
 slug: "good-vibrations-9268345"
 hideSummary: true
 cover:

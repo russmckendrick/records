@@ -6,6 +6,7 @@ album_name: "Boys and Girls in America"
 date: 2017-04-17T13:21:59.000000Z
 release_date: "2007-01-21"
 release_id: "9520767"
+apple_music_url: "https://music.apple.com/gb/album/boys-and-girls-in-america/208395734"
 slug: "boys-and-girls-in-america-9520767"
 hideSummary: true
 cover:

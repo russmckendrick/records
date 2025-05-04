@@ -6,6 +6,7 @@ album_name: "Autobahn"
 date: 2016-02-21T12:07:02.000000Z
 release_date: "1974-11-01"
 release_id: "1978364"
+apple_music_url: "https://music.apple.com/gb/album/autobahn-remastered/726154713"
 slug: "autobahn-1978364"
 hideSummary: true
 cover:

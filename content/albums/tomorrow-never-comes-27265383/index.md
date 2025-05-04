@@ -6,6 +6,7 @@ album_name: "Tomorrow Never Comes"
 date: 2023-06-02T09:37:24.000000Z
 release_date: "2023-06-02"
 release_id: "27265383"
+apple_music_url: "https://music.apple.com/gb/album/tomorrow-never-comes/1678535120"
 slug: "tomorrow-never-comes-27265383"
 hideSummary: true
 cover:

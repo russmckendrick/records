@@ -6,6 +6,7 @@ album_name: "Affinity"
 date: 2021-03-08T12:38:35.000000Z
 release_date: "2016-04-29"
 release_id: "17746783"
+apple_music_url: "https://music.apple.com/gb/album/affinity/1088398278"
 slug: "affinity-17746783"
 hideSummary: true
 cover:

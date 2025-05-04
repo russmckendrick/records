@@ -6,6 +6,7 @@ album_name: "Mental Notes"
 date: 2018-09-29T09:45:26.000000Z
 release_date: "1975-07-31"
 release_id: "1445113"
+apple_music_url: "https://music.apple.com/gb/album/mental-notes/1629181127"
 slug: "mental-notes-1445113"
 hideSummary: true
 cover:

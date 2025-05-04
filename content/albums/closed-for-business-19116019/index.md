@@ -6,6 +6,7 @@ album_name: "Closed For Business"
 date: 2021-06-18T04:51:49.000000Z
 release_date: "2020-11-27"
 release_id: "19116019"
+apple_music_url: "https://music.apple.com/gb/album/closed-for-business/1770512039"
 slug: "closed-for-business-19116019"
 hideSummary: true
 cover:

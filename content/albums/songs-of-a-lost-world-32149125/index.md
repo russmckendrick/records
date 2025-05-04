@@ -6,6 +6,7 @@ album_name: "Songs Of A Lost World"
 date: 2024-11-01T08:18:44.000000Z
 release_date: "2024-11-01"
 release_id: "32149125"
+apple_music_url: "https://music.apple.com/gb/album/songs-of-a-lost-world/1768728131"
 slug: "songs-of-a-lost-world-32149125"
 hideSummary: true
 cover:

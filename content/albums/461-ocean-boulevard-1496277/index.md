@@ -6,6 +6,7 @@ album_name: "461 Ocean Boulevard"
 date: 2020-08-02T13:40:52.000000Z
 release_date: "1974-07-01"
 release_id: "1496277"
+apple_music_url: "https://music.apple.com/gb/album/461-ocean-boulevard/1440851328"
 slug: "461-ocean-boulevard-1496277"
 hideSummary: true
 cover:

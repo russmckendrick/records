@@ -6,6 +6,7 @@ album_name: "Villains"
 date: 2017-08-25T17:20:16.000000Z
 release_date: "1998-09-22"
 release_id: "10740995"
+apple_music_url: "https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082"
 slug: "villains-10740995"
 hideSummary: true
 cover:

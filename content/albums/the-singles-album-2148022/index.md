@@ -6,6 +6,7 @@ album_name: "The Singles Album"
 date: 2016-04-08T19:08:40.000000Z
 release_date: "2024-09-27"
 release_id: "2148022"
+apple_music_url: "https://music.apple.com/gb/album/jimi-hendrix-single/1765290097"
 slug: "the-singles-album-2148022"
 hideSummary: true
 cover:

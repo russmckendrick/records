@@ -6,6 +6,7 @@ album_name: "Free All Angels"
 date: 2022-09-16T09:28:53.000000Z
 release_date: "2001-04-16"
 release_id: "24515054"
+apple_music_url: "https://music.apple.com/gb/album/free-all-angels/1437339338"
 slug: "free-all-angels-24515054"
 hideSummary: true
 cover:

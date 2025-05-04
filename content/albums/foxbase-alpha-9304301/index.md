@@ -6,6 +6,7 @@ album_name: "Foxbase Alpha"
 date: 2024-11-02T10:47:07.000000Z
 release_date: "1991-09-16"
 release_id: "9304301"
+apple_music_url: "https://music.apple.com/gb/album/foxbase-alpha/1237421463"
 slug: "foxbase-alpha-9304301"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Blaze Of Glory"
 date: 2018-09-07T18:30:44.000000Z
 release_date: "1982"
 release_id: "1972307"
+apple_music_url: "https://music.apple.com/gb/album/blaze-of-glory/910055921"
 slug: "blaze-of-glory-1972307"
 hideSummary: true
 cover:

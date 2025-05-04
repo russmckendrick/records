@@ -6,6 +6,7 @@ album_name: "The Temperance Movement"
 date: 2016-01-18T18:40:10.000000Z
 release_date: "2013-09-16"
 release_id: "4953828"
+apple_music_url: "https://music.apple.com/gb/album/the-temperance-movement-deluxe-edition/909486206"
 slug: "the-temperance-movement-4953828"
 hideSummary: true
 cover:

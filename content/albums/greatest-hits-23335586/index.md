@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2022-06-04T02:27:42.000000Z
 release_date: "1994-07-09"
 release_id: "23335586"
+apple_music_url: "https://music.apple.com/gb/album/whitesnakes-greatest-hits/699743480"
 slug: "greatest-hits-23335586"
 hideSummary: true
 cover:

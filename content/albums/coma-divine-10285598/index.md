@@ -6,6 +6,7 @@ album_name: "Coma Divine"
 date: 2017-05-20T15:11:49.000000Z
 release_date: "1997-10-03"
 release_id: "10285598"
+apple_music_url: "https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787"
 slug: "coma-divine-10285598"
 hideSummary: true
 cover:

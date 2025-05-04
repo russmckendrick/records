@@ -6,6 +6,7 @@ album_name: "Hellfire"
 date: 2022-08-01T06:02:49.000000Z
 release_date: "2022-07-15"
 release_id: "23908982"
+apple_music_url: "https://music.apple.com/gb/album/hellfire/1613170781"
 slug: "hellfire-23908982"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "In Space"
 date: 2021-07-31T07:48:51.000000Z
 release_date: "1975"
 release_id: "14299811"
+apple_music_url: "https://music.apple.com/gb/album/evening-star/1477532178"
 slug: "in-space-14299811"
 hideSummary: true
 cover:

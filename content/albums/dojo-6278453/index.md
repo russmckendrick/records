@@ -6,6 +6,7 @@ album_name: "Dojo"
 date: 2017-11-20T14:15:28.000000Z
 release_date: "2014-11-03"
 release_id: "6278453"
+apple_music_url: "https://music.apple.com/gb/album/dojo/892082605"
 slug: "dojo-6278453"
 hideSummary: true
 cover:

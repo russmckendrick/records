@@ -6,6 +6,7 @@ album_name: "Pelican West 40 - The Celebration Edition"
 date: 2025-03-20T06:07:53.000000Z
 release_date: "1982-02"
 release_id: "27880893"
+apple_music_url: "https://music.apple.com/gb/album/pelican-west-40th-anniversary/1667532975"
 slug: "pelican-west-40-the-celebration-edition-27880893"
 hideSummary: true
 cover:

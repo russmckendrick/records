@@ -6,6 +6,7 @@ album_name: "In-A-Gadda-Da-Vida"
 date: 2017-01-30T18:25:20.000000Z
 release_date: "1968-06-14"
 release_id: "9641670"
+apple_music_url: "https://music.apple.com/gb/album/in-a-gadda-da-vida/780234002"
 slug: "in-a-gadda-da-vida-9641670"
 hideSummary: true
 cover:

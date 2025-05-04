@@ -6,6 +6,7 @@ album_name: "Stay Human Vol. II"
 date: 2019-01-27T14:28:39.000000Z
 release_date: "2019-01-25"
 release_id: "13122410"
+apple_music_url: "https://music.apple.com/gb/album/stay-human-vol-2/1437855831"
 slug: "stay-human-vol-ii-13122410"
 hideSummary: true
 cover:

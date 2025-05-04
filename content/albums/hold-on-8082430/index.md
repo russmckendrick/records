@@ -6,6 +6,7 @@ album_name: "Hold On!"
 date: 2016-02-08T18:19:52.000000Z
 release_date: "2016-02-05"
 release_id: "8082430"
+apple_music_url: "https://music.apple.com/gb/album/hold-on/1485062879"
 slug: "hold-on-8082430"
 hideSummary: true
 cover:

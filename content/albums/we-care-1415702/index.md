@@ -6,6 +6,7 @@ album_name: "We Care"
 date: 2019-08-23T14:14:24.000000Z
 release_date: "1995-01-01"
 release_id: "1415702"
+apple_music_url: "https://music.apple.com/gb/album/we-care/724612339"
 slug: "we-care-1415702"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Salvage Enterprise"
 date: 2023-11-21T10:25:43.000000Z
 release_date: "2023-11-17"
 release_id: "28945606"
+apple_music_url: "https://music.apple.com/gb/album/salvage-enterprise/1705065928"
 slug: "salvage-enterprise-28945606"
 hideSummary: true
 cover:

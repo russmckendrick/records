@@ -6,6 +6,7 @@ album_name: "The Greatest Hits, So Far"
 date: 2016-04-25T21:06:35.000000Z
 release_date: "2011-01-01"
 release_id: "5905459"
+apple_music_url: "https://music.apple.com/gb/album/the-greatest-hits-so-far-remastered/714765153"
 slug: "the-greatest-hits-so-far-5905459"
 hideSummary: true
 cover:

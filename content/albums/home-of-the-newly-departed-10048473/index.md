@@ -6,6 +6,7 @@ album_name: "Home Of The Newly Departed"
 date: 2017-06-18T12:43:37.000000Z
 release_date: "2015-05-18"
 release_id: "10048473"
+apple_music_url: "https://music.apple.com/gb/album/home-of-the-newly-departed/1510605584"
 slug: "home-of-the-newly-departed-10048473"
 hideSummary: true
 cover:

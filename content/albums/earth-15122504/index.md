@@ -6,6 +6,7 @@ album_name: "Earth"
 date: 2020-04-27T12:46:53.000000Z
 release_date: "2000-01-01"
 release_id: "15122504"
+apple_music_url: "https://music.apple.com/gb/album/maker-of-heaven-and-earth/1198830727"
 slug: "earth-15122504"
 hideSummary: true
 cover:

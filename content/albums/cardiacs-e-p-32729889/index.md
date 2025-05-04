@@ -6,6 +6,7 @@ album_name: "Cardiacs E.P."
 date: 2025-01-17T10:58:25.000000Z
 release_date: ""
 release_id: "32729889"
+apple_music_url: ""
 slug: "cardiacs-e-p-32729889"
 hideSummary: true
 cover:

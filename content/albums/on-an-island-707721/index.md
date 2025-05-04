@@ -6,6 +6,7 @@ album_name: "On An Island"
 date: 2015-10-12T18:45:01.000000Z
 release_date: "2006-03-06"
 release_id: "707721"
+apple_music_url: "https://music.apple.com/gb/album/on-an-island/703028242"
 slug: "on-an-island-707721"
 hideSummary: true
 cover:

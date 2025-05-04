@@ -6,6 +6,7 @@ album_name: "Teach Yself WAH! - A Best of Pete Wylie & The Mighty WAH!"
 date: 2024-03-08T03:32:27.000000Z
 release_date: "2024-03-01"
 release_id: "29966587"
+apple_music_url: "https://music.apple.com/gb/album/teach-yself-wah-a-best-of/1732680365"
 slug: "teach-yself-wah-a-best-of-pete-wylie-the-mighty-wah-29966587"
 hideSummary: true
 cover:

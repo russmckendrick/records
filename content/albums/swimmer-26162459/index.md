@@ -6,6 +6,7 @@ album_name: "Swimmer"
 date: 2024-05-20T08:32:33.000000Z
 release_date: "2020-02-14"
 release_id: "26162459"
+apple_music_url: "https://music.apple.com/gb/album/swimmer/1489443683"
 slug: "swimmer-26162459"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "New Adventures In Hi-Fi"
 date: 2021-11-11T09:23:10.000000Z
 release_date: "1996-09-10"
 release_id: "20712988"
+apple_music_url: "https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221"
 slug: "new-adventures-in-hi-fi-20712988"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Hurry Up, We're Dreaming."
 date: 2022-04-24T04:26:51.000000Z
 release_date: "2011-10-17"
 release_id: "22814186"
+apple_music_url: "https://music.apple.com/gb/album/hurry-up-were-dreaming/1674216738"
 slug: "hurry-up-we-re-dreaming-22814186"
 hideSummary: true
 cover:

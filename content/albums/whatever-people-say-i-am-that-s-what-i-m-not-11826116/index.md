@@ -6,6 +6,7 @@ album_name: "Whatever People Say I Am, That's What I'm Not"
 date: 2018-04-17T18:52:04.000000Z
 release_date: "2006-01-23"
 release_id: "11826116"
+apple_music_url: "https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953"
 slug: "whatever-people-say-i-am-that-s-what-i-m-not-11826116"
 hideSummary: true
 cover:

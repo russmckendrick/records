@@ -6,6 +6,7 @@ album_name: "Out Of Season"
 date: 2019-10-11T14:38:00.000000Z
 release_date: "2002-01-01"
 release_id: "14252668"
+apple_music_url: "https://music.apple.com/gb/album/out-of-season/1443794694"
 slug: "out-of-season-14252668"
 hideSummary: true
 cover:

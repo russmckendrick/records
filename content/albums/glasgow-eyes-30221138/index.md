@@ -6,6 +6,7 @@ album_name: "Glasgow Eyes"
 date: 2024-03-29T07:20:15.000000Z
 release_date: "2024-03-22"
 release_id: "30221138"
+apple_music_url: "https://music.apple.com/gb/album/glasgow-eyes/1718603729"
 slug: "glasgow-eyes-30221138"
 hideSummary: true
 cover:

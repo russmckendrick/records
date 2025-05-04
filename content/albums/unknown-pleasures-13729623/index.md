@@ -6,6 +6,7 @@ album_name: "Unknown Pleasures"
 date: 2019-06-17T17:32:30.000000Z
 release_date: "2010-08-15"
 release_id: "13729623"
+apple_music_url: "https://music.apple.com/gb/album/joy-divisions-unknown-pleasures-orchestral-version/1582070358"
 slug: "unknown-pleasures-13729623"
 hideSummary: true
 cover:

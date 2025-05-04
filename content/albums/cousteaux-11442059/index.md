@@ -6,6 +6,7 @@ album_name: "CousteauX"
 date: 2018-01-31T19:28:28.000000Z
 release_date: "2017-09-15"
 release_id: "11442059"
+apple_music_url: "https://music.apple.com/gb/album/cousteaux/1262552397"
 slug: "cousteaux-11442059"
 hideSummary: true
 cover:

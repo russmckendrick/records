@@ -6,6 +6,7 @@ album_name: "Everyone’s Getting Involved: A Tribute To Talking Heads’ Stop M
 date: 2024-07-30T03:44:45.000000Z
 release_date: ""
 release_id: "31314999"
+apple_music_url: ""
 slug: "everyones-getting-involved-a-tribute-to-talking-heads-stop-making-sense-31314999"
 hideSummary: true
 cover:

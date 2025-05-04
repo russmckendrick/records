@@ -6,6 +6,7 @@ album_name: "Planet Silver Screen"
 date: 2019-01-03T18:24:32.000000Z
 release_date: "2018-11-09"
 release_id: "12774767"
+apple_music_url: "https://music.apple.com/gb/album/planet-silver-screen/1414568711"
 slug: "planet-silver-screen-12774767"
 hideSummary: true
 cover:

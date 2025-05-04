@@ -6,6 +6,7 @@ album_name: "It Doesn't Matter Anymore"
 date: 2023-12-29T04:33:09.000000Z
 release_date: "1997"
 release_id: "26715137"
+apple_music_url: "https://music.apple.com/gb/album/it-doesnt-matter-anymore-expanded-edition/1607113467"
 slug: "it-doesn-t-matter-anymore-26715137"
 hideSummary: true
 cover:

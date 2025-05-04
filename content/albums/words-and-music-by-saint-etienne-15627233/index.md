@@ -6,6 +6,7 @@ album_name: "Words And Music By Saint Etienne "
 date: 2020-07-17T12:17:15.000000Z
 release_date: "2012-05-18"
 release_id: "15627233"
+apple_music_url: "https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307"
 slug: "words-and-music-by-saint-etienne-15627233"
 hideSummary: true
 cover:

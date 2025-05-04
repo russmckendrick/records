@@ -6,6 +6,7 @@ album_name: "Exit Planet Dust"
 date: 2018-06-13T17:28:36.000000Z
 release_date: "1995-06-26"
 release_id: "9241739"
+apple_music_url: "https://music.apple.com/gb/album/exit-planet-dust/723670972"
 slug: "exit-planet-dust-9241739"
 hideSummary: true
 cover:

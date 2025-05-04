@@ -6,6 +6,7 @@ album_name: "Boxer"
 date: 2017-08-13T18:21:29.000000Z
 release_date: "2007-05-22"
 release_id: "10689734"
+apple_music_url: "https://music.apple.com/gb/album/boxer/220311706"
 slug: "boxer-10689734"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "A Collection Of Great Dance Songs"
 date: 2017-11-17T16:42:52.000000Z
 release_date: "1981-11-23"
 release_id: "11065998"
+apple_music_url: "https://music.apple.com/gb/album/a-collection-of-great-dance-songs/734647165"
 slug: "a-collection-of-great-dance-songs-11065998"
 hideSummary: true
 cover:

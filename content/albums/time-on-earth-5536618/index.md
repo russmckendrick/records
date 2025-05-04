@@ -6,6 +6,7 @@ album_name: "Time On Earth"
 date: 2016-01-04T17:49:06.000000Z
 release_date: "2007-06-25"
 release_id: "5536618"
+apple_music_url: "https://music.apple.com/gb/album/time-on-earth/1598872394"
 slug: "time-on-earth-5536618"
 hideSummary: true
 cover:

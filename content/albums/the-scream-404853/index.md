@@ -6,6 +6,7 @@ album_name: "The Scream"
 date: 2020-08-02T13:44:57.000000Z
 release_date: "1978-11-13"
 release_id: "404853"
+apple_music_url: "https://music.apple.com/gb/album/the-scream/1412054157"
 slug: "the-scream-404853"
 hideSummary: true
 cover:

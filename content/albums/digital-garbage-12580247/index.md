@@ -6,6 +6,7 @@ album_name: "Digital Garbage"
 date: 2018-10-01T17:55:11.000000Z
 release_date: "2018-09-28"
 release_id: "12580247"
+apple_music_url: "https://music.apple.com/gb/album/digital-garbage/1399701869"
 slug: "digital-garbage-12580247"
 hideSummary: true
 cover:

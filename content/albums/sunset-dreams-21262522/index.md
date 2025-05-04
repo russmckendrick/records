@@ -6,6 +6,7 @@ album_name: "Sunset Dreams"
 date: 2021-12-16T11:49:22.000000Z
 release_date: "2021-09-28"
 release_id: "21262522"
+apple_music_url: "https://music.apple.com/gb/album/sunset-dreams/1668233212"
 slug: "sunset-dreams-21262522"
 hideSummary: true
 cover:

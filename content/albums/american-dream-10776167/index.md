@@ -6,6 +6,7 @@ album_name: "American Dream"
 date: 2017-09-01T18:42:49.000000Z
 release_date: "2017-09-01"
 release_id: "10776167"
+apple_music_url: "https://music.apple.com/gb/album/american-dream/1258822744"
 slug: "american-dream-10776167"
 hideSummary: true
 cover:

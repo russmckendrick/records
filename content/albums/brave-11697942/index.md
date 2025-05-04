@@ -6,6 +6,7 @@ album_name: "Brave "
 date: 2018-03-12T19:32:55.000000Z
 release_date: "1994-02-07"
 release_id: "11697942"
+apple_music_url: "https://music.apple.com/gb/album/brave/693409538"
 slug: "brave-11697942"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Georgia Satellites"
 date: 2020-07-08T13:15:29.000000Z
 release_date: "1986-09-16"
 release_id: "9581842"
+apple_music_url: "https://music.apple.com/gb/album/georgia-satellites/298088771"
 slug: "georgia-satellites-9581842"
 hideSummary: true
 cover:

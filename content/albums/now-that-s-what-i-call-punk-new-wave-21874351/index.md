@@ -6,6 +6,7 @@ album_name: "Now That's What I Call Punk & New Wave"
 date: 2022-01-25T03:55:56.000000Z
 release_date: ""
 release_id: "21874351"
+apple_music_url: ""
 slug: "now-that-s-what-i-call-punk-new-wave-21874351"
 hideSummary: true
 cover:

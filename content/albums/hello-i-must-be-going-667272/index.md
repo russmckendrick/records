@@ -6,6 +6,7 @@ album_name: "Hello, I Must Be Going!"
 date: 2020-08-02T13:36:34.000000Z
 release_date: "1982-11-05"
 release_id: "667272"
+apple_music_url: "https://music.apple.com/gb/album/hello-i-must-be-going-remastered/1084057959"
 slug: "hello-i-must-be-going-667272"
 hideSummary: true
 cover:

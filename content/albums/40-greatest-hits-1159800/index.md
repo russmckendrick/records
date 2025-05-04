@@ -5,6 +5,7 @@ artist: "elvis-presley"
 album_name: "40 Greatest Hits"
 date: 2016-01-08T19:12:12.000000Z
 release_id: "1159800"
+apple_music_url: "https://music.apple.com/gb/album/burning-love-40-greatest-hits-of-elvis-presley/1521597171"
 slug: "40-greatest-hits-1159800"
 hideSummary: true
 cover:

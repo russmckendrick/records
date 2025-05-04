@@ -6,6 +6,7 @@ album_name: "Rockin' All Over The World"
 date: 2016-05-23T18:27:52.000000Z
 release_date: "1977-11-11"
 release_id: "7581010"
+apple_music_url: "https://music.apple.com/gb/album/rockin-all-over-the-world/1443403096"
 slug: "rockin-all-over-the-world-7581010"
 hideSummary: true
 cover:

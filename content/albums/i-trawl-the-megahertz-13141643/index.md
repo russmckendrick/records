@@ -6,6 +6,7 @@ album_name: "I Trawl The Megahertz"
 date: 2019-02-01T19:30:09.000000Z
 release_date: "2003-05-27"
 release_id: "13141643"
+apple_music_url: "https://music.apple.com/gb/album/i-trawl-the-megahertz/1441428258"
 slug: "i-trawl-the-megahertz-13141643"
 hideSummary: true
 cover:

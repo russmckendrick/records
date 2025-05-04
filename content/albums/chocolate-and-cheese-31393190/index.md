@@ -6,6 +6,7 @@ album_name: "Chocolate And Cheese"
 date: 2024-09-01T08:14:42.000000Z
 release_date: "1994-09-27"
 release_id: "31393190"
+apple_music_url: "https://music.apple.com/gb/album/chocolate-cheese/1538201766"
 slug: "chocolate-and-cheese-31393190"
 hideSummary: true
 cover:

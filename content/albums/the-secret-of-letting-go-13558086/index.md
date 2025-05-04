@@ -6,6 +6,7 @@ album_name: "The Secret Of Letting Go"
 date: 2019-04-28T17:36:52.000000Z
 release_date: "2019-04-26"
 release_id: "13558086"
+apple_music_url: "https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374"
 slug: "the-secret-of-letting-go-13558086"
 hideSummary: true
 cover:

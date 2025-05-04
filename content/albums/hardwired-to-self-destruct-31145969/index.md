@@ -6,6 +6,7 @@ album_name: "Hardwired...To Self-Destruct"
 date: 2024-07-16T11:02:26.000000Z
 release_date: "2016-11-18"
 release_id: "31145969"
+apple_music_url: "https://music.apple.com/gb/album/hardwired-to-self-destruct/1440866700"
 slug: "hardwired-to-self-destruct-31145969"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Vinylcast II 2016 Birthday Roast of Brian Quinn"
 date: 2016-10-19T17:04:07.000000Z
 release_date: ""
 release_id: "9173624"
+apple_music_url: ""
 slug: "vinylcast-ii-2016-birthday-roast-of-brian-quinn-9173624"
 hideSummary: true
 cover:

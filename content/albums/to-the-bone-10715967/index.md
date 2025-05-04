@@ -6,6 +6,7 @@ album_name: "To The Bone"
 date: 2017-08-18T18:21:46.000000Z
 release_date: "2017-08-18"
 release_id: "10715967"
+apple_music_url: "https://music.apple.com/gb/album/to-the-bone/1440885200"
 slug: "to-the-bone-10715967"
 hideSummary: true
 cover:

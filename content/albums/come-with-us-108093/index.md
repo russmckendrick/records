@@ -6,6 +6,7 @@ album_name: "Come With Us"
 date: 2018-06-13T17:29:00.000000Z
 release_date: "2002-01-01"
 release_id: "108093"
+apple_music_url: "https://music.apple.com/gb/album/come-with-us/721206816"
 slug: "come-with-us-108093"
 hideSummary: true
 cover:

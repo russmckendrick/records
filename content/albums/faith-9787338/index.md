@@ -6,6 +6,7 @@ album_name: "Faith"
 date: 2020-08-01T12:43:38.000000Z
 release_date: "1999-12-06"
 release_id: "9787338"
+apple_music_url: "https://music.apple.com/gb/album/songs-from-the-last-century/412466113"
 slug: "faith-9787338"
 hideSummary: true
 cover:

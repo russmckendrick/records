@@ -6,6 +6,7 @@ album_name: "In Through The Out Door"
 date: 2017-02-26T10:58:22.000000Z
 release_date: "2017-04-21"
 release_id: "7303532"
+apple_music_url: "https://music.apple.com/gb/album/in-through-the-out-door/1212517386"
 slug: "in-through-the-out-door-7303532"
 hideSummary: true
 cover:

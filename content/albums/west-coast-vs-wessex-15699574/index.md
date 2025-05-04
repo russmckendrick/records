@@ -6,6 +6,7 @@ album_name: "West Coast Vs. Wessex"
 date: 2020-08-07T08:49:25.000000Z
 release_date: "2020-07-31"
 release_id: "15699574"
+apple_music_url: "https://music.apple.com/gb/album/west-coast-vs-wessex/1511829717"
 slug: "west-coast-vs-wessex-15699574"
 hideSummary: true
 cover:

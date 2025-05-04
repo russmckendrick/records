@@ -6,6 +6,7 @@ album_name: "Furnace Room Lullaby"
 date: 2022-03-19T06:48:23.000000Z
 release_date: ""
 release_id: "8197021"
+apple_music_url: ""
 slug: "furnace-room-lullaby-8197021"
 hideSummary: true
 cover:

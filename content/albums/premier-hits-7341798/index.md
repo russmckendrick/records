@@ -6,6 +6,7 @@ album_name: "Premier Hits"
 date: 2015-08-15T08:06:31.000000Z
 release_date: "1997-03-25"
 release_id: "7341798"
+apple_music_url: "https://music.apple.com/gb/album/premier-hits/1025318240"
 slug: "premier-hits-7341798"
 hideSummary: true
 cover:

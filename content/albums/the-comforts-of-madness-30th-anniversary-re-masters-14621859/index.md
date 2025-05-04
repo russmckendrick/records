@@ -6,6 +6,7 @@ album_name: "The Comforts Of Madness 30th Anniversary Re:Masters"
 date: 2020-01-22T19:06:21.000000Z
 release_date: "1990-02-12"
 release_id: "14621859"
+apple_music_url: "https://music.apple.com/gb/album/the-comforts-of-madness-30th-anniversary-reissue/1485500146"
 slug: "the-comforts-of-madness-30th-anniversary-re-masters-14621859"
 hideSummary: true
 cover:

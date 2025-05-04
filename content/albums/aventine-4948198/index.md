@@ -6,6 +6,7 @@ album_name: "Aventine"
 date: 2017-01-03T18:47:38.000000Z
 release_date: "2013-09-30"
 release_id: "4948198"
+apple_music_url: "https://music.apple.com/gb/album/aventine/681187053"
 slug: "aventine-4948198"
 hideSummary: true
 cover:

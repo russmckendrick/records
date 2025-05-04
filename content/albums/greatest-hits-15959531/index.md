@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2020-10-27T13:37:34.000000Z
 release_date: "2024-06-14"
 release_id: "15959531"
+apple_music_url: "https://music.apple.com/gb/album/guns-n-roses/1751946574"
 slug: "greatest-hits-15959531"
 hideSummary: true
 cover:

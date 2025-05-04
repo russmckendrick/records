@@ -6,6 +6,7 @@ album_name: "The Jazz Singer (Original Songs From The Motion Picture)"
 date: 2015-12-09T10:18:46.000000Z
 release_date: "1980-11-10"
 release_id: "1605561"
+apple_music_url: "https://music.apple.com/gb/album/the-jazz-singer-original-songs-from-the-motion-picture/1440888546"
 slug: "the-jazz-singer-original-songs-from-the-motion-picture-1605561"
 hideSummary: true
 cover:

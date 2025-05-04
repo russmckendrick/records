@@ -4,6 +4,7 @@ artist: "Can"
 album_name: "Ege Bamyasi"
 date: 2019-11-08T19:39:57.000000Z
 release_id: "14373286"
+apple_music_url: "https://music.apple.com/gb/album/ege-bamyasi-remastered/711468600"
 slug: "ege-bamyasi-14373286"
 hideSummary: true
 cover:

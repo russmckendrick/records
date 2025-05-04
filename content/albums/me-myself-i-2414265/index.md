@@ -6,6 +6,7 @@ album_name: "Me Myself I"
 date: 2020-08-02T13:37:48.000000Z
 release_date: "1976-07-01"
 release_id: "2414265"
+apple_music_url: "https://music.apple.com/gb/album/joan-armatrading/1444099157"
 slug: "me-myself-i-2414265"
 hideSummary: true
 cover:

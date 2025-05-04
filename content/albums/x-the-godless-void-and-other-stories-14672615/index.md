@@ -6,6 +6,7 @@ album_name: "X: The Godless Void And Other Stories"
 date: 2020-01-22T19:06:06.000000Z
 release_date: "2020-01-17"
 release_id: "14672615"
+apple_music_url: "https://music.apple.com/gb/album/x-the-godless-void-and-other-stories/1485457072"
 slug: "x-the-godless-void-and-other-stories-14672615"
 hideSummary: true
 cover:

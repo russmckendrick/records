@@ -6,6 +6,7 @@ album_name: "Computer World"
 date: 2016-02-21T12:51:40.000000Z
 release_date: "2009-10-12"
 release_id: "2058343"
+apple_music_url: "https://music.apple.com/gb/album/computer-world-remastered/699901844"
 slug: "computer-world-2058343"
 hideSummary: true
 cover:

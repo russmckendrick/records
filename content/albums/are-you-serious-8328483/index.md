@@ -6,6 +6,7 @@ album_name: "Are You Serious"
 date: 2017-06-24T08:45:59.000000Z
 release_date: "2016-01-01"
 release_id: "8328483"
+apple_music_url: "https://music.apple.com/gb/album/are-you-serious/1440939218"
 slug: "are-you-serious-8328483"
 hideSummary: true
 cover:

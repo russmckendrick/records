@@ -6,6 +6,7 @@ album_name: "Acoustic"
 date: 2017-01-08T11:12:24.000000Z
 release_date: "2016-11-11"
 release_id: "9415335"
+apple_music_url: "https://music.apple.com/gb/album/acoustic/1773791768"
 slug: "acoustic-9415335"
 hideSummary: true
 cover:

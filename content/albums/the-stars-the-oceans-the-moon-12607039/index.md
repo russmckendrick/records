@@ -6,6 +6,7 @@ album_name: "The Stars, The Oceans & The Moon"
 date: 2018-10-06T09:07:23.000000Z
 release_date: "2018-10-05"
 release_id: "12607039"
+apple_music_url: "https://music.apple.com/gb/album/the-stars-the-oceans-the-moon/1420445204"
 slug: "the-stars-the-oceans-the-moon-12607039"
 hideSummary: true
 cover:

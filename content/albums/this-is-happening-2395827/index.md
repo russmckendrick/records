@@ -6,6 +6,7 @@ album_name: "This Is Happening"
 date: 2017-06-04T10:36:49.000000Z
 release_date: "2010-05-17"
 release_id: "2395827"
+apple_music_url: "https://music.apple.com/gb/album/this-is-happening/693391469"
 slug: "this-is-happening-2395827"
 hideSummary: true
 cover:

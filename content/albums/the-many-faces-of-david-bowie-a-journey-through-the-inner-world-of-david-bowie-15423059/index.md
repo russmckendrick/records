@@ -6,6 +6,7 @@ album_name: "The Many Faces Of David Bowie - A Journey Through The Inner World O
 date: 2021-06-07T10:54:47.000000Z
 release_date: ""
 release_id: "15423059"
+apple_music_url: ""
 slug: "the-many-faces-of-david-bowie-a-journey-through-the-inner-world-of-david-bowie-15423059"
 hideSummary: true
 cover:

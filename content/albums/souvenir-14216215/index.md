@@ -6,6 +6,7 @@ album_name: "Souvenir"
 date: 2020-01-12T16:05:05.000000Z
 release_date: "1980-02-22"
 release_id: "14216215"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "souvenir-14216215"
 hideSummary: true
 cover:

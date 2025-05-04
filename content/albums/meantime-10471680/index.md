@@ -6,6 +6,7 @@ album_name: "Meantime"
 date: 2017-06-25T13:42:40.000000Z
 release_date: "1992-01-01"
 release_id: "10471680"
+apple_music_url: "https://music.apple.com/gb/album/meantime/1440915669"
 slug: "meantime-10471680"
 hideSummary: true
 cover:

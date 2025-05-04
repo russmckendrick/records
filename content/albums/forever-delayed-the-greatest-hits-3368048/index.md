@@ -6,6 +6,7 @@ album_name: "Forever Delayed - The Greatest Hits"
 date: 2016-03-24T16:33:42.000000Z
 release_date: "2002-10-28"
 release_id: "3368048"
+apple_music_url: "https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430"
 slug: "forever-delayed-the-greatest-hits-3368048"
 hideSummary: true
 cover:

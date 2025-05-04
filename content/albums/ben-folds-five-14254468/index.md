@@ -6,6 +6,7 @@ album_name: "Ben Folds Five"
 date: 2020-02-25T18:10:13.000000Z
 release_date: "1995-07-25"
 release_id: "14254468"
+apple_music_url: "https://music.apple.com/gb/album/ben-folds-five/771779576"
 slug: "ben-folds-five-14254468"
 hideSummary: true
 cover:

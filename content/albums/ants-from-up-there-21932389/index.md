@@ -6,6 +6,7 @@ album_name: "Ants From Up There"
 date: 2022-02-04T03:58:24.000000Z
 release_date: "2022-02-04"
 release_id: "21932389"
+apple_music_url: "https://music.apple.com/gb/album/ants-from-up-there/1586070259"
 slug: "ants-from-up-there-21932389"
 hideSummary: true
 cover:

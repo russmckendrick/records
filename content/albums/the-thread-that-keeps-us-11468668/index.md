@@ -6,6 +6,7 @@ album_name: "The Thread That Keeps Us"
 date: 2018-02-03T10:16:47.000000Z
 release_date: "2018-01-26"
 release_id: "11468668"
+apple_music_url: "https://music.apple.com/gb/album/the-thread-that-keeps-us/1724057184"
 slug: "the-thread-that-keeps-us-11468668"
 hideSummary: true
 cover:

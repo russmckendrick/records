@@ -6,6 +6,7 @@ album_name: "Welcome To The Infant Freebase"
 date: 2020-04-09T11:18:28.000000Z
 release_date: "1996-03-09"
 release_id: "15010459"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945"
 slug: "welcome-to-the-infant-freebase-15010459"
 hideSummary: true
 cover:

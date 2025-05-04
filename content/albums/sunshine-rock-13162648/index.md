@@ -6,6 +6,7 @@ album_name: "Sunshine Rock"
 date: 2019-02-08T14:23:02.000000Z
 release_date: "2019-02-08"
 release_id: "13162648"
+apple_music_url: "https://music.apple.com/gb/album/sunshine-rock/1437426052"
 slug: "sunshine-rock-13162648"
 hideSummary: true
 cover:

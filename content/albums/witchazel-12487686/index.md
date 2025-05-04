@@ -6,6 +6,7 @@ album_name: "Witchazel"
 date: 2018-09-21T10:28:05.000000Z
 release_date: "2011-03-07"
 release_id: "12487686"
+apple_music_url: "https://music.apple.com/gb/album/witchazel/1152574810"
 slug: "witchazel-12487686"
 hideSummary: true
 cover:

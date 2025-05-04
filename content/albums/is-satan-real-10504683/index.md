@@ -6,6 +6,7 @@ album_name: "Is Satan Real?"
 date: 2018-02-23T17:14:18.000000Z
 release_date: "2016-09-16"
 release_id: "10504683"
+apple_music_url: "https://music.apple.com/gb/album/is-satan-real/1146826298"
 slug: "is-satan-real-10504683"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Wide Open Space"
 date: 2018-04-26T17:55:35.000000Z
 release_date: "1998-01-27"
 release_id: "11894962"
+apple_music_url: "https://music.apple.com/gb/album/wide-open-spaces/155681921"
 slug: "wide-open-space-11894962"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "More Words"
 date: 2020-08-02T13:47:21.000000Z
 release_date: "1967-08-01"
 release_id: "5672942"
+apple_music_url: "https://music.apple.com/gb/album/gentle-on-my-mind/724424966"
 slug: "more-words-5672942"
 hideSummary: true
 cover:

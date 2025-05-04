@@ -6,6 +6,7 @@ album_name: "Appetite For Destruction"
 date: 2016-05-18T16:49:03.000000Z
 release_date: "1987-07-21"
 release_id: "7492229"
+apple_music_url: "https://music.apple.com/gb/album/appetite-for-destruction/1377813284"
 slug: "appetite-for-destruction-7492229"
 hideSummary: true
 cover:

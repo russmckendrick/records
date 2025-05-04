@@ -6,6 +6,7 @@ album_name: "The Saint Of Lost Causes"
 date: 2019-05-26T08:54:56.000000Z
 release_date: "2019-05-24"
 release_id: "13678373"
+apple_music_url: "https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483"
 slug: "the-saint-of-lost-causes-13678373"
 hideSummary: true
 cover:

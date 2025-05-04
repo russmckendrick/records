@@ -6,6 +6,7 @@ album_name: "Our Favourite Shop"
 date: 2020-01-08T18:57:52.000000Z
 release_date: "1985"
 release_id: "10734892"
+apple_music_url: "https://music.apple.com/gb/album/our-favourite-shop/1442247599"
 slug: "our-favourite-shop-10734892"
 hideSummary: true
 cover:

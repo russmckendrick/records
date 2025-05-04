@@ -6,6 +6,7 @@ album_name: "Believers"
 date: 2021-05-31T11:05:23.000000Z
 release_date: "2016-09-30"
 release_id: "9416088"
+apple_music_url: "https://music.apple.com/gb/album/believers/1136775251"
 slug: "believers-9416088"
 hideSummary: true
 cover:

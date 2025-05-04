@@ -6,6 +6,7 @@ album_name: "Roll The Bones"
 date: 2017-02-26T10:55:56.000000Z
 release_date: "2021-04-02"
 release_id: "7632117"
+apple_music_url: "https://music.apple.com/gb/album/roll-the-bones-x/1752544586"
 slug: "roll-the-bones-7632117"
 hideSummary: true
 cover:

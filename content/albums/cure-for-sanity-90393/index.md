@@ -6,6 +6,7 @@ album_name: "Cure For Sanity"
 date: 2016-12-07T17:40:35.000000Z
 release_date: "1991"
 release_id: "90393"
+apple_music_url: "https://music.apple.com/gb/album/cure-for-sanity/292672031"
 slug: "cure-for-sanity-90393"
 hideSummary: true
 cover:

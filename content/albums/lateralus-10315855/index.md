@@ -6,6 +6,7 @@ album_name: "Lateralus"
 date: 2017-07-02T11:13:45.000000Z
 release_date: "2001-05-15"
 release_id: "10315855"
+apple_music_url: "https://music.apple.com/gb/album/lateralus/1474185412"
 slug: "lateralus-10315855"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Specials"
 date: 2015-10-15T17:43:22.000000Z
 release_date: "1979-10-19"
 release_id: "5759349"
+apple_music_url: "https://music.apple.com/gb/album/the-specials-remastered/1629177625"
 slug: "specials-5759349"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2016-01-08T19:14:34.000000Z
 release_date: "1964-02-02"
 release_id: "7746254"
+apple_music_url: "https://music.apple.com/gb/album/kinks-deluxe-edition/1622186650"
 slug: "greatest-hits-7746254"
 hideSummary: true
 cover:

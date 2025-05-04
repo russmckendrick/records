@@ -6,6 +6,7 @@ album_name: "No Prayer For The Dying"
 date: 2017-06-10T11:12:57.000000Z
 release_date: "1990-10-01"
 release_id: "10301784"
+apple_music_url: "https://music.apple.com/gb/album/no-prayer-for-the-dying/979954026"
 slug: "no-prayer-for-the-dying-10301784"
 hideSummary: true
 cover:

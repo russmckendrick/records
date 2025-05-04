@@ -6,6 +6,7 @@ album_name: "Bow To Love"
 date: 2024-06-16T07:25:37.000000Z
 release_date: "2024-06-14"
 release_id: "30971581"
+apple_music_url: "https://music.apple.com/gb/album/bow-to-love/1728729208"
 slug: "bow-to-love-30971581"
 hideSummary: true
 cover:

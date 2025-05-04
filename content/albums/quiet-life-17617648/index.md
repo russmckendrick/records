@@ -6,6 +6,7 @@ album_name: "Quiet Life"
 date: 2021-03-05T12:00:12.000000Z
 release_date: "1979-12"
 release_id: "17617648"
+apple_music_url: "https://music.apple.com/gb/album/quiet-life/1308548994"
 slug: "quiet-life-17617648"
 hideSummary: true
 cover:

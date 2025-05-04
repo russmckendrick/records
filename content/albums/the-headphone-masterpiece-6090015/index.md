@@ -6,6 +6,7 @@ album_name: "The Headphone Masterpiece"
 date: 2017-11-26T14:53:05.000000Z
 release_date: "2003-01-21"
 release_id: "6090015"
+apple_music_url: "https://music.apple.com/gb/album/the-headphone-masterpiece/1726647122"
 slug: "the-headphone-masterpiece-6090015"
 hideSummary: true
 cover:

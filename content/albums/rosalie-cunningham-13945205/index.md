@@ -6,6 +6,7 @@ album_name: "Rosalie Cunningham"
 date: 2019-09-03T17:17:57.000000Z
 release_date: "2019-07-26"
 release_id: "13945205"
+apple_music_url: "https://music.apple.com/gb/album/rosalie-cunningham/1464598387"
 slug: "rosalie-cunningham-13945205"
 hideSummary: true
 cover:

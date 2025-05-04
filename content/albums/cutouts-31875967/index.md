@@ -6,6 +6,7 @@ album_name: "Cutouts"
 date: 2024-10-04T04:31:21.000000Z
 release_date: "2024-10-04"
 release_id: "31875967"
+apple_music_url: "https://music.apple.com/gb/album/cutouts/1758065392"
 slug: "cutouts-31875967"
 hideSummary: true
 cover:

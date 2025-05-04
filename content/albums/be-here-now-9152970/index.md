@@ -6,6 +6,7 @@ album_name: "Be Here Now"
 date: 2016-10-14T16:17:56.000000Z
 release_date: "1997-08-21"
 release_id: "9152970"
+apple_music_url: "https://music.apple.com/gb/album/be-here-now/1517475368"
 slug: "be-here-now-9152970"
 hideSummary: true
 cover:

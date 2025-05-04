@@ -6,6 +6,7 @@ album_name: "Liquidizer 2019"
 date: 2020-03-05T19:39:16.000000Z
 release_date: "1989"
 release_id: "14811949"
+apple_music_url: "https://music.apple.com/gb/album/liquidizer/697141413"
 slug: "liquidizer-2019-14811949"
 hideSummary: true
 cover:

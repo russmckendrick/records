@@ -6,6 +6,7 @@ album_name: "Quality Street"
 date: 2016-12-07T17:40:35.000000Z
 release_date: "1991-01-01"
 release_id: "1785103"
+apple_music_url: "https://music.apple.com/gb/album/quality-street/714633804"
 slug: "quality-street-1785103"
 hideSummary: true
 cover:

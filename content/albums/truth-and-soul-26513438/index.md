@@ -6,6 +6,7 @@ album_name: "Truth And Soul"
 date: 2023-04-03T04:23:55.000000Z
 release_date: "1988-09-13"
 release_id: "26513438"
+apple_music_url: "https://music.apple.com/gb/album/truth-and-soul/196393427"
 slug: "truth-and-soul-26513438"
 hideSummary: true
 cover:

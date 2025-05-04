@@ -6,6 +6,7 @@ album_name: "Studio Collection"
 date: 2016-02-17T18:15:16.000000Z
 release_date: "2016-04-07"
 release_id: "7554390"
+apple_music_url: "https://music.apple.com/gb/album/the-studio-album-collection/1099863611"
 slug: "studio-collection-7554390"
 hideSummary: true
 cover:

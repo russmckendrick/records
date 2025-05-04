@@ -6,6 +6,7 @@ album_name: "Paul's Boutique"
 date: 2020-02-14T18:07:05.000000Z
 release_date: "2020-09-18"
 release_id: "12872158"
+apple_music_url: "https://music.apple.com/gb/album/pauls-boutique-single/1527639985"
 slug: "paul-s-boutique-12872158"
 hideSummary: true
 cover:

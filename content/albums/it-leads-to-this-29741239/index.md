@@ -6,6 +6,7 @@ album_name: "It Leads To This"
 date: 2024-02-10T02:45:30.000000Z
 release_date: "2024-02-09"
 release_id: "29741239"
+apple_music_url: "https://music.apple.com/gb/album/it-leads-to-this/1715478054"
 slug: "it-leads-to-this-29741239"
 hideSummary: true
 cover:

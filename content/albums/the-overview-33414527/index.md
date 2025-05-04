@@ -6,6 +6,7 @@ album_name: "The Overview"
 date: 2025-03-15T04:32:57.000000Z
 release_date: "2025-03-14"
 release_id: "33414527"
+apple_music_url: "https://music.apple.com/gb/album/the-overview/1789396258"
 slug: "the-overview-33414527"
 hideSummary: true
 cover:

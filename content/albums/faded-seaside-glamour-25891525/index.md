@@ -6,6 +6,7 @@ album_name: "Faded Seaside Glamour"
 date: 2023-03-20T05:44:46.000000Z
 release_date: "2004-04-05"
 release_id: "25891525"
+apple_music_url: "https://music.apple.com/gb/album/faded-seaside-glamour/260654407"
 slug: "faded-seaside-glamour-25891525"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Disintegration"
 date: 2016-08-05T14:55:50.000000Z
 release_date: "2024-02-16"
 release_id: "2289504"
+apple_music_url: "https://music.apple.com/gb/album/disintegration/1713850545"
 slug: "disintegration-2289504"
 hideSummary: true
 cover:

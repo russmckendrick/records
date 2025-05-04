@@ -6,6 +6,7 @@ album_name: "Weathervanes"
 date: 2023-06-12T04:39:30.000000Z
 release_date: "2023-06-09"
 release_id: "27356562"
+apple_music_url: "https://music.apple.com/gb/album/weathervanes/1668182705"
 slug: "weathervanes-27356562"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "All Is Dream"
 date: 2022-05-28T05:41:22.000000Z
 release_date: "2001-08-27"
 release_id: "23294882"
+apple_music_url: "https://music.apple.com/gb/album/all-is-dream/1601008224"
 slug: "all-is-dream-23294882"
 hideSummary: true
 cover:

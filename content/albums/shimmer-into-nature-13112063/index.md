@@ -6,6 +6,7 @@ album_name: "Shimmer Into Nature"
 date: 2019-03-04T19:20:33.000000Z
 release_date: "2018-10-12"
 release_id: "13112063"
+apple_music_url: "https://music.apple.com/gb/album/shimmer-into-nature/1423203880"
 slug: "shimmer-into-nature-13112063"
 hideSummary: true
 cover:

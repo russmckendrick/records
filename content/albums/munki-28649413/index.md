@@ -6,6 +6,7 @@ album_name: "Munki"
 date: 2023-10-25T11:53:49.000000Z
 release_date: "1992-03"
 release_id: "28649413"
+apple_music_url: "https://music.apple.com/gb/album/honeys-dead-expanded-version/464697396"
 slug: "munki-28649413"
 hideSummary: true
 cover:

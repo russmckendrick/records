@@ -6,6 +6,7 @@ album_name: "Jah Won't Pay The Bills"
 date: 2016-05-11T16:54:57.000000Z
 release_date: "1991-01-01"
 release_id: "8380052"
+apple_music_url: "https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407"
 slug: "jah-won-t-pay-the-bills-8380052"
 hideSummary: true
 cover:

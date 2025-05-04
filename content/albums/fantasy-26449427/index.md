@@ -6,6 +6,7 @@ album_name: "Fantasy"
 date: 2023-03-20T05:44:16.000000Z
 release_date: "2023-03-17"
 release_id: "26449427"
+apple_music_url: "https://music.apple.com/gb/album/fantasy/1658838374"
 slug: "fantasy-26449427"
 hideSummary: true
 cover:

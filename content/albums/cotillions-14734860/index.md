@@ -6,6 +6,7 @@ album_name: "Cotillions"
 date: 2020-02-14T18:07:24.000000Z
 release_date: ""
 release_id: "14734860"
+apple_music_url: ""
 slug: "cotillions-14734860"
 hideSummary: true
 cover:

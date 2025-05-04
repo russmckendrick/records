@@ -6,6 +6,7 @@ album_name: "To Bring You My Love - Demos"
 date: 2020-09-11T17:44:42.000000Z
 release_date: "1995-02-28"
 release_id: "15895402"
+apple_music_url: "https://music.apple.com/gb/album/to-bring-you-my-love-demos/1521894413"
 slug: "to-bring-you-my-love-demos-15895402"
 hideSummary: true
 cover:

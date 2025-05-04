@@ -6,6 +6,7 @@ album_name: "Closing Time"
 date: 2015-08-09T08:52:25.000000Z
 release_date: "1973-03-06"
 release_id: "3440356"
+apple_music_url: "https://music.apple.com/gb/album/closing-time-remastered/1485071375"
 slug: "closing-time-3440356"
 hideSummary: true
 cover:

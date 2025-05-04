@@ -6,6 +6,7 @@ album_name: "The Money Spyder"
 date: 2023-11-04T08:04:40.000000Z
 release_date: "2022-06-24"
 release_id: "28740754"
+apple_music_url: "https://music.apple.com/gb/album/the-new-money-spyder-single/1628572492"
 slug: "the-money-spyder-28740754"
 hideSummary: true
 cover:

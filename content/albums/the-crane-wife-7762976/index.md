@@ -6,6 +6,7 @@ album_name: "The Crane Wife"
 date: 2016-10-28T17:21:50.000000Z
 release_date: "2007-01-29"
 release_id: "7762976"
+apple_music_url: "https://music.apple.com/gb/album/the-crane-wife/259967897"
 slug: "the-crane-wife-7762976"
 hideSummary: true
 cover:

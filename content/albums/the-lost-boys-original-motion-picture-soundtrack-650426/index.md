@@ -6,6 +6,7 @@ album_name: "The Lost Boys (Original Motion Picture Soundtrack)"
 date: 2016-06-18T17:09:06.000000Z
 release_date: ""
 release_id: "650426"
+apple_music_url: ""
 slug: "the-lost-boys-original-motion-picture-soundtrack-650426"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Playing The Angel"
 date: 2017-02-11T14:52:54.000000Z
 release_date: "2005-10-17"
 release_id: "9818435"
+apple_music_url: "https://music.apple.com/gb/album/playing-the-angel/665306622"
 slug: "playing-the-angel-9818435"
 hideSummary: true
 cover:

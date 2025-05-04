@@ -6,6 +6,7 @@ album_name: "Heavy Horses"
 date: 2021-05-30T05:08:03.000000Z
 release_date: "2001-05-14"
 release_id: "11884370"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-jethro-tull/699620744"
 slug: "heavy-horses-11884370"
 hideSummary: true
 cover:

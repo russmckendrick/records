@@ -6,6 +6,7 @@ album_name: "Little Rope"
 date: 2024-02-02T00:43:41.000000Z
 release_date: "2024-01-19"
 release_id: "29531152"
+apple_music_url: "https://music.apple.com/gb/album/little-rope/1706544250"
 slug: "little-rope-29531152"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "No Home Record"
 date: 2019-10-11T14:37:42.000000Z
 release_date: "2019-10-11"
 release_id: "14238997"
+apple_music_url: "https://music.apple.com/gb/album/no-home-record/1586497284"
 slug: "no-home-record-14238997"
 hideSummary: true
 cover:

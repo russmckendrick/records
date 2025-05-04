@@ -6,6 +6,7 @@ album_name: "Order Of Magnitude - Empath Live Volume 1"
 date: 2020-10-27T13:37:21.000000Z
 release_date: "2020-10-23"
 release_id: "16092605"
+apple_music_url: "https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549"
 slug: "order-of-magnitude-empath-live-volume-1-16092605"
 hideSummary: true
 cover:

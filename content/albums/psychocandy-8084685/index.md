@@ -6,6 +6,7 @@ album_name: "Psychocandy"
 date: 2020-08-01T12:49:24.000000Z
 release_date: "1985-11-18"
 release_id: "8084685"
+apple_music_url: "https://music.apple.com/gb/album/psychocandy/121019601"
 slug: "psychocandy-8084685"
 hideSummary: true
 cover:

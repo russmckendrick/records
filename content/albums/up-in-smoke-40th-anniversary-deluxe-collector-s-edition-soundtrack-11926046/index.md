@@ -6,6 +6,7 @@ album_name: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrac
 date: 2019-04-16T17:11:32.000000Z
 release_date: "1978-09-15"
 release_id: "11926046"
+apple_music_url: "https://music.apple.com/gb/album/up-in-smoke-40th-anniversary-edition-original-motion/1368164599"
 slug: "up-in-smoke-40th-anniversary-deluxe-collector-s-edition-soundtrack-11926046"
 hideSummary: true
 cover:

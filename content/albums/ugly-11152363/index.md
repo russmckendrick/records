@@ -6,6 +6,7 @@ album_name: "Ugly"
 date: 2017-11-18T11:54:07.000000Z
 release_date: "1995-10-09"
 release_id: "11152363"
+apple_music_url: "https://music.apple.com/gb/album/ugly/214469827"
 slug: "ugly-11152363"
 hideSummary: true
 cover:

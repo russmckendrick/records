@@ -6,6 +6,7 @@ album_name: "Abacab"
 date: 2015-09-11T18:02:24.000000Z
 release_date: "1981-09-18"
 release_id: "2294111"
+apple_music_url: "https://music.apple.com/gb/album/abacab-remastered/1472171777"
 slug: "abacab-2294111"
 hideSummary: true
 cover:

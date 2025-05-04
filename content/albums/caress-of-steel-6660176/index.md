@@ -6,6 +6,7 @@ album_name: "Caress Of Steel"
 date: 2017-03-02T17:34:04.000000Z
 release_date: "1975-09-24"
 release_id: "6660176"
+apple_music_url: "https://music.apple.com/gb/album/caress-of-steel-remastered/1440641046"
 slug: "caress-of-steel-6660176"
 hideSummary: true
 cover:

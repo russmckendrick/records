@@ -6,6 +6,7 @@ album_name: "Pale Green Ghosts"
 date: 2015-08-09T08:32:07.000000Z
 release_date: "2013-03-11"
 release_id: "4359155"
+apple_music_url: "https://music.apple.com/gb/album/pale-green-ghosts/730337669"
 slug: "pale-green-ghosts-4359155"
 hideSummary: true
 cover:

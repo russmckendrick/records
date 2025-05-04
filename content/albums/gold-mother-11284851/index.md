@@ -6,6 +6,7 @@ album_name: "Gold Mother"
 date: 2017-12-16T13:19:57.000000Z
 release_date: "2021-06-25"
 release_id: "11284851"
+apple_music_url: "https://music.apple.com/gb/album/bettie-james-gold-edition/1693341943"
 slug: "gold-mother-11284851"
 hideSummary: true
 cover:

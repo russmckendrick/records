@@ -6,6 +6,7 @@ album_name: "Songs For A Nervous Planet"
 date: 2024-10-29T05:01:21.000000Z
 release_date: "2024-10-25"
 release_id: "32086020"
+apple_music_url: "https://music.apple.com/gb/album/songs-for-a-nervous-planet/1763712367"
 slug: "songs-for-a-nervous-planet-32086020"
 hideSummary: true
 cover:

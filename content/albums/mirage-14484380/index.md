@@ -6,6 +6,7 @@ album_name: "Mirage"
 date: 2019-12-04T21:48:33.000000Z
 release_date: "1975-07-11"
 release_id: "14484380"
+apple_music_url: "https://music.apple.com/gb/album/fleetwood-mac-deluxe/1308648830"
 slug: "mirage-14484380"
 hideSummary: true
 cover:

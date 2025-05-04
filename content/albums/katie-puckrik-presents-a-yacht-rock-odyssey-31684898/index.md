@@ -6,6 +6,7 @@ album_name: "Katie Puckrik Presents A Yacht Rock Odyssey"
 date: 2024-09-08T07:43:36.000000Z
 release_date: ""
 release_id: "31684898"
+apple_music_url: ""
 slug: "katie-puckrik-presents-a-yacht-rock-odyssey-31684898"
 hideSummary: true
 cover:

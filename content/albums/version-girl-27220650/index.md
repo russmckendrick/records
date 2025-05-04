@@ -6,6 +6,7 @@ album_name: "Version Girl"
 date: 2023-05-29T04:54:09.000000Z
 release_date: "2023-05-26"
 release_id: "27220650"
+apple_music_url: "https://music.apple.com/gb/album/version-girl/1656285954"
 slug: "version-girl-27220650"
 hideSummary: true
 cover:

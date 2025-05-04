@@ -6,6 +6,7 @@ album_name: "Varshons II"
 date: 2019-02-08T14:23:49.000000Z
 release_date: "2019-02-08"
 release_id: "13179207"
+apple_music_url: "https://music.apple.com/gb/album/varshons-2/1667417175"
 slug: "varshons-ii-13179207"
 hideSummary: true
 cover:

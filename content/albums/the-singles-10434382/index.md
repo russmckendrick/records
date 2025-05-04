@@ -6,6 +6,7 @@ album_name: "The Singles"
 date: 2017-06-16T18:30:04.000000Z
 release_date: "2017-06-16"
 release_id: "10434382"
+apple_music_url: "https://music.apple.com/gb/album/the-singles/1222533992"
 slug: "the-singles-10434382"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Real Thing"
 date: 2020-11-04T11:53:35.000000Z
 release_date: "1989-06-20"
 release_id: "16034532"
+apple_music_url: "https://music.apple.com/gb/album/the-real-thing/83386606"
 slug: "the-real-thing-16034532"
 hideSummary: true
 cover:

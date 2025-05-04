@@ -6,6 +6,7 @@ album_name: "The Kick Inside"
 date: 2018-02-20T19:29:28.000000Z
 release_date: "1978-02-17"
 release_id: "414374"
+apple_music_url: "https://music.apple.com/gb/album/the-kick-inside/726230233"
 slug: "the-kick-inside-414374"
 hideSummary: true
 cover:

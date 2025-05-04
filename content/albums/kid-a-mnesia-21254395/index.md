@@ -6,6 +6,7 @@ album_name: "Kid A Mnesia"
 date: 2021-12-12T08:40:33.000000Z
 release_date: "2021-11-05"
 release_id: "21254395"
+apple_music_url: "https://music.apple.com/gb/album/kid-a-mnesia/1581785974"
 slug: "kid-a-mnesia-21254395"
 hideSummary: true
 cover:

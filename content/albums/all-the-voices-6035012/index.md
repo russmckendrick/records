@@ -6,6 +6,7 @@ album_name: "All The Voices"
 date: 2015-12-28T14:09:49.000000Z
 release_date: ""
 release_id: "6035012"
+apple_music_url: ""
 slug: "all-the-voices-6035012"
 hideSummary: true
 cover:

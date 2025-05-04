@@ -6,6 +6,7 @@ album_name: "The Raw & The Cooked"
 date: 2020-12-20T06:44:20.000000Z
 release_date: "1989-01-13"
 release_id: "16531191"
+apple_music_url: "https://music.apple.com/gb/album/the-raw-the-cooked/1313940401"
 slug: "the-raw-the-cooked-16531191"
 hideSummary: true
 cover:

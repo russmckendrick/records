@@ -6,6 +6,7 @@ album_name: "Don't Know How To Party"
 date: 2019-06-04T17:10:02.000000Z
 release_date: "1993-01-01"
 release_id: "13667166"
+apple_music_url: "https://music.apple.com/gb/album/dont-know-how-to-party/1443739943"
 slug: "don-t-know-how-to-party-13667166"
 hideSummary: true
 cover:

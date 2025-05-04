@@ -6,6 +6,7 @@ album_name: "EP Two"
 date: 2017-08-12T08:11:00.000000Z
 release_date: "2016-11-25"
 release_id: "9446803"
+apple_music_url: "https://music.apple.com/gb/album/ep-two-ep/1163304346"
 slug: "ep-two-9446803"
 hideSummary: true
 cover:

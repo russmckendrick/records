@@ -6,6 +6,7 @@ album_name: "The Eight Legged Groove Machine"
 date: 2016-01-11T17:44:13.000000Z
 release_date: "1988"
 release_id: "379123"
+apple_music_url: "https://music.apple.com/gb/album/the-eight-legged-groove-machine-remastered/1444101451"
 slug: "the-eight-legged-groove-machine-379123"
 hideSummary: true
 cover:

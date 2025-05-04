@@ -6,6 +6,7 @@ album_name: "Cosmic Thing"
 date: 2016-01-15T18:22:32.000000Z
 release_date: "1989-06-27"
 release_id: "951365"
+apple_music_url: "https://music.apple.com/gb/album/cosmic-thing/983850956"
 slug: "cosmic-thing-951365"
 hideSummary: true
 cover:

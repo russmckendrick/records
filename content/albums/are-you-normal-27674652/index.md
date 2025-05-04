@@ -6,6 +6,7 @@ album_name: "Are You Normal?"
 date: 2023-07-19T10:52:29.000000Z
 release_date: "1992-11-03"
 release_id: "27674652"
+apple_music_url: "https://music.apple.com/gb/album/are-you-normal/290619406"
 slug: "are-you-normal-27674652"
 hideSummary: true
 cover:

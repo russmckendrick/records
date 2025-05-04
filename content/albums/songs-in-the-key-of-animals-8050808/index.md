@@ -6,6 +6,7 @@ album_name: "Songs In The Key Of Animals"
 date: 2016-02-23T12:15:16.000000Z
 release_date: "2016-01-29"
 release_id: "8050808"
+apple_music_url: "https://music.apple.com/gb/album/songs-in-the-key-of-animals/1047014473"
 slug: "songs-in-the-key-of-animals-8050808"
 hideSummary: true
 cover:

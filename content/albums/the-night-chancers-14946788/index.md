@@ -6,6 +6,7 @@ album_name: "The Night Chancers"
 date: 2020-09-15T17:31:59.000000Z
 release_date: "2020-03-20"
 release_id: "14946788"
+apple_music_url: "https://music.apple.com/gb/album/the-night-chancers/1487696844"
 slug: "the-night-chancers-14946788"
 hideSummary: true
 cover:

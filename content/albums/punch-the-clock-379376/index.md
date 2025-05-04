@@ -6,6 +6,7 @@ album_name: "Punch The Clock"
 date: 2018-08-17T16:35:01.000000Z
 release_date: "1983-01-01"
 release_id: "379376"
+apple_music_url: "https://music.apple.com/gb/album/punch-the-clock/1442898613"
 slug: "punch-the-clock-379376"
 hideSummary: true
 cover:

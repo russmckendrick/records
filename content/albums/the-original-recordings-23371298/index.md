@@ -6,6 +6,7 @@ album_name: "The Original Recordings"
 date: 2022-05-31T01:41:27.000000Z
 release_date: "2022-05-27"
 release_id: "23371298"
+apple_music_url: "https://music.apple.com/gb/album/the-original-recordings-remastered/1614241853"
 slug: "the-original-recordings-23371298"
 hideSummary: true
 cover:

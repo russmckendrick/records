@@ -6,6 +6,7 @@ album_name: "Riding With The King"
 date: 2020-06-26T11:27:48.000000Z
 release_date: "2000-06-12"
 release_id: "15531509"
+apple_music_url: "https://music.apple.com/gb/album/riding-with-the-king/1684357304"
 slug: "riding-with-the-king-15531509"
 hideSummary: true
 cover:

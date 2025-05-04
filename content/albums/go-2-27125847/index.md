@@ -6,6 +6,7 @@ album_name: "Go 2"
 date: 2023-05-28T05:09:46.000000Z
 release_date: "1978-10-06"
 release_id: "27125847"
+apple_music_url: "https://music.apple.com/gb/album/go-2-bonus-track-version/724433143"
 slug: "go-2-27125847"
 hideSummary: true
 cover:

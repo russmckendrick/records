@@ -6,6 +6,7 @@ album_name: "Metal Killers"
 date: 2017-07-11T08:45:32.000000Z
 release_date: ""
 release_id: "1916752"
+apple_music_url: ""
 slug: "metal-killers-1916752"
 hideSummary: true
 cover:

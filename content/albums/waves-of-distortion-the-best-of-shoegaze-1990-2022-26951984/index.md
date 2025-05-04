@@ -6,6 +6,7 @@ album_name: "Waves Of Distortion (The Best Of Shoegaze 1990​-​2022)"
 date: 2023-05-05T04:25:05.000000Z
 release_date: ""
 release_id: "26951984"
+apple_music_url: ""
 slug: "waves-of-distortion-the-best-of-shoegaze-1990-2022-26951984"
 hideSummary: true
 cover:

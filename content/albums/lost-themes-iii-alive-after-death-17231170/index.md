@@ -6,6 +6,7 @@ album_name: "Lost Themes III: Alive After Death"
 date: 2021-02-06T06:56:18.000000Z
 release_date: "2021-02-05"
 release_id: "17231170"
+apple_music_url: "https://music.apple.com/gb/album/lost-themes-iii-alive-after-death/1534812089"
 slug: "lost-themes-iii-alive-after-death-17231170"
 hideSummary: true
 cover:

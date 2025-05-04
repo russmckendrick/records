@@ -6,6 +6,7 @@ album_name: "The Soft Bulletin"
 date: 2016-10-10T16:21:34.000000Z
 release_date: "1999-05-17"
 release_id: "3416651"
+apple_music_url: "https://music.apple.com/gb/album/the-soft-bulletin/1247942375"
 slug: "the-soft-bulletin-3416651"
 hideSummary: true
 cover:

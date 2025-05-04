@@ -6,6 +6,7 @@ album_name: "I, Assassin"
 date: 2019-03-02T12:10:22.000000Z
 release_date: "1982-09-10"
 release_id: "13281584"
+apple_music_url: "https://music.apple.com/gb/album/i-assassin/251628587"
 slug: "i-assassin-13281584"
 hideSummary: true
 cover:

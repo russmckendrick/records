@@ -6,6 +6,7 @@ album_name: "Pet Sounds"
 date: 2019-08-05T17:25:41.000000Z
 release_date: "2005-02-15"
 release_id: "11559296"
+apple_music_url: "https://music.apple.com/gb/album/vsq-performs-the-beach-boys-pet-sounds/992201457"
 slug: "pet-sounds-11559296"
 hideSummary: true
 cover:

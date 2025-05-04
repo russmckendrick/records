@@ -6,6 +6,7 @@ album_name: "Nursery Cryme"
 date: 2024-09-07T06:14:10.000000Z
 release_date: "1971-11-12"
 release_id: "6512577"
+apple_music_url: "https://music.apple.com/gb/album/nursery-cryme-2007-stereo-mix/294810977"
 slug: "nursery-cryme-6512577"
 hideSummary: true
 cover:

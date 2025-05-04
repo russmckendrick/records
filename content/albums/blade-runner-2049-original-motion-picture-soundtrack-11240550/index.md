@@ -6,6 +6,7 @@ album_name: "Blade Runner 2049 (Original Motion Picture Soundtrack)"
 date: 2017-12-24T11:35:38.000000Z
 release_date: "2017-10-05"
 release_id: "11240550"
+apple_music_url: "https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782"
 slug: "blade-runner-2049-original-motion-picture-soundtrack-11240550"
 hideSummary: true
 cover:

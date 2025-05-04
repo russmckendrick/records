@@ -6,6 +6,7 @@ album_name: "Give Out But Don't Give Up"
 date: 2018-09-11T20:11:09.000000Z
 release_date: "2011-12-02"
 release_id: "9327490"
+apple_music_url: "https://music.apple.com/gb/album/give-out-but-dont-give-up-deluxe-version/481694930"
 slug: "give-out-but-don-t-give-up-9327490"
 hideSummary: true
 cover:

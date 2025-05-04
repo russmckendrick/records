@@ -6,6 +6,7 @@ album_name: "The Beauty And The Chaos "
 date: 2024-02-02T05:29:25.000000Z
 release_date: "2024-01-26"
 release_id: "29563957"
+apple_music_url: "https://music.apple.com/gb/album/the-beauty-and-the-chaos/1727021984"
 slug: "the-beauty-and-the-chaos-29563957"
 hideSummary: true
 cover:

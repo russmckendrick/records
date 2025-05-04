@@ -6,6 +6,7 @@ album_name: "A Foot In The Door (The Best Of Pink Floyd)"
 date: 2018-09-28T11:58:39.000000Z
 release_date: "2011-11-07"
 release_id: "12569365"
+apple_music_url: "https://music.apple.com/gb/album/a-foot-in-the-door-the-best-of-pink-floyd/700053987"
 slug: "a-foot-in-the-door-the-best-of-pink-floyd-12569365"
 hideSummary: true
 cover:

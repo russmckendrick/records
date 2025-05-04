@@ -6,6 +6,7 @@ album_name: "This Is Big Audio Dynamite"
 date: 2016-01-20T19:29:13.000000Z
 release_date: "1986-02-18"
 release_id: "6631916"
+apple_music_url: "https://music.apple.com/gb/album/this-is-big-audio-dynamite/192786175"
 slug: "this-is-big-audio-dynamite-6631916"
 hideSummary: true
 cover:

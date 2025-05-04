@@ -6,6 +6,7 @@ album_name: "Sky Blue"
 date: 2019-03-12T18:46:28.000000Z
 release_date: "2019-03-07"
 release_id: "13310013"
+apple_music_url: "https://music.apple.com/gb/album/sky-blue/1446644374"
 slug: "sky-blue-13310013"
 hideSummary: true
 cover:

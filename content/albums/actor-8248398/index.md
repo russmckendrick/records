@@ -6,6 +6,7 @@ album_name: "Actor"
 date: 2023-10-14T02:09:13.000000Z
 release_date: "2014-02-24"
 release_id: "8248398"
+apple_music_url: "https://music.apple.com/gb/album/st-vincent/1445873566"
 slug: "actor-8248398"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Gold Against The Soul"
 date: 2020-06-13T16:53:43.000000Z
 release_date: "1989-12-22"
 release_id: "15458799"
+apple_music_url: "https://music.apple.com/gb/album/gold-against-the-soul/207067933"
 slug: "gold-against-the-soul-15458799"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "White Ladder"
 date: 2020-02-15T19:52:58.000000Z
 release_date: "1998-11-02"
 release_id: "14791554"
+apple_music_url: "https://music.apple.com/gb/album/white-ladder/1738297829"
 slug: "white-ladder-14791554"
 hideSummary: true
 cover:

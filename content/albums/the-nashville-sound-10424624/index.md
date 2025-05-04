@@ -6,6 +6,7 @@ album_name: "The Nashville Sound "
 date: 2017-06-16T19:58:45.000000Z
 release_date: "2009-02-17"
 release_id: "10424624"
+apple_music_url: "https://music.apple.com/gb/album/jason-isbell-and-the-400-unit/1480316430"
 slug: "the-nashville-sound-10424624"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "My Maudlin Career"
 date: 2023-01-13T05:14:36.000000Z
 release_date: "2009-04-20"
 release_id: "1758491"
+apple_music_url: "https://music.apple.com/gb/album/my-maudlin-career/307895944"
 slug: "my-maudlin-career-1758491"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Motown Funk"
 date: 2017-04-23T13:28:30.000000Z
 release_date: ""
 release_id: "10167720"
+apple_music_url: ""
 slug: "motown-funk-10167720"
 hideSummary: true
 cover:

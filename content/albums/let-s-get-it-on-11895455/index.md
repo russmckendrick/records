@@ -6,6 +6,7 @@ album_name: "Let's Get It On"
 date: 2018-04-21T13:34:17.000000Z
 release_date: "2023-08-25"
 release_id: "11895455"
+apple_music_url: "https://music.apple.com/gb/album/lets-get-it-on-deluxe-edition/1701654441"
 slug: "let-s-get-it-on-11895455"
 hideSummary: true
 cover:

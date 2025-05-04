@@ -6,6 +6,7 @@ album_name: "Bauhaus Staircase"
 date: 2023-10-31T11:18:05.000000Z
 release_date: "1980-02-22"
 release_id: "28716781"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "bauhaus-staircase-28716781"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "4½"
 date: 2016-01-22T19:34:24.000000Z
 release_date: "1970-01-26"
 release_id: "8005929"
+apple_music_url: "https://music.apple.com/gb/album/chicago-ii-2017-steven-wilson-remix/1195661599"
 slug: "4-8005929"
 hideSummary: true
 cover:

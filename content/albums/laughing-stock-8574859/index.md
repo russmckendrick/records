@@ -6,6 +6,7 @@ album_name: "Laughing Stock"
 date: 2016-10-22T12:17:26.000000Z
 release_date: "1991-01-01"
 release_id: "8574859"
+apple_music_url: "https://music.apple.com/gb/album/laughing-stock/1442531159"
 slug: "laughing-stock-8574859"
 hideSummary: true
 cover:

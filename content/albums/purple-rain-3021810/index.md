@@ -6,6 +6,7 @@ album_name: "Purple Rain"
 date: 2015-08-09T08:34:25.000000Z
 release_date: "1984-06-25"
 release_id: "3021810"
+apple_music_url: "https://music.apple.com/gb/album/purple-rain/1746833068"
 slug: "purple-rain-3021810"
 hideSummary: true
 cover:

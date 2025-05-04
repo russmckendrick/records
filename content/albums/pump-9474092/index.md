@@ -6,6 +6,7 @@ album_name: "Pump"
 date: 2016-12-30T11:10:25.000000Z
 release_date: "1989-09-12"
 release_id: "9474092"
+apple_music_url: "https://music.apple.com/gb/album/pump/1440824301"
 slug: "pump-9474092"
 hideSummary: true
 cover:

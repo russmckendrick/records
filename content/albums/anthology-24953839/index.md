@@ -6,6 +6,7 @@ album_name: "Anthology"
 date: 2022-10-28T05:35:35.000000Z
 release_date: "2022-11-21"
 release_id: "24953839"
+apple_music_url: "https://music.apple.com/gb/album/anthology/1654917453"
 slug: "anthology-24953839"
 hideSummary: true
 cover:

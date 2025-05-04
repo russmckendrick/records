@@ -6,6 +6,7 @@ album_name: "The Dark Side Of The Moon"
 date: 2024-05-04T05:11:09.000000Z
 release_date: "2009-12-22"
 release_id: "30414329"
+apple_music_url: "https://music.apple.com/us/album/the-dark-side-of-the-moon-50th-anniversary-remastered/1665303755"
 slug: "the-dark-side-of-the-moon-30414329"
 hideSummary: true
 cover:

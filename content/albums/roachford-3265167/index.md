@@ -6,6 +6,7 @@ album_name: "Roachford"
 date: 2015-12-04T18:21:09.000000Z
 release_date: "1988-06-28"
 release_id: "3265167"
+apple_music_url: "https://music.apple.com/gb/album/roachford/357796717"
 slug: "roachford-3265167"
 hideSummary: true
 cover:

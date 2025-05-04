@@ -6,6 +6,7 @@ album_name: "The Hurting"
 date: 2016-03-24T16:33:11.000000Z
 release_date: "1983-03-07"
 release_id: "5934162"
+apple_music_url: "https://music.apple.com/gb/album/the-hurting/1695687752"
 slug: "the-hurting-5934162"
 hideSummary: true
 cover:

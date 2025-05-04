@@ -6,6 +6,7 @@ album_name: "Dig Your Own Hole"
 date: 2017-07-07T16:52:31.000000Z
 release_date: "1997-04-07"
 release_id: "10501063"
+apple_music_url: "https://music.apple.com/gb/album/dig-your-own-hole/714366008"
 slug: "dig-your-own-hole-10501063"
 hideSummary: true
 cover:

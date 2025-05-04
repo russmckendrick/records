@@ -6,6 +6,7 @@ album_name: "Dubnobasswithmyheadman"
 date: 2015-10-10T16:14:49.000000Z
 release_date: "1994-01-24"
 release_id: "5955411"
+apple_music_url: "https://music.apple.com/gb/album/dubnobasswithmyheadman-20th-anniversary-remaster/1443808376"
 slug: "dubnobasswithmyheadman-5955411"
 hideSummary: true
 cover:

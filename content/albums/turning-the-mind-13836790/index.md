@@ -6,6 +6,7 @@ album_name: "Turning The Mind"
 date: 2019-09-01T09:46:37.000000Z
 release_date: "2009-09-28"
 release_id: "13836790"
+apple_music_url: "https://music.apple.com/gb/album/turning-the-mind/757877794"
 slug: "turning-the-mind-13836790"
 hideSummary: true
 cover:

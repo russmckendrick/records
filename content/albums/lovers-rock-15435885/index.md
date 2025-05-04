@@ -6,6 +6,7 @@ album_name: "Lovers Rock"
 date: 2022-09-18T04:25:19.000000Z
 release_date: "2020-05-15"
 release_id: "15435885"
+apple_music_url: "https://music.apple.com/gb/album/lovers-rock/1770398744"
 slug: "lovers-rock-15435885"
 hideSummary: true
 cover:

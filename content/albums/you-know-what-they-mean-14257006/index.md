@@ -6,6 +6,7 @@ album_name: "You Know What They Mean"
 date: 2019-10-13T13:03:53.000000Z
 release_date: "2019-10-11"
 release_id: "14257006"
+apple_music_url: "https://music.apple.com/gb/album/you-know-what-they-mean/1475485888"
 slug: "you-know-what-they-mean-14257006"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Todd Rundgren's Utopia"
 date: 2022-03-06T04:57:55.000000Z
 release_date: "1974-10"
 release_id: "1971194"
+apple_music_url: "https://music.apple.com/gb/album/todd-rundgrens-utopia/100982409"
 slug: "todd-rundgren-s-utopia-1971194"
 hideSummary: true
 cover:

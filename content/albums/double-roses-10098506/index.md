@@ -6,6 +6,7 @@ album_name: "Double Roses"
 date: 2017-04-23T12:08:07.000000Z
 release_date: "2017-04-07"
 release_id: "10098506"
+apple_music_url: "https://music.apple.com/gb/album/double-roses/1186335978"
 slug: "double-roses-10098506"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sentimental Fool"
 date: 2022-11-04T06:15:31.000000Z
 release_date: "2022-10-28"
 release_id: "24981913"
+apple_music_url: "https://music.apple.com/gb/album/sentimental-fool/1651925180"
 slug: "sentimental-fool-24981913"
 hideSummary: true
 cover:

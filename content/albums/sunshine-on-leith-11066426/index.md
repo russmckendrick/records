@@ -6,6 +6,7 @@ album_name: "Sunshine On Leith"
 date: 2018-01-20T19:10:06.000000Z
 release_date: "1988-08-08"
 release_id: "11066426"
+apple_music_url: "https://music.apple.com/gb/album/sunshine-on-leith/693789043"
 slug: "sunshine-on-leith-11066426"
 hideSummary: true
 cover:

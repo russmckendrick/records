@@ -6,6 +6,7 @@ album_name: "Lazer Guided Melodies"
 date: 2021-04-23T04:31:14.000000Z
 release_date: "1992-03-30"
 release_id: "18366628"
+apple_music_url: "https://music.apple.com/gb/album/lazer-guided-melodies/1502472550"
 slug: "lazer-guided-melodies-18366628"
 hideSummary: true
 cover:

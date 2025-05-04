@@ -6,6 +6,7 @@ album_name: "Get Out Of My Room"
 date: 2020-08-02T13:39:16.000000Z
 release_date: "2021-04-12"
 release_id: "968986"
+apple_music_url: "https://music.apple.com/gb/album/cheech-chong-single/1560824506"
 slug: "get-out-of-my-room-968986"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The People Tree"
 date: 2024-07-16T05:07:25.000000Z
 release_date: "1993-01-01"
 release_id: "31166870"
+apple_music_url: "https://music.apple.com/gb/album/the-people-tree/1152544934"
 slug: "the-people-tree-31166870"
 hideSummary: true
 cover:

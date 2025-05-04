@@ -6,6 +6,7 @@ album_name: "The Wall"
 date: 2016-09-05T12:30:03.000000Z
 release_date: "1979-11-30"
 release_id: "8961614"
+apple_music_url: "https://music.apple.com/gb/album/the-wall/704273346"
 slug: "the-wall-8961614"
 hideSummary: true
 cover:

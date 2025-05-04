@@ -6,6 +6,7 @@ album_name: "Nothing Lasts Forever"
 date: 2024-02-02T00:42:10.000000Z
 release_date: "2023-09-22"
 release_id: "28350391"
+apple_music_url: "https://music.apple.com/gb/album/nothing-lasts-forever/1689225713"
 slug: "nothing-lasts-forever-28350391"
 hideSummary: true
 cover:

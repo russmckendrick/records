@@ -6,6 +6,7 @@ album_name: "Laid"
 date: 2017-05-04T21:09:51.000000Z
 release_date: "1998-01-01"
 release_id: "6813016"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-james/1440910867"
 slug: "laid-6813016"
 hideSummary: true
 cover:

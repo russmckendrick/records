@@ -6,6 +6,7 @@ album_name: "Come Again"
 date: 2015-12-30T09:11:50.000000Z
 release_date: "1976-01-01"
 release_id: "561165"
+apple_music_url: "https://music.apple.com/gb/album/derek-and-clive-live/1443141039"
 slug: "come-again-561165"
 hideSummary: true
 cover:

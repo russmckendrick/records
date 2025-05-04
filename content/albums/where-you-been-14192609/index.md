@@ -6,6 +6,7 @@ album_name: "Where You Been"
 date: 2019-09-28T07:52:21.000000Z
 release_date: "1993-02-09"
 release_id: "14192609"
+apple_music_url: "https://music.apple.com/gb/album/where-you-been/1765551992"
 slug: "where-you-been-14192609"
 hideSummary: true
 cover:

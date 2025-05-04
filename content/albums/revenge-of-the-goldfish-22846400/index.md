@@ -6,6 +6,7 @@ album_name: "Revenge Of The Goldfish ™"
 date: 2022-04-15T08:49:48.000000Z
 release_date: "1992-10-05"
 release_id: "22846400"
+apple_music_url: "https://music.apple.com/gb/album/revenge-of-the-goldfish/1435626030"
 slug: "revenge-of-the-goldfish-22846400"
 hideSummary: true
 cover:

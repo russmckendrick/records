@@ -6,6 +6,7 @@ album_name: "Don't Let The Sunlight Fool Ya"
 date: 2023-10-01T03:55:56.000000Z
 release_date: "2022-04-15"
 release_id: "22645184"
+apple_music_url: "https://music.apple.com/gb/album/dont-let-the-sunlight-fool-ya/1601847423"
 slug: "don-t-let-the-sunlight-fool-ya-22645184"
 hideSummary: true
 cover:

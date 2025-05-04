@@ -6,6 +6,7 @@ album_name: "Sky Blue"
 date: 2016-05-03T16:18:38.000000Z
 release_date: ""
 release_id: "7514380"
+apple_music_url: ""
 slug: "sky-blue-7514380"
 hideSummary: true
 cover:

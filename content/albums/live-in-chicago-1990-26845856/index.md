@@ -6,6 +6,7 @@ album_name: "Live In Chicago 1990"
 date: 2023-04-23T04:36:03.000000Z
 release_date: ""
 release_id: "26845856"
+apple_music_url: ""
 slug: "live-in-chicago-1990-26845856"
 hideSummary: true
 cover:

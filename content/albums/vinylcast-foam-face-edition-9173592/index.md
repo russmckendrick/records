@@ -6,6 +6,7 @@ album_name: "Vinylcast (Foam Face Edition)"
 date: 2016-10-19T17:04:04.000000Z
 release_date: ""
 release_id: "9173592"
+apple_music_url: ""
 slug: "vinylcast-foam-face-edition-9173592"
 hideSummary: true
 cover:

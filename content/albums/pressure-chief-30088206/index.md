@@ -6,6 +6,7 @@ album_name: "Pressure Chief"
 date: 2024-03-22T06:04:57.000000Z
 release_date: "2004-10-04"
 release_id: "30088206"
+apple_music_url: "https://music.apple.com/gb/album/pressure-chief/159001685"
 slug: "pressure-chief-30088206"
 hideSummary: true
 cover:

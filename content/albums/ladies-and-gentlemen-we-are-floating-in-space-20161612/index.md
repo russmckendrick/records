@@ -6,6 +6,7 @@ album_name: "Ladies And Gentlemen We Are Floating In Space"
 date: 2021-09-11T05:26:34.000000Z
 release_date: "1997-06-16"
 release_id: "20161612"
+apple_music_url: "https://music.apple.com/gb/album/ladies-and-gentlemen-we-are-floating-in-space/1502476612"
 slug: "ladies-and-gentlemen-we-are-floating-in-space-20161612"
 hideSummary: true
 cover:

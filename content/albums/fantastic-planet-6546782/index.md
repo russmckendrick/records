@@ -6,6 +6,7 @@ album_name: "Fantastic Planet"
 date: 2017-02-10T18:45:44.000000Z
 release_date: "2015-01-26"
 release_id: "6546782"
+apple_music_url: "https://music.apple.com/gb/album/fantastic-planet/1667792300"
 slug: "fantastic-planet-6546782"
 hideSummary: true
 cover:

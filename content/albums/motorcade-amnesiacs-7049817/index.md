@@ -6,6 +6,7 @@ album_name: "Motorcade Amnesiacs"
 date: 2015-08-09T08:51:03.000000Z
 release_date: "2015-05-25"
 release_id: "7049817"
+apple_music_url: "https://music.apple.com/gb/album/motorcade-amnesiacs/990325822"
 slug: "motorcade-amnesiacs-7049817"
 hideSummary: true
 cover:

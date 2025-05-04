@@ -6,6 +6,7 @@ album_name: "A Steady Drip, Drip, Drip"
 date: 2020-07-05T11:38:50.000000Z
 release_date: "2020-05-15"
 release_id: "15558625"
+apple_music_url: "https://music.apple.com/gb/album/a-steady-drip-drip-drip/1498210122"
 slug: "a-steady-drip-drip-drip-15558625"
 hideSummary: true
 cover:

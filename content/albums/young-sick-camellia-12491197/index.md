@@ -6,6 +6,7 @@ album_name: "Young Sick Camellia"
 date: 2018-09-29T07:59:02.000000Z
 release_date: "2018-09-07"
 release_id: "12491197"
+apple_music_url: "https://music.apple.com/gb/album/young-sick-camellia/1415203559"
 slug: "young-sick-camellia-12491197"
 hideSummary: true
 cover:

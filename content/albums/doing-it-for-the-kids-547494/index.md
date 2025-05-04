@@ -6,6 +6,7 @@ album_name: "Doing It For The Kids"
 date: 2016-11-16T13:03:18.000000Z
 release_date: ""
 release_id: "547494"
+apple_music_url: ""
 slug: "doing-it-for-the-kids-547494"
 hideSummary: true
 cover:

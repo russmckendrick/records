@@ -6,6 +6,7 @@ album_name: "Reading, Writing And Arithmetic"
 date: 2025-02-08T10:57:26.000000Z
 release_date: "1990-04-17"
 release_id: "28535869"
+apple_music_url: "https://music.apple.com/gb/album/reading-writing-and-arithmetic/697249384"
 slug: "reading-writing-and-arithmetic-28535869"
 hideSummary: true
 cover:

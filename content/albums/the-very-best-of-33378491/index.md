@@ -6,6 +6,7 @@ album_name: "The Very Best Of"
 date: 2025-03-14T02:28:04.000000Z
 release_date: "1997-01-27"
 release_id: "33378491"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of/696670362"
 slug: "the-very-best-of-33378491"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Chrysalis"
 date: 2021-10-22T10:10:18.000000Z
 release_date: "2021-10-08"
 release_id: "20529481"
+apple_music_url: "https://music.apple.com/gb/album/chrysalis/1729756604"
 slug: "chrysalis-20529481"
 hideSummary: true
 cover:

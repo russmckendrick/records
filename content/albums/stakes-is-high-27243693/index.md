@@ -6,6 +6,7 @@ album_name: "Stakes Is High"
 date: 2023-06-02T05:03:12.000000Z
 release_date: "1996-07-02"
 release_id: "27243693"
+apple_music_url: "https://music.apple.com/gb/album/stakes-is-high/1664600863"
 slug: "stakes-is-high-27243693"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: " Here Comes A Man From The Council With A Flamethrower"
 date: 2020-02-27T18:19:31.000000Z
 release_date: "2019-11-22"
 release_id: "14849783"
+apple_music_url: "https://music.apple.com/gb/album/here-comes-a-man-from-the-council-with-a-flamethrower/1484413225"
 slug: "here-comes-a-man-from-the-council-with-a-flamethrower-14849783"
 hideSummary: true
 cover:

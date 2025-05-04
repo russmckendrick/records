@@ -6,6 +6,7 @@ album_name: "Handsworth Revolution"
 date: 2016-11-08T18:41:56.000000Z
 release_date: "1978-07-01"
 release_id: "5954072"
+apple_music_url: "https://music.apple.com/gb/album/handsworth-revolution-deluxe-edition/1480067980"
 slug: "handsworth-revolution-5954072"
 hideSummary: true
 cover:

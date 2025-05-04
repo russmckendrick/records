@@ -6,6 +6,7 @@ album_name: "Equinoxe Infinity"
 date: 2018-11-17T10:44:45.000000Z
 release_date: "2018-11-16"
 release_id: "12805890"
+apple_music_url: "https://music.apple.com/gb/album/equinoxe-infinity/1435149472"
 slug: "equinoxe-infinity-12805890"
 hideSummary: true
 cover:

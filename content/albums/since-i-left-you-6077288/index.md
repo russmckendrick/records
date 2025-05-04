@@ -6,6 +6,7 @@ album_name: "Since I Left You"
 date: 2021-05-30T05:08:26.000000Z
 release_date: "2001-04-16"
 release_id: "6077288"
+apple_music_url: "https://music.apple.com/gb/album/since-i-left-you/1450114829"
 slug: "since-i-left-you-6077288"
 hideSummary: true
 cover:

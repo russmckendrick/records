@@ -6,6 +6,7 @@ album_name: "The Alien Coast"
 date: 2022-01-28T05:00:50.000000Z
 release_date: "2022-01-28"
 release_id: "21884815"
+apple_music_url: "https://music.apple.com/gb/album/alien-coast/1587179158"
 slug: "the-alien-coast-21884815"
 hideSummary: true
 cover:

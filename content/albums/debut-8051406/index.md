@@ -6,6 +6,7 @@ album_name: "Debut"
 date: 2016-11-24T18:45:09.000000Z
 release_date: "1993-07-05"
 release_id: "8051406"
+apple_music_url: "https://music.apple.com/gb/album/debut/1726662710"
 slug: "debut-8051406"
 hideSummary: true
 cover:

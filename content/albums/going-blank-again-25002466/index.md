@@ -6,6 +6,7 @@ album_name: "Going Blank Again"
 date: 2022-11-04T06:15:59.000000Z
 release_date: "1992-03-06"
 release_id: "25002466"
+apple_music_url: "https://music.apple.com/gb/album/going-blank-again/1621531296"
 slug: "going-blank-again-25002466"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rare Birds"
 date: 2018-07-16T18:50:38.000000Z
 release_date: "2018-03-02"
 release_id: "11632547"
+apple_music_url: "https://music.apple.com/gb/album/rare-birds/1320439940"
 slug: "rare-birds-11632547"
 hideSummary: true
 cover:

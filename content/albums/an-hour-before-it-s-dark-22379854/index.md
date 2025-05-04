@@ -6,6 +6,7 @@ album_name: "An Hour Before It's Dark"
 date: 2022-03-04T11:16:47.000000Z
 release_date: "2022-03-04"
 release_id: "22379854"
+apple_music_url: "https://music.apple.com/gb/album/an-hour-before-its-dark/1593404034"
 slug: "an-hour-before-it-s-dark-22379854"
 hideSummary: true
 cover:

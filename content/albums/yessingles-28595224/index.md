@@ -6,6 +6,7 @@ album_name: "Yessingles"
 date: 2023-10-15T05:12:30.000000Z
 release_date: "2023-10-06"
 release_id: "28595224"
+apple_music_url: "https://music.apple.com/gb/album/yessingles/1703229873"
 slug: "yessingles-28595224"
 hideSummary: true
 cover:

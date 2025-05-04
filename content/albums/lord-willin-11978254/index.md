@@ -6,6 +6,7 @@ album_name: "Lord Willin'"
 date: 2018-05-12T12:59:24.000000Z
 release_date: "2002-08-20"
 release_id: "11978254"
+apple_music_url: "https://music.apple.com/gb/album/lord-willin/309071685"
 slug: "lord-willin-11978254"
 hideSummary: true
 cover:

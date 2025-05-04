@@ -6,6 +6,7 @@ album_name: "Simple Things"
 date: 2015-10-05T18:21:13.000000Z
 release_date: "2001-04-23"
 release_id: "7198006"
+apple_music_url: "https://music.apple.com/gb/album/simple-things/1326273139"
 slug: "simple-things-7198006"
 hideSummary: true
 cover:

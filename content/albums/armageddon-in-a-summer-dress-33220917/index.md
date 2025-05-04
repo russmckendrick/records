@@ -6,6 +6,7 @@ album_name: "Armageddon In A Summer Dress"
 date: 2025-02-23T11:42:38.000000Z
 release_date: "2025-02-21"
 release_id: "33220917"
+apple_music_url: "https://music.apple.com/gb/album/armageddon-in-a-summer-dress/1776670052"
 slug: "armageddon-in-a-summer-dress-33220917"
 hideSummary: true
 cover:

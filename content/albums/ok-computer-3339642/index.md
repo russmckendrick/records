@@ -6,6 +6,7 @@ album_name: "OK Computer"
 date: 2016-04-17T13:48:28.000000Z
 release_date: "1997-05-21"
 release_id: "3339642"
+apple_music_url: "https://music.apple.com/gb/album/ok-computer/1097861387"
 slug: "ok-computer-3339642"
 hideSummary: true
 cover:

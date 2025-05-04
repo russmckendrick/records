@@ -6,6 +6,7 @@ album_name: "Public Confidential"
 date: 2019-06-21T19:10:16.000000Z
 release_date: "2019-01-25"
 release_id: "13121934"
+apple_music_url: "https://music.apple.com/gb/album/public-confidential/1442800503"
 slug: "public-confidential-13121934"
 hideSummary: true
 cover:

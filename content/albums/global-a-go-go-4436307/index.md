@@ -6,6 +6,7 @@ album_name: "Global A Go-Go"
 date: 2017-12-23T09:59:25.000000Z
 release_date: "2022-09-16"
 release_id: "4436307"
+apple_music_url: "https://music.apple.com/gb/album/joe-strummer-002-the-mescaleros-years/1639499091"
 slug: "global-a-go-go-4436307"
 hideSummary: true
 cover:

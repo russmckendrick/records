@@ -6,6 +6,7 @@ album_name: "Exorcising Ghosts"
 date: 2022-10-21T09:01:38.000000Z
 release_date: "1984-01-01"
 release_id: "24749051"
+apple_music_url: "https://music.apple.com/gb/album/exorcising-ghosts/724314377"
 slug: "exorcising-ghosts-24749051"
 hideSummary: true
 cover:

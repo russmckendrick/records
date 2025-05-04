@@ -6,6 +6,7 @@ album_name: "Everything Was Beautiful"
 date: 2022-04-22T04:37:18.000000Z
 release_date: "2022-04-22"
 release_id: "22954349"
+apple_music_url: "https://music.apple.com/gb/album/everything-was-beautiful/1591255695"
 slug: "everything-was-beautiful-22954349"
 hideSummary: true
 cover:

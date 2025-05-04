@@ -6,6 +6,7 @@ album_name: "In This Moment We Are Free - Cities"
 date: 2017-10-21T15:09:36.000000Z
 release_date: "2017-10-20"
 release_id: "11031373"
+apple_music_url: "https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116"
 slug: "in-this-moment-we-are-free-cities-11031373"
 hideSummary: true
 cover:

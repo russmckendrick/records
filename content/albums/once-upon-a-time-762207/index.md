@@ -6,6 +6,7 @@ album_name: "Once Upon A Time"
 date: 2015-09-11T18:02:24.000000Z
 release_date: "1985-10-21"
 release_id: "762207"
+apple_music_url: "https://music.apple.com/gb/album/once-upon-a-time/1440841956"
 slug: "once-upon-a-time-762207"
 hideSummary: true
 cover:

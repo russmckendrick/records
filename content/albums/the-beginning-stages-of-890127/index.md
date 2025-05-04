@@ -6,6 +6,7 @@ album_name: "The Beginning Stages Of..."
 date: 2015-10-08T07:49:19.000000Z
 release_date: "2002-06-04"
 release_id: "890127"
+apple_music_url: "https://music.apple.com/gb/album/the-beginning-stages-of/1711109317"
 slug: "the-beginning-stages-of-890127"
 hideSummary: true
 cover:

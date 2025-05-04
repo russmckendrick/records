@@ -6,6 +6,7 @@ album_name: "Theyesandeye"
 date: 2016-07-25T18:37:38.000000Z
 release_date: "2016-07-22"
 release_id: "8812487"
+apple_music_url: "https://music.apple.com/gb/album/theyesandeye/1168928018"
 slug: "theyesandeye-8812487"
 hideSummary: true
 cover:

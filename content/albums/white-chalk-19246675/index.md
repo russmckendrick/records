@@ -6,6 +6,7 @@ album_name: "White Chalk"
 date: 2021-06-26T09:17:46.000000Z
 release_date: "2007-01-01"
 release_id: "19246675"
+apple_music_url: "https://music.apple.com/gb/album/white-chalk/1443639741"
 slug: "white-chalk-19246675"
 hideSummary: true
 cover:

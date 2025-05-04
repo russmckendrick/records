@@ -6,6 +6,7 @@ album_name: "Rage Against The Machine"
 date: 2015-08-09T08:46:38.000000Z
 release_date: "2012-01-26"
 release_id: "2055684"
+apple_music_url: "https://music.apple.com/gb/album/rage-against-the-machine-single/485443440"
 slug: "rage-against-the-machine-2055684"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sign O The Times"
 date: 2016-10-21T17:28:25.000000Z
 release_date: "1987-03-30"
 release_id: "9154987"
+apple_music_url: "https://music.apple.com/gb/album/sign-o-the-times/212852926"
 slug: "sign-o-the-times-9154987"
 hideSummary: true
 cover:

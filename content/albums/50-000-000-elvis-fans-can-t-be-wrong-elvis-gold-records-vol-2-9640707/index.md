@@ -6,6 +6,7 @@ album_name: "50,000,000 Elvis Fans Can't Be Wrong (Elvis' Gold Records, Vol. 2)"
 date: 2021-06-07T10:54:03.000000Z
 release_date: "1959-11-13"
 release_id: "9640707"
+apple_music_url: "https://music.apple.com/gb/album/50-000-000-elvis-fans-cant-be-wrong-elvis-gold-records-vol-2/674507376"
 slug: "50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2-9640707"
 hideSummary: true
 cover:

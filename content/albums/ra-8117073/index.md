@@ -6,6 +6,7 @@ album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
 release_date: "2019-04-12"
 release_id: "8117073"
+apple_music_url: "https://music.apple.com/gb/album/utopia/1459737757"
 slug: "ra-8117073"
 hideSummary: true
 cover:

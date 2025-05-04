@@ -6,6 +6,7 @@ album_name: "Coral Island"
 date: 2021-05-05T04:12:46.000000Z
 release_date: "2021-04-30"
 release_id: "18531073"
+apple_music_url: "https://music.apple.com/gb/album/coral-island/1700447876"
 slug: "coral-island-18531073"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Los Amigos Del Beta Bandidos"
 date: 2016-02-18T19:17:05.000000Z
 release_date: ""
 release_id: "4494532"
+apple_music_url: ""
 slug: "los-amigos-del-beta-bandidos-4494532"
 hideSummary: true
 cover:

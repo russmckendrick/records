@@ -6,6 +6,7 @@ album_name: "Dizzy Heights"
 date: 2015-10-04T11:26:45.000000Z
 release_date: "2014-02-07"
 release_id: "5388264"
+apple_music_url: "https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973"
 slug: "dizzy-heights-5388264"
 hideSummary: true
 cover:

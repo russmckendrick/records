@@ -6,6 +6,7 @@ album_name: "The Likes Of Us"
 date: 2024-03-02T07:27:22.000000Z
 release_date: "2024-03-01"
 release_id: "29977267"
+apple_music_url: "https://music.apple.com/gb/album/the-likes-of-us/1716950345"
 slug: "the-likes-of-us-29977267"
 hideSummary: true
 cover:

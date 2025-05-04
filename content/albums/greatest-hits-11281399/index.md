@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2018-01-29T19:34:01.000000Z
 release_date: "1970-11-21"
 release_id: "11281399"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/212579326"
 slug: "greatest-hits-11281399"
 hideSummary: true
 cover:

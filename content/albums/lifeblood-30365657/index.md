@@ -6,6 +6,7 @@ album_name: "Lifeblood"
 date: 2024-04-16T11:29:50.000000Z
 release_date: "2001-01-01"
 release_id: "30365657"
+apple_music_url: "https://music.apple.com/gb/album/lifeblood/424150824"
 slug: "lifeblood-30365657"
 hideSummary: true
 cover:

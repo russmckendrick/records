@@ -6,6 +6,7 @@ album_name: "Goodbye Horses: The Many Lives Of Q Lazzarus (Music From The Motion
 date: 2025-02-20T22:02:58.000000Z
 release_date: "2025-02-21"
 release_id: "33201309"
+apple_music_url: "https://music.apple.com/gb/album/goodbye-horses-the-many-lives-of-q-lazzarus-music/1779806793"
 slug: "goodbye-horses-the-many-lives-of-q-lazzarus-music-from-the-motion-picture-33201309"
 hideSummary: true
 cover:

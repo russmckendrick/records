@@ -6,6 +6,7 @@ album_name: "I Don't Live Here Anymore"
 date: 2021-10-30T04:05:25.000000Z
 release_date: "2021-10-29"
 release_id: "20771347"
+apple_music_url: "https://music.apple.com/gb/album/i-dont-live-here-anymore/1576851901"
 slug: "i-don-t-live-here-anymore-20771347"
 hideSummary: true
 cover:

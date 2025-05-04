@@ -6,6 +6,7 @@ album_name: "Coda"
 date: 2017-02-26T10:57:57.000000Z
 release_date: "1969-01-12"
 release_id: "7303584"
+apple_music_url: "https://music.apple.com/gb/album/led-zeppelin-remastered/580708520"
 slug: "coda-7303584"
 hideSummary: true
 cover:

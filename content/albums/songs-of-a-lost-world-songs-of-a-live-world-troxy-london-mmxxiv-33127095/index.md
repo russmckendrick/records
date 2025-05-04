@@ -6,6 +6,7 @@ album_name: "Songs Of A Lost World / Songs Of A Live World: Troxy London MMXXIV"
 date: 2025-02-14T00:42:11.000000Z
 release_date: "2024-11-01"
 release_id: "33127095"
+apple_music_url: "https://music.apple.com/gb/album/songs-of-a-lost-world-songs-of-a-live/1782345790"
 slug: "songs-of-a-lost-world-songs-of-a-live-world-troxy-london-mmxxiv-33127095"
 hideSummary: true
 cover:

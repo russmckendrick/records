@@ -6,6 +6,7 @@ album_name: "The Last Broadcast"
 date: 2019-06-03T17:50:44.000000Z
 release_date: "2002-04-29"
 release_id: "13697174"
+apple_music_url: "https://music.apple.com/gb/album/the-last-broadcast/724582643"
 slug: "the-last-broadcast-13697174"
 hideSummary: true
 cover:

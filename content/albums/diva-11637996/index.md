@@ -6,6 +6,7 @@ album_name: "Diva"
 date: 2018-03-10T15:57:11.000000Z
 release_date: "2009-03-05"
 release_id: "11637996"
+apple_music_url: "https://music.apple.com/gb/album/the-annie-lennox-collection/304385026"
 slug: "diva-11637996"
 hideSummary: true
 cover:

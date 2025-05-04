@@ -6,6 +6,7 @@ album_name: "Gravity Stairs"
 date: 2024-06-05T11:25:26.000000Z
 release_date: "2024-05-31"
 release_id: "30830307"
+apple_music_url: "https://music.apple.com/gb/album/gravity-stairs/1728305078"
 slug: "gravity-stairs-30830307"
 hideSummary: true
 cover:

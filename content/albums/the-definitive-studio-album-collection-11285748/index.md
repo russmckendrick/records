@@ -6,6 +6,7 @@ album_name: "The Definitive Studio Album Collection"
 date: 2017-12-16T18:39:51.000000Z
 release_date: "2008-09-23"
 release_id: "11285748"
+apple_music_url: "https://music.apple.com/gb/album/the-definitive-collection/1445082401"
 slug: "the-definitive-studio-album-collection-11285748"
 hideSummary: true
 cover:

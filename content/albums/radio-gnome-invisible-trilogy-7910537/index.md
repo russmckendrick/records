@@ -6,6 +6,7 @@ album_name: "Radio Gnome Invisible Trilogy"
 date: 2017-07-11T17:46:04.000000Z
 release_date: "1973"
 release_id: "7910537"
+apple_music_url: "https://music.apple.com/gb/album/the-radio-gnome-invisible-trilogy-2015-remastered/1057678912"
 slug: "radio-gnome-invisible-trilogy-7910537"
 hideSummary: true
 cover:

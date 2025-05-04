@@ -6,6 +6,7 @@ album_name: "Lost Themes II"
 date: 2018-02-17T10:06:15.000000Z
 release_date: "2024-05-03"
 release_id: "8362668"
+apple_music_url: "https://music.apple.com/gb/album/lost-themes-iv-noir/1729789020"
 slug: "lost-themes-ii-8362668"
 hideSummary: true
 cover:

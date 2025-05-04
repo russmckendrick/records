@@ -6,6 +6,7 @@ album_name: "Stand Up"
 date: 2018-01-26T20:02:41.000000Z
 release_date: "1969-07-25"
 release_id: "9834706"
+apple_music_url: "https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185"
 slug: "stand-up-9834706"
 hideSummary: true
 cover:

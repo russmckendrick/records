@@ -6,6 +6,7 @@ album_name: "Prolonging The Magic"
 date: 2023-03-23T03:01:17.000000Z
 release_date: "1998-10-06"
 release_id: "26375354"
+apple_music_url: "https://music.apple.com/gb/album/prolonging-the-magic/283516841"
 slug: "prolonging-the-magic-26375354"
 hideSummary: true
 cover:

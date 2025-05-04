@@ -20,6 +20,7 @@
         "artistUri": {{ printf "/artist/%s/" ($page.Params.artist | urlize) | absURL | jsonify }},
         "artistImage": {{ printf "/artist/%s/%s.jpg" ($page.Params.artist | urlize) ($page.Params.artist | urlize) | absURL | jsonify }},
         "albumFullUri": {{ printf "%s" ($page.RelPermalink | urlize) | absURL | jsonify }},
+        "appleMusicUrl": {{ $page.Params.apple_music_url | jsonify }},
         "genres": {{ $page.Params.genres | jsonify }},
         "styles": {{ $page.Params.styles | jsonify }}
       }{{- if ne $index (sub (len .Site.RegularPages) 1) }},{{ end }}

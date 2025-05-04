@@ -6,6 +6,7 @@ album_name: "Meliora"
 date: 2018-09-16T10:49:21.000000Z
 release_date: "2015-01-01"
 release_id: "7381473"
+apple_music_url: "https://music.apple.com/gb/album/meliora/1440946674"
 slug: "meliora-7381473"
 hideSummary: true
 cover:

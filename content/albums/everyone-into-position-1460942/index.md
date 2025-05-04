@@ -6,6 +6,7 @@ album_name: "Everyone Into Position"
 date: 2016-06-13T17:50:32.000000Z
 release_date: "2005-09-19"
 release_id: "1460942"
+apple_music_url: "https://music.apple.com/gb/album/everyone-into-position/1136804665"
 slug: "everyone-into-position-1460942"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Steve McQueen Acoustic"
 date: 2019-04-13T11:16:19.000000Z
 release_date: "2019-04-13"
 release_id: "13288548"
+apple_music_url: "https://music.apple.com/gb/album/steve-mcqueen-acoustic/1457321476"
 slug: "steve-mcqueen-acoustic-13288548"
 hideSummary: true
 cover:

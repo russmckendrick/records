@@ -6,6 +6,7 @@ album_name: "Emperor Tomato Ketchup"
 date: 2019-09-15T12:00:17.000000Z
 release_date: "1996-03-18"
 release_id: "14118464"
+apple_music_url: "https://music.apple.com/gb/album/emperor-tomato-ketchup/1230526714"
 slug: "emperor-tomato-ketchup-14118464"
 hideSummary: true
 cover:

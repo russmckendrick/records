@@ -6,6 +6,7 @@ album_name: "Quantum Gate"
 date: 2017-10-28T15:49:14.000000Z
 release_date: "2017-09-29"
 release_id: "10932564"
+apple_music_url: "https://music.apple.com/gb/album/quantum-gate/1275652998"
 slug: "quantum-gate-10932564"
 hideSummary: true
 cover:

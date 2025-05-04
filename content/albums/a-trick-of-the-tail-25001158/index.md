@@ -6,6 +6,7 @@ album_name: "A Trick Of The Tail"
 date: 2024-09-27T10:32:30.000000Z
 release_date: "1976-02-20"
 release_id: "25001158"
+apple_music_url: "https://music.apple.com/gb/album/a-trick-of-the-tail-2007-remaster/1694713186"
 slug: "a-trick-of-the-tail-25001158"
 hideSummary: true
 cover:

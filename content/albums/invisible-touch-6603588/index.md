@@ -6,6 +6,7 @@ album_name: "Invisible Touch"
 date: 2015-12-04T18:21:09.000000Z
 release_date: "1986-06-06"
 release_id: "6603588"
+apple_music_url: "https://music.apple.com/gb/album/invisible-touch-2007-remaster/396483774"
 slug: "invisible-touch-6603588"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "How Strange, Innocence"
 date: 2019-08-16T17:14:49.000000Z
 release_date: "2000-01-17"
 release_id: "13992889"
+apple_music_url: "https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117"
 slug: "how-strange-innocence-13992889"
 hideSummary: true
 cover:

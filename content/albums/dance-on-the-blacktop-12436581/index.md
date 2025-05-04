@@ -6,6 +6,7 @@ album_name: "Dance On The Blacktop"
 date: 2018-08-31T18:40:52.000000Z
 release_date: "2018-08-24"
 release_id: "12436581"
+apple_music_url: "https://music.apple.com/gb/album/dance-on-the-blacktop/1375809650"
 slug: "dance-on-the-blacktop-12436581"
 hideSummary: true
 cover:

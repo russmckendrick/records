@@ -6,6 +6,7 @@ album_name: "From The Beginning"
 date: 2021-05-21T07:27:29.000000Z
 release_date: "1967"
 release_id: "7206931"
+apple_music_url: "https://music.apple.com/gb/album/from-the-beginning/1469546526"
 slug: "from-the-beginning-7206931"
 hideSummary: true
 cover:

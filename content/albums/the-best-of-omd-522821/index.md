@@ -6,6 +6,7 @@ album_name: "The Best Of OMD"
 date: 2016-07-05T18:10:33.000000Z
 release_date: "1980-02-22"
 release_id: "522821"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "the-best-of-omd-522821"
 hideSummary: true
 cover:

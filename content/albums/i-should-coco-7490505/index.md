@@ -6,6 +6,7 @@ album_name: "I Should Coco"
 date: 2020-07-31T16:41:08.000000Z
 release_date: "1995-07-18"
 release_id: "7490505"
+apple_music_url: "https://music.apple.com/gb/album/i-should-coco/1437461696"
 slug: "i-should-coco-7490505"
 hideSummary: true
 cover:

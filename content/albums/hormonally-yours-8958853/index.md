@@ -6,6 +6,7 @@ album_name: "Hormonally Yours"
 date: 2019-04-26T12:44:14.000000Z
 release_date: "1992-06-19"
 release_id: "8958853"
+apple_music_url: "https://music.apple.com/gb/album/hormonally-yours/1321519468"
 slug: "hormonally-yours-8958853"
 hideSummary: true
 cover:

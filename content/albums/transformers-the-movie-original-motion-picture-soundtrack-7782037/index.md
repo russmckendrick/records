@@ -6,6 +6,7 @@ album_name: "Transformers: The Movie (Original Motion Picture Soundtrack)"
 date: 2015-12-07T18:46:42.000000Z
 release_date: ""
 release_id: "7782037"
+apple_music_url: ""
 slug: "transformers-the-movie-original-motion-picture-soundtrack-7782037"
 hideSummary: true
 cover:

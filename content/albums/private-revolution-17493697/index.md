@@ -6,6 +6,7 @@ album_name: "Private Revolution"
 date: 2021-02-26T04:31:40.000000Z
 release_date: "1987-03-03"
 release_id: "17493697"
+apple_music_url: "https://music.apple.com/gb/album/private-revolution/711969568"
 slug: "private-revolution-17493697"
 hideSummary: true
 cover:

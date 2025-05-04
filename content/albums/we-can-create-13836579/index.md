@@ -6,6 +6,7 @@ album_name: "We Can Create"
 date: 2019-08-30T15:22:30.000000Z
 release_date: "2007-05-14"
 release_id: "13836579"
+apple_music_url: "https://music.apple.com/gb/album/we-can-create/757501669"
 slug: "we-can-create-13836579"
 hideSummary: true
 cover:

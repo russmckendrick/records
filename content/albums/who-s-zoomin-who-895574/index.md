@@ -6,6 +6,7 @@ album_name: "Who's Zoomin' Who?"
 date: 2020-08-02T13:35:40.000000Z
 release_date: "1985-07-09"
 release_id: "895574"
+apple_music_url: "https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052"
 slug: "who-s-zoomin-who-895574"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cooki
 date: 2016-08-03T18:28:59.000000Z
 release_date: ""
 release_id: "210838"
+apple_music_url: ""
 slug: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838"
 hideSummary: true
 cover:

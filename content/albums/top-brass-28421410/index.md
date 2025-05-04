@@ -6,6 +6,7 @@ album_name: "Top Brass"
 date: 2023-09-29T06:44:38.000000Z
 release_date: "2023-08-18"
 release_id: "28421410"
+apple_music_url: "https://music.apple.com/gb/album/top-brass-single/1700893393"
 slug: "top-brass-28421410"
 hideSummary: true
 cover:

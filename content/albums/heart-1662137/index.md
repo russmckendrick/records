@@ -6,6 +6,7 @@ album_name: "Heart"
 date: 2017-07-11T08:45:32.000000Z
 release_date: "2020-06-26"
 release_id: "1662137"
+apple_music_url: "https://music.apple.com/us/album/greatest-hits-live/192690716"
 slug: "heart-1662137"
 hideSummary: true
 cover:

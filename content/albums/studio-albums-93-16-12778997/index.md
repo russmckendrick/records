@@ -6,6 +6,7 @@ album_name: "Studio Albums 93 - 16"
 date: 2019-12-14T13:00:24.000000Z
 release_date: "2024-12-14"
 release_id: "12778997"
+apple_music_url: "https://music.apple.com/gb/album/live-suede-studio-live-suede-studio-single/1779439135"
 slug: "studio-albums-93-16-12778997"
 hideSummary: true
 cover:

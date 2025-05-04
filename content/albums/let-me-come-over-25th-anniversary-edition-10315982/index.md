@@ -6,6 +6,7 @@ album_name: "Let Me Come Over (25th Anniversary Edition)"
 date: 2017-05-20T15:15:57.000000Z
 release_date: "2017-05-19"
 release_id: "10315982"
+apple_music_url: "https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046"
 slug: "let-me-come-over-25th-anniversary-edition-10315982"
 hideSummary: true
 cover:

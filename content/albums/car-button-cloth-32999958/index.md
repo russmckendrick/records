@@ -6,6 +6,7 @@ album_name: "Car Button Cloth"
 date: 2025-02-07T07:58:06.000000Z
 release_date: "1996-01-01"
 release_id: "32999958"
+apple_music_url: "https://music.apple.com/gb/album/car-button-cloth/1668077026"
 slug: "car-button-cloth-32999958"
 hideSummary: true
 cover:

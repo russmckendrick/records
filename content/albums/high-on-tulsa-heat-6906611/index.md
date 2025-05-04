@@ -6,6 +6,7 @@ album_name: "High On Tulsa Heat"
 date: 2016-01-20T19:12:37.000000Z
 release_date: "2015-04-21"
 release_id: "6906611"
+apple_music_url: "https://music.apple.com/gb/album/high-on-tulsa-heat/968599286"
 slug: "high-on-tulsa-heat-6906611"
 hideSummary: true
 cover:

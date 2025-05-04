@@ -6,6 +6,7 @@ album_name: "Music For The Masses"
 date: 2016-05-24T17:39:18.000000Z
 release_date: "1987-09-28"
 release_id: "5349623"
+apple_music_url: "https://music.apple.com/gb/album/music-for-the-masses/665403347"
 slug: "music-for-the-masses-5349623"
 hideSummary: true
 cover:

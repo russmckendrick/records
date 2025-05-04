@@ -6,6 +6,7 @@ album_name: "City Music"
 date: 2017-06-17T09:30:09.000000Z
 release_date: "2017-06-16"
 release_id: "10422791"
+apple_music_url: "https://music.apple.com/gb/album/city-music/1208719994"
 slug: "city-music-10422791"
 hideSummary: true
 cover:

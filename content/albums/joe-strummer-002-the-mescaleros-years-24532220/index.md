@@ -6,6 +6,7 @@ album_name: "Joe Strummer 002: The Mescaleros Years"
 date: 2022-09-26T09:13:33.000000Z
 release_date: "2022-09-16"
 release_id: "24532220"
+apple_music_url: "https://music.apple.com/gb/album/selections-from-joe-strummer-002-the-mescaleros-years/1645411568"
 slug: "joe-strummer-002-the-mescaleros-years-24532220"
 hideSummary: true
 cover:

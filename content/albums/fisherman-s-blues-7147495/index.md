@@ -6,6 +6,7 @@ album_name: "Fisherman's Blues"
 date: 2018-01-20T19:10:43.000000Z
 release_date: "2021-07-30"
 release_id: "7147495"
+apple_music_url: "https://music.apple.com/gb/album/fishermans-blues-single/1744424818"
 slug: "fisherman-s-blues-7147495"
 hideSummary: true
 cover:

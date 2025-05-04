@@ -6,6 +6,7 @@ album_name: "Solitude Standing"
 date: 2017-07-02T11:14:01.000000Z
 release_date: "1987-04-01"
 release_id: "10361309"
+apple_music_url: "https://music.apple.com/gb/album/solitude-standing/1444012381"
 slug: "solitude-standing-10361309"
 hideSummary: true
 cover:

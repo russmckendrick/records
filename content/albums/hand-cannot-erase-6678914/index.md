@@ -6,6 +6,7 @@ album_name: "Hand. Cannot. Erase."
 date: 2015-08-09T08:27:15.000000Z
 release_date: "2015-03-02"
 release_id: "6678914"
+apple_music_url: "https://music.apple.com/gb/album/hand-cannot-erase/947843632"
 slug: "hand-cannot-erase-6678914"
 hideSummary: true
 cover:

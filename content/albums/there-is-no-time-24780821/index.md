@@ -6,6 +6,7 @@ album_name: "There Is No Time"
 date: 2022-10-12T04:32:46.000000Z
 release_date: "2022-05-13"
 release_id: "24780821"
+apple_music_url: "https://music.apple.com/gb/album/there-is-no-time/1612636667"
 slug: "there-is-no-time-24780821"
 hideSummary: true
 cover:

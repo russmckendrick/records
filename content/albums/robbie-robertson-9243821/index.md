@@ -6,6 +6,7 @@ album_name: "Robbie Robertson"
 date: 2020-08-01T12:50:56.000000Z
 release_date: "1987-01-01"
 release_id: "9243821"
+apple_music_url: "https://music.apple.com/gb/album/robbie-robertson/1442372729"
 slug: "robbie-robertson-9243821"
 hideSummary: true
 cover:

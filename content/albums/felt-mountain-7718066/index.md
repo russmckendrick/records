@@ -6,6 +6,7 @@ album_name: "Felt Mountain"
 date: 2021-04-01T00:48:31.000000Z
 release_date: "2000-09-01"
 release_id: "7718066"
+apple_music_url: "https://music.apple.com/gb/album/felt-mountain/1435646598"
 slug: "felt-mountain-7718066"
 hideSummary: true
 cover:

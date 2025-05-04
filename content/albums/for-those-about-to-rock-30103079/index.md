@@ -6,6 +6,7 @@ album_name: "For Those About To Rock"
 date: 2024-03-15T06:44:47.000000Z
 release_date: "1981-11-20"
 release_id: "30103079"
+apple_music_url: "https://music.apple.com/gb/album/for-those-about-to-rock-we-salute-you/574055123"
 slug: "for-those-about-to-rock-30103079"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Devil Hopping"
 date: 2022-04-15T08:49:37.000000Z
 release_date: "1994-03-07"
 release_id: "22846772"
+apple_music_url: "https://music.apple.com/gb/album/devil-hopping/1435626647"
 slug: "devil-hopping-22846772"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Graffiti Bridge"
 date: 2023-09-10T02:29:22.000000Z
 release_date: "1990-08-20"
 release_id: "28217143"
+apple_music_url: "https://music.apple.com/gb/album/graffiti-bridge/212854444"
 slug: "graffiti-bridge-28217143"
 hideSummary: true
 cover:

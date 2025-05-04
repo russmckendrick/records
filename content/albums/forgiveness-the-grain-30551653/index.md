@@ -6,6 +6,7 @@ album_name: "Forgiveness & The Grain"
 date: 2024-05-04T03:54:21.000000Z
 release_date: "2024-02-02"
 release_id: "30551653"
+apple_music_url: "https://music.apple.com/gb/album/forgiveness-the-grain/1734322585"
 slug: "forgiveness-the-grain-30551653"
 hideSummary: true
 cover:

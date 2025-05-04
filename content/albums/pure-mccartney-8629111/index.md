@@ -6,6 +6,7 @@ album_name: "Pure McCartney"
 date: 2017-01-19T18:44:37.000000Z
 release_date: "2016-06-10"
 release_id: "8629111"
+apple_music_url: "https://music.apple.com/gb/album/pure-mccartney/1440954858"
 slug: "pure-mccartney-8629111"
 hideSummary: true
 cover:

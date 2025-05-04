@@ -6,6 +6,7 @@ album_name: "Time And Tide"
 date: 2018-09-29T10:01:24.000000Z
 release_date: "1982-04"
 release_id: "2805312"
+apple_music_url: "https://music.apple.com/gb/album/time-and-tide/1442297415"
 slug: "time-and-tide-2805312"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Drums And Wires"
 date: 2020-11-28T12:34:08.000000Z
 release_date: "1979-08-17"
 release_id: "16269444"
+apple_music_url: "https://music.apple.com/gb/album/drums-and-wires-bonus-track-version/724621207"
 slug: "drums-and-wires-16269444"
 hideSummary: true
 cover:

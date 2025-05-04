@@ -6,6 +6,7 @@ album_name: "So"
 date: 2015-09-02T18:23:52.000000Z
 release_date: "1977-02-25"
 release_id: "379036"
+apple_music_url: "https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072"
 slug: "so-379036"
 hideSummary: true
 cover:

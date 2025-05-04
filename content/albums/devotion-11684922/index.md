@@ -6,6 +6,7 @@ album_name: "Devotion"
 date: 2018-03-14T19:36:36.000000Z
 release_date: "2008-02-26"
 release_id: "11684922"
+apple_music_url: "https://music.apple.com/gb/album/devotion/1247691975"
 slug: "devotion-11684922"
 hideSummary: true
 cover:

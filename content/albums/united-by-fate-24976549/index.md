@@ -6,6 +6,7 @@ album_name: "United By Fate"
 date: 2022-12-05T10:49:51.000000Z
 release_date: "1998-01-29"
 release_id: "24976549"
+apple_music_url: "https://music.apple.com/gb/album/%E7%A7%81%E7%AB%8B%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9%E5%AD%A6%E5%9C%92-%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3-%E3%82%AA%E3%83%96-%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/895724747"
 slug: "united-by-fate-24976549"
 hideSummary: true
 cover:

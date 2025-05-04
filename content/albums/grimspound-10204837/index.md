@@ -6,6 +6,7 @@ album_name: "Grimspound"
 date: 2017-04-29T12:03:10.000000Z
 release_date: "2017-04-28"
 release_id: "10204837"
+apple_music_url: "https://music.apple.com/gb/album/grimspound/1208076126"
 slug: "grimspound-10204837"
 hideSummary: true
 cover:

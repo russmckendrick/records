@@ -6,6 +6,7 @@ album_name: "Earth Rocker"
 date: 2015-08-09T08:44:32.000000Z
 release_date: "2014-01-17"
 release_id: "4382663"
+apple_music_url: "https://music.apple.com/gb/album/earth-rocker-live/1687404033"
 slug: "earth-rocker-4382663"
 hideSummary: true
 cover:

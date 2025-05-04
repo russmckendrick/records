@@ -6,6 +6,7 @@ album_name: "Flat White Moon"
 date: 2021-04-23T04:31:25.000000Z
 release_date: "2021-04-23"
 release_id: "18420103"
+apple_music_url: "https://music.apple.com/gb/album/flat-white-moon/1551209901"
 slug: "flat-white-moon-18420103"
 hideSummary: true
 cover:

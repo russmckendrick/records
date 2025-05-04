@@ -6,6 +6,7 @@ album_name: "92° F / The Incredible PWEI Vs Dirty Harry"
 date: 2018-02-15T19:24:32.000000Z
 release_date: ""
 release_id: "99641"
+apple_music_url: ""
 slug: "92-f-the-incredible-pwei-vs-dirty-harry-99641"
 hideSummary: true
 cover:

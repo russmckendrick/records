@@ -6,6 +6,7 @@ album_name: "The End (4 February 2017 - Birmingham)"
 date: 2017-11-17T16:42:29.000000Z
 release_date: ""
 release_id: "11149469"
+apple_music_url: ""
 slug: "the-end-4-february-2017-birmingham-11149469"
 hideSummary: true
 cover:

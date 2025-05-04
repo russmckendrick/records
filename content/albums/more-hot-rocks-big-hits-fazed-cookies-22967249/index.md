@@ -6,6 +6,7 @@ album_name: "More Hot Rocks (Big Hits & Fazed Cookies)"
 date: 2022-05-17T07:05:31.000000Z
 release_date: "1972-12-18"
 release_id: "22967249"
+apple_music_url: "https://music.apple.com/gb/album/more-hot-rocks-big-hits-fazed-cookies/1440772737"
 slug: "more-hot-rocks-big-hits-fazed-cookies-22967249"
 hideSummary: true
 cover:

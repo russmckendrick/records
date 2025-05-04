@@ -6,6 +6,7 @@ album_name: "Every Move You Make (The Studio Recordings)"
 date: 2020-03-02T18:48:49.000000Z
 release_date: ""
 release_id: "12809414"
+apple_music_url: ""
 slug: "every-move-you-make-the-studio-recordings-12809414"
 hideSummary: true
 cover:

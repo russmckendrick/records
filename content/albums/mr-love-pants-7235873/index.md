@@ -6,6 +6,7 @@ album_name: "Mr Love Pants"
 date: 2016-09-21T18:12:35.000000Z
 release_date: "1998-06-29"
 release_id: "7235873"
+apple_music_url: "https://music.apple.com/gb/album/mr-love-pants/1488482663"
 slug: "mr-love-pants-7235873"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dust My Broom"
 date: 2015-12-17T08:50:29.000000Z
 release_date: "1990"
 release_id: "3329700"
+apple_music_url: "https://music.apple.com/gb/album/dust-my-broom/1648819175"
 slug: "dust-my-broom-3329700"
 hideSummary: true
 cover:

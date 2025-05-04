@@ -6,6 +6,7 @@ album_name: "Ceremony"
 date: 2019-03-11T19:46:28.000000Z
 release_date: "2010-02-20"
 release_id: "13303448"
+apple_music_url: "https://music.apple.com/gb/album/ceremony-a-new-order-tribute/355451688"
 slug: "ceremony-13303448"
 hideSummary: true
 cover:

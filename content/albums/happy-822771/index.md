@@ -6,6 +6,7 @@ album_name: "Happy"
 date: 
 release_date: ""
 release_id: "822771"
+apple_music_url: ""
 slug: "happy-822771"
 hideSummary: true
 cover:

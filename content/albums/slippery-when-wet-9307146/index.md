@@ -6,6 +6,7 @@ album_name: "Slippery When Wet"
 date: 2021-06-22T02:48:42.000000Z
 release_date: "1986-08-18"
 release_id: "9307146"
+apple_music_url: "https://music.apple.com/gb/album/slippery-when-wet/1422954626"
 slug: "slippery-when-wet-9307146"
 hideSummary: true
 cover:

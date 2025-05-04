@@ -6,6 +6,7 @@ album_name: "Classic Rock Anthems"
 date: 2016-12-27T12:08:41.000000Z
 release_date: ""
 release_id: "9435053"
+apple_music_url: ""
 slug: "classic-rock-anthems-9435053"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Awards 1992"
 date: 2019-01-05T11:38:49.000000Z
 release_date: ""
 release_id: "2697679"
+apple_music_url: ""
 slug: "the-awards-1992-2697679"
 hideSummary: true
 cover:

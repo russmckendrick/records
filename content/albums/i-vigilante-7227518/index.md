@@ -6,6 +6,7 @@ album_name: "I, Vigilante"
 date: 2016-10-31T17:51:16.000000Z
 release_date: "2010"
 release_id: "7227518"
+apple_music_url: "https://music.apple.com/gb/album/i-vigilante/1014625945"
 slug: "i-vigilante-7227518"
 hideSummary: true
 cover:

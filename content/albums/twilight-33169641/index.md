@@ -6,6 +6,7 @@ album_name: "Twilight"
 date: 2025-02-17T23:40:02.000000Z
 release_date: "2025-02-14"
 release_id: "33169641"
+apple_music_url: "https://music.apple.com/gb/album/twilight/1773455717"
 slug: "twilight-33169641"
 hideSummary: true
 cover:

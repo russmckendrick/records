@@ -6,6 +6,7 @@ album_name: "Third Degree"
 date: 2019-10-07T18:31:03.000000Z
 release_date: "2019-10-04"
 release_id: "14222306"
+apple_music_url: "https://music.apple.com/gb/album/third-degree/1600470882"
 slug: "third-degree-14222306"
 hideSummary: true
 cover:

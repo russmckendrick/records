@@ -6,6 +6,7 @@ album_name: "Bird Machine"
 date: 2023-09-29T06:43:49.000000Z
 release_date: "2023-09-08"
 release_id: "28320253"
+apple_music_url: "https://music.apple.com/gb/album/bird-machine/1689023427"
 slug: "bird-machine-28320253"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "To Bring You My Love"
 date: 2020-09-11T17:43:51.000000Z
 release_date: "1995-02-27"
 release_id: "15895363"
+apple_music_url: "https://music.apple.com/gb/album/to-bring-you-my-love/1440922042"
 slug: "to-bring-you-my-love-15895363"
 hideSummary: true
 cover:

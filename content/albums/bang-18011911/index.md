@@ -6,6 +6,7 @@ album_name: "Bang!"
 date: 2021-03-26T12:34:44.000000Z
 release_date: "2019-01-03"
 release_id: "18011911"
+apple_music_url: "https://music.apple.com/us/album/bang/710688495"
 slug: "bang-18011911"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Head Music"
 date: 2017-05-04T21:09:51.000000Z
 release_date: "1996"
 release_id: "5448682"
+apple_music_url: "https://music.apple.com/gb/album/green-suede-head-music-for-lovers/1761221734"
 slug: "head-music-5448682"
 hideSummary: true
 cover:

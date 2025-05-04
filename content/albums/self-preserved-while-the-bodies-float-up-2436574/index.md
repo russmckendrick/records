@@ -6,6 +6,7 @@ album_name: "Self Preserved While The Bodies Float Up"
 date: 2016-01-28T19:13:28.000000Z
 release_date: ""
 release_id: "2436574"
+apple_music_url: ""
 slug: "self-preserved-while-the-bodies-float-up-2436574"
 hideSummary: true
 cover:

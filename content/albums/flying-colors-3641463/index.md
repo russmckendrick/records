@@ -6,6 +6,7 @@ album_name: "Flying Colors"
 date: 2024-06-23T04:43:28.000000Z
 release_date: "2013-09-24"
 release_id: "3641463"
+apple_music_url: "https://music.apple.com/gb/album/flying-colors/1600463690"
 slug: "flying-colors-3641463"
 hideSummary: true
 cover:

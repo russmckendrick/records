@@ -6,6 +6,7 @@ album_name: "Hunting High And Low"
 date: 2018-08-17T18:07:56.000000Z
 release_date: "1985-06-10"
 release_id: "12210337"
+apple_music_url: "https://music.apple.com/gb/album/hunting-high-and-low-deluxe-edition/380907762"
 slug: "hunting-high-and-low-12210337"
 hideSummary: true
 cover:

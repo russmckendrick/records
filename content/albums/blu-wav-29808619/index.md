@@ -6,6 +6,7 @@ album_name: "Blu Wav"
 date: 2024-02-21T10:36:34.000000Z
 release_date: "2024-02-16"
 release_id: "29808619"
+apple_music_url: "https://music.apple.com/gb/album/blu-wav/1707921537"
 slug: "blu-wav-29808619"
 hideSummary: true
 cover:

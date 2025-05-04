@@ -6,6 +6,7 @@ album_name: "90's Alternative Collected"
 date: 2023-09-08T04:42:40.000000Z
 release_date: ""
 release_id: "28043898"
+apple_music_url: ""
 slug: "90-s-alternative-collected-28043898"
 hideSummary: true
 cover:

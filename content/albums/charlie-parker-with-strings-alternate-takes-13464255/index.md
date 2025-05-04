@@ -6,6 +6,7 @@ album_name: "Charlie Parker With Strings (Alternate Takes)"
 date: 2019-08-23T14:18:51.000000Z
 release_date: "1995-01-24"
 release_id: "13464255"
+apple_music_url: "https://music.apple.com/gb/album/charlie-parker-with-strings-complete-master-takes/1425188521"
 slug: "charlie-parker-with-strings-alternate-takes-13464255"
 hideSummary: true
 cover:

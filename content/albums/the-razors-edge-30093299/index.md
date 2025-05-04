@@ -6,6 +6,7 @@ album_name: "The Razors Edge"
 date: 2024-03-15T06:43:56.000000Z
 release_date: "1990-09-21"
 release_id: "30093299"
+apple_music_url: "https://music.apple.com/gb/album/the-razors-edge/574049507"
 slug: "the-razors-edge-30093299"
 hideSummary: true
 cover:

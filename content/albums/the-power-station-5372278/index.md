@@ -6,6 +6,7 @@ album_name: "The Power Station"
 date: 2018-11-01T07:46:55.000000Z
 release_date: "1985-03-25"
 release_id: "5372278"
+apple_music_url: "https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064"
 slug: "the-power-station-5372278"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Richard Hawley"
 date: 2023-07-28T05:34:32.000000Z
 release_date: "2001-07-03"
 release_id: "27760224"
+apple_music_url: "https://music.apple.com/gb/album/richard-hawley/290816552"
 slug: "richard-hawley-27760224"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ace A's + Killer B's"
 date: 2022-02-25T09:30:43.000000Z
 release_date: "1998-01-01"
 release_id: "22218358"
+apple_music_url: "https://music.apple.com/gb/album/ace-as-killer-bs/1443796376"
 slug: "ace-a-s-killer-b-s-22218358"
 hideSummary: true
 cover:

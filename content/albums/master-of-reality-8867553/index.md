@@ -6,6 +6,7 @@ album_name: "Master Of Reality"
 date: 2016-08-11T15:57:18.000000Z
 release_date: "2010-03-09"
 release_id: "8867553"
+apple_music_url: "https://music.apple.com/gb/album/the-master-of-reality/495845282"
 slug: "master-of-reality-8867553"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Best Of The Pogues"
 date: 2025-03-24T10:05:31.000000Z
 release_date: "2001-04-11"
 release_id: "32238447"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980"
 slug: "the-best-of-the-pogues-32238447"
 hideSummary: true
 cover:

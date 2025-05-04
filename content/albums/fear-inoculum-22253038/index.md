@@ -6,6 +6,7 @@ album_name: "Fear Inoculum"
 date: 2022-04-08T11:01:48.000000Z
 release_date: "2019-08-30"
 release_id: "22253038"
+apple_music_url: "https://music.apple.com/gb/album/fear-inoculum/1475686696"
 slug: "fear-inoculum-22253038"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Art Of The Lie"
 date: 2024-06-14T05:04:07.000000Z
 release_date: "2024-06-14"
 release_id: "30947866"
+apple_music_url: "https://music.apple.com/gb/album/the-art-of-the-lie/1733786875"
 slug: "the-art-of-the-lie-30947866"
 hideSummary: true
 cover:

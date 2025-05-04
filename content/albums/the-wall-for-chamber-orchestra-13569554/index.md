@@ -6,6 +6,7 @@ album_name: "The Wall For Chamber Orchestra"
 date: 2022-06-30T04:58:14.000000Z
 release_date: "2017-01-20"
 release_id: "13569554"
+apple_music_url: "https://music.apple.com/gb/album/easy-contest-solos-vol-1-trombone/1187447336"
 slug: "the-wall-for-chamber-orchestra-13569554"
 hideSummary: true
 cover:

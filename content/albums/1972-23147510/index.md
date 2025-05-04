@@ -6,6 +6,7 @@ album_name: "1972"
 date: 2022-11-04T06:16:49.000000Z
 release_date: "2024-03-15"
 release_id: "23147510"
+apple_music_url: "https://music.apple.com/gb/album/happiness-bastards/1719010572"
 slug: "1972-23147510"
 hideSummary: true
 cover:

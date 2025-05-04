@@ -6,6 +6,7 @@ album_name: "Champion Versions"
 date: 2016-02-29T19:00:36.000000Z
 release_date: ""
 release_id: "7425314"
+apple_music_url: ""
 slug: "champion-versions-7425314"
 hideSummary: true
 cover:

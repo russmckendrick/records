@@ -6,6 +6,7 @@ album_name: "The Dead Flowers Reject"
 date: 2020-10-07T14:20:54.000000Z
 release_date: "2020-08-29"
 release_id: "15836648"
+apple_music_url: "https://music.apple.com/gb/album/dead-flowers-reject/1770449644"
 slug: "the-dead-flowers-reject-15836648"
 hideSummary: true
 cover:

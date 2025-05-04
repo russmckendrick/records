@@ -6,6 +6,7 @@ album_name: "Rubycon"
 date: 2018-10-24T11:41:07.000000Z
 release_date: "1967-01-01"
 release_id: "3077549"
+apple_music_url: "https://music.apple.com/gb/album/tangerine-dream/1443997135"
 slug: "rubycon-3077549"
 hideSummary: true
 cover:

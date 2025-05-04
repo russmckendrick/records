@@ -6,6 +6,7 @@ album_name: "Radio Voltaire"
 date: 2018-03-24T11:43:56.000000Z
 release_date: "2018-03-23"
 release_id: "11744021"
+apple_music_url: "https://music.apple.com/gb/album/radio-voltaire/1337056975"
 slug: "radio-voltaire-11744021"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "replicr, 2019"
 date: 2019-09-28T07:53:07.000000Z
 release_date: "2019-09-27"
 release_id: "14191140"
+apple_music_url: "https://music.apple.com/gb/album/replicr-2019/1471952343"
 slug: "replicr-2019-14191140"
 hideSummary: true
 cover:

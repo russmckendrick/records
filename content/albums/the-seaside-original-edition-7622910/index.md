@@ -6,6 +6,7 @@ album_name: "The Seaside (Original Edition)"
 date: 2016-08-26T16:30:24.000000Z
 release_date: ""
 release_id: "7622910"
+apple_music_url: ""
 slug: "the-seaside-original-edition-7622910"
 hideSummary: true
 cover:

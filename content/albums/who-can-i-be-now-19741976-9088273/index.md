@@ -6,6 +6,7 @@ album_name: "Who Can I Be Now? [ 1974–1976 ]"
 date: 2016-09-23T16:25:51.000000Z
 release_date: "2016-09-23"
 release_id: "9088273"
+apple_music_url: "https://music.apple.com/gb/album/who-can-i-be-now-1974-1976/1135943211"
 slug: "who-can-i-be-now-19741976-9088273"
 hideSummary: true
 cover:

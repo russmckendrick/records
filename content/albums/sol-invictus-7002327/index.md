@@ -6,6 +6,7 @@ album_name: "Sol Invictus"
 date: 2015-08-09T08:29:54.000000Z
 release_date: "2015-05-18"
 release_id: "7002327"
+apple_music_url: "https://music.apple.com/gb/album/sol-invictus/971801283"
 slug: "sol-invictus-7002327"
 hideSummary: true
 cover:

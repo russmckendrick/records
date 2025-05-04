@@ -6,6 +6,7 @@ album_name: "Cuckoo"
 date: 2017-12-23T10:30:11.000000Z
 release_date: ""
 release_id: "10770803"
+apple_music_url: ""
 slug: "cuckoo-10770803"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Woodface"
 date: 2023-04-29T03:01:47.000000Z
 release_date: "1991-06-24"
 release_id: "9322374"
+apple_music_url: "https://music.apple.com/gb/album/woodface/724471916"
 slug: "woodface-9322374"
 hideSummary: true
 cover:

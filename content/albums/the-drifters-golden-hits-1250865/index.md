@@ -6,6 +6,7 @@ album_name: "The Drifters' Golden Hits"
 date: 2020-08-02T13:39:40.000000Z
 release_date: "1968"
 release_id: "1250865"
+apple_music_url: "https://music.apple.com/gb/album/the-drifters-golden-hits-mono/1566599254"
 slug: "the-drifters-golden-hits-1250865"
 hideSummary: true
 cover:

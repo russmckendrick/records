@@ -6,6 +6,7 @@ album_name: "Welcome To The Planet "
 date: 2022-01-29T02:16:32.000000Z
 release_date: "2022-01-28"
 release_id: "21929122"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-the-planet/1591312364"
 slug: "welcome-to-the-planet-21929122"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Speaking In Tongues"
 date: 2017-03-11T12:34:00.000000Z
 release_date: "1983-06-01"
 release_id: "4564584"
+apple_music_url: "https://music.apple.com/gb/album/speaking-in-tongues/300202199"
 slug: "speaking-in-tongues-4564584"
 hideSummary: true
 cover:

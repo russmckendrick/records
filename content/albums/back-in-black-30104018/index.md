@@ -6,6 +6,7 @@ album_name: "Back In Black"
 date: 2024-03-16T02:33:17.000000Z
 release_date: "1980-07-25"
 release_id: "30104018"
+apple_music_url: "https://music.apple.com/gb/album/back-in-black/574050396"
 slug: "back-in-black-30104018"
 hideSummary: true
 cover:

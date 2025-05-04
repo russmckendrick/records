@@ -6,6 +6,7 @@ album_name: "Viscerals"
 date: 2020-04-09T16:44:54.000000Z
 release_date: "2020-04-03"
 release_id: "15030578"
+apple_music_url: "https://music.apple.com/gb/album/viscerals/1491152566"
 slug: "viscerals-15030578"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Scott 2"
 date: 2017-05-27T15:31:54.000000Z
 release_date: "1981"
 release_id: "2403028"
+apple_music_url: "https://music.apple.com/gb/album/scott-walker-sings-jacques-brel/1444213513"
 slug: "scott-2-2403028"
 hideSummary: true
 cover:

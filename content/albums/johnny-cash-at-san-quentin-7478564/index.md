@@ -6,6 +6,7 @@ album_name: "Johnny Cash At San Quentin"
 date: 2016-11-24T18:43:30.000000Z
 release_date: "2018-01-19"
 release_id: "7478564"
+apple_music_url: "https://music.apple.com/gb/album/i-am-johnny-cash/1334617503"
 slug: "johnny-cash-at-san-quentin-7478564"
 hideSummary: true
 cover:

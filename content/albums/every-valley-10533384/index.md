@@ -6,6 +6,7 @@ album_name: "Every Valley"
 date: 2017-07-07T16:52:12.000000Z
 release_date: "2017-07-07"
 release_id: "10533384"
+apple_music_url: "https://music.apple.com/gb/album/every-valley/1221474815"
 slug: "every-valley-10533384"
 hideSummary: true
 cover:

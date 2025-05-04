@@ -5,6 +5,7 @@ artist: "cheech-chong"
 album_name: "Up In Smoke (40th Anniversary Deluxe Collector's Edition)"
 date: 2019-04-16T17:11:32.000000Z
 release_id: "11926046"
+apple_music_url: ""
 slug: "up-in-smoke-40th-anniversary-deluxe-collector-s-edition-11926046"
 hideSummary: true
 cover:

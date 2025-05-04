@@ -6,6 +6,7 @@ album_name: "Highway To Hell"
 date: 2024-03-15T06:45:14.000000Z
 release_date: "1979-07-27"
 release_id: "30103433"
+apple_music_url: "https://music.apple.com/gb/album/highway-to-hell/574043989"
 slug: "highway-to-hell-30103433"
 hideSummary: true
 cover:

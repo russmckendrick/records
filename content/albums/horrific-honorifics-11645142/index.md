@@ -6,6 +6,7 @@ album_name: "Horrific Honorifics"
 date: 2018-03-16T10:38:02.000000Z
 release_date: "2024-11-29"
 release_id: "11645142"
+apple_music_url: "https://music.apple.com/gb/album/horrific-honorifics-number-two-2/1762680953"
 slug: "horrific-honorifics-11645142"
 hideSummary: true
 cover:

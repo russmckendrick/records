@@ -6,6 +6,7 @@ album_name: "Ode To Joy"
 date: 2019-10-05T15:31:35.000000Z
 release_date: "2019-10-04"
 release_id: "14212648"
+apple_music_url: "https://music.apple.com/gb/album/ode-to-joy/1690693254"
 slug: "ode-to-joy-14212648"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Merrie Land"
 date: 2018-11-17T10:42:31.000000Z
 release_date: "2018-11-16"
 release_id: "12801704"
+apple_music_url: "https://music.apple.com/gb/album/merrie-land/1439081942"
 slug: "merrie-land-12801704"
 hideSummary: true
 cover:

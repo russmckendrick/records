@@ -6,6 +6,7 @@ album_name: "Deltron 3030"
 date: 2017-03-18T12:16:29.000000Z
 release_date: "2000-05-23"
 release_id: "2700033"
+apple_music_url: "https://music.apple.com/gb/album/deltron-3030/288544306"
 slug: "deltron-3030-2700033"
 hideSummary: true
 cover:

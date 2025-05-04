@@ -6,6 +6,7 @@ album_name: "This Strange Engine"
 date: 2024-11-23T06:51:15.000000Z
 release_date: "1997-04-21"
 release_id: "32301738"
+apple_music_url: "https://music.apple.com/gb/album/this-strange-engine-deluxe-edition/1761810736"
 slug: "this-strange-engine-32301738"
 hideSummary: true
 cover:

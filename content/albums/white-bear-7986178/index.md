@@ -6,6 +6,7 @@ album_name: "White Bear"
 date: 2016-01-17T12:53:37.000000Z
 release_date: "2016-01-15"
 release_id: "7986178"
+apple_music_url: "https://music.apple.com/gb/album/white-bear/1037063159"
 slug: "white-bear-7986178"
 hideSummary: true
 cover:

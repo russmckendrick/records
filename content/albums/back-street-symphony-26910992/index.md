@@ -6,6 +6,7 @@ album_name: "Back Street Symphony"
 date: 2023-05-01T06:51:04.000000Z
 release_date: "1990-02-26"
 release_id: "26910992"
+apple_music_url: "https://music.apple.com/gb/album/backstreet-symphony/693198536"
 slug: "back-street-symphony-26910992"
 hideSummary: true
 cover:

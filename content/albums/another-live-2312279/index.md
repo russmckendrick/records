@@ -6,6 +6,7 @@ album_name: "Another Live"
 date: 2022-03-06T04:59:24.000000Z
 release_date: "1975-10"
 release_id: "2312279"
+apple_music_url: "https://music.apple.com/gb/album/another-live/100982431"
 slug: "another-live-2312279"
 hideSummary: true
 cover:

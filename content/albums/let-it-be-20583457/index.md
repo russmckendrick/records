@@ -6,6 +6,7 @@ album_name: "Let It Be"
 date: 2021-10-22T10:09:58.000000Z
 release_date: "2011-08-02"
 release_id: "20583457"
+apple_music_url: "https://music.apple.com/gb/album/the-beatles-for-orchestra/452080981"
 slug: "let-it-be-20583457"
 hideSummary: true
 cover:

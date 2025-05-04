@@ -6,6 +6,7 @@ album_name: "East Of The Sun West Of The Moon "
 date: 2021-07-04T09:10:02.000000Z
 release_date: "1990-10-12"
 release_id: "16037426"
+apple_music_url: "https://music.apple.com/gb/album/east-of-the-sun-west-of-the-moon/378016648"
 slug: "east-of-the-sun-west-of-the-moon-16037426"
 hideSummary: true
 cover:

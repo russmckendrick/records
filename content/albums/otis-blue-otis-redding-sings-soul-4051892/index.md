@@ -6,6 +6,7 @@ album_name: "Otis Blue / Otis Redding Sings Soul"
 date: 2015-10-10T16:15:03.000000Z
 release_date: "1965-03-01"
 release_id: "4051892"
+apple_music_url: "https://music.apple.com/gb/album/the-great-otis-redding-sings-soul-ballads/995811404"
 slug: "otis-blue-otis-redding-sings-soul-4051892"
 hideSummary: true
 cover:

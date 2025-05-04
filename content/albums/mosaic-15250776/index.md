@@ -6,6 +6,7 @@ album_name: "Mosaic"
 date: 2020-05-26T12:57:49.000000Z
 release_date: "2020-05-01"
 release_id: "15250776"
+apple_music_url: "https://music.apple.com/gb/album/mosaic/1736144247"
 slug: "mosaic-15250776"
 hideSummary: true
 cover:

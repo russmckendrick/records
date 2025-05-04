@@ -6,6 +6,7 @@ album_name: "Exile On Main St."
 date: 2015-08-09T08:42:13.000000Z
 release_date: "2010-01-01"
 release_id: "2285052"
+apple_music_url: "https://music.apple.com/gb/album/exile-on-main-street/1470962069"
 slug: "exile-on-main-st-2285052"
 hideSummary: true
 cover:

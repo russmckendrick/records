@@ -6,6 +6,7 @@ album_name: "The Head On The Door"
 date: 2018-03-29T19:50:27.000000Z
 release_date: "1985-01-01"
 release_id: "2418673"
+apple_music_url: "https://music.apple.com/gb/album/the-head-on-the-door/1443833316"
 slug: "the-head-on-the-door-2418673"
 hideSummary: true
 cover:

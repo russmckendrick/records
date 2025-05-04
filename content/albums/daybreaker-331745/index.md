@@ -6,6 +6,7 @@ album_name: "Daybreaker"
 date: 2022-06-22T04:12:15.000000Z
 release_date: "2002-07-29"
 release_id: "331745"
+apple_music_url: "https://music.apple.com/gb/album/daybreaker/696518811"
 slug: "daybreaker-331745"
 hideSummary: true
 cover:

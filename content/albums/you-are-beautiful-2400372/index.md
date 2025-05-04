@@ -6,6 +6,7 @@ album_name: "You Are Beautiful"
 date: 2020-08-02T13:48:59.000000Z
 release_date: "1975-10-13"
 release_id: "2400372"
+apple_music_url: "https://music.apple.com/gb/album/you-are-beautiful/1605185732"
 slug: "you-are-beautiful-2400372"
 hideSummary: true
 cover:

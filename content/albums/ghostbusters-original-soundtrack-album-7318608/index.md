@@ -6,6 +6,7 @@ album_name: "Ghostbusters - Original Soundtrack Album"
 date: 2020-08-01T12:40:56.000000Z
 release_date: ""
 release_id: "7318608"
+apple_music_url: ""
 slug: "ghostbusters-original-soundtrack-album-7318608"
 hideSummary: true
 cover:

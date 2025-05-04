@@ -6,6 +6,7 @@ album_name: "Definitely Maybe"
 date: 2015-12-21T22:34:46.000000Z
 release_date: "1994-08-29"
 release_id: "5697791"
+apple_music_url: "https://music.apple.com/gb/album/definitely-maybe/1517506402"
 slug: "definitely-maybe-5697791"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Birdbrain"
 date: 2020-10-10T10:40:13.000000Z
 release_date: "1990-11"
 release_id: "16016550"
+apple_music_url: "https://music.apple.com/gb/album/birdbrain/1027455005"
 slug: "birdbrain-16016550"
 hideSummary: true
 cover:

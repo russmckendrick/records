@@ -6,6 +6,7 @@ album_name: "Legacy EP"
 date: 2019-04-19T12:20:51.000000Z
 release_date: ""
 release_id: "13489607"
+apple_music_url: ""
 slug: "legacy-ep-13489607"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Phase"
 date: 2018-12-28T17:38:47.000000Z
 release_date: "2017-11-02"
 release_id: "11622307"
+apple_music_url: "https://music.apple.com/gb/album/phase/1676185074"
 slug: "phase-11622307"
 hideSummary: true
 cover:

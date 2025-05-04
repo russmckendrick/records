@@ -6,6 +6,7 @@ album_name: "How To Solve Our Human Problems"
 date: 2018-02-16T18:48:21.000000Z
 release_date: "2018-02-16"
 release_id: "11559151"
+apple_music_url: "https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006"
 slug: "how-to-solve-our-human-problems-11559151"
 hideSummary: true
 cover:

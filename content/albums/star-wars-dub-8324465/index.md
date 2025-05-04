@@ -6,6 +6,7 @@ album_name: "Star Wars Dub"
 date: 2017-01-03T18:49:11.000000Z
 release_date: "2018-04-06"
 release_id: "8324465"
+apple_music_url: "https://music.apple.com/gb/album/the-war-is-on-dub-style/1357796473"
 slug: "star-wars-dub-8324465"
 hideSummary: true
 cover:

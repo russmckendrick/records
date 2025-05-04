@@ -6,6 +6,7 @@ album_name: "Bobbie Gentry's The Delta Sweete Revisited"
 date: 2019-02-08T14:20:39.000000Z
 release_date: "2019-02-08"
 release_id: "13179920"
+apple_music_url: "https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741"
 slug: "bobbie-gentry-s-the-delta-sweete-revisited-13179920"
 hideSummary: true
 cover:

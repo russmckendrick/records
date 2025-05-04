@@ -6,6 +6,7 @@ album_name: "Hello!"
 date: 2016-05-23T18:26:30.000000Z
 release_date: "1973-09-28"
 release_id: "7578510"
+apple_music_url: "https://music.apple.com/gb/album/hello/1443266438"
 slug: "hello-7578510"
 hideSummary: true
 cover:

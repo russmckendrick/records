@@ -6,6 +6,7 @@ album_name: "Souvlaki"
 date: 2018-12-27T18:12:11.000000Z
 release_date: "1993-05-17"
 release_id: "3020028"
+apple_music_url: "https://music.apple.com/gb/album/souvlaki/399211729"
 slug: "souvlaki-3020028"
 hideSummary: true
 cover:

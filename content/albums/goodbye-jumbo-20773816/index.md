@@ -6,6 +6,7 @@ album_name: "Goodbye Jumbo"
 date: 2021-10-30T04:02:02.000000Z
 release_date: "1990-04-24"
 release_id: "20773816"
+apple_music_url: "https://music.apple.com/gb/album/goodbye-jumbo/977887401"
 slug: "goodbye-jumbo-20773816"
 hideSummary: true
 cover:

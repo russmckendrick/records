@@ -6,6 +6,7 @@ album_name: "In///Parallel"
 date: 2017-12-09T19:15:58.000000Z
 release_date: "2017-10-06"
 release_id: "11027074"
+apple_music_url: "https://music.apple.com/gb/album/in-parallel/1473514161"
 slug: "in-parallel-11027074"
 hideSummary: true
 cover:

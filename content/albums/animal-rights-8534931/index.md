@@ -6,6 +6,7 @@ album_name: "Animal Rights"
 date: 2018-01-18T19:49:11.000000Z
 release_date: "1996-09-23"
 release_id: "8534931"
+apple_music_url: "https://music.apple.com/gb/album/animal-rights/1193759982"
 slug: "animal-rights-8534931"
 hideSummary: true
 cover:

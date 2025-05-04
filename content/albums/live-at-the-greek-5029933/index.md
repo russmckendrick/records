@@ -6,6 +6,7 @@ album_name: "Live At The Greek"
 date: 2017-10-07T17:58:32.000000Z
 release_date: "2000-02-29"
 release_id: "5029933"
+apple_music_url: "https://music.apple.com/gb/album/live-at-the-greek/1252355548"
 slug: "live-at-the-greek-5029933"
 hideSummary: true
 cover:

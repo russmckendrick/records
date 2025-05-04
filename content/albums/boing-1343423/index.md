@@ -6,6 +6,7 @@ album_name: "Boing!!"
 date: 2016-02-29T18:17:33.000000Z
 release_date: "1991"
 release_id: "1343423"
+apple_music_url: "https://music.apple.com/gb/album/boing/570560067"
 slug: "boing-1343423"
 hideSummary: true
 cover:

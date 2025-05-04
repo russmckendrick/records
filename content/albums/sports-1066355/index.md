@@ -6,6 +6,7 @@ album_name: "Sports"
 date: 2015-10-05T18:23:05.000000Z
 release_date: "1980"
 release_id: "1066355"
+apple_music_url: "https://music.apple.com/gb/album/huey-lewis-and-the-news-remastered/715954898"
 slug: "sports-1066355"
 hideSummary: true
 cover:

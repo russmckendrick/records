@@ -6,6 +6,7 @@ album_name: "How To Replace It"
 date: 2023-03-01T00:19:26.000000Z
 release_date: "2023-02-17"
 release_id: "26119412"
+apple_music_url: "https://music.apple.com/gb/album/how-to-replace-it/1650427627"
 slug: "how-to-replace-it-26119412"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "ChangesTwoBowie"
 date: 2018-04-14T05:54:05.000000Z
 release_date: "1981-11-13"
 release_id: "11854186"
+apple_music_url: "https://music.apple.com/gb/album/changestwobowie-2018-remaster/1350497019"
 slug: "changestwobowie-11854186"
 hideSummary: true
 cover:

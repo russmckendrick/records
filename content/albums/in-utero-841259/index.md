@@ -6,6 +6,7 @@ album_name: "In Utero"
 date: 2016-10-15T11:15:32.000000Z
 release_date: "2002-10-29"
 release_id: "841259"
+apple_music_url: "https://music.apple.com/gb/album/nirvana/1413920644"
 slug: "in-utero-841259"
 hideSummary: true
 cover:

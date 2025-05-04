@@ -6,6 +6,7 @@ album_name: "Second Nature"
 date: 2016-10-20T16:29:13.000000Z
 release_date: "2020-08-15"
 release_id: "6126197"
+apple_music_url: "https://music.apple.com/gb/album/flying-fires-and-colors/1595339458"
 slug: "second-nature-6126197"
 hideSummary: true
 cover:

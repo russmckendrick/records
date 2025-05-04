@@ -6,6 +6,7 @@ album_name: "Myopia"
 date: 2020-02-21T18:33:02.000000Z
 release_date: "2020-02-21"
 release_id: "14818594"
+apple_music_url: "https://music.apple.com/gb/album/myopia/1483221211"
 slug: "myopia-14818594"
 hideSummary: true
 cover:

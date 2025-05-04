@@ -6,6 +6,7 @@ album_name: "Hip To The Jag"
 date: 2020-04-17T12:45:43.000000Z
 release_date: "2020-05-22"
 release_id: "15073542"
+apple_music_url: "https://music.apple.com/gb/album/hip-to-the-jag/1504344922"
 slug: "hip-to-the-jag-15073542"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Matt Berry And The Maypoles Live"
 date: 2015-12-25T16:58:57.000000Z
 release_date: "2015-11-20"
 release_id: "7773931"
+apple_music_url: "https://music.apple.com/gb/album/matt-berry-and-the-maypoles-live/1152533410"
 slug: "matt-berry-and-the-maypoles-live-7773931"
 hideSummary: true
 cover:

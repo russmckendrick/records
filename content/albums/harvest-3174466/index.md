@@ -6,6 +6,7 @@ album_name: "Harvest"
 date: 2016-01-11T17:43:20.000000Z
 release_date: "1972-02-01"
 release_id: "3174466"
+apple_music_url: "https://music.apple.com/gb/album/harvest/1015739190"
 slug: "harvest-3174466"
 hideSummary: true
 cover:

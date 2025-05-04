@@ -6,6 +6,7 @@ album_name: "Out Of Time"
 date: 2016-11-18T18:43:07.000000Z
 release_date: "2024-10-10"
 release_id: "9359884"
+apple_music_url: "https://music.apple.com/gb/album/out-of-time-single/1773528896"
 slug: "out-of-time-9359884"
 hideSummary: true
 cover:

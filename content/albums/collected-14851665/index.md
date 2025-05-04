@@ -6,6 +6,7 @@ album_name: "Collected"
 date: 2020-02-27T19:19:38.000000Z
 release_date: ""
 release_id: "14851665"
+apple_music_url: ""
 slug: "collected-14851665"
 hideSummary: true
 cover:

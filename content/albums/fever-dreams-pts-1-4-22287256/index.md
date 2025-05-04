@@ -6,6 +6,7 @@ album_name: "Fever Dreams Pts 1-4"
 date: 2022-02-25T09:31:02.000000Z
 release_date: "2022-02-25"
 release_id: "22287256"
+apple_music_url: "https://music.apple.com/gb/album/fever-dreams-pts-1-4/1604197520"
 slug: "fever-dreams-pts-1-4-22287256"
 hideSummary: true
 cover:

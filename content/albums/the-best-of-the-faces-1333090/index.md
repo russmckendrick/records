@@ -6,6 +6,7 @@ album_name: "The Best Of The Faces"
 date: 2016-01-08T19:14:34.000000Z
 release_date: "2008-03-31"
 release_id: "1333090"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-the-specials/1629113738"
 slug: "the-best-of-the-faces-1333090"
 hideSummary: true
 cover:

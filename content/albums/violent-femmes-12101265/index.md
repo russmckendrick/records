@@ -6,6 +6,7 @@ album_name: "Violent Femmes"
 date: 2018-06-10T09:38:35.000000Z
 release_date: "1983-01-01"
 release_id: "12101265"
+apple_music_url: "https://music.apple.com/gb/album/violent-femmes/1576789411"
 slug: "violent-femmes-12101265"
 hideSummary: true
 cover:

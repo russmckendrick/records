@@ -6,6 +6,7 @@ album_name: "True Colours"
 date: 2020-08-22T13:04:32.000000Z
 release_date: "1980-06-25"
 release_id: "15700504"
+apple_music_url: "https://music.apple.com/gb/album/true-colours/1494504041"
 slug: "true-colours-15700504"
 hideSummary: true
 cover:

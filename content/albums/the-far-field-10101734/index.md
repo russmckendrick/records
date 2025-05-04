@@ -6,6 +6,7 @@ album_name: "The Far Field "
 date: 2017-04-08T10:03:44.000000Z
 release_date: "2017-04-07"
 release_id: "10101734"
+apple_music_url: "https://music.apple.com/gb/album/the-far-field/1195221378"
 slug: "the-far-field-10101734"
 hideSummary: true
 cover:

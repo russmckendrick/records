@@ -6,6 +6,7 @@ album_name: "Glastonbury 2000"
 date: 2018-11-30T15:19:36.000000Z
 release_date: "2018-11-30"
 release_id: "12811492"
+apple_music_url: "https://music.apple.com/gb/album/glastonbury-2000-live/1438252305"
 slug: "glastonbury-2000-12811492"
 hideSummary: true
 cover:

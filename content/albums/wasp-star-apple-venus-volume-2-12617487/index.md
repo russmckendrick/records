@@ -6,6 +6,7 @@ album_name: "Wasp Star (Apple Venus Volume 2)"
 date: 2018-10-27T09:35:52.000000Z
 release_date: ""
 release_id: "12617487"
+apple_music_url: ""
 slug: "wasp-star-apple-venus-volume-2-12617487"
 hideSummary: true
 cover:

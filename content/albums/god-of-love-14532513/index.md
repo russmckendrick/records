@@ -6,6 +6,7 @@ album_name: "God Of Love"
 date: 2019-12-16T18:41:48.000000Z
 release_date: "1995-05-23"
 release_id: "14532513"
+apple_music_url: "https://music.apple.com/gb/album/god-of-love/298875762"
 slug: "god-of-love-14532513"
 hideSummary: true
 cover:

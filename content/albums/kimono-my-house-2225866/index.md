@@ -6,6 +6,7 @@ album_name: "Kimono My House"
 date: 2016-11-16T13:03:18.000000Z
 release_date: "1974-05-01"
 release_id: "2225866"
+apple_music_url: "https://music.apple.com/gb/album/kimono-my-house-21st-century-edition/1443750483"
 slug: "kimono-my-house-2225866"
 hideSummary: true
 cover:

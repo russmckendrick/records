@@ -6,6 +6,7 @@ album_name: "(Mankind) The Crafty Ape"
 date: 2016-01-17T12:53:19.000000Z
 release_date: ""
 release_id: "3366120"
+apple_music_url: ""
 slug: "mankind-the-crafty-ape-3366120"
 hideSummary: true
 cover:

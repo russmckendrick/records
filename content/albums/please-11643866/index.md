@@ -6,6 +6,7 @@ album_name: "Please"
 date: 2018-03-02T13:12:53.000000Z
 release_date: "2024-04-26"
 release_id: "11643866"
+apple_music_url: "https://music.apple.com/gb/album/nonetheless/1726963941"
 slug: "please-11643866"
 hideSummary: true
 cover:

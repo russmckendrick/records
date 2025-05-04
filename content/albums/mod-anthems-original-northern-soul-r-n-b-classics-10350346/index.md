@@ -6,6 +6,7 @@ album_name: "Mod Anthems: Original Northern Soul & R'N'B Classics"
 date: 2017-05-27T15:28:51.000000Z
 release_date: ""
 release_id: "10350346"
+apple_music_url: ""
 slug: "mod-anthems-original-northern-soul-r-n-b-classics-10350346"
 hideSummary: true
 cover:

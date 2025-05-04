@@ -6,6 +6,7 @@ album_name: "Ghost Highway"
 date: 2023-03-20T13:05:46.000000Z
 release_date: "2015-05-18"
 release_id: "16210745"
+apple_music_url: "https://music.apple.com/gb/album/ghost-highway/988896855"
 slug: "ghost-highway-16210745"
 hideSummary: true
 cover:

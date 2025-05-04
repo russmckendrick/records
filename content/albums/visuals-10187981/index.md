@@ -6,6 +6,7 @@ album_name: "Visuals"
 date: 2017-04-28T14:37:26.000000Z
 release_date: "2017-04-28"
 release_id: "10187981"
+apple_music_url: "https://music.apple.com/gb/album/visuals/1195025592"
 slug: "visuals-10187981"
 hideSummary: true
 cover:

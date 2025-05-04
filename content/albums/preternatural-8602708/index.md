@@ -6,6 +6,7 @@ album_name: "Preternatural"
 date: 2017-11-12T19:52:44.000000Z
 release_date: "2016-05-27"
 release_id: "8602708"
+apple_music_url: "https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086"
 slug: "preternatural-8602708"
 hideSummary: true
 cover:

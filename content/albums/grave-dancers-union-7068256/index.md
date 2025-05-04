@@ -6,6 +6,7 @@ album_name: "Grave Dancers Union"
 date: 2017-01-30T18:24:58.000000Z
 release_date: "1992-10-06"
 release_id: "7068256"
+apple_music_url: "https://music.apple.com/gb/album/grave-dancers-union-2022-remaster/158329476"
 slug: "grave-dancers-union-7068256"
 hideSummary: true
 cover:

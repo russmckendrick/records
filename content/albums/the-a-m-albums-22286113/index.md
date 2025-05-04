@@ -6,6 +6,7 @@ album_name: "The A&M Albums"
 date: 2022-02-25T09:32:29.000000Z
 release_date: "2020-07-10"
 release_id: "22286113"
+apple_music_url: "https://music.apple.com/gb/album/trauma-feat-splasha-mskum-single/1522914372"
 slug: "the-a-m-albums-22286113"
 hideSummary: true
 cover:

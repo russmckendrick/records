@@ -6,6 +6,7 @@ album_name: "Hesitation Marks"
 date: 2024-12-14T02:38:39.000000Z
 release_date: "2013-08-30"
 release_id: "19288117"
+apple_music_url: "https://music.apple.com/gb/album/hesitation-marks-deluxe-version/1722532041"
 slug: "hesitation-marks-19288117"
 hideSummary: true
 cover:

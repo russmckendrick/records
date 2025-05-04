@@ -6,6 +6,7 @@ album_name: "1"
 date: 2015-12-04T17:51:13.000000Z
 release_date: "1968-11-22"
 release_id: "7790160"
+apple_music_url: "https://music.apple.com/gb/album/the-beatles-the-white-album/1441133180"
 slug: "1-7790160"
 hideSummary: true
 cover:

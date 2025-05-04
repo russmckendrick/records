@@ -6,6 +6,7 @@ album_name: "A Wizard, A True Star"
 date: 2017-01-13T20:11:34.000000Z
 release_date: "1973-03"
 release_id: "6651214"
+apple_music_url: "https://music.apple.com/gb/album/a-wizard-a-true-star/1084056467"
 slug: "a-wizard-a-true-star-6651214"
 hideSummary: true
 cover:

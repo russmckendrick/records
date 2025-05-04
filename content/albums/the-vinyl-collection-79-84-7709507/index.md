@@ -6,6 +6,7 @@ album_name: "The Vinyl Collection 79-84 "
 date: 2016-01-31T14:13:23.000000Z
 release_date: ""
 release_id: "7709507"
+apple_music_url: ""
 slug: "the-vinyl-collection-79-84-7709507"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "I Gotta Limit"
 date: 2024-11-09T01:50:37.000000Z
 release_date: "2024-09-17"
 release_id: "32229711"
+apple_music_url: "https://music.apple.com/gb/album/i-gotta-limit-feat-kitty-liv-single/1766511049"
 slug: "i-gotta-limit-32229711"
 hideSummary: true
 cover:

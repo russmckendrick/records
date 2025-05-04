@@ -6,6 +6,7 @@ album_name: "Nightsongs"
 date: 2023-12-08T11:17:49.000000Z
 release_date: "2001-01-23"
 release_id: "28758394"
+apple_music_url: "https://music.apple.com/gb/album/nightsongs/337320937"
 slug: "nightsongs-28758394"
 hideSummary: true
 cover:

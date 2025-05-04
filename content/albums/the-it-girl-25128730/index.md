@@ -6,6 +6,7 @@ album_name: "The It Girl"
 date: 2022-11-14T05:21:24.000000Z
 release_date: "1996-06-18"
 release_id: "25128730"
+apple_music_url: "https://music.apple.com/gb/album/the-it-girl/835855794"
 slug: "the-it-girl-25128730"
 hideSummary: true
 cover:

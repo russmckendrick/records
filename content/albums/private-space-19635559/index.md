@@ -6,6 +6,7 @@ album_name: "Private Space"
 date: 2021-07-30T02:35:51.000000Z
 release_date: "2016-03-16"
 release_id: "19635559"
+apple_music_url: "https://music.apple.com/gb/album/durand-jones-the-indications/1730817055"
 slug: "private-space-19635559"
 hideSummary: true
 cover:

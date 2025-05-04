@@ -6,6 +6,7 @@ album_name: "Outside The Echo Chamber"
 date: 2017-06-09T16:12:30.000000Z
 release_date: "2017-05-19"
 release_id: "10312776"
+apple_music_url: "https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464"
 slug: "outside-the-echo-chamber-10312776"
 hideSummary: true
 cover:

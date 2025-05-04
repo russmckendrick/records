@@ -6,6 +6,7 @@ album_name: "...And Out Come The Wolves"
 date: 2016-01-22T19:33:25.000000Z
 release_date: "1995-08-15"
 release_id: "8007348"
+apple_music_url: "https://music.apple.com/gb/album/and-out-come-the-wolves/1702711176"
 slug: "and-out-come-the-wolves-8007348"
 hideSummary: true
 cover:

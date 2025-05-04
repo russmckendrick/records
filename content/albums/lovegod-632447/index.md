@@ -6,6 +6,7 @@ album_name: "Lovegod"
 date: 2018-11-29T12:44:51.000000Z
 release_date: "2008-01-01"
 release_id: "632447"
+apple_music_url: "https://music.apple.com/gb/album/here-come-the-123s-deluxe-edition/1452851587"
 slug: "lovegod-632447"
 hideSummary: true
 cover:

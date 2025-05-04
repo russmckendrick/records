@@ -6,6 +6,7 @@ album_name: "Moon Safari"
 date: 2016-09-05T12:30:27.000000Z
 release_date: "1998-01-16"
 release_id: "2798033"
+apple_music_url: "https://music.apple.com/gb/album/moon-safari/697240234"
 slug: "moon-safari-2798033"
 hideSummary: true
 cover:

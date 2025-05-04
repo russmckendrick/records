@@ -6,6 +6,7 @@ album_name: "Heaven On Earth"
 date: 2018-09-26T18:34:43.000000Z
 release_date: "1987-09-21"
 release_id: "12572591"
+apple_music_url: "https://music.apple.com/gb/album/heaven-on-earth/684787804"
 slug: "heaven-on-earth-12572591"
 hideSummary: true
 cover:

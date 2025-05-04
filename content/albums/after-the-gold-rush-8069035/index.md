@@ -6,6 +6,7 @@ album_name: "After The Gold Rush"
 date: 2017-04-02T12:58:19.000000Z
 release_date: "1970-09-19"
 release_id: "8069035"
+apple_music_url: "https://music.apple.com/gb/album/after-the-gold-rush/1015783330"
 slug: "after-the-gold-rush-8069035"
 hideSummary: true
 cover:

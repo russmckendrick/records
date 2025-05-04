@@ -6,6 +6,7 @@ album_name: "It's Great When You're Straight...Yeah"
 date: 2016-11-09T17:53:52.000000Z
 release_date: "1995-08-07"
 release_id: "9303682"
+apple_music_url: "https://music.apple.com/gb/album/its-great-when-youre-straight-yeah/1442232066"
 slug: "it-s-great-when-you-re-straight-yeah-9303682"
 hideSummary: true
 cover:

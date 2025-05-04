@@ -6,6 +6,7 @@ album_name: "Change Everything"
 date: 2024-04-06T05:07:59.000000Z
 release_date: "1992-01-01"
 release_id: "29478691"
+apple_music_url: "https://music.apple.com/gb/album/change-everything/1443348283"
 slug: "change-everything-29478691"
 hideSummary: true
 cover:

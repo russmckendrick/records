@@ -6,6 +6,7 @@ album_name: "Drunk"
 date: 2017-03-10T19:37:42.000000Z
 release_date: "2017-02-24"
 release_id: "9888163"
+apple_music_url: "https://music.apple.com/gb/album/drunk/1197789099"
 slug: "drunk-9888163"
 hideSummary: true
 cover:

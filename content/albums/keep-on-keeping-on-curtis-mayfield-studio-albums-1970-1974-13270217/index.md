@@ -6,6 +6,7 @@ album_name: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
 date: 2020-05-27T15:16:10.000000Z
 release_date: "2019-02-22"
 release_id: "13270217"
+apple_music_url: "https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858"
 slug: "keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217"
 hideSummary: true
 cover:

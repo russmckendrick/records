@@ -6,6 +6,7 @@ album_name: "Green Mind"
 date: 2019-12-05T18:05:49.000000Z
 release_date: "1991-02-19"
 release_id: "14193595"
+apple_music_url: "https://music.apple.com/gb/album/green-mind/1765553857"
 slug: "green-mind-14193595"
 hideSummary: true
 cover:

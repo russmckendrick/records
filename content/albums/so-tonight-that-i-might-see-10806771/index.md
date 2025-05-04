@@ -6,6 +6,7 @@ album_name: "So Tonight That I Might See"
 date: 2017-09-08T18:26:05.000000Z
 release_date: "1993-10-05"
 release_id: "10806771"
+apple_music_url: "https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808"
 slug: "so-tonight-that-i-might-see-10806771"
 hideSummary: true
 cover:

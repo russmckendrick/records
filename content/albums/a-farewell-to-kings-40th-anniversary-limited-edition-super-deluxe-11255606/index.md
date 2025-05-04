@@ -6,6 +6,7 @@ album_name: "A Farewell To Kings (40th Anniversary Limited Edition Super Deluxe)
 date: 2017-12-11T19:53:38.000000Z
 release_date: "1977-09-01"
 release_id: "11255606"
+apple_music_url: "https://music.apple.com/gb/album/a-farewell-to-kings-40th-anniversary-deluxe-edition/1440910364"
 slug: "a-farewell-to-kings-40th-anniversary-limited-edition-super-deluxe-11255606"
 hideSummary: true
 cover:

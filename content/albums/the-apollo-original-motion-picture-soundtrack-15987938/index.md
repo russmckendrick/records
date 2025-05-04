@@ -6,6 +6,7 @@ album_name: "The Apollo (Original Motion Picture Soundtrack)"
 date: 2021-07-01T08:13:53.000000Z
 release_date: ""
 release_id: "15987938"
+apple_music_url: ""
 slug: "the-apollo-original-motion-picture-soundtrack-15987938"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Blues Brothers (Original Soundtrack Recording)"
 date: 2015-09-04T16:48:03.000000Z
 release_date: "1980-06"
 release_id: "4625231"
+apple_music_url: "https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443"
 slug: "the-blues-brothers-original-soundtrack-recording-4625231"
 hideSummary: true
 cover:

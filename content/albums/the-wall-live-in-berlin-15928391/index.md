@@ -6,6 +6,7 @@ album_name: "The Wall (Live In Berlin)"
 date: 2020-09-29T12:06:08.000000Z
 release_date: "1990-08"
 release_id: "15928391"
+apple_music_url: "https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291"
 slug: "the-wall-live-in-berlin-15928391"
 hideSummary: true
 cover:

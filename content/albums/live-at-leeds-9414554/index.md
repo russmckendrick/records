@@ -6,6 +6,7 @@ album_name: "Live At Leeds"
 date: 2016-11-30T18:50:05.000000Z
 release_date: "1988"
 release_id: "9414554"
+apple_music_url: "https://music.apple.com/gb/album/live-at-leeds-the-who/1563560658"
 slug: "live-at-leeds-9414554"
 hideSummary: true
 cover:

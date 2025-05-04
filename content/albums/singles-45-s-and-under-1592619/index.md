@@ -6,6 +6,7 @@ album_name: "Singles - 45's And Under"
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1982"
 release_id: "1592619"
+apple_music_url: "https://music.apple.com/gb/album/singles-45s-and-under/1446091631"
 slug: "singles-45-s-and-under-1592619"
 hideSummary: true
 cover:

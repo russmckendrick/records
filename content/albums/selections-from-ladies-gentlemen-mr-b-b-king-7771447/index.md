@@ -6,6 +6,7 @@ album_name: "Selections From: Ladies & Gentlemen ... Mr. B.B. King"
 date: 2015-12-01T22:11:01.000000Z
 release_date: "2015-01-02"
 release_id: "7771447"
+apple_music_url: "https://music.apple.com/gb/album/ladies-gentlemen-single/947692405"
 slug: "selections-from-ladies-gentlemen-mr-b-b-king-7771447"
 hideSummary: true
 cover:

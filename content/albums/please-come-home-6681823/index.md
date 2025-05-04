@@ -6,6 +6,7 @@ album_name: "Please Come Home"
 date: 2016-01-10T12:52:53.000000Z
 release_date: "2015-03-10"
 release_id: "6681823"
+apple_music_url: "https://music.apple.com/gb/album/please-come-home/1049160955"
 slug: "please-come-home-6681823"
 hideSummary: true
 cover:

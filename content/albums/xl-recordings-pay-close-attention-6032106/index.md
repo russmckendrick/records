@@ -6,6 +6,7 @@ album_name: "XL Recordings: Pay Close Attention"
 date: 2017-04-09T14:18:59.000000Z
 release_date: ""
 release_id: "6032106"
+apple_music_url: ""
 slug: "xl-recordings-pay-close-attention-6032106"
 hideSummary: true
 cover:

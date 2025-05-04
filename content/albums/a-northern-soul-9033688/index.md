@@ -6,6 +6,7 @@ album_name: "A Northern Soul"
 date: 2016-10-15T11:13:55.000000Z
 release_date: "1995-07-03"
 release_id: "9033688"
+apple_music_url: "https://music.apple.com/gb/album/a-northern-soul/1442287322"
 slug: "a-northern-soul-9033688"
 hideSummary: true
 cover:

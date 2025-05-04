@@ -6,6 +6,7 @@ album_name: "The Aeroplane Flies High"
 date: 2016-04-17T13:48:39.000000Z
 release_date: "1996-11-26"
 release_id: "4760393"
+apple_music_url: "https://music.apple.com/gb/album/the-aeroplane-flies-high/1440863354"
 slug: "the-aeroplane-flies-high-4760393"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Version 2.0"
 date: 2019-01-12T12:24:17.000000Z
 release_date: "2018-07-06"
 release_id: "12156178"
+apple_music_url: "https://music.apple.com/gb/album/version-2-0-the-official-remixes/1544793571"
 slug: "version-2-0-12156178"
 hideSummary: true
 cover:

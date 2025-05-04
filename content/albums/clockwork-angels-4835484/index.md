@@ -6,6 +6,7 @@ album_name: "Clockwork Angels"
 date: 2017-02-26T10:56:33.000000Z
 release_date: "2012-06-08"
 release_id: "4835484"
+apple_music_url: "https://music.apple.com/gb/album/clockwork-angels/522093869"
 slug: "clockwork-angels-4835484"
 hideSummary: true
 cover:

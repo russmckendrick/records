@@ -6,6 +6,7 @@ album_name: "Don't Prey For Me"
 date: 2016-04-04T21:20:19.000000Z
 release_date: "1989-01-01"
 release_id: "2591341"
+apple_music_url: "https://music.apple.com/gb/album/dont-prey-for-me/1442397355"
 slug: "don-t-prey-for-me-2591341"
 hideSummary: true
 cover:

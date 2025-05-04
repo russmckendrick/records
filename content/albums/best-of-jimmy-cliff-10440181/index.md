@@ -6,6 +6,7 @@ album_name: "Best Of Jimmy Cliff"
 date: 2017-08-18T18:21:55.000000Z
 release_date: "1975-01-01"
 release_id: "10440181"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-jimmy-cliff-1975/1488634629"
 slug: "best-of-jimmy-cliff-10440181"
 hideSummary: true
 cover:

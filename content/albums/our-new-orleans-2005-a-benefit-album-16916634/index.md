@@ -6,6 +6,7 @@ album_name: "Our New Orleans 2005, A Benefit Album"
 date: 2021-03-04T04:53:08.000000Z
 release_date: ""
 release_id: "16916634"
+apple_music_url: ""
 slug: "our-new-orleans-2005-a-benefit-album-16916634"
 hideSummary: true
 cover:

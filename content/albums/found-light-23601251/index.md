@@ -6,6 +6,7 @@ album_name: "Found Light"
 date: 2023-05-21T05:56:10.000000Z
 release_date: "2022-07-08"
 release_id: "23601251"
+apple_music_url: "https://music.apple.com/gb/album/found-light/1608911975"
 slug: "found-light-23601251"
 hideSummary: true
 cover:

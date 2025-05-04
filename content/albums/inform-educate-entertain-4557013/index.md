@@ -6,6 +6,7 @@ album_name: "Inform - Educate - Entertain"
 date: 2015-10-12T18:44:38.000000Z
 release_date: "2013-05-06"
 release_id: "4557013"
+apple_music_url: "https://music.apple.com/gb/album/inform-educate-entertain/609540071"
 slug: "inform-educate-entertain-4557013"
 hideSummary: true
 cover:

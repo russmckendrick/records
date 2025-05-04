@@ -6,6 +6,7 @@ album_name: "Fuzzy Logic B-Sides And Besides"
 date: 2024-04-20T08:01:03.000000Z
 release_date: "2018-11-23"
 release_id: "30451196"
+apple_music_url: "https://music.apple.com/gb/album/super-furry-animals-at-the-b-b-c-live/1444296486"
 slug: "fuzzy-logic-b-sides-and-besides-30451196"
 hideSummary: true
 cover:

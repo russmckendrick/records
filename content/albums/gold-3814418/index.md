@@ -6,6 +6,7 @@ album_name: "Gold"
 date: 2016-02-16T15:15:01.000000Z
 release_date: "2001-01-01"
 release_id: "3814418"
+apple_music_url: "https://music.apple.com/gb/album/gold/1452859795"
 slug: "gold-3814418"
 hideSummary: true
 cover:

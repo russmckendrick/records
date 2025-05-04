@@ -6,6 +6,7 @@ album_name: "Luck And Strange"
 date: 2024-09-07T07:19:57.000000Z
 release_date: "2024-09-06"
 release_id: "31657538"
+apple_music_url: "https://music.apple.com/gb/album/luck-and-strange/1742106033"
 slug: "luck-and-strange-31657538"
 hideSummary: true
 cover:

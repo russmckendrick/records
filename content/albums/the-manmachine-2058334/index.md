@@ -6,6 +6,7 @@ album_name: "The Man•Machine"
 date: 2016-02-29T19:01:39.000000Z
 release_date: "1978-05-19"
 release_id: "2058334"
+apple_music_url: "https://music.apple.com/gb/album/the-man-machine-remastered/726157248"
 slug: "the-manmachine-2058334"
 hideSummary: true
 cover:

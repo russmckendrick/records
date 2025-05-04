@@ -6,6 +6,7 @@ album_name: "Nick Of Time"
 date: 2020-03-13T19:01:18.000000Z
 release_date: "2020-03-06"
 release_id: "14888270"
+apple_music_url: "https://music.apple.com/gb/album/nick-of-time/1487734088"
 slug: "nick-of-time-14888270"
 hideSummary: true
 cover:

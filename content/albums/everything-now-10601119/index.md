@@ -6,6 +6,7 @@ album_name: "Everything Now"
 date: 2017-07-29T08:50:33.000000Z
 release_date: "2017-07-28"
 release_id: "10601119"
+apple_music_url: "https://music.apple.com/gb/album/everything-now/1240796998"
 slug: "everything-now-10601119"
 hideSummary: true
 cover:

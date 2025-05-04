@@ -6,6 +6,7 @@ album_name: "Good News For People Who Love Bad News"
 date: 2024-05-21T12:42:05.000000Z
 release_date: "2004-04-06"
 release_id: "30695482"
+apple_music_url: "https://music.apple.com/gb/album/good-news-for-people-who-love-bad-news/201257412"
 slug: "good-news-for-people-who-love-bad-news-30695482"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Pure Narcotic"
 date: 2020-10-16T10:32:00.000000Z
 release_date: ""
 release_id: "16062877"
+apple_music_url: ""
 slug: "pure-narcotic-16062877"
 hideSummary: true
 cover:

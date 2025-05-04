@@ -6,6 +6,7 @@ album_name: "No Sounds Are Out Of Bounds"
 date: 2018-06-23T08:50:48.000000Z
 release_date: "2018-06-22"
 release_id: "12165872"
+apple_music_url: "https://music.apple.com/gb/album/no-sounds-are-out-of-bounds-deluxe/1391652456"
 slug: "no-sounds-are-out-of-bounds-12165872"
 hideSummary: true
 cover:

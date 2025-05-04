@@ -6,6 +6,7 @@ album_name: "A Life With Brian"
 date: 2024-04-20T07:59:55.000000Z
 release_date: "1991-01-01"
 release_id: "30439004"
+apple_music_url: "https://music.apple.com/gb/album/a-life-with-brian/1320038738"
 slug: "a-life-with-brian-30439004"
 hideSummary: true
 cover:

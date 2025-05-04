@@ -6,6 +6,7 @@ album_name: "Still Crazy After All These Years"
 date: 2021-05-31T11:05:10.000000Z
 release_date: "1975-10-25"
 release_id: "10764987"
+apple_music_url: "https://music.apple.com/gb/album/still-crazy-after-all-these-years-bonus-tracks-edition/380590574"
 slug: "still-crazy-after-all-these-years-10764987"
 hideSummary: true
 cover:

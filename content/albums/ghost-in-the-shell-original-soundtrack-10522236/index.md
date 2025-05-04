@@ -6,6 +6,7 @@ album_name: "Ghost In The Shell (Original Soundtrack)"
 date: 2017-07-14T19:20:57.000000Z
 release_date: "1995-11-22"
 release_id: "10522236"
+apple_music_url: "https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068"
 slug: "ghost-in-the-shell-original-soundtrack-10522236"
 hideSummary: true
 cover:

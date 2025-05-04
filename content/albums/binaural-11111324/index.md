@@ -6,6 +6,7 @@ album_name: "Binaural"
 date: 2018-01-20T19:09:48.000000Z
 release_date: "2000-05-16"
 release_id: "11111324"
+apple_music_url: "https://music.apple.com/gb/album/binaural/688730679"
 slug: "binaural-11111324"
 hideSummary: true
 cover:

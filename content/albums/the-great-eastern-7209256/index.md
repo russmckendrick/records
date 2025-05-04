@@ -6,6 +6,7 @@ album_name: "The Great Eastern"
 date: 2023-01-21T01:32:37.000000Z
 release_date: "2000-04-17"
 release_id: "7209256"
+apple_music_url: "https://music.apple.com/gb/album/the-great-eastern/121333037"
 slug: "the-great-eastern-7209256"
 hideSummary: true
 cover:

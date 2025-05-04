@@ -6,6 +6,7 @@ album_name: "Three Piece Suite"
 date: 2017-10-13T18:11:01.000000Z
 release_date: "2017-09-29"
 release_id: "10928571"
+apple_music_url: "https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1700249833"
 slug: "three-piece-suite-10928571"
 hideSummary: true
 cover:

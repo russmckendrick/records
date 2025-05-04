@@ -6,6 +6,7 @@ album_name: "Brainbloodvolume"
 date: 2024-08-02T13:31:11.000000Z
 release_date: "1995-07-07"
 release_id: "31385231"
+apple_music_url: "https://music.apple.com/gb/album/brainbloodvolume/292232111"
 slug: "brainbloodvolume-31385231"
 hideSummary: true
 cover:

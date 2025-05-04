@@ -6,6 +6,7 @@ album_name: "Mission Impossible"
 date: 2024-01-27T03:07:20.000000Z
 release_date: "1987"
 release_id: "29592832"
+apple_music_url: "https://music.apple.com/gb/album/mission-impossible/1152553108"
 slug: "mission-impossible-29592832"
 hideSummary: true
 cover:

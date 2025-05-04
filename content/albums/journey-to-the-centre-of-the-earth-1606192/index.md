@@ -6,6 +6,7 @@ album_name: "Journey To The Centre Of The Earth"
 date: 2017-01-20T17:21:17.000000Z
 release_date: "1974-05"
 release_id: "1606192"
+apple_music_url: "https://music.apple.com/gb/album/journey-to-the-centre-of-the-earth/873131263"
 slug: "journey-to-the-centre-of-the-earth-1606192"
 hideSummary: true
 cover:

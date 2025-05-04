@@ -6,6 +6,7 @@ album_name: "Queen Of The Night"
 date: 2015-10-02T09:37:22.000000Z
 release_date: "1974-04-01"
 release_id: "2386688"
+apple_music_url: "https://music.apple.com/gb/album/queen-of-the-night/1541334774"
 slug: "queen-of-the-night-2386688"
 hideSummary: true
 cover:

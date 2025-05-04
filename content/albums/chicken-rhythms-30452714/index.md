@@ -6,6 +6,7 @@ album_name: "Chicken Rhythms"
 date: 2024-04-20T22:43:29.000000Z
 release_date: "1991-01-01"
 release_id: "30452714"
+apple_music_url: "https://music.apple.com/gb/album/chicken-rhythms/1320038054"
 slug: "chicken-rhythms-30452714"
 hideSummary: true
 cover:

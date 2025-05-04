@@ -6,6 +6,7 @@ album_name: "Amplifier"
 date: 2022-04-15T03:50:14.000000Z
 release_date: "2021-10-15"
 release_id: "22878905"
+apple_music_url: "https://music.apple.com/us/album/amplifier/1201106185"
 slug: "amplifier-22878905"
 hideSummary: true
 cover:

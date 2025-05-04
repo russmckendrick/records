@@ -6,6 +6,7 @@ album_name: "Vaxis II: A Window of the Waking Mind"
 date: 2022-06-24T05:50:23.000000Z
 release_date: "2022-06-24"
 release_id: "23676254"
+apple_music_url: "https://music.apple.com/gb/album/vaxis-ii-a-window-of-the-waking-mind/1594201540"
 slug: "vaxis-ii-a-window-of-the-waking-mind-23676254"
 hideSummary: true
 cover:

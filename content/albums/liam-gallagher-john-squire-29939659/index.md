@@ -6,6 +6,7 @@ album_name: "Liam Gallagher John Squire"
 date: 2024-03-05T11:24:57.000000Z
 release_date: "2024-03-01"
 release_id: "29939659"
+apple_music_url: "https://music.apple.com/gb/album/liam-gallagher-john-squire/1726560518"
 slug: "liam-gallagher-john-squire-29939659"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Leviathan"
 date: 2021-12-15T10:53:58.000000Z
 release_date: "2021-06-25"
 release_id: "19464730"
+apple_music_url: "https://music.apple.com/gb/album/leviathan/1566407448"
 slug: "leviathan-19464730"
 hideSummary: true
 cover:

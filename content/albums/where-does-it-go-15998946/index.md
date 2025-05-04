@@ -6,6 +6,7 @@ album_name: "Where Does It Go"
 date: 2021-02-02T02:44:51.000000Z
 release_date: "2020-10-02"
 release_id: "15998946"
+apple_music_url: "https://music.apple.com/gb/album/where-does-it-go/1532924026"
 slug: "where-does-it-go-15998946"
 hideSummary: true
 cover:

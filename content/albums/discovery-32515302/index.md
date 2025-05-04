@@ -6,6 +6,7 @@ album_name: "Discovery = ディスカバリー"
 date: 2024-12-17T10:26:02.000000Z
 release_date: ""
 release_id: "32515302"
+apple_music_url: ""
 slug: "discovery-32515302"
 hideSummary: true
 cover:

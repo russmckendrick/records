@@ -6,6 +6,7 @@ album_name: "In This City They Call You Love"
 date: 2024-06-05T11:26:05.000000Z
 release_date: "2024-05-31"
 release_id: "30835086"
+apple_music_url: "https://music.apple.com/gb/album/in-this-city-they-call-you-love/1728688441"
 slug: "in-this-city-they-call-you-love-30835086"
 hideSummary: true
 cover:

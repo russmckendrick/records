@@ -6,6 +6,7 @@ album_name: "Sweet Freedom (The Best Of Michael McDonald)"
 date: 2021-09-03T04:32:37.000000Z
 release_date: "2014-02-06"
 release_id: "573351"
+apple_music_url: "https://music.apple.com/gb/album/sweet-freedom-karaoke-version-in-the-style-of/822046595"
 slug: "sweet-freedom-the-best-of-michael-mcdonald-573351"
 hideSummary: true
 cover:

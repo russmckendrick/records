@@ -6,6 +6,7 @@ album_name: "Tommy (Original Soundtrack Recording)"
 date: 2025-04-13T04:04:41.000000Z
 release_date: "1993-07-12"
 release_id: "33683172"
+apple_music_url: "https://music.apple.com/us/album/tommy-original-1975-motion-picture-soundtrack-2000/1452803532"
 slug: "tommy-original-soundtrack-recording-33683172"
 hideSummary: true
 cover:

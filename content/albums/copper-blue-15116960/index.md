@@ -6,6 +6,7 @@ album_name: "Copper Blue"
 date: 2025-01-20T07:42:59.000000Z
 release_date: ""
 release_id: "15116960"
+apple_music_url: ""
 slug: "copper-blue-15116960"
 hideSummary: true
 cover:

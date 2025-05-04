@@ -6,6 +6,7 @@ album_name: "U218 Singles"
 date: 2017-01-13T20:12:09.000000Z
 release_date: "2006-11-21"
 release_id: "1268163"
+apple_music_url: "https://music.apple.com/gb/album/u218-singles/1445667357"
 slug: "u218-singles-1268163"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Here We Go Crazy"
 date: 2025-03-06T01:47:34.000000Z
 release_date: "2025-03-07"
 release_id: "33319848"
+apple_music_url: "https://music.apple.com/gb/album/here-we-go-crazy/1783188816"
 slug: "here-we-go-crazy-33319848"
 hideSummary: true
 cover:

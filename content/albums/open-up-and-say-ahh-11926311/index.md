@@ -6,6 +6,7 @@ album_name: "Open Up and Say...Ahh!"
 date: 2018-05-18T08:59:15.000000Z
 release_date: "1988-05-03"
 release_id: "11926311"
+apple_music_url: "https://music.apple.com/gb/album/open-up-and-say-ahh/1368865887"
 slug: "open-up-and-say-ahh-11926311"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Californication"
 date: 2024-07-27T07:02:48.000000Z
 release_date: "1999-06-08"
 release_id: "31323387"
+apple_music_url: "https://music.apple.com/gb/album/californication-remastered/945575406"
 slug: "californication-31323387"
 hideSummary: true
 cover:

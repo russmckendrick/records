@@ -6,6 +6,7 @@ album_name: "A Treasury"
 date: 2016-06-27T17:45:59.000000Z
 release_date: "2004-01-01"
 release_id: "6354022"
+apple_music_url: "https://music.apple.com/gb/album/a-treasury/1440822546"
 slug: "a-treasury-6354022"
 hideSummary: true
 cover:

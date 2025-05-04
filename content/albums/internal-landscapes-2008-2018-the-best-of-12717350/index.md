@@ -6,6 +6,7 @@ album_name: "Internal Landscapes 2008-2018 (The Best Of)"
 date: 2018-10-27T12:10:49.000000Z
 release_date: "2014"
 release_id: "12717350"
+apple_music_url: "https://music.apple.com/gb/album/internal-landscapes-best-of-2008-2018/1424981630"
 slug: "internal-landscapes-2008-2018-the-best-of-12717350"
 hideSummary: true
 cover:

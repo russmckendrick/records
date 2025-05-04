@@ -6,6 +6,7 @@ album_name: "Jeff Wayne's Musical Version Of The War Of The Worlds"
 date: 2018-01-26T20:03:07.000000Z
 release_date: "1978-06-09"
 release_id: "11456081"
+apple_music_url: "https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/1615102666"
 slug: "jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081"
 hideSummary: true
 cover:

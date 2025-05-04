@@ -6,6 +6,7 @@ album_name: "Strangeitude"
 date: 2020-07-08T13:14:35.000000Z
 release_date: "1991"
 release_id: "15499776"
+apple_music_url: "https://music.apple.com/gb/album/strangeitude/151954221"
 slug: "strangeitude-15499776"
 hideSummary: true
 cover:

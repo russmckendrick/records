@@ -6,6 +6,7 @@ album_name: "Cowboy Bebop (Original Series Soundtrack)"
 date: 2023-10-06T04:35:08.000000Z
 release_date: "1998-05-21"
 release_id: "16328898"
+apple_music_url: "https://music.apple.com/gb/album/cowboy-bebop-original-motion-picture-soundtrack/1521453383"
 slug: "cowboy-bebop-original-series-soundtrack-16328898"
 hideSummary: true
 cover:

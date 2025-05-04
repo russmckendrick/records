@@ -6,6 +6,7 @@ album_name: "Grace"
 date: 2015-08-09T08:38:40.000000Z
 release_date: "2017-04-20"
 release_id: "6106287"
+apple_music_url: "https://music.apple.com/gb/album/live-jeff-buckley-remastered/1229487899"
 slug: "grace-6106287"
 hideSummary: true
 cover:

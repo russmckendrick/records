@@ -6,6 +6,7 @@ album_name: "Stranger Things (A Netflix Original Series) Original Music • Volu
 date: 2016-12-01T06:52:33.000000Z
 release_date: "2017-10-20"
 release_id: "9425650"
+apple_music_url: "https://music.apple.com/gb/album/stranger-things-2-soundtrack-from-the-netflix/1294911267"
 slug: "stranger-things-a-netflix-original-series-original-music-volume-two-9425650"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "I Got You"
 date: 2018-10-03T18:03:57.000000Z
 release_date: "2024-05-24"
 release_id: "141830"
+apple_music_url: "https://music.apple.com/gb/album/i-got-you-karaoke-version-originally-performed-by-split/1755091340"
 slug: "i-got-you-141830"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Italian Job (Original Sound Track)"
 date: 2017-04-02T13:01:56.000000Z
 release_date: "1969-01-01"
 release_id: "6089363"
+apple_music_url: "https://music.apple.com/gb/album/the-italian-job-original-soundtrack/1443280326"
 slug: "the-italian-job-original-sound-track-6089363"
 hideSummary: true
 cover:

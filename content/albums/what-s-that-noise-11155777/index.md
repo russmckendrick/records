@@ -6,6 +6,7 @@ album_name: "What's That Noise?"
 date: 2018-02-09T11:47:15.000000Z
 release_date: ""
 release_id: "11155777"
+apple_music_url: ""
 slug: "what-s-that-noise-11155777"
 hideSummary: true
 cover:

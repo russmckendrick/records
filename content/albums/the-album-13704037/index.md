@@ -6,6 +6,7 @@ album_name: "The Album"
 date: 2019-06-29T08:06:47.000000Z
 release_date: "1985-05-04"
 release_id: "13704037"
+apple_music_url: "https://music.apple.com/gb/album/the-album/341928107"
 slug: "the-album-13704037"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Singles Going Steady"
 date: 2024-03-12T12:43:37.000000Z
 release_date: "1979-09-25"
 release_id: "30026605"
+apple_music_url: "https://music.apple.com/gb/album/singles-going-steady-deluxe-version/1251022568"
 slug: "singles-going-steady-30026605"
 hideSummary: true
 cover:

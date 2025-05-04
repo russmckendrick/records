@@ -6,6 +6,7 @@ album_name: "The Virgin Years"
 date: 2022-12-27T03:03:51.000000Z
 release_date: ""
 release_id: "25154539"
+apple_music_url: ""
 slug: "the-virgin-years-25154539"
 hideSummary: true
 cover:

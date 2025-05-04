@@ -6,6 +6,7 @@ album_name: "No More Tears"
 date: 2021-09-19T04:28:15.000000Z
 release_date: "2022-04-29"
 release_id: "20262616"
+apple_music_url: "https://music.apple.com/gb/album/no-more-tears/1620628762"
 slug: "no-more-tears-20262616"
 hideSummary: true
 cover:

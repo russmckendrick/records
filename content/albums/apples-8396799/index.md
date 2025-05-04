@@ -6,6 +6,7 @@ album_name: "Apples"
 date: 
 release_date: ""
 release_id: "8396799"
+apple_music_url: ""
 slug: "apples-8396799"
 hideSummary: true
 cover:

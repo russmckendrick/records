@@ -6,6 +6,7 @@ album_name: "Twin Peaks"
 date: 2016-08-26T16:30:13.000000Z
 release_date: "2008-12-12"
 release_id: "8888892"
+apple_music_url: "https://music.apple.com/gb/album/twin-peaks-single/299503747"
 slug: "twin-peaks-8888892"
 hideSummary: true
 cover:

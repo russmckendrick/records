@@ -6,6 +6,7 @@ album_name: "Honey Lingers"
 date: 2025-04-06T02:35:18.000000Z
 release_date: "1991-08-12"
 release_id: "33613068"
+apple_music_url: "https://music.apple.com/gb/album/honey-lingers/1320033616"
 slug: "honey-lingers-33613068"
 hideSummary: true
 cover:

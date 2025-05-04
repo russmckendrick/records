@@ -6,6 +6,7 @@ album_name: "The Best Of Hooverphonic"
 date: 2021-06-29T02:28:57.000000Z
 release_date: "2016-10-21"
 release_id: "18295270"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533"
 slug: "the-best-of-hooverphonic-18295270"
 hideSummary: true
 cover:

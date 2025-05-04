@@ -6,6 +6,7 @@ album_name: "Seventh Tree"
 date: 2021-04-01T00:47:49.000000Z
 release_date: "2008-09-26"
 release_id: "17643982"
+apple_music_url: "https://music.apple.com/gb/album/seventh-tree/1451519258"
 slug: "seventh-tree-17643982"
 hideSummary: true
 cover:

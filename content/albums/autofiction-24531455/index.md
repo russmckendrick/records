@@ -6,6 +6,7 @@ album_name: "Autofiction"
 date: 2022-09-25T07:16:21.000000Z
 release_date: "2022-09-16"
 release_id: "24531455"
+apple_music_url: "https://music.apple.com/gb/album/autofiction/1622187194"
 slug: "autofiction-24531455"
 hideSummary: true
 cover:

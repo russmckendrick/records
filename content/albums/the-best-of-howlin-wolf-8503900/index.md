@@ -6,6 +6,7 @@ album_name: "The Best Of Howlin' Wolf"
 date: 2021-12-23T04:32:15.000000Z
 release_date: "2003-01-01"
 release_id: "8503900"
+apple_music_url: "https://music.apple.com/gb/album/20th-century-masters-the-millennium-collection-the/1484883790"
 slug: "the-best-of-howlin-wolf-8503900"
 hideSummary: true
 cover:

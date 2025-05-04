@@ -6,6 +6,7 @@ album_name: "Ad Astra"
 date: 2017-04-09T14:17:37.000000Z
 release_date: "2000"
 release_id: "7189449"
+apple_music_url: "https://music.apple.com/gb/album/ad-astra/963146026"
 slug: "ad-astra-7189449"
 hideSummary: true
 cover:

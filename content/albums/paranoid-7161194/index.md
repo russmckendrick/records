@@ -6,6 +6,7 @@ album_name: "Paranoid"
 date: 2015-09-30T17:20:06.000000Z
 release_date: "1970-09-18"
 release_id: "7161194"
+apple_music_url: "https://music.apple.com/gb/album/paranoid/1533659667"
 slug: "paranoid-7161194"
 hideSummary: true
 cover:

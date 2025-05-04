@@ -6,6 +6,7 @@ album_name: "Stars And Topsoil A Collection (1982-1990)"
 date: 2021-03-10T08:46:02.000000Z
 release_date: "2000-10-16"
 release_id: "3372164"
+apple_music_url: "https://music.apple.com/gb/album/stars-and-topsoil-a-collection-1982-1990/1025322826"
 slug: "stars-and-topsoil-a-collection-1982-1990-3372164"
 hideSummary: true
 cover:

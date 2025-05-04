@@ -6,6 +6,7 @@ album_name: "Pale Communion"
 date: 2016-08-25T16:29:14.000000Z
 release_date: "2014-08-22"
 release_id: "6008386"
+apple_music_url: "https://music.apple.com/gb/album/pale-communion/881685468"
 slug: "pale-communion-6008386"
 hideSummary: true
 cover:

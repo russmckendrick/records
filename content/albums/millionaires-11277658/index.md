@@ -6,6 +6,7 @@ album_name: "Millionaires"
 date: 2017-12-17T09:50:57.000000Z
 release_date: "1999-01-01"
 release_id: "11277658"
+apple_music_url: "https://music.apple.com/gb/album/millionaires/1442660638"
 slug: "millionaires-11277658"
 hideSummary: true
 cover:

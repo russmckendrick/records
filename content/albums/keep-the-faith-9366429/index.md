@@ -6,6 +6,7 @@ album_name: "Keep The Faith"
 date: 2018-06-13T17:29:14.000000Z
 release_date: "1992-11-03"
 release_id: "9366429"
+apple_music_url: "https://music.apple.com/gb/album/keep-the-faith/1440826842"
 slug: "keep-the-faith-9366429"
 hideSummary: true
 cover:

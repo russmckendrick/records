@@ -6,6 +6,7 @@ album_name: "London"
 date: 2022-11-03T13:59:53.000000Z
 release_date: "2001-10-09"
 release_id: "25038310"
+apple_music_url: "https://music.apple.com/gb/album/london/1647622598"
 slug: "london-25038310"
 hideSummary: true
 cover:

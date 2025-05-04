@@ -6,6 +6,7 @@ album_name: "Escapade"
 date: 2015-10-14T18:38:58.000000Z
 release_date: "2022-02-01"
 release_id: "2733922"
+apple_music_url: "https://music.apple.com/gb/album/tim-finn-the-escapade-band-live-at-the-venue-st-kilda-1983/1606863181"
 slug: "escapade-2733922"
 hideSummary: true
 cover:

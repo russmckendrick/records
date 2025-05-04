@@ -6,6 +6,7 @@ album_name: "Organisation"
 date: 2018-11-03T09:52:02.000000Z
 release_date: "1980-10-24"
 release_id: "12748202"
+apple_music_url: "https://music.apple.com/gb/album/organisation/714776809"
 slug: "organisation-12748202"
 hideSummary: true
 cover:

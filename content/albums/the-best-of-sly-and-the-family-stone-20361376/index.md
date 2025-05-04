@@ -6,6 +6,7 @@ album_name: "The Best Of Sly And The Family Stone"
 date: 2021-10-12T07:25:28.000000Z
 release_date: "2011-05-30"
 release_id: "20361376"
+apple_music_url: "https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549"
 slug: "the-best-of-sly-and-the-family-stone-20361376"
 hideSummary: true
 cover:

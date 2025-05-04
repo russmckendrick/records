@@ -6,6 +6,7 @@ album_name: "Gargantuan"
 date: 2025-01-18T03:31:41.000000Z
 release_date: ""
 release_id: "32870103"
+apple_music_url: ""
 slug: "gargantuan-32870103"
 hideSummary: true
 cover:

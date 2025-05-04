@@ -6,6 +6,7 @@ album_name: "Diamonds And Pearls"
 date: 2023-10-28T09:07:28.000000Z
 release_date: "1991-10-01"
 release_id: "28719109"
+apple_music_url: "https://music.apple.com/gb/album/diamonds-and-pearls/260373146"
 slug: "diamonds-and-pearls-28719109"
 hideSummary: true
 cover:

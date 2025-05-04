@@ -6,6 +6,7 @@ album_name: "Black Sunday"
 date: 2015-10-27T08:44:43.000000Z
 release_date: "1993-07-20"
 release_id: "4491885"
+apple_music_url: "https://music.apple.com/gb/album/black-sunday/266797392"
 slug: "black-sunday-4491885"
 hideSummary: true
 cover:

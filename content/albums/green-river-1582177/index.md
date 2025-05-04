@@ -6,6 +6,7 @@ album_name: "Green River"
 date: 2015-09-15T15:20:21.000000Z
 release_date: "1968-07-05"
 release_id: "1582177"
+apple_music_url: "https://music.apple.com/gb/album/creedence-clearwater-revival/1440944801"
 slug: "green-river-1582177"
 hideSummary: true
 cover:

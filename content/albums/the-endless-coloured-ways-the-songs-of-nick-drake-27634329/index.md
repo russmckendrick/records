@@ -6,6 +6,7 @@ album_name: "The Endless Coloured Ways (The Songs Of Nick Drake)"
 date: 2023-07-10T13:24:22.000000Z
 release_date: ""
 release_id: "27634329"
+apple_music_url: ""
 slug: "the-endless-coloured-ways-the-songs-of-nick-drake-27634329"
 hideSummary: true
 cover:

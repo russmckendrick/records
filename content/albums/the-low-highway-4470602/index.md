@@ -6,6 +6,7 @@ album_name: "The Low Highway"
 date: 2021-11-05T10:37:16.000000Z
 release_date: "2013-04-15"
 release_id: "4470602"
+apple_music_url: "https://music.apple.com/gb/album/the-low-highway-deluxe-edition/1436912489"
 slug: "the-low-highway-4470602"
 hideSummary: true
 cover:

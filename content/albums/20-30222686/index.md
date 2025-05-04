@@ -6,6 +6,7 @@ album_name: "20"
 date: 2024-03-29T07:17:24.000000Z
 release_date: "2023-10-13"
 release_id: "30222686"
+apple_music_url: "https://music.apple.com/gb/album/20/1709464649"
 slug: "20-30222686"
 hideSummary: true
 cover:

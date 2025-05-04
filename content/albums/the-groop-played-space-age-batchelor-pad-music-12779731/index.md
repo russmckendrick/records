@@ -6,6 +6,7 @@ album_name: "The Groop Played Space Age Batchelor Pad Music"
 date: 2018-11-10T08:11:15.000000Z
 release_date: "1993-03-22"
 release_id: "12779731"
+apple_music_url: "https://music.apple.com/gb/album/the-groop-played-space-age-batchelor-pad-music/268672477"
 slug: "the-groop-played-space-age-batchelor-pad-music-12779731"
 hideSummary: true
 cover:

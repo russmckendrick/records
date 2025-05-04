@@ -6,6 +6,7 @@ album_name: "Hasabe - My Worries"
 date: 2018-02-13T07:13:33.000000Z
 release_date: "2018-01-23"
 release_id: "11544269"
+apple_music_url: "https://music.apple.com/gb/album/hasabe-my-worries/1680801339"
 slug: "hasabe-my-worries-11544269"
 hideSummary: true
 cover:

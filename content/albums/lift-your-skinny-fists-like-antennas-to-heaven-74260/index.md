@@ -6,6 +6,7 @@ album_name: "Lift Your Skinny Fists Like Antennas To Heaven"
 date: 2016-12-27T12:09:06.000000Z
 release_date: "2000-10-09"
 release_id: "74260"
+apple_music_url: "https://music.apple.com/gb/album/lift-your-skinny-fists-like-antennas-to-heaven/40886657"
 slug: "lift-your-skinny-fists-like-antennas-to-heaven-74260"
 hideSummary: true
 cover:

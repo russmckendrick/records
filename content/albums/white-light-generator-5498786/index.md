@@ -6,6 +6,7 @@ album_name: "White Light Generator"
 date: 2016-01-17T09:46:30.000000Z
 release_date: "2014-03-17"
 release_id: "5498786"
+apple_music_url: "https://music.apple.com/gb/album/white-light-generator/1600467011"
 slug: "white-light-generator-5498786"
 hideSummary: true
 cover:

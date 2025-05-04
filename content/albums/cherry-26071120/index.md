@@ -6,6 +6,7 @@ album_name: "Cherry"
 date: 2023-02-13T11:30:45.000000Z
 release_date: "2020-06-12"
 release_id: "26071120"
+apple_music_url: "https://music.apple.com/gb/album/curva-cereza-single/1514226691"
 slug: "cherry-26071120"
 hideSummary: true
 cover:

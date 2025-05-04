@@ -6,6 +6,7 @@ album_name: "Thirty-Something"
 date: 2022-08-01T06:03:15.000000Z
 release_date: "2022-07-29"
 release_id: "24033002"
+apple_music_url: "https://music.apple.com/gb/album/30-something/1619288979"
 slug: "thirty-something-24033002"
 hideSummary: true
 cover:

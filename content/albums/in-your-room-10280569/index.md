@@ -6,6 +6,7 @@ album_name: "In Your Room"
 date: 2017-05-25T18:38:01.000000Z
 release_date: "2009-10-30"
 release_id: "10280569"
+apple_music_url: "https://music.apple.com/gb/album/in-your-room/1769679211"
 slug: "in-your-room-10280569"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2017-04-09T14:17:52.000000Z
 release_date: "2004-11-16"
 release_id: "2406602"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/135132797"
 slug: "greatest-hits-2406602"
 hideSummary: true
 cover:

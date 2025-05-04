@@ -6,6 +6,7 @@ album_name: "The Awesome Album"
 date: 2022-01-12T04:51:48.000000Z
 release_date: "2021-08-27"
 release_id: "19841596"
+apple_music_url: "https://music.apple.com/gb/album/the-awesome-album/1750595436"
 slug: "the-awesome-album-19841596"
 hideSummary: true
 cover:

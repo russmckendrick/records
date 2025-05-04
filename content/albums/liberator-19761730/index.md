@@ -6,6 +6,7 @@ album_name: "Liberator"
 date: 2022-07-31T06:15:26.000000Z
 release_date: "1993-01-01"
 release_id: "19761730"
+apple_music_url: "https://music.apple.com/gb/album/liberator/728324593"
 slug: "liberator-19761730"
 hideSummary: true
 cover:

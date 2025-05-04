@@ -6,6 +6,7 @@ album_name: "24 Hour Revenge Therapy"
 date: 2023-10-01T03:57:49.000000Z
 release_date: "1994-02-07"
 release_id: "23656178"
+apple_music_url: "https://music.apple.com/gb/album/24-hour-revenge-therapy/917083177"
 slug: "24-hour-revenge-therapy-23656178"
 hideSummary: true
 cover:

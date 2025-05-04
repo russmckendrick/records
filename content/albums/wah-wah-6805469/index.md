@@ -6,6 +6,7 @@ album_name: "Wah Wah"
 date: 2018-06-13T17:27:12.000000Z
 release_date: "1994-01-01"
 release_id: "6805469"
+apple_music_url: "https://music.apple.com/gb/album/wah-wah/1443711128"
 slug: "wah-wah-6805469"
 hideSummary: true
 cover:

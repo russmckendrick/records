@@ -6,6 +6,7 @@ album_name: "Le Kov"
 date: 2018-10-22T18:33:11.000000Z
 release_date: "2018-03-02"
 release_id: "11638501"
+apple_music_url: "https://music.apple.com/gb/album/le-kov/1316525300"
 slug: "le-kov-11638501"
 hideSummary: true
 cover:

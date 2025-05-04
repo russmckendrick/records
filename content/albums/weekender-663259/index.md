@@ -6,6 +6,7 @@ album_name: "Weekender"
 date: 2017-01-25T18:25:25.000000Z
 release_date: "1992-04-06"
 release_id: "663259"
+apple_music_url: "https://music.apple.com/gb/album/weatheralls-weekender/1549273189"
 slug: "weekender-663259"
 hideSummary: true
 cover:

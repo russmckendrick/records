@@ -6,6 +6,7 @@ album_name: "Changesnowbowie"
 date: 2020-09-07T09:05:46.000000Z
 release_date: "2020-04-17"
 release_id: "15822092"
+apple_music_url: "https://music.apple.com/gb/album/changesnowbowie/1505418271"
 slug: "changesnowbowie-15822092"
 hideSummary: true
 cover:

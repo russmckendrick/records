@@ -6,6 +6,7 @@ album_name: "The Delerium Years 1994-1997"
 date: 2016-04-27T16:45:28.000000Z
 release_date: ""
 release_id: "8088258"
+apple_music_url: ""
 slug: "the-delerium-years-1994-1997-8088258"
 hideSummary: true
 cover:

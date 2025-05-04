@@ -6,6 +6,7 @@ album_name: "Psychic Warfare"
 date: 2016-03-07T19:42:18.000000Z
 release_date: "2015-10-02"
 release_id: "7868541"
+apple_music_url: "https://music.apple.com/gb/album/psychic-warfare/1675774664"
 slug: "psychic-warfare-7868541"
 hideSummary: true
 cover:

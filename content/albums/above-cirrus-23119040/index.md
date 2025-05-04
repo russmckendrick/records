@@ -6,6 +6,7 @@ album_name: "Above Cirrus"
 date: 2022-05-10T09:16:22.000000Z
 release_date: "2022-05-06"
 release_id: "23119040"
+apple_music_url: "https://music.apple.com/gb/album/above-cirrus/1609674107"
 slug: "above-cirrus-23119040"
 hideSummary: true
 cover:

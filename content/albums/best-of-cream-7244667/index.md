@@ -6,6 +6,7 @@ album_name: "Best Of Cream"
 date: 2020-08-02T13:37:10.000000Z
 release_date: "1995-05-09"
 release_id: "7244667"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-cream/1440920886"
 slug: "best-of-cream-7244667"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Glitter And Doom Live"
 date: 2018-01-22T19:16:22.000000Z
 release_date: "2009-11-23"
 release_id: "11273241"
+apple_music_url: "https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268"
 slug: "glitter-and-doom-live-11273241"
 hideSummary: true
 cover:

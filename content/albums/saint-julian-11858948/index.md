@@ -6,6 +6,7 @@ album_name: "Saint Julian"
 date: 2018-04-14T18:08:56.000000Z
 release_date: "1987-03"
 release_id: "11858948"
+apple_music_url: "https://music.apple.com/gb/album/saint-julian/1444114691"
 slug: "saint-julian-11858948"
 hideSummary: true
 cover:

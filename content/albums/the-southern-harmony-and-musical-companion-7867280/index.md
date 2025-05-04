@@ -6,6 +6,7 @@ album_name: "The Southern Harmony And Musical Companion"
 date: 2015-12-19T11:37:19.000000Z
 release_date: "1992-05-12"
 release_id: "7867280"
+apple_music_url: "https://music.apple.com/gb/album/the-southern-harmony-and-musical-companion/1444056030"
 slug: "the-southern-harmony-and-musical-companion-7867280"
 hideSummary: true
 cover:

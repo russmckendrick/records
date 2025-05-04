@@ -6,6 +6,7 @@ album_name: "History Books"
 date: 2023-10-31T11:17:53.000000Z
 release_date: "2023-10-27"
 release_id: "28718389"
+apple_music_url: "https://music.apple.com/gb/album/history-books/1694394095"
 slug: "history-books-28718389"
 hideSummary: true
 cover:

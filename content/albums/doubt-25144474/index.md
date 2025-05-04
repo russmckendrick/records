@@ -6,6 +6,7 @@ album_name: "Doubt"
 date: 2022-11-13T23:28:19.000000Z
 release_date: "1991-01-28"
 release_id: "25144474"
+apple_music_url: "https://music.apple.com/gb/album/doubt/693294187"
 slug: "doubt-25144474"
 hideSummary: true
 cover:

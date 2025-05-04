@@ -6,6 +6,7 @@ album_name: "Yell40 Years"
 date: 2021-05-05T04:21:55.000000Z
 release_date: "2020-01-31"
 release_id: "18512575"
+apple_music_url: "https://music.apple.com/gb/album/yellow-tape/1494539195"
 slug: "yell40-years-18512575"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Cult Leader Tactics"
 date: 2022-01-29T12:06:26.000000Z
 release_date: "2022-01-28"
 release_id: "21939745"
+apple_music_url: "https://music.apple.com/gb/album/cult-leader-tactics/1588722385"
 slug: "cult-leader-tactics-21939745"
 hideSummary: true
 cover:

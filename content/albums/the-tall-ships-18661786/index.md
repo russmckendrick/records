@@ -6,6 +6,7 @@ album_name: "The Tall Ships"
 date: 2021-05-10T10:27:31.000000Z
 release_date: "2008-09-26"
 release_id: "18661786"
+apple_music_url: "https://music.apple.com/gb/album/the-tall-ships/1056381718"
 slug: "the-tall-ships-18661786"
 hideSummary: true
 cover:

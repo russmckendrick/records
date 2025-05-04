@@ -6,6 +6,7 @@ album_name: "Colors"
 date: 2017-12-24T11:35:56.000000Z
 release_date: "2017-10-13"
 release_id: "10987947"
+apple_music_url: "https://music.apple.com/gb/album/colors/1440881121"
 slug: "colors-10987947"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Infestissumam"
 date: 2018-09-21T06:10:08.000000Z
 release_date: "2013-01-01"
 release_id: "4529587"
+apple_music_url: "https://music.apple.com/gb/album/infestissumam/1440870903"
 slug: "infestissumam-4529587"
 hideSummary: true
 cover:

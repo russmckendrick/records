@@ -6,6 +6,7 @@ album_name: "Orange Synthetic"
 date: 2021-02-28T09:11:36.000000Z
 release_date: "2021-01-29"
 release_id: "17164159"
+apple_music_url: "https://music.apple.com/gb/album/orange-synthetic/1536139108"
 slug: "orange-synthetic-17164159"
 hideSummary: true
 cover:

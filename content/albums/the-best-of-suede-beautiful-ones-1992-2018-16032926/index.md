@@ -6,6 +6,7 @@ album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2021-01-03T08:00:22.000000Z
 release_date: "2020-10-09"
 release_id: "16032926"
+apple_music_url: "https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018/1528165185"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16032926"
 hideSummary: true
 cover:

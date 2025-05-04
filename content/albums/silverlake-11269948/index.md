@@ -6,6 +6,7 @@ album_name: "Silverlake"
 date: 2018-01-04T06:58:55.000000Z
 release_date: "2017-11-24"
 release_id: "11269948"
+apple_music_url: "https://music.apple.com/gb/album/silverlake/1282544689"
 slug: "silverlake-11269948"
 hideSummary: true
 cover:

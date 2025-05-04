@@ -6,6 +6,7 @@ album_name: "Encore"
 date: 2019-02-01T18:56:27.000000Z
 release_date: "2019-02-01"
 release_id: "13150462"
+apple_music_url: "https://music.apple.com/gb/album/encore/1445866886"
 slug: "encore-13150462"
 hideSummary: true
 cover:

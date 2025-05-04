@@ -6,6 +6,7 @@ album_name: "X"
 date: 2017-09-09T10:31:48.000000Z
 release_date: "1998-09-22"
 release_id: "2984283"
+apple_music_url: "https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082"
 slug: "x-2984283"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "A Broken Frame"
 date: 2017-02-20T19:08:15.000000Z
 release_date: "1982-09-27"
 release_id: "8970950"
+apple_music_url: "https://music.apple.com/gb/album/a-broken-frame/665410900"
 slug: "a-broken-frame-8970950"
 hideSummary: true
 cover:

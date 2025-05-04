@@ -6,6 +6,7 @@ album_name: "Soultrane"
 date: 2017-01-05T19:22:59.000000Z
 release_date: "1964-06-01"
 release_id: "3570715"
+apple_music_url: "https://music.apple.com/gb/album/coltranes-sound/962194510"
 slug: "soultrane-3570715"
 hideSummary: true
 cover:

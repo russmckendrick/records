@@ -6,6 +6,7 @@ album_name: "Grand Prix"
 date: 2018-08-29T18:39:42.000000Z
 release_date: "1995-05-29"
 release_id: "12372525"
+apple_music_url: "https://music.apple.com/gb/album/grand-prix/1417071608"
 slug: "grand-prix-12372525"
 hideSummary: true
 cover:

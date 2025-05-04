@@ -6,6 +6,7 @@ album_name: "The John Lennon Collection"
 date: 2017-04-14T14:01:00.000000Z
 release_date: "1970-12-11"
 release_id: "685687"
+apple_music_url: "https://music.apple.com/gb/album/john-lennon-plastic-ono-band-the-ultimate-collection/1555558304"
 slug: "the-john-lennon-collection-685687"
 hideSummary: true
 cover:

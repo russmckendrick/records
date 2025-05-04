@@ -6,6 +6,7 @@ album_name: "The Beta Band"
 date: 2018-11-09T19:14:57.000000Z
 release_date: "2005-12-02"
 release_id: "12647463"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-the-beta-band/1339300024"
 slug: "the-beta-band-12647463"
 hideSummary: true
 cover:

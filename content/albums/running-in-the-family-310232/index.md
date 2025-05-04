@@ -6,6 +6,7 @@ album_name: "Running In The Family"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1987"
 release_id: "310232"
+apple_music_url: "https://music.apple.com/gb/album/running-in-the-family/1443532962"
 slug: "running-in-the-family-310232"
 hideSummary: true
 cover:

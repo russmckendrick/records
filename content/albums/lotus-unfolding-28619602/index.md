@@ -6,6 +6,7 @@ album_name: "Lotus Unfolding"
 date: 2023-10-19T22:16:25.000000Z
 release_date: "2023-10-20"
 release_id: "28619602"
+apple_music_url: "https://music.apple.com/gb/album/lotus-unfolding/1707428182"
 slug: "lotus-unfolding-28619602"
 hideSummary: true
 cover:

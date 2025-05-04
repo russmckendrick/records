@@ -6,6 +6,7 @@ album_name: "Tasmania"
 date: 2019-03-04T18:39:14.000000Z
 release_date: "2019-03-01"
 release_id: "13285382"
+apple_music_url: "https://music.apple.com/gb/album/tasmania/1660070869"
 slug: "tasmania-13285382"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Home"
 date: 2020-11-21T19:08:40.000000Z
 release_date: "2020-08-21"
 release_id: "16250518"
+apple_music_url: "https://music.apple.com/gb/album/home/1501400140"
 slug: "home-16250518"
 hideSummary: true
 cover:

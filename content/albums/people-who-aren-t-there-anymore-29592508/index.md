@@ -6,6 +6,7 @@ album_name: "People Who Aren't There Anymore"
 date: 2024-01-26T06:47:38.000000Z
 release_date: "2024-01-26"
 release_id: "29592508"
+apple_music_url: "https://music.apple.com/gb/album/people-who-arent-there-anymore/1710447164"
 slug: "people-who-aren-t-there-anymore-29592508"
 hideSummary: true
 cover:

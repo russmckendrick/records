@@ -6,6 +6,7 @@ album_name: "Sessions at West 54th"
 date: 2025-04-22T01:10:07.000000Z
 release_date: "2000-12-19"
 release_id: "33673647"
+apple_music_url: "https://music.apple.com/gb/album/sessions-at-west-54th/1805917450"
 slug: "sessions-at-west-54th-33673647"
 hideSummary: true
 cover:

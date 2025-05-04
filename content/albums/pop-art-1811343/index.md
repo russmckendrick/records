@@ -6,6 +6,7 @@ album_name: "Pop Art"
 date: 2017-05-27T15:36:41.000000Z
 release_date: "1988-01-01"
 release_id: "1811343"
+apple_music_url: "https://music.apple.com/gb/album/pop-art/1444051351"
 slug: "pop-art-1811343"
 hideSummary: true
 cover:

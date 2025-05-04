@@ -6,6 +6,7 @@ album_name: "Women In Technology"
 date: 2023-04-23T04:34:51.000000Z
 release_date: "1997-02-25"
 release_id: "26830184"
+apple_music_url: "https://music.apple.com/gb/album/women-in-technology/1675516474"
 slug: "women-in-technology-26830184"
 hideSummary: true
 cover:

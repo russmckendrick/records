@@ -6,6 +6,7 @@ album_name: "All The Colours Of You"
 date: 2021-06-04T04:20:12.000000Z
 release_date: "2021-06-04"
 release_id: "18997504"
+apple_music_url: "https://music.apple.com/gb/album/all-the-colours-of-you/1553115786"
 slug: "all-the-colours-of-you-18997504"
 hideSummary: true
 cover:

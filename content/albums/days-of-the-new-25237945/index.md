@@ -6,6 +6,7 @@ album_name: "Days Of The New"
 date: 2023-03-20T05:43:21.000000Z
 release_date: "1999-01-01"
 release_id: "25237945"
+apple_music_url: "https://music.apple.com/gb/album/days-of-the-new-ii/1443817768"
 slug: "days-of-the-new-25237945"
 hideSummary: true
 cover:

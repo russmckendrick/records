@@ -6,6 +6,7 @@ album_name: "Everybody's Going To Die "
 date: 2020-03-14T09:50:10.000000Z
 release_date: "2019-11-29"
 release_id: "14924038"
+apple_music_url: "https://music.apple.com/gb/album/everybodys-going-to-die/1487673648"
 slug: "everybody-s-going-to-die-14924038"
 hideSummary: true
 cover:

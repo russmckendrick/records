@@ -6,6 +6,7 @@ album_name: "Nina Simone Sings The Blues"
 date: 2016-12-19T17:44:48.000000Z
 release_date: "2007-05-22"
 release_id: "9485790"
+apple_music_url: "https://music.apple.com/gb/album/just-like-a-woman-nina-simone-sings-classic-songs-of-the-60s/253080824"
 slug: "nina-simone-sings-the-blues-9485790"
 hideSummary: true
 cover:

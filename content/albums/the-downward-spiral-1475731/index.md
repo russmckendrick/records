@@ -6,6 +6,7 @@ album_name: "The Downward Spiral"
 date: 2016-12-27T12:09:31.000000Z
 release_date: "1994-03-08"
 release_id: "1475731"
+apple_music_url: "https://music.apple.com/gb/album/the-downward-spiral/1440837096"
 slug: "the-downward-spiral-1475731"
 hideSummary: true
 cover:

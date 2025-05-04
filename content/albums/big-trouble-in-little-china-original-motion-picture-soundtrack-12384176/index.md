@@ -6,6 +6,7 @@ album_name: "Big Trouble In Little China (Original Motion Picture Soundtrack)"
 date: 2019-02-21T19:00:41.000000Z
 release_date: "1986-07-02"
 release_id: "12384176"
+apple_music_url: "https://music.apple.com/gb/album/big-trouble-in-little-china-complete-original-motion/1502302598"
 slug: "big-trouble-in-little-china-original-motion-picture-soundtrack-12384176"
 hideSummary: true
 cover:

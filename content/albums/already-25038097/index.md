@@ -6,6 +6,7 @@ album_name: "Already"
 date: 2022-11-03T13:59:44.000000Z
 release_date: "1997-05-21"
 release_id: "25038097"
+apple_music_url: "https://music.apple.com/gb/album/already/695541602"
 slug: "already-25038097"
 hideSummary: true
 cover:

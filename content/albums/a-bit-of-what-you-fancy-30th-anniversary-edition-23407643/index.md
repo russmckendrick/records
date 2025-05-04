@@ -6,6 +6,7 @@ album_name: "A Bit Of What You Fancy 30th Anniversary Edition"
 date: 2022-07-10T09:45:56.000000Z
 release_date: "2021-07-23"
 release_id: "23407643"
+apple_music_url: "https://music.apple.com/gb/album/a-bit-of-what-you-fancy-30th-anniversary-edition/1574981034"
 slug: "a-bit-of-what-you-fancy-30th-anniversary-edition-23407643"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Sun Is Often Out"
 date: 2020-07-03T12:37:14.000000Z
 release_date: "1996-01-01"
 release_id: "15537055"
+apple_music_url: "https://music.apple.com/gb/album/the-sun-is-often-out/1489735610"
 slug: "the-sun-is-often-out-15537055"
 hideSummary: true
 cover:

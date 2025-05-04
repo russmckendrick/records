@@ -6,6 +6,7 @@ album_name: "Deserter's Songs"
 date: 2019-01-19T09:37:34.000000Z
 release_date: "1998"
 release_id: "12865243"
+apple_music_url: "https://music.apple.com/gb/album/deserted-songs/1523532121"
 slug: "deserter-s-songs-12865243"
 hideSummary: true
 cover:

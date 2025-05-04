@@ -6,6 +6,7 @@ album_name: "Big Canoe"
 date: 2015-09-11T18:02:24.000000Z
 release_date: "1986-01-01"
 release_id: "2529922"
+apple_music_url: "https://music.apple.com/gb/album/big-canoe/723416046"
 slug: "big-canoe-2529922"
 hideSummary: true
 cover:

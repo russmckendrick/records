@@ -6,6 +6,7 @@ album_name: "Home Invasion (In Concert At The Royal Albert Hall)"
 date: 2020-05-29T11:31:56.000000Z
 release_date: "2018-11-02"
 release_id: "13391500"
+apple_music_url: "https://music.apple.com/gb/album/home-invasion-in-concert-at-the-royal-albert-hall-live/1435313423"
 slug: "home-invasion-in-concert-at-the-royal-albert-hall-13391500"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Music From Big Pink"
 date: 2020-06-16T12:11:25.000000Z
 release_date: "1968-07-01"
 release_id: "12477287"
+apple_music_url: "https://music.apple.com/gb/album/music-from-big-pink-remastered-2000/1440814725"
 slug: "music-from-big-pink-12477287"
 hideSummary: true
 cover:

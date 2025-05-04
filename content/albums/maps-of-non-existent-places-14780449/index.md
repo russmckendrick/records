@@ -6,6 +6,7 @@ album_name: "Maps Of Non-Existent Places"
 date: 2020-03-12T18:46:41.000000Z
 release_date: "2014-09-30"
 release_id: "14780449"
+apple_music_url: "https://music.apple.com/gb/album/maps-of-non-existent-places/1617741451"
 slug: "maps-of-non-existent-places-14780449"
 hideSummary: true
 cover:

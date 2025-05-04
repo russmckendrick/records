@@ -6,6 +6,7 @@ album_name: "This Is The Day...This Is The Hour...This Is This!"
 date: 2016-01-11T17:44:45.000000Z
 release_date: "1989"
 release_id: "664486"
+apple_music_url: "https://music.apple.com/gb/album/this-is-the-day-this-is-the-hour-this-is-this/478281843"
 slug: "this-is-the-day-this-is-the-hour-this-is-this-664486"
 hideSummary: true
 cover:

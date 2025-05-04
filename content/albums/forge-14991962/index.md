@@ -6,6 +6,7 @@ album_name: "Forge"
 date: 2020-04-09T17:08:32.000000Z
 release_date: "2020-03-27"
 release_id: "14991962"
+apple_music_url: "https://music.apple.com/gb/album/forge/1495646143"
 slug: "forge-14991962"
 hideSummary: true
 cover:

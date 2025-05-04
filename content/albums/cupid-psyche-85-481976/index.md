@@ -6,6 +6,7 @@ album_name: "Cupid & Psyche 85"
 date: 2017-05-27T15:30:35.000000Z
 release_date: "1985-06-10"
 release_id: "481976"
+apple_music_url: "https://music.apple.com/gb/album/cupid-psyche-85/1139092963"
 slug: "cupid-psyche-85-481976"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "No Time For Dreaming"
 date: 2016-10-03T14:26:35.000000Z
 release_date: "2011-08-02"
 release_id: "2681475"
+apple_music_url: "https://music.apple.com/gb/album/no-time-for-dreaming-the-instrumentals/1484982503"
 slug: "no-time-for-dreaming-2681475"
 hideSummary: true
 cover:

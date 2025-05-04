@@ -6,6 +6,7 @@ album_name: "Short Stories"
 date: 2015-12-17T08:50:29.000000Z
 release_date: "1980-01-01"
 release_id: "161300"
+apple_music_url: "https://music.apple.com/gb/album/short-stories/1443471528"
 slug: "short-stories-161300"
 hideSummary: true
 cover:

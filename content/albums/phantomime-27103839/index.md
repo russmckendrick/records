@@ -6,6 +6,7 @@ album_name: "Phantomime "
 date: 2023-05-19T11:07:27.000000Z
 release_date: "2023-05-18"
 release_id: "27103839"
+apple_music_url: "https://music.apple.com/gb/album/phantomime-ep/1678578058"
 slug: "phantomime-27103839"
 hideSummary: true
 cover:

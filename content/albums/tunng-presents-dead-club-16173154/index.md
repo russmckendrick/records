@@ -6,6 +6,7 @@ album_name: "Tunng Presents... Dead Club"
 date: 2020-11-18T13:27:13.000000Z
 release_date: "2020-11-06"
 release_id: "16173154"
+apple_music_url: "https://music.apple.com/gb/album/tunng-presents-dead-club/1777827489"
 slug: "tunng-presents-dead-club-16173154"
 hideSummary: true
 cover:

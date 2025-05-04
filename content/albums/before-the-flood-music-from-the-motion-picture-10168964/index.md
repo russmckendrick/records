@@ -6,6 +6,7 @@ album_name: "Before The Flood (Music From The Motion Picture)"
 date: 2017-04-28T14:35:07.000000Z
 release_date: "2016-10-21"
 release_id: "10168964"
+apple_music_url: "https://music.apple.com/gb/album/before-the-flood-music-from-the-motion-picture/1162988948"
 slug: "before-the-flood-music-from-the-motion-picture-10168964"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Eels Time!"
 date: 2024-06-09T09:47:54.000000Z
 release_date: "2024-06-07"
 release_id: "30896457"
+apple_music_url: "https://music.apple.com/gb/album/eels-time/1730148246"
 slug: "eels-time-30896457"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Fun Boy Three"
 date: 2023-08-06T07:39:39.000000Z
 release_date: "2023-08-04"
 release_id: "27872178"
+apple_music_url: "https://music.apple.com/gb/album/the-complete-fun-boy-three/1660766808"
 slug: "the-fun-boy-three-27872178"
 hideSummary: true
 cover:

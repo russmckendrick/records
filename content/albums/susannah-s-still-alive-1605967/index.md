@@ -6,6 +6,7 @@ album_name: "Susannah's Still Alive"
 date: 2017-04-28T14:35:43.000000Z
 release_date: ""
 release_id: "1605967"
+apple_music_url: ""
 slug: "susannah-s-still-alive-1605967"
 hideSummary: true
 cover:

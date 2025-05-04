@@ -6,6 +6,7 @@ album_name: "I Against I"
 date: 2024-08-13T04:36:59.000000Z
 release_date: "1986-11-21"
 release_id: "31356778"
+apple_music_url: "https://music.apple.com/gb/album/i-against-i/115821017"
 slug: "i-against-i-31356778"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Pleasure Principle (The First Recordings)"
 date: 2019-10-11T14:37:07.000000Z
 release_date: "1979-09-07"
 release_id: "14245498"
+apple_music_url: "https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089"
 slug: "the-pleasure-principle-the-first-recordings-14245498"
 hideSummary: true
 cover:

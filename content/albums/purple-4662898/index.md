@@ -6,6 +6,7 @@ album_name: "Purple"
 date: 2016-12-24T10:28:37.000000Z
 release_date: "2018-03-16"
 release_id: "4662898"
+apple_music_url: "https://music.apple.com/gb/album/stone-temple-pilots-2018/1340481443"
 slug: "purple-4662898"
 hideSummary: true
 cover:

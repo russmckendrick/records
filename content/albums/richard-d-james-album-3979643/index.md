@@ -6,6 +6,7 @@ album_name: "Richard D. James Album"
 date: 2015-08-09T08:44:17.000000Z
 release_date: "1996-11-04"
 release_id: "3979643"
+apple_music_url: "https://music.apple.com/gb/album/richard-d-james-album/281111401"
 slug: "richard-d-james-album-3979643"
 hideSummary: true
 cover:

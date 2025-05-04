@@ -6,6 +6,7 @@ album_name: "The Masterplan"
 date: 2017-04-22T09:59:49.000000Z
 release_date: "1998-11-03"
 release_id: "1826939"
+apple_music_url: "https://music.apple.com/gb/album/the-masterplan/1517453693"
 slug: "the-masterplan-1826939"
 hideSummary: true
 cover:

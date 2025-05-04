@@ -6,6 +6,7 @@ album_name: "A Light For Attracting Attention"
 date: 2022-06-18T05:47:15.000000Z
 release_date: "2022-05-13"
 release_id: "23608229"
+apple_music_url: "https://music.apple.com/gb/album/a-light-for-attracting-attention/1616902433"
 slug: "a-light-for-attracting-attention-23608229"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fuse"
 date: 2024-12-30T01:10:25.000000Z
 release_date: "1984-09-21"
 release_id: "29013751"
+apple_music_url: "https://music.apple.com/gb/album/fuse/1659426282"
 slug: "fuse-29013751"
 hideSummary: true
 cover:

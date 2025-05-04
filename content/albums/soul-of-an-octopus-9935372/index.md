@@ -6,6 +6,7 @@ album_name: "Soul Of An Octopus"
 date: 2019-01-11T11:11:56.000000Z
 release_date: "2017-02-24"
 release_id: "9935372"
+apple_music_url: "https://music.apple.com/gb/album/soul-of-an-octopus/1202252926"
 slug: "soul-of-an-octopus-9935372"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Star Wars"
 date: 2016-06-20T17:48:46.000000Z
 release_date: "2013-01-01"
 release_id: "8574533"
+apple_music_url: "https://music.apple.com/gb/album/john-williams-star-wars-suite-and-other-film-music/1452597883"
 slug: "star-wars-8574533"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Songs Of Faith And Devotion"
 date: 2016-05-02T11:02:41.000000Z
 release_date: "1993-03-22"
 release_id: "5349924"
+apple_music_url: "https://music.apple.com/gb/album/songs-of-faith-and-devotion/665404898"
 slug: "songs-of-faith-and-devotion-5349924"
 hideSummary: true
 cover:

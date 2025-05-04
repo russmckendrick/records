@@ -6,6 +6,7 @@ album_name: "Ride A Rock Horse"
 date: 2017-05-27T15:35:32.000000Z
 release_date: "1974-09-28"
 release_id: "4105977"
+apple_music_url: "https://music.apple.com/gb/album/odds-sods-deluxe-edition/985617531"
 slug: "ride-a-rock-horse-4105977"
 hideSummary: true
 cover:

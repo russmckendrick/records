@@ -6,6 +6,7 @@ album_name: "Three Sides Live"
 date: 2021-09-03T04:32:37.000000Z
 release_date: "1982-06-01"
 release_id: "1152731"
+apple_music_url: "https://music.apple.com/gb/album/three-sides-live-remastered/254181881"
 slug: "three-sides-live-1152731"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Hail To The Thief"
 date: 2016-07-12T18:11:07.000000Z
 release_date: "2003-06-09"
 release_id: "8638748"
+apple_music_url: "https://music.apple.com/gb/album/hail-to-the-thief/1097863576"
 slug: "hail-to-the-thief-8638748"
 hideSummary: true
 cover:

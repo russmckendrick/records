@@ -6,6 +6,7 @@ album_name: "Pyromania"
 date: 2022-05-09T02:38:44.000000Z
 release_date: "1983-01-20"
 release_id: "23137115"
+apple_music_url: "https://music.apple.com/gb/album/pyromania/1440902935"
 slug: "pyromania-23137115"
 hideSummary: true
 cover:

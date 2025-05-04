@@ -6,6 +6,7 @@ album_name: "Fuzzy Logic"
 date: 2016-11-05T12:25:43.000000Z
 release_date: "1996-05-20"
 release_id: "9302863"
+apple_music_url: "https://music.apple.com/gb/album/fuzzy-logic/1439967206"
 slug: "fuzzy-logic-9302863"
 hideSummary: true
 cover:

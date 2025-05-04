@@ -6,6 +6,7 @@ album_name: "News From The Invisible World"
 date: 2023-08-25T07:07:46.000000Z
 release_date: "2023-07-28"
 release_id: "28073356"
+apple_music_url: "https://music.apple.com/gb/album/news-from-the-invisible-world/1695787531"
 slug: "news-from-the-invisible-world-28073356"
 hideSummary: true
 cover:

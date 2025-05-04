@@ -6,6 +6,7 @@ album_name: "Baby Driver (Music From The Motion Picture)"
 date: 2017-07-21T18:24:57.000000Z
 release_date: ""
 release_id: "10548165"
+apple_music_url: ""
 slug: "baby-driver-music-from-the-motion-picture-10548165"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Everything Was Beautiful, And Nothing Hurt"
 date: 2018-03-02T17:11:33.000000Z
 release_date: "2018-03-02"
 release_id: "11627080"
+apple_music_url: "https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827"
 slug: "everything-was-beautiful-and-nothing-hurt-11627080"
 hideSummary: true
 cover:

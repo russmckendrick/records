@@ -6,6 +6,7 @@ album_name: "The Singles Collection 1979-2012"
 date: 2021-06-07T10:54:19.000000Z
 release_date: "2012-01-01"
 release_id: "16415823"
+apple_music_url: "https://music.apple.com/gb/album/singles-collection-1979-2012/1680128170"
 slug: "the-singles-collection-1979-2012-16415823"
 hideSummary: true
 cover:

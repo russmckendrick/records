@@ -6,6 +6,7 @@ album_name: "I/O (Dark-Side Mixes)"
 date: 2023-12-05T11:03:43.000000Z
 release_date: "2023-04-20"
 release_id: "29077516"
+apple_music_url: "https://music.apple.com/gb/album/i-o-dark-side-mix-single/1679377325"
 slug: "i-o-dark-side-mixes-29077516"
 hideSummary: true
 cover:

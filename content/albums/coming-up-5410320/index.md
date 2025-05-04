@@ -6,6 +6,7 @@ album_name: "Coming Up"
 date: 2016-07-18T17:36:55.000000Z
 release_date: "2011-06-13"
 release_id: "5410320"
+apple_music_url: "https://music.apple.com/gb/album/coming-up-remastered/435030230"
 slug: "coming-up-5410320"
 hideSummary: true
 cover:

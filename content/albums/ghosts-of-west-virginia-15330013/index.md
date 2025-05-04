@@ -6,6 +6,7 @@ album_name: "Ghosts Of West Virginia"
 date: 2020-05-28T17:21:45.000000Z
 release_date: "2020-05-22"
 release_id: "15330013"
+apple_music_url: "https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368"
 slug: "ghosts-of-west-virginia-15330013"
 hideSummary: true
 cover:

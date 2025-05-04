@@ -6,6 +6,7 @@ album_name: "Misplaced Childhood"
 date: 2015-08-15T09:23:09.000000Z
 release_date: "1985-06-17"
 release_id: "913326"
+apple_music_url: "https://music.apple.com/gb/album/misplaced-childhood-2017-remaster/1293277837"
 slug: "misplaced-childhood-913326"
 hideSummary: true
 cover:

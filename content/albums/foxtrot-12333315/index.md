@@ -6,6 +6,7 @@ album_name: "Foxtrot"
 date: 2018-08-03T18:44:42.000000Z
 release_date: "2021-12-10"
 release_id: "12333315"
+apple_music_url: "https://music.apple.com/gb/album/gazzara-plays-genesis-foxtrot/1596485102"
 slug: "foxtrot-12333315"
 hideSummary: true
 cover:

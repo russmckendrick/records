@@ -6,6 +6,7 @@ album_name: "Special"
 date: 2020-08-02T13:46:01.000000Z
 release_date: "1982"
 release_id: "970900"
+apple_music_url: "https://music.apple.com/gb/album/special/185718171"
 slug: "special-970900"
 hideSummary: true
 cover:

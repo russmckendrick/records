@@ -6,6 +6,7 @@ album_name: "Closure / Continuation"
 date: 2022-06-27T05:55:00.000000Z
 release_date: "2022-06-24"
 release_id: "23687546"
+apple_music_url: "https://music.apple.com/gb/album/closure-continuation/1592522261"
 slug: "closure-continuation-23687546"
 hideSummary: true
 cover:

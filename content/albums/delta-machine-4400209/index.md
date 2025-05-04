@@ -6,6 +6,7 @@ album_name: "Delta Machine"
 date: 2017-02-22T18:02:39.000000Z
 release_date: "2013-03-22"
 release_id: "4400209"
+apple_music_url: "https://music.apple.com/gb/album/delta-machine/594094332"
 slug: "delta-machine-4400209"
 hideSummary: true
 cover:

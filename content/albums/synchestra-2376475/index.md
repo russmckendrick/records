@@ -6,6 +6,7 @@ album_name: "Synchestra"
 date: 2016-07-11T17:14:49.000000Z
 release_date: "2006-01-27"
 release_id: "2376475"
+apple_music_url: "https://music.apple.com/gb/album/synchestra/1045644245"
 slug: "synchestra-2376475"
 hideSummary: true
 cover:

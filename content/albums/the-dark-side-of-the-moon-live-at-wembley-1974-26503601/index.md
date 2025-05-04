@@ -6,6 +6,7 @@ album_name: "The Dark Side Of The Moon (Live At Wembley 1974)"
 date: 2023-03-24T06:22:53.000000Z
 release_date: "2023-03-24"
 release_id: "26503601"
+apple_music_url: "https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827"
 slug: "the-dark-side-of-the-moon-live-at-wembley-1974-26503601"
 hideSummary: true
 cover:

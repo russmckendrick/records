@@ -6,6 +6,7 @@ album_name: "Ten"
 date: 2016-11-08T18:43:42.000000Z
 release_date: "2024-04-19"
 release_id: "1704831"
+apple_music_url: "https://music.apple.com/gb/album/dark-matter/1730087669"
 slug: "ten-1704831"
 hideSummary: true
 cover:

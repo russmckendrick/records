@@ -6,6 +6,7 @@ album_name: "LSXX"
 date: 2016-12-19T17:51:03.000000Z
 release_date: ""
 release_id: "4889732"
+apple_music_url: ""
 slug: "lsxx-4889732"
 hideSummary: true
 cover:

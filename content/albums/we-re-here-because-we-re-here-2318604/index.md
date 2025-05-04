@@ -6,6 +6,7 @@ album_name: "We're Here Because We're Here"
 date: 2016-01-25T18:19:24.000000Z
 release_date: "2010-05-31"
 release_id: "2318604"
+apple_music_url: "https://music.apple.com/gb/album/were-here-because-were-here/369025308"
 slug: "we-re-here-because-we-re-here-2318604"
 hideSummary: true
 cover:

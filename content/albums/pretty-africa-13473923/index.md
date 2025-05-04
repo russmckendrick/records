@@ -6,6 +6,7 @@ album_name: "Pretty Africa"
 date: 2019-04-16T16:23:57.000000Z
 release_date: "2000-07-28"
 release_id: "13473923"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-desmond-dekker/1436086515"
 slug: "pretty-africa-13473923"
 hideSummary: true
 cover:

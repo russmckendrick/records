@@ -6,6 +6,7 @@ album_name: "Bizarro"
 date: 2020-10-11T08:09:26.000000Z
 release_date: "1989-10-23"
 release_id: "16038548"
+apple_music_url: "https://music.apple.com/gb/album/bizarro/211455153"
 slug: "bizarro-16038548"
 hideSummary: true
 cover:

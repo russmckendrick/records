@@ -6,6 +6,7 @@ album_name: "The Final Cut"
 date: 2017-01-20T17:07:48.000000Z
 release_date: "1983-03-21"
 release_id: "9658690"
+apple_music_url: "https://music.apple.com/gb/album/the-final-cut/719121288"
 slug: "the-final-cut-9658690"
 hideSummary: true
 cover:

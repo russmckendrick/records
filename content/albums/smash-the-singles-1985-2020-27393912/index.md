@@ -6,6 +6,7 @@ album_name: "Smash (The Singles 1985-2020)"
 date: 2023-06-16T09:59:40.000000Z
 release_date: "2023-06-16"
 release_id: "27393912"
+apple_music_url: "https://music.apple.com/gb/album/smash-the-singles-1985-2020-2023-remaster/1678986191"
 slug: "smash-the-singles-1985-2020-27393912"
 hideSummary: true
 cover:

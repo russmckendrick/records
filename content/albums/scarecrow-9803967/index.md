@@ -6,6 +6,7 @@ album_name: "Scarecrow"
 date: 2020-08-01T12:50:26.000000Z
 release_date: "1987-08-24"
 release_id: "9803967"
+apple_music_url: "https://music.apple.com/gb/album/the-lonesome-jubilee-bonus-track-2005-remaster/1440756030"
 slug: "scarecrow-9803967"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Construction Time Again"
 date: 2017-02-13T18:30:21.000000Z
 release_date: "1983-08-22"
 release_id: "8953117"
+apple_music_url: "https://music.apple.com/gb/album/construction-time-again/665403451"
 slug: "construction-time-again-8953117"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "ATUM (A Rock Opera In Three Acts)"
 date: 2023-05-12T02:09:32.000000Z
 release_date: "2000-02-29"
 release_id: "26984012"
+apple_music_url: "https://music.apple.com/us/album/atum/1644219042"
 slug: "atum-a-rock-opera-in-three-acts-26984012"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Pure Phase"
 date: 2021-06-24T02:46:36.000000Z
 release_date: "1995-03-28"
 release_id: "19066723"
+apple_music_url: "https://music.apple.com/gb/album/pure-phase/1502468694"
 slug: "pure-phase-19066723"
 hideSummary: true
 cover:

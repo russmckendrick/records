@@ -6,6 +6,7 @@ album_name: "The Dark Side Of The Moon"
 date: 2016-11-05T12:42:27.000000Z
 release_date: "2009-12-22"
 release_id: "9287809"
+apple_music_url: "https://music.apple.com/gb/album/the-dark-side-of-the-moon/1233884854"
 slug: "the-dark-side-of-the-moon-9287809"
 hideSummary: true
 cover:

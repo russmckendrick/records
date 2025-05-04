@@ -6,6 +6,7 @@ album_name: "Life"
 date: 2021-11-22T01:21:47.000000Z
 release_date: "1990-04-23"
 release_id: "21039049"
+apple_music_url: "https://music.apple.com/gb/album/life/1435629068"
 slug: "life-21039049"
 hideSummary: true
 cover:

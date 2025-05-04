@@ -6,6 +6,7 @@ album_name: "Stainless Style"
 date: 2016-10-09T08:27:26.000000Z
 release_date: "2008-08-18"
 release_id: "1287707"
+apple_music_url: "https://music.apple.com/gb/album/stainless-style/1601513716"
 slug: "stainless-style-1287707"
 hideSummary: true
 cover:

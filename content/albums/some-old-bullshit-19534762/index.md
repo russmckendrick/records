@@ -6,6 +6,7 @@ album_name: "Some Old Bullshit"
 date: 2022-04-15T08:50:12.000000Z
 release_date: "1994-02-08"
 release_id: "19534762"
+apple_music_url: "https://music.apple.com/gb/album/some-old-b-t/724689773"
 slug: "some-old-bullshit-19534762"
 hideSummary: true
 cover:

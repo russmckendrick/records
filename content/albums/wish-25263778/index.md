@@ -6,6 +6,7 @@ album_name: "Wish"
 date: 2022-11-30T06:22:41.000000Z
 release_date: "2017-04-16"
 release_id: "25263778"
+apple_music_url: "https://music.apple.com/gb/album/the-cure-single/1445051390"
 slug: "wish-25263778"
 hideSummary: true
 cover:

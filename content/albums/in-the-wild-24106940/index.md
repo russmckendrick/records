@@ -6,6 +6,7 @@ album_name: "In The Wild"
 date: 2022-09-07T11:53:30.000000Z
 release_date: "2023-04-28"
 release_id: "24106940"
+apple_music_url: "https://music.apple.com/gb/album/in-the-wild-deluxe-edition/1680571234"
 slug: "in-the-wild-24106940"
 hideSummary: true
 cover:

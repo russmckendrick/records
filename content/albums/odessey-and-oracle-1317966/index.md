@@ -6,6 +6,7 @@ album_name: "Odessey And Oracle"
 date: 2018-07-13T19:26:23.000000Z
 release_date: "1968-04-19"
 release_id: "1317966"
+apple_music_url: "https://music.apple.com/gb/album/odessey-and-oracle/1719880807"
 slug: "odessey-and-oracle-1317966"
 hideSummary: true
 cover:

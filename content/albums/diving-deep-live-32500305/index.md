@@ -6,6 +6,7 @@ album_name: "Diving Deep Live"
 date: 2024-12-07T08:40:16.000000Z
 release_date: "2024-12-06"
 release_id: "32500305"
+apple_music_url: "https://music.apple.com/gb/album/diving-deep-live/1773966331"
 slug: "diving-deep-live-32500305"
 hideSummary: true
 cover:

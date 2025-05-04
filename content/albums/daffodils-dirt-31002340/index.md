@@ -6,6 +6,7 @@ album_name: "Daffodils & Dirt"
 date: 2024-07-02T10:28:08.000000Z
 release_date: "2024-06-14"
 release_id: "31002340"
+apple_music_url: "https://music.apple.com/gb/album/daffodils-dirt/1734380827"
 slug: "daffodils-dirt-31002340"
 hideSummary: true
 cover:

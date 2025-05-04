@@ -6,6 +6,7 @@ album_name: "Before The Grey Lantern"
 date: 2023-05-04T11:16:20.000000Z
 release_date: "2017-08-25"
 release_id: "26854388"
+apple_music_url: "https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521"
 slug: "before-the-grey-lantern-26854388"
 hideSummary: true
 cover:

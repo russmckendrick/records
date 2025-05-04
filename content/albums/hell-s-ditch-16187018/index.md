@@ -6,6 +6,7 @@ album_name: "Hell's Ditch"
 date: 2021-02-09T07:30:16.000000Z
 release_date: "1990-11-06"
 release_id: "16187018"
+apple_music_url: "https://music.apple.com/gb/album/hells-ditch-expanded-edition/189232803"
 slug: "hell-s-ditch-16187018"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Greatest Hits Volume One - A Slight Case Of Overbombing"
 date: 2018-06-21T18:16:52.000000Z
 release_date: "1993-08-23"
 release_id: "12129846"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits-vol-one-a-slight-case-of/1384587799"
 slug: "greatest-hits-volume-one-a-slight-case-of-overbombing-12129846"
 hideSummary: true
 cover:

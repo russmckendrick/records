@@ -6,6 +6,7 @@ album_name: "Larks' Tongues In Aspic"
 date: 2017-02-19T10:40:42.000000Z
 release_date: "1973-03-23"
 release_id: "9596844"
+apple_music_url: "https://music.apple.com/gb/album/larks-tongues-in-aspic-expanded-edition/918568338"
 slug: "larks-tongues-in-aspic-9596844"
 hideSummary: true
 cover:

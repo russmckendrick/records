@@ -6,6 +6,7 @@ album_name: "Stacked Up XX"
 date: 2020-02-14T18:06:47.000000Z
 release_date: "1995"
 release_id: "6329282"
+apple_music_url: "https://music.apple.com/gb/album/senser-stacked-up-xx/924017824"
 slug: "stacked-up-xx-6329282"
 hideSummary: true
 cover:

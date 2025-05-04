@@ -6,6 +6,7 @@ album_name: "Tom Tom Club"
 date: 2020-08-28T10:17:31.000000Z
 release_date: "2019-12-12"
 release_id: "15787593"
+apple_music_url: "https://music.apple.com/gb/album/tom-tom-club-single/1488377012"
 slug: "tom-tom-club-15787593"
 hideSummary: true
 cover:

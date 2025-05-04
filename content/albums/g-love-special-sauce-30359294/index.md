@@ -6,6 +6,7 @@ album_name: "G. Love & Special Sauce"
 date: 2024-12-15T05:12:57.000000Z
 release_date: "1994-05-05"
 release_id: "30359294"
+apple_music_url: "https://music.apple.com/gb/album/g-love-and-special-sauce/158469825"
 slug: "g-love-special-sauce-30359294"
 hideSummary: true
 cover:

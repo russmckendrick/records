@@ -6,6 +6,7 @@ album_name: "Box Frenzy"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "1987-10-26"
 release_id: "72193"
+apple_music_url: "https://music.apple.com/gb/album/box-frenzy/1577748309"
 slug: "box-frenzy-72193"
 hideSummary: true
 cover:

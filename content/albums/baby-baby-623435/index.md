@@ -6,6 +6,7 @@ album_name: "Baby Baby"
 date: 2020-08-01T12:45:57.000000Z
 release_date: "2024-03-10"
 release_id: "623435"
+apple_music_url: "https://music.apple.com/gb/album/heart-in-motion/1440832797"
 slug: "baby-baby-623435"
 hideSummary: true
 cover:

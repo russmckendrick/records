@@ -6,6 +6,7 @@ album_name: "Tron (Original Motion Picture Soundtrack)"
 date: 2015-08-09T08:39:19.000000Z
 release_date: "1982-07-09"
 release_id: "6035147"
+apple_music_url: "https://music.apple.com/gb/album/tron-original-motion-picture-soundtrack/1443890451"
 slug: "tron-original-motion-picture-soundtrack-6035147"
 hideSummary: true
 cover:

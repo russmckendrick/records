@@ -6,6 +6,7 @@ album_name: "Tapestry"
 date: 2017-03-08T19:54:35.000000Z
 release_date: "1971-02-10"
 release_id: "8211921"
+apple_music_url: "https://music.apple.com/gb/album/tapestry/747087657"
 slug: "tapestry-8211921"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Strange Ones 1994-2008 "
 date: 2020-01-27T18:32:05.000000Z
 release_date: "2020-01-24"
 release_id: "14711503"
+apple_music_url: "https://music.apple.com/gb/album/the-strange-ones-1994-2008/1494041804"
 slug: "the-strange-ones-1994-2008-14711503"
 hideSummary: true
 cover:

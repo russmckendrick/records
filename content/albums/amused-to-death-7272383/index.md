@@ -6,6 +6,7 @@ album_name: "Amused To Death"
 date: 2015-08-09T08:41:16.000000Z
 release_date: "1992-09-01"
 release_id: "7272383"
+apple_music_url: "https://music.apple.com/gb/album/amused-to-death/975952384"
 slug: "amused-to-death-7272383"
 hideSummary: true
 cover:

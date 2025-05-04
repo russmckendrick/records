@@ -6,6 +6,7 @@ album_name: "The Man (The Best Of Elvis Costello)"
 date: 2025-02-05T01:19:09.000000Z
 release_date: ""
 release_id: "15119658"
+apple_music_url: ""
 slug: "the-man-the-best-of-elvis-costello-15119658"
 hideSummary: true
 cover:

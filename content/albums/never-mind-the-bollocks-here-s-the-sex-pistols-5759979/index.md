@@ -6,6 +6,7 @@ album_name: "Never Mind The Bollocks, Here's The Sex Pistols"
 date: 2016-04-18T16:17:07.000000Z
 release_date: "1977-10"
 release_id: "5759979"
+apple_music_url: "https://music.apple.com/gb/album/never-mind-the-bollocks-heres-the-sex-pistols/1440810369"
 slug: "never-mind-the-bollocks-here-s-the-sex-pistols-5759979"
 hideSummary: true
 cover:

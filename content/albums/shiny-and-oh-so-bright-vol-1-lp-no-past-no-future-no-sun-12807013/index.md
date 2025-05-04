@@ -6,6 +6,7 @@ album_name: "Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun"
 date: 2018-12-04T21:19:32.000000Z
 release_date: "2018-11-16"
 release_id: "12807013"
+apple_music_url: "https://music.apple.com/gb/album/shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun/1443128413"
 slug: "shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun-12807013"
 hideSummary: true
 cover:

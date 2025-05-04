@@ -6,6 +6,7 @@ album_name: "Flibbiddydibbiddydob"
 date: 2020-01-03T18:30:41.000000Z
 release_date: ""
 release_id: "1178217"
+apple_music_url: ""
 slug: "flibbiddydibbiddydob-1178217"
 hideSummary: true
 cover:

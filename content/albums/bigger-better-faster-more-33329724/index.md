@@ -6,6 +6,7 @@ album_name: "Bigger, Better, Faster, More!"
 date: 2025-03-09T05:30:03.000000Z
 release_date: "1992-10-13"
 release_id: "33329724"
+apple_music_url: "https://music.apple.com/gb/album/bigger-better-faster-more/1440902342"
 slug: "bigger-better-faster-more-33329724"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Garage Inc."
 date: 2024-04-09T04:37:40.000000Z
 release_date: "1998-11-23"
 release_id: "30309152"
+apple_music_url: "https://music.apple.com/gb/album/garage-inc/1440857173"
 slug: "garage-inc-30309152"
 hideSummary: true
 cover:

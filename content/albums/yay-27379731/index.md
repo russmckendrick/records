@@ -6,6 +6,7 @@ album_name: "Yay!"
 date: 2023-12-29T04:33:43.000000Z
 release_date: "2023-06-16"
 release_id: "27379731"
+apple_music_url: "https://music.apple.com/gb/album/yay/1679980516"
 slug: "yay-27379731"
 hideSummary: true
 cover:

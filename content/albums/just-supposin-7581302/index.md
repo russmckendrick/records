@@ -6,6 +6,7 @@ album_name: "Just Supposin'..."
 date: 2016-05-23T18:28:47.000000Z
 release_date: "1980"
 release_id: "7581302"
+apple_music_url: "https://music.apple.com/gb/album/just-supposin/1442217378"
 slug: "just-supposin-7581302"
 hideSummary: true
 cover:

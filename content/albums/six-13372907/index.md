@@ -6,6 +6,7 @@ album_name: "Six"
 date: 2019-03-21T19:31:02.000000Z
 release_date: "1998-09-07"
 release_id: "13372907"
+apple_music_url: "https://music.apple.com/gb/album/six/1770063407"
 slug: "six-13372907"
 hideSummary: true
 cover:

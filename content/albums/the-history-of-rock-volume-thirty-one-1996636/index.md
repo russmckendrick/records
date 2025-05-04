@@ -6,6 +6,7 @@ album_name: "The History Of Rock (Volume Thirty One)"
 date: 2018-12-28T17:39:26.000000Z
 release_date: ""
 release_id: "1996636"
+apple_music_url: ""
 slug: "the-history-of-rock-volume-thirty-one-1996636"
 hideSummary: true
 cover:

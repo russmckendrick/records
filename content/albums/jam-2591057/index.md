@@ -6,6 +6,7 @@ album_name: "Jam"
 date: 2016-04-15T18:22:14.000000Z
 release_date: "2023-02-21"
 release_id: "2591057"
+apple_music_url: "https://music.apple.com/gb/album/valentines-day-poop-jams/1673801865"
 slug: "jam-2591057"
 hideSummary: true
 cover:

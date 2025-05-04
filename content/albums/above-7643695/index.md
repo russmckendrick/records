@@ -6,6 +6,7 @@ album_name: "Above"
 date: 2016-12-30T11:09:56.000000Z
 release_date: "2012-04-27"
 release_id: "7643695"
+apple_music_url: "https://music.apple.com/gb/album/mad-season-above-ep/1128474786"
 slug: "above-7643695"
 hideSummary: true
 cover:

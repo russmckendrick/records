@@ -6,6 +6,7 @@ album_name: "Yoshimi Battles The Pink Robots"
 date: 2015-08-09T08:34:04.000000Z
 release_date: "2002-07-16"
 release_id: "623525"
+apple_music_url: "https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816"
 slug: "yoshimi-battles-the-pink-robots-623525"
 hideSummary: true
 cover:

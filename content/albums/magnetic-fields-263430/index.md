@@ -6,6 +6,7 @@ album_name: "Magnetic Fields"
 date: 2017-06-14T07:25:40.000000Z
 release_date: "1981-05-22"
 release_id: "263430"
+apple_music_url: "https://music.apple.com/gb/album/les-chants-magn%C3%A9tiques-magnetic-fields/1719812406"
 slug: "magnetic-fields-263430"
 hideSummary: true
 cover:

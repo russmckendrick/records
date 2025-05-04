@@ -6,6 +6,7 @@ album_name: "We Ascend"
 date: 2024-07-21T03:36:08.000000Z
 release_date: "2024-07-12"
 release_id: "31279829"
+apple_music_url: "https://music.apple.com/gb/album/we-ascend-ep/1749269552"
 slug: "we-ascend-31279829"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Resurrectionists"
 date: 2019-05-01T17:55:15.000000Z
 release_date: "2009-01-01"
 release_id: "13562698"
+apple_music_url: "https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610"
 slug: "the-resurrectionists-13562698"
 hideSummary: true
 cover:

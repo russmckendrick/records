@@ -6,6 +6,7 @@ album_name: "Crash! Boom! Bang!"
 date: 2025-01-22T06:07:43.000000Z
 release_date: ""
 release_id: "32490318"
+apple_music_url: ""
 slug: "crash-boom-bang-32490318"
 hideSummary: true
 cover:

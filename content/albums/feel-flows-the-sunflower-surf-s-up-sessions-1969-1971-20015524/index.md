@@ -6,6 +6,7 @@ album_name: "Feel Flows (The Sunflower & Surf's Up Sessions • 1969 - 1971)"
 date: 2022-09-04T03:41:11.000000Z
 release_date: "2021-07-30"
 release_id: "20015524"
+apple_music_url: "https://music.apple.com/gb/album/feel-flows-the-sunflower-surfs-up-sessions-1969-1971/1570550016"
 slug: "feel-flows-the-sunflower-surf-s-up-sessions-1969-1971-20015524"
 hideSummary: true
 cover:

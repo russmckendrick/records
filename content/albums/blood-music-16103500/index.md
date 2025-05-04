@@ -6,6 +6,7 @@ album_name: "Blood Music"
 date: 2021-06-17T04:14:42.000000Z
 release_date: "1993-09-06"
 release_id: "16103500"
+apple_music_url: "https://music.apple.com/gb/album/blood-music/351372160"
 slug: "blood-music-16103500"
 hideSummary: true
 cover:

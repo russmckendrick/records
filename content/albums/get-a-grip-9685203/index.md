@@ -6,6 +6,7 @@ album_name: "Get A Grip"
 date: 2018-01-09T18:32:41.000000Z
 release_date: "1993-04-20"
 release_id: "9685203"
+apple_music_url: "https://music.apple.com/gb/album/get-a-grip/1680799198"
 slug: "get-a-grip-9685203"
 hideSummary: true
 cover:

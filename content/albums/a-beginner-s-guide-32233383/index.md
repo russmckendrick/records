@@ -6,6 +6,7 @@ album_name: "A Beginner's Guide"
 date: 2024-11-09T04:35:49.000000Z
 release_date: "2024-11-08"
 release_id: "32233383"
+apple_music_url: "https://music.apple.com/gb/album/a-beginners-guide-best-of/1771850068"
 slug: "a-beginner-s-guide-32233383"
 hideSummary: true
 cover:

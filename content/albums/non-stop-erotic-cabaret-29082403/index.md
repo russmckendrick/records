@@ -6,6 +6,7 @@ album_name: "Non-Stop Erotic Cabaret"
 date: 2023-12-05T10:36:02.000000Z
 release_date: "1981-11-27"
 release_id: "29082403"
+apple_music_url: "https://music.apple.com/gb/album/non-stop-erotic-cabaret-deluxe-edition/1704336062"
 slug: "non-stop-erotic-cabaret-29082403"
 hideSummary: true
 cover:

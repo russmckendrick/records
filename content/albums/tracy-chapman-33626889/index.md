@@ -6,6 +6,7 @@ album_name: "Tracy Chapman"
 date: 2025-04-09T03:46:07.000000Z
 release_date: "1988-04-05"
 release_id: "33626889"
+apple_music_url: "https://music.apple.com/gb/album/tracy-chapman/79565550"
 slug: "tracy-chapman-33626889"
 hideSummary: true
 cover:

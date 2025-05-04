@@ -6,6 +6,7 @@ album_name: "For The Music"
 date: 2021-02-08T05:19:16.000000Z
 release_date: "2020-12-04"
 release_id: "16348308"
+apple_music_url: "https://music.apple.com/gb/album/for-the-music/1531752115"
 slug: "for-the-music-16348308"
 hideSummary: true
 cover:

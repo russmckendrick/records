@@ -6,6 +6,7 @@ album_name: "Big Bad Luv"
 date: 2017-05-16T18:14:51.000000Z
 release_date: "2017-05-05"
 release_id: "10237520"
+apple_music_url: "https://music.apple.com/gb/album/big-bad-luv/1202947181"
 slug: "big-bad-luv-10237520"
 hideSummary: true
 cover:

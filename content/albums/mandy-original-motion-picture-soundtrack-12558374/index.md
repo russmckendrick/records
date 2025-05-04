@@ -6,6 +6,7 @@ album_name: "Mandy (Original Motion Picture Soundtrack)"
 date: 2018-09-22T10:00:40.000000Z
 release_date: "2018-09-14"
 release_id: "12558374"
+apple_music_url: "https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378"
 slug: "mandy-original-motion-picture-soundtrack-12558374"
 hideSummary: true
 cover:

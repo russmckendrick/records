@@ -6,6 +6,7 @@ album_name: "Bottled Out Of Eden"
 date: 2016-05-05T05:36:07.000000Z
 release_date: "2016-04-22"
 release_id: "8464989"
+apple_music_url: "https://music.apple.com/gb/album/bottled-out-of-eden/1087654773"
 slug: "bottled-out-of-eden-8464989"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rodrigo Y Gabriela"
 date: 2017-06-04T10:36:02.000000Z
 release_date: "2006-02-19"
 release_id: "10381339"
+apple_music_url: "https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458"
 slug: "rodrigo-y-gabriela-10381339"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "After The Rain"
 date: 2017-07-11T08:45:32.000000Z
 release_date: "2010-12-03"
 release_id: "1841300"
+apple_music_url: "https://music.apple.com/gb/album/before-the-rain/1612736673"
 slug: "after-the-rain-1841300"
 hideSummary: true
 cover:

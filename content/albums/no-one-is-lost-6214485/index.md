@@ -6,6 +6,7 @@ album_name: "No One Is Lost"
 date: 2017-06-27T18:05:54.000000Z
 release_date: "2014-10-13"
 release_id: "6214485"
+apple_music_url: "https://music.apple.com/gb/album/no-one-is-lost/908536655"
 slug: "no-one-is-lost-6214485"
 hideSummary: true
 cover:

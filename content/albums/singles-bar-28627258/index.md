@@ -6,6 +6,7 @@ album_name: "Singles Bar"
 date: 2023-10-18T10:51:19.000000Z
 release_date: "1994-01-01"
 release_id: "28627258"
+apple_music_url: "https://music.apple.com/gb/album/singles-bar/1442598236"
 slug: "singles-bar-28627258"
 hideSummary: true
 cover:

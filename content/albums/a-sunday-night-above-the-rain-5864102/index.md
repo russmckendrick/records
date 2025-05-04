@@ -6,6 +6,7 @@ album_name: "A Sunday Night Above The Rain"
 date: 2021-11-02T03:32:11.000000Z
 release_date: "2014-06-17"
 release_id: "5864102"
+apple_music_url: "https://music.apple.com/gb/album/a-sunday-night-above-the-rain-live/1192675833"
 slug: "a-sunday-night-above-the-rain-5864102"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Delicate Sound Of Thunder"
 date: 2020-11-20T13:03:04.000000Z
 release_date: "1988-11-22"
 release_id: "16238858"
+apple_music_url: "https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967"
 slug: "delicate-sound-of-thunder-16238858"
 hideSummary: true
 cover:

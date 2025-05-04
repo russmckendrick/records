@@ -6,6 +6,7 @@ album_name: "Architecture & Morality"
 date: 2018-11-03T09:51:44.000000Z
 release_date: "1980-02-22"
 release_id: "12747035"
+apple_music_url: "https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396"
 slug: "architecture-morality-12747035"
 hideSummary: true
 cover:

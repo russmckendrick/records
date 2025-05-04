@@ -6,6 +6,7 @@ album_name: "Tago Mago"
 date: 2019-11-09T07:34:00.000000Z
 release_date: "2023-01-27"
 release_id: "14372959"
+apple_music_url: "https://music.apple.com/gb/album/tago-mago-single/1665637351"
 slug: "tago-mago-14372959"
 hideSummary: true
 cover:

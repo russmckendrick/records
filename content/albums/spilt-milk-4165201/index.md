@@ -6,6 +6,7 @@ album_name: "Spilt Milk"
 date: 2016-02-07T10:23:21.000000Z
 release_date: "1993-02-09"
 release_id: "4165201"
+apple_music_url: "https://music.apple.com/gb/album/spilt-milk-remastered/1713115869"
 slug: "spilt-milk-4165201"
 hideSummary: true
 cover:

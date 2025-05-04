@@ -6,6 +6,7 @@ album_name: "Fear Of Music"
 date: 2017-11-03T18:38:56.000000Z
 release_date: "1979-08-03"
 release_id: "4728034"
+apple_music_url: "https://music.apple.com/gb/album/fear-of-music/300965520"
 slug: "fear-of-music-4728034"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Adventures Of A Reluctant Superhero"
 date: 2019-08-11T14:23:25.000000Z
 release_date: "2019-08-09"
 release_id: "13986143"
+apple_music_url: "https://music.apple.com/gb/album/adventures-of-a-reluctant-superhero/1470643068"
 slug: "adventures-of-a-reluctant-superhero-13986143"
 hideSummary: true
 cover:

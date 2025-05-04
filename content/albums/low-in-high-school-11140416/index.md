@@ -6,6 +6,7 @@ album_name: "Low In High School"
 date: 2017-11-17T16:42:09.000000Z
 release_date: "2017-11-17"
 release_id: "11140416"
+apple_music_url: "https://music.apple.com/gb/album/low-in-high-school/1713856303"
 slug: "low-in-high-school-11140416"
 hideSummary: true
 cover:

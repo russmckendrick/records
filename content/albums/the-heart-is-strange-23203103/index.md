@@ -6,6 +6,7 @@ album_name: "The Heart Is Strange"
 date: 2022-05-28T05:40:45.000000Z
 release_date: "2022-04-29"
 release_id: "23203103"
+apple_music_url: "https://music.apple.com/gb/album/the-heart-is-strange/1622746376"
 slug: "the-heart-is-strange-23203103"
 hideSummary: true
 cover:

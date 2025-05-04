@@ -6,6 +6,7 @@ album_name: "Dog Man Star"
 date: 2016-10-01T10:34:12.000000Z
 release_date: "1994-10-10"
 release_id: "5448646"
+apple_music_url: "https://music.apple.com/gb/album/dog-man-star-remastered/435029097"
 slug: "dog-man-star-5448646"
 hideSummary: true
 cover:

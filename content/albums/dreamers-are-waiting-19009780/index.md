@@ -6,6 +6,7 @@ album_name: "Dreamers Are Waiting"
 date: 2021-06-04T06:26:22.000000Z
 release_date: "2021-06-04"
 release_id: "19009780"
+apple_music_url: "https://music.apple.com/gb/album/dreamers-are-waiting/1536857014"
 slug: "dreamers-are-waiting-19009780"
 hideSummary: true
 cover:

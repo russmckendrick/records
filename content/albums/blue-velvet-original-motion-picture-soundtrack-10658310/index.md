@@ -6,6 +6,7 @@ album_name: "Blue Velvet (Original Motion Picture Soundtrack)"
 date: 2017-09-08T18:25:49.000000Z
 release_date: "2014-01-28"
 release_id: "10658310"
+apple_music_url: "https://music.apple.com/gb/album/stalingrad-original-motion-picture-soundtrack/1558580900"
 slug: "blue-velvet-original-motion-picture-soundtrack-10658310"
 hideSummary: true
 cover:

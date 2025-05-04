@@ -6,6 +6,7 @@ album_name: "Love & Poison (Live At The Brixton Academy, 16th May 1993)"
 date: 2021-06-18T04:51:34.000000Z
 release_date: "2021-06-12"
 release_id: "19107601"
+apple_music_url: "https://music.apple.com/gb/album/love-poison-live-at-the-brixton-academy-16th-may-1993/1569041269"
 slug: "love-poison-live-at-the-brixton-academy-16th-may-1993-19107601"
 hideSummary: true
 cover:

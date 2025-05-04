@@ -6,6 +6,7 @@ album_name: "Beneath The Eyrie"
 date: 2019-09-15T11:58:43.000000Z
 release_date: "2019-09-13"
 release_id: "14095957"
+apple_music_url: "https://music.apple.com/gb/album/beneath-the-eyrie-deluxe/1496620934"
 slug: "beneath-the-eyrie-14095957"
 hideSummary: true
 cover:

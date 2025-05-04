@@ -6,6 +6,7 @@ album_name: "Test For Echo"
 date: 2017-02-27T13:59:57.000000Z
 release_date: "1996-09-10"
 release_id: "7684234"
+apple_music_url: "https://music.apple.com/gb/album/test-for-echo/642222761"
 slug: "test-for-echo-7684234"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "154"
 date: 2018-12-22T10:27:25.000000Z
 release_date: "1979-01-09"
 release_id: "12173889"
+apple_music_url: "https://music.apple.com/gb/album/154/1330595261"
 slug: "154-12173889"
 hideSummary: true
 cover:

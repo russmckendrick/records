@@ -6,6 +6,7 @@ album_name: "In The Moment That You're Born"
 date: 2023-08-19T02:02:11.000000Z
 release_date: "2023-07-28"
 release_id: "27812124"
+apple_music_url: "https://music.apple.com/gb/album/in-the-moment-that-youre-born/1682510716"
 slug: "in-the-moment-that-you-re-born-27812124"
 hideSummary: true
 cover:

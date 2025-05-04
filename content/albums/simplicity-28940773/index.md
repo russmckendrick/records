@@ -6,6 +6,7 @@ album_name: "Simplicity"
 date: 2023-11-18T03:42:21.000000Z
 release_date: "2023-11-17"
 release_id: "28940773"
+apple_music_url: "https://music.apple.com/gb/album/simplicity/1704000903"
 slug: "simplicity-28940773"
 hideSummary: true
 cover:

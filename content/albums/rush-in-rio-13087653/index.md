@@ -6,6 +6,7 @@ album_name: "Rush In Rio"
 date: 2019-01-19T09:37:16.000000Z
 release_date: "2003-10-21"
 release_id: "13087653"
+apple_music_url: "https://music.apple.com/gb/album/rush-in-rio-live/5305450"
 slug: "rush-in-rio-13087653"
 hideSummary: true
 cover:

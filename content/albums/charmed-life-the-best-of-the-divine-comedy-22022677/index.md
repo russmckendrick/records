@@ -6,6 +6,7 @@ album_name: "Charmed Life (The Best Of The Divine Comedy)"
 date: 2022-02-04T09:20:07.000000Z
 release_date: "1999-09-21"
 release_id: "22022677"
+apple_music_url: "https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy/1594485729"
 slug: "charmed-life-the-best-of-the-divine-comedy-22022677"
 hideSummary: true
 cover:

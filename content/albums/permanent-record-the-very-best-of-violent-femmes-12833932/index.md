@@ -6,6 +6,7 @@ album_name: "Permanent Record: The Very Best Of Violent Femmes"
 date: 2018-12-17T14:42:25.000000Z
 release_date: "2005-07-12"
 release_id: "12833932"
+apple_music_url: "https://music.apple.com/gb/album/permanent-record-the-very-best-of-the-violent-femmes/1567635436"
 slug: "permanent-record-the-very-best-of-violent-femmes-12833932"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Cracked Rear View"
 date: 2023-07-08T10:37:29.000000Z
 release_date: "2003-03-04"
 release_id: "27617181"
+apple_music_url: "https://music.apple.com/gb/album/hootie-the-blowfish/764040901"
 slug: "cracked-rear-view-27617181"
 hideSummary: true
 cover:

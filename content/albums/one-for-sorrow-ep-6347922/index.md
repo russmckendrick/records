@@ -6,6 +6,7 @@ album_name: "One For Sorrow EP"
 date: 2016-10-19T17:04:32.000000Z
 release_date: "2014-11-03"
 release_id: "6347922"
+apple_music_url: "https://music.apple.com/gb/album/one-for-sorrow-ep/909495393"
 slug: "one-for-sorrow-ep-6347922"
 hideSummary: true
 cover:

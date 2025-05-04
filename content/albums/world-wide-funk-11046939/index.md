@@ -6,6 +6,7 @@ album_name: "World Wide Funk"
 date: 2017-10-28T15:15:18.000000Z
 release_date: "2017-10-27"
 release_id: "11046939"
+apple_music_url: "https://music.apple.com/gb/album/world-wide-funk/1600467754"
 slug: "world-wide-funk-11046939"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Hounds Of Love"
 date: 2021-07-26T03:59:07.000000Z
 release_date: "1985-09-16"
 release_id: "19605145"
+apple_music_url: "https://music.apple.com/gb/album/hounds-of-love/1675375084"
 slug: "hounds-of-love-19605145"
 hideSummary: true
 cover:

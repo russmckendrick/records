@@ -6,6 +6,7 @@ album_name: "Violator"
 date: 2016-04-30T15:20:34.000000Z
 release_date: "1990-03-19"
 release_id: "5529916"
+apple_music_url: "https://music.apple.com/gb/album/violator/665404621"
 slug: "violator-5529916"
 hideSummary: true
 cover:

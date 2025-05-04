@@ -6,6 +6,7 @@ album_name: "Everything Is Connected (The Best Of Blancmange 1979-2024)"
 date: 2024-05-15T04:42:41.000000Z
 release_date: ""
 release_id: "30640249"
+apple_music_url: ""
 slug: "everything-is-connected-the-best-of-blancmange-1979-2024-30640249"
 hideSummary: true
 cover:

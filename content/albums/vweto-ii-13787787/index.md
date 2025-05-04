@@ -6,6 +6,7 @@ album_name: "Vweto II"
 date: 2020-04-10T12:40:20.000000Z
 release_date: "2019-06-21"
 release_id: "13787787"
+apple_music_url: "https://music.apple.com/gb/album/vweto-ii/1755756476"
 slug: "vweto-ii-13787787"
 hideSummary: true
 cover:

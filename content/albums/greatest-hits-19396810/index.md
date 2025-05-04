@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2021-08-01T09:19:06.000000Z
 release_date: "2020-10-23"
 release_id: "19396810"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits/1535128775"
 slug: "greatest-hits-19396810"
 hideSummary: true
 cover:

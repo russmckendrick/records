@@ -6,6 +6,7 @@ album_name: "The Harmony Codex"
 date: 2023-10-02T05:50:21.000000Z
 release_date: "2023-09-29"
 release_id: "28455277"
+apple_music_url: "https://music.apple.com/gb/album/the-harmony-codex/1694731770"
 slug: "the-harmony-codex-28455277"
 hideSummary: true
 cover:

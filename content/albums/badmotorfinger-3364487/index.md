@@ -6,6 +6,7 @@ album_name: "Badmotorfinger"
 date: 2017-06-10T11:12:15.000000Z
 release_date: "1991-09-24"
 release_id: "3364487"
+apple_music_url: "https://music.apple.com/gb/album/badmotorfinger-super-deluxe-edition/1440885542"
 slug: "badmotorfinger-3364487"
 hideSummary: true
 cover:

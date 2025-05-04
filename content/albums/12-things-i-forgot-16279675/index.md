@@ -6,6 +6,7 @@ album_name: "12 Things I Forgot"
 date: 2021-06-17T04:15:12.000000Z
 release_date: "1970-01-26"
 release_id: "16279675"
+apple_music_url: "https://music.apple.com/gb/album/chicago-ii-2017-steven-wilson-remix/1195661599"
 slug: "12-things-i-forgot-16279675"
 hideSummary: true
 cover:

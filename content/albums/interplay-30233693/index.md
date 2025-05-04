@@ -6,6 +6,7 @@ album_name: "Interplay"
 date: 2024-03-29T07:24:20.000000Z
 release_date: "2024-03-29"
 release_id: "30233693"
+apple_music_url: "https://music.apple.com/gb/album/interplay/1717487806"
 slug: "interplay-30233693"
 hideSummary: true
 cover:

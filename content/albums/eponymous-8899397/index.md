@@ -6,6 +6,7 @@ album_name: "Eponymous"
 date: 2017-04-02T12:56:55.000000Z
 release_date: "1988-10-17"
 release_id: "8899397"
+apple_music_url: "https://music.apple.com/gb/album/eponymous/723808868"
 slug: "eponymous-8899397"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Boy From Michigan"
 date: 2021-06-26T04:24:24.000000Z
 release_date: "2021-06-25"
 release_id: "19273432"
+apple_music_url: "https://music.apple.com/gb/album/boy-from-michigan/1556064481"
 slug: "boy-from-michigan-19273432"
 hideSummary: true
 cover:

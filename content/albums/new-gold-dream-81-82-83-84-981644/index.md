@@ -6,6 +6,7 @@ album_name: "New Gold Dream (81-82-83-84)"
 date: 2015-09-11T18:02:24.000000Z
 release_date: "2016-07-15"
 release_id: "981644"
+apple_music_url: "https://music.apple.com/gb/album/new-gold-dream-81-82-83-84/1443186232"
 slug: "new-gold-dream-81-82-83-84-981644"
 hideSummary: true
 cover:

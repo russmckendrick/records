@@ -6,6 +6,7 @@ album_name: "Empire Central"
 date: 2022-10-18T05:49:25.000000Z
 release_date: "2022-09-30"
 release_id: "24798023"
+apple_music_url: "https://music.apple.com/gb/album/empire-central/1624123331"
 slug: "empire-central-24798023"
 hideSummary: true
 cover:

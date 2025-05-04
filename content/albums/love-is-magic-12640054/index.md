@@ -6,6 +6,7 @@ album_name: "Love Is Magic"
 date: 2018-10-12T20:01:02.000000Z
 release_date: "2018-10-12"
 release_id: "12640054"
+apple_music_url: "https://music.apple.com/gb/album/love-is-magic/1407828339"
 slug: "love-is-magic-12640054"
 hideSummary: true
 cover:

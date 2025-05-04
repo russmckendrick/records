@@ -6,6 +6,7 @@ album_name: "Betty"
 date: 2024-12-04T02:38:43.000000Z
 release_date: "1994-01-01"
 release_id: "32427519"
+apple_music_url: "https://music.apple.com/gb/album/betty/1440903175"
 slug: "betty-32427519"
 hideSummary: true
 cover:

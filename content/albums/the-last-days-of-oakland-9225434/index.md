@@ -6,6 +6,7 @@ album_name: "The Last Days Of Oakland"
 date: 2018-03-19T14:46:19.000000Z
 release_date: "2016-06-03"
 release_id: "9225434"
+apple_music_url: "https://music.apple.com/gb/album/the-last-days-of-oakland/1246371196"
 slug: "the-last-days-of-oakland-9225434"
 hideSummary: true
 cover:

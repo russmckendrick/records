@@ -6,6 +6,7 @@ album_name: "A Farewell To Kings"
 date: 2017-02-19T10:40:04.000000Z
 release_date: "1977-09-01"
 release_id: "6951528"
+apple_music_url: "https://music.apple.com/gb/album/a-farewell-to-kings-remastered-2013/1440771611"
 slug: "a-farewell-to-kings-6951528"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "All Over The World - The Very Best Of"
 date: 2016-06-27T20:17:26.000000Z
 release_date: "2011-05-30"
 release_id: "8685628"
+apple_music_url: "https://music.apple.com/gb/album/all-over-the-world-the-very-best-of-elo/438416549"
 slug: "all-over-the-world-the-very-best-of-8685628"
 hideSummary: true
 cover:

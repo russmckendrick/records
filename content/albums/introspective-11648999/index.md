@@ -6,6 +6,7 @@ album_name: "Introspective"
 date: 2018-03-04T10:56:02.000000Z
 release_date: "1988-10-10"
 release_id: "11648999"
+apple_music_url: "https://music.apple.com/gb/album/introspective-2018-remaster-ep/1645081022"
 slug: "introspective-11648999"
 hideSummary: true
 cover:

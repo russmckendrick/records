@@ -6,6 +6,7 @@ album_name: "Look Sharp!"
 date: 2016-02-29T18:16:24.000000Z
 release_date: "1988-10-21"
 release_id: "1937220"
+apple_music_url: "https://music.apple.com/gb/album/look-sharp-deluxe-version/693221596"
 slug: "look-sharp-1937220"
 hideSummary: true
 cover:

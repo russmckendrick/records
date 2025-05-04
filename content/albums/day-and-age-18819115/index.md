@@ -6,6 +6,7 @@ album_name: "Day And Age"
 date: 2021-05-22T02:56:13.000000Z
 release_date: "2021-05-14"
 release_id: "18819115"
+apple_music_url: "https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306"
 slug: "day-and-age-18819115"
 hideSummary: true
 cover:

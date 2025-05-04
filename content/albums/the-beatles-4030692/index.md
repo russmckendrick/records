@@ -6,6 +6,7 @@ album_name: "The Beatles"
 date: 2016-11-27T11:51:28.000000Z
 release_date: "1973-04-02"
 release_id: "4030692"
+apple_music_url: "https://music.apple.com/gb/album/the-beatles-1967-1970-the-blue-album/1441133100"
 slug: "the-beatles-4030692"
 hideSummary: true
 cover:

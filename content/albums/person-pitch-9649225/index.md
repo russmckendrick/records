@@ -6,6 +6,7 @@ album_name: "Person Pitch"
 date: 2017-01-16T18:32:05.000000Z
 release_date: "2007-03-20"
 release_id: "9649225"
+apple_music_url: "https://music.apple.com/gb/album/person-pitch/1484070816"
 slug: "person-pitch-9649225"
 hideSummary: true
 cover:

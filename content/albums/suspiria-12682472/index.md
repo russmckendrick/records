@@ -6,6 +6,7 @@ album_name: "Suspiria"
 date: 2018-12-27T18:11:35.000000Z
 release_date: "2019-02-22"
 release_id: "12682472"
+apple_music_url: "https://music.apple.com/gb/album/suspiria-unreleased-material/1450893351"
 slug: "suspiria-12682472"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Vessel of Love"
 date: 2018-02-08T18:57:06.000000Z
 release_date: "2018-01-26"
 release_id: "11456303"
+apple_music_url: "https://music.apple.com/gb/album/vessel-of-love/1289767295"
 slug: "vessel-of-love-11456303"
 hideSummary: true
 cover:

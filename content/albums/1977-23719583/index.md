@@ -6,6 +6,7 @@ album_name: "1977"
 date: 2022-07-02T07:39:13.000000Z
 release_date: "1996-05-06"
 release_id: "23719583"
+apple_music_url: "https://music.apple.com/gb/album/1977/1437459330"
 slug: "1977-23719583"
 hideSummary: true
 cover:

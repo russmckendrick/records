@@ -6,6 +6,7 @@ album_name: "Velveteen"
 date: 2019-06-22T14:10:44.000000Z
 release_date: "1989-01-01"
 release_id: "13782865"
+apple_music_url: "https://music.apple.com/gb/album/velveteen/1443764149"
 slug: "velveteen-13782865"
 hideSummary: true
 cover:

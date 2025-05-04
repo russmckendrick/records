@@ -6,6 +6,7 @@ album_name: "1962-1966"
 date: 2023-11-17T04:14:01.000000Z
 release_date: "1973-04-02"
 release_id: "28859305"
+apple_music_url: "https://music.apple.com/gb/album/the-beatles-1962-1966-the-red-album/1441132965"
 slug: "1962-1966-28859305"
 hideSummary: true
 cover:

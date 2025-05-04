@@ -6,6 +6,7 @@ album_name: "Communion"
 date: 2023-12-30T02:25:25.000000Z
 release_date: "2008-11-17"
 release_id: "1894165"
+apple_music_url: "https://music.apple.com/gb/album/communion/332429116"
 slug: "communion-1894165"
 hideSummary: true
 cover:

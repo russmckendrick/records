@@ -6,6 +6,7 @@ album_name: "Oxygene Trilogy"
 date: 2017-07-17T16:39:29.000000Z
 release_date: "2016-12-02"
 release_id: "9520607"
+apple_music_url: "https://music.apple.com/gb/album/oxygene-trilogy/1163145484"
 slug: "oxygene-trilogy-9520607"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "On The Level"
 date: 2016-05-23T18:27:07.000000Z
 release_date: "1975-03-01"
 release_id: "7578679"
+apple_music_url: "https://music.apple.com/gb/album/on-the-level/1442987257"
 slug: "on-the-level-7578679"
 hideSummary: true
 cover:

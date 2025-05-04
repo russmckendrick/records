@@ -6,6 +6,7 @@ album_name: "Raw Like Sushi"
 date: 2020-01-31T18:59:29.000000Z
 release_date: "1989-06-05"
 release_id: "14721225"
+apple_music_url: "https://music.apple.com/gb/album/raw-like-sushi/716751901"
 slug: "raw-like-sushi-14721225"
 hideSummary: true
 cover:

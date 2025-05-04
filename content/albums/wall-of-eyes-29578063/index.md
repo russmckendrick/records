@@ -6,6 +6,7 @@ album_name: "Wall Of Eyes"
 date: 2024-02-02T00:43:05.000000Z
 release_date: "2024-01-26"
 release_id: "29578063"
+apple_music_url: "https://music.apple.com/gb/album/wall-of-eyes/1711359135"
 slug: "wall-of-eyes-29578063"
 hideSummary: true
 cover:

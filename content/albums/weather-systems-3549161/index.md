@@ -6,6 +6,7 @@ album_name: "Weather Systems"
 date: 2016-03-29T16:25:48.000000Z
 release_date: "2012-04-16"
 release_id: "3549161"
+apple_music_url: "https://music.apple.com/gb/album/weather-systems/674013181"
 slug: "weather-systems-3549161"
 hideSummary: true
 cover:

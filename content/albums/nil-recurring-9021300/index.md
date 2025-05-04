@@ -6,6 +6,7 @@ album_name: "Nil Recurring"
 date: 2016-10-20T16:29:26.000000Z
 release_date: "2007-09-17"
 release_id: "9021300"
+apple_music_url: "https://music.apple.com/gb/album/nil-recurring-ep/1532102677"
 slug: "nil-recurring-9021300"
 hideSummary: true
 cover:

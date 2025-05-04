@@ -6,6 +6,7 @@ album_name: "Mellon Collie And The Infinite Sadness"
 date: 2015-09-23T17:23:10.000000Z
 release_date: "1995-10-24"
 release_id: "4091614"
+apple_music_url: "https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-deluxe-edition/1455510683"
 slug: "mellon-collie-and-the-infinite-sadness-4091614"
 hideSummary: true
 cover:

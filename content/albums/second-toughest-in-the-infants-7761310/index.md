@@ -6,6 +6,7 @@ album_name: "Second Toughest In The Infants"
 date: 2016-11-24T18:43:44.000000Z
 release_date: "1996-03-12"
 release_id: "7761310"
+apple_music_url: "https://music.apple.com/gb/album/second-toughest-in-the-infants-remastered/1443227490"
 slug: "second-toughest-in-the-infants-7761310"
 hideSummary: true
 cover:

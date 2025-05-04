@@ -6,6 +6,7 @@ album_name: "Extreme II : Pornograffitti"
 date: 2017-08-06T11:02:14.000000Z
 release_date: "1990-08-07"
 release_id: "10594981"
+apple_music_url: "https://music.apple.com/gb/album/extreme-ii-pornograffitti/1445751596"
 slug: "extreme-ii-pornograffitti-10594981"
 hideSummary: true
 cover:

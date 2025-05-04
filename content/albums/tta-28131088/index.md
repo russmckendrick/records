@@ -6,6 +6,7 @@ album_name: "Átta"
 date: 2023-09-01T05:07:25.000000Z
 release_date: "2023-06-16"
 release_id: "28131088"
+apple_music_url: "https://music.apple.com/gb/album/%C3%A1tta/1688702511"
 slug: "tta-28131088"
 hideSummary: true
 cover:

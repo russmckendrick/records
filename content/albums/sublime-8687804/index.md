@@ -6,6 +6,7 @@ album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
 release_date: "2020-09-25"
 release_id: "8687804"
+apple_music_url: "https://music.apple.com/gb/album/sublime-single/1531122091"
 slug: "sublime-8687804"
 hideSummary: true
 cover:

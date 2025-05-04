@@ -6,6 +6,7 @@ album_name: "Give Thankx"
 date: 2020-08-02T13:48:34.000000Z
 release_date: ""
 release_id: "1840224"
+apple_music_url: ""
 slug: "give-thankx-1840224"
 hideSummary: true
 cover:

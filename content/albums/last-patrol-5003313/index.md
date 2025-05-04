@@ -6,6 +6,7 @@ album_name: "Last Patrol"
 date: 2016-01-29T18:24:57.000000Z
 release_date: "2013-10-21"
 release_id: "5003313"
+apple_music_url: "https://music.apple.com/gb/album/last-patrol/1184723168"
 slug: "last-patrol-5003313"
 hideSummary: true
 cover:

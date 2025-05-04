@@ -6,6 +6,7 @@ album_name: "Vaxis III: The Father Of Make Believe"
 date: 2025-03-14T12:07:06.000000Z
 release_date: "2025-03-14"
 release_id: "33409487"
+apple_music_url: "https://music.apple.com/gb/album/the-father-of-make-believe/1776734584"
 slug: "vaxis-iii-the-father-of-make-believe-33409487"
 hideSummary: true
 cover:

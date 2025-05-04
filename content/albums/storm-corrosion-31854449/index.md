@@ -6,6 +6,7 @@ album_name: "Storm Corrosion"
 date: 2024-09-28T08:37:42.000000Z
 release_date: "2012-07-05"
 release_id: "31854449"
+apple_music_url: "https://music.apple.com/gb/album/storm-corrosion-special-edition/1625668200"
 slug: "storm-corrosion-31854449"
 hideSummary: true
 cover:

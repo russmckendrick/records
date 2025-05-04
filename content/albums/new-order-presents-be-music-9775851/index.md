@@ -5,6 +5,7 @@ artist: "various"
 album_name: "New Order Presents Be Music"
 date: 2017-02-22T18:01:08.000000Z
 release_id: "9775851"
+apple_music_url: ""
 slug: "new-order-presents-be-music-9775851"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Bambu (The Caribou Sessions)"
 date: 2017-04-23T12:07:10.000000Z
 release_date: ""
 release_id: "10171845"
+apple_music_url: ""
 slug: "bambu-the-caribou-sessions-10171845"
 hideSummary: true
 cover:

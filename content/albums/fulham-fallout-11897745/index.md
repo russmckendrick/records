@@ -6,6 +6,7 @@ album_name: "Fulham Fallout"
 date: 2018-04-25T17:47:27.000000Z
 release_date: "1978-06-01"
 release_id: "11897745"
+apple_music_url: "https://music.apple.com/gb/album/fulham-fallout/266191802"
 slug: "fulham-fallout-11897745"
 hideSummary: true
 cover:

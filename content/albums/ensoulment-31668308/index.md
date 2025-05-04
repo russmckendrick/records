@@ -6,6 +6,7 @@ album_name: "Ensoulment"
 date: 2024-09-07T06:21:15.000000Z
 release_date: "2024-09-06"
 release_id: "31668308"
+apple_music_url: "https://music.apple.com/gb/album/ensoulment/1740763940"
 slug: "ensoulment-31668308"
 hideSummary: true
 cover:

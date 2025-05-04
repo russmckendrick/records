@@ -6,6 +6,7 @@ album_name: "The BBC Sessions"
 date: 2022-04-23T02:30:16.000000Z
 release_date: "2024-09-20"
 release_id: "13321532"
+apple_music_url: "https://music.apple.com/gb/album/j-s-bach-complete-cello-suites-the-2023-sessions/1757614627"
 slug: "the-bbc-sessions-13321532"
 hideSummary: true
 cover:

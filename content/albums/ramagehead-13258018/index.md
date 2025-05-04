@@ -6,6 +6,7 @@ album_name: "Ramagehead"
 date: 2019-02-25T18:35:52.000000Z
 release_date: "2019-02-22"
 release_id: "13258018"
+apple_music_url: "https://music.apple.com/gb/album/ramagehead/1444798137"
 slug: "ramagehead-13258018"
 hideSummary: true
 cover:

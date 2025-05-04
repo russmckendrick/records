@@ -6,6 +6,7 @@ album_name: "Transience"
 date: 2015-09-25T17:25:16.000000Z
 release_date: "2016-09-16"
 release_id: "7504854"
+apple_music_url: "https://music.apple.com/gb/album/transience/1143182695"
 slug: "transience-7504854"
 hideSummary: true
 cover:

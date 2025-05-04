@@ -6,6 +6,7 @@ album_name: "Meddle For Orchestra"
 date: 2022-06-30T04:58:01.000000Z
 release_date: "1971-10-30"
 release_id: "15315298"
+apple_music_url: "https://music.apple.com/gb/album/meddle/699632611"
 slug: "meddle-for-orchestra-15315298"
 hideSummary: true
 cover:

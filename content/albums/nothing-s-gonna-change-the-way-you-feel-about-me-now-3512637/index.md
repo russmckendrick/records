@@ -6,6 +6,7 @@ album_name: "Nothing's Gonna Change The Way You Feel About Me Now"
 date: 2016-04-15T18:22:40.000000Z
 release_date: "2012-03-27"
 release_id: "3512637"
+apple_music_url: "https://music.apple.com/gb/album/nothings-gonna-change-the-way-you-feel-about-me-now/1700576490"
 slug: "nothing-s-gonna-change-the-way-you-feel-about-me-now-3512637"
 hideSummary: true
 cover:

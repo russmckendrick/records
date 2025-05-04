@@ -6,6 +6,7 @@ album_name: "Sittin' Heavy"
 date: 2016-09-01T17:17:59.000000Z
 release_date: "2016-02-19"
 release_id: "8125798"
+apple_music_url: "https://music.apple.com/gb/album/sittin-heavy/1600457332"
 slug: "sittin-heavy-8125798"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ritual"
 date: 2024-09-03T10:50:19.000000Z
 release_date: "2024-08-30"
 release_id: "31602217"
+apple_music_url: "https://music.apple.com/gb/album/ritual/1740733246"
 slug: "ritual-31602217"
 hideSummary: true
 cover:

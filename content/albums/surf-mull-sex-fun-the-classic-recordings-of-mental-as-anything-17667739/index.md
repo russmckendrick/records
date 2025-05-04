@@ -6,6 +6,7 @@ album_name: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anythi
 date: 2021-03-06T08:46:24.000000Z
 release_date: ""
 release_id: "17667739"
+apple_music_url: ""
 slug: "surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "More Stately Mansions"
 date: 2015-08-09T08:32:25.000000Z
 release_date: "2015-05-08"
 release_id: "7073830"
+apple_music_url: "https://music.apple.com/gb/album/more-stately-mansions/1062927890"
 slug: "more-stately-mansions-7073830"
 hideSummary: true
 cover:

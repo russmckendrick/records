@@ -6,6 +6,7 @@ album_name: "J.T. "
 date: 2021-03-19T04:05:42.000000Z
 release_date: "1988-10-17"
 release_id: "17858752"
+apple_music_url: "https://music.apple.com/gb/album/copperhead-road-deluxe-edition/1455672074"
 slug: "j-t-17858752"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Psonic Psunspot"
 date: 2019-11-02T09:25:09.000000Z
 release_date: ""
 release_id: "14345180"
+apple_music_url: ""
 slug: "psonic-psunspot-14345180"
 hideSummary: true
 cover:

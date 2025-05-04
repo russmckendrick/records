@@ -6,6 +6,7 @@ album_name: "A Sort Of Homecoming"
 date: 2016-07-08T16:31:17.000000Z
 release_date: "2015-10-30"
 release_id: "7809395"
+apple_music_url: "https://music.apple.com/gb/album/a-sort-of-homecoming/1049320519"
 slug: "a-sort-of-homecoming-7809395"
 hideSummary: true
 cover:

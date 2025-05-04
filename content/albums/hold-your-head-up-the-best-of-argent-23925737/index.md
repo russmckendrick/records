@@ -6,6 +6,7 @@ album_name: "Hold Your Head Up - The Best Of Argent"
 date: 2023-07-30T11:13:07.000000Z
 release_date: "2014-02-06"
 release_id: "23925737"
+apple_music_url: "https://music.apple.com/gb/album/hold-your-head-up-karaoke-version-in-the-style-of/823508529"
 slug: "hold-your-head-up-the-best-of-argent-23925737"
 hideSummary: true
 cover:

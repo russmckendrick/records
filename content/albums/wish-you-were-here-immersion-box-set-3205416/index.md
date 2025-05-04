@@ -6,6 +6,7 @@ album_name: "Wish You Were Here - Immersion Box Set"
 date: 2015-08-09T13:05:36.000000Z
 release_date: ""
 release_id: "3205416"
+apple_music_url: ""
 slug: "wish-you-were-here-immersion-box-set-3205416"
 hideSummary: true
 cover:

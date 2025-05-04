@@ -6,6 +6,7 @@ album_name: "Margerine Eclipse"
 date: 2019-11-29T12:18:21.000000Z
 release_date: "2004-01-27"
 release_id: "14452307"
+apple_music_url: "https://music.apple.com/gb/album/margerine-eclipse/1230564903"
 slug: "margerine-eclipse-14452307"
 hideSummary: true
 cover:

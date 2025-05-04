@@ -6,6 +6,7 @@ album_name: "Star Wars / Return Of The Jedi - The Original Motion Picture Soundt
 date: 2016-08-17T19:17:32.000000Z
 release_date: "1983-01-01"
 release_id: "8902517"
+apple_music_url: "https://music.apple.com/gb/album/star-wars-return-of-the-jedi-original-motion/1375817940"
 slug: "star-wars-return-of-the-jedi-the-original-motion-picture-soundtrack-8902517"
 hideSummary: true
 cover:

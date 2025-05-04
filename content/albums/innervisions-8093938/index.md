@@ -6,6 +6,7 @@ album_name: "Innervisions"
 date: 2016-11-24T18:44:17.000000Z
 release_date: "1973-08-03"
 release_id: "8093938"
+apple_music_url: "https://music.apple.com/gb/album/innervisions/1440806790"
 slug: "innervisions-8093938"
 hideSummary: true
 cover:

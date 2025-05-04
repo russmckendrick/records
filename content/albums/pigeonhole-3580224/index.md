@@ -6,6 +6,7 @@ album_name: "Pigeonhole"
 date: 2016-02-29T18:17:33.000000Z
 release_date: "1990-01-01"
 release_id: "3580224"
+apple_music_url: "https://music.apple.com/gb/album/pigeonhole/201482702"
 slug: "pigeonhole-3580224"
 hideSummary: true
 cover:

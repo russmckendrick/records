@@ -6,6 +6,7 @@ album_name: "Rage In Eden"
 date: 2015-09-16T18:56:48.000000Z
 release_date: "1981-09-11"
 release_id: "1583649"
+apple_music_url: "https://music.apple.com/gb/album/rage-in-eden-deluxe-edition/1631045728"
 slug: "rage-in-eden-1583649"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Music To Make Love To Your Old Lady By"
 date: 2022-07-26T04:06:25.000000Z
 release_date: "2001-11-06"
 release_id: "23894969"
+apple_music_url: "https://music.apple.com/gb/album/music-to-make-love-to-your-old-lady-by-instrumental/435820292"
 slug: "music-to-make-love-to-your-old-lady-by-23894969"
 hideSummary: true
 cover:

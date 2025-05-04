@@ -6,6 +6,7 @@ album_name: "Raintown"
 date: 2015-09-22T17:47:19.000000Z
 release_date: "1987-05"
 release_id: "2313799"
+apple_music_url: "https://music.apple.com/gb/album/raintown/570301445"
 slug: "raintown-2313799"
 hideSummary: true
 cover:

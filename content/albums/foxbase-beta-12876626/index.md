@@ -6,6 +6,7 @@ album_name: "Foxbase Beta"
 date: 2019-07-26T17:58:39.000000Z
 release_date: "1992-01-14"
 release_id: "12876626"
+apple_music_url: "https://music.apple.com/gb/album/foxbase-beta/1240860951"
 slug: "foxbase-beta-12876626"
 hideSummary: true
 cover:

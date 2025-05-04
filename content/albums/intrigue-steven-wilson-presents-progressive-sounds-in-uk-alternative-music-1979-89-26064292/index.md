@@ -6,6 +6,7 @@ album_name: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternat
 date: 2023-02-15T23:14:24.000000Z
 release_date: ""
 release_id: "26064292"
+apple_music_url: ""
 slug: "intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26064292"
 hideSummary: true
 cover:

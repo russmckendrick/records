@@ -6,6 +6,7 @@ album_name: "South Of Reality"
 date: 2019-02-26T18:17:45.000000Z
 release_date: "2019-02-22"
 release_id: "13255457"
+apple_music_url: "https://music.apple.com/gb/album/south-of-reality/1440080018"
 slug: "south-of-reality-13255457"
 hideSummary: true
 cover:

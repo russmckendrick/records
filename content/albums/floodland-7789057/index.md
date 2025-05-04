@@ -6,6 +6,7 @@ album_name: "Floodland"
 date: 2015-12-01T21:57:17.000000Z
 release_date: "1987"
 release_id: "7789057"
+apple_music_url: "https://music.apple.com/gb/album/floodland/1027459890"
 slug: "floodland-7789057"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "What Time Is It?"
 date: 2017-05-03T19:20:24.000000Z
 release_date: "1982-08-24"
 release_id: "10174128"
+apple_music_url: "https://music.apple.com/gb/album/what-time-is-it/273890984"
 slug: "what-time-is-it-10174128"
 hideSummary: true
 cover:

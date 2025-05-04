@@ -6,6 +6,7 @@ album_name: "The Idiot"
 date: 2017-07-05T14:34:36.000000Z
 release_date: "1977-03-18"
 release_id: "10451933"
+apple_music_url: "https://music.apple.com/gb/album/the-idiot/1440888621"
 slug: "the-idiot-10451933"
 hideSummary: true
 cover:

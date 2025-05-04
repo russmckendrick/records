@@ -6,6 +6,7 @@ album_name: "The First Of Too Many "
 date: 
 release_date: ""
 release_id: "25211626"
+apple_music_url: ""
 slug: "the-first-of-too-many-25211626"
 hideSummary: true
 cover:

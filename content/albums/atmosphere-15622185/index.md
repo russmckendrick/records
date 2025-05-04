@@ -6,6 +6,7 @@ album_name: "Atmosphere"
 date: 2020-07-17T12:25:03.000000Z
 release_date: "2020-04-17"
 release_id: "15622185"
+apple_music_url: "https://music.apple.com/gb/album/atmosphere-joy-division-cover-single/1508055731"
 slug: "atmosphere-15622185"
 hideSummary: true
 cover:

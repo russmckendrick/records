@@ -6,6 +6,7 @@ album_name: "OX4_ The Best Of Ride"
 date: 2015-08-09T08:32:46.000000Z
 release_date: "2002-11-05"
 release_id: "6901033"
+apple_music_url: "https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723"
 slug: "ox4_-the-best-of-ride-6901033"
 hideSummary: true
 cover:

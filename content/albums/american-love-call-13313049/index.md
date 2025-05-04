@@ -6,6 +6,7 @@ album_name: "American Love Call"
 date: 2019-03-11T19:46:04.000000Z
 release_date: "2016-03-16"
 release_id: "13313049"
+apple_music_url: "https://music.apple.com/gb/album/durand-jones-the-indications/1730817055"
 slug: "american-love-call-13313049"
 hideSummary: true
 cover:

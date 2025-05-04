@@ -6,6 +6,7 @@ album_name: "Straight Songs Of Sorrow"
 date: 2020-05-18T11:11:44.000000Z
 release_date: "2020-05-08"
 release_id: "15264315"
+apple_music_url: "https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011"
 slug: "straight-songs-of-sorrow-15264315"
 hideSummary: true
 cover:

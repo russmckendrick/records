@@ -6,6 +6,7 @@ album_name: "4 EPs"
 date: 2022-11-04T06:15:44.000000Z
 release_date: "2007-10-09"
 release_id: "25002610"
+apple_music_url: "https://music.apple.com/gb/album/ride-4-u-ep/265651482"
 slug: "4-eps-25002610"
 hideSummary: true
 cover:

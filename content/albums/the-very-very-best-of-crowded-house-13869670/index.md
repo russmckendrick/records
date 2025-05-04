@@ -6,6 +6,7 @@ album_name: "The Very Very Best Of Crowded House"
 date: 2019-07-15T18:00:11.000000Z
 release_date: "2010-10-22"
 release_id: "13869670"
+apple_music_url: "https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594"
 slug: "the-very-very-best-of-crowded-house-13869670"
 hideSummary: true
 cover:

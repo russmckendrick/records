@@ -6,6 +6,7 @@ album_name: "We Can't Dance"
 date: 2024-09-07T06:09:56.000000Z
 release_date: "1991-10-28"
 release_id: "12652409"
+apple_music_url: "https://music.apple.com/gb/album/we-cant-dance-remastered/268026782"
 slug: "we-can-t-dance-12652409"
 hideSummary: true
 cover:

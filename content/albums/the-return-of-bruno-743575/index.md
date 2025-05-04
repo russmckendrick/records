@@ -6,6 +6,7 @@ album_name: "The Return Of Bruno"
 date: 2015-10-05T18:23:05.000000Z
 release_date: "1987-01-01"
 release_id: "743575"
+apple_music_url: "https://music.apple.com/gb/album/the-return-of-bruno/1444378334"
 slug: "the-return-of-bruno-743575"
 hideSummary: true
 cover:

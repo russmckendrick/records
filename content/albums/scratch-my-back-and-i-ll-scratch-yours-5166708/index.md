@@ -6,6 +6,7 @@ album_name: "Scratch My Back / And I'll Scratch Yours"
 date: 2016-12-08T18:45:31.000000Z
 release_date: "2013-09-18"
 release_id: "5166708"
+apple_music_url: "https://music.apple.com/gb/album/scratch-my-back-and-ill-scratch-yours/987543707"
 slug: "scratch-my-back-and-i-ll-scratch-yours-5166708"
 hideSummary: true
 cover:

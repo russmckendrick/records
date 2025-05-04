@@ -6,6 +6,7 @@ album_name: "Whiplash"
 date: 2017-12-16T18:39:35.000000Z
 release_date: "2019-07-12"
 release_id: "11285438"
+apple_music_url: "https://music.apple.com/gb/album/whiplash-single/1471704921"
 slug: "whiplash-11285438"
 hideSummary: true
 cover:

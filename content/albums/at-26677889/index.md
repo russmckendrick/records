@@ -6,6 +6,7 @@ album_name: "AT"
 date: 2023-04-07T04:35:37.000000Z
 release_date: "1994-01-01"
 release_id: "26677889"
+apple_music_url: "https://music.apple.com/gb/album/bits-and-pieces/1026256741"
 slug: "at-26677889"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "¡Hay Tiempo!"
 date: 2021-11-17T09:05:48.000000Z
 release_date: "1998-10-14"
 release_id: "16153221"
+apple_music_url: "https://music.apple.com/gb/album/hay-tiempo/1525715715"
 slug: "hay-tiempo-16153221"
 hideSummary: true
 cover:

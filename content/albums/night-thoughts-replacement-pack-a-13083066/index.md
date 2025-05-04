@@ -6,6 +6,7 @@ album_name: "Night Thoughts Replacement Pack A"
 date: 2019-12-19T20:21:35.000000Z
 release_date: ""
 release_id: "13083066"
+apple_music_url: ""
 slug: "night-thoughts-replacement-pack-a-13083066"
 hideSummary: true
 cover:

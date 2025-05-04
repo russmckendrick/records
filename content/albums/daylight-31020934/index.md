@@ -6,6 +6,7 @@ album_name: "Daylight"
 date: 2024-08-16T07:13:55.000000Z
 release_date: "2024-08-16"
 release_id: "31020934"
+apple_music_url: "https://music.apple.com/gb/album/daylight/1741952853"
 slug: "daylight-31020934"
 hideSummary: true
 cover:

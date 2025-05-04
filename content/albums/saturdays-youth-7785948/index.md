@@ -6,6 +6,7 @@ album_name: "Saturdays = Youth"
 date: 2021-04-11T04:39:03.000000Z
 release_date: "2008-04-11"
 release_id: "7785948"
+apple_music_url: "https://music.apple.com/gb/album/saturdays-youth/1672227190"
 slug: "saturdays-youth-7785948"
 hideSummary: true
 cover:

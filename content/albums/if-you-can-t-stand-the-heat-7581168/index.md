@@ -6,6 +6,7 @@ album_name: "If You Can't Stand The Heat"
 date: 2016-05-23T18:28:09.000000Z
 release_date: "1978-11-11"
 release_id: "7581168"
+apple_music_url: "https://music.apple.com/gb/album/if-you-cant-stand-the-heat/1443422494"
 slug: "if-you-can-t-stand-the-heat-7581168"
 hideSummary: true
 cover:

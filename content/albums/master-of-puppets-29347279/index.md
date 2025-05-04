@@ -6,6 +6,7 @@ album_name: "Master Of Puppets"
 date: 2024-01-11T11:51:17.000000Z
 release_date: "1986-03-03"
 release_id: "29347279"
+apple_music_url: "https://music.apple.com/gb/album/master-of-puppets-remastered/1440901428"
 slug: "master-of-puppets-29347279"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "All Now"
 date: 2024-03-29T07:21:44.000000Z
 release_date: "2024-03-22"
 release_id: "30163826"
+apple_music_url: "https://music.apple.com/gb/album/all-now/1711410930"
 slug: "all-now-30163826"
 hideSummary: true
 cover:

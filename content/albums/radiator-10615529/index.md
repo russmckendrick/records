@@ -6,6 +6,7 @@ album_name: "Radiator"
 date: 2017-07-29T08:50:24.000000Z
 release_date: "1997-08-22"
 release_id: "10615529"
+apple_music_url: "https://music.apple.com/gb/album/radiator/1626518856"
 slug: "radiator-10615529"
 hideSummary: true
 cover:

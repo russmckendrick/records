@@ -6,6 +6,7 @@ album_name: "Endless Arcade"
 date: 2021-04-30T10:00:02.000000Z
 release_date: "2021-04-30"
 release_id: "18526048"
+apple_music_url: "https://music.apple.com/gb/album/endless-arcade/1544103316"
 slug: "endless-arcade-18526048"
 hideSummary: true
 cover:

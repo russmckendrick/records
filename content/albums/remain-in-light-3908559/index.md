@@ -6,6 +6,7 @@ album_name: "Remain In Light"
 date: 2015-09-16T18:52:12.000000Z
 release_date: "1980-10-08"
 release_id: "3908559"
+apple_music_url: "https://music.apple.com/gb/album/remain-in-light/300948043"
 slug: "remain-in-light-3908559"
 hideSummary: true
 cover:

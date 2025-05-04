@@ -6,6 +6,7 @@ album_name: "The Grateful Dead"
 date: 2017-07-05T14:32:36.000000Z
 release_date: "2015-03-27"
 release_id: "9647618"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-the-grateful-dead/945504099"
 slug: "the-grateful-dead-9647618"
 hideSummary: true
 cover:

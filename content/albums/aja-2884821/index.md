@@ -6,6 +6,7 @@ album_name: "Aja"
 date: 2019-11-16T11:54:09.000000Z
 release_date: "1993-12-19"
 release_id: "2884821"
+apple_music_url: "https://music.apple.com/gb/album/citizen-steely-dan-1972-1980/1446019239"
 slug: "aja-2884821"
 hideSummary: true
 cover:

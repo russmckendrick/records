@@ -6,6 +6,7 @@ album_name: "Songs Of Surrender"
 date: 2023-03-18T02:56:49.000000Z
 release_date: "2023-03-17"
 release_id: "26446712"
+apple_music_url: "https://music.apple.com/gb/album/songs-of-surrender/1664119641"
 slug: "songs-of-surrender-26446712"
 hideSummary: true
 cover:

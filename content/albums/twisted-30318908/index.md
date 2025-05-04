@@ -6,6 +6,7 @@ album_name: "Twisted"
 date: 2024-04-09T04:38:10.000000Z
 release_date: "1995-01-01"
 release_id: "30318908"
+apple_music_url: "https://music.apple.com/gb/album/twisted/1444067088"
 slug: "twisted-30318908"
 hideSummary: true
 cover:

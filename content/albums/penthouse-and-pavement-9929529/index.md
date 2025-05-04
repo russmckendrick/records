@@ -6,6 +6,7 @@ album_name: "Penthouse And Pavement"
 date: 2018-06-13T17:27:49.000000Z
 release_date: "1981-01-01"
 release_id: "9929529"
+apple_music_url: "https://music.apple.com/gb/album/penthouse-and-pavement/881477929"
 slug: "penthouse-and-pavement-9929529"
 hideSummary: true
 cover:

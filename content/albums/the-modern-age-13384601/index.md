@@ -6,6 +6,7 @@ album_name: "The Modern Age"
 date: 2019-03-23T13:39:12.000000Z
 release_date: "2019-03-22"
 release_id: "13384601"
+apple_music_url: "https://music.apple.com/gb/album/the-modern-age/1445590486"
 slug: "the-modern-age-13384601"
 hideSummary: true
 cover:

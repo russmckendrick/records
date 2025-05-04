@@ -6,6 +6,7 @@ album_name: "Ummagumma"
 date: 2016-06-03T20:02:26.000000Z
 release_date: "1969-10-25"
 release_id: "8604223"
+apple_music_url: "https://music.apple.com/gb/album/ummagumma/699827490"
 slug: "ummagumma-8604223"
 hideSummary: true
 cover:

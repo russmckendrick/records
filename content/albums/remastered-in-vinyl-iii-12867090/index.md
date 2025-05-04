@@ -6,6 +6,7 @@ album_name: "Remastered In Vinyl III"
 date: 2018-11-30T15:18:48.000000Z
 release_date: "1978-02-17"
 release_id: "12867090"
+apple_music_url: "https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799"
 slug: "remastered-in-vinyl-iii-12867090"
 hideSummary: true
 cover:

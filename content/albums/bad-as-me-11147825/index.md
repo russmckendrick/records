@@ -6,6 +6,7 @@ album_name: "Bad As Me"
 date: 2018-01-23T19:17:21.000000Z
 release_date: "2011-10-21"
 release_id: "11147825"
+apple_music_url: "https://music.apple.com/gb/album/bad-as-me-deluxe-edition/1485070792"
 slug: "bad-as-me-11147825"
 hideSummary: true
 cover:

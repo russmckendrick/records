@@ -6,6 +6,7 @@ album_name: "Abolition Of The Royal Familia (Guillotine Mixes)"
 date: 2021-05-10T03:53:37.000000Z
 release_date: "2021-04-09"
 release_id: "18203164"
+apple_music_url: "https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838"
 slug: "abolition-of-the-royal-familia-guillotine-mixes-18203164"
 hideSummary: true
 cover:

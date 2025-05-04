@@ -6,6 +6,7 @@ album_name: "Graceland"
 date: 2016-01-13T10:27:40.000000Z
 release_date: "1986-08-25"
 release_id: "5416395"
+apple_music_url: "https://music.apple.com/gb/album/graceland/529574560"
 slug: "graceland-5416395"
 hideSummary: true
 cover:

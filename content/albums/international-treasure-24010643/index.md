@@ -6,6 +6,7 @@ album_name: "International Treasure"
 date: 2022-08-01T06:03:04.000000Z
 release_date: "2022-06-10"
 release_id: "24010643"
+apple_music_url: "https://music.apple.com/gb/album/international-treasure/1614462986"
 slug: "international-treasure-24010643"
 hideSummary: true
 cover:

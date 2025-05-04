@@ -6,6 +6,7 @@ album_name: "Machine Gun Etiquette"
 date: 2023-02-05T09:50:08.000000Z
 release_date: "1979-12"
 release_id: "8859300"
+apple_music_url: "https://music.apple.com/gb/album/machine-gun-etiquette/1621373741"
 slug: "machine-gun-etiquette-8859300"
 hideSummary: true
 cover:

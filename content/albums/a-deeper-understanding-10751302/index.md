@@ -6,6 +6,7 @@ album_name: "A Deeper Understanding"
 date: 2017-08-25T17:20:29.000000Z
 release_date: "2017-08-25"
 release_id: "10751302"
+apple_music_url: "https://music.apple.com/gb/album/a-deeper-understanding/1242366660"
 slug: "a-deeper-understanding-10751302"
 hideSummary: true
 cover:

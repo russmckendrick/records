@@ -6,6 +6,7 @@ album_name: "Dead Cross"
 date: 2017-08-18T18:22:09.000000Z
 release_date: "2018-05-02"
 release_id: "10642664"
+apple_music_url: "https://music.apple.com/gb/album/dead-cross-ep/1367979420"
 slug: "dead-cross-10642664"
 hideSummary: true
 cover:

@@ -5,6 +5,7 @@ artist: "stars"
 album_name: "Set Yourself On Fire"
 date: 2024-10-02T10:59:04.000000Z
 release_id: "31874636"
+apple_music_url: "https://music.apple.com/gb/album/set-yourself-on-fire-20th-anniversary-edition/1766760013"
 slug: "set-yourself-on-fire-31874636"
 hideSummary: true
 cover:

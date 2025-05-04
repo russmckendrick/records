@@ -6,6 +6,7 @@ album_name: "Club Classics Vol. One"
 date: 2020-10-16T10:31:44.000000Z
 release_date: "1989-01-01"
 release_id: "16034267"
+apple_music_url: "https://music.apple.com/gb/album/club-classics-vol-1/723622157"
 slug: "club-classics-vol-one-16034267"
 hideSummary: true
 cover:

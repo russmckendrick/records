@@ -6,6 +6,7 @@ album_name: "90125"
 date: 2017-07-26T17:40:44.000000Z
 release_date: "1983-11-07"
 release_id: "10168494"
+apple_music_url: "https://music.apple.com/gb/album/90125/1049010572"
 slug: "90125-10168494"
 hideSummary: true
 cover:

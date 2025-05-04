@@ -6,6 +6,7 @@ album_name: "Don't Be Cruel"
 date: 2020-08-01T12:46:23.000000Z
 release_date: "1988-06-20"
 release_id: "768752"
+apple_music_url: "https://music.apple.com/gb/album/dont-be-cruel/1440773569"
 slug: "don-t-be-cruel-768752"
 hideSummary: true
 cover:

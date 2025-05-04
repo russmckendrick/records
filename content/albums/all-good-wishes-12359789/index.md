@@ -6,6 +6,7 @@ album_name: "All Good Wishes"
 date: 2018-10-22T18:31:42.000000Z
 release_date: "2018-08-03"
 release_id: "12359789"
+apple_music_url: "https://music.apple.com/gb/album/all-good-wishes/1385894969"
 slug: "all-good-wishes-12359789"
 hideSummary: true
 cover:

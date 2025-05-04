@@ -6,6 +6,7 @@ album_name: "Radiodread"
 date: 2017-05-27T10:09:04.000000Z
 release_date: "2006-08-22"
 release_id: "10307769"
+apple_music_url: "https://music.apple.com/gb/album/radiodread/165821778"
 slug: "radiodread-10307769"
 hideSummary: true
 cover:

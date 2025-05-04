@@ -6,6 +6,7 @@ album_name: "Flock"
 date: 2021-03-08T04:43:36.000000Z
 release_date: "2021-03-05"
 release_id: "17654794"
+apple_music_url: "https://music.apple.com/gb/album/flock/1668446839"
 slug: "flock-17654794"
 hideSummary: true
 cover:

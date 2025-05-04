@@ -6,6 +6,7 @@ album_name: "Superunknown"
 date: 2017-06-11T13:16:04.000000Z
 release_date: "1994-03-08"
 release_id: "5757840"
+apple_music_url: "https://music.apple.com/gb/album/superunknown-deluxe-edition/1440855214"
 slug: "superunknown-5757840"
 hideSummary: true
 cover:

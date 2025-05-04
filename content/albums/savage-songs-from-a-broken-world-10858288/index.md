@@ -6,6 +6,7 @@ album_name: "Savage (Songs From A Broken World)"
 date: 2017-09-15T14:06:05.000000Z
 release_date: "2017-09-15"
 release_id: "10858288"
+apple_music_url: "https://music.apple.com/gb/album/savage-songs-from-a-broken-world/1438756581"
 slug: "savage-songs-from-a-broken-world-10858288"
 hideSummary: true
 cover:

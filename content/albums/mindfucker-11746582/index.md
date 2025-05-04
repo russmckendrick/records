@@ -6,6 +6,7 @@ album_name: "Mindfucker"
 date: 2018-03-24T11:43:41.000000Z
 release_date: "2010-10-25"
 release_id: "11746582"
+apple_music_url: "https://music.apple.com/gb/album/mastermind/1183584710"
 slug: "mindfucker-11746582"
 hideSummary: true
 cover:

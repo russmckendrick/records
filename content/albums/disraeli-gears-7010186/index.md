@@ -6,6 +6,7 @@ album_name: "Disraeli Gears"
 date: 2016-04-22T16:36:08.000000Z
 release_date: "1967-11-02"
 release_id: "7010186"
+apple_music_url: "https://music.apple.com/gb/album/disraeli-gears/1440817229"
 slug: "disraeli-gears-7010186"
 hideSummary: true
 cover:

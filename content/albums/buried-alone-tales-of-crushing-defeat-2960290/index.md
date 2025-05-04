@@ -6,6 +6,7 @@ album_name: "Buried Alone: Tales Of Crushing Defeat"
 date: 2016-12-08T18:39:57.000000Z
 release_date: "2010-08-09"
 release_id: "2960290"
+apple_music_url: "https://music.apple.com/gb/album/buried-alone-tales-of-crushing-defeat/1510598560"
 slug: "buried-alone-tales-of-crushing-defeat-2960290"
 hideSummary: true
 cover:

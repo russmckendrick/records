@@ -6,6 +6,7 @@ album_name: "English Electric Part One"
 date: 2019-10-11T14:38:12.000000Z
 release_date: "2012-09-03"
 release_id: "14252474"
+apple_music_url: "https://music.apple.com/gb/album/english-electric-pt-one/558027300"
 slug: "english-electric-part-one-14252474"
 hideSummary: true
 cover:

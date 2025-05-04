@@ -6,6 +6,7 @@ album_name: "Jesus Hits Like The Atom Bomb"
 date: 2022-02-12T05:31:05.000000Z
 release_date: ""
 release_id: "16253095"
+apple_music_url: ""
 slug: "jesus-hits-like-the-atom-bomb-16253095"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rejoice! I'm Dead!"
 date: 2016-09-21T17:52:30.000000Z
 release_date: "2016-09-16"
 release_id: "9058357"
+apple_music_url: "https://music.apple.com/gb/album/rejoice-im-dead/1135524816"
 slug: "rejoice-i-m-dead-9058357"
 hideSummary: true
 cover:

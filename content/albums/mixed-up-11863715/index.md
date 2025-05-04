@@ -6,6 +6,7 @@ album_name: "Mixed Up"
 date: 2018-04-21T11:15:17.000000Z
 release_date: "2017-04-16"
 release_id: "11863715"
+apple_music_url: "https://music.apple.com/gb/album/the-cure-single/1445051390"
 slug: "mixed-up-11863715"
 hideSummary: true
 cover:

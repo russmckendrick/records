@@ -6,6 +6,7 @@ album_name: "Living In A Box"
 date: 2018-09-07T18:30:44.000000Z
 release_date: "2022-03-30"
 release_id: "1190802"
+apple_music_url: "https://music.apple.com/us/album/living-in-a-box/1629182004"
 slug: "living-in-a-box-1190802"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "A Rainbow In Curved Air"
 date: 2022-03-06T05:03:53.000000Z
 release_date: "1969"
 release_id: "130654"
+apple_music_url: "https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air/1755233999"
 slug: "a-rainbow-in-curved-air-130654"
 hideSummary: true
 cover:

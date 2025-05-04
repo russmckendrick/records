@@ -6,6 +6,7 @@ album_name: "Controversy"
 date: 2016-06-26T13:17:16.000000Z
 release_date: "1981-10-14"
 release_id: "3559573"
+apple_music_url: "https://music.apple.com/gb/album/controversy/214145071"
 slug: "controversy-3559573"
 hideSummary: true
 cover:

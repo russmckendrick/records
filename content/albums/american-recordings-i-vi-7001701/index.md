@@ -6,6 +6,7 @@ album_name: "American Recordings I - VI"
 date: 2015-12-29T19:02:02.000000Z
 release_date: "1994-01-01"
 release_id: "7001701"
+apple_music_url: "https://music.apple.com/gb/album/american-recordings/1442245246"
 slug: "american-recordings-i-vi-7001701"
 hideSummary: true
 cover:

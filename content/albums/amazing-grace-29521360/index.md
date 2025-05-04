@@ -6,6 +6,7 @@ album_name: "Amazing Grace"
 date: 2024-01-19T10:57:15.000000Z
 release_date: "2003-09-08"
 release_id: "29521360"
+apple_music_url: "https://music.apple.com/gb/album/amazing-grace/1708968106"
 slug: "amazing-grace-29521360"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Girl Is Crying In Her Latte"
 date: 2023-06-02T05:02:51.000000Z
 release_date: "2023-05-26"
 release_id: "27196083"
+apple_music_url: "https://music.apple.com/gb/album/the-girl-is-crying-in-her-latte/1664083303"
 slug: "the-girl-is-crying-in-her-latte-27196083"
 hideSummary: true
 cover:

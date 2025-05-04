@@ -6,6 +6,7 @@ album_name: "Animals"
 date: 2016-11-18T18:42:09.000000Z
 release_date: "2006-07-11"
 release_id: "9359985"
+apple_music_url: "https://music.apple.com/gb/album/pink-floyd/278703138"
 slug: "animals-9359985"
 hideSummary: true
 cover:

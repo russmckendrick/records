@@ -6,6 +6,7 @@ album_name: "Tommy"
 date: 2017-02-26T13:07:08.000000Z
 release_date: "1969-05-23"
 release_id: "5539661"
+apple_music_url: "https://music.apple.com/gb/album/tommy/1461210985"
 slug: "tommy-5539661"
 hideSummary: true
 cover:

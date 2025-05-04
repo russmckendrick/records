@@ -6,6 +6,7 @@ album_name: "Mars Audiac Quintet"
 date: 2019-09-17T18:16:50.000000Z
 release_date: "1994-08-09"
 release_id: "13581443"
+apple_music_url: "https://music.apple.com/gb/album/mars-audiac-quintet/1231421047"
 slug: "mars-audiac-quintet-13581443"
 hideSummary: true
 cover:

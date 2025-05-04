@@ -6,6 +6,7 @@ album_name: "The New Sound"
 date: 2024-12-28T04:04:07.000000Z
 release_date: "2024-10-04"
 release_id: "31910491"
+apple_music_url: "https://music.apple.com/gb/album/the-new-sound/1752102463"
 slug: "the-new-sound-31910491"
 hideSummary: true
 cover:

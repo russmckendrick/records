@@ -6,6 +6,7 @@ album_name: "Parasomnia"
 date: 2025-02-12T00:50:58.000000Z
 release_date: "2025-02-07"
 release_id: "33046959"
+apple_music_url: "https://music.apple.com/gb/album/parasomnia/1771826378"
 slug: "parasomnia-33046959"
 hideSummary: true
 cover:

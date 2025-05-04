@@ -6,6 +6,7 @@ album_name: "Constellations For The Lonely"
 date: 2025-02-28T05:47:00.000000Z
 release_date: "2025-02-28"
 release_id: "33271575"
+apple_music_url: "https://music.apple.com/gb/album/constellations-for-the-lonely/1773119412"
 slug: "constellations-for-the-lonely-33271575"
 hideSummary: true
 cover:

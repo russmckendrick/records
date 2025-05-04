@@ -6,6 +6,7 @@ album_name: "II"
 date: 2022-11-04T06:14:16.000000Z
 release_date: "2010-04-19"
 release_id: "24964399"
+apple_music_url: "https://music.apple.com/gb/album/greatest-film-classics/691695107"
 slug: "ii-24964399"
 hideSummary: true
 cover:

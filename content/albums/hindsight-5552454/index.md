@@ -6,6 +6,7 @@ album_name: "Hindsight"
 date: 2016-10-23T08:56:07.000000Z
 release_date: "2008-08-25"
 release_id: "5552454"
+apple_music_url: "https://music.apple.com/gb/album/hindsight/282920209"
 slug: "hindsight-5552454"
 hideSummary: true
 cover:

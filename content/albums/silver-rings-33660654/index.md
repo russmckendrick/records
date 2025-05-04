@@ -6,6 +6,7 @@ album_name: "Silver Rings"
 date: 2025-04-11T03:41:23.000000Z
 release_date: "2025-03-20"
 release_id: "33660654"
+apple_music_url: "https://music.apple.com/gb/album/silver-rings-single/1797784225"
 slug: "silver-rings-33660654"
 hideSummary: true
 cover:

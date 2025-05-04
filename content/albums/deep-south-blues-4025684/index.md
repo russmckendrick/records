@@ -6,6 +6,7 @@ album_name: "Deep South Blues"
 date: 2020-08-02T13:49:47.000000Z
 release_date: "1996-11-26"
 release_id: "4025684"
+apple_music_url: "https://music.apple.com/gb/album/the-preachers-wife-original-soundtrack-album/267929798"
 slug: "deep-south-blues-4025684"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Intruder"
 date: 2021-05-21T07:27:42.000000Z
 release_date: "2021-05-21"
 release_id: "18815773"
+apple_music_url: "https://music.apple.com/gb/album/intruder/1566837719"
 slug: "intruder-18815773"
 hideSummary: true
 cover:

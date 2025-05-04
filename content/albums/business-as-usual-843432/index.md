@@ -6,6 +6,7 @@ album_name: "Business As Usual"
 date: 2017-04-14T14:01:00.000000Z
 release_date: "1981-11-09"
 release_id: "843432"
+apple_music_url: "https://music.apple.com/gb/album/business-as-usual/282960957"
 slug: "business-as-usual-843432"
 hideSummary: true
 cover:

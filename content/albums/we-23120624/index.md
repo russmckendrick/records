@@ -6,6 +6,7 @@ album_name: "We"
 date: 2022-05-06T10:53:15.000000Z
 release_date: "2007-03-02"
 release_id: "23120624"
+apple_music_url: "https://music.apple.com/gb/album/neon-bible/1252615522"
 slug: "we-23120624"
 hideSummary: true
 cover:

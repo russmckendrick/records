@@ -6,6 +6,7 @@ album_name: "Dixie-Narco EP"
 date: 2021-06-18T04:50:17.000000Z
 release_date: "1992-01"
 release_id: "19110514"
+apple_music_url: "https://music.apple.com/gb/album/dixie-narco-ep/1568698448"
 slug: "dixie-narco-ep-19110514"
 hideSummary: true
 cover:

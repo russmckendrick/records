@@ -6,6 +6,7 @@ album_name: "When It Falls"
 date: 2024-10-29T05:01:52.000000Z
 release_date: "2004-03-02"
 release_id: "32133540"
+apple_music_url: "https://music.apple.com/gb/album/when-it-falls/1326006348"
 slug: "when-it-falls-32133540"
 hideSummary: true
 cover:

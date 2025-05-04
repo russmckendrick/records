@@ -6,6 +6,7 @@ album_name: "25 O'Clock"
 date: 2019-10-30T17:52:51.000000Z
 release_date: ""
 release_id: "14326864"
+apple_music_url: ""
 slug: "25-o-clock-14326864"
 hideSummary: true
 cover:

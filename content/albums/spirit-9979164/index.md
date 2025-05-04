@@ -6,6 +6,7 @@ album_name: "Spirit"
 date: 2017-03-18T12:18:16.000000Z
 release_date: "2023-03-24"
 release_id: "9979164"
+apple_music_url: "https://music.apple.com/gb/album/memento-mori/1670265523"
 slug: "spirit-9979164"
 hideSummary: true
 cover:

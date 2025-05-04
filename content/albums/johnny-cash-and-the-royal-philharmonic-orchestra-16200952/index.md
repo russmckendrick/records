@@ -6,6 +6,7 @@ album_name: "Johnny Cash And The Royal Philharmonic Orchestra"
 date: 2020-12-26T06:26:06.000000Z
 release_date: "2020-11-13"
 release_id: "16200952"
+apple_music_url: "https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983"
 slug: "johnny-cash-and-the-royal-philharmonic-orchestra-16200952"
 hideSummary: true
 cover:

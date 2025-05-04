@@ -6,6 +6,7 @@ album_name: "Hemispheres"
 date: 2015-08-09T08:38:01.000000Z
 release_date: "2017-10-17"
 release_id: "7036854"
+apple_music_url: "https://music.apple.com/gb/album/the-next-hemisphere-a-rush-tribute/1294937317"
 slug: "hemispheres-7036854"
 hideSummary: true
 cover:

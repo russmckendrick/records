@@ -6,6 +6,7 @@ album_name: "Flowers At The Scene"
 date: 2019-02-28T18:48:33.000000Z
 release_date: "2019-03-01"
 release_id: "13283408"
+apple_music_url: "https://music.apple.com/gb/album/flowers-at-the-scene/1447398700"
 slug: "flowers-at-the-scene-13283408"
 hideSummary: true
 cover:

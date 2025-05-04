@@ -6,6 +6,7 @@ album_name: "The Hit Parade"
 date: 2022-09-25T07:17:03.000000Z
 release_date: "1992-01-01"
 release_id: "24616364"
+apple_music_url: "https://music.apple.com/gb/album/the-hit-parade/285881864"
 slug: "the-hit-parade-24616364"
 hideSummary: true
 cover:

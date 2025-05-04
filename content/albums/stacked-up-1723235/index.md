@@ -6,6 +6,7 @@ album_name: "Stacked Up"
 date: 2015-12-04T18:21:46.000000Z
 release_date: "1995"
 release_id: "1723235"
+apple_music_url: "https://music.apple.com/gb/album/senser-stacked-up-xx/924017824"
 slug: "stacked-up-1723235"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Chairs Missing"
 date: 2018-12-22T10:27:42.000000Z
 release_date: "1978-08-07"
 release_id: "12193551"
+apple_music_url: "https://music.apple.com/gb/album/chairs-missing/1328869087"
 slug: "chairs-missing-12193551"
 hideSummary: true
 cover:

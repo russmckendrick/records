@@ -6,6 +6,7 @@ album_name: "Happiness"
 date: 2020-08-26T09:04:49.000000Z
 release_date: "1990-02-20"
 release_id: "15725640"
+apple_music_url: "https://music.apple.com/gb/album/happiness/1325509066"
 slug: "happiness-15725640"
 hideSummary: true
 cover:

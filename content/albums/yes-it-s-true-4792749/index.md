@@ -6,6 +6,7 @@ album_name: "Yes, It's True"
 date: 2017-08-15T18:49:05.000000Z
 release_date: "2013-08-06"
 release_id: "4792749"
+apple_music_url: "https://music.apple.com/gb/album/yes-its-true/1595585729"
 slug: "yes-it-s-true-4792749"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "...And The Circus Leaves Town"
 date: 2016-09-14T16:49:10.000000Z
 release_date: "1995-07-11"
 release_id: "8901477"
+apple_music_url: "https://music.apple.com/gb/album/and-the-circus-leaves-town/207914986"
 slug: "and-the-circus-leaves-town-8901477"
 hideSummary: true
 cover:

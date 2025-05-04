@@ -6,6 +6,7 @@ album_name: "Sounds That Can't Be Made"
 date: 2017-12-17T12:31:09.000000Z
 release_date: "2012-09-14"
 release_id: "5101713"
+apple_music_url: "https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415"
 slug: "sounds-that-can-t-be-made-5101713"
 hideSummary: true
 cover:

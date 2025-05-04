@@ -6,6 +6,7 @@ album_name: "Apples & Oranges / Humanoid Boogie"
 date: 2018-06-28T20:46:46.000000Z
 release_date: ""
 release_id: "12193296"
+apple_music_url: ""
 slug: "apples-oranges-humanoid-boogie-12193296"
 hideSummary: true
 cover:

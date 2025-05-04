@@ -6,6 +6,7 @@ album_name: "Swagger (Lost Not Lost Volume One: 1989/1990)"
 date: 2024-02-02T00:42:35.000000Z
 release_date: ""
 release_id: "29642302"
+apple_music_url: ""
 slug: "swagger-lost-not-lost-volume-one-1989-1990-29642302"
 hideSummary: true
 cover:

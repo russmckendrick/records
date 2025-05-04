@@ -6,6 +6,7 @@ album_name: "Time For Heroes - The Best Of The Libertines"
 date: 2018-07-13T19:25:54.000000Z
 release_date: "2007-10-29"
 release_id: "2263029"
+apple_music_url: "https://music.apple.com/gb/album/time-for-heroes-the-best-of-the-libertines/1544358134"
 slug: "time-for-heroes-the-best-of-the-libertines-2263029"
 hideSummary: true
 cover:

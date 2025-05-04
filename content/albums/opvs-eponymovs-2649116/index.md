@@ -6,6 +6,7 @@ album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
 release_date: "2011-01-18"
 release_id: "2649116"
+apple_music_url: "https://music.apple.com/gb/album/opus-eponymous/398684510"
 slug: "opvs-eponymovs-2649116"
 hideSummary: true
 cover:

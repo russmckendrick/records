@@ -6,6 +6,7 @@ album_name: "Radiation 2013"
 date: 2021-05-30T05:07:49.000000Z
 release_date: "1998-10-27"
 release_id: "4755043"
+apple_music_url: "https://music.apple.com/gb/album/radiation-2013/1328434526"
 slug: "radiation-2013-4755043"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Rhythm And Stealth"
 date: 2023-05-19T11:07:04.000000Z
 release_date: "1999-09-15"
 release_id: "26862581"
+apple_music_url: "https://music.apple.com/gb/album/rhythm-and-stealth/206898205"
 slug: "rhythm-and-stealth-26862581"
 hideSummary: true
 cover:

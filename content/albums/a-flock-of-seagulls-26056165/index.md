@@ -6,6 +6,7 @@ album_name: "A Flock Of Seagulls"
 date: 2023-02-18T11:22:23.000000Z
 release_date: "1987"
 release_id: "26056165"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-a-flock-of-seagulls/290766340"
 slug: "a-flock-of-seagulls-26056165"
 hideSummary: true
 cover:

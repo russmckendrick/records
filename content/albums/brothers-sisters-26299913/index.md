@@ -6,6 +6,7 @@ album_name: "Brothers & Sisters"
 date: 2023-03-20T05:44:02.000000Z
 release_date: "2023-03-03"
 release_id: "26299913"
+apple_music_url: "https://music.apple.com/gb/album/brothers-sisters/1650378995"
 slug: "brothers-sisters-26299913"
 hideSummary: true
 cover:

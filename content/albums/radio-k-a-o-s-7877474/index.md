@@ -6,6 +6,7 @@ album_name: "Radio K.A.O.S."
 date: 2018-10-24T11:39:39.000000Z
 release_date: "1987-06-16"
 release_id: "7877474"
+apple_music_url: "https://music.apple.com/gb/album/radio-k-a-o-s/180102794"
 slug: "radio-k-a-o-s-7877474"
 hideSummary: true
 cover:

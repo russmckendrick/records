@@ -6,6 +6,7 @@ album_name: "Ice Hockey Hair EP"
 date: 2021-06-18T04:50:29.000000Z
 release_date: "2004-10-01"
 release_id: "19111489"
+apple_music_url: "https://music.apple.com/gb/album/songbook-the-singles-volume-1/1641278241"
 slug: "ice-hockey-hair-ep-19111489"
 hideSummary: true
 cover:

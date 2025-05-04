@@ -6,6 +6,7 @@ album_name: "Stories From The City, Stories From The Sea"
 date: 2021-02-26T04:30:53.000000Z
 release_date: "2000-01-01"
 release_id: "17545360"
+apple_music_url: "https://music.apple.com/gb/album/stories-from-the-city-stories-from-the-sea/1442556188"
 slug: "stories-from-the-city-stories-from-the-sea-17545360"
 hideSummary: true
 cover:

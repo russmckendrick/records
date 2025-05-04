@@ -6,6 +6,7 @@ album_name: "Love In Constant Spectacle"
 date: 2024-04-09T04:41:48.000000Z
 release_date: "2024-04-05"
 release_id: "30342611"
+apple_music_url: "https://music.apple.com/gb/album/love-in-constant-spectacle/1724172180"
 slug: "love-in-constant-spectacle-30342611"
 hideSummary: true
 cover:

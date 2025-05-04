@@ -6,6 +6,7 @@ album_name: "Transmission"
 date: 2016-05-31T19:31:47.000000Z
 release_date: "2016-05-27"
 release_id: "8473733"
+apple_music_url: "https://music.apple.com/gb/album/transmission/1110655687"
 slug: "transmission-8473733"
 hideSummary: true
 cover:

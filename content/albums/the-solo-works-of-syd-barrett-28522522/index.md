@@ -6,6 +6,7 @@ album_name: "The Solo Works Of Syd Barrett "
 date: 2023-10-09T01:02:45.000000Z
 release_date: "2024-08-27"
 release_id: "28522522"
+apple_music_url: "https://music.apple.com/gb/album/calm-classroom-music/1764481209"
 slug: "the-solo-works-of-syd-barrett-28522522"
 hideSummary: true
 cover:

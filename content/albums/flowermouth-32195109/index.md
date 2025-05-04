@@ -6,6 +6,7 @@ album_name: "Flowermouth"
 date: 2024-11-04T22:33:31.000000Z
 release_date: "1994-06-27"
 release_id: "32195109"
+apple_music_url: "https://music.apple.com/gb/album/flowermouth/1726653538"
 slug: "flowermouth-32195109"
 hideSummary: true
 cover:

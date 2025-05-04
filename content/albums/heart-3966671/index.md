@@ -6,6 +6,7 @@ album_name: "Heart"
 date: 2018-03-24T11:44:31.000000Z
 release_date: "2020-06-26"
 release_id: "3966671"
+apple_music_url: "https://music.apple.com/gb/album/heart/1441162196"
 slug: "heart-3966671"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Live At The Greek"
 date: 2025-04-11T04:40:04.000000Z
 release_date: "2025-03-14"
 release_id: "33485366"
+apple_music_url: "https://music.apple.com/gb/album/live-at-the-greek-live/1790694964"
 slug: "live-at-the-greek-33485366"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Best Of"
 date: 2024-04-20T07:59:29.000000Z
 release_date: "2024-04-19"
 release_id: "30441302"
+apple_music_url: "https://music.apple.com/gb/album/best-of-bruce-springsteen-expanded-edition/1733551531"
 slug: "best-of-30441302"
 hideSummary: true
 cover:

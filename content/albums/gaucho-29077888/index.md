@@ -6,6 +6,7 @@ album_name: "Gaucho"
 date: 2023-12-05T10:34:56.000000Z
 release_date: "1980-11-21"
 release_id: "29077888"
+apple_music_url: "https://music.apple.com/gb/album/gaucho/1715946508"
 slug: "gaucho-29077888"
 hideSummary: true
 cover:

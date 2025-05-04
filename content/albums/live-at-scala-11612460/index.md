@@ -6,6 +6,7 @@ album_name: "Live At Scala"
 date: 2018-05-24T14:11:29.000000Z
 release_date: "2018-02-16"
 release_id: "11612460"
+apple_music_url: "https://music.apple.com/gb/album/live-at-scala/1328370332"
 slug: "live-at-scala-11612460"
 hideSummary: true
 cover:

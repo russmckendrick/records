@@ -6,6 +6,7 @@ album_name: "Dixie Blur"
 date: 2020-03-07T10:40:40.000000Z
 release_date: "2020-03-06"
 release_id: "14876200"
+apple_music_url: "https://music.apple.com/gb/album/dixie-blur/1489222560"
 slug: "dixie-blur-14876200"
 hideSummary: true
 cover:

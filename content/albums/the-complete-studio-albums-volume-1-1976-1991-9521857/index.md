@@ -6,6 +6,7 @@ album_name: "The Complete Studio Albums Volume 1 (1976-1991)"
 date: 2018-10-14T15:19:55.000000Z
 release_date: ""
 release_id: "9521857"
+apple_music_url: ""
 slug: "the-complete-studio-albums-volume-1-1976-1991-9521857"
 hideSummary: true
 cover:

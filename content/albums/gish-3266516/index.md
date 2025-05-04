@@ -6,6 +6,7 @@ album_name: "Gish"
 date: 2016-02-27T10:12:09.000000Z
 release_date: "2000-02-29"
 release_id: "3266516"
+apple_music_url: "https://music.apple.com/gb/album/machina-the-machines-of-god/712756036"
 slug: "gish-3266516"
 hideSummary: true
 cover:

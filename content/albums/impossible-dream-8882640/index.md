@@ -6,6 +6,7 @@ album_name: "Impossible Dream"
 date: 2016-11-14T17:48:29.000000Z
 release_date: "2016-08-05"
 release_id: "8882640"
+apple_music_url: "https://music.apple.com/gb/album/impossible-dream/1106390964"
 slug: "impossible-dream-8882640"
 hideSummary: true
 cover:

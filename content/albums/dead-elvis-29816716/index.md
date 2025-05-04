@@ -6,6 +6,7 @@ album_name: "Dead Elvis"
 date: 2024-02-21T10:36:50.000000Z
 release_date: "1997-03-17"
 release_id: "29816716"
+apple_music_url: "https://music.apple.com/gb/album/dead-elvis/1187866460"
 slug: "dead-elvis-29816716"
 hideSummary: true
 cover:

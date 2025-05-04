@@ -6,6 +6,7 @@ album_name: "Donuts"
 date: 2020-02-14T20:33:32.000000Z
 release_date: "2006-02-07"
 release_id: "14749929"
+apple_music_url: "https://music.apple.com/gb/album/donuts/108233171"
 slug: "donuts-14749929"
 hideSummary: true
 cover:

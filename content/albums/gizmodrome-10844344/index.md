@@ -6,6 +6,7 @@ album_name: "Gizmodrome"
 date: 2017-09-15T13:05:04.000000Z
 release_date: "2021-11-19"
 release_id: "10844344"
+apple_music_url: "https://music.apple.com/gb/album/gizmodrome-live/1581446040"
 slug: "gizmodrome-10844344"
 hideSummary: true
 cover:

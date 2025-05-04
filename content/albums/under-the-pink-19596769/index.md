@@ -4,6 +4,7 @@ artist: "Tori Amos"
 album_name: "Under The Pink"
 date: 2023-05-21T05:55:51.000000Z
 release_id: "19596769"
+apple_music_url: "https://music.apple.com/gb/album/under-the-pink-remastered/981366461"
 slug: "under-the-pink-19596769"
 hideSummary: true
 cover:

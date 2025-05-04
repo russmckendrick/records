@@ -6,6 +6,7 @@ album_name: "Happiness Bastards"
 date: 2024-03-19T12:34:25.000000Z
 release_date: "2024-03-15"
 release_id: "30103142"
+apple_music_url: "https://music.apple.com/gb/album/happiness-bastards/1719010572"
 slug: "happiness-bastards-30103142"
 hideSummary: true
 cover:

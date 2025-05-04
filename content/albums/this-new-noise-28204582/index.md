@@ -6,6 +6,7 @@ album_name: "This New Noise "
 date: 2023-09-08T11:06:28.000000Z
 release_date: "2023-09-08"
 release_id: "28204582"
+apple_music_url: "https://music.apple.com/gb/album/this-new-noise-live/1757847579"
 slug: "this-new-noise-28204582"
 hideSummary: true
 cover:

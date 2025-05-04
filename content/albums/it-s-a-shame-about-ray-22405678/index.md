@@ -6,6 +6,7 @@ album_name: "It's A Shame About Ray"
 date: 2022-04-24T04:28:35.000000Z
 release_date: "1992-10-05"
 release_id: "22405678"
+apple_music_url: "https://music.apple.com/gb/album/its-a-shame-about-ray-ep/1716979934"
 slug: "it-s-a-shame-about-ray-22405678"
 hideSummary: true
 cover:

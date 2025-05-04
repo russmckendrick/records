@@ -6,6 +6,7 @@ album_name: "Dizrythmia"
 date: 2016-02-02T19:46:54.000000Z
 release_date: "1977-08-29"
 release_id: "2995959"
+apple_music_url: "https://music.apple.com/gb/album/dizrythmia/1629184668"
 slug: "dizrythmia-2995959"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Welcome To Sky Valley"
 date: 2016-09-14T16:48:33.000000Z
 release_date: "1994-06-28"
 release_id: "8901378"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-sky-valley/207973376"
 slug: "welcome-to-sky-valley-8901378"
 hideSummary: true
 cover:

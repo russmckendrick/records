@@ -6,6 +6,7 @@ album_name: "The Patty Patty Sound"
 date: 2016-02-19T17:28:46.000000Z
 release_date: "2024-10-18"
 release_id: "7427082"
+apple_music_url: "https://music.apple.com/gb/album/its-officially-christmas-the-double-album/1774094610"
 slug: "the-patty-patty-sound-7427082"
 hideSummary: true
 cover:

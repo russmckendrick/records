@@ -6,6 +6,7 @@ album_name: "Swing The Mood"
 date: 2017-05-16T19:47:14.000000Z
 release_date: "2009-10-19"
 release_id: "576722"
+apple_music_url: "https://music.apple.com/gb/album/jive-bunny-and-the-mastermixers-go-to-motown/341138531"
 slug: "swing-the-mood-576722"
 hideSummary: true
 cover:

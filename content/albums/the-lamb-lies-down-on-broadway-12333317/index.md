@@ -6,6 +6,7 @@ album_name: "The Lamb Lies Down On Broadway"
 date: 2018-08-03T18:44:32.000000Z
 release_date: "2023-08-03"
 release_id: "12333317"
+apple_music_url: "https://music.apple.com/gb/album/a-re-invention-of-the-lamb-lies-down-on-broadway/1699101080"
 slug: "the-lamb-lies-down-on-broadway-12333317"
 hideSummary: true
 cover:

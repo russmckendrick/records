@@ -6,6 +6,7 @@ album_name: "Parklife"
 date: 2016-07-05T16:23:28.000000Z
 release_date: "1994-04-25"
 release_id: "7579798"
+apple_music_url: "https://music.apple.com/gb/album/parklife/699665183"
 slug: "parklife-7579798"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Black Cherry"
 date: 2021-04-01T00:48:05.000000Z
 release_date: "2003-04-23"
 release_id: "14182932"
+apple_music_url: "https://music.apple.com/gb/album/black-cherry/1435643051"
 slug: "black-cherry-14182932"
 hideSummary: true
 cover:

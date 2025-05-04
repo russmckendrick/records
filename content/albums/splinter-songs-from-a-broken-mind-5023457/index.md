@@ -6,6 +6,7 @@ album_name: "Splinter (Songs From A Broken Mind)"
 date: 2017-02-24T19:44:52.000000Z
 release_date: "2013-10-14"
 release_id: "5023457"
+apple_music_url: "https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981"
 slug: "splinter-songs-from-a-broken-mind-5023457"
 hideSummary: true
 cover:

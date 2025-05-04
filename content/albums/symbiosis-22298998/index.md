@@ -6,6 +6,7 @@ album_name: "Symbiosis"
 date: 2022-02-27T08:05:43.000000Z
 release_date: "2022-02-04"
 release_id: "22298998"
+apple_music_url: "https://music.apple.com/gb/album/symbiosis/1604277526"
 slug: "symbiosis-22298998"
 hideSummary: true
 cover:

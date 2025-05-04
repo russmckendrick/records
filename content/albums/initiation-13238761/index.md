@@ -6,6 +6,7 @@ album_name: "Initiation"
 date: 2022-03-06T05:00:16.000000Z
 release_date: "1975-05"
 release_id: "13238761"
+apple_music_url: "https://music.apple.com/gb/album/initiation/1084825294"
 slug: "initiation-13238761"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Lost In The Ghost Light"
 date: 2017-02-18T11:14:07.000000Z
 release_date: "2017-02-17"
 release_id: "9852036"
+apple_music_url: "https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058"
 slug: "lost-in-the-ghost-light-9852036"
 hideSummary: true
 cover:

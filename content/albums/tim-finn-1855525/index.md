@@ -6,6 +6,7 @@ album_name: "Tim Finn"
 date: 2015-09-04T16:46:03.000000Z
 release_date: "1989-01-01"
 release_id: "1855525"
+apple_music_url: "https://music.apple.com/gb/album/tim-finn/716043126"
 slug: "tim-finn-1855525"
 hideSummary: true
 cover:

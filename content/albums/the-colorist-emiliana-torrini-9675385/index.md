@@ -6,6 +6,7 @@ album_name: "The Colorist & Emiliana Torrini"
 date: 2017-05-16T18:19:36.000000Z
 release_date: "2016-12-09"
 release_id: "9675385"
+apple_music_url: "https://music.apple.com/gb/album/the-colorist-emiliana-torrini/1152099751"
 slug: "the-colorist-emiliana-torrini-9675385"
 hideSummary: true
 cover:

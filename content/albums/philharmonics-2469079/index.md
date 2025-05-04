@@ -6,6 +6,7 @@ album_name: "Philharmonics"
 date: 2017-01-05T19:25:10.000000Z
 release_date: "2010-10-04"
 release_id: "2469079"
+apple_music_url: "https://music.apple.com/gb/album/philharmonics/390881579"
 slug: "philharmonics-2469079"
 hideSummary: true
 cover:

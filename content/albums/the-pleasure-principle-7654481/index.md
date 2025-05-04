@@ -6,6 +6,7 @@ album_name: "The Pleasure Principle"
 date: 2016-12-08T18:38:02.000000Z
 release_date: "2010-10-18"
 release_id: "7654481"
+apple_music_url: "https://music.apple.com/gb/album/the-pleasure-principle-live/404842205"
 slug: "the-pleasure-principle-7654481"
 hideSummary: true
 cover:

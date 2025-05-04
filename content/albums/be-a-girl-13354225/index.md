@@ -6,6 +6,7 @@ album_name: "Be A Girl"
 date: 2019-04-09T17:41:17.000000Z
 release_date: "1994-11-25"
 release_id: "13354225"
+apple_music_url: "https://music.apple.com/gb/album/be-a-girl/253726073"
 slug: "be-a-girl-13354225"
 hideSummary: true
 cover:

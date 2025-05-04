@@ -6,6 +6,7 @@ album_name: "Shame"
 date: 2023-07-24T04:25:35.000000Z
 release_date: "1993-04-27"
 release_id: "27739077"
+apple_music_url: "https://music.apple.com/gb/album/shame/1482558009"
 slug: "shame-27739077"
 hideSummary: true
 cover:

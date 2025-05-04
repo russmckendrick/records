@@ -6,6 +6,7 @@ album_name: "Any Minute Now"
 date: 2023-04-23T04:36:49.000000Z
 release_date: "2004-08-19"
 release_id: "26815301"
+apple_music_url: "https://music.apple.com/gb/album/any-minute-now/273159734"
 slug: "any-minute-now-26815301"
 hideSummary: true
 cover:

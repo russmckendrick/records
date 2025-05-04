@@ -6,6 +6,7 @@ album_name: "Lovelife"
 date: 2023-08-11T08:23:05.000000Z
 release_date: "1996-03-18"
 release_id: "27921891"
+apple_music_url: "https://music.apple.com/gb/album/lovelife/1450118499"
 slug: "lovelife-27921891"
 hideSummary: true
 cover:

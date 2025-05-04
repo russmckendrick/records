@@ -6,6 +6,7 @@ album_name: "Blind Melon"
 date: 2016-12-18T10:11:34.000000Z
 release_date: "2005-01-01"
 release_id: "5746552"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-blind-melon/716703910"
 slug: "blind-melon-5746552"
 hideSummary: true
 cover:

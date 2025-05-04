@@ -6,6 +6,7 @@ album_name: "Three Of A Perfect Pair"
 date: 2023-02-03T11:50:10.000000Z
 release_date: "1984-03-27"
 release_id: "24973192"
+apple_music_url: "https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276"
 slug: "three-of-a-perfect-pair-24973192"
 hideSummary: true
 cover:

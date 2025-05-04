@@ -6,6 +6,7 @@ album_name: "Seasons End (Deluxe Edition)"
 date: 2023-05-19T11:05:57.000000Z
 release_date: "1989-09-25"
 release_id: "26861306"
+apple_music_url: "https://music.apple.com/gb/album/seasons-end-2023-remix-deluxe-edition/1678317041"
 slug: "seasons-end-deluxe-edition-26861306"
 hideSummary: true
 cover:

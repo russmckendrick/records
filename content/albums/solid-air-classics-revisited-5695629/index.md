@@ -6,6 +6,7 @@ album_name: "Solid Air (Classics Revisited)"
 date: 2016-07-08T16:31:37.000000Z
 release_date: ""
 release_id: "5695629"
+apple_music_url: ""
 slug: "solid-air-classics-revisited-5695629"
 hideSummary: true
 cover:

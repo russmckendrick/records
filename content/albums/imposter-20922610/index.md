@@ -6,6 +6,7 @@ album_name: "Imposter"
 date: 2021-11-12T10:48:20.000000Z
 release_date: "2021-11-12"
 release_id: "20922610"
+apple_music_url: "https://music.apple.com/gb/album/imposter/1587991588"
 slug: "imposter-20922610"
 hideSummary: true
 cover:

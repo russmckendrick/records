@@ -6,6 +6,7 @@ album_name: "… And Justice For All"
 date: 2024-02-06T12:20:44.000000Z
 release_date: "1988-08-25"
 release_id: "29674207"
+apple_music_url: "https://music.apple.com/gb/album/and-justice-for-all/1440843504"
 slug: "and-justice-for-all-29674207"
 hideSummary: true
 cover:

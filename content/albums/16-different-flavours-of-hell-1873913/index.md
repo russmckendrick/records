@@ -6,6 +6,7 @@ album_name: "16 Different Flavours Of Hell"
 date: 2024-01-19T10:58:11.000000Z
 release_date: "1993-10-23"
 release_id: "1873913"
+apple_music_url: "https://music.apple.com/gb/album/16-different-flavours-of-hell/258671891"
 slug: "16-different-flavours-of-hell-1873913"
 hideSummary: true
 cover:

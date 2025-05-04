@@ -6,6 +6,7 @@ album_name: "Conduit"
 date: 2018-04-24T05:54:25.000000Z
 release_date: "2018-04-20"
 release_id: "11840249"
+apple_music_url: "https://music.apple.com/gb/album/conduit/1349990562"
 slug: "conduit-11840249"
 hideSummary: true
 cover:

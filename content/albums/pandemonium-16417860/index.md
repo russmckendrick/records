@@ -6,6 +6,7 @@ album_name: "Pandemonium"
 date: 2020-12-12T03:13:20.000000Z
 release_date: "1994-02-08"
 release_id: "16417860"
+apple_music_url: "https://music.apple.com/gb/album/pandemonium/1679617786"
 slug: "pandemonium-16417860"
 hideSummary: true
 cover:

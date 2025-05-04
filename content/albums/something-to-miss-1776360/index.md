@@ -6,6 +6,7 @@ album_name: "Something To Miss"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2007-07-05"
 release_id: "1776360"
+apple_music_url: "https://music.apple.com/gb/album/something-to-miss/259504098"
 slug: "something-to-miss-1776360"
 hideSummary: true
 cover:

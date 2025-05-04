@@ -6,6 +6,7 @@ album_name: "Original Flava"
 date: 2023-05-29T04:53:36.000000Z
 release_date: "1994-01-01"
 release_id: "27141702"
+apple_music_url: "https://music.apple.com/gb/album/original-flava/1152595931"
 slug: "original-flava-27141702"
 hideSummary: true
 cover:

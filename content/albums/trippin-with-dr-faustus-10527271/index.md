@@ -6,6 +6,7 @@ album_name: "Trippin' With Dr. Faustus"
 date: 2018-08-12T09:43:08.000000Z
 release_date: "2017-06-23"
 release_id: "10527271"
+apple_music_url: "https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150"
 slug: "trippin-with-dr-faustus-10527271"
 hideSummary: true
 cover:

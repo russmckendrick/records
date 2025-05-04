@@ -6,6 +6,7 @@ album_name: "Cheating The Polygraph"
 date: 2022-01-05T03:54:49.000000Z
 release_date: "2015-04-13"
 release_id: "6905612"
+apple_music_url: "https://music.apple.com/gb/album/cheating-the-polygraph/969274641"
 slug: "cheating-the-polygraph-6905612"
 hideSummary: true
 cover:

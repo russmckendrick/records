@@ -6,6 +6,7 @@ album_name: "We Love Life"
 date: 2016-10-25T14:09:06.000000Z
 release_date: "2001-01-01"
 release_id: "8667146"
+apple_music_url: "https://music.apple.com/gb/album/we-love-life/1443378546"
 slug: "we-love-life-8667146"
 hideSummary: true
 cover:

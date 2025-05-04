@@ -6,6 +6,7 @@ album_name: "Drink Me"
 date: 2023-10-16T13:35:30.000000Z
 release_date: "1995-03-16"
 release_id: "28603771"
+apple_music_url: "https://music.apple.com/gb/album/drink-me/1442559624"
 slug: "drink-me-28603771"
 hideSummary: true
 cover:

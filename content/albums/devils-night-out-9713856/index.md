@@ -6,6 +6,7 @@ album_name: "Devils Night Out"
 date: 2020-08-15T10:10:27.000000Z
 release_date: "1998-01-01"
 release_id: "9713856"
+apple_music_url: "https://music.apple.com/gb/album/the-mighty-mighty-bosstones-live-from-the-middle-east/1443762934"
 slug: "devils-night-out-9713856"
 hideSummary: true
 cover:

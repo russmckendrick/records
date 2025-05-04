@@ -6,6 +6,7 @@ album_name: "Astral Weeks"
 date: 2017-07-23T14:31:10.000000Z
 release_date: "1968-11-01"
 release_id: "10596963"
+apple_music_url: "https://music.apple.com/gb/album/astral-weeks/1031002336"
 slug: "astral-weeks-10596963"
 hideSummary: true
 cover:

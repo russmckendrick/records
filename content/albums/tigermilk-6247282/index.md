@@ -6,6 +6,7 @@ album_name: "Tigermilk"
 date: 2017-04-25T08:34:25.000000Z
 release_date: "1996-06-06"
 release_id: "6247282"
+apple_music_url: "https://music.apple.com/gb/album/tigermilk/1669026397"
 slug: "tigermilk-6247282"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Odelay"
 date: 2016-10-21T17:27:55.000000Z
 release_date: "2015-06-26"
 release_id: "9168171"
+apple_music_url: "https://music.apple.com/gb/album/becks-odelay-ep/1738275155"
 slug: "odelay-9168171"
 hideSummary: true
 cover:

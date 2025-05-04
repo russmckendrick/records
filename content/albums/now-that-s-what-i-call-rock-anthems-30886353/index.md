@@ -6,6 +6,7 @@ album_name: "Now That's What I Call Rock Anthems"
 date: 2024-06-07T00:32:24.000000Z
 release_date: ""
 release_id: "30886353"
+apple_music_url: ""
 slug: "now-that-s-what-i-call-rock-anthems-30886353"
 hideSummary: true
 cover:

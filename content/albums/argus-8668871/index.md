@@ -6,6 +6,7 @@ album_name: "Argus"
 date: 2017-06-01T18:07:52.000000Z
 release_date: "1970-12-04"
 release_id: "8668871"
+apple_music_url: "https://music.apple.com/gb/album/wishbone-ash/1443237340"
 slug: "argus-8668871"
 hideSummary: true
 cover:

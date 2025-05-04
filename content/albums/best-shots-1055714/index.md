@@ -6,6 +6,7 @@ album_name: "Best Shots"
 date: 2019-11-08T19:52:05.000000Z
 release_date: "1987-10-26"
 release_id: "1055714"
+apple_music_url: "https://music.apple.com/gb/album/best-shots/724322042"
 slug: "best-shots-1055714"
 hideSummary: true
 cover:

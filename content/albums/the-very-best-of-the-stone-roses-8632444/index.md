@@ -6,6 +6,7 @@ album_name: "The Very Best Of The Stone Roses"
 date: 2020-07-15T10:37:43.000000Z
 release_date: "1992-07-20"
 release_id: "8632444"
+apple_music_url: "https://music.apple.com/gb/album/the-stone-roses-turns-into-stone/553210422"
 slug: "the-very-best-of-the-stone-roses-8632444"
 hideSummary: true
 cover:

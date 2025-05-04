@@ -6,6 +6,7 @@ album_name: "Quo"
 date: 2016-05-23T18:26:50.000000Z
 release_date: "1974-05"
 release_id: "7578559"
+apple_music_url: "https://music.apple.com/gb/album/quo/1444084881"
 slug: "quo-7578559"
 hideSummary: true
 cover:

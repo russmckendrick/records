@@ -6,6 +6,7 @@ album_name: "Prince"
 date: 2016-06-26T13:15:41.000000Z
 release_date: "2014-05-16"
 release_id: "8486292"
+apple_music_url: "https://music.apple.com/gb/album/prince-single/872805392"
 slug: "prince-8486292"
 hideSummary: true
 cover:

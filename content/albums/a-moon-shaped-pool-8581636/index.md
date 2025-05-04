@@ -6,6 +6,7 @@ album_name: "A Moon Shaped Pool"
 date: 2016-06-20T17:50:43.000000Z
 release_date: "2016-05-08"
 release_id: "8581636"
+apple_music_url: "https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743"
 slug: "a-moon-shaped-pool-8581636"
 hideSummary: true
 cover:

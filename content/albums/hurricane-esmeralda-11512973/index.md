@@ -6,6 +6,7 @@ album_name: "Hurricane Esmeralda"
 date: 2018-02-07T06:57:19.000000Z
 release_date: "2018-01-20"
 release_id: "11512973"
+apple_music_url: "https://music.apple.com/gb/album/hurricane-esmeralda/1314469704"
 slug: "hurricane-esmeralda-11512973"
 hideSummary: true
 cover:

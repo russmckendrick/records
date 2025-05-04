@@ -6,6 +6,7 @@ album_name: "Pasar De Las Luces"
 date: 2018-06-13T17:28:19.000000Z
 release_date: "2018-02-23"
 release_id: "11608065"
+apple_music_url: "https://music.apple.com/gb/album/pasar-de-las-luces/1608120869"
 slug: "pasar-de-las-luces-11608065"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "In The Dead, Dead Wood"
 date: 2021-03-29T04:48:05.000000Z
 release_date: "2020-11-06"
 release_id: "18001318"
+apple_music_url: "https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572"
 slug: "in-the-dead-dead-wood-18001318"
 hideSummary: true
 cover:

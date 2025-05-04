@@ -6,6 +6,7 @@ album_name: "Vapor Trails Remixed"
 date: 2015-12-14T17:05:45.000000Z
 release_date: "2002-05-14"
 release_id: "5005939"
+apple_music_url: "https://music.apple.com/gb/album/vapor-trails-remixed/708140941"
 slug: "vapor-trails-remixed-5005939"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fawlty Towers"
 date: 2020-08-02T13:35:55.000000Z
 release_date: ""
 release_id: "5815932"
+apple_music_url: ""
 slug: "fawlty-towers-5815932"
 hideSummary: true
 cover:

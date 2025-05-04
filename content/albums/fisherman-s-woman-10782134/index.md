@@ -6,6 +6,7 @@ album_name: "Fisherman's Woman"
 date: 2017-09-01T20:52:16.000000Z
 release_date: "2005-01-31"
 release_id: "10782134"
+apple_music_url: "https://music.apple.com/gb/album/fishermans-woman/259865722"
 slug: "fisherman-s-woman-10782134"
 hideSummary: true
 cover:

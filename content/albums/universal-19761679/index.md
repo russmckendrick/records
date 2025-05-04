@@ -6,6 +6,7 @@ album_name: "Universal"
 date: 2022-09-12T08:08:17.000000Z
 release_date: "1996-01-01"
 release_id: "19761679"
+apple_music_url: "https://music.apple.com/gb/album/universal/724394826"
 slug: "universal-19761679"
 hideSummary: true
 cover:

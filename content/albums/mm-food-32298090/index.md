@@ -6,6 +6,7 @@ album_name: "MM..Food"
 date: 2024-11-16T08:47:59.000000Z
 release_date: "2004-11-16"
 release_id: "32298090"
+apple_music_url: "https://music.apple.com/gb/album/mm-food/1516750770"
 slug: "mm-food-32298090"
 hideSummary: true
 cover:

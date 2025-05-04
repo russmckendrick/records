@@ -6,6 +6,7 @@ album_name: "Fleetwood Mac"
 date: 2019-12-02T09:34:05.000000Z
 release_date: "1975-07-11"
 release_id: "14471238"
+apple_music_url: "https://music.apple.com/gb/album/fleetwood-mac/309646617"
 slug: "fleetwood-mac-14471238"
 hideSummary: true
 cover:

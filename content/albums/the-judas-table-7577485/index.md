@@ -6,6 +6,7 @@ album_name: "The Judas Table"
 date: 2016-01-18T18:40:52.000000Z
 release_date: "2015-10-09"
 release_id: "7577485"
+apple_music_url: "https://music.apple.com/gb/album/the-judas-table/1556091887"
 slug: "the-judas-table-7577485"
 hideSummary: true
 cover:

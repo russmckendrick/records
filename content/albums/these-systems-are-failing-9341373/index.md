@@ -6,6 +6,7 @@ album_name: "These Systems Are Failing"
 date: 2017-02-10T20:04:35.000000Z
 release_date: "2016-10-14"
 release_id: "9341373"
+apple_music_url: "https://music.apple.com/gb/album/these-systems-are-failing/1160876308"
 slug: "these-systems-are-failing-9341373"
 hideSummary: true
 cover:

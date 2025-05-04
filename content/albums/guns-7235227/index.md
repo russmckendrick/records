@@ -6,6 +6,7 @@ album_name: "Guns"
 date: 2016-12-13T17:53:06.000000Z
 release_date: "1999-09-24"
 release_id: "7235227"
+apple_music_url: "https://music.apple.com/gb/album/guns/336779427"
 slug: "guns-7235227"
 hideSummary: true
 cover:

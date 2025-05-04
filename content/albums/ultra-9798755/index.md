@@ -6,6 +6,7 @@ album_name: "Ultra"
 date: 2017-02-10T17:47:12.000000Z
 release_date: "2006-11-08"
 release_id: "9798755"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796"
 slug: "ultra-9798755"
 hideSummary: true
 cover:

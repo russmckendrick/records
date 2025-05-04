@@ -6,6 +6,7 @@ album_name: "Coming Up To Consciousness"
 date: 2024-09-08T04:31:38.000000Z
 release_date: "2024-09-06"
 release_id: "31683545"
+apple_music_url: "https://music.apple.com/gb/album/coming-up-to-consciousness/1751003081"
 slug: "coming-up-to-consciousness-31683545"
 hideSummary: true
 cover:

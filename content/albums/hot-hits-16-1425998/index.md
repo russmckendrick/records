@@ -6,6 +6,7 @@ album_name: "Hot Hits 16"
 date: 2020-08-02T13:41:27.000000Z
 release_date: ""
 release_id: "1425998"
+apple_music_url: ""
 slug: "hot-hits-16-1425998"
 hideSummary: true
 cover:

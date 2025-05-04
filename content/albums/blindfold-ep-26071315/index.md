@@ -6,6 +6,7 @@ album_name: "Blindfold EP"
 date: 2023-02-13T11:31:14.000000Z
 release_date: ""
 release_id: "26071315"
+apple_music_url: ""
 slug: "blindfold-ep-26071315"
 hideSummary: true
 cover:

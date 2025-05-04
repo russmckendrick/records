@@ -6,6 +6,7 @@ album_name: "40 Years: The Greatest Hits"
 date: 2020-11-27T17:47:00.000000Z
 release_date: "2020-11-27"
 release_id: "16280313"
+apple_music_url: "https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673"
 slug: "40-years-the-greatest-hits-16280313"
 hideSummary: true
 cover:

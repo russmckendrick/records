@@ -6,6 +6,7 @@ album_name: "Shades And Echoes"
 date: 2022-02-26T10:38:07.000000Z
 release_date: "2021-11-12"
 release_id: "22152553"
+apple_music_url: "https://music.apple.com/gb/album/shades-and-echoes/1593377292"
 slug: "shades-and-echoes-22152553"
 hideSummary: true
 cover:

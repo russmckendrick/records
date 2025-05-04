@@ -6,6 +6,7 @@ album_name: "Winter"
 date: 2016-12-04T11:07:17.000000Z
 release_date: "2020-05-02"
 release_id: "8203489"
+apple_music_url: "https://music.apple.com/gb/album/classical-sleep/1509903251"
 slug: "winter-8203489"
 hideSummary: true
 cover:

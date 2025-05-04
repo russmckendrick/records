@@ -6,6 +6,7 @@ album_name: "Grey Tickles, Black Pressure"
 date: 2015-10-09T17:01:43.000000Z
 release_date: "2015-10-09"
 release_id: "7574111"
+apple_music_url: "https://music.apple.com/gb/album/grey-tickles-black-pressure/1009276812"
 slug: "grey-tickles-black-pressure-7574111"
 hideSummary: true
 cover:

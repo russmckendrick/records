@@ -6,6 +6,7 @@ album_name: "Live At The Roundhouse"
 date: 2020-09-18T11:08:36.000000Z
 release_date: "2020-09-18"
 release_id: "15927877"
+apple_music_url: "https://music.apple.com/gb/album/live-at-the-roundhouse/1495412702"
 slug: "live-at-the-roundhouse-15927877"
 hideSummary: true
 cover:

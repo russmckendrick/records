@@ -6,6 +6,7 @@ album_name: "Meddle"
 date: 2016-09-23T16:51:31.000000Z
 release_date: "2006-07-11"
 release_id: "9063908"
+apple_music_url: "https://music.apple.com/gb/album/pink-floyd/278703138"
 slug: "meddle-9063908"
 hideSummary: true
 cover:

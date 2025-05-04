@@ -6,6 +6,7 @@ album_name: "When God Was Great"
 date: 2021-05-07T05:03:35.000000Z
 release_date: "2021-05-07"
 release_id: "18610117"
+apple_music_url: "https://music.apple.com/gb/album/when-god-was-great/1553943817"
 slug: "when-god-was-great-18610117"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ziltoid (Dark Matters)"
 date: 2016-05-03T16:17:30.000000Z
 release_date: "2015-11-13"
 release_id: "7514406"
+apple_music_url: "https://music.apple.com/gb/album/devin-townsend-presents-ziltoid-live-at-the-royal/1045920518"
 slug: "ziltoid-dark-matters-7514406"
 hideSummary: true
 cover:

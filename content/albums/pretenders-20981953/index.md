@@ -6,6 +6,7 @@ album_name: "Pretenders"
 date: 2024-03-28T05:14:26.000000Z
 release_date: "1980-01-03"
 release_id: "20981953"
+apple_music_url: "https://music.apple.com/gb/album/pretenders/118127946"
 slug: "pretenders-20981953"
 hideSummary: true
 cover:

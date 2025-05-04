@@ -6,6 +6,7 @@ album_name: "Superjudge"
 date: 2016-07-10T09:50:22.000000Z
 release_date: "1993-04-06"
 release_id: "8112399"
+apple_music_url: "https://music.apple.com/gb/album/superjudge/1713568887"
 slug: "superjudge-8112399"
 hideSummary: true
 cover:

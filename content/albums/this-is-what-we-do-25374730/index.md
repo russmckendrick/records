@@ -6,6 +6,7 @@ album_name: "This Is What We Do"
 date: 2022-12-06T05:13:39.000000Z
 release_date: "2022-12-02"
 release_id: "25374730"
+apple_music_url: "https://music.apple.com/gb/album/this-is-what-we-do/1635360070"
 slug: "this-is-what-we-do-25374730"
 hideSummary: true
 cover:

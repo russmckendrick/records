@@ -6,6 +6,7 @@ album_name: "Duke"
 date: 2020-06-01T13:34:46.000000Z
 release_date: "2023-02-24"
 release_id: "12344522"
+apple_music_url: "https://music.apple.com/gb/album/genesis-drop-single/1662502516"
 slug: "duke-12344522"
 hideSummary: true
 cover:

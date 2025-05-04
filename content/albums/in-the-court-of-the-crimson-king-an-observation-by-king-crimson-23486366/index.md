@@ -6,6 +6,7 @@ album_name: "In The Court Of The Crimson King (An Observation By King Crimson)"
 date: 2022-06-14T07:41:00.000000Z
 release_date: ""
 release_id: "23486366"
+apple_music_url: ""
 slug: "in-the-court-of-the-crimson-king-an-observation-by-king-crimson-23486366"
 hideSummary: true
 cover:

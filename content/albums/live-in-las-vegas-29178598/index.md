@@ -6,6 +6,7 @@ album_name: "Live In Las Vegas"
 date: 2023-12-14T11:20:57.000000Z
 release_date: "1968-05-06"
 release_id: "29178598"
+apple_music_url: "https://music.apple.com/gb/album/at-folsom-prison-live/825516828"
 slug: "live-in-las-vegas-29178598"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Come Ahead"
 date: 2024-11-09T22:00:33.000000Z
 release_date: "2024-11-08"
 release_id: "32241834"
+apple_music_url: "https://music.apple.com/gb/album/come-ahead/1753323854"
 slug: "come-ahead-32241834"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "To Believe"
 date: 2019-03-17T10:25:23.000000Z
 release_date: "2019-03-15"
 release_id: "13344503"
+apple_music_url: "https://music.apple.com/gb/album/to-believe/1446886232"
 slug: "to-believe-13344503"
 hideSummary: true
 cover:

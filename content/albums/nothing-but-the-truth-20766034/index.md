@@ -6,6 +6,7 @@ album_name: "Nothing But The Truth"
 date: 2021-11-03T04:57:21.000000Z
 release_date: "2021-10-22"
 release_id: "20766034"
+apple_music_url: "https://music.apple.com/gb/album/nothing-but-the-truth/1579363537"
 slug: "nothing-but-the-truth-20766034"
 hideSummary: true
 cover:

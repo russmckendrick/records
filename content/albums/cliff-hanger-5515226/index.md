@@ -6,6 +6,7 @@ album_name: "Cliff Hanger"
 date: 2017-05-27T15:33:48.000000Z
 release_date: "1985"
 release_id: "5515226"
+apple_music_url: "https://music.apple.com/gb/album/cliff-hanger/185867129"
 slug: "cliff-hanger-5515226"
 hideSummary: true
 cover:

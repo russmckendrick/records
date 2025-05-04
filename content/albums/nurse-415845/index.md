@@ -6,6 +6,7 @@ album_name: "Nurse"
 date: 2019-05-16T17:40:00.000000Z
 release_date: "1992-10-17"
 release_id: "415845"
+apple_music_url: "https://music.apple.com/gb/album/nurse/1444110474"
 slug: "nurse-415845"
 hideSummary: true
 cover:

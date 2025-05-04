@@ -6,6 +6,7 @@ album_name: "Endtroducing..."
 date: 2016-06-20T17:51:24.000000Z
 release_date: "1996-01-01"
 release_id: "3244766"
+apple_music_url: "https://music.apple.com/gb/album/endtroducing/1660485817"
 slug: "endtroducing-3244766"
 hideSummary: true
 cover:

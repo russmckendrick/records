@@ -6,6 +6,7 @@ album_name: "‘B’ is for Silver Sun"
 date: 2023-11-07T05:58:03.000000Z
 release_date: "1997-01-01"
 release_id: "27539988"
+apple_music_url: "https://music.apple.com/gb/album/b-is-for-silver-sun/1755948124"
 slug: "b-is-for-silver-sun-27539988"
 hideSummary: true
 cover:

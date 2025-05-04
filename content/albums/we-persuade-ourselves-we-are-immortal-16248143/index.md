@@ -6,6 +6,7 @@ album_name: "We Persuade Ourselves We Are Immortal"
 date: 2021-03-24T07:44:47.000000Z
 release_date: ""
 release_id: "16248143"
+apple_music_url: ""
 slug: "we-persuade-ourselves-we-are-immortal-16248143"
 hideSummary: true
 cover:

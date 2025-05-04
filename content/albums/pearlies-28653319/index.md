@@ -6,6 +6,7 @@ album_name: "Pearlies"
 date: 2023-10-25T11:54:54.000000Z
 release_date: "2023-10-20"
 release_id: "28653319"
+apple_music_url: "https://music.apple.com/gb/album/pearlies/1697174677"
 slug: "pearlies-28653319"
 hideSummary: true
 cover:

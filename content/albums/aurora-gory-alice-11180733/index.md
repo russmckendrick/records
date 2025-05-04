@@ -6,6 +6,7 @@ album_name: "Aurora Gory Alice"
 date: 2020-03-11T19:19:12.000000Z
 release_date: "1994"
 release_id: "11180733"
+apple_music_url: "https://music.apple.com/gb/album/aurora-gory-alice/298888785"
 slug: "aurora-gory-alice-11180733"
 hideSummary: true
 cover:

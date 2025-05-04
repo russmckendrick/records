@@ -6,6 +6,7 @@ album_name: "The Harder They Come (Original Soundtrack Recording)"
 date: 2019-01-04T19:33:59.000000Z
 release_date: ""
 release_id: "11949372"
+apple_music_url: ""
 slug: "the-harder-they-come-original-soundtrack-recording-11949372"
 hideSummary: true
 cover:

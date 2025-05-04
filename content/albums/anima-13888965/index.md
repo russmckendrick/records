@@ -6,6 +6,7 @@ album_name: "Anima"
 date: 2019-07-20T10:15:42.000000Z
 release_date: "2019-06-27"
 release_id: "13888965"
+apple_music_url: "https://music.apple.com/gb/album/anima/1467347588"
 slug: "anima-13888965"
 hideSummary: true
 cover:

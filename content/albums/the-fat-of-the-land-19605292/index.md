@@ -6,6 +6,7 @@ album_name: "The Fat Of The Land"
 date: 2021-07-27T04:40:01.000000Z
 release_date: "1997-06-30"
 release_id: "19605292"
+apple_music_url: "https://music.apple.com/gb/album/the-fat-of-the-land/1450123945"
 slug: "the-fat-of-the-land-19605292"
 hideSummary: true
 cover:

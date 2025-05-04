@@ -6,6 +6,7 @@ album_name: "Hologram"
 date: 2023-09-25T04:02:47.000000Z
 release_date: "2023-04-14"
 release_id: "28259452"
+apple_music_url: "https://music.apple.com/gb/album/hologram-digital/1671607587"
 slug: "hologram-28259452"
 hideSummary: true
 cover:

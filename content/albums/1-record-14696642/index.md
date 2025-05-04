@@ -6,6 +6,7 @@ album_name: "#1 Record"
 date: 2020-03-07T10:42:00.000000Z
 release_date: "1972-04-24"
 release_id: "14696642"
+apple_music_url: "https://music.apple.com/gb/album/1-record/1422691834"
 slug: "1-record-14696642"
 hideSummary: true
 cover:

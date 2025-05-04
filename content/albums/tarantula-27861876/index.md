@@ -6,6 +6,7 @@ album_name: "Tarantula"
 date: 2023-08-06T07:40:28.000000Z
 release_date: "1996-03-12"
 release_id: "27861876"
+apple_music_url: "https://music.apple.com/gb/album/tarantula-remastered/884028948"
 slug: "tarantula-27861876"
 hideSummary: true
 cover:

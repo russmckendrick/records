@@ -6,6 +6,7 @@ album_name: "If You're Feeling Sinister"
 date: 2017-04-25T08:35:04.000000Z
 release_date: "1996-11-18"
 release_id: "6242307"
+apple_music_url: "https://music.apple.com/gb/album/if-youre-feeling-sinister/516530926"
 slug: "if-you-re-feeling-sinister-6242307"
 hideSummary: true
 cover:

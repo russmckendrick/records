@@ -6,6 +6,7 @@ album_name: "Dissolution"
 date: 2018-08-31T18:39:12.000000Z
 release_date: "2018-08-31"
 release_id: "12172923"
+apple_music_url: "https://music.apple.com/gb/album/dissolution/1394673558"
 slug: "dissolution-12172923"
 hideSummary: true
 cover:

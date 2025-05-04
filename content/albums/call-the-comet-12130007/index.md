@@ -6,6 +6,7 @@ album_name: "Call The Comet"
 date: 2018-06-23T11:28:18.000000Z
 release_date: "2018-06-15"
 release_id: "12130007"
+apple_music_url: "https://music.apple.com/gb/album/call-the-comet/1698288982"
 slug: "call-the-comet-12130007"
 hideSummary: true
 cover:

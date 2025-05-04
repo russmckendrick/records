@@ -6,6 +6,7 @@ album_name: "A Fine Day To Exit "
 date: 2016-05-11T17:08:30.000000Z
 release_date: "2001-10-01"
 release_id: "6907241"
+apple_music_url: "https://music.apple.com/gb/album/a-fine-day-to-exit-remastered/970425242"
 slug: "a-fine-day-to-exit-6907241"
 hideSummary: true
 cover:

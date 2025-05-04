@@ -6,6 +6,7 @@ album_name: "Fugazi"
 date: 2020-01-08T18:58:15.000000Z
 release_date: "2016-09-26"
 release_id: "8498294"
+apple_music_url: "https://music.apple.com/gb/album/fugazi/1146405132"
 slug: "fugazi-8498294"
 hideSummary: true
 cover:

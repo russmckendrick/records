@@ -6,6 +6,7 @@ album_name: "Is This The Life"
 date: 2016-12-13T17:55:39.000000Z
 release_date: ""
 release_id: "1406581"
+apple_music_url: ""
 slug: "is-this-the-life-1406581"
 hideSummary: true
 cover:

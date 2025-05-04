@@ -6,6 +6,7 @@ album_name: "Boston"
 date: 2018-11-17T19:36:07.000000Z
 release_date: "2022-02-05"
 release_id: "10857591"
+apple_music_url: "https://music.apple.com/gb/album/boston-single/1606141428"
 slug: "boston-10857591"
 hideSummary: true
 cover:

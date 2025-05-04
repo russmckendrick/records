@@ -6,6 +6,7 @@ album_name: "Greatest Hits Volume I & Volume II"
 date: 2016-10-14T12:58:46.000000Z
 release_date: "1985-09-02"
 release_id: "4810997"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971"
 slug: "greatest-hits-volume-i-volume-ii-4810997"
 hideSummary: true
 cover:

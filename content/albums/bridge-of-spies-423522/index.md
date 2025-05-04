@@ -6,6 +6,7 @@ album_name: "Bridge Of Spies"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1987-09-14"
 release_id: "423522"
+apple_music_url: "https://music.apple.com/gb/album/bridge-of-spies/1442998643"
 slug: "bridge-of-spies-423522"
 hideSummary: true
 cover:

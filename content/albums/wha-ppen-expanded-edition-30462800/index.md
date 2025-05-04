@@ -6,6 +6,7 @@ album_name: "Wha'ppen? (Expanded Edition)"
 date: 2024-12-30T01:10:06.000000Z
 release_date: "2014-09-16"
 release_id: "30462800"
+apple_music_url: "https://music.apple.com/gb/album/whappen-expanded-2012-remaster/1714523115"
 slug: "wha-ppen-expanded-edition-30462800"
 hideSummary: true
 cover:

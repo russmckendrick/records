@@ -6,6 +6,7 @@ album_name: "Oranges & Lemons"
 date: 2020-09-07T09:13:40.000000Z
 release_date: "1989-02-27"
 release_id: "15858717"
+apple_music_url: "https://music.apple.com/gb/album/oranges-lemons/724628737"
 slug: "oranges-lemons-15858717"
 hideSummary: true
 cover:

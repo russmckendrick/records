@@ -6,6 +6,7 @@ album_name: "Berserker"
 date: 2025-04-26T05:23:29.000000Z
 release_date: "1984-10-09"
 release_id: "33815190"
+apple_music_url: "https://music.apple.com/gb/album/berserker-2024-remaster/1744401192"
 slug: "berserker-33815190"
 hideSummary: true
 cover:

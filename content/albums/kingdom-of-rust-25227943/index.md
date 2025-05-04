@@ -6,6 +6,7 @@ album_name: "Kingdom Of Rust"
 date: 2022-11-22T02:17:56.000000Z
 release_date: "2009-01-01"
 release_id: "25227943"
+apple_music_url: "https://music.apple.com/gb/album/kingdom-of-rust/714639464"
 slug: "kingdom-of-rust-25227943"
 hideSummary: true
 cover:

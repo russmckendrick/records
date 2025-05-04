@@ -6,6 +6,7 @@ album_name: "21 Singles 1984-1998"
 date: 2018-07-06T19:23:18.000000Z
 release_date: ""
 release_id: "12212376"
+apple_music_url: ""
 slug: "21-singles-1984-1998-12212376"
 hideSummary: true
 cover:

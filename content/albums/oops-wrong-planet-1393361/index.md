@@ -6,6 +6,7 @@ album_name: "Oops! Wrong Planet"
 date: 2022-03-06T04:57:20.000000Z
 release_date: "1977-09-01"
 release_id: "1393361"
+apple_music_url: "https://music.apple.com/gb/album/oops-wrong-planet/129641944"
 slug: "oops-wrong-planet-1393361"
 hideSummary: true
 cover:

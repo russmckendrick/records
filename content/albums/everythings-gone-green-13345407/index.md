@@ -6,6 +6,7 @@ album_name: "Everythings Gone Green"
 date: 2019-03-15T20:43:21.000000Z
 release_date: "2009-09-01"
 release_id: "13345407"
+apple_music_url: "https://music.apple.com/gb/album/everythings-gone-green/720975455"
 slug: "everythings-gone-green-13345407"
 hideSummary: true
 cover:

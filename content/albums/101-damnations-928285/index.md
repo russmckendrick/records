@@ -6,6 +6,7 @@ album_name: "101 Damnations"
 date: 2016-01-15T18:22:32.000000Z
 release_date: "1990"
 release_id: "928285"
+apple_music_url: "https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386"
 slug: "101-damnations-928285"
 hideSummary: true
 cover:

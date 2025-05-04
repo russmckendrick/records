@@ -6,6 +6,7 @@ album_name: "Rilo Kiley"
 date: 2025-02-11T04:04:11.000000Z
 release_date: "1999-01-01"
 release_id: "16106497"
+apple_music_url: "https://music.apple.com/gb/album/rilo-kiley/1515299273"
 slug: "rilo-kiley-16106497"
 hideSummary: true
 cover:

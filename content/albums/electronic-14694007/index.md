@@ -6,6 +6,7 @@ album_name: "Electronic"
 date: 2020-01-24T20:04:58.000000Z
 release_date: "2018-09-14"
 release_id: "14694007"
+apple_music_url: "https://music.apple.com/gb/album/electronic-special-edition/693892654"
 slug: "electronic-14694007"
 hideSummary: true
 cover:

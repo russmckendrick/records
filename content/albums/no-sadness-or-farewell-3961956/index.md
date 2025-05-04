@@ -6,6 +6,7 @@ album_name: "No Sadness Or Farewell"
 date: 2016-11-01T17:22:39.000000Z
 release_date: "2012-10-22"
 release_id: "3961956"
+apple_music_url: "https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064"
 slug: "no-sadness-or-farewell-3961956"
 hideSummary: true
 cover:

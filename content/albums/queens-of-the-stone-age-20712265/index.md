@@ -6,6 +6,7 @@ album_name: "Queens Of The Stone Age"
 date: 2022-11-04T06:15:12.000000Z
 release_date: "1998-09-22"
 release_id: "20712265"
+apple_music_url: "https://music.apple.com/gb/album/queens-of-the-stone-age-1998-version/1644779268"
 slug: "queens-of-the-stone-age-20712265"
 hideSummary: true
 cover:

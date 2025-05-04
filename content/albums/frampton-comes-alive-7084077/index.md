@@ -6,6 +6,7 @@ album_name: "Frampton Comes Alive!"
 date: 2019-01-05T11:38:49.000000Z
 release_date: "1976-01-06"
 release_id: "7084077"
+apple_music_url: "https://music.apple.com/gb/album/frampton-comes-alive/1737516352"
 slug: "frampton-comes-alive-7084077"
 hideSummary: true
 cover:

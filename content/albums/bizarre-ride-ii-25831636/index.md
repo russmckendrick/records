@@ -5,6 +5,7 @@ artist: "the-pharcyde"
 album_name: "Bizarre Ride II"
 date: 2023-02-13T11:32:12.000000Z
 release_id: "25831636"
+apple_music_url: "https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414"
 slug: "bizarre-ride-ii-25831636"
 hideSummary: true
 cover:

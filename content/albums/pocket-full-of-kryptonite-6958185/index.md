@@ -6,6 +6,7 @@ album_name: "Pocket Full of Kryptonite "
 date: 2017-02-24T19:47:09.000000Z
 release_date: "1991-08-20"
 release_id: "6958185"
+apple_music_url: "https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657"
 slug: "pocket-full-of-kryptonite-6958185"
 hideSummary: true
 cover:

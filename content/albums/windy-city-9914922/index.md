@@ -6,6 +6,7 @@ album_name: "Windy City"
 date: 2017-03-04T17:52:12.000000Z
 release_date: "2017-02-17"
 release_id: "9914922"
+apple_music_url: "https://music.apple.com/gb/album/windy-city/1440866016"
 slug: "windy-city-9914922"
 hideSummary: true
 cover:

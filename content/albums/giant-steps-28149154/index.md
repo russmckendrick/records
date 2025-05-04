@@ -6,6 +6,7 @@ album_name: "Giant Steps"
 date: 2023-09-02T07:59:30.000000Z
 release_date: "1993-08-13"
 release_id: "28149154"
+apple_music_url: "https://music.apple.com/gb/album/giant-steps/268500341"
 slug: "giant-steps-28149154"
 hideSummary: true
 cover:

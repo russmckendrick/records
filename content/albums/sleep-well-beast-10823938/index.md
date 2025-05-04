@@ -6,6 +6,7 @@ album_name: "Sleep Well Beast"
 date: 2017-09-15T13:59:50.000000Z
 release_date: "2017-09-08"
 release_id: "10823938"
+apple_music_url: "https://music.apple.com/gb/album/sleep-well-beast/1233837225"
 slug: "sleep-well-beast-10823938"
 hideSummary: true
 cover:

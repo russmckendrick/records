@@ -6,6 +6,7 @@ album_name: "The Suburbs"
 date: 2018-01-18T19:48:40.000000Z
 release_date: "2010-08-02"
 release_id: "2399813"
+apple_music_url: "https://music.apple.com/gb/album/the-suburbs/1252757950"
 slug: "the-suburbs-2399813"
 hideSummary: true
 cover:

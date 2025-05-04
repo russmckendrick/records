@@ -6,6 +6,7 @@ album_name: "Microtonic"
 date: 2025-03-06T01:47:45.000000Z
 release_date: "2025-02-28"
 release_id: "33282666"
+apple_music_url: "https://music.apple.com/gb/album/microtonic/1774290482"
 slug: "microtonic-33282666"
 hideSummary: true
 cover:

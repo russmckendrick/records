@@ -6,6 +6,7 @@ album_name: "King"
 date: 2025-04-13T03:52:04.000000Z
 release_date: "2024-09-05"
 release_id: "33663990"
+apple_music_url: "https://music.apple.com/us/album/king/300985088"
 slug: "king-33663990"
 hideSummary: true
 cover:

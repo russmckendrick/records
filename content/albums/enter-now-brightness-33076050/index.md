@@ -6,6 +6,7 @@ album_name: "Enter Now Brightness"
 date: 2025-02-08T12:27:01.000000Z
 release_date: "2025-02-07"
 release_id: "33076050"
+apple_music_url: "https://music.apple.com/gb/album/enter-now-brightness/1765538148"
 slug: "enter-now-brightness-33076050"
 hideSummary: true
 cover:

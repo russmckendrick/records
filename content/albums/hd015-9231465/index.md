@@ -6,6 +6,7 @@ album_name: "HD015"
 date: 2016-12-08T18:35:53.000000Z
 release_date: "2018-11-06"
 release_id: "9231465"
+apple_music_url: "https://music.apple.com/gb/album/survival-single/1716748749"
 slug: "hd015-9231465"
 hideSummary: true
 cover:

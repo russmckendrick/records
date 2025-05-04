@@ -6,6 +6,7 @@ album_name: "Archive Cardiacs"
 date: 2018-03-18T15:59:40.000000Z
 release_date: "1988-01-01"
 release_id: "11724438"
+apple_music_url: "https://music.apple.com/gb/album/cardiacs-live/338545664"
 slug: "archive-cardiacs-11724438"
 hideSummary: true
 cover:

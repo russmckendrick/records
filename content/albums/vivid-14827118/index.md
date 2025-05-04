@@ -6,6 +6,7 @@ album_name: "Vivid"
 date: 2020-02-25T18:09:52.000000Z
 release_date: "2023-02-17"
 release_id: "14827118"
+apple_music_url: "https://music.apple.com/gb/album/thousand-lifetimes-feat-corey-glover-of-living/1668841353"
 slug: "vivid-14827118"
 hideSummary: true
 cover:

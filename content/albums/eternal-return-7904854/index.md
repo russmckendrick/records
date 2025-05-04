@@ -6,6 +6,7 @@ album_name: "Eternal Return"
 date: 2016-08-23T16:15:19.000000Z
 release_date: "2015-11-06"
 release_id: "7904854"
+apple_music_url: "https://music.apple.com/gb/album/eternal-return/1053501895"
 slug: "eternal-return-7904854"
 hideSummary: true
 cover:

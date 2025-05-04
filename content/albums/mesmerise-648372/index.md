@@ -6,6 +6,7 @@ album_name: "Mesmerise"
 date: 2016-12-07T17:40:35.000000Z
 release_date: ""
 release_id: "648372"
+apple_music_url: ""
 slug: "mesmerise-648372"
 hideSummary: true
 cover:

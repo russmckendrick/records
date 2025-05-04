@@ -6,6 +6,7 @@ album_name: "Future Ruins"
 date: 2019-01-27T14:29:59.000000Z
 release_date: "2019-01-25"
 release_id: "13092267"
+apple_music_url: "https://music.apple.com/gb/album/future-ruins/1439002583"
 slug: "future-ruins-13092267"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Missiles"
 date: 2018-11-26T19:24:47.000000Z
 release_date: "2008-10-20"
 release_id: "12677910"
+apple_music_url: "https://music.apple.com/gb/album/missiles/1770397728"
 slug: "missiles-12677910"
 hideSummary: true
 cover:

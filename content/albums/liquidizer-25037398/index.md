@@ -6,6 +6,7 @@ album_name: "Liquidizer"
 date: 2022-11-03T13:58:38.000000Z
 release_date: "1989"
 release_id: "25037398"
+apple_music_url: "https://music.apple.com/gb/album/liquidizer/697141413"
 slug: "liquidizer-25037398"
 hideSummary: true
 cover:

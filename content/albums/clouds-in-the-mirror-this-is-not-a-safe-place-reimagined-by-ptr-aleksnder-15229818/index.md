@@ -6,6 +6,7 @@ album_name: "Clouds In The Mirror (This Is Not A Safe Place Reimagined By Pêtr 
 date: 2021-06-12T05:59:13.000000Z
 release_date: "2020-05-01"
 release_id: "15229818"
+apple_music_url: "https://music.apple.com/gb/album/clouds-in-the-mirror-this-is-not-a-safe/1500022098"
 slug: "clouds-in-the-mirror-this-is-not-a-safe-place-reimagined-by-ptr-aleksnder-15229818"
 hideSummary: true
 cover:

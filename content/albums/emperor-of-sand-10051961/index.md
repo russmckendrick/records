@@ -6,6 +6,7 @@ album_name: "Emperor Of Sand"
 date: 2017-04-02T12:57:37.000000Z
 release_date: "2017-03-31"
 release_id: "10051961"
+apple_music_url: "https://music.apple.com/gb/album/emperor-of-sand/1195230194"
 slug: "emperor-of-sand-10051961"
 hideSummary: true
 cover:

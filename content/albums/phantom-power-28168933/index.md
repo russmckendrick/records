@@ -6,6 +6,7 @@ album_name: "Phantom Power"
 date: 2023-09-08T04:42:25.000000Z
 release_date: "2003-07-17"
 release_id: "28168933"
+apple_music_url: "https://music.apple.com/gb/album/phantom-power/1641279712"
 slug: "phantom-power-28168933"
 hideSummary: true
 cover:

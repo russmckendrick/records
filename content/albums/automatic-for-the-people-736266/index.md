@@ -6,6 +6,7 @@ album_name: "Automatic For The People"
 date: 2015-08-09T08:39:05.000000Z
 release_date: "1992-10-06"
 release_id: "736266"
+apple_music_url: "https://music.apple.com/gb/album/automatic-for-the-people/1440949853"
 slug: "automatic-for-the-people-736266"
 hideSummary: true
 cover:

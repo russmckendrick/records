@@ -6,6 +6,7 @@ album_name: "Bentley Rhythm Ace"
 date: 2016-01-11T17:44:13.000000Z
 release_date: "2023-03-10"
 release_id: "577921"
+apple_music_url: "https://music.apple.com/gb/album/how-dyou-like-me-now-bentley-rhythm-ace-remix-single/1670217455"
 slug: "bentley-rhythm-ace-577921"
 hideSummary: true
 cover:

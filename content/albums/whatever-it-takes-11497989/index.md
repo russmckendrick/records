@@ -6,6 +6,7 @@ album_name: "Whatever It Takes"
 date: 2018-02-19T18:42:26.000000Z
 release_date: "2018-02-02"
 release_id: "11497989"
+apple_music_url: "https://music.apple.com/gb/album/whatever-it-takes/1484988854"
 slug: "whatever-it-takes-11497989"
 hideSummary: true
 cover:

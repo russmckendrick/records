@@ -6,6 +6,7 @@ album_name: "Effloresce"
 date: 2017-11-10T19:31:43.000000Z
 release_date: "2003-09-29"
 release_id: "11077284"
+apple_music_url: "https://music.apple.com/gb/album/effloresce-remastered/1292494003"
 slug: "effloresce-11077284"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Birth Of The Marvellous"
 date: 2019-05-11T14:17:10.000000Z
 release_date: "2019-03-22"
 release_id: "13393404"
+apple_music_url: "https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615"
 slug: "birth-of-the-marvellous-13393404"
 hideSummary: true
 cover:

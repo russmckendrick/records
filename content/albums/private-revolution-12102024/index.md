@@ -6,6 +6,7 @@ album_name: "Private Revolution"
 date: 2019-11-08T19:52:05.000000Z
 release_date: "1987-03-03"
 release_id: "12102024"
+apple_music_url: "https://music.apple.com/gb/album/private-revolution/711969568"
 slug: "private-revolution-12102024"
 hideSummary: true
 cover:

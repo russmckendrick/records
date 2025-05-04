@@ -6,6 +6,7 @@ album_name: "In Rainbows"
 date: 2015-08-09T08:34:56.000000Z
 release_date: "2007-10-10"
 release_id: "1174296"
+apple_music_url: "https://music.apple.com/gb/album/in-rainbows/1109714933"
 slug: "in-rainbows-1174296"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Complete Singles"
 date: 2023-03-20T05:45:50.000000Z
 release_date: "1995-09-18"
 release_id: "26454110"
+apple_music_url: "https://music.apple.com/gb/album/the-complete-singles/1672583898"
 slug: "the-complete-singles-26454110"
 hideSummary: true
 cover:

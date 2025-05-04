@@ -6,6 +6,7 @@ album_name: "Fear Of The Dark"
 date: 2017-06-10T11:13:39.000000Z
 release_date: "1992-05-11"
 release_id: "10315981"
+apple_music_url: "https://music.apple.com/gb/album/fear-of-the-dark/979946632"
 slug: "fear-of-the-dark-10315981"
 hideSummary: true
 cover:

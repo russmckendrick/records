@@ -6,6 +6,7 @@ album_name: "Marquee Metal"
 date: 2015-10-14T18:38:58.000000Z
 release_date: ""
 release_id: "1964892"
+apple_music_url: ""
 slug: "marquee-metal-1964892"
 hideSummary: true
 cover:

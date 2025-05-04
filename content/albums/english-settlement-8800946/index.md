@@ -6,6 +6,7 @@ album_name: "English Settlement"
 date: 2018-01-19T20:40:49.000000Z
 release_date: "1982-02-12"
 release_id: "8800946"
+apple_music_url: "https://music.apple.com/gb/album/english-settlement/724357979"
 slug: "english-settlement-8800946"
 hideSummary: true
 cover:

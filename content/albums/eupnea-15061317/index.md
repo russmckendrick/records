@@ -6,6 +6,7 @@ album_name: "Eupnea"
 date: 2020-04-06T14:08:58.000000Z
 release_date: "2020-04-03"
 release_id: "15061317"
+apple_music_url: "https://music.apple.com/gb/album/eupnea/1494941222"
 slug: "eupnea-15061317"
 hideSummary: true
 cover:

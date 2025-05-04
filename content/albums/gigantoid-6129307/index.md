@@ -6,6 +6,7 @@ album_name: "Gigantoid"
 date: 2017-02-15T18:28:24.000000Z
 release_date: "2014-04-29"
 release_id: "6129307"
+apple_music_url: "https://music.apple.com/gb/album/gigantoid/868547942"
 slug: "gigantoid-6129307"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "On"
 date: 2019-01-19T09:37:53.000000Z
 release_date: "2008-06-02"
 release_id: "13020112"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-echobelly/282215710"
 slug: "on-13020112"
 hideSummary: true
 cover:

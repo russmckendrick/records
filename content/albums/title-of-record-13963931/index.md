@@ -6,6 +6,7 @@ album_name: "Title Of Record"
 date: 2019-08-09T17:51:24.000000Z
 release_date: "1999-08-24"
 release_id: "13963931"
+apple_music_url: "https://music.apple.com/gb/album/title-of-record/1576792084"
 slug: "title-of-record-13963931"
 hideSummary: true
 cover:

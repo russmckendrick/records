@@ -6,6 +6,7 @@ album_name: "Accelerator"
 date: 2021-06-12T05:57:11.000000Z
 release_date: "1991-01-01"
 release_id: "19105981"
+apple_music_url: "https://music.apple.com/gb/album/accelerator/307988427"
 slug: "accelerator-19105981"
 hideSummary: true
 cover:

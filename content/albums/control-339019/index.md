@@ -6,6 +6,7 @@ album_name: "Control"
 date: 2020-08-01T12:44:39.000000Z
 release_date: "2015-06-12"
 release_id: "339019"
+apple_music_url: "https://music.apple.com/gb/album/lose-control/999298733"
 slug: "control-339019"
 hideSummary: true
 cover:

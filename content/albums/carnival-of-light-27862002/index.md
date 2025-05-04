@@ -6,6 +6,7 @@ album_name: "Carnival Of Light"
 date: 2023-08-06T07:40:04.000000Z
 release_date: "2006-01-01"
 release_id: "27862002"
+apple_music_url: "https://music.apple.com/gb/album/carnival-of-light-remastered/884024187"
 slug: "carnival-of-light-27862002"
 hideSummary: true
 cover:

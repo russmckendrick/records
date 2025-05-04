@@ -6,6 +6,7 @@ album_name: "Copperhead Road"
 date: 2016-02-29T18:16:24.000000Z
 release_date: "1988-10-17"
 release_id: "1753416"
+apple_music_url: "https://music.apple.com/gb/album/copperhead-road/1440832255"
 slug: "copperhead-road-1753416"
 hideSummary: true
 cover:

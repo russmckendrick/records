@@ -6,6 +6,7 @@ album_name: "Times Infinity Volume One"
 date: 2020-08-01T12:47:57.000000Z
 release_date: "2017-07-14"
 release_id: "7543598"
+apple_music_url: "https://music.apple.com/gb/album/times-infinity-volume-2/1770398962"
 slug: "times-infinity-volume-one-7543598"
 hideSummary: true
 cover:

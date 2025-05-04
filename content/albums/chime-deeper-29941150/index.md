@@ -6,6 +6,7 @@ album_name: "Chime / Deeper"
 date: 2024-03-02T08:06:43.000000Z
 release_date: ""
 release_id: "29941150"
+apple_music_url: ""
 slug: "chime-deeper-29941150"
 hideSummary: true
 cover:

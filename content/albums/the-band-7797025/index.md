@@ -6,6 +6,7 @@ album_name: "The Band"
 date: 2017-10-06T17:18:16.000000Z
 release_date: "2018-06-15"
 release_id: "7797025"
+apple_music_url: "https://music.apple.com/gb/album/the-band/1616942135"
 slug: "the-band-7797025"
 hideSummary: true
 cover:

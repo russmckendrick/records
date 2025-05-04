@@ -6,6 +6,7 @@ album_name: "Terror Twilight"
 date: 2017-06-01T18:07:11.000000Z
 release_date: "1999-06-08"
 release_id: "3014122"
+apple_music_url: "https://music.apple.com/gb/album/terror-twilight/1589125798"
 slug: "terror-twilight-3014122"
 hideSummary: true
 cover:

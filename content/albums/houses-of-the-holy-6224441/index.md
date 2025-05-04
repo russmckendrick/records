@@ -6,6 +6,7 @@ album_name: "Houses Of The Holy"
 date: 2017-02-26T10:56:57.000000Z
 release_date: "1973-03-28"
 release_id: "6224441"
+apple_music_url: "https://music.apple.com/gb/album/houses-of-the-holy-remastered/580707916"
 slug: "houses-of-the-holy-6224441"
 hideSummary: true
 cover:

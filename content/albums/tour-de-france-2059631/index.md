@@ -6,6 +6,7 @@ album_name: "Tour De France"
 date: 2017-04-25T08:35:33.000000Z
 release_date: "2023-07-29"
 release_id: "2059631"
+apple_music_url: "https://music.apple.com/gb/album/tour-de-france-single/1696505507"
 slug: "tour-de-france-2059631"
 hideSummary: true
 cover:

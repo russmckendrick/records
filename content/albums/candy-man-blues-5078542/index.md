@@ -6,6 +6,7 @@ album_name: "Candy Man Blues"
 date: 2020-08-01T12:50:06.000000Z
 release_date: "2004-03-09"
 release_id: "5078542"
+apple_music_url: "https://music.apple.com/gb/album/candy-man-blues/1109245334"
 slug: "candy-man-blues-5078542"
 hideSummary: true
 cover:

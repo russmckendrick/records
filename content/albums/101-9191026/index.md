@@ -6,6 +6,7 @@ album_name: "101"
 date: 2017-04-09T14:17:19.000000Z
 release_date: "2006-11-08"
 release_id: "9191026"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796"
 slug: "101-9191026"
 hideSummary: true
 cover:

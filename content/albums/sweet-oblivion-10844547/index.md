@@ -6,6 +6,7 @@ album_name: "Sweet Oblivion"
 date: 2017-10-05T17:54:41.000000Z
 release_date: "1992-09-08"
 release_id: "10844547"
+apple_music_url: "https://music.apple.com/gb/album/sweet-oblivion/157316025"
 slug: "sweet-oblivion-10844547"
 hideSummary: true
 cover:

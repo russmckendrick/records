@@ -6,6 +6,7 @@ album_name: "Stax Does The Beatles"
 date: 2019-04-13T11:17:16.000000Z
 release_date: ""
 release_id: "13468733"
+apple_music_url: ""
 slug: "stax-does-the-beatles-13468733"
 hideSummary: true
 cover:

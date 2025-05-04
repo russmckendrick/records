@@ -6,6 +6,7 @@ album_name: "The Deconstruction"
 date: 2018-04-07T09:50:10.000000Z
 release_date: "2018-04-06"
 release_id: "11823715"
+apple_music_url: "https://music.apple.com/gb/album/the-deconstruction/1330700343"
 slug: "the-deconstruction-11823715"
 hideSummary: true
 cover:

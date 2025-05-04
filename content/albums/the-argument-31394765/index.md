@@ -6,6 +6,7 @@ album_name: "The Argument "
 date: 2024-08-27T10:52:44.000000Z
 release_date: "2001-10-01"
 release_id: "31394765"
+apple_music_url: "https://music.apple.com/gb/album/the-argument/57918888"
 slug: "the-argument-31394765"
 hideSummary: true
 cover:

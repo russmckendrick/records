@@ -6,6 +6,7 @@ album_name: "Return To Cookie Mountain"
 date: 2018-06-16T09:50:36.000000Z
 release_date: "2006-07-06"
 release_id: "12117863"
+apple_music_url: "https://music.apple.com/gb/album/return-to-cookie-mountain/1437098983"
 slug: "return-to-cookie-mountain-12117863"
 hideSummary: true
 cover:

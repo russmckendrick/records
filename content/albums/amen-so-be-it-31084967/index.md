@@ -6,6 +6,7 @@ album_name: "Amen (So Be It). "
 date: 2024-09-30T07:04:35.000000Z
 release_date: "1999-06-28"
 release_id: "31084967"
+apple_music_url: "https://music.apple.com/gb/album/amen-so-be-it/183489212"
 slug: "amen-so-be-it-31084967"
 hideSummary: true
 cover:

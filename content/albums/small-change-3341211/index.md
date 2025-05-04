@@ -6,6 +6,7 @@ album_name: "Small Change"
 date: 2016-04-30T15:21:41.000000Z
 release_date: "1976-09-21"
 release_id: "3341211"
+apple_music_url: "https://music.apple.com/gb/album/small-change-remastered/1485074801"
 slug: "small-change-3341211"
 hideSummary: true
 cover:

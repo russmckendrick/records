@@ -6,6 +6,7 @@ album_name: "The Return Of The Space Cowboy"
 date: 2024-10-24T12:06:05.000000Z
 release_date: "1994-10-17"
 release_id: "32038208"
+apple_music_url: "https://music.apple.com/gb/album/the-return-of-the-space-cowboy-remastered/600897136"
 slug: "the-return-of-the-space-cowboy-32038208"
 hideSummary: true
 cover:

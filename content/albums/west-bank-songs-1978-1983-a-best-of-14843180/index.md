@@ -6,6 +6,7 @@ album_name: "West Bank Songs 1978-1983 (A Best Of)"
 date: 2020-05-09T09:27:33.000000Z
 release_date: "2023-10-27"
 release_id: "14843180"
+apple_music_url: "https://music.apple.com/gb/album/west-bank-songs-1978-1983-a-best-of/1705669822"
 slug: "west-bank-songs-1978-1983-a-best-of-14843180"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "3 Years, 5 Months And 2 Days In The Life Of..."
 date: 2017-04-09T14:17:03.000000Z
 release_date: "1992-03-24"
 release_id: "6252763"
+apple_music_url: "https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160"
 slug: "3-years-5-months-and-2-days-in-the-life-of-6252763"
 hideSummary: true
 cover:

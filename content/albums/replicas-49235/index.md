@@ -6,6 +6,7 @@ album_name: "Replicas"
 date: 2016-01-08T19:14:34.000000Z
 release_date: "1979-04-01"
 release_id: "49235"
+apple_music_url: "https://music.apple.com/gb/album/replicas-redux/273106969"
 slug: "replicas-49235"
 hideSummary: true
 cover:

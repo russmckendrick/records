@@ -6,6 +6,7 @@ album_name: "No Protection"
 date: 2017-04-29T12:04:03.000000Z
 release_date: "1994"
 release_id: "9442827"
+apple_music_url: "https://music.apple.com/gb/album/no-protection/723371523"
 slug: "no-protection-9442827"
 hideSummary: true
 cover:

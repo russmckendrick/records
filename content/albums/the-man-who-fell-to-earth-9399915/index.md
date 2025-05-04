@@ -6,6 +6,7 @@ album_name: "The Man Who Fell To Earth"
 date: 2017-02-28T18:43:39.000000Z
 release_date: ""
 release_id: "9399915"
+apple_music_url: ""
 slug: "the-man-who-fell-to-earth-9399915"
 hideSummary: true
 cover:

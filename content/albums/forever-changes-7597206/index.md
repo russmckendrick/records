@@ -6,6 +6,7 @@ album_name: "Forever Changes"
 date: 2016-10-09T08:28:24.000000Z
 release_date: "2021-09-03"
 release_id: "7597206"
+apple_music_url: "https://music.apple.com/gb/album/love-forever-changes-single/1582701214"
 slug: "forever-changes-7597206"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Something More Than Free"
 date: 2016-02-21T12:08:45.000000Z
 release_date: "2015-07-17"
 release_id: "7247036"
+apple_music_url: "https://music.apple.com/gb/album/something-more-than-free/986866335"
 slug: "something-more-than-free-7247036"
 hideSummary: true
 cover:

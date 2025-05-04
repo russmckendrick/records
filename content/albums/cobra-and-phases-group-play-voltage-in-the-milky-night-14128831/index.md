@@ -6,6 +6,7 @@ album_name: "Cobra And Phases Group Play Voltage In The Milky Night"
 date: 2019-09-15T12:01:51.000000Z
 release_date: "1999-09-21"
 release_id: "14128831"
+apple_music_url: "https://music.apple.com/gb/album/cobra-and-phases-group-play-voltage-in-the-milky-night/1230503490"
 slug: "cobra-and-phases-group-play-voltage-in-the-milky-night-14128831"
 hideSummary: true
 cover:

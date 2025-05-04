@@ -6,6 +6,7 @@ album_name: "RR7349"
 date: 2016-09-26T17:22:54.000000Z
 release_date: "2016-09-30"
 release_id: "9108160"
+apple_music_url: "https://music.apple.com/gb/album/rr7349/1132755962"
 slug: "rr7349-9108160"
 hideSummary: true
 cover:

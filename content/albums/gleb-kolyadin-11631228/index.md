@@ -6,6 +6,7 @@ album_name: "Gleb Kolyadin"
 date: 2018-03-04T19:29:32.000000Z
 release_date: "2018"
 release_id: "11631228"
+apple_music_url: "https://music.apple.com/gb/album/gleb-kolyadin-expanded/1576589789"
 slug: "gleb-kolyadin-11631228"
 hideSummary: true
 cover:

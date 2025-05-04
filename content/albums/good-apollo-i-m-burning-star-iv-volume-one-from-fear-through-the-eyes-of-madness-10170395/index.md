@@ -6,6 +6,7 @@ album_name: "Good Apollo I'm Burning Star IV | Volume One: From Fear Through The
 date: 2017-05-04T21:07:36.000000Z
 release_date: ""
 release_id: "10170395"
+apple_music_url: ""
 slug: "good-apollo-i-m-burning-star-iv-volume-one-from-fear-through-the-eyes-of-madness-10170395"
 hideSummary: true
 cover:

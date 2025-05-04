@@ -6,6 +6,7 @@ album_name: "Native Invader"
 date: 2018-01-20T19:10:32.000000Z
 release_date: "2017-09-08"
 release_id: "11003618"
+apple_music_url: "https://music.apple.com/gb/album/native-invader/1440770840"
 slug: "native-invader-11003618"
 hideSummary: true
 cover:

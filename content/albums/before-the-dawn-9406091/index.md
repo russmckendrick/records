@@ -6,6 +6,7 @@ album_name: "Before The Dawn"
 date: 2016-11-25T17:31:50.000000Z
 release_date: "2008-10-18"
 release_id: "9406091"
+apple_music_url: "https://music.apple.com/gb/album/the-dawn-of-grace-deluxe/1765006903"
 slug: "before-the-dawn-9406091"
 hideSummary: true
 cover:

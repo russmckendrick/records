@@ -6,6 +6,7 @@ album_name: "Blue Lines"
 date: 2016-12-02T12:53:32.000000Z
 release_date: "2006-01-01"
 release_id: "9442778"
+apple_music_url: "https://music.apple.com/gb/album/blue-lines-the-remixes/724379865"
 slug: "blue-lines-9442778"
 hideSummary: true
 cover:

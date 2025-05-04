@@ -6,6 +6,7 @@ album_name: "Living In Extraordinary Times "
 date: 2018-08-03T18:45:13.000000Z
 release_date: "2018-08-03"
 release_id: "12341469"
+apple_music_url: "https://music.apple.com/gb/album/living-in-extraordinary-times/1380830164"
 slug: "living-in-extraordinary-times-12341469"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Mr. Robot: Volume 2 (Original Television Series Soundtrack)"
 date: 2016-09-21T18:06:13.000000Z
 release_date: "2016-05-27"
 release_id: "9022562"
+apple_music_url: "https://music.apple.com/gb/album/mr-robot-vol-2-original-television-series-soundtrack/1111069604"
 slug: "mr-robot-volume-2-original-television-series-soundtrack-9022562"
 hideSummary: true
 cover:

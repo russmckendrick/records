@@ -6,6 +6,7 @@ album_name: "A Saucerful Of Secrets"
 date: 2016-06-03T20:02:02.000000Z
 release_date: "1968-06-29"
 release_id: "8558911"
+apple_music_url: "https://music.apple.com/gb/album/a-saucerful-of-secrets/699872176"
 slug: "a-saucerful-of-secrets-8558911"
 hideSummary: true
 cover:

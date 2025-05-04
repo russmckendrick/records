@@ -6,6 +6,7 @@ album_name: "Indie Cindy"
 date: 2015-08-09T08:33:44.000000Z
 release_date: "2014-04-19"
 release_id: "5610537"
+apple_music_url: "https://music.apple.com/gb/album/indie-cindy/1589760347"
 slug: "indie-cindy-5610537"
 hideSummary: true
 cover:

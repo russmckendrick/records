@@ -6,6 +6,7 @@ album_name: "Eventide / Solace - Live At Real World Studios"
 date: 2023-09-15T11:32:00.000000Z
 release_date: ""
 release_id: "27925125"
+apple_music_url: ""
 slug: "eventide-solace-live-at-real-world-studios-27925125"
 hideSummary: true
 cover:

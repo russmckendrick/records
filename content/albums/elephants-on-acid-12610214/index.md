@@ -6,6 +6,7 @@ album_name: "Elephants On Acid"
 date: 2018-10-17T17:37:44.000000Z
 release_date: "2018-09-28"
 release_id: "12610214"
+apple_music_url: "https://music.apple.com/gb/album/elephants-on-acid/1405708942"
 slug: "elephants-on-acid-12610214"
 hideSummary: true
 cover:

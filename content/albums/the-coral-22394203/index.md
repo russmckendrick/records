@@ -6,6 +6,7 @@ album_name: "The Coral"
 date: 2022-03-08T11:39:06.000000Z
 release_date: "2002-07-29"
 release_id: "22394203"
+apple_music_url: "https://music.apple.com/gb/album/the-coral/1083553175"
 slug: "the-coral-22394203"
 hideSummary: true
 cover:

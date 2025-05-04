@@ -6,6 +6,7 @@ album_name: "High Fidelity (A Hulu Original)"
 date: 2020-07-27T14:32:03.000000Z
 release_date: ""
 release_id: "15540975"
+apple_music_url: ""
 slug: "high-fidelity-a-hulu-original-15540975"
 hideSummary: true
 cover:

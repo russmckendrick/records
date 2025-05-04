@@ -6,6 +6,7 @@ album_name: "John Parr"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1996-09-09"
 release_id: "1152756"
+apple_music_url: "https://music.apple.com/gb/album/under-parr/903872999"
 slug: "john-parr-1152756"
 hideSummary: true
 cover:

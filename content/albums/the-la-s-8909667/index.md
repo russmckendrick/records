@@ -6,6 +6,7 @@ album_name: "The La's"
 date: 2016-10-11T16:25:20.000000Z
 release_date: "1990-11"
 release_id: "8909667"
+apple_music_url: "https://music.apple.com/gb/album/the-las-remastered-bonus-track-version/1443735619"
 slug: "the-la-s-8909667"
 hideSummary: true
 cover:

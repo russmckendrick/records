@@ -6,6 +6,7 @@ album_name: "Signs of Life"
 date: 2023-05-29T04:53:16.000000Z
 release_date: "2023-04-28"
 release_id: "26966306"
+apple_music_url: "https://music.apple.com/gb/album/signs-of-life/1646512003"
 slug: "signs-of-life-26966306"
 hideSummary: true
 cover:

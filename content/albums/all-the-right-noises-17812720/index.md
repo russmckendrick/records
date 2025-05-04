@@ -6,6 +6,7 @@ album_name: "All The Right Noises"
 date: 2021-03-13T02:56:48.000000Z
 release_date: "2023-11-15"
 release_id: "17812720"
+apple_music_url: "https://music.apple.com/gb/album/all-the-right-noises/1556015147"
 slug: "all-the-right-noises-17812720"
 hideSummary: true
 cover:

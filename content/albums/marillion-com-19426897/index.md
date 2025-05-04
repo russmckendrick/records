@@ -6,6 +6,7 @@ album_name: "Marillion.com"
 date: 2023-06-09T10:12:21.000000Z
 release_date: "1999-10-18"
 release_id: "19426897"
+apple_music_url: "https://music.apple.com/gb/album/marillion-com/1328761898"
 slug: "marillion-com-19426897"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Eponymous 1981-1983"
 date: 2021-06-10T06:46:15.000000Z
 release_date: "2018-03-16"
 release_id: "11734076"
+apple_music_url: "https://music.apple.com/gb/album/eponymous-1981-1983/1343357621"
 slug: "eponymous-1981-1983-11734076"
 hideSummary: true
 cover:

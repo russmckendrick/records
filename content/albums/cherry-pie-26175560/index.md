@@ -6,6 +6,7 @@ album_name: "Cherry Pie"
 date: 2023-04-03T04:22:19.000000Z
 release_date: "1990-09-11"
 release_id: "26175560"
+apple_music_url: "https://music.apple.com/gb/album/cherry-pie/190763659"
 slug: "cherry-pie-26175560"
 hideSummary: true
 cover:

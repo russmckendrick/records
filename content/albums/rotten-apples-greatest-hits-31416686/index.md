@@ -6,6 +6,7 @@ album_name: "Rotten Apples: Greatest Hits"
 date: 2024-08-16T07:14:11.000000Z
 release_date: "2001-11-20"
 release_id: "31416686"
+apple_music_url: "https://music.apple.com/gb/album/rotten-apples-greatest-hits/712732565"
 slug: "rotten-apples-greatest-hits-31416686"
 hideSummary: true
 cover:

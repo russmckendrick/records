@@ -6,6 +6,7 @@ album_name: "Amazônia"
 date: 2021-07-04T09:10:24.000000Z
 release_date: "2021-04-09"
 release_id: "18216709"
+apple_music_url: "https://music.apple.com/gb/album/amaz%C3%B4nia/1557713010"
 slug: "amaznia-18216709"
 hideSummary: true
 cover:

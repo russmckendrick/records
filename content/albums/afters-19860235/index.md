@@ -6,6 +6,7 @@ album_name: "Afters"
 date: 2021-10-04T04:59:28.000000Z
 release_date: "2021-08-13"
 release_id: "19860235"
+apple_music_url: "https://music.apple.com/gb/album/afters/1566401361"
 slug: "afters-19860235"
 hideSummary: true
 cover:

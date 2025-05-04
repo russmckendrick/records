@@ -6,6 +6,7 @@ album_name: "1992 The Love Album"
 date: 2024-01-19T10:56:00.000000Z
 release_date: "1992"
 release_id: "29528317"
+apple_music_url: "https://music.apple.com/gb/album/1992-the-love-album-2023-remaster/1704330870"
 slug: "1992-the-love-album-29528317"
 hideSummary: true
 cover:

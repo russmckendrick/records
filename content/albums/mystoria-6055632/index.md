@@ -6,6 +6,7 @@ album_name: "Mystoria"
 date: 2015-08-10T18:28:32.000000Z
 release_date: "2015-01-23"
 release_id: "6055632"
+apple_music_url: "https://music.apple.com/gb/album/mystoria/1047128557"
 slug: "mystoria-6055632"
 hideSummary: true
 cover:

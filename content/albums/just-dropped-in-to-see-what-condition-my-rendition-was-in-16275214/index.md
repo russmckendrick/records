@@ -6,6 +6,7 @@ album_name: "Just Dropped In (To See What Condition My Rendition Was In)"
 date: 2020-12-01T10:30:57.000000Z
 release_date: "2020-10-23"
 release_id: "16275214"
+apple_music_url: "https://music.apple.com/gb/album/just-dropped-in-to-see-what-condition-my-rendition-was-in/1531719654"
 slug: "just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214"
 hideSummary: true
 cover:

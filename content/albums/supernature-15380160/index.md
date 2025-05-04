@@ -6,6 +6,7 @@ album_name: "Supernature"
 date: 2021-04-01T00:48:15.000000Z
 release_date: "2005-08-17"
 release_id: "15380160"
+apple_music_url: "https://music.apple.com/gb/album/supernature/1444740051"
 slug: "supernature-15380160"
 hideSummary: true
 cover:

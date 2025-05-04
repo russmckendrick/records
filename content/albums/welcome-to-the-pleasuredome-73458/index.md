@@ -6,6 +6,7 @@ album_name: "Welcome To The Pleasuredome"
 date: 2015-10-14T18:38:58.000000Z
 release_date: "1984-10-20"
 release_id: "73458"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-the-pleasuredome/1365569059"
 slug: "welcome-to-the-pleasuredome-73458"
 hideSummary: true
 cover:

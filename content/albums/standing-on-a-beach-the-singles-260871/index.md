@@ -6,6 +6,7 @@ album_name: "Standing On A Beach • The Singles"
 date: 2015-08-09T08:37:10.000000Z
 release_date: "2017-04-16"
 release_id: "260871"
+apple_music_url: "https://music.apple.com/gb/album/the-cure-single/1445051390"
 slug: "standing-on-a-beach-the-singles-260871"
 hideSummary: true
 cover:

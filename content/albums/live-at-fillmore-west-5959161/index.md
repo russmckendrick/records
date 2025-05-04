@@ -6,6 +6,7 @@ album_name: "Live At Fillmore West"
 date: 2016-02-08T18:20:18.000000Z
 release_date: "1971-08"
 release_id: "5959161"
+apple_music_url: "https://music.apple.com/gb/album/live-at-fillmore-west/162635066"
 slug: "live-at-fillmore-west-5959161"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sixth Sense"
 date: 2018-08-21T18:45:08.000000Z
 release_date: "2018-03-16"
 release_id: "11750748"
+apple_music_url: "https://music.apple.com/gb/album/sixth-sense/1636587734"
 slug: "sixth-sense-11750748"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Time"
 date: 2021-07-16T11:54:29.000000Z
 release_date: "1989-10"
 release_id: "19505374"
+apple_music_url: "https://music.apple.com/gb/album/the-time/406402841"
 slug: "the-time-19505374"
 hideSummary: true
 cover:

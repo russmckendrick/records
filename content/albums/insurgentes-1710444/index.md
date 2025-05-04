@@ -6,6 +6,7 @@ album_name: "Insurgentes"
 date: 2016-12-10T10:46:58.000000Z
 release_date: "2009"
 release_id: "1710444"
+apple_music_url: "https://music.apple.com/gb/album/insurgentes-remastered/1119733844"
 slug: "insurgentes-1710444"
 hideSummary: true
 cover:

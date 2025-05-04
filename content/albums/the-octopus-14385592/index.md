@@ -6,6 +6,7 @@ album_name: "The Octopus"
 date: 2021-03-13T05:43:56.000000Z
 release_date: "2017-02-03"
 release_id: "14385592"
+apple_music_url: "https://music.apple.com/gb/album/the-octopus/1198303873"
 slug: "the-octopus-14385592"
 hideSummary: true
 cover:

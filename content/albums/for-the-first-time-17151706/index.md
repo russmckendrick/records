@@ -6,6 +6,7 @@ album_name: "For The First Time"
 date: 2021-02-05T09:27:50.000000Z
 release_date: "2023-04-28"
 release_id: "17151706"
+apple_music_url: "https://music.apple.com/gb/album/black-country-new-road/1677781826"
 slug: "for-the-first-time-17151706"
 hideSummary: true
 cover:

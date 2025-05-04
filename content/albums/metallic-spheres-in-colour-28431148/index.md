@@ -6,6 +6,7 @@ album_name: "Metallic Spheres In Colour"
 date: 2023-09-29T06:39:27.000000Z
 release_date: "2023-09-29"
 release_id: "28431148"
+apple_music_url: "https://music.apple.com/gb/album/metallic-spheres-in-colour/1700315137"
 slug: "metallic-spheres-in-colour-28431148"
 hideSummary: true
 cover:

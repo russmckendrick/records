@@ -6,6 +6,7 @@ album_name: "Rings Around The World"
 date: 2021-09-03T05:40:02.000000Z
 release_date: "2001-01-01"
 release_id: "20075032"
+apple_music_url: "https://music.apple.com/gb/album/rings-around-the-world/1626518352"
 slug: "rings-around-the-world-20075032"
 hideSummary: true
 cover:

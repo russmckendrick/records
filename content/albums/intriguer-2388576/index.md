@@ -6,6 +6,7 @@ album_name: "Intriguer"
 date: 2015-11-03T19:21:10.000000Z
 release_date: "2010-07-13"
 release_id: "2388576"
+apple_music_url: "https://music.apple.com/gb/album/intriguer/1615562750"
 slug: "intriguer-2388576"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Demon Joke"
 date: 2015-08-09T08:35:59.000000Z
 release_date: "2015-08-07"
 release_id: "7147581"
+apple_music_url: "https://music.apple.com/gb/album/the-demon-joke/1049159070"
 slug: "the-demon-joke-7147581"
 hideSummary: true
 cover:

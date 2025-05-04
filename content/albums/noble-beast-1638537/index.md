@@ -6,6 +6,7 @@ album_name: "Noble Beast"
 date: 2016-02-11T20:06:19.000000Z
 release_date: "2009-02-02"
 release_id: "1638537"
+apple_music_url: "https://music.apple.com/gb/album/noble-beast/671946528"
 slug: "noble-beast-1638537"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Resistance Is Futile"
 date: 2018-04-13T18:38:59.000000Z
 release_date: "2018-04-13"
 release_id: "11850128"
+apple_music_url: "https://music.apple.com/gb/album/resistance-is-futile-deluxe/1326848106"
 slug: "resistance-is-futile-11850128"
 hideSummary: true
 cover:

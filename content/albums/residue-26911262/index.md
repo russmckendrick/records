@@ -6,6 +6,7 @@ album_name: "Residue"
 date: 
 release_date: ""
 release_id: "26911262"
+apple_music_url: ""
 slug: "residue-26911262"
 hideSummary: true
 cover:

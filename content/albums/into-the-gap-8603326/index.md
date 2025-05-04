@@ -6,6 +6,7 @@ album_name: "Into The Gap"
 date: 2017-01-08T11:12:41.000000Z
 release_date: "1984-02-17"
 release_id: "8603326"
+apple_music_url: "https://music.apple.com/gb/album/into-the-gap/1700433691"
 slug: "into-the-gap-8603326"
 hideSummary: true
 cover:

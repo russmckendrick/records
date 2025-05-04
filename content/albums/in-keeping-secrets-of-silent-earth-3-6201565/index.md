@@ -6,6 +6,7 @@ album_name: "In Keeping Secrets Of Silent Earth: 3"
 date: 2017-07-16T08:41:50.000000Z
 release_date: "2007-01-09"
 release_id: "6201565"
+apple_music_url: "https://music.apple.com/gb/album/vsq-performs-coheed-and-cambrias-in-keeping-secrets/982055465"
 slug: "in-keeping-secrets-of-silent-earth-3-6201565"
 hideSummary: true
 cover:

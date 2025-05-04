@@ -6,6 +6,7 @@ album_name: "Dumbing Up"
 date: 2021-05-28T04:53:56.000000Z
 release_date: "2000-10-31"
 release_id: "18417163"
+apple_music_url: "https://music.apple.com/gb/album/dumbing-up/711981890"
 slug: "dumbing-up-18417163"
 hideSummary: true
 cover:

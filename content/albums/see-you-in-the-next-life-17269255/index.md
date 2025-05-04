@@ -6,6 +6,7 @@ album_name: "See You In The Next Life..."
 date: 2021-04-19T02:24:22.000000Z
 release_date: "2004"
 release_id: "17269255"
+apple_music_url: "https://music.apple.com/gb/album/see-you-in-the-next-life/1529578693"
 slug: "see-you-in-the-next-life-17269255"
 hideSummary: true
 cover:

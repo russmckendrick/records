@@ -6,6 +6,7 @@ album_name: "The Legend Of Johnny Cash"
 date: 2015-08-09T08:38:25.000000Z
 release_date: "2020-08-28"
 release_id: "6185046"
+apple_music_url: "https://music.apple.com/gb/album/i-walk-the-line-the-best-of-johnny-cash/1527293230"
 slug: "the-legend-of-johnny-cash-6185046"
 hideSummary: true
 cover:

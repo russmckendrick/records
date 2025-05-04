@@ -6,6 +6,7 @@ album_name: "The First Of Too Many"
 date: 2019-03-24T13:15:48.000000Z
 release_date: "1991-03-03"
 release_id: "4677659"
+apple_music_url: "https://music.apple.com/gb/album/the-first-of-too-many/273760193"
 slug: "the-first-of-too-many-4677659"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "What Are You Going To Do With Your Life?"
 date: 2024-11-30T07:30:59.000000Z
 release_date: "1999-01-01"
 release_id: "32438634"
+apple_music_url: "https://music.apple.com/gb/album/what-are-you-going-to-do-with-your-life/1313944431"
 slug: "what-are-you-going-to-do-with-your-life-32438634"
 hideSummary: true
 cover:

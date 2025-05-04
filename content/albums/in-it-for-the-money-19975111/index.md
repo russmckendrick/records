@@ -6,6 +6,7 @@ album_name: "In It For The Money"
 date: 2021-08-28T01:39:12.000000Z
 release_date: "1997-04-21"
 release_id: "19975111"
+apple_music_url: "https://music.apple.com/gb/album/in-it-for-the-money/1448862928"
 slug: "in-it-for-the-money-19975111"
 hideSummary: true
 cover:

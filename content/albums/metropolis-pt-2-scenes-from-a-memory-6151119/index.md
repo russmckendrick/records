@@ -6,6 +6,7 @@ album_name: "Metropolis Pt. 2: Scenes From A Memory"
 date: 2016-02-01T19:16:22.000000Z
 release_date: "1999-10-26"
 release_id: "6151119"
+apple_music_url: "https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467"
 slug: "metropolis-pt-2-scenes-from-a-memory-6151119"
 hideSummary: true
 cover:

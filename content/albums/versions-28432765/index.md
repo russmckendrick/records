@@ -6,6 +6,7 @@ album_name: "Versions"
 date: 2023-10-12T02:54:12.000000Z
 release_date: "2023-10-06"
 release_id: "28432765"
+apple_music_url: "https://music.apple.com/gb/album/versions/1705440621"
 slug: "versions-28432765"
 hideSummary: true
 cover:

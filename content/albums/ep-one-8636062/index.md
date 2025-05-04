@@ -6,6 +6,7 @@ album_name: "EP ONE"
 date: 2016-06-12T09:55:00.000000Z
 release_date: "2016-06-10"
 release_id: "8636062"
+apple_music_url: "https://music.apple.com/gb/album/ep-one-ep/1105432622"
 slug: "ep-one-8636062"
 hideSummary: true
 cover:

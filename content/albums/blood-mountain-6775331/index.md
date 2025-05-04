@@ -6,6 +6,7 @@ album_name: "Blood Mountain"
 date: 2016-10-25T14:09:21.000000Z
 release_date: "2006-09-11"
 release_id: "6775331"
+apple_music_url: "https://music.apple.com/gb/album/blood-mountain/1217503029"
 slug: "blood-mountain-6775331"
 hideSummary: true
 cover:

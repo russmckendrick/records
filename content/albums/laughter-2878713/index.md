@@ -6,6 +6,7 @@ album_name: "Laughter"
 date: 2020-08-02T13:34:01.000000Z
 release_date: "1980-11-28"
 release_id: "2878713"
+apple_music_url: "https://music.apple.com/gb/album/laughter/1488480484"
 slug: "laughter-2878713"
 hideSummary: true
 cover:

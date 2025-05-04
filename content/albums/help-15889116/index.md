@@ -6,6 +6,7 @@ album_name: "Help"
 date: 2023-10-18T10:49:41.000000Z
 release_date: ""
 release_id: "15889116"
+apple_music_url: ""
 slug: "help-15889116"
 hideSummary: true
 cover:

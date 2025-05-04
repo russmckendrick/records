@@ -6,6 +6,7 @@ album_name: "A Natural Disaster"
 date: 2016-10-22T12:17:38.000000Z
 release_date: "2003-11-03"
 release_id: "7042351"
+apple_music_url: "https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341"
 slug: "a-natural-disaster-7042351"
 hideSummary: true
 cover:

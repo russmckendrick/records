@@ -6,6 +6,7 @@ album_name: "Franz Ferdinand"
 date: 2024-02-18T00:32:10.000000Z
 release_date: "2004-02-09"
 release_id: "29697511"
+apple_music_url: "https://music.apple.com/gb/album/franz-ferdinand/315843479"
 slug: "franz-ferdinand-29697511"
 hideSummary: true
 cover:

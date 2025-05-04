@@ -6,6 +6,7 @@ album_name: "A New Career In A New Town [ 1977–1982 ]"
 date: 2017-09-29T17:28:10.000000Z
 release_date: "2017-09-29"
 release_id: "10919769"
+apple_music_url: "https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551"
 slug: "a-new-career-in-a-new-town-19771982-10919769"
 hideSummary: true
 cover:

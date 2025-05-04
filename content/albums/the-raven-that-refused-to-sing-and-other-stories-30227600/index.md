@@ -6,6 +6,7 @@ album_name: "The Raven That Refused To Sing (And Other Stories)"
 date: 2024-03-28T00:12:03.000000Z
 release_date: "2013-02-25"
 release_id: "30227600"
+apple_music_url: "https://music.apple.com/gb/album/the-raven-that-refused-to-sing-and-other-stories/684102613"
 slug: "the-raven-that-refused-to-sing-and-other-stories-30227600"
 hideSummary: true
 cover:

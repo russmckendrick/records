@@ -6,6 +6,7 @@ album_name: "Trespass"
 date: 2024-09-28T08:00:44.000000Z
 release_date: "1970-10-23"
 release_id: "9141285"
+apple_music_url: "https://music.apple.com/gb/album/trespass-2007-stereo-mix/1695097428"
 slug: "trespass-9141285"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "We Die Young"
 date: 2022-04-24T04:25:43.000000Z
 release_date: "2013-02-01"
 release_id: "22275457"
+apple_music_url: "https://music.apple.com/gb/album/we-die-young-in-the-style-of-alice-in-chains/609089162"
 slug: "we-die-young-22275457"
 hideSummary: true
 cover:

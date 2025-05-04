@@ -6,6 +6,7 @@ album_name: "The Best Of Chapterhouse"
 date: 2019-11-09T13:46:57.000000Z
 release_date: "2007-05-04"
 release_id: "14377153"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852"
 slug: "the-best-of-chapterhouse-14377153"
 hideSummary: true
 cover:

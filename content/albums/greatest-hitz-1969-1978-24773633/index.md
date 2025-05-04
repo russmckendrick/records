@@ -6,6 +6,7 @@ album_name: "Greatest Hitz 1969-1978"
 date: 2022-10-12T04:21:08.000000Z
 release_date: ""
 release_id: "24773633"
+apple_music_url: ""
 slug: "greatest-hitz-1969-1978-24773633"
 hideSummary: true
 cover:

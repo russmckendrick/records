@@ -6,6 +6,7 @@ album_name: "Beatmaker"
 date: 2022-03-10T05:19:10.000000Z
 release_date: "2022-01-04"
 release_id: "22444114"
+apple_music_url: "https://music.apple.com/gb/album/beatmaker-single/1597038144"
 slug: "beatmaker-22444114"
 hideSummary: true
 cover:

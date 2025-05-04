@@ -6,6 +6,7 @@ album_name: "Goin' Your Way (Highlights)"
 date: 2017-07-16T08:41:10.000000Z
 release_date: "2015-12-11"
 release_id: "7780882"
+apple_music_url: "https://music.apple.com/gb/album/goin-your-way/1055804128"
 slug: "goin-your-way-highlights-7780882"
 hideSummary: true
 cover:

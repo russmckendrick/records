@@ -6,6 +6,7 @@ album_name: "Earthling"
 date: 2016-02-24T13:03:45.000000Z
 release_date: "1997-02-03"
 release_id: "7781493"
+apple_music_url: "https://music.apple.com/gb/album/earthling/1053944724"
 slug: "earthling-7781493"
 hideSummary: true
 cover:

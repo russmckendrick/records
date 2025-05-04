@@ -6,6 +6,7 @@ album_name: "Isn't Anything"
 date: 2021-05-21T05:29:01.000000Z
 release_date: "2023-09-18"
 release_id: "18793480"
+apple_music_url: "https://music.apple.com/gb/album/my-bloody-valentine-single/1707099905"
 slug: "isn-t-anything-18793480"
 hideSummary: true
 cover:

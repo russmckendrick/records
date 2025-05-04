@@ -6,6 +6,7 @@ album_name: "Victim Of Love"
 date: 2016-10-03T14:26:22.000000Z
 release_date: "2013-04-02"
 release_id: "4400772"
+apple_music_url: "https://music.apple.com/gb/album/victim-of-love-feat-menahan-street-band/1485008286"
 slug: "victim-of-love-4400772"
 hideSummary: true
 cover:

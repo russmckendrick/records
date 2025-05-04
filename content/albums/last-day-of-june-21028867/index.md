@@ -6,6 +6,7 @@ album_name: "Last Day Of June "
 date: 2021-11-19T04:20:08.000000Z
 release_date: "2017-12-01"
 release_id: "21028867"
+apple_music_url: "https://music.apple.com/gb/album/last-day-of-june-original-game-soundtrack/1440875598"
 slug: "last-day-of-june-21028867"
 hideSummary: true
 cover:

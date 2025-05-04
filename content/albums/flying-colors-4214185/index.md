@@ -5,6 +5,7 @@ artist: "flying-colors"
 album_name: "Flying Colors"
 date: 2024-06-23T04:43:28.000000Z
 release_id: "4214185"
+apple_music_url: ""
 slug: "flying-colors-4214185"
 hideSummary: true
 cover:

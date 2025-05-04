@@ -6,6 +6,7 @@ album_name: "Conflicting Emotions"
 date: 2018-10-03T18:03:38.000000Z
 release_date: "1983-11-01"
 release_id: "2243861"
+apple_music_url: "https://music.apple.com/gb/album/conflicting-emotions/1443885439"
 slug: "conflicting-emotions-2243861"
 hideSummary: true
 cover:

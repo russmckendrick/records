@@ -6,6 +6,7 @@ album_name: "The Holy Bible 20"
 date: 2015-08-09T12:08:08.000000Z
 release_date: "1994-08"
 release_id: "6380440"
+apple_music_url: "https://music.apple.com/gb/album/the-holy-bible-20-deluxe/939553917"
 slug: "the-holy-bible-20-6380440"
 hideSummary: true
 cover:

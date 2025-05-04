@@ -6,6 +6,7 @@ album_name: "Cha Cha Cha"
 date: 2020-08-02T13:44:22.000000Z
 release_date: "2009-10-23"
 release_id: "2950887"
+apple_music_url: "https://music.apple.com/gb/album/the-best-cha-cha-cha-collection-of-dancelife/349833081"
 slug: "cha-cha-cha-2950887"
 hideSummary: true
 cover:

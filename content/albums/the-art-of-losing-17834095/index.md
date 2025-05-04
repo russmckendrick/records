@@ -6,6 +6,7 @@ album_name: "The Art Of Losing"
 date: 2021-03-14T11:51:46.000000Z
 release_date: "2021-03-12"
 release_id: "17834095"
+apple_music_url: "https://music.apple.com/gb/album/the-art-of-losing/1535065686"
 slug: "the-art-of-losing-17834095"
 hideSummary: true
 cover:

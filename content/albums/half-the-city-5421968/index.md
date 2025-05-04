@@ -6,6 +6,7 @@ album_name: "Half The City"
 date: 2015-10-20T17:19:54.000000Z
 release_date: "2014-10-30"
 release_id: "5421968"
+apple_music_url: "https://music.apple.com/gb/album/broken-bones-ep/933982580"
 slug: "half-the-city-5421968"
 hideSummary: true
 cover:

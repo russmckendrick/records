@@ -6,6 +6,7 @@ album_name: "And The Glass Handed Kites"
 date: 2020-10-23T09:29:38.000000Z
 release_date: "2001-01-01"
 release_id: "15964207"
+apple_music_url: "https://music.apple.com/gb/album/mew-and-the-glass-handed-kites/424196154"
 slug: "and-the-glass-handed-kites-15964207"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Frank Black"
 date: 2019-04-13T11:19:10.000000Z
 release_date: "1993-03-08"
 release_id: "13452156"
+apple_music_url: "https://music.apple.com/gb/album/frank-black/1450116872"
 slug: "frank-black-13452156"
 hideSummary: true
 cover:

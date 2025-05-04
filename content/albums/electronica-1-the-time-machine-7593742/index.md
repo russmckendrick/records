@@ -6,6 +6,7 @@ album_name: "Electronica 1: The Time Machine"
 date: 2018-01-29T19:33:46.000000Z
 release_date: "2015-10-16"
 release_id: "7593742"
+apple_music_url: "https://music.apple.com/gb/album/electronica-1-the-time-machine/1046500584"
 slug: "electronica-1-the-time-machine-7593742"
 hideSummary: true
 cover:

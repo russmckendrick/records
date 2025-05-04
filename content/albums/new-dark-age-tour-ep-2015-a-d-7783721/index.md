@@ -6,6 +6,7 @@ album_name: "New Dark Age Tour EP 2015 A.D."
 date: 2015-12-01T21:58:53.000000Z
 release_date: ""
 release_id: "7783721"
+apple_music_url: ""
 slug: "new-dark-age-tour-ep-2015-a-d-7783721"
 hideSummary: true
 cover:

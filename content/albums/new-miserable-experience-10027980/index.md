@@ -6,6 +6,7 @@ album_name: "New Miserable Experience"
 date: 2018-01-20T19:09:37.000000Z
 release_date: "1992-08-04"
 release_id: "10027980"
+apple_music_url: "https://music.apple.com/gb/album/new-miserable-experience/1440749157"
 slug: "new-miserable-experience-10027980"
 hideSummary: true
 cover:

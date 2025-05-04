@@ -6,6 +6,7 @@ album_name: "The Grind Date (20th Anniversary Edition)"
 date: 2025-03-21T12:03:18.000000Z
 release_date: "2004-10-05"
 release_id: "33471098"
+apple_music_url: "https://music.apple.com/gb/album/the-grind-date-20th-anniversary-edition/1786359095"
 slug: "the-grind-date-20th-anniversary-edition-33471098"
 hideSummary: true
 cover:

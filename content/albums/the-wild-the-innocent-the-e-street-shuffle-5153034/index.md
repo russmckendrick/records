@@ -6,6 +6,7 @@ album_name: "The Wild, The Innocent &  The E Street Shuffle"
 date: 2015-09-15T15:20:21.000000Z
 release_date: "1973-09-11"
 release_id: "5153034"
+apple_music_url: "https://music.apple.com/gb/album/the-wild-the-innocent-the-e-street-shuffle/186149850"
 slug: "the-wild-the-innocent-the-e-street-shuffle-5153034"
 hideSummary: true
 cover:

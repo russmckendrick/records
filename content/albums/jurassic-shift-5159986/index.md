@@ -6,6 +6,7 @@ album_name: "Jurassic Shift"
 date: 2020-06-01T13:34:09.000000Z
 release_date: "1993-07-13"
 release_id: "5159986"
+apple_music_url: "https://music.apple.com/gb/album/jurassic-shift/214136665"
 slug: "jurassic-shift-5159986"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Amok"
 date: 2018-01-06T10:51:25.000000Z
 release_date: "2013-02-20"
 release_id: "4312273"
+apple_music_url: "https://music.apple.com/gb/album/amok/1545337159"
 slug: "amok-4312273"
 hideSummary: true
 cover:

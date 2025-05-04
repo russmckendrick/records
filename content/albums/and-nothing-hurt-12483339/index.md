@@ -6,6 +6,7 @@ album_name: "And Nothing Hurt"
 date: 2018-09-07T20:19:36.000000Z
 release_date: "2018-09-07"
 release_id: "12483339"
+apple_music_url: "https://music.apple.com/gb/album/and-nothing-hurt/1391135207"
 slug: "and-nothing-hurt-12483339"
 hideSummary: true
 cover:

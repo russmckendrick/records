@@ -6,6 +6,7 @@ album_name: "Solace"
 date: 2022-04-27T08:23:36.000000Z
 release_date: "2022-04-22"
 release_id: "23017073"
+apple_music_url: "https://music.apple.com/gb/album/solace/1692299278"
 slug: "solace-23017073"
 hideSummary: true
 cover:

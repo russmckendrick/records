@@ -6,6 +6,7 @@ album_name: "Selling England By The Pound"
 date: 2018-08-06T18:42:06.000000Z
 release_date: "1973-10-13"
 release_id: "12345619"
+apple_music_url: "https://music.apple.com/gb/album/selling-england-by-the-pound-2007-stereo-mix/294810249"
 slug: "selling-england-by-the-pound-12345619"
 hideSummary: true
 cover:

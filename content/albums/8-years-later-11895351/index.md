@@ -6,6 +6,7 @@ album_name: "8 Years Later "
 date: 2018-05-05T10:12:53.000000Z
 release_date: "2016-08-12"
 release_id: "11895351"
+apple_music_url: "https://music.apple.com/gb/album/8-years-later/1585711251"
 slug: "8-years-later-11895351"
 hideSummary: true
 cover:

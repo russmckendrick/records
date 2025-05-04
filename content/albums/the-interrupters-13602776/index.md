@@ -6,6 +6,7 @@ album_name: "The Interrupters"
 date: 2022-10-04T01:58:14.000000Z
 release_date: "2014-08-05"
 release_id: "13602776"
+apple_music_url: "https://music.apple.com/gb/album/the-interrupters-deluxe-edition/1485060236"
 slug: "the-interrupters-13602776"
 hideSummary: true
 cover:

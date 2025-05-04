@@ -6,6 +6,7 @@ album_name: "Everything Is Recorded"
 date: 2018-02-16T18:48:54.000000Z
 release_date: "2018-02-16"
 release_id: "11561081"
+apple_music_url: "https://music.apple.com/gb/album/everything-is-recorded-by-richard-russell/1326029609"
 slug: "everything-is-recorded-11561081"
 hideSummary: true
 cover:

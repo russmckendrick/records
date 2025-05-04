@@ -6,6 +6,7 @@ album_name: "The Hour Of Bewilderbeast"
 date: 2015-09-30T18:06:25.000000Z
 release_date: "1999-09-06"
 release_id: "6662734"
+apple_music_url: "https://music.apple.com/gb/album/the-hour-of-bewilderbeast/1540689690"
 slug: "the-hour-of-bewilderbeast-6662734"
 hideSummary: true
 cover:

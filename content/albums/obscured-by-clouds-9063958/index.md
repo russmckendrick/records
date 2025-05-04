@@ -6,6 +6,7 @@ album_name: "Obscured By Clouds"
 date: 2016-09-23T16:51:08.000000Z
 release_date: "1972-06-02"
 release_id: "9063958"
+apple_music_url: "https://music.apple.com/gb/album/obscured-by-clouds/717956085"
 slug: "obscured-by-clouds-9063958"
 hideSummary: true
 cover:

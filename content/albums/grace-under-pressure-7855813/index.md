@@ -6,6 +6,7 @@ album_name: "Grace Under Pressure"
 date: 2017-02-22T18:02:11.000000Z
 release_date: "1984-04-12"
 release_id: "7855813"
+apple_music_url: "https://music.apple.com/gb/album/grace-under-pressure-remastered/1440801137"
 slug: "grace-under-pressure-7855813"
 hideSummary: true
 cover:

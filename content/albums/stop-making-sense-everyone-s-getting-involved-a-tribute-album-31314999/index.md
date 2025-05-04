@@ -5,6 +5,7 @@ artist: "various"
 album_name: "Stop Making Sense Everyone's Getting Involved A Tribute Album"
 date: 2024-07-30T03:44:45.000000Z
 release_id: "31314999"
+apple_music_url: ""
 slug: "stop-making-sense-everyone-s-getting-involved-a-tribute-album-31314999"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Welcome To The Real World"
 date: 2018-09-07T18:30:44.000000Z
 release_date: "1985-11-27"
 release_id: "945673"
+apple_music_url: "https://music.apple.com/gb/album/welcome-to-the-real-world/302053572"
 slug: "welcome-to-the-real-world-945673"
 hideSummary: true
 cover:

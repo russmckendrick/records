@@ -6,6 +6,7 @@ album_name: "Walk Between Worlds"
 date: 2018-02-03T10:17:35.000000Z
 release_date: "2018-02-02"
 release_id: "11490159"
+apple_music_url: "https://music.apple.com/gb/album/walk-between-worlds/1439238144"
 slug: "walk-between-worlds-11490159"
 hideSummary: true
 cover:

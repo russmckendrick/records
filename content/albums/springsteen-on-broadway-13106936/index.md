@@ -6,6 +6,7 @@ album_name: "Springsteen On Broadway"
 date: 2019-01-25T18:18:30.000000Z
 release_date: "2018-12-14"
 release_id: "13106936"
+apple_music_url: "https://music.apple.com/gb/album/springsteen-on-broadway/1445588120"
 slug: "springsteen-on-broadway-13106936"
 hideSummary: true
 cover:

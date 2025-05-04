@@ -6,6 +6,7 @@ album_name: "Rocket To Russia"
 date: 2018-02-09T11:49:15.000000Z
 release_date: "1977-11-04"
 release_id: "11538026"
+apple_music_url: "https://music.apple.com/gb/album/rocket-to-russia/847962534"
 slug: "rocket-to-russia-11538026"
 hideSummary: true
 cover:

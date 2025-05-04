@@ -6,6 +6,7 @@ album_name: "Can't Buy A Thrill"
 date: 2022-11-04T06:14:33.000000Z
 release_date: "1972-11-01"
 release_id: "25006759"
+apple_music_url: "https://music.apple.com/gb/album/cant-buy-a-thrill/1650885288"
 slug: "can-t-buy-a-thrill-25006759"
 hideSummary: true
 cover:

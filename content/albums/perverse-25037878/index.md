@@ -6,6 +6,7 @@ album_name: "Perverse"
 date: 2022-11-03T13:59:17.000000Z
 release_date: "1993"
 release_id: "25037878"
+apple_music_url: "https://music.apple.com/gb/album/perverse/692116461"
 slug: "perverse-25037878"
 hideSummary: true
 cover:

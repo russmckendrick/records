@@ -6,6 +6,7 @@ album_name: "Be Music"
 date: 2017-02-22T18:01:08.000000Z
 release_date: "1994-11-22"
 release_id: "9775851"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-new-order/42029668"
 slug: "be-music-9775851"
 hideSummary: true
 cover:

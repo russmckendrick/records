@@ -6,6 +6,7 @@ album_name: "Spooky"
 date: 2023-08-11T08:22:40.000000Z
 release_date: "1992-01-27"
 release_id: "27919932"
+apple_music_url: "https://music.apple.com/gb/album/spooky/311187779"
 slug: "spooky-27919932"
 hideSummary: true
 cover:

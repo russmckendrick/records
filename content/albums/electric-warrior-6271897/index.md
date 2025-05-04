@@ -6,6 +6,7 @@ album_name: "Electric Warrior"
 date: 2017-01-27T19:40:03.000000Z
 release_date: "1971-09-24"
 release_id: "6271897"
+apple_music_url: "https://music.apple.com/gb/album/electric-warrior/1440804752"
 slug: "electric-warrior-6271897"
 hideSummary: true
 cover:

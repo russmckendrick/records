@@ -6,6 +6,7 @@ album_name: "The B-52's"
 date: 2016-09-14T17:01:12.000000Z
 release_date: "1990-01-01"
 release_id: "7247829"
+apple_music_url: "https://music.apple.com/gb/album/dance-this-mess-around-the-best-of-the-b-52s/1443390436"
 slug: "the-b-52-s-7247829"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "From Capelton Hill"
 date: 2022-05-31T04:16:54.000000Z
 release_date: "2022-05-27"
 release_id: "23383391"
+apple_music_url: "https://music.apple.com/gb/album/from-capelton-hill/1605966424"
 slug: "from-capelton-hill-23383391"
 hideSummary: true
 cover:

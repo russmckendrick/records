@@ -6,6 +6,7 @@ album_name: "The Unforgettable Fire"
 date: 2019-06-15T14:34:37.000000Z
 release_date: "1984-10-01"
 release_id: "13734008"
+apple_music_url: "https://music.apple.com/gb/album/the-unforgettable-fire/1443184272"
 slug: "the-unforgettable-fire-13734008"
 hideSummary: true
 cover:

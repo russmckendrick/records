@@ -6,6 +6,7 @@ album_name: "Purple"
 date: 2019-07-19T06:23:16.000000Z
 release_date: "2015-12-18"
 release_id: "7859118"
+apple_music_url: "https://music.apple.com/gb/album/purple/1032909985"
 slug: "purple-7859118"
 hideSummary: true
 cover:

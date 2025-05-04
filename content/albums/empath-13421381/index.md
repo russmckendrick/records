@@ -6,6 +6,7 @@ album_name: "Empath"
 date: 2019-03-31T17:27:19.000000Z
 release_date: "2023-08-04"
 release_id: "13421381"
+apple_music_url: "https://music.apple.com/gb/album/devolution-series-3-empath-live-in-america/1687553775"
 slug: "empath-13421381"
 hideSummary: true
 cover:

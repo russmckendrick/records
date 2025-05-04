@@ -6,6 +6,7 @@ album_name: "All The Best"
 date: 2017-03-23T08:14:46.000000Z
 release_date: "1983"
 release_id: "864069"
+apple_music_url: "https://music.apple.com/gb/album/all-the-best/695791844"
 slug: "all-the-best-864069"
 hideSummary: true
 cover:

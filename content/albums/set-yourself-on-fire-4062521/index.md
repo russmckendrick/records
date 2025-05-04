@@ -6,6 +6,7 @@ album_name: "Set Yourself On Fire"
 date: 2016-01-18T18:39:18.000000Z
 release_date: "2004-10-12"
 release_id: "4062521"
+apple_music_url: "https://music.apple.com/gb/album/set-yourself-on-fire/1442859173"
 slug: "set-yourself-on-fire-4062521"
 hideSummary: true
 cover:

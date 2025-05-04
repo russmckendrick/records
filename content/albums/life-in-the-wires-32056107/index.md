@@ -6,6 +6,7 @@ album_name: "Life In The Wires"
 date: 2024-11-09T04:41:17.000000Z
 release_date: "2024-10-18"
 release_id: "32056107"
+apple_music_url: "https://music.apple.com/gb/album/life-in-the-wires/1760778379"
 slug: "life-in-the-wires-32056107"
 hideSummary: true
 cover:

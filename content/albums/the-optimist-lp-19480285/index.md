@@ -6,6 +6,7 @@ album_name: "The Optimist LP"
 date: 2021-07-14T10:54:43.000000Z
 release_date: "2001-01-01"
 release_id: "19480285"
+apple_music_url: "https://music.apple.com/gb/album/the-optimist/1663632527"
 slug: "the-optimist-lp-19480285"
 hideSummary: true
 cover:

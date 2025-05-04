@@ -6,6 +6,7 @@ album_name: "Doom Side Of The Moon"
 date: 2018-01-25T18:53:03.000000Z
 release_date: "2017-10-06"
 release_id: "11246319"
+apple_music_url: "https://music.apple.com/gb/album/doom-side-of-the-moon/1600465934"
 slug: "doom-side-of-the-moon-11246319"
 hideSummary: true
 cover:

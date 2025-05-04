@@ -6,6 +6,7 @@ album_name: "Astragal"
 date: 2016-11-17T19:53:32.000000Z
 release_date: "2016-10-17"
 release_id: "9156904"
+apple_music_url: "https://music.apple.com/gb/album/astragal/1171757044"
 slug: "astragal-9156904"
 hideSummary: true
 cover:

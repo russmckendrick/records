@@ -6,6 +6,7 @@ album_name: "Live"
 date: 2024-03-15T06:45:38.000000Z
 release_date: "1992-10-27"
 release_id: "30102011"
+apple_music_url: "https://music.apple.com/gb/album/live/575992075"
 slug: "live-30102011"
 hideSummary: true
 cover:

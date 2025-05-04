@@ -6,6 +6,7 @@ album_name: "The Dangermen Sessions (Volume One)"
 date: 2022-09-17T09:34:22.000000Z
 release_date: "2005-08-01"
 release_id: "24543611"
+apple_music_url: "https://music.apple.com/gb/album/the-dangermen-sessions-vol-1/1777029787"
 slug: "the-dangermen-sessions-volume-one-24543611"
 hideSummary: true
 cover:

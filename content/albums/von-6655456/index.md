@@ -6,6 +6,7 @@ album_name: "Von"
 date: 2019-01-04T19:34:21.000000Z
 release_date: "2019-08-09"
 release_id: "6655456"
+apple_music_url: "https://music.apple.com/gb/album/sigur-r%C3%B3s-presents-liminal-sleep/1475167321"
 slug: "von-6655456"
 hideSummary: true
 cover:

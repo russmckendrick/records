@@ -6,6 +6,7 @@ album_name: "History Never Repeats"
 date: 2018-10-03T18:03:57.000000Z
 release_date: "1981-04-01"
 release_id: "6659991"
+apple_music_url: "https://music.apple.com/gb/album/waiata/1442252874"
 slug: "history-never-repeats-6659991"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Lighthouse"
 date: 2016-04-29T18:05:33.000000Z
 release_date: "2016-04-01"
 release_id: "8415406"
+apple_music_url: "https://music.apple.com/gb/album/lighthouse/1086183990"
 slug: "lighthouse-8415406"
 hideSummary: true
 cover:

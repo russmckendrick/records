@@ -6,6 +6,7 @@ album_name: "The Lemon Of Pink"
 date: 2016-11-17T19:53:17.000000Z
 release_date: "2003-10-07"
 release_id: "9332526"
+apple_music_url: "https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942"
 slug: "the-lemon-of-pink-9332526"
 hideSummary: true
 cover:

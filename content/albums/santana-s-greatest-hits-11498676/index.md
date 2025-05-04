@@ -6,6 +6,7 @@ album_name: "Santana's Greatest Hits"
 date: 2018-02-08T18:31:29.000000Z
 release_date: "1974-07-01"
 release_id: "11498676"
+apple_music_url: "https://music.apple.com/gb/album/santanas-greatest-hits/897791041"
 slug: "santana-s-greatest-hits-11498676"
 hideSummary: true
 cover:

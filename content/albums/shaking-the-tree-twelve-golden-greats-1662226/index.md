@@ -6,6 +6,7 @@ album_name: "Shaking The Tree (Twelve Golden Greats)"
 date: 2016-04-25T21:08:38.000000Z
 release_date: ""
 release_id: "1662226"
+apple_music_url: ""
 slug: "shaking-the-tree-twelve-golden-greats-1662226"
 hideSummary: true
 cover:

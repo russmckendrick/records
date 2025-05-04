@@ -6,6 +6,7 @@ album_name: "Joyride"
 date: 2021-11-26T09:14:40.000000Z
 release_date: "2009-09-28"
 release_id: "21128191"
+apple_music_url: "https://music.apple.com/gb/album/joyride-deluxe-version/693194466"
 slug: "joyride-21128191"
 hideSummary: true
 cover:

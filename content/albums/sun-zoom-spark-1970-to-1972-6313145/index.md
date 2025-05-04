@@ -6,6 +6,7 @@ album_name: "Sun Zoom Spark: 1970 To 1972"
 date: 2018-01-26T20:04:23.000000Z
 release_date: ""
 release_id: "6313145"
+apple_music_url: ""
 slug: "sun-zoom-spark-1970-to-1972-6313145"
 hideSummary: true
 cover:

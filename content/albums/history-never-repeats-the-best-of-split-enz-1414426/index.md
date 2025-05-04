@@ -6,6 +6,7 @@ album_name: "History Never Repeats (The Best Of Split Enz)"
 date: 2015-09-02T18:25:23.000000Z
 release_date: "1981-04-01"
 release_id: "1414426"
+apple_music_url: "https://music.apple.com/gb/album/waiata/1442252874"
 slug: "history-never-repeats-the-best-of-split-enz-1414426"
 hideSummary: true
 cover:

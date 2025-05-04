@@ -6,6 +6,7 @@ album_name: "The Mighty Boosh - The Complete Radio Series"
 date: 2019-04-25T19:02:49.000000Z
 release_date: "1990"
 release_id: "13486052"
+apple_music_url: "https://music.apple.com/gb/album/devils-night-out/321147421"
 slug: "the-mighty-boosh-the-complete-radio-series-13486052"
 hideSummary: true
 cover:

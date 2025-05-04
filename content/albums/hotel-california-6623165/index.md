@@ -6,6 +6,7 @@ album_name: "Hotel California"
 date: 2017-07-23T14:31:29.000000Z
 release_date: "1976-12-08"
 release_id: "6623165"
+apple_music_url: "https://music.apple.com/gb/album/hotel-california/635770200"
 slug: "hotel-california-6623165"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Either / Or: Expanded Edition"
 date: 2017-05-16T18:19:04.000000Z
 release_date: "1997-02-25"
 release_id: "9965763"
+apple_music_url: "https://music.apple.com/gb/album/either-or-expanded-edition/1442701781"
 slug: "either-or-expanded-edition-9965763"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Flood"
 date: 2022-10-09T05:00:54.000000Z
 release_date: "2024-03-01"
 release_id: "24727973"
+apple_music_url: "https://music.apple.com/gb/album/flood-live-live/1726213047"
 slug: "flood-24727973"
 hideSummary: true
 cover:

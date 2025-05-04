@@ -6,6 +6,7 @@ album_name: "Peter Green's Fleetwood Mac"
 date: 2017-09-09T10:32:13.000000Z
 release_date: "2003-05-27"
 release_id: "3107317"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-peter-greens-fleetwood-mac/459432385"
 slug: "peter-green-s-fleetwood-mac-3107317"
 hideSummary: true
 cover:

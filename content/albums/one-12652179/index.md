@@ -6,6 +6,7 @@ album_name: "One"
 date: 2018-10-13T07:28:15.000000Z
 release_date: "2020-09-25"
 release_id: "12652179"
+apple_music_url: "https://music.apple.com/gb/album/dubstar-preludes-vol-1-ep/1529008332"
 slug: "one-12652179"
 hideSummary: true
 cover:

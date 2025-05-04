@@ -6,6 +6,7 @@ album_name: "Preservation"
 date: 2017-03-11T12:34:17.000000Z
 release_date: "2017-03-03"
 release_id: "9938964"
+apple_music_url: "https://music.apple.com/gb/album/preservation/1179774934"
 slug: "preservation-9938964"
 hideSummary: true
 cover:

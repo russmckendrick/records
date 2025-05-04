@@ -6,6 +6,7 @@ album_name: "Pleased To Meet You"
 date: 2017-12-17T09:51:13.000000Z
 release_date: "2001-01-01"
 release_id: "11277673"
+apple_music_url: "https://music.apple.com/gb/album/pleased-to-meet-you/1442647986"
 slug: "pleased-to-meet-you-11277673"
 hideSummary: true
 cover:

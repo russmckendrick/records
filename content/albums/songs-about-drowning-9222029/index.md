@@ -6,6 +6,7 @@ album_name: "Songs About Drowning"
 date: 2016-11-22T17:48:28.000000Z
 release_date: "2016-11-04"
 release_id: "9222029"
+apple_music_url: "https://music.apple.com/gb/album/songs-about-drowning/1160347728"
 slug: "songs-about-drowning-9222029"
 hideSummary: true
 cover:

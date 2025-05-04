@@ -6,6 +6,7 @@ album_name: "In The Dark"
 date: 2020-07-25T12:33:09.000000Z
 release_date: "2013-03-15"
 release_id: "15638649"
+apple_music_url: "https://music.apple.com/gb/album/toots-the-maytals-pressure-drop/602608174"
 slug: "in-the-dark-15638649"
 hideSummary: true
 cover:

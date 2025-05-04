@@ -6,6 +6,7 @@ album_name: "Signals (40th Anniversary)"
 date: 2023-04-30T07:37:15.000000Z
 release_date: "1981-02-12"
 release_id: "26922068"
+apple_music_url: "https://music.apple.com/gb/album/moving-pictures-40th-anniversary-super-deluxe/1608979166"
 slug: "signals-40th-anniversary-26922068"
 hideSummary: true
 cover:

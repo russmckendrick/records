@@ -6,6 +6,7 @@ album_name: "Rule The World"
 date: 2017-12-02T20:16:54.000000Z
 release_date: "2020-02-10"
 release_id: "11224816"
+apple_music_url: "https://music.apple.com/gb/album/rule-the-world-single/1498448132"
 slug: "rule-the-world-11224816"
 hideSummary: true
 cover:

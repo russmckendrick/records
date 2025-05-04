@@ -6,6 +6,7 @@ album_name: "Loss"
 date: 2023-03-01T00:18:53.000000Z
 release_date: "2001-10-09"
 release_id: "26212055"
+apple_music_url: "https://music.apple.com/gb/album/loss/107694351"
 slug: "loss-26212055"
 hideSummary: true
 cover:

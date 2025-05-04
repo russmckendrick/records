@@ -6,6 +6,7 @@ album_name: "The Lookout"
 date: 2018-04-20T17:55:25.000000Z
 release_date: "2018-04-13"
 release_id: "11865679"
+apple_music_url: "https://music.apple.com/gb/album/the-lookout/1336461182"
 slug: "the-lookout-11865679"
 hideSummary: true
 cover:

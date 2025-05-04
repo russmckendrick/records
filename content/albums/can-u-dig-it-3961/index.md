@@ -6,6 +6,7 @@ album_name: "Can U Dig It?"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2005-11-01"
 release_id: "3961"
+apple_music_url: "https://music.apple.com/gb/album/ultimate-isaac-hayes-can-you-dig-it/1443105620"
 slug: "can-u-dig-it-3961"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Split"
 date: 2023-08-11T08:22:48.000000Z
 release_date: "1994-06-13"
 release_id: "27909429"
+apple_music_url: "https://music.apple.com/gb/album/split/1439791241"
 slug: "split-27909429"
 hideSummary: true
 cover:

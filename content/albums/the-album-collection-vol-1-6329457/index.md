@@ -6,6 +6,7 @@ album_name: "The Album Collection Vol. 1"
 date: 2016-01-19T19:37:33.000000Z
 release_date: "1978-06-02"
 release_id: "6329457"
+apple_music_url: "https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977"
 slug: "the-album-collection-vol-1-6329457"
 hideSummary: true
 cover:

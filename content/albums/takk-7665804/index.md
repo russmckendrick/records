@@ -6,6 +6,7 @@ album_name: "Takk..."
 date: 2016-12-04T11:07:33.000000Z
 release_date: "2005-08-22"
 release_id: "7665804"
+apple_music_url: "https://music.apple.com/gb/album/takk/697318976"
 slug: "takk-7665804"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Product 2378"
 date: 2015-10-14T18:37:05.000000Z
 release_date: ""
 release_id: "1675620"
+apple_music_url: ""
 slug: "product-2378-1675620"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Live Again!"
 date: 2019-04-24T16:42:40.000000Z
 release_date: "2019-04-13"
 release_id: "13526674"
+apple_music_url: "https://music.apple.com/gb/album/live-again/1457934944"
 slug: "live-again-13526674"
 hideSummary: true
 cover:

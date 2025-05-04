@@ -6,6 +6,7 @@ album_name: "The Virgin Suicides"
 date: 2017-02-15T18:29:41.000000Z
 release_date: "2019-12-04"
 release_id: "7166199"
+apple_music_url: "https://music.apple.com/gb/album/the-virgin-suicides/1490089462"
 slug: "the-virgin-suicides-7166199"
 hideSummary: true
 cover:

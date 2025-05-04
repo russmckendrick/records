@@ -6,6 +6,7 @@ album_name: "Cyr"
 date: 2020-11-28T12:33:24.000000Z
 release_date: "2000-02-29"
 release_id: "16280158"
+apple_music_url: "https://music.apple.com/gb/album/machina-the-machines-of-god/712756036"
 slug: "cyr-16280158"
 hideSummary: true
 cover:

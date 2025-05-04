@@ -6,6 +6,7 @@ album_name: "Born In The U.S.A."
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1984-06-04"
 release_id: "1551256"
+apple_music_url: "https://music.apple.com/gb/album/born-in-the-u-s-a/203708420"
 slug: "born-in-the-u-s-a-1551256"
 hideSummary: true
 cover:

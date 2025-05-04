@@ -6,6 +6,7 @@ album_name: "Signals "
 date: 2023-04-30T07:37:15.000000Z
 release_date: "1982-09-09"
 release_id: "26922068"
+apple_music_url: "https://music.apple.com/gb/album/signals-remastered/1440765198"
 slug: "signals-26922068"
 hideSummary: true
 cover:

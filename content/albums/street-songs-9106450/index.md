@@ -6,6 +6,7 @@ album_name: "Street Songs"
 date: 2019-04-09T17:40:59.000000Z
 release_date: "2021-04-30"
 release_id: "9106450"
+apple_music_url: "https://music.apple.com/gb/album/rick-james-single/1562543429"
 slug: "street-songs-9106450"
 hideSummary: true
 cover:

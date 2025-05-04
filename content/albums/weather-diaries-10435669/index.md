@@ -6,6 +6,7 @@ album_name: "Weather Diaries"
 date: 2017-06-16T18:28:47.000000Z
 release_date: "2017-06-16"
 release_id: "10435669"
+apple_music_url: "https://music.apple.com/gb/album/weather-diaries/1217906716"
 slug: "weather-diaries-10435669"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Small Hours"
 date: 2016-09-27T16:15:26.000000Z
 release_date: "2016-09-16"
 release_id: "9112372"
+apple_music_url: "https://music.apple.com/gb/album/the-small-hours/1128004597"
 slug: "the-small-hours-9112372"
 hideSummary: true
 cover:

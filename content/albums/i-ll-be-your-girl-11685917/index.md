@@ -6,6 +6,7 @@ album_name: "I'll Be Your Girl"
 date: 2018-03-20T12:55:36.000000Z
 release_date: "2018-03-16"
 release_id: "11685917"
+apple_music_url: "https://music.apple.com/gb/album/ill-be-your-girl/1333262413"
 slug: "i-ll-be-your-girl-11685917"
 hideSummary: true
 cover:

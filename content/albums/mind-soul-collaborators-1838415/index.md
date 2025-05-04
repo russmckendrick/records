@@ -6,6 +6,7 @@ album_name: "Mind + Soul Collaborators"
 date: 2017-04-14T14:01:00.000000Z
 release_date: ""
 release_id: "1838415"
+apple_music_url: ""
 slug: "mind-soul-collaborators-1838415"
 hideSummary: true
 cover:

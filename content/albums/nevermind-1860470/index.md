@@ -6,6 +6,7 @@ album_name: "Nevermind"
 date: 2016-09-08T17:42:11.000000Z
 release_date: "2017-06-23"
 release_id: "1860470"
+apple_music_url: "https://music.apple.com/gb/album/nirvana-nevermind-solo-violin/1230754044"
 slug: "nevermind-1860470"
 hideSummary: true
 cover:

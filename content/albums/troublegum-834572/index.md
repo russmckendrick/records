@@ -6,6 +6,7 @@ album_name: "Troublegum"
 date: 2016-12-13T17:57:34.000000Z
 release_date: "1994-01-01"
 release_id: "834572"
+apple_music_url: "https://music.apple.com/gb/album/troublegum/1443273371"
 slug: "troublegum-834572"
 hideSummary: true
 cover:

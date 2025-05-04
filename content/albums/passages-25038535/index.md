@@ -6,6 +6,7 @@ album_name: "Passages"
 date: 2022-11-03T14:00:02.000000Z
 release_date: "2022-10-28"
 release_id: "25038535"
+apple_music_url: "https://music.apple.com/gb/album/passages/1647622175"
 slug: "passages-25038535"
 hideSummary: true
 cover:

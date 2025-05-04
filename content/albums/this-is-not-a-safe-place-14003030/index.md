@@ -6,6 +6,7 @@ album_name: "This Is Not A Safe Place"
 date: 2019-08-16T17:13:34.000000Z
 release_date: "2019-08-16"
 release_id: "14003030"
+apple_music_url: "https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456"
 slug: "this-is-not-a-safe-place-14003030"
 hideSummary: true
 cover:

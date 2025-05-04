@@ -6,6 +6,7 @@ album_name: "The Best Of The Ink Spots (20 Classic Tracks)"
 date: 2020-08-02T13:46:36.000000Z
 release_date: "1999-01-01"
 release_id: "1771691"
+apple_music_url: "https://music.apple.com/gb/album/20th-century-masters-the-millennium-series-the/1440921890"
 slug: "the-best-of-the-ink-spots-20-classic-tracks-1771691"
 hideSummary: true
 cover:

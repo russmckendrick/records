@@ -6,6 +6,7 @@ album_name: "Listen To Formation, Look For The Signs"
 date: 2025-02-11T04:03:46.000000Z
 release_date: "2014-11-28"
 release_id: "8509216"
+apple_music_url: "https://music.apple.com/gb/album/listen-to-formation-look-for-the-signs/1153582180"
 slug: "listen-to-formation-look-for-the-signs-8509216"
 hideSummary: true
 cover:

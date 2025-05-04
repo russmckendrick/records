@@ -6,6 +6,7 @@ album_name: "Asquarius"
 date: 2017-05-19T14:22:56.000000Z
 release_date: "2007-01-01"
 release_id: "1832443"
+apple_music_url: "https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829"
 slug: "asquarius-1832443"
 hideSummary: true
 cover:

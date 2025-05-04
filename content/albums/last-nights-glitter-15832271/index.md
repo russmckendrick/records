@@ -6,6 +6,7 @@ album_name: "Last Nights Glitter"
 date: 2020-08-30T14:46:35.000000Z
 release_date: "2020-07-03"
 release_id: "15832271"
+apple_music_url: "https://music.apple.com/gb/album/last-nights-glitter/1516641724"
 slug: "last-nights-glitter-15832271"
 hideSummary: true
 cover:

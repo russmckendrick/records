@@ -6,6 +6,7 @@ album_name: "Tim's Listening Party"
 date: 2024-03-20T13:57:30.000000Z
 release_date: "1993-01-01"
 release_id: "30149570"
+apple_music_url: "https://music.apple.com/gb/album/britten-the-little-sweep-gemini-variations-childrens/1730991259"
 slug: "tim-s-listening-party-30149570"
 hideSummary: true
 cover:

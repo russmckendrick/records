@@ -6,6 +6,7 @@ album_name: "Paris 1919"
 date: 2024-11-16T05:39:07.000000Z
 release_date: "1973-02-25"
 release_id: "32196960"
+apple_music_url: "https://music.apple.com/gb/album/paris-1919/1251616879"
 slug: "paris-1919-32196960"
 hideSummary: true
 cover:

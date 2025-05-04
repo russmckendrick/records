@@ -6,6 +6,7 @@ album_name: "The Dark Third"
 date: 2020-10-16T13:28:17.000000Z
 release_date: "2006-04-08"
 release_id: "16056970"
+apple_music_url: "https://music.apple.com/gb/album/the-dark-third/270604771"
 slug: "the-dark-third-16056970"
 hideSummary: true
 cover:

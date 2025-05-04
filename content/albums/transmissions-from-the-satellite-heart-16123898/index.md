@@ -6,6 +6,7 @@ album_name: "Transmissions From The Satellite Heart"
 date: 2021-03-10T08:46:12.000000Z
 release_date: "1993-06-22"
 release_id: "16123898"
+apple_music_url: "https://music.apple.com/gb/album/transmissions-from-the-satellite-heart/1231989623"
 slug: "transmissions-from-the-satellite-heart-16123898"
 hideSummary: true
 cover:

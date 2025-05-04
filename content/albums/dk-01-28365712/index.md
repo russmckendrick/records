@@ -6,6 +6,7 @@ album_name: "DK. 01"
 date: 2023-09-23T01:40:38.000000Z
 release_date: "2023-09-22"
 release_id: "28365712"
+apple_music_url: "https://music.apple.com/gb/album/dk-01/1702874101"
 slug: "dk-01-28365712"
 hideSummary: true
 cover:

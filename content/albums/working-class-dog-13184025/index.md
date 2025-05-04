@@ -6,6 +6,7 @@ album_name: "Working Class Dog"
 date: 2020-01-30T18:34:56.000000Z
 release_date: "1981"
 release_id: "13184025"
+apple_music_url: "https://music.apple.com/gb/album/working-class-dog/270571529"
 slug: "working-class-dog-13184025"
 hideSummary: true
 cover:

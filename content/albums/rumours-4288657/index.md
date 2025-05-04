@@ -6,6 +6,7 @@ album_name: "Rumours "
 date: 2015-09-30T17:20:53.000000Z
 release_date: "2002-10-12"
 release_id: "4288657"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-fleetwood-mac-remastered/986496155"
 slug: "rumours-4288657"
 hideSummary: true
 cover:

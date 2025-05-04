@@ -6,6 +6,7 @@ album_name: "Soundtrack From The Film More"
 date: 2016-06-03T20:02:40.000000Z
 release_date: "2004-01-01"
 release_id: "8558988"
+apple_music_url: "https://music.apple.com/gb/album/eternal-sunshine-of-the-spotless-mind-soundtrack/1442912229"
 slug: "soundtrack-from-the-film-more-8558988"
 hideSummary: true
 cover:

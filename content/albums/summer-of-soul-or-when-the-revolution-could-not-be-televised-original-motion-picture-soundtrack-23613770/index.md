@@ -6,6 +6,7 @@ album_name: "Summer Of Soul (...Or, When The Revolution Could Not Be Televised) 
 date: 2022-06-18T05:48:07.000000Z
 release_date: ""
 release_id: "23613770"
+apple_music_url: ""
 slug: "summer-of-soul-or-when-the-revolution-could-not-be-televised-original-motion-picture-soundtrack-23613770"
 hideSummary: true
 cover:

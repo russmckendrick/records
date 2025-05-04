@@ -6,6 +6,7 @@ album_name: "Maxinquaye"
 date: 2022-06-24T05:51:00.000000Z
 release_date: "1995-01-01"
 release_id: "3430685"
+apple_music_url: "https://music.apple.com/gb/album/maxinquaye/1440918276"
 slug: "maxinquaye-3430685"
 hideSummary: true
 cover:

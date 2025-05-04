@@ -6,6 +6,7 @@ album_name: "The Big Express"
 date: 2023-04-29T03:01:24.000000Z
 release_date: "1984-10-15"
 release_id: "25208314"
+apple_music_url: "https://music.apple.com/gb/album/the-big-express-bonus-track-version/724362839"
 slug: "the-big-express-25208314"
 hideSummary: true
 cover:

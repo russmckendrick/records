@@ -6,6 +6,7 @@ album_name: "Don't Give Up On Me"
 date: 2022-12-02T07:57:17.000000Z
 release_date: "2002-07-23"
 release_id: "25336930"
+apple_music_url: "https://music.apple.com/gb/album/dont-give-up-on-me/1485019443"
 slug: "don-t-give-up-on-me-25336930"
 hideSummary: true
 cover:

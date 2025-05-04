@@ -6,6 +6,7 @@ album_name: "Yours For The Taking (The Best Of)"
 date: 2020-08-22T09:03:43.000000Z
 release_date: "2002-01-01"
 release_id: "15778008"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-kiss/1440658055"
 slug: "yours-for-the-taking-the-best-of-15778008"
 hideSummary: true
 cover:

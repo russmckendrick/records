@@ -6,6 +6,7 @@ album_name: "Judgment Night (Music From The Motion Picture)"
 date: 2017-01-25T18:16:06.000000Z
 release_date: ""
 release_id: "2602982"
+apple_music_url: ""
 slug: "judgment-night-music-from-the-motion-picture-2602982"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Seeking New Gods"
 date: 2021-05-29T07:42:16.000000Z
 release_date: "2021-05-21"
 release_id: "18798823"
+apple_music_url: "https://music.apple.com/gb/album/seeking-new-gods/1554723124"
 slug: "seeking-new-gods-18798823"
 hideSummary: true
 cover:

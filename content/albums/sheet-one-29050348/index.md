@@ -6,6 +6,7 @@ album_name: "Sheet One"
 date: 2023-12-16T04:03:39.000000Z
 release_date: "1993-11-06"
 release_id: "29050348"
+apple_music_url: "https://music.apple.com/gb/album/sheet-one-remastered/1506648948"
 slug: "sheet-one-29050348"
 hideSummary: true
 cover:

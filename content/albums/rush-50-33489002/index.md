@@ -6,6 +6,7 @@ album_name: "Rush 50"
 date: 2025-03-23T04:38:58.000000Z
 release_date: "2018-04-22"
 release_id: "33489002"
+apple_music_url: "https://music.apple.com/us/album/rush-50-anniversary-super-deluxe/1771541600"
 slug: "rush-50-33489002"
 hideSummary: true
 cover:

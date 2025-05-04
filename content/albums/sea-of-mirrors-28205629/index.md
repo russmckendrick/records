@@ -6,6 +6,7 @@ album_name: "Sea Of Mirrors"
 date: 2023-09-08T11:06:58.000000Z
 release_date: "2023-09-08"
 release_id: "28205629"
+apple_music_url: "https://music.apple.com/gb/album/sea-of-mirrors/1688574870"
 slug: "sea-of-mirrors-28205629"
 hideSummary: true
 cover:

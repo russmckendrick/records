@@ -6,6 +6,7 @@ album_name: "One EP"
 date: 2018-04-26T17:57:35.000000Z
 release_date: "2024-03-27"
 release_id: "11285610"
+apple_music_url: "https://music.apple.com/gb/album/one-ep/1770153812"
 slug: "one-ep-11285610"
 hideSummary: true
 cover:

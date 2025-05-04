@@ -6,6 +6,7 @@ album_name: "Happy Ending"
 date: 2024-09-07T06:19:13.000000Z
 release_date: "2023-02-03"
 release_id: "24415202"
+apple_music_url: "https://music.apple.com/gb/album/happy-ending/1660268623"
 slug: "happy-ending-24415202"
 hideSummary: true
 cover:

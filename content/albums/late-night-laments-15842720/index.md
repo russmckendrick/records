@@ -6,6 +6,7 @@ album_name: "Late Night Laments"
 date: 2020-08-31T10:13:03.000000Z
 release_date: "2020-08-28"
 release_id: "15842720"
+apple_music_url: "https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424"
 slug: "late-night-laments-15842720"
 hideSummary: true
 cover:

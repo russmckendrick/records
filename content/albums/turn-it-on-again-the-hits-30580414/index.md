@@ -6,6 +6,7 @@ album_name: "Turn It On Again - The Hits"
 date: 2024-05-04T01:39:52.000000Z
 release_date: "1999-10-25"
 release_id: "30580414"
+apple_music_url: "https://music.apple.com/gb/album/turn-it-on-again-the-hits/309736109"
 slug: "turn-it-on-again-the-hits-30580414"
 hideSummary: true
 cover:

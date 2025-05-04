@@ -6,6 +6,7 @@ album_name: "High Voltage"
 date: 2024-03-16T02:33:30.000000Z
 release_date: "1976-04-30"
 release_id: "30105596"
+apple_music_url: "https://music.apple.com/gb/album/high-voltage/574124734"
 slug: "high-voltage-30105596"
 hideSummary: true
 cover:

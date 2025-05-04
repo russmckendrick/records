@@ -6,6 +6,7 @@ album_name: "Who Made Who"
 date: 2024-03-15T06:44:08.000000Z
 release_date: "1986-05-24"
 release_id: "30095942"
+apple_music_url: "https://music.apple.com/gb/album/who-made-who/575988907"
 slug: "who-made-who-30095942"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Aquostic Stripped Bare"
 date: 2021-06-04T08:47:27.000000Z
 release_date: "2014-10-17"
 release_id: "6239618"
+apple_music_url: "https://music.apple.com/gb/album/aquostic-stripped-bare/913227382"
 slug: "aquostic-stripped-bare-6239618"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Loveless"
 date: 2021-05-21T05:28:44.000000Z
 release_date: "2020-05-01"
 release_id: "18793696"
+apple_music_url: "https://music.apple.com/gb/album/bloody-valentine-single/1509541650"
 slug: "loveless-18793696"
 hideSummary: true
 cover:

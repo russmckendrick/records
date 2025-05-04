@@ -6,6 +6,7 @@ album_name: "All Nerve"
 date: 2018-03-07T19:21:50.000000Z
 release_date: "2018-03-02"
 release_id: "11629630"
+apple_music_url: "https://music.apple.com/gb/album/all-nerve/1319598646"
 slug: "all-nerve-11629630"
 hideSummary: true
 cover:

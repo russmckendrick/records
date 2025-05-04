@@ -6,6 +6,7 @@ album_name: "The Race For Space"
 date: 2015-08-09T08:48:10.000000Z
 release_date: "2015-02-23"
 release_id: "6678659"
+apple_music_url: "https://music.apple.com/gb/album/the-race-for-space/947928979"
 slug: "the-race-for-space-6678659"
 hideSummary: true
 cover:

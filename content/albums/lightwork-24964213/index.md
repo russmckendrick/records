@@ -6,6 +6,7 @@ album_name: "Lightwork"
 date: 2022-11-02T04:54:02.000000Z
 release_date: "2022-11-04"
 release_id: "24964213"
+apple_music_url: "https://music.apple.com/gb/album/lightwork/1638165304"
 slug: "lightwork-24964213"
 hideSummary: true
 cover:

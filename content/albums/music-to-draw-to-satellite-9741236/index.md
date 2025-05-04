@@ -6,6 +6,7 @@ album_name: "Music To Draw To: Satellite"
 date: 2017-04-22T10:05:55.000000Z
 release_date: "2017-01-20"
 release_id: "9741236"
+apple_music_url: "https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755"
 slug: "music-to-draw-to-satellite-9741236"
 hideSummary: true
 cover:

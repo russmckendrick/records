@@ -6,6 +6,7 @@ album_name: "Slave Ambient"
 date: 2015-12-28T14:58:23.000000Z
 release_date: "2011-08-16"
 release_id: "3052756"
+apple_music_url: "https://music.apple.com/gb/album/slave-ambient/452135966"
 slug: "slave-ambient-3052756"
 hideSummary: true
 cover:

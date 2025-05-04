@@ -6,6 +6,7 @@ album_name: "Disappointment Island"
 date: 2016-08-30T16:04:51.000000Z
 release_date: ""
 release_id: "8745073"
+apple_music_url: ""
 slug: "disappointment-island-8745073"
 hideSummary: true
 cover:

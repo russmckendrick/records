@@ -6,6 +6,7 @@ album_name: "Forever Howlong"
 date: 2025-04-04T04:33:25.000000Z
 release_date: "2025-04-04"
 release_id: "33594933"
+apple_music_url: "https://music.apple.com/gb/album/forever-howlong/1783713554"
 slug: "forever-howlong-33594933"
 hideSummary: true
 cover:

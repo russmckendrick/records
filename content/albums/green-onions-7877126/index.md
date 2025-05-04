@@ -6,6 +6,7 @@ album_name: "Green Onions"
 date: 2017-05-12T18:25:56.000000Z
 release_date: "1970-10"
 release_id: "7877126"
+apple_music_url: "https://music.apple.com/gb/album/booker-t-the-mgs-green-onions/560188894"
 slug: "green-onions-7877126"
 hideSummary: true
 cover:

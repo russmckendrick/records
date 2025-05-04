@@ -6,6 +6,7 @@ album_name: "Good Fortune"
 date: 2020-08-01T12:46:45.000000Z
 release_date: "2005-02-22"
 release_id: "1595178"
+apple_music_url: "https://music.apple.com/gb/album/good-fortune/416266336"
 slug: "good-fortune-1595178"
 hideSummary: true
 cover:

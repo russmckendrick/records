@@ -6,6 +6,7 @@ album_name: "Blue Train "
 date: 2017-05-12T18:25:29.000000Z
 release_date: "1962"
 release_id: "8635682"
+apple_music_url: "https://music.apple.com/gb/album/coltrane-deluxe-edition/1452788887"
 slug: "blue-train-8635682"
 hideSummary: true
 cover:

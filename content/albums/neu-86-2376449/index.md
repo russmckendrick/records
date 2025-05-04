@@ -6,6 +6,7 @@ album_name: "Neu! '86"
 date: 2021-06-08T04:53:12.000000Z
 release_date: ""
 release_id: "2376449"
+apple_music_url: ""
 slug: "neu-86-2376449"
 hideSummary: true
 cover:

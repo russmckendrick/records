@@ -6,6 +6,7 @@ album_name: "Dead Cities"
 date: 2021-04-16T05:44:54.000000Z
 release_date: "2019-02-15"
 release_id: "18313399"
+apple_music_url: "https://music.apple.com/gb/album/the-sound-of-silence-single/1451880646"
 slug: "dead-cities-18313399"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dronne"
 date: 2016-11-09T20:10:41.000000Z
 release_date: "2016-09-09"
 release_id: "9116811"
+apple_music_url: "https://music.apple.com/gb/album/dronne/1135427432"
 slug: "dronne-9116811"
 hideSummary: true
 cover:

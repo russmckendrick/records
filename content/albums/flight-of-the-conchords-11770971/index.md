@@ -6,6 +6,7 @@ album_name: "Flight Of The Conchords"
 date: 2018-03-31T10:51:31.000000Z
 release_date: "2008-04-21"
 release_id: "11770971"
+apple_music_url: "https://music.apple.com/gb/album/flight-of-the-conchords/278064216"
 slug: "flight-of-the-conchords-11770971"
 hideSummary: true
 cover:

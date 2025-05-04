@@ -6,6 +6,7 @@ album_name: "4.000 Weeks' Holiday"
 date: 
 release_date: ""
 release_id: "8396748"
+apple_music_url: ""
 slug: "4-000-weeks-holiday-8396748"
 hideSummary: true
 cover:

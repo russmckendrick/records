@@ -6,6 +6,7 @@ album_name: "A Poet's Life"
 date: 2018-04-21T11:17:10.000000Z
 release_date: "2007-05-22"
 release_id: "11895222"
+apple_music_url: "https://music.apple.com/gb/album/a-poets-life/1485055404"
 slug: "a-poet-s-life-11895222"
 hideSummary: true
 cover:

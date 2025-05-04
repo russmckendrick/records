@@ -6,6 +6,7 @@ album_name: "Emergency On Planet Earth"
 date: 2022-10-14T05:16:00.000000Z
 release_date: "1993-06-14"
 release_id: "24817685"
+apple_music_url: "https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407"
 slug: "emergency-on-planet-earth-24817685"
 hideSummary: true
 cover:

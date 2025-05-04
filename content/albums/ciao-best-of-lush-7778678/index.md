@@ -6,6 +6,7 @@ album_name: "Ciao! Best Of Lush"
 date: 2016-09-14T16:59:58.000000Z
 release_date: "2001-03-19"
 release_id: "7778678"
+apple_music_url: "https://music.apple.com/gb/album/ciao-best-of-lush/310996586"
 slug: "ciao-best-of-lush-7778678"
 hideSummary: true
 cover:

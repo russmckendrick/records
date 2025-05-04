@@ -6,6 +6,7 @@ album_name: "Street Fighting Years"
 date: 2016-04-25T21:08:38.000000Z
 release_date: "1989-05-08"
 release_id: "499455"
+apple_music_url: "https://music.apple.com/gb/album/street-fighting-years-super-deluxe/1494164697"
 slug: "street-fighting-years-499455"
 hideSummary: true
 cover:

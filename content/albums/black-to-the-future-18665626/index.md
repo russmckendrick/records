@@ -6,6 +6,7 @@ album_name: "Black To The Future"
 date: 2021-12-15T10:53:41.000000Z
 release_date: "2021-05-14"
 release_id: "18665626"
+apple_music_url: "https://music.apple.com/gb/album/black-to-the-future/1558301183"
 slug: "black-to-the-future-18665626"
 hideSummary: true
 cover:

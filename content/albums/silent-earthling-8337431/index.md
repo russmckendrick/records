@@ -6,6 +6,7 @@ album_name: "Silent Earthling"
 date: 2016-04-03T08:28:24.000000Z
 release_date: "2016-04-01"
 release_id: "8337431"
+apple_music_url: "https://music.apple.com/gb/album/silent-earthling/1078005851"
 slug: "silent-earthling-8337431"
 hideSummary: true
 cover:

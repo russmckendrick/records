@@ -6,6 +6,7 @@ album_name: "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)"
 date: 2016-06-22T16:33:20.000000Z
 release_date: "2015-12-18"
 release_id: "8657358"
+apple_music_url: "https://music.apple.com/gb/album/star-wars-the-force-awakens-original-motion-picture/1440634745"
 slug: "star-wars-the-force-awakens-original-motion-picture-soundtrack-8657358"
 hideSummary: true
 cover:

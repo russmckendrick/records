@@ -6,6 +6,7 @@ album_name: "Afterglow"
 date: 2016-11-08T19:07:33.000000Z
 release_date: "2000-01-01"
 release_id: "9322428"
+apple_music_url: "https://music.apple.com/gb/album/afterglow/724777714"
 slug: "afterglow-9322428"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Radio City"
 date: 2020-03-07T10:41:44.000000Z
 release_date: "1974"
 release_id: "14696673"
+apple_music_url: "https://music.apple.com/gb/album/radio-city/1442997142"
 slug: "radio-city-14696673"
 hideSummary: true
 cover:

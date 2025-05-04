@@ -6,6 +6,7 @@ album_name: "Rearviewmirror (Greatest Hits 1991-2003: Volume 2)"
 date: 2022-03-19T05:54:40.000000Z
 release_date: "2004-11-16"
 release_id: "22421110"
+apple_music_url: "https://music.apple.com/gb/album/rearviewmirror-greatest-hits-1991-2003/158049800"
 slug: "rearviewmirror-greatest-hits-1991-2003-volume-2-22421110"
 hideSummary: true
 cover:

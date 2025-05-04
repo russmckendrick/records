@@ -6,6 +6,7 @@ album_name: "High Water II"
 date: 2019-11-16T20:16:26.000000Z
 release_date: "2019-10-18"
 release_id: "14282352"
+apple_music_url: "https://music.apple.com/gb/album/high-water-ii/1600466040"
 slug: "high-water-ii-14282352"
 hideSummary: true
 cover:

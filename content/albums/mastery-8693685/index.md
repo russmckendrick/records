@@ -6,6 +6,7 @@ album_name: "Mastery"
 date: 2016-06-27T17:47:06.000000Z
 release_date: ""
 release_id: "8693685"
+apple_music_url: ""
 slug: "mastery-8693685"
 hideSummary: true
 cover:

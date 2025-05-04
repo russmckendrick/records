@@ -6,6 +6,7 @@ album_name: "3D • EP"
 date: 2023-11-24T10:24:24.000000Z
 release_date: "2023-09-17"
 release_id: "28997110"
+apple_music_url: ""
 slug: "3d-ep-28997110"
 hideSummary: true
 cover:

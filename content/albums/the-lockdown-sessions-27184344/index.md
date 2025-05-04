@@ -6,6 +6,7 @@ album_name: "The Lockdown Sessions"
 date: 2023-06-06T10:13:35.000000Z
 release_date: "2022-12-09"
 release_id: "27184344"
+apple_music_url: "https://music.apple.com/gb/album/the-lockdown-sessions/1657010280"
 slug: "the-lockdown-sessions-27184344"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Evergreen"
 date: 2020-08-02T13:45:24.000000Z
 release_date: "2014-10-14"
 release_id: "3110291"
+apple_music_url: "https://music.apple.com/gb/album/aker-bilk-his-clarinet-love-serenade-re-recording/927476057"
 slug: "evergreen-3110291"
 hideSummary: true
 cover:

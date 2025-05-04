@@ -6,6 +6,7 @@ album_name: "Torpor"
 date: 2016-02-28T17:52:36.000000Z
 release_date: "2015-11-06"
 release_id: "7723184"
+apple_music_url: "https://music.apple.com/gb/album/torpor/1494198864"
 slug: "torpor-7723184"
 hideSummary: true
 cover:

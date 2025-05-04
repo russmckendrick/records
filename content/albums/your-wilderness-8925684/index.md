@@ -6,6 +6,7 @@ album_name: "Your Wilderness"
 date: 2016-08-19T17:00:35.000000Z
 release_date: "2016-08-12"
 release_id: "8925684"
+apple_music_url: "https://music.apple.com/gb/album/your-wilderness/1115706791"
 slug: "your-wilderness-8925684"
 hideSummary: true
 cover:

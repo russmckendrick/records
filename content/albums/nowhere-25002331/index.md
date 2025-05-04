@@ -6,6 +6,7 @@ album_name: "Nowhere"
 date: 2022-11-04T06:16:23.000000Z
 release_date: "2021-11-21"
 release_id: "25002331"
+apple_music_url: "https://music.apple.com/gb/album/ride-nowhere/1596797237"
 slug: "nowhere-25002331"
 hideSummary: true
 cover:

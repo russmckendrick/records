@@ -6,6 +6,7 @@ album_name: "Physical Graffiti"
 date: 2017-02-26T10:58:09.000000Z
 release_date: "1975-02-24"
 release_id: "6677028"
+apple_music_url: "https://music.apple.com/gb/album/physical-graffiti-remastered/580707980"
 slug: "physical-graffiti-6677028"
 hideSummary: true
 cover:

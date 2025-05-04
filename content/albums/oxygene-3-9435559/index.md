@@ -6,6 +6,7 @@ album_name: "Oxygene 3"
 date: 2016-12-02T12:53:58.000000Z
 release_date: "2016-12-02"
 release_id: "9435559"
+apple_music_url: "https://music.apple.com/gb/album/oxygene-3/1163143402"
 slug: "oxygene-3-9435559"
 hideSummary: true
 cover:

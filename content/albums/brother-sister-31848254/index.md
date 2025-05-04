@@ -6,6 +6,7 @@ album_name: "Brother Sister"
 date: 2024-10-03T10:59:47.000000Z
 release_date: "1990-01-01"
 release_id: "31848254"
+apple_music_url: "https://music.apple.com/gb/album/brother-sister/1320056852"
 slug: "brother-sister-31848254"
 hideSummary: true
 cover:

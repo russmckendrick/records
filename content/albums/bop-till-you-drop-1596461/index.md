@@ -6,6 +6,7 @@ album_name: "Bop Till You Drop"
 date: 2020-08-02T13:36:56.000000Z
 release_date: "1979-07-11"
 release_id: "1596461"
+apple_music_url: "https://music.apple.com/gb/album/bop-till-you-drop/336767770"
 slug: "bop-till-you-drop-1596461"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Nu-Clear Sounds"
 date: 2023-03-01T00:19:11.000000Z
 release_date: "1998-10"
 release_id: "26207951"
+apple_music_url: "https://music.apple.com/gb/album/nu-clear-sounds/1437334874"
 slug: "nu-clear-sounds-26207951"
 hideSummary: true
 cover:

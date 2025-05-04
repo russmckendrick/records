@@ -6,6 +6,7 @@ album_name: "Nixon"
 date: 2017-12-28T13:29:25.000000Z
 release_date: "2000"
 release_id: "5801395"
+apple_music_url: "https://music.apple.com/gb/album/nixon/1721056352"
 slug: "nixon-5801395"
 hideSummary: true
 cover:

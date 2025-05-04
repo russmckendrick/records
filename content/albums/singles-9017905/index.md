@@ -6,6 +6,7 @@ album_name: "Singles"
 date: 2016-09-12T16:36:08.000000Z
 release_date: "2024-02-19"
 release_id: "9017905"
+apple_music_url: "https://music.apple.com/gb/album/new-order/1731087834"
 slug: "singles-9017905"
 hideSummary: true
 cover:

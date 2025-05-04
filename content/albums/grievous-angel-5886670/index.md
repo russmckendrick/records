@@ -6,6 +6,7 @@ album_name: "Grievous Angel"
 date: 2015-08-10T18:28:52.000000Z
 release_date: "1974-01-01"
 release_id: "5886670"
+apple_music_url: "https://music.apple.com/gb/album/grievous-angel/304907551"
 slug: "grievous-angel-5886670"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Classic Rock Anthems II"
 date: 2017-12-13T17:47:48.000000Z
 release_date: ""
 release_id: "11162384"
+apple_music_url: ""
 slug: "classic-rock-anthems-ii-11162384"
 hideSummary: true
 cover:

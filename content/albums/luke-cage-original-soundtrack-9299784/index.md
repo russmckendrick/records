@@ -6,6 +6,7 @@ album_name: "Luke Cage - Original Soundtrack"
 date: 2016-11-10T18:26:31.000000Z
 release_date: "2016-10-07"
 release_id: "9299784"
+apple_music_url: "https://music.apple.com/gb/album/luke-cage-original-soundtrack-album/1440838810"
 slug: "luke-cage-original-soundtrack-9299784"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fearless Movement"
 date: 2024-05-03T04:07:30.000000Z
 release_date: "2024-05-03"
 release_id: "30564730"
+apple_music_url: "https://music.apple.com/gb/album/fearless-movement/1729582490"
 slug: "fearless-movement-30564730"
 hideSummary: true
 cover:

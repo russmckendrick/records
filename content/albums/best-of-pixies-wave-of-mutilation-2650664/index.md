@@ -6,6 +6,7 @@ album_name: "Best Of Pixies (Wave Of Mutilation)"
 date: 2016-11-21T12:13:43.000000Z
 release_date: "2022-03-09"
 release_id: "2650664"
+apple_music_url: "https://music.apple.com/gb/album/wave-of-mutilation-single/1606788796"
 slug: "best-of-pixies-wave-of-mutilation-2650664"
 hideSummary: true
 cover:

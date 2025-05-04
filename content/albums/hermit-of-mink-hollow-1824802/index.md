@@ -6,6 +6,7 @@ album_name: "Hermit Of Mink Hollow"
 date: 2022-03-06T04:58:05.000000Z
 release_date: "1978-04"
 release_id: "1824802"
+apple_music_url: "https://music.apple.com/gb/album/hermit-of-mink-hollow/1084058840"
 slug: "hermit-of-mink-hollow-1824802"
 hideSummary: true
 cover:

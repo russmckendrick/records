@@ -6,6 +6,7 @@ album_name: "...Calling All Stations..."
 date: 2024-09-07T06:12:41.000000Z
 release_date: "1997-09-01"
 release_id: "12753628"
+apple_music_url: "https://music.apple.com/gb/album/calling-all-stations-remastered/268027056"
 slug: "calling-all-stations-12753628"
 hideSummary: true
 cover:

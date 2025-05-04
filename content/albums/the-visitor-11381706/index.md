@@ -6,6 +6,7 @@ album_name: "The Visitor"
 date: 2018-03-10T08:53:39.000000Z
 release_date: "2017-12-01"
 release_id: "11381706"
+apple_music_url: "https://music.apple.com/gb/album/the-visitor/1299337620"
 slug: "the-visitor-11381706"
 hideSummary: true
 cover:

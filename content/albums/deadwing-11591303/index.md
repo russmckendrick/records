@@ -6,6 +6,7 @@ album_name: "Deadwing"
 date: 2018-02-23T18:57:11.000000Z
 release_date: "2005-03-28"
 release_id: "11591303"
+apple_music_url: "https://music.apple.com/gb/album/deadwing/1770060647"
 slug: "deadwing-11591303"
 hideSummary: true
 cover:

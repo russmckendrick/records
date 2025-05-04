@@ -6,6 +6,7 @@ album_name: "Get The Message The Best Of Electronic"
 date: 2023-09-29T06:40:05.000000Z
 release_date: "2006-09-18"
 release_id: "27115494"
+apple_music_url: "https://music.apple.com/gb/album/get-the-message-the-best-of-electronic/1699664144"
 slug: "get-the-message-the-best-of-electronic-27115494"
 hideSummary: true
 cover:

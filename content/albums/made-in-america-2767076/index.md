@@ -6,6 +6,7 @@ album_name: "Made In America"
 date: 2015-12-09T10:18:46.000000Z
 release_date: "1980-12-01"
 release_id: "2767076"
+apple_music_url: "https://music.apple.com/gb/album/made-in-america/797529975"
 slug: "made-in-america-2767076"
 hideSummary: true
 cover:

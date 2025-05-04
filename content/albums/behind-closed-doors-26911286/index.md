@@ -6,6 +6,7 @@ album_name: "Behind Closed Doors"
 date: 2023-04-29T11:43:49.000000Z
 release_date: "1995-01-23"
 release_id: "26911286"
+apple_music_url: "https://music.apple.com/gb/album/behind-closed-doors/696411631"
 slug: "behind-closed-doors-26911286"
 hideSummary: true
 cover:

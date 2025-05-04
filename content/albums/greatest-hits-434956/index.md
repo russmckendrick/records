@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2015-09-11T18:02:24.000000Z
 release_date: "1985-01-01"
 release_id: "434956"
+apple_music_url: "https://music.apple.com/gb/album/a-decade-of-steely-dan-remastered/1440724756"
 slug: "greatest-hits-434956"
 hideSummary: true
 cover:

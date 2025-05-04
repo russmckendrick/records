@@ -6,6 +6,7 @@ album_name: "Alpha Test 4"
 date: 2024-02-09T08:45:24.000000Z
 release_date: "2023-07-21"
 release_id: "26842730"
+apple_music_url: "https://music.apple.com/gb/album/alpha-test-4/1668860444"
 slug: "alpha-test-4-26842730"
 hideSummary: true
 cover:

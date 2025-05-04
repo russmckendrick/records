@@ -6,6 +6,7 @@ album_name: "Hot Rocks 1964-1971"
 date: 2022-01-06T04:40:03.000000Z
 release_date: "1971-12-20"
 release_id: "19121767"
+apple_music_url: "https://music.apple.com/gb/album/hot-rocks-1964-1971/1440764786"
 slug: "hot-rocks-1964-1971-19121767"
 hideSummary: true
 cover:

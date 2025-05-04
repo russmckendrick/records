@@ -6,6 +6,7 @@ album_name: "Rather Ripped"
 date: 2021-06-10T06:46:35.000000Z
 release_date: "2006-06-13"
 release_id: "8784914"
+apple_music_url: "https://music.apple.com/gb/album/rather-ripped/1443129175"
 slug: "rather-ripped-8784914"
 hideSummary: true
 cover:

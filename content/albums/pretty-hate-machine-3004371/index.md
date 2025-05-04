@@ -6,6 +6,7 @@ album_name: "Pretty Hate Machine"
 date: 2016-06-20T17:49:10.000000Z
 release_date: "2005-04-19"
 release_id: "3004371"
+apple_music_url: "https://music.apple.com/gb/album/vsq-performs-nine-inch-nails-pretty-hate-machine/990375204"
 slug: "pretty-hate-machine-3004371"
 hideSummary: true
 cover:

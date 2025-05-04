@@ -6,6 +6,7 @@ album_name: "Galactic Quarantine"
 date: 2021-08-09T06:27:31.000000Z
 release_date: "2021-06-25"
 release_id: "19283533"
+apple_music_url: "https://music.apple.com/gb/album/devolution-series-2-galactic-quarantine-live/1564004758"
 slug: "galactic-quarantine-19283533"
 hideSummary: true
 cover:

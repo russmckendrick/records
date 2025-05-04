@@ -6,6 +6,7 @@ album_name: "A Very British Synthesizer Group"
 date: 2017-02-11T14:52:27.000000Z
 release_date: "2016-11-18"
 release_id: "9408456"
+apple_music_url: "https://music.apple.com/gb/album/anthology-a-very-british-synthesizer-group-deluxe-edition/1443148659"
 slug: "a-very-british-synthesizer-group-9408456"
 hideSummary: true
 cover:

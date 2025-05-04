@@ -6,6 +6,7 @@ album_name: "The Stone Roses"
 date: 2021-07-27T04:40:22.000000Z
 release_date: "1992-07-20"
 release_id: "19606036"
+apple_music_url: "https://music.apple.com/gb/album/the-stone-roses-turns-into-stone/553210422"
 slug: "the-stone-roses-19606036"
 hideSummary: true
 cover:

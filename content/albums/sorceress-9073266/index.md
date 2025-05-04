@@ -6,6 +6,7 @@ album_name: "Sorceress"
 date: 2016-10-03T14:27:31.000000Z
 release_date: "2016-09-30"
 release_id: "9073266"
+apple_music_url: "https://music.apple.com/gb/album/sorceress/1776757811"
 slug: "sorceress-9073266"
 hideSummary: true
 cover:

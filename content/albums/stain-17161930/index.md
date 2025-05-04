@@ -6,6 +6,7 @@ album_name: "Stain"
 date: 2021-01-29T06:50:11.000000Z
 release_date: "1993-02-10"
 release_id: "17161930"
+apple_music_url: "https://music.apple.com/gb/album/stain/158628416"
 slug: "stain-17161930"
 hideSummary: true
 cover:

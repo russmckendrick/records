@@ -6,6 +6,7 @@ album_name: "Kid A"
 date: 2015-08-09T08:45:07.000000Z
 release_date: "2000-10-02"
 release_id: "65034"
+apple_music_url: "https://music.apple.com/gb/album/kid-a/1097862870"
 slug: "kid-a-65034"
 hideSummary: true
 cover:

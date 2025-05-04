@@ -6,6 +6,7 @@ album_name: "Script For A Jester's Tear"
 date: 2020-05-31T13:46:22.000000Z
 release_date: "1983"
 release_id: "14981330"
+apple_music_url: "https://music.apple.com/gb/album/script-for-a-jesters-tear/693400357"
 slug: "script-for-a-jester-s-tear-14981330"
 hideSummary: true
 cover:

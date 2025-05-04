@@ -6,6 +6,7 @@ album_name: "Sex With An X"
 date: 2020-08-01T12:42:00.000000Z
 release_date: "2010-09-14"
 release_id: "2449561"
+apple_music_url: "https://music.apple.com/gb/album/sex-with-an-x/387736753"
 slug: "sex-with-an-x-2449561"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Night The Zombies Came"
 date: 2024-10-29T05:02:11.000000Z
 release_date: "2024-10-25"
 release_id: "32100201"
+apple_music_url: "https://music.apple.com/gb/album/the-night-the-zombies-came/1752673463"
 slug: "the-night-the-zombies-came-32100201"
 hideSummary: true
 cover:

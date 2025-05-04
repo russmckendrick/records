@@ -6,6 +6,7 @@ album_name: "Chronology"
 date: 2018-08-31T19:27:00.000000Z
 release_date: "1993"
 release_id: "11865300"
+apple_music_url: "https://music.apple.com/gb/album/chronology/1027734461"
 slug: "chronology-11865300"
 hideSummary: true
 cover:

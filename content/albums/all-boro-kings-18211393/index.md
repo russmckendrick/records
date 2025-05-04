@@ -6,6 +6,7 @@ album_name: "All Boro Kings"
 date: 2021-06-29T02:28:44.000000Z
 release_date: "2019-10-25"
 release_id: "18211393"
+apple_music_url: "https://music.apple.com/gb/album/all-boro-kings-live/1674416638"
 slug: "all-boro-kings-18211393"
 hideSummary: true
 cover:

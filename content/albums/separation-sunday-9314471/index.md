@@ -6,6 +6,7 @@ album_name: "Separation Sunday"
 date: 2017-04-17T13:21:46.000000Z
 release_date: "2005-05-03"
 release_id: "9314471"
+apple_music_url: "https://music.apple.com/gb/album/separation-sunday/58623804"
 slug: "separation-sunday-9314471"
 hideSummary: true
 cover:

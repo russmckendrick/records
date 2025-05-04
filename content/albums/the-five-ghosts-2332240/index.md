@@ -6,6 +6,7 @@ album_name: "The Five Ghosts"
 date: 2017-06-27T18:04:56.000000Z
 release_date: "2010-06-06"
 release_id: "2332240"
+apple_music_url: "https://music.apple.com/gb/album/the-five-ghosts/1293360624"
 slug: "the-five-ghosts-2332240"
 hideSummary: true
 cover:

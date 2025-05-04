@@ -6,6 +6,7 @@ album_name: "Stranger Things (Music From The Netflix Original Series)"
 date: 2018-05-15T11:37:32.000000Z
 release_date: ""
 release_id: "11273965"
+apple_music_url: ""
 slug: "stranger-things-music-from-the-netflix-original-series-11273965"
 hideSummary: true
 cover:

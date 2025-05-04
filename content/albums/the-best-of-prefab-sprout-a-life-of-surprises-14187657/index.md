@@ -6,6 +6,7 @@ album_name: "The Best Of Prefab Sprout: A Life Of Surprises"
 date: 2019-09-27T15:39:46.000000Z
 release_date: "1992-06-01"
 release_id: "14187657"
+apple_music_url: "https://music.apple.com/gb/album/a-life-of-surprises-the-best-of-prefab-sprout-remastered/1476850752"
 slug: "the-best-of-prefab-sprout-a-life-of-surprises-14187657"
 hideSummary: true
 cover:

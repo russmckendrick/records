@@ -6,6 +6,7 @@ album_name: "Life After Death"
 date: 2017-04-22T10:04:55.000000Z
 release_date: "2007-03-06"
 release_id: "10112994"
+apple_music_url: "https://music.apple.com/gb/album/the-notorious-b-i-g-greatest-hits/216664955"
 slug: "life-after-death-10112994"
 hideSummary: true
 cover:

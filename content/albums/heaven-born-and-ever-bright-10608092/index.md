@@ -6,6 +6,7 @@ album_name: "Heaven Born And Ever Bright"
 date: 2018-08-14T18:11:12.000000Z
 release_date: "1991-09-24"
 release_id: "10608092"
+apple_music_url: "https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477"
 slug: "heaven-born-and-ever-bright-10608092"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Confessions Of A Romance Novelist"
 date: 2016-10-20T19:31:08.000000Z
 release_date: "2016-01-15"
 release_id: "9221307"
+apple_music_url: "https://music.apple.com/gb/album/confessions-of-a-romance-novelist/1048632716"
 slug: "confessions-of-a-romance-novelist-9221307"
 hideSummary: true
 cover:

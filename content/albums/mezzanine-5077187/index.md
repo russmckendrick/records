@@ -6,6 +6,7 @@ album_name: "Mezzanine"
 date: 2016-12-01T17:33:32.000000Z
 release_date: "2010-01-01"
 release_id: "5077187"
+apple_music_url: "https://music.apple.com/gb/album/massive-attack-feat-sean-garrett-single/1445154283"
 slug: "mezzanine-5077187"
 hideSummary: true
 cover:

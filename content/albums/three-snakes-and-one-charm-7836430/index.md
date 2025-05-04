@@ -6,6 +6,7 @@ album_name: "Three Snakes And One Charm"
 date: 2016-01-04T18:01:08.000000Z
 release_date: "1996-01-01"
 release_id: "7836430"
+apple_music_url: "https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640"
 slug: "three-snakes-and-one-charm-7836430"
 hideSummary: true
 cover:

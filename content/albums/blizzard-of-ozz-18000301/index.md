@@ -6,6 +6,7 @@ album_name: "Blizzard Of Ozz"
 date: 2021-03-27T09:19:14.000000Z
 release_date: "2003-02-11"
 release_id: "18000301"
+apple_music_url: "https://music.apple.com/gb/album/the-essential-ozzy-osbourne/1490649767"
 slug: "blizzard-of-ozz-18000301"
 hideSummary: true
 cover:

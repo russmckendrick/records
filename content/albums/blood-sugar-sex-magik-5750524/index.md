@@ -6,6 +6,7 @@ album_name: "Blood Sugar Sex Magik"
 date: 2016-05-18T16:48:23.000000Z
 release_date: "1991-09-24"
 release_id: "5750524"
+apple_music_url: "https://music.apple.com/gb/album/blood-sugar-sex-magik/945581828"
 slug: "blood-sugar-sex-magik-5750524"
 hideSummary: true
 cover:

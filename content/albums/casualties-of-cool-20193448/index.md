@@ -6,6 +6,7 @@ album_name: "Casualties Of Cool"
 date: 2021-09-12T03:53:23.000000Z
 release_date: "2014-05-16"
 release_id: "20193448"
+apple_music_url: "https://music.apple.com/gb/album/casualties-of-cool/865373053"
 slug: "casualties-of-cool-20193448"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Tubular Bells II"
 date: 2021-12-18T05:22:16.000000Z
 release_date: "1992"
 release_id: "6795868"
+apple_music_url: "https://music.apple.com/gb/album/tubular-bells-ii/358349175"
 slug: "tubular-bells-ii-6795868"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Spawn (The Album)"
 date: 2024-11-30T06:51:42.000000Z
 release_date: ""
 release_id: "30359798"
+apple_music_url: ""
 slug: "spawn-the-album-30359798"
 hideSummary: true
 cover:

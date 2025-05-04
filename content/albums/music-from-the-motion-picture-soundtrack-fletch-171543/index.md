@@ -6,6 +6,7 @@ album_name: "Music From The Motion Picture Soundtrack Fletch"
 date: 2020-08-02T13:28:48.000000Z
 release_date: ""
 release_id: "171543"
+apple_music_url: ""
 slug: "music-from-the-motion-picture-soundtrack-fletch-171543"
 hideSummary: true
 cover:

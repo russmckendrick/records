@@ -6,6 +6,7 @@ album_name: "Diamond Life"
 date: 2025-02-05T01:19:10.000000Z
 release_date: "1984-07-16"
 release_id: "3783783"
+apple_music_url: "https://music.apple.com/gb/album/diamond-life/1524651063"
 slug: "diamond-life-3783783"
 hideSummary: true
 cover:

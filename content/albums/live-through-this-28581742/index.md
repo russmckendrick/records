@@ -6,6 +6,7 @@ album_name: "Live Through This"
 date: 2023-10-17T11:31:12.000000Z
 release_date: "1994-04-12"
 release_id: "28581742"
+apple_music_url: "https://music.apple.com/gb/album/live-through-this/1445732603"
 slug: "live-through-this-28581742"
 hideSummary: true
 cover:

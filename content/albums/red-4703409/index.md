@@ -6,6 +6,7 @@ album_name: "Red"
 date: 2017-02-05T12:29:04.000000Z
 release_date: "1969-10-10"
 release_id: "4703409"
+apple_music_url: "https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711"
 slug: "red-4703409"
 hideSummary: true
 cover:

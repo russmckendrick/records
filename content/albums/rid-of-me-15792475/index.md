@@ -6,6 +6,7 @@ album_name: "Rid Of Me"
 date: 2020-08-25T13:30:46.000000Z
 release_date: "1993-05-04"
 release_id: "15792475"
+apple_music_url: "https://music.apple.com/gb/album/rid-of-me/1440923277"
 slug: "rid-of-me-15792475"
 hideSummary: true
 cover:

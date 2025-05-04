@@ -6,6 +6,7 @@ album_name: "Heroes To Zeros"
 date: 2018-12-17T14:41:56.000000Z
 release_date: "2004-05-04"
 release_id: "12928115"
+apple_music_url: "https://music.apple.com/gb/album/heroes-to-zeros/1339220142"
 slug: "heroes-to-zeros-12928115"
 hideSummary: true
 cover:

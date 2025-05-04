@@ -6,6 +6,7 @@ album_name: "The Darkest Skies Are The Brightest"
 date: 2021-02-28T09:13:47.000000Z
 release_date: "2021-02-26"
 release_id: "17369557"
+apple_music_url: "https://music.apple.com/gb/album/the-darkest-skies-are-the-brightest/1541054468"
 slug: "the-darkest-skies-are-the-brightest-17369557"
 hideSummary: true
 cover:

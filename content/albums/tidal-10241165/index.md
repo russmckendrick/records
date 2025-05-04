@@ -6,6 +6,7 @@ album_name: "Tidal"
 date: 2017-05-16T18:15:12.000000Z
 release_date: "1996-07-23"
 release_id: "10241165"
+apple_music_url: "https://music.apple.com/gb/album/tidal/309677190"
 slug: "tidal-10241165"
 hideSummary: true
 cover:

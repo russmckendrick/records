@@ -6,6 +6,7 @@ album_name: "Altitude "
 date: 2022-06-06T01:25:47.000000Z
 release_date: "2022-05-06"
 release_id: "23202755"
+apple_music_url: "https://music.apple.com/gb/album/altitude/1613772562"
 slug: "altitude-23202755"
 hideSummary: true
 cover:

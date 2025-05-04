@@ -6,6 +6,7 @@ album_name: "Hypocrisy Is The Greatest Luxury"
 date: 2018-08-17T16:35:01.000000Z
 release_date: "1992-01-01"
 release_id: "529747"
+apple_music_url: "https://music.apple.com/gb/album/hypocrisy-is-the-greatest-luxury/1442921405"
 slug: "hypocrisy-is-the-greatest-luxury-529747"
 hideSummary: true
 cover:

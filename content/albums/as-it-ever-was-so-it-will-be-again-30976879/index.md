@@ -6,6 +6,7 @@ album_name: "As It Ever Was, So It Will Be Again"
 date: 2024-06-16T07:25:21.000000Z
 release_date: "2024-06-14"
 release_id: "30976879"
+apple_music_url: "https://music.apple.com/gb/album/as-it-ever-was-so-it-will-be-again/1733117575"
 slug: "as-it-ever-was-so-it-will-be-again-30976879"
 hideSummary: true
 cover:

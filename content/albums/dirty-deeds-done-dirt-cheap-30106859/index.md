@@ -6,6 +6,7 @@ album_name: "Dirty Deeds Done Dirt Cheap"
 date: 2024-03-16T02:33:04.000000Z
 release_date: "1976-09-20"
 release_id: "30106859"
+apple_music_url: "https://music.apple.com/gb/album/dirty-deeds-done-dirt-cheap/575306275"
 slug: "dirty-deeds-done-dirt-cheap-30106859"
 hideSummary: true
 cover:

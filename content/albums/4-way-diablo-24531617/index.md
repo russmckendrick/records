@@ -6,6 +6,7 @@ album_name: "4-Way Diablo"
 date: 2022-09-24T04:01:55.000000Z
 release_date: "2007-11-06"
 release_id: "24531617"
+apple_music_url: "https://music.apple.com/gb/album/4-way-diablo/1635598921"
 slug: "4-way-diablo-24531617"
 hideSummary: true
 cover:

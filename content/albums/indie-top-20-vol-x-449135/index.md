@@ -6,6 +6,7 @@ album_name: "Indie Top 20 Vol X"
 date: 2016-03-24T19:08:12.000000Z
 release_date: ""
 release_id: "449135"
+apple_music_url: ""
 slug: "indie-top-20-vol-x-449135"
 hideSummary: true
 cover:

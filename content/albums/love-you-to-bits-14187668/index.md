@@ -6,6 +6,7 @@ album_name: "Love You To Bits"
 date: 2019-11-23T07:45:00.000000Z
 release_date: "2019-11-22"
 release_id: "14187668"
+apple_music_url: "https://music.apple.com/gb/album/love-you-to-bits/1489308225"
 slug: "love-you-to-bits-14187668"
 hideSummary: true
 cover:

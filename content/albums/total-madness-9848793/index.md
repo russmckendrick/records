@@ -6,6 +6,7 @@ album_name: "Total Madness"
 date: 2017-02-22T18:01:50.000000Z
 release_date: "2009-09-21"
 release_id: "9848793"
+apple_music_url: "https://music.apple.com/gb/album/total-madness/1780335516"
 slug: "total-madness-9848793"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Blue Hearts"
 date: 2020-09-29T12:05:27.000000Z
 release_date: "2020-09-25"
 release_id: "15934028"
+apple_music_url: "https://music.apple.com/gb/album/blue-hearts/1512263916"
 slug: "blue-hearts-15934028"
 hideSummary: true
 cover:

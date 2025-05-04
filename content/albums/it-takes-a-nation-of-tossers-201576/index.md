@@ -6,6 +6,7 @@ album_name: "It Takes A Nation Of Tossers"
 date: 2023-10-19T11:04:14.000000Z
 release_date: "2003-10-06"
 release_id: "201576"
+apple_music_url: "https://music.apple.com/gb/album/it-takes-a-nation-of-tossers/102881480"
 slug: "it-takes-a-nation-of-tossers-201576"
 hideSummary: true
 cover:

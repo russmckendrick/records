@@ -6,6 +6,7 @@ album_name: "Give Out But Don't Give Up (The Original Memphis Recordings)"
 date: 2023-04-26T04:26:11.000000Z
 release_date: "2018-10-12"
 release_id: "20166970"
+apple_music_url: "https://music.apple.com/gb/album/give-out-but-dont-give-up-the-original-memphis-recordings/1435164739"
 slug: "give-out-but-don-t-give-up-the-original-memphis-recordings-20166970"
 hideSummary: true
 cover:

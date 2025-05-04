@@ -6,6 +6,7 @@ album_name: "USA"
 date: 2015-09-15T08:04:54.000000Z
 release_date: "1969-10-10"
 release_id: "7465720"
+apple_music_url: "https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711"
 slug: "usa-7465720"
 hideSummary: true
 cover:

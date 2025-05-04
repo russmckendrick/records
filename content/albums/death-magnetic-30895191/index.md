@@ -6,6 +6,7 @@ album_name: "Death Magnetic"
 date: 2024-06-14T05:05:31.000000Z
 release_date: "2008-01-01"
 release_id: "30895191"
+apple_music_url: "https://music.apple.com/gb/album/death-magnetic/1440736279"
 slug: "death-magnetic-30895191"
 hideSummary: true
 cover:

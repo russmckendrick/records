@@ -6,6 +6,7 @@ album_name: "Confessin' The Blues"
 date: 2018-12-19T19:49:37.000000Z
 release_date: ""
 release_id: "12774929"
+apple_music_url: ""
 slug: "confessin-the-blues-12774929"
 hideSummary: true
 cover:

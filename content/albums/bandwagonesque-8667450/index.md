@@ -6,6 +6,7 @@ album_name: "Bandwagonesque"
 date: 2016-06-21T16:38:04.000000Z
 release_date: "1991-11-18"
 release_id: "8667450"
+apple_music_url: "https://music.apple.com/gb/album/bandwagonesque/1417071599"
 slug: "bandwagonesque-8667450"
 hideSummary: true
 cover:

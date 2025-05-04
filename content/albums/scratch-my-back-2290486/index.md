@@ -6,6 +6,7 @@ album_name: "Scratch My Back"
 date: 2016-12-08T18:45:55.000000Z
 release_date: "2010-02-15"
 release_id: "2290486"
+apple_music_url: "https://music.apple.com/gb/album/scratch-my-back/989290344"
 slug: "scratch-my-back-2290486"
 hideSummary: true
 cover:

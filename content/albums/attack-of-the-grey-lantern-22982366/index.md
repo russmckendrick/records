@@ -6,6 +6,7 @@ album_name: "Attack Of The Grey Lantern "
 date: 2022-04-24T04:23:08.000000Z
 release_date: "2017-08-25"
 release_id: "22982366"
+apple_music_url: "https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521"
 slug: "attack-of-the-grey-lantern-22982366"
 hideSummary: true
 cover:

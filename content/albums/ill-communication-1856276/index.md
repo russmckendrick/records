@@ -6,6 +6,7 @@ album_name: "Ill Communication"
 date: 2016-04-30T15:21:14.000000Z
 release_date: "1994-05-31"
 release_id: "1856276"
+apple_music_url: "https://music.apple.com/gb/album/ill-communication/724771323"
 slug: "ill-communication-1856276"
 hideSummary: true
 cover:

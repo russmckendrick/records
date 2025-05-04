@@ -6,6 +6,7 @@ album_name: "Virus"
 date: 2021-01-17T03:29:39.000000Z
 release_date: "2020-07-24"
 release_id: "15637222"
+apple_music_url: "https://music.apple.com/gb/album/virus/1503491157"
 slug: "virus-15637222"
 hideSummary: true
 cover:

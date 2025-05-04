@@ -6,6 +6,7 @@ album_name: "The Unraveling"
 date: 2020-01-31T18:59:12.000000Z
 release_date: "2020-01-31"
 release_id: "14721809"
+apple_music_url: "https://music.apple.com/gb/album/the-unraveling/1487667655"
 slug: "the-unraveling-14721809"
 hideSummary: true
 cover:

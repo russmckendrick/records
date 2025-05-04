@@ -6,6 +6,7 @@ album_name: "Ágætis Byrjun"
 date: 2016-11-18T18:42:26.000000Z
 release_date: "1999-06-12"
 release_id: "6589854"
+apple_music_url: "https://music.apple.com/gb/album/%C3%A1g%C3%A6tis-byrjun/1447442814"
 slug: "gtis-byrjun-6589854"
 hideSummary: true
 cover:

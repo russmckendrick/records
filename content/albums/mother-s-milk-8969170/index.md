@@ -6,6 +6,7 @@ album_name: "Mother's Milk"
 date: 2017-01-25T18:17:18.000000Z
 release_date: "1989-08-16"
 release_id: "8969170"
+apple_music_url: "https://music.apple.com/gb/album/mothers-milk/1440872972"
 slug: "mother-s-milk-8969170"
 hideSummary: true
 cover:

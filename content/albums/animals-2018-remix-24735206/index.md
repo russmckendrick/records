@@ -6,6 +6,7 @@ album_name: "Animals (2018 Remix)"
 date: 2022-10-07T06:54:53.000000Z
 release_date: "2022-09-16"
 release_id: "24735206"
+apple_music_url: "https://music.apple.com/gb/album/animals-2018-remix/1632196339"
 slug: "animals-2018-remix-24735206"
 hideSummary: true
 cover:

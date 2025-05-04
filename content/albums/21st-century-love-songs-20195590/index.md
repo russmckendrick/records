@@ -6,6 +6,7 @@ album_name: "21st Century Love Songs"
 date: 2022-04-26T05:54:38.000000Z
 release_date: "2021-09-03"
 release_id: "20195590"
+apple_music_url: "https://music.apple.com/gb/album/21st-century-love-songs/1571957841"
 slug: "21st-century-love-songs-20195590"
 hideSummary: true
 cover:

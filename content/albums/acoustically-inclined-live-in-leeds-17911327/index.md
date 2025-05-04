@@ -6,6 +6,7 @@ album_name: "Acoustically Inclined, Live In Leeds"
 date: 2021-03-19T07:20:43.000000Z
 release_date: "2021-03-19"
 release_id: "17911327"
+apple_music_url: "https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842"
 slug: "acoustically-inclined-live-in-leeds-17911327"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Swing The Statue!"
 date: 2019-01-19T10:34:14.000000Z
 release_date: ""
 release_id: "2079943"
+apple_music_url: ""
 slug: "swing-the-statue-2079943"
 hideSummary: true
 cover:

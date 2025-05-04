@@ -6,6 +6,7 @@ album_name: "Free World The Best Of 1979-2000"
 date: 2024-04-21T01:25:32.000000Z
 release_date: ""
 release_id: "29500981"
+apple_music_url: ""
 slug: "free-world-the-best-of-1979-2000-29500981"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Complete Studio Albums 1990-2000"
 date: 2016-01-23T14:26:49.000000Z
 release_date: ""
 release_id: "7864084"
+apple_music_url: ""
 slug: "the-complete-studio-albums-1990-2000-7864084"
 hideSummary: true
 cover:

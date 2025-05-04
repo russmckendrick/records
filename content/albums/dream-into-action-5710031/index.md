@@ -6,6 +6,7 @@ album_name: "Dream Into Action"
 date: 2018-11-29T12:45:46.000000Z
 release_date: "1985-03-11"
 release_id: "5710031"
+apple_music_url: "https://music.apple.com/gb/album/dream-into-action/1760579324"
 slug: "dream-into-action-5710031"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Front By Front"
 date: 2021-07-29T09:15:37.000000Z
 release_date: "1988-10-28"
 release_id: "4195775"
+apple_music_url: "https://music.apple.com/gb/album/front-by-front/139889038"
 slug: "front-by-front-4195775"
 hideSummary: true
 cover:

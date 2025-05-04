@@ -6,6 +6,7 @@ album_name: "Bad Animals"
 date: 2015-10-14T18:37:05.000000Z
 release_date: "1987-01-01"
 release_id: "1402220"
+apple_music_url: "https://music.apple.com/gb/album/bad-animals/724077331"
 slug: "bad-animals-1402220"
 hideSummary: true
 cover:

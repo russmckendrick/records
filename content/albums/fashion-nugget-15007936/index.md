@@ -6,6 +6,7 @@ album_name: "Fashion Nugget"
 date: 2020-06-24T11:54:38.000000Z
 release_date: "1996-09-16"
 release_id: "15007936"
+apple_music_url: "https://music.apple.com/gb/album/fashion-nugget/1632472281"
 slug: "fashion-nugget-15007936"
 hideSummary: true
 cover:

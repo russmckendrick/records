@@ -6,6 +6,7 @@ album_name: "I Learned The Hard Way"
 date: 2017-02-11T19:53:42.000000Z
 release_date: "2010-04-06"
 release_id: "2214427"
+apple_music_url: "https://music.apple.com/gb/album/i-learned-the-hard-way/1484995880"
 slug: "i-learned-the-hard-way-2214427"
 hideSummary: true
 cover:

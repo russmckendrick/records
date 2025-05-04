@@ -6,6 +6,7 @@ album_name: "A Better Dystopia"
 date: 2021-05-25T04:47:54.000000Z
 release_date: "2021-05-21"
 release_id: "18795121"
+apple_music_url: "https://music.apple.com/gb/album/a-better-dystopia/1556528562"
 slug: "a-better-dystopia-18795121"
 hideSummary: true
 cover:

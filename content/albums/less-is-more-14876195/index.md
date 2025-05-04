@@ -6,6 +6,7 @@ album_name: "Less Is More"
 date: 2021-07-20T08:57:01.000000Z
 release_date: "2009-10-02"
 release_id: "14876195"
+apple_music_url: "https://music.apple.com/gb/album/less-is-more/331174061"
 slug: "less-is-more-14876195"
 hideSummary: true
 cover:

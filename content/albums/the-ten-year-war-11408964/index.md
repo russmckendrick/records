@@ -6,6 +6,7 @@ album_name: "The Ten Year War"
 date: 2018-01-13T09:35:03.000000Z
 release_date: "2017-10-27"
 release_id: "11408964"
+apple_music_url: "https://music.apple.com/gb/album/the-ten-year-war-2009-remaster/1716253558"
 slug: "the-ten-year-war-11408964"
 hideSummary: true
 cover:

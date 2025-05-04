@@ -6,6 +6,7 @@ album_name: "Wait Til I Get Over"
 date: 2023-05-05T04:24:52.000000Z
 release_date: "2023-05-05"
 release_id: "26858723"
+apple_music_url: "https://music.apple.com/gb/album/wait-til-i-get-over/1668161620"
 slug: "wait-til-i-get-over-26858723"
 hideSummary: true
 cover:

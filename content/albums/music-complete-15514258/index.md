@@ -6,6 +6,7 @@ album_name: "Music Complete"
 date: 2020-06-24T11:44:53.000000Z
 release_date: "2015-09-25"
 release_id: "15514258"
+apple_music_url: "https://music.apple.com/gb/album/music-complete/1003724995"
 slug: "music-complete-15514258"
 hideSummary: true
 cover:

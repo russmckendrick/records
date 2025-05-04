@@ -6,6 +6,7 @@ album_name: "Powerage"
 date: 2024-03-15T06:44:34.000000Z
 release_date: "1978-05-05"
 release_id: "30095783"
+apple_music_url: "https://music.apple.com/gb/album/powerage/574050248"
 slug: "powerage-30095783"
 hideSummary: true
 cover:

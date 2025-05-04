@@ -6,6 +6,7 @@ album_name: "Grand Tour"
 date: 2019-05-17T18:28:09.000000Z
 release_date: "2019-05-17"
 release_id: "13635083"
+apple_music_url: "https://music.apple.com/gb/album/grand-tour/1459209342"
 slug: "grand-tour-13635083"
 hideSummary: true
 cover:

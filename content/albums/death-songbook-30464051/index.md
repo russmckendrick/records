@@ -6,6 +6,7 @@ album_name: "Death Songbook"
 date: 2024-04-27T05:28:02.000000Z
 release_date: "2024-04-19"
 release_id: "30464051"
+apple_music_url: "https://music.apple.com/gb/album/death-songbook-with-brett-anderson-charles-hazlewood/1725353225"
 slug: "death-songbook-30464051"
 hideSummary: true
 cover:

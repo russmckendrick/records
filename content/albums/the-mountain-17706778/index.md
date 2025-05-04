@@ -6,6 +6,7 @@ album_name: "The Mountain"
 date: 2021-03-06T11:31:19.000000Z
 release_date: "2013-09-17"
 release_id: "17706778"
+apple_music_url: "https://music.apple.com/gb/album/the-mountain/1045392645"
 slug: "the-mountain-17706778"
 hideSummary: true
 cover:

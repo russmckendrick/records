@@ -6,6 +6,7 @@ album_name: "Have You In My Wilderness"
 date: 2015-12-28T14:07:45.000000Z
 release_date: "2015-09-25"
 release_id: "7608939"
+apple_music_url: "https://music.apple.com/gb/album/have-you-in-my-wilderness/1046817772"
 slug: "have-you-in-my-wilderness-7608939"
 hideSummary: true
 cover:

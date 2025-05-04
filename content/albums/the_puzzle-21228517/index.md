@@ -6,6 +6,7 @@ album_name: "The_Puzzle"
 date: 2021-12-20T10:56:56.000000Z
 release_date: "2021-10-22"
 release_id: "21228517"
+apple_music_url: "https://music.apple.com/gb/album/the-puzzle/1588444448"
 slug: "the_puzzle-21228517"
 hideSummary: true
 cover:

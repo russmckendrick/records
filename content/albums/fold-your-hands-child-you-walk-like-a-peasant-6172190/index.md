@@ -6,6 +6,7 @@ album_name: "Fold Your Hands Child, You Walk Like A Peasant"
 date: 2017-04-25T08:34:43.000000Z
 release_date: "2000-06-05"
 release_id: "6172190"
+apple_music_url: "https://music.apple.com/gb/album/fold-your-hands-child-you-walk-like-a-peasant/1669033817"
 slug: "fold-your-hands-child-you-walk-like-a-peasant-6172190"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Beautiful Garbage"
 date: 2022-10-05T12:03:47.000000Z
 release_date: "2001-09-27"
 release_id: "20856595"
+apple_music_url: "https://music.apple.com/gb/album/beautiful-garbage/1544782128"
 slug: "beautiful-garbage-20856595"
 hideSummary: true
 cover:

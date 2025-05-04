@@ -6,6 +6,7 @@ album_name: "Beat"
 date: 2023-02-03T11:49:54.000000Z
 release_date: "1969-10-10"
 release_id: "24968086"
+apple_music_url: "https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711"
 slug: "beat-24968086"
 hideSummary: true
 cover:

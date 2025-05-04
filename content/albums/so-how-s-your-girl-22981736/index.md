@@ -6,6 +6,7 @@ album_name: "So... How's Your Girl?"
 date: 2022-04-24T04:24:32.000000Z
 release_date: "1999-10-19"
 release_id: "22981736"
+apple_music_url: "https://music.apple.com/gb/album/so-hows-your-girl/1607689963"
 slug: "so-how-s-your-girl-22981736"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Up To Our Hips"
 date: 2024-11-09T04:33:47.000000Z
 release_date: "1994-03-22"
 release_id: "32215653"
+apple_music_url: "https://music.apple.com/gb/album/up-to-our-hips/1027456677"
 slug: "up-to-our-hips-32215653"
 hideSummary: true
 cover:

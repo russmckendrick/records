@@ -6,6 +6,7 @@ album_name: "Dookie"
 date: 2023-09-30T04:27:42.000000Z
 release_date: "1994-02-01"
 release_id: "28422934"
+apple_music_url: "https://music.apple.com/gb/album/dookie/1160081985"
 slug: "dookie-28422934"
 hideSummary: true
 cover:

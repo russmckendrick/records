@@ -6,6 +6,7 @@ album_name: "The Ultimate Collection"
 date: 2015-08-09T08:30:54.000000Z
 release_date: "2015-04-10"
 release_id: "6978849"
+apple_music_url: "https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370"
 slug: "the-ultimate-collection-6978849"
 hideSummary: true
 cover:

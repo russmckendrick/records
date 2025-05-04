@@ -6,6 +6,7 @@ album_name: "Temple Of Low Men"
 date: 2016-11-08T19:07:19.000000Z
 release_date: "1988-07-01"
 release_id: "9322448"
+apple_music_url: "https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738"
 slug: "temple-of-low-men-9322448"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Come On Feel The Lemonheads"
 date: 2023-05-19T11:08:00.000000Z
 release_date: "1993-01-01"
 release_id: "27057084"
+apple_music_url: "https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046"
 slug: "come-on-feel-the-lemonheads-27057084"
 hideSummary: true
 cover:

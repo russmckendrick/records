@@ -6,6 +6,7 @@ album_name: "New Jersey"
 date: 2018-06-13T17:27:30.000000Z
 release_date: "1988-09-19"
 release_id: "9295617"
+apple_music_url: "https://music.apple.com/gb/album/new-jersey/1440826305"
 slug: "new-jersey-9295617"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Led Zeppelin"
 date: 2017-02-26T10:57:15.000000Z
 release_date: "1969-01-12"
 release_id: "5734419"
+apple_music_url: "https://music.apple.com/gb/album/led-zeppelin-deluxe-edition/836967207"
 slug: "led-zeppelin-5734419"
 hideSummary: true
 cover:

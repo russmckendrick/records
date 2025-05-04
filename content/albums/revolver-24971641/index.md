@@ -6,6 +6,7 @@ album_name: "Revolver"
 date: 2023-08-19T10:38:53.000000Z
 release_date: "2023-05-04"
 release_id: "24971641"
+apple_music_url: "https://music.apple.com/gb/album/beatles-revolver-single/1680977639"
 slug: "revolver-24971641"
 hideSummary: true
 cover:

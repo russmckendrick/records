@@ -6,6 +6,7 @@ album_name: "God Fodder"
 date: 2019-08-09T17:50:15.000000Z
 release_date: "1991-05-28"
 release_id: "13977896"
+apple_music_url: "https://music.apple.com/gb/album/god-fodder/290933571"
 slug: "god-fodder-13977896"
 hideSummary: true
 cover:

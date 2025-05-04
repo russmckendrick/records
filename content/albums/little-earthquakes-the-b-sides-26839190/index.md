@@ -6,6 +6,7 @@ album_name: "Little Earthquakes - The B-Sides"
 date: 2023-04-23T04:36:32.000000Z
 release_date: "1992-01-06"
 release_id: "26839190"
+apple_music_url: "https://music.apple.com/gb/album/little-earthquakes-remastered/981370459"
 slug: "little-earthquakes-the-b-sides-26839190"
 hideSummary: true
 cover:

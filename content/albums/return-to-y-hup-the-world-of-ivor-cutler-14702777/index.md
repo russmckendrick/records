@@ -6,6 +6,7 @@ album_name: "Return To Y'Hup The World Of Ivor Cutler"
 date: 2020-01-25T18:56:54.000000Z
 release_date: "2020-01-24"
 release_id: "14702777"
+apple_music_url: "https://music.apple.com/gb/album/return-to-yhup-the-world-of-ivor-cutler/1486201143"
 slug: "return-to-y-hup-the-world-of-ivor-cutler-14702777"
 hideSummary: true
 cover:

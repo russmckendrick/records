@@ -6,6 +6,7 @@ album_name: "Eras II"
 date: 2018-09-15T16:14:59.000000Z
 release_date: ""
 release_id: "12482001"
+apple_music_url: ""
 slug: "eras-ii-12482001"
 hideSummary: true
 cover:

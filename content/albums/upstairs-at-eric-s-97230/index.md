@@ -6,6 +6,7 @@ album_name: "Upstairs At Eric's"
 date: 2017-06-14T07:25:40.000000Z
 release_date: "1982-08-20"
 release_id: "97230"
+apple_music_url: "https://music.apple.com/gb/album/upstairs-at-erics/1436832956"
 slug: "upstairs-at-eric-s-97230"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Eras III"
 date: 2018-12-17T19:12:37.000000Z
 release_date: ""
 release_id: "12932368"
+apple_music_url: ""
 slug: "eras-iii-12932368"
 hideSummary: true
 cover:

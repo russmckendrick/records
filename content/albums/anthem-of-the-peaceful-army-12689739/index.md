@@ -6,6 +6,7 @@ album_name: "Anthem Of The Peaceful Army"
 date: 2018-10-28T10:02:06.000000Z
 release_date: "2018-10-19"
 release_id: "12689739"
+apple_music_url: "https://music.apple.com/gb/album/anthem-of-the-peaceful-army/1435351050"
 slug: "anthem-of-the-peaceful-army-12689739"
 hideSummary: true
 cover:

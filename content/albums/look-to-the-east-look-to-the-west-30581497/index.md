@@ -6,6 +6,7 @@ album_name: "Look To The East, Look To The West"
 date: 2024-05-04T03:26:23.000000Z
 release_date: "2024-05-03"
 release_id: "30581497"
+apple_music_url: "https://music.apple.com/gb/album/look-to-the-east-look-to-the-west/1725013147"
 slug: "look-to-the-east-look-to-the-west-30581497"
 hideSummary: true
 cover:

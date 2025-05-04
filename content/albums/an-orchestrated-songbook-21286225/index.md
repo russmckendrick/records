@@ -6,6 +6,7 @@ album_name: "An Orchestrated Songbook"
 date: 2023-02-11T08:07:31.000000Z
 release_date: "2021-12-10"
 release_id: "21286225"
+apple_music_url: "https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255"
 slug: "an-orchestrated-songbook-21286225"
 hideSummary: true
 cover:

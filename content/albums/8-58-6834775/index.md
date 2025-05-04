@@ -6,6 +6,7 @@ album_name: "8:58"
 date: 2015-08-09T08:30:37.000000Z
 release_date: "2015-03-30"
 release_id: "6834775"
+apple_music_url: "https://music.apple.com/gb/album/8-58/1168829355"
 slug: "8-58-6834775"
 hideSummary: true
 cover:

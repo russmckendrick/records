@@ -6,6 +6,7 @@ album_name: "Please Please Please"
 date: 2021-05-17T07:47:43.000000Z
 release_date: "1959-01-01"
 release_id: "13262472"
+apple_music_url: "https://music.apple.com/gb/album/please-please-please/1443828151"
 slug: "please-please-please-13262472"
 hideSummary: true
 cover:

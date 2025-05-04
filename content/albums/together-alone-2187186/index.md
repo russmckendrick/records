@@ -6,6 +6,7 @@ album_name: "Together Alone"
 date: 2015-09-10T18:28:00.000000Z
 release_date: "1993-10-18"
 release_id: "2187186"
+apple_music_url: "https://music.apple.com/gb/album/together-alone/723500449"
 slug: "together-alone-2187186"
 hideSummary: true
 cover:

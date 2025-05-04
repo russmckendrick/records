@@ -6,6 +6,7 @@ album_name: "I Just Can't Stop It"
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1980-05-23"
 release_id: "3723205"
+apple_music_url: "https://music.apple.com/gb/album/i-just-cant-stop-it-2012-remaster/1714522873"
 slug: "i-just-can-t-stop-it-3723205"
 hideSummary: true
 cover:

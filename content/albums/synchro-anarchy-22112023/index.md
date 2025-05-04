@@ -6,6 +6,7 @@ album_name: "Synchro Anarchy"
 date: 2022-02-13T02:52:10.000000Z
 release_date: "2022-02-11"
 release_id: "22112023"
+apple_music_url: "https://music.apple.com/gb/album/synchro-anarchy/1596372872"
 slug: "synchro-anarchy-22112023"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Wild Planet"
 date: 2020-07-14T11:08:21.000000Z
 release_date: "1980-01-01"
 release_id: "13930651"
+apple_music_url: "https://music.apple.com/gb/album/wild-planet/1442407466"
 slug: "wild-planet-13930651"
 hideSummary: true
 cover:

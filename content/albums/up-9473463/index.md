@@ -6,6 +6,7 @@ album_name: "Up"
 date: 2016-12-08T18:44:51.000000Z
 release_date: "1977-02-25"
 release_id: "9473463"
+apple_music_url: "https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072"
 slug: "up-9473463"
 hideSummary: true
 cover:

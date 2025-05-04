@@ -6,6 +6,7 @@ album_name: "Black Celebration"
 date: 2016-12-04T11:07:46.000000Z
 release_date: "1986-03-17"
 release_id: "9180616"
+apple_music_url: "https://music.apple.com/gb/album/black-celebration/665403454"
 slug: "black-celebration-9180616"
 hideSummary: true
 cover:

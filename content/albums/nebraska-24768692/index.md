@@ -6,6 +6,7 @@ album_name: "Nebraska"
 date: 2025-01-28T00:48:54.000000Z
 release_date: ""
 release_id: "24768692"
+apple_music_url: ""
 slug: "nebraska-24768692"
 hideSummary: true
 cover:

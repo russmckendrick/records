@@ -6,6 +6,7 @@ album_name: "Nuisance"
 date: 2020-10-28T12:49:20.000000Z
 release_date: "1995-01-01"
 release_id: "15932078"
+apple_music_url: "https://music.apple.com/gb/album/nuisance/1320067263"
 slug: "nuisance-15932078"
 hideSummary: true
 cover:

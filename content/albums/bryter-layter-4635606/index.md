@@ -6,6 +6,7 @@ album_name: "Bryter Layter"
 date: 2015-08-09T08:36:29.000000Z
 release_date: "1971-03-05"
 release_id: "4635606"
+apple_music_url: "https://music.apple.com/gb/album/bryter-layter/1704061160"
 slug: "bryter-layter-4635606"
 hideSummary: true
 cover:

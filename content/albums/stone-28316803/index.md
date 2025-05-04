@@ -6,6 +6,7 @@ album_name: "Stone"
 date: 2023-09-23T01:42:12.000000Z
 release_date: "2021-09-22"
 release_id: "28316803"
+apple_music_url: "https://music.apple.com/gb/album/el-bar%C3%B3n-gitano-single/1587047517"
 slug: "stone-28316803"
 hideSummary: true
 cover:

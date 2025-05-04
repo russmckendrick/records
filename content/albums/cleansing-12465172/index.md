@@ -6,6 +6,7 @@ album_name: "Cleansing"
 date: 2018-10-12T20:02:23.000000Z
 release_date: "1994-01-25"
 release_id: "12465172"
+apple_music_url: "https://music.apple.com/gb/album/cleansing/158332411"
 slug: "cleansing-12465172"
 hideSummary: true
 cover:

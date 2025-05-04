@@ -6,6 +6,7 @@ album_name: "Always (The Very Best Of Erasure)"
 date: 2023-08-18T10:04:25.000000Z
 release_date: "2015"
 release_id: "27978444"
+apple_music_url: "https://music.apple.com/gb/album/always-the-very-best-of-erasure/1439548683"
 slug: "always-the-very-best-of-erasure-27978444"
 hideSummary: true
 cover:

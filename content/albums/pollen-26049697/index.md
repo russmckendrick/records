@@ -6,6 +6,7 @@ album_name: "Pollen"
 date: 2024-05-20T08:33:23.000000Z
 release_date: "2023-02-10"
 release_id: "26049697"
+apple_music_url: "https://music.apple.com/gb/album/pollen/1651271193"
 slug: "pollen-26049697"
 hideSummary: true
 cover:

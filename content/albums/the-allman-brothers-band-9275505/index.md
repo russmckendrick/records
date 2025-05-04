@@ -6,6 +6,7 @@ album_name: "The Allman Brothers Band"
 date: 2017-01-23T17:30:46.000000Z
 release_date: "1969-11-04"
 release_id: "9275505"
+apple_music_url: "https://music.apple.com/gb/album/the-allman-brothers-band/1469584148"
 slug: "the-allman-brothers-band-9275505"
 hideSummary: true
 cover:

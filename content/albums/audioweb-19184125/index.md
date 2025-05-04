@@ -6,6 +6,7 @@ album_name: "Audioweb"
 date: 2021-10-09T06:37:10.000000Z
 release_date: "1996-01-01"
 release_id: "19184125"
+apple_music_url: "https://music.apple.com/gb/album/audioweb/1442541735"
 slug: "audioweb-19184125"
 hideSummary: true
 cover:

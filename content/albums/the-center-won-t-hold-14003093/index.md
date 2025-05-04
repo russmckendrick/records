@@ -6,6 +6,7 @@ album_name: "The Center Won't Hold"
 date: 2019-08-16T17:11:48.000000Z
 release_date: "2019-08-16"
 release_id: "14003093"
+apple_music_url: "https://music.apple.com/gb/album/the-center-wont-hold/1467763810"
 slug: "the-center-won-t-hold-14003093"
 hideSummary: true
 cover:

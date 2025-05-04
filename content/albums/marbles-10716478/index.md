@@ -6,6 +6,7 @@ album_name: "Marbles"
 date: 2017-09-15T14:01:11.000000Z
 release_date: "2004-05-03"
 release_id: "10716478"
+apple_music_url: "https://music.apple.com/gb/album/marbles/1328777975"
 slug: "marbles-10716478"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
 date: 2020-01-10T18:20:40.000000Z
 release_date: ""
 release_id: "14597485"
+apple_music_url: ""
 slug: "recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Best Of Big Star"
 date: 2017-07-14T19:21:22.000000Z
 release_date: "2017-06-16"
 release_id: "10568074"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-big-star/1442996836"
 slug: "the-best-of-big-star-10568074"
 hideSummary: true
 cover:

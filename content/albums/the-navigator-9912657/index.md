@@ -6,6 +6,7 @@ album_name: "The Navigator"
 date: 2017-03-11T12:35:14.000000Z
 release_date: "2013-01-14"
 release_id: "9912657"
+apple_music_url: "https://music.apple.com/gb/album/hurray-for-the-riff-raff/1169214981"
 slug: "the-navigator-9912657"
 hideSummary: true
 cover:

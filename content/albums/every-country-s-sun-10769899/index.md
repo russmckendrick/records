@@ -6,6 +6,7 @@ album_name: "Every Country's Sun"
 date: 2017-09-02T08:07:44.000000Z
 release_date: "2017-09-01"
 release_id: "10769899"
+apple_music_url: "https://music.apple.com/gb/album/every-countrys-sun/1232654304"
 slug: "every-country-s-sun-10769899"
 hideSummary: true
 cover:

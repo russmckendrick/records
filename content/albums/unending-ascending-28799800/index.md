@@ -6,6 +6,7 @@ album_name: "Unending Ascending"
 date: 2023-11-04T07:57:49.000000Z
 release_date: "2023-11-03"
 release_id: "28799800"
+apple_music_url: "https://music.apple.com/gb/album/unending-ascending/1702584359"
 slug: "unending-ascending-28799800"
 hideSummary: true
 cover:

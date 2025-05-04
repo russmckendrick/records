@@ -6,6 +6,7 @@ album_name: "Much Against Everyone's Advice"
 date: 2024-05-11T04:30:24.000000Z
 release_date: "1999-03-15"
 release_id: "30649612"
+apple_music_url: "https://music.apple.com/gb/album/much-against-everyones-advice/15159110"
 slug: "much-against-everyone-s-advice-30649612"
 hideSummary: true
 cover:

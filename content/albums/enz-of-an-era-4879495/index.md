@@ -6,6 +6,7 @@ album_name: "Enz Of An Era"
 date: 2016-01-29T18:22:10.000000Z
 release_date: "1980-06-25"
 release_id: "4879495"
+apple_music_url: "https://music.apple.com/gb/album/true-colours/1494504041"
 slug: "enz-of-an-era-4879495"
 hideSummary: true
 cover:

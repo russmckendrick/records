@@ -6,6 +6,7 @@ album_name: "The Cars"
 date: 2020-08-02T13:38:38.000000Z
 release_date: "1978-06-06"
 release_id: "1165287"
+apple_music_url: "https://music.apple.com/gb/album/the-cars/1088527349"
 slug: "the-cars-1165287"
 hideSummary: true
 cover:

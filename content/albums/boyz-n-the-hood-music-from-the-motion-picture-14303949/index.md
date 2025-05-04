@@ -6,6 +6,7 @@ album_name: "Boyz N The Hood (Music From The Motion Picture)"
 date: 2020-07-14T11:07:39.000000Z
 release_date: ""
 release_id: "14303949"
+apple_music_url: ""
 slug: "boyz-n-the-hood-music-from-the-motion-picture-14303949"
 hideSummary: true
 cover:

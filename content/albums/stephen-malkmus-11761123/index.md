@@ -6,6 +6,7 @@ album_name: "Stephen Malkmus"
 date: 2018-05-15T11:37:19.000000Z
 release_date: "2001-02-13"
 release_id: "11761123"
+apple_music_url: "https://music.apple.com/gb/album/stephen-malkmus/306715054"
 slug: "stephen-malkmus-11761123"
 hideSummary: true
 cover:

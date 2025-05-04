@@ -6,6 +6,7 @@ album_name: "The Collection 1978-1984"
 date: 2023-11-17T10:41:35.000000Z
 release_date: ""
 release_id: "28066065"
+apple_music_url: ""
 slug: "the-collection-1978-1984-28066065"
 hideSummary: true
 cover:

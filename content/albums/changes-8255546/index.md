@@ -6,6 +6,7 @@ album_name: "Changes"
 date: 2016-04-02T09:43:48.000000Z
 release_date: "2016-04-01"
 release_id: "8255546"
+apple_music_url: "https://music.apple.com/gb/album/changes/1485051210"
 slug: "changes-8255546"
 hideSummary: true
 cover:

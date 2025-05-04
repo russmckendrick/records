@@ -6,6 +6,7 @@ album_name: "Into The Dragon"
 date: 2018-10-01T17:55:28.000000Z
 release_date: "1988-10"
 release_id: "12489219"
+apple_music_url: "https://music.apple.com/gb/album/into-the-dragon/400362376"
 slug: "into-the-dragon-12489219"
 hideSummary: true
 cover:

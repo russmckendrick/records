@@ -6,6 +6,7 @@ album_name: "Burn My Eyes"
 date: 2016-09-19T15:12:56.000000Z
 release_date: "1994-07-25"
 release_id: "6125349"
+apple_music_url: "https://music.apple.com/gb/album/burn-my-eyes/214477654"
 slug: "burn-my-eyes-6125349"
 hideSummary: true
 cover:

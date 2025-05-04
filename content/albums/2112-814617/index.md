@@ -6,6 +6,7 @@ album_name: "2112"
 date: 2016-03-16T18:38:08.000000Z
 release_date: "2023-08-31"
 release_id: "814617"
+apple_music_url: "https://music.apple.com/gb/album/rush-single/1704603042"
 slug: "2112-814617"
 hideSummary: true
 cover:

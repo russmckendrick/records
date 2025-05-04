@@ -6,6 +6,7 @@ album_name: "The Holy Pictures"
 date: 2019-07-28T12:17:14.000000Z
 release_date: "2008-01-01"
 release_id: "13930358"
+apple_music_url: "https://music.apple.com/gb/album/the-holy-pictures-itunes-exclusive/1731904144"
 slug: "the-holy-pictures-13930358"
 hideSummary: true
 cover:

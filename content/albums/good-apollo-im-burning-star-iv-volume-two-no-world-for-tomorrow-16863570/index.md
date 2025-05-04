@@ -6,6 +6,7 @@ album_name: "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorro
 date: 2021-06-15T08:24:18.000000Z
 release_date: "2005-09-20"
 release_id: "16863570"
+apple_music_url: "https://music.apple.com/gb/album/good-apollo-im-burning-star-iv-vol-1-from-fear-through/307654866"
 slug: "good-apollo-im-burning-star-iv-volume-two-no-world-for-tomorrow-16863570"
 hideSummary: true
 cover:

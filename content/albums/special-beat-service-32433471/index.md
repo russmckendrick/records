@@ -6,6 +6,7 @@ album_name: "Special Beat Service "
 date: 2024-12-20T01:47:58.000000Z
 release_date: "1982-10-01"
 release_id: "32433471"
+apple_music_url: "https://music.apple.com/gb/album/special-beat-service-expanded-2012-remaster/1714604816"
 slug: "special-beat-service-32433471"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Electric Ladyland"
 date: 2016-04-23T09:44:30.000000Z
 release_date: "2000-09-12"
 release_id: "7611376"
+apple_music_url: "https://music.apple.com/gb/album/the-jimi-hendrix-experience-deluxe-reissue/680248050"
 slug: "electric-ladyland-7611376"
 hideSummary: true
 cover:

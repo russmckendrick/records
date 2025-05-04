@@ -6,6 +6,7 @@ album_name: "Behind The Music"
 date: 2018-11-03T09:52:34.000000Z
 release_date: "2001-02-09"
 release_id: "12650670"
+apple_music_url: "https://music.apple.com/gb/album/behind-the-music/63832061"
 slug: "behind-the-music-12650670"
 hideSummary: true
 cover:

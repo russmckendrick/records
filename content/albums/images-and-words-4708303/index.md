@@ -6,6 +6,7 @@ album_name: "Images And Words"
 date: 2017-03-08T19:55:05.000000Z
 release_date: "1992-07-07"
 release_id: "4708303"
+apple_music_url: "https://music.apple.com/gb/album/images-and-words/282703578"
 slug: "images-and-words-4708303"
 hideSummary: true
 cover:

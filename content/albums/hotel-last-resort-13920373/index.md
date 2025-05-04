@@ -6,6 +6,7 @@ album_name: "Hotel Last Resort"
 date: 2019-08-30T15:23:03.000000Z
 release_date: "2019-07-26"
 release_id: "13920373"
+apple_music_url: "https://music.apple.com/gb/album/hotel-last-resort/1460178156"
 slug: "hotel-last-resort-13920373"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ramones"
 date: 2016-10-17T16:23:33.000000Z
 release_date: "1976-04-23"
 release_id: "9022105"
+apple_music_url: "https://music.apple.com/gb/album/ramones/847972873"
 slug: "ramones-9022105"
 hideSummary: true
 cover:

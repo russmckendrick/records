@@ -6,6 +6,7 @@ album_name: "Spine Of God"
 date: 2017-09-06T18:44:42.000000Z
 release_date: "1991-12-06"
 release_id: "10775588"
+apple_music_url: "https://music.apple.com/gb/album/spine-of-god/1246231213"
 slug: "spine-of-god-10775588"
 hideSummary: true
 cover:

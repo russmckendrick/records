@@ -6,6 +6,7 @@ album_name: "The Best Of Indie Top 20"
 date: 2019-04-26T12:45:43.000000Z
 release_date: ""
 release_id: "974961"
+apple_music_url: ""
 slug: "the-best-of-indie-top-20-974961"
 hideSummary: true
 cover:

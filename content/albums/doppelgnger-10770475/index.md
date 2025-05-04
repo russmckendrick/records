@@ -6,6 +6,7 @@ album_name: "Doppelgänger"
 date: 2017-09-01T05:56:02.000000Z
 release_date: "1992-03-09"
 release_id: "10770475"
+apple_music_url: "https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009"
 slug: "doppelgnger-10770475"
 hideSummary: true
 cover:

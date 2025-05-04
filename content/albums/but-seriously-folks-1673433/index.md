@@ -6,6 +6,7 @@ album_name: "But Seriously, Folks..."
 date: 2020-08-02T13:33:25.000000Z
 release_date: "1978-05-16"
 release_id: "1673433"
+apple_music_url: "https://music.apple.com/gb/album/but-seriously-folks/332682774"
 slug: "but-seriously-folks-1673433"
 hideSummary: true
 cover:

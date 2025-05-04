@@ -6,6 +6,7 @@ album_name: "This Is Music: The Singles"
 date: 2025-01-25T05:52:05.000000Z
 release_date: ""
 release_id: "32937474"
+apple_music_url: ""
 slug: "this-is-music-the-singles-32937474"
 hideSummary: true
 cover:

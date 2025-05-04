@@ -6,6 +6,7 @@ album_name: "Showtunes"
 date: 2021-05-25T04:48:11.000000Z
 release_date: "2021-05-21"
 release_id: "18763735"
+apple_music_url: "https://music.apple.com/gb/album/showtunes/1721065005"
 slug: "showtunes-18763735"
 hideSummary: true
 cover:

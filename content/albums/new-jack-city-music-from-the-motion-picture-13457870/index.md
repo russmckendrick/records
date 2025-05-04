@@ -6,6 +6,7 @@ album_name: "New Jack City (Music From The Motion Picture)"
 date: 2019-04-13T11:16:06.000000Z
 release_date: ""
 release_id: "13457870"
+apple_music_url: ""
 slug: "new-jack-city-music-from-the-motion-picture-13457870"
 hideSummary: true
 cover:

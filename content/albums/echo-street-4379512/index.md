@@ -6,6 +6,7 @@ album_name: "Echo Street"
 date: 2015-08-09T08:50:23.000000Z
 release_date: "2016-08-12"
 release_id: "4379512"
+apple_music_url: "https://music.apple.com/gb/album/echo-street-bonus-edition/1179873452"
 slug: "echo-street-4379512"
 hideSummary: true
 cover:

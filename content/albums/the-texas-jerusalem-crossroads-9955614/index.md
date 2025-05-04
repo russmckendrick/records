@@ -6,6 +6,7 @@ album_name: "The Texas-Jerusalem Crossroads"
 date: 2017-03-11T12:33:17.000000Z
 release_date: "2001-06-26"
 release_id: "9955614"
+apple_music_url: "https://music.apple.com/gb/album/the-texas-jerusalem-crossroads/1172400599"
 slug: "the-texas-jerusalem-crossroads-9955614"
 hideSummary: true
 cover:

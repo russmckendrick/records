@@ -6,6 +6,7 @@ album_name: "Evaporate"
 date: 2018-05-14T09:17:13.000000Z
 release_date: "2018-04-27"
 release_id: "11947803"
+apple_music_url: "https://music.apple.com/gb/album/evaporate/1343876649"
 slug: "evaporate-11947803"
 hideSummary: true
 cover:

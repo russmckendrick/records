@@ -6,6 +6,7 @@ album_name: "Tales From Topographic Oceans"
 date: 2016-03-09T18:40:45.000000Z
 release_date: "1973-12-07"
 release_id: "981938"
+apple_music_url: "https://music.apple.com/gb/album/tales-from-topographic-oceans/1049006570"
 slug: "tales-from-topographic-oceans-981938"
 hideSummary: true
 cover:

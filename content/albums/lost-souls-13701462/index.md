@@ -6,6 +6,7 @@ album_name: "Lost Souls "
 date: 2019-06-03T17:50:28.000000Z
 release_date: "2000-01-01"
 release_id: "13701462"
+apple_music_url: "https://music.apple.com/gb/album/lost-souls/724350250"
 slug: "lost-souls-13701462"
 hideSummary: true
 cover:

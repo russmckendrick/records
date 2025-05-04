@@ -6,6 +6,7 @@ album_name: "Can't Lose My (Soul)"
 date: 2025-03-28T04:00:09.000000Z
 release_date: "2025-03-21"
 release_id: "33529182"
+apple_music_url: "https://music.apple.com/gb/album/cant-lose-my-soul/1773427071"
 slug: "can-t-lose-my-soul-33529182"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Homophobic Asshole"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2007-07-05"
 release_id: "1210486"
+apple_music_url: "https://music.apple.com/gb/album/homophobic-a-e/259488624"
 slug: "homophobic-asshole-1210486"
 hideSummary: true
 cover:

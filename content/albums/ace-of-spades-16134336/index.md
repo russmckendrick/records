@@ -6,6 +6,7 @@ album_name: "Ace Of Spades"
 date: 2021-06-08T04:52:55.000000Z
 release_date: "1980-11-08"
 release_id: "16134336"
+apple_music_url: "https://music.apple.com/gb/album/ace-of-spades/1611639286"
 slug: "ace-of-spades-16134336"
 hideSummary: true
 cover:

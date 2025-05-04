@@ -6,6 +6,7 @@ album_name: "Waking Hours"
 date: 2018-12-28T17:39:26.000000Z
 release_date: "1989-01-01"
 release_id: "418269"
+apple_music_url: "https://music.apple.com/gb/album/waking-hours/1443380763"
 slug: "waking-hours-418269"
 hideSummary: true
 cover:

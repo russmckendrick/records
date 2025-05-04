@@ -6,6 +6,7 @@ album_name: "Trompe Le Monde"
 date: 2021-09-24T04:03:53.000000Z
 release_date: "1991-09-23"
 release_id: "20199340"
+apple_music_url: "https://music.apple.com/gb/album/trompe-le-monde/1457604293"
 slug: "trompe-le-monde-20199340"
 hideSummary: true
 cover:

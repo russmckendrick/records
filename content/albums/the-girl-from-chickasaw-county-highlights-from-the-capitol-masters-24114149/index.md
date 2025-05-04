@@ -6,6 +6,7 @@ album_name: "The Girl From Chickasaw County (Highlights From The Capitol Masters
 date: 2022-08-06T07:29:31.000000Z
 release_date: "2018-09-21"
 release_id: "24114149"
+apple_music_url: "https://music.apple.com/gb/album/the-girl-from-chickasaw-county-the-complete/1428546863"
 slug: "the-girl-from-chickasaw-county-highlights-from-the-capitol-masters-24114149"
 hideSummary: true
 cover:

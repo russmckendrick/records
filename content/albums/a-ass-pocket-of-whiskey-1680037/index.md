@@ -6,6 +6,7 @@ album_name: "A Ass Pocket Of Whiskey"
 date: 2015-09-01T17:51:10.000000Z
 release_date: "1996-06-25"
 release_id: "1680037"
+apple_music_url: "https://music.apple.com/gb/album/a-ass-pocket-of-whiskey/1093176251"
 slug: "a-ass-pocket-of-whiskey-1680037"
 hideSummary: true
 cover:

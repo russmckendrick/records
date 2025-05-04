@@ -6,6 +6,7 @@ album_name: "Mer De Noms"
 date: 2016-08-17T16:55:27.000000Z
 release_date: "2000-01-01"
 release_id: "1450554"
+apple_music_url: "https://music.apple.com/gb/album/mer-de-noms/723435992"
 slug: "mer-de-noms-1450554"
 hideSummary: true
 cover:

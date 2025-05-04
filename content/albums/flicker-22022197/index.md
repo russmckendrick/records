@@ -6,6 +6,7 @@ album_name: "Flicker"
 date: 2022-02-05T04:03:41.000000Z
 release_date: "2022-02-10"
 release_id: "22022197"
+apple_music_url: "https://music.apple.com/gb/album/flicker/1700658610"
 slug: "flicker-22022197"
 hideSummary: true
 cover:

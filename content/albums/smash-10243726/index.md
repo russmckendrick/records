@@ -6,6 +6,7 @@ album_name: "Smash"
 date: 2017-10-28T15:46:51.000000Z
 release_date: "1994-04-08"
 release_id: "10243726"
+apple_music_url: "https://music.apple.com/gb/album/smash/1485034772"
 slug: "smash-10243726"
 hideSummary: true
 cover:

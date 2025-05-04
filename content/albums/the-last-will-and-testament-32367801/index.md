@@ -6,6 +6,7 @@ album_name: "The Last Will And Testament"
 date: 2024-11-30T06:52:33.000000Z
 release_date: "2024-11-22"
 release_id: "32367801"
+apple_music_url: "https://music.apple.com/gb/album/the-last-will-and-testament/1770619023"
 slug: "the-last-will-and-testament-32367801"
 hideSummary: true
 cover:

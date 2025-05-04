@@ -6,6 +6,7 @@ album_name: "Jailbreak"
 date: 2020-02-28T20:24:42.000000Z
 release_date: "1976-01-01"
 release_id: "14698179"
+apple_music_url: "https://music.apple.com/gb/album/jailbreak/1440918303"
 slug: "jailbreak-14698179"
 hideSummary: true
 cover:

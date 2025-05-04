@@ -6,6 +6,7 @@ album_name: "We Are Legend"
 date: 2017-07-29T08:50:54.000000Z
 release_date: ""
 release_id: "10451674"
+apple_music_url: ""
 slug: "we-are-legend-10451674"
 hideSummary: true
 cover:

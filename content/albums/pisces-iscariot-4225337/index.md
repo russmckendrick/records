@@ -6,6 +6,7 @@ album_name: "Pisces Iscariot"
 date: 2016-04-07T17:34:42.000000Z
 release_date: "1994-10-04"
 release_id: "4225337"
+apple_music_url: "https://music.apple.com/gb/album/pisces-iscariot-remastered/1471441302"
 slug: "pisces-iscariot-4225337"
 hideSummary: true
 cover:

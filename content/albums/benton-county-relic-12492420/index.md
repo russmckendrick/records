@@ -6,6 +6,7 @@ album_name: "Benton County Relic"
 date: 2018-09-15T13:01:47.000000Z
 release_date: "2018-09-14"
 release_id: "12492420"
+apple_music_url: "https://music.apple.com/gb/album/benton-county-relic/1534658310"
 slug: "benton-county-relic-12492420"
 hideSummary: true
 cover:

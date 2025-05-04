@@ -6,6 +6,7 @@ album_name: "Monuments To An Elegy"
 date: 2015-08-09T08:30:15.000000Z
 release_date: "2014-12-08"
 release_id: "6395947"
+apple_music_url: "https://music.apple.com/gb/album/monuments-to-an-elegy/930858267"
 slug: "monuments-to-an-elegy-6395947"
 hideSummary: true
 cover:

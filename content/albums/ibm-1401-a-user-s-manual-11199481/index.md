@@ -6,6 +6,7 @@ album_name: "IBM 1401, A User's Manual"
 date: 2017-12-09T19:15:31.000000Z
 release_date: "2006-10-30"
 release_id: "11199481"
+apple_music_url: "https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849"
 slug: "ibm-1401-a-user-s-manual-11199481"
 hideSummary: true
 cover:

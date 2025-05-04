@@ -6,6 +6,7 @@ album_name: "Licensed To Ill"
 date: 2019-11-16T11:54:27.000000Z
 release_date: "1986-11-15"
 release_id: "9200786"
+apple_music_url: "https://music.apple.com/gb/album/licensed-to-ill/1440912031"
 slug: "licensed-to-ill-9200786"
 hideSummary: true
 cover:

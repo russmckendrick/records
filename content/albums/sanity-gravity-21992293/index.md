@@ -6,6 +6,7 @@ album_name: "Sanity & Gravity"
 date: 2022-02-07T01:08:37.000000Z
 release_date: "1997-01-01"
 release_id: "21992293"
+apple_music_url: "https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241"
 slug: "sanity-gravity-21992293"
 hideSummary: true
 cover:

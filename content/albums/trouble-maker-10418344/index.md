@@ -6,6 +6,7 @@ album_name: "Trouble Maker"
 date: 2017-06-10T11:14:25.000000Z
 release_date: "2017-06-09"
 release_id: "10418344"
+apple_music_url: "https://music.apple.com/gb/album/trouble-maker-deluxe-edition/1485069298"
 slug: "trouble-maker-10418344"
 hideSummary: true
 cover:

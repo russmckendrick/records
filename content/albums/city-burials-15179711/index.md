@@ -6,6 +6,7 @@ album_name: "City Burials"
 date: 2020-05-02T11:48:57.000000Z
 release_date: "2020-04-24"
 release_id: "15179711"
+apple_music_url: "https://music.apple.com/gb/album/city-burials/1494960292"
 slug: "city-burials-15179711"
 hideSummary: true
 cover:

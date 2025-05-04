@@ -6,6 +6,7 @@ album_name: "Kick"
 date: 2015-09-10T18:28:00.000000Z
 release_date: "1987-10-19"
 release_id: "489874"
+apple_music_url: "https://music.apple.com/gb/album/kick-30/1442612641"
 slug: "kick-489874"
 hideSummary: true
 cover:

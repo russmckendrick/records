@@ -6,6 +6,7 @@ album_name: "The Meters"
 date: 2023-02-20T05:06:43.000000Z
 release_date: "1997-06-10"
 release_id: "12652036"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-the-meters/213532006"
 slug: "the-meters-12652036"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Transmission"
 date: 2020-07-17T12:21:06.000000Z
 release_date: "2023-06-08"
 release_id: "15622081"
+apple_music_url: "https://music.apple.com/gb/album/joy-division-live-in-amsterdam-1980-live/1691356861"
 slug: "transmission-15622081"
 hideSummary: true
 cover:

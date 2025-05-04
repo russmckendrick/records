@@ -6,6 +6,7 @@ album_name: "The Hoople"
 date: 2017-05-27T15:31:19.000000Z
 release_date: "1969-01-01"
 release_id: "1496272"
+apple_music_url: "https://music.apple.com/gb/album/mott-the-hoople/1442624970"
 slug: "the-hoople-1496272"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Megafauna"
 date: 2024-08-10T05:26:38.000000Z
 release_date: "2024-08-09"
 release_id: "31439801"
+apple_music_url: "https://music.apple.com/gb/album/megafauna/1741756535"
 slug: "megafauna-31439801"
 hideSummary: true
 cover:

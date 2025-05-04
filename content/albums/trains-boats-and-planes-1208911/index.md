@@ -6,6 +6,7 @@ album_name: "Trains, Boats And Planes"
 date: 2018-03-24T11:44:35.000000Z
 release_date: "1993-04-05"
 release_id: "1208911"
+apple_music_url: "https://music.apple.com/gb/album/trains-boats-and-planes/125917251"
 slug: "trains-boats-and-planes-1208911"
 hideSummary: true
 cover:

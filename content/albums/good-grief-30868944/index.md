@@ -6,6 +6,7 @@ album_name: "Good Grief"
 date: 2024-08-30T04:22:24.000000Z
 release_date: "2024-05-31"
 release_id: "30868944"
+apple_music_url: "https://music.apple.com/gb/album/good-grief/1734832338"
 slug: "good-grief-30868944"
 hideSummary: true
 cover:

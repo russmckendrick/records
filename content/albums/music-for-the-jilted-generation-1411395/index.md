@@ -6,6 +6,7 @@ album_name: "Music For The Jilted Generation"
 date: 2019-10-12T16:14:20.000000Z
 release_date: "1994-04-04"
 release_id: "1411395"
+apple_music_url: "https://music.apple.com/gb/album/music-for-the-jilted-generation/1450123784"
 slug: "music-for-the-jilted-generation-1411395"
 hideSummary: true
 cover:

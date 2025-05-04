@@ -6,6 +6,7 @@ album_name: "Dos Dedos Mis Amigos"
 date: 2017-09-01T18:22:50.000000Z
 release_date: "1994-01-01"
 release_id: "213818"
+apple_music_url: "https://music.apple.com/gb/album/dos-dedos-mis-amigos/1449628743"
 slug: "dos-dedos-mis-amigos-213818"
 hideSummary: true
 cover:

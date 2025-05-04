@@ -6,6 +6,7 @@ album_name: "The Light The Dead See"
 date: 2015-08-09T08:44:03.000000Z
 release_date: "2012-05-21"
 release_id: "3700217"
+apple_music_url: "https://music.apple.com/gb/album/the-light-the-dead-see/671788459"
 slug: "the-light-the-dead-see-3700217"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Angels & Queens"
 date: 2023-07-15T02:29:17.000000Z
 release_date: "2022-09-30"
 release_id: "27577632"
+apple_music_url: "https://music.apple.com/gb/album/angels-queens-part-i/1642716607"
 slug: "angels-queens-27577632"
 hideSummary: true
 cover:

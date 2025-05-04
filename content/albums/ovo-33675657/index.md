@@ -6,6 +6,7 @@ album_name: "OVO"
 date: 2025-04-13T03:58:21.000000Z
 release_date: "2000-06-12"
 release_id: "33675657"
+apple_music_url: "https://music.apple.com/gb/album/ovo/987433466"
 slug: "ovo-33675657"
 hideSummary: true
 cover:

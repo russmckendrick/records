@@ -6,6 +6,7 @@ album_name: "The Studio Albums 1978 - 1991"
 date: 2020-10-12T12:25:49.000000Z
 release_date: "2023-11-03"
 release_id: "5238704"
+apple_music_url: "https://music.apple.com/gb/album/live-1978-1992/1705881552"
 slug: "the-studio-albums-1978-1991-5238704"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Piledriver"
 date: 2016-05-23T18:26:01.000000Z
 release_date: "1973-01"
 release_id: "7578335"
+apple_music_url: "https://music.apple.com/gb/album/piledriver/1443775891"
 slug: "piledriver-7578335"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Is This The Life We Really Want?"
 date: 2017-06-02T17:28:24.000000Z
 release_date: "2017-05-26"
 release_id: "10364702"
+apple_music_url: "https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689"
 slug: "is-this-the-life-we-really-want-10364702"
 hideSummary: true
 cover:

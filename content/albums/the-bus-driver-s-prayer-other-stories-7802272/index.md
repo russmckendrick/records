@@ -6,6 +6,7 @@ album_name: "The Bus Driver's Prayer & Other Stories"
 date: 2016-09-21T18:13:01.000000Z
 release_date: "1992-01-01"
 release_id: "7802272"
+apple_music_url: "https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1488490669"
 slug: "the-bus-driver-s-prayer-other-stories-7802272"
 hideSummary: true
 cover:

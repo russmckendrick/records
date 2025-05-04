@@ -6,6 +6,7 @@ album_name: "The Best Of"
 date: 2020-08-02T13:48:10.000000Z
 release_date: "1979-10"
 release_id: "1800080"
+apple_music_url: "https://music.apple.com/gb/album/unleashed-in-the-east-live/207346224"
 slug: "the-best-of-1800080"
 hideSummary: true
 cover:

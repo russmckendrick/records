@@ -6,6 +6,7 @@ album_name: "Rush"
 date: 2017-03-07T08:40:12.000000Z
 release_date: "2020-09-04"
 release_id: "5887416"
+apple_music_url: "https://music.apple.com/gb/album/rush-remastered-2013/1440782998"
 slug: "rush-5887416"
 hideSummary: true
 cover:

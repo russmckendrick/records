@@ -6,6 +6,7 @@ album_name: "The Basketball Diaries (Original Motion Picture Soundtrack)"
 date: 2019-04-24T16:42:59.000000Z
 release_date: ""
 release_id: "13467780"
+apple_music_url: ""
 slug: "the-basketball-diaries-original-motion-picture-soundtrack-13467780"
 hideSummary: true
 cover:

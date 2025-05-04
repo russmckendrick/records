@@ -6,6 +6,7 @@ album_name: "Best In Show"
 date: 2025-03-16T01:57:23.000000Z
 release_date: "2007-10-30"
 release_id: "33423293"
+apple_music_url: "https://music.apple.com/gb/album/best-in-show/711944923"
 slug: "best-in-show-33423293"
 hideSummary: true
 cover:

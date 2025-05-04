@@ -6,6 +6,7 @@ album_name: "Symphonized"
 date: 2018-11-17T10:43:54.000000Z
 release_date: "2018-11-16"
 release_id: "12810189"
+apple_music_url: "https://music.apple.com/gb/album/symphonized-live/1434911196"
 slug: "symphonized-12810189"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Blackbox Life Recorder 21f / In A Room7 F760"
 date: 2023-07-28T05:33:20.000000Z
 release_date: "2023-07-28"
 release_id: "27636432"
+apple_music_url: "https://music.apple.com/gb/album/blackbox-life-recorder-21f-in-a-room7-f760-ep/1689421982"
 slug: "blackbox-life-recorder-21f-in-a-room7-f760-27636432"
 hideSummary: true
 cover:

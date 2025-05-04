@@ -6,6 +6,7 @@ album_name: "Pod"
 date: 2018-05-25T19:12:18.000000Z
 release_date: "1990-05-29"
 release_id: "11099702"
+apple_music_url: "https://music.apple.com/gb/album/pod/310996771"
 slug: "pod-11099702"
 hideSummary: true
 cover:

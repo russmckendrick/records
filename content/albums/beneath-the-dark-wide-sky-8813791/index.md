@@ -6,6 +6,7 @@ album_name: "Beneath The Dark Wide Sky"
 date: 2016-11-17T19:51:28.000000Z
 release_date: "2016-07-22"
 release_id: "8813791"
+apple_music_url: "https://music.apple.com/gb/album/beneath-the-dark-wide-sky/1648321577"
 slug: "beneath-the-dark-wide-sky-8813791"
 hideSummary: true
 cover:

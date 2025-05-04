@@ -6,6 +6,7 @@ album_name: "Presents The Lasters"
 date: 2019-10-12T10:17:33.000000Z
 release_date: "2019-10-11"
 release_id: "14253494"
+apple_music_url: "https://music.apple.com/gb/album/fred-deakin-presents-the-lasters/1480648770"
 slug: "presents-the-lasters-14253494"
 hideSummary: true
 cover:

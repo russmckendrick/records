@@ -6,6 +6,7 @@ album_name: "Cobras And Fire: The Mastermind Redux"
 date: 2015-11-30T18:22:28.000000Z
 release_date: "2015-10-02"
 release_id: "7628637"
+apple_music_url: "https://music.apple.com/gb/album/cobras-and-fire-the-mastermind-redux/1183622896"
 slug: "cobras-and-fire-the-mastermind-redux-7628637"
 hideSummary: true
 cover:

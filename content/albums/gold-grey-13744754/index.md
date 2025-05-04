@@ -6,6 +6,7 @@ album_name: "Gold & Grey"
 date: 2019-06-17T17:31:14.000000Z
 release_date: "2019-06-14"
 release_id: "13744754"
+apple_music_url: "https://music.apple.com/gb/album/gold-grey/1455859673"
 slug: "gold-grey-13744754"
 hideSummary: true
 cover:

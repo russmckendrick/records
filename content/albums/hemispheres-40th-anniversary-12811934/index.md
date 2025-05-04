@@ -6,6 +6,7 @@ album_name: "Hemispheres 40th Anniversary "
 date: 2018-11-20T18:51:07.000000Z
 release_date: "1978-10-29"
 release_id: "12811934"
+apple_music_url: "https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347"
 slug: "hemispheres-40th-anniversary-12811934"
 hideSummary: true
 cover:

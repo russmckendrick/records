@@ -6,6 +6,7 @@ album_name: "Two"
 date: 2022-05-08T06:21:41.000000Z
 release_date: "2024-04-05"
 release_id: "23144411"
+apple_music_url: "https://music.apple.com/us/album/two/1605798448"
 slug: "two-23144411"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "House Of Blues - Los Angeles 2003"
 date: 2021-08-09T03:27:40.000000Z
 release_date: ""
 release_id: "19649257"
+apple_music_url: ""
 slug: "house-of-blues-los-angeles-2003-19649257"
 hideSummary: true
 cover:

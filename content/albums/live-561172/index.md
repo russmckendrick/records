@@ -6,6 +6,7 @@ album_name: "(Live)"
 date: 2015-12-30T09:11:50.000000Z
 release_date: "2011-07-17"
 release_id: "561172"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of-peter-cook-dudley-more-vol-2/453879529"
 slug: "live-561172"
 hideSummary: true
 cover:

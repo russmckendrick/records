@@ -6,6 +6,7 @@ album_name: "Out Of The Blue"
 date: 2018-01-17T20:32:58.000000Z
 release_date: "2011-10-10"
 release_id: "11176316"
+apple_music_url: "https://music.apple.com/gb/album/the-essential-electric-light-orchestra/466451499"
 slug: "out-of-the-blue-11176316"
 hideSummary: true
 cover:

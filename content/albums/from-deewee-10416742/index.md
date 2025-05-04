@@ -6,6 +6,7 @@ album_name: "From Deewee"
 date: 2017-06-09T16:12:41.000000Z
 release_date: "2017-03-24"
 release_id: "10416742"
+apple_music_url: "https://music.apple.com/gb/album/from-deewee/1202928741"
 slug: "from-deewee-10416742"
 hideSummary: true
 cover:

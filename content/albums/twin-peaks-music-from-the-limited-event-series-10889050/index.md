@@ -6,6 +6,7 @@ album_name: "Twin Peaks (Music From The Limited Event Series)"
 date: 2017-09-23T11:28:39.000000Z
 release_date: ""
 release_id: "10889050"
+apple_music_url: ""
 slug: "twin-peaks-music-from-the-limited-event-series-10889050"
 hideSummary: true
 cover:

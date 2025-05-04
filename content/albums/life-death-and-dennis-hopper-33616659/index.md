@@ -6,6 +6,7 @@ album_name: "Life, Death And Dennis Hopper"
 date: 2025-04-06T02:34:32.000000Z
 release_date: "2025-04-04"
 release_id: "33616659"
+apple_music_url: "https://music.apple.com/gb/album/life-death-and-dennis-hopper/1785066667"
 slug: "life-death-and-dennis-hopper-33616659"
 hideSummary: true
 cover:

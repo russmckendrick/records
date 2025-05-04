@@ -6,6 +6,7 @@ album_name: "Flamagra"
 date: 2019-05-25T09:24:06.000000Z
 release_date: "2019-05-24"
 release_id: "13672614"
+apple_music_url: "https://music.apple.com/gb/album/flamagra/1458871217"
 slug: "flamagra-13672614"
 hideSummary: true
 cover:

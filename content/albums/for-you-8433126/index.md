@@ -6,6 +6,7 @@ album_name: "For You"
 date: 2016-06-27T17:46:20.000000Z
 release_date: "2017-06-02"
 release_id: "8433126"
+apple_music_url: "https://music.apple.com/gb/album/this-ones-for-you/1228887671"
 slug: "for-you-8433126"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Ocean Rain"
 date: 2017-03-08T19:51:32.000000Z
 release_date: "1987-07-06"
 release_id: "5803593"
+apple_music_url: "https://music.apple.com/gb/album/echo-the-bunnymen-expanded-version/281706730"
 slug: "ocean-rain-5803593"
 hideSummary: true
 cover:

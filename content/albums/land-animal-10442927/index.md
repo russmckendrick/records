@@ -6,6 +6,7 @@ album_name: "Land Animal"
 date: 2017-07-02T11:14:49.000000Z
 release_date: "2017-06-23"
 release_id: "10442927"
+apple_music_url: "https://music.apple.com/gb/album/land-animal/1225586747"
 slug: "land-animal-10442927"
 hideSummary: true
 cover:

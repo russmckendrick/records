@@ -6,6 +6,7 @@ album_name: "Slowdive"
 date: 2017-05-05T17:26:48.000000Z
 release_date: "2007-12-11"
 release_id: "10229694"
+apple_music_url: "https://music.apple.com/gb/album/slowdive-ep/270300100"
 slug: "slowdive-10229694"
 hideSummary: true
 cover:

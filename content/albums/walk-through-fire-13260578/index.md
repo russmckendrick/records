@@ -6,6 +6,7 @@ album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
 release_date: "2018-10-06"
 release_id: "13260578"
+apple_music_url: "https://music.apple.com/gb/album/walk-through-the-fire-single/1641144948"
 slug: "walk-through-fire-13260578"
 hideSummary: true
 cover:

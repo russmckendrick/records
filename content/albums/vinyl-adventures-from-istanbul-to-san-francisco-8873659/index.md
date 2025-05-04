@@ -6,6 +6,7 @@ album_name: "Vinyl Adventures From Istanbul To San Francisco"
 date: 2016-08-09T15:25:42.000000Z
 release_date: ""
 release_id: "8873659"
+apple_music_url: ""
 slug: "vinyl-adventures-from-istanbul-to-san-francisco-8873659"
 hideSummary: true
 cover:

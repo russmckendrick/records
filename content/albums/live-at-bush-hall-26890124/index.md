@@ -6,6 +6,7 @@ album_name: "Live At Bush Hall"
 date: 2023-05-02T10:22:53.000000Z
 release_date: "2023-03-24"
 release_id: "26890124"
+apple_music_url: "https://music.apple.com/gb/album/live-at-bush-hall/1669295690"
 slug: "live-at-bush-hall-26890124"
 hideSummary: true
 cover:

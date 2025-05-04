@@ -6,6 +6,7 @@ album_name: "Where Have All The Flowers Gone?"
 date: 2019-01-19T10:36:49.000000Z
 release_date: "1998-03-17"
 release_id: "2943563"
+apple_music_url: "https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395"
 slug: "where-have-all-the-flowers-gone-2943563"
 hideSummary: true
 cover:

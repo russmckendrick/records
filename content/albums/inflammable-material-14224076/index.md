@@ -6,6 +6,7 @@ album_name: "Inflammable Material"
 date: 2021-08-31T12:34:26.000000Z
 release_date: "1979"
 release_id: "14224076"
+apple_music_url: "https://music.apple.com/gb/album/inflammable-material/697417504"
 slug: "inflammable-material-14224076"
 hideSummary: true
 cover:

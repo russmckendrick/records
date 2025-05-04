@@ -6,6 +6,7 @@ album_name: "Only The Strong Survive (Covers Vol. 1)"
 date: 2022-11-14T05:20:50.000000Z
 release_date: "2022-11-11"
 release_id: "25126471"
+apple_music_url: "https://music.apple.com/gb/album/only-the-strong-survive/1646713825"
 slug: "only-the-strong-survive-covers-vol-1-25126471"
 hideSummary: true
 cover:

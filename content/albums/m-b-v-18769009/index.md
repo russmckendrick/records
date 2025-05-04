@@ -6,6 +6,7 @@ album_name: "m b v"
 date: 2021-05-21T05:29:13.000000Z
 release_date: "2020-04-28"
 release_id: "18769009"
+apple_music_url: "https://music.apple.com/gb/album/my-bloody-valentine/1511342339"
 slug: "m-b-v-18769009"
 hideSummary: true
 cover:

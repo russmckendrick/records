@@ -6,6 +6,7 @@ album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21T16:37:49.000000Z
 release_date: "1984-05-08"
 release_id: "4418438"
+apple_music_url: "https://music.apple.com/gb/album/legend-the-best-of-bob-marley-and-the-wailers-deluxe-edition/1496696597"
 slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
 hideSummary: true
 cover:

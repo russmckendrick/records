@@ -6,6 +6,7 @@ album_name: "Gris-Gris"
 date: 2015-08-10T18:40:06.000000Z
 release_date: "1968-01-22"
 release_id: "4673220"
+apple_music_url: "https://music.apple.com/gb/album/gris-gris/106225386"
 slug: "gris-gris-4673220"
 hideSummary: true
 cover:

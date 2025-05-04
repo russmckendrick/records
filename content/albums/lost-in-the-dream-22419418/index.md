@@ -6,6 +6,7 @@ album_name: "Lost In The Dream"
 date: 2025-03-03T06:55:57.000000Z
 release_date: "2014-03-17"
 release_id: "22419418"
+apple_music_url: "https://music.apple.com/gb/album/lost-in-the-dream/765568650"
 slug: "lost-in-the-dream-22419418"
 hideSummary: true
 cover:

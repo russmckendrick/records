@@ -6,6 +6,7 @@ album_name: "No Jacket Required"
 date: 2025-03-29T02:19:48.000000Z
 release_date: "1985-01-25"
 release_id: "27617265"
+apple_music_url: "https://music.apple.com/gb/album/no-jacket-required-2016-remastered/1098944284"
 slug: "no-jacket-required-27617265"
 hideSummary: true
 cover:

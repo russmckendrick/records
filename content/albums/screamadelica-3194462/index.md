@@ -6,6 +6,7 @@ album_name: "Screamadelica"
 date: 2015-08-09T08:40:30.000000Z
 release_date: "1991-09-23"
 release_id: "3194462"
+apple_music_url: "https://music.apple.com/gb/album/screamadelica/262848981"
 slug: "screamadelica-3194462"
 hideSummary: true
 cover:

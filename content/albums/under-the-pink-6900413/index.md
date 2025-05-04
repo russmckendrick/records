@@ -6,6 +6,7 @@ album_name: "Under The Pink"
 date: 2017-05-19T08:38:46.000000Z
 release_date: "1994-01-31"
 release_id: "6900413"
+apple_music_url: "https://music.apple.com/gb/album/under-the-pink-remastered/981366461"
 slug: "under-the-pink-6900413"
 hideSummary: true
 cover:

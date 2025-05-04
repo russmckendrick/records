@@ -6,6 +6,7 @@ album_name: "Lamb"
 date: 2016-11-22T17:48:57.000000Z
 release_date: "1996-01-01"
 release_id: "5473403"
+apple_music_url: "https://music.apple.com/gb/album/lamb/1442928989"
 slug: "lamb-5473403"
 hideSummary: true
 cover:

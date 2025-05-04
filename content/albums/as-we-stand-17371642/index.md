@@ -6,6 +6,7 @@ album_name: "As We Stand"
 date: 2021-02-12T06:46:03.000000Z
 release_date: "2020-11-27"
 release_id: "17371642"
+apple_music_url: "https://music.apple.com/gb/album/as-we-stand-feat-ruth-goller-moses-boyd/1617398228"
 slug: "as-we-stand-17371642"
 hideSummary: true
 cover:

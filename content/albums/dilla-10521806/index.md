@@ -6,6 +6,7 @@ album_name: "Dilla"
 date: 2017-10-13T18:10:42.000000Z
 release_date: "2017-06-30"
 release_id: "10521806"
+apple_music_url: "https://music.apple.com/gb/album/dilla/1238569093"
 slug: "dilla-10521806"
 hideSummary: true
 cover:

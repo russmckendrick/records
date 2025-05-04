@@ -6,6 +6,7 @@ album_name: "Redlight"
 date: 2019-04-17T18:19:51.000000Z
 release_date: "1997-09-23"
 release_id: "10018831"
+apple_music_url: "https://music.apple.com/gb/album/redlight/1485047063"
 slug: "redlight-10018831"
 hideSummary: true
 cover:

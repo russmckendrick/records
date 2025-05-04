@@ -6,6 +6,7 @@ album_name: "All In: Unreleased & Rarities (The New West Years)"
 date: 2024-08-13T04:37:34.000000Z
 release_date: "2024-08-09"
 release_id: "31381727"
+apple_music_url: "https://music.apple.com/gb/album/all-in-unreleased-rarities-the-new-west-years/1750016771"
 slug: "all-in-unreleased-rarities-the-new-west-years-31381727"
 hideSummary: true
 cover:

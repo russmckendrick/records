@@ -6,6 +6,7 @@ album_name: "An Introduction To Syd Barrett"
 date: 2023-01-15T02:20:28.000000Z
 release_date: ""
 release_id: "25396930"
+apple_music_url: ""
 slug: "an-introduction-to-syd-barrett-25396930"
 hideSummary: true
 cover:

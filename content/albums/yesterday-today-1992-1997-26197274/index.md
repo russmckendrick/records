@@ -6,6 +6,7 @@ album_name: "Yesterday Today 1992-1997"
 date: 2023-03-01T00:24:56.000000Z
 release_date: ""
 release_id: "26197274"
+apple_music_url: ""
 slug: "yesterday-today-1992-1997-26197274"
 hideSummary: true
 cover:

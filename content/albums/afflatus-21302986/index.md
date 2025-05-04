@@ -6,6 +6,7 @@ album_name: "Afflatus"
 date: 2022-02-12T05:32:51.000000Z
 release_date: "2021-04-16"
 release_id: "21302986"
+apple_music_url: "https://music.apple.com/gb/album/afflatus/1711108953"
 slug: "afflatus-21302986"
 hideSummary: true
 cover:

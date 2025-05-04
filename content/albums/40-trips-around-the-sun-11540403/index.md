@@ -6,6 +6,7 @@ album_name: "40 Trips Around The Sun"
 date: 2018-03-01T19:54:53.000000Z
 release_date: "2018-02-09"
 release_id: "11540403"
+apple_music_url: "https://music.apple.com/gb/album/greatest-hits-40-trips-around-the-sun/1310067089"
 slug: "40-trips-around-the-sun-11540403"
 hideSummary: true
 cover:

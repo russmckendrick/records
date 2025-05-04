@@ -6,6 +6,7 @@ album_name: "TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)"
 date: 2016-03-29T16:24:24.000000Z
 release_date: "2010-12-03"
 release_id: "7347762"
+apple_music_url: "https://music.apple.com/gb/album/tron-legacy-original-motion-picture-soundtrack/1440617583"
 slug: "tron-legacy-vinyl-edition-motion-picture-soundtrack-7347762"
 hideSummary: true
 cover:

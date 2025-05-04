@@ -6,6 +6,7 @@ album_name: "Music From The Motion Picture Soundtrack - Beverly Hills Cop"
 date: 2017-03-25T14:28:06.000000Z
 release_date: ""
 release_id: "7781680"
+apple_music_url: ""
 slug: "music-from-the-motion-picture-soundtrack-beverly-hills-cop-7781680"
 hideSummary: true
 cover:

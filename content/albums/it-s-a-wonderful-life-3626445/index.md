@@ -6,6 +6,7 @@ album_name: "It's A Wonderful Life"
 date: 2019-04-26T12:45:21.000000Z
 release_date: "2001-06-11"
 release_id: "3626445"
+apple_music_url: "https://music.apple.com/gb/album/its-a-wonderful-life/1461512623"
 slug: "it-s-a-wonderful-life-3626445"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Green"
 date: 2016-01-20T19:29:13.000000Z
 release_date: "2024-10-04"
 release_id: "1289867"
+apple_music_url: "https://music.apple.com/gb/album/r-e-m-single/1771353713"
 slug: "green-1289867"
 hideSummary: true
 cover:

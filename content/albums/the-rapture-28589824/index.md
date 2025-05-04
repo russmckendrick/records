@@ -6,6 +6,7 @@ album_name: "The Rapture"
 date: 2023-10-22T06:31:57.000000Z
 release_date: "2002-11-12"
 release_id: "28589824"
+apple_music_url: "https://music.apple.com/gb/album/the-best-of/1450958726"
 slug: "the-rapture-28589824"
 hideSummary: true
 cover:

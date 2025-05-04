@@ -6,6 +6,7 @@ album_name: "Ege Bamyasi"
 date: 2019-11-08T19:39:57.000000Z
 release_date: "2013-04-20"
 release_id: "14373251"
+apple_music_url: "https://music.apple.com/gb/album/cans-ege-bamyasi/1555462408"
 slug: "ege-bamyasi-14373251"
 hideSummary: true
 cover:

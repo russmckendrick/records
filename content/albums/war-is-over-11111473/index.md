@@ -6,6 +6,7 @@ album_name: "War Is Over"
 date: 2017-11-12T13:25:28.000000Z
 release_date: "2017-11-03"
 release_id: "11111473"
+apple_music_url: "https://music.apple.com/gb/album/war-is-over/1696526158"
 slug: "war-is-over-11111473"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Is This It"
 date: 2016-04-30T15:19:24.000000Z
 release_date: "2001-07-30"
 release_id: "3146367"
+apple_music_url: "https://music.apple.com/gb/album/is-this-it/269080434"
 slug: "is-this-it-3146367"
 hideSummary: true
 cover:

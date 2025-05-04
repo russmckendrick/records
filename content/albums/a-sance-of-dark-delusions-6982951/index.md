@@ -6,6 +6,7 @@ album_name: "A Séance Of Dark Delusions"
 date: 2015-08-21T17:40:40.000000Z
 release_date: "2015-04-27"
 release_id: "6982951"
+apple_music_url: "https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300"
 slug: "a-sance-of-dark-delusions-6982951"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Sleep's Holy Mountain"
 date: 2018-08-23T19:24:24.000000Z
 release_date: "1992-11-01"
 release_id: "8153400"
+apple_music_url: "https://music.apple.com/gb/album/sleeps-holy-mountain/43359181"
 slug: "sleep-s-holy-mountain-8153400"
 hideSummary: true
 cover:

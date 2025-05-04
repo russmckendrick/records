@@ -6,6 +6,7 @@ album_name: "Origin Vol. 1"
 date: 2020-07-06T12:40:06.000000Z
 release_date: "2024-03-10"
 release_id: "15417224"
+apple_music_url: "https://music.apple.com/gb/album/origins-original-soundtrack-vol-1-ep/1735235397"
 slug: "origin-vol-1-15417224"
 hideSummary: true
 cover:

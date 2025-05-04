@@ -6,6 +6,7 @@ album_name: "Now For A Feast!"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "1988-11-01"
 release_id: "958446"
+apple_music_url: "https://music.apple.com/gb/album/now-for-a-feast/1577268979"
 slug: "now-for-a-feast-958446"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dummy"
 date: 2015-08-09T08:27:39.000000Z
 release_date: "1994-01-01"
 release_id: "6326631"
+apple_music_url: "https://music.apple.com/gb/album/dummy/1440653096"
 slug: "dummy-6326631"
 hideSummary: true
 cover:

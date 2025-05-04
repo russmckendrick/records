@@ -6,6 +6,7 @@ album_name: "Mind Games"
 date: 2024-07-16T05:08:51.000000Z
 release_date: "1973-01-01"
 release_id: "31202122"
+apple_music_url: "https://music.apple.com/gb/album/mind-games/1440854146"
 slug: "mind-games-31202122"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "White Music"
 date: 2020-08-02T13:36:09.000000Z
 release_date: "2022-06-17"
 release_id: "1067913"
+apple_music_url: "https://music.apple.com/gb/album/xtc-single/1623091329"
 slug: "white-music-1067913"
 hideSummary: true
 cover:

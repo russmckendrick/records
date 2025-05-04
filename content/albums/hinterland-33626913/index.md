@@ -6,6 +6,7 @@ album_name: "Hinterland"
 date: 2025-04-08T01:54:00.000000Z
 release_date: ""
 release_id: "33626913"
+apple_music_url: ""
 slug: "hinterland-33626913"
 hideSummary: true
 cover:

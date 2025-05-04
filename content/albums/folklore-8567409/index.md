@@ -6,6 +6,7 @@ album_name: "Folklore"
 date: 2016-05-25T18:46:18.000000Z
 release_date: "2016-05-27"
 release_id: "8567409"
+apple_music_url: "https://music.apple.com/gb/album/folklore/1096218321"
 slug: "folklore-8567409"
 hideSummary: true
 cover:

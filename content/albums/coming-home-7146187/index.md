@@ -6,6 +6,7 @@ album_name: "Coming Home"
 date: 2015-08-09T08:35:09.000000Z
 release_date: "2015-06-23"
 release_id: "7146187"
+apple_music_url: "https://music.apple.com/gb/album/coming-home-deluxe/1079234232"
 slug: "coming-home-7146187"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "MTV Unplugged In New York"
 date: 2016-04-15T17:26:11.000000Z
 release_date: "1994-11-01"
 release_id: "1901246"
+apple_music_url: "https://music.apple.com/gb/album/mtv-unplugged-in-new-york-live-acoustic/1440892370"
 slug: "mtv-unplugged-in-new-york-1901246"
 hideSummary: true
 cover:

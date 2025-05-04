@@ -6,6 +6,7 @@ album_name: "Outlandos D'Amour"
 date: 2016-12-08T18:39:16.000000Z
 release_date: "1978-11-17"
 release_id: "2542498"
+apple_music_url: "https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181"
 slug: "outlandos-d-amour-2542498"
 hideSummary: true
 cover:

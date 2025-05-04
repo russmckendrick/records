@@ -6,6 +6,7 @@ album_name: "The Rest Of The Best"
 date: 2025-03-24T10:05:04.000000Z
 release_date: "2001-04-11"
 release_id: "33342023"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980"
 slug: "the-rest-of-the-best-33342023"
 hideSummary: true
 cover:

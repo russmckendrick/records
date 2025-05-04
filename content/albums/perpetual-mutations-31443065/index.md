@@ -6,6 +6,7 @@ album_name: "Perpetual Mutations"
 date: 2024-08-10T05:25:27.000000Z
 release_date: "2024-07-26"
 release_id: "31443065"
+apple_music_url: "https://music.apple.com/gb/album/perpetual-mutations/1765561069"
 slug: "perpetual-mutations-31443065"
 hideSummary: true
 cover:

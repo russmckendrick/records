@@ -6,6 +6,7 @@ album_name: "The Waterfall"
 date: 2015-08-09T08:39:57.000000Z
 release_date: "2015-05-04"
 release_id: "6959105"
+apple_music_url: "https://music.apple.com/gb/album/the-waterfall/971682903"
 slug: "the-waterfall-6959105"
 hideSummary: true
 cover:

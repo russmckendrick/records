@@ -6,6 +6,7 @@ album_name: "Indie Top 20 Volume XI"
 date: 2017-04-14T14:01:00.000000Z
 release_date: ""
 release_id: "589039"
+apple_music_url: ""
 slug: "indie-top-20-volume-xi-589039"
 hideSummary: true
 cover:

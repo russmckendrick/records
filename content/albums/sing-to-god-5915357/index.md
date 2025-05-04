@@ -6,6 +6,7 @@ album_name: "Sing To God"
 date: 2016-03-03T18:17:05.000000Z
 release_date: "1995-01-01"
 release_id: "5915357"
+apple_music_url: "https://music.apple.com/gb/album/sing-to-god/1551386162"
 slug: "sing-to-god-5915357"
 hideSummary: true
 cover:

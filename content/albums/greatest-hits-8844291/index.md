@@ -6,6 +6,7 @@ album_name: "Greatest Hits"
 date: 2017-02-05T12:26:11.000000Z
 release_date: "1976-11-09"
 release_id: "8844291"
+apple_music_url: "https://music.apple.com/gb/album/tom-petty-and-the-heatbreakers/1755217493"
 slug: "greatest-hits-8844291"
 hideSummary: true
 cover:

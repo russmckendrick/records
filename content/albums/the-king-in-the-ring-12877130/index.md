@@ -6,6 +6,7 @@ album_name: "The King In The Ring"
 date: 2018-12-19T19:49:56.000000Z
 release_date: "2007-01-02"
 release_id: "12877130"
+apple_music_url: "https://music.apple.com/gb/album/the-essential-elvis-presley/217633715"
 slug: "the-king-in-the-ring-12877130"
 hideSummary: true
 cover:

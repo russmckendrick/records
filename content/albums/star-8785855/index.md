@@ -6,6 +6,7 @@ album_name: "Star"
 date: 2016-07-18T17:38:17.000000Z
 release_date: "1993-01-25"
 release_id: "8785855"
+apple_music_url: "https://music.apple.com/gb/album/star/1450116246"
 slug: "star-8785855"
 hideSummary: true
 cover:

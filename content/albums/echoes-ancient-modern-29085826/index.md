@@ -6,6 +6,7 @@ album_name: "Echoes - Ancient & Modern"
 date: 2023-12-16T01:13:04.000000Z
 release_date: "2023-12-01"
 release_id: "29085826"
+apple_music_url: "https://music.apple.com/gb/album/echoes-ancient-modern/1707164661"
 slug: "echoes-ancient-modern-29085826"
 hideSummary: true
 cover:

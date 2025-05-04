@@ -6,6 +6,7 @@ album_name: "Now That's What I Call An Era The Sound Of The Suburbs 1977～1980"
 date: 2025-02-16T03:14:38.000000Z
 release_date: "2025-02-07"
 release_id: "33121413"
+apple_music_url: "https://music.apple.com/gb/album/now-thats-what-i-call-an-era-sound-of-the-suburbs/1790229187"
 slug: "now-that-s-what-i-call-an-era-the-sound-of-the-suburbs-1977-1980-33121413"
 hideSummary: true
 cover:

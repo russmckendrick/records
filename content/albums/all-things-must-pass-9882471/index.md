@@ -6,6 +6,7 @@ album_name: "All Things Must Pass"
 date: 2017-02-24T09:40:13.000000Z
 release_date: "2021-05-28"
 release_id: "9882471"
+apple_music_url: "https://music.apple.com/gb/album/all-things-must-pass-single/1565924539"
 slug: "all-things-must-pass-9882471"
 hideSummary: true
 cover:

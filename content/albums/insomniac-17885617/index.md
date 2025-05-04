@@ -6,6 +6,7 @@ album_name: "Insomniac"
 date: 2021-03-21T09:19:41.000000Z
 release_date: "1995-10-10"
 release_id: "17885617"
+apple_music_url: "https://music.apple.com/gb/album/insomniac/1160079960"
 slug: "insomniac-17885617"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Heart Of Saturday Night"
 date: 2018-05-25T19:10:51.000000Z
 release_date: "1974-10-15"
 release_id: "11978889"
+apple_music_url: "https://music.apple.com/gb/album/the-heart-of-saturday-night-remastered/1485071401"
 slug: "the-heart-of-saturday-night-11978889"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Cutting Edge 80s (The Alternative Sound Of A Decade)"
 date: 2018-08-06T18:41:52.000000Z
 release_date: ""
 release_id: "10555246"
+apple_music_url: ""
 slug: "cutting-edge-80s-the-alternative-sound-of-a-decade-10555246"
 hideSummary: true
 cover:

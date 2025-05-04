@@ -6,6 +6,7 @@ album_name: "Just For A Day"
 date: 2020-07-17T12:26:17.000000Z
 release_date: "1991-09-02"
 release_id: "15633294"
+apple_music_url: "https://music.apple.com/gb/album/just-for-a-day/259842692"
 slug: "just-for-a-day-15633294"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Adventures Of Grandmaster Flash On The Wheels Of Steel"
 date: 2020-08-02T13:29:34.000000Z
 release_date: "1992-01-01"
 release_id: "444155"
+apple_music_url: "https://music.apple.com/gb/album/grandmaster-flash-grandmaster-melle-mel-the-furious/1435636234"
 slug: "the-adventures-of-grandmaster-flash-on-the-wheels-of-steel-444155"
 hideSummary: true
 cover:

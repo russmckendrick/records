@@ -6,6 +6,7 @@ album_name: "The Big Lad In The Windmill"
 date: 2018-09-07T18:30:44.000000Z
 release_date: "1986-01-01"
 release_id: "1593537"
+apple_music_url: "https://music.apple.com/gb/album/the-big-lad-in-the-windmill/714393070"
 slug: "the-big-lad-in-the-windmill-1593537"
 hideSummary: true
 cover:

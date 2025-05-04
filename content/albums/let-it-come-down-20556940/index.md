@@ -6,6 +6,7 @@ album_name: "Let It Come Down"
 date: 2021-10-28T05:19:50.000000Z
 release_date: "2001-09-17"
 release_id: "20556940"
+apple_music_url: "https://music.apple.com/gb/album/let-it-come-down/1502492981"
 slug: "let-it-come-down-20556940"
 hideSummary: true
 cover:

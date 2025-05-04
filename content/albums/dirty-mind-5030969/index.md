@@ -6,6 +6,7 @@ album_name: "Dirty Mind"
 date: 2016-10-23T08:56:22.000000Z
 release_date: "1980-10-08"
 release_id: "5030969"
+apple_music_url: "https://music.apple.com/gb/album/dirty-mind/214145168"
 slug: "dirty-mind-5030969"
 hideSummary: true
 cover:

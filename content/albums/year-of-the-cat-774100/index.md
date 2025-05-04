@@ -6,6 +6,7 @@ album_name: "Year Of The Cat"
 date: 2017-01-25T18:25:25.000000Z
 release_date: "1976"
 release_id: "774100"
+apple_music_url: "https://music.apple.com/gb/album/year-of-the-cat-remastered/695528177"
 slug: "year-of-the-cat-774100"
 hideSummary: true
 cover:

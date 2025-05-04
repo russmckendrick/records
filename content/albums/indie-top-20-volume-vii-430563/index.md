@@ -6,6 +6,7 @@ album_name: "Indie Top 20 Volume VII"
 date: 2016-11-16T13:03:18.000000Z
 release_date: ""
 release_id: "430563"
+apple_music_url: ""
 slug: "indie-top-20-volume-vii-430563"
 hideSummary: true
 cover:

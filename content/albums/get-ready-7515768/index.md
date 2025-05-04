@@ -6,6 +6,7 @@ album_name: "Get Ready"
 date: 2015-10-04T11:28:04.000000Z
 release_date: "2021-08-06"
 release_id: "7515768"
+apple_music_url: "https://music.apple.com/gb/album/sinner-get-ready/1570359456"
 slug: "get-ready-7515768"
 hideSummary: true
 cover:

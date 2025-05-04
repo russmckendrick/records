@@ -6,6 +6,7 @@ album_name: "Belinda"
 date: 2022-01-09T03:56:30.000000Z
 release_date: "2015-05-25"
 release_id: "18914803"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best-of-belinda-carlisle/996508709"
 slug: "belinda-18914803"
 hideSummary: true
 cover:

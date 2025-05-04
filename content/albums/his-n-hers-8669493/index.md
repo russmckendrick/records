@@ -6,6 +6,7 @@ album_name: "His 'N' Hers"
 date: 2016-06-22T05:19:28.000000Z
 release_date: "1994-01-01"
 release_id: "8669493"
+apple_music_url: "https://music.apple.com/gb/album/his-n-hers/1444124458"
 slug: "his-n-hers-8669493"
 hideSummary: true
 cover:

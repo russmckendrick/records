@@ -6,6 +6,7 @@ album_name: "Kubrick"
 date: 2016-01-24T14:09:31.000000Z
 release_date: ""
 release_id: "7815131"
+apple_music_url: ""
 slug: "kubrick-7815131"
 hideSummary: true
 cover:

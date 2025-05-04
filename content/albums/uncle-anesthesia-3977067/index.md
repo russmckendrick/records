@@ -6,6 +6,7 @@ album_name: "Uncle Anesthesia"
 date: 2022-06-24T05:51:21.000000Z
 release_date: "1991-01-24"
 release_id: "3977067"
+apple_music_url: "https://music.apple.com/gb/album/uncle-anesthesia/268500515"
 slug: "uncle-anesthesia-3977067"
 hideSummary: true
 cover:

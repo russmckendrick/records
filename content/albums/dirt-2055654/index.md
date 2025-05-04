@@ -6,6 +6,7 @@ album_name: "Dirt"
 date: 2019-09-01T09:47:37.000000Z
 release_date: "1995-11-07"
 release_id: "2055654"
+apple_music_url: "https://music.apple.com/gb/album/alice-in-chains/158711724"
 slug: "dirt-2055654"
 hideSummary: true
 cover:

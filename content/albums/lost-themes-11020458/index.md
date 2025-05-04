@@ -6,6 +6,7 @@ album_name: "Lost Themes"
 date: 2018-02-08T18:31:13.000000Z
 release_date: "2015-10-16"
 release_id: "11020458"
+apple_music_url: "https://music.apple.com/gb/album/lost-themes-remixed/1036254173"
 slug: "lost-themes-11020458"
 hideSummary: true
 cover:

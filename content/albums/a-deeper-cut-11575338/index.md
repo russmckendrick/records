@@ -6,6 +6,7 @@ album_name: "A Deeper Cut"
 date: 2018-02-16T18:48:36.000000Z
 release_date: "2018-02-16"
 release_id: "11575338"
+apple_music_url: "https://music.apple.com/gb/album/a-deeper-cut/1301389456"
 slug: "a-deeper-cut-11575338"
 hideSummary: true
 cover:

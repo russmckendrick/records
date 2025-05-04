@@ -6,6 +6,7 @@ album_name: "Small Changes"
 date: 2024-11-24T03:30:29.000000Z
 release_date: "2024-11-22"
 release_id: "32384205"
+apple_music_url: "https://music.apple.com/gb/album/small-changes/1765573122"
 slug: "small-changes-32384205"
 hideSummary: true
 cover:

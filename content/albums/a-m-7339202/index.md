@@ -6,6 +6,7 @@ album_name: "A.M."
 date: 2017-03-17T18:37:27.000000Z
 release_date: "2013-07-16"
 release_id: "7339202"
+apple_music_url: "https://music.apple.com/gb/album/a-m/926194354"
 slug: "a-m-7339202"
 hideSummary: true
 cover:

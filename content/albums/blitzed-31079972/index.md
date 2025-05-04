@@ -6,6 +6,7 @@ album_name: "Blitzed!"
 date: 2024-07-02T10:28:31.000000Z
 release_date: "2021-03-12"
 release_id: "31079972"
+apple_music_url: "https://music.apple.com/gb/album/blitzed/1557605777"
 slug: "blitzed-31079972"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Taste Of Mark Morriss"
 date: 2015-12-15T18:07:13.000000Z
 release_date: "2015-07-24"
 release_id: "7449821"
+apple_music_url: "https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149"
 slug: "the-taste-of-mark-morriss-7449821"
 hideSummary: true
 cover:

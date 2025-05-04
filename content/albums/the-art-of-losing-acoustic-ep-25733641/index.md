@@ -6,6 +6,7 @@ album_name: "The Art of Losing - Acoustic EP"
 date: 2023-01-13T05:13:29.000000Z
 release_date: ""
 release_id: "25733641"
+apple_music_url: ""
 slug: "the-art-of-losing-acoustic-ep-25733641"
 hideSummary: true
 cover:

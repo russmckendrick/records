@@ -6,6 +6,7 @@ album_name: "Live At Ernesto's!"
 date: 2020-08-14T16:53:28.000000Z
 release_date: "2000-05-09"
 release_id: "15686619"
+apple_music_url: "https://music.apple.com/gb/album/live-at-ernestos/1485048839"
 slug: "live-at-ernesto-s-15686619"
 hideSummary: true
 cover:

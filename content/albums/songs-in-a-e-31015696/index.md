@@ -6,6 +6,7 @@ album_name: "Songs In A&E"
 date: 2024-07-06T04:46:47.000000Z
 release_date: "2008-05-26"
 release_id: "31015696"
+apple_music_url: "https://music.apple.com/gb/album/songs-in-a-e/1708958804"
 slug: "songs-in-a-e-31015696"
 hideSummary: true
 cover:

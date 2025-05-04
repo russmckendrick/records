@@ -6,6 +6,7 @@ album_name: "The Best & The Rest Of The Island Years 74-78"
 date: 2018-05-05T10:12:53.000000Z
 release_date: ""
 release_id: "11894228"
+apple_music_url: ""
 slug: "the-best-the-rest-of-the-island-years-74-78-11894228"
 hideSummary: true
 cover:

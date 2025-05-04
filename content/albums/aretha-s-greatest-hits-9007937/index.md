@@ -6,6 +6,7 @@ album_name: "Aretha's Greatest Hits"
 date: 2016-09-06T16:36:37.000000Z
 release_date: "2014-10-17"
 release_id: "9007937"
+apple_music_url: "https://music.apple.com/gb/album/aretha-franklin-sings-the-great-diva-classics/923074872"
 slug: "aretha-s-greatest-hits-9007937"
 hideSummary: true
 cover:

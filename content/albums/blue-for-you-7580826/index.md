@@ -6,6 +6,7 @@ album_name: "Blue For You"
 date: 2016-05-23T18:27:31.000000Z
 release_date: "1976-03"
 release_id: "7580826"
+apple_music_url: "https://music.apple.com/gb/album/blue-for-you/1444058292"
 slug: "blue-for-you-7580826"
 hideSummary: true
 cover:

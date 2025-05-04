@@ -6,6 +6,7 @@ album_name: "Pinball Wanderer"
 date: 2025-04-03T01:11:58.000000Z
 release_date: "2025-02-28"
 release_id: "33275331"
+apple_music_url: "https://music.apple.com/gb/album/pinball-wanderer/1783760250"
 slug: "pinball-wanderer-33275331"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Babelsberg"
 date: 2018-06-08T17:58:58.000000Z
 release_date: "2018-06-08"
 release_id: "12105452"
+apple_music_url: "https://music.apple.com/gb/album/babelsberg/1362980945"
 slug: "babelsberg-12105452"
 hideSummary: true
 cover:

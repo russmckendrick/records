@@ -6,6 +6,7 @@ album_name: "Falling Deeper"
 date: 2017-05-06T08:42:43.000000Z
 release_date: "2011-09-13"
 release_id: "3110214"
+apple_music_url: "https://music.apple.com/gb/album/falling-deeper/684127793"
 slug: "falling-deeper-3110214"
 hideSummary: true
 cover:

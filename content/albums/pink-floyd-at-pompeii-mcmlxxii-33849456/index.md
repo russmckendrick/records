@@ -6,6 +6,7 @@ album_name: "Pink Floyd At Pompeii MCMLXXII"
 date: 2025-05-02T02:18:58.000000Z
 release_date: "2025-05-02"
 release_id: "33849456"
+apple_music_url: "https://music.apple.com/gb/album/pink-floyd-at-pompeii-mcmlxxii-2025-mix/1797084920"
 slug: "pink-floyd-at-pompeii-mcmlxxii-33849456"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "New Funky Nation"
 date: 2020-08-01T12:47:34.000000Z
 release_date: "1990-01-01"
 release_id: "712190"
+apple_music_url: "https://music.apple.com/gb/album/new-funky-nation/1443498528"
 slug: "new-funky-nation-712190"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fever Ray"
 date: 2022-11-14T05:21:46.000000Z
 release_date: "2009-01-12"
 release_id: "1695082"
+apple_music_url: "https://music.apple.com/gb/album/fever-ray/671901496"
 slug: "fever-ray-1695082"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Underfall Yard"
 date: 2021-04-22T04:45:27.000000Z
 release_date: "2009-12-15"
 release_id: "18321256"
+apple_music_url: "https://music.apple.com/gb/album/the-underfall-yard/348683717"
 slug: "the-underfall-yard-18321256"
 hideSummary: true
 cover:

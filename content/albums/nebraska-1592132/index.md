@@ -6,6 +6,7 @@ album_name: "Nebraska"
 date: 2015-09-21T17:34:23.000000Z
 release_date: "1982-09-20"
 release_id: "1592132"
+apple_music_url: "https://music.apple.com/gb/album/nebraska/185798980"
 slug: "nebraska-1592132"
 hideSummary: true
 cover:

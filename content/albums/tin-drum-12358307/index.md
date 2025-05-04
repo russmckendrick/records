@@ -6,6 +6,7 @@ album_name: "Tin Drum"
 date: 2018-08-29T18:39:11.000000Z
 release_date: "1981-11"
 release_id: "12358307"
+apple_music_url: "https://music.apple.com/gb/album/tin-drum-2003-remaster/714661649"
 slug: "tin-drum-12358307"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "In Absentia"
 date: 2018-03-12T19:33:13.000000Z
 release_date: "2002-09-24"
 release_id: "11632553"
+apple_music_url: "https://music.apple.com/gb/album/in-absentia/1770062036"
 slug: "in-absentia-11632553"
 hideSummary: true
 cover:

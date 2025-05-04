@@ -6,6 +6,7 @@ album_name: "Wind & Wuthering"
 date: 2024-09-07T06:15:13.000000Z
 release_date: "1976-12-27"
 release_id: "26040325"
+apple_music_url: "https://music.apple.com/gb/album/wind-wuthering-2007-remaster/1694760566"
 slug: "wind-wuthering-26040325"
 hideSummary: true
 cover:

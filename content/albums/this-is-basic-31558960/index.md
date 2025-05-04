@@ -6,6 +6,7 @@ album_name: "This Is BASIC"
 date: 2024-09-07T06:22:26.000000Z
 release_date: "2024-09-06"
 release_id: "31558960"
+apple_music_url: "https://music.apple.com/gb/album/this-is-basic/1751798961"
 slug: "this-is-basic-31558960"
 hideSummary: true
 cover:

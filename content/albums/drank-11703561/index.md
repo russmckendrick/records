@@ -6,6 +6,7 @@ album_name: "Drank"
 date: 2018-03-16T16:38:54.000000Z
 release_date: "2018-02-15"
 release_id: "11703561"
+apple_music_url: "https://music.apple.com/gb/album/drank/1346721630"
 slug: "drank-11703561"
 hideSummary: true
 cover:

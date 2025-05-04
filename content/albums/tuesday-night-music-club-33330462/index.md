@@ -6,6 +6,7 @@ album_name: "Tuesday Night Music Club"
 date: 2025-03-23T05:33:42.000000Z
 release_date: "1993-08-03"
 release_id: "33330462"
+apple_music_url: "https://music.apple.com/gb/album/tuesday-night-music-club/1440918803"
 slug: "tuesday-night-music-club-33330462"
 hideSummary: true
 cover:

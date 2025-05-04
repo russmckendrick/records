@@ -6,6 +6,7 @@ album_name: "Zeroes And Ones - The Best Of"
 date: 2022-10-29T04:27:30.000000Z
 release_date: "2013-09-17"
 release_id: "24975325"
+apple_music_url: "https://music.apple.com/gb/album/from-here-to-now-to-you/1435611352"
 slug: "zeroes-and-ones-the-best-of-24975325"
 hideSummary: true
 cover:

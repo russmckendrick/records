@@ -6,6 +6,7 @@ album_name: "Pygmalion"
 date: 2020-08-14T16:55:06.000000Z
 release_date: "1995-02-06"
 release_id: "15765429"
+apple_music_url: "https://music.apple.com/gb/album/pygmalion/400647147"
 slug: "pygmalion-15765429"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Powertrip"
 date: 2016-07-10T09:50:06.000000Z
 release_date: "1998-01-01"
 release_id: "8112587"
+apple_music_url: "https://music.apple.com/gb/album/powertrip/1713565496"
 slug: "powertrip-8112587"
 hideSummary: true
 cover:

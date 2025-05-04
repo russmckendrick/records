@@ -6,6 +6,7 @@ album_name: "Little Earthquakes"
 date: 2017-03-26T10:56:09.000000Z
 release_date: "1992-01-06"
 release_id: "6886034"
+apple_music_url: "https://music.apple.com/gb/album/little-earthquakes-remastered/981370459"
 slug: "little-earthquakes-6886034"
 hideSummary: true
 cover:

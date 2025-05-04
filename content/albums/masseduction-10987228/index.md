@@ -6,6 +6,7 @@ album_name: "Masseduction"
 date: 2017-10-13T18:10:27.000000Z
 release_date: "2017-10-13"
 release_id: "10987228"
+apple_music_url: "https://music.apple.com/gb/album/masseduction/1440947061"
 slug: "masseduction-10987228"
 hideSummary: true
 cover:

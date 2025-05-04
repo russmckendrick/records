@@ -6,6 +6,7 @@ album_name: "IX"
 date: 2017-12-02T20:16:13.000000Z
 release_date: "1998-01-20"
 release_id: "6227462"
+apple_music_url: "https://music.apple.com/gb/album/sess%C3%B5es-selo-sesc-9-and-you-will-know-us-by-the-trail-of-dead/1512509335"
 slug: "ix-6227462"
 hideSummary: true
 cover:

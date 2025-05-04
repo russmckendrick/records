@@ -6,6 +6,7 @@ album_name: "Hello Nasty"
 date: 2020-07-20T12:12:34.000000Z
 release_date: "1998-07-14"
 release_id: "5327924"
+apple_music_url: "https://music.apple.com/gb/album/hello-nasty-deluxe-version-remastered/721224205"
 slug: "hello-nasty-5327924"
 hideSummary: true
 cover:

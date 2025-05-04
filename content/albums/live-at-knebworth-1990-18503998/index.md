@@ -6,6 +6,7 @@ album_name: "Live At Knebworth 1990"
 date: 2021-04-30T07:39:02.000000Z
 release_date: "2021-04-30"
 release_id: "18503998"
+apple_music_url: "https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602"
 slug: "live-at-knebworth-1990-18503998"
 hideSummary: true
 cover:

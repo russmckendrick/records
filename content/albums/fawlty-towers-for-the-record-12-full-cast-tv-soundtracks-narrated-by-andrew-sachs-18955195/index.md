@@ -6,6 +6,7 @@ album_name: "Fawlty Towers : For The Record (12 Full-Cast TV Soundtracks Narrate
 date: 2021-05-31T08:09:51.000000Z
 release_date: ""
 release_id: "18955195"
+apple_music_url: ""
 slug: "fawlty-towers-for-the-record-12-full-cast-tv-soundtracks-narrated-by-andrew-sachs-18955195"
 hideSummary: true
 cover:

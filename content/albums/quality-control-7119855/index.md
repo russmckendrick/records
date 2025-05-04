@@ -6,6 +6,7 @@ album_name: "Quality Control"
 date: 2023-07-29T02:26:52.000000Z
 release_date: "2000-01-01"
 release_id: "7119855"
+apple_music_url: "https://music.apple.com/gb/album/quality-control/1673136297"
 slug: "quality-control-7119855"
 hideSummary: true
 cover:

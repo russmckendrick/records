@@ -6,6 +6,7 @@ album_name: "Atom Heart Mother"
 date: 2016-09-23T16:49:45.000000Z
 release_date: "1970-10-02"
 release_id: "9063835"
+apple_music_url: "https://music.apple.com/gb/album/atom-heart-mother/699606212"
 slug: "atom-heart-mother-9063835"
 hideSummary: true
 cover:

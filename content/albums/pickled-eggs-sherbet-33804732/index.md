@@ -6,6 +6,7 @@ album_name: "Pickled Eggs & Sherbet"
 date: 2025-04-25T10:35:55.000000Z
 release_date: "1999-01-01"
 release_id: "33804732"
+apple_music_url: "https://music.apple.com/gb/album/pickled-eggs-and-sherbet/1317032890"
 slug: "pickled-eggs-sherbet-33804732"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Fear Fear"
 date: 2022-08-01T06:03:43.000000Z
 release_date: "2022-07-15"
 release_id: "23891849"
+apple_music_url: "https://music.apple.com/gb/album/fear-fear/1607961392"
 slug: "fear-fear-23891849"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Peeping Tom"
 date: 2023-11-10T11:13:37.000000Z
 release_date: "2024-03-25"
 release_id: "28643479"
+apple_music_url: "https://music.apple.com/gb/album/peeping-tom-single/1732545588"
 slug: "peeping-tom-28643479"
 hideSummary: true
 cover:

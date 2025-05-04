@@ -6,6 +6,7 @@ album_name: "Crystal Fairy"
 date: 2017-04-11T17:18:59.000000Z
 release_date: "2024-03-10"
 release_id: "10031479"
+apple_music_url: "https://music.apple.com/gb/album/crystal-fairy-single/1733973855"
 slug: "crystal-fairy-10031479"
 hideSummary: true
 cover:

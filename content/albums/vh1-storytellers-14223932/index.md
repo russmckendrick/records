@@ -6,6 +6,7 @@ album_name: "VH1 Storytellers"
 date: 2019-10-11T14:37:30.000000Z
 release_date: "2009-07-06"
 release_id: "14223932"
+apple_music_url: "https://music.apple.com/gb/album/vh1-storytellers-david-bowie-live/731935064"
 slug: "vh1-storytellers-14223932"
 hideSummary: true
 cover:

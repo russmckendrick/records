@@ -6,6 +6,7 @@ album_name: "Tunnel Of Love"
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1987-10-09"
 release_id: "386066"
+apple_music_url: "https://music.apple.com/gb/album/tunnel-of-love/192745941"
 slug: "tunnel-of-love-386066"
 hideSummary: true
 cover:

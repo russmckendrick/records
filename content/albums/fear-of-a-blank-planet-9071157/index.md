@@ -6,6 +6,7 @@ album_name: "Fear Of A Blank Planet"
 date: 2017-05-12T18:24:15.000000Z
 release_date: "2007-04-16"
 release_id: "9071157"
+apple_music_url: "https://music.apple.com/gb/album/fear-of-a-blank-planet/1532103463"
 slug: "fear-of-a-blank-planet-9071157"
 hideSummary: true
 cover:

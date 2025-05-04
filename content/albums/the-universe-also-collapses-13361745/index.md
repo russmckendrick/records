@@ -6,6 +6,7 @@ album_name: "The Universe Also Collapses "
 date: 2019-05-10T18:52:57.000000Z
 release_date: "2019-05-10"
 release_id: "13361745"
+apple_music_url: "https://music.apple.com/gb/album/the-universe-also-collapses/1453425781"
 slug: "the-universe-also-collapses-13361745"
 hideSummary: true
 cover:

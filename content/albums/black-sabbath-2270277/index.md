@@ -6,6 +6,7 @@ album_name: "Black Sabbath"
 date: 2015-09-27T10:53:49.000000Z
 release_date: "1973-12-01"
 release_id: "2270277"
+apple_music_url: "https://music.apple.com/gb/album/sabbath-bloody-sabbath/1440228485"
 slug: "black-sabbath-2270277"
 hideSummary: true
 cover:

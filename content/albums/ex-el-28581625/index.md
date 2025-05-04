@@ -6,6 +6,7 @@ album_name: "ex:el"
 date: 2023-10-17T11:28:17.000000Z
 release_date: "1991-03-01"
 release_id: "28581625"
+apple_music_url: "https://music.apple.com/gb/album/ex-el/1535210729"
 slug: "ex-el-28581625"
 hideSummary: true
 cover:

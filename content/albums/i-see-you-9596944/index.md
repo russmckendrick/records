@@ -6,6 +6,7 @@ album_name: "I See You"
 date: 2017-01-19T18:45:17.000000Z
 release_date: "2017-01-13"
 release_id: "9596944"
+apple_music_url: "https://music.apple.com/gb/album/i-see-you/1170658234"
 slug: "i-see-you-9596944"
 hideSummary: true
 cover:

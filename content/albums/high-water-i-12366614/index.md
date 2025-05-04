@@ -6,6 +6,7 @@ album_name: "High Water I"
 date: 2018-08-11T08:07:31.000000Z
 release_date: "2018-08-10"
 release_id: "12366614"
+apple_music_url: "https://music.apple.com/gb/album/high-water-i/1600471299"
 slug: "high-water-i-12366614"
 hideSummary: true
 cover:

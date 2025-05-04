@@ -6,6 +6,7 @@ album_name: "Earth Vs The Wildhearts"
 date: 2019-09-13T17:47:05.000000Z
 release_date: "1993-08-30"
 release_id: "14123607"
+apple_music_url: "https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620"
 slug: "earth-vs-the-wildhearts-14123607"
 hideSummary: true
 cover:

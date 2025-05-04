@@ -6,6 +6,7 @@ album_name: "Wretch"
 date: 2016-09-14T16:48:48.000000Z
 release_date: "1991-09-23"
 release_id: "8964385"
+apple_music_url: "https://music.apple.com/gb/album/wretch/207946744"
 slug: "wretch-8964385"
 hideSummary: true
 cover:

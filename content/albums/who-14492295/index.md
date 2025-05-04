@@ -6,6 +6,7 @@ album_name: "Who"
 date: 2019-12-11T18:40:10.000000Z
 release_date: "2014-01-01"
 release_id: "14492295"
+apple_music_url: "https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271"
 slug: "who-14492295"
 hideSummary: true
 cover:

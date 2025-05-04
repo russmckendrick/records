@@ -6,6 +6,7 @@ album_name: "No Cities To Love"
 date: 2017-06-08T17:53:00.000000Z
 release_date: "2015-01-20"
 release_id: "7761945"
+apple_music_url: "https://music.apple.com/gb/album/no-cities-to-love/927171224"
 slug: "no-cities-to-love-7761945"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "How To Make Friends And Influence People"
 date: 2019-05-31T19:17:19.000000Z
 release_date: "1994"
 release_id: "996005"
+apple_music_url: "https://music.apple.com/gb/album/how-to-make-friends-and-influence-people/691355372"
 slug: "how-to-make-friends-and-influence-people-996005"
 hideSummary: true
 cover:

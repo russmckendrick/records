@@ -6,6 +6,7 @@ album_name: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood
 date: 2021-05-03T01:54:05.000000Z
 release_date: "2021-04-30"
 release_id: "18527902"
+apple_music_url: "https://music.apple.com/gb/album/celebrate-the-music-of-peter-green-and-the/1563694617"
 slug: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902"
 hideSummary: true
 cover:

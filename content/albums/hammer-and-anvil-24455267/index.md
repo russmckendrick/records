@@ -6,6 +6,7 @@ album_name: "Hammer And Anvil"
 date: 2022-09-09T03:31:47.000000Z
 release_date: "2010-10-15"
 release_id: "24455267"
+apple_music_url: "https://music.apple.com/gb/album/hammer-and-anvil/1056376043"
 slug: "hammer-and-anvil-24455267"
 hideSummary: true
 cover:

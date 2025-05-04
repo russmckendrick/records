@@ -6,6 +6,7 @@ album_name: "Y Kant Tori Read"
 date: 2017-12-07T21:00:02.000000Z
 release_date: "1988-01-06"
 release_id: "11172681"
+apple_music_url: "https://music.apple.com/gb/album/y-kant-tori-read-remastered/1273432503"
 slug: "y-kant-tori-read-11172681"
 hideSummary: true
 cover:

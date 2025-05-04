@@ -6,6 +6,7 @@ album_name: "Pulse"
 date: 2018-05-17T14:51:48.000000Z
 release_date: "1995-05-29"
 release_id: "12004382"
+apple_music_url: "https://music.apple.com/gb/album/pulse-live/696834309"
 slug: "pulse-12004382"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Rhythm Of The Saints"
 date: 2019-04-26T12:43:37.000000Z
 release_date: "1995-04-04"
 release_id: "12238356"
+apple_music_url: "https://music.apple.com/gb/album/the-rhythm-of-the-night/797190876"
 slug: "the-rhythm-of-the-saints-12238356"
 hideSummary: true
 cover:

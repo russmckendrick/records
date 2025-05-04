@@ -6,6 +6,7 @@ album_name: "Remastered In Vinyl I"
 date: 2018-11-17T10:46:15.000000Z
 release_date: "2020-09-22"
 release_id: "12811757"
+apple_music_url: "https://music.apple.com/gb/album/i-wanna-be-kate-the-songs-of-kate-bush/1528024140"
 slug: "remastered-in-vinyl-i-12811757"
 hideSummary: true
 cover:

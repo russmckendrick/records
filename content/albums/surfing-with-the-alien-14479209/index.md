@@ -6,6 +6,7 @@ album_name: "Surfing With The Alien"
 date: 2019-12-05T18:06:10.000000Z
 release_date: "1987-10-15"
 release_id: "14479209"
+apple_music_url: "https://music.apple.com/gb/album/surfing-with-the-alien/405602019"
 slug: "surfing-with-the-alien-14479209"
 hideSummary: true
 cover:

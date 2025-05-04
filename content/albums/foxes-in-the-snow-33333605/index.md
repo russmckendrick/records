@@ -6,6 +6,7 @@ album_name: "Foxes In The Snow"
 date: 2025-03-14T02:32:06.000000Z
 release_date: "2025-03-07"
 release_id: "33333605"
+apple_music_url: "https://music.apple.com/gb/album/foxes-in-the-snow/1790456398"
 slug: "foxes-in-the-snow-33333605"
 hideSummary: true
 cover:

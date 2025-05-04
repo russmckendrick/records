@@ -6,6 +6,7 @@ album_name: "Crowded House"
 date: 2016-11-08T19:07:07.000000Z
 release_date: "1986-06"
 release_id: "9322408"
+apple_music_url: "https://music.apple.com/gb/album/crowded-house/1440822690"
 slug: "crowded-house-9322408"
 hideSummary: true
 cover:

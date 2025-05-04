@@ -6,6 +6,7 @@ album_name: "The Unravelling"
 date: 2016-02-08T18:19:11.000000Z
 release_date: "2014-07-22"
 release_id: "5910169"
+apple_music_url: "https://music.apple.com/gb/album/the-unravelling/1049125354"
 slug: "the-unravelling-5910169"
 hideSummary: true
 cover:

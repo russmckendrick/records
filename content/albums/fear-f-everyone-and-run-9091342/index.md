@@ -6,6 +6,7 @@ album_name: "FEAR (F*** Everyone And Run)"
 date: 2016-09-26T17:20:44.000000Z
 release_date: "2016-09-23"
 release_id: "9091342"
+apple_music_url: "https://music.apple.com/gb/album/fuck-everyone-and-run-f-e-a-r/1132145830"
 slug: "fear-f-everyone-and-run-9091342"
 hideSummary: true
 cover:

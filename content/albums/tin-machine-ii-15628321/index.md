@@ -6,6 +6,7 @@ album_name: "Tin Machine II"
 date: 2020-07-19T12:14:44.000000Z
 release_date: "2016-06-24"
 release_id: "15628321"
+apple_music_url: "https://music.apple.com/gb/album/tin-machine-single/1125283231"
 slug: "tin-machine-ii-15628321"
 hideSummary: true
 cover:

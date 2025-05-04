@@ -6,6 +6,7 @@ album_name: "Goo"
 date: 2016-01-23T14:26:11.000000Z
 release_date: "1990-03-21"
 release_id: "655290"
+apple_music_url: "https://music.apple.com/gb/album/goo/1440838993"
 slug: "goo-655290"
 hideSummary: true
 cover:

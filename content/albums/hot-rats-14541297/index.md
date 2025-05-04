@@ -6,6 +6,7 @@ album_name: "Hot Rats"
 date: 2019-12-30T18:20:39.000000Z
 release_date: "1969-10-10"
 release_id: "14541297"
+apple_music_url: "https://music.apple.com/gb/album/hot-rats/1562897106"
 slug: "hot-rats-14541297"
 hideSummary: true
 cover:

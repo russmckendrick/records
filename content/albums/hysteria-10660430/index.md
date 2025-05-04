@@ -6,6 +6,7 @@ album_name: "Hysteria"
 date: 2017-08-05T17:08:06.000000Z
 release_date: "1987-08-03"
 release_id: "10660430"
+apple_music_url: "https://music.apple.com/gb/album/hysteria/1440903625"
 slug: "hysteria-10660430"
 hideSummary: true
 cover:

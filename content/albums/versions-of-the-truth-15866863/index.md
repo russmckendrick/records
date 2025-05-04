@@ -6,6 +6,7 @@ album_name: "Versions Of The Truth"
 date: 2020-09-06T11:24:12.000000Z
 release_date: "2020-09-04"
 release_id: "15866863"
+apple_music_url: "https://music.apple.com/gb/album/versions-of-the-truth/1516089209"
 slug: "versions-of-the-truth-15866863"
 hideSummary: true
 cover:

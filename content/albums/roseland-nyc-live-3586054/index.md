@@ -6,6 +6,7 @@ album_name: "Roseland NYC Live"
 date: 2016-01-31T14:13:01.000000Z
 release_date: "1998-01-01"
 release_id: "3586054"
+apple_music_url: "https://music.apple.com/gb/album/roseland-nyc-live/1440913466"
 slug: "roseland-nyc-live-3586054"
 hideSummary: true
 cover:

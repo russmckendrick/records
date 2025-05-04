@@ -6,6 +6,7 @@ album_name: "Varmints"
 date: 2016-10-26T16:18:45.000000Z
 release_date: "2016-03-04"
 release_id: "8231450"
+apple_music_url: "https://music.apple.com/gb/album/varmints/1053717277"
 slug: "varmints-8231450"
 hideSummary: true
 cover:

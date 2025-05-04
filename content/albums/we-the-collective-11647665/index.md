@@ -6,6 +6,7 @@ album_name: "We The Collective"
 date: 2018-03-30T17:22:18.000000Z
 release_date: "2018-03-30"
 release_id: "11647665"
+apple_music_url: "https://music.apple.com/gb/album/we-the-collective/1318326494"
 slug: "we-the-collective-11647665"
 hideSummary: true
 cover:

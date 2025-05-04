@@ -6,6 +6,7 @@ album_name: "Figure 8"
 date: 2017-04-09T19:10:14.000000Z
 release_date: "2000-04-18"
 release_id: "8843169"
+apple_music_url: "https://music.apple.com/gb/album/figure-8/1440745328"
 slug: "figure-8-8843169"
 hideSummary: true
 cover:

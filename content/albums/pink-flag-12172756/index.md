@@ -6,6 +6,7 @@ album_name: "Pink Flag"
 date: 2018-12-27T18:11:53.000000Z
 release_date: "1977-11-01"
 release_id: "12172756"
+apple_music_url: "https://music.apple.com/gb/album/pink-flag/1328682500"
 slug: "pink-flag-12172756"
 hideSummary: true
 cover:

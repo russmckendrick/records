@@ -6,6 +6,7 @@ album_name: "You're The One"
 date: 2023-08-22T02:21:27.000000Z
 release_date: "2023-08-18"
 release_id: "28041069"
+apple_music_url: "https://music.apple.com/gb/album/youre-the-one/1683236541"
 slug: "you-re-the-one-28041069"
 hideSummary: true
 cover:

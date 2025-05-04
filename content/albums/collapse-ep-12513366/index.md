@@ -6,6 +6,7 @@ album_name: "Collapse EP"
 date: 2018-09-18T18:04:02.000000Z
 release_date: "2018-09-14"
 release_id: "12513366"
+apple_music_url: "https://music.apple.com/gb/album/collapse-ep/1418633340"
 slug: "collapse-ep-12513366"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Full Metal Jacket (I Wanna Be Your Drill Instructor)"
 date: 2020-08-02T13:29:10.000000Z
 release_date: ""
 release_id: "466221"
+apple_music_url: ""
 slug: "full-metal-jacket-i-wanna-be-your-drill-instructor-466221"
 hideSummary: true
 cover:

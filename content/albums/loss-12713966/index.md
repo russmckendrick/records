@@ -6,6 +6,7 @@ album_name: "Loss"
 date: 2018-12-22T10:27:53.000000Z
 release_date: "2018-10-26"
 release_id: "12713966"
+apple_music_url: "https://music.apple.com/gb/album/loss/1538573096"
 slug: "loss-12713966"
 hideSummary: true
 cover:

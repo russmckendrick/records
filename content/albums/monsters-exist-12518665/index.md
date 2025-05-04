@@ -6,6 +6,7 @@ album_name: "Monsters Exist"
 date: 2018-09-16T11:31:40.000000Z
 release_date: "2018-09-14"
 release_id: "12518665"
+apple_music_url: "https://music.apple.com/gb/album/monsters-exist-deluxe/1380840392"
 slug: "monsters-exist-12518665"
 hideSummary: true
 cover:

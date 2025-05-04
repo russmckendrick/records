@@ -5,6 +5,7 @@ artist: "peter-gabriel"
 album_name: "Peter Gabriel II"
 date: 2016-12-11T20:57:15.000000Z
 release_id: "9477792"
+apple_music_url: "https://music.apple.com/gb/album/peter-gabriel-2-scratch-remastered/986702307"
 slug: "peter-gabriel-ii-9477792"
 hideSummary: true
 cover:

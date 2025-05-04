@@ -6,6 +6,7 @@ album_name: "The Last Flight"
 date: 2024-10-05T03:23:12.000000Z
 release_date: "2024-10-04"
 release_id: "31900831"
+apple_music_url: "https://music.apple.com/gb/album/the-last-flight/1748134573"
 slug: "the-last-flight-31900831"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Third Degree"
 date: 2021-09-03T04:32:37.000000Z
 release_date: "1982"
 release_id: "2218199"
+apple_music_url: "https://music.apple.com/gb/album/third-degree/1443308710"
 slug: "third-degree-2218199"
 hideSummary: true
 cover:

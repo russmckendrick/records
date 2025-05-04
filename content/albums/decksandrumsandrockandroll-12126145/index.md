@@ -6,6 +6,7 @@ album_name: "Decksandrumsandrockandroll"
 date: 2018-06-15T10:58:03.000000Z
 release_date: "1998-01-01"
 release_id: "12126145"
+apple_music_url: "https://music.apple.com/gb/album/decksandrumsandrockandroll/540024177"
 slug: "decksandrumsandrockandroll-12126145"
 hideSummary: true
 cover:

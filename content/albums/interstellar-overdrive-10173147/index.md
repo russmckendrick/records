@@ -6,6 +6,7 @@ album_name: "Interstellar Overdrive"
 date: 2017-04-23T12:06:55.000000Z
 release_date: "2012-01-01"
 release_id: "10173147"
+apple_music_url: "https://music.apple.com/gb/album/interstellar-overdrive-in-the-style-of-pink/595417516"
 slug: "interstellar-overdrive-10173147"
 hideSummary: true
 cover:

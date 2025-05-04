@@ -6,6 +6,7 @@ album_name: "Sadness Sets Me Free"
 date: 2024-02-02T00:43:24.000000Z
 release_date: "2024-01-26"
 release_id: "29584693"
+apple_music_url: "https://music.apple.com/gb/album/sadness-sets-me-free/1706554248"
 slug: "sadness-sets-me-free-29584693"
 hideSummary: true
 cover:

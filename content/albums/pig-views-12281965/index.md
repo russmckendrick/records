@@ -6,6 +6,7 @@ album_name: "Pig Views"
 date: 2018-07-30T19:03:09.000000Z
 release_date: "2018-07-13"
 release_id: "12281965"
+apple_music_url: "https://music.apple.com/gb/album/pig-views/1561978428"
 slug: "pig-views-12281965"
 hideSummary: true
 cover:

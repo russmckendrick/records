@@ -6,6 +6,7 @@ album_name: "Leisure"
 date: 2016-08-30T16:05:06.000000Z
 release_date: "1991-08-26"
 release_id: "8956541"
+apple_music_url: "https://music.apple.com/gb/album/leisure/699605281"
 slug: "leisure-8956541"
 hideSummary: true
 cover:

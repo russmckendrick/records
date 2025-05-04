@@ -6,6 +6,7 @@ album_name: "I'm Totally Fine With It 👍 Don't Give A Fuck Anymore 👍"
 date: 2024-05-21T12:41:50.000000Z
 release_date: "2024-05-10"
 release_id: "30624874"
+apple_music_url: "https://music.apple.com/gb/album/im-totally-fine-with-it-dont-give-a-fuck-anymore/1721247648"
 slug: "i-m-totally-fine-with-it-don-t-give-a-fuck-anymore-30624874"
 hideSummary: true
 cover:

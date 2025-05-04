@@ -6,6 +6,7 @@ album_name: "A Momentary Lapse Of Reason"
 date: 2017-01-20T17:08:04.000000Z
 release_date: "1987-09-07"
 release_id: "9658639"
+apple_music_url: "https://music.apple.com/gb/album/a-momentary-lapse-of-reason/699606729"
 slug: "a-momentary-lapse-of-reason-9658639"
 hideSummary: true
 cover:

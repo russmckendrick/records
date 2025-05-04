@@ -6,6 +6,7 @@ album_name: "0898 Beautiful South"
 date: 2018-05-25T19:12:34.000000Z
 release_date: "1989-10"
 release_id: "12047875"
+apple_music_url: "https://music.apple.com/gb/album/0898-beautiful-south/1442244263"
 slug: "0898-beautiful-south-12047875"
 hideSummary: true
 cover:

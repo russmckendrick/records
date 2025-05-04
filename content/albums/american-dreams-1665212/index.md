@@ -6,6 +6,7 @@ album_name: "American Dreams"
 date: 2015-12-04T18:21:09.000000Z
 release_date: ""
 release_id: "1665212"
+apple_music_url: ""
 slug: "american-dreams-1665212"
 hideSummary: true
 cover:

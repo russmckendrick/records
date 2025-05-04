@@ -6,6 +6,7 @@ album_name: "Powder Dry"
 date: 2024-09-17T05:10:49.000000Z
 release_date: "2024-09-13"
 release_id: "31564555"
+apple_music_url: "https://music.apple.com/gb/album/powder-dry/1746099226"
 slug: "powder-dry-31564555"
 hideSummary: true
 cover:

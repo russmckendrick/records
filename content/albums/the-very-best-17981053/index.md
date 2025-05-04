@@ -6,6 +6,7 @@ album_name: "The Very Best"
 date: 2023-03-11T03:01:39.000000Z
 release_date: "2011-01-01"
 release_id: "17981053"
+apple_music_url: "https://music.apple.com/gb/album/the-very-best/1440521939"
 slug: "the-very-best-17981053"
 hideSummary: true
 cover:

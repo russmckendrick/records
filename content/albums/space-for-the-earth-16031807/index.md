@@ -6,6 +6,7 @@ album_name: "Space For The Earth"
 date: 2020-12-05T04:23:50.000000Z
 release_date: "2020-10-09"
 release_id: "16031807"
+apple_music_url: "https://music.apple.com/gb/album/space-for-the-earth/1524291057"
 slug: "space-for-the-earth-16031807"
 hideSummary: true
 cover:

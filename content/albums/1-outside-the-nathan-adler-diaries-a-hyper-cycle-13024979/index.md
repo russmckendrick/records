@@ -6,6 +6,7 @@ album_name: "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)"
 date: 2019-01-06T11:41:05.000000Z
 release_date: "1995-09-26"
 release_id: "13024979"
+apple_music_url: "https://music.apple.com/gb/album/1-outside-the-nathan-adler-diaries-a-hyper-cycle/1745520271"
 slug: "1-outside-the-nathan-adler-diaries-a-hyper-cycle-13024979"
 hideSummary: true
 cover:

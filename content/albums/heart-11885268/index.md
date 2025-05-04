@@ -6,6 +6,7 @@ album_name: "Heart"
 date: 2019-05-23T16:54:17.000000Z
 release_date: "2003-03-24"
 release_id: "11885268"
+apple_music_url: "https://music.apple.com/gb/album/heart/1361119894"
 slug: "heart-11885268"
 hideSummary: true
 cover:

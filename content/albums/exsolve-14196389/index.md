@@ -6,6 +6,7 @@ album_name: "Exsolve"
 date: 2019-10-22T17:51:38.000000Z
 release_date: "2018-11-03"
 release_id: "14196389"
+apple_music_url: "https://music.apple.com/gb/album/exsolve/1438778156"
 slug: "exsolve-14196389"
 hideSummary: true
 cover:

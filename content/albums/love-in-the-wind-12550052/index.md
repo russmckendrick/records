@@ -6,6 +6,7 @@ album_name: "Love In The Wind"
 date: 2018-09-25T19:14:45.000000Z
 release_date: "2018-09-21"
 release_id: "12550052"
+apple_music_url: "https://music.apple.com/gb/album/love-in-the-wind/1485064517"
 slug: "love-in-the-wind-12550052"
 hideSummary: true
 cover:

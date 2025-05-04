@@ -6,6 +6,7 @@ album_name: "Presents Shake Your Money Maker Live"
 date: 2023-03-23T03:01:05.000000Z
 release_date: ""
 release_id: "26416601"
+apple_music_url: ""
 slug: "presents-shake-your-money-maker-live-26416601"
 hideSummary: true
 cover:

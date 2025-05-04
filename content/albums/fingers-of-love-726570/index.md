@@ -6,6 +6,7 @@ album_name: "Fingers Of Love"
 date: 2017-05-27T15:37:44.000000Z
 release_date: "2010-11-08"
 release_id: "726570"
+apple_music_url: "https://music.apple.com/gb/album/the-very-very-best-of-crowded-house-deluxe-version/715991806"
 slug: "fingers-of-love-726570"
 hideSummary: true
 cover:

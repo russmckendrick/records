@@ -6,6 +6,7 @@ album_name: "The Yamaha Years"
 date: 2016-12-19T17:45:05.000000Z
 release_date: "1999-10-01"
 release_id: "7453474"
+apple_music_url: "https://music.apple.com/gb/album/the-yamaha-years/166090967"
 slug: "the-yamaha-years-7453474"
 hideSummary: true
 cover:

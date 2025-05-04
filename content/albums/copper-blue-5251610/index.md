@@ -6,6 +6,7 @@ album_name: "Copper Blue"
 date: 2015-12-28T14:09:28.000000Z
 release_date: "1992-05-17"
 release_id: "5251610"
+apple_music_url: "https://music.apple.com/gb/album/copper-blue/530498994"
 slug: "copper-blue-5251610"
 hideSummary: true
 cover:

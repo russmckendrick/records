@@ -6,6 +6,7 @@ album_name: "Kveikur"
 date: 2023-04-23T04:36:18.000000Z
 release_date: "2013-06-12"
 release_id: "26815136"
+apple_music_url: "https://music.apple.com/gb/album/kveikur/1447442983"
 slug: "kveikur-26815136"
 hideSummary: true
 cover:

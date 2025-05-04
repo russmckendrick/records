@@ -6,6 +6,7 @@ album_name: "We Got It From Here…Thank You 4 Your Service"
 date: 2017-01-13T20:11:49.000000Z
 release_date: "2016-11-11"
 release_id: "9579770"
+apple_music_url: "https://music.apple.com/gb/album/we-got-it-from-here-thank-you-4-your-service/1173106678"
 slug: "we-got-it-from-herethank-you-4-your-service-9579770"
 hideSummary: true
 cover:

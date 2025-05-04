@@ -6,6 +6,7 @@ album_name: "The Wolf Changes Its Fur But Not Its Nature + Horrific Honorifics N
 date: 2024-11-30T08:20:32.000000Z
 release_date: ""
 release_id: "32439303"
+apple_music_url: ""
 slug: "the-wolf-changes-its-fur-but-not-its-nature-horrific-honorifics-number-two-32439303"
 hideSummary: true
 cover:

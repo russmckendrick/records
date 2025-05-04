@@ -6,6 +6,7 @@ album_name: "Tiny Music...Songs From The Vatican Gift Shop"
 date: 2017-01-27T19:39:37.000000Z
 release_date: "1996-03-26"
 release_id: "5266870"
+apple_music_url: "https://music.apple.com/gb/album/tiny-music-songs-from-the-vatican-gift-shop/302225725"
 slug: "tiny-music-songs-from-the-vatican-gift-shop-5266870"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Dove"
 date: 2018-05-04T19:00:44.000000Z
 release_date: "2018-05-04"
 release_id: "11957072"
+apple_music_url: "https://music.apple.com/gb/album/dove/1343422246"
 slug: "dove-11957072"
 hideSummary: true
 cover:

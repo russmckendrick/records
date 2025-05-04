@@ -6,6 +6,7 @@ album_name: "When Slade Rocked The World 1971-1975"
 date: 2016-07-13T16:33:59.000000Z
 release_date: ""
 release_id: "7901636"
+apple_music_url: ""
 slug: "when-slade-rocked-the-world-1971-1975-7901636"
 hideSummary: true
 cover:

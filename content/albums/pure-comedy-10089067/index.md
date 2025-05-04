@@ -6,6 +6,7 @@ album_name: "Pure Comedy"
 date: 2017-04-08T10:03:27.000000Z
 release_date: "2017-04-07"
 release_id: "10089067"
+apple_music_url: "https://music.apple.com/gb/album/pure-comedy/1193788689"
 slug: "pure-comedy-10089067"
 hideSummary: true
 cover:

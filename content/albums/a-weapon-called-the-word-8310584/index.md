@@ -6,6 +6,7 @@ album_name: "A Weapon Called The Word"
 date: 2018-04-27T17:15:04.000000Z
 release_date: "1990"
 release_id: "8310584"
+apple_music_url: "https://music.apple.com/gb/album/a-weapon-called-the-word/1443300461"
 slug: "a-weapon-called-the-word-8310584"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Greatest Lovesongs Vol. 666"
 date: 2022-11-04T06:14:52.000000Z
 release_date: "1998-08-31"
 release_id: "25047838"
+apple_music_url: "https://music.apple.com/gb/album/greatest-love-songs-vol-666/1308838071"
 slug: "greatest-lovesongs-vol-666-25047838"
 hideSummary: true
 cover:

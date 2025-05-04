@@ -6,6 +6,7 @@ album_name: "Tubeway Army"
 date: 2023-02-13T11:31:37.000000Z
 release_date: "1978-11-24"
 release_id: "26043385"
+apple_music_url: "https://music.apple.com/gb/album/tubeway-army/1028834525"
 slug: "tubeway-army-26043385"
 hideSummary: true
 cover:

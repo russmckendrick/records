@@ -6,6 +6,7 @@ album_name: "Return To The 37th Chamber"
 date: 2017-05-20T15:15:29.000000Z
 release_date: "2017-04-14"
 release_id: "10178866"
+apple_music_url: "https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782"
 slug: "return-to-the-37th-chamber-10178866"
 hideSummary: true
 cover:

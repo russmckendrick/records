@@ -6,6 +6,7 @@ album_name: "Exile On Coldharbour Lane"
 date: 2016-05-20T17:15:47.000000Z
 release_date: "1997-11-11"
 release_id: "8176313"
+apple_music_url: "https://music.apple.com/gb/album/exile-on-coldharbour-lane/1726659308"
 slug: "exile-on-coldharbour-lane-8176313"
 hideSummary: true
 cover:

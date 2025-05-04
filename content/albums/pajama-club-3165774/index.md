@@ -6,6 +6,7 @@ album_name: "Pajama Club"
 date: 2016-09-01T17:18:43.000000Z
 release_date: "2011-07-04"
 release_id: "3165774"
+apple_music_url: "https://music.apple.com/gb/album/pajama-club/693719180"
 slug: "pajama-club-3165774"
 hideSummary: true
 cover:

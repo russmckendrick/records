@@ -6,6 +6,7 @@ album_name: "Zappa (Original Motion Picture Soundtrack)"
 date: 2021-06-17T04:14:58.000000Z
 release_date: "2020-11-27"
 release_id: "18681091"
+apple_music_url: "https://music.apple.com/gb/album/zappa-original-motion-picture-soundtrack/1540380239"
 slug: "zappa-original-motion-picture-soundtrack-18681091"
 hideSummary: true
 cover:

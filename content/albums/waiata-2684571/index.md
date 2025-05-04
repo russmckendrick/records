@@ -6,6 +6,7 @@ album_name: "Waiata"
 date: 2016-01-29T18:22:31.000000Z
 release_date: "1981-04-01"
 release_id: "2684571"
+apple_music_url: "https://music.apple.com/gb/album/waiata/1442252874"
 slug: "waiata-2684571"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Mobile Home"
 date: 2021-10-29T05:57:59.000000Z
 release_date: "1999-01-01"
 release_id: "20771269"
+apple_music_url: "https://music.apple.com/gb/album/mobile-home/1443716812"
 slug: "mobile-home-20771269"
 hideSummary: true
 cover:

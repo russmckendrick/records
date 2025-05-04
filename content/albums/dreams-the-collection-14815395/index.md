@@ -6,6 +6,7 @@ album_name: "Dreams: The Collection"
 date: 2020-03-09T19:29:32.000000Z
 release_date: "2012-01-01"
 release_id: "14815395"
+apple_music_url: "https://music.apple.com/gb/album/dreams-the-collection/1440649801"
 slug: "dreams-the-collection-14815395"
 hideSummary: true
 cover:

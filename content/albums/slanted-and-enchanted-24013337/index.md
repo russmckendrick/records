@@ -6,6 +6,7 @@ album_name: "Slanted And Enchanted"
 date: 2022-08-21T11:24:05.000000Z
 release_date: "1992-04-20"
 release_id: "24013337"
+apple_music_url: "https://music.apple.com/gb/album/slanted-enchanted/1589229771"
 slug: "slanted-and-enchanted-24013337"
 hideSummary: true
 cover:

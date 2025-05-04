@@ -6,6 +6,7 @@ album_name: "Tomorrow's Modern Boxes"
 date: 2017-12-08T19:19:06.000000Z
 release_date: "2014"
 release_id: "11242541"
+apple_music_url: "https://music.apple.com/gb/album/tomorrows-modern-boxes/1262568019"
 slug: "tomorrow-s-modern-boxes-11242541"
 hideSummary: true
 cover:

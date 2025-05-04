@@ -6,6 +6,7 @@ album_name: "No Cross No Crown"
 date: 2018-02-10T17:26:54.000000Z
 release_date: "2018-01-12"
 release_id: "11474479"
+apple_music_url: "https://music.apple.com/gb/album/no-cross-no-crown/1458857714"
 slug: "no-cross-no-crown-11474479"
 hideSummary: true
 cover:

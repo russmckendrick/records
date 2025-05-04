@@ -6,6 +6,7 @@ album_name: "Roots"
 date: 2017-11-03T18:39:15.000000Z
 release_date: "1996-02-20"
 release_id: "11088399"
+apple_music_url: "https://music.apple.com/gb/album/roots/214473832"
 slug: "roots-11088399"
 hideSummary: true
 cover:

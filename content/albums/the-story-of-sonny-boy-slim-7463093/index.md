@@ -6,6 +6,7 @@ album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22T19:05:10.000000Z
 release_date: "2015-09-11"
 release_id: "7463093"
+apple_music_url: "https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426"
 slug: "the-story-of-sonny-boy-slim-7463093"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "The Astronaut Dismantles HAL/Eternity"
 date: 2015-11-03T19:26:04.000000Z
 release_date: "2005-10-24"
 release_id: "3274640"
+apple_music_url: "https://music.apple.com/gb/album/the-astronaut-dismantles-hal/1189717939"
 slug: "the-astronaut-dismantles-hal-eternity-3274640"
 hideSummary: true
 cover:

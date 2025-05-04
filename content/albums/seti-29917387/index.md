@@ -6,6 +6,7 @@ album_name: "Seti"
 date: 2024-02-25T04:44:25.000000Z
 release_date: "2024-02-23"
 release_id: "29917387"
+apple_music_url: "https://music.apple.com/gb/album/seti/1712341302"
 slug: "seti-29917387"
 hideSummary: true
 cover:

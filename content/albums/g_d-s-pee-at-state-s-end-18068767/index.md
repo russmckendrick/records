@@ -6,6 +6,7 @@ album_name: "G_d's Pee At State's End!"
 date: 2021-04-26T10:26:00.000000Z
 release_date: "2021-04-02"
 release_id: "18068767"
+apple_music_url: "https://music.apple.com/gb/album/g-ds-pee-at-states-end/1556346295"
 slug: "g_d-s-pee-at-state-s-end-18068767"
 hideSummary: true
 cover:

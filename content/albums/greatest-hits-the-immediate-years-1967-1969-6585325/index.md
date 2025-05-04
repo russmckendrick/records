@@ -6,6 +6,7 @@ album_name: "Greatest Hits The Immediate Years 1967 - 1969"
 date: 2017-09-15T13:03:44.000000Z
 release_date: ""
 release_id: "6585325"
+apple_music_url: ""
 slug: "greatest-hits-the-immediate-years-1967-1969-6585325"
 hideSummary: true
 cover:

@@ -6,6 +6,7 @@ album_name: "Magnet"
 date: 2022-09-17T09:35:32.000000Z
 release_date: "2015-08-14"
 release_id: "8267564"
+apple_music_url: "https://music.apple.com/gb/album/magnet-ep/1031295288"
 slug: "magnet-8267564"
 hideSummary: true
 cover:

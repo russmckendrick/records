@@ -6,6 +6,7 @@ album_name: "Smart"
 date: 2020-06-08T12:58:31.000000Z
 release_date: "1995-02-13"
 release_id: "15425944"
+apple_music_url: "https://music.apple.com/gb/album/smart/298625555"
 slug: "smart-15425944"
 hideSummary: true
 cover:

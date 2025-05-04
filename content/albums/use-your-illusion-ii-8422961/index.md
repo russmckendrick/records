@@ -6,6 +6,7 @@ album_name: "Use Your Illusion II"
 date: 2016-06-21T16:39:55.000000Z
 release_date: "1991-09-17"
 release_id: "8422961"
+apple_music_url: "https://music.apple.com/gb/album/use-your-illusion-ii/1389971138"
 slug: "use-your-illusion-ii-8422961"
 hideSummary: true
 cover:

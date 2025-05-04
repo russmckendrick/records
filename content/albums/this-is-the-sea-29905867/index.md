@@ -6,6 +6,7 @@ album_name: "This Is The Sea"
 date: 2024-02-24T04:18:49.000000Z
 release_date: "2011-04-25"
 release_id: "29905867"
+apple_music_url: "https://music.apple.com/gb/album/in-a-special-place-the-piano-demos-for-this-is-the-sea/1629123851"
 slug: "this-is-the-sea-29905867"
 hideSummary: true
 cover:

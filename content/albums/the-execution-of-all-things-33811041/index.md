@@ -6,6 +6,7 @@ album_name: "The Execution Of All Things"
 date: 2025-04-26T01:08:46.000000Z
 release_date: "2002-10-01"
 release_id: "33811041"
+apple_music_url: "https://music.apple.com/gb/album/the-execution-of-all-things/6951046"
 slug: "the-execution-of-all-things-33811041"
 hideSummary: true
 cover:

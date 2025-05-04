@@ -6,6 +6,7 @@ album_name: "Fundamental"
 date: 2017-07-11T08:45:32.000000Z
 release_date: "1985-03-01"
 release_id: "2795738"
+apple_music_url: "https://music.apple.com/gb/album/fundamental-as-anything/1064935549"
 slug: "fundamental-2795738"
 hideSummary: true
 cover:

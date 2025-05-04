@@ -6,6 +6,7 @@ album_name: "Dead Letter Office"
 date: 2021-06-29T07:01:09.000000Z
 release_date: "1987-01-01"
 release_id: "8899363"
+apple_music_url: "https://music.apple.com/gb/album/dead-letter-office/1444187996"
 slug: "dead-letter-office-8899363"
 hideSummary: true
 cover:

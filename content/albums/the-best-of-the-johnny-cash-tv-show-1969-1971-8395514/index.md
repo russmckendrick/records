@@ -6,6 +6,7 @@ album_name: "The Best Of The Johnny Cash TV Show: 1969-1971"
 date: 2016-04-27T16:45:58.000000Z
 release_date: ""
 release_id: "8395514"
+apple_music_url: ""
 slug: "the-best-of-the-johnny-cash-tv-show-1969-1971-8395514"
 hideSummary: true
 cover:

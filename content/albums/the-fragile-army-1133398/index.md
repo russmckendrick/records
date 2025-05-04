@@ -6,6 +6,7 @@ album_name: "The Fragile Army"
 date: 2017-07-14T20:27:26.000000Z
 release_date: "2007-06-19"
 release_id: "1133398"
+apple_music_url: "https://music.apple.com/gb/album/the-fragile-army/1711109736"
 slug: "the-fragile-army-1133398"
 hideSummary: true
 cover:

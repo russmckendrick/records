@@ -6,6 +6,7 @@ album_name: "Halt And Catch Fire (Original Television Series Soundtrack)"
 date: 2017-07-01T11:17:09.000000Z
 release_date: "2016-08-19"
 release_id: "10438416"
+apple_music_url: "https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-10438416"
 hideSummary: true
 cover:

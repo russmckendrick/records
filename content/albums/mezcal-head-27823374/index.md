@@ -6,6 +6,7 @@ album_name: "Mezcal Head"
 date: 2023-08-06T07:40:44.000000Z
 release_date: "1993-08-05"
 release_id: "27823374"
+apple_music_url: "https://music.apple.com/gb/album/mezcal-head/294644091"
 slug: "mezcal-head-27823374"
 hideSummary: true
 cover:

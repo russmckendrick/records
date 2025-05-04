@@ -6,6 +6,7 @@ album_name: "Angel Dust"
 date: 2015-12-14T17:05:02.000000Z
 release_date: "1992-06-08"
 release_id: "7410902"
+apple_music_url: "https://music.apple.com/gb/album/angel-dust/184672979"
 slug: "angel-dust-7410902"
 hideSummary: true
 cover:

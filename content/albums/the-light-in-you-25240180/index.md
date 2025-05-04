@@ -6,6 +6,7 @@ album_name: "The Light In You"
 date: 2023-06-24T07:54:55.000000Z
 release_date: "2015-10-02"
 release_id: "25240180"
+apple_music_url: "https://music.apple.com/gb/album/the-light-in-you/1008719136"
 slug: "the-light-in-you-25240180"
 hideSummary: true
 cover:

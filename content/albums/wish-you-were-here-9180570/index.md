@@ -6,6 +6,7 @@ album_name: "Wish You Were Here"
 date: 2016-10-17T16:23:18.000000Z
 release_date: "1975-09-12"
 release_id: "9180570"
+apple_music_url: "https://music.apple.com/gb/album/wish-you-were-here/704223460"
 slug: "wish-you-were-here-9180570"
 hideSummary: true
 cover:

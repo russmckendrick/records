@@ -6,6 +6,7 @@ album_name: "Second Coming"
 date: 2016-03-23T12:58:18.000000Z
 release_date: "1994-01-01"
 release_id: "3852822"
+apple_music_url: "https://music.apple.com/gb/album/second-coming/1440870988"
 slug: "second-coming-3852822"
 hideSummary: true
 cover:

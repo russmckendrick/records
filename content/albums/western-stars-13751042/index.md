@@ -6,6 +6,7 @@ album_name: "Western Stars"
 date: 2019-06-15T14:28:43.000000Z
 release_date: "2019-06-14"
 release_id: "13751042"
+apple_music_url: "https://music.apple.com/gb/album/western-stars/1459884961"
 slug: "western-stars-13751042"
 hideSummary: true
 cover:
