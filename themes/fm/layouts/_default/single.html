@@ -40,10 +40,6 @@
         {{- end }}
       </div>
 
-      <button onclick="navigator.clipboard.writeText('{{ .Params.release_id }}')" class="btn btn-success btn-block mb-2 w-100">
-        <i class="bi bi-clipboard-fill"></i> Copy the Discogs ID for "{{ .Page.Params.album_name }}"
-      </button>
-
       <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target="_blank">
         <button class="btn btn-danger btn-block mb-4 w-100">
           <i class="bi bi-file-music-fill"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler
@@ -51,6 +47,7 @@
       </a>
 
       {{ .Content }}
+
     </div>
   </div>
 </div>
