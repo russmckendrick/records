@@ -16,7 +16,7 @@ weight = 30
 [[social]]
   name = "Random"
   pre = "<i class='bi bi-shuffle'></i>"
-  url = "/random/"
+  url = "https://random.russ.fm/"
   weight = 10
   title = "Grab a random record"
 
