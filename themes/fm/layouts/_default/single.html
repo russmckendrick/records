@@ -40,9 +40,9 @@
         {{- end }}
       </div>
 
-      <a href="https://openscrobbler.com/scrobble/album/view/dsid/release-{{ .Params.release_id }}" target="_blank">
+      <a href="https://scrobbler.russ.fm/albums/{{ .Params.release_id }}/" target="_blank">
         <button class="btn btn-danger btn-block mb-4 w-100">
-          <i class="bi bi-file-music-fill"></i> Scrobble "{{ .Page.Params.album_name }}" using Open Scrobbler
+          <i class="bi bi-file-music-fill"></i> Scrobble "{{ .Page.Params.album_name }}" using the russFM Scrobbler
         </button>
       </a>
 
