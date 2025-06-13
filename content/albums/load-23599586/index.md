@@ -6,7 +6,7 @@ album_name: "Load"
 date: 2025-06-13T05:10:42.000000Z
 release_date: "1997-11-18"
 release_id: "23599586"
-apple_music_url: "https://music.apple.com/gb/album/reload/1440872194"
+apple_music_url: "https://music.apple.com/us/album/load-remastered/1806720489"
 slug: "load-23599586"
 hideSummary: true
 cover:
@@ -34,12 +34,6 @@ genres: ["Rock"]
 styles: ["Hard Rock", "Alternative Rock"]
 ---
 
-Although <i>Reload</i> boasts a serrated metal edge—look no further than the burning-rubber thrash of "Fuel" and the snarling, breakneck "Prince Charming"—the record doubles down on the boundary-smashing hard rock found on the previous year's <i>Load</i>. The dense sludge rocker "Where the Wild Things Are" flashes with hypnotic vocal melodies, while the elegiac "Low Man's Lyric" boasts eerie violin and a mournful hurdy-gurdy, and the fire-and-brimstone licks of "The Memory Remains" give way to Marianne Faithfull's creaky, spooky vocal cameo.
-        
-        
-    
-
-
 ## Tracklisting
 | Position | Title |
 |----------|--------|
@@ -58,12 +52,8 @@ Although <i>Reload</i> boasts a serrated metal edge—look no further than the b
 | D2 | Ronnie |
 | D3 | The Outlaw Torn |
 
-
-
 ## Apple Music
-{{< applemusic url="https://music.apple.com/gb/album/reload/1440872194" >}}<br>
-
-
+{{< applemusic url="https://music.apple.com/us/album/load-remastered/1806720489" >}}<br>
 
 ## Release Images
 {{< imageGrid >}}
