@@ -204,10 +204,8 @@
     border-bottom: 1px solid var(--border-color);
     position: relative;
     overflow: hidden;
-    /* 8-bit effect */
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
+    /* Display images in original quality */
+    image-rendering: auto;
 }
 
 [data-era="90s"] .artist-image {

@@ -355,10 +355,8 @@
     border: 2px solid var(--border-color);
     position: relative;
     overflow: hidden;
-    /* 8-bit pixelated effect */
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
+    /* Display images in original quality */
+    image-rendering: auto;
 }
 
 [data-era="90s"] .artist-info-section .artist-image {
@@ -385,7 +383,6 @@
 .artist-info-section .artist-image img {
     position: relative;
     z-index: 1;
-    filter: contrast(1.2) saturate(1.3) brightness(1.1);
 }
 
 .artist-info-section .artist-stats {
@@ -564,13 +561,11 @@
     bottom: 0;
     background: 
         conic-gradient(from 0deg at 50% 50%, #4A90E2 0deg, #2980B9 90deg, #1F4E79 180deg, #4A90E2 270deg, #4A90E2 360deg);
-    filter: contrast(1.2) saturate(1.3);
 }
 
 .album-thumbnail img {
     position: relative;
     z-index: 1;
-    filter: contrast(1.2) saturate(1.3) brightness(1.1);
 }
 
 .album-details {
@@ -754,5 +749,4 @@
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
     image-rendering: crisp-edges;
-    filter: contrast(1.2) saturate(1.3) brightness(1.1);
 }

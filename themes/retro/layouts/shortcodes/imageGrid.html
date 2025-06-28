@@ -100,10 +100,7 @@
     background-size: cover;
     background-position: center;
     border: 1px solid var(--border-color);
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
-    filter: contrast(1.2) saturate(1.1);
+    image-rendering: auto;
     position: relative;
     display: flex;
     align-items: center;
@@ -128,7 +125,6 @@
 
 [data-era="90s"] .thumbnail-preview {
     border: 1px inset #c0c0c0;
-    filter: contrast(1.1) saturate(1.2);
     image-rendering: auto;
 }
 
@@ -239,14 +235,10 @@
     object-fit: contain;
     display: block;
     margin: 0 auto;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
-    filter: contrast(1.2) saturate(1.1);
+    image-rendering: auto;
 }
 
 [data-era="90s"] .image-viewer img {
-    filter: contrast(1.1) saturate(1.2);
     image-rendering: auto;
 }
 
