@@ -1,11 +1,18 @@
 {{ define "window_title" }}DATABASE :: VINYL_COLLECTION.db{{ end }}
 
 {{ define "main" }}
-<div class="command-line">
-    <span class="prompt">user@russ-fm:~/collection$</span>
-    <span class="command">SELECT * FROM vinyl_records ORDER BY date_added DESC LIMIT 10;</span>
-    <span class="blinking-cursor"></span>
+<div class="current-prompt">
+    <span class="prompt-user">user@russ-fm:~/collection$</span>
+    <input type="text" 
+           id="terminal-search-input" 
+           class="terminal-input sql-search-input"
+           placeholder="Enter SQL query..."
+           autocomplete="off"
+           spellcheck="false"
+           data-results-id="terminal-search-results">
 </div>
+
+<div id="terminal-search-results" class="search-results search-results-full"></div>
 
 <div class="system-stats">
     <div class="stat-block">
@@ -188,19 +195,6 @@
 
 <style>
 /* Homepage specific styles */
-.command-line {
-    margin-bottom: 2rem;
-    font-size: 1rem;
-}
-
-.prompt {
-    color: var(--text-color);
-}
-
-.command {
-    color: var(--accent-color);
-    margin-left: 1rem;
-}
 
 /* System Stats */
 .system-stats {
@@ -684,6 +678,46 @@
     .command-line {
         font-size: 0.8rem;
         margin-bottom: 1rem;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.5rem;
+    }
+    
+    .terminal-input {
+        margin-left: 0;
+        font-size: 0.8rem;
+    }
+    
+    .terminal-input::placeholder {
+        font-size: 0.7rem;
+    }
+    
+    .blinking-cursor {
+        display: none;
+    }
+    
+    .search-results {
+        margin: 0.5rem 0;
+        padding: 0.5rem;
+        max-height: 300px;
+    }
+    
+    .search-result-item {
+        padding: 0.5rem;
+        gap: 0.5rem;
+    }
+    
+    .search-result-cover {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .search-result-title {
+        font-size: 0.8rem;
+    }
+    
+    .search-result-artist {
+        font-size: 0.7rem;
     }
     
     .system-stats {
