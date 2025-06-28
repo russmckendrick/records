@@ -4,7 +4,20 @@
         <!-- Artist Image -->
         <div class="artist-image">
             {{ if .Params.image }}
-                <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+                {{ $image := .Resources.GetMatch .Params.image }}
+                {{ if $image }}
+                    {{ $largeImage := $image.Resize "600x600 webp" }}
+                    {{ $mediumImage := $image.Resize "400x400 webp" }}
+                    {{ $smallImage := $image.Resize "300x300 webp" }}
+                    <img src="{{ $largeImage.RelPermalink }}" 
+                         srcset="{{ $largeImage.RelPermalink }} 600w, {{ $mediumImage.RelPermalink }} 400w, {{ $smallImage.RelPermalink }} 300w"
+                         sizes="(max-width: 768px) 300px, (max-width: 1024px) 400px, 600px"
+                         alt="{{ .Title }}" 
+                         style="width: 100%; height: 100%; object-fit: cover;">
+                {{ else }}
+                    <!-- Fallback for when image processing fails -->
+                    <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+                {{ end }}
             {{ end }}
         </div>
         

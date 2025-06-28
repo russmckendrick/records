@@ -45,7 +45,20 @@
         <div class="artist-card" data-name="{{ .Title }}" onclick="window.location.href='{{ .RelPermalink }}'">
             <div class="artist-image">
                 {{ if .Params.image }}
-                    <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" style="width: 100%; height: 100%; object-fit: cover;">
+                    {{ $image := .Resources.GetMatch .Params.image }}
+                    {{ if $image }}
+                        {{ $resizedImage := $image.Resize "400x400 webp" }}
+                        {{ $smallImage := $image.Resize "200x200 webp" }}
+                        <img src="{{ $resizedImage.RelPermalink }}" 
+                             srcset="{{ $resizedImage.RelPermalink }} 400w, {{ $smallImage.RelPermalink }} 200w"
+                             sizes="(max-width: 768px) 200px, 400px"
+                             alt="{{ .Title }}" 
+                             loading="lazy" 
+                             style="width: 100%; height: 100%; object-fit: cover;">
+                    {{ else }}
+                        <!-- Fallback for when image processing fails -->
+                        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" style="width: 100%; height: 100%; object-fit: cover;">
+                    {{ end }}
                 {{ end }}
             </div>
             <div class="artist-info">
