@@ -1,95 +1,28 @@
-{{ define "window_title" }}DATABASE :: VINYL_COLLECTION.db{{ end }}
+{{ define "window_title" }}{{ .Title | upper }} :: {{ len .Pages }} ALBUMS{{ end }}
 
 {{ define "main" }}
-<div class="command-line">
-    <span class="prompt">user@russ-fm:~/collection$</span>
-    <span class="command">SELECT * FROM vinyl_records ORDER BY date_added DESC LIMIT 10;</span>
-    <span class="blinking-cursor"></span>
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a> / <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> / {{ .Title }}
 </div>
 
-<div class="system-stats">
-    <div class="stat-block">
-        <span class="stat-value">{{ len (where .Site.RegularPages "Type" "albums") }}</span>
-        <span class="stat-label">TOTAL_RECORDS</span>
-    </div>
-    <div class="stat-block">
-        <span class="stat-value">{{ len (where .Site.Pages "Section" "artist") }}</span>
-        <span class="stat-label">UNIQUE_ARTISTS</span>
-    </div>
-    <div class="stat-block">
-        <span class="stat-value">{{ if .Site.Taxonomies.genres }}{{ len .Site.Taxonomies.genres }}{{ else }}0{{ end }}</span>
-        <span class="stat-label">GENRES_INDEXED</span>
-    </div>
-    <div class="stat-block">
-        <span class="stat-value">{{ if .Site.Taxonomies.styles }}{{ len .Site.Taxonomies.styles }}{{ else }}0{{ end }}</span>
-        <span class="stat-label">STYLES_INDEXED</span>
+<!-- Genre/Style Header -->
+<div class="taxonomy-header">
+    <h1 class="taxonomy-title">{{ .Title | upper }}</h1>
+    <div class="taxonomy-stats">
+        <span class="album-count">{{ len .Pages }} Albums</span>
+        <span class="taxonomy-type">{{ .Type | title }}</span>
     </div>
 </div>
 
-<div class="view-controls">
-    <h2 class="view-title">LATEST ADDITIONS</h2>
-    <div class="view-toggle">
-        <button class="view-btn active" onclick="switchView('list')" data-view="list">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M8 6L21 6.00078M8 12L21 12.0008M8 18L21 18.0007M3 6.5H4V5.5H3V6.5ZM3 12.5H4V11.5H3V12.5ZM3 18.5H4V17.5H3V18.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            LIST
-        </button>
-        <button class="view-btn" onclick="switchView('cards')" data-view="cards">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M3 9H21M6.2 19H17.8C18.9201 19 19.4802 19 19.908 18.782C20.2843 18.5903 20.5903 18.2843 20.782 17.908C21 17.4802 21 16.9201 21 15.8V8.2C21 7.0799 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V15.8C3 16.9201 3 17.4802 3.21799 17.908C3.40973 18.2843 3.71569 18.5903 4.09202 18.782C4.51984 19 5.07989 19 6.2 19Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-            CARDS
-        </button>
-    </div>
-</div>
+<!-- View Toggle Controls -->
+{{ partial "album-view-toggle.html" (dict "title" (printf "FOUND %d ALBUMS" (len .Pages))) }}
 
+<!-- Albums Container -->
 <div class="db-section">
-    <div class="db-list" id="listView">
-        <div class="db-header">
-            <div>ID</div>
-            <div>ART</div>
-            <div>ALBUM_TITLE</div>
-            <div>ARTIST_NAME</div>
-            <div>GENRE</div>
-            <div>DATE_ADDED</div>
-            <div>STATUS</div>
-        </div>
-        
-        {{ $paginator := .Paginate (sort (where .Site.RegularPages "Type" "albums") "Date" "desc") 20 }}
-        {{ range $paginator.Pages }}
-        <div class="db-row" onclick="window.location.href='{{ .Permalink }}'">
-            <div class="record-id">#{{ .Params.release_id | default "000000" }}</div>
-            <div class="album-cover-mini retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
-            <div class="album-title">{{ .Params.album_name | default .Title }}</div>
-            <div class="artist-name">{{ .Params.artist_name }}</div>
-            <div><span class="genre-tag">{{ range first 1 .Params.genres }}{{ . | upper }}{{ end }}</span></div>
-            <div class="date-added">{{ .Date.Format "2006-01-02" }}</div>
-            <div><div class="status-indicator"></div></div>
-        </div>
-        {{ end }}
-    </div>
-    
-    <div class="cards-grid" id="cardsView">
-        {{ range $paginator.Pages }}
-        <div class="album-card" onclick="window.location.href='{{ .Permalink }}'">
-            <div class="album-cover retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
-            <div class="album-info">
-                <h3 class="album-title">{{ .Params.album_name | default .Title }}</h3>
-                <p class="album-artist">{{ .Params.artist_name }}</p>
-                <div class="album-meta">
-                    <span class="album-date">{{ .Date.Format "2006-01-02" }}</span>
-                    <span class="record-id">#{{ .Params.release_id | default "000000" }}</span>
-                </div>
-                <div class="album-tags">
-                    {{ range .Params.genres }}
-                    <span class="tag">{{ . }}</span>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-        {{ end }}
-    </div>
+    {{ $paginator := .Paginate .Pages 20 }}
+    {{ partial "album-list-view.html" (dict "albums" $paginator.Pages) }}
+    {{ partial "album-cards-view.html" (dict "albums" $paginator.Pages) }}
 </div>
 
 <!-- Retro Pagination -->
@@ -98,7 +31,7 @@
     <div class="pagination-controls">
         <div class="pagination-info">
             <span class="pagination-label">PAGE {{ $paginator.PageNumber }} OF {{ $paginator.TotalPages }}</span>
-            <span class="pagination-stats">SHOWING {{ len $paginator.Pages }} OF {{ $paginator.TotalNumberOfElements }} RECORDS</span>
+            <span class="pagination-stats">SHOWING {{ len $paginator.Pages }} OF {{ $paginator.TotalNumberOfElements }} ALBUMS</span>
         </div>
         <div class="pagination-buttons">
             {{ if $paginator.HasPrev }}
@@ -179,69 +112,64 @@
 </div>
 {{ end }}
 
-<div class="terminal-footer">
-    <div class="footer-info">
-        <span>Connection: SECURE | Last Sync: {{ now.Format "2006-01-02 15:04:05" }} UTC</span>
-        <span>Memory Usage: 847MB / 2GB</span>
-    </div>
-</div>
+<!-- Include Album View Toggle Scripts -->
+{{ partial "album-view-scripts.html" . }}
 
 <style>
-/* Homepage specific styles */
-.command-line {
-    margin-bottom: 2rem;
-    font-size: 1rem;
-}
-
-.prompt {
-    color: var(--text-color);
-}
-
-.command {
-    color: var(--accent-color);
-    margin-left: 1rem;
-}
-
-/* System Stats */
-.system-stats {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
+/* Taxonomy Page Styles */
+.taxonomy-header {
     margin: 2rem 0;
-    padding: 1.5rem 0;
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
-}
-
-.stat-block {
-    text-align: center;
-    padding: 1rem;
-    background: var(--highlight-bg);
+    padding: 2rem;
     border: 1px solid var(--border-color);
+    background: var(--window-bg);
+    text-align: center;
 }
 
-[data-era="90s"] .stat-block {
+[data-era="90s"] .taxonomy-header {
     border: 1px inset #c0c0c0;
     background: #e0e0e0;
 }
 
-.stat-value {
-    font-size: 2rem;
+.taxonomy-title {
+    font-size: 2.5rem;
     font-weight: 700;
-    color: var(--accent-color);
-    display: block;
-    margin-bottom: 0.5rem;
+    color: var(--text-color);
+    margin-bottom: 1rem;
     font-family: var(--font-family);
-}
-
-.stat-label {
-    color: var(--secondary-text);
-    font-size: 0.8rem;
-    text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 
-/* View Toggle */
+.taxonomy-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.album-count {
+    color: var(--accent-color);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.taxonomy-type {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid var(--border-color);
+    background: var(--highlight-bg);
+}
+
+[data-era="90s"] .taxonomy-type {
+    border: 1px inset #c0c0c0;
+    background: #f0f0f0;
+}
+
+/* Reuse existing view controls and database styles */
 .view-controls {
     display: flex;
     justify-content: space-between;
@@ -255,6 +183,7 @@
     font-size: 1.2rem;
     font-weight: 600;
     color: var(--text-color);
+    font-family: var(--font-family);
 }
 
 .view-toggle {
@@ -355,25 +284,15 @@
     background: #f0f0f0;
 }
 
-.album-cover-mini.no-image::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 8px;
-    height: 8px;
-    background: #444;
-    border-radius: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .album-title {
     color: var(--text-color);
     font-weight: 500;
+    font-size: 0.9rem;
 }
 
 .artist-name {
     color: var(--secondary-text);
+    font-size: 0.9rem;
 }
 
 .genre-tag {
@@ -520,6 +439,49 @@
     display: none;
 }
 
+@media (max-width: 768px) {
+    .taxonomy-header {
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    .taxonomy-title {
+        font-size: 1.8rem;
+    }
+    
+    .taxonomy-stats {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .db-header {
+        display: none;
+    }
+    
+    .db-row {
+        display: block;
+        padding: 1rem;
+        border: 1px solid var(--border-color);
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+    }
+    
+    .view-controls {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch;
+    }
+    
+    .view-toggle {
+        justify-content: center;
+    }
+    
+    .cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+}
+
 /* Pagination */
 .pagination-section {
     margin: 2rem 0;
@@ -617,58 +579,7 @@
     border: 1px outset #e0e0e0;
 }
 
-/* Footer */
-.terminal-footer {
-    margin-top: 2rem;
-    padding: 1rem;
-    border-top: 1px solid var(--border-color);
-    font-size: 0.8rem;
-    color: var(--secondary-text);
-}
-
-.footer-info {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
 @media (max-width: 768px) {
-    .db-header {
-        display: none;
-    }
-    
-    .db-row {
-        display: block;
-        padding: 1rem;
-        border: 1px solid var(--border-color);
-        margin-bottom: 0.5rem;
-        border-radius: 3px;
-    }
-    
-    .system-stats {
-        grid-template-columns: 1fr 1fr;
-        gap: 0.5rem;
-    }
-    
-    .stat-value {
-        font-size: 1.5rem;
-    }
-    
-    .view-controls {
-        flex-direction: column;
-        gap: 1rem;
-        align-items: stretch;
-    }
-    
-    .view-toggle {
-        justify-content: center;
-    }
-    
-    .cards-grid {
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        gap: 1rem;
-    }
-    
     .pagination-controls {
         flex-direction: column;
         align-items: stretch;
@@ -681,22 +592,8 @@
 }
 
 @media (max-width: 480px) {
-    .command-line {
-        font-size: 0.8rem;
-        margin-bottom: 1rem;
-    }
-    
-    .system-stats {
-        grid-template-columns: 1fr;
-        gap: 0.5rem;
-    }
-    
-    .stat-value {
-        font-size: 1.2rem;
-    }
-    
-    .stat-label {
-        font-size: 0.7rem;
+    .taxonomy-title {
+        font-size: 1.5rem;
     }
     
     .cards-grid {
@@ -726,39 +623,4 @@
     }
 }
 </style>
-
-<script>
-// Load saved view preference on page load
-document.addEventListener('DOMContentLoaded', function() {
-    const savedView = localStorage.getItem('retro-view-preference') || 'list';
-    switchView(savedView, false); // false to prevent saving again during load
-});
-
-function switchView(viewType, savePreference = true) {
-    const listView = document.getElementById('listView');
-    const cardsView = document.getElementById('cardsView');
-    const viewBtns = document.querySelectorAll('.view-btn');
-    
-    // Update button states
-    viewBtns.forEach(btn => btn.classList.remove('active'));
-    const activeBtn = document.querySelector(`[data-view="${viewType}"]`);
-    if (activeBtn) {
-        activeBtn.classList.add('active');
-    }
-    
-    // Toggle views
-    if (viewType === 'list') {
-        listView.classList.remove('hidden');
-        cardsView.classList.remove('active');
-    } else {
-        listView.classList.add('hidden');
-        cardsView.classList.add('active');
-    }
-    
-    // Save preference to localStorage
-    if (savePreference) {
-        localStorage.setItem('retro-view-preference', viewType);
-    }
-}
-</script>
 {{ end }}

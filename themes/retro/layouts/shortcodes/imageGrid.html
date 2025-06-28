@@ -1,27 +1,376 @@
-<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-  <!-- Indicators -->
-  <div class="carousel-indicators">
+<div class="release-images-table">
+    <div class="image-table-header">
+        <div>ID</div>
+        <div>THUMBNAIL</div>
+        <div>TYPE</div>
+        <div>SIZE</div>
+        <div>ACTION</div>
+    </div>
     {{ range $index, $image := $.Page.Params.additional_images }}
-    <button type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="{{ $index }}" class="{{ if eq $index 0 }}active{{ end }}" aria-current="{{ if eq $index 0 }}true{{ end }}" aria-label="Slide {{ add $index 1 }}"></button>
-    {{ end }}
-  </div>
-
-  <!-- Carousel inner -->
-  <div class="carousel-inner">
-    {{ range $index, $image := $.Page.Params.additional_images }}
-    <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
-      <img src="{{ $image }}" class="d-block w-100" alt="">
+    <div class="image-table-row" onclick="openImageViewer('{{ $image }}', '{{ add $index 1 }}')">
+        <div class="image-id">#{{ printf "%02d" (add $index 1) }}</div>
+        <div class="image-thumbnail">
+            <div class="thumbnail-preview lazy-load" 
+                 data-bg="{{ $image }}" 
+                 data-delay="{{ mul $index 200 }}">
+                <div class="loading-placeholder">⏳</div>
+            </div>
+        </div>
+        <div class="image-type">RELEASE_IMG</div>
+        <div class="image-size">{{ if (strings.Contains $image "back") }}BACK{{ else if (strings.Contains $image "disc") }}DISC{{ else if (strings.Contains $image "inner") }}INNER{{ else }}FRONT{{ end }}</div>
+        <div class="image-action">
+            <button class="action-btn-small">VIEW</button>
+        </div>
     </div>
     {{ end }}
-  </div>
-
-  <!-- Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
 </div>
+
+<!-- Simple Image Viewer Modal -->
+<div id="imageViewer" class="image-viewer" onclick="closeImageViewer()">
+    <div class="image-viewer-content">
+        <div class="image-viewer-header">
+            <span id="imageViewerTitle">RELEASE IMAGE #01</span>
+            <button class="close-btn" onclick="closeImageViewer()">✕</button>
+        </div>
+        <img id="imageViewerImg" src="" alt="Release Image">
+    </div>
+</div>
+
+<style>
+/* Release Images Table */
+.release-images-table {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    margin-top: 1rem;
+}
+
+[data-era="90s"] .release-images-table {
+    border: 1px inset #c0c0c0;
+}
+
+.image-table-header {
+    display: grid;
+    grid-template-columns: 60px 80px 1fr 100px 80px;
+    gap: 1rem;
+    padding: 0.8rem;
+    border-bottom: 2px solid var(--border-color);
+    background: var(--highlight-bg);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.image-table-row {
+    display: grid;
+    grid-template-columns: 60px 80px 1fr 100px 80px;
+    gap: 1rem;
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    align-items: center;
+}
+
+.image-table-row:hover {
+    background: var(--highlight-bg);
+}
+
+[data-era="90s"] .image-table-row:hover {
+    background: var(--highlight-bg);
+    color: white;
+}
+
+.image-id {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.image-thumbnail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbnail-preview {
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid var(--border-color);
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    filter: contrast(1.2) saturate(1.1);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbnail-preview.lazy-load {
+    background-image: none;
+    background-color: var(--highlight-bg);
+}
+
+.loading-placeholder {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    animation: pulse-loading 1.5s infinite;
+}
+
+@keyframes pulse-loading {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+}
+
+[data-era="90s"] .thumbnail-preview {
+    border: 1px inset #c0c0c0;
+    filter: contrast(1.1) saturate(1.2);
+    image-rendering: auto;
+}
+
+.image-type {
+    color: var(--text-color);
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.image-size {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.action-btn-small {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.25rem 0.75rem;
+    font-family: var(--font-family);
+    font-size: 0.7rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.action-btn-small:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="90s"] .action-btn-small {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+[data-era="90s"] .action-btn-small:hover {
+    border: 1px inset #c0c0c0;
+}
+
+/* Image Viewer Modal */
+.image-viewer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    padding: 2rem;
+}
+
+.image-viewer.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-viewer-content {
+    background: var(--window-bg);
+    border: 2px solid var(--border-color);
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+[data-era="90s"] .image-viewer-content {
+    border: 2px outset #c0c0c0;
+}
+
+.image-viewer-header {
+    background: var(--highlight-bg);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font-family);
+    font-weight: 600;
+    color: var(--text-color);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: var(--accent-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.close-btn:hover {
+    color: var(--text-color);
+}
+
+.image-viewer img {
+    max-width: 100%;
+    max-height: calc(90vh - 60px);
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    filter: contrast(1.2) saturate(1.1);
+}
+
+[data-era="90s"] .image-viewer img {
+    filter: contrast(1.1) saturate(1.2);
+    image-rendering: auto;
+}
+
+@media (max-width: 768px) {
+    .image-table-header {
+        display: none;
+    }
+    
+    .image-table-row {
+        display: block;
+        padding: 0.5rem;
+        border: 1px solid var(--border-color);
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+    }
+    
+    .image-thumbnail {
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .thumbnail-preview {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .image-viewer {
+        padding: 1rem;
+    }
+}
+</style>
+
+<script>
+// Lazy Loading with Rate Limiting
+document.addEventListener('DOMContentLoaded', function() {
+    const lazyImages = document.querySelectorAll('.lazy-load');
+    
+    lazyImages.forEach((element, index) => {
+        const delay = parseInt(element.dataset.delay) || 0;
+        const imageUrl = element.dataset.bg;
+        
+        setTimeout(() => {
+            // Create a new image to preload
+            const img = new Image();
+            
+            img.onload = function() {
+                // Once loaded, apply the background image
+                element.style.backgroundImage = `url('${imageUrl}')`;
+                element.classList.remove('lazy-load');
+                
+                // Hide the loading placeholder
+                const placeholder = element.querySelector('.loading-placeholder');
+                if (placeholder) {
+                    placeholder.style.display = 'none';
+                }
+            };
+            
+            img.onerror = function() {
+                // On error, show error state
+                element.style.backgroundColor = 'var(--secondary-text)';
+                element.classList.remove('lazy-load');
+                
+                const placeholder = element.querySelector('.loading-placeholder');
+                if (placeholder) {
+                    placeholder.textContent = '❌';
+                    placeholder.style.animation = 'none';
+                }
+            };
+            
+            // Start loading the image
+            img.src = imageUrl;
+            
+        }, delay);
+    });
+});
+
+// Image Viewer functionality
+function openImageViewer(imageSrc, imageNumber) {
+    const viewer = document.getElementById('imageViewer');
+    const img = document.getElementById('imageViewerImg');
+    const title = document.getElementById('imageViewerTitle');
+    
+    // Show loading state in modal
+    img.src = '';
+    img.style.display = 'none';
+    title.textContent = `LOADING IMAGE #${imageNumber.padStart(2, '0')}...`;
+    viewer.classList.add('active');
+    
+    // Prevent body scroll when modal is open
+    document.body.style.overflow = 'hidden';
+    
+    // Load the full-size image
+    const fullImg = new Image();
+    fullImg.onload = function() {
+        img.src = imageSrc;
+        img.style.display = 'block';
+        title.textContent = `RELEASE IMAGE #${imageNumber.padStart(2, '0')}`;
+    };
+    
+    fullImg.onerror = function() {
+        title.textContent = `ERROR LOADING IMAGE #${imageNumber.padStart(2, '0')}`;
+    };
+    
+    fullImg.src = imageSrc;
+}
+
+function closeImageViewer() {
+    const viewer = document.getElementById('imageViewer');
+    viewer.classList.remove('active');
+    
+    // Restore body scroll
+    document.body.style.overflow = 'auto';
+}
+
+// Close viewer with Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeImageViewer();
+    }
+});
+
+// Prevent modal content clicks from closing the viewer
+document.querySelector('.image-viewer-content')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+});
+</script>
