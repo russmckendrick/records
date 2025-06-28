@@ -1,0 +1,143 @@
+{{ define "window_title" }}ARTIST :: {{ .Title | upper }}.art{{ end }}
+
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a> / <a href="{{ "/artist/" | relURL }}">Artists</a> / {{ .Title }}
+</div>
+
+<div class="artist-layout">
+    <!-- Artist Info Section (Left Column) -->
+    <div class="artist-info-section">
+        <!-- Artist Image -->
+        <div class="artist-image">
+            {{ if .Params.image }}
+                <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+            {{ end }}
+        </div>
+        
+        <!-- Artist Stats -->
+        <div class="artist-stats">
+            <div class="stat-box">
+                {{ $artistSlug := .Params.slug | default (.Title | urlize) }}
+                {{ $albumCount := len (where (where $.Site.RegularPages "Type" "albums") ".Params.artist" $artistSlug) }}
+                <span class="stat-number">{{ $albumCount }}</span>
+                <span class="stat-description">Album{{ if ne $albumCount 1 }}s{{ end }}</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number">{{ .Params.formed | default "N/A" }}</span>
+                <span class="stat-description">Formed</span>
+            </div>
+        </div>
+        
+        <!-- Artist Actions -->
+        <div class="artist-actions">
+            {{ if .Params.apple_music_url }}
+            <a href="{{ .Params.apple_music_url }}" target="_blank" class="action-btn">♫ PLAY ON APPLE MUSIC</a>
+            {{ end }}
+            {{ if .Params.discogs_url }}
+            <a href="{{ .Params.discogs_url }}" target="_blank" class="action-btn">📊 VIEW ON DISCOGS</a>
+            {{ end }}
+            {{ if .Params.wikipedia_url }}
+            <a href="{{ .Params.wikipedia_url }}" target="_blank" class="action-btn">📱 OPEN WIKIPEDIA</a>
+            {{ end }}
+            <a href="{{ "/random/" | relURL }}" class="action-btn">🎲 RANDOM ARTIST</a>
+        </div>
+    </div>
+    
+    <!-- Artist Details Section (Right Column) -->
+    <div class="artist-details-section">
+        <!-- Artist Header -->
+        <div class="artist-header">
+            <h1 class="artist-name">{{ .Title | upper }}</h1>
+            
+            <!-- Artist Meta Tags -->
+            <div class="artist-meta">
+                {{ range .Params.genres }}
+                <span class="meta-tag">{{ . }}</span>
+                {{ end }}
+                {{ range .Params.styles }}
+                <span class="meta-tag">{{ . }}</span>
+                {{ end }}
+                {{ if .Params.location }}
+                <span class="meta-tag">{{ .Params.location }}</span>
+                {{ end }}
+            </div>
+        </div>
+        
+        <!-- Biography Section -->
+        {{ if or .Params.summary .Content }}
+        <div class="biography-section">
+            <h3>BIOGRAPHY</h3>
+            <div class="biography-text">
+                {{ if .Params.summary }}
+                    {{ .Params.summary | markdownify }}
+                {{ else }}
+                    {{ .Content }}
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        
+        <!-- Albums Section -->
+        <div class="albums-section">
+            <h3>DISCOGRAPHY IN COLLECTION</h3>
+            <div class="albums-grid">
+                {{ $artistSlug := .Params.slug | default (.Title | urlize) }}
+                {{ range where (where $.Site.RegularPages "Type" "albums") ".Params.artist" $artistSlug }}
+                <div class="album-item" onclick="window.location.href='{{ .RelPermalink }}'">
+                    <div class="album-thumbnail">
+                        {{ if .Params.image }}
+                            <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+                        {{ end }}
+                    </div>
+                    <div class="album-details">
+                        <div class="album-title">{{ .Title }}</div>
+                        <div class="album-year">{{ .Params.year | default .Date.Year }}</div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        
+        <!-- External Links Section -->
+        {{ if or .Params.discogs_url .Params.apple_music_url .Params.wikipedia_url .Params.spotify_url .Params.lastfm_url }}
+        <div class="links-section">
+            <h3>EXTERNAL LINKS</h3>
+            <div class="links-list">
+                {{ if .Params.discogs_url }}
+                <div class="link-item">
+                    <span class="link-label">Discogs:</span>
+                    <span class="link-value"><a href="{{ .Params.discogs_url }}" target="_blank">Artist Profile</a></span>
+                </div>
+                {{ end }}
+                {{ if .Params.apple_music_url }}
+                <div class="link-item">
+                    <span class="link-label">Apple Music:</span>
+                    <span class="link-value"><a href="{{ .Params.apple_music_url }}" target="_blank">Listen Now</a></span>
+                </div>
+                {{ end }}
+                {{ if .Params.spotify_url }}
+                <div class="link-item">
+                    <span class="link-label">Spotify:</span>
+                    <span class="link-value"><a href="{{ .Params.spotify_url }}" target="_blank">Listen Now</a></span>
+                </div>
+                {{ end }}
+                {{ if .Params.lastfm_url }}
+                <div class="link-item">
+                    <span class="link-label">Last.fm:</span>
+                    <span class="link-value"><a href="{{ .Params.lastfm_url }}" target="_blank">Artist Page</a></span>
+                </div>
+                {{ end }}
+                {{ if .Params.wikipedia_url }}
+                <div class="link-item">
+                    <span class="link-label">Wikipedia:</span>
+                    <span class="link-value"><a href="{{ .Params.wikipedia_url }}" target="_blank">Band History</a></span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

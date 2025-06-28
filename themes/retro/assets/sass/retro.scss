@@ -750,3 +750,403 @@ body::before {
         padding: 0.5rem;
     }
 }
+
+/* ============================================
+   ARTIST DETAIL PAGE STYLES
+   ============================================ */
+
+/* Breadcrumb */
+.breadcrumb {
+    padding: 1rem 2rem;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+}
+
+.breadcrumb a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    color: var(--accent-color);
+}
+
+/* Artist Layout */
+.artist-layout {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+/* Artist Info Section (Left Column) */
+.artist-info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.artist-info-section .artist-image {
+    width: 100%;
+    aspect-ratio: 1;
+    background: linear-gradient(45deg, #333, #111);
+    border: 2px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    /* 8-bit pixelated effect */
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+[data-era="90s"] .artist-info-section .artist-image {
+    border: 2px inset #c0c0c0;
+}
+
+/* Artist image simulation */
+.artist-info-section .artist-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        radial-gradient(circle at 40% 30%, #666 25%, transparent 26%),
+        radial-gradient(circle at 60% 30%, #444 20%, transparent 21%),
+        linear-gradient(45deg, #555 30%, transparent 31%, transparent 69%, #555 70%),
+        linear-gradient(135deg, #333 25%, transparent 26%, transparent 74%, #333 75%);
+    background-size: 80px 80px, 60px 60px, 40px 40px, 30px 30px;
+    opacity: 0.8;
+}
+
+.artist-info-section .artist-image img {
+    position: relative;
+    z-index: 1;
+    filter: contrast(1.2) saturate(1.3) brightness(1.1);
+}
+
+.artist-info-section .artist-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.stat-box {
+    text-align: center;
+    padding: 1rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="90s"] .stat-box {
+    border: 1px inset #c0c0c0;
+    background: #e0e0e0;
+}
+
+.stat-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.stat-description {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.artist-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.action-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: var(--window-border);
+    padding: 0.8rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+
+.action-btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+[data-era="90s"] .action-btn {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+[data-era="90s"] .action-btn:hover {
+    border: 1px inset #c0c0c0;
+}
+
+/* Artist Details Section (Right Column) */
+.artist-details-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.artist-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+.artist-details-section .artist-name {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+.artist-meta {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.meta-tag {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    padding: 0.3rem 0.8rem;
+    border: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+[data-era="90s"] .meta-tag {
+    border: 1px outset #c0c0c0;
+    background: #800080;
+    color: white;
+}
+
+/* Biography */
+.biography-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.biography-text {
+    color: var(--text-color);
+    line-height: 1.6;
+    background: var(--highlight-bg);
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+}
+
+[data-era="90s"] .biography-text {
+    border: 1px inset #c0c0c0;
+    background: #e0e0e0;
+}
+
+/* Albums Section */
+.albums-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.album-item {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+[data-era="90s"] .album-item {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+.album-item:hover {
+    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+}
+
+[data-era="90s"] .album-item:hover {
+    border: 1px inset #c0c0c0;
+}
+
+.album-thumbnail {
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(45deg, #333, #111);
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    /* 8-bit effect */
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+.album-thumbnail::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        conic-gradient(from 0deg at 50% 50%, #4A90E2 0deg, #2980B9 90deg, #1F4E79 180deg, #4A90E2 270deg, #4A90E2 360deg);
+    filter: contrast(1.2) saturate(1.3);
+}
+
+.album-thumbnail img {
+    position: relative;
+    z-index: 1;
+    filter: contrast(1.2) saturate(1.3) brightness(1.1);
+}
+
+.album-details {
+    padding: 1rem;
+}
+
+.album-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-bottom: 0.3rem;
+}
+
+.album-year {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+/* Links Section */
+.links-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.links-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.link-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.8rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="90s"] .link-item {
+    border: 1px inset #c0c0c0;
+    background: #e0e0e0;
+}
+
+.link-label {
+    color: var(--secondary-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.link-value a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.link-value a:hover {
+    text-decoration: underline;
+}
+
+/* Artist Detail Responsive Styles */
+@media (max-width: 1024px) {
+    .artist-layout {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .artist-info-section {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .artist-layout {
+        padding: 1rem;
+    }
+    
+    .albums-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 0.8rem;
+    }
+    
+    .artist-meta {
+        gap: 1rem;
+    }
+    
+    .artist-details-section .artist-name {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .breadcrumb {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+    
+    .artist-layout {
+        padding: 0.5rem;
+        gap: 1rem;
+    }
+    
+    .artist-info-section .artist-stats {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    
+    .artist-details-section .artist-name {
+        font-size: 1.5rem;
+    }
+    
+    .artist-meta {
+        gap: 0.5rem;
+    }
+    
+    .meta-tag {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.5rem;
+    }
+    
+    .albums-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 0.5rem;
+    }
+}
