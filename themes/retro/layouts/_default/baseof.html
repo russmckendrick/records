@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{ partial "head/head.html" . }}
-    {{ $retro := resources.Get "sass/retro.scss" | css.Sass | resources.Minify }}
-    <link rel="stylesheet" href="{{ $retro.Permalink }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap" rel="stylesheet">

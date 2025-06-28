@@ -50,7 +50,10 @@ Content is organized in `content/albums/` with each album having its own directo
 
 ### Theme Architecture
 
-#### "retro" Theme
+#### "retro" Theme - MAJOR CLEANUP IN PROGRESS
+**Current State:** Mixed retro implementation with significant legacy code from fm/fm-v2 themes
+**Target State:** Clean, focused retro terminal/desktop interface
+
 The retro theme provides a comprehensive terminal/desktop computer aesthetic:
 
 **Core Features:**
@@ -120,6 +123,30 @@ Content is typically updated via the external Discogs scraper rather than manual
 
 ### Theme Customization
 Theme modifications should be made in `themes/retro/` directory structure, following Hugo's theme conventions.
+
+### CSS Architecture & Development
+The retro theme uses a modular SCSS architecture for maintainability and organization:
+
+**File Organization Principles:**
+- **Components-based structure**: Each component file has a specific responsibility
+- **Import order matters**: Variables → Base → Layout → Components → Pages → Responsive
+- **No duplicate code**: CSS custom properties are defined once in `_variables.scss`
+- **Era switching**: All color and styling variations handled through CSS custom properties
+- **Mobile-first responsive**: Breakpoints organized in dedicated responsive file
+
+**Development Workflow:**
+1. **Variables First**: Define new colors, sizes, or era-specific values in `_variables.scss`
+2. **Component-specific**: Add new components to appropriate file (`_layout.scss`, `_components.scss`, etc.)
+3. **Page-specific**: Large page layouts and unique page styles go in `_pages.scss`
+4. **Responsive Last**: Add mobile/tablet adjustments in `_responsive.scss`
+5. **Clean Build**: Hugo automatically compiles SCSS with source maps in development
+
+**Architecture Benefits:**
+- **Faster debugging**: Each component type has its own file
+- **Easier maintenance**: Changes isolated to relevant component files
+- **Better performance**: Single compiled CSS file for production
+- **Team collaboration**: Multiple developers can work on different components
+- **Legacy cleanup**: Old unused styles removed, modern CSS practices implemented
 
 ### Hugo Template Development
 
@@ -207,11 +234,19 @@ Theme modifications should be made in `themes/retro/` directory structure, follo
 **Shortcodes:**
 - `themes/retro/layouts/shortcodes/imageGrid.html` - Release image gallery with lazy loading and modal viewer
 
-**Assets:**
+**Assets & Styling:**
 - `themes/retro/static/images/terminal.svg` - Terminal icon for 80s mode
 - `themes/retro/static/images/desktop.svg` - Desktop icon for 90s mode
 - `themes/retro/static/images/wikipedia.svg` - Wikipedia external link icon
-- `themes/retro/assets/css/retro.css` - Complete retro styling with era variables
+
+**Modular SCSS Architecture:**
+- `themes/retro/assets/sass/retro.scss` - Main SCSS entry point that imports all components
+- `themes/retro/assets/sass/components/_variables.scss` - CSS custom properties for 80s/90s era switching
+- `themes/retro/assets/sass/components/_base.scss` - Global resets, body styles, and core typography
+- `themes/retro/assets/sass/components/_layout.scss` - Header, navigation, windows, and structural elements
+- `themes/retro/assets/sass/components/_components.scss` - Reusable components (cards, buttons, forms, icons)
+- `themes/retro/assets/sass/components/_pages.scss` - Page-specific styles (home, artist listing, artist detail)
+- `themes/retro/assets/sass/components/_responsive.scss` - Mobile-first responsive breakpoints
 
 ### Retro Theme Features
 

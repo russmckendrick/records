@@ -1,0 +1,33 @@
+// Retro Terminal/Desktop Theme Variables
+// CSS Custom Properties for 80s/90s era switching
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap');
+
+:root {
+    /* 80s Terminal Mode */
+    --bg-color: #0a0a0a;
+    --text-color: #00ff41;
+    --accent-color: #ffff00;
+    --border-color: #00ff41;
+    --window-bg: #000000;
+    --secondary-text: #888888;
+    --highlight-bg: rgba(0, 255, 65, 0.1);
+    --font-family: 'JetBrains Mono', monospace;
+    --window-border: 2px solid var(--border-color);
+    --scanline-opacity: 0.05;
+}
+
+[data-era="90s"] {
+    /* 90s PC Mode */
+    --bg-color: #c0c0c0;
+    --text-color: #000000;
+    --accent-color: #800080;
+    --border-color: #808080;
+    --window-bg: #c0c0c0;
+    --secondary-text: #404040;
+    --highlight-bg: #0000ff;
+    --font-family: 'MS Sans Serif', sans-serif;
+    --window-border: 2px outset #c0c0c0;
+    --scanline-opacity: 0;
+}

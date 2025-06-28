@@ -1,0 +1,299 @@
+// Responsive design breakpoints for retro theme
+// Mobile-first approach with era-specific styling
+
+/* Large screens */
+@media (max-width: 1200px) {
+    .main-window {
+        margin: 1rem;
+    }
+    
+    .header {
+        padding: 0.8rem 1rem;
+    }
+    
+    .terminal-content {
+        padding: 1.5rem;
+    }
+}
+
+/* Medium screens */
+@media (max-width: 1024px) {
+    .nav {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+    
+    .nav-commands {
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    .artist-layout {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .artist-info-section {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+}
+
+/* Tablet screens */
+@media (max-width: 768px) {
+    .main-window {
+        margin: 0.5rem;
+    }
+    
+    .header {
+        padding: 0.5rem 1rem;
+    }
+    
+    .system-title {
+        font-size: 1rem;
+    }
+    
+    .nav {
+        align-items: flex-start;
+    }
+    
+    .nav-commands {
+        display: none;
+    }
+    
+    .terminal-content {
+        padding: 1rem;
+    }
+    
+    /* Database styles */
+    .db-header {
+        display: none;
+    }
+    
+    .db-row {
+        display: block;
+        padding: 1rem;
+        border: 1px solid var(--border-color);
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+    }
+    
+    .system-stats {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.5rem;
+    }
+    
+    .stat-value {
+        font-size: 1.5rem;
+    }
+    
+    .view-controls {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch;
+    }
+    
+    .view-toggle {
+        justify-content: center;
+    }
+    
+    .cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+    
+    .pagination-controls {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+    }
+    
+    .pagination-buttons {
+        justify-content: center;
+    }
+    
+    /* Artist listing */
+    .stats-section {
+        padding: 1rem;
+        gap: 1rem;
+    }
+    
+    .search-controls {
+        padding: 1rem;
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .alphabet-filter {
+        justify-content: center;
+    }
+    
+    .artist-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        padding: 1rem;
+        gap: 0.8rem;
+    }
+    
+    /* Artist detail */
+    .artist-layout {
+        padding: 1rem;
+    }
+}
+
+/* Mobile screens */
+@media (max-width: 480px) {
+    .main-window {
+        margin: 0.25rem;
+    }
+    
+    .header {
+        padding: 0.5rem;
+    }
+    
+    .system-info {
+        font-size: 0.8rem;
+    }
+    
+    .system-title {
+        font-size: 0.9rem;
+    }
+    
+    .terminal-content {
+        padding: 0.5rem;
+    }
+    
+    /* Database styles */
+    .command-line {
+        font-size: 0.8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .system-stats {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    
+    .stat-value {
+        font-size: 1.2rem;
+    }
+    
+    .stat-label {
+        font-size: 0.7rem;
+    }
+    
+    .cards-grid {
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+    }
+    
+    .album-info {
+        padding: 1rem;
+    }
+    
+    .album-title {
+        font-size: 1rem;
+    }
+    
+    .view-title {
+        font-size: 1rem;
+    }
+    
+    .pagination-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.7rem;
+    }
+    
+    .pagination-label {
+        font-size: 0.9rem;
+    }
+    
+    /* Artist listing */
+    .stats-section {
+        flex-direction: column;
+        gap: 0.8rem;
+    }
+    
+    .stat-item {
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 0.8rem;
+    }
+    
+    .stat-item:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+    
+    .search-controls {
+        padding: 0.8rem;
+    }
+    
+    .alphabet-filter {
+        gap: 0.2rem;
+    }
+    
+    .letter-btn {
+        padding: 0.2rem 0.4rem;
+        font-size: 0.7rem;
+        min-width: 20px;
+    }
+    
+    .artist-grid {
+        grid-template-columns: 1fr;
+        padding: 0.8rem;
+        gap: 0.6rem;
+    }
+    
+    .artist-card {
+        display: flex;
+        height: 120px;
+    }
+    
+    .artist-image {
+        width: 120px;
+        height: 120px;
+        border-bottom: none;
+        border-right: 1px solid var(--border-color);
+    }
+    
+    .artist-info {
+        flex: 1;
+        padding: 0.8rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .artist-name {
+        font-size: 1rem;
+        margin-bottom: 0.3rem;
+    }
+    
+    .artist-stats {
+        flex-direction: column;
+        gap: 0.2rem;
+        margin-bottom: 0.3rem;
+    }
+    
+    .artist-summary {
+        font-size: 0.7rem;
+        -webkit-line-clamp: 3;
+    }
+    
+    /* Artist detail */
+    .artist-layout {
+        padding: 0.8rem;
+    }
+    
+    .artist-details-section .artist-name {
+        font-size: 1.8rem;
+    }
+    
+    .artist-meta {
+        gap: 0.8rem;
+    }
+    
+    .albums-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 0.8rem;
+    }
+}

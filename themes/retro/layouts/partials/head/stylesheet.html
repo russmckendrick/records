@@ -5,7 +5,7 @@
   {{- $sassOptions = merge $sassOptions (dict "outputStyle" "compressed") -}}
 {{- end -}}
 
-{{ $css := resources.Get "sass/main.scss" | toCSS $sassOptions -}}
+{{ $css := resources.Get "sass/retro.scss" | toCSS $sassOptions -}}
 
 {{ if eq (hugo.Environment) "development" -}}
   <link rel="stylesheet" href="{{ $css.Permalink | relURL }}" media="screen">
