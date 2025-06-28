@@ -5,29 +5,21 @@
     <div class="query-interface">
         <div class="command-history" id="commandHistory">
             <div class="welcome-message">
-                <div class="ascii-art">
-╔══════════════════════════════════════════════════════════════════════╗
-║                     RUSSFM MUSIC DATABASE SYSTEM                    ║
-║                           Query Terminal v2.1                       ║
-╚══════════════════════════════════════════════════════════════════════╝
-                </div>
                 <div class="system-info">
                     <p>Database initialized: {{ now.Format "2006-01-02 15:04:05" }}</p>
                     <p>Records loaded: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
                     <p>Artists indexed: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
                     <p>Type 'HELP' for query syntax or <a href="#" onclick="showExamples(); return false;" class="examples-link">view example queries</a>.</p>
                 </div>
-            </div>
-        </div>
-
-        <div class="command-input-container">
-            <div class="prompt">
-                <span class="prompt-user">user@russ-fm:~/collection$</span>
-                <input type="text" 
-                       id="queryInput" 
-                       placeholder="Enter SQL query..."
-                       autocomplete="off"
-                       spellcheck="false">
+                
+                <div class="prompt">
+                    <span class="prompt-user">user@russ-fm:~/collection$</span>
+                    <input type="text" 
+                           id="queryInput" 
+                           placeholder="Enter SQL query..."
+                           autocomplete="off"
+                           spellcheck="false">
+                </div>
             </div>
         </div>
     </div>
@@ -91,18 +83,6 @@
     min-height: 400px;
     margin-bottom: 2rem;
     line-height: 1.6;
-}
-
-.ascii-art {
-    font-family: 'Courier New', monospace;
-    font-size: 0.8rem;
-    color: var(--accent-color);
-    margin-bottom: 1rem;
-    white-space: pre;
-}
-
-[data-era="90s"] .ascii-art {
-    color: var(--accent-color);
 }
 
 .system-info {
@@ -208,15 +188,12 @@
     font-size: 0.9rem;
 }
 
-.command-input-container {
-    border-top: 1px solid var(--border-color);
-    padding: 1rem 0;
-}
 
 .prompt {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    margin-top: 1rem;
 }
 
 .prompt-user {
@@ -366,10 +343,6 @@
     
     .query-interface {
         padding: 1rem;
-    }
-    
-    .ascii-art {
-        font-size: 0.6rem;
     }
     
     .query-examples {
