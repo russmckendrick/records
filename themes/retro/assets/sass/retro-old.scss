@@ -18,7 +18,7 @@
     --scanline-opacity: 0.05;
 }
 
-[data-era="90s"] {
+[data-era="modern"] {
     /* 90s PC Mode */
     --bg-color: #c0c0c0;
     --text-color: #000000;
@@ -81,7 +81,7 @@ body::before {
     margin: 0;
 }
 
-[data-era="90s"] .header {
+[data-era="modern"] .header {
     box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
 }
 
@@ -144,13 +144,13 @@ body::before {
     opacity: 1;
 }
 
-[data-era="90s"] .nav-commands a {
+[data-era="modern"] .nav-commands a {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
     padding: 0.3rem 0.8rem;
 }
 
-[data-era="90s"] .nav-commands a:hover {
+[data-era="modern"] .nav-commands a:hover {
     border: 1px inset #c0c0c0;
 }
 
@@ -183,13 +183,13 @@ body::before {
     opacity: 1;
 }
 
-[data-era="90s"] .theme-switcher {
+[data-era="modern"] .theme-switcher {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
     padding: 0.3rem 0.8rem;
 }
 
-[data-era="90s"] .theme-switcher:hover {
+[data-era="modern"] .theme-switcher:hover {
     border: 1px inset #c0c0c0;
 }
 
@@ -234,7 +234,7 @@ body::before {
     box-shadow: 0 0 20px rgba(0, 255, 65, 0.5);
 }
 
-[data-era="90s"] .main-window {
+[data-era="modern"] .main-window {
     box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
 }
 
@@ -265,7 +265,7 @@ body::before {
     border: 1px solid #555;
 }
 
-[data-era="90s"] .control-btn {
+[data-era="modern"] .control-btn {
     border-radius: 0;
     width: 16px;
     height: 14px;
@@ -342,7 +342,7 @@ body::before {
     text-align: center;
 }
 
-[data-era="90s"] .stat-box {
+[data-era="modern"] .stat-box {
     border: 1px inset #c0c0c0;
 }
 
@@ -422,7 +422,7 @@ body::before {
     min-width: 200px;
 }
 
-[data-era="90s"] .search-input {
+[data-era="modern"] .search-input {
     border: 1px inset #c0c0c0;
     background: white;
     color: black;
@@ -452,16 +452,16 @@ body::before {
     color: var(--accent-color);
 }
 
-[data-era="90s"] .letter-btn {
+[data-era="modern"] .letter-btn {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
 
-[data-era="90s"] .letter-btn:hover {
+[data-era="modern"] .letter-btn:hover {
     border: 1px inset #c0c0c0;
 }
 
-[data-era="90s"] .letter-btn.active {
+[data-era="modern"] .letter-btn.active {
     background: var(--highlight-bg);
     color: white;
 }
@@ -481,7 +481,7 @@ body::before {
     position: relative;
 }
 
-[data-era="90s"] .artist-card {
+[data-era="modern"] .artist-card {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
@@ -491,7 +491,7 @@ body::before {
     border-color: var(--accent-color);
 }
 
-[data-era="90s"] .artist-card:hover {
+[data-era="modern"] .artist-card:hover {
     border: 1px inset #c0c0c0;
     background: #e0e0e0;
 }
@@ -509,7 +509,7 @@ body::before {
     image-rendering: crisp-edges;
 }
 
-[data-era="90s"] .artist-image {
+[data-era="modern"] .artist-image {
     border-bottom: 1px solid #808080;
 }
 
@@ -804,7 +804,7 @@ body::before {
     image-rendering: crisp-edges;
 }
 
-[data-era="90s"] .artist-info-section .artist-image {
+[data-era="modern"] .artist-info-section .artist-image {
     border: 2px inset #c0c0c0;
 }
 
@@ -844,7 +844,7 @@ body::before {
     border: 1px solid var(--border-color);
 }
 
-[data-era="90s"] .stat-box {
+[data-era="modern"] .stat-box {
     border: 1px inset #c0c0c0;
     background: #e0e0e0;
 }
@@ -889,12 +889,12 @@ body::before {
     text-decoration: none;
 }
 
-[data-era="90s"] .action-btn {
+[data-era="modern"] .action-btn {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
 
-[data-era="90s"] .action-btn:hover {
+[data-era="modern"] .action-btn:hover {
     border: 1px inset #c0c0c0;
 }
 
@@ -933,7 +933,7 @@ body::before {
     text-transform: uppercase;
 }
 
-[data-era="90s"] .meta-tag {
+[data-era="modern"] .meta-tag {
     border: 1px outset #c0c0c0;
     background: #800080;
     color: white;
@@ -956,7 +956,7 @@ body::before {
     border: 1px solid var(--border-color);
 }
 
-[data-era="90s"] .biography-text {
+[data-era="modern"] .biography-text {
     border: 1px inset #c0c0c0;
     background: #e0e0e0;
 }
@@ -983,7 +983,7 @@ body::before {
     cursor: pointer;
 }
 
-[data-era="90s"] .album-item {
+[data-era="modern"] .album-item {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
@@ -993,7 +993,7 @@ body::before {
     border-color: var(--accent-color);
 }
 
-[data-era="90s"] .album-item:hover {
+[data-era="modern"] .album-item:hover {
     border: 1px inset #c0c0c0;
 }
 
@@ -1067,7 +1067,7 @@ body::before {
     border: 1px solid var(--border-color);
 }
 
-[data-era="90s"] .link-item {
+[data-era="modern"] .link-item {
     border: 1px inset #c0c0c0;
     background: #e0e0e0;
 }
@@ -1199,16 +1199,16 @@ body::before {
     color: var(--accent-color);
 }
 
-[data-era="90s"] .view-btn {
+[data-era="modern"] .view-btn {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
 
-[data-era="90s"] .view-btn:hover {
+[data-era="modern"] .view-btn:hover {
     border: 1px inset #c0c0c0;
 }
 
-[data-era="90s"] .view-btn.active {
+[data-era="modern"] .view-btn.active {
     background: var(--highlight-bg);
     color: white;
 }
@@ -1246,7 +1246,7 @@ body::before {
     background: var(--highlight-bg);
 }
 
-[data-era="90s"] .db-row:hover {
+[data-era="modern"] .db-row:hover {
     background: var(--highlight-bg);
     color: white;
 }
@@ -1268,7 +1268,7 @@ body::before {
     background-position: center;
 }
 
-[data-era="90s"] .album-cover-mini {
+[data-era="modern"] .album-cover-mini {
     border: 1px inset #c0c0c0;
     background: #f0f0f0;
 }
@@ -1308,7 +1308,7 @@ body::before {
     border: 1px solid var(--accent-color);
 }
 
-[data-era="90s"] .genre-tag {
+[data-era="modern"] .genre-tag {
     background: #800080;
     color: white;
     border: 1px outset #800080;
@@ -1327,7 +1327,7 @@ body::before {
     animation: pulse 2s infinite;
 }
 
-[data-era="90s"] .status-indicator {
+[data-era="modern"] .status-indicator {
     border-radius: 0;
     background: #008000;
 }
@@ -1357,7 +1357,7 @@ body::before {
     cursor: pointer;
 }
 
-[data-era="90s"] .album-card {
+[data-era="modern"] .album-card {
     border: 1px outset #c0c0c0;
     background: #c0c0c0;
 }
@@ -1367,7 +1367,7 @@ body::before {
     border-color: var(--accent-color);
 }
 
-[data-era="90s"] .album-card:hover {
+[data-era="modern"] .album-card:hover {
     border: 1px inset #c0c0c0;
 }
 
@@ -1425,7 +1425,7 @@ body::before {
     border: 1px solid var(--accent-color);
 }
 
-[data-era="90s"] .tag {
+[data-era="modern"] .tag {
     background: #800080;
     color: white;
     border: 1px outset #800080;

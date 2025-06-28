@@ -1,0 +1,775 @@
+// Album detail page specific styles
+// Single album page layout, metadata, tracklisting, and release images
+
+/* Album Layout */
+.album-layout {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+/* Album Art Section */
+.album-art-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.album-cover {
+    width: 100%;
+    aspect-ratio: 1;
+    background: linear-gradient(45deg, #222, #111);
+    border: 2px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    /* Display images in original quality */
+    image-rendering: auto;
+}
+
+[data-era="modern"] .album-cover {
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+}
+
+/* No image placeholder */
+.album-cover:not([style*="background-image"])::before {
+    content: '♫';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 4rem;
+    color: var(--border-color);
+    transform: translate(-50%, -50%);
+}
+
+/* Album Actions */
+.album-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.action-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.8rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.action-btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .action-btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .action-btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Album Info Section */
+.album-info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.album-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+.album-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.album-artist {
+    font-size: 1.2rem;
+    color: var(--accent-color);
+    margin-bottom: 1rem;
+}
+
+.album-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+}
+
+.meta-item {
+    display: flex;
+    flex-direction: column;
+    padding: 0.75rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+    min-height: 60px;
+    justify-content: center;
+}
+
+[data-era="modern"] .meta-item {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .meta-item:hover {
+    background: var(--surface-hover);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.meta-label {
+    color: var(--secondary-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin-bottom: 0.25rem;
+    letter-spacing: 0.05em;
+}
+
+.meta-value {
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    word-break: break-word;
+}
+
+/* Last item spans both columns when in 2-column layout */
+.meta-item-last {
+    grid-column: 1 / -1;
+}
+
+/* Tracklisting */
+.tracklist-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.tracklist {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    width: 100%;
+    display: block;
+}
+
+[data-era="modern"] .tracklist {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.track-header {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 0;
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    background: var(--highlight-bg);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.track-row {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 0;
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.track-row:hover {
+    background: var(--highlight-bg);
+}
+
+[data-era="modern"] .track-row:hover {
+    background: var(--surface-hover);
+    color: var(--accent-color);
+    border-radius: 6px;
+}
+
+.track-position {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+    padding-right: 1rem;
+}
+
+.track-title {
+    color: var(--text-color);
+    font-family: var(--font-family);
+}
+
+/* Release Info */
+.release-info-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.release-table {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="modern"] .release-table {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.release-row {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.release-key {
+    padding: 0.8rem;
+    background: var(--highlight-bg);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.release-value {
+    padding: 0.8rem;
+    color: var(--text-color);
+}
+
+.release-value a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.release-value a:hover {
+    text-decoration: underline;
+}
+
+/* Album Description */
+.album-description h3,
+.apple-music-section h3,
+.release-images-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.description-content {
+    background: transparent;
+    padding: 0;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Style markdown tables to match mockup */
+.description-content h2 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.description-content table {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}
+
+[data-era="modern"] .description-content table {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.description-content table thead {
+    display: none; /* Hide the entire table header section to match mockup */
+}
+
+.description-content table td {
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-color);
+    font-family: var(--font-family);
+}
+
+.description-content table td:first-child {
+    width: 100px;
+    background: var(--highlight-bg);
+    color: var(--secondary-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.description-content table td:nth-child(2) {
+    background: var(--window-bg);
+    color: var(--text-color);
+}
+
+.description-content table tr:hover {
+    background: var(--highlight-bg);
+}
+
+[data-era="modern"] .description-content table tr:hover {
+    background: var(--surface-hover);
+    color: var(--accent-color);
+}
+
+.description-content table tr:hover td:first-child {
+    background: var(--highlight-bg);
+}
+
+.description-content table tr:hover td:nth-child(2) {
+    background: var(--highlight-bg);
+}
+
+/* Fix link colors in tables */
+.description-content table a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.description-content table a:hover {
+    text-decoration: underline;
+}
+
+/* Add spacing between sections */
+.description-content > * {
+    margin-bottom: 2rem;
+}
+
+/* Apple Music Section */
+.apple-music-section {
+    margin-top: 2rem;
+}
+
+.apple-music-embed {
+    background: #000;
+    border: 2px solid var(--border-color);
+    padding: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+[data-era="modern"] .apple-music-embed {
+    background: var(--surface-elevated);
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+}
+
+.apple-music-embed iframe {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 0 !important;
+    border: 1px solid var(--border-color);
+    background: #000;
+    filter: contrast(1.1);
+}
+
+[data-era="modern"] .apple-music-embed iframe {
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    filter: none;
+    background: white;
+}
+
+/* Add scanline effect for 80s mode */
+[data-era="80s"] .apple-music-embed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        transparent 0%,
+        rgba(0, 255, 65, 0.03) 50%,
+        transparent 100%
+    );
+    background-size: 100% 4px;
+    pointer-events: none;
+    z-index: 1;
+    animation: scanlines 8s linear infinite;
+}
+
+@keyframes scanlines {
+    0% { background-position: 0 0; }
+    100% { background-position: 0 10px; }
+}
+
+/* Release Images Table */
+.release-images-table {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    margin-top: 1rem;
+}
+
+[data-era="modern"] .release-images-table {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.image-table-header {
+    display: grid;
+    grid-template-columns: 60px 80px 1fr 100px 80px;
+    gap: 1rem;
+    padding: 0.8rem;
+    border-bottom: 2px solid var(--border-color);
+    background: var(--highlight-bg);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.image-table-row {
+    display: grid;
+    grid-template-columns: 60px 80px 1fr 100px 80px;
+    gap: 1rem;
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    align-items: center;
+}
+
+.image-table-row:hover {
+    background: var(--highlight-bg);
+}
+
+[data-era="modern"] .image-table-row:hover {
+    background: var(--surface-hover);
+    color: var(--accent-color);
+    border-radius: 6px;
+}
+
+.image-id {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.image-thumbnail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbnail-preview {
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid var(--border-color);
+    image-rendering: auto;
+}
+
+[data-era="modern"] .thumbnail-preview {
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    image-rendering: auto;
+}
+
+.image-type {
+    color: var(--text-color);
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.image-size {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.action-btn-small {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.25rem 0.75rem;
+    font-family: var(--font-family);
+    font-size: 0.7rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.action-btn-small:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .action-btn-small {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .action-btn-small:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Viewer Modal */
+.image-viewer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    padding: 2rem;
+}
+
+.image-viewer.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-viewer-content {
+    background: var(--window-bg);
+    border: 2px solid var(--border-color);
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+[data-era="modern"] .image-viewer-content {
+    background: var(--surface-elevated);
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.25);
+}
+
+.image-viewer-header {
+    background: var(--highlight-bg);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font-family);
+    font-weight: 600;
+    color: var(--text-color);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: var(--accent-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.close-btn:hover {
+    color: var(--text-color);
+}
+
+.image-viewer img {
+    max-width: 100%;
+    max-height: calc(90vh - 60px);
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    image-rendering: auto;
+}
+
+[data-era="modern"] .image-viewer img {
+    image-rendering: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .album-layout {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .album-art-section {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .album-layout {
+        padding: 1rem;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .album-art-section {
+        max-width: 100%;
+        margin: 0;
+    }
+    
+    .album-cover {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    /* Hide action buttons on mobile */
+    .album-actions {
+        display: none;
+    }
+    
+    .album-title {
+        font-size: 1.5rem;
+    }
+    
+    .track-header, .track-row {
+        grid-template-columns: 80px 1fr;
+        font-size: 0.8rem;
+    }
+    
+    .release-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .release-key {
+        border-bottom: none;
+    }
+    
+    .album-meta {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    
+    .meta-item {
+        min-height: 50px;
+        padding: 0.5rem;
+    }
+    
+    .apple-music-embed iframe {
+        height: 350px;
+    }
+    
+    .release-images-table {
+        margin-top: 0.5rem;
+    }
+    
+    .image-table-header {
+        display: none;
+    }
+    
+    .image-table-row {
+        display: block;
+        padding: 0.5rem;
+        border: 1px solid var(--border-color);
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+    }
+    
+    .image-thumbnail {
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .album-art-section {
+        max-width: 100%;
+    }
+    
+    .apple-music-embed iframe {
+        height: 300px;
+    }
+    
+    .release-images-section h3 {
+        font-size: 1rem;
+    }
+    
+    .thumbnail-preview {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .image-viewer {
+        padding: 1rem;
+    }
+    
+    .album-meta {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    
+    .meta-item {
+        min-height: 45px;
+        padding: 0.5rem;
+    }
+    
+    .meta-label {
+        font-size: 0.65rem;
+    }
+    
+    .meta-value {
+        font-size: 0.8rem;
+    }
+}

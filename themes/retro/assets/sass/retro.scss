@@ -18,5 +18,11 @@
 // 5. Page-specific styles
 @import "components/pages";
 
-// 6. Responsive design breakpoints
+// 6. Album detail page specific styles
+@import "components/album-detail";
+
+// 7. Homepage specific styles  
+@import "components/homepage";
+
+// 8. Responsive design breakpoints
 @import "components/responsive";

@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Get the current era for theming
-    const currentEra = document.body.getAttribute('data-era') || '80s';
+    // Get the current era for theming (with dynamic updates)
+    let currentEra = document.body.getAttribute('data-era') || 'modern';
     
     // Define color schemes based on era
     const colorSchemes = {
@@ -12,13 +12,13 @@ document.addEventListener('DOMContentLoaded', function() {
             text: '#00ff41',
             colors: ['#40e0d0', '#ffff00', '#ff00ff', '#00ffff', '#ff6b6b']  // Simple, distinct colors
         },
-        '90s': {
-            primary: '#0000ff',
-            secondary: '#800080',
+        'modern': {
+            primary: '#3b82f6',
+            secondary: '#8b5cf6',
             background: '#ffffff',
-            grid: '#808080',
-            text: '#000000',
-            colors: ['#0000ff', '#ff0000', '#008000', '#ffa500', '#800080']
+            grid: '#e5e5e5',
+            text: '#1a1a1a',
+            colors: ['#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6']
         }
     };
     

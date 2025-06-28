@@ -14,8 +14,8 @@
     <!-- Base URL for JavaScript -->
     <meta name="base-url" content="{{ .Site.BaseURL }}">
 </head>
-<body data-era="80s">
-    <!-- Retro Header -->
+<body data-era="modern">
+    <!-- Header -->
     <header class="header">
         <nav class="nav">
             <div class="system-info">
@@ -37,26 +37,38 @@
             </div>
         </div>
         
-        
-        <div class="terminal-content">
+        <div class="content-wrapper">
             {{ block "main" . }}{{ end }}
         </div>
     </main>
 
     <!-- JavaScript for Theme Switching -->
     <script>
+        // Load saved theme on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            const savedTheme = localStorage.getItem('theme') || 'modern';
+            setTheme(savedTheme);
+        });
+
         function toggleTheme() {
             const currentEra = document.body.getAttribute('data-era');
-            const newEra = currentEra === '80s' ? '90s' : '80s';
+            const newEra = currentEra === '80s' ? 'modern' : '80s';
+            setTheme(newEra);
+        }
+
+        function setTheme(era) {
+            document.body.setAttribute('data-era', era);
+            localStorage.setItem('theme', era);
             
-            document.body.setAttribute('data-era', newEra);
+            // Views are now handled automatically by CSS theme selectors
+            // No manual view switching needed
             
             // Update system version for era
             const versionEl = document.querySelector('.system-version');
             const iconEl = document.getElementById('themeIcon');
             const labelEl = document.getElementById('themeLabel');
             
-            if (newEra === '80s') {
+            if (era === '80s') {
                 versionEl.textContent = 'MUSIC_DB v2.1.4';
                 labelEl.textContent = 'TERMINAL';
                 iconEl.innerHTML = `
@@ -67,13 +79,13 @@
                     </svg>
                 `;
             } else {
-                versionEl.textContent = 'Music Database 95 v1.0';
-                labelEl.textContent = 'DESKTOP';
+                versionEl.textContent = 'Music Collection';
+                labelEl.textContent = 'MODERN';
                 iconEl.innerHTML = `
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M3 7C3 5.11438 3 4.17157 3.58579 3.58579C4.17157 3 5.11438 3 7 3H12H17C18.8856 3 19.8284 3 20.4142 3.58579C21 4.17157 21 5.11438 21 7V10V13C21 14.8856 21 15.8284 20.4142 16.4142C19.8284 17 18.8856 17 17 17H12H7C5.11438 17 4.17157 17 3.58579 16.4142C3 15.8284 3 14.8856 3 13V10V7Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
-                        <path d="M13.3333 17L14.6667 19V19C15.2366 19.8549 14.6238 21 13.5963 21H12H10.4037C9.37624 21 8.7634 19.8549 9.33333 19V19L10.6667 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M3 13H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
                 `;
             }
