@@ -5,11 +5,120 @@ Parameters:
     height - (Optional) height
 -->
 {{ $embedUrl := replace (.Get "url") "music.apple.com" "embed.music.apple.com" }}
-<iframe id="embedPlayer" style="width:{{ default "100%" (.Get "width") }}"
-    src="{{ $embedUrl }}?app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=dark"
-    height="{{ default "450px" (.Get "height") }}" frameborder="2" sandbox="allow-forms
-    allow-popups allow-same-origin allow-scripts
-    allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media
-    *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden;
-    border-radius: 10px; transform: translateZ(0px); animation: 2s 6
-    loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+<div class="retro-apple-music-wrapper">
+    <iframe id="embedPlayer"
+        src="{{ $embedUrl }}?app=music&amp;itsct=music_box_player&amp;itscg=30200&amp;ls=1&amp;theme=dark"
+        width="{{ default "100%" (.Get "width") }}"
+        height="{{ default "450" (.Get "height") }}" 
+        frameborder="0" 
+        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" 
+        allow="autoplay *; encrypted-media *; clipboard-write"
+        style="border: 0; border-radius: 0; width: 100%; max-width: 100%;">
+    </iframe>
+</div>
+
+<style>
+.retro-apple-music-wrapper {
+    position: relative;
+    border: 2px solid var(--border-color);
+    background: #000;
+    overflow: hidden;
+    margin: 1rem 0;
+}
+
+[data-era="90s"] .retro-apple-music-wrapper {
+    border: 2px inset #c0c0c0;
+    background: #c0c0c0;
+}
+
+/* Style the iframe container */
+.retro-apple-music-wrapper iframe {
+    display: block;
+    border: none;
+    border-radius: 0 !important;
+    filter: contrast(1.05) brightness(0.98);
+}
+
+/* Add retro scrollbar styling for webkit browsers */
+.retro-apple-music-wrapper {
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent-color) var(--window-bg);
+}
+
+.retro-apple-music-wrapper::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+
+.retro-apple-music-wrapper::-webkit-scrollbar-track {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+}
+
+.retro-apple-music-wrapper::-webkit-scrollbar-thumb {
+    background: var(--accent-color);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="80s"] .retro-apple-music-wrapper::-webkit-scrollbar-thumb {
+    background: #00ff41;
+    box-shadow: inset 0 0 2px rgba(0, 255, 65, 0.5);
+}
+
+[data-era="90s"] .retro-apple-music-wrapper::-webkit-scrollbar-track {
+    background: #c0c0c0;
+    border: 1px inset #808080;
+}
+
+[data-era="90s"] .retro-apple-music-wrapper::-webkit-scrollbar-thumb {
+    background: #808080;
+    border: 1px outset #c0c0c0;
+}
+
+.retro-apple-music-wrapper::-webkit-scrollbar-thumb:hover {
+    background: var(--text-color);
+}
+
+/* Firefox scrollbar styling */
+@supports (scrollbar-width: thin) {
+    [data-era="80s"] .retro-apple-music-wrapper {
+        scrollbar-color: #00ff41 #000;
+    }
+    
+    [data-era="90s"] .retro-apple-music-wrapper {
+        scrollbar-color: #808080 #c0c0c0;
+    }
+}
+
+/* Add subtle scanline effect for 80s mode */
+[data-era="80s"] .retro-apple-music-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0, 255, 65, 0.03) 2px,
+        rgba(0, 255, 65, 0.03) 4px
+    );
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .retro-apple-music-wrapper iframe {
+        height: 350px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .retro-apple-music-wrapper iframe {
+        height: 300px !important;
+    }
+}
+</style>

@@ -581,26 +581,60 @@
     margin-bottom: 2rem;
 }
 
-/* Apple Music & Release Images Sections */
+/* Apple Music Section */
+.apple-music-section {
+    margin-top: 2rem;
+}
+
 .apple-music-embed {
-    background: var(--window-bg);
-    border: 1px solid var(--border-color);
+    background: #000;
+    border: 2px solid var(--border-color);
     padding: 1rem;
-    border-radius: 0;
+    position: relative;
+    overflow: hidden;
 }
 
 [data-era="90s"] .apple-music-embed {
-    border: 1px inset #c0c0c0;
+    background: #c0c0c0;
+    border: 2px inset #c0c0c0;
 }
 
 .apple-music-embed iframe {
+    width: 100%;
+    max-width: 100%;
     border-radius: 0 !important;
     border: 1px solid var(--border-color);
-    filter: contrast(1.1) saturate(0.9);
+    background: #000;
+    filter: contrast(1.1);
 }
 
-[data-era="80s"] .apple-music-embed iframe {
-    filter: contrast(1.2) saturate(0.8) hue-rotate(5deg);
+[data-era="90s"] .apple-music-embed iframe {
+    border: 1px inset #808080;
+    filter: contrast(1.05) brightness(0.95);
+}
+
+/* Add scanline effect for 80s mode */
+[data-era="80s"] .apple-music-embed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        transparent 0%,
+        rgba(0, 255, 65, 0.03) 50%,
+        transparent 100%
+    );
+    background-size: 100% 4px;
+    pointer-events: none;
+    z-index: 1;
+    animation: scanlines 8s linear infinite;
+}
+
+@keyframes scanlines {
+    0% { background-position: 0 0; }
+    100% { background-position: 0 10px; }
 }
 
 /* Release Images Table */
