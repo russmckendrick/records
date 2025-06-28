@@ -3,7 +3,7 @@
 {{ define "main" }}
 <div class="database-terminal">
     <div class="query-interface">
-        <div class="command-history" id="commandHistory">
+        <div class="terminal-content" id="terminalContent">
             <div class="welcome-message">
                 <div class="system-info">
                     <p>Database initialized: {{ now.Format "2006-01-02 15:04:05" }}</p>
@@ -11,20 +11,16 @@
                     <p>Artists indexed: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
                     <p>Type 'HELP' for query syntax or <a href="#" onclick="showExamples(); return false;" class="examples-link">view example queries</a>.</p>
                 </div>
-                
-                <div class="prompt">
-                    <span class="prompt-user">user@russ-fm:~/collection$</span>
-                    <input type="text" 
-                           id="queryInput" 
-                           placeholder="Enter SQL query..."
-                           autocomplete="off"
-                           spellcheck="false">
-                </div>
             </div>
-        </div>
-        
-        <div class="query-results" id="queryResults">
-            <!-- Results will appear here -->
+            
+            <div class="current-prompt">
+                <span class="prompt-user">user@russ-fm:~/collection$</span>
+                <input type="text" 
+                       id="queryInput" 
+                       placeholder="Enter SQL query..."
+                       autocomplete="off"
+                       spellcheck="false">
+            </div>
         </div>
     </div>
 
@@ -80,9 +76,8 @@
     padding: 2rem;
 }
 
-.command-history {
+.terminal-content {
     min-height: 400px;
-    margin-bottom: 2rem;
     line-height: 1.6;
 }
 
@@ -190,11 +185,22 @@
 }
 
 
-.prompt {
+.current-prompt {
     display: flex;
     align-items: center;
     gap: 0.5rem;
     margin-top: 1rem;
+}
+
+.completed-command {
+    color: var(--accent-color);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+
+.command-result {
+    margin-bottom: 1rem;
 }
 
 .prompt-user {
@@ -219,19 +225,6 @@
     opacity: 0.7;
 }
 
-.query-results {
-    padding: 0;
-}
-
-.query-output {
-    margin-bottom: 1rem;
-}
-
-.query-command {
-    color: var(--accent-color);
-    font-weight: 600;
-    margin-bottom: 1rem;
-}
 
 .results-table {
     background: var(--window-bg);
@@ -423,7 +416,7 @@ function executeExample(query) {
 
 function executeQuery(query) {
     if (!searchIndex) {
-        showError('Database not loaded. Please wait...');
+        addCommandToHistory(query, null, 'Database not loaded. Please wait...');
         return;
     }
     
@@ -434,11 +427,17 @@ function executeQuery(query) {
     // Parse and execute query
     try {
         const result = parseAndExecuteQuery(query);
+        
+        if (query.trim().toUpperCase() === 'CLEAR') {
+            clearTerminal();
+            return;
+        }
+        
         if (result !== null) {
-            displayResults(query, result);
+            addCommandToHistory(query, result);
         }
     } catch (error) {
-        showError('Query Error: ' + error.message);
+        addCommandToHistory(query, null, 'Query Error: ' + error.message);
     }
 }
 
@@ -451,8 +450,7 @@ function parseAndExecuteQuery(query) {
     }
     
     if (normalizedQuery === 'CLEAR') {
-        clearResults();
-        return null; // Don't display anything for clear command
+        return null; // Handled in executeQuery
     }
     
     if (normalizedQuery === 'SHOW TABLES;' || normalizedQuery === 'SHOW TABLES') {
@@ -604,34 +602,53 @@ function getFieldValue(record, field) {
     }
 }
 
-function displayResults(query, result) {
-    const resultsContainer = document.getElementById('queryResults');
+function addCommandToHistory(query, result, errorMessage = null) {
+    const terminalContent = document.getElementById('terminalContent');
+    const currentPrompt = document.querySelector('.current-prompt');
     
-    const outputDiv = document.createElement('div');
-    outputDiv.className = 'query-output';
-    
-    // Show command
+    // Create completed command display
     const commandDiv = document.createElement('div');
-    commandDiv.className = 'query-command';
+    commandDiv.className = 'completed-command';
     commandDiv.textContent = `user@russ-fm:~/collection$ ${query}`;
-    outputDiv.appendChild(commandDiv);
     
-    if (result.type === 'help') {
-        outputDiv.appendChild(result.content);
-    } else if (result.type === 'info' || result.type === 'select' || result.type === 'count') {
-        const table = createResultTable(result);
-        outputDiv.appendChild(table);
-        
-        if (result.totalCount !== undefined) {
-            const countDiv = document.createElement('div');
-            countDiv.className = 'result-count';
-            countDiv.textContent = `${result.totalCount} row(s) returned`;
-            outputDiv.appendChild(countDiv);
+    // Insert before current prompt
+    terminalContent.insertBefore(commandDiv, currentPrompt);
+    
+    // Create result display
+    const resultDiv = document.createElement('div');
+    resultDiv.className = 'command-result';
+    
+    if (errorMessage) {
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'error-message';
+        errorDiv.textContent = errorMessage;
+        resultDiv.appendChild(errorDiv);
+    } else if (result) {
+        if (result.type === 'help') {
+            resultDiv.appendChild(result.content);
+        } else if (result.type === 'info' || result.type === 'select' || result.type === 'count') {
+            const table = createResultTable(result);
+            resultDiv.appendChild(table);
+            
+            if (result.totalCount !== undefined) {
+                const countDiv = document.createElement('div');
+                countDiv.className = 'result-count';
+                countDiv.textContent = `${result.totalCount} row(s) returned`;
+                resultDiv.appendChild(countDiv);
+            }
         }
     }
     
-    resultsContainer.appendChild(outputDiv);
-    outputDiv.scrollIntoView({ behavior: 'smooth' });
+    // Insert result before current prompt
+    terminalContent.insertBefore(resultDiv, currentPrompt);
+    
+    // Clear current input and focus it
+    const queryInput = document.getElementById('queryInput');
+    queryInput.value = '';
+    queryInput.focus();
+    
+    // Scroll to bottom
+    currentPrompt.scrollIntoView({ behavior: 'smooth' });
 }
 
 function createResultTable(result) {
@@ -791,20 +808,24 @@ function showHelp() {
     };
 }
 
-function showError(message) {
-    const resultsContainer = document.getElementById('queryResults');
-    
-    const errorDiv = document.createElement('div');
-    errorDiv.className = 'error-message';
-    errorDiv.textContent = message;
-    
-    resultsContainer.appendChild(errorDiv);
-    errorDiv.scrollIntoView({ behavior: 'smooth' });
-}
 
-function clearResults() {
-    const resultsContainer = document.getElementById('queryResults');
-    resultsContainer.innerHTML = '';
+function clearTerminal() {
+    const terminalContent = document.getElementById('terminalContent');
+    const welcomeMessage = document.querySelector('.welcome-message');
+    const currentPrompt = document.querySelector('.current-prompt');
+    
+    // Remove everything except welcome message and current prompt
+    const children = Array.from(terminalContent.children);
+    children.forEach(child => {
+        if (child !== welcomeMessage && child !== currentPrompt) {
+            child.remove();
+        }
+    });
+    
+    // Clear and focus input
+    const queryInput = document.getElementById('queryInput');
+    queryInput.value = '';
+    queryInput.focus();
 }
 
 function showExamples() {
