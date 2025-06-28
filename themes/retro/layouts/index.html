@@ -13,16 +13,20 @@
         <span class="stat-label">TOTAL_RECORDS</span>
     </div>
     <div class="stat-block">
-        <span class="stat-value">{{ if .Site.Taxonomies.artists }}{{ len .Site.Taxonomies.artists }}{{ else }}0{{ end }}</span>
+        {{ $artistPages := where .Site.Pages "Section" "artist" }}
+        {{ $artistPagesRegular := where .Site.RegularPages "Type" "artist" }}
+        {{ $artistPagesSection := where .Site.Pages "Type" "artist" }}
+        <span class="stat-value">{{ len $artistPages }}</span>
         <span class="stat-label">UNIQUE_ARTISTS</span>
+        <!-- DEBUG: Regular: {{ len $artistPagesRegular }}, Section: {{ len $artistPagesSection }}, Pages: {{ len $artistPages }} -->
     </div>
     <div class="stat-block">
         <span class="stat-value">{{ if .Site.Taxonomies.genres }}{{ len .Site.Taxonomies.genres }}{{ else }}0{{ end }}</span>
         <span class="stat-label">GENRES_INDEXED</span>
     </div>
     <div class="stat-block">
-        <span class="stat-value">98.7%</span>
-        <span class="stat-label">DB_INTEGRITY</span>
+        <span class="stat-value">{{ if .Site.Taxonomies.styles }}{{ len .Site.Taxonomies.styles }}{{ else }}0{{ end }}</span>
+        <span class="stat-label">STYLES_INDEXED</span>
     </div>
 </div>
 

@@ -1,9 +1,17 @@
 <ul class="nav-commands">
     <li><a href="{{ .Site.BaseURL }}">HOME</a></li>
-    <li><a href="/artist/">ARTISTS</a></li>
-    <li><a href="/search/">SEARCH</a></li>
-    <li><a href="/random/">RANDOM</a></li>
-    <li><a href="/help/">HELP</a></li>
+    
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}" {{ if .Title }}title="{{ .Title }}"{{ end }}>{{ .Name | upper }}</a></li>
+    {{ end }}
+    
+    {{ $socialMenuItems := slice "Search" "Random" "Stats" }}
+    {{ range .Site.Menus.social }}
+        {{ if in $socialMenuItems .Name }}
+        <li><a href="{{ .URL }}" {{ if .Title }}title="{{ .Title }}"{{ end }}>{{ .Name | upper }}</a></li>
+        {{ end }}
+    {{ end }}
+    
     <li>
         <a href="#" class="theme-switcher" onclick="toggleTheme(); return false;" title="Switch Era">
             <span class="theme-icon" id="themeIcon">
