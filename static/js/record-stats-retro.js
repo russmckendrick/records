@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             background: '#000000',
             grid: '#00ff41',
             text: '#00ff41',
-            colors: ['#00ff41', '#ffff00', '#ff00ff', '#00ffff', '#ff0080']
+            colors: ['#40e0d0', '#ffff00', '#ff00ff', '#00ffff', '#ff69b4']  // Turquoise instead of green
         },
         '90s': {
             primary: '#0000ff',
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             background: '#ffffff',
             grid: '#808080',
             text: '#000000',
-            colors: ['#0000ff', '#800080', '#008080', '#ff0000', '#008000']
+            colors: ['#0000ff', '#800080', '#008080', '#ff0000', '#228b22']
         }
     };
     
@@ -125,7 +125,7 @@ function displayStats(stats) {
     const topArtistsList = document.getElementById('top-artists');
     if (topArtistsList) {
         const artistListHtml = stats.topArtists.map(artist => 
-            `<li><span class="artist-name"><a href="/artist/${formatSlug(artist.artist)}">${artist.artist}</a></span>: <span class="count">${artist.count}</span></li>`
+            `<li><span class="artist-name"><a href="/artist/${formatSlug(artist.artist)}">${artist.artist}</a></span> <span class="count">${artist.count}</span></li>`
         ).join('');
         topArtistsList.innerHTML = artistListHtml;
     }
