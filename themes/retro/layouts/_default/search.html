@@ -199,6 +199,14 @@
     margin-top: 1rem;
 }
 
+.converted-query {
+    color: var(--secondary-text);
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    padding-left: 1rem;
+    font-size: 0.9rem;
+}
+
 .command-result {
     margin-bottom: 1rem;
 }
@@ -424,17 +432,27 @@ function executeQuery(query) {
     commandHistory.push(query);
     historyIndex = -1;
     
+    // Check if it's a natural language query or SQL
+    const convertedQuery = convertNaturalLanguageQuery(query);
+    const actualQuery = convertedQuery.query;
+    const isConverted = convertedQuery.converted;
+    
     // Parse and execute query
     try {
-        const result = parseAndExecuteQuery(query);
+        const result = parseAndExecuteQuery(actualQuery);
         
-        if (query.trim().toUpperCase() === 'CLEAR') {
+        if (actualQuery.trim().toUpperCase() === 'CLEAR') {
             clearTerminal();
             return;
         }
         
         if (result !== null) {
-            addCommandToHistory(query, result);
+            // Show original query and converted query if different
+            if (isConverted) {
+                addCommandToHistory(query, result, null, convertedQuery.convertedSql);
+            } else {
+                addCommandToHistory(actualQuery, result);
+            }
         }
     } catch (error) {
         addCommandToHistory(query, null, 'Query Error: ' + error.message);
@@ -533,37 +551,72 @@ function parseAndExecuteQuery(query) {
 }
 
 function applyWhereClause(results, whereClause) {
-    // Simple WHERE clause parser
+    // Handle nested queries for albums
+    const nestedMatch = whereClause.match(/artist\s*=\s*\(SELECT\s+artist\s+FROM\s+albums\s+WHERE\s+album\s*=\s*["']([^"']+)["']\s*LIMIT\s*1\)/i);
+    if (nestedMatch) {
+        const albumName = nestedMatch[1];
+        const albumRecord = results.find(record => record.album && record.album.toLowerCase() === albumName.toLowerCase());
+        if (albumRecord) {
+            return results.filter(record => record.artist === albumRecord.artist);
+        }
+        return [];
+    }
+    
+    // Handle OR conditions (for natural language searches)
+    if (whereClause.includes(' OR ')) {
+        const orConditions = whereClause.split(/\s+OR\s+/i);
+        return results.filter(record => {
+            return orConditions.some(condition => {
+                return evaluateCondition(record, condition.trim());
+            });
+        });
+    }
+    
+    // Handle AND conditions
     const conditions = whereClause.split(/\s+AND\s+/i);
     
     return results.filter(record => {
         return conditions.every(condition => {
-            const match = condition.match(/(\w+)\s*(=|>|<|>=|<=|!=)\s*["']?([^"']+)["']?/i);
-            if (!match) return true;
-            
-            const [, field, operator, value] = match;
-            const fieldValue = getFieldValue(record, field.toLowerCase());
-            
-            if (fieldValue === null || fieldValue === undefined) return false;
-            
-            switch (operator) {
-                case '=':
-                    return fieldValue.toString().toLowerCase().includes(value.toLowerCase());
-                case '!=':
-                    return !fieldValue.toString().toLowerCase().includes(value.toLowerCase());
-                case '>':
-                    return parseInt(fieldValue) > parseInt(value);
-                case '<':
-                    return parseInt(fieldValue) < parseInt(value);
-                case '>=':
-                    return parseInt(fieldValue) >= parseInt(value);
-                case '<=':
-                    return parseInt(fieldValue) <= parseInt(value);
-                default:
-                    return true;
-            }
+            return evaluateCondition(record, condition.trim());
         });
     });
+}
+
+function evaluateCondition(record, condition) {
+    // Handle LIKE operator
+    const likeMatch = condition.match(/(\w+)\s+LIKE\s+["']%([^%"']+)%["']/i);
+    if (likeMatch) {
+        const [, field, value] = likeMatch;
+        const fieldValue = getFieldValue(record, field.toLowerCase());
+        if (fieldValue === null || fieldValue === undefined) return false;
+        return fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+    }
+    
+    // Handle regular operators
+    const match = condition.match(/(\w+)\s*(=|>|<|>=|<=|!=)\s*["']?([^"']+)["']?/i);
+    if (!match) return true;
+    
+    const [, field, operator, value] = match;
+    const fieldValue = getFieldValue(record, field.toLowerCase());
+    
+    if (fieldValue === null || fieldValue === undefined) return false;
+    
+    switch (operator) {
+        case '=':
+            return fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+        case '!=':
+            return !fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+        case '>':
+            return parseInt(fieldValue) > parseInt(value);
+        case '<':
+            return parseInt(fieldValue) < parseInt(value);
+        case '>=':
+            return parseInt(fieldValue) >= parseInt(value);
+        case '<=':
+            return parseInt(fieldValue) <= parseInt(value);
+        default:
+            return true;
+    }
 }
 
 function applyOrderBy(results, orderBy) {
@@ -602,7 +655,7 @@ function getFieldValue(record, field) {
     }
 }
 
-function addCommandToHistory(query, result, errorMessage = null) {
+function addCommandToHistory(query, result, errorMessage = null, convertedSql = null) {
     const terminalContent = document.getElementById('terminalContent');
     const currentPrompt = document.querySelector('.current-prompt');
     
@@ -613,6 +666,14 @@ function addCommandToHistory(query, result, errorMessage = null) {
     
     // Insert before current prompt
     terminalContent.insertBefore(commandDiv, currentPrompt);
+    
+    // If query was converted, show the SQL version
+    if (convertedSql) {
+        const convertedDiv = document.createElement('div');
+        convertedDiv.className = 'converted-query';
+        convertedDiv.textContent = `Converted: ${convertedSql}`;
+        terminalContent.insertBefore(convertedDiv, currentPrompt);
+    }
     
     // Create result display
     const resultDiv = document.createElement('div');
@@ -805,6 +866,27 @@ function showHelp() {
     return {
         type: 'help',
         content: helpDiv
+    };
+}
+
+
+function convertNaturalLanguageQuery(input) {
+    const trimmedInput = input.trim();
+    
+    // Check if it's already SQL (starts with SQL keywords)
+    const sqlKeywords = ['SELECT', 'SHOW', 'DESCRIBE', 'HELP', 'CLEAR'];
+    const firstWord = trimmedInput.split(' ')[0].toUpperCase();
+    
+    if (sqlKeywords.includes(firstWord)) {
+        return { query: trimmedInput, converted: false };
+    }
+    
+    // Convert any natural language input to search both artists and albums
+    const sqlQuery = `SELECT * FROM albums WHERE artist LIKE "%${trimmedInput}%" OR album LIKE "%${trimmedInput}%";`;
+    return {
+        query: sqlQuery,
+        converted: true,
+        convertedSql: sqlQuery
     };
 }
 
