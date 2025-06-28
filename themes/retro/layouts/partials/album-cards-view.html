@@ -1,0 +1,21 @@
+<!-- Album Cards View -->
+<div class="cards-grid" id="cardsView">
+    {{ range .albums }}
+    <div class="album-card" onclick="window.location.href='{{ .Permalink }}'">
+        <div class="album-cover retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
+        <div class="album-info">
+            <h3 class="album-title">{{ .Params.album_name | default .Title }}</h3>
+            <p class="album-artist">{{ .Params.artist_name }}</p>
+            <div class="album-meta">
+                <span class="album-date">{{ .Date.Format "2006-01-02" }}</span>
+                <span class="record-id">#{{ .Params.release_id | default "000000" }}</span>
+            </div>
+            <div class="album-tags">
+                {{ range .Params.genres }}
+                <span class="tag">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>

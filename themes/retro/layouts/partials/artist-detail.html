@@ -78,23 +78,25 @@
         
         <!-- Albums Section -->
         <div class="albums-section">
+            {{ $artistSlug := .Params.slug | default (.Title | urlize) }}
+            {{ $allAlbums := where $.Site.RegularPages "Type" "albums" }}
+            {{ $albums := where $allAlbums ".Params.artist" $artistSlug }}
+            
             <h3>DISCOGRAPHY IN COLLECTION</h3>
-            <div class="albums-grid">
-                {{ $artistSlug := .Params.slug | default (.Title | urlize) }}
-                {{ range where (where $.Site.RegularPages "Type" "albums") ".Params.artist" $artistSlug }}
-                <div class="album-item" onclick="window.location.href='{{ .RelPermalink }}'">
-                    <div class="album-thumbnail">
-                        {{ if .Params.cover.image }}
-                            <img src="{{ .RelPermalink }}{{ .Params.cover.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
-                        {{ end }}
-                    </div>
-                    <div class="album-details">
-                        <div class="album-title">{{ .Title }}</div>
-                        <div class="album-year">{{ .Params.year | default .Date.Year }}</div>
-                    </div>
-                </div>
-                {{ end }}
+            
+            {{ if gt (len $albums) 0 }}
+            <!-- View Toggle Controls -->
+            {{ partial "album-view-toggle.html" (dict "title" (printf "FOUND %d ALBUMS" (len $albums))) }}
+            
+            <!-- Album Views Container -->
+            <div class="db-section">
+                {{ partial "album-list-view.html" (dict "albums" $albums) }}
+                {{ partial "album-cards-view.html" (dict "albums" $albums) }}
             </div>
+            {{ else }}
+            <p class="no-albums-message">No albums found for this artist in the collection.</p>
+            <p class="debug-info">Looking for artist: "{{ $artistSlug }}"</p>
+            {{ end }}
         </div>
         
         <!-- External Links Section -->
@@ -137,3 +139,6 @@
         {{ end }}
     </div>
 </div>
+
+<!-- Include Album View Toggle Scripts -->
+{{ partial "album-view-scripts.html" . }}
