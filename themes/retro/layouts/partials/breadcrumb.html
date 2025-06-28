@@ -1,0 +1,15 @@
+{{ if ne .Kind "home" }}
+<div class="breadcrumb">
+    <a href="{{ .Site.BaseURL }}">Home</a>
+    {{ if eq .Type "albums" }}
+        / <a href="/albums/">Albums</a>
+    {{ else if eq .Type "artist" }}
+        / <a href="/artist/">Artists</a>
+    {{ else }}
+        {{ range .Ancestors.Reverse }}
+            / <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+    {{ end }}
+    / {{ .Params.album_name | default .Title }}
+</div>
+{{ end }}

@@ -1,0 +1,49 @@
+{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "albums" ) .Site.Params.paginate }}
+
+{{ if eq .Paginator.PageNumber 1 }}
+<a rel="me" href="https://social.mckendrick.io/@russ"></a>
+<div class="container my-5">
+    <div class="bg-primary text-light rounded-3 d-flex flex-column-reverse flex-md-column flex-lg-row align-items-center jumbotron-background">
+        <div class="text-container p-5">
+            <h1 class="display-4">{{ .Site.Params.firstPageHeader }}</h1>
+            <p class="lead">{{ .Site.Params.firstPageSubheader }}</p>
+            <a class="btn btn-secondary btn-lg" href="https://random.russ.fm/" role="button"><i class="bi bi-shuffle"></i> Grab a random album</a>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    {{ range $paginator.Pages }}
+        <div class="col">
+
+            <div class="card h-100">
+                <img src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" class="card-img-top" alt=" {{ .Params.album_name }}">
+                <div class="card-body">
+                    <h4 class="card-title">
+                        <a class="stretched-link text-dark text-decoration-none" href="{{ .Permalink }}">
+                            {{ .Params.album_name }}
+                        </a>
+                    </h4>
+                        <p class="card-subtitle text-muted">
+                            by {{ .Params.artist_name }}
+                        </p>
+                        {{ if .Params.genres }}
+                        {{ range .Params.genres }}
+                        {{ $genreUrl := printf "/genres/%s/" (urlize .) }}
+                        <a href="{{ $genreUrl }}" class="badge rounded-pill text-bg-primary text-light text-decoration-none">{{ . }}</a>
+                        {{ end }}
+                        {{ else }}
+                        <span class="badge text-bg-primary text-light">Unknown Genre</span>
+                        {{ end }}
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Added: {{ .Date | time.Format ":date_long" }}</small>
+                </div>
+            </div>
+
+        </div>
+        {{ end }}
+</div>
+<br>
+{{ partial "pagination" . }}

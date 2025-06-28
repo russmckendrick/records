@@ -1,0 +1,764 @@
+{{ define "window_title" }}DATABASE :: VINYL_COLLECTION.db{{ end }}
+
+{{ define "main" }}
+<div class="command-line">
+    <span class="prompt">user@russ-fm:~/collection$</span>
+    <span class="command">SELECT * FROM vinyl_records ORDER BY date_added DESC LIMIT 10;</span>
+    <span class="blinking-cursor"></span>
+</div>
+
+<div class="system-stats">
+    <div class="stat-block">
+        <span class="stat-value">{{ len (where .Site.RegularPages "Type" "albums") }}</span>
+        <span class="stat-label">TOTAL_RECORDS</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">{{ if .Site.Taxonomies.artists }}{{ len .Site.Taxonomies.artists }}{{ else }}0{{ end }}</span>
+        <span class="stat-label">UNIQUE_ARTISTS</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">{{ if .Site.Taxonomies.genres }}{{ len .Site.Taxonomies.genres }}{{ else }}0{{ end }}</span>
+        <span class="stat-label">GENRES_INDEXED</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">98.7%</span>
+        <span class="stat-label">DB_INTEGRITY</span>
+    </div>
+</div>
+
+<div class="view-controls">
+    <h2 class="view-title">LATEST ADDITIONS</h2>
+    <div class="view-toggle">
+        <button class="view-btn active" onclick="switchView('list')" data-view="list">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 6L21 6.00078M8 12L21 12.0008M8 18L21 18.0007M3 6.5H4V5.5H3V6.5ZM3 12.5H4V11.5H3V12.5ZM3 18.5H4V17.5H3V18.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            LIST
+        </button>
+        <button class="view-btn" onclick="switchView('cards')" data-view="cards">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3 9H21M6.2 19H17.8C18.9201 19 19.4802 19 19.908 18.782C20.2843 18.5903 20.5903 18.2843 20.782 17.908C21 17.4802 21 16.9201 21 15.8V8.2C21 7.0799 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V15.8C3 16.9201 3 17.4802 3.21799 17.908C3.40973 18.2843 3.71569 18.5903 4.09202 18.782C4.51984 19 5.07989 19 6.2 19Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            CARDS
+        </button>
+    </div>
+</div>
+
+<div class="db-section">
+    <div class="db-list" id="listView">
+        <div class="db-header">
+            <div>ID</div>
+            <div>ART</div>
+            <div>ALBUM_TITLE</div>
+            <div>ARTIST_NAME</div>
+            <div>GENRE</div>
+            <div>DATE_ADDED</div>
+            <div>STATUS</div>
+        </div>
+        
+        {{ $paginator := .Paginate (sort (where .Site.RegularPages "Type" "albums") "Date" "desc") 20 }}
+        {{ range $paginator.Pages }}
+        <div class="db-row" onclick="window.location.href='{{ .Permalink }}'">
+            <div class="record-id">#{{ .Params.release_id | default "000000" }}</div>
+            <div class="album-cover-mini retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
+            <div class="album-title">{{ .Params.album_name | default .Title }}</div>
+            <div class="artist-name">{{ .Params.artist_name }}</div>
+            <div><span class="genre-tag">{{ range first 1 .Params.genres }}{{ . | upper }}{{ end }}</span></div>
+            <div class="date-added">{{ .Date.Format "2006-01-02" }}</div>
+            <div><div class="status-indicator"></div></div>
+        </div>
+        {{ end }}
+    </div>
+    
+    <div class="cards-grid" id="cardsView">
+        {{ range $paginator.Pages }}
+        <div class="album-card" onclick="window.location.href='{{ .Permalink }}'">
+            <div class="album-cover retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
+            <div class="album-info">
+                <h3 class="album-title">{{ .Params.album_name | default .Title }}</h3>
+                <p class="album-artist">{{ .Params.artist_name }}</p>
+                <div class="album-meta">
+                    <span class="album-date">{{ .Date.Format "2006-01-02" }}</span>
+                    <span class="record-id">#{{ .Params.release_id | default "000000" }}</span>
+                </div>
+                <div class="album-tags">
+                    {{ range .Params.genres }}
+                    <span class="tag">{{ . }}</span>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<!-- Retro Pagination -->
+{{ if gt $paginator.TotalPages 1 }}
+<div class="pagination-section">
+    <div class="pagination-controls">
+        <div class="pagination-info">
+            <span class="pagination-label">PAGE {{ $paginator.PageNumber }} OF {{ $paginator.TotalPages }}</span>
+            <span class="pagination-stats">SHOWING {{ len $paginator.Pages }} OF {{ $paginator.TotalNumberOfElements }} RECORDS</span>
+        </div>
+        <div class="pagination-buttons">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">&lt;&lt; PREV</a>
+            {{ else }}
+            <span class="pagination-btn disabled">&lt;&lt; PREV</span>
+            {{ end }}
+            
+            {{ $.Scratch.Set "adjacent_links" 2 }}
+            {{ $adjacent_links := $.Scratch.Get "adjacent_links" }}
+            {{ $max_links := (add (mul $adjacent_links 2) 1) }}
+            {{ $lower_limit := (add $adjacent_links 1) }}
+            {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+            
+            {{ if gt $paginator.TotalPages $max_links }}
+                
+                {{ if le $paginator.PageNumber $lower_limit }}
+                    {{ range $paginator.Pagers }}
+                        {{ if le .PageNumber $max_links }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if lt $max_links $paginator.TotalPages }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                    {{ end }}
+                
+                {{ else if ge $paginator.PageNumber $upper_limit }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                
+                {{ else }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if and (ge .PageNumber (sub $paginator.PageNumber $adjacent_links)) (le .PageNumber (add $paginator.PageNumber $adjacent_links)) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                {{ end }}
+                
+            {{ else }}
+                {{ range $paginator.Pagers }}
+                    {{ if eq . $paginator }}
+                    <span class="pagination-btn active">{{ .PageNumber }}</span>
+                    {{ else }}
+                    <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="pagination-btn">NEXT &gt;&gt;</a>
+            {{ else }}
+            <span class="pagination-btn disabled">NEXT &gt;&gt;</span>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<div class="terminal-footer">
+    <div class="footer-info">
+        <span>Connection: SECURE | Last Sync: {{ now.Format "2006-01-02 15:04:05" }} UTC</span>
+        <span>Memory Usage: 847MB / 2GB</span>
+    </div>
+</div>
+
+<style>
+/* Homepage specific styles */
+.command-line {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+
+.prompt {
+    color: var(--text-color);
+}
+
+.command {
+    color: var(--accent-color);
+    margin-left: 1rem;
+}
+
+/* System Stats */
+.system-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.stat-block {
+    text-align: center;
+    padding: 1rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="90s"] .stat-block {
+    border: 1px inset #c0c0c0;
+    background: #e0e0e0;
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-family);
+}
+
+.stat-label {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/* View Toggle */
+.view-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.view-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.view-toggle {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.view-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.view-btn.active {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="90s"] .view-btn {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+[data-era="90s"] .view-btn:hover {
+    border: 1px inset #c0c0c0;
+}
+
+[data-era="90s"] .view-btn.active {
+    background: var(--highlight-bg);
+    color: white;
+}
+
+/* Database Grid */
+.db-section {
+    margin: 2rem 0;
+}
+
+.db-header {
+    display: grid;
+    grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 2px solid var(--border-color);
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.db-row {
+    display: grid;
+    grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    align-items: center;
+}
+
+.db-row:hover {
+    background: var(--highlight-bg);
+}
+
+[data-era="90s"] .db-row:hover {
+    background: var(--highlight-bg);
+    color: white;
+}
+
+.record-id {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.album-cover-mini {
+    width: 40px;
+    height: 40px;
+    background: #222;
+    border: 1px solid #444;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+[data-era="90s"] .album-cover-mini {
+    border: 1px inset #c0c0c0;
+    background: #f0f0f0;
+}
+
+.album-cover-mini.no-image::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 8px;
+    height: 8px;
+    background: #444;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.album-title {
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.artist-name {
+    color: var(--secondary-text);
+}
+
+.genre-tag {
+    background: rgba(255, 255, 0, 0.2);
+    color: var(--accent-color);
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: 1px solid var(--accent-color);
+}
+
+[data-era="90s"] .genre-tag {
+    background: #800080;
+    color: white;
+    border: 1px outset #800080;
+}
+
+.date-added {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.status-indicator {
+    width: 8px;
+    height: 8px;
+    background: var(--accent-color);
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+[data-era="90s"] .status-indicator {
+    border-radius: 0;
+    background: #008000;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+
+/* Card View */
+.cards-grid {
+    display: none;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.cards-grid.active {
+    display: grid;
+}
+
+.album-card {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+[data-era="90s"] .album-card {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+.album-card:hover {
+    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+}
+
+[data-era="90s"] .album-card:hover {
+    border: 1px inset #c0c0c0;
+}
+
+.album-cover {
+    width: 100%;
+    aspect-ratio: 1;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.album-info {
+    padding: 1.5rem;
+}
+
+.album-card .album-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+.album-card .album-artist {
+    color: var(--secondary-text);
+    margin-bottom: 1rem;
+}
+
+.album-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.album-date {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.album-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background: rgba(255, 255, 0, 0.2);
+    color: var(--accent-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    border: 1px solid var(--accent-color);
+}
+
+[data-era="90s"] .tag {
+    background: #800080;
+    color: white;
+    border: 1px outset #800080;
+    border-radius: 0;
+}
+
+/* Hide/Show Views */
+.db-list {
+    display: block;
+}
+
+.db-list.hidden {
+    display: none;
+}
+
+/* Pagination */
+.pagination-section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.pagination-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.pagination-label {
+    font-family: var(--font-family);
+    font-weight: 600;
+    color: var(--text-color);
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.pagination-stats {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.pagination-buttons {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pagination-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.pagination-btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.pagination-btn.active {
+    background: var(--accent-color);
+    color: var(--window-bg);
+    font-weight: 700;
+}
+
+.pagination-btn.disabled {
+    background: var(--window-bg);
+    color: var(--secondary-text);
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+[data-era="90s"] .pagination-btn {
+    border: 1px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+[data-era="90s"] .pagination-btn:hover {
+    border: 1px inset #c0c0c0;
+}
+
+[data-era="90s"] .pagination-btn.active {
+    background: var(--accent-color);
+    color: white;
+    border: 1px inset var(--accent-color);
+}
+
+[data-era="90s"] .pagination-btn.disabled {
+    background: #e0e0e0;
+    color: #808080;
+    border: 1px outset #e0e0e0;
+}
+
+/* Footer */
+.terminal-footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .db-header {
+        display: none;
+    }
+    
+    .db-row {
+        display: block;
+        padding: 1rem;
+        border: 1px solid var(--border-color);
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+    }
+    
+    .system-stats {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.5rem;
+    }
+    
+    .stat-value {
+        font-size: 1.5rem;
+    }
+    
+    .view-controls {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: stretch;
+    }
+    
+    .view-toggle {
+        justify-content: center;
+    }
+    
+    .cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+    
+    .pagination-controls {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+    }
+    
+    .pagination-buttons {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .command-line {
+        font-size: 0.8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .system-stats {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+    
+    .stat-value {
+        font-size: 1.2rem;
+    }
+    
+    .stat-label {
+        font-size: 0.7rem;
+    }
+    
+    .cards-grid {
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+    }
+    
+    .album-info {
+        padding: 1rem;
+    }
+    
+    .album-title {
+        font-size: 1rem;
+    }
+    
+    .view-title {
+        font-size: 1rem;
+    }
+    
+    .pagination-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.7rem;
+    }
+    
+    .pagination-label {
+        font-size: 0.9rem;
+    }
+}
+</style>
+
+<script>
+// Load saved view preference on page load
+document.addEventListener('DOMContentLoaded', function() {
+    const savedView = localStorage.getItem('retro-view-preference') || 'list';
+    switchView(savedView, false); // false to prevent saving again during load
+});
+
+function switchView(viewType, savePreference = true) {
+    const listView = document.getElementById('listView');
+    const cardsView = document.getElementById('cardsView');
+    const viewBtns = document.querySelectorAll('.view-btn');
+    
+    // Update button states
+    viewBtns.forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.querySelector(`[data-view="${viewType}"]`);
+    if (activeBtn) {
+        activeBtn.classList.add('active');
+    }
+    
+    // Toggle views
+    if (viewType === 'list') {
+        listView.classList.remove('hidden');
+        cardsView.classList.remove('active');
+    } else {
+        listView.classList.add('hidden');
+        cardsView.classList.add('active');
+    }
+    
+    // Save preference to localStorage
+    if (savePreference) {
+        localStorage.setItem('retro-view-preference', viewType);
+    }
+}
+</script>
+{{ end }}

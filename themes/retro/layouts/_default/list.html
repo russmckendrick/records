@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<div class="container my-5 px-4 mx-auto text-dark">
+    <h1 class="display-3 fw-bold">{{ .Title }}</h1>
+</div>
+
+{{ if .Params.image }}
+<div class="container my-5 px-4 mx-auto bg-light text-dark">
+    <div class="row g-3">
+        {{ if .Params.image }}
+        <div class="col-md-4"><img src="{{ (path.Join .RelPermalink .Params.image) | absURL }}" class="img-fluid rounded" alt /></div>
+        {{ end }}
+        <div class="col-md-8">
+            <p>{{ .Summary }}</p>
+            {{ if ne .Params.apple_music_artist_url "None" }}
+            <a href="{{ .Params.apple_music_artist_url }}">
+               <button class="btn btn-danger w-100 mt-4"><i class="bi bi-apple"></i> Go to {{ .Title }} on Apple Music</button>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<div class="container my-5 px-4 mx-auto bg-light text-dark">
+    <section class="mb-5">
+        <div class="row row-cols-1 row-cols-lg-3 g-4">
+    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) .Site.Params.paginate }}
+    {{ range $index, $page := $paginator.Pages }}
+    <div class="col">
+        <div class="card h-100 bg-white shadow-sm rounded-3">
+            <a href="{{ .Permalink }}">
+                <img class="card-img-top rounded-top"
+                    src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}"
+                    alt="{{ .Page.Params.Artist }}">
+            </a>
+            <div class="card-body">
+                <h5 class="card-title">{{ $page.Params.album_name }} by {{ $page.Params.artist_name }}</h5>
+                <a href="{{ $page.RelPermalink }}">
+                    <button class="btn btn-secondary w-100 mt-2">Go to Album</button>
+                </a>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+    </div>
+    </section>
+    {{- partial "pagination.html" . -}}
+</div>
+
+{{ end }}

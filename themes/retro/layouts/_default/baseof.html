@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="{{ .Language.LanguageCode | default site.Language.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "head/head.html" . }}
+    {{ $retro := resources.Get "sass/retro.scss" | css.Sass | resources.Minify }}
+    <link rel="stylesheet" href="{{ $retro.Permalink }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body data-era="80s">
+    <!-- Retro Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="system-info">
+                <div class="system-title">{{ .Site.Title | default "RUSS.FM" }}</div>
+                <div class="system-version">MUSIC_DB v2.1.4</div>
+            </div>
+            {{ partial "navigation.html" . }}
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-window">
+        <div class="window-header">
+            <div class="window-title">{{ block "window_title" . }}{{ .Title | upper }}{{ end }}</div>
+            <div class="window-controls">
+                <div class="control-btn close"></div>
+                <div class="control-btn minimize"></div>
+                <div class="control-btn maximize"></div>
+            </div>
+        </div>
+        
+        
+        <div class="terminal-content">
+            {{ block "main" . }}{{ end }}
+        </div>
+    </main>
+
+    <!-- JavaScript for Theme Switching -->
+    <script>
+        function toggleTheme() {
+            const currentEra = document.body.getAttribute('data-era');
+            const newEra = currentEra === '80s' ? '90s' : '80s';
+            
+            document.body.setAttribute('data-era', newEra);
+            
+            // Update system version for era
+            const versionEl = document.querySelector('.system-version');
+            const iconEl = document.getElementById('themeIcon');
+            const labelEl = document.getElementById('themeLabel');
+            
+            if (newEra === '80s') {
+                versionEl.textContent = 'MUSIC_DB v2.1.4';
+                labelEl.textContent = 'TERMINAL';
+                iconEl.innerHTML = `
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M13 15H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M8 15L10.5 12.5V12.5C10.7761 12.2239 10.7761 11.7761 10.5 11.5V11.5L8 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 8C3 6.11438 3 5.17157 3.58579 4.58579C4.17157 4 5.11438 4 7 4H12H17C18.8856 4 19.8284 4 20.4142 4.58579C21 5.17157 21 6.11438 21 8V12V16C21 17.8856 21 18.8284 20.4142 19.4142C19.8284 20 18.8856 20 17 20H12H7C5.11438 20 4.17157 20 3.58579 19.4142C3 18.8284 3 17.8856 3 16V12V8Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                    </svg>
+                `;
+            } else {
+                versionEl.textContent = 'Music Database 95 v1.0';
+                labelEl.textContent = 'DESKTOP';
+                iconEl.innerHTML = `
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3 7C3 5.11438 3 4.17157 3.58579 3.58579C4.17157 3 5.11438 3 7 3H12H17C18.8856 3 19.8284 3 20.4142 3.58579C21 4.17157 21 5.11438 21 7V10V13C21 14.8856 21 15.8284 20.4142 16.4142C19.8284 17 18.8856 17 17 17H12H7C5.11438 17 4.17157 17 3.58579 16.4142C3 15.8284 3 14.8856 3 13V10V7Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        <path d="M13.3333 17L14.6667 19V19C15.2366 19.8549 14.6238 21 13.5963 21H12H10.4037C9.37624 21 8.7634 19.8549 9.33333 19V19L10.6667 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 13H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+{{ define "window_title" }}ARTISTS :: DATABASE INDEX{{ end }}
+
+{{ define "main" }}
+<div class="stats-section">
+    <div class="stat-item">
+        <span class="stat-value">{{ len .Pages }}</span>
+        <span class="stat-label">TOTAL ARTISTS</span>
+    </div>
+    <div class="stat-item">
+        <span class="stat-value">{{ len (where .Site.RegularPages "Type" "albums") }}</span>
+        <span class="stat-label">ALBUMS</span>
+    </div>
+    <div class="stat-item">
+        <span class="stat-value">{{ len .Site.Taxonomies.genres }}</span>
+        <span class="stat-label">GENRES</span>
+    </div>
+</div>
+
+<div class="search-controls">
+    <input type="text" class="search-input" placeholder="SEARCH ARTISTS..." id="searchInput" onkeyup="filterArtists()">
+    
+    <div class="alphabet-filter">
+        <button class="letter-btn active" onclick="filterByLetter('ALL')">ALL</button>
+        <button class="letter-btn" onclick="filterByLetter('#')">#</button>
+        {{ range seq 65 90 }}
+            {{ $letter := printf "%c" . }}
+            <button class="letter-btn" onclick="filterByLetter('{{ $letter }}')">{{ $letter }}</button>
+        {{ end }}
+    </div>
+</div>
+
+<div class="artist-grid" id="artistGrid">
+    {{ range .Pages }}
+    <div class="artist-card" data-name="{{ .Title }}" onclick="window.location.href='{{ .RelPermalink }}'">
+        <div class="artist-image">
+            {{ if .Params.image }}
+                <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+            {{ end }}
+        </div>
+        <div class="artist-info">
+            <h3 class="artist-name">{{ .Title }}</h3>
+            <div class="artist-stats">
+                {{ $artistSlug := .Params.slug | default (.Title | urlize) }}
+                {{ $albumCount := len (where (where $.Site.RegularPages "Type" "albums") ".Params.artist" $artistSlug) }}
+                <span>{{ $albumCount }} Album{{ if ne $albumCount 1 }}s{{ end }}</span>
+                {{ if .Params.genres }}
+                    <span>{{ delimit .Params.genres "/" }}</span>
+                {{ end }}
+            </div>
+            {{ if .Params.summary }}
+            <p class="artist-summary">{{ .Params.summary }}</p>
+            {{ else if .Summary }}
+            <p class="artist-summary">{{ .Summary }}</p>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+<script>
+function filterByLetter(letter) {
+    // Update button states
+    document.querySelectorAll('.letter-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    event.target.classList.add('active');
+    
+    // Filter artists
+    const artistCards = document.querySelectorAll('.artist-card');
+    artistCards.forEach(card => {
+        const artistName = card.getAttribute('data-name');
+        if (letter === 'ALL') {
+            card.style.display = 'block';
+        } else if (letter === '#') {
+            // Show artists starting with numbers
+            const firstChar = artistName.charAt(0);
+            card.style.display = /\d/.test(firstChar) ? 'block' : 'none';
+        } else {
+            card.style.display = artistName.charAt(0).toUpperCase() === letter ? 'block' : 'none';
+        }
+    });
+}
+
+function filterArtists() {
+    const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+    const artistCards = document.querySelectorAll('.artist-card');
+    
+    artistCards.forEach(card => {
+        const artistName = card.getAttribute('data-name').toLowerCase();
+        card.style.display = artistName.includes(searchTerm) ? 'block' : 'none';
+    });
+    
+    // Reset letter filter
+    if (searchTerm === '') {
+        document.querySelectorAll('.letter-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        document.querySelector('.letter-btn').classList.add('active');
+    }
+}
+</script>
+{{ end }}

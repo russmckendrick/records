@@ -1,0 +1,105 @@
+:root {
+    --dark-navy: #1a1e2e;
+    --medium-navy: #2c3141;
+    --light-navy: #3d4255;
+    --accent-grey: #cccccc;
+    --text-light: #e0e0e0;
+    --light-accent: #e0e0e0;; /* Add a new variable for a lighter color */
+}
+
+.navbar {
+    background-color: var(--medium-navy);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.navbar-brand {
+    color: var(--accent-grey);
+    font-weight: bold;
+    transition: color 0.2s ease-in-out;
+}
+
+.navbar-brand:hover {
+    color: var(--text-light);
+}
+
+.navbar-nav .nav-link {
+    color: rgba(224,224,224,0.8);
+    transition: color 0.2s ease-in-out;
+}
+
+/* Add this block to set the active color */
+.navbar-nav .nav-link.active {
+    color: var(--light-accent); /* Use a lighter color for the active link */
+    font-weight: bold; /* Optional: Make the active link bold */
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    color: var(--text-light);
+}
+
+.navbar-toggler {
+    border-color: rgba(224,224,224,0.1);
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28224, 224, 224, 0.8%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.jumbotron {
+    background-color: var(--light-navy);
+    color: var(--text-light);
+}
+
+/* Continuous spinning animation for the icon */
+.navbar-icon {
+    animation: spin 4s linear infinite; /* Spins continuously */
+    transition: transform 0.3s ease-in-out; /* Smooth zoom on hover */
+}
+
+/* Zoom effect when the user hovers over the icon or the logo text */
+.navbar-brand:hover .navbar-icon {
+    transform: scale(1.2); /* Scales the icon to 120% of its original size */
+}
+
+/* Keyframes for the spinning animation */
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Hide text and adjust buttons for mobile devices */
+@media (max-width: 768px) {
+    .pagination .page-item .page-link span {
+      display: none;
+    }
+  
+    .pagination .page-item .page-link[aria-label="Previous"]::before {
+      content: "←";
+    }
+  
+    .pagination .page-item .page-link[aria-label="Next"]::after {
+      content: "→";
+    }
+  
+    .pagination .page-item .page-link[aria-label="First"]::before {
+      content: "<<";
+    }
+  
+    .pagination .page-item .page-link[aria-label="Last"]::after {
+      content: ">>";
+    }
+  
+    .pagination .page-link {
+      padding: 8px 12px;
+    }
+  }

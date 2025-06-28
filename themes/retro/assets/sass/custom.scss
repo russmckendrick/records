@@ -1,0 +1,247 @@
+html {
+    overflow-y: scroll;
+}
+
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background-color: var(--bs-light);
+    border-radius: .3rem;  
+}
+
+%callout-shared {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300))
+}
+
+blockquote {
+    @extend %callout-shared;
+    text-align: center;
+}
+
+.callout {
+    @extend %callout-shared;
+}
+
+.callout-info {
+    --bd-callout-bg: rgba(var(--bs-info-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-info-rgb), .5)
+}
+
+.callout-warning {
+    --bd-callout-bg: rgba(var(--bs-warning-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-warning-rgb), .5)
+}
+
+.callout-danger {
+    --bd-callout-bg: rgba(var(--bs-danger-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-danger-rgb), .5)
+}
+
+.feather {
+    width: 1em;
+    height: 1em;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+}
+
+.feather-big {
+    width: 4em;
+    height: 4em;
+}
+
+a /*.feather*/ {
+    $twitter-blue: #55acee;
+    $github-black: #000;
+
+    .feather-twitter:hover {
+        stroke: $twitter-blue;
+        fill: $twitter-blue;
+    }
+
+    .feather-github:hover {
+        stroke: $github-black;
+        fill: $github-black;
+    }
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%; /* Maintain aspect ratio */
+    perspective: 1000px;
+    position: relative;
+  }
+  .flip-card-inner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+  }
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  .flip-card-front {
+    color: black;
+  }
+  .flip-card-back {
+    color: white;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
+  }
+  .flip-card-back::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .flip-card-back > * {
+    position: relative;
+    z-index: 1;
+  }
+  .hover-prompt {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  .flip-card:hover .hover-prompt {
+    opacity: 0;
+  }
+
+
+  .jumbotron-background {
+    background-image: url('https://www.russ.fm/images/sticker-clear.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: #343a40; /* Adjust background color to match the overall theme */
+  }
+
+  /* Adjustments for medium and small screens */
+  @media (max-width: 992px) {
+    .jumbotron-background {
+        background-image: none;
+    }
+    .text-container {
+        text-align: center;
+        padding: 2rem 1rem;
+    }
+    .text-container h1 {
+        font-size: 2rem;
+    }
+    .text-container p {
+        font-size: 1.25rem;
+    }
+    .btn {
+        margin-top: 1rem;
+        width: 100%;
+    }
+  }
+
+  /* Adjustments for screens between 782px and 992px */
+  @media (min-width: 782px) and (max-width: 992px) {
+    .jumbotron-background {
+        flex-direction: column;
+        align-items: center;
+    }
+    .text-container {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+  }
+
+
+  .lastfm-display {
+    background-color: var(--medium-navy);
+    border-top: 1px solid var(--accent-grey);
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 2rem;
+  }
+  
+  .track-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .track-item {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    transform: translateY(40px);
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .track-item.active {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+  .track-item.exit {
+    transform: translateY(-40px);
+    opacity: 0;
+  }
+  
+  .track-item.now-playing {
+    color: #1db954;
+  }
+  
+  /* Remove the body padding-top that was accounting for the fixed display */
+  body {
+    padding-top: 56px; /* Adjusted to account for the fixed navbar height */
+  }
+  
+  @media (max-width: 768px) {
+    .track-item {
+      font-size: 12px;
+    }
+  }

@@ -1,0 +1,27 @@
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    {{ range $index, $image := $.Page.Params.additional_images }}
+    <button type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="{{ $index }}" class="{{ if eq $index 0 }}active{{ end }}" aria-current="{{ if eq $index 0 }}true{{ end }}" aria-label="Slide {{ add $index 1 }}"></button>
+    {{ end }}
+  </div>
+
+  <!-- Carousel inner -->
+  <div class="carousel-inner">
+    {{ range $index, $image := $.Page.Params.additional_images }}
+    <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+      <img src="{{ $image }}" class="d-block w-100" alt="">
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>

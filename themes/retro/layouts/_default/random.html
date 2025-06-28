@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+<div class="container mt-4">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8 col-lg-6">
+      <div class="flip-card">
+        <div class="flip-card-inner">
+          <div class="flip-card-front">
+            <img id="album-image" src="" alt="Album cover" style="width:100%;height:100%;object-fit:cover;">
+            <div class="hover-prompt">Hover for info</div>
+          </div>
+          <div class="flip-card-back">
+            <h3 class="card-title"><span id="album-album"></span></h3>
+            <p>by <span id="album-artist"></span></p>
+            <p>Added: <span id="album-date"></span></p>
+            <div class="d-grid gap-2 mt-3">
+              <a id="goto-album" class="btn btn-light"><i class="bi bi-link-45deg"></i> Go to Album</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="d-grid gap-2 mt-3">
+        <button class="btn btn-primary" type="button" id="get-random-album"><i class="bi bi-shuffle"></i> Grab another album</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const albumsUrl = "/index.json";
+const albumArtistEl = document.getElementById('album-artist');
+const albumAlbumEl = document.getElementById('album-album');
+const albumImageEl = document.getElementById('album-image');
+const albumDateEl = document.getElementById('album-date');
+const getRandomAlbumBtn = document.getElementById('get-random-album');
+const gotoAlbumLink = document.getElementById('goto-album');
+const flipCardBack = document.querySelector('.flip-card-back');
+const hoverPrompt = document.querySelector('.hover-prompt');
+let albums;
+
+fetch(albumsUrl)
+  .then(response => response.text())
+  .then(data => {
+    data = data.replace(/&nbsp;/g, ' ');
+    albums = JSON.parse(data).documents;
+    getRandomAlbum();
+  })
+  .catch(error => console.error(error));
+
+function getRandomAlbum() {
+  const randomIndex = Math.floor(Math.random() * albums.length);
+  const randomAlbum = albums[randomIndex];
+  albumArtistEl.textContent = randomAlbum.artist;
+  albumAlbumEl.textContent = randomAlbum.album;
+  albumImageEl.src = randomAlbum.coverImage;
+  albumImageEl.alt = randomAlbum.album + ' cover';
+  albumDateEl.textContent = randomAlbum.date;
+  gotoAlbumLink.href = randomAlbum.uri;
+  flipCardBack.style.backgroundImage = `url(${randomAlbum.coverImage})`;
+  
+  // Show hover prompt
+  setTimeout(() => {
+    hoverPrompt.style.opacity = '1';
+  }, 1000);
+
+  // Hide hover prompt after 5 seconds
+  setTimeout(() => {
+    hoverPrompt.style.opacity = '0';
+  }, 6000);
+}
+
+getRandomAlbumBtn.addEventListener('click', getRandomAlbum);
+gotoAlbumLink.addEventListener('click', (event) => {
+  event.preventDefault();
+  window.open(gotoAlbumLink.href, '_blank');
+});
+</script>
+{{ end }}
