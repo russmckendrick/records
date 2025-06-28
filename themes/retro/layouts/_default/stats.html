@@ -1,78 +1,363 @@
+{{ define "window_title" }}STATS{{ end }}
+
 {{ define "main" }}
-<div class="container mt-5">
-  <h1 class="text-center mb-5">Record Collection Stats</h1>
+<div class="stats-container">
+    <div class="stats-header">
+        <h1>Record Collection Stats</h1>
+        <div class="stats-summary">
+            <div class="stat-item">
+                <span class="stat-label">Total Albums</span>
+                <span class="stat-value" id="total-albums">3074</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Unique Artists</span>
+                <span class="stat-value" id="unique-artists">1118</span>
+            </div>
+        </div>
+    </div>
 
-  <div class="row mb-5">
-    <div class="col-md-6 mb-4">
-      <div class="card h-100 bg-primary text-white">
-        <div class="card-body text-center">
-          <h2 class="card-title">Total Albums</h2>
-          <p class="display-4" id="total-albums">Loading...</p>
+    <div class="stats-content">
+        <div class="stats-section">
+            <h2>Top Artists</h2>
+            <ul class="top-list" id="top-artists">
+                <li><span class="artist-name">Pink Floyd</span>: <span class="count">42</span></li>
+                <li><span class="artist-name">Moby</span>: <span class="count">31</span></li>
+                <li><span class="artist-name">David Bowie</span>: <span class="count">24</span></li>
+                <li><span class="artist-name">New Order</span>: <span class="count">23</span></li>
+                <li><span class="artist-name">Iron Maiden</span>: <span class="count">23</span></li>
+            </ul>
         </div>
-      </div>
-    </div>
-    <div class="col-md-6 mb-4">
-      <div class="card h-100 bg-success text-white">
-        <div class="card-body text-center">
-          <h2 class="card-title">Unique Artists</h2>
-          <p class="display-4" id="unique-artists">Loading...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="row mb-4">
-    <div class="col-md-4 mb-4">
-      <div class="card h-100">
-        <div class="card-body">
-          <h2 class="card-title">Top Artists</h2>
-          <ul id="top-artists"></ul>
-          <canvas id="top-artists-chart"></canvas>
+        <div class="chart-container">
+            <canvas id="top-artists-chart"></canvas>
         </div>
-      </div>
-    </div>
-    <div class="col-md-4 mb-4">
-      <div class="card h-100">
-        <div class="card-body">
-          <h2 class="card-title">Top Genres</h2>
-          <ul id="top-genres"></ul>
-          <canvas id="top-genres-chart"></canvas>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4 mb-4">
-      <div class="card h-100">
-        <div class="card-body">
-          <h2 class="card-title">Top Styles</h2>
-          <ul id="top-styles"></ul>
-          <canvas id="top-styles-chart"></canvas>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="row mb-4">
-    <div class="col-md-12 mb-4">
-      <div class="card h-100">
-        <div class="card-body">
-          <h2 class="card-title">Albums added by Year</h2>
-          <canvas id="albums-by-year-chart"></canvas>
+        <div class="stats-section">
+            <h2>Genre Distribution</h2>
+            <div class="chart-container">
+                <canvas id="genre-chart"></canvas>
+            </div>
         </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="row mb-4">
-    <div class="col-12">
-      <div class="card">
-        <div class="card-body">
-          <h2 class="card-title">Recent Additions</h2>
-          <div id="recent-additions" class="row"></div>
+        <div class="stats-section">
+            <h2>Albums by Year</h2>
+            <div class="chart-container">
+                <canvas id="albums-by-year-chart"></canvas>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
+</div>
 
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="/js/record-stats.js"></script>
-  {{ end }}
+<style>
+.stats-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.stats-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.stats-header h1 {
+    font-size: 2.5rem;
+    color: var(--text-color);
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.stats-summary {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-label {
+    display: block;
+    color: var(--secondary-text);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    display: block;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--accent-color);
+}
+
+.stats-content {
+    display: grid;
+    gap: 3rem;
+}
+
+.stats-section {
+    background: var(--window-bg);
+    border: 2px solid var(--border-color);
+    padding: 2rem;
+}
+
+[data-era="90s"] .stats-section {
+    border: 2px outset #c0c0c0;
+    background: #c0c0c0;
+}
+
+.stats-section h2 {
+    color: var(--text-color);
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.top-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.top-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-list li:last-child {
+    border-bottom: none;
+}
+
+.artist-name {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.count {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+}
+
+.chart-container {
+    background: var(--window-bg);
+    border: 2px solid var(--border-color);
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+[data-era="90s"] .chart-container {
+    border: 2px inset #c0c0c0;
+    background: white;
+}
+
+/* Chart.js custom styling */
+.chart-container canvas {
+    max-height: 400px;
+}
+
+/* Loading state */
+.loading {
+    color: var(--secondary-text);
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .stats-summary {
+        flex-direction: column;
+        gap: 2rem;
+    }
+    
+    .stat-value {
+        font-size: 2rem;
+    }
+    
+    .stats-container {
+        padding: 1rem;
+    }
+    
+    .stats-section {
+        padding: 1rem;
+    }
+}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+// Wait for DOM to load
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the current era for theming
+    const currentEra = document.body.getAttribute('data-era') || '80s';
+    
+    // Define color schemes based on era
+    const colorSchemes = {
+        '80s': {
+            primary: '#00ff41',
+            secondary: '#ffff00',
+            background: '#000000',
+            grid: '#00ff41',
+            text: '#00ff41'
+        },
+        '90s': {
+            primary: '#0000ff',
+            secondary: '#800080',
+            background: '#ffffff',
+            grid: '#808080',
+            text: '#000000'
+        }
+    };
+    
+    const colors = colorSchemes[currentEra];
+    
+    // Chart.js default settings for retro theme
+    Chart.defaults.color = colors.text;
+    Chart.defaults.borderColor = colors.grid;
+    Chart.defaults.backgroundColor = colors.background;
+    
+    // Genre pie chart
+    const genreCtx = document.getElementById('genre-chart');
+    if (genreCtx) {
+        new Chart(genreCtx, {
+            type: 'pie',
+            data: {
+                labels: ['Rock', 'Electronic', 'Pop', 'Metal', 'Alternative'],
+                datasets: [{
+                    data: [945, 623, 412, 287, 807],
+                    backgroundColor: [
+                        '#ff6384',
+                        '#36a2eb',
+                        '#ffce56',
+                        '#4bc0c0',
+                        '#9966ff'
+                    ],
+                    borderColor: colors.grid,
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: {
+                            color: colors.text,
+                            font: {
+                                family: currentEra === '80s' ? 'JetBrains Mono' : 'MS Sans Serif'
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    }
+    
+    // Top artists bar chart
+    const artistsCtx = document.getElementById('top-artists-chart');
+    if (artistsCtx) {
+        new Chart(artistsCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Pink Floyd', 'Moby', 'David Bowie', 'New Order', 'Iron Maiden'],
+                datasets: [{
+                    label: 'Album Count',
+                    data: [42, 31, 24, 23, 23],
+                    backgroundColor: colors.primary,
+                    borderColor: colors.primary,
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: colors.grid,
+                            drawBorder: true
+                        },
+                        ticks: {
+                            color: colors.text
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: colors.grid,
+                            drawBorder: true
+                        },
+                        ticks: {
+                            color: colors.text
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        });
+    }
+    
+    // Albums by year line chart
+    const yearCtx = document.getElementById('albums-by-year-chart');
+    if (yearCtx) {
+        new Chart(yearCtx, {
+            type: 'line',
+            data: {
+                labels: ['2020', '2021', '2022', '2023', '2024'],
+                datasets: [{
+                    label: 'Albums Added',
+                    data: [245, 412, 523, 687, 1207],
+                    borderColor: colors.primary,
+                    backgroundColor: colors.primary + '33',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: colors.grid
+                        },
+                        ticks: {
+                            color: colors.text
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: colors.grid
+                        },
+                        ticks: {
+                            color: colors.text
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: colors.text
+                        }
+                    }
+                }
+            }
+        });
+    }
+});
+</script>
+{{ end }}
