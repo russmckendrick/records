@@ -214,20 +214,35 @@
     border-bottom: 1px solid #808080;
 }
 
-/* Artist placeholder patterns */
-.artist-image::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: 
-        radial-gradient(circle at 30% 30%, #666 20%, transparent 21%),
-        radial-gradient(circle at 70% 70%, #444 15%, transparent 16%),
-        linear-gradient(45deg, #333 25%, transparent 25%, transparent 75%, #333 75%);
-    background-size: 40px 40px, 30px 30px, 20px 20px;
-    opacity: 0.8;
+/* Artist placeholder patterns - removed per user request */
+
+.artist-info {
+    padding: 1rem;
+}
+
+.artist-card .artist-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+.artist-stats {
+    display: flex;
+    justify-content: space-between;
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.artist-summary {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 /* Button Components */

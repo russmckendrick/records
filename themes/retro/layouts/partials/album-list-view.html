@@ -15,7 +15,7 @@
         <div class="record-id">#{{ .Params.release_id | default "000000" }}</div>
         <div class="album-cover-mini retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
         <div class="album-title">{{ .Params.album_name | default .Title }}</div>
-        <div class="artist-name">{{ .Params.artist_name }}</div>
+        <div class="table-artist">{{ if ne $.Page.Title .Params.artist_name }}{{ .Params.artist_name }}{{ else }}-{{ end }}</div>
         <div><span class="genre-tag">{{ range first 1 .Params.genres }}{{ . | upper }}{{ end }}</span></div>
         <div class="date-added">{{ .Date.Format "2006-01-02" }}</div>
         <div><div class="status-indicator"></div></div>

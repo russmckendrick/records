@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-<div class="breadcrumb">
-    <a href="{{ "/" | relURL }}">Home</a> / <a href="{{ "/artist/" | relURL }}">Artists</a> / {{ .Title }}
-</div>
-
 <div class="artist-layout">
     <!-- Artist Info Section (Left Column) -->
     <div class="artist-info-section">
@@ -20,10 +15,6 @@
                 {{ $albumCount := len (where (where $.Site.RegularPages "Type" "albums") ".Params.artist" $artistSlug) }}
                 <span class="stat-number">{{ $albumCount }}</span>
                 <span class="stat-description">Album{{ if ne $albumCount 1 }}s{{ end }}</span>
-            </div>
-            <div class="stat-box">
-                <span class="stat-number">{{ .Params.formed | default "N/A" }}</span>
-                <span class="stat-description">Formed</span>
             </div>
         </div>
         
@@ -69,7 +60,7 @@
     <div class="artist-details-section">
         <!-- Artist Header -->
         <div class="artist-header">
-            <h1 class="artist-name">{{ .Title | upper }}</h1>
+            <h1 class="artist-name">{{ .Title }}</h1>
             
             <!-- Artist Meta Tags -->
             <div class="artist-meta">
@@ -105,11 +96,9 @@
             {{ $allAlbums := where $.Site.RegularPages "Type" "albums" }}
             {{ $albums := where $allAlbums ".Params.artist" $artistSlug }}
             
-            <h3>DISCOGRAPHY IN COLLECTION</h3>
-            
             {{ if gt (len $albums) 0 }}
             <!-- View Toggle Controls -->
-            {{ partial "album-view-toggle.html" (dict "title" (printf "FOUND %d ALBUMS" (len $albums))) }}
+            {{ partial "album-view-toggle.html" (dict "title" "ALBUMS IN COLLECTION") }}
             
             <!-- Album Views Container -->
             <div class="db-section">

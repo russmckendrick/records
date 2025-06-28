@@ -132,6 +132,7 @@
 
 .db-row:hover {
     background: var(--highlight-bg);
+    color: var(--accent-color);
 }
 
 [data-era="90s"] .db-row:hover {
@@ -180,6 +181,12 @@
 
 .artist-name {
     color: var(--secondary-text);
+}
+
+.table-artist {
+    color: var(--secondary-text);
+    font-size: 1rem;
+    font-weight: 500;
 }
 
 .genre-tag {
@@ -383,14 +390,14 @@
 
 .artist-info-section .artist-stats {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 1rem;
 }
 
 .stat-number {
     font-size: 1.5rem;
     font-weight: 700;
-    color: var(--accent-color);
+    color: var(--text-color);
     display: block;
     margin-bottom: 0.3rem;
 }
