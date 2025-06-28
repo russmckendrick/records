@@ -119,8 +119,11 @@
 .album-meta {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
     gap: 0.75rem;
+    grid-auto-flow: row;
 }
+
 
 .meta-item {
     display: flex;
@@ -700,6 +703,7 @@
     
     .album-meta {
         grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto auto;
         gap: 0.5rem;
     }
     
@@ -757,6 +761,7 @@
     
     .album-meta {
         grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto auto;
         gap: 0.5rem;
     }
     
