@@ -8,7 +8,8 @@
       "Bash(find:*)",
       "Bash(hugo server:*)",
       "Bash(hugo:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
