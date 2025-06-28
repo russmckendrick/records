@@ -8,6 +8,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Search Styles -->
+    <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
+    <!-- Base URL for JavaScript -->
+    <meta name="base-url" content="{{ .Site.BaseURL }}">
 </head>
 <body data-era="80s">
     <!-- Retro Header -->
@@ -74,5 +79,8 @@
             }
         }
     </script>
+    
+    <!-- SQL Search JavaScript -->
+    <script src="{{ "js/sql-search.js" | relURL }}"></script>
 </body>
 </html>
