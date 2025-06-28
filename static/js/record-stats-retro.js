@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             background: '#000000',
             grid: '#00ff41',
             text: '#00ff41',
-            colors: ['#40e0d0', '#ffff00', '#ff00ff', '#00ffff', '#ff69b4']  // Turquoise instead of green
+            colors: ['#40e0d0', '#ffff00', '#ff00ff', '#00ffff', '#ff69b4', '#ffa500', '#ff0000', '#90ee90', '#da70d6', '#87ceeb']  // More varied colors
         },
         '90s': {
             primary: '#0000ff',
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             background: '#ffffff',
             grid: '#808080',
             text: '#000000',
-            colors: ['#0000ff', '#800080', '#008080', '#ff0000', '#228b22']
+            colors: ['#0000ff', '#800080', '#008080', '#ff0000', '#228b22', '#ffa500', '#ff1493', '#4b0082', '#daa520', '#dc143c']
         }
     };
     
