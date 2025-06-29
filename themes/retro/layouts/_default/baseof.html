@@ -78,8 +78,9 @@
             const iconEl = document.getElementById('themeIcon');
             const labelEl = document.getElementById('themeLabel');
             
-            // Update homepage search placeholder
-            const searchInput = document.getElementById('terminal-search-input');
+            // Update search input placeholders
+            const homepageSearchInput = document.getElementById('terminal-search-input');
+            const searchPageInput = document.getElementById('queryInput');
             
             if (versionEl && iconEl && labelEl) {
                 if (era === '80s') {
@@ -105,12 +106,20 @@
                 }
             }
             
-            // Update homepage search placeholder if present
-            if (searchInput) {
+            // Update search input placeholders if present
+            if (homepageSearchInput) {
                 if (era === '80s') {
-                    searchInput.placeholder = 'Enter SQL query...';
+                    homepageSearchInput.placeholder = 'Enter SQL query...';
                 } else {
-                    searchInput.placeholder = 'Enter Artist or Album name';
+                    homepageSearchInput.placeholder = 'Enter Artist or Album name';
+                }
+            }
+            
+            if (searchPageInput) {
+                if (era === '80s') {
+                    searchPageInput.placeholder = 'Enter SQL query...';
+                } else {
+                    searchPageInput.placeholder = 'Search for artist or album...';
                 }
             }
         }

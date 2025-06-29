@@ -11,26 +11,28 @@ DATABASE QUERY TERMINAL
     <div class="query-interface">
         <div class="terminal-content" id="terminalContent">
             <div class="welcome-message">
-                <div class="system-info">
-                    {{- if eq ($.Param "era") "modern" -}}
-                    <p>Music Collection Search</p>
-                    <p>Total albums: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
-                    <p>Total artists: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
-                    <p>Enter an artist or album name to search, or <a href="#" onclick="showExamples(); return false;" class="examples-link">view examples</a>.</p>
-                    {{- else -}}
+                <!-- Terminal Theme Welcome -->
+                <div class="system-info welcome-terminal">
                     <p>Database initialized: {{ now.Format "2006-01-02 15:04:05" }}</p>
                     <p>Records loaded: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
                     <p>Artists indexed: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
                     <p>Type 'HELP' for query syntax or <a href="#" onclick="showExamples(); return false;" class="examples-link">view example queries</a>.</p>
-                    {{- end -}}
+                </div>
+                
+                <!-- Modern Theme Welcome -->
+                <div class="system-info welcome-modern">
+                    <p>Search your music collection</p>
+                    <p>Browse <span id="recordCountModern">{{ len .Site.RegularPages }}</span> albums from <span id="artistCountModern">{{ len (where .Site.Pages "Section" "artist") }}</span> artists</p>
+                    <p>Find albums by artist name, album title, or try <a href="#" onclick="showExamples(); return false;" class="examples-link">example searches</a>.</p>
                 </div>
             </div>
             
             <div class="current-prompt">
-                <span class="prompt-user">user@russ-fm:~/collection$</span>
+                <span class="prompt-user prompt-terminal">user@russ-fm:~/collection$</span>
+                <span class="prompt-user prompt-modern">Search Collection</span>
                 <input type="text" 
                        id="queryInput" 
-                       placeholder="{{ if eq ($.Param "era") "modern" }}Search for artist or album...{{ else }}Enter SQL query...{{ end }}"
+                       class="terminal-input sql-search-input"
                        autocomplete="off"
                        spellcheck="false">
             </div>
@@ -42,12 +44,21 @@ DATABASE QUERY TERMINAL
 <!-- Example Queries Modal -->
 <div id="examplesModal" class="examples-modal" onclick="hideExamples()">
     <div class="examples-modal-content" onclick="event.stopPropagation()">
-        <div class="examples-modal-header">
-            <h3>{{ if eq ($.Param "era") "modern" }}Example Searches{{ else }}Example Queries{{ end }}</h3>
+        <!-- Terminal Theme Modal Header -->
+        <div class="examples-modal-header examples-header-terminal">
+            <h3>Example Queries</h3>
             <button class="close-btn" onclick="hideExamples()">✕</button>
         </div>
+        
+        <!-- Modern Theme Modal Header -->
+        <div class="examples-modal-header examples-header-modern">
+            <h3>Example Searches</h3>
+            <button class="close-btn" onclick="hideExamples()">✕</button>
+        </div>
+        
         <div class="examples-modal-body">
-            <div class="query-examples">
+            <!-- Terminal Theme Examples -->
+            <div class="query-examples examples-terminal">
                 <div class="example" onclick="executeExample('SELECT * FROM albums WHERE artist = &quot;Depeche Mode&quot;;'); hideExamples();">
                     <code>SELECT * FROM albums WHERE artist = "Depeche Mode";</code>
                 </div>
@@ -68,6 +79,34 @@ DATABASE QUERY TERMINAL
                 </div>
                 <div class="example" onclick="executeExample('CLEAR'); hideExamples();">
                     <code>CLEAR</code>
+                </div>
+            </div>
+            
+            <!-- Modern Theme Examples -->
+            <div class="query-examples examples-modern">
+                <div class="example" onclick="executeExample('Pink Floyd'); hideExamples();">
+                    <span>Pink Floyd</span>
+                </div>
+                <div class="example" onclick="executeExample('David Bowie'); hideExamples();">
+                    <span>David Bowie</span>
+                </div>
+                <div class="example" onclick="executeExample('Electronic'); hideExamples();">
+                    <span>Electronic</span>
+                </div>
+                <div class="example" onclick="executeExample('Synth-pop'); hideExamples();">
+                    <span>Synth-pop</span>
+                </div>
+                <div class="example" onclick="executeExample('Rock'); hideExamples();">
+                    <span>Rock</span>
+                </div>
+                <div class="example" onclick="executeExample('Jazz'); hideExamples();">
+                    <span>Jazz</span>
+                </div>
+                <div class="example" onclick="executeExample('The Beatles'); hideExamples();">
+                    <span>The Beatles</span>
+                </div>
+                <div class="example" onclick="executeExample('Radiohead'); hideExamples();">
+                    <span>Radiohead</span>
                 </div>
             </div>
         </div>
@@ -372,21 +411,25 @@ function getFieldValue(record, field) {
 function addCommandToHistory(query, result, errorMessage = null, convertedSql = null) {
     const terminalContent = document.getElementById('terminalContent');
     const currentPrompt = document.querySelector('.current-prompt');
+    const currentTheme = document.documentElement.getAttribute('data-era') || 'modern';
     
-    // Create completed command display
-    const commandDiv = document.createElement('div');
-    commandDiv.className = 'completed-command';
-    commandDiv.textContent = `user@russ-fm:~/collection$ ${query}`;
-    
-    // Insert before current prompt
-    terminalContent.insertBefore(commandDiv, currentPrompt);
-    
-    // If query was converted, show the SQL version
-    if (convertedSql) {
-        const convertedDiv = document.createElement('div');
-        convertedDiv.className = 'converted-query';
-        convertedDiv.textContent = `Converted: ${convertedSql}`;
-        terminalContent.insertBefore(convertedDiv, currentPrompt);
+    // Only show command history in terminal theme
+    if (currentTheme === '80s') {
+        // Create completed command display
+        const commandDiv = document.createElement('div');
+        commandDiv.className = 'completed-command';
+        commandDiv.textContent = `user@russ-fm:~/collection$ ${query}`;
+        
+        // Insert before current prompt
+        terminalContent.insertBefore(commandDiv, currentPrompt);
+        
+        // If query was converted, show the SQL version
+        if (convertedSql) {
+            const convertedDiv = document.createElement('div');
+            convertedDiv.className = 'converted-query';
+            convertedDiv.textContent = `Converted: ${convertedSql}`;
+            terminalContent.insertBefore(convertedDiv, currentPrompt);
+        }
     }
     
     // Create result display

@@ -1,6 +1,23 @@
 // Search Page Styles
 // Database terminal interface with query functionality
 
+/* Show/hide content based on theme */
+[data-era="80s"] .welcome-modern,
+[data-era="80s"] .prompt-modern,
+[data-era="80s"] .examples-header-modern,
+[data-era="80s"] .examples-modern {
+    display: none;
+}
+
+[data-era="modern"] .welcome-terminal,
+[data-era="modern"] .prompt-terminal,
+[data-era="modern"] .examples-header-terminal,
+[data-era="modern"] .examples-terminal,
+[data-era="modern"] .completed-command,
+[data-era="modern"] .converted-query {
+    display: none;
+}
+
 .database-terminal {
     background: var(--window-bg);
     color: var(--text-color);
@@ -65,7 +82,10 @@
 }
 
 [data-era="modern"] .examples-modal-content {
-    border: 2px outset #c0c0c0;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
 }
 
 .examples-modal-header {
@@ -106,19 +126,41 @@
     color: var(--window-bg);
 }
 
+[data-era="modern"] .examples-modal-header {
+    background: var(--surface-elevated);
+    border-bottom: 1px solid var(--border-color);
+}
+
 [data-era="modern"] .example {
-    border: 1px inset #c0c0c0;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
 }
 
 [data-era="modern"] .example:hover {
-    border: 1px outset #c0c0c0;
-    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    background: var(--accent-color);
     color: white;
 }
 
 .example code {
     font-family: var(--font-family);
     font-size: 0.9rem;
+}
+
+/* Modern theme examples styling */
+.examples-modern .example {
+    text-align: center;
+}
+
+.examples-modern .example span {
+    font-family: var(--font-family);
+    font-size: 0.95rem;
+    font-weight: 500;
 }
 
 .current-prompt {
