@@ -18,6 +18,18 @@
     display: none;
 }
 
+/* Modern theme: move search box to top */
+[data-era="modern"] .terminal-content {
+    display: flex;
+    flex-direction: column;
+}
+
+[data-era="modern"] .current-prompt {
+    order: -1;
+    margin-bottom: 2rem;
+    margin-top: 0;
+}
+
 .database-terminal {
     background: var(--window-bg);
     color: var(--text-color);

@@ -432,6 +432,12 @@ function addCommandToHistory(query, result, errorMessage = null, convertedSql = 
         }
     }
     
+    // In modern theme, clear previous results (don't accumulate like terminal)
+    if (currentTheme === 'modern') {
+        const previousResults = terminalContent.querySelectorAll('.command-result');
+        previousResults.forEach(result => result.remove());
+    }
+    
     // Create result display
     const resultDiv = document.createElement('div');
     resultDiv.className = 'command-result';
