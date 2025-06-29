@@ -82,3 +82,8 @@ body::before {
 .p-1 { padding: 0.5rem; }
 .p-2 { padding: 1rem; }
 .p-3 { padding: 1.5rem; }
+
+/* Common display utilities */
+.hidden {
+    display: none !important;
+}
