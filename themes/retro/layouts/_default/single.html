@@ -13,7 +13,13 @@
     <div class="album-info-section">
         <div class="album-header">
             <h1 class="album-title">{{ .Params.album_name | default .Title | upper }}</h1>
-            <h2 class="album-artist">{{ .Params.artist_name | upper }}</h2>
+            <h2 class="album-artist">
+                {{ if .Params.artist }}
+                <a href="/artist/{{ .Params.artist }}/">{{ .Params.artist_name | upper }}</a>
+                {{ else }}
+                {{ .Params.artist_name | upper }}
+                {{ end }}
+            </h2>
             
             <div class="album-meta">
                 {{ if .Params.release_date }}

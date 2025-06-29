@@ -18,8 +18,10 @@
 }
 
 [data-era="modern"] .stats-summary {
-    border: 2px outset #c0c0c0;
-    background: #c0c0c0;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
 }
 
 .stat-item {
@@ -58,8 +60,10 @@
 }
 
 [data-era="modern"] .stats-section {
-    border: 2px outset #c0c0c0;
-    background: #c0c0c0;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
 }
 
 .stats-section.full-width {
@@ -118,8 +122,10 @@
 }
 
 [data-era="modern"] .chart-wrapper {
-    border: 1px inset #c0c0c0;
-    background: white;
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .chart-wrapper canvas {
