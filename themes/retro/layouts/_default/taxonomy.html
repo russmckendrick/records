@@ -1,0 +1,114 @@
+{{ define "window_title" }}{{ .Title | upper }} :: {{ len .Pages }} ALBUMS{{ end }}
+
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a> / <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> / {{ .Title }}
+</div>
+
+<!-- Genre/Style Header -->
+<div class="taxonomy-header">
+    <h1 class="taxonomy-title">{{ .Title | upper }}</h1>
+    <div class="taxonomy-stats">
+        <span class="album-count">{{ len .Pages }} Albums</span>
+        <span class="taxonomy-type">{{ .Type | title }}</span>
+    </div>
+</div>
+
+
+<!-- Albums Container -->
+<div class="db-section">
+    {{ $paginator := .Paginate .Pages 20 }}
+    {{ partial "album-list-view.html" (dict "albums" $paginator.Pages) }}
+    {{ partial "album-cards-view.html" (dict "albums" $paginator.Pages) }}
+</div>
+
+<!-- Retro Pagination -->
+{{ if gt $paginator.TotalPages 1 }}
+<div class="pagination-section">
+    <div class="pagination-controls">
+        <div class="pagination-info">
+            <span class="pagination-label">PAGE {{ $paginator.PageNumber }} OF {{ $paginator.TotalPages }}</span>
+            <span class="pagination-stats">SHOWING {{ len $paginator.Pages }} OF {{ $paginator.TotalNumberOfElements }} ALBUMS</span>
+        </div>
+        <div class="pagination-buttons">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">&lt;&lt; PREV</a>
+            {{ else }}
+            <span class="pagination-btn disabled">&lt;&lt; PREV</span>
+            {{ end }}
+            
+            {{ $.Scratch.Set "adjacent_links" 2 }}
+            {{ $adjacent_links := $.Scratch.Get "adjacent_links" }}
+            {{ $max_links := (add (mul $adjacent_links 2) 1) }}
+            {{ $lower_limit := (add $adjacent_links 1) }}
+            {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+            
+            {{ if gt $paginator.TotalPages $max_links }}
+                
+                {{ if le $paginator.PageNumber $lower_limit }}
+                    {{ range $paginator.Pagers }}
+                        {{ if le .PageNumber $max_links }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if lt $max_links $paginator.TotalPages }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                    {{ end }}
+                
+                {{ else if ge $paginator.PageNumber $upper_limit }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                
+                {{ else }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if and (ge .PageNumber (sub $paginator.PageNumber $adjacent_links)) (le .PageNumber (add $paginator.PageNumber $adjacent_links)) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                {{ end }}
+                
+            {{ else }}
+                {{ range $paginator.Pagers }}
+                    {{ if eq . $paginator }}
+                    <span class="pagination-btn active">{{ .PageNumber }}</span>
+                    {{ else }}
+                    <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="pagination-btn">NEXT &gt;&gt;</a>
+            {{ else }}
+            <span class="pagination-btn disabled">NEXT &gt;&gt;</span>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
+{{ end }}

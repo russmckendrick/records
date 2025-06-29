@@ -1,0 +1,342 @@
+// Reusable components for retro theme
+// Terminal, cards, buttons, forms, and interactive elements
+
+/* Terminal Components */
+.terminal-content {
+    padding: 2rem;
+}
+
+.terminal-prompt {
+    background: var(--window-bg);
+    border-bottom: 1px solid var(--border-color);
+    padding: 1rem 2rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+.prompt-user {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.prompt-separator {
+    color: var(--text-color);
+}
+
+.prompt-path {
+    color: var(--text-color);
+}
+
+.prompt-command {
+    color: var(--text-color);
+    margin-left: 1rem;
+}
+
+/* Database Stats */
+.database-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.stat-box {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    text-align: center;
+}
+
+[data-era="modern"] .stat-box {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .stat-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 32px 64px -12px rgba(0, 0, 0, 0.12);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+}
+
+.stat-progress {
+    margin-top: 0.5rem;
+    height: 4px;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+.progress-bar {
+    height: 100%;
+    background: var(--accent-color);
+    transition: width 0.3s ease;
+}
+
+/* Stats Section - Remove ugly styling, use homepage styles instead */
+
+/* Search Components */
+.search-controls {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.search-input {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    flex: 1;
+    min-width: 200px;
+}
+
+[data-era="modern"] .search-input {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+[data-era="modern"] .search-input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+}
+
+.alphabet-filter {
+    display: flex;
+    gap: 0.3rem;
+    flex-wrap: wrap;
+}
+
+.letter-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.3rem 0.6rem;
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 25px;
+    text-align: center;
+}
+
+.letter-btn.active {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .letter-btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .letter-btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+[data-era="modern"] .letter-btn.active {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+/* Card Components */
+.artist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.artist-card {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    position: relative;
+}
+
+[data-era="modern"] .artist-card {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+}
+
+.artist-card:hover {
+    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+}
+
+[data-era="modern"] .artist-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 32px 64px -12px rgba(0, 0, 0, 0.15);
+    border-color: var(--accent-color);
+    background: var(--surface-elevated);
+}
+
+.artist-image {
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(45deg, #333, #111);
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    /* Display images in original quality */
+    image-rendering: auto;
+}
+
+[data-era="modern"] .artist-image {
+    border-bottom: 1px solid var(--border-color);
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
+/* Artist placeholder patterns - removed per user request */
+
+.artist-info {
+    padding: 1rem;
+}
+
+.artist-card .artist-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+.artist-stats {
+    display: flex;
+    justify-content: space-between;
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.artist-summary {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Button Components */
+.btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    font-weight: 500;
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+[data-era="modern"] .btn-primary {
+    background: var(--gradient-primary);
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+[data-era="modern"] .btn-primary:hover {
+    background: var(--gradient-primary);
+    opacity: 0.9;
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.3);
+}
+
+.btn-primary {
+    background: var(--accent-color);
+    color: var(--bg-color);
+    border-color: var(--accent-color);
+}
+
+.btn-primary:hover {
+    background: var(--text-color);
+    border-color: var(--text-color);
+}
+
+/* Icon Components */
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.icon path {
+    stroke: var(--text-color);
+    transition: stroke 0.3s ease;
+}
+
+.icon:hover path {
+    stroke: var(--accent-color);
+}

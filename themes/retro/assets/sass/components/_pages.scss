@@ -1,0 +1,842 @@
+// Page-specific styles for retro theme
+// Home page, artist listing, artist detail, and database styles
+
+/* Database Grid & Home Page */
+.command-line {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+
+.prompt {
+    color: var(--text-color);
+}
+
+.command {
+    color: var(--accent-color);
+    margin-left: 1rem;
+}
+
+.system-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.stat-block {
+    text-align: center;
+    padding: 1rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="modern"] .stat-block {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .stat-block:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.1);
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-family);
+}
+
+/* View Controls */
+.view-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0 1rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.view-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.view-toggle {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.view-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.view-btn.active {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .view-btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .view-btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+[data-era="modern"] .view-btn.active {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+/* Database Grid */
+.db-section {
+    margin: 2rem 0;
+}
+
+.db-header {
+    display: grid;
+    grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 2px solid var(--border-color);
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: var(--text-color);
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.db-row {
+    display: grid;
+    grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    align-items: center;
+}
+
+.db-row:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+}
+
+[data-era="modern"] .db-row:hover {
+    background: var(--surface-hover);
+    color: var(--accent-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.record-id {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.album-cover-mini {
+    width: 40px;
+    height: 40px;
+    background: #222;
+    border: 1px solid #444;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+[data-era="modern"] .album-cover-mini {
+    border: 1px solid var(--border-color);
+    background: var(--surface-elevated);
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.album-cover-mini.no-image::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 8px;
+    height: 8px;
+    background: #444;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.album-title {
+    color: var(--text-color);
+    font-weight: 500;
+}
+
+.artist-name {
+    color: var(--secondary-text);
+}
+
+.table-artist {
+    color: var(--secondary-text);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.genre-tag {
+    background: rgba(255, 255, 0, 0.2);
+    color: var(--accent-color);
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: 1px solid var(--accent-color);
+}
+
+[data-era="modern"] .genre-tag {
+    background: var(--gradient-accent);
+    color: white;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .genre-tag:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.date-added {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.status-indicator {
+    width: 8px;
+    height: 8px;
+    background: var(--accent-color);
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+[data-era="modern"] .status-indicator {
+    border-radius: 50%;
+    background: var(--accent-color);
+    box-shadow: 0 0 8px rgba(99, 102, 241, 0.4);
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
+
+/* Cards Grid */
+.cards-grid {
+    display: none;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.cards-grid.active {
+    display: grid;
+}
+
+.album-card {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+[data-era="modern"] .album-card {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+}
+
+.album-card:hover {
+    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+}
+
+[data-era="modern"] .album-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.12);
+    border-color: var(--accent-color);
+    background: var(--surface-elevated);
+}
+
+.album-cover {
+    width: 100%;
+    aspect-ratio: 1;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.album-info {
+    padding: 1.5rem;
+}
+
+.album-card .album-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+.album-card .album-artist {
+    color: var(--secondary-text);
+    margin-bottom: 1rem;
+}
+
+.album-card .album-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.album-date {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+.album-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background: rgba(255, 255, 0, 0.2);
+    color: var(--accent-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    border: 1px solid var(--accent-color);
+}
+
+[data-era="modern"] .tag {
+    background: var(--gradient-accent);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .tag:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Hide/Show Views */
+.db-list {
+    display: block;
+}
+
+.db-list.hidden {
+    display: none;
+}
+
+/* Artist Detail Page */
+.artist-layout {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+/* Artist Info Section (Left Column) */
+.artist-info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.artist-info-section .artist-image {
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(45deg, #333, #111);
+    border: 2px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    /* Display images in original quality */
+    image-rendering: auto;
+}
+
+[data-era="modern"] .artist-info-section .artist-image {
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+}
+
+/* Artist image simulation */
+.artist-info-section .artist-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        radial-gradient(circle at 40% 30%, #666 25%, transparent 26%),
+        radial-gradient(circle at 60% 30%, #444 20%, transparent 21%),
+        linear-gradient(45deg, #555 30%, transparent 31%, transparent 69%, #555 70%),
+        linear-gradient(135deg, #333 25%, transparent 26%, transparent 74%, #333 75%);
+    background-size: 80px 80px, 60px 60px, 40px 40px, 30px 30px;
+    opacity: 0.8;
+}
+
+.artist-info-section .artist-image img {
+    position: relative;
+    z-index: 1;
+}
+
+.artist-info-section .artist-stats {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.stat-number {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.stat-description {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.artist-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.action-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: var(--window-border);
+    padding: 0.8rem;
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+
+.action-btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+[data-era="modern"] .action-btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .action-btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Artist Details Section (Right Column) */
+.artist-details-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.artist-header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+.artist-details-section .artist-name {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+}
+
+.artist-meta {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.meta-tag {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    padding: 0.3rem 0.8rem;
+    border: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+[data-era="modern"] .meta-tag {
+    background: var(--gradient-primary);
+    border: none;
+    color: white;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .meta-tag:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(99, 102, 241, 0.2);
+}
+
+/* Biography */
+.biography-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.biography-text {
+    color: var(--text-color);
+    line-height: 1.6;
+    background: var(--highlight-bg);
+    padding: 1.5rem;
+    border: 1px solid var(--border-color);
+}
+
+[data-era="modern"] .biography-text {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Albums Section */
+.albums-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.album-item {
+    background: var(--window-bg);
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+[data-era="modern"] .album-item {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    transition: all 0.2s ease;
+    overflow: hidden;
+}
+
+.album-item:hover {
+    background: var(--highlight-bg);
+    border-color: var(--accent-color);
+}
+
+[data-era="modern"] .album-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
+    background: var(--surface-elevated);
+}
+
+.album-thumbnail {
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(45deg, #333, #111);
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+    /* 8-bit effect */
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+.album-thumbnail::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        conic-gradient(from 0deg at 50% 50%, #4A90E2 0deg, #2980B9 90deg, #1F4E79 180deg, #4A90E2 270deg, #4A90E2 360deg);
+}
+
+.album-thumbnail img {
+    position: relative;
+    z-index: 1;
+}
+
+.album-details {
+    padding: 1rem;
+}
+
+.album-year {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+/* Links Section */
+.links-section h3 {
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.links-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.link-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.8rem;
+    background: var(--highlight-bg);
+    border: 1px solid var(--border-color);
+}
+
+[data-era="modern"] .link-item {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .link-item:hover {
+    background: var(--surface-hover);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.link-label {
+    color: var(--secondary-text);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.link-value a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.link-value a:hover {
+    text-decoration: underline;
+}
+
+/* Pagination */
+.pagination-section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.pagination-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.pagination-label {
+    font-family: var(--font-family);
+    font-weight: 600;
+    color: var(--text-color);
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.pagination-stats {
+    font-family: var(--font-family);
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.pagination-buttons {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pagination-btn {
+    background: var(--window-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem 1rem;
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.pagination-btn:hover {
+    background: var(--highlight-bg);
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.pagination-btn.active {
+    background: var(--accent-color);
+    color: var(--window-bg);
+    font-weight: 700;
+}
+
+.pagination-btn.disabled {
+    background: var(--window-bg);
+    color: var(--secondary-text);
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+[data-era="modern"] .pagination-btn {
+    background: var(--surface-elevated);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+[data-era="modern"] .pagination-btn:hover {
+    background: var(--surface-hover);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+[data-era="modern"] .pagination-btn.active {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+[data-era="modern"] .pagination-btn.disabled {
+    background: var(--surface-elevated);
+    color: var(--secondary-text);
+    border: 1px solid var(--border-color);
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* Terminal Footer */
+.terminal-footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Common Utilities */
+.blinking-cursor::after {
+    content: '█';
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+}
+
+/* 8-bit Image Effects */
+.retro-image {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}

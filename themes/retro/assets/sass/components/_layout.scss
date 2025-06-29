@@ -1,0 +1,289 @@
+// Layout components for retro theme
+// Header, navigation, windows, and structural elements
+
+/* Header */
+.header {
+    background: var(--window-bg);
+    border-bottom: var(--window-border);
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+    min-height: 60px;
+    margin: 0;
+}
+
+[data-era="modern"] .header {
+    background: var(--window-bg);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: var(--shadow);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 1.5rem 2rem;
+}
+
+[data-era="modern"] .system-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+[data-era="modern"] .system-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    letter-spacing: -0.025em;
+}
+
+[data-era="modern"] .system-version {
+    font-size: 0.875rem;
+    color: var(--secondary-text);
+    font-weight: 500;
+}
+
+/* Navigation */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-commands {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-commands li {
+    display: flex;
+    align-items: center;
+}
+
+.nav-commands a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    position: relative;
+    padding: 0.5rem;
+}
+
+[data-era="80s"] .nav-commands a::before {
+    content: '> ';
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.nav-commands a:hover {
+    color: var(--accent-color);
+    text-shadow: 0 0 10px var(--accent-color);
+}
+
+[data-era="80s"] .nav-commands a:hover::before {
+    opacity: 1;
+}
+
+[data-era="modern"] .nav-commands a {
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.25rem;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+[data-era="modern"] .nav-commands a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--gradient-primary);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 8px;
+}
+
+[data-era="modern"] .nav-commands a:hover {
+    background: var(--hover-bg);
+    text-shadow: none;
+    transform: translateY(-1px);
+}
+
+[data-era="modern"] .nav-commands a:hover::before {
+    opacity: 0.1;
+}
+
+/* Theme Switcher */
+.theme-switcher {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    position: relative;
+    padding: 0.5rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.theme-switcher:hover {
+    color: var(--accent-color);
+    text-shadow: 0 0 10px var(--accent-color);
+}
+
+[data-era="80s"] .theme-switcher::before {
+    content: '> ';
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+[data-era="80s"] .theme-switcher:hover::before {
+    opacity: 1;
+}
+
+[data-era="modern"] .theme-switcher {
+    background: transparent;
+    border: none;
+    border-radius: var(--border-radius);
+    padding: 0.5rem 1rem;
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .theme-switcher:hover {
+    background: var(--hover-bg);
+    text-shadow: none;
+}
+
+.theme-icon {
+    width: 16px;
+    height: 16px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.theme-icon svg {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.theme-icon path {
+    stroke: var(--text-color);
+    transition: stroke 0.3s ease;
+}
+
+.theme-switcher:hover .theme-icon path {
+    stroke: var(--accent-color);
+}
+
+.theme-label {
+    font-family: var(--font-family);
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Main Window */
+.main-window {
+    max-width: 95vw;
+    margin: 2rem auto 2rem auto;
+    background: var(--window-bg);
+    border: var(--window-border);
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.5);
+}
+
+[data-era="modern"] .main-window {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0;
+    max-width: 100%;
+    min-height: calc(100vh - 80px);
+}
+
+[data-era="modern"] .window-header {
+    display: none;
+}
+
+[data-era="modern"] .content-wrapper {
+    background: var(--bg-color);
+    min-height: calc(100vh - 80px);
+    padding: 2rem;
+}
+
+.window-header {
+    background: var(--window-bg);
+    padding: 0.8rem 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.window-title {
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.window-controls {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.control-btn {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #333;
+    border: 1px solid #555;
+}
+
+[data-era="modern"] .control-btn {
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    border: none;
+    background: #e5e5e5;
+    transition: all 0.2s ease;
+}
+
+[data-era="modern"] .control-btn:hover {
+    transform: scale(1.1);
+}
+
+.control-btn.close { background: #ff4444; }
+.control-btn.minimize { background: #ffaa00; }
+.control-btn.maximize { background: var(--accent-color); }
+
+/* Breadcrumb */
+.breadcrumb {
+    padding: 1rem 2rem;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+}
+
+.breadcrumb a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    color: var(--accent-color);
+}

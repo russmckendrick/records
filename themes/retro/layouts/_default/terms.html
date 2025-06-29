@@ -1,0 +1,288 @@
+{{ define "window_title" }}{{ .Title | upper }} :: DATABASE_TAXONOMY{{ end }}
+
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a> / {{ .Title }}
+</div>
+
+<!-- Search and Filter Controls -->
+<div class="filter-controls">
+    <div class="search-container">
+        <label for="termSearch">SEARCH {{ .Title | upper }}:</label>
+        <input type="text" id="termSearch" placeholder="Type to filter {{ .Title | lower }}..." oninput="filterTerms()">
+    </div>
+    
+    <div class="view-controls">
+        <div class="view-stats">
+            <span id="termCount">{{ len (index .Site.Taxonomies (lower .Title)) }}</span> {{ .Title | upper }} FOUND
+        </div>
+        <div class="sort-controls">
+            <label>SORT BY:</label>
+            <select id="sortSelect" onchange="sortTerms()">
+                <option value="name">NAME</option>
+                <option value="count">ALBUM COUNT</option>
+            </select>
+        </div>
+    </div>
+</div>
+
+<!-- Alphabetical Navigation -->
+<div class="alpha-nav">
+    <span class="alpha-label">JUMP TO:</span>
+    {{- $letters := split "#ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+    {{ range $letters }}
+    <a href="#{{ . }}" class="alpha-link" data-letter="{{ . }}">{{ . }}</a>{{ if not (eq . "Z") }} | {{ end }}
+    {{ end }}
+    <button class="alpha-link" onclick="showAll()" id="showAllBtn">ALL</button>
+</div>
+
+<!-- Single Table View -->
+<div class="terms-table-container">
+    <div class="db-section">
+        <div class="db-header">
+            <div class="sortable" onclick="sortBy('id')">
+                ID 
+                <span class="sort-indicator" id="sort-id"></span>
+            </div>
+            <div>ART</div>
+            <div class="sortable" onclick="sortBy('name')">
+                {{ .Title | upper }}_NAME 
+                <span class="sort-indicator" id="sort-name">↑</span>
+            </div>
+            <div>ARTIST_NAME</div>
+            <div class="sortable" onclick="sortBy('count')">
+                ALBUM_COUNT 
+                <span class="sort-indicator" id="sort-count"></span>
+            </div>
+            <div>DATE_ADDED</div>
+            <div>STATUS</div>
+        </div>
+        
+        <div id="termsContainer">
+            {{- $taxonomy := index .Site.Taxonomies (lower .Title) -}}
+            {{ range $index, $term := $taxonomy.Alphabetical }}
+            <div class="db-row term-row" 
+                 data-name="{{ $term.Page.Title | lower }}" 
+                 data-count="{{ $term.Count }}"
+                 data-letter="{{ upper (substr $term.Page.Title 0 1) }}"
+                 onclick="window.location.href='{{ $term.Page.RelPermalink | relURL }}'">
+                <div class="record-id">#{{ printf "%04d" (add $index 1) }}</div>
+                <div class="album-cover-mini"></div>
+                <div class="term-name">{{ $term.Page.Title }}</div>
+                <div class="artist-name">-</div>
+                <div class="term-count">{{ $term.Count }}</div>
+                <div class="date-added">-</div>
+                <div><div class="status-indicator"></div></div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+
+<script>
+let currentSort = 'name';
+let sortDirection = 'asc';
+let allTerms = [];
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Store all terms for filtering
+    allTerms = Array.from(document.querySelectorAll('.term-row'));
+    updateTermCount();
+    disableEmptyLetters();
+});
+
+function disableEmptyLetters() {
+    // Get all available letters from the data
+    const availableLetters = new Set();
+    allTerms.forEach(term => {
+        const letter = term.dataset.letter;
+        if (letter) {
+            availableLetters.add(letter);
+        }
+    });
+    
+    // Check for non-alphabetic entries for the # button
+    const hasNonAlphabetic = allTerms.some(term => {
+        const letter = term.dataset.letter;
+        return letter && !/^[A-Z]/.test(letter);
+    });
+    
+    // Disable/enable letter buttons based on available data
+    document.querySelectorAll('.alpha-link[data-letter]').forEach(link => {
+        const letter = link.dataset.letter;
+        
+        if (letter === '#') {
+            if (!hasNonAlphabetic) {
+                link.classList.add('disabled');
+            }
+        } else {
+            if (!availableLetters.has(letter)) {
+                link.classList.add('disabled');
+            }
+        }
+    });
+}
+
+function filterTerms() {
+    const searchTerm = document.getElementById('termSearch').value.toLowerCase();
+    const terms = document.querySelectorAll('.term-row');
+    let visibleCount = 0;
+    
+    terms.forEach(term => {
+        const name = term.dataset.name;
+        if (name.includes(searchTerm)) {
+            term.classList.remove('hidden');
+            visibleCount++;
+        } else {
+            term.classList.add('hidden');
+        }
+    });
+    
+    document.getElementById('termCount').textContent = visibleCount;
+    
+    // Clear alpha navigation active states when searching
+    if (searchTerm) {
+        document.querySelectorAll('.alpha-link').forEach(link => {
+            link.classList.remove('active');
+        });
+    }
+}
+
+function sortTerms() {
+    const sortValue = document.getElementById('sortSelect').value;
+    sortBy(sortValue);
+}
+
+function sortBy(column) {
+    // Toggle direction if same column
+    if (currentSort === column) {
+        sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+    } else {
+        // Default sorting: name = ascending, count = descending
+        sortDirection = (column === 'count') ? 'desc' : 'asc';
+    }
+    
+    currentSort = column;
+    
+    // Update sort indicators
+    document.querySelectorAll('.sort-indicator').forEach(indicator => {
+        indicator.textContent = '';
+    });
+    
+    const indicator = document.getElementById(`sort-${column}`);
+    if (indicator) {
+        indicator.textContent = sortDirection === 'asc' ? '↑' : '↓';
+    }
+    
+    // Sort terms
+    const container = document.getElementById('termsContainer');
+    const terms = Array.from(container.querySelectorAll('.term-row'));
+    
+    terms.sort((a, b) => {
+        let aVal, bVal;
+        
+        switch(column) {
+            case 'name':
+                aVal = a.dataset.name;
+                bVal = b.dataset.name;
+                break;
+            case 'count':
+                aVal = parseInt(a.dataset.count);
+                bVal = parseInt(b.dataset.count);
+                break;
+            case 'id':
+                aVal = parseInt(a.querySelector('.record-id').textContent.replace('#', ''));
+                bVal = parseInt(b.querySelector('.record-id').textContent.replace('#', ''));
+                break;
+        }
+        
+        if (column === 'count' || column === 'id') {
+            return sortDirection === 'asc' ? aVal - bVal : bVal - aVal;
+        } else {
+            if (sortDirection === 'asc') {
+                return aVal.localeCompare(bVal);
+            } else {
+                return bVal.localeCompare(aVal);
+            }
+        }
+    });
+    
+    // Re-number and re-append
+    terms.forEach((term, index) => {
+        term.querySelector('.record-id').textContent = `#${String(index + 1).padStart(4, '0')}`;
+        container.appendChild(term);
+    });
+    
+    // Update select dropdown
+    document.getElementById('sortSelect').value = column;
+}
+
+function showAll() {
+    document.querySelectorAll('.term-row').forEach(term => {
+        term.classList.remove('hidden');
+    });
+    
+    document.getElementById('termSearch').value = '';
+    updateTermCount();
+    
+    // Clear alpha navigation active states
+    document.querySelectorAll('.alpha-link').forEach(link => {
+        link.classList.remove('active');
+    });
+    document.getElementById('showAllBtn').classList.add('active');
+}
+
+function updateTermCount() {
+    const visibleTerms = document.querySelectorAll('.term-row:not(.hidden)');
+    document.getElementById('termCount').textContent = visibleTerms.length;
+}
+
+// Alpha navigation
+document.querySelectorAll('.alpha-link[data-letter]').forEach(link => {
+    link.addEventListener('click', function(e) {
+        e.preventDefault();
+        
+        // Don't process if this letter is disabled
+        if (this.classList.contains('disabled')) {
+            return;
+        }
+        
+        const letter = this.dataset.letter;
+        
+        // Clear search
+        document.getElementById('termSearch').value = '';
+        
+        // Filter by letter
+        const terms = document.querySelectorAll('.term-row');
+        let visibleCount = 0;
+        
+        terms.forEach(term => {
+            if (letter === '#') {
+                // Show non-alphabetic
+                if (!/^[A-Z]/.test(term.dataset.letter)) {
+                    term.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    term.classList.add('hidden');
+                }
+            } else {
+                if (term.dataset.letter === letter) {
+                    term.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    term.classList.add('hidden');
+                }
+            }
+        });
+        
+        document.getElementById('termCount').textContent = visibleCount;
+        
+        // Update active state
+        document.querySelectorAll('.alpha-link').forEach(l => l.classList.remove('active'));
+        this.classList.add('active');
+    });
+});
+</script>
+{{ end }}

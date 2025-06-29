@@ -1,0 +1,89 @@
+// Base styles for retro theme
+// Global resets, body styles, and core layout
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    background: var(--bg-color);
+    color: var(--text-color);
+    overflow-x: hidden;
+    line-height: 1.4;
+    transition: all 0.3s ease;
+    margin: 0;
+    padding: 0;
+}
+
+/* Scanlines for 80s mode */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0, 255, 65, var(--scanline-opacity)) 2px,
+        rgba(0, 255, 65, var(--scanline-opacity)) 4px
+    );
+    pointer-events: none;
+    z-index: 1000;
+}
+
+/* Common Typography */
+.system-info {
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+.system-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.system-version {
+    color: var(--secondary-text);
+    font-size: 0.8rem;
+}
+
+/* Common text utilities */
+.text-accent {
+    color: var(--accent-color);
+}
+
+.text-secondary {
+    color: var(--secondary-text);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-mono {
+    font-family: var(--font-family);
+}
+
+/* Common spacing */
+.m-0 { margin: 0; }
+.p-0 { padding: 0; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+.p-1 { padding: 0.5rem; }
+.p-2 { padding: 1rem; }
+.p-3 { padding: 1.5rem; }
+
+/* Common display utilities */
+.hidden {
+    display: none !important;
+}

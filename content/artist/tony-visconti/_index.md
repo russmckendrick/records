@@ -1,0 +1,12 @@
+---
+title: "Tony Visconti"
+summary: |
+  Tony Visconti is an American record producer, musician and singer, born April 24, 1944 in Brooklyn, New York. In the 1960s, he was a well-known lounge guitarist, as well as on the New York nightclub scene. In 1966 he became in-house producer for his publisher, [l936220. In 1968 he met and was invited by British producer [a271150 to come to London and assist him in producing [a58693. Moving to London was a big change in careers. Since the late 1960s, he has worked with an array of mainly British performers. He had his first hit with [r7837391 in 1970. His lengthiest involvement was with [a10263: Intermittently from the production and arrangement of Bowie's 1968 single "In the Heat of the Morning" / "London Bye Ta-Ta" to the 2016 release "Blackstar", Visconti produced and occasionally performed on many of Bowie's albums. He was married to Siegrid Visconti. After divorcing her, he married Mary Hopkin from 1971 until they divorced in 1981; the pair has two children, Jessica Lee Morgan and Morgan Visconti. In 1989, he married his third wife, May Pang; they had two children before they divorced in 2000. Currently living together with his girlfriend Kristeen Young.
+slug: "tony-visconti"
+image: "tony-visconti.jpg"
+apple_music_artist_url: ""
+wikipedia_url: ""
+discogs_url: "https://www.discogs.com/artist/55761-Tony-Visconti"
+---
+
+Tony Visconti is an American record producer, musician and singer, born April 24, 1944 in Brooklyn, New York. In the 1960s, he was a well-known lounge guitarist, as well as on the New York nightclub scene. In 1966 he became in-house producer for his publisher, [l936220. In 1968 he met and was invited by British producer [a271150 to come to London and assist him in producing [a58693. Moving to London was a big change in careers. Since the late 1960s, he has worked with an array of mainly British performers. He had his first hit with [r7837391 in 1970. His lengthiest involvement was with [a10263: Intermittently from the production and arrangement of Bowie's 1968 single "In the Heat of the Morning" / "London Bye Ta-Ta" to the 2016 release "Blackstar", Visconti produced and occasionally performed on many of Bowie's albums. He was married to Siegrid Visconti. After divorcing her, he married Mary Hopkin from 1971 until they divorced in 1981; the pair has two children, Jessica Lee Morgan and Morgan Visconti. In 1989, he married his third wife, May Pang; they had two children before they divorced in 2000. Currently living together with his girlfriend Kristeen Young.

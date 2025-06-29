@@ -1,0 +1,40 @@
+// Retro Terminal/Desktop Theme for russFM
+// Modular SCSS architecture with component separation
+
+// Import component files in logical order
+
+// 1. Variables and CSS custom properties
+@import "components/variables";
+
+// 2. Base styles and global resets
+@import "components/base";
+
+// 3. Layout components (header, nav, windows)
+@import "components/layout";
+
+// 4. Reusable components (cards, buttons, forms)
+@import "components/components";
+
+// 5. Page-specific styles
+@import "components/pages";
+
+// 6. Album detail page specific styles
+@import "components/album-detail";
+
+// 7. Homepage specific styles  
+@import "components/homepage";
+
+// 8. Stats page specific styles
+@import "components/stats";
+
+// 9. Terms page specific styles (Genres/Styles listing)
+@import "components/terms";
+
+// 10. Taxonomy page specific styles (Individual genre/style pages)
+@import "components/taxonomy";
+
+// 11. Search page specific styles
+@import "components/search";
+
+// 12. Responsive design breakpoints
+@import "components/responsive";

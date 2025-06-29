@@ -1,0 +1,195 @@
+{{ define "window_title" }}DATABASE :: VINYL_COLLECTION.db{{ end }}
+
+{{ define "main" }}
+<div class="current-prompt">
+    <span class="prompt-user prompt-terminal">user@russ-fm:~/collection$</span>
+    <span class="prompt-user prompt-modern">Search Collection</span>
+    <input type="text" 
+           id="terminal-search-input" 
+           class="terminal-input sql-search-input"
+           autocomplete="off"
+           spellcheck="false"
+           data-results-id="terminal-search-results">
+</div>
+
+<div id="terminal-search-results" class="search-results search-results-full"></div>
+
+<div class="system-stats">
+    <div class="stat-block">
+        <span class="stat-value">{{ len (where .Site.RegularPages "Type" "albums") }}</span>
+        <span class="stat-label">TOTAL_RECORDS</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">{{ len (where .Site.Pages "Section" "artist") }}</span>
+        <span class="stat-label">UNIQUE_ARTISTS</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">{{ if .Site.Taxonomies.genres }}{{ len .Site.Taxonomies.genres }}{{ else }}0{{ end }}</span>
+        <span class="stat-label">GENRES_INDEXED</span>
+    </div>
+    <div class="stat-block">
+        <span class="stat-value">{{ if .Site.Taxonomies.styles }}{{ len .Site.Taxonomies.styles }}{{ else }}0{{ end }}</span>
+        <span class="stat-label">STYLES_INDEXED</span>
+    </div>
+</div>
+
+
+<div class="db-section">
+    <div class="db-list" id="listView">
+        <div class="db-header">
+            <div>ID</div>
+            <div>ART</div>
+            <div>ALBUM_TITLE</div>
+            <div>ARTIST_NAME</div>
+            <div>GENRE</div>
+            <div>DATE_ADDED</div>
+            <div>STATUS</div>
+        </div>
+        
+        {{ $paginator := .Paginate (sort (where .Site.RegularPages "Type" "albums") "Date" "desc") 20 }}
+        {{ range $paginator.Pages }}
+        <div class="db-row" onclick="window.location.href='{{ .Permalink }}'">
+            <div class="record-id">#{{ .Params.release_id | default "000000" }}</div>
+            <div class="album-cover-mini retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
+            <div class="db-album-name">{{ .Params.album_name | default .Title }}</div>
+            <div class="artist-name">{{ .Params.artist_name }}</div>
+            <div><span class="genre-tag">{{ range first 1 .Params.genres }}{{ . | upper }}{{ end }}</span></div>
+            <div class="date-added">{{ .Date.Format "2006-01-02" }}</div>
+            <div><div class="status-indicator"></div></div>
+        </div>
+        {{ end }}
+    </div>
+    
+    <div class="cards-grid" id="cardsView">
+        {{ range $paginator.Pages }}
+        <div class="album-card" onclick="window.location.href='{{ .Permalink }}'">
+            <div class="album-cover retro-image" {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}></div>
+            <div class="album-info">
+                <h3 class="card-album-title">{{ .Params.album_name | default .Title }}</h3>
+                <p class="album-artist">{{ .Params.artist_name }}</p>
+                <div class="album-meta">
+                    <span class="album-date">{{ .Date.Format "2006-01-02" }}</span>
+                    <span class="record-id">#{{ .Params.release_id | default "000000" }}</span>
+                </div>
+                <div class="album-tags">
+                    {{ range .Params.genres }}
+                    <span class="tag">{{ . }}</span>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<!-- Retro Pagination -->
+{{ if gt $paginator.TotalPages 1 }}
+<div class="pagination-section">
+    <div class="pagination-controls">
+        <div class="pagination-info">
+            <span class="pagination-label">PAGE {{ $paginator.PageNumber }} OF {{ $paginator.TotalPages }}</span>
+            <span class="pagination-stats">SHOWING {{ len $paginator.Pages }} OF {{ $paginator.TotalNumberOfElements }} RECORDS</span>
+        </div>
+        <div class="pagination-buttons">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}" class="pagination-btn">&lt;&lt; PREV</a>
+            {{ else }}
+            <span class="pagination-btn disabled">&lt;&lt; PREV</span>
+            {{ end }}
+            
+            {{ $.Scratch.Set "adjacent_links" 2 }}
+            {{ $adjacent_links := $.Scratch.Get "adjacent_links" }}
+            {{ $max_links := (add (mul $adjacent_links 2) 1) }}
+            {{ $lower_limit := (add $adjacent_links 1) }}
+            {{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+            
+            {{ if gt $paginator.TotalPages $max_links }}
+                
+                {{ if le $paginator.PageNumber $lower_limit }}
+                    {{ range $paginator.Pagers }}
+                        {{ if le .PageNumber $max_links }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if lt $max_links $paginator.TotalPages }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                    {{ end }}
+                
+                {{ else if ge $paginator.PageNumber $upper_limit }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                
+                {{ else }}
+                    <a href="{{ $paginator.First.URL }}" class="pagination-btn">1</a>
+                    <span class="pagination-btn disabled">...</span>
+                    {{ range $paginator.Pagers }}
+                        {{ if and (ge .PageNumber (sub $paginator.PageNumber $adjacent_links)) (le .PageNumber (add $paginator.PageNumber $adjacent_links)) }}
+                            {{ if eq . $paginator }}
+                            <span class="pagination-btn active">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    <span class="pagination-btn disabled">...</span>
+                    <a href="{{ $paginator.Last.URL }}" class="pagination-btn">{{ $paginator.TotalPages }}</a>
+                {{ end }}
+                
+            {{ else }}
+                {{ range $paginator.Pagers }}
+                    {{ if eq . $paginator }}
+                    <span class="pagination-btn active">{{ .PageNumber }}</span>
+                    {{ else }}
+                    <a href="{{ .URL }}" class="pagination-btn">{{ .PageNumber }}</a>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}" class="pagination-btn">NEXT &gt;&gt;</a>
+            {{ else }}
+            <span class="pagination-btn disabled">NEXT &gt;&gt;</span>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<div class="terminal-footer">
+    <div class="footer-info">
+        <span class="footer-terminal">Connection: SECURE | Last Sync: {{ now.Format "2006-01-02 15:04:05" }} UTC</span>
+        <span class="footer-modern">Last Updated: {{ now.Format "2006-01-02 15:04:05" }} UTC</span>
+    </div>
+</div>
+
+
+<script>
+// Views are now handled by CSS - no JavaScript switching needed
+// Terminal mode (80s) = List view only
+// Modern mode = Cards view only
+document.addEventListener('DOMContentLoaded', function() {
+    // No view switching logic needed - CSS handles theme-specific views
+    console.log('Theme-specific views loaded via CSS');
+});
+
+// Keep function for compatibility but make it a no-op
+function switchView(viewType, savePreference = true) {
+    // Views are now controlled by CSS theme selectors
+    // No manual switching needed
+}
+</script>
+{{ end }}

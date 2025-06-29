@@ -1,0 +1,35 @@
+<!-- Album View Toggle JavaScript -->
+<script>
+// Load saved view preference on page load
+document.addEventListener('DOMContentLoaded', function() {
+    const savedView = localStorage.getItem('retro-view-preference') || 'list';
+    switchView(savedView, false); // false to prevent saving again during load
+});
+
+function switchView(viewType, savePreference = true) {
+    const listView = document.getElementById('listView');
+    const cardsView = document.getElementById('cardsView');
+    const viewBtns = document.querySelectorAll('.view-btn');
+    
+    // Update button states
+    viewBtns.forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.querySelector(`[data-view="${viewType}"]`);
+    if (activeBtn) {
+        activeBtn.classList.add('active');
+    }
+    
+    // Toggle views
+    if (viewType === 'list') {
+        listView.classList.remove('hidden');
+        cardsView.classList.remove('active');
+    } else {
+        listView.classList.add('hidden');
+        cardsView.classList.add('active');
+    }
+    
+    // Save preference to localStorage
+    if (savePreference) {
+        localStorage.setItem('retro-view-preference', viewType);
+    }
+}
+</script>

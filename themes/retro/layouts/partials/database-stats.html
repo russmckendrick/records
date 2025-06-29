@@ -1,0 +1,26 @@
+{{ $totalAlbums := len (where .Site.RegularPages "Type" "albums") }}
+{{ $uniqueArtists := len (where .Site.RegularPages "Section" "artist") }}
+{{ $yearsSpanned := sub 2025 1960 }}
+{{ $completionPercentage := div (mul $totalAlbums 100) 3100 }}
+
+<div class="database-stats">
+    <div class="stat-box">
+        <div class="stat-number">{{ $totalAlbums }}</div>
+        <div class="stat-label">TOTAL RECORDS</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-number">{{ $uniqueArtists }}</div>
+        <div class="stat-label">UNIQUE ARTISTS</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-number">{{ $yearsSpanned }}</div>
+        <div class="stat-label">YEARS SPANNED</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-number">{{ printf "%.1f%%" $completionPercentage }}</div>
+        <div class="stat-label">COLLECTION GOAL</div>
+        <div class="stat-progress">
+            <div class="progress-bar" style="width: {{ $completionPercentage }}%"></div>
+        </div>
+    </div>
+</div>

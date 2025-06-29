@@ -1,0 +1,191 @@
+{{ define "window_title" }}ALBUM :: {{ .Params.album_name | default .Title | upper }}{{ end }}
+
+{{ define "main" }}
+<div class="album-layout">
+    <div class="album-art-section">
+        <div class="album-cover retro-image" id="albumCover" 
+             {{ if .Params.cover.image }}style="background-image: url('{{ .RelPermalink }}{{ .Params.cover.image }}');"{{ end }}>
+        </div>
+        
+        {{ partial "album-actions.html" . }}
+    </div>
+    
+    <div class="album-info-section">
+        <div class="album-header">
+            <h1 class="album-title">{{ .Params.album_name | default .Title | upper }}</h1>
+            <h2 class="album-artist">
+                {{ if .Params.artist }}
+                <a href="/artist/{{ .Params.artist }}/">{{ .Params.artist_name | upper }}</a>
+                {{ else }}
+                {{ .Params.artist_name | upper }}
+                {{ end }}
+            </h2>
+            
+            <div class="album-meta">
+                {{ if .Params.release_date }}
+                <div class="meta-item">
+                    <span class="meta-label">Release Date:</span>
+                    <span class="meta-value">{{ .Params.release_date }}</span>
+                </div>
+                {{ end }}
+                <div class="meta-item">
+                    <span class="meta-label">Added:</span>
+                    <span class="meta-value">{{ .Date.Format "2006-01-02" }}</span>
+                </div>
+                {{ if .Params.release_id }}
+                <div class="meta-item">
+                    <span class="meta-label">Record ID:</span>
+                    <span class="meta-value">#{{ .Params.release_id }}</span>
+                </div>
+                {{ end }}
+                {{ if .Params.genres }}
+                <div class="meta-item">
+                    <span class="meta-label">Genre:</span>
+                    <span class="meta-value">{{ delimit .Params.genres ", " }}</span>
+                </div>
+                {{ end }}
+                {{ if .Params.styles }}
+                <div class="meta-item meta-item-last">
+                    <span class="meta-label">Style:</span>
+                    <span class="meta-value">{{ delimit .Params.styles ", " }}</span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        
+        {{ if .Params.tracklist }}
+        <div class="tracklist-section">
+            <h3>TRACKLISTING</h3>
+            <div class="tracklist">
+                <div class="track-header">
+                    <div>Position</div>
+                    <div>Title</div>
+                </div>
+                {{ range .Params.tracklist }}
+                <div class="track-row">
+                    <div class="track-position">{{ .position }}</div>
+                    <div class="track-title">{{ .title }}</div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        
+        
+        {{ $contentStr := .Content | string }}
+        {{ $plainContent := .Content | plainify }}
+        {{ $hasRealContent := false }}
+        
+        {{ if and .Content (gt (len $contentStr) 0) (not (eq $contentStr "")) }}
+            {{ if or (strings.Contains $contentStr "<p>") (strings.Contains $contentStr "<ul>") (strings.Contains $contentStr "<ol>") }}
+                {{ $hasRealContent = true }}
+            {{ else if and (strings.Contains $contentStr "<h") (gt (len $plainContent) 50) }}
+                {{ $hasRealContent = true }}
+            {{ else if and (not (strings.Contains $contentStr "<h")) (gt (len $plainContent) 20) }}
+                {{ $hasRealContent = true }}
+            {{ end }}
+        {{ end }}
+        
+        {{ if $hasRealContent }}
+        <div class="album-description">
+            <h3>DESCRIPTION</h3>
+            <div class="description-content">
+                {{ .Content }}
+            </div>
+        </div>
+        {{ end }}
+        
+        {{ if .Params.apple_music_id }}
+        <div class="apple-music-section">
+            <h3>APPLE MUSIC</h3>
+            <div class="apple-music-embed">
+                <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
+                        frameborder="0" 
+                        height="450" 
+                        style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+                        sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+                        src="https://embed.music.apple.com/album/{{ .Params.apple_music_id }}">
+                </iframe>
+            </div>
+        </div>
+        {{ end }}
+        
+        {{ if .Params.images }}
+        <div class="release-images-section">
+            <h3>RELEASE IMAGES</h3>
+            <div class="release-images-table">
+                <div class="image-table-header">
+                    <div>ID</div>
+                    <div>THUMBNAIL</div>
+                    <div>TYPE</div>
+                    <div>SIZE</div>
+                    <div>ACTION</div>
+                </div>
+                {{ range $index, $image := .Params.images }}
+                <div class="image-table-row" onclick="openImageViewer('{{ $.RelPermalink }}{{ . }}', '{{ add $index 1 }}')">
+                    <div class="image-id">#{{ printf "%02d" (add $index 1) }}</div>
+                    <div class="image-thumbnail">
+                        <div class="thumbnail-preview" style="background-image: url('{{ $.RelPermalink }}{{ . }}');"></div>
+                    </div>
+                    <div class="image-type">RELEASE_IMG</div>
+                    <div class="image-size">{{ if (strings.Contains . "back") }}BACK{{ else if (strings.Contains . "disc") }}DISC{{ else if (strings.Contains . "inner") }}INNER{{ else }}FRONT{{ end }}</div>
+                    <div class="image-action">
+                        <button class="action-btn-small">VIEW</button>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        
+        <!-- Simple Image Viewer Modal -->
+        <div id="imageViewer" class="image-viewer" onclick="closeImageViewer()">
+            <div class="image-viewer-content">
+                <div class="image-viewer-header">
+                    <span id="imageViewerTitle">RELEASE IMAGE #01</span>
+                    <button class="close-btn" onclick="closeImageViewer()">✕</button>
+                </div>
+                <img id="imageViewerImg" src="" alt="Release Image">
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+
+<script>
+
+// Image Viewer functionality
+function openImageViewer(imageSrc, imageNumber) {
+    const viewer = document.getElementById('imageViewer');
+    const img = document.getElementById('imageViewerImg');
+    const title = document.getElementById('imageViewerTitle');
+    
+    img.src = imageSrc;
+    title.textContent = `RELEASE IMAGE #${imageNumber.padStart(2, '0')}`;
+    viewer.classList.add('active');
+    
+    // Prevent body scroll when modal is open
+    document.body.style.overflow = 'hidden';
+}
+
+function closeImageViewer() {
+    const viewer = document.getElementById('imageViewer');
+    viewer.classList.remove('active');
+    
+    // Restore body scroll
+    document.body.style.overflow = 'auto';
+}
+
+// Close viewer with Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeImageViewer();
+    }
+});
+
+// Prevent modal content clicks from closing the viewer
+document.querySelector('.image-viewer-content')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+});
+</script>
+{{ end }}

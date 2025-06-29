@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUSS.FM // MUSIC DATABASE SYSTEM</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap');
+        
+        :root {
+            /* 80s Terminal Mode */
+            --bg-color: #0a0a0a;
+            --text-color: #00ff41;
+            --accent-color: #ffff00;
+            --border-color: #00ff41;
+            --window-bg: #000000;
+            --secondary-text: #888888;
+            --highlight-bg: rgba(0, 255, 65, 0.1);
+            --font-family: 'JetBrains Mono', monospace;
+            --window-border: 2px solid var(--border-color);
+            --scanline-opacity: 0.05;
+        }
+        
+        [data-era="90s"] {
+            /* 90s PC Mode */
+            --bg-color: #c0c0c0;
+            --text-color: #000000;
+            --accent-color: #800080;
+            --border-color: #808080;
+            --window-bg: #c0c0c0;
+            --secondary-text: #404040;
+            --highlight-bg: #0000ff;
+            --font-family: 'MS Sans Serif', sans-serif;
+            --window-border: 2px outset #c0c0c0;
+            --scanline-opacity: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: var(--font-family);
+            background: var(--bg-color);
+            color: var(--text-color);
+            overflow-x: hidden;
+            line-height: 1.4;
+            transition: all 0.3s ease;
+        }
+        
+        /* Scanlines for 80s mode */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: repeating-linear-gradient(
+                0deg,
+                transparent,
+                transparent 2px,
+                rgba(0, 255, 65, var(--scanline-opacity)) 2px,
+                rgba(0, 255, 65, var(--scanline-opacity)) 4px
+            );
+            pointer-events: none;
+            z-index: 1000;
+        }
+        
+        /* Header */
+        .header {
+            background: var(--window-bg);
+            border-bottom: var(--window-border);
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+        }
+        
+        [data-era="90s"] .header {
+            box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .system-info {
+            font-size: 0.9rem;
+            color: var(--text-color);
+        }
+        
+        .system-title {
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+        
+        .system-version {
+            color: var(--secondary-text);
+            font-size: 0.8rem;
+        }
+        
+        .nav-commands {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .nav-commands a {
+            color: var(--text-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+            padding: 0.5rem;
+        }
+        
+        [data-era="80s"] .nav-commands a::before {
+            content: '> ';
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .nav-commands a:hover {
+            color: var(--accent-color);
+            text-shadow: 0 0 10px var(--accent-color);
+        }
+        
+        [data-era="80s"] .nav-commands a:hover::before {
+            opacity: 1;
+        }
+        
+        [data-era="90s"] .nav-commands a {
+            border: 1px outset #c0c0c0;
+            background: #c0c0c0;
+            padding: 0.3rem 0.8rem;
+        }
+        
+        [data-era="90s"] .nav-commands a:hover {
+            border: 1px inset #c0c0c0;
+        }
+        
+        /* Theme Switcher */
+        .theme-switcher {
+            color: var(--text-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+            padding: 0.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .theme-switcher:hover {
+            color: var(--accent-color);
+            text-shadow: 0 0 10px var(--accent-color);
+        }
+        
+        [data-era="80s"] .theme-switcher::before {
+            content: '> ';
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        [data-era="80s"] .theme-switcher:hover::before {
+            opacity: 1;
+        }
+        
+        [data-era="90s"] .theme-switcher {
+            border: 1px outset #c0c0c0;
+            background: #c0c0c0;
+            padding: 0.3rem 0.8rem;
+        }
+        
+        [data-era="90s"] .theme-switcher:hover {
+            border: 1px inset #c0c0c0;
+        }
+        
+        .theme-icon {
+            width: 16px;
+            height: 16px;
+            transition: all 0.3s ease;
+        }
+        
+        .theme-icon svg {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .theme-icon path {
+            stroke: var(--text-color);
+            transition: stroke 0.3s ease;
+        }
+        
+        .theme-switcher:hover .theme-icon path {
+            stroke: var(--accent-color);
+        }
+        
+        .theme-label {
+            font-family: var(--font-family);
+            font-size: 0.9rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        /* Main Window */
+        .main-window {
+            max-width: 1400px;
+            margin: 2rem auto;
+            background: var(--window-bg);
+            border: var(--window-border);
+            box-shadow: 0 0 20px rgba(0, 255, 65, 0.5);
+        }
+        
+        [data-era="90s"] .main-window {
+            box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
+        }
+        
+        .window-header {
+            background: var(--window-bg);
+            padding: 0.8rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .window-title {
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        
+        .window-controls {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .control-btn {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #333;
+            border: 1px solid #555;
+        }
+        
+        [data-era="90s"] .control-btn {
+            border-radius: 0;
+            width: 16px;
+            height: 14px;
+            border: 1px outset #c0c0c0;
+            background: #c0c0c0;
+        }
+        
+        .control-btn.close { background: #ff4444; }
+        .control-btn.minimize { background: #ffaa00; }
+        .control-btn.maximize { background: var(--accent-color); }
+        
+        /* Terminal Content */
+        .terminal-content {
+            padding: 2rem;
+        }
+        
+        .command-line {
+            margin-bottom: 2rem;
+            font-size: 1rem;
+        }
+        
+        .prompt {
+            color: var(--text-color);
+        }
+        
+        .command {
+            color: var(--accent-color);
+            margin-left: 1rem;
+        }
+        
+        .blinking-cursor::after {
+            content: '█';
+            animation: blink 1s infinite;
+        }
+        
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+        
+        /* System Stats */
+        .system-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+            padding: 1.5rem 0;
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .stat-block {
+            text-align: center;
+            padding: 1rem;
+            background: var(--highlight-bg);
+            border: 1px solid var(--border-color);
+        }
+        
+        [data-era="90s"] .stat-block {
+            border: 1px inset #c0c0c0;
+            background: #e0e0e0;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            font-family: var(--font-family);
+        }
+        
+        .stat-label {
+            color: var(--secondary-text);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        
+        /* View Toggle */
+        .view-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 2rem 0 1rem 0;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .view-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        
+        .view-toggle {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .view-btn {
+            background: var(--window-bg);
+            color: var(--text-color);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem 1rem;
+            font-family: var(--font-family);
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .view-btn.active {
+            background: var(--highlight-bg);
+            color: var(--accent-color);
+        }
+        
+        [data-era="90s"] .view-btn {
+            border: 1px outset #c0c0c0;
+            background: #c0c0c0;
+        }
+        
+        [data-era="90s"] .view-btn:hover {
+            border: 1px inset #c0c0c0;
+        }
+        
+        [data-era="90s"] .view-btn.active {
+            background: var(--highlight-bg);
+            color: white;
+        }
+        
+        /* Database Grid */
+        .db-section {
+            margin: 2rem 0;
+        }
+        
+        .db-header {
+            display: grid;
+            grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+            gap: 1rem;
+            padding: 1rem 0;
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 1rem;
+            font-weight: 600;
+            color: var(--text-color);
+            text-transform: uppercase;
+            font-size: 0.8rem;
+        }
+        
+        .db-row {
+            display: grid;
+            grid-template-columns: 80px 60px 2fr 2fr 1fr 1fr 100px;
+            gap: 1rem;
+            padding: 1rem 0;
+            border-bottom: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            align-items: center;
+        }
+        
+        .db-row:hover {
+            background: var(--highlight-bg);
+        }
+        
+        [data-era="90s"] .db-row:hover {
+            background: var(--highlight-bg);
+            color: white;
+        }
+        
+        .record-id {
+            font-family: var(--font-family);
+            color: var(--secondary-text);
+            font-size: 0.8rem;
+        }
+        
+        .album-cover-mini {
+            width: 40px;
+            height: 40px;
+            background: #222;
+            border: 1px solid #444;
+            position: relative;
+            overflow: hidden;
+            /* 8-bit pixelated effect */
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        [data-era="90s"] .album-cover-mini {
+            border: 1px inset #c0c0c0;
+            background: #f0f0f0;
+        }
+        
+        .album-cover-mini.no-image::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 8px;
+            height: 8px;
+            background: #444;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        .album-title {
+            color: var(--text-color);
+            font-weight: 500;
+        }
+        
+        .artist-name {
+            color: var(--secondary-text);
+        }
+        
+        .genre-tag {
+            background: rgba(255, 255, 0, 0.2);
+            color: var(--accent-color);
+            padding: 0.2rem 0.5rem;
+            border-radius: 3px;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            font-weight: 500;
+            border: 1px solid var(--accent-color);
+        }
+        
+        [data-era="90s"] .genre-tag {
+            background: #800080;
+            color: white;
+            border: 1px outset #800080;
+        }
+        
+        .date-added {
+            color: var(--secondary-text);
+            font-size: 0.8rem;
+        }
+        
+        .status-indicator {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-color);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+        
+        [data-era="90s"] .status-indicator {
+            border-radius: 0;
+            background: #008000;
+        }
+        
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.3; }
+            100% { opacity: 1; }
+        }
+        
+        /* Card View */
+        .cards-grid {
+            display: none;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+        
+        .cards-grid.active {
+            display: grid;
+        }
+        
+        .album-card {
+            background: var(--window-bg);
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        [data-era="90s"] .album-card {
+            border: 1px outset #c0c0c0;
+            background: #c0c0c0;
+        }
+        
+        .album-card:hover {
+            background: var(--highlight-bg);
+            border-color: var(--accent-color);
+        }
+        
+        [data-era="90s"] .album-card:hover {
+            border: 1px inset #c0c0c0;
+        }
+        
+        .album-cover {
+            width: 100%;
+            aspect-ratio: 1;
+            background-size: cover;
+            background-position: center;
+            border-bottom: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+            /* 8-bit pixelated effect */
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+        }
+        
+        .album-info {
+            padding: 1.5rem;
+        }
+        
+        .album-card .album-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-color);
+        }
+        
+        .album-card .album-artist {
+            color: var(--secondary-text);
+            margin-bottom: 1rem;
+        }
+        
+        .album-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .album-date {
+            color: var(--secondary-text);
+            font-size: 0.8rem;
+        }
+        
+        .album-tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            background: rgba(255, 255, 0, 0.2);
+            color: var(--accent-color);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            border: 1px solid var(--accent-color);
+        }
+        
+        [data-era="90s"] .tag {
+            background: #800080;
+            color: white;
+            border: 1px outset #800080;
+            border-radius: 0;
+        }
+        
+        /* Hide/Show Views */
+        .db-list {
+            display: block;
+        }
+        
+        .db-list.hidden {
+            display: none;
+        }
+        
+        /* Footer */
+        .terminal-footer {
+            margin-top: 2rem;
+            padding: 1rem;
+            border-top: 1px solid var(--border-color);
+            font-size: 0.8rem;
+            color: var(--secondary-text);
+        }
+        
+        .footer-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        /* Enhanced Responsive Design */
+        @media (max-width: 1200px) {
+            .main-window {
+                margin: 1rem;
+            }
+            
+            .header {
+                padding: 0.8rem 1rem;
+            }
+            
+            .terminal-content {
+                padding: 1.5rem;
+            }
+        }
+        
+        @media (max-width: 1024px) {
+            .nav {
+                flex-wrap: wrap;
+                gap: 1rem;
+            }
+            
+            .nav-commands {
+                gap: 1rem;
+                flex-wrap: wrap;
+            }
+            
+            .system-stats {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 0.8rem;
+            }
+            
+            .db-header, .db-row {
+                grid-template-columns: 60px 50px 2fr 1.5fr 0.8fr 0.8fr 80px;
+                gap: 0.5rem;
+                font-size: 0.9rem;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .main-window {
+                margin: 0.5rem;
+            }
+            
+            .header {
+                padding: 0.5rem 1rem;
+            }
+            
+            .system-title {
+                font-size: 1rem;
+            }
+            
+            .nav {
+                align-items: flex-start;
+            }
+            
+            .terminal-content {
+                padding: 1rem;
+            }
+            
+            .db-header, .db-row {
+                grid-template-columns: 1fr 1fr;
+                gap: 0.5rem;
+                font-size: 0.8rem;
+            }
+            
+            .db-header {
+                display: none;
+            }
+            
+            .db-row {
+                display: block;
+                padding: 1rem;
+                border: 1px solid var(--border-color);
+                margin-bottom: 0.5rem;
+            }
+            
+            .nav-commands {
+                display: none;
+            }
+            
+            .system-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            
+            .view-controls {
+                flex-direction: column;
+                gap: 1rem;
+                align-items: stretch;
+            }
+            
+            .view-toggle {
+                justify-content: center;
+            }
+            
+            .cards-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                gap: 1rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .main-window {
+                margin: 0.25rem;
+            }
+            
+            .header {
+                padding: 0.5rem;
+            }
+            
+            .system-info {
+                font-size: 0.8rem;
+            }
+            
+            .system-title {
+                font-size: 0.9rem;
+            }
+            
+            .terminal-content {
+                padding: 0.5rem;
+            }
+            
+            .command-line {
+                font-size: 0.8rem;
+                margin-bottom: 1rem;
+            }
+            
+            .system-stats {
+                grid-template-columns: 1fr;
+                gap: 0.5rem;
+            }
+            
+            .stat-value {
+                font-size: 1.2rem;
+            }
+            
+            .stat-label {
+                font-size: 0.7rem;
+            }
+            
+            .cards-grid {
+                grid-template-columns: 1fr;
+                gap: 0.8rem;
+            }
+            
+            .album-info {
+                padding: 1rem;
+            }
+            
+            .album-title {
+                font-size: 1rem;
+            }
+            
+            .view-title {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body data-era="80s">
+
+    <header class="header">
+        <nav class="nav">
+            <div class="system-info">
+                <div class="system-title">RUSS.FM</div>
+                <div class="system-version">MUSIC_DB v2.1.4</div>
+            </div>
+            <ul class="nav-commands">
+                <li><a href="#">BROWSE</a></li>
+                <li><a href="#">ARTISTS</a></li>
+                <li><a href="#">SEARCH</a></li>
+                <li><a href="#">RANDOM</a></li>
+                <li><a href="#">HELP</a></li>
+                <li>
+                    <a href="#" class="theme-switcher" onclick="toggleTheme(); return false;" title="Switch Era">
+                        <span class="theme-icon" id="themeIcon">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M13 15H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                                <path d="M8 15L10.5 12.5V12.5C10.7761 12.2239 10.7761 11.7761 10.5 11.5V11.5L8 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M3 8C3 6.11438 3 5.17157 3.58579 4.58579C4.17157 4 5.11438 4 7 4H12H17C18.8856 4 19.8284 4 20.4142 4.58579C21 5.17157 21 6.11438 21 8V12V16C21 17.8856 21 18.8284 20.4142 19.4142C19.8284 20 18.8856 20 17 20H12H7C5.11438 20 4.17157 20 3.58579 19.4142C3 18.8284 3 17.8856 3 16V12V8Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                            </svg>
+                        </span>
+                        <span class="theme-label" id="themeLabel">TERMINAL</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-window">
+        <div class="window-header">
+            <div class="window-title">DATABASE :: VINYL_COLLECTION.db</div>
+            <div class="window-controls">
+                <div class="control-btn close"></div>
+                <div class="control-btn minimize"></div>
+                <div class="control-btn maximize"></div>
+            </div>
+        </div>
+        
+        <div class="terminal-content">
+            <div class="command-line">
+                <span class="prompt">user@russ-fm:~/collection$</span>
+                <span class="command">SELECT * FROM vinyl_records ORDER BY date_added DESC LIMIT 10;</span>
+                <span class="blinking-cursor"></span>
+            </div>
+            
+            <div class="system-stats">
+                <div class="stat-block">
+                    <span class="stat-value">2847</span>
+                    <span class="stat-label">TOTAL_RECORDS</span>
+                </div>
+                <div class="stat-block">
+                    <span class="stat-value">1642</span>
+                    <span class="stat-label">UNIQUE_ARTISTS</span>
+                </div>
+                <div class="stat-block">
+                    <span class="stat-value">127</span>
+                    <span class="stat-label">GENRES_INDEXED</span>
+                </div>
+                <div class="stat-block">
+                    <span class="stat-value">98.7%</span>
+                    <span class="stat-label">DB_INTEGRITY</span>
+                </div>
+            </div>
+            
+            <div class="view-controls">
+                <h2 class="view-title">LATEST ADDITIONS</h2>
+                <div class="view-toggle">
+                    <button class="view-btn active" onclick="switchView('list')">📋 LIST</button>
+                    <button class="view-btn" onclick="switchView('cards')">🗃️ CARDS</button>
+                </div>
+            </div>
+            
+            <div class="db-section">
+                <div class="db-list" id="listView">
+                    <div class="db-header">
+                        <div>ID</div>
+                        <div>ART</div>
+                        <div>ALBUM_TITLE</div>
+                        <div>ARTIST_NAME</div>
+                        <div>GENRE</div>
+                        <div>DATE_ADDED</div>
+                        <div>STATUS</div>
+                    </div>
+                
+                <div class="db-row" onclick="window.open('album-detail.html', '_blank')">
+                    <div class="record-id">#34341382</div>
+                    <div class="album-cover-mini" style="background-image: url('../content/albums/flaunt-the-imperfection-34341382/flaunt-the-imperfection-34341382.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                    <div class="album-title">Flaunt the Imperfection</div>
+                    <div class="artist-name">China Crisis</div>
+                    <div><span class="genre-tag">ELECTRONIC</span></div>
+                    <div class="date-added">2025-06-22</div>
+                    <div><div class="status-indicator"></div></div>
+                </div>
+                
+                <div class="db-row" onclick="window.open('album-detail.html', '_blank')">
+                    <div class="record-id">#34335652</div>
+                    <div class="album-cover-mini" style="background-image: url('../content/albums/junk-culture-34335652/junk-culture-34335652.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                    <div class="album-title">Junk Culture</div>
+                    <div class="artist-name">Orchestral Manoeuvres In The Dark</div>
+                    <div><span class="genre-tag">ELECTRONIC</span></div>
+                    <div class="date-added">2025-06-22</div>
+                    <div><div class="status-indicator"></div></div>
+                </div>
+                
+                <div class="db-row">
+                    <div class="record-id">#34169605</div>
+                    <div class="album-cover-mini" style="background-image: url('../content/albums/greatest-34169605/greatest-34169605.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                    <div class="album-title">Greatest</div>
+                    <div class="artist-name">Duran Duran</div>
+                    <div><span class="genre-tag">POP</span></div>
+                    <div class="date-added">2025-06-20</div>
+                    <div><div class="status-indicator"></div></div>
+                </div>
+                
+                <div class="db-row">
+                    <div class="record-id">#34311622</div>
+                    <div class="album-cover-mini" style="background-image: url('../content/albums/wise-up-suckers-34311622/wise-up-suckers-34311622.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                    <div class="album-title">Wise Up Suckers</div>
+                    <div class="artist-name">Pop Will Eat Itself</div>
+                    <div><span class="genre-tag">ROCK</span></div>
+                    <div class="date-added">2025-06-17</div>
+                    <div><div class="status-indicator"></div></div>
+                </div>
+                
+                <div class="db-row">
+                    <div class="record-id">#34265530</div>
+                    <div class="album-cover-mini" style="background-image: url('../content/albums/crowded-house-34265530/crowded-house-34265530.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                    <div class="album-title">Crowded House</div>
+                    <div class="artist-name">Crowded House</div>
+                    <div><span class="genre-tag">POP</span></div>
+                    <div class="date-added">2025-06-15</div>
+                    <div><div class="status-indicator"></div></div>
+                </div>
+                </div>
+                
+                <div class="cards-grid" id="cardsView">
+                    <div class="album-card" onclick="window.open('album-detail.html', '_blank')">
+                        <div class="album-cover" style="background-image: url('../content/albums/flaunt-the-imperfection-34341382/flaunt-the-imperfection-34341382.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                        <div class="album-info">
+                            <h3 class="album-title">Flaunt the Imperfection</h3>
+                            <p class="album-artist">China Crisis</p>
+                            <div class="album-meta">
+                                <span class="album-date">2025-06-22</span>
+                                <span class="record-id">#34341382</span>
+                            </div>
+                            <div class="album-tags">
+                                <span class="tag">Electronic</span>
+                                <span class="tag">Pop</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="album-card" onclick="window.open('album-detail.html', '_blank')">
+                        <div class="album-cover" style="background-image: url('../content/albums/junk-culture-34335652/junk-culture-34335652.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                        <div class="album-info">
+                            <h3 class="album-title">Junk Culture</h3>
+                            <p class="album-artist">Orchestral Manoeuvres In The Dark</p>
+                            <div class="album-meta">
+                                <span class="album-date">2025-06-22</span>
+                                <span class="record-id">#34335652</span>
+                            </div>
+                            <div class="album-tags">
+                                <span class="tag">Electronic</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="album-card">
+                        <div class="album-cover" style="background-image: url('../content/albums/greatest-34169605/greatest-34169605.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                        <div class="album-info">
+                            <h3 class="album-title">Greatest</h3>
+                            <p class="album-artist">Duran Duran</p>
+                            <div class="album-meta">
+                                <span class="album-date">2025-06-20</span>
+                                <span class="record-id">#34169605</span>
+                            </div>
+                            <div class="album-tags">
+                                <span class="tag">Pop</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="album-card">
+                        <div class="album-cover" style="background-image: url('../content/albums/wise-up-suckers-34311622/wise-up-suckers-34311622.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                        <div class="album-info">
+                            <h3 class="album-title">Wise Up Suckers</h3>
+                            <p class="album-artist">Pop Will Eat Itself</p>
+                            <div class="album-meta">
+                                <span class="album-date">2025-06-17</span>
+                                <span class="record-id">#34311622</span>
+                            </div>
+                            <div class="album-tags">
+                                <span class="tag">Rock</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="album-card">
+                        <div class="album-cover" style="background-image: url('../content/albums/crowded-house-34265530/crowded-house-34265530.jpg'); filter: contrast(1.2) saturate(1.3) brightness(1.1);"></div>
+                        <div class="album-info">
+                            <h3 class="album-title">Crowded House</h3>
+                            <p class="album-artist">Crowded House</p>
+                            <div class="album-meta">
+                                <span class="album-date">2025-06-15</span>
+                                <span class="record-id">#34265530</span>
+                            </div>
+                            <div class="album-tags">
+                                <span class="tag">Pop</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="terminal-footer">
+                <div class="footer-info">
+                    <span>Connection: SECURE | Last Sync: 2025-06-28 14:23:17 UTC</span>
+                    <span>Memory Usage: 847MB / 2GB</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        function toggleTheme() {
+            const currentEra = document.body.getAttribute('data-era');
+            const newEra = currentEra === '80s' ? '90s' : '80s';
+            
+            document.body.setAttribute('data-era', newEra);
+            
+            // Update system version for era
+            const versionEl = document.querySelector('.system-version');
+            const iconEl = document.getElementById('themeIcon');
+            const labelEl = document.getElementById('themeLabel');
+            
+            if (newEra === '80s') {
+                versionEl.textContent = 'MUSIC_DB v2.1.4';
+                labelEl.textContent = 'TERMINAL';
+                iconEl.innerHTML = `
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M13 15H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M8 15L10.5 12.5V12.5C10.7761 12.2239 10.7761 11.7761 10.5 11.5V11.5L8 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 8C3 6.11438 3 5.17157 3.58579 4.58579C4.17157 4 5.11438 4 7 4H12H17C18.8856 4 19.8284 4 20.4142 4.58579C21 5.17157 21 6.11438 21 8V12V16C21 17.8856 21 18.8284 20.4142 19.4142C19.8284 20 18.8856 20 17 20H12H7C5.11438 20 4.17157 20 3.58579 19.4142C3 18.8284 3 17.8856 3 16V12V8Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                    </svg>
+                `;
+            } else {
+                versionEl.textContent = 'Music Database 95 v1.0';
+                labelEl.textContent = 'DESKTOP';
+                iconEl.innerHTML = `
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3 7C3 5.11438 3 4.17157 3.58579 3.58579C4.17157 3 5.11438 3 7 3H12H17C18.8856 3 19.8284 3 20.4142 3.58579C21 4.17157 21 5.11438 21 7V10V13C21 14.8856 21 15.8284 20.4142 16.4142C19.8284 17 18.8856 17 17 17H12H7C5.11438 17 4.17157 17 3.58579 16.4142C3 15.8284 3 14.8856 3 13V10V7Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        <path d="M13.3333 17L14.6667 19V19C15.2366 19.8549 14.6238 21 13.5963 21H12H10.4037C9.37624 21 8.7634 19.8549 9.33333 19V19L10.6667 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M3 13H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                `;
+            }
+        }
+        
+        function switchView(viewType) {
+            const listView = document.getElementById('listView');
+            const cardsView = document.getElementById('cardsView');
+            const viewBtns = document.querySelectorAll('.view-btn');
+            
+            // Update button states
+            viewBtns.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Toggle views
+            if (viewType === 'list') {
+                listView.classList.remove('hidden');
+                cardsView.classList.remove('active');
+            } else {
+                listView.classList.add('hidden');
+                cardsView.classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html>

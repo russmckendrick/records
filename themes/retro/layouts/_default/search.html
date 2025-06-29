@@ -1,0 +1,686 @@
+{{ define "window_title" }}
+{{- if eq ($.Param "era") "modern" -}}
+SEARCH COLLECTION
+{{- else -}}
+DATABASE QUERY TERMINAL
+{{- end -}}
+{{ end }}
+
+{{ define "main" }}
+<div class="database-terminal">
+    <div class="query-interface">
+        <div class="terminal-content" id="terminalContent">
+            <div class="welcome-message">
+                <!-- Terminal Theme Welcome -->
+                <div class="system-info welcome-terminal">
+                    <p>Database initialized: {{ now.Format "2006-01-02 15:04:05" }}</p>
+                    <p>Records loaded: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
+                    <p>Artists indexed: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
+                    <p>Type 'HELP' for query syntax or <a href="#" onclick="showExamples(); return false;" class="examples-link">view example queries</a>.</p>
+                </div>
+                
+                <!-- Modern Theme Welcome -->
+                <div class="system-info welcome-modern">
+                    <h1 class="search-header">Music Collection Search</h1>
+                </div>
+            </div>
+            
+            <div class="current-prompt">
+                <span class="prompt-user prompt-terminal">user@russ-fm:~/collection$</span>
+                <span class="prompt-user prompt-modern">Search Collection (<a href="#" onclick="showExamples(); return false;" class="examples-link">examples</a>)</span>
+                <input type="text" 
+                       id="queryInput" 
+                       class="terminal-input sql-search-input"
+                       autocomplete="off"
+                       spellcheck="false">
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Example Queries Modal -->
+<div id="examplesModal" class="examples-modal" onclick="hideExamples()">
+    <div class="examples-modal-content" onclick="event.stopPropagation()">
+        <!-- Terminal Theme Modal Header -->
+        <div class="examples-modal-header examples-header-terminal">
+            <h3>Example Queries</h3>
+            <button class="close-btn" onclick="hideExamples()">✕</button>
+        </div>
+        
+        <!-- Modern Theme Modal Header -->
+        <div class="examples-modal-header examples-header-modern">
+            <h3>Example Searches</h3>
+            <button class="close-btn" onclick="hideExamples()">✕</button>
+        </div>
+        
+        <div class="examples-modal-body">
+            <!-- Terminal Theme Examples -->
+            <div class="query-examples examples-terminal">
+                <div class="example" onclick="executeExample('SELECT * FROM albums WHERE artist = &quot;Depeche Mode&quot;;'); hideExamples();">
+                    <code>SELECT * FROM albums WHERE artist = "Depeche Mode";</code>
+                </div>
+                <div class="example" onclick="executeExample('SELECT artist, album FROM albums WHERE genre = &quot;Electronic&quot; LIMIT 10;'); hideExamples();">
+                    <code>SELECT artist, album FROM albums WHERE genre = "Electronic" LIMIT 10;</code>
+                </div>
+                <div class="example" onclick="executeExample('SELECT COUNT(*) FROM albums WHERE style = &quot;Synth-pop&quot;;'); hideExamples();">
+                    <code>SELECT COUNT(*) FROM albums WHERE style = "Synth-pop";</code>
+                </div>
+                <div class="example" onclick="executeExample('SELECT * FROM albums WHERE year > 1990 AND year < 2000 ORDER BY year;'); hideExamples();">
+                    <code>SELECT * FROM albums WHERE year > 1990 AND year < 2000 ORDER BY year;</code>
+                </div>
+                <div class="example" onclick="executeExample('SHOW TABLES;'); hideExamples();">
+                    <code>SHOW TABLES;</code>
+                </div>
+                <div class="example" onclick="executeExample('HELP'); hideExamples();">
+                    <code>HELP</code>
+                </div>
+                <div class="example" onclick="executeExample('CLEAR'); hideExamples();">
+                    <code>CLEAR</code>
+                </div>
+            </div>
+            
+            <!-- Modern Theme Examples -->
+            <div class="query-examples examples-modern">
+                <div class="example" onclick="executeExample('Pink Floyd'); hideExamples();">
+                    <span>Pink Floyd</span>
+                </div>
+                <div class="example" onclick="executeExample('David Bowie'); hideExamples();">
+                    <span>David Bowie</span>
+                </div>
+                <div class="example" onclick="executeExample('Electronic'); hideExamples();">
+                    <span>Electronic</span>
+                </div>
+                <div class="example" onclick="executeExample('Synth-pop'); hideExamples();">
+                    <span>Synth-pop</span>
+                </div>
+                <div class="example" onclick="executeExample('Rock'); hideExamples();">
+                    <span>Rock</span>
+                </div>
+                <div class="example" onclick="executeExample('Jazz'); hideExamples();">
+                    <span>Jazz</span>
+                </div>
+                <div class="example" onclick="executeExample('The Beatles'); hideExamples();">
+                    <span>The Beatles</span>
+                </div>
+                <div class="example" onclick="executeExample('Radiohead'); hideExamples();">
+                    <span>Radiohead</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+// Database search functionality
+let searchIndex = null;
+let commandHistory = [];
+let historyIndex = -1;
+
+// Load search index
+fetch('/index.json')
+    .then(response => response.json())
+    .then(data => {
+        searchIndex = data.documents;
+        console.log('Search index loaded:', searchIndex.length, 'records');
+    })
+    .catch(error => {
+        console.error('Failed to load search index:', error);
+    });
+
+// Initialize
+document.addEventListener('DOMContentLoaded', function() {
+    const queryInput = document.getElementById('queryInput');
+    
+    queryInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            const query = queryInput.value.trim();
+            if (query) {
+                executeQuery(query);
+                queryInput.value = '';
+            }
+        } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            if (historyIndex < commandHistory.length - 1) {
+                historyIndex++;
+                queryInput.value = commandHistory[commandHistory.length - 1 - historyIndex];
+            }
+        } else if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            if (historyIndex > 0) {
+                historyIndex--;
+                queryInput.value = commandHistory[commandHistory.length - 1 - historyIndex];
+            } else if (historyIndex === 0) {
+                historyIndex = -1;
+                queryInput.value = '';
+            }
+        }
+    });
+    
+    // Focus input on page load
+    queryInput.focus();
+});
+
+// Close modals with Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        hideExamples();
+    }
+});
+
+function executeExample(query) {
+    document.getElementById('queryInput').value = query;
+    executeQuery(query);
+}
+
+function executeQuery(query) {
+    if (!searchIndex) {
+        addCommandToHistory(query, null, 'Database not loaded. Please wait...');
+        return;
+    }
+    
+    // Add to history
+    commandHistory.push(query);
+    historyIndex = -1;
+    
+    // Check if it's a natural language query or SQL
+    const convertedQuery = convertNaturalLanguageQuery(query);
+    const actualQuery = convertedQuery.query;
+    const isConverted = convertedQuery.converted;
+    
+    // Parse and execute query
+    try {
+        const result = parseAndExecuteQuery(actualQuery);
+        
+        if (actualQuery.trim().toUpperCase() === 'CLEAR') {
+            clearTerminal();
+            return;
+        }
+        
+        if (result !== null) {
+            // Show original query and converted query if different
+            if (isConverted) {
+                addCommandToHistory(query, result, null, convertedQuery.convertedSql);
+            } else {
+                addCommandToHistory(actualQuery, result);
+            }
+        }
+    } catch (error) {
+        addCommandToHistory(query, null, 'Query Error: ' + error.message);
+    }
+}
+
+function parseAndExecuteQuery(query) {
+    const normalizedQuery = query.trim().toUpperCase();
+    
+    // Handle special commands
+    if (normalizedQuery === 'HELP') {
+        return showHelp();
+    }
+    
+    if (normalizedQuery === 'CLEAR') {
+        return null; // Handled in executeQuery
+    }
+    
+    if (normalizedQuery === 'SHOW TABLES;' || normalizedQuery === 'SHOW TABLES') {
+        return {
+            type: 'info',
+            content: [
+                { table: 'albums', description: 'Music album records' },
+                { table: 'artists', description: 'Artist information' },
+                { table: 'genres', description: 'Music genres' },
+                { table: 'styles', description: 'Music styles' }
+            ],
+            headers: ['Table', 'Description']
+        };
+    }
+    
+    if (normalizedQuery === 'DESCRIBE ALBUMS;' || normalizedQuery === 'DESCRIBE ALBUMS') {
+        return {
+            type: 'info',
+            content: [
+                { field: 'artist', type: 'VARCHAR(255)', description: 'Artist name' },
+                { field: 'album', type: 'VARCHAR(255)', description: 'Album title' },
+                { field: 'year', type: 'INT', description: 'Release year' },
+                { field: 'genre', type: 'TEXT', description: 'Music genres' },
+                { field: 'style', type: 'TEXT', description: 'Music styles' },
+                { field: 'release_id', type: 'VARCHAR(50)', description: 'Discogs release ID' }
+            ],
+            headers: ['Field', 'Type', 'Description']
+        };
+    }
+    
+    // Parse SELECT queries
+    const selectMatch = query.match(/SELECT\s+(.*?)\s+FROM\s+(\w+)(?:\s+WHERE\s+(.+?))?(?:\s+ORDER\s+BY\s+(.+?))?(?:\s+LIMIT\s+(\d+))?;?$/i);
+    
+    if (selectMatch) {
+        const [, fields, table, whereClause, orderBy, limit] = selectMatch;
+        
+        if (table.toLowerCase() !== 'albums') {
+            throw new Error('Only "albums" table is supported');
+        }
+        
+        let results = [...searchIndex];
+        
+        // Apply WHERE clause
+        if (whereClause) {
+            results = applyWhereClause(results, whereClause);
+        }
+        
+        // Apply ORDER BY
+        if (orderBy) {
+            results = applyOrderBy(results, orderBy);
+        }
+        
+        // Apply LIMIT
+        if (limit) {
+            results = results.slice(0, parseInt(limit));
+        }
+        
+        // Select fields
+        const selectedFields = fields.trim() === '*' ? null : 
+            fields.split(',').map(f => f.trim().toLowerCase());
+        
+        // Handle COUNT
+        if (fields.trim().toUpperCase() === 'COUNT(*)') {
+            return {
+                type: 'count',
+                content: [{ count: results.length }],
+                headers: ['COUNT(*)']
+            };
+        }
+        
+        return {
+            type: 'select',
+            content: results,
+            headers: selectedFields,
+            totalCount: results.length
+        };
+    }
+    
+    throw new Error('Invalid query syntax. Type HELP for assistance.');
+}
+
+function applyWhereClause(results, whereClause) {
+    // Handle nested queries for albums
+    const nestedMatch = whereClause.match(/artist\s*=\s*\(SELECT\s+artist\s+FROM\s+albums\s+WHERE\s+album\s*=\s*["']([^"']+)["']\s*LIMIT\s*1\)/i);
+    if (nestedMatch) {
+        const albumName = nestedMatch[1];
+        const albumRecord = results.find(record => record.album && record.album.toLowerCase() === albumName.toLowerCase());
+        if (albumRecord) {
+            return results.filter(record => record.artist === albumRecord.artist);
+        }
+        return [];
+    }
+    
+    // Handle OR conditions (for natural language searches)
+    if (whereClause.includes(' OR ')) {
+        const orConditions = whereClause.split(/\s+OR\s+/i);
+        return results.filter(record => {
+            return orConditions.some(condition => {
+                return evaluateCondition(record, condition.trim());
+            });
+        });
+    }
+    
+    // Handle AND conditions
+    const conditions = whereClause.split(/\s+AND\s+/i);
+    
+    return results.filter(record => {
+        return conditions.every(condition => {
+            return evaluateCondition(record, condition.trim());
+        });
+    });
+}
+
+function evaluateCondition(record, condition) {
+    // Handle LIKE operator
+    const likeMatch = condition.match(/(\w+)\s+LIKE\s+["']%([^%"']+)%["']/i);
+    if (likeMatch) {
+        const [, field, value] = likeMatch;
+        const fieldValue = getFieldValue(record, field.toLowerCase());
+        if (fieldValue === null || fieldValue === undefined) return false;
+        return fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+    }
+    
+    // Handle regular operators
+    const match = condition.match(/(\w+)\s*(=|>|<|>=|<=|!=)\s*["']?([^"']+)["']?/i);
+    if (!match) return true;
+    
+    const [, field, operator, value] = match;
+    const fieldValue = getFieldValue(record, field.toLowerCase());
+    
+    if (fieldValue === null || fieldValue === undefined) return false;
+    
+    switch (operator) {
+        case '=':
+            return fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+        case '!=':
+            return !fieldValue.toString().toLowerCase().includes(value.toLowerCase());
+        case '>':
+            return parseInt(fieldValue) > parseInt(value);
+        case '<':
+            return parseInt(fieldValue) < parseInt(value);
+        case '>=':
+            return parseInt(fieldValue) >= parseInt(value);
+        case '<=':
+            return parseInt(fieldValue) <= parseInt(value);
+        default:
+            return true;
+    }
+}
+
+function applyOrderBy(results, orderBy) {
+    const [field, direction] = orderBy.trim().split(/\s+/);
+    const isDesc = direction && direction.toUpperCase() === 'DESC';
+    
+    return results.sort((a, b) => {
+        const aVal = getFieldValue(a, field.toLowerCase());
+        const bVal = getFieldValue(b, field.toLowerCase());
+        
+        if (aVal < bVal) return isDesc ? 1 : -1;
+        if (aVal > bVal) return isDesc ? -1 : 1;
+        return 0;
+    });
+}
+
+function getFieldValue(record, field) {
+    switch (field) {
+        case 'artist':
+            return record.artist || '';
+        case 'album':
+            return record.album || '';
+        case 'title':
+            return record.title || '';
+        case 'year':
+            const year = record.date ? new Date(record.date).getFullYear() : 0;
+            return year;
+        case 'genre':
+            return Array.isArray(record.genres) ? record.genres.join(', ') : '';
+        case 'style':
+            return Array.isArray(record.styles) ? record.styles.join(', ') : '';
+        case 'release_id':
+            return record.discogsRelease || '';
+        default:
+            return record[field] || '';
+    }
+}
+
+function addCommandToHistory(query, result, errorMessage = null, convertedSql = null) {
+    const terminalContent = document.getElementById('terminalContent');
+    const currentPrompt = document.querySelector('.current-prompt');
+    const currentTheme = document.documentElement.getAttribute('data-era') || 'modern';
+    
+    // Only show command history in terminal theme
+    if (currentTheme === '80s') {
+        // Create completed command display
+        const commandDiv = document.createElement('div');
+        commandDiv.className = 'completed-command';
+        commandDiv.textContent = `user@russ-fm:~/collection$ ${query}`;
+        
+        // Insert before current prompt
+        terminalContent.insertBefore(commandDiv, currentPrompt);
+        
+        // If query was converted, show the SQL version
+        if (convertedSql) {
+            const convertedDiv = document.createElement('div');
+            convertedDiv.className = 'converted-query';
+            convertedDiv.textContent = `Converted: ${convertedSql}`;
+            terminalContent.insertBefore(convertedDiv, currentPrompt);
+        }
+    }
+    
+    // In modern theme, clear previous results (don't accumulate like terminal)
+    if (currentTheme === 'modern') {
+        const previousResults = terminalContent.querySelectorAll('.command-result');
+        previousResults.forEach(result => result.remove());
+    }
+    
+    // Create result display
+    const resultDiv = document.createElement('div');
+    resultDiv.className = 'command-result';
+    
+    if (errorMessage) {
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'error-message';
+        errorDiv.textContent = errorMessage;
+        resultDiv.appendChild(errorDiv);
+    } else if (result) {
+        if (result.type === 'help') {
+            resultDiv.appendChild(result.content);
+        } else if (result.type === 'info' || result.type === 'select' || result.type === 'count') {
+            const table = createResultTable(result);
+            resultDiv.appendChild(table);
+            
+            if (result.totalCount !== undefined) {
+                const countDiv = document.createElement('div');
+                countDiv.className = 'result-count';
+                countDiv.textContent = `${result.totalCount} row(s) returned`;
+                resultDiv.appendChild(countDiv);
+            }
+        }
+    }
+    
+    // Insert result before current prompt
+    terminalContent.insertBefore(resultDiv, currentPrompt);
+    
+    // Clear current input and focus it
+    const queryInput = document.getElementById('queryInput');
+    queryInput.value = '';
+    queryInput.focus();
+    
+    // Scroll to bottom
+    currentPrompt.scrollIntoView({ behavior: 'smooth' });
+}
+
+function createResultTable(result) {
+    const table = document.createElement('table');
+    table.className = 'results-table';
+    
+    // Headers
+    const thead = document.createElement('thead');
+    const headerRow = document.createElement('tr');
+    
+    if (result.type === 'count') {
+        const th = document.createElement('th');
+        th.textContent = 'COUNT(*)';
+        headerRow.appendChild(th);
+    } else if (result.headers) {
+        if (result.type === 'info') {
+            result.headers.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                headerRow.appendChild(th);
+            });
+        } else {
+            result.headers.forEach(field => {
+                const th = document.createElement('th');
+                th.textContent = field.toUpperCase();
+                headerRow.appendChild(th);
+            });
+        }
+    } else {
+        // Default headers for SELECT *
+        ['ARTIST', 'ALBUM', 'YEAR', 'GENRE', 'STYLE'].forEach(header => {
+            const th = document.createElement('th');
+            th.textContent = header;
+            headerRow.appendChild(th);
+        });
+    }
+    
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+    
+    // Body
+    const tbody = document.createElement('tbody');
+    
+    result.content.forEach(record => {
+        const row = document.createElement('tr');
+        
+        if (result.type === 'count') {
+            const td = document.createElement('td');
+            td.textContent = record.count;
+            row.appendChild(td);
+        } else if (result.type === 'info') {
+            Object.values(record).forEach(value => {
+                const td = document.createElement('td');
+                td.textContent = value;
+                row.appendChild(td);
+            });
+        } else {
+            if (result.headers) {
+                result.headers.forEach(field => {
+                    const td = document.createElement('td');
+                    const value = getFieldValue(record, field);
+                    
+                    // Create clickable links for artists and albums
+                    if (field === 'artist' && record.artistUri) {
+                        const link = document.createElement('a');
+                        link.href = record.artistUri;
+                        link.textContent = value;
+                        link.className = 'result-link';
+                        td.appendChild(link);
+                    } else if (field === 'album' && record.uri) {
+                        const link = document.createElement('a');
+                        link.href = record.uri;
+                        link.textContent = value;
+                        link.className = 'result-link';
+                        td.appendChild(link);
+                    } else {
+                        td.textContent = value;
+                    }
+                    
+                    row.appendChild(td);
+                });
+            } else {
+                // Default fields for SELECT *
+                const fields = ['artist', 'album', 'year', 'genre', 'style'];
+                fields.forEach(field => {
+                    const td = document.createElement('td');
+                    const value = getFieldValue(record, field);
+                    
+                    // Create clickable links for artists and albums
+                    if (field === 'artist' && record.artistUri) {
+                        const link = document.createElement('a');
+                        link.href = record.artistUri;
+                        link.textContent = value;
+                        link.className = 'result-link';
+                        td.appendChild(link);
+                    } else if (field === 'album' && record.uri) {
+                        const link = document.createElement('a');
+                        link.href = record.uri;
+                        link.textContent = value;
+                        link.className = 'result-link';
+                        td.appendChild(link);
+                    } else {
+                        td.textContent = value;
+                    }
+                    
+                    row.appendChild(td);
+                });
+            }
+        }
+        
+        tbody.appendChild(row);
+    });
+    
+    table.appendChild(tbody);
+    return table;
+}
+
+function showHelp() {
+    const helpDiv = document.createElement('div');
+    helpDiv.className = 'help-content';
+    
+    helpDiv.innerHTML = `
+        <h4>SQL Query Syntax</h4>
+        <ul>
+            <li><code>SELECT * FROM albums;</code> - Show all albums</li>
+            <li><code>SELECT artist, album FROM albums;</code> - Show specific fields</li>
+            <li><code>SELECT COUNT(*) FROM albums;</code> - Count records</li>
+            <li><code>WHERE artist = "Artist Name"</code> - Filter by artist</li>
+            <li><code>WHERE year > 1990</code> - Filter by year</li>
+            <li><code>WHERE genre = "Electronic"</code> - Filter by genre</li>
+            <li><code>ORDER BY year DESC</code> - Sort results</li>
+            <li><code>LIMIT 10</code> - Limit results</li>
+        </ul>
+        
+        <h4>Available Fields</h4>
+        <ul>
+            <li><code>artist</code> - Artist name</li>
+            <li><code>album</code> - Album title</li>
+            <li><code>year</code> - Release year</li>
+            <li><code>genre</code> - Music genre</li>
+            <li><code>style</code> - Music style</li>
+            <li><code>release_id</code> - Discogs release ID</li>
+        </ul>
+        
+        <h4>Special Commands</h4>
+        <ul>
+            <li><code>SHOW TABLES;</code> - List available tables</li>
+            <li><code>DESCRIBE albums;</code> - Show table structure</li>
+            <li><code>CLEAR</code> - Clear query results</li>
+            <li><code>HELP</code> - Show this help</li>
+        </ul>
+    `;
+    
+    return {
+        type: 'help',
+        content: helpDiv
+    };
+}
+
+
+function convertNaturalLanguageQuery(input) {
+    const trimmedInput = input.trim();
+    
+    // Check if it's already SQL (starts with SQL keywords)
+    const sqlKeywords = ['SELECT', 'SHOW', 'DESCRIBE', 'HELP', 'CLEAR'];
+    const firstWord = trimmedInput.split(' ')[0].toUpperCase();
+    
+    if (sqlKeywords.includes(firstWord)) {
+        return { query: trimmedInput, converted: false };
+    }
+    
+    // Convert any natural language input to search both artists and albums
+    const sqlQuery = `SELECT * FROM albums WHERE artist LIKE "%${trimmedInput}%" OR album LIKE "%${trimmedInput}%";`;
+    return {
+        query: sqlQuery,
+        converted: true,
+        convertedSql: sqlQuery
+    };
+}
+
+
+function clearTerminal() {
+    const terminalContent = document.getElementById('terminalContent');
+    const welcomeMessage = document.querySelector('.welcome-message');
+    const currentPrompt = document.querySelector('.current-prompt');
+    
+    // Remove everything except welcome message and current prompt
+    const children = Array.from(terminalContent.children);
+    children.forEach(child => {
+        if (child !== welcomeMessage && child !== currentPrompt) {
+            child.remove();
+        }
+    });
+    
+    // Clear and focus input
+    const queryInput = document.getElementById('queryInput');
+    queryInput.value = '';
+    queryInput.focus();
+}
+
+function showExamples() {
+    const modal = document.getElementById('examplesModal');
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function hideExamples() {
+    const modal = document.getElementById('examplesModal');
+    modal.classList.remove('active');
+    document.body.style.overflow = 'auto';
+}
+</script>
+{{ end }}

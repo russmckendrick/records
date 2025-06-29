@@ -1,0 +1,30 @@
+---
+title: "KillerStar"
+summary: |
+  KillerStar is a new band led by Rob Fleming (vocals, guitar, synths) and James Sedge (drums) which features an array of David Bowie’s most trusted collaborators: Mike Garson on piano, Earl Slick and Mark Plati on guitar, Gail Ann Dorsey and Tim Lefebvre on bass, Emm Gryner on backing vocals, and Donny McCaslin on saxophone. Collectively they have crafted a sound which fuses the scale of classic rock with sophisticated harmonies and elements of art rock.  KillerStar share their debut single ‘Should’ve Known Better’ ahead of their debut album, which will follow on March 1st 2024.<br><br> 
+  KillerStar make a big first impression with ‘Should’ve Known Better’. It’s an epic song which is rooted in Rob and James’s love of timeless music from the early 1970s to primeval rock ‘n’ roll and sleek hard rock, but its synth textures and driving guitar driven intensity provides a contemporary edge too. Rob’s voice – a vocal delivery filled with drama and conviction - adds another distinctive element, especially as it’s complemented by sophisticated, hook laden harmonies from Emm Gryner. Mike Garson contributes beautiful avant garde piano, Gail Ann Dorsey provides driving, melodic bass lines that lock in with the powerful drums from James Sedge. <br><br>
+  ‘Should’ve Known Better’ was written by Rob, who produced the track with James, before it was mixed by Dave Eringa (Manic Street Preachers, Idlewild) and mastered by Joe La Porta at Sterling Sound.<br><br>
+  Collectively, KillerStar’s musicians have contributed to almost every era of Bowie’s vast discography, from the landmark ‘Aladdin Sane’ to the final goodbye of ‘Blackstar’. Although, while the KillerStar name references one of Bowie’s relatively deeper cuts, ‘Should’ve Known Better’ really doesn’t feel like an homage to The Thin White Duke. And that’s simply because it was never intended to be one. Rob and James had recorded the first KillerStar demos independently, without any advance planning on who else would be involved.<br><br>
+  Earl Slick says, “Since Bowie died, we’ve all gone off in different directions, but with this album we worked on new material and that was great.”<br><br>
+  As you’ll eventually hear on KillerStar’s eponymously named album, there are fleeting touches that recall classic Bowie moments, but really this is something altogether new and exciting. Bowie chose these musicians for their unique style and ability, and that is what they have brought to the record: reunited friends and some new connections, all playing to complement the songwriting rather than to retread the iconic music they created alongside their visionary former leader.<br><br>
+  As Emm Gryner considers, “The Bowie alumni have a very special bond and we always will. David united us in a truly special way, where we spent a lot of time together, and to be able to hear each other again in this way was unique. I am sure David would have loved this album.”
+slug: "killerstar"
+image: "killerstar.jpg"
+apple_music_artist_url: ""
+wikipedia_url: ""
+discogs_url: ""
+---
+
+KillerStar is a new band led by Rob Fleming (vocals, guitar, synths) and James Sedge (drums) which features an array of David Bowie’s most trusted collaborators: Mike Garson on piano, Earl Slick and Mark Plati on guitar, Gail Ann Dorsey and Tim Lefebvre on bass, Emm Gryner on backing vocals, and Donny McCaslin on saxophone. Collectively they have crafted a sound which fuses the scale of classic rock with sophisticated harmonies and elements of art rock.  KillerStar share their debut single ‘Should’ve Known Better’ ahead of their debut album, which will follow on March 1st 2024. 
+
+KillerStar make a big first impression with ‘Should’ve Known Better’. It’s an epic song which is rooted in Rob and James’s love of timeless music from the early 1970s to primeval rock ‘n’ roll and sleek hard rock, but its synth textures and driving guitar driven intensity provides a contemporary edge too. Rob’s voice – a vocal delivery filled with drama and conviction - adds another distinctive element, especially as it’s complemented by sophisticated, hook laden harmonies from Emm Gryner. Mike Garson contributes beautiful avant garde piano, Gail Ann Dorsey provides driving, melodic bass lines that lock in with the powerful drums from James Sedge. 
+
+‘Should’ve Known Better’ was written by Rob, who produced the track with James, before it was mixed by Dave Eringa (Manic Street Preachers, Idlewild) and mastered by Joe La Porta at Sterling Sound.
+
+Collectively, KillerStar’s musicians have contributed to almost every era of Bowie’s vast discography, from the landmark ‘Aladdin Sane’ to the final goodbye of ‘Blackstar’. Although, while the KillerStar name references one of Bowie’s relatively deeper cuts, ‘Should’ve Known Better’ really doesn’t feel like an homage to The Thin White Duke. And that’s simply because it was never intended to be one. Rob and James had recorded the first KillerStar demos independently, without any advance planning on who else would be involved.
+
+Earl Slick says, “Since Bowie died, we’ve all gone off in different directions, but with this album we worked on new material and that was great.”
+
+As you’ll eventually hear on KillerStar’s eponymously named album, there are fleeting touches that recall classic Bowie moments, but really this is something altogether new and exciting. Bowie chose these musicians for their unique style and ability, and that is what they have brought to the record: reunited friends and some new connections, all playing to complement the songwriting rather than to retread the iconic music they created alongside their visionary former leader.
+
+As Emm Gryner considers, “The Bowie alumni have a very special bond and we always will. David united us in a truly special way, where we spent a lot of time together, and to be able to hear each other again in this way was unique. I am sure David would have loved this album.”

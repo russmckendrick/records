@@ -1,0 +1,46 @@
+{{ define "window_title" }}STATS{{ end }}
+
+{{ define "main" }}
+<div class="stats-container">
+    <div class="stats-summary">
+        <div class="stat-item">
+            <span class="stat-label">Total Albums</span>
+            <span class="stat-value" id="total-albums">...</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-label">Unique Artists</span>
+            <span class="stat-value" id="unique-artists">...</span>
+        </div>
+    </div>
+
+    <div class="stats-grid">
+        <div class="stats-section">
+            <h2>TOP ARTISTS</h2>
+            <ul class="top-list" id="top-artists">
+                <li class="loading">Loading...</li>
+            </ul>
+            <div class="chart-wrapper">
+                <canvas id="top-artists-chart"></canvas>
+            </div>
+        </div>
+
+        <div class="stats-section">
+            <h2>GENRE DISTRIBUTION</h2>
+            <div class="chart-wrapper pie-chart">
+                <canvas id="genre-chart"></canvas>
+            </div>
+        </div>
+
+        <div class="stats-section full-width">
+            <h2>ALBUMS BY YEAR</h2>
+            <div class="chart-wrapper">
+                <canvas id="albums-by-year-chart"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/record-stats-retro.js"></script>
+{{ end }}

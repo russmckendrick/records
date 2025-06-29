@@ -1,0 +1,76 @@
+// Taxonomy Page Styles (Individual Genre/Style Pages)
+// Album listings with pagination and view toggles
+
+/* Taxonomy Page Styles */
+.taxonomy-header {
+    margin: 2rem 0;
+    padding: 2rem;
+    border: 1px solid var(--border-color);
+    background: var(--window-bg);
+    text-align: center;
+}
+
+
+.taxonomy-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+    letter-spacing: 0.1em;
+}
+
+.taxonomy-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.album-count {
+    color: var(--accent-color);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.taxonomy-type {
+    color: var(--secondary-text);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid var(--border-color);
+    background: var(--highlight-bg);
+}
+
+
+/* View controls, database grid, and card styles are inherited from homepage styles */
+
+/* Card View and list views inherit from homepage styles */
+/* No need to duplicate card styles here */
+
+@media (max-width: 768px) {
+    .taxonomy-header {
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+    
+    .taxonomy-title {
+        font-size: 1.8rem;
+    }
+    
+    .taxonomy-stats {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+/* Pagination styles are inherited from homepage styles */
+
+@media (max-width: 480px) {
+    .taxonomy-title {
+        font-size: 1.5rem;
+    }
+}

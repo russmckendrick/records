@@ -18,7 +18,7 @@ firstPageSubheader = "and this is my record collection, listed in the order I pu
 themeColor = "#fff"
 
 [options]
-  bootStrapJs = true
+  bootStrapJs = false
   breadCrumb = true
   listCategoryFilter = true
   listTagFilter = true

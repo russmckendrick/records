@@ -1,0 +1,45 @@
+// Retro Terminal/Modern Theme Variables
+// CSS Custom Properties for Terminal/Modern theme switching
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+    /* 80s Terminal Mode - Dark Theme */
+    --bg-color: #0a0a0a;
+    --text-color: #00ff41;
+    --accent-color: #ffff00;
+    --border-color: #00ff41;
+    --window-bg: #000000;
+    --secondary-text: #888888;
+    --highlight-bg: rgba(0, 255, 65, 0.1);
+    --font-family: 'JetBrains Mono', monospace;
+    --window-border: 2px solid var(--border-color);
+    --scanline-opacity: 0.05;
+    --shadow: none;
+    --border-radius: 0;
+    --hover-bg: rgba(0, 255, 65, 0.05);
+}
+
+[data-era="modern"] {
+    /* Ultra-Modern 2025 Light Web Design */
+    --bg-color: #ffffff;
+    --text-color: #0f172a;
+    --accent-color: #6366f1;
+    --border-color: rgba(15, 23, 42, 0.08);
+    --window-bg: #ffffff;
+    --secondary-text: #64748b;
+    --highlight-bg: rgba(99, 102, 241, 0.04);
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --window-border: 1px solid var(--border-color);
+    --scanline-opacity: 0;
+    --shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.08);
+    --border-radius: 12px;
+    --hover-bg: rgba(15, 23, 42, 0.04);
+    --glass-bg: rgba(255, 255, 255, 0.85);
+    --glass-border: rgba(15, 23, 42, 0.1);
+    --gradient-primary: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+    --gradient-accent: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%);
+    --surface-elevated: #fefefe;
+    --surface-hover: rgba(99, 102, 241, 0.02);
+}
