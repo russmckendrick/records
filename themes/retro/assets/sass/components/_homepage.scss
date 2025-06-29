@@ -26,6 +26,15 @@
     display: none;
 }
 
+/* Show/hide footer text based on theme */
+[data-era="80s"] .footer-modern {
+    display: none;
+}
+
+[data-era="modern"] .footer-terminal {
+    display: none;
+}
+
 .terminal-input {
     background: var(--window-bg);
     color: var(--text-color);

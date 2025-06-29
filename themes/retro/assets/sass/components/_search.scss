@@ -18,10 +18,25 @@
     display: none;
 }
 
-/* Modern theme: move search box to top */
+/* Modern theme: reorder layout for better UX */
 [data-era="modern"] .terminal-content {
     display: flex;
     flex-direction: column;
+}
+
+[data-era="modern"] .welcome-message {
+    order: -2;
+    margin-bottom: 2rem;
+}
+
+/* Modern theme header styling */
+.search-header {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin: 0;
+    text-align: center;
+    letter-spacing: 0.05em;
 }
 
 [data-era="modern"] .current-prompt {

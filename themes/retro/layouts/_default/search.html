@@ -21,15 +21,13 @@ DATABASE QUERY TERMINAL
                 
                 <!-- Modern Theme Welcome -->
                 <div class="system-info welcome-modern">
-                    <p>Search your music collection</p>
-                    <p>Browse <span id="recordCountModern">{{ len .Site.RegularPages }}</span> albums from <span id="artistCountModern">{{ len (where .Site.Pages "Section" "artist") }}</span> artists</p>
-                    <p>Find albums by artist name, album title, or try <a href="#" onclick="showExamples(); return false;" class="examples-link">example searches</a>.</p>
+                    <h1 class="search-header">Music Collection Search</h1>
                 </div>
             </div>
             
             <div class="current-prompt">
                 <span class="prompt-user prompt-terminal">user@russ-fm:~/collection$</span>
-                <span class="prompt-user prompt-modern">Search Collection</span>
+                <span class="prompt-user prompt-modern">Search Collection (<a href="#" onclick="showExamples(); return false;" class="examples-link">examples</a>)</span>
                 <input type="text" 
                        id="queryInput" 
                        class="terminal-input sql-search-input"
