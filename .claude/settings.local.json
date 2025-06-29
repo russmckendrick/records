@@ -13,7 +13,8 @@
       "Bash(rm:*)",
       "Bash(ls:*)",
       "Bash(mv:*)",
-      "Bash(rg:*)"
+      "Bash(rg:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }

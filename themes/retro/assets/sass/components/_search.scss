@@ -1,5 +1,5 @@
 // Search Page Styles
-// Terminal database interface for 80s, modern search for 90s
+// Database terminal interface with query functionality
 
 .database-terminal {
     background: var(--window-bg);
@@ -265,32 +265,6 @@
 .help-content code {
     color: var(--accent-color);
     font-family: var(--font-family);
-}
-
-/* Modern theme overrides */
-[data-era="modern"] .prompt-user {
-    display: none;
-}
-
-[data-era="modern"] #queryInput {
-    border: 1px inset #c0c0c0;
-    background: white;
-    color: black;
-    padding: 0.75rem;
-    font-size: 1.1rem;
-    width: 100%;
-}
-
-[data-era="modern"] .current-prompt {
-    margin: 2rem 0;
-}
-
-[data-era="modern"] .completed-command {
-    display: none;
-}
-
-[data-era="modern"] .converted-query {
-    display: none;
 }
 
 @media (max-width: 768px) {
