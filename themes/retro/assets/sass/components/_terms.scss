@@ -183,26 +183,9 @@
     text-decoration: none;
 }
 
-/* Table Styles */
+/* Table Styles - Only terms-specific styles, database styles inherited from homepage */
 .terms-table-container {
     margin: 2rem 0;
-}
-
-.db-section {
-    margin: 1rem 0;
-}
-
-.db-header {
-    display: grid;
-    grid-template-columns: 80px 3fr 1fr 100px;
-    gap: 1rem;
-    padding: 1rem 0;
-    border-bottom: 2px solid var(--border-color);
-    margin-bottom: 1rem;
-    font-weight: 600;
-    color: var(--text-color);
-    text-transform: uppercase;
-    font-size: 0.8rem;
 }
 
 .sortable {
@@ -223,30 +206,6 @@
     opacity: 0.7;
 }
 
-.db-row {
-    display: grid;
-    grid-template-columns: 80px 3fr 1fr 100px;
-    gap: 1rem;
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--border-color);
-    transition: all 0.3s ease;
-    cursor: pointer;
-    align-items: center;
-}
-
-.db-row:hover {
-    background: var(--highlight-bg);
-}
-
-[data-era="modern"] .db-row:hover {
-    background: var(--highlight-bg);
-    color: white;
-}
-
-.db-row.hidden {
-    display: none;
-}
-
 .term-name {
     color: var(--text-color);
     font-weight: 500;
@@ -255,31 +214,6 @@
 .term-count {
     color: var(--secondary-text);
     font-weight: 600;
-}
-
-.record-id {
-    font-family: var(--font-family);
-    color: var(--secondary-text);
-    font-size: 0.8rem;
-}
-
-.status-indicator {
-    width: 8px;
-    height: 8px;
-    background: var(--accent-color);
-    border-radius: 50%;
-    animation: pulse 2s infinite;
-}
-
-[data-era="modern"] .status-indicator {
-    border-radius: 0;
-    background: #008000;
-}
-
-@keyframes pulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.3; }
-    100% { opacity: 1; }
 }
 
 @media (max-width: 768px) {
@@ -306,17 +240,6 @@
         text-align: center;
     }
     
-    .db-header {
-        display: none;
-    }
-    
-    .db-row {
-        display: block;
-        padding: 1rem;
-        border: 1px solid var(--border-color);
-        margin-bottom: 0.5rem;
-        border-radius: 3px;
-    }
     
     .alpha-nav {
         font-size: 0.8rem;

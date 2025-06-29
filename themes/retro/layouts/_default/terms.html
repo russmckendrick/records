@@ -45,14 +45,17 @@
                 ID 
                 <span class="sort-indicator" id="sort-id"></span>
             </div>
+            <div>ART</div>
             <div class="sortable" onclick="sortBy('name')">
                 {{ .Title | upper }}_NAME 
                 <span class="sort-indicator" id="sort-name">↑</span>
             </div>
+            <div>ARTIST_NAME</div>
             <div class="sortable" onclick="sortBy('count')">
                 ALBUM_COUNT 
                 <span class="sort-indicator" id="sort-count"></span>
             </div>
+            <div>DATE_ADDED</div>
             <div>STATUS</div>
         </div>
         
@@ -65,8 +68,11 @@
                  data-letter="{{ upper (substr $term.Page.Title 0 1) }}"
                  onclick="window.location.href='{{ $term.Page.RelPermalink | relURL }}'">
                 <div class="record-id">#{{ printf "%04d" (add $index 1) }}</div>
+                <div class="album-cover-mini"></div>
                 <div class="term-name">{{ $term.Page.Title }}</div>
+                <div class="artist-name">-</div>
                 <div class="term-count">{{ $term.Count }}</div>
+                <div class="date-added">-</div>
                 <div><div class="status-indicator"></div></div>
             </div>
             {{ end }}
@@ -110,12 +116,10 @@ function disableEmptyLetters() {
         if (letter === '#') {
             if (!hasNonAlphabetic) {
                 link.classList.add('disabled');
-                link.style.pointerEvents = 'none';
             }
         } else {
             if (!availableLetters.has(letter)) {
                 link.classList.add('disabled');
-                link.style.pointerEvents = 'none';
             }
         }
     });
@@ -239,6 +243,12 @@ function updateTermCount() {
 document.querySelectorAll('.alpha-link[data-letter]').forEach(link => {
     link.addEventListener('click', function(e) {
         e.preventDefault();
+        
+        // Don't process if this letter is disabled
+        if (this.classList.contains('disabled')) {
+            return;
+        }
+        
         const letter = this.dataset.letter;
         
         // Clear search
