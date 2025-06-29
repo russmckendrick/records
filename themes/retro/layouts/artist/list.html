@@ -12,16 +12,16 @@
     {{ partial "artist-detail.html" . }}
 {{ else }}
     <!-- Artist Listing Page -->
-    <div class="stats-section">
-        <div class="stat-item">
+    <div class="system-stats">
+        <div class="stat-block">
             <span class="stat-value">{{ len .Pages }}</span>
             <span class="stat-label">TOTAL ARTISTS</span>
         </div>
-        <div class="stat-item">
+        <div class="stat-block">
             <span class="stat-value">{{ len (where .Site.RegularPages "Type" "albums") }}</span>
             <span class="stat-label">ALBUMS</span>
         </div>
-        <div class="stat-item">
+        <div class="stat-block">
             <span class="stat-value">{{ len .Site.Taxonomies.genres }}</span>
             <span class="stat-label">GENRES</span>
         </div>

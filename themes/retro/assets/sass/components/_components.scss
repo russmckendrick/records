@@ -89,26 +89,7 @@
     transition: width 0.3s ease;
 }
 
-/* Stats Section */
-.stats-section {
-    padding: 1.5rem 2rem;
-    border-bottom: 1px solid var(--border-color);
-    display: flex;
-    gap: 2rem;
-    flex-wrap: wrap;
-}
-
-.stat-item {
-    text-align: center;
-}
-
-.stat-value {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--accent-color);
-    display: block;
-    margin-bottom: 0.3rem;
-}
+/* Stats Section - Remove ugly styling, use homepage styles instead */
 
 /* Search Components */
 .search-controls {

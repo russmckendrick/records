@@ -90,77 +90,7 @@
     letter-spacing: 0.1em;
 }
 
-/* View Toggle */
-.view-controls {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 2rem 0 1rem 0;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid var(--border-color);
-}
-
-/* Hide view toggle in both modes - each theme has its dedicated view */
-.view-toggle {
-    display: none;
-}
-
-.view-controls {
-    display: none;
-}
-
-.view-title {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: var(--text-color);
-}
-
-.view-toggle {
-    display: flex;
-    gap: 0.5rem;
-}
-
-.view-btn {
-    background: var(--window-bg);
-    color: var(--text-color);
-    border: 1px solid var(--border-color);
-    padding: 0.5rem 1rem;
-    font-family: var(--font-family);
-    font-size: 0.8rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.view-btn.active {
-    background: var(--highlight-bg);
-    color: var(--accent-color);
-}
-
-[data-era="modern"] .view-btn {
-    background: var(--surface-elevated);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    color: var(--text-color);
-    transition: all 0.2s ease;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-}
-
-[data-era="modern"] .view-btn:hover {
-    background: var(--surface-hover);
-    border-color: var(--accent-color);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-[data-era="modern"] .view-btn.active {
-    background: var(--accent-color);
-    color: white;
-    border-color: var(--accent-color);
-    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
-}
+/* View controls removed from homepage - themes control view automatically */
 
 /* Database Grid */
 .db-section {

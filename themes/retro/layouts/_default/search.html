@@ -1,4 +1,10 @@
-{{ define "window_title" }}DATABASE QUERY TERMINAL{{ end }}
+{{ define "window_title" }}
+{{- if eq ($.Param "era") "modern" -}}
+SEARCH COLLECTION
+{{- else -}}
+DATABASE QUERY TERMINAL
+{{- end -}}
+{{ end }}
 
 {{ define "main" }}
 <div class="database-terminal">
@@ -6,10 +12,17 @@
         <div class="terminal-content" id="terminalContent">
             <div class="welcome-message">
                 <div class="system-info">
+                    {{- if eq ($.Param "era") "modern" -}}
+                    <p>Music Collection Search</p>
+                    <p>Total albums: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
+                    <p>Total artists: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
+                    <p>Enter an artist or album name to search, or <a href="#" onclick="showExamples(); return false;" class="examples-link">view examples</a>.</p>
+                    {{- else -}}
                     <p>Database initialized: {{ now.Format "2006-01-02 15:04:05" }}</p>
                     <p>Records loaded: <span id="recordCount">{{ len .Site.RegularPages }}</span></p>
                     <p>Artists indexed: <span id="artistCount">{{ len (where .Site.Pages "Section" "artist") }}</span></p>
                     <p>Type 'HELP' for query syntax or <a href="#" onclick="showExamples(); return false;" class="examples-link">view example queries</a>.</p>
+                    {{- end -}}
                 </div>
             </div>
             
@@ -17,7 +30,7 @@
                 <span class="prompt-user">user@russ-fm:~/collection$</span>
                 <input type="text" 
                        id="queryInput" 
-                       placeholder="Enter SQL query..."
+                       placeholder="{{ if eq ($.Param "era") "modern" }}Search for artist or album...{{ else }}Enter SQL query...{{ end }}"
                        autocomplete="off"
                        spellcheck="false">
             </div>
@@ -30,7 +43,7 @@
 <div id="examplesModal" class="examples-modal" onclick="hideExamples()">
     <div class="examples-modal-content" onclick="event.stopPropagation()">
         <div class="examples-modal-header">
-            <h3>Example Queries</h3>
+            <h3>{{ if eq ($.Param "era") "modern" }}Example Searches{{ else }}Example Queries{{ end }}</h3>
             <button class="close-btn" onclick="hideExamples()">✕</button>
         </div>
         <div class="examples-modal-body">
@@ -61,7 +74,6 @@
     </div>
 </div>
 
-<style>
 .database-terminal {
     background: var(--window-bg);
     color: var(--text-color);
@@ -358,7 +370,6 @@
         padding: 0.5rem;
     }
 }
-</style>
 
 <script>
 // Database search functionality

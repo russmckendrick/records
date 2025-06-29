@@ -24,5 +24,17 @@
 // 7. Homepage specific styles  
 @import "components/homepage";
 
-// 8. Responsive design breakpoints
+// 8. Stats page specific styles
+@import "components/stats";
+
+// 9. Terms page specific styles (Genres/Styles listing)
+@import "components/terms";
+
+// 10. Taxonomy page specific styles (Individual genre/style pages)
+@import "components/taxonomy";
+
+// 11. Search page specific styles
+@import "components/search";
+
+// 12. Responsive design breakpoints
 @import "components/responsive";
