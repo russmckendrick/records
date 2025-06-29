@@ -9,12 +9,20 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=MS+Sans+Serif:wght@400;700&display=swap" rel="stylesheet">
     
+    <!-- Prevent FOUC: Set theme before CSS loads -->
+    <script>
+        (function() {
+            const savedTheme = localStorage.getItem('theme') || 'modern';
+            document.documentElement.setAttribute('data-era', savedTheme);
+        })();
+    </script>
+    
     <!-- Search Styles -->
     <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
     <!-- Base URL for JavaScript -->
     <meta name="base-url" content="{{ .Site.BaseURL }}">
 </head>
-<body data-era="modern">
+<body>
     <!-- Header -->
     <header class="header">
         <nav class="nav">
@@ -44,50 +52,54 @@
 
     <!-- JavaScript for Theme Switching -->
     <script>
-        // Load saved theme on page load
+        // Sync body data-era with html data-era on page load
         document.addEventListener('DOMContentLoaded', function() {
-            const savedTheme = localStorage.getItem('theme') || 'modern';
-            setTheme(savedTheme);
+            const currentTheme = document.documentElement.getAttribute('data-era') || 'modern';
+            document.body.setAttribute('data-era', currentTheme);
+            updateThemeUI(currentTheme);
         });
 
         function toggleTheme() {
-            const currentEra = document.body.getAttribute('data-era');
+            const currentEra = document.documentElement.getAttribute('data-era');
             const newEra = currentEra === '80s' ? 'modern' : '80s';
             setTheme(newEra);
         }
 
         function setTheme(era) {
+            document.documentElement.setAttribute('data-era', era);
             document.body.setAttribute('data-era', era);
             localStorage.setItem('theme', era);
-            
-            // Views are now handled automatically by CSS theme selectors
-            // No manual view switching needed
-            
+            updateThemeUI(era);
+        }
+
+        function updateThemeUI(era) {
             // Update system version for era
             const versionEl = document.querySelector('.system-version');
             const iconEl = document.getElementById('themeIcon');
             const labelEl = document.getElementById('themeLabel');
             
-            if (era === '80s') {
-                versionEl.textContent = 'MUSIC_DB v2.1.4';
-                labelEl.textContent = 'TERMINAL';
-                iconEl.innerHTML = `
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M13 15H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                        <path d="M8 15L10.5 12.5V12.5C10.7761 12.2239 10.7761 11.7761 10.5 11.5V11.5L8 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M3 8C3 6.11438 3 5.17157 3.58579 4.58579C4.17157 4 5.11438 4 7 4H12H17C18.8856 4 19.8284 4 20.4142 4.58579C21 5.17157 21 6.11438 21 8V12V16C21 17.8856 21 18.8284 20.4142 19.4142C19.8284 20 18.8856 20 17 20H12H7C5.11438 20 4.17157 20 3.58579 19.4142C3 18.8284 3 17.8856 3 16V12V8Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
-                    </svg>
-                `;
-            } else {
-                versionEl.textContent = 'Music Collection';
-                labelEl.textContent = 'MODERN';
-                iconEl.innerHTML = `
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                `;
+            if (versionEl && iconEl && labelEl) {
+                if (era === '80s') {
+                    versionEl.textContent = 'MUSIC_DB v2.1.4';
+                    labelEl.textContent = 'TERMINAL';
+                    iconEl.innerHTML = `
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M13 15H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M8 15L10.5 12.5V12.5C10.7761 12.2239 10.7761 11.7761 10.5 11.5V11.5L8 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M3 8C3 6.11438 3 5.17157 3.58579 4.58579C4.17157 4 5.11438 4 7 4H12H17C18.8856 4 19.8284 4 20.4142 4.58579C21 5.17157 21 6.11438 21 8V12V16C21 17.8856 21 18.8284 20.4142 19.4142C19.8284 20 18.8856 20 17 20H12H7C5.11438 20 4.17157 20 3.58579 19.4142C3 18.8284 3 17.8856 3 16V12V8Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                        </svg>
+                    `;
+                } else {
+                    versionEl.textContent = 'Music Collection';
+                    labelEl.textContent = 'MODERN';
+                    iconEl.innerHTML = `
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    `;
+                }
             }
         }
     </script>
