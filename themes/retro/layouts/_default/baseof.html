@@ -78,6 +78,9 @@
             const iconEl = document.getElementById('themeIcon');
             const labelEl = document.getElementById('themeLabel');
             
+            // Update homepage search placeholder
+            const searchInput = document.getElementById('terminal-search-input');
+            
             if (versionEl && iconEl && labelEl) {
                 if (era === '80s') {
                     versionEl.textContent = 'MUSIC_DB v2.1.4';
@@ -99,6 +102,15 @@
                             <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
                     `;
+                }
+            }
+            
+            // Update homepage search placeholder if present
+            if (searchInput) {
+                if (era === '80s') {
+                    searchInput.placeholder = 'Enter SQL query...';
+                } else {
+                    searchInput.placeholder = 'Enter Artist or Album name';
                 }
             }
         }
