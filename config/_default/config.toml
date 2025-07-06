@@ -1,4 +1,4 @@
-baseURL = 'https://www.russ.fm/'
+baseURL = 'https://v1.russ.fm/'
 title = "russFM"
 author = "Russ McKendrick"
 copyright = "<a class=\"text-muted text-decoration-none\" href=\"/\">🎧 russFM</a>"
